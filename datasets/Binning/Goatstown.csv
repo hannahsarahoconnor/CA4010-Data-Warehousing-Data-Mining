@@ -1,0 +1,481 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+11/02/2010,"42 Knocknashee, Goatstown",Dublin,750000.0,No,Goatstown,Dublin 14,q4,90%
+12/02/2010,"22 Eden Park Road, Goatstown",Dublin,620000.0,No,Goatstown,Dublin 14,q3,70%
+19/02/2010,"Thendara, Mount Anville Road, Goatstown",Dublin,490000.0,No,Goatstown,Dublin 14,q2,50%
+25/02/2010,"26 Larchfield Road, Goatstown",Dublin,475000.0,No,Goatstown,Dublin 14,q2,50%
+23/03/2010,"55 Taney Avenue, Goatstown",Dublin,425000.0,No,Goatstown,Dublin 14,q2,40%
+26/04/2010,"29 Farmhill Road, Goatstown, Dublin 14",Dublin,502000.0,No,Goatstown,Dublin 14,q3,60%
+30/04/2010,"9 Goatstown Avenue, Goatstown",Dublin,465000.0,No,Goatstown,Dublin 14,q2,50%
+05/05/2010,"54 Mount Carmel Road, Goatstown",Dublin,500000.0,No,Goatstown,Dublin 14,q3,60%
+06/05/2010,"14 Farmhill Drive, Goatstown",Dublin,600000.0,No,Goatstown,Dublin 14,q3,70%
+03/06/2010,"35 Birchfield Park, Goatstown",Dublin,495000.0,No,Goatstown,Dublin 14,q2,50%
+17/06/2010,"54 Farmhill Road, Goatstown, Dublin 14",Dublin,455000.0,No,Goatstown,Dublin 14,q2,40%
+30/06/2010,"2 Eden Park Avenue, Goatstown",Dublin,455000.0,No,Goatstown,Dublin 14,q2,40%
+02/07/2010,"21 Taney Grove, Dundrum, Goatstown",Dublin,457500.0,No,Goatstown,Dublin 14,q2,40%
+08/07/2010,"19 Eden Park Drive, Goatstown, Dublin 14",Dublin,492500.0,No,Goatstown,Dublin 14,q2,50%
+15/07/2010,"122 Mount Anville Park, Goatstown, Dublin 14",Dublin,707000.0,No,Goatstown,Dublin 14,q4,90%
+16/07/2010,"83 Trimbleston, Goatstown Road",Dublin,400000.0,No,Goatstown,Dublin 14,q2,30%
+23/07/2010,"6 Taney Rise, Goatstown",Dublin,470000.0,No,Goatstown,Dublin 14,q2,50%
+26/07/2010,"7 Mount Anville Park, Goatstown",Dublin,978000.0,No,Goatstown,Dublin 14,q4,100%
+10/08/2010,"17 Larchfield Park, Goatstown",Dublin,520000.0,No,Goatstown,Dublin 14,q3,60%
+25/08/2010,"9 Birchfield Court, Goatstown",Dublin,460000.0,No,Goatstown,Dublin 14,q2,50%
+30/08/2010,"122 Taney Crescent, Goatstown",Dublin,335000.0,No,Goatstown,Dublin 14,q1,20%
+20/09/2010,"13  Farmhill Park, Goatstown",Dublin,355000.0,No,Goatstown,Dublin 14,q1,20%
+28/09/2010,"16 Farmhill Road, Goatstown, Dublin 14",Dublin,490000.0,No,Goatstown,Dublin 14,q2,50%
+12/10/2010,"24 Drummartin Terrace, Goatstown, Dublin 14",Dublin,275000.0,No,Goatstown,Dublin 14,q1,10%
+11/11/2010,"34 Belfield Downs, Belfield, Goatstown Road",Dublin,425000.0,No,Goatstown,Dublin 14,q2,40%
+15/12/2010,"Apartment 153 Trimbleston, Goatstown Road, Goatstown",Dublin,370044.05,Yes,Goatstown,Dublin 14,q1,20%
+17/12/2010,"7 Drummartin Close, Goatstown",Dublin,385000.0,No,Goatstown,Dublin 14,q1,30%
+20/12/2010,"2 Taney Crescent, Goatstown",Dublin,580000.0,No,Goatstown,Dublin 14,q3,70%
+10/02/2011,"1 Goatstown Close, Goatstown",Dublin,300000.0,Yes,Goatstown,Dublin 14,q1,10%
+21/02/2011,"9 Larchfield Park, Goatstown",Dublin,444000.0,No,Goatstown,Dublin 14,q2,40%
+15/03/2011,"44 Mount Carmel Road, Goatstown",Dublin,432500.0,No,Goatstown,Dublin 14,q2,40%
+24/03/2011,"Apartment 18  Block 1, Trimbleston  Goatstown Rod, Dublin 14",Dublin,410000.0,No,Goatstown,Dublin 14,q2,30%
+01/04/2011,"6 Mount Carmel Road, Goatstown, Dublin 14",Dublin,450000.0,No,Goatstown,Dublin 14,q2,40%
+20/04/2011,"61 Larchfield Road, Goatstown",Dublin,675000.0,No,Goatstown,Dublin 14,q4,80%
+20/05/2011,"14 Hollywood Drive, Goatstown",Dublin,396000.0,No,Goatstown,Dublin 14,q2,30%
+23/05/2011,"46 Larchfield Road, Goatstown",Dublin,427500.0,No,Goatstown,Dublin 14,q2,40%
+27/05/2011,"39 Mount Anville Wood, Goatstown, Dublin 14",Dublin,457000.0,No,Goatstown,Dublin 14,q2,40%
+15/06/2011,"Apartment 110, Block 9 Trimbleston, Goatstown",Dublin,742978.0,Yes,Goatstown,Dublin 14,q4,90%
+17/06/2011,"32 Mount Anville Park, Goatstown, Dublin 14",Dublin,520000.0,No,Goatstown,Dublin 14,q3,60%
+15/07/2011,"100 Taney Road, Goatstown, Dublin 14",Dublin,400000.0,No,Goatstown,Dublin 14,q2,30%
+18/07/2011,"128 The Cherry, Trimbleston, Goatstown Road",Dublin,280000.0,No,Goatstown,Dublin 14,q1,10%
+18/07/2011,"5 Hollwood Park, Goatstown, Dublin 14",Dublin,395000.0,No,Goatstown,Dublin 14,q1,30%
+18/07/2011,"Apartment 205, Trimbleston, Goatstown Road",Dublin,291000.0,No,Goatstown,Dublin 14,q1,10%
+03/08/2011,"29 Taney Avenue, Goatstown",Dublin,275000.0,No,Goatstown,Dublin 14,q1,10%
+06/09/2011,"65 Larchfield, Goatstown, Dublin 14",Dublin,410000.0,No,Goatstown,Dublin 14,q2,30%
+09/09/2011,"17 Taney Court, Goatstown, Dublin 14",Dublin,185000.0,No,Goatstown,Dublin 14,q1,10%
+12/09/2011,"Thornbury, Knocknashee, Goatstown",Dublin,580000.0,No,Goatstown,Dublin 14,q3,70%
+13/09/2011,"7 Eden Park Avenue, Goatstown, Dublin 14",Dublin,307000.0,No,Goatstown,Dublin 14,q1,10%
+14/09/2011,"2 Harlech Downs, Goatstown",Dublin,382000.0,No,Goatstown,Dublin 14,q1,30%
+07/10/2011,"141 Trimbleston, Goatstown Road, Goatstown",Dublin,281938.33,Yes,Goatstown,Dublin 14,q1,10%
+11/10/2011,"37 Goatstown Road, Goatstown",Dublin,371500.0,No,Goatstown,Dublin 14,q1,20%
+24/10/2011,"91 Mount Anville Wood, Goatstown",Dublin,469000.0,No,Goatstown,Dublin 14,q2,50%
+01/11/2011,"71 Taney Avenue, Goatstown",Dublin,315150.0,No,Goatstown,Dublin 14,q1,10%
+10/11/2011,"Apartment 157, Block A Trimbleton, Goatstown Road",Dublin,250000.0,No,Goatstown,Dublin 14,q1,10%
+14/11/2011,"14 Farmhill Road, Goatstown",Dublin,420000.0,No,Goatstown,Dublin 14,q2,40%
+17/11/2011,"50 Drumarrtin Terrace, Goatstown, Dublin 14",Dublin,235000.0,No,Goatstown,Dublin 14,q1,10%
+06/12/2011,"15 Eden Park Drive, Goatstown",Dublin,337000.0,No,Goatstown,Dublin 14,q1,20%
+08/12/2011,"Chimes & Thendara, Mount Anville Road, Goatstown",Dublin,650000.0,No,Goatstown,Dublin 14,q3,80%
+16/12/2011,"25 Drummartin Park, Goatstown, Co. Dublin",Dublin,275000.0,No,Goatstown,Dublin 14,q1,10%
+21/12/2011,"51  Goatstown Road, Goatstown",Dublin,415000.0,No,Goatstown,Dublin 14,q2,40%
+13/01/2012,"50 Mount Anville Wood, Goatstown",Dublin,435000.0,No,Goatstown,Dublin 14,q2,40%
+27/01/2012,"12 Farmhill Drive, Goatstown, Co Dublin",Dublin,362000.0,No,Goatstown,Dublin 14,q1,20%
+03/02/2012,"13 Drummartin Park, Goatstown, Dublin",Dublin,465000.0,No,Goatstown,Dublin 14,q2,50%
+03/02/2012,"190 Lower Kilmacud Road, Goatstown",Dublin,330000.0,No,Goatstown,Dublin 14,q1,20%
+09/02/2012,"39 Hollywood Drive, Goatstown, Dublin 14",Dublin,340000.0,No,Goatstown,Dublin 14,q1,20%
+10/02/2012,"45 Taney Crescent, Goatstown, Dublin 14",Dublin,301000.0,No,Goatstown,Dublin 14,q1,10%
+05/03/2012,"23  Belfield Downs, Goatstown",Dublin,335000.0,No,Goatstown,Dublin 14,q1,20%
+13/03/2012,"2 Eden Park Road, Goatstown",Dublin,355000.0,No,Goatstown,Dublin 14,q1,20%
+26/03/2012,"60 Hollywell, Upper Kilmacud Road, Goatstown",Dublin,440000.0,No,Goatstown,Dublin 14,q2,40%
+04/04/2012,"135 Goatstown Road, Goatstown",Dublin,420000.0,No,Goatstown,Dublin 14,q2,40%
+30/04/2012,"6 Eden Park Road, Goatstown, Dublin",Dublin,340000.0,No,Goatstown,Dublin 14,q1,20%
+01/05/2012,"17 Roebuck Park, Goatstown",Dublin,645000.0,No,Goatstown,Dublin 14,q3,80%
+31/05/2012,"42 Drummartin Park, Goatstown",Dublin,380000.0,No,Goatstown,Dublin 14,q1,30%
+06/06/2012,"Lands At Goatstown Road, Goatstown, Dublin",Dublin,20000.0,No,Goatstown,Dublin 14,q1,10%
+15/06/2012,"57 Knocknashee, Goatstown, Dublin 14",Dublin,533500.0,No,Goatstown,Dublin 14,q3,60%
+18/06/2012,"5 Goatstown Avenue, Goatstown",Dublin,330000.0,No,Goatstown,Dublin 14,q1,20%
+29/06/2012,"61 St Aidan'S Drive, Goatstown",Dublin,395000.0,No,Goatstown,Dublin 14,q1,30%
+05/07/2012,"69 Goatstown Road, Dublin 14",Dublin,360000.0,No,Goatstown,Dublin 14,q1,20%
+10/07/2012,"13 Farmhill Road, Goatstown",Dublin,372000.0,No,Goatstown,Dublin 14,q1,20%
+11/07/2012,"15 Drummartin Close, Goatstown",Dublin,400000.0,No,Goatstown,Dublin 14,q2,30%
+23/07/2012,"38 Larchfield Road, Goatstown",Dublin,473000.0,No,Goatstown,Dublin 14,q2,50%
+24/08/2012,"2 Eden Wood, Eden Park Drive, Goatstown",Dublin,320000.0,No,Goatstown,Dublin 14,q1,10%
+07/09/2012,"16 Farmhill Park, Goatstown, Dublin 14",Dublin,315000.0,No,Goatstown,Dublin 14,q1,10%
+11/09/2012,"Apartment 46 The Sycamore, Trimbleston  Goatstown Road, Goatstown",Dublin,235000.0,No,Goatstown,Dublin 14,q1,10%
+01/10/2012,"194 Trimbleston, Goatstown Road, Goatstown",Dublin,470000.0,No,Goatstown,Dublin 14,q2,50%
+08/10/2012,"13 Drummartin Crescent, Goatstown, Dublin 14",Dublin,440000.0,No,Goatstown,Dublin 14,q2,40%
+08/10/2012,"Apt 3 Taney Court, Taney Road, Dundrum/ Goatstown",Dublin,170000.0,No,Goatstown,Dublin 14,q1,10%
+10/10/2012,"29 Belfield Downs, Goatstown",Dublin,322000.0,No,Goatstown,Dublin 14,q1,20%
+22/10/2012,"Apartment1 The Pines, Trimbleston, Goatstown",Dublin,315000.0,No,Goatstown,Dublin 14,q1,10%
+01/11/2012,"98 Taney Crescent, Goatstown",Dublin,305000.0,No,Goatstown,Dublin 14,q1,10%
+08/11/2012,"122 Trimbleston, Goatstown",Dublin,220264.0,Yes,Goatstown,Dublin 14,q1,10%
+13/11/2012,"44 Farmhill Road, Goatstown",Dublin,555000.0,No,Goatstown,Dublin 14,q3,60%
+20/11/2012,"55 Trimbleston, Goatstown Road, Goatstown",Dublin,241000.0,No,Goatstown,Dublin 14,q1,10%
+21/11/2012,"24 Mount Anville Lawn, Goatstown",Dublin,641000.0,No,Goatstown,Dublin 14,q3,80%
+04/12/2012,"7 Birchfield Lawns, Goatstown",Dublin,375000.0,No,Goatstown,Dublin 14,q1,20%
+07/12/2012,"3  Drummartin Crescent, Goatstown, Dublin  14",Dublin,439000.0,No,Goatstown,Dublin 14,q2,40%
+10/12/2012,"14 Birchfield Heights, Goatstown, Dublin 14",Dublin,385000.0,No,Goatstown,Dublin 14,q1,30%
+12/12/2012,"71 Holywell, Goatstown",Dublin,497600.0,No,Goatstown,Dublin 14,q2,50%
+12/12/2012,"Ophaly Lodge, Rosemount Estate, Goatstown",Dublin,50076.0,No,Goatstown,Dublin 14,q1,10%
+20/12/2012,"14 Drummartin Road, Goatstown, Dublin 14",Dublin,330000.0,No,Goatstown,Dublin 14,q1,20%
+25/04/2013,"11 Birchfield Court, Goatstown",Dublin,402000.0,No,Goatstown,Dublin 14,q2,30%
+02/05/2013,"13 Eden Park Road, Goatstown",Dublin,473500.0,No,Goatstown,Dublin 14,q2,50%
+03/05/2013,"20 Harlech Downs, Goatstown",Dublin,432000.0,No,Goatstown,Dublin 14,q2,40%
+24/06/2013,"Apt. 129B Trimbleston, Goatstown, Dublin 14",Dublin,280000.0,Yes,Goatstown,Dublin 14,q1,10%
+23/07/2013,"Apt 42 Trimbleston, Goatstown Road, Goatstown",Dublin,297000.0,No,Goatstown,Dublin 14,q1,10%
+26/07/2013,"3 Charlton Lawns, Goatstown",Dublin,580000.0,No,Goatstown,Dublin 14,q3,70%
+30/07/2013,"48 Taney Road, Goatstown, Dublin 14",Dublin,550000.0,No,Goatstown,Dublin 14,q3,60%
+31/07/2013,"52 Knocknashee, Goatstown",Dublin,664800.0,No,Goatstown,Dublin 14,q4,80%
+02/08/2013,"9 Taney Avenue, Goatstown, Dublin 14",Dublin,375000.0,No,Goatstown,Dublin 14,q1,20%
+06/08/2013,"31 Taney Avenue, Goatstown",Dublin,415000.0,No,Goatstown,Dublin 14,q2,40%
+29/08/2013,"35 Taney Avenue, Goatstown",Dublin,460000.0,No,Goatstown,Dublin 14,q2,50%
+10/09/2013,"Tanglewood, Upper Kilmacud Road, Goatstown",Dublin,1455000.0,No,Goatstown,Dublin 14,q4,100%
+12/09/2013,"Drummartin Mews, Lower Kilmacud Road, Goatstown",Dublin,370000.0,No,Goatstown,Dublin 14,q1,20%
+16/09/2013,"8 Taney Avenue, Goatstown",Dublin,500000.0,No,Goatstown,Dublin 14,q3,60%
+19/09/2013,"91 Trimbleston, Goatstown Road, Goatstown",Dublin,285000.0,No,Goatstown,Dublin 14,q1,10%
+20/09/2013,"17 Larchfield Road, Goatstown, Dublin 14",Dublin,510000.0,No,Goatstown,Dublin 14,q3,60%
+24/09/2013,"209 Trimbleston, Goatstown",Dublin,570000.0,No,Goatstown,Dublin 14,q3,70%
+01/10/2013,"26 Knocknashee, Goatstown, Dublin 14",Dublin,691000.0,No,Goatstown,Dublin 14,q4,90%
+07/10/2013,"6 Goatstown Road, Goatstown",Dublin,375000.0,No,Goatstown,Dublin 14,q1,20%
+10/10/2013,"210 Trimbleston, Goatstown, Dublin",Dublin,570000.0,No,Goatstown,Dublin 14,q3,70%
+13/10/2013,"43 Farmhill Drive, Goatstown",Dublin,530000.0,No,Goatstown,Dublin 14,q3,60%
+23/10/2013,"28A Eden Park Drive, Goatstown",Dublin,495000.0,No,Goatstown,Dublin 14,q2,50%
+24/10/2013,"67 Goatstown Road, Goatstown",Dublin,530000.0,No,Goatstown,Dublin 14,q3,60%
+25/10/2013,"20 Hollywood Drive, Goatstown, Dublin 14",Dublin,540000.0,No,Goatstown,Dublin 14,q3,60%
+31/10/2013,"14 Farmhill Park, Goatstown",Dublin,450000.0,No,Goatstown,Dublin 14,q2,40%
+06/11/2013,"6  Mount Carmel Avenue, Goatstown, Dublin 14",Dublin,450000.0,No,Goatstown,Dublin 14,q2,40%
+08/11/2013,"28 Goatstown Road, Goatstown",Dublin,412000.0,No,Goatstown,Dublin 14,q2,40%
+08/11/2013,"Apt 3 Trimbleston, Goatstown Rd, Dublin 14",Dublin,270000.0,No,Goatstown,Dublin 14,q1,10%
+11/11/2013,"48 St Aidans Dr, Goatstown, Dublin 14",Dublin,430000.0,No,Goatstown,Dublin 14,q2,40%
+14/11/2013,"55 Mount Anville Park, Goatstown, Dublin 14",Dublin,519000.0,No,Goatstown,Dublin 14,q3,60%
+21/11/2013,"88  St. Aidan'S Drive, Goatstown",Dublin,547000.0,No,Goatstown,Dublin 14,q3,60%
+02/12/2013,"27A Drummartin Park, Goatstown",Dublin,615000.0,No,Goatstown,Dublin 14,q3,70%
+11/12/2013,"6 Drummartin Rd, Goatstown, Dublin 14",Dublin,432000.0,No,Goatstown,Dublin 14,q2,40%
+12/12/2013,"3 Taney Avenue, Goatstown, Dublin 14",Dublin,515000.0,No,Goatstown,Dublin 14,q3,60%
+13/12/2013,"59 Larchfield Rd, Roebuck Park, Goatstown Dublin 14",Dublin,425000.0,No,Goatstown,Dublin 14,q2,40%
+17/12/2013,"50A Roebuck Downs, Goatstown, Dublin 14",Dublin,540000.0,No,Goatstown,Dublin 14,q3,60%
+20/12/2013,"84 Knocknashee, Goatstown, Dublin 14",Dublin,330000.0,No,Goatstown,Dublin 14,q1,20%
+20/12/2013,"Apt 77, Trimbleston, Goatstown",Dublin,285000.0,No,Goatstown,Dublin 14,q1,10%
+17/01/2014,"4 Hollywood Park, Goatstown, Dublin 14",Dublin,700000.0,No,Goatstown,Dublin 14,q4,90%
+21/02/2014,"Apt 121 Block 6 Trimblestown, Goatstown Rd, Goatstown Dublin 14",Dublin,450000.0,No,Goatstown,Dublin 14,q2,40%
+26/02/2014,"6 Birchfield Heights, Goatstown, Dublin 14",Dublin,482000.0,No,Goatstown,Dublin 14,q2,50%
+11/03/2014,"10 Eden Park Ave, Goatstown, Dublin 14",Dublin,467000.0,No,Goatstown,Dublin 14,q2,50%
+11/04/2014,"5 Eden Park Dr, Goatstown, Dublin 14",Dublin,495000.0,No,Goatstown,Dublin 14,q2,50%
+01/05/2014,"41 Larchfield Rd, Roebuck Park, Goatstown Dublin 14",Dublin,550000.0,No,Goatstown,Dublin 14,q3,60%
+23/05/2014,"1 Farmhill Drive, Goatstown, Dublin 14",Dublin,575000.0,No,Goatstown,Dublin 14,q3,70%
+23/05/2014,"79 Taney Crescent, Goatstown, Dublin 14",Dublin,445000.0,No,Goatstown,Dublin 14,q2,40%
+05/06/2014,"27 Drumartin Park, Goatstown, Dublin 14",Dublin,505000.0,No,Goatstown,Dublin 14,q3,60%
+19/06/2014,"26 Mount Annvlle Lawn, Goatstown, Dublin 14",Dublin,535000.0,No,Goatstown,Dublin 14,q3,60%
+20/06/2014,"25 Birchfield Park, Birchs Lane, Goatstown Dublin 14",Dublin,521000.0,No,Goatstown,Dublin 14,q3,60%
+26/06/2014,"38 Belfield Downs, Goatstown, Dublin 14",Dublin,420000.0,No,Goatstown,Dublin 14,q2,40%
+30/06/2014,"36 Friarsland Road, Goatstown",Dublin,845000.0,No,Goatstown,Dublin 14,q4,100%
+04/07/2014,"13 Willowfield Avenue, Goatstown",Dublin,690000.0,No,Goatstown,Dublin 14,q4,80%
+15/07/2014,"39 Goatstown Close, Goatstown, Dublin 14",Dublin,249500.0,No,Goatstown,Dublin 14,q1,10%
+21/07/2014,"Apt 100, Trimbleston, Goatstown Rd Dublin 14",Dublin,386000.0,No,Goatstown,Dublin 14,q1,30%
+25/07/2014,"20 Drummartin Terrace, Goatstown, Dublin 14",Dublin,503000.0,No,Goatstown,Dublin 14,q3,60%
+01/08/2014,"142 Holywell, Goatstown, Dublin 14",Dublin,540000.0,No,Goatstown,Dublin 14,q3,60%
+14/08/2014,"8 Dromartin Terrace, Goatstown, Dublin 14",Dublin,313000.0,No,Goatstown,Dublin 14,q1,10%
+15/08/2014,"94 Taney Rd, Goatstown, Dublin 14",Dublin,620000.0,No,Goatstown,Dublin 14,q3,80%
+19/08/2014,"62 Taney Crescent, Goatstown",Dublin,588000.0,No,Goatstown,Dublin 14,q3,70%
+29/08/2014,"27 Roebuck Downs, Goatstown, Dublin 14",Dublin,430000.0,No,Goatstown,Dublin 14,q2,40%
+18/09/2014,"172 Trimbleston, Goatstown Rd, Goatstown Dublin 14",Dublin,655000.0,No,Goatstown,Dublin 14,q4,80%
+26/09/2014,"33 Mount Anville Park, Goatstown, Dublin 14",Dublin,805000.0,No,Goatstown,Dublin 14,q4,100%
+29/09/2014,"41 Hollywood Dr, Goatstown Rd, Goatstown",Dublin,542000.0,No,Goatstown,Dublin 14,q3,60%
+30/09/2014,"40 Friarsland Rd, Goatstown, Dublin 14",Dublin,630000.0,No,Goatstown,Dublin 14,q3,80%
+21/10/2014,"6 Mount Anville Lawn, Goatstown, Dublin 14",Dublin,700000.0,No,Goatstown,Dublin 14,q4,90%
+23/10/2014,"44 Drummartin Park, Goatstown, Dublin 14",Dublin,650000.0,No,Goatstown,Dublin 14,q3,80%
+31/10/2014,"31 Taney Crescent, Goatstown, Dublin 14",Dublin,625000.0,No,Goatstown,Dublin 14,q3,80%
+03/11/2014,"80 St Aidans Dr, Goatstown, Dublin 14",Dublin,566000.0,No,Goatstown,Dublin 14,q3,70%
+10/11/2014,"16 Mount Carmel Rd, Goatstown, Dublin 14",Dublin,620000.0,No,Goatstown,Dublin 14,q3,80%
+14/11/2014,"15 Larchfield Park, Goatstown, Dublin 14",Dublin,658000.0,No,Goatstown,Dublin 14,q4,80%
+17/11/2014,"183 Trimbleston, Goatstown, Dublin 14",Dublin,400000.0,No,Goatstown,Dublin 14,q2,30%
+04/12/2014,"415 Trimbleston Garden, Goatstown Road",Dublin,356828.0,Yes,Goatstown,Dublin 14,q1,20%
+05/12/2014,"22 Friarsland Road, Goatstown, Dublin 14",Dublin,690000.0,No,Goatstown,Dublin 14,q4,90%
+05/12/2014,"414 Trimbleston, Goatstown Road",Dublin,484581.0,Yes,Goatstown,Dublin 14,q2,50%
+08/12/2014,"413, Trimblestown, Goatstown Road",Dublin,396500.0,Yes,Goatstown,Dublin 14,q2,30%
+08/12/2014,"Apt. 412 The Oak, Trimbleston, Goatstown Road",Dublin,378855.0,Yes,Goatstown,Dublin 14,q1,30%
+08/12/2014,"Bandra, Lr Kilmacud Rd, Goatstown Dublin 14",Dublin,730000.0,No,Goatstown,Dublin 14,q4,90%
+09/12/2014,"410 The Oak, Trimbleston, Goatstown Road",Dublin,466960.0,Yes,Goatstown,Dublin 14,q2,50%
+16/12/2014,"114 Mount Anville Park, Goatstown, Dublin 14",Dublin,850000.0,No,Goatstown,Dublin 14,q4,100%
+19/12/2014,"Apartment 384, The Oak, Trimbleston Goatstown Road",Dublin,361233.0,Yes,Goatstown,Dublin 14,q1,20%
+22/12/2014,"Apartment 411, Trimbleston, Goatstown Road",Dublin,374449.33,Yes,Goatstown,Dublin 14,q1,20%
+23/12/2014,"Apartment 407 The Oak, Trimblestown, Goatstown Road",Dublin,361233.48,Yes,Goatstown,Dublin 14,q1,20%
+16/01/2015,"406 Trimbleton, Goatstown Road, Dublin 14",Dublin,454125.0,Yes,Goatstown,Dublin 14,q2,40%
+22/01/2015,"398 Trimblestown, Goatstown Rd",Dublin,396476.0,Yes,Goatstown,Dublin 14,q2,30%
+22/01/2015,"48 Drummartin Terrace, Goatstown, Dublin 14",Dublin,480000.0,No,Goatstown,Dublin 14,q2,50%
+30/01/2015,"5 Harlech Downs, Goatstown Rd, Dublin 14",Dublin,617500.0,No,Goatstown,Dublin 14,q3,70%
+09/02/2015,"53 Taney Ave, Goatstown, Dublin 14",Dublin,485000.0,No,Goatstown,Dublin 14,q2,50%
+13/02/2015,"Apartment 405 The Oak, Trimbleston, Goatstown Road",Dublin,365638.77,Yes,Goatstown,Dublin 14,q1,20%
+17/02/2015,"5 Farmhill Park, Goatstown, Dublin 14",Dublin,475000.0,No,Goatstown,Dublin 14,q2,50%
+17/02/2015,"6 Taney Rise, Goatstown, Dublin 14",Dublin,585000.0,No,Goatstown,Dublin 14,q3,70%
+23/02/2015,"115 The Cherry, Trimbleston, Goatstown Rd Dublin 14",Dublin,410000.0,No,Goatstown,Dublin 14,q2,30%
+25/02/2015,"397 Trimbleston, Goatstown Road",Dublin,436123.0,Yes,Goatstown,Dublin 14,q2,40%
+25/02/2015,"The Muse Rear, 18 Larchfield Rd, Goatstown Dublin 14",Dublin,450000.0,No,Goatstown,Dublin 14,q2,40%
+27/02/2015,"19 Taney Crescent, Goatstown",Dublin,635000.0,No,Goatstown,Dublin 14,q3,80%
+27/02/2015,"Apartment 399 Trimbleston, Goatstown",Dublin,1000000.0,Yes,Goatstown,Dublin 14,q4,100%
+04/03/2015,"196 Lower Kilmacud Rd, Goatstown, Dublin 14",Dublin,540000.0,No,Goatstown,Dublin 14,q3,60%
+13/03/2015,"Apartment 393 The Oak, Trimbleston, Goatstown Road",Dublin,440528.0,Yes,Goatstown,Dublin 14,q2,40%
+26/03/2015,"16 Taney Crescent, Goatstown, Dublin 14",Dublin,595000.0,No,Goatstown,Dublin 14,q3,70%
+13/04/2015,"Apt 408 The Oaks, Trimbleston, Goatstown Road",Dublin,334801.0,Yes,Goatstown,Dublin 14,q1,20%
+15/04/2015,"34A Drummartin Terrace, Goatstown",Dublin,399500.0,Yes,Goatstown,Dublin 14,q2,30%
+16/04/2015,"388 Trimbleston, Goatstown Road",Dublin,420000.0,Yes,Goatstown,Dublin 14,q2,40%
+28/04/2015,"20 Trimbleston, Goatstown Road, Goatstown",Dublin,780000.0,No,Goatstown,Dublin 14,q4,100%
+05/05/2015,"#392 The Oak, Trimbleston, Goatstown Road",Dublin,375770.93,Yes,Goatstown,Dublin 14,q1,20%
+05/05/2015,"#396 The Oak, Trimbleston, Goatstown Road",Dublin,375770.93,Yes,Goatstown,Dublin 14,q1,20%
+15/05/2015,"Apartment 416, Trimbleston, Goatstown",Dublin,980000.0,Yes,Goatstown,Dublin 14,q4,100%
+27/05/2015,"390 Trimbleston, Goatstown Road, Dublin 14",Dublin,370000.0,Yes,Goatstown,Dublin 14,q1,20%
+28/05/2015,"19 Harlech Downs, Goatstown Rd, Dublin 14",Dublin,681000.0,No,Goatstown,Dublin 14,q4,80%
+04/06/2015,"43, Larchfield Road, Goatstown",Dublin,565500.0,No,Goatstown,Dublin 14,q3,70%
+26/06/2015,"394 Trimblestown, Goatstown, Dublin",Dublin,440000.0,Yes,Goatstown,Dublin 14,q2,40%
+26/06/2015,"6 Harlech Downs, Goatstown, Dublin 14",Dublin,630000.0,No,Goatstown,Dublin 14,q3,80%
+06/07/2015,"4 Birchfield Park, Goatstown, Dublin 14",Dublin,530000.0,No,Goatstown,Dublin 14,q3,60%
+16/07/2015,"11 Hollywood Dr, Goatstown, Dublin 14",Dublin,640000.0,No,Goatstown,Dublin 14,q3,80%
+16/07/2015,"18 Belfield Downs, Goatstown, Dublin 14",Dublin,460000.0,No,Goatstown,Dublin 14,q2,50%
+17/07/2015,"Apartment 395 Trimbleston, Goatstown Road",Dublin,358150.0,Yes,Goatstown,Dublin 14,q1,20%
+22/07/2015,"24 Birchfield Heights, Goatstown, Dublin 14",Dublin,550000.0,No,Goatstown,Dublin 14,q3,60%
+30/07/2015,"389 The Oak, Trimbleston, Goatstown Road",Dublin,422907.48,Yes,Goatstown,Dublin 14,q2,40%
+30/07/2015,"391 The Oak, Trimbleston, Goatstown Road",Dublin,361233.48,Yes,Goatstown,Dublin 14,q1,20%
+07/08/2015,"33 Knocknashee, Goatstown, Dublin 14",Dublin,846000.0,No,Goatstown,Dublin 14,q4,100%
+12/08/2015,"383 Trimbleston, Goatstown Road, Goatstown",Dublin,358150.0,Yes,Goatstown,Dublin 14,q1,20%
+21/08/2015,"Beverston, Mount Anville Rd, Goatstown Dublin 14",Dublin,1555000.0,No,Goatstown,Dublin 14,q4,100%
+03/09/2015,"29 Dromartin Rd, Goatstown, Dublin City",Dublin,530000.0,No,Goatstown,Dublin 14,q3,60%
+04/09/2015,"385 Trimbleston, Goatstown Road",Dublin,387665.0,Yes,Goatstown,Dublin 14,q1,30%
+10/09/2015,"409 Trimbleston, Goatstown",Dublin,374500.0,Yes,Goatstown,Dublin 14,q1,20%
+17/09/2015,"42 Friarsland Rd, Goatstown, Dublin 14",Dublin,690000.0,No,Goatstown,Dublin 14,q4,90%
+23/09/2015,"Apt. 380  The Oak, Trimbleston, Goatstown Road",Dublin,596475.0,Yes,Goatstown,Dublin 14,q3,70%
+28/09/2015,"Apartment 377, The Oak, Trimbleston  Goatstown Road",Dublin,507220.0,Yes,Goatstown,Dublin 14,q3,60%
+30/09/2015,"56 Goatstown Close, Goatstown, Dublin 14",Dublin,265225.0,No,Goatstown,Dublin 14,q1,10%
+01/10/2015,"29 Friarsland Rd, Goatstown, Dublin 14",Dublin,745000.0,No,Goatstown,Dublin 14,q4,90%
+02/10/2015,"112 Trimbleston, Goatstown, Dublin 14",Dublin,397300.0,No,Goatstown,Dublin 14,q2,30%
+09/10/2015,"6 Drummartin Cresent, Goatstown, Dublin 14",Dublin,635000.0,No,Goatstown,Dublin 14,q3,80%
+12/10/2015,"51 Taney Ave, Goatstown, Dublin 14",Dublin,470000.0,No,Goatstown,Dublin 14,q2,50%
+21/10/2015,"22 Larchfield Rd, Goatstown, Dublin 14",Dublin,520000.0,No,Goatstown,Dublin 14,q3,60%
+05/11/2015,"10 Friarsland Rd, Goatstown, Dublin 14",Dublin,655000.0,No,Goatstown,Dublin 14,q4,80%
+10/11/2015,"228 Lower Kilmacud Rd, Goatstown, Dublin 14",Dublin,699000.0,No,Goatstown,Dublin 14,q4,90%
+11/11/2015,"Hollywood House, Mount Anville Road, Goatstown",Dublin,2250000.0,No,Goatstown,Dublin 14,q4,100%
+13/11/2015,"15 Drummartin Castle, Birchs Lane, Goatstown Dublin 14",Dublin,310000.0,No,Goatstown,Dublin 14,q1,10%
+13/11/2015,"Apt 105 The Ash, Trimbleston, Goatstown",Dublin,350000.0,No,Goatstown,Dublin 14,q1,20%
+07/12/2015,"104  Goatstown Road, Goatstown",Dublin,855000.0,No,Goatstown,Dublin 14,q4,100%
+09/12/2015,"Apartment 365, Trimbleston, Goatstown Road",Dublin,440528.63,Yes,Goatstown,Dublin 14,q2,40%
+11/12/2015,"Apt 179 Trimbleston, Goatstown Road, Dublin 14",Dublin,347500.0,No,Goatstown,Dublin 14,q1,20%
+16/12/2015,"Apt 15 Roebuck Park House, Goatstown, Dublin 14",Dublin,310000.0,No,Goatstown,Dublin 14,q1,10%
+17/12/2015,"39 Taney Crescent, Goatstown, Dublin 14",Dublin,675000.0,No,Goatstown,Dublin 14,q4,80%
+18/12/2015,"Apt 364 Trimbleston, Goatstown Rd, Dublin",Dublin,387665.0,Yes,Goatstown,Dublin 14,q1,30%
+22/12/2015,"Apartment 363 Trimbleston, Goatstown Road",Dublin,310000.0,Yes,Goatstown,Dublin 14,q1,10%
+11/01/2016,"80 Mount Anville Wood, Goatstown, Dublin 14",Dublin,797000.0,No,Goatstown,Dublin 14,q4,100%
+21/01/2016,"Apt 18, Trimbleston, Goatstown Rd Dublin 14",Dublin,480250.0,No,Goatstown,Dublin 14,q2,50%
+27/01/2016,"174 Trimbleston, Goatstown Rd, Dublin 14",Dublin,690000.0,No,Goatstown,Dublin 14,q4,90%
+01/02/2016,"55 Trimbleston, Goatstown Rd, Goatstown",Dublin,389000.0,No,Goatstown,Dublin 14,q1,30%
+08/02/2016,"186 Trimbleston, Goatstown Rd, Dublin 14",Dublin,477500.0,No,Goatstown,Dublin 14,q2,50%
+09/02/2016,"Apartment 360, Trimbleston, Goatstown",Dublin,264317.0,Yes,Goatstown,Dublin 14,q1,10%
+12/02/2016,"30 Taney Crescent, Goatstown, Dublin 14",Dublin,467000.0,No,Goatstown,Dublin 14,q2,50%
+18/02/2016,"Apt 31 Hazelbrook, Upper Kilmacud Rd, Goatstown Dublin 14",Dublin,325000.0,No,Goatstown,Dublin 14,q1,20%
+23/02/2016,"17 Roebuck Park, Goatstown, Dublin 14",Dublin,910000.0,No,Goatstown,Dublin 14,q4,100%
+23/02/2016,"25 Mount Anville Park, Goatstown, Dublin 14",Dublin,650000.0,No,Goatstown,Dublin 14,q4,80%
+25/02/2016,"361 Trimbleston, Goatstown Road",Dublin,375771.0,Yes,Goatstown,Dublin 14,q1,30%
+26/02/2016,"98 Trimbleston, Goatstown, Dublin 14",Dublin,472500.0,No,Goatstown,Dublin 14,q2,50%
+03/03/2016,"Apt 27 Block 2, Trimbleston, Goatstown",Dublin,355000.0,No,Goatstown,Dublin 14,q1,20%
+04/03/2016,"35 Hollywood Drive, Goatstown, Dublin 14",Dublin,560000.0,No,Goatstown,Dublin 14,q3,70%
+10/03/2016,"367 Trimbleston, Goatstown Road, Dublin 14",Dublin,370044.0,Yes,Goatstown,Dublin 14,q1,20%
+22/03/2016,"207 Trimbleston, Goatstown Rd, Goatstown Dublin 14",Dublin,750000.0,No,Goatstown,Dublin 14,q4,90%
+24/03/2016,"15 Farmhill Park, Goatstown, Dublin 14",Dublin,494000.0,No,Goatstown,Dublin 14,q2,50%
+31/03/2016,"Apartment 358 The Oak, Trimbleston, Goatstown Road",Dublin,881057.26,Yes,Goatstown,Dublin 14,q4,100%
+07/04/2016,"5 The Grove, Goatstown Road, Goatstown",Dublin,704845.81,Yes,Goatstown,Dublin 14,q4,90%
+11/04/2016,"Belfield Lodge, Goatstown Rd, Dublin 14",Dublin,370000.0,No,Goatstown,Dublin 14,q1,20%
+10/05/2016,"Apartment 355, Trimbleston, Goatstown",Dublin,396475.77,Yes,Goatstown,Dublin 14,q2,30%
+12/05/2016,"2 The Grove, Goatstown Road, Goatstown",Dublin,669604.0,Yes,Goatstown,Dublin 14,q4,80%
+12/05/2016,"Apt. 354 Tribleston, Goatstown Road, Dublin 16",Dublin,414096.91,Yes,Goatstown,Dublin 14,q2,40%
+13/05/2016,"220 Lower Kilmacud Road, Goatstown, Dublin 14",Dublin,738000.0,No,Goatstown,Dublin 14,q4,90%
+20/05/2016,"22 Eden Park Dr, Goatstown, Dublin 14",Dublin,564000.0,No,Goatstown,Dublin 14,q3,70%
+27/05/2016,"17 Eden Park Rd, Goatstown, Dublin 14",Dublin,12500.0,No,Goatstown,Dublin 14,q1,10%
+27/05/2016,"4 The Grove, Goatstown Road",Dublin,678414.0,Yes,Goatstown,Dublin 14,q4,80%
+31/05/2016,"Apt 346, Trimbleston, Goatstown",Dublin,387665.0,Yes,Goatstown,Dublin 14,q1,30%
+02/06/2016,"209 Trimbleston, Goatstown Rd, Dublin 14",Dublin,570000.0,No,Goatstown,Dublin 14,q3,70%
+07/06/2016,"347 Trimbleston, Goatstown Road",Dublin,375771.0,Yes,Goatstown,Dublin 14,q1,30%
+07/06/2016,"351 Trimbleston, Goatstown Road",Dublin,375771.0,Yes,Goatstown,Dublin 14,q1,30%
+07/06/2016,"56 Larchfield Rd, Goatstown, Dublin 14",Dublin,522000.0,No,Goatstown,Dublin 14,q3,60%
+08/06/2016,"8 The Grove, Goatstown Road, Goatstown",Dublin,700440.0,Yes,Goatstown,Dublin 14,q4,90%
+21/06/2016,"Apartment 350, Trimbleston, Goatstown Road",Dublin,389250.0,Yes,Goatstown,Dublin 14,q1,30%
+08/07/2016,"31 Friarsland Rd, Goatstown, Dublin 14",Dublin,635000.0,No,Goatstown,Dublin 14,q3,80%
+13/07/2016,"37 Drumartin Rd, Goatstown, Dublin 14",Dublin,580000.0,No,Goatstown,Dublin 14,q3,70%
+18/07/2016,"5 Goatstown Ave, Goatstown, Dublin 14",Dublin,560000.0,No,Goatstown,Dublin 14,q3,70%
+22/07/2016,"No 10 The Grove, Goatstown Road",Dublin,414096.92,Yes,Goatstown,Dublin 14,q2,40%
+27/07/2016,"7 The Grove, Goatstown Road, Goatstown",Dublin,537444.93,Yes,Goatstown,Dublin 14,q3,60%
+29/07/2016,"22 Goatstown Rd, Goatstown, Dublin 14",Dublin,592500.0,No,Goatstown,Dublin 14,q3,70%
+29/07/2016,"Apartment 348, Trimbleston, Goatstown",Dublin,384581.5,Yes,Goatstown,Dublin 14,q1,30%
+05/08/2016,"1 The Grove, Goatstown Road, Goatstown",Dublin,722467.0,Yes,Goatstown,Dublin 14,q4,90%
+05/08/2016,"3 The Grove, Goatstown Road",Dublin,656300.0,Yes,Goatstown,Dublin 14,q4,80%
+08/08/2016,"67 Goatstown Close, Goatstown, Dublin 14",Dublin,378000.0,No,Goatstown,Dublin 14,q1,30%
+16/08/2016,"95 Taney Crescent, Goatstown, Dublin 14",Dublin,516000.0,No,Goatstown,Dublin 14,q3,60%
+19/08/2016,"Apartment 330 The Oak, Trimbleston, Goatstown",Dublin,366960.0,Yes,Goatstown,Dublin 14,q1,20%
+19/08/2016,"Apartment 349 The Oak, Trimblestown, Goatstown",Dublin,278854.0,Yes,Goatstown,Dublin 14,q1,10%
+26/08/2016,"11 The Grove, Goatstown Road, Dublin 14",Dublin,519823.79,Yes,Goatstown,Dublin 14,q3,60%
+30/08/2016,"335 Trimbleston, Goatstown Road, Dublin 14",Dublin,383259.0,Yes,Goatstown,Dublin 14,q1,30%
+06/09/2016,"332 Trimbleston, Goatstown Road, Dublin 14",Dublin,378855.0,Yes,Goatstown,Dublin 14,q1,30%
+09/09/2016,"Apt 352, The Oak  Trimbleston, Goatstown Road",Dublin,450000.0,Yes,Goatstown,Dublin 14,q2,40%
+15/09/2016,"20 Birchfield Park, Goatstown, Dublin 14",Dublin,602000.0,No,Goatstown,Dublin 14,q3,70%
+15/09/2016,"Apartment 366  The Oak, Trimbleston, Goatstown Road",Dublin,259500.0,Yes,Goatstown,Dublin 14,q1,10%
+15/09/2016,"Apartment 371  The Oak, Trimbleston, Goatstown Road",Dublin,441150.0,Yes,Goatstown,Dublin 14,q2,40%
+18/09/2016,"84 Mount Anville Wood, Goatstown, Dublin 14",Dublin,725000.0,No,Goatstown,Dublin 14,q4,90%
+28/09/2016,"32 Mount Anville Lawn, Goatstown, Dublin 14",Dublin,800000.0,No,Goatstown,Dublin 14,q4,100%
+30/09/2016,"23 Roebuck Downs, Goatstown, Dublin 14",Dublin,483000.0,No,Goatstown,Dublin 14,q2,50%
+05/10/2016,"336 Timbleston, Goatstown Road, Dublin 14",Dublin,396475.0,Yes,Goatstown,Dublin 14,q2,30%
+14/10/2016,"60 Staidans Dr, Goatstown, Dublin 14",Dublin,570000.0,No,Goatstown,Dublin 14,q3,70%
+21/10/2016,"6 Willowfield Ave, Goatstown, Dublin 14",Dublin,600000.0,No,Goatstown,Dublin 14,q3,70%
+21/10/2016,"Apartment 343 Trimbleston, Goatstown, Dublin 14",Dublin,410000.0,Yes,Goatstown,Dublin 14,q2,30%
+24/10/2016,"Apt 356 The Oaks, Trimbleston, Goatstown Road",Dublin,432500.0,Yes,Goatstown,Dublin 14,q2,40%
+26/10/2016,"13 Belfield Downs, Goatstown, Dublin 14",Dublin,505000.0,No,Goatstown,Dublin 14,q3,60%
+01/11/2016,"3 Mount Carmel Ave, Goatstown, Dublin 14",Dublin,496500.0,No,Goatstown,Dublin 14,q2,50%
+02/11/2016,"17 Eden Park Rd, Goatstown, Dublin 14",Dublin,566000.0,No,Goatstown,Dublin 14,q3,70%
+02/11/2016,"Apartment 340 Trimbleston, Goatstown Road",Dublin,484582.0,Yes,Goatstown,Dublin 14,q2,50%
+04/11/2016,"2 Birchfield Lawn, Goatstown, Dublin 14",Dublin,520000.0,No,Goatstown,Dublin 14,q3,60%
+08/11/2016,"Apt 353 The Oak, Trimblestown, Goatstown Road",Dublin,290749.0,Yes,Goatstown,Dublin 14,q1,10%
+18/11/2016,"18 Eden Park Rd, Goatstown, Dublin 14",Dublin,770000.0,No,Goatstown,Dublin 14,q4,90%
+22/11/2016,"Apartment 344, Trimbleston, Goatstown",Dublin,387665.0,Yes,Goatstown,Dublin 14,q1,30%
+25/11/2016,"Apartment 341 The Oak, Trimbleston, Goatstown Road",Dublin,881057.27,Yes,Goatstown,Dublin 14,q4,100%
+30/11/2016,"329 Trimbleston, Goatstown Road, Goatstown",Dublin,392115.0,Yes,Goatstown,Dublin 14,q1,30%
+30/11/2016,"370 Trimbleston, Goatstown Road, Goatstown",Dublin,449339.0,Yes,Goatstown,Dublin 14,q2,40%
+30/11/2016,"376 Trimbleston, Goatstown Road, Goatstown",Dublin,458150.0,Yes,Goatstown,Dublin 14,q2,50%
+30/11/2016,"402 Trimbleston, Goatstown Road, Goatstown",Dublin,475771.0,Yes,Goatstown,Dublin 14,q2,50%
+01/12/2016,"Apartment 342, Trimbleston, Goatstown Road",Dublin,380600.0,Yes,Goatstown,Dublin 14,q1,30%
+08/12/2016,"6 The Grove, Goatstown Road, Goatstown",Dublin,559471.36,Yes,Goatstown,Dublin 14,q3,70%
+19/12/2016,"56 Trimbleston, Goatstown Rd, Goatstown Dublin 14",Dublin,388000.0,No,Goatstown,Dublin 14,q1,30%
+05/01/2017,"369 The Oak, Trimbleston, Goatstown Road",Dublin,352423.0,Yes,Goatstown,Dublin 14,q1,20%
+10/01/2017,"337 The Oak, Trimbleston, Goatstown Road",Dublin,484581.49,Yes,Goatstown,Dublin 14,q2,50%
+26/01/2017,"145 Trimbleston, Goatstown Rd, Dublin",Dublin,410000.0,No,Goatstown,Dublin 14,q2,30%
+08/02/2017,"2 Mount Anville Lawn, Goatstown, Dublin 14",Dublin,825000.0,No,Goatstown,Dublin 14,q4,100%
+16/02/2017,"23 Trimbleston, Goatstown Rd, Goatstown Dublin 14",Dublin,395000.0,No,Goatstown,Dublin 14,q2,30%
+20/02/2017,"5 Eden Park Rd, Goatstown, Dublin 14",Dublin,600000.0,No,Goatstown,Dublin 14,q3,70%
+24/02/2017,"7 Drummartin Crescent, Goatstown, Dublin 14",Dublin,670000.0,No,Goatstown,Dublin 14,q4,80%
+28/02/2017,"4 Taney Court, Taney Rise, Goatstown",Dublin,322500.0,No,Goatstown,Dublin 14,q1,20%
+01/03/2017,"38 Drummartin Terrace, Goatstown, Dublin 14",Dublin,440000.0,No,Goatstown,Dublin 14,q2,40%
+10/03/2017,"54 Knocknashee, Goatstown, Dublin 14",Dublin,760000.0,No,Goatstown,Dublin 14,q4,90%
+16/03/2017,"378 The Oak, Trimbleston, Goatstown Road",Dublin,511014.0,Yes,Goatstown,Dublin 14,q3,60%
+23/03/2017,"42A Drummartin Park, Goatstown, Dublin 14",Dublin,10000.0,No,Goatstown,Dublin 14,q1,10%
+28/03/2017,"Apt 331 Trimbleston Goatstown Road, Dublin 14",Dublin,396476.0,Yes,Goatstown,Dublin 14,q2,30%
+05/04/2017,"Apt 377 The Oaks, Trimblestown, Goatstown Road",Dublin,550000.0,No,Goatstown,Dublin 14,q3,60%
+07/04/2017,"154 Trimbleston, Goatstown, Dublin 14",Dublin,400000.0,No,Goatstown,Dublin 14,q2,30%
+07/04/2017,"22 Trimbleston, Goatstown Rd, Dublin",Dublin,400000.0,No,Goatstown,Dublin 14,q2,30%
+27/04/2017,"35 Eden Park Dr, Goatstown, Dublin 14",Dublin,710000.0,No,Goatstown,Dublin 14,q4,90%
+03/05/2017,"3 Eden Park Rd, Goatstown, Dublin 14",Dublin,623500.0,No,Goatstown,Dublin 14,q3,80%
+03/05/2017,"42 Mount Carmel Rd, Goatstown, Dublin 14",Dublin,725000.0,No,Goatstown,Dublin 14,q4,90%
+12/05/2017,"96 Taney Crescent, Goatstown, Dublin 14",Dublin,587000.0,No,Goatstown,Dublin 14,q3,70%
+30/05/2017,"3 Farmhill Dr, Goatstown, Dublin 14",Dublin,715000.0,No,Goatstown,Dublin 14,q4,90%
+31/05/2017,"12 Farmhill Rd, Goatstown, Dublin 14",Dublin,700000.0,No,Goatstown,Dublin 14,q4,90%
+08/06/2017,"362 The Oak, Trimbleston, Goatstown Road",Dublin,525609.75,Yes,Goatstown,Dublin 14,q3,60%
+12/06/2017,"42A Drummartin Park, Goatstown, Dublin 14",Dublin,810000.0,No,Goatstown,Dublin 14,q4,100%
+12/06/2017,"55 Goatstown Rd, Dublin 14, Dublin",Dublin,580000.0,No,Goatstown,Dublin 14,q3,70%
+14/06/2017,"382 The Oaks, Trimbleston, Goatstown Road",Dublin,596035.0,Yes,Goatstown,Dublin 14,q3,70%
+16/06/2017,"58 Taney Rd, Goatstown, Dublin 14",Dublin,790000.0,No,Goatstown,Dublin 14,q4,100%
+27/06/2017,"Marian Ville, 8 Mount Carmel Ave, Goatstown Dublin 14",Dublin,545000.0,No,Goatstown,Dublin 14,q3,60%
+29/06/2017,"Apartment 334 Trimbleston, Goatstown Road",Dublin,510000.0,Yes,Goatstown,Dublin 14,q3,60%
+03/07/2017,"170 Trimbleston, Goatstown Rd, Goatstown Dublin 14",Dublin,750000.0,No,Goatstown,Dublin 14,q4,90%
+04/07/2017,"Apt 57 The Willow, Trimbleston, Goatstown Road",Dublin,338000.0,No,Goatstown,Dublin 14,q1,20%
+17/07/2017,"345 The Oaks, Trimbleston, Goatstown Road",Dublin,286343.6,Yes,Goatstown,Dublin 14,q1,10%
+20/07/2017,"43 Hollywood Dr, Goatstown, Dublin 14",Dublin,660000.0,No,Goatstown,Dublin 14,q4,80%
+01/08/2017,"20 Mount Carmel Rd, Goatstown, Dublin 14",Dublin,680000.0,No,Goatstown,Dublin 14,q4,80%
+03/08/2017,"39 Goatstown Rd, Dublin 14, Dublin",Dublin,710000.0,No,Goatstown,Dublin 14,q4,90%
+03/08/2017,"5A Goatstown Cottages, Goatstown Road, Dublin 14",Dublin,104000.0,No,Goatstown,Dublin 14,q1,10%
+03/08/2017,"7 Knockrabo Drive, Mount Anville Road, Goatstown",Dublin,837005.0,Yes,Goatstown,Dublin 14,q4,100%
+18/08/2017,"10 Drummartin Rd, Goatstown, Dublin",Dublin,570000.0,No,Goatstown,Dublin 14,q3,70%
+30/08/2017,"18 Drummartin Rd, Goatstown, Dublin 14",Dublin,665000.0,No,Goatstown,Dublin 14,q4,80%
+06/09/2017,"98 St Aidans Dr, Goatstown, Dublin 14",Dublin,405000.0,No,Goatstown,Dublin 14,q2,30%
+12/09/2017,"24 Ardilea Downs, Mount Anville Rd, Goatstown Dublin 14",Dublin,1050000.0,No,Goatstown,Dublin 14,q4,100%
+14/09/2017,"91 Mount Anville Park, Goatstown, Dublin 14",Dublin,718000.0,No,Goatstown,Dublin 14,q4,90%
+15/09/2017,"138 Trimbleston, Goatstown, Dublin 14",Dublin,440000.0,No,Goatstown,Dublin 14,q2,40%
+09/10/2017,"63 Goatstown Rd, Dublin 14, Dublin",Dublin,705000.0,No,Goatstown,Dublin 14,q4,90%
+10/10/2017,"381, Trimbleston, Goatstown",Dublin,599118.0,Yes,Goatstown,Dublin 14,q3,70%
+10/10/2017,"76 Taney Crescent, Goatstown, Dublin 14",Dublin,835000.0,No,Goatstown,Dublin 14,q4,100%
+24/10/2017,"House 14, Roebuck Park, Goatstown Dublin 14",Dublin,682500.0,No,Goatstown,Dublin 14,q4,80%
+25/10/2017,"183 Trimblestown, Goatstown, Dublin 14",Dublin,425000.0,No,Goatstown,Dublin 14,q2,40%
+27/10/2017,"6 Eden Park Dr, Goatstown, Dublin 14",Dublin,717000.0,No,Goatstown,Dublin 14,q4,90%
+31/10/2017,"11 Farmhill Drive, Goatstown, Dublin 14",Dublin,400000.0,No,Goatstown,Dublin 14,q2,30%
+14/11/2017,"18 Hollywood Dr, Goatstown, Dublin 14",Dublin,756250.0,No,Goatstown,Dublin 14,q4,90%
+15/11/2017,"6 Mount Anville Park, Goatstown, Dublin 14",Dublin,1100000.0,No,Goatstown,Dublin 14,q4,100%
+15/11/2017,"9 Friarsland Rd, Goatstown, Dublin 14",Dublin,712000.0,No,Goatstown,Dublin 14,q4,90%
+23/11/2017,"9 Drummartin Close, Goatstown, Dublin 14",Dublin,780000.0,No,Goatstown,Dublin 14,q4,100%
+11/12/2017,"79 Taney Ave, Goatstown, Dublin 14",Dublin,502000.0,No,Goatstown,Dublin 14,q3,60%
+12/12/2017,"Fair Field, 130 Mount Anville Park, Goatstown Dublin 14",Dublin,946000.0,No,Goatstown,Dublin 14,q4,100%
+14/12/2017,"5 Knockrabo Avenue, Mount Anville Road, Goatstown",Dublin,748900.0,Yes,Goatstown,Dublin 14,q4,90%
+15/12/2017,"18 Goatstown Rd, Goatstown, Dublin 14",Dublin,655000.0,No,Goatstown,Dublin 14,q4,80%
+18/12/2017,"2 Knockrabo Avenue, Mount Anville Road, Goatstown",Dublin,679025.0,Yes,Goatstown,Dublin 14,q4,80%
+20/12/2017,"18 The Grove, Goatstown Road",Dublin,720264.0,Yes,Goatstown,Dublin 14,q4,90%
+21/12/2017,"15 Goatstown Rd, Goatstown, Dublin 14",Dublin,640000.0,No,Goatstown,Dublin 14,q3,80%
+18/01/2018,"73 Mount Anville Wood, Goatstown, Dublin 14",Dublin,645000.0,No,Goatstown,Dublin 14,q3,80%
+18/01/2018,"9 The Grove, Goatstown Road",Dublin,616740.08,Yes,Goatstown,Dublin 14,q3,70%
+01/02/2018,"15 The Grove, Goatstown Road, Dublin 14",Dublin,555100.0,Yes,Goatstown,Dublin 14,q3,60%
+22/02/2018,"20 The Grove, Goatstown Road, Goatstown",Dublin,726872.0,Yes,Goatstown,Dublin 14,q4,90%
+26/02/2018,"34 Mount Caramel Road, Goatstown, Dublin 14",Dublin,300000.0,No,Goatstown,Dublin 14,q1,10%
+07/03/2018,"Apartemtn 359, Trimbleston, Goatstown",Dublin,572687.0,Yes,Goatstown,Dublin 14,q3,70%
+16/03/2018,"385 Trimbleston, Goatstown Road, Dublin14",Dublin,495000.0,No,Goatstown,Dublin 14,q2,50%
+28/03/2018,"Harlech House, Harlech Downs, Goatstown Rd Dublin 14",Dublin,2180000.0,No,Goatstown,Dublin 14,q4,100%
+04/04/2018,"193 Trimbleston, Goatstown Rd, Dublin 14",Dublin,725000.0,No,Goatstown,Dublin 14,q4,90%
+12/04/2018,"Apt 9 Trimblestown, Goatstown Rd, Trimblestown Dublin 14",Dublin,475000.0,No,Goatstown,Dublin 14,q2,50%
+23/04/2018,"24 Harlech Downs, Goatstown, Dublin 14",Dublin,755000.0,No,Goatstown,Dublin 14,q4,90%
+24/04/2018,"14 The Grove, Goatstown Road, Dublin 14",Dublin,559471.37,Yes,Goatstown,Dublin 14,q3,70%
+01/05/2018,"153 Trimbleston, Goatstown Rd, Dublin 14",Dublin,610000.0,No,Goatstown,Dublin 14,q3,70%
+10/05/2018,"6 Knockrabo Drive, Mount Anville Road, Goatstown",Dublin,748899.0,Yes,Goatstown,Dublin 14,q4,90%
+15/05/2018,"72 St Aidans Dr, Goatstown, Dublin 14",Dublin,870000.0,No,Goatstown,Dublin 14,q4,100%
+18/05/2018,"Appartment 2, Roebuck Park House, Larchfield Park Goatstown",Dublin,340000.0,No,Goatstown,Dublin 14,q1,20%
+29/05/2018,"26 Willowfield Park, Goatstown, Dublin 14",Dublin,600000.0,No,Goatstown,Dublin 14,q3,70%
+31/05/2018,"36 Mount Anville Lawn, Goatstown, Dublin 14",Dublin,875000.0,No,Goatstown,Dublin 14,q4,100%
+07/06/2018,"11 Mount Carmel Ave, Goatstown, Dublin 14",Dublin,630000.0,No,Goatstown,Dublin 14,q3,80%
+22/06/2018,"20 Mount Anville Wood, Goatstown, Dublin 14",Dublin,725000.0,No,Goatstown,Dublin 14,q4,90%
+22/06/2018,"49 Taney Avenue, Goatstown, Dublin 14",Dublin,486000.0,No,Goatstown,Dublin 14,q2,50%
+25/06/2018,"21 The Grove, Goatstown Road, County Dublin",Dublin,726872.0,Yes,Goatstown,Dublin 14,q4,90%
+05/07/2018,"22 Drummartin Terrace, Goatstown, Dublin 14",Dublin,440000.0,No,Goatstown,Dublin 14,q2,40%
+01/08/2018,"22 Mount Anville Lawn, Goatstown, Dublin 14",Dublin,790000.0,No,Goatstown,Dublin 14,q4,100%
+02/08/2018,"104 St Aidans Dr, Goatstown, Dublin",Dublin,677000.0,No,Goatstown,Dublin 14,q4,80%
+03/08/2018,"103 Trimbleston, Goatstown Rd, Dublin 14",Dublin,470000.0,No,Goatstown,Dublin 14,q2,50%
+17/08/2018,"26 Mount Carmel Rd, Goatstown, Dublin 14",Dublin,655000.0,No,Goatstown,Dublin 14,q4,80%
+24/08/2018,"57 Larchfield Road, Goatstown, Dublin 14",Dublin,797750.0,No,Goatstown,Dublin 14,q4,100%
+27/08/2018,"17 The Grove, Goatstown Road",Dublin,775330.39,Yes,Goatstown,Dublin 14,q4,90%
+03/09/2018,"48 Drummartin Terrace, Goatstown, Dublin 14",Dublin,590000.0,No,Goatstown,Dublin 14,q3,70%
+05/09/2018,"37 Goatstown Rd, Goatstown, Dublin 14",Dublin,825000.0,No,Goatstown,Dublin 14,q4,100%
+06/09/2018,"13A Farmhill Rd, Goatstown, Dublin 14",Dublin,698000.0,No,Goatstown,Dublin 14,q4,90%
+27/09/2018,"3 Knockrabo Drive, Mount Anville Road, Goatstown",Dublin,881057.0,Yes,Goatstown,Dublin 14,q4,100%
+28/09/2018,"11 Larchfield Park, Goatstown, Dublin 14",Dublin,793000.0,No,Goatstown,Dublin 14,q4,100%
+05/10/2018,"16 Mount Anville Park, Goatstown, Dublin 14",Dublin,1185000.0,No,Goatstown,Dublin 14,q4,100%
+08/10/2018,"4 Mount Carmel Rd, Goatstown, Dublin 14",Dublin,710000.0,No,Goatstown,Dublin 14,q4,90%
+12/10/2018,"68 St Aidans Dr, Goatstown, Dublin 14",Dublin,795000.0,No,Goatstown,Dublin 14,q4,100%
+17/10/2018,"26 Belfield Downs, Goatstown, Dublin 14",Dublin,632000.0,No,Goatstown,Dublin 14,q3,80%
+26/10/2018,"35 - 37 Farmhill Dr, Goatstown, Dublin 14",Dublin,642500.0,No,Goatstown,Dublin 14,q3,80%
+26/10/2018,"35 - 37 Farmhill Dr, Goatstown, Dublin 14",Dublin,642500.0,No,Goatstown,Dublin 14,q3,80%
+02/11/2018,"13 Friarsland Rd, Goatstown, Dublin 14",Dublin,750001.0,No,Goatstown,Dublin 14,q4,90%
+07/11/2018,"13 Roebuck Park House, Larchfield Park, Goatstown Dublin 14",Dublin,365000.0,No,Goatstown,Dublin 14,q1,20%
+07/11/2018,"46 Farmhill Rd, Goatstown, Dublin 14",Dublin,850000.0,No,Goatstown,Dublin 14,q4,100%
+09/11/2018,"71 Taney Crescent, Goatstown, Dublin 14",Dublin,587500.0,No,Goatstown,Dublin 14,q3,70%
+09/11/2018,"Unit 12  The Grove, Goatstown Road, Goatstown",Dublin,224138.0,Yes,Goatstown,Dublin 14,q1,10%
+09/11/2018,"Unit 13  The Grove, Goatstown Road, Goatstown",Dublin,224138.0,Yes,Goatstown,Dublin 14,q1,10%
+12/11/2018,"25 Birchfield Park, Birchs Lane, Goatstown Dublin 14",Dublin,627000.0,No,Goatstown,Dublin 14,q3,80%
+15/11/2018,"22 Belfield Downs, Goatstown, Dublin 14",Dublin,552000.0,No,Goatstown,Dublin 14,q3,60%
+16/11/2018,"83 Knocknashee, Goatstown, Dublin 14",Dublin,870000.0,No,Goatstown,Dublin 14,q4,100%
+17/11/2018,"22 The Grove, Goatstown Road",Dublin,779736.0,Yes,Goatstown,Dublin 14,q4,100%
+19/11/2018,"123 Goatstown Rd, Dublin 14, Dublin",Dublin,870000.0,No,Goatstown,Dublin 14,q4,100%
+11/12/2018,"5 Willowfield Park, Goatstown, Dublin 14",Dublin,770000.0,No,Goatstown,Dublin 14,q4,90%
+14/12/2018,"37 Birchfield Park, Goatstown, Dublin 14",Dublin,680000.0,No,Goatstown,Dublin 14,q4,80%
+17/12/2018,"10 Birchfield Ave, Birches Lane Goatstown, Dublin 14",Dublin,280000.0,No,Goatstown,Dublin 14,q1,10%
+18/12/2018,"46 Mount Anville Park, Goatstown, Dublin 14",Dublin,720000.0,No,Goatstown,Dublin 14,q4,90%
+21/12/2018,"27 Taney Ave, Goatstown, Dublin 14",Dublin,462000.0,No,Goatstown,Dublin 14,q2,50%
+07/01/2019,"9 Eden Park Rd, Goatstown, Dublin 14",Dublin,670000.0,No,Goatstown,Dublin 14,q4,80%
+08/01/2019,"174 Trimbleston, Goatstown Rd, Dublin 14",Dublin,800000.0,No,Goatstown,Dublin 14,q4,100%
+10/01/2019,"18 Mount Anville Lawn, Goatstown, Dublin 14",Dublin,801000.0,No,Goatstown,Dublin 14,q4,100%
+23/01/2019,"182 Trimbleston, Goatstown Rd, Goatstown Dublin 14",Dublin,590000.0,No,Goatstown,Dublin 14,q3,70%
+31/01/2019,"11 Ardilea Downs, Goatstown, Dublin 14",Dublin,960000.0,No,Goatstown,Dublin 14,q4,100%
+13/02/2019,"19 Goatstown Rd, Dublin",Dublin,551500.0,No,Goatstown,Dublin 14,q3,60%
+19/02/2019,"26 Birchfield Heights, Goatstown, Dublin 14",Dublin,562000.0,No,Goatstown,Dublin 14,q3,70%
+22/02/2019,"1 Roebuck Park House, Roebuck Park, Goatstown",Dublin,352000.0,No,Goatstown,Dublin 14,q1,20%
+25/02/2019,"14A Woodley Park, Goatstown, Dublin 14",Dublin,568473.0,No,Goatstown,Dublin 14,q3,70%
+28/02/2019,"1 Larchfield Rd, Goatstown, Dublin 14",Dublin,1395000.0,No,Goatstown,Dublin 14,q4,100%
+05/04/2019,"7 Birchfield Lawn, Goatstown, Dublin 14",Dublin,595000.0,No,Goatstown,Dublin 14,q3,70%
+09/04/2019,"21 Farmhill Park, Goatstown, Dublin 14",Dublin,540000.0,No,Goatstown,Dublin 14,q3,60%
+29/04/2019,"22 Birchfield Heights, Goatstown, Dublin 14",Dublin,570000.0,No,Goatstown,Dublin 14,q3,70%
+03/05/2019,"328 The Elms, Trimbleston, Goatstown",Dublin,925110.0,Yes,Goatstown,Dublin 14,q4,100%
+15/05/2019,"4 Trimbleston, Goatstown Rd, Goatstown Dublin 14",Dublin,457500.0,No,Goatstown,Dublin 14,q2,50%
+20/05/2019,"2 Birchfield Ave, Goatstown, Dublin 14",Dublin,578000.0,No,Goatstown,Dublin 14,q3,70%
+27/05/2019,"69 Trimbleston, Goatstown Rd, Dublin 14",Dublin,475000.0,No,Goatstown,Dublin 14,q2,50%
+06/06/2019,"369 The Oak, Trimbleston, Goatstown Road",Dublin,330000.0,No,Goatstown,Dublin 14,q1,20%
+12/06/2019,"44 Drummartin Park, Goatstown, Dublin 14",Dublin,665000.0,No,Goatstown,Dublin 14,q4,80%
+24/06/2019,"27A Goatstown Rd, Goatstown, Dublin 14",Dublin,620000.0,No,Goatstown,Dublin 14,q3,80%
+28/06/2019,"25 Farmhill Rd, Goatstown, Dublin 14",Dublin,970000.0,No,Goatstown,Dublin 14,q4,100%
+28/06/2019,"8 Hazelbrook, Kilmacud Rd Upper, Goatstown",Dublin,420000.0,No,Goatstown,Dublin 14,q2,40%
+28/06/2019,"Apartment 322, Trimbleston, Goatstown Road",Dublin,475770.93,Yes,Goatstown,Dublin 14,q2,50%
+04/07/2019,"8 Belfield Downs, Goatstown, Dublin 14",Dublin,540000.0,No,Goatstown,Dublin 14,q3,60%
+12/07/2019,"Apt 77, Trimbleston, Goatstown",Dublin,467500.0,No,Goatstown,Dublin 14,q2,50%
+16/07/2019,"98 Taney Road, Goatstown, Dublin 14",Dublin,745000.0,No,Goatstown,Dublin 14,q4,90%
+24/07/2019,"294 The Elms, Trimbleston, Goatstown",Dublin,262000.0,Yes,Goatstown,Dublin 14,q1,10%
+26/07/2019,"320 Trimbleston, Goatstown, Dublin 14",Dublin,473127.0,Yes,Goatstown,Dublin 14,q2,50%
+29/07/2019,"290 The Elms, Trimblestown, Goatstown Road",Dublin,312775.0,Yes,Goatstown,Dublin 14,q1,10%
+31/07/2019,"24 Belfield Downs, Goatstown, Dublin 14",Dublin,592000.0,No,Goatstown,Dublin 14,q3,70%
+01/08/2019,"Apt 323  Block 2, Trimbleston, Goatstown Rd",Dublin,466960.0,Yes,Goatstown,Dublin 14,q2,50%
+09/08/2019,"46 Drummartin Park, Goatstown, Dublin 14",Dublin,559000.0,No,Goatstown,Dublin 14,q3,70%
+12/08/2019,"18 Belfield Downs, Goatstown, Dublin 14",Dublin,550000.0,No,Goatstown,Dublin 14,q3,60%
+20/08/2019,"42A Drummartin Park, Goatstown, Dublin 14",Dublin,905000.0,No,Goatstown,Dublin 14,q4,100%
+30/08/2019,"220 Lower Kilmacud Road, Goatstown, Dublin 14",Dublin,775000.0,No,Goatstown,Dublin 14,q4,90%
+02/09/2019,"7 Eden Park Rd, Goatstown, Dublin 14",Dublin,620000.0,No,Goatstown,Dublin 14,q3,80%
+12/09/2019,"338 The Oak, Trimblestown, Goatstown Road",Dublin,396476.0,Yes,Goatstown,Dublin 14,q2,30%
+30/09/2019,"200 Trimbleston, Goatstown Rd, Goatstown",Dublin,621000.0,No,Goatstown,Dublin 14,q3,80%
+01/10/2019,"35 Hollywood Dr, Goatstown, Co Dublin",Dublin,870000.0,No,Goatstown,Dublin 14,q4,100%
+17/10/2019,"17 Willowfield Ave, Goatstown, Dublin 14",Dublin,725000.0,No,Goatstown,Dublin 14,q4,90%
+18/10/2019,"43 Taney Ave, Goatstown, Dublin 14",Dublin,500000.0,No,Goatstown,Dublin 14,q3,60%

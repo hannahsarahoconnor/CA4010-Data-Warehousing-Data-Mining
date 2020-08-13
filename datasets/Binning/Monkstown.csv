@@ -1,0 +1,678 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+15/01/2010,"42 Oliver Plunkett Avenue, Monkstown",Dublin,285000.0,No,Monkstown,Co. Dublin,q2,30%
+29/01/2010,"4 Ardenza Terrace, Monkstown",Dublin,1170000.0,No,Monkstown,Co. Dublin,q4,90%
+04/02/2010,"3 Oliver Plunkett Avenue, Monkstown Farm, Monkstown",Dublin,270000.0,No,Monkstown,Co. Dublin,q1,30%
+24/03/2010,"32 Brook Court, Monkstown, Co Dublin",Dublin,725000.0,No,Monkstown,Co. Dublin,q3,80%
+25/03/2010,"10 Abbey Court, St. Fintans Park, Monkstown",Dublin,430000.0,No,Monkstown,Co. Dublin,q2,50%
+25/03/2010,"14 Trafalgar Terrace, Monkstown, Dublin",Dublin,1250000.0,No,Monkstown,Co. Dublin,q4,90%
+26/03/2010,"100 Windsor Drive, Monkstown, Dublin",Dublin,532000.0,No,Monkstown,Co. Dublin,q3,70%
+01/04/2010,"27 Windsor Park, Monkstown",Dublin,510000.0,No,Monkstown,Co. Dublin,q3,60%
+07/04/2010,"18 The Poplars, Monkstown Valley, Monkstown",Dublin,316000.0,No,Monkstown,Co. Dublin,q2,40%
+07/04/2010,"Belmont, The Hill, Monkstown",Dublin,2424000.0,No,Monkstown,Co. Dublin,q4,100%
+26/04/2010,"14 Windsor Park, Monkstown",Dublin,512000.0,No,Monkstown,Co. Dublin,q3,60%
+05/05/2010,"10 Laurel Park, Off Monkstown Ave, Monkstown",Dublin,340000.0,No,Monkstown,Co. Dublin,q2,40%
+21/05/2010,"5 Lanesville Mews, Monkstown",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+31/05/2010,"Apartment 25 The Maples, Monkstown Valley, Monkstown",Dublin,300000.0,No,Monkstown,Co. Dublin,q2,30%
+16/06/2010,"11 De Vesci Terrace, Monkstown, Co. Dublin",Dublin,505000.0,No,Monkstown,Co. Dublin,q3,60%
+21/06/2010,"28 Oliver Plunkett Avenue, Monkstown Farm, Monkstown",Dublin,200000.0,No,Monkstown,Co. Dublin,q1,10%
+02/07/2010,"28 The Beeches, Monkstown",Dublin,317500.0,No,Monkstown,Co. Dublin,q2,40%
+05/07/2010,"4 The Cedars, Monkstown Valley, Monkstown",Dublin,230000.0,No,Monkstown,Co. Dublin,q1,20%
+14/07/2010,"29A Packenham, The Slopes, Monkstown",Dublin,160000.0,No,Monkstown,Co. Dublin,q1,10%
+16/07/2010,"10 Richmond Green, Monkstown",Dublin,381000.0,No,Monkstown,Co. Dublin,q2,50%
+16/07/2010,"47 Abbey Road, Monkstown",Dublin,305000.0,No,Monkstown,Co. Dublin,q2,30%
+27/07/2010,"4 Richmond Green, Monkstown",Dublin,395000.0,No,Monkstown,Co. Dublin,q2,50%
+29/07/2010,"82 Richmond Park, Monkstown",Dublin,385000.0,No,Monkstown,Co. Dublin,q2,50%
+11/08/2010,"Apartment 1 The Maples, Monkstown Valley, Monkstown",Dublin,300000.0,No,Monkstown,Co. Dublin,q2,30%
+17/08/2010,"Santa Maria, Seapoint Avenue, Monkstown",Dublin,2815000.0,No,Monkstown,Co. Dublin,q4,100%
+19/08/2010,"29 Eaton Square, Monkstown",Dublin,285000.0,No,Monkstown,Co. Dublin,q2,30%
+23/08/2010,"54 Abbey Road, Monkstown",Dublin,330000.0,No,Monkstown,Co. Dublin,q2,40%
+26/08/2010,"Albany House, Albany Avenue, Monkstown",Dublin,3740000.0,No,Monkstown,Co. Dublin,q4,100%
+10/09/2010,"74 Monkstown Road, Monkstown",Dublin,815000.0,No,Monkstown,Co. Dublin,q4,90%
+16/09/2010,"Apartment 4, 97 Seapoint Avenue, Monkstown",Dublin,505000.0,No,Monkstown,Co. Dublin,q3,60%
+07/10/2010,"4 Belgrave Road, Monkstown",Dublin,1075000.0,No,Monkstown,Co. Dublin,q4,90%
+14/10/2010,"7 Arundel, Monkstown Valley, Monkstown",Dublin,320000.0,No,Monkstown,Co. Dublin,q2,40%
+14/10/2010,"Ard Sonais, The Hill, Monkstown",Dublin,2500000.0,No,Monkstown,Co. Dublin,q4,100%
+15/10/2010,"15 Windsor Park, Monkstown, County Dublin",Dublin,510500.0,No,Monkstown,Co. Dublin,q3,60%
+26/10/2010,"Apartment 10/11 Verona, Queens Park, Monkstown",Dublin,600000.0,No,Monkstown,Co. Dublin,q3,70%
+22/11/2010,"54 Windsor Drive, Monkstown, County Dublin",Dublin,470000.0,No,Monkstown,Co. Dublin,q3,60%
+26/11/2010,"10 Longford Terrace, Monkstown",Dublin,2500000.0,No,Monkstown,Co. Dublin,q4,100%
+06/12/2010,"12 The Willows, Monkstown Valley, Monkstown",Dublin,200000.0,No,Monkstown,Co. Dublin,q1,10%
+08/12/2010,"2 Brighton Avenue, Monkstown",Dublin,1220000.0,No,Monkstown,Co. Dublin,q4,90%
+14/12/2010,"64 Oliver Plunkett Avenue, Monkstown",Dublin,330000.0,No,Monkstown,Co. Dublin,q2,40%
+16/12/2010,"8 Trafalgar Lane, Monkstown",Dublin,445000.0,No,Monkstown,Co. Dublin,q3,60%
+06/01/2011,"13 Riversdale Court, Monkstown",Dublin,200000.0,No,Monkstown,Co. Dublin,q1,10%
+17/01/2011,"1 St John'S Park, Mounttown, Monkstown",Dublin,780000.0,No,Monkstown,Co. Dublin,q4,80%
+24/01/2011,"10A De Vesci Terrace, Monkstown, Co Dublin",Dublin,20000.0,No,Monkstown,Co. Dublin,q1,10%
+11/02/2011,"3 Eaton Square, Monkstown",Dublin,1340000.0,No,Monkstown,Co. Dublin,q4,100%
+21/02/2011,"No. 56 The Beeches, Monkstown Valley, Monkstown",Dublin,365000.0,No,Monkstown,Co. Dublin,q2,40%
+22/02/2011,"98 Salthill, Block D, Monkstown",Dublin,596700.0,No,Monkstown,Co. Dublin,q3,70%
+31/03/2011,"63 Salthill, Monkstown",Dublin,322500.0,No,Monkstown,Co. Dublin,q2,40%
+06/04/2011,"3 Brook Court, Monkstown",Dublin,455000.0,No,Monkstown,Co. Dublin,q3,60%
+12/04/2011,"35 Montpelier Parade, Monkstown",Dublin,680000.0,No,Monkstown,Co. Dublin,q3,80%
+19/04/2011,"26 Windsor Park, Monkstown",Dublin,405000.0,No,Monkstown,Co. Dublin,q2,50%
+11/05/2011,"2 Patrician Lane, Monkstown, Co. Dublin",Dublin,222000.0,No,Monkstown,Co. Dublin,q1,20%
+27/05/2011,"16 Hibernia Court, Monkstown, Co Dublin",Dublin,180000.0,No,Monkstown,Co. Dublin,q1,10%
+27/05/2011,"29 Richmond Grove, Monkstown",Dublin,471000.0,No,Monkstown,Co. Dublin,q3,60%
+31/05/2011,"45 Seapoint Avenue, Monkstown",Dublin,1310000.0,No,Monkstown,Co. Dublin,q4,100%
+02/06/2011,"55  Ashton Park, Monkstown",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+05/06/2011,"51 St Patricks Crescent, Monkstown",Dublin,204000.0,No,Monkstown,Co. Dublin,q1,20%
+15/06/2011,"7/7A St Patrick'S Terrace, Monkstown",Dublin,200000.0,No,Monkstown,Co. Dublin,q1,10%
+28/06/2011,"8 Richmond Hill, Monkstown, County Dublin",Dublin,1090000.0,No,Monkstown,Co. Dublin,q4,90%
+06/07/2011,"14 St Patricks Crescent, Monkstown, Co. Dublin",Dublin,180000.0,No,Monkstown,Co. Dublin,q1,10%
+22/07/2011,"14 Cambria, De Vesci Court, Monkstown",Dublin,150000.0,No,Monkstown,Co. Dublin,q1,10%
+29/07/2011,"Reduit, The Hill, Monkstown",Dublin,2195500.0,No,Monkstown,Co. Dublin,q4,100%
+05/08/2011,"9 Richmond Park, Monkstown",Dublin,230000.0,No,Monkstown,Co. Dublin,q1,20%
+09/08/2011,"72 St. Patricks Crescent, Monkstown Farm, Monkstown",Dublin,135000.0,No,Monkstown,Co. Dublin,q1,10%
+29/08/2011,"36 Richmond Park, Monkstown",Dublin,207000.0,No,Monkstown,Co. Dublin,q1,20%
+02/09/2011,"57 Carrickbrennan Lawn, Monkstown",Dublin,515000.0,No,Monkstown,Co. Dublin,q3,60%
+08/09/2011,"34 Belgrave Road, Monkstown",Dublin,866000.0,No,Monkstown,Co. Dublin,q4,90%
+15/09/2011,"15 Southdene, Monkstown Valley, Monkstown",Dublin,248100.0,No,Monkstown,Co. Dublin,q1,20%
+23/09/2011,"62 Windsor Drive, Monkstown, Co. Dublin",Dublin,410000.0,No,Monkstown,Co. Dublin,q2,50%
+14/10/2011,"18 Trafalgar Lane, Monkstown",Dublin,337000.0,No,Monkstown,Co. Dublin,q2,40%
+25/10/2011,"13 Abbey Park, Monkstown",Dublin,216000.0,No,Monkstown,Co. Dublin,q1,20%
+02/11/2011,"10 Southdene, Monkstown Valley, Monkstown",Dublin,240000.0,No,Monkstown,Co. Dublin,q1,20%
+02/11/2011,"Alta Vista, 2 Knapton Road, Monkstown",Dublin,1100000.0,No,Monkstown,Co. Dublin,q4,90%
+10/11/2011,"12 Alma Court, Alma Road, Monkstown County Dublin",Dublin,235000.0,No,Monkstown,Co. Dublin,q1,20%
+11/11/2011,"19 Oliver Plunkett Avenue, Monkstown, Co Dublin",Dublin,140000.0,No,Monkstown,Co. Dublin,q1,10%
+30/11/2011,"5, The Cedars, Monkstown Valley  Monkstown",Dublin,173500.0,No,Monkstown,Co. Dublin,q1,10%
+05/12/2011,"103 Queens Court, Queens Park, Monkstown",Dublin,137500.0,No,Monkstown,Co. Dublin,q1,10%
+12/12/2011,"Mitchel Cottage, Montpellier Manor Estate, Monkstown",Dublin,325000.0,No,Monkstown,Co. Dublin,q2,40%
+13/12/2011,"3 Carriglea, Queens Park, Monkstown",Dublin,228500.0,No,Monkstown,Co. Dublin,q1,20%
+14/12/2011,"31 Castle Park, Monkstown",Dublin,463000.0,No,Monkstown,Co. Dublin,q3,60%
+15/12/2011,"82 Oliver Plunkett Road, Monkstown, Co. Dublin",Dublin,170000.0,No,Monkstown,Co. Dublin,q1,10%
+16/12/2011,"1  Abbey Road, Monkstown",Dublin,302500.0,No,Monkstown,Co. Dublin,q2,30%
+16/12/2011,"41 Alma Road, Monkstown, Dublin",Dublin,1580000.0,No,Monkstown,Co. Dublin,q4,100%
+21/12/2011,"29 Southdene, Monkstown",Dublin,165000.0,No,Monkstown,Co. Dublin,q1,10%
+21/12/2011,"40 Southdene, Monkstown",Dublin,380000.0,No,Monkstown,Co. Dublin,q2,40%
+21/12/2011,"9 Richmond House, Richmond Hill, Monkstown",Dublin,276500.0,No,Monkstown,Co. Dublin,q1,30%
+22/12/2011,"2 St Grellans Court, Monkstown Road, Monkstown",Dublin,262500.0,No,Monkstown,Co. Dublin,q1,30%
+13/01/2012,"Apartment 27, Salthill, Monkstown",Dublin,505000.0,No,Monkstown,Co. Dublin,q3,60%
+13/01/2012,"No. 3 St.Grellan'S Court, Monkstown",Dublin,370000.0,No,Monkstown,Co. Dublin,q2,40%
+24/01/2012,"Features, Brighton Lane, Monkstown",Dublin,405000.0,No,Monkstown,Co. Dublin,q2,50%
+01/03/2012,"7 Longford Terrace, Monkstown",Dublin,1500000.0,No,Monkstown,Co. Dublin,q4,100%
+02/03/2012,"11 Salthill Apartments, Monkstown",Dublin,252500.0,No,Monkstown,Co. Dublin,q1,20%
+14/03/2012,"Apt. 23 The Alders, Monkstown Valley, Monkstown",Dublin,185000.0,No,Monkstown,Co. Dublin,q1,10%
+29/03/2012,"10A De Vesci Terrace, Monkstown",Dublin,412000.0,No,Monkstown,Co. Dublin,q2,50%
+18/04/2012,"43 Rory O Connor Park, Monkstown",Dublin,185000.0,No,Monkstown,Co. Dublin,q1,10%
+20/04/2012,"Munster Lodge, Clifton Avenue, Monkstown",Dublin,920000.0,No,Monkstown,Co. Dublin,q4,90%
+02/05/2012,"126 Oliver Plunkett Road, Monkstown",Dublin,190000.0,No,Monkstown,Co. Dublin,q1,10%
+03/05/2012,"Apartment 8, Verona  1 Queenspark, Monkstown Road",Dublin,282500.0,No,Monkstown,Co. Dublin,q1,30%
+16/05/2012,"Apartment 7 Shandon Hall, Shandon Park, Monkstown",Dublin,225000.0,No,Monkstown,Co. Dublin,q1,20%
+24/05/2012,"29 Richmond Park, Monkstown",Dublin,317000.0,No,Monkstown,Co. Dublin,q2,40%
+28/05/2012,"7 Heathfield, Monkstown Road, Monkstown",Dublin,237500.0,No,Monkstown,Co. Dublin,q1,20%
+28/05/2012,"Apt 16 Block 2, The Alders, Monkstown",Dublin,178000.0,No,Monkstown,Co. Dublin,q1,10%
+30/05/2012,"124 Queen'S Court, Queen'S Park, Monkstown",Dublin,144000.0,No,Monkstown,Co. Dublin,q1,10%
+07/06/2012,"3 Seafield Avenue, Seafield Mews, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+08/06/2012,"27A, Packenham The Slopes, Monkstown",Dublin,110000.0,No,Monkstown,Co. Dublin,q1,10%
+21/06/2012,"48 The Beeches, Monkstown Valley, Monkstown",Dublin,255000.0,No,Monkstown,Co. Dublin,q1,20%
+22/06/2012,"84 Oliver Plunkett Road, Monkstown",Dublin,165000.0,No,Monkstown,Co. Dublin,q1,10%
+27/06/2012,"13 The Crescent, Monkstown",Dublin,515000.0,No,Monkstown,Co. Dublin,q3,60%
+29/06/2012,"45 Oliver Plunkett Avenue, Monkstown",Dublin,175500.0,No,Monkstown,Co. Dublin,q1,10%
+29/06/2012,"50 The Beeches, Monkstown Valley, Monkstown",Dublin,265000.0,No,Monkstown,Co. Dublin,q1,30%
+03/07/2012,"11 Eaton Square, Monkstown",Dublin,630000.0,No,Monkstown,Co. Dublin,q3,70%
+04/07/2012,"48 Richmond Avenue, Monkstown, County Dublin",Dublin,430000.0,No,Monkstown,Co. Dublin,q2,50%
+05/07/2012,"Apartment101  Block D, Salthill, Monkstown",Dublin,410000.0,No,Monkstown,Co. Dublin,q2,50%
+12/07/2012,"25 Longford Terrace, Monkstown",Dublin,835000.0,No,Monkstown,Co. Dublin,q4,90%
+17/07/2012,"35 Belgrave Square South, Monkstown",Dublin,2408735.0,No,Monkstown,Co. Dublin,q4,100%
+20/07/2012,"46 Richmond Avenue, Monkstown",Dublin,495000.0,No,Monkstown,Co. Dublin,q3,60%
+25/07/2012,"7 Abbey Road, Monkstown",Dublin,438000.0,No,Monkstown,Co. Dublin,q2,50%
+26/07/2012,"5 Southdene, Monkstown",Dublin,239800.0,No,Monkstown,Co. Dublin,q1,20%
+27/07/2012,"Apartment 69 Salthill, Block C, Monkstown",Dublin,295000.0,No,Monkstown,Co. Dublin,q2,30%
+03/08/2012,"3 Trafalgar Terrace, Monkstown",Dublin,1000000.0,No,Monkstown,Co. Dublin,q4,90%
+07/08/2012,"93 Windsor Drive, Monkstown, County Dublin",Dublin,405000.0,No,Monkstown,Co. Dublin,q2,50%
+17/08/2012,"37 Southdene, Monkstown Valley, Monkstown",Dublin,310000.0,No,Monkstown,Co. Dublin,q2,40%
+21/08/2012,"Trodene, 1 Packenham Road, Monkstown",Dublin,480000.0,No,Monkstown,Co. Dublin,q3,60%
+24/08/2012,"2 Belgrave Road, Monkstown",Dublin,780000.0,No,Monkstown,Co. Dublin,q4,80%
+24/08/2012,"24 Hibernia, De Vesci Court, Monkstown",Dublin,158500.0,No,Monkstown,Co. Dublin,q1,10%
+27/08/2012,"30 Richmond Park, Monkstown",Dublin,328000.0,No,Monkstown,Co. Dublin,q2,40%
+06/09/2012,"33 Southdene, Monkstown Valley, Monkstown",Dublin,310000.0,No,Monkstown,Co. Dublin,q2,40%
+07/09/2012,"4 Lanesville Terrace, Monkstown",Dublin,430000.0,No,Monkstown,Co. Dublin,q2,50%
+10/09/2012,"25 Carrickbrennan Lawn, Monkstown",Dublin,680000.0,No,Monkstown,Co. Dublin,q3,80%
+20/09/2012,"3 The Beeches, Monkstown",Dublin,262000.0,No,Monkstown,Co. Dublin,q1,30%
+24/09/2012,"14 Monkstown Crescent, Monkstown",Dublin,770000.0,No,Monkstown,Co. Dublin,q4,80%
+12/10/2012,"40 Alma Road, Monkstown, Co Dublin",Dublin,942000.0,No,Monkstown,Co. Dublin,q4,90%
+29/10/2012,"66 Clearwater Cove, Monkstown",Dublin,175000.0,No,Monkstown,Co. Dublin,q1,10%
+02/11/2012,"21 Laurel Bank, Lanesville, Monkstown",Dublin,275000.0,No,Monkstown,Co. Dublin,q1,30%
+06/11/2012,"44 Oliver Plunkett Avenue, Monkstown",Dublin,160500.0,No,Monkstown,Co. Dublin,q1,10%
+15/11/2012,"Arranmore, 14 Alma Road, Monkstown",Dublin,2100000.0,No,Monkstown,Co. Dublin,q4,100%
+19/11/2012,"15  Longford Terrace, Monkstown",Dublin,850000.0,No,Monkstown,Co. Dublin,q4,90%
+28/11/2012,"1A Carrickbrennan Lawn, Monkstown",Dublin,412000.0,Yes,Monkstown,Co. Dublin,q2,50%
+29/11/2012,"2 Windsor Park, Monkstown, Co. Dublin",Dublin,460000.0,No,Monkstown,Co. Dublin,q3,60%
+03/12/2012,"11 Abbey Road, Monkstown",Dublin,366000.0,No,Monkstown,Co. Dublin,q2,40%
+03/12/2012,"Clifton Mews, Clifton Lane, Monkstown",Dublin,675000.0,No,Monkstown,Co. Dublin,q3,80%
+07/12/2012,"Apt 16 Monkstown Square, Monkstown",Dublin,200000.0,No,Monkstown,Co. Dublin,q1,10%
+22/12/2012,"25 Richmond Grove, Monkstown, Co Dublin",Dublin,465000.0,No,Monkstown,Co. Dublin,q3,60%
+30/01/2013,"41 Southdene, Monkstown Valley, Monkstown",Dublin,305000.0,No,Monkstown,Co. Dublin,q2,30%
+12/02/2013,"18 Beauparc Downs, Monkstown Valley, Monkstown",Dublin,200000.0,No,Monkstown,Co. Dublin,q1,20%
+08/03/2013,"The Coach House, Monkstown Valley, Monkstown",Dublin,645500.0,No,Monkstown,Co. Dublin,q3,70%
+13/03/2013,"Apt 4  97 Seapoint Avenue, Monkstown",Dublin,500000.0,No,Monkstown,Co. Dublin,q3,60%
+16/04/2013,"46 De Vesci House, Monkstown",Dublin,305000.0,No,Monkstown,Co. Dublin,q2,30%
+23/04/2013,"48 Richmond Park, Monkstown",Dublin,225000.0,No,Monkstown,Co. Dublin,q1,20%
+25/04/2013,"15Monkstown Crescent, Monkstown, Co. Dublin",Dublin,827000.0,No,Monkstown,Co. Dublin,q4,90%
+25/04/2013,"87 Monkstown Avenue, Monkstown, Co Dublin",Dublin,405000.0,No,Monkstown,Co. Dublin,q2,50%
+26/04/2013,"Fourth Knocks, 3 Castle Park, Monkstown",Dublin,680000.0,No,Monkstown,Co. Dublin,q3,80%
+30/04/2013,"32 Ashton Park, Monkstown",Dublin,438000.0,No,Monkstown,Co. Dublin,q2,50%
+01/05/2013,"57 The Beeches, Monkstown Valley, Monkstown",Dublin,281000.0,No,Monkstown,Co. Dublin,q1,30%
+03/05/2013,"16 Alma Road, Monkstown",Dublin,1595000.0,No,Monkstown,Co. Dublin,q4,100%
+16/05/2013,"1 Alma Rd, Monkstown",Dublin,201500.0,No,Monkstown,Co. Dublin,q1,20%
+06/06/2013,"6 The Poplars, Monkstown, Monkstown Valley",Dublin,180000.0,No,Monkstown,Co. Dublin,q1,10%
+12/06/2013,"25 Ashton Park, Monkstown",Dublin,558000.0,No,Monkstown,Co. Dublin,q3,70%
+05/07/2013,"40 De Vesci House, Longford Place, Monkstown",Dublin,193000.0,No,Monkstown,Co. Dublin,q1,10%
+09/07/2013,"18 Cambria, De Vesci Court, Monkstown",Dublin,196600.0,No,Monkstown,Co. Dublin,q1,10%
+11/07/2013,"45 Belgrave Square West, Monkstown",Dublin,1000000.0,No,Monkstown,Co. Dublin,q4,90%
+19/07/2013,"Glengarriff, 24 Alma Road, Monkstown",Dublin,800000.0,No,Monkstown,Co. Dublin,q4,80%
+24/07/2013,"26 Ashton Park, Monkstown",Dublin,475000.0,No,Monkstown,Co. Dublin,q3,60%
+24/07/2013,"Thormanby, 3 Queenspark, Monkstown",Dublin,2175000.0,No,Monkstown,Co. Dublin,q4,100%
+26/07/2013,"16 Southdene, Monkstown Valley, Monkstown",Dublin,298000.0,No,Monkstown,Co. Dublin,q2,30%
+01/08/2013,"21 The Willows, Monkstown Valley, Monkstown",Dublin,171000.0,No,Monkstown,Co. Dublin,q1,10%
+01/08/2013,"9 Alma Road, Monkstown",Dublin,2205000.0,No,Monkstown,Co. Dublin,q4,100%
+02/08/2013,"62 Oliver Plunkett Avenue, Monkstown",Dublin,220000.0,No,Monkstown,Co. Dublin,q1,20%
+13/08/2013,"28 The Poplars, Monkstown Valley, Monkstown",Dublin,293000.0,No,Monkstown,Co. Dublin,q2,30%
+14/08/2013,"32A Carrickbrennan Lawn, Monkstown",Dublin,660000.0,No,Monkstown,Co. Dublin,q3,80%
+16/08/2013,"14 Southdene, Monkstown",Dublin,327000.0,No,Monkstown,Co. Dublin,q2,40%
+28/08/2013,"5 St. Johns Park, Upper Mounttown Road, Monkstown",Dublin,925000.0,No,Monkstown,Co. Dublin,q4,90%
+30/08/2013,"Apartment 16 Salthill, Monkstown",Dublin,499500.0,No,Monkstown,Co. Dublin,q3,60%
+04/09/2013,"Apartment 122 Queens Court, Queens Park, Monkstown",Dublin,280000.0,No,Monkstown,Co. Dublin,q1,30%
+06/09/2013,"38 Belgrave Square, Monkstown",Dublin,770000.0,No,Monkstown,Co. Dublin,q4,80%
+06/09/2013,"The Priory, Monkstown Road, Monkstown",Dublin,4155000.0,No,Monkstown,Co. Dublin,q4,100%
+18/09/2013,"11 Heathfield, Monkstown Road, Dublin",Dublin,317500.0,No,Monkstown,Co. Dublin,q2,40%
+18/09/2013,"5 Grosvenor House, Monkstown",Dublin,219000.0,No,Monkstown,Co. Dublin,q1,20%
+20/09/2013,"28 Richmond Park, Monkstown, Co. Dublin",Dublin,282500.0,No,Monkstown,Co. Dublin,q1,30%
+25/09/2013,"21 Abbey View, Abbey Road, Monkstown",Dublin,215000.0,No,Monkstown,Co. Dublin,q1,20%
+27/09/2013,"17 Hibernia Court, De Vesci Court, Monkstown",Dublin,196000.0,No,Monkstown,Co. Dublin,q1,10%
+01/10/2013,"18 Glandore Court, Monkstown",Dublin,327500.0,No,Monkstown,Co. Dublin,q2,40%
+01/10/2013,"23 Eaton Square, Monkstown",Dublin,1385000.0,No,Monkstown,Co. Dublin,q4,100%
+04/10/2013,"13 Eaton Square, Monkstown",Dublin,1260000.0,No,Monkstown,Co. Dublin,q4,90%
+04/10/2013,"15 Eaton Square, Monkstown",Dublin,975000.0,No,Monkstown,Co. Dublin,q4,90%
+10/10/2013,"10 Beauparc Downs, Monkstown Valley, Monkstown",Dublin,160000.0,No,Monkstown,Co. Dublin,q1,10%
+14/10/2013,"6 The Maples, Monkstown Valley, Monkstown",Dublin,284000.0,No,Monkstown,Co. Dublin,q1,30%
+14/10/2013,"Apt 40 Salthill, Monkstown",Dublin,380000.0,No,Monkstown,Co. Dublin,q2,40%
+15/10/2013,"9 Belgrave Square, Monkstown",Dublin,1460000.0,No,Monkstown,Co. Dublin,q4,100%
+17/10/2013,"Apartment 11 Cambria, De Vesci Court, Monkstown",Dublin,192000.0,No,Monkstown,Co. Dublin,q1,10%
+24/10/2013,"6 Ardenza Terrace, Monkstown",Dublin,1320000.0,No,Monkstown,Co. Dublin,q4,100%
+25/10/2013,"25 Salthill Apartments, Monkstown",Dublin,256000.0,No,Monkstown,Co. Dublin,q1,30%
+25/10/2013,"26 Monkstown Square, Monkstown Avenue, Monkstown",Dublin,185000.0,No,Monkstown,Co. Dublin,q1,10%
+30/10/2013,"20 The Beeches, Monkstown Valley, Monkstown",Dublin,430000.0,No,Monkstown,Co. Dublin,q2,50%
+01/11/2013,"30 Abbey View, Abbey Road, Monkstown",Dublin,225000.0,No,Monkstown,Co. Dublin,q1,20%
+04/11/2013,"22 Trafalgar Terrace, Monkstown",Dublin,775000.0,No,Monkstown,Co. Dublin,q4,80%
+04/11/2013,"5 Brighton Avenue, Monkstown",Dublin,1150000.0,No,Monkstown,Co. Dublin,q4,90%
+08/11/2013,"62 Salthill, Monkstown",Dublin,360000.0,No,Monkstown,Co. Dublin,q2,40%
+29/11/2013,"8 Longford Terrace, Monkstown",Dublin,2000000.0,No,Monkstown,Co. Dublin,q4,100%
+02/12/2013,"11 Abbey Park, Monkstown",Dublin,375000.0,No,Monkstown,Co. Dublin,q2,40%
+06/12/2013,"19 Packenham Apts, Sloperton, Monkstown",Dublin,251000.0,No,Monkstown,Co. Dublin,q1,20%
+10/12/2013,"2 Eaton Place, Monkstown, Dublin",Dublin,1010000.0,No,Monkstown,Co. Dublin,q4,90%
+12/12/2013,"1 St Grellans Court, Monkstown Rd, Monkstown",Dublin,830000.0,No,Monkstown,Co. Dublin,q4,90%
+12/12/2013,"2 The Orchard, Monkstown Valley",Dublin,447000.0,No,Monkstown,Co. Dublin,q3,60%
+19/12/2013,"43 Abbey View, Apt 2, Monkstown Blackrock",Dublin,255000.0,No,Monkstown,Co. Dublin,q1,20%
+20/12/2013,"24 Hibernia, De Vesci Court, Monkstown",Dublin,170000.0,No,Monkstown,Co. Dublin,q1,10%
+23/01/2014,"Belgrave House, 41 Belgrave Sq, Monkstown",Dublin,1915000.0,No,Monkstown,Co. Dublin,q4,100%
+24/01/2014,"10 The Willows, Monkstown Valley, Dublin",Dublin,160000.0,No,Monkstown,Co. Dublin,q1,10%
+31/01/2014,"18 Beaupark Downs, Monkstown Valley, Dublin",Dublin,210000.0,No,Monkstown,Co. Dublin,q1,20%
+31/01/2014,"6 Monkstown Rd, Monkstown, Dublin",Dublin,550000.0,No,Monkstown,Co. Dublin,q3,70%
+07/02/2014,"20 Castlegate, Oliver Plunkett Street, Monkstown",Dublin,127000.0,No,Monkstown,Co. Dublin,q1,10%
+10/02/2014,"14 The Poplars, Monkstown Valley, Monkstown",Dublin,284000.0,No,Monkstown,Co. Dublin,q2,30%
+14/02/2014,"2 Windsor Place, Lanesville, Monkstown",Dublin,340000.0,No,Monkstown,Co. Dublin,q2,40%
+19/02/2014,"Apartment 16 Castlegate, Oliver Plunkett Road, Monkstown",Dublin,125500.0,No,Monkstown,Co. Dublin,q1,10%
+04/03/2014,"73 Salthill, Seapoint Ave, Monkstown",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+07/03/2014,"21 Longford Terrace, Monkstown, Co. Dublin",Dublin,1250000.0,No,Monkstown,Co. Dublin,q4,90%
+12/03/2014,"53 Monkstown Rd, Monkstown, Dublin",Dublin,705000.0,No,Monkstown,Co. Dublin,q3,80%
+14/03/2014,"4 Alma Park, Monkstown Village, Monkstown",Dublin,390000.0,No,Monkstown,Co. Dublin,q2,50%
+18/03/2014,"25 Grovenor House Apts, Monkstown Rd, Monkstown",Dublin,157500.0,No,Monkstown,Co. Dublin,q1,10%
+18/03/2014,"44Mounttown Road, Monkstown, Dublin",Dublin,525000.0,No,Monkstown,Co. Dublin,q3,70%
+28/03/2014,"31 Richmond Ave, Monkstown, Dublin",Dublin,541600.0,No,Monkstown,Co. Dublin,q3,70%
+15/04/2014,"75 Monkstown Ave, Monkstown, Dublin",Dublin,590000.0,No,Monkstown,Co. Dublin,q3,70%
+24/04/2014,"25 Hibernia, De Vesci Court, Monkstown",Dublin,215000.0,No,Monkstown,Co. Dublin,q1,20%
+24/04/2014,"42 De Vesci House, Longford Place, Monkstown",Dublin,185000.0,No,Monkstown,Co. Dublin,q1,10%
+02/05/2014,"7 The Orchard, Monkstown Valley, Monkstown",Dublin,305000.0,No,Monkstown,Co. Dublin,q2,30%
+23/05/2014,"8 Grosvenor Terrace, Monkstown, Dublin",Dublin,1935000.0,No,Monkstown,Co. Dublin,q4,100%
+27/05/2014,"11 The Willows, Monkstown Valley, Monkstown",Dublin,230000.0,No,Monkstown,Co. Dublin,q1,20%
+19/06/2014,"23 The Beeches, Monkstown Valley, Monkstown",Dublin,402500.0,No,Monkstown,Co. Dublin,q2,50%
+20/06/2014,"30 Belgrave Sq South, Monkstown, Dublin",Dublin,2975000.0,No,Monkstown,Co. Dublin,q4,100%
+23/06/2014,"10 The Beeches, Monkstown Valley, Monkstown",Dublin,337500.0,No,Monkstown,Co. Dublin,q2,40%
+24/06/2014,"2 Woodlawn House, Lower Mounttown, Monkstown",Dublin,190000.0,No,Monkstown,Co. Dublin,q1,10%
+24/06/2014,"8 Oliver Plunkett Sq, Monkstown Farm, Monkstown",Dublin,275000.0,No,Monkstown,Co. Dublin,q1,30%
+26/06/2014,"2 Knapton Terrace, Knapton Rd, Monkstown",Dublin,1495000.0,No,Monkstown,Co. Dublin,q4,100%
+26/06/2014,"White Lodge, 71 Monkstown Rd, Monkstown",Dublin,630000.0,No,Monkstown,Co. Dublin,q3,70%
+01/07/2014,"Melrose, Belgrave Rd, Monkstown",Dublin,730000.0,No,Monkstown,Co. Dublin,q3,80%
+11/07/2014,"19 The Maples, Monkstown Valley, Dublin",Dublin,151171.2,No,Monkstown,Co. Dublin,q1,10%
+17/07/2014,"18 Carrig House, Carrickbrennan Road, Monkstown",Dublin,274000.0,No,Monkstown,Co. Dublin,q1,30%
+28/07/2014,"2 Brighton Ave, Monkstown, Dublin",Dublin,1475000.0,No,Monkstown,Co. Dublin,q4,100%
+29/07/2014,"21 The Alders, Monkstown Valley, Monkstown",Dublin,261000.0,No,Monkstown,Co. Dublin,q1,30%
+29/07/2014,"6 Eaton Place, Monkstown, Dublin",Dublin,1150000.0,No,Monkstown,Co. Dublin,q4,90%
+31/07/2014,"Brockly, The Hill, Monkstown",Dublin,2780000.0,No,Monkstown,Co. Dublin,q4,100%
+08/08/2014,"12 Monkstown Gate, Pakenham Rd, Monkstown",Dublin,698500.0,No,Monkstown,Co. Dublin,q3,80%
+08/08/2014,"17 Riverdale Court, Queens Park, Monkstown",Dublin,255000.0,No,Monkstown,Co. Dublin,q1,30%
+13/08/2014,"48 Packenham, The Slopes, Monkstown",Dublin,385000.0,No,Monkstown,Co. Dublin,q2,50%
+14/08/2014,"81 Salthill, Monkstown, Dublin",Dublin,340000.0,No,Monkstown,Co. Dublin,q2,40%
+15/08/2014,"29 Abbeyview, Monkstown, Co Dublin",Dublin,230000.0,No,Monkstown,Co. Dublin,q1,20%
+18/08/2014,"111 Salthill Apartments, Monkstown, Co Dublin",Dublin,850000.0,No,Monkstown,Co. Dublin,q4,90%
+22/08/2014,"22 Eaton Sq, Monkstown, Dublin",Dublin,1335000.0,No,Monkstown,Co. Dublin,q4,100%
+22/08/2014,"30 Salthill Apts, Monkstown, Dublin",Dublin,380000.0,No,Monkstown,Co. Dublin,q2,40%
+25/08/2014,"17 Southdene, Monkstown Valley, Monkstown",Dublin,332000.0,No,Monkstown,Co. Dublin,q2,40%
+28/08/2014,"9 Riverdale Court, Queens Park, Monkstown",Dublin,275000.0,No,Monkstown,Co. Dublin,q1,30%
+29/08/2014,"23 Lanesville, Monkstown, Dublin",Dublin,632500.0,No,Monkstown,Co. Dublin,q3,70%
+29/08/2014,"32 The Poplars, Monkstown Valley, Monsktown",Dublin,310000.0,No,Monkstown,Co. Dublin,q2,40%
+09/09/2014,"The Albany, Albany Ave, Monkstown",Dublin,3300000.0,No,Monkstown,Co. Dublin,q4,100%
+18/09/2014,"11 Carrickbrennan Lawn, Monkstown, Dublin",Dublin,855000.0,No,Monkstown,Co. Dublin,q4,90%
+18/09/2014,"23 Belgrave Rd, Monkstown, Dublin",Dublin,951000.0,No,Monkstown,Co. Dublin,q4,90%
+19/09/2014,"19 The Maples, Monkstown Valley, Dublin",Dublin,151200.0,No,Monkstown,Co. Dublin,q1,10%
+22/09/2014,"16 De Vesci House, Longford Terrace, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+22/09/2014,"2 De Vesci House, Longford Terrace, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+22/09/2014,"21 De Vesci House, Longford Terrace, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+22/09/2014,"6 De Vesci House, Longford Terrace, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+24/09/2014,"2 Hibernia, De Vesci Court, Monkstown",Dublin,270000.0,No,Monkstown,Co. Dublin,q1,30%
+25/09/2014,"The Lodge, Abbey Road, Monkstown",Dublin,535000.0,No,Monkstown,Co. Dublin,q3,70%
+26/09/2014,"33 Carrickbrennan Lawn, Monkstown, Dublin",Dublin,904000.0,No,Monkstown,Co. Dublin,q4,90%
+26/09/2014,"5 Longford Terrace, Monkstown, Dublin",Dublin,2200000.0,No,Monkstown,Co. Dublin,q4,100%
+30/09/2014,"9 Richmond Green, Monkstown",Dublin,485000.0,No,Monkstown,Co. Dublin,q3,60%
+03/10/2014,"43 Alma Road, Monkstown, Co Dublin",Dublin,2625000.0,No,Monkstown,Co. Dublin,q4,100%
+07/10/2014,"10 De Vesci Terrace, Monkstown, Co Dublin",Dublin,1400000.0,No,Monkstown,Co. Dublin,q4,100%
+09/10/2014,"1 Eaton Place, Monkstown, Dublin",Dublin,1350000.0,No,Monkstown,Co. Dublin,q4,100%
+09/10/2014,"8 Shandon Hall, Shandon Park, Monkstown",Dublin,393000.0,No,Monkstown,Co. Dublin,q2,50%
+15/10/2014,"3 Abbey Park, Monkstown, County Dublin",Dublin,410000.0,No,Monkstown,Co. Dublin,q2,50%
+16/10/2014,"28 Southdene, Monkstown, Dublin",Dublin,360000.0,No,Monkstown,Co. Dublin,q2,40%
+22/10/2014,"15 Windsor Court, Monkstown, Dublin",Dublin,307000.0,No,Monkstown,Co. Dublin,q2,30%
+24/10/2014,"12 De Vesci House, Longford Place, Monkstown",Dublin,265000.0,No,Monkstown,Co. Dublin,q1,30%
+29/10/2014,"77 Richmond Park, Monkstown, Dublin",Dublin,491500.0,No,Monkstown,Co. Dublin,q3,60%
+31/10/2014,"20 Castle Park, Monkstown, Dublin",Dublin,755000.0,No,Monkstown,Co. Dublin,q4,80%
+11/11/2014,"18 Abbey Park, Monkstown, Dublin",Dublin,515000.0,No,Monkstown,Co. Dublin,q3,60%
+14/11/2014,"18 Alma Park, Monsktown Village, Monkstown",Dublin,575000.0,No,Monkstown,Co. Dublin,q3,70%
+20/11/2014,"4 Arundel, Monkstown Valley, Monkstown",Dublin,320000.0,No,Monkstown,Co. Dublin,q2,40%
+01/12/2014,"45 De Vesci House, Monkstown, Dublin",Dublin,325000.0,No,Monkstown,Co. Dublin,q2,40%
+04/12/2014,"Apt 14, Monkstown Sq, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+08/12/2014,"75 Salthill, Monkstown, Co Dublin",Dublin,660000.0,No,Monkstown,Co. Dublin,q3,80%
+11/12/2014,"10 Monkstown Manor, Monkstown Farm, Monkstown",Dublin,134000.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"12 Monkstown Manor, Monkstown Farm, Monkstown",Dublin,172000.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"17 Monkstown Manor, Monkstown Farm, Monkstown",Dublin,215125.0,No,Monkstown,Co. Dublin,q1,20%
+11/12/2014,"18 Monkstown Manor, Monkstown Farm, Monkstown",Dublin,215125.0,No,Monkstown,Co. Dublin,q1,20%
+11/12/2014,"19 Monkstown Manor, Monkstown Farm, Monkstown",Dublin,215125.0,No,Monkstown,Co. Dublin,q1,20%
+11/12/2014,"20 Monkstown Manor, Monkstown Farm, Monkstown",Dublin,215125.0,No,Monkstown,Co. Dublin,q1,20%
+11/12/2014,"5 Monkstown Manor, Monkstown Farm, Monkstown",Dublin,172500.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"8 Monkstown Manor, Monkstown Farm, Monkstown",Dublin,134500.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"Apt 11, Monkstown Manor, Monkstown Farm",Dublin,172000.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"Apt 13, Monkstown Manor, Monkstown Farm",Dublin,172000.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"Apt 16, Monkstown Manor, Monkstown Farm",Dublin,134500.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"Apt 2, Monkstown Manor, Monkstown Farm",Dublin,172500.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"Apt 4, Monkstown Manor, Monkstown Farm",Dublin,134500.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"Apt 6, Monkstown Manor, Monkstown Farm",Dublin,172000.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"Apt 7, Monkstown Manor, Monkstown Farm",Dublin,134500.0,No,Monkstown,Co. Dublin,q1,10%
+11/12/2014,"Apt 9, Monkstown Manor, Monkstown Farm",Dublin,134000.0,No,Monkstown,Co. Dublin,q1,10%
+12/12/2014,"12 Richmond Ave, Monkstown, Dublin",Dublin,800000.0,No,Monkstown,Co. Dublin,q4,80%
+22/12/2014,"10 St Patrick'S Crescent, Monkstown",Dublin,389298.0,No,Monkstown,Co. Dublin,q2,50%
+30/12/2014,"1A Alma Road, Monkstown",Dublin,1150000.0,Yes,Monkstown,Co. Dublin,q4,90%
+02/01/2015,"12 The Cedars, Monkstown Valley, Monkstown",Dublin,270000.0,No,Monkstown,Co. Dublin,q1,30%
+09/01/2015,"11 Belgrave Square, Monkstown",Dublin,1695000.0,No,Monkstown,Co. Dublin,q4,100%
+16/01/2015,"Apartment 13, Alma Road, Monkstown",Dublin,125000.0,No,Monkstown,Co. Dublin,q1,10%
+26/01/2015,"5 Clifton Terrace, Monkstown, Dublin",Dublin,1600000.0,No,Monkstown,Co. Dublin,q4,100%
+02/02/2015,"25 Southdene, Monkstown Valley, Monkstown",Dublin,355000.0,No,Monkstown,Co. Dublin,q2,40%
+04/02/2015,"2 Monkstown Sq, Monkstown, Dublin",Dublin,240000.0,No,Monkstown,Co. Dublin,q1,20%
+05/02/2015,"74 Richmond Park, Monkstown, Dublin",Dublin,300000.0,No,Monkstown,Co. Dublin,q2,30%
+09/02/2015,"58 The Beeches, Monkstown Valley, Monkstown",Dublin,557000.0,No,Monkstown,Co. Dublin,q3,70%
+13/02/2015,"2 Longford Place, Monkstown, Dublin",Dublin,831500.0,No,Monkstown,Co. Dublin,q4,90%
+02/03/2015,"47 Salthill, Monkstown, Dublin",Dublin,340000.0,No,Monkstown,Co. Dublin,q2,40%
+06/03/2015,"27 Castle Pk, Monkstown, Dublin",Dublin,735000.0,No,Monkstown,Co. Dublin,q3,80%
+10/03/2015,"9 Trafalgar Terrace, Monkstown",Dublin,1150000.0,No,Monkstown,Co. Dublin,q4,90%
+20/03/2015,"2 Montpelier Manor, Monkstown, Dublin",Dublin,695000.0,No,Monkstown,Co. Dublin,q3,80%
+31/03/2015,"19 Richmond Park, Monkstown, Dublin",Dublin,525000.0,No,Monkstown,Co. Dublin,q3,70%
+15/04/2015,"25 The Alders, Monkstown Valley, Monkstown",Dublin,220000.0,No,Monkstown,Co. Dublin,q1,20%
+20/04/2015,"20 Shandon Park, Monkstown, Dublin",Dublin,650000.0,No,Monkstown,Co. Dublin,q3,70%
+21/04/2015,"3 The Mews, Monkstown Castle, Monkstown Ave",Dublin,662500.0,No,Monkstown,Co. Dublin,q3,80%
+23/04/2015,"13 Oliver Plunkett Sq, Monkstown, Dublin",Dublin,298000.0,No,Monkstown,Co. Dublin,q2,30%
+28/04/2015,"1 Carrig House, Carrickbrennan Rd, Monkstown",Dublin,295000.0,No,Monkstown,Co. Dublin,q2,30%
+01/05/2015,"106 Oliver Plunkett Rd, Monkstown, Dublin",Dublin,290000.0,No,Monkstown,Co. Dublin,q2,30%
+25/05/2015,"84 Salthill, Monkstown, Dublin",Dublin,525000.0,No,Monkstown,Co. Dublin,q3,70%
+29/05/2015,"28 Monkstown Road, Monkstown, Co. Dublin",Dublin,458300.0,No,Monkstown,Co. Dublin,q3,60%
+08/06/2015,"16 Mounttown Villas, Lower Mounttown Rd, Monkstown",Dublin,344000.0,No,Monkstown,Co. Dublin,q2,40%
+10/06/2015,"28 Longford Terrace, Monkstown, Dublin",Dublin,1600000.0,No,Monkstown,Co. Dublin,q4,100%
+12/06/2015,"1 Alma Court, Alma Rd, Monkstown",Dublin,285000.0,No,Monkstown,Co. Dublin,q2,30%
+30/06/2015,"75 Rickmond Park, Monkstown, Dublin",Dublin,399500.0,No,Monkstown,Co. Dublin,q2,50%
+20/07/2015,"1 The Beeches, Monkstown Valley, Monkstown Road",Dublin,100995.0,No,Monkstown,Co. Dublin,q1,10%
+24/07/2015,"21 Trafalgar Lane, Monkstown, Dublin",Dublin,580000.0,No,Monkstown,Co. Dublin,q3,70%
+24/07/2015,"Seapoint Lodge, 31 Seapoint Ave, Monkstown",Dublin,1800000.0,No,Monkstown,Co. Dublin,q4,100%
+29/07/2015,"29 St Patricks Crescent, Monkstown, Dublin",Dublin,381125.0,No,Monkstown,Co. Dublin,q2,50%
+29/07/2015,"92 St Patricks Cst, Monkstown Farm, Dunleoghaire",Dublin,420000.0,No,Monkstown,Co. Dublin,q2,50%
+31/07/2015,"14 The Beeches, Monkstown Valley, Dublin",Dublin,360000.0,No,Monkstown,Co. Dublin,q2,40%
+04/08/2015,"21 Salthill Apts, Monkstown, Dublin",Dublin,695000.0,No,Monkstown,Co. Dublin,q3,80%
+13/08/2015,"2 Drayton Close, Monkstown, Dublin",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+17/08/2015,"Apt. 6 Beauparc Downes, Monkstown Valley, Dublin",Dublin,190000.0,No,Monkstown,Co. Dublin,q1,10%
+21/08/2015,"44 The Poplars, Monkstown Valley, Monkstown",Dublin,220000.0,No,Monkstown,Co. Dublin,q1,20%
+26/08/2015,"103 Queens Court, Queens Park, Monkstown",Dublin,270000.0,No,Monkstown,Co. Dublin,q1,30%
+31/08/2015,"3 Alma Park, Monkstown, County Dublin",Dublin,455000.0,No,Monkstown,Co. Dublin,q3,60%
+02/09/2015,"1 Pakenham Apts, Sloperton, Monkstown",Dublin,345000.0,No,Monkstown,Co. Dublin,q2,40%
+09/09/2015,"22 Belgrave Rd, Monkstown, Dublin",Dublin,1200000.0,No,Monkstown,Co. Dublin,q4,90%
+10/09/2015,"3 Beauparc Downs, Monkstown Valley, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+10/09/2015,"34 De Vesci House, Longford Place, Monkstown",Dublin,309000.0,No,Monkstown,Co. Dublin,q2,30%
+10/09/2015,"Hollyville, 3 Carrickbrennan Road, Monkstown",Dublin,300000.0,No,Monkstown,Co. Dublin,q2,30%
+21/09/2015,"19 Abbey Court, Abbey Rd, Monkstown",Dublin,427000.0,No,Monkstown,Co. Dublin,q2,50%
+25/09/2015,"43 Windsor Park, Monkstown, Dublin",Dublin,630000.0,No,Monkstown,Co. Dublin,q3,70%
+01/10/2015,"32 Monkstown Ave, Monkstown, Dublin",Dublin,652500.0,No,Monkstown,Co. Dublin,q3,80%
+02/10/2015,"31 Abbey Rd, Monkstown, Dublin",Dublin,420000.0,No,Monkstown,Co. Dublin,q2,50%
+05/10/2015,"32 The Willows, Monkstown Valley, Dublin",Dublin,228000.0,No,Monkstown,Co. Dublin,q1,20%
+21/10/2015,"2 Richmond Ave, Monkstown, Dublin",Dublin,871527.0,No,Monkstown,Co. Dublin,q4,90%
+23/10/2015,"136 St Patrick Crescent, Monkstown Farm, Dunlaoire",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+30/10/2015,"12 Oliver Plunkett Ave, Monkstown Farm, Dunlaoire",Dublin,310000.0,No,Monkstown,Co. Dublin,q2,40%
+10/11/2015,"Apt 2, 91 Seapoint Ave, Monkstown",Dublin,675000.0,No,Monkstown,Co. Dublin,q3,80%
+11/11/2015,"20 Monkstown Sq, Monkstown, Dublin",Dublin,220000.0,No,Monkstown,Co. Dublin,q1,20%
+12/11/2015,"2 Richmond Park, Monkstown, Dublin",Dublin,410000.0,No,Monkstown,Co. Dublin,q2,50%
+17/11/2015,"3 The Mews, Monkstown Castle, Monkstown Ave",Dublin,695000.0,No,Monkstown,Co. Dublin,q3,80%
+20/11/2015,"21 Packenham, Sloperton, Monkstown",Dublin,345000.0,No,Monkstown,Co. Dublin,q2,40%
+20/11/2015,"7 Alma Court, Alma Road, Monkstown",Dublin,425000.0,No,Monkstown,Co. Dublin,q2,50%
+27/11/2015,"54 Carrickbrennan Lawn, Monkstown, Dublin",Dublin,790000.0,No,Monkstown,Co. Dublin,q4,80%
+02/12/2015,"Corner House, Knapton Road, Monkstown",Dublin,910000.0,No,Monkstown,Co. Dublin,q4,90%
+08/12/2015,"104 Queens Court, Queens Park, Monkstown",Dublin,275000.0,No,Monkstown,Co. Dublin,q1,30%
+08/12/2015,"54 Monkstown Road, Monkstown",Dublin,1000000.0,No,Monkstown,Co. Dublin,q4,90%
+10/12/2015,"5 Brighton Ave, Monkstown, Dublin",Dublin,1315000.0,No,Monkstown,Co. Dublin,q4,100%
+11/12/2015,"7 St Patricks Crescent, Monkstown, Dublin",Dublin,275000.0,No,Monkstown,Co. Dublin,q1,30%
+22/12/2015,"27 The Poplars, Monkstown Valley, Monkstown",Dublin,375000.0,No,Monkstown,Co. Dublin,q2,40%
+05/01/2016,"36 The Alders, Monkstown Valley, Monkstown",Dublin,230000.0,No,Monkstown,Co. Dublin,q1,20%
+06/01/2016,"Drayton Mews, Monkstown Rd, Monkstown",Dublin,900000.0,No,Monkstown,Co. Dublin,q4,90%
+11/01/2016,"8 Drayton Close, Monkstown, Dublin",Dublin,365000.0,No,Monkstown,Co. Dublin,q2,40%
+15/01/2016,"Katonah, Castle Park, Monkstown",Dublin,770000.0,No,Monkstown,Co. Dublin,q4,80%
+18/01/2016,"30 Belgrave Road, Monkstown, Co. Dublin",Dublin,1375000.0,No,Monkstown,Co. Dublin,q4,100%
+20/01/2016,"11 Richmond House, Richmond Hill, Monkstown",Dublin,410000.0,No,Monkstown,Co. Dublin,q2,50%
+22/01/2016,"6 The Boplaars, Monkstown, Dublin",Dublin,200000.0,No,Monkstown,Co. Dublin,q1,20%
+25/01/2016,"56 Ashton Park, Monkstown, Dublin",Dublin,615000.0,No,Monkstown,Co. Dublin,q3,70%
+29/01/2016,"26 Pachenham, Monkstown, Dublin",Dublin,218000.0,No,Monkstown,Co. Dublin,q1,20%
+29/01/2016,"73 Windsor Dr, Monkstown, Dublin",Dublin,690000.0,No,Monkstown,Co. Dublin,q3,80%
+01/02/2016,"35 Brook Court, Monkstown, Dublin",Dublin,744500.0,No,Monkstown,Co. Dublin,q4,80%
+03/02/2016,"21 Monkstown Ave, Monkstown, Dublin",Dublin,740000.0,No,Monkstown,Co. Dublin,q4,80%
+05/02/2016,"10 Monkstown Court, Monkstown Farm, Monkstown",Dublin,255000.0,No,Monkstown,Co. Dublin,q1,30%
+05/02/2016,"11 Monkstown Court, Monkstown Farm, Monkstown",Dublin,255000.0,No,Monkstown,Co. Dublin,q1,30%
+05/02/2016,"12 Monkstown Court, Monkstown Farm, Monkstown",Dublin,200000.0,No,Monkstown,Co. Dublin,q1,20%
+05/02/2016,"13Monkstown Court, Monkstown Farm, Monkstown",Dublin,290000.0,No,Monkstown,Co. Dublin,q2,30%
+05/02/2016,"5 Monkstown Court, Monkstown Farm, Monkstown",Dublin,255000.0,No,Monkstown,Co. Dublin,q1,30%
+05/02/2016,"6 Monkstown Court, Monkstown Farm, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+05/02/2016,"7 Monkstown Court, Monkstown Farm, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+05/02/2016,"8 Monkstown Court, Monkstown Farm, Monkstown",Dublin,195000.0,No,Monkstown,Co. Dublin,q1,10%
+05/02/2016,"9 Monkstown Court, Monkstown Farm, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+23/02/2016,"11 Ashton Park, Monkstown, Dun Laouighre",Dublin,500000.0,No,Monkstown,Co. Dublin,q3,60%
+26/02/2016,"24 Windsor Park, Monkstown, Dublin",Dublin,550000.0,No,Monkstown,Co. Dublin,q3,70%
+29/02/2016,"20 Devesci House, Longford Place, Monkstown",Dublin,295000.0,No,Monkstown,Co. Dublin,q2,30%
+10/03/2016,"2 Longford Place, Monkstown, Dublin",Dublin,925000.0,No,Monkstown,Co. Dublin,q4,90%
+14/03/2016,"76 Oliver Plunkett Road, Monkstown, County Dublin",Dublin,310000.0,No,Monkstown,Co. Dublin,q2,40%
+15/03/2016,"27 Carrickbrennan Lawn, Monkstown",Dublin,940000.0,No,Monkstown,Co. Dublin,q4,90%
+24/03/2016,"11 De Vesci House, Longford Place, Monkstown",Dublin,350000.0,No,Monkstown,Co. Dublin,q2,40%
+07/04/2016,"Arbella, Pakenham Rd, Monkstown",Dublin,775000.0,No,Monkstown,Co. Dublin,q4,80%
+18/04/2016,"76 Salthill, Seapoint Ave, Monkstown",Dublin,620000.0,No,Monkstown,Co. Dublin,q3,70%
+26/04/2016,"21 Hibernia, De Vesci Court, Monkstown",Dublin,285000.0,No,Monkstown,Co. Dublin,q2,30%
+27/04/2016,"15 Grosvenor House, Grosvenor Terrace, Monkstown",Dublin,365000.0,No,Monkstown,Co. Dublin,q2,40%
+19/05/2016,"10 Alma Park, Monkstown, Dublin",Dublin,545000.0,No,Monkstown,Co. Dublin,q3,70%
+20/05/2016,"11 Lanesville, Monkstown Farm, Monkstown",Dublin,475770.93,Yes,Monkstown,Co. Dublin,q3,60%
+20/05/2016,"16 The Willows, Monkstown Valley, Monkstown",Dublin,218000.0,No,Monkstown,Co. Dublin,q1,20%
+20/05/2016,"Apt 31 Carrig House, Carrickbrennan Road, Monkstown",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+30/05/2016,"14 Lanesville, Monkstown, Co. Dublin",Dublin,480176.21,Yes,Monkstown,Co. Dublin,q3,60%
+03/06/2016,"48 Windsor Park, Monkstown, Dublin",Dublin,610000.0,No,Monkstown,Co. Dublin,q3,70%
+08/06/2016,"13 Lanesville, Monkstown",Dublin,462555.0,Yes,Monkstown,Co. Dublin,q3,60%
+09/06/2016,"34 Monkstown Rd, Monkstown, Dublin",Dublin,885000.0,No,Monkstown,Co. Dublin,q4,90%
+15/06/2016,"Apt 1 Richmond Cheshire House, Richmond Park, Monkstown",Dublin,1500000.0,No,Monkstown,Co. Dublin,q4,100%
+20/06/2016,"11 St Patricks Crescent, Monkstown Farm, Dublin",Dublin,175000.0,No,Monkstown,Co. Dublin,q1,10%
+23/06/2016,"95 Seapoint Ave, Monkstown, Dublin",Dublin,1500000.0,No,Monkstown,Co. Dublin,q4,100%
+30/06/2016,"19 Castlegate, Oliver Plunkett Rd, Monkstown Farm",Dublin,280000.0,No,Monkstown,Co. Dublin,q1,30%
+05/07/2016,"1A Queenspark, Monkstown, Dublin",Dublin,1087500.0,No,Monkstown,Co. Dublin,q4,90%
+06/07/2016,"5 Grosvenor Terrace, Monkstown, Dublin",Dublin,700000.0,No,Monkstown,Co. Dublin,q3,80%
+08/07/2016,"12 Lanesville, Monkstown Farm, Monkstown",Dublin,462555.0,Yes,Monkstown,Co. Dublin,q3,60%
+12/07/2016,"Apt 2 Scotia, De Vese Court, Monkstown",Dublin,270000.0,No,Monkstown,Co. Dublin,q1,30%
+14/07/2016,"15 The Poplars, Monkstown Valley, Monkstown",Dublin,415000.0,No,Monkstown,Co. Dublin,q2,50%
+14/07/2016,"5 Montpelier Manor, Monkstown Rd, Monkstown",Dublin,745000.0,No,Monkstown,Co. Dublin,q4,80%
+15/07/2016,"22 Ashton Park, Monkstown, Dublin",Dublin,825000.0,No,Monkstown,Co. Dublin,q4,90%
+21/07/2016,"31 The Willows, Monkstown Valley, Dublin",Dublin,230000.0,No,Monkstown,Co. Dublin,q1,20%
+25/07/2016,"12 Eaton Sq, Monkstown, Dublin",Dublin,1450000.0,No,Monkstown,Co. Dublin,q4,100%
+26/07/2016,"45 Monkstown Rd, Monkstown, Dublin",Dublin,575000.0,No,Monkstown,Co. Dublin,q3,70%
+26/08/2016,"14 Beauparc Downs, Monkstown, Co Dublin",Dublin,360000.0,No,Monkstown,Co. Dublin,q2,40%
+31/08/2016,"43 Richmond Park, Monkstown, Dublin",Dublin,560000.0,No,Monkstown,Co. Dublin,q3,70%
+02/09/2016,"Apt 24 Salthill, Seapoint Avenue, Monkstown",Dublin,340000.0,No,Monkstown,Co. Dublin,q2,40%
+06/09/2016,"Ravello, Castle Park, Monkstown",Dublin,775000.0,No,Monkstown,Co. Dublin,q4,80%
+09/09/2016,"16 Ashton Park, Monkstown, Dublin",Dublin,697500.0,No,Monkstown,Co. Dublin,q3,80%
+16/09/2016,"43 Abbey Rd, Monkstown, Dublin",Dublin,430000.0,No,Monkstown,Co. Dublin,q2,50%
+21/09/2016,"Dunmuire, Seafield Ave, Monkstown",Dublin,1650000.0,No,Monkstown,Co. Dublin,q4,100%
+27/09/2016,"15 Richmond Grove, Monkstown, Dublin",Dublin,795000.0,No,Monkstown,Co. Dublin,q4,80%
+07/10/2016,"1 Kilmore, Monkstown Grove, Monkstown",Dublin,430000.0,No,Monkstown,Co. Dublin,q2,50%
+07/10/2016,"15 The Beeches, Monkstown Valley, Dublin",Dublin,370000.0,No,Monkstown,Co. Dublin,q2,40%
+11/10/2016,"15 Richmond Park, Monkstown, Dublin",Dublin,475000.0,No,Monkstown,Co. Dublin,q3,60%
+11/10/2016,"Drayton Lodge, 73 Monkstown Rd, Dublin",Dublin,1700000.0,No,Monkstown,Co. Dublin,q4,100%
+14/10/2016,"90 Windsor Drive, Monkstown, Co Dublin",Dublin,650000.0,No,Monkstown,Co. Dublin,q3,80%
+17/10/2016,"83 Richmond Park, Monkstown, Co Dublin",Dublin,475000.0,No,Monkstown,Co. Dublin,q3,60%
+18/10/2016,"70 Windsor Dr, Monkstown, Dublin",Dublin,710000.0,No,Monkstown,Co. Dublin,q3,80%
+25/10/2016,"23 Windsor Court, Monkstown, Dublin",Dublin,435000.0,No,Monkstown,Co. Dublin,q2,50%
+26/10/2016,"12 Alma Park, Monkstown, Dublin",Dublin,505250.0,No,Monkstown,Co. Dublin,q3,60%
+26/10/2016,"4 The Willows, Monkstown Valley, Monkstown",Dublin,220000.0,No,Monkstown,Co. Dublin,q1,20%
+28/10/2016,"1 Verona, Queens Park, Monkstown",Dublin,410000.0,No,Monkstown,Co. Dublin,q2,50%
+28/10/2016,"44 Carrickbrennan Lawn, Monkstown, Dublin",Dublin,900000.0,No,Monkstown,Co. Dublin,q4,90%
+28/10/2016,"6 Kilmore, Monkstown Grove, Monkstown Ave",Dublin,197000.0,No,Monkstown,Co. Dublin,q1,10%
+28/10/2016,"8 Pakenham, Sloperton, Monkstown",Dublin,327500.0,No,Monkstown,Co. Dublin,q2,40%
+01/11/2016,"31 The Beeches, Monkstown Valley, Monkstown",Dublin,451000.0,No,Monkstown,Co. Dublin,q3,60%
+11/11/2016,"35 Richmond Park, Monkstown, Dublin",Dublin,465000.0,No,Monkstown,Co. Dublin,q3,60%
+11/11/2016,"8 Monkstown Gate, Pakenham Rd, Monkstown",Dublin,700000.0,No,Monkstown,Co. Dublin,q3,80%
+14/11/2016,"24 Castle Park, Monkstown, Dublin",Dublin,767000.0,No,Monkstown,Co. Dublin,q4,80%
+14/11/2016,"8 Richmond Green, Monkstown, Dublin",Dublin,492000.0,No,Monkstown,Co. Dublin,q3,60%
+24/11/2016,"22A Abbey View, Monkstown, Abbey View",Dublin,325000.0,No,Monkstown,Co. Dublin,q2,40%
+06/12/2016,"34 Alma Rd, Monkstown, Dublin",Dublin,1450000.0,No,Monkstown,Co. Dublin,q4,100%
+14/12/2016,"2 The Poplars, Monkstown Valley, Monkstown",Dublin,310000.0,No,Monkstown,Co. Dublin,q2,40%
+15/12/2016,"82 Monkstown Ave, Monkstown, Dublin",Dublin,785000.0,No,Monkstown,Co. Dublin,q4,80%
+20/12/2016,"Alma House, Alma Place, Monkstown",Dublin,470000.0,No,Monkstown,Co. Dublin,q3,60%
+23/01/2017,"9 The Cedars, Monkstown Valley, Monkstown",Dublin,305000.0,No,Monkstown,Co. Dublin,q2,30%
+25/01/2017,"Apt 7 Packenham, Sloperton, Monkstown",Dublin,335000.0,No,Monkstown,Co. Dublin,q2,40%
+26/01/2017,"17 Windsor Park, Monkstown, Dublin",Dublin,660000.0,No,Monkstown,Co. Dublin,q3,80%
+30/01/2017,"The Brambles, Carrickbrennan Road, Monkstown",Dublin,1020000.0,No,Monkstown,Co. Dublin,q4,90%
+03/02/2017,"15 Alma Rd, Monkstown, Dublin",Dublin,1450000.0,No,Monkstown,Co. Dublin,q4,100%
+20/02/2017,"39 Pakenham, The Slopes, Monkstown",Dublin,335000.0,No,Monkstown,Co. Dublin,q2,40%
+22/02/2017,"26 Salthill Apts, Monkstown, Dublin",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+27/02/2017,"2 Monkstown Grove, Monkstown, Dublin",Dublin,658000.0,No,Monkstown,Co. Dublin,q3,80%
+28/02/2017,"4 Verona, Queens Park, Monkstown",Dublin,460000.0,No,Monkstown,Co. Dublin,q3,60%
+06/03/2017,"15 Windsor Court, Monkstown, Dublin",Dublin,345000.0,No,Monkstown,Co. Dublin,q2,40%
+07/03/2017,"Knocknagow Studio, 3A Montpelier Place, Monkstown",Dublin,850000.0,No,Monkstown,Co. Dublin,q4,90%
+09/03/2017,"3 Belgrave Terrace, Monkstown, Dublin",Dublin,1200000.0,No,Monkstown,Co. Dublin,q4,90%
+10/03/2017,"18 Longford Terrace, Monkstown, Dublin",Dublin,2370000.0,No,Monkstown,Co. Dublin,q4,100%
+27/03/2017,"Apt 34 Carrig House, Carrigbrennan Road, Monkstown",Dublin,285000.0,No,Monkstown,Co. Dublin,q2,30%
+06/04/2017,"76 Richmond Pk, Monkstown, Dublin",Dublin,552500.0,No,Monkstown,Co. Dublin,q3,70%
+12/04/2017,"8 Dunedin Terrace, Monkstown, Dublin",Dublin,303500.0,No,Monkstown,Co. Dublin,q2,30%
+13/04/2017,"16 Abbey Park, Monkstown, Dublin",Dublin,540000.0,No,Monkstown,Co. Dublin,q3,70%
+21/04/2017,"41 Salthill, Seapoint Ave, Monkstown",Dublin,420000.0,No,Monkstown,Co. Dublin,q2,50%
+25/04/2017,"Amber, 64 Monkstown Rd, Monkstown",Dublin,870000.0,No,Monkstown,Co. Dublin,q4,90%
+19/05/2017,"12 Salthill, Monkstown, Co Dublin",Dublin,350000.0,No,Monkstown,Co. Dublin,q2,40%
+19/05/2017,"Apt 94 Clearwater Cove, Old Dun Laoghaire Road, Monkstown",Dublin,200000.0,No,Monkstown,Co. Dublin,q1,20%
+19/05/2017,"The Penthouse, 46 De Vesci House, Longford Monkstown",Dublin,610000.0,No,Monkstown,Co. Dublin,q3,70%
+25/05/2017,"5 The Orchard, Monkstown Valley, Monkstown",Dublin,560000.0,No,Monkstown,Co. Dublin,q3,70%
+01/06/2017,"15 Eaton Sq, Monkstown, Dublin",Dublin,1513000.0,No,Monkstown,Co. Dublin,q4,100%
+02/06/2017,"57 Monkstown Rd, Monkstown, Dublin",Dublin,1525000.0,No,Monkstown,Co. Dublin,q4,100%
+02/06/2017,"Richmond Park House, Richmond Park, Monkstown",Dublin,1027240.0,No,Monkstown,Co. Dublin,q4,90%
+06/06/2017,"6 Montpelier Parade, Monkstown, Dublin",Dublin,1200000.0,No,Monkstown,Co. Dublin,q4,90%
+09/06/2017,"18 Riverdale Court, Queens Park, Monkstown",Dublin,331000.0,No,Monkstown,Co. Dublin,q2,40%
+20/06/2017,"27 Monkstown Sq, Monkstown, Dublin",Dublin,325000.0,No,Monkstown,Co. Dublin,q2,40%
+21/06/2017,"7 Alma Court, Alma Road, Monkstown",Dublin,520000.0,No,Monkstown,Co. Dublin,q3,70%
+23/06/2017,"34 Abbey View, Monkstown, Dublin",Dublin,380000.0,No,Monkstown,Co. Dublin,q2,50%
+28/06/2017,"3 Castlegate, Oliver Plunkett Rd, Monkstown",Dublin,185000.0,No,Monkstown,Co. Dublin,q1,10%
+30/06/2017,"1 Arundel, Monkstown Valley, Monkstown",Dublin,740000.0,No,Monkstown,Co. Dublin,q4,80%
+06/07/2017,"10 Eaton Sq, Monkstown, Dublin",Dublin,1200000.0,No,Monkstown,Co. Dublin,q4,90%
+06/07/2017,"28 The Beeches, Monkstown Valley, Co Dublin",Dublin,450000.0,No,Monkstown,Co. Dublin,q3,60%
+11/07/2017,"18 The Alders, Monkstown, Dublin",Dublin,380000.0,No,Monkstown,Co. Dublin,q2,50%
+14/07/2017,"36 Belgrave Sq South, Monkstown, Dublin",Dublin,3730000.0,No,Monkstown,Co. Dublin,q4,100%
+14/07/2017,"45 Richmond Park, Monkstown, Dublin",Dublin,505000.0,No,Monkstown,Co. Dublin,q3,60%
+21/07/2017,"9 Monkstown Gate, Pakenham Rd, Monkstown",Dublin,360000.0,No,Monkstown,Co. Dublin,q2,40%
+24/07/2017,"59 Richmond Ave, Monkstown, Dublin",Dublin,870000.0,No,Monkstown,Co. Dublin,q4,90%
+25/07/2017,"32 Castle Park, Monkstown, Dublin",Dublin,812000.0,No,Monkstown,Co. Dublin,q4,90%
+01/08/2017,"8 Salthill Apts, Monkstown, Dublin",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+02/08/2017,"De Vesci Cottege, Carrickbrennan Rd, Monkstown",Dublin,675000.0,No,Monkstown,Co. Dublin,q3,80%
+23/08/2017,"5 Carraiglea, Queenspark, Monkstown",Dublin,450000.0,No,Monkstown,Co. Dublin,q3,60%
+24/08/2017,"2 Richmond Green, Monkstown, Dublin",Dublin,472000.0,No,Monkstown,Co. Dublin,q3,60%
+30/08/2017,"6 Brook Court, Monkstown, Co Dublin",Dublin,800000.0,No,Monkstown,Co. Dublin,q4,80%
+01/09/2017,"40 Brook Court, Monkstown, Dublin",Dublin,795000.0,No,Monkstown,Co. Dublin,q4,80%
+01/09/2017,"42 De Vesci House, Longford Place, Monkstown",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+06/09/2017,"37 Oliver Plunkett Ave, Monkstown, Dublin",Dublin,455000.0,No,Monkstown,Co. Dublin,q3,60%
+07/09/2017,"Flat 27, Longford Terrace, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+11/09/2017,"10 The Cedars, Monkstown Valley, Monkstown",Dublin,390000.0,No,Monkstown,Co. Dublin,q2,50%
+15/09/2017,"82 Windsor Dr, Monkstown, Dublin",Dublin,618000.0,No,Monkstown,Co. Dublin,q3,70%
+22/09/2017,"23 Laurel Bank, Lanesville, Monkstown",Dublin,320000.0,No,Monkstown,Co. Dublin,q2,40%
+29/09/2017,"52 Ashton Park, Monkstown, Dublin",Dublin,550000.0,No,Monkstown,Co. Dublin,q3,70%
+29/09/2017,"9 The Poplars, Monkstown Valley, Monkstown",Dublin,500000.0,No,Monkstown,Co. Dublin,q3,60%
+03/10/2017,"Castle Cottage, Carrickbrennan Road, Monkstown",Dublin,445000.0,No,Monkstown,Co. Dublin,q3,60%
+06/10/2017,"28 Castle Park, Monkstown, Dublin",Dublin,805000.0,No,Monkstown,Co. Dublin,q4,80%
+09/10/2017,"74 Monkstown Rd, Monkstown, Dublin",Dublin,1780000.0,No,Monkstown,Co. Dublin,q4,100%
+12/10/2017,"3 Alma Court, Alma Rd, Monkstown",Dublin,390000.0,No,Monkstown,Co. Dublin,q2,50%
+13/10/2017,"Apt 33 Carrig House, Carrigbrennan Road, Monkstown",Dublin,300000.0,No,Monkstown,Co. Dublin,q2,30%
+24/10/2017,"63 Windsor Dr, Monkstown, Dublin",Dublin,830000.0,No,Monkstown,Co. Dublin,q4,90%
+25/10/2017,"23 Oliver Plunkett Ave, Monkstown, Dublin",Dublin,465000.0,No,Monkstown,Co. Dublin,q3,60%
+27/10/2017,"Apt 30 De Vesci Court, Monkstown, Co Dublin",Dublin,226000.0,No,Monkstown,Co. Dublin,q1,20%
+10/11/2017,"1 Richmond Hill, Monkstown, Dublin",Dublin,925000.0,No,Monkstown,Co. Dublin,q4,90%
+20/11/2017,"81 Windsor Dr, Monkstown, Dublin",Dublin,762500.0,No,Monkstown,Co. Dublin,q4,80%
+07/12/2017,"16 Packenham, Sloperton, Monkstown",Dublin,240000.0,No,Monkstown,Co. Dublin,q1,20%
+07/12/2017,"25 Eaton Sq, Monkstown, Dublin",Dublin,1275000.0,No,Monkstown,Co. Dublin,q4,100%
+07/12/2017,"Glenville Cottage, 75 Monkstown Rd, Dublin",Dublin,900000.0,No,Monkstown,Co. Dublin,q4,90%
+07/12/2017,"Tulac, Knapton Rd, Monkstown",Dublin,1495000.0,No,Monkstown,Co. Dublin,q4,100%
+08/12/2017,"12 Verona, Queens Park, Monkstown",Dublin,610000.0,No,Monkstown,Co. Dublin,q3,70%
+13/12/2017,"31 The Alders, Monkstown Valley, Monkstown",Dublin,260000.0,No,Monkstown,Co. Dublin,q1,30%
+18/12/2017,"11 The Willows, Monkstown Valley, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+19/12/2017,"16 Arundel, Monkstown Valley, Monkstown",Dublin,531000.0,No,Monkstown,Co. Dublin,q3,70%
+02/01/2018,"51A St Patricks Crescent, Monkstown, Dublin",Dublin,545000.0,No,Monkstown,Co. Dublin,q3,70%
+11/01/2018,"18 The Beeches, Monkstown Valley, Monkstown",Dublin,495000.0,No,Monkstown,Co. Dublin,q3,60%
+12/01/2018,"Albany Lodge, Albany Ave, Monkstown",Dublin,2200000.0,No,Monkstown,Co. Dublin,q4,100%
+24/01/2018,"Casa Tina, Albany Ave, Monkstown",Dublin,1156888.0,No,Monkstown,Co. Dublin,q4,90%
+26/01/2018,"26 Monkstown Sq, Monkstown Ave, Monkstown",Dublin,302000.0,No,Monkstown,Co. Dublin,q2,30%
+01/02/2018,"34 Richmond Park, Monkstown, Dublin",Dublin,685260.0,No,Monkstown,Co. Dublin,q3,80%
+09/02/2018,"12 Castle Park, Monkstown, Dublin",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+09/02/2018,"21 Shandon Park, Monkstown Rd, Monkstown",Dublin,745000.0,No,Monkstown,Co. Dublin,q4,80%
+15/02/2018,"24 Brook Court, Monkstown, Dublin",Dublin,707500.0,No,Monkstown,Co. Dublin,q3,80%
+09/03/2018,"Apt 94 Clearwater Cove, Old Dun Laoghaire Road, Monkstown",Dublin,206953.0,No,Monkstown,Co. Dublin,q1,20%
+14/03/2018,"3 Alma Park, Monkstown Village, County Dublin",Dublin,520000.0,No,Monkstown,Co. Dublin,q3,70%
+15/03/2018,"Apt 17 Packenham Road, The Slope, Monkstown",Dublin,225000.0,No,Monkstown,Co. Dublin,q1,20%
+15/03/2018,"Apt 7 Carraiglea, Queens Park, Monkstown",Dublin,460000.0,No,Monkstown,Co. Dublin,q3,60%
+28/03/2018,"8 Clifton Terrace, Seapoint Ave, Monkstown",Dublin,2200000.0,No,Monkstown,Co. Dublin,q4,100%
+06/04/2018,"Berrington House, 81 Monkstown Rd, Monkstown",Dublin,1450000.0,No,Monkstown,Co. Dublin,q4,100%
+24/04/2018,"12 Longford Terrace, Monkstown, Dublin",Dublin,1680000.0,No,Monkstown,Co. Dublin,q4,100%
+03/05/2018,"72 Rory O'Connor Park, Monkstown, Co Dublin",Dublin,397000.0,No,Monkstown,Co. Dublin,q2,50%
+03/05/2018,"Whalers Cove, 1 Brighton Lane, Monkstown",Dublin,1200000.0,No,Monkstown,Co. Dublin,q4,90%
+14/05/2018,"22 The Poplars, Monkstown Valley, Monkstown",Dublin,475000.0,No,Monkstown,Co. Dublin,q3,60%
+18/05/2018,"3 Windsor Place, Lanesville, Monkstown",Dublin,386500.0,No,Monkstown,Co. Dublin,q2,50%
+23/05/2018,"34 Southdene, Monkstown Valley, Monkstown",Dublin,500000.0,No,Monkstown,Co. Dublin,q3,60%
+01/06/2018,"Apartments 1-3, 36 Abbeyview, Monkstown",Dublin,460000.0,No,Monkstown,Co. Dublin,q3,60%
+12/06/2018,"41 The Beeches, Monkstown Valley, Monkstown",Dublin,505000.0,No,Monkstown,Co. Dublin,q3,60%
+15/06/2018,"60 The Beeches, Monkstown, Dublin",Dublin,420000.0,No,Monkstown,Co. Dublin,q2,50%
+18/06/2018,"5 Dunedin Park, Monkstown, Bkackrock",Dublin,390008.0,No,Monkstown,Co. Dublin,q2,50%
+21/06/2018,"21 Riverdale Court, Queens Park, Monkstown",Dublin,345000.0,No,Monkstown,Co. Dublin,q2,40%
+25/06/2018,"26 Eaton Sq, Monkstown, Dublin",Dublin,1350000.0,No,Monkstown,Co. Dublin,q4,100%
+29/06/2018,"St Annes, Brighton Ave, Monkstown",Dublin,2800000.0,No,Monkstown,Co. Dublin,q4,100%
+06/07/2018,"35 Windsor Park, Monkstown, Co Dublin",Dublin,760000.0,No,Monkstown,Co. Dublin,q4,80%
+20/07/2018,"59 The Beeches, Monkstown, Dublin",Dublin,417000.0,No,Monkstown,Co. Dublin,q2,50%
+24/07/2018,"12 Monkstown Rd, Monkstown, Dublin",Dublin,1050000.0,No,Monkstown,Co. Dublin,q4,90%
+30/07/2018,"9 Glandore Court, Glandore Park, Monkstown",Dublin,552000.0,No,Monkstown,Co. Dublin,q3,70%
+31/07/2018,"15 Arundel, Monkstown Valley, Dublin",Dublin,565000.0,No,Monkstown,Co. Dublin,q3,70%
+01/08/2018,"15 Beaupark Downs, Monkstown Valley, Monkstown",Dublin,407500.0,No,Monkstown,Co. Dublin,q2,50%
+02/08/2018,"St Albans, Albany Ave, Monkstown",Dublin,3600000.0,No,Monkstown,Co. Dublin,q4,100%
+03/08/2018,"25 Richmond Park, Monkstown, Dublin",Dublin,425000.0,No,Monkstown,Co. Dublin,q2,50%
+10/08/2018,"Woodbine, 71 Richmond Park, Monkstown",Dublin,475000.0,No,Monkstown,Co. Dublin,q3,60%
+13/08/2018,"White Lodge, 71 Monkstown Rd, Monkstown",Dublin,770000.0,No,Monkstown,Co. Dublin,q4,80%
+14/08/2018,"32 Alma Rd, Monkstown, Dublin",Dublin,1630000.0,No,Monkstown,Co. Dublin,q4,100%
+16/08/2018,"Apt 80 Salthill, Seapoint Avenue, Monkstown",Dublin,583000.0,No,Monkstown,Co. Dublin,q3,70%
+22/08/2018,"22 Monkstown Manor, Monkstown, Dublin",Dublin,315000.0,No,Monkstown,Co. Dublin,q2,40%
+30/08/2018,"27 Grangeabbey, Abbey Road, Monkstown",Dublin,471366.0,Yes,Monkstown,Co. Dublin,q3,60%
+04/09/2018,"5 Grangeabbey, Abbey Road, Monkstown",Dublin,500000.0,Yes,Monkstown,Co. Dublin,q3,60%
+06/09/2018,"26 Grangeabbey, Abbey Road, Monkstown",Dublin,471365.64,Yes,Monkstown,Co. Dublin,q3,60%
+06/09/2018,"4 Grangeabbey, Abbey Road, Monkstown",Dublin,550661.0,Yes,Monkstown,Co. Dublin,q3,70%
+06/09/2018,"6 Grangeabbey, Abbey Road, Monkstown",Dublin,581497.0,Yes,Monkstown,Co. Dublin,q3,70%
+10/09/2018,"87 Salthill, Seapoint Ave, Monkstown",Dublin,616000.0,No,Monkstown,Co. Dublin,q3,70%
+10/09/2018,"Adare, Carrickbrennan Rd, Monkstown",Dublin,1325000.0,No,Monkstown,Co. Dublin,q4,100%
+14/09/2018,"2 Grangeabbey, Abbey Road, Monkstown",Dublin,440529.0,Yes,Monkstown,Co. Dublin,q3,60%
+14/09/2018,"29 Monkstown Manor, Monkstown Farm, Monkstown",Dublin,281000.0,No,Monkstown,Co. Dublin,q1,30%
+17/09/2018,"1 Grangeabbey, Abbey Road, Monkstown",Dublin,550660.79,Yes,Monkstown,Co. Dublin,q3,70%
+17/09/2018,"29 Grangeabbey, Abbey Road, Monkstown",Dublin,544247.79,Yes,Monkstown,Co. Dublin,q3,70%
+19/09/2018,"28 Grangeabbey, Monkstown",Dublin,431718.0,Yes,Monkstown,Co. Dublin,q2,50%
+21/09/2018,"29 Carrig House, Carrickbrennan Rd, Monkstown",Dublin,250000.0,No,Monkstown,Co. Dublin,q1,20%
+26/09/2018,"6 Drayton Close, Monkstown, Dublin",Dublin,444113.0,No,Monkstown,Co. Dublin,q3,60%
+28/09/2018,"11 Alma Rd, Monkstown, Dublin",Dublin,2400000.0,No,Monkstown,Co. Dublin,q4,100%
+09/10/2018,"8 Heathfield, Monkstown Rd, Monkstown",Dublin,501000.0,No,Monkstown,Co. Dublin,q3,60%
+12/10/2018,"25 The Willows, Monkstown Valley, Monkstown",Dublin,330000.0,No,Monkstown,Co. Dublin,q2,40%
+16/10/2018,"3 Grangeabbey, Abbey Road, Monkstown",Dublin,550660.0,Yes,Monkstown,Co. Dublin,q3,70%
+18/10/2018,"20 Stradbrook Close, Monkstown, Dublin",Dublin,446000.0,No,Monkstown,Co. Dublin,q3,60%
+22/10/2018,"58 Abbey Rd, Monkstown, Dublin",Dublin,612000.0,No,Monkstown,Co. Dublin,q3,70%
+23/10/2018,"57 Ashton Park, Monkstown, Dublin",Dublin,258333.0,No,Monkstown,Co. Dublin,q1,30%
+23/10/2018,"75 Rickmond Park, Monkstown, Dublin",Dublin,525000.0,No,Monkstown,Co. Dublin,q3,70%
+24/10/2018,"The Tower, Pakenham Rd, Monkstown",Dublin,670000.0,No,Monkstown,Co. Dublin,q3,80%
+31/10/2018,"34 The Alders, Monkstown Valley, Dublin",Dublin,295000.0,No,Monkstown,Co. Dublin,q2,30%
+31/10/2018,"7 Grosvenor House, Grosvenor Terrace, Monkstown",Dublin,380000.0,No,Monkstown,Co. Dublin,q2,50%
+31/10/2018,"Garden Apt 35, Abbey Rd, Monkstown",Dublin,455000.0,No,Monkstown,Co. Dublin,q3,60%
+01/11/2018,"9 Clifton Terrace, Monkstown, Dublin",Dublin,2300000.0,No,Monkstown,Co. Dublin,q4,100%
+02/11/2018,"20 Brook Court, Monkstown, Dublin",Dublin,750000.0,No,Monkstown,Co. Dublin,q4,80%
+02/11/2018,"9 Clifton Lane, Monkstown, Dublin",Dublin,1050000.0,No,Monkstown,Co. Dublin,q4,90%
+07/11/2018,"2 Alma Park, Monkstown, Dublin",Dublin,575000.0,No,Monkstown,Co. Dublin,q3,70%
+12/11/2018,"9 Alma Court, Alma Rd, Monkstown",Dublin,490000.0,No,Monkstown,Co. Dublin,q3,60%
+14/11/2018,"5 Kilmore, Monkstown Grove, Monkstown",Dublin,280000.0,No,Monkstown,Co. Dublin,q1,30%
+16/11/2018,"3 The Willows, Monkstown Valley, Monkstown Rd",Dublin,307000.0,No,Monkstown,Co. Dublin,q2,30%
+16/11/2018,"5 Abbeyview Lodge, Abbey Rd, Monkstown",Dublin,405000.0,No,Monkstown,Co. Dublin,q2,50%
+20/11/2018,"4 Riverdale Court, Queens Park, Monkstown",Dublin,315000.0,No,Monkstown,Co. Dublin,q2,40%
+21/11/2018,"5 Windsor Park, Monkstown, Dublin",Dublin,750000.0,No,Monkstown,Co. Dublin,q4,80%
+28/11/2018,"2 Shandon Park, Monkstown, Dublin",Dublin,734000.0,No,Monkstown,Co. Dublin,q3,80%
+29/11/2018,"12A Alma Rd, Monkstown, Dublin",Dublin,655000.0,No,Monkstown,Co. Dublin,q3,80%
+29/11/2018,"8 Dunedin Terrace, Monkstown, Dublin",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+05/12/2018,"2 Lanesville Grove, Monkstown",Dublin,458149.0,Yes,Monkstown,Co. Dublin,q3,60%
+07/12/2018,"5 Eaton Sq, Monkstown, Dublin",Dublin,1175000.0,No,Monkstown,Co. Dublin,q4,90%
+11/12/2018,"16 Grangeabbey, Abbey Road, Monkstown",Dublin,563876.0,Yes,Monkstown,Co. Dublin,q3,70%
+11/12/2018,"18 Grangeabbey, Abbey Road, Monkstown",Dublin,555067.0,Yes,Monkstown,Co. Dublin,q3,70%
+12/12/2018,"62 Carrickbrennan, Monkstown, Dublin",Dublin,700000.0,No,Monkstown,Co. Dublin,q3,80%
+13/12/2018,"18 Richmond Ave, Monkstown, Dublin",Dublin,745000.0,No,Monkstown,Co. Dublin,q4,80%
+13/12/2018,"23 Grangeabbey, Abbey Road, Monkstown",Dublin,207095.08,Yes,Monkstown,Co. Dublin,q1,20%
+13/12/2018,"24 Grangeabbey, Abbey Road, Monkstown",Dublin,207095.08,Yes,Monkstown,Co. Dublin,q1,20%
+13/12/2018,"25 Grangeabbey, Abbey Road, Monkstown",Dublin,207095.08,Yes,Monkstown,Co. Dublin,q1,20%
+14/12/2018,"17 Grangeabbey, Monkstown",Dublin,555066.0,Yes,Monkstown,Co. Dublin,q3,70%
+14/12/2018,"2 Auburn Villas, Carrickbrennan Rd, Monkstown",Dublin,995000.0,No,Monkstown,Co. Dublin,q4,90%
+14/12/2018,"8 Grange Abbey, Abbey Road, Monkstown",Dublin,440528.0,Yes,Monkstown,Co. Dublin,q2,50%
+17/12/2018,"22 Grange Abbey, Monkstown",Dublin,242290.0,Yes,Monkstown,Co. Dublin,q1,20%
+19/12/2018,"7 Grangeabbey, Abbey Road, Monkstown",Dublin,550660.0,Yes,Monkstown,Co. Dublin,q3,70%
+20/12/2018,"4 Kings Villa, Montpellier Parade, Monkstown",Dublin,685000.0,No,Monkstown,Co. Dublin,q3,80%
+20/12/2018,"9 Grangeabbey, Abbey Road, Monkstown",Dublin,550660.0,Yes,Monkstown,Co. Dublin,q3,70%
+21/12/2018,"11 Grangeabbey, Abbey Road, Monkstown",Dublin,440528.63,Yes,Monkstown,Co. Dublin,q2,50%
+03/01/2019,"15 Alma Rd, Monkstown, Dublin",Dublin,2500000.0,No,Monkstown,Co. Dublin,q4,100%
+14/01/2019,"12 The Poplars, Monkstown Valley, Monkstown",Dublin,400000.0,No,Monkstown,Co. Dublin,q2,50%
+14/01/2019,"21 Grangeabbey  Abbey Road, Monkstown",Dublin,348018.0,Yes,Monkstown,Co. Dublin,q2,40%
+18/01/2019,"19 Grangeabbey, Abbey Road, Monkstown",Dublin,555066.07,Yes,Monkstown,Co. Dublin,q3,70%
+18/01/2019,"3 Richmond Hill, Monkstown, Co Dublin",Dublin,1750000.0,No,Monkstown,Co. Dublin,q4,100%
+21/01/2019,"10 Grangeabbey, Abbey Road, Monkstown",Dublin,550661.0,Yes,Monkstown,Co. Dublin,q3,70%
+23/01/2019,"2 Carrig House, Carrickbrennan Rd, Monkstown",Dublin,255000.0,No,Monkstown,Co. Dublin,q1,30%
+25/01/2019,"14 Grangeabbey, Abbey Road, Monkstown",Dublin,440528.64,Yes,Monkstown,Co. Dublin,q2,50%
+28/01/2019,"12 Grangeabbey, Abbey Road, Monkstown",Dublin,559472.0,Yes,Monkstown,Co. Dublin,q3,70%
+30/01/2019,"Navarre, Pakenham Rd, Monkstown",Dublin,960000.0,No,Monkstown,Co. Dublin,q4,90%
+01/02/2019,"13 Grangeabbey, Abbey Road, Monkstown",Dublin,559472.0,Yes,Monkstown,Co. Dublin,q3,70%
+06/02/2019,"37 Ashton Park, Monkstown, Dublin",Dublin,805000.0,No,Monkstown,Co. Dublin,q4,80%
+08/02/2019,"15 Grangeabbey, Abbey Road, Monkstown",Dublin,563876.65,Yes,Monkstown,Co. Dublin,q3,70%
+14/02/2019,"20 Grangeabbey, Monkstown, Co Dublin",Dublin,546255.0,Yes,Monkstown,Co. Dublin,q3,70%
+18/02/2019,"20 Hibernia, De Vesci Court, Monkstown",Dublin,340000.0,No,Monkstown,Co. Dublin,q2,40%
+05/04/2019,"89 Salthill, Seapoint Ave, Monkstown",Dublin,725000.0,No,Monkstown,Co. Dublin,q3,80%
+26/04/2019,"29 St Patricks Crescent, Monkstown, Dublin",Dublin,542050.0,No,Monkstown,Co. Dublin,q3,70%
+14/05/2019,"Unit 5 Windsor Place, Lanesville Avenue, Monkstown",Dublin,295000.0,No,Monkstown,Co. Dublin,q2,30%
+20/05/2019,"15 Abbey Park, Monkstown, Dublin",Dublin,540000.0,No,Monkstown,Co. Dublin,q3,70%
+22/05/2019,"20 Castlegate, Oliver Plunkett Street, Monkstown",Dublin,224000.0,No,Monkstown,Co. Dublin,q1,20%
+28/05/2019,"32 Brook Court, Monkstown, Dublin",Dublin,775000.0,No,Monkstown,Co. Dublin,q4,80%
+30/05/2019,"Apt 1 Woodville, The Hill, Monkstown",Dublin,190000.0,No,Monkstown,Co. Dublin,q1,10%
+30/05/2019,"Apt 2 Woodville, The Hill, Monkstown",Dublin,190000.0,No,Monkstown,Co. Dublin,q1,10%
+30/05/2019,"Apt 3 Woodville, The Hill, Monkstown",Dublin,190000.0,No,Monkstown,Co. Dublin,q1,10%
+30/05/2019,"Apt 4  Woodville, The Hill, Monkstown",Dublin,190000.0,No,Monkstown,Co. Dublin,q1,10%
+30/05/2019,"Apt 5 Woodville, The Hill, Monkstown",Dublin,190000.0,No,Monkstown,Co. Dublin,q1,10%
+31/05/2019,"11 Richmond Green, Monkstown, Dublin",Dublin,480000.0,No,Monkstown,Co. Dublin,q3,60%
+07/06/2019,"Apt 8, The Willows, Monkstown Valley",Dublin,286000.0,No,Monkstown,Co. Dublin,q2,30%
+10/06/2019,"Inchyra, 8 Monkstown Crescent, Monkstown",Dublin,1690000.0,No,Monkstown,Co. Dublin,q4,100%
+28/06/2019,"47 Montpelier Parade, Monkstown, Dublin",Dublin,1312500.0,No,Monkstown,Co. Dublin,q4,100%
+01/07/2019,"26 Monkstown Crescent, Monkstown, Co Dublin",Dublin,850000.0,No,Monkstown,Co. Dublin,q4,90%
+02/07/2019,"21 Stradbrook Close, Monkstown, County Dublin",Dublin,441000.0,No,Monkstown,Co. Dublin,q3,60%
+02/07/2019,"St Annes, The Hill, Monkstown",Dublin,900000.0,No,Monkstown,Co. Dublin,q4,90%
+10/07/2019,"2 King'S Villa, 55 Monkstown Road, Monkstown",Dublin,875000.0,No,Monkstown,Co. Dublin,q4,90%
+16/07/2019,"110 Oliver Plunkett Rd, Monkstown, Dublin",Dublin,530000.0,No,Monkstown,Co. Dublin,q3,70%
+19/07/2019,"8 Windsor Place, Lanesville, Monkstown",Dublin,534000.0,No,Monkstown,Co. Dublin,q3,70%
+22/07/2019,"77 Salthill, Seapoint Ave, Monkstown",Dublin,570000.0,No,Monkstown,Co. Dublin,q3,70%
+23/07/2019,"10 Carrig House, Carrickbrennan Rd, Monkstown",Dublin,410000.0,No,Monkstown,Co. Dublin,q2,50%
+26/07/2019,"3 Seapoint Court, Temple Crescent, Monkstown",Dublin,375000.0,No,Monkstown,Co. Dublin,q2,40%
+01/08/2019,"15 Grosvenor House, Grosvenor Terrace, Monkstown",Dublin,417000.0,No,Monkstown,Co. Dublin,q2,50%
+01/08/2019,"8 De Vesci House, Longford Place, Monkstown",Dublin,315000.0,No,Monkstown,Co. Dublin,q2,40%
+16/08/2019,"14 Monkstown Crescent, Monkstown, Dublin",Dublin,1270000.0,No,Monkstown,Co. Dublin,q4,90%
+16/08/2019,"24 Laurel Bank Apts, Lanesville Ave, Monkstown Ave",Dublin,375000.0,No,Monkstown,Co. Dublin,q2,40%
+23/08/2019,"35 The Poplars, Monkstown Valley, Monkstown",Dublin,407500.0,No,Monkstown,Co. Dublin,q2,50%
+23/08/2019,"42B Ashton Park, Monkstown, Dublin",Dublin,753500.0,No,Monkstown,Co. Dublin,q4,80%
+30/08/2019,"4 Belgrave Sq North, Monkstown, Dublin",Dublin,1650000.0,No,Monkstown,Co. Dublin,q4,100%
+06/09/2019,"20 Lanesville, Monkstown Ave Monkstown, Dublin",Dublin,368500.0,No,Monkstown,Co. Dublin,q2,40%
+10/09/2019,"1 Purbeck, 77 Monkstown Road, Monkstown",Dublin,1013215.86,Yes,Monkstown,Co. Dublin,q4,90%
+11/09/2019,"4 Shandon Wood, Monkstown",Dublin,753348.0,Yes,Monkstown,Co. Dublin,q4,80%
+12/09/2019,"Ashleigh, Carrickbrennan Rd, Monkstown",Dublin,1210000.0,No,Monkstown,Co. Dublin,q4,90%
+13/09/2019,"6 Trafalgar Lane, Monkstown, Dublin",Dublin,555000.0,No,Monkstown,Co. Dublin,q3,70%
+20/09/2019,"17 The Poplars, Monkstown Valley, Monkstown",Dublin,441000.0,No,Monkstown,Co. Dublin,q3,60%
+07/10/2019,"5 Purbeck, 77 Monkstown Road, Monkstown",Dublin,1013215.86,Yes,Monkstown,Co. Dublin,q4,90%
+09/10/2019,"6 Richmond Ave, Monkstown, Dublin",Dublin,830000.0,No,Monkstown,Co. Dublin,q4,90%
+17/10/2019,"18 Trafalgar Lane, Monkstown, Dublin",Dublin,636000.0,No,Monkstown,Co. Dublin,q3,70%
+21/10/2019,"10 The Willows, Monkstown Valley, Dublin",Dublin,272000.0,No,Monkstown,Co. Dublin,q1,30%

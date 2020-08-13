@@ -1,0 +1,736 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+15/01/2010,"144 Blackditch Road, Ballyfermot",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+12/02/2010,"83 Cremona Road, Ballyfermot, Dublin 10",Dublin,167500.0,No,Ballyfermot,Dublin 10,q3,60%
+15/02/2010,"153 Thomond Road, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+25/02/2010,"148 Cremona Road, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+04/03/2010,"122 Cremona Road, Ballyfermot",Dublin,195000.0,No,Ballyfermot,Dublin 10,q3,70%
+09/03/2010,"105 Spiddal Road, Ballyfermot",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+12/03/2010,"88 Croftwood Park, Ballyfermot, Dublin 10",Dublin,205000.0,Yes,Ballyfermot,Dublin 10,q3,80%
+22/03/2010,"97 Blackditch Road, Ballyfermot",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+25/03/2010,"24 Blackditch Road, Ballyfermot",Dublin,205000.0,No,Ballyfermot,Dublin 10,q3,80%
+29/03/2010,"103A Lough Conn Road, Ballyfermot",Dublin,240000.0,Yes,Ballyfermot,Dublin 10,q4,90%
+08/04/2010,"82 Thomond Road, Ballyfermot, .",Dublin,177000.0,No,Ballyfermot,Dublin 10,q3,70%
+09/04/2010,"152 Lally Road, Ballyfermot",Dublin,197000.0,No,Ballyfermot,Dublin 10,q3,70%
+23/04/2010,"47 Blackditch Road, Ballyfermot, Dublin",Dublin,190000.0,No,Ballyfermot,Dublin 10,q3,70%
+12/05/2010,"47 Colepark Drive, Ballyfermot",Dublin,173500.0,No,Ballyfermot,Dublin 10,q3,60%
+12/05/2010,"93 Kylemore Drive, Ballyfermot, Dublin",Dublin,148000.0,No,Ballyfermot,Dublin 10,q2,50%
+13/05/2010,"23 Ballyfermot Avenue, Ballyfermot",Dublin,190000.0,No,Ballyfermot,Dublin 10,q3,70%
+24/05/2010,"56 Cremona Road, Ballyfermot",Dublin,132000.0,No,Ballyfermot,Dublin 10,q2,40%
+18/06/2010,"64 Rossmore Avenue, Ballyfermot, Dublin 10",Dublin,199000.0,No,Ballyfermot,Dublin 10,q3,80%
+23/06/2010,"13 Gurteen Avenue, Ballyfermot, Dublin 10",Dublin,180000.0,No,Ballyfermot,Dublin 10,q3,70%
+25/06/2010,"328  Kylemore Road, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+02/07/2010,"38 Rossmore Road, Ballyfermot",Dublin,152000.0,No,Ballyfermot,Dublin 10,q2,50%
+15/07/2010,"69 Kylemore Drive, Ballyfermot",Dublin,175000.0,No,Ballyfermot,Dublin 10,q3,60%
+16/07/2010,"190 Ballyfermot Drive, Ballyfermot, Dublin 10",Dublin,180000.0,No,Ballyfermot,Dublin 10,q3,70%
+16/07/2010,"83 Ballyfermot Parade, Ballyfermot",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+28/07/2010,"490 Ballyfermot Road, Ballyfermot",Dublin,220000.0,No,Ballyfermot,Dublin 10,q4,80%
+05/08/2010,"27 O'Hogan Road, Ballyfermot",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+16/08/2010,"65 Ballyfermot Drive, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+20/08/2010,"103 Landen Road, Ballyfermot",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+09/09/2010,"160 Ballyfermot Drive, Ballyfermot, Dublin 10",Dublin,120000.0,No,Ballyfermot,Dublin 10,q1,30%
+10/09/2010,"35 Cloiginn Avenue, Ballyfermot, Dublin 10",Dublin,134000.0,No,Ballyfermot,Dublin 10,q2,40%
+17/09/2010,"147 Blackditch Road, Ballyfermot",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+24/09/2010,"254 Le Fanu Road, Ballyfermot, Dublin",Dublin,175000.0,No,Ballyfermot,Dublin 10,q3,70%
+30/09/2010,"253 Kylemore Road, Ballyfermot",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+20/10/2010,"126 Le Fanu Road, Ballyfermot",Dublin,200000.0,No,Ballyfermot,Dublin 10,q3,80%
+21/10/2010,"45 Elmdale Crescent, Ballyfermot, Dublin 10",Dublin,187500.0,No,Ballyfermot,Dublin 10,q3,70%
+29/10/2010,"75 0Ranmore Road, Ballyfermot, Dublin 10",Dublin,157000.0,No,Ballyfermot,Dublin 10,q2,50%
+01/11/2010,"261 Thomand Road, Ballyfermot",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+05/11/2010,"129 Landen Road, Ballyfermot, Dublin 10",Dublin,105000.0,No,Ballyfermot,Dublin 10,q1,20%
+12/11/2010,"12 Spiddal Road, Ballyfermot",Dublin,130000.0,No,Ballyfermot,Dublin 10,q2,30%
+16/11/2010,"28 Gurteen Park, Ballyfermot",Dublin,148000.0,No,Ballyfermot,Dublin 10,q2,50%
+18/11/2010,"221 Thomond Road, Ballyfermot",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+07/12/2010,"149 Rossmore Road, Ballyfermot, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+16/12/2010,"79 Decies Road, Ballyfermot",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+21/12/2010,"300 Kylemore Road, Ballyfermot",Dublin,129500.0,No,Ballyfermot,Dublin 10,q2,30%
+07/01/2011,"92 Drumfinn Road, Ballyfermot",Dublin,178000.0,No,Ballyfermot,Dublin 10,q3,70%
+31/01/2011,"303 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,168000.0,No,Ballyfermot,Dublin 10,q3,60%
+11/02/2011,"21 Decies Road, Ballyfermot",Dublin,169000.0,No,Ballyfermot,Dublin 10,q3,60%
+15/02/2011,"40 Loch Conn Road, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+25/02/2011,"271 Landen Road, Ballyfermot, Dublin 10",Dublin,65000.0,No,Ballyfermot,Dublin 10,q1,10%
+14/03/2011,"41 Lough Conn Road, Ballyfermot",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+28/03/2011,"44 Claddagh Road, Ballyfermot, Dublin",Dublin,157500.0,No,Ballyfermot,Dublin 10,q2,50%
+05/04/2011,"3 Turret Road, Ballyfermot, Dublin 20",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+14/04/2011,"3 Loch Conn Road, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+04/05/2011,"319 Landen Road, Ballyfermot",Dublin,115000.0,No,Ballyfermot,Dublin 10,q1,30%
+27/05/2011,"81 Landen Road, Ballyfermot, Dublin 10",Dublin,127500.0,No,Ballyfermot,Dublin 10,q2,30%
+30/05/2011,"No 23 Garryowen Road, Ballyfermot",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+31/05/2011,"70 Ramilies Road, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+17/06/2011,"32 Cleggan Avenue, Ballyfermot",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+27/07/2011,"10 Orchard Lawn, Cherry Orchard, Ballyfermot",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+28/07/2011,"90 Oranmore Road, Ballyfermot",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,10%
+05/08/2011,"177 Blackditch Road, Ballyfermot, Dublin 10",Dublin,118000.0,No,Ballyfermot,Dublin 10,q1,30%
+16/08/2011,"19 Cliften Drive, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+16/08/2011,"47 Loch Conn Road, Ballyfermot",Dublin,171509.3,No,Ballyfermot,Dublin 10,q3,60%
+25/08/2011,"33 O'Hogan Road, Ballyfermot",Dublin,120000.0,No,Ballyfermot,Dublin 10,q1,30%
+26/08/2011,"99 Blackditch Road, Ballyfermot, Dublin",Dublin,119000.0,No,Ballyfermot,Dublin 10,q1,30%
+06/09/2011,"8 Cremona Road, Ballyfermot, Dublin 10",Dublin,107000.0,No,Ballyfermot,Dublin 10,q1,20%
+08/09/2011,"87 Claddagh Road, Ballyfermot, Dublin 10",Dublin,132000.0,No,Ballyfermot,Dublin 10,q2,40%
+09/09/2011,"101 Cloverhill Road, Ballyfermot, Dublin 10",Dublin,70000.0,No,Ballyfermot,Dublin 10,q1,10%
+12/09/2011,"53 Kylemore Avenue, Ballyfermot, Dublin 10",Dublin,85000.0,No,Ballyfermot,Dublin 10,q1,10%
+15/09/2011,"6 Lough Conn Terrace, Ballyfermot",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,10%
+23/09/2011,"135 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,73000.0,No,Ballyfermot,Dublin 10,q1,10%
+23/09/2011,"28 Ballyfermot Avenue, Ballyfermot, Dublin 10",Dublin,130000.0,No,Ballyfermot,Dublin 10,q2,30%
+03/10/2011,"10 Lough Conn Avenue, Ballyfermot, Dublin 10",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,10%
+10/10/2011,"54 Drumfinn Avenue, Ballyfermot",Dublin,127000.0,No,Ballyfermot,Dublin 10,q2,30%
+14/10/2011,"108 Lough Conn Road, Ballyfermot, Dublin 10",Dublin,137000.0,No,Ballyfermot,Dublin 10,q2,40%
+17/10/2011,"197 Ballyfermot Road, Ballyfermot",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+26/10/2011,"15 Lough Conn Road, Ballyfermot",Dublin,104000.0,No,Ballyfermot,Dublin 10,q1,20%
+14/11/2011,"38 Ballyfermot Drive, Ballyfermot, Dublin 10",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+16/11/2011,"121 Blackdotch Road, Ballyfermot",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+16/11/2011,"96  Lough Conn Road, Ballyfermot, Dublin",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+23/11/2011,"127 Ballyfermot Parae, Ballyfermot, Dublin 10",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+24/11/2011,"31 Ballyneety Road, Ballyfermot, Dublin 10",Dublin,80000.0,No,Ballyfermot,Dublin 10,q1,10%
+28/11/2011,"56 Kylemore Avenue, Ballyfermot, Dublin 10",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+01/12/2011,"22 Cleggan Road, Ballyfermot, Dublin 10",Dublin,117500.0,No,Ballyfermot,Dublin 10,q1,30%
+07/12/2011,"111 Drumfinn Avenue, Ballyfermot, Dublin 10",Dublin,113000.0,No,Ballyfermot,Dublin 10,q1,30%
+14/12/2011,"33 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,125000.0,No,Ballyfermot,Dublin 10,q2,30%
+16/01/2012,"496  Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+16/01/2012,"77 Colepark Drive, Ballyfermot, Dublin 10",Dublin,295000.0,No,Ballyfermot,Dublin 10,q4,100%
+18/01/2012,"53 Drumfinn Avenue, Ballyfermot",Dublin,125000.0,No,Ballyfermot,Dublin 10,q2,30%
+19/01/2012,"130 Le Fanu Road, Ballyfermot",Dublin,135000.0,No,Ballyfermot,Dublin 10,q2,40%
+24/01/2012,"97 Ballyfermot Drive, Ballyfermot",Dublin,72000.0,No,Ballyfermot,Dublin 10,q1,10%
+27/01/2012,"6 Landen Road, Ballyfermot",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+12/02/2012,"339 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+14/02/2012,"86 Oranore Road, Ballyfermot, Dublin 10",Dublin,10000.0,No,Ballyfermot,Dublin 10,q1,10%
+01/03/2012,"119 Oranmore Road, Ballyfermot",Dublin,125000.0,No,Ballyfermot,Dublin 10,q2,30%
+02/03/2012,"6 Cloiginn  Avenue, Ballyfermot",Dublin,85000.0,No,Ballyfermot,Dublin 10,q1,10%
+02/03/2012,"67 Ballyfermot Crescent, Ballyfermot, Dublin 10",Dublin,135000.0,No,Ballyfermot,Dublin 10,q2,40%
+05/03/2012,"112 Cedarbrook Avenue, Cherry Orchard, Ballyfermot",Dublin,86000.0,No,Ballyfermot,Dublin 10,q1,10%
+09/03/2012,"318 Ballyfermot Road, Dublin 10",Dublin,93500.0,No,Ballyfermot,Dublin 10,q1,20%
+23/03/2012,"268 Le Fanu Road, Ballyfermot, Dublin 10",Dublin,62500.0,No,Ballyfermot,Dublin 10,q1,10%
+27/03/2012,"236 Le Fanu Road, Ballyfermot, Dublin 10",Dublin,101000.0,No,Ballyfermot,Dublin 10,q1,20%
+30/03/2012,"Gurteen Park, Ballyfermot",Dublin,105000.0,No,Ballyfermot,Dublin 10,q1,20%
+04/04/2012,"49 Drumfin Road, Ballyfermot",Dublin,94500.0,No,Ballyfermot,Dublin 10,q1,20%
+05/04/2012,"5 Cloiginn Park, Ballyfermot",Dublin,82500.0,No,Ballyfermot,Dublin 10,q1,10%
+11/04/2012,"341 Landen Road, Ballyfermot",Dublin,115000.0,No,Ballyfermot,Dublin 10,q1,30%
+12/04/2012,"298 Landen Road, Ballyfermot",Dublin,77000.0,No,Ballyfermot,Dublin 10,q1,10%
+19/04/2012,"112 Drumfinn Avenue, Ballyfermot, Dublin 10",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+24/04/2012,"62 O'Moore Road, Ballyfermot",Dublin,50000.0,No,Ballyfermot,Dublin 10,q1,10%
+26/04/2012,"229 Thomond Road, Ballyfermot, Dublin",Dublin,119950.0,No,Ballyfermot,Dublin 10,q1,30%
+30/04/2012,"2 Colepark Avenue, Ballyfermot, Dublin 10",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+04/05/2012,"31 Gurteen Avenue, Ballyfermot, Dublin",Dublin,130000.0,No,Ballyfermot,Dublin 10,q2,30%
+20/06/2012,"111 Ballyfermot Parade, Ballyfermot, Dublin",Dublin,75000.0,No,Ballyfermot,Dublin 10,q1,10%
+20/06/2012,"4 Colepark Drive, Ballyfermot",Dublin,88000.0,No,Ballyfermot,Dublin 10,q1,10%
+11/07/2012,"1 Spiddal Park, Ballyfermot",Dublin,75000.0,No,Ballyfermot,Dublin 10,q1,10%
+18/07/2012,"175 Decies Road, Ballyfermot Road, Ballyfermot",Dublin,8400.0,No,Ballyfermot,Dublin 10,q1,10%
+20/07/2012,"62 Lally Road, Ballyfermot",Dublin,65000.0,No,Ballyfermot,Dublin 10,q1,10%
+20/07/2012,"93 Landen Road, Ballyfermot, Dublin 10",Dublin,105000.0,No,Ballyfermot,Dublin 10,q1,20%
+23/07/2012,"306 Kylemore Road, Ballyfermot, Dublin 10",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+24/07/2012,"67 Rossmore Avenue, Ballyfermot",Dublin,96500.0,No,Ballyfermot,Dublin 10,q1,20%
+03/08/2012,"113 Spiddal Road, Ballyfermot",Dublin,74000.0,No,Ballyfermot,Dublin 10,q1,10%
+10/08/2012,"1 Park Street, Ballyfermot",Dublin,80000.0,No,Ballyfermot,Dublin 10,q1,10%
+16/08/2012,"57 Ballyfermot Road, Ballyfermot",Dublin,88000.0,No,Ballyfermot,Dublin 10,q1,10%
+24/08/2012,"4 Drumfinn Avenue, Ballyfermot, Dulin 10",Dublin,81000.0,No,Ballyfermot,Dublin 10,q1,10%
+03/09/2012,"119 Spiddal Road, Ballyfermot",Dublin,120000.0,No,Ballyfermot,Dublin 10,q1,30%
+04/09/2012,"26 Ballyfermot Parade, Ballyfermot, Dublin 10",Dublin,115000.0,No,Ballyfermot,Dublin 10,q1,30%
+06/09/2012,"89, Kylemore Drive, Ballyfermot",Dublin,90500.0,No,Ballyfermot,Dublin 10,q1,20%
+19/09/2012,"52 Garryowen Road, Ballyfermot, Dublin 10",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+01/10/2012,"21 Ballyfermot Parade, Ballyfermot, Dublin 10",Dublin,80000.0,No,Ballyfermot,Dublin 10,q1,10%
+02/10/2012,"168 Landen Road, Ballyfermot",Dublin,112000.0,No,Ballyfermot,Dublin 10,q1,30%
+05/10/2012,"12 Landen Road, Ballyfermot, Dublin 10",Dublin,91500.0,No,Ballyfermot,Dublin 10,q1,20%
+05/10/2012,"95 Kylemore Avenue, Ballyfermot, Dublin 10",Dublin,80000.0,No,Ballyfermot,Dublin 10,q1,10%
+10/10/2012,"116 Kylemore Drive, Ballyfermot",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+15/10/2012,"47 Lally Road, Ballyfermot",Dublin,85000.0,No,Ballyfermot,Dublin 10,q1,10%
+24/10/2012,"16 Kylemore Avenue, Ballyfermot",Dublin,50000.0,No,Ballyfermot,Dublin 10,q1,10%
+26/10/2012,"78 Spiddal Road, Ballyfermot",Dublin,80000.0,No,Ballyfermot,Dublin 10,q1,10%
+02/11/2012,"146 Lally Road, Ballyfermot",Dublin,92000.0,No,Ballyfermot,Dublin 10,q1,20%
+03/11/2012,"324 Kylemore Road, Ballyfermot",Dublin,148000.0,No,Ballyfermot,Dublin 10,q2,50%
+12/11/2012,"56 Kylemore Drive, Ballyfermot",Dublin,95000.0,No,Ballyfermot,Dublin 10,q1,20%
+16/11/2012,"24  Park Street, Ballyfermot",Dublin,60000.0,No,Ballyfermot,Dublin 10,q1,10%
+19/11/2012,"138 Cremona Road, Ballyfermot",Dublin,76000.0,No,Ballyfermot,Dublin 10,q1,10%
+22/11/2012,"44 Kylemore Avenue, Ballyfermot",Dublin,77000.0,No,Ballyfermot,Dublin 10,q1,10%
+23/11/2012,"268 Le Fanu Road, Ballyfermot",Dublin,109500.0,No,Ballyfermot,Dublin 10,q1,20%
+29/11/2012,"175 Decies Road, Ballyfermot",Dublin,42500.0,No,Ballyfermot,Dublin 10,q1,10%
+30/11/2012,"386 Ballyfermot Road, Ballyfermot, Dublin",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+30/11/2012,"451 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,125000.0,No,Ballyfermot,Dublin 10,q2,30%
+04/12/2012,"235 Kylemore Road, Ballyfermot, Dublin 10",Dublin,100000.0,No,Ballyfermot,Dublin 10,q1,20%
+10/12/2012,"85  Rossmore Avenue, Ballyfermot, Dublin 10",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+13/12/2012,"5  Liffey Street South, Ballyfermot",Dublin,103000.0,No,Ballyfermot,Dublin 10,q1,20%
+18/12/2012,"57 Colepark Drive, Ballyfermot",Dublin,132000.0,No,Ballyfermot,Dublin 10,q2,40%
+20/12/2012,"111 Ballyfermot Drive, Ballyfermot, Dublin 10",Dublin,85000.0,No,Ballyfermot,Dublin 10,q1,10%
+21/12/2012,"289 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,96250.0,No,Ballyfermot,Dublin 10,q1,20%
+16/01/2013,"95 Lough Conn Road, Ballyfermot",Dublin,100000.0,No,Ballyfermot,Dublin 10,q1,20%
+30/01/2013,"32, Colepark Avenue, Ballyfermot",Dublin,95000.0,No,Ballyfermot,Dublin 10,q1,20%
+05/02/2013,"27 Cleggan Avenue, Ballyfermot",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+06/02/2013,"351 Landen Road, Ballyfermot",Dublin,104000.0,No,Ballyfermot,Dublin 10,q1,20%
+07/02/2013,"18 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,80000.0,No,Ballyfermot,Dublin 10,q1,10%
+08/02/2013,"32 Spiddal Road, Ballyfermot, Dublin 10",Dublin,120000.0,No,Ballyfermot,Dublin 10,q1,30%
+14/02/2013,"273 Landen Road, Ballyfermot",Dublin,60000.0,No,Ballyfermot,Dublin 10,q1,10%
+19/02/2013,"43, Lough Conn Road, Ballyfermot",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+24/02/2013,"19 Cremona Road, Ballyfermot, Dublin 10",Dublin,60000.0,No,Ballyfermot,Dublin 10,q1,10%
+04/03/2013,"188 Le Fanu Road, Ballyfermot, Dublin 10",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+22/03/2013,"19 Inagh Road, Ballyfermot, Dublin 10",Dublin,80500.0,No,Ballyfermot,Dublin 10,q1,10%
+25/03/2013,"2 Claddagh Road, Ballyfermot",Dublin,100000.0,No,Ballyfermot,Dublin 10,q1,20%
+04/04/2013,"75 Drunfinn Avenue, Ballyfermot, Dublin 10",Dublin,77000.0,No,Ballyfermot,Dublin 10,q1,10%
+09/04/2013,"85 Thomond Road, Ballyfermot, Dublin 10",Dublin,89000.0,No,Ballyfermot,Dublin 10,q1,10%
+17/04/2013,"39 Colepark Drive, Ballyfermot, Dublin 10",Dublin,72500.0,No,Ballyfermot,Dublin 10,q1,10%
+13/05/2013,"114 Le Fanu Road, Ballyfermot",Dublin,115000.0,No,Ballyfermot,Dublin 10,q1,30%
+16/05/2013,"60 Blackditch Road, Ballyfermot, Dublin 10",Dublin,108000.0,No,Ballyfermot,Dublin 10,q1,20%
+23/05/2013,"14 Cleggan Park, Ballyfermot, Dublin 10",Dublin,118500.0,No,Ballyfermot,Dublin 10,q1,30%
+30/05/2013,"66 Oranmore Road, Ballyfermot",Dublin,7300.0,No,Ballyfermot,Dublin 10,q1,10%
+07/06/2013,"108 Spiddal Road, Ballyfermot, Dublin 10",Dublin,87000.0,No,Ballyfermot,Dublin 10,q1,10%
+11/06/2013,"2 Cherry Orchard Grove, Ballyfermot",Dublin,86000.0,No,Ballyfermot,Dublin 10,q1,10%
+12/06/2013,"84 O'Moore Road, Ballyfermot",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+14/06/2013,"26 Lally Road, Ballyfermot",Dublin,116000.0,No,Ballyfermot,Dublin 10,q1,30%
+20/06/2013,"5 Cherry Orchard Park, Ballyfermot",Dublin,84000.0,No,Ballyfermot,Dublin 10,q1,10%
+21/06/2013,"6 Clggan Road, Ballyfermot, Dublin 10",Dublin,105000.0,No,Ballyfermot,Dublin 10,q1,20%
+27/06/2013,"55 Rossmore Road, Ballyfermot",Dublin,112500.0,No,Ballyfermot,Dublin 10,q1,30%
+28/06/2013,"114 Thomond Road, Ballyfermot, Dublin 10",Dublin,102000.0,No,Ballyfermot,Dublin 10,q1,20%
+28/06/2013,"252 Kylemore Road, Ballyfermot",Dublin,112000.0,No,Ballyfermot,Dublin 10,q1,30%
+01/07/2013,"205 Thomond Road, Ballyfermot, Dublin 10",Dublin,93000.0,No,Ballyfermot,Dublin 10,q1,20%
+04/07/2013,"5 Ballyfermot Avenue, Ballyfermot",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+05/07/2013,"119 Cremona Road, Ballyfermot",Dublin,104500.0,No,Ballyfermot,Dublin 10,q1,20%
+10/07/2013,"103 Ballyfermot Avenue, Ballyfermot",Dublin,85000.0,No,Ballyfermot,Dublin 10,q1,10%
+12/07/2013,"17 Lough Conn Road, Ballyfermot",Dublin,96000.0,No,Ballyfermot,Dublin 10,q1,20%
+15/07/2013,"291 Landen Road, Ballyfermot",Dublin,93000.0,No,Ballyfermot,Dublin 10,q1,20%
+23/07/2013,"97 Cremona Road, Ballyfermot",Dublin,122500.0,No,Ballyfermot,Dublin 10,q2,30%
+30/07/2013,"256 Landen Road, Ballyfermot, Dublin 10",Dublin,100000.0,No,Ballyfermot,Dublin 10,q1,20%
+30/07/2013,"418 Le Fanu Road, Ballyfermot",Dublin,120000.0,No,Ballyfermot,Dublin 10,q1,30%
+13/08/2013,"1  Le Fanu House, Le Fanu Road, Ballyfermot",Dublin,63500.0,No,Ballyfermot,Dublin 10,q1,10%
+16/08/2013,"13 Colepark Avenue, Ballyfermot",Dublin,85000.0,No,Ballyfermot,Dublin 10,q1,10%
+19/08/2013,"13 Garryowen Road, Ballyfermot, Dublin 10",Dublin,105000.0,No,Ballyfermot,Dublin 10,q1,20%
+20/08/2013,"26 Blackditch Road, Ballyfermot",Dublin,95000.0,No,Ballyfermot,Dublin 10,q1,20%
+21/08/2013,"146 Kylemore Drive, Ballyfermot",Dublin,95000.0,No,Ballyfermot,Dublin 10,q1,20%
+28/08/2013,"5 Rossmore Avenue, Ballyfermot, Dublin",Dublin,118000.0,No,Ballyfermot,Dublin 10,q1,30%
+29/08/2013,"284 Kylemore Road, Ballyfermot",Dublin,120000.0,No,Ballyfermot,Dublin 10,q1,30%
+09/09/2013,"120 Claddagh Road, Ballyfermot",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+17/09/2013,"20 Omoore Road, Ballyfermot, Dublin 10",Dublin,25000.0,No,Ballyfermot,Dublin 10,q1,10%
+18/09/2013,"2B Raheen Drive, Ballyfermot",Dublin,65000.0,No,Ballyfermot,Dublin 10,q1,10%
+19/09/2013,"32 Decies Road, Ballyfermot",Dublin,115000.0,No,Ballyfermot,Dublin 10,q1,30%
+19/09/2013,"43 Cloiginn Park, Ballyfermot, Dublin 10",Dublin,118000.0,No,Ballyfermot,Dublin 10,q1,30%
+26/09/2013,"46  Muskerry Road, Ballyfermot",Dublin,125000.0,No,Ballyfermot,Dublin 10,q2,30%
+30/09/2013,"332 Landen Road, Ballyfermot",Dublin,104000.0,No,Ballyfermot,Dublin 10,q1,20%
+01/10/2013,"127 Oranmore Road, Ballyfermot, Dublin 10",Dublin,121000.0,No,Ballyfermot,Dublin 10,q2,30%
+01/10/2013,"16 Convent Lawns, Ballyfermot",Dublin,123000.0,No,Ballyfermot,Dublin 10,q2,30%
+01/10/2013,"53 Ballyfermot Ave, Ballyfermot",Dublin,104000.0,No,Ballyfermot,Dublin 10,q1,20%
+15/10/2013,"42 Cleggan Avenue, Ballyfermot",Dublin,129950.0,No,Ballyfermot,Dublin 10,q2,30%
+30/10/2013,"30 Croftwood Gardens, Ballyfermot, Dublin 10",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,20%
+31/10/2013,"51 Sarsfield Rd, Ballyfermot, Dublin 20",Dublin,100000.0,No,Ballyfermot,Dublin 10,q1,20%
+08/11/2013,"27 Inagh Road, Ballyfermot",Dublin,115000.0,No,Ballyfermot,Dublin 10,q1,30%
+15/11/2013,"201 Ballyfermot Road, Ballyfermot",Dublin,120000.0,No,Ballyfermot,Dublin 10,q1,30%
+19/11/2013,"67 Ballyneety Road, Ballyfermot",Dublin,80000.0,No,Ballyfermot,Dublin 10,q1,10%
+03/12/2013,"235 Landen Road, Ballyfermot",Dublin,128000.0,No,Ballyfermot,Dublin 10,q2,30%
+12/12/2013,"90 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,125000.0,No,Ballyfermot,Dublin 10,q2,30%
+16/12/2013,"179 Decies Rd Ballyfermot, Dublin 10, Dublin",Dublin,127000.0,No,Ballyfermot,Dublin 10,q2,30%
+18/12/2013,"399 Ballyfermot Rd, Dublin 10, Dublin",Dublin,156000.0,No,Ballyfermot,Dublin 10,q2,50%
+19/12/2013,"53 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,30%
+20/12/2013,"1 Gurteen Ave, Ballyfermot, Dublin 10",Dublin,75000.0,No,Ballyfermot,Dublin 10,q1,10%
+17/01/2014,"156 Cherry Orchard Ave, Ballyfermot, Dublin 10",Dublin,118000.0,No,Ballyfermot,Dublin 10,q1,30%
+21/01/2014,"1A Spiddel Park, Ballyfermot",Dublin,100000.0,Yes,Ballyfermot,Dublin 10,q1,20%
+21/01/2014,"79B Spiddal Road, Ballyfermot",Dublin,140000.0,Yes,Ballyfermot,Dublin 10,q2,40%
+04/02/2014,"122 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,45000.0,No,Ballyfermot,Dublin 10,q1,10%
+11/02/2014,"10 Cherry Orchard Parade, Ballyfermot, Dublin City",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+21/02/2014,"308 Le Fanu Rd, Ballyfermot Dublin 10, Dublin",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,30%
+24/02/2014,"86 Ramillies Rd, Ballyfermot, Dublin 10",Dublin,97000.0,No,Ballyfermot,Dublin 10,q1,20%
+28/02/2014,"230 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,105000.0,No,Ballyfermot,Dublin 10,q1,20%
+28/02/2014,"46 Ballyfermot Parade, Dublin 10, Dublin",Dublin,80000.0,No,Ballyfermot,Dublin 10,q1,10%
+14/03/2014,"113 Decies Rd, Ballyfermot, Dublin 10",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,30%
+14/03/2014,"116 Decies Rd, Ballyfermot, Dublin 10",Dublin,136000.0,No,Ballyfermot,Dublin 10,q2,40%
+14/03/2014,"425 Ballyfermot Road, Ballyfermot",Dublin,72500.0,No,Ballyfermot,Dublin 10,q1,10%
+28/03/2014,"210 Landen Road, Ballyfermot",Dublin,123000.0,No,Ballyfermot,Dublin 10,q2,30%
+28/03/2014,"81 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,118000.0,No,Ballyfermot,Dublin 10,q1,30%
+03/04/2014,"321 Landen Rd, Ballyfermot, Dublin 10",Dublin,133500.0,No,Ballyfermot,Dublin 10,q2,40%
+10/04/2014,"83 Ballyfermot Ave Ballyfermot, Dublin 10, Dublin",Dublin,124000.0,No,Ballyfermot,Dublin 10,q2,30%
+23/04/2014,"67 Cedar Brook Way, Ballyfermot, Dublin 10",Dublin,125000.0,No,Ballyfermot,Dublin 10,q2,30%
+09/05/2014,"37 Rossmore Road, Ballyfermot, Dublin 10",Dublin,125000.0,No,Ballyfermot,Dublin 10,q2,30%
+14/05/2014,"162 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,120000.0,No,Ballyfermot,Dublin 10,q1,30%
+15/05/2014,"123 Lally Rd, Ballyfermot, Dublin 10",Dublin,120000.0,No,Ballyfermot,Dublin 10,q1,30%
+16/05/2014,"122 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,157000.0,No,Ballyfermot,Dublin 10,q2,50%
+16/05/2014,"3 Cloverhill Road, Ballyfermot, Dublin 10",Dublin,132500.0,No,Ballyfermot,Dublin 10,q2,40%
+21/05/2014,"4 Ballyfermot Parade, Ballyfermot, Dublin",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+23/05/2014,"172 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+23/05/2014,"3 Cherry Orchard Dr, Ballyfermot, Dublin 10",Dublin,30000.0,No,Ballyfermot,Dublin 10,q1,10%
+23/05/2014,"48 Ballyfermot Parade, Dublin 10, Dublin",Dublin,130000.0,No,Ballyfermot,Dublin 10,q2,30%
+27/05/2014,"40 Kylemore Avenue, Ballyfermot, Dublin 10",Dublin,124000.0,No,Ballyfermot,Dublin 10,q2,30%
+30/05/2014,"126 Claddagh Road, Ballyfermot, Dublin 10",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,30%
+10/06/2014,"79B Spiddal Road, Ballyfermot, Dublin 10",Dublin,142500.0,No,Ballyfermot,Dublin 10,q2,40%
+11/06/2014,"131 Kylemore Dr, Ballyfermot, Dublin 10",Dublin,136000.0,No,Ballyfermot,Dublin 10,q2,40%
+11/06/2014,"18 St. Laurence Court, Ballyfermot Road",Dublin,111000.0,No,Ballyfermot,Dublin 10,q1,30%
+11/06/2014,"20 Gurteen Park, Ballyfermot, Dublin 10",Dublin,120000.0,No,Ballyfermot,Dublin 10,q1,30%
+19/06/2014,"36 Cremona Rd, Ballyfermot, Dublin 10",Dublin,107000.0,No,Ballyfermot,Dublin 10,q1,20%
+20/06/2014,"Loughclon Drive, Ballyfermot, Dublin 10",Dublin,130000.0,No,Ballyfermot,Dublin 10,q2,30%
+25/06/2014,"350 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+26/06/2014,"18 Cleggan Avenue, Ballyfermot, Dublin 10",Dublin,137500.0,No,Ballyfermot,Dublin 10,q2,40%
+27/06/2014,"143 Decies Rd, Ballyfermot, Dublin 10",Dublin,92084.0,No,Ballyfermot,Dublin 10,q1,20%
+02/07/2014,"108 Spiddal Rd, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+07/07/2014,"72 Lally Road, Ballyfermot, Dublin 10",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+10/07/2014,"26 Blackditch Rd, Ballyfermot, Dublin 16",Dublin,133000.0,No,Ballyfermot,Dublin 10,q2,40%
+11/07/2014,"165 Cremona Rd, Ballyfermot, Dublin 10",Dublin,176444.0,No,Ballyfermot,Dublin 10,q3,70%
+11/07/2014,"58 Cremona Rd, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+15/07/2014,"5 Spiddal Road, Ballyfermot",Dublin,101300.0,No,Ballyfermot,Dublin 10,q1,20%
+16/07/2014,"341 Landon Rd, Ballyfermot Dublin 10, Dublin",Dublin,169000.0,No,Ballyfermot,Dublin 10,q3,60%
+17/07/2014,"77 Ballyneety Rd, Ballyfermot, Dublin 10",Dublin,138750.0,No,Ballyfermot,Dublin 10,q2,40%
+18/07/2014,"159 Landen Road, Ballyfermot",Dublin,130999.0,No,Ballyfermot,Dublin 10,q2,30%
+30/07/2014,"102 Drumfin Rd, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+05/08/2014,"169 Thomond Rd, Ballyfermot, Dublin 10",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+06/08/2014,"192 Landen Rd, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+13/08/2014,"11 Lough Conn Terrace, Ballyfermot",Dublin,132000.0,No,Ballyfermot,Dublin 10,q2,40%
+13/08/2014,"71 Kylemore Ave, Ballyfermot, Dublin",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+14/08/2014,"110 Lally Rd, Ballyfermot, Dublin 10",Dublin,186000.0,No,Ballyfermot,Dublin 10,q3,70%
+19/08/2014,"68 Ballyfermot Crescent, Ballyfermot, Dublin 10",Dublin,136000.0,No,Ballyfermot,Dublin 10,q2,40%
+20/08/2014,"6 Cremona Rd, Ballyfermot, Dublin 10",Dublin,100000.0,No,Ballyfermot,Dublin 10,q1,20%
+26/08/2014,"273 Thomond Road, Ballyfermot, Dublin 10",Dublin,135000.0,No,Ballyfermot,Dublin 10,q2,40%
+28/08/2014,"132 Ballyfermot Parade, Dublin 10, Dublin",Dublin,157000.0,No,Ballyfermot,Dublin 10,q2,50%
+29/08/2014,"92 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,131000.0,No,Ballyfermot,Dublin 10,q2,40%
+05/09/2014,"4 Kylemore Ave, Ballyfermot, Dublin 10",Dublin,120000.0,No,Ballyfermot,Dublin 10,q2,30%
+11/09/2014,"67 Landen Road, Ballyfermot",Dublin,143000.0,No,Ballyfermot,Dublin 10,q2,40%
+18/09/2014,"152 Landen Road, Ballyfermot, Dublin 10",Dublin,130000.0,No,Ballyfermot,Dublin 10,q2,30%
+19/09/2014,"30 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,163000.0,No,Ballyfermot,Dublin 10,q3,60%
+19/09/2014,"9 Spiddal Road, Ballyfermot, Dublin 10",Dublin,142000.0,No,Ballyfermot,Dublin 10,q2,40%
+25/09/2014,"79 Drumfinn Ave, Ballyfermot, Dublin 10",Dublin,132857.14,No,Ballyfermot,Dublin 10,q2,40%
+08/10/2014,"17 Ballyneety Rd, Ballyfermot, Dublin 10",Dublin,120000.0,No,Ballyfermot,Dublin 10,q2,30%
+10/10/2014,"53 Cleggan Park, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+20/10/2014,"1 Lough Conn Avenue, Ballyfermot",Dublin,120900.0,No,Ballyfermot,Dublin 10,q2,30%
+23/10/2014,"141 Decies Rd, Ballyfermot, Dublin",Dublin,55000.0,No,Ballyfermot,Dublin 10,q1,10%
+29/10/2014,"141 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,120000.0,No,Ballyfermot,Dublin 10,q2,30%
+29/10/2014,"152 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,97000.0,No,Ballyfermot,Dublin 10,q1,20%
+31/10/2014,"287 Landen Rd, Ballyfermot, Dublin 10",Dublin,166000.0,No,Ballyfermot,Dublin 10,q3,60%
+04/11/2014,"64 Rossmore Rd, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+10/11/2014,"66 Rossmore Road, Ballyfermot, Dublin 10",Dublin,167000.0,No,Ballyfermot,Dublin 10,q3,60%
+18/11/2014,"3 Le Fanu Drive, Ballyfermot, Dublin 10",Dublin,100000.0,No,Ballyfermot,Dublin 10,q1,20%
+18/11/2014,"36 Colepark Drive, Ballyfermot, Dublin 10",Dublin,153000.0,No,Ballyfermot,Dublin 10,q2,50%
+20/11/2014,"116 Thomond Rd, Ballyfermot, Dublin 10",Dublin,130000.0,No,Ballyfermot,Dublin 10,q2,30%
+24/11/2014,"195 Sarsfield Road, Ballyfermot, Dublin 10",Dublin,100000.0,No,Ballyfermot,Dublin 10,q1,20%
+28/11/2014,"127 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+05/12/2014,"19 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,187000.0,No,Ballyfermot,Dublin 10,q3,70%
+09/12/2014,"64 Ornamore Road, Ballyfermot, Dublin 10",Dublin,75000.0,No,Ballyfermot,Dublin 10,q1,10%
+10/12/2014,"112 Ballyfermot Drive, Ballyfermot, Dublin 10",Dublin,150500.0,No,Ballyfermot,Dublin 10,q2,50%
+12/12/2014,"38 Colepark Drive, Ballyfermot, Dublin 10",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+17/12/2014,"43 Cleggan Rd, Ballyfermot, Dublin 10",Dublin,186000.0,No,Ballyfermot,Dublin 10,q3,70%
+18/12/2014,"42 Garryowen Rd, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+19/12/2014,"131 Blackditch Road, Ballyfermot",Dublin,89000.0,No,Ballyfermot,Dublin 10,q1,10%
+22/12/2014,"5 Orchard Lawns, Ballyfermot, Dublin 10",Dublin,146559.0,No,Ballyfermot,Dublin 10,q2,40%
+22/12/2014,"61 Lally Road, Ballyfermot",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+14/01/2015,"2 Oranmore Close, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+16/01/2015,"28 Raheen Dr, Ballyfermot, Dublin",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+27/01/2015,"172 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,197000.0,No,Ballyfermot,Dublin 10,q3,80%
+30/01/2015,"24 Ballyfermot Parade, Ballyfermot, Dublin 10",Dublin,164000.0,No,Ballyfermot,Dublin 10,q3,60%
+03/02/2015,"16 Cremona Road, Ballyfermot",Dublin,169000.0,No,Ballyfermot,Dublin 10,q3,60%
+04/02/2015,"324 Ballyfermot Rd Ballyfermot, Dublin 10, Dublin",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+05/02/2015,"166 Thomond Road, Ballyfermot",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+06/02/2015,"24 Rossmore Rd Ballyfermot, Dublin 10, Dublin",Dublin,174000.0,No,Ballyfermot,Dublin 10,q3,60%
+11/02/2015,"150 Cremona Rd Ballyfermot, Dublin 10, Dublin",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+13/02/2015,"25 Inagh Rd, Ballyfermot, Dublin 10",Dublin,137000.0,No,Ballyfermot,Dublin 10,q2,40%
+18/02/2015,"35 Cremona Rd, Ballyfermot, Dublin 10",Dublin,149950.0,No,Ballyfermot,Dublin 10,q2,50%
+19/02/2015,"34 Ballyfermot Dr, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+20/02/2015,"313 Kylemore Road, Ballyfermot, Dublin 12",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+25/02/2015,"71 Colepark Rd, Ballyfermot, Dublin 10",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+06/03/2015,"515 Ballyfermot Rd, Dublin 10, Dublin",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+10/03/2015,"10 Inagh Rd, Ballyfermot Upr, Dublin 10",Dublin,162000.0,No,Ballyfermot,Dublin 10,q3,60%
+10/03/2015,"21 Ballyfermot Parade, Ballyfermot, Dublin 10",Dublin,185000.0,No,Ballyfermot,Dublin 10,q3,70%
+12/03/2015,"383 Ballyfermot Road, Dublin 10",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+20/03/2015,"54 Blackditch Road, Ballyfermot, Dublin 10",Dublin,125000.0,No,Ballyfermot,Dublin 10,q2,30%
+27/03/2015,"95 Cremona Rd, Ballyfermot, Dublin",Dublin,131000.0,No,Ballyfermot,Dublin 10,q2,40%
+30/03/2015,"179 Oranmore Road, Ballyfermot, Dublin 10",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+08/04/2015,"178 Ballyfermot Dr, Ballyfermot, Dublin 10",Dublin,148000.0,No,Ballyfermot,Dublin 10,q2,50%
+08/04/2015,"36 Rossmore Rd, Ballyfermot, Dublin 10",Dublin,158000.0,No,Ballyfermot,Dublin 10,q2,50%
+16/04/2015,"415 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+17/04/2015,"106B Spiddal Road, Ballyfermot, Dublin 10",Dublin,55500.0,No,Ballyfermot,Dublin 10,q1,10%
+17/04/2015,"244 Landen Rd, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+21/04/2015,"132 Loch Conn Road, Ballyfermot, Dublin 10",Dublin,175000.0,No,Ballyfermot,Dublin 10,q3,70%
+21/04/2015,"83 Colepark Rd, Ballyfermot, Dublin 10",Dublin,146500.0,No,Ballyfermot,Dublin 10,q2,40%
+24/04/2015,"172 Cremona Rd Ballyfermot, Dublin 10, Dublin",Dublin,171750.0,No,Ballyfermot,Dublin 10,q3,60%
+29/04/2015,"94 Spiddal Rd, Ballyfermot, Dublin 10",Dublin,161000.0,No,Ballyfermot,Dublin 10,q3,60%
+01/05/2015,"259 Ballyfermot Road, Ballyfermot",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+15/05/2015,"26B Spiddal Road, Ballyfermot, Dublin 10",Dublin,128718.0,No,Ballyfermot,Dublin 10,q2,30%
+04/06/2015,"21 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,179950.0,No,Ballyfermot,Dublin 10,q3,70%
+05/06/2015,"47 Thomond Rd, Ballyfermot, Dublin 10",Dublin,158000.0,No,Ballyfermot,Dublin 10,q2,50%
+11/06/2015,"25 Rossmore Rd, Ballyfermot, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+15/06/2015,"23 Claddagh Green Ballyfermot, Dublin 10, Dublin",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+16/06/2015,"91 Lawdon Rd, Ballyfermot, Dublin 10",Dublin,190000.0,No,Ballyfermot,Dublin 10,q3,70%
+22/06/2015,"105 O Hogan Rd, Ballyfermot, Dublin 10",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+23/06/2015,"84 Landen Rd, Ballyfermot, Dublin 10",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+26/06/2015,"136 Landen Rd, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+26/06/2015,"61 Lally Rd, Ballyfermot, Dublin 10",Dublin,187000.0,No,Ballyfermot,Dublin 10,q3,70%
+30/06/2015,"11 Thomond Rd, Ballyfermot, Dublin 10",Dublin,182000.0,No,Ballyfermot,Dublin 10,q3,70%
+30/06/2015,"456 Ballyfermot Rd, Dublin 10, Dublin",Dublin,175000.0,No,Ballyfermot,Dublin 10,q3,70%
+14/07/2015,"54 Cleggan Ave, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+15/07/2015,"116 Lough Conn Rd, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+15/07/2015,"58 Rossmore Road, Ballyfermot",Dublin,180000.0,No,Ballyfermot,Dublin 10,q3,70%
+17/07/2015,"255 Landen Road, Ballyfermot, Dublin 10",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+23/07/2015,"287 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,162000.0,No,Ballyfermot,Dublin 10,q3,60%
+24/07/2015,"117 Ballyfermot Road, Balyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+24/07/2015,"17 Garryowen Rd, Ballyfermot, Dublin 10",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+27/07/2015,"5 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,239950.0,No,Ballyfermot,Dublin 10,q4,90%
+29/07/2015,"39 Ballyfermot Dr, Ballyfermot, Dublin 10",Dublin,137500.0,No,Ballyfermot,Dublin 10,q2,40%
+30/07/2015,"15 Ballyfermot Parade, Ballyfermot, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+05/08/2015,"28 Colepark Green, Ballyfermot",Dublin,117000.0,No,Ballyfermot,Dublin 10,q1,30%
+06/08/2015,"93 Lally Rd, Ballyfermot, Dublin 10",Dublin,157500.0,No,Ballyfermot,Dublin 10,q2,50%
+11/08/2015,"167 Sarsfield Rd, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+11/08/2015,"29 Ballyfermot Ave, Ballyfermot, Dublin 10",Dublin,166000.0,No,Ballyfermot,Dublin 10,q3,60%
+11/08/2015,"378 Landen Rd, Ballyfermot, Dublin 10",Dublin,179000.0,No,Ballyfermot,Dublin 10,q3,70%
+11/08/2015,"4 Colepark Drive, Ballyfermot",Dublin,156000.0,No,Ballyfermot,Dublin 10,q2,50%
+12/08/2015,"97 Kylemore Dr, Ballyfermot, Dublin 10",Dublin,72858.0,No,Ballyfermot,Dublin 10,q1,10%
+28/08/2015,"134 Ballyfermot Dr, Dublin 10, Dublin",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+31/08/2015,"377 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,205500.0,No,Ballyfermot,Dublin 10,q3,80%
+01/09/2015,"71 Landen Road, Ballyfermot",Dublin,157000.0,No,Ballyfermot,Dublin 10,q2,50%
+04/09/2015,"133 Thomond Rd Ballyfermot, Dublin 10, Dublin",Dublin,175000.0,No,Ballyfermot,Dublin 10,q3,70%
+04/09/2015,"39 Cleggan Ave, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+04/09/2015,"65 Spiddal Rd, Ballyfermot, Dublin 10",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+15/09/2015,"4 Loch Conn Rd, Ballyfermot, Dublin 10",Dublin,200500.0,No,Ballyfermot,Dublin 10,q3,80%
+15/09/2015,"71 Lally Rd, Ballyfermot, Dublin 10",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+16/09/2015,"39 Landen Rd, Ballyfermot, Dublin 10",Dublin,40000.0,No,Ballyfermot,Dublin 10,q1,10%
+18/09/2015,"103 Le Fanu Road, Ballyfermot",Dublin,143000.0,No,Ballyfermot,Dublin 10,q2,40%
+29/09/2015,"423 Ballyfermot Rd, Dublin 10, Dublin",Dublin,187500.0,No,Ballyfermot,Dublin 10,q3,70%
+02/10/2015,"96 Drumfinn Ave, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+09/10/2015,"95 Ballyfermot Crescent, Ballyfermot, Dublin 10",Dublin,175000.0,No,Ballyfermot,Dublin 10,q3,70%
+20/10/2015,"52 Omoore Rd, Ballyfermot, Dublin 10",Dublin,164000.0,No,Ballyfermot,Dublin 10,q3,60%
+28/10/2015,"51 Colepark Dr, Ballyfermot, Dublin 10",Dublin,147500.0,No,Ballyfermot,Dublin 10,q2,50%
+29/10/2015,"19 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,206000.0,No,Ballyfermot,Dublin 10,q3,80%
+30/10/2015,"21 Garryowen Rd, Ballyfermot Dublin 10, Dublin",Dublin,206000.0,No,Ballyfermot,Dublin 10,q3,80%
+20/11/2015,"221 Sarsfield Rd, Ballyfermot, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+26/11/2015,"271 Landen Rd, Ballyfermot, Dublin 10",Dublin,156000.0,No,Ballyfermot,Dublin 10,q2,50%
+01/12/2015,"151 Kylemore Dr, Ballyfermot, Dublin 10",Dublin,156500.0,No,Ballyfermot,Dublin 10,q2,50%
+04/12/2015,"24 Park St, Ballyfermot, Dublin City",Dublin,146750.0,No,Ballyfermot,Dublin 10,q2,40%
+18/12/2015,"42 Ballyfermot Ave, Dublin",Dublin,202500.0,No,Ballyfermot,Dublin 10,q3,80%
+18/12/2015,"6 Ballyfermot Dr, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+22/12/2015,"52 Ballyneety Road, Ballyfermot, Dublin 10",Dublin,137000.0,No,Ballyfermot,Dublin 10,q2,40%
+07/01/2016,"55 Drumfin Rd, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+20/01/2016,"57 Ballyfermot Dr, Dublin 10, Dublin",Dublin,29000.0,No,Ballyfermot,Dublin 10,q1,10%
+21/01/2016,"60 Ballyfermot Crescent, Ballyfermot, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+02/02/2016,"357 Kylemore Rd, Ballyfermot, Dublin",Dublin,142000.0,No,Ballyfermot,Dublin 10,q2,40%
+11/02/2016,"112 Cedar Brook Ave, Cherry Orchard, Ballyfermot Dublin 10",Dublin,133000.0,No,Ballyfermot,Dublin 10,q2,40%
+15/02/2016,"113 Blackditch Rd, Ballyfermot, Dublin",Dublin,175000.0,No,Ballyfermot,Dublin 10,q3,70%
+19/02/2016,"109 Rossmore Road, Ballyfermot",Dublin,179000.0,No,Ballyfermot,Dublin 10,q3,70%
+23/02/2016,"127 Cremona Rd, Ballyfermot, Dublin 10",Dublin,205000.0,No,Ballyfermot,Dublin 10,q3,80%
+23/02/2016,"36 Oranmore Road, Ballyfermot, Dublin 10",Dublin,149950.0,No,Ballyfermot,Dublin 10,q2,50%
+23/02/2016,"97 Ballyfermot Parade, Dublin 10",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+29/02/2016,"3 Cloverhill Rd, Ballyfermot, Dublin 10",Dublin,166000.0,No,Ballyfermot,Dublin 10,q3,60%
+01/03/2016,"4 Claddagh Green Ballyfermot, Dublin 10, Dublin",Dublin,156750.0,No,Ballyfermot,Dublin 10,q2,50%
+04/03/2016,"26 Cloverhill Road, Ballyfermot, Dublin 10",Dublin,173000.0,No,Ballyfermot,Dublin 10,q3,60%
+09/03/2016,"10 Rossmore Ave, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+10/03/2016,"319 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,148000.0,No,Ballyfermot,Dublin 10,q2,50%
+14/03/2016,"96 Thomond Rd, Ballyfermot, Dublin City",Dublin,169000.0,No,Ballyfermot,Dublin 10,q3,60%
+23/03/2016,"1 Lough Conn Ave, Ballyfermot, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+30/03/2016,"168 Claddagh Rd Ballyfermot, Dublin 10, Dublin",Dublin,80000.0,No,Ballyfermot,Dublin 10,q1,10%
+31/03/2016,"63 Muskerry Rd, Ballyfermot, Dublin 10",Dublin,151000.0,No,Ballyfermot,Dublin 10,q2,50%
+07/04/2016,"14 Thomond Rd, Ballyfermot, Dublin 10",Dublin,158000.0,No,Ballyfermot,Dublin 10,q2,50%
+07/04/2016,"330 Landen Road, Ballyfermot, Dublin 10",Dublin,152550.0,No,Ballyfermot,Dublin 10,q2,50%
+11/04/2016,"168 Lally Rd, Ballyfermot, Dublin 10",Dublin,97500.0,No,Ballyfermot,Dublin 10,q1,20%
+12/04/2016,"136 Landen Rd, Ballyfermot, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+12/04/2016,"62 The Steeples, Ballyfermot, Dublin",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+15/04/2016,"275 Thomond Rd, Ballyfermot, Dublin 10",Dublin,171000.0,No,Ballyfermot,Dublin 10,q3,60%
+21/04/2016,"40 Oranmore Road, Ballyfermot, Dublin 10",Dublin,187000.0,No,Ballyfermot,Dublin 10,q3,70%
+25/04/2016,"78 Ballyfermot Ave, Ballyfermot, Dublin 10",Dublin,167000.0,No,Ballyfermot,Dublin 10,q3,60%
+09/05/2016,"18 Raheen Dr, Ballyfermot, Dublin 10",Dublin,167000.0,No,Ballyfermot,Dublin 10,q3,60%
+17/05/2016,"20 Claddagh Rd Ballyfermot, Dublin 10, Dublin",Dublin,153000.0,No,Ballyfermot,Dublin 10,q2,50%
+17/05/2016,"352 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+26/05/2016,"70 Drumfinn Rd, Ballyfermot, Dublin 10",Dublin,120000.0,No,Ballyfermot,Dublin 10,q2,30%
+31/05/2016,"12 Ballyfermot Crescent, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+31/05/2016,"33 Cremona Rd Ballyfermot, Dublin 10, Dublin",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+02/06/2016,"203 Sarsfield Rd, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+02/06/2016,"29 Drumfinn Road, Ballyfermot Upper, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q2,50%
+08/06/2016,"70 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,135000.0,No,Ballyfermot,Dublin 10,q2,40%
+20/06/2016,"32 Drumfinn Road, Ballyfermot, Dublin 10",Dublin,180000.0,No,Ballyfermot,Dublin 10,q3,70%
+21/06/2016,"60 Loch Conn Road, Ballyfermot, Dublin 10",Dublin,158000.0,No,Ballyfermot,Dublin 10,q2,50%
+23/06/2016,"68 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+30/06/2016,"39 Spiddal Rd, Ballyfermot, Dublin 10",Dublin,175000.0,No,Ballyfermot,Dublin 10,q3,70%
+07/07/2016,"379 Landen Rd, Ballyfermot, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q3,60%
+07/07/2016,"78 Decies Rd Ballyfermot, Dublin 10, Dublin",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+08/07/2016,"106B Spiddal Road, Ballyfermot, Dublin 10",Dublin,55500.0,No,Ballyfermot,Dublin 10,q1,10%
+14/07/2016,"10 Rossmore Drive, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+14/07/2016,"39 Landen Road, Ballyfermot, Dublin 10",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+15/07/2016,"323 Ballyfermot Rd, Dublin 10, Dublin",Dublin,160000.0,No,Ballyfermot,Dublin 10,q3,60%
+22/07/2016,"176 Cherry Orchard Ave, Ballyfermot, Dublin 10",Dublin,153000.0,No,Ballyfermot,Dublin 10,q2,50%
+26/07/2016,"125 Ballyfermot Rd Ballyfermot, Dublin 10, Dublin",Dublin,95746.0,No,Ballyfermot,Dublin 10,q1,20%
+29/07/2016,"237 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+05/08/2016,"73 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,180000.0,No,Ballyfermot,Dublin 10,q3,70%
+10/08/2016,"67 Cherry Orchard Crescent, Ballyfermot, Dublin 10",Dublin,167000.0,No,Ballyfermot,Dublin 10,q3,60%
+11/08/2016,"318 Kylemore Rd, Ballyfermot, Dublin 10",Dublin,179000.0,No,Ballyfermot,Dublin 10,q3,70%
+12/08/2016,"118 Ballyfermot Drive, Ballyfermot, Dublin 10",Dublin,130000.0,No,Ballyfermot,Dublin 10,q2,30%
+12/08/2016,"172 Lally Rd, Ballyfermot, Dublin 10",Dublin,172000.0,No,Ballyfermot,Dublin 10,q3,60%
+12/08/2016,"91A Rossmore Ave, Ballyfermot, Dublin 10",Dublin,222000.0,No,Ballyfermot,Dublin 10,q4,90%
+18/08/2016,"195 Ballyfermot Rd, Dublin 10, Dublin",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+19/08/2016,"70 Cherry Orchard Ave, Ballyfermot, Dublin 10",Dublin,162500.0,No,Ballyfermot,Dublin 10,q3,60%
+22/08/2016,"5 Orchard Lawns, Ballyfermot, Dublin 10",Dublin,160000.0,No,Ballyfermot,Dublin 10,q3,60%
+31/08/2016,"1A Meadow View, Sarsfield Rd, Ballyfermot Dublin 10",Dublin,85000.0,No,Ballyfermot,Dublin 10,q1,10%
+31/08/2016,"2A Meadow View, Sarsfield Rd, Ballyfermot Dublin 10",Dublin,85000.0,No,Ballyfermot,Dublin 10,q1,10%
+31/08/2016,"56 Decies Road, Ballyfermot, Dublin 10",Dublin,193000.0,No,Ballyfermot,Dublin 10,q3,70%
+05/09/2016,"125 Landen Road, Ballyfermot, Dublin 10",Dublin,166500.0,No,Ballyfermot,Dublin 10,q3,60%
+07/09/2016,"30 Gurteen Park, Ballyfermot, Dublin 10",Dublin,205000.0,No,Ballyfermot,Dublin 10,q3,80%
+09/09/2016,"36 Gurteen Ave, Ballyfermot, Dublin 10",Dublin,172000.0,No,Ballyfermot,Dublin 10,q3,60%
+16/09/2016,"167 Cremona Rd, Ballyfermot, Dublin 10",Dublin,240000.0,No,Ballyfermot,Dublin 10,q4,90%
+04/10/2016,"24 Cherry Orchard Dr, Ballyfermot, Dublin 10",Dublin,212000.0,No,Ballyfermot,Dublin 10,q4,80%
+05/10/2016,"105 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,145245.0,No,Ballyfermot,Dublin 10,q2,40%
+05/10/2016,"82 Rossmore Rd, Ballyfermot, Dublin 10",Dublin,195000.0,No,Ballyfermot,Dublin 10,q3,70%
+07/10/2016,"121 Blackditch Rd, Ballyfermot, Dublin",Dublin,164950.0,No,Ballyfermot,Dublin 10,q3,60%
+11/10/2016,"41 Lally Rd, Ballyfermot, Dublin 10",Dublin,185000.0,No,Ballyfermot,Dublin 10,q3,70%
+12/10/2016,"156 Cremona Road, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+14/10/2016,"97 Lally Road, Ballyfermot, Dublin 10",Dublin,162000.0,No,Ballyfermot,Dublin 10,q3,60%
+26/10/2016,"142 Ballyfermot Crescent, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+28/10/2016,"221 Landen Rd, Ballyfermot, Dublin 10",Dublin,197000.0,No,Ballyfermot,Dublin 10,q3,80%
+28/10/2016,"29 Cleggan Rd, Ballyfermot, Dublin 10",Dublin,212000.0,No,Ballyfermot,Dublin 10,q4,80%
+02/11/2016,"62 Kylemore Dr, Ballyfermot, Dublin 10",Dublin,200000.0,No,Ballyfermot,Dublin 10,q3,80%
+03/11/2016,"48 Cremona Rd, Ballyfermot, Dublin 10",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+10/11/2016,"46 Croftwood Park, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+16/11/2016,"301 Ballyfermot Rd, Dublin 10, Dublin",Dublin,187000.0,No,Ballyfermot,Dublin 10,q3,70%
+18/11/2016,"81 Kylemore Ave, Ballyfermot, Dublin 10",Dublin,176500.0,No,Ballyfermot,Dublin 10,q3,70%
+24/11/2016,"88 Thormond Rd, Ballyfermot, Dublin 10",Dublin,185000.0,No,Ballyfermot,Dublin 10,q3,70%
+30/11/2016,"132 Ballyfermot Dr, Ballyfermot, Dublin",Dublin,175000.0,No,Ballyfermot,Dublin 10,q3,70%
+30/11/2016,"22 Croftwood Park, Cherry Orchard, Ballyfermot Dublin 10",Dublin,200000.0,No,Ballyfermot,Dublin 10,q3,80%
+30/11/2016,"78 Landen Rd, Ballyfermot, Dublin",Dublin,193000.0,No,Ballyfermot,Dublin 10,q3,70%
+02/12/2016,"419 Landen Rd, Ballyfermot, Dublin 10",Dublin,87500.0,No,Ballyfermot,Dublin 10,q1,10%
+05/12/2016,"113 Spiddal Rd, Ballyfermot, Dublin",Dublin,199000.0,No,Ballyfermot,Dublin 10,q3,80%
+05/12/2016,"216 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+07/12/2016,"48 Spidall Rd, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+08/12/2016,"42 Rossmore Road, Ballyfermot, Dublin 10",Dublin,212000.0,No,Ballyfermot,Dublin 10,q4,80%
+14/12/2016,"33 Ballyfermot Parade, Dublin 10",Dublin,191000.0,No,Ballyfermot,Dublin 10,q3,70%
+16/12/2016,"21 Cleggan Park, Ballyfermot, Dublin 10",Dublin,190000.0,No,Ballyfermot,Dublin 10,q3,70%
+19/12/2016,"290 Blackditch Rd Ballyfermot, Dublin 10, Dublin",Dublin,205983.0,No,Ballyfermot,Dublin 10,q3,80%
+20/12/2016,"124 Thomond Rd, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+20/12/2016,"16 Decies Rd, Ballyfermot, Dublin 10",Dublin,237000.0,No,Ballyfermot,Dublin 10,q4,90%
+21/12/2016,"43 Ballyfermot Ave, Ballyfermot, Dublin 10",Dublin,197500.0,No,Ballyfermot,Dublin 10,q3,80%
+04/01/2017,"31 Cherry Orchard Green, Cherry Orchard, Ballyfermot Dublin 10",Dublin,161000.0,No,Ballyfermot,Dublin 10,q3,60%
+18/01/2017,"58 Cremona Rd, Ballyfermot, Dublin 10",Dublin,191000.0,No,Ballyfermot,Dublin 10,q3,70%
+24/01/2017,"1 Kylemore Avenue, Ballyfermot, Dublin 10",Dublin,194000.0,No,Ballyfermot,Dublin 10,q3,70%
+27/01/2017,"15 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,253500.0,No,Ballyfermot,Dublin 10,q4,100%
+31/01/2017,"92 Muskerry Road, Ballyfermot, Dublin 10",Dublin,193000.0,No,Ballyfermot,Dublin 10,q3,70%
+02/02/2017,"263 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+13/02/2017,"60 Drumfinn Ave, Ballyfermot, Dublin 10",Dublin,191000.0,No,Ballyfermot,Dublin 10,q3,70%
+22/02/2017,"97 Oranmore Road, Ballyfermot, Dublin 10",Dublin,180000.0,No,Ballyfermot,Dublin 10,q3,70%
+27/02/2017,"341 Landon Rd, Ballyfermot Dublin 10, Dublin",Dublin,200000.0,No,Ballyfermot,Dublin 10,q3,80%
+02/03/2017,"46 Oranmore Rd Ballyfermot, Dublin 10, Dublin",Dublin,193000.0,No,Ballyfermot,Dublin 10,q3,70%
+06/03/2017,"112 Kylemore Dr, Ballyfermot, Dublin 10",Dublin,210000.0,No,Ballyfermot,Dublin 10,q3,80%
+21/03/2017,"129 Rossmore Rd, Ballyfermot, Dublin 10",Dublin,202000.0,No,Ballyfermot,Dublin 10,q3,80%
+27/03/2017,"53 Thomond Rd, Ballyfermot, Dublin 10",Dublin,160466.0,No,Ballyfermot,Dublin 10,q3,60%
+31/03/2017,"272 Landen Rd, Ballyfermot, Dublin 10",Dublin,187500.0,No,Ballyfermot,Dublin 10,q3,70%
+06/04/2017,"68 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,60000.0,No,Ballyfermot,Dublin 10,q1,10%
+06/04/2017,"70 Kylemore Ave, Ballyfermot, Dublin 10",Dublin,231000.0,No,Ballyfermot,Dublin 10,q4,90%
+07/04/2017,"113 Ballyfermot Ave, Dublin 10, Dublin",Dublin,181000.0,No,Ballyfermot,Dublin 10,q3,70%
+26/04/2017,"128 Ballyfermot Dr, Ballyfermot, Dublin 10",Dublin,200000.0,No,Ballyfermot,Dublin 10,q3,80%
+28/04/2017,"498 Ballyfermot Road, Dublin 10",Dublin,230000.0,No,Ballyfermot,Dublin 10,q4,90%
+10/05/2017,"32 Lally Road, Ballyfermot, Dublin 10",Dublin,171000.0,No,Ballyfermot,Dublin 10,q3,60%
+12/05/2017,"131 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,186000.0,No,Ballyfermot,Dublin 10,q3,70%
+12/05/2017,"142 Blackditch Road, Ballyfermot, Dublin 10",Dublin,190000.0,No,Ballyfermot,Dublin 10,q3,70%
+12/05/2017,"38 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,221000.0,No,Ballyfermot,Dublin 10,q4,80%
+16/05/2017,"79B Spiddal Road, Ballyfermot, Dublin 10",Dublin,220000.0,No,Ballyfermot,Dublin 10,q4,80%
+19/05/2017,"162 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,187000.0,No,Ballyfermot,Dublin 10,q3,70%
+31/05/2017,"33 Cleggan Rd, Ballyfermot, Dublin 10",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+02/06/2017,"283 Thomond Rd, Ballyfermot, Dublin 10",Dublin,167000.0,No,Ballyfermot,Dublin 10,q3,60%
+09/06/2017,"3 Loch Conn Dr, Ballyfermot, Dublin 10",Dublin,220000.0,No,Ballyfermot,Dublin 10,q4,80%
+24/06/2017,"1 Kylemore Drive, Ballyfermot, Dublin 10",Dublin,245000.0,No,Ballyfermot,Dublin 10,q4,100%
+26/06/2017,"31 Kylemore Ave, Ballyfermot, Dublin 10",Dublin,205000.0,No,Ballyfermot,Dublin 10,q3,80%
+29/06/2017,"71 Rossmore Ave, Ballyfermot, Dublin 10",Dublin,240000.0,No,Ballyfermot,Dublin 10,q4,90%
+03/07/2017,"40 Cloighinn Road, Ballyfermot, Dublin 10",Dublin,184000.0,No,Ballyfermot,Dublin 10,q3,70%
+04/07/2017,"16 Clifden Terrace, Ballyfermot, Dublin 10",Dublin,187000.0,No,Ballyfermot,Dublin 10,q3,70%
+07/07/2017,"14 Cedar Brook Place, Ballyfermot, Dublin 10",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+10/07/2017,"290 Kylemore Rd, Ballyfermot, Dublin 10",Dublin,207000.0,No,Ballyfermot,Dublin 10,q3,80%
+10/07/2017,"40 Loch Conn Rd, Ballyfermot, Dublin 10",Dublin,245000.0,No,Ballyfermot,Dublin 10,q4,100%
+13/07/2017,"129 Ballyfermot Rd, Dublin 10, Dublin",Dublin,210000.0,No,Ballyfermot,Dublin 10,q3,80%
+21/07/2017,"5 Spiddal Road, Ballyfermot, Dublin 10",Dublin,207000.0,No,Ballyfermot,Dublin 10,q3,80%
+26/07/2017,"97 Blackditch Road, Ballyfermot, Dublin 10",Dublin,243000.0,No,Ballyfermot,Dublin 10,q4,90%
+27/07/2017,"19 Muskerry Rd, Ballyfermot, Dublin 10",Dublin,182000.0,No,Ballyfermot,Dublin 10,q3,70%
+28/07/2017,"119 Seven Oaks, Sarsfields Rd, Ballyfermot Dublin 10",Dublin,176000.0,No,Ballyfermot,Dublin 10,q3,70%
+28/07/2017,"157 Sarsfield Rd, Lower Ballyfermot, Dublin 10",Dublin,245000.0,No,Ballyfermot,Dublin 10,q4,100%
+01/08/2017,"11 Clifden Rd, Ballyfermot, Dublin 10",Dublin,226000.0,No,Ballyfermot,Dublin 10,q4,90%
+02/08/2017,"33 Cleggan Park, Ballyfermot, Dublin 10",Dublin,235000.0,No,Ballyfermot,Dublin 10,q4,90%
+03/08/2017,"397 Ballyfermot Rd, Dublin 10, Dublin",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+08/08/2017,"48 Thomond Rd Ballyfermot, Dublin 10, Dublin",Dublin,175000.0,No,Ballyfermot,Dublin 10,q3,70%
+15/08/2017,"3 Rossmore Ave, Ballyfermot, Dublin 10",Dublin,225697.0,No,Ballyfermot,Dublin 10,q4,90%
+23/08/2017,"513 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,216000.0,No,Ballyfermot,Dublin 10,q4,80%
+24/08/2017,"458 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,190000.0,No,Ballyfermot,Dublin 10,q3,70%
+28/08/2017,"77 Rossmore Ave, Ballyfermot, Dublin 10",Dublin,200000.0,No,Ballyfermot,Dublin 10,q3,80%
+29/08/2017,"52 Landen Rd, Ballyfermot, Dublin 10",Dublin,243000.0,No,Ballyfermot,Dublin 10,q4,90%
+29/08/2017,"93 Cherry Orchard Crescent, Ballyfermot, Dublin 10",Dublin,201000.0,No,Ballyfermot,Dublin 10,q3,80%
+30/08/2017,"252 Landen Rd, Ballyfermot, Dublin 10",Dublin,146900.0,No,Ballyfermot,Dublin 10,q2,40%
+06/09/2017,"3 Cremona Rd, Ballyfermot, Dublin 10",Dublin,268000.0,No,Ballyfermot,Dublin 10,q4,100%
+08/09/2017,"1 Cleggan Ave, Ballyfermot, Dublin 10",Dublin,210000.0,No,Ballyfermot,Dublin 10,q3,80%
+08/09/2017,"42 Colepark Ave, Ballyfermot, Dublin 10",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+12/09/2017,"13 Colepark Dr, Ballyfermot, Dublin 10",Dublin,224000.0,No,Ballyfermot,Dublin 10,q4,90%
+14/09/2017,"73 Lally Rd, Ballyfermot, Dublin",Dublin,121900.0,No,Ballyfermot,Dublin 10,q2,30%
+15/09/2017,"291 Landen Road, Ballyfermot, Dublin 10",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+15/09/2017,"78 Ballyfermot Ave, Ballyfermot, Dublin 10",Dublin,203000.0,No,Ballyfermot,Dublin 10,q3,80%
+25/09/2017,"164 Lefaun Rd, Ballyfermot, Dublin 10",Dublin,212000.0,No,Ballyfermot,Dublin 10,q4,80%
+03/10/2017,"95 Cremona Rd, Ballyfermot, Dublin",Dublin,190000.0,No,Ballyfermot,Dublin 10,q3,70%
+04/10/2017,"134 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+05/10/2017,"175 Cremona Rd, Ballyfermot, Dublin 10",Dublin,242000.0,No,Ballyfermot,Dublin 10,q4,90%
+06/10/2017,"87 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,237000.0,No,Ballyfermot,Dublin 10,q4,90%
+09/10/2017,"15 Ballyfermot Dr, Dublin 10, Dublin",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+09/10/2017,"69 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,195000.0,No,Ballyfermot,Dublin 10,q3,70%
+13/10/2017,"5 Moycullen Rd, Ballyfermot, Dublin 10",Dublin,222000.0,No,Ballyfermot,Dublin 10,q4,90%
+23/10/2017,"58 Ramilles Rd, Ballyfermot, Dublin 10",Dublin,263000.0,No,Ballyfermot,Dublin 10,q4,100%
+23/10/2017,"73 Ballyfermot Parade, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+24/10/2017,"37 Kylemore Ave, Ballyfermot, Dublin 10",Dublin,229000.0,No,Ballyfermot,Dublin 10,q4,90%
+06/11/2017,"55 Cedarbrook Way, Cherryorchard, Ballyfermot Dublin 10",Dublin,143050.0,No,Ballyfermot,Dublin 10,q2,40%
+24/11/2017,"3 Convent Lawns, Kylemore Road, Ballyfermot",Dublin,250000.0,No,Ballyfermot,Dublin 10,q4,100%
+24/11/2017,"78 Ballyfermot Crescent, Ballyfermot, Dublin 10",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+01/12/2017,"26 Rossmore Dr, Ballyfermot, Dublin 10",Dublin,180000.0,No,Ballyfermot,Dublin 10,q3,70%
+11/12/2017,"41 Gurteen Ave Ballyfermot, Dublin 10, Dublin",Dublin,222250.0,No,Ballyfermot,Dublin 10,q4,90%
+11/12/2017,"50 Colepark Ave, Ballyfermot, Dublin",Dublin,209000.0,No,Ballyfermot,Dublin 10,q3,80%
+18/12/2017,"30 Ballyfermot Parade, Dublin 10",Dublin,205000.0,No,Ballyfermot,Dublin 10,q3,80%
+19/12/2017,"75 Cedar Brook Walk, Ballyfermot, Dublin 10",Dublin,140000.0,No,Ballyfermot,Dublin 10,q2,40%
+20/12/2017,"66 Clifden Road, Ballyfermot, Dublin 12",Dublin,228000.0,No,Ballyfermot,Dublin 10,q4,90%
+15/01/2018,"56 Kylemore Ave, Ballyfermot, Dublin 10",Dublin,270000.0,No,Ballyfermot,Dublin 10,q4,100%
+19/01/2018,"119 Blackditch Rd, Ballyfermot Upper, Dublin 10",Dublin,212000.0,No,Ballyfermot,Dublin 10,q4,80%
+26/01/2018,"19 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,253000.0,No,Ballyfermot,Dublin 10,q4,100%
+26/01/2018,"59 Muskerry Rd, Ballyfermot, Dublin 10",Dublin,185000.0,No,Ballyfermot,Dublin 10,q3,70%
+30/01/2018,"80 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+31/01/2018,"34 Cedarbrook Way, Cherry Orchard, Ballyfermot",Dublin,150000.0,No,Ballyfermot,Dublin 10,q2,50%
+08/02/2018,"31 Lally Rd, Ballyfermot, Dublin 10",Dublin,90000.0,No,Ballyfermot,Dublin 10,q1,20%
+09/02/2018,"24 Meadow View, The Ranch, Ballyfermot",Dublin,306000.0,No,Ballyfermot,Dublin 10,q4,100%
+12/02/2018,"93 Rossmore Ave, Ballyfermot, Dublin 10",Dublin,236000.0,No,Ballyfermot,Dublin 10,q4,90%
+14/02/2018,"23 Gurteen Park, Ballyfermot Dublin 10",Dublin,252000.0,No,Ballyfermot,Dublin 10,q4,100%
+14/02/2018,"5 Cloiginn Park, Ballyfermot, Dublin",Dublin,255000.0,No,Ballyfermot,Dublin 10,q4,100%
+14/02/2018,"76 Landen Rd, Ballyfermot, Dublin 10",Dublin,241000.0,No,Ballyfermot,Dublin 10,q4,90%
+16/02/2018,"68 Rossmore Ave, Ballyfermot, Dublin 10",Dublin,346000.0,No,Ballyfermot,Dublin 10,q4,100%
+16/02/2018,"88 Omoore Rd, Ballyfermot, Dublin 10",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+27/02/2018,"143 Sarsfield Rd, Ballyfermot, Dublin 10",Dublin,285000.0,No,Ballyfermot,Dublin 10,q4,100%
+06/03/2018,"3 Cloiginn Ave, Ballyfermot, Dublin 10",Dublin,243000.0,No,Ballyfermot,Dublin 10,q4,90%
+13/03/2018,"98 Ballyfermot Parade, Ballyfermot, Dublin 10",Dublin,205000.0,No,Ballyfermot,Dublin 10,q3,80%
+14/03/2018,"169 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,258000.0,No,Ballyfermot,Dublin 10,q4,100%
+14/03/2018,"336 Landen Rd, Ballyfermot, Dublin",Dublin,147240.0,No,Ballyfermot,Dublin 10,q2,40%
+15/03/2018,"25 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,245000.0,No,Ballyfermot,Dublin 10,q4,100%
+16/03/2018,"112 Ballyfermot Parade, Ballyfermot, Dublin 10",Dublin,235000.0,No,Ballyfermot,Dublin 10,q4,90%
+28/03/2018,"45 Cedar Brook Way, Ballyfermot, Dublin 10",Dublin,165501.0,No,Ballyfermot,Dublin 10,q3,60%
+29/03/2018,"57 Lally Rd, Ballyfermot, Dublin 10",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+29/03/2018,"90 Ballyfermot Parade Ballyfermot, Dublin 10, Dublin",Dublin,220000.0,No,Ballyfermot,Dublin 10,q4,80%
+05/04/2018,"84 Loch Conn Road, Ballyfermot, Dublin 10",Dublin,170409.25,No,Ballyfermot,Dublin 10,q3,60%
+06/04/2018,"147 Seven Oaks, Sarsfield Rd, Ballyfermot Dublin 10",Dublin,176000.0,No,Ballyfermot,Dublin 10,q3,70%
+06/04/2018,"259 Thomond Rd, Ballyfermot, Dublin 10",Dublin,235000.0,No,Ballyfermot,Dublin 10,q4,90%
+13/04/2018,"120 Decies Rd, Ballyfermot, Dublin 10",Dublin,180000.0,No,Ballyfermot,Dublin 10,q3,70%
+20/04/2018,"39 Cedarbrook Place, Ballyfermot, Dublin 10",Dublin,145000.0,No,Ballyfermot,Dublin 10,q2,40%
+20/04/2018,"63 Ballyfermot Parade, Ballyfermot, Dublin 10",Dublin,230000.0,No,Ballyfermot,Dublin 10,q4,90%
+24/04/2018,"22 Inagh Rd, Ballyfermot, Dublin 10",Dublin,260000.0,No,Ballyfermot,Dublin 10,q4,100%
+26/04/2018,"41 Colepark Rd, Ballyfermot, Dublin 10",Dublin,235000.0,No,Ballyfermot,Dublin 10,q4,90%
+01/05/2018,"103 Blackditch Road, Ballyfermot, Dublin 10",Dublin,251000.0,No,Ballyfermot,Dublin 10,q4,100%
+10/05/2018,"114 Cherry Orchard Ave, Ballyfermot, Dublin 10",Dublin,222000.0,No,Ballyfermot,Dublin 10,q4,90%
+21/05/2018,"37 Raheen Dr, Ballyfermott, Dublin 10",Dublin,245000.0,No,Ballyfermot,Dublin 10,q4,100%
+23/05/2018,"5 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,299000.0,No,Ballyfermot,Dublin 10,q4,100%
+08/06/2018,"164 Lally Rd, Ballyfermot, Dublin 10",Dublin,248000.0,No,Ballyfermot,Dublin 10,q4,100%
+08/06/2018,"165 Decies Rd, Ballyfermot, Dublin 10",Dublin,240000.0,No,Ballyfermot,Dublin 10,q4,90%
+15/06/2018,"74 O Moore Rd, Ballyfermot, Dublin 10",Dublin,190000.0,No,Ballyfermot,Dublin 10,q3,70%
+15/06/2018,"76 Spiddal Rd, Ballyfermot, Dublin 10",Dublin,220000.0,No,Ballyfermot,Dublin 10,q4,80%
+19/06/2018,"181 Sarsfield Rd, Ballyfermot, Dublin 10",Dublin,240150.0,No,Ballyfermot,Dublin 10,q4,90%
+20/06/2018,"35A  Rossmore Road, Ballyfermot, Dublin 10",Dublin,310000.0,No,Ballyfermot,Dublin 10,q4,100%
+28/06/2018,"27 Kylemore Ave, Ballyfermot, Dublin 10",Dublin,240000.0,No,Ballyfermot,Dublin 10,q4,90%
+29/06/2018,"13 Orchard Lawns, Ballyfermot, Dublin 10",Dublin,259000.0,No,Ballyfermot,Dublin 10,q4,100%
+03/07/2018,"114 Kylemore Dr, Ballyfermot, Dublin 10",Dublin,219950.0,No,Ballyfermot,Dublin 10,q4,80%
+03/07/2018,"141 Cremona Road, Ballyfermot, Dublin 10",Dublin,85000.0,No,Ballyfermot,Dublin 10,q1,10%
+06/07/2018,"150 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,237000.0,No,Ballyfermot,Dublin 10,q4,90%
+11/07/2018,"97 Ballyfermot Dr, Ballyfermot, Dublin",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+12/07/2018,"2A Cleggan Rd Ballyfermot, Dublin 10, Dublin",Dublin,290000.0,No,Ballyfermot,Dublin 10,q4,100%
+20/07/2018,"28 Colepark Rd, Ballyfermot, Dublin 10",Dublin,250000.0,No,Ballyfermot,Dublin 10,q4,100%
+01/08/2018,"2 Lough Conn Dr, Ballyfermot, Dublin 10",Dublin,281000.0,No,Ballyfermot,Dublin 10,q4,100%
+01/08/2018,"78 Claddagh Rd, Ballyfermot, Dublin",Dublin,220000.0,No,Ballyfermot,Dublin 10,q4,80%
+07/08/2018,"6 Drumfinn Rd Ballyfermot, Dublin 10, Dublin",Dublin,265000.0,No,Ballyfermot,Dublin 10,q4,100%
+09/08/2018,"119 Cremona Rd, Ballyfermot, Dublin",Dublin,218000.0,No,Ballyfermot,Dublin 10,q4,80%
+09/08/2018,"25 Colepark Ave Ballyfermot, Dublin 10, Dublin",Dublin,274000.0,No,Ballyfermot,Dublin 10,q4,100%
+10/08/2018,"108 Ballyfermot Crescent, Ballygfermot, Dublin 10",Dublin,137401.0,No,Ballyfermot,Dublin 10,q2,40%
+10/08/2018,"124 Drumfinn Avenue, Ballyfermot, Dublin 10",Dublin,221000.0,No,Ballyfermot,Dublin 10,q4,80%
+10/08/2018,"67 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,248000.0,No,Ballyfermot,Dublin 10,q4,100%
+14/08/2018,"43 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,210000.0,No,Ballyfermot,Dublin 10,q3,80%
+19/08/2018,"50 Drumfinn Rd, Ballyfermot, Dublin 10",Dublin,132500.0,No,Ballyfermot,Dublin 10,q2,40%
+21/08/2018,"32 Lally Road, Ballyfermot, Dublin 10",Dublin,287000.0,No,Ballyfermot,Dublin 10,q4,100%
+28/08/2018,"13 Ballyneety Rd, Lower Ballyfermot, Dublin",Dublin,226000.0,No,Ballyfermot,Dublin 10,q4,90%
+07/09/2018,"21 Ballyfermot Rd, Dublin 10, Dublin",Dublin,244000.0,No,Ballyfermot,Dublin 10,q4,100%
+10/09/2018,"61 O Hogan Rd, Ballyfermot, Dublin 10",Dublin,230000.0,No,Ballyfermot,Dublin 10,q4,90%
+17/09/2018,"260 Blackditch Rd Ballyfermot, Dublin 10, Dublin",Dublin,232000.0,No,Ballyfermot,Dublin 10,q4,90%
+18/09/2018,"261 Thomond Rd, Ballyfermot, Dublin 10",Dublin,235000.0,No,Ballyfermot,Dublin 10,q4,90%
+25/09/2018,"53 Lough Conn Road, Ballyfermot, Dublin 10",Dublin,230000.0,No,Ballyfermot,Dublin 10,q4,90%
+26/09/2018,"21 Moycullen Rd, Ballyfermot, Dublin 10",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+27/09/2018,"39 Gurteen Ave, Ballyfermot, Dublin 10",Dublin,265000.0,No,Ballyfermot,Dublin 10,q4,100%
+01/10/2018,"298 Le Fanu Road, Ballyfermot, Dublin 10",Dublin,230000.0,No,Ballyfermot,Dublin 10,q4,90%
+05/10/2018,"96 Ballyfermot Dr, Ballyfermot, Dublin 10",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+09/10/2018,"20 Gurteen Park, Ballyfermot, Dublin 10",Dublin,255000.0,No,Ballyfermot,Dublin 10,q4,100%
+10/10/2018,"75 Lough Conn Rd, Ballyfermot, Dublin 10",Dublin,350000.0,No,Ballyfermot,Dublin 10,q4,100%
+25/10/2018,"50 I Croftwood Green, Ballyfermot, Dublin 10",Dublin,238500.0,No,Ballyfermot,Dublin 10,q4,90%
+26/10/2018,"25 Kylemore Ave, Ballyfermot, Dublin 10",Dublin,285000.0,No,Ballyfermot,Dublin 10,q4,100%
+30/10/2018,"289 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,220000.0,No,Ballyfermot,Dublin 10,q4,80%
+01/11/2018,"112 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,230000.0,No,Ballyfermot,Dublin 10,q4,90%
+02/11/2018,"177 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,217500.0,No,Ballyfermot,Dublin 10,q4,80%
+02/11/2018,"54 Seven Oaks, Sarsfield Rd, Ballyfermot Dublin 10",Dublin,200000.0,No,Ballyfermot,Dublin 10,q3,80%
+05/11/2018,"24 Park St, Ballyfermot, Dublin City",Dublin,230000.0,No,Ballyfermot,Dublin 10,q4,90%
+09/11/2018,"3 Cherry Orchard Avenue, Ballyfermot, Dublin 10",Dublin,210000.0,No,Ballyfermot,Dublin 10,q4,80%
+13/11/2018,"118 Cremona Road, Ballyfermot, Dublin 10",Dublin,283000.0,No,Ballyfermot,Dublin 10,q4,100%
+14/11/2018,"113 Rossmore Road, Ballyfermot, Dublin 10",Dublin,170000.0,No,Ballyfermot,Dublin 10,q3,60%
+14/11/2018,"213 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,345000.0,No,Ballyfermot,Dublin 10,q4,100%
+15/11/2018,"17 Cloverhill Road, Ballyfermot, Dublin 10",Dublin,265000.0,No,Ballyfermot,Dublin 10,q4,100%
+16/11/2018,"116 Ballyfermot Drive, Ballyfermot, Dublin",Dublin,220000.0,No,Ballyfermot,Dublin 10,q4,80%
+23/11/2018,"32 Cedarbrook Walk, Cherry Orchard, Ballyfermot",Dublin,180000.0,No,Ballyfermot,Dublin 10,q3,70%
+23/11/2018,"38 Gurteen Park, Ballyfermot, Dublin 10",Dublin,200000.0,No,Ballyfermot,Dublin 10,q3,80%
+27/11/2018,"50G Croftwood Green, Ballyfermot, Dublin 10",Dublin,238500.0,No,Ballyfermot,Dublin 10,q4,90%
+30/11/2018,"20 Cloiginn Avenue, Ballyfermot, Dublin 10",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+04/12/2018,"433 Landen Rd Ballyfermot, Dublin 10, Dublin",Dublin,238500.0,No,Ballyfermot,Dublin 10,q4,90%
+05/12/2018,"36 Landen Rd, Ballyfermot, Dublin 10",Dublin,293000.0,No,Ballyfermot,Dublin 10,q4,100%
+07/12/2018,"241 Kylemore Road, Ballyfermot, Dublin 10",Dublin,275000.0,No,Ballyfermot,Dublin 10,q4,100%
+10/12/2018,"245 Kylemore Rd, Ballyfermot, Dublin 10",Dublin,285000.0,No,Ballyfermot,Dublin 10,q4,100%
+13/12/2018,"161 Rossmore Road, Ballyfermot, Dublin 10",Dublin,251000.0,No,Ballyfermot,Dublin 10,q4,100%
+18/12/2018,"32 Rossmore Rd, Ballyfermot Upr, Dublin 10",Dublin,237500.0,No,Ballyfermot,Dublin 10,q4,90%
+20/12/2018,"19 Garryowen Rd, Ballyfermot, Dublin 10",Dublin,268000.0,No,Ballyfermot,Dublin 10,q4,100%
+20/12/2018,"7 Clifden Drive, Ballyfermot, Dublin 10",Dublin,228000.0,No,Ballyfermot,Dublin 10,q4,90%
+07/01/2019,"55 Drumfin Road, Ballyfermot, Dublin 10",Dublin,250000.0,No,Ballyfermot,Dublin 10,q4,100%
+11/01/2019,"18 Clifden Terrace, Ballyfermot, Dublin 10",Dublin,232500.0,No,Ballyfermot,Dublin 10,q4,90%
+15/01/2019,"39 Claddagh Rd, Ballyfermot, Dublin 10",Dublin,70000.0,No,Ballyfermot,Dublin 10,q1,10%
+18/01/2019,"12 Omoore Rd, Ballyfermot, Dublin 10",Dublin,300000.0,No,Ballyfermot,Dublin 10,q4,100%
+25/01/2019,"112 Spiddal Rd, Ballyfermot, Dublin 10",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+05/02/2019,"134 Cremona Road, Ballyfermot, Dublin 10",Dublin,237000.0,No,Ballyfermot,Dublin 10,q4,90%
+06/02/2019,"15 Croftwood Dr, Cherry Orchard, Ballyfermot Dublin 10",Dublin,250000.0,No,Ballyfermot,Dublin 10,q4,100%
+15/02/2019,"30 Ballyneety Rd, Ballyfermot, Dublin",Dublin,212000.0,No,Ballyfermot,Dublin 10,q4,80%
+22/02/2019,"214 Landen Rd, Ballyfermot, Dublin 10",Dublin,258000.0,No,Ballyfermot,Dublin 10,q4,100%
+01/03/2019,"31 Ballyfermot Parade, Dublin 10, Dublin",Dublin,214000.0,No,Ballyfermot,Dublin 10,q4,80%
+13/03/2019,"40 Ballyneety Road, Ballyfermot, Dublin 10",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+15/03/2019,"21 Loch Conn Ave, Ballyfermot, Dublin 10",Dublin,235000.0,No,Ballyfermot,Dublin 10,q4,90%
+28/03/2019,"23 Claddagh Green Ballyfermot, Dublin 10, Dublin",Dublin,275000.0,No,Ballyfermot,Dublin 10,q4,100%
+01/04/2019,"53 Kylemore Ave, Ballyfermot, Dublin 10",Dublin,220000.0,No,Ballyfermot,Dublin 10,q4,80%
+04/04/2019,"28 Cedarbrook Walk, Ballyfermot, Dublin 10",Dublin,155000.0,No,Ballyfermot,Dublin 10,q2,50%
+04/04/2019,"52 Drumfinn Rd Ballyfermot, Dublin 10, Dublin",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+10/04/2019,"127 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+11/04/2019,"255 Ballyfermot Road, Ballyfermot, Dublin 10",Dublin,275000.0,No,Ballyfermot,Dublin 10,q4,100%
+11/04/2019,"28 Thomond Rd, Ballyfermot, Dublin 10",Dublin,230000.0,No,Ballyfermot,Dublin 10,q4,90%
+11/04/2019,"7 Kylemore Drive, Ballyfermot, Dublin 10",Dublin,248000.0,No,Ballyfermot,Dublin 10,q4,100%
+12/04/2019,"135 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,255000.0,No,Ballyfermot,Dublin 10,q4,100%
+12/04/2019,"45 Ballyneety Rd, Ballyfermot, Dublin 10",Dublin,232500.0,No,Ballyfermot,Dublin 10,q4,90%
+15/04/2019,"38 Spiddal Rd, Ballyfermot, Dublin 10",Dublin,252000.0,No,Ballyfermot,Dublin 10,q4,100%
+15/04/2019,"87 Ballyfermot Ave Ballyfermot, Dublin 10, Dublin",Dublin,236000.0,No,Ballyfermot,Dublin 10,q4,90%
+16/04/2019,"421 Ballyfermot Rd, Dublin 10, Dublin",Dublin,250000.0,No,Ballyfermot,Dublin 10,q4,100%
+16/04/2019,"66 Clifden Road, Ballyfermot, Dublin 10",Dublin,230000.0,No,Ballyfermot,Dublin 10,q4,90%
+17/04/2019,"7 Carna Rd, Ballyfermot, Dublin 10",Dublin,212500.0,No,Ballyfermot,Dublin 10,q4,80%
+29/04/2019,"103 Cedar Brook Walk, Ballyfermot, Dublin 10",Dublin,185000.0,No,Ballyfermot,Dublin 10,q3,70%
+02/05/2019,"358 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,224500.0,No,Ballyfermot,Dublin 10,q4,90%
+03/05/2019,"10 Cedarbrook Ave, Ballyfermot, Dublin 10",Dublin,189000.0,No,Ballyfermot,Dublin 10,q3,70%
+07/05/2019,"78 Ballyfermot Parade Ballyfermot, Dublin 10, Dublin",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+08/05/2019,"127 Rossmore Rd Ballyfermot, Dublin 10, Dublin",Dublin,265000.0,No,Ballyfermot,Dublin 10,q4,100%
+08/05/2019,"92 Kylemore Dr, Ballyfermot, Dublin 10",Dublin,250000.0,No,Ballyfermot,Dublin 10,q4,100%
+10/05/2019,"320 Landen Rd Ballyfermot Dublin 10, Dublin 10, Dublin",Dublin,250000.0,No,Ballyfermot,Dublin 10,q4,100%
+15/05/2019,"29 Gurteen Park Ballyfermot, Dublin 10, Dublin",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+16/05/2019,"193 Landen Rd, Ballyfermot, Dublin 10",Dublin,242000.0,No,Ballyfermot,Dublin 10,q4,90%
+17/05/2019,"12 Ramillies Rd, Ballyfermot, Dublin 10",Dublin,43171.0,No,Ballyfermot,Dublin 10,q1,10%
+22/05/2019,"53 Rossmore Rd, Ballyfermot, Dublin 10",Dublin,252000.0,No,Ballyfermot,Dublin 10,q4,100%
+28/05/2019,"72 Kylemore Dr, Ballyfermot, Dublin 10",Dublin,320000.0,No,Ballyfermot,Dublin 10,q4,100%
+12/06/2019,"19 St Laurence Court Ballyfermot, Dublin 10, Dublin",Dublin,166500.0,No,Ballyfermot,Dublin 10,q3,60%
+13/06/2019,"175 Ballyfermot Rd, Ballyfermot, Dublin 10",Dublin,245000.0,No,Ballyfermot,Dublin 10,q4,100%
+26/06/2019,"6 Park Street, The Ranch, Ballyfermot",Dublin,178000.0,No,Ballyfermot,Dublin 10,q3,70%
+27/06/2019,"6 Cloverhill Road, Ballyfermot, Dublin 10",Dublin,200000.0,No,Ballyfermot,Dublin 10,q3,80%
+27/06/2019,"65 Colepark Drive, Ballyfermot, Dublin 10",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+11/07/2019,"42 Cleggan Ave, Ballyfermot, Dublin 10",Dublin,270000.0,No,Ballyfermot,Dublin 10,q4,100%
+11/07/2019,"9 Colepark Avenue, Ballyfermot, Dublin 10",Dublin,259950.0,No,Ballyfermot,Dublin 10,q4,100%
+12/07/2019,"2 First Avenue, The Ranch, Ballyfermot",Dublin,211500.0,No,Ballyfermot,Dublin 10,q4,80%
+18/07/2019,"1A Spiddel Park, Ballyfermot, Dublin 10",Dublin,280000.0,No,Ballyfermot,Dublin 10,q4,100%
+23/07/2019,"43 Cedar Brook Place, Cherry Orchard, Ballyfermot Dublin 10",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+24/07/2019,"147 Landen Rd, Ballyfermot, Dublin 10",Dublin,240000.0,No,Ballyfermot,Dublin 10,q4,90%
+25/07/2019,"176 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,265000.0,No,Ballyfermot,Dublin 10,q4,100%
+25/07/2019,"28 Cremona Rd, Ballyfermot, Dublin 10",Dublin,195000.0,No,Ballyfermot,Dublin 10,q3,70%
+01/08/2019,"181 Ballyfermot Rd, Dublin 10, Dublin",Dublin,250000.0,No,Ballyfermot,Dublin 10,q4,100%
+01/08/2019,"20 Lochconn Ave, Ballyfermot, Dublin 10",Dublin,15000.0,No,Ballyfermot,Dublin 10,q1,10%
+02/08/2019,"18 Gurteen Park, Ballyfermot, Dublin 10",Dublin,242500.0,No,Ballyfermot,Dublin 10,q4,90%
+02/08/2019,"240 Blackditch Rd, Ballyfermot, Dublin 10",Dublin,195000.0,No,Ballyfermot,Dublin 10,q3,70%
+05/08/2019,"53 Ballyfermot Dr, Ballyfermot, Dublin 10",Dublin,110000.0,No,Ballyfermot,Dublin 10,q1,30%
+08/08/2019,"14 Kylemore Dr, Ballyfermot, Dublin 10",Dublin,271000.0,No,Ballyfermot,Dublin 10,q4,100%
+09/08/2019,"96 Thomond Rd, Ballyfermot, Dublin City",Dublin,280000.0,No,Ballyfermot,Dublin 10,q4,100%
+12/08/2019,"392 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,247000.0,No,Ballyfermot,Dublin 10,q4,100%
+12/08/2019,"86 Kylemore Dr, Ballyfermot, Dublin 10",Dublin,300000.0,No,Ballyfermot,Dublin 10,q4,100%
+19/08/2019,"178 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,165000.0,No,Ballyfermot,Dublin 10,q3,60%
+21/08/2019,"52 Ballyneety Road, Ballyfermot, Dublin 10",Dublin,260000.0,No,Ballyfermot,Dublin 10,q4,100%
+26/08/2019,"27 Thomond Road, Ballyfermot, Dublin 10",Dublin,235000.0,No,Ballyfermot,Dublin 10,q4,90%
+26/08/2019,"59 Ballyfermot Ave, Ballyfermot, Dublin 10",Dublin,243000.0,No,Ballyfermot,Dublin 10,q4,90%
+28/08/2019,"437 Ballyfermot Road, Dublin 10",Dublin,260000.0,No,Ballyfermot,Dublin 10,q4,100%
+06/09/2019,"304 Landen Rd, Ballyfermot, Dublin 10",Dublin,235000.0,No,Ballyfermot,Dublin 10,q4,90%
+06/09/2019,"39 Ramilies Rd, Ballyfermot, Dublin 10",Dublin,225000.0,No,Ballyfermot,Dublin 10,q4,90%
+10/09/2019,"29 Gurteen Ave, Ballyfermot, Dublin 10",Dublin,240000.0,No,Ballyfermot,Dublin 10,q4,90%
+12/09/2019,"10 Oranmore Rd, Ballyfermot, Dublin 10",Dublin,255000.0,No,Ballyfermot,Dublin 10,q4,100%
+12/09/2019,"29 Ramillies Road, Ballyfermot, Dublin 10",Dublin,275000.0,No,Ballyfermot,Dublin 10,q4,100%
+12/09/2019,"32 Decies Rd, Ballyfermot, Dublin 10",Dublin,220000.0,No,Ballyfermot,Dublin 10,q4,80%
+13/09/2019,"225 Sarsfield Rd, Ballyfermot, Dublin 10",Dublin,250000.0,No,Ballyfermot,Dublin 10,q4,100%
+30/09/2019,"176 Le Fanu Rd, Ballyfermot, Dublin 10",Dublin,215000.0,No,Ballyfermot,Dublin 10,q4,80%
+16/10/2019,"72 Ballyfermot Parade, Ballyfermot, Dublin 10",Dublin,230000.0,No,Ballyfermot,Dublin 10,q4,90%

@@ -1,0 +1,397 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/02/2010,"47 Sillogue Gardens, Ballymun",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%
+10/03/2010,"66 Sandyhill Gardens, Ballymun  Dublin 11",Dublin,155000.0,No,Ballymun,Dublin 9,q3,60%
+15/04/2010,"Apt 3 The Kilmore, Santry Cross, Ballymun",Dublin,202643.17,Yes,Ballymun,Dublin 9,q4,90%
+23/04/2010,"104, Shangan Green, Ballymun",Dublin,125000.0,No,Ballymun,Dublin 9,q2,40%
+10/08/2010,"25 Shangan Gardens, Ballymun, Dublin 9",Dublin,150000.0,No,Ballymun,Dublin 9,q3,60%
+29/11/2010,"30 Ard Na Meala, Ballymun, Dublin 11",Dublin,145000.0,No,Ballymun,Dublin 9,q2,50%
+20/12/2010,"Apt 80 The Gateway, Ballymun, Co Dublin",Dublin,82000.0,No,Ballymun,Dublin 9,q1,10%
+12/07/2011,"204 Poppintree Road, Ballymun, Dublin 11",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%
+13/10/2011,"89 Sillogue Gardens, Ballymun, Dublin 11",Dublin,110000.0,No,Ballymun,Dublin 9,q1,30%
+21/12/2011,"24 Grove Park Crescent, Ballymun, Dublin 11",Dublin,198750.0,No,Ballymun,Dublin 9,q4,90%
+05/01/2012,"84, Sandyhill Gardens, Ballymun",Dublin,85000.0,No,Ballymun,Dublin 9,q1,10%
+17/09/2012,"80 Sandyhill Gardens, Ballymun",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+10/10/2012,"86 Sillogue Gardens, Ballymun, Dublin 11",Dublin,85000.0,No,Ballymun,Dublin 9,q1,10%
+26/11/2012,"11 Cedarwood Avenue, Ballymun, Dublin 11",Dublin,260000.0,No,Ballymun,Dublin 9,q4,100%
+29/11/2012,"41  The Gateway, Ballymun",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+05/12/2012,"Apartment 147 The Plaza, Ballymun",Dublin,61000.0,No,Ballymun,Dublin 9,q1,10%
+14/12/2012,"135 Ballymun Road, Dublin 9",Dublin,315000.0,No,Ballymun,Dublin 9,q4,100%
+02/01/2013,"91 Sillogue Gardens, Ballymun, Dublin",Dublin,96000.0,No,Ballymun,Dublin 9,q1,20%
+21/01/2013,"Apt 123  The Plaza, Ballymun",Dublin,63000.0,No,Ballymun,Dublin 9,q1,10%
+15/02/2013,"90 Sillogue Gardens, Ballymun",Dublin,60000.0,No,Ballymun,Dublin 9,q1,10%
+27/03/2013,"No 38 The Plaza, Shangan Road, Ballymun",Dublin,195000.0,No,Ballymun,Dublin 9,q4,90%
+28/03/2013,"Apartment 103 College View, New Town Centre, Ballymun",Dublin,70000.0,No,Ballymun,Dublin 9,q1,10%
+28/03/2013,"Apt 3.10 Ballymun Civic Centre, Shangan Road, Ballymun Town Centre",Dublin,165000.0,No,Ballymun,Dublin 9,q3,70%
+28/03/2013,"Apt 4.1 Ballymun Civic Centre, Shangan Road, Ballymun Town Centre",Dublin,165000.0,No,Ballymun,Dublin 9,q3,70%
+28/03/2013,"Apt. 2.12 Ballymun Centre, Shangan Road, Ballymun Town Centre",Dublin,165000.0,No,Ballymun,Dublin 9,q3,70%
+28/03/2013,"Apt. 4.10 Ballymun Centre, Shangan Road, Ballymun Town Centre",Dublin,165000.0,No,Ballymun,Dublin 9,q3,70%
+15/04/2013,"35 Wadelai Green, Ballymun, Dublin",Dublin,175000.0,No,Ballymun,Dublin 9,q3,80%
+17/04/2013,"38 The Gateways, Ballymun",Dublin,50000.0,No,Ballymun,Dublin 9,q1,10%
+19/04/2013,"60 Albert College Avenue, Ballymun Road",Dublin,200000.0,No,Ballymun,Dublin 9,q4,90%
+01/07/2013,"15A Gateway Avenue, Formerly 109 The Gateway, Ballymun",Dublin,70000.0,No,Ballymun,Dublin 9,q1,10%
+06/10/2013,"7 Ard Na Meala, Ballymun",Dublin,122000.0,No,Ballymun,Dublin 9,q2,40%
+06/11/2013,"Apartment 39 Shangan Hall, Ballymun Civic Centre, Dublin 11",Dublin,62000.0,No,Ballymun,Dublin 9,q1,10%
+09/12/2013,"9A Gateway Avenue, Ballymun, Dublin 11",Dublin,70000.0,No,Ballymun,Dublin 9,q1,10%
+14/01/2014,"80 The Plaza, Ballymun, Dublin 9",Dublin,63000.0,No,Ballymun,Dublin 9,q1,10%
+21/01/2014,"3 The Gateway, Ballymun, Dublin 9",Dublin,90000.0,No,Ballymun,Dublin 9,q1,20%
+21/01/2014,"39 The Gateway, Ballymun, Dublin 9",Dublin,90000.0,No,Ballymun,Dublin 9,q1,20%
+21/01/2014,"9 The Gateway, Ballymun, Dublin 9",Dublin,90000.0,No,Ballymun,Dublin 9,q1,20%
+01/07/2014,"34 Sillogegardens, Ballymun, Dublin",Dublin,115000.0,No,Ballymun,Dublin 9,q2,30%
+15/07/2014,"20A The Gateway, Ballymun",Dublin,101300.0,No,Ballymun,Dublin 9,q1,30%
+15/07/2014,"22A The Gateway, Ballymun",Dublin,151900.0,No,Ballymun,Dublin 9,q3,60%
+15/07/2014,"65 College View, New Town Centre, Ballymun",Dublin,75900.0,No,Ballymun,Dublin 9,q1,10%
+17/07/2014,"37 The Hamptons, Santry Cross, Ballymun Dublin 11",Dublin,70000.0,No,Ballymun,Dublin 9,q1,10%
+22/07/2014,"19 Gateway View, Ballymun, Dublin 11",Dublin,85000.0,No,Ballymun,Dublin 9,q1,10%
+11/09/2014,"774 Collins Ave, Ballymun, Dublin 11",Dublin,320000.0,No,Ballymun,Dublin 9,q4,100%
+12/09/2014,"102 College View, Ballymun, Dublin 9",Dublin,90000.0,No,Ballymun,Dublin 9,q1,20%
+07/10/2014,"14 Gateway Mews, Ballymun, Dublin 11",Dublin,110000.0,No,Ballymun,Dublin 9,q1,30%
+07/10/2014,"9 Pairc Na Cuileann, Ballymun, Dublin 11",Dublin,123000.0,No,Ballymun,Dublin 9,q2,40%
+16/10/2014,"138 The Plaza, Main Street, Ballymun",Dublin,95000.0,No,Ballymun,Dublin 9,q1,20%
+16/10/2014,"140 The Plaza, Main Street, Ballymun",Dublin,95000.0,No,Ballymun,Dublin 9,q1,20%
+20/10/2014,"14 The Claremont, Santrycross, Ballymun Dublin 11",Dublin,77000.0,No,Ballymun,Dublin 9,q1,10%
+05/11/2014,"16Gateway Crescent, Gateway, Ballymun Dublin 11",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+12/11/2014,"158 Ballymun Rd, Dublin 9",Dublin,305000.0,No,Ballymun,Dublin 9,q4,100%
+14/11/2014,"22 St Pappins Green, Ballymun, Dublin 11",Dublin,367000.0,No,Ballymun,Dublin 9,q4,100%
+17/11/2014,"18 Gateway Crescent, Ballymun, Dublin 11",Dublin,110000.0,No,Ballymun,Dublin 9,q1,30%
+17/11/2014,"40 Gateway Crescent, Ballymun, Dublin 11",Dublin,110000.0,No,Ballymun,Dublin 9,q2,30%
+18/11/2014,"50 Gateway Crescent, Ballymun, Dublin 11",Dublin,115000.0,No,Ballymun,Dublin 9,q2,30%
+19/11/2014,"88 The Plaza, Ballymun, Dublin 9",Dublin,77500.0,No,Ballymun,Dublin 9,q1,10%
+20/11/2014,"36 Parkview Close, Ballymun, Dublin 9",Dublin,85000.0,No,Ballymun,Dublin 9,q1,10%
+28/11/2014,"42 Albert College Park, Ballymun Rd, College Park Dublin 9",Dublin,338000.0,No,Ballymun,Dublin 9,q4,100%
+09/12/2014,"83 Sandyhill Gardens, Ballymun Dublin 11, Dublin",Dublin,106000.0,No,Ballymun,Dublin 9,q1,30%
+16/12/2014,"81 College View, Main St, Ballymun Dublin 17",Dublin,106000.0,No,Ballymun,Dublin 9,q1,30%
+19/12/2014,"26 Willow Park Rd, Ballymun, Dublin 11",Dublin,425000.0,No,Ballymun,Dublin 9,q4,100%
+19/12/2014,"29 Shangan Gardens, Ballymun, Dublin 9",Dublin,126000.0,No,Ballymun,Dublin 9,q2,40%
+19/12/2014,"39 Gateway, Block C, Ballymun",Dublin,165000.0,No,Ballymun,Dublin 9,q3,70%
+23/12/2014,"28 Ard Na Meala, Ballymun, Dublin 11",Dublin,180000.0,No,Ballymun,Dublin 9,q4,80%
+23/12/2014,"4 The Turnpike, Santry Cross, Ballymun",Dublin,65000.0,No,Ballymun,Dublin 9,q1,10%
+16/01/2015,"3 The Turnpike, Santry Cross  Ballymun, Dublin",Dublin,63000.0,No,Ballymun,Dublin 9,q1,10%
+27/01/2015,"232 Ballymun Rd, Ballymun, Dublin 9",Dublin,282000.0,No,Ballymun,Dublin 9,q4,100%
+06/02/2015,"11 Grove Park Rd, Ballymun, Dublin 11",Dublin,275000.0,No,Ballymun,Dublin 9,q4,100%
+18/03/2015,"8 Gateway Place, Ballymun, Dublin 11",Dublin,90000.0,No,Ballymun,Dublin 9,q1,20%
+26/03/2015,"5 Gateway Gardens, Ballymun, Dublin 11",Dublin,135000.0,No,Ballymun,Dublin 9,q2,40%
+31/03/2015,"18 Knowth Court, Poppintree, Ballymun Dublin 11",Dublin,120000.0,No,Ballymun,Dublin 9,q2,30%
+02/04/2015,"13 Wadelai Rd, Ballymun, Dublin 11",Dublin,321000.0,No,Ballymun,Dublin 9,q4,100%
+10/04/2015,"73 Silloge Gardens, Ballymun, Dublin 11",Dublin,152000.0,No,Ballymun,Dublin 9,q3,60%
+14/04/2015,"110 The Plaza, Main Street, Ballymun",Dublin,113000.0,No,Ballymun,Dublin 9,q2,30%
+23/04/2015,"13 Ballbuicher Dr, Poppintree, Ballymun Dublin 11",Dublin,140000.0,No,Ballymun,Dublin 9,q2,50%
+27/04/2015,"42 Grove Park Avenue, Ballymun Avenue, Dublin 11",Dublin,300000.0,No,Ballymun,Dublin 9,q4,100%
+19/05/2015,"Apartment 29, College View, Ballymun",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+19/06/2015,"2A Albert College Crescent, Ballymun, Dublin 9",Dublin,272500.0,No,Ballymun,Dublin 9,q4,100%
+19/06/2015,"35 The Turnpike, Santry Cross, Ballymun Dublin 11",Dublin,110000.0,No,Ballymun,Dublin 9,q2,30%
+29/06/2015,"4 The Turnpike, Santry Cross, Ballymun",Dublin,70000.0,No,Ballymun,Dublin 9,q1,10%
+01/07/2015,"18 Shangan Hall, Shangan Rd, Ballymun Dublin 11",Dublin,105500.0,No,Ballymun,Dublin 9,q1,30%
+01/07/2015,"5 Shangan Hall, Shangan Rd, Ballymun Dublin 11",Dublin,105500.0,No,Ballymun,Dublin 9,q1,30%
+29/07/2015,"75A Belclare Ave, Poppintree, Ballymun Dublin 11",Dublin,90000.0,No,Ballymun,Dublin 9,q1,20%
+30/07/2015,"60 Coultry Gardens, Ballymun, Dublin 9",Dublin,135000.0,No,Ballymun,Dublin 9,q2,40%
+07/08/2015,"32 Gateway Crescent, Ballymun, Dublin 9",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+10/08/2015,"13 Whiteacre Crescent, Ballymun, Dublin 9",Dublin,139000.0,No,Ballymun,Dublin 9,q2,50%
+11/08/2015,"8 The Hampton And 41 The Hampton, St. Pappins, Ballymun",Dublin,107692.3,No,Ballymun,Dublin 9,q1,30%
+19/08/2015,"79 College View, Ballymun Town Centre, Dublin 11",Dublin,108000.0,No,Ballymun,Dublin 9,q1,30%
+28/08/2015,"8 Shangan Hall, Ballymun, Dublin 9",Dublin,135000.0,No,Ballymun,Dublin 9,q2,40%
+03/09/2015,"84 The Plaza, Main St, Ballymun Dublin 9",Dublin,118000.0,No,Ballymun,Dublin 9,q2,30%
+14/09/2015,"45 Coultry Gardens, Ballymun, Dublin 9",Dublin,125000.0,No,Ballymun,Dublin 9,q2,40%
+23/09/2015,"14 College View, Silloge Rd, Ballymun",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+30/09/2015,"2 The Charter, Ballymun, Dublin 11",Dublin,91000.0,No,Ballymun,Dublin 9,q1,20%
+02/10/2015,"98 College View, New Town Centre, Ballymun",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+30/10/2015,"9 College View, New Town Centre, Ballymun",Dublin,103000.0,No,Ballymun,Dublin 9,q1,30%
+09/11/2015,"46 The Hampton, St Pappins St, Ballymun Dublin 9",Dublin,53846.15,No,Ballymun,Dublin 9,q1,10%
+12/11/2015,"14 The Goulding, Santry Avenue, Ballymun",Dublin,138000.0,No,Ballymun,Dublin 9,q2,50%
+16/11/2015,"30 Gateway Crescent, Ballymun, Dublin 11",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+19/11/2015,"10 The Turn Pike, 29  39  43 & 47 The Hampton, Ballymun",Dublin,269230.76,No,Ballymun,Dublin 9,q4,100%
+20/11/2015,"48 Gateway Crescent, Ballymun, Dublin 11",Dublin,140000.0,No,Ballymun,Dublin 9,q2,50%
+24/11/2015,"41 The Hampton, St Pappins St, Ballymun Dublin 9",Dublin,80000.0,No,Ballymun,Dublin 9,q1,10%
+27/11/2015,"19 The Claremont, Santry Cross, Ballymun",Dublin,122000.0,No,Ballymun,Dublin 9,q2,40%
+27/11/2015,"22 Dolmen Court, Ballymun, Dublin 11",Dublin,105000.0,No,Ballymun,Dublin 9,q1,30%
+03/12/2015,"2 Charter School Hill, Cloghran, Ballymun",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+08/12/2015,"19 Pairc Na Cuileann, Ballymun, Dublin 11",Dublin,12500.0,No,Ballymun,Dublin 9,q1,10%
+09/12/2015,"22 Gateway Crescent, Ballymun, Dublin 11",Dublin,103000.0,No,Ballymun,Dublin 9,q1,30%
+10/12/2015,"52 Pinewood Ave, Ballymun, Dublin 11",Dublin,405000.0,No,Ballymun,Dublin 9,q4,100%
+14/12/2015,"58 College View, Silloge Rd, Ballymun Dublin 11",Dublin,105000.0,No,Ballymun,Dublin 9,q1,30%
+21/12/2015,"1 Glasnevin Dr, Ballymun, Dublin 11",Dublin,312000.0,No,Ballymun,Dublin 9,q4,100%
+21/12/2015,"164 Ballymun Rd, Ballymun, Dublin",Dublin,290000.0,No,Ballymun,Dublin 9,q4,100%
+15/01/2016,"24 Balcurris Gardens, Ballymun, Dublin 11",Dublin,165000.0,No,Ballymun,Dublin 9,q3,70%
+29/01/2016,"34 Gateway View, Ballymun, Dublin 11",Dublin,97000.0,No,Ballymun,Dublin 9,q1,20%
+03/02/2016,"33 Gateway View, Ballymun Rd, Ballymun Dublin 11",Dublin,97000.0,No,Ballymun,Dublin 9,q1,20%
+15/02/2016,"53 Coultry Gardens, Ballymun, Dublin 9",Dublin,120000.0,No,Ballymun,Dublin 9,q2,30%
+23/03/2016,"15 Gateway View, Ballymun, Dublin 11",Dublin,95000.0,No,Ballymun,Dublin 9,q1,20%
+23/03/2016,"Apt. 16, Gateway View, Ballymun",Dublin,105000.0,No,Ballymun,Dublin 9,q1,30%
+10/05/2016,"12 College View, Ballymun, Dublin",Dublin,125000.0,No,Ballymun,Dublin 9,q2,40%
+13/05/2016,"32 Shangan Hall, Ballymun, Dublin 11",Dublin,120000.0,No,Ballymun,Dublin 9,q2,30%
+16/05/2016,"15 Willow Park Grove, Ballymun Dublin 11, Dublin",Dublin,471000.0,No,Ballymun,Dublin 9,q4,100%
+26/05/2016,"41 The Hampton, St Pappins St, Ballymun Dublin 9",Dublin,75000.0,No,Ballymun,Dublin 9,q1,10%
+31/05/2016,"40 Gateway View, Ballymun, Dublin 11",Dublin,98000.0,No,Ballymun,Dublin 9,q1,20%
+03/06/2016,"70 Shangan Gardens, Ballymun, Dublin 9",Dublin,143000.0,No,Ballymun,Dublin 9,q2,50%
+15/06/2016,"56 Collegeview, Main St, Ballymun Dublin 11",Dublin,105000.0,No,Ballymun,Dublin 9,q1,30%
+17/06/2016,"258 Glasnevin Ave, Ballymun, Dublin 11",Dublin,330000.0,No,Ballymun,Dublin 9,q4,100%
+21/06/2016,"13 The Gateway, Main St, Ballymun",Dublin,142500.0,No,Ballymun,Dublin 9,q2,50%
+25/07/2016,"66 College View, Ballymun Rd, Ballymun",Dublin,174000.0,No,Ballymun,Dublin 9,q3,80%
+29/07/2016,"21 Gateway View, Ballymun, Dublin 11",Dublin,117000.0,No,Ballymun,Dublin 9,q2,30%
+26/08/2016,"120 College View, Ballymun, Dublin 11",Dublin,61675.17,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"121 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"122 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"123 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"124 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"125 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"126 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"127 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"128 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"129 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"130 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"131 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"132 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,10%
+26/08/2016,"133 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"134 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"135 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"136 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"137 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"138 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"139 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"140 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"141 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"142 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"143 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+26/08/2016,"144 College View, Ballymun, Dublin 11",Dublin,89207.0,No,Ballymun,Dublin 9,q1,20%
+08/09/2016,"27 Gateway View, Ballymun, Dublin 11",Dublin,123000.0,No,Ballymun,Dublin 9,q2,40%
+20/09/2016,"28 The Turnpine, Santry Cross, Ballymun Dublin 9",Dublin,131500.0,No,Ballymun,Dublin 9,q2,40%
+20/09/2016,"8 Gateway Place, Ballymun, Dublin 11",Dublin,155000.0,No,Ballymun,Dublin 9,q3,60%
+20/09/2016,"88 Knowth Court, Poppintree, Ballymun Dublin 11",Dublin,140000.0,No,Ballymun,Dublin 9,q2,50%
+30/09/2016,"18 Shangan Hall, Shangan Rd, Ballymun Dublin 11",Dublin,160000.0,No,Ballymun,Dublin 9,q3,70%
+30/09/2016,"23 Gateway View, Ballymun, Dublin 11",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+07/10/2016,"10 Gateway Crescent, Ballymun, Dublin 11",Dublin,147000.0,No,Ballymun,Dublin 9,q3,60%
+11/10/2016,"103 Block G, The Gateway, Ballymun Avenue",Dublin,132000.0,No,Ballymun,Dublin 9,q2,40%
+13/10/2016,"104 Block G The Gateway, Ballymun Avenue, Dublin 9",Dublin,131000.0,No,Ballymun,Dublin 9,q2,40%
+27/10/2016,"42 College View, Ballymun, Dublin 11",Dublin,86000.0,No,Ballymun,Dublin 9,q1,10%
+09/11/2016,"42 Gateway Crescent, Ballymun, Dublin 11",Dublin,141000.0,No,Ballymun,Dublin 9,q2,50%
+16/11/2016,"Apt 17, Gateway View, Ballymun Rd Dublin 9",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+22/11/2016,"15 The Hampton, Santry Cross, Ballymun",Dublin,155000.0,No,Ballymun,Dublin 9,q3,60%
+30/11/2016,"10 Shangan Hall, Shangan Rd, Ballymun Dublin 11",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%
+01/12/2016,"18 The Turnpike, Santry Cross, Ballymun Dublin 11",Dublin,120000.0,No,Ballymun,Dublin 9,q2,30%
+15/12/2016,"22 Shangan Hall, Shangan Road, Ballymun",Dublin,85000.0,No,Ballymun,Dublin 9,q1,10%
+15/12/2016,"33 Shangan Hall, Shangan Rd, Ballymun",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+15/12/2016,"41 Shangan Hall, Shangan Road, Ballymun",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+15/12/2016,"50 Shangan Hall, Shangan Rd, Ballymun Dublin 9",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+16/12/2016,"34 Gateway Crescent, Ballymun, Dublin 11",Dublin,147000.0,No,Ballymun,Dublin 9,q3,60%
+22/12/2016,"Apt 65, College View, Ballymun",Dublin,148000.0,No,Ballymun,Dublin 9,q3,60%
+16/01/2017,"101 Silloge Gardens, Ballymun, Dublin 11",Dublin,168000.0,No,Ballymun,Dublin 9,q3,70%
+18/01/2017,"77 College View, Ballymun, Dublin 11",Dublin,141500.0,No,Ballymun,Dublin 9,q2,50%
+25/01/2017,"84 Gateway, Ballymun, Dublin 9",Dublin,132000.0,No,Ballymun,Dublin 9,q2,40%
+26/01/2017,"27 Knowth Court, Poppintree, Ballymun",Dublin,145000.0,No,Ballymun,Dublin 9,q2,50%
+27/01/2017,"126 Willow Park Avenue, Ballymun, Dublin 11",Dublin,475000.0,No,Ballymun,Dublin 9,q4,100%
+13/02/2017,"Apt 21 The Gateway, Main Street, Ballymun",Dublin,140000.0,No,Ballymun,Dublin 9,q2,50%
+23/02/2017,"230 Ballymun Rd, Dublin 9, Dublin",Dublin,250000.0,No,Ballymun,Dublin 9,q4,100%
+31/03/2017,"58 Cairn Court, Poppintree, Ballymun Dublin 11",Dublin,90000.0,No,Ballymun,Dublin 9,q1,20%
+04/04/2017,"Apt 12 Shanwan Hall, Shanwan Rd, Ballymun Dublin 9",Dublin,145000.0,No,Ballymun,Dublin 9,q2,50%
+13/04/2017,"Apt 41 The Charter, St Pappins St, Ballymun",Dublin,127000.0,No,Ballymun,Dublin 9,q2,40%
+26/04/2017,"Apt 40 The Charter, St Pappins St, Ballymun",Dublin,155000.0,No,Ballymun,Dublin 9,q3,60%
+04/05/2017,"23 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,156000.0,No,Ballymun,Dublin 9,q3,60%
+04/05/2017,"5 College View, Ballymun, Dublin 11",Dublin,155500.0,No,Ballymun,Dublin 9,q3,60%
+11/05/2017,"9 Cedarwood Ave, Ballymun, Dublin 11",Dublin,411000.0,No,Ballymun,Dublin 9,q4,100%
+12/05/2017,"19 Coultry Ave, Ballymun, Dublin 9",Dublin,231000.0,No,Ballymun,Dublin 9,q4,90%
+16/05/2017,"18 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,160000.0,No,Ballymun,Dublin 9,q3,70%
+23/05/2017,"22 Gateway View, Ballymun Road, Dublin 9",Dublin,124500.0,No,Ballymun,Dublin 9,q2,40%
+23/05/2017,"28 Gateway View, Ballymun Road, Dublin 9",Dublin,124500.0,No,Ballymun,Dublin 9,q2,40%
+25/05/2017,"89 College View, Ballymun, Dublin 11",Dublin,120000.0,No,Ballymun,Dublin 9,q2,30%
+29/05/2017,"32 The Turnpike, Santry Cross, Ballymun",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+31/05/2017,"Apt 1 Block A, The Gateway, Ballymun",Dublin,780000.0,No,Ballymun,Dublin 9,q4,100%
+06/06/2017,"94 The Gateway, Main St, Ballymun Dublin 11",Dublin,165000.0,No,Ballymun,Dublin 9,q3,70%
+14/06/2017,"24 Turnpike, Santry Cross, Ballymun",Dublin,93568.31,No,Ballymun,Dublin 9,q1,20%
+28/06/2017,"134 The Plaza, Ballymun, Dublin 9",Dublin,212000.0,No,Ballymun,Dublin 9,q4,90%
+06/07/2017,"18 Baile Na Laochra, Poppintree, Ballymun",Dublin,145374.0,Yes,Ballymun,Dublin 9,q2,50%
+06/07/2017,"20 Baile Na Laochra, Poppintree, Ballymun",Dublin,140969.0,Yes,Ballymun,Dublin 9,q2,50%
+06/07/2017,"22 Baile Na Laochra, Poppintree, Ballymun",Dublin,140969.0,Yes,Ballymun,Dublin 9,q2,50%
+06/07/2017,"24 Baile Na Laochra, Poppintree, Ballymun",Dublin,140969.0,Yes,Ballymun,Dublin 9,q2,50%
+06/07/2017,"90 Collegeview, Ballymun, Dublin 11",Dublin,176000.0,No,Ballymun,Dublin 9,q4,80%
+12/07/2017,"26 Baile Na Laochra, Poppintree, Ballymun",Dublin,145374.0,Yes,Ballymun,Dublin 9,q2,50%
+13/07/2017,"6 St Canices Park, Ballymun, Dublin 11",Dublin,212500.0,No,Ballymun,Dublin 9,q4,90%
+20/07/2017,"29 The Hampton, St Pappins St, Ballymun Dublin 9",Dublin,120000.0,No,Ballymun,Dublin 9,q2,30%
+03/08/2017,"29 Baile Na Laochra, Poppintree, Ballymun",Dublin,145374.0,Yes,Ballymun,Dublin 9,q2,50%
+03/08/2017,"30 Baile Na Laochra, Poppintree, Ballymun",Dublin,123348.0,Yes,Ballymun,Dublin 9,q2,40%
+03/08/2017,"31 Baile Na Laochra, Poppintree, Ballymun",Dublin,132158.0,Yes,Ballymun,Dublin 9,q2,40%
+04/08/2017,"28 Baile Na Laochra, Poppintree, Ballymun",Dublin,149779.0,Yes,Ballymun,Dublin 9,q3,60%
+08/08/2017,"44 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,155000.0,No,Ballymun,Dublin 9,q3,60%
+18/08/2017,"84 College View, Silloge Rd, Ballymun Dublin 11",Dublin,169500.0,No,Ballymun,Dublin 9,q3,80%
+18/08/2017,"9 College View, Silloge Rd, Ballymun",Dublin,192700.0,No,Ballymun,Dublin 9,q4,90%
+22/08/2017,"44A The Gateway, Ballymun, Dublin 11",Dublin,104000.0,No,Ballymun,Dublin 9,q1,30%
+29/08/2017,"84 Gateway Crescent, Ballymun, Dublin",Dublin,108000.0,No,Ballymun,Dublin 9,q1,30%
+11/09/2017,"Apt 27 Gateway Student Village, Ballymun, Dublin 11",Dublin,118000.0,No,Ballymun,Dublin 9,q2,30%
+11/09/2017,"Apt 29 Gateway Student Village, Ballymun, Dublin 11",Dublin,118000.0,No,Ballymun,Dublin 9,q2,30%
+12/09/2017,"8 Linnbhla, Santry Cross, Ballymun Dublin 11",Dublin,150000.0,No,Ballymun,Dublin 9,q3,60%
+18/09/2017,"47 The Hampton, St Pappins St, Ballymun Dublin 9",Dublin,144000.0,No,Ballymun,Dublin 9,q2,50%
+20/09/2017,"12 Glasnevin Ave, Ballymun, Dublin 11",Dublin,490000.0,No,Ballymun,Dublin 9,q4,100%
+20/09/2017,"27 The Hamptons, St Pappins St, Ballymun Dublin 11",Dublin,115000.0,No,Ballymun,Dublin 9,q2,30%
+05/10/2017,"22 College View, Ballymun, Dublin 11",Dublin,185000.0,No,Ballymun,Dublin 9,q4,80%
+05/10/2017,"28 Crannogue Close, Ballymun Dublin 11, Dublin",Dublin,191000.0,No,Ballymun,Dublin 9,q4,90%
+13/10/2017,"10 Gateway Student Village, Ballymun, Dublin 11",Dublin,127000.0,No,Ballymun,Dublin 9,q2,40%
+20/10/2017,"53 The Hampton, Santry Cross, Ballymun Dublin 9",Dublin,151000.0,No,Ballymun,Dublin 9,q3,60%
+24/10/2017,"46 The Hampton, St. Pappins Street, Ballymun",Dublin,140000.0,No,Ballymun,Dublin 9,q2,50%
+27/10/2017,"Apt 107, Gateway Student Village, Ballymun Rd Dublin 9",Dublin,136000.0,No,Ballymun,Dublin 9,q2,50%
+27/10/2017,"Apt 108, Gateway Student Village, Ballymun Rd Dublin 9",Dublin,136000.0,No,Ballymun,Dublin 9,q2,50%
+27/10/2017,"Apt 99, Gateway Student Village, Ballymun Rd Dublin 9",Dublin,136000.0,No,Ballymun,Dublin 9,q2,50%
+31/10/2017,"10 The Turnpike, St Pappins St, Ballymun Dublin 9",Dublin,132500.0,No,Ballymun,Dublin 9,q2,40%
+10/11/2017,"17 The Hampton, Santry Cross, Ballymun",Dublin,155000.0,No,Ballymun,Dublin 9,q3,60%
+20/11/2017,"102 College View, Ballymun, Dublin 9",Dublin,125000.0,No,Ballymun,Dublin 9,q2,40%
+20/11/2017,"80 The Plaza, Ballymun, Dublin 9",Dublin,129000.0,No,Ballymun,Dublin 9,q2,40%
+24/11/2017,"33 Baile Na Laochra, Poppintree, Ballymun",Dublin,145374.0,Yes,Ballymun,Dublin 9,q2,50%
+24/11/2017,"34 Baile Na Laochra, Poppintree, Ballymun",Dublin,145374.0,Yes,Ballymun,Dublin 9,q2,50%
+24/11/2017,"35 Baile Na Laochra, Poppintree, Ballymun",Dublin,145374.0,Yes,Ballymun,Dublin 9,q2,50%
+24/11/2017,"36 Baile Na Laochra, Poppintree, Ballymun",Dublin,145374.0,Yes,Ballymun,Dublin 9,q2,50%
+24/11/2017,"37 Baile Na Laochra, Poppintree, Ballymun",Dublin,145374.0,Yes,Ballymun,Dublin 9,q3,60%
+24/11/2017,"91 College View, Ballymun, Dublin 11",Dublin,135000.0,No,Ballymun,Dublin 9,q2,40%
+24/11/2017,"92 Belclare Park, Poppintree, Ballymun",Dublin,228000.0,No,Ballymun,Dublin 9,q4,90%
+28/11/2017,"23 The Charter, Santry Cross, Ballymun Dublin 11",Dublin,135000.0,No,Ballymun,Dublin 9,q2,40%
+28/11/2017,"30 The Hampton, St Pappins St, Ballymun Dublin 9",Dublin,110500.0,No,Ballymun,Dublin 9,q2,30%
+01/12/2017,"38 The Gateway, Ballymun, Dublin 11",Dublin,192000.0,No,Ballymun,Dublin 9,q4,90%
+07/12/2017,"2 Maolbuille Rd, Ballymun, Dublin 11",Dublin,406040.0,No,Ballymun,Dublin 9,q4,100%
+12/12/2017,"14 The Hampton, Santry Cross, Ballymun",Dublin,160000.0,No,Ballymun,Dublin 9,q3,70%
+13/12/2017,"32 Baile Na Laochra, Poppintree, Ballymun",Dublin,175330.0,Yes,Ballymun,Dublin 9,q4,80%
+14/12/2017,"38 College View, Ballymun, Dublin 9",Dublin,191000.0,No,Ballymun,Dublin 9,q4,90%
+18/12/2017,"131 The Plaza, Ballymun, Dublin 9",Dublin,120000.0,No,Ballymun,Dublin 9,q2,30%
+19/12/2017,"38 Baile Na Laochra, Poppintree, Ballymun",Dublin,175330.0,Yes,Ballymun,Dublin 9,q4,80%
+20/12/2017,"14 College View, Silloge Rd, Ballymun",Dublin,180000.0,No,Ballymun,Dublin 9,q4,80%
+21/12/2017,"22A Gateway Crescent, Gateway, Ballymun",Dublin,138000.0,No,Ballymun,Dublin 9,q2,50%
+26/01/2018,"107 The Plaza, Ballymun, Dublin 11",Dublin,142500.0,No,Ballymun,Dublin 9,q2,50%
+26/01/2018,"111 The Plaza, Ballymun, Dublin 11",Dublin,142500.0,No,Ballymun,Dublin 9,q2,50%
+26/01/2018,"39 The Hampton, St Pappins St, Ballymun Dublin 9",Dublin,145000.0,No,Ballymun,Dublin 9,q2,50%
+26/01/2018,"86 Gateway Crescent, Ballymun, Dublin",Dublin,123000.0,No,Ballymun,Dublin 9,q2,40%
+01/02/2018,"72 The Plaza Apts, Ballymun Town Centre, Dublin 9",Dublin,160000.0,No,Ballymun,Dublin 9,q3,70%
+02/02/2018,"1 Gateway Place, Ballymun, Dublin 11",Dublin,172000.0,No,Ballymun,Dublin 9,q3,80%
+21/02/2018,"39 Baile Na Laochra, Poppintree, Ballymun",Dublin,192951.0,Yes,Ballymun,Dublin 9,q4,90%
+09/03/2018,"10 Willow Park Grove, Ballymun, Dublin 11",Dublin,475000.0,No,Ballymun,Dublin 9,q4,100%
+13/03/2018,"63 The Plaza, Ballymun, Dublin 11",Dublin,166000.0,No,Ballymun,Dublin 9,q3,70%
+16/03/2018,"151 The Plaza, Ballymun, Dublin 9",Dublin,110000.0,No,Ballymun,Dublin 9,q2,30%
+20/03/2018,"11 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,160000.0,No,Ballymun,Dublin 9,q3,70%
+23/03/2018,"125 The Plaza, Ballymun, Dublin",Dublin,175000.0,No,Ballymun,Dublin 9,q3,80%
+27/03/2018,"23 Gateway View, Ballymun, Dublin 11",Dublin,100000.0,No,Ballymun,Dublin 9,q1,20%
+09/04/2018,"20A Gateway Crescent, Gateway, Ballymun",Dublin,155000.0,No,Ballymun,Dublin 9,q3,60%
+13/04/2018,"10 Carrig Rd Ballymun Dublin 9, Dublin 9, Dublin",Dublin,168000.0,No,Ballymun,Dublin 9,q3,70%
+30/04/2018,"3 College View, Silloge Rd, Ballymun Dublin 11",Dublin,187000.0,No,Ballymun,Dublin 9,q4,90%
+30/04/2018,"73 Gateway Student Village, Ballymun, Dublin 11",Dublin,155000.0,No,Ballymun,Dublin 9,q3,60%
+03/05/2018,"22 Linnbhla, Santry Cross, Ballymun",Dublin,176000.0,No,Ballymun,Dublin 9,q4,80%
+18/05/2018,"128 The Plaza, Ballymun, Dublin 11",Dublin,101000.0,No,Ballymun,Dublin 9,q1,20%
+18/05/2018,"15 Silloge Gardens, Ballymun, Dublin 11",Dublin,192000.0,No,Ballymun,Dublin 9,q4,90%
+18/05/2018,"26 Shangan Hall, Shangan Rd, Ballymun",Dublin,167000.0,No,Ballymun,Dublin 9,q3,70%
+23/05/2018,"100 The Gateway, Ballymun, Dublin 11",Dublin,137500.0,No,Ballymun,Dublin 9,q2,50%
+25/05/2018,"68 The Plaza, Ballymun, Dublin 11",Dublin,107000.0,No,Ballymun,Dublin 9,q1,30%
+01/06/2018,"11 The Charter, Santry Cross, Ballymun",Dublin,900000.0,No,Ballymun,Dublin 9,q4,100%
+13/06/2018,"16 The Hampton, Santry Cross, Ballymun",Dublin,165000.0,No,Ballymun,Dublin 9,q3,70%
+13/06/2018,"77 The Plaza, Ballymun, Dublin 11",Dublin,135000.0,No,Ballymun,Dublin 9,q2,50%
+15/06/2018,"28 Dolmen Court, Poppintree, Ballymun",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%
+21/06/2018,"3 The Charter, Santry Cross, Ballymun",Dublin,511112.0,No,Ballymun,Dublin 9,q4,100%
+21/06/2018,"33 The Charter, Santry Cross, Ballymun Dublin 11",Dublin,638888.0,No,Ballymun,Dublin 9,q4,100%
+01/07/2018,"37 The Gateway, Ballymun, Dublin",Dublin,150000.0,No,Ballymun,Dublin 9,q3,60%
+02/07/2018,"106 College View, Ballymun Rd, Ballymun Dublin 9",Dublin,185000.0,No,Ballymun,Dublin 9,q4,80%
+03/07/2018,"28 The Charter, Santry Cross, Ballymun Dublin 11",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+05/07/2018,"24 Shangan Hall, Shangan Rd, Ballymun",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+05/07/2018,"30 Shangan Hall, Shangan Rd, Ballymun",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+05/07/2018,"34 Shangan Hall, Shangan Rd, Ballymun",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+05/07/2018,"43 Shangan Hall, Shangan Rd, Ballymun",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+09/07/2018,"25 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,165000.0,No,Ballymun,Dublin 9,q3,70%
+12/07/2018,"7 Gateway Mews, Ballymun, Dublin 11",Dublin,158000.0,No,Ballymun,Dublin 9,q3,70%
+24/07/2018,"74 The Plaza, Ballymun, Dublin 11",Dublin,135000.0,No,Ballymun,Dublin 9,q2,50%
+26/07/2018,"114 Coultry Rd, Ballymun, Dublin",Dublin,190000.0,No,Ballymun,Dublin 9,q4,90%
+27/07/2018,"45 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+27/07/2018,"46 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+27/07/2018,"47 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+27/07/2018,"48 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+27/07/2018,"49 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+27/07/2018,"50 Baile Na Laochra, Poppintree, Ballymun",Dublin,161145.0,Yes,Ballymun,Dublin 9,q3,70%
+03/08/2018,"13 Cromlech Court, Poppintree, Ballymun",Dublin,192000.0,No,Ballymun,Dublin 9,q4,90%
+14/08/2018,"41 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+14/08/2018,"42 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+14/08/2018,"43 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+15/08/2018,"44 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+20/08/2018,"141 The Plaza, Ballymun, Dublin 11",Dublin,185000.0,No,Ballymun,Dublin 9,q4,80%
+24/08/2018,"40 Baile Na Laochra, Poppintree, Ballymun",Dublin,192299.0,Yes,Ballymun,Dublin 9,q4,90%
+30/08/2018,"Apt 119 College View, Ballymun, Dublin 9",Dublin,173000.0,No,Ballymun,Dublin 9,q3,80%
+03/09/2018,"30 Silloge Gardens, Ballymun, Dublin 11",Dublin,245000.0,No,Ballymun,Dublin 9,q4,90%
+04/09/2018,"22 The Charter, Santry Cross, Ballymun",Dublin,140000.0,No,Ballymun,Dublin 9,q2,50%
+06/09/2018,"46 Shanard Ave, Ballymun, Dublin 11",Dublin,335000.0,No,Ballymun,Dublin 9,q4,100%
+20/09/2018,"35 Ard Na Meala, Ballymun, Dublin 11",Dublin,250000.0,No,Ballymun,Dublin 9,q4,100%
+24/09/2018,"74 The Gateway, Ballymun, Dublin 11",Dublin,175000.0,No,Ballymun,Dublin 9,q3,80%
+26/09/2018,"112 Ballymun Rd, Glasmevin, Dublin 9",Dublin,585000.0,No,Ballymun,Dublin 9,q4,100%
+28/09/2018,"13 The Plaza, Ballymun, Dublin 11",Dublin,190000.0,No,Ballymun,Dublin 9,q4,90%
+04/10/2018,"149 The Plaza, Main St, Ballymun Dublin 9",Dublin,164000.0,No,Ballymun,Dublin 9,q3,70%
+05/10/2018,"51 Doon Court, Poppintree, Ballymun Dublin 11",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%
+24/10/2018,"12 The Gateway, Mews, Ballymun",Dublin,199000.0,No,Ballymun,Dublin 9,q4,90%
+24/10/2018,"19 The Gateway, Ballymun Ave, Dublin 11",Dublin,175000.0,No,Ballymun,Dublin 9,q4,80%
+25/10/2018,"33 Beneavin Drive, Ballymun, Dublin 11",Dublin,482500.0,Yes,Ballymun,Dublin 9,q4,100%
+26/10/2018,"29 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,183000.0,No,Ballymun,Dublin 9,q4,80%
+26/10/2018,"52 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+26/10/2018,"53 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+26/10/2018,"54 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+30/10/2018,"55 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+30/10/2018,"56 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,60%
+31/10/2018,"148 The Plaza, Ballymun, Dublin 11",Dublin,177000.0,No,Ballymun,Dublin 9,q4,80%
+31/10/2018,"55 The Hampton, St Pappins St, Ballymun",Dublin,150000.0,No,Ballymun,Dublin 9,q3,60%
+05/11/2018,"11 Hampton, Santry Cross, Ballymun Dublin 11",Dublin,171000.0,No,Ballymun,Dublin 9,q3,80%
+06/11/2018,"51 Baile Na Laochra, Poppintree, Ballymun",Dublin,196881.0,Yes,Ballymun,Dublin 9,q4,90%
+08/11/2018,"57Baile Na Laochra, Poppintree, Ballymun",Dublin,202167.0,Yes,Ballymun,Dublin 9,q4,90%
+16/11/2018,"42 Shangan Gardens, Ballymun, Dublin 9",Dublin,182000.0,No,Ballymun,Dublin 9,q4,80%
+23/11/2018,"132 The Plaza, Main St, Ballymun Dublin 9",Dublin,140000.0,No,Ballymun,Dublin 9,q2,50%
+29/11/2018,"70 Druid Court, Poppintree, Ballymun Dublin 11",Dublin,182248.0,No,Ballymun,Dublin 9,q4,80%
+12/12/2018,"30 Ard Na Meala, Ballymun, Dublin 11",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+13/12/2018,"162 The Plaza, Ballymun, Dublin 11",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%
+13/12/2018,"163 The Plaza, Ballymun, Dublin 11",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%
+14/12/2018,"55 The Plaza, Ballymun, Dublin 11",Dublin,145000.0,No,Ballymun,Dublin 9,q2,50%
+18/12/2018,"53 Sandy Hill Gardens, Ballymun, Dublin 11",Dublin,180000.0,No,Ballymun,Dublin 9,q4,80%
+19/12/2018,"58 Baile Na Laochra, Poppintree, Ballymun",Dublin,161145.0,Yes,Ballymun,Dublin 9,q3,70%
+19/12/2018,"59 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+19/12/2018,"60 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+19/12/2018,"62 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+19/12/2018,"63 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+19/12/2018,"67 The Plaza, Ballymun, Dublin",Dublin,150000.0,No,Ballymun,Dublin 9,q3,60%
+21/12/2018,"61 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+21/12/2018,"64 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+21/12/2018,"66 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+21/12/2018,"68 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+08/01/2019,"33 Hampton, Santry Cross, Ballymun Dublin 9",Dublin,130000.0,No,Ballymun,Dublin 9,q2,40%
+10/01/2019,"2 Shangan Crescent, Ballymun, Dublin 9",Dublin,210000.0,No,Ballymun,Dublin 9,q4,90%
+18/01/2019,"67 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+30/01/2019,"75A Belclare Ave, Poppintree, Ballymun Dublin 11",Dublin,217500.0,No,Ballymun,Dublin 9,q4,90%
+01/02/2019,"42 Doon Court, Poppin Tree, Ballymun Dublin 11",Dublin,110000.0,No,Ballymun,Dublin 9,q2,30%
+05/02/2019,"69 The Plaza, Ballymun, Dublin 9",Dublin,147000.0,No,Ballymun,Dublin 9,q3,60%
+07/02/2019,"45 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,189000.0,No,Ballymun,Dublin 9,q4,90%
+08/02/2019,"65 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+08/02/2019,"69 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+11/02/2019,"64 Grove Park Avenue, Ballymun, Dublin 11",Dublin,403000.0,No,Ballymun,Dublin 9,q4,100%
+14/02/2019,"70 Baile Na Laochra, Poppintree, Ballymun",Dublin,156563.0,Yes,Ballymun,Dublin 9,q3,70%
+22/02/2019,"71 Baile Na Laochra, Poppintree, Ballymun",Dublin,196881.0,Yes,Ballymun,Dublin 9,q4,90%
+25/02/2019,"Apt 6 Linnbhla, Santry Cross, Ballymun Dublin 11",Dublin,161304.0,No,Ballymun,Dublin 9,q3,70%
+27/02/2019,"89 Sandyhill Gardens, Ballymun, Dublin 11",Dublin,190000.0,No,Ballymun,Dublin 9,q4,90%
+07/03/2019,"39 Shangan Gardens, Ballymun, Dublin 9",Dublin,185000.0,No,Ballymun,Dublin 9,q4,80%
+13/03/2019,"115 College View, Silloge Rd, Ballymun Dublin 11",Dublin,181050.0,No,Ballymun,Dublin 9,q4,80%
+29/03/2019,"65 The Gateway, Ballymun, Dublin 9",Dublin,128000.0,No,Ballymun,Dublin 9,q2,40%
+01/04/2019,"27 Coultry Close, Ballymun Dublin 9, Dublin",Dublin,219047.0,No,Ballymun,Dublin 9,q4,90%
+10/04/2019,"28 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,157000.0,No,Ballymun,Dublin 9,q3,70%
+11/04/2019,"22 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,185000.0,No,Ballymun,Dublin 9,q4,90%
+24/04/2019,"116 Silloge Gardens, Ballymun, Dublin",Dublin,215000.0,No,Ballymun,Dublin 9,q4,90%
+26/04/2019,"13 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,160000.0,No,Ballymun,Dublin 9,q3,70%
+30/04/2019,"75 College View, Ballymun Rd, Ballymun Dublin 9",Dublin,191000.0,No,Ballymun,Dublin 9,q4,90%
+30/04/2019,"Apt 10 Santry Way, Ballymun, Dublin 9",Dublin,195000.0,No,Ballymun,Dublin 9,q4,90%
+02/05/2019,"Apt 22 Gateway Student Village, Ballymun Rd, Ballymun Dublin 9",Dublin,175000.0,No,Ballymun,Dublin 9,q4,80%
+10/05/2019,"52 Gateway Crescent, Ballymun, Dublin 11",Dublin,192000.0,No,Ballymun,Dublin 9,q4,90%
+17/05/2019,"41 The Hampton, St Pappins St, Ballymun Dublin 9",Dublin,141000.0,No,Ballymun,Dublin 9,q2,50%
+22/05/2019,"46 The Maiston, Santry Cross, Ballymun Dublin 11",Dublin,171000.0,No,Ballymun,Dublin 9,q3,80%
+31/05/2019,"53 The Hampton, Santry Cross, Ballymun Dublin 9",Dublin,181000.0,No,Ballymun,Dublin 9,q4,80%
+05/06/2019,"11 The Plaza, Main St, Ballymun",Dublin,175000.0,No,Ballymun,Dublin 9,q4,80%
+11/06/2019,"21 Maieston, Santry Cross, Ballymun Dublin 11",Dublin,155000.0,No,Ballymun,Dublin 9,q3,60%
+18/06/2019,"47 Sandyhill Gardens, Ballymun, Dublin 11",Dublin,200000.0,No,Ballymun,Dublin 9,q4,90%
+19/06/2019,"48 Sandyhill Gardens, Ballymun, Dublin 11",Dublin,207000.0,No,Ballymun,Dublin 9,q4,90%
+28/06/2019,"15 Shangan Hall, Ballymun Civic Centre, Ballymun",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%
+02/07/2019,"13 Wadelai Rd, Ballymun, Dublin 11",Dublin,445000.0,No,Ballymun,Dublin 9,q4,100%
+05/07/2019,"19 Shangan Hall, Ballymun Civic Centre, Ballymun",Dublin,165000.0,No,Ballymun,Dublin 9,q3,70%
+05/07/2019,"20 Gateway View, Ballymun Rd, Ballymun Dublin 11",Dublin,150000.0,No,Ballymun,Dublin 9,q3,60%
+05/07/2019,"42 Grove Park Avenue, Ballymun Avenue, Dublin 11",Dublin,447000.0,No,Ballymun,Dublin 9,q4,100%
+12/07/2019,"11 Pinewood Gr, Ballymun, Dublin 11",Dublin,420000.0,No,Ballymun,Dublin 9,q4,100%
+25/07/2019,"3 Belclare Crescent, Poppintree, Ballymun Dublin 11",Dublin,210000.0,No,Ballymun,Dublin 9,q4,90%
+08/08/2019,"Apt.21 - Shangan Hall, Shangan Rd, Ballymun",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%
+03/09/2019,"9 The Turnpike, Santry Cross, Ballymun Dublin 11",Dublin,166000.0,No,Ballymun,Dublin 9,q3,70%
+09/09/2019,"4 The Gateway, Ballymun, Dublin 11",Dublin,199000.0,No,Ballymun,Dublin 9,q4,90%
+20/09/2019,"10 The Gateway, Ballymun, Dublin 9",Dublin,735000.0,No,Ballymun,Dublin 9,q4,100%
+10/10/2019,"14 Coultry Crescent, Ballymun, Dublin 11",Dublin,218000.0,No,Ballymun,Dublin 9,q4,90%
+11/10/2019,"2 7 21 27 33 39 97 104, 111 114 117 118 College View, Ballymun Rd",Dublin,2175000.0,No,Ballymun,Dublin 9,q4,100%
+11/10/2019,"5  6  11 And 16, Gateway Mews, Ballymun",Dublin,625000.0,No,Ballymun,Dublin 9,q4,100%
+15/10/2019,"120 College View, Ballymun, Dublin 11",Dublin,2600000.0,No,Ballymun,Dublin 9,q4,100%
+21/10/2019,"Apt 21 The Gateway, Main Street, Ballymun",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%
+21/10/2019,"Apt 70, The Gateway, Ballymun Dublin 9",Dublin,170000.0,No,Ballymun,Dublin 9,q3,80%

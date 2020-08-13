@@ -1,0 +1,311 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+04/01/2010,"23 Elton Park, Sandycove",Dublin,1800000.0,No,Sandycove,Co. Dublin,q4,100%
+29/01/2010,"Park Lodge, 1 Castlebarp Road, Sandycove",Dublin,1380000.0,No,Sandycove,Co. Dublin,q4,90%
+02/02/2010,"18 Lower Albert Road, Sandycove",Dublin,840000.0,No,Sandycove,Co. Dublin,q3,70%
+15/02/2010,"32 Dundela Park, Sandycove",Dublin,700000.0,No,Sandycove,Co. Dublin,q3,60%
+19/02/2010,"23 Elton Court, Sandycove",Dublin,745000.0,No,Sandycove,Co. Dublin,q3,60%
+29/04/2010,"4 Bayswater Terrace, Sandycove, Co. Dublin",Dublin,7500.0,No,Sandycove,Co. Dublin,q1,10%
+30/04/2010,"32 Seabank Court, Sandycove",Dublin,438000.0,No,Sandycove,Co. Dublin,q2,40%
+24/05/2010,"No. 6 Gowran Hall, Ballygihen Avenue, Sandycove",Dublin,275000.0,No,Sandycove,Co. Dublin,q1,10%
+09/06/2010,"Apartment 1, 19 Summerhill Road  Sandycove, Co. Dublin",Dublin,250000.0,No,Sandycove,Co. Dublin,q1,10%
+29/06/2010,"Rockfort, Sandycove Point, Sandycove",Dublin,3100000.0,No,Sandycove,Co. Dublin,q4,100%
+02/07/2010,"19 Eden Terrace, Sandycove",Dublin,275000.0,No,Sandycove,Co. Dublin,q1,10%
+05/07/2010,"3 St Helen'S Marine Parade, Sandycove, Dublin",Dublin,410000.0,No,Sandycove,Co. Dublin,q2,30%
+26/07/2010,"1  Cove Terrace, Sandycove Avenue East, Sandycove",Dublin,1235000.0,No,Sandycove,Co. Dublin,q4,80%
+29/07/2010,"Walton, Sandycove Point, Sandycove",Dublin,578000.0,No,Sandycove,Co. Dublin,q2,50%
+29/07/2010,"Walton, Sandycove Point, Sandycove",Dublin,1672000.0,No,Sandycove,Co. Dublin,q4,100%
+09/08/2010,"2 Cliff Terrace, Sandycove",Dublin,2000000.0,No,Sandycove,Co. Dublin,q4,100%
+10/08/2010,"7 Marine Court, Sandycove",Dublin,640000.0,No,Sandycove,Co. Dublin,q2,50%
+11/08/2010,"Apartment 2, 1 Castle Close Apartments, Castle Close  Sandycove",Dublin,375000.0,Yes,Sandycove,Co. Dublin,q1,30%
+31/08/2010,"Monksville  No 5 Burdett Avenue, Sandycove",Dublin,1215000.0,No,Sandycove,Co. Dublin,q4,80%
+01/09/2010,"8 Castle Close, Sandycove",Dublin,780000.0,No,Sandycove,Co. Dublin,q3,70%
+20/09/2010,"11 Sandycove Avenue East, Sandycove",Dublin,875000.0,No,Sandycove,Co. Dublin,q3,70%
+07/10/2010,"Apartment 4, 1 Castle Close Apartments, Sandycove",Dublin,350000.0,Yes,Sandycove,Co. Dublin,q1,20%
+11/10/2010,"58B Albert Road Lower, Sandycove",Dublin,493000.0,No,Sandycove,Co. Dublin,q2,40%
+28/10/2010,"Apartment No.1 Ground Floor, Castle Close, Sandycove",Dublin,327433.63,Yes,Sandycove,Co. Dublin,q1,20%
+01/11/2010,"Maryville, Link Road, Sandycove",Dublin,416000.0,No,Sandycove,Co. Dublin,q2,30%
+08/11/2010,"Ardagh, Newtownsmith, Sandycove",Dublin,500000.0,No,Sandycove,Co. Dublin,q2,40%
+08/11/2010,"St Josephs, Newtownsmith, Sandycove",Dublin,500000.0,No,Sandycove,Co. Dublin,q2,40%
+10/11/2010,"8 Breffni Terrace, Sandycove",Dublin,2440000.0,No,Sandycove,Co. Dublin,q4,100%
+03/12/2010,"8 Albert Court, Sandycove, County Dublin",Dublin,195000.0,No,Sandycove,Co. Dublin,q1,10%
+23/12/2010,"58A Albert Road Lr, Sandycove",Dublin,527000.0,No,Sandycove,Co. Dublin,q2,50%
+23/12/2010,"No. 11  Coldwell Street, Sandycove, Rathdown",Dublin,210000.0,No,Sandycove,Co. Dublin,q1,10%
+12/01/2011,"23 Sandycove Road, Sandycove",Dublin,654000.0,No,Sandycove,Co. Dublin,q3,60%
+26/04/2011,"'Glenmalure', 26 Castle Park Road, Sandycove",Dublin,900000.0,No,Sandycove,Co. Dublin,q3,70%
+19/05/2011,"Apt. 8  Sandycove House, Sandycove",Dublin,575000.0,No,Sandycove,Co. Dublin,q2,50%
+27/05/2011,"6F Buckley Court, Elton Park, Sandycove",Dublin,57150.0,No,Sandycove,Co. Dublin,q1,10%
+31/05/2011,"8 Lower Albert Road, Sandycove Road, Sandycove",Dublin,571500.0,No,Sandycove,Co. Dublin,q2,50%
+20/06/2011,"1  2 And 3 Summerhill Parade, Sandycove",Dublin,1850000.0,Yes,Sandycove,Co. Dublin,q4,100%
+24/06/2011,"31 Lower Albert Road, Sandycove, Co. Dublin",Dublin,900000.0,No,Sandycove,Co. Dublin,q3,70%
+19/08/2011,"Apt 2 Sandycove House, Sandycove",Dublin,340000.0,No,Sandycove,Co. Dublin,q1,20%
+06/09/2011,"Corrigmore, 13 Elton Park, Sandycove",Dublin,1200000.0,No,Sandycove,Co. Dublin,q4,80%
+04/10/2011,"8 Islington Avenue, Sandycove",Dublin,400000.0,No,Sandycove,Co. Dublin,q2,30%
+21/10/2011,"4, Dundela Avenue, Sandycove",Dublin,650000.0,No,Sandycove,Co. Dublin,q2,50%
+03/11/2011,"2 Albert Court, Sandycove",Dublin,170000.0,No,Sandycove,Co. Dublin,q1,10%
+08/11/2011,"26 Seabank Court, Sandycove",Dublin,320000.0,No,Sandycove,Co. Dublin,q1,20%
+14/11/2011,"Apartment 30, Castlepark Gardens, Castlepark Road Sandycove",Dublin,625551.0,Yes,Sandycove,Co. Dublin,q2,50%
+01/12/2011,"19 Marine Court, Sandycove",Dublin,505000.0,No,Sandycove,Co. Dublin,q2,40%
+02/12/2011,"42 Sandycove Road, Sandycove",Dublin,620000.0,No,Sandycove,Co. Dublin,q2,50%
+12/01/2012,"40 Dundela Park, Sandycove",Dublin,480000.0,No,Sandycove,Co. Dublin,q2,40%
+19/01/2012,"2 Albert Road, Sandycove, Co. Dublin",Dublin,800000.0,No,Sandycove,Co. Dublin,q3,70%
+23/01/2012,"31 Dundela Park, Sandycove",Dublin,570000.0,No,Sandycove,Co. Dublin,q2,50%
+13/02/2012,"25 Sandycove Avenue West, Sandycove, County Dublin",Dublin,650000.0,No,Sandycove,Co. Dublin,q2,50%
+23/02/2012,"38 Castlepark Road, Sandycove",Dublin,660000.0,No,Sandycove,Co. Dublin,q3,60%
+17/04/2012,"5 Sandycove House, Newtownsmith, Sandycove",Dublin,430000.0,No,Sandycove,Co. Dublin,q2,40%
+04/05/2012,"Apartment 9 Gowran Hall, Ballygihen Avenue, Sandycove",Dublin,185000.0,No,Sandycove,Co. Dublin,q1,10%
+05/06/2012,"50 Castlepark Residence, Castlepark Road, Sandycove",Dublin,881057.0,Yes,Sandycove,Co. Dublin,q3,70%
+07/06/2012,"8 Marine Avenue, Sandycove",Dublin,520000.0,No,Sandycove,Co. Dublin,q2,40%
+10/07/2012,"8 Islington Avenue, Sandycove",Dublin,950000.0,No,Sandycove,Co. Dublin,q3,80%
+11/07/2012,"9 Dundela Haven, Sandycove",Dublin,240000.0,No,Sandycove,Co. Dublin,q1,10%
+25/07/2012,"42 Dundela Park, Sandycove",Dublin,513000.0,No,Sandycove,Co. Dublin,q2,40%
+01/08/2012,"6 Hudson Road, Sandycove, Co Dublin",Dublin,333000.0,No,Sandycove,Co. Dublin,q1,20%
+09/08/2012,"16 Seabank Court, Marine Parade, Sandycove",Dublin,250000.0,No,Sandycove,Co. Dublin,q1,10%
+20/08/2012,"33 Gosworth Park, Sandycove",Dublin,610000.0,No,Sandycove,Co. Dublin,q2,50%
+23/08/2012,"2 Castle Place, Breffni Road, Sandycove",Dublin,3000000.0,No,Sandycove,Co. Dublin,q4,100%
+24/08/2012,"Apartment 48 Block B, Castlepark Gardens Residence, Sandycove",Dublin,399500.0,Yes,Sandycove,Co. Dublin,q2,30%
+24/08/2012,"Apartment 49 Block B, Castlepark Gardens Residence, Sandycove",Dublin,889900.0,Yes,Sandycove,Co. Dublin,q3,70%
+21/09/2012,"10 Breffni Terrace, Sandycove",Dublin,907500.0,No,Sandycove,Co. Dublin,q3,80%
+28/09/2012,"Apartment 3 Block A, Castlepark Gardens Apartments, Sandycove",Dublin,308370.04,Yes,Sandycove,Co. Dublin,q1,20%
+05/10/2012,"27B Castlepark Gardens Residence, Castlepark Road, Sandycove",Dublin,312775.0,Yes,Sandycove,Co. Dublin,q1,20%
+05/10/2012,"44 Castlepark Gardens Residence, Castlepark Rd, Sandycove",Dublin,339207.0,Yes,Sandycove,Co. Dublin,q1,20%
+15/10/2012,"St Johns, 48 Glasthule Road, Sandycove",Dublin,1820000.0,No,Sandycove,Co. Dublin,q4,100%
+13/11/2012,"56A Lower Albert Road, Sandycove",Dublin,550000.0,No,Sandycove,Co. Dublin,q2,50%
+15/11/2012,"64 Castlepark Road, Sandycove",Dublin,525000.0,No,Sandycove,Co. Dublin,q2,50%
+01/12/2012,"1A Lower Albert Road, Sandycove",Dublin,970000.0,No,Sandycove,Co. Dublin,q3,80%
+04/12/2012,"41 Albert Road, Sandycove",Dublin,415000.0,No,Sandycove,Co. Dublin,q2,30%
+07/12/2012,"17A Dundela Park, Sandycove",Dublin,525000.0,No,Sandycove,Co. Dublin,q2,50%
+14/12/2012,"5 Albert Court, Sandycove Road, Sandycove",Dublin,155000.0,No,Sandycove,Co. Dublin,q1,10%
+17/12/2012,"Apartment 6, Ballygihen, Sandycove Road",Dublin,195000.0,No,Sandycove,Co. Dublin,q1,10%
+21/12/2012,"1 Summerhill Road, Sandycove",Dublin,456000.0,No,Sandycove,Co. Dublin,q2,40%
+21/12/2012,"4 Eden Park, Sandycove",Dublin,465000.0,No,Sandycove,Co. Dublin,q2,40%
+04/01/2013,"38 Castlepark Gardens Residence, Castlepark Road, Sandycove",Dublin,242291.74,Yes,Sandycove,Co. Dublin,q1,10%
+28/01/2013,"Ingleside, Sandycove Road, Sandycove",Dublin,840000.0,No,Sandycove,Co. Dublin,q3,70%
+05/02/2013,"14 Sandycove Avenue West, Sandycove, County Dublin",Dublin,1150000.0,No,Sandycove,Co. Dublin,q4,80%
+22/02/2013,"9 Seabank Court, Sandycove",Dublin,365000.0,No,Sandycove,Co. Dublin,q1,20%
+10/03/2013,"33 Lower Albert Road, Sandycove",Dublin,522750.0,No,Sandycove,Co. Dublin,q2,50%
+12/03/2013,"4A Breffni Terrace, Sandycove, Dublin 4",Dublin,315000.0,No,Sandycove,Co. Dublin,q1,20%
+28/03/2013,"Apartment 15 Ballygihen, Sandycove Road, Sandycove",Dublin,180000.0,No,Sandycove,Co. Dublin,q1,10%
+15/04/2013,"61 Lower Albert Road, Sandycove",Dublin,1130000.0,No,Sandycove,Co. Dublin,q4,80%
+29/04/2013,"Unit 5  One Castle Close, Sandycove",Dublin,333921.0,Yes,Sandycove,Co. Dublin,q1,20%
+30/05/2013,"Ardagh, 15 Newtownsmith, Sandycove",Dublin,745000.0,No,Sandycove,Co. Dublin,q3,60%
+28/06/2013,"Apartment 5 Brighton House, Sandycove",Dublin,140000.0,No,Sandycove,Co. Dublin,q1,10%
+30/07/2013,"11 Seabank Court, Sandycove",Dublin,380000.0,No,Sandycove,Co. Dublin,q1,30%
+31/07/2013,"Apt 7 Albert Court, Sandycover, Co Dublin",Dublin,159000.0,No,Sandycove,Co. Dublin,q1,10%
+16/08/2013,"29 Sandycove Avenue West, Sandycove",Dublin,645000.0,No,Sandycove,Co. Dublin,q2,50%
+26/08/2013,"Rockfort, Sandycove Point, Sandycove",Dublin,2750000.0,No,Sandycove,Co. Dublin,q4,100%
+29/08/2013,"18 Castlepark Road, Sandycove",Dublin,1101777.0,No,Sandycove,Co. Dublin,q4,80%
+11/09/2013,"4 Albert Mews, Rear Lower Albert Road, Sandycove",Dublin,425000.0,No,Sandycove,Co. Dublin,q2,40%
+18/09/2013,"2 Albert Close, Sandycove",Dublin,370000.0,No,Sandycove,Co. Dublin,q1,30%
+20/09/2013,"35 Lower Albert Road, Sandycove",Dublin,740000.0,No,Sandycove,Co. Dublin,q3,60%
+27/09/2013,"9 Sandycove House, Newtownsmith, Sandycove",Dublin,306690.0,No,Sandycove,Co. Dublin,q1,20%
+03/10/2013,"Rear 40 Sandycove Road, Co. Dublin",Dublin,400000.0,No,Sandycove,Co. Dublin,q2,30%
+16/10/2013,"1 Summerhill Terrace, Summerhill Parade, Sandycove",Dublin,395000.0,No,Sandycove,Co. Dublin,q1,30%
+24/10/2013,"40 Dundela Haven, Sandycove",Dublin,367500.0,No,Sandycove,Co. Dublin,q1,20%
+25/10/2013,"2 Summerhill Parade Terrace, Sandycove",Dublin,362000.0,No,Sandycove,Co. Dublin,q1,20%
+25/10/2013,"4 Breffni Terrace, Sandycove, County Dublin",Dublin,746000.0,No,Sandycove,Co. Dublin,q3,60%
+12/11/2013,"14 Albert Park, Sandycove",Dublin,459000.0,No,Sandycove,Co. Dublin,q2,40%
+15/11/2013,"5 Martello Terrace, Sandycove",Dublin,1250000.0,No,Sandycove,Co. Dublin,q4,80%
+05/12/2013,"3 Summerhill Parade Terrace, Sandycove",Dublin,362000.0,Yes,Sandycove,Co. Dublin,q1,20%
+11/12/2013,"18 Summerhill Rd, Sandycove, Dublin",Dublin,31000.0,No,Sandycove,Co. Dublin,q1,10%
+13/12/2013,"Apt 14 Ballygihen, Sandycove Road, Co. Dublin",Dublin,218000.0,No,Sandycove,Co. Dublin,q1,10%
+18/12/2013,"24 Seabank Court, Marine Parade, Sandycove",Dublin,355000.0,No,Sandycove,Co. Dublin,q1,20%
+18/12/2013,"40 Castlepark Residence, Castlepark Road Sandycove",Dublin,330396.0,Yes,Sandycove,Co. Dublin,q1,20%
+20/12/2013,"19 Castlepark Gardens Residence, Castlepark Road, Sandycove",Dublin,365638.77,Yes,Sandycove,Co. Dublin,q1,20%
+20/12/2013,"34 Dundela Haven, Sandycove, Co Dublin",Dublin,383000.0,No,Sandycove,Co. Dublin,q1,30%
+20/12/2013,"Apartment 9  Castlepark, Castlepark Road, Sandycove",Dublin,325991.0,Yes,Sandycove,Co. Dublin,q1,20%
+23/12/2013,"24 Castlepark Residence, Castlepark Gardens, Sandycove",Dublin,402654.0,Yes,Sandycove,Co. Dublin,q2,30%
+31/01/2014,"2 Ballygihen Villas, Sandycove, Dublin",Dublin,800000.0,No,Sandycove,Co. Dublin,q3,70%
+06/02/2014,"26 Castlepark Residence, Castlepark Road, Sandycove",Dublin,580000.0,Yes,Sandycove,Co. Dublin,q2,50%
+12/02/2014,"12 Seabank Court, Sandycove",Dublin,400000.0,No,Sandycove,Co. Dublin,q2,30%
+14/02/2014,"4 Castlepark Residences, Castlepark Road, Sandycove",Dublin,436123.35,Yes,Sandycove,Co. Dublin,q2,40%
+17/02/2014,"Apartment 43 Castlepark Residence, Castlepark Road, Sandycove",Dublin,334802.0,Yes,Sandycove,Co. Dublin,q1,20%
+26/03/2014,"2 Elton Park, Sandycove",Dublin,1440000.0,No,Sandycove,Co. Dublin,q4,90%
+28/03/2014,"19 Saint Catherine'S Park, Sandycove, Co. Dublin",Dublin,790000.0,No,Sandycove,Co. Dublin,q3,70%
+03/04/2014,"Apt 12, Ballygilen, Sandycove Rd",Dublin,230000.0,No,Sandycove,Co. Dublin,q1,10%
+08/05/2014,"Otranto Mews, Rock Yard Lane, Sandycove",Dublin,525000.0,No,Sandycove,Co. Dublin,q2,50%
+15/05/2014,"Apartment 11, Castlepark Residence, Castlepark Rd Sandycove",Dublin,259912.0,Yes,Sandycove,Co. Dublin,q1,10%
+30/05/2014,"32 Lower Albert Rd, Sandycove, Dublin",Dublin,760000.0,No,Sandycove,Co. Dublin,q3,60%
+02/06/2014,"20 Castlepark Residence, Castlepark Road, Sandycove",Dublin,317181.0,Yes,Sandycove,Co. Dublin,q1,20%
+03/06/2014,"Wilmont Lodge, Wilmont Avenue, Sandycove",Dublin,692222.0,No,Sandycove,Co. Dublin,q3,60%
+10/06/2014,"Rose Cottage, Marine Court, Sandycove",Dublin,660000.0,No,Sandycove,Co. Dublin,q3,60%
+02/07/2014,"13 Castlepark Residence, Castlepark Road, Sandycove",Dublin,427312.78,Yes,Sandycove,Co. Dublin,q2,40%
+21/07/2014,"Apartment 36 Castlepark Residence, Castlepark Road, Sandycove",Dublin,389000.0,Yes,Sandycove,Co. Dublin,q1,30%
+23/07/2014,"17 Sea Bank Court, Marine Parade, Sandycove",Dublin,447000.0,No,Sandycove,Co. Dublin,q2,40%
+30/07/2014,"3 Gowran Hall, Ballygihen Avenue, Sandycove",Dublin,325000.0,No,Sandycove,Co. Dublin,q1,20%
+01/08/2014,"1 Sandycove Ave West, Sandycove, Dublin",Dublin,1330000.0,No,Sandycove,Co. Dublin,q4,90%
+21/08/2014,"7  Magenta Place, Sandycove",Dublin,375000.0,No,Sandycove,Co. Dublin,q1,30%
+29/08/2014,"76 Dundela Park, Sandycove, Dublin",Dublin,680000.0,No,Sandycove,Co. Dublin,q3,60%
+01/09/2014,"33 Castlepark Gardens Residence, Castlepark Road, Sandycove",Dublin,308370.0,Yes,Sandycove,Co. Dublin,q1,20%
+05/09/2014,"11A Lower Albert Road, Sandycove, Co. Dublin",Dublin,840000.0,No,Sandycove,Co. Dublin,q3,70%
+15/09/2014,"38 Dundela Haven, Sandycove, Dublin",Dublin,400000.0,No,Sandycove,Co. Dublin,q2,30%
+02/10/2014,"Apt. 46 Castlepark Residence, Castlepark Road, Sandycove",Dublin,427312.78,Yes,Sandycove,Co. Dublin,q2,40%
+10/10/2014,"15 Castlepark Residence, Castlepark Road, Sandycove",Dublin,436123.0,Yes,Sandycove,Co. Dublin,q2,40%
+10/10/2014,"2 Castlepark Residence, Castlepark Road, Sandycove",Dublin,572687.0,Yes,Sandycove,Co. Dublin,q2,50%
+23/10/2014,"1 Dundela Ave, Sandycove, Dublin",Dublin,720000.0,No,Sandycove,Co. Dublin,q3,60%
+30/10/2014,"10 Dundela Ave, Sandycove, Dublin",Dublin,635000.0,No,Sandycove,Co. Dublin,q2,50%
+30/10/2014,"2 Magenta Place, Sandycove, Dublin",Dublin,408000.0,No,Sandycove,Co. Dublin,q2,30%
+13/11/2014,"Apartment 22  Castlepark Gardens, Castlepark Road, Sandycove",Dublin,430000.0,Yes,Sandycove,Co. Dublin,q2,40%
+14/11/2014,"Apartment 18, Castlepark Gardens Residence, Castlepark Road  Sandycove",Dublin,356828.19,Yes,Sandycove,Co. Dublin,q1,20%
+14/11/2014,"Apartment 42 Castlepark Residence, Castlepark Road, Sandycove",Dublin,396476.0,Yes,Sandycove,Co. Dublin,q1,30%
+26/11/2014,"Lisanode, 21 Sandycove Rd, Sandycove",Dublin,1420000.0,No,Sandycove,Co. Dublin,q4,90%
+17/12/2014,"43 Glasthule Road, Sandycove, County Dublin",Dublin,1685000.0,No,Sandycove,Co. Dublin,q4,100%
+18/12/2014,"Apartment 45  Castlepark Residence, Castlepark Road, Sandycove",Dublin,418502.2,Yes,Sandycove,Co. Dublin,q2,30%
+19/12/2014,"23 Castlepark Residence, Castlepark Road, Sandycove",Dublin,370044.0,Yes,Sandycove,Co. Dublin,q1,30%
+19/12/2014,"31 Castlepark Residence, Castlepark Road, Sandycove",Dublin,339207.0,Yes,Sandycove,Co. Dublin,q1,20%
+16/01/2015,"Apt 17 (Pra Ref Site 7) Block A, Castlepark Gardens Residence, Castlepark Road  Sandycove",Dublin,385000.0,Yes,Sandycove,Co. Dublin,q1,30%
+22/01/2015,"Sea Bank Court, Marine Parade, Sandycove",Dublin,470000.0,No,Sandycove,Co. Dublin,q2,40%
+19/02/2015,"3 St Helens, Glasthule Rd, Sandycove",Dublin,385000.0,No,Sandycove,Co. Dublin,q1,30%
+10/03/2015,"19 Saint Catherine'S Park, Sandycove, Co. Dublin",Dublin,818000.0,No,Sandycove,Co. Dublin,q3,70%
+13/03/2015,"1 Sandycove Ave East, Sandycove, Dublin",Dublin,1275000.0,No,Sandycove,Co. Dublin,q4,90%
+16/04/2015,"45 Sandycove Road, Sandycove",Dublin,1150000.0,No,Sandycove,Co. Dublin,q4,80%
+28/04/2015,"5 Ballygihen Ave, Sandycove, Dublin",Dublin,1900000.0,No,Sandycove,Co. Dublin,q4,100%
+11/05/2015,"2 Seabank Court, Sandycove, Dublin",Dublin,535000.0,No,Sandycove,Co. Dublin,q2,50%
+11/05/2015,"21 Elton Court, Sandycove",Dublin,725000.0,No,Sandycove,Co. Dublin,q3,60%
+15/05/2015,"16 Castlepark Residence, Castlepark Road, Sandycove",Dublin,374449.0,Yes,Sandycove,Co. Dublin,q1,30%
+15/05/2015,"28 Albert Rd Lower, Sandycove, Dublin",Dublin,1325000.0,No,Sandycove,Co. Dublin,q4,90%
+21/05/2015,"15 Dundela Haven, Sandycove, Dublin",Dublin,412500.0,No,Sandycove,Co. Dublin,q2,30%
+27/05/2015,"44 Dundela Park, Sandycove, Dublin",Dublin,885000.0,No,Sandycove,Co. Dublin,q3,70%
+27/05/2015,"Torca, Elton Park, Sandycove",Dublin,1541850.0,Yes,Sandycove,Co. Dublin,q4,90%
+05/06/2015,"Apt 3 Ballygihen House, Sandycove Rd, Sandycove",Dublin,260000.0,No,Sandycove,Co. Dublin,q1,10%
+23/06/2015,"1 Elton Court, Sandycove, Dublin",Dublin,700000.0,No,Sandycove,Co. Dublin,q3,60%
+25/06/2015,"39 Sandycove Rd, Sandycove, Dublin",Dublin,1100000.0,No,Sandycove,Co. Dublin,q4,80%
+25/06/2015,"Elton Park House, Elton Park, Sandycove",Dublin,795000.0,No,Sandycove,Co. Dublin,q3,70%
+06/07/2015,"Sereno, Elton Park, Sandycove",Dublin,1651000.0,No,Sandycove,Co. Dublin,q4,100%
+10/07/2015,"4 Sandycove Ave North, Sandycove, Dublin",Dublin,875000.0,No,Sandycove,Co. Dublin,q3,70%
+23/07/2015,"Avondale House, Lower Albert Road, Sandycove",Dublin,1400000.0,No,Sandycove,Co. Dublin,q4,90%
+10/08/2015,"7 Dundela Park, Sandycove",Dublin,970000.0,No,Sandycove,Co. Dublin,q3,80%
+21/08/2015,"Apt 4 Gowran Hall, Ballygihen Ave, Sandycove",Dublin,338000.0,No,Sandycove,Co. Dublin,q1,20%
+21/08/2015,"Number 4 Bayswater Terrace, Sandycove, County Dublin",Dublin,2500000.0,No,Sandycove,Co. Dublin,q4,100%
+07/09/2015,"5 Elton Park, Sandycove, Dublin",Dublin,1610000.0,No,Sandycove,Co. Dublin,q4,100%
+24/09/2015,"Regaile, Sandycove Road, Sandycove",Dublin,1050000.0,No,Sandycove,Co. Dublin,q3,80%
+10/11/2015,"32 Dundela Park, Sandycove, Dublin",Dublin,950000.0,No,Sandycove,Co. Dublin,q3,80%
+13/11/2015,"38 Findlater St, Sandycove, Dublin",Dublin,305000.0,No,Sandycove,Co. Dublin,q1,10%
+23/11/2015,"16 Dundela Park, Sandycove, Dublin",Dublin,830000.0,No,Sandycove,Co. Dublin,q3,70%
+24/11/2015,"11 Gowran Hall, Ballygihen Avenue, Sandycove",Dublin,344000.0,No,Sandycove,Co. Dublin,q1,20%
+24/11/2015,"3 Hastings Terrace, Sandycove Road, Sandycove",Dublin,1071000.0,No,Sandycove,Co. Dublin,q3,80%
+01/12/2015,"Apt 1, Sandycove House, Newtownsmith",Dublin,380000.0,No,Sandycove,Co. Dublin,q1,30%
+07/12/2015,"19 Castle Park Rd, Sandycove, Dublin",Dublin,1680000.0,No,Sandycove,Co. Dublin,q4,100%
+07/12/2015,"Apartment 36 Castlepark Residence, Castlepark Road, Sandycove",Dublin,475000.0,No,Sandycove,Co. Dublin,q2,40%
+10/12/2015,"21 Dundela Haven, Sandycove, Dublin",Dublin,400000.0,No,Sandycove,Co. Dublin,q2,30%
+07/01/2016,"Apt 6, Brighton House, Sandycove Rd",Dublin,293000.0,No,Sandycove,Co. Dublin,q1,10%
+15/01/2016,"The Ramblers, 15C Sandycove Ave East, Sandycove",Dublin,1410000.0,No,Sandycove,Co. Dublin,q4,90%
+27/01/2016,"16 Gowran Hall, Ballygihen Ave, Sandycove",Dublin,475000.0,No,Sandycove,Co. Dublin,q2,40%
+29/01/2016,"5 Gowran Hall, Ballygihen Ave, Sandycove",Dublin,340000.0,No,Sandycove,Co. Dublin,q1,20%
+10/02/2016,"4 Devitt Villas, Glasthule Village, Sandycove",Dublin,580000.0,No,Sandycove,Co. Dublin,q2,50%
+11/02/2016,"33 Dundela Ave, Sandycove, Dublin",Dublin,680000.0,No,Sandycove,Co. Dublin,q3,60%
+18/02/2016,"3 Dundela Haven, Sandycove, Co Dublin",Dublin,395000.0,No,Sandycove,Co. Dublin,q1,30%
+03/03/2016,"2 St Helens South, Sandycove, Dublin",Dublin,475000.0,No,Sandycove,Co. Dublin,q2,40%
+23/03/2016,"The Billows, Sandycove Point, Sandycove",Dublin,1450000.0,No,Sandycove,Co. Dublin,q4,90%
+18/04/2016,"Brunette, 40 Albert Rd Lower, Sandycove",Dublin,850000.0,No,Sandycove,Co. Dublin,q3,70%
+28/04/2016,"Valmar, Wilmont Ave, Sandycove",Dublin,770000.0,No,Sandycove,Co. Dublin,q3,70%
+01/06/2016,"Blooms Lodge, Sandycove Close, Sandycove",Dublin,356250.0,No,Sandycove,Co. Dublin,q1,20%
+23/06/2016,"1 Sandycove East Lane, Sandycove, Dublin",Dublin,1750000.0,No,Sandycove,Co. Dublin,q4,100%
+30/06/2016,"32 Dundela Haven, Sandycove, Dublin",Dublin,455000.0,No,Sandycove,Co. Dublin,q2,40%
+08/07/2016,"70 Albert Rd Lower, Sandycove, Dublin",Dublin,1076000.0,No,Sandycove,Co. Dublin,q4,80%
+15/07/2016,"80 Lower Albert Rd, Sandycove, Co Dublin",Dublin,1400000.0,No,Sandycove,Co. Dublin,q4,90%
+28/07/2016,"26 Elton Court, Sandycove, Dublin",Dublin,650000.0,No,Sandycove,Co. Dublin,q3,60%
+29/07/2016,"23 Dundela Ave, Sandycove, Dublin",Dublin,755000.0,No,Sandycove,Co. Dublin,q3,60%
+25/08/2016,"Carrick, Otranto Place, Sandycove",Dublin,1320000.0,No,Sandycove,Co. Dublin,q4,90%
+26/08/2016,"Raven Lodge, 17 Summerhill Road, Sandycove",Dublin,1250000.0,No,Sandycove,Co. Dublin,q4,80%
+27/08/2016,"1 Scotsmans Close, Newtownsmith, Sandycove",Dublin,1200000.0,No,Sandycove,Co. Dublin,q4,80%
+07/09/2016,"46 Castlepark Rd, Sandycove, Dublin",Dublin,912000.0,No,Sandycove,Co. Dublin,q3,80%
+15/09/2016,"Silverspring, Breffni Rd, Sandycove",Dublin,865000.0,No,Sandycove,Co. Dublin,q3,70%
+06/10/2016,"Islington Lodge, Islington Ave, Sandycove",Dublin,700000.0,No,Sandycove,Co. Dublin,q3,60%
+10/10/2016,"Burdet House, 1 Burdett Ave, Sandycove",Dublin,700000.0,No,Sandycove,Co. Dublin,q3,60%
+11/10/2016,"18 Albert Court, Sandycove Rd, Sandycove",Dublin,275000.0,No,Sandycove,Co. Dublin,q1,10%
+21/10/2016,"88/89 Lower Albert Rd, Sandycove, Dublin",Dublin,1955000.0,No,Sandycove,Co. Dublin,q4,100%
+24/10/2016,"9 Breffni Terrace, Breffni Rd, Sandycove",Dublin,1260000.0,No,Sandycove,Co. Dublin,q4,90%
+07/11/2016,"Apt 9, Ballygihen, Sandycove Rd",Dublin,247500.0,No,Sandycove,Co. Dublin,q1,10%
+15/11/2016,"14 Adelaide Rd, Sandycove, Dublin",Dublin,725225.0,No,Sandycove,Co. Dublin,q3,60%
+25/11/2016,"62 Dundela Park, Sandycove, Dublin",Dublin,771000.0,No,Sandycove,Co. Dublin,q3,70%
+08/12/2016,"16 Elton Court, Castle Park Rd, Sandycove",Dublin,760000.0,No,Sandycove,Co. Dublin,q3,60%
+09/12/2016,"9 Windsor Terrace, Marine Parade, Sandycove",Dublin,1300000.0,No,Sandycove,Co. Dublin,q4,90%
+21/12/2016,"Seabreeze, Newtownsmith, Sandycove",Dublin,1610000.0,No,Sandycove,Co. Dublin,q4,100%
+20/01/2017,"3 Buckley Court, Elton Park, Sandycove",Dublin,253000.0,No,Sandycove,Co. Dublin,q1,10%
+17/02/2017,"3 Killiney Terrace, Breffni Rd, Sandycove",Dublin,1350000.0,No,Sandycove,Co. Dublin,q4,90%
+24/02/2017,"St Johns, 48 Glasthule Rd, Sandycove",Dublin,2307500.0,No,Sandycove,Co. Dublin,q4,100%
+14/03/2017,"The Moorings, Marine Parade, Sandycove",Dublin,1260000.0,No,Sandycove,Co. Dublin,q4,90%
+05/04/2017,"12 Dundela Haven, Sandycove, Dublin",Dublin,394000.0,No,Sandycove,Co. Dublin,q1,30%
+07/04/2017,"Apt 1, 47 Sandycove Rd, Sandycove",Dublin,400000.0,No,Sandycove,Co. Dublin,q2,30%
+24/04/2017,"5 Hudson Rd, Sandycove, Dublin",Dublin,570000.0,No,Sandycove,Co. Dublin,q2,50%
+12/05/2017,"2 Castlepark Residence, Castlepark Road, Sandycove",Dublin,725000.0,No,Sandycove,Co. Dublin,q3,60%
+12/05/2017,"3 Brighton Terrace, Sandycove, Dublin",Dublin,300000.0,No,Sandycove,Co. Dublin,q1,10%
+17/05/2017,"65 Albert Road, Sandycove, Co Dublin",Dublin,1020000.0,No,Sandycove,Co. Dublin,q3,80%
+01/06/2017,"Fastnet, Ballygihen Ave, Sandycove",Dublin,2100000.0,No,Sandycove,Co. Dublin,q4,100%
+01/06/2017,"Ossory Lodge, Ballygihen Ave, Sandycove",Dublin,2900000.0,No,Sandycove,Co. Dublin,q4,100%
+22/06/2017,"Rear 4 Breffni Terrace, Sandycove, Co Dublin",Dublin,326000.0,No,Sandycove,Co. Dublin,q1,20%
+06/07/2017,"3 Albert Close, Albert Rd, Sandycove",Dublin,500000.0,No,Sandycove,Co. Dublin,q2,40%
+15/08/2017,"40 Dundela Park, Sandycove, Co Dublin",Dublin,1200000.0,No,Sandycove,Co. Dublin,q4,80%
+16/08/2017,"19 Elton Court, Castle Park Rd, Sandycove",Dublin,725000.0,No,Sandycove,Co. Dublin,q3,60%
+16/08/2017,"Jerpoint, 28 Elton Park, Sandycove",Dublin,3500000.0,No,Sandycove,Co. Dublin,q4,100%
+17/08/2017,"Hamara, Castle Park Rd, Sandycove",Dublin,1370000.0,No,Sandycove,Co. Dublin,q4,90%
+29/08/2017,"6 Seabank Court, Marine Parade, Sandycove",Dublin,605000.0,No,Sandycove,Co. Dublin,q2,50%
+31/08/2017,"7 Magenta Place, Sandycove, Co. Dublin",Dublin,450000.0,No,Sandycove,Co. Dublin,q2,40%
+05/09/2017,"14 Summerhill Rd, Sandycove, Dublin",Dublin,445000.0,No,Sandycove,Co. Dublin,q2,40%
+08/09/2017,"80 Dundela Park, Sandycove, Dublin",Dublin,750000.0,No,Sandycove,Co. Dublin,q3,60%
+08/09/2017,"Apartment 9 Castlepark, Castlepark Road, Sandycove",Dublin,620000.0,No,Sandycove,Co. Dublin,q2,50%
+08/09/2017,"Apt 1, 1 Castle Close, Sandycove",Dublin,420000.0,No,Sandycove,Co. Dublin,q2,30%
+08/09/2017,"Cabo, Marine Court, Sandycove",Dublin,885000.0,No,Sandycove,Co. Dublin,q3,70%
+10/09/2017,"1 - The Mews  St Albans, Newtownsmith, Sandycove",Dublin,925000.0,No,Sandycove,Co. Dublin,q3,80%
+21/09/2017,"17 Castle Park Rd, Sandycove, Dublin",Dublin,1390000.0,No,Sandycove,Co. Dublin,q4,90%
+04/10/2017,"5 Seabank Court, Marine Parade, Sandycove",Dublin,620000.0,No,Sandycove,Co. Dublin,q2,50%
+16/10/2017,"3 Albert Court, Sandycove, Dublin",Dublin,315000.0,No,Sandycove,Co. Dublin,q1,20%
+24/10/2017,"19 Ballygihen, Sandycove Rd, Sandycove",Dublin,380000.0,No,Sandycove,Co. Dublin,q1,30%
+24/10/2017,"64 Dundela Park, Sandycove, Dublin",Dublin,911000.0,No,Sandycove,Co. Dublin,q3,80%
+07/11/2017,"3 Elton Park, Sandycove, Dublin",Dublin,1578950.0,No,Sandycove,Co. Dublin,q4,100%
+14/11/2017,"86 Lower Albert Road, Sandycove, Co Dublin",Dublin,1340000.0,No,Sandycove,Co. Dublin,q4,90%
+12/12/2017,"32 Seabank Court, Sandycove, Dublin",Dublin,710000.0,No,Sandycove,Co. Dublin,q3,60%
+15/12/2017,"2 Munster Terrace, Breffni Rd, Sandycove",Dublin,1340000.0,No,Sandycove,Co. Dublin,q4,90%
+05/01/2018,"9 Newtownsmith, Sandycove, Dublin",Dublin,1300000.0,No,Sandycove,Co. Dublin,q4,90%
+08/01/2018,"11 Elton Court, Sandycove, Dublin",Dublin,750000.0,No,Sandycove,Co. Dublin,q3,60%
+08/01/2018,"Seaspray, Newtownsmith, Sandycove",Dublin,1560000.0,No,Sandycove,Co. Dublin,q4,100%
+19/01/2018,"1 St Pauls Terrace, Sandycove, Dublin",Dublin,740000.0,No,Sandycove,Co. Dublin,q3,60%
+19/01/2018,"59 Lower Albert Rd, Sandycove, Dublin",Dublin,790000.0,No,Sandycove,Co. Dublin,q3,70%
+19/01/2018,"7 Albert Park, Sandycove, Dublin",Dublin,810000.0,No,Sandycove,Co. Dublin,q3,70%
+07/02/2018,"28 Seabank Court, Marine Parade, Sandycove",Dublin,610000.0,No,Sandycove,Co. Dublin,q2,50%
+20/03/2018,"Coolceeda, 35B Castle Park Rd, Sandycove",Dublin,1275000.0,No,Sandycove,Co. Dublin,q4,90%
+29/03/2018,"1 Killiney Terrace, Breffni Rd, Sandycove",Dublin,1100000.0,No,Sandycove,Co. Dublin,q4,80%
+04/04/2018,"10 Castle Park Rd, Sandycove, Dublin",Dublin,1285000.0,No,Sandycove,Co. Dublin,q4,90%
+27/04/2018,"Kaelistra, 22 Lower Albert Rd, Sandycove",Dublin,1125000.0,No,Sandycove,Co. Dublin,q4,80%
+30/04/2018,"25 Sandycove Rd, Sandycove, Dublin",Dublin,1065000.0,No,Sandycove,Co. Dublin,q3,80%
+04/05/2018,"17 Marine Court, Albert Rd, Sandycove",Dublin,745000.0,No,Sandycove,Co. Dublin,q3,60%
+25/05/2018,"4 Marine Ave, Sandycove, Dublin",Dublin,990000.0,No,Sandycove,Co. Dublin,q3,80%
+31/05/2018,"The Coachhouse Mews, Rear 47 Sandycove Road, Sandycove",Dublin,630000.0,No,Sandycove,Co. Dublin,q2,50%
+13/07/2018,"Bungabhla, Castlepark Rd, Sandycove",Dublin,1180000.0,No,Sandycove,Co. Dublin,q4,80%
+18/07/2018,"29 Castle Park Rd, Sandycove, Dublin",Dublin,1380000.0,No,Sandycove,Co. Dublin,q4,90%
+26/07/2018,"19 Seabank Court, Sandycove, Dublin",Dublin,590000.0,No,Sandycove,Co. Dublin,q2,50%
+27/07/2018,"Martello Cottage, Islington Ave, Sandycove",Dublin,780000.0,No,Sandycove,Co. Dublin,q3,70%
+10/08/2018,"4 Dundela Park, Sandycove, Dublin",Dublin,1500000.0,No,Sandycove,Co. Dublin,q4,90%
+24/08/2018,"4 Castle Park Rd, Sandycove, Dublin",Dublin,1450000.0,No,Sandycove,Co. Dublin,q4,90%
+06/09/2018,"3 Neptune Terrace, Breffni Rd, Sandycove",Dublin,62500.0,No,Sandycove,Co. Dublin,q1,10%
+10/09/2018,"17 Elton Court, Sandycove, Dublin",Dublin,820000.0,No,Sandycove,Co. Dublin,q3,70%
+14/09/2018,"9 St Helens North, Marine Parade, Sandycove",Dublin,700000.0,No,Sandycove,Co. Dublin,q3,60%
+18/09/2018,"16 Gowran Hall, Ballygihen Ave, Sandycove",Dublin,520000.0,No,Sandycove,Co. Dublin,q2,40%
+21/09/2018,"12 Gowran Hall, Ballygihen Ave, Sandycove",Dublin,445000.0,No,Sandycove,Co. Dublin,q2,40%
+05/10/2018,"74 Dundela Park, Sandycove, Dublin",Dublin,890000.0,No,Sandycove,Co. Dublin,q3,70%
+26/10/2018,"Apt 4 Gowran Hall, Ballygihen Avenue, Sandycove",Dublin,465000.0,No,Sandycove,Co. Dublin,q2,40%
+02/11/2018,"Monread, Marine Parade, Sandycove",Dublin,1575000.0,No,Sandycove,Co. Dublin,q4,100%
+07/12/2018,"The Muglins, Sandycove Close, Sandycove",Dublin,695000.0,No,Sandycove,Co. Dublin,q3,60%
+12/12/2018,"Finistere, Ballygihen Ave, Sandycove",Dublin,1775000.0,No,Sandycove,Co. Dublin,q4,100%
+14/12/2018,"1 Cliff Terrace, Breffni Rd, Sandycove",Dublin,2070000.0,No,Sandycove,Co. Dublin,q4,100%
+09/01/2019,"1 Albert Rd Lower, Sandycove, Dublin",Dublin,836000.0,No,Sandycove,Co. Dublin,q3,70%
+17/01/2019,"Torca, Elton Park, Sandycove",Dublin,2600000.0,No,Sandycove,Co. Dublin,q4,100%
+11/02/2019,"5 Sandycove Ave West, Sandycove, Dublin",Dublin,1485000.0,No,Sandycove,Co. Dublin,q4,90%
+15/03/2019,"33 Dundela Haven, Sandycove, Co Dublin",Dublin,570000.0,No,Sandycove,Co. Dublin,q2,50%
+08/04/2019,"15 Castlepark Residence, Castlepark Road, Sandycove",Dublin,665000.0,No,Sandycove,Co. Dublin,q3,60%
+20/05/2019,"6 Arkendale Rd, Sandycove, Dublin",Dublin,1840000.0,No,Sandycove,Co. Dublin,q4,100%
+22/05/2019,"26 Sandycove Road, Sandycove, Co Dublin",Dublin,1065000.0,No,Sandycove,Co. Dublin,q3,80%
+22/05/2019,"28 Albert Road Lower, Sandycove, County Dublin",Dublin,1285000.0,No,Sandycove,Co. Dublin,q4,90%
+23/05/2019,"22 Dundela Ave, Sandycove, Dublin",Dublin,875000.0,No,Sandycove,Co. Dublin,q3,70%
+26/06/2019,"57A Glasthule Rd, Sandycove, Dublin",Dublin,300000.0,No,Sandycove,Co. Dublin,q1,10%
+27/06/2019,"8 Elton Court, Sandycove, Dublin",Dublin,770000.0,No,Sandycove,Co. Dublin,q3,70%
+28/06/2019,"29 Dundela Haven, Sandycove, Dublin",Dublin,430000.0,No,Sandycove,Co. Dublin,q2,40%
+08/07/2019,"8 Elton Park, Sandycove, Dublin",Dublin,1850000.0,No,Sandycove,Co. Dublin,q4,100%
+15/07/2019,"Avondale House, Lower Albert Rd, Sandycove",Dublin,815220.0,No,Sandycove,Co. Dublin,q3,70%
+18/07/2019,"Ossory Lodge, Ballygihen Ave, Sandycove",Dublin,2500000.0,No,Sandycove,Co. Dublin,q4,100%
+31/07/2019,"Apt 4, Sandycove House, Newtownsmith",Dublin,550000.0,No,Sandycove,Co. Dublin,q2,50%
+07/08/2019,"5 Dundela Park, Sandycove, Dublin",Dublin,1275000.0,No,Sandycove,Co. Dublin,q4,90%
+15/08/2019,"11 Ballygihan Apts, Sandycove Rd, Sandycove",Dublin,287500.0,No,Sandycove,Co. Dublin,q1,10%
+28/08/2019,"11 Marine Avenue, Sandycove, Co Dublin",Dublin,1050000.0,No,Sandycove,Co. Dublin,q3,80%
+12/09/2019,"13 Castlepark Rd, Sandycove, Dublin",Dublin,1435000.0,No,Sandycove,Co. Dublin,q4,90%
+11/10/2019,"86 Lower Albert Road, Sandycove, Co Dublin",Dublin,1450000.0,No,Sandycove,Co. Dublin,q4,90%

@@ -1,0 +1,786 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/01/2010,"87 Mangerton Raod, Drimnagh",Dublin,182556.12,No,Drimnagh,Dublin 12,q2,40%
+07/01/2010,"24 Drimnagh Road, Drimnagh, Dublin 12",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+15/01/2010,"199 Cooley Road, Drimnagh, Dublin 12",Dublin,270000.0,No,Drimnagh,Dublin 12,q3,80%
+29/01/2010,"57 Galtymore Drive, Drimnagh",Dublin,207818.03,No,Drimnagh,Dublin 12,q2,50%
+26/02/2010,"117 Benmadigan Road, Drimnagh",Dublin,215000.0,No,Drimnagh,Dublin 12,q2,50%
+03/03/2010,"159 Benmadigan Road, Drimnagh, Dublin 12",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+15/03/2010,"21 Galtymore Close, Drimnagh",Dublin,256000.0,No,Drimnagh,Dublin 12,q3,70%
+29/03/2010,"40 Errigal Road, Drimnagh, Dublin 12",Dublin,255000.0,No,Drimnagh,Dublin 12,q3,70%
+31/03/2010,"110 Benmadigan Road, Drimnagh",Dublin,110000.0,No,Drimnagh,Dublin 12,q1,10%
+01/04/2010,"140 Galtymore Road, Drimnagh, Dublin",Dublin,180000.0,No,Drimnagh,Dublin 12,q2,40%
+19/04/2010,"51 Donard Rod, Drimnagh",Dublin,215000.0,No,Drimnagh,Dublin 12,q2,50%
+22/04/2010,"77 Drimnagh Road, Drimnagh",Dublin,270000.0,No,Drimnagh,Dublin 12,q3,80%
+26/04/2010,"99 Benmadigan Road, Drimnagh, Dublin 12",Dublin,230000.0,No,Drimnagh,Dublin 12,q3,60%
+29/04/2010,"25 Rafters Road, Drimnagh",Dublin,180000.0,No,Drimnagh,Dublin 12,q2,40%
+30/04/2010,"119 Carrow Road, Drimnagh",Dublin,160000.0,No,Drimnagh,Dublin 12,q1,30%
+30/04/2010,"32 Slievebloom Park, Drimnagh",Dublin,290000.0,No,Drimnagh,Dublin 12,q4,90%
+04/05/2010,"28 Cooley Road, Drimnagh",Dublin,173000.0,No,Drimnagh,Dublin 12,q2,30%
+11/05/2010,"53 Lisadell Avenue, Drimnagh",Dublin,166000.0,No,Drimnagh,Dublin 12,q2,30%
+19/05/2010,"165 Comeragh Road, Drimnagh",Dublin,230000.0,No,Drimnagh,Dublin 12,q3,60%
+21/05/2010,"211 Brandon Road, Drimnagh",Dublin,225000.0,No,Drimnagh,Dublin 12,q3,60%
+21/05/2010,"297 Mourne Road, Drimnagh",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+25/05/2010,"131 Kilworth Road, Drimnagh",Dublin,270000.0,No,Drimnagh,Dublin 12,q3,80%
+26/05/2010,"73 Cooley Road, Drimnagh",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+27/05/2010,"30 Galtymore Close, Drimnagh",Dublin,217476.11,No,Drimnagh,Dublin 12,q2,50%
+27/05/2010,"70 Galtymore Drive, Drimnagh, Dublin 12",Dublin,162500.0,No,Drimnagh,Dublin 12,q2,30%
+28/05/2010,"224 Galtymore Road, Drimnagh",Dublin,180000.0,No,Drimnagh,Dublin 12,q2,40%
+02/06/2010,"440 Mourne Road, Drimnagh",Dublin,125000.0,No,Drimnagh,Dublin 12,q1,20%
+09/06/2010,"13  Sperrin Road, Drimnagh",Dublin,239000.0,No,Drimnagh,Dublin 12,q3,60%
+16/06/2010,"23 Keeper Road, Drimnagh, Dublin 12",Dublin,165000.0,No,Drimnagh,Dublin 12,q2,30%
+21/06/2010,"115 Sperrin Road, Drimnagh, Dublin 12",Dublin,210000.0,No,Drimnagh,Dublin 12,q2,50%
+24/06/2010,"150 Mangerton Road, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+09/07/2010,"49 Errigal Road, Drimnagh",Dublin,246500.0,No,Drimnagh,Dublin 12,q3,70%
+09/07/2010,"74 Brandon Road, Drimnagh, Dublin 12",Dublin,205000.0,No,Drimnagh,Dublin 12,q2,50%
+12/07/2010,"50 Lissadel Drive, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+16/07/2010,"338 Galtymore Road, Drimnagh",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+23/07/2010,"64 Brandon Road, Drimnagh",Dublin,255000.0,No,Drimnagh,Dublin 12,q3,70%
+29/07/2010,"51 Rafters Road, Drimnagh",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+30/07/2010,"64 Galtymore Park, Drimnagh",Dublin,267500.0,No,Drimnagh,Dublin 12,q3,80%
+09/08/2010,"44 Curlew Road, Drimnagh",Dublin,185000.0,No,Drimnagh,Dublin 12,q2,40%
+20/08/2010,"117 Comeragh Road, Drimnagh",Dublin,197500.0,No,Drimnagh,Dublin 12,q2,50%
+20/08/2010,"61 Mangerton Road, Drimnagh",Dublin,188500.0,No,Drimnagh,Dublin 12,q2,40%
+03/09/2010,"298 Mourne Road, Drimnagh",Dublin,125000.0,No,Drimnagh,Dublin 12,q1,20%
+06/09/2010,"285 Mourne Road, Drimnagh, Dublin 12",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+07/09/2010,"19 Galtymore Close, Drimnagh, Dublin 12",Dublin,232000.0,No,Drimnagh,Dublin 12,q3,60%
+21/09/2010,"22 Comeragh Road, Drimnagh, Dublin",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+08/10/2010,"75 Cooley Road, Drimnagh",Dublin,150000.0,No,Drimnagh,Dublin 12,q1,30%
+22/10/2010,"119 Dolphin Road, Drimnagh",Dublin,185000.0,No,Drimnagh,Dublin 12,q2,40%
+22/10/2010,"38 Brandon Road, Drimnagh",Dublin,183500.0,No,Drimnagh,Dublin 12,q2,40%
+27/10/2010,"312  Galtymore Road, Drimnagh, Dublin 12",Dublin,185000.0,No,Drimnagh,Dublin 12,q2,40%
+04/11/2010,"137 Comeragh Road, Drimnagh",Dublin,315000.0,No,Drimnagh,Dublin 12,q4,100%
+26/11/2010,"25 Brickfield Drive, Off Crumlin Road, Drimnagh Dublin 12",Dublin,225000.0,No,Drimnagh,Dublin 12,q3,60%
+10/12/2010,"1 Lansdowne Valley, Drimnagh, Dublin 12",Dublin,208250.0,No,Drimnagh,Dublin 12,q2,50%
+10/12/2010,"76 Drimnagh Road, Drimnagh",Dublin,216000.0,No,Drimnagh,Dublin 12,q2,50%
+15/12/2010,"111 Keeper Road, Drimnagh",Dublin,160000.0,No,Drimnagh,Dublin 12,q1,30%
+21/12/2010,"5 Slievebloom Road, Drimnagh, Dublin 12",Dublin,152000.0,No,Drimnagh,Dublin 12,q1,30%
+21/12/2010,"73 Benmadigan Road, Drimnagh",Dublin,122500.0,No,Drimnagh,Dublin 12,q1,20%
+07/01/2011,"88 Errigal Road, Drimnagh",Dublin,220000.0,No,Drimnagh,Dublin 12,q2,50%
+10/01/2011,"134 Dolphin Road, Drimnagh",Dublin,228000.0,No,Drimnagh,Dublin 12,q3,60%
+21/01/2011,"275 Cooley Road, Drimnagh, Dublin 12",Dublin,238990.0,No,Drimnagh,Dublin 12,q3,60%
+28/01/2011,"254 Cooley Road, Drimnagh, Dublin 12",Dublin,130000.0,No,Drimnagh,Dublin 12,q1,20%
+18/02/2011,"260 Galtymore Road, Drimnagh",Dublin,155000.0,No,Drimnagh,Dublin 12,q1,30%
+24/02/2011,"91 Slievenamon Road, Drimnagh, Dublin 12",Dublin,108900.0,No,Drimnagh,Dublin 12,q1,10%
+25/02/2011,"129 Drimnagh Road, Dublin 12",Dublin,163000.0,No,Drimnagh,Dublin 12,q2,30%
+28/02/2011,"8 Galtymore Close, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+11/03/2011,"155 Brandon Road, Drimnagh, Dublin 12",Dublin,146000.0,No,Drimnagh,Dublin 12,q1,20%
+11/03/2011,"9 Slievebloom Park, Drimnagh",Dublin,193500.0,No,Drimnagh,Dublin 12,q2,40%
+22/03/2011,"73 Lissadell Avenue, Drimnagh, Dublin 12",Dublin,118000.0,No,Drimnagh,Dublin 12,q1,10%
+23/03/2011,"29 Galtymore Park, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+08/04/2011,"76 Galtymore Park, Drimnagh",Dublin,155000.0,No,Drimnagh,Dublin 12,q1,30%
+05/05/2011,"152 Brandon Road, Drimnagh",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+17/05/2011,"50 Dromard Road, Drimnagh, Dublin 12",Dublin,189500.0,No,Drimnagh,Dublin 12,q2,40%
+26/05/2011,"35 Mourne Road, Drimnagh, Dublin 12",Dublin,145000.0,No,Drimnagh,Dublin 12,q1,20%
+31/05/2011,"11 Brandon Road, Drimnagh, Dublin 12",Dublin,180000.0,No,Drimnagh,Dublin 12,q2,40%
+08/06/2011,"158 Galtymore Road, Drimnagh, Dublin 12",Dublin,84000.0,No,Drimnagh,Dublin 12,q1,10%
+10/06/2011,"99 Cooley Road, Drimnagh",Dublin,245000.0,No,Drimnagh,Dublin 12,q3,70%
+14/06/2011,"14 Walkinsotwn Parade, Drimnagh",Dublin,210000.0,No,Drimnagh,Dublin 12,q2,50%
+15/06/2011,"29 Donard Road, Drimnagh",Dublin,150000.0,No,Drimnagh,Dublin 12,q1,30%
+04/07/2011,"146 Benmadigan Road, Drimnagh",Dublin,150000.0,No,Drimnagh,Dublin 12,q1,30%
+05/07/2011,"49 Galtymore Close, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q2,50%
+20/07/2011,"278 Mourne Road, Drimnagh",Dublin,145000.0,No,Drimnagh,Dublin 12,q1,20%
+20/07/2011,"392 Galtymore Road, Drimnagh",Dublin,90000.0,No,Drimnagh,Dublin 12,q1,10%
+21/07/2011,"227 Cooley Road, Drimnagh",Dublin,165000.0,No,Drimnagh,Dublin 12,q2,30%
+29/07/2011,"440 Mourne Road, Drimnagh",Dublin,176000.0,No,Drimnagh,Dublin 12,q2,40%
+09/08/2011,"322 Mourne Road, Drimnagh",Dublin,135000.0,No,Drimnagh,Dublin 12,q1,20%
+10/08/2011,"51 Galtymore Close, Drimnagh",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+02/09/2011,"67 Mourne Road, Drimnagh",Dublin,185000.0,No,Drimnagh,Dublin 12,q2,40%
+07/09/2011,"23 Dolphin Road, Drimnagh, Dublin 12",Dublin,190000.0,No,Drimnagh,Dublin 12,q2,40%
+15/09/2011,"134 Curlew Road, Drimnagh, Dublin 12",Dublin,125000.0,No,Drimnagh,Dublin 12,q1,20%
+16/09/2011,"19 Carrow Road, Drimnagh",Dublin,155000.0,No,Drimnagh,Dublin 12,q1,30%
+26/09/2011,"37 Galtymore Drive, Drimnagh",Dublin,105000.0,No,Drimnagh,Dublin 12,q1,10%
+30/09/2011,"46 Galtymore Drive, Drimnagh, Dublin",Dublin,161000.0,No,Drimnagh,Dublin 12,q2,30%
+04/10/2011,"65 Mourne Road, Drimnagh",Dublin,176000.0,No,Drimnagh,Dublin 12,q2,40%
+11/10/2011,"54 Slievemore Road, Drimnagh",Dublin,178000.0,No,Drimnagh,Dublin 12,q2,40%
+14/10/2011,"159 Benmadigan Road, Drimnagh, Dublin 12",Dublin,183000.0,No,Drimnagh,Dublin 12,q2,40%
+25/10/2011,"155 Comeragh Road, Drimnagh",Dublin,145500.0,No,Drimnagh,Dublin 12,q1,20%
+02/11/2011,"14 Moeran Road, Drimnagh",Dublin,210000.0,No,Drimnagh,Dublin 12,q2,50%
+08/11/2011,"232 Galtymore Road, Drimnagh",Dublin,132000.0,No,Drimnagh,Dublin 12,q1,20%
+11/11/2011,"323 Galtymore Road, Drimnagh, Dublin 12",Dublin,162500.0,No,Drimnagh,Dublin 12,q2,30%
+30/11/2011,"46 Cooley Road, Drimnagh",Dublin,143500.0,No,Drimnagh,Dublin 12,q1,20%
+05/12/2011,"97 Cooley Road, Drimnagh, Dublin 12",Dublin,105000.0,No,Drimnagh,Dublin 12,q1,10%
+06/12/2011,"16 Lansdowne Valley Park, Drimnagh, Dublin 12",Dublin,185000.0,No,Drimnagh,Dublin 12,q2,40%
+08/12/2011,"168 Rafters Road, Drimnagh",Dublin,72000.0,No,Drimnagh,Dublin 12,q1,10%
+09/12/2011,"122 Mourne Road, Drimnagh",Dublin,147000.0,No,Drimnagh,Dublin 12,q1,30%
+09/12/2011,"217 Brandon Road, Drimnagh, Dublin 12",Dublin,150000.0,No,Drimnagh,Dublin 12,q1,30%
+13/12/2011,"211 Errigal Road, Drimnagh",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+14/12/2011,"15 Galtymore Close, Drimnagh, Dublin 12",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+14/12/2011,"70 Lissadell Drive, Drimnagh",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+16/12/2011,"175 Cooley Road, Drimnagh",Dublin,124000.0,No,Drimnagh,Dublin 12,q1,20%
+16/12/2011,"74 Galtymore Park, Drimnagh, City Of Dublin",Dublin,120000.0,No,Drimnagh,Dublin 12,q1,20%
+22/12/2011,"47 Kilworth Road, Drimnagh",Dublin,105000.0,No,Drimnagh,Dublin 12,q1,10%
+06/01/2012,"48 Galtymore Drive, Drimnagh, Dublin 12",Dublin,90000.0,No,Drimnagh,Dublin 12,q1,10%
+09/01/2012,"356 Mourne Road, Drimnagh",Dublin,118000.0,No,Drimnagh,Dublin 12,q1,10%
+10/01/2012,"7 Mourne Road, Drimnagh",Dublin,155000.0,No,Drimnagh,Dublin 12,q1,30%
+18/01/2012,"175 Ben Madigan Road, Drimnagh",Dublin,85000.0,No,Drimnagh,Dublin 12,q1,10%
+18/01/2012,"9 Mourne Road, Drimnagh",Dublin,155000.0,No,Drimnagh,Dublin 12,q1,30%
+23/01/2012,"41 Galtymore Park, Drimnagh",Dublin,125000.0,No,Drimnagh,Dublin 12,q1,20%
+27/01/2012,"260 Kilworth Road, Drimnagh",Dublin,150000.0,No,Drimnagh,Dublin 12,q1,30%
+23/02/2012,"106 Brandon Road, Drimnagh",Dublin,110000.0,No,Drimnagh,Dublin 12,q1,10%
+05/03/2012,"19 Brandon Road, Drimnagh, Dublin 12",Dublin,155000.0,No,Drimnagh,Dublin 12,q1,30%
+06/03/2012,"57 Mourne Road, Drimnagh",Dublin,128500.0,No,Drimnagh,Dublin 12,q1,20%
+08/03/2012,"105 Slievemore Road, Drimnagh, Dublin 12",Dublin,87000.0,No,Drimnagh,Dublin 12,q1,10%
+30/03/2012,"98 Slieve Mor Road, Drimnagh",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+13/04/2012,"31 Galtymore Park, Drimnagh",Dublin,130000.0,No,Drimnagh,Dublin 12,q1,20%
+18/04/2012,"67 Benbulbin Road, Drimnagh",Dublin,82000.0,No,Drimnagh,Dublin 12,q1,10%
+10/05/2012,"39 Lissadel Road, Drimnagh, Dublin 12",Dublin,130000.0,No,Drimnagh,Dublin 12,q1,20%
+16/05/2012,"522 Mourne Road, Drimnagh",Dublin,118000.0,No,Drimnagh,Dublin 12,q1,10%
+16/05/2012,"88 Comeragh Road, Drimnagh, Dublin 12",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+23/05/2012,"408 Galtymore Road, Drimnagh",Dublin,90000.0,No,Drimnagh,Dublin 12,q1,10%
+29/05/2012,"322 Galtymore Road, Drimnagh",Dublin,72500.0,No,Drimnagh,Dublin 12,q1,10%
+30/05/2012,"61 Donard Road, Drimnagh, Dublin 12",Dublin,182000.0,No,Drimnagh,Dublin 12,q2,40%
+06/06/2012,"37 Brandon Road, Drimnagh, Dublin 12",Dublin,120000.0,No,Drimnagh,Dublin 12,q1,20%
+20/06/2012,"48 Carrow Road, Drimnagh, Dublin 8",Dublin,90000.0,No,Drimnagh,Dublin 12,q1,10%
+03/07/2012,"6 Carrow Road, Drimnagh",Dublin,90000.0,No,Drimnagh,Dublin 12,q1,10%
+04/07/2012,"4 Landsdowne Valley Park, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+09/07/2012,"171 Rafters Road, Drimnagh",Dublin,98500.0,No,Drimnagh,Dublin 12,q1,10%
+09/07/2012,"57 Galtymore Close, Drimnagh",Dublin,165000.0,No,Drimnagh,Dublin 12,q2,30%
+16/07/2012,"119 Kilworth Road, Drimnagh",Dublin,125000.0,No,Drimnagh,Dublin 12,q1,20%
+16/07/2012,"19A Knocknarea Avenue, Drimnagh",Dublin,165000.0,No,Drimnagh,Dublin 12,q2,30%
+19/07/2012,"86 Brandon Road, Drimnagh, Dublin 12",Dublin,138000.0,No,Drimnagh,Dublin 12,q1,20%
+24/07/2012,"10  Kilworth Road, Drimnagh, Dublin",Dublin,93000.0,No,Drimnagh,Dublin 12,q1,10%
+25/07/2012,"55 Drimnagh Road, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q2,50%
+30/07/2012,"7 Lansdowne Valley Crescent, Drimnagh",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+20/08/2012,"230 Mourne Road, Drimnagh",Dublin,118000.0,No,Drimnagh,Dublin 12,q1,20%
+20/08/2012,"94 Cooley Road, Drimnagh, Dublin 12",Dublin,111500.0,No,Drimnagh,Dublin 12,q1,10%
+23/08/2012,"29 Benbulbin Road, Drimnagh, Dublin 12",Dublin,90000.0,No,Drimnagh,Dublin 12,q1,10%
+04/09/2012,"106 Comeragh Road, Drimnagh",Dublin,115000.0,No,Drimnagh,Dublin 12,q1,10%
+06/09/2012,"7 Brandon Road, Drimnagh, Dublin 12",Dublin,130000.0,No,Drimnagh,Dublin 12,q1,20%
+19/09/2012,"66 Galtymore Park, Drimnagh, Dublin 12",Dublin,185000.0,No,Drimnagh,Dublin 12,q2,40%
+24/09/2012,"103 Dromard Road, Drimnagh",Dublin,164000.0,No,Drimnagh,Dublin 12,q2,30%
+24/09/2012,"43 Benmadigan Road, Drimnagh",Dublin,92000.0,No,Drimnagh,Dublin 12,q1,10%
+25/09/2012,"223 Cooley Road, Drimnagh, Dublin 12",Dublin,70000.0,No,Drimnagh,Dublin 12,q1,10%
+04/10/2012,"6 Comeragh Road, Drimnagh",Dublin,106000.0,No,Drimnagh,Dublin 12,q1,10%
+05/10/2012,"250 Galtymore Road, Drimnagh",Dublin,84000.0,No,Drimnagh,Dublin 12,q1,10%
+05/10/2012,"30 Curlew Road, Drimnagh",Dublin,115000.0,No,Drimnagh,Dublin 12,q1,10%
+08/10/2012,"102 Cooley Road, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+11/10/2012,"73 Errigal Road, Drimnagh, Dublin 12",Dublin,105000.0,No,Drimnagh,Dublin 12,q1,10%
+18/10/2012,"295 Cooley Road, Drimnagh, Dublin 12",Dublin,165000.0,No,Drimnagh,Dublin 12,q2,30%
+22/10/2012,"135  Cooley Road, Drimnagh",Dublin,142500.0,No,Drimnagh,Dublin 12,q1,20%
+23/10/2012,"29 Curlew Road, Drimnagh, Dublin 12",Dublin,117500.0,No,Drimnagh,Dublin 12,q1,10%
+23/10/2012,"370 Mourne Road, Drimnagh, Dublin 12",Dublin,125000.0,No,Drimnagh,Dublin 12,q1,20%
+29/10/2012,"7 Galtymore Road, Drimnagh, Dublin 12",Dublin,105000.0,No,Drimnagh,Dublin 12,q1,10%
+07/11/2012,"560 Mourne Road, Drimnagh, Dublin 12",Dublin,105000.0,No,Drimnagh,Dublin 12,q1,10%
+13/11/2012,"71 Brandon Road, Drimnagh, Dublin",Dublin,152000.0,No,Drimnagh,Dublin 12,q1,30%
+19/11/2012,"284 Cooley Road, Drimnagh",Dublin,105000.0,No,Drimnagh,Dublin 12,q1,10%
+19/11/2012,"46 Galtymore Park, Drimnagh, Dublin 12",Dublin,136000.0,No,Drimnagh,Dublin 12,q1,20%
+22/11/2012,"329 Errigal Road, Drimnagh",Dublin,95000.0,No,Drimnagh,Dublin 12,q1,10%
+27/11/2012,"65 Dromard Road, Drimnagh",Dublin,100000.0,No,Drimnagh,Dublin 12,q1,10%
+28/11/2012,"111 Carrow Road, Drimnagh",Dublin,110000.0,No,Drimnagh,Dublin 12,q1,10%
+29/11/2012,"383 Galtymore Road, Drimnagh, Dublin 12",Dublin,125000.0,No,Drimnagh,Dublin 12,q1,20%
+05/12/2012,"47 Brandon Road, Drimnagh",Dublin,120000.0,No,Drimnagh,Dublin 12,q1,20%
+12/12/2012,"22 Errigal Road, Drimnagh",Dublin,132500.0,No,Drimnagh,Dublin 12,q1,20%
+12/12/2012,"63 Keeper Road, Drimnagh",Dublin,100000.0,No,Drimnagh,Dublin 12,q1,10%
+12/12/2012,"8  Galtymore Road, Drimnagh",Dublin,103000.0,No,Drimnagh,Dublin 12,q1,10%
+14/12/2012,"200 Rafters Road, Drimnagh, Dubllin",Dublin,155000.0,No,Drimnagh,Dublin 12,q1,30%
+14/12/2012,"256 Galtymore Road, Drimnagh",Dublin,115000.0,No,Drimnagh,Dublin 12,q1,10%
+14/12/2012,"91 Long Mile Road, Drimnagh",Dublin,120000.0,No,Drimnagh,Dublin 12,q1,20%
+19/12/2012,"143 Bunting Road, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q2,50%
+19/12/2012,"38 Knocknarea Road, Drimnagh",Dublin,109000.0,No,Drimnagh,Dublin 12,q1,10%
+20/12/2012,"112 Rafters Road, Drimnagh, Dublin12",Dublin,133000.0,No,Drimnagh,Dublin 12,q1,20%
+20/12/2012,"116 Kilworth Road, Drimnagh",Dublin,105000.0,No,Drimnagh,Dublin 12,q1,10%
+20/12/2012,"351 Galtymore Road, Drimnagh",Dublin,138000.0,No,Drimnagh,Dublin 12,q1,20%
+21/12/2012,"462 Mourne Road, Drimnagh",Dublin,122500.0,No,Drimnagh,Dublin 12,q1,20%
+16/01/2013,"210 Cooley Road, Drimnagh, Dublin 12",Dublin,96000.0,No,Drimnagh,Dublin 12,q1,10%
+18/01/2013,"50 Sperrin Road, Drimnagh",Dublin,91000.0,No,Drimnagh,Dublin 12,q1,10%
+25/01/2013,"114 Slievemore Road, Drimnagh",Dublin,85000.0,No,Drimnagh,Dublin 12,q1,10%
+11/02/2013,"97 Ben Madigan Road, Drimnagh",Dublin,109500.0,No,Drimnagh,Dublin 12,q1,10%
+22/02/2013,"172 Brandon Road, Drimnagh, Dublin 12",Dublin,135000.0,No,Drimnagh,Dublin 12,q1,20%
+01/03/2013,"476, Mourne Road, Drimnagh",Dublin,95000.0,No,Drimnagh,Dublin 12,q1,10%
+07/03/2013,"27 Benmadigan Road, Drimnagh",Dublin,106000.0,No,Drimnagh,Dublin 12,q1,10%
+13/03/2013,"60  Drimnagh Road, Drimnagh",Dublin,238534.0,No,Drimnagh,Dublin 12,q3,60%
+15/03/2013,"46 Dromard Road, Drimnagh",Dublin,135000.0,No,Drimnagh,Dublin 12,q1,20%
+19/03/2013,"10 Slievemore Road, Drimnagh",Dublin,110000.0,No,Drimnagh,Dublin 12,q1,10%
+21/03/2013,"144 Keeper Road, Drimnagh",Dublin,83000.0,No,Drimnagh,Dublin 12,q1,10%
+22/03/2013,"420 Mourne Road, Drimnagh",Dublin,96000.0,No,Drimnagh,Dublin 12,q1,10%
+28/03/2013,"187 Errigal Road, Drimnagh",Dublin,130000.0,No,Drimnagh,Dublin 12,q1,20%
+24/04/2013,"97 Galtymore Drive, Drimnagh",Dublin,112500.0,No,Drimnagh,Dublin 12,q1,10%
+25/04/2013,"144 Curlew Road, Drimnagh",Dublin,107000.0,No,Drimnagh,Dublin 12,q1,10%
+25/04/2013,"250 Galtymore Road, Drimnagh, Dublin 12",Dublin,130000.0,No,Drimnagh,Dublin 12,q1,20%
+01/05/2013,"24  Mangerton Road, Drimnagh, Dublin 12",Dublin,133000.0,No,Drimnagh,Dublin 12,q1,20%
+10/05/2013,"12  Sperrin Road, Drimnagh",Dublin,107000.0,No,Drimnagh,Dublin 12,q1,10%
+24/05/2013,"332 Galtymore Road, Drimnagh, Dublin 12",Dublin,165000.0,No,Drimnagh,Dublin 12,q2,30%
+24/05/2013,"366 Galtymore Road, Drimnagh, Dublin 12",Dublin,90000.0,No,Drimnagh,Dublin 12,q1,10%
+24/05/2013,"63 Slievenamon Road, Drimnagh",Dublin,126000.0,No,Drimnagh,Dublin 12,q1,20%
+24/05/2013,"99  Galtymore Road, Drimnagh",Dublin,90000.0,No,Drimnagh,Dublin 12,q1,10%
+31/05/2013,"98 Rafters Road, Drimnagh, Dublin",Dublin,148500.0,No,Drimnagh,Dublin 12,q1,30%
+05/06/2013,"165 Cooley Road, Drimnagh",Dublin,185000.0,No,Drimnagh,Dublin 12,q2,40%
+07/06/2013,"135 Mangerton Road, Drimnagh",Dublin,116000.0,No,Drimnagh,Dublin 12,q1,10%
+10/06/2013,"39 Galtymore Park, Drimnagh, Dublin 12",Dublin,150000.0,No,Drimnagh,Dublin 12,q1,30%
+21/06/2013,"150 Mourne Road, Drimnagh",Dublin,152500.0,No,Drimnagh,Dublin 12,q1,30%
+21/06/2013,"36 Kilworth Road, Drimnagh, Dublin 12",Dublin,92000.0,No,Drimnagh,Dublin 12,q1,10%
+21/06/2013,"97 Cooley Road, Drimnagh",Dublin,90000.0,No,Drimnagh,Dublin 12,q1,10%
+25/06/2013,"74 Galtymore Park, Drimnagh, Dublin 12",Dublin,160000.0,No,Drimnagh,Dublin 12,q1,30%
+26/06/2013,"94  Carrow Road, Drimnagh, Dublin 12",Dublin,212000.0,No,Drimnagh,Dublin 12,q2,50%
+27/06/2013,"143 Keeper Road, Drimnagh",Dublin,102000.0,No,Drimnagh,Dublin 12,q1,10%
+28/06/2013,"124 Sperrin Road, Drimnagh, Dublin 12",Dublin,100000.0,No,Drimnagh,Dublin 12,q1,10%
+28/06/2013,"68 Brickfield Drive, Drimnagh",Dublin,165000.0,No,Drimnagh,Dublin 12,q2,30%
+01/07/2013,"119 Errigal Road, Drimnagh, Dublin 12",Dublin,142500.0,No,Drimnagh,Dublin 12,q1,20%
+05/07/2013,"17 Donard Road, Drimnagh",Dublin,89700.0,No,Drimnagh,Dublin 12,q1,10%
+08/07/2013,"28 Slievebloom Park, Drimnagh, Dublin 12",Dublin,125000.0,No,Drimnagh,Dublin 12,q1,20%
+29/07/2013,"57 Lissadel Avenue, Drimnagh",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+30/07/2013,"33 Mourne Road, Drimnagh",Dublin,155000.0,No,Drimnagh,Dublin 12,q1,30%
+13/08/2013,"4 Curlew Road, Drimnagh",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+23/08/2013,"153 Mourne Road, Drimnagh",Dublin,110000.0,No,Drimnagh,Dublin 12,q1,10%
+28/08/2013,"27 Kilworth Road, Drimnagh, Dublin",Dublin,136500.0,No,Drimnagh,Dublin 12,q1,20%
+30/08/2013,"40 Galtymore Close, Drimnagh",Dublin,169500.0,No,Drimnagh,Dublin 12,q2,30%
+30/08/2013,"56 Sperrin Road, Drimnagh, Dublin 12",Dublin,97000.0,No,Drimnagh,Dublin 12,q1,10%
+30/08/2013,"68 Cooley Road, Drimnagh, Dublin",Dublin,136500.0,No,Drimnagh,Dublin 12,q1,20%
+06/09/2013,"208 Carrow Road, Drimnagh",Dublin,165000.0,No,Drimnagh,Dublin 12,q2,30%
+16/09/2013,"165 Errigal Road, Drimnagh",Dublin,137000.0,No,Drimnagh,Dublin 12,q1,20%
+19/09/2013,"8 Curlew Road, Drimnagh, Dublin 12",Dublin,190000.0,No,Drimnagh,Dublin 12,q2,40%
+20/09/2013,"92 Benmadigan Road, Drimnagh",Dublin,120000.0,No,Drimnagh,Dublin 12,q1,20%
+04/10/2013,"174 Benmadigan Road, Drimnagh",Dublin,115000.0,No,Drimnagh,Dublin 12,q1,10%
+15/10/2013,"141 Comeragh Road, Drimnagh, Dublin 12",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+18/10/2013,"90 Cooley Road, Drimnagh",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+22/10/2013,"91 Kilworth Road, Drimnagh",Dublin,161050.0,No,Drimnagh,Dublin 12,q2,30%
+08/11/2013,"44 Benmadigan Road, Drimnagh",Dublin,125000.0,No,Drimnagh,Dublin 12,q1,20%
+14/11/2013,"496 Galtymore Road, Drimnagh, Dublin",Dublin,151000.0,No,Drimnagh,Dublin 12,q1,30%
+15/11/2013,"132 Carrow Road, Drimnagh",Dublin,120000.0,No,Drimnagh,Dublin 12,q1,20%
+19/11/2013,"The Old Presbytery, Mourne Road, Drimnagh",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+20/11/2013,"100 Brandon Rd, Drimnagh, Dublin 12",Dublin,150000.0,No,Drimnagh,Dublin 12,q1,30%
+21/11/2013,"3 Slievemore Road, Drimnagh",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+26/11/2013,"33 Benmadigan Road, Drimnagh, Dublin 12",Dublin,140500.0,No,Drimnagh,Dublin 12,q1,20%
+05/12/2013,"41 Dromard Rd, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+06/12/2013,"19 Keeper Rd, Drimnagh, Dublin 12",Dublin,155550.0,No,Drimnagh,Dublin 12,q1,30%
+06/12/2013,"70 Mangerton Rd, Drimnagh, Dublin 12",Dublin,135000.0,No,Drimnagh,Dublin 12,q1,20%
+12/12/2013,"45 Galtymore Park, Drimnagh",Dublin,123000.0,No,Drimnagh,Dublin 12,q1,20%
+16/12/2013,"281 Cooley Rd, Drimnagh, Dublin 12",Dublin,135000.0,No,Drimnagh,Dublin 12,q1,20%
+19/12/2013,"17C Old Cottages, Raffers Road, Drimnagh",Dublin,139100.0,No,Drimnagh,Dublin 12,q1,20%
+31/12/2013,"16 Dromard Rd, Drimnagh, Dublin 12",Dublin,160000.0,No,Drimnagh,Dublin 12,q1,30%
+22/01/2014,"121 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,160000.0,No,Drimnagh,Dublin 12,q1,30%
+07/02/2014,"73 Benmadigan Rd, Drimnagh, Dublin City",Dublin,176000.0,No,Drimnagh,Dublin 12,q2,40%
+21/02/2014,"47 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,150000.0,No,Drimnagh,Dublin 12,q1,30%
+28/02/2014,"31 Brandon Road, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+03/03/2014,"17B Old Cottages, Raffers Road, Drimnagh",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+14/03/2014,"21 Knocknarea Ave, Drimnagh, Dublin 12",Dublin,175250.0,No,Drimnagh,Dublin 12,q2,40%
+14/03/2014,"81 Cooley Road, Drimnagh",Dublin,155000.0,No,Drimnagh,Dublin 12,q1,30%
+28/03/2014,"47 Kilworth Rd, Drimnagh, Dublin",Dublin,147000.0,No,Drimnagh,Dublin 12,q1,30%
+17/04/2014,"440A Galtymore Road, Drimnagh, Dublin 12",Dublin,139000.0,No,Drimnagh,Dublin 12,q1,20%
+24/04/2014,"Drimnagh Rd, Drimnagh, Dublin 12",Dublin,137500.0,No,Drimnagh,Dublin 12,q1,20%
+29/04/2014,"277 Mourne Rd, Drimnagh, Dublin 12",Dublin,217000.0,No,Drimnagh,Dublin 12,q2,50%
+02/05/2014,"73 Mourne Road, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+08/05/2014,"109 Mourne Rd, Drimnagh, Dublin 12",Dublin,205000.0,No,Drimnagh,Dublin 12,q2,50%
+09/05/2014,"70 Lissadell Dr, Drimnagh, Dublin City",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+14/05/2014,"13 Errigal Rd, Drimnagh, Dublin 12",Dublin,192000.0,No,Drimnagh,Dublin 12,q2,40%
+15/05/2014,"21 Kilworth Rd, Drimnagh, Dublin 12",Dublin,152000.0,No,Drimnagh,Dublin 12,q1,30%
+21/05/2014,"175 Brandon Rd, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q2,50%
+21/05/2014,"36 Dolphin Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+31/05/2014,"20A Slieve Bloom Rd, Drimnagh, Dublin 12",Dublin,205000.0,No,Drimnagh,Dublin 12,q2,50%
+20/06/2014,"17, Rafter'S Road, Drimnagh",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+20/06/2014,"34 Mangerton Rd, Drimnagh, Dublin 12",Dublin,215000.0,No,Drimnagh,Dublin 12,q2,50%
+20/06/2014,"49 Galtymore Close, Drimnagh, Dublin 12",Dublin,252000.0,No,Drimnagh,Dublin 12,q3,70%
+23/06/2014,"118 Mourne Rd, Drimnagh, Dublin 12",Dublin,203000.0,No,Drimnagh,Dublin 12,q2,50%
+24/06/2014,"53 Carrow Road, Drimnagh",Dublin,236000.0,No,Drimnagh,Dublin 12,q3,60%
+26/06/2014,"59 Brandon Rd, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+18/07/2014,"7 Lansdowne Valley, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+22/07/2014,"247 Errigal Rd, Drimnagh, Dublin 12",Dublin,245000.0,No,Drimnagh,Dublin 12,q3,70%
+22/07/2014,"3 Landsdowne Valley Crescent, Kilworth Rd, Drimnagh Dublin 12",Dublin,290000.0,No,Drimnagh,Dublin 12,q4,90%
+23/07/2014,"16 Keeper Rd, Drimnagh, Dublin 12",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+24/07/2014,"133 Drimnagh Road, Drimnagh, Dublin 12",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,60%
+25/07/2014,"90 Sperrin Road, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+01/08/2014,"46 Galtymore Park, Drimnagh, Dublin 12",Dublin,208000.0,No,Drimnagh,Dublin 12,q2,50%
+13/08/2014,"183 Comeragh Road, Drimnagh",Dublin,180000.0,No,Drimnagh,Dublin 12,q2,40%
+13/08/2014,"86 Benbulbin Rd, Drimnagh, Dublin",Dublin,185000.0,No,Drimnagh,Dublin 12,q2,40%
+21/08/2014,"141 Benmadigan Road, Drimnagh, Dublin 12",Dublin,160000.0,No,Drimnagh,Dublin 12,q2,30%
+29/08/2014,"57 Cooley Rd, Drimnagh, Dublin 12",Dublin,160000.0,No,Drimnagh,Dublin 12,q2,30%
+03/09/2014,"158 Carrow Rd, Drimnagh, Dublin 12",Dublin,190000.0,No,Drimnagh,Dublin 12,q2,40%
+04/09/2014,"24 Keeper Road, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+04/09/2014,"7 Benbulbin Ave, Drimnagh, Dublin 12",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+11/09/2014,"325 Galtymore Rd, Drimnagh, Dublin 12",Dublin,134300.0,No,Drimnagh,Dublin 12,q1,20%
+12/09/2014,"93 Drimnagh Rd, Dublin 12, Dublin",Dublin,245000.0,No,Drimnagh,Dublin 12,q3,70%
+18/09/2014,"107 Galtymore Rd, Drimnagh, Dublin 12",Dublin,141500.0,No,Drimnagh,Dublin 12,q1,20%
+22/09/2014,"136 Mourne Rd, Drimnagh, Dublin 12",Dublin,30000.0,No,Drimnagh,Dublin 12,q1,10%
+23/09/2014,"129 Dolphin Rd, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+25/09/2014,"36 Knocknarea Ave, Drimnagh, Dublin 12",Dublin,205000.0,No,Drimnagh,Dublin 12,q2,50%
+29/09/2014,"14 Galtymore Close, Drimnagh, Dublin 12",Dublin,218000.0,No,Drimnagh,Dublin 12,q2,50%
+01/10/2014,"32 Galtymore Park, Drimnagh, Dublin 12",Dublin,265000.0,No,Drimnagh,Dublin 12,q3,80%
+01/10/2014,"6 Dromard Rd, Drimnagh, Dublin 12",Dublin,270000.0,No,Drimnagh,Dublin 12,q3,80%
+01/10/2014,"7 Kilworth Rd, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,40%
+02/10/2014,"12 Benbulbin Avenue, Drimnagh, Dublin 12",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+06/10/2014,"74 Apartments At, Lansdowne Gate, Drimnagh",Dublin,19946964.28,No,Drimnagh,Dublin 12,q4,100%
+06/10/2014,"75 Apartments At, Lansdowne Gate, Drimnagh",Dublin,20216517.86,No,Drimnagh,Dublin 12,q4,100%
+06/10/2014,"75 Apartments At, Lansdowne Gate, Drimnagh",Dublin,20216517.86,No,Drimnagh,Dublin 12,q4,100%
+10/10/2014,"148 Rafters Rd, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+21/10/2014,"17 Benbulbin Rd, Drimnagh, Dublin 12",Dublin,190000.0,No,Drimnagh,Dublin 12,q2,40%
+21/10/2014,"48 Drimnagh Rd, Drimnagh, Dublin 12",Dublin,267000.0,No,Drimnagh,Dublin 12,q3,80%
+24/10/2014,"50 Rafters Rd, Drimnagh, Dublin",Dublin,215000.0,No,Drimnagh,Dublin 12,q2,50%
+24/10/2014,"62 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,112500.0,No,Drimnagh,Dublin 12,q1,10%
+29/10/2014,"44 Lansdowne Valley Apts, Slievebloom Rd, Drimnagh Dublin 12",Dublin,100000.0,No,Drimnagh,Dublin 12,q1,10%
+06/11/2014,"364 Galtymore Rd, Drimnagh, Dublin 12",Dublin,115000.0,No,Drimnagh,Dublin 12,q1,10%
+07/11/2014,"30 Comeragh Rd, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q2,50%
+12/11/2014,"165 Rafters Rd, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+12/11/2014,"269 Errigal Road, Drimnagh",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+19/11/2014,"7C Lansdowne Valley Apts, Slievebloom Rd, Drimnagh Dublin 12",Dublin,132000.0,No,Drimnagh,Dublin 12,q1,20%
+21/11/2014,"55 Cooley Road, Drimnagh",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+25/11/2014,"109 Kilworth Rd, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+27/11/2014,"187 Comeragh Rd, Drimnagh, Dublin 12",Dublin,160000.0,No,Drimnagh,Dublin 12,q2,30%
+28/11/2014,"86 Cashel Ave, Drimnagh, Dublin 12",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+05/12/2014,"6 Rafters Rd, Drimnagh, Dublin 12",Dublin,301000.0,No,Drimnagh,Dublin 12,q4,90%
+09/12/2014,"18 Brandon Rd, Drimnagh, Dublin 12",Dublin,257000.0,No,Drimnagh,Dublin 12,q3,70%
+12/12/2014,"4 Keeper Rd, Drimnagh Rd, Dublin 12",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+18/12/2014,"58 Carrow Rd, Drimnagh, Dublin 12",Dublin,120000.0,No,Drimnagh,Dublin 12,q1,20%
+19/12/2014,"164 Rafters Rd, Drimnagh, Dublin 12",Dublin,211000.0,No,Drimnagh,Dublin 12,q2,50%
+19/12/2014,"280 Galtymore Rd, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+19/12/2014,"68 Knocknarea Avenue, Drimnagh",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+15/01/2015,"151 Kilworth Rd, Drimnagh, Dublin 12",Dublin,225000.0,No,Drimnagh,Dublin 12,q3,60%
+20/01/2015,"21 Mangerton Rd, Drimnagh, Dublin 12",Dublin,255000.0,No,Drimnagh,Dublin 12,q3,70%
+22/01/2015,"67 Drimnagh Rd, Dublin 12, Dublin",Dublin,275100.0,No,Drimnagh,Dublin 12,q4,80%
+28/01/2015,"256 Keeper Rd, Drimnagh, Dublin 12",Dublin,192500.0,No,Drimnagh,Dublin 12,q2,40%
+03/02/2015,"92 Galtymore Drive, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q2,50%
+26/02/2015,"132 Cooley Rd, Drimnagh, Dublin 12",Dublin,198000.0,No,Drimnagh,Dublin 12,q2,50%
+02/03/2015,"93 Mourne Rd, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q2,50%
+04/03/2015,"23 Rafters Rd, Drimnagh, Dublin 12",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+09/03/2015,"552 Mourne Rd, Drimnagh, Dublin 12",Dublin,185000.0,No,Drimnagh,Dublin 12,q2,40%
+10/03/2015,"93 Slievenamon Road, Drimnagh",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,40%
+20/03/2015,"125 Drimnagh Road, Drimnagh, Dublin 12",Dublin,225000.0,No,Drimnagh,Dublin 12,q3,60%
+20/03/2015,"67 A Keeper Rd, Drimnagh, Dublin",Dublin,117500.0,No,Drimnagh,Dublin 12,q1,10%
+23/03/2015,"167 Mangerton Rd, Drimnagh, Dublin 12",Dublin,194000.0,No,Drimnagh,Dublin 12,q2,40%
+26/03/2015,"106 Lissadel Drive, Drimnagh",Dublin,160000.0,No,Drimnagh,Dublin 12,q2,30%
+02/04/2015,"46 Slievebloom Park, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+08/04/2015,"4 Rafters Lane, Drimnagh, Dublin City",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,40%
+10/04/2015,"47 Drimnagh Rd, Dublin 12, Dublin",Dublin,255000.0,No,Drimnagh,Dublin 12,q3,70%
+10/04/2015,"51 Galtymore Rd, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+28/04/2015,"172 Rafter Rd, Drimnagh, Dublin 12",Dublin,207000.0,No,Drimnagh,Dublin 12,q2,50%
+30/04/2015,"10 Galtymore Park, Drimnagh, Dublin 12",Dublin,261000.0,No,Drimnagh,Dublin 12,q3,80%
+30/04/2015,"300 Cooley Rd, Drimnagh, Dublin 12",Dublin,232500.0,No,Drimnagh,Dublin 12,q3,60%
+01/05/2015,"43 Drimnagh Rd, Drimnagh, Dublin 12",Dublin,261000.0,No,Drimnagh,Dublin 12,q3,80%
+14/05/2015,"39 Curlew Rd, Drimnagh, Dublin 12",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+19/05/2015,"363 Galtymore Rd, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,40%
+19/05/2015,"94 Galtymore Rd, Drimnagh, Dublin 12",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+19/05/2015,"97 Cooley Rd, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q2,50%
+22/05/2015,"4 Curlew Rd, Drimnagh, Dublin 12",Dublin,262000.0,No,Drimnagh,Dublin 12,q3,80%
+26/05/2015,"108 Curlew Rd, Drimnagh, Dublin 12",Dublin,159000.0,No,Drimnagh,Dublin 12,q1,30%
+02/06/2015,"200 Carrow Road, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,40%
+05/06/2015,"19 Knocknarea Rd, Drimnagh, Dublin 12",Dublin,190000.0,No,Drimnagh,Dublin 12,q2,40%
+08/06/2015,"62 Slievenamon Rd, Drimnagh, Dublin 12",Dublin,193000.0,No,Drimnagh,Dublin 12,q2,40%
+10/06/2015,"16 Sperrin Rd, Drimnagh Dublin 12, Dublin",Dublin,177000.0,No,Drimnagh,Dublin 12,q2,40%
+18/06/2015,"397 Galtymore Rd, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+19/06/2015,"70 Knocknarea Ave, Drimnagh, Dublin 12",Dublin,233500.0,No,Drimnagh,Dublin 12,q3,60%
+22/06/2015,"62 Drimnagh Rd, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+26/06/2015,"354 Mourne Road, Drimnagh, Dublin 12",Dublin,222000.0,No,Drimnagh,Dublin 12,q3,60%
+29/06/2015,"463 Mourne Rd, Drimnagh Dublin 12, Dublin",Dublin,232000.0,No,Drimnagh,Dublin 12,q3,60%
+03/07/2015,"116 Carrow Rd, Drimnagh, Dublin 12",Dublin,132000.0,No,Drimnagh,Dublin 12,q1,20%
+07/07/2015,"202 Rafters Road, Drimnagh, Dublin 12",Dublin,230000.0,No,Drimnagh,Dublin 12,q3,60%
+07/07/2015,"220 Moorne Rd, Drimnagh, Dublin 12",Dublin,144000.0,No,Drimnagh,Dublin 12,q1,20%
+07/07/2015,"232 Mourne Road, Drimnagh, Dublin 12",Dublin,252000.0,No,Drimnagh,Dublin 12,q3,70%
+08/07/2015,"452 Galtymore Rd, Drimnagh, Dublin 12",Dublin,189000.0,No,Drimnagh,Dublin 12,q2,40%
+10/07/2015,"121 Keeper Rd, Drimnagh, Dublin 12",Dublin,340000.0,No,Drimnagh,Dublin 12,q4,100%
+10/07/2015,"14 Slievebloom, Drimnagh, Dublin 12",Dublin,239000.0,No,Drimnagh,Dublin 12,q3,60%
+18/07/2015,"267 Galtymore Rd, Drimnagh, Dublin 12",Dublin,222000.0,No,Drimnagh,Dublin 12,q3,60%
+22/07/2015,"93 Rafters Rd, Drimnagh, Dublin 12",Dublin,228000.0,No,Drimnagh,Dublin 12,q3,60%
+30/07/2015,"400 Mourne Road, Drimnagh",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,60%
+31/07/2015,"51 Donard Rd, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+05/08/2015,"59 Cooley Rd, Drimnagh, Dublin 12",Dublin,197000.0,No,Drimnagh,Dublin 12,q2,50%
+14/08/2015,"141 Keeper Road, Drimnagh",Dublin,227500.0,No,Drimnagh,Dublin 12,q3,60%
+18/08/2015,"46 Benbulben Rd, Drimnagh, Dublin 12",Dublin,210000.0,No,Drimnagh,Dublin 12,q2,50%
+19/08/2015,"137 Comeragh Rd, Drimnagh, Dublin 12",Dublin,322000.0,No,Drimnagh,Dublin 12,q4,100%
+31/08/2015,"228 Cooley Rd, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+31/08/2015,"48 Rafters Rd, Drimnagh, Dublin 12",Dublin,190000.0,No,Drimnagh,Dublin 12,q2,40%
+01/09/2015,"174 Galtymore Rd, Drimnagh, Dublin 8",Dublin,123333.0,No,Drimnagh,Dublin 12,q1,20%
+04/09/2015,"332 Cooley Rd, Drimnagh, Dublin 12",Dublin,223000.0,No,Drimnagh,Dublin 12,q3,60%
+04/09/2015,"43 Kilworth Rd, Drimnagh, Dublin 12",Dublin,28000.0,No,Drimnagh,Dublin 12,q1,10%
+04/09/2015,"43 Kilworth Rd, Drimnagh, Dublin 12",Dublin,28000.0,No,Drimnagh,Dublin 12,q1,10%
+09/09/2015,"14 Benbulben Rd, Drimnagh, Dublin 12",Dublin,155000.0,No,Drimnagh,Dublin 12,q1,30%
+10/09/2015,"45 Sperrin Rd, Drimnagh, Dublin 12",Dublin,245000.0,No,Drimnagh,Dublin 12,q3,70%
+14/09/2015,"5 Mourne Lodge, Mourne Road, Drimnagh",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+18/09/2015,"104 Rafters Rd, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+25/09/2015,"17 Lansdowne Valley Park, Drimnagh",Dublin,280000.0,No,Drimnagh,Dublin 12,q4,80%
+28/09/2015,"149 Galtymore Rd, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+01/10/2015,"73 Brandon Rd, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+02/10/2015,"40 Sperrin Rd, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,40%
+04/10/2015,"75 Mangerton Rd, Drimnagh, Dublin",Dublin,197000.0,No,Drimnagh,Dublin 12,q2,50%
+08/10/2015,"5 Slievebloom Park, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+09/10/2015,"454 Galtymore Road, Drimnagh",Dublin,194100.0,No,Drimnagh,Dublin 12,q2,40%
+15/10/2015,"66 Galtymore Dr, Drimnagh, Dublin 12",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+20/10/2015,"33 Knocknarea Ave, Drimnagh Dublin 12, Dublin",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,60%
+21/10/2015,"10 Cooley Rd, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,40%
+22/10/2015,"11 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,190000.0,No,Drimnagh,Dublin 12,q2,40%
+30/10/2015,"47 Donard Rd, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q2,50%
+04/11/2015,"289 Mourne Rd, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,50%
+06/11/2015,"19 Lissadel Drive, Drimnagh, Dublin 8",Dublin,157000.0,No,Drimnagh,Dublin 12,q1,30%
+06/11/2015,"35 Sperrin Rd, Drimnagh, Dublin 12",Dublin,190000.0,No,Drimnagh,Dublin 12,q2,40%
+09/11/2015,"22 Galtymore Dr, Drimnagh, Dublin 12",Dublin,197021.0,No,Drimnagh,Dublin 12,q2,50%
+10/11/2015,"16Lissadel Ave, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+12/11/2015,"167 Cooley Road, Drimnagh, Dublin 12",Dublin,255000.0,No,Drimnagh,Dublin 12,q3,70%
+26/11/2015,"132 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,203000.0,No,Drimnagh,Dublin 12,q2,50%
+14/12/2015,"1C Lansdowne Valley, Drimnagh, Dublin 12",Dublin,145000.0,No,Drimnagh,Dublin 12,q1,20%
+14/12/2015,"263 Brandon Rd, Drimnagh, Dublin 12",Dublin,241000.0,No,Drimnagh,Dublin 12,q3,70%
+16/12/2015,"138 Comeragh Rd, Drimnagh, Dublin 12",Dublin,205000.0,No,Drimnagh,Dublin 12,q2,50%
+18/12/2015,"447 Mourne Rd, Drimnagh, Dublin 12",Dublin,194000.0,No,Drimnagh,Dublin 12,q2,40%
+22/12/2015,"142 Rafters Rd, Drimnagh, Dublin 12",Dublin,196000.0,No,Drimnagh,Dublin 12,q2,50%
+22/12/2015,"16 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,187000.0,No,Drimnagh,Dublin 12,q2,40%
+22/12/2015,"189 Brandon Rd, Drimnagh, Dublin 12",Dublin,228400.0,No,Drimnagh,Dublin 12,q3,60%
+12/01/2016,"11 Benbulben Rd, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+15/01/2016,"101 Rafters Rd, Drimnagh, Dublin 12",Dublin,232000.0,No,Drimnagh,Dublin 12,q3,60%
+15/01/2016,"136 Mourne Road, Drimnagh",Dublin,208000.0,No,Drimnagh,Dublin 12,q2,50%
+22/01/2016,"109 Slievemore Road, Drimnagh, Dublin 12",Dublin,165000.0,No,Drimnagh,Dublin 12,q2,30%
+27/01/2016,"56 Benmadigan Road, Drimnagh, Dublin 22",Dublin,180000.0,No,Drimnagh,Dublin 12,q2,40%
+11/02/2016,"230 Galtymore Rd, Drimnagh, Dublin 12",Dublin,58500.0,No,Drimnagh,Dublin 12,q1,10%
+12/02/2016,"89 Dromard Rd, Drimnagh, Dublin 12",Dublin,245000.0,No,Drimnagh,Dublin 12,q3,70%
+16/02/2016,"38 Mangerton Rd, Drimnagh, Dublin 12",Dublin,230000.0,No,Drimnagh,Dublin 12,q3,60%
+15/03/2016,"264 Kilworth Rd, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+16/03/2016,"264 Keeper Rd, Drimnagh, Dublin 12",Dublin,327000.0,No,Drimnagh,Dublin 12,q4,100%
+01/04/2016,"331 Errigal Rd, Drimnagh Dublin 12, Dublin 12",Dublin,207000.0,No,Drimnagh,Dublin 12,q2,50%
+06/04/2016,"32 Errigal Rd, Drimnagh, Dublin 12",Dublin,258000.0,No,Drimnagh,Dublin 12,q3,70%
+06/04/2016,"3Galtymore Close, Drimnagh, Dublin 12",Dublin,223022.0,No,Drimnagh,Dublin 12,q3,60%
+08/04/2016,"382 Galtymore Rd, Drimnagh, Dublin 12",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+28/04/2016,"68 Benbulbin Road, Drimnagh, Dublin 12",Dublin,197000.0,No,Drimnagh,Dublin 12,q2,50%
+03/05/2016,"48 Comeragh Rd, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,50%
+12/05/2016,"60 Brandon Rd, Drimnagh, Dublin 12",Dublin,236000.0,No,Drimnagh,Dublin 12,q3,60%
+17/05/2016,"38 Slievemore Rd, Drimnagh, Dublin 24",Dublin,220000.0,No,Drimnagh,Dublin 12,q3,60%
+18/05/2016,"133 Drimnagh Road, Drimnagh, Dublin 12",Dublin,310000.0,No,Drimnagh,Dublin 12,q4,90%
+18/05/2016,"178 Brandon Rd, Drimnagh, Dublin 12",Dublin,239225.0,No,Drimnagh,Dublin 12,q3,60%
+18/05/2016,"30 Curlew Rd, Drimnagh, Dublin 12",Dublin,205000.0,No,Drimnagh,Dublin 12,q2,50%
+19/05/2016,"159 Mangerton Rd, Drimnagh, Dublin 12",Dublin,241000.0,No,Drimnagh,Dublin 12,q3,70%
+19/05/2016,"64 Dromard Rd, Drimnagh, Dublin 12",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,60%
+31/05/2016,"8 Lansdowne Valley, Drimnagh, Dublin 12",Dublin,146000.0,No,Drimnagh,Dublin 12,q1,30%
+01/06/2016,"48 Galtymore Close, Drimnagh, Dublin 12",Dublin,275000.0,No,Drimnagh,Dublin 12,q4,80%
+09/06/2016,"56 Comeragh Road, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,50%
+10/06/2016,"80 Cooley Rd, Drimnagh, Dublin 12",Dublin,180000.0,No,Drimnagh,Dublin 12,q2,40%
+10/06/2016,"96 Benbulbin Road, Drimnagh, Dublin 12",Dublin,178500.0,No,Drimnagh,Dublin 12,q2,40%
+15/06/2016,"13 Lissadel Rd, Drimnagh, Dublin 12",Dublin,239500.0,No,Drimnagh,Dublin 12,q3,60%
+16/06/2016,"71 Benbulbin Rd, Drimnagh, Dublin 12",Dublin,159000.0,No,Drimnagh,Dublin 12,q1,30%
+17/06/2016,"254 Mourne Rd, Drimnagh, Dublin 12",Dublin,213000.0,No,Drimnagh,Dublin 12,q2,50%
+22/06/2016,"104 Brandon Rd, Drimnagh, Dublin 12",Dublin,254000.0,No,Drimnagh,Dublin 12,q3,70%
+24/06/2016,"246 Kilworth Rd, Drimnagh, Dublin 12",Dublin,212500.0,No,Drimnagh,Dublin 12,q2,50%
+30/06/2016,"136 Curlew Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+01/07/2016,"49 Mourne Rd, Drimnagh, Dublin 12",Dublin,245000.0,No,Drimnagh,Dublin 12,q3,70%
+04/07/2016,"156 Curlew Rd, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,50%
+06/07/2016,"97 Rafters Rd, Drimnagh, Dublin 12",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,60%
+07/07/2016,"19 Lissadel Drive, Drimnagh, Dublin 8",Dublin,224000.0,No,Drimnagh,Dublin 12,q3,60%
+07/07/2016,"34 Dromard Rd, Drimnagh, Dublin 12",Dublin,255000.0,No,Drimnagh,Dublin 12,q3,70%
+07/07/2016,"37 Galtee More Close, Drimnagh, Dublin 12",Dublin,265000.0,No,Drimnagh,Dublin 12,q3,80%
+08/07/2016,"93 Keeper Rd, Drimnagh, Dublin 12",Dublin,225000.0,No,Drimnagh,Dublin 12,q3,60%
+13/07/2016,"166 Carrow Rd, Drimnagh, Dublin",Dublin,180000.0,No,Drimnagh,Dublin 12,q2,40%
+14/07/2016,"204 Rafters Rd, Drimnagh, Dublin",Dublin,190600.0,No,Drimnagh,Dublin 12,q2,40%
+19/07/2016,"65 Mangerton Rd, Drimnagh, Dublin 12",Dublin,243000.0,No,Drimnagh,Dublin 12,q3,70%
+21/07/2016,"96 Errigal Rd, Drimnagh, Dublin 12",Dublin,275000.0,No,Drimnagh,Dublin 12,q4,80%
+26/07/2016,"119 Carrow Rd, Drimnagh, Dublin 12",Dublin,254000.0,No,Drimnagh,Dublin 12,q3,70%
+26/07/2016,"130 Rafters Rd, Drimnagh, Dublin 12",Dublin,190000.0,No,Drimnagh,Dublin 12,q2,40%
+26/07/2016,"204 Brandson Rd, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+26/07/2016,"66 Knocknarea Ave, Drimnagh, Dublin",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+02/08/2016,"37 Rafters Rd, Drimnagh, Dublin 12",Dublin,269900.0,No,Drimnagh,Dublin 12,q3,80%
+03/08/2016,"150 Comeragh Rd, Drimnagh, Dublin 12",Dublin,277000.0,No,Drimnagh,Dublin 12,q4,80%
+09/08/2016,"143 Drimnagh Road, Dublin 12",Dublin,275000.0,No,Drimnagh,Dublin 12,q4,80%
+09/08/2016,"201 Errigal Road, Drimnagh, Dublin 12",Dublin,214000.0,No,Drimnagh,Dublin 12,q2,50%
+09/08/2016,"47, Benbulbin Road, Drimnagh Dublin 12",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,60%
+11/08/2016,"53 Mangerton Rd, Drimnagh, Dublin 12",Dublin,245000.0,No,Drimnagh,Dublin 12,q3,70%
+12/08/2016,"440 Mourne Rd, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+19/08/2016,"233 Errigal Rd, Drimnagh, Dublin 12",Dublin,317000.0,No,Drimnagh,Dublin 12,q4,100%
+19/08/2016,"52 Drimnagh Road, Drimnagh, Dublin 12",Dublin,292000.0,No,Drimnagh,Dublin 12,q4,90%
+19/08/2016,"96 Carrow Rd, Drimnagh, Dublin 12",Dublin,225000.0,No,Drimnagh,Dublin 12,q3,60%
+23/08/2016,"28 Knocknaree Ave, Drimnagh, Dublin 12",Dublin,223000.0,No,Drimnagh,Dublin 12,q3,60%
+23/08/2016,"46 Galtymore Dr, Drimnagh, Dublin",Dublin,262500.0,No,Drimnagh,Dublin 12,q3,80%
+25/08/2016,"88 Mourne Rd, Drimnagh, Dublin 12",Dublin,248000.0,No,Drimnagh,Dublin 12,q3,70%
+30/08/2016,"181 Cooley Rd, Drimnagh, Dublin 12",Dublin,225000.0,No,Drimnagh,Dublin 12,q3,60%
+06/09/2016,"66 Drimnagh Rd, Drimnagh, Dublin 12",Dublin,344000.0,No,Drimnagh,Dublin 12,q4,100%
+14/09/2016,"184 Cooley Rd, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q3,60%
+16/09/2016,"582 Mourne Road, Drimnagh, Dublin 12",Dublin,241500.0,No,Drimnagh,Dublin 12,q3,70%
+16/09/2016,"86 Mourne Rd, Drimnagh, Dublin 12",Dublin,245000.0,No,Drimnagh,Dublin 12,q3,70%
+19/09/2016,"16 Sperrin Rd, Drimnagh Dublin 12, Dublin",Dublin,272000.0,No,Drimnagh,Dublin 12,q3,80%
+28/09/2016,"152 Keeper Rd, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+28/09/2016,"64 Slievenammon Rd, Drimnagh, Dublin 12",Dublin,215000.0,No,Drimnagh,Dublin 12,q2,50%
+30/09/2016,"36 Knocknarea Ave, Drimnagh, Dublin 12",Dublin,94113.51,No,Drimnagh,Dublin 12,q1,10%
+03/10/2016,"17 Kepper Rd, Drimnagh, Dublin 12",Dublin,225000.0,No,Drimnagh,Dublin 12,q3,60%
+04/10/2016,"128 Brandon Rd, Drimnagh, Dublin 12",Dublin,297000.0,No,Drimnagh,Dublin 12,q4,90%
+05/10/2016,"14 Keeper Rd, Drimnagh, Dublin 12",Dublin,242500.0,No,Drimnagh,Dublin 12,q3,70%
+05/10/2016,"22 Carrow Rd, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q3,60%
+06/10/2016,"22 Dromard Rd, Drimnagh, Dublin 12",Dublin,268000.0,No,Drimnagh,Dublin 12,q3,80%
+07/10/2016,"172 Galtymore Rd, Drimnagh, Dublin 12",Dublin,215000.0,No,Drimnagh,Dublin 12,q2,50%
+20/10/2016,"87 Galtymore Rd, Drimnagh, Dublin 12",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+26/10/2016,"408 Galtymore Rd, Drimnagh, Dublin 12",Dublin,258000.0,No,Drimnagh,Dublin 12,q3,70%
+27/10/2016,"286 Galtymore Rd, Drimnagh, Dublin 12",Dublin,242000.0,No,Drimnagh,Dublin 12,q3,70%
+01/11/2016,"51 Kilworth Rd, Drimnagh, Dublin 12",Dublin,350000.0,No,Drimnagh,Dublin 12,q4,100%
+07/11/2016,"58 Errigal Rd, Drimnagh, Dublin 12",Dublin,230000.0,No,Drimnagh,Dublin 12,q3,60%
+11/11/2016,"336 Cooley Rd, Drimnagh, Dublin 12",Dublin,252000.0,No,Drimnagh,Dublin 12,q3,70%
+18/11/2016,"60 Sperrin Rd, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,50%
+21/11/2016,"315 Mourne Rd, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+23/11/2016,"88 Errigal Rd, Drimnagh, Dublin 12",Dublin,266000.0,No,Drimnagh,Dublin 12,q3,80%
+28/11/2016,"403 Galtymore Rd, Drimnagh, Dublin 12",Dublin,215000.0,No,Drimnagh,Dublin 12,q2,50%
+05/12/2016,"20A Slieve Bloom Rd, Drimnagh, Dublin 12",Dublin,735000.0,No,Drimnagh,Dublin 12,q4,100%
+05/12/2016,"88 Slievemore Rd, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q3,60%
+06/12/2016,"105 Slievemore Rd, Drimnagh, Dublin 12",Dublin,236500.0,No,Drimnagh,Dublin 12,q3,60%
+08/12/2016,"170 Rafters Rd Drimnagh, Dublin 12, Dublin",Dublin,91572.12,No,Drimnagh,Dublin 12,q1,10%
+08/12/2016,"170 Rafters Rd Drimnagh, Dublin 12, Dublin",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+14/12/2016,"314 Mourne Rd, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q3,60%
+14/12/2016,"77 Keeper Rd, Drimnagh, Dublin 12",Dublin,237500.0,No,Drimnagh,Dublin 12,q3,60%
+19/12/2016,"3 Lansdowne Valley, Off  Long Mile Road, Drimnagh",Dublin,150050.0,No,Drimnagh,Dublin 12,q1,30%
+20/12/2016,"486 Galtymore Rd, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+21/12/2016,"177 Kilworth Rd, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+21/12/2016,"188 Mourne Rd, Drimnagh, Dublin 12",Dublin,242000.0,No,Drimnagh,Dublin 12,q3,70%
+23/12/2016,"112 Dolphin Road, Drimnagh, Dublin 12",Dublin,245000.0,No,Drimnagh,Dublin 12,q3,70%
+23/12/2016,"34A - Lansdowne Valley, Slieve Bloom Road, Drimnagh",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+10/01/2017,"137 Keeper Rd, Drimnagh, Dublin 12",Dublin,230000.0,No,Drimnagh,Dublin 12,q3,60%
+27/01/2017,"37 Galtymore Dr, Drimnagh, Dublin 12",Dublin,257500.0,No,Drimnagh,Dublin 12,q3,70%
+31/01/2017,"576 Mourne Road, Drimnagh, Dublin 12",Dublin,335000.0,No,Drimnagh,Dublin 12,q4,100%
+02/02/2017,"262 Cooley Rd, Drimnagh, Dublin 12",Dublin,106600.0,No,Drimnagh,Dublin 12,q1,10%
+09/02/2017,"193 Cooley Rd, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+10/02/2017,"11 Kilworth Road, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+10/02/2017,"183 Mourne Road, Drimnagh, Dublin 12",Dublin,205000.0,No,Drimnagh,Dublin 12,q2,50%
+13/02/2017,"61 Mourne Road, Drimnagh, Dublin 12",Dublin,271000.0,No,Drimnagh,Dublin 12,q3,80%
+13/02/2017,"70 Brandon Rd, Drimnagh, Dublin 12",Dublin,156000.0,No,Drimnagh,Dublin 12,q1,30%
+15/02/2017,"322 Galtymore Rd, Drimnagh, Dublin City",Dublin,232000.0,No,Drimnagh,Dublin 12,q3,60%
+17/02/2017,"252 Mourne Rd, Drimnagh, Dublin 12",Dublin,243000.0,No,Drimnagh,Dublin 12,q3,70%
+22/02/2017,"117 Errigal Rd, Drimnagh, Dublin 12",Dublin,247000.0,No,Drimnagh,Dublin 12,q3,70%
+01/03/2017,"114 Rafter'S Road, Drimnagh, Dublin 12",Dublin,230000.0,No,Drimnagh,Dublin 12,q3,60%
+03/03/2017,"55 Lissadel Ave, Drimnagh, Dublin 12",Dublin,224000.0,No,Drimnagh,Dublin 12,q3,60%
+10/03/2017,"56 Galtymore Rd, Drimnagh, Dublin 12",Dublin,237000.0,No,Drimnagh,Dublin 12,q3,60%
+14/03/2017,"215 Mourne Rd, Drimnagh, Dublin 12",Dublin,248000.0,No,Drimnagh,Dublin 12,q3,70%
+20/03/2017,"Apt 18C, Landsdowne Valley, Drimnagh",Dublin,170000.0,No,Drimnagh,Dublin 12,q2,30%
+23/03/2017,"135 Cooley Rd, Drimnagh, Dublin",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+24/03/2017,"84 Mangerton Rd, Drimnagh, Dublin 12",Dublin,283000.0,No,Drimnagh,Dublin 12,q4,80%
+31/03/2017,"71B Galtymore Rd, Drimnagh, Dublin 12",Dublin,271000.0,No,Drimnagh,Dublin 12,q3,80%
+04/04/2017,"141 Drimnagh Rd, Drimnagh, Dublin 12",Dublin,334000.0,No,Drimnagh,Dublin 12,q4,100%
+13/04/2017,"35 Carrow Rd, Drimnagh, Dublin 12",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,60%
+19/04/2017,"214C Kilworth Rd, Drimnagh, Dublin 12",Dublin,306000.0,No,Drimnagh,Dublin 12,q4,90%
+21/04/2017,"273 Mourne Rd Drimnagh, Dublin 12, Dublin",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,60%
+24/04/2017,"223 Brandon Rd, Drimnagh, Dublin 12",Dublin,347810.0,No,Drimnagh,Dublin 12,q4,100%
+28/04/2017,"83 Errigal Rd, Drimnagh, Dublin 12",Dublin,261000.0,No,Drimnagh,Dublin 12,q3,80%
+05/05/2017,"165 Mangerton Rd, Drimnagh, Dublin 12",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,70%
+08/05/2017,"173 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+09/05/2017,"4 Comeragh Rd, Drimnagh, Dublin 12",Dublin,256000.0,No,Drimnagh,Dublin 12,q3,70%
+10/05/2017,"107 Comeragh Rd, Drimnagh, Dublin 12",Dublin,267500.0,No,Drimnagh,Dublin 12,q3,80%
+11/05/2017,"64 Knocknarea Ave, Drimnagh, Dublin 12",Dublin,287000.0,No,Drimnagh,Dublin 12,q4,80%
+18/05/2017,"41 Galtymore Drive, Drimnagh, Dublin 12",Dublin,281000.0,No,Drimnagh,Dublin 12,q4,80%
+19/05/2017,"374 Mourne Rd, Drimnagh, Dublin 12",Dublin,290000.0,No,Drimnagh,Dublin 12,q4,90%
+24/05/2017,"81 Errigal Road, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+29/05/2017,"127 Brandon Rd, Drimnagh, Dublin 12",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,70%
+12/06/2017,"103 Slievemore Rd, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+22/06/2017,"328 Galtymore Rd, Drimnagh, Dublin 12",Dublin,251000.0,No,Drimnagh,Dublin 12,q3,70%
+26/06/2017,"89 Donard Rd, Drimnagh, Dublin 12",Dublin,320000.0,No,Drimnagh,Dublin 12,q4,100%
+04/07/2017,"174 Curlew Rd, Drimnagh, Dublin 12",Dublin,288000.0,No,Drimnagh,Dublin 12,q4,80%
+05/07/2017,"18 Benbulbin Ave, Drimnagh, Dublin 12",Dublin,251000.0,No,Drimnagh,Dublin 12,q3,70%
+05/07/2017,"73 Galtymore Dr, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q3,60%
+12/07/2017,"297 Errigal Rd, Drimnagh, Dublin 12",Dublin,306500.0,No,Drimnagh,Dublin 12,q4,90%
+12/07/2017,"91 Brandon Rd, Drimnagh, Dublin 12",Dublin,325000.0,No,Drimnagh,Dublin 12,q4,100%
+13/07/2017,"150 Mangerton Rd, Drimnagh, Dublin 12",Dublin,345000.0,No,Drimnagh,Dublin 12,q4,100%
+13/07/2017,"63 Brandon Rd, Drimnagh, Dublin 12",Dublin,256000.0,No,Drimnagh,Dublin 12,q3,70%
+18/07/2017,"31 C Lansdowne Valley, Slievebloom Rd, Drimnagh Dublin 12",Dublin,157500.0,No,Drimnagh,Dublin 12,q1,30%
+20/07/2017,"41C Landsdowne Valley, Drimnagh, Dublin 12",Dublin,192000.0,No,Drimnagh,Dublin 12,q2,40%
+20/07/2017,"58 Slievenamon Rd, Drimnagh, Dublin 12",Dublin,242000.0,No,Drimnagh,Dublin 12,q3,70%
+21/07/2017,"147 Rafters Rd, Drimnagh, Dublin 12",Dublin,232500.0,No,Drimnagh,Dublin 12,q3,60%
+28/07/2017,"152 Comeragh Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+28/07/2017,"73 Benmadigan Rd, Drimnagh, Dublin City",Dublin,287000.0,No,Drimnagh,Dublin 12,q4,80%
+31/07/2017,"60 Comeragh Rd, Drimnagh, Dublin 12",Dublin,317000.0,No,Drimnagh,Dublin 12,q4,100%
+31/07/2017,"84 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,302000.0,No,Drimnagh,Dublin 12,q4,90%
+02/08/2017,"110 Comeragh Rd, Drimnagh, Dublin 12",Dublin,281000.0,No,Drimnagh,Dublin 12,q4,80%
+02/08/2017,"29 Carrow Rd, Drimnagh, Dublin 12",Dublin,76500.0,No,Drimnagh,Dublin 12,q1,10%
+15/08/2017,"51 Galtymore Dr, Drimnagh, Dublin 12",Dublin,270000.0,No,Drimnagh,Dublin 12,q3,80%
+18/08/2017,"257 Mourne Road, Drimnagh, Dublin 12",Dublin,272000.0,No,Drimnagh,Dublin 12,q3,80%
+25/08/2017,"105 Mourne Road, Drimnagh, Dublin 12",Dublin,366250.0,No,Drimnagh,Dublin 12,q4,100%
+31/08/2017,"84 Sperrin Rd, Drimnagh, Dublin 12",Dublin,244000.0,No,Drimnagh,Dublin 12,q3,70%
+04/09/2017,"63 Benbulbin Rd, Drimnagh, Dublin 12",Dublin,280500.0,No,Drimnagh,Dublin 12,q4,80%
+15/09/2017,"19 Kilworth Rd, Drimnagh, Dublin 12",Dublin,293000.0,No,Drimnagh,Dublin 12,q4,90%
+03/10/2017,"17 Kepper Rd, Drimnagh, Dublin 12",Dublin,395150.0,No,Drimnagh,Dublin 12,q4,100%
+05/10/2017,"4 Mangerton Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+10/10/2017,"128 Sperrin Rd, Drimnagh, Dublin 12",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+13/10/2017,"44 Lissadel Dr, Drimnagh, Dublin 12",Dublin,188000.0,No,Drimnagh,Dublin 12,q2,40%
+18/10/2017,"171 Kilworth Rd, Drimnagh, Dublin",Dublin,292000.0,No,Drimnagh,Dublin 12,q4,90%
+18/10/2017,"422 Galtymore Rd, Drimnagh, Dublin 12",Dublin,242200.0,No,Drimnagh,Dublin 12,q3,70%
+19/10/2017,"23 Lissadel Ave, Drimnagh, Dublin 12",Dublin,316542.0,No,Drimnagh,Dublin 12,q4,100%
+20/10/2017,"56 Galtymore Dr, Drimnagh, Dublin 12",Dublin,276000.0,No,Drimnagh,Dublin 12,q4,80%
+26/10/2017,"30 Dromard Rd, Drimnagh, Dublin 12",Dublin,345000.0,No,Drimnagh,Dublin 12,q4,100%
+27/10/2017,"16 Sperrin Rd, Drimnagh Dublin 12, Dublin",Dublin,315000.0,No,Drimnagh,Dublin 12,q4,100%
+27/10/2017,"55 Kilworth Rd, Drimnagh, Dublin 12",Dublin,337000.0,No,Drimnagh,Dublin 12,q4,100%
+01/11/2017,"106 Lissadel Dr, Drimnagh, Dublin 12",Dublin,310000.0,No,Drimnagh,Dublin 12,q4,90%
+09/11/2017,"109 Sperrin Rd, Drimnagh, Dublin 12",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+10/11/2017,"2 Rafters Rd, Drimnagh, Dublin 12",Dublin,153333.0,No,Drimnagh,Dublin 12,q1,30%
+20/11/2017,"129 Sperrin Rd, Drimnagh, Dublin 12",Dublin,200000.0,No,Drimnagh,Dublin 12,q2,50%
+20/11/2017,"247 Cooley Rd, Drimnagh, Dublin 12",Dublin,302000.0,No,Drimnagh,Dublin 12,q4,90%
+23/11/2017,"190 Keeper Rd, Drimnagh, Dublin 12",Dublin,356000.0,No,Drimnagh,Dublin 12,q4,100%
+28/11/2017,"77 Mourne Rd, Drimnagh, Dublin 12",Dublin,291000.0,No,Drimnagh,Dublin 12,q4,90%
+30/11/2017,"19 Benbulbin Avenue, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+10/12/2017,"51 C, Lansdowne Valley, Drimnagh Dublin 12",Dublin,191000.0,No,Drimnagh,Dublin 12,q2,40%
+13/12/2017,"200 Brandon Rd, Drimnagh Dublin 12, Dublin",Dublin,330000.0,No,Drimnagh,Dublin 12,q4,100%
+18/12/2017,"115 Sperrin Rd, Drimnagh, Dublin 12",Dublin,264000.0,No,Drimnagh,Dublin 12,q3,80%
+19/12/2017,"179 Errigal Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+20/12/2017,"1 Kilworth Road, Drimnagh, Dublin 12",Dublin,264000.0,No,Drimnagh,Dublin 12,q3,80%
+20/12/2017,"1 Slievenamon Rd, Drimnagh, Dublin 12",Dublin,285000.0,No,Drimnagh,Dublin 12,q4,80%
+20/12/2017,"82 Lissadel Dr, Drimnagh, Dublin",Dublin,320000.0,No,Drimnagh,Dublin 12,q4,100%
+21/12/2017,"1A Slievenamon Road, Drimnagh, Dublin 12",Dublin,290000.0,No,Drimnagh,Dublin 12,q4,90%
+08/01/2018,"410 Galtymore Rd, Drimnagh, Dublin 12",Dublin,310000.0,No,Drimnagh,Dublin 12,q4,90%
+12/01/2018,"27C Landsdowne Valley, Slievebloom Rd, Drimnagh",Dublin,213000.0,No,Drimnagh,Dublin 12,q2,50%
+12/01/2018,"65 Lisdale Ave, Drimnagh, Dublin 12",Dublin,265000.0,No,Drimnagh,Dublin 12,q3,80%
+16/01/2018,"5 St Marys Park, Drimnagh, Dublin 12",Dublin,416000.0,No,Drimnagh,Dublin 12,q4,100%
+19/01/2018,"7 Curlew Rd, Drimnagh, Dublin 12",Dublin,280000.0,No,Drimnagh,Dublin 12,q4,80%
+30/01/2018,"79 Slievenamon Rd, Drimnagh, Dublin 12",Dublin,305000.0,No,Drimnagh,Dublin 12,q4,90%
+02/02/2018,"158 Dolphin Rd, Drimnagh, Dublin 12",Dublin,360000.0,No,Drimnagh,Dublin 12,q4,100%
+06/02/2018,"202 Carrow Rd, Drimnagh, Dublin 12",Dublin,302000.0,No,Drimnagh,Dublin 12,q4,90%
+26/02/2018,"16 Benbulbin Rd, Drimnagh, Dublin 12",Dublin,290000.0,No,Drimnagh,Dublin 12,q4,90%
+06/03/2018,"53 Lissadel Dr, Drimnagh, Dublin 12",Dublin,255000.0,No,Drimnagh,Dublin 12,q3,70%
+07/03/2018,"34C Lansdowne Valley Apartments, Drimnagh, Dublin 12",Dublin,175000.0,No,Drimnagh,Dublin 12,q2,40%
+12/03/2018,"95 Mourne Rd, Drimnagh, Dublin 12",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+13/03/2018,"99 Carrow Road, Drimnagh, Dublin 12",Dublin,325000.0,No,Drimnagh,Dublin 12,q4,100%
+14/03/2018,"172 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+15/03/2018,"122 Comeragh Rd, Drimnagh, Dublin 12",Dublin,301000.0,No,Drimnagh,Dublin 12,q4,90%
+15/03/2018,"152 Mourne Rd, Drimnagh, Dublin 12",Dublin,340000.0,No,Drimnagh,Dublin 12,q4,100%
+23/03/2018,"49 Kilworth Rd, Drimnagh, Dublin 12",Dublin,237000.0,No,Drimnagh,Dublin 12,q3,60%
+23/03/2018,"Apt 10 Lansdowne Valley, Slieve Bloom Rd, Drimnagh Dublin 12",Dublin,180000.0,No,Drimnagh,Dublin 12,q2,40%
+26/03/2018,"61 Errigal Rd, Drimnagh, Dublin 12",Dublin,280000.0,No,Drimnagh,Dublin 12,q4,80%
+29/03/2018,"2 Drimnagh View, Loughshinny",Dublin,495000.0,Yes,Drimnagh,Dublin 12,q4,100%
+13/04/2018,"104 Cooley Rd, Drimnagh, Dublin 12",Dublin,298000.0,No,Drimnagh,Dublin 12,q4,90%
+17/04/2018,"496 Mourne Rd, Drimnagh, Dublin 12",Dublin,263775.0,No,Drimnagh,Dublin 12,q3,80%
+18/04/2018,"130 Errigal Rd, Drimnagh, Dublin 12",Dublin,315000.0,No,Drimnagh,Dublin 12,q4,100%
+25/04/2018,"159 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,265000.0,No,Drimnagh,Dublin 12,q3,80%
+25/04/2018,"506 Galtymore Rd, Drimnagh, Dublin 12",Dublin,315000.0,No,Drimnagh,Dublin 12,q4,100%
+27/04/2018,"244 Kilworth Road, Drimnagh, Dublin 12",Dublin,230000.0,No,Drimnagh,Dublin 12,q3,60%
+10/05/2018,"110 Curlew Rd, Drimnagh, Dublin 12",Dublin,305000.0,No,Drimnagh,Dublin 12,q4,90%
+11/05/2018,"122 Mourne Rd, Drimnagh, Dublin 12",Dublin,355000.0,No,Drimnagh,Dublin 12,q4,100%
+15/05/2018,"37 St Marys Dr, Drimnagh Dublin 12, Dublin",Dublin,368000.0,No,Drimnagh,Dublin 12,q4,100%
+17/05/2018,"4A Lansdowre Valley Apts, Drimnagh, Dublin 12",Dublin,215000.0,No,Drimnagh,Dublin 12,q2,50%
+18/05/2018,"99 Dromard Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+23/05/2018,"130 Comeragh, Drimnagh, Dublin 12",Dublin,325000.0,No,Drimnagh,Dublin 12,q4,100%
+24/05/2018,"13 Comeragh Rd, Drimnagh, Dublin 12",Dublin,280000.0,No,Drimnagh,Dublin 12,q4,80%
+24/05/2018,"227 Brandon Rd, Drimnagh, Dublin 12",Dublin,278000.0,No,Drimnagh,Dublin 12,q4,80%
+14/06/2018,"102 Sperrin Rd, Drimnagh, Dublin 12",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+15/06/2018,"30 A Lansdown Valley, Drimnagh, Dublin 12",Dublin,173644.32,No,Drimnagh,Dublin 12,q2,40%
+22/06/2018,"46 Curlew Rd, Drimnagh, Dublin 12",Dublin,280000.0,No,Drimnagh,Dublin 12,q4,80%
+25/06/2018,"59 Errigal Rd, Drimnagh, Dublin 12",Dublin,320000.0,No,Drimnagh,Dublin 12,q4,100%
+26/06/2018,"206 Brandon Rd, Drimnagh, Dublin 8",Dublin,290000.0,No,Drimnagh,Dublin 12,q4,90%
+26/06/2018,"47 Slievenamon Road, Drimnagh, Dublin 12",Dublin,314500.0,No,Drimnagh,Dublin 12,q4,100%
+09/07/2018,"10 Lissadel Ave, Drimnagh, Dublin City",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+10/07/2018,"23 Rafters Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+10/07/2018,"5 Keeper Rd, Drimnagh, Dublin 12",Dublin,315000.0,No,Drimnagh,Dublin 12,q4,100%
+11/07/2018,"172 Galtymore Rd, Drimnagh, Dublin 12",Dublin,270000.0,No,Drimnagh,Dublin 12,q3,80%
+17/07/2018,"34 Comeragh Rd, Drimnagh, Dublin 12",Dublin,302000.0,No,Drimnagh,Dublin 12,q4,90%
+17/07/2018,"42 Slievebloom Park, Drimnagh, Dublin 12",Dublin,352000.0,No,Drimnagh,Dublin 12,q4,100%
+18/07/2018,"62 Cooley Rd, Drimnagh, Dublin 12",Dublin,265000.0,No,Drimnagh,Dublin 12,q3,80%
+27/07/2018,"40 Donard Rd, Drimnagh, Dublin 12",Dublin,310000.0,No,Drimnagh,Dublin 12,q4,90%
+30/07/2018,"21 Errigal Rd, Drimnagh, Dublin 12",Dublin,291257.0,No,Drimnagh,Dublin 12,q4,90%
+30/07/2018,"76 Benbulben Rd, Drimnagh, Dublin 12",Dublin,275000.0,No,Drimnagh,Dublin 12,q4,80%
+30/07/2018,"81 Errigal Road, Drimnagh, Dublin 12",Dublin,324000.0,No,Drimnagh,Dublin 12,q4,100%
+03/08/2018,"10 Dromard Rd, Drimnagh, Dublin 12",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+10/08/2018,"285 Mourne Rd, Drimnagh, Dublin 12",Dublin,351000.0,No,Drimnagh,Dublin 12,q4,100%
+10/08/2018,"36 Dolphin Rd, Drimnagh, Dublin 12",Dublin,470000.0,No,Drimnagh,Dublin 12,q4,100%
+17/08/2018,"19 Sperrin Rd, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+22/08/2018,"257 Brandon Rd, Drimnagh, Dublin 12",Dublin,315000.0,No,Drimnagh,Dublin 12,q4,100%
+23/08/2018,"17 Lissadel Ave, Drimnagh, Dublin",Dublin,385000.0,No,Drimnagh,Dublin 12,q4,100%
+03/09/2018,"26 Sperrin Rd, Drimnagh, Dublin 12",Dublin,301027.0,No,Drimnagh,Dublin 12,q4,90%
+05/09/2018,"494 Mourne Rd, Drimnagh, Dublin 12",Dublin,299000.0,No,Drimnagh,Dublin 12,q4,90%
+05/09/2018,"90 Rafters Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+07/09/2018,"107 Errigal Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+07/09/2018,"33 Dromard Rd, Drimnagh, Dublin 12",Dublin,312000.0,No,Drimnagh,Dublin 12,q4,90%
+14/09/2018,"109 Dolphin Rd, Drimnagh, Dublin 12",Dublin,305000.0,No,Drimnagh,Dublin 12,q4,90%
+14/09/2018,"3 Lissadel Dr, Drimnagh, Dublin",Dublin,280000.0,No,Drimnagh,Dublin 12,q4,80%
+18/09/2018,"140 Mourne Rd, Drimnagh, Dublin 12",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,70%
+25/09/2018,"7 Slievebloom Rd, Drimnagh, Dublin 12",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+01/10/2018,"46 Donard Rd, Drimnagh, Dublin 12",Dublin,295500.0,No,Drimnagh,Dublin 12,q4,90%
+01/10/2018,"82 Mangerton Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+12/10/2018,"107 Keeper Rd, Drimnagh, Dublin 12",Dublin,325000.0,No,Drimnagh,Dublin 12,q4,100%
+16/10/2018,"16 Benbulbin Ave, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+19/10/2018,"4 Sperrin Rd, Drimnagh, Dublin 12",Dublin,289000.0,No,Drimnagh,Dublin 12,q4,80%
+24/10/2018,"182 Brandon Rd, Drimnagh, Dublin 12",Dublin,285000.0,No,Drimnagh,Dublin 12,q4,80%
+24/10/2018,"216 Galtymore Road, Drimnagh, Dublin 12",Dublin,310000.0,No,Drimnagh,Dublin 12,q4,90%
+26/10/2018,"5 Mangerton Rd, Drimnagh, Dublin",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+02/11/2018,"319 Galtymore Rd, Drimnagh, Dublin 12",Dublin,312000.0,No,Drimnagh,Dublin 12,q4,90%
+06/11/2018,"255 Cooley Rd, Drimnagh, Dublin 12",Dublin,304000.0,No,Drimnagh,Dublin 12,q4,90%
+07/11/2018,"263 Errigal Rd, Drimnagh, Dublin 12",Dublin,305000.0,No,Drimnagh,Dublin 12,q4,90%
+08/11/2018,"83 Kilworth Rd, Drimnagh, Dublin 12",Dublin,271500.0,No,Drimnagh,Dublin 12,q3,80%
+13/11/2018,"152 Curlew Rd, Drimnagh, Dublin 12",Dublin,330000.0,No,Drimnagh,Dublin 12,q4,100%
+16/11/2018,"34 Slievemore Rd, Drimnagh, Dublin 12",Dublin,350000.0,No,Drimnagh,Dublin 12,q4,100%
+19/11/2018,"285 Galtymore Rd, Drimnagh, Dublin 12",Dublin,280000.0,No,Drimnagh,Dublin 12,q4,80%
+22/11/2018,"149 Mangerton Rd, Drimnagh, Dublin 12",Dublin,265000.0,No,Drimnagh,Dublin 12,q3,80%
+27/11/2018,"17 Mangerton Rd, Drimnagh, Dublin 12",Dublin,315000.0,No,Drimnagh,Dublin 12,q4,100%
+27/11/2018,"40 Drimnagh Rd, Dublin 12",Dublin,475000.0,No,Drimnagh,Dublin 12,q4,100%
+28/11/2018,"48 Drimnagh Rd, Drimnagh, Dublin 12",Dublin,410000.0,No,Drimnagh,Dublin 12,q4,100%
+29/11/2018,"1 Galtymore Park, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+03/12/2018,"86 Lissadel Rd, Drimnagh, Dublin 12",Dublin,310000.0,No,Drimnagh,Dublin 12,q4,90%
+04/12/2018,"15 Donard Rd, Drimnagh, Dublin 12",Dublin,296000.0,No,Drimnagh,Dublin 12,q4,90%
+10/12/2018,"103 Benmadigan Road, Drimnagh, Dublin 12",Dublin,267000.0,No,Drimnagh,Dublin 12,q3,80%
+12/12/2018,"8 Curlew Rd, Drimnagh, Dublin 12",Dublin,315000.0,No,Drimnagh,Dublin 12,q4,100%
+17/12/2018,"196 Cooley Rd, Drimnagh, Dublin 12",Dublin,269000.0,No,Drimnagh,Dublin 12,q3,80%
+18/12/2018,"271 Mourne Road, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q3,60%
+19/12/2018,"113 Comeragh Rd, Drimnagh, Dublin 12",Dublin,292030.0,No,Drimnagh,Dublin 12,q4,90%
+21/12/2018,"118 Dolphin Rd, Drimnagh, Dublin 12",Dublin,57000.0,No,Drimnagh,Dublin 12,q1,10%
+08/01/2019,"278 Mourne Rd, Drimnagh, Dublin City",Dublin,400000.0,No,Drimnagh,Dublin 12,q4,100%
+21/01/2019,"346 Cooley Rd, Drimnagh Dublin 12, Dublin",Dublin,355000.0,No,Drimnagh,Dublin 12,q4,100%
+22/01/2019,"131 Brandon Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+23/01/2019,"127 Galtymore Rd, Drimnagh, Dublin 8",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+24/01/2019,"158 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,267000.0,No,Drimnagh,Dublin 12,q3,80%
+30/01/2019,"11 Sperrin Rd, Drimnagh, Dublin 12",Dublin,316000.0,No,Drimnagh,Dublin 12,q4,100%
+31/01/2019,"134 Rafters Rd, Drimnagh, Dublin 12",Dublin,298000.0,No,Drimnagh,Dublin 12,q4,90%
+31/01/2019,"221 Errigal Rd, Drimnagh, Dublin 12",Dublin,255000.0,No,Drimnagh,Dublin 12,q3,70%
+04/02/2019,"228 Mourne Rd, Drimnagh, Dublin 12",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+08/02/2019,"171 Comeragh Rd, Drimnagh, Dublin 12",Dublin,285000.0,No,Drimnagh,Dublin 12,q4,80%
+13/02/2019,"35 Lissadel Rd, Drimnagh, Dublin",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+14/02/2019,"160 Carrow Rd, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+14/02/2019,"77 Slievemore Rd, Drimnagh, Dublin 12",Dublin,255000.0,No,Drimnagh,Dublin 12,q3,70%
+15/02/2019,"324 Galtymore Rd, Drimnagh, Dublin 12",Dublin,310000.0,No,Drimnagh,Dublin 12,q4,90%
+20/02/2019,"165A Cooley Rd, Drimnagh, Dublin 12",Dublin,335000.0,No,Drimnagh,Dublin 12,q4,100%
+22/02/2019,"16A Rafters Rd, Drimnagh, Dublin 12",Dublin,290000.0,No,Drimnagh,Dublin 12,q4,90%
+22/02/2019,"17 Benbulbin Rd, Drimnagh, Dublin 12",Dublin,276000.0,No,Drimnagh,Dublin 12,q4,80%
+22/02/2019,"28 Drimnagh Rd, Drimnagh, Dublin 12",Dublin,275000.0,No,Drimnagh,Dublin 12,q4,80%
+25/02/2019,"25 Knocknarea Road, Drimnagh, Dublin 12",Dublin,290000.0,No,Drimnagh,Dublin 12,q4,90%
+01/03/2019,"145 Keeper Rd, Drimnagh, Dublin 12",Dublin,360000.0,No,Drimnagh,Dublin 12,q4,100%
+08/03/2019,"23 Lansdowne Valley Park, Drimnagh, Dublin 12",Dublin,350000.0,No,Drimnagh,Dublin 12,q4,100%
+13/03/2019,"230 Cooley Rd, Drimnagh, Dublin 12",Dublin,240000.0,No,Drimnagh,Dublin 12,q3,70%
+14/03/2019,"9C Landsdowne Valley, Drimnagh, Dublin 12",Dublin,165000.0,No,Drimnagh,Dublin 12,q2,30%
+25/03/2019,"270 Kilworth Rd, Drimnagh, Dublin 12",Dublin,340000.0,No,Drimnagh,Dublin 12,q4,100%
+25/03/2019,"98 Brandon Rd, Drimnagh, Dublin 12",Dublin,307500.0,No,Drimnagh,Dublin 12,q4,90%
+28/03/2019,"15 Comeragh Rd, Drimnagh, Dublin 12",Dublin,380000.0,No,Drimnagh,Dublin 12,q4,100%
+29/03/2019,"267 Brandon Rd, Drimnagh, Dublin 12",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+29/03/2019,"65 Kilworth Rd, Drimnagh, Dublin 12",Dublin,325000.0,No,Drimnagh,Dublin 12,q4,100%
+03/04/2019,"224 Cooley Rd Drimnagh, Dublin 12, Dublin",Dublin,279000.0,No,Drimnagh,Dublin 12,q4,80%
+08/04/2019,"28 Slievemore Road, Drimnagh, Dublin 12",Dublin,210000.0,No,Drimnagh,Dublin 12,q2,50%
+12/04/2019,"103 Mourne Rd, Drimnagh, Dublin 12",Dublin,265000.0,No,Drimnagh,Dublin 12,q3,80%
+12/04/2019,"33 Lissadel Rd, Drimnagh, Dublin 12",Dublin,312000.0,No,Drimnagh,Dublin 12,q4,100%
+15/04/2019,"5 Galtymore Park, Drimnagh, Dublin 12",Dublin,216000.0,No,Drimnagh,Dublin 12,q2,50%
+17/04/2019,"105 Dromard Rd, Drimnagh, Dublin 12",Dublin,195000.0,No,Drimnagh,Dublin 12,q2,50%
+30/04/2019,"377 Mourne Rd, Drimnagh, Dublin 12",Dublin,335000.0,No,Drimnagh,Dublin 12,q4,100%
+02/05/2019,"156 Cooley Rd, Drimnagh, Dublin 12",Dublin,255000.0,No,Drimnagh,Dublin 12,q3,70%
+07/05/2019,"70 Benbulbin Rd, Drimnagh, Dublin 12",Dublin,300000.0,No,Drimnagh,Dublin 12,q4,90%
+13/05/2019,"19 Bluebell Rd, Drimnagh, Dublin 12",Dublin,290000.0,No,Drimnagh,Dublin 12,q4,90%
+21/05/2019,"31 Carrow Rd, Drimnagh, Dublin 12",Dublin,277500.0,No,Drimnagh,Dublin 12,q4,80%
+23/05/2019,"309 Errigal Rd, Drimnagh, Dublin 12",Dublin,275000.0,No,Drimnagh,Dublin 12,q4,80%
+24/05/2019,"1 Rafter'S Road, Drimnagh, Dublin 12",Dublin,233340.0,No,Drimnagh,Dublin 12,q3,60%
+24/05/2019,"39 Carrow Rd, Drimnagh, Dublin 12",Dublin,270000.0,No,Drimnagh,Dublin 12,q3,80%
+29/05/2019,"130 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,140000.0,No,Drimnagh,Dublin 12,q1,20%
+29/05/2019,"463 Mourne Rd, Drimnagh Dublin 12, Dublin",Dublin,362000.0,No,Drimnagh,Dublin 12,q4,100%
+31/05/2019,"7 Dromard Rd, Drimnagh, Dublin 12",Dublin,340000.0,No,Drimnagh,Dublin 12,q4,100%
+05/06/2019,"98 Comeragh Rd, Drimnagh, Dublin 12",Dublin,220000.0,No,Drimnagh,Dublin 12,q3,60%
+07/06/2019,"89 Galtymore Dr, Drimnagh, Dublin 12",Dublin,320000.0,No,Drimnagh,Dublin 12,q4,100%
+11/06/2019,"135 Mangerton Road, Drimnagh, Dublin 12",Dublin,292000.0,No,Drimnagh,Dublin 12,q4,90%
+13/06/2019,"236 Mourne Rd, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+13/06/2019,"291 Brandon Rd, Drimnagh, Dublin 12",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+14/06/2019,"179 Mangerton Road, Drimnagh, Dublin 12",Dublin,260000.0,No,Drimnagh,Dublin 12,q3,70%
+17/06/2019,"64 Knocknarea Ave, Drimnagh, Dublin 12",Dublin,323000.0,No,Drimnagh,Dublin 12,q4,100%
+17/06/2019,"72 Galtymore Rd, Drimnagh, Dublin 12",Dublin,265000.0,No,Drimnagh,Dublin 12,q3,80%
+19/06/2019,"59 Slievenamon Rd, Drimnagh, Dublin 12",Dublin,275000.0,No,Drimnagh,Dublin 12,q4,80%
+26/06/2019,"184 Carrow Rd, Drimnagh, Dublin 12",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+27/06/2019,"24 Mangerton Rd, Drimnagh, Dublin 12",Dublin,385000.0,No,Drimnagh,Dublin 12,q4,100%
+28/06/2019,"128 Brandon Rd, Drimnagh, Dublin 12",Dublin,360000.0,No,Drimnagh,Dublin 12,q4,100%
+02/07/2019,"C45 Landsdown Valley, Drimnagh, Dublin 12",Dublin,130000.0,No,Drimnagh,Dublin 12,q1,20%
+26/07/2019,"73 Kilworth Rd, Drimnagh, Dublin",Dublin,275000.0,No,Drimnagh,Dublin 12,q4,80%
+30/07/2019,"C46 Lansdowne Valley, Drimnagh, Dublin 12",Dublin,185000.0,No,Drimnagh,Dublin 12,q2,40%
+02/08/2019,"131 Sperrin Rd, Drimnagh, Dublin 12",Dublin,285000.0,No,Drimnagh,Dublin 12,q4,80%
+02/08/2019,"66 Comeragh Rd, Drimnagh, Dublin 12",Dublin,210000.0,No,Drimnagh,Dublin 12,q2,50%
+06/08/2019,"71 Rafters Rd, Drimnagh, Dublin 12",Dublin,275000.0,No,Drimnagh,Dublin 12,q4,80%
+06/08/2019,"75 Drimnagh Rd, Drimnagh, Dublin 12",Dublin,355000.0,No,Drimnagh,Dublin 12,q4,100%
+09/08/2019,"122 Curlew Rd, Drimnagh, Dublin 12",Dublin,301000.0,No,Drimnagh,Dublin 12,q4,90%
+15/08/2019,"43 Galtymore Close, Drimnagh, Dublin 12",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+16/08/2019,"102 Carrow Rd, Drimnagh, Dublin 12",Dublin,186250.0,No,Drimnagh,Dublin 12,q2,40%
+16/08/2019,"102A Carrow Rd, Drimnagh, Dublin 12",Dublin,186250.0,No,Drimnagh,Dublin 12,q2,40%
+19/08/2019,"273 Galtymore Road, Drimnagh, Dublin 12",Dublin,235000.0,No,Drimnagh,Dublin 12,q3,60%
+20/08/2019,"37 Galtymore Dr, Drimnagh, Dublin 12",Dublin,325000.0,No,Drimnagh,Dublin 12,q4,100%
+23/08/2019,"8 Lissadel Ave, Drimnagh, Dublin 12",Dublin,315000.0,No,Drimnagh,Dublin 12,q4,100%
+28/08/2019,"104 Benmadigan Road, Drimnagh, Dublin 12",Dublin,285000.0,No,Drimnagh,Dublin 12,q4,80%
+28/08/2019,"271 Errigal Rd, Drimnagh, Dublin 12",Dublin,207000.0,No,Drimnagh,Dublin 12,q2,50%
+28/08/2019,"89 Dolphin Rd, Drimnagh, Dublin 12",Dublin,282000.0,No,Drimnagh,Dublin 12,q4,80%
+29/08/2019,"94 Cooley Rd, Drimnagh, Dublin 12",Dublin,305000.0,No,Drimnagh,Dublin 12,q4,90%
+06/09/2019,"19 Carrow Rd, Drimnagh, Dublin 12",Dublin,308000.0,No,Drimnagh,Dublin 12,q4,90%
+09/09/2019,"1 Galtymore Close, Drimnagh, Dublin 12",Dublin,250000.0,No,Drimnagh,Dublin 12,q3,70%
+09/09/2019,"107 Kilworth Road, Drimnagh, Dublin 12",Dublin,400000.0,No,Drimnagh,Dublin 12,q4,100%
+10/09/2019,"76 Benmadigan Rd, Drimnagh, Dublin 12",Dublin,289000.0,No,Drimnagh,Dublin 12,q4,80%
+11/09/2019,"35 Brandon Rd, Drimnagh, Dublin 12",Dublin,304000.0,No,Drimnagh,Dublin 12,q4,90%
+12/09/2019,"10 Galtymore Close, Drimnagh, Dublin 12",Dublin,295000.0,No,Drimnagh,Dublin 12,q4,90%
+16/09/2019,"268 Kilworth Rd, Drimnagh, Dublin 12",Dublin,455000.0,No,Drimnagh,Dublin 12,q4,100%
+16/09/2019,"93 Galtymore Drive, Drimnagh, Dublin 12",Dublin,312000.0,No,Drimnagh,Dublin 12,q4,100%
+17/09/2019,"18 Comeragh Rd, Drimnagh, Dublin 12",Dublin,267000.0,No,Drimnagh,Dublin 12,q3,80%
+19/09/2019,"151 Mourne Rd, Drimnagh, Dublin 12",Dublin,356000.0,No,Drimnagh,Dublin 12,q4,100%
+23/09/2019,"162 Kilworth Rd, Drimnagh, Dublin 12",Dublin,265000.0,No,Drimnagh,Dublin 12,q3,80%
+24/09/2019,"101 Brandon Road, Drimnagh, Dublin 12",Dublin,277500.0,No,Drimnagh,Dublin 12,q4,80%
+26/09/2019,"43 Curlew Rd, Drimnagh, Dublin 12",Dublin,291000.0,No,Drimnagh,Dublin 12,q4,90%
+27/09/2019,"134 Curlew Rd, Drimnagh, Dublin 12",Dublin,320000.0,No,Drimnagh,Dublin 12,q4,100%
+07/10/2019,"122 Slievemore Rd, Drimnagh, Dublin 12",Dublin,274000.0,No,Drimnagh,Dublin 12,q3,80%
+08/10/2019,"82 Dolphin Rd, Drimnagh, Dublin 12",Dublin,332000.0,No,Drimnagh,Dublin 12,q4,100%

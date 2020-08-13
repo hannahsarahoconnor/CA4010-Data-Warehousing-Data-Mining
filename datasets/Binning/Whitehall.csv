@@ -1,0 +1,469 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/02/2010,"180 Collins Avenue, Whitehall, Dublin 9",Dublin,330000.0,No,Whitehall,Dublin 9,q3,60%
+09/02/2010,"61 Thatch Road, Whitehall, Dublin 9",Dublin,295000.0,No,Whitehall,Dublin 9,q2,50%
+26/02/2010,"22 Iveleary Road, Whitehall, Dublin 9",Dublin,305000.0,No,Whitehall,Dublin 9,q2,50%
+05/03/2010,"135 Iceragh Road, Whitehall",Dublin,397125.0,No,Whitehall,Dublin 9,q3,80%
+10/03/2010,"653 Collins Avenue, Whitehall, Dublin 9",Dublin,10000.0,No,Whitehall,Dublin 9,q1,10%
+24/03/2010,"12  Glenshesk Road, Whitehall, Dublin",Dublin,230000.0,No,Whitehall,Dublin 9,q1,30%
+01/04/2010,"34 Crestfield Avenue, Whitehall, Dublin 9",Dublin,330000.0,No,Whitehall,Dublin 9,q3,60%
+14/04/2010,"17 Iveleary Road, Whitehall",Dublin,310000.0,No,Whitehall,Dublin 9,q2,50%
+19/04/2010,"74 Glenshesk Road, Whitehall",Dublin,150000.0,No,Whitehall,Dublin 9,q1,10%
+28/04/2010,"31 Celtic Park Road, Whitehall, Dublin 9",Dublin,335000.0,No,Whitehall,Dublin 9,q3,60%
+13/05/2010,"31 Crestfield Avenue, Whitehall",Dublin,275000.0,No,Whitehall,Dublin 9,q2,40%
+01/06/2010,"27 Celtic Park Road, Off Collins Avenue, Whitehall",Dublin,305000.0,No,Whitehall,Dublin 9,q2,50%
+09/06/2010,"83 Annadale Drive, Whitehall, Dublin 9",Dublin,315000.0,No,Whitehall,Dublin 9,q3,60%
+24/06/2010,"98  Iveragh Road, Whitehall, Dublin 9",Dublin,363000.0,No,Whitehall,Dublin 9,q3,70%
+28/06/2010,"80 Collins West, Whitehall",Dublin,275000.0,No,Whitehall,Dublin 9,q2,40%
+01/07/2010,"122 Larkhill Road, Whitehall, Dublin 9",Dublin,220000.0,No,Whitehall,Dublin 9,q1,30%
+26/07/2010,"41 Glencloy Road, Whitehall",Dublin,194000.0,No,Whitehall,Dublin 9,q1,20%
+27/07/2010,"8 Ellenfield Road, Whitehall",Dublin,250000.0,No,Whitehall,Dublin 9,q2,30%
+30/07/2010,"228 Collins Avenue, West, Whitehall",Dublin,497500.0,No,Whitehall,Dublin 9,q4,90%
+30/07/2010,"580 Collins Avenue, Whitehall, Dublin 9",Dublin,358000.0,No,Whitehall,Dublin 9,q3,70%
+04/08/2010,"120 Collins Park, Whitehall",Dublin,357000.0,No,Whitehall,Dublin 9,q3,70%
+09/08/2010,"481 Collins Avenue, Whitehall, Dublin 9",Dublin,267500.0,No,Whitehall,Dublin 9,q2,40%
+31/08/2010,"83 Thatch Road, Whitehall, Dublin",Dublin,240000.0,No,Whitehall,Dublin 9,q2,30%
+06/09/2010,"103 Collins Park, Whitehall",Dublin,275000.0,No,Whitehall,Dublin 9,q2,40%
+20/09/2010,"87 Thatch Road, Whitehall",Dublin,200000.0,No,Whitehall,Dublin 9,q1,20%
+21/09/2010,"31 Yellow Road, Whitehall, Dublin 9",Dublin,259000.0,No,Whitehall,Dublin 9,q2,40%
+22/09/2010,"17 Shanboley Road, Whitehall",Dublin,228000.0,No,Whitehall,Dublin 9,q1,30%
+22/09/2010,"222 Larkhill Road, Whitehall",Dublin,210000.0,No,Whitehall,Dublin 9,q1,20%
+05/10/2010,"43 Yellow Road, Whitehall",Dublin,195000.0,No,Whitehall,Dublin 9,q1,20%
+10/11/2010,"19 Crestfield Avenue, Whitehall",Dublin,272000.0,No,Whitehall,Dublin 9,q2,40%
+10/11/2010,"71 Donnycarney Road, Whitehall, Dubin 9",Dublin,210000.0,No,Whitehall,Dublin 9,q1,20%
+12/11/2010,"114 Larkhill Road, Whitehall",Dublin,221500.0,No,Whitehall,Dublin 9,q1,30%
+19/11/2010,"51 Glentow Road, Whitehall, Dublin 9",Dublin,180000.0,No,Whitehall,Dublin 9,q1,20%
+26/11/2010,"2 The Cova, Whitehall Road",Dublin,330000.0,No,Whitehall,Dublin 9,q3,60%
+01/12/2010,"248 Collins Avenue West, Whitehall",Dublin,345000.0,No,Whitehall,Dublin 9,q3,70%
+03/12/2010,"4 Crestfield Drive, Whitehall",Dublin,275604.0,No,Whitehall,Dublin 9,q2,40%
+09/12/2010,"34 Glenaan Road, Whitehall, Dublin 9",Dublin,187000.0,No,Whitehall,Dublin 9,q1,20%
+16/12/2010,"31 Glencloy Road, Whitehall",Dublin,195000.0,No,Whitehall,Dublin 9,q1,20%
+16/12/2010,"53 Annadale Drive, Whitehall, Dublin 9",Dublin,260000.0,No,Whitehall,Dublin 9,q2,40%
+20/12/2010,"63 Glenshesk, Whitehall",Dublin,200000.0,No,Whitehall,Dublin 9,q1,20%
+21/12/2010,"19 Glentow Road, Whitehall",Dublin,230000.0,No,Whitehall,Dublin 9,q1,30%
+21/12/2010,"209 Larkhill Road, Whitehall, Dublin 9",Dublin,190000.0,No,Whitehall,Dublin 9,q1,20%
+17/01/2011,"26 Whitehall Park, Terenure",Dublin,280000.0,No,Whitehall,Dublin 9,q2,40%
+21/02/2011,"35 Thatch Road, Whitehall",Dublin,176000.0,No,Whitehall,Dublin 9,q1,20%
+22/02/2011,"85 Glencloy Road, Whitehall",Dublin,150000.0,No,Whitehall,Dublin 9,q1,10%
+01/03/2011,"43 Priory Way, Whitehall Road, Kimmage",Dublin,372000.0,No,Whitehall,Dublin 9,q3,70%
+16/03/2011,"151 Beaumont Road, Whitehall, Dublin 9",Dublin,215000.0,No,Whitehall,Dublin 9,q1,30%
+26/04/2011,"242 Collins Avenue West, Whitehall",Dublin,365000.0,No,Whitehall,Dublin 9,q3,70%
+20/05/2011,"451 Collins Avenue, Whitehall",Dublin,300000.0,No,Whitehall,Dublin 9,q2,50%
+01/06/2011,"133 Collins Park, Whitehall, Dublin 9",Dublin,260000.0,No,Whitehall,Dublin 9,q2,40%
+16/06/2011,"45 Glencloy Road, Whitehall, Dublin 9",Dublin,155000.0,No,Whitehall,Dublin 9,q1,10%
+17/06/2011,"47 Glenshesk Road, Whitehall, Dublin 9",Dublin,269000.0,No,Whitehall,Dublin 9,q2,40%
+21/06/2011,"78 Yellow Road, Whitehall",Dublin,150000.0,No,Whitehall,Dublin 9,q1,10%
+05/07/2011,"175 Collins Avenue West, Whitehall",Dublin,360000.0,No,Whitehall,Dublin 9,q3,70%
+08/07/2011,"90 Iveragh Gardens, Whitehall",Dublin,316000.0,No,Whitehall,Dublin 9,q3,60%
+05/08/2011,"22 Larkhill Road, Whitehall, Dublin 9",Dublin,180000.0,No,Whitehall,Dublin 9,q1,20%
+11/08/2011,"54 The Thatch Road, Whitehall",Dublin,168000.0,No,Whitehall,Dublin 9,q1,20%
+12/08/2011,"94A, Iveragh Road, Whitehall Dublin 9",Dublin,420000.0,No,Whitehall,Dublin 9,q4,80%
+22/08/2011,"77 Collins Avenue West, Whitehall, Dublin 9",Dublin,295000.0,No,Whitehall,Dublin 9,q2,50%
+06/09/2011,"7 Whitehall Square, Quarry Drive",Dublin,120000.0,No,Whitehall,Dublin 9,q1,10%
+15/09/2011,"252 Larkhill Road, Whitehall",Dublin,77500.0,No,Whitehall,Dublin 9,q1,10%
+27/09/2011,"30 Crestfield Avenue, Whitehall",Dublin,118000.0,No,Whitehall,Dublin 9,q1,10%
+29/09/2011,"484 Collins Ave, Whitehall, Dublin",Dublin,200000.0,No,Whitehall,Dublin 9,q1,20%
+21/10/2011,"536 Collins Avenue, Whitehall",Dublin,210000.0,No,Whitehall,Dublin 9,q1,20%
+11/11/2011,"82 Thatch Road, Whitehall",Dublin,130000.0,No,Whitehall,Dublin 9,q1,10%
+12/12/2011,"78 Thatch Road, Whitehall, Dublin 9",Dublin,185000.0,No,Whitehall,Dublin 9,q1,20%
+13/12/2011,"109 Collins Avenue West, Whitehall",Dublin,199000.0,No,Whitehall,Dublin 9,q1,20%
+03/02/2012,"275 Collins Avenue, Whitehall",Dublin,285500.0,No,Whitehall,Dublin 9,q2,50%
+14/02/2012,"35 Glendun Road, Whitehall",Dublin,147000.0,No,Whitehall,Dublin 9,q1,10%
+24/02/2012,"56 Glencloy Road, Whitehall, Dublin 9",Dublin,138000.0,No,Whitehall,Dublin 9,q1,10%
+29/02/2012,"45 Shanglass Road, Whitehall, Dublin9",Dublin,212000.0,No,Whitehall,Dublin 9,q1,30%
+14/03/2012,"147 Iveragh, Whitehall, Dublin 7",Dublin,250000.0,No,Whitehall,Dublin 9,q2,30%
+16/03/2012,"266 Collins Ave, Whitehall",Dublin,291000.0,No,Whitehall,Dublin 9,q2,50%
+30/03/2012,"91 Iveragh Road, Whitehall, Dublin 9",Dublin,200000.0,No,Whitehall,Dublin 9,q1,20%
+19/04/2012,"43 Glenaan Road, Whitehall, Dublin 9",Dublin,137000.0,No,Whitehall,Dublin 9,q1,10%
+20/04/2012,"44 Glentow Road, Whitehall, Dublin 9",Dublin,125000.0,No,Whitehall,Dublin 9,q1,10%
+03/05/2012,"47 Glenaan Rd, Whitehall, Dublin 9",Dublin,132000.0,No,Whitehall,Dublin 9,q1,10%
+08/05/2012,"74 Thatch Road, Whitehall",Dublin,145000.0,No,Whitehall,Dublin 9,q1,10%
+08/06/2012,"3A Wellington Court, Off Whitehall Road",Dublin,85000.0,No,Whitehall,Dublin 9,q1,10%
+21/06/2012,"117 Collins Park, Whitehall",Dublin,162000.0,No,Whitehall,Dublin 9,q1,20%
+21/06/2012,"76 Collins Avenue West, Whitehall, Dublin 9",Dublin,185000.0,No,Whitehall,Dublin 9,q1,20%
+29/06/2012,"9 Crestfield Close, Whitehall, Dublin 9",Dublin,222000.0,No,Whitehall,Dublin 9,q1,30%
+20/07/2012,"26 Yellow Road, Whitehall",Dublin,126000.0,No,Whitehall,Dublin 9,q1,10%
+24/07/2012,"16 Innishmaan Road, Whitehall",Dublin,270000.0,No,Whitehall,Dublin 9,q2,40%
+30/07/2012,"15 Innishmaan Road, Whitehall, Dublin 9",Dublin,208000.0,No,Whitehall,Dublin 9,q1,20%
+01/08/2012,"29 Glendun Road, Whitehall, Dublin 9",Dublin,109000.0,No,Whitehall,Dublin 9,q1,10%
+02/08/2012,"67 The Thatch Road, Whitehall",Dublin,120000.0,No,Whitehall,Dublin 9,q1,10%
+17/08/2012,"32 Glenaan Road, Whitehall",Dublin,203000.0,No,Whitehall,Dublin 9,q1,20%
+17/08/2012,"516 Collins Avenue, Whitehall",Dublin,165000.0,No,Whitehall,Dublin 9,q1,20%
+30/08/2012,"1 Glencorp Road, Whitehall, Dublin 9",Dublin,117000.0,No,Whitehall,Dublin 9,q1,10%
+03/09/2012,"8 Whitehall Gardens, Terenure",Dublin,346500.0,No,Whitehall,Dublin 9,q3,70%
+07/09/2012,"15 Larkhill Road, Whitehall",Dublin,135000.0,No,Whitehall,Dublin 9,q1,10%
+20/09/2012,"219 Larkhill Road, Whitehall",Dublin,150000.0,No,Whitehall,Dublin 9,q1,10%
+28/09/2012,"3 Iveleary Road, Whitehall, Dublin 9",Dublin,180000.0,No,Whitehall,Dublin 9,q1,20%
+04/10/2012,"23 Glencloy Road, Whitehall",Dublin,127500.0,No,Whitehall,Dublin 9,q1,10%
+17/10/2012,"533 Collins Avenue, Whitehalll",Dublin,197000.0,No,Whitehall,Dublin 9,q1,20%
+22/10/2012,"139 Whitehall Road, Terenure, Dublin 6W",Dublin,355000.0,No,Whitehall,Dublin 9,q3,70%
+22/10/2012,"56 Glentoe Road, Whitehall, Dublin 9",Dublin,150000.0,No,Whitehall,Dublin 9,q1,10%
+02/11/2012,"11 Falcarragh Road, Whitehall, Dublin 9",Dublin,300000.0,No,Whitehall,Dublin 9,q2,50%
+08/11/2012,"532 Collins Avenue, Whitehall",Dublin,170000.0,No,Whitehall,Dublin 9,q1,20%
+19/11/2012,"422 Collins Avenue, Whitehall, Dublin 9",Dublin,210000.0,No,Whitehall,Dublin 9,q1,20%
+22/11/2012,"332 Collinswood, Collins Avenue, Whitehall",Dublin,252000.0,No,Whitehall,Dublin 9,q2,30%
+30/11/2012,"257 Collinswood, Whitehall",Dublin,226000.0,No,Whitehall,Dublin 9,q1,30%
+03/12/2012,"149 Larkhill Rd, Whitehall",Dublin,145000.0,No,Whitehall,Dublin 9,q1,10%
+03/12/2012,"6 Iveragh Road, Whitehall",Dublin,360000.0,No,Whitehall,Dublin 9,q3,70%
+04/12/2012,"198, Larkhil Road, Whitehall",Dublin,141000.0,No,Whitehall,Dublin 9,q1,10%
+06/12/2012,"118 Iveragh Road, Whitehall",Dublin,210000.0,No,Whitehall,Dublin 9,q1,20%
+10/12/2012,"202 Collins Avenue West, Whitehall, Dublin 9",Dublin,343000.0,No,Whitehall,Dublin 9,q3,70%
+11/12/2012,"16 Larkhill Road, Whitehall",Dublin,159000.0,No,Whitehall,Dublin 9,q1,10%
+14/12/2012,"237 Collins Avenue, Whitehall",Dublin,308000.0,No,Whitehall,Dublin 9,q2,50%
+21/12/2012,"41 Celtic Park Road, Collins Avenue, Whitehall",Dublin,245000.0,No,Whitehall,Dublin 9,q2,30%
+24/12/2012,"127 Iveragh Road, Whitehall",Dublin,312500.0,No,Whitehall,Dublin 9,q3,60%
+18/01/2013,"117 Whitehall Road, Terenure",Dublin,522000.0,No,Whitehall,Dublin 9,q4,100%
+30/01/2013,"70 Larkhill Road, Whitehall, Dublin 9",Dublin,180000.0,No,Whitehall,Dublin 9,q1,20%
+06/02/2013,"136 Beaumont Road, Whitehall",Dublin,245000.0,No,Whitehall,Dublin 9,q2,30%
+15/02/2013,"198 Collins Avenue, Whitehall, Dublin 9",Dublin,345000.0,No,Whitehall,Dublin 9,q3,70%
+22/02/2013,"14 Collinswood, Whitehall",Dublin,311000.0,No,Whitehall,Dublin 9,q3,60%
+02/04/2013,"119 Larkhill Road, Whitehall",Dublin,135000.0,No,Whitehall,Dublin 9,q1,10%
+12/04/2013,"136 Iveragh Road, Whitehall",Dublin,368000.0,No,Whitehall,Dublin 9,q3,70%
+31/05/2013,"101 Shantalla Road, Whitehall",Dublin,220000.0,No,Whitehall,Dublin 9,q1,30%
+31/05/2013,"6 Whitehall Close, Terenure",Dublin,340000.0,No,Whitehall,Dublin 9,q3,70%
+10/06/2013,"87 Collins Ave West, Whitehall",Dublin,180000.0,No,Whitehall,Dublin 9,q1,20%
+25/06/2013,"740 Collins Avenue, Whitehall",Dublin,230000.0,No,Whitehall,Dublin 9,q1,30%
+26/06/2013,"20 Larkhill Road, Whitehall",Dublin,135000.0,No,Whitehall,Dublin 9,q1,10%
+27/06/2013,"41 Glenaan Road, Whitehall, Dublin 9",Dublin,156000.0,No,Whitehall,Dublin 9,q1,10%
+12/07/2013,"25 Celtic Park Avenue, Whitehall",Dublin,221500.0,No,Whitehall,Dublin 9,q1,30%
+15/07/2013,"81 Iveragh Road, Whitehall, Dublin 9",Dublin,270000.0,No,Whitehall,Dublin 9,q2,40%
+18/07/2013,"49 Yellow Road, Whitehall",Dublin,160000.0,No,Whitehall,Dublin 9,q1,10%
+25/07/2013,"32 Glendun Road, Whitehall",Dublin,145000.0,No,Whitehall,Dublin 9,q1,10%
+29/07/2013,"41 Iveragh Road, Whitehall",Dublin,303000.0,No,Whitehall,Dublin 9,q2,50%
+09/08/2013,"89  Iveragh Road, Whitehall, Dublin 9",Dublin,422000.0,No,Whitehall,Dublin 9,q4,80%
+15/08/2013,"120 Iveragh Road, Whitehall, Dublin 9",Dublin,325000.0,No,Whitehall,Dublin 9,q3,60%
+16/08/2013,"156 Collins Avenue., Whitehall, Dublin",Dublin,285000.0,No,Whitehall,Dublin 9,q2,40%
+20/08/2013,"21 Whitehall Park, Terenure, Dublin",Dublin,265000.0,No,Whitehall,Dublin 9,q2,40%
+27/08/2013,"19A Falcarragh Road, Whitehall, Dublin 9",Dublin,250000.0,No,Whitehall,Dublin 9,q2,30%
+04/09/2013,"142 Larkhill Road, Whitehall, Dublin 9",Dublin,160000.0,No,Whitehall,Dublin 9,q1,10%
+06/09/2013,"3 Collins Close, Collins Avenue, Whitehall",Dublin,191400.0,No,Whitehall,Dublin 9,q1,20%
+04/10/2013,"47A Whitehall Road, Terenure, Dublin 12",Dublin,315000.0,No,Whitehall,Dublin 9,q3,60%
+18/10/2013,"2 Crestfield Drive, Whitehall",Dublin,220000.0,No,Whitehall,Dublin 9,q1,30%
+05/11/2013,"133 Iveragh Road, Whitehall",Dublin,277000.0,No,Whitehall,Dublin 9,q2,40%
+20/11/2013,"372 Collins Ave, Whitehall, Dublin 9",Dublin,236000.0,No,Whitehall,Dublin 9,q2,30%
+29/11/2013,"18 Larkhill Road, Whitehall",Dublin,176000.0,No,Whitehall,Dublin 9,q1,20%
+02/12/2013,"29 Glencloy Rd, Whitehall, Dublin 9",Dublin,173000.0,No,Whitehall,Dublin 9,q1,20%
+04/12/2013,"12 Priory Hall, Whitehall Rd, Dublin 12",Dublin,277000.0,No,Whitehall,Dublin 9,q2,40%
+06/12/2013,"39 Iveragh Rd, Gaeltacht Park, Whitehall Dublin 9",Dublin,355000.0,No,Whitehall,Dublin 9,q3,70%
+06/12/2013,"47 Whitehall Rd, Terenure, Dublin 12",Dublin,390000.0,No,Whitehall,Dublin 9,q3,80%
+11/12/2013,"3 Whitehall Pk, Dublin 12, Dublin",Dublin,252000.0,No,Whitehall,Dublin 9,q2,40%
+11/12/2013,"9 Annadale Dr, Whitehall, Dublin 9",Dublin,282000.0,No,Whitehall,Dublin 9,q2,40%
+19/12/2013,"128 Larkhill Rd, Whitehall, Dublin 9",Dublin,120000.0,No,Whitehall,Dublin 9,q1,10%
+19/12/2013,"39 Glendun Rd, Whitehall, Dublin 9",Dublin,160000.0,No,Whitehall,Dublin 9,q1,10%
+20/12/2013,"24 Collins Park, Whitehall, Dublin 9",Dublin,180000.0,No,Whitehall,Dublin 9,q1,20%
+19/02/2014,"24 Ellenfield Rd, Whitehall, Dublin 9",Dublin,160000.0,No,Whitehall,Dublin 9,q1,10%
+27/02/2014,"610 Collins Ave Extn, Whitehall, Dublin 9",Dublin,295000.0,No,Whitehall,Dublin 9,q2,50%
+28/02/2014,"23 Glenshesk Rd, Whitehall, Dublin 9",Dublin,210000.0,No,Whitehall,Dublin 9,q1,20%
+28/02/2014,"73 Collins Avenue, Whitehall",Dublin,305000.0,No,Whitehall,Dublin 9,q2,50%
+05/03/2014,"482 Collins Ave, Whitehall, Dublin 9",Dublin,295000.0,No,Whitehall,Dublin 9,q2,50%
+05/03/2014,"70 Whitehall Rd West, Dublin 12, Dublin",Dublin,240000.0,No,Whitehall,Dublin 9,q2,30%
+14/03/2014,"476 Collins Ave, Whitehall, Dublin 9",Dublin,258000.0,No,Whitehall,Dublin 9,q2,40%
+07/04/2014,"79 Larkhill Rd, Whitehall, Dublin 9",Dublin,203000.0,No,Whitehall,Dublin 9,q1,20%
+09/04/2014,"147 Beaumont Road, Whitehall, Dublin 9",Dublin,240000.0,No,Whitehall,Dublin 9,q2,30%
+16/04/2014,"129 Larkhill Rd, Whitehall, Dublin 9",Dublin,190000.0,No,Whitehall,Dublin 9,q1,20%
+17/04/2014,"24 Priory Hall, Whitehall Rd, Dublin 12",Dublin,310000.0,No,Whitehall,Dublin 9,q2,50%
+13/05/2014,"16 Whitehall Park, Whitehall Rd, Dublin 12",Dublin,293000.0,No,Whitehall,Dublin 9,q2,50%
+19/05/2014,"127 Whitehall Rd, Terenure, Dublin 12",Dublin,425000.0,No,Whitehall,Dublin 9,q4,80%
+19/06/2014,"62 Iveragh Road, Whitehall",Dublin,357000.0,No,Whitehall,Dublin 9,q3,70%
+30/06/2014,"224 Collins Avenue, Whitehall, Dublin 9",Dublin,315000.0,No,Whitehall,Dublin 9,q3,60%
+15/07/2014,"118 Collins Park, Whitehall, Dublin 9",Dublin,385000.0,No,Whitehall,Dublin 9,q3,80%
+15/07/2014,"40 Glentow Rd, Whitehall, Dublin 9",Dublin,244000.0,No,Whitehall,Dublin 9,q2,30%
+22/07/2014,"12 Celtic Park Rd, Whitehall, Dublin 9",Dublin,345000.0,No,Whitehall,Dublin 9,q3,70%
+22/07/2014,"32 Collins Park, Whitehall, Dublin 9",Dublin,290000.0,No,Whitehall,Dublin 9,q2,50%
+24/07/2014,"5 The Recorders, Whitehall Rd, Dublin 12",Dublin,430000.0,No,Whitehall,Dublin 9,q4,90%
+28/07/2014,"24 Whitehall Rd East, Terenure, Dublin 6",Dublin,680000.0,No,Whitehall,Dublin 9,q4,100%
+16/08/2014,"2 Whitehall Gardens, Terenure",Dublin,487000.0,No,Whitehall,Dublin 9,q4,90%
+22/08/2014,"73 Glencloy Rd, Whitehall, Dublin 9",Dublin,261500.0,No,Whitehall,Dublin 9,q2,40%
+04/09/2014,"34 Ellenfield Rd, Whitehall, Dublin 9",Dublin,271000.0,No,Whitehall,Dublin 9,q2,40%
+18/09/2014,"135 Annadale Dr, Whitehall, Dublin 9",Dublin,452000.0,No,Whitehall,Dublin 9,q4,90%
+19/09/2014,"652 Collins Ave Ext, Whitehall Dublin 9, Dublin",Dublin,375000.0,No,Whitehall,Dublin 9,q3,70%
+10/10/2014,"71 Larkhill Rd, Whitehall, Dublin 9",Dublin,242000.0,No,Whitehall,Dublin 9,q2,30%
+15/10/2014,"213 Larkhill Rd, Whitehall, Dublin 9",Dublin,246000.0,No,Whitehall,Dublin 9,q2,30%
+22/10/2014,"70 Larkhill Rd, Whitehall, Dublin 9",Dublin,230000.0,No,Whitehall,Dublin 9,q1,30%
+28/10/2014,"162, Larkhill Road, Whitehall Dublin 9",Dublin,255000.0,No,Whitehall,Dublin 9,q2,40%
+29/10/2014,"165 Whitehall Road West, Dublin 12",Dublin,427500.0,No,Whitehall,Dublin 9,q4,90%
+29/10/2014,"660 Collins Ave Extension, Whitehall, Dublin 9",Dublin,338000.0,No,Whitehall,Dublin 9,q3,70%
+11/11/2014,"135 Celtic Park Ave, Whitehall, Dublin 9",Dublin,359604.0,No,Whitehall,Dublin 9,q3,70%
+14/11/2014,"37 Crestfield, Whitehall, Dublin 9",Dublin,334000.0,No,Whitehall,Dublin 9,q3,60%
+21/11/2014,"250 Collins Ave, Whitehall, Dublin 9",Dublin,525000.0,No,Whitehall,Dublin 9,q4,100%
+24/11/2014,"414 Collinswood, Whitehall, Dublin 9",Dublin,468000.0,No,Whitehall,Dublin 9,q4,90%
+02/12/2014,"29 Shanrath Road, Whitehall, Dublin 9",Dublin,290000.0,No,Whitehall,Dublin 9,q2,50%
+04/12/2014,"253 Larkhill Road, Whitehall, Dublin 9",Dublin,242000.0,No,Whitehall,Dublin 9,q2,30%
+08/12/2014,"13 Whitehall Close, Terenure, Dublin 6W",Dublin,395000.0,No,Whitehall,Dublin 9,q3,80%
+12/12/2014,"88 Rockfield Ave, Whitehall Rd",Dublin,440000.0,No,Whitehall,Dublin 9,q4,90%
+18/12/2014,"27 Mountdown Park, Whitehall Rd, Dublin 12",Dublin,390000.0,No,Whitehall,Dublin 9,q3,80%
+19/12/2014,"524 Collins Avenue, Whitehall, Dublin 9",Dublin,300000.0,No,Whitehall,Dublin 9,q2,50%
+22/12/2014,"479 Collins Ave, Whitehall, Dublin 9",Dublin,381000.0,No,Whitehall,Dublin 9,q3,80%
+22/12/2014,"50 Glenaan Road, Whitehall",Dublin,296500.0,No,Whitehall,Dublin 9,q2,50%
+22/12/2014,"63 Iveragh Road, Whitehall, Dublin 9",Dublin,440000.0,No,Whitehall,Dublin 9,q4,90%
+09/01/2015,"380 Collins Ave, Whitehall, Dublin 9",Dublin,305000.0,No,Whitehall,Dublin 9,q2,50%
+14/01/2015,"47A Ellenfield Rd, Whitehall, Dublin 9",Dublin,236000.0,No,Whitehall,Dublin 9,q2,30%
+20/01/2015,"1 Iveleary Road, Whitehall, Dublin 9",Dublin,335000.0,No,Whitehall,Dublin 9,q3,60%
+22/01/2015,"162 Collins Ave West, Whitehall, Dublin 9",Dublin,325000.0,No,Whitehall,Dublin 9,q3,60%
+27/01/2015,"2 Tourmakeady Rd, Whitehall, Dublin 9",Dublin,360000.0,No,Whitehall,Dublin 9,q3,70%
+10/03/2015,"94 Collins Park, Whitehall, Dublin 9",Dublin,335000.0,No,Whitehall,Dublin 9,q3,60%
+19/03/2015,"27 Glenshesk Rd, Whitehall, Dublin 9",Dublin,230000.0,No,Whitehall,Dublin 9,q1,30%
+02/04/2015,"19 Priory Hall, Manor Grove, Whitehall Rd Dublin 12",Dublin,280000.0,No,Whitehall,Dublin 9,q2,40%
+02/04/2015,"23 Crestfield Dr, Whitehall, Dublin",Dublin,322000.0,No,Whitehall,Dublin 9,q3,60%
+08/04/2015,"22 Whitehall Rd West, Dublin 12, Dublin",Dublin,305000.0,No,Whitehall,Dublin 9,q2,50%
+05/05/2015,"586 Collins Ave, Whitehall, Dublin 9",Dublin,323000.0,No,Whitehall,Dublin 9,q3,60%
+06/05/2015,"159 Whitehall Rd West, Terenure, Dublin 12",Dublin,407500.0,No,Whitehall,Dublin 9,q4,80%
+26/05/2015,"28 Celtic Park Ave, Whitehall, Dublin 9",Dublin,310000.0,No,Whitehall,Dublin 9,q2,50%
+29/05/2015,"111 Larkhill Rd, Whitehall, Dublin",Dublin,322000.0,No,Whitehall,Dublin 9,q3,60%
+29/05/2015,"40 Whitehall Rd, Terenure, Dublin 12",Dublin,600000.0,No,Whitehall,Dublin 9,q4,100%
+26/06/2015,"41 Ellenfield Road, Whitehall, Dublin 9",Dublin,235000.0,No,Whitehall,Dublin 9,q1,30%
+30/06/2015,"166 Collins Avenue, Whitehall",Dublin,375000.0,No,Whitehall,Dublin 9,q3,80%
+30/06/2015,"Apt 1 3, 365 Collins Ave, Whitehall Dublin 9",Dublin,150000.0,No,Whitehall,Dublin 9,q1,10%
+30/06/2015,"Apt 1 4, 365 Collins Ave, Whitehall Dublin 9",Dublin,150000.0,No,Whitehall,Dublin 9,q1,10%
+03/07/2015,"8 The Crescent, Collinswood, Whitehall",Dublin,290000.0,No,Whitehall,Dublin 9,q2,50%
+10/07/2015,"191 Collins Avenue West, Whitehall, Dublin 9",Dublin,255000.0,No,Whitehall,Dublin 9,q2,40%
+15/07/2015,"111 Whitehall Rd, Terenure, Dublin 12",Dublin,790000.0,No,Whitehall,Dublin 9,q4,100%
+15/07/2015,"81 Coolgreena Rd, Whitehall, Dublin 9",Dublin,295000.0,No,Whitehall,Dublin 9,q2,50%
+24/07/2015,"144 Shantalla Rd, Whitehall, Dublin 9",Dublin,345000.0,No,Whitehall,Dublin 9,q3,70%
+04/08/2015,"156 Whitehall Rd West, Dublin 12, Dublin",Dublin,410000.0,No,Whitehall,Dublin 9,q4,80%
+12/08/2015,"9 Ellenfield Rd, Whitehall, Dublin 9",Dublin,310000.0,No,Whitehall,Dublin 9,q3,60%
+19/08/2015,"17 Glendun Rd, Whitehall, Dublin 9",Dublin,275000.0,No,Whitehall,Dublin 9,q2,40%
+26/08/2015,"62 The Thatch Rd, Whitehall, Dublin 9",Dublin,250000.0,No,Whitehall,Dublin 9,q2,30%
+27/08/2015,"71 Glenshesk Rd, Whitehall, Dublin 9",Dublin,256000.0,No,Whitehall,Dublin 9,q2,40%
+31/08/2015,"491, Collins Avenue, Whitehall",Dublin,465000.0,No,Whitehall,Dublin 9,q4,90%
+04/09/2015,"143 Beaumont Rd, Whitehall, Dublin 9",Dublin,260000.0,No,Whitehall,Dublin 9,q2,40%
+21/09/2015,"11 Glenshesk Road, Whitehall, Dublin 9",Dublin,220000.0,No,Whitehall,Dublin 9,q1,30%
+21/09/2015,"22 Shanglas Rd, Whitehall, Dublin 9",Dublin,295000.0,No,Whitehall,Dublin 9,q2,50%
+25/09/2015,"153 Celtic Park Ave, Whitehall, Dublin 9",Dublin,100000.0,No,Whitehall,Dublin 9,q1,10%
+13/10/2015,"84 Yellow Rd, Whitehall, Dublin 9",Dublin,285000.0,No,Whitehall,Dublin 9,q2,40%
+16/10/2015,"Apt 6B, Wellington Court, Whitehall Rd West Dublin 12",Dublin,165000.0,No,Whitehall,Dublin 9,q1,20%
+21/10/2015,"11 Whitehall Close, Terenure, Dublin 6W",Dublin,425000.0,No,Whitehall,Dublin 9,q4,90%
+22/10/2015,"544 Collins Ave West, Whitehall, Dublin 9",Dublin,270000.0,No,Whitehall,Dublin 9,q2,40%
+22/10/2015,"6 Crestfield Park, Whitehall, Dublin 9",Dublin,315000.0,No,Whitehall,Dublin 9,q3,60%
+28/10/2015,"189 Whitehall Road West, Terenure, Dublin 12",Dublin,440000.0,No,Whitehall,Dublin 9,q4,90%
+18/11/2015,"114 Celtic Park Avenue, Whitehall, Dublin 9",Dublin,350000.0,No,Whitehall,Dublin 9,q3,70%
+27/11/2015,"38 Iveragh Rd, Whitehall, Dublin",Dublin,421000.0,No,Whitehall,Dublin 9,q4,80%
+07/12/2015,"119 Celtic Park Avenue, Whitehall",Dublin,50000.0,No,Whitehall,Dublin 9,q1,10%
+08/12/2015,"37 Annadale Dr, Whitehall, Dublin 9",Dublin,365000.0,No,Whitehall,Dublin 9,q3,70%
+11/12/2015,"20 Celtic Park Rd, Whitehall, Dublin 9",Dublin,337000.0,No,Whitehall,Dublin 9,q3,60%
+11/12/2015,"366 Collinswood, Whitehall",Dublin,325000.0,No,Whitehall,Dublin 9,q3,60%
+17/12/2015,"48 Shanglas Rd, Whitehall, Dublin 9",Dublin,285000.0,No,Whitehall,Dublin 9,q2,40%
+18/12/2015,"164 Collins Park, Whitehall, Dublin 9",Dublin,358000.0,No,Whitehall,Dublin 9,q3,70%
+22/12/2015,"730 Collins Avenue, Whitehall, Dublin 9",Dublin,356500.0,No,Whitehall,Dublin 9,q3,70%
+04/02/2016,"180 Larkhill Rd, Whitehall, Dublin 9",Dublin,237000.0,No,Whitehall,Dublin 9,q2,30%
+16/02/2016,"1 2 The Belfry, 365 Collins Ave, Whitehall Dublin 9",Dublin,150000.0,No,Whitehall,Dublin 9,q1,10%
+17/02/2016,"539 Collins Ave, Whitehall, Dublin 9",Dublin,280000.0,No,Whitehall,Dublin 9,q2,40%
+18/02/2016,"40 Yellow Rd Whitehall, Whitehall Dublin 9, Dublin",Dublin,270000.0,No,Whitehall,Dublin 9,q2,40%
+19/02/2016,"490 Cullins Ave, Whitehall, Dublin 9",Dublin,310000.0,No,Whitehall,Dublin 9,q3,60%
+26/02/2016,"7 Beechfield Court, Whitehall Rd West, Dublin 12",Dublin,157000.0,No,Whitehall,Dublin 9,q1,10%
+03/03/2016,"183 Collinswood, Whitehall",Dublin,370000.0,No,Whitehall,Dublin 9,q3,70%
+08/04/2016,"93 Iveragh Road, Gaeltacht Park, Whitehall",Dublin,410000.0,No,Whitehall,Dublin 9,q4,80%
+22/04/2016,"5 Yellow Rd, Whitehall, Dublin 9",Dublin,235000.0,No,Whitehall,Dublin 9,q1,30%
+29/04/2016,"106 Whitehall Road West, Dublin 12",Dublin,290000.0,No,Whitehall,Dublin 9,q2,50%
+29/04/2016,"152 Elm Mount Ave, Whitehall, Dublin 9",Dublin,361000.0,No,Whitehall,Dublin 9,q3,70%
+10/05/2016,"54 Annadale Drive, Off Griffith Ave, Whitehall",Dublin,365000.0,No,Whitehall,Dublin 9,q3,70%
+17/05/2016,"178 Larkhill Road, Whitehall, Dublin 9",Dublin,140000.0,No,Whitehall,Dublin 9,q1,10%
+18/05/2016,"640 Collins Ave Extension, Whitehall, Dublin 9",Dublin,395000.0,No,Whitehall,Dublin 9,q3,80%
+24/05/2016,"5 Iveleary Rd, Whitehall, Dublin 9",Dublin,360000.0,No,Whitehall,Dublin 9,q3,70%
+25/05/2016,"501 Collins Ave, Whitehall, Dublin 9",Dublin,345000.0,No,Whitehall,Dublin 9,q3,70%
+26/05/2016,"78 Iveragh Rd, Gaeltacht Park, Whitehall Dublin 9",Dublin,465000.0,No,Whitehall,Dublin 9,q4,90%
+10/06/2016,"44 Glencloy Rd, Whitehall, Dublin 9",Dublin,246000.0,No,Whitehall,Dublin 9,q2,30%
+10/06/2016,"74 Larkhill Rd, Whitehall, Dublin 9",Dublin,235500.0,No,Whitehall,Dublin 9,q2,30%
+13/06/2016,"50 Collins Park, Whitehall, Dublin 9",Dublin,370000.0,No,Whitehall,Dublin 9,q3,70%
+29/06/2016,"166 Whitehall Rd, Terenure, Dublin 12",Dublin,472000.0,No,Whitehall,Dublin 9,q4,90%
+29/06/2016,"2 Wellington Court, Whitehall Rd West, Dublin 12",Dublin,140000.0,No,Whitehall,Dublin 9,q1,10%
+14/07/2016,"266 Collinswood, Whitehall, Dublin 9",Dublin,510000.0,No,Whitehall,Dublin 9,q4,100%
+15/07/2016,"211 Collins Ave, Whitehall, Dublin 9",Dublin,543000.0,No,Whitehall,Dublin 9,q4,100%
+18/07/2016,"3 Glendun Rd, Whitehall, Dublin 9",Dublin,261000.0,No,Whitehall,Dublin 9,q2,40%
+26/07/2016,"123 Shantalla Rd, Whitehall, Dublin 9",Dublin,295200.0,No,Whitehall,Dublin 9,q2,50%
+05/08/2016,"157 Collins Ave, Whitehall, Dublin 9",Dublin,470000.0,No,Whitehall,Dublin 9,q4,90%
+19/08/2016,"123 Celtic Park Ave, Whitehall, Dublin 9",Dublin,335000.0,No,Whitehall,Dublin 9,q3,60%
+25/08/2016,"1B Wellington Court, Whitehall Rd West, Dublin 12",Dublin,170000.0,No,Whitehall,Dublin 9,q1,20%
+26/08/2016,"169 Collins Avenue, Whitehall, Dublin 9",Dublin,470000.0,No,Whitehall,Dublin 9,q4,90%
+05/09/2016,"59 Iveragh Rd, Whitehall, Dublin 9",Dublin,465000.0,No,Whitehall,Dublin 9,q4,90%
+08/09/2016,"15 Beaumont Rd, Whitehall, Dublin 9",Dublin,320000.0,No,Whitehall,Dublin 9,q3,60%
+29/09/2016,"64 Collins Park, Whitehall, Dublin 9",Dublin,290000.0,No,Whitehall,Dublin 9,q2,50%
+30/09/2016,"1 Hillsbrook Grove, Whitehall Rd West, Dublin 12",Dublin,495000.0,No,Whitehall,Dublin 9,q4,90%
+06/10/2016,"131 Iveragh Rd, Gaeltacht Park, Whitehall Dublin 9",Dublin,375000.0,No,Whitehall,Dublin 9,q3,80%
+12/10/2016,"29 Glenshesk Rd, Whitehall, Dublin 9",Dublin,254000.0,No,Whitehall,Dublin 9,q2,40%
+13/10/2016,"39 The Thatch Rd, Whitehall, Dublin 9",Dublin,235000.0,No,Whitehall,Dublin 9,q2,30%
+14/10/2016,"64 Iveragh Rd, Whitehall, Dublin 9",Dublin,350000.0,No,Whitehall,Dublin 9,q3,70%
+20/10/2016,"105 Whitehall Rd, Terenure, Dublin 12",Dublin,750000.0,No,Whitehall,Dublin 9,q4,100%
+21/10/2016,"3 The Green, Hazlebrook Square, Whitehall Road",Dublin,396475.77,Yes,Whitehall,Dublin 9,q3,80%
+24/10/2016,"206 Collinswood, Whitehall, Dublin 9",Dublin,314000.0,No,Whitehall,Dublin 9,q3,60%
+24/10/2016,"41 Glencloy Road, Whitehall, Dublin 9",Dublin,280000.0,No,Whitehall,Dublin 9,q2,40%
+26/10/2016,"276 Larkhill Rd, Whitehall, Dublin 9",Dublin,287500.0,No,Whitehall,Dublin 9,q2,50%
+27/10/2016,"2 6 The Belfry, 365 Collins Ave, Whitehall Dublin 9",Dublin,163000.0,No,Whitehall,Dublin 9,q1,20%
+28/10/2016,"16 The Place, Hazelbrook Square, Whitehall Road",Dublin,519000.0,Yes,Whitehall,Dublin 9,q4,100%
+28/10/2016,"8 The Place, Hazelbrook Square, Whitehall Road",Dublin,453744.49,Yes,Whitehall,Dublin 9,q4,90%
+15/11/2016,"149 Iveragh Rd, Whitehall, Dublin 9",Dublin,527000.0,No,Whitehall,Dublin 9,q4,100%
+15/11/2016,"29 Glencorp Rd, Whitehall, Dublin 9",Dublin,215000.0,No,Whitehall,Dublin 9,q1,30%
+15/11/2016,"566 Collins Ave, Whitehall, Dublin 9",Dublin,341000.0,No,Whitehall,Dublin 9,q3,70%
+16/11/2016,"12 The Place, Hazelbrook Square, Whitehall Road",Dublin,427312.78,Yes,Whitehall,Dublin 9,q4,90%
+18/11/2016,"2 The Place, Hazelbrook Square, Whitehall Road",Dublin,524229.0,Yes,Whitehall,Dublin 9,q4,100%
+05/12/2016,"126 Collins Park, Whitehall, Dublin 9",Dublin,325000.0,No,Whitehall,Dublin 9,q3,60%
+05/12/2016,"22 Glendun Rd, Larkhill, Whitehall",Dublin,160000.0,No,Whitehall,Dublin 9,q1,20%
+07/12/2016,"14 Yellow Rd, Whitehall, Dublin 9",Dublin,320000.0,No,Whitehall,Dublin 9,q3,60%
+12/12/2016,"8 The Grove, Hazelbrook Square, Whitehall Road",Dublin,612334.8,Yes,Whitehall,Dublin 9,q4,100%
+16/12/2016,"390A Collins Avenue, Whitehall, Dublin 11",Dublin,169437.6,No,Whitehall,Dublin 9,q1,20%
+16/12/2016,"542 Collins Ave, Whitehall, Dublin 9",Dublin,330000.0,No,Whitehall,Dublin 9,q3,60%
+21/12/2016,"192 Whitehall Road, Terenure, Dublin 12",Dublin,141627.0,No,Whitehall,Dublin 9,q1,10%
+22/12/2016,"181 Larkhill Rd, Whitehall, Dublin City",Dublin,240000.0,No,Whitehall,Dublin 9,q2,30%
+06/01/2017,"97 Shantalla Rd, Whitehall, Dublin 9",Dublin,335000.0,No,Whitehall,Dublin 9,q3,60%
+19/01/2017,"1 The Green, Hazelbrook Square, Whitehall Road",Dublin,563877.0,Yes,Whitehall,Dublin 9,q4,100%
+26/01/2017,"157 Whitehall Rd, Terenure, Dublin 12",Dublin,525000.0,No,Whitehall,Dublin 9,q4,100%
+17/02/2017,"11 Shanowen Dr, Whitehall, Dublin 9",Dublin,355000.0,No,Whitehall,Dublin 9,q3,70%
+01/03/2017,"453 Collins Ave, Whitehall, Dublin",Dublin,400000.0,No,Whitehall,Dublin 9,q3,80%
+06/03/2017,"9 Beechfield Court, Apt 9, Whitehall Rd West Dublin 12",Dublin,204000.0,No,Whitehall,Dublin 9,q1,20%
+16/03/2017,"3 The Drive, Hazelbrook Square, Whitehall Road",Dublin,506608.0,Yes,Whitehall,Dublin 9,q4,100%
+27/03/2017,"82 The Thatch Rd, Whitehall, Dublin 9",Dublin,342500.0,No,Whitehall,Dublin 9,q3,70%
+04/04/2017,"31 Beaumont Rd, Whitehall, Dublin 9",Dublin,412000.0,No,Whitehall,Dublin 9,q4,80%
+04/04/2017,"499 Collins Ave West, Whitehall, Dublin 9",Dublin,345000.0,No,Whitehall,Dublin 9,q3,70%
+07/04/2017,"123 Collins Park, Whitehall, Dublin 9",Dublin,326213.5,No,Whitehall,Dublin 9,q3,60%
+10/04/2017,"9 The Grove, Hazelbrook Square, Whitehall Road",Dublin,695000.0,Yes,Whitehall,Dublin 9,q4,100%
+11/04/2017,"6 The Close, Hazelbrook Square, Whitehall Road",Dublin,440529.0,Yes,Whitehall,Dublin 9,q4,90%
+12/04/2017,"1 Glencorp Rd, Whitehall, Dublin 9",Dublin,292500.0,No,Whitehall,Dublin 9,q2,50%
+12/04/2017,"27 Celtic Park Ave, Whitehall, Dublin 9",Dublin,425000.0,No,Whitehall,Dublin 9,q4,90%
+13/04/2017,"6 The Grove, Hazelbrook Square, Whitehall Road",Dublin,612334.8,Yes,Whitehall,Dublin 9,q4,100%
+13/04/2017,"9 The Close, Hazelbrrk Square, Whitehall Road",Dublin,546255.5,Yes,Whitehall,Dublin 9,q4,100%
+20/04/2017,"314 Collinswood, Whitehall, Dublin 9",Dublin,438000.0,No,Whitehall,Dublin 9,q4,90%
+25/04/2017,"44 Glenshesk Rd, Whitehall, Dublin 9",Dublin,257000.0,No,Whitehall,Dublin 9,q2,40%
+25/04/2017,"8 Glentow Rd, Larkhill, Whitehall Dublin 9",Dublin,220000.0,No,Whitehall,Dublin 9,q1,30%
+26/04/2017,"209 Larkhill Rd, Whitehall, Dublin 9",Dublin,290000.0,No,Whitehall,Dublin 9,q2,50%
+27/04/2017,"15 The Place, Hazlebrook Square, Whitehall Road",Dublin,515418.0,Yes,Whitehall,Dublin 9,q4,100%
+28/04/2017,"141 Iveragh Rd, Whitehall, Dublin 9",Dublin,500000.0,No,Whitehall,Dublin 9,q4,90%
+05/05/2017,"186 Iveragh Rd, Whitehall, Dublin 9",Dublin,575000.0,No,Whitehall,Dublin 9,q4,100%
+17/05/2017,"10 Larkhill Rd, Whitehall, Dublin 9",Dublin,220000.0,No,Whitehall,Dublin 9,q1,30%
+19/05/2017,"60 Larkhill Rd, Whitehall, Dublin 9",Dublin,300000.0,No,Whitehall,Dublin 9,q2,50%
+25/05/2017,"192 Iveragh Rd, Whitehall, Dublin 9",Dublin,546000.0,No,Whitehall,Dublin 9,q4,100%
+31/05/2017,"2 The Close, Hazelbrook Square, Whitehall Road",Dublin,548800.0,Yes,Whitehall,Dublin 9,q4,100%
+02/06/2017,"1 Larkhill Rd, Whitehall, Dublin",Dublin,268500.0,No,Whitehall,Dublin 9,q2,40%
+02/06/2017,"37 Crestfield Ave, Whitehall, Dublin 9",Dublin,367000.0,No,Whitehall,Dublin 9,q3,70%
+22/06/2017,"77 Glencloy Rd, Whitehall, Dublin 9",Dublin,294000.0,No,Whitehall,Dublin 9,q2,50%
+23/06/2017,"203 Larkhill Rd, Whitehall, Dublin 9",Dublin,284000.0,No,Whitehall,Dublin 9,q2,40%
+03/07/2017,"52 Whitehall Rd, Terenure, Dublin 12",Dublin,510000.0,No,Whitehall,Dublin 9,q4,100%
+04/07/2017,"54 Larkhill Rd, Whitehall, Dublin 9",Dublin,277000.0,No,Whitehall,Dublin 9,q2,40%
+11/07/2017,"16 Iveragh Road, Whitehall, Dublin 9",Dublin,425000.0,No,Whitehall,Dublin 9,q4,90%
+26/07/2017,"58 Shanboley Rd, Whitehall, Dublin 9",Dublin,421000.0,No,Whitehall,Dublin 9,q4,80%
+28/07/2017,"52 Larkhill Rd, Whitehall, Dublin 9",Dublin,349250.0,No,Whitehall,Dublin 9,q3,70%
+31/07/2017,"8 Crestfield Rd, Whitehall, Dublin 9",Dublin,380000.0,No,Whitehall,Dublin 9,q3,80%
+01/08/2017,"14 Priory Hall, Whitehall, Dublin 12",Dublin,385000.0,No,Whitehall,Dublin 9,q3,80%
+10/08/2017,"173 Larkhill Rd, Whitehall, Dublin 9",Dublin,295000.0,No,Whitehall,Dublin 9,q2,50%
+30/08/2017,"51 Glenaan Rd, Whitehall, Dublin 9",Dublin,310000.0,No,Whitehall,Dublin 9,q3,60%
+31/08/2017,"11 Priory Way, Whitehall Rd, Terenure Dublin 12",Dublin,550000.0,No,Whitehall,Dublin 9,q4,100%
+05/09/2017,"Apt Over 406 Collins Ave, Whitehall, Dublin 9",Dublin,210000.0,No,Whitehall,Dublin 9,q1,20%
+06/09/2017,"2 The Close, Hazelbrook Square, Whitehall Road",Dublin,630000.0,No,Whitehall,Dublin 9,q4,100%
+19/09/2017,"1 Whitehall Close, Terenure, Dublin 6W",Dublin,590000.0,No,Whitehall,Dublin 9,q4,100%
+22/09/2017,"2 The Avenue, Hazlebrook Square, Whitehall Road",Dublin,475770.0,Yes,Whitehall,Dublin 9,q4,90%
+29/09/2017,"507 Collins Ave, Whitehall, Dublin 9",Dublin,420000.0,No,Whitehall,Dublin 9,q4,80%
+05/10/2017,"14 Whitehall Rd West, Dublin 12, Dublin",Dublin,352000.0,No,Whitehall,Dublin 9,q3,70%
+06/10/2017,"106 Iveragh Rd, Whitehall, Dublin 9",Dublin,356250.0,No,Whitehall,Dublin 9,q3,70%
+12/10/2017,"5 The Avenue, Hazelbrook Square, Whitehall Road",Dublin,527753.0,Yes,Whitehall,Dublin 9,q4,100%
+19/10/2017,"669 Collins Ave, Whitehall, Dublin 9",Dublin,380000.0,No,Whitehall,Dublin 9,q3,80%
+27/10/2017,"498 Collins Ave West, Whitehall, Dublin 9",Dublin,405000.0,No,Whitehall,Dublin 9,q4,80%
+31/10/2017,"386 Collins Ave, Whitehall, Dublin",Dublin,410127.0,No,Whitehall,Dublin 9,q4,80%
+02/11/2017,"73 Celtic Park Ave, Whitehall, Dublin 9",Dublin,425000.0,No,Whitehall,Dublin 9,q4,90%
+06/11/2017,"115 Collins Park, Whitehall, Dublin 9",Dublin,432000.0,No,Whitehall,Dublin 9,q4,90%
+07/11/2017,"457 Collins Ave West, Whitehall, Dublin 9",Dublin,430000.0,No,Whitehall,Dublin 9,q4,90%
+16/11/2017,"47 Glentow Rd, Whitehall, Dublin 9",Dublin,315000.0,No,Whitehall,Dublin 9,q3,60%
+23/11/2017,"47 Glenshesk Rd, Whitehall, Dublin 9",Dublin,400000.0,No,Whitehall,Dublin 9,q3,80%
+21/12/2017,"491 Collins Ave, Whitehall, Dublin 9",Dublin,675000.0,No,Whitehall,Dublin 9,q4,100%
+04/01/2018,"16 Crestfield Ave, Whitehall, Dublin 9",Dublin,460000.0,No,Whitehall,Dublin 9,q4,90%
+08/02/2018,"28 Glendun Road, Larkhill, Whitehall",Dublin,303000.0,No,Whitehall,Dublin 9,q2,50%
+09/02/2018,"9 The Drive, Hazelbrook Square, Whitehall Road",Dublin,572687.22,Yes,Whitehall,Dublin 9,q4,100%
+14/02/2018,"699 Collins Ave Extension, Whitehall, Dublin 9",Dublin,395000.0,No,Whitehall,Dublin 9,q3,80%
+13/03/2018,"55 Whitehall Rd, Terenure, Dublin 6W",Dublin,640000.0,No,Whitehall,Dublin 9,q4,100%
+20/03/2018,"47 Crestfield Ave, Whitehall, Dublin 9",Dublin,332122.0,No,Whitehall,Dublin 9,q3,60%
+23/03/2018,"136 Collins Park, Whitehall, Dublin 9",Dublin,395000.0,No,Whitehall,Dublin 9,q3,80%
+23/03/2018,"76 Glenshesk Rd, Whitehall, Dublin 9",Dublin,311000.0,No,Whitehall,Dublin 9,q3,60%
+29/03/2018,"8 Yellow Rd, Whitehall, Dublin 9",Dublin,285000.0,No,Whitehall,Dublin 9,q2,40%
+04/04/2018,"129 Iveragh Rd, Whitehall, Dublin 9",Dublin,460000.0,No,Whitehall,Dublin 9,q4,90%
+06/04/2018,"26 Glencloy Rd, Whitehall, Dublin 9",Dublin,296000.0,No,Whitehall,Dublin 9,q2,50%
+06/04/2018,"6 Beechfield Court, Whitehall Rd West, Dublin 12",Dublin,200000.0,No,Whitehall,Dublin 9,q1,20%
+12/04/2018,"21 Larkhill Rd, Whitehall, Dublin 9",Dublin,311000.0,No,Whitehall,Dublin 9,q3,60%
+17/04/2018,"47 Ellenfield Rd, Whitehall, Dublin 9",Dublin,150000.0,No,Whitehall,Dublin 9,q1,10%
+04/05/2018,"19A Falcarragh Rd, Whitehall, Dublin 9",Dublin,390000.0,No,Whitehall,Dublin 9,q3,80%
+16/05/2018,"98 Glencloy Rd, Larkhill, Whitehall Dublin 9",Dublin,415000.0,No,Whitehall,Dublin 9,q4,80%
+28/05/2018,"7 Glentow Road, Whitehall, Dublin 9",Dublin,272000.0,No,Whitehall,Dublin 9,q2,40%
+22/06/2018,"708 Collins Ave, Whitehall, Dublin 9",Dublin,401000.0,No,Whitehall,Dublin 9,q4,80%
+06/07/2018,"1 Hillsbrook Grove, Whitehall Rd West, Dublin 12",Dublin,580000.0,No,Whitehall,Dublin 9,q4,100%
+12/07/2018,"12 Whitehall Park, Terenure, Dublin 12",Dublin,432500.0,No,Whitehall,Dublin 9,q4,90%
+18/07/2018,"35 Beaumont Rd, Drumcondra, Whitehall Dublin 9",Dublin,477000.0,No,Whitehall,Dublin 9,q4,90%
+20/07/2018,"28 Glentow Rd, Whitehall, Dublin 9",Dublin,293000.0,No,Whitehall,Dublin 9,q2,50%
+31/07/2018,"43 Glendun Rd, Whitehall, Dublin 9",Dublin,307000.0,No,Whitehall,Dublin 9,q2,50%
+01/08/2018,"45 Priory Walk, Whitehall Road, Terenure Dublin 12",Dublin,655000.0,No,Whitehall,Dublin 9,q4,100%
+10/08/2018,"314 Collins Ave, Whitehall, Dublin 9",Dublin,605000.0,No,Whitehall,Dublin 9,q4,100%
+10/08/2018,"503 Collins Ave, Whitehall, Dublin 9",Dublin,380000.0,No,Whitehall,Dublin 9,q3,80%
+22/08/2018,"Apt 16 Ely Hall, Hazelbrook Square, Whitehall Road",Dublin,402000.0,No,Whitehall,Dublin 9,q4,80%
+24/08/2018,"249 Collinswood, Whitehall, Dublin 9",Dublin,460000.0,No,Whitehall,Dublin 9,q4,90%
+24/08/2018,"28 Innishman Road, Whitehall, Dublin 9",Dublin,415000.0,No,Whitehall,Dublin 9,q4,80%
+31/08/2018,"2 1 The Belfry, 365 Collins Ave, Whitehall Dublin 9",Dublin,217000.0,No,Whitehall,Dublin 9,q1,30%
+01/09/2018,"49 Crestfield Ave, Whitehall, Dublin 9",Dublin,380000.0,No,Whitehall,Dublin 9,q3,80%
+05/09/2018,"1 The Grove, Hazelbrook Square, Whitehall Road",Dublin,795000.0,Yes,Whitehall,Dublin 9,q4,100%
+05/09/2018,"2-10 The Belfry, Collins Avenue, Whitehall",Dublin,235000.0,No,Whitehall,Dublin 9,q2,30%
+06/09/2018,"153 Collins Ave, West, Whitehall Dublin 9",Dublin,575000.0,No,Whitehall,Dublin 9,q4,100%
+13/09/2018,"30 Celtic Park Ave, Off Collins Ave, Whitehall Dublin 9",Dublin,425000.0,No,Whitehall,Dublin 9,q4,90%
+28/09/2018,"213 Collins Ave, Whitehall, Dublin 9",Dublin,640000.0,No,Whitehall,Dublin 9,q4,100%
+28/09/2018,"35 Collins Park, Whitehall, Dublin 9",Dublin,410000.0,No,Whitehall,Dublin 9,q4,80%
+05/10/2018,"30 Glentow Road, Whitehall, Dublin 9",Dublin,325000.0,No,Whitehall,Dublin 9,q3,60%
+19/10/2018,"8 Beaumont Rd, Whitehall, Dublin 9",Dublin,320000.0,No,Whitehall,Dublin 9,q3,60%
+02/11/2018,"272 Collins Avenue, Whitehall, Dublin 9",Dublin,512000.0,No,Whitehall,Dublin 9,q4,100%
+08/11/2018,"9 Limekiln Dr, Whitehall Rd, Terenure Dublin 12",Dublin,430000.0,No,Whitehall,Dublin 9,q4,90%
+16/11/2018,"73 Glenshesk Rd, Whitehall, Dublin 9",Dublin,313000.0,No,Whitehall,Dublin 9,q3,60%
+19/11/2018,"32 The Thatch Rd, Whitehall, Dublin 9",Dublin,286500.0,No,Whitehall,Dublin 9,q2,50%
+20/11/2018,"282 Collins Ave, Whitehall, Dublin 9",Dublin,457000.0,No,Whitehall,Dublin 9,q4,90%
+20/11/2018,"96 The Thatch Road, Whitehall, Dublin 9",Dublin,302000.0,No,Whitehall,Dublin 9,q2,50%
+23/11/2018,"18 Falcarragh Rd, Whitehall, Dublin 9",Dublin,505000.0,No,Whitehall,Dublin 9,q4,90%
+28/11/2018,"101 The Thatch Rd, Whitehall, Dublin 9",Dublin,375000.0,No,Whitehall,Dublin 9,q3,80%
+30/11/2018,"48 Ellenfield Rd, Whitehall, Dublin 9",Dublin,305000.0,No,Whitehall,Dublin 9,q2,50%
+04/12/2018,"3 Shanboley Rd, Whitehall, Dublin 9",Dublin,456000.0,No,Whitehall,Dublin 9,q4,90%
+05/12/2018,"71 The Thatch Rd, Whitehall, Dublin 9",Dublin,375000.0,No,Whitehall,Dublin 9,q3,80%
+07/12/2018,"29 Inishmaan Rd, Whitehall, Dublin",Dublin,560000.0,No,Whitehall,Dublin 9,q4,100%
+07/12/2018,"610 Collins Ave Extn, Whitehall, Dublin 9",Dublin,415000.0,No,Whitehall,Dublin 9,q4,80%
+10/12/2018,"264 Larkhill Rd, Whitehall, Dublin 9",Dublin,304000.0,No,Whitehall,Dublin 9,q2,50%
+12/12/2018,"14 Ardovan Hall, Hazelbrook Square, Whitehall Road",Dublin,322153.12,No,Whitehall,Dublin 9,q3,60%
+12/12/2018,"23 Newtown Hall, Hazelbrook Square, Whitehall Road",Dublin,330963.7,No,Whitehall,Dublin 9,q3,60%
+12/12/2018,"42 Yellow Rd, Whitehall, Dublin 9",Dublin,325000.0,No,Whitehall,Dublin 9,q3,60%
+13/12/2018,"7 Ellenfield Rd, Whitehall, Dublin 9",Dublin,280000.0,No,Whitehall,Dublin 9,q2,40%
+19/12/2018,"21B Whitehall Road, Terenure, Dublin 6W",Dublin,865000.0,No,Whitehall,Dublin 9,q4,100%
+22/01/2019,"44 Glentow Rd, Whitehall, Dublin City",Dublin,345000.0,No,Whitehall,Dublin 9,q3,70%
+24/01/2019,"97 Whitehall Rd, Kimmage, Dublin 12",Dublin,732500.0,No,Whitehall,Dublin 9,q4,100%
+05/02/2019,"78 Glentow Rd, Whitehall, Dublin 9",Dublin,267000.0,No,Whitehall,Dublin 9,q2,40%
+18/02/2019,"539 A Collins Ave, Whitehall, Dublin 9",Dublin,430000.0,No,Whitehall,Dublin 9,q4,90%
+21/02/2019,"63 Glentow Rd, Larkhill Estate Larkhill, Whitehall Dublin 9",Dublin,280000.0,No,Whitehall,Dublin 9,q2,40%
+25/02/2019,"5 Yellow Rd, Whitehall, Dublin 9",Dublin,345000.0,No,Whitehall,Dublin 9,q3,70%
+01/03/2019,"1 Annadale Dr, Whitehall, Dublin 9",Dublin,420000.0,No,Whitehall,Dublin 9,q4,80%
+05/03/2019,"115 Celtic Park Ave, Whitehall, Dublin 9",Dublin,415000.0,No,Whitehall,Dublin 9,q4,80%
+05/03/2019,"140 Beaumont Rd, Whitehall, Dublin 9",Dublin,315000.0,No,Whitehall,Dublin 9,q3,60%
+19/03/2019,"46 Ellenfield Rd, Whitehall, Dublin 9",Dublin,300000.0,No,Whitehall,Dublin 9,q2,50%
+22/03/2019,"Apt 36, Whitehall Sq, Quarry Dr Dublin 12",Dublin,241000.0,No,Whitehall,Dublin 9,q2,30%
+08/04/2019,"7 Whitehall Park, Terenure, Dublin 12",Dublin,450000.0,No,Whitehall,Dublin 9,q4,90%
+10/04/2019,"45 Walnut Rise, Whitehall, Griffith Ave Dublin 9",Dublin,640000.0,No,Whitehall,Dublin 9,q4,100%
+11/04/2019,"23 Glencorp Rd, Whitehall, Dublin 9",Dublin,367500.0,No,Whitehall,Dublin 9,q3,70%
+15/04/2019,"29 Celtic Park Rd, Collins Ave, Whitehall Dublin 9",Dublin,410000.0,No,Whitehall,Dublin 9,q4,80%
+17/04/2019,"175 Whitehall Rd West, Dublin 12, Dublin",Dublin,510000.0,No,Whitehall,Dublin 9,q4,100%
+30/04/2019,"239 Collins Avenue, Whitehall, Dublin 9",Dublin,512000.0,No,Whitehall,Dublin 9,q4,100%
+07/05/2019,"8 Griffith Ave, Whitehall, Dublin 9",Dublin,500000.0,No,Whitehall,Dublin 9,q4,90%
+13/05/2019,"7 Beechfield Court, Whitehall Rd West, Dublin 12",Dublin,210000.0,No,Whitehall,Dublin 9,q1,20%
+15/05/2019,"106 Larkhill Rd, Whitehall, Dublin 9",Dublin,335000.0,No,Whitehall,Dublin 9,q3,60%
+15/05/2019,"59 Whitehall Sq, Whitehall Rd West, Dublin 12",Dublin,55000.0,No,Whitehall,Dublin 9,q1,10%
+17/05/2019,"125 Beaumont Rd, Whitehall, Dublin 9",Dublin,395000.0,No,Whitehall,Dublin 9,q3,80%
+17/05/2019,"141 Whitehall Road, Terenure, Dublin 12",Dublin,585000.0,No,Whitehall,Dublin 9,q4,100%
+21/05/2019,"11 Crestfield Rd, Whitehall, Dublin 9",Dublin,372000.0,No,Whitehall,Dublin 9,q3,70%
+05/06/2019,"61 Glenshesk Rd, Whitehall Dublin 9, Dublin",Dublin,338000.0,No,Whitehall,Dublin 9,q3,70%
+07/06/2019,"360 Collinswood, Collins Ave, Whitehall Dublin 9",Dublin,424000.0,No,Whitehall,Dublin 9,q4,80%
+13/06/2019,"508 Collins Ave, Whitehall, Dublin 9",Dublin,375000.0,No,Whitehall,Dublin 9,q3,80%
+24/06/2019,"21 Wainsfort Manor Grove, Whitehall Road, Terenure",Dublin,305000.0,No,Whitehall,Dublin 9,q2,50%
+08/07/2019,"102 The Thatch Rd, Whitehall, Dublin 9",Dublin,330000.0,No,Whitehall,Dublin 9,q3,60%
+16/07/2019,"71 Larkhill Road, Whitehall, Dublin 9",Dublin,307000.0,No,Whitehall,Dublin 9,q2,50%
+19/07/2019,"74 Thatch Rd, Whitehall, Dublin",Dublin,310000.0,No,Whitehall,Dublin 9,q3,60%
+25/07/2019,"113 Whitehall Rd, Terenure, Dublin 12",Dublin,612500.0,No,Whitehall,Dublin 9,q4,100%
+25/07/2019,"17 Glenaan Road, Larkhill, Whitehall",Dublin,285000.0,No,Whitehall,Dublin 9,q2,40%
+25/07/2019,"23 Crestfield Dr, Whitehall, Dublin",Dublin,425000.0,No,Whitehall,Dublin 9,q4,90%
+06/08/2019,"487 Collins Ave West, Whitehall, Dublin 9",Dublin,490000.0,No,Whitehall,Dublin 9,q4,90%
+12/08/2019,"552 Collins Ave, Whitehall, Dublin 9",Dublin,450000.0,No,Whitehall,Dublin 9,q4,90%
+20/08/2019,"26 Falcarragh Rd, Whitehall, Dublin 9",Dublin,635000.0,No,Whitehall,Dublin 9,q4,100%
+22/08/2019,"55 Whitehall Sq, Whitehall Rd West, Dublin 12",Dublin,219000.0,No,Whitehall,Dublin 9,q1,30%
+03/09/2019,"5A Wellington Court, Whitehall Rd West, Dublin 12",Dublin,198000.0,No,Whitehall,Dublin 9,q1,20%
+12/09/2019,"46 Whitehall Sq, Dublin 12",Dublin,235000.0,No,Whitehall,Dublin 9,q2,30%
+12/09/2019,"83 Collinswood, Collins Ave, Whitehall Dublin 9",Dublin,430000.0,No,Whitehall,Dublin 9,q4,90%
+13/09/2019,"241 Larkhill Rd, Whitehall, Dublin 9",Dublin,295000.0,No,Whitehall,Dublin 9,q2,50%
+04/10/2019,"3 Falcarragh Rd, Gaeltacht Park, Whitehall Dublin 9",Dublin,685000.0,No,Whitehall,Dublin 9,q4,100%
+04/10/2019,"32 Collins Park, Whitehall, Dublin 9",Dublin,480000.0,No,Whitehall,Dublin 9,q4,90%
+04/10/2019,"6 Tourmakeady Rd, Gaeltacht Park, Whitehall Dublin 9",Dublin,420000.0,No,Whitehall,Dublin 9,q4,80%
+07/10/2019,"71 Glentow Rd, Whitehall, Dublin 9",Dublin,315000.0,No,Whitehall,Dublin 9,q3,60%
+23/10/2019,"51 Annadale Dr, Whitehall, Dublin",Dublin,485000.0,No,Whitehall,Dublin 9,q4,90%

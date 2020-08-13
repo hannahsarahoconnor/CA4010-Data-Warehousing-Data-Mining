@@ -1,0 +1,56 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+01/02/2010,"Apt 83 Crosbies Yard, Ossory Road, Dublin 3",Dublin,176500.0,Yes,Ossory Road,Dublin 3,q3,70%
+10/03/2010,"89 Crosbies Yard, Ossory Road",Dublin,188986.78,Yes,Ossory Road,Dublin 3,q3,80%
+01/04/2010,"57 Crosbies Yard, Ossory Road",Dublin,129848.0,Yes,Ossory Road,Dublin 3,q2,50%
+07/05/2010,"Apartment 9, Crosbies Yard, Ossory Road",Dublin,236500.0,Yes,Ossory Road,Dublin 3,q4,100%
+14/05/2010,"26 Crosbie'S Yard, Ossory Road",Dublin,194933.0,Yes,Ossory Road,Dublin 3,q3,80%
+14/05/2010,"Apartment 143, Crosbies Yard, Ossory Road  Dublin 3",Dublin,169848.0,Yes,Ossory Road,Dublin 3,q3,70%
+21/05/2010,"Apartment 43, Crosbies Yard, Ossory Road",Dublin,341500.0,Yes,Ossory Road,Dublin 3,q4,100%
+14/10/2010,"32 Crosbies Yard, Ossory Road, Dublin 3",Dublin,204000.0,Yes,Ossory Road,Dublin 3,q4,80%
+07/03/2012,"Apt 181 /Carpark Space 149, Crosbies Yard, Ossory Road",Dublin,114979.0,Yes,Ossory Road,Dublin 3,q2,40%
+15/06/2012,"126 Crosbies Yard, Ossory Road",Dublin,132500.0,Yes,Ossory Road,Dublin 3,q2,50%
+19/06/2012,"Apt 71, Cosbies Yard, Ossory Road",Dublin,88500.0,Yes,Ossory Road,Dublin 3,q1,30%
+20/07/2012,"Apt 193 And Carpark 154, Crosbies Yard, Ossory Road",Dublin,142000.0,No,Ossory Road,Dublin 3,q3,60%
+20/07/2012,"Apt 58 Crosbies Yard, Ossory Road",Dublin,81498.0,Yes,Ossory Road,Dublin 3,q1,20%
+27/07/2012,"Apartment 107, Crosbies Yard, Ossory Road",Dublin,87335.0,Yes,Ossory Road,Dublin 3,q1,30%
+27/07/2012,"Apartment 11, Crosbies Yard, Ossory Road",Dublin,213348.0,Yes,Ossory Road,Dublin 3,q4,100%
+27/07/2012,"Apartment 16, Crosbies Yard, Ossory Road",Dublin,124538.0,Yes,Ossory Road,Dublin 3,q2,50%
+27/07/2012,"Apartment 17, Crosbies Yard, Ossory Road",Dublin,134538.0,Yes,Ossory Road,Dublin 3,q3,60%
+27/07/2012,"Apartment 95, Crosbies Yard, Ossory Road",Dublin,87335.0,Yes,Ossory Road,Dublin 3,q1,30%
+31/07/2012,"106 Crosbies Yard, Ossory Road",Dublin,91500.0,Yes,Ossory Road,Dublin 3,q2,30%
+02/08/2012,"Apt 78 / Cp Space 76 Crosbies Yard, Ossory Road",Dublin,121146.0,Yes,Ossory Road,Dublin 3,q2,40%
+08/08/2012,"Apartment 162, Crosbies Yard, Ossory Road",Dublin,114096.92,Yes,Ossory Road,Dublin 3,q2,40%
+21/08/2012,"Apartment 195, Crosbies Yard, Ossory Road",Dublin,198597.5,Yes,Ossory Road,Dublin 3,q4,80%
+27/08/2012,"151 Crosbies Yard, Ossory Road",Dublin,160025.0,Yes,Ossory Road,Dublin 3,q3,70%
+26/09/2012,"55 Crosbies Yard, Ossory Road, Dublin 3",Dublin,211500.0,Yes,Ossory Road,Dublin 3,q4,90%
+29/09/2012,"173 Crosbies Yard, Ossory Road",Dublin,205000.0,Yes,Ossory Road,Dublin 3,q4,90%
+12/10/2012,"35 Crosbies Yard, Ossory Road",Dublin,135000.0,Yes,Ossory Road,Dublin 3,q3,60%
+23/10/2012,"199 Crosbies Yard, Ossory Road, Dublin 3",Dublin,80616.74,Yes,Ossory Road,Dublin 3,q1,20%
+23/10/2012,"Apt 130, Crosbies Yard, Ossory Road",Dublin,88500.0,Yes,Ossory Road,Dublin 3,q2,30%
+01/11/2012,"Apt 118 Crosbies Yard, Ossory Road",Dublin,92776.0,Yes,Ossory Road,Dublin 3,q2,30%
+30/11/2012,"153 Crosbies Yard, Ossory Road",Dublin,81498.0,Yes,Ossory Road,Dublin 3,q1,20%
+07/12/2012,"45 Crosbies Yard, Ossory Road, Dublin 3",Dublin,77973.0,Yes,Ossory Road,Dublin 3,q1,10%
+11/12/2012,"79 Crosbies Yard, Ossory Road",Dublin,167400.0,Yes,Ossory Road,Dublin 3,q3,70%
+19/12/2012,"Apt. 13 Crosbies Yard, Ossory Road",Dublin,80616.0,Yes,Ossory Road,Dublin 3,q1,20%
+29/01/2013,"117 Crosbies Yard, Ossory Road, Dublin 3",Dublin,79400.0,Yes,Ossory Road,Dublin 3,q1,10%
+06/03/2013,"Apt 188 Crosbies Yard, Ossory Road, Dublin 3",Dublin,132000.0,Yes,Ossory Road,Dublin 3,q2,50%
+06/03/2013,"Apt 47 Crosbies Yard, Ossory Road, Dublin 3",Dublin,137000.0,Yes,Ossory Road,Dublin 3,q3,60%
+08/04/2013,"67 Crosbies Yard, Ossory Road",Dublin,205000.0,Yes,Ossory Road,Dublin 3,q4,90%
+02/07/2013,"91 Crosbies Yard, Ossory Road, Dublin 3",Dublin,210000.0,Yes,Ossory Road,Dublin 3,q4,90%
+08/08/2013,"Apt 139 And Carspace 41, Crosbies Yard, Ossory Road",Dublin,167401.0,Yes,Ossory Road,Dublin 3,q3,70%
+30/08/2013,"82 Crosbies Yard, Ossory Road",Dublin,80177.0,Yes,Ossory Road,Dublin 3,q1,10%
+02/09/2013,"Apt 125 And Carpark 37, Crosbies Yard, Ossory Road",Dublin,128635.0,Yes,Ossory Road,Dublin 3,q2,50%
+02/09/2013,"Apt 72 And Carspace 81, Crosbies Yard, Ossory Road",Dublin,114538.0,Yes,Ossory Road,Dublin 3,q2,40%
+13/09/2013,"115 Crosbies Yard, Ossory Road",Dublin,210000.0,No,Ossory Road,Dublin 3,q4,90%
+13/09/2013,"36 Crosbies Yard, Ossory Road",Dublin,155000.0,No,Ossory Road,Dublin 3,q3,60%
+20/09/2013,"183 Crosbies Yard, Ossory Road, Dublin 3",Dublin,180616.74,Yes,Ossory Road,Dublin 3,q3,80%
+23/09/2013,"Apt. 207, Crosbies Yard, Ossory Road",Dublin,200000.0,Yes,Ossory Road,Dublin 3,q4,80%
+27/09/2013,"81 Crosbies Yard, Ossory Road, Dublin 3",Dublin,86344.0,Yes,Ossory Road,Dublin 3,q1,20%
+03/10/2013,"77 Crosbiew Yard, Ossory Road, Dublin 3",Dublin,125600.0,Yes,Ossory Road,Dublin 3,q2,50%
+13/11/2013,"59 Crosbies Yard, Ossory Road, Dublin 3",Dublin,118584.0,Yes,Ossory Road,Dublin 3,q2,40%
+20/12/2013,"94 Crosbies Yard, Ossory Road",Dublin,77973.57,Yes,Ossory Road,Dublin 3,q1,10%
+19/06/2014,"163 Crosbies Yard, Ossory Road, Dublin 3",Dublin,250000.0,Yes,Ossory Road,Dublin 3,q4,100%
+16/12/2015,"188 Crosbie'S Yard, Ossory Road, Dublin 3",Dublin,217500.0,No,Ossory Road,Dublin 3,q4,100%
+05/02/2018,"Car Space 80, Crosbie'S Yard, Ossory Road",Dublin,8811.0,Yes,Ossory Road,Dublin 3,q1,10%
+20/02/2018,"Car Space 172, Crosbie'S Yard, Ossory Road",Dublin,8811.0,Yes,Ossory Road,Dublin 3,q1,10%
+06/09/2018,"Apartment 21, Crosbies Yard, Ossory Road",Dublin,335000.0,No,Ossory Road,Dublin 3,q4,100%

@@ -1,0 +1,1091 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/01/2010,"7 Eden Grove, Donabate",Dublin,285000.0,No,Donabate,Co. Dublin,q2,40%
+28/01/2010,"83 Turvey Walk, Donabate",Dublin,195000.0,Yes,Donabate,Co. Dublin,q1,20%
+03/02/2010,"142 Turvey Walk, Donabate, County Dublin",Dublin,185000.0,Yes,Donabate,Co. Dublin,q1,20%
+18/02/2010,"63 Somerton, Donabate",Dublin,390000.0,No,Donabate,Co. Dublin,q4,90%
+24/02/2010,"Apartment No 178 Turvey Walk, Donabate, Co Dublin",Dublin,189427.31,Yes,Donabate,Co. Dublin,q1,20%
+26/02/2010,"94 The Strand, Donabate",Dublin,257500.0,No,Donabate,Co. Dublin,q2,40%
+05/03/2010,"11 Carrs Mill, Donabate",Dublin,295000.0,No,Donabate,Co. Dublin,q2,50%
+05/03/2010,"13 Beverton Gardens, Donabate, Co. Dublin",Dublin,285000.0,Yes,Donabate,Co. Dublin,q2,40%
+08/03/2010,"10  Beverton Meadows, Donabate",Dublin,320000.0,Yes,Donabate,Co. Dublin,q3,60%
+10/03/2010,"34 The Priory, Donabate",Dublin,340000.0,No,Donabate,Co. Dublin,q3,70%
+12/03/2010,"190 Turvey Walk, Donabate",Dublin,225000.0,Yes,Donabate,Co. Dublin,q1,30%
+12/03/2010,"2 Turvey Woods, Donabate",Dublin,152000.0,No,Donabate,Co. Dublin,q1,10%
+16/03/2010,"119 Carrsmill  Portrane Road, Donabate",Dublin,546035.24,No,Donabate,Co. Dublin,q4,100%
+23/04/2010,"The Round House, Ballymadrough, Donabate",Dublin,526000.0,No,Donabate,Co. Dublin,q4,100%
+05/05/2010,"Portrane Road, Donabate, .",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+06/05/2010,"14 Viking Court, Turvey Close, Donabate",Dublin,122500.0,No,Donabate,Co. Dublin,q1,10%
+11/05/2010,"117  Carrsmill, Donabate",Dublin,397107.0,Yes,Donabate,Co. Dublin,q4,90%
+14/05/2010,"149 Carrsmill, Portrane Road, Donabate",Dublin,540000.0,No,Donabate,Co. Dublin,q4,100%
+14/05/2010,"2 Beverton Meadows, Donabate",Dublin,325000.0,Yes,Donabate,Co. Dublin,q3,60%
+02/06/2010,"86 Carrs Mills, Donabate",Dublin,322000.0,No,Donabate,Co. Dublin,q3,60%
+04/06/2010,"38 Eden Grove, Donabate",Dublin,297500.0,No,Donabate,Co. Dublin,q2,50%
+11/06/2010,"Apt 188, Turvey Walk, Donabate",Dublin,189427.31,Yes,Donabate,Co. Dublin,q1,20%
+18/06/2010,"4 Somerton, Donabate",Dublin,365000.0,No,Donabate,Co. Dublin,q3,80%
+18/06/2010,"The Orchard, Beaverstown Road, Donabate",Dublin,357000.0,No,Donabate,Co. Dublin,q3,70%
+21/06/2010,"19 Bevertonway, Donabate",Dublin,338000.0,No,Donabate,Co. Dublin,q3,70%
+22/06/2010,"Apt 75, Turvey Woods, Donabate",Dublin,120000.0,No,Donabate,Co. Dublin,q1,10%
+28/06/2010,"17 Eden Grove, Donabate",Dublin,275000.0,No,Donabate,Co. Dublin,q2,40%
+02/07/2010,"15 Beaverton Gardens, Donabate",Dublin,340000.0,Yes,Donabate,Co. Dublin,q3,70%
+02/07/2010,"75 Somerton, Donabate",Dublin,330000.0,No,Donabate,Co. Dublin,q3,60%
+15/07/2010,"26 Turvey Green, Donabate",Dublin,241000.0,No,Donabate,Co. Dublin,q2,30%
+23/07/2010,"16 Beverton Green, Donabate",Dublin,335000.0,No,Donabate,Co. Dublin,q3,70%
+28/07/2010,"50  Beaverbrook, Beaverstown, Donabate",Dublin,720000.0,No,Donabate,Co. Dublin,q4,100%
+30/07/2010,"6 Eden Grove, Beaverstown Orchard, Donabate",Dublin,279000.0,No,Donabate,Co. Dublin,q2,40%
+05/08/2010,"49 Beaverbrook, Donabate",Dublin,650000.0,No,Donabate,Co. Dublin,q4,100%
+06/08/2010,"60 Donabate Village, Donabate",Dublin,275000.0,No,Donabate,Co. Dublin,q2,40%
+12/08/2010,"6 Beverton Meadows, Donabate, Co. Dublin",Dublin,176211.0,Yes,Donabate,Co. Dublin,q1,20%
+20/08/2010,"15, Fairways, Donabate",Dublin,190000.0,No,Donabate,Co. Dublin,q1,20%
+27/08/2010,"138 Carrsmill, Portrane Road, Donabate",Dublin,387665.19,Yes,Donabate,Co. Dublin,q4,80%
+27/08/2010,"26 Cois Inbhir, Beaverstown Road, Donabate",Dublin,370000.0,No,Donabate,Co. Dublin,q3,80%
+01/09/2010,"14 Beverton Way, Donabate, Co Dublin",Dublin,280000.0,No,Donabate,Co. Dublin,q2,40%
+02/09/2010,"137 Carrsmill, Donabate",Dublin,525770.93,Yes,Donabate,Co. Dublin,q4,100%
+02/09/2010,"177 Turvey Walk, Donabate, Co Dublin",Dublin,169421.48,Yes,Donabate,Co. Dublin,q1,20%
+13/09/2010,"58 The Strand, Donabate, Co. Dublin",Dublin,260000.0,No,Donabate,Co. Dublin,q2,40%
+17/09/2010,"108 Carrsmill, Portrane Road, Donabate",Dublin,381938.0,Yes,Donabate,Co. Dublin,q4,80%
+23/09/2010,"126 Carrsmill, Portrane Road, Donabate",Dublin,430000.0,Yes,Donabate,Co. Dublin,q4,90%
+30/09/2010,"11 Beverton Gardens, Donabate, Co Dublin",Dublin,250000.0,Yes,Donabate,Co. Dublin,q2,30%
+13/10/2010,"16 Beverton Orchard, Donabate",Dublin,334801.76,Yes,Donabate,Co. Dublin,q3,70%
+28/10/2010,"16  The Strand, Donabate",Dublin,255000.0,No,Donabate,Co. Dublin,q2,40%
+28/10/2010,"Ceol Na Mara, Corballis, Donabate",Dublin,350000.0,No,Donabate,Co. Dublin,q3,70%
+10/11/2010,"12 Beverton Orchard, Donabate, County Dublin",Dublin,220265.0,Yes,Donabate,Co. Dublin,q1,30%
+11/11/2010,"14  Beverton Orchard, Donabate",Dublin,255000.0,Yes,Donabate,Co. Dublin,q2,40%
+24/11/2010,"22 Beverton Green, Donabate, Co Dublin",Dublin,335000.0,No,Donabate,Co. Dublin,q3,70%
+26/11/2010,"6 Warrington Mews, Donabate, Co. Dublin",Dublin,162000.0,Yes,Donabate,Co. Dublin,q1,20%
+26/11/2010,"An Crannog, Portrane Road, Donabate",Dublin,600000.0,No,Donabate,Co. Dublin,q4,100%
+03/12/2010,"70 Cois Inbhir, Donabate",Dublin,388000.0,No,Donabate,Co. Dublin,q4,80%
+06/12/2010,"11 Warrington Mews, Donabate",Dublin,145374.4,Yes,Donabate,Co. Dublin,q1,10%
+09/12/2010,"4  Beverton Orchard, Donabate, Co. Dublin",Dublin,224669.6,Yes,Donabate,Co. Dublin,q1,30%
+10/12/2010,"18 Eden Grove, Beaverstown, Donabate",Dublin,248000.0,No,Donabate,Co. Dublin,q2,30%
+16/12/2010,"6 Beverton Orchard, Donabate",Dublin,255000.0,Yes,Donabate,Co. Dublin,q2,40%
+20/12/2010,"Tara, Beaverstown Road, Donabate",Dublin,405000.0,No,Donabate,Co. Dublin,q4,90%
+21/01/2011,"36 Turvey Woods, Donabate",Dublin,117000.0,No,Donabate,Co. Dublin,q1,10%
+18/02/2011,"19 The Strand, Donabate",Dublin,240000.0,No,Donabate,Co. Dublin,q2,30%
+24/02/2011,"11, The Links, Donabate",Dublin,262500.0,No,Donabate,Co. Dublin,q2,40%
+28/03/2011,"8 Beverton Orchard, Donabate, Co Dublin",Dublin,340000.0,Yes,Donabate,Co. Dublin,q3,70%
+20/04/2011,"2 Beverton Orchard, Donabate",Dublin,246696.03,Yes,Donabate,Co. Dublin,q2,30%
+21/04/2011,"149 Turvey Walk, The Gallery, Donabate",Dublin,175000.0,No,Donabate,Co. Dublin,q1,20%
+06/05/2011,"18 Eden Grove, Donabate",Dublin,230000.0,No,Donabate,Co. Dublin,q1,30%
+11/05/2011,"Number 6  Block B, Warrington Mews, Donabate",Dublin,137444.94,Yes,Donabate,Co. Dublin,q1,10%
+12/05/2011,"10  Beverton Orchard, Donabate",Dublin,264316.0,Yes,Donabate,Co. Dublin,q2,40%
+12/05/2011,"5 Barnewall Avenue, Donabate, County Dublin",Dublin,175000.0,No,Donabate,Co. Dublin,q1,20%
+17/06/2011,"110 Carrsmill, Portrane Road, Donabate",Dublin,310792.95,Yes,Donabate,Co. Dublin,q3,60%
+20/06/2011,"17 Beverton Gardens, Donabate",Dublin,229075.0,Yes,Donabate,Co. Dublin,q1,30%
+01/07/2011,"79 Turvey Walk, Donabate, County Dublin",Dublin,160000.0,No,Donabate,Co. Dublin,q1,20%
+05/07/2011,"58  Cois Inbhir, Donabate, Co. Dublin",Dublin,340000.0,No,Donabate,Co. Dublin,q3,70%
+18/07/2011,"10 Station Court, Donabate, Co. Dublin",Dublin,150000.0,No,Donabate,Co. Dublin,q1,10%
+03/08/2011,"166 Turvey Walk, Donabate, Co. Dublin",Dublin,165000.0,Yes,Donabate,Co. Dublin,q1,20%
+15/08/2011,"61 Somerton, Donabate",Dublin,300000.0,No,Donabate,Co. Dublin,q2,50%
+23/08/2011,"Apt 175 Turvey Walk, Donabate",Dublin,153000.0,Yes,Donabate,Co. Dublin,q1,10%
+31/08/2011,"3 The Links, Donabate",Dublin,227000.0,No,Donabate,Co. Dublin,q1,30%
+31/08/2011,"42 Cois Inbhir, Donabate",Dublin,341000.0,No,Donabate,Co. Dublin,q3,70%
+22/09/2011,"3  Beverton Meadows, Donabate",Dublin,158590.0,Yes,Donabate,Co. Dublin,q1,10%
+07/10/2011,"115 Carrsmill, Donabate",Dublin,370000.0,No,Donabate,Co. Dublin,q3,80%
+12/10/2011,"Portrane Road, Donabate",Dublin,260000.0,No,Donabate,Co. Dublin,q2,40%
+25/10/2011,"5 Beverton Wood, Donabate, County Dublin",Dublin,211453.74,Yes,Donabate,Co. Dublin,q1,20%
+27/10/2011,"4 Beverton Wood, Donabate",Dublin,240000.0,Yes,Donabate,Co. Dublin,q2,30%
+27/10/2011,"55 The Links, Donabate",Dublin,225000.0,No,Donabate,Co. Dublin,q1,30%
+01/11/2011,"120 Carsmill, Portrane Road, Donabate",Dublin,470000.0,Yes,Donabate,Co. Dublin,q4,100%
+09/11/2011,"3  Beverton Wood Estate, Donabate, Co. Dublin",Dublin,211453.75,Yes,Donabate,Co. Dublin,q1,20%
+25/11/2011,"9 Eden Grove, Donabate",Dublin,200000.0,No,Donabate,Co. Dublin,q1,20%
+29/11/2011,"150 Carr'S Mill, Portrane Road, Donabate",Dublin,348017.0,Yes,Donabate,Co. Dublin,q3,70%
+09/12/2011,"17 The Links, Donabate",Dublin,200000.0,No,Donabate,Co. Dublin,q1,20%
+19/12/2011,"155 The Links, Donabate, Dublin",Dublin,250000.0,No,Donabate,Co. Dublin,q2,30%
+20/12/2011,"7 Beverton Wood, Donabate, Co. Dublin",Dublin,242290.75,Yes,Donabate,Co. Dublin,q2,30%
+12/01/2012,"6 Beverton Wood, Donabate",Dublin,270000.0,Yes,Donabate,Co. Dublin,q2,40%
+13/01/2012,"7 Somerton, Donabate",Dublin,290000.0,No,Donabate,Co. Dublin,q2,50%
+18/01/2012,"19 Beverton Drive, Donabate, Co. Dublin",Dublin,260000.0,No,Donabate,Co. Dublin,q2,40%
+13/02/2012,"8 Beverton Wood, Donabate",Dublin,260000.0,Yes,Donabate,Co. Dublin,q2,40%
+15/02/2012,"Redlands, Balcarrick, Donabate",Dublin,465000.0,No,Donabate,Co. Dublin,q4,100%
+16/02/2012,"114 Carrsmill, Donabate",Dublin,442500.0,Yes,Donabate,Co. Dublin,q4,100%
+29/02/2012,"125 Carrsmill, Donabate",Dublin,286343.6,Yes,Donabate,Co. Dublin,q2,50%
+29/02/2012,"159 Turvey Walk, Donabate",Dublin,113821.0,Yes,Donabate,Co. Dublin,q1,10%
+12/03/2012,"156 The Gallery, Turvey Walk, Donabate",Dublin,160000.0,No,Donabate,Co. Dublin,q1,20%
+13/04/2012,"2 Beverton Wood, Donabate",Dublin,207048.46,Yes,Donabate,Co. Dublin,q1,20%
+27/04/2012,"Ard Na Greine, Portrane Road, Donabate",Dublin,540000.0,No,Donabate,Co. Dublin,q4,100%
+03/05/2012,"143 Carrsmill, Donabate",Dublin,300000.0,Yes,Donabate,Co. Dublin,q2,50%
+04/05/2012,"1 Beverton Wood, Donabate",Dublin,242290.74,Yes,Donabate,Co. Dublin,q2,30%
+04/05/2012,"8 Beverton Court, Donabate",Dublin,110000.0,No,Donabate,Co. Dublin,q1,10%
+17/05/2012,"Dunrovin, Donabate, Co Dublin",Dublin,350000.0,No,Donabate,Co. Dublin,q3,70%
+25/05/2012,"104 Carrsmill, Portrane Road, Donabate",Dublin,384837.0,Yes,Donabate,Co. Dublin,q4,80%
+06/06/2012,"37 Cois Inbhir, Donabate",Dublin,360000.0,No,Donabate,Co. Dublin,q3,70%
+11/06/2012,"1 Turvey Drive, Donabate",Dublin,355000.0,No,Donabate,Co. Dublin,q3,70%
+12/06/2012,"11 Beverton Wood, Donabate",Dublin,242290.74,Yes,Donabate,Co. Dublin,q2,30%
+03/07/2012,"Kilcrea, Donabate, Co. Dublin",Dublin,167000.0,No,Donabate,Co. Dublin,q1,20%
+04/07/2012,"9 Beverton Gardens, Donabate",Dublin,215859.04,Yes,Donabate,Co. Dublin,q1,30%
+17/07/2012,"10 Beverton Wood, Donabate",Dublin,234625.0,Yes,Donabate,Co. Dublin,q2,30%
+31/07/2012,"Mystical Rose, Balcarrick, Donabate",Dublin,465000.0,No,Donabate,Co. Dublin,q4,100%
+14/08/2012,"19  Beverton Gardens, Donabate",Dublin,229074.88,Yes,Donabate,Co. Dublin,q1,30%
+20/08/2012,"137 Carrs Mill, Donabate, Co. Dublin",Dublin,430000.0,No,Donabate,Co. Dublin,q4,90%
+27/08/2012,"'Lisieux', Portrane Road, Donabate",Dublin,290000.0,No,Donabate,Co. Dublin,q2,50%
+28/08/2012,"107 Turvey Walk, Donabate",Dublin,147500.0,No,Donabate,Co. Dublin,q1,10%
+06/09/2012,"23 Cois Inbhir, Donabate",Dublin,313500.0,No,Donabate,Co. Dublin,q3,60%
+10/09/2012,"10 Beverton Rise, Donabate",Dublin,150000.0,No,Donabate,Co. Dublin,q1,10%
+13/09/2012,"3 Beverton Way, Donabate, Co Dublin",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+17/09/2012,"38 The Gallery, Donabate",Dublin,145000.0,No,Donabate,Co. Dublin,q1,10%
+20/09/2012,"15 Beverton Wood, Donabate, County Dublin",Dublin,240000.0,Yes,Donabate,Co. Dublin,q2,30%
+25/09/2012,"13 Beverton Wood, Turvey Avenue, Donabate",Dublin,211453.0,Yes,Donabate,Co. Dublin,q1,20%
+03/10/2012,"St Patrick'S Terrace, Donabate",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+05/10/2012,"12 Beverton Wood, Donabate, Co. Dublin",Dublin,207929.51,Yes,Donabate,Co. Dublin,q1,20%
+22/10/2012,"67 Ballisk Court, Donabate",Dublin,180000.0,No,Donabate,Co. Dublin,q1,20%
+30/10/2012,"16 Beverton Wood, Donabate",Dublin,259912.0,Yes,Donabate,Co. Dublin,q2,40%
+09/11/2012,"14 Beverton Wood, Donabate",Dublin,211454.0,Yes,Donabate,Co. Dublin,q1,20%
+15/11/2012,"172 The Links, Donabate",Dublin,260000.0,No,Donabate,Co. Dublin,q2,40%
+16/11/2012,"145 The Gallery, Turvey Walk, Donabate",Dublin,136600.0,Yes,Donabate,Co. Dublin,q1,10%
+16/11/2012,"19 Willowbrook, Portrane Road, Donabate",Dublin,478500.0,No,Donabate,Co. Dublin,q4,100%
+16/11/2012,"38 Beaverstown Orchard, Donabate",Dublin,200000.0,No,Donabate,Co. Dublin,q1,20%
+16/11/2012,"94 Cois Inbhir, Donabate",Dublin,135000.0,No,Donabate,Co. Dublin,q1,10%
+19/11/2012,"124 Carrs Mill, Donabate",Dublin,305506.61,Yes,Donabate,Co. Dublin,q3,60%
+20/11/2012,"16 Eden Grove, Donabate",Dublin,238000.0,No,Donabate,Co. Dublin,q2,30%
+21/11/2012,"76 Somerton, Donabate, Co Dublin",Dublin,270000.0,No,Donabate,Co. Dublin,q2,40%
+23/11/2012,"45 Ballisk Court, Donabate",Dublin,102000.0,No,Donabate,Co. Dublin,q1,10%
+23/11/2012,"9  Beverton Wood, Donabate",Dublin,220264.32,Yes,Donabate,Co. Dublin,q1,30%
+27/11/2012,"56 Beverton Court, Donabate, Co Dublin",Dublin,95000.0,No,Donabate,Co. Dublin,q1,10%
+30/11/2012,"15 Beaverstown Orchard, Donabate, County Dublin",Dublin,160000.0,No,Donabate,Co. Dublin,q1,20%
+11/12/2012,"The Orchard, Egan'S Field  Corballis, Donabate",Dublin,120000.0,No,Donabate,Co. Dublin,q1,10%
+18/12/2012,"17 Beverton Ave, Donabate",Dublin,295000.0,No,Donabate,Co. Dublin,q2,50%
+18/12/2012,"Apt.75 Turvey Woods, Beaverstown, Donabate",Dublin,68000.0,No,Donabate,Co. Dublin,q1,10%
+19/12/2012,"112 Carrs Mill, Portrane Road, Donabate",Dublin,345000.0,No,Donabate,Co. Dublin,q3,70%
+20/12/2012,"An Dun, Donabate",Dublin,85000.0,No,Donabate,Co. Dublin,q1,10%
+21/12/2012,"14 The Priory, Donabate, County Dublin",Dublin,342500.0,No,Donabate,Co. Dublin,q3,70%
+21/12/2012,"23 Beverton Gardens, Donabate, Co. Dublin",Dublin,240000.0,Yes,Donabate,Co. Dublin,q2,30%
+28/12/2012,"5 Turvey Park, Donabate, Co. Dublin",Dublin,175000.0,No,Donabate,Co. Dublin,q1,20%
+28/12/2012,"57 Somerton, Donabate",Dublin,267000.0,No,Donabate,Co. Dublin,q2,40%
+07/01/2013,"33 Ballisk Court, Donabate",Dublin,123000.0,No,Donabate,Co. Dublin,q1,10%
+17/01/2013,"64 Cois Inbhir, Donabate",Dublin,325000.0,No,Donabate,Co. Dublin,q3,60%
+22/01/2013,"21 Beverton Gardens, Donabate",Dublin,211453.75,Yes,Donabate,Co. Dublin,q1,20%
+08/02/2013,"7 Beaverstown Orchard, Donabate, County Dublin",Dublin,175000.0,No,Donabate,Co. Dublin,q1,20%
+08/02/2013,"Apartment 40 Beverton Court, Donabate, County Dublin",Dublin,75000.0,No,Donabate,Co. Dublin,q1,10%
+15/02/2013,"17 Turvey Park, Donabate, Co Dublin",Dublin,262000.0,No,Donabate,Co. Dublin,q2,40%
+07/03/2013,"2 Beverton Court, Donabate",Dublin,75000.0,No,Donabate,Co. Dublin,q1,10%
+12/03/2013,"Apt 4 Beverton Court, Donabate",Dublin,75000.0,No,Donabate,Co. Dublin,q1,10%
+19/03/2013,"13  Benson Crescent, Beaverstown Orchard, Donabate",Dublin,138000.0,No,Donabate,Co. Dublin,q1,10%
+22/03/2013,"Avalon, Portrane Road, Donabate",Dublin,471000.0,No,Donabate,Co. Dublin,q4,100%
+25/03/2013,"25 Somerton, Portrane Road, Donabate",Dublin,262000.0,No,Donabate,Co. Dublin,q2,40%
+15/04/2013,"109 Carrs Mill, Donabate, Co Dublin",Dublin,343250.0,Yes,Donabate,Co. Dublin,q3,70%
+08/05/2013,"The Beaver, Beaverstown Road, Donabate",Dublin,205000.0,No,Donabate,Co. Dublin,q1,20%
+13/05/2013,"6 Beverton Lawns, Donabate",Dublin,275000.0,No,Donabate,Co. Dublin,q2,40%
+21/05/2013,"44 Beaverstown Orchard, Donabate, Co Dublin",Dublin,202500.0,No,Donabate,Co. Dublin,q1,20%
+31/05/2013,"Wedgewood, Turvey Avenue, Donabate",Dublin,390000.0,No,Donabate,Co. Dublin,q4,90%
+24/06/2013,"48 Donabate Village, Donabate",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+28/06/2013,"11 Beverton Lawns, Donabate",Dublin,311000.0,No,Donabate,Co. Dublin,q3,60%
+02/07/2013,"30 Hazelwood, Donabate",Dublin,257000.0,No,Donabate,Co. Dublin,q2,40%
+15/07/2013,"19 The Links, Donabate, Co. Dublin",Dublin,210000.0,No,Donabate,Co. Dublin,q1,20%
+18/07/2013,"68 The Links, Donabate, Dublin",Dublin,236000.0,No,Donabate,Co. Dublin,q2,30%
+26/07/2013,"30 Beaverstown Orchard, Donabate",Dublin,215000.0,No,Donabate,Co. Dublin,q1,20%
+26/07/2013,"33 Beverton Gardens, Donabate",Dublin,233480.0,Yes,Donabate,Co. Dublin,q1,30%
+26/07/2013,"35 Beverton Gardens, Donabate, County Dublin",Dublin,233480.17,Yes,Donabate,Co. Dublin,q1,30%
+29/07/2013,"17 Orchard Close, Donabate",Dublin,230000.0,No,Donabate,Co. Dublin,q1,30%
+30/07/2013,"25 Beverton Gardens, Donabate",Dublin,246696.0,Yes,Donabate,Co. Dublin,q2,30%
+30/07/2013,"27 Beverton Gardens, Donabate",Dublin,280000.0,Yes,Donabate,Co. Dublin,q2,40%
+31/07/2013,"47 Beverton Court, Donabate",Dublin,90000.0,No,Donabate,Co. Dublin,q1,10%
+02/08/2013,"27 Beverton Court, Donabate",Dublin,87000.0,No,Donabate,Co. Dublin,q1,10%
+15/08/2013,"Apr 25 Turvey Villas, Donabate, Co.Dublin",Dublin,85600.0,No,Donabate,Co. Dublin,q1,10%
+23/08/2013,"23  Viking Court, Donabate, County Dublin",Dublin,92000.0,No,Donabate,Co. Dublin,q1,10%
+02/09/2013,"25 Turvey Woods, Donabate",Dublin,78500.0,No,Donabate,Co. Dublin,q1,10%
+03/09/2013,"31 Beverton Gardens, Donabate",Dublin,213216.0,Yes,Donabate,Co. Dublin,q1,20%
+04/09/2013,"Apt 14 Lambscourt, Beaverstown Orchard, Donabate",Dublin,122000.0,No,Donabate,Co. Dublin,q1,10%
+05/09/2013,"8 Beverton Avenue, Donabate",Dublin,280000.0,No,Donabate,Co. Dublin,q2,40%
+11/09/2013,"1 Beaverbrook, Donabate, Co Dublin",Dublin,540000.0,No,Donabate,Co. Dublin,q4,100%
+11/09/2013,"12 Beverton Green, Donabate",Dublin,257500.0,No,Donabate,Co. Dublin,q2,40%
+25/09/2013,"20 Benson Crescent, Beaverstown Orchard, Donabate",Dublin,140000.0,No,Donabate,Co. Dublin,q1,10%
+04/10/2013,"39 Beverton Court, Donabate",Dublin,77500.0,No,Donabate,Co. Dublin,q1,10%
+04/10/2013,"5 Station Court, Donabate, Co Dublin",Dublin,118000.0,No,Donabate,Co. Dublin,q1,10%
+11/10/2013,"29 Beverton Gardens, Donabate",Dublin,220264.0,Yes,Donabate,Co. Dublin,q1,30%
+18/10/2013,"156 Carrs Mill, Donabate, County Dublin",Dublin,420000.0,No,Donabate,Co. Dublin,q4,90%
+18/10/2013,"20 Beverton Grove, Donabate, Co Dublin",Dublin,268000.0,No,Donabate,Co. Dublin,q2,40%
+23/10/2013,"157 The Links, Donabate",Dublin,250000.0,No,Donabate,Co. Dublin,q2,30%
+23/10/2013,"9 Turvey Villas, Donabate",Dublin,91000.0,No,Donabate,Co. Dublin,q1,10%
+29/10/2013,"Apt 152 Turvey Walk, Donabate",Dublin,176000.0,No,Donabate,Co. Dublin,q1,20%
+30/10/2013,"13 Beaverstown Orchard, Donabate",Dublin,175000.0,No,Donabate,Co. Dublin,q1,20%
+30/10/2013,"9 Beverton Heights, Donabate",Dublin,265000.0,Yes,Donabate,Co. Dublin,q2,40%
+01/11/2013,"Lios Na Gcloch, Beaverstown, Donabate",Dublin,525000.0,No,Donabate,Co. Dublin,q4,100%
+04/11/2013,"3 Beverton Heights, Donabate, Dublin",Dublin,250000.0,Yes,Donabate,Co. Dublin,q2,30%
+05/11/2013,"Compass Rose (Formerly Sean Geata), Ballymadrough, Donabate",Dublin,380000.0,No,Donabate,Co. Dublin,q4,80%
+06/11/2013,"11 Beverton Heights, Donabate",Dublin,229076.0,Yes,Donabate,Co. Dublin,q1,30%
+06/11/2013,"26, Turvey Grove, Donabate",Dublin,222000.0,No,Donabate,Co. Dublin,q1,30%
+06/11/2013,"5 Beverton Heights, Donabate, Dublin",Dublin,265000.0,Yes,Donabate,Co. Dublin,q2,40%
+08/11/2013,"32 Beverton Court, Donabate",Dublin,120000.0,No,Donabate,Co. Dublin,q1,10%
+12/11/2013,"1  Beverton Heights, Donabate",Dublin,220264.3,Yes,Donabate,Co. Dublin,q1,30%
+12/11/2013,"7 Beverton Heights, Donabate",Dublin,258000.0,No,Donabate,Co. Dublin,q2,40%
+13/11/2013,"19 Benson Crescent, Donabate",Dublin,130000.0,No,Donabate,Co. Dublin,q1,10%
+21/11/2013,"13  Beverton Heights, Donabate, County Dublin",Dublin,250000.0,Yes,Donabate,Co. Dublin,q2,30%
+21/11/2013,"15 Beverton Heights, Donabate",Dublin,216250.0,Yes,Donabate,Co. Dublin,q1,30%
+25/11/2013,"7 Turvey Park, Donabate",Dublin,245000.0,No,Donabate,Co. Dublin,q2,30%
+26/11/2013,"7 Beverton Avenue, Donabate",Dublin,250000.0,No,Donabate,Co. Dublin,q2,30%
+28/11/2013,"9 The Links, Donabate",Dublin,245000.0,No,Donabate,Co. Dublin,q2,30%
+29/11/2013,"49 Donabate Village, Donabate",Dublin,252500.0,No,Donabate,Co. Dublin,q2,40%
+05/12/2013,"5 Somerton, Donabate",Dublin,275000.0,No,Donabate,Co. Dublin,q2,40%
+05/12/2013,"53 Beaverbrook, Donabate, Dublin",Dublin,588000.0,No,Donabate,Co. Dublin,q4,100%
+05/12/2013,"77 Somerton, Donabate, Dublin",Dublin,277000.0,No,Donabate,Co. Dublin,q2,40%
+06/12/2013,"5 Beaverbrook, Beaverstown Rd, Donabate",Dublin,565000.0,No,Donabate,Co. Dublin,q4,100%
+09/12/2013,"Drumcora, Corballis, Donabate",Dublin,300000.0,No,Donabate,Co. Dublin,q2,50%
+18/12/2013,"Linkside, Corballis, Donabate",Dublin,346000.0,No,Donabate,Co. Dublin,q3,70%
+20/12/2013,"17 Beverton Heights, Donabate",Dublin,277533.0,Yes,Donabate,Co. Dublin,q2,40%
+20/12/2013,"5 Beverton Way, Donabate, Dublin",Dublin,255000.0,No,Donabate,Co. Dublin,q2,40%
+30/12/2013,"Station View, Turvey Avenue, Donabate",Dublin,120000.0,No,Donabate,Co. Dublin,q1,10%
+31/12/2013,"12 Beverton Close, Donabate, Dublin",Dublin,225000.0,No,Donabate,Co. Dublin,q1,30%
+10/01/2014,"3 Beverton Court, Donabate",Dublin,75000.0,No,Donabate,Co. Dublin,q1,10%
+14/01/2014,"3 Beverton Gardens, Donabate, Dublin",Dublin,210000.0,No,Donabate,Co. Dublin,q1,20%
+17/01/2014,"30 Somerton, Donabate, Dublin",Dublin,262000.0,No,Donabate,Co. Dublin,q2,40%
+31/01/2014,"19 Beverton Heights, Donabate, County Dublin",Dublin,242290.74,Yes,Donabate,Co. Dublin,q2,30%
+03/02/2014,"41 Turvey Park, Donabate, Dublin",Dublin,225000.0,No,Donabate,Co. Dublin,q1,30%
+11/02/2014,"21 Beverton Heights, Donabate, Co Dublin",Dublin,233480.0,Yes,Donabate,Co. Dublin,q1,30%
+12/02/2014,"6 Benson Crescent, Beaverstown Orchard, Donabate",Dublin,119000.0,No,Donabate,Co. Dublin,q1,10%
+14/02/2014,"26 The Spires, Donabate, Dublin",Dublin,410000.0,No,Donabate,Co. Dublin,q4,90%
+19/02/2014,"27 Beverton Heights, Donabate",Dublin,233480.0,Yes,Donabate,Co. Dublin,q1,30%
+28/02/2014,"23 Beverton Heights, Beverton, Donabate",Dublin,270000.0,Yes,Donabate,Co. Dublin,q2,40%
+05/03/2014,"29 Beverton Heights, Donabate",Dublin,241453.74,Yes,Donabate,Co. Dublin,q2,30%
+06/03/2014,"17 Turvey Dr, Donabate, Dublin",Dublin,272000.0,No,Donabate,Co. Dublin,q2,40%
+07/03/2014,"Caverstone, The Island, Donabate",Dublin,563000.0,No,Donabate,Co. Dublin,q4,100%
+12/03/2014,"25 Beverton Heights, Donabate",Dublin,265000.0,Yes,Donabate,Co. Dublin,q2,40%
+12/03/2014,"An Dun, Main Street, Donabate",Dublin,85000.0,No,Donabate,Co. Dublin,q1,10%
+04/04/2014,"183 The Gallery, Donabate",Dublin,178000.0,No,Donabate,Co. Dublin,q1,20%
+04/04/2014,"31 Beverton Heights, Donabate",Dublin,290507.0,Yes,Donabate,Co. Dublin,q2,50%
+15/04/2014,"31A Somerton, Portrane Rd, Donabate",Dublin,395000.0,No,Donabate,Co. Dublin,q4,90%
+16/04/2014,"1 Beverton Court, Donabate, Co Dublin",Dublin,85000.0,No,Donabate,Co. Dublin,q1,10%
+17/04/2014,"63 Balliskcourt, Donabate, Dublin",Dublin,110000.0,No,Donabate,Co. Dublin,q1,10%
+25/04/2014,"2 Fairways Est, Donabate, Dublin",Dublin,215000.0,No,Donabate,Co. Dublin,q1,20%
+01/05/2014,"50 Beaverstown Orchard, Donabate, Dublin",Dublin,209000.0,No,Donabate,Co. Dublin,q1,20%
+02/05/2014,"20 Benson Crescent, Beaverstown Orchard, Donabate",Dublin,162000.0,No,Donabate,Co. Dublin,q1,20%
+15/05/2014,"8 Benson Crescent, Beaverstown Orchard, Donabate",Dublin,127000.0,No,Donabate,Co. Dublin,q1,10%
+16/05/2014,"44 Ballisk Court, Donabate, Dublin",Dublin,135000.0,No,Donabate,Co. Dublin,q1,10%
+03/06/2014,"27 The Gallery, Turvey Walk, Donabate",Dublin,165000.0,No,Donabate,Co. Dublin,q1,20%
+10/06/2014,"44 Beverton Heights, Donabate",Dublin,290748.89,Yes,Donabate,Co. Dublin,q2,50%
+11/06/2014,"40 Beverton Heights, Donabate, Co. Dublin",Dublin,259912.0,Yes,Donabate,Co. Dublin,q2,40%
+12/06/2014,"58 Beverton Court, Donabate, Dublin",Dublin,144000.0,No,Donabate,Co. Dublin,q1,10%
+16/06/2014,"46 Beverton Heights, Donabate",Dublin,237048.0,Yes,Donabate,Co. Dublin,q2,30%
+18/06/2014,"1C Warrington Mews, Donabate, Co Dublin",Dublin,270000.0,No,Donabate,Co. Dublin,q2,40%
+18/06/2014,"3B Warrington Mews, Donabate, Co Dublin",Dublin,360000.0,No,Donabate,Co. Dublin,q3,70%
+18/06/2014,"3C Warrington Mews, Donabate, Co Dublin",Dublin,270000.0,No,Donabate,Co. Dublin,q2,40%
+18/06/2014,"4B Warrington Mews, Donabate, Co Dublin",Dublin,360000.0,No,Donabate,Co. Dublin,q3,70%
+19/06/2014,"42 Beverton Heights, Donabate",Dublin,259911.89,Yes,Donabate,Co. Dublin,q2,40%
+24/06/2014,"48 Beverton Heights, Donabate",Dublin,246340.75,Yes,Donabate,Co. Dublin,q2,30%
+26/06/2014,"120 The Links, Donabate, Co Dublin",Dublin,291000.0,No,Donabate,Co. Dublin,q2,50%
+01/07/2014,"16 Beverton Court, Donabate, Dublin",Dublin,121500.0,No,Donabate,Co. Dublin,q1,10%
+11/07/2014,"38 Beverton Heights, Donabate, County Dublin",Dublin,255175.0,Yes,Donabate,Co. Dublin,q2,40%
+15/07/2014,"Apt 32 Turvey Woods, Donabate",Dublin,101300.0,No,Donabate,Co. Dublin,q1,10%
+15/07/2014,"Apt 51 Turvey Woods, Donabate",Dublin,101300.0,No,Donabate,Co. Dublin,q1,10%
+16/07/2014,"69 The Links, Donabate, Dublin",Dublin,335000.0,No,Donabate,Co. Dublin,q3,70%
+17/07/2014,"34 Beverton Heights, Donabate",Dublin,259912.0,Yes,Donabate,Co. Dublin,q2,40%
+17/07/2014,"36 Beverton Heights, Donabate",Dublin,259911.0,Yes,Donabate,Co. Dublin,q2,40%
+28/07/2014,"6 Beverton Orchard, Turvey Ave, Donabate",Dublin,285000.0,No,Donabate,Co. Dublin,q2,40%
+29/07/2014,"24 Turvey Walk, Donabate, Dublin",Dublin,250000.0,No,Donabate,Co. Dublin,q2,30%
+01/08/2014,"4 New Rd, Donabate, Co Dublin",Dublin,240000.0,No,Donabate,Co. Dublin,q2,30%
+08/08/2014,"16 Benson Cresent, Donabate, Co Dublin",Dublin,169000.0,No,Donabate,Co. Dublin,q1,20%
+12/08/2014,"127 Turvey Walk, Donabate, Dublin",Dublin,175000.0,No,Donabate,Co. Dublin,q1,20%
+12/08/2014,"40 Hazelwood, Donabate, Dublin",Dublin,315000.0,No,Donabate,Co. Dublin,q3,60%
+15/08/2014,"6 Baltra Hall, Donabate, Dublin",Dublin,388000.0,No,Donabate,Co. Dublin,q4,90%
+25/08/2014,"135 Carrs Mill Portrane Rd, Donabate, Dublin",Dublin,455000.0,No,Donabate,Co. Dublin,q4,100%
+28/08/2014,"32 Beverton Heights, Donabate",Dublin,259911.89,Yes,Donabate,Co. Dublin,q2,40%
+01/09/2014,"33 Beverton Way, Donabate, Dublin",Dublin,335000.0,No,Donabate,Co. Dublin,q3,70%
+04/09/2014,"10 Station Court, Donabate, Dublin",Dublin,168000.0,No,Donabate,Co. Dublin,q1,20%
+04/09/2014,"3 Station Court, Donabate, Dublin",Dublin,162000.0,No,Donabate,Co. Dublin,q1,20%
+04/09/2014,"8 Fairways, Donabate, Dublin",Dublin,228000.0,No,Donabate,Co. Dublin,q1,30%
+24/09/2014,"175 The Links, Donabate, Dublin",Dublin,266000.0,No,Donabate,Co. Dublin,q2,40%
+03/10/2014,"6 Station Court, Donabate, Dublin",Dublin,162000.0,No,Donabate,Co. Dublin,q1,20%
+10/10/2014,"31 Beverton Lawns, Donabate, Dublin",Dublin,335000.0,No,Donabate,Co. Dublin,q3,70%
+17/10/2014,"28 Beverton Heights, Donabate, County Dublin",Dublin,191829.0,Yes,Donabate,Co. Dublin,q1,20%
+20/10/2014,"46 Hazelwood, Donabate, Dublin",Dublin,310000.0,No,Donabate,Co. Dublin,q3,60%
+21/10/2014,"13 Lambes Court, Beaverstown Orchard, Donabate",Dublin,155000.0,No,Donabate,Co. Dublin,q1,10%
+28/10/2014,"23 Turvey Villas, Donabate",Dublin,110000.0,No,Donabate,Co. Dublin,q1,10%
+30/10/2014,"14 Eden Grove, Donabate",Dublin,295000.0,No,Donabate,Co. Dublin,q2,50%
+31/10/2014,"90 The Links, Donabate, Dublin",Dublin,331000.0,No,Donabate,Co. Dublin,q3,70%
+06/11/2014,"24 Beverton Heights, Donabate, Co Dublin",Dublin,263825.01,Yes,Donabate,Co. Dublin,q2,40%
+06/11/2014,"26 Beverton Heights, Donabate",Dublin,273110.0,Yes,Donabate,Co. Dublin,q2,40%
+14/11/2014,"51 Beaverbrook, Beaverstown Rd, Donabate",Dublin,620000.0,No,Donabate,Co. Dublin,q4,100%
+25/11/2014,"41 Beverton Court, Donabate, Dublin",Dublin,124000.0,No,Donabate,Co. Dublin,q1,10%
+28/11/2014,"7 Beverton Court, Donabate, Dublin",Dublin,145000.0,No,Donabate,Co. Dublin,q1,10%
+01/12/2014,"Pine Lodge, Balcarick, Donabate",Dublin,73000.0,No,Donabate,Co. Dublin,q1,10%
+05/12/2014,"17 Turvey Villas, Donabate, Dublin",Dublin,100000.0,No,Donabate,Co. Dublin,q1,10%
+08/12/2014,"20 Benson Crescent, Beaverstown Orchard, Donabate",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+10/12/2014,"49 Beverton Court, Donabate, Dublin",Dublin,137500.0,No,Donabate,Co. Dublin,q1,10%
+12/12/2014,"20 Beverton Heights, Donabate",Dublin,290748.89,Yes,Donabate,Co. Dublin,q2,50%
+15/12/2014,"22 Beverton Heights, Donabate",Dublin,279800.0,Yes,Donabate,Co. Dublin,q2,40%
+16/12/2014,"107 Turvey Woods, Donabate, Dublin",Dublin,103500.0,No,Donabate,Co. Dublin,q1,10%
+16/12/2014,"14 Beverton Heights, Donabate, Co Dublin",Dublin,264317.18,Yes,Donabate,Co. Dublin,q2,40%
+18/12/2014,"65 Cois Inbhir, Beaverstown Rd, Donabate",Dublin,410000.0,No,Donabate,Co. Dublin,q4,90%
+18/12/2014,"88 Turvey Woods, Donabate, Dublin",Dublin,97000.0,No,Donabate,Co. Dublin,q1,10%
+19/12/2014,"12 Beverton Rise, Donabate, Dublin",Dublin,257500.0,No,Donabate,Co. Dublin,q2,40%
+22/12/2014,"12 Beverton Heights, Donabate, Co. Dublin",Dublin,264317.18,Yes,Donabate,Co. Dublin,q2,40%
+22/12/2014,"15 Turvey Villas, Donabate, Dublin",Dublin,96180.0,No,Donabate,Co. Dublin,q1,10%
+22/12/2014,"16 Turvey Villas, Donabate",Dublin,96180.0,No,Donabate,Co. Dublin,q1,10%
+22/12/2014,"64 Ballisk Court, Donabate, Dublin",Dublin,175000.0,No,Donabate,Co. Dublin,q1,20%
+22/12/2014,"68 Beverton Court, Donabate, Dublin",Dublin,105340.0,No,Donabate,Co. Dublin,q1,10%
+22/12/2014,"69 Ballisk Court, Ballisk, Donabate",Dublin,206099.0,No,Donabate,Co. Dublin,q1,20%
+22/12/2014,"88 Somerton, Donabate, Dublin",Dublin,302279.0,No,Donabate,Co. Dublin,q2,50%
+23/12/2014,"10 Beverton Heights, Donabate",Dublin,264317.18,Yes,Donabate,Co. Dublin,q2,40%
+23/12/2014,"16 Beverton Heights, Donabate",Dublin,264317.0,Yes,Donabate,Co. Dublin,q2,40%
+23/12/2014,"18Beverton Heights, Donabate",Dublin,268367.0,Yes,Donabate,Co. Dublin,q2,40%
+07/01/2015,"28 Beaverbrook, Donabate, Dublin",Dublin,589750.0,No,Donabate,Co. Dublin,q4,100%
+16/01/2015,"19 Somerton, Donabate, Dublin",Dublin,335000.0,No,Donabate,Co. Dublin,q3,70%
+23/01/2015,"2 Turvey Dr, Donabate, Dublin",Dublin,175000.0,No,Donabate,Co. Dublin,q1,20%
+27/01/2015,"8 Beverton Heights, Donabate, Co Dublin",Dublin,300000.0,Yes,Donabate,Co. Dublin,q2,50%
+03/02/2015,"11 Beverton Gardens, Beverton, Donabate",Dublin,295000.0,No,Donabate,Co. Dublin,q2,50%
+06/02/2015,"4 Beverton Heights, Donabate",Dublin,277533.0,Yes,Donabate,Co. Dublin,q2,40%
+06/02/2015,"68 Cois Inbhir, Donabate, Dublin",Dublin,432500.0,No,Donabate,Co. Dublin,q4,90%
+09/02/2015,"25 Turvey Park, Donabate",Dublin,275000.0,No,Donabate,Co. Dublin,q2,40%
+11/02/2015,"68 Turvey Woods, Donabate, Dublin",Dublin,103500.0,No,Donabate,Co. Dublin,q1,10%
+13/02/2015,"86 The Links, Donabate, Dublin",Dublin,385000.0,No,Donabate,Co. Dublin,q4,80%
+18/02/2015,"21 Beverton Avenue, Donabate, Co. Dublin",Dublin,270000.0,No,Donabate,Co. Dublin,q2,40%
+18/02/2015,"51 Beverton Court, Donabate, Dublin",Dublin,105000.0,No,Donabate,Co. Dublin,q1,10%
+23/02/2015,"41 Turvey Dr, Donabate, Dublin",Dublin,440000.0,No,Donabate,Co. Dublin,q4,100%
+25/02/2015,"6 Beverton Heights, Donabate, Co Dublin",Dublin,264317.0,Yes,Donabate,Co. Dublin,q2,40%
+26/02/2015,"5 Beverton Meadows, Donabate, Dublin",Dublin,305000.0,No,Donabate,Co. Dublin,q2,50%
+06/03/2015,"165 The Links, Donabate, Dublin",Dublin,335000.0,No,Donabate,Co. Dublin,q3,70%
+10/03/2015,"110 Turvey Woods, Donabate, Dublin",Dublin,137500.0,No,Donabate,Co. Dublin,q1,10%
+26/03/2015,"160 Turvey Walk, Donabate, Dublin",Dublin,180000.0,No,Donabate,Co. Dublin,q1,20%
+30/03/2015,"14 Beverton Way, Donabate, Dublin",Dublin,317000.0,No,Donabate,Co. Dublin,q3,60%
+10/04/2015,"Villa Maria, Balcarrick, Donabate",Dublin,410000.0,No,Donabate,Co. Dublin,q4,90%
+16/04/2015,"86 Somerton, Portrane Rd, Donabate",Dublin,365000.0,No,Donabate,Co. Dublin,q3,80%
+22/04/2015,"136  The Gallery, Turvey Walk, Donabate",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+30/04/2015,"Portrane Road, Donabate, Co. Dublin",Dublin,280000.0,No,Donabate,Co. Dublin,q2,40%
+01/05/2015,"23 Beverton Rise, Donabate",Dublin,300000.0,No,Donabate,Co. Dublin,q2,50%
+01/05/2015,"50 Beverton Court, Donabate, Dublin",Dublin,95000.0,No,Donabate,Co. Dublin,q1,10%
+05/05/2015,"35 Beverton Way, Turvey Avenue, Donabate",Dublin,464000.0,No,Donabate,Co. Dublin,q4,100%
+06/05/2015,"18 Ballisk Court, Donabate, Dublin",Dublin,240000.0,No,Donabate,Co. Dublin,q2,30%
+14/05/2015,"44 Cois Inbhir, Beaverstown, Donabate",Dublin,475000.0,No,Donabate,Co. Dublin,q4,100%
+22/05/2015,"182 The Gallery, Turvey Ave, Donabate",Dublin,200000.0,No,Donabate,Co. Dublin,q1,20%
+22/05/2015,"97 Turvey Woods, Donabate, Dublin",Dublin,70000.0,No,Donabate,Co. Dublin,q1,10%
+29/05/2015,"1 Lambourne Pk, Beaverstown Rd, Donabate",Dublin,365000.0,No,Donabate,Co. Dublin,q3,80%
+29/05/2015,"73 Turvey Wood, Donabate, Dublin",Dublin,97500.0,No,Donabate,Co. Dublin,q1,10%
+05/06/2015,"21 Cois Inbhir, Beaverstown Road, Donabate",Dublin,405000.0,No,Donabate,Co. Dublin,q4,90%
+15/06/2015,"176 The Gallery, Turvey Walk, Donabate",Dublin,199500.0,No,Donabate,Co. Dublin,q1,20%
+19/06/2015,"105 The Links, Donabate, Dublin",Dublin,365000.0,No,Donabate,Co. Dublin,q3,80%
+21/06/2015,"144 Carrsmill, Portrane Rd, Donabate",Dublin,410000.0,No,Donabate,Co. Dublin,q4,90%
+26/06/2015,"22 Turvey Villas, Donabate, Co Dublin",Dublin,145000.0,No,Donabate,Co. Dublin,q1,10%
+26/06/2015,"31 The Gallery, Turvey Walk, Donabate",Dublin,175000.0,No,Donabate,Co. Dublin,q1,20%
+02/07/2015,"26 Beverton Rise, Turvey Ave, Donabate",Dublin,273000.0,No,Donabate,Co. Dublin,q2,40%
+02/07/2015,"Apt 1 2 3 5 6 7 8 9, Old School House Portrane, Donabate",Dublin,1170000.0,No,Donabate,Co. Dublin,q4,100%
+03/07/2015,"77 The Gallery, Turvey Walk, Donabate",Dublin,205000.0,No,Donabate,Co. Dublin,q1,20%
+08/07/2015,"115 Carrs Mill, Donabate, Dublin",Dublin,425000.0,No,Donabate,Co. Dublin,q4,90%
+21/07/2015,"6 Beresford Park, Donabate",Dublin,330000.0,Yes,Donabate,Co. Dublin,q3,60%
+22/07/2015,"14 Beaverbrook, Donabate, Dublin",Dublin,640000.0,No,Donabate,Co. Dublin,q4,100%
+23/07/2015,"2 Beresford Park, Donabate, Co Dublin",Dublin,317180.0,Yes,Donabate,Co. Dublin,q3,60%
+23/07/2015,"23 Hazelwood, Donabate, Dublin",Dublin,440000.0,No,Donabate,Co. Dublin,q4,100%
+23/07/2015,"3 Beresford Park, Donabate",Dublin,290750.0,Yes,Donabate,Co. Dublin,q2,50%
+23/07/2015,"5 Beresford Park, Donabate",Dublin,290748.0,Yes,Donabate,Co. Dublin,q2,50%
+24/07/2015,"50 Turvey Green, Donabate, Dublin",Dublin,260000.0,No,Donabate,Co. Dublin,q2,40%
+29/07/2015,"24 Beverton Court, Turvey Ave, Donabate",Dublin,167500.0,No,Donabate,Co. Dublin,q1,20%
+30/07/2015,"1 Beresford Park, Donabate, Dublin",Dublin,317171.81,Yes,Donabate,Co. Dublin,q3,60%
+06/08/2015,"4 Beresford Park, Donabate, County Dublin",Dublin,284600.0,Yes,Donabate,Co. Dublin,q2,40%
+07/08/2015,"45B Somerton, Donabate, Somerton",Dublin,350000.0,No,Donabate,Co. Dublin,q3,70%
+14/08/2015,"92 Carrs Mill, Donabate, Dublin",Dublin,303000.0,No,Donabate,Co. Dublin,q2,50%
+25/08/2015,"192 The Gallery, Turvey Walk, Donabate",Dublin,330000.0,No,Donabate,Co. Dublin,q3,60%
+25/08/2015,"2 Turvey Crescent, Donabate, Dublin",Dublin,328000.0,No,Donabate,Co. Dublin,q3,60%
+27/08/2015,"14 Beresford Park, Donabate",Dublin,325991.19,Yes,Donabate,Co. Dublin,q3,60%
+28/08/2015,"79 The Links, Donabate, Dublin",Dublin,355000.0,No,Donabate,Co. Dublin,q3,70%
+28/08/2015,"Hillside House, 1 Chapel View New Rd, Donabate",Dublin,423000.0,No,Donabate,Co. Dublin,q4,90%
+31/08/2015,"25 Somerton, Portrane Rd, Donabate",Dublin,340000.0,No,Donabate,Co. Dublin,q3,70%
+01/09/2015,"9 Beresford Park, Donabate",Dublin,290748.0,Yes,Donabate,Co. Dublin,q2,50%
+02/09/2015,"12 Beresford Park, Donabate, Co Dublin",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+02/09/2015,"13 Beresford Park, Donabate",Dublin,324375.0,Yes,Donabate,Co. Dublin,q3,60%
+02/09/2015,"Strawberry Bungalow, Beaverstown Rd, Donabate",Dublin,325000.0,No,Donabate,Co. Dublin,q3,60%
+03/09/2015,"11  Beresford Park, Donabate",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+03/09/2015,"7 Viking Court, Turvey Close, Donabate",Dublin,112000.0,No,Donabate,Co. Dublin,q1,10%
+04/09/2015,"8 Beresford Park, Donabate, Co. Dublin",Dublin,291000.0,Yes,Donabate,Co. Dublin,q2,50%
+07/09/2015,"7 Beresford Park, Donabate, Co Dublin",Dublin,290749.0,Yes,Donabate,Co. Dublin,q2,50%
+09/09/2015,"10 Beresford Park, Donabate",Dublin,290748.9,Yes,Donabate,Co. Dublin,q2,50%
+11/09/2015,"7 Beverbrook, Donabate, Co Dublin",Dublin,630000.0,No,Donabate,Co. Dublin,q4,100%
+23/09/2015,"53 The Fairways, Donabate Village, Donabate",Dublin,315000.0,No,Donabate,Co. Dublin,q3,60%
+23/09/2015,"The Lark Cottage, Ballamastone, Donabate",Dublin,365000.0,No,Donabate,Co. Dublin,q3,80%
+25/09/2015,"56 Longstone Park, Portrane, Donabate",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+01/10/2015,"3 Beresford Road, Donabate",Dublin,290748.89,Yes,Donabate,Co. Dublin,q2,50%
+02/10/2015,"80 The Links, Donabate, Dublin",Dublin,388500.0,No,Donabate,Co. Dublin,q4,90%
+08/10/2015,"2 Beverton Close, Donabate, Dublin",Dublin,346250.0,No,Donabate,Co. Dublin,q3,70%
+08/10/2015,"4 Beresford Road, Donabate",Dublin,276782.0,Yes,Donabate,Co. Dublin,q2,40%
+08/10/2015,"6 Beverton Green, Donabate, Dublin",Dublin,351000.0,No,Donabate,Co. Dublin,q3,70%
+09/10/2015,"Inglewood, Ballymastone, Donabate",Dublin,388500.0,No,Donabate,Co. Dublin,q4,90%
+12/10/2015,"11 St Patricks Tce, Donabate, Dublin",Dublin,350000.0,No,Donabate,Co. Dublin,q3,70%
+12/10/2015,"3 Beresford Road, Donabate",Dublin,330000.0,Yes,Donabate,Co. Dublin,q3,60%
+13/10/2015,"13 Lambourne Park, Beaverstown Rd, Donabate",Dublin,310000.0,No,Donabate,Co. Dublin,q3,60%
+13/10/2015,"15 Eden Grove, Beaverstown, Donabate",Dublin,310000.0,No,Donabate,Co. Dublin,q3,60%
+14/10/2015,"140 The Gallery, Turvey Walk, Donabate",Dublin,218000.0,No,Donabate,Co. Dublin,q1,30%
+16/10/2015,"46 Turvey Green, Donabate, Dublin",Dublin,315000.0,No,Donabate,Co. Dublin,q3,60%
+20/10/2015,"115 The Strand, Donabate, Dublin",Dublin,280000.0,No,Donabate,Co. Dublin,q2,40%
+21/10/2015,"1 Beresford Road, Donabate",Dublin,309365.0,Yes,Donabate,Co. Dublin,q3,60%
+21/10/2015,"2 Lambourne Park, Beaverstown Rd, Donabate",Dublin,271000.0,No,Donabate,Co. Dublin,q2,40%
+23/10/2015,"17 Benson Crescent, Beaverstown Orchard, Donabate",Dublin,210000.0,No,Donabate,Co. Dublin,q1,20%
+06/11/2015,"102 The Strand, Donabate, Co Dublin",Dublin,262000.0,No,Donabate,Co. Dublin,q2,40%
+06/11/2015,"67 Turvey Woods, Donabate, Dublin",Dublin,114000.0,No,Donabate,Co. Dublin,q1,10%
+09/11/2015,"50 Beverton Court, Donabate, Dublin",Dublin,170000.0,No,Donabate,Co. Dublin,q1,20%
+13/11/2015,"37 Turvey Walk, The Gallery, Donabate",Dublin,205000.0,No,Donabate,Co. Dublin,q1,20%
+17/11/2015,"180 The Gallery, Turvey Walk, Donabate",Dublin,215000.0,No,Donabate,Co. Dublin,q1,30%
+25/11/2015,"9 Turvey Dr, Donabate, Dublin",Dublin,330000.0,No,Donabate,Co. Dublin,q3,60%
+29/11/2015,"173 The Links, Donabate, Dublin",Dublin,291000.0,No,Donabate,Co. Dublin,q2,50%
+11/12/2015,"4 Beresford Green, Donabate",Dublin,298830.0,Yes,Donabate,Co. Dublin,q2,50%
+11/12/2015,"6 Beresford Road, Donabate",Dublin,300229.0,Yes,Donabate,Co. Dublin,q2,50%
+14/12/2015,"94 Turvey Wood, Donabate, Dublin",Dublin,115000.0,No,Donabate,Co. Dublin,q1,10%
+15/12/2015,"7 Beresford Green, Donabate",Dublin,340000.0,Yes,Donabate,Co. Dublin,q3,70%
+17/12/2015,"1 Beresford Green, Donabate",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+17/12/2015,"3 Beresford Green, Donabate",Dublin,299031.0,Yes,Donabate,Co. Dublin,q2,50%
+17/12/2015,"Oisin, Portrane Rd, Donabate",Dublin,305000.0,No,Donabate,Co. Dublin,q2,50%
+18/12/2015,"10 Beresford Green, Donabate",Dublin,299559.0,Yes,Donabate,Co. Dublin,q2,50%
+18/12/2015,"2 Beresford Green, Donabate",Dublin,343612.0,Yes,Donabate,Co. Dublin,q3,70%
+18/12/2015,"9 Beresford Green, Donabate",Dublin,299600.0,Yes,Donabate,Co. Dublin,q2,50%
+21/12/2015,"3 Beverton Woods, Beverton, Donabate",Dublin,300000.0,No,Donabate,Co. Dublin,q2,50%
+22/12/2015,"21 Turvey Villas, Donabate, Dublin",Dublin,132000.0,No,Donabate,Co. Dublin,q1,10%
+22/12/2015,"8 Beresford Green, Donabate",Dublin,299559.0,Yes,Donabate,Co. Dublin,q2,50%
+31/12/2015,"An Grianan, Corballis, Donabate",Dublin,120000.0,No,Donabate,Co. Dublin,q1,10%
+13/01/2016,"5 Beresford Green, Donabate, Co Dublin",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+15/01/2016,"164 The Gallery, Turvey Walk, Donabate",Dublin,216000.0,No,Donabate,Co. Dublin,q1,30%
+15/01/2016,"18 Turvey Dr, Donabate, Dublin",Dublin,310000.0,No,Donabate,Co. Dublin,q3,60%
+20/01/2016,"65 Carrsmill, Donabate, Dublin",Dublin,382500.0,No,Donabate,Co. Dublin,q4,80%
+29/01/2016,"82 Turvey Woods, Donabate, Dublin",Dublin,109500.0,No,Donabate,Co. Dublin,q1,10%
+11/02/2016,"14 Beresford Green, Donabate, Co Dublin",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+12/02/2016,"15 Beresford Green, Donabate, Co Dublin",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+17/02/2016,"6 Barnewall Drive, Donabate, Co Dublin",Dublin,235000.0,No,Donabate,Co. Dublin,q2,30%
+17/02/2016,"6 Turvey Ave, Donabate, Dublin",Dublin,132000.0,No,Donabate,Co. Dublin,q1,10%
+18/02/2016,"13 Beresford Green, Donabate, Co. Dublin",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+19/02/2016,"17 Beresford Green, Donabate, Co Dublin",Dublin,352422.9,Yes,Donabate,Co. Dublin,q3,70%
+23/02/2016,"16 Beresford Green, Donabate, Co Dublin",Dublin,352422.0,Yes,Donabate,Co. Dublin,q3,70%
+26/02/2016,"18 Beresford Green, Donabate",Dublin,361234.0,Yes,Donabate,Co. Dublin,q3,80%
+11/03/2016,"19 Ballisk Court, Donabate, Dublin",Dublin,204000.0,No,Donabate,Co. Dublin,q1,20%
+11/03/2016,"Turvey Avenue, Donabate, Co. Dublin",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+14/03/2016,"11 St Patricks Tce, Donabate, Dublin",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+16/03/2016,"Apartment 3, Turvey Golf Club, Donabate",Dublin,130000.0,No,Donabate,Co. Dublin,q1,10%
+30/03/2016,"12 Beresford Green, Donabate",Dublin,299559.0,Yes,Donabate,Co. Dublin,q2,50%
+30/03/2016,"9 The Gallery, Turvey Walk, Donabate",Dublin,205000.0,No,Donabate,Co. Dublin,q1,20%
+31/03/2016,"3 St Patricks Terrace, Donabate, Dublin",Dublin,295000.0,No,Donabate,Co. Dublin,q2,50%
+01/04/2016,"13 Lambes Court, Beaverstown Orchard, Donabate",Dublin,187000.0,No,Donabate,Co. Dublin,q1,20%
+04/04/2016,"11 Beverton Meadows Phase 4, Beaverstown, Donabate Dublin",Dublin,285000.0,No,Donabate,Co. Dublin,q2,40%
+06/04/2016,"6 Benson Crescent, Beaverstown Road, Donabate",Dublin,201000.0,No,Donabate,Co. Dublin,q1,20%
+15/04/2016,"15 Beresford Park, Donabate",Dublin,383259.0,Yes,Donabate,Co. Dublin,q4,80%
+22/04/2016,"19 Beresford Green, Donabate",Dublin,299559.5,Yes,Donabate,Co. Dublin,q2,50%
+26/04/2016,"4B Warrington Mews, Donabate, Co Dublin",Dublin,183000.0,No,Donabate,Co. Dublin,q1,20%
+27/04/2016,"30 The Priory, Donabate, Dublin",Dublin,340000.0,No,Donabate,Co. Dublin,q3,70%
+28/04/2016,"21 Beresford Green, Donabate",Dublin,299600.0,Yes,Donabate,Co. Dublin,q2,50%
+03/05/2016,"43 Turvey Dr, Donabate, Dublin",Dublin,330000.0,No,Donabate,Co. Dublin,q3,60%
+04/05/2016,"28 Beresford Green, Donabate, Co Dublin",Dublin,340000.0,Yes,Donabate,Co. Dublin,q3,70%
+05/05/2016,"25 Beaverbrook, Donabate, Dublin",Dublin,650000.0,No,Donabate,Co. Dublin,q4,100%
+05/05/2016,"3 Benson Crescent, Beaverstown Orchard, Donabate",Dublin,166000.0,No,Donabate,Co. Dublin,q1,20%
+06/05/2016,"22 Beresford Green, Donabate",Dublin,299559.0,Yes,Donabate,Co. Dublin,q2,50%
+09/05/2016,"15 Beaverstown Orchard, Donabate, Dublin",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+12/05/2016,"26 Beresford Green, Turvey Road, Donabate",Dublin,299560.0,Yes,Donabate,Co. Dublin,q2,50%
+13/05/2016,"82 The Strand, Donabate, Dublin",Dublin,255000.0,No,Donabate,Co. Dublin,q2,40%
+23/05/2016,"29 Beverton Heights, Donabate, Co Dublin",Dublin,345000.0,No,Donabate,Co. Dublin,q3,70%
+26/05/2016,"54 Hazelwood, Donabate, Dublin",Dublin,390000.0,No,Donabate,Co. Dublin,q4,90%
+27/05/2016,"21 Beverton Dr, Donabate, Dublin",Dublin,305000.0,No,Donabate,Co. Dublin,q2,50%
+02/06/2016,"6 Beverton Way, Donabate, Dublin",Dublin,315000.0,No,Donabate,Co. Dublin,q3,60%
+03/06/2016,"20 Beresford Green, Donabate, Dublin",Dublin,304959.47,Yes,Donabate,Co. Dublin,q2,50%
+10/06/2016,"27 Beresford Green, Donabate",Dublin,290748.9,Yes,Donabate,Co. Dublin,q2,50%
+22/06/2016,"24 Beresford Green, Donabate",Dublin,440528.0,Yes,Donabate,Co. Dublin,q4,100%
+23/06/2016,"23  Beresford Green, Donabate, Co Dublin",Dublin,396476.0,Yes,Donabate,Co. Dublin,q4,90%
+24/06/2016,"157 The Gallery, Turvey Walk, Donabate",Dublin,200000.0,No,Donabate,Co. Dublin,q1,20%
+24/06/2016,"7 Balalease Court, Portrane Rd, Donabate",Dublin,170000.0,No,Donabate,Co. Dublin,q1,20%
+28/06/2016,"7 Baresford Road, Donabate, County Dublin",Dublin,304959.47,Yes,Donabate,Co. Dublin,q2,50%
+28/06/2016,"8 Beresford Road, Donabate, County Dublin",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+28/06/2016,"Apartment 2, Turvey Golf Club, Donabate",Dublin,137500.0,No,Donabate,Co. Dublin,q1,10%
+01/07/2016,"29 Beverton Court, Donabate, Dublin",Dublin,129000.0,No,Donabate,Co. Dublin,q1,10%
+05/07/2016,"18 Ballisk Court, Donabate, Dublin",Dublin,265000.0,No,Donabate,Co. Dublin,q2,40%
+05/07/2016,"5 Beresford Ro0Ad, Donabate, Co. Dublin",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+08/07/2016,"31 Beverton Rise, Turvey Ave, Donabate",Dublin,257000.0,No,Donabate,Co. Dublin,q2,40%
+11/07/2016,"10 Beresford Road, Donabate",Dublin,299959.47,Yes,Donabate,Co. Dublin,q2,50%
+13/07/2016,"Inglewood, Ballymastone, Donabate",Dublin,380000.0,No,Donabate,Co. Dublin,q4,80%
+14/07/2016,"6 Beresford Road, Donabate",Dublin,299599.0,Yes,Donabate,Co. Dublin,q2,50%
+15/07/2016,"14 Beresford Road, Donabate, Co. Dublin",Dublin,299599.0,Yes,Donabate,Co. Dublin,q2,50%
+16/07/2016,"3B Warrington Mews, Donabate, Co Dublin",Dublin,188000.0,No,Donabate,Co. Dublin,q1,20%
+18/07/2016,"124 The Strand, Donabate, Dublin",Dublin,332500.0,No,Donabate,Co. Dublin,q3,70%
+18/07/2016,"The Quay Portrane, Donabate, Dublin",Dublin,190000.0,No,Donabate,Co. Dublin,q1,20%
+19/07/2016,"11 Beresford Road, Donabate, County Dublin",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+19/07/2016,"13 Beresford Road, Donabate",Dublin,304959.0,Yes,Donabate,Co. Dublin,q2,50%
+19/07/2016,"16 Beresford Road, Donabate, Co Dublin",Dublin,308370.04,Yes,Donabate,Co. Dublin,q3,60%
+19/07/2016,"49 Beaverstown Orchard, Donabate, Dublin",Dublin,270000.0,No,Donabate,Co. Dublin,q2,40%
+21/07/2016,"15 Beresford Road, Donabate",Dublin,304960.0,Yes,Donabate,Co. Dublin,q2,50%
+21/07/2016,"Ballymadrough, Donabate, Dublin",Dublin,575000.0,No,Donabate,Co. Dublin,q4,100%
+22/07/2016,"18 Benson Crescent, Beaverstown Orchard, Donabate",Dublin,212500.0,No,Donabate,Co. Dublin,q1,20%
+29/07/2016,"6 Turvey Walk, The Gallery, Donabate",Dublin,207525.0,No,Donabate,Co. Dublin,q1,20%
+04/08/2016,"159 Turvey Walk, Donabate, Dublin",Dublin,215000.0,No,Donabate,Co. Dublin,q1,30%
+05/08/2016,"Dunrovin, Donabate, Dublin",Dublin,820000.0,No,Donabate,Co. Dublin,q4,100%
+09/08/2016,"37 Hazelwood, Donabate, Dublin",Dublin,319000.0,No,Donabate,Co. Dublin,q3,60%
+11/08/2016,"19 Turvey Woods, Donabate, Dublin",Dublin,140000.0,No,Donabate,Co. Dublin,q1,10%
+22/08/2016,"21 Eden Grove, Beaverstown, Donabate",Dublin,280000.0,No,Donabate,Co. Dublin,q2,40%
+22/08/2016,"4 Eden Grove, Donabate, Dublin",Dublin,275000.0,No,Donabate,Co. Dublin,q2,40%
+23/08/2016,"9 Beresford Road, Donabate, Co. Dublin",Dublin,299559.5,Yes,Donabate,Co. Dublin,q2,50%
+23/08/2016,"The Orchard, Beaverstown Road, Donabate",Dublin,584000.0,No,Donabate,Co. Dublin,q4,100%
+25/08/2016,"12 Beresford Road, Donabate",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+26/08/2016,"29 Beresfords Green, Donabate",Dublin,308370.0,Yes,Donabate,Co. Dublin,q3,60%
+02/09/2016,"23 Turvey Dr, Donabate, Dublin",Dublin,390000.0,No,Donabate,Co. Dublin,q4,90%
+06/09/2016,"58 Hazelwood, Donabate, Dublin",Dublin,446000.0,No,Donabate,Co. Dublin,q4,100%
+09/09/2016,"10 Somerton, Donabate, Dublin",Dublin,330000.0,No,Donabate,Co. Dublin,q3,60%
+09/09/2016,"41 Cois Inbhir, Beaverstown Rd, Donabate",Dublin,460000.0,No,Donabate,Co. Dublin,q4,100%
+15/09/2016,"13 The Links, Donabate, Dublin",Dublin,345000.0,No,Donabate,Co. Dublin,q3,70%
+16/09/2016,"14 Cois Inbhir, Beaverstown, Donabate",Dublin,375000.0,No,Donabate,Co. Dublin,q3,80%
+16/09/2016,"31 Beresford Green, Donabate",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+16/09/2016,"7 Beverton Wood, Donabate, Dublin",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+19/09/2016,"32 Beresford Green, Donabate, County Dublin",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+20/09/2016,"33 Beresford Green, Turvey Avenue, Donabate",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+21/09/2016,"26 Turvey Grove, Donabate, Dublin",Dublin,150000.0,No,Donabate,Co. Dublin,q1,10%
+22/09/2016,"30 Beresford Green, Donabate",Dublin,354093.0,Yes,Donabate,Co. Dublin,q3,70%
+23/09/2016,"34 Beresford Green, Donabate",Dublin,389250.0,Yes,Donabate,Co. Dublin,q4,90%
+23/09/2016,"4 The Gallery Turney Walk, Donabate, Dublin",Dublin,222000.0,No,Donabate,Co. Dublin,q1,30%
+30/09/2016,"34 Beaverstown Orchard, Donabate, Dublin",Dublin,285000.0,No,Donabate,Co. Dublin,q2,40%
+10/10/2016,"7 The Oldschool House, Portrane, Donabate",Dublin,213656.38,Yes,Donabate,Co. Dublin,q1,20%
+14/10/2016,"11 Tower View Heights, Portrane, Donabate",Dublin,300000.0,No,Donabate,Co. Dublin,q2,50%
+21/10/2016,"11 The Fairways, Donabate, Dublin",Dublin,325000.0,No,Donabate,Co. Dublin,q3,60%
+21/10/2016,"45A Somerton, Portrane Rd, Donabate",Dublin,403000.0,No,Donabate,Co. Dublin,q4,90%
+28/10/2016,"7 Beverton Crescent, Turvey Ave, Donabate",Dublin,430000.0,No,Donabate,Co. Dublin,q4,90%
+02/11/2016,"1 The Old Schoolhouse, Portrane, Donabate",Dublin,354650.0,Yes,Donabate,Co. Dublin,q3,70%
+08/11/2016,"6 The Old Schoolhouse, Portrane, Donabate",Dublin,250000.0,No,Donabate,Co. Dublin,q2,30%
+09/11/2016,"78 The Strand, Donabate, Dublin",Dublin,267000.0,No,Donabate,Co. Dublin,q2,40%
+11/11/2016,"3 Beresford Gardens, Turvey Avenue, Donabate",Dublin,396475.0,Yes,Donabate,Co. Dublin,q4,90%
+16/11/2016,"2 Somerton, Portrane Rd, Donabate",Dublin,373000.0,No,Donabate,Co. Dublin,q3,80%
+17/11/2016,"19 Beresford, Donabate, Co. Dublin",Dublin,299599.0,Yes,Donabate,Co. Dublin,q2,50%
+18/11/2016,"1 Beresford Gardens, Donabate, Co. Dublin",Dublin,299559.0,Yes,Donabate,Co. Dublin,q2,50%
+18/11/2016,"8 Lambourne Park, Beaverstown Rd, Donabate",Dublin,294000.0,No,Donabate,Co. Dublin,q2,50%
+21/11/2016,"17 Beresford Road, Donabate, County Dublin",Dublin,398230.07,Yes,Donabate,Co. Dublin,q4,90%
+23/11/2016,"18 Beresford Road, Donabate, Co Dublin",Dublin,299559.0,Yes,Donabate,Co. Dublin,q2,50%
+25/11/2016,"20 Beresford, Donabate",Dublin,340000.0,Yes,Donabate,Co. Dublin,q3,70%
+01/12/2016,"4 Balalease Court, Donabate, Dublin",Dublin,145000.0,No,Donabate,Co. Dublin,q1,10%
+02/12/2016,"Balcarrick, Donabate, County Dublin",Dublin,389947.0,Yes,Donabate,Co. Dublin,q4,90%
+09/12/2016,"2 Beresford Gardens, Donabate, County Dublin",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+09/12/2016,"54 The Strand, Donabate, Dublin",Dublin,260000.0,No,Donabate,Co. Dublin,q2,40%
+09/12/2016,"9 The Oldschool House, Portrane, Donabate",Dublin,215859.03,Yes,Donabate,Co. Dublin,q1,30%
+13/12/2016,"160 Turvey Walk, Donabate, Dublin",Dublin,225000.0,No,Donabate,Co. Dublin,q1,30%
+15/12/2016,"Block 2, Ballisk Court, Donabate Business Centre",Dublin,310000.0,No,Donabate,Co. Dublin,q3,60%
+16/12/2016,"28 The Strand, Donabate, Dublin",Dublin,215000.0,No,Donabate,Co. Dublin,q1,30%
+19/12/2016,"32 Ballisk Court, Donabate, Dublin",Dublin,202500.0,No,Donabate,Co. Dublin,q1,20%
+19/12/2016,"7 Beresford Gardens, Donabate",Dublin,299559.5,Yes,Donabate,Co. Dublin,q2,50%
+20/12/2016,"5 Beresford Gardens, Donabate",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+20/12/2016,"6 Beresford Gardens, Donabate",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+21/12/2016,"167 The Gallery, Turvey Walk, Donabate",Dublin,222500.0,No,Donabate,Co. Dublin,q1,30%
+21/12/2016,"5 The Oldschool House, Portrane, Donabate",Dublin,294000.0,No,Donabate,Co. Dublin,q2,50%
+23/12/2016,"4 Beresford Gardens, Donabate",Dublin,299560.0,Yes,Donabate,Co. Dublin,q2,50%
+18/01/2017,"2 The Old Schoolhouse, Portrane, Donabate",Dublin,395000.0,No,Donabate,Co. Dublin,q4,90%
+20/01/2017,"162 The Gallery, Donabate, Dublin",Dublin,222000.0,No,Donabate,Co. Dublin,q1,30%
+20/01/2017,"89 Turvey Woods, Donabate, Dublin",Dublin,187000.0,No,Donabate,Co. Dublin,q1,20%
+27/01/2017,"28 The Spires, Donabate, Dublin",Dublin,525000.0,No,Donabate,Co. Dublin,q4,100%
+14/02/2017,"12 Beresford Gardens, Donabate",Dublin,308370.03,Yes,Donabate,Co. Dublin,q3,60%
+14/02/2017,"13 Beresford Gardens, Donabate",Dublin,299560.0,Yes,Donabate,Co. Dublin,q2,50%
+14/02/2017,"15 Beresford Gardens, Donabate",Dublin,299599.0,Yes,Donabate,Co. Dublin,q2,50%
+17/02/2017,"8 The Old Schoolhouse, Portrane, Donabate",Dublin,252500.0,No,Donabate,Co. Dublin,q2,40%
+22/02/2017,"14 Beresford Gardens, Donabate",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+06/03/2017,"8 Beverton Meadows, Donabate, Dublin",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+13/03/2017,"19 Beverton Lawns, Donabate, Dublin",Dublin,382500.0,No,Donabate,Co. Dublin,q4,80%
+16/03/2017,"185 The Gallery, Turvey Walk, Donabate",Dublin,230000.0,No,Donabate,Co. Dublin,q1,30%
+21/03/2017,"75 Ballisk Court, Donabate, Dublin",Dublin,167000.0,No,Donabate,Co. Dublin,q1,20%
+21/03/2017,"Apt 5 Ballisk Court, Donabate, County Dublin",Dublin,170000.0,No,Donabate,Co. Dublin,q1,20%
+21/03/2017,"Apt 52 Ballisk Court, Donabate, County Dublin",Dublin,135000.0,No,Donabate,Co. Dublin,q1,10%
+21/03/2017,"Apt 6 Ballisk Court, Donabate, County Dublin",Dublin,168000.0,No,Donabate,Co. Dublin,q1,20%
+21/03/2017,"Woodbine Cottage, Hearse Road, Donabate",Dublin,121000.0,No,Donabate,Co. Dublin,q1,10%
+23/03/2017,"13 Ballisk Court, Donabate, Dublin",Dublin,135000.0,No,Donabate,Co. Dublin,q1,10%
+24/03/2017,"Youngers, Beaverstown Rd, Donabate",Dublin,460000.0,No,Donabate,Co. Dublin,q4,100%
+31/03/2017,"18 Viking Court, Donabate, Dublin",Dublin,133000.0,No,Donabate,Co. Dublin,q1,10%
+07/04/2017,"11 Beresford Gardens, Donabate",Dublin,304959.0,Yes,Donabate,Co. Dublin,q2,50%
+07/04/2017,"11 Beverton Wood, Donabate, Dublin",Dublin,360000.0,No,Donabate,Co. Dublin,q3,70%
+10/04/2017,"53 Bellisk, Donabate, North",Dublin,141000.0,No,Donabate,Co. Dublin,q1,10%
+10/04/2017,"9 Berseford Gardens, Donabate",Dublin,299599.0,Yes,Donabate,Co. Dublin,q2,50%
+12/04/2017,"24 Beverton Green, Donabate, Dublin",Dublin,385000.0,No,Donabate,Co. Dublin,q4,80%
+12/04/2017,"Corballis, Donabate, County Dublin",Dublin,230000.0,No,Donabate,Co. Dublin,q1,30%
+13/04/2017,"10 Beresford Gardens, Donabate",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+13/04/2017,"40 Beaverbrook, Donabate, Dublin",Dublin,645000.0,No,Donabate,Co. Dublin,q4,100%
+24/04/2017,"Apt 2, Ballalease Court, Donabate",Dublin,155000.0,No,Donabate,Co. Dublin,q1,10%
+28/04/2017,"8 Beresford Gardens, Donabate",Dublin,308370.04,Yes,Donabate,Co. Dublin,q3,60%
+02/05/2017,"3 Beresford Place, Donabate",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+05/05/2017,"2 Beresford Place, Turvey Avenue, Donabate",Dublin,299560.0,Yes,Donabate,Co. Dublin,q2,50%
+19/05/2017,"1 Beresford Place, Donabate",Dublin,308370.0,Yes,Donabate,Co. Dublin,q3,60%
+25/05/2017,"Malvern, Kilcrea, Donabate",Dublin,585000.0,No,Donabate,Co. Dublin,q4,100%
+30/05/2017,"1 Benson Cresent, Beaverstown, Donabate",Dublin,205000.0,No,Donabate,Co. Dublin,q1,20%
+01/06/2017,"Glaslynn, Portrane Road, Donabate",Dublin,1200000.0,No,Donabate,Co. Dublin,q4,100%
+09/06/2017,"48 Turvey Woods, Donabate, Dublin",Dublin,145000.0,No,Donabate,Co. Dublin,q1,10%
+09/06/2017,"Oak Lodge, Hearse Road, Donabate",Dublin,710000.0,No,Donabate,Co. Dublin,q4,100%
+12/06/2017,"20 Beresford Place, Turvey Avenue, Donabate",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+13/06/2017,"19 Beresford Place, Donabate",Dublin,299560.0,Yes,Donabate,Co. Dublin,q2,50%
+13/06/2017,"21 Beresford Place, Donabate",Dublin,299560.0,Yes,Donabate,Co. Dublin,q2,50%
+13/06/2017,"22 Beresford Place, Donabate",Dublin,299559.0,Yes,Donabate,Co. Dublin,q2,50%
+13/06/2017,"23 Beresford Place, Donabate",Dublin,299559.0,Yes,Donabate,Co. Dublin,q2,50%
+14/06/2017,"24 Beresford Place, Donabate",Dublin,299500.0,Yes,Donabate,Co. Dublin,q2,50%
+19/06/2017,"56 The Gallery, Turvey Walk, Donabate",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+20/06/2017,"76 Turvey Woods, Donabate, Dublin",Dublin,145000.0,No,Donabate,Co. Dublin,q1,10%
+20/06/2017,"9 Beverton Court, Donabate, Co Dublin",Dublin,135000.0,No,Donabate,Co. Dublin,q1,10%
+21/06/2017,"10 Viking Court, Turvey Close, Donabate",Dublin,137500.0,No,Donabate,Co. Dublin,q1,10%
+23/06/2017,"89A The Strand, Donabate, The Strand",Dublin,330000.0,No,Donabate,Co. Dublin,q3,60%
+30/06/2017,"3 The Links, Donabate, Co Dublin",Dublin,390000.0,No,Donabate,Co. Dublin,q4,90%
+04/07/2017,"12 Beresford Place, Donabate, County Dublin",Dublin,300885.0,Yes,Donabate,Co. Dublin,q2,50%
+05/07/2017,"11 Beresford Place, Donabate",Dublin,305286.34,Yes,Donabate,Co. Dublin,q2,50%
+07/07/2017,"121 The Gallery, Turvey Walk, Donabate",Dublin,210000.0,No,Donabate,Co. Dublin,q1,20%
+10/07/2017,"14 Beresford Place, Donabate",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+10/07/2017,"15 Beresford Place, Turvey Avenue, Donabate",Dublin,299559.47,Yes,Donabate,Co. Dublin,q2,50%
+12/07/2017,"51 Beverton Court, Donabate, Dublin",Dublin,170000.0,No,Donabate,Co. Dublin,q1,20%
+17/07/2017,"The Quay Portrane, Donabate, Dublin",Dublin,185000.0,No,Donabate,Co. Dublin,q1,20%
+24/07/2017,"17 Beresford Place, Donabate, County Dublin",Dublin,361233.48,Yes,Donabate,Co. Dublin,q3,80%
+28/07/2017,"16 Beresford Place, Donabate",Dublin,312775.0,Yes,Donabate,Co. Dublin,q3,60%
+28/07/2017,"Apt 1, Balalease Court, Donabate",Dublin,150000.0,No,Donabate,Co. Dublin,q1,10%
+04/08/2017,"72 Ballisk Court, Donabate, Dublin",Dublin,281000.0,No,Donabate,Co. Dublin,q2,40%
+09/08/2017,"Emerilo, Ballylease North, Donabate",Dublin,350000.0,No,Donabate,Co. Dublin,q3,70%
+11/08/2017,"51 Turvey Woods, Donabate, Co Dublin",Dublin,138000.0,No,Donabate,Co. Dublin,q1,10%
+17/08/2017,"59 Seaview Park, Portrane, Donabate",Dublin,280000.0,No,Donabate,Co. Dublin,q2,40%
+18/08/2017,"161 The Links, Donabate, Co Dublin",Dublin,345000.0,No,Donabate,Co. Dublin,q3,70%
+18/08/2017,"7 Beverton Close, Donabate, Dublin",Dublin,356000.0,No,Donabate,Co. Dublin,q3,70%
+18/08/2017,"8 Barnewall Drive, Donabate, Co Dublin",Dublin,250000.0,No,Donabate,Co. Dublin,q2,30%
+24/08/2017,"43 Beverton Rise, Turvey Ave, Donabate",Dublin,180000.0,No,Donabate,Co. Dublin,q1,20%
+05/09/2017,"24 The Gallery, Donabate, Dublin",Dublin,285000.0,No,Donabate,Co. Dublin,q2,40%
+05/09/2017,"9 Beresford Place, Donabate, Co. Dublin",Dublin,327770.04,Yes,Donabate,Co. Dublin,q3,60%
+13/09/2017,"7 Beresford Place, Donabate, Co Dublin",Dublin,317180.61,Yes,Donabate,Co. Dublin,q3,60%
+15/09/2017,"10 Beresford Place, Donabate, County Dublin",Dublin,308370.04,Yes,Donabate,Co. Dublin,q3,60%
+15/09/2017,"6  Beresford Place, Donabate",Dublin,308370.04,Yes,Donabate,Co. Dublin,q3,60%
+15/09/2017,"8 Beresford Place, Donabate, County Dublin",Dublin,308370.0,Yes,Donabate,Co. Dublin,q3,60%
+19/09/2017,"28 Fairways, Donabate, Dublin",Dublin,285000.0,No,Donabate,Co. Dublin,q2,40%
+20/09/2017,"5 Beresford Place, Donabate",Dublin,308370.0,Yes,Donabate,Co. Dublin,q3,60%
+22/09/2017,"13 Station Court, Donabate, Dublin",Dublin,210000.0,No,Donabate,Co. Dublin,q1,20%
+22/09/2017,"3 Burrow Rd, Portrane, Donabate",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+22/09/2017,"37 Beverton Court, Turvey Ave, Donabate",Dublin,235000.0,No,Donabate,Co. Dublin,q2,30%
+25/09/2017,"3 Beverton Woods, Beverton, Donabate",Dublin,351000.0,No,Donabate,Co. Dublin,q3,70%
+04/10/2017,"90 Turvey Woods, Donabate, Dublin",Dublin,165000.0,No,Donabate,Co. Dublin,q1,20%
+09/10/2017,"97 Somerton, Donabate, Co Dublin",Dublin,405000.0,No,Donabate,Co. Dublin,q4,90%
+17/10/2017,"144 The Gallery, Turvey Walk, Donabate",Dublin,235000.0,No,Donabate,Co. Dublin,q2,30%
+20/10/2017,"119 Carrsmill Portrane Rd, Donabate, Dublin",Dublin,590000.0,No,Donabate,Co. Dublin,q4,100%
+20/10/2017,"61 Beverton Court, Donabate, Co.Dublin",Dublin,130000.0,No,Donabate,Co. Dublin,q1,10%
+20/10/2017,"68 Carrs Mill, Donabate, Dublin",Dublin,443000.0,No,Donabate,Co. Dublin,q4,100%
+23/10/2017,"The Bungalow, Corballis, Donabate",Dublin,450000.0,No,Donabate,Co. Dublin,q4,100%
+24/10/2017,"9 The Gallery, Turvey Walk, Donabate",Dublin,255000.0,No,Donabate,Co. Dublin,q2,40%
+27/10/2017,"69 Cois Inbhir, Beaverstown Rd, Donabate",Dublin,422000.0,No,Donabate,Co. Dublin,q4,90%
+31/10/2017,"32 Turvey Woods, Donabate, Co Dublin",Dublin,153000.0,No,Donabate,Co. Dublin,q1,10%
+01/11/2017,"25 Beresford Road, Donabate",Dublin,308370.0,Yes,Donabate,Co. Dublin,q3,60%
+03/11/2017,"23 Beresford Road, Donabate",Dublin,396476.0,Yes,Donabate,Co. Dublin,q4,90%
+03/11/2017,"43 Carrs Mill, Portrane Rd, Donabate",Dublin,410000.0,No,Donabate,Co. Dublin,q4,90%
+06/11/2017,"11 Lambs Court, Beaverstown Orchard, Donabate",Dublin,205000.0,No,Donabate,Co. Dublin,q1,20%
+06/11/2017,"37 Seaview Park, Portrane, Donabate",Dublin,267000.0,No,Donabate,Co. Dublin,q2,40%
+09/11/2017,"26 Beresford Road, Donabate",Dublin,450000.0,Yes,Donabate,Co. Dublin,q4,100%
+10/11/2017,"27 Beresford Road, Donabate, Co. Dublin",Dublin,361233.48,Yes,Donabate,Co. Dublin,q3,80%
+13/11/2017,"146 Turvey Walk, The Gallery, Donabate",Dublin,263000.0,No,Donabate,Co. Dublin,q2,40%
+14/11/2017,"23 Ballisk Court, Donabate, County Dublin",Dublin,245000.0,No,Donabate,Co. Dublin,q2,30%
+14/11/2017,"42 Ballisk Court, Donabate, County Dublin",Dublin,135000.0,No,Donabate,Co. Dublin,q1,10%
+14/11/2017,"76 Ballisk Court, Donabate, County Dublin",Dublin,190000.0,No,Donabate,Co. Dublin,q1,20%
+14/11/2017,"84 Ballisk Court, Donabate, County Dublin",Dublin,215000.0,No,Donabate,Co. Dublin,q1,30%
+14/11/2017,"Apt 10 Ballisk Court, Donabate, County Dublin",Dublin,135000.0,No,Donabate,Co. Dublin,q1,10%
+15/11/2017,"178 The Gallery, Turvey Walk, Donabate",Dublin,280000.0,No,Donabate,Co. Dublin,q2,40%
+15/11/2017,"39 Beverton Court, Donabate, Dublin",Dublin,180000.0,No,Donabate,Co. Dublin,q1,20%
+16/11/2017,"3 Orchard View, Beaverstown Road, Donabate",Dublin,356828.18,Yes,Donabate,Co. Dublin,q3,70%
+17/11/2017,"28 Beresford Place, Donabate",Dublin,361233.0,Yes,Donabate,Co. Dublin,q3,70%
+17/11/2017,"6 The Priory, Donabate, Dublin",Dublin,410000.0,No,Donabate,Co. Dublin,q4,90%
+21/11/2017,"159 The Links, Donabate, Dublin",Dublin,325000.0,No,Donabate,Co. Dublin,q3,60%
+23/11/2017,"37 Fairways, Donabate, Dublin",Dublin,305000.0,No,Donabate,Co. Dublin,q2,50%
+24/11/2017,"42 Somerton, Donabate, Dublin",Dublin,433000.0,No,Donabate,Co. Dublin,q4,90%
+24/11/2017,"7 Orchard View, Beaverstown, Donabate",Dublin,356828.19,No,Donabate,Co. Dublin,q3,70%
+24/11/2017,"Lios Na Gcloch, Beaverstown Road, Donabate",Dublin,660000.0,No,Donabate,Co. Dublin,q4,100%
+01/12/2017,"Knocknaree, Corballis, Donabate",Dublin,490000.0,No,Donabate,Co. Dublin,q4,100%
+05/12/2017,"44 Somerton, Portrane Rd, Donabate",Dublin,445000.0,No,Donabate,Co. Dublin,q4,100%
+06/12/2017,"20 Eden Grove, Donabate, Dublin",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+11/12/2017,"9 Orchard View, Beaverstown Road, Donabate",Dublin,370044.0,Yes,Donabate,Co. Dublin,q3,80%
+12/12/2017,"2 The Gallery, Turvey Walk, Donabate",Dublin,257000.0,No,Donabate,Co. Dublin,q2,40%
+15/12/2017,"6 Beverton Wood, Donabate, Dublin",Dublin,395000.0,No,Donabate,Co. Dublin,q4,90%
+18/12/2017,"48 Beaverstown Orchard, Donabate, Dublin",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+21/12/2017,"46 Beverton Court, Donabate, Dublin",Dublin,215000.0,No,Donabate,Co. Dublin,q1,30%
+21/12/2017,"6 Rahillion Drive, Donabate",Dublin,396475.77,Yes,Donabate,Co. Dublin,q4,90%
+02/01/2018,"3 College Court, Portrane Road, Donabate",Dublin,348017.62,No,Donabate,Co. Dublin,q3,70%
+12/01/2018,"Apt 87 Block D, The Gallery Turveywalk, Donabate",Dublin,225000.0,No,Donabate,Co. Dublin,q1,30%
+15/01/2018,"48 Beaverbrook, Donabate, Dublin",Dublin,720000.0,No,Donabate,Co. Dublin,q4,100%
+16/01/2018,"10  Rahillion Drive, Donabate",Dublin,348017.0,Yes,Donabate,Co. Dublin,q3,70%
+17/01/2018,"16 Benson Cresent, Donabate, Co Dublin",Dublin,275000.0,No,Donabate,Co. Dublin,q2,40%
+19/01/2018,"11 Orchard View, Beaverstown Road, Donabate",Dublin,370044.05,Yes,Donabate,Co. Dublin,q3,80%
+19/01/2018,"14  Orchard View, Beaverstown Road, Donabate",Dublin,370044.0,Yes,Donabate,Co. Dublin,q3,80%
+19/01/2018,"55 Carrs Mill, Donabate, Dublin",Dublin,315000.0,No,Donabate,Co. Dublin,q3,60%
+25/01/2018,"8 Orchard View, Beaverstown, Donabate",Dublin,370045.0,Yes,Donabate,Co. Dublin,q3,80%
+26/01/2018,"11 Rahillion Drive, Donabate",Dublin,383259.0,Yes,Donabate,Co. Dublin,q4,80%
+26/01/2018,"4 Beresford Woods, Donabate",Dublin,317180.0,Yes,Donabate,Co. Dublin,q3,60%
+26/01/2018,"New Bridge Avenue, Donabate, Co Dublin",Dublin,346000.0,No,Donabate,Co. Dublin,q3,70%
+31/01/2018,"169 The Links, Donabate, Dublin",Dublin,352000.0,No,Donabate,Co. Dublin,q3,70%
+01/02/2018,"6 Bereford Woods, Donabate, Dublin 9",Dublin,292682.92,Yes,Donabate,Co. Dublin,q2,50%
+01/02/2018,"9 Rahillion Drive, Portrane Road, Donabate",Dublin,370044.05,Yes,Donabate,Co. Dublin,q3,80%
+05/02/2018,"12 Orchard View, Beaverstown Road, Donabate",Dublin,370000.0,Yes,Donabate,Co. Dublin,q3,80%
+06/02/2018,"10 Orchard View, Beaverstown Road, Donabate",Dublin,370044.0,Yes,Donabate,Co. Dublin,q3,80%
+06/02/2018,"3 Beresford Woods, Donabate, County Dublin",Dublin,311400.0,Yes,Donabate,Co. Dublin,q3,60%
+07/02/2018,"7 Beresford Woods, Donabate, Co Dublin",Dublin,317180.0,Yes,Donabate,Co. Dublin,q3,60%
+09/02/2018,"6 Orchard View, Beaverstown Road, Donabate",Dublin,370000.0,Yes,Donabate,Co. Dublin,q3,80%
+13/02/2018,"5 Beresford Woods, Donabate",Dublin,317180.0,Yes,Donabate,Co. Dublin,q3,60%
+20/02/2018,"Sommerset, The Burrow Portrane, Donabate Dublin",Dublin,420000.0,No,Donabate,Co. Dublin,q4,90%
+27/02/2018,"15 Orchard View, Beaverstown Road, Donabate",Dublin,370044.0,Yes,Donabate,Co. Dublin,q3,80%
+28/02/2018,"7 Rahillion Drive, Donabate",Dublin,391189.0,Yes,Donabate,Co. Dublin,q4,90%
+08/03/2018,"4 Orchard View, Beaverstown Rd  Donabate",Dublin,370044.0,Yes,Donabate,Co. Dublin,q3,80%
+09/03/2018,"Meadow Cottage, Beaverstown Rd, Donabate",Dublin,352000.0,No,Donabate,Co. Dublin,q3,70%
+13/03/2018,"5 Rahillion Drive, Donabate",Dublin,392070.48,Yes,Donabate,Co. Dublin,q4,90%
+20/03/2018,"13 Beverton Court, Donabate, Dublin",Dublin,155000.0,No,Donabate,Co. Dublin,q1,10%
+26/03/2018,"11 Beresford Woods, Donabate",Dublin,317180.0,Yes,Donabate,Co. Dublin,q3,60%
+26/03/2018,"12 Beresford Woods, Donabate",Dublin,378855.0,Yes,Donabate,Co. Dublin,q4,80%
+26/03/2018,"3C Warrington Mews, Donabate, Co Dublin",Dublin,235000.0,No,Donabate,Co. Dublin,q2,30%
+27/03/2018,"51 Carrsmill, Rahillion, Donabate",Dublin,247000.0,No,Donabate,Co. Dublin,q2,30%
+27/03/2018,"9 Bereford Woods, Donabate",Dublin,340579.0,Yes,Donabate,Co. Dublin,q3,70%
+28/03/2018,"1 Rahillion Drive, Donabate",Dublin,444933.92,Yes,Donabate,Co. Dublin,q4,100%
+28/03/2018,"24 Turvey Villas, Donabate, Dublin",Dublin,220000.0,No,Donabate,Co. Dublin,q1,30%
+28/03/2018,"8 Beresford Woods, Donabate",Dublin,317180.0,Yes,Donabate,Co. Dublin,q3,60%
+29/03/2018,"10 Beresford Woods, Donabate",Dublin,317180.61,Yes,Donabate,Co. Dublin,q3,60%
+06/04/2018,"20 Beverton Court, Donabate, Dublin",Dublin,160000.0,No,Donabate,Co. Dublin,q1,20%
+06/04/2018,"3 Rahillion Drive, Donabate",Dublin,444933.92,Yes,Donabate,Co. Dublin,q4,100%
+10/04/2018,"14 Carr'S Mill, Donabate, Co Dublin",Dublin,352000.0,No,Donabate,Co. Dublin,q3,70%
+10/04/2018,"39 Beverton Dr, Donabate, Dublin",Dublin,385000.0,No,Donabate,Co. Dublin,q4,80%
+11/04/2018,"12 Carrs Mill, Donabate, Dublin",Dublin,322000.0,No,Donabate,Co. Dublin,q3,60%
+17/04/2018,"4 Beverton Wood, Turvey Ave, Donabate",Dublin,395000.0,No,Donabate,Co. Dublin,q4,90%
+20/04/2018,"26 Rahillion Drive, Donabate",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+24/04/2018,"24 Rahillion Drive, Donabate",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+25/04/2018,"2 Orchard View, Donabate",Dublin,414096.0,Yes,Donabate,Co. Dublin,q4,90%
+26/04/2018,"13 Beresford Woods, Donabate",Dublin,378854.63,Yes,Donabate,Co. Dublin,q4,80%
+26/04/2018,"34 Rahillion Drive, Donabate, Co Dublin",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+27/04/2018,"145 Carrs Mill, Donabate, Dublin",Dublin,495000.0,No,Donabate,Co. Dublin,q4,100%
+30/04/2018,"34 Beverton Court, Donabate, Dublin",Dublin,225000.0,No,Donabate,Co. Dublin,q1,30%
+30/04/2018,"5 Orchard View, Beaverstown Road, Donabate",Dublin,436123.34,Yes,Donabate,Co. Dublin,q4,100%
+30/04/2018,"The Island, Corballis, Donabate",Dublin,590000.0,No,Donabate,Co. Dublin,q4,100%
+01/05/2018,"No. 22 Rahillion Drive, Donabate",Dublin,333025.0,Yes,Donabate,Co. Dublin,q3,70%
+09/05/2018,"18 Rahillion Drive, Donabate, Co Dublin",Dublin,500000.0,Yes,Donabate,Co. Dublin,q4,100%
+09/05/2018,"19 Viking Court, Donabate, Dublin",Dublin,155000.0,No,Donabate,Co. Dublin,q1,10%
+10/05/2018,"14 Rahillion Drive, Donabate",Dublin,436123.34,Yes,Donabate,Co. Dublin,q4,100%
+10/05/2018,"16 Turvey Woods, Donabate, Dublin",Dublin,152000.0,No,Donabate,Co. Dublin,q1,10%
+11/05/2018,"15 Beresford Woods, Donabate, Co. Dublin",Dublin,325991.18,Yes,Donabate,Co. Dublin,q3,60%
+15/05/2018,"28 Rahillion Drive, Donabate, Co. Dublin",Dublin,348017.67,Yes,Donabate,Co. Dublin,q3,70%
+15/05/2018,"Apt 44 The Gallery Turvey Walk, Donabate, Co Dublin",Dublin,242000.0,No,Donabate,Co. Dublin,q2,30%
+16/05/2018,"12 Rahillion Drive, Donabate",Dublin,436123.34,Yes,Donabate,Co. Dublin,q4,100%
+18/05/2018,"10 Glaslinn, Portrane Road, Donabate",Dublin,356828.0,Yes,Donabate,Co. Dublin,q3,70%
+22/05/2018,"12 Somerton, Donabate, Dublin",Dublin,440000.0,No,Donabate,Co. Dublin,q4,100%
+25/05/2018,"2C Warrington Mews, Main St, Donabate",Dublin,242000.0,No,Donabate,Co. Dublin,q2,30%
+28/05/2018,"17 Beresford Woods, Donabate",Dublin,317181.0,Yes,Donabate,Co. Dublin,q3,60%
+30/05/2018,"16 Beresford Woods, Donabate",Dublin,325991.0,Yes,Donabate,Co. Dublin,q3,60%
+30/05/2018,"16 Rahillion Drive, Donabate",Dublin,436123.2,Yes,Donabate,Co. Dublin,q4,100%
+31/05/2018,"11 Glaslinn, Portrane Rd, Donabate",Dublin,436123.0,Yes,Donabate,Co. Dublin,q4,90%
+31/05/2018,"2 Rahillion Drive, Donabate",Dublin,537444.0,Yes,Donabate,Co. Dublin,q4,100%
+31/05/2018,"38 Rahillion Drive, Donabate",Dublin,418502.0,Yes,Donabate,Co. Dublin,q4,90%
+31/05/2018,"94 Cois Inbhir, Donabate, Dublin",Dublin,260000.0,Yes,Donabate,Co. Dublin,q2,40%
+01/06/2018,"69 Turvey Woods, Donabate, Dublin",Dublin,158000.0,No,Donabate,Co. Dublin,q1,10%
+05/06/2018,"124 The Gallery, Turvey Walk, Donabate",Dublin,253000.0,No,Donabate,Co. Dublin,q2,40%
+05/06/2018,"14 Beresford Woods, Donabate",Dublin,330396.48,Yes,Donabate,Co. Dublin,q3,70%
+05/06/2018,"20 Viking, Turvey Close, Donabate",Dublin,155000.0,No,Donabate,Co. Dublin,q1,10%
+08/06/2018,"18 Fairways, Donabate, Dublin",Dublin,327000.0,No,Donabate,Co. Dublin,q3,60%
+08/06/2018,"39 The Gallery, Turvey Ave, Donabate",Dublin,246000.0,No,Donabate,Co. Dublin,q2,30%
+08/06/2018,"40 Rahillion Drive, Donabate",Dublin,383259.0,Yes,Donabate,Co. Dublin,q4,80%
+12/06/2018,"36 Rahillion Drive, Donabate, County Dublin",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+15/06/2018,"9 Glaslinn, Portrane Road, Donabate",Dublin,375330.0,Yes,Donabate,Co. Dublin,q3,80%
+18/06/2018,"30 Rahillion Drive, Donabate",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+22/06/2018,"118 The Gallery, Turvey Walk, Donabate",Dublin,240000.0,No,Donabate,Co. Dublin,q2,30%
+26/06/2018,"10 Turvey Walk, Donabate, Dublin",Dublin,250000.0,No,Donabate,Co. Dublin,q2,30%
+27/06/2018,"17 Bereford Gardens, Donabate, Co Dublin",Dublin,330401.0,Yes,Donabate,Co. Dublin,q3,70%
+29/06/2018,"68 Ballisk Court, Donabate, Dublin",Dublin,310000.0,No,Donabate,Co. Dublin,q3,60%
+03/07/2018,"42 Rahillion Drive, Donabate",Dublin,383260.0,Yes,Donabate,Co. Dublin,q4,80%
+05/07/2018,"16 Beresford Gardens, Donabate",Dublin,317180.0,Yes,Donabate,Co. Dublin,q3,60%
+05/07/2018,"16 Beverton Rise, Donabate, Dublin",Dublin,350000.0,No,Donabate,Co. Dublin,q3,70%
+05/07/2018,"4 The Gallery Turney Walk, Donabate, Dublin",Dublin,238000.0,No,Donabate,Co. Dublin,q2,30%
+06/07/2018,"20 Rahillion Drive, Donabate, Dublin",Dublin,436123.34,Yes,Donabate,Co. Dublin,q4,100%
+10/07/2018,"114 The Links, Donabate, Co Dublin",Dublin,315000.0,No,Donabate,Co. Dublin,q3,60%
+11/07/2018,"Bramblewood, The Priory, Donabate",Dublin,675000.0,No,Donabate,Co. Dublin,q4,100%
+12/07/2018,"19 Beresford Gardens, Donabate, County Dublin",Dublin,340707.96,Yes,Donabate,Co. Dublin,q3,70%
+17/07/2018,"20 Beresford Gardens, Donabate",Dublin,378854.0,Yes,Donabate,Co. Dublin,q3,80%
+20/07/2018,"21 Beresford Gardens, Donabate",Dublin,378854.62,Yes,Donabate,Co. Dublin,q4,80%
+20/07/2018,"32 Rahillion Drive, Donabate, County Dublin",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+20/07/2018,"4 Baltra Hall, Donabate, Dublin",Dublin,415000.0,No,Donabate,Co. Dublin,q4,90%
+23/07/2018,"15 Glaslinn, Portrane Road, Donabate",Dublin,436123.35,Yes,Donabate,Co. Dublin,q4,100%
+23/07/2018,"The Burrow, Portrane, Donabate",Dublin,487000.0,No,Donabate,Co. Dublin,q4,100%
+25/07/2018,"1 Rahillion Crescent, Donabate",Dublin,400881.06,Yes,Donabate,Co. Dublin,q4,90%
+26/07/2018,"14 Glaslinn, Portrane Road, Donabate",Dublin,407930.0,Yes,Donabate,Co. Dublin,q4,90%
+26/07/2018,"25 Kingsland, Beaverstown Road, Donabate",Dublin,378854.63,Yes,Donabate,Co. Dublin,q4,80%
+27/07/2018,"11 Viking Court, Turvey Close, Donabate",Dublin,160000.0,No,Donabate,Co. Dublin,q1,20%
+27/07/2018,"12 Kingsland, Beaverstown Road, Donabate  Co.Dublin",Dublin,392070.48,Yes,Donabate,Co. Dublin,q4,90%
+27/07/2018,"17 Rahillion Crescent, Donabate",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+27/07/2018,"18 Cois Inbhir, Beaverstown Rd, Donabate",Dublin,115000.0,No,Donabate,Co. Dublin,q1,10%
+27/07/2018,"189 Turvey Walk, Donabate, Dublin",Dublin,362000.0,No,Donabate,Co. Dublin,q3,80%
+27/07/2018,"2 Rahillion Crescent, Donabate",Dublin,400881.1,Yes,Donabate,Co. Dublin,q4,90%
+27/07/2018,"3 Rahillion Crescent, Donabate, Dublin 15",Dublin,400881.0,Yes,Donabate,Co. Dublin,q4,90%
+27/07/2018,"6 Rahillion Crescent, Donabate",Dublin,383260.0,Yes,Donabate,Co. Dublin,q4,80%
+30/07/2018,"77 Ballisk Court, Donabate, Dublin",Dublin,285000.0,No,Donabate,Co. Dublin,q2,40%
+31/07/2018,"5 Rahillion Crescent, Donabate, Dublin 15",Dublin,378854.62,Yes,Donabate,Co. Dublin,q4,80%
+31/07/2018,"8 Kingsland, Donabate",Dublin,405286.0,Yes,Donabate,Co. Dublin,q4,90%
+01/08/2018,"11A St. Patrick'S Terrace, Donabate, Co. Dublin",Dublin,444933.92,Yes,Donabate,Co. Dublin,q4,100%
+01/08/2018,"7 Rahillion Crescent, Donabate, Dublin 15",Dublin,383259.91,Yes,Donabate,Co. Dublin,q4,80%
+02/08/2018,"17 Glaslinn, Portrane Rd, Donabate",Dublin,299599.47,Yes,Donabate,Co. Dublin,q2,50%
+03/08/2018,"41 Beaverbrook, Donabate, Dublin",Dublin,795000.0,No,Donabate,Co. Dublin,q4,100%
+13/08/2018,"139 Carrs Mill, Donabate, Dublin",Dublin,490000.0,No,Donabate,Co. Dublin,q4,100%
+13/08/2018,"3 Beverton Close, Donabate, Dublin",Dublin,304500.0,No,Donabate,Co. Dublin,q2,50%
+14/08/2018,"19 Kingsland, Donabate",Dublin,349593.02,Yes,Donabate,Co. Dublin,q3,70%
+14/08/2018,"21 Glaslinn, Donabate",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+15/08/2018,"18 Kingsland, Donabate",Dublin,378854.6,Yes,Donabate,Co. Dublin,q4,80%
+15/08/2018,"20 Cois Inbhir, Donabate, County Dublin",Dublin,374449.33,Yes,Donabate,Co. Dublin,q3,80%
+15/08/2018,"27 Kingsland, Beaverstown Road, Donabate",Dublin,378854.0,Yes,Donabate,Co. Dublin,q3,80%
+16/08/2018,"18 Glaslinn, Donabate",Dublin,406167.4,Yes,Donabate,Co. Dublin,q4,90%
+16/08/2018,"Aquarius, Donabate Rd, Dublin",Dublin,530000.0,No,Donabate,Co. Dublin,q4,100%
+17/08/2018,"26 Kingsland, Beaverstown Road, Donabate",Dublin,378855.0,No,Donabate,Co. Dublin,q4,80%
+20/08/2018,"13 The Gallery, Donabate, Co Dublin",Dublin,247500.0,No,Donabate,Co. Dublin,q2,30%
+20/08/2018,"4 Rahillion Crescent, Donabate, Dublin 15",Dublin,400881.06,Yes,Donabate,Co. Dublin,q4,90%
+21/08/2018,"1 Orchard View, Beaverstown Road, Donabate",Dublin,414096.0,Yes,Donabate,Co. Dublin,q4,90%
+21/08/2018,"20 Kingsland, Beaverstown Road, Donabate",Dublin,394064.0,Yes,Donabate,Co. Dublin,q4,90%
+22/08/2018,"11 Kingsland  Beaverstown Road, Donabate",Dublin,384925.96,Yes,Donabate,Co. Dublin,q4,80%
+22/08/2018,"11 Rahillion Crescent, Donabate, Dublin 15",Dublin,519824.0,Yes,Donabate,Co. Dublin,q4,100%
+23/08/2018,"13 Glaslinn, Portrane Road, Donabate",Dublin,340000.0,Yes,Donabate,Co. Dublin,q3,70%
+23/08/2018,"48 Turvey Walk, The Gallery Apts, Donabate",Dublin,292500.0,No,Donabate,Co. Dublin,q2,50%
+24/08/2018,"21 Kingsland, Beaverstown Road, Donabate",Dublin,378854.0,Yes,Donabate,Co. Dublin,q3,80%
+28/08/2018,"20 Glaslinn, Portrane Road, Donabate",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+29/08/2018,"14 Rahillion Crescent, Donabate, Co. Dublin",Dublin,339207.0,Yes,Donabate,Co. Dublin,q3,70%
+29/08/2018,"15 Rahillion Crescent, Donabate, Co. Dublin",Dublin,339207.0,Yes,Donabate,Co. Dublin,q3,70%
+29/08/2018,"19 Cois Inbhir, Beaverstown, Donabate",Dublin,370044.0,Yes,Donabate,Co. Dublin,q3,80%
+29/08/2018,"26 Beaverstown Orchard, Donabate, Dublin",Dublin,335000.0,No,Donabate,Co. Dublin,q3,70%
+30/08/2018,"16 Glaslinn, Donabate",Dublin,299559.0,Yes,Donabate,Co. Dublin,q2,50%
+31/08/2018,"18 Rahillion Crescent, Donabate",Dublin,511013.21,Yes,Donabate,Co. Dublin,q4,100%
+05/09/2018,"16 Rahillion Crescent, Donabate",Dublin,395000.0,Yes,Donabate,Co. Dublin,q4,90%
+05/09/2018,"9 Rahillion Crescent, Donabate",Dublin,405286.3,Yes,Donabate,Co. Dublin,q4,90%
+10/09/2018,"22 Beverton Green, Donabate, Dublin",Dublin,376000.0,No,Donabate,Co. Dublin,q3,80%
+11/09/2018,"29 Beaverbrook, Donabate, Dublin",Dublin,730000.0,No,Donabate,Co. Dublin,q4,100%
+13/09/2018,"1 Beresford Woods, Donabate",Dublin,418500.0,Yes,Donabate,Co. Dublin,q4,90%
+14/09/2018,"177 The Gallery, Turvey Walk, Donabate",Dublin,230000.0,No,Donabate,Co. Dublin,q1,30%
+18/09/2018,"15 Kingsland, Donabate",Dublin,392070.48,Yes,Donabate,Co. Dublin,q4,90%
+18/09/2018,"191 The Gallery, Turvey Ave, Donabate",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+19/09/2018,"2 New Road, Donabate, Co Dublin",Dublin,353000.0,No,Donabate,Co. Dublin,q3,70%
+19/09/2018,"5 Kingsland, Beaverstown Road, Donabate",Dublin,392070.21,Yes,Donabate,Co. Dublin,q4,90%
+20/09/2018,"22 Glaslinn, Donabate, Dublin",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+20/09/2018,"30 Beaverbrook, Donabate, Dublin",Dublin,715000.0,No,Donabate,Co. Dublin,q4,100%
+21/09/2018,"66 Beverton Court, Donabate, Dublin",Dublin,130000.0,No,Donabate,Co. Dublin,q1,10%
+24/09/2018,"10 Rahillion Crescent, Donabate",Dublin,422907.48,Yes,Donabate,Co. Dublin,q4,90%
+24/09/2018,"24 Kingsland, Beaverstown Road, Donabate",Dublin,378855.0,Yes,Donabate,Co. Dublin,q4,80%
+25/09/2018,"88 The Strand, Donabate, Dublin",Dublin,300000.0,No,Donabate,Co. Dublin,q2,50%
+26/09/2018,"26 Carrs Mill, Donabate, Dublin",Dublin,330000.0,No,Donabate,Co. Dublin,q3,60%
+26/09/2018,"28 Kingland, Beaverstown Road, Donabate",Dublin,378854.0,Yes,Donabate,Co. Dublin,q4,80%
+27/09/2018,"32 The Gallery, Turvey Walk, Donabate",Dublin,250000.0,No,Donabate,Co. Dublin,q2,30%
+03/10/2018,"69 Beverton Court, Donabate, Dublin",Dublin,167500.0,No,Donabate,Co. Dublin,q1,20%
+15/10/2018,"12 The Links, Donabate, Dublin",Dublin,360000.0,No,Donabate,Co. Dublin,q3,70%
+15/10/2018,"23 Beverton Court, Donabate, Dublin",Dublin,221500.0,No,Donabate,Co. Dublin,q1,30%
+15/10/2018,"25 Beverton Meadows, Donabate, Dublin",Dublin,350000.0,No,Donabate,Co. Dublin,q3,70%
+16/10/2018,"157 Carrsmill, Donabate, Dublin",Dublin,604000.0,No,Donabate,Co. Dublin,q4,100%
+16/10/2018,"62 Somerton, Donabate, Dublin",Dublin,430000.0,No,Donabate,Co. Dublin,q4,90%
+16/10/2018,"Larkfield, Corballis, Donabate",Dublin,630000.0,No,Donabate,Co. Dublin,q4,100%
+17/10/2018,"5 Beresford Crescent, Donabate",Dublin,380600.0,Yes,Donabate,Co. Dublin,q4,80%
+18/10/2018,"29 Beverton Dr, Donabate, Dublin",Dublin,545000.0,No,Donabate,Co. Dublin,q4,100%
+18/10/2018,"46 Beaverbrook, Beaverstown, Donabate",Dublin,745000.0,No,Donabate,Co. Dublin,q4,100%
+18/10/2018,"7 Turvey Grove, Donabate, Dublin",Dublin,275000.0,No,Donabate,Co. Dublin,q2,40%
+23/10/2018,"31 Turvey Woods, Donabate, Dublin",Dublin,168000.0,No,Donabate,Co. Dublin,q1,20%
+26/10/2018,"1 Kingsland, Beaverstown Road, Donabate",Dublin,290748.9,Yes,Donabate,Co. Dublin,q2,50%
+26/10/2018,"12 Beverton Wood, Donabate, Dublin",Dublin,371000.0,No,Donabate,Co. Dublin,q3,80%
+26/10/2018,"16 Turvey Grove, Donabate, Dublin",Dublin,282000.0,No,Donabate,Co. Dublin,q2,40%
+26/10/2018,"25  Glaslinn, Portrane Road, Donabate",Dublin,299560.0,Yes,Donabate,Co. Dublin,q2,50%
+26/10/2018,"7 Beresford Crescent, Donabate, Co. Dublin",Dublin,387665.0,Yes,Donabate,Co. Dublin,q4,80%
+30/10/2018,"2  Beresford Cresent, Donabate, Co Dublin",Dublin,387665.0,Yes,Donabate,Co. Dublin,q4,80%
+30/10/2018,"23 Eden Grove, Donabate, Dublin",Dublin,357500.0,No,Donabate,Co. Dublin,q3,70%
+31/10/2018,"8 Beresford Crescent, Donabate",Dublin,392070.0,Yes,Donabate,Co. Dublin,q4,90%
+02/11/2018,"1, Beresford Crescent, Donabate",Dublin,371950.0,Yes,Donabate,Co. Dublin,q3,80%
+02/11/2018,"4 Beresford Crescent, Turvey Avenue, Donabate",Dublin,396476.0,Yes,Donabate,Co. Dublin,q4,90%
+05/11/2018,"10 Beresford Crescent, Donabate",Dublin,405286.0,Yes,Donabate,Co. Dublin,q4,90%
+07/11/2018,"4 Rahillion Place, Donabate",Dublin,511013.0,Yes,Donabate,Co. Dublin,q4,100%
+08/11/2018,"15 Carrs Mill, Donabate, Dublin",Dublin,322500.0,No,Donabate,Co. Dublin,q3,60%
+08/11/2018,"9 Rahillion Park, Donabate, County Dublin",Dublin,400881.0,Yes,Donabate,Co. Dublin,q4,90%
+12/11/2018,"6 Rahillion Park, Donabate, Co. Dublin",Dublin,393575.0,Yes,Donabate,Co. Dublin,q4,90%
+13/11/2018,"No. 4 Rahillion Park, Donabate",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+14/11/2018,"3 Rahillion Park, Donabate, County Dublin",Dublin,387665.19,Yes,Donabate,Co. Dublin,q4,80%
+16/11/2018,"19 Glaslinn, Portrane Road, Donabate",Dublin,422907.49,Yes,Donabate,Co. Dublin,q4,90%
+16/11/2018,"7 Rahillion Park, Donabate, County Dublin",Dublin,400881.06,Yes,Donabate,Co. Dublin,q4,90%
+16/11/2018,"8 Rahillion Park, Donabate, Co. Dublin",Dublin,400881.06,Yes,Donabate,Co. Dublin,q4,90%
+16/11/2018,"Lea Hurst, Balcarrick, Donabate",Dublin,505000.0,No,Donabate,Co. Dublin,q4,100%
+19/11/2018,"10 Rahillion Park, Donabate",Dublin,436123.34,Yes,Donabate,Co. Dublin,q4,100%
+19/11/2018,"35 Turvey Woods, Turvey Ave, Donabate",Dublin,145000.0,No,Donabate,Co. Dublin,q1,10%
+21/11/2018,"3 Beresford Crescent, Donabate",Dublin,378854.63,Yes,Donabate,Co. Dublin,q4,80%
+22/11/2018,"18 Beaverstown Orchard, Donabate, Dublin",Dublin,192000.0,No,Donabate,Co. Dublin,q1,20%
+23/11/2018,"2 Rahillion Place, Donabate, County Dublin",Dublin,444933.0,Yes,Donabate,Co. Dublin,q4,100%
+26/11/2018,"32 The Strand, Donabate, Dublin",Dublin,285000.0,No,Donabate,Co. Dublin,q2,50%
+27/11/2018,"2 Beverton Wood, Donabate, Dublin",Dublin,365000.0,No,Donabate,Co. Dublin,q3,80%
+27/11/2018,"9 Beresford, Donabate",Dublin,396475.0,Yes,Donabate,Co. Dublin,q4,90%
+29/11/2018,"1 Rahillion Place, Donabate, Co. Dublin",Dublin,519824.0,Yes,Donabate,Co. Dublin,q4,100%
+30/11/2018,"6 Beresford Crescent, Donabate, Co. Dublin",Dublin,392070.48,Yes,Donabate,Co. Dublin,q4,90%
+03/12/2018,"139 Turvey Walk The Gallery, Donabate, Dublin",Dublin,247000.0,No,Donabate,Co. Dublin,q2,30%
+03/12/2018,"5 Rahillion Park, Donabate",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+04/12/2018,"145 The Links, Donabate, Dublin",Dublin,325000.0,No,Donabate,Co. Dublin,q3,60%
+07/12/2018,"1 Rahillion Park, Donabate",Dublin,422907.0,Yes,Donabate,Co. Dublin,q4,90%
+10/12/2018,"13 Eden Grove, Beaverstown Orchard, Donabate",Dublin,362500.0,No,Donabate,Co. Dublin,q3,80%
+10/12/2018,"3 Rahillion Place, Donabate",Dublin,445475.0,Yes,Donabate,Co. Dublin,q4,100%
+11/12/2018,"1 Turvey Villas, Donabate, Dublin",Dublin,225000.0,No,Donabate,Co. Dublin,q1,30%
+11/12/2018,"13 Beresford Crescent, Donabate",Dublin,450000.0,Yes,Donabate,Co. Dublin,q4,100%
+13/12/2018,"26 Glaslinn, Portrane Road, Donabate",Dublin,414096.91,Yes,Donabate,Co. Dublin,q4,90%
+13/12/2018,"4 Rahillion Drive, Donabate",Dublin,455000.0,Yes,Donabate,Co. Dublin,q4,100%
+14/12/2018,"13 The Priory, Donabate, Dublin",Dublin,385000.0,No,Donabate,Co. Dublin,q4,80%
+14/12/2018,"18  Beresford Crescent, Donabate, Co. Dublin",Dublin,387665.19,Yes,Donabate,Co. Dublin,q4,80%
+18/12/2018,"108 The Links, Donabate, Dublin",Dublin,400000.0,No,Donabate,Co. Dublin,q4,90%
+18/12/2018,"11 Beresford Crescent, Donabate, Dublin",Dublin,414096.92,Yes,Donabate,Co. Dublin,q4,90%
+18/12/2018,"2 The Strand, Donabate, Dublin",Dublin,305000.0,No,Donabate,Co. Dublin,q2,50%
+20/12/2018,"31 Glaslinn, Portrane Road, Donabate",Dublin,405286.34,Yes,Donabate,Co. Dublin,q4,90%
+21/12/2018,"Timaru, Balcarrick, Donabate",Dublin,655000.0,No,Donabate,Co. Dublin,q4,100%
+03/01/2019,"2 Rahillion Park, Donabate",Dublin,383259.0,Yes,Donabate,Co. Dublin,q4,80%
+09/01/2019,"15 Beresford Crescent, Donabate",Dublin,378854.0,Yes,Donabate,Co. Dublin,q4,80%
+14/01/2019,"16 Beresford Crescent, Donabate",Dublin,378854.0,Yes,Donabate,Co. Dublin,q4,80%
+17/01/2019,"3  Glaslinn, Portrane Road, Donabate",Dublin,365639.0,Yes,Donabate,Co. Dublin,q3,80%
+18/01/2019,"46 Ballisk Court, Donabate, Dublin",Dublin,174000.0,No,Donabate,Co. Dublin,q1,20%
+18/01/2019,"7 Kingsland, Donabate, Co Dublin",Dublin,392070.27,Yes,Donabate,Co. Dublin,q4,90%
+18/01/2019,"8 Beverton Wood, Donabate, Dublin",Dublin,385000.0,No,Donabate,Co. Dublin,q4,80%
+23/01/2019,"3 Kingsland, Donabate",Dublin,392070.0,Yes,Donabate,Co. Dublin,q4,90%
+24/01/2019,"14 Kingsland, Beaverstown Road, Donabate",Dublin,392070.0,Yes,Donabate,Co. Dublin,q4,90%
+24/01/2019,"2 Glaslinn, Portrane Road, Donabate",Dublin,365639.0,Yes,Donabate,Co. Dublin,q3,80%
+24/01/2019,"5 Glaslinn, Portrane Road, Donabate",Dublin,365555.0,Yes,Donabate,Co. Dublin,q3,80%
+30/01/2019,"17 Beresford Crescent, Donabate",Dublin,378854.63,Yes,Donabate,Co. Dublin,q4,80%
+31/01/2019,"4 Glaslinn, Portrane Road, Donabate",Dublin,365639.0,Yes,Donabate,Co. Dublin,q3,80%
+04/02/2019,"17 Kingsland, Donabate, Co Dublin",Dublin,378854.41,Yes,Donabate,Co. Dublin,q4,80%
+04/02/2019,"22 The Strand, Donabate, Dublin",Dublin,268000.0,No,Donabate,Co. Dublin,q2,40%
+04/02/2019,"7 Turvey Park, Donabate, Dublin",Dublin,340000.0,No,Donabate,Co. Dublin,q3,70%
+05/02/2019,"44 Sea View Park, Portrane, Donabate",Dublin,275000.0,No,Donabate,Co. Dublin,q2,40%
+08/02/2019,"12 Station Court, Donabate, Dublin",Dublin,195000.0,No,Donabate,Co. Dublin,q1,20%
+08/02/2019,"18 Turvey Grove, Donabate, Dublin",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+12/02/2019,"13 Turvey Park, Donabate, Dublin",Dublin,165000.0,No,Donabate,Co. Dublin,q1,20%
+13/02/2019,"Dunrovin, Donabate, Dublin",Dublin,1225000.0,No,Donabate,Co. Dublin,q4,100%
+15/02/2019,"16 Kingsland, Donabate, Co Dublin",Dublin,378854.0,Yes,Donabate,Co. Dublin,q4,80%
+18/02/2019,"12 Beverton Crescent, Donabate, Dublin",Dublin,377500.0,No,Donabate,Co. Dublin,q3,80%
+19/02/2019,"24 Glaslinn, Potrane Road, Donabate",Dublin,442731.28,Yes,Donabate,Co. Dublin,q4,100%
+19/02/2019,"96 The Links, Donabate, Dublin",Dublin,353000.0,No,Donabate,Co. Dublin,q3,70%
+20/02/2019,"15 Turvey Woods, Donabate, Dublin",Dublin,130000.0,No,Donabate,Co. Dublin,q1,10%
+22/02/2019,"13 Somerton, Donabate, Dublin",Dublin,535000.0,No,Donabate,Co. Dublin,q4,100%
+26/02/2019,"4 Carrs Mill, Portrane Rd, Donabate",Dublin,297000.0,No,Donabate,Co. Dublin,q2,50%
+28/02/2019,"6 Glaslinn, Portrane Road, Donabate",Dublin,365638.0,Yes,Donabate,Co. Dublin,q3,80%
+01/03/2019,"27 Beverton Way, Donabate, Dublin",Dublin,372500.0,No,Donabate,Co. Dublin,q3,80%
+04/03/2019,"1C Warrington Mews, Donabate, Co Dublin",Dublin,245000.0,No,Donabate,Co. Dublin,q2,30%
+08/03/2019,"17 Turvey Close, Donabate, Dublin",Dublin,160000.0,No,Donabate,Co. Dublin,q1,20%
+12/03/2019,"75 The Gallery, Turvey Walk, Donabate",Dublin,240000.0,No,Donabate,Co. Dublin,q2,30%
+14/03/2019,"10 Kingsland, Beaverstown Road, Donabate",Dublin,409691.0,Yes,Donabate,Co. Dublin,q4,90%
+15/03/2019,"15 Beresford Court, Donabate",Dublin,321585.0,Yes,Donabate,Co. Dublin,q3,60%
+15/03/2019,"4 Kingsland, Beaverstown Road, Donabate",Dublin,392070.48,Yes,Donabate,Co. Dublin,q4,90%
+19/03/2019,"16 Beresford Court, Donabate",Dublin,312775.33,Yes,Donabate,Co. Dublin,q3,60%
+19/03/2019,"19 Beresford Court, Donabate, Co. Dublin",Dublin,312775.33,Yes,Donabate,Co. Dublin,q3,60%
+19/03/2019,"20 Beresford Court, Donabate, County Dublin",Dublin,312800.0,Yes,Donabate,Co. Dublin,q3,60%
+19/03/2019,"21 Beresford Court, Donabate, Co Dublin",Dublin,321586.0,Yes,Donabate,Co. Dublin,q3,60%
+22/03/2019,"23 Beresford Court, Donabate",Dublin,339207.0,Yes,Donabate,Co. Dublin,q3,70%
+25/03/2019,"10 Rahillion, Donabate, Co. Dublin",Dublin,422907.0,Yes,Donabate,Co. Dublin,q4,90%
+25/03/2019,"7 Beverton Grove, Donabate, Dublin",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+28/03/2019,"11 Rahillion Walk, Donabate, County Dublin",Dublin,409691.62,Yes,Donabate,Co. Dublin,q4,90%
+28/03/2019,"6 Beverton Rise, Donabate, Co Dublin",Dublin,265000.0,No,Donabate,Co. Dublin,q2,40%
+29/03/2019,"11  Rahillion Park, Donabate",Dublin,449339.0,Yes,Donabate,Co. Dublin,q4,100%
+29/03/2019,"13 Viking Court, Turvey, Donabate",Dublin,169000.0,No,Donabate,Co. Dublin,q1,20%
+29/03/2019,"21 Benson Crescent, Beaverstown Orchard, Donabate",Dublin,269000.0,No,Donabate,Co. Dublin,q2,40%
+29/03/2019,"24 Carrsmill, Donabate, Dublin",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+02/04/2019,"18 Beresford Court, Donabate",Dublin,321585.9,Yes,Donabate,Co. Dublin,q3,60%
+08/04/2019,"6  Rahillion Drive, Donabate, County Dublin",Dublin,476000.0,No,Donabate,Co. Dublin,q4,100%
+10/04/2019,"13 Rahillion Walk, Donabate",Dublin,396475.0,Yes,Donabate,Co. Dublin,q4,90%
+10/04/2019,"59 Priory Wood, Donabate, Dublin",Dublin,330000.0,No,Donabate,Co. Dublin,q3,60%
+11/04/2019,"62 Ballisk Court, Donabate, Dublin",Dublin,182000.0,No,Donabate,Co. Dublin,q1,20%
+11/04/2019,"88 Somerton, Donabate, Dublin",Dublin,364146.88,No,Donabate,Co. Dublin,q3,80%
+12/04/2019,"8 Rahillion Drive, Donabate, Co. Dublin",Dublin,374449.0,Yes,Donabate,Co. Dublin,q3,80%
+15/04/2019,"22 Beresford Court, Donabate, Co Dublin",Dublin,333025.0,Yes,Donabate,Co. Dublin,q3,70%
+15/04/2019,"5 Beverton Dr, Donabate, Dublin",Dublin,362500.0,No,Donabate,Co. Dublin,q3,80%
+17/04/2019,"24 Beresford Court, Donabate, Co Dublin",Dublin,330397.0,Yes,Donabate,Co. Dublin,q3,70%
+17/04/2019,"25 Beresford Court, Donabate",Dublin,330396.0,Yes,Donabate,Co. Dublin,q3,60%
+18/04/2019,"27 Beresford Court, Donabate",Dublin,303964.76,Yes,Donabate,Co. Dublin,q2,50%
+18/04/2019,"29 Beresford Court, Donabate, County Dublin",Dublin,312775.33,Yes,Donabate,Co. Dublin,q3,60%
+18/04/2019,"30 Beresford Court, Donabate",Dublin,317180.0,Yes,Donabate,Co. Dublin,q3,60%
+18/04/2019,"32 Beresford Court, Donabate",Dublin,303964.75,Yes,Donabate,Co. Dublin,q2,50%
+29/04/2019,"28 Beresford Court, Donabate, County Dublin",Dublin,303964.76,Yes,Donabate,Co. Dublin,q2,50%
+30/04/2019,"51 Beverton Court, Donabate, Dublin",Dublin,185000.0,No,Donabate,Co. Dublin,q1,20%
+30/04/2019,"6 Turvey Walk, The Gallery, Donabate",Dublin,248000.0,No,Donabate,Co. Dublin,q2,30%
+02/05/2019,"2 Kingsland  Beaverstown Road, Donabate, Dublin",Dublin,378854.62,Yes,Donabate,Co. Dublin,q4,80%
+03/05/2019,"15 Turvey Walk, The Galleries, Donabate",Dublin,240000.0,No,Donabate,Co. Dublin,q2,30%
+03/05/2019,"26 Beresford Court, Donabate",Dublin,312775.0,Yes,Donabate,Co. Dublin,q3,60%
+03/05/2019,"29 Turvey Woods, Donabate, Dublin",Dublin,178000.0,No,Donabate,Co. Dublin,q1,20%
+09/05/2019,"75 Cois Inbhir, Beaverstown Rd, Donabate",Dublin,243000.0,No,Donabate,Co. Dublin,q2,30%
+10/05/2019,"114 The Gallery, Turvey Walk, Donabate",Dublin,310000.0,No,Donabate,Co. Dublin,q3,60%
+13/05/2019,"15 Beaverstown Orchard, Donabate, Dublin",Dublin,290000.0,No,Donabate,Co. Dublin,q2,50%
+13/05/2019,"30 Beverton Rise, Donabate, Dublin",Dublin,380000.0,No,Donabate,Co. Dublin,q4,80%
+13/05/2019,"36 Eden Grove, Donabate, Dublin",Dublin,380000.0,No,Donabate,Co. Dublin,q4,80%
+15/05/2019,"72 Beverton Court, Donabate, Dublin",Dublin,170000.0,No,Donabate,Co. Dublin,q1,20%
+16/05/2019,"33 Beresford Court, Donabate, County Dublin",Dublin,312775.0,Yes,Donabate,Co. Dublin,q3,60%
+22/05/2019,"12 Rahillion Crescent, Donabate",Dublin,515418.5,Yes,Donabate,Co. Dublin,q4,100%
+23/05/2019,"15 Turvey Park, Donabate, Dublin",Dublin,170000.0,No,Donabate,Co. Dublin,q1,20%
+24/05/2019,"43 Rahillion Drive, Donabate",Dublin,462555.0,Yes,Donabate,Co. Dublin,q4,100%
+27/05/2019,"4 Eden Grove, Donabate, Dublin",Dublin,325000.0,No,Donabate,Co. Dublin,q3,60%
+27/05/2019,"42 Ballisk Court, Donabate, County Dublin",Dublin,180000.0,No,Donabate,Co. Dublin,q1,20%
+30/05/2019,"19 Turvey Woods, Donabate, Dublin",Dublin,194000.0,No,Donabate,Co. Dublin,q1,20%
+30/05/2019,"Cedarwood, Beaverstown Road, Donabate",Dublin,502212.64,Yes,Donabate,Co. Dublin,q4,100%
+30/05/2019,"Oakwood, Beaverstown Road, Donabate",Dublin,565000.0,Yes,Donabate,Co. Dublin,q4,100%
+31/05/2019,"37 Rahillion Drive, Rahillion, Donabate",Dublin,409692.0,Yes,Donabate,Co. Dublin,q4,90%
+31/05/2019,"39 Rahillion Drive, Donabate",Dublin,409691.62,Yes,Donabate,Co. Dublin,q4,90%
+06/06/2019,"13 Kingsland, Beaverstown Road, Donabate",Dublin,392070.48,Yes,Donabate,Co. Dublin,q4,90%
+06/06/2019,"3 Lambourne Park, Beeverstown Road, Donabate",Dublin,283000.0,No,Donabate,Co. Dublin,q2,40%
+10/06/2019,"41 Rahillion Drive, Donabate",Dublin,454801.76,Yes,Donabate,Co. Dublin,q4,100%
+12/06/2019,"4 Ballisk Court, Donabate, Dublin",Dublin,199000.0,No,Donabate,Co. Dublin,q1,20%
+18/06/2019,"6 The Old Schoolhouse, Portrane, Donabate",Dublin,270000.0,No,Donabate,Co. Dublin,q2,40%
+18/06/2019,"63 Donabate Village, Donabate, Dublin",Dublin,375000.0,No,Donabate,Co. Dublin,q3,80%
+25/06/2019,"137 The Gallery, Turvey Walk, Donabate",Dublin,295000.0,No,Donabate,Co. Dublin,q2,50%
+27/06/2019,"31 Rahillion Drive, Donabate, Co. Dublin",Dublin,409691.63,Yes,Donabate,Co. Dublin,q4,90%
+28/06/2019,"25 Rahillion Drive, Donabate, County Dublin",Dublin,449339.0,Yes,Donabate,Co. Dublin,q4,100%
+01/07/2019,"33 Rahillion Drive, Donabate, Co. Dublin",Dublin,365638.0,Yes,Donabate,Co. Dublin,q3,80%
+01/07/2019,"68 The Strand, Donabate, Dublin",Dublin,299000.0,No,Donabate,Co. Dublin,q2,50%
+02/07/2019,"35 Rahillion Drive, Donabate",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+02/07/2019,"6 Kingsland, Donabate",Dublin,396475.8,Yes,Donabate,Co. Dublin,q4,90%
+04/07/2019,"95 Somerton, Portrane Rd, Donabate",Dublin,520000.0,No,Donabate,Co. Dublin,q4,100%
+05/07/2019,"1 Station Court, Donabate, Dublin",Dublin,245000.0,No,Donabate,Co. Dublin,q2,30%
+05/07/2019,"14 Beresford Court, Donabate",Dublin,427312.0,Yes,Donabate,Co. Dublin,q4,90%
+05/07/2019,"2  The Drive, Semple Woods, Donabate",Dublin,348458.0,Yes,Donabate,Co. Dublin,q3,70%
+08/07/2019,"11 Ballalease Court, Donabate, Dublin",Dublin,217000.0,No,Donabate,Co. Dublin,q1,30%
+08/07/2019,"13 The Avenue, Semple Woods, Donabate",Dublin,394000.0,Yes,Donabate,Co. Dublin,q4,90%
+09/07/2019,"7 The Drive, Semple Woods, Donabate",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+10/07/2019,"1 The Walk, Sempe Woods, Donabate",Dublin,348017.0,Yes,Donabate,Co. Dublin,q3,70%
+10/07/2019,"12 Beresford Court, Donabate, Co.Dublin",Dublin,378855.0,Yes,Donabate,Co. Dublin,q4,80%
+10/07/2019,"136 The Links, Donabate, Dublin",Dublin,490000.0,No,Donabate,Co. Dublin,q4,100%
+10/07/2019,"3 The Close, Semple Woods, Donabate",Dublin,348017.0,Yes,Donabate,Co. Dublin,q3,70%
+10/07/2019,"9 Beresford Court, Donabate",Dublin,383259.91,Yes,Donabate,Co. Dublin,q4,80%
+11/07/2019,"27 Rahillion Drive, Donabate",Dublin,510000.0,Yes,Donabate,Co. Dublin,q4,100%
+11/07/2019,"43 Turvey Woods, Donabate, Dublin",Dublin,150000.0,No,Donabate,Co. Dublin,q1,10%
+11/07/2019,"87 Cois Inbhir, Donabate, Dublin",Dublin,250000.0,No,Donabate,Co. Dublin,q2,30%
+16/07/2019,"1 The Green, Semple Woods, Donabate",Dublin,514977.97,Yes,Donabate,Co. Dublin,q4,100%
+16/07/2019,"13 Beresford Court, Donabate",Dublin,378854.0,Yes,Donabate,Co. Dublin,q4,80%
+16/07/2019,"16 The Drive, Semple Woods, Donabate",Dublin,433480.17,Yes,Donabate,Co. Dublin,q4,90%
+16/07/2019,"31 The Links, Donabate, Co Dublin",Dublin,320000.0,No,Donabate,Co. Dublin,q3,60%
+16/07/2019,"8 Beresford Court, Donabate, Co. Dublin",Dublin,383259.92,Yes,Donabate,Co. Dublin,q4,80%
+18/07/2019,"10  Beresford Court, Donabate",Dublin,378854.62,Yes,Donabate,Co. Dublin,q4,80%
+18/07/2019,"11 Beresford Court, Donabate, Co. Dublin",Dublin,383259.0,Yes,Donabate,Co. Dublin,q4,80%
+18/07/2019,"4 The Green, Semple Woods, Donabate",Dublin,327753.0,Yes,Donabate,Co. Dublin,q3,60%
+19/07/2019,"152 The Gallery, Turvey Walk, Donabate",Dublin,245000.0,No,Donabate,Co. Dublin,q2,30%
+19/07/2019,"23 Rahillion Drive, Donabate",Dublin,365638.76,Yes,Donabate,Co. Dublin,q3,80%
+22/07/2019,"13 Rahillion Drive, Donabate, County Dublin",Dublin,449339.2,Yes,Donabate,Co. Dublin,q4,100%
+23/07/2019,"14 The Drive, Semple Woods, Donabate",Dublin,325991.0,Yes,Donabate,Co. Dublin,q3,60%
+23/07/2019,"3 The Drive, Semple Woods, Donabate",Dublin,418502.0,Yes,Donabate,Co. Dublin,q4,90%
+24/07/2019,"9 The Crescent, Cois Inbhir, Donabate",Dublin,650000.0,No,Donabate,Co. Dublin,q4,100%
+26/07/2019,"17 Rahillion Drive, Donabate, Co. Dublin",Dublin,365638.0,Yes,Donabate,Co. Dublin,q3,80%
+26/07/2019,"38 Beaverbrook, Donabate, Dublin",Dublin,732500.0,No,Donabate,Co. Dublin,q4,100%
+30/07/2019,"112 The Links, Donabate, Dublin",Dublin,380000.0,No,Donabate,Co. Dublin,q4,80%
+01/08/2019,"20 Turvey Grove, Donabate, Dublin",Dublin,275000.0,No,Donabate,Co. Dublin,q2,40%
+02/08/2019,"30 Ballisk Court, Donabate, Dublin",Dublin,165000.0,No,Donabate,Co. Dublin,q1,20%
+08/08/2019,"15 Rahillion Drive, Donabate",Dublin,449339.2,Yes,Donabate,Co. Dublin,q4,100%
+09/08/2019,"19 Rahillion Drive, Donabate, Co. Dublin",Dublin,348018.0,Yes,Donabate,Co. Dublin,q3,70%
+09/08/2019,"19 Rahillion Way, Donabate",Dublin,418502.0,Yes,Donabate,Co. Dublin,q4,90%
+09/08/2019,"21 Rahillion Way, Donabate",Dublin,418502.0,Yes,Donabate,Co. Dublin,q4,90%
+09/08/2019,"22 Rahillion Way, Donabate",Dublin,392070.48,Yes,Donabate,Co. Dublin,q4,90%
+12/08/2019,"12 The Drive, Semple Woods, Donabate",Dublin,325991.19,Yes,Donabate,Co. Dublin,q3,60%
+12/08/2019,"9 Viking Court Turvey Close, Donabate, Dublin",Dublin,175000.0,No,Donabate,Co. Dublin,q1,20%
+14/08/2019,"149 Carrs Mill, Donabate, Dublin",Dublin,557500.0,No,Donabate,Co. Dublin,q4,100%
+14/08/2019,"Apt 93, Turvey Woods, Donabate",Dublin,172000.0,No,Donabate,Co. Dublin,q1,20%
+15/08/2019,"89 The Gallery, Turvey Walk, Donabate",Dublin,297000.0,No,Donabate,Co. Dublin,q2,50%
+16/08/2019,"20 Rahillion Way, Donabate",Dublin,418502.0,Yes,Donabate,Co. Dublin,q4,90%
+19/08/2019,"29 Rahillion Drive, Donabate, Co. Dublin",Dublin,409691.62,Yes,Donabate,Co. Dublin,q4,90%
+20/08/2019,"77 Priory Wood, Donabate, Dublin",Dublin,370000.0,No,Donabate,Co. Dublin,q3,80%
+21/08/2019,"2 The Close, Semple Woods, Donabate",Dublin,325991.0,Yes,Donabate,Co. Dublin,q3,60%
+21/08/2019,"23 Rahillion Way, Donabate",Dublin,436123.0,Yes,Donabate,Co. Dublin,q4,90%
+22/08/2019,"3 The Green, Semple Woods, Donabate",Dublin,327753.3,Yes,Donabate,Co. Dublin,q3,60%
+23/08/2019,"16 Orchard View, Beaverstown Road, Donabate",Dublin,396475.0,Yes,Donabate,Co. Dublin,q4,90%
+23/08/2019,"18 Orchard View, Beaverstown Road, Donabate",Dublin,422907.0,Yes,Donabate,Co. Dublin,q4,90%
+28/08/2019,"21 Rahillion Drive, Donabate",Dublin,365638.0,Yes,Donabate,Co. Dublin,q3,80%
+29/08/2019,"131 The Gallery Apts, Turview Park, Donabate",Dublin,258000.0,No,Donabate,Co. Dublin,q2,40%
+29/08/2019,"46 Turvey Woods Apts, Donabate, County Dublin",Dublin,171000.0,No,Donabate,Co. Dublin,q1,20%
+03/09/2019,"122 Turvey Walk, Donabate, Dublin",Dublin,255000.0,No,Donabate,Co. Dublin,q2,40%
+03/09/2019,"40 The Links, Donabate, Dublin",Dublin,370000.0,No,Donabate,Co. Dublin,q3,80%
+09/09/2019,"10 The Drive, Semple Woods, Donabate",Dublin,396475.77,Yes,Donabate,Co. Dublin,q4,90%
+09/09/2019,"7 Beresford Green, Donabate, Dublin",Dublin,400000.0,No,Donabate,Co. Dublin,q4,90%
+10/09/2019,"5 Rahillion Place, Donabate, Dublin",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+10/09/2019,"6 Rahillion Place, Donabate",Dublin,348017.62,Yes,Donabate,Co. Dublin,q3,70%
+10/09/2019,"7 Beresford Court, Donabate",Dublin,378854.63,Yes,Donabate,Co. Dublin,q4,80%
+12/09/2019,"12 Orchard Close, Beaverstown, Donabate",Dublin,325000.0,No,Donabate,Co. Dublin,q3,60%
+13/09/2019,"34 Beresford Court, Donabate, Co. Dublin",Dublin,317181.0,Yes,Donabate,Co. Dublin,q3,60%
+13/09/2019,"35 Beresford Court, Turvey Avenue, Donabate",Dublin,308370.0,Yes,Donabate,Co. Dublin,q3,60%
+13/09/2019,"5 Beresford Court, Donabate, Co. Dublin",Dublin,383259.0,Yes,Donabate,Co. Dublin,q4,80%
+13/09/2019,"6 Beresford Court, Donabate",Dublin,383260.0,Yes,Donabate,Co. Dublin,q4,80%
+13/09/2019,"66 Priory Wood, Donabate, Dublin",Dublin,395000.0,No,Donabate,Co. Dublin,q4,90%
+13/09/2019,"9 Rahillion Place, Donabate",Dublin,519284.0,Yes,Donabate,Co. Dublin,q4,100%
+16/09/2019,"35 Ballisk Court, Donabate, Dublin",Dublin,253000.0,No,Donabate,Co. Dublin,q2,40%
+16/09/2019,"36  Beresford Court, Donabate",Dublin,317180.62,Yes,Donabate,Co. Dublin,q3,60%
+17/09/2019,"Apt 26, Block 3 Turvey Woods, Donabate",Dublin,152000.0,No,Donabate,Co. Dublin,q1,10%
+18/09/2019,"4 Beresford Court, Donabate",Dublin,383259.91,Yes,Donabate,Co. Dublin,q4,80%
+18/09/2019,"7 Rahillion Place, Donabate, Dublin",Dublin,348017.62,No,Donabate,Co. Dublin,q3,70%
+18/09/2019,"8 Rahillion Place, Donabate, County Dublin",Dublin,348017.0,Yes,Donabate,Co. Dublin,q3,70%
+20/09/2019,"37 Beresford Court, Donabate, Co. Dublin",Dublin,317180.62,Yes,Donabate,Co. Dublin,q3,60%
+25/09/2019,"14 The Avenue, Semple Woods, Donabate",Dublin,514977.97,Yes,Donabate,Co. Dublin,q4,100%
+25/09/2019,"17 Orchard View, Donabate",Dublin,405286.0,Yes,Donabate,Co. Dublin,q4,90%
+01/10/2019,"38 Beresford Court, Donabate",Dublin,308370.0,Yes,Donabate,Co. Dublin,q3,60%
+07/10/2019,"101 Somerton, Donabate, Dublin",Dublin,362500.0,No,Donabate,Co. Dublin,q3,80%
+09/10/2019,"40 Beresford Court, Donabate",Dublin,317180.62,Yes,Donabate,Co. Dublin,q3,60%
+09/10/2019,"41 Beresford Court, Donabate, County Dublin",Dublin,317180.0,Yes,Donabate,Co. Dublin,q3,60%
+09/10/2019,"42 Beresford Court, Donabate",Dublin,308370.04,Yes,Donabate,Co. Dublin,q3,60%
+10/10/2019,"44 Turvey Green, Donabate, Dublin",Dublin,355000.0,No,Donabate,Co. Dublin,q3,70%
+10/10/2019,"58 Beverton Green, Donabate, Dublin",Dublin,430000.0,No,Donabate,Co. Dublin,q4,90%
+10/10/2019,"Site 1 Glasslinn, Portrane Road, Donabate",Dublin,414096.91,Yes,Donabate,Co. Dublin,q4,90%
+11/10/2019,"3 The Avenue, Semple Woods, Donabate",Dublin,361233.48,Yes,Donabate,Co. Dublin,q3,80%
+11/10/2019,"8 Beverton Way, Donabate, Dublin",Dublin,375000.0,No,Donabate,Co. Dublin,q3,80%
+15/10/2019,"35 Beverton Court, Donabate, Dublin",Dublin,225000.0,No,Donabate,Co. Dublin,q1,30%
+16/10/2019,"9 The Oldschool House, Portrane, Donabate",Dublin,265000.0,No,Donabate,Co. Dublin,q2,40%
+18/10/2019,"39 Beresford Court, Donabate",Dublin,308370.0,Yes,Donabate,Co. Dublin,q3,60%
+21/10/2019,"16 Rahillion Way, Donabate",Dublin,458149.78,Yes,Donabate,Co. Dublin,q4,100%
+23/10/2019,"43 Beresford Court, Donabate",Dublin,308370.0,Yes,Donabate,Co. Dublin,q3,60%

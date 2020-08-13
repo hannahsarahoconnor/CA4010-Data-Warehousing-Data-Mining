@@ -1,0 +1,711 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/01/2010,"6 Clonasleigh Lane, Shankill",Dublin,415000.0,No,Shankill,Dublin 18,q3,70%
+28/01/2010,"17  Marylands, Shankill, County Dublin",Dublin,190000.0,No,Shankill,Dublin 18,q1,10%
+12/02/2010,"Bann  Fon 103A, Cherrywood Road, Shankill",Dublin,585000.0,No,Shankill,Dublin 18,q4,100%
+18/03/2010,"32 Assumpta Park, Shankill",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+23/03/2010,"Apartment 5, Broomfield Hall  Snanganagh Rd, Shankill",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+28/03/2010,"40 Shanganagh Grove, Shankill, Dublin",Dublin,340000.0,No,Shankill,Dublin 18,q2,50%
+01/04/2010,"Apartment 104  Olcovar, Shankill",Dublin,230000.0,Yes,Shankill,Dublin 18,q1,20%
+15/04/2010,"16 Rathmichael Park, Shankill",Dublin,250000.0,No,Shankill,Dublin 18,q1,20%
+16/04/2010,"South Park, 197A Library Road, Shankill",Dublin,550000.0,No,Shankill,Dublin 18,q4,90%
+23/04/2010,"13 Shanganagh Grove, Shankill",Dublin,395000.0,No,Shankill,Dublin 18,q3,70%
+07/05/2010,"76 Mountain View, Crinken Glen, Shankill",Dublin,305000.0,No,Shankill,Dublin 18,q2,40%
+12/05/2010,"4 Lower Road, Shankill, Co. Dublin",Dublin,150000.0,No,Shankill,Dublin 18,q1,10%
+21/05/2010,"103 Olcovar, Shankill, Dublin 18",Dublin,190709.0,Yes,Shankill,Dublin 18,q1,10%
+21/05/2010,"19 Aubrey, Shankill",Dublin,242290.75,Yes,Shankill,Dublin 18,q1,20%
+28/05/2010,"27 Clifton Park, Shankill",Dublin,240000.0,No,Shankill,Dublin 18,q1,20%
+01/06/2010,"78 Shanganagh Grove, Shankill",Dublin,360000.0,No,Shankill,Dublin 18,q2,50%
+16/06/2010,"15 Aubrey, Shankill",Dublin,310000.0,Yes,Shankill,Dublin 18,q2,40%
+17/06/2010,"6 Corbawn Dale, Shankill",Dublin,610000.0,No,Shankill,Dublin 18,q4,100%
+18/06/2010,"9 Eaton Wood Court, Shankill",Dublin,340000.0,No,Shankill,Dublin 18,q2,50%
+25/06/2010,"20 Corbawn Close, Shankill",Dublin,362500.0,No,Shankill,Dublin 18,q3,60%
+25/06/2010,"43 Olcovar, Shankill",Dublin,282000.0,No,Shankill,Dublin 18,q2,30%
+29/06/2010,"169 Corbawn Wood, Shankill, Co Dublin",Dublin,345000.0,No,Shankill,Dublin 18,q2,50%
+06/07/2010,"28 Shrewsbury Road, Shankill",Dublin,486000.0,No,Shankill,Dublin 18,q4,80%
+13/07/2010,"Apple Tree House, Aubrey Grove, Shankill",Dublin,440000.0,No,Shankill,Dublin 18,q3,70%
+14/07/2010,"87 Mountain View, Crinken Glen, Shankill",Dublin,273000.0,No,Shankill,Dublin 18,q1,30%
+16/07/2010,"101 Olcovar, Shankill",Dublin,210000.0,Yes,Shankill,Dublin 18,q1,10%
+29/07/2010,"Conna View House, 4 Woodbrookdowns, Shankill",Dublin,1413000.0,No,Shankill,Dublin 18,q4,100%
+03/08/2010,"23 Assumpta Park, Shankill, County Dublin",Dublin,215000.0,No,Shankill,Dublin 18,q1,20%
+05/08/2010,"7 Clonasleigh, Marylands, Shankill",Dublin,350000.0,No,Shankill,Dublin 18,q2,50%
+06/08/2010,"10 Cherrington Road, Shankill",Dublin,472500.0,No,Shankill,Dublin 18,q3,80%
+09/08/2010,"53 Olcovar, Shankill",Dublin,460000.0,Yes,Shankill,Dublin 18,q3,80%
+12/08/2010,"205 Olcovar, Shankill",Dublin,250000.0,No,Shankill,Dublin 18,q1,20%
+01/09/2010,"21 Aubrey, Shankill",Dublin,224900.0,Yes,Shankill,Dublin 18,q1,20%
+06/09/2010,"15 Aubrey, Shankill",Dublin,290000.0,Yes,Shankill,Dublin 18,q2,30%
+17/09/2010,"28 Block A Aubrey, Quinns Road, Shankill",Dublin,239647.58,Yes,Shankill,Dublin 18,q1,20%
+17/09/2010,"Hillview Cottage, Lower Road, Shankill",Dublin,200000.0,No,Shankill,Dublin 18,q1,10%
+15/10/2010,"20 Castle Farm, Shankill",Dublin,520000.0,No,Shankill,Dublin 18,q4,90%
+28/10/2010,"220 New Vale, Shankill",Dublin,245000.0,No,Shankill,Dublin 18,q1,20%
+24/11/2010,"98 Quinn'S Road, Shankill",Dublin,315000.0,No,Shankill,Dublin 18,q2,40%
+06/12/2010,"31 The Wood, Crinken Glen, Shankill",Dublin,302000.0,No,Shankill,Dublin 18,q2,40%
+21/12/2010,"11 Olcovar, Shankill, County Dublin",Dublin,250000.0,No,Shankill,Dublin 18,q1,20%
+07/01/2011,"13 Library Road, Shankill, Co. Dublin.",Dublin,250000.0,No,Shankill,Dublin 18,q1,20%
+12/01/2011,"27 Maryland House, Shankill",Dublin,200000.0,No,Shankill,Dublin 18,q1,10%
+31/01/2011,"6 Cherrington Drive, Shankill",Dublin,435000.0,No,Shankill,Dublin 18,q3,70%
+08/03/2011,"13 Marylands, Shankill",Dublin,155000.0,No,Shankill,Dublin 18,q1,10%
+22/03/2011,"4 Lower Road, Shankill",Dublin,230000.0,No,Shankill,Dublin 18,q1,20%
+05/04/2011,"26 Rathsallagh Park, Shankill, Co. Dublin",Dublin,223589.0,No,Shankill,Dublin 18,q1,20%
+04/05/2011,"Aubrey Mews, Main Street, Shankill",Dublin,625000.0,No,Shankill,Dublin 18,q4,100%
+28/05/2011,"No. 27  New Vale, Shankill",Dublin,223000.0,No,Shankill,Dublin 18,q1,20%
+22/06/2011,"22 Corbawn Grove, Shankill, Dublin",Dublin,400000.0,No,Shankill,Dublin 18,q3,70%
+01/07/2011,"Apartment 12, Broomfield Hall, Shankill",Dublin,185000.0,No,Shankill,Dublin 18,q1,10%
+18/07/2011,"49 Castlefarm, Shankill, County Dublin",Dublin,340000.0,No,Shankill,Dublin 18,q2,50%
+26/07/2011,"7 Aubrey, Shankill",Dublin,233480.0,Yes,Shankill,Dublin 18,q1,20%
+28/07/2011,"31 Aubrey, Shankill",Dublin,317180.61,Yes,Shankill,Dublin 18,q2,40%
+10/08/2011,"23 Shanganagh Grove, Shankill",Dublin,320000.0,No,Shankill,Dublin 18,q2,40%
+16/09/2011,"7 Eaton Wood Avenue, Shankill",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+29/09/2011,"55 Hazelwood, Shankill",Dublin,290000.0,No,Shankill,Dublin 18,q2,30%
+05/10/2011,"4 Hazelwood, Shankill",Dublin,375000.0,No,Shankill,Dublin 18,q3,60%
+05/10/2011,"Unit 6 Beechfield Haven, Shankill",Dublin,130000.0,No,Shankill,Dublin 18,q1,10%
+06/10/2011,"67 Quinns Road, Shankill, Dublin",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+10/10/2011,"13 Aubrey, Shankill Village",Dublin,220264.0,Yes,Shankill,Dublin 18,q1,20%
+14/10/2011,"8 Seaview Park, Shankill",Dublin,404350.0,No,Shankill,Dublin 18,q3,70%
+26/10/2011,"14 Aubrey, Quinns' Road, Shankill",Dublin,255000.0,Yes,Shankill,Dublin 18,q1,20%
+24/11/2011,"181 Corbawn Wood, Shankill",Dublin,309000.0,No,Shankill,Dublin 18,q2,40%
+24/11/2011,"86 Crinken Glen, Shankill",Dublin,207000.0,No,Shankill,Dublin 18,q1,10%
+24/11/2011,"Wealdstone House, Quinns Road, Shankill",Dublin,350000.0,No,Shankill,Dublin 18,q2,50%
+25/11/2011,"23 Aubrey, Quinn'S Road, Shankill",Dublin,210000.0,Yes,Shankill,Dublin 18,q1,10%
+29/11/2011,"7 Seaview Park, Shankill",Dublin,380000.0,No,Shankill,Dublin 18,q3,60%
+02/12/2011,"2 Cluain Na Greine Court, Shankill",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+02/12/2011,"48 Hazelwood, Shankill",Dublin,320000.0,No,Shankill,Dublin 18,q2,40%
+02/12/2011,"8 Newvale Crescent, Shankill",Dublin,215000.0,No,Shankill,Dublin 18,q1,20%
+05/12/2011,"Apartment 31, Marylands, Shankill",Dublin,75000.0,No,Shankill,Dublin 18,q1,10%
+08/12/2011,"12 Aubrey Park, Shankill",Dublin,312500.0,No,Shankill,Dublin 18,q2,40%
+08/12/2011,"7  Cherrington Close, Shankill, County Dublin.",Dublin,360000.0,No,Shankill,Dublin 18,q2,50%
+09/12/2011,"53 Foxes Grove, Shankill",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+16/12/2011,"13 Aubrey Grove, Shankill",Dublin,230000.0,No,Shankill,Dublin 18,q1,20%
+27/12/2011,"Coolgarrow, Falls Road, Shankill",Dublin,480000.0,No,Shankill,Dublin 18,q3,80%
+09/01/2012,"1 River Lane Grove, Shankill",Dublin,212000.0,No,Shankill,Dublin 18,q1,20%
+20/01/2012,"8 Corbawn Drive, Shankill, Co. Dublin",Dublin,275000.0,No,Shankill,Dublin 18,q1,30%
+31/01/2012,"136 Dorney Court, Shankill",Dublin,200000.0,No,Shankill,Dublin 18,q1,10%
+01/02/2012,"Apartment 2, Beechfield Haven, Shankill",Dublin,185500.0,No,Shankill,Dublin 18,q1,10%
+07/02/2012,"4 Corbawn Dale, Shankill",Dublin,475000.0,No,Shankill,Dublin 18,q3,80%
+07/02/2012,"Tilly Cottage, 201 Newvale Cottages, Shankill",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+13/02/2012,"35 Castle Farm, Shankill",Dublin,290000.0,No,Shankill,Dublin 18,q2,30%
+02/03/2012,"14 Seaview Wood, Shankill",Dublin,320000.0,No,Shankill,Dublin 18,q2,40%
+08/03/2012,"20 Aubrey, Shankill, Dublin 18",Dublin,222500.0,No,Shankill,Dublin 18,q1,20%
+08/03/2012,"Apartment 7 Claremount, Dublin Road, Shankill",Dublin,195000.0,No,Shankill,Dublin 18,q1,10%
+30/03/2012,"Four Winds, Ballycorus Road, Shankill",Dublin,330000.0,No,Shankill,Dublin 18,q2,50%
+05/04/2012,"170 Corbawn Wood, Shankill, Co. Dublin",Dublin,260000.0,No,Shankill,Dublin 18,q1,30%
+17/04/2012,"23 Summerhill Road, Shankill",Dublin,492500.0,No,Shankill,Dublin 18,q4,80%
+03/05/2012,"16 Corbawn Drive, Shankill",Dublin,285000.0,No,Shankill,Dublin 18,q2,30%
+03/05/2012,"3 Seaview Woods, Shankill, Co Dublin",Dublin,330000.0,No,Shankill,Dublin 18,q2,50%
+15/05/2012,"6, Maryland, Shankill",Dublin,145000.0,No,Shankill,Dublin 18,q1,10%
+17/05/2012,"Killsalagh, Ballybride Road, Shankill",Dublin,575000.0,No,Shankill,Dublin 18,q4,90%
+23/05/2012,"84 Olcovar, Shankill, Dublin 18",Dublin,202643.0,Yes,Shankill,Dublin 18,q1,10%
+25/05/2012,"3 Glenbrae Court, Shankill",Dublin,320000.0,No,Shankill,Dublin 18,q2,40%
+01/06/2012,"55 Olcovar, Shankill",Dublin,287500.0,Yes,Shankill,Dublin 18,q2,30%
+11/07/2012,"56 Olcovar, Shankill",Dublin,259912.0,Yes,Shankill,Dublin 18,q1,30%
+12/07/2012,"12 Aubrey Grove, Shankill",Dublin,290000.0,No,Shankill,Dublin 18,q2,30%
+13/07/2012,"89 Olcovar, Shankill, Dublin 18",Dublin,230000.0,Yes,Shankill,Dublin 18,q1,20%
+19/07/2012,"Apt. 5  Marylands, Shanganagh Road, Shankill",Dublin,133000.0,No,Shankill,Dublin 18,q1,10%
+20/07/2012,"12 Rathsallagh Park, Shankill",Dublin,140000.0,No,Shankill,Dublin 18,q1,10%
+23/07/2012,"12 Ahhgoe Drive, Shankill, Co.Dublin",Dublin,199000.0,No,Shankill,Dublin 18,q1,10%
+31/07/2012,"46 Shrewsbury Road, Shankill",Dublin,475000.0,No,Shankill,Dublin 18,q3,80%
+03/08/2012,"18  Aubrey Park, Shankill",Dublin,330000.0,No,Shankill,Dublin 18,q2,50%
+03/08/2012,"35 The Bungalows, Mountainview, Crinken Glen  Shankill",Dublin,275000.0,No,Shankill,Dublin 18,q1,30%
+10/08/2012,"22 Aubrey, Quinns Road, Shankill",Dublin,180617.0,Yes,Shankill,Dublin 18,q1,10%
+10/08/2012,"60 Rathsallagh Park, Shankill",Dublin,157500.0,No,Shankill,Dublin 18,q1,10%
+14/08/2012,"5 Nortlands, Rathmichael Park, Shankill",Dublin,160000.0,No,Shankill,Dublin 18,q1,10%
+16/08/2012,"65 Dorney Court, Shankill",Dublin,215000.0,No,Shankill,Dublin 18,q1,20%
+17/08/2012,"25 Shrewsbury Road, Shankill",Dublin,360000.0,No,Shankill,Dublin 18,q2,50%
+17/08/2012,"7 St Anne'S Park, Shankill",Dublin,192000.0,No,Shankill,Dublin 18,q1,10%
+24/08/2012,"17 Aubrey Grove, Shankill",Dublin,238000.0,No,Shankill,Dublin 18,q1,20%
+24/08/2012,"Ellerslie Lodge, Crinken Lane, Shankill",Dublin,125000.0,No,Shankill,Dublin 18,q1,10%
+28/08/2012,"16 Aubrey, Shankill, Dublin 18",Dublin,290749.0,Yes,Shankill,Dublin 18,q2,30%
+28/08/2012,"71 Quinns Road, Shankill",Dublin,340000.0,No,Shankill,Dublin 18,q2,50%
+28/08/2012,"9 Athgoe Drive, Corbawn Lane, Shankill",Dublin,275000.0,No,Shankill,Dublin 18,q1,30%
+30/08/2012,"54 Shanganagh Grove, Shankill",Dublin,320500.0,No,Shankill,Dublin 18,q2,50%
+30/08/2012,"59 Olcovar, Shankill",Dublin,295740.0,Yes,Shankill,Dublin 18,q2,40%
+31/08/2012,"58A Olcovar, Shankill, Dublin 18",Dublin,380000.0,Yes,Shankill,Dublin 18,q3,60%
+01/09/2012,"23 Crobawn Drive, Shankill",Dublin,286000.0,No,Shankill,Dublin 18,q2,30%
+05/09/2012,"Little Orchard And The Starlings, Shanganagh Road, Shankill",Dublin,600000.0,No,Shankill,Dublin 18,q4,100%
+10/09/2012,"Ranville Lodge, Shanganagh Road, Shankill",Dublin,278500.0,No,Shankill,Dublin 18,q1,30%
+12/09/2012,"1A The Avenue, Eaton Wood, Shankill",Dublin,350000.0,No,Shankill,Dublin 18,q2,50%
+17/09/2012,"155 Corbawn Wood, Shankill",Dublin,255000.0,No,Shankill,Dublin 18,q1,20%
+21/09/2012,"62 Olcovar, Shankill",Dublin,255506.6,Yes,Shankill,Dublin 18,q1,30%
+27/09/2012,"17 Athgoe Drive, Shankill",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+01/10/2012,"47  Rathsallagh Drive, Shankill",Dublin,160000.0,No,Shankill,Dublin 18,q1,10%
+01/10/2012,"8 Athgoe Road, Shankill",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+08/10/2012,"8  Aubrey, Shankill, Dublin 18",Dublin,230000.0,No,Shankill,Dublin 18,q1,20%
+16/10/2012,"47  Foxes Grove, Quinns Road, Shankill",Dublin,385000.0,No,Shankill,Dublin 18,q3,60%
+16/10/2012,"65 Olcovar, Shankill",Dublin,252634.36,Yes,Shankill,Dublin 18,q1,20%
+25/10/2012,"9 Aubrey, Shankill",Dublin,220000.0,No,Shankill,Dublin 18,q1,20%
+25/10/2012,"9 Corbawn Drive, Shankill",Dublin,435000.0,No,Shankill,Dublin 18,q3,70%
+26/10/2012,"45 St Anne'S Park, Shankill",Dublin,218000.0,No,Shankill,Dublin 18,q1,20%
+26/10/2012,"66 Hazelwood, Shankill",Dublin,340000.0,No,Shankill,Dublin 18,q2,50%
+26/10/2012,"Apartment 4, Marylands, Shankill",Dublin,165000.0,No,Shankill,Dublin 18,q1,10%
+31/10/2012,"Crinken Lodge, Crinken Lane, Shankill",Dublin,140000.0,No,Shankill,Dublin 18,q1,10%
+06/11/2012,"97 Dorney Court, Shankill, Dublin 18",Dublin,254000.0,No,Shankill,Dublin 18,q1,20%
+15/11/2012,"79 St Annes Park, Shankill",Dublin,220000.0,No,Shankill,Dublin 18,q1,20%
+21/11/2012,"55 Castle Farm, Shankill",Dublin,315000.0,No,Shankill,Dublin 18,q2,40%
+22/11/2012,"21 Maryland House, Shankill",Dublin,150000.0,No,Shankill,Dublin 18,q1,10%
+29/11/2012,"61 Crinken Glen, Shankill, Co. Dublin",Dublin,146320.0,No,Shankill,Dublin 18,q1,10%
+03/12/2012,"28 Corbawn Drive, Shankill",Dublin,280000.0,No,Shankill,Dublin 18,q1,30%
+06/12/2012,"61 Olcovar, Shankill, Co. Dublin",Dublin,290000.0,Yes,Shankill,Dublin 18,q2,30%
+07/12/2012,"4 Aubrey, Shankill",Dublin,225000.0,Yes,Shankill,Dublin 18,q1,20%
+12/12/2012,"93 Castlefarm, Shankill, County Dublin",Dublin,325000.0,No,Shankill,Dublin 18,q2,50%
+13/12/2012,"9 Shrewsbury Hall, Shrewsbury Road, Shankill",Dublin,437000.0,No,Shankill,Dublin 18,q3,70%
+19/12/2012,"64 Olcovar, Shankill",Dublin,295000.0,No,Shankill,Dublin 18,q2,30%
+19/12/2012,"8 Beechfield Haven, Beechfield Manor, Shankill",Dublin,148000.0,No,Shankill,Dublin 18,q1,10%
+19/12/2012,"85 Olcovar, Shankill",Dublin,198950.0,Yes,Shankill,Dublin 18,q1,10%
+20/12/2012,"Mill Lodge, Mill Lane, Shankill",Dublin,364000.0,No,Shankill,Dublin 18,q3,60%
+21/12/2012,"6 Beechfield Haven, Shankill",Dublin,175000.0,No,Shankill,Dublin 18,q1,10%
+08/01/2013,"11 Aubrey, Shankill",Dublin,198238.0,Yes,Shankill,Dublin 18,q1,10%
+16/01/2013,"22 Beechfield Haven, Shankill",Dublin,130000.0,No,Shankill,Dublin 18,q1,10%
+21/01/2013,"9 Crinken Glen, Shankill, Co Dublin",Dublin,360000.0,No,Shankill,Dublin 18,q3,60%
+23/01/2013,"35 Rathmichael Park, Shankill",Dublin,294000.0,No,Shankill,Dublin 18,q2,30%
+23/01/2013,"81  Olcavar, Shankill",Dublin,198950.0,Yes,Shankill,Dublin 18,q1,10%
+08/02/2013,"150, Shanganagh Cliffs, Shankill",Dublin,150000.0,No,Shankill,Dublin 18,q1,10%
+08/03/2013,"6 Aubrey, Shankill, County Dublin",Dublin,225000.0,Yes,Shankill,Dublin 18,q1,20%
+19/03/2013,"3 Olcovar, Shankill",Dublin,207048.0,Yes,Shankill,Dublin 18,q1,10%
+21/03/2013,"18 Shrewsbury Road, Shankill, Co Dublin",Dublin,432000.0,No,Shankill,Dublin 18,q3,70%
+22/03/2013,"80 Olcovar, Shankill",Dublin,213348.0,Yes,Shankill,Dublin 18,q1,20%
+26/03/2013,"60 Olcovar, Shankill, Dublin 18",Dublin,295000.0,Yes,Shankill,Dublin 18,q2,30%
+28/03/2013,"3 Aubrey, Shankill",Dublin,230000.0,Yes,Shankill,Dublin 18,q1,20%
+19/04/2013,"Sherington Lodge, Old Dublin Road, Shankill",Dublin,150000.0,No,Shankill,Dublin 18,q1,10%
+23/04/2013,"35 Seaview Wood, Shankill",Dublin,390000.0,No,Shankill,Dublin 18,q3,60%
+23/04/2013,"Ellerslie Lodge, Crinken Lane, Shankill",Dublin,118000.0,No,Shankill,Dublin 18,q1,10%
+26/04/2013,"Cloghaneely, 1 Rathmichael Lawns, Shankill",Dublin,560000.0,No,Shankill,Dublin 18,q4,90%
+29/04/2013,"21  Holly Park, Corbawn Lane, Shankill",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+03/05/2013,"Apartment 1, Aubrey, Shankill",Dublin,192202.64,Yes,Shankill,Dublin 18,q1,10%
+21/05/2013,"Mill Lodge, Mill Lane  Shanganagh Road, Shankill",Dublin,375000.0,No,Shankill,Dublin 18,q3,60%
+27/05/2013,"Garryhill, Abingdon Park, Shankill",Dublin,410000.0,No,Shankill,Dublin 18,q3,70%
+29/05/2013,"17 Seaview Park, Shankill",Dublin,395000.0,No,Shankill,Dublin 18,q3,70%
+30/05/2013,"Apartment 19 Marylands House, Beechfield, Shankill",Dublin,99000.0,No,Shankill,Dublin 18,q1,10%
+25/06/2013,"17 Beechfield Haven, Shankill",Dublin,145000.0,No,Shankill,Dublin 18,q1,10%
+02/07/2013,"58 Castlefarm, Shankill",Dublin,368000.0,No,Shankill,Dublin 18,q3,60%
+09/07/2013,"128 Dorney Court, Shankill, Co Dublin",Dublin,235000.0,No,Shankill,Dublin 18,q1,20%
+19/07/2013,"15 Stonebridge Close, Shankill",Dublin,227000.0,No,Shankill,Dublin 18,q1,20%
+24/07/2013,"81 Corbawn Drive, Shankill",Dublin,323000.0,No,Shankill,Dublin 18,q2,50%
+25/07/2013,"148 Corbawn Wood, Shankill",Dublin,400000.0,No,Shankill,Dublin 18,q3,70%
+31/07/2013,"15 Library Road, Shankill",Dublin,240000.0,No,Shankill,Dublin 18,q1,20%
+01/08/2013,"64 Hazelwood, Shankill",Dublin,360000.0,No,Shankill,Dublin 18,q3,60%
+07/08/2013,"6 Corbawn Lawn, Shankill",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+09/08/2013,"44 Shanganagh Grove, Shankill",Dublin,290000.0,No,Shankill,Dublin 18,q2,30%
+12/08/2013,"34 Castlefarm, Shankill",Dublin,335000.0,No,Shankill,Dublin 18,q2,50%
+14/08/2013,"No.5, Aubrey, Shankill",Dublin,198950.0,No,Shankill,Dublin 18,q1,10%
+22/08/2013,"2 Aubrey, Shankill",Dublin,190300.0,Yes,Shankill,Dublin 18,q1,10%
+22/08/2013,"20 Castle Farm, Shankill, Co. Dublin",Dublin,460000.0,No,Shankill,Dublin 18,q3,80%
+03/09/2013,"88 Castle Farm, Shankill, Co. Dublin",Dublin,372500.0,No,Shankill,Dublin 18,q3,60%
+03/09/2013,"Four Winds, Ballycorus Road, Shankill",Dublin,740000.0,No,Shankill,Dublin 18,q4,100%
+06/09/2013,"55 Dorney Court, Shankill",Dublin,290000.0,No,Shankill,Dublin 18,q2,30%
+06/09/2013,"St Judes, Station Road, Shankill",Dublin,445000.0,No,Shankill,Dublin 18,q3,70%
+12/09/2013,"Apartment 10, Broomfield Hall, Shankill",Dublin,208000.0,No,Shankill,Dublin 18,q1,10%
+19/09/2013,"102  Castle Farm, Shankill",Dublin,318500.0,No,Shankill,Dublin 18,q2,40%
+19/09/2013,"47 The Elms, Crinken Glen, Shankill",Dublin,391034.82,No,Shankill,Dublin 18,q3,60%
+20/09/2013,"2 Olcovar, Shankill",Dublin,228000.0,No,Shankill,Dublin 18,q1,20%
+20/09/2013,"Apartment 29, Maryland House, Shankill",Dublin,138000.0,No,Shankill,Dublin 18,q1,10%
+26/09/2013,"20 Beech Road, Crinken Glen, Shankill",Dublin,310000.0,No,Shankill,Dublin 18,q2,40%
+27/09/2013,"58 Shrewsbury Road, Shankill",Dublin,400000.0,No,Shankill,Dublin 18,q3,70%
+03/10/2013,"46 Mountain View, Crinken Glen, Shankill",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+15/10/2013,"Coolvally, Abingdon Park, Shankill",Dublin,748000.0,No,Shankill,Dublin 18,q4,100%
+17/10/2013,"32 Eaton Wood Avenue, Shankill, Dublin",Dublin,370000.0,No,Shankill,Dublin 18,q3,60%
+18/10/2013,"Crinken Lodge, Crinken Lane, Shankill",Dublin,200000.0,No,Shankill,Dublin 18,q1,10%
+22/10/2013,"71 Cherryington Road, Shankill, Dublin",Dublin,345000.0,No,Shankill,Dublin 18,q2,50%
+29/10/2013,"198 Library Road, Shankill, County Dublin",Dublin,655000.0,No,Shankill,Dublin 18,q4,100%
+31/10/2013,"Apartment 217, Olcovar, Shankill",Dublin,244000.0,No,Shankill,Dublin 18,q1,20%
+13/11/2013,"2 The Starlings, Shanganagh Road, Shankill",Dublin,339000.0,Yes,Shankill,Dublin 18,q2,50%
+15/11/2013,"215 New Vale, Shankill, Co. Dublin",Dublin,378000.0,No,Shankill,Dublin 18,q3,60%
+26/11/2013,"11 Seafield, Shankill",Dublin,538500.0,No,Shankill,Dublin 18,q4,90%
+26/11/2013,"32 Rathmichael Park, Shankill",Dublin,293000.0,No,Shankill,Dublin 18,q2,30%
+04/12/2013,"Eaton Brae Lodge, Corbawn Lane, Shankill",Dublin,365000.0,No,Shankill,Dublin 18,q3,60%
+06/12/2013,"Rathcrogue, Station Road, Shankill",Dublin,335000.0,No,Shankill,Dublin 18,q2,50%
+10/12/2013,"Apt 22, Mayfield House, Shankill",Dublin,145000.0,No,Shankill,Dublin 18,q1,10%
+10/12/2013,"No 19 The Starlings, Shanganagh Road, Shankill",Dublin,298552.0,Yes,Shankill,Dublin 18,q2,40%
+12/12/2013,"220 New Vale, Shankill, Dublin 18",Dublin,242500.0,No,Shankill,Dublin 18,q1,20%
+17/12/2013,"No 1 The Starlings, Shanganagh Road, Shankill",Dublin,389000.0,Yes,Shankill,Dublin 18,q3,60%
+18/12/2013,"26 Eaton Wood Green, Shankill",Dublin,318000.0,No,Shankill,Dublin 18,q2,40%
+20/12/2013,"3 The Starlings, Shanganagh Road, Shankill",Dublin,339000.0,Yes,Shankill,Dublin 18,q2,50%
+20/12/2013,"9 Rathmichael Park, Shankill, Dublin",Dublin,285000.0,No,Shankill,Dublin 18,q2,30%
+10/01/2014,"No. 18 The Starlings, Shanaganagh Road, Shankill",Dublin,343613.0,Yes,Shankill,Dublin 18,q2,50%
+11/02/2014,"21 Corbawn Lawn, Shankill, Dublin 18",Dublin,314000.0,No,Shankill,Dublin 18,q2,40%
+11/02/2014,"4 Dorney Court, Shankill, Dublin",Dublin,273000.0,No,Shankill,Dublin 18,q1,30%
+18/02/2014,"96 Mountain View, Crinken Glen, Shankill",Dublin,310000.0,No,Shankill,Dublin 18,q2,40%
+26/02/2014,"Cluain Na Greine, Shankill, Co Dublin",Dublin,256000.0,No,Shankill,Dublin 18,q1,30%
+28/02/2014,"40 Mountain View, Crinken Glen, Shankill",Dublin,310000.0,No,Shankill,Dublin 18,q2,40%
+03/03/2014,"7 The Starlings, Shanganagh Road, Shankill",Dublin,312775.33,Yes,Shankill,Dublin 18,q2,40%
+07/03/2014,"46A, Quinns Road, Shankill",Dublin,372500.0,Yes,Shankill,Dublin 18,q3,60%
+12/03/2014,"Lissadell, Shanganagh Road, Shankill",Dublin,540000.0,No,Shankill,Dublin 18,q4,90%
+14/03/2014,"45 Corbawn Dr, Shankill, Dublin 18",Dublin,440000.0,No,Shankill,Dublin 18,q3,70%
+14/03/2014,"8 The Starlings, Shanganagh Road, Shankill",Dublin,312776.0,Yes,Shankill,Dublin 18,q2,40%
+19/03/2014,"52 Eaton Wood Court, Shankill, Dublin 18",Dublin,409500.0,No,Shankill,Dublin 18,q3,70%
+26/03/2014,"6 The Starlings, Shanganagh Road, Shankill",Dublin,339206.0,Yes,Shankill,Dublin 18,q2,50%
+04/04/2014,"9 The Starlings, Shanganagh Road, Shankill",Dublin,355000.0,Yes,Shankill,Dublin 18,q2,50%
+08/04/2014,"10 The Starlings, Shanaganagh Road, Shankill Co. Dublin",Dublin,312775.33,Yes,Shankill,Dublin 18,q2,40%
+09/04/2014,"11 The Starlings, Shanganagh Road, Shankill",Dublin,395000.0,Yes,Shankill,Dublin 18,q3,70%
+10/04/2014,"14 The Starlings, Shanganagh Road, Shankill",Dublin,330397.0,Yes,Shankill,Dublin 18,q2,50%
+11/04/2014,"Wyndhurst, Falls Rd, Shankill",Dublin,600000.0,No,Shankill,Dublin 18,q4,100%
+16/04/2014,"21 The Starlings, Shanganagh Road, Shankill",Dublin,356828.19,Yes,Shankill,Dublin 18,q2,50%
+16/04/2014,"93 Dorney Court, Shankill",Dublin,340000.0,No,Shankill,Dublin 18,q2,50%
+17/04/2014,"67 Corbawn Drive, Shankill",Dublin,403500.0,No,Shankill,Dublin 18,q3,70%
+17/04/2014,"No. 13 The Starlings, Shanganagh Road, Shankill",Dublin,324984.33,Yes,Shankill,Dublin 18,q2,50%
+23/04/2014,"205 Olcovar Apt, Shankill, Dublin 18",Dublin,212000.0,No,Shankill,Dublin 18,q1,20%
+25/04/2014,"11 Clonasleigh, Athgoe, Shankill",Dublin,417000.0,No,Shankill,Dublin 18,q3,70%
+29/04/2014,"15 The Starlings, Shankill",Dublin,356828.19,Yes,Shankill,Dublin 18,q2,50%
+05/05/2014,"12  The Starlings, Shanganagh Road, Shankill",Dublin,300380.0,Yes,Shankill,Dublin 18,q2,40%
+06/05/2014,"6 Norwood, Shanganagh Rd, Shankill",Dublin,322000.0,No,Shankill,Dublin 18,q2,50%
+12/05/2014,"29 Cherrington Rd, Shankill, Dublin",Dublin,550000.0,No,Shankill,Dublin 18,q4,90%
+29/05/2014,"10 Rathsallagh Grove, Shankill, Dublin",Dublin,248000.0,No,Shankill,Dublin 18,q1,20%
+09/06/2014,"7  Cluain Na Greine Court, Shankill",Dublin,362000.0,No,Shankill,Dublin 18,q3,60%
+10/06/2014,"Bognor, Shanganagh Rd, Shankill",Dublin,535000.0,No,Shankill,Dublin 18,q4,90%
+16/06/2014,"112 Dorney Court, Shankill",Dublin,420000.0,No,Shankill,Dublin 18,q3,70%
+19/06/2014,"43 St Annes Park, Shankill, Dublin",Dublin,275000.0,No,Shankill,Dublin 18,q1,30%
+19/06/2014,"72 Olcovar, Shankill",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+20/06/2014,"34 Seaview Wood, Shankill, Dublin 18",Dublin,480000.0,No,Shankill,Dublin 18,q4,80%
+02/07/2014,"186 Corbawn Wood, Shankill, Dublin",Dublin,460000.0,No,Shankill,Dublin 18,q3,80%
+02/07/2014,"227 Olcovar, Shankill",Dublin,216000.0,No,Shankill,Dublin 18,q1,20%
+10/07/2014,"Apt 28, The Bridge, Shankill Village",Dublin,195000.0,No,Shankill,Dublin 18,q1,10%
+11/07/2014,"Florenceville, Shanganagh Road, Shankill",Dublin,1300000.0,No,Shankill,Dublin 18,q4,100%
+18/07/2014,"24 Castle Farm, Shankill, Dublin",Dublin,423000.0,No,Shankill,Dublin 18,q3,70%
+22/07/2014,"Clontra, Quinns Rd, Shankill",Dublin,2500000.0,No,Shankill,Dublin 18,q4,100%
+31/07/2014,"13 Seaview Wood, Shankill, Dublin 18",Dublin,475000.0,No,Shankill,Dublin 18,q3,80%
+07/08/2014,"82 Crinken Glen, Shankill Dublin, Dublin",Dublin,327500.0,No,Shankill,Dublin 18,q2,50%
+19/08/2014,"6 Hilltop Lawn, Shankill, Dublin",Dublin,375000.0,No,Shankill,Dublin 18,q3,60%
+04/09/2014,"2 Lower Rd, Shankill, Dublin 18",Dublin,343000.0,No,Shankill,Dublin 18,q2,50%
+05/09/2014,"2 Myrtle Cottage, Lower Rd, Shankill",Dublin,250000.0,No,Shankill,Dublin 18,q1,20%
+05/09/2014,"26 Dorney Court, Shankill, Dublin",Dublin,260000.0,No,Shankill,Dublin 18,q1,30%
+10/09/2014,"61 Corbawn Drive, Shankill",Dublin,405000.0,No,Shankill,Dublin 18,q3,70%
+11/09/2014,"9 Olcovar Shankill Village, Dublin 18, Dublin",Dublin,267500.0,No,Shankill,Dublin 18,q1,30%
+16/09/2014,"Apartment 49, The Bridge, Shankill",Dublin,265000.0,No,Shankill,Dublin 18,q1,30%
+17/09/2014,"110 Eaton Wood, Quinns Rd, Shankill",Dublin,362000.0,No,Shankill,Dublin 18,q3,60%
+17/09/2014,"Ashley Cottage, Quinns Rd, Shankill Dublin 18",Dublin,738000.0,No,Shankill,Dublin 18,q4,100%
+18/09/2014,"3 Clanmawr Corbawn Lane, Shankill, Dublin",Dublin,468500.0,No,Shankill,Dublin 18,q3,80%
+18/09/2014,"87 Quinns Rd., Shankill, Co Dublin",Dublin,399950.0,No,Shankill,Dublin 18,q3,70%
+19/09/2014,"123 Dorney Court, Shankill, Dublin",Dublin,305000.0,No,Shankill,Dublin 18,q2,40%
+19/09/2014,"2 Stonebridge Close, Shankill, Dublin",Dublin,262345.0,No,Shankill,Dublin 18,q1,30%
+22/09/2014,"128 Olcovar, Dublin Rd, Shankill Dublin 18",Dublin,265000.0,No,Shankill,Dublin 18,q1,30%
+30/09/2014,"4 Shrewsbury Hall, Shankill, Dublin 18",Dublin,580000.0,No,Shankill,Dublin 18,q4,90%
+30/09/2014,"426 Olcovar, Shankill, Dublin 18",Dublin,280000.0,No,Shankill,Dublin 18,q2,30%
+07/10/2014,"61 St Annes Park, Shankill, Dublin 18",Dublin,320000.0,No,Shankill,Dublin 18,q2,40%
+10/10/2014,"Hillview, Lower Rd, Shankill Dublin 18",Dublin,365000.0,No,Shankill,Dublin 18,q3,60%
+16/10/2014,"78 Crinken Glen, Shankill, Dublin",Dublin,349100.0,No,Shankill,Dublin 18,q2,50%
+17/10/2014,"31 Cherrington Rd, Shankill, Dublin 18",Dublin,575000.0,No,Shankill,Dublin 18,q4,90%
+17/10/2014,"Kilderry, Dublin Rd, Shankill Dublin 18",Dublin,580000.0,No,Shankill,Dublin 18,q4,90%
+20/10/2014,"45 Castle Farm, Shankill, Dublin",Dublin,400000.0,No,Shankill,Dublin 18,q3,70%
+22/10/2014,"404 Olcovar, Shankill",Dublin,230000.0,No,Shankill,Dublin 18,q1,20%
+13/11/2014,"Apartment 6, The Bridge, Shankill",Dublin,235000.0,No,Shankill,Dublin 18,q1,20%
+19/11/2014,"126 Olcovar, Shankill, Dublin",Dublin,295000.0,No,Shankill,Dublin 18,q2,30%
+12/12/2014,"20 The Starlings, Shanganagh Rd, Shankill",Dublin,381184.0,Yes,Shankill,Dublin 18,q3,60%
+12/12/2014,"47 Cherrington Rd, Shankill, Dublin",Dublin,465000.0,No,Shankill,Dublin 18,q3,80%
+18/12/2014,"76 Olcovar, Dublin Rd, Shankill",Dublin,355000.0,No,Shankill,Dublin 18,q2,50%
+19/12/2014,"103 Dorney Court, Shankill, Dublin",Dublin,325000.0,No,Shankill,Dublin 18,q2,50%
+19/12/2014,"20 Beechfield Haven, Shankill",Dublin,195000.0,No,Shankill,Dublin 18,q1,10%
+23/12/2014,"77B Foxes Grove, Shankill, Dublin",Dublin,380000.0,No,Shankill,Dublin 18,q3,60%
+15/01/2015,"45 Rathsallagh Grove, Shankill, Dublin",Dublin,275000.0,No,Shankill,Dublin 18,q1,30%
+16/01/2015,"Rivendell, Dublin Rd, Shankill",Dublin,750000.0,No,Shankill,Dublin 18,q4,100%
+21/01/2015,"Jasmin Cottage, 199 Newvale Library Rd, Shankill Dublin 18",Dublin,555000.0,No,Shankill,Dublin 18,q4,90%
+23/01/2015,"4 Hazelwood, Shankill, Dublin",Dublin,470000.0,No,Shankill,Dublin 18,q3,80%
+23/01/2015,"Ballybride House, Ballybride Rd, Shankill",Dublin,1175000.0,No,Shankill,Dublin 18,q4,100%
+03/02/2015,"Gort Na Nean, Dublin Rd, Shankill",Dublin,670000.0,No,Shankill,Dublin 18,q4,100%
+04/02/2015,"Apartment 50, The Bridge, Shankill",Dublin,195000.0,No,Shankill,Dublin 18,q1,10%
+13/02/2015,"38 Dorney Court, Shankill, Dublin",Dublin,355000.0,No,Shankill,Dublin 18,q2,50%
+19/02/2015,"415 Olcovar, Shankill Village, Dubiln",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+23/02/2015,"21 Maryland House, Shankill, Co Dublin",Dublin,220000.0,No,Shankill,Dublin 18,q1,20%
+13/03/2015,"Legende, Falls Rd, Shankill",Dublin,2100000.0,No,Shankill,Dublin 18,q4,100%
+16/03/2015,"11 Clanmawr, Corbawn Lane, Shankill",Dublin,485000.0,No,Shankill,Dublin 18,q4,80%
+20/03/2015,"11 Shsnganagh Cliffs, Shankill, Dublin",Dublin,140000.0,No,Shankill,Dublin 18,q1,10%
+26/03/2015,"57 St Annes Park, Shankill, Dublin",Dublin,20512.76,No,Shankill,Dublin 18,q1,10%
+27/03/2015,"108 Eatonwood, Quins Rd, Shankill",Dublin,345000.0,No,Shankill,Dublin 18,q2,50%
+28/03/2015,"Apt 21, Beechfield Haven, Shankill",Dublin,205000.0,No,Shankill,Dublin 18,q1,10%
+31/03/2015,"7 Rathsallagh Ave, Shankill, Dublin",Dublin,243000.0,No,Shankill,Dublin 18,q1,20%
+01/04/2015,"30 Aubrey House Apts, Quinns Rd, Shankill",Dublin,425000.0,No,Shankill,Dublin 18,q3,70%
+02/04/2015,"31 Aubrey, Shankill Village, Dublin 18",Dublin,435000.0,No,Shankill,Dublin 18,q3,70%
+09/04/2015,"58 Castlefarm, Shankill, Dublin",Dublin,480000.0,No,Shankill,Dublin 18,q4,80%
+10/04/2015,"43 Castle Farm, Shankill, Dublin",Dublin,491600.0,No,Shankill,Dublin 18,q4,80%
+01/05/2015,"2 Seaview Gate, Seaview Park, Dublin Road  Shankill",Dublin,436825.0,Yes,Shankill,Dublin 18,q3,70%
+07/05/2015,"402 Olcovar, Shankill",Dublin,185100.0,No,Shankill,Dublin 18,q1,10%
+08/05/2015,"8 Glenbrae Court, Shankill, Dublin",Dublin,296000.0,No,Shankill,Dublin 18,q2,40%
+19/05/2015,"5 Beechfield Haven, Shankill, Co  Dublin",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+20/05/2015,"Apt 124, Olcovar, Shankill",Dublin,181000.0,No,Shankill,Dublin 18,q1,10%
+28/05/2015,"27 Brookdene, Shanganagh Rd, Shankill Dublin 18",Dublin,383000.0,No,Shankill,Dublin 18,q3,60%
+03/06/2015,"24 The Bridge, Shankill, Dublin",Dublin,215000.0,No,Shankill,Dublin 18,q1,20%
+09/06/2015,"The Nook, Lower Rd, Shankill",Dublin,280000.0,No,Shankill,Dublin 18,q2,30%
+18/06/2015,"32 Shanganagh Vale, Shankill, Dublin",Dublin,530000.0,No,Shankill,Dublin 18,q4,90%
+18/06/2015,"410 Olcover, Shankill, Dublin 18",Dublin,192000.0,No,Shankill,Dublin 18,q1,10%
+19/06/2015,"35 Seaview Wood, Shankill, Dublin",Dublin,480000.0,No,Shankill,Dublin 18,q4,80%
+03/07/2015,"20 Shanganagh Grove, Shankill, Dublin",Dublin,442500.0,No,Shankill,Dublin 18,q3,70%
+10/07/2015,"18 Glenbrae House, Glenbrae Court, Shankill",Dublin,243000.0,No,Shankill,Dublin 18,q1,20%
+23/07/2015,"23 Clanmawr Corbawn Lane, Shankill, Dublin",Dublin,451500.0,No,Shankill,Dublin 18,q3,80%
+30/07/2015,"22 Library Rd, Shankill, Dublin 18",Dublin,340000.0,No,Shankill,Dublin 18,q2,50%
+07/08/2015,"37 Dorney Court, Shankill, Dublin",Dublin,332000.0,No,Shankill,Dublin 18,q2,50%
+11/08/2015,"Padua, Lower Road, Shankill",Dublin,306689.0,No,Shankill,Dublin 18,q2,40%
+13/08/2015,"7 Glenbrae Court, Shankill, Dublin",Dublin,305000.0,No,Shankill,Dublin 18,q2,40%
+17/08/2015,"Glenarm  Eaton Brae, Shankill",Dublin,960000.0,No,Shankill,Dublin 18,q4,100%
+18/08/2015,"113 Eaton Wood, Quinns Rd, Shankill",Dublin,330000.0,No,Shankill,Dublin 18,q2,50%
+24/08/2015,"10 New Vale, Crescent Shankill, Dublin",Dublin,180000.0,No,Shankill,Dublin 18,q1,10%
+25/08/2015,"23 Rathmichael Woods, Shankill, County Dublibn",Dublin,259000.0,No,Shankill,Dublin 18,q1,30%
+16/09/2015,"314 Olcovar, Shankill, Dublin",Dublin,251000.0,No,Shankill,Dublin 18,q1,20%
+18/09/2015,"6 Corbawn Lawn, Shankill",Dublin,376000.0,No,Shankill,Dublin 18,q3,60%
+21/09/2015,"Brookville, Commons Rd, Shankill",Dublin,515000.0,No,Shankill,Dublin 18,q4,90%
+23/09/2015,"24 Library Rd, Shankill, Dublin",Dublin,360000.0,No,Shankill,Dublin 18,q3,60%
+25/09/2015,"32 Corbawn Close, Shankill, Co Dublin",Dublin,440000.0,No,Shankill,Dublin 18,q3,70%
+02/10/2015,"221 Olcovar, Dublin Rd, Shankill",Dublin,299000.0,No,Shankill,Dublin 18,q2,40%
+13/10/2015,"107 Eaton Wood Grove, Shankill, Dublin",Dublin,485000.0,No,Shankill,Dublin 18,q4,80%
+14/10/2015,"22 Clifton Park, Shanganagh, Shankill",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+16/10/2015,"322 Olcovar, Shankill, Dublin",Dublin,240000.0,No,Shankill,Dublin 18,q1,20%
+02/12/2015,"1 Seaview Gate, Seaview Park, Shankill",Dublin,418502.2,Yes,Shankill,Dublin 18,q3,70%
+03/12/2015,"Bognor, Shanganagh Rd, Shankill",Dublin,782500.0,No,Shankill,Dublin 18,q4,100%
+07/12/2015,"6 Clonasleigh, Corbawn Lane, Shankill",Dublin,480000.0,No,Shankill,Dublin 18,q4,80%
+11/12/2015,"19 Stonebridge Close, Shankill",Dublin,295000.0,No,Shankill,Dublin 18,q2,30%
+14/12/2015,"82 Eaton Wood Grove, Shankill, Dublin",Dublin,485000.0,No,Shankill,Dublin 18,q4,80%
+15/12/2015,"7 Holly Park, Shankill, Dublin",Dublin,422000.0,No,Shankill,Dublin 18,q3,70%
+15/12/2015,"83 Dorney Court, Shankill, Dublin",Dublin,370000.0,No,Shankill,Dublin 18,q3,60%
+17/12/2015,"108A Quinns Rd, Shankill, Dublin",Dublin,267500.0,No,Shankill,Dublin 18,q1,30%
+17/12/2015,"54 Newvale, Shankill, Dublin 18",Dublin,290000.0,No,Shankill,Dublin 18,q2,30%
+18/12/2015,"39 Ferndale Court, Allies River Rd, Shankill",Dublin,245000.0,No,Shankill,Dublin 18,q1,20%
+21/12/2015,"59 Dorney Court, Shankill, Dublin",Dublin,346000.0,No,Shankill,Dublin 18,q2,50%
+08/01/2016,"6 Beechfield Haven, Shankill, Dublin",Dublin,250000.0,No,Shankill,Dublin 18,q1,20%
+15/01/2016,"129 Castlefarm, Shankill",Dublin,307500.0,No,Shankill,Dublin 18,q2,40%
+15/01/2016,"16 Southlands, Rathmichael Park, Shankill",Dublin,238000.0,No,Shankill,Dublin 18,q1,20%
+22/01/2016,"24 Cherrington Rd, Shankill, Dublin",Dublin,615000.0,No,Shankill,Dublin 18,q4,100%
+04/02/2016,"160 Corbawn Wood, Shankill, Dublin",Dublin,475000.0,No,Shankill,Dublin 18,q3,80%
+09/02/2016,"111 Olcovar, Shankill, Co Dublin",Dublin,240000.0,No,Shankill,Dublin 18,q1,20%
+11/02/2016,"77 Foxes Grove, Shankill, Co. Dublin",Dublin,365000.0,No,Shankill,Dublin 18,q3,60%
+16/02/2016,"28 Assumpta Pk, Shankill, Dublin",Dublin,350000.0,No,Shankill,Dublin 18,q2,50%
+26/02/2016,"9 Assumpta Park, Shankill, Dublin",Dublin,294300.0,No,Shankill,Dublin 18,q2,30%
+01/03/2016,"77A Foxes Grove, Shankill, County Dublin",Dublin,310000.0,No,Shankill,Dublin 18,q2,40%
+11/04/2016,"3 Holly Park, Shankill, Dublin 18",Dublin,437500.0,No,Shankill,Dublin 18,q3,70%
+15/04/2016,"116 Olcovar, Shankill, Dublin 18",Dublin,240000.0,No,Shankill,Dublin 18,q1,20%
+21/04/2016,"3 Castlefarm Wood, Shankill, Dublin 18",Dublin,442000.0,No,Shankill,Dublin 18,q3,70%
+22/04/2016,"26 The Bridge, Shankill, Dublin",Dublin,280000.0,No,Shankill,Dublin 18,q2,30%
+03/05/2016,"42 Olcovar, Dublin Rd, Shankill",Dublin,316000.0,No,Shankill,Dublin 18,q2,40%
+06/05/2016,"155 Castlefarm, Shankill, Dublin",Dublin,315000.0,No,Shankill,Dublin 18,q2,40%
+09/05/2016,"4 Corbawn Lawn, Shankill, Co Dublin",Dublin,382000.0,No,Shankill,Dublin 18,q3,60%
+18/05/2016,"18 Beechfield Haven, Corbawn Lane, Shankill",Dublin,225000.0,No,Shankill,Dublin 18,q1,20%
+27/05/2016,"18 The Bridge, Shankill, Co Dublin",Dublin,210000.0,No,Shankill,Dublin 18,q1,10%
+27/05/2016,"6 Athgoe Dr, Shankill, Dublin 18",Dublin,362500.0,No,Shankill,Dublin 18,q3,60%
+09/06/2016,"13 Beechfield Haven, Shankill, Dublin 18",Dublin,250000.0,No,Shankill,Dublin 18,q1,20%
+09/06/2016,"4 Claremount Apts, Old Dublin Rd, Shankill",Dublin,249000.0,No,Shankill,Dublin 18,q1,20%
+09/06/2016,"40 The Bridge, Dublin Rd, Shankill",Dublin,235000.0,No,Shankill,Dublin 18,q1,20%
+13/06/2016,"Cluain Na Greine House, Shankill, Dublin 18",Dublin,1150000.0,No,Shankill,Dublin 18,q4,100%
+17/06/2016,"46 Olcovar, Dublin Rd, Shankill Dublin 18",Dublin,325000.0,No,Shankill,Dublin 18,q2,50%
+20/06/2016,"109 Ballycorus Road, Shankill, Co Dublin",Dublin,360000.0,No,Shankill,Dublin 18,q3,60%
+24/06/2016,"4 Seaview Gate, Dublin Road, Shankill",Dublin,515418.0,Yes,Shankill,Dublin 18,q4,90%
+27/06/2016,"11 The Starlings, Shanganagh Road, Shankill",Dublin,425000.0,No,Shankill,Dublin 18,q3,70%
+28/06/2016,"24 Maryland House, Shanganag Rd, Shankill",Dublin,178000.0,No,Shankill,Dublin 18,q1,10%
+01/07/2016,"158 Castlefarm, Shankill, Dublin",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+01/07/2016,"37 Mountain View, Crinken Glen, Shankill",Dublin,390000.0,No,Shankill,Dublin 18,q3,60%
+05/07/2016,"No 2 Aubrey, Quins Road, Shankill",Dublin,123250.0,No,Shankill,Dublin 18,q1,10%
+15/07/2016,"Apt 115 Olcover, Shankill, County Dublin",Dublin,187500.0,No,Shankill,Dublin 18,q1,10%
+20/07/2016,"8 Rathmichael Wood, Old Dublin Rd, Shankill",Dublin,585000.0,No,Shankill,Dublin 18,q4,100%
+20/07/2016,"Vattnas, Corbawn Lane, Shankill Dublin 18",Dublin,580000.0,No,Shankill,Dublin 18,q4,90%
+21/07/2016,"Mill Cottage, Mill Lane, Shankill",Dublin,395000.0,No,Shankill,Dublin 18,q3,70%
+28/07/2016,"2 Windrush, Shankill, Dublin",Dublin,735000.0,No,Shankill,Dublin 18,q4,100%
+29/07/2016,"11 Corbawn Lawn, Shankill, Dublin",Dublin,355000.0,No,Shankill,Dublin 18,q2,50%
+09/08/2016,"11 Shrewsbury Rd, Shankill, Dublin 18",Dublin,502500.0,No,Shankill,Dublin 18,q4,90%
+15/08/2016,"34 Foxes Grove, Shankill, Dublin",Dublin,400000.0,No,Shankill,Dublin 18,q3,70%
+17/08/2016,"2 Seaview Lawn, Shankill Dublin 18, Dublin",Dublin,580000.0,No,Shankill,Dublin 18,q4,90%
+24/08/2016,"193 Library Road, New Vale, Shankill",Dublin,900000.0,No,Shankill,Dublin 18,q4,100%
+30/08/2016,"76 Shanganagh Grove, Shankill, Dublin",Dublin,503000.0,No,Shankill,Dublin 18,q4,90%
+05/09/2016,"2 Corbawn Court, Shankill, Dublin",Dublin,522000.0,No,Shankill,Dublin 18,q4,90%
+05/09/2016,"5 Glenbrae Court, Shankill, Dublin",Dublin,329650.0,No,Shankill,Dublin 18,q2,50%
+06/09/2016,"21 Aubrey Park, Shankill, Dublin",Dublin,545000.0,No,Shankill,Dublin 18,q4,90%
+09/09/2016,"1A Corbawn Dr, Shankill, Dublin",Dublin,601501.0,No,Shankill,Dublin 18,q4,100%
+09/09/2016,"The Quarries, Quarry Road, Shankill",Dublin,425000.0,No,Shankill,Dublin 18,q3,70%
+14/09/2016,"10 Woodbank, Dublin Road, Shankill",Dublin,484581.0,Yes,Shankill,Dublin 18,q4,80%
+14/09/2016,"11 Woodbank, Dublin Road, Shankill",Dublin,484581.0,Yes,Shankill,Dublin 18,q4,80%
+14/09/2016,"Eco House, Mill Lane, Shankill",Dublin,623500.0,No,Shankill,Dublin 18,q4,100%
+15/09/2016,"9 Wood Bank, Shankill",Dublin,489094.16,Yes,Shankill,Dublin 18,q4,80%
+21/09/2016,"3 Walsh'S Cottages, Lower Road, Shankill",Dublin,232000.0,No,Shankill,Dublin 18,q1,20%
+21/09/2016,"67 Foxes Grove, Shankill, Dublin",Dublin,504500.0,No,Shankill,Dublin 18,q4,90%
+29/09/2016,"12 Olcovar, Shankill, Dublin",Dublin,290000.0,No,Shankill,Dublin 18,q2,30%
+29/09/2016,"12 Woodbank, Dublin Road, Shankill",Dublin,499094.0,Yes,Shankill,Dublin 18,q4,80%
+29/09/2016,"61 Mountain View, Crinken Glen, Shankill Dublin 18",Dublin,385000.0,No,Shankill,Dublin 18,q3,60%
+30/09/2016,"12 Beechfield Haven, Shanganagh Rd, Shankill",Dublin,260000.0,No,Shankill,Dublin 18,q1,30%
+30/09/2016,"6 Olcovar, Dublin Rd, Shankill Dublin 18",Dublin,335000.0,No,Shankill,Dublin 18,q2,50%
+06/10/2016,"55 Castle Farm, Shankill, Dublin",Dublin,445000.0,No,Shankill,Dublin 18,q3,70%
+12/10/2016,"8 Clonasleigh, Corbawn Lane, Shankill Dublin 18",Dublin,420000.0,No,Shankill,Dublin 18,q3,70%
+26/10/2016,"29 Corbawn Dr, Shankill, Dublin 18",Dublin,524250.0,No,Shankill,Dublin 18,q4,90%
+26/10/2016,"3 Cluain Na Greine Court, Shankill, Dublin",Dublin,335000.0,No,Shankill,Dublin 18,q2,50%
+26/10/2016,"6 Castle Farm, Shankill, Dublin 18",Dublin,460000.0,No,Shankill,Dublin 18,q3,80%
+27/10/2016,"5 Hazelwood, Shankill, Dublin",Dublin,580000.0,No,Shankill,Dublin 18,q4,100%
+27/10/2016,"74 Castle Farm, Shankill, Dublin 18",Dublin,424000.0,No,Shankill,Dublin 18,q3,70%
+28/10/2016,"213 Olcovar, Shankill, Dublin",Dublin,276500.0,No,Shankill,Dublin 18,q1,30%
+01/11/2016,"14 Corbawn Court, Shankill, Dublin",Dublin,555000.0,No,Shankill,Dublin 18,q4,90%
+09/11/2016,"9 Corbawn Lawn, Shankill, Dublin",Dublin,383000.0,No,Shankill,Dublin 18,q3,60%
+11/11/2016,"9 Beechfield Haven, Shankill, Dublin 18",Dublin,250000.0,No,Shankill,Dublin 18,q1,20%
+14/11/2016,"8 Hillstop Lawn, Shankill, Dublin 18",Dublin,385000.0,No,Shankill,Dublin 18,q3,60%
+16/11/2016,"105 Olcovar, Shankill, Dublin 18",Dublin,205000.0,No,Shankill,Dublin 18,q1,10%
+18/11/2016,"42 Foxes Grove, Shankill, Dublin 18",Dublin,445000.0,No,Shankill,Dublin 18,q3,70%
+21/11/2016,"51 Cherrington Rd, Shankill, Dublin 18",Dublin,500000.0,No,Shankill,Dublin 18,q4,80%
+22/11/2016,"123 Castle Farm, Shankill, Dublin",Dublin,365000.0,No,Shankill,Dublin 18,q3,60%
+24/11/2016,"6 Seafield, Shankill, Dublin 18",Dublin,665000.0,No,Shankill,Dublin 18,q4,100%
+25/11/2016,"94 Rathsallagh Park, Shankill, Dublin 18",Dublin,285000.0,No,Shankill,Dublin 18,q2,30%
+13/12/2016,"20 Aubrey, Shankill, Dublin 18",Dublin,325000.0,No,Shankill,Dublin 18,q2,50%
+14/12/2016,"13 Woodbank, Shankill",Dublin,462555.06,Yes,Shankill,Dublin 18,q3,80%
+16/12/2016,"33 Olcovar, Dublin Road, Shankill",Dublin,270000.0,No,Shankill,Dublin 18,q1,30%
+21/12/2016,"Sherrington Lodge, Dublin Rd, Shankill",Dublin,320099.0,No,Shankill,Dublin 18,q2,50%
+22/12/2016,"68 Dorney Court, Shankill, Dublin",Dublin,345000.0,No,Shankill,Dublin 18,q2,50%
+05/01/2017,"2 Sycamore House, Eaton Wood Sq, Shankill",Dublin,170000.0,No,Shankill,Dublin 18,q1,10%
+11/01/2017,"101 Olcovar, Shankill, Dublin",Dublin,255000.0,No,Shankill,Dublin 18,q1,30%
+16/01/2017,"51 St Annes Pk, Shankill, Dublin",Dublin,370000.0,No,Shankill,Dublin 18,q3,60%
+17/01/2017,"Fern Cottage, Lower Rd, Shankill",Dublin,250000.0,No,Shankill,Dublin 18,q1,20%
+18/01/2017,"3 Glenbrae Court, Shankill, Dublin",Dublin,330000.0,No,Shankill,Dublin 18,q2,50%
+19/01/2017,"56 Woodbank, Dublin Road, Shankill",Dublin,391275.0,Yes,Shankill,Dublin 18,q3,60%
+19/01/2017,"58 Woodbank, Dublin Road, Shankill",Dublin,383259.0,Yes,Shankill,Dublin 18,q3,60%
+20/01/2017,"54 Woodbank, Shankill, County Dublin",Dublin,348017.0,Yes,Shankill,Dublin 18,q2,50%
+20/01/2017,"57 Woodbank, Dublin Road, Shankill",Dublin,302772.58,Yes,Shankill,Dublin 18,q2,40%
+02/02/2017,"4 Brookdene, Shankill, Dublin 18",Dublin,350000.0,No,Shankill,Dublin 18,q2,50%
+03/02/2017,"62 Quinns Rd, Shankill, Dublin",Dublin,400000.0,No,Shankill,Dublin 18,q3,70%
+06/02/2017,"70 Dorney Court, Shankill, Dublin",Dublin,360500.0,No,Shankill,Dublin 18,q3,60%
+08/02/2017,"80A St Annes Park, Shankill, Dublin",Dublin,420000.0,No,Shankill,Dublin 18,q3,70%
+09/02/2017,"80 St Annes Park, Shankill, Dublin",Dublin,295000.0,No,Shankill,Dublin 18,q2,30%
+10/02/2017,"57 St Annes Park, Shankill, Dublin",Dublin,310000.0,No,Shankill,Dublin 18,q2,40%
+10/02/2017,"7 Woodbank, Dublin Road, Shankill",Dublin,524229.0,Yes,Shankill,Dublin 18,q4,90%
+14/02/2017,"44 Quinns Rd, Shankill, Dublin",Dublin,520000.0,No,Shankill,Dublin 18,q4,90%
+17/02/2017,"50 Woodbank, Dublin Road, Shankill",Dublin,392070.49,Yes,Shankill,Dublin 18,q3,70%
+20/02/2017,"43 The Bungalows, Crinken Glen, Shankill",Dublin,360000.0,No,Shankill,Dublin 18,q3,60%
+23/02/2017,"52 Woodbank, Shankill",Dublin,435000.0,Yes,Shankill,Dublin 18,q3,70%
+28/02/2017,"3 Corbawn Dale, Shankill, Dublin",Dublin,735000.0,No,Shankill,Dublin 18,q4,100%
+08/03/2017,"55 Woodbank, Shankill",Dublin,293456.49,Yes,Shankill,Dublin 18,q2,30%
+10/03/2017,"3 Maryland, Shankill, Dublin 18",Dublin,305000.0,No,Shankill,Dublin 18,q2,40%
+16/03/2017,"2 Shanganagh Drive, River Lane, Shankill",Dublin,506607.0,Yes,Shankill,Dublin 18,q4,90%
+27/03/2017,"65 Corbawn Dr, Shankill, Dublin",Dublin,387500.0,No,Shankill,Dublin 18,q3,60%
+30/03/2017,"21 Foxes Grove, Shankill, Dublin 18",Dublin,495000.0,No,Shankill,Dublin 18,q4,80%
+06/04/2017,"227 Olcovar, Dublin Rd, Shankill",Dublin,216000.0,No,Shankill,Dublin 18,q1,20%
+11/04/2017,"Woodford, Ballybride Rd, Shankill",Dublin,850000.0,No,Shankill,Dublin 18,q4,100%
+27/04/2017,"77 Quinns Rd, Shankill, Dublin",Dublin,467500.0,No,Shankill,Dublin 18,q3,80%
+08/05/2017,"331 Olcovar, Shankill, Dublin",Dublin,262000.0,No,Shankill,Dublin 18,q1,30%
+11/05/2017,"3 Corbawn Lawn, Shankill, Dublin 18",Dublin,385000.0,No,Shankill,Dublin 18,q3,60%
+25/05/2017,"70 Castle Farm, Shankill, Dublin 18",Dublin,495000.0,No,Shankill,Dublin 18,q4,80%
+30/05/2017,"14 Woodbank, Shankill, Dublin 18",Dublin,595000.0,Yes,Shankill,Dublin 18,q4,100%
+01/06/2017,"3 Shanganagh Drive, Shankill, Dublin 18",Dublin,506608.0,Yes,Shankill,Dublin 18,q4,90%
+02/06/2017,"Forest View, Commons Rd, Shankill Dublin 18",Dublin,560000.0,No,Shankill,Dublin 18,q4,90%
+14/06/2017,"23 Shrewsbury Rd, Shankill, Dublin",Dublin,550000.0,No,Shankill,Dublin 18,q4,90%
+16/06/2017,"15 Rathmichael Park, Shankill, Dublin",Dublin,380000.0,No,Shankill,Dublin 18,q3,60%
+20/06/2017,"25 Eaton Wood Ave, Shankill, Dublin",Dublin,436000.0,No,Shankill,Dublin 18,q3,70%
+21/06/2017,"403 Olcovar, Shankill, Dublin",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+21/06/2017,"St Judes, Commons Rd, Shankill",Dublin,583000.0,No,Shankill,Dublin 18,q4,100%
+26/06/2017,"14 Broomfield Hall Apt, Shankill, Dublin",Dublin,255000.0,No,Shankill,Dublin 18,q1,30%
+30/06/2017,"18 Eaton Wood Green, Shankill, Co Dublin",Dublin,475000.0,No,Shankill,Dublin 18,q3,80%
+30/06/2017,"69 Dorney Court, Shankill, Dublin",Dublin,405600.0,No,Shankill,Dublin 18,q3,70%
+07/07/2017,"39 New Vale, Shankill, Dublin 18",Dublin,310000.0,No,Shankill,Dublin 18,q2,40%
+07/07/2017,"Hillview Cottage, Lower Rd, Shankill Dublin 18",Dublin,325000.0,No,Shankill,Dublin 18,q2,50%
+10/07/2017,"79 Quinn'S Road, Shankill, Dublin 18",Dublin,447500.0,No,Shankill,Dublin 18,q3,70%
+26/07/2017,"90 Eaton Wood Grove, Shankill, Co. Dublin",Dublin,462500.0,No,Shankill,Dublin 18,q3,80%
+31/07/2017,"98 Quinns Rd, Shankill, Dublin",Dublin,480000.0,No,Shankill,Dublin 18,q4,80%
+01/08/2017,"17 Glenbrae House, Rathsallagh, Shankill",Dublin,211500.0,No,Shankill,Dublin 18,q1,10%
+01/08/2017,"5 Woodbank, Shankill, Co. Dublin",Dublin,325000.0,Yes,Shankill,Dublin 18,q2,50%
+04/08/2017,"21 Shrewsbury Rd, Shankill, Dublin",Dublin,585000.0,No,Shankill,Dublin 18,q4,100%
+11/08/2017,"6 Woodbank, Shankill",Dublin,391275.0,Yes,Shankill,Dublin 18,q3,60%
+22/08/2017,"1 Crinken Villas, Shankill, Co Dublin",Dublin,360000.0,No,Shankill,Dublin 18,q3,60%
+22/08/2017,"12 Aubrey Park, Shankill, Dublin 18",Dublin,700000.0,No,Shankill,Dublin 18,q4,100%
+28/08/2017,"48 Eaton Wood Court, Shankill, Co. Dublin",Dublin,475000.0,No,Shankill,Dublin 18,q3,80%
+29/08/2017,"34 Rathsallagh Drive, Shankill, Co Dublin",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+01/09/2017,"35 Rathsallagh Dr, Shankill, Dublin",Dublin,204100.0,No,Shankill,Dublin 18,q1,10%
+01/09/2017,"49 Woodbank, Shankill, Co. Dublin",Dublin,400881.05,Yes,Shankill,Dublin 18,q3,70%
+01/09/2017,"61 Rathsallagh Grove, Shankill, Dublin",Dublin,372500.0,No,Shankill,Dublin 18,q3,60%
+05/09/2017,"2 Glenbrae House, Corbawn Lawn, Shankill",Dublin,218500.0,No,Shankill,Dublin 18,q1,20%
+06/09/2017,"122 Olcoval, Shankill, Dublin",Dublin,341000.0,No,Shankill,Dublin 18,q2,50%
+13/09/2017,"92 Crinken Glen, Mountain View, Shankill",Dublin,447000.0,No,Shankill,Dublin 18,q3,70%
+22/09/2017,"4 Shanganagh Drive, River Lane, Shankill",Dublin,511013.22,Yes,Shankill,Dublin 18,q4,90%
+26/09/2017,"1 Woodbank, Shankill",Dublin,231382.52,Yes,Shankill,Dublin 18,q1,20%
+26/09/2017,"2 Woodbank, Shankill",Dublin,291107.91,Yes,Shankill,Dublin 18,q2,30%
+26/09/2017,"3 Woodbank, Shankill",Dublin,198387.77,Yes,Shankill,Dublin 18,q1,10%
+26/09/2017,"4 Woodbank, Shankill",Dublin,299251.09,Yes,Shankill,Dublin 18,q2,40%
+26/09/2017,"89 Mountain View, Crinken Glen, Shankill",Dublin,308631.0,No,Shankill,Dublin 18,q2,40%
+03/10/2017,"Aubrey Lodge, Quinns Rd, Shankill",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+04/10/2017,"118 Shanganagh Cliffs, Shankill, Dublin 18",Dublin,329000.0,No,Shankill,Dublin 18,q2,50%
+04/10/2017,"47 Olcovar, Shankill, Dublin",Dublin,390000.0,No,Shankill,Dublin 18,q3,60%
+09/10/2017,"13 Library Rd, Shankill, Dublin 18",Dublin,382000.0,No,Shankill,Dublin 18,q3,60%
+09/10/2017,"27 New Vale Cottages, Shankill, Dublin 18",Dublin,370000.0,No,Shankill,Dublin 18,q3,60%
+10/10/2017,"328 Olcovar, Shankill, Dublin",Dublin,280000.0,No,Shankill,Dublin 18,q2,30%
+11/10/2017,"2 Roseville, Lower Road, Shankill",Dublin,575000.0,Yes,Shankill,Dublin 18,q4,90%
+24/10/2017,"Eastmount, 1 Seafield, Shankill",Dublin,636000.0,No,Shankill,Dublin 18,q4,100%
+24/10/2017,"Thomond House, Corbawn Lane, Shankill",Dublin,650000.0,No,Shankill,Dublin 18,q4,100%
+25/10/2017,"9 Aubrey Grove, Shankill, Dublin 18",Dublin,483500.0,No,Shankill,Dublin 18,q4,80%
+26/10/2017,"155 Castlefarm, Shankill, Dublin 18",Dublin,375000.0,No,Shankill,Dublin 18,q3,60%
+27/10/2017,"21 Rathsallagh Grove, Shankill, Dublin",Dublin,380000.0,No,Shankill,Dublin 18,q3,60%
+03/11/2017,"12  The Starlings, Shanganagh Road, Shankill",Dublin,477000.0,No,Shankill,Dublin 18,q3,80%
+03/11/2017,"25 Woodbank, Shankill, County Dublin",Dublin,582254.95,Yes,Shankill,Dublin 18,q4,100%
+03/11/2017,"28 Woodbank, Shankill",Dublin,524229.0,Yes,Shankill,Dublin 18,q4,90%
+03/11/2017,"46A  Quinns Road, Shankill, Dublin 18",Dublin,546000.0,No,Shankill,Dublin 18,q4,90%
+03/11/2017,"47 Woodbank, Dublin Road, Shankill",Dublin,392070.48,Yes,Shankill,Dublin 18,q3,70%
+03/11/2017,"70 Foxes Grove, Shankill, Dublin",Dublin,501000.0,No,Shankill,Dublin 18,q4,80%
+06/11/2017,"Sillary Lodge, Falls Rd, Shankill",Dublin,1350000.0,No,Shankill,Dublin 18,q4,100%
+07/11/2017,"5 Shanganagh Vale, Shankill, Dublin 18",Dublin,661000.0,No,Shankill,Dublin 18,q4,100%
+10/11/2017,"2 Maryland, Beechfield Manor, Shankill",Dublin,288000.0,No,Shankill,Dublin 18,q2,30%
+17/11/2017,"30, Woodbank, Shankill",Dublin,470462.0,Yes,Shankill,Dublin 18,q3,80%
+17/11/2017,"31 Woodbank, Shankill, Co Dublin",Dublin,444933.91,Yes,Shankill,Dublin 18,q3,70%
+20/11/2017,"35 Rathsallagh Park, Shankill, Co Dublin",Dublin,352000.0,No,Shankill,Dublin 18,q2,50%
+21/11/2017,"9 Aubrey, Quinns Rd, Shankill Dublin 18",Dublin,361000.0,No,Shankill,Dublin 18,q3,60%
+23/11/2017,"65 Castle Farm, Shankill, Dublin",Dublin,450000.0,No,Shankill,Dublin 18,q3,70%
+24/11/2017,"32 Seaview Park, Shankill, Dublin",Dublin,575000.0,No,Shankill,Dublin 18,q4,90%
+27/11/2017,"29 Woodbank, Dublin Road, Shankill",Dublin,493752.0,Yes,Shankill,Dublin 18,q4,80%
+27/11/2017,"43 St Annes Park, Shankill, Dublin",Dublin,456520.0,No,Shankill,Dublin 18,q3,80%
+30/11/2017,"1 Shanganagh Drive, River Lane, Shankill",Dublin,533092.0,Yes,Shankill,Dublin 18,q4,90%
+30/11/2017,"St Anne'S, Main Street, Shankill",Dublin,180000.0,No,Shankill,Dublin 18,q1,10%
+04/12/2017,"32 Woodbank, Dublin Road, Shankill",Dublin,466960.35,Yes,Shankill,Dublin 18,q3,80%
+06/12/2017,"193 Library Road, New Vale, Shankill",Dublin,470000.0,No,Shankill,Dublin 18,q3,80%
+06/12/2017,"49 Castle Farm, Shankill, Dublin 18",Dublin,540000.0,No,Shankill,Dublin 18,q4,90%
+12/12/2017,"33 Woodbank, Shankill",Dublin,484581.49,Yes,Shankill,Dublin 18,q4,80%
+12/12/2017,"34 Woodbank, Dublin Road, Shankill",Dublin,462555.06,Yes,Shankill,Dublin 18,q3,80%
+12/12/2017,"36 Woodbank, Shankill, Co Dublin",Dublin,484581.49,Yes,Shankill,Dublin 18,q4,80%
+14/12/2017,"35 Woodbank, Shankill, County Dublin",Dublin,489094.0,Yes,Shankill,Dublin 18,q4,80%
+19/12/2017,"51 Corbawn Dr, Shankill, Dublin",Dublin,470000.0,No,Shankill,Dublin 18,q3,80%
+19/12/2017,"Bridge View, 5 Lower Rd, Shankill",Dublin,365000.0,No,Shankill,Dublin 18,q3,60%
+20/12/2017,"20 Library Rd, Shankill, Dublin",Dublin,465000.0,No,Shankill,Dublin 18,q3,80%
+21/12/2017,"130 Dorney Court, Shankill, Dublin",Dublin,402000.0,No,Shankill,Dublin 18,q3,70%
+02/01/2018,"1 Roseville, Lower Road, Shankill",Dublin,627230.7,No,Shankill,Dublin 18,q4,100%
+03/01/2018,"Apt 18, Maryland House Beechfield Haven, Shankill",Dublin,305000.0,No,Shankill,Dublin 18,q2,40%
+12/01/2018,"18 Holly Park, Corbawn Lane, Shankill",Dublin,500000.0,No,Shankill,Dublin 18,q4,80%
+12/01/2018,"68 Mountain View, Crinken Glen, Shankill",Dublin,430000.0,No,Shankill,Dublin 18,q3,70%
+24/01/2018,"73 Castle Farm, Shankill, Dublin",Dublin,425000.0,No,Shankill,Dublin 18,q3,70%
+26/01/2018,"37 Woodbank, Dublin Road, Shankill",Dublin,528635.0,Yes,Shankill,Dublin 18,q4,90%
+29/01/2018,"22 Beech Rd, Crinken Glen, Shankill",Dublin,465000.0,No,Shankill,Dublin 18,q3,80%
+29/01/2018,"40 Woodbank, Dublin Road, Shankill",Dublin,559471.36,Yes,Shankill,Dublin 18,q4,90%
+01/02/2018,"38 Woodbank, Shankill",Dublin,528634.35,Yes,Shankill,Dublin 18,q4,90%
+09/02/2018,"7 Cherrington Dr, Shankill, Dublin 18",Dublin,610000.0,No,Shankill,Dublin 18,q4,100%
+20/02/2018,"22 Dorney Court, Shankill, Dublin",Dublin,385000.0,No,Shankill,Dublin 18,q3,60%
+23/02/2018,"34 Clanmawr, Shankill, Dublin",Dublin,492000.0,No,Shankill,Dublin 18,q4,80%
+28/02/2018,"39 Woodbank, Shankill",Dublin,528634.35,Yes,Shankill,Dublin 18,q4,90%
+08/03/2018,"4 Broomfield Hall, Shankill Dublin 18, Dublin",Dublin,250000.0,No,Shankill,Dublin 18,q1,20%
+09/03/2018,"1 Seaview Gate, Seaview Park, Shankill",Dublin,615000.0,No,Shankill,Dublin 18,q4,100%
+09/03/2018,"2 Crinken Villas, Shankill, Co Dublin",Dublin,350000.0,No,Shankill,Dublin 18,q2,50%
+12/03/2018,"49 New Vale, Shankill, Co Dublin",Dublin,290000.0,No,Shankill,Dublin 18,q2,30%
+14/03/2018,"41 Woodbank, Dublin Road, Shankill",Dublin,581497.79,Yes,Shankill,Dublin 18,q4,100%
+15/03/2018,"3 Crinken Villas, Shankill, Co Dublin",Dublin,350000.0,No,Shankill,Dublin 18,q2,50%
+16/03/2018,"Ellerslie Lodge, Crinken Lane, Shankill",Dublin,280000.0,No,Shankill,Dublin 18,q2,30%
+23/03/2018,"15 Olcovar, Dublin Rd, Shankill",Dublin,360000.0,No,Shankill,Dublin 18,q3,60%
+27/03/2018,"34 Corbawn Close, Shankill, Dublin",Dublin,485000.0,No,Shankill,Dublin 18,q4,80%
+06/04/2018,"18 Woodbank, Dublin Road, Shankill",Dublin,563876.0,Yes,Shankill,Dublin 18,q4,90%
+10/04/2018,"41 Shanganagh Grove, Shankill, Dublin",Dublin,560000.0,No,Shankill,Dublin 18,q4,90%
+18/04/2018,"11 The Bridge, Shankill, Co Dublin",Dublin,308000.0,No,Shankill,Dublin 18,q2,40%
+20/04/2018,"14 Beechfield Haven, Shankill, Dublin 18",Dublin,297000.0,No,Shankill,Dublin 18,q2,40%
+23/04/2018,"16 Woodbank, Shankill, County Dublin",Dublin,563877.0,Yes,Shankill,Dublin 18,q4,90%
+25/04/2018,"17 Woodbank, Shankill, Co Dublin",Dublin,596229.0,Yes,Shankill,Dublin 18,q4,100%
+02/05/2018,"No 24 Woodbank, Shankill",Dublin,537035.0,Yes,Shankill,Dublin 18,q4,90%
+04/05/2018,"10 Stonebridge Close, Shankill, Dublin",Dublin,380000.0,No,Shankill,Dublin 18,q3,60%
+10/05/2018,"2 Chantilly Meadows, Library Road, Shankill",Dublin,612335.0,Yes,Shankill,Dublin 18,q4,100%
+11/05/2018,"22 Woodbank, Dublin Road, Shankill",Dublin,484581.0,Yes,Shankill,Dublin 18,q4,80%
+15/05/2018,"4 Eaton Wood Avenue, Corbawn Lane, Shankill",Dublin,445000.0,No,Shankill,Dublin 18,q3,70%
+23/05/2018,"15 Aubrey House Apts, Quinns Rd, Shankill",Dublin,380000.0,No,Shankill,Dublin 18,q3,60%
+25/05/2018,"57 Rathsallagh Drive, Shankill, Co Dublin",Dublin,370000.0,No,Shankill,Dublin 18,q3,60%
+28/05/2018,"24 Aubrey, Quinns Rd, Shankill",Dublin,375000.0,No,Shankill,Dublin 18,q3,60%
+31/05/2018,"12 Maryland, Shankill, Dublin 18",Dublin,340000.0,No,Shankill,Dublin 18,q2,50%
+08/06/2018,"60 Rathsallagh Park, Shankill, Dublin 18",Dublin,397500.0,No,Shankill,Dublin 18,q3,70%
+08/06/2018,"91 Castle Farm, Shankill, Dublin 18",Dublin,480000.0,No,Shankill,Dublin 18,q4,80%
+19/06/2018,"197 Library Rd, New Vale, Shankill",Dublin,565670.0,No,Shankill,Dublin 18,q4,90%
+21/06/2018,"14 The Starlings, Shanganagh Road, Shankill",Dublin,540000.0,Yes,Shankill,Dublin 18,q4,90%
+21/06/2018,"21 Woodbank, Dublin Road, Shankill",Dublin,536375.0,Yes,Shankill,Dublin 18,q4,90%
+21/06/2018,"46 Woodbank, Dublin Road, Shankill",Dublin,593905.06,Yes,Shankill,Dublin 18,q4,100%
+25/06/2018,"30 Corbawn Close, Shankill, Dublin 18",Dublin,530000.0,No,Shankill,Dublin 18,q4,90%
+25/06/2018,"48 Dorney Court, Shankill, Dublin 18",Dublin,440000.0,No,Shankill,Dublin 18,q3,70%
+03/07/2018,"10 Olcovar, Shankill, Dublin",Dublin,420000.0,No,Shankill,Dublin 18,q3,70%
+05/07/2018,"20 Woodbank, Dublin Raod, Shankill",Dublin,563876.65,Yes,Shankill,Dublin 18,q4,90%
+06/07/2018,"22 Corbawn Grove, Shankill, Dublin",Dublin,550000.0,No,Shankill,Dublin 18,q4,90%
+09/07/2018,"45 Woodbank, Shankill, Co Dublin",Dublin,607929.51,Yes,Shankill,Dublin 18,q4,100%
+20/07/2018,"6 Cherrington Close, Shankill, Dublin 18",Dublin,760000.0,No,Shankill,Dublin 18,q4,100%
+20/07/2018,"8 The Starlings, Shanganagh Road, Shankill",Dublin,477000.0,No,Shankill,Dublin 18,q3,80%
+20/07/2018,"No. 1 Chantilly Meadows, Library Road, Shankill",Dublin,616740.09,Yes,Shankill,Dublin 18,q4,100%
+27/07/2018,"1 Cluain Na Greine, Shankill, Dublin 18",Dublin,465000.0,No,Shankill,Dublin 18,q3,80%
+30/07/2018,"43 Woodbank, Dublin Road, Shankill",Dublin,568282.0,Yes,Shankill,Dublin 18,q4,90%
+31/07/2018,"44 Woodbank, Dublin Road, Shankill",Dublin,572687.22,Yes,Shankill,Dublin 18,q4,90%
+31/07/2018,"60 Rathsallagh Drive, Shankill, Dublin 18",Dublin,360000.0,No,Shankill,Dublin 18,q3,60%
+30/08/2018,"46 Corbawn Wood, Shankill, Dublin 18",Dublin,500000.0,No,Shankill,Dublin 18,q4,80%
+06/09/2018,"10 Aubrey Park, Shankill, Dublin",Dublin,510000.0,No,Shankill,Dublin 18,q4,90%
+06/09/2018,"Kilshannig, Crinken Lane, Shankill",Dublin,1060000.0,No,Shankill,Dublin 18,q4,100%
+06/09/2018,"Legende, Falls Rd, Shankill",Dublin,1000000.0,No,Shankill,Dublin 18,q4,100%
+11/09/2018,"23 Aubrey Park, Shankill, Dublin 18",Dublin,750000.0,No,Shankill,Dublin 18,q4,100%
+11/09/2018,"4 Olcovar, Dublin Rd, Shankill Dublin 18",Dublin,327500.0,No,Shankill,Dublin 18,q2,50%
+12/09/2018,"5 Aubrey, Quinns Road, Shankill",Dublin,385000.0,No,Shankill,Dublin 18,q3,60%
+13/09/2018,"6 Eaton Brae, Corbawn Lawn, Shankill",Dublin,850000.0,No,Shankill,Dublin 18,q4,100%
+20/09/2018,"21 Maryland House, Shankill, Co Dublin",Dublin,307000.0,No,Shankill,Dublin 18,q2,40%
+26/09/2018,"Woodley, Eaton Brae, Shankill Dublin 18",Dublin,900000.0,No,Shankill,Dublin 18,q4,100%
+08/10/2018,"209 Shanganagh Cliffs, Shankill, Dublin 18",Dublin,391000.0,No,Shankill,Dublin 18,q3,60%
+08/10/2018,"Corrig House, Pucks Castle Lane, Shankill",Dublin,570000.0,No,Shankill,Dublin 18,q4,90%
+08/10/2018,"Seadawn, Corbawn Lane, Shankill",Dublin,805000.0,No,Shankill,Dublin 18,q4,100%
+19/10/2018,"12 Rathmichael Woods, Shankill, Dublin",Dublin,595000.0,No,Shankill,Dublin 18,q4,100%
+25/10/2018,"Apt 5 Nortlands, Rathmichael Park, Shankill",Dublin,325000.0,No,Shankill,Dublin 18,q2,50%
+30/10/2018,"234 Olcovar, Shankill, Dublin",Dublin,319000.0,No,Shankill,Dublin 18,q2,40%
+30/10/2018,"3 Osprey Court, Dublin Rd, Shankill",Dublin,317000.0,No,Shankill,Dublin 18,q2,40%
+30/10/2018,"4 Corbawn Close, Shankill, Dublin 18",Dublin,544000.0,No,Shankill,Dublin 18,q4,90%
+10/11/2018,"225 New Vale, Shankill, Dublin",Dublin,410000.0,No,Shankill,Dublin 18,q3,70%
+23/11/2018,"5 The Bridge, Dublin Rd, Shankill",Dublin,253000.0,No,Shankill,Dublin 18,q1,20%
+26/11/2018,"3 Hilltop Lawn, Shankill, Dublin 18",Dublin,500000.0,No,Shankill,Dublin 18,q4,80%
+29/11/2018,"2 Rathsallagh Pk, Shankill, Dublin",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+29/11/2018,"34 Shrewsbury Rd, Shankill, Dublin",Dublin,605000.0,No,Shankill,Dublin 18,q4,100%
+29/11/2018,"Falmore, Falls Rd, Shankill Dublin 18",Dublin,2000000.0,No,Shankill,Dublin 18,q4,100%
+30/11/2018,"48 Rathsallagh Park, Shankill Dublin 18, Dublin",Dublin,360000.0,No,Shankill,Dublin 18,q3,60%
+07/12/2018,"17 The Wood, Crinken Glen, Shankill",Dublin,395000.0,No,Shankill,Dublin 18,q3,70%
+10/12/2018,"23A Seaview Park, Shankill, Dublin",Dublin,567000.0,No,Shankill,Dublin 18,q4,90%
+13/12/2018,"49 Foxes Grove, Shankill, Dublin",Dublin,530000.0,No,Shankill,Dublin 18,q4,90%
+18/12/2018,"16 Corbawn Close, Shankill, Dublin",Dublin,475000.0,No,Shankill,Dublin 18,q3,80%
+20/12/2018,"4 Chantilly Meadows, Library Road, Shankill",Dublin,616740.08,Yes,Shankill,Dublin 18,q4,100%
+04/01/2019,"1 The Bridge, Main St, Shankill Dublin 18",Dublin,285000.0,No,Shankill,Dublin 18,q2,30%
+09/01/2019,"8 Athgoe Rd, Shankill, Dublin",Dublin,495000.0,No,Shankill,Dublin 18,q4,80%
+11/01/2019,"47 The Bridge, Dublin Rd, Shankill",Dublin,295000.0,No,Shankill,Dublin 18,q2,40%
+17/01/2019,"16 Beechfield Haven, Shankill, Dublin",Dublin,290000.0,No,Shankill,Dublin 18,q2,30%
+25/01/2019,"103 Quinns Rd, Shankill, Dublin",Dublin,550000.0,No,Shankill,Dublin 18,q4,90%
+25/01/2019,"96 Dorney Court, Shankill, Dublin",Dublin,375000.0,No,Shankill,Dublin 18,q3,60%
+31/01/2019,"4 St Annes Park, Quinns Rd, Shankill",Dublin,450000.0,No,Shankill,Dublin 18,q3,80%
+08/02/2019,"101 Dorney Court, Shankill, Dublin 18",Dublin,438000.0,No,Shankill,Dublin 18,q3,70%
+22/02/2019,"194 New Vale, Library Road, Shankill",Dublin,1000000.0,No,Shankill,Dublin 18,q4,100%
+25/02/2019,"68 Olcovar, Shankill, Dublin 18",Dublin,345000.0,No,Shankill,Dublin 18,q2,50%
+05/03/2019,"2 Eaton Wood Ave, Shankill, Dublin",Dublin,460000.0,No,Shankill,Dublin 18,q3,80%
+05/03/2019,"25 Maryland, Shankill, Dublin 18",Dublin,310000.0,No,Shankill,Dublin 18,q2,40%
+05/03/2019,"Eaton Brae House, Shankill, Dublin 18",Dublin,850000.0,No,Shankill,Dublin 18,q4,100%
+06/03/2019,"85 St Annes Park, Shankill, Dublin",Dublin,449500.0,No,Shankill,Dublin 18,q3,70%
+08/03/2019,"48 Olcovar, Dublin Rd, Shankill Dublin 18",Dublin,320000.0,No,Shankill,Dublin 18,q2,40%
+08/03/2019,"51 Olcovar, Dublin Rd, Shankill",Dublin,390000.0,No,Shankill,Dublin 18,q3,60%
+26/03/2019,"9 Corbawn Lawn, Shankill, Dublin",Dublin,410000.0,No,Shankill,Dublin 18,q3,70%
+12/04/2019,"27 Brookdene, Shanganagh Road, Shankill",Dublin,435000.0,No,Shankill,Dublin 18,q3,70%
+15/04/2019,"Apt 1 Glenbrae House, Glenbrae Court, Shankill",Dublin,175000.0,No,Shankill,Dublin 18,q1,10%
+16/04/2019,"39 Corbawn Dr, Shankill, Dublin",Dublin,535000.0,No,Shankill,Dublin 18,q4,90%
+18/04/2019,"6 Rathmichael Woods, Shankill, Dublin",Dublin,637500.0,No,Shankill,Dublin 18,q4,100%
+30/04/2019,"Sherrington Lodge, Dublin Rd, Shankill",Dublin,540000.0,No,Shankill,Dublin 18,q4,90%
+01/05/2019,"27 Shanganagh Grove, Shankill, Dublin",Dublin,500000.0,No,Shankill,Dublin 18,q4,80%
+09/05/2019,"34 Castle Farm, Shankill, Dublin",Dublin,510000.0,No,Shankill,Dublin 18,q4,90%
+10/05/2019,"4 Glenbrae Ct, Corbawn Lane Shankill, Dublin",Dublin,295000.0,No,Shankill,Dublin 18,q2,40%
+10/05/2019,"60 Shrewsbury Rd, Shankill, Dublin 18",Dublin,630000.0,No,Shankill,Dublin 18,q4,100%
+14/05/2019,"2 River Lane Grove, Shanganagh Rd, Shankill Dublin",Dublin,357090.0,No,Shankill,Dublin 18,q2,50%
+15/05/2019,"15 Woodbank, Shankill",Dublin,624177.31,Yes,Shankill,Dublin 18,q4,100%
+17/05/2019,"6 Clifton Park, Shankill, Dublin",Dublin,305000.0,No,Shankill,Dublin 18,q2,40%
+28/05/2019,"Pine Lodge, Eaton Brae, Shankill Dublin 18",Dublin,810000.0,No,Shankill,Dublin 18,q4,100%
+29/05/2019,"18 Eaton Wood Avenue, Shankill, Co Dublin",Dublin,403000.0,No,Shankill,Dublin 18,q3,70%
+30/05/2019,"3  Chantilly Meadows, Library Road, Shankill",Dublin,565638.77,Yes,Shankill,Dublin 18,q4,90%
+30/05/2019,"93 Dorney Court, Shankill, Dublin 18",Dublin,435000.0,No,Shankill,Dublin 18,q3,70%
+31/05/2019,"19 Corbawn Dr, Shankill, Dublin",Dublin,630000.0,No,Shankill,Dublin 18,q4,100%
+31/05/2019,"25 Hazelwood, Shanganagh Rd, Shankill",Dublin,585000.0,No,Shankill,Dublin 18,q4,100%
+07/06/2019,"195 New Vale, Library Road, Shankill",Dublin,550000.0,No,Shankill,Dublin 18,q4,90%
+07/06/2019,"41 Olcovar, Dublin Rd, Shankill Dublin 18",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+07/06/2019,"42 Corbawn Close, Shankill, Dublin",Dublin,490000.0,No,Shankill,Dublin 18,q4,80%
+14/06/2019,"15 Corbawn Close, Shankill, Dublin 18",Dublin,550000.0,No,Shankill,Dublin 18,q4,90%
+19/06/2019,"222 New Vale, Shankill, Dublin",Dublin,340000.0,No,Shankill,Dublin 18,q2,50%
+20/06/2019,"77B Foxes Grove, Shankill, Dublin 18",Dublin,508000.0,No,Shankill,Dublin 18,q4,90%
+21/06/2019,"156 Castle Farm, Shankill, Dublin",Dublin,360000.0,No,Shankill,Dublin 18,q3,60%
+21/06/2019,"80 Quinns Rd, Shankill, Dublin",Dublin,505000.0,No,Shankill,Dublin 18,q4,90%
+08/07/2019,"30 The Bridge, Dublin Rd, Shankill",Dublin,295000.0,No,Shankill,Dublin 18,q2,40%
+25/07/2019,"Bramble, Lower Coach House Rosedale, Quinns Road Shankill",Dublin,420000.0,No,Shankill,Dublin 18,q3,70%
+26/07/2019,"5 Library Rd, Shankill, Dublin",Dublin,355000.0,No,Shankill,Dublin 18,q2,50%
+09/08/2019,"108A Quinn'S Road, Shankill, Dublin 18",Dublin,362500.0,No,Shankill,Dublin 18,q3,60%
+09/08/2019,"4 Roseville, Lower Road, Shankill",Dublin,620000.0,Yes,Shankill,Dublin 18,q4,100%
+14/08/2019,"6 Broomfield Hall Apts, Shanganagh Rd, Shankill Dublin 18",Dublin,296000.0,No,Shankill,Dublin 18,q2,40%
+15/08/2019,"102 Olcovar, Shankill, Dublin",Dublin,345000.0,No,Shankill,Dublin 18,q2,50%
+15/08/2019,"28 Corbawn Dr, Shankill, Dublin 18",Dublin,527000.0,No,Shankill,Dublin 18,q4,90%
+22/08/2019,"15 Dorney Court, Shankill, Dublin 18",Dublin,461000.0,No,Shankill,Dublin 18,q3,80%
+23/08/2019,"3 Cherrington Dr, Shankill, Dublin 18",Dublin,580000.0,No,Shankill,Dublin 18,q4,100%
+23/08/2019,"83 Olcovar, Dublin Rd, Shankill Dublin 18",Dublin,295000.0,No,Shankill,Dublin 18,q2,40%
+28/08/2019,"162 Castle Farm, Shankill, Dublin",Dublin,377000.0,No,Shankill,Dublin 18,q3,60%
+29/08/2019,"24 Castle Farm, Shankill, Dublin",Dublin,510000.0,No,Shankill,Dublin 18,q4,90%
+30/08/2019,"24 Maryland House, Shanganag Rd, Shankill",Dublin,220000.0,No,Shankill,Dublin 18,q1,20%
+30/08/2019,"Pine Tops, 12 Eaton Brae, Shankill Dublin 18",Dublin,850000.0,No,Shankill,Dublin 18,q4,100%
+03/09/2019,"122 Dorney Court, Shankill, Dublin",Dublin,380500.0,No,Shankill,Dublin 18,q3,60%
+03/09/2019,"55 Castle Farm, Shankill, Dublin",Dublin,542750.0,No,Shankill,Dublin 18,q4,90%
+03/09/2019,"Edenview, Commons Road, Shankill",Dublin,502202.0,Yes,Shankill,Dublin 18,q4,80%
+03/09/2019,"Hillview, Lower Rd, Shankill Dublin 18",Dublin,430000.0,No,Shankill,Dublin 18,q3,70%
+09/09/2019,"26 The Bridge, Shankill, Dublin",Dublin,297000.0,No,Shankill,Dublin 18,q2,40%
+16/09/2019,"201A New Vale, Shankill, Dublin",Dublin,600000.0,No,Shankill,Dublin 18,q4,100%
+19/09/2019,"30 Holly Park, Corbawn Lane, Shankill",Dublin,465000.0,No,Shankill,Dublin 18,q3,80%
+20/09/2019,"425 Olcovar, Shankill Dublin 18, Dublin",Dublin,310000.0,No,Shankill,Dublin 18,q2,40%
+20/09/2019,"85 Shanganagh Cliffs, Shankill, Dublin",Dublin,150000.0,No,Shankill,Dublin 18,q1,10%
+25/09/2019,"5 Eaton Brae, Shankill, Dublin 18",Dublin,769000.0,No,Shankill,Dublin 18,q4,100%
+30/09/2019,"19 Glenbrae House, Shankill, Dublin",Dublin,295000.0,No,Shankill,Dublin 18,q2,40%
+30/09/2019,"22 Aubrey, Quinns Rd, Shankill",Dublin,330000.0,No,Shankill,Dublin 18,q2,50%
+30/09/2019,"28 Olcovar, Dublin Rd, Shankill",Dublin,300000.0,No,Shankill,Dublin 18,q2,40%
+30/09/2019,"67 Dorney Court, Shankill, Dublin",Dublin,480000.0,No,Shankill,Dublin 18,q4,80%
+30/09/2019,"86 Dorney Court, Shankill, Dublin",Dublin,430000.0,No,Shankill,Dublin 18,q3,70%
+02/10/2019,"147 Corbawn Wood, Shankill, Dublin",Dublin,520000.0,No,Shankill,Dublin 18,q4,90%
+10/10/2019,"Apt 11, Broomfield Hall, Shankill",Dublin,315000.0,No,Shankill,Dublin 18,q2,40%

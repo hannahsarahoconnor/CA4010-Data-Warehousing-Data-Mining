@@ -1,0 +1,415 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+04/01/2010,"49 Ballynakelly Green, Newcastle",Dublin,499600.0,Yes,Newcastle,Co. Dublin,q4,100%
+19/01/2010,"4 Kenilworth Road, Parish Of St. Peter, Barony Of Newcastle",Dublin,1000000.0,No,Newcastle,Co. Dublin,q4,100%
+26/01/2010,"4 Parsons Court, Newcastle",Dublin,400000.0,Yes,Newcastle,Co. Dublin,q4,100%
+12/02/2010,"2 Main Street, Newcastle, County Dublin",Dublin,190000.0,No,Newcastle,Co. Dublin,q2,40%
+12/02/2010,"40 Ballynakelly Green, Newcastle, Co. Dublin",Dublin,211454.0,Yes,Newcastle,Co. Dublin,q2,50%
+17/02/2010,"42 Ballykelly Green, Newcastle",Dublin,242000.0,Yes,Newcastle,Co. Dublin,q3,60%
+19/02/2010,"18 Ballynakelly Court, Newcastle, Co Dublin",Dublin,193832.59,Yes,Newcastle,Co. Dublin,q2,40%
+22/02/2010,"17, Burgage Crtescent, Newcastle",Dublin,267500.0,Yes,Newcastle,Co. Dublin,q3,70%
+26/02/2010,"6 Lyons Street, Newcastle",Dublin,170000.0,Yes,Newcastle,Co. Dublin,q1,30%
+09/03/2010,"Oakfield House, Newcastle",Dublin,367500.0,No,Newcastle,Co. Dublin,q4,100%
+12/03/2010,"43 Ballynakelly Green, Newcastle",Dublin,220265.0,Yes,Newcastle,Co. Dublin,q2,50%
+16/03/2010,"33 Ballynakelly Green, Newcastle",Dublin,247500.0,Yes,Newcastle,Co. Dublin,q3,60%
+18/03/2010,"23  Lyons Avenue South, Newcastle",Dublin,239175.0,Yes,Newcastle,Co. Dublin,q2,50%
+20/03/2010,"56 Newcastle Boulevard, Newcastle",Dublin,225000.0,Yes,Newcastle,Co. Dublin,q2,50%
+22/03/2010,"11 Lyons Avenue, Newcastle",Dublin,198237.88,Yes,Newcastle,Co. Dublin,q2,40%
+22/03/2010,"49 Aylmer Drive, Aylmer Heath, Newcastle",Dublin,255000.0,Yes,Newcastle,Co. Dublin,q3,60%
+26/03/2010,"36 Ballynakelly Green, Newcastle, Co. Dublin",Dublin,224670.0,Yes,Newcastle,Co. Dublin,q2,50%
+30/03/2010,"59 Newcastle Boulevard, Newcastle",Dublin,149779.73,Yes,Newcastle,Co. Dublin,q1,20%
+07/04/2010,"38 Ballynakelly Green, Newcastle",Dublin,204545.45,Yes,Newcastle,Co. Dublin,q2,40%
+13/04/2010,"21 Burgage Crescent, Newcastle Lyons, Dublin",Dublin,218845.0,Yes,Newcastle,Co. Dublin,q2,50%
+14/04/2010,"9 Burgage Green, Newcastle",Dublin,137168.0,Yes,Newcastle,Co. Dublin,q1,20%
+21/04/2010,"48 Ballynakelly Green, Newcastle",Dublin,217621.0,Yes,Newcastle,Co. Dublin,q2,50%
+22/04/2010,"46 Ballynakelly Green, Newcastle",Dublin,250000.0,Yes,Newcastle,Co. Dublin,q3,60%
+28/04/2010,"4 Ballynakelly Rise, Newcastle Lyons, Newcastle",Dublin,119950.0,Yes,Newcastle,Co. Dublin,q1,20%
+04/05/2010,"23 Ballynakelly Green, Newcastle, Co Dublin",Dublin,211925.0,Yes,Newcastle,Co. Dublin,q2,50%
+06/05/2010,"16 Parsons Court, Newcastle",Dublin,168000.0,Yes,Newcastle,Co. Dublin,q1,30%
+17/05/2010,"3  Ballynakelly Mews, Newcastle Lyons, Newcastle",Dublin,207929.52,Yes,Newcastle,Co. Dublin,q2,40%
+25/05/2010,"39 Parsons Court, Newcastle",Dublin,312776.0,Yes,Newcastle,Co. Dublin,q4,80%
+22/06/2010,"38 Newcastle Boulevard, Newcastle Lyons, Newcastle",Dublin,225000.0,Yes,Newcastle,Co. Dublin,q2,50%
+24/06/2010,"9 Ballynakelly Green, Newcastle",Dublin,224670.0,Yes,Newcastle,Co. Dublin,q2,50%
+25/06/2010,"35 Parsons Court, Newcastle, Co. Dublin",Dublin,507000.0,Yes,Newcastle,Co. Dublin,q4,100%
+02/07/2010,"9 Ballynakelly Mews, Newcastle",Dublin,170485.0,Yes,Newcastle,Co. Dublin,q2,30%
+12/07/2010,"No. 37 Parsons Court, Newcastle",Dublin,345000.0,Yes,Newcastle,Co. Dublin,q4,90%
+20/07/2010,"19 Burgage Green, Newcastle",Dublin,145000.0,Yes,Newcastle,Co. Dublin,q1,20%
+21/07/2010,"30 Newcastle Boulevard, Newcastle",Dublin,198237.88,Yes,Newcastle,Co. Dublin,q2,40%
+26/07/2010,"57 Newcastle Boulevard, Newcastle",Dublin,185000.0,Yes,Newcastle,Co. Dublin,q2,30%
+09/08/2010,"12 Ballynakealy Mews, Newcastle",Dublin,169603.0,Yes,Newcastle,Co. Dublin,q1,30%
+16/08/2010,"41, Parson'S Court, Newcastle",Dublin,309691.62,Yes,Newcastle,Co. Dublin,q4,80%
+26/08/2010,"6  Commons Little, Newcastle, Co. Dublin",Dublin,261000.0,No,Newcastle,Co. Dublin,q3,60%
+30/08/2010,"40 Parson'S Court, Newcastle",Dublin,328194.0,Yes,Newcastle,Co. Dublin,q4,90%
+10/09/2010,"10 Ballynakelly Green, Newcastle, Dublin",Dublin,240000.0,Yes,Newcastle,Co. Dublin,q2,50%
+13/09/2010,"36 Parsons Court, Main Street, Newcastle",Dublin,340000.0,Yes,Newcastle,Co. Dublin,q4,90%
+22/09/2010,"49 Newcastle Boulevard, Newcastle Lyons, Newcastle",Dublin,197000.0,Yes,Newcastle,Co. Dublin,q2,40%
+23/09/2010,"15 Ballynakelly Court, Newcastle",Dublin,220000.0,Yes,Newcastle,Co. Dublin,q2,50%
+24/09/2010,"22 Ballynakelly Green, Newcastle, County Dublin",Dublin,200440.53,Yes,Newcastle,Co. Dublin,q2,40%
+08/10/2010,"21 Burgage Green, Newcastle, Co. Dublin",Dublin,215000.0,Yes,Newcastle,Co. Dublin,q2,50%
+14/10/2010,"5 Burgage Street, Newcastle",Dublin,149779.73,Yes,Newcastle,Co. Dublin,q1,20%
+15/10/2010,"12 Main Street, Newcastle, Co. Dublin",Dublin,225000.0,No,Newcastle,Co. Dublin,q2,50%
+15/10/2010,"14 Ballynakelly, Newcastle",Dublin,225000.0,Yes,Newcastle,Co. Dublin,q2,50%
+18/10/2010,"7 Ballynakelly Mews, Newcastle",Dublin,169162.99,Yes,Newcastle,Co. Dublin,q1,30%
+28/10/2010,"16 Ballynakelly View, Newcastle",Dublin,436124.0,Yes,Newcastle,Co. Dublin,q4,100%
+23/11/2010,"17 Ballynakelly Green, Newcastle",Dublin,286344.0,Yes,Newcastle,Co. Dublin,q3,70%
+03/12/2010,"Unit 34 Parsons Court, Newcastle, Co. Dublin",Dublin,185022.02,Yes,Newcastle,Co. Dublin,q2,40%
+14/12/2010,"16 Ballynakelly Green, Newcastle",Dublin,335000.0,Yes,Newcastle,Co. Dublin,q4,90%
+23/12/2010,"56 Ballynakelly Green, Newcastle",Dublin,396476.0,Yes,Newcastle,Co. Dublin,q4,100%
+14/01/2011,"25, Parsons Court, Newcastle",Dublin,114537.44,Yes,Newcastle,Co. Dublin,q1,20%
+04/02/2011,"5 Burgage Crescent, Newcastle",Dublin,194476.0,Yes,Newcastle,Co. Dublin,q2,40%
+24/02/2011,"17 Burgage Green, Newcastle Lyons, Newcastle",Dublin,216500.0,Yes,Newcastle,Co. Dublin,q2,50%
+01/04/2011,"25 Newcastle  Boulevard, Newcastle",Dublin,185000.0,Yes,Newcastle,Co. Dublin,q2,30%
+31/05/2011,"3 Ballynakelly Edge, Newcastle",Dublin,78000.0,No,Newcastle,Co. Dublin,q1,10%
+22/07/2011,"54 Ballynakelly Green, Newcastle, County Dublin",Dublin,370000.0,Yes,Newcastle,Co. Dublin,q4,100%
+10/08/2011,"Newcastle Lodgw, Newcastle",Dublin,445000.0,No,Newcastle,Co. Dublin,q4,100%
+17/08/2011,"Unit No 31 Parsons Court, Newcastle, Co. Dublin",Dublin,259911.0,Yes,Newcastle,Co. Dublin,q3,60%
+02/09/2011,"11 The Rise, Newcastle Manor, Newcastle",Dublin,185000.0,No,Newcastle,Co. Dublin,q2,30%
+22/09/2011,"23 Parsons Court, Newcastle",Dublin,114537.0,Yes,Newcastle,Co. Dublin,q1,10%
+14/10/2011,"Highdown Hill, Newcastle",Dublin,135000.0,No,Newcastle,Co. Dublin,q1,20%
+21/10/2011,"50 Ballynakelly Green, Newcastle, Dublin",Dublin,334801.76,Yes,Newcastle,Co. Dublin,q4,90%
+28/10/2011,"8 Ballynakelly Mews, Newcastle",Dublin,162500.0,Yes,Newcastle,Co. Dublin,q1,30%
+15/11/2011,"14 Lyons Street, Newcastle Lyons, Newcastle",Dublin,210000.0,Yes,Newcastle,Co. Dublin,q2,40%
+18/11/2011,"32 Newcastle Boulevard, Newcastle Lyons, Newcastle",Dublin,151542.0,Yes,Newcastle,Co. Dublin,q1,20%
+25/11/2011,"7 Burgage Crescent, Newcastle",Dublin,173000.0,Yes,Newcastle,Co. Dublin,q2,30%
+20/12/2011,"27  Newcastle Boulevard, Newcastle Lyons, Newcastle",Dublin,162996.0,Yes,Newcastle,Co. Dublin,q1,30%
+21/12/2011,"46 Parsons Court, Newcastle",Dublin,254185.0,Yes,Newcastle,Co. Dublin,q3,60%
+22/12/2011,"38 Parsons Court, Newcastle, County Dublin",Dublin,265000.0,Yes,Newcastle,Co. Dublin,q3,70%
+10/01/2012,"12 Lyons Street, Newcastle",Dublin,205000.0,No,Newcastle,Co. Dublin,q2,40%
+25/01/2012,"85 Aylmer Road, Newcastle, Co. Dublin",Dublin,150000.0,No,Newcastle,Co. Dublin,q1,20%
+02/02/2012,"38 Newcastle Manor Square, Newcastle",Dublin,82000.0,No,Newcastle,Co. Dublin,q1,10%
+16/02/2012,"Corner Park, Newcastle",Dublin,180000.0,No,Newcastle,Co. Dublin,q2,30%
+19/04/2012,"20 Aylmer Road, Newcastle",Dublin,165000.0,No,Newcastle,Co. Dublin,q1,30%
+15/06/2012,"25 Burgage Green, Newcastle Lyons, Newcastle",Dublin,170000.0,Yes,Newcastle,Co. Dublin,q1,30%
+19/06/2012,"11 Glebe Close, Newcastle, County Dublin",Dublin,250000.0,No,Newcastle,Co. Dublin,q3,60%
+22/06/2012,"'Oriel', 1  Finnstown Fairways, Newcastle Road  Lucan",Dublin,372500.0,No,Newcastle,Co. Dublin,q4,100%
+17/07/2012,"7 Burgage Street, Newcastle",Dublin,136564.0,Yes,Newcastle,Co. Dublin,q1,20%
+02/11/2012,"3 Burage Crescent, Newcastle, Co. Dublin",Dublin,180000.0,No,Newcastle,Co. Dublin,q2,30%
+16/11/2012,"11  Burgage Green, Newcastle",Dublin,147874.0,Yes,Newcastle,Co. Dublin,q1,20%
+27/11/2012,"11 Newcastle Manor Square, Newcastle",Dublin,167000.0,No,Newcastle,Co. Dublin,q1,30%
+06/12/2012,"53 Newcastle Manor Square, Newcastle",Dublin,188000.0,No,Newcastle,Co. Dublin,q2,40%
+12/12/2012,"73 Aylmer Road, Newcastle",Dublin,170000.0,No,Newcastle,Co. Dublin,q1,30%
+14/12/2012,"1 Burgage Street, Newcastle",Dublin,130000.0,Yes,Newcastle,Co. Dublin,q1,20%
+19/12/2012,"62 Newcastle Boulevard, Newcastle",Dublin,149780.0,Yes,Newcastle,Co. Dublin,q1,20%
+20/12/2012,"11 Ballynakelly Court, Newcastle",Dublin,154185.02,Yes,Newcastle,Co. Dublin,q1,20%
+20/12/2012,"29 Newcastle Boulevard, Newcastle",Dublin,139207.04,Yes,Newcastle,Co. Dublin,q1,20%
+20/12/2012,"83 Newcastle Manor Square, Newcastle",Dublin,120000.0,No,Newcastle,Co. Dublin,q1,20%
+20/12/2012,"Apartment 44, The Grove  Hanstead, Newcastle Rd Lucan",Dublin,167356.82,Yes,Newcastle,Co. Dublin,q1,30%
+21/12/2012,"2 Ballynakelly Rise, Newcastle Lyons, Newcastle",Dublin,117000.0,Yes,Newcastle,Co. Dublin,q1,20%
+18/01/2013,"42 Newcastle Boulevard, Newcastle",Dublin,125110.13,Yes,Newcastle,Co. Dublin,q1,20%
+15/03/2013,"9 Burgage Street, Newcastle Lyons, Newcastle",Dublin,160000.0,Yes,Newcastle,Co. Dublin,q1,20%
+26/03/2013,"5 Parsons Court, Newcastle",Dublin,90749.0,Yes,Newcastle,Co. Dublin,q1,10%
+27/03/2013,"26 Parsons Court, Newcastle",Dublin,96476.0,Yes,Newcastle,Co. Dublin,q1,10%
+28/03/2013,"45 Parsons Court, Newcastle",Dublin,185022.03,Yes,Newcastle,Co. Dublin,q2,40%
+05/04/2013,"38 The Grove, Hanstead, Newcastle Road  Lucan",Dublin,184950.0,Yes,Newcastle,Co. Dublin,q2,30%
+12/04/2013,"11 Burgage Street, Newcastle Lyons, Newcastle",Dublin,105000.0,No,Newcastle,Co. Dublin,q1,10%
+16/04/2013,"Apartment 16, Parsons Court, Newcastle",Dublin,105186.0,Yes,Newcastle,Co. Dublin,q1,10%
+18/04/2013,"4 Parsons Court, Newcastle",Dublin,102750.0,Yes,Newcastle,Co. Dublin,q1,10%
+29/05/2013,"1 Burgage Crescent, Mewcastle Lyons, Newcastle",Dublin,167400.88,Yes,Newcastle,Co. Dublin,q1,30%
+30/05/2013,"5 Burgage Green, Newcastle, Co Dublin",Dublin,105727.0,Yes,Newcastle,Co. Dublin,q1,10%
+30/05/2013,"7 Burgage Green, Newcastle",Dublin,138766.0,Yes,Newcastle,Co. Dublin,q1,20%
+07/06/2013,"West Lodge, Brownstown, Newcastle",Dublin,410000.0,No,Newcastle,Co. Dublin,q4,100%
+18/06/2013,"45 The Grove, Hanstead  Haydens Lane, Newcastle Road",Dublin,100100.0,Yes,Newcastle,Co. Dublin,q1,10%
+26/06/2013,"11 Parsons Court, Newcastle, Co Dublin",Dublin,111000.0,Yes,Newcastle,Co. Dublin,q1,10%
+27/06/2013,"28 Parsons Court, Newcastle",Dublin,93392.0,Yes,Newcastle,Co. Dublin,q1,10%
+16/07/2013,"24Parson'S Court, Newcastle, County Dublin",Dublin,106000.0,Yes,Newcastle,Co. Dublin,q1,10%
+22/07/2013,"34 Newcastle Boulevard, Newcastle",Dublin,123348.0,Yes,Newcastle,Co. Dublin,q1,20%
+25/07/2013,"1 Burbage Green, Newcastle",Dublin,114537.0,Yes,Newcastle,Co. Dublin,q1,10%
+25/07/2013,"63 Newcastle Boulevard, Newcastle",Dublin,79295.0,Yes,Newcastle,Co. Dublin,q1,10%
+26/07/2013,"21 Parsons Court, Newcastle, Dublin",Dublin,109000.0,Yes,Newcastle,Co. Dublin,q1,10%
+26/07/2013,"30 Parsons Court, Newcastle, County Dublin",Dublin,101035.0,Yes,Newcastle,Co. Dublin,q1,10%
+02/08/2013,"8 Parsons Court, Newcastle",Dublin,90749.0,Yes,Newcastle,Co. Dublin,q1,10%
+12/08/2013,"3 The Drive, Aylmer Heath, Newcastle",Dublin,215859.03,Yes,Newcastle,Co. Dublin,q2,50%
+16/08/2013,"54 Aylmer Road, Newcastle",Dublin,147000.0,No,Newcastle,Co. Dublin,q1,20%
+29/08/2013,"10 Lyons Street, Newcastle, Co. Dublin",Dublin,177974.0,Yes,Newcastle,Co. Dublin,q2,30%
+30/08/2013,"28 Newcastle Boulevard, Newcastle",Dublin,83700.0,Yes,Newcastle,Co. Dublin,q1,10%
+11/09/2013,"28 The Grove, Hanstead  Newcastle, Co. Dublin",Dublin,189950.0,Yes,Newcastle,Co. Dublin,q2,40%
+11/09/2013,"5 Ballynakelly Mews, Newcastle",Dublin,134361.0,Yes,Newcastle,Co. Dublin,q1,20%
+16/09/2013,"The Hatch Bar, Hazelhatch, Newcastle",Dublin,65000.0,No,Newcastle,Co. Dublin,q1,10%
+24/09/2013,"27 The Grove, Hanstead, Newcastle Road",Dublin,184950.0,Yes,Newcastle,Co. Dublin,q2,30%
+07/10/2013,"15  Main Street, Newcastle",Dublin,182000.0,No,Newcastle,Co. Dublin,q2,30%
+11/10/2013,"21 Glebe Square, The Glebe, Newcastle",Dublin,121500.0,No,Newcastle,Co. Dublin,q1,20%
+05/11/2013,"33 The Grove, Hanstead, Newcastle Road",Dublin,146000.0,Yes,Newcastle,Co. Dublin,q1,20%
+18/11/2013,"22 Ballynakelly Green, Newcastle, Dublin",Dublin,170000.0,No,Newcastle,Co. Dublin,q1,30%
+10/12/2013,"Acron Lodge, Hazelhatch, Newcastle",Dublin,372000.0,No,Newcastle,Co. Dublin,q4,100%
+11/12/2013,"32 The Grove, Hanstead, Newcastle Road  Lucan",Dublin,176000.0,Yes,Newcastle,Co. Dublin,q2,30%
+12/12/2013,"1 Parsons Court, Newcastle",Dublin,94806.11,Yes,Newcastle,Co. Dublin,q1,10%
+17/12/2013,"35 Glebe Sq, Newcastle, Dublin",Dublin,210000.0,No,Newcastle,Co. Dublin,q2,40%
+17/12/2013,"36 Glebe Sq, Newcastle, Dublin",Dublin,210000.0,No,Newcastle,Co. Dublin,q2,40%
+17/12/2013,"38 Glebe Sq, Newcastle, Dublin",Dublin,210000.0,No,Newcastle,Co. Dublin,q2,40%
+17/12/2013,"39 Glebe Sq, Newcastle, Dublin",Dublin,210000.0,No,Newcastle,Co. Dublin,q2,40%
+20/12/2013,"27 Lyons Avenue North, Newcastle, Co Dublin",Dublin,75000.0,No,Newcastle,Co. Dublin,q1,10%
+20/12/2013,"29 Crosforge, Saggart, Newcastle",Dublin,222466.95,Yes,Newcastle,Co. Dublin,q2,50%
+20/12/2013,"5  Ballynakelly Rise, Newcastle",Dublin,85000.0,Yes,Newcastle,Co. Dublin,q1,10%
+30/01/2014,"29 Parsons Court, Newcastle",Dublin,109500.0,Yes,Newcastle,Co. Dublin,q1,10%
+20/02/2014,"4 Castleyon Avenue, Newcastle, Co.Dublin",Dublin,170000.0,Yes,Newcastle,Co. Dublin,q1,30%
+03/03/2014,"102 Aylmer Rd, Newcastle, Dublin",Dublin,170000.0,No,Newcastle,Co. Dublin,q1,30%
+06/03/2014,"5 Castlelyon Drive, Newcastle",Dublin,170000.0,Yes,Newcastle,Co. Dublin,q1,30%
+14/03/2014,"34 Castlelyon Ave., Newcastle, Co.Dublin",Dublin,200000.0,Yes,Newcastle,Co. Dublin,q2,40%
+21/03/2014,"12 Castlelyon Dr, Newcastle, Dublin",Dublin,160000.0,No,Newcastle,Co. Dublin,q1,20%
+26/03/2014,"16 The Grove, Hanstead, Newcastle Road  Lucan",Dublin,181762.11,Yes,Newcastle,Co. Dublin,q2,30%
+26/03/2014,"17 The Grove, Hanstead, Newcastle Road  Lucan",Dublin,200000.0,Yes,Newcastle,Co. Dublin,q2,40%
+03/04/2014,"53 The Grove, Hanstead, Newcastle Road  Lucan",Dublin,155330.39,Yes,Newcastle,Co. Dublin,q1,20%
+04/04/2014,"15 The Drive, Aylmer Heath, Newcastle",Dublin,249950.0,Yes,Newcastle,Co. Dublin,q3,60%
+04/04/2014,"43 Newcastle Manor Sq, Newcastle, Dublin",Dublin,191000.0,No,Newcastle,Co. Dublin,q2,40%
+10/04/2014,"5 Castlelyon Green, Newcastle, Dublin",Dublin,188000.0,No,Newcastle,Co. Dublin,q2,40%
+11/04/2014,"1 Pine Hall, Main Street, Newcastle",Dublin,392000.0,Yes,Newcastle,Co. Dublin,q4,100%
+15/04/2014,"3 Castlelyon Green, Newcastle",Dublin,185000.0,Yes,Newcastle,Co. Dublin,q2,30%
+17/04/2014,"10 Castlelyon Green, Newcastle, Dublin",Dublin,162995.59,No,Newcastle,Co. Dublin,q1,30%
+24/04/2014,"22 Ballynakelly Court, Newcastle Lyons",Dublin,146256.0,Yes,Newcastle,Co. Dublin,q1,20%
+25/04/2014,"3 Castlelyon Drive, Newcastle, County Dublin",Dublin,235000.0,Yes,Newcastle,Co. Dublin,q2,50%
+02/05/2014,"1  Ballynakelly Rise, Newcastle",Dublin,110132.15,Yes,Newcastle,Co. Dublin,q1,10%
+06/05/2014,"Dayne House, Hazelhatch Road, Newcastle",Dublin,372000.0,No,Newcastle,Co. Dublin,q4,100%
+07/05/2014,"57 Newcastle Manor Sq, Main St, Newcastle",Dublin,145000.0,No,Newcastle,Co. Dublin,q1,20%
+09/05/2014,"Apartment 7  Lyons Avenue, Newcastle Lyons, Newcastle",Dublin,114537.44,Yes,Newcastle,Co. Dublin,q1,20%
+21/05/2014,"13 Castlelyon Ave, Newcastle, Dublin",Dublin,195000.0,No,Newcastle,Co. Dublin,q2,40%
+03/06/2014,"3 The Glebe Close, Newcastle, Dublin",Dublin,145000.0,No,Newcastle,Co. Dublin,q1,20%
+13/06/2014,"52 Ballynakelly Green, Newcastle",Dublin,264317.0,Yes,Newcastle,Co. Dublin,q3,60%
+19/06/2014,"24 Castlelyon Ave, Newcastle, Dublin",Dublin,218000.0,No,Newcastle,Co. Dublin,q2,50%
+20/06/2014,"64 Ballynakelly Green, Newcastle, Dublin",Dublin,400000.0,No,Newcastle,Co. Dublin,q4,100%
+20/06/2014,"The Paddock, Peamount Rd, Newcastle",Dublin,650000.0,No,Newcastle,Co. Dublin,q4,100%
+08/07/2014,"2 Pine Hall, Main Street, Newcastle",Dublin,358407.07,Yes,Newcastle,Co. Dublin,q4,100%
+15/07/2014,"10 Castlelyon Avenue, Newcastle",Dublin,185022.02,Yes,Newcastle,Co. Dublin,q2,40%
+16/07/2014,"61 The Grove, Hanstead, Newcastle Road",Dublin,159736.0,Yes,Newcastle,Co. Dublin,q1,20%
+16/07/2014,"Unit 1, The Grove  Hanstead, Newcastle Road  Lucan",Dublin,154950.0,Yes,Newcastle,Co. Dublin,q1,20%
+11/08/2014,"6 Ballynakelly View, Newcastle, County Dublin",Dublin,370000.0,Yes,Newcastle,Co. Dublin,q4,100%
+14/08/2014,"8 Newcastle Manor Sq, Newcastle, Dublin",Dublin,165000.0,No,Newcastle,Co. Dublin,q1,30%
+20/08/2014,"15 Ballnakelly Green, Newcastle, Co Dublin",Dublin,202643.0,Yes,Newcastle,Co. Dublin,q2,40%
+22/08/2014,"12 The Grove, Hanstead, Newcastle Road  Lucan",Dublin,199383.0,Yes,Newcastle,Co. Dublin,q2,40%
+27/08/2014,"23 Lyons St, Newcastle, Dublin",Dublin,235000.0,No,Newcastle,Co. Dublin,q2,50%
+09/09/2014,"11 Ballynakelly Green, Newcastle",Dublin,234000.0,No,Newcastle,Co. Dublin,q2,50%
+15/09/2014,"45 Newcastle Manor Sq, Newcastle Manor, Newcastle Dublin 22",Dublin,250000.0,No,Newcastle,Co. Dublin,q3,60%
+23/09/2014,"Unit 11 The Grove, Hanstead, Newcastle Road",Dublin,136519.0,Yes,Newcastle,Co. Dublin,q1,20%
+26/09/2014,"11 Castlelyon Dr, Newcastle, Dublin",Dublin,185000.0,No,Newcastle,Co. Dublin,q2,30%
+26/09/2014,"14 Castlelyon Green, Newcastle",Dublin,198237.88,Yes,Newcastle,Co. Dublin,q2,40%
+02/10/2014,"No. 9 The Grove  Hanstead, Newcastle Road  Lucan, Co Dublin",Dublin,203700.0,Yes,Newcastle,Co. Dublin,q2,40%
+23/10/2014,"1 Ballynakelly Court, Newcastle Lyons",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"11 Newcastle Boulevard, Newcastle Lyons",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"15 Newcastle Boulevard, Newcastle Lyons",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"17 Newcastle Boulevard, Newcastle Lyons",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"19 Newcastle Boulevard, Newcastle Lyons",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"2 Ballynakelly Court, Newcastle Lyons",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"2 Ballynakelly Green, Newcastle",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"21 Newcastle Boulevard, Newcastle Lyons",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"3 Ballynakelly Court, Newcastle Lyons",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"4 Ballynakelly Court, Newcastle Lyons",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"4 Ballynakelly Green, Newcastle",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"6 Ballynakelly Green, Newcastle",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"8 Ballynakelly Green, Newcastle",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"8 Ballynakelly Green, Newcastle",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+23/10/2014,"9 Newcastle Boulevard, Newcastle Lyons",Dublin,58333.0,Yes,Newcastle,Co. Dublin,q1,10%
+05/11/2014,"60 The Grove, Hanstead  Haydens Lane, Newcastle Road  Lucan",Dublin,233481.0,Yes,Newcastle,Co. Dublin,q2,50%
+18/11/2014,"14 The Grove, Hanstead, Newcastle Road",Dublin,247696.0,Yes,Newcastle,Co. Dublin,q3,60%
+18/11/2014,"42 Castlelyon Ave, Newcastle, Dublin",Dublin,233480.0,No,Newcastle,Co. Dublin,q2,50%
+04/12/2014,"19 Castlelyon Avenue, Newcastle, Co Dublin",Dublin,242290.0,Yes,Newcastle,Co. Dublin,q3,60%
+10/12/2014,"4 Castlelyon Green, Newcastle, Dublin",Dublin,171806.16,No,Newcastle,Co. Dublin,q2,30%
+18/12/2014,"16 Castlelyon Ave, Newcastle, Dublin",Dublin,250000.0,No,Newcastle,Co. Dublin,q3,60%
+19/12/2014,"6 Newcastle Manor Heights, Newcastle, Dublin",Dublin,232500.0,No,Newcastle,Co. Dublin,q2,50%
+22/12/2014,"15 Newcastle Manor Crescent, Newcastle, Dublin",Dublin,255000.0,No,Newcastle,Co. Dublin,q3,60%
+22/12/2014,"41 Newcastle Boulevard, Newcastle Lyons, Dublin",Dublin,87020.0,No,Newcastle,Co. Dublin,q1,10%
+13/01/2015,"69 Newcastle Manor Sq, Newcastle, Dublin",Dublin,240000.0,No,Newcastle,Co. Dublin,q2,50%
+20/01/2015,"3 Pine Hall, Main Street, Newcastle",Dublin,361233.0,Yes,Newcastle,Co. Dublin,q4,100%
+27/01/2015,"7 Newcastle Manor Rise, Newcastle, Dublin",Dublin,263000.0,No,Newcastle,Co. Dublin,q3,60%
+30/01/2015,"4 The Close, Newcastle Manor, Newcastle",Dublin,250000.0,No,Newcastle,Co. Dublin,q3,60%
+05/02/2015,"32 Castlelyon Avenue, Newcastle",Dublin,185022.02,Yes,Newcastle,Co. Dublin,q2,40%
+23/02/2015,"9 Newcastle Manor Place, Rathcoole Rd, Newcastle",Dublin,186000.0,No,Newcastle,Co. Dublin,q2,40%
+12/05/2015,"14 Newcastle Manor Cresent, Newcastle, Dublin",Dublin,136000.0,No,Newcastle,Co. Dublin,q1,20%
+28/05/2015,"12 Ballynakelly Court, Newcastle, Dublin",Dublin,260000.0,No,Newcastle,Co. Dublin,q3,60%
+22/06/2015,"17 Lyons St, Newcastle, Co Dublin",Dublin,205000.0,No,Newcastle,Co. Dublin,q2,40%
+09/07/2015,"58 Newcastle Blvd, Newcastle, Dublin",Dublin,210000.0,No,Newcastle,Co. Dublin,q2,50%
+29/07/2015,"26 Newcastle Manor Park, Newcastle, Dublin",Dublin,215000.0,No,Newcastle,Co. Dublin,q2,50%
+30/07/2015,"52 Newcastle Manor Sq, Newcastle, Dublin",Dublin,322000.0,No,Newcastle,Co. Dublin,q4,90%
+20/08/2015,"8 Orchard Grove, Newcastle, Dublin",Dublin,286000.0,No,Newcastle,Co. Dublin,q3,70%
+24/09/2015,"28 Newcastle Manor Sq, Newcastle, Dublin",Dublin,242000.0,No,Newcastle,Co. Dublin,q3,60%
+23/10/2015,"Athgoe, Newcastle, Dublin 22",Dublin,570000.0,No,Newcastle,Co. Dublin,q4,100%
+20/11/2015,"4 Ballynakelly Rise, Newcastle Lyons, Newcastle",Dublin,116000.0,No,Newcastle,Co. Dublin,q1,20%
+16/12/2015,"74 Newcastle Manor Square, Newcastle, Dublin",Dublin,240000.0,No,Newcastle,Co. Dublin,q2,50%
+13/01/2016,"Larkspur, Colemanstown, Newcastle",Dublin,285000.0,No,Newcastle,Co. Dublin,q3,70%
+22/01/2016,"4 Pine Hall, Main Street, Newcastle",Dublin,378855.0,Yes,Newcastle,Co. Dublin,q4,100%
+08/02/2016,"2 The Elm, Peamount Rd, Newcastle",Dublin,284550.0,No,Newcastle,Co. Dublin,q3,70%
+19/02/2016,"Loughtown Lower, Brownstown, Newcastle",Dublin,400000.0,No,Newcastle,Co. Dublin,q4,100%
+06/04/2016,"29 Lyons St, Newcastle Lyons, Co Dublin",Dublin,202000.0,No,Newcastle,Co. Dublin,q2,40%
+28/04/2016,"19 Burgage Cresent, Newcastle Dublin, Dublin",Dublin,269000.0,No,Newcastle,Co. Dublin,q3,70%
+09/05/2016,"49 Newcastle Blvd, Newcastle Lyons, Newcastle",Dublin,250000.0,No,Newcastle,Co. Dublin,q3,60%
+10/05/2016,"22 Castlelyon Ave, Newcastle, Dublin",Dublin,205000.0,No,Newcastle,Co. Dublin,q2,40%
+13/05/2016,"5 The Rise, Newcastle Manor, Newcastle",Dublin,237000.0,No,Newcastle,Co. Dublin,q2,50%
+08/06/2016,"7 Glebe Sq, Newcastle Glebe, Newcastle",Dublin,345000.0,No,Newcastle,Co. Dublin,q4,90%
+15/06/2016,"12 Main St, Newcastle, Dublin",Dublin,285000.0,No,Newcastle,Co. Dublin,q3,70%
+16/06/2016,"67 Newcastle Manor Sq, Newcastle, Dublin 22",Dublin,205000.0,No,Newcastle,Co. Dublin,q2,40%
+16/06/2016,"Santa Maria, Peamount Rd, Newcastle",Dublin,296000.0,No,Newcastle,Co. Dublin,q3,80%
+15/07/2016,"17 Lyons Ave, South Newcastle, Dublin",Dublin,180000.0,No,Newcastle,Co. Dublin,q2,30%
+22/07/2016,"11 Newcastle Manor Crescent, Newcastle, Dublin",Dublin,214000.0,No,Newcastle,Co. Dublin,q2,50%
+26/07/2016,"6 The Crescent, Newcastle Manor, Newcastle",Dublin,140000.0,No,Newcastle,Co. Dublin,q1,20%
+22/08/2016,"8 The Place, Newcastle Manor, Newcastle",Dublin,190000.0,No,Newcastle,Co. Dublin,q2,40%
+23/08/2016,"14 Ballynakelly, Court Newcastle, Dublin",Dublin,270000.0,No,Newcastle,Co. Dublin,q3,70%
+06/09/2016,"2 Aylmer Rd, Newcastle, Dublin",Dublin,302000.0,No,Newcastle,Co. Dublin,q3,80%
+14/09/2016,"27 Ballynakelly Green, Newcastle, Dublin",Dublin,270000.0,No,Newcastle,Co. Dublin,q3,70%
+17/10/2016,"29 Newcastle Manor Sq, Newcastle, Dublin",Dublin,245000.0,No,Newcastle,Co. Dublin,q3,60%
+26/10/2016,"7 Ballynakelly Cottages, Newcastle, Co Dublin",Dublin,330000.0,No,Newcastle,Co. Dublin,q4,90%
+09/12/2016,"29 Newcastle Blvd, Newcastle, Dublin",Dublin,249000.0,No,Newcastle,Co. Dublin,q3,60%
+21/12/2016,"65 Newcastle Manor Sq, Newcastle, Dublin",Dublin,179000.0,No,Newcastle,Co. Dublin,q2,30%
+22/12/2016,"Athgoe South, Newcastle, Dublin",Dublin,300000.0,No,Newcastle,Co. Dublin,q3,80%
+10/01/2017,"2 Peamount Road, Newcastle, Co Dublin",Dublin,120000.0,No,Newcastle,Co. Dublin,q1,20%
+17/01/2017,"57 Newcastle Manor Sq, Main St, Newcastle",Dublin,215000.0,No,Newcastle,Co. Dublin,q2,50%
+20/01/2017,"32 Lyons Rd, Newcastle, Dublin",Dublin,275000.0,No,Newcastle,Co. Dublin,q3,70%
+09/02/2017,"2 Ballynakelly Rise, Newcastle, Dublin",Dublin,215000.0,No,Newcastle,Co. Dublin,q2,50%
+20/02/2017,"25 Lyons Ave North, Newcastle Lyons, Newcastle",Dublin,139500.0,No,Newcastle,Co. Dublin,q1,20%
+24/03/2017,"3 Hazelhatch Road, Newcastle, County Dublin",Dublin,256000.0,No,Newcastle,Co. Dublin,q3,60%
+12/04/2017,"6 Castlelyon Green, Newcastle, Dublin",Dublin,255000.0,No,Newcastle,Co. Dublin,q3,60%
+15/05/2017,"8 Glebe Close, Newcastle, Dublin",Dublin,237500.0,No,Newcastle,Co. Dublin,q2,50%
+13/06/2017,"3 Newcastle Manor Crescent, Newcastle, Dublin",Dublin,256000.0,No,Newcastle,Co. Dublin,q3,60%
+21/06/2017,"7 Lyons Lane, Newcastle Lyons, Newcastle",Dublin,215000.0,No,Newcastle,Co. Dublin,q2,50%
+28/06/2017,"Woodlands, Athgoe, Newcastle",Dublin,745000.0,No,Newcastle,Co. Dublin,q4,100%
+04/07/2017,"21 Burgage Green, Newcastle, Dublin",Dublin,290000.0,No,Newcastle,Co. Dublin,q3,70%
+04/07/2017,"6 Aylmer Rd, Newcastle, Dublin",Dublin,275000.0,No,Newcastle,Co. Dublin,q3,70%
+04/08/2017,"10 Castlelyon Ave, Newcastle, Dublin",Dublin,258000.0,No,Newcastle,Co. Dublin,q3,60%
+04/08/2017,"4 Ballynakelly Rise, Newcastle Lyons, Newcastle",Dublin,161000.0,No,Newcastle,Co. Dublin,q1,20%
+29/09/2017,"8 Castlelyon Green, Newcastle, Dublin",Dublin,260000.0,No,Newcastle,Co. Dublin,q3,60%
+04/10/2017,"7 Lyons Avenue, Newcastle Lyons, Newcastle",Dublin,222500.0,Yes,Newcastle,Co. Dublin,q2,50%
+12/10/2017,"5 Newcastle Manor Place, Newcastle Manor, Newcastle",Dublin,170000.0,No,Newcastle,Co. Dublin,q1,30%
+06/11/2017,"38 Castlelyon Ave, Newcastle, Dublin",Dublin,255000.0,No,Newcastle,Co. Dublin,q3,60%
+14/11/2017,"1 Old Ballynakelly, Newcastle, Co Dublin",Dublin,180000.0,No,Newcastle,Co. Dublin,q2,30%
+07/12/2017,"12 Castlechurch Park, Newcastle",Dublin,321585.9,Yes,Newcastle,Co. Dublin,q4,80%
+07/12/2017,"7 Castlechurch Drive, Main Street Newcastle",Dublin,277533.0,Yes,Newcastle,Co. Dublin,q3,70%
+07/12/2017,"8 Castle Church Park, Newcastle",Dublin,321585.9,Yes,Newcastle,Co. Dublin,q4,80%
+08/12/2017,"3 Castlechurch Park, Newcastle, Co. Dublin",Dublin,321586.0,Yes,Newcastle,Co. Dublin,q4,90%
+13/12/2017,"10 Castlechurch Park, Newcastle, Co. Dublin",Dublin,321586.0,Yes,Newcastle,Co. Dublin,q4,90%
+13/12/2017,"18 Castlechurch Park, Newcastle",Dublin,296587.5,Yes,Newcastle,Co. Dublin,q3,80%
+14/12/2017,"16 Castlechurch Park, Newcastle",Dublin,273127.0,Yes,Newcastle,Co. Dublin,q3,70%
+14/12/2017,"2 Castlechurch Park, Newcastle, Co. Dublin",Dublin,334801.76,Yes,Newcastle,Co. Dublin,q4,90%
+14/12/2017,"6 Castlechurch Park, Newcastle",Dublin,321586.0,Yes,Newcastle,Co. Dublin,q4,90%
+15/12/2017,"9 Castlechurch Park, Newcastle",Dublin,315000.0,Yes,Newcastle,Co. Dublin,q4,80%
+20/12/2017,"21 The Green, Newcastle Manor, Newcastel",Dublin,220000.0,No,Newcastle,Co. Dublin,q2,50%
+21/12/2017,"33 Lyons St, Newcastle Lyons, Newcastle",Dublin,162000.0,No,Newcastle,Co. Dublin,q1,30%
+21/12/2017,"71 Mewcastle Manor Sq, Newcastle, Dublin",Dublin,170000.0,No,Newcastle,Co. Dublin,q1,30%
+22/12/2017,"9 Ballynakelly Mews, Newcastle, Dublin",Dublin,10000.0,No,Newcastle,Co. Dublin,q1,10%
+03/01/2018,"No. 3 Castlechurch Drive, Castlechurch, Newcastle",Dublin,281939.0,Yes,Newcastle,Co. Dublin,q3,70%
+18/01/2018,"6 Castlechurch Drive, Newcastle",Dublin,277533.0,Yes,Newcastle,Co. Dublin,q3,70%
+26/01/2018,"10 Hansted Place, Newcastle Rd Lucan, Dublin",Dublin,259000.0,No,Newcastle,Co. Dublin,q3,60%
+02/02/2018,"Hazelhatch House, Hazelhatch, Newcastle",Dublin,590000.0,No,Newcastle,Co. Dublin,q4,100%
+12/02/2018,"31Newcastle Blvd, Newcastle, Dublin",Dublin,205000.0,No,Newcastle,Co. Dublin,q2,40%
+21/02/2018,"67 Alymer Rd, Newcastle, Dublin",Dublin,285000.0,No,Newcastle,Co. Dublin,q3,70%
+09/03/2018,"19 Burgage Green, Newcastle Lyons, Newcastle",Dublin,227000.0,No,Newcastle,Co. Dublin,q2,50%
+09/03/2018,"35 Newcastle Manor Sq, Newcastle, Dublin",Dublin,243000.0,No,Newcastle,Co. Dublin,q3,60%
+13/03/2018,"15 Alymer Road, Newcastle, Dublin 22",Dublin,275000.0,No,Newcastle,Co. Dublin,q3,70%
+21/03/2018,"Whitethorn Lodge, Hazelhatch Road, Newcastle",Dublin,399000.0,No,Newcastle,Co. Dublin,q4,100%
+10/04/2018,"5 Castlechurch Drive, Newcastle, Co. Dublin",Dublin,330000.0,Yes,Newcastle,Co. Dublin,q4,90%
+12/04/2018,"5 Ballynakelly Edge, Newcastle Lyons, Newcastle",Dublin,208000.0,No,Newcastle,Co. Dublin,q2,40%
+17/04/2018,"7 Castlechurch Park, Newcastle, Co. Dublin.",Dublin,273127.75,Yes,Newcastle,Co. Dublin,q3,70%
+27/04/2018,"11 Castlechurch Park, Newcastle, Co. Dublin",Dublin,325000.0,Yes,Newcastle,Co. Dublin,q4,90%
+16/05/2018,"33 Parsons Court, Newcastle, Dublin",Dublin,395000.0,No,Newcastle,Co. Dublin,q4,100%
+25/06/2018,"14 Glebe Sq, Newcastle, Dublin",Dublin,205000.0,No,Newcastle,Co. Dublin,q2,40%
+29/06/2018,"1 Ballynakelly Edge, Newcastle Lyons, Newcastle",Dublin,245000.0,No,Newcastle,Co. Dublin,q3,60%
+06/07/2018,"14 Castlechurch Park, Newcastle",Dublin,303965.0,Yes,Newcastle,Co. Dublin,q4,80%
+13/07/2018,"108 Aylmer Road, Newcastle, Co Dublin",Dublin,308000.0,No,Newcastle,Co. Dublin,q4,80%
+13/07/2018,"11 The Grove, Hanstead, Newcastle Road",Dublin,254000.0,No,Newcastle,Co. Dublin,q3,60%
+17/07/2018,"9 Main St, Newcastle, Co Dublin",Dublin,310000.0,No,Newcastle,Co. Dublin,q4,80%
+14/08/2018,"4 Peamount Road, Newcastle, Dublin 22",Dublin,315000.0,No,Newcastle,Co. Dublin,q4,80%
+20/08/2018,"6 Castlechurch Avenue, Newcastle, Dublin",Dublin,330396.48,Yes,Newcastle,Co. Dublin,q4,90%
+22/08/2018,"12 Castlechurch Avenue, Newcastle",Dublin,343613.0,Yes,Newcastle,Co. Dublin,q4,90%
+22/08/2018,"2 Castlechurch Avenue, Newcastle",Dublin,385000.0,Yes,Newcastle,Co. Dublin,q4,100%
+24/08/2018,"10 Castlechurch Avenue, Newcastle",Dublin,330397.0,Yes,Newcastle,Co. Dublin,q4,90%
+28/08/2018,"Millicent Lodge, Brownstown, Newcastle",Dublin,600000.0,No,Newcastle,Co. Dublin,q4,100%
+07/09/2018,"9 Castlechurch Drive, Newcastle",Dublin,286343.61,Yes,Newcastle,Co. Dublin,q3,70%
+11/09/2018,"19 Ballynakelly Court, Newcastle, Dublin",Dublin,270000.0,No,Newcastle,Co. Dublin,q3,70%
+13/09/2018,"2 Castlechurch Drive, Newcastle",Dublin,339207.0,Yes,Newcastle,Co. Dublin,q4,90%
+13/09/2018,"4 Castlechurch Avenue, Newcastle, Dublin",Dublin,330396.47,Yes,Newcastle,Co. Dublin,q4,90%
+21/09/2018,"17 The Drive, Aylmer Heath, Newcastle",Dublin,175770.92,Yes,Newcastle,Co. Dublin,q2,30%
+21/09/2018,"19, Somerton Grove, Newcastle Road",Dublin,286400.0,Yes,Newcastle,Co. Dublin,q3,70%
+21/09/2018,"5 Castlechurch Park, Newcastle, Co. Dublin",Dublin,339207.05,Yes,Newcastle,Co. Dublin,q4,90%
+27/09/2018,"32 The Grove, Hanstead, Newcastle Road",Dublin,313000.0,No,Newcastle,Co. Dublin,q4,80%
+03/10/2018,"5 The Drive, Aylmer Heath, Newcastle",Dublin,323348.02,Yes,Newcastle,Co. Dublin,q4,90%
+05/10/2018,"1  Castlechutch Drive, Newcastle",Dublin,330396.48,Yes,Newcastle,Co. Dublin,q4,90%
+05/10/2018,"1 Castlechurch Avenue, Newcastle",Dublin,290749.0,Yes,Newcastle,Co. Dublin,q3,80%
+10/10/2018,"3 Castle Church Avenue, Churchfields, Newcastle",Dublin,273128.0,Yes,Newcastle,Co. Dublin,q3,70%
+12/10/2018,"85 The Square, Newcastle Manor, Newcastle",Dublin,335000.0,No,Newcastle,Co. Dublin,q4,90%
+18/10/2018,"10 Castlechurch Drive, Newcastle",Dublin,334802.0,Yes,Newcastle,Co. Dublin,q4,90%
+18/10/2018,"4 Market Square, Newcastle, Co. Dublin",Dublin,283237.88,Yes,Newcastle,Co. Dublin,q3,70%
+26/10/2018,"13 Castle Church Avenue, Newcastle, Co. Dublin",Dublin,298425.0,Yes,Newcastle,Co. Dublin,q3,80%
+30/10/2018,"14 Main St, Newcastle, Dublin",Dublin,320000.0,No,Newcastle,Co. Dublin,q4,80%
+05/11/2018,"42 Parsons Court, Newcastle, Dublin",Dublin,390000.0,No,Newcastle,Co. Dublin,q4,100%
+05/11/2018,"5 Castlechurch Avenue, Newcastle",Dublin,286343.61,Yes,Newcastle,Co. Dublin,q3,70%
+06/11/2018,"11 Castlechurch Avenue, Newcastle, Co. Dublin",Dublin,295154.18,Yes,Newcastle,Co. Dublin,q3,80%
+07/11/2018,"73 Adamstown Ave, Newcastle Rd, Dublin",Dublin,240000.0,No,Newcastle,Co. Dublin,q2,50%
+15/11/2018,"22 Newcastle Lyons, Newcastle",Dublin,345000.0,Yes,Newcastle,Co. Dublin,q4,90%
+15/11/2018,"24 Newcastle Lyons, Newcastle",Dublin,345000.0,Yes,Newcastle,Co. Dublin,q4,90%
+15/11/2018,"26 Newcastle Lyons, Newcastle",Dublin,345000.0,Yes,Newcastle,Co. Dublin,q4,90%
+15/11/2018,"28 Newcastle Lyons, Newcastle",Dublin,345000.0,Yes,Newcastle,Co. Dublin,q4,90%
+15/11/2018,"43 Newcastle Lyons, Newcastle",Dublin,345000.0,Yes,Newcastle,Co. Dublin,q4,90%
+15/11/2018,"45 Newcastle Lyons, Newcastle",Dublin,345000.0,Yes,Newcastle,Co. Dublin,q4,90%
+15/11/2018,"7 Newcastle Cresent Manor, Newcastle, Dublin",Dublin,252000.0,No,Newcastle,Co. Dublin,q3,60%
+16/11/2018,"8 Market Square, Newcastle",Dublin,286344.0,Yes,Newcastle,Co. Dublin,q3,70%
+16/11/2018,"9 Castlechurch Avenue, Newcastle",Dublin,286344.0,Yes,Newcastle,Co. Dublin,q3,70%
+20/11/2018,"7 Castlechurch Avenue, Newcastle",Dublin,295154.0,Yes,Newcastle,Co. Dublin,q3,80%
+29/11/2018,"12 Castlechurch Close, Newcastle Co Dublin",Dublin,385000.0,Yes,Newcastle,Co. Dublin,q4,100%
+30/11/2018,"13 Newcastle Manor Sq, Newcastle, Dublin",Dublin,240000.0,No,Newcastle,Co. Dublin,q3,60%
+30/11/2018,"15 Castlechurch Avenue, Newcastle",Dublin,318584.07,Yes,Newcastle,Co. Dublin,q4,80%
+06/12/2018,"60 Newcastle Blvd, Newcastle Lyons, Newcastle",Dublin,210000.0,No,Newcastle,Co. Dublin,q2,50%
+07/12/2018,"11 Castlechurch Close, Newcastle",Dublin,308370.0,Yes,Newcastle,Co. Dublin,q4,80%
+07/12/2018,"Commons Little, Newcastle, Co Dublin",Dublin,235000.0,No,Newcastle,Co. Dublin,q2,50%
+11/12/2018,"6 Newcastle Manor Green, Newcastle, Dublin",Dublin,250000.0,No,Newcastle,Co. Dublin,q3,60%
+11/12/2018,"8 Castlechurch Close, Newcastle, County Dublin",Dublin,301081.25,Yes,Newcastle,Co. Dublin,q3,80%
+11/12/2018,"9 Castlechurch Close, Newcastle, County Dublin",Dublin,281938.32,Yes,Newcastle,Co. Dublin,q3,70%
+12/12/2018,"The Cottage, Athgoe, Newcastle",Dublin,360000.0,No,Newcastle,Co. Dublin,q4,100%
+13/12/2018,"12 Market Square, Newcastle, Co Dublin",Dublin,295000.0,Yes,Newcastle,Co. Dublin,q3,80%
+14/12/2018,"10, Somerton Copse, Newcastle Road",Dublin,294100.0,Yes,Newcastle,Co. Dublin,q3,80%
+17/12/2018,"11 Castlelyon Dr, Newcastle, Dublin",Dublin,268000.0,No,Newcastle,Co. Dublin,q3,70%
+17/12/2018,"8 Castlechurch Avenue, Newcastle, Co. Dublin",Dublin,365637.81,Yes,Newcastle,Co. Dublin,q4,100%
+18/12/2018,"5 Glebe Heights, Newcastle, Dublin",Dublin,355000.0,No,Newcastle,Co. Dublin,q4,90%
+20/12/2018,"10 Castlechurch Close, Newcastle",Dublin,295154.18,Yes,Newcastle,Co. Dublin,q3,80%
+20/12/2018,"11 The Drive, Aylmer Heath, Newcastle",Dublin,277532.0,Yes,Newcastle,Co. Dublin,q3,70%
+20/12/2018,"44 Castlelyon Ave, Newcastle, Dublin",Dublin,259500.0,No,Newcastle,Co. Dublin,q3,60%
+21/12/2018,"121 Aylmer Road, Newcastle, County Dublin",Dublin,290000.0,No,Newcastle,Co. Dublin,q3,70%
+09/01/2019,"91 Aylmer Rd, Newcastle, Dublin",Dublin,300000.0,No,Newcastle,Co. Dublin,q3,80%
+14/01/2019,"5 Somerton Copse, Somerton, Newcastle Road",Dublin,290749.0,Yes,Newcastle,Co. Dublin,q3,80%
+21/01/2019,"4 Newcastle Manor Square, Newcastle, Co Dublin",Dublin,252000.0,No,Newcastle,Co. Dublin,q3,60%
+25/01/2019,"Site No. 5, Castlechurch Close, Newcastle",Dublin,312775.33,Yes,Newcastle,Co. Dublin,q4,80%
+15/02/2019,"7 Castlechurch Close, Newcastle, Co. Dublin",Dublin,325991.19,Yes,Newcastle,Co. Dublin,q4,90%
+18/02/2019,"Carraig View, Brownstown, Newcastle",Dublin,530000.0,No,Newcastle,Co. Dublin,q4,100%
+19/02/2019,"10 Market Square, Newcastle",Dublin,286343.61,Yes,Newcastle,Co. Dublin,q3,70%
+21/02/2019,"16 Glebe Sq, Newcastle Glebe, Dublin",Dublin,208000.0,No,Newcastle,Co. Dublin,q2,40%
+27/02/2019,"6 Castlechurch Close, Newcastle, Co Dublin",Dublin,315725.0,Yes,Newcastle,Co. Dublin,q4,80%
+28/02/2019,"13 Castlechurch Park, Newcastle",Dublin,348017.62,Yes,Newcastle,Co. Dublin,q4,90%
+01/03/2019,"16 Market Square, Newcastle",Dublin,266959.0,Yes,Newcastle,Co. Dublin,q3,70%
+01/03/2019,"Ballynakelly, Newcastle, Dublin",Dublin,400000.0,No,Newcastle,Co. Dublin,q4,100%
+06/03/2019,"28 Newcastle Boulevard, Newcastle, Co Dublin",Dublin,190800.0,No,Newcastle,Co. Dublin,q2,40%
+19/03/2019,"24 Market Square, Newcastle, Co. Dublin",Dublin,290748.0,Yes,Newcastle,Co. Dublin,q3,70%
+19/03/2019,"28 Market Square, Newcastle, Co. Dublin",Dublin,290748.0,Yes,Newcastle,Co. Dublin,q3,70%
+29/03/2019,"30 Newcastle Lyons, Newcastle",Dublin,355000.0,Yes,Newcastle,Co. Dublin,q4,90%
+29/03/2019,"34 Newcastle Lyons, Newcastle",Dublin,355000.0,Yes,Newcastle,Co. Dublin,q4,90%
+29/03/2019,"36 Newcastle Lyons, Newcastle",Dublin,355000.0,Yes,Newcastle,Co. Dublin,q4,90%
+29/03/2019,"38 Newcastle Lyons, Newcastle",Dublin,355000.0,Yes,Newcastle,Co. Dublin,q4,100%
+01/04/2019,"3 Castlechurch Close, Newcastle",Dublin,355000.0,Yes,Newcastle,Co. Dublin,q4,100%
+11/04/2019,"41 Newcastle Boulevard, Newcastle Lyons, Dublin",Dublin,196079.09,No,Newcastle,Co. Dublin,q2,40%
+18/04/2019,"84 Newcastle Manor Sq, Newcastle, Dublin",Dublin,300000.0,No,Newcastle,Co. Dublin,q3,80%
+25/04/2019,"Elmhill, The Grange, Newcastle Rd",Dublin,1400000.0,No,Newcastle,Co. Dublin,q4,100%
+26/04/2019,"2 Castlechurch Close, Newcastle",Dublin,348017.0,Yes,Newcastle,Co. Dublin,q4,90%
+01/05/2019,"1 Castlechurch Close, Newcastle, Dublin",Dublin,317180.61,Yes,Newcastle,Co. Dublin,q4,80%
+01/05/2019,"4 Castlechurch Close, Newcastle, County Dublin",Dublin,299560.0,Yes,Newcastle,Co. Dublin,q3,80%
+02/05/2019,"22 Market Square, Newcastle",Dublin,273128.0,Yes,Newcastle,Co. Dublin,q3,70%
+03/05/2019,"26 Market Square, Newcastle",Dublin,264317.18,Yes,Newcastle,Co. Dublin,q3,60%
+22/05/2019,"8 The Grove, Aylmer Heath, Newcastle",Dublin,246696.03,Yes,Newcastle,Co. Dublin,q3,60%
+24/05/2019,"5 Newcastle Manor Green, Newcastle, Dublin",Dublin,160000.0,No,Newcastle,Co. Dublin,q1,20%
+06/06/2019,"4 Castlechurch Rise, Newcastle",Dublin,303965.0,Yes,Newcastle,Co. Dublin,q4,80%
+07/06/2019,"Brownstown, Newcastle, Dublin",Dublin,275000.0,No,Newcastle,Co. Dublin,q3,70%
+10/06/2019,"3 Christchuch Rise, Newcastle",Dublin,290748.89,Yes,Newcastle,Co. Dublin,q3,80%
+10/06/2019,"4 Hazelhatch Rd, Newcastle, Dublin",Dublin,440000.0,No,Newcastle,Co. Dublin,q4,100%
+12/06/2019,"2 Corner Park, Newcastle, Dublin",Dublin,295000.0,No,Newcastle,Co. Dublin,q3,80%
+13/06/2019,"5 Castlechurch Rise, Newcastle",Dublin,312775.33,Yes,Newcastle,Co. Dublin,q4,80%
+14/06/2019,"2 Castlechurch Rise, Newcastle",Dublin,312775.0,Yes,Newcastle,Co. Dublin,q4,80%
+18/06/2019,"Hazelhatch Rd, Newcastle, Co Dublin",Dublin,900000.0,No,Newcastle,Co. Dublin,q4,100%
+19/06/2019,"30 Market Square, Newcastle",Dublin,335000.0,Yes,Newcastle,Co. Dublin,q4,90%
+21/06/2019,"32 Market Square, Newcastle",Dublin,286300.0,Yes,Newcastle,Co. Dublin,q3,70%
+28/06/2019,"72 The Square, Newcastle Manor, Newcastle",Dublin,246000.0,No,Newcastle,Co. Dublin,q3,60%
+05/07/2019,"36 Market Square, Newcastle",Dublin,286344.0,Yes,Newcastle,Co. Dublin,q3,70%
+10/07/2019,"2 Ballynakelly View, Newcastle, Dublin",Dublin,540000.0,No,Newcastle,Co. Dublin,q4,100%
+10/07/2019,"72 Aylmer Road, Newcastle, Co Dublin",Dublin,270000.0,No,Newcastle,Co. Dublin,q3,70%
+19/07/2019,"11 Ballynakelly Court, Newcastle, Dublin",Dublin,310000.0,No,Newcastle,Co. Dublin,q4,80%
+25/07/2019,"18 Market Square, Main Street, Newcastle",Dublin,295154.0,Yes,Newcastle,Co. Dublin,q3,80%
+25/07/2019,"6 Market Square, Newcastle, County Dublin",Dublin,299560.0,Yes,Newcastle,Co. Dublin,q3,80%
+13/08/2019,"42 Market Square, Newcastle",Dublin,335000.0,Yes,Newcastle,Co. Dublin,q4,90%
+16/08/2019,"59 Newcastle Manor Sq, Newcastle, Co Dublin",Dublin,305000.0,No,Newcastle,Co. Dublin,q4,80%
+19/08/2019,"1 Strangford, Newcastle, Dublin",Dublin,351100.0,No,Newcastle,Co. Dublin,q4,90%
+04/09/2019,"8 Newcastle Manor Park, Newcastle, Dublin",Dublin,261500.0,No,Newcastle,Co. Dublin,q3,60%
+16/09/2019,"34 Market Square, Newcastle, Co Dublin",Dublin,286344.0,Yes,Newcastle,Co. Dublin,q3,70%
+17/09/2019,"4 Somerton Place, Newcastle Road, Luan",Dublin,356828.19,Yes,Newcastle,Co. Dublin,q4,100%
+18/09/2019,"16 Castlechurch Avenue, Newcastle",Dublin,339207.0,Yes,Newcastle,Co. Dublin,q4,90%
+20/09/2019,"1 Main St, Newcastle, Dublin",Dublin,430000.0,No,Newcastle,Co. Dublin,q4,100%

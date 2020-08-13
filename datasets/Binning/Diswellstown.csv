@@ -1,0 +1,36 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+22/01/2016,"14 Fernleigh Dale, Diswellstown Rd, Dublin 15",Dublin,270000.0,No,Diswellstown,Dublin 15,q1,20%
+22/03/2016,"19 Diswellstown Way, Hamilton Park, Dublin 15",Dublin,431718.06,Yes,Diswellstown,Dublin 15,q4,100%
+30/03/2016,"9 Diswellstown Way, Diswellstown, Dublin 15",Dublin,431700.0,Yes,Diswellstown,Dublin 15,q4,100%
+27/06/2016,"13 Diswellstown Manor, Diswellstown, Dublin 15",Dublin,555000.0,Yes,Diswellstown,Dublin 15,q4,100%
+13/09/2016,"33 Fernleigh Grove, Diswellstown Rd, Casleknock Dublin 15",Dublin,225000.0,No,Diswellstown,Dublin 15,q1,10%
+11/10/2016,"10 Diswellstown Way, Hamilton Park, Castletown",Dublin,361233.48,Yes,Diswellstown,Dublin 15,q4,90%
+05/12/2016,"53 Diswellstown Manor, Diswellstown",Dublin,356828.0,Yes,Diswellstown,Dublin 15,q4,90%
+16/03/2017,"60 Diswellstown Manor, Diswellstown",Dublin,356828.0,Yes,Diswellstown,Dublin 15,q4,90%
+03/10/2017,"Apartment 9, Orchard Hall, Diswellstown",Dublin,320000.0,Yes,Diswellstown,Dublin 15,q3,70%
+23/10/2017,"Apartment 28, Orchard Hall, Diswellstown",Dublin,273127.75,Yes,Diswellstown,Dublin 15,q1,20%
+27/10/2017,"Apartment 5, Orchard Hall, Diswellstown",Dublin,273127.75,Yes,Diswellstown,Dublin 15,q1,20%
+17/11/2017,"Apartment 17, Orchard Hall, Diswellstown",Dublin,277533.0,Yes,Diswellstown,Dublin 15,q1,30%
+23/11/2017,"4 Orchard Hall, Diswellstown",Dublin,277533.0,Yes,Diswellstown,Dublin 15,q1,30%
+24/11/2017,"13 Orchard Hall, Diswellstown Avenue, Diswellstown",Dublin,290748.89,Yes,Diswellstown,Dublin 15,q2,40%
+13/12/2017,"Apartment 5, Bramley Hall, Diswellstown",Dublin,290748.89,Yes,Diswellstown,Dublin 15,q2,50%
+19/12/2017,"27 Orchard Hall, Diswellstown",Dublin,320000.0,Yes,Diswellstown,Dublin 15,q3,70%
+23/02/2018,"Apartment 8, Bramley Hall, Diswellstown",Dublin,282000.0,Yes,Diswellstown,Dublin 15,q2,30%
+16/03/2018,"Apartment 16, Bramley Hall, Diswellstown",Dublin,303965.0,Yes,Diswellstown,Dublin 15,q2,50%
+10/04/2018,"Apartment 15, Bramley Hall, Diswellstown",Dublin,308370.04,Yes,Diswellstown,Dublin 15,q2,50%
+05/06/2018,"Apartment 30, Orchard Hall, Diswellstown",Dublin,246700.0,Yes,Diswellstown,Dublin 15,q1,10%
+24/07/2018,"Apartment 10, Bramley Hall, Diswellstown",Dublin,295154.0,Yes,Diswellstown,Dublin 15,q2,50%
+07/12/2018,"7  Orchard Hall, Diswellstown, Castkeknock",Dublin,242290.0,Yes,Diswellstown,Dublin 15,q1,10%
+30/04/2019,"Apartment 8, Orchard Hall, Diswellstown",Dublin,355000.0,Yes,Diswellstown,Dublin 15,q4,80%
+16/05/2019,"Apartment 6, Orchard Hall, Diswellstown",Dublin,310800.0,Yes,Diswellstown,Dublin 15,q3,60%
+07/06/2019,"Apartment 28, Crofton Hall, Diswellstown",Dublin,286343.0,Yes,Diswellstown,Dublin 15,q2,40%
+12/06/2019,"Apartment 27, Crofton Hall, Diswellstown",Dublin,281938.33,Yes,Diswellstown,Dublin 15,q2,30%
+28/06/2019,"35 Crofton Hall, Diswellstown",Dublin,285450.0,Yes,Diswellstown,Dublin 15,q2,40%
+02/07/2019,"Apartment 23, Crofton Hall, Diswellstown",Dublin,325991.0,Yes,Diswellstown,Dublin 15,q4,80%
+19/07/2019,"Apartment 29, Crofton Hall, Diswellstown",Dublin,325000.0,Yes,Diswellstown,Dublin 15,q3,80%
+22/07/2019,"Apartment 44, Crofton Hall, Diswellstown",Dublin,312775.33,Yes,Diswellstown,Dublin 15,q3,60%
+23/07/2019,"Apartment 49, Crofton Hall, Diswellstown",Dublin,321585.9,Yes,Diswellstown,Dublin 15,q3,70%
+25/07/2019,"19 Crofton Hall, Diswellstown, Dublin 11",Dublin,317180.61,Yes,Diswellstown,Dublin 15,q3,60%
+09/09/2019,"16 Diswellstown Garth, Castlekock, Dublin 15",Dublin,439647.58,Yes,Diswellstown,Dublin 15,q4,100%
+16/09/2019,"Apartment 38, Crofton Hall, Diswellstown",Dublin,242290.75,Yes,Diswellstown,Dublin 15,q1,10%
+23/09/2019,"Apartment 18 Crofton Hall, Diswellstown, Castelknock",Dublin,321585.9,Yes,Diswellstown,Dublin 15,q3,80%

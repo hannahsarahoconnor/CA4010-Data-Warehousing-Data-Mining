@@ -1,0 +1,1514 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+21/01/2010,"33 Lawrence Grove, Clontarf, Dublin 3",Dublin,455000.0,No,Clontarf,Dublin 3,q2,50%
+25/01/2010,"76 Kincora Grove, Clontarf, Dublin 3",Dublin,625000.0,No,Clontarf,Dublin 3,q3,70%
+28/01/2010,"272  Clontarf Road, Clontarf, Dublin 3",Dublin,525000.0,No,Clontarf,Dublin 3,q3,60%
+28/01/2010,"334 Clontarf Road, Clontarf",Dublin,1200000.0,No,Clontarf,Dublin 3,q4,100%
+28/01/2010,"35 Oulton Road, Clontarf",Dublin,890000.0,No,Clontarf,Dublin 3,q4,90%
+29/01/2010,"3 Dollymount Rise, Clontarf, Dublin 3",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+05/02/2010,"14 Vernon Park, Clontarf, Dublin 3",Dublin,775000.0,No,Clontarf,Dublin 3,q4,90%
+19/02/2010,"58 Seafield Road, Clontarf",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+19/02/2010,"85, Hollybrook Road, Clontarf",Dublin,595000.0,No,Clontarf,Dublin 3,q3,70%
+19/02/2010,"Apartment 69  Seapark, Mount Prospect Avenue, Clontarf",Dublin,209000.0,No,Clontarf,Dublin 3,q1,10%
+05/03/2010,"140 Vernon Avenue, Clontarf, Dublin 3",Dublin,570000.0,No,Clontarf,Dublin 3,q3,60%
+05/03/2010,"2 Walpole Mews, Kincora Avenue, Clontarf",Dublin,480000.0,No,Clontarf,Dublin 3,q2,50%
+08/03/2010,"109 Vernon Avenue, Clontarf",Dublin,325000.0,No,Clontarf,Dublin 3,q1,30%
+09/03/2010,"46 Park Lawn, Mount Prospect Avenue, Clontarf",Dublin,540000.0,No,Clontarf,Dublin 3,q3,60%
+16/03/2010,"20 Charlemont Road, Clontarf, Dublin",Dublin,510000.0,No,Clontarf,Dublin 3,q2,50%
+24/03/2010,"2C  Seafield Road West, Clontarf, Dublin 3",Dublin,1080000.0,No,Clontarf,Dublin 3,q4,100%
+30/03/2010,"3 Seapark Drive, Clontarf, Dublin 3",Dublin,395000.0,No,Clontarf,Dublin 3,q2,40%
+31/03/2010,"25 Clontarf Road, Clontarf",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+31/03/2010,"36 Park Lawn, Mount Prospect Avenue, Clontarf",Dublin,477500.0,No,Clontarf,Dublin 3,q2,50%
+31/03/2010,"Apartment 121, Belgrove Park, Clontarf",Dublin,301000.0,No,Clontarf,Dublin 3,q1,30%
+31/03/2010,"Curragha, Seacourt, Clontarf",Dublin,1000000.0,No,Clontarf,Dublin 3,q4,100%
+01/04/2010,"24 Victoria Villas, Clontarf, Dublin",Dublin,425000.0,No,Clontarf,Dublin 3,q2,40%
+01/04/2010,"62 Brooklawn, Strandville Avenue East, Clontarf",Dublin,192000.0,No,Clontarf,Dublin 3,q1,10%
+07/04/2010,"Apartment No. 3, 18 Marino Crescent, Clontarf",Dublin,145500.0,No,Clontarf,Dublin 3,q1,10%
+09/04/2010,"74 Mount Prospect Avenue, Clontarf",Dublin,655000.0,No,Clontarf,Dublin 3,q3,70%
+12/04/2010,"108 Mount Prospect Avenue, Clontarf",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%
+16/04/2010,"7 Brooklawn, Strandville Avenue, Clontarf",Dublin,180000.0,No,Clontarf,Dublin 3,q1,10%
+22/04/2010,"106 Kincora Road, Clontarf, Dublin 3",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+27/04/2010,"19 Conquer Hill, Clontarf, Dublin 3",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+27/04/2010,"29 Oakley Park, Clontarf, Dublin 3",Dublin,507000.0,No,Clontarf,Dublin 3,q2,50%
+30/04/2010,"Apt. 1  St. Davids Court, Castle Avenue, Clontarf",Dublin,275000.0,No,Clontarf,Dublin 3,q1,20%
+04/05/2010,"15 Mount Prospect Drive, Clontarf",Dublin,522000.0,No,Clontarf,Dublin 3,q3,60%
+05/05/2010,"37 Mount Prospect Park, Clontarf",Dublin,545000.0,No,Clontarf,Dublin 3,q3,60%
+06/05/2010,"23 Blackheath Park, Clontarf, Dublin 3",Dublin,740000.0,No,Clontarf,Dublin 3,q4,80%
+06/05/2010,"95 Blackheath Park, Clontarf",Dublin,640000.0,No,Clontarf,Dublin 3,q3,70%
+26/05/2010,"157B Vernon Avenue, Clontarf",Dublin,1250000.0,No,Clontarf,Dublin 3,q4,100%
+28/05/2010,"68 Kincora Court, Clontarf",Dublin,290000.0,No,Clontarf,Dublin 3,q1,20%
+02/06/2010,"19 Kincora Court, Clontarf",Dublin,412500.0,No,Clontarf,Dublin 3,q2,40%
+22/06/2010,"177 Ashbrook, Clontarf",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+22/06/2010,"37 Hollybrook Road, Clontarf",Dublin,1125000.0,No,Clontarf,Dublin 3,q4,100%
+25/06/2010,"21 St Josephs Square, Clontarf",Dublin,205000.0,No,Clontarf,Dublin 3,q1,10%
+25/06/2010,"25 Seacourt, Clontarf, Dublin 3",Dublin,667000.0,No,Clontarf,Dublin 3,q3,80%
+26/06/2010,"200 Clontarf Road, Clontarf, Dublin 3",Dublin,539000.0,No,Clontarf,Dublin 3,q3,60%
+02/07/2010,"2 Clontarf Road, Clontarf",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+02/07/2010,"27 Merchamp, Seafield Road, Clontarf",Dublin,180000.0,No,Clontarf,Dublin 3,q1,10%
+07/07/2010,"21 Courtview, Castle Avenue, Clontarf",Dublin,300000.0,No,Clontarf,Dublin 3,q1,30%
+09/07/2010,"17 Blackheath Court, Blackheath Park, Clontarf",Dublin,425000.0,No,Clontarf,Dublin 3,q2,40%
+09/07/2010,"30 Dunluce Road, Clontarf",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+09/07/2010,"91 Dollymount Park, Clontarf, Dublin 3",Dublin,437500.0,No,Clontarf,Dublin 3,q2,40%
+12/07/2010,"38 Vernon Avenue, Clontarf, Dublin 3",Dublin,640000.0,No,Clontarf,Dublin 3,q3,70%
+12/07/2010,"54 Ashbrook, Clontarf",Dublin,470000.0,No,Clontarf,Dublin 3,q2,50%
+12/07/2010,"Apt 46 Belgrove Park, Clontarf",Dublin,300500.0,No,Clontarf,Dublin 3,q1,30%
+14/07/2010,"Apartment No. 1 Redcourt Oaks, Seafield Road East, Clontarf",Dublin,268722.46,Yes,Clontarf,Dublin 3,q1,20%
+14/07/2010,"Apartment No. 2 Redcourt Oaks, Seafield Road East, Clontarf",Dublin,356828.19,Yes,Clontarf,Dublin 3,q2,30%
+22/07/2010,"71  Park Lawn, Clontarf, Dublin 3",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+23/07/2010,"1 Pear Grove, 7 Castle Ave, Clontarf",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+29/07/2010,"3 Mount Prospect Lawns, Clontarf",Dublin,655000.0,No,Clontarf,Dublin 3,q3,70%
+30/07/2010,"50 Summerville, Clontarf Road, Dublin 3",Dublin,647000.0,No,Clontarf,Dublin 3,q3,70%
+04/08/2010,"26 Vernon Gardens, Clontarf, Dublin 3",Dublin,365000.0,No,Clontarf,Dublin 3,q2,40%
+06/08/2010,"52 Kincora Road, Clontarf, Dublin 3",Dublin,750000.0,No,Clontarf,Dublin 3,q4,90%
+18/08/2010,"6A Cecil Avenue, Off Charlemont, Clontarf  Dublin 3",Dublin,300000.0,No,Clontarf,Dublin 3,q1,30%
+20/08/2010,"45 Dunseverick Road, Clontarf, Dublin 3",Dublin,530000.0,No,Clontarf,Dublin 3,q3,60%
+25/08/2010,"12 Seaview Avenue, Clontarf, Dublin 3",Dublin,420000.0,No,Clontarf,Dublin 3,q2,40%
+27/08/2010,"134 St  Lawrence Road, Clontarf",Dublin,630000.0,No,Clontarf,Dublin 3,q3,70%
+27/08/2010,"15 Seaparkdrive, Clontarf, Dublin",Dublin,380000.0,No,Clontarf,Dublin 3,q2,40%
+27/08/2010,"47 Clontarf Park, Clontarf",Dublin,380000.0,No,Clontarf,Dublin 3,q2,40%
+30/08/2010,"19 Blackheath Park, Clontarf, Dublin 3",Dublin,710000.0,No,Clontarf,Dublin 3,q4,80%
+02/09/2010,"163 Kincora Road, Clontarf, Dublin 3",Dublin,348000.0,No,Clontarf,Dublin 3,q2,30%
+16/09/2010,"4 Castle Road, Clontarf, Dublin 3",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+16/09/2010,"6 Glanbrian Hall, Clontarf, 3",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+25/09/2010,"55 Mount Prospect Grove, Clontarf",Dublin,870000.0,No,Clontarf,Dublin 3,q4,90%
+27/09/2010,"58 Kincora Grove, Clontarf, Dublin 3",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+05/10/2010,"13 St James, Hollybrook Park, Clontarf",Dublin,230000.0,No,Clontarf,Dublin 3,q1,20%
+06/10/2010,"80 Kincora Grove, Clontarf",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+07/10/2010,"15 The Laurels, Clontarf",Dublin,340000.0,No,Clontarf,Dublin 3,q2,30%
+08/10/2010,"10 Seapark Drive, Clontarf, Dublin 3",Dublin,385000.0,No,Clontarf,Dublin 3,q2,40%
+08/10/2010,"116 The Stiles Road, Clontarf",Dublin,660000.0,No,Clontarf,Dublin 3,q3,70%
+12/10/2010,"25 Stiles Road, Clontarf",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+15/10/2010,"58 Clontarf Park, Clontarf",Dublin,370000.0,No,Clontarf,Dublin 3,q2,40%
+22/10/2010,"72 Kincora Court, Clontarf",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+26/10/2010,"89 Blackheath Park, Clontarf, Dublin 3",Dublin,690000.0,No,Clontarf,Dublin 3,q3,80%
+28/10/2010,"198 Kincora Road, Clontarf, Dublin 3",Dublin,512000.0,No,Clontarf,Dublin 3,q2,50%
+28/10/2010,"40 Merchamps, Seafield Road, Clontarf",Dublin,210000.0,No,Clontarf,Dublin 3,q1,10%
+01/11/2010,"65 The Stiles Road, Clontarf",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+03/11/2010,"13B Seafield Court, Castle Avenue, Clontarf",Dublin,190000.0,No,Clontarf,Dublin 3,q1,10%
+03/11/2010,"53 Merchamp, Seafield Road, Clontarf",Dublin,182000.0,No,Clontarf,Dublin 3,q1,10%
+05/11/2010,"53 Clontarf Road, Clontarf, Dublin 3",Dublin,240000.0,No,Clontarf,Dublin 3,q1,20%
+10/11/2010,"7 Verville Court, Vernon Avenue, Clontarf",Dublin,155000.0,No,Clontarf,Dublin 3,q1,10%
+10/11/2010,"9 Bruach Na Mara, 187 Seafield Road East, Clontarf",Dublin,230000.0,No,Clontarf,Dublin 3,q1,20%
+12/11/2010,"3 Dollymount Park, Clontarf",Dublin,330000.0,No,Clontarf,Dublin 3,q2,30%
+16/11/2010,"Apartment 17, Brooklawn, Strandville Avenue  Clontarf",Dublin,181000.0,No,Clontarf,Dublin 3,q1,10%
+24/11/2010,"1 Summerville, Clontarf Road",Dublin,195000.0,No,Clontarf,Dublin 3,q1,10%
+26/11/2010,"197 Vernon Avenue, Clontarf, Dublin 3",Dublin,585000.0,No,Clontarf,Dublin 3,q3,60%
+01/12/2010,"21 Seafield Close, Clontarf",Dublin,430000.0,No,Clontarf,Dublin 3,q2,40%
+03/12/2010,"17 Park Lawn, Clontarf, Dublin 3",Dublin,460000.0,No,Clontarf,Dublin 3,q2,50%
+06/12/2010,"201 Vernon Avenue, Clontarf",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+06/12/2010,"9 Blackheath Court, Clontarf",Dublin,350000.0,No,Clontarf,Dublin 3,q2,30%
+19/12/2010,"142 Clontarf Road, Clontarf",Dublin,815000.0,No,Clontarf,Dublin 3,q4,90%
+21/12/2010,"7 Stiles Court, Clontarf",Dublin,630000.0,No,Clontarf,Dublin 3,q3,70%
+05/01/2011,"18 Castle Grove, Clontarf, Dublin 3",Dublin,720000.0,No,Clontarf,Dublin 3,q4,80%
+20/01/2011,"9 Conquer Hill Avenue, Clontarf",Dublin,297000.0,No,Clontarf,Dublin 3,q1,30%
+28/01/2011,"45 Kincora Drive, Clontarf, Dublin 3",Dublin,605000.0,No,Clontarf,Dublin 3,q3,70%
+09/02/2011,"10 Vernon Avenue, Clontarf",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+11/02/2011,"60 The Stiles Road, Clontarf, Dublin 3",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+14/02/2011,"39 Seafield Road, Clontarf",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%
+18/02/2011,"2 Lucerne Court, Castle Avenue, Clontarf",Dublin,240000.0,No,Clontarf,Dublin 3,q1,20%
+25/02/2011,"101 Mount Prospect Avenue, Clontarf",Dublin,875000.0,No,Clontarf,Dublin 3,q4,90%
+25/02/2011,"236 Clontarf Road, Clontarf, Dublin 3",Dublin,395000.0,No,Clontarf,Dublin 3,q2,40%
+02/03/2011,"128 Castle Avenue, Clontarf, Dublin 3",Dublin,1970000.0,No,Clontarf,Dublin 3,q4,100%
+02/03/2011,"13 Haddon Road, Clontarf",Dublin,972000.0,No,Clontarf,Dublin 3,q4,100%
+04/03/2011,"1 A Vernon Grove, Clontarf, .",Dublin,325000.0,No,Clontarf,Dublin 3,q1,30%
+04/03/2011,"49 Park Lawn, Clontarf, Dublin 3",Dublin,525000.0,No,Clontarf,Dublin 3,q3,60%
+04/03/2011,"5 Mount Prospect Lawns, Clontarf, Dublin 3",Dublin,505000.0,No,Clontarf,Dublin 3,q2,50%
+07/03/2011,"25 Dollymount Avenue, Clontarf, Dublin",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+14/03/2011,"16 Dunluce Road, Clontarf",Dublin,371250.0,No,Clontarf,Dublin 3,q2,40%
+29/03/2011,"25 Baymount Park, Clontarf",Dublin,840000.0,No,Clontarf,Dublin 3,q4,90%
+29/03/2011,"25 Seapark Road, Clontarf",Dublin,690000.0,No,Clontarf,Dublin 3,q3,80%
+11/04/2011,"56 Brooklawn, Strandville Avenue, Clontarf",Dublin,184000.0,No,Clontarf,Dublin 3,q1,10%
+12/04/2011,"39 Brian Boru Avenue, Clontarf, Dublin 3",Dublin,137000.0,No,Clontarf,Dublin 3,q1,10%
+13/04/2011,"9 Brighton Avenue, Clontarf",Dublin,255000.0,No,Clontarf,Dublin 3,q1,20%
+14/04/2011,"75 Kincora Drive, Clontarf, Dublin",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+20/04/2011,"7 Cecil Avenue, Clontarf",Dublin,274000.0,No,Clontarf,Dublin 3,q1,20%
+27/04/2011,"10 Fortview Avenue, Clontarf",Dublin,300000.0,No,Clontarf,Dublin 3,q1,30%
+28/04/2011,"194 Dunluce Road, Clontarf",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+06/05/2011,"13 Vernon Grove, Clontarf",Dublin,555000.0,No,Clontarf,Dublin 3,q3,60%
+06/05/2011,"27A St Lawrence Road, Clontarf",Dublin,375000.0,No,Clontarf,Dublin 3,q2,40%
+16/05/2011,"19 Belgrove Road, Clontarf",Dublin,440000.0,No,Clontarf,Dublin 3,q2,40%
+24/05/2011,"9 Woodside, Clontarf",Dublin,800000.0,No,Clontarf,Dublin 3,q4,90%
+30/05/2011,"46 Castle Avenue, Clontarf",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+31/05/2011,"45 Hollybrook Grove, Clontarf",Dublin,400000.0,No,Clontarf,Dublin 3,q2,40%
+03/06/2011,"89 Clontarf Road, Clontarf",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+09/06/2011,"312 Clontarf Road, Clontarf",Dublin,475000.0,No,Clontarf,Dublin 3,q2,50%
+22/06/2011,"112  Kincora Road, Clontarf",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+27/06/2011,"136 Kincora Road, Clontarf, Dublin 3",Dublin,430000.0,No,Clontarf,Dublin 3,q2,40%
+07/07/2011,"15 Sea Park Apartments, Mount Prospect Ave, Clontarf",Dublin,173000.0,No,Clontarf,Dublin 3,q1,10%
+08/07/2011,"178 Kincora Road, Clontarf",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+11/07/2011,"101 The Stiles Road, Clontarf",Dublin,668500.0,No,Clontarf,Dublin 3,q3,80%
+11/07/2011,"9 Seafield Avenue, Clontarf",Dublin,690000.0,No,Clontarf,Dublin 3,q3,80%
+12/07/2011,"31 Victoria Road, Clontarf",Dublin,865000.0,No,Clontarf,Dublin 3,q4,90%
+14/07/2011,"13B Clontarf Park, Clontarf",Dublin,233480.0,No,Clontarf,Dublin 3,q1,20%
+14/07/2011,"14 St. Joseph'S Square, Clontarf",Dublin,227000.0,No,Clontarf,Dublin 3,q1,10%
+14/07/2011,"29 Dunseverick Road, Clontarf, Dublin 3",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+15/07/2011,"136  St Lawrence'S Road, Clontarf",Dublin,935000.0,No,Clontarf,Dublin 3,q4,100%
+18/07/2011,"6Aseaview Ave, Clontarf",Dublin,461000.0,No,Clontarf,Dublin 3,q2,50%
+21/07/2011,"54 Vernon Park, Clontarf",Dublin,400000.0,No,Clontarf,Dublin 3,q2,40%
+26/07/2011,"74 Kincora Grove, Clontarf, Dublin 3",Dublin,504000.0,No,Clontarf,Dublin 3,q2,50%
+26/07/2011,"No. 9 St. Joseph'S Square, Clontarf",Dublin,140000.0,No,Clontarf,Dublin 3,q1,10%
+28/07/2011,"70 St. Lawrence Road, Clontarf",Dublin,1050000.0,No,Clontarf,Dublin 3,q4,100%
+05/08/2011,"11A Kincora Court, Clontarf, Dublin 3",Dublin,449250.0,No,Clontarf,Dublin 3,q2,50%
+05/08/2011,"94 Kincora Grove, Clontarf, Dublin 3",Dublin,515000.0,No,Clontarf,Dublin 3,q2,50%
+08/08/2011,"74 Mount Prospect Lawns, Mount Prospect Avenue, Clontarf",Dublin,230000.0,No,Clontarf,Dublin 3,q1,20%
+11/08/2011,"38 Dollymount Avenue, Clontarf, Dublin 3",Dublin,483000.0,No,Clontarf,Dublin 3,q2,50%
+11/08/2011,"Seaview Lodge, Off Stiles Road, Clontarf",Dublin,875000.0,No,Clontarf,Dublin 3,q4,90%
+22/08/2011,"319 Clontarf Road, Clontarf, Dublin 3",Dublin,350000.0,No,Clontarf,Dublin 3,q2,30%
+24/08/2011,"2.4 Haddon Court, Clontarf, Dublin 3",Dublin,227500.0,No,Clontarf,Dublin 3,q1,20%
+26/08/2011,"10 Blackheath Court, Clontarf, Dublin3",Dublin,260000.0,No,Clontarf,Dublin 3,q1,20%
+26/08/2011,"11 Grosvenor Court, Clontarf, Dublin 3",Dublin,340000.0,No,Clontarf,Dublin 3,q2,30%
+26/08/2011,"164 Castle Avenue, Clontarf",Dublin,455000.0,No,Clontarf,Dublin 3,q2,50%
+26/08/2011,"63 Park Lawn, Mount Prospect Avenue, Clontarf",Dublin,382000.0,No,Clontarf,Dublin 3,q2,40%
+29/08/2011,"100 Dollymount Avenue, Clontarf",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+29/08/2011,"47 Castlegrove, Clontarf",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+30/08/2011,"54, Brooklawn, Clontarf",Dublin,180000.0,No,Clontarf,Dublin 3,q1,10%
+30/08/2011,"9 Summerville, Clontarf",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+05/09/2011,"18 Summerville, Clontarf",Dublin,285000.0,No,Clontarf,Dublin 3,q1,20%
+06/09/2011,"22 Kincora Park, Clontarf",Dublin,685000.0,No,Clontarf,Dublin 3,q3,80%
+12/09/2011,"4 St. Josephs Square, Clontarf",Dublin,193000.0,No,Clontarf,Dublin 3,q1,10%
+12/09/2011,"65 Clontarf Road, Clontarf, Dublin 3",Dublin,360000.0,No,Clontarf,Dublin 3,q2,30%
+15/09/2011,"Tudor Lodge, 52 Vernon Avenue, Clontarf",Dublin,750000.0,No,Clontarf,Dublin 3,q4,90%
+16/09/2011,"15 Oakely Park, Clontarf",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+19/09/2011,"Flat 39 Block D Danescourt, Clontarf Road, Clontarf",Dublin,180000.0,No,Clontarf,Dublin 3,q1,10%
+20/09/2011,"14A Crescent Place, Clontarf, Dublin",Dublin,400000.0,No,Clontarf,Dublin 3,q2,40%
+23/09/2011,"26 St Lawrence Road, Clontarf",Dublin,2050000.0,No,Clontarf,Dublin 3,q4,100%
+26/09/2011,"4 The Oaks, Clontarf",Dublin,260000.0,No,Clontarf,Dublin 3,q1,20%
+27/09/2011,"47 Vernon Avenue, Clontarf",Dublin,195000.0,No,Clontarf,Dublin 3,q1,10%
+29/09/2011,"22 Haddon Road, Clontarf",Dublin,816000.0,No,Clontarf,Dublin 3,q4,90%
+07/10/2011,"14 Hollybrook Mews, Clontarf, Dublin 3",Dublin,220000.0,No,Clontarf,Dublin 3,q1,10%
+07/10/2011,"44 Dollymount Park, Clontarf",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+14/10/2011,"24 Mount Prospect Park, Clontarf, Dublin 3",Dublin,430000.0,No,Clontarf,Dublin 3,q2,40%
+20/10/2011,"31 The Stiles Road, Clontarf, Dublin 3",Dublin,520000.0,No,Clontarf,Dublin 3,q3,60%
+27/10/2011,"179 Vernon Avenue, Clontarf, Dublin",Dublin,360000.0,No,Clontarf,Dublin 3,q2,30%
+01/11/2011,"Apt 8 Red Court Oaks, Seafield Road East, Clontarf",Dublin,290749.0,Yes,Clontarf,Dublin 3,q1,20%
+04/11/2011,"142 Mount Prospect Avenue, Clontarf, Dublin 3",Dublin,635000.0,No,Clontarf,Dublin 3,q3,70%
+08/11/2011,"38 Merchamp, Seafield Road, Clontarf",Dublin,165000.0,No,Clontarf,Dublin 3,q1,10%
+11/11/2011,"2A Seafield Avenue, Clontarf",Dublin,734504.0,No,Clontarf,Dublin 3,q4,80%
+15/11/2011,"9 The Laurels, Mount Prospect Avenue, Clontarf",Dublin,295000.0,No,Clontarf,Dublin 3,q1,20%
+17/11/2011,"103 Mount Prospect Avenue, Clontarf",Dublin,770000.0,No,Clontarf,Dublin 3,q4,90%
+18/11/2011,"16 Victoria Villas, Clontarf, Dublin 3",Dublin,240000.0,No,Clontarf,Dublin 3,q1,20%
+18/11/2011,"25 Vernon Court, Clontarf, Dublin 3",Dublin,217500.0,No,Clontarf,Dublin 3,q1,10%
+21/11/2011,"7 Kincora Avenue, Clontarf",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+24/11/2011,"418 Clontarf Road, Clontarf, Dublin 3",Dublin,730000.0,No,Clontarf,Dublin 3,q4,80%
+02/12/2011,"16 Dollymount Grove, Clontarf",Dublin,375000.0,No,Clontarf,Dublin 3,q2,40%
+02/12/2011,"40 Hollybrook Grove, Clontarf",Dublin,360000.0,No,Clontarf,Dublin 3,q2,30%
+02/12/2011,"75 Seafield Road East, Clontarf",Dublin,685000.0,No,Clontarf,Dublin 3,q3,80%
+02/12/2011,"8 Chelsea Gardens, Clontarf, Dublin 3",Dublin,305000.0,No,Clontarf,Dublin 3,q1,30%
+07/12/2011,"25 Vernon Avenue, Clontarf",Dublin,770000.0,No,Clontarf,Dublin 3,q4,90%
+07/12/2011,"No. 3  Vernon Park, Clontarf",Dublin,345000.0,No,Clontarf,Dublin 3,q2,30%
+09/12/2011,"160 Dunluce Road, Clontarf, Dublin 3",Dublin,315000.0,No,Clontarf,Dublin 3,q1,30%
+09/12/2011,"17 Clontarf Park, Clontarf, Dublin 3",Dublin,260000.0,No,Clontarf,Dublin 3,q1,20%
+09/12/2011,"1A Castle Avenue, Clontarf",Dublin,300000.0,No,Clontarf,Dublin 3,q1,30%
+15/12/2011,"100 Stiles Road, Clontarf, Dublin 3",Dublin,580000.0,No,Clontarf,Dublin 3,q3,60%
+16/12/2011,"24 Mount Prospect Lawns, Clontarf",Dublin,485000.0,No,Clontarf,Dublin 3,q2,50%
+16/12/2011,"27 Danesfort, Clontarf",Dublin,185000.0,No,Clontarf,Dublin 3,q1,10%
+20/12/2011,"13B Clontarf  Park, Clontarf",Dublin,295000.0,No,Clontarf,Dublin 3,q1,20%
+22/12/2011,"171 Seafield Road East, Clontarf",Dublin,950000.0,No,Clontarf,Dublin 3,q4,100%
+23/12/2011,"3 Hollybrook Woods, Hollybrook Park, Clontarf",Dublin,327500.0,No,Clontarf,Dublin 3,q2,30%
+09/01/2012,"28 Mount Prospect Drive, Clontarf, Dublin 3",Dublin,330000.0,No,Clontarf,Dublin 3,q2,30%
+10/01/2012,"15A Vernon Court, Clontarf",Dublin,200000.0,No,Clontarf,Dublin 3,q1,10%
+10/01/2012,"52 Hollybrook Road, Clontarf",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+13/01/2012,"341 Clontarf Road, Clontarf, Dublin 3",Dublin,960000.0,No,Clontarf,Dublin 3,q4,100%
+27/01/2012,"151 Seafield Road East, Clontarf",Dublin,630000.0,No,Clontarf,Dublin 3,q3,70%
+02/02/2012,"3 Pintail House, Redcourt Oaks, Clontarf",Dublin,270000.0,No,Clontarf,Dublin 3,q1,20%
+03/02/2012,"46  Kincora Road, Clontarf, Dublin 3",Dublin,510000.0,No,Clontarf,Dublin 3,q2,50%
+06/02/2012,"5 Lambourne Village, Clontarf",Dublin,225000.0,No,Clontarf,Dublin 3,q1,10%
+10/02/2012,"51 Mount Prospect Park, Clontarf, Dublin 3",Dublin,440000.0,No,Clontarf,Dublin 3,q2,40%
+20/02/2012,"11 Vernon Court, Clontarf Road, Clontarf",Dublin,145000.0,No,Clontarf,Dublin 3,q1,10%
+24/02/2012,"8  Seapark Road, Clontarf",Dublin,565000.0,No,Clontarf,Dublin 3,q3,60%
+28/02/2012,"16 Dollymount Grove, Clontarf",Dublin,360500.0,No,Clontarf,Dublin 3,q2,40%
+29/02/2012,"7 Kilronan Court, St. Lawrences Road, Clontarf",Dublin,180400.0,No,Clontarf,Dublin 3,q1,10%
+01/03/2012,"28  Castle Avenue, Clontarf",Dublin,1550000.0,No,Clontarf,Dublin 3,q4,100%
+01/03/2012,"34 Seafield Avenue, Clontarf, Dublin 3",Dublin,660000.0,No,Clontarf,Dublin 3,q3,70%
+02/03/2012,"17 Vernon Ave, Clontarf",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+02/03/2012,"21 Kincora Grove, Clontarf",Dublin,520000.0,No,Clontarf,Dublin 3,q3,60%
+02/03/2012,"38 Kincora Grove, Clontarf",Dublin,495000.0,No,Clontarf,Dublin 3,q2,50%
+08/03/2012,"205  Clontarf Road, Clontarf, Dublin 3",Dublin,730000.0,No,Clontarf,Dublin 3,q4,80%
+16/03/2012,"48 Dollymount Avenue, Clontarf, Dublin 3",Dublin,440000.0,No,Clontarf,Dublin 3,q2,40%
+22/03/2012,"66 Brooklawn, Strandville Avenue, Clontarf",Dublin,120000.0,No,Clontarf,Dublin 3,q1,10%
+23/03/2012,"34 Mount Prospect Grove, Clontarf",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+02/04/2012,"45 Chelsea Gardens, Clontarf, Dublin 3",Dublin,245000.0,No,Clontarf,Dublin 3,q1,20%
+04/04/2012,"49 Dunluce Road, Clontarf",Dublin,296000.0,No,Clontarf,Dublin 3,q1,30%
+10/04/2012,"20 Vernon Gardens, Clontarf",Dublin,350000.0,No,Clontarf,Dublin 3,q2,30%
+16/04/2012,"15 Clontarf Park, Clontarf, Dublin 3",Dublin,276000.0,No,Clontarf,Dublin 3,q1,20%
+17/04/2012,"10 Park Lawn, Clontarf",Dublin,407500.0,No,Clontarf,Dublin 3,q2,40%
+19/04/2012,"48 Grosvenor Court, Clontarf, Dublin 3",Dublin,275000.0,No,Clontarf,Dublin 3,q1,20%
+19/04/2012,"7 The Mews, Castle Court, Clontarf",Dublin,235000.0,No,Clontarf,Dublin 3,q1,20%
+24/04/2012,"12 Castle Road, Clontarf, Dublin 3",Dublin,595250.0,No,Clontarf,Dublin 3,q3,70%
+26/04/2012,"43 Merchamp, Seafield Road East, Clontarf  Dublin 3",Dublin,170000.0,No,Clontarf,Dublin 3,q1,10%
+30/04/2012,"79 Dollymount Park, Clontarf",Dublin,370000.0,No,Clontarf,Dublin 3,q2,40%
+02/05/2012,"166 Castle Avenue, Clontarf, Dublin 3",Dublin,467000.0,No,Clontarf,Dublin 3,q2,50%
+02/05/2012,"Apt 158 Belgrove Park, Mount Prospect Lawns, Clontarf",Dublin,131500.0,No,Clontarf,Dublin 3,q1,10%
+21/05/2012,"83 Kincora Court, Clontarf",Dublin,185000.0,No,Clontarf,Dublin 3,q1,10%
+21/05/2012,"Apt 46 Brooklawn, Strandville Avenue, Clontarf",Dublin,151000.0,No,Clontarf,Dublin 3,q1,10%
+24/05/2012,"6 Seafield Court, Castle Avenue, Clontarf",Dublin,175000.0,No,Clontarf,Dublin 3,q1,10%
+30/05/2012,"107 Dunluce Road, Clontarf",Dublin,328000.0,No,Clontarf,Dublin 3,q2,30%
+30/05/2012,"27 Danesfort, Clontarf",Dublin,185000.0,No,Clontarf,Dublin 3,q1,10%
+05/06/2012,"184 Dunluce Road, Clontarf",Dublin,312000.0,No,Clontarf,Dublin 3,q1,30%
+05/06/2012,"31 Castle Court, Clontarf, Dublin 3",Dublin,260000.0,No,Clontarf,Dublin 3,q1,20%
+08/06/2012,"122 Dunluce Road, Clontarf, Dublin 3",Dublin,330000.0,No,Clontarf,Dublin 3,q2,30%
+11/06/2012,"51 Seafield Road, Clontarf",Dublin,1300000.0,No,Clontarf,Dublin 3,q4,100%
+13/06/2012,"6 Hollybrook Mews, Clontarf",Dublin,195000.0,No,Clontarf,Dublin 3,q1,10%
+14/06/2012,"130 St Lawrence'S Road, Clontarf",Dublin,460000.0,No,Clontarf,Dublin 3,q2,50%
+15/06/2012,"94 Castle Avenue, Clontarf",Dublin,523000.0,No,Clontarf,Dublin 3,q3,60%
+21/06/2012,"5 Seaview Avenue, Clontarf",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+22/06/2012,"6 Mount Prospect Drive, Clontarf",Dublin,350000.0,No,Clontarf,Dublin 3,q2,30%
+26/06/2012,"10  Merchamp, Seafield Road, Clontarf",Dublin,220000.0,No,Clontarf,Dublin 3,q1,10%
+28/06/2012,"31 Dunseverick Road, Clontarf",Dublin,475000.0,No,Clontarf,Dublin 3,q2,50%
+29/06/2012,"121 Kincora Road, Clontarf",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+05/07/2012,"6 Churchgate Avenue, Clontarf",Dublin,255000.0,No,Clontarf,Dublin 3,q1,20%
+12/07/2012,"275 Clontarf Road, Clontarf, Dublin",Dublin,395000.0,No,Clontarf,Dublin 3,q2,40%
+12/07/2012,"28 Vernon Court, Clontarf, Dublin 3",Dublin,230000.0,No,Clontarf,Dublin 3,q1,20%
+12/07/2012,"43 Mount Prospect Park, Clontarf",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+13/07/2012,"76 Vernon Avenue, Clontarf",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+17/07/2012,"25 Grosvenor Court, Clontarf",Dublin,295000.0,No,Clontarf,Dublin 3,q1,20%
+20/07/2012,"150 Dunluce Road, Clontarf, Dublin 3",Dublin,335000.0,No,Clontarf,Dublin 3,q2,30%
+23/07/2012,"Apt 17 Pintail House, Redcourt Oaks, Seafield Road East Clontarf",Dublin,285000.0,No,Clontarf,Dublin 3,q1,20%
+25/07/2012,"44A Seafield Avenue West, Clontarf",Dublin,803000.0,No,Clontarf,Dublin 3,q4,90%
+26/07/2012,"84 Kincora Grove, Clontarf",Dublin,502500.0,No,Clontarf,Dublin 3,q2,50%
+27/07/2012,"15 Hollybrook Mews, Clontarf",Dublin,380000.0,No,Clontarf,Dublin 3,q2,40%
+01/08/2012,"113  Vernon Ave, Clontarf",Dublin,515000.0,No,Clontarf,Dublin 3,q2,50%
+01/08/2012,"161 Kincora Road, Clontarf, Dublin 3",Dublin,294000.0,No,Clontarf,Dublin 3,q1,20%
+03/08/2012,"3 Stiles Court, Clontarf",Dublin,296000.0,No,Clontarf,Dublin 3,q1,30%
+03/08/2012,"49 Mount Prospect Park, Clontarf",Dublin,470000.0,No,Clontarf,Dublin 3,q2,50%
+09/08/2012,"22 Clontarf Park, Clontarf",Dublin,285000.0,No,Clontarf,Dublin 3,q1,20%
+10/08/2012,"18 Seafield Road And Rear, Of 20 22 And 24 Seafield Road, Clontarf",Dublin,1950000.0,No,Clontarf,Dublin 3,q4,100%
+13/08/2012,"201 Vernon Avenue, Clontarf",Dublin,480000.0,No,Clontarf,Dublin 3,q2,50%
+13/08/2012,"Apt. 19 Verville Court, Vernon Avenue, Clontarf",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+17/08/2012,"37 Charlemont Road, Clontarf",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+29/08/2012,"49 Clontarf Park, Clontarf",Dublin,275000.0,No,Clontarf,Dublin 3,q1,20%
+30/08/2012,"32 Clontarf Park, Clontarf",Dublin,267000.0,No,Clontarf,Dublin 3,q1,20%
+31/08/2012,"29 Vernon Heath, Vernon Avenue, Clontarf",Dublin,527000.0,No,Clontarf,Dublin 3,q3,60%
+04/09/2012,"12A Kincora Court, Clontarf, Dublin 3",Dublin,182500.0,No,Clontarf,Dublin 3,q1,10%
+07/09/2012,"11 Haddon Road, Clontarf",Dublin,995000.0,No,Clontarf,Dublin 3,q4,100%
+07/09/2012,"19 Clontarf Park, Clontarf",Dublin,301000.0,No,Clontarf,Dublin 3,q1,30%
+07/09/2012,"6 St. Laurence Road, Clontarf, Dublin 3",Dublin,730000.0,No,Clontarf,Dublin 3,q4,80%
+10/09/2012,"119 Belgrove Park, Clontarf, Dublin 3",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+11/09/2012,"26 Lawrence Grove, Clontarf",Dublin,180000.0,No,Clontarf,Dublin 3,q1,10%
+12/09/2012,"148 The Stiles Road, Clontarf",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+12/09/2012,"64 Dollymount Avenue, Clontarf",Dublin,521000.0,No,Clontarf,Dublin 3,q3,60%
+13/09/2012,"46 Crescent House, Clontarf, Dublin 3",Dublin,93000.0,No,Clontarf,Dublin 3,q1,10%
+14/09/2012,"4 Mount Prospect Drive, Clontarf, Dublin 3",Dublin,337000.0,No,Clontarf,Dublin 3,q2,30%
+14/09/2012,"5 Hampton Court, Vernon Ave, Clontarf",Dublin,470000.0,No,Clontarf,Dublin 3,q2,50%
+17/09/2012,"13 Beverley Court, Vernon Avenue, Clontarf",Dublin,155000.0,No,Clontarf,Dublin 3,q1,10%
+17/09/2012,"131 Kincora Road, Clontarf",Dublin,376000.0,No,Clontarf,Dublin 3,q2,40%
+19/09/2012,"35 Danesfort, Clontarf, Dublin 3",Dublin,284000.0,No,Clontarf,Dublin 3,q1,20%
+24/09/2012,"1 Lambourne Village, Clontarf",Dublin,140000.0,No,Clontarf,Dublin 3,q1,10%
+24/09/2012,"217 Vernon Avenue, Clontarf",Dublin,555000.0,No,Clontarf,Dublin 3,q3,60%
+24/09/2012,"70A Kincora Court, Clontarf",Dublin,201000.0,No,Clontarf,Dublin 3,q1,10%
+28/09/2012,"127 Conquer Hill Road, Clontarf, Dublin 3",Dublin,225000.0,No,Clontarf,Dublin 3,q1,10%
+28/09/2012,"21, Vernon Avenue, Clontarf",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+28/09/2012,"4  Hollybrook Grove, Clontarf, Dublin 3",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+03/10/2012,"109 Kincora Road, Clontarf",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+08/10/2012,"35 Vernon Avenue, Clontarf",Dublin,343000.0,No,Clontarf,Dublin 3,q2,30%
+16/10/2012,"53 Danesfort, Clontarf",Dublin,150000.0,No,Clontarf,Dublin 3,q1,10%
+18/10/2012,"58 Conquer Hill Road, Clontarf, Dublin 3",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+19/10/2012,"117 Belgrove Park, Mount Prospect Lawns, Mount Prospect Avenue  Clontarf",Dublin,295000.0,No,Clontarf,Dublin 3,q1,20%
+19/10/2012,"8 Kincora Drive, Clontarf",Dublin,495000.0,No,Clontarf,Dublin 3,q2,50%
+24/10/2012,"46 Ashbrook, Clontarf, Dublin 3",Dublin,332000.0,No,Clontarf,Dublin 3,q2,30%
+30/10/2012,"53 Hollybrook Road, Clontarf",Dublin,1000000.0,No,Clontarf,Dublin 3,q4,100%
+31/10/2012,"41 Seapark Drive, Clontarf",Dublin,366000.0,No,Clontarf,Dublin 3,q2,40%
+06/11/2012,"50 Hollybrook Grove, Clontarf",Dublin,336000.0,No,Clontarf,Dublin 3,q2,30%
+12/11/2012,"419 Clontarf Road, Clontarf, Dublin 3",Dublin,512500.0,No,Clontarf,Dublin 3,q2,50%
+12/11/2012,"56 Hollybrook Grove, Clontarf",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+12/11/2012,"Apt 101 Belgrove Park, Mount Prospect Lawns, Clontarf",Dublin,225000.0,No,Clontarf,Dublin 3,q1,10%
+14/11/2012,"18 Merchamp, Seafield Road, Clontarf",Dublin,155000.0,No,Clontarf,Dublin 3,q1,10%
+16/11/2012,"37 Dunseverick Road, Clontarf",Dublin,640000.0,No,Clontarf,Dublin 3,q3,70%
+20/11/2012,"14A Kincora Court, Clontarf, Dublin3",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+27/11/2012,"26 Hollybrook Road, Clontarf, Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+30/11/2012,"113 Stiles Road, Clontarf, Dublin 3",Dublin,620000.0,No,Clontarf,Dublin 3,q3,70%
+30/11/2012,"171 Clontarf Road, Clontarf",Dublin,596000.0,No,Clontarf,Dublin 3,q3,70%
+03/12/2012,"42 Copeland Grove, Clontarf",Dublin,290500.0,No,Clontarf,Dublin 3,q1,20%
+06/12/2012,"35 Mount Prospect Grove, Clontarf",Dublin,435000.0,No,Clontarf,Dublin 3,q2,40%
+06/12/2012,"7 Castleview, Clontarf",Dublin,530000.0,No,Clontarf,Dublin 3,q3,60%
+08/12/2012,"Aptment 37 Block D, Danes Court, Clontarf",Dublin,155000.0,No,Clontarf,Dublin 3,q1,10%
+13/12/2012,"2 Pintail House, Redcourt Oaks, Seafield Road  Clontarf",Dublin,291000.0,No,Clontarf,Dublin 3,q1,20%
+14/12/2012,"19 Summerville, Clontarf Road, Clontarf",Dublin,315000.0,No,Clontarf,Dublin 3,q1,30%
+14/12/2012,"23 Clontarf Park, Clontarf",Dublin,365000.0,No,Clontarf,Dublin 3,q2,40%
+14/12/2012,"74 Dollymount Park, Clontarf",Dublin,355000.0,No,Clontarf,Dublin 3,q2,30%
+17/12/2012,"34  Vernon Avenue, Clontarf, Dublin 3",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+18/12/2012,"1 - 3 Lawrence Grove, Clontarf, Dublin 3",Dublin,676000.0,No,Clontarf,Dublin 3,q3,80%
+18/12/2012,"290 Kincora Road, Clontarf",Dublin,430000.0,No,Clontarf,Dublin 3,q2,40%
+19/12/2012,"144 The Stiles Road, Clontarf",Dublin,515000.0,No,Clontarf,Dublin 3,q2,50%
+19/12/2012,"25 Haddon Road, Clontarf",Dublin,935000.0,No,Clontarf,Dublin 3,q4,100%
+19/12/2012,"8 Dollymount Park, Clontarf",Dublin,163750.0,No,Clontarf,Dublin 3,q1,10%
+20/12/2012,"13 Kincora Grove, Clontarf, Dublin 3",Dublin,525200.0,No,Clontarf,Dublin 3,q3,60%
+20/12/2012,"267 Clontarf Road, Clontarf, Dublin 3",Dublin,400000.0,No,Clontarf,Dublin 3,q2,40%
+20/12/2012,"41 Dollymount Park, Clontarf, Dublin 3",Dublin,275000.0,No,Clontarf,Dublin 3,q1,20%
+20/12/2012,"5 Blackheath Grove, Clontarf",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+21/12/2012,"116 Seafield Rd East, Clontarf",Dublin,565000.0,No,Clontarf,Dublin 3,q3,60%
+21/12/2012,"13 Hollybrook Mews, Clontarf, Dublin 3",Dublin,217500.0,No,Clontarf,Dublin 3,q1,10%
+21/12/2012,"44 Conquerhill Road, Clontarf",Dublin,240000.0,No,Clontarf,Dublin 3,q1,20%
+21/12/2012,"Apartment 7, Danes Court, Clontarf",Dublin,133000.0,No,Clontarf,Dublin 3,q1,10%
+11/01/2013,"14 Grosvenor Court, Vernon Avenue, Clontarf",Dublin,180000.0,No,Clontarf,Dublin 3,q1,10%
+15/01/2013,"15  The Crescent, Clontarf, Dublin 3",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+15/01/2013,"44 Hampton Court, Clontarf, Dublin",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+18/01/2013,"13, Charlemont Road, Clontarf",Dublin,300000.0,No,Clontarf,Dublin 3,q1,30%
+18/01/2013,"22 Park Lawn, Mount Prospect Ave., Clontarf",Dublin,460000.0,No,Clontarf,Dublin 3,q2,50%
+22/01/2013,"116 St.Lawrence Road, Clontarf",Dublin,400000.0,No,Clontarf,Dublin 3,q2,40%
+25/01/2013,"85 Kincora Court, Clontarf",Dublin,255000.0,No,Clontarf,Dublin 3,q1,20%
+28/01/2013,"37 Brian Boru Avenue, Clontarf",Dublin,148200.0,No,Clontarf,Dublin 3,q1,10%
+07/02/2013,"51 Mount Prospect Grove, Clontarf",Dublin,428000.0,No,Clontarf,Dublin 3,q2,40%
+19/02/2013,"146 Seafield Road, Clontarf",Dublin,710000.0,No,Clontarf,Dublin 3,q4,80%
+22/02/2013,"23 Castle Court, Clontarf",Dublin,272000.0,No,Clontarf,Dublin 3,q1,20%
+22/02/2013,"54 Copeland Road, Clontarf, Dublin",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+27/02/2013,"63 Hollybrook Park, Clontarf, Dublin 3",Dublin,755000.0,No,Clontarf,Dublin 3,q4,90%
+07/03/2013,"150 Stiles Road, Clontarf",Dublin,390000.0,No,Clontarf,Dublin 3,q2,40%
+08/03/2013,"16 Hollybrook Grove, Clontarf, Dublin 3",Dublin,367250.0,No,Clontarf,Dublin 3,q2,40%
+11/03/2013,"33 Dunluce Road, Clontarf, Dublin 3",Dublin,354000.0,No,Clontarf,Dublin 3,q2,30%
+14/03/2013,"173 Ashbrook, Clontarf",Dublin,323500.0,No,Clontarf,Dublin 3,q1,30%
+21/03/2013,"17 Brian Boru Street, Clontarf",Dublin,265000.0,No,Clontarf,Dublin 3,q1,20%
+27/03/2013,"168 Belgrove Park, Mount Prospect Lawn, Clontarf",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+28/03/2013,"3 St Joseph'S Square, Clontarf, Dublin 3",Dublin,210000.0,No,Clontarf,Dublin 3,q1,10%
+28/03/2013,"48 Hollybrook Road, Clontarf",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%
+28/03/2013,"59 Mount Prospect Drive, Clontarf, Dublin 3",Dublin,370000.0,No,Clontarf,Dublin 3,q2,40%
+11/04/2013,"27 St Josephs Square, Clontarf",Dublin,130000.0,No,Clontarf,Dublin 3,q1,10%
+17/04/2013,"208 Clontarf Road, Clontarf",Dublin,380000.0,No,Clontarf,Dublin 3,q2,40%
+25/04/2013,"37 Hollybrook Mews, Hollybrook Road, Clontarf",Dublin,480000.0,No,Clontarf,Dublin 3,q2,50%
+29/04/2013,"9A Dollymount Avenue, Clontarf, Dublin 3",Dublin,555100.0,No,Clontarf,Dublin 3,q3,60%
+01/05/2013,"135 Seafield Road East, Clontarf",Dublin,875000.0,No,Clontarf,Dublin 3,q4,90%
+03/05/2013,"22 Copeland Grove, Clontarf",Dublin,311000.0,No,Clontarf,Dublin 3,q1,30%
+06/05/2013,"13 & 14 Marino Crescent, Clontarf",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+17/05/2013,"2 Vernon Court, Clontarf, Dublin 3",Dublin,195000.0,No,Clontarf,Dublin 3,q1,10%
+22/05/2013,"Apt. 88 Belgrove Park, Clontarf, Dublin 3",Dublin,179000.0,No,Clontarf,Dublin 3,q1,10%
+27/05/2013,"235 Clontarf Road, Clontarf, Dublin",Dublin,340000.0,No,Clontarf,Dublin 3,q2,30%
+29/05/2013,"11 Park Lawn, Clontarf",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+29/05/2013,"No. 1 Blackheath Avenue, Clontarf, Dublin 3",Dublin,692000.0,No,Clontarf,Dublin 3,q3,80%
+30/05/2013,"73 Hollybrook Grove, Clontarf, Dublin 3",Dublin,150000.0,No,Clontarf,Dublin 3,q1,10%
+30/05/2013,"Apt. 114 Brooklawns, Strandville Avenue, Clontarf",Dublin,60000.0,No,Clontarf,Dublin 3,q1,10%
+31/05/2013,"184 Kincora Road, Clontarf, Dublin 3",Dublin,411000.0,No,Clontarf,Dublin 3,q2,40%
+05/06/2013,"54 Kincora Court, Clontarf, Dublin 3",Dublin,517500.0,No,Clontarf,Dublin 3,q3,60%
+05/06/2013,"Apartment 8 Hollybrook Court, Clontarf",Dublin,127000.0,No,Clontarf,Dublin 3,q1,10%
+06/06/2013,"23 Summerville, Clontarf",Dublin,435000.0,No,Clontarf,Dublin 3,q2,40%
+07/06/2013,"48 Dollymount Park, Clontarf Road, Dublin 3",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+07/06/2013,"9 Seacourt, Seafield Road East, Clontarf",Dublin,535027.0,No,Clontarf,Dublin 3,q3,60%
+13/06/2013,"9 Dollymount Avenue, Clontarf",Dublin,617500.0,No,Clontarf,Dublin 3,q3,70%
+14/06/2013,"61 Blackheath Park, Clontarf",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+19/06/2013,"50 Hollybrook Road, Clontarf",Dublin,905000.0,No,Clontarf,Dublin 3,q4,100%
+20/06/2013,"158 Castle Avenue, Clontarf",Dublin,535000.0,No,Clontarf,Dublin 3,q3,60%
+24/06/2013,"87 Mount Prospect Lawns, Mount Pleasent Avenue, Clontarf",Dublin,230000.0,No,Clontarf,Dublin 3,q1,20%
+25/06/2013,"11 Dollymount Park, Clontarf",Dublin,530000.0,No,Clontarf,Dublin 3,q3,60%
+27/06/2013,"81 Conquer Hill Road, Clontarf, Dublin 3",Dublin,286500.0,No,Clontarf,Dublin 3,q1,20%
+03/07/2013,"23 Copeland Avenue, Clontarf, Dublin 3",Dublin,465500.0,No,Clontarf,Dublin 3,q2,50%
+03/07/2013,"34 Hampton Court, Clontarf",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+04/07/2013,"21 Hampton Court, Clontarf, Dublin 3",Dublin,533000.0,No,Clontarf,Dublin 3,q3,60%
+05/07/2013,"16 The Laurels, Mount Prospect Avenue, Clontarf",Dublin,330000.0,No,Clontarf,Dublin 3,q2,30%
+11/07/2013,"2 Knightsbridge, Castle Avenue, Clontarf",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+11/07/2013,"84 Clontarf Road, Clontarf",Dublin,205000.0,No,Clontarf,Dublin 3,q1,10%
+12/07/2013,"14 The Schooner, Alverno, Clontarf",Dublin,225000.0,No,Clontarf,Dublin 3,q1,10%
+15/07/2013,"45A Conquor Hill, Clontarf",Dublin,420000.0,No,Clontarf,Dublin 3,q2,40%
+15/07/2013,"Flat 10, Carlton Court, Clontarf",Dublin,140000.0,No,Clontarf,Dublin 3,q1,10%
+23/07/2013,"Plot Of Ground East Side Of Vernon, Avenue In The Parish Of Clontarf",Dublin,465000.0,No,Clontarf,Dublin 3,q2,50%
+25/07/2013,"14  St. Lawrence Road, Clontarf",Dublin,840000.0,No,Clontarf,Dublin 3,q4,90%
+30/07/2013,"140 Belgrove Park, Clontarf",Dublin,199000.0,No,Clontarf,Dublin 3,q1,10%
+30/07/2013,"185 Vernon Avenue, Clontarf, Dublin 3",Dublin,440000.0,No,Clontarf,Dublin 3,q2,40%
+31/07/2013,"151 Kincora Road, Clontarf, Dublin 3",Dublin,420000.0,No,Clontarf,Dublin 3,q2,40%
+01/08/2013,"127 The Stiles Road, Clontarf, Dublin 3",Dublin,615000.0,No,Clontarf,Dublin 3,q3,70%
+02/08/2013,"167 Clontarf Road, Clontarf, Dublin 3",Dublin,470000.0,No,Clontarf,Dublin 3,q2,50%
+02/08/2013,"48 Kincora Road, Clontarf, Dublin 3",Dublin,835000.0,No,Clontarf,Dublin 3,q4,90%
+07/08/2013,"134 Seapark, Mount Prospect Avenue, Clontarf",Dublin,190000.0,No,Clontarf,Dublin 3,q1,10%
+08/08/2013,"17 Court View, Castle Avenue, Clontarf",Dublin,227000.0,No,Clontarf,Dublin 3,q1,10%
+09/08/2013,"18  Seafield Avenue, Clontarf",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+12/08/2013,"42 Seapark Drive, Clontarf",Dublin,472000.0,No,Clontarf,Dublin 3,q2,50%
+21/08/2013,"Rear Of 21 Kincora Court, Clontarf, Dublin 3",Dublin,22500.0,No,Clontarf,Dublin 3,q1,10%
+22/08/2013,"6 Haddon Court, Clontarf",Dublin,158500.0,No,Clontarf,Dublin 3,q1,10%
+23/08/2013,"Apartment 8, 52  Castle Avenue, Clontarf",Dublin,80000.0,No,Clontarf,Dublin 3,q1,10%
+28/08/2013,"173 Clontarf Road, Clontarf",Dublin,12000.0,No,Clontarf,Dublin 3,q1,10%
+28/08/2013,"173 Clontarf Road, Clontarf",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+29/08/2013,"52 Mount Prospect Drive, Clontarf, Dublin 3",Dublin,590000.0,No,Clontarf,Dublin 3,q3,60%
+29/08/2013,"88 Kincora Grove, Clontarf",Dublin,615000.0,No,Clontarf,Dublin 3,q3,70%
+30/08/2013,"23 Vernon Gardens, Clontarf, Dublihn 3",Dublin,480000.0,No,Clontarf,Dublin 3,q2,50%
+30/08/2013,"33 Merchamp, Seafield Road East, Clontarf",Dublin,125000.0,No,Clontarf,Dublin 3,q1,10%
+06/09/2013,"Apartment 18, Hollybrook Mews, Clontarf",Dublin,252500.0,No,Clontarf,Dublin 3,q1,20%
+06/09/2013,"Apt 27 The Schooner, Castle Avenue, Clontarf",Dublin,132000.0,No,Clontarf,Dublin 3,q1,10%
+10/09/2013,"21 Mount Prospect Park, Clontarf, Dublin 3",Dublin,532000.0,No,Clontarf,Dublin 3,q3,60%
+12/09/2013,"33 Hollybrook Grove, Clontarf",Dublin,361000.0,No,Clontarf,Dublin 3,q2,40%
+13/09/2013,"1 Fortview Ave, Clontarf, Dublin 3",Dublin,325000.0,No,Clontarf,Dublin 3,q1,30%
+17/09/2013,"Apt 111 Seapark, Mount Prospect Avenue, Clontarf",Dublin,190000.0,No,Clontarf,Dublin 3,q1,10%
+19/09/2013,"96 Kincora Avenue, Clontarf",Dublin,582000.0,No,Clontarf,Dublin 3,q3,60%
+23/09/2013,"26 Castle Grove, Clontarf",Dublin,570000.0,No,Clontarf,Dublin 3,q3,60%
+23/09/2013,"69 Kincora Drive, Clontarf, Dublin 3",Dublin,560000.0,No,Clontarf,Dublin 3,q3,60%
+23/09/2013,"Apt 22 The Schooner, Alverno  Castle Avenue, Clontarf",Dublin,122000.0,No,Clontarf,Dublin 3,q1,10%
+24/09/2013,"156 Kincora Road, Clontarf, Dublin 3",Dublin,475000.0,No,Clontarf,Dublin 3,q2,50%
+24/09/2013,"21 Chelsea Gardens, Clontarf",Dublin,367500.0,No,Clontarf,Dublin 3,q2,40%
+25/09/2013,"31 Redcourt Oaks, Seafield Road East, Clontarf",Dublin,260000.0,No,Clontarf,Dublin 3,q1,20%
+27/09/2013,"27 St Lawrence'S Road, Clontarf",Dublin,505000.0,No,Clontarf,Dublin 3,q2,50%
+01/10/2013,"6 Castle Grove, Clontarf",Dublin,562000.0,No,Clontarf,Dublin 3,q3,60%
+02/10/2013,"132 Clontarf Road, Clontarf, Dublin 3",Dublin,825000.0,No,Clontarf,Dublin 3,q4,90%
+02/10/2013,"26 St. David'S Court, Castle Avenue, Clontarf",Dublin,225000.0,No,Clontarf,Dublin 3,q1,10%
+02/10/2013,"60 Dunluce Road, Clontarf",Dublin,390000.0,No,Clontarf,Dublin 3,q2,40%
+04/10/2013,"13 Blackheath Court, Blackheath Park, Clontarf",Dublin,344750.0,No,Clontarf,Dublin 3,q2,30%
+09/10/2013,"Silverne, 150 Clontarf Road, Clontarf",Dublin,720000.0,No,Clontarf,Dublin 3,q4,80%
+11/10/2013,"22 Kincora Court, Clontarf, Dublin 3",Dublin,395000.0,No,Clontarf,Dublin 3,q2,40%
+24/10/2013,"11 Vernon Grove, Clontarf",Dublin,440000.0,No,Clontarf,Dublin 3,q2,40%
+24/10/2013,"286 Kincora Road, Clontarf",Dublin,418500.0,No,Clontarf,Dublin 3,q2,40%
+24/10/2013,"43 Kincora Road, Clontarf, Dublin 3",Dublin,830000.0,No,Clontarf,Dublin 3,q4,90%
+30/10/2013,"108 Brooklawn, Strandville Ave East, Clontarf Dublin 3",Dublin,142000.0,No,Clontarf,Dublin 3,q1,10%
+31/10/2013,"169 Clontarf Road, Clontarf",Dublin,750000.0,No,Clontarf,Dublin 3,q4,90%
+31/10/2013,"52 The Stiles Road, Clontarf, Dublin 3",Dublin,640000.0,No,Clontarf,Dublin 3,q3,70%
+31/10/2013,"7 Woodside, Clontarf",Dublin,835000.0,No,Clontarf,Dublin 3,q4,90%
+01/11/2013,"16 Dollymount Park, Clontarf, Dublin 3",Dublin,470000.0,No,Clontarf,Dublin 3,q2,50%
+01/11/2013,"40 Seafield Road West, Clontarf",Dublin,1200000.0,No,Clontarf,Dublin 3,q4,100%
+01/11/2013,"Apartment 70 Belgrove, Park  Mount Prospect, Clontarf",Dublin,185000.0,No,Clontarf,Dublin 3,q1,10%
+05/11/2013,"168 Castle Avenue, Clontarf, Dublin 3",Dublin,530000.0,No,Clontarf,Dublin 3,q3,60%
+05/11/2013,"25 Dunseverick Road, Clontarf, Dublin 3",Dublin,535000.0,No,Clontarf,Dublin 3,q3,60%
+06/11/2013,"84 Hampton Court, Clontarf, Dublin 3",Dublin,595000.0,No,Clontarf,Dublin 3,q3,70%
+07/11/2013,"11  Kincora Avenue, Clontarf",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+12/11/2013,"3 Pintail House, Redcourt Oaks, Clontarf",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+14/11/2013,"3 Vernon Gardens, Clontarf",Dublin,460000.0,No,Clontarf,Dublin 3,q2,50%
+15/11/2013,"140 Vernon Avenue, Clontarf, Dublin 3",Dublin,655000.0,No,Clontarf,Dublin 3,q3,70%
+15/11/2013,"66 The Stiles Rd, Clontarf, Dublin 3",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+18/11/2013,"2 Strandville House, Strandville Avenue East, Clontarf",Dublin,200000.0,No,Clontarf,Dublin 3,q1,10%
+19/11/2013,"63 Mount Prospect Park, Clontarf, Dublin 3",Dublin,405000.0,No,Clontarf,Dublin 3,q2,40%
+20/11/2013,"211 Clontarf Road, Clontarf",Dublin,780000.0,No,Clontarf,Dublin 3,q4,90%
+21/11/2013,"3 Marino Ave, Clontarf, Dublin 3",Dublin,195000.0,No,Clontarf,Dublin 3,q1,10%
+22/11/2013,"152 Clontarf Rd, Clontarf, Dublin 3",Dublin,795000.0,No,Clontarf,Dublin 3,q4,90%
+22/11/2013,"75 Seapark Road, Clontarf, Dublin",Dublin,355000.0,No,Clontarf,Dublin 3,q2,30%
+26/11/2013,"50 Kincora Rd, Clontarf, Dublin 3",Dublin,805000.0,No,Clontarf,Dublin 3,q4,90%
+29/11/2013,"17 Castilla Park, Clontarf",Dublin,465000.0,No,Clontarf,Dublin 3,q2,50%
+29/11/2013,"27 Hollybrook Grove, Clontarf, Dublin 3",Dublin,340000.0,No,Clontarf,Dublin 3,q2,30%
+29/11/2013,"8 Bruach Na Mara, 187 Seafield Road East, Clontarf",Dublin,245000.0,No,Clontarf,Dublin 3,q1,20%
+02/12/2013,"117 Vernon Ave Clontarf, Clontarf, Dublin 3",Dublin,780000.0,No,Clontarf,Dublin 3,q4,90%
+06/12/2013,"25 Haddon Court, Haddon Rd, Clontarf Dublin 3",Dublin,240000.0,No,Clontarf,Dublin 3,q1,20%
+06/12/2013,"5 Dollymount Park, Clontarf, Dublin 3",Dublin,440000.0,No,Clontarf,Dublin 3,q2,40%
+09/12/2013,"39 St Davids Court, Castle Ave, Clontarf Dublin 3",Dublin,255000.0,No,Clontarf,Dublin 3,q1,20%
+10/12/2013,"29 Brooklawn Apts, Clontarf, Dublin 3",Dublin,175000.0,No,Clontarf,Dublin 3,q1,10%
+12/12/2013,"17 Dunseverick Road, Clontarf, Dublin 3",Dublin,525000.0,No,Clontarf,Dublin 3,q3,60%
+12/12/2013,"189 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,595000.0,No,Clontarf,Dublin 3,q3,70%
+12/12/2013,"21 Redcourts Oaks, Seafield Road, Clontarf",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+12/12/2013,"28 Pintail, Redcourt Oaks, Clontarf",Dublin,275000.0,No,Clontarf,Dublin 3,q1,20%
+13/12/2013,"23 Kincora Avenue, Clontarf, Dublin 3",Dublin,737000.0,No,Clontarf,Dublin 3,q4,80%
+16/12/2013,"101 Kincora Court, Clontarf, Dublin 3",Dublin,315000.0,No,Clontarf,Dublin 3,q1,30%
+16/12/2013,"127 Dunluce Road, Clontarf, Dublin 3",Dublin,355000.0,No,Clontarf,Dublin 3,q2,30%
+16/12/2013,"70 Kincora Rd, Clontarf, Dublin 3",Dublin,695000.0,No,Clontarf,Dublin 3,q3,80%
+16/12/2013,"79 Blackheath Park, Clontarf, Dublin 3",Dublin,840000.0,No,Clontarf,Dublin 3,q4,90%
+17/12/2013,"55 Victoria Rd, Clontarf, Dublin",Dublin,535000.0,No,Clontarf,Dublin 3,q3,60%
+18/12/2013,"4 Duncan Court, Vernon Ave, Clontarf Dublin 3",Dublin,200000.0,No,Clontarf,Dublin 3,q1,10%
+19/12/2013,"142 Dunluce Rd, Clontarf, Dublin 3",Dublin,522000.0,No,Clontarf,Dublin 3,q3,60%
+19/12/2013,"52 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,615500.0,No,Clontarf,Dublin 3,q3,70%
+20/12/2013,"26 Seapark Rd, Clontarf, Dublin 3",Dublin,812997.0,No,Clontarf,Dublin 3,q4,90%
+20/12/2013,"26 Vernon Heath, Clontarf, Dublin 3",Dublin,630000.0,No,Clontarf,Dublin 3,q3,70%
+20/12/2013,"38 St. David'S Court, Castle Avenue, Clontarf Dublin 3",Dublin,227000.0,No,Clontarf,Dublin 3,q1,20%
+20/12/2013,"6Hollybrookmanor, Hollybrookpark, Clontarf Dublin 3",Dublin,150000.0,No,Clontarf,Dublin 3,q1,10%
+23/12/2013,"89 Kincora Court, Clontarf, Dublin 3",Dublin,295000.0,No,Clontarf,Dublin 3,q1,20%
+30/12/2013,"The White House, 125 Clontarf Road, Dublin 3",Dublin,715000.0,No,Clontarf,Dublin 3,q4,80%
+08/01/2014,"30 Blackheath Gardens, Clontarf, Dublin 3",Dublin,575000.0,No,Clontarf,Dublin 3,q3,60%
+08/01/2014,"83 Kincora Court, Clontarf",Dublin,215000.0,No,Clontarf,Dublin 3,q1,10%
+09/01/2014,"43 Conquer Hill Rd, Clontarf, Dublin",Dublin,175000.0,No,Clontarf,Dublin 3,q1,10%
+16/01/2014,"114 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,175000.0,No,Clontarf,Dublin 3,q1,10%
+20/01/2014,"78A Vernon Ave, Clontarf, Dublin",Dublin,690000.0,No,Clontarf,Dublin 3,q3,80%
+24/01/2014,"78 Seafield Rd East, Clontarf, Dublin 3",Dublin,1200000.0,No,Clontarf,Dublin 3,q4,100%
+30/01/2014,"74 Castle Ave, Clontarf, Dublin 3",Dublin,375000.0,No,Clontarf,Dublin 3,q2,40%
+31/01/2014,"79 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,1051850.0,No,Clontarf,Dublin 3,q4,100%
+04/02/2014,"1 Kincora Dr, Clontarf, Dublin 3",Dublin,730000.0,No,Clontarf,Dublin 3,q4,80%
+10/02/2014,"Mayville, 161 Seafield Road East, Clontarf",Dublin,1000000.0,No,Clontarf,Dublin 3,q4,100%
+12/02/2014,"28 Dollymount Avenue, Clontarf, Dublin 3",Dublin,800000.0,No,Clontarf,Dublin 3,q4,90%
+17/02/2014,"55 Dollymount Park, Clontarf, Dublin 3",Dublin,395000.0,No,Clontarf,Dublin 3,q2,40%
+26/02/2014,"435 Clontarf Rd, Clontarf, Dublin 3",Dublin,542000.0,No,Clontarf,Dublin 3,q3,60%
+27/02/2014,"111 Kincora Rd, Clontarf, Dublin 3",Dublin,463000.0,No,Clontarf,Dublin 3,q2,50%
+27/02/2014,"7 Vernon Court, Clontarf Rd, Dublin 5",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+28/02/2014,"28 Vernon Court, Clontarf, Dublin 3",Dublin,225000.0,No,Clontarf,Dublin 3,q1,10%
+28/02/2014,"3 Victoria Terrrace, Summerivlle, Clontarf",Dublin,412500.0,No,Clontarf,Dublin 3,q2,40%
+11/03/2014,"34 Baymount Park, Dollymount, Clontarf Dublin 3",Dublin,1165000.0,No,Clontarf,Dublin 3,q4,100%
+19/03/2014,"49 Seafield Road East, Clontarf",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+21/03/2014,"1 Seafield Close, Clontarf, Dublin 3",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+21/03/2014,"180 Dunluce Rd, Clontarf, Dublin 3",Dublin,485000.0,No,Clontarf,Dublin 3,q2,50%
+27/03/2014,"19 Kincora Ave, Clontarf, Dublin 3",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+27/03/2014,"Apt 1 Vernon Court, 215 216 Clontarf Rd, Clontarf Dublin 3",Dublin,245000.0,No,Clontarf,Dublin 3,q1,20%
+27/03/2014,"Apt 63 Seapark, Montprospect Avenue, Clontarf",Dublin,157000.0,No,Clontarf,Dublin 3,q1,10%
+02/04/2014,"2 Stiles Court, Stiles Road, Clontarf",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+03/04/2014,"136 Dunluce Rd, Clontarf, Dublin 3",Dublin,421000.0,No,Clontarf,Dublin 3,q2,40%
+04/04/2014,"73 Seapark Drive, Clontarf, Dublin 3",Dublin,395000.0,No,Clontarf,Dublin 3,q2,40%
+07/04/2014,"8 Mount Prospect Lawns, Clontarf, Dublin 3",Dublin,695000.0,No,Clontarf,Dublin 3,q3,80%
+11/04/2014,"2 The Mews, Dollymount Ave, Clontarf Dublin 3",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+14/04/2014,"Apartment 3, Brooklawn, Clontarf",Dublin,260000.0,No,Clontarf,Dublin 3,q1,20%
+17/04/2014,"13 Marino Crescent, Clontarf, Dublin 3",Dublin,1100000.0,No,Clontarf,Dublin 3,q4,100%
+17/04/2014,"79 Kincora Court, Clontarf, Dublin 3",Dublin,285000.0,No,Clontarf,Dublin 3,q1,20%
+17/04/2014,"85 Conquer Hill Road, Clontarf, Dublin 3",Dublin,356000.0,No,Clontarf,Dublin 3,q2,30%
+23/04/2014,"16 Conquer Hill Avenue, Clontarf, Dublin 3",Dublin,220000.0,No,Clontarf,Dublin 3,q1,10%
+23/04/2014,"92 Castle Ave, Clontarf, Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+24/04/2014,"13 Copeland Ave, Clontarf, Dublin 3",Dublin,485000.0,No,Clontarf,Dublin 3,q2,50%
+25/04/2014,"17 Conquer Hill Ave, Clontarf, Dublin 3",Dublin,220000.0,No,Clontarf,Dublin 3,q1,10%
+02/05/2014,"12 Vernon Ave, Clontarf, Dublin 3",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+02/05/2014,"22 Mount Prospect Park, Clontarf, Dublin 3",Dublin,540000.0,No,Clontarf,Dublin 3,q3,60%
+09/05/2014,"12A Knightsbridge, Castle Avenue, Clontarf",Dublin,460000.0,No,Clontarf,Dublin 3,q2,50%
+15/05/2014,"8 The Oaks, Clontarf, Dublin 3",Dublin,357250.0,No,Clontarf,Dublin 3,q2,30%
+15/05/2014,"Apts 1 To 6 Charlemont Mews, And Plot To The Rear, Charlemont Road  Clontarf",Dublin,1070000.0,No,Clontarf,Dublin 3,q4,100%
+16/05/2014,"25 Blackheath Park, Clontarf, Dublin 3",Dublin,860000.0,No,Clontarf,Dublin 3,q4,90%
+19/05/2014,"33 Haddon Road, Clontarf, Dublin 3",Dublin,1000000.0,No,Clontarf,Dublin 3,q4,100%
+21/05/2014,"103 Kincora Rd, Clontarf, Dublin 3",Dublin,548000.0,No,Clontarf,Dublin 3,q3,60%
+26/05/2014,"19 Hollybrook Grove, Clontarf, Dublin 3",Dublin,529000.0,No,Clontarf,Dublin 3,q3,60%
+26/05/2014,"33 The Stiles Rd, Clontarf, Dublin 3",Dublin,1080000.0,No,Clontarf,Dublin 3,q4,100%
+27/05/2014,"84 St Lawrence Rd, Clontarf, Dublin 3",Dublin,955000.0,No,Clontarf,Dublin 3,q4,100%
+28/05/2014,"Spring Cottage, 3 Vernon Wood, Clontarf",Dublin,338325.0,No,Clontarf,Dublin 3,q2,30%
+30/05/2014,"75 Seapark, Mount Prospect Ave, Clontarf",Dublin,160000.0,No,Clontarf,Dublin 3,q1,10%
+05/06/2014,"48 Brooklawn, Strandville Ave East, Clontarf Dublin 3",Dublin,229250.0,No,Clontarf,Dublin 3,q1,20%
+06/06/2014,"47 Brooklawn, Strandville Ave East, Clontarf Dublin 3",Dublin,170000.0,No,Clontarf,Dublin 3,q1,10%
+10/06/2014,"105 Mount Prospect Drive, Clontarf",Dublin,475000.0,No,Clontarf,Dublin 3,q2,50%
+11/06/2014,"15 Vernon Avenue, Clontarf",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+13/06/2014,"5 Castleview, Clontarf, Dublin 3",Dublin,665000.0,No,Clontarf,Dublin 3,q3,80%
+17/06/2014,"62 Mount Prospect Dr, Clontarf, Dublin 3",Dublin,541000.0,No,Clontarf,Dublin 3,q3,60%
+27/06/2014,"13 Seafield Ave, Clontarf, Dublin 3",Dublin,740000.0,No,Clontarf,Dublin 3,q4,80%
+03/07/2014,"22 Victoria Rd, Clontarf, Dublin 3",Dublin,1020000.0,No,Clontarf,Dublin 3,q4,100%
+03/07/2014,"52 Glaslynn, Clontarf, Dublin 3",Dublin,445000.0,No,Clontarf,Dublin 3,q2,50%
+07/07/2014,"7 Seafield Court, Castle Ave, Clontarf Dublin 3",Dublin,87500.0,No,Clontarf,Dublin 3,q1,10%
+09/07/2014,"88 Hampton Court, Clontarf, Dublin 3",Dublin,615000.0,No,Clontarf,Dublin 3,q3,70%
+09/07/2014,"Rere 44 B Castle Ave, Clontarf, Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+11/07/2014,"22 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,185000.0,No,Clontarf,Dublin 3,q1,10%
+11/07/2014,"296 Clontarf Rd, Clontarf, Dublin 3",Dublin,622000.0,No,Clontarf,Dublin 3,q3,70%
+17/07/2014,"221 Clontarf Road, Dublin 3",Dublin,311000.0,No,Clontarf,Dublin 3,q1,30%
+21/07/2014,"93 Seafield Road East, Clontarf, Dublin 3",Dublin,880000.0,No,Clontarf,Dublin 3,q4,90%
+21/07/2014,"Apartment 4, Hollybrook Manor, Clontarf",Dublin,215000.0,No,Clontarf,Dublin 3,q1,10%
+22/07/2014,"14 Vernon Dr, Clontarf, Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+22/07/2014,"35 The Stiles Rd, Clontarf, Dublin 3",Dublin,1025000.0,No,Clontarf,Dublin 3,q4,100%
+23/07/2014,"14 Dollymount Grove, Clontarf, Dublin 3",Dublin,545000.0,No,Clontarf,Dublin 3,q3,60%
+24/07/2014,"68 Dollymount Park, Clontarf",Dublin,525000.0,No,Clontarf,Dublin 3,q3,60%
+29/07/2014,"222 Clontarf Road, Clontarf, Dublin 2",Dublin,755000.0,No,Clontarf,Dublin 3,q4,90%
+31/07/2014,"156 Castle Ave, Clontarf, Dublin 3",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+01/08/2014,"130 Belgrove Pk, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,354500.0,No,Clontarf,Dublin 3,q2,30%
+05/08/2014,"68 St Lawerence Rd, Clontarf, Dublin 3",Dublin,1459500.0,No,Clontarf,Dublin 3,q4,100%
+08/08/2014,"20 Blackheath Gardens, Clontarf, Dublin 3",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+08/08/2014,"6 Vernon Park, Clontarf, Dublin 3",Dublin,641250.0,No,Clontarf,Dublin 3,q3,70%
+13/08/2014,"65B Vernon Ave, Clontarf, Dublin 3",Dublin,452000.0,No,Clontarf,Dublin 3,q2,50%
+15/08/2014,"122 Kincora Rd, Clontarf, Dublin 3",Dublin,661000.0,No,Clontarf,Dublin 3,q3,70%
+15/08/2014,"157 Belgrove Park, Mount Prospect Lawns, Clontarf",Dublin,320540.0,No,Clontarf,Dublin 3,q1,30%
+18/08/2014,"16 Seafield Close, Clontarf, Dublin 3",Dublin,457000.0,Yes,Clontarf,Dublin 3,q2,50%
+19/08/2014,"123 Seapark, Clontarf, Dublin 3",Dublin,227000.0,No,Clontarf,Dublin 3,q1,20%
+20/08/2014,"21 Hollybrook Mews, Hollybrook Park, Clontarf",Dublin,190000.0,No,Clontarf,Dublin 3,q1,10%
+27/08/2014,"16 Mount Prospect Dr, Clontarf, Dublin 3",Dublin,525000.0,No,Clontarf,Dublin 3,q3,60%
+28/08/2014,"38 Ashbrook, Clontarf, Dublin 3",Dublin,585000.0,No,Clontarf,Dublin 3,q3,60%
+29/08/2014,"25 Hollybrook Mews, Clontarf, Dublin",Dublin,190000.0,No,Clontarf,Dublin 3,q1,10%
+29/08/2014,"Apt 14, Hollybrook Manor, Clontarf",Dublin,155000.0,No,Clontarf,Dublin 3,q1,10%
+01/09/2014,"24 Hollybrook Grove, Clontarf, Dublin 3",Dublin,482000.0,No,Clontarf,Dublin 3,q2,50%
+02/09/2014,"73 Hollybrook Rd, Clontarf, Dublin 3",Dublin,1100000.0,No,Clontarf,Dublin 3,q4,100%
+04/09/2014,"117 The Stiles Road, Clontarf, Dublin 3",Dublin,707000.0,No,Clontarf,Dublin 3,q4,80%
+04/09/2014,"9 Hollybrook Manor, Clontarf, Dublin 3",Dublin,155000.0,Yes,Clontarf,Dublin 3,q1,10%
+05/09/2014,"5 Lambourne Village, Clontarf, Dublin 3",Dublin,451000.0,No,Clontarf,Dublin 3,q2,50%
+10/09/2014,"178 Vernon Avenue, Clontarf",Dublin,645000.0,No,Clontarf,Dublin 3,q3,70%
+10/09/2014,"67 Dollymount Park, Clontarf, Dublin 3",Dublin,562500.0,No,Clontarf,Dublin 3,q3,60%
+10/09/2014,"90 Clontarf Rd, Dublin 3, Dublin",Dublin,1225000.0,No,Clontarf,Dublin 3,q4,100%
+10/09/2014,"Apartment 10 Block B, Hollybrook Manor, Clontarf",Dublin,153000.0,No,Clontarf,Dublin 3,q1,10%
+11/09/2014,"4 Cecil Ave, Clontarf, Dublin 3",Dublin,345000.0,No,Clontarf,Dublin 3,q2,30%
+16/09/2014,"67 Hollybrook Grove, Clontarf, Dublin 3",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+17/09/2014,"9 Hollybrook Road, Clontarf, Dublin",Dublin,1215000.0,No,Clontarf,Dublin 3,q4,100%
+18/09/2014,"131 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,355000.0,No,Clontarf,Dublin 3,q2,30%
+19/09/2014,"1 Dollymount Avenue, Clontarf, Dublin 3",Dublin,885000.0,No,Clontarf,Dublin 3,q4,90%
+19/09/2014,"80 Blackheath Park, Clontarf, Dublin 3",Dublin,880000.0,No,Clontarf,Dublin 3,q4,90%
+22/09/2014,"33 Brian Boru Avenue, Clontarf",Dublin,90000.0,No,Clontarf,Dublin 3,q1,10%
+26/09/2014,"8 Brighton Avenue, Clontarf",Dublin,284000.0,No,Clontarf,Dublin 3,q1,20%
+29/09/2014,"16 Pintail House, Redcourt Oaks, Clontarf",Dublin,370000.0,No,Clontarf,Dublin 3,q2,40%
+29/09/2014,"61 Mount Prospect Dr, Clontarf, Dublin 3",Dublin,470000.0,No,Clontarf,Dublin 3,q2,50%
+29/09/2014,"95 Dollymount Park, Clontarf, Dublin 3",Dublin,465000.0,No,Clontarf,Dublin 3,q2,50%
+09/10/2014,"34 Kincora Ave, Clontarf, Dublin 3",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+10/10/2014,"95 Kincora Ave, Clontarf, Dublin 3",Dublin,802000.0,No,Clontarf,Dublin 3,q4,90%
+10/10/2014,"Apt 5, 52 Castle Ave, Clontarf Dublin 3",Dublin,143000.0,No,Clontarf,Dublin 3,q1,10%
+10/10/2014,"Vernon Lodge, Castle Avenue, Clontarf",Dublin,875000.0,No,Clontarf,Dublin 3,q4,90%
+14/10/2014,"99 Seafield Rd, Clontarf, Dublin 3",Dublin,512000.0,No,Clontarf,Dublin 3,q2,50%
+15/10/2014,"1 Victoria Terrace, Summerville, Clontarf Dublin 3",Dublin,420000.0,No,Clontarf,Dublin 3,q2,40%
+17/10/2014,"1 Brooklawn, Strandville Rd, Clontarf Dublin 3",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+17/10/2014,"2 Victoria Terrace, Clontarf",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+21/10/2014,"40 Seapark Drive, Clontarf, Dublin 3",Dublin,440000.0,No,Clontarf,Dublin 3,q2,50%
+22/10/2014,"98 Kincora Grove, Clontarf",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+29/10/2014,"8 Mount Prospect Lawns, Clontarf, Dublin 3",Dublin,755000.0,No,Clontarf,Dublin 3,q4,90%
+30/10/2014,"68 Belgrove Park, Mount Prospect Ave, Clontarf Dublin 3",Dublin,245000.0,No,Clontarf,Dublin 3,q1,20%
+31/10/2014,"118 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+03/11/2014,"45 Seapark, Mount Prospect Ave, Clontarf",Dublin,185000.0,No,Clontarf,Dublin 3,q1,10%
+05/11/2014,"59 Lawrence Grove, Clontarf, Dublin 3",Dublin,505000.0,No,Clontarf,Dublin 3,q2,50%
+07/11/2014,"172 Dunluce Rd, Clontarf, Dublin 3",Dublin,418000.0,No,Clontarf,Dublin 3,q2,40%
+07/11/2014,"Apt 1, 11 Vernon Ave, Clontarf Dublin 3",Dublin,116666.0,No,Clontarf,Dublin 3,q1,10%
+07/11/2014,"Apt 2, 11A Vernon Ave, Clontarf Dublin 3",Dublin,116666.0,No,Clontarf,Dublin 3,q1,10%
+07/11/2014,"Apt 3, 11A Vernon Ave, Clontarf Dublin 3",Dublin,116668.0,No,Clontarf,Dublin 3,q1,10%
+10/11/2014,"39 Castle Grove, Clontarf, Dublin 3",Dublin,840000.0,No,Clontarf,Dublin 3,q4,90%
+12/11/2014,"127 Kincora Rd, Clontarf, Dublin 3",Dublin,555000.0,No,Clontarf,Dublin 3,q3,60%
+12/11/2014,"6 Brooklawn, Strandville Ave East, Clontarf Dublin 3",Dublin,240000.0,No,Clontarf,Dublin 3,q1,20%
+14/11/2014,"12  Block B  Hollybrookmanor, Hollybrookpark, Clontarf",Dublin,240000.0,No,Clontarf,Dublin 3,q1,20%
+14/11/2014,"16 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,200000.0,No,Clontarf,Dublin 3,q1,10%
+14/11/2014,"Elvira, 163 Castle Avenue, Clontarf",Dublin,1000000.0,No,Clontarf,Dublin 3,q4,100%
+17/11/2014,"24 Hollybrook Mews, Clontarf",Dublin,361000.0,No,Clontarf,Dublin 3,q2,40%
+21/11/2014,"20 Vernon Grove, Clontarf, Dublin 3",Dublin,580500.0,No,Clontarf,Dublin 3,q3,60%
+24/11/2014,"19 Conquer Hill Ave, Clontarf Dublin 3, Dublin",Dublin,260000.0,No,Clontarf,Dublin 3,q1,20%
+26/11/2014,"120 Castle Ave, Clontarf, Dublin 3",Dublin,710000.0,No,Clontarf,Dublin 3,q4,80%
+27/11/2014,"23 Seapark Dr, Clontarf, Dublin 3",Dublin,535000.0,No,Clontarf,Dublin 3,q3,60%
+28/11/2014,"30 Castle Grove, Clontarf, Dublin 3",Dublin,653000.0,No,Clontarf,Dublin 3,q3,70%
+28/11/2014,"39 Kincora Ave, Clontarf, Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+01/12/2014,"Beech Lodge, 118 Kincora Grove, Clontarf",Dublin,1150000.0,No,Clontarf,Dublin 3,q4,100%
+02/12/2014,"65 Merchamp, Seafield Rd East, Clontarf Dublin 3",Dublin,205000.0,No,Clontarf,Dublin 3,q1,10%
+03/12/2014,"163 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,265000.0,No,Clontarf,Dublin 3,q1,20%
+04/12/2014,"152 Castle Avenue, Clontarf",Dublin,1400000.0,No,Clontarf,Dublin 3,q4,100%
+05/12/2014,"4 Victoria Mews, Clontarf, Dublin 3",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+05/12/2014,"Apartment 23, Hollybrook Mews, Hollybrook Park  Clontarf",Dublin,190000.0,Yes,Clontarf,Dublin 3,q1,10%
+08/12/2014,"21 Vernon Gardens, Clontarf",Dublin,460000.0,No,Clontarf,Dublin 3,q2,50%
+14/12/2014,"33 Danes Court, Clontarf",Dublin,217500.0,No,Clontarf,Dublin 3,q1,10%
+16/12/2014,"2 Seaview Ave North, Clontarf, Dublin 3",Dublin,645000.0,No,Clontarf,Dublin 3,q3,70%
+16/12/2014,"28 Laurence Grove, Clontarf, Dublin 3",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+16/12/2014,"Apt 49 Brooklawn, Strandville Ave East, Clontarf",Dublin,210000.0,No,Clontarf,Dublin 3,q1,10%
+18/12/2014,"73 Brooklawn, Strandville Ave East, Clontarf Dublin 3",Dublin,202000.0,No,Clontarf,Dublin 3,q1,10%
+19/12/2014,"29 Carlton Court, St Lawrence Rd, Clontarf Dublin 3",Dublin,190600.0,No,Clontarf,Dublin 3,q1,10%
+19/12/2014,"40 Kincora Grove, Clontarf, Dublin 3",Dublin,730000.0,No,Clontarf,Dublin 3,q4,80%
+19/12/2014,"70 Brooklawn, Clontarf, Dublin 3",Dublin,195000.0,No,Clontarf,Dublin 3,q1,10%
+22/12/2014,"125 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,293119.0,No,Clontarf,Dublin 3,q1,20%
+22/12/2014,"138 Brooklawn, Strandville Ave East, Clontarf Dublin 3",Dublin,238159.0,No,Clontarf,Dublin 3,q1,20%
+22/12/2014,"85B Clontarf Road, Clontarf, Dublin 3",Dublin,345000.0,No,Clontarf,Dublin 3,q2,30%
+22/12/2014,"Apartment 2, Hollybrook Manor, Clontarf",Dublin,160600.0,No,Clontarf,Dublin 3,q1,10%
+22/12/2014,"Apt 14 St James, Hollybrook Park, Clontarf",Dublin,262162.5,No,Clontarf,Dublin 3,q1,20%
+22/12/2014,"Apt 2, 219 Clontarf Rd, Clontarf Dublin 3",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+23/12/2014,"11 Blackheath Court, Clontarf, Dublin 3",Dublin,525000.0,No,Clontarf,Dublin 3,q3,60%
+23/12/2014,"6 Hollybrook Grove, Clontarf, Dublin 3",Dublin,590000.0,No,Clontarf,Dublin 3,q3,60%
+23/12/2014,"6 The Oaks, Clontarf, Dublin 3",Dublin,460000.0,No,Clontarf,Dublin 3,q2,50%
+23/12/2014,"Apartment 19 Hollybrook Mews, Hollybrook Park, Clontarf",Dublin,235000.0,No,Clontarf,Dublin 3,q1,20%
+30/12/2014,"314 Clontarf Rd, Clontarf, Dublin 3",Dublin,1151010.0,No,Clontarf,Dublin 3,q4,100%
+09/01/2015,"28 Vernon Gardens, Clontarf, Dublin 3",Dublin,647500.0,No,Clontarf,Dublin 3,q3,70%
+12/01/2015,"14 Marino Crescent, Clontarf, The Crescent Dublin 3",Dublin,1560000.0,No,Clontarf,Dublin 3,q4,100%
+14/01/2015,"21 Kincora Court, Clontarf",Dublin,462000.0,No,Clontarf,Dublin 3,q2,50%
+15/01/2015,"19 Vernon Court, Clontarf Rd, Clontarf Dublin 3",Dublin,265000.0,No,Clontarf,Dublin 3,q1,20%
+16/01/2015,"21 Haddon Road, Clontarf, Dublin 3",Dublin,1100000.0,No,Clontarf,Dublin 3,q4,100%
+23/01/2015,"80 Hollybrook Grove, Clontarf",Dublin,330000.0,No,Clontarf,Dublin 3,q2,30%
+26/01/2015,"59 Seapark, Mount Prospect Avenue, Clontarf",Dublin,185000.0,No,Clontarf,Dublin 3,q1,10%
+28/01/2015,"49 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,632500.0,No,Clontarf,Dublin 3,q3,70%
+29/01/2015,"23 Castlecourt, Clontarf, Dublin 3",Dublin,420000.0,No,Clontarf,Dublin 3,q2,40%
+29/01/2015,"5 Charlemont Rd, Clontarf, Dublin 3",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+30/01/2015,"32 Vernon Gardens, Clontarf, Dublin 3",Dublin,535000.0,No,Clontarf,Dublin 3,q3,60%
+30/01/2015,"50 Seacourt, Clontarf, Dublin 3",Dublin,755000.0,No,Clontarf,Dublin 3,q4,90%
+06/02/2015,"2 Cecil Ave, Clontarf, Dublin",Dublin,335000.0,No,Clontarf,Dublin 3,q2,30%
+12/02/2015,"10 Clontarf Park, Clontarf, Dublin 3",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+13/02/2015,"23 Conquer Hill, Clontarf, Dublin 3",Dublin,242000.0,No,Clontarf,Dublin 3,q1,20%
+13/02/2015,"67 Seapark Drive, Clontarf, Dublin 3",Dublin,425000.0,No,Clontarf,Dublin 3,q2,40%
+25/02/2015,"Apartment 15, Seascape, 366 Clontarf Road",Dublin,620000.0,Yes,Clontarf,Dublin 3,q3,70%
+26/02/2015,"5 Kincora Court, Clontarf, Dublin 3",Dublin,510000.0,No,Clontarf,Dublin 3,q2,50%
+27/02/2015,"17 Vernon Court, Clontarf Rd, Clontarf Dublin 3",Dublin,278000.0,No,Clontarf,Dublin 3,q1,20%
+27/02/2015,"Apartment 16 Seascape, Clontarf",Dublin,619500.0,No,Clontarf,Dublin 3,q3,70%
+09/03/2015,"Unit 20 Seascape, 366 Clontarf Road",Dublin,444933.0,Yes,Clontarf,Dublin 3,q2,50%
+11/03/2015,"19 Dollymount Grove, Clontarf, Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+12/03/2015,"Unit 26 Seascape, 366 Clontarf Road, Dublin 3",Dublin,427161.0,Yes,Clontarf,Dublin 3,q2,40%
+13/03/2015,"70 Clontarf Park, Clontarf, Dublin 3",Dublin,535000.0,No,Clontarf,Dublin 3,q3,60%
+19/03/2015,"18 Seascape, 366-368 Clontarf Road, Dublin 3",Dublin,770925.0,Yes,Clontarf,Dublin 3,q4,90%
+20/03/2015,"22 Castilla Park, Clontarf, Dublin 3",Dublin,525000.0,No,Clontarf,Dublin 3,q3,60%
+23/03/2015,"14 Vernon Court, Seafield Rd West, Clontarf Dublin 3",Dublin,380000.0,No,Clontarf,Dublin 3,q2,40%
+23/03/2015,"33 Brian Brou Avenue, Clontarf, Dublin 3",Dublin,267500.0,No,Clontarf,Dublin 3,q1,20%
+25/03/2015,"38 Brooklawn, Strandville Ave Estate, Clontarf Dublin 3",Dublin,245000.0,No,Clontarf,Dublin 3,q1,20%
+25/03/2015,"64 Hollybrook Grove, Clontarf, Dublin 3",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+25/03/2015,"7 The Stiles Road, Clontarf",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+25/03/2015,"Unit 7 Seascape, 366 Clontarf Road, Dublin 3",Dublin,519823.78,Yes,Clontarf,Dublin 3,q3,60%
+26/03/2015,"5 Baymount Park, Clontarf",Dublin,840000.0,No,Clontarf,Dublin 3,q4,90%
+01/04/2015,"47 Mount Prospect Park, Clontarf, Dublin 3",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+01/04/2015,"9 Seascape, Clontarf Road, Dublin 3",Dublin,600000.0,Yes,Clontarf,Dublin 3,q3,70%
+02/04/2015,"21 Seascape, Clontarf, Dublin 3",Dublin,900000.0,Yes,Clontarf,Dublin 3,q4,100%
+02/04/2015,"94 Kincora Grove, Clontarf, Dublin 3",Dublin,845000.0,No,Clontarf,Dublin 3,q4,90%
+09/04/2015,"44 Seafield Rd West, Clontarf, Dublin 3",Dublin,1000000.0,No,Clontarf,Dublin 3,q4,100%
+10/04/2015,"Unit 8 Seascape, 366 Clontarf Road",Dublin,363000.0,Yes,Clontarf,Dublin 3,q2,40%
+13/04/2015,"Apt 24 Seascape, 366 Clontarf Road, Clontarf",Dublin,418502.2,Yes,Clontarf,Dublin 3,q2,40%
+15/04/2015,"6 Mount Prospect Lawns, Clontarf, Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+15/04/2015,"63 Dunluce Rd, Clontarf, Dublin 3",Dublin,545000.0,No,Clontarf,Dublin 3,q3,60%
+16/04/2015,"23 Vernon Rise, Clontarf",Dublin,630000.0,No,Clontarf,Dublin 3,q3,70%
+17/04/2015,"52 Hampton Court, Clontarf, Dublin 3",Dublin,622500.0,No,Clontarf,Dublin 3,q3,70%
+17/04/2015,"Unit 28, Seascape, 366 Clontarf Road",Dublin,651701.24,Yes,Clontarf,Dublin 3,q3,70%
+21/04/2015,"Unit 5 Seascape, 366 Clontarf Road, Clontarf",Dublin,462755.0,Yes,Clontarf,Dublin 3,q2,50%
+29/04/2015,"75 Hampton Court, Clontarf, Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+29/04/2015,"8 Marino Crescent, Clontarf, Dublin 3",Dublin,627000.0,No,Clontarf,Dublin 3,q3,70%
+01/05/2015,"100 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+01/05/2015,"Apartment 46 Seascape, 366 Clontarf Road",Dublin,299560.0,Yes,Clontarf,Dublin 3,q1,30%
+07/05/2015,"72 Hollybrook Rd, Clontarf, Dublin 3",Dublin,1075000.0,No,Clontarf,Dublin 3,q4,100%
+08/05/2015,"Unit 25 Seascape, 366 Clontarf Road",Dublin,595000.0,Yes,Clontarf,Dublin 3,q3,70%
+15/05/2015,"3 Clontarf Park, Clontarf, Dublin 3",Dublin,365000.0,No,Clontarf,Dublin 3,q2,40%
+18/05/2015,"Appartment 17, Hollybrook Manor, Clontarf",Dublin,261183.69,No,Clontarf,Dublin 3,q1,20%
+22/05/2015,"117 Kincora Avenue, Clontarf",Dublin,790000.0,No,Clontarf,Dublin 3,q4,90%
+25/05/2015,"Apt 9, Vernon Court, Clontarf Rd Dublin 3",Dublin,295000.0,No,Clontarf,Dublin 3,q1,20%
+26/05/2015,"79 Seafield Road, Clontarf, Dublin 3",Dublin,800000.0,No,Clontarf,Dublin 3,q4,90%
+26/05/2015,"Apt 43  Seascape, 366 Clontarf Road, Dublin 3",Dublin,378854.63,Yes,Clontarf,Dublin 3,q2,40%
+27/05/2015,"4 Seascape, Clontarf Road",Dublin,462555.0,Yes,Clontarf,Dublin 3,q2,50%
+27/05/2015,"Unit 13 Seascape, 366 Clontarf Road",Dublin,546255.5,Yes,Clontarf,Dublin 3,q3,60%
+29/05/2015,"36 Brian Boru Ave, Clontarf, Dublin 3",Dublin,195000.0,No,Clontarf,Dublin 3,q1,10%
+02/06/2015,"4 Woodside, Clontarf, Dublin 3",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+04/06/2015,"38 The Stiles Rd, Clontarf, Dublin 3",Dublin,950000.0,No,Clontarf,Dublin 3,q4,100%
+04/06/2015,"7 Hunters Row, Clontarf, Dublin 3",Dublin,452000.0,No,Clontarf,Dublin 3,q2,50%
+04/06/2015,"72A Seafield Road East, Clontarf, Dublin 3",Dublin,2350000.0,No,Clontarf,Dublin 3,q4,100%
+09/06/2015,"Apartment 13, Hollybrook, Clontarf",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+11/06/2015,"Apt 55 Seascape, Clontarf, Dublin 3",Dublin,321586.0,Yes,Clontarf,Dublin 3,q1,30%
+15/06/2015,"19  Seascape, Clontarf Road",Dublin,660793.0,Yes,Clontarf,Dublin 3,q3,70%
+15/06/2015,"Unit 52 Seascape, 366 Clontarf Road, Dublin 3",Dublin,355000.0,Yes,Clontarf,Dublin 3,q2,30%
+19/06/2015,"18 The Stiles Rd, Clontarf, Dublin 3",Dublin,735000.0,No,Clontarf,Dublin 3,q4,80%
+19/06/2015,"Apartment 15, Hollybrook Manor, Clontarf",Dublin,170120.15,No,Clontarf,Dublin 3,q1,10%
+19/06/2015,"Apt 3, Hollybrook Crt Holly, Brook Rd Clontarf Dublin 3",Dublin,158000.0,No,Clontarf,Dublin 3,q1,10%
+24/06/2015,"59A Kincora Road, Clontarf, Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+26/06/2015,"69 Clontarf Rd, Clontarf, Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+29/06/2015,"33 Clontarf Park, Clontarf, Dublin 3",Dublin,586000.0,No,Clontarf,Dublin 3,q3,60%
+01/07/2015,"3 Seascape, Clontarf, Dublin 3",Dublin,462555.0,Yes,Clontarf,Dublin 3,q2,50%
+01/07/2015,"30 Clontarf Park, Clontarf, Dublin 3",Dublin,190000.0,No,Clontarf,Dublin 3,q1,10%
+06/07/2015,"59 Seascape, Clontarf",Dublin,504845.03,Yes,Clontarf,Dublin 3,q2,50%
+08/07/2015,"1 Verville Court, Vernon Ave, Clontarf Dublin 3",Dublin,410000.0,No,Clontarf,Dublin 3,q2,40%
+08/07/2015,"74 Merchamp, Seafield Road East, Clontarf",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+10/07/2015,"Apartment 29, Seascape, 366 Clontarf Road",Dublin,991189.42,Yes,Clontarf,Dublin 3,q4,100%
+13/07/2015,"16 Blackheath Gardens, Clontarf, Dublin 3",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%
+14/07/2015,"101 Mount Prospect Dr, Clontarf, Dublin 3",Dublin,575000.0,No,Clontarf,Dublin 3,q3,60%
+14/07/2015,"15 Brian Boru St, Clontarf, Dublin 3",Dublin,251750.0,No,Clontarf,Dublin 3,q1,20%
+15/07/2015,"8 Vernon Park, Clontarf, Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+15/07/2015,"Apartment 83 Seapark, Mount Prospect Avenue, Clontarf",Dublin,225000.0,No,Clontarf,Dublin 3,q1,10%
+15/07/2015,"Apt 41 Seascape, 366 Clontarf Road, Dublin 3",Dublin,488986.0,Yes,Clontarf,Dublin 3,q2,50%
+16/07/2015,"9 St Josephs Sqr, Clontarf, Dublin 3",Dublin,285000.0,No,Clontarf,Dublin 3,q1,20%
+20/07/2015,"114 St. Lawrence Road, Clontarf",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+20/07/2015,"31 Dollymount Park, Clontarf, Dublin 3",Dublin,540000.0,No,Clontarf,Dublin 3,q3,60%
+21/07/2015,"161 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+22/07/2015,"45 Seascape, 366 Clontarf Road",Dublin,650219.48,Yes,Clontarf,Dublin 3,q3,70%
+22/07/2015,"62 Conquer Hill Road, Clontarf",Dublin,300000.0,No,Clontarf,Dublin 3,q1,30%
+22/07/2015,"Apt. 38  Seascape, 366  Clontarf Road",Dublin,365638.76,Yes,Clontarf,Dublin 3,q2,40%
+23/07/2015,"13B Clontarf Park, Clontarf, Dublin",Dublin,477000.0,No,Clontarf,Dublin 3,q2,50%
+24/07/2015,"135 The Stiles Rd, Clontarf, Dublin 3",Dublin,640500.0,No,Clontarf,Dublin 3,q3,70%
+24/07/2015,"61 Lawrence Grove, Clontarf, Dublin 3",Dublin,470000.0,No,Clontarf,Dublin 3,q2,50%
+27/07/2015,"Unit 2 Seascape, 366 Clontarf Road, Dublin 3",Dublin,342000.0,Yes,Clontarf,Dublin 3,q2,30%
+30/07/2015,"26 Hollybrook Mews, Clontarf, Dublin",Dublin,350000.0,No,Clontarf,Dublin 3,q2,30%
+31/07/2015,"33 Oulton Rd, Clontarf, Dublin 3",Dublin,1150000.0,No,Clontarf,Dublin 3,q4,100%
+05/08/2015,"48 Hampton Court, Clontarf, Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+10/08/2015,"17 Vernon Dr, Clontarf Dublin 3, Dublin",Dublin,665000.0,No,Clontarf,Dublin 3,q3,80%
+10/08/2015,"5 Brooklawn, Clontarf, Dublin",Dublin,202500.0,No,Clontarf,Dublin 3,q1,10%
+12/08/2015,"129 Belgrove Park, Clontarf, Dublin 3",Dublin,307500.0,No,Clontarf,Dublin 3,q1,30%
+13/08/2015,"33 Baymount Park, Clontarf, Dublin 3",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+14/08/2015,"3 Kincora Park, Clontarf, Dublin 3",Dublin,772500.0,No,Clontarf,Dublin 3,q4,90%
+14/08/2015,"84 Castle Avenue, Clontarf, Dublin 3",Dublin,1075000.0,No,Clontarf,Dublin 3,q4,100%
+18/08/2015,"31 Blackheath Gardens, Clontarf, Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+18/08/2015,"Apartment 23, Seascape, 366 Clontarf Road",Dublin,435000.0,Yes,Clontarf,Dublin 3,q2,40%
+19/08/2015,"25 Dollymount Grove, Clontarf",Dublin,630000.0,No,Clontarf,Dublin 3,q3,70%
+21/08/2015,"18 Seafield Grove, Clontarf, Dublin 3",Dublin,875000.0,No,Clontarf,Dublin 3,q4,90%
+21/08/2015,"33 Mount Prospect Park, Clontarf, Dublin 3",Dublin,535000.0,No,Clontarf,Dublin 3,q3,60%
+24/08/2015,"10 Beverly Court, Vernon Avnue, Clontarf",Dublin,265000.0,No,Clontarf,Dublin 3,q1,20%
+25/08/2015,"62 Dunluce Rd, Clontarf, Dublin 3",Dublin,815000.0,No,Clontarf,Dublin 3,q4,90%
+26/08/2015,"Unit 50 Sea Scape, 366 Clontarf Road, Dublin 3",Dublin,285000.0,Yes,Clontarf,Dublin 3,q1,20%
+27/08/2015,"187 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,840000.0,No,Clontarf,Dublin 3,q4,90%
+27/08/2015,"43 St. Davids Court, Castle Avenue, Clontarf",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+29/08/2015,"53 Mount Prospect Park, Clontarf, Dublin 3",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+31/08/2015,"212 Clontarf Rd, Clontarf, Dublin 3",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+02/09/2015,"8 Park Lawn, Clontarf, Dublin 3",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+04/09/2015,"12 Seascape, Clontarf Road, Dublin 3",Dublin,532903.49,Yes,Clontarf,Dublin 3,q3,60%
+04/09/2015,"129 Castle Ave, Clontarf, Dublin 3",Dublin,785000.0,No,Clontarf,Dublin 3,q4,90%
+04/09/2015,"92 Kincora Court, Clontarf, Dublin 3",Dublin,352500.0,No,Clontarf,Dublin 3,q2,30%
+07/09/2015,"Apartment 47 Seascape, Clontarf Road",Dublin,1096327.76,Yes,Clontarf,Dublin 3,q4,100%
+08/09/2015,"17 Hollybrook Grove, Clontarf",Dublin,494500.0,No,Clontarf,Dublin 3,q2,50%
+09/09/2015,"Sacramento, 114 Stiles Rd, Clontarf Dublin 3",Dublin,681000.0,No,Clontarf,Dublin 3,q3,80%
+14/09/2015,"112 Belgrove Park, Clontarf",Dublin,392000.0,No,Clontarf,Dublin 3,q2,40%
+15/09/2015,"104 St Lawrence Rd, Clontarf, Dublin 3",Dublin,868000.0,No,Clontarf,Dublin 3,q4,90%
+15/09/2015,"16 Hampton Court, Vernon Ave, Clontarf Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+15/09/2015,"24 Summerville, Clontarf, Dublin",Dublin,540000.0,No,Clontarf,Dublin 3,q3,60%
+15/09/2015,"99 Dollymount Park, Clontarf, Dublin 3",Dublin,472000.0,No,Clontarf,Dublin 3,q2,50%
+17/09/2015,"Apt 1 St Laurence Court, St Laurence Road, Clontarf",Dublin,157500.0,No,Clontarf,Dublin 3,q1,10%
+18/09/2015,"49Seacourt, Clontarf, Dublin 3",Dublin,690000.0,No,Clontarf,Dublin 3,q3,80%
+18/09/2015,"Unit 58, Seascape, 366 Clontarf Road",Dublin,321586.0,Yes,Clontarf,Dublin 3,q1,30%
+22/09/2015,"59 Danesfort, Castle Ave, Clontarf",Dublin,456000.0,No,Clontarf,Dublin 3,q2,50%
+23/09/2015,"3 Strandville House, Strandville Ave East, Clontarf Dublin 3",Dublin,230000.0,No,Clontarf,Dublin 3,q1,20%
+23/09/2015,"67 Kincora Dr, Clontarf, Dublin 3",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+25/09/2015,"14 Seascape, 366 Clontarf Road",Dublin,396475.0,Yes,Clontarf,Dublin 3,q2,40%
+25/09/2015,"164 Castle Avenue, Clontarf, Dublin 3",Dublin,480000.0,No,Clontarf,Dublin 3,q2,50%
+25/09/2015,"9 Ashbrook, Clontarf",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+02/10/2015,"8 Fortview Avenue, Clontarf, Dublin",Dublin,425000.0,No,Clontarf,Dublin 3,q2,40%
+02/10/2015,"Unit 42 Seascape, 366 Clontarf Road, Clontarf",Dublin,325000.0,No,Clontarf,Dublin 3,q1,30%
+05/10/2015,"20 Vernon Park, Clontarf, Dublin 3",Dublin,690000.0,No,Clontarf,Dublin 3,q3,80%
+08/10/2015,"22 Seapark Drive, Clontarf",Dublin,540000.0,No,Clontarf,Dublin 3,q3,60%
+09/10/2015,"45 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,457000.0,No,Clontarf,Dublin 3,q2,50%
+09/10/2015,"Apt 1 Seafield Court, 60 64 Castle Ave, Clontarf Dublin 3",Dublin,187000.0,No,Clontarf,Dublin 3,q1,10%
+16/10/2015,"5 Seafield Avenue, Clontarf",Dublin,735000.0,No,Clontarf,Dublin 3,q4,80%
+16/10/2015,"Apt 1, 47 Clontarf Rd, Dublin 3",Dublin,355500.0,No,Clontarf,Dublin 3,q2,30%
+20/10/2015,"208 Clontarf Rd, Dublin 3, Dublin",Dublin,571700.0,No,Clontarf,Dublin 3,q3,60%
+21/10/2015,"Unit 40  Seascape, 366 Clontarf Road, Dublin 3",Dublin,345000.0,Yes,Clontarf,Dublin 3,q2,30%
+22/10/2015,"19 St Josephs Sq, Clontarf, Dublin 3",Dublin,220000.0,No,Clontarf,Dublin 3,q1,10%
+22/10/2015,"20 Redcourt Oaks, Seafield Rd East, Clontarf",Dublin,400000.0,No,Clontarf,Dublin 3,q2,40%
+28/10/2015,"10 Conquer Hill Road, Clontarf, Dublin 3",Dublin,443000.0,No,Clontarf,Dublin 3,q2,50%
+30/10/2015,"39 Seapark Dr, Clontarf, Dublin 3",Dublin,560000.0,No,Clontarf,Dublin 3,q3,60%
+06/11/2015,"142 Seafield Rd East, Clontarf, Dublin 3",Dublin,1025000.0,No,Clontarf,Dublin 3,q4,100%
+06/11/2015,"145 Vernon Ave, Clontarf, Dublin 3",Dublin,930000.0,No,Clontarf,Dublin 3,q4,100%
+06/11/2015,"Apartment 27 Seapark, Mt Prospect Avenue, Clontarf",Dublin,210000.0,No,Clontarf,Dublin 3,q1,10%
+09/11/2015,"33A Dunseverick Rd, Clontarf, Dublin 3",Dublin,435000.0,No,Clontarf,Dublin 3,q2,40%
+12/11/2015,"136A Mount Prospect Ave, Clontarf, Dublin 3",Dublin,665000.0,No,Clontarf,Dublin 3,q3,80%
+12/11/2015,"138 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,340000.0,No,Clontarf,Dublin 3,q2,30%
+12/11/2015,"14B Crescent Place, Clontarf, Dublin 3",Dublin,410000.0,No,Clontarf,Dublin 3,q2,40%
+12/11/2015,"Unit 27, Seascape, 366 Clontarf Road  Dublin 3",Dublin,550660.79,Yes,Clontarf,Dublin 3,q3,60%
+13/11/2015,"12 Seafield Ave, Clontarf, Dublin 3",Dublin,797000.0,No,Clontarf,Dublin 3,q4,90%
+20/11/2015,"51 Copeland Grove, Clontarf, Dublin 3",Dublin,720000.0,No,Clontarf,Dublin 3,q4,80%
+20/11/2015,"70 Clontarf Road, Clontarf",Dublin,525000.0,No,Clontarf,Dublin 3,q3,60%
+23/11/2015,"47 Mount Prospect Avenue, Clontarf",Dublin,978000.0,No,Clontarf,Dublin 3,q4,100%
+27/11/2015,"10 Dunluce Rd, Clontarf, Dublin 3",Dublin,567000.0,No,Clontarf,Dublin 3,q3,60%
+27/11/2015,"119A Mount Prospect Avenue, Clontarf",Dublin,652000.0,No,Clontarf,Dublin 3,q3,70%
+27/11/2015,"63 Brooklawn, Strandville Ave East, Clontarf",Dublin,217500.0,No,Clontarf,Dublin 3,q1,10%
+04/12/2015,"26 Seafield Avenue, Clontarf, Dublin 3",Dublin,663000.0,No,Clontarf,Dublin 3,q3,80%
+07/12/2015,"9 Brighton Ave, Clontarf, Dublin City",Dublin,337500.0,No,Clontarf,Dublin 3,q2,30%
+09/12/2015,"39 Seafield Avenue, Clontarf, Dublin 3",Dublin,645000.0,No,Clontarf,Dublin 3,q3,70%
+09/12/2015,"Apartment 10 Seascape, 366-368 Clontarf Road, Dublin 3",Dublin,519823.78,Yes,Clontarf,Dublin 3,q3,60%
+10/12/2015,"51 Seascape, 366 Clontarf Road, Clontarf",Dublin,440529.0,Yes,Clontarf,Dublin 3,q2,50%
+14/12/2015,"286 Clontarf Road, Clontarf",Dublin,825000.0,No,Clontarf,Dublin 3,q4,90%
+14/12/2015,"33 Dollymount Grove, Clontarf, Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+16/12/2015,"79 Dunluce Rd, Clontarf, Dublin",Dublin,515000.0,No,Clontarf,Dublin 3,q3,60%
+17/12/2015,"120 Seapark, Mount Prospect Avenue, Clontarf",Dublin,143333.0,No,Clontarf,Dublin 3,q1,10%
+18/12/2015,"118 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,411000.0,No,Clontarf,Dublin 3,q2,40%
+18/12/2015,"17 Dollymount Grove, Clontarf, Dublin 3",Dublin,570000.0,No,Clontarf,Dublin 3,q3,60%
+18/12/2015,"27 Hollybrook Mews, Clontarf, Dublin",Dublin,305000.0,No,Clontarf,Dublin 3,q1,30%
+18/12/2015,"39 Copeland Ave, Clontarf, Dublin 3",Dublin,555000.0,No,Clontarf,Dublin 3,q3,60%
+18/12/2015,"96 St Lawrences Road, Clontarf, Dublin 3",Dublin,820000.0,No,Clontarf,Dublin 3,q4,90%
+21/12/2015,"244 Clontarf Rd, Clontarf, Dublin 3",Dublin,185000.0,No,Clontarf,Dublin 3,q1,10%
+21/12/2015,"44 Summerville, Clontarf, Dublin 3",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+21/12/2015,"69 Seapark Rd, Clontarf, Dublin 3",Dublin,435500.0,No,Clontarf,Dublin 3,q2,40%
+21/12/2015,"8 Vernon Wood, Clontarf, Dublin 3",Dublin,390000.0,No,Clontarf,Dublin 3,q2,40%
+21/12/2015,"Apt 22, Seascape, Clontarf",Dublin,383259.0,Yes,Clontarf,Dublin 3,q2,40%
+22/12/2015,"34 Mount Prospect Dr, Clontarf, Dublin City",Dublin,560000.0,No,Clontarf,Dublin 3,q3,60%
+22/12/2015,"38 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,460000.0,No,Clontarf,Dublin 3,q2,50%
+22/12/2015,"Apt 53, Seascape, Clontarf",Dublin,462555.0,Yes,Clontarf,Dublin 3,q2,50%
+23/12/2015,"2 St Lawrence Road, Clontarf, Dublin 3",Dublin,975000.0,No,Clontarf,Dublin 3,q4,100%
+06/01/2016,"48 Mount Prospect Dr, Clontarf, Dublin 3",Dublin,470000.0,No,Clontarf,Dublin 3,q2,50%
+13/01/2016,"20 Park Lawn, Clontarf, Dublin 3",Dublin,537000.0,No,Clontarf,Dublin 3,q3,60%
+14/01/2016,"87 The Stiles Rd, Clontarf, Dublin 3",Dublin,910000.0,No,Clontarf,Dublin 3,q4,100%
+15/01/2016,"77 Vernon Ave, Clontarf, Dublin 3",Dublin,990000.0,No,Clontarf,Dublin 3,q4,100%
+19/01/2016,"29 Lawrence Grove, Clontarf, Dublin 3",Dublin,495000.0,No,Clontarf,Dublin 3,q2,50%
+21/01/2016,"55 Kincora Rd, Clontarf, Dublin",Dublin,601000.0,No,Clontarf,Dublin 3,q3,70%
+26/01/2016,"67 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+29/01/2016,"26 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,895000.0,No,Clontarf,Dublin 3,q4,90%
+02/02/2016,"2 Brooklawn, Strandville Ave, Clontarf Dublin 3",Dublin,295500.0,No,Clontarf,Dublin 3,q1,20%
+02/02/2016,"40 Danesfort, Castle Ave, Clontarf Dublin 3",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+03/02/2016,"17 Seascape, 366 Clontarf Road, Dublin 3",Dublin,519823.78,Yes,Clontarf,Dublin 3,q3,60%
+04/02/2016,"1 Fortview Ave, Clontarf, Dublin 3",Dublin,472500.0,No,Clontarf,Dublin 3,q2,50%
+09/02/2016,"14A Victoria Villas, Clontarf, Dublin 3",Dublin,237000.0,Yes,Clontarf,Dublin 3,q1,20%
+09/02/2016,"63 Kincora Drive, Clontarf",Dublin,637000.0,No,Clontarf,Dublin 3,q3,70%
+10/02/2016,"Apartment 16, Hollybrook Manor, Clontarf",Dublin,286550.0,No,Clontarf,Dublin 3,q1,20%
+11/02/2016,"Townhouse 1, Rere 7 Castle Ave, Clontarf Dublin 3",Dublin,295000.0,No,Clontarf,Dublin 3,q1,20%
+16/02/2016,"33 Seascape, 366 Clontarf Road, Dublin 3",Dublin,511013.22,Yes,Clontarf,Dublin 3,q2,50%
+16/02/2016,"52 Vernon Avenue, Clontarf, Dublin 3",Dublin,1453745.0,No,Clontarf,Dublin 3,q4,100%
+17/02/2016,"41 Stiles Rd, Clontarf Rd, Dublin 3",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+17/02/2016,"44 Seascape, 366 Clontarf Road, Dublin 3",Dublin,660000.0,Yes,Clontarf,Dublin 3,q3,70%
+17/02/2016,"Apartment 4 Block 2, Hollybrook Court, Clontarf",Dublin,175000.0,No,Clontarf,Dublin 3,q1,10%
+23/02/2016,"7 Dollymount Rise, Clontarf, Dublin 3",Dublin,640000.0,No,Clontarf,Dublin 3,q3,70%
+25/02/2016,"1-6 Winstonville, Charlemont Rd, Clontarf",Dublin,935000.0,No,Clontarf,Dublin 3,q4,100%
+25/02/2016,"133 St. Laurence Road, Clontarf, Dublin 3",Dublin,1000000.0,No,Clontarf,Dublin 3,q4,100%
+26/02/2016,"37 Mount Prospect Dr, Clontarf, Dublin 3",Dublin,526000.0,No,Clontarf,Dublin 3,q3,60%
+01/03/2016,"26 Vernon Court, Clontarf Road, Dublin 3",Dublin,344000.0,No,Clontarf,Dublin 3,q2,30%
+04/03/2016,"6 Seascape, Clontarf, Dublin 3",Dublin,519823.78,Yes,Clontarf,Dublin 3,q3,60%
+11/03/2016,"30 Vernon Court, Clontarf",Dublin,315000.0,No,Clontarf,Dublin 3,q1,30%
+15/03/2016,"9 Vernon Grove, Clontarf, Dublin 3",Dublin,547500.0,No,Clontarf,Dublin 3,q3,60%
+16/03/2016,"12 Crescent Place, Clontarf, Dublin 3",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+16/03/2016,"170 Kincora Rd, Clontarf, Dublin 3",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+21/03/2016,"25 Copeland Ave, Clontarf, Dublin 3",Dublin,563000.0,No,Clontarf,Dublin 3,q3,60%
+22/03/2016,"51 Brooklawn, Strandvile Ave East, Clontarf Dublin 3",Dublin,300000.0,No,Clontarf,Dublin 3,q1,30%
+23/03/2016,"41 Castle Grove, Clontarf, Dublin 3",Dublin,740000.0,No,Clontarf,Dublin 3,q4,80%
+24/03/2016,"13 Summerville, Clontarf, Dublin 3",Dublin,485000.0,No,Clontarf,Dublin 3,q2,50%
+24/03/2016,"35 Dollymount Park, Clontarf, Dublin 3",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+31/03/2016,"5 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,547000.0,No,Clontarf,Dublin 3,q3,60%
+11/04/2016,"Apt 1, 26 Seaview Avenue, Clontarf",Dublin,270000.0,No,Clontarf,Dublin 3,q1,20%
+11/04/2016,"Apt 2, 26 Seaview Avenue, Clontarf",Dublin,285000.0,No,Clontarf,Dublin 3,q1,20%
+22/04/2016,"22 Vernon Gardens, Clontarf, Dublin",Dublin,640000.0,No,Clontarf,Dublin 3,q3,70%
+22/04/2016,"3 Castle Rd, Clontarf, Dublin 3",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+26/04/2016,"22 Seafield Ave, Clontarf, Dublin 3",Dublin,891000.0,No,Clontarf,Dublin 3,q4,90%
+27/04/2016,"14 Castle Rd, Clontarf, Dublin 3",Dublin,1775000.0,No,Clontarf,Dublin 3,q4,100%
+29/04/2016,"153 Kincora Rd, Clontarf, Dublin 3",Dublin,443000.0,No,Clontarf,Dublin 3,q2,50%
+29/04/2016,"19 The Spinnaker, Alverno, Clontarf Rd Dublin 3",Dublin,325000.0,No,Clontarf,Dublin 3,q1,30%
+30/04/2016,"119 Seafield Rd East, Clontarf, Dublin 3",Dublin,300000.0,No,Clontarf,Dublin 3,q1,30%
+04/05/2016,"15 Seafield Grove, Clontarf, Dublin 3",Dublin,840000.0,No,Clontarf,Dublin 3,q4,90%
+05/05/2016,"99 Seapark Dr, Clontarf, Dublin 3",Dublin,432000.0,No,Clontarf,Dublin 3,q2,40%
+06/05/2016,"78 Seapark Drive, Clontarf, Dublin 3",Dublin,540000.0,No,Clontarf,Dublin 3,q3,60%
+10/05/2016,"11 Seascape, 366 Clontarf Road",Dublin,493392.0,Yes,Clontarf,Dublin 3,q2,50%
+12/05/2016,"3 Mount Prospect House, Clontarf Rd, Clontarf Dublin 3",Dublin,505000.0,No,Clontarf,Dublin 3,q2,50%
+12/05/2016,"50 Stiles Rd, Clontarf, Dublin 3",Dublin,870000.0,No,Clontarf,Dublin 3,q4,90%
+13/05/2016,"18 Clontarf Rd, Clontarf, Dublin 3",Dublin,639000.0,No,Clontarf,Dublin 3,q3,70%
+17/05/2016,"27 Copeland Grove, Clontarf, Dublin 3",Dublin,520000.0,No,Clontarf,Dublin 3,q3,60%
+20/05/2016,"122 Kincora Grove, Clontarf, Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+20/05/2016,"13 Seacourt, Clontarf, Dublin 3",Dublin,670500.0,No,Clontarf,Dublin 3,q3,80%
+20/05/2016,"37 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,469000.0,No,Clontarf,Dublin 3,q2,50%
+20/05/2016,"38 Copeland Ave, Clontarf, Dublin 3",Dublin,480000.0,No,Clontarf,Dublin 3,q2,50%
+20/05/2016,"Apt 56, Seascape, Clontarf",Dublin,482378.0,Yes,Clontarf,Dublin 3,q2,50%
+23/05/2016,"30 Kincora Rd, Clontarf, Dublin 3",Dublin,825000.0,No,Clontarf,Dublin 3,q4,90%
+24/05/2016,"69 Park Lawn, Clontarf, Dublin 3",Dublin,575000.0,No,Clontarf,Dublin 3,q3,60%
+26/05/2016,"Unit 1  Seascape, 366 Clontarf Road",Dublin,452418.91,Yes,Clontarf,Dublin 3,q2,50%
+27/05/2016,"21 Seapark Rd, Clontarf, Dublin 3",Dublin,695000.0,No,Clontarf,Dublin 3,q3,80%
+27/05/2016,"50 Hollybrook Grove, Clontarf, Dublin City",Dublin,480000.0,No,Clontarf,Dublin 3,q2,50%
+27/05/2016,"63 Park Lawn, Clontarf, Dublin 3",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+02/06/2016,"41 Seapark Dr, Clontarf, Dublin",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+07/06/2016,"45 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,301500.0,No,Clontarf,Dublin 3,q1,30%
+10/06/2016,"29 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,495000.0,No,Clontarf,Dublin 3,q2,50%
+10/06/2016,"7 Copeland Grove, Clontarf, Dublin 3",Dublin,520000.0,No,Clontarf,Dublin 3,q3,60%
+10/06/2016,"7 Hollybrook Mews, Clontarf, Dublin 3",Dublin,275000.0,No,Clontarf,Dublin 3,q1,20%
+15/06/2016,"297 Clontarf Rd, Dublin 3, Dublin",Dublin,780000.0,No,Clontarf,Dublin 3,q4,90%
+15/06/2016,"31 Copeland Grove, Clontarf, Dublin 3",Dublin,570000.0,No,Clontarf,Dublin 3,q3,60%
+16/06/2016,"14 Strandville Ave East, Clontarf, Dublin 3",Dublin,830000.0,No,Clontarf,Dublin 3,q4,90%
+30/06/2016,"28 Copeland Ave, Clontarf, Dublin 3",Dublin,795000.0,No,Clontarf,Dublin 3,q4,90%
+06/07/2016,"119 Kincora Ave, Clontarf, Dublin 3",Dublin,660000.0,No,Clontarf,Dublin 3,q3,70%
+08/07/2016,"7 Blackheath Court, Clontarf, Dublin 3",Dublin,536000.0,No,Clontarf,Dublin 3,q3,60%
+13/07/2016,"25 Kincora Grove, Clontarf, Dublin 3",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+15/07/2016,"130 Clontarf Rd, Dublin 3, Dublin",Dublin,960000.0,No,Clontarf,Dublin 3,q4,100%
+15/07/2016,"38 Dunluce Rd, Clontarf, Dublin 3",Dublin,530000.0,No,Clontarf,Dublin 3,q3,60%
+19/07/2016,"68 Kincora Ave, Clontarf, Dublin 3",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%
+21/07/2016,"30 Seascapes, 366 Clontarf Road, Dublin 3",Dublin,409691.63,Yes,Clontarf,Dublin 3,q2,40%
+22/07/2016,"10 Redcourt Oaks, Seafield Rd East, Clontarf Dublin 3",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+25/07/2016,"115 The Stiles Rd, Clontarf, Dublin 3",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+25/07/2016,"41 Vernon Ave, Clontarf, Dublin 3",Dublin,643500.0,No,Clontarf,Dublin 3,q3,70%
+26/07/2016,"4 The Mews, Dollymount Ave, Clontarf Dublin 3",Dublin,485000.0,No,Clontarf,Dublin 3,q2,50%
+26/07/2016,"7 Oakley Park, Clontarf, Dublin 3",Dublin,640000.0,No,Clontarf,Dublin 3,q3,70%
+27/07/2016,"72 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,820000.0,No,Clontarf,Dublin 3,q4,90%
+28/07/2016,"45 The Stiles Rd, Clontarf, Dublin 3",Dublin,740000.0,No,Clontarf,Dublin 3,q4,80%
+29/07/2016,"32 St Lawrence Rd, Clontarf, Dublin 3",Dublin,999000.0,No,Clontarf,Dublin 3,q4,100%
+05/08/2016,"24 Conquer Hill Ave, Clontarf, Dublin 3",Dublin,267500.0,No,Clontarf,Dublin 3,q1,20%
+05/08/2016,"89 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,1090000.0,No,Clontarf,Dublin 3,q4,100%
+08/08/2016,"10 Dollymount Rise, Clontarf, Dublin 3",Dublin,750000.0,No,Clontarf,Dublin 3,q4,90%
+09/08/2016,"46 Crescent House, Clontarf, Dublin 3",Dublin,179000.0,No,Clontarf,Dublin 3,q1,10%
+12/08/2016,"31 Conquer Hill Rd, Clontarf, Dublin",Dublin,316000.0,No,Clontarf,Dublin 3,q1,30%
+12/08/2016,"75A Kincora Dr, Clontarf, Dublin 3",Dublin,625000.0,No,Clontarf,Dublin 3,q3,70%
+15/08/2016,"29 Belgrove Rd, Clontarf, Dublin 3",Dublin,750000.0,No,Clontarf,Dublin 3,q4,90%
+16/08/2016,"19 Summerville, Clontarf, Dublin 3",Dublin,465000.0,No,Clontarf,Dublin 3,q2,50%
+16/08/2016,"4 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,226000.0,No,Clontarf,Dublin 3,q1,10%
+16/08/2016,"Apartment 49 Seascape, 366 Clontarf Road",Dublin,286344.0,Yes,Clontarf,Dublin 3,q1,20%
+19/08/2016,"20 The Mews, Seafield Close, Clontarf",Dublin,510000.0,No,Clontarf,Dublin 3,q2,50%
+19/08/2016,"94 Kincora Ave, Clontarf, Dublin",Dublin,665000.0,No,Clontarf,Dublin 3,q3,80%
+24/08/2016,"40 Hollybrook Rd, Clontarf, Dublin 3",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+25/08/2016,"108 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+25/08/2016,"137 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,372000.0,No,Clontarf,Dublin 3,q2,40%
+26/08/2016,"24 Knights Bridge, Castle Ave, Clontarf Dublin 3",Dublin,620000.0,No,Clontarf,Dublin 3,q3,70%
+29/08/2016,"18 Seapark Rd, Clontarf, Dublin 3",Dublin,677000.0,No,Clontarf,Dublin 3,q3,80%
+02/09/2016,"55 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,565000.0,No,Clontarf,Dublin 3,q3,60%
+05/09/2016,"3 Hollybrook Rd, Clontarf, Dublin 3",Dublin,955000.0,No,Clontarf,Dublin 3,q4,100%
+08/09/2016,"3 St Davids Court, Castle Ave, Clontarf Dublin 3",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+16/09/2016,"119 Mount Prospect Ave, Clontarf, Dublin",Dublin,632000.0,No,Clontarf,Dublin 3,q3,70%
+16/09/2016,"2 Yew Lane, Seafield Rd West, Clontarf Dublin 3",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+19/09/2016,"28 Castle Grove, Clontarf, Dublin 3",Dublin,708000.0,No,Clontarf,Dublin 3,q4,80%
+19/09/2016,"49 Seapark Dr, Clontarf, Dublin 3",Dublin,520000.0,No,Clontarf,Dublin 3,q3,60%
+21/09/2016,"1 Seacourt, Clontarf, Dublin 3",Dublin,540000.0,No,Clontarf,Dublin 3,q3,60%
+27/09/2016,"44 Castle Ave, Clontarf, Dublin 3",Dublin,2100000.0,No,Clontarf,Dublin 3,q4,100%
+28/09/2016,"71 Park Lawn, Mount Prospect Ave, Clontarf Dublin 3",Dublin,625000.0,No,Clontarf,Dublin 3,q3,70%
+30/09/2016,"101 Church Rd, East Wall, Clontarf Dublin 3",Dublin,412500.0,No,Clontarf,Dublin 3,q2,40%
+30/09/2016,"72 Dollymount Ave, Clontarf, Dublin 3",Dublin,852000.0,No,Clontarf,Dublin 3,q4,90%
+07/10/2016,"139 Castle Ave, Clontarf, Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+10/10/2016,"250 Clontarf Rd, Clontarf, Dublin",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+11/10/2016,"11 Churchfield, 59/60 Clontarf Road, Dublin 3",Dublin,675000.0,Yes,Clontarf,Dublin 3,q3,80%
+12/10/2016,"33 St David'S Court, Castle Avenue, Clontarf",Dublin,336000.0,No,Clontarf,Dublin 3,q2,30%
+13/10/2016,"10 Churchfield, 59/60 Clontarf Road, Clontarf",Dublin,572687.22,Yes,Clontarf,Dublin 3,q3,60%
+18/10/2016,"13 Kincora Ave, Clontarf, Dublin 3",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+18/10/2016,"36 Seascape, 366 Clontarf Road, Dublin 3",Dublin,467100.0,Yes,Clontarf,Dublin 3,q2,50%
+20/10/2016,"16 Vernon Drive, Clontarf, Dublin  3",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%
+21/10/2016,"106 Stiles Rd, Clontarf, Dublin 3",Dublin,860000.0,No,Clontarf,Dublin 3,q4,90%
+21/10/2016,"65 Park Lawn, Clontarf, Dublin 3",Dublin,515000.0,No,Clontarf,Dublin 3,q3,60%
+21/10/2016,"67 The Stiles Rd, Clontarf, Dublin 3",Dublin,334750.0,No,Clontarf,Dublin 3,q2,30%
+24/10/2016,"116 Kincora Grove, Clontarf, Dublin 3",Dublin,560000.0,No,Clontarf,Dublin 3,q3,60%
+26/10/2016,"27 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,315000.0,No,Clontarf,Dublin 3,q1,30%
+26/10/2016,"4 Redcourt Oaks, Seafield Road, Clontarf",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+27/10/2016,"Site 4, 59/60 Clontarf Road, Dublin 3",Dublin,572687.23,Yes,Clontarf,Dublin 3,q3,60%
+28/10/2016,"43 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,620000.0,No,Clontarf,Dublin 3,q3,70%
+02/11/2016,"37 Merchamp, Seafield Rd East, Clontarf Dublin 3",Dublin,297500.0,No,Clontarf,Dublin 3,q1,30%
+03/11/2016,"8 Churchfield, 59/60 Clontarf Road, Dublin 3",Dublin,572687.23,Yes,Clontarf,Dublin 3,q3,60%
+04/11/2016,"3 Churchfield, 59/60 Clontarf Road, Dublin 3",Dublin,572312.78,Yes,Clontarf,Dublin 3,q3,60%
+04/11/2016,"70A Kincora Court, Clontarf, Dublin City",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+07/11/2016,"365 Clontarf Rd, Clontarf, Dublin 3",Dublin,635000.0,No,Clontarf,Dublin 3,q3,70%
+07/11/2016,"Unit 57 Seascape, 366 Clontarf Road, Dublin 3",Dublin,475779.93,Yes,Clontarf,Dublin 3,q2,50%
+09/11/2016,"Unit 39 Seascape, 366 Clontarf Road",Dublin,466960.4,Yes,Clontarf,Dublin 3,q2,50%
+15/11/2016,"35 Charlemont Rd, Clontarf, Dublin 3",Dublin,549250.0,No,Clontarf,Dublin 3,q3,60%
+16/11/2016,"9 Churchfield, 59/60 Clontarf Road, Clontarf",Dublin,572687.0,Yes,Clontarf,Dublin 3,q3,60%
+17/11/2016,"23 Castilla Park, Clontarf, Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+18/11/2016,"6 Churchfield, 59/60 Clontarf Road, Dublin 3",Dublin,572683.0,Yes,Clontarf,Dublin 3,q3,60%
+21/11/2016,"3 Victoria Villas, Clontarf, Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+23/11/2016,"65 Kincora Rd, Clontarf, Dublin 3",Dublin,735000.0,No,Clontarf,Dublin 3,q4,80%
+24/11/2016,"4 Clontarf Rd Clontarf, Dublin 3, Dublin",Dublin,770000.0,No,Clontarf,Dublin 3,q4,90%
+30/11/2016,"42 Summerville, Clontarf, Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+01/12/2016,"7 Churchfield, 59/60 Clontarf Road, Clontarf",Dublin,572687.0,Yes,Clontarf,Dublin 3,q3,60%
+06/12/2016,"89 Brooklawn, Strandville Avenue East, Clontarf",Dublin,185000.0,No,Clontarf,Dublin 3,q1,10%
+07/12/2016,"3 Vernon Grove, Clontarf, Dublin 3",Dublin,595000.0,No,Clontarf,Dublin 3,q3,70%
+07/12/2016,"38 Mount Prospect Park, Clontarf, Dublin 3",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+08/12/2016,"65 Seapark Dr, Clontarf, Dublin 3",Dublin,455000.0,No,Clontarf,Dublin 3,q2,50%
+08/12/2016,"72 Merchamp, Seafield Rd East, Clontarf Dublin 3",Dublin,249500.0,No,Clontarf,Dublin 3,q1,20%
+09/12/2016,"91 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,230000.0,No,Clontarf,Dublin 3,q1,20%
+14/12/2016,"362 Clontarf Rd, Clontarf, Dublin 3",Dublin,775000.0,No,Clontarf,Dublin 3,q4,90%
+15/12/2016,"Laurelbank, 75 Mount Prospect Ave, Clontarf Dublin 3",Dublin,1200000.0,No,Clontarf,Dublin 3,q4,100%
+16/12/2016,"15 Baymount Park, Clontarf, Dublin 3",Dublin,730000.0,No,Clontarf,Dublin 3,q4,80%
+16/12/2016,"31 Danes Court, Clontarf Rd, Clontarf Dublin 3",Dublin,207000.0,No,Clontarf,Dublin 3,q1,10%
+19/12/2016,"1 Churchfield, Clontarf Road, Dublin 3",Dublin,607929.52,No,Clontarf,Dublin 3,q3,70%
+19/12/2016,"20 Brent House, Redcourt Oaks, Clontarf",Dublin,342000.0,No,Clontarf,Dublin 3,q2,30%
+19/12/2016,"5 Churchfield, 59-60 Church Road, Clontarf",Dublin,572687.23,Yes,Clontarf,Dublin 3,q3,60%
+21/12/2016,"13 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,349000.0,No,Clontarf,Dublin 3,q2,30%
+21/12/2016,"6 Blackheath Park, Clontarf, Dublin 3",Dublin,695000.0,No,Clontarf,Dublin 3,q3,80%
+22/12/2016,"10 Seafield Downs, Clontarf, Dublin 3",Dublin,455000.0,No,Clontarf,Dublin 3,q2,50%
+22/12/2016,"15 Churchfield, 59/60 Clontarf Road, Dublin 3",Dublin,562250.0,Yes,Clontarf,Dublin 3,q3,60%
+22/12/2016,"22 Seafield Ave, Clontarf, Dublin 3",Dublin,891000.0,No,Clontarf,Dublin 3,q4,90%
+22/12/2016,"36 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,325000.0,No,Clontarf,Dublin 3,q1,30%
+23/12/2016,"183 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,1040000.0,No,Clontarf,Dublin 3,q4,100%
+23/12/2016,"19 Seapark Rd, Clontarf, Dublin 3",Dublin,812000.0,No,Clontarf,Dublin 3,q4,90%
+01/01/2017,"126 Seafield Rd, Clontarf, Dublin 3",Dublin,630000.0,No,Clontarf,Dublin 3,q3,70%
+01/01/2017,"5 Seafield Grove, Clontarf, Dublin 3",Dublin,830000.0,No,Clontarf,Dublin 3,q4,90%
+05/01/2017,"50 Dollymount Avenue, Clontarf, Dublin 3",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+05/01/2017,"The Lodge, Mount Prospect Avenue, Clontarf",Dublin,940000.0,No,Clontarf,Dublin 3,q4,100%
+11/01/2017,"118 Vernon Ave, Clontarf, Dublin 3",Dublin,625000.0,No,Clontarf,Dublin 3,q3,70%
+11/01/2017,"14 Churchfield, 59/60 Clontarf Road, Dublin 3",Dublin,550660.8,Yes,Clontarf,Dublin 3,q3,60%
+13/01/2017,"44 Kincora Ave, Clontarf, Dublin 3",Dublin,740000.0,No,Clontarf,Dublin 3,q4,80%
+13/01/2017,"Apt 10 Strandville House, Strandville Ave East, Clontarf Dublin 3",Dublin,255000.0,No,Clontarf,Dublin 3,q1,20%
+17/01/2017,"69 Kincora Ave, Clontarf, Dublin 3",Dublin,625000.0,No,Clontarf,Dublin 3,q3,70%
+19/01/2017,"13 Blackheath Ave, Clontarf, Dublin 3",Dublin,735000.0,No,Clontarf,Dublin 3,q4,80%
+20/01/2017,"15 Mount Prospect Lawns, Clontarf, Dublin 3",Dublin,750000.0,No,Clontarf,Dublin 3,q4,90%
+27/01/2017,"50 Dollymount Avenue, Clontarf, Dublin 3",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+27/01/2017,"86A Castle Avenue, Clontarf",Dublin,445000.0,Yes,Clontarf,Dublin 3,q2,50%
+03/02/2017,"58 Brooklawn, Strandville Ave, Clontarf Dublin 3",Dublin,300000.0,No,Clontarf,Dublin 3,q1,30%
+08/02/2017,"4 Kincora Park, Clontarf, Dublin 3",Dublin,800000.0,No,Clontarf,Dublin 3,q4,90%
+09/02/2017,"3 Kincora Dr, Clontarf, Dublin 3",Dublin,685000.0,No,Clontarf,Dublin 3,q3,80%
+09/02/2017,"39 Kincora Dr, Clontarf, Dublin 3",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+10/02/2017,"Corracg Dtonn, Castle Road, Clontarf",Dublin,545000.0,No,Clontarf,Dublin 3,q3,60%
+13/02/2017,"12 Seafield Downs, Clontarf, Dublin 3",Dublin,425000.0,No,Clontarf,Dublin 3,q2,40%
+17/02/2017,"31 Crescent Place, Clontarf, Dublin 3",Dublin,507500.0,No,Clontarf,Dublin 3,q2,50%
+17/02/2017,"39C Castle Ave, Clontarf, Dublin 3",Dublin,697000.0,No,Clontarf,Dublin 3,q3,80%
+21/02/2017,"3 The Court, Clontarf Rd, Dublin 3",Dublin,400000.0,No,Clontarf,Dublin 3,q2,40%
+21/02/2017,"47 The Stiles Rd, Clontarf, Dublin 3",Dublin,765000.0,No,Clontarf,Dublin 3,q4,90%
+23/02/2017,"72 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+02/03/2017,"165 Clontarf Rd, Dublin 3, Dublin",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+03/03/2017,"13 Churchfield, 59/60 Clontarf Road, Clontarf",Dublin,547283.0,Yes,Clontarf,Dublin 3,q3,60%
+09/03/2017,"13 Dunseverick Rd, Clontarf, Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+10/03/2017,"18A Seafield Road West, Clontarf  Dublin 3",Dublin,2004405.29,Yes,Clontarf,Dublin 3,q4,100%
+14/03/2017,"11 Hunters Row, Seapark Rd, Clontarf Dublin 3",Dublin,620000.0,No,Clontarf,Dublin 3,q3,70%
+16/03/2017,"35 Vernon Dr, Clontarf, Dublin 3",Dublin,630000.0,No,Clontarf,Dublin 3,q3,70%
+20/03/2017,"221 Clontarf Road, Dublin 3",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+20/03/2017,"86 Castle Ave, Clontarf, Dublin 3",Dublin,1045000.0,No,Clontarf,Dublin 3,q4,100%
+22/03/2017,"Apt 65 Belgrove Park, Mount Prospect Ave, Clontarf Dublin 3",Dublin,152000.0,No,Clontarf,Dublin 3,q1,10%
+23/03/2017,"2 Churchfield, 59-60 Clontarf Road, Dublin 3",Dublin,590308.0,Yes,Clontarf,Dublin 3,q3,70%
+24/03/2017,"25 Clontarf Park, Clontarf, Dublin 3",Dublin,519000.0,No,Clontarf,Dublin 3,q3,60%
+24/03/2017,"40 Danes Court, Clontarf Rd, Clontarf Dublin 3",Dublin,255000.0,No,Clontarf,Dublin 3,q1,20%
+24/03/2017,"66 Kincora Ave, Clontarf, Dublin 3",Dublin,765000.0,No,Clontarf,Dublin 3,q4,90%
+31/03/2017,"19 St Lawrence Rd, Clontarf, Dublin 3",Dublin,1940000.0,No,Clontarf,Dublin 3,q4,100%
+31/03/2017,"33 Dollymount Park, Clontarf, Dublin 3",Dublin,582000.0,No,Clontarf,Dublin 3,q3,60%
+03/04/2017,"316 Clontarf Road, Clontarf, Dublin 3",Dublin,175000.0,No,Clontarf,Dublin 3,q1,10%
+04/04/2017,"27 Haddon Rd, Clontarf, Dublin 3",Dublin,800000.0,No,Clontarf,Dublin 3,q4,90%
+05/04/2017,"4 Seafield Downs, Clontarf, Dublin 3",Dublin,445000.0,No,Clontarf,Dublin 3,q2,50%
+05/04/2017,"9 Seafield Downs, Clontarf, Dublin 3",Dublin,425000.0,No,Clontarf,Dublin 3,q2,40%
+07/04/2017,"10 Carlton Court, Clontarf, Dublin 3",Dublin,243000.0,No,Clontarf,Dublin 3,q1,20%
+10/04/2017,"10 Oulton Rd, Clontarf, Dublin 3",Dublin,905000.0,No,Clontarf,Dublin 3,q4,100%
+10/04/2017,"58 St Lawrence Rd, Clontarf, Dublin 3",Dublin,1010000.0,No,Clontarf,Dublin 3,q4,100%
+10/04/2017,"59 Kincora Rd Clontarf, Dublin 3, Dublin",Dublin,699500.0,No,Clontarf,Dublin 3,q4,80%
+11/04/2017,"23 Kincora Dr, Clontarf, Dublin 3",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+11/04/2017,"Apartment 2, Churchfields, 59/60 Clontarf Road",Dublin,286344.0,Yes,Clontarf,Dublin 3,q1,20%
+12/04/2017,"15 Castle Grove, Clontarf, Dublin 3",Dublin,765000.0,No,Clontarf,Dublin 3,q4,90%
+12/04/2017,"152 Seafield Rd, Clontarf, Dublin 3",Dublin,1675000.0,No,Clontarf,Dublin 3,q4,100%
+12/04/2017,"Apartment 3, 59/ 60 Clontarf Road",Dublin,303964.0,Yes,Clontarf,Dublin 3,q1,30%
+12/04/2017,"Apt 84 Belgrove Park, Mount Prospect Lawns, Clontarf",Dublin,410000.0,No,Clontarf,Dublin 3,q2,40%
+19/04/2017,"Apartment 4, Churchfield, 59/60 Clontarf Road",Dublin,290748.9,Yes,Clontarf,Dublin 3,q1,20%
+24/04/2017,"69 Conquer Hill Road, Clontarf, Dublin 3",Dublin,365000.0,No,Clontarf,Dublin 3,q2,40%
+25/04/2017,"17 Vernon Court, Seafield Road, Clontarf",Dublin,435000.0,No,Clontarf,Dublin 3,q2,40%
+28/04/2017,"124 Brooklawn, Strandville Avenue East, Clontarf",Dublin,200000.0,No,Clontarf,Dublin 3,q1,10%
+28/04/2017,"177 Seafield Rd, Clontarf, Dublin 3",Dublin,1025000.0,No,Clontarf,Dublin 3,q4,100%
+28/04/2017,"5 Baymount Park, Clontarf, Dublin 3",Dublin,810000.0,No,Clontarf,Dublin 3,q4,90%
+28/04/2017,"9 Vernon Court, Seafield Rd, Clontarf Dublin 3",Dublin,350000.0,No,Clontarf,Dublin 3,q2,30%
+04/05/2017,"95 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,355000.0,No,Clontarf,Dublin 3,q2,30%
+09/05/2017,"14 Seaview Ave North, Clontarf, Dublin 3",Dublin,455000.0,No,Clontarf,Dublin 3,q2,50%
+11/05/2017,"11 Kincora Park, Clontarf, Dublin 3",Dublin,895000.0,No,Clontarf,Dublin 3,q4,90%
+11/05/2017,"84 Seafield Rd East, Clontarf, Dublin 3",Dublin,1410000.0,No,Clontarf,Dublin 3,q4,100%
+11/05/2017,"Apt 17 Danes Court, Dollymount, Clontarf",Dublin,212000.0,No,Clontarf,Dublin 3,q1,10%
+12/05/2017,"Unit 34 Seascape, 366 Clontarf Road, Dublin 3",Dublin,449339.0,Yes,Clontarf,Dublin 3,q2,50%
+12/05/2017,"Unit 48 Seascape, 366 Clontarf Road",Dublin,422904.48,Yes,Clontarf,Dublin 3,q2,40%
+17/05/2017,"124 Kincora Grove, Clontarf, Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+17/05/2017,"82 Brooklawn, Strandville Ave East, Clontarf",Dublin,241000.0,No,Clontarf,Dublin 3,q1,20%
+18/05/2017,"74 Brooklawn, Strandville Ave East, Clontarf",Dublin,245000.0,No,Clontarf,Dublin 3,q1,20%
+22/05/2017,"7 The Stiles Rd, Clontarf, Dublin",Dublin,400000.0,No,Clontarf,Dublin 3,q2,40%
+25/05/2017,"27 Danesfort, Clontarf, Dublin",Dublin,390000.0,No,Clontarf,Dublin 3,q2,40%
+26/05/2017,"15 Dollymount Grove, Clontarf, Dublin 3",Dublin,595000.0,No,Clontarf,Dublin 3,q3,70%
+26/05/2017,"24 Mount Prospect Lawns, Clontarf, Dublin 3",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+26/05/2017,"62 Seapark Dr, Clontarf, Dublin 3",Dublin,551750.0,No,Clontarf,Dublin 3,q3,60%
+26/05/2017,"79 Hollybrook Grove, Clontarf, Dublin 3",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+29/05/2017,"Apartment 1, Churchfield, 59/60 Clontarf Road",Dublin,295154.0,Yes,Clontarf,Dublin 3,q1,20%
+31/05/2017,"9 St Josephs Sqr, Clontarf, Dublin 3",Dublin,365000.0,No,Clontarf,Dublin 3,q2,40%
+02/06/2017,"5 Vernon Wood, Clontarf, Dublin 3",Dublin,365000.0,No,Clontarf,Dublin 3,q2,40%
+08/06/2017,"39 Merchamp, Seafield Rd East, Clontarf Dublin 3",Dublin,325000.0,No,Clontarf,Dublin 3,q1,30%
+09/06/2017,"16 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,605000.0,No,Clontarf,Dublin 3,q3,70%
+12/06/2017,"70 Hampton Court, Clontarf, Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+14/06/2017,"22 Kincora Ave, Clontarf, Dublin 3",Dublin,730000.0,No,Clontarf,Dublin 3,q4,80%
+16/06/2017,"53 Victoria Rd, Clontarf, Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+16/06/2017,"73 Blackheath Park, Clontarf, Dublin 3",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+21/06/2017,"55 Seafield Rd East, Clontarf, Dublin City",Dublin,1005000.0,No,Clontarf,Dublin 3,q4,100%
+23/06/2017,"59 Vernon Park, Clontarf, Dublin 3",Dublin,590000.0,No,Clontarf,Dublin 3,q3,60%
+29/06/2017,"112 Dunluce Rd, Clontarf, Dublin 3",Dublin,815000.0,No,Clontarf,Dublin 3,q4,90%
+03/07/2017,"204 Kincora Rd, Clontarf, Dublin 3",Dublin,530000.0,No,Clontarf,Dublin 3,q3,60%
+06/07/2017,"26 Clontarf Rd, Clontarf, Dublin 3",Dublin,395000.0,No,Clontarf,Dublin 3,q2,40%
+06/07/2017,"68 Dunluce Rd, Clontarf, Dublin 3",Dublin,620000.0,No,Clontarf,Dublin 3,q3,70%
+06/07/2017,"98 Seapark, Mount Prospect Ave, Clontarf",Dublin,220000.0,No,Clontarf,Dublin 3,q1,10%
+07/07/2017,"4 Victoria Mews, Clontarf, Dublin 3",Dublin,565000.0,No,Clontarf,Dublin 3,q3,60%
+07/07/2017,"57 Hollybrook Rd, Clontarf, Dublin 3",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%
+11/07/2017,"180 Kincora Rd, Clontarf, Dublin 3",Dublin,200000.0,No,Clontarf,Dublin 3,q1,10%
+14/07/2017,"6 Vernon Heath, Clontarf, Dublin 3",Dublin,790000.0,No,Clontarf,Dublin 3,q4,90%
+17/07/2017,"35 Mount Prospect Park, Clontarf, Dublin 3",Dublin,408750.0,No,Clontarf,Dublin 3,q2,40%
+18/07/2017,"1 Dunseverick Rd, Clontarf, Dublin",Dublin,712500.0,No,Clontarf,Dublin 3,q4,80%
+18/07/2017,"89 Hampton Court, Vernon Ave, Clontarf",Dublin,676000.0,No,Clontarf,Dublin 3,q3,80%
+19/07/2017,"13 Kincora Dr, Clontarf, Dublin 3",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+21/07/2017,"32 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,560000.0,No,Clontarf,Dublin 3,q3,60%
+25/07/2017,"17 St Lawernce Court, Clontarf, St Lawernce Rd Dublin 3",Dublin,220000.0,No,Clontarf,Dublin 3,q1,10%
+28/07/2017,"13 Dollymount Grove, Clontarf, Dublin 3",Dublin,570000.0,No,Clontarf,Dublin 3,q3,60%
+31/07/2017,"19 Redcourt Oaks, Seafield Rd East, Clontarf Dublin 3",Dublin,315000.0,No,Clontarf,Dublin 3,q1,30%
+03/08/2017,"10 Hunters Row, Seapark Rd, Clontarf Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+03/08/2017,"59 Kincora Dr, Clontarf, Dublin 3",Dublin,690000.0,No,Clontarf,Dublin 3,q3,80%
+04/08/2017,"32 Oulton Rd, Clontarf, Dublin 3",Dublin,1050000.0,No,Clontarf,Dublin 3,q4,100%
+09/08/2017,"45 Hollybrook Rd, Clontarf, Dublin 3",Dublin,1415000.0,No,Clontarf,Dublin 3,q4,100%
+09/08/2017,"Apt 1, 7 Castle Avenue, Clontarf",Dublin,200000.0,No,Clontarf,Dublin 3,q1,10%
+16/08/2017,"14 Clontarf Rd, Dublin 3, Dublin",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+21/08/2017,"12 St Joseph'S Avenue, Clontarf, Dublin 3",Dublin,260000.0,No,Clontarf,Dublin 3,q1,20%
+23/08/2017,"2 Kincora Park, Clontarf, Dublin 3",Dublin,630000.0,No,Clontarf,Dublin 3,q3,70%
+23/08/2017,"Apartment 35 Seascape, 366 Clontarf Road",Dublin,343612.34,Yes,Clontarf,Dublin 3,q2,30%
+25/08/2017,"7 Redcourt Oaks, Clontarf, Dublin 3",Dublin,367000.0,No,Clontarf,Dublin 3,q2,40%
+25/08/2017,"82 Kincora Ave, Clontarf, Dublin 3",Dublin,755000.0,No,Clontarf,Dublin 3,q4,90%
+25/08/2017,"98 Kincora Grove, Clontarf, Dublin 3",Dublin,825000.0,No,Clontarf,Dublin 3,q4,90%
+28/08/2017,"Apt 21 Merchamp Apts, Seafield East Rd, Clontarf Dublin 3",Dublin,275000.0,No,Clontarf,Dublin 3,q1,20%
+29/08/2017,"29 Hollybrook Rd, Clontarf, Dublin 3",Dublin,1100000.0,No,Clontarf,Dublin 3,q4,100%
+29/08/2017,"8 The Spinnaker, Alverno, Clontarf Rd Dublin 3",Dublin,253500.0,No,Clontarf,Dublin 3,q1,20%
+31/08/2017,"42 Hollybrook Grove, Clontarf, Dublin 3",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+31/08/2017,"70 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,355000.0,No,Clontarf,Dublin 3,q2,30%
+31/08/2017,"78 Kincora Grove, Clontarf, Dublin 3",Dublin,785000.0,No,Clontarf,Dublin 3,q4,90%
+04/09/2017,"113 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,307500.0,No,Clontarf,Dublin 3,q1,30%
+04/09/2017,"14 Carlton Court, St Lawrence Rd, Clontarf Dublin 3",Dublin,255000.0,No,Clontarf,Dublin 3,q1,20%
+05/09/2017,"65 Grosvenor Court, Vernon Ave, Clontarf Dublin 3",Dublin,570000.0,No,Clontarf,Dublin 3,q3,60%
+08/09/2017,"58 Kincora Grove, Clontarf, Dublin 3",Dublin,767000.0,No,Clontarf,Dublin 3,q4,90%
+13/09/2017,"5 The Schooner, Alverno, Clontarf Rd Dublin 3",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+14/09/2017,"11 Brent House, Red Court Oaks, Seafield Rd East Clontarf",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+15/09/2017,"34 Copeland Ave, Clontarf, Dublin 3",Dublin,697000.0,No,Clontarf,Dublin 3,q3,80%
+15/09/2017,"67 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,950000.0,No,Clontarf,Dublin 3,q4,100%
+18/09/2017,"62 Dollymount Ave, Clontarf, Dublin 3",Dublin,875000.0,No,Clontarf,Dublin 3,q4,90%
+25/09/2017,"27 Hollybrook Rd, Clontarf, Dublin",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+27/09/2017,"153A Castle Ave, Clontarf, Dublin",Dublin,1173500.0,No,Clontarf,Dublin 3,q4,100%
+28/09/2017,"The Haven 62A Clontarf Rd, Clontarf, Dublin 3",Dublin,455000.0,No,Clontarf,Dublin 3,q2,50%
+29/09/2017,"144 The Stiles, Clontarf, Dublin 3",Dublin,898000.0,No,Clontarf,Dublin 3,q4,100%
+02/10/2017,"210 Clontarf Rd, Clontarf, Dublin 3",Dublin,1075000.0,No,Clontarf,Dublin 3,q4,100%
+06/10/2017,"44 Grosvenor Court, Clontarf, Dublin 3",Dublin,605000.0,No,Clontarf,Dublin 3,q3,70%
+06/10/2017,"65 Vernon Park, Clontarf, Dublin 3",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+09/10/2017,"130 Seapark, Mount Prospect Ave, Clontarf Dublin 7",Dublin,300000.0,No,Clontarf,Dublin 3,q1,30%
+09/10/2017,"24 Vernon Park, Clontarf, Dublin 3",Dublin,715000.0,No,Clontarf,Dublin 3,q4,80%
+11/10/2017,"17 Seafield Downs, Clontarf, Dublin 3",Dublin,390000.0,No,Clontarf,Dublin 3,q2,40%
+11/10/2017,"354 Clontarf Road, Clontarf, Dublin 3",Dublin,925000.0,No,Clontarf,Dublin 3,q4,100%
+11/10/2017,"5 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,875000.0,No,Clontarf,Dublin 3,q4,90%
+12/10/2017,"46 Danesfort, Castle Ave, Clontarf Dublin 3",Dublin,435000.0,No,Clontarf,Dublin 3,q2,40%
+12/10/2017,"60 Mount Prospect Dr, Clontarf, Dublin 3",Dublin,645000.0,No,Clontarf,Dublin 3,q3,70%
+12/10/2017,"89 Hollybrook Rd, Clontarf, Dublin 3",Dublin,590000.0,No,Clontarf,Dublin 3,q3,60%
+12/10/2017,"97 Dunluce Rd, Clontarf, Dublin 3",Dublin,533000.0,No,Clontarf,Dublin 3,q3,60%
+13/10/2017,"36 Danes Court, Clontarf, Dublin",Dublin,226500.0,No,Clontarf,Dublin 3,q1,10%
+19/10/2017,"58 Danesfort, Castle Ave, Clontarf Dublin 3",Dublin,612500.0,No,Clontarf,Dublin 3,q3,70%
+20/10/2017,"28 Seapark Road, Clontarf, Dublin 3",Dublin,847000.0,No,Clontarf,Dublin 3,q4,90%
+20/10/2017,"46 Kincora Grove, Clontarf, Dublin 3",Dublin,800000.0,No,Clontarf,Dublin 3,q4,90%
+23/10/2017,"27 Seapark Dr, Clontarf, Dublin 3",Dublin,528500.0,No,Clontarf,Dublin 3,q3,60%
+23/10/2017,"8 Oakley Park, Clontarf, Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+25/10/2017,"153 Castle Ave, Clontarf, Dublin",Dublin,1175000.0,No,Clontarf,Dublin 3,q4,100%
+26/10/2017,"9 Brooklawn, Strandville Ave East, Clontarf",Dublin,340000.0,No,Clontarf,Dublin 3,q2,30%
+27/10/2017,"30 Brian Boru Ave, Clontarf, Dublin 3",Dublin,275000.0,No,Clontarf,Dublin 3,q1,20%
+27/10/2017,"8 Brighton Ave, Clontarf, Dublin 3",Dublin,540000.0,No,Clontarf,Dublin 3,q3,60%
+31/10/2017,"22 Copeland Ave, Clontarf, Dublin 3",Dublin,660000.0,No,Clontarf,Dublin 3,q3,70%
+31/10/2017,"33 Copeland Grove, Clontarf, Dublin 3",Dublin,660000.0,No,Clontarf,Dublin 3,q3,70%
+03/11/2017,"17 Seafield Grove, Clontarf, Dublin 3",Dublin,838500.0,No,Clontarf,Dublin 3,q4,90%
+08/11/2017,"60 Seafield Rd East, Clontarf, Dublin 3",Dublin,735000.0,No,Clontarf,Dublin 3,q4,80%
+08/11/2017,"77 Seapark Drive, Clontarf, Dublin 3",Dublin,460000.0,No,Clontarf,Dublin 3,q2,50%
+09/11/2017,"76 Clontarf Park, Clontarf, Dublin 3",Dublin,457000.0,No,Clontarf,Dublin 3,q2,50%
+10/11/2017,"14 Verville Court, Vernon Ave, Clontarf Dublin 3",Dublin,322000.0,No,Clontarf,Dublin 3,q1,30%
+10/11/2017,"73 Kincora Ave, Clontarf, Dublin 3",Dublin,765000.0,No,Clontarf,Dublin 3,q4,90%
+16/11/2017,"8 Ashbrook, Clontarf, Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+17/11/2017,"94 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,225000.0,No,Clontarf,Dublin 3,q1,10%
+20/11/2017,"39 Charlemont Rd, Clontarf, Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+22/11/2017,"Apt 60 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,270000.0,No,Clontarf,Dublin 3,q1,20%
+24/11/2017,"102 Dunluce Rd, Clontarf, Dublin 3",Dublin,630250.0,No,Clontarf,Dublin 3,q3,70%
+24/11/2017,"17 Seafield Close, Clontarf, Dublin",Dublin,530000.0,No,Clontarf,Dublin 3,q3,60%
+24/11/2017,"75 Hampton Court, Clontarf, Dublin 3",Dublin,770000.0,No,Clontarf,Dublin 3,q4,90%
+28/11/2017,"Flat 2, Castle Avenue, Clontarf",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+29/11/2017,"Kaibo, 157B Vernon Ave, Clontarf Dublin 3",Dublin,1800000.0,No,Clontarf,Dublin 3,q4,100%
+30/11/2017,"71 Dunluce Rd, Clontarf, Dublin 3",Dublin,750000.0,No,Clontarf,Dublin 3,q4,90%
+01/12/2017,"Apt 18 Vernon Court, Clontarf Road, Dublin 3",Dublin,340000.0,No,Clontarf,Dublin 3,q2,30%
+05/12/2017,"14 St Lawrences Court, St Lawrence Rd, Clontarf Dublin 3",Dublin,210000.0,No,Clontarf,Dublin 3,q1,10%
+05/12/2017,"29 Kincora Road, Clontarf, Dublin 3",Dublin,1100000.0,No,Clontarf,Dublin 3,q4,100%
+05/12/2017,"45 Seapark, Mount Prospect Ave, Clontarf",Dublin,266060.0,No,Clontarf,Dublin 3,q1,20%
+05/12/2017,"Apt 136 Brooklawn, East Clontarf, Brooklawn Dublin 3",Dublin,255000.0,No,Clontarf,Dublin 3,q1,20%
+08/12/2017,"Apartment 54  Seascape, 366 Clontarf Road",Dublin,586000.0,Yes,Clontarf,Dublin 3,q3,60%
+13/12/2017,"155A Castle Ave, Clontarf, Dublin",Dublin,1152000.0,No,Clontarf,Dublin 3,q4,100%
+15/12/2017,"17 Seascape, 366 Clontarf Road, Dublin 3",Dublin,742500.0,No,Clontarf,Dublin 3,q4,80%
+19/12/2017,"74 Hollybrook Grove, Clontarf, Dublin 3",Dublin,635000.0,No,Clontarf,Dublin 3,q3,70%
+20/12/2017,"1 Copeland Grove, Clontarf, Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+20/12/2017,"4 The Mews, Castle Ave, Clontarf Dublin 3",Dublin,375000.0,No,Clontarf,Dublin 3,q2,40%
+21/12/2017,"12 Churchfield, 59/60 Clontarf Road, Dublin 3",Dublin,651982.0,Yes,Clontarf,Dublin 3,q3,70%
+21/12/2017,"Apt 88 Belgrove Park, Mount Prospect Lawns, Clontarf",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+02/01/2018,"Apt 67 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,230000.0,No,Clontarf,Dublin 3,q1,20%
+04/01/2018,"16 St Josephs Sq, Clontarf, Dublin 3",Dublin,395000.0,No,Clontarf,Dublin 3,q2,40%
+05/01/2018,"19 Mount Prospect Dr, Clontarf, Dublin 3",Dublin,765000.0,No,Clontarf,Dublin 3,q4,90%
+08/01/2018,"2 Mount Prospect Lawns, Clontarf, Dublin 3",Dublin,825000.0,No,Clontarf,Dublin 3,q4,90%
+12/01/2018,"47 Kincora Grove, Clontarf, Dublin 3",Dublin,705000.0,No,Clontarf,Dublin 3,q4,80%
+15/01/2018,"36 Vernon Gardens, Clontarf, Dublin 3",Dublin,630000.0,No,Clontarf,Dublin 3,q3,70%
+15/01/2018,"Unit 25 Seascape, 366 Clontarf Road, Dublin3",Dublin,727000.0,No,Clontarf,Dublin 3,q4,80%
+17/01/2018,"4 Lucerne, 39 Castle Ave, Clontarf Dublin 3",Dublin,325500.0,No,Clontarf,Dublin 3,q1,30%
+22/01/2018,"143 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,607500.0,No,Clontarf,Dublin 3,q3,70%
+22/01/2018,"24 The Spinnaker Alverno, Castle Avenue, Clontarf",Dublin,235000.0,No,Clontarf,Dublin 3,q1,20%
+24/01/2018,"4 Strandville House, Strandville Ave East, Clontarf",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+25/01/2018,"36 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,400000.0,No,Clontarf,Dublin 3,q2,40%
+26/01/2018,"49  Hollybrook Road, Clontarf, Dublin 3",Dublin,1160000.0,No,Clontarf,Dublin 3,q4,100%
+29/01/2018,"55 Seacourt, Clontarf, Dublin 3",Dublin,750000.0,No,Clontarf,Dublin 3,q4,90%
+31/01/2018,"64 Kincora Rd, Clontarf, Dublin 3",Dublin,902500.0,No,Clontarf,Dublin 3,q4,100%
+06/02/2018,"6 Brighton Ave, Clontarf, Dublin 3",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+07/02/2018,"21 St Johns Wood, Clontarf, Dublin 3",Dublin,482000.0,No,Clontarf,Dublin 3,q2,50%
+12/02/2018,"16 Chelsea Gardens, Clontarf, Dublin 3",Dublin,545000.0,No,Clontarf,Dublin 3,q3,60%
+23/02/2018,"78 Clontarf Rd, Clontarf, Dublin 3",Dublin,945000.0,No,Clontarf,Dublin 3,q4,100%
+26/02/2018,"29 Merchamp, Seafield Rd East, Clontarf Dublin 13",Dublin,245000.0,No,Clontarf,Dublin 3,q1,20%
+27/02/2018,"46 Kincora Ave, Clontarf, Dublin 3",Dublin,695000.0,No,Clontarf,Dublin 3,q3,80%
+28/02/2018,"29 Dunluce Rd, Clontarf, Dublin 3",Dublin,635000.0,No,Clontarf,Dublin 3,q3,70%
+28/02/2018,"30 Castle Grove, Clontarf, Dublin 3",Dublin,750000.0,No,Clontarf,Dublin 3,q4,90%
+28/02/2018,"50 Dollymount Park, Clontarf, Dublin 3",Dublin,497500.0,No,Clontarf,Dublin 3,q2,50%
+28/02/2018,"86 St Lawrence Rd, Clontarf, Dublin 3",Dublin,1500000.0,No,Clontarf,Dublin 3,q4,100%
+07/03/2018,"22 Danes Court, Clontarf, Dublin 3",Dublin,235000.0,No,Clontarf,Dublin 3,q1,20%
+08/03/2018,"12 Castle Vernon, Clontarf",Dublin,837005.0,Yes,Clontarf,Dublin 3,q4,90%
+08/03/2018,"56 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,595000.0,No,Clontarf,Dublin 3,q3,70%
+08/03/2018,"95 Hampton Court, Clontarf, Dublin 3",Dublin,808000.0,No,Clontarf,Dublin 3,q4,90%
+13/03/2018,"14A Mount Prospect Ave, Clontarf, Dublin 3",Dublin,942000.0,No,Clontarf,Dublin 3,q4,100%
+14/03/2018,"7 Merchamp, Seafield Rd East, Clontarf Dublin 3",Dublin,350000.0,No,Clontarf,Dublin 3,q2,30%
+20/03/2018,"Apts 15-34  Commercial Units 1-4, Clontarf Bay, 370 - 371 Clontarf Road",Dublin,5306581.54,No,Clontarf,Dublin 3,q4,100%
+23/03/2018,"70 Hollybrook Rd, Clontarf, Dublin 3",Dublin,1100000.0,No,Clontarf,Dublin 3,q4,100%
+28/03/2018,"39 Merchamp, Seafield Rd East, Clontarf Dublin 3",Dublin,326000.0,No,Clontarf,Dublin 3,q2,30%
+29/03/2018,"42 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,590000.0,No,Clontarf,Dublin 3,q3,60%
+06/04/2018,"78 Kincora Road, Clontarf, Dublin 3",Dublin,920000.0,No,Clontarf,Dublin 3,q4,100%
+12/04/2018,"65 Kincora Ave, Clontarf, Dublin 3",Dublin,625000.0,No,Clontarf,Dublin 3,q3,70%
+12/04/2018,"72 Seapark Dr, Clontarf, Dublin 3",Dublin,480000.0,No,Clontarf,Dublin 3,q2,50%
+13/04/2018,"38 Hollybrook Rd, Clontarf, Dublin 3",Dublin,1145000.0,No,Clontarf,Dublin 3,q4,100%
+13/04/2018,"82 Kincora Grove, Clontarf, Dublin 3",Dublin,740000.0,No,Clontarf,Dublin 3,q4,80%
+17/04/2018,"157 Belgrove Park, Mount Prospect Lawns, Clontarf",Dublin,380000.0,No,Clontarf,Dublin 3,q2,40%
+17/04/2018,"4 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%
+17/04/2018,"86 Hollybrook Road, Clontarf, Dublin 3",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+19/04/2018,"66 Hollybrook Rd, Clontarf, Dublin 3",Dublin,1015000.0,No,Clontarf,Dublin 3,q4,100%
+24/04/2018,"142 Belgrove Park, Clontarf, Dublin 3",Dublin,407000.0,No,Clontarf,Dublin 3,q2,40%
+25/04/2018,"109 Dunluce Rd, Clontarf, Dublin 3",Dublin,717500.0,No,Clontarf,Dublin 3,q4,80%
+25/04/2018,"15 Lawrence Grove, Clontarf, Dublin 3",Dublin,660000.0,No,Clontarf,Dublin 3,q3,70%
+25/04/2018,"Unit 8 Seascape, 366 Clontarf Road, Dublin3",Dublin,570000.0,No,Clontarf,Dublin 3,q3,60%
+27/04/2018,"10 Merchamp, Seafield Rd, Clontarf",Dublin,410000.0,No,Clontarf,Dublin 3,q2,40%
+27/04/2018,"38 Seascape, Clontarf, Dublin 3",Dublin,495000.0,Yes,Clontarf,Dublin 3,q2,50%
+27/04/2018,"9 Vernon Grove, Clontarf, Dublin 3",Dublin,660000.0,No,Clontarf,Dublin 3,q3,70%
+02/05/2018,"120 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+04/05/2018,"29 Park Lawn, Clontarf, Dublin 3",Dublin,627500.0,No,Clontarf,Dublin 3,q3,70%
+04/05/2018,"3 Castle Vernon, Clontarf",Dublin,788545.0,Yes,Clontarf,Dublin 3,q4,90%
+09/05/2018,"16 Mount Prospect Drive, Clontarf, Dublin 3",Dublin,615000.0,No,Clontarf,Dublin 3,q3,70%
+11/05/2018,"8 Castle Vernon, Clontarf",Dublin,801761.0,Yes,Clontarf,Dublin 3,q4,90%
+11/05/2018,"8 The Oaks, Clontarf, Dublin 3",Dublin,500000.0,No,Clontarf,Dublin 3,q2,50%
+15/05/2018,"18 Verville Court, Vernon Ave, Clontarf Dublin 3",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+17/05/2018,"47 Mount Prospect Drive, Clontarf, Dublin 3",Dublin,635000.0,No,Clontarf,Dublin 3,q3,70%
+21/05/2018,"34 Hollybrook Grove, Clontarf, Dublin 3",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+21/05/2018,"47 Kincora Grove, Clontarf, Dublin 3",Dublin,705000.0,No,Clontarf,Dublin 3,q4,80%
+22/05/2018,"13 Blackheath Park, Clontarf, Dublin 3",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+22/05/2018,"26 Castle Grove, Clontarf, Dublin 3",Dublin,790000.0,No,Clontarf,Dublin 3,q4,90%
+25/05/2018,"16 Kilronan Court, St Lawrence Rd, Clontarf Dublin 3",Dublin,335000.0,No,Clontarf,Dublin 3,q2,30%
+28/05/2018,"101 Kincora Ave, Clontarf, Dublin 3",Dublin,785000.0,No,Clontarf,Dublin 3,q4,90%
+05/06/2018,"11A Churchfield, 59/60 Clontarf Road, Dublin 3",Dublin,510000.0,Yes,Clontarf,Dublin 3,q2,50%
+07/06/2018,"65 Mount Prospect Park, Clontarf, Dublin 3",Dublin,610000.0,No,Clontarf,Dublin 3,q3,70%
+08/06/2018,"111 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,575000.0,No,Clontarf,Dublin 3,q3,60%
+11/06/2018,"20 The Stiles Rd, Clontarf, Dublin 3",Dublin,685714.28,No,Clontarf,Dublin 3,q3,80%
+15/06/2018,"73 Seapark Rd, Clontarf, Dublin 3",Dublin,582000.0,No,Clontarf,Dublin 3,q3,60%
+18/06/2018,"8 Strandville House, Clontarf, Dublin 3",Dublin,280000.0,No,Clontarf,Dublin 3,q1,20%
+19/06/2018,"6 Seafield Grove, Clontarf, Dublin 3",Dublin,855000.0,No,Clontarf,Dublin 3,q4,90%
+22/06/2018,"15 Blackheath Court, Clontarf, Dublin 3",Dublin,515000.0,No,Clontarf,Dublin 3,q3,60%
+22/06/2018,"65 Blackheath Park, Clontarf, Dublin 3",Dublin,929000.0,No,Clontarf,Dublin 3,q4,100%
+25/06/2018,"34 Lawrence Grove, Clontarf, Dublin 3",Dublin,370000.0,No,Clontarf,Dublin 3,q2,40%
+28/06/2018,"29 The Stiles Rd, Clontarf, Dublin 3",Dublin,888000.0,No,Clontarf,Dublin 3,q4,90%
+29/06/2018,"2 Castle Vernon, Dollymount Ave, Clontarf",Dublin,895000.0,Yes,Clontarf,Dublin 3,q4,100%
+29/06/2018,"26 Danes Court, Clontarf, Co Dublin",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+29/06/2018,"3 The Mews, Castle Ave, Clontarf Dublin 3",Dublin,482000.0,No,Clontarf,Dublin 3,q2,50%
+05/07/2018,"22 Redcourt Oaks, Clontarf, Dublin",Dublin,340000.0,No,Clontarf,Dublin 3,q2,30%
+06/07/2018,"110 Seapark Apts, Mount Prospect Ave, Clontarf Dublin 3",Dublin,295000.0,No,Clontarf,Dublin 3,q1,20%
+12/07/2018,"31 Seacourt, Clontarf, Dublin 3",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+16/07/2018,"26 Seapark Dr, Clontarf, Dublin 3",Dublin,620000.0,No,Clontarf,Dublin 3,q3,70%
+17/07/2018,"7 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,595000.0,No,Clontarf,Dublin 3,q3,70%
+18/07/2018,"52 Brooklawn Apts, Strandville Ave East, Clontarf",Dublin,275000.0,No,Clontarf,Dublin 3,q1,20%
+19/07/2018,"34 St Johns Wood, Castle Ave, Clontarf Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+19/07/2018,"4 Victoria Mews, Clontarf, Dublin 3",Dublin,656000.0,No,Clontarf,Dublin 3,q3,70%
+19/07/2018,"71 Kincora Dr, Clontarf, Dublin 3",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+20/07/2018,"6 Mount Prospect Lawns, Clontarf, Dublin 3",Dublin,830000.0,No,Clontarf,Dublin 3,q4,90%
+26/07/2018,"24 Haddon Rd, Clontarf, Dublin 3",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+26/07/2018,"8 Haddon Rd, Clontarf, Dublin 3",Dublin,1120000.0,No,Clontarf,Dublin 3,q4,100%
+27/07/2018,"80 Kincora Court, Clontarf, Dublin 3",Dublin,405000.0,No,Clontarf,Dublin 3,q2,40%
+30/07/2018,"91 The Stiles Rd, Clontarf, Dublin 3",Dublin,870000.0,No,Clontarf,Dublin 3,q4,90%
+31/07/2018,"26 Crescent Place, Clontarf",Dublin,650000.0,Yes,Clontarf,Dublin 3,q3,70%
+01/08/2018,"134 Seapark, Mount Prospect Ave, Clontarf",Dublin,325000.0,No,Clontarf,Dublin 3,q1,30%
+03/08/2018,"17 Blackheath Court, Clontarf, Dublin 3",Dublin,625000.0,No,Clontarf,Dublin 3,q3,70%
+09/08/2018,"66 Hollybrook Grove, Clontarf, Dublin 3",Dublin,645000.0,No,Clontarf,Dublin 3,q3,70%
+10/08/2018,"90 Hollybrook Rd, Clontarf, Dublin 3",Dublin,785000.0,No,Clontarf,Dublin 3,q4,90%
+14/08/2018,"14 Strandville House, Strandville Ave, Clontarf Dublin 3",Dublin,270000.0,No,Clontarf,Dublin 3,q1,20%
+16/08/2018,"10 Clontarf Road, Clontarf, Dublin 3",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+17/08/2018,"88 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,760000.0,No,Clontarf,Dublin 3,q4,90%
+24/08/2018,"11 Castle Vernon, Dollymount Avenue, Clontarf",Dublin,814977.96,Yes,Clontarf,Dublin 3,q4,90%
+24/08/2018,"2 Kincora Park, Clontarf, Dublin 3",Dublin,815000.0,No,Clontarf,Dublin 3,q4,90%
+24/08/2018,"70 Merchamp, Seafield Rd East, Clontarf Dublin 3",Dublin,326000.0,No,Clontarf,Dublin 3,q2,30%
+27/08/2018,"7 Grosvenor Court, Clontarf, Dublin 3",Dublin,705000.0,No,Clontarf,Dublin 3,q4,80%
+28/08/2018,"47 The Stiles Rd, Clontarf, Dublin 3",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+28/08/2018,"90 Brooklawn, Strandville Ave, Clontarf Dublin 3",Dublin,265000.0,No,Clontarf,Dublin 3,q1,20%
+29/08/2018,"123 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,200000.0,No,Clontarf,Dublin 3,q1,10%
+30/08/2018,"Apartment 35 Seascape, 366 Clontarf Road, Dublin3",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+31/08/2018,"23 Baymount Park, Clontarf, Dublin 3",Dublin,1080000.0,No,Clontarf,Dublin 3,q4,100%
+31/08/2018,"35 Vernon Gardens, Clontarf, Dublin 3",Dublin,695000.0,No,Clontarf,Dublin 3,q3,80%
+05/09/2018,"393 Clontarf Rd, Dublin 3, Dublin",Dublin,1100000.0,No,Clontarf,Dublin 3,q4,100%
+10/09/2018,"7 Castle Vernon, Dollymount Avenue, Clontarf",Dublin,829828.0,Yes,Clontarf,Dublin 3,q4,90%
+10/09/2018,"Apt 5, 52 Castle Ave, Clontarf Dublin 3",Dublin,218000.0,No,Clontarf,Dublin 3,q1,10%
+14/09/2018,"Apt 13 Brent House Redcourt Oaks, Seafield Rd East, Clontarf Dublin 3",Dublin,395000.0,No,Clontarf,Dublin 3,q2,40%
+19/09/2018,"62 Mount Prospect Dr, Clontarf, Dublin 3",Dublin,735000.0,No,Clontarf,Dublin 3,q4,80%
+21/09/2018,"11 St Josephs Sq, Clontarf, Dublin 3",Dublin,347021.0,No,Clontarf,Dublin 3,q2,30%
+25/09/2018,"208 Clontarf Rd, Dublin 3, Dublin",Dublin,1030000.0,No,Clontarf,Dublin 3,q4,100%
+25/09/2018,"27 Carlton Court, St Lawrence Road, Clontarf",Dublin,256000.0,No,Clontarf,Dublin 3,q1,20%
+02/10/2018,"82 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,375000.0,No,Clontarf,Dublin 3,q2,40%
+04/10/2018,"164 Dunluce Rd, Clontarf, Dublin 3",Dublin,661000.0,No,Clontarf,Dublin 3,q3,70%
+04/10/2018,"164 Vernon Avenue, Clontarf, Dublin 3",Dublin,710000.0,No,Clontarf,Dublin 3,q4,80%
+09/10/2018,"10 Vernon Park, Clontarf, Dublin 3",Dublin,895000.0,No,Clontarf,Dublin 3,q4,100%
+10/10/2018,"2 St Lawrences Court, Clontarf, Dublin 3",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+10/10/2018,"263 Clontarf Rd, Dublin 3, Dublin",Dublin,585000.0,No,Clontarf,Dublin 3,q3,60%
+11/10/2018,"100 St Lawrence Rd, Clontarf, Dublin 3",Dublin,1850000.0,No,Clontarf,Dublin 3,q4,100%
+11/10/2018,"14 Glaslynn, Clontarf, Dublin 3",Dublin,335000.0,No,Clontarf,Dublin 3,q2,30%
+11/10/2018,"64 Blackheath Park, Clontarf, Dublin 3",Dublin,1001000.0,No,Clontarf,Dublin 3,q4,100%
+12/10/2018,"33 Danesfort, Castle Avenue, Clontarf",Dublin,272000.0,No,Clontarf,Dublin 3,q1,20%
+12/10/2018,"68 Park Lawn, Clontarf, Dublin 3",Dublin,715000.0,No,Clontarf,Dublin 3,q4,80%
+12/10/2018,"70 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,190000.0,No,Clontarf,Dublin 3,q1,10%
+16/10/2018,"13 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,230000.0,No,Clontarf,Dublin 3,q1,20%
+23/10/2018,"8 Brent House, Seafield Rd East, Clontarf Dublin 3",Dublin,355000.0,No,Clontarf,Dublin 3,q2,30%
+23/10/2018,"99 Kincora Ave, Clontarf, Dublin 3",Dublin,770000.0,No,Clontarf,Dublin 3,q4,90%
+26/10/2018,"Culleenamore House, Mount Prospect Ave, Clontarf",Dublin,3200000.0,No,Clontarf,Dublin 3,q4,100%
+30/10/2018,"10 Dollymount Rise, Clontarf, Dublin 3",Dublin,1225000.0,No,Clontarf,Dublin 3,q4,100%
+31/10/2018,"137 Seafield Rd East, Clontarf, Dublin 3",Dublin,1170000.0,No,Clontarf,Dublin 3,q4,100%
+31/10/2018,"8 Lambourne Village, Kincora Dr, Clontarf",Dublin,320000.0,No,Clontarf,Dublin 3,q1,30%
+02/11/2018,"16 Crescent Place, Clontarf, Dublin 3",Dublin,446500.0,Yes,Clontarf,Dublin 3,q2,50%
+05/11/2018,"Apt 11 Bruach Na Mara, 187 Seafield Rd East, Clontarf Dublin 3",Dublin,333000.0,No,Clontarf,Dublin 3,q2,30%
+06/11/2018,"Oakwood, 257 Mount Prospect Ave, Clontarf Dublin 3",Dublin,1800000.0,No,Clontarf,Dublin 3,q4,100%
+07/11/2018,"24 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,1112500.0,No,Clontarf,Dublin 3,q4,100%
+07/11/2018,"304 Clontarf Rd, Clontarf, Dublin 3",Dublin,1100000.0,No,Clontarf,Dublin 3,q4,100%
+13/11/2018,"33 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,600000.0,No,Clontarf,Dublin 3,q3,70%
+14/11/2018,"18 Redcourt Oaks, Seafield Rd East, Clontarf Dublin 3",Dublin,290000.0,No,Clontarf,Dublin 3,q1,20%
+28/11/2018,"Apt 123, Brooklawn, Clontarf Dublin 3",Dublin,250000.0,No,Clontarf,Dublin 3,q1,20%
+29/11/2018,"29 Castle Court, Clontarf, Dublin 3",Dublin,440000.0,No,Clontarf,Dublin 3,q2,50%
+29/11/2018,"Apt 3 Hollybrook Court, Hollybrook Road, Clontarf",Dublin,240000.0,No,Clontarf,Dublin 3,q1,20%
+30/11/2018,"239 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,820000.0,No,Clontarf,Dublin 3,q4,90%
+03/12/2018,"12 Seaview Ave, Clontarf, Dublin 3",Dublin,815000.0,No,Clontarf,Dublin 3,q4,90%
+03/12/2018,"2 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,820000.0,No,Clontarf,Dublin 3,q4,90%
+03/12/2018,"6 St Davids Court, Castle Ave, Clontarf Dublin 3",Dublin,370000.0,No,Clontarf,Dublin 3,q2,40%
+05/12/2018,"109 The Stiles Rd, Clontarf, Dublin 3",Dublin,850000.0,No,Clontarf,Dublin 3,q4,90%
+06/12/2018,"39D Castle Ave, Clontarf, Dublin 3",Dublin,785000.0,No,Clontarf,Dublin 3,q4,90%
+06/12/2018,"418 Clontarf Rd, Clontarf, Dublin 3",Dublin,1100000.0,No,Clontarf,Dublin 3,q4,100%
+06/12/2018,"50 Hampton Court, Veron Ave, Clontarf Dublin 3",Dublin,740000.0,No,Clontarf,Dublin 3,q4,80%
+07/12/2018,"6 Vernon Court, Clontarf Rd, Dublin 3",Dublin,345000.0,No,Clontarf,Dublin 3,q2,30%
+10/12/2018,"28 Copeland Ave, Clontarf, Dublin 3",Dublin,860000.0,No,Clontarf,Dublin 3,q4,90%
+11/12/2018,"1 Hunters Row, Seapark Rd, Clontarf Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+11/12/2018,"17 Vernon Grove, Clontarf, Dublin 3",Dublin,586000.0,No,Clontarf,Dublin 3,q3,60%
+11/12/2018,"23 Vernon Rise, Clontarf, Dublin 3",Dublin,717000.0,No,Clontarf,Dublin 3,q4,80%
+14/12/2018,"23 Seapark, Mount Prospect Avenue, Clontarf",Dublin,285000.0,No,Clontarf,Dublin 3,q1,20%
+14/12/2018,"419 Clontarf Rd, Clontarf, Dublin 3",Dublin,1255000.0,No,Clontarf,Dublin 3,q4,100%
+17/12/2018,"152 Castle Avenue, Clontarf, Dublin 3",Dublin,647280.0,No,Clontarf,Dublin 3,q3,70%
+19/12/2018,"34 Mount Prospect Park, Clontarf, Dublin 3",Dublin,620000.0,No,Clontarf,Dublin 3,q3,70%
+21/12/2018,"1 Seaview Court, Clontarf Rd, Clontarf Dublin 3",Dublin,335000.0,No,Clontarf,Dublin 3,q2,30%
+27/12/2018,"93 Mount Prospect Avenue, Clontarf, Dublin 3",Dublin,205625.0,No,Clontarf,Dublin 3,q1,10%
+27/12/2018,"93 Mount Prospect Avenue, Clontarf, Dublin 3",Dublin,109375.0,No,Clontarf,Dublin 3,q1,10%
+15/01/2019,"235 Clontarf Rd, Clontarf, Dublin 3",Dublin,676000.0,No,Clontarf,Dublin 3,q3,80%
+16/01/2019,"17 Lambourne Village, Clontarf, Dublin 3",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+16/01/2019,"48 Summerville, Clontarf, Dublin 3",Dublin,840000.0,No,Clontarf,Dublin 3,q4,90%
+16/01/2019,"56 Park Lawn, Clontarf, Dublin 3",Dublin,660000.0,No,Clontarf,Dublin 3,q3,70%
+17/01/2019,"20 Court View, Castle Ave, Clontarf Dublin 3",Dublin,450000.0,No,Clontarf,Dublin 3,q2,50%
+18/01/2019,"2A Vernon Court, Clontarf Road, Dublin 3",Dublin,345000.0,No,Clontarf,Dublin 3,q2,30%
+22/01/2019,"13 Seapark, Mount Prospect Ave, Clontarf Dublin 3",Dublin,310000.0,No,Clontarf,Dublin 3,q1,30%
+23/01/2019,"15 Castle Vernon, Dollymount Avenue, Clontarf",Dublin,814977.96,Yes,Clontarf,Dublin 3,q4,90%
+23/01/2019,"48A Mount Prospect Avenue, Clontarf",Dublin,708260.0,Yes,Clontarf,Dublin 3,q4,80%
+29/01/2019,"196 Kincora Rd, Clontarf, Dublin 3",Dublin,685000.0,No,Clontarf,Dublin 3,q3,80%
+30/01/2019,"15 Carlton Court, St Lawrence Rd, Clontarf Dublin 3",Dublin,270000.0,No,Clontarf,Dublin 3,q1,20%
+31/01/2019,"55 Brooklawn, Strandville Ave, Clontarf Dublin 3",Dublin,335000.0,No,Clontarf,Dublin 3,q2,30%
+04/02/2019,"11 Copeland Grove, Clontarf, Dublin 3",Dublin,580000.0,No,Clontarf,Dublin 3,q3,60%
+04/02/2019,"13A Crescent Place, Clontarf, Dublin 3",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+04/02/2019,"19 Park Lawn, Clontarf, Dublin 3",Dublin,795000.0,No,Clontarf,Dublin 3,q4,90%
+04/02/2019,"7 Conquer Hill Ave, Clontarf, Dublin 3",Dublin,295000.0,No,Clontarf,Dublin 3,q1,20%
+08/02/2019,"78 Hollybrook Rd, Clontarf, Dublin 3",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%
+08/02/2019,"Apartment 19, Ardilaun Court, Clontarf",Dublin,453744.0,Yes,Clontarf,Dublin 3,q2,50%
+10/02/2019,"22 Mount Prospect Lawns, Clontarf, Dublin 3",Dublin,935000.0,No,Clontarf,Dublin 3,q4,100%
+12/02/2019,"Apartment 129 Seapark, Mount Prospect Avenue, Clontarf",Dublin,317000.0,No,Clontarf,Dublin 3,q1,30%
+13/02/2019,"32 Haddon Road, Clontarf, Dublin 3",Dublin,1120000.0,No,Clontarf,Dublin 3,q4,100%
+15/02/2019,"50 Belgrove Park, Clontarf, Dublin 3",Dublin,350000.0,No,Clontarf,Dublin 3,q2,30%
+15/02/2019,"85 Merchamp, Seafield Rd East, Clontarf Dublin 3",Dublin,350000.0,No,Clontarf,Dublin 3,q2,30%
+18/02/2019,"6 Castle Vernon, Dollymount Avenue, Clontarf",Dublin,792951.53,Yes,Clontarf,Dublin 3,q4,90%
+21/02/2019,"147 Kincora Rd, Clontarf, Dublin 3",Dublin,700000.0,No,Clontarf,Dublin 3,q4,80%
+01/03/2019,"23 Brian Boru Ave, Clontarf, Dublin 3",Dublin,370000.0,No,Clontarf,Dublin 3,q2,40%
+07/03/2019,"26 Clontarf Rd, Clontarf, Dublin 3",Dublin,740000.0,No,Clontarf,Dublin 3,q4,80%
+08/03/2019,"20 Hollybrook Grove, Clontarf, Dublin 3",Dublin,575000.0,No,Clontarf,Dublin 3,q3,60%
+08/03/2019,"35 Hollybrook Rd, Clontarf, Dublin 3",Dublin,1050000.0,No,Clontarf,Dublin 3,q4,100%
+11/03/2019,"21 Haddon Road, Clontarf",Dublin,1250000.0,No,Clontarf,Dublin 3,q4,100%
+12/03/2019,"28 Dollymount Ave, Clontarf, Dublin 3",Dublin,975000.0,No,Clontarf,Dublin 3,q4,100%
+14/03/2019,"45 Seascape, 366 Clontarf Road, Dublin3",Dublin,810000.0,No,Clontarf,Dublin 3,q4,90%
+15/03/2019,"51 Kincora Ave, Clontarf, Dublin 3",Dublin,682000.0,No,Clontarf,Dublin 3,q3,80%
+19/03/2019,"33 Victoria Rd, Clontarf, Dublin 3",Dublin,1130000.0,No,Clontarf,Dublin 3,q4,100%
+25/03/2019,"61 Brooklawn, Strandville Ave East, Clontarf",Dublin,245000.0,No,Clontarf,Dublin 3,q1,20%
+25/03/2019,"65 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,2675000.0,No,Clontarf,Dublin 3,q4,100%
+26/03/2019,"8 Vernon Rise, Clontarf, Dublin 3",Dublin,710000.0,No,Clontarf,Dublin 3,q4,80%
+28/03/2019,"174 Dunluce Rd, Clontarf, Dublin",Dublin,545000.0,No,Clontarf,Dublin 3,q3,60%
+29/03/2019,"36 Clontarf Park, Clontarf, Dublin 3",Dublin,502500.0,No,Clontarf,Dublin 3,q2,50%
+03/04/2019,"33 Dollymount Grove, Clontarf, Dublin 3",Dublin,745000.0,No,Clontarf,Dublin 3,q4,80%
+04/04/2019,"50 Dollymount Avenue, Clontarf, Dublin 3",Dublin,225000.0,No,Clontarf,Dublin 3,q1,10%
+08/04/2019,"1 Black Heath Grove, Clontarf, Dublin 2",Dublin,750000.0,No,Clontarf,Dublin 3,q4,90%
+09/04/2019,"135 Vernon Ave, Clontarf, Dublin 3",Dublin,859000.0,No,Clontarf,Dublin 3,q4,90%
+09/04/2019,"17 Brooklawn, Strandville Ave East, Clontarf Dublin 3",Dublin,290000.0,No,Clontarf,Dublin 3,q1,20%
+10/04/2019,"5 Victoria Rd, Clontarf, Dublin 3",Dublin,550000.0,No,Clontarf,Dublin 3,q3,60%
+11/04/2019,"138 Brooklawn, Strandville Ave East, Clontarf Dublin 3",Dublin,312792.84,No,Clontarf,Dublin 3,q1,30%
+11/04/2019,"143 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,375000.0,No,Clontarf,Dublin 3,q2,40%
+11/04/2019,"9 Castle Vernon, Clontarf, Dublin 3",Dublin,801761.0,Yes,Clontarf,Dublin 3,q4,90%
+12/04/2019,"5 Kilcora Grove, Clontarf, Dublin 3",Dublin,940000.0,No,Clontarf,Dublin 3,q4,100%
+12/04/2019,"59 Ardilaun Court, Clontarf",Dublin,595000.0,Yes,Clontarf,Dublin 3,q3,70%
+17/04/2019,"Lucerne Apt 6, 39 Castle Ave, Clontarf Dublin 3",Dublin,315000.0,No,Clontarf,Dublin 3,q1,30%
+17/04/2019,"Unit 58, Seascape, 366 Clontarf Road",Dublin,425000.0,No,Clontarf,Dublin 3,q2,40%
+26/04/2019,"151 Castle Ave, Clontarf, Dublin 3",Dublin,1400000.0,No,Clontarf,Dublin 3,q4,100%
+29/04/2019,"84 Hollybrook Road, Clontarf, Dublin 3",Dublin,820000.0,No,Clontarf,Dublin 3,q4,90%
+01/05/2019,"322 Clontarf Road, Clontarf, Dublin 3",Dublin,420000.0,No,Clontarf,Dublin 3,q2,40%
+01/05/2019,"4 Seascape, Clontarf Road, Dublin3",Dublin,560000.0,No,Clontarf,Dublin 3,q3,60%
+10/05/2019,"28 Clontarf Rd, Clontarf, Dublin 3",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%
+28/05/2019,"104 Kincora Rd, Clontarf, Dublin 3",Dublin,980000.0,No,Clontarf,Dublin 3,q4,100%
+29/05/2019,"15 Brian Boru St, Clontarf, Dublin 3",Dublin,501600.0,No,Clontarf,Dublin 3,q2,50%
+31/05/2019,"16 St Josephs Sq, Clontarf, Dublin 3",Dublin,425000.0,No,Clontarf,Dublin 3,q2,40%
+31/05/2019,"20 St Johns Wood, Clontarf, Castle Ave Dublin 3",Dublin,495000.0,No,Clontarf,Dublin 3,q2,50%
+31/05/2019,"38 Vernon Park, Clontarf, Dublin 3",Dublin,668000.0,No,Clontarf,Dublin 3,q3,80%
+05/06/2019,"114 Kincora Court Clontarf, Dublin 3, Dublin",Dublin,490000.0,No,Clontarf,Dublin 3,q2,50%
+05/06/2019,"16 Seapark Dr, Clontarf, Dublin 3",Dublin,620000.0,No,Clontarf,Dublin 3,q3,70%
+05/06/2019,"53 Lawrence Grove, Clontarf, Dublin 3",Dublin,585000.0,No,Clontarf,Dublin 3,q3,60%
+05/06/2019,"99 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,438000.0,No,Clontarf,Dublin 3,q2,40%
+07/06/2019,"41 Kincora Grove, Clontarf, Dublin 3",Dublin,840000.0,No,Clontarf,Dublin 3,q4,90%
+12/06/2019,"Tullyallen, 14 Hollybrook Park, Clontarf",Dublin,1700000.0,No,Clontarf,Dublin 3,q4,100%
+13/06/2019,"41 Kincora Court, Clontarf, Dublin 3",Dublin,485000.0,No,Clontarf,Dublin 3,q2,50%
+14/06/2019,"37 Mount Prospect Park, Clontarf, Dublin 3",Dublin,675000.0,No,Clontarf,Dublin 3,q3,80%
+14/06/2019,"6 Mount Prospect Grove, Clontarf, Dublin 3",Dublin,597000.0,No,Clontarf,Dublin 3,q3,70%
+18/06/2019,"87 Merchamp, Seafield Rd, Clontarf Dublin 3",Dublin,355000.0,No,Clontarf,Dublin 3,q2,30%
+19/06/2019,"44 Clontarf Park, Clontarf, Dublin 3",Dublin,480000.0,No,Clontarf,Dublin 3,q2,50%
+21/06/2019,"59 Seascape, Clontarf, Dublin3",Dublin,640000.0,No,Clontarf,Dublin 3,q3,70%
+24/06/2019,"25 Merchamp, Seafield Rd East, Clontarf Dublin 3",Dublin,65000.0,No,Clontarf,Dublin 3,q1,10%
+25/06/2019,"35 Clontarf Park, Clontarf, Dublin 3",Dublin,625000.0,No,Clontarf,Dublin 3,q3,70%
+26/06/2019,"113 Kincora Ave, Clontarf, Dublin 3",Dublin,732500.0,No,Clontarf,Dublin 3,q4,80%
+26/06/2019,"5 Blackheath Ave, Clontarf, Dublin 3",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+28/06/2019,"23 Castle Vernon, Dollymount Avenue, Clontarf",Dublin,788546.25,Yes,Clontarf,Dublin 3,q4,90%
+01/07/2019,"15 The Laurels Seapark, Off Mount Prospect Ave, Clontarf",Dublin,475000.0,No,Clontarf,Dublin 3,q2,50%
+03/07/2019,"114 Dunluce Rd, Clontarf, Dublin 3",Dublin,655000.0,No,Clontarf,Dublin 3,q3,70%
+08/07/2019,"57 Seafield Road, Clontarf, Dublin 3",Dublin,1595000.0,No,Clontarf,Dublin 3,q4,100%
+10/07/2019,"275 Clontarf Rd, Clontarf, Dublin",Dublin,742000.0,No,Clontarf,Dublin 3,q4,80%
+11/07/2019,"2 Vernon Park, Clontarf, Dublin 3",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+12/07/2019,"Apartment 21, Hollybrook Mews, Clontarf",Dublin,335000.0,No,Clontarf,Dublin 3,q2,30%
+15/07/2019,"9A Dollymount Avenue, Clontarf, Dublin 3",Dublin,1095000.0,No,Clontarf,Dublin 3,q4,100%
+17/07/2019,"149 Belgrove Park, Clontarf, Dublin 3",Dublin,400000.0,No,Clontarf,Dublin 3,q2,40%
+18/07/2019,"54 Mount Prospect Dr, Clontarf, Dublin 3",Dublin,580000.0,No,Clontarf,Dublin 3,q3,60%
+19/07/2019,"44 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,397000.0,No,Clontarf,Dublin 3,q2,40%
+25/07/2019,"67 Merchamp, Seafield Rd East, Clontarf Dublin 3",Dublin,360000.0,No,Clontarf,Dublin 3,q2,40%
+25/07/2019,"Apartment 13, Hollybrook, Clontarf",Dublin,313000.0,No,Clontarf,Dublin 3,q1,30%
+29/07/2019,"17 Vernon Ave, Clontarf, Dublin",Dublin,3575000.0,No,Clontarf,Dublin 3,q4,100%
+06/08/2019,"334A Clontarf Road, Clontarf, Dublin 3",Dublin,1350000.0,No,Clontarf,Dublin 3,q4,100%
+06/08/2019,"76 Hollybrook Grove, Clontarf, Dublin 3",Dublin,754950.0,No,Clontarf,Dublin 3,q4,90%
+06/08/2019,"8 Conquer Hill Ave, Clontarf, Dublin 3",Dublin,409000.0,No,Clontarf,Dublin 3,q2,40%
+06/08/2019,"85 Mount Prospect Avenue, Clontarf, Dublin 3",Dublin,1790000.0,No,Clontarf,Dublin 3,q4,100%
+06/08/2019,"97 Mount Prospect Avenue, Clontarf, Dublin 3",Dublin,1200000.0,No,Clontarf,Dublin 3,q4,100%
+07/08/2019,"33 Blackheath Park, Clontarf, Dublin 3",Dublin,900000.0,No,Clontarf,Dublin 3,q4,100%
+08/08/2019,"22 Castle Vernon, Dollymount Avenue, Clontarf",Dublin,788546.25,Yes,Clontarf,Dublin 3,q4,90%
+09/08/2019,"2 Hollybrook Wood Clontarf, Dublin 3, Dublin",Dublin,495000.0,No,Clontarf,Dublin 3,q2,50%
+12/08/2019,"9 Vernon Gardens, Clontarf, Dublin 3",Dublin,545000.0,No,Clontarf,Dublin 3,q3,60%
+16/08/2019,"111 Kincora Rd, Clontarf, Dublin 3",Dublin,650000.0,No,Clontarf,Dublin 3,q3,70%
+16/08/2019,"115 Kincora Court, Clontarf, Dublin 3",Dublin,484500.0,No,Clontarf,Dublin 3,q2,50%
+16/08/2019,"53 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,435000.0,No,Clontarf,Dublin 3,q2,40%
+19/08/2019,"3 Vernon Mews, Vernon Avenue, Clontarf",Dublin,748898.0,Yes,Clontarf,Dublin 3,q4,80%
+19/08/2019,"Apt 27 Redcourt Oaks, Seafield Rd East, Clontarf Dublin 3",Dublin,269000.0,No,Clontarf,Dublin 3,q1,20%
+21/08/2019,"75 Seapark, Mount Prospect Ave, Clontarf",Dublin,285000.0,No,Clontarf,Dublin 3,q1,20%
+22/08/2019,"26 Castilla Park, Clontarf, Dublin 3",Dublin,677500.0,No,Clontarf,Dublin 3,q3,80%
+26/08/2019,"25 Kincora Ave, Clontarf, Dublin 3",Dublin,905000.0,No,Clontarf,Dublin 3,q4,100%
+28/08/2019,"246 Clontarf Rd, Clontarf, Dublin 3",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+29/08/2019,"31 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,855000.0,No,Clontarf,Dublin 3,q4,90%
+29/08/2019,"67 Seafield Road East, Clontarf, Dublin 3",Dublin,2000000.0,No,Clontarf,Dublin 3,q4,100%
+30/08/2019,"39 Brooklawn Apt, Srandville Ave East, Clontarf",Dublin,325000.0,No,Clontarf,Dublin 3,q1,30%
+05/09/2019,"29 Blackheath Gardens, Clontarf, Dublin 3",Dublin,1200000.0,No,Clontarf,Dublin 3,q4,100%
+05/09/2019,"3 Vernon Heath, Clontarf, Dublin 3",Dublin,775000.0,No,Clontarf,Dublin 3,q4,90%
+06/09/2019,"93 Dunluce Rd, Clontarf, Dublin 3",Dublin,631500.0,No,Clontarf,Dublin 3,q3,70%
+09/09/2019,"12 Vernon Mews, Vernon Avenue, Clontarf",Dublin,616740.09,Yes,Clontarf,Dublin 3,q3,70%
+11/09/2019,"7 Brian Boru St, Clontarf, Dublin 3",Dublin,370000.0,No,Clontarf,Dublin 3,q2,40%
+12/09/2019,"30 Hollybrook Road, Clontarf, Dublin 3",Dublin,1100000.0,No,Clontarf,Dublin 3,q4,100%
+12/09/2019,"9 Seapark Drive, Clontarf, Dublin 3",Dublin,670000.0,No,Clontarf,Dublin 3,q3,80%
+13/09/2019,"131 Belgrove Park, Mount Prospect Lawns, Clontarf Dublin 3",Dublin,415000.0,No,Clontarf,Dublin 3,q2,40%
+13/09/2019,"29 Kincora Road, Clontarf, Dublin 3",Dublin,1400000.0,No,Clontarf,Dublin 3,q4,100%
+17/09/2019,"28 Kincora Park, Clontarf, Dublin 3",Dublin,825000.0,No,Clontarf,Dublin 3,q4,90%
+18/09/2019,"93 Kincora Court, Clontarf, Dublin 3",Dublin,391000.0,No,Clontarf,Dublin 3,q2,40%
+19/09/2019,"2 Seapark Rd, Clontarf, Dublin 3",Dublin,950000.0,No,Clontarf,Dublin 3,q4,100%
+19/09/2019,"201 Mount Prospect Ave, Clontarf, Dublin 3",Dublin,1525000.0,No,Clontarf,Dublin 3,q4,100%
+19/09/2019,"Unit 16 Castle Vernon, Dollymount Avenue, Clontarf",Dublin,788545.0,Yes,Clontarf,Dublin 3,q4,90%
+20/09/2019,"45 Summerville, Clontarf, Dublin 3",Dublin,720000.0,No,Clontarf,Dublin 3,q4,80%
+20/09/2019,"68 Kincora Road, Clontarf, Dublin 3",Dublin,800000.0,No,Clontarf,Dublin 3,q4,90%
+23/09/2019,"22 Copeland Grove, Clontarf, Dublin 3",Dublin,655000.0,No,Clontarf,Dublin 3,q3,70%
+26/09/2019,"15 Seapark Road, Clontarf, Dublin 3",Dublin,901000.0,No,Clontarf,Dublin 3,q4,100%
+26/09/2019,"42 Kincora Dr, Clontarf, Dublin 3",Dublin,725000.0,No,Clontarf,Dublin 3,q4,80%
+27/09/2019,"45 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,535000.0,No,Clontarf,Dublin 3,q3,60%
+27/09/2019,"46 Hollybrook Grove, Clontarf, Dublin 3",Dublin,635000.0,No,Clontarf,Dublin 3,q3,70%
+04/10/2019,"5 The Moorings, Clontarf, Dublin 3",Dublin,875000.0,No,Clontarf,Dublin 3,q4,90%
+11/10/2019,"19 Conquer Hill Rd, Clontarf, Dublin 3",Dublin,422000.0,No,Clontarf,Dublin 3,q2,40%
+11/10/2019,"78 Hollybrook Rd, Clontarf, Dublin 3",Dublin,680000.0,No,Clontarf,Dublin 3,q3,80%

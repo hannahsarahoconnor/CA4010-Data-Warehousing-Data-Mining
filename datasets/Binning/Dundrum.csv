@@ -1,0 +1,1296 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+04/01/2010,"1 Meadow Avenue, Dundrum, Dublin 14",Dublin,438500.0,No,Dundrum,Dublin 14,q3,60%
+04/01/2010,"The Mews, 11A Wyckham Park Road, Dundrum",Dublin,345000.0,No,Dundrum,Dublin 14,q2,40%
+12/01/2010,"10 Ailesbury Lawn, Dundrum, Dublin 16",Dublin,800000.0,No,Dundrum,Dublin 14,q4,100%
+12/01/2010,"15 Rosemount Park, Dundrum, Dublin 14",Dublin,356000.0,No,Dundrum,Dublin 14,q2,40%
+13/01/2010,"11 Balally Drive, Dundrum",Dublin,500000.0,No,Dundrum,Dublin 14,q3,70%
+15/01/2010,"27 Mulvey Park, Dundrum",Dublin,334000.0,No,Dundrum,Dublin 14,q2,30%
+20/01/2010,"9 Taney Manor, Dundrum",Dublin,412000.0,No,Dundrum,Dublin 14,q3,60%
+05/02/2010,"75 Rosemount Estate, Dundrum",Dublin,245000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2010,"Apt Wyckham Point, Wyckham Way, Dundrum",Dublin,290748.0,Yes,Dundrum,Dublin 14,q1,30%
+18/02/2010,"133 Wyckham Point, Wyckham Way, Dundrum",Dublin,300000.0,Yes,Dundrum,Dublin 14,q1,30%
+22/02/2010,"Frankfort Lodge, Dundrum, Dublin",Dublin,880000.0,No,Dundrum,Dublin 14,q4,100%
+26/02/2010,"10 Olivemount Grove, Dundrum",Dublin,395000.0,No,Dundrum,Dublin 14,q2,50%
+10/03/2010,"Apartment 146 Wyckham Point, Wyckham Way, Dundrum  D16",Dublin,286343.61,Yes,Dundrum,Dublin 14,q1,30%
+29/03/2010,"3 Frankfort Court, Dundrum, Dublin 14",Dublin,470000.0,No,Dundrum,Dublin 14,q3,70%
+31/03/2010,"5 Laurel Drive, Dundrum",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+07/04/2010,"59 Mulvey Park, Dundrum",Dublin,265000.0,No,Dundrum,Dublin 14,q1,20%
+23/04/2010,"77 Highfield Park, Dundrum, Dublin 14",Dublin,455000.0,No,Dundrum,Dublin 14,q3,70%
+30/04/2010,"260 Wyckham Point, Wyckham Way, Dundrum",Dublin,397500.0,Yes,Dundrum,Dublin 14,q2,50%
+30/04/2010,"No 2 Olaf Hall, Sandyfort Road, Dundrum",Dublin,230000.0,No,Dundrum,Dublin 14,q1,10%
+06/05/2010,"25 Wyckham Park Road, Dundrum, Dublin 16",Dublin,595000.0,No,Dundrum,Dublin 14,q4,90%
+11/05/2010,"72 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,220264.31,Yes,Dundrum,Dublin 14,q1,10%
+13/05/2010,"68 Highfield Park, Dundrum",Dublin,393750.0,No,Dundrum,Dublin 14,q2,50%
+14/05/2010,"10 Balally Grove, Dundrum, Dublin 14",Dublin,460000.0,No,Dundrum,Dublin 14,q3,70%
+14/05/2010,"15 Millmount Terrace, Windy Arbour, Dundrum",Dublin,324000.0,No,Dundrum,Dublin 14,q2,30%
+14/05/2010,"27 Somerville, Dundrum Road",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+14/05/2010,"6 Alexandra Court, Dundrum, Dublin 14",Dublin,185000.0,No,Dundrum,Dublin 14,q1,10%
+18/05/2010,"43 Balally Avenue, Dundrum, Dublin 14",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+20/05/2010,"110 Balally Drive, Dundrum, Dublin 16",Dublin,435000.0,No,Dundrum,Dublin 14,q3,60%
+20/05/2010,"110 Balally Drive, Dundrum, Dublin 16",Dublin,435000.0,No,Dundrum,Dublin 14,q3,60%
+21/05/2010,"18  Frankfort Park, Dundrum",Dublin,813000.0,No,Dundrum,Dublin 14,q4,100%
+24/05/2010,"291 Wyckham Point, Wyckham Way, Dundrum",Dublin,168367.06,Yes,Dundrum,Dublin 14,q1,10%
+27/05/2010,"297 Wyckham Point, Wyckham Way, Dundrum",Dublin,84234.0,Yes,Dundrum,Dublin 14,q1,10%
+01/06/2010,"187 Barton Road East, Dundrum",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+01/06/2010,"4 Dundrum House Castle, Dundrum",Dublin,165000.0,No,Dundrum,Dublin 14,q1,10%
+03/06/2010,"49 Sweetmount Avenue, Dundrum",Dublin,264000.0,No,Dundrum,Dublin 14,q1,20%
+09/06/2010,"24 Wesley Heights, Dundrum, Dublin",Dublin,595000.0,No,Dundrum,Dublin 14,q4,90%
+10/06/2010,"32 Dun Emer Drive, Dundrum",Dublin,530000.0,No,Dundrum,Dublin 14,q3,80%
+16/06/2010,"205 Wyckham Point, Wyckham Way, Dundrum",Dublin,315659.08,Yes,Dundrum,Dublin 14,q2,30%
+16/06/2010,"214 Barton Road East, Dundrum, Dublin 14",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+16/06/2010,"Apartment 7, Carmichael Hall, St Columbanus Road  Dundrum",Dublin,230000.0,No,Dundrum,Dublin 14,q1,10%
+28/06/2010,"287 Wyckham Point, Wickham Way, Dundrum",Dublin,212916.59,Yes,Dundrum,Dublin 14,q1,10%
+28/06/2010,"300 Wyckham Point, Wyckham Way, Dundrum",Dublin,212916.59,Yes,Dundrum,Dublin 14,q1,10%
+30/06/2010,"109 Wyckham Point, Wyckham Way, Dundrum",Dublin,214978.0,Yes,Dundrum,Dublin 14,q1,10%
+02/07/2010,"33 Annaville Park, Dundrum",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+08/07/2010,"244 Wyckham Point, Wyckham Way, Dundrum",Dublin,215859.02,Yes,Dundrum,Dublin 14,q1,10%
+09/07/2010,"143 Mulvey Park, Dundrum",Dublin,323500.0,No,Dundrum,Dublin 14,q2,30%
+12/07/2010,"10 Annaville Grove, Dundrum",Dublin,425000.0,No,Dundrum,Dublin 14,q3,60%
+19/07/2010,"76 Castlebrook, Dundrum, Dublin 14",Dublin,565000.0,No,Dundrum,Dublin 14,q4,80%
+20/07/2010,"38 Pine Copse Road, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+23/07/2010,"94 Holywell, Upper Kilmacud Road, Dundrum",Dublin,572000.0,No,Dundrum,Dublin 14,q4,80%
+28/07/2010,"3 Highfield Park, Dundrum",Dublin,470000.0,No,Dundrum,Dublin 14,q3,70%
+29/07/2010,"13 Alexandra Terrace, Dundrum",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+06/08/2010,"42 Highfield Park, Dundrum",Dublin,432000.0,No,Dundrum,Dublin 14,q3,60%
+06/08/2010,"48 Ailsbury Lawn, Dundrum",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+10/08/2010,"162 Wyckham Point, Wyckham Way, Dundrum",Dublin,551111.1,Yes,Dundrum,Dublin 14,q4,80%
+11/08/2010,"99 Balally Drive, Dundrum",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+12/08/2010,"Apt 93 Wyckham Point, Dundrum, Dublin 16",Dublin,200881.05,Yes,Dundrum,Dublin 14,q1,10%
+16/08/2010,"1 Acorn Road, Dundrum, Dublin 14",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+20/08/2010,"Apartment 125 Wyckham Point, Wyckham Way, Dundrum",Dublin,298037.93,Yes,Dundrum,Dublin 14,q1,30%
+25/08/2010,"13 Somerville, Dundrum",Dublin,429000.0,No,Dundrum,Dublin 14,q3,60%
+25/08/2010,"217 Lower Kilmacud Road, Dundrum, Co. Dublin",Dublin,535000.0,No,Dundrum,Dublin 14,q3,80%
+30/08/2010,"54 Sweetmount Ave., Dundrum",Dublin,601000.0,No,Dundrum,Dublin 14,q4,90%
+02/09/2010,"104 Taney Crescent, Dundrum",Dublin,328500.0,No,Dundrum,Dublin 14,q2,30%
+03/09/2010,"159 Wyckham Point, Wyckham Way, Dundrum",Dublin,387665.0,Yes,Dundrum,Dublin 14,q2,50%
+06/09/2010,"40 Wyckham Point, Wyckhamway, Dundrum",Dublin,185000.0,No,Dundrum,Dublin 14,q1,10%
+07/09/2010,"6  Delbrook Manor, Dundrum, Dublin 14",Dublin,454000.0,No,Dundrum,Dublin 14,q3,70%
+09/09/2010,"Apartment 49  The Holly, Rockfield, Dundrum",Dublin,295000.0,No,Dundrum,Dublin 14,q1,30%
+10/09/2010,"206 Wyckham Point, Wyckham Way, Dundrum",Dublin,281234.0,Yes,Dundrum,Dublin 14,q1,20%
+10/09/2010,"208 Wyckham Point, Wyckham Way, Dundrum",Dublin,281234.0,Yes,Dundrum,Dublin 14,q1,20%
+10/09/2010,"238 Wyckham Point, Wyckham Way, Dundrum",Dublin,281234.0,Yes,Dundrum,Dublin 14,q1,20%
+10/09/2010,"78 Wyckham Point, Wyckham Way, Dundrum",Dublin,281234.0,Yes,Dundrum,Dublin 14,q1,20%
+17/09/2010,"259 Upper Kilmacud Rd, Dundrum",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+17/09/2010,"8 St. Lukes Crescent, Dundrum Road, Milltown",Dublin,468000.0,No,Dundrum,Dublin 14,q3,70%
+27/09/2010,"36 Sommerville, Dundrum, Dublin 14",Dublin,286500.0,No,Dundrum,Dublin 14,q1,30%
+30/09/2010,"24 Acorn Road, Dundrum, Dublin 16",Dublin,418500.0,No,Dundrum,Dublin 14,q3,60%
+11/10/2010,"30 Castebrook, Dundrum, Dublin 16",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+12/10/2010,"189 Wyckham Point, Wyckham Way, Dundrum",Dublin,274008.28,Yes,Dundrum,Dublin 14,q1,20%
+15/10/2010,"26 Sweetmount Drive, Dundrum",Dublin,435000.0,No,Dundrum,Dublin 14,q3,60%
+18/10/2010,"30 Clonard Road, Dundrum, Dublin 14",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+26/10/2010,"6 Taney Road, Dundrum, Dublin 14",Dublin,550000.0,No,Dundrum,Dublin 14,q3,80%
+28/10/2010,"6 Balally Grove, Dundrum",Dublin,435000.0,No,Dundrum,Dublin 14,q3,60%
+05/11/2010,"83 Weston Park, Dundrum",Dublin,530000.0,No,Dundrum,Dublin 14,q3,80%
+12/11/2010,"Apartment 195, Wyckham Point, Wyckham Way Dundrum",Dublin,282000.0,No,Dundrum,Dublin 14,q1,20%
+06/12/2010,"45  Mulvey Park, Dundrum",Dublin,260000.0,No,Dundrum,Dublin 14,q1,20%
+14/12/2010,"Apartment 61 The Holly, Rockfield, Dundrum",Dublin,299000.0,No,Dundrum,Dublin 14,q1,30%
+15/12/2010,"34 Woodley Park, Dundrum",Dublin,440000.0,No,Dundrum,Dublin 14,q3,60%
+23/12/2010,"10 Pine Copse Road, Wyckham Park, Dundrum",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+23/12/2010,"Apartment 70, The Holly Rockfield, Dundrum",Dublin,240000.0,No,Dundrum,Dublin 14,q1,20%
+14/01/2011,"35 Balally Drive, Dundrum, Dublin 16",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+21/01/2011,"24 Taney Crescent, Dundrum, Dublin 14",Dublin,489000.0,No,Dundrum,Dublin 14,q3,70%
+21/01/2011,"49 Mulvey Park, Dundrum",Dublin,207500.0,No,Dundrum,Dublin 14,q1,10%
+27/01/2011,"87 Rosemount Estate, Dundrum",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+31/01/2011,"28 Castlebrook, Dundrum",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+07/02/2011,"9 Rosemount Estate, Dundrum",Dublin,325000.0,No,Dundrum,Dublin 14,q2,30%
+15/02/2011,"43 The Rowan, Rockfield, Dundrum",Dublin,265000.0,No,Dundrum,Dublin 14,q1,20%
+15/02/2011,"Apt 15 Castle Court, Dundrum, County Dublin",Dublin,183000.0,No,Dundrum,Dublin 14,q1,10%
+23/02/2011,"91 Mulvey Park, Dundrum",Dublin,495000.0,No,Dundrum,Dublin 14,q3,70%
+24/02/2011,"Apartment 10 Ashgrove Court, Dundrum",Dublin,223000.0,No,Dundrum,Dublin 14,q1,10%
+04/03/2011,"65 Highfield Park, Dundrum",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+11/03/2011,"19 Old Rectory Park, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+16/03/2011,"* Holywell, Upper Kilmacud Road, Dundrum",Dublin,528635.0,Yes,Dundrum,Dublin 14,q3,80%
+18/03/2011,"'Ewell', 18 Mount Anville Road, Dundrum",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+21/03/2011,"32 Balally Drive, Dundrum",Dublin,382500.0,No,Dundrum,Dublin 14,q2,50%
+21/03/2011,"41  Sommerville, Dundrum",Dublin,325000.0,No,Dundrum,Dublin 14,q2,30%
+12/04/2011,"73/73A Sweetmount Avenue, Dundrum",Dublin,1805000.0,No,Dundrum,Dublin 14,q4,100%
+12/04/2011,"Crannog, Taney Park, Dundrum",Dublin,710000.0,No,Dundrum,Dublin 14,q4,100%
+28/04/2011,"4 Clonard Park, Dundrum, Dublin 14",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+04/05/2011,"14 Frankfort Court  Frankfort, Dundrum, Dublin 14",Dublin,595000.0,No,Dundrum,Dublin 14,q4,90%
+06/05/2011,"15 Olivemount Grove, Dundrum",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+06/05/2011,"2 Willowbank, Dundrum, Dublin 14",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+12/05/2011,"15 Sweetmount Avenue, Dundrum, Dublin 14",Dublin,420000.0,No,Dundrum,Dublin 14,q3,60%
+13/05/2011,"155 Meadow Grove, Dundrum, Dublin",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+16/05/2011,"Apartment 296, Wyckham Point, Wyckham Way  Dundrum",Dublin,290000.0,Yes,Dundrum,Dublin 14,q1,30%
+19/05/2011,"9 Old Rectory Park, Dundrum, Dublin 14",Dublin,425000.0,No,Dundrum,Dublin 14,q3,60%
+27/05/2011,"22  Rectory Park, Dundrum",Dublin,530000.0,No,Dundrum,Dublin 14,q3,80%
+03/06/2011,"7 Meadow Villas, Dundrum",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+07/06/2011,"Apartment 16 Castle Court, Dundrum",Dublin,170000.0,No,Dundrum,Dublin 14,q1,10%
+17/06/2011,"102 Balally Drive, Dundrum",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+20/06/2011,"79 Barton Road East, Dundrum",Dublin,345000.0,No,Dundrum,Dublin 14,q2,40%
+24/06/2011,"10 Westbrook Road, Dundrum, Dublin 14",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+24/06/2011,"13A Clonard Avenue, Dundrum",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+24/06/2011,"Kilronan, Sydenham Road, Dundrum",Dublin,740000.0,No,Dundrum,Dublin 14,q4,100%
+28/06/2011,"No 27 The Lime, Rockfield, Dundrum",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+01/07/2011,"54 Wyckham Point, Wyckham Way, Dundrum",Dublin,231247.0,Yes,Dundrum,Dublin 14,q1,20%
+07/07/2011,"37 Taney Rise, Dundrum, Dublin 14",Dublin,710000.0,No,Dundrum,Dublin 14,q4,100%
+12/07/2011,"Apartment 14, Castle Court, Dundrum",Dublin,155000.0,No,Dundrum,Dublin 14,q1,10%
+21/07/2011,"34 Olivemount Road, Dundrum, Dublin 14",Dublin,250000.0,No,Dundrum,Dublin 14,q1,20%
+25/07/2011,"56 Balally Avenue, Dundrum, Dublin 14",Dublin,337500.0,No,Dundrum,Dublin 14,q2,40%
+27/07/2011,"53 Balally Park, Dundrum",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+29/07/2011,"Apt 130 Wyckham Point, Wyckham Way, Dundrum",Dublin,250000.0,Yes,Dundrum,Dublin 14,q1,20%
+29/07/2011,"Apt 232 Wyckham Point, Wyckham Way, Dundrum",Dublin,255000.0,Yes,Dundrum,Dublin 14,q1,20%
+02/08/2011,"23 Millmount Grove, Dundrum, Dublin 14",Dublin,190000.0,No,Dundrum,Dublin 14,q1,10%
+03/08/2011,"32 Annaville Park, Dundrum",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+17/08/2011,"205 Holywell, Dundrum",Dublin,351200.0,No,Dundrum,Dublin 14,q2,40%
+18/08/2011,"2 The Orchard, Sweetmount Avenue, Dundrum",Dublin,60000.0,No,Dundrum,Dublin 14,q1,10%
+23/08/2011,"28 Sweetmount Avenue, Dundrum",Dublin,446000.0,No,Dundrum,Dublin 14,q3,60%
+25/08/2011,"105 Meadow Grove, Dundrum, Dublin 14",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+25/08/2011,"28  Ailesbury Lawn, Dundrum",Dublin,358000.0,No,Dundrum,Dublin 14,q2,40%
+06/09/2011,"41 Mulvey Park, Dundrum",Dublin,202000.0,No,Dundrum,Dublin 14,q1,10%
+07/09/2011,"77 Woodley Park, Dundrum",Dublin,355000.0,No,Dundrum,Dublin 14,q2,40%
+08/09/2011,"5 Willow Gate, Dundrum",Dublin,371950.0,No,Dundrum,Dublin 14,q2,50%
+09/09/2011,"21 Sweeetmount Park, Dundrum",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+09/09/2011,"34 Clonard Drive, Dundrum, Dublin 14",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+13/09/2011,"140 Balally Drive, Dundrum",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+16/09/2011,"6  Castlebrook, Dundrum",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+20/09/2011,"97 Beechlawn, Dundrum",Dublin,440000.0,No,Dundrum,Dublin 14,q3,60%
+22/09/2011,"44 Taney Crescent, Dundrum, Dublin 14",Dublin,362000.0,No,Dundrum,Dublin 14,q2,40%
+30/09/2011,"Teach Mhuire, Frankfort, Dundrum",Dublin,420000.0,No,Dundrum,Dublin 14,q3,60%
+10/10/2011,"130  Balally Drive, Dundrum",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+11/10/2011,"223 Wyckham Point, Wyckham Way, Dundrum",Dublin,229074.0,Yes,Dundrum,Dublin 14,q1,10%
+13/10/2011,"12 Ballyally Drive, Dundrum, Dublin 14",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+17/10/2011,"13 Castle Court, Dundrum, Dublin 14",Dublin,135000.0,No,Dundrum,Dublin 14,q1,10%
+20/10/2011,"83 Rosemount Estate, Dundrum, Dublin 14",Dublin,192000.0,No,Dundrum,Dublin 14,q1,10%
+22/10/2011,"Hazelwood, Mossvale, Dundrum",Dublin,444000.0,No,Dundrum,Dublin 14,q3,60%
+03/11/2011,"243 Wyckham Point, Wyckham Way, Dundrum",Dublin,572000.0,Yes,Dundrum,Dublin 14,q4,80%
+04/11/2011,"20 Dun Emer Drive, Dundrum",Dublin,485000.0,No,Dundrum,Dublin 14,q3,70%
+09/11/2011,"1 Taney Drive, Dundrum, Dublin 14",Dublin,405000.0,No,Dundrum,Dublin 14,q3,60%
+10/11/2011,"17 Dun Emer Drive, Dundrum",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+11/11/2011,"Apt 41 Dodderbank, Milltown Bridge, Dundrum Road",Dublin,1000000.0,No,Dundrum,Dublin 14,q4,100%
+16/11/2011,"Apartment 96 The Oak, Rockfield, Dundrum",Dublin,254600.0,No,Dundrum,Dublin 14,q1,20%
+18/11/2011,"5 Ailesbury Grove, Dundrum, Dublin 14",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+22/11/2011,"22 Kingston Park, Dundrum",Dublin,575000.0,No,Dundrum,Dublin 14,q4,80%
+25/11/2011,"6 Taney Manor, Dundrum",Dublin,332000.0,No,Dundrum,Dublin 14,q2,30%
+30/11/2011,"2 Rosemount Estate, Dundrum",Dublin,140000.0,No,Dundrum,Dublin 14,q1,10%
+01/12/2011,"28 Altamont Hall, Stoney Road, Dundrum",Dublin,250000.0,No,Dundrum,Dublin 14,q1,20%
+01/12/2011,"45 Altamont Hall, Stoney Road, Dundrum",Dublin,250000.0,No,Dundrum,Dublin 14,q1,20%
+06/12/2011,"19 Milltown Grove, Dundrum Road, Milltown",Dublin,245000.0,No,Dundrum,Dublin 14,q1,20%
+06/12/2011,"57 Rosemount Estate, Dundrum, Dublin 14",Dublin,279500.0,No,Dundrum,Dublin 14,q1,20%
+16/12/2011,"6 Wesley Lawns, Dundrum",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+20/12/2011,"Apartment 45 The Holly'S, Rockfield, Dundrum",Dublin,191000.0,No,Dundrum,Dublin 14,q1,10%
+21/12/2011,"29 Sweetmount Avenue, Dundrum",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+05/01/2012,"10 Old Rectory Park, Dundrum, Dublin 14",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+12/01/2012,"17 Willow Road, Dundrum",Dublin,316500.0,No,Dundrum,Dublin 14,q2,30%
+20/01/2012,"20 Wyckham Park Road, Dundrum",Dublin,435000.0,No,Dundrum,Dublin 14,q3,60%
+24/01/2012,"12 Balally Hill, Dundrum",Dublin,297500.0,No,Dundrum,Dublin 14,q1,30%
+24/01/2012,"Carna Cross, Laurel Road, Dundrum",Dublin,430000.0,No,Dundrum,Dublin 14,q3,60%
+25/01/2012,"63 Willow Road, Dundrum",Dublin,399000.0,No,Dundrum,Dublin 14,q2,50%
+27/01/2012,"Apartment No. 6, Wyckham Point, Wyckhan Way  Dundrum",Dublin,116299.55,No,Dundrum,Dublin 14,q1,10%
+07/02/2012,"209 Wyckham Point, Wyckham Way, Dundrum",Dublin,250000.0,Yes,Dundrum,Dublin 14,q1,20%
+10/02/2012,"Apartment 16, Dundrum Castle House, Dundrum",Dublin,133000.0,No,Dundrum,Dublin 14,q1,10%
+14/02/2012,"200 Barton Road East, Dundrum",Dublin,362000.0,No,Dundrum,Dublin 14,q2,40%
+22/02/2012,"191  Barton Road East, Dundrum, Dublin 14",Dublin,318000.0,No,Dundrum,Dublin 14,q2,30%
+23/02/2012,"25 Farrenboley Cottages, Dundrum",Dublin,160000.0,No,Dundrum,Dublin 14,q1,10%
+02/03/2012,"161 Mulvey Park, Dundrum, Dublin 14",Dublin,185000.0,No,Dundrum,Dublin 14,q1,10%
+07/03/2012,"59 Sweetmount Park, Dundrum",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+16/03/2012,"123 Mulvey Park, Dundrum",Dublin,180000.0,No,Dundrum,Dublin 14,q1,10%
+16/03/2012,"160 Mulvey Park, Dundrum",Dublin,155000.0,No,Dundrum,Dublin 14,q1,10%
+30/03/2012,"1A Beech Drive, Meadowbrook, Dundrum",Dublin,277500.0,No,Dundrum,Dublin 14,q1,20%
+04/04/2012,"57 Highfield Park, Dundrum",Dublin,395000.0,No,Dundrum,Dublin 14,q2,50%
+05/04/2012,"9 Willow Road, Dundrum",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+19/04/2012,"23 Highfield Park, Dundrum",Dublin,367250.0,No,Dundrum,Dublin 14,q2,40%
+20/04/2012,"37 Highfield Park, Dundrum",Dublin,388500.0,No,Dundrum,Dublin 14,q2,50%
+27/04/2012,"108 Wyckham Point, Wyckham Way, Dundrum",Dublin,235000.0,Yes,Dundrum,Dublin 14,q1,20%
+01/05/2012,"14 Eden Park Avenue, Dundrum",Dublin,322500.0,No,Dundrum,Dublin 14,q2,30%
+04/05/2012,"133 Balally Drive, Dundrum",Dublin,295000.0,No,Dundrum,Dublin 14,q1,30%
+09/05/2012,"60 College Park Way, Dundrum",Dublin,323000.0,No,Dundrum,Dublin 14,q2,30%
+11/05/2012,"31 Millmount Grove, Dundrum, Dublin 14",Dublin,182000.0,No,Dundrum,Dublin 14,q1,10%
+22/05/2012,"159 Mulvey Park, Dundrum",Dublin,170000.0,No,Dundrum,Dublin 14,q1,10%
+28/05/2012,"158 Wyckham Point, Wyckham Way, Dundrum",Dublin,233225.0,Yes,Dundrum,Dublin 14,q1,20%
+28/05/2012,"85 Rosemount Estate, Dundrum",Dublin,197000.0,No,Dundrum,Dublin 14,q1,10%
+01/06/2012,"54, Highfield Park, Dundrum",Dublin,336000.0,No,Dundrum,Dublin 14,q2,40%
+01/06/2012,"57, Meadow Park  Churchtown, Dundrum",Dublin,257000.0,No,Dundrum,Dublin 14,q1,20%
+07/06/2012,"59 Rosemount Estate, Dundrum",Dublin,180000.0,No,Dundrum,Dublin 14,q1,10%
+08/06/2012,"213 Barton Road East, Dundrum",Dublin,405000.0,No,Dundrum,Dublin 14,q3,60%
+11/06/2012,"28 Balally Hill, Dundrum, Dublin 16",Dublin,362000.0,No,Dundrum,Dublin 14,q2,40%
+12/06/2012,"53 Barton Road East, Dundrum",Dublin,343000.0,No,Dundrum,Dublin 14,q2,40%
+14/06/2012,"96  Barton Road East, Dundrum",Dublin,342000.0,No,Dundrum,Dublin 14,q2,40%
+18/06/2012,"Apt 14 Taney Court, Dundrum",Dublin,190000.0,No,Dundrum,Dublin 14,q1,10%
+19/06/2012,"7 Meadow Villas, Dundrum",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+20/06/2012,"15 Pembroke Cottages, Dundrum",Dublin,167500.0,No,Dundrum,Dublin 14,q1,10%
+27/06/2012,"180 Meadow Grove, Dundrum Heights",Dublin,306000.0,No,Dundrum,Dublin 14,q1,30%
+27/06/2012,"19 Annaville, Dundrum",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+02/07/2012,"7 Sweetmount Mews, Sweetmount Avenue, Dundrum",Dublin,225000.0,No,Dundrum,Dublin 14,q1,10%
+05/07/2012,"2 Frankfort Court, Dundrum, Dublin 14",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+09/07/2012,"299 Wyckham Point, Wyckham Way, Dundrum",Dublin,280000.0,Yes,Dundrum,Dublin 14,q1,20%
+10/07/2012,"Apartment 222, Wyckham Point, Wyckham Way  Dundrum",Dublin,230000.0,Yes,Dundrum,Dublin 14,q1,10%
+13/07/2012,"3 Pine Copse Road, Dundrum",Dublin,373000.0,No,Dundrum,Dublin 14,q2,50%
+20/07/2012,"2  Sycamore Drive, Dundrum, Dublin 14",Dublin,495000.0,No,Dundrum,Dublin 14,q3,70%
+26/07/2012,"18 Harlech Crescent, Roebuck Road, Dundrum",Dublin,520000.0,No,Dundrum,Dublin 14,q3,80%
+26/07/2012,"195  Holywell, Upper Kilmacud Road, Dundrum",Dublin,606000.0,No,Dundrum,Dublin 14,q4,90%
+26/07/2012,"28 Holywell, Upper Kilmacud Road, Dundrum",Dublin,495000.0,No,Dundrum,Dublin 14,q3,70%
+02/08/2012,"53 Rosemount Estate, Dundrum",Dublin,240000.0,No,Dundrum,Dublin 14,q1,20%
+03/08/2012,"Merton, 11 Dundrum Road, Dundrum",Dublin,160000.0,No,Dundrum,Dublin 14,q1,10%
+03/08/2012,"Sydenham House, Sydenham Villas, Dundrum",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+10/08/2012,"3 Annaville Lodge, Dundrum",Dublin,187500.0,No,Dundrum,Dublin 14,q1,10%
+10/08/2012,"8 Sydenham Road, Dundrum, Dublin 14",Dublin,625000.0,No,Dundrum,Dublin 14,q4,90%
+14/08/2012,"73 Meadow Grove, Dundrum",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+16/08/2012,"14 Balally Drive, Dundrum",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+23/08/2012,"Parkfield House, Mount Anville Road, Dundrum",Dublin,1050000.0,No,Dundrum,Dublin 14,q4,100%
+24/08/2012,"22 Wyckham Park Road, Dundrum, Dublin 16",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+24/08/2012,"Orchardton, Sweetmount Avenue, Dundrum",Dublin,1300000.0,No,Dundrum,Dublin 14,q4,100%
+28/08/2012,"14 Millmount Grove, Dundrum, Dublin 14",Dublin,192000.0,No,Dundrum,Dublin 14,q1,10%
+31/08/2012,"46 Castlebrook Estate, Dundrum",Dublin,327000.0,No,Dundrum,Dublin 14,q2,30%
+11/09/2012,"8 Frankfort Court, Dundrum",Dublin,310000.0,No,Dundrum,Dublin 14,q1,30%
+12/09/2012,"1A Columbanus Avenue, Dundrum, Dublin",Dublin,362000.0,No,Dundrum,Dublin 14,q2,40%
+14/09/2012,"26 Clonard Park, Dundrum, Dublin 14",Dublin,455000.0,No,Dundrum,Dublin 14,q3,70%
+20/09/2012,"226 Wyckham Point, Wickham Way, Dundrum",Dublin,204405.0,Yes,Dundrum,Dublin 14,q1,10%
+21/09/2012,"Lisheen, Dundrum Road, Dundrum",Dublin,250000.0,No,Dundrum,Dublin 14,q1,20%
+24/09/2012,"21  Acorn Drive, Dundrum",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+27/09/2012,"82 Wyckhan Point, Wyckham Way, Dundrum",Dublin,175001.0,Yes,Dundrum,Dublin 14,q1,10%
+28/09/2012,"56 St. Columbanus Road, Dundrum",Dublin,287000.0,No,Dundrum,Dublin 14,q1,30%
+28/09/2012,"9 Dun Emer Road, Dundrum, Dublin 16",Dublin,490000.0,No,Dundrum,Dublin 14,q3,70%
+04/10/2012,"75 Catlebrook, Dundrum, Dublin",Dublin,353500.0,No,Dundrum,Dublin 14,q2,40%
+05/10/2012,"2 The Grove, Highfield Park, Dundrum",Dublin,342500.0,No,Dundrum,Dublin 14,q2,40%
+11/10/2012,"4 Ballyolaf Manor, Dundrum",Dublin,487500.0,No,Dundrum,Dublin 14,q3,70%
+12/10/2012,"25 Beechlawn, Dundrum",Dublin,399000.0,No,Dundrum,Dublin 14,q2,50%
+15/10/2012,"89 Mulvey Park, Dundrum",Dublin,170000.0,No,Dundrum,Dublin 14,q1,10%
+16/10/2012,"Apt 16 Wyckham Point, Wyckham Way, Dundrum",Dublin,152000.0,No,Dundrum,Dublin 14,q1,10%
+17/10/2012,"140A Mulvey Park, Dundrum, Dublin 14",Dublin,335000.0,No,Dundrum,Dublin 14,q2,30%
+25/10/2012,"Apt 239 Wyckham Point, Wyckham Way, Dundrum",Dublin,207048.0,Yes,Dundrum,Dublin 14,q1,10%
+26/10/2012,"27 Clonard Road, Dundrum",Dublin,440000.0,No,Dundrum,Dublin 14,q3,60%
+26/10/2012,"Apartment 53, Wyckham Place, Dundrum",Dublin,229000.0,No,Dundrum,Dublin 14,q1,10%
+31/10/2012,"11 Annaville Grove, Dundrum",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+01/11/2012,"63  Sweetmount Avenue, Dundrum, Dublin 14",Dublin,373500.0,No,Dundrum,Dublin 14,q2,50%
+02/11/2012,"28 Balally Avenue, Dundrum",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+05/11/2012,"88 Meadow Grove, Dundrum, Dubglin 14",Dublin,310000.0,No,Dundrum,Dublin 14,q1,30%
+06/11/2012,"10 Larchfield, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+06/11/2012,"4 Millmount Terrace, Dundrum Road, Dublin 14",Dublin,164000.0,No,Dundrum,Dublin 14,q1,10%
+09/11/2012,"No.5 Clonard Close, Dundrum",Dublin,431500.0,No,Dundrum,Dublin 14,q3,60%
+12/11/2012,"171 Meadow Grove, Dundrum, Dublin 16",Dublin,420000.0,No,Dundrum,Dublin 14,q3,60%
+15/11/2012,"27 Castlebrook, Dundrum",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+16/11/2012,"18 Farrenboley Cottages, Dundrum, Dublin 14",Dublin,260000.0,No,Dundrum,Dublin 14,q1,20%
+16/11/2012,"3 Eagle Terrace, Dundrum",Dublin,245000.0,No,Dundrum,Dublin 14,q1,20%
+21/11/2012,"32 Dundrum Gate, Dundrum",Dublin,185000.0,No,Dundrum,Dublin 14,q1,10%
+21/11/2012,"7B Taney Park, Dundrum",Dublin,633000.0,No,Dundrum,Dublin 14,q4,90%
+29/11/2012,"41 Ballally Avenue, Dundrum, Dublin 16",Dublin,369000.0,No,Dundrum,Dublin 14,q2,50%
+29/11/2012,"56  Westbrook Road, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+04/12/2012,"8 The Oak, Rockfield Apartments, Dundrum",Dublin,227500.0,No,Dundrum,Dublin 14,q1,10%
+06/12/2012,"5 The Orchard, Sweetmount, Dundrum",Dublin,295000.0,No,Dundrum,Dublin 14,q1,30%
+07/12/2012,"36 Delbrook Manor, Balinteer Road, Dundrum",Dublin,655000.0,No,Dundrum,Dublin 14,q4,90%
+14/12/2012,"1 Balally Park, Dundrum",Dublin,415000.0,No,Dundrum,Dublin 14,q3,60%
+14/12/2012,"48 Sommerville, Dundrum",Dublin,312500.0,No,Dundrum,Dublin 14,q1,30%
+14/12/2012,"5 Coolnahinch, Dundrum Road, Dublin",Dublin,185000.0,No,Dundrum,Dublin 14,q1,10%
+14/12/2012,"8 Clonard Lawn, Dundrum",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+17/12/2012,"7 Clonard Park, Dundrum",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+18/12/2012,"41Taney Road, Dundrum",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+19/12/2012,"Apartment No. 36 'The Laurels', Balinteer Road, Dundrum",Dublin,6000.0,No,Dundrum,Dublin 14,q1,10%
+19/12/2012,"Apt 54 Dundrum Gate, Dundrum",Dublin,170000.0,No,Dundrum,Dublin 14,q1,10%
+20/12/2012,"Apartment 10, Dundrum Castle House, Dundrum",Dublin,140000.0,No,Dundrum,Dublin 14,q1,10%
+20/12/2012,"Apartment 178 Wyckham Point, Wyckham Way, Dundrum",Dublin,230000.0,Yes,Dundrum,Dublin 14,q1,10%
+20/12/2012,"Apartment 216 Wyckham Point, Wyckham Way, Dundrum",Dublin,230000.0,Yes,Dundrum,Dublin 14,q1,10%
+21/12/2012,"145 Ludford Road, Dundrum",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+21/12/2012,"28 Balally Drive, Dundrum",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+21/12/2012,"91 Wyckham Place, Dundrum",Dublin,260000.0,No,Dundrum,Dublin 14,q1,20%
+21/12/2012,"Apartment 73, The Holly, Rockfield  Dundrum",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+16/01/2013,"17 Old Rectory Park, Dundrum",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+18/01/2013,"76 Highfield, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+18/01/2013,"9 Castlebrook, Dundrum, Dublin 14",Dublin,399600.0,No,Dundrum,Dublin 14,q2,50%
+21/01/2013,"Apartment 267 Wyckham Point, Wyckham Way, Dundrum",Dublin,245000.0,No,Dundrum,Dublin 14,q1,20%
+31/01/2013,"90 Wyckham Place, Wyckham Way, Dundrum",Dublin,175000.0,No,Dundrum,Dublin 14,q1,10%
+11/02/2013,"212 Balally Drive, Dundrum",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+13/02/2013,"97 Balally Park, Dundrum",Dublin,456500.0,No,Dundrum,Dublin 14,q3,70%
+08/03/2013,"Eglinton Cottage, Eglinton Terrace, Dundrum",Dublin,635000.0,No,Dundrum,Dublin 14,q4,90%
+14/03/2013,"The Lodge, Dundrum Road, Dundrum",Dublin,355000.0,No,Dundrum,Dublin 14,q2,40%
+20/03/2013,"Apt 212 Wyckham Point, Wyckham Way, Dundrum",Dublin,799000.0,Yes,Dundrum,Dublin 14,q4,100%
+23/04/2013,"42 St Columbanas Road, Dundrum, Dublin 14",Dublin,215000.0,No,Dundrum,Dublin 14,q1,10%
+30/04/2013,"10 Hawthorn Drive, Wyckham Park, Dundrum  Dublin 16",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+02/05/2013,"29 Annaville Park, Dundrum, Dublin 14",Dublin,485000.0,No,Dundrum,Dublin 14,q3,70%
+28/05/2013,"156 Mulvey Park, Dundrum, Dublin 14",Dublin,212000.0,No,Dundrum,Dublin 14,q1,10%
+31/05/2013,"Apt 100 The Oaks, Rockfield, Dundrum",Dublin,230000.0,No,Dundrum,Dublin 14,q1,10%
+04/06/2013,"135 Southmede, Dundrum, Dublin 14",Dublin,215000.0,No,Dundrum,Dublin 14,q1,10%
+18/06/2013,"24 Beechlawn, Dundrum, Dublin 16",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+20/06/2013,"Apartments 1-80 The Laurel, Balinteer Road, Dundrum",Dublin,6622141.85,No,Dundrum,Dublin 14,q4,100%
+27/06/2013,"66 St Columbanus Road, Dundrum, Dublin 14",Dublin,277000.0,No,Dundrum,Dublin 14,q1,20%
+27/06/2013,"75 Beech Lawn, Dundrum",Dublin,372500.0,No,Dundrum,Dublin 14,q2,50%
+28/06/2013,"2 Balally Close, Dundrum",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+04/07/2013,"15 Wesley Heights, Dundrum, Dublin 14",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+04/07/2013,"39 Beech Drive, Dundrum, Dublin 14",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+10/07/2013,"46 Balally Drive, Dundrum, Dublin 16",Dublin,447000.0,No,Dundrum,Dublin 14,q3,60%
+10/07/2013,"Apt 99 The Oak, Rockfield, Dundrum",Dublin,240000.0,No,Dundrum,Dublin 14,q1,20%
+18/07/2013,"9 Annaville Park, Dundrum, Dublin 14",Dublin,395000.0,No,Dundrum,Dublin 14,q2,50%
+19/07/2013,"Apartment 97, Southmede, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+22/07/2013,"32 The Oaks, Rockfield, Dundrum Dublin 16",Dublin,215000.0,No,Dundrum,Dublin 14,q1,10%
+22/07/2013,"8 Belfort House, Sydenham Villas, Dundrum",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+25/07/2013,"54 Parkvale, Dundrum, Dublin 16",Dublin,625000.0,No,Dundrum,Dublin 14,q4,90%
+26/07/2013,"34 Farrenboley Cottages, Windy Arbour, Dundrum",Dublin,282500.0,No,Dundrum,Dublin 14,q1,20%
+26/07/2013,"45 Churchfields, Dundrum, Dublin 14",Dublin,378000.0,No,Dundrum,Dublin 14,q2,50%
+31/07/2013,"10 Clonard Road, Dundrum, Dublin 16",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+02/08/2013,"10 The Holly, Dundrum, Dublin 14",Dublin,240000.0,No,Dundrum,Dublin 14,q1,20%
+06/08/2013,"24 Dun Emer Drive, Dundrum",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+09/08/2013,"121 Barton Road East, Dundrum",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+09/08/2013,"16 Castleview, Dundrum",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+12/08/2013,"Apt. No. 18, The Linden  Riversdale, Dundrum  Dublin 14",Dublin,245500.0,No,Dundrum,Dublin 14,q1,20%
+13/08/2013,"Annaville Residence, Dundrum Road",Dublin,7675771.0,No,Dundrum,Dublin 14,q4,100%
+15/08/2013,"23 Taney Avenue, Dundrum, Dublin 14",Dublin,354000.0,No,Dundrum,Dublin 14,q2,40%
+22/08/2013,"20 Barton Road East, Dundrum, Dublin 14",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+23/08/2013,"154 Meadow Grove, Dundrum",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+30/08/2013,"16 Carmichael Hall, Dundrum",Dublin,255000.0,No,Dundrum,Dublin 14,q1,20%
+03/09/2013,"65 Mulvey Park, Dundrum",Dublin,292250.0,No,Dundrum,Dublin 14,q1,30%
+05/09/2013,"43 Taney Rise, Dundrum",Dublin,785000.0,No,Dundrum,Dublin 14,q4,100%
+09/09/2013,"18 Sweetmount Drive, Dundrum, Dublin 14",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+09/09/2013,"77 Taney Ave, Dundrum, Dublin 14",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+16/09/2013,"16 Creevagh House, Dundrum Road, Dublin 14",Dublin,150000.0,Yes,Dundrum,Dublin 14,q1,10%
+19/09/2013,"3 Taney Rise, Dundrum, Dublin 14",Dublin,430000.0,No,Dundrum,Dublin 14,q3,60%
+19/09/2013,"4 Millmount Tce, Dundrum Road",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+24/09/2013,"Oranmore House, Taney Road, Dundrum",Dublin,655000.0,No,Dundrum,Dublin 14,q4,90%
+26/09/2013,"30 Friarsland Road, Dundrum",Dublin,660000.0,No,Dundrum,Dublin 14,q4,90%
+27/09/2013,"41 Wyckham Point, Wyckham Way, Dundrum",Dublin,124000.0,Yes,Dundrum,Dublin 14,q1,10%
+27/09/2013,"5 Dromartin Castle, Birches Lane, Dundrum",Dublin,250000.0,No,Dundrum,Dublin 14,q1,20%
+30/09/2013,"85 St Columbanus Road, Dundrum",Dublin,259000.0,No,Dundrum,Dublin 14,q1,20%
+30/09/2013,"The Stores, Dundrum Road, Milltown",Dublin,535000.0,No,Dundrum,Dublin 14,q3,80%
+02/10/2013,"29 Willow Road, Wyckham Park, Dundrum",Dublin,430000.0,No,Dundrum,Dublin 14,q3,60%
+04/10/2013,"66 The Oaks, Rockfield, Dundrum",Dublin,272500.0,No,Dundrum,Dublin 14,q1,20%
+10/10/2013,"Enderly, Sweetmount Avenue, Dundrum",Dublin,785000.0,No,Dundrum,Dublin 14,q4,100%
+15/10/2013,"21 Woodlawn Park, Churchtown Road, Dundrum",Dublin,670000.0,No,Dundrum,Dublin 14,q4,90%
+16/10/2013,"12 Ailesbury Grove, Dundrum, Dublin 14",Dublin,496000.0,No,Dundrum,Dublin 14,q3,70%
+17/10/2013,"26 Altamont Hall  Stoney Road, Dundrum",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+18/10/2013,"1 Annaville Terrace, Dundrum",Dublin,352500.0,No,Dundrum,Dublin 14,q2,40%
+18/10/2013,"3 Olivemount Terrace, Windy Arbour, Dundrum Road",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+18/10/2013,"7 Altamont Hall, North Block  Stoney Road, Dundrum",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+23/10/2013,"21 St Luke'S Crescent, Dundrum",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+23/10/2013,"Dromartin Hill, Upper Kilmacud Road, Dundrum",Dublin,850000.0,No,Dundrum,Dublin 14,q4,100%
+24/10/2013,"81 Highfield Park, Dundrum",Dublin,405000.0,No,Dundrum,Dublin 14,q3,60%
+25/10/2013,"35 Balally Avenue, Dundrum",Dublin,402000.0,No,Dundrum,Dublin 14,q3,60%
+29/10/2013,"2 Ballally Avenue, Dundrum, Dublin 14",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+29/10/2013,"32 Balally Grove, Dundrum",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+31/10/2013,"25 Acorn Drive, Dundrum, Dublin 14",Dublin,435000.0,No,Dundrum,Dublin 14,q3,60%
+31/10/2013,"9 Wyckham Place, Wyckham Way, Dundrum",Dublin,250000.0,No,Dundrum,Dublin 14,q1,20%
+01/11/2013,"38 Wesley Lawns, Dundrum, Dublin 16",Dublin,510000.0,No,Dundrum,Dublin 14,q3,70%
+06/11/2013,"62 Beech Lawn, Dundrum",Dublin,383000.0,No,Dundrum,Dublin 14,q2,50%
+07/11/2013,"Glenbeg, Frankfort, Dundrum",Dublin,1410000.0,No,Dundrum,Dublin 14,q4,100%
+08/11/2013,"8  Clonard Road, Dundrum, Dublin 14",Dublin,476000.0,No,Dundrum,Dublin 14,q3,70%
+18/11/2013,"Apartment 54 The Birch, Riversdale, Dundrum",Dublin,255000.0,No,Dundrum,Dublin 14,q1,20%
+22/11/2013,"86 St. Columbanus Road, Dundrum, Dublin 14",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+22/11/2013,"89 Meadow Grove, Dundrum",Dublin,510000.0,No,Dundrum,Dublin 14,q3,70%
+26/11/2013,"Olivemount Cottage, Dundrum Rd, Dundrum Dublin 14",Dublin,248000.0,No,Dundrum,Dublin 14,q1,20%
+27/11/2013,"Apartment 188, Wyckham Point, Dundrum",Dublin,270000.0,No,Dundrum,Dublin 14,q1,20%
+28/11/2013,"23 Drummartin Park, Dundrum",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+29/11/2013,"67 Highfield Park, Dundrum",Dublin,525000.0,No,Dundrum,Dublin 14,q3,80%
+02/12/2013,"72 Highfield Park, Dundrumj, Dublin 14",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+05/12/2013,"101 Highfield Park, Dundrum, Dublin 14",Dublin,543500.0,No,Dundrum,Dublin 14,q3,80%
+05/12/2013,"11 Drummartin Crescent, Dundrum, Dublin 14",Dublin,457000.0,No,Dundrum,Dublin 14,q3,70%
+06/12/2013,"9A Victoria Terrace, Dundrum, Dublin 14",Dublin,708000.0,No,Dundrum,Dublin 14,q4,100%
+06/12/2013,"Craanford, 4 Taney Road, Dundrum",Dublin,1650000.0,No,Dundrum,Dublin 14,q4,100%
+16/12/2013,"4 Dundrum Wood, Dundrum, Dublin 16",Dublin,352500.0,No,Dundrum,Dublin 14,q2,40%
+18/12/2013,"8 Alexandra Court, Dundrum, Dublin 14",Dublin,140000.0,No,Dundrum,Dublin 14,q1,10%
+19/12/2013,"109 Meadowgrove, Dundrum, Dublin 16",Dublin,425000.0,No,Dundrum,Dublin 14,q3,60%
+19/12/2013,"48 Sycamore Road, Meadowbrook, Dundrum",Dublin,415000.0,No,Dundrum,Dublin 14,q3,60%
+20/12/2013,"10 Farenboley Park, Dundrum, Dublin 14",Dublin,412000.0,No,Dundrum,Dublin 14,q3,60%
+20/12/2013,"32 Sommerville, Dundrum, Dublin 14",Dublin,537000.0,No,Dundrum,Dublin 14,q3,80%
+20/12/2013,"4 Creevagh House, Dundrum",Dublin,145000.0,No,Dundrum,Dublin 14,q1,10%
+20/12/2013,"5 Castle Court, Dundrum, Dublin 16",Dublin,132000.0,No,Dundrum,Dublin 14,q1,10%
+20/12/2013,"6 Creevagh House, Dundrum",Dublin,180000.0,No,Dundrum,Dublin 14,q1,10%
+20/12/2013,"7 Creevagh House, Dundrum",Dublin,180000.0,No,Dundrum,Dublin 14,q1,10%
+07/01/2014,"51 Ardglas, Dundrum, Dublin 16",Dublin,599000.0,No,Dundrum,Dublin 14,q4,90%
+07/01/2014,"Number 7 Belfort House, Sydenham Villas, Dundrum",Dublin,398000.0,No,Dundrum,Dublin 14,q2,50%
+17/01/2014,"'Carna', 56A Rosemount Est, Dundrum",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+17/01/2014,"20 St Lukes Crescent, Dundrum Rd, Milltown Dublin 14",Dublin,290000.0,No,Dundrum,Dublin 14,q1,30%
+24/01/2014,"40 Rosemount Park, Dundrum, Dublin 14",Dublin,342000.0,No,Dundrum,Dublin 14,q2,40%
+06/02/2014,"32 Farranboley Park, Dundrum Rd, Dublin 14",Dublin,279000.0,No,Dundrum,Dublin 14,q1,20%
+12/02/2014,"Apt 12 The Oaks, Rockfield, Dundrum",Dublin,266000.0,No,Dundrum,Dublin 14,q1,20%
+19/02/2014,"122 Sweetmount Ave, Churchtown, Dundrum",Dublin,250000.0,No,Dundrum,Dublin 14,q1,20%
+21/02/2014,"64 Westbrook Rd, Dundrum, Dublin 14",Dublin,456500.0,No,Dundrum,Dublin 14,q3,70%
+28/02/2014,"38 Balally Hill, Dundrum, Dublin 16",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+03/03/2014,"27 Balally Ave, Dundrum Dublin 16, Dublin",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+04/03/2014,"29 Rosemount Est, Dundrum, Dublin 14",Dublin,230000.0,No,Dundrum,Dublin 14,q1,10%
+04/03/2014,"6 Carmichael Hall, Windy Arbour, Dundrum",Dublin,149000.0,No,Dundrum,Dublin 14,q1,10%
+06/03/2014,"1 Rosemount Est, Dundrum, Dublin 14",Dublin,305000.0,No,Dundrum,Dublin 14,q1,30%
+13/03/2014,"26 Westbrook Road, Dundrum, Dublin 14",Dublin,368000.0,No,Dundrum,Dublin 14,q2,40%
+21/03/2014,"4 Altamont Hall, Stoney Rd, Dundrum",Dublin,243000.0,No,Dundrum,Dublin 14,q1,20%
+31/03/2014,"Apartment 3 The Oak, Rockfield, Dundrum",Dublin,230000.0,No,Dundrum,Dublin 14,q1,20%
+31/03/2014,"Apt 15 The Oaks, Rockfield, Dundrum",Dublin,283000.0,No,Dundrum,Dublin 14,q1,20%
+02/04/2014,"39 Rosemount, Dundrum, Dublin 16",Dublin,325000.0,No,Dundrum,Dublin 14,q2,30%
+16/04/2014,"44 Dodder Bank, Dundrum Rd, Dublin 14",Dublin,520000.0,No,Dundrum,Dublin 14,q3,80%
+17/04/2014,"36 Balally Terrace, Dundrum, Dublin 16",Dublin,335000.0,No,Dundrum,Dublin 14,q2,30%
+17/04/2014,"Apt.38  The Holly, Rockfield, Dundrum",Dublin,262000.0,No,Dundrum,Dublin 14,q1,20%
+23/04/2014,"58 Rosemount Est, Dundrum, Dublin 14",Dublin,367000.0,No,Dundrum,Dublin 14,q2,40%
+25/04/2014,"9 Balally Grove, Dundrum, Dublin 16",Dublin,440000.0,No,Dundrum,Dublin 14,q3,60%
+28/04/2014,"15 Sunnybank Court, Dundrum Rd, Dublin 14",Dublin,220000.0,No,Dundrum,Dublin 14,q1,10%
+29/04/2014,"Shalome, Castleview, Dundrum Dublin 16",Dublin,775000.0,No,Dundrum,Dublin 14,q4,100%
+02/05/2014,"52 Sycamore Rd, Meadowbrook, Dundrum Dublin 14",Dublin,505000.0,No,Dundrum,Dublin 14,q3,70%
+08/05/2014,"6 Balally Grove, Dundrum, Dublin 16",Dublin,527000.0,No,Dundrum,Dublin 14,q3,80%
+12/05/2014,"14 Clonard Drive, Dundrum, Dublin 16",Dublin,521100.0,No,Dundrum,Dublin 14,q3,80%
+21/05/2014,"15 Westbrook Rd, Dundrum, Dublin 14",Dublin,433000.0,No,Dundrum,Dublin 14,q3,60%
+21/05/2014,"9 Castlecourt, Dundrum, Dublin 14",Dublin,161000.0,No,Dundrum,Dublin 14,q1,10%
+27/05/2014,"11 Altamont Hall, Stoney Rd, Dundrum",Dublin,246000.0,No,Dundrum,Dublin 14,q1,20%
+27/05/2014,"4 The Rosemount, Dundrum, Dublin 14",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+28/05/2014,"94 St Columbanus Rd, Dundrum, Dublin 14",Dublin,323000.0,No,Dundrum,Dublin 14,q2,30%
+28/05/2014,"94 Wyckham Place, Dundrum, Dublin 16",Dublin,355000.0,No,Dundrum,Dublin 14,q2,40%
+29/05/2014,"21 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,262500.0,No,Dundrum,Dublin 14,q1,20%
+29/05/2014,"56 The Holly, Rockfield, Dundrum",Dublin,305000.0,No,Dundrum,Dublin 14,q1,30%
+29/05/2014,"Rear 5 Arbourfield Terrace, Dundrum, Dublin 16",Dublin,205000.0,No,Dundrum,Dublin 14,q1,10%
+03/06/2014,"24 The Holly, Block 8 Riversdale, Rockfield Dundrum Dublin 14",Dublin,215000.0,No,Dundrum,Dublin 14,q1,10%
+06/06/2014,"8 Castlebrook, Dundrum, Dublin 16",Dublin,502000.0,No,Dundrum,Dublin 14,q3,70%
+10/06/2014,"5 Sommerville, Dundrum, Dublin 14",Dublin,437500.0,No,Dundrum,Dublin 14,q3,60%
+12/06/2014,"37 Farrenboley Park, Windy Arbour, Dundrum",Dublin,529000.0,No,Dundrum,Dublin 14,q3,80%
+13/06/2014,"38 Altamount Hall, Stoney Rd, Dundrum Dublin 14",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+17/06/2014,"15 Creevagh House Apts, Dundrum Road, Dundrum",Dublin,170000.0,No,Dundrum,Dublin 14,q1,10%
+17/06/2014,"3 Creevagh House Apts, Dundrum Road",Dublin,170000.0,No,Dundrum,Dublin 14,q1,10%
+18/06/2014,"13 The Oaks, Rockfield, Dundrum Dublin 14",Dublin,260000.0,No,Dundrum,Dublin 14,q1,20%
+18/06/2014,"28 Altamont Hall, Stoney Road, Dundrum",Dublin,311000.0,No,Dundrum,Dublin 14,q1,30%
+19/06/2014,"44 Lynwood, Dundrum, Dublin 16",Dublin,652000.0,No,Dundrum,Dublin 14,q4,90%
+20/06/2014,"12 Dundrum Castle House, Dundrum Castle, House Dublin 14",Dublin,210000.0,No,Dundrum,Dublin 14,q1,10%
+23/06/2014,"201 Barton Rd East, Dundrum, Dublin 14",Dublin,651000.0,No,Dundrum,Dublin 14,q4,90%
+23/06/2014,"54 Acorn Rd, Wyckham Park Dundrum, Dublin 16",Dublin,504000.0,No,Dundrum,Dublin 14,q3,70%
+24/06/2014,"27 St Columbanus Rd, Dundrum, Dublin 14",Dublin,265000.0,No,Dundrum,Dublin 14,q1,20%
+24/06/2014,"3 Brookside Terrace, Dundrum Rd, Dublin 14",Dublin,270000.0,No,Dundrum,Dublin 14,q1,20%
+26/06/2014,"38 Sweetmount Avenue, Dundrum",Dublin,580000.0,No,Dundrum,Dublin 14,q4,80%
+30/06/2014,"5 Arbourfield Terrace, Dundrum Rd, Dundrum",Dublin,155000.0,No,Dundrum,Dublin 14,q1,10%
+02/07/2014,"8A Annaville Park, Dundrum, Dublin 14",Dublin,95000.0,No,Dundrum,Dublin 14,q1,10%
+03/07/2014,"1 Cranley House, Dundrum Rd, Dublin 14",Dublin,219166.66,No,Dundrum,Dublin 14,q1,10%
+03/07/2014,"2 Cranley House, Dundrum Rd, Dublin 14",Dublin,219166.66,No,Dundrum,Dublin 14,q1,10%
+03/07/2014,"3 Cranley House, Dundrum Rd, Dublin 14",Dublin,219166.66,No,Dundrum,Dublin 14,q1,10%
+03/07/2014,"4 Cranley House, Dundrum Rd, Dublin 14",Dublin,219166.66,No,Dundrum,Dublin 14,q1,10%
+03/07/2014,"5 Cranley House, Dundrum Rd, Dublin 14",Dublin,219166.66,No,Dundrum,Dublin 14,q1,10%
+03/07/2014,"6 Cranley House, Dundrum Rd, Dublin 14",Dublin,219166.66,No,Dundrum,Dublin 14,q1,10%
+03/07/2014,"72 The Oaks, Rockfield, Dundrum",Dublin,236000.0,No,Dundrum,Dublin 14,q1,20%
+09/07/2014,"Apt 274 Wyckham Point, Dundrum, Dublin 14",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+14/07/2014,"44A Balally Park, Dundrum, Dublin 16",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+17/07/2014,"40 Balally Dr, Dundrum, Dublin 16",Dublin,555000.0,No,Dundrum,Dublin 14,q4,80%
+18/07/2014,"63 Ludford Rd, Dundrum, Dublin 16",Dublin,575000.0,No,Dundrum,Dublin 14,q4,80%
+21/07/2014,"29 Farrenboley Park, Dundrum, Dublin 14",Dublin,600100.0,No,Dundrum,Dublin 14,q4,90%
+21/07/2014,"29 Wesley Heights, Dundrum, Dublin 16",Dublin,585000.0,No,Dundrum,Dublin 14,q4,90%
+25/07/2014,"23 Old Rectory Park, Dundrum, Dublin 14",Dublin,530000.0,No,Dundrum,Dublin 14,q3,80%
+25/07/2014,"45 Rosemount Est, Dundrum, Dublin 14",Dublin,387000.0,No,Dundrum,Dublin 14,q2,50%
+28/07/2014,"12 Lower Churchtown Rd, Dundrum, Dublin 14",Dublin,695000.0,No,Dundrum,Dublin 14,q4,100%
+01/08/2014,"52 Roebuck Road, Dundrum, Dublin 14",Dublin,650000.0,No,Dundrum,Dublin 14,q4,90%
+06/08/2014,"25 Highfield Park, Dundrum Rd, Dublin 14",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+11/08/2014,"12 Annaville Grove, Dundrum, Dublin 14",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+19/08/2014,"44A Dun Emer Road, Dundrum",Dublin,550000.0,No,Dundrum,Dublin 14,q3,80%
+20/08/2014,"24 Lynwood, Dundrum, Dublin 16",Dublin,566000.0,No,Dundrum,Dublin 14,q4,80%
+21/08/2014,"128 Mulvey Park, Dundrum, Dublin 14",Dublin,384000.0,No,Dundrum,Dublin 14,q2,50%
+21/08/2014,"6 Sydenham Villas, Dundrum, Dublin 14",Dublin,670000.0,No,Dundrum,Dublin 14,q4,90%
+22/08/2014,"38 Ailesbury Lawn, Dundrum",Dublin,575000.0,No,Dundrum,Dublin 14,q4,80%
+27/08/2014,"St Annes, Sydenham Rd, Dundrum Dublin 14",Dublin,700000.0,No,Dundrum,Dublin 14,q4,100%
+28/08/2014,"180 Holywell, Upper Kilmacud Rd, Dundrum",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+28/08/2014,"Apt. 3 Belfort House, Dundrum, Dublin 14",Dublin,377500.0,No,Dundrum,Dublin 14,q2,50%
+29/08/2014,"140A Mulvey Park, Dundrum, Dublin 14",Dublin,335000.0,No,Dundrum,Dublin 14,q2,40%
+29/08/2014,"46 Beech Lawn, Dundrum, Dublin 14",Dublin,470000.0,No,Dundrum,Dublin 14,q3,70%
+02/09/2014,"6 Dodder Court, Dundrum Road, Dublin 14",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+04/09/2014,"38 Taney Rise, Dundrum, Dublin 14",Dublin,745000.0,No,Dundrum,Dublin 14,q4,100%
+12/09/2014,"34 Clonard Road, Dundrum, Dublin 16",Dublin,547000.0,No,Dundrum,Dublin 14,q3,80%
+16/09/2014,"157 Wyckham Point, Dundrum, Dublin",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+19/09/2014,"130 Balally Drive, Dundrum",Dublin,485000.0,No,Dundrum,Dublin 14,q3,70%
+19/09/2014,"Kenmay, Kilmacud Rd Upper, Dundrum Dublin 14",Dublin,700000.0,No,Dundrum,Dublin 14,q4,100%
+03/10/2014,"22 Mulvey Park, Dundrum, Dublin 14",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+06/10/2014,"90 Taney Rd, Dundrum, Dublin 14",Dublin,580000.0,No,Dundrum,Dublin 14,q4,80%
+07/10/2014,"44 Wyckham Point, Dundrum",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+15/10/2014,"Apartment 42 Wyckham Point, Wyckham Way, Dundrum",Dublin,270000.0,No,Dundrum,Dublin 14,q1,20%
+20/10/2014,"9 Dun Emer Dr, Dundrum, Dublin 16",Dublin,550000.0,No,Dundrum,Dublin 14,q3,80%
+23/10/2014,"16 Dundrum Court, Dundrum, Dublin 16",Dublin,192500.0,No,Dundrum,Dublin 14,q1,10%
+23/10/2014,"41  The Rowan, Rockfield, Dundrum",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+23/10/2014,"85 Wyckham Point, Dundrum, Dublin 16",Dublin,170000.0,No,Dundrum,Dublin 14,q1,10%
+24/10/2014,"11A Sweetmount Dr, Dundrum, Dublin 14",Dublin,415000.0,No,Dundrum,Dublin 14,q3,60%
+24/10/2014,"64 The Holly, Rockfield, Dundrum",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+30/10/2014,"Apt 2 The Oaks, Rockfield, Dundrum",Dublin,285000.0,No,Dundrum,Dublin 14,q1,20%
+07/11/2014,"32 Olivemount Rd, Dundrum, Dublin 14",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+11/11/2014,"12 Millmount Terrace, Dundrum Rd, Dublin 14",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+13/11/2014,"84 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+14/11/2014,"3 Farrenboley Cottages, Dundrum, Dublin 14",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+14/11/2014,"52 Wyckham Place, Wyckham Way, Dundrum",Dublin,235000.0,No,Dundrum,Dublin 14,q1,20%
+19/11/2014,"42 Ailesbury Lawn, Dundrum, Dublin 16",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+23/11/2014,"226 Balally Dr, Dundrum, Dublin 16",Dublin,529000.0,No,Dundrum,Dublin 14,q3,80%
+24/11/2014,"12 Sunnybank Court, Dundrum Road, Dublin 14",Dublin,295000.0,No,Dundrum,Dublin 14,q1,30%
+27/11/2014,"17 Annaville Park, Dundrum, Dublin 14",Dublin,575000.0,No,Dundrum,Dublin 14,q4,80%
+01/12/2014,"116 Mulvey Park, Dundrum, Dublin 14",Dublin,405000.0,No,Dundrum,Dublin 14,q3,60%
+01/12/2014,"210 Wyckham Point, Wyckham Way, Dundrum",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+01/12/2014,"9 Pine Copse Rd, Dundrum, Dublin 14",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+03/12/2014,"35 The Oaks, Rockfield, Dundrum Dublin 14",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+04/12/2014,"21 Laurel Rd, Dundrum, Dublin 14",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+04/12/2014,"56 Sweetmount Park, Dundrum, Dublin 14",Dublin,476000.0,No,Dundrum,Dublin 14,q3,70%
+04/12/2014,"Cullenagh, Stoney Road, Dundrum",Dublin,2085000.0,No,Dundrum,Dublin 14,q4,100%
+05/12/2014,"8A Sydenham Rd, Dundrum, Dublin 14",Dublin,790000.0,No,Dundrum,Dublin 14,q4,100%
+05/12/2014,"8A Sydenham Rd, Dundrum, Dublin 14",Dublin,920501.0,No,Dundrum,Dublin 14,q4,100%
+10/12/2014,"241 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+11/12/2014,"78 Taney Road, Dundrum, Dublin 14",Dublin,660000.0,No,Dundrum,Dublin 14,q4,90%
+12/12/2014,"35 Marley Court, Dundrum, Dublin 14",Dublin,510000.0,No,Dundrum,Dublin 14,q3,70%
+15/12/2014,"74 Highfield Park, Dundrum, Dublin 14",Dublin,595000.0,No,Dundrum,Dublin 14,q4,90%
+16/12/2014,"6 Belfort House, Sydenham Villas, Dundrum Dublin 14",Dublin,405000.0,No,Dundrum,Dublin 14,q3,60%
+17/12/2014,"51 The Birch, Riversdale, Dundrum",Dublin,335000.0,No,Dundrum,Dublin 14,q2,40%
+18/12/2014,"19 Ardglas Est, Dundrum, Dublin 16",Dublin,735000.0,No,Dundrum,Dublin 14,q4,100%
+18/12/2014,"194 Balally Dr, Dundrum, Dublin 14",Dublin,496501.0,No,Dundrum,Dublin 14,q3,70%
+18/12/2014,"7 Sweetmount Ave, Dundrum, Dublin 14",Dublin,695000.0,No,Dundrum,Dublin 14,q4,100%
+18/12/2014,"92 Acorn Rd, Dundrum, Dublin 14",Dublin,515000.0,No,Dundrum,Dublin 14,q3,70%
+18/12/2014,"Apt 47 The Blackthorn, Riverdale, Dundrum",Dublin,495000.0,No,Dundrum,Dublin 14,q3,70%
+19/12/2014,"40 The Rowan, Rockfield, Dundrum",Dublin,290000.0,No,Dundrum,Dublin 14,q1,30%
+19/12/2014,"78 Wyckham Place, Wyckham Way, Dundrum Dublin 16",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+19/12/2014,"Apt 69 Ludford Dr, Ludford, Dundrum Dublin 14",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+22/12/2014,"12 Altamont Hall, Stoney Rd, Dundrum",Dublin,261000.0,No,Dundrum,Dublin 14,q1,20%
+22/12/2014,"5 College Park Way, Dundrum, Dublin 16",Dublin,607500.0,No,Dundrum,Dublin 14,q4,90%
+22/12/2014,"85A Beech Lawn, Dundrum, Dublin 14",Dublin,512958.0,No,Dundrum,Dublin 14,q3,70%
+23/12/2014,"35 Blackthorn, Riversdale, Dundrum",Dublin,265000.0,No,Dundrum,Dublin 14,q1,20%
+23/12/2014,"50 Highfield Park, Dundrum, Dublin 14",Dublin,830000.0,No,Dundrum,Dublin 14,q4,100%
+23/12/2014,"52 Hazelbrook, Upper Kilmacud Road, Dundrum",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+23/12/2014,"7 Belfort Court, Sydenham Villas, Dundrum Dublin 14",Dublin,265000.0,No,Dundrum,Dublin 14,q1,20%
+23/12/2014,"Apt 172 Wyckham Point, Wyckham Way, Dundrum",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+08/01/2015,"18 Altamount Hall, Stoney Rd, Dundrum Dublin 14",Dublin,336000.0,No,Dundrum,Dublin 14,q2,40%
+09/01/2015,"54 Balally Hill, Dundrum, Dublin 16",Dublin,433000.0,No,Dundrum,Dublin 14,q3,60%
+09/01/2015,"Rosemount Cottage, Dundrum Rd, Dublin 14",Dublin,801000.0,No,Dundrum,Dublin 14,q4,100%
+12/01/2015,"24 The Willow, Rockfield, Dundrum Dublin 16",Dublin,197000.0,No,Dundrum,Dublin 14,q1,10%
+12/01/2015,"58 Sweetmount Park, Dundrum, Dublin 14",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+15/01/2015,"Apt 5 The Elm, Rockfield, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+15/01/2015,"Sweetmount House, Sweetmount Road, Dundrum",Dublin,1450000.0,No,Dundrum,Dublin 14,q4,100%
+19/01/2015,"61 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+22/01/2015,"22 Creevaghhouse, Dundrum",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+23/01/2015,"Apt 2, Taney Court, Dundrum Dublin 14",Dublin,312750.0,No,Dundrum,Dublin 14,q1,30%
+30/01/2015,"27 Sweet Briar Lane, Dundrum, Dublin 14",Dublin,567000.0,No,Dundrum,Dublin 14,q4,80%
+02/02/2015,"42 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+05/02/2015,"19 The Limes, Rockfield, Dundrum Dublin 14",Dublin,286000.0,No,Dundrum,Dublin 14,q1,30%
+06/02/2015,"2 Mulvey Crescent, Mulvey Park, Dundrum Dublin 14",Dublin,442500.0,No,Dundrum,Dublin 14,q3,60%
+09/02/2015,"10 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"15 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+09/02/2015,"16 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"18 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"19 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+09/02/2015,"20 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"22 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"23 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+09/02/2015,"24 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"25 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"26 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"27 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"29 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"30 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"32 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"33 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"37 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"38 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"49 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"54 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+09/02/2015,"59 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+09/02/2015,"64 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+09/02/2015,"66 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"70 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"72 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+09/02/2015,"79 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"82 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/02/2015,"93 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 16",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+11/02/2015,"11 Olivemount Grove, Dundrum Rd, Dublin 14",Dublin,402500.0,No,Dundrum,Dublin 14,q3,60%
+11/02/2015,"65 Wyckham Point, Dundrum, Dublin 14",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+12/02/2015,"96 Wyckham Point, Wyckham Bypass, Dundrum  Dublin 16",Dublin,500000.0,No,Dundrum,Dublin 14,q3,70%
+12/02/2015,"97 Wyckham Point, Wyckham Bypass, Dundrum  Dublin 16",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+12/02/2015,"98 Wyckham Point, Wyckham Bypass, Dundrum  Dublin 16",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+17/02/2015,"35 Drummartin Park, Dundrum, Dublin 14",Dublin,535000.0,No,Dundrum,Dublin 14,q3,80%
+17/02/2015,"73  Wyckham Place, Wyckham Way, Dundrum",Dublin,535000.0,No,Dundrum,Dublin 14,q3,80%
+18/02/2015,"29 The Lime, Rockfield, Dundrum",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+20/02/2015,"19 Creevagh House, Rosemount, Dundrum Road",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+20/02/2015,"82 Rosemount Estate, Dundrum, Dublin 14",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+23/02/2015,"156 Meadow Grove, Dundrum, Dublin 14",Dublin,485000.0,No,Dundrum,Dublin 14,q3,70%
+25/02/2015,"27 College Park Ave, Dundrum, Dublin 16",Dublin,500000.0,No,Dundrum,Dublin 14,q3,70%
+27/02/2015,"65 Wyckham Place, Wyckham Bypass, Dundrum  Dublin 1",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+05/03/2015,"12 Acorn Rd, Dundrum, Dublin 16",Dublin,695000.0,No,Dundrum,Dublin 14,q4,100%
+23/03/2015,"16 The Holly, Rockfield, Dundrum Dublin 16",Dublin,295151.0,No,Dundrum,Dublin 14,q1,30%
+24/03/2015,"28 Taney Crescent, Dundrum, Dublin 14",Dublin,565000.0,No,Dundrum,Dublin 14,q4,80%
+24/03/2015,"Avonmore, Dundrum Rd, Dundrum Dublin 14",Dublin,581000.0,No,Dundrum,Dublin 14,q4,80%
+25/03/2015,"Apt 14 Dundrum Court, Dundrum, Dublin 14",Dublin,205000.0,No,Dundrum,Dublin 14,q1,10%
+26/03/2015,"4 Belfort House, Sydenham Villas, Dundrum Dublin 14",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+26/03/2015,"42 Sweetmount Ave, Dundrum, Dublin 14",Dublin,260000.0,No,Dundrum,Dublin 14,q1,20%
+27/03/2015,"50 The Birch, Riversdale, Dundrum Dublin 16",Dublin,305000.0,No,Dundrum,Dublin 14,q1,30%
+27/03/2015,"85 Wyckham Point, Dundrum, Dublin 16",Dublin,217000.0,No,Dundrum,Dublin 14,q1,10%
+31/03/2015,"Apartment 253 Wyckham Point, Wyckham Way, Dundrum  Dublin 16",Dublin,280000.0,Yes,Dundrum,Dublin 14,q1,20%
+02/04/2015,"26 Wesley Heights, Dundrum, Dublin 14",Dublin,565000.0,No,Dundrum,Dublin 14,q4,80%
+09/04/2015,"20 Ashgrove Court, Dundrum, Dublin 14",Dublin,220000.0,No,Dundrum,Dublin 14,q1,10%
+10/04/2015,"Rumah Saya, Upper Kilmacud Rd, Dundrum Dublin 14",Dublin,555000.0,No,Dundrum,Dublin 14,q4,80%
+15/04/2015,"12 The Elm, Rockfield, Dundrum Dublin 16",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+21/04/2015,"122 Wyckham Point, Dundrum, Dublin 16",Dublin,234000.0,No,Dundrum,Dublin 14,q1,20%
+01/05/2015,"87 Balally Park, Dundrum, Dublin 16",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+06/05/2015,"1 Brookside, Dundrum Road, Dublin 14",Dublin,420000.0,No,Dundrum,Dublin 14,q3,60%
+08/05/2015,"25 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+11/05/2015,"39 Wyckham Point, Wyckham Way, Dundrum",Dublin,305000.0,No,Dundrum,Dublin 14,q1,30%
+11/05/2015,"65 Wyckham Place, Wyckham Bypass, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+13/05/2015,"4 Sydenham Rd, Dundrum, Dublin 14",Dublin,1180000.0,No,Dundrum,Dublin 14,q4,100%
+14/05/2015,"Glenlossera, Upper Kilmacud Road, Dundrum",Dublin,654000.0,No,Dundrum,Dublin 14,q4,90%
+20/05/2015,"33 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+21/05/2015,"33 Wesley Lawns, Dundrum, Dublin 16",Dublin,528000.0,No,Dundrum,Dublin 14,q3,80%
+21/05/2015,"53 Wyckham Point, Dundrum",Dublin,270000.0,No,Dundrum,Dublin 14,q1,20%
+29/05/2015,"19 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,232000.0,No,Dundrum,Dublin 14,q1,20%
+29/05/2015,"260 Wyckham Point, Wyckham Way, Dundrum Dublin 14",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+03/06/2015,"34 Dodder Bank, Dundrum Rd, Milltown Dublin 6",Dublin,405000.0,No,Dundrum,Dublin 14,q3,60%
+10/06/2015,"141 Mulvey Park, Dundrum, Dublin 14",Dublin,307000.0,No,Dundrum,Dublin 14,q1,30%
+17/06/2015,"72 Ailesbury Grove, Dundrum, Dublin 16",Dublin,595000.0,No,Dundrum,Dublin 14,q4,90%
+23/06/2015,"9 Frankfort Park, Dundrum, Dublin 14",Dublin,785000.0,No,Dundrum,Dublin 14,q4,100%
+24/06/2015,"13A Clonard Ave, Dundrum, Dublin 16",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+24/06/2015,"264 Wyckham Point, Dundrum, Dublin 16",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+24/06/2015,"30 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,332000.0,No,Dundrum,Dublin 14,q2,30%
+25/06/2015,"59 Taney Rise, Dundrum, Dublin 14",Dublin,735000.0,No,Dundrum,Dublin 14,q4,100%
+25/06/2015,"Apartments 1-80 Dundrum View, Dundrum, Dublin 14",Dublin,28050000.0,No,Dundrum,Dublin 14,q4,100%
+26/06/2015,"17 Old Rectory Park, Dundrum, Dublin 14",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+26/06/2015,"94 Acorn Rd, Dundrum, Dublin 16",Dublin,593000.0,No,Dundrum,Dublin 14,q4,90%
+03/07/2015,"10 Altamont Hall, Stoney Rd, Dundrum",Dublin,310000.0,No,Dundrum,Dublin 14,q1,30%
+14/07/2015,"46 The Rowan, Rockfield, Dundrum",Dublin,310000.0,No,Dundrum,Dublin 14,q1,30%
+14/07/2015,"Apt 11 Hazelbrook, Lower Kilmacud Rd, Dundrum",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+16/07/2015,"25 The Lime, Rockfield, Dundrum Dublin 14",Dublin,316000.0,No,Dundrum,Dublin 14,q2,30%
+16/07/2015,"28 The Blackthorn, Riversdale, Dundrum",Dublin,305000.0,No,Dundrum,Dublin 14,q1,30%
+17/07/2015,"23 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,250000.0,No,Dundrum,Dublin 14,q1,20%
+20/07/2015,"29 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+23/07/2015,"117 Weston Park, Dundrum, Dublin 14",Dublin,550000.0,No,Dundrum,Dublin 14,q3,80%
+24/07/2015,"16 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+30/07/2015,"162 Mulvey Park, Dundrum, Dublin 14",Dublin,353000.0,No,Dundrum,Dublin 14,q2,40%
+30/07/2015,"19 Mulvey Park, Dundrum, Dublin 16",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+30/07/2015,"36 Farmhill Rd, Dundrum, Dublin 14",Dublin,620000.0,No,Dundrum,Dublin 14,q4,90%
+30/07/2015,"5 Belfort House, Sydenham Villas, Dundrum Dublin 14",Dublin,310000.0,No,Dundrum,Dublin 14,q1,30%
+31/07/2015,"167 Wyckham Point, Wyckham Way, Dundrum",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+31/07/2015,"51 Castlebrook, Dundrum, Dublin 16",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+31/07/2015,"59 Dundrum Gate, Dundrum, Dublin 16",Dublin,435000.0,No,Dundrum,Dublin 14,q3,60%
+03/08/2015,"26 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,427000.0,No,Dundrum,Dublin 14,q3,60%
+06/08/2015,"49 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+07/08/2015,"Apartment 22, Wyckham Place, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+11/08/2015,"9 Dundrum Castle House, Dundrum, Dublin 16",Dublin,228000.0,No,Dundrum,Dublin 14,q1,10%
+12/08/2015,"51 Balally Ave, Dundrum, Dublin 16",Dublin,577500.0,No,Dundrum,Dublin 14,q4,80%
+14/08/2015,"2 Lynwood, Dundrum, Dublin 16",Dublin,665000.0,No,Dundrum,Dublin 14,q4,90%
+14/08/2015,"60 Wyckham Place, Dundrum, Dublin 14",Dublin,220000.0,No,Dundrum,Dublin 14,q1,10%
+14/08/2015,"86 Mulvey Park, Dundrum, Dublin 14",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+17/08/2015,"104 St Columbanus Rd, Dundrum, Dublin 14",Dublin,355000.0,No,Dundrum,Dublin 14,q2,40%
+19/08/2015,"10 College Park Close, Dundrum, Dublin 16",Dublin,577500.0,No,Dundrum,Dublin 14,q4,80%
+20/08/2015,"31 Dun Emer Rd, Dundrum, Dublin 16",Dublin,550000.0,No,Dundrum,Dublin 14,q3,80%
+20/08/2015,"St Malo, Frankfort, Dundrum",Dublin,1100000.0,No,Dundrum,Dublin 14,q4,100%
+21/08/2015,"18 Pine Copse Rd, Dundrum, Dublin 16",Dublin,482000.0,No,Dundrum,Dublin 14,q3,70%
+24/08/2015,"170 Holywell, Dundrum, Dublin 14",Dublin,555000.0,No,Dundrum,Dublin 14,q4,80%
+24/08/2015,"67 Rosemount Estate, Dundrum",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+26/08/2015,"2 Taney Dr, Dundrum, Dublin 14",Dublin,275050.0,No,Dundrum,Dublin 14,q1,20%
+27/08/2015,"8 Kingston Rise, Dundrum, Dublin 16",Dublin,490000.0,No,Dundrum,Dublin 14,q3,70%
+28/08/2015,"1 The Elm, Rockfield, Dundrum Dublin 14",Dublin,265000.0,No,Dundrum,Dublin 14,q1,20%
+28/08/2015,"18 Wyckham Place, Dundrum, Dublin 16",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+28/08/2015,"45 Balally Grove, Dundrum, Dublin 16",Dublin,700000.0,No,Dundrum,Dublin 14,q4,100%
+02/09/2015,"18 Old Rectory Park, Taney Rd, Dundrum Dublin 14",Dublin,520000.0,No,Dundrum,Dublin 14,q3,80%
+02/09/2015,"44 Woodley Park, Dundrum, Dublin 14",Dublin,485000.0,No,Dundrum,Dublin 14,q3,70%
+03/09/2015,"41 Woodley Park, Dundrum, Dublin 14",Dublin,535000.0,No,Dundrum,Dublin 14,q3,80%
+04/09/2015,"168 Balally Dr, Dundrum, Dublin 16",Dublin,408000.0,No,Dundrum,Dublin 14,q3,60%
+07/09/2015,"27 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+16/09/2015,"34 Annaville Park, Dundrum, Dublin 14",Dublin,470000.0,No,Dundrum,Dublin 14,q3,70%
+17/09/2015,"273 Wyckham Point, Wyckham Way, Dundrum",Dublin,260000.0,No,Dundrum,Dublin 14,q1,20%
+18/09/2015,"35 The Willow, Rockfield, Dundrum Dublin 14",Dublin,290000.0,No,Dundrum,Dublin 14,q1,30%
+23/09/2015,"129 Goatstown Rd, Dundrum, Dublin 14",Dublin,630000.0,No,Dundrum,Dublin 14,q4,90%
+24/09/2015,"Apt 4 Wyckham Point, Dundrum, Dublin 16",Dublin,266000.0,No,Dundrum,Dublin 14,q1,20%
+30/09/2015,"34 Castlebrook, Dundrum, Dublin 16",Dublin,407500.0,No,Dundrum,Dublin 14,q3,60%
+07/10/2015,"59 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+09/10/2015,"50 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,270000.0,No,Dundrum,Dublin 14,q1,20%
+12/10/2015,"19 Millmount Grove, Dundrum Rd, Dublin 14",Dublin,210000.0,No,Dundrum,Dublin 14,q1,10%
+14/10/2015,"2-4 Bellvue, Dundrum Road, Dublin 14",Dublin,70750.0,No,Dundrum,Dublin 14,q1,10%
+14/10/2015,"2 Bellvue, Dundrum Road, Dublin 14",Dublin,135750.0,No,Dundrum,Dublin 14,q1,10%
+15/10/2015,"Apt 207, Wyckham Point, Dundrum",Dublin,395000.0,No,Dundrum,Dublin 14,q2,50%
+20/10/2015,"246 Wyckham Point, Wyckham Way, Dundrum",Dublin,232600.0,No,Dundrum,Dublin 14,q1,20%
+22/10/2015,"2 Pirton, Sydenham Villas, Dundrum",Dublin,1233480.17,Yes,Dundrum,Dublin 14,q4,100%
+23/10/2015,"163 Balally Dr, Dundrum, Dublin 16",Dublin,442500.0,No,Dundrum,Dublin 14,q3,60%
+30/10/2015,"12 Mulvey Park, Dundrum, Dublin 14",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+30/10/2015,"24 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,335000.0,No,Dundrum,Dublin 14,q2,40%
+02/11/2015,"49  Wyckham Point, Wyckham Way, Dundrum",Dublin,123250.0,No,Dundrum,Dublin 14,q1,10%
+03/11/2015,"23 Balally Dr, Dundrum, Dublin 16",Dublin,563500.0,No,Dundrum,Dublin 14,q4,80%
+03/11/2015,"6 The Linden, Riverdale, Dundrum Dublin 14",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+05/11/2015,"1 Pirton, Sydenham Villas, Dundrum",Dublin,1189427.31,Yes,Dundrum,Dublin 14,q4,100%
+05/11/2015,"144 Balally Dr, Dundrum, Dublin 16",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+05/11/2015,"37 The Holly, Rockfield, Dundrum Dublin 16",Dublin,312500.0,No,Dundrum,Dublin 14,q1,30%
+10/11/2015,"38 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+10/11/2015,"Hillside, Sydenham Villas, Dundrum Dublin 14",Dublin,863000.0,No,Dundrum,Dublin 14,q4,100%
+13/11/2015,"23 Pinecopse Rd, Dundrum, Dublin 14",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+18/11/2015,"66 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+20/11/2015,"Site Number 4 Pirton, Sydenham Villas, Dundrum",Dublin,1066079.29,Yes,Dundrum,Dublin 14,q4,100%
+24/11/2015,"47 Balally Park, Dundrum, Dublin 16",Dublin,537500.0,No,Dundrum,Dublin 14,q3,80%
+26/11/2015,"50 The Oak, Rockfield, Dundrum Dublin 14",Dublin,313000.0,No,Dundrum,Dublin 14,q1,30%
+27/11/2015,"37 The Willow, Rockfield, Dundrum",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+27/11/2015,"8 St Columbanus Rd, Windy Arbour, Dundrum Dublin 14",Dublin,429000.0,No,Dundrum,Dublin 14,q3,60%
+27/11/2015,"Apartment 96, Wyckham Point, Dundrum",Dublin,510000.0,No,Dundrum,Dublin 14,q3,70%
+02/12/2015,"93 Mulvey Park, Dundrum Rd, Dublin 14",Dublin,403000.0,No,Dundrum,Dublin 14,q3,60%
+07/12/2015,"19 Clonard Park, Dundrum, Dublin 16",Dublin,540000.0,No,Dundrum,Dublin 14,q3,80%
+07/12/2015,"70 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+09/12/2015,"1 Drummartin Park, Upper Kilmacud Road, Dundrum",Dublin,687500.0,No,Dundrum,Dublin 14,q4,90%
+09/12/2015,"27 Castlebrook, Dundrum Dublin 16, Dublin",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+10/12/2015,"Apt 3, Southmede, Dundrum Dublin 16",Dublin,255000.0,No,Dundrum,Dublin 14,q1,20%
+11/12/2015,"2 Campfield Terrace, Upper Kilmacud Rd, Dundrum",Dublin,553000.0,No,Dundrum,Dublin 14,q4,80%
+14/12/2015,"74 Castlebrook, Dundrum, Dublin 16",Dublin,515000.0,No,Dundrum,Dublin 14,q3,70%
+18/12/2015,"5 Frankfort Park, Dundrum, Dublin 14",Dublin,615000.0,No,Dundrum,Dublin 14,q4,90%
+22/12/2015,"12 Sweetmount Dr, Dundrum, Dublin 14",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+23/12/2015,"15 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,227000.0,No,Dundrum,Dublin 14,q1,10%
+11/01/2016,"132 Mulvey Park, Dundrum, Dublin 14",Dublin,335000.0,No,Dundrum,Dublin 14,q2,40%
+11/01/2016,"2 Altamont Hall, Stoney Rd, Dundrum",Dublin,275000.0,No,Dundrum,Dublin 14,q1,20%
+12/01/2016,"64 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,230000.0,No,Dundrum,Dublin 14,q1,20%
+13/01/2016,"3 Westerton Rise, Dundrum, Dublin 14",Dublin,585000.0,No,Dundrum,Dublin 14,q4,90%
+13/01/2016,"97 Wyckham Point, Dundrum",Dublin,495000.0,No,Dundrum,Dublin 14,q3,70%
+15/01/2016,"10 Victoria Terrace, Dundrum, Dublin 14",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+18/01/2016,"20 Wyckham Place, Dundrum, Dublin 16",Dublin,335000.0,No,Dundrum,Dublin 14,q2,40%
+19/01/2016,"119 Barton Rd East, Dundrum, Dublin 14",Dublin,675000.0,No,Dundrum,Dublin 14,q4,90%
+21/01/2016,"4 Mulvey Crescent, Dundrum, Dublin 14",Dublin,490000.0,No,Dundrum,Dublin 14,q3,70%
+22/01/2016,"15 Pine Copse Rd, Wyckham Park, Dundrum Dublin 14",Dublin,525000.0,No,Dundrum,Dublin 14,q3,80%
+22/01/2016,"7 Castle Court, Dundrum Castle, Dundrum",Dublin,195000.0,No,Dundrum,Dublin 14,q1,10%
+25/01/2016,"37 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,356000.0,No,Dundrum,Dublin 14,q2,40%
+25/01/2016,"77 Highfield Park, Dundrum, Dublin 14",Dublin,500000.0,No,Dundrum,Dublin 14,q3,70%
+26/01/2016,"26 The Willow, Rockfield, Dundrum",Dublin,285000.0,No,Dundrum,Dublin 14,q1,20%
+29/01/2016,"24 Highfield Park, Dundrum, Dublin 14",Dublin,795000.0,No,Dundrum,Dublin 14,q4,100%
+01/02/2016,"54 Wyckham Place, Dundrum",Dublin,250000.0,No,Dundrum,Dublin 14,q1,20%
+03/02/2016,"8 Beech Dr, Dundrum, Dublin 14",Dublin,532000.0,No,Dundrum,Dublin 14,q3,80%
+12/02/2016,"59 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,471666.0,No,Dundrum,Dublin 14,q3,70%
+12/02/2016,"93 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,252000.0,No,Dundrum,Dublin 14,q1,20%
+17/02/2016,"9 Taney Park, Dundrum, Dublin 14",Dublin,840000.0,No,Dundrum,Dublin 14,q4,100%
+29/02/2016,"61 Wyckham Place, Dundrum, Dublin",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+04/03/2016,"55 Sweetmount Ave, Dundrum, Dublin 14",Dublin,345000.0,No,Dundrum,Dublin 14,q2,40%
+11/03/2016,"109 Mulvey Park, Dundrum, Dublin 14",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+11/03/2016,"80 Mulvey Park, Dundrum, Dublin 14",Dublin,317000.0,No,Dundrum,Dublin 14,q2,30%
+15/03/2016,"5 Ashgrove Court, Dundrum, Dublin 16",Dublin,328000.0,No,Dundrum,Dublin 14,q2,30%
+16/03/2016,"90 Sweetmount Ave, Dundrum, Dublin 14",Dublin,639000.0,No,Dundrum,Dublin 14,q4,90%
+16/03/2016,"Glenlossera, Upper Kilmacud Road, Dundrum",Dublin,690000.0,No,Dundrum,Dublin 14,q4,90%
+21/03/2016,"66 The Birch, Riversdale Apts, Dundrum Dublin 14",Dublin,314000.0,No,Dundrum,Dublin 14,q2,30%
+24/03/2016,"18 Highfield Park, Dundrum, Dublin 14",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+24/03/2016,"6 Richmond Close, Dundrum Road, Milltown",Dublin,735683.0,Yes,Dundrum,Dublin 14,q4,100%
+24/03/2016,"61 Sweetmount Avenue, Dundrum, Dublin 14",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+24/03/2016,"62 Wyckham Point, Dundrum, Dublin 16",Dublin,237000.0,No,Dundrum,Dublin 14,q1,20%
+30/03/2016,"97 The Oaks, Rockfield  Dundrum, Dublin",Dublin,310000.0,No,Dundrum,Dublin 14,q1,30%
+04/04/2016,"12 Churchfields, Dundrum Rd, Dublin",Dublin,520000.0,No,Dundrum,Dublin 14,q3,80%
+06/04/2016,"Apt 10, Castle Court, Dundrum Dublin 14",Dublin,190000.0,No,Dundrum,Dublin 14,q1,10%
+08/04/2016,"16 Acorn Road, Wychkam Park, Dundrum",Dublin,785000.0,No,Dundrum,Dublin 14,q4,100%
+11/04/2016,"283 Kilmacud Rd Upper, Dundrum, Dublin 14",Dublin,670000.0,No,Dundrum,Dublin 14,q4,90%
+23/04/2016,"272 Wyckham Point, Dundrum, Dublin 16",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+26/04/2016,"187 Barton Rd East, Dundrum, Dublin 14",Dublin,507500.0,No,Dundrum,Dublin 14,q3,70%
+05/05/2016,"3A Taney Park, Dundrum, Dublin 14",Dublin,587500.0,No,Dundrum,Dublin 14,q4,90%
+13/05/2016,"20 Ailesbury Lawn, Dundrum, Dublin 16",Dublin,645000.0,No,Dundrum,Dublin 14,q4,90%
+16/05/2016,"1 Carmichael Hall, St Columbanus Rd, Dundrum Dublin 14",Dublin,264000.0,No,Dundrum,Dublin 14,q1,20%
+25/05/2016,"58 Wyckham Point, Wyckham Way, Dundrum",Dublin,357000.0,No,Dundrum,Dublin 14,q2,40%
+26/05/2016,"264 Wyckham Point, Dundrum, Dublin 16",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+26/05/2016,"Apt 18 The Oaks, Rockfield, Dundrum",Dublin,326000.0,No,Dundrum,Dublin 14,q2,30%
+02/06/2016,"131 Southmede Apts, Balinteer Rd, Dundrum Dublin 16",Dublin,170125.0,No,Dundrum,Dublin 14,q1,10%
+02/06/2016,"98 Wyckham Point, Wyckham Bypass, Dundrum Dublin 16",Dublin,513000.0,No,Dundrum,Dublin 14,q3,70%
+03/06/2016,"10 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,335000.0,No,Dundrum,Dublin 14,q2,40%
+08/06/2016,"16 The Oaks, Rockfield, Dundrum",Dublin,313000.0,No,Dundrum,Dublin 14,q2,30%
+13/06/2016,"41 The Holly, Rockfield, Dundrum Dublin 14",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+15/06/2016,"16 Altamont Hall, Stoney Rd, Dundrum",Dublin,336000.0,No,Dundrum,Dublin 14,q2,40%
+17/06/2016,"21 Goatstown Rd, Dundrum, Dublin 14",Dublin,535000.0,No,Dundrum,Dublin 14,q3,80%
+20/06/2016,"20 The Willows, Rockfield, Dundrum Dublin 14",Dublin,295000.0,No,Dundrum,Dublin 14,q1,30%
+21/06/2016,"22 Willow Rd, Dundrum, Dublin",Dublin,195000.0,No,Dundrum,Dublin 14,q1,10%
+22/06/2016,"82 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+23/06/2016,"16 Clonard Park, Dundrum, Dublin 16",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+24/06/2016,"16 Balally Dr, Dundrum, Dublin 16",Dublin,650000.0,No,Dundrum,Dublin 14,q4,90%
+05/07/2016,"246 Wyckham Point, Wyckham Way, Dundrum",Dublin,118320.0,No,Dundrum,Dublin 14,q1,10%
+07/07/2016,"1 Waldemar Terrace, Main St, Dundrum Dublin 16",Dublin,245015.0,No,Dundrum,Dublin 14,q1,20%
+07/07/2016,"12 Pembroke Cottages, Dundrum, Dublin 16",Dublin,318665.0,No,Dundrum,Dublin 14,q2,30%
+07/07/2016,"3 Taney Dr, Dundrum, Dublin 16",Dublin,482191.0,No,Dundrum,Dublin 14,q3,70%
+07/07/2016,"8 Pembroke Cottages, Dundrum, Dublin 16",Dublin,272543.0,No,Dundrum,Dublin 14,q1,20%
+08/07/2016,"43 Meadow Mount, Dundrum, Dublin 16",Dublin,562000.0,No,Dundrum,Dublin 14,q4,80%
+08/07/2016,"7 Millmount Terrace, Dundrum Rd, Dublin 14",Dublin,310000.0,No,Dundrum,Dublin 14,q1,30%
+08/07/2016,"73 The Birch, Riversdale Apts, Dundrum",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+08/07/2016,"8 Altamont Hall, Stoney Rd, Dundrum",Dublin,311750.0,No,Dundrum,Dublin 14,q1,30%
+15/07/2016,"3 Sweetmount Dr, Dundrum, Dublin 14",Dublin,455000.0,No,Dundrum,Dublin 14,q3,70%
+18/07/2016,"Apt 230, Wyckham Point, Dundrum Dublin 14",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+20/07/2016,"85 Taney Crescent, Dundrum, Dublin 14",Dublin,200000.0,No,Dundrum,Dublin 14,q1,10%
+21/07/2016,"2 Richmond Close, Dundrum Road, Milltown",Dublin,726872.25,Yes,Dundrum,Dublin 14,q4,100%
+22/07/2016,"Cellendine, 186 Dundrum Rd, Dundrum Dublin 14",Dublin,1200000.0,No,Dundrum,Dublin 14,q4,100%
+26/07/2016,"Apt 231, Wyckham Point, Dundrum Dublin 14",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+27/07/2016,"4 Alexandra Court, Dundrum, Dublin 14",Dublin,345000.0,No,Dundrum,Dublin 14,q2,40%
+29/07/2016,"15 Kingston Rise, Dundrum, Dublin 16",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+29/07/2016,"70 Beech Lawn, Dundrum, Dublin 16",Dublin,440000.0,No,Dundrum,Dublin 14,q3,60%
+02/08/2016,"1 Wyckham Place, Dundrum, Dublin 14",Dublin,213500.0,No,Dundrum,Dublin 14,q1,10%
+02/08/2016,"101 The Oaks, Rockfield, Dundrum",Dublin,290000.0,No,Dundrum,Dublin 14,q1,30%
+02/08/2016,"32 Dromartin Park, Dundrum, Dublin 14",Dublin,565000.0,No,Dundrum,Dublin 14,q4,80%
+02/08/2016,"74 The Birch, Riversdale Apts, Dundrum",Dublin,420000.0,No,Dundrum,Dublin 14,q3,60%
+05/08/2016,"65 The Birch, Riverdale, Dundrum Dublin 14",Dublin,298000.0,No,Dundrum,Dublin 14,q1,30%
+09/08/2016,"Aisling, 86 Balally Dr, Dundrum Dublin 16",Dublin,490000.0,No,Dundrum,Dublin 14,q3,70%
+10/08/2016,"Apt 41 Hazelbrook, Dundrum, Hazelbrook Dublin 14",Dublin,230000.0,No,Dundrum,Dublin 14,q1,20%
+11/08/2016,"3 Pirton, Sydenham Villas, Dundrum",Dublin,1242290.7,Yes,Dundrum,Dublin 14,q4,100%
+18/08/2016,"28 Balally Grove, Dundrum, Dublin 14",Dublin,470000.0,No,Dundrum,Dublin 14,q3,70%
+25/08/2016,"87 Barton Rd East, Dundrum, Dublin 14",Dublin,575000.0,No,Dundrum,Dublin 14,q4,80%
+26/08/2016,"176 Hulvey Park, Dundrum Dublin 14, Dublin",Dublin,295000.0,No,Dundrum,Dublin 14,q1,30%
+26/08/2016,"20 Delbrook Manor, Dundrum, Dublin 16",Dublin,900000.0,No,Dundrum,Dublin 14,q4,100%
+26/08/2016,"299 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+26/08/2016,"32 Frankfort Park, Dundrum, Dublin 14",Dublin,655000.0,No,Dundrum,Dublin 14,q4,90%
+26/08/2016,"32 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,344370.0,No,Dundrum,Dublin 14,q2,40%
+05/09/2016,"45 Sweetmount Ave, Dundrum, Dublin 14",Dublin,342000.0,No,Dundrum,Dublin 14,q2,40%
+07/09/2016,"149 Wyckham Point, Wyckham Way, Dundrum Dublin 14",Dublin,355000.0,No,Dundrum,Dublin 14,q2,40%
+07/09/2016,"Apt 29 The Willows, Rockfield, Dundrum",Dublin,306000.0,No,Dundrum,Dublin 14,q1,30%
+08/09/2016,"63 The Birch, Riverdale, Dundrum",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+09/09/2016,"111 Meadow Grove, Dundrum, Dublin 16",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+14/09/2016,"65 Balally Park, Dundrum, Dublin 16",Dublin,502000.0,No,Dundrum,Dublin 14,q3,70%
+19/09/2016,"14 Frankfort Park, Dundrum, Dublin 14",Dublin,805000.0,No,Dundrum,Dublin 14,q4,100%
+20/09/2016,"31 The Blackthorn, Riversdale, Dundrum",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+23/09/2016,"36 The Willows, Rockfield, Dundrum Dublin 14",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+23/09/2016,"5 Annaville Grove, Dundrum Rd, Dublin 14",Dublin,505000.0,No,Dundrum,Dublin 14,q3,70%
+23/09/2016,"Apt 26, Dundrum Castle House, Dundrum",Dublin,255000.0,No,Dundrum,Dublin 14,q1,20%
+27/09/2016,"69 Highfield Park, Dundrum Rd, Dublin 14",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+29/09/2016,"31 Holywell, Goatstown, Dundrum Dublin 14",Dublin,557500.0,No,Dundrum,Dublin 14,q4,80%
+03/10/2016,"72 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,466850.0,No,Dundrum,Dublin 14,q3,70%
+05/10/2016,"84 Mulvey Pk, Dundrum, Dublin 14",Dublin,242000.0,No,Dundrum,Dublin 14,q1,20%
+07/10/2016,"1 Richmond Close, Dundrum Road, Milltown",Dublin,682819.38,Yes,Dundrum,Dublin 14,q4,90%
+10/10/2016,"1 Frankfort Park, Dundrum, Dublin 14",Dublin,890000.0,No,Dundrum,Dublin 14,q4,100%
+10/10/2016,"18 Beech Dr, Dundrum, Dublin 16",Dublin,515000.0,No,Dundrum,Dublin 14,q3,70%
+11/10/2016,"8 Carmichael Hall, St Columbanus Rd, Dundrum Dublin 14",Dublin,264000.0,No,Dundrum,Dublin 14,q1,20%
+14/10/2016,"20 Altamount Hall, Stoney Rd, Dundrum Dublin 14",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+14/10/2016,"Naomh Breandain, Sydenham Villas, Dundrum Dublin 14",Dublin,675000.0,No,Dundrum,Dublin 14,q4,90%
+17/10/2016,"8 Harcourt Villas, Windy Arbour, Dundrum Dublin 14",Dublin,306000.0,No,Dundrum,Dublin 14,q1,30%
+19/10/2016,"6 Altamont Hall, Stoney Rd, Dundrum",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+21/10/2016,"285 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,277000.0,No,Dundrum,Dublin 14,q1,20%
+25/10/2016,"28 Balally Ave, Dundrum, Dublin",Dublin,535000.0,No,Dundrum,Dublin 14,q3,80%
+26/10/2016,"57 Lynwood, Dundrum, Dublin 16",Dublin,761000.0,No,Dundrum,Dublin 14,q4,100%
+26/10/2016,"Apt. - 4 Olivemount Terrace, Dundrum Road, Dundrum",Dublin,93000.0,No,Dundrum,Dublin 14,q1,10%
+26/10/2016,"Apt.2, 4 Olivemount Terrace, Dundrum Rd  Dundrum",Dublin,93000.0,No,Dundrum,Dublin 14,q1,10%
+28/10/2016,"1 Millmount Terrace, Dundrum Road, Dublin 14",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+28/10/2016,"10 Millmount Terrace, Dundrum Rd, Milltown Dublin 14",Dublin,15000.0,No,Dundrum,Dublin 14,q1,10%
+28/10/2016,"12 Taney Green, Taney Road, Dundrum",Dublin,750660.0,Yes,Dundrum,Dublin 14,q4,100%
+28/10/2016,"4 Sweetmount Mews, Sweetmount Ave, Dundrum Dublin 14",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+31/10/2016,"19 Ailesbury Grove, Dundrum, Dublin 16",Dublin,470000.0,No,Dundrum,Dublin 14,q3,70%
+31/10/2016,"Frankfort Lodge, Dundrum, Dublin",Dublin,1150000.0,No,Dundrum,Dublin 14,q4,100%
+03/11/2016,"114 Holywell, Upper Kilmacud, Dundrum",Dublin,585000.0,No,Dundrum,Dublin 14,q4,90%
+03/11/2016,"45 Dun Emer Dr, Dundrum, Dublin 16",Dublin,615000.0,No,Dundrum,Dublin 14,q4,90%
+07/11/2016,"7 Meadow Villas, Dundrum, Dublin 16",Dublin,561250.0,No,Dundrum,Dublin 14,q4,80%
+08/11/2016,"10 Pembroke Cottages, Main St, Dundrum Dublin 14",Dublin,483000.0,No,Dundrum,Dublin 14,q3,70%
+08/11/2016,"2 Frankfort Castle, Frankfort, Dundrum Dublin 14",Dublin,1750000.0,No,Dundrum,Dublin 14,q4,100%
+09/11/2016,"11 Westerton Rise, Dundrum, Dublin 16",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+09/11/2016,"145 Wyckham Point, Wyckham Way, Dundrum Dublin 14",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+09/11/2016,"2 Balally Rd, Dundrum, Dublin 14",Dublin,580000.0,No,Dundrum,Dublin 14,q4,80%
+11/11/2016,"168 Wyckham Point, Dundrum, Dublin 16",Dublin,342500.0,No,Dundrum,Dublin 14,q2,40%
+11/11/2016,"19 Highfield Park, Dundrum, Dublin 14",Dublin,617500.0,No,Dundrum,Dublin 14,q4,90%
+11/11/2016,"57 Wyckham Place, Wyckham Way, Dundrum Dublin 16",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+11/11/2016,"Apartment 253 Wyckham Point, Wyckham Way, Dundrum  Dublin 16",Dublin,368000.0,No,Dundrum,Dublin 14,q2,50%
+13/11/2016,"110 Barton Road East, Dundrum, Dublin 14",Dublin,465000.0,No,Dundrum,Dublin 14,q3,70%
+14/11/2016,"2 Glenbower Park, Dundrum, Dublin 14",Dublin,503450.0,No,Dundrum,Dublin 14,q3,70%
+14/11/2016,"24 The Holly, Block 8 Riversdale, Rockfield Dundrum Dublin 14",Dublin,299000.0,No,Dundrum,Dublin 14,q1,30%
+16/11/2016,"14 The Elm, Rockfield, Dundrum Dublin 16",Dublin,285000.0,No,Dundrum,Dublin 14,q1,30%
+25/11/2016,"10 Millmount Terrace, Dundrum Rd, Milltown Dublin 14",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+29/11/2016,"95 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,395000.0,No,Dundrum,Dublin 14,q2,50%
+30/11/2016,"Pirton House, 4 Sydenham Villas, Dundrum",Dublin,1628000.0,No,Dundrum,Dublin 14,q4,100%
+01/12/2016,"13 Frankfort Court, Off Dundrum Rd, Dundrum Dublin 14",Dublin,500000.0,No,Dundrum,Dublin 14,q3,70%
+01/12/2016,"60 Dundrum Gate, Dundrum, Dublin 14",Dublin,295000.0,No,Dundrum,Dublin 14,q1,30%
+02/12/2016,"10 Taney Green, Taney Road, Dundrum",Dublin,762114.54,Yes,Dundrum,Dublin 14,q4,100%
+02/12/2016,"8 Taney Green, Taney Road, Dundrum",Dublin,748899.0,Yes,Dundrum,Dublin 14,q4,100%
+02/12/2016,"9 Taney Green, Taney Road, Dundrum",Dublin,735250.0,Yes,Dundrum,Dublin 14,q4,100%
+05/12/2016,"93 Beech Lawn, Dundrum, Dublin 16",Dublin,477000.0,No,Dundrum,Dublin 14,q3,70%
+08/12/2016,"1 Eagle Terrace, Upper Kilmacud Rd, Dundrum Dublin 14",Dublin,367500.0,No,Dundrum,Dublin 14,q2,40%
+08/12/2016,"142 Meadow Grove, Dundrum, Dublin 16",Dublin,555000.0,No,Dundrum,Dublin 14,q4,80%
+09/12/2016,"51 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+12/12/2016,"29 Ardglas, Dundrum, Dublin 14",Dublin,660000.0,No,Dundrum,Dublin 14,q4,90%
+12/12/2016,"4 Rosemount, Dundrum Rd, Dublin 14",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+14/12/2016,"122 Meadow Grove, Dundrum, Dublin 16",Dublin,675000.0,No,Dundrum,Dublin 14,q4,90%
+15/12/2016,"85 Wyckham Point, Dundrum, Dublin 16",Dublin,235000.0,No,Dundrum,Dublin 14,q1,20%
+16/12/2016,"10 The Willow, Rockfield, Dundrum Dublin 14",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+16/12/2016,"40 Taney Rise, Dundrum, Dublin 14",Dublin,740000.0,No,Dundrum,Dublin 14,q4,100%
+16/12/2016,"51 Weston Rd, Churchtown, Dundrum Dublin 14",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+16/12/2016,"6 Taney Green, Taney Road, Dundrum",Dublin,704845.81,Yes,Dundrum,Dublin 14,q4,100%
+16/12/2016,"7 Taney Green, Taney Road, Dundrum",Dublin,748898.0,Yes,Dundrum,Dublin 14,q4,100%
+19/12/2016,"7 Hazelbrook, Upper Kilmacud Rd, Dundrum Dublin 14",Dublin,420000.0,No,Dundrum,Dublin 14,q3,60%
+21/12/2016,"261 Wyckham Point, Wyckham Way, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+21/12/2016,"35 Rosemount Est, Dundrum, Dublin 14",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+22/12/2016,"149 Ludford Road, Dundrum, Dublin 16",Dublin,672500.0,No,Dundrum,Dublin 14,q4,90%
+22/12/2016,"Marian Lodge, 16 Mount Anville Rd, Dundrum Dublin 14",Dublin,780000.0,No,Dundrum,Dublin 14,q4,100%
+04/01/2017,"117 Balally Dr, Dundrum, Dublin 16",Dublin,625000.0,No,Dundrum,Dublin 14,q4,90%
+10/01/2017,"266 Wyckham Point, Dundrum, Dublin 14",Dublin,341000.0,No,Dundrum,Dublin 14,q2,40%
+10/01/2017,"4 Old Rectory Park, Taney Rd, Dundrum Dublin 14",Dublin,544500.0,No,Dundrum,Dublin 14,q3,80%
+10/01/2017,"Apt 3, Wyckham Point, Dundrum Dublin 16",Dublin,325000.0,No,Dundrum,Dublin 14,q2,30%
+12/01/2017,"6 Dundrum Court, Dundrum, Dublin 14",Dublin,260000.0,No,Dundrum,Dublin 14,q1,20%
+13/01/2017,"8 Mulvey Park, Dundrum, Dublin 14",Dublin,381000.0,No,Dundrum,Dublin 14,q2,50%
+16/01/2017,"6 Clonard Park, Dundrum, Dublin 14",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+17/01/2017,"96 Balally Dr, Dundrum, Dublin 16",Dublin,545000.0,No,Dundrum,Dublin 14,q3,80%
+23/01/2017,"42 Balally Dr, Dundrum, Dublin 16",Dublin,555000.0,No,Dundrum,Dublin 14,q4,80%
+26/01/2017,"22 Frankfort Park, Dundrum, Dublin 14",Dublin,1040000.0,No,Dundrum,Dublin 14,q4,100%
+27/01/2017,"Satuna, Upper Kilmacud Rd, Dundrum Dublin 14",Dublin,800000.0,No,Dundrum,Dublin 14,q4,100%
+30/01/2017,"35 Ardglas, Dundrum, Dublin 16",Dublin,900000.0,No,Dundrum,Dublin 14,q4,100%
+30/01/2017,"Lisnaree, Upper Kilmacud Rd, Dundrum Dublin 14",Dublin,495000.0,No,Dundrum,Dublin 14,q3,70%
+31/01/2017,"27 Carmichael Hall, St Columbanus Rd, Dundrum",Dublin,240000.0,No,Dundrum,Dublin 14,q1,20%
+02/02/2017,"101 Barton Rd East, Dundrum, Dublin 14",Dublin,625000.0,No,Dundrum,Dublin 14,q4,90%
+03/02/2017,"83 The Holly, Rockfield, Dundrum",Dublin,335000.0,No,Dundrum,Dublin 14,q2,40%
+07/02/2017,"374 The Oak, Trimbleston, Dundrum",Dublin,475770.0,Yes,Dundrum,Dublin 14,q3,70%
+08/02/2017,"13 Taney Green, Taney Road, Dundrum",Dublin,718061.67,Yes,Dundrum,Dublin 14,q4,100%
+08/02/2017,"Carnac, 19 Silver Birches, Dundrum Dublin 14",Dublin,630000.0,No,Dundrum,Dublin 14,q4,90%
+09/02/2017,"4 An Cuileann, Mount Anville Rd, Dundrum Dublin 14",Dublin,401000.0,No,Dundrum,Dublin 14,q3,60%
+17/02/2017,"14 Clonard Close, Dundrum, Dublin 16",Dublin,592000.0,No,Dundrum,Dublin 14,q4,90%
+17/02/2017,"2 Taney Green, Taney Road, Dundrum",Dublin,854625.53,Yes,Dundrum,Dublin 14,q4,100%
+20/02/2017,"65 Hillview Grove, Dundrum, Dublin 16",Dublin,287500.0,No,Dundrum,Dublin 14,q1,30%
+22/02/2017,"14 Ophaly Court, Dundrum, Dublin 14",Dublin,436000.0,No,Dundrum,Dublin 14,q3,60%
+24/02/2017,"25 Balally Dr, Dundrum, Dublin 16",Dublin,795000.0,No,Dundrum,Dublin 14,q4,100%
+28/02/2017,"1 Willow Rd, Wyckham Park, Dundrum Dublin 14",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+02/03/2017,"27 Millmount Grove, Windy Arbour, Dundrum Dublin 14",Dublin,530000.0,No,Dundrum,Dublin 14,q3,80%
+09/03/2017,"5 Millmount Grove, Dundrum Rd, Dublin 14",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+14/03/2017,"37 Rosemount Est, Dundrum, Dublin 14",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+16/03/2017,"4 Taney Green, Taney Road, Dundrum",Dublin,748898.68,Yes,Dundrum,Dublin 14,q4,100%
+20/03/2017,"Chandos, Dundrum Rd, Milltown Dublin 14",Dublin,1750000.0,No,Dundrum,Dublin 14,q4,100%
+24/03/2017,"19 Dodder Bank, Dundrum Rd, Dublin 14",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+29/03/2017,"Apt 214 Wyckham Point, Wychham Way, Dundrum",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+30/03/2017,"2 St Columbanus Rd, Dundrum, Dublin 14",Dublin,353000.0,No,Dundrum,Dublin 14,q2,40%
+30/03/2017,"3 Taney Green, Taney Road, Dundrum",Dublin,854625.55,Yes,Dundrum,Dublin 14,q4,100%
+31/03/2017,"31 Millmount Grove, Dundrum, Dublin 14",Dublin,420500.0,No,Dundrum,Dublin 14,q3,60%
+12/04/2017,"23 Millmount Grove, Dundrum Rd, Dublin 16",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+13/04/2017,"122 Meadow Grove, Dundrum, Dublin 16",Dublin,520000.0,No,Dundrum,Dublin 14,q3,80%
+13/04/2017,"3 St Lukes Crescent, Dundrum Rd, Dublin 14",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+20/04/2017,"40 Acorn Rd, Wyckham Park, Dundrum Dublin 16",Dublin,580000.0,No,Dundrum,Dublin 14,q4,80%
+26/04/2017,"17 The Willow, Rockfield, Dundrum Dublin 14",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+28/04/2017,"218 Wyckham Point, Dundrum, Dublin 16",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+28/04/2017,"3 Frankfort Mews, Frankfort Park Dundrum, Dublin 14",Dublin,590000.0,No,Dundrum,Dublin 14,q4,90%
+02/05/2017,"5 Taney Green, Taney Road, Dundrum",Dublin,748898.68,Yes,Dundrum,Dublin 14,q4,100%
+04/05/2017,"An Coirneal, 17 Delbrook Manor, Dundrum Dublin 16",Dublin,1100000.0,No,Dundrum,Dublin 14,q4,100%
+05/05/2017,"Apt.3 - Hazelbrook, Upper Kilmacud Rd, Dundrum",Dublin,420000.0,No,Dundrum,Dublin 14,q3,60%
+10/05/2017,"7 Dundrum Court, Dundrum, Dublin 14",Dublin,235000.0,No,Dundrum,Dublin 14,q1,20%
+19/05/2017,"77 Rosemount Estate, Dundrum, Dublin 14",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+22/05/2017,"107 Barton Rd East, Dundrum, Dublin 14",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+23/05/2017,"1 Mulvey Crescent, Mulvey Park, Dundrum Dublin 14",Dublin,430000.0,No,Dundrum,Dublin 14,q3,60%
+25/05/2017,"Olivemount Villa, Olivemount Terrace, Dundrum Rd Dublin 14",Dublin,488000.0,No,Dundrum,Dublin 14,q3,70%
+30/05/2017,"22 The Holly, Rockfield, Dundrum Dublin 14",Dublin,262500.0,No,Dundrum,Dublin 14,q1,20%
+31/05/2017,"2 Ardnabel Grove, Olivemount Road, Dundrum",Dublin,453745.0,Yes,Dundrum,Dublin 14,q3,70%
+01/06/2017,"1 Ardnabel Grove, Olivemount Road, Dundrum",Dublin,497797.0,Yes,Dundrum,Dublin 14,q3,70%
+09/06/2017,"135 Holywell, Upper Kilmacud Rd, Dundrum Dublin 14",Dublin,568000.0,No,Dundrum,Dublin 14,q4,80%
+09/06/2017,"3 Ardnabel Grove, Olivemount Road, Dundrum",Dublin,427312.0,Yes,Dundrum,Dublin 14,q3,60%
+09/06/2017,"37 The Rowan, Riversdale, Dundrum Dublin 16",Dublin,280000.0,No,Dundrum,Dublin 14,q1,20%
+09/06/2017,"54 Sweetmount Ave, Dundrum, Dublin 14",Dublin,705000.0,No,Dundrum,Dublin 14,q4,100%
+16/06/2017,"112 Meadow Grove, Dundrum, Dublin 14",Dublin,580000.0,No,Dundrum,Dublin 14,q4,80%
+16/06/2017,"30 Sweetmount Park, Dundrum, Dublin",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+16/06/2017,"Apt 19, Dundrum Castle House, Dublin 14",Dublin,270000.0,No,Dundrum,Dublin 14,q1,20%
+20/06/2017,"Apt 44, Wyckham Place, Dundrum Dublin 16",Dublin,295600.0,No,Dundrum,Dublin 14,q1,30%
+26/06/2017,"141 Balally Dr, Dundrum, Dublin City",Dublin,625000.0,No,Dundrum,Dublin 14,q4,90%
+27/06/2017,"4 Millmount Terrace, Dundrum Rd, Dublin 14",Dublin,430000.0,No,Dundrum,Dublin 14,q3,60%
+02/07/2017,"13 Rosemount Est, Dundrum, Dublin 14",Dublin,455000.0,No,Dundrum,Dublin 14,q3,70%
+05/07/2017,"Apt 113 Wyckham Point, Wyckham Way, Dundrum",Dublin,277000.0,No,Dundrum,Dublin 14,q1,20%
+06/07/2017,"22 Ailesbury Lawn, Dundrum, Dublin 16",Dublin,660000.0,No,Dundrum,Dublin 14,q4,90%
+07/07/2017,"15 The Willow, Rockfield, Dundrum",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+07/07/2017,"2 Annaville Park, Dundrum, Dublin 14",Dublin,675500.0,No,Dundrum,Dublin 14,q4,90%
+10/07/2017,"52 Sweedmount Park, Dundrum, Dublin 14",Dublin,705000.0,No,Dundrum,Dublin 14,q4,100%
+14/07/2017,"78 Holywell, Upper Kilmacud Road, Dundrum",Dublin,542500.0,No,Dundrum,Dublin 14,q3,80%
+14/07/2017,"Ardnabel Lodge, Olivemount Road, Dundrum",Dublin,578854.62,Yes,Dundrum,Dublin 14,q4,80%
+17/07/2017,"4 Balally Hill, Dundrum, Dublin 16",Dublin,522000.0,No,Dundrum,Dublin 14,q3,80%
+19/07/2017,"35A Rosemount Est, Dundrum, Dublin 14",Dublin,528000.0,No,Dundrum,Dublin 14,q3,80%
+20/07/2017,"17 Creevagh House Apartments, Dundrum, Dublin 14",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+25/07/2017,"6 Eden Park Ave, Dundrum, Dublin",Dublin,630000.0,No,Dundrum,Dublin 14,q4,90%
+27/07/2017,"10 Mulvey Park, Dundrum, Dublin 14",Dublin,476000.0,No,Dundrum,Dublin 14,q3,70%
+31/07/2017,"22 Dun Emer Rd, Dundrum, Dublin 16",Dublin,615000.0,No,Dundrum,Dublin 14,q4,90%
+03/08/2017,"134 Southmede, Dundrum, Dublin 14",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+04/08/2017,"36 Balally Park, Dundrum, Dublin 16",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+08/08/2017,"135 Wedgewood Est, Dundrum, Dublin 16",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+16/08/2017,"Kenmay, Kilmacud Rd Upper, Dundrum Dublin 14",Dublin,750000.0,No,Dundrum,Dublin 14,q4,100%
+21/08/2017,"36 Hazelbrook, Upper Kilmacud Rd, Dundrum Dublin 14",Dublin,425000.0,No,Dundrum,Dublin 14,q3,60%
+22/08/2017,"20 Willow Bank, Dundrum, Dublin",Dublin,357000.0,No,Dundrum,Dublin 14,q2,40%
+23/08/2017,"15 Woodley Park, Dundrum, Dublin 14",Dublin,555000.0,No,Dundrum,Dublin 14,q4,80%
+23/08/2017,"24 Laurel Drive, Dundrum, Dublin 14",Dublin,800000.0,No,Dundrum,Dublin 14,q4,100%
+25/08/2017,"18 Ailesbury Lawn, Dundrum, Dublin 16",Dublin,675000.0,No,Dundrum,Dublin 14,q4,90%
+25/08/2017,"Mossvale, Dundrum, Dublin 14",Dublin,1000000.0,No,Dundrum,Dublin 14,q4,100%
+28/08/2017,"The Garth, Mount Anville Rd Dundrum, Dublin 14",Dublin,750000.0,No,Dundrum,Dublin 14,q4,100%
+31/08/2017,"111 Meadow Grove, Dundrum, Dublin 16",Dublin,643000.0,No,Dundrum,Dublin 14,q4,90%
+04/09/2017,"168 Meadow Mount, Dundrum, Dublin 16",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+04/09/2017,"Apt 198, Wyckham Point, Dundrum Dublin 16",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+05/09/2017,"98 Sweetmount Ave, Dunrum Heights, Dundrum Dublin 14",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+07/09/2017,"12 Altamont Hall, Stoney Rd, Dundrum",Dublin,330000.0,No,Dundrum,Dublin 14,q2,30%
+14/09/2017,"59 Dundrum Rd, Dundrum, Dublin 14",Dublin,191000.0,No,Dundrum,Dublin 14,q1,10%
+15/09/2017,"143 Mulvey Park, Dundrum, Dublin 14",Dublin,469000.0,No,Dundrum,Dublin 14,q3,70%
+22/09/2017,"23 Acorn Dr, Wyckham Park, Dundrum Dublin 16",Dublin,465000.0,No,Dundrum,Dublin 14,q3,70%
+25/09/2017,"9 Carmichael Hall, St Columbanus Rd, Dundrum Dublin 14",Dublin,352500.0,No,Dundrum,Dublin 14,q2,40%
+28/09/2017,"119 Mulvey Park, Dundrum, Dublin 14",Dublin,399950.0,No,Dundrum,Dublin 14,q2,50%
+02/10/2017,"20 Balally Dr, Dundrum, Dublin 16",Dublin,580000.0,No,Dundrum,Dublin 14,q4,80%
+04/10/2017,"249 Upper Kilmacud Rd, Dundrum, Dublin 14",Dublin,700000.0,No,Dundrum,Dublin 14,q4,100%
+04/10/2017,"57 Wyckham Place, Wyckham Way, Dundrum Dublin 16",Dublin,494000.0,No,Dundrum,Dublin 14,q3,70%
+05/10/2017,"2 Frankfort Castle, Frankfort, Dundrum Dublin 14",Dublin,1750000.0,No,Dundrum,Dublin 14,q4,100%
+05/10/2017,"Frankfort Lodge, Dundrum, Dublin",Dublin,1150000.0,No,Dundrum,Dublin 14,q4,100%
+10/10/2017,"48 The Rowan, Rockfield, Dundrum",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+10/10/2017,"6 Taney Court, Dundrum, Dublin 14",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+12/10/2017,"18 Highfield Park, Dundrum, Dublin 14",Dublin,500000.0,No,Dundrum,Dublin 14,q3,70%
+12/10/2017,"7 Annaville Grove, Dundrum, Dublin 14",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+14/10/2017,"78 Holywell, Upper Kilmacud Road, Dundrum",Dublin,542500.0,No,Dundrum,Dublin 14,q3,80%
+22/10/2017,"3 Sunnybank Court, Dundrum Rd, Dundrum Dublin 14",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+26/10/2017,"20 Ailesbury Grove, Dundrum, Dublin 16",Dublin,825000.0,No,Dundrum,Dublin 14,q4,100%
+26/10/2017,"St Annes, Sydenham Rd, Dundrum Dublin 14",Dublin,3600000.0,No,Dundrum,Dublin 14,q4,100%
+27/10/2017,"13 Ailesbury Lawn, Dundrum, Dublin 16",Dublin,842000.0,No,Dundrum,Dublin 14,q4,100%
+27/10/2017,"5 The Orchard, Sweetmount Ave, Dundrum Dublin 14",Dublin,482000.0,No,Dundrum,Dublin 14,q3,70%
+27/10/2017,"53 Taney Rd, Dundrum, Dublin 14",Dublin,960000.0,No,Dundrum,Dublin 14,q4,100%
+06/11/2017,"21 Millmount Grove, Dundrum Road, Dublin 14",Dublin,225000.0,No,Dundrum,Dublin 14,q1,10%
+08/11/2017,"46 Taney Rd, Dundrum, Dublin 14",Dublin,725000.0,No,Dundrum,Dublin 14,q4,100%
+08/11/2017,"53 Laurel Rd, Dundrum, Dublin 14",Dublin,620000.0,No,Dundrum,Dublin 14,q4,90%
+15/11/2017,"35 Ailesbury Lawn, Dundrum, Dublin 16",Dublin,585000.0,No,Dundrum,Dublin 14,q4,90%
+16/11/2017,"288 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,485000.0,No,Dundrum,Dublin 14,q3,70%
+20/11/2017,"15 Clonard Lawn, Dundrum, Dublin 16",Dublin,622500.0,No,Dundrum,Dublin 14,q4,90%
+20/11/2017,"48 Acorn Road, Wyckham Park, Dundrum",Dublin,662000.0,No,Dundrum,Dublin 14,q4,90%
+23/11/2017,"53 Balally Dr, Dundrum, Dublin 16",Dublin,540000.0,No,Dundrum,Dublin 14,q3,80%
+24/11/2017,"122 Meadow Grove, Dundrum, Dublin 16",Dublin,175000.0,No,Dundrum,Dublin 14,q1,10%
+28/11/2017,"41 Woodley Park, Dundrum, Dublin 14",Dublin,650000.0,No,Dundrum,Dublin 14,q4,90%
+28/11/2017,"Kenmay, Kilmacud Rd Upper, Dundrum Dublin 14",Dublin,50000.0,No,Dundrum,Dublin 14,q1,10%
+28/11/2017,"Kenmay, Kilmacud Rd Upper, Dundrum Dublin 14",Dublin,750000.0,No,Dundrum,Dublin 14,q4,100%
+30/11/2017,"1 Taney Green, Taney Road, Dundrum",Dublin,395264.0,Yes,Dundrum,Dublin 14,q2,50%
+30/11/2017,"11 Taney Green, Taney Road, Dundrum",Dublin,395264.0,Yes,Dundrum,Dublin 14,q2,50%
+30/11/2017,"46 Mount Carmel Rd, Dundrum, Dublin 14",Dublin,710000.0,No,Dundrum,Dublin 14,q4,100%
+01/12/2017,"35 Drummartin Road, Dundrum, Dublin 14",Dublin,625000.0,No,Dundrum,Dublin 14,q4,90%
+01/12/2017,"Apt 66 The Holly, Rockfield, Dundrum",Dublin,635000.0,No,Dundrum,Dublin 14,q4,90%
+05/12/2017,"59 Riverdale, Dundrum, Dublin 14",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+05/12/2017,"80 Rosemount Est, Dundrum Rd, Dublin 14",Dublin,395000.0,No,Dundrum,Dublin 14,q2,50%
+08/12/2017,"251 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,437000.0,No,Dundrum,Dublin 14,q3,60%
+11/12/2017,"16 Laurel Dr, Dundrum, Dublin 14",Dublin,520000.0,No,Dundrum,Dublin 14,q3,80%
+11/12/2017,"52 The Rowan, Rockfield, Dundrum",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+13/12/2017,"12 Ophaly Court, Dundrum, Dublin 14",Dublin,486000.0,No,Dundrum,Dublin 14,q3,70%
+14/12/2017,"14 Frankfort Court, Dundrum, Dublin 14",Dublin,590000.0,No,Dundrum,Dublin 14,q4,90%
+14/12/2017,"18 Balally Drive, Dundrum, Dublin 14",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+15/12/2017,"149 Barton Rd East, Dundrum, Dublin 14",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+20/12/2017,"33 Olivemount Rd, Dundrum, Dublin 14",Dublin,615000.0,No,Dundrum,Dublin 14,q4,90%
+21/12/2017,"24 Goatstown Rd, Dundrum, Dublin 14",Dublin,655000.0,No,Dundrum,Dublin 14,q4,90%
+21/12/2017,"8 Sydenham Rd, Dundrum, Dublin 14",Dublin,1150000.0,No,Dundrum,Dublin 14,q4,100%
+09/01/2018,"45 The Rowan, Rockfield, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+10/01/2018,"Greenwood, Dundrum, Co Dublin",Dublin,495000.0,No,Dundrum,Dublin 14,q3,70%
+15/01/2018,"62 The Oaks, Rockfield, Dundrum",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+22/01/2018,"12 The Elm, Rockfield, Dundrum Dublin 16",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+23/01/2018,"82 The Oaks, Rockfield, Dundrum Dublin 16",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+24/01/2018,"76 The Holly, Rockfield, Dundrum Dublin 14",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+25/01/2018,"23 Rosemount Park, Rosemount Estate, Dundrum Dublin 14",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+26/01/2018,"70 Balally Ave, Dundrum, Dublin 16",Dublin,590000.0,No,Dundrum,Dublin 14,q4,90%
+29/01/2018,"12 Balally Hill, Dundrum, Dublin 14",Dublin,627000.0,No,Dundrum,Dublin 14,q4,90%
+29/01/2018,"Shalom, 24 Ludford Park, Dundrum",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+30/01/2018,"21 Olivemount Grove, Dundrum, Dublin 14",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+02/02/2018,"4 Taney Wood, Taney Park, Dundrum",Dublin,969162.99,Yes,Dundrum,Dublin 14,q4,100%
+09/02/2018,"48 Mulvey Park, Dundrum, Dublin 14",Dublin,465000.0,No,Dundrum,Dublin 14,q3,70%
+09/02/2018,"The Lodge, Dundrum Rd, Dundrum",Dublin,550000.0,No,Dundrum,Dublin 14,q3,80%
+15/02/2018,"9 Kingston Crescent, Dundrum, Dublin 16",Dublin,700000.0,No,Dundrum,Dublin 14,q4,100%
+16/02/2018,"70 Southmead, Dundrum, Dublin 14",Dublin,455000.0,No,Dundrum,Dublin 14,q3,70%
+19/02/2018,"70 Weston Park, Dundrum, Dublin",Dublin,650000.0,No,Dundrum,Dublin 14,q4,90%
+22/02/2018,"41 College Park Ave, Dundrum, Dublin 16",Dublin,1050000.0,No,Dundrum,Dublin 14,q4,100%
+23/02/2018,"1 Belfort House, Sydenham Villas, Dundrum Dublin 14",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+23/02/2018,"15 Sommerville, Dundrum, Dublin 14",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+28/02/2018,"2 Pembroke Cottages, Dundrum, Dublin 14",Dublin,413000.0,No,Dundrum,Dublin 14,q3,60%
+28/02/2018,"St Ronans, Dundrum Rd, Dundrum Dublin 14",Dublin,568500.0,No,Dundrum,Dublin 14,q4,80%
+06/03/2018,"296 Wedgewood Est, Dundrum, Dublin 14",Dublin,395000.0,No,Dundrum,Dublin 14,q2,50%
+14/03/2018,"137 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,470000.0,No,Dundrum,Dublin 14,q3,70%
+14/03/2018,"25 The Willow, Rockfield, Dundrum Dublin 14",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+14/03/2018,"Apt 50 The Rowan, Rockfield, Dundrum Dublin 14",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+27/03/2018,"1 Acorn Rd, Dundrum, Dublin 14",Dublin,590000.0,No,Dundrum,Dublin 14,q4,90%
+28/03/2018,"15 Annaville Grove, Dundrum, Dublin 14",Dublin,500000.0,No,Dundrum,Dublin 14,q3,70%
+28/03/2018,"No 27 The Holly, Rockfield, Dundrum",Dublin,366000.0,No,Dundrum,Dublin 14,q2,40%
+05/04/2018,"103 Barton Rd East, Dundrum, Dublin 14",Dublin,275000.0,No,Dundrum,Dublin 14,q1,20%
+10/04/2018,"92 Balally Dr, Dundrum, Dublin 14",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+16/04/2018,"38 Wiilow Rd, Dundrum, Dublin 16",Dublin,495000.0,No,Dundrum,Dublin 14,q3,70%
+17/04/2018,"19 Altamont Hall, Stoney Road, Dundrum",Dublin,345000.0,No,Dundrum,Dublin 14,q2,40%
+20/04/2018,"1 Orchardton Mews, Sweetmount Ave, Dundrum",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+20/04/2018,"2 Orchardton Mews, Sweetmount Ave, Dundrum Dublin 14",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+20/04/2018,"276 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,476000.0,No,Dundrum,Dublin 14,q3,70%
+20/04/2018,"3 Orchardton Mews, Sweetmount Ave, Dundrum",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+20/04/2018,"4 Orchardton Mews, Sweetmount Ave, Dundrum Dublin 14",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+20/04/2018,"5 Orchardton Mews, Sweetmount Ave, Dundrum",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+20/04/2018,"6 Orchardstown Mews, Sweetmount Avenue, Dundrum",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+20/04/2018,"7 Orchardstown Mews, Sweetmount Ave, Dundrum",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+20/04/2018,"8 Orchardton Mews, Sweetmount Ave, Dundrum",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+23/04/2018,"18 Dun Emer Park, Dundrum, Dublin 16",Dublin,625000.0,No,Dundrum,Dublin 14,q4,90%
+27/04/2018,"65 Beech Lawn, Dundrum, Dublin 16",Dublin,440000.0,No,Dundrum,Dublin 14,q3,60%
+27/04/2018,"94 Wyckham Point, Dundrum, Dublin 16",Dublin,335000.0,No,Dundrum,Dublin 14,q2,40%
+30/04/2018,"128 Meadow Grove, Dundrum, Dublin 16",Dublin,505600.0,No,Dundrum,Dublin 14,q3,70%
+30/04/2018,"62 The Birch, Riversdale, Dundrum Dublin 14",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+01/05/2018,"Apt 41, Dundrum Gate, Dundrum Dublin 14",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+02/05/2018,"6 Sunnybank Court, Dundrum, Dublin 14",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+04/05/2018,"20 Sweetmount Park, Dundrum, Dublin 14",Dublin,590000.0,No,Dundrum,Dublin 14,q4,90%
+04/05/2018,"90 Rosemount, Dundrum, Dublin 14",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+11/05/2018,"12 Taney Court, Taney Rd, Dundrum Dublin 14",Dublin,335000.0,No,Dundrum,Dublin 14,q2,40%
+17/05/2018,"289 Wyckham Point, Dundrum, Dublin 14",Dublin,415000.0,No,Dundrum,Dublin 14,q3,60%
+17/05/2018,"Apt 121 Southmead, Ballintear Rd, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+18/05/2018,"21 Wesley Heights, Dundrum, Dublin 16",Dublin,740000.0,No,Dundrum,Dublin 14,q4,100%
+18/05/2018,"6 Balally Ave, Dundrum, Dublin 14",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+24/05/2018,"9 Millmount Grove, Windy Arbour, Dundrum Dublin 14",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+25/05/2018,"11 Dundrum Wood, Balinteer Road, Dundrum",Dublin,582221.0,No,Dundrum,Dublin 14,q4,90%
+25/05/2018,"87 The Holly, Rockfield, Dundrum",Dublin,500000.0,No,Dundrum,Dublin 14,q3,70%
+28/05/2018,"15 Beech Lawn, Dundrum, Dublin 16",Dublin,595000.0,No,Dundrum,Dublin 14,q4,90%
+30/05/2018,"204 Wyckham Point, Dundrum, Dublin 16",Dublin,505000.0,No,Dundrum,Dublin 14,q3,70%
+01/06/2018,"10 Mount Carmel Ave, Roebuck Park, Dundrum Dublin 14",Dublin,604000.0,No,Dundrum,Dublin 14,q4,90%
+01/06/2018,"29 Millmount Grove, Dundrum, Dublin 14",Dublin,283162.5,No,Dundrum,Dublin 14,q1,20%
+04/06/2018,"6 Dromartin Castle, Birches Lane, Dundrum",Dublin,350000.0,No,Dundrum,Dublin 14,q2,40%
+05/06/2018,"26 Balally Ave, Dundrum, Dublin 16",Dublin,540000.0,No,Dundrum,Dublin 14,q3,80%
+05/06/2018,"Apt 74, Wyckham Point, Dundrum Dublin 16",Dublin,327750.0,No,Dundrum,Dublin 14,q2,30%
+07/06/2018,"11 Balally Dr, Dundrum, Dublin 16",Dublin,675000.0,No,Dundrum,Dublin 14,q4,90%
+07/06/2018,"133 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,490000.0,No,Dundrum,Dublin 14,q3,70%
+11/06/2018,"214 Lower Kilmacud Rd, Dundrum, Dublin 14",Dublin,622000.0,No,Dundrum,Dublin 14,q4,90%
+11/06/2018,"6 Annaville Park, Dundrum Rd, Dublin 14",Dublin,720000.0,No,Dundrum,Dublin 14,q4,100%
+13/06/2018,"103 The Oaks, Rockfield, Dundrum Dublin 14",Dublin,500000.0,No,Dundrum,Dublin 14,q3,70%
+13/06/2018,"34 Pine Copse Rd, Wyckham, Dundrum Dublin 14",Dublin,596000.0,No,Dundrum,Dublin 14,q4,90%
+15/06/2018,"51 Wyckham Place, Dundrum, Dublin 16",Dublin,580000.0,No,Dundrum,Dublin 14,q4,80%
+20/06/2018,"33 Dun Emer Drive, Dundrum, Dublin 16",Dublin,389109.0,No,Dundrum,Dublin 14,q2,50%
+20/06/2018,"Apt 71 Southmede, Dundrum, Dublin",Dublin,435000.0,No,Dundrum,Dublin 14,q3,60%
+20/06/2018,"Rosemount Cottage, Dundrum Rd, Dublin 14",Dublin,1083000.0,No,Dundrum,Dublin 14,q4,100%
+27/06/2018,"30 Wyckham Place, Wyckham Bypass, Dundrum Dublin 16",Dublin,376000.0,No,Dundrum,Dublin 14,q2,50%
+29/06/2018,"19 Millmount Terrace, Main Dundrum Road, Dublin 14",Dublin,250000.0,No,Dundrum,Dublin 14,q1,20%
+29/06/2018,"4 Pine Copse Rd, Wyckham Park, Dundrum Dublin 14",Dublin,575000.0,No,Dundrum,Dublin 14,q4,80%
+29/06/2018,"95 Beech Lawn, Dundrum, Dublin 16",Dublin,670000.0,No,Dundrum,Dublin 14,q4,90%
+03/07/2018,"Apt 123, Wyckham Point, Dundrum Dublin 14",Dublin,432500.0,No,Dundrum,Dublin 14,q3,60%
+06/07/2018,"116 Mulvey Park, Dundrum, Dublin 14",Dublin,489000.0,No,Dundrum,Dublin 14,q3,70%
+09/07/2018,"38 Castlebrook, Dundrum Dublin 14, Dublin",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+12/07/2018,"17 Mulvey Park, Dundrum, Dublin 14",Dublin,580000.0,No,Dundrum,Dublin 14,q4,80%
+17/07/2018,"51 The Oak, Rockfield, Dundrum",Dublin,650000.0,No,Dundrum,Dublin 14,q4,90%
+17/07/2018,"91 Beech Lawn, Dundrum, Dublin 16",Dublin,625000.0,No,Dundrum,Dublin 14,q4,90%
+19/07/2018,"108 Wyckham Point, Wyckham Way, Dundrum",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+23/07/2018,"149 Mulvey Park, Dundrum Rd, Dublin 14",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+27/07/2018,"26 Balally Park, Dundrum, Dublin 16",Dublin,657500.0,No,Dundrum,Dublin 14,q4,90%
+30/07/2018,"10 Ophaly Court, Dundrum, Dublin 14",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+30/07/2018,"55 The Birch, Riversdale, Dundrum Dublin 16",Dublin,420000.0,No,Dundrum,Dublin 14,q3,60%
+30/07/2018,"Palmyra, Silver Birches, Dundrum Dublin 14",Dublin,870000.0,No,Dundrum,Dublin 14,q4,100%
+01/08/2018,"14 The Holly, Rockfield, Dundrum",Dublin,392500.0,No,Dundrum,Dublin 14,q2,50%
+01/08/2018,"286 Wyckham Point, Dundrum, Dublin 16",Dublin,338000.0,No,Dundrum,Dublin 14,q2,40%
+02/08/2018,"39 The Willow, Rockfield, Dundrum",Dublin,398000.0,No,Dundrum,Dublin 14,q2,50%
+03/08/2018,"10 Sunnybank Court, Dundrum, Dublin 14",Dublin,314000.0,No,Dundrum,Dublin 14,q2,30%
+08/08/2018,"49 Beechlawn, Dundrum, Dublin 16",Dublin,485000.0,No,Dundrum,Dublin 14,q3,70%
+08/08/2018,"50 Mulvey Park, Dundrum Rd, Dublin 14",Dublin,425000.0,No,Dundrum,Dublin 14,q3,60%
+10/08/2018,"14 Beech Drive, Dundrum, Dublin 16",Dublin,840000.0,No,Dundrum,Dublin 14,q4,100%
+10/08/2018,"19 Clonard Park, Dundrum, Dublin 16",Dublin,650000.0,No,Dundrum,Dublin 14,q4,90%
+13/08/2018,"1 Alexandra Villas, Dundrum, Co Dublin",Dublin,550000.0,No,Dundrum,Dublin 14,q3,80%
+13/08/2018,"28 Dun Emer Rd, Dundrum, Dublin 16",Dublin,675000.0,No,Dundrum,Dublin 14,q4,90%
+13/08/2018,"43 Balally Ave, Dundrum, Dublin 16",Dublin,585000.0,No,Dundrum,Dublin 14,q4,90%
+14/08/2018,"43 Dodder Bank, Dundrum Rd, Dublin 14",Dublin,670000.0,No,Dundrum,Dublin 14,q4,90%
+16/08/2018,"9 The Linden, Riverdale, Dundrum Dublin 16",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+17/08/2018,"160 Meadow Grove, Dundrum, Dublin 16",Dublin,805500.0,No,Dundrum,Dublin 14,q4,100%
+17/08/2018,"49 Sweetmount Ave, Dundrum, Dublin 14",Dublin,535000.0,No,Dundrum,Dublin 14,q3,80%
+20/08/2018,"Sorrento, Dundrum Rd, Dundrum Dublin 14",Dublin,817233.0,No,Dundrum,Dublin 14,q4,100%
+23/08/2018,"77 Sweetmount Ave, Dundrum, Dublin 14",Dublin,685000.0,No,Dundrum,Dublin 14,q4,90%
+24/08/2018,"26 Ailesbury Grove, Dundrum, Dublin 16",Dublin,735000.0,No,Dundrum,Dublin 14,q4,100%
+28/08/2018,"37 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,397500.0,No,Dundrum,Dublin 14,q2,50%
+29/08/2018,"34 Millmount Grove, Dundrum, Dublin 14",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+05/09/2018,"27 Balally Park, Dundrum, Dublin 16",Dublin,275000.0,No,Dundrum,Dublin 14,q1,20%
+07/09/2018,"20 Frankfort Park, Dundrum, Dublin 18",Dublin,980000.0,No,Dundrum,Dublin 14,q4,100%
+07/09/2018,"29 Highfield Park, Dundrum, Dublin 14",Dublin,610000.0,No,Dundrum,Dublin 14,q4,90%
+07/09/2018,"Drumahill, Kilmacud Rd Upper, Dundrum Dublin 14",Dublin,2100000.0,No,Dundrum,Dublin 14,q4,100%
+10/09/2018,"17 Wyckham Park Rd, Dundrum, Dublin 16",Dublin,800000.0,No,Dundrum,Dublin 14,q4,100%
+10/09/2018,"25 Balally Dr, Dundrum, Dublin 16",Dublin,910000.0,No,Dundrum,Dublin 14,q4,100%
+14/09/2018,"40 College Park Way, Dundrum, Dublin 16",Dublin,527500.0,No,Dundrum,Dublin 14,q3,80%
+18/09/2018,"45 The Oaks, Rockfield, Dundrum Dublin 14",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+19/09/2018,"88 The Holly, Rockfield, Dundrum",Dublin,705000.0,No,Dundrum,Dublin 14,q4,100%
+21/09/2018,"33 The Blackthorn, Riverdale, Dundrum Dublin 14",Dublin,432000.0,No,Dundrum,Dublin 14,q3,60%
+21/09/2018,"37 The Rowan, Riversdale, Dundrum Dublin 16",Dublin,302526.53,No,Dundrum,Dublin 14,q1,30%
+27/09/2018,"40 Mulvey Park, Windy Arbour, Dundrum Dublin 14",Dublin,430000.0,No,Dundrum,Dublin 14,q3,60%
+01/10/2018,"27 Sommerville, Dundrum, Dublin 14",Dublin,606000.0,No,Dundrum,Dublin 14,q4,90%
+04/10/2018,"17 The Elm, Rockfield, Dundrum",Dublin,625000.0,No,Dundrum,Dublin 14,q4,90%
+04/10/2018,"18 The Elm, Rockfield, Dundrum",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+05/10/2018,"5 Orchardton Mews, Sweetmount Ave, Dundrum",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+05/10/2018,"66 Ailesbury Grove, Dundrum, Dublin 14",Dublin,1037500.0,No,Dundrum,Dublin 14,q4,100%
+10/10/2018,"36 College Park Way, Dundrum, Dublin 16",Dublin,515000.0,No,Dundrum,Dublin 14,q3,80%
+11/10/2018,"9 Olivemount Grove, Dundrum Rd, Dublin 14",Dublin,495000.0,No,Dundrum,Dublin 14,q3,70%
+12/10/2018,"2 Orchardton Mews, Sweetmount Ave, Dundrum Dublin 14",Dublin,455000.0,No,Dundrum,Dublin 14,q3,70%
+12/10/2018,"60 Dundrum Gate, Dundrum, Dublin 14",Dublin,392000.0,No,Dundrum,Dublin 14,q2,50%
+24/10/2018,"10 Altamont Hall, Stoney Rd, Dundrum",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+25/10/2018,"Apt 27 Ashgrove, Ashgrove Court, Dundrum",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+31/10/2018,"45 Southmede, Dundrum, Dublin 14",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+01/11/2018,"33 The Holly, Rockfield, Dundrum Dublin 16",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+02/11/2018,"2 Alexandra Terrace, Dundrum, Dublin 14",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+07/11/2018,"6 Orchardstown Mews, Sweetmount Avenue, Dundrum",Dublin,448200.0,No,Dundrum,Dublin 14,q3,60%
+08/11/2018,"24 The Linden, Riversdale, Dundrum",Dublin,345000.0,No,Dundrum,Dublin 14,q2,40%
+12/11/2018,"180 Barton Rd East, Dundrum, Dublin 14",Dublin,684000.0,No,Dundrum,Dublin 14,q4,90%
+14/11/2018,"44 Sommerville, Dundrum, Dublin 14",Dublin,517000.0,No,Dundrum,Dublin 14,q3,80%
+14/11/2018,"5 Victoria Terrace, Dundrum, Dublin 14",Dublin,345000.0,No,Dundrum,Dublin 14,q2,40%
+20/11/2018,"32 Willow Rd, Dundrum, Dublin 14",Dublin,550000.0,No,Dundrum,Dublin 14,q3,80%
+21/11/2018,"42 Llewellyn Grove, Dundrum, Dublin",Dublin,429000.0,No,Dundrum,Dublin 14,q3,60%
+22/11/2018,"10 Sweetmount Dr, Dundrum, Dublin 14",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+22/11/2018,"40 Westbrook Rd, Dundrum, Dublin 14",Dublin,267500.0,No,Dundrum,Dublin 14,q1,20%
+04/12/2018,"180 Wyckham Point, Dundrum, Dublin",Dublin,340000.0,No,Dundrum,Dublin 14,q2,40%
+05/12/2018,"104 The Oaks, Rockfield, Dundrum",Dublin,625000.0,No,Dundrum,Dublin 14,q4,90%
+06/12/2018,"228 Wyckham Point, Dundrum, Dublin 16",Dublin,432000.0,No,Dundrum,Dublin 14,q3,60%
+07/12/2018,"63 Balally Dr, Dundrum, Dublin 16",Dublin,725000.0,No,Dundrum,Dublin 14,q4,100%
+10/12/2018,"28 Altamount Hall, Stoney Rd, Dundrum",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+11/12/2018,"20 Holywell, Upper Kilmacud Rd, Dundrum Dublin 14",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+12/12/2018,"13 The Linden, Riversdale, Dundrum",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+14/12/2018,"10 The Elm, Rockfield, Dundrum",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+14/12/2018,"5 Hawthorn Dr, Wyckham Park, Dundrum",Dublin,635000.0,No,Dundrum,Dublin 14,q4,90%
+17/12/2018,"3 Orchardton Mews, Sweetmount Ave, Dundrum",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+17/12/2018,"89 Wyckham Place, Dundrum, Dublin 14",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+18/12/2018,"25 Olivemount Grove, Dundrum, Dublin 14",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+19/12/2018,"Riverdale, Dundrum, Dublin 14",Dublin,40000.0,No,Dundrum,Dublin 14,q1,10%
+19/12/2018,"Riverdale, Dundrum, Dublin 14",Dublin,550000.0,No,Dundrum,Dublin 14,q3,80%
+20/12/2018,"116 Sweetmount Ave, Dundrum, Dublin 14",Dublin,590000.0,No,Dundrum,Dublin 14,q4,90%
+20/12/2018,"31 The Oaks, Rockfield, Dundrum Dublin 16",Dublin,387500.0,No,Dundrum,Dublin 14,q2,50%
+07/01/2019,"Lisheen, Dundrum Rd, Dundrum Dublin 14",Dublin,485000.0,No,Dundrum,Dublin 14,q3,70%
+08/01/2019,"24 Sycamore Rd, Dundrum, Dublin 16",Dublin,585000.0,No,Dundrum,Dublin 14,q4,90%
+10/01/2019,"41 The Holly, Rockfield, Dundrum Dublin 14",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+17/01/2019,"13 Alexandra Court, Woodline Terrace, Dundrum Dublin 14",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+17/01/2019,"8 Frankfort Court, Dundrum, Dublin 14",Dublin,505000.0,No,Dundrum,Dublin 14,q3,70%
+22/01/2019,"229 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,342000.0,No,Dundrum,Dublin 14,q2,40%
+24/01/2019,"20 Balally Park, Dundrum, Dublin 16",Dublin,525000.0,No,Dundrum,Dublin 14,q3,80%
+31/01/2019,"12 Taney Rd, Dundrum, Dublin 14",Dublin,811500.0,No,Dundrum,Dublin 14,q4,100%
+01/02/2019,"138 Wyckham Point, Wyckham Way, Dundrum Dublin 14",Dublin,470000.0,No,Dundrum,Dublin 14,q3,70%
+01/02/2019,"86 The Holly, Rockfield, Dundrum Dublin 16",Dublin,405000.0,No,Dundrum,Dublin 14,q3,60%
+04/02/2019,"62 Churchfields, Dundrum Rd, Milltown",Dublin,515000.0,No,Dundrum,Dublin 14,q3,80%
+05/02/2019,"9 Finsbury Green, Dundrum, Dublin 14",Dublin,545000.0,No,Dundrum,Dublin 14,q3,80%
+14/02/2019,"8 Old Rectory Park, Taney Rd, Dundrum Dublin 14",Dublin,633000.0,No,Dundrum,Dublin 14,q4,90%
+18/02/2019,"15 College Park Way, Dundrum, Dublin 16",Dublin,537500.0,No,Dundrum,Dublin 14,q3,80%
+21/02/2019,"52 The Oak, Rockfield, Dundrum",Dublin,660000.0,No,Dundrum,Dublin 14,q4,90%
+22/02/2019,"89 Rosemount Est, Dundrum, Dublin 14",Dublin,390000.0,No,Dundrum,Dublin 14,q2,50%
+26/02/2019,"250 Wyckham Point, Dundrum, Dublin 14",Dublin,344500.0,No,Dundrum,Dublin 14,q2,40%
+06/03/2019,"32 Rosemount Park, Dundrum, Dublin 14",Dublin,525000.0,No,Dundrum,Dublin 14,q3,80%
+07/03/2019,"34A Rosemount Est, Dundrum, Dublin 14",Dublin,482000.0,No,Dundrum,Dublin 14,q3,70%
+14/03/2019,"'Overend View', 1 Upper Killmacud Road, Dundrum",Dublin,800000.0,No,Dundrum,Dublin 14,q4,100%
+15/03/2019,"Apt 181, Wyckham Point, Dundrum Dublin 16",Dublin,435000.0,No,Dundrum,Dublin 14,q3,60%
+19/03/2019,"4  Orchardton  Mews, Sweetmount  Avenue, Dundrum",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+21/03/2019,"18 Milltown Grove Apts, Milltown Bridge, Dundrum Rd Dublin 14",Dublin,407500.0,No,Dundrum,Dublin 14,q3,60%
+21/03/2019,"67 The Birch, Riverdale, Dundrum",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+23/03/2019,"27 Balally Hill, Dundrum, Dublin 16",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+26/03/2019,"8 Orchardton Mews, Sweetmount Ave, Dundrum",Dublin,465000.0,No,Dundrum,Dublin 14,q3,70%
+29/03/2019,"75 The Holly, Rockfield Dundrum, Dublin 14",Dublin,405000.0,No,Dundrum,Dublin 14,q3,60%
+01/04/2019,"21 Mulvey Park, Dundrum, Dublin",Dublin,492500.0,No,Dundrum,Dublin 14,q3,70%
+02/04/2019,"12 Harlech Crescent, Roebuck Rd, Dundrum Dublin 14",Dublin,695000.0,No,Dundrum,Dublin 14,q4,100%
+02/04/2019,"26 St Columbanus Rd, Windy Arbour, Dundrum Dublin 14",Dublin,445000.0,No,Dundrum,Dublin 14,q3,60%
+04/04/2019,"61 Balally Ave, Dundrum, Dublin 14",Dublin,530000.0,No,Dundrum,Dublin 14,q3,80%
+19/04/2019,"59 Riverdale, Dundrum, Dublin 14",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+24/04/2019,"32 Millmount Grove, Dundrum, Dublin 14",Dublin,12500.0,No,Dundrum,Dublin 14,q1,10%
+26/04/2019,"26 The Willow, Rockfield, Dundrum",Dublin,410000.0,No,Dundrum,Dublin 14,q3,60%
+29/04/2019,"55 Wyckham Place, Dundrum, Dublin 16",Dublin,570000.0,No,Dundrum,Dublin 14,q4,80%
+29/04/2019,"6 Mount Carmel Ave, Dundrum, Dublin 14",Dublin,723000.0,No,Dundrum,Dublin 14,q4,100%
+30/04/2019,"27 The Blackthorn, Riversdale, Dundrum Dublin 14",Dublin,397000.0,No,Dundrum,Dublin 14,q2,50%
+30/04/2019,"41 The Oaks, Rockfield, Dundrum Dublin 14",Dublin,320000.0,No,Dundrum,Dublin 14,q2,30%
+01/05/2019,"53 Sweetmount Park, Dundrum, Dublin 14",Dublin,645000.0,No,Dundrum,Dublin 14,q4,90%
+03/05/2019,"57 The Oak, Rockfield, Dundrum",Dublin,392000.0,No,Dundrum,Dublin 14,q2,50%
+09/05/2019,"28 Farren Boley Park, Dundrum, Dublin 14",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+13/05/2019,"9 The Linden, Riverdale, Dundrum Dublin 16",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+15/05/2019,"14 Annaville Grove, Dundrum, Dublin 14",Dublin,450000.0,No,Dundrum,Dublin 14,q3,60%
+16/05/2019,"61 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+17/05/2019,"131 Weston Park, Dundrum, Dublin 14",Dublin,695000.0,No,Dundrum,Dublin 14,q4,100%
+20/05/2019,"42 The Rowan, Rockfield, Dundrum",Dublin,365000.0,No,Dundrum,Dublin 14,q2,40%
+21/05/2019,"133 Weston Park, Dundrum, Dublin 14",Dublin,785000.0,No,Dundrum,Dublin 14,q4,100%
+24/05/2019,"52 Beech Lawn, Dundrum",Dublin,500000.0,No,Dundrum,Dublin 14,q3,70%
+27/05/2019,"67 Lynwood, Dundrum, Dublin 16",Dublin,665000.0,No,Dundrum,Dublin 14,q4,90%
+28/05/2019,"95 The Oaks, Rockfield, Dundrum Dublin 14",Dublin,414000.0,No,Dundrum,Dublin 14,q3,60%
+07/06/2019,"12 The Willow, Rockfield, Dundrum",Dublin,380000.0,No,Dundrum,Dublin 14,q2,50%
+07/06/2019,"96 Sweetmount Ave, Dundrum, Dublin 14",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+13/06/2019,"27 Sweetmount Ave, Dundrum, Dublin 14",Dublin,695000.0,No,Dundrum,Dublin 14,q4,100%
+14/06/2019,"14 Drummartin Park, Dundrum, Dublin 14",Dublin,550000.0,No,Dundrum,Dublin 14,q4,80%
+17/06/2019,"32 College Park Way, Dundrum Dublin 16, Dublin",Dublin,610000.0,No,Dundrum,Dublin 14,q4,90%
+18/06/2019,"39 Meadowmount, Dundrum, Dublin 14",Dublin,896000.0,No,Dundrum,Dublin 14,q4,100%
+18/06/2019,"8 Sweetmount Dr, Dundrum, Dublin 14",Dublin,630000.0,No,Dundrum,Dublin 14,q4,90%
+20/06/2019,"13 Altamont Hall, Stoney Rd, Dundrum",Dublin,385000.0,No,Dundrum,Dublin 14,q2,50%
+24/06/2019,"89A Rosemount Est, Dundrum, Dublin 14",Dublin,435000.0,No,Dundrum,Dublin 14,q3,60%
+26/06/2019,"43 Balally Ave, Dundrum, Dublin 16",Dublin,563000.0,No,Dundrum,Dublin 14,q4,80%
+26/06/2019,"7 Orchardstown Mews, Sweetmount Ave, Dundrum",Dublin,480000.0,No,Dundrum,Dublin 14,q3,70%
+27/06/2019,"97A Highfield Park, Dundrum, Dublin 14",Dublin,1450000.0,No,Dundrum,Dublin 14,q4,100%
+28/06/2019,"48 The Blackthorn, Riversdale, Dundrum",Dublin,607500.0,No,Dundrum,Dublin 14,q4,90%
+28/06/2019,"Apt 36 The Oaks, Rockfield, Dundrum Dublin 14",Dublin,400000.0,No,Dundrum,Dublin 14,q2,50%
+01/07/2019,"8 Alexandra Terrace, Dundrum, Dublin 14",Dublin,371000.0,No,Dundrum,Dublin 14,q2,50%
+03/07/2019,"68 The Birch, Riverdale, Dundrum",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+04/07/2019,"133 Meadow Grove, Dundrum, Dublin 16",Dublin,540000.0,No,Dundrum,Dublin 14,q3,80%
+04/07/2019,"82 Rosemount Estate, Dundrum, Dublin 14",Dublin,210000.0,No,Dundrum,Dublin 14,q1,10%
+05/07/2019,"1 Orchardton Mews, Sweetmount Ave, Dundrum",Dublin,475000.0,No,Dundrum,Dublin 14,q3,70%
+05/07/2019,"112 Barton Rd East, Dundrum, Dublin 14",Dublin,560000.0,No,Dundrum,Dublin 14,q4,80%
+05/07/2019,"45 Castlebrook, Dundrum, Dublin 16",Dublin,522500.0,No,Dundrum,Dublin 14,q3,80%
+10/07/2019,"49 Woodley Park, Dundrum, Dublin 14",Dublin,615000.0,No,Dundrum,Dublin 14,q4,90%
+11/07/2019,"65 Wedgewood, Dundrum, Dublin 16",Dublin,412500.0,No,Dundrum,Dublin 14,q3,60%
+12/07/2019,"16 Creevagh House, Dundrum, Dublin 14",Dublin,265000.0,No,Dundrum,Dublin 14,q1,20%
+16/07/2019,"178 Meadow Grove, Dundrum, Dublin 16",Dublin,713500.0,No,Dundrum,Dublin 14,q4,100%
+17/07/2019,"77 The Oak, Rockfield, Dundrum",Dublin,630000.0,No,Dundrum,Dublin 14,q4,90%
+19/07/2019,"12 Clonard Park, Dundrum, Dublin 16",Dublin,755000.0,No,Dundrum,Dublin 14,q4,100%
+19/07/2019,"6 Taney Rd, Dundrum, Dublin 14",Dublin,977675.0,No,Dundrum,Dublin 14,q4,100%
+24/07/2019,"15 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,372000.0,No,Dundrum,Dublin 14,q2,50%
+24/07/2019,"43 The Holly, Rockfield, Dundrum Dublin 16",Dublin,649000.0,No,Dundrum,Dublin 14,q4,90%
+25/07/2019,"23 Balally Park, Dundrum, Dublin 16",Dublin,685000.0,No,Dundrum,Dublin 14,q4,90%
+25/07/2019,"34 Frankfort Park, Dundrum, Dublin 4",Dublin,630000.0,No,Dundrum,Dublin 14,q4,90%
+30/07/2019,"25 The Oaks, Rockfield, Dundrum",Dublin,600000.0,No,Dundrum,Dublin 14,q4,90%
+31/07/2019,"22 Annaville Park, Dundrum, Dublin 14",Dublin,850000.0,No,Dundrum,Dublin 14,q4,100%
+31/07/2019,"27 Olivemount Rd, Dundrum, Dublin 14",Dublin,623500.0,No,Dundrum,Dublin 14,q4,90%
+02/08/2019,"24 Annaville Park, Dundrum, Dublin 14",Dublin,740000.0,No,Dundrum,Dublin 14,q4,100%
+06/08/2019,"130 Holywell, Upper Kilmacud Road, Dundrum",Dublin,525000.0,No,Dundrum,Dublin 14,q3,80%
+06/08/2019,"3 Hawthorn Dr, Wyckham Park, Dundrum Dublin 16",Dublin,660000.0,No,Dundrum,Dublin 14,q4,90%
+08/08/2019,"108 Sweetmount Ave, Dundrum, Dublin 14",Dublin,675000.0,No,Dundrum,Dublin 14,q4,90%
+08/08/2019,"12 Taney Green, Taney Road, Dundrum",Dublin,875000.0,No,Dundrum,Dublin 14,q4,100%
+09/08/2019,"91 Wyckham Point, Wyckham Way, Dundrum Dublin 16",Dublin,425000.0,No,Dundrum,Dublin 14,q3,60%
+14/08/2019,"3 The Linden, Riverdale, Dundrum Dublin 14",Dublin,370000.0,No,Dundrum,Dublin 14,q2,50%
+14/08/2019,"67 Rosemount Est, Dundrum, Dublin 16",Dublin,461500.0,No,Dundrum,Dublin 14,q3,70%
+15/08/2019,"166Wyckham Point, Dundrum, Dublin 18",Dublin,397500.0,No,Dundrum,Dublin 14,q2,50%
+15/08/2019,"Apt 35 The Holly, Rockfield, Dundrum",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+16/08/2019,"8 Alexandra Court, Dundrum, Dublin 16",Dublin,285000.0,No,Dundrum,Dublin 14,q1,30%
+16/08/2019,"Apt 14, Dundrum Gate, Dundrum Dublin 14",Dublin,375000.0,No,Dundrum,Dublin 14,q2,50%
+22/08/2019,"194 Barton Rd East, Dundrum, Dublin 14",Dublin,470000.0,No,Dundrum,Dublin 14,q3,70%
+23/08/2019,"116 Wyckham Point, Dundrum, Dublin 14",Dublin,395000.0,No,Dundrum,Dublin 14,q2,50%
+23/08/2019,"65 Hillview Grove, Dundrum, Dublin 16",Dublin,315000.0,No,Dundrum,Dublin 14,q2,30%
+02/09/2019,"9 Meadow Close, Dundrum, Dublin 16",Dublin,521700.0,No,Dundrum,Dublin 14,q3,80%
+04/09/2019,"7 The Orchard, Sweetmount Ave, Dundrum Dublin 14",Dublin,452500.0,No,Dundrum,Dublin 14,q3,70%
+04/09/2019,"Ivisa, 52 Ardglas, Dundrum Dublin 16",Dublin,815000.0,No,Dundrum,Dublin 14,q4,100%
+05/09/2019,"21 Annaville Park, Dundrum, Dublin 14",Dublin,643000.0,No,Dundrum,Dublin 14,q4,90%
+05/09/2019,"22 Laurel Dr, Dundrum, Dublin 14",Dublin,755000.0,No,Dundrum,Dublin 14,q4,100%
+05/09/2019,"5 Ophaly Court, Dundrum, Dublin 14",Dublin,436000.0,No,Dundrum,Dublin 14,q3,60%
+06/09/2019,"44 Southmede, Dundrum, Dublin 14",Dublin,300000.0,No,Dundrum,Dublin 14,q1,30%
+06/09/2019,"8 Acorn Rd, Wyckham Park, Dundrum Dublin 16",Dublin,527000.0,No,Dundrum,Dublin 14,q3,80%
+11/09/2019,"134 Taney Crescent, Dundrum, Dublin 14",Dublin,635000.0,No,Dundrum,Dublin 14,q4,90%
+11/09/2019,"6 Sweetmount Mews, Sweetmount Ave, Dundrum Dublin 14",Dublin,412000.0,No,Dundrum,Dublin 14,q3,60%
+25/09/2019,"46 Rosemount Est, Dundrum, Dublin 14",Dublin,485000.0,No,Dundrum,Dublin 14,q3,70%
+27/09/2019,"16 Balally Park, Dundrum, Dublin 14",Dublin,800000.0,No,Dundrum,Dublin 14,q4,100%
+27/09/2019,"32 Millmount Grove, Dundrum, Dublin 14",Dublin,360000.0,No,Dundrum,Dublin 14,q2,40%
+03/10/2019,"149 Barton Rd East, Dundrum, Dublin 14",Dublin,590000.0,No,Dundrum,Dublin 14,q4,90%
+04/10/2019,"12 Dun Emer Park, Dundrum, Dublin 16",Dublin,700000.0,No,Dundrum,Dublin 14,q4,100%
+09/10/2019,"25 Taney Rise, Dundrum, Dublin 14",Dublin,267500.0,No,Dundrum,Dublin 14,q1,20%
+11/10/2019,"44A Balally Park, Dundrum, Dublin 16",Dublin,515000.0,No,Dundrum,Dublin 14,q3,80%
+16/10/2019,"25 Beech Lawn, Dundrum, Dublin 16",Dublin,638000.0,No,Dundrum,Dublin 14,q4,90%

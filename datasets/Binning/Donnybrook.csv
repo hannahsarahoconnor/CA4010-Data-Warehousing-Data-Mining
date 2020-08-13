@@ -1,0 +1,781 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+16/02/2010,"5 Belmont Villas, Belmont Avenue, Donnybrook",Dublin,689000.0,No,Donnybrook,Dublin 4,q3,70%
+26/02/2010,"50 Beech Hill Avenue, Donnybrook, Dublin 4",Dublin,362000.0,No,Donnybrook,Dublin 4,q1,30%
+26/02/2010,"88 Marlborough Road, Donnybrook",Dublin,1200000.0,No,Donnybrook,Dublin 4,q4,90%
+26/02/2010,"Lisalea, 5 B Airfield Court, Donnybrook",Dublin,1550001.0,No,Donnybrook,Dublin 4,q4,90%
+11/03/2010,"7 Edward Square, Donnybrook",Dublin,1196953.0,Yes,Donnybrook,Dublin 4,q4,90%
+11/03/2010,"Swanbrook Cottage, Bloomfield Avenue, Donnybrook",Dublin,530000.0,No,Donnybrook,Dublin 4,q2,50%
+28/04/2010,"13 Argyle Road, Donnybrook",Dublin,2011999.99,No,Donnybrook,Dublin 4,q4,100%
+27/05/2010,"84 Bloomfield Park, Donnybrook",Dublin,317000.0,No,Donnybrook,Dublin 4,q1,20%
+13/06/2010,"106 Bloomfield Park, Donnybrook",Dublin,274636.0,Yes,Donnybrook,Dublin 4,q1,10%
+15/06/2010,"Apartment 55, Morehampton Square, Donnybrook",Dublin,235000.0,No,Donnybrook,Dublin 4,q1,10%
+18/06/2010,"16  St. Ann'S, Ailesbury Road, Donnybrook",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+16/07/2010,"10 Eglington Park, Donnybrook",Dublin,840000.0,No,Donnybrook,Dublin 4,q3,70%
+19/07/2010,"155 Bloomfield Park, Donnybrook",Dublin,590000.0,Yes,Donnybrook,Dublin 4,q3,60%
+30/07/2010,"Apartment 4, Herbert Park Mews, Donnybrook",Dublin,275000.0,No,Donnybrook,Dublin 4,q1,10%
+11/08/2010,"6 The Ailesbury, Donnybrook",Dublin,335000.0,No,Donnybrook,Dublin 4,q1,20%
+13/08/2010,"Apartment 75, Fitzwilliam Quay, Donnybrook",Dublin,216000.0,No,Donnybrook,Dublin 4,q1,10%
+31/08/2010,"49 Nutley Road, Donnybrook",Dublin,1209000.0,No,Donnybrook,Dublin 4,q4,90%
+03/09/2010,"185 Bloomfield Park, Donnybrook",Dublin,800000.0,Yes,Donnybrook,Dublin 4,q3,70%
+03/09/2010,"21 Tritonville Road, Donnybrook",Dublin,600000.0,No,Donnybrook,Dublin 4,q3,60%
+24/09/2010,"6 Carlisle Avenue, Donnybrook",Dublin,730000.0,No,Donnybrook,Dublin 4,q3,70%
+28/09/2010,"38 Morehampton Terrace, Donnybrook",Dublin,672500.0,No,Donnybrook,Dublin 4,q3,70%
+05/10/2010,"21 Harmony Avenue, Donnybrook",Dublin,305000.0,No,Donnybrook,Dublin 4,q1,20%
+08/10/2010,"39 Beech Hill Avenue, Donnybrook, Dublin",Dublin,324000.0,No,Donnybrook,Dublin 4,q1,20%
+04/11/2010,"20 Donnybrook Court, Donnybrook, Dublin 4",Dublin,327500.0,No,Donnybrook,Dublin 4,q1,20%
+10/11/2010,"9 Donnybrook Court, Beaver Row, Donnybrook",Dublin,328000.0,No,Donnybrook,Dublin 4,q1,20%
+22/11/2010,"1 Brendan House, Brendan Road, Donnybrook",Dublin,345000.0,No,Donnybrook,Dublin 4,q1,30%
+06/12/2010,"120 Morehampton Road, Donnybrook, Dublin 4",Dublin,480000.0,No,Donnybrook,Dublin 4,q2,50%
+09/12/2010,"29 Brooklands, Nutley Lane, Donnybrook",Dublin,230000.0,No,Donnybrook,Dublin 4,q1,10%
+21/03/2011,"23 Morehampton Square, Donnybrook",Dublin,175000.0,No,Donnybrook,Dublin 4,q1,10%
+25/03/2011,"7 Carlisle Avenue, Donnybrook",Dublin,849000.0,No,Donnybrook,Dublin 4,q3,70%
+29/03/2011,"127 Morehampton Road, Donnybrook, Dublin",Dublin,490000.0,No,Donnybrook,Dublin 4,q2,50%
+14/04/2011,"6 Anglers Rest, Donnybrook, Dublin 4",Dublin,210000.0,No,Donnybrook,Dublin 4,q1,10%
+26/05/2011,"32 Beech Hill Drive, Donnybrook, Dublin 4",Dublin,470000.0,No,Donnybrook,Dublin 4,q2,40%
+30/05/2011,"24 Donnybrook Court, Beaver Row, Donnybrook",Dublin,290000.0,No,Donnybrook,Dublin 4,q1,20%
+31/05/2011,"26 Nutley Square, Greenfield Manor, Greenfield Park  Donnybrook",Dublin,600000.0,No,Donnybrook,Dublin 4,q3,60%
+22/06/2011,"9 Nutley Square, Greenfield Park, Donnybrook",Dublin,265000.0,No,Donnybrook,Dublin 4,q1,10%
+23/06/2011,"6 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,315000.0,No,Donnybrook,Dublin 4,q1,20%
+05/07/2011,"23 Sandford Avenue, Donnybrook, Dublin 4",Dublin,507500.0,No,Donnybrook,Dublin 4,q2,50%
+22/07/2011,"45  Donnybrook Manor, Donnybrook, Dublin 4",Dublin,400000.0,No,Donnybrook,Dublin 4,q2,30%
+05/08/2011,"126 Morehampton Road, Donnybrook",Dublin,581126.0,No,Donnybrook,Dublin 4,q3,60%
+09/08/2011,"3 Bushfield Place, Donnybrook",Dublin,510000.0,No,Donnybrook,Dublin 4,q2,50%
+09/08/2011,"30 Morehampton Road, Donnybrook",Dublin,680000.0,No,Donnybrook,Dublin 4,q3,70%
+12/08/2011,"Eglington House, 75 Eglington Road, Donnybrook",Dublin,1350000.0,No,Donnybrook,Dublin 4,q4,90%
+18/08/2011,"35 Ailesbury Road, Donnybrook",Dublin,2325000.0,No,Donnybrook,Dublin 4,q4,100%
+25/08/2011,"11 Belmont Park, Donnybrook",Dublin,380000.0,No,Donnybrook,Dublin 4,q2,30%
+30/08/2011,"3 Nutley Square, Donnybrook",Dublin,250000.0,No,Donnybrook,Dublin 4,q1,10%
+07/09/2011,"20 Morehampton Lane, Donnybrook, Dublin 4",Dublin,490000.0,No,Donnybrook,Dublin 4,q2,50%
+20/09/2011,"29 Morehampton Square, Donnybrook",Dublin,280000.0,No,Donnybrook,Dublin 4,q1,20%
+22/09/2011,"15  St. Ann'S Apartments, Ailesbury Road, Donnybrook",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+29/09/2011,"14 Greenfield Crescent, Donnybrook, Dublin 4",Dublin,1025000.0,No,Donnybrook,Dublin 4,q4,80%
+30/09/2011,"38 Belmont Avenue, Donnybrook",Dublin,660000.0,No,Donnybrook,Dublin 4,q3,60%
+14/10/2011,"44 Eglinton Road, Donnybrook",Dublin,880000.0,No,Donnybrook,Dublin 4,q3,80%
+17/10/2011,"46 Home Villas, Donnybrook",Dublin,300000.0,No,Donnybrook,Dublin 4,q1,20%
+20/10/2011,"58  Nutley Park, Donnybrook",Dublin,425000.0,No,Donnybrook,Dublin 4,q2,40%
+21/10/2011,"4 Morehampton Terrace, Donnybrook",Dublin,60000.0,No,Donnybrook,Dublin 4,q1,10%
+01/11/2011,"21 Herbert Avenue, Donnybrook",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+03/11/2011,"71 The Eglinton, Donnybrook Castle, Dublin 4",Dublin,215000.0,No,Donnybrook,Dublin 4,q1,10%
+04/11/2011,"17 Nutley Park, Donnybrook, Dublin 4",Dublin,800000.0,No,Donnybrook,Dublin 4,q3,70%
+05/11/2011,"54 Belmont Avenue, Donnybrook, Dublin 4",Dublin,690000.0,No,Donnybrook,Dublin 4,q3,70%
+10/11/2011,"Apartment 70  Brooklands, Nutley Lane, Donnybrook",Dublin,210000.0,No,Donnybrook,Dublin 4,q1,10%
+18/11/2011,"27 Belmont Gardens, Donnybrook, Dublin 4",Dublin,640000.0,No,Donnybrook,Dublin 4,q3,60%
+24/11/2011,"19 A Leahy'S Terrace, Sandymount, Donnybrook",Dublin,800000.0,No,Donnybrook,Dublin 4,q3,70%
+24/11/2011,"19 Leahy'S Terrace, Sandymount, Donnybrook",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+28/11/2011,"4 Belmont Villas, Donnybrook",Dublin,590000.0,No,Donnybrook,Dublin 4,q3,60%
+01/12/2011,"12  Belmont Park, Donnybrook",Dublin,360000.0,No,Donnybrook,Dublin 4,q1,30%
+05/12/2011,"27 Marlborough Road, Donnybrook",Dublin,1225000.0,No,Donnybrook,Dublin 4,q4,90%
+05/12/2011,"Apartment 14, Greenfield Manor, Donnybrook",Dublin,270000.0,No,Donnybrook,Dublin 4,q1,10%
+07/12/2011,"46  Beech Hill Drive, Donnybrook",Dublin,300000.0,No,Donnybrook,Dublin 4,q1,20%
+08/12/2011,"8 Morehampton Square, Donnybrook, D4",Dublin,305000.0,No,Donnybrook,Dublin 4,q1,20%
+09/12/2011,"79 Beech Hill Drive, Donnybrook",Dublin,185000.0,No,Donnybrook,Dublin 4,q1,10%
+19/12/2011,"20 Morehampton Square, Morehampton Road, Donnybrook",Dublin,305000.0,No,Donnybrook,Dublin 4,q1,20%
+22/12/2011,"17 Morehampton Terrace, Donnybrook",Dublin,420000.0,No,Donnybrook,Dublin 4,q2,40%
+22/12/2011,"Loyola, Eglinton Road, Donnybrook",Dublin,1400000.0,No,Donnybrook,Dublin 4,q4,90%
+20/01/2012,"25 Greenfield Park, Donnybrook",Dublin,2600000.0,No,Donnybrook,Dublin 4,q4,100%
+23/01/2012,"Errigal House, Eglinton Road, Donnybrook",Dublin,2800000.0,No,Donnybrook,Dublin 4,q4,100%
+25/01/2012,"13 Edward Place, Edward Square, Bloomfield Avenue  Donnybrook",Dublin,250850.0,Yes,Donnybrook,Dublin 4,q1,10%
+26/01/2012,"9 Glaunsharoon, Eglington Road, Donnybrook",Dublin,470000.0,No,Donnybrook,Dublin 4,q2,40%
+27/01/2012,"50 Morehampton Road, Donnybrook, Dublin 4",Dublin,730000.0,No,Donnybrook,Dublin 4,q3,70%
+30/01/2012,"43 Ailesbury Road, Donnybrook",Dublin,2650000.0,No,Donnybrook,Dublin 4,q4,100%
+02/02/2012,"103 Marlborough Road, Donnybrook",Dublin,620000.0,No,Donnybrook,Dublin 4,q3,60%
+03/02/2012,"90 Marlborough Road, Donnybrook, Dublin 4",Dublin,925000.0,No,Donnybrook,Dublin 4,q3,80%
+08/02/2012,"41 Beech Hill Drive, Donnybrook",Dublin,170000.0,No,Donnybrook,Dublin 4,q1,10%
+09/02/2012,"2 Donnybrook Green, Donnybrook",Dublin,245000.0,No,Donnybrook,Dublin 4,q1,10%
+13/02/2012,"13 Greenfield Park, Donnybrook, Dublin",Dublin,875000.0,No,Donnybrook,Dublin 4,q3,70%
+27/02/2012,"9  Edward Lane, Bloomfield Ave, Donnybrook",Dublin,1297500.0,No,Donnybrook,Dublin 4,q4,90%
+29/02/2012,"* Greenfield Manor, Donnybrook, Dublin",Dublin,270000.0,No,Donnybrook,Dublin 4,q1,10%
+01/03/2012,"66 Belmont Avenue, Donnybrook, Dublin 4",Dublin,610000.0,No,Donnybrook,Dublin 4,q3,60%
+02/03/2012,"72 Bloomfield Park, Donnybrook",Dublin,292500.0,No,Donnybrook,Dublin 4,q1,20%
+02/03/2012,"73 Pembroke Cottages, Donnybrook",Dublin,320000.0,No,Donnybrook,Dublin 4,q1,20%
+23/03/2012,"4 Marlborough Road, Donnybrook",Dublin,395000.0,No,Donnybrook,Dublin 4,q2,30%
+26/03/2012,"12 Edward Square, Bloomfield Avenue, Donnybrook",Dublin,1081057.0,Yes,Donnybrook,Dublin 4,q4,80%
+27/03/2012,"16 Beech Hill Drive, Donnybrook, Dublin 4",Dublin,222000.0,No,Donnybrook,Dublin 4,q1,10%
+29/03/2012,"9 Saint Brocs Cottages, Donnybrook, Dublin 4",Dublin,299000.0,No,Donnybrook,Dublin 4,q1,20%
+04/04/2012,"Apartment 50 St. Ann'S, Ailesbury Road, Donnybrook",Dublin,855000.0,No,Donnybrook,Dublin 4,q3,70%
+12/04/2012,"1 Eglinton Park, Donnybrook",Dublin,650000.0,No,Donnybrook,Dublin 4,q3,60%
+27/04/2012,"6 Bushfield Terrace, Donnybrook",Dublin,705000.0,No,Donnybrook,Dublin 4,q3,70%
+08/05/2012,"56 The Shrewsbury, Donnybrook Castle, Dublin 4",Dublin,350000.0,No,Donnybrook,Dublin 4,q1,30%
+22/05/2012,"21 Bushfield Terrace, Donnybrook",Dublin,620000.0,No,Donnybrook,Dublin 4,q3,60%
+30/05/2012,"175 Bloomfield Park, Donnybrook",Dublin,925110.0,Yes,Donnybrook,Dublin 4,q3,80%
+30/05/2012,"Apartment 8 St. Ann'S, Ailesbury Road, Donnybrook",Dublin,325000.0,No,Donnybrook,Dublin 4,q1,20%
+31/05/2012,"33 Belmont Avenue, Donnybrook",Dublin,625750.0,No,Donnybrook,Dublin 4,q3,60%
+31/05/2012,"33 Belmont Avenue, Donnybrook, Dublin 4",Dublin,625750.0,No,Donnybrook,Dublin 4,q3,60%
+01/06/2012,"75 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,315000.0,No,Donnybrook,Dublin 4,q1,20%
+12/06/2012,"14  Victoria  Avenue, Donnybrook",Dublin,545000.0,No,Donnybrook,Dublin 4,q2,50%
+14/06/2012,"Burren House, Rear 97 Anglesea Road, Donnybrook",Dublin,900927.0,No,Donnybrook,Dublin 4,q3,80%
+22/06/2012,"Swanbrook House, Bloomfield Avenue, Donnybrook",Dublin,1075000.0,No,Donnybrook,Dublin 4,q4,80%
+02/07/2012,"68 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,175000.0,No,Donnybrook,Dublin 4,q1,10%
+05/07/2012,"118 Bloomfield Park, Donnybrook",Dublin,1057268.71,Yes,Donnybrook,Dublin 4,q4,80%
+12/07/2012,"17 Donnybrook Court, Donnybrook",Dublin,250000.0,No,Donnybrook,Dublin 4,q1,10%
+20/07/2012,"30 Belmount Avenue, Donnybrook",Dublin,600000.0,No,Donnybrook,Dublin 4,q3,60%
+23/07/2012,"45 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,195000.0,No,Donnybrook,Dublin 4,q1,10%
+25/07/2012,"89 Belmont Avenue, Donnybrook, Dublin 4",Dublin,900000.0,No,Donnybrook,Dublin 4,q3,80%
+26/07/2012,"3 Brookvale Road, Donnybrook",Dublin,570000.0,No,Donnybrook,Dublin 4,q3,60%
+26/07/2012,"Apartment 27, Bloomfield Park, Donnybrook",Dublin,340000.0,No,Donnybrook,Dublin 4,q1,20%
+27/07/2012,"3 Morehampton Court, Rere 13 Morehampton Road, Donnybrook",Dublin,485000.0,No,Donnybrook,Dublin 4,q2,50%
+01/08/2012,"21 Donnybrook Green, Donnybrook",Dublin,152000.0,No,Donnybrook,Dublin 4,q1,10%
+03/08/2012,"Apartment 50, Bloomfield Park, Donnybrook",Dublin,310000.0,No,Donnybrook,Dublin 4,q1,20%
+15/08/2012,"87 Marlborough Road, Donnybrook, Dublin 4",Dublin,750000.0,No,Donnybrook,Dublin 4,q3,70%
+29/08/2012,"31 Belmont Avenue, Donnybrook",Dublin,510000.0,No,Donnybrook,Dublin 4,q2,50%
+31/08/2012,"11A, Home Villas, Donnybrook",Dublin,360250.0,No,Donnybrook,Dublin 4,q1,30%
+03/09/2012,"12A Ailesbury Grove, Donnybrook",Dublin,607999.0,No,Donnybrook,Dublin 4,q3,60%
+07/09/2012,"11 Home Villas, Donnybrook",Dublin,295000.0,No,Donnybrook,Dublin 4,q1,20%
+07/09/2012,"48 Pembroke Cottages, Donnybrook",Dublin,327500.0,No,Donnybrook,Dublin 4,q1,20%
+14/09/2012,"9 Morehampton Mews, 2 Morehampton Road, Donnybrook",Dublin,193000.0,No,Donnybrook,Dublin 4,q1,10%
+17/09/2012,"12 Ailesbury Grove, Donnybrook, Dublin",Dublin,625000.0,No,Donnybrook,Dublin 4,q3,60%
+17/09/2012,"3 Herbert Park, Donnybrook",Dublin,2600000.0,No,Donnybrook,Dublin 4,q4,100%
+21/09/2012,"64 Donnybrook Manor, Donnybrook",Dublin,365000.0,No,Donnybrook,Dublin 4,q1,30%
+28/09/2012,"Apartment 3, Morehampton Square, Donnybrook",Dublin,176500.0,No,Donnybrook,Dublin 4,q1,10%
+03/10/2012,"Apartment 12, The Ailesbury, Donnybrook Castle",Dublin,250000.0,No,Donnybrook,Dublin 4,q1,10%
+05/10/2012,"33 Nutley Road, Donnybrook, Dublin 4",Dublin,890000.0,No,Donnybrook,Dublin 4,q3,80%
+12/10/2012,"7 Eglington Terrace, Donnybrook",Dublin,605000.0,No,Donnybrook,Dublin 4,q3,60%
+05/11/2012,"86 Eglington Road, Donnybrook",Dublin,1017000.0,No,Donnybrook,Dublin 4,q4,80%
+06/11/2012,"1 Edward Square, Donnybrook, Dublin 4",Dublin,402000.0,No,Donnybrook,Dublin 4,q2,30%
+15/11/2012,"15 Nutley Road, Donnybrook",Dublin,940000.0,No,Donnybrook,Dublin 4,q3,80%
+19/11/2012,"122 Donnybrook Manor, Donnybrook",Dublin,320000.0,No,Donnybrook,Dublin 4,q1,20%
+26/11/2012,"28 Derrynane Gardens, Parish Of Donnybrook",Dublin,285000.0,No,Donnybrook,Dublin 4,q1,20%
+28/11/2012,"71 Beechill Avenue, Donnybrook",Dublin,212000.0,No,Donnybrook,Dublin 4,q1,10%
+04/12/2012,"73 Marlborough Road, Donnybrook, Dublin 4",Dublin,870000.0,No,Donnybrook,Dublin 4,q3,70%
+04/12/2012,"88 Morehampton Road, Donnybrook",Dublin,700000.0,No,Donnybrook,Dublin 4,q3,70%
+10/12/2012,"56 Home Villas, Donnybrook",Dublin,270000.0,No,Donnybrook,Dublin 4,q1,10%
+10/12/2012,"65 Nutley Avenue, Donnybrook",Dublin,835000.0,No,Donnybrook,Dublin 4,q3,70%
+14/12/2012,"14 Donnybrook Manor, Donnybrook",Dublin,400000.0,No,Donnybrook,Dublin 4,q2,30%
+14/12/2012,"8 Ailesbury Drive, Donnybrook, Dublin 4",Dublin,1425000.0,No,Donnybrook,Dublin 4,q4,90%
+17/12/2012,"12 Bushfield Terrace, Donnybrook",Dublin,645000.0,No,Donnybrook,Dublin 4,q3,60%
+19/12/2012,"29 Bloomfield Park, Donnybrook",Dublin,395000.0,No,Donnybrook,Dublin 4,q2,30%
+19/12/2012,"31 Home Villas, Donnybrook",Dublin,225000.0,No,Donnybrook,Dublin 4,q1,10%
+19/12/2012,"79 Marlborough Road, Donnybrook",Dublin,810000.0,No,Donnybrook,Dublin 4,q3,70%
+20/12/2012,"3 Nutley Ave, Donnybrook",Dublin,1025000.0,No,Donnybrook,Dublin 4,q4,80%
+21/12/2012,"17 Beaver Row, Donnybrook, Dublin 4",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+28/12/2012,"82 Pembroke Cottages, Donnybrook",Dublin,255000.0,No,Donnybrook,Dublin 4,q1,10%
+21/01/2013,"46 Nutley Road, Donnybrook",Dublin,1600000.0,No,Donnybrook,Dublin 4,q4,100%
+28/01/2013,"22 Donnybrook Manor, Belmont Avenue, Donnybrook",Dublin,320000.0,No,Donnybrook,Dublin 4,q1,20%
+30/01/2013,"41 Donnybrook Manor, Donnybrook",Dublin,317000.0,No,Donnybrook,Dublin 4,q1,20%
+01/02/2013,"29 Nutley Park, Donnybrook",Dublin,902000.0,No,Donnybrook,Dublin 4,q3,80%
+14/02/2013,"81 Beech Hill Drive, Donnybrook, Dublin 4",Dublin,223000.0,No,Donnybrook,Dublin 4,q1,10%
+15/02/2013,"Apt. 7 Errigal House, Eglington Court, Donnybrook",Dublin,242500.0,Yes,Donnybrook,Dublin 4,q1,10%
+19/02/2013,"46 Morehampton Road, Donnybrook",Dublin,1307999.0,No,Donnybrook,Dublin 4,q4,90%
+28/02/2013,"92 Bloomfield Park, Donnybrook",Dublin,235000.0,No,Donnybrook,Dublin 4,q1,10%
+19/03/2013,"64 Marlborough Road, Donnybrook, Dublin 4",Dublin,900000.0,No,Donnybrook,Dublin 4,q3,80%
+29/03/2013,"50 Nutley Avenue, Donnybrook",Dublin,1040000.0,No,Donnybrook,Dublin 4,q4,80%
+09/04/2013,"32 Anglesea Road, Donnybrook",Dublin,950000.0,No,Donnybrook,Dublin 4,q3,80%
+09/04/2013,"34 Anglesea Road, Donnybrook",Dublin,1250000.0,No,Donnybrook,Dublin 4,q4,90%
+10/04/2013,"85 Bloomfield Park, Donnybrook, Dublin 4",Dublin,450000.0,No,Donnybrook,Dublin 4,q2,40%
+15/04/2013,"12 Bloomfield Park, Donnybrook",Dublin,335000.0,No,Donnybrook,Dublin 4,q1,20%
+18/04/2013,"91 Marlborough Road, Donnybrook, Dublin 4",Dublin,1200000.0,No,Donnybrook,Dublin 4,q4,90%
+22/04/2013,"50 Pembroke Cottages, Donnybrook",Dublin,246000.0,No,Donnybrook,Dublin 4,q1,10%
+23/04/2013,"10 Edward Place, Edward Square, Donnybrook",Dublin,266700.0,Yes,Donnybrook,Dublin 4,q1,10%
+26/04/2013,"Apt 41  Ardoyne House, Donnybrook",Dublin,400000.0,No,Donnybrook,Dublin 4,q2,30%
+30/04/2013,"124 Donnybrook Manor, Donnybrook",Dublin,437000.0,No,Donnybrook,Dublin 4,q2,40%
+03/05/2013,"29 Morehampton Terrace, Donnybrook",Dublin,665000.0,No,Donnybrook,Dublin 4,q3,60%
+08/05/2013,"99  99A & 101 Morehamption Road, Donnybrook",Dublin,175000.0,No,Donnybrook,Dublin 4,q1,10%
+17/05/2013,"40 Belmont Ave, Donnybrook, Dublin City",Dublin,435000.0,No,Donnybrook,Dublin 4,q2,40%
+24/05/2013,"35 Mespil Road, Donnybrook",Dublin,1100000.0,No,Donnybrook,Dublin 4,q4,80%
+29/05/2013,"61 Pembroke Cottages, Donnybrook",Dublin,286000.0,No,Donnybrook,Dublin 4,q1,20%
+31/05/2013,"Flat 20  Block 2, Greenfield Manor, Donnybrook",Dublin,178000.0,No,Donnybrook,Dublin 4,q1,10%
+03/06/2013,"Apartment 4   Nutley House, 50 - 52 Nutley Road, Donnybrook",Dublin,280000.0,No,Donnybrook,Dublin 4,q1,20%
+07/06/2013,"42 Belmont Ave, Donnybrook, Dublin City",Dublin,435000.0,No,Donnybrook,Dublin 4,q2,40%
+14/06/2013,"7 Belmont Avenue, Donnybrook, Dublin 4",Dublin,800000.0,No,Donnybrook,Dublin 4,q3,70%
+18/06/2013,"2 Brookvale House, Brookvale Road, Donnybrook",Dublin,405000.0,No,Donnybrook,Dublin 4,q2,40%
+19/06/2013,"25 Nutley Road, Donnybrook, Dublin 4",Dublin,1080000.0,No,Donnybrook,Dublin 4,q4,80%
+21/06/2013,"18 Ailesbury Road, Donnybrook",Dublin,4500000.0,No,Donnybrook,Dublin 4,q4,100%
+25/06/2013,"1  Edward Lane, Edward Square, Bloomfield Avenue  Donnybrook",Dublin,234000.0,No,Donnybrook,Dublin 4,q1,10%
+28/06/2013,"28 Nutley Road, Donnybrook",Dublin,1150000.0,No,Donnybrook,Dublin 4,q4,80%
+09/07/2013,"9 Eglinton Court, Eglinton Road, Donnybrook",Dublin,227500.0,No,Donnybrook,Dublin 4,q1,10%
+11/07/2013,"60 Home Villas, Donnybrook, Dublin 4",Dublin,435000.0,No,Donnybrook,Dublin 4,q2,40%
+22/07/2013,"50 Rowan House, Mespil Estate, Donnybrook Dublin 4",Dublin,133000.0,No,Donnybrook,Dublin 4,q1,10%
+31/07/2013,"56 Ailesbury Road, Donnybrook",Dublin,2400000.0,No,Donnybrook,Dublin 4,q4,100%
+02/08/2013,"64 Eglinton Road, Donnybrook",Dublin,1800000.0,No,Donnybrook,Dublin 4,q4,100%
+09/08/2013,"Apt 16 Morehampton Mews, Morehampton Road, Donnybrook",Dublin,185000.0,No,Donnybrook,Dublin 4,q1,10%
+19/08/2013,"22 Eglinton Park, Donnybrook, Dublin 4",Dublin,520000.0,No,Donnybrook,Dublin 4,q2,50%
+29/08/2013,"8 Donnybrook Court, Beaver Row, Donnybrook",Dublin,275000.0,No,Donnybrook,Dublin 4,q1,10%
+09/09/2013,"10 Beech Hill Drive, Donnybrook",Dublin,280000.0,No,Donnybrook,Dublin 4,q1,20%
+11/09/2013,"Apartment 5 Brendan House, Brendan Road, Donnybrook",Dublin,311500.0,No,Donnybrook,Dublin 4,q1,20%
+20/09/2013,"33 Victoria Avenue, Donnybrook, Dublin 4",Dublin,555000.0,No,Donnybrook,Dublin 4,q2,50%
+26/09/2013,"188, Bloomfield Park, Donnybrook",Dublin,488888.0,Yes,Donnybrook,Dublin 4,q2,50%
+30/09/2013,"13 Herbert Park Mews, Donnybrook",Dublin,252000.0,No,Donnybrook,Dublin 4,q1,10%
+03/10/2013,"7 Ailesbury Drive, Donnybrook, Dublin 4",Dublin,1100000.0,No,Donnybrook,Dublin 4,q4,80%
+04/10/2013,"49 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,465000.0,No,Donnybrook,Dublin 4,q2,40%
+04/10/2013,"63 Morehampton Square, Donnybrook",Dublin,310000.0,No,Donnybrook,Dublin 4,q1,20%
+07/10/2013,"88 Cranford Court, Donnybrook, Dublin 4",Dublin,155000.0,No,Donnybrook,Dublin 4,q1,10%
+09/10/2013,"6 Simmonscourt Terrace, Donnybrook, Dublin 4",Dublin,217500.0,No,Donnybrook,Dublin 4,q1,10%
+17/10/2013,"Apartment 59, Block 5 Brooklands, Nutley Lane  Donnybrook",Dublin,170000.0,No,Donnybrook,Dublin 4,q1,10%
+22/10/2013,"Apt 1 Nutley House, 50/52 Nutley Road, Donnybrook",Dublin,442500.0,No,Donnybrook,Dublin 4,q2,40%
+27/10/2013,"141 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,404000.0,No,Donnybrook,Dublin 4,q2,40%
+04/11/2013,"2 Nutley House, 50/52 Nutley Road, Donnybrook",Dublin,395000.0,No,Donnybrook,Dublin 4,q2,30%
+15/11/2013,"24 Harmony Avenue, Donnybrook",Dublin,340000.0,No,Donnybrook,Dublin 4,q1,20%
+20/11/2013,"Apt. 1 Grafton, 31/33 Merrion Road, Donnybrook",Dublin,322360.0,No,Donnybrook,Dublin 4,q1,20%
+20/11/2013,"Apt. 7 Grafton, 31/33 Merrion Road, Donnybrook",Dublin,1111490.0,No,Donnybrook,Dublin 4,q4,80%
+20/11/2013,"Apt. 7 Linden, 31/33 Merrion Road, Donnybrook",Dublin,299150.0,No,Donnybrook,Dublin 4,q1,20%
+20/11/2013,"Apt.18 Linden, 31/33 Merrion Road, Donnybrook",Dublin,319780.0,No,Donnybrook,Dublin 4,q1,20%
+21/11/2013,"55 Haddington Rd, Donnybrook, Dublin 4",Dublin,955000.0,No,Donnybrook,Dublin 4,q3,80%
+26/11/2013,"48 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,408000.0,No,Donnybrook,Dublin 4,q2,40%
+27/11/2013,"57 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,300000.0,No,Donnybrook,Dublin 4,q1,20%
+29/11/2013,"1 Glaunsharoon, Eglinton Rd, Donnybrook Dublin 4",Dublin,505000.0,No,Donnybrook,Dublin 4,q2,50%
+29/11/2013,"No. 1 Donnybrook Green, Donnybrook, Dublin 4",Dublin,238500.0,No,Donnybrook,Dublin 4,q1,10%
+03/12/2013,"60 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,452751.0,No,Donnybrook,Dublin 4,q2,40%
+05/12/2013,"21 Donnybrook Court, Beaver Row, Donnybrook",Dublin,340000.0,No,Donnybrook,Dublin 4,q1,20%
+05/12/2013,"94 Marlborough Rd, Donnybrook, Dublin 4",Dublin,1260000.0,No,Donnybrook,Dublin 4,q4,90%
+06/12/2013,"52 Morehampton Road, Donnybrook, Dublin 6",Dublin,600000.0,No,Donnybrook,Dublin 4,q3,60%
+06/12/2013,"91 Belmont Avenue, Donnybrook, Dublin 4",Dublin,900000.0,No,Donnybrook,Dublin 4,q3,80%
+11/12/2013,"73 Bloomfield Park, Donnybrook",Dublin,1100000.0,No,Donnybrook,Dublin 4,q4,80%
+12/12/2013,"42 Upper Leeson St, Donnybrook, Dublin 4",Dublin,1680000.0,No,Donnybrook,Dublin 4,q4,100%
+13/12/2013,"85 Morehampton Square, Donnybrook, Dublin 4",Dublin,190000.0,No,Donnybrook,Dublin 4,q1,10%
+16/12/2013,"Apartment 62, Bloomfield Avenue, Donnybrook  Dublin 4",Dublin,290000.0,No,Donnybrook,Dublin 4,q1,20%
+17/12/2013,"13 Edward Lane, Donnybrook, Dublin 4",Dublin,720000.0,No,Donnybrook,Dublin 4,q3,70%
+18/12/2013,"2 Morehampton Mews, Morehampton Road, Donnybrook",Dublin,680000.0,No,Donnybrook,Dublin 4,q3,70%
+18/12/2013,"2 Morehampton Mews, Morehampton Road, Donnybrook",Dublin,540000.0,No,Donnybrook,Dublin 4,q2,50%
+18/12/2013,"38 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,308000.0,No,Donnybrook,Dublin 4,q1,20%
+18/12/2013,"8 Eglinton Terrace, Donnybrook, Dublin 4",Dublin,765000.0,No,Donnybrook,Dublin 4,q3,70%
+19/12/2013,"31 Leeson Village, Donnybrook, Dublin 4",Dublin,295000.0,No,Donnybrook,Dublin 4,q1,20%
+19/12/2013,"5 Airfield Manor, Donnybrook, Dublin 4",Dublin,212500.0,No,Donnybrook,Dublin 4,q1,10%
+19/12/2013,"59 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,380000.0,No,Donnybrook,Dublin 4,q2,30%
+20/12/2013,"22 Glaunsharoon, Eglinton Rd, Donnybrook",Dublin,595000.0,No,Donnybrook,Dublin 4,q3,60%
+20/12/2013,"22 Nutley Park, Donnybrook, Dublin 4",Dublin,950000.0,No,Donnybrook,Dublin 4,q3,80%
+20/12/2013,"4 Donnybrook Close, Donnybrook, Dublin 4",Dublin,825000.0,No,Donnybrook,Dublin 4,q3,70%
+09/01/2014,"48 Beechill Avenue, Donnybrook",Dublin,200000.0,No,Donnybrook,Dublin 4,q1,10%
+16/01/2014,"7 Pembroke Park, Donnybrook, Dublin 4",Dublin,1605000.0,No,Donnybrook,Dublin 4,q4,100%
+17/01/2014,"Apt. 7 The Ailsbury, Donnybrook Castle, Dublin 4",Dublin,295000.0,No,Donnybrook,Dublin 4,q1,20%
+03/02/2014,"4 Harmony Court, Harmony Ave, Donnybrook Dublin 4",Dublin,600000.0,No,Donnybrook,Dublin 4,q3,60%
+07/02/2014,"16 Herbert Park Mews, Eglinton Terrace, Donnybrook Dublin 4",Dublin,285000.0,No,Donnybrook,Dublin 4,q1,20%
+11/02/2014,"26 Melmore, Eglington Rd, Donnybrook Dublin 4",Dublin,178000.0,No,Donnybrook,Dublin 4,q1,10%
+20/02/2014,"3 Anglers Rest, Beavor Row, Donnybrook",Dublin,240000.0,No,Donnybrook,Dublin 4,q1,10%
+21/03/2014,"8 Edward Place, Edward Square, Donnybrook",Dublin,180000.0,No,Donnybrook,Dublin 4,q1,10%
+24/03/2014,"104 Marlborough Road, Donnybrook, Dublin 4.",Dublin,780000.0,No,Donnybrook,Dublin 4,q3,70%
+25/03/2014,"93 Marlborough Road, Donnybrook",Dublin,930000.0,No,Donnybrook,Dublin 4,q3,80%
+27/03/2014,"12 Eglinton Court, Eglinton Rd, Donnybrook Dublin 4",Dublin,295000.0,No,Donnybrook,Dublin 4,q1,20%
+27/03/2014,"17 Nutley Ave, Donnybrook, Dublin 4",Dublin,1250000.0,No,Donnybrook,Dublin 4,q4,90%
+31/03/2014,"28 Home Villas, Donnybrook, Dublin 4",Dublin,452000.0,No,Donnybrook,Dublin 4,q2,40%
+09/04/2014,"37 Morehampton Rd, Donnybrook, Dublin 4",Dublin,800000.0,No,Donnybrook,Dublin 4,q3,70%
+09/05/2014,"5 Anglers Rest, Beaver Row, Donnybrook Dublin 4",Dublin,347000.0,No,Donnybrook,Dublin 4,q1,30%
+29/05/2014,"10 Glaunsharoon, Eglinton Rd, Donnybrook Dublin 4",Dublin,585000.0,No,Donnybrook,Dublin 4,q3,60%
+06/06/2014,"2 Donnybrook Mews, Rampart Lane, Donnybrook Dublin 4",Dublin,630000.0,No,Donnybrook,Dublin 4,q3,60%
+06/06/2014,"85 Eglinton Rd, Donnybrook, Dublin",Dublin,2600000.0,No,Donnybrook,Dublin 4,q4,100%
+09/06/2014,"18 Eglinton Court, Eglinton Rd, Donnybrook Dublin 4",Dublin,235000.0,No,Donnybrook,Dublin 4,q1,10%
+13/06/2014,"16 Home Villas, Donnybrook, Dublin 4",Dublin,387000.0,No,Donnybrook,Dublin 4,q2,30%
+13/06/2014,"30 Nutley Road, Donnybrook",Dublin,1380000.0,No,Donnybrook,Dublin 4,q4,90%
+16/06/2014,"12 Beechill Crescent, Donnybrook, Dublin 4",Dublin,350000.0,No,Donnybrook,Dublin 4,q1,30%
+18/06/2014,"54 Nutley Park, Donnybrook, Dublin 4",Dublin,1250000.0,No,Donnybrook,Dublin 4,q4,90%
+20/06/2014,"25 Nutley Ave, Donnybrook, Dublin",Dublin,2160000.0,No,Donnybrook,Dublin 4,q4,100%
+26/06/2014,"34 Bloomfield Park, Bloomfield Avenue, Donnybrook",Dublin,324000.0,No,Donnybrook,Dublin 4,q1,20%
+30/06/2014,"20 Home Villas, Donnybrook, Dublin",Dublin,385000.0,No,Donnybrook,Dublin 4,q2,30%
+02/07/2014,"1 Ailesbury Dr, Donnybrook, Dublin 4",Dublin,1480000.0,No,Donnybrook,Dublin 4,q4,90%
+03/07/2014,"95 Bloomfield Park, Donnybrook, Dublin 4",Dublin,618502.0,No,Donnybrook,Dublin 4,q3,60%
+04/07/2014,"63 Nutley Rd, Donnybrook, Dublin 4",Dublin,2150000.0,No,Donnybrook,Dublin 4,q4,100%
+11/07/2014,"8 Thornfield, Donnybrook, Dublin 4",Dublin,1700000.0,No,Donnybrook,Dublin 4,q4,100%
+15/07/2014,"27 Morehampton Terrace, Donnybrook, Dublin 4",Dublin,1200000.0,No,Donnybrook,Dublin 4,q4,90%
+23/07/2014,"52 Shrewsbury, Donnybrook Castle, Dublin 4",Dublin,380000.0,No,Donnybrook,Dublin 4,q2,30%
+23/07/2014,"69 Home Villas, Donnybrook, Dublin 4",Dublin,385000.0,No,Donnybrook,Dublin 4,q2,30%
+24/07/2014,"33 Nutley Rd, Donnybrook, Dublin 4",Dublin,1400000.0,No,Donnybrook,Dublin 4,q4,90%
+25/07/2014,"15 Glaunsharoon, Eglinton Rd, Donnybrook Dublin 4",Dublin,605000.0,No,Donnybrook,Dublin 4,q3,60%
+29/07/2014,"76 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,357500.0,No,Donnybrook,Dublin 4,q1,30%
+31/07/2014,"26 Auburn Avenue, Donnybrook, Dublin 4",Dublin,775000.0,No,Donnybrook,Dublin 4,q3,70%
+05/08/2014,"4 Swan Place, Donnybrook, Dublin 4",Dublin,465000.0,No,Donnybrook,Dublin 4,q2,40%
+08/08/2014,"10 Edward Lane, Donnybrook",Dublin,840000.0,No,Donnybrook,Dublin 4,q3,70%
+08/08/2014,"9 Beech Hill Terrace, Donnybrook, Dublin 4",Dublin,351000.0,No,Donnybrook,Dublin 4,q1,30%
+08/08/2014,"9 Nutley Square, Greenfield Park, Donnybrook Dublin 4",Dublin,410000.0,No,Donnybrook,Dublin 4,q2,40%
+14/08/2014,"106 Beech Hill Dr, Donnybrook, Dublin 4",Dublin,392000.0,No,Donnybrook,Dublin 4,q2,30%
+18/08/2014,"77 Donnybrook Castle, Donnybrook, Dublin 4",Dublin,355000.0,No,Donnybrook,Dublin 4,q1,30%
+22/08/2014,"25 Auburn Ave, Donnybrook, Dublin 4",Dublin,775000.0,No,Donnybrook,Dublin 4,q3,70%
+22/08/2014,"30 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,425000.0,No,Donnybrook,Dublin 4,q2,40%
+25/08/2014,"12 Belmont Gardens, Donnybrook, Dublin 4",Dublin,900000.0,No,Donnybrook,Dublin 4,q3,80%
+25/08/2014,"6 Herbert Park, Donnybrook, Dublin 4",Dublin,2360000.0,No,Donnybrook,Dublin 4,q4,100%
+29/08/2014,"1 Simmonscourt Terrace, Donnybrook",Dublin,295000.0,No,Donnybrook,Dublin 4,q1,20%
+04/09/2014,"19 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,385000.0,No,Donnybrook,Dublin 4,q2,30%
+08/09/2014,"53 Nutley Rd, Donnybrook, Dublin 4",Dublin,1190000.0,No,Donnybrook,Dublin 4,q4,90%
+12/09/2014,"77B Marlborough Road, Donnybrook",Dublin,1225000.0,No,Donnybrook,Dublin 4,q4,90%
+15/09/2014,"81 Ailesbury Rd, Donnybrook, Dublin 4",Dublin,4410000.0,No,Donnybrook,Dublin 4,q4,100%
+15/09/2014,"Shandon, 16 Ailesbury Drive, Donnybrook",Dublin,1800000.0,No,Donnybrook,Dublin 4,q4,100%
+16/09/2014,"11 Donnybrook Castle, Donnybrook, Dublin 4",Dublin,375000.0,No,Donnybrook,Dublin 4,q2,30%
+16/09/2014,"Apt 51, Donnybrook Castle, Donnybrook Dublin 4",Dublin,375000.0,No,Donnybrook,Dublin 4,q2,30%
+23/09/2014,"25 Merrion Village, Merrion Rd, Donnybrook Dublin 4",Dublin,450000.0,No,Donnybrook,Dublin 4,q2,40%
+24/09/2014,"12 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,627753.0,No,Donnybrook,Dublin 4,q3,60%
+24/09/2014,"12 Edward Place, Bloomfield, Donnybrook Dublin 4",Dublin,359912.0,No,Donnybrook,Dublin 4,q1,30%
+24/09/2014,"13 Edward Square, Bloomfield, Donnybrook",Dublin,1409692.0,No,Donnybrook,Dublin 4,q4,90%
+24/09/2014,"14 Edward Sq, Bloomfield, Donnybrook Dublin 4",Dublin,1409692.0,No,Donnybrook,Dublin 4,q4,90%
+24/09/2014,"16 Edward Sq, Bloomfield, Donnybrook Dublin 4",Dublin,1374449.0,No,Donnybrook,Dublin 4,q4,90%
+24/09/2014,"17 Edward Sq, Bloomfield, Donnybrook Dublin 4",Dublin,1374449.0,No,Donnybrook,Dublin 4,q4,90%
+24/09/2014,"19 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,627753.0,No,Donnybrook,Dublin 4,q3,60%
+24/09/2014,"2 Edward Place, Bloomfield, Donnybrook Dublin 4",Dublin,585903.0,No,Donnybrook,Dublin 4,q3,60%
+24/09/2014,"20 Edward Lane, Bloomfield, Donnybrook",Dublin,627753.0,No,Donnybrook,Dublin 4,q3,60%
+24/09/2014,"3 Edward Place, Bloomfield, Donnybrook Dublin 4",Dublin,585903.0,No,Donnybrook,Dublin 4,q3,60%
+24/09/2014,"9 Edward Sq, Bloomfield, Donnybrook",Dublin,1828194.0,No,Donnybrook,Dublin 4,q4,100%
+24/09/2014,"Aprt. 7  Edward Lane, Bloomfield, Donnybrook",Dublin,1048458.0,No,Donnybrook,Dublin 4,q4,80%
+24/09/2014,"Apt 2 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,519824.0,No,Donnybrook,Dublin 4,q2,50%
+24/09/2014,"Apt 21 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,439427.0,No,Donnybrook,Dublin 4,q2,40%
+24/09/2014,"Apt 22 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,376652.0,No,Donnybrook,Dublin 4,q2,30%
+24/09/2014,"Apt 23 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,460352.0,No,Donnybrook,Dublin 4,q2,40%
+24/09/2014,"Apt 3 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,539868.0,No,Donnybrook,Dublin 4,q2,50%
+24/09/2014,"Apt 7 Edward Place, Bloomfield, Donnybrook",Dublin,209251.0,No,Donnybrook,Dublin 4,q1,10%
+26/09/2014,"12 Elm Park, Donnybrook, Dublin 4",Dublin,1325000.0,No,Donnybrook,Dublin 4,q4,90%
+26/09/2014,"8 Brookvale Rd, Donnybrook, Dublin 4",Dublin,380000.0,No,Donnybrook,Dublin 4,q2,30%
+01/10/2014,"113 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,400000.0,No,Donnybrook,Dublin 4,q2,30%
+02/10/2014,"Apartment 6, 133 Anglesea Road, Donnybrook",Dublin,510000.0,No,Donnybrook,Dublin 4,q2,50%
+10/10/2014,"7 Bloomfield Park, Donnybrook, Dublin 4",Dublin,310000.0,No,Donnybrook,Dublin 4,q1,20%
+15/10/2014,"108 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,327500.0,No,Donnybrook,Dublin 4,q1,20%
+15/10/2014,"77 Beech Hill Ave, Donnybrook, Dublin 4",Dublin,380000.0,No,Donnybrook,Dublin 4,q2,30%
+17/10/2014,"1 Victoria Ave, Donnybrook, Dublin 4",Dublin,840000.0,No,Donnybrook,Dublin 4,q3,70%
+17/10/2014,"72 Eglington Road, Donnybrook",Dublin,2600000.0,No,Donnybrook,Dublin 4,q4,100%
+31/10/2014,"4 Ransford, Sandford Ave, Donnybrook Dublin 4",Dublin,565000.0,No,Donnybrook,Dublin 4,q3,60%
+31/10/2014,"55 Nutley Rd, Donnybrook, Dublin 4",Dublin,1500000.0,No,Donnybrook,Dublin 4,q4,90%
+31/10/2014,"88 Pembrooke Cottages, Donnybrooke, Dublin 4",Dublin,335000.0,No,Donnybrook,Dublin 4,q1,20%
+04/11/2014,"2 Eglinton Woods, Eglinton Rd, Donnybrook Dublin 4",Dublin,215000.0,No,Donnybrook,Dublin 4,q1,10%
+06/11/2014,"37 Morehampton Sq, Donnybrook, Dublin 4",Dublin,115000.0,No,Donnybrook,Dublin 4,q1,10%
+14/11/2014,"15 Belmont Gardens, Donnybrook, Dublin 4",Dublin,1381888.99,No,Donnybrook,Dublin 4,q4,90%
+17/11/2014,"7 Bloomfield Park, Donnybrook, Dublin 4",Dublin,520000.0,No,Donnybrook,Dublin 4,q2,50%
+19/11/2014,"1 Brendan House, Brendan Rd, Donnybrook Dublin 4",Dublin,385000.0,No,Donnybrook,Dublin 4,q2,30%
+19/11/2014,"11 Donnybrook Green, Greenfield Park, Donnybrook Dublin 4",Dublin,219000.0,No,Donnybrook,Dublin 4,q1,10%
+02/12/2014,"82 The Eglington, Donnybrook Castle, Donnybrook",Dublin,390000.0,No,Donnybrook,Dublin 4,q2,30%
+09/12/2014,"Apt 41, Bloomfield Park, Donnybrook",Dublin,430000.0,No,Donnybrook,Dublin 4,q2,40%
+15/12/2014,"66 The Eglington, Donnybrook Castle, Dublin 4",Dublin,390000.0,No,Donnybrook,Dublin 4,q2,30%
+15/12/2014,"69 Eglington, Donnybrook Castle, Donnybrook Dublin 4",Dublin,370000.0,No,Donnybrook,Dublin 4,q1,30%
+15/12/2014,"7 Anglers Rest, Donnybrook, Dublin 4",Dublin,305000.0,No,Donnybrook,Dublin 4,q1,20%
+16/12/2014,"1 Mount Eden Rd, Donnybrook, Dublin 4",Dublin,1600000.0,No,Donnybrook,Dublin 4,q4,100%
+16/12/2014,"20 Marlborough Rd, Donnybrook, Dublin 4",Dublin,500734.0,No,Donnybrook,Dublin 4,q2,50%
+17/12/2014,"63 Marlborough Rd, Donnybrook, Dublin 4",Dublin,80000.0,No,Donnybrook,Dublin 4,q1,10%
+19/12/2014,"7 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,499500.0,No,Donnybrook,Dublin 4,q2,50%
+22/12/2014,"125 Morehampton Rd, Donnybrook, Dublin 4",Dublin,680000.0,No,Donnybrook,Dublin 4,q3,70%
+22/12/2014,"51 Belmont Ave, Donnybrook, Dublin 4",Dublin,1120000.0,No,Donnybrook,Dublin 4,q4,80%
+23/12/2014,"118 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,548000.0,No,Donnybrook,Dublin 4,q2,50%
+30/12/2014,"14 The Court, Donnybrook Castle",Dublin,425000.0,No,Donnybrook,Dublin 4,q2,40%
+13/01/2015,"57 Morehampton Sq, Donnybrook, Dublin 4",Dublin,380000.0,No,Donnybrook,Dublin 4,q2,30%
+15/01/2015,"St Peters, 91 Ailesbury Rd, Donnybrook Dublin 4",Dublin,2850000.0,No,Donnybrook,Dublin 4,q4,100%
+21/01/2015,"111 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,450000.0,No,Donnybrook,Dublin 4,q2,40%
+22/01/2015,"35 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,825000.0,No,Donnybrook,Dublin 4,q3,70%
+28/01/2015,"17 Donnybrook Castle, Donnybrook, Dublin 4",Dublin,380000.0,No,Donnybrook,Dublin 4,q2,30%
+28/01/2015,"81 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,562500.0,No,Donnybrook,Dublin 4,q2,50%
+29/01/2015,"Apt 65, Eglington Block, Donnybrook Castle Dublin 4",Dublin,370000.0,No,Donnybrook,Dublin 4,q1,30%
+06/02/2015,"Apt 2 42 Morehampton Rd, Donnybrook, Dublin 4",Dublin,600000.0,No,Donnybrook,Dublin 4,q3,60%
+16/02/2015,"Apartment 93 Bloomfield Park, Donnybrook, Dublin 4",Dublin,562500.0,No,Donnybrook,Dublin 4,q3,60%
+18/02/2015,"39 Morehampton Terrace, Donnybrook, Dublin 4",Dublin,720000.0,No,Donnybrook,Dublin 4,q3,70%
+23/02/2015,"67 Home Villas, Donnybrook, Dublin",Dublin,440000.0,No,Donnybrook,Dublin 4,q2,40%
+27/02/2015,"5 Brendan Rd, Donnybrook, Dublin 4",Dublin,1491500.0,No,Donnybrook,Dublin 4,q4,90%
+06/03/2015,"104 Morehampton Rd, Donnybrook, Dublin 4",Dublin,1275500.0,No,Donnybrook,Dublin 4,q4,90%
+16/03/2015,"90 Morehampton Rd, Donnybrook, Dublin 4",Dublin,950000.0,No,Donnybrook,Dublin 4,q3,80%
+30/03/2015,"40 Morehampton Terrace, Donnybrook, Dublin 4",Dublin,710000.0,No,Donnybrook,Dublin 4,q3,70%
+02/04/2015,"9 Ailesbury Dr, Donnybrook, Dublin 4",Dublin,1400000.0,No,Donnybrook,Dublin 4,q4,90%
+01/05/2015,"26A The Mews, Mount Eden Road, Donnybrook",Dublin,330000.0,Yes,Donnybrook,Dublin 4,q1,20%
+28/05/2015,"30 Beech Hill Crescent, Donnybrook, Dublin 4",Dublin,402000.0,No,Donnybrook,Dublin 4,q2,40%
+01/06/2015,"15  Donnybrook Green, Donnybrook, Dublin 4",Dublin,295550.0,No,Donnybrook,Dublin 4,q1,20%
+05/06/2015,"1 Pembroke Park, Donnybrook, Dublin 4",Dublin,6000.0,No,Donnybrook,Dublin 4,q1,10%
+09/06/2015,"18 Herbert Park Mews, Donnybrook, Dublin 4",Dublin,360000.0,No,Donnybrook,Dublin 4,q1,30%
+12/06/2015,"1 Pembroke Park, Donnybrook, Dublin 4",Dublin,6000.0,No,Donnybrook,Dublin 4,q1,10%
+12/06/2015,"42 Beech Hill Drive, Donnybrook, Dublin 4",Dublin,425000.0,No,Donnybrook,Dublin 4,q2,40%
+18/06/2015,"14 Beavers Row, Donnybrook, Dublin 4",Dublin,410000.0,No,Donnybrook,Dublin 4,q2,40%
+19/06/2015,"92 Beech Hill Dr, Donnybrook, Dublin 4",Dublin,439000.0,No,Donnybrook,Dublin 4,q2,40%
+22/06/2015,"112 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,565000.0,No,Donnybrook,Dublin 4,q3,60%
+23/06/2015,"64 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,550000.0,No,Donnybrook,Dublin 4,q2,50%
+24/06/2015,"43 Shrewsbury, Donnybrook Castle, Donnybrook Dublin 4",Dublin,243333.32,No,Donnybrook,Dublin 4,q1,10%
+25/06/2015,"19 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,428000.0,No,Donnybrook,Dublin 4,q2,40%
+26/06/2015,"Apartment 3  St. Ann'S, Ailesbury Road, Donnybrook",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+29/06/2015,"25 Donnybrook Ct, Beechhill Rd, Dublin 4",Dublin,306000.0,No,Donnybrook,Dublin 4,q1,20%
+30/06/2015,"Apartment 9, Bloomfield Park, Donnybrook  Dublin 4",Dublin,371100.0,No,Donnybrook,Dublin 4,q1,30%
+03/07/2015,"3 Eglinton Terrace, Donnybrook",Dublin,645000.0,No,Donnybrook,Dublin 4,q3,60%
+03/07/2015,"46 Belmont Ave, Donnybrook, Dublin 4",Dublin,1240000.0,No,Donnybrook,Dublin 4,q4,90%
+07/07/2015,"16 Herbert Park Mews, Eglinton Terrace, Donnybrook Dublin 4",Dublin,351000.0,No,Donnybrook,Dublin 4,q1,30%
+08/07/2015,"42 Anglesea Road, Donnybrook",Dublin,1300000.0,No,Donnybrook,Dublin 4,q4,90%
+09/07/2015,"1 Pembroke Park, Donnybrook, Dublin 4",Dublin,1220000.0,No,Donnybrook,Dublin 4,q4,90%
+10/07/2015,"111 Marlborough Road, Donnybrook, Dublin  4",Dublin,750000.0,No,Donnybrook,Dublin 4,q3,70%
+13/07/2015,"4 Anglers Rest, Beaver Row, Donnybrook Dublin 4",Dublin,325000.0,No,Donnybrook,Dublin 4,q1,20%
+16/07/2015,"22 Nutley Park, Donnybrook, Dublin 4",Dublin,1100000.0,No,Donnybrook,Dublin 4,q4,80%
+17/07/2015,"47 Donnybrook Manor, Belmont Avenue, Donnybrook",Dublin,410000.0,No,Donnybrook,Dublin 4,q2,40%
+21/07/2015,"52 Brooklands, Nutley Lane, Donnybrook",Dublin,335000.0,No,Donnybrook,Dublin 4,q1,20%
+30/07/2015,"15 Eglinton Park, Donnybrook, Dublin 4",Dublin,925000.0,No,Donnybrook,Dublin 4,q3,80%
+31/07/2015,"138 Donnybrook, Belmont Ave, Dublin 4",Dublin,550000.0,No,Donnybrook,Dublin 4,q2,50%
+05/08/2015,"4A Herbert Park, Donnybrook, Dublin 4",Dublin,720000.0,No,Donnybrook,Dublin 4,q3,70%
+07/08/2015,"2 Simmonscourt Terrace, Donnybrook, Dublin 4",Dublin,285000.0,No,Donnybrook,Dublin 4,q1,20%
+07/08/2015,"2 The Ailesbury, Donnybrook, Dublin 4",Dublin,341000.0,No,Donnybrook,Dublin 4,q1,30%
+14/08/2015,"22 Donnybrook Court, Beaver Row, Donnybrook Dublin 4",Dublin,345000.0,No,Donnybrook,Dublin 4,q1,30%
+14/08/2015,"5 Home Villas, Donnybrook, Dublin 4",Dublin,600000.0,No,Donnybrook,Dublin 4,q3,60%
+18/08/2015,"36 Belmont Ave, Donnybrook, Dublin 4",Dublin,1250000.0,No,Donnybrook,Dublin 4,q4,90%
+21/08/2015,"65 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,350000.0,No,Donnybrook,Dublin 4,q1,30%
+24/08/2015,"8 Home Villas, Donnybrook, Dublin",Dublin,525000.0,No,Donnybrook,Dublin 4,q2,50%
+28/08/2015,"3 Nutley Park, Donnybrook",Dublin,1425000.0,No,Donnybrook,Dublin 4,q4,90%
+04/09/2015,"10 Greenfield Park, Donnybrook, Dublin4",Dublin,1200000.0,No,Donnybrook,Dublin 4,q4,90%
+04/09/2015,"18 Edward Sq, Bloomfield Ave, Donnybrook Dublin 4",Dublin,1611500.0,No,Donnybrook,Dublin 4,q4,100%
+04/09/2015,"21 Belmont Gardens, Donnybrook, Dublin 4",Dublin,1350000.0,No,Donnybrook,Dublin 4,q4,90%
+11/09/2015,"8 Bloomfield Park, Donnybrook, Dublin 4",Dublin,555000.0,No,Donnybrook,Dublin 4,q2,50%
+14/09/2015,"73 Eglington, Donnybrook Castle, Donnybrook Dublin 4",Dublin,372500.0,No,Donnybrook,Dublin 4,q1,30%
+02/10/2015,"104 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,415000.0,No,Donnybrook,Dublin 4,q2,40%
+02/10/2015,"46 Nutley Rd, Donnybrook, Dublin 4",Dublin,1275000.0,No,Donnybrook,Dublin 4,q4,90%
+06/10/2015,"16 Morehampton Terrace, Donnybrook, Dublin 4",Dublin,1300000.0,No,Donnybrook,Dublin 4,q4,90%
+06/10/2015,"6 Bushfield Terrace, Donnybrook, Dublin City",Dublin,1270000.0,No,Donnybrook,Dublin 4,q4,90%
+19/10/2015,"108 Bloomfield Park, Donnybrook, Dublin",Dublin,537000.0,No,Donnybrook,Dublin 4,q2,50%
+23/10/2015,"71 Marlborough Rd, Donnybrook, Dublin 4",Dublin,1400000.0,No,Donnybrook,Dublin 4,q4,90%
+10/11/2015,"10A Beech Hill Drive, Donnybrook, Dublin 4",Dublin,380000.0,No,Donnybrook,Dublin 4,q2,30%
+11/11/2015,"19 A Leahys Terrace, Sandymount, Donnybrook",Dublin,1200000.0,No,Donnybrook,Dublin 4,q4,90%
+16/11/2015,"128 Morehampton Rd, Donnybrook, Dublin 4",Dublin,650000.0,No,Donnybrook,Dublin 4,q3,60%
+17/11/2015,"20 Greenfield Park, Donnybrook, Dublin 4",Dublin,1100000.0,No,Donnybrook,Dublin 4,q4,80%
+18/11/2015,"55 Nutley Lane, Donnybrook, Dublin 4",Dublin,1000000.0,No,Donnybrook,Dublin 4,q3,80%
+23/11/2015,"62 Pembroke Cottages, Donnybrook",Dublin,400000.0,No,Donnybrook,Dublin 4,q2,30%
+01/12/2015,"63 Belmont Ave, Donnybrook, Dublin 4",Dublin,931580.0,No,Donnybrook,Dublin 4,q3,80%
+02/12/2015,"3 Belmont Ave, Donnybrook, Dublin 4",Dublin,580000.0,No,Donnybrook,Dublin 4,q3,60%
+03/12/2015,"12 Errigal House, Eglington Court, Donnybrook",Dublin,250000.0,No,Donnybrook,Dublin 4,q1,10%
+04/12/2015,"4 Belmont Park, Donnybrook",Dublin,530000.0,No,Donnybrook,Dublin 4,q2,50%
+08/12/2015,"38 Bloomfield Park, Bloomfield Avenue, Donnybrook",Dublin,377500.0,No,Donnybrook,Dublin 4,q2,30%
+11/12/2015,"10 Belmont Park, Donnybrook",Dublin,670000.0,No,Donnybrook,Dublin 4,q3,60%
+16/12/2015,"39 Bloomfield Park, Donnybrook Dublin 4, Dublin",Dublin,540000.0,No,Donnybrook,Dublin 4,q2,50%
+17/12/2015,"50A Beech Hill, Ave Donnybrook, Dublin 4",Dublin,347000.0,No,Donnybrook,Dublin 4,q1,30%
+21/12/2015,"47 Belmont Ave, Donnybrook, Dublin 4",Dublin,1200000.0,No,Donnybrook,Dublin 4,q4,90%
+22/12/2015,"1 Beech Hill Avenue, Donnybrook, Dublin 4",Dublin,430000.0,No,Donnybrook,Dublin 4,q2,40%
+22/12/2015,"117 Leeson St Upper, Donnybrook, Dublin 4",Dublin,850000.0,No,Donnybrook,Dublin 4,q3,70%
+22/01/2016,"27 Nutley Sq, Greenfield Park, Donnybrook Dublin 4",Dublin,400000.0,No,Donnybrook,Dublin 4,q2,30%
+26/01/2016,"11 Auburn Ave, Donnybrook, Dublin 4",Dublin,880000.0,No,Donnybrook,Dublin 4,q3,80%
+28/01/2016,"12 Morehampton Sq, Donnybrook, Dublin 4",Dublin,340000.0,No,Donnybrook,Dublin 4,q1,20%
+02/02/2016,"4 Edward Place, Edward Sq, Donnybrook Dublin 4",Dublin,732000.0,No,Donnybrook,Dublin 4,q3,70%
+09/02/2016,"33 Beech Hill Crescent, Donnybrook, Dublin 4",Dublin,360000.0,No,Donnybrook,Dublin 4,q1,30%
+18/02/2016,"5 Morehampton Sq, Donnybrook, Dublin 4",Dublin,260000.0,No,Donnybrook,Dublin 4,q1,10%
+19/02/2016,"18 Donnybrook Court, Beech Hill Rd, Donnybrook Dublin 4",Dublin,320000.0,No,Donnybrook,Dublin 4,q1,20%
+25/02/2016,"70 Ailesbury Road, Donnybrook",Dublin,2250000.0,No,Donnybrook,Dublin 4,q4,100%
+29/02/2016,"11C Belfield Court, Donnybrook, Dublin 4",Dublin,320000.0,No,Donnybrook,Dublin 4,q1,20%
+29/02/2016,"9 Arranmore Road, Donnybrook",Dublin,1950000.0,No,Donnybrook,Dublin 4,q4,100%
+01/03/2016,"25 Mount Eden Road, Donnybrook, Dublin 4",Dublin,812000.0,No,Donnybrook,Dublin 4,q3,70%
+03/03/2016,"69 Eglinton Rd, Donnybrook, Dublin 4",Dublin,1290000.0,No,Donnybrook,Dublin 4,q4,90%
+04/03/2016,"116 Morehampton Rd, Donnybrook, Dublin 4",Dublin,1090000.0,No,Donnybrook,Dublin 4,q4,80%
+09/03/2016,"23 Brendan Road, Donnybrook, Dublin 4",Dublin,1070000.0,No,Donnybrook,Dublin 4,q4,80%
+11/03/2016,"11 Beech Hill Crescent, Donnybrook",Dublin,360000.0,No,Donnybrook,Dublin 4,q1,30%
+11/03/2016,"11 Herbert Park, Donnybrook, Dublin 4",Dublin,2500000.0,No,Donnybrook,Dublin 4,q4,100%
+18/03/2016,"2 Home Villas, Donnybrook, Dublin 4",Dublin,470000.0,No,Donnybrook,Dublin 4,q2,40%
+22/03/2016,"22 Leeson Village, Donnybrook, Dublin 4",Dublin,886000.0,No,Donnybrook,Dublin 4,q3,80%
+22/03/2016,"27 Donnybrook Court, Beaver Rd, Donnybrook Dublin 4",Dublin,350000.0,No,Donnybrook,Dublin 4,q1,30%
+22/03/2016,"50 Home Villas, Donnybrook, Dublin 4",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+31/03/2016,"45 Nutley Lane, Donnybrook, Dublin 4",Dublin,1275000.0,No,Donnybrook,Dublin 4,q4,90%
+31/03/2016,"67 Marlborough Rd, Donnybrook, Dublin 4",Dublin,1250000.0,No,Donnybrook,Dublin 4,q4,90%
+22/04/2016,"139 Sycamore House, Mespil House, Donnybrook",Dublin,275000.0,No,Donnybrook,Dublin 4,q1,10%
+26/04/2016,"69 Upper Leeson St, Donnybrook, Dublin 4",Dublin,1950000.0,No,Donnybrook,Dublin 4,q4,100%
+04/05/2016,"2 Eglinton Square, Donnybrook, Dublin 4",Dublin,760000.0,No,Donnybrook,Dublin 4,q3,70%
+05/05/2016,"185 Bloomfield Park, Donnybrook, Dublin",Dublin,765000.0,No,Donnybrook,Dublin 4,q3,70%
+06/05/2016,"43 Nutley Rd, Donnybrook, Dublin 4",Dublin,1295000.0,No,Donnybrook,Dublin 4,q4,90%
+06/05/2016,"6 Nutley Rd, Donnybrook, Dublin 4",Dublin,1560000.0,No,Donnybrook,Dublin 4,q4,90%
+10/05/2016,"70 Marlborough Rd, Donnybrook, Dublin",Dublin,785000.0,No,Donnybrook,Dublin 4,q3,70%
+10/05/2016,"8 Leeson St Upper, Donnybrook, Dublin 4",Dublin,1200000.0,No,Donnybrook,Dublin 4,q4,90%
+12/05/2016,"43 Nutley Lane, Donnybrook, Dublin 4",Dublin,1250000.0,No,Donnybrook,Dublin 4,q4,90%
+17/05/2016,"86 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,365000.0,No,Donnybrook,Dublin 4,q1,30%
+31/05/2016,"13 Simmonscourt Terrace, Donnybrook, Dublin 4",Dublin,300000.0,No,Donnybrook,Dublin 4,q1,20%
+31/05/2016,"St Marys, 4 Auburn Rd, Donnybrook Dublin 4",Dublin,880000.0,No,Donnybrook,Dublin 4,q3,80%
+10/06/2016,"18 Anglers Rest, Donnybrook, Dublin 4",Dublin,320000.0,No,Donnybrook,Dublin 4,q1,20%
+10/06/2016,"3 Belmont Park, Donnybrook, Dublin 4",Dublin,560000.0,No,Donnybrook,Dublin 4,q2,50%
+01/07/2016,"18 Nutley Lane, Donnybrook, Dublin 4",Dublin,1580000.0,No,Donnybrook,Dublin 4,q4,90%
+01/07/2016,"70 Cranford Court, Donnybrook, Dublin 4",Dublin,150000.0,No,Donnybrook,Dublin 4,q1,10%
+06/07/2016,"5 Eglinton Terrace, Donnybrook, Dublin 4",Dublin,859500.0,No,Donnybrook,Dublin 4,q3,70%
+08/07/2016,"19 Harmony Ave, Donnybrook, Dublin 4",Dublin,507000.0,No,Donnybrook,Dublin 4,q2,50%
+08/07/2016,"46 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,438000.0,No,Donnybrook,Dublin 4,q2,40%
+11/07/2016,"60 Donnybrook Castle, Donnybrook, Dublin 4",Dublin,385000.0,No,Donnybrook,Dublin 4,q2,30%
+26/07/2016,"11 Greenfield Crescent, Donnybrook, Dublin 4",Dublin,2700000.0,No,Donnybrook,Dublin 4,q4,100%
+27/07/2016,"72 Eglington, Donnybrook Castle, Donnybrook Dublin 4",Dublin,390000.0,No,Donnybrook,Dublin 4,q2,30%
+02/08/2016,"12 Mount Eden Rd, Donnybrook, Dublin 4",Dublin,2025000.0,No,Donnybrook,Dublin 4,q4,100%
+05/08/2016,"2 Beech Hill Terrace, Donnybrook, Dublin 4",Dublin,373000.0,No,Donnybrook,Dublin 4,q2,30%
+05/08/2016,"31 Home Villas, Donnybrook, Dublin 4",Dublin,505000.0,No,Donnybrook,Dublin 4,q2,50%
+10/08/2016,"6 Bloomfield Park, Donnybrook, Dublin 4",Dublin,465000.0,No,Donnybrook,Dublin 4,q2,40%
+12/08/2016,"43 Donnybrook Manor, Donnybrook, Dublin 14",Dublin,625000.0,No,Donnybrook,Dublin 4,q3,60%
+12/08/2016,"7 Greenfield Crescent, Donnybrook, Dublin 4",Dublin,1900000.0,No,Donnybrook,Dublin 4,q4,100%
+15/08/2016,"63 Beech Hill Dr, Donnybrook, Dublin 4",Dublin,425000.0,No,Donnybrook,Dublin 4,q2,40%
+24/08/2016,"3 The Court, Donnybrook Castle, Dublin 4",Dublin,1020000.0,No,Donnybrook,Dublin 4,q4,80%
+24/08/2016,"4 Belmont Gardens, Donnybrook, Dublin 4",Dublin,980000.0,No,Donnybrook,Dublin 4,q3,80%
+25/08/2016,"38 St Anns, Ailesbury Rd, Donnybrook Dublin 4",Dublin,410000.0,No,Donnybrook,Dublin 4,q2,40%
+26/08/2016,"9 Nutley Ave, Donnybrook, Dublin 4",Dublin,1615000.0,No,Donnybrook,Dublin 4,q4,100%
+29/08/2016,"17 Morehampton Sq, Donnybrook, Dublin 4",Dublin,422500.0,No,Donnybrook,Dublin 4,q2,40%
+01/09/2016,"Apt 6 Eglington Court, Eglington Road, Donnybrook",Dublin,250000.0,No,Donnybrook,Dublin 4,q1,10%
+09/09/2016,"10 Greenfield Manor, Greenfield Park, Donnybrook Dublin 4",Dublin,615000.0,No,Donnybrook,Dublin 4,q3,60%
+13/09/2016,"12 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,665000.0,No,Donnybrook,Dublin 4,q3,60%
+16/09/2016,"9 Donnybrook Green, Donnybrook, Dublin 4",Dublin,335000.0,No,Donnybrook,Dublin 4,q1,20%
+22/09/2016,"6 Morehampton Court, Morehampton Road, Donnybrook",Dublin,825000.0,No,Donnybrook,Dublin 4,q3,70%
+28/09/2016,"85 Bloomfield Park, Donnybrook, Dublin 4",Dublin,592500.0,No,Donnybrook,Dublin 4,q3,60%
+30/09/2016,"33 Belmont Gardens, Donnybrook, Dublin 4",Dublin,1000000.0,No,Donnybrook,Dublin 4,q4,80%
+03/10/2016,"21 Donnybrook Green, Donnybrook, Dublin",Dublin,237000.0,No,Donnybrook,Dublin 4,q1,10%
+04/10/2016,"16 Eglinton Park, Donnybrook, Dublin 4",Dublin,990000.0,No,Donnybrook,Dublin 4,q3,80%
+05/10/2016,"23 Greenfield Manor, Greenfield Park, Donnybrook Dublin 4",Dublin,1000000.0,No,Donnybrook,Dublin 4,q4,80%
+05/10/2016,"5 Donnybrook Green, Greenfield Park, Donnybrook Dublin 4",Dublin,342000.0,No,Donnybrook,Dublin 4,q1,30%
+06/10/2016,"7 Nutley Park, Donnybrook, Dublin 4",Dublin,1475000.0,No,Donnybrook,Dublin 4,q4,90%
+11/10/2016,"57 Marlborough Road, Donnybrook, Dublin4",Dublin,1025000.0,No,Donnybrook,Dublin 4,q4,80%
+14/10/2016,"10D Belfield Court, Donnybrook, Dublin 4",Dublin,345000.0,No,Donnybrook,Dublin 4,q1,30%
+18/10/2016,"54 Bloomfield Park, Donnybrook, Dublin 4",Dublin,340000.0,No,Donnybrook,Dublin 4,q1,20%
+24/10/2016,"12 Brendan Rd, Donnybrook, Dublin 4",Dublin,350000.0,No,Donnybrook,Dublin 4,q1,30%
+28/10/2016,"73 Belmont Ave, Donnybrook, Dublin 4",Dublin,850000.0,No,Donnybrook,Dublin 4,q3,70%
+28/10/2016,"Riversdale House, St. Ann'S, Ailsbury Road  Donnybrook",Dublin,1000000.0,No,Donnybrook,Dublin 4,q4,80%
+01/11/2016,"15 Belmont Park, Donnybrook, Dublin 4",Dublin,705000.0,No,Donnybrook,Dublin 4,q3,70%
+04/11/2016,"53 Belmont Ave, Donnybrook, Dublin 4",Dublin,1050000.0,No,Donnybrook,Dublin 4,q4,80%
+14/11/2016,"25 St Anns Apts, Donnybrook, Dublin 4",Dublin,475000.0,No,Donnybrook,Dublin 4,q2,40%
+14/11/2016,"65 Home Villas, Donnybrook, Dublin 4",Dublin,475000.0,No,Donnybrook,Dublin 4,q2,40%
+14/11/2016,"66 Brooklands, Nutley Lane, Donnybrook",Dublin,340000.0,No,Donnybrook,Dublin 4,q1,20%
+17/11/2016,"4 Northumberland Place, Donnybrook, Dublin 4",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+18/11/2016,"41 Marlborough Rd, Donnybrook, Dublin 4",Dublin,2200000.0,No,Donnybrook,Dublin 4,q4,100%
+21/11/2016,"2 Auburn Ave, Donnybrook, Dublin 4",Dublin,1200000.0,No,Donnybrook,Dublin 4,q4,90%
+21/11/2016,"5 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,355000.0,No,Donnybrook,Dublin 4,q1,30%
+22/11/2016,"78 Cranford Court, Donnybrook, Dublin 4",Dublin,212000.0,No,Donnybrook,Dublin 4,q1,10%
+24/11/2016,"84 Eglinton Rd, Donnybrook, Dublin 4",Dublin,1220000.0,No,Donnybrook,Dublin 4,q4,90%
+02/12/2016,"Millbrook, 27 Eglinton Road, Donnybrook",Dublin,2400000.0,No,Donnybrook,Dublin 4,q4,100%
+07/12/2016,"131 Donnybrook Manor, Belmont Ave, Dublin 4",Dublin,820000.0,No,Donnybrook,Dublin 4,q3,70%
+07/12/2016,"1A Beech Hill Ave, Donnybrook, Dublin 4",Dublin,435000.0,No,Donnybrook,Dublin 4,q2,40%
+09/12/2016,"69 Nutley Lane, Donnybrook, Dublin 4",Dublin,1120000.0,No,Donnybrook,Dublin 4,q4,80%
+13/12/2016,"38 Beech Hill Crescent, Donnybrook, Dublin 4",Dublin,565000.0,No,Donnybrook,Dublin 4,q3,60%
+15/12/2016,"56 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,370000.0,No,Donnybrook,Dublin 4,q1,30%
+22/12/2016,"24 Morehampton Terrace, Donnybrook, Dublin 4",Dublin,1150000.0,No,Donnybrook,Dublin 4,q4,80%
+12/01/2017,"Apt 5, 36 Morehampton Rd, Donnybrook Dublin 4",Dublin,167000.0,No,Donnybrook,Dublin 4,q1,10%
+23/01/2017,"49 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,592500.0,No,Donnybrook,Dublin 4,q3,60%
+26/01/2017,"30 Home Villas, Donnybrook, Dublin 4",Dublin,445000.0,No,Donnybrook,Dublin 4,q2,40%
+01/02/2017,"17 Carlisle Ave, Donnybrook, Dublin",Dublin,400000.0,No,Donnybrook,Dublin 4,q2,30%
+06/02/2017,"22 Nutley Park, Donnybrook, Dublin 4",Dublin,1900000.0,No,Donnybrook,Dublin 4,q4,100%
+07/02/2017,"79 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,527000.0,No,Donnybrook,Dublin 4,q2,50%
+08/02/2017,"39 Beech Hill Ave, Donnybrook, Dublin 4",Dublin,435500.0,No,Donnybrook,Dublin 4,q2,40%
+17/02/2017,"32 Beeechill Crescent, Donnybrook, Dublin 4",Dublin,465000.0,No,Donnybrook,Dublin 4,q2,40%
+17/02/2017,"5 Donnybrook Close, Donnybrook, Dublin 4",Dublin,875000.0,No,Donnybrook,Dublin 4,q3,70%
+21/02/2017,"21 Eglington Wood, Donnybrook, Dublin 4",Dublin,560000.0,No,Donnybrook,Dublin 4,q2,50%
+02/03/2017,"6 Anglesea Lodge, Anglesea Rd, Donnybrook",Dublin,650000.0,No,Donnybrook,Dublin 4,q3,60%
+06/03/2017,"73 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,540000.0,No,Donnybrook,Dublin 4,q2,50%
+10/03/2017,"33 Belmont Gardens, Donnybrook, Dublin 4",Dublin,1035000.0,No,Donnybrook,Dublin 4,q4,80%
+31/03/2017,"17 Brendan Rd, Donnybrook, Dublin 4",Dublin,1300000.0,No,Donnybrook,Dublin 4,q4,90%
+04/04/2017,"68 Eglinton Rd, Donnybrook, Dublin 4",Dublin,4250000.0,No,Donnybrook,Dublin 4,q4,100%
+12/04/2017,"28 Marlborough Rd, Donnybrook, Dublin 4",Dublin,1315000.0,No,Donnybrook,Dublin 4,q4,90%
+19/04/2017,"33 Eglington Rd, Donnybrook, Dublin 4",Dublin,1950000.0,No,Donnybrook,Dublin 4,q4,100%
+25/04/2017,"26 Victoria Ave, Donnybrook, Dublin 4",Dublin,810000.0,No,Donnybrook,Dublin 4,q3,70%
+09/05/2017,"1 Belmont Park, Donnybrook, Dublin 4",Dublin,660000.0,No,Donnybrook,Dublin 4,q3,60%
+11/05/2017,"179 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,765000.0,No,Donnybrook,Dublin 4,q3,70%
+12/05/2017,"15 Carlisle Ave, Donnybrook, Dublin 4",Dublin,1210000.0,No,Donnybrook,Dublin 4,q4,90%
+01/06/2017,"74 Marlborough Rd, Donnybrook, Dublin 4",Dublin,1500000.0,No,Donnybrook,Dublin 4,q4,90%
+02/06/2017,"108 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,409600.0,No,Donnybrook,Dublin 4,q2,40%
+02/06/2017,"2 Dunbur, Brookvale Rd, Donnybrook Dublin 4",Dublin,675000.0,No,Donnybrook,Dublin 4,q3,70%
+06/06/2017,"10 The Court, Donnybrook Castle, Donnybrook Dublin 4",Dublin,675000.0,No,Donnybrook,Dublin 4,q3,70%
+09/06/2017,"19 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,965000.0,No,Donnybrook,Dublin 4,q3,80%
+13/06/2017,"9 Brendan Road, Donnybrook, Dublin 4",Dublin,1525000.0,No,Donnybrook,Dublin 4,q4,90%
+14/06/2017,"72 Home Villas, Donnybrook, Dublin 4",Dublin,415000.0,No,Donnybrook,Dublin 4,q2,40%
+15/06/2017,"53 Burleigh Court, Burlington Rd, Donnybrook Dublin 4",Dublin,150000.0,No,Donnybrook,Dublin 4,q1,10%
+19/06/2017,"47 Morehampton Sq, Donnybrook, Dublin 4",Dublin,320000.0,No,Donnybrook,Dublin 4,q1,20%
+21/06/2017,"1 Eglinton Rd, Donnybrook, Dublin 4",Dublin,700000.0,No,Donnybrook,Dublin 4,q3,70%
+21/06/2017,"3 Eglinton Rd, Donnybrook, Dublin 4",Dublin,1200000.0,No,Donnybrook,Dublin 4,q4,90%
+21/06/2017,"9 Eglinton Road, Donnybrook, Dublin 4",Dublin,1400000.0,No,Donnybrook,Dublin 4,q4,90%
+22/06/2017,"31 Donnybrook Castle, Donnybrook, Dublin 4",Dublin,445000.0,No,Donnybrook,Dublin 4,q2,40%
+27/06/2017,"4 Eglinton Rd, Donnybrook, Dublin 4",Dublin,1100000.0,No,Donnybrook,Dublin 4,q4,80%
+29/06/2017,"29 Marlborough Rd, Donnybrook, Dublin 4",Dublin,2150000.0,No,Donnybrook,Dublin 4,q4,100%
+29/06/2017,"79 The Eglington, Donnybrook Castle, Donnybrook",Dublin,410000.0,No,Donnybrook,Dublin 4,q2,40%
+04/07/2017,"7 Brendan Rd, Donnybrook, Dublin 4",Dublin,1750000.0,No,Donnybrook,Dublin 4,q4,100%
+05/07/2017,"55 Brooklands, Nutley Lane, Donnybrook Dublin 4",Dublin,361000.0,No,Donnybrook,Dublin 4,q1,30%
+13/07/2017,"8 Mount Eden Road, Donnybrook, Dublin 4",Dublin,1390000.0,No,Donnybrook,Dublin 4,q4,90%
+19/07/2017,"28 Donnybrook Court, Beaver Row, Donnybrook",Dublin,339250.0,No,Donnybrook,Dublin 4,q1,20%
+19/07/2017,"34 Nutley Ave, Donnybrook, Dublin 4",Dublin,1650000.0,No,Donnybrook,Dublin 4,q4,100%
+26/07/2017,"22 Belmont Gardens, Donnybrook, Dublin 4",Dublin,910000.0,No,Donnybrook,Dublin 4,q3,80%
+28/07/2017,"54 Marlborough Rd, Donnybrook, Dublin 4",Dublin,1725000.0,No,Donnybrook,Dublin 4,q4,100%
+28/07/2017,"84 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,470000.0,No,Donnybrook,Dublin 4,q2,40%
+31/07/2017,"170 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+31/07/2017,"174 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+31/07/2017,"184 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,825000.0,No,Donnybrook,Dublin 4,q3,70%
+31/07/2017,"55 Home Villas, Donnybrook, Dublin 4",Dublin,681055.0,No,Donnybrook,Dublin 4,q3,70%
+31/07/2017,"72 Marlborough Rd, Donnybrook, Dublin",Dublin,653300.0,No,Donnybrook,Dublin 4,q3,60%
+02/08/2017,"6 Nutley Ave, Donnybrook, Dublin 4",Dublin,1200000.0,No,Donnybrook,Dublin 4,q4,90%
+04/08/2017,"159 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+08/08/2017,"12 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,950000.0,No,Donnybrook,Dublin 4,q3,80%
+08/08/2017,"17 Auburn Ave, Donnybrook, Dublin 4",Dublin,640000.0,No,Donnybrook,Dublin 4,q3,60%
+10/08/2017,"25 Swan Mews, Swan Place, Donnybrook Dublin 4",Dublin,650000.0,No,Donnybrook,Dublin 4,q3,60%
+24/08/2017,"12 Edward Place, Bloomfield, Donnybrook Dublin 4",Dublin,562500.0,No,Donnybrook,Dublin 4,q3,60%
+31/08/2017,"21 Mount Eden Rd, Donnybrook, Dublin 4",Dublin,1075000.0,No,Donnybrook,Dublin 4,q4,80%
+07/09/2017,"2 Edward Place, Bloomfield, Donnybrook Dublin 4",Dublin,850000.0,No,Donnybrook,Dublin 4,q3,70%
+08/09/2017,"14 Victoria Ave, Donnybrook, Dublin 4",Dublin,995000.0,No,Donnybrook,Dublin 4,q3,80%
+08/09/2017,"Apt 23 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,720000.0,No,Donnybrook,Dublin 4,q3,70%
+11/09/2017,"11 Edward Place, Edward Sq, Donnybrook Dublin 4",Dublin,545000.0,No,Donnybrook,Dublin 4,q2,50%
+11/09/2017,"Apt 3 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,615000.0,No,Donnybrook,Dublin 4,q3,60%
+13/09/2017,"24 Donnybrook Green, Greenfield Park, Donnybrook Dublin 4",Dublin,310000.0,No,Donnybrook,Dublin 4,q1,20%
+13/09/2017,"78 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,560000.0,No,Donnybrook,Dublin 4,q2,50%
+19/09/2017,"66 Marlborough Rd, Donnybrook, Dublin 4",Dublin,1195000.0,No,Donnybrook,Dublin 4,q4,90%
+20/09/2017,"42 Home Villas, Donnybrook, Dublin 4",Dublin,505000.0,No,Donnybrook,Dublin 4,q2,50%
+09/10/2017,"44 Shrewsbury, Donnybrook Castle, Dublin 4",Dublin,435000.0,No,Donnybrook,Dublin 4,q2,40%
+09/10/2017,"5 Argyle Rd, Donnybrook, Dublin 4",Dublin,3000000.0,No,Donnybrook,Dublin 4,q4,100%
+12/10/2017,"13 Edward Square, Bloomfield, Donnybrook",Dublin,2550000.0,No,Donnybrook,Dublin 4,q4,100%
+12/10/2017,"26 Morehampton Terrace, Donnybrook, Dublin 4",Dublin,1109000.0,No,Donnybrook,Dublin 4,q4,80%
+12/10/2017,"7 Eglinton Sq, Donnybrook, Dublin 4",Dublin,850000.0,No,Donnybrook,Dublin 4,q3,70%
+12/10/2017,"9 Edward Sq, Bloomfield, Donnybrook",Dublin,2728155.0,No,Donnybrook,Dublin 4,q4,100%
+13/10/2017,"10 Edward Sq, Edward Lane, Donnybrook",Dublin,2200000.0,No,Donnybrook,Dublin 4,q4,100%
+13/10/2017,"87 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,390000.0,No,Donnybrook,Dublin 4,q2,30%
+23/10/2017,"5 Arranmore Rd, Donnybrook, Dublin 4",Dublin,1960000.0,No,Donnybrook,Dublin 4,q4,100%
+23/10/2017,"8 Edward Sq, Donnybrook, Dublin 4",Dublin,2700000.0,No,Donnybrook,Dublin 4,q4,100%
+25/10/2017,"16 Morehampton Lane, Donnybrook, Dublin 4",Dublin,888000.0,No,Donnybrook,Dublin 4,q3,80%
+26/10/2017,"20 Donnybrook Court, Donnybrook, Dublin 4",Dublin,395000.0,No,Donnybrook,Dublin 4,q2,30%
+26/10/2017,"27 Victoria Ave, Donnybrook, Dublin 4",Dublin,825000.0,No,Donnybrook,Dublin 4,q3,70%
+31/10/2017,"3 Eglinton Court, Eglinton Rd, Donnybrook Dublin 4",Dublin,363000.0,No,Donnybrook,Dublin 4,q1,30%
+31/10/2017,"3 Mount Eden Rd, Donnybrook, Dublin 4",Dublin,2000000.0,No,Donnybrook,Dublin 4,q4,100%
+31/10/2017,"Aparmtent 4 3 Glaunsharoon, Eglinton Rd, Donnybrook Dublin 4",Dublin,770000.0,No,Donnybrook,Dublin 4,q3,70%
+02/11/2017,"3 Auburn Ave, Donnybrook, Dublin 4",Dublin,1106000.0,No,Donnybrook,Dublin 4,q4,80%
+03/11/2017,"11 Eglinton Rd, Donnybrook, Dublin 4",Dublin,3520000.0,No,Donnybrook,Dublin 4,q4,100%
+03/11/2017,"5 Eglinton Rd, Donnybrook, Dublin 4",Dublin,3520000.0,No,Donnybrook,Dublin 4,q4,100%
+03/11/2017,"7 Eglinton Rd, Donnybrook, Dublin 4",Dublin,3520000.0,No,Donnybrook,Dublin 4,q4,100%
+15/11/2017,"44 Brooklands, Nutley Lane, Donnybrook Dublin 4",Dublin,387500.0,No,Donnybrook,Dublin 4,q2,30%
+29/11/2017,"19 Brendan Road, Donnybrook, Dublin 4",Dublin,1250000.0,No,Donnybrook,Dublin 4,q4,90%
+01/12/2017,"17 Belmont Gardens, Donnybrook, Dublin 4",Dublin,1545000.0,No,Donnybrook,Dublin 4,q4,90%
+04/12/2017,"2A Nutley Rd, Donnybrook, Dublin 4",Dublin,1595000.0,No,Donnybrook,Dublin 4,q4,90%
+05/12/2017,"14 Mount Eden Rd, Donnybrook, Dublin 4",Dublin,3000000.0,No,Donnybrook,Dublin 4,q4,100%
+05/12/2017,"3 Shrewsbury Court, Ailesbury Rd, Donnybrook Dublin 4",Dublin,550000.0,No,Donnybrook,Dublin 4,q2,50%
+06/12/2017,"18 Nutley Sq, Greenfield Park, Donnybrook Dublin 4",Dublin,689000.0,No,Donnybrook,Dublin 4,q3,70%
+06/12/2017,"52 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,390000.0,No,Donnybrook,Dublin 4,q2,30%
+14/12/2017,"6 Anglers Rest, Beavor Row, Donnybrook Dublin 4",Dublin,315000.0,No,Donnybrook,Dublin 4,q1,20%
+15/12/2017,"2 The Ailesbury, Donnybrook Castle, Donnybrook",Dublin,435000.0,No,Donnybrook,Dublin 4,q2,40%
+15/12/2017,"20 Eglinton Wood, Eglinton Rd, Donnybrook Dublin 4",Dublin,670000.0,No,Donnybrook,Dublin 4,q3,60%
+18/12/2017,"26 Morehampton Lane, Donnybrook, Dublin 4",Dublin,2050000.0,Yes,Donnybrook,Dublin 4,q4,100%
+19/12/2017,"83 85 Morehampton Rd, Donnybrook, Dublin 4",Dublin,400000.0,No,Donnybrook,Dublin 4,q2,30%
+20/12/2017,"21 Cranford Court, Donnybrook, Dublin 4",Dublin,278000.0,No,Donnybrook,Dublin 4,q1,10%
+21/12/2017,"68 Bloomfield, Donnybrook, Dublin 4",Dublin,426000.0,No,Donnybrook,Dublin 4,q2,40%
+21/12/2017,"Eglinton House, 75 Eglinton Rd, Donnybrook Dublin 4",Dublin,2900000.0,No,Donnybrook,Dublin 4,q4,100%
+22/12/2017,"2 Elm Park, Donnybrook, Dublin",Dublin,1240000.0,No,Donnybrook,Dublin 4,q4,90%
+04/01/2018,"1 Maple, Hazeldene, Donnybrook Dublin 4",Dublin,765000.0,No,Donnybrook,Dublin 4,q3,70%
+10/01/2018,"6 Edward Place, Bloomfield Ave, Donnybrook",Dublin,420000.0,No,Donnybrook,Dublin 4,q2,40%
+11/01/2018,"20 Auburn Ave, Donnybrook, Dublin 4",Dublin,880000.0,No,Donnybrook,Dublin 4,q3,80%
+26/01/2018,"53 Morehampton Sq, Donnybrook, Dublin 4",Dublin,340000.0,No,Donnybrook,Dublin 4,q1,20%
+29/01/2018,"15D Beech Hill Dr, Donnybrook, Dublin 4",Dublin,537000.0,No,Donnybrook,Dublin 4,q2,50%
+29/01/2018,"56 Home Villas, Donnybrook, Dublin 4",Dublin,670000.0,No,Donnybrook,Dublin 4,q3,60%
+07/02/2018,"31 Leeson Village, Donnybrook, Dublin 4",Dublin,350000.0,No,Donnybrook,Dublin 4,q1,30%
+08/02/2018,"23 Harmony Avenue, Donnybrook, Dublin 4",Dublin,470000.0,No,Donnybrook,Dublin 4,q2,40%
+09/02/2018,"16 Edward Sq, Bloomfield, Donnybrook Dublin 4",Dublin,2400000.0,No,Donnybrook,Dublin 4,q4,100%
+09/02/2018,"6 Marlborough Rd, Donnybrook, Dublin 4",Dublin,850000.0,No,Donnybrook,Dublin 4,q3,70%
+21/02/2018,"20 St Anns, Ailesbury Rd, Donnybrook Dublin 4",Dublin,320000.0,No,Donnybrook,Dublin 4,q1,20%
+21/02/2018,"60 Home Villas, Donnybrook, Dublin 4",Dublin,560000.0,No,Donnybrook,Dublin 4,q2,50%
+26/02/2018,"2 St Brocs Cottages, Donnybrook, Dublin 4",Dublin,370000.0,No,Donnybrook,Dublin 4,q1,30%
+28/02/2018,"25 Morehampton Lane, Donnybrook",Dublin,2048458.15,Yes,Donnybrook,Dublin 4,q4,100%
+28/02/2018,"6 Eglinton Park, Donnybrook, Dublin 4",Dublin,1700000.0,No,Donnybrook,Dublin 4,q4,100%
+05/03/2018,"90 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,552500.0,No,Donnybrook,Dublin 4,q2,50%
+06/03/2018,"5 Harmony Ave, Donnybrook, Dublin 4",Dublin,695000.0,No,Donnybrook,Dublin 4,q3,70%
+07/03/2018,"39 Belmont Ave, Donnybrook, Dublin 4",Dublin,1025000.0,No,Donnybrook,Dublin 4,q4,80%
+08/03/2018,"54 Bloomfield Park, Donnybrook, Dublin 4",Dublin,430000.0,No,Donnybrook,Dublin 4,q2,40%
+27/03/2018,"20 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,635000.0,No,Donnybrook,Dublin 4,q3,60%
+27/03/2018,"84 Eglinton Rd, Donnybrook, Dublin 4",Dublin,2480000.0,No,Donnybrook,Dublin 4,q4,100%
+28/03/2018,"34 Home Villas, Donnybrook, Dublin 4",Dublin,442000.0,No,Donnybrook,Dublin 4,q2,40%
+05/04/2018,"113 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,599000.0,No,Donnybrook,Dublin 4,q3,60%
+10/04/2018,"39 Bloomfield Park, Block A, Donnybrook",Dublin,635000.0,No,Donnybrook,Dublin 4,q3,60%
+18/04/2018,"103 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,515000.0,No,Donnybrook,Dublin 4,q2,50%
+19/04/2018,"43 Marlborough Rd, Donnybrook, Dublin 4",Dublin,2100000.0,No,Donnybrook,Dublin 4,q4,100%
+19/04/2018,"46 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,520000.0,No,Donnybrook,Dublin 4,q2,50%
+25/04/2018,"3 Elm Park, Donnybrook, Dublin 4",Dublin,1190000.0,No,Donnybrook,Dublin 4,q4,90%
+26/04/2018,"3 Edward Place, Bloomfield, Donnybrook Dublin 4",Dublin,847000.0,No,Donnybrook,Dublin 4,q3,70%
+27/04/2018,"44 Beech Hill Ave, Donnybrook, Dublin 4",Dublin,625000.0,No,Donnybrook,Dublin 4,q3,60%
+02/05/2018,"28 Morehampton Lane, Donnybrook",Dublin,1762115.0,Yes,Donnybrook,Dublin 4,q4,100%
+02/05/2018,"7 Belville, Ailesbury Rd, Donnybrook",Dublin,430000.0,No,Donnybrook,Dublin 4,q2,40%
+03/05/2018,"60 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,760000.0,No,Donnybrook,Dublin 4,q3,70%
+09/05/2018,"1 Belville Apts, Ailesbury Close, Donnybrook Dublin 4",Dublin,150000.0,No,Donnybrook,Dublin 4,q1,10%
+09/05/2018,"3 Belville Apts, Ailesbury Close, Donnybrook Dublin 4",Dublin,150000.0,No,Donnybrook,Dublin 4,q1,10%
+17/05/2018,"20 Edward Lane, Bloomfield, Donnybrook",Dublin,992110.0,No,Donnybrook,Dublin 4,q3,80%
+18/05/2018,"Belmont House, 70 Belmont Ave, Donnybrook Dublin 4",Dublin,2350000.0,No,Donnybrook,Dublin 4,q4,100%
+22/05/2018,"60 Belmont Ave, Donnybrook, Dublin 4",Dublin,1750000.0,No,Donnybrook,Dublin 4,q4,100%
+06/06/2018,"27 Morehampton Lane, Donnybrook, Dublin 4",Dublin,1828193.0,Yes,Donnybrook,Dublin 4,q4,100%
+06/06/2018,"Apt 7 Edward Place, Bloomfield, Donnybrook",Dublin,330000.0,No,Donnybrook,Dublin 4,q1,20%
+08/06/2018,"5 Edward Place, Bloomfield Ave, Donnybrook Dublin 4",Dublin,845000.0,No,Donnybrook,Dublin 4,q3,70%
+13/06/2018,"Aprt. 7  Edward Lane, Bloomfield, Donnybrook",Dublin,1500000.0,No,Donnybrook,Dublin 4,q4,90%
+14/06/2018,"12 The Ailesbury, Donnybrook Castle, Donnybrook Dublin 4",Dublin,450000.0,No,Donnybrook,Dublin 4,q2,40%
+22/06/2018,"10 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,596543.0,No,Donnybrook,Dublin 4,q3,60%
+25/06/2018,"16 Auburn Ave, Donnybrook, Dublin 4",Dublin,705000.0,No,Donnybrook,Dublin 4,q3,70%
+28/06/2018,"76 Marlborough Rd, Donnybrook, Dublin 4",Dublin,1690000.0,No,Donnybrook,Dublin 4,q4,100%
+13/07/2018,"11 Belmont Park, Donnybrook, Dublin 4",Dublin,722000.0,No,Donnybrook,Dublin 4,q3,70%
+23/07/2018,"57A Belmont Ave, Donnybrook, Dublin 4",Dublin,1030000.0,No,Donnybrook,Dublin 4,q4,80%
+26/07/2018,"Sans Souci, 82A Eglinton Rd, Donnybrook Dublin 4",Dublin,900000.0,No,Donnybrook,Dublin 4,q3,80%
+01/08/2018,"14 Edward Sq, Bloomfield, Donnybrook Dublin 4",Dublin,2398000.0,No,Donnybrook,Dublin 4,q4,100%
+02/08/2018,"Apt 76 The Eglinton, Donnybrook Castle, Dublin 4",Dublin,465000.0,No,Donnybrook,Dublin 4,q2,40%
+08/08/2018,"8 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,250000.0,No,Donnybrook,Dublin 4,q1,10%
+09/08/2018,"10 Airfield Court, Donnybrook, Dublin 4",Dublin,481765.0,No,Donnybrook,Dublin 4,q2,50%
+09/08/2018,"5 Brendan House, Brendan Rd, Donnybrook Dublin 4",Dublin,588000.0,No,Donnybrook,Dublin 4,q3,60%
+13/08/2018,"52 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,660000.0,No,Donnybrook,Dublin 4,q3,60%
+20/08/2018,"86 Beech Hill Dr, Donnybrook, Dublin 4",Dublin,521000.0,No,Donnybrook,Dublin 4,q2,50%
+21/08/2018,"6 Broc Hall, Beaver Row, Donnybrook Dublin 4",Dublin,303000.0,No,Donnybrook,Dublin 4,q1,20%
+21/08/2018,"72 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,675000.0,No,Donnybrook,Dublin 4,q3,70%
+23/08/2018,"6 Anglers Rest, Beavor Row, Donnybrook Dublin 4",Dublin,315000.0,No,Donnybrook,Dublin 4,q1,20%
+31/08/2018,"15 Donnybrook Court, Dublin 4, Dublin",Dublin,530000.0,No,Donnybrook,Dublin 4,q2,50%
+31/08/2018,"35 Nutley Lane, Donnybrook, Dublin 4",Dublin,2400000.0,No,Donnybrook,Dublin 4,q4,100%
+31/08/2018,"4 Eglinton Park, Donnybrook, Dublin",Dublin,1057000.0,No,Donnybrook,Dublin 4,q4,80%
+07/09/2018,"14 Greenfield Manor, Greenfield Park, Donnybrook Dublin 4",Dublin,670000.0,No,Donnybrook,Dublin 4,q3,60%
+07/09/2018,"52 Shrewsbury, Donnybrook Castle, Dublin 4",Dublin,329000.0,No,Donnybrook,Dublin 4,q1,20%
+12/09/2018,"1 Belville Apts, Ailesbury Close, Donnybrook Dublin 4",Dublin,315000.0,No,Donnybrook,Dublin 4,q1,20%
+13/09/2018,"11 Edward Lane, Donnybrook, Dublin 4",Dublin,960000.0,No,Donnybrook,Dublin 4,q3,80%
+13/09/2018,"Apt 2 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,581000.0,No,Donnybrook,Dublin 4,q3,60%
+18/09/2018,"6 Nutley Rd, Donnybrook, Dublin 4",Dublin,1700000.0,No,Donnybrook,Dublin 4,q4,100%
+18/09/2018,"83 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,560000.0,No,Donnybrook,Dublin 4,q2,50%
+25/09/2018,"8D Belfield Court, Donnybrook Dublin 4, Dublin",Dublin,300000.0,No,Donnybrook,Dublin 4,q1,20%
+04/10/2018,"43 Belmont Avenue, Donnybrook, Dublin 4",Dublin,1110000.0,No,Donnybrook,Dublin 4,q4,80%
+08/10/2018,"90 Marlborough Rd, Donnybrook, Dublin 4",Dublin,1925000.0,No,Donnybrook,Dublin 4,q4,100%
+11/10/2018,"11 Argyle Rd, Donnybrook, Dublin 4",Dublin,3600000.0,No,Donnybrook,Dublin 4,q4,100%
+25/10/2018,"19 Sandford Ave, Donnybrook, Dublin 4",Dublin,900000.0,No,Donnybrook,Dublin 4,q3,80%
+25/10/2018,"85 Morehampton Square, Donnybrook, Dublin 4",Dublin,360000.0,No,Donnybrook,Dublin 4,q1,30%
+31/10/2018,"17 Edward Sq, Bloomfield, Donnybrook Dublin 4",Dublin,2397000.0,No,Donnybrook,Dublin 4,q4,100%
+09/11/2018,"37 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,560000.0,No,Donnybrook,Dublin 4,q2,50%
+12/11/2018,"19 Melmore, Eglington Court, Donnybrook Dublin 4",Dublin,355000.0,No,Donnybrook,Dublin 4,q1,30%
+14/11/2018,"3 Belmont Gardens, Donnybrook, Dublin 4",Dublin,1522500.0,No,Donnybrook,Dublin 4,q4,90%
+16/11/2018,"21 Ailesbury Dr, Donnybrook, Dublin 4",Dublin,1500000.0,No,Donnybrook,Dublin 4,q4,90%
+23/11/2018,"24 Home Villas, Donnybrook, Dublin 4",Dublin,483000.0,No,Donnybrook,Dublin 4,q2,50%
+01/12/2018,"7 St Anns Apt, Ailesbury Rd, Donnybrook Dublin 4",Dublin,550000.0,No,Donnybrook,Dublin 4,q2,50%
+03/12/2018,"Apt 5, Edward Lane, Donnybrook Dublin 4",Dublin,695000.0,No,Donnybrook,Dublin 4,q3,70%
+05/12/2018,"85 Nutley Lane, Donnybrook, Dublin 4",Dublin,2500000.0,No,Donnybrook,Dublin 4,q4,100%
+06/12/2018,"3 Bushfield Terrace, Donnybrook, Dublin 4",Dublin,1400000.0,No,Donnybrook,Dublin 4,q4,90%
+12/12/2018,"20 Glaunsharoon, Eglinton Rd, Donnybrook Dublin 4",Dublin,640000.0,No,Donnybrook,Dublin 4,q3,60%
+19/12/2018,"9 Edward Lane, Bloomfield Ave, Donnybrook",Dublin,990000.0,No,Donnybrook,Dublin 4,q3,80%
+21/12/2018,"Apt 32, Donnybrook Court, Beaver Row Dublin 4",Dublin,215000.0,No,Donnybrook,Dublin 4,q1,10%
+08/01/2019,"54 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,412500.0,No,Donnybrook,Dublin 4,q2,40%
+11/01/2019,"Apt 1, 36 Morehampton Rd, Donnybrook",Dublin,220000.0,No,Donnybrook,Dublin 4,q1,10%
+15/01/2019,"3 Airfield Park, Donnybrook, Dublin 4",Dublin,1625000.0,No,Donnybrook,Dublin 4,q4,100%
+18/01/2019,"14 Morehampton Mews, Morehampton Rd, Donnybrook Dublin 4",Dublin,372000.0,No,Donnybrook,Dublin 4,q1,30%
+18/01/2019,"9 Argyle Rd, Donnybrook, Dublin 4",Dublin,2650000.0,No,Donnybrook,Dublin 4,q4,100%
+23/01/2019,"22 Eglintyon Road, Donnybrook, Dublin 4",Dublin,300000.0,No,Donnybrook,Dublin 4,q1,20%
+28/01/2019,"27 Morehampton Sq, Donnybrook, Dublin 4",Dublin,465000.0,No,Donnybrook,Dublin 4,q2,40%
+05/02/2019,"25 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,450000.0,No,Donnybrook,Dublin 4,q2,40%
+06/02/2019,"2 Beech Hill Terrace, Donnybrook, Dublin 4",Dublin,607000.0,No,Donnybrook,Dublin 4,q3,60%
+08/02/2019,"5 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,560000.0,No,Donnybrook,Dublin 4,q2,50%
+11/02/2019,"52  Shrewsbury, Donnybrook Castle, Dublin 4",Dublin,141000.0,No,Donnybrook,Dublin 4,q1,10%
+22/02/2019,"23 Greenfield Manor, Greenfield Park, Donnybrook Dublin 4",Dublin,1140000.0,No,Donnybrook,Dublin 4,q4,80%
+22/02/2019,"5 Brookvale Rd, Donnybrook, Dublin 4",Dublin,605000.0,No,Donnybrook,Dublin 4,q3,60%
+25/02/2019,"14 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,535000.0,No,Donnybrook,Dublin 4,q2,50%
+25/02/2019,"14 Marlborough Rd, Donnybrook, Dublin 4",Dublin,795000.0,No,Donnybrook,Dublin 4,q3,70%
+25/02/2019,"18 Bloomfield Park, Donnybrook, Dublin",Dublin,485000.0,No,Donnybrook,Dublin 4,q2,50%
+25/02/2019,"22 Bloomfield Park, Donnybrook, Dublin",Dublin,495000.0,No,Donnybrook,Dublin 4,q2,50%
+25/02/2019,"Apt  1  54 Leeson Park, Donnybrook, Dublin 4",Dublin,1791241.0,No,Donnybrook,Dublin 4,q4,100%
+25/02/2019,"Eglinton House, 75 Eglinton Rd, Donnybrook Dublin 4",Dublin,2960000.0,No,Donnybrook,Dublin 4,q4,100%
+01/03/2019,"6 Sandford Ave, Donnybrook, Dublin 4",Dublin,900000.0,No,Donnybrook,Dublin 4,q3,80%
+04/03/2019,"20 Sussex Rd, Donnybrook, Dublin 4",Dublin,570000.0,No,Donnybrook,Dublin 4,q3,60%
+05/03/2019,"29 Harmoney Ave, Donnybrook, Dublin 4",Dublin,500000.0,No,Donnybrook,Dublin 4,q2,50%
+08/03/2019,"3 Morehampton Terrace, Donnybrook, Dublin 4",Dublin,750000.0,No,Donnybrook,Dublin 4,q3,70%
+29/03/2019,"35 Moorehampton Road, Donnybrook, Dublin 4",Dublin,900000.0,No,Donnybrook,Dublin 4,q3,80%
+29/03/2019,"Apt 22 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,562790.0,No,Donnybrook,Dublin 4,q3,60%
+09/04/2019,"12 Beech Hill Crescent, Donnybrook, Dublin 4",Dublin,585000.0,No,Donnybrook,Dublin 4,q3,60%
+12/04/2019,"67 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,525000.0,No,Donnybrook,Dublin 4,q2,50%
+15/04/2019,"1 Airfield Terrace, Airfield Park, Donnybrook Dublin 4",Dublin,410000.0,No,Donnybrook,Dublin 4,q2,40%
+26/04/2019,"21 Morehampton Sq, Bloomfield Ave, Donnybrook Dublin 4",Dublin,460000.0,No,Donnybrook,Dublin 4,q2,40%
+26/04/2019,"80 Eglinton Rd, Donnybrook, Dublin 4",Dublin,2175000.0,No,Donnybrook,Dublin 4,q4,100%
+23/05/2019,"2 St Brocs Cottages, Donnybrook, Dublin 4",Dublin,660000.0,No,Donnybrook,Dublin 4,q3,60%
+24/05/2019,"119 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,655000.0,No,Donnybrook,Dublin 4,q3,60%
+27/05/2019,"17 Belmont Park, Donnybrook, Dublin 4",Dublin,685000.0,No,Donnybrook,Dublin 4,q3,70%
+30/05/2019,"12 Brookvale Road, Donnybrook, Dublin 4",Dublin,615000.0,No,Donnybrook,Dublin 4,q3,60%
+06/06/2019,"115 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,740000.0,No,Donnybrook,Dublin 4,q3,70%
+06/06/2019,"15 Airfield Park, Donnybrook, Dublin 4",Dublin,450000.0,No,Donnybrook,Dublin 4,q2,40%
+12/06/2019,"24 The Elms, Donnybrook, Dublin 4",Dublin,865000.0,No,Donnybrook,Dublin 4,q3,70%
+17/06/2019,"99 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,475000.0,No,Donnybrook,Dublin 4,q2,40%
+24/06/2019,"Apt 2, 57 Marlborough Road, Donnybrook",Dublin,2090000.0,No,Donnybrook,Dublin 4,q4,100%
+25/06/2019,"Apt 21 Edward Lane, Bloomfield, Donnybrook Dublin 4",Dublin,540000.0,No,Donnybrook,Dublin 4,q2,50%
+05/07/2019,"19 Anglers Rest, Beaver Row, Donnybrook",Dublin,353000.0,No,Donnybrook,Dublin 4,q1,30%
+09/07/2019,"16 Ailesbury, Donnybrook Castle, Donnybrook Dublin 4",Dublin,412500.0,No,Donnybrook,Dublin 4,q2,40%
+12/07/2019,"34 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,650000.0,No,Donnybrook,Dublin 4,q3,60%
+12/07/2019,"Apt 8 St Anns, Ailesbury Rd, Donnybrook",Dublin,625000.0,No,Donnybrook,Dublin 4,q3,60%
+16/07/2019,"60 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,520000.0,No,Donnybrook,Dublin 4,q2,50%
+23/07/2019,"11 Brookvale Rd, Donnybrook, Dublin 4",Dublin,420000.0,No,Donnybrook,Dublin 4,q2,40%
+24/07/2019,"16 Brooklands, Nutley Lane, Donnybrook Dublin 4",Dublin,415000.0,No,Donnybrook,Dublin 4,q2,40%
+26/07/2019,"13 Belmont Gardens, Donnybrook, Dublin 4",Dublin,1072500.0,No,Donnybrook,Dublin 4,q4,80%
+31/07/2019,"82 Morehampton Sq, Donnybrook, Dublin 4",Dublin,437000.0,No,Donnybrook,Dublin 4,q2,40%
+31/07/2019,"98 Morehampton Rd, Donnybrook, Dublin 4",Dublin,1430000.0,No,Donnybrook,Dublin 4,q4,90%
+12/08/2019,"17 Harmony Ave, Donnybrook, Dublin 4",Dublin,490000.0,No,Donnybrook,Dublin 4,q2,50%
+12/08/2019,"18 Airfield Court, Donnybrook, Dublin 4",Dublin,492000.0,No,Donnybrook,Dublin 4,q2,50%
+14/08/2019,"25 Donnybrook Castle, Donnybrook, Dublin 4",Dublin,885000.0,No,Donnybrook,Dublin 4,q3,80%
+14/08/2019,"3 Brookvale Rd, Donnybrook, Dublin 4",Dublin,502500.0,No,Donnybrook,Dublin 4,q2,50%
+14/08/2019,"34 Bloomfield Park, Bloomfield Ave, Donnybrook Dublin 4",Dublin,420000.0,No,Donnybrook,Dublin 4,q2,40%
+15/08/2019,"45 Merrion Court, Merrion Rd, Donnybrook Dublin 4",Dublin,480000.0,No,Donnybrook,Dublin 4,q2,50%
+19/08/2019,"45 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,640000.0,No,Donnybrook,Dublin 4,q3,60%
+19/08/2019,"60 Marlborough Rd, Donnybrook, Dublin 4",Dublin,1400000.0,No,Donnybrook,Dublin 4,q4,90%
+21/08/2019,"74 Eglington, Donnybrook Castle, Dublin 4",Dublin,420000.0,No,Donnybrook,Dublin 4,q2,40%
+22/08/2019,"55 Morehampton Square, Donnybrook, Dublin 4",Dublin,325000.0,No,Donnybrook,Dublin 4,q1,20%
+27/08/2019,"37 Donnybrook Castle, Donnybrook, Dublin 4",Dublin,414000.0,No,Donnybrook,Dublin 4,q2,40%
+29/08/2019,"23 Marlborough Road, Donnybrook, Dublin 4",Dublin,1500000.0,No,Donnybrook,Dublin 4,q4,90%
+05/09/2019,"47 Donnybrook Manor, Dublin 4, Dublin",Dublin,540000.0,No,Donnybrook,Dublin 4,q2,50%
+11/09/2019,"37 Nutley Rd, Donnybrook, Dublin 4",Dublin,1435000.0,No,Donnybrook,Dublin 4,q4,90%
+13/09/2019,"54 Pembroke Cottages, Donnybrook, Dublin 4",Dublin,660000.0,No,Donnybrook,Dublin 4,q3,60%
+13/09/2019,"55 Beech Hill Ave, Donnybrook, Dublin 4",Dublin,417000.0,No,Donnybrook,Dublin 4,q2,40%
+18/09/2019,"5 Park Mews, Donnybrook, Dublin 4",Dublin,450000.0,No,Donnybrook,Dublin 4,q2,40%
+20/09/2019,"Apartment 93 Bloomfield Park, Donnybrook, Dublin 4",Dublin,560000.0,No,Donnybrook,Dublin 4,q2,50%
+23/09/2019,"100 Donnybrook Manor, Donnybrook, Dublin 4",Dublin,940000.0,No,Donnybrook,Dublin 4,q3,80%
+24/09/2019,"Wavetree, Stone House, Donnybrook Dublin 4",Dublin,1700000.0,No,Donnybrook,Dublin 4,q4,100%
+25/09/2019,"10 Morehampton Terrace, Donnybrook, Dublin 4",Dublin,770000.0,No,Donnybrook,Dublin 4,q3,70%
+26/09/2019,"4 St Brocs Cottages, Donnybrook, Dublin 4",Dublin,505000.0,No,Donnybrook,Dublin 4,q2,50%
+27/09/2019,"17 Beaver Row, Donnybrook, Dublin 4",Dublin,775000.0,No,Donnybrook,Dublin 4,q3,70%
+07/10/2019,"54 Belmont Ave, Donnybrook, Dublin 4",Dublin,1120000.0,No,Donnybrook,Dublin 4,q4,80%
+14/10/2019,"37 Beechhill Crescent, Donnybrook, Dublin 4",Dublin,505000.0,No,Donnybrook,Dublin 4,q2,50%
+22/10/2019,"8 Morehampton Mews, 2 Morehampton Rd, Donnybrook Dublin 4",Dublin,415000.0,No,Donnybrook,Dublin 4,q2,40%

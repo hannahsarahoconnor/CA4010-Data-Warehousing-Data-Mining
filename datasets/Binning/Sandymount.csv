@@ -1,0 +1,959 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+06/01/2010,"11 Tritonville Court, Sandymount",Dublin,684000.0,No,Sandymount,Dublin 4,q3,70%
+15/01/2010,"10 Herbert Road, Sandymount",Dublin,2030000.0,No,Sandymount,Dublin 4,q4,100%
+22/01/2010,"72 Tritonville Road, Sandymount",Dublin,600000.0,No,Sandymount,Dublin 4,q3,60%
+28/01/2010,"No 11 Shrewsbury Square, Sandymount Avenue, Sandymount",Dublin,605500.0,Yes,Sandymount,Dublin 4,q3,60%
+29/01/2010,"71  Shrewsbury Square, Sandymount Avenue",Dublin,572687.22,Yes,Sandymount,Dublin 4,q2,50%
+01/02/2010,"45 Oaklands Park, Sandymount",Dublin,652000.0,No,Sandymount,Dublin 4,q3,60%
+04/02/2010,"31 Derrynane Gardens, Sandymount, Dublin 4",Dublin,300000.0,No,Sandymount,Dublin 4,q1,20%
+10/02/2010,"5 Willowfield, Park Avenue, Sandymount",Dublin,400000.0,No,Sandymount,Dublin 4,q1,30%
+18/02/2010,"6 Bath Avenue Gardens, Sandymount",Dublin,725000.0,No,Sandymount,Dublin 4,q3,70%
+19/02/2010,"81 Tritonville Road, Sandymount, Dublin 4",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+26/02/2010,"4 Claremount Park, Sandymount",Dublin,905000.0,No,Sandymount,Dublin 4,q4,80%
+01/03/2010,"24 Oaklands Park, Sandymount",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+02/03/2010,"23 Willowfield, Park Avenue  Sandymount, Dublin 4",Dublin,265000.0,No,Sandymount,Dublin 4,q1,10%
+02/03/2010,"23 Willowfield, Park Avenue  Sandymount, Dublin 4",Dublin,265000.0,No,Sandymount,Dublin 4,q1,10%
+02/03/2010,"24 St.Cathryn'S Court, Newgrove Avenue, Sandymount",Dublin,180000.0,No,Sandymount,Dublin 4,q1,10%
+04/03/2010,"35 Seafort Avenue, Sandymount",Dublin,630000.0,No,Sandymount,Dublin 4,q3,60%
+05/03/2010,"153 Tritonville Road, Sandymount",Dublin,660000.0,No,Sandymount,Dublin 4,q3,60%
+12/03/2010,"42A Beach Road, Sandymount",Dublin,630000.0,No,Sandymount,Dublin 4,q3,60%
+23/03/2010,"17 Park Court, Park Avenue, Sandymount",Dublin,354000.0,No,Sandymount,Dublin 4,q1,20%
+23/03/2010,"7 Willowfield, Sandymount",Dublin,262000.0,No,Sandymount,Dublin 4,q1,10%
+24/03/2010,"29 St Albans Park, Sandymount",Dublin,655000.0,No,Sandymount,Dublin 4,q3,60%
+29/03/2010,"90 Wilfield Road, Sandymount, .",Dublin,540000.0,No,Sandymount,Dublin 4,q2,50%
+31/03/2010,"5 Lansdowne Valley, Tritionville Road, Sandymount",Dublin,415000.0,No,Sandymount,Dublin 4,q2,30%
+15/04/2010,"52 Shrewsbury Square, Sandymount Avenue",Dublin,479338.84,Yes,Sandymount,Dublin 4,q2,40%
+22/04/2010,"106 Wilfield Road, Sandymount, Dublin 4",Dublin,612000.0,No,Sandymount,Dublin 4,q3,60%
+22/04/2010,"50 Farney Park, Sandymount, Dublin 4",Dublin,760000.0,No,Sandymount,Dublin 4,q3,70%
+29/04/2010,"30 Marine Drive, Sandymount, Dublin 4",Dublin,624000.0,No,Sandymount,Dublin 4,q3,60%
+29/04/2010,"7 Tritonville Avenue, Sandymount, Dublin 4",Dublin,480000.0,No,Sandymount,Dublin 4,q2,40%
+29/04/2010,"81 Sandymount Rd, Dublin 4",Dublin,480000.0,No,Sandymount,Dublin 4,q2,40%
+10/05/2010,"7 Shrewsbury Square, Sandymount",Dublin,540000.0,Yes,Sandymount,Dublin 4,q2,50%
+28/05/2010,"21A Park Lane, Sandymount",Dublin,585000.0,No,Sandymount,Dublin 4,q3,60%
+28/05/2010,"6 Ash House, Oakbury Court, Sandymount",Dublin,370000.0,No,Sandymount,Dublin 4,q1,20%
+28/06/2010,"26 Adelaide, Strand Road, Sandymount",Dublin,371500.0,No,Sandymount,Dublin 4,q1,20%
+01/07/2010,"6 Beach Avenue, Sandymount, Dublin 4",Dublin,420000.0,No,Sandymount,Dublin 4,q2,30%
+01/07/2010,"Number 1 Glenwaverly Court, 19 Park Avenue, Sandymount",Dublin,250000.0,No,Sandymount,Dublin 4,q1,10%
+08/07/2010,"109 Strand Road, Sandymount, Dublin",Dublin,880000.0,No,Sandymount,Dublin 4,q4,80%
+09/07/2010,"28 Havelock Square, Bath Avenue, Sandymount",Dublin,657000.0,No,Sandymount,Dublin 4,q3,60%
+13/07/2010,"30 Derrynane Gardens, Bath Avenue, Sandymount",Dublin,340000.0,No,Sandymount,Dublin 4,q1,20%
+28/07/2010,"10 Richelieu Park, Sandymount",Dublin,1090000.0,No,Sandymount,Dublin 4,q4,90%
+28/07/2010,"21 Radcliff Hall, St John'S Road, Sandymount",Dublin,345000.0,No,Sandymount,Dublin 4,q1,20%
+30/07/2010,"Apartment No 5  Steeple Gate, Tritonville Road, Sandymount",Dublin,350000.0,No,Sandymount,Dublin 4,q1,20%
+06/08/2010,"3 Landsdowne Hall, Tritonville Road, Sandymount",Dublin,430000.0,No,Sandymount,Dublin 4,q2,30%
+09/08/2010,"3 St. Cathryns Court, Newgrove Avenue, Sandymount",Dublin,292500.0,No,Sandymount,Dublin 4,q1,20%
+12/08/2010,"20 Seafort Villas, Sandymount",Dublin,340000.0,No,Sandymount,Dublin 4,q1,20%
+12/08/2010,"7 Gilford Pines, Sandymount, Dublin 4",Dublin,52500.0,No,Sandymount,Dublin 4,q1,10%
+13/08/2010,"6 Seafort Villas, Sandymount",Dublin,395000.0,No,Sandymount,Dublin 4,q1,30%
+17/08/2010,"32 Claremont Park, Sandymount",Dublin,820000.0,No,Sandymount,Dublin 4,q3,80%
+26/08/2010,"34 Cranfield Place, Sandymount, Dublin 4",Dublin,660000.0,No,Sandymount,Dublin 4,q3,60%
+30/08/2010,"16B Sydney Parade Ave, Sandymount, Dublin 4",Dublin,1575000.0,No,Sandymount,Dublin 4,q4,100%
+06/09/2010,"15 Farney Park, Sandymount, Dublin 4",Dublin,787500.0,No,Sandymount,Dublin 4,q3,80%
+07/09/2010,"9 Levmoss Avenue, The Gallops, Sandymount",Dublin,200000.0,Yes,Sandymount,Dublin 4,q1,10%
+10/09/2010,"19 St. Albans Park, Sandymount",Dublin,875000.0,No,Sandymount,Dublin 4,q4,80%
+24/09/2010,"Flat 4, 49 Sydney Parade Avenue, Sandymount",Dublin,317000.0,No,Sandymount,Dublin 4,q1,20%
+30/09/2010,"77 Sandymount Road, Sandymount, Dublin 4",Dublin,465000.0,No,Sandymount,Dublin 4,q2,40%
+04/10/2010,"24 Cranfield Place, Sandymount, Dublin 4",Dublin,420000.0,No,Sandymount,Dublin 4,q2,30%
+26/10/2010,"63A Tritonville Road, Sandymount",Dublin,324000.0,No,Sandymount,Dublin 4,q1,20%
+10/11/2010,"1 Holyrood Apartments, Holyrood Park, Sandymount",Dublin,311250.0,No,Sandymount,Dublin 4,q1,20%
+11/11/2010,"62 Tritonville Road, Sandymount, Dublin 4",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+10/12/2010,"19 Gilford Avenue, Sandymount, Dublin 4",Dublin,570000.0,No,Sandymount,Dublin 4,q2,50%
+20/12/2010,"45 Ailesbury Mews, Sandymount",Dublin,227000.0,No,Sandymount,Dublin 4,q1,10%
+06/01/2011,"22 Shrewsbury Square, Sandymount",Dublin,530000.0,Yes,Sandymount,Dublin 4,q2,50%
+13/01/2011,"2 Willow Mews, St Albans Park, Sandymount",Dublin,430000.0,No,Sandymount,Dublin 4,q2,30%
+20/01/2011,"27B St. Alban'S Park, Sandymount",Dublin,791000.0,No,Sandymount,Dublin 4,q3,80%
+27/01/2011,"23 Wilfield Park, Sandymount",Dublin,300000.0,No,Sandymount,Dublin 4,q1,20%
+01/03/2011,"6 Oaklands Court, 59 Claremont Road, Sandymount",Dublin,414000.0,No,Sandymount,Dublin 4,q1,30%
+31/03/2011,"34 Seaford Gardens, Sandymount",Dublin,480000.0,No,Sandymount,Dublin 4,q2,40%
+06/04/2011,"2 Prince Of Wales Terrace, Sandymount Avenue",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+07/04/2011,"No. 37 St Cathryn'S Court, Newgrove, Sandymount",Dublin,520000.0,No,Sandymount,Dublin 4,q2,50%
+11/04/2011,"11 Tritonville Road, Sandymount",Dublin,575000.0,No,Sandymount,Dublin 4,q2,50%
+04/05/2011,"36 Havelock Square, Sandymount",Dublin,547000.0,No,Sandymount,Dublin 4,q2,50%
+16/05/2011,"8 Churchill Terrace, Sandymount",Dublin,625000.0,No,Sandymount,Dublin 4,q3,60%
+27/05/2011,"4, Sandymount Court, Sandymount",Dublin,225000.0,No,Sandymount,Dublin 4,q1,10%
+31/05/2011,"22 St. John'S, Park Avenue, Sandymount",Dublin,370000.0,No,Sandymount,Dublin 4,q1,20%
+23/06/2011,"14 Merrion Strand, Sandymount, Dublin 4",Dublin,340000.0,No,Sandymount,Dublin 4,q1,20%
+28/06/2011,"35 Adelaide, Strand Road, Sandymount",Dublin,371822.0,No,Sandymount,Dublin 4,q1,30%
+28/06/2011,"44 Farney Park, Sandymount, Dublin 4",Dublin,770000.0,No,Sandymount,Dublin 4,q3,70%
+07/07/2011,"38 Claremont Road, Sandymount, Dublin 4",Dublin,1775000.0,No,Sandymount,Dublin 4,q4,100%
+11/07/2011,"25 O'Connell Gardens, Sandymount, Dublin",Dublin,175000.0,No,Sandymount,Dublin 4,q1,10%
+15/07/2011,"3 Park Close, Gilford Road, Sandymount",Dublin,485000.0,No,Sandymount,Dublin 4,q2,40%
+19/07/2011,"27 Seafort Gardens, Sandymount, Dublin 4",Dublin,700000.0,No,Sandymount,Dublin 4,q3,70%
+16/08/2011,"15 Newbridge Avenue, Sandymount",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+18/08/2011,"48  Beach Road, Sandymount, Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+19/08/2011,"10 Marine Drive, Sandymount",Dublin,971000.0,No,Sandymount,Dublin 4,q4,90%
+23/08/2011,"52 St Albans Park, Sandymount",Dublin,840000.0,No,Sandymount,Dublin 4,q4,80%
+05/09/2011,"16 Gilford Road, Sandymount, Dublin 4",Dublin,560000.0,No,Sandymount,Dublin 4,q2,50%
+16/09/2011,"3 Fairfield Court, Sandymount",Dublin,1100000.0,No,Sandymount,Dublin 4,q4,90%
+22/09/2011,"42 Beach Road, Sandymount, Dublin 4",Dublin,605000.0,No,Sandymount,Dublin 4,q3,60%
+22/09/2011,"6 Gilford Avenue, Sandymount",Dublin,427000.0,No,Sandymount,Dublin 4,q2,30%
+23/09/2011,"32 Beach Road, Sandymount, Dublin 4",Dublin,595000.0,No,Sandymount,Dublin 4,q3,60%
+27/09/2011,"29 St John'S, Park Avenue, Sandymount",Dublin,405000.0,No,Sandymount,Dublin 4,q1,30%
+30/09/2011,"26B Newgrove Avenue, Sandymount, Dublin 4",Dublin,455500.0,No,Sandymount,Dublin 4,q2,40%
+12/10/2011,"16 Lea Road, Sandymount",Dublin,1020000.0,No,Sandymount,Dublin 4,q4,90%
+13/10/2011,"3 Martello View, Strand Road, Sandymount",Dublin,350000.0,No,Sandymount,Dublin 4,q1,20%
+18/10/2011,"76 O'Connell Gardens, Sandymount",Dublin,50000.0,No,Sandymount,Dublin 4,q1,10%
+19/10/2011,"4 Adelaide, Strand Road, Sandymount",Dublin,370000.0,No,Sandymount,Dublin 4,q1,20%
+20/10/2011,"11 Strand House, 171 Strand Road, Sandymount",Dublin,230000.0,No,Sandymount,Dublin 4,q1,10%
+20/10/2011,"37 Park Avenue, Sandymount, Dublin 4",Dublin,1705000.0,No,Sandymount,Dublin 4,q4,100%
+21/10/2011,"12Lea Road, Sandymount",Dublin,700000.0,No,Sandymount,Dublin 4,q3,70%
+26/10/2011,"24 Tritonville Road, Sandymount, Dublin  4",Dublin,360000.0,No,Sandymount,Dublin 4,q1,20%
+27/10/2011,"2 Steeplegate, Sandymount Road, Sandymount",Dublin,300000.0,No,Sandymount,Dublin 4,q1,20%
+27/10/2011,"34 Beach Road, Sandymount",Dublin,535000.0,No,Sandymount,Dublin 4,q2,50%
+28/10/2011,"14 Ennis Grove, Sandymount, Dublin 4",Dublin,350000.0,No,Sandymount,Dublin 4,q1,20%
+04/11/2011,"16 Vavasour Square, Bath Avenue, Sandymount",Dublin,300000.0,No,Sandymount,Dublin 4,q1,20%
+04/11/2011,"Gealan, Durham Road, Sandymount",Dublin,775000.0,No,Sandymount,Dublin 4,q3,70%
+09/11/2011,"85A Strand Road, Sandymount, Dublin 4",Dublin,350000.0,No,Sandymount,Dublin 4,q1,20%
+18/11/2011,"67 Sandymount Avenue, Sandymount, Dublin 4",Dublin,920000.0,No,Sandymount,Dublin 4,q4,90%
+23/11/2011,"1 Oaklands Drive, Serpentine Avenue, Sandymount",Dublin,390000.0,No,Sandymount,Dublin 4,q1,30%
+29/11/2011,"24 Londan Bridge Road, Sandymount, Dublin 4",Dublin,430000.0,No,Sandymount,Dublin 4,q2,30%
+30/11/2011,"Apartment 5, Seamount House, Sandymount",Dublin,278000.0,No,Sandymount,Dublin 4,q1,10%
+05/12/2011,"2A Sandymount Castle Park, Sandymount",Dublin,575000.0,No,Sandymount,Dublin 4,q2,50%
+05/12/2011,"51 Shrewsbury Square, Sandymount",Dublin,563876.65,Yes,Sandymount,Dublin 4,q2,50%
+08/12/2011,"20 Cranfield Place, Sandymount, Dublin 4",Dublin,380000.0,No,Sandymount,Dublin 4,q1,30%
+08/12/2011,"6 Steeplegate, Sandymount",Dublin,225000.0,No,Sandymount,Dublin 4,q1,10%
+12/12/2011,"6 Martello Mews, Sydney Parade Avenue, Sandymount",Dublin,470000.0,No,Sandymount,Dublin 4,q2,40%
+13/12/2011,"5 Seafort Villas, Sandymount, Dublin 4",Dublin,328000.0,No,Sandymount,Dublin 4,q1,20%
+21/12/2011,"46 Merrion Strand, Strand Road, Sandymount",Dublin,285000.0,No,Sandymount,Dublin 4,q1,10%
+22/12/2011,"75  Trotonville Road, Sandymount",Dublin,650000.0,No,Sandymount,Dublin 4,q3,60%
+22/12/2011,"84 Tritonville Road, Sandymount, Dublbin 4",Dublin,470000.0,No,Sandymount,Dublin 4,q2,40%
+30/12/2011,"11 Adelaide, Strand Road, Sandymount",Dublin,390000.0,No,Sandymount,Dublin 4,q1,30%
+05/01/2012,"79 Lansdowne Village, Sandymount, Dublin 4",Dublin,160000.0,No,Sandymount,Dublin 4,q1,10%
+11/01/2012,"144 Tritonville Road, Sandymount",Dublin,985000.0,No,Sandymount,Dublin 4,q4,90%
+12/01/2012,"16 Park Lane, Sandymount",Dublin,485000.0,No,Sandymount,Dublin 4,q2,40%
+19/01/2012,"82 Wilfield Road, Sandymount, Dublin 4",Dublin,525000.0,No,Sandymount,Dublin 4,q2,50%
+30/01/2012,"65 Willowfield Park Ave., Sandymount, Dublin 4",Dublin,285000.0,No,Sandymount,Dublin 4,q1,20%
+13/02/2012,"15 Radcliff Hall, St John'S Road, Sandymount",Dublin,365000.0,No,Sandymount,Dublin 4,q1,20%
+13/02/2012,"18 Kirkwood, Park Avenue, Sandymount",Dublin,190000.0,No,Sandymount,Dublin 4,q1,10%
+24/02/2012,"14 Shrewsbury Square, Sandymount Avenue, Dublin 4",Dublin,605000.0,No,Sandymount,Dublin 4,q3,60%
+16/03/2012,"89 Sandymount Avenue, Sandymount, Dublin",Dublin,675000.0,No,Sandymount,Dublin 4,q3,70%
+29/03/2012,"23 Park Lane, Sandymount",Dublin,800000.0,No,Sandymount,Dublin 4,q3,80%
+05/04/2012,"62 Shrewsbury Square, Sandymount Avenue, Sandymount",Dublin,1004405.0,Yes,Sandymount,Dublin 4,q4,90%
+16/04/2012,"7 The Grove, Beach Avenue, Sandymount",Dublin,268000.0,No,Sandymount,Dublin 4,q1,10%
+27/04/2012,"70 Park Avenue, Sandymount",Dublin,2725000.0,No,Sandymount,Dublin 4,q4,100%
+01/05/2012,"14 Gilford Road, Sandymount",Dublin,600000.0,No,Sandymount,Dublin 4,q3,60%
+02/05/2012,"Apt. No. 3, Shrewsbury Square, Sandymount Avenue Dublin 4",Dublin,363436.12,Yes,Sandymount,Dublin 4,q1,20%
+04/05/2012,"17 Serpentine Park, Sandymount, Dublin 4",Dublin,710000.0,No,Sandymount,Dublin 4,q3,70%
+04/05/2012,"9 Beach Drive, Sandymount",Dublin,310000.0,No,Sandymount,Dublin 4,q1,20%
+25/05/2012,"11O'Connell Gardens, Sandymount",Dublin,427000.0,No,Sandymount,Dublin 4,q2,30%
+25/05/2012,"4 Tritonville Avenue, Sandymount",Dublin,197000.0,No,Sandymount,Dublin 4,q1,10%
+30/05/2012,"3 Lea Road, Sandymount",Dublin,450000.0,No,Sandymount,Dublin 4,q2,40%
+07/06/2012,"79 Park Avenue, Sandymount",Dublin,2800000.0,No,Sandymount,Dublin 4,q4,100%
+26/06/2012,"50 Park Court, Park Avenue, Sandymount",Dublin,254500.0,No,Sandymount,Dublin 4,q1,10%
+10/07/2012,"3 Oaklands Park, Sandymount",Dublin,822500.0,No,Sandymount,Dublin 4,q3,80%
+13/07/2012,"7 Lea Crescent, Sandymount",Dublin,440000.0,No,Sandymount,Dublin 4,q2,30%
+17/07/2012,"2 Glenwaverly Court, 19 Park Avenue, Sandymount",Dublin,155000.0,No,Sandymount,Dublin 4,q1,10%
+19/07/2012,"71 Park Avenue, Sandymount",Dublin,2600000.0,No,Sandymount,Dublin 4,q4,100%
+25/07/2012,"1 Merrion Strand, Strand Road, Sandymount",Dublin,245000.0,No,Sandymount,Dublin 4,q1,10%
+27/07/2012,"Apartment 102, Block B1  Beacon South Quarter, Sandymount",Dublin,125991.19,Yes,Sandymount,Dublin 4,q1,10%
+27/07/2012,"Apartment 214, Block B1  Beacon South Quarter, Sandymount",Dublin,161233.48,Yes,Sandymount,Dublin 4,q1,10%
+30/07/2012,"53 Lansdowne Village, Sandymount",Dublin,261000.0,No,Sandymount,Dublin 4,q1,10%
+03/08/2012,"23 Ennis Grove, Sandymount, Dublin 4",Dublin,237500.0,No,Sandymount,Dublin 4,q1,10%
+03/08/2012,"3  Claremont Road, Sandymount",Dublin,535000.0,No,Sandymount,Dublin 4,q2,50%
+06/08/2012,"31 Park Court, Sandymount",Dublin,238000.0,No,Sandymount,Dublin 4,q1,10%
+09/08/2012,"2 Londonbridge Road, Sandymount, Dublin",Dublin,200000.0,No,Sandymount,Dublin 4,q1,10%
+10/08/2012,"43 Park Court, Park Avenue, Sandymount",Dublin,245000.0,No,Sandymount,Dublin 4,q1,10%
+17/08/2012,"13 Tritonville Road, Sandymount, Dublin 4",Dublin,429000.0,No,Sandymount,Dublin 4,q2,30%
+24/08/2012,"16 St. Cathryn'S Court, Sandymount",Dublin,280000.0,No,Sandymount,Dublin 4,q1,10%
+24/08/2012,"18 Tritonville Avenue, Sandymount, Dublin 4",Dublin,225000.0,No,Sandymount,Dublin 4,q1,10%
+28/08/2012,"82 Lansdowne Village, Sandymount, Dublin 4",Dublin,247300.0,No,Sandymount,Dublin 4,q1,10%
+29/08/2012,"46 Trintonville Road, Sandymount, Dublin 4",Dublin,496000.0,No,Sandymount,Dublin 4,q2,40%
+30/08/2012,"44 O'Connell Gardens, Sandymount",Dublin,244000.0,No,Sandymount,Dublin 4,q1,10%
+30/08/2012,"47 Tritonville Road, Sandymount, Dublin 4",Dublin,355000.0,No,Sandymount,Dublin 4,q1,20%
+31/08/2012,"48 Adelaide, Strand Road, Sandymount",Dublin,312000.0,No,Sandymount,Dublin 4,q1,20%
+03/09/2012,"16 Park Court, Park Avenue, Sandymount",Dublin,249000.0,No,Sandymount,Dublin 4,q1,10%
+06/09/2012,"8 Steeplegate, Tritonville Road, Sandymount",Dublin,350000.0,No,Sandymount,Dublin 4,q1,20%
+07/09/2012,"36 Wilfield Park, Sandymount",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+17/09/2012,"63 Tritonville Road, Sandymount",Dublin,505000.0,No,Sandymount,Dublin 4,q2,50%
+21/09/2012,"93 Tritonville Road, Sandymount, Dublin 4",Dublin,420000.0,No,Sandymount,Dublin 4,q2,30%
+12/10/2012,"9 Avondale Mews, Park Avenue, Sandymount",Dublin,150000.0,No,Sandymount,Dublin 4,q1,10%
+25/10/2012,"6 Oaklands Park, Sandymount",Dublin,547500.0,No,Sandymount,Dublin 4,q2,50%
+31/10/2012,"30 Park Lane, Sandymount",Dublin,463500.0,No,Sandymount,Dublin 4,q2,40%
+02/11/2012,"Mandala, Durham Road, Sandymount",Dublin,540000.0,No,Sandymount,Dublin 4,q2,50%
+12/11/2012,"35 Windermere, Gilford Road, Sandymount",Dublin,180000.0,No,Sandymount,Dublin 4,q1,10%
+15/11/2012,"34 Park Avenue, Sandymount",Dublin,875000.0,No,Sandymount,Dublin 4,q4,80%
+16/11/2012,"No 11 Ennis Grove, Sandymount, Dublin 4",Dublin,277000.0,No,Sandymount,Dublin 4,q1,10%
+20/11/2012,"38 Adelaide, Strand Road, Sandymount",Dublin,285000.0,No,Sandymount,Dublin 4,q1,20%
+20/11/2012,"9 Tritonville Court, Sandymount, Dublin 4",Dublin,400000.0,No,Sandymount,Dublin 4,q1,30%
+26/11/2012,"21 Merrion Strand, Strand Road, Sandymount",Dublin,400000.0,No,Sandymount,Dublin 4,q1,30%
+27/11/2012,"65 Wilfield Road, Sandymount, Dublin 4",Dublin,460000.0,No,Sandymount,Dublin 4,q2,40%
+28/11/2012,"1 Strand Road, Sandymount, Dublin 4",Dublin,522500.0,No,Sandymount,Dublin 4,q2,50%
+30/11/2012,"51 St John'S Park Avenue, Sandymount, Dublin 4",Dublin,250000.0,No,Sandymount,Dublin 4,q1,10%
+06/12/2012,"21 Seafort Villas, Sandymount",Dublin,320000.0,No,Sandymount,Dublin 4,q1,20%
+07/12/2012,"17 Railway Cottages, Serpentine Avenue, Sandymount",Dublin,560000.0,No,Sandymount,Dublin 4,q2,50%
+14/12/2012,"15 Tritonville Avenue, Sandymount",Dublin,370000.0,No,Sandymount,Dublin 4,q1,20%
+20/12/2012,"21 Richelieu Park, Sandymount",Dublin,650000.0,No,Sandymount,Dublin 4,q3,60%
+20/12/2012,"30A Park Avenue, Sandymount",Dublin,858000.0,No,Sandymount,Dublin 4,q4,80%
+20/12/2012,"Apart 2 Seabury, Sydney Parade Avenue, Sandymount",Dublin,250000.0,No,Sandymount,Dublin 4,q1,10%
+21/12/2012,"69 Shrewsbury Square, Sandymount  Avenue, Sandymount",Dublin,493392.07,Yes,Sandymount,Dublin 4,q2,40%
+22/12/2012,"56 St Alban'S Park, Sandymount",Dublin,597000.0,No,Sandymount,Dublin 4,q3,60%
+04/01/2013,"60 O'Connell Gardens, Sandymount, Dublin 4",Dublin,265000.0,No,Sandymount,Dublin 4,q1,10%
+23/01/2013,"4 Lea Road, Sandymount, Dublin 4",Dublin,540000.0,No,Sandymount,Dublin 4,q2,50%
+08/02/2013,"6 Saint Cathryn'S Court, Newgrove Avenue, Sandymount",Dublin,280000.0,No,Sandymount,Dublin 4,q1,10%
+15/02/2013,"41 Radcliff Hall, St. John'S Road, Sandymount",Dublin,655000.0,No,Sandymount,Dublin 4,q3,60%
+22/02/2013,"17 Tritonville Road, Sandymount, Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+05/03/2013,"67 Shrewsbury Square, Sandymount",Dublin,685340.0,No,Sandymount,Dublin 4,q3,70%
+05/03/2013,"Apartment 3  Oisin Court, Claremont Road, Sandymount",Dublin,152000.0,No,Sandymount,Dublin 4,q1,10%
+15/03/2013,"23 Landsdowne Village, Bridge Avenue, Sandymount",Dublin,200000.0,No,Sandymount,Dublin 4,q1,10%
+19/03/2013,"1 Churchill Terrace, Sandymount",Dublin,865000.0,No,Sandymount,Dublin 4,q4,80%
+21/03/2013,"3 Lea Road, Sandymount",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+21/03/2013,"Apartment 77  Block C, Shrewsbury Square, Sandymount Avenue",Dublin,1066079.0,Yes,Sandymount,Dublin 4,q4,90%
+28/03/2013,"135 Trintonville Road, Sandymount",Dublin,1000000.0,No,Sandymount,Dublin 4,q4,90%
+30/03/2013,"31 Shrewsbury Square, Sandymount Avenue",Dublin,500000.0,No,Sandymount,Dublin 4,q2,40%
+03/04/2013,"15  Tritonville Road, Sandymount, Dublin 4",Dublin,491000.0,No,Sandymount,Dublin 4,q2,40%
+03/04/2013,"33 Park Avenue, Sandymount, Dublin 4",Dublin,1500000.0,No,Sandymount,Dublin 4,q4,100%
+19/04/2013,"16 Railway Cottages, Serpentine Avenue, Sandymount",Dublin,570000.0,No,Sandymount,Dublin 4,q2,50%
+22/04/2013,"26 Wilfield Park, Sandymount",Dublin,960000.0,No,Sandymount,Dublin 4,q4,90%
+25/04/2013,"20 Tritonville Avenue, Sandymount, Dublin 4",Dublin,257500.0,No,Sandymount,Dublin 4,q1,10%
+25/04/2013,"53 Radcliffe Hall, St. Johns Road, Sandymount",Dublin,320000.0,No,Sandymount,Dublin 4,q1,20%
+17/05/2013,"23 Radcliff Hall, St Johns Road, Sandymount",Dublin,410000.0,No,Sandymount,Dublin 4,q1,30%
+17/05/2013,"7 Glenwaverley Court, Park Avenue, Sandymount",Dublin,210000.0,No,Sandymount,Dublin 4,q1,10%
+20/05/2013,"46 Lansdowne Village, Sandymount, Dublin 4",Dublin,258000.0,No,Sandymount,Dublin 4,q1,10%
+20/05/2013,"Apartment 6  Argyle House, Claremont Road, Sandymount",Dublin,170000.0,No,Sandymount,Dublin 4,q1,10%
+22/05/2013,"44 Malone Gardens, Sandymount",Dublin,150000.0,No,Sandymount,Dublin 4,q1,10%
+24/05/2013,"8 Ferney Park, Sandymount, Dublin",Dublin,700000.0,No,Sandymount,Dublin 4,q3,70%
+31/05/2013,"1 Seafort Villas, Sandymount",Dublin,230000.0,No,Sandymount,Dublin 4,q1,10%
+31/05/2013,"25 Lea Road, Sandymount, Dublin 4",Dublin,650000.0,No,Sandymount,Dublin 4,q3,60%
+07/06/2013,"25 Durham Road, Sandymount",Dublin,1150000.0,No,Sandymount,Dublin 4,q4,90%
+07/06/2013,"50 Seabury Court, Sydney Parade, Sandymount",Dublin,180500.0,No,Sandymount,Dublin 4,q1,10%
+10/06/2013,"59 Derrynane Gardens, Sandymount",Dublin,327000.0,No,Sandymount,Dublin 4,q1,20%
+13/06/2013,"39 Shrewsbury Square, Sandymount Ave, Sandymount",Dublin,1350000.0,No,Sandymount,Dublin 4,q4,100%
+13/06/2013,"7  Claremont Court, Claremont Road, Sandymount",Dublin,150000.0,No,Sandymount,Dublin 4,q1,10%
+14/06/2013,"Apartment 74, Shrewsbury Square, Sandymount Avenue",Dublin,1057268.0,Yes,Sandymount,Dublin 4,q4,90%
+21/06/2013,"6 Prospect Terrace, Marine Drive, Sandymount",Dublin,775000.0,No,Sandymount,Dublin 4,q3,70%
+24/06/2013,"23 Sydney Parade Avenue, Sandymount",Dublin,2225000.0,No,Sandymount,Dublin 4,q4,100%
+24/06/2013,"6 Avondale Mews, Park Avenue, Sandymount",Dublin,225000.0,No,Sandymount,Dublin 4,q1,10%
+27/06/2013,"59 Sandymount Avenue, Sandymount",Dublin,907500.0,No,Sandymount,Dublin 4,q4,80%
+28/06/2013,"3 Herbert Court, Sandymount Avenue, Sandymount",Dublin,630000.0,No,Sandymount,Dublin 4,q3,60%
+03/07/2013,"38Bwindermere, Gilford Road, Sandymount",Dublin,165000.0,No,Sandymount,Dublin 4,q1,10%
+10/07/2013,"107 Strand Road, Sandymount",Dublin,1070000.0,No,Sandymount,Dublin 4,q4,90%
+12/07/2013,"18 Merrion Strand, Sandymount",Dublin,410000.0,No,Sandymount,Dublin 4,q1,30%
+12/07/2013,"2 Havelock Square, Sandymount, Dublin 4",Dublin,565000.0,No,Sandymount,Dublin 4,q2,50%
+17/07/2013,"2 Towerville, St. John'S Road, Sandymount",Dublin,260000.0,No,Sandymount,Dublin 4,q1,10%
+18/07/2013,"12 Radcliff Hall, St. John'S Road, Sandymount",Dublin,450000.0,No,Sandymount,Dublin 4,q2,40%
+31/07/2013,"15 Strand Road, Sandymount, Dublin 4",Dublin,795000.0,No,Sandymount,Dublin 4,q3,80%
+01/08/2013,"23 Lea Road, Sandymount",Dublin,815000.0,No,Sandymount,Dublin 4,q3,80%
+09/08/2013,"31 Lansdowne Village, Newbridge Avenue, Sandymount",Dublin,365000.0,No,Sandymount,Dublin 4,q1,20%
+13/08/2013,"34 Wilfield Road, Sandymount, Dublin 4",Dublin,660000.0,No,Sandymount,Dublin 4,q3,60%
+13/08/2013,"35 Wilfield Road, Sandymount",Dublin,580000.0,No,Sandymount,Dublin 4,q3,60%
+13/08/2013,"Apartment 14, Londonbridge Road, Sandymount",Dublin,521000.0,No,Sandymount,Dublin 4,q2,50%
+14/08/2013,"18 St Cathryn'S Court, Newgrove Avenue, Sandymount",Dublin,250000.0,No,Sandymount,Dublin 4,q1,10%
+20/08/2013,"11 Sandymount Green, Sandymount, Dublin 4",Dublin,630000.0,No,Sandymount,Dublin 4,q3,60%
+21/08/2013,"85 Strand Road, Sandymount",Dublin,935000.0,No,Sandymount,Dublin 4,q4,90%
+22/08/2013,"12 Derrynane Gardens, Sandymount, Dublin 4",Dublin,385000.0,No,Sandymount,Dublin 4,q1,30%
+23/08/2013,"60 Gilford Road, Sandymount",Dublin,630000.0,No,Sandymount,Dublin 4,q3,60%
+26/08/2013,"Apartment 14  Block B, Radcliff Hall, St Johns Road  Sandymount",Dublin,336000.0,No,Sandymount,Dublin 4,q1,20%
+02/09/2013,"Apartment 2, St. John'S Court, Sandymount",Dublin,195000.0,No,Sandymount,Dublin 4,q1,10%
+11/09/2013,"103 Strand Road, Sandymount, Dublin 4",Dublin,1460000.0,No,Sandymount,Dublin 4,q4,100%
+13/09/2013,"22 St John'S Park Avenue, Sandymount",Dublin,500000.0,No,Sandymount,Dublin 4,q2,40%
+13/09/2013,"3 Lea Crescent, Sandymount",Dublin,540000.0,No,Sandymount,Dublin 4,q2,50%
+17/09/2013,"12 Strand Road, Sandymount",Dublin,1620000.0,No,Sandymount,Dublin 4,q4,100%
+26/09/2013,"16 Wilfield Road, Sandymount",Dublin,565000.0,No,Sandymount,Dublin 4,q2,50%
+04/10/2013,"13 St. Cathryn'S Court, Newgrove Avenue, Sandymount",Dublin,110000.0,No,Sandymount,Dublin 4,q1,10%
+04/10/2013,"38 Seafort Avenue, Sandymount",Dublin,790000.0,No,Sandymount,Dublin 4,q3,80%
+09/10/2013,"23 Gilford Park, Sandymount",Dublin,865000.0,No,Sandymount,Dublin 4,q4,80%
+09/10/2013,"72 Park Avenue, Sandymount",Dublin,3050000.0,No,Sandymount,Dublin 4,q4,100%
+10/10/2013,"1 Park Close, Gilford Road, Sandymount",Dublin,535000.0,No,Sandymount,Dublin 4,q2,50%
+10/10/2013,"151 Tritonville Road, Sandymount",Dublin,550500.0,No,Sandymount,Dublin 4,q2,50%
+11/10/2013,"25 Richelieu Park, Sandymount, Dublin 4",Dublin,890000.0,No,Sandymount,Dublin 4,q4,80%
+28/10/2013,"16 Vavasour Square, Sandymount",Dublin,447500.0,No,Sandymount,Dublin 4,q2,40%
+15/11/2013,"4 Tritonville Road, Sandymount",Dublin,530000.0,No,Sandymount,Dublin 4,q2,50%
+25/11/2013,"17 St. Johns Road, Sandymount, Dublin 4",Dublin,825000.0,No,Sandymount,Dublin 4,q3,80%
+27/11/2013,"22 Gilford Road, Sandymount, Dublin 4",Dublin,970000.0,No,Sandymount,Dublin 4,q4,90%
+28/11/2013,"3 Tritonville Avenue, Sandymount, Dublin 4",Dublin,315000.0,No,Sandymount,Dublin 4,q1,20%
+04/12/2013,"31 Marine Dr, Sandymount, Dublin 4",Dublin,795000.0,No,Sandymount,Dublin 4,q3,80%
+12/12/2013,"8 Gilford Rd, Sandymount, Dublin 4",Dublin,980000.0,No,Sandymount,Dublin 4,q4,90%
+13/12/2013,"15 Durham Road, Sandymount, Dublin",Dublin,992000.0,No,Sandymount,Dublin 4,q4,90%
+19/12/2013,"3B Durham Road, Sandymount",Dublin,740088.0,Yes,Sandymount,Dublin 4,q3,70%
+20/12/2013,"1 Kirkwood, Park Ave, Sandymount Dublin 4",Dublin,250000.0,No,Sandymount,Dublin 4,q1,10%
+20/12/2013,"12 Park Lane, Sandymount, Dublin 4",Dublin,530000.0,No,Sandymount,Dublin 4,q2,50%
+20/12/2013,"63 Willowfield, Park Avenue, Sandymount",Dublin,325000.0,No,Sandymount,Dublin 4,q1,20%
+20/12/2013,"7 Lea Road, Sandymount, Dublin 4",Dublin,670000.0,No,Sandymount,Dublin 4,q3,70%
+23/12/2013,"125 Strand Rd, Sandymount, Dublin 4",Dublin,1270000.0,No,Sandymount,Dublin 4,q4,100%
+23/12/2013,"69 Sandymount Ave, Sandymount, Dublin City",Dublin,687000.0,No,Sandymount,Dublin 4,q3,70%
+23/12/2013,"71C Sandymount Rd, Sandymount, Dublin 4",Dublin,684153.0,No,Sandymount,Dublin 4,q3,70%
+10/01/2014,"4 St Johns Rd, Sandymount, Dublin 4",Dublin,1000000.0,No,Sandymount,Dublin 4,q4,90%
+20/01/2014,"Manderly, 25 Newbridge Ave, Sandymount Dublin 4",Dublin,815000.0,No,Sandymount,Dublin 4,q3,80%
+21/01/2014,"1 Durham Rd, Sandymount, Dublin",Dublin,700000.0,No,Sandymount,Dublin 4,q3,70%
+03/02/2014,"18 Railway Cottages, Serpentine Avenue, Sandymount",Dublin,600000.0,No,Sandymount,Dublin 4,q3,60%
+03/02/2014,"23 Durham Rd, Sandymount, Dublin 4",Dublin,721000.0,No,Sandymount,Dublin 4,q3,70%
+04/02/2014,"16A Newgrove Ave, Sandymount, Dublin 4",Dublin,745000.0,No,Sandymount,Dublin 4,q3,70%
+04/02/2014,"27A St Albans Park, Sandymount, Dublin 4",Dublin,570000.0,No,Sandymount,Dublin 4,q2,50%
+06/02/2014,"16 Sandymount Road, Sandymount, Dublin",Dublin,35306.0,No,Sandymount,Dublin 4,q1,10%
+07/02/2014,"1A Dromard Terrace, Sandymount, Dublin 4",Dublin,570000.0,No,Sandymount,Dublin 4,q2,50%
+14/02/2014,"69 Seabury, Sydney Parade Ave, Sandymount Dublin 4",Dublin,375000.0,No,Sandymount,Dublin 4,q1,30%
+17/02/2014,"Apt 3 The Wood, Clon Brugh Aikens Village, Woodside Sandymount Dublin",Dublin,195000.0,No,Sandymount,Dublin 4,q1,10%
+03/03/2014,"63 Wilfield Rd, Sandymount, Dublin 4",Dublin,485000.0,No,Sandymount,Dublin 4,q2,40%
+13/03/2014,"8 Seafort Villas, Sandymount, Dublin 4",Dublin,373000.0,No,Sandymount,Dublin 4,q1,30%
+21/03/2014,"7 Ailesbury Mews, Ailesbury Road, Sandymount",Dublin,367500.0,No,Sandymount,Dublin 4,q1,20%
+26/03/2014,"41 43 Park Ave Apt 1, Sandymount, Dublin 4",Dublin,300000.0,No,Sandymount,Dublin 4,q1,20%
+31/03/2014,"16 Park Court, Park Ave, Sandymount",Dublin,325000.0,No,Sandymount,Dublin 4,q1,20%
+31/03/2014,"36 Beach Rd, Sandymount, Dublin 4",Dublin,780000.0,No,Sandymount,Dublin 4,q3,80%
+08/04/2014,"23 Windermere Apts, 30 Gilford Rd, Sandymount Dublin 4",Dublin,197000.0,No,Sandymount,Dublin 4,q1,10%
+09/04/2014,"75 Sydney Parade Ave, Sandymount, Dublin 4",Dublin,1240000.0,No,Sandymount,Dublin 4,q4,100%
+24/04/2014,"66 Merrion Strand, Sandymount, Dublin 4",Dublin,175000.0,No,Sandymount,Dublin 4,q1,10%
+25/04/2014,"37 Adair, Sandymount",Dublin,200000.0,No,Sandymount,Dublin 4,q1,10%
+02/05/2014,"36A Beach Rd, Sandymount, Dublin 4",Dublin,715000.0,No,Sandymount,Dublin 4,q3,70%
+02/05/2014,"Apt 4, 10 Seafront, Sandymount  Dublin 4",Dublin,184481.0,No,Sandymount,Dublin 4,q1,10%
+06/05/2014,"12 Sandymount Court, Beach Rd, Sandymount Dublin 4",Dublin,572000.0,No,Sandymount,Dublin 4,q2,50%
+06/05/2014,"2 Park Avenue, Sandymount",Dublin,1050000.0,No,Sandymount,Dublin 4,q4,90%
+15/05/2014,"33 Shrewsbury Square, Sandymount Avenue",Dublin,541850.22,Yes,Sandymount,Dublin 4,q2,50%
+15/05/2014,"35 Beach Rd, Sandymount, Dublin 4",Dublin,715000.0,No,Sandymount,Dublin 4,q3,70%
+23/05/2014,"3 Gilford Court, Sandymount, Dublin 4",Dublin,262500.0,No,Sandymount,Dublin 4,q1,10%
+23/05/2014,"5 Dromard Ave, Sandymount, Dublin 4",Dublin,335000.0,No,Sandymount,Dublin 4,q1,20%
+23/05/2014,"82 Tritionville Rd, Sandymount, Dublin 4",Dublin,297000.0,No,Sandymount,Dublin 4,q1,20%
+30/05/2014,"30 Derrynane Gdns, Bath Ave, Sandymount Dublin 4",Dublin,450000.0,No,Sandymount,Dublin 4,q2,40%
+06/06/2014,"1 The Vicarage, St Johns Rd, Sandymount Dublin 4",Dublin,1680000.0,No,Sandymount,Dublin 4,q4,100%
+06/06/2014,"103 Tritonville Rd, Sandymount, Dublin 4",Dublin,948000.0,No,Sandymount,Dublin 4,q4,90%
+11/06/2014,"30 Durham Rd, Sandymount, Dublin 4",Dublin,760000.0,No,Sandymount,Dublin 4,q3,70%
+13/06/2014,"15 Lansdowne Village, Sandymount, Dublin 4",Dublin,485000.0,No,Sandymount,Dublin 4,q2,40%
+13/06/2014,"2B Durham Rd, Sandymount, Dublin 4",Dublin,670000.0,No,Sandymount,Dublin 4,q3,70%
+16/06/2014,"33 Seabury, Sydney Parade Ave, Sandymount Dublin 4",Dublin,330000.0,No,Sandymount,Dublin 4,q1,20%
+19/06/2014,"23 Wilfield Park, Sandymount, Dublin 4",Dublin,600000.0,No,Sandymount,Dublin 4,q3,60%
+30/06/2014,"41 Seafort Gardens, Sandymount, Dublin 4",Dublin,500000.0,No,Sandymount,Dublin 4,q2,40%
+04/07/2014,"57A Wilfield Road, Sandymount, Dublin 4",Dublin,572500.0,No,Sandymount,Dublin 4,q2,50%
+04/07/2014,"59 Willowfield, Park Ave, Sandymount",Dublin,390000.0,No,Sandymount,Dublin 4,q1,30%
+10/07/2014,"7 St Cathryns Court, Newgrove Ave, Sandymount Dublin 4",Dublin,380000.0,No,Sandymount,Dublin 4,q1,30%
+11/07/2014,"1 Farney Park, Sandymount, Dublin",Dublin,850000.0,No,Sandymount,Dublin 4,q4,80%
+14/07/2014,"27 Willow Field, Sandymount, Dublin 4",Dublin,360000.0,No,Sandymount,Dublin 4,q1,20%
+17/07/2014,"155 Strand Rd, Sandymount, Dublin 4",Dublin,1150000.0,No,Sandymount,Dublin 4,q4,90%
+17/07/2014,"20 Wilfield, Sandymount Ave, Dublin 4",Dublin,410000.0,No,Sandymount,Dublin 4,q1,30%
+17/07/2014,"4 Sandymount, Castle Rd Dublin 4, Dublin",Dublin,620000.0,No,Sandymount,Dublin 4,q3,60%
+17/07/2014,"62 Merrion Strand, Sandymount, Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+18/07/2014,"7 Gilford Ave, Sandymount, Dublin 4",Dublin,726000.0,No,Sandymount,Dublin 4,q3,70%
+18/07/2014,"The Mews, 61 Serpentine Ave, Sandymount Dublin 4",Dublin,565000.0,No,Sandymount,Dublin 4,q2,50%
+22/07/2014,"32 Londonbridge Road, Sandymount, Dublin 4",Dublin,616000.0,No,Sandymount,Dublin 4,q3,60%
+24/07/2014,"4 St Albans Park, Sandymount",Dublin,926000.0,No,Sandymount,Dublin 4,q4,90%
+25/07/2014,"52 Claremont Rd, Sandymount, Dublin 4",Dublin,1020000.0,No,Sandymount,Dublin 4,q4,90%
+28/07/2014,"30 Shrewsbury Square, Sandymount Avenue, Sandymount",Dublin,572687.0,Yes,Sandymount,Dublin 4,q2,50%
+29/07/2014,"8 Beach Dr, Sandymount, Dublin 4",Dublin,471000.0,No,Sandymount,Dublin 4,q2,40%
+31/07/2014,"30 Willow Field, Park Ave, Sandymount Dublin 4",Dublin,355000.0,No,Sandymount,Dublin 4,q1,20%
+31/07/2014,"8 Ailesbury Mews, Sandymount",Dublin,400000.0,No,Sandymount,Dublin 4,q1,30%
+12/08/2014,"23 Londonbridge Rd, Sandymount, Dublin 4",Dublin,625000.0,No,Sandymount,Dublin 4,q3,60%
+13/08/2014,"31 Adelaide, The Strand Rd, Sandymount Dublin 4",Dublin,455000.0,No,Sandymount,Dublin 4,q2,40%
+13/08/2014,"61 Strand Rd, Sandymount, Dublin 4",Dublin,1295000.0,No,Sandymount,Dublin 4,q4,100%
+18/08/2014,"30 Londonbridge Road, Sandymount, Dublin 4",Dublin,630000.0,No,Sandymount,Dublin 4,q3,60%
+20/08/2014,"2 Oaklands Court, Serpentine Ave, Sandymount Dublin 4",Dublin,320000.0,No,Sandymount,Dublin 4,q1,20%
+20/08/2014,"3 Leahy Terace, Sandymount, Dublin",Dublin,950000.0,No,Sandymount,Dublin 4,q4,90%
+20/08/2014,"45 Sandymount Rd, Sandymount, Dublin 4",Dublin,1220000.0,No,Sandymount,Dublin 4,q4,100%
+20/08/2014,"6 Oisin Court, Claremont Rd, Sandymount Dublin 4",Dublin,273000.0,No,Sandymount,Dublin 4,q1,10%
+21/08/2014,"125 Tritonville Road, Sandymount, Dublin 4",Dublin,912000.0,No,Sandymount,Dublin 4,q4,80%
+21/08/2014,"2 Claremont Park, Sandymount, Dublin 4",Dublin,1150000.0,No,Sandymount,Dublin 4,q4,90%
+21/08/2014,"59 Strand Rd, Sandymount, Dublin 4",Dublin,5419.05,No,Sandymount,Dublin 4,q1,10%
+01/09/2014,"12 Claremont Park, Sandymount",Dublin,1400000.0,No,Sandymount,Dublin 4,q4,100%
+03/09/2014,"30A Bath Ave, Sandymount, Dublin",Dublin,375000.0,No,Sandymount,Dublin 4,q1,30%
+08/09/2014,"60 Merrion Strand, Sandymount, Dublin",Dublin,530000.0,No,Sandymount,Dublin 4,q2,50%
+09/09/2014,"23 Sandymount Road, Dublin",Dublin,1625000.0,No,Sandymount,Dublin 4,q4,100%
+11/09/2014,"15 Vavasour Sq, Sandymount, Dublin 4",Dublin,760000.0,No,Sandymount,Dublin 4,q3,70%
+11/09/2014,"Apt 35 Seabury, Sydney Parade Avenue, Sandymount",Dublin,411000.0,No,Sandymount,Dublin 4,q1,30%
+16/09/2014,"38B Windermere, Gilford Rd, Sandymount Dublin 4",Dublin,265000.0,No,Sandymount,Dublin 4,q1,10%
+17/09/2014,"2 Merrion Strand, Strand Rd, Sandymount Dublin 4",Dublin,381550.0,No,Sandymount,Dublin 4,q1,30%
+19/09/2014,"3 Gilford Pines, Gilford Rd, Sandymount Dublin 4",Dublin,417500.0,No,Sandymount,Dublin 4,q2,30%
+19/09/2014,"4 Gilford Court, Sandymount, Dublin 4",Dublin,380000.0,No,Sandymount,Dublin 4,q1,30%
+23/09/2014,"6 Seamount House, St Johns Rd, Sandymount",Dublin,454000.0,No,Sandymount,Dublin 4,q2,40%
+25/09/2014,"39 Seabury Apt, Sydney Parade Avenue, Sandymount",Dublin,420000.0,No,Sandymount,Dublin 4,q2,30%
+30/09/2014,"5 Havelock Square, Bath Avenue  Sandymount, Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+01/10/2014,"61 Bath Ave, Sandymount, Dublin 4",Dublin,665000.0,No,Sandymount,Dublin 4,q3,70%
+02/10/2014,"59 Strand Rd, Sandymount, Dublin 4",Dublin,1300000.0,No,Sandymount,Dublin 4,q4,100%
+07/10/2014,"Apartment 505 The Gates, Beacon South Quarter, Sandymount",Dublin,288528.0,Yes,Sandymount,Dublin 4,q1,20%
+21/10/2014,"21 Kirkwood, Park Ave, Sandymount Dublin 4",Dublin,405000.0,No,Sandymount,Dublin 4,q1,30%
+22/10/2014,"7 Beach Dr, Sandymount, Dublin 4",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+23/10/2014,"5 Strand Mews, St Johns Rd, Sandymount Dublin 4",Dublin,885000.0,No,Sandymount,Dublin 4,q4,80%
+30/10/2014,"3 Sandymount Castle Park, Sandymount, Dublin 4",Dublin,921005.0,No,Sandymount,Dublin 4,q4,90%
+10/11/2014,"38 Adelaide, Strand Road, Sandymount",Dublin,382000.0,No,Sandymount,Dublin 4,q1,30%
+10/11/2014,"69 Seabury, Sydney Parade Ave, Sandymount Dublin 4",Dublin,375000.0,No,Sandymount,Dublin 4,q1,30%
+17/11/2014,"2 Church Ave, Sandymount, Dublin 4",Dublin,560000.0,No,Sandymount,Dublin 4,q2,50%
+17/11/2014,"3 Hempenstall Terrace, Newgrove Avenue, Sandymount",Dublin,810000.0,No,Sandymount,Dublin 4,q3,80%
+19/11/2014,"56 Derrynane Gardens, Bath Ave, Sandymount Dublin 4",Dublin,495000.0,No,Sandymount,Dublin 4,q2,40%
+21/11/2014,"31 Strand Rd, Sandymount, Dublin 4",Dublin,1250000.0,No,Sandymount,Dublin 4,q4,100%
+24/11/2014,"43F Strand Rd, Sandymount, Strand Rd Dublin 4",Dublin,850000.0,No,Sandymount,Dublin 4,q4,80%
+24/11/2014,"66 Radcliff Hall, St Johns Rd, Sandymount Dublin 4",Dublin,515000.0,No,Sandymount,Dublin 4,q2,50%
+25/11/2014,"16D Park Lane, Sandymount, Dublin 4",Dublin,680000.0,No,Sandymount,Dublin 4,q3,70%
+28/11/2014,"42 Seafort Ave, Sandymount, Dublin 4",Dublin,930000.0,No,Sandymount,Dublin 4,q4,90%
+28/11/2014,"51 Tritonville, Sandymount, Dublin 4",Dublin,1300000.0,No,Sandymount,Dublin 4,q4,100%
+03/12/2014,"20 Durham Rd, Sandymount, Dublin 4",Dublin,900000.0,No,Sandymount,Dublin 4,q4,80%
+05/12/2014,"17 Ailesbury Mews, Sandymount, Dublin 4",Dublin,411000.0,No,Sandymount,Dublin 4,q1,30%
+05/12/2014,"38 St Albans Park, Sandymount, Dublin 4",Dublin,1491500.0,No,Sandymount,Dublin 4,q4,100%
+08/12/2014,"22 Willfield, Sandymount, Dublin4",Dublin,470000.0,No,Sandymount,Dublin 4,q2,40%
+09/12/2014,"37 Willowfield, Park Avenue, Sandymount",Dublin,250000.0,No,Sandymount,Dublin 4,q1,10%
+11/12/2014,"88 Tritonville Rd, Sandymount, Dublin 4",Dublin,960000.0,No,Sandymount,Dublin 4,q4,90%
+16/12/2014,"35 Londonbridge Rd, Sandymount, Dublin 4",Dublin,623000.0,No,Sandymount,Dublin 4,q3,60%
+17/12/2014,"Apartment 50, Shrewsbury Square, Sandymount Avenue",Dublin,682819.38,Yes,Sandymount,Dublin 4,q3,70%
+17/12/2014,"Apartment 54 Shrewsbury Square, Sandymount Avenue, Sandymount",Dublin,661000.0,Yes,Sandymount,Dublin 4,q3,60%
+17/12/2014,"Apartment 68, Shrewsbury Square, Sandymount Avenue",Dublin,660792.35,Yes,Sandymount,Dublin 4,q3,60%
+17/12/2014,"Apt 58, Shrewsbury Square, Sandymount Avenue",Dublin,704845.31,Yes,Sandymount,Dublin 4,q3,70%
+19/12/2014,"1A Lea Rd, Sandymount, Dublin 4",Dublin,530000.0,No,Sandymount,Dublin 4,q2,50%
+19/12/2014,"Apt 1, Sandymount Village Centre, Sandymount Rd Dublin 4",Dublin,330000.0,No,Sandymount,Dublin 4,q1,20%
+19/12/2014,"Apt 26 St Cathryn'S Court, Sandymount",Dublin,500000.0,No,Sandymount,Dublin 4,q2,40%
+22/12/2014,"49 Claremont Road, Sandymount, Dublin 4",Dublin,930000.0,No,Sandymount,Dublin 4,q4,90%
+23/12/2014,"1 41A Stanfield House, Strand Rd, Sandymount Dublin 4",Dublin,1511393.0,No,Sandymount,Dublin 4,q4,100%
+23/12/2014,"19 Londonbridge Rd, Sandymount, Dublin 4",Dublin,635000.0,No,Sandymount,Dublin 4,q3,60%
+24/12/2014,"25 Shrewsbury Sq, Sandymount",Dublin,648000.0,No,Sandymount,Dublin 4,q3,60%
+24/12/2014,"26 Shrewsbury Square, Sandymount",Dublin,648000.0,No,Sandymount,Dublin 4,q3,60%
+06/01/2015,"40 Adair, Sandymount Ave, Dublin 4",Dublin,335000.0,No,Sandymount,Dublin 4,q1,20%
+12/01/2015,"21 Bath Ave, Sandymount, Dublin 4",Dublin,855000.0,No,Sandymount,Dublin 4,q4,80%
+15/01/2015,"10A Seafort Gardens, Sandymount, Dublin 4",Dublin,745000.0,No,Sandymount,Dublin 4,q3,70%
+23/01/2015,"13 Derrynane Gardens, Sandymount, Dublin 4",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+23/01/2015,"3 Bath Ave Gardens, Sandymount, Dublin 4",Dublin,610000.0,No,Sandymount,Dublin 4,q3,60%
+23/01/2015,"47 Wilfield Rd, Sandymount, Dublin 4",Dublin,725000.0,No,Sandymount,Dublin 4,q3,70%
+26/01/2015,"7 Glenesk Court, Claremont Rd, Sandymount Dublin 4",Dublin,313000.0,No,Sandymount,Dublin 4,q1,20%
+28/01/2015,"16 Gilford Ave, Sandymount, Dublin 4",Dublin,900000.0,No,Sandymount,Dublin 4,q4,80%
+29/01/2015,"6  Lansdowne Village, Sandymount",Dublin,340000.0,No,Sandymount,Dublin 4,q1,20%
+06/02/2015,"2 Lea Road, Sandymount",Dublin,800000.0,No,Sandymount,Dublin 4,q3,80%
+12/02/2015,"3 Oaklands Dr, Ballsbridge, Sandymount",Dublin,595000.0,No,Sandymount,Dublin 4,q3,60%
+13/02/2015,"20 Tritonville Court, Off Tritonville Rd, Sandymount",Dublin,790000.0,No,Sandymount,Dublin 4,q3,80%
+24/02/2015,"36 Farney Park, Sandymount, Dublin 4",Dublin,905000.0,No,Sandymount,Dublin 4,q4,80%
+27/02/2015,"39 Seafort Gardens, Sandymount Rd, Dublin 4",Dublin,645000.0,No,Sandymount,Dublin 4,q3,60%
+02/03/2015,"52 Wilfield Rd, Sandymount, Dublin 4",Dublin,865000.0,No,Sandymount,Dublin 4,q4,80%
+11/03/2015,"12 Willow Field, Park Ave, Sandymount Dublin 4",Dublin,304000.0,No,Sandymount,Dublin 4,q1,20%
+11/03/2015,"22 Seafort Ave, Sandymount, Dublin 4",Dublin,562500.0,No,Sandymount,Dublin 4,q2,50%
+26/03/2015,"10 Margaret Place, Sandymount, Dublin 4",Dublin,415000.0,No,Sandymount,Dublin 4,q2,30%
+27/03/2015,"5 Radcliff Hall, St Johns Road, Sandymount",Dublin,540000.0,No,Sandymount,Dublin 4,q2,50%
+02/04/2015,"53 Derrynane Gardens, Sandymount, Dublin 4",Dublin,380000.0,No,Sandymount,Dublin 4,q1,30%
+08/04/2015,"30 Newbridge Ave, Sandymount, Dublin 4",Dublin,1200000.0,No,Sandymount,Dublin 4,q4,100%
+13/04/2015,"60 Park Court, Sandymount, Dublin 4",Dublin,445000.0,No,Sandymount,Dublin 4,q2,40%
+21/04/2015,"68 Derrynane Gardens, Sandymount, Dublin 4",Dublin,527000.0,No,Sandymount,Dublin 4,q2,50%
+21/04/2015,"73 Derrynane Gardens, Bath Ave, Sandymount Dublin 4",Dublin,480000.0,No,Sandymount,Dublin 4,q2,40%
+22/04/2015,"Apt 2 Seafort, 10 Seafort Avenue, Sandymount",Dublin,200000.0,No,Sandymount,Dublin 4,q1,10%
+24/04/2015,"1 Spafield Terrace, Sandymount Ave, Sandymount Dublin 4",Dublin,1435000.0,No,Sandymount,Dublin 4,q4,100%
+28/04/2015,"10 Newgrove Avenue, Sandymount, Dublin 4",Dublin,1150000.0,No,Sandymount,Dublin 4,q4,90%
+06/05/2015,"65 Radcliff Hall, St Johns Rd, Sandymount",Dublin,470000.0,No,Sandymount,Dublin 4,q2,40%
+07/05/2015,"37 Merrion Strand, Sandymount, Dublin 4",Dublin,330000.0,No,Sandymount,Dublin 4,q1,20%
+08/05/2015,"11 Tritonville Ave, Sandymount, Dublin 4",Dublin,450000.0,No,Sandymount,Dublin 4,q2,40%
+08/05/2015,"20 Wilfield, Sandymount Ave, Dublin 4",Dublin,417500.0,No,Sandymount,Dublin 4,q2,30%
+08/05/2015,"Apt 15 Kirkwood, Park Avenue, Sandymount",Dublin,385000.0,No,Sandymount,Dublin 4,q1,30%
+15/05/2015,"59 Merrion Strand, Sandymount, Dublin 4",Dublin,776000.0,No,Sandymount,Dublin 4,q3,70%
+27/05/2015,"4 Ennis Grove, Sandymount, Dublin 4",Dublin,390000.0,No,Sandymount,Dublin 4,q1,30%
+27/05/2015,"8 Newbridge Ave, Sandymount, Dublin 4",Dublin,745000.0,No,Sandymount,Dublin 4,q3,70%
+29/05/2015,"11 Tritonville Court, Sandymount, Dublin 4",Dublin,870000.0,No,Sandymount,Dublin 4,q4,80%
+29/05/2015,"6 Seafort Gardens, Sandymount, Dublin 4",Dublin,665000.0,No,Sandymount,Dublin 4,q3,70%
+29/05/2015,"6 St. James Place, Sandymount, Dublin 4",Dublin,465000.0,No,Sandymount,Dublin 4,q2,40%
+12/06/2015,"3 Derrynane Gardens, Sandymount, Dublin 4",Dublin,525000.0,No,Sandymount,Dublin 4,q2,50%
+17/06/2015,"3A Derrynane Gardens, Sandymount, Dublin 4",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+19/06/2015,"28 Newbridge Ave, Sandymount, Dublin 4",Dublin,1160700.0,No,Sandymount,Dublin 4,q4,90%
+26/06/2015,"2 Martello Wood, Strand Rd, Sandymount Dublin 4",Dublin,595000.0,No,Sandymount,Dublin 4,q3,60%
+01/07/2015,"60 Wilfield Rd, Sandymount, Dublin 4",Dublin,810000.0,No,Sandymount,Dublin 4,q3,80%
+03/07/2015,"35 Farney Park, Sandymount, Dublin 4",Dublin,765000.0,No,Sandymount,Dublin 4,q3,70%
+07/07/2015,"7 Merrion Strand, Sandymount, Dublin 4",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+13/07/2015,"17 Tritonville Court, Sandymount, Dublin 4",Dublin,825000.0,No,Sandymount,Dublin 4,q3,80%
+17/07/2015,"16 St Johns, Park Ave, Sandymount",Dublin,557500.0,No,Sandymount,Dublin 4,q2,50%
+22/07/2015,"30 Adelaide, Sandymount, Dublin 4",Dublin,442000.0,No,Sandymount,Dublin 4,q2,40%
+24/07/2015,"16 Merrion Strand, Sandymount, Dublin 4",Dublin,536000.0,No,Sandymount,Dublin 4,q2,50%
+24/07/2015,"43 St Johns, Park Ave, Sandymount",Dublin,595000.0,No,Sandymount,Dublin 4,q3,60%
+24/07/2015,"65 Sandymount Rd, Dublin 4, Dublin",Dublin,1000000.0,No,Sandymount,Dublin 4,q4,90%
+28/07/2015,"41 Wilfield Road, Sandymount, Dublin 4",Dublin,580000.0,No,Sandymount,Dublin 4,q3,60%
+30/07/2015,"Lisheen, 168 Strand Rd, Sandymount Dublin 4",Dublin,530000.0,No,Sandymount,Dublin 4,q2,50%
+05/08/2015,"38 Willow Field, Park Ave, Sandymount Dublin 4",Dublin,560000.0,No,Sandymount,Dublin 4,q2,50%
+14/08/2015,"60A Oaklands Park, Sandymount, Dublin 4",Dublin,965000.0,No,Sandymount,Dublin 4,q4,90%
+17/08/2015,"Apt 43 St Catherines Court, Newgrove Ave, Sandymount Dublin 4",Dublin,785000.0,No,Sandymount,Dublin 4,q3,80%
+21/08/2015,"28 Oconnell Gardens, Sandymount, Dublin 4",Dublin,460000.0,No,Sandymount,Dublin 4,q2,40%
+21/08/2015,"29 Seafort Ave, Sandymount, Dublin 4",Dublin,859000.0,No,Sandymount,Dublin 4,q4,80%
+26/08/2015,"10 Gilford Dr, Sandymount, Dublin 4",Dublin,815000.0,No,Sandymount,Dublin 4,q3,80%
+28/08/2015,"44 Oaklands Park, Sandymount, Dublin 4",Dublin,1020000.0,No,Sandymount,Dublin 4,q4,90%
+28/08/2015,"54 St Johns, Park Ave, Sandymount",Dublin,677500.0,No,Sandymount,Dublin 4,q3,70%
+28/08/2015,"Castleville, 12 Sandymount Green, Sandymount",Dublin,1675000.0,No,Sandymount,Dublin 4,q4,100%
+03/09/2015,"81 Strand Rd, Sandymount, Dublin 4",Dublin,1275000.0,No,Sandymount,Dublin 4,q4,100%
+03/09/2015,"The Mews, Baggotrath  Newbridge Avenue, Sandymount",Dublin,600000.0,No,Sandymount,Dublin 4,q3,60%
+03/09/2015,"Unit 12 Baggotrath, Newbridge Avenue, Sandymount",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+03/09/2015,"Unit 14 Baggotrath, Newbridge Avenue, Sandymount",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+03/09/2015,"Unit 17 Baggotrath, Newbridge Avenue, Sandymount",Dublin,485000.0,No,Sandymount,Dublin 4,q2,40%
+03/09/2015,"Unit 5 Baggotrath, Newbridge Avenue, Sandymount",Dublin,260000.0,No,Sandymount,Dublin 4,q1,10%
+03/09/2015,"Unit 6 Baggotrath, Newbridge Avenue, Sandymount",Dublin,265000.0,No,Sandymount,Dublin 4,q1,10%
+03/09/2015,"Unit 8 Baggotrath, Newbridge Avenue, Sandymount",Dublin,420000.0,No,Sandymount,Dublin 4,q2,30%
+03/09/2015,"Unit 9 Baggotrath, Newbridge Avenue, Sandymount",Dublin,420000.0,No,Sandymount,Dublin 4,q2,30%
+04/09/2015,"19 St Johns, Park Ave, Sandymount Dublin 4",Dublin,555000.0,No,Sandymount,Dublin 4,q2,50%
+08/09/2015,"16B Park Lane, Sandymount, Dublin 4",Dublin,611000.0,No,Sandymount,Dublin 4,q3,60%
+11/09/2015,"11 Radcliffe Hall, St Johns Rd, Sandymount",Dublin,470000.0,No,Sandymount,Dublin 4,q2,40%
+17/09/2015,"15 & 17 Sandymount Ave, Dublin 4, Dublin",Dublin,2000000.0,No,Sandymount,Dublin 4,q4,100%
+19/09/2015,"6 The Grove, Beach Ave, Sandymount Dublin 4",Dublin,370000.0,No,Sandymount,Dublin 4,q1,20%
+21/09/2015,"3 Serpentine Mews, Sandymount, Dublin 4",Dublin,410000.0,No,Sandymount,Dublin 4,q1,30%
+24/09/2015,"69 Bath Ave, Sandymount, Dublin 4",Dublin,816500.0,No,Sandymount,Dublin 4,q3,80%
+25/09/2015,"22 Windermere, Gilford Rd, Sandymount Dublin 4",Dublin,231000.0,No,Sandymount,Dublin 4,q1,10%
+01/10/2015,"35 Windermere, Gilford Rd, Sandymount",Dublin,242000.0,No,Sandymount,Dublin 4,q1,10%
+01/10/2015,"6 Seafort Terrace, Seafort Ave, Sandymount Dublin 4",Dublin,545000.0,No,Sandymount,Dublin 4,q2,50%
+02/10/2015,"38 Seafort Gardens, Sandymount, Dublin 4",Dublin,645000.0,No,Sandymount,Dublin 4,q3,60%
+05/10/2015,"6 Derrynane Gardens, Bath Avenue, Sandymount",Dublin,600000.0,No,Sandymount,Dublin 4,q3,60%
+09/10/2015,"47 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,700000.0,No,Sandymount,Dublin 4,q3,70%
+12/10/2015,"57 Tritonville Road, Sandymount, Dublin 4",Dublin,820000.0,No,Sandymount,Dublin 4,q3,80%
+15/10/2015,"1 Havelock Square, Sandymount",Dublin,1000000.0,No,Sandymount,Dublin 4,q4,90%
+16/10/2015,"1 St Cathryn'S Court, Sandymount",Dublin,299000.0,No,Sandymount,Dublin 4,q1,20%
+19/10/2015,"53 Adair, Sandymount Ave, Sandymount Dublin 4",Dublin,310000.0,No,Sandymount,Dublin 4,q1,20%
+20/10/2015,"1 Merrybush, Tritonville Rd, Sandymount",Dublin,762000.0,No,Sandymount,Dublin 4,q3,70%
+22/10/2015,"25 Bath Ave, Beggars Bush, Sandymount Dublin 4",Dublin,820000.0,No,Sandymount,Dublin 4,q3,80%
+23/10/2015,"1 Sandymount Castle Park, Sandymount, Dublin 4",Dublin,662500.0,No,Sandymount,Dublin 4,q3,70%
+23/10/2015,"1 Sandymount Castle Park, Sandymount, Dublin 4",Dublin,662500.0,No,Sandymount,Dublin 4,q3,70%
+23/10/2015,"20 Farney Park, Sandymount, Dublin 4",Dublin,950000.0,No,Sandymount,Dublin 4,q4,90%
+28/10/2015,"31 Farney Park, Sandymount, Dublin 4",Dublin,985000.0,No,Sandymount,Dublin 4,q4,90%
+30/10/2015,"31 Park Court, Sandymount, Dublin 4",Dublin,500000.0,No,Sandymount,Dublin 4,q2,40%
+30/10/2015,"81 Tritonville Road, Sandymount",Dublin,1595000.0,No,Sandymount,Dublin 4,q4,100%
+05/11/2015,"61 Radcliffe Hall, St. John'S Road, Sandymount",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+13/11/2015,"4 Steeplegate, Tritonville Road, Sandymount",Dublin,375000.0,No,Sandymount,Dublin 4,q1,30%
+18/11/2015,"60 Tritonville Rd, Sandymount, Dublin 4",Dublin,1200000.0,No,Sandymount,Dublin 4,q4,100%
+20/11/2015,"12 Beach Ave, Sandymount, Dublin 4",Dublin,480000.0,No,Sandymount,Dublin 4,q2,40%
+20/11/2015,"2 Willow Field, Park Ave, Sandymount",Dublin,460000.0,No,Sandymount,Dublin 4,q2,40%
+20/11/2015,"42 St Cathryns Court, Newgrove Ave, Sandymount Dublin 4",Dublin,790000.0,No,Sandymount,Dublin 4,q3,80%
+27/11/2015,"1 Leahys Terrace, Sandymount, Dublin 4",Dublin,1725000.0,No,Sandymount,Dublin 4,q4,100%
+27/11/2015,"96 Tritonville Road, Sandymount, Dublin 4",Dublin,1025000.0,No,Sandymount,Dublin 4,q4,90%
+11/12/2015,"12 Derrynane Gardens, Bath Ave, Sandymount Dublin 4",Dublin,460000.0,No,Sandymount,Dublin 4,q2,40%
+17/12/2015,"23 Kirkwood Park Avenue, Sandymount, Dublin 4",Dublin,320000.0,No,Sandymount,Dublin 4,q1,20%
+17/12/2015,"49 Shrewsbury Square, Sandymount Avenue, Dublin 4",Dublin,651982.3,Yes,Sandymount,Dublin 4,q3,60%
+21/12/2015,"37 Havelock Sq, Sandymount, Dublin 4",Dublin,580000.0,No,Sandymount,Dublin 4,q3,60%
+22/12/2015,"13A Sandymount Castle Road, Sandymount",Dublin,650000.0,No,Sandymount,Dublin 4,q3,60%
+14/01/2016,"67A Sandymount Avenue, Sandymount, Dublin 4",Dublin,2419000.0,No,Sandymount,Dublin 4,q4,100%
+15/01/2016,"33 Lansdowne Village, Sandymount, Dublin 4",Dublin,490000.0,No,Sandymount,Dublin 4,q2,40%
+20/01/2016,"42 Claremont Road, Sandymount, Dublin 4",Dublin,1670000.0,No,Sandymount,Dublin 4,q4,100%
+26/01/2016,"The Lodge House, 2A Sandymount Rd, Dublin 4",Dublin,800000.0,No,Sandymount,Dublin 4,q3,80%
+02/02/2016,"14 Cannon Place, Herbert Road, Sandymount",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+03/02/2016,"64 Landsdowne Village, Sandymount, Dublin 4",Dublin,334150.0,No,Sandymount,Dublin 4,q1,20%
+04/02/2016,"10 Cannon Place, Herbert Road, Sandymount",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+04/02/2016,"11 Cannon Place, Herbert Road, Sandymount",Dublin,625000.0,No,Sandymount,Dublin 4,q3,60%
+04/02/2016,"12 Cannon Place, Herbert Road, Sandymount",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+04/02/2016,"13 Cannon Place, Herbert Road, Sandymount",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+04/02/2016,"15 Cannon Place, Herbert Road, Sandymount",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+04/02/2016,"16 Cannon Place, Herbert Road, Sandymount",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+04/02/2016,"17 Cannon Place, Herbert Road, Sandymount",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+04/02/2016,"18 Cannon Place, Herbert Road, Sandymount",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+04/02/2016,"19 Cannon Place, Herbert Road, Sandymount",Dublin,450000.0,No,Sandymount,Dublin 4,q2,40%
+04/02/2016,"20 Cannon Place, Herbert Road, Sandymount",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+04/02/2016,"21 Cannon Place, Herbert Road, Sandymount",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+04/02/2016,"22 Cannon Place, Herbert Road, Sandymount",Dublin,625000.0,No,Sandymount,Dublin 4,q3,60%
+04/02/2016,"7 Cannon Place, Herbert Road, Sandymount",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+04/02/2016,"8 Cannon Place, Herbert Road, Sandymount",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+04/02/2016,"9 Cannon Place, Herbert Rad, Sandymount",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+05/02/2016,"18 Durham Rd, Sandymount, Dublin 4",Dublin,1100000.0,No,Sandymount,Dublin 4,q4,90%
+12/02/2016,"54 Willow Field, Sandymount, Dublin 4",Dublin,460000.0,No,Sandymount,Dublin 4,q2,40%
+16/02/2016,"17 Claremont Rd, Sandymount, Dublin 4",Dublin,781000.0,No,Sandymount,Dublin 4,q3,80%
+16/02/2016,"40 Windermere, Gilford Rd, Sandymount Dublin 4",Dublin,242000.0,No,Sandymount,Dublin 4,q1,10%
+17/02/2016,"14 Oaklands Park, Sandymount, Dublin 4",Dublin,900000.0,No,Sandymount,Dublin 4,q4,80%
+18/02/2016,"1 Park Court, Park Lane, Sandymount Dublin 4",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+18/02/2016,"37 Derrynane Gardens, Sandymount, Dublin 4",Dublin,577000.0,No,Sandymount,Dublin 4,q2,50%
+19/02/2016,"Apt 69, 49 Sydney Parade Ave, Sandymount Dublin 4",Dublin,271000.0,No,Sandymount,Dublin 4,q1,10%
+23/02/2016,"90  St. Alban'S Park, Sandymount, Dublin 4",Dublin,595000.0,No,Sandymount,Dublin 4,q3,60%
+10/03/2016,"9 Landsdowne Hall, Tritonville Rd, Sandymount Dublin 4",Dublin,200000.0,No,Sandymount,Dublin 4,q1,10%
+16/03/2016,"42 Malone Gardens, Bath Ave, Sandymount Dublin 4",Dublin,126000.0,No,Sandymount,Dublin 4,q1,10%
+16/03/2016,"5 Willow Mews, Sandymount, Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+18/03/2016,"67 Seabury Apts, Sydney Parade Ave, Sandymount Dublin 4",Dublin,457000.0,No,Sandymount,Dublin 4,q2,40%
+21/03/2016,"99 Tritonville Rd, Sandymount, Dublin 4",Dublin,1015000.0,No,Sandymount,Dublin 4,q4,90%
+31/03/2016,"37 Strand Rd, Sandymount, Dublin 4",Dublin,1000000.0,No,Sandymount,Dublin 4,q4,90%
+01/04/2016,"17 Wilfield, Sandymount, Dublin 4",Dublin,510000.0,No,Sandymount,Dublin 4,q2,50%
+04/04/2016,"12 Seabury, Sydney Parade Ave, Sandymount Dublin 4",Dublin,480000.0,No,Sandymount,Dublin 4,q2,40%
+04/04/2016,"24 Merrion Strand, Strand Rd, Sandymount Dublin 4",Dublin,840000.0,No,Sandymount,Dublin 4,q4,80%
+07/04/2016,"26 Malone Gardens, Off Bath Avenue, Sandymount",Dublin,342500.0,No,Sandymount,Dublin 4,q1,20%
+27/04/2016,"3 St Johns, Park Ave, Sandymount Dublin 4",Dublin,515000.0,No,Sandymount,Dublin 4,q2,50%
+28/04/2016,"3 Glenesk Court, Farney Park, Sandymount Dublin 4",Dublin,340000.0,No,Sandymount,Dublin 4,q1,20%
+29/04/2016,"30 Lea Rd, Sandymount, Dublin 4",Dublin,1282000.0,No,Sandymount,Dublin 4,q4,100%
+04/05/2016,"1 Beach Dr, Sandymount, Dublin 4",Dublin,522000.0,No,Sandymount,Dublin 4,q2,50%
+04/05/2016,"13 Martello Mews, Sandymount, Dublin 4",Dublin,660000.0,No,Sandymount,Dublin 4,q3,60%
+24/05/2016,"9 Avondale Mews, Park Ave, Sandymount",Dublin,271500.0,No,Sandymount,Dublin 4,q1,10%
+30/05/2016,"6 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,590000.0,No,Sandymount,Dublin 4,q3,60%
+01/06/2016,"26 Havelock Sq, Sandymount, Dublin 4",Dublin,580000.0,No,Sandymount,Dublin 4,q3,60%
+03/06/2016,"43 Farney Park, Sandymount, Dublin 4",Dublin,618750.0,No,Sandymount,Dublin 4,q3,60%
+09/06/2016,"7 Sandymount Green, Sandymount, Dublin",Dublin,470000.0,No,Sandymount,Dublin 4,q2,40%
+15/06/2016,"30 Lansdowne Village, Sandymount, Dublin 4",Dublin,450000.0,No,Sandymount,Dublin 4,q2,40%
+21/06/2016,"37 Seabury, Sydney Parade Ave, Sandymount Dublin 4",Dublin,430000.0,No,Sandymount,Dublin 4,q2,30%
+22/06/2016,"23 Park Ave, Sandymount, Dublin 4",Dublin,1465000.0,No,Sandymount,Dublin 4,q4,100%
+23/06/2016,"11 Ailesbury Mews, Sandymount, Dublin 4",Dublin,380000.0,No,Sandymount,Dublin 4,q1,30%
+24/06/2016,"10 Radcliff Hall, St Johns Rd, Sandymount Dublin 4",Dublin,562000.0,No,Sandymount,Dublin 4,q2,50%
+24/06/2016,"20 St Cathryns Court, Newgrove Ave, Sandymount Dublin 4",Dublin,491000.0,No,Sandymount,Dublin 4,q2,40%
+30/06/2016,"11A Seafort Gardens, Sandymount, Dublin 4",Dublin,672500.0,No,Sandymount,Dublin 4,q3,70%
+01/07/2016,"49 Park Court, Park Ave, Sandymount Dublin 4",Dublin,430000.0,No,Sandymount,Dublin 4,q2,30%
+04/07/2016,"25 Beach Rd, Sandymount, Dublin 4",Dublin,655000.0,No,Sandymount,Dublin 4,q3,60%
+04/07/2016,"6 Prospect Terrace, Marine Dr, Sandymount Dublin 4",Dublin,1170000.0,No,Sandymount,Dublin 4,q4,100%
+15/07/2016,"10 Sandymount Court, Sandymount, Dublin 4",Dublin,580000.0,No,Sandymount,Dublin 4,q3,60%
+15/07/2016,"18 Farney Park, Sandymount, Dublin 4",Dublin,1021500.0,No,Sandymount,Dublin 4,q4,90%
+15/07/2016,"6 Seafort Villas, Sandymount, Dublin 4",Dublin,481000.0,No,Sandymount,Dublin 4,q2,40%
+16/07/2016,"7 Sandymount Green, Sandymount, Dublin",Dublin,470000.0,No,Sandymount,Dublin 4,q2,40%
+18/07/2016,"21 Beach Road, Sandymount, Co Dublin",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+21/07/2016,"60 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,423000.0,No,Sandymount,Dublin 4,q2,30%
+22/07/2016,"10 St Johns Court, Sandymount, Co Dublin",Dublin,335000.0,No,Sandymount,Dublin 4,q1,20%
+22/07/2016,"45 Radcliffe Hall, St Johns Rd, Sandymount",Dublin,740000.0,No,Sandymount,Dublin 4,q3,70%
+28/07/2016,"6 Tritonville Ave, Sandymount, Dublin 4",Dublin,519000.0,No,Sandymount,Dublin 4,q2,50%
+29/07/2016,"Gilford Mews, Gilford Court, Sandymount",Dublin,742500.0,No,Sandymount,Dublin 4,q3,70%
+02/08/2016,"18 Tritonville Ave, Sandymount, Dublin 4",Dublin,665000.0,No,Sandymount,Dublin 4,q3,70%
+03/08/2016,"9 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,580000.0,No,Sandymount,Dublin 4,q3,60%
+08/08/2016,"15 Beach Avenue, Sandymount, Dublin 4",Dublin,540000.0,No,Sandymount,Dublin 4,q2,50%
+08/08/2016,"28 Claremont Rd, Sandymount, Dublin 4",Dublin,2250000.0,No,Sandymount,Dublin 4,q4,100%
+08/08/2016,"40 Gilford Park, Sandymount, Dublin 4",Dublin,1165000.0,No,Sandymount,Dublin 4,q4,90%
+15/08/2016,"5 Gilford Court, Sandymount, Dublin 4",Dublin,448000.0,No,Sandymount,Dublin 4,q2,40%
+17/08/2016,"121 Strand Road, Sandymount, Dublin 4",Dublin,960000.0,No,Sandymount,Dublin 4,q4,90%
+17/08/2016,"4 Willowfield Park Avenue, Sandymount, Dublin 4",Dublin,432000.0,No,Sandymount,Dublin 4,q2,30%
+18/08/2016,"1 Fairfield Court, Newbridge Ave, Sandymount Dublin 4",Dublin,600000.0,No,Sandymount,Dublin 4,q3,60%
+18/08/2016,"21 Seafort Villas, Sandymount, Dublin",Dublin,450000.0,No,Sandymount,Dublin 4,q2,40%
+23/08/2016,"19 Claremont Park, Sandymount, Dublin 4",Dublin,1600000.0,No,Sandymount,Dublin 4,q4,100%
+24/08/2016,"3 Oak House, Oakbury Court, Serpentine Ave Sandymount Dublin 4",Dublin,375000.0,No,Sandymount,Dublin 4,q1,30%
+26/08/2016,"70 Tritonville Rd, Sandymount, Dublin 4",Dublin,950000.0,No,Sandymount,Dublin 4,q4,90%
+01/09/2016,"8 Willow Mews, St Albans Park, Sandymount Dublin 4",Dublin,540000.0,No,Sandymount,Dublin 4,q2,50%
+02/09/2016,"28 Bath Ave, Sandymount, Dublin 4",Dublin,485000.0,No,Sandymount,Dublin 4,q2,40%
+08/09/2016,"38 Wilfield Park, Sandymount, Dublin 4",Dublin,1025000.0,No,Sandymount,Dublin 4,q4,90%
+14/09/2016,"10 Lansdowne Hall, Sandymount, Dublin 4",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+14/09/2016,"27 Seafort Gardens, Sandymount, Dublin 4",Dublin,1015000.0,No,Sandymount,Dublin 4,q4,90%
+15/09/2016,"5 Wilfield, Sandymount, Dublin 4",Dublin,455000.0,No,Sandymount,Dublin 4,q2,40%
+21/09/2016,"24 Gilford Pines, Gilford Rd, Sandymount Dublin 4",Dublin,325000.0,No,Sandymount,Dublin 4,q1,20%
+26/09/2016,"6 Glenwaverly Court, Park Ave, Sandymount Dublin 4",Dublin,320000.0,No,Sandymount,Dublin 4,q1,20%
+27/09/2016,"3 Gilford Ave, Sandymount, Dublin 4",Dublin,670000.0,No,Sandymount,Dublin 4,q3,70%
+29/09/2016,"56 Tritonville Road, Sandymount, Dublin 4",Dublin,1050000.0,No,Sandymount,Dublin 4,q4,90%
+05/10/2016,"43B Strand Rd, Sandymount, Strand Rd Dublin 4",Dublin,1055000.0,No,Sandymount,Dublin 4,q4,90%
+05/10/2016,"59 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,565000.0,No,Sandymount,Dublin 4,q2,50%
+11/10/2016,"3 St Johns Wood, Sandymount, Dublin 4",Dublin,292500.0,No,Sandymount,Dublin 4,q1,20%
+18/10/2016,"13 Bath Ave Gardens, Sandymount, Dublin",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+20/10/2016,"4 Sydeny Parade Ave, Sandymount, Dublin 4",Dublin,2925000.0,No,Sandymount,Dublin 4,q4,100%
+20/10/2016,"50 Claremount Road, Sandymount, Dublin 4",Dublin,955000.0,No,Sandymount,Dublin 4,q4,90%
+21/10/2016,"15 Sandymount Ave, Dublin 4, Dublin",Dublin,2000000.0,No,Sandymount,Dublin 4,q4,100%
+21/10/2016,"4 Havelock Terrace, Sandymount, Dublin 4",Dublin,800000.0,No,Sandymount,Dublin 4,q3,80%
+21/10/2016,"76 Tritonville Rd, Sandymount, Dublin 4",Dublin,800000.0,No,Sandymount,Dublin 4,q3,80%
+26/10/2016,"1 Strand Mews, Lea Rd, Sandymount Dublin 4",Dublin,720000.0,No,Sandymount,Dublin 4,q3,70%
+03/11/2016,"1 Bethany House, Gilford Road, Sandymount  Dublin 4",Dublin,125500.0,Yes,Sandymount,Dublin 4,q1,10%
+04/11/2016,"23 Lansdwone Village, Sandymount, Dublin 4",Dublin,510000.0,No,Sandymount,Dublin 4,q2,50%
+04/11/2016,"7 Durham Road, Sandymount, Dublin 4",Dublin,875000.0,No,Sandymount,Dublin 4,q4,80%
+09/11/2016,"60 Adair, Sandymount Ave, Dublin 4",Dublin,331000.0,No,Sandymount,Dublin 4,q1,20%
+11/11/2016,"19 Adair, Sandymount Avenue, Dublin 4",Dublin,290000.0,No,Sandymount,Dublin 4,q1,20%
+21/11/2016,"6 St Johns Wood, St Johns Rd, Sandymount Dublin 4",Dublin,255000.0,No,Sandymount,Dublin 4,q1,10%
+24/11/2016,"8 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+28/11/2016,"69 Shrewsbury Square, Sandymount Avenue, Sandymount Avenue",Dublin,600000.0,No,Sandymount,Dublin 4,q3,60%
+28/11/2016,"88 St Albans Park, Sandymount, Dublin 4",Dublin,500000.0,No,Sandymount,Dublin 4,q2,40%
+01/12/2016,"12 Holyrood Apts, Holyrood Park, Sandymount Ave Dublin 4",Dublin,432500.0,No,Sandymount,Dublin 4,q2,30%
+01/12/2016,"9 Merrion Strand, Strand Rd, Sandymount Dublin 4",Dublin,505000.0,No,Sandymount,Dublin 4,q2,50%
+02/12/2016,"Apartment 7, 88 Sandymount Rd, Sandymount",Dublin,264317.0,No,Sandymount,Dublin 4,q1,10%
+02/12/2016,"Apt 1, 88 Sandymount Road, Sandymount",Dublin,286344.0,No,Sandymount,Dublin 4,q1,20%
+02/12/2016,"Apt 2 88 Sandymount Rd, Sandymount, Dublin 4",Dublin,264317.0,No,Sandymount,Dublin 4,q1,10%
+02/12/2016,"Apt 3 88 Sandymount Rd, Sandymount, Dublin 4",Dublin,352423.0,No,Sandymount,Dublin 4,q1,20%
+02/12/2016,"Apt 4 88 Sandymount Rd, Sandymount, Dublin 4",Dublin,352423.0,No,Sandymount,Dublin 4,q1,20%
+02/12/2016,"Apt 5 88 Sandymount Rd, Sandymount, Dublin 4",Dublin,343612.0,No,Sandymount,Dublin 4,q1,20%
+02/12/2016,"Apt 6 88 Sandymount Rd, Sandymount, Dublin 4",Dublin,343612.0,No,Sandymount,Dublin 4,q1,20%
+02/12/2016,"Apt 8, 88 Sandymount Road, Sandymount",Dublin,352423.0,No,Sandymount,Dublin 4,q1,20%
+07/12/2016,"31 Tritonville Road, Sandymount, Dublin 4",Dublin,830000.0,No,Sandymount,Dublin 4,q3,80%
+07/12/2016,"Apt 2, Holyrood Castle Holyrood Park, Sandymount",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+09/12/2016,"27 Farney Park, Sandymount, Dublin 4",Dublin,925000.0,No,Sandymount,Dublin 4,q4,90%
+09/12/2016,"38 Wilfield Rd, Sandymount, Dublin 4",Dublin,870000.0,No,Sandymount,Dublin 4,q4,80%
+09/12/2016,"Apt 12 Strand House, 171 Strand Road, Sandymount",Dublin,480000.0,No,Sandymount,Dublin 4,q2,40%
+13/12/2016,"3 Malone Gardens, Bath Ave, Sandymount Dublin 4",Dublin,625000.0,No,Sandymount,Dublin 4,q3,60%
+13/12/2016,"48 Windermere, Gilford Rd, Sandymount Dublin 4",Dublin,315000.0,No,Sandymount,Dublin 4,q1,20%
+15/12/2016,"39 Radcliffe Hall, St Johns Rd, Sandymount",Dublin,800000.0,No,Sandymount,Dublin 4,q3,80%
+19/12/2016,"40 St Johns, Park Ave, Sandymount Dublin 4",Dublin,560000.0,No,Sandymount,Dublin 4,q2,50%
+20/12/2016,"91 Tritonville Rd, Sandymount, Dublin 4",Dublin,1100000.0,No,Sandymount,Dublin 4,q4,90%
+21/12/2016,"1B St Albans Park, Sandymount, Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+21/12/2016,"2 Marine Dr, Sandymount, Dublin 4",Dublin,931500.0,No,Sandymount,Dublin 4,q4,90%
+21/12/2016,"5 Havelock Terrace, Sandymount, Dublin 4",Dublin,680000.0,No,Sandymount,Dublin 4,q3,70%
+22/12/2016,"28 Farney Park, Sandymount, Dublin 4",Dublin,880000.0,No,Sandymount,Dublin 4,q4,80%
+22/12/2016,"4 Railway Cottages, Sandymount, Dublin 4",Dublin,642600.0,No,Sandymount,Dublin 4,q3,60%
+22/12/2016,"68 Park Ave, Sandymount, Dublin 4",Dublin,2800000.0,No,Sandymount,Dublin 4,q4,100%
+10/01/2017,"34 Merrion Strand, Strand Rd, Sandymount",Dublin,436000.0,No,Sandymount,Dublin 4,q2,30%
+17/01/2017,"6 Farney Park, Sandymount, Dublin 4",Dublin,1030000.0,No,Sandymount,Dublin 4,q4,90%
+18/01/2017,"12 Radcliffe Hall, St Johns Rd, Sandymount",Dublin,625790.0,No,Sandymount,Dublin 4,q3,60%
+20/01/2017,"11 Sandymount Court, Sandymount, Dublin 4",Dublin,635000.0,No,Sandymount,Dublin 4,q3,60%
+20/01/2017,"12 Bath Ave Place, Sandymount, Dublin 4",Dublin,785000.0,No,Sandymount,Dublin 4,q3,80%
+20/01/2017,"40 Radcliffe Hall, St Johns Rd, Sandymount",Dublin,795000.0,No,Sandymount,Dublin 4,q3,80%
+20/01/2017,"7 Sandymount Castle Park, Sandymount, Dublin",Dublin,1220000.0,No,Sandymount,Dublin 4,q4,100%
+25/01/2017,"50 Tritonville Rd, Sandymount, Dublin 4",Dublin,875602.0,No,Sandymount,Dublin 4,q4,80%
+26/01/2017,"12 Londonbridge Rd, Sandymount, Dublin 4",Dublin,780000.0,No,Sandymount,Dublin 4,q3,80%
+27/01/2017,"23 St Johns, Park Ave, Sandymount Dublin 4",Dublin,525000.0,No,Sandymount,Dublin 4,q2,50%
+27/01/2017,"70 Seabury, Sydney Parade Avenue, Sandymount",Dublin,440000.0,No,Sandymount,Dublin 4,q2,30%
+30/01/2017,"2 Radcliffe Hall, St Johns Rd, Sandymount",Dublin,555500.0,No,Sandymount,Dublin 4,q2,50%
+30/01/2017,"3 Newbridge Dr, Sandymount, Dublin 4",Dublin,1150000.0,No,Sandymount,Dublin 4,q4,90%
+01/02/2017,"56 Lansdowne Village, Sandymount, Dublin 4",Dublin,380000.0,No,Sandymount,Dublin 4,q1,30%
+02/02/2017,"19 Wilfield Rd, Sandymount, Dublin 4",Dublin,675000.0,No,Sandymount,Dublin 4,q3,70%
+02/02/2017,"2 Strand House, 171 Strand Rd, Sandymount Dublin 4",Dublin,350000.0,No,Sandymount,Dublin 4,q1,20%
+09/02/2017,"31 Beach Rd, Sandymount, Dublin 4",Dublin,725000.0,No,Sandymount,Dublin 4,q3,70%
+09/02/2017,"65 Sydney Parade Ave, Sandymount, Dublin 4",Dublin,2100000.0,No,Sandymount,Dublin 4,q4,100%
+10/02/2017,"5 Towerville, St Johns Rd, Sandymount Dublin 4",Dublin,300000.0,No,Sandymount,Dublin 4,q1,20%
+14/02/2017,"10 Kirkwood, Park Ave, Sandymount Dublin 4",Dublin,358000.0,No,Sandymount,Dublin 4,q1,20%
+14/02/2017,"18 Vavsour Sq, Sandymount, Dublin 4",Dublin,915000.0,No,Sandymount,Dublin 4,q4,80%
+24/02/2017,"52 Merrion Strand, Strand Rd, Sandymount Dublin 4",Dublin,430000.0,No,Sandymount,Dublin 4,q2,30%
+03/03/2017,"24 Farney Park, Sandymount, Dublin 4",Dublin,970000.0,No,Sandymount,Dublin 4,q4,90%
+10/03/2017,"18 Ennis Grove, Sandymount, Dublin 4",Dublin,450000.0,No,Sandymount,Dublin 4,q2,40%
+21/03/2017,"40 Beach Rd, Sandymount, Dublin 4",Dublin,725000.0,No,Sandymount,Dublin 4,q3,70%
+24/03/2017,"44 Adelaide, Strand Rd, Sandymount",Dublin,420000.0,No,Sandymount,Dublin 4,q2,30%
+31/03/2017,"28 Adelaide, Strand Rd, Sandymount",Dublin,440000.0,No,Sandymount,Dublin 4,q2,30%
+04/04/2017,"21 Newgrove Ave, Sandymount, Dublin",Dublin,650000.0,No,Sandymount,Dublin 4,q3,60%
+04/04/2017,"34 Havelock Sq, Sandymount, Dublin 4",Dublin,950000.0,No,Sandymount,Dublin 4,q4,90%
+04/04/2017,"Apt 1, 113 115 Strand Rd, Sandymount Dublin 4",Dublin,280000.0,No,Sandymount,Dublin 4,q1,10%
+06/04/2017,"28 Park Court, Sandymount, Dublin 4",Dublin,421000.0,No,Sandymount,Dublin 4,q2,30%
+11/04/2017,"3 Farney Park, Sandymount, Dublin 4",Dublin,840000.0,No,Sandymount,Dublin 4,q4,80%
+13/04/2017,"32 Seafort Ave, Sandymount, Dublin 4",Dublin,700000.0,No,Sandymount,Dublin 4,q3,70%
+13/04/2017,"7 Newbridge Ave, Sandymount, Dublin 4",Dublin,1265000.0,No,Sandymount,Dublin 4,q4,100%
+19/04/2017,"9 Gilford Park, Sandymount, Dublin 4",Dublin,1060000.0,No,Sandymount,Dublin 4,q4,90%
+28/04/2017,"7 St Johns Rd, Sandymount, Dublin 4",Dublin,1100000.0,No,Sandymount,Dublin 4,q4,90%
+04/05/2017,"5 Avondale Mews 19 Park Ave, Sandymount, Dublin 4",Dublin,299000.0,No,Sandymount,Dublin 4,q1,20%
+04/05/2017,"5 Wilfield, Sandymount Avenue, Dublin 4",Dublin,490000.0,No,Sandymount,Dublin 4,q2,40%
+15/05/2017,"2D Durham Rd, Sandymount, Dublin 4",Dublin,635000.0,No,Sandymount,Dublin 4,q3,60%
+24/05/2017,"32 Shrewsbury Sq, Sandymount Ave, Sandymount Dublin 4",Dublin,755000.0,No,Sandymount,Dublin 4,q3,70%
+26/05/2017,"23 Park Court, Sandymount, Dublin 4",Dublin,435000.0,No,Sandymount,Dublin 4,q2,30%
+26/05/2017,"76 Park Avenue, Sandymount, Dublin 4",Dublin,3128000.0,No,Sandymount,Dublin 4,q4,100%
+26/05/2017,"St Josephs, 7 Park Lane, Sandymount Dublin 4",Dublin,770000.0,No,Sandymount,Dublin 4,q3,70%
+09/06/2017,"11 Merrion Strand, Strand Road, Sandymount",Dublin,482000.0,No,Sandymount,Dublin 4,q2,40%
+09/06/2017,"20 Seafort Ave, Sandymount, Dublin 4",Dublin,1030000.0,No,Sandymount,Dublin 4,q4,90%
+09/06/2017,"50 Sandymount Ave, Sandymount, Dublin 4",Dublin,1620000.0,No,Sandymount,Dublin 4,q4,100%
+09/06/2017,"Unit 1 38 Oaklands Park, Sandymount, Dublin 4",Dublin,780000.0,No,Sandymount,Dublin 4,q3,80%
+15/06/2017,"63 Tritonville Rd, Sandymount, Dublin",Dublin,1270000.0,No,Sandymount,Dublin 4,q4,100%
+16/06/2017,"21 Sandymount Rd, Dublin 4, Dublin",Dublin,1350000.0,No,Sandymount,Dublin 4,q4,100%
+16/06/2017,"77 Sandymount Rd, Sandymount, Dublin 4",Dublin,1000000.0,No,Sandymount,Dublin 4,q4,90%
+22/06/2017,"77 Strand Road, Sandymount",Dublin,975000.0,Yes,Sandymount,Dublin 4,q4,90%
+29/06/2017,"19 Gilford Ave, Sandymount, Dublin 4",Dublin,850000.0,No,Sandymount,Dublin 4,q4,80%
+29/06/2017,"66 Tritonville Rd, Sandymount, Dublin 4",Dublin,1610000.0,No,Sandymount,Dublin 4,q4,100%
+07/07/2017,"31 St Catherines Court, Newgrove Ave, Sandymount Dublin 4",Dublin,262500.0,No,Sandymount,Dublin 4,q1,10%
+07/07/2017,"58 Adair, Sandymount Ave, Dublin 4",Dublin,350000.0,No,Sandymount,Dublin 4,q1,20%
+11/07/2017,"10 Shaws Lane, Bath Ave, Sandymount",Dublin,236000.0,No,Sandymount,Dublin 4,q1,10%
+18/07/2017,"27 Londonbridge Rd, Sandymount, Dublin 4",Dublin,905000.0,No,Sandymount,Dublin 4,q4,80%
+27/07/2017,"15 Adelaide, Strand Road, Sandymount",Dublin,513000.0,No,Sandymount,Dublin 4,q2,50%
+31/07/2017,"1 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+31/07/2017,"14 Oswald Rd, Sandymount, Dublin 4",Dublin,630000.0,No,Sandymount,Dublin 4,q3,60%
+31/07/2017,"23 Claremont Park, Sandymount, Dublin 4",Dublin,1300000.0,No,Sandymount,Dublin 4,q4,100%
+31/07/2017,"3 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+31/07/2017,"54 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,690000.0,No,Sandymount,Dublin 4,q3,70%
+03/08/2017,"13 Havelock Sq, Bath Ave, Sandymount Dublin 4",Dublin,814000.0,No,Sandymount,Dublin 4,q3,80%
+03/08/2017,"16 Gilford Terrace, Sandymount, Dublin 4",Dublin,505000.0,No,Sandymount,Dublin 4,q2,50%
+04/08/2017,"6 Beach Ave, Sandymount, Dublin 4",Dublin,640000.0,No,Sandymount,Dublin 4,q3,60%
+09/08/2017,"24 Tritonville Court, Sandymount, Dublin 4",Dublin,395000.0,No,Sandymount,Dublin 4,q1,30%
+10/08/2017,"23 Havelock Sq, Bath Ave, Sandymount Dublin 4",Dublin,810000.0,No,Sandymount,Dublin 4,q3,80%
+10/08/2017,"29 Park Court, Park Avenue, Sandymount",Dublin,412000.0,No,Sandymount,Dublin 4,q1,30%
+18/08/2017,"16 Adelaide, Strand Rd, Sandymount",Dublin,60000.0,No,Sandymount,Dublin 4,q1,10%
+22/08/2017,"40 St Albans Park, Sandymount, Dublin 4",Dublin,1075000.0,No,Sandymount,Dublin 4,q4,90%
+25/08/2017,"13 Park Lane, Sandymount, Dublin 4",Dublin,825000.0,No,Sandymount,Dublin 4,q3,80%
+25/08/2017,"Holyrood Lodge, Holyrood Park, Sandymount Dublin 4",Dublin,370000.0,No,Sandymount,Dublin 4,q1,20%
+31/08/2017,"33 Park Court, Sandymount, Dublin 4",Dublin,477101.0,No,Sandymount,Dublin 4,q2,40%
+31/08/2017,"90 St Albans Park, Sandymount, Dublin 4",Dublin,635000.0,No,Sandymount,Dublin 4,q3,60%
+01/09/2017,"14 Gilford Ave, Sandymount, Dublin 4",Dublin,805000.0,No,Sandymount,Dublin 4,q3,80%
+13/09/2017,"32 Seafort Ave, Sandymount, Dublin 4",Dublin,900000.0,No,Sandymount,Dublin 4,q4,80%
+13/09/2017,"5 Glenesk Court, Farney Park, Sandymount Dublin 4",Dublin,360000.0,No,Sandymount,Dublin 4,q1,20%
+14/09/2017,"28 Marine Dr, Sandymount, Dublin 4",Dublin,960000.0,No,Sandymount,Dublin 4,q4,90%
+18/09/2017,"14 Oconnell Gardens, Bath Ave, Sandymount Dublin 4",Dublin,835000.0,No,Sandymount,Dublin 4,q4,80%
+21/09/2017,"79 Lansdowne Village, Sandymount, Dublin 4",Dublin,436100.0,No,Sandymount,Dublin 4,q2,30%
+22/09/2017,"3 Towerville St Johns Rd, Sandymount Dublin 4, Dublin",Dublin,295000.0,No,Sandymount,Dublin 4,q1,20%
+28/09/2017,"3 Gilford Court, Sandymount, Dublin 4",Dublin,350000.0,No,Sandymount,Dublin 4,q1,20%
+28/09/2017,"37 Merrion Strand, Sandymount, Dublin 4",Dublin,453000.0,No,Sandymount,Dublin 4,q2,40%
+02/10/2017,"33 Havelock Sq, Sandymount, Dublin 4",Dublin,800000.0,No,Sandymount,Dublin 4,q3,80%
+03/10/2017,"7 Shrewsbury Sq, Sandymount Ave, Dublin 4",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+10/10/2017,"13 Cranfield Place, Sandymount, Dublin 4",Dublin,595000.0,No,Sandymount,Dublin 4,q3,60%
+11/10/2017,"18 Sandymount Rd, Sandymount, Dublin",Dublin,1550000.0,No,Sandymount,Dublin 4,q4,100%
+12/10/2017,"4 Oaklands Park, Sandymount, Dublin 4",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+17/10/2017,"46 Willow Field, Park Ave, Sandymount Dublin 4",Dublin,500000.0,No,Sandymount,Dublin 4,q2,40%
+18/10/2017,"60A Oaklands Park, Sandymount, Dublin 4",Dublin,830000.0,No,Sandymount,Dublin 4,q3,80%
+19/10/2017,"2 Gilford Terrace, Sandymount, Dublin 4",Dublin,465000.0,No,Sandymount,Dublin 4,q2,40%
+19/10/2017,"40 Ailesbury Mews, Sandymount, Dublin 4",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+23/10/2017,"73 Tritonville Rd, Sandymount, Dublin 4",Dublin,985000.0,No,Sandymount,Dublin 4,q4,90%
+27/10/2017,"15 Sandymount Ave, Dublin 4, Dublin",Dublin,2000000.0,No,Sandymount,Dublin 4,q4,100%
+27/10/2017,"41 Park Court, Park Avenue, Sandymount",Dublin,410000.0,No,Sandymount,Dublin 4,q1,30%
+31/10/2017,"30 Park Lane, Sandymount, Dublin City",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+06/11/2017,"1 Sandymount Court, Sandymount, Dublin 4",Dublin,650000.0,No,Sandymount,Dublin 4,q3,60%
+15/11/2017,"26 Gilford Park, Sandymount, Dublin 4",Dublin,1260000.0,No,Sandymount,Dublin 4,q4,100%
+22/11/2017,"61 Willow Field, Park Ave, Sandymount Dublin 4",Dublin,397000.0,No,Sandymount,Dublin 4,q1,30%
+23/11/2017,"33 Willowfield Park Ave, Sandymount, Dublin 4",Dublin,350000.0,No,Sandymount,Dublin 4,q1,20%
+30/11/2017,"16 Gilford Pines, Sandymount, Dublin 4",Dublin,432000.0,No,Sandymount,Dublin 4,q2,30%
+04/12/2017,"19 Herbert Rd, Sandymount, Dublin 4",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+12/12/2017,"15 Gilford Pines, Gilford Rd, Sandymount",Dublin,458000.0,No,Sandymount,Dublin 4,q2,40%
+14/12/2017,"38 Willow Field, Park Ave, Sandymount Dublin 4",Dublin,637555.0,No,Sandymount,Dublin 4,q3,60%
+14/12/2017,"79 Bath Ave, Sandymount, Dublin 4",Dublin,875000.0,No,Sandymount,Dublin 4,q4,80%
+15/12/2017,"4 Seamount House, St Johns Rd, Sandymount Dublin 4",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+19/12/2017,"69 Park Ave, Sandymount, Dublin 4",Dublin,3750000.0,No,Sandymount,Dublin 4,q4,100%
+21/12/2017,"14 Farney Park, Sandymount, Dublin 4",Dublin,970000.0,No,Sandymount,Dublin 4,q4,90%
+21/12/2017,"36 Cranfield Place, Sandymount, Dublin 4",Dublin,515000.0,No,Sandymount,Dublin 4,q2,50%
+05/01/2018,"26 Derrynane Gardens, Bath Ave, Sandymount",Dublin,580000.0,No,Sandymount,Dublin 4,q3,60%
+10/01/2018,"31 Ailesbury Mews, Ailesbury Gardens, Sandymount Dublin 4",Dublin,250000.0,No,Sandymount,Dublin 4,q1,10%
+11/01/2018,"3A Derrynane Gardens, Sandymount, Dublin 4",Dublin,665000.0,No,Sandymount,Dublin 4,q3,70%
+11/01/2018,"63 St Albans Park, Sandymount, Dublin 4",Dublin,725250.0,No,Sandymount,Dublin 4,q3,70%
+15/01/2018,"38 St Johns, Park Ave, Sandymount Dublin 4",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+16/01/2018,"21 Newbridge Ave, Sandymount, Dublin 4",Dublin,950000.0,No,Sandymount,Dublin 4,q4,90%
+19/01/2018,"28 Beach Rd, Sandymount, Dublin 4",Dublin,1110000.0,No,Sandymount,Dublin 4,q4,90%
+25/01/2018,"21 Wilfield Park, Sandymount, Dublin",Dublin,1580000.0,No,Sandymount,Dublin 4,q4,100%
+26/01/2018,"Castleton, Sandymount Green, Dublin 4",Dublin,2375000.0,No,Sandymount,Dublin 4,q4,100%
+31/01/2018,"21 Tritonville Court, Sandymount, Dublin 4",Dublin,805000.0,No,Sandymount,Dublin 4,q3,80%
+05/02/2018,"14D Sandymount Green, Sandymount, Dublin 4",Dublin,900000.0,No,Sandymount,Dublin 4,q4,80%
+06/02/2018,"15 St Albans Park, Sandymount, Dublin",Dublin,1300000.0,No,Sandymount,Dublin 4,q4,100%
+06/02/2018,"79 Strand Road, Sandymount, Dublin 4",Dublin,1275000.0,No,Sandymount,Dublin 4,q4,100%
+10/02/2018,"126 Tritonville Rd, Sandymount, Dublin 4",Dublin,1420000.0,No,Sandymount,Dublin 4,q4,100%
+14/02/2018,"Apt 1 Muirduna, Seafort Avenue, Sandymount",Dublin,170000.0,No,Sandymount,Dublin 4,q1,10%
+21/02/2018,"11 Newgrove Ave, Sandymount, Dublin 4",Dublin,825000.0,No,Sandymount,Dublin 4,q3,80%
+22/02/2018,"47 Oconnell Gardens, Sandymount, Dublin 4",Dublin,615000.0,No,Sandymount,Dublin 4,q3,60%
+07/03/2018,"9 Adelaide, Strand Rd, Sandymount Dublin 4",Dublin,515000.0,No,Sandymount,Dublin 4,q2,50%
+08/03/2018,"17 Newbridge Ave, Sandymount, Dublin 4",Dublin,1325000.0,No,Sandymount,Dublin 4,q4,100%
+16/03/2018,"112 Time Place, Corrig Road, Sandymount",Dublin,265000.0,No,Sandymount,Dublin 4,q1,10%
+16/03/2018,"412 Time Place, 21 Corrig Rd, Sandymount Dublin 18",Dublin,270000.0,No,Sandymount,Dublin 4,q1,10%
+16/03/2018,"71 Strand Rd, Sandymount, Dublin 4",Dublin,952500.0,No,Sandymount,Dublin 4,q4,90%
+22/03/2018,"14 St Catherines Court, Newgrove Ave, Sandymount Dublin 4",Dublin,600000.0,No,Sandymount,Dublin 4,q3,60%
+23/03/2018,"3 St Albans Park, Sandymount, Dublin 4",Dublin,1600000.0,No,Sandymount,Dublin 4,q4,100%
+29/03/2018,"4 Tritonville Ave, Sandymount, Dublin 4",Dublin,675000.0,No,Sandymount,Dublin 4,q3,70%
+29/03/2018,"5 Londonbridge Rd, Sandymount, Dublin 4",Dublin,937500.0,No,Sandymount,Dublin 4,q4,90%
+04/04/2018,"27 St Johns, Park Ave, Sandymount Dublin 4",Dublin,635000.0,No,Sandymount,Dublin 4,q3,60%
+05/04/2018,"8 Bath Ave Place, Sandymount, Dublin 4",Dublin,695000.0,No,Sandymount,Dublin 4,q3,70%
+10/04/2018,"11 Park Ave, Sandymount, Dublin 4",Dublin,4100000.0,No,Sandymount,Dublin 4,q4,100%
+18/04/2018,"59 Bath Ave, Sandymount, Dublin 4",Dublin,800000.0,No,Sandymount,Dublin 4,q3,80%
+24/04/2018,"14 Newbridge Ave, Sandymount, Dublin 4",Dublin,1075000.0,No,Sandymount,Dublin 4,q4,90%
+27/04/2018,"81 Park Ave, Sandymount, Dublin 4",Dublin,4500000.0,No,Sandymount,Dublin 4,q4,100%
+08/05/2018,"1 Ennis Grove Londonbridge Rd, Sandymount, Dublin",Dublin,580000.0,No,Sandymount,Dublin 4,q3,60%
+11/05/2018,"68 Adair, Sandymount Ave, Sandymount Dublin 4",Dublin,340000.0,No,Sandymount,Dublin 4,q1,20%
+15/05/2018,"7 Dromard Terrace, Sandymount, Dublin 4",Dublin,515000.0,No,Sandymount,Dublin 4,q2,50%
+16/05/2018,"22 Wilfield Rd, Sandymount, Dublin 4",Dublin,990803.0,No,Sandymount,Dublin 4,q4,90%
+16/05/2018,"22 Wilfield Rd, Sandymount, Dublin 4",Dublin,30000.0,No,Sandymount,Dublin 4,q1,10%
+16/05/2018,"27 Havelock Sq, Bath Ave, Sandymount Dublin 4",Dublin,635000.0,No,Sandymount,Dublin 4,q3,60%
+21/05/2018,"10 Adair, Sandymount Ave, Dublin 4",Dublin,400000.0,No,Sandymount,Dublin 4,q1,30%
+21/05/2018,"7 Shrewsbury Sq, Sandymount Ave, Dublin 4",Dublin,765000.0,No,Sandymount,Dublin 4,q3,70%
+22/05/2018,"2 Lea Crescent, Sandymount, Dublin 4",Dublin,730000.0,No,Sandymount,Dublin 4,q3,70%
+08/06/2018,"29 Tritonville Rd, Sandymount Dublin 4, Dublin",Dublin,1380000.0,No,Sandymount,Dublin 4,q4,100%
+14/06/2018,"6 Seafort Ave, Sandymount, Dublin 4",Dublin,301000.0,No,Sandymount,Dublin 4,q1,20%
+18/06/2018,"44 Seabury, Sydney Parade Ave, Sandymount Dublin 4",Dublin,516251.0,No,Sandymount,Dublin 4,q2,50%
+18/06/2018,"79 Tritonville Rd, Sandymount, Dublin 4",Dublin,1400000.0,No,Sandymount,Dublin 4,q4,100%
+20/06/2018,"Carlisle Cottage, 63 Sandymount Ave, Dublin 4",Dublin,940000.0,No,Sandymount,Dublin 4,q4,90%
+21/06/2018,"11 Newgrove Ave, Sandymount, Dublin 4",Dublin,620000.0,No,Sandymount,Dublin 4,q3,60%
+28/06/2018,"42 Seafort Ave, Sandymount, Dublin 4",Dublin,1275000.0,No,Sandymount,Dublin 4,q4,100%
+28/06/2018,"45 Merrion Strand, Sandymount, Dublin 4",Dublin,480000.0,No,Sandymount,Dublin 4,q2,40%
+02/07/2018,"55 Bath Ave, Sandymount, Dublin 4",Dublin,1475000.0,No,Sandymount,Dublin 4,q4,100%
+04/07/2018,"79 Sydney Parade Ave, Sandymount, Dublin 4",Dublin,1150000.0,No,Sandymount,Dublin 4,q4,90%
+06/07/2018,"4 Cranfield Place, Sandymount, Dublin",Dublin,662600.0,No,Sandymount,Dublin 4,q3,70%
+06/07/2018,"6 Sandymount Court, Sandymount, Dublin 4",Dublin,510000.0,No,Sandymount,Dublin 4,q2,50%
+13/07/2018,"71 Merrion Strand, Strand Rd, Sandymount",Dublin,848000.0,No,Sandymount,Dublin 4,q4,80%
+20/07/2018,"6A Derrynane Gardens, Sandymount",Dublin,940000.0,Yes,Sandymount,Dublin 4,q4,90%
+26/07/2018,"13 Beach Ave, Sandymount, Dublin",Dublin,823165.0,No,Sandymount,Dublin 4,q3,80%
+26/07/2018,"Herbert Lodge, 53 Sydney Parade Ave, Sandymount Dublin 4",Dublin,2625000.0,No,Sandymount,Dublin 4,q4,100%
+30/07/2018,"89 Sandymount Ave, Dublin 4, Dublin",Dublin,1210000.0,No,Sandymount,Dublin 4,q4,100%
+01/08/2018,"72 Tritonville Road, Sandymount, Dublin 4",Dublin,1260000.0,No,Sandymount,Dublin 4,q4,100%
+02/08/2018,"3 Herbert Green, Sandymount, Dublin 4",Dublin,695000.0,No,Sandymount,Dublin 4,q3,70%
+02/08/2018,"36 Oaklands Park, Sandymount, Dublin",Dublin,1635000.0,No,Sandymount,Dublin 4,q4,100%
+08/08/2018,"31 Ailesbury Mews, Ailesbury Gardens, Sandymount Dublin 4",Dublin,429000.0,No,Sandymount,Dublin 4,q2,30%
+10/08/2018,"The Mews, 20A Sandymount Avenue, Dublin 4",Dublin,580000.0,No,Sandymount,Dublin 4,q3,60%
+13/08/2018,"19 Havelock Square, Sandymount, Dublin 4",Dublin,665000.0,No,Sandymount,Dublin 4,q3,70%
+17/08/2018,"9 Gilford Rd, Sandymount, Dublin 4",Dublin,1400000.0,No,Sandymount,Dublin 4,q4,100%
+22/08/2018,"14 Beach Dr, Sandymount, Dublin 4",Dublin,625000.0,No,Sandymount,Dublin 4,q3,60%
+22/08/2018,"4 Serpentine Rd, Sandymount, Dublin 4",Dublin,1265000.0,No,Sandymount,Dublin 4,q4,100%
+23/08/2018,"108 St Philomenas Terrace, Stella Gardens, Sandymount Dublin 4",Dublin,420000.0,No,Sandymount,Dublin 4,q2,30%
+23/08/2018,"27 Newbridge Ave, Sandymount, Dublin 4",Dublin,1030000.0,No,Sandymount,Dublin 4,q4,90%
+24/08/2018,"26 Seafort Villas, Sandymount, Dublin 4",Dublin,487000.0,No,Sandymount,Dublin 4,q2,40%
+27/08/2018,"20 Derrynane Gardens, Bath Ave, Sandymount Dublin 4",Dublin,575000.0,No,Sandymount,Dublin 4,q2,50%
+28/08/2018,"8 Beach Dr, Sandymount, Dublin 4",Dublin,700000.0,No,Sandymount,Dublin 4,q3,70%
+30/08/2018,"13 Tower Court, St Johns Rd, Sandymount",Dublin,330000.0,No,Sandymount,Dublin 4,q1,20%
+06/09/2018,"26 Gilford Ave, Sandymount, Dublin 4",Dublin,910000.0,No,Sandymount,Dublin 4,q4,80%
+07/09/2018,"21 Vavasour Sq, Sandymount, Dublin 4",Dublin,915000.0,No,Sandymount,Dublin 4,q4,80%
+07/09/2018,"22 Havelock Sq, Bath Ave, Sandymount Dublin 4",Dublin,632000.0,No,Sandymount,Dublin 4,q3,60%
+11/09/2018,"28 Havelock Sq, Sandymount, Dublin 4",Dublin,900000.0,No,Sandymount,Dublin 4,q4,80%
+13/09/2018,"5 St Johns Court, Sandymount, Dublin 4",Dublin,435000.0,No,Sandymount,Dublin 4,q2,30%
+14/09/2018,"2 Gilford Pines, Gilford Rd, Sandymount Dublin 4",Dublin,360000.0,No,Sandymount,Dublin 4,q1,20%
+18/09/2018,"12 Vavasour Sq, Sandymount, Dublin 4",Dublin,1050000.0,No,Sandymount,Dublin 4,q4,90%
+18/09/2018,"41 St Johns Rd, Sandymount, Dublin 4",Dublin,1130000.0,No,Sandymount,Dublin 4,q4,90%
+19/09/2018,"4 Seafort Gardens, Sandymount, Dublin 4",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+19/09/2018,"64 St Johns, Park Ave, Sandymount",Dublin,625000.0,No,Sandymount,Dublin 4,q3,60%
+21/09/2018,"7 Newbridge Ave, Sandymount, Dublin 4",Dublin,1545000.0,No,Sandymount,Dublin 4,q4,100%
+25/09/2018,"59 Park Ave, Sandymount, Dublin 4",Dublin,2375000.0,No,Sandymount,Dublin 4,q4,100%
+01/10/2018,"11 Sandymount Court, Sandymount, Dublin 4",Dublin,695000.0,No,Sandymount,Dublin 4,q3,70%
+01/10/2018,"38 Adelaide, Strand Rd, Sandymount",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+02/10/2018,"10 Wilfield Park, Sandymount, Dublin 4",Dublin,1850000.0,No,Sandymount,Dublin 4,q4,100%
+04/10/2018,"29 Seabury, Sydney Parade Ave, Sandymount Dublin 4",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+09/10/2018,"19 St Johns, Park Ave, Sandymount Dublin 4",Dublin,771000.0,No,Sandymount,Dublin 4,q3,70%
+10/10/2018,"102 Wilfield Rd, Sandymount Ave, Dublin 4",Dublin,930000.0,No,Sandymount,Dublin 4,q4,90%
+12/10/2018,"10 Gilford Court, Sandymount, Dublin 4",Dublin,795000.0,No,Sandymount,Dublin 4,q3,80%
+12/10/2018,"29 Park Ave, Sandymount, Dublin 4",Dublin,3250000.0,No,Sandymount,Dublin 4,q4,100%
+17/10/2018,"44 Windermere, Gilford Rd, Sandymount Dublin 4",Dublin,337000.0,No,Sandymount,Dublin 4,q1,20%
+18/10/2018,"19 Willow Field, Park Ave, Sandymount Dublin 4",Dublin,310000.0,No,Sandymount,Dublin 4,q1,20%
+25/10/2018,"1 Beach Ave, Sandymount, Dublin 4",Dublin,695000.0,No,Sandymount,Dublin 4,q3,70%
+25/10/2018,"Apt 35, Shrewsbury Sq, Sandymount Ave Dublin 4",Dublin,800000.0,No,Sandymount,Dublin 4,q3,80%
+26/10/2018,"8 Sandymount Castle Dr, Dublin 4, Dublin",Dublin,940000.0,No,Sandymount,Dublin 4,q4,90%
+31/10/2018,"1 And 1A Castlepark, Sandymount, Dublin 4",Dublin,150000.0,No,Sandymount,Dublin 4,q1,10%
+02/11/2018,"12 Merrion Strand, Sandymount, Dublin 4",Dublin,495000.0,No,Sandymount,Dublin 4,q2,40%
+02/11/2018,"61 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,625000.0,No,Sandymount,Dublin 4,q3,60%
+02/11/2018,"70 Oconnell Gardens, Sandymount, Dublin 4",Dublin,590000.0,No,Sandymount,Dublin 4,q3,60%
+05/11/2018,"10 Sandymount Green, Sandymount, Dublin 4",Dublin,995000.0,No,Sandymount,Dublin 4,q4,90%
+07/11/2018,"1 Derrynane Gardens, Sandymount, Dublin 4",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+07/11/2018,"8 Martello Wood, Strand Rd, Sandymount Dublin 4",Dublin,395000.0,No,Sandymount,Dublin 4,q1,30%
+13/11/2018,"22 Seafort Gardens, Sandymount, Dublin 4",Dublin,690000.0,No,Sandymount,Dublin 4,q3,70%
+14/11/2018,"5 St Johns, Park Ave, Sandymount Dublin 4",Dublin,733000.0,No,Sandymount,Dublin 4,q3,70%
+14/11/2018,"8 Newgrove Ave, Sandymount, Dublin 4",Dublin,1100000.0,No,Sandymount,Dublin 4,q4,90%
+20/11/2018,"16 Newgrove Avenue, Sandymount, Dublin 4",Dublin,680000.0,No,Sandymount,Dublin 4,q3,70%
+30/11/2018,"1 Sandymount Castle Park, Sandymount, Dublin 4",Dublin,1629955.0,Yes,Sandymount,Dublin 4,q4,100%
+30/11/2018,"19 Ailesbury Mews, Ailesbury Gardens, Sandymount",Dublin,442000.0,No,Sandymount,Dublin 4,q2,40%
+03/12/2018,"16 Claremont Park, Sandymount, Dublin 4",Dublin,1146750.0,No,Sandymount,Dublin 4,q4,90%
+06/12/2018,"36 Willow Field, Park Ave, Sandymount Dublin 4",Dublin,388000.0,No,Sandymount,Dublin 4,q1,30%
+10/12/2018,"20 Durham Rd, Sandymount, Dublin 4",Dublin,1050000.0,No,Sandymount,Dublin 4,q4,90%
+13/12/2018,"2 Seafort Villas, Sandymount, Dublin 4",Dublin,480000.0,No,Sandymount,Dublin 4,q2,40%
+13/12/2018,"62 Adair, Sandymount, Dublin 4",Dublin,390000.0,No,Sandymount,Dublin 4,q1,30%
+17/12/2018,"25 Gilford Pines, Gilford Rd, Sandymount Dublin 4",Dublin,465000.0,No,Sandymount,Dublin 4,q2,40%
+17/12/2018,"31 Derrynane Gardens, Sandymount, Dublin 4",Dublin,625000.0,No,Sandymount,Dublin 4,q3,60%
+19/12/2018,"1 Gilford Court, Sandymount, Dublin 4",Dublin,680000.0,No,Sandymount,Dublin 4,q3,70%
+19/12/2018,"7 Sandymount, Castle Rd Dublin 4, Dublin",Dublin,910000.0,No,Sandymount,Dublin 4,q4,80%
+20/12/2018,"32 Gilford Park, Sandymount, Dublin 4",Dublin,1250000.0,No,Sandymount,Dublin 4,q4,100%
+20/12/2018,"46 Park Court, Sandymount, Dublin 4",Dublin,505000.0,No,Sandymount,Dublin 4,q2,50%
+20/12/2018,"5 Dromard Ave, Sandymount, Dublin 4",Dublin,722670.0,No,Sandymount,Dublin 4,q3,70%
+21/12/2018,"19 Sandymount Rd, Dublin 4, Dublin",Dublin,1230000.0,No,Sandymount,Dublin 4,q4,100%
+16/01/2019,"29 Park Court, Park Avenue, Sandymount",Dublin,443000.0,No,Sandymount,Dublin 4,q2,40%
+17/01/2019,"7 Petty Lane, Sandymount, Dublin 4",Dublin,1079295.0,Yes,Sandymount,Dublin 4,q4,90%
+22/01/2019,"78 Park Ave, Sandymount, Dublin 4",Dublin,2900000.0,No,Sandymount,Dublin 4,q4,100%
+23/01/2019,"6 Gilford Court, Sandymount, Dublin 4",Dublin,475000.0,No,Sandymount,Dublin 4,q2,40%
+25/01/2019,"16 St Johns, Park Ave, Sandymount",Dublin,730000.0,No,Sandymount,Dublin 4,q3,70%
+25/01/2019,"26 Seafort Ave, Sandymount, Dublin 4",Dublin,763500.0,No,Sandymount,Dublin 4,q3,70%
+05/02/2019,"13 Oconnell Gardens, Sandymount, Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+05/02/2019,"28 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,645000.0,No,Sandymount,Dublin 4,q3,60%
+06/02/2019,"20 St Cathryns Court, Newgrove Ave, Sandymount Dublin 4",Dublin,580000.0,No,Sandymount,Dublin 4,q3,60%
+06/02/2019,"9 Park Court, Sandymount, Dublin 4",Dublin,440000.0,No,Sandymount,Dublin 4,q2,30%
+07/02/2019,"146 Tritonville Rd, Sandymount, Dublin 4",Dublin,12500.0,No,Sandymount,Dublin 4,q1,10%
+12/02/2019,"16D Park Lane, Sandymount, Dublin 4",Dublin,870000.0,No,Sandymount,Dublin 4,q4,80%
+18/02/2019,"3 Glenwaverly, Park Ave, Sandymount Dublin 4",Dublin,340000.0,No,Sandymount,Dublin 4,q1,20%
+20/02/2019,"66 Adair Apts, Sandymount Ave, Dublin 4",Dublin,385000.0,No,Sandymount,Dublin 4,q1,30%
+21/02/2019,"30 Claremont Park, Sandymount, Dublin 4",Dublin,1100000.0,No,Sandymount,Dublin 4,q4,90%
+27/02/2019,"16 Sandymount Castle Park, Sandymount, Dublin 4",Dublin,950000.0,No,Sandymount,Dublin 4,q4,90%
+28/02/2019,"15 Gilford Ave, Sandymount, Dublin 4",Dublin,850000.0,No,Sandymount,Dublin 4,q4,80%
+05/03/2019,"12 Oconnell Gardens, Sandymount, Dublin 4",Dublin,575000.0,No,Sandymount,Dublin 4,q2,50%
+14/03/2019,"Apt 8 S T John'S Wood, St John'S Road, Sandymount",Dublin,392000.0,No,Sandymount,Dublin 4,q1,30%
+22/03/2019,"Mallard Lodge, Lansdowne Village, Sandymount",Dublin,998000.0,No,Sandymount,Dublin 4,q4,90%
+28/03/2019,"5 Glenwaverly Court, Park Ave, Sandymount Dublin 4",Dublin,342500.0,No,Sandymount,Dublin 4,q1,20%
+29/03/2019,"31 Park Ave, Sandymount, Dublin 4",Dublin,2700000.0,No,Sandymount,Dublin 4,q4,100%
+01/04/2019,"25 Radcliffe Hall, St Johns Rd, Sandymount Dublin 4",Dublin,628000.0,No,Sandymount,Dublin 4,q3,60%
+05/04/2019,"71 Sandymount Rd, Sandymount, Dublin 4",Dublin,850000.0,No,Sandymount,Dublin 4,q4,80%
+09/04/2019,"41 Londonbridge Rd, Sandymount, Dublin 4",Dublin,635000.0,No,Sandymount,Dublin 4,q3,60%
+10/04/2019,"28 Londonbridge Rd, Sandymount, Dublin 4",Dublin,685000.0,No,Sandymount,Dublin 4,q3,70%
+10/04/2019,"Roslyn, Durham Rd, Sandymount Dublin 4",Dublin,120000.0,No,Sandymount,Dublin 4,q1,10%
+11/04/2019,"Flat 1-12  41A Stanfield House, Strand Rd, Sandymount Dublin 4",Dublin,2080000.0,No,Sandymount,Dublin 4,q4,100%
+12/04/2019,"43 Wilfield Rd, Sandymount, Dublin 4",Dublin,505000.0,No,Sandymount,Dublin 4,q2,50%
+15/04/2019,"33 Seabury, Sydney Parade Ave, Sandymount Dublin 4",Dublin,485000.0,No,Sandymount,Dublin 4,q2,40%
+16/04/2019,"96 Tritonville Rd, Sandymount, Dublin 4",Dublin,1300000.0,No,Sandymount,Dublin 4,q4,100%
+17/04/2019,"17 Cranfield Place, Sandymount, Dublin 4",Dublin,735000.0,No,Sandymount,Dublin 4,q3,70%
+17/04/2019,"64 St Alban'S Park, Sandymount, Dublin 4",Dublin,1030000.0,No,Sandymount,Dublin 4,q4,90%
+25/04/2019,"7 Ailesbury Mews, Ailesbury Road, Sandymount",Dublin,425000.0,No,Sandymount,Dublin 4,q2,30%
+26/04/2019,"8 Gilford Ave, Sandymount, Dublin 4",Dublin,827770.0,No,Sandymount,Dublin 4,q3,80%
+29/04/2019,"The Grey Gables, 34A Gilford Road, Sandymount",Dublin,5425000.0,No,Sandymount,Dublin 4,q4,100%
+02/05/2019,"Apt 51, Adair, Sandymount Ave Dublin 4",Dublin,401000.0,No,Sandymount,Dublin 4,q1,30%
+15/05/2019,"55 Radcliff Hall, St Johns Road, Sandymount",Dublin,890000.0,No,Sandymount,Dublin 4,q4,80%
+17/05/2019,"26 Claremont Rd, Sandymount, Dublin 4",Dublin,2420000.0,No,Sandymount,Dublin 4,q4,100%
+21/05/2019,"2 Tritonville Rd, Sandymount, Dublin 4",Dublin,840000.0,No,Sandymount,Dublin 4,q4,80%
+21/05/2019,"8 Dromard Terrace, Sandymount, Dublin 4",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+30/05/2019,"Nutgrove House, Gilford Rd, Sandymount Dublin 4",Dublin,400000.0,No,Sandymount,Dublin 4,q1,30%
+31/05/2019,"18A Gilford Dr, Sandymount, Dublin 4",Dublin,850000.0,No,Sandymount,Dublin 4,q4,80%
+31/05/2019,"76 Derrynane Gardens, Bath Ave, Sandymount Dublin 4",Dublin,450000.0,No,Sandymount,Dublin 4,q2,40%
+31/05/2019,"Apt 24, Radcliffe Hall, Sandymount",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+04/06/2019,"35 Willowfield, Park Avenue, Sandymount",Dublin,440087.0,No,Sandymount,Dublin 4,q2,30%
+07/06/2019,"46 Seafort Ave, Sandymount, Dublin 4",Dublin,790000.0,No,Sandymount,Dublin 4,q3,80%
+07/06/2019,"56 Claremont Rd, Sandymount, Dublin",Dublin,1000000.0,No,Sandymount,Dublin 4,q4,90%
+20/06/2019,"6 Gilford Ave, Sandymount, Dublin 4",Dublin,846355.0,No,Sandymount,Dublin 4,q4,80%
+24/06/2019,"14 Kirkwood, Park Ave, Sandymount Dublin 4",Dublin,375000.0,No,Sandymount,Dublin 4,q1,30%
+25/06/2019,"18 Claremont Rd, Sandymount, Dublin 4",Dublin,672000.0,No,Sandymount,Dublin 4,q3,70%
+26/06/2019,"24 Lea Rd, Sandymount, Dublin 4",Dublin,952505.0,No,Sandymount,Dublin 4,q4,90%
+28/06/2019,"35 Wilfield Road, Sandymount, Dublin 4",Dublin,742000.0,No,Sandymount,Dublin 4,q3,70%
+01/07/2019,"28 Merrion Strand, Strand Rd, Sandymount Dublin 4",Dublin,785000.0,No,Sandymount,Dublin 4,q3,80%
+01/07/2019,"6 Seafort Terrace, Seafort Ave, Sandymount Dublin 4",Dublin,940000.0,No,Sandymount,Dublin 4,q4,90%
+02/07/2019,"11 Strand Road, Sandymount, Dublin 4",Dublin,1522500.0,No,Sandymount,Dublin 4,q4,100%
+03/07/2019,"10 Gilford Pines, Gilford Rd, Sandymount Dublin 4",Dublin,340000.0,No,Sandymount,Dublin 4,q1,20%
+04/07/2019,"5 Seafort Villas, Sandymount, Dublin 4",Dublin,511000.0,No,Sandymount,Dublin 4,q2,50%
+09/07/2019,"27 Claremont Park, Sandymount, Dublin 4",Dublin,1200000.0,No,Sandymount,Dublin 4,q4,100%
+23/07/2019,"St Johns Hall Salle Darmes, St Johns Rd, Sandymount Dublin 4",Dublin,2520000.0,No,Sandymount,Dublin 4,q4,100%
+26/07/2019,"17 Farney Park, Sandymount, Dublin 4",Dublin,966000.0,No,Sandymount,Dublin 4,q4,90%
+31/07/2019,"27 Adelaide, Strand Rd, Sandymount",Dublin,530000.0,No,Sandymount,Dublin 4,q2,50%
+31/07/2019,"61 Sandymount Ave, Sandymount, Dublin 4",Dublin,1290000.0,No,Sandymount,Dublin 4,q4,100%
+09/08/2019,"31 Radcliff Hall, St Johns Road, Sandymount",Dublin,535000.0,No,Sandymount,Dublin 4,q2,50%
+09/08/2019,"68 Radcliff Hall, St Johns Road, Sandymount",Dublin,500000.0,No,Sandymount,Dublin 4,q2,40%
+09/08/2019,"69 Radcliff Hall, St Johns Road, Sandymount",Dublin,490000.0,No,Sandymount,Dublin 4,q2,40%
+09/08/2019,"7 Radcliff Hall, St Johns Road, Sandymount",Dublin,500000.0,No,Sandymount,Dublin 4,q2,40%
+09/08/2019,"70 Radcliff Hall, St Johns Road, Sandymount",Dublin,500000.0,No,Sandymount,Dublin 4,q2,40%
+09/08/2019,"71 Radcliff Hall, St Johns Road, Sandymount",Dublin,175000.0,No,Sandymount,Dublin 4,q1,10%
+15/08/2019,"14 Wilfield Rd, Sandymount, Dublin 4",Dublin,1055000.0,No,Sandymount,Dublin 4,q4,90%
+20/08/2019,"90 Tritonville Road, Sandymount, Dublin 4",Dublin,1275000.0,No,Sandymount,Dublin 4,q4,100%
+30/08/2019,"19 Park Lane, Sandymount, Dublin 4",Dublin,750000.0,No,Sandymount,Dublin 4,q3,70%
+02/09/2019,"19 St Alban'S Park, Sandymount, Dublin 4",Dublin,1400000.0,No,Sandymount,Dublin 4,q4,100%
+04/09/2019,"4 Sandymount Castle Park, Sandymount, Dublin 4",Dublin,1000000.0,No,Sandymount,Dublin 4,q4,90%
+09/09/2019,"31 St Johns, Park Ave, Sandymount Dublin 4",Dublin,642246.0,No,Sandymount,Dublin 4,q3,60%
+10/09/2019,"54 Strand Rd, Sandymount, Dublin 4",Dublin,1275000.0,No,Sandymount,Dublin 4,q4,100%
+13/09/2019,"13 Lansdowne Village, Sandymount, Dublin 4",Dublin,550000.0,No,Sandymount,Dublin 4,q2,50%
+16/09/2019,"71D Sandymount Rd, Sandymount, Dublin 4",Dublin,1062500.0,No,Sandymount,Dublin 4,q4,90%
+20/09/2019,"69 Sydney Parade Ave, Sandymount, Dublin 4",Dublin,1560000.0,No,Sandymount,Dublin 4,q4,100%
+26/09/2019,"39 Adelaide, Strand Rd, Sandymount",Dublin,500000.0,No,Sandymount,Dublin 4,q2,50%
+26/09/2019,"Apt 2, 113 Strand Rd, Sandymount Dublin 4",Dublin,323000.0,No,Sandymount,Dublin 4,q1,20%
+30/09/2019,"22 Windermere, Gilford Rd, Sandymount Dublin 4",Dublin,320000.0,No,Sandymount,Dublin 4,q1,20%
+30/09/2019,"68 O Connell Gardens, Sandymount, Dublin 4",Dublin,570000.0,No,Sandymount,Dublin 4,q2,50%
+03/10/2019,"16 Merrion Strand, Sandymount, Dublin 4",Dublin,638000.0,No,Sandymount,Dublin 4,q3,60%
+04/10/2019,"Apt 1, 48 Tritonville Road, Sandymount",Dublin,865000.0,No,Sandymount,Dublin 4,q4,80%
+24/10/2019,"35 St Johns, Park Ave, Sandymount",Dublin,677500.0,No,Sandymount,Dublin 4,q3,70%

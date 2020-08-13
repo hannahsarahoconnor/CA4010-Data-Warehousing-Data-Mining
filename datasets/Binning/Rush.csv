@@ -1,0 +1,802 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+20/01/2010,"32 Golden Ridge Lodge, Skerries Road, Rush",Dublin,223099.17,Yes,Rush,Co. Dublin,q2,40%
+22/01/2010,"75 Kenure Park, Rush, Dublin",Dublin,270000.0,No,Rush,Co. Dublin,q3,70%
+22/01/2010,"Ailesbury House, North Beach, Rush",Dublin,625000.0,No,Rush,Co. Dublin,q4,100%
+28/01/2010,"16 Golden Ridge Avenue, Skerries Road, Rush",Dublin,143691.0,Yes,Rush,Co. Dublin,q1,10%
+02/02/2010,"1 Seabrook, Brook Lane, Rush",Dublin,325991.18,Yes,Rush,Co. Dublin,q4,80%
+15/02/2010,"3 Hoskyn Bank, Bawn Road, Rush",Dublin,449559.0,Yes,Rush,Co. Dublin,q4,100%
+17/02/2010,"195 Rusheeny Village, Clonsilla",Dublin,205000.0,No,Rush,Co. Dublin,q2,30%
+09/03/2010,"Auburn, South Shore Road, Rush",Dublin,475000.0,No,Rush,Co. Dublin,q4,100%
+12/03/2010,"Dewsbury Hose, Kilbush Lane, Rush",Dublin,283000.0,No,Rush,Co. Dublin,q3,70%
+13/03/2010,"57  Ravenswell, Palmer Road, Rush",Dublin,273000.0,No,Rush,Co. Dublin,q3,70%
+15/03/2010,"154 Rusheeny Grove, Rusheeny Village, Clonsilla",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+09/04/2010,"95 Rusheeny Avenue, Rusheeny Village, Clonsilla",Dublin,215000.0,No,Rush,Co. Dublin,q2,40%
+14/04/2010,"St. Anne'S, Channel Road, Rush",Dublin,560000.0,No,Rush,Co. Dublin,q4,100%
+22/04/2010,"9 Golden Ridge Avenue, Skerries Road, Rush",Dublin,291000.0,Yes,Rush,Co. Dublin,q3,70%
+12/05/2010,"173 Rusheeny Close, Clonsilla",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+20/05/2010,"15 Rushbrook Ave., Templeogue, Dublin 6W",Dublin,350000.0,No,Rush,Co. Dublin,q4,90%
+21/05/2010,"Sundrive Road, Rush",Dublin,540000.0,No,Rush,Co. Dublin,q4,100%
+22/05/2010,"24 Plamer Avenue, Rush, County Dublin",Dublin,305000.0,Yes,Rush,Co. Dublin,q4,80%
+28/05/2010,"16 Palmer Avenue, Rush, County Dublin",Dublin,289000.0,Yes,Rush,Co. Dublin,q3,70%
+02/06/2010,"2  An Tigin, Hayestown, Rush  County Dublin",Dublin,350000.0,Yes,Rush,Co. Dublin,q4,90%
+16/06/2010,"19 Seabrook, Brook Lane, Rush",Dublin,211453.74,Yes,Rush,Co. Dublin,q2,40%
+18/06/2010,"44  Seafield Court, Rush",Dublin,135000.0,No,Rush,Co. Dublin,q1,10%
+24/06/2010,"62 Thorn Chase, Rush",Dublin,193000.0,No,Rush,Co. Dublin,q1,30%
+02/07/2010,"42 St. Catherine'S Ave, Rush",Dublin,245000.0,No,Rush,Co. Dublin,q2,50%
+15/07/2010,"15  Finistere, Rush",Dublin,260000.0,No,Rush,Co. Dublin,q3,60%
+23/07/2010,"23 Seabrook, Book Lane, Rush",Dublin,240000.0,Yes,Rush,Co. Dublin,q2,50%
+26/07/2010,"54 Lambay View, Rush, County Dublin",Dublin,280000.0,No,Rush,Co. Dublin,q3,70%
+03/08/2010,"10  Brookside Gardens, Rush",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+06/08/2010,"26 Rushbrook View, Templeogue",Dublin,360000.0,No,Rush,Co. Dublin,q4,90%
+13/08/2010,"1A Old Cottages, Hayestown, Rush",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+23/08/2010,"82 Lambay View, Skerries Road, Rush",Dublin,287500.0,No,Rush,Co. Dublin,q3,70%
+16/09/2010,"22 Thornleigh, Rush",Dublin,175000.0,No,Rush,Co. Dublin,q1,20%
+24/09/2010,"FÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ilte, South Shore Road, Rush.",Dublin,480000.0,No,Rush,Co. Dublin,q4,100%
+07/10/2010,"Kilbush Lane, Rush",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+11/10/2010,"163 Rusheeny Grove, Clonsilla",Dublin,210000.0,No,Rush,Co. Dublin,q2,40%
+18/10/2010,"28 Seabrook, Brook Lane, Rush",Dublin,216740.0,Yes,Rush,Co. Dublin,q2,40%
+19/10/2010,"26 Seabrook, Brook Lane, Rush",Dublin,195594.0,Yes,Rush,Co. Dublin,q1,30%
+22/10/2010,"9 Brookside Gardens, Rush",Dublin,210000.0,No,Rush,Co. Dublin,q2,40%
+11/11/2010,"27 Seabrook, Brook Lane, Rush",Dublin,218943.0,Yes,Rush,Co. Dublin,q2,40%
+19/11/2010,"25 Finistere, Lower Main Street, Rush",Dublin,240000.0,No,Rush,Co. Dublin,q2,50%
+10/12/2010,"25 Palmer Avenue, Palmer Road, Rush",Dublin,275000.0,Yes,Rush,Co. Dublin,q3,70%
+16/12/2010,"25 Seabrook, Brook Lane, Rush",Dublin,202643.16,Yes,Rush,Co. Dublin,q2,30%
+19/01/2011,"24 Seabrook, Brook Lane, Rush",Dublin,189427.3,Yes,Rush,Co. Dublin,q1,20%
+04/03/2011,"53 Palmer Avenue, Palmer Road, Rush",Dublin,100000.0,No,Rush,Co. Dublin,q1,10%
+31/03/2011,"9 Main Street, Rush",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+29/04/2011,"108 Rusheeney Village, Hartstown",Dublin,50000.0,No,Rush,Co. Dublin,q1,10%
+09/05/2011,"Auburn, South Shore Road, Rush",Dublin,180000.0,No,Rush,Co. Dublin,q1,20%
+18/05/2011,"33 Tayleurs Pouint, Rush",Dublin,190000.0,No,Rush,Co. Dublin,q1,20%
+10/06/2011,"3 Lady Cove, Palmer Road, Rush",Dublin,160000.0,No,Rush,Co. Dublin,q1,20%
+24/06/2011,"11 Linn Ban, Doctors Lane, Rush",Dublin,180000.0,No,Rush,Co. Dublin,q1,20%
+20/07/2011,"Olivia, Sundrive Road, Rush",Dublin,383000.0,No,Rush,Co. Dublin,q4,90%
+29/07/2011,"1A The Bawn, Bawn Road, Rush",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+23/08/2011,"6  Channel Road, Rush",Dublin,100000.0,No,Rush,Co. Dublin,q1,10%
+29/08/2011,"3 Congress Gardens, Rush",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+01/09/2011,"13 Rushbrook Way, Templeogue, Dublin 6W",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+09/09/2011,"16 Goldenridge Avenue, Skerries Road, Rush",Dublin,187000.0,No,Rush,Co. Dublin,q1,20%
+04/11/2011,"4 Healys Lane, Rush",Dublin,522000.0,No,Rush,Co. Dublin,q4,100%
+09/11/2011,"18 Hayestown, Rush, Co. Dublin",Dublin,158000.0,No,Rush,Co. Dublin,q1,20%
+11/11/2011,"5  St Catherine'S View, Rush",Dublin,160000.0,No,Rush,Co. Dublin,q1,20%
+06/01/2012,"33 Rushbrook Park, Templeogue, Dublin 6W",Dublin,247000.0,No,Rush,Co. Dublin,q3,60%
+08/02/2012,"Channel Road, Rush, Co  Dublin",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+16/02/2012,"3 Rushbrook Park, Templeogue",Dublin,201000.0,No,Rush,Co. Dublin,q2,30%
+16/02/2012,"Hands Lane, Rush",Dublin,420000.0,No,Rush,Co. Dublin,q4,100%
+21/03/2012,"3A Melbourne Gardens, Bawn Road, Rush",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+10/04/2012,"192, Rusheeny Park, Clonsilla",Dublin,151000.0,No,Rush,Co. Dublin,q1,10%
+12/04/2012,"2 Rushbrook Way, Templeogue, Dublin 6W",Dublin,285000.0,No,Rush,Co. Dublin,q3,70%
+16/04/2012,"13 An Tearmann, Sandy Road, Rush",Dublin,175000.0,No,Rush,Co. Dublin,q1,20%
+10/05/2012,"San Michelle, Barrack Lane, Rush",Dublin,187000.0,No,Rush,Co. Dublin,q1,20%
+29/06/2012,"1 An Tigin, Hayestown, Rush",Dublin,330000.0,No,Rush,Co. Dublin,q4,80%
+09/07/2012,"8 Haven Bank, Rush, Co. Dublin",Dublin,260000.0,No,Rush,Co. Dublin,q3,60%
+12/07/2012,"6 Seabrook, Brook Lane, Rush",Dublin,193832.6,Yes,Rush,Co. Dublin,q1,30%
+13/07/2012,"45 Hayestown, Rush",Dublin,135000.0,No,Rush,Co. Dublin,q1,10%
+20/07/2012,"25 Ladycove, Rush",Dublin,135000.0,No,Rush,Co. Dublin,q1,10%
+26/07/2012,"Apt. 54 Palmer Avenue, Rush",Dublin,90000.0,Yes,Rush,Co. Dublin,q1,10%
+27/07/2012,"Willowbrook, South Shore Road, Rush",Dublin,337500.0,No,Rush,Co. Dublin,q4,90%
+17/08/2012,"Prima Vera Sundrive Road, Rush",Dublin,365000.0,No,Rush,Co. Dublin,q4,90%
+03/09/2012,"2 Golden Ridge Way, Skerries Road, Rush",Dublin,157000.0,No,Rush,Co. Dublin,q1,20%
+21/09/2012,"Eskdale, Crescent Road, Rush",Dublin,350000.0,No,Rush,Co. Dublin,q4,90%
+04/10/2012,"47 Rusheeny Manor, Clonsilla, Dublin 15",Dublin,155000.0,No,Rush,Co. Dublin,q1,20%
+08/10/2012,"7  Coopersfield, Rush",Dublin,217500.0,No,Rush,Co. Dublin,q2,40%
+19/10/2012,"6 Brookside Gardens, Old Road, Rush",Dublin,157500.0,No,Rush,Co. Dublin,q1,20%
+19/10/2012,"7 Seabrook, Brook Lane, Rush",Dublin,209393.17,Yes,Rush,Co. Dublin,q2,40%
+22/10/2012,"108 Rusheeny Court, Rusheeny Village, D 15",Dublin,150000.0,No,Rush,Co. Dublin,q1,10%
+07/11/2012,"69 Palmer Road, Rush",Dublin,300000.0,No,Rush,Co. Dublin,q3,80%
+26/11/2012,"Twostone Cottage, Old Road, Rush",Dublin,313500.0,No,Rush,Co. Dublin,q4,80%
+10/12/2012,"23 Finistere, Lower Main Street, Rush",Dublin,169950.0,No,Rush,Co. Dublin,q1,20%
+11/12/2012,"36 Rushbrook Park, Templeogue, Dublin 6W",Dublin,302000.0,No,Rush,Co. Dublin,q4,80%
+14/12/2012,"49 Woodland Park, Rush",Dublin,210000.0,No,Rush,Co. Dublin,q2,40%
+17/12/2012,"7  Cliffland Court, Skerries Road, Rush",Dublin,400000.0,No,Rush,Co. Dublin,q4,90%
+18/12/2012,"26 Lambay View, Rush",Dublin,218000.0,No,Rush,Co. Dublin,q2,40%
+19/12/2012,"25 Hayestown, Rush",Dublin,150000.0,No,Rush,Co. Dublin,q1,10%
+19/12/2012,"45 Seabrook, Rush",Dublin,140969.16,Yes,Rush,Co. Dublin,q1,10%
+20/12/2012,"2 Seabrook, Brook Lane, Rush",Dublin,161155.0,Yes,Rush,Co. Dublin,q1,20%
+20/12/2012,"Hand Park, Rush",Dublin,147000.0,No,Rush,Co. Dublin,q1,10%
+20/12/2012,"South Shore Road, Rush",Dublin,310000.0,No,Rush,Co. Dublin,q4,80%
+20/12/2012,"The Tides, Hands Lane, Rush",Dublin,420000.0,No,Rush,Co. Dublin,q4,100%
+21/12/2012,"51 Rusheeney Manor, Clonsilla",Dublin,165000.0,No,Rush,Co. Dublin,q1,20%
+21/12/2012,"9 Golden Ridge Crescent, Skerries Road, Rush",Dublin,193000.0,Yes,Rush,Co. Dublin,q1,30%
+31/12/2012,"Hands Lane, Rush",Dublin,335000.0,No,Rush,Co. Dublin,q4,90%
+22/01/2013,"24 Ceol Na Mara, Rush",Dublin,83000.0,No,Rush,Co. Dublin,q1,10%
+30/01/2013,"1 Golden Ridge Crescent, Rush",Dublin,199000.0,No,Rush,Co. Dublin,q2,30%
+31/01/2013,"5 Golf Road, Rush",Dublin,315000.0,No,Rush,Co. Dublin,q4,80%
+01/02/2013,"19 St Catherines Drive, Rush",Dublin,152500.0,No,Rush,Co. Dublin,q1,20%
+12/02/2013,"19 Rushbrook, Blanchardstown",Dublin,303250.0,No,Rush,Co. Dublin,q4,80%
+13/02/2013,"125 Rusheeney View, Clonsilla, Dublin 15",Dublin,171500.0,No,Rush,Co. Dublin,q1,20%
+22/02/2013,"8 Golden Ridge Ave, Rush",Dublin,147007.0,Yes,Rush,Co. Dublin,q1,10%
+27/02/2013,"48 Ravenswell, Palmers Road, Rush",Dublin,89000.0,No,Rush,Co. Dublin,q1,10%
+28/02/2013,"44 Sebrook, Rush",Dublin,140969.16,Yes,Rush,Co. Dublin,q1,10%
+04/03/2013,"2 Cois Tra, Kilbush Lane, Rush",Dublin,208000.0,No,Rush,Co. Dublin,q2,40%
+05/03/2013,"1 Golden Ridge Green, Rush, Co. Dublin",Dublin,213500.0,No,Rush,Co. Dublin,q2,40%
+08/03/2013,"20 St Catherine'S Close, Rush",Dublin,95000.0,No,Rush,Co. Dublin,q1,10%
+14/03/2013,"32 Brookford, Rush, Co Dublin",Dublin,170000.0,No,Rush,Co. Dublin,q1,20%
+27/03/2013,"3  Seabrook, Brook Lane, Rush",Dublin,192000.0,Yes,Rush,Co. Dublin,q1,30%
+27/03/2013,"78 Thornchase, Rush",Dublin,145000.0,No,Rush,Co. Dublin,q1,10%
+18/04/2013,"19 Linn Ban, Doctor'S Lane, Rush",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+18/04/2013,"32 Hayestown, Rush",Dublin,134000.0,No,Rush,Co. Dublin,q1,10%
+26/04/2013,"Saint Ignatius, Chapel Lane, Rush",Dublin,40000.0,No,Rush,Co. Dublin,q1,10%
+07/06/2013,"1 Bawn Road, Rush",Dublin,142000.0,No,Rush,Co. Dublin,q1,10%
+14/06/2013,"3 Rushbrook, Blanchardstown",Dublin,329000.0,No,Rush,Co. Dublin,q4,80%
+08/07/2013,"5 Seabrook, Brook Lane, Rush",Dublin,162819.0,Yes,Rush,Co. Dublin,q1,20%
+10/07/2013,"Apartment 6 Woodlawn Court, Rush, County Dublin",Dublin,116000.0,No,Rush,Co. Dublin,q1,10%
+17/07/2013,"32 Seabrook, Brook Lane, Rush",Dublin,260000.0,Yes,Rush,Co. Dublin,q3,60%
+17/07/2013,"83 Thornchase, Rush",Dublin,155000.0,No,Rush,Co. Dublin,q1,20%
+17/07/2013,"Sion House, Main Street, Rush",Dublin,70000.0,No,Rush,Co. Dublin,q1,10%
+18/07/2013,"58 Lambay View, Rush",Dublin,225000.0,No,Rush,Co. Dublin,q2,40%
+19/07/2013,"68 Lambay View, Rush",Dublin,205000.0,No,Rush,Co. Dublin,q2,30%
+19/07/2013,"7 Brookfield Park, Rush, Co. Dublin",Dublin,290000.0,No,Rush,Co. Dublin,q3,70%
+01/08/2013,"17 Golden Ridge Green, Rush",Dublin,145000.0,No,Rush,Co. Dublin,q1,10%
+02/08/2013,"20 Ladycove, Palmer Road, Rush",Dublin,116000.0,No,Rush,Co. Dublin,q1,10%
+08/08/2013,"30 Seabrook, Brook Lane, Rush",Dublin,195000.0,Yes,Rush,Co. Dublin,q1,30%
+08/08/2013,"Suaimhneas, The Square, Rush",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+09/08/2013,"Primavera, Sundrive Road, Rush",Dublin,365000.0,No,Rush,Co. Dublin,q4,90%
+16/08/2013,"Palmer Road, Rush",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+19/08/2013,"24 Rushbrook Park, Templeogue",Dublin,370000.0,No,Rush,Co. Dublin,q4,90%
+20/08/2013,"10 Millbank Court, Doctor'S Lane, Rush",Dublin,160000.0,No,Rush,Co. Dublin,q1,20%
+22/08/2013,"Dolmond Cottage, Channel Road, Rush",Dublin,205000.0,No,Rush,Co. Dublin,q2,30%
+30/08/2013,"64 Lambay View, Skerries Road, Rush",Dublin,217000.0,No,Rush,Co. Dublin,q2,40%
+30/08/2013,"9 Seabrook, Brook Lane, Rush",Dublin,56750.0,Yes,Rush,Co. Dublin,q1,10%
+30/08/2013,"Chapel Green, Rush",Dublin,215000.0,No,Rush,Co. Dublin,q2,40%
+23/09/2013,"9 Thorn Chase, Rush",Dublin,134000.0,No,Rush,Co. Dublin,q1,10%
+08/10/2013,"21 Cois Tra, Kilbush Lane, Rush",Dublin,95000.0,No,Rush,Co. Dublin,q1,10%
+22/10/2013,"29 Seabrook, Brook Lane, Rush",Dublin,145374.45,Yes,Rush,Co. Dublin,q1,10%
+25/10/2013,"4 Seabrook, Brook Lane, Rush",Dublin,164758.0,Yes,Rush,Co. Dublin,q1,20%
+07/11/2013,"Riverbank, Channel Road, Rush",Dublin,390000.0,No,Rush,Co. Dublin,q4,90%
+29/11/2013,"9 Woodbury Park Rd, Rush",Dublin,240000.0,No,Rush,Co. Dublin,q2,50%
+10/12/2013,"3 Bayside Arbours, Sandy Road, Rush",Dublin,115000.0,No,Rush,Co. Dublin,q1,10%
+12/12/2013,"4 An Tearmann, Rush",Dublin,138000.0,No,Rush,Co. Dublin,q1,10%
+13/12/2013,"24 Finistere, Main St Lower, Rush",Dublin,186900.0,No,Rush,Co. Dublin,q1,20%
+17/12/2013,"30 Rushbrook, Blanchardstown, Dublin 15",Dublin,330000.0,No,Rush,Co. Dublin,q4,90%
+18/12/2013,"7 Thorn Chase, Skerries Rd, Rush",Dublin,160000.0,No,Rush,Co. Dublin,q1,20%
+03/01/2014,"29 The Lodge, Goldenridge, Rush",Dublin,190500.0,No,Rush,Co. Dublin,q1,30%
+09/01/2014,"Innishmaan, Channel Road, Rush",Dublin,280000.0,No,Rush,Co. Dublin,q3,70%
+10/01/2014,"33 Seabrook, Brook Lane, Rush",Dublin,199950.0,Yes,Rush,Co. Dublin,q2,30%
+14/01/2014,"9 Lambay View, Rush, Dublin",Dublin,225000.0,No,Rush,Co. Dublin,q2,40%
+16/01/2014,"Park Rd, Kenure, Rush",Dublin,280000.0,No,Rush,Co. Dublin,q3,70%
+20/01/2014,"34 Seabrook, Brook Lane, Rush",Dublin,176167.0,Yes,Rush,Co. Dublin,q1,20%
+20/01/2014,"Sunnyside, Main Street, Rush",Dublin,145000.0,No,Rush,Co. Dublin,q1,10%
+23/01/2014,"Ceol Na Duin, 4 South Shore Rd, Rush",Dublin,130000.0,No,Rush,Co. Dublin,q1,10%
+24/01/2014,"17 Rushbrook Rd, Templeogue, Dublin 6W",Dublin,337000.0,No,Rush,Co. Dublin,q4,90%
+30/01/2014,"Senna House, North Beach, Rush",Dublin,525000.0,No,Rush,Co. Dublin,q4,100%
+03/02/2014,"Barleyfield, Hayestown, Rush",Dublin,368000.0,No,Rush,Co. Dublin,q4,90%
+17/02/2014,"85 Brookford, Brook Lane, Rush",Dublin,140000.0,No,Rush,Co. Dublin,q1,10%
+24/02/2014,"43 Kenure Park, Rush, Co Dublin",Dublin,245000.0,No,Rush,Co. Dublin,q2,50%
+26/02/2014,"23 Rushbrook Ave, Templeogue, Dublin 6W",Dublin,344000.0,No,Rush,Co. Dublin,q4,90%
+27/02/2014,"5 Wooddale Road, Clifflands, Rush",Dublin,160000.0,No,Rush,Co. Dublin,q1,20%
+04/03/2014,"Ballynoe, Main Street Upper, Rush",Dublin,285000.0,No,Rush,Co. Dublin,q3,70%
+10/03/2014,"35 Seabrook, Brook Lane, Rush",Dublin,180616.74,Yes,Rush,Co. Dublin,q1,20%
+11/03/2014,"1 St Mels, Rush, Co Dublin",Dublin,163660.0,No,Rush,Co. Dublin,q1,20%
+11/03/2014,"9 Cois Tra, Kilbush Lane, Rush",Dublin,99000.0,No,Rush,Co. Dublin,q1,10%
+18/03/2014,"4 Sandmere, South Shore Road, Rush",Dublin,190000.0,Yes,Rush,Co. Dublin,q1,20%
+19/03/2014,"36 Seabrook, Brook Lane, Rush",Dublin,184977.97,Yes,Rush,Co. Dublin,q1,20%
+07/04/2014,"47 Thorn Chase, Skerries Rd, Rush",Dublin,174000.0,No,Rush,Co. Dublin,q1,20%
+09/04/2014,"13 Rushbrook Grove, Templeogue, Dublin 6W",Dublin,383000.0,No,Rush,Co. Dublin,q4,90%
+10/04/2014,"37 Seabrook, Brook Lane, Rush",Dublin,180616.74,Yes,Rush,Co. Dublin,q1,20%
+16/04/2014,"9 Hand Park, Rush",Dublin,260000.0,No,Rush,Co. Dublin,q3,60%
+16/04/2014,"No 7 Taylors Point, Rush, Co. Dublin",Dublin,340000.0,No,Rush,Co. Dublin,q4,90%
+25/04/2014,"1 Sandmere, South Shore Road, Rush",Dublin,307000.0,No,Rush,Co. Dublin,q4,80%
+25/04/2014,"6 Hoskyn Bank, Bawn Rd, Rush",Dublin,500000.0,No,Rush,Co. Dublin,q4,100%
+02/05/2014,"2 Strand South, Convent Lane, Rush",Dublin,377000.0,No,Rush,Co. Dublin,q4,90%
+02/05/2014,"83 Lambay View, Rush, Dublin",Dublin,249000.0,No,Rush,Co. Dublin,q3,60%
+09/05/2014,"10 Seabrook, Brook Lane, Rush",Dublin,237885.0,Yes,Rush,Co. Dublin,q2,50%
+09/05/2014,"14 The Avenue, Golden Ridge, Rush",Dublin,169602.0,Yes,Rush,Co. Dublin,q1,20%
+09/05/2014,"Sandy Lane, Rush",Dublin,420000.0,No,Rush,Co. Dublin,q4,100%
+12/05/2014,"3 Sandmere, South Shore Road, Rush",Dublin,300000.0,Yes,Rush,Co. Dublin,q3,80%
+16/05/2014,"22 Channel Rd, Rush, Co Dublin",Dublin,159000.0,No,Rush,Co. Dublin,q1,20%
+16/05/2014,"40 Seabrook, Brook Road, Rush",Dublin,189383.0,Yes,Rush,Co. Dublin,q1,20%
+23/05/2014,"4 Rushbrook Grove, Templeogue, Dublin 16",Dublin,387500.0,No,Rush,Co. Dublin,q4,90%
+23/05/2014,"41 Seabrook Brook Lane, Rush",Dublin,191586.0,Yes,Rush,Co. Dublin,q1,30%
+28/05/2014,"39 Seabrook, Brook Lane, Rush",Dublin,189427.31,Yes,Rush,Co. Dublin,q1,20%
+28/05/2014,"42 Seabrook, Brook Lane, Rush",Dublin,219950.0,Yes,Rush,Co. Dublin,q2,40%
+30/05/2014,"Whitestown Road, Rush, Co Dublin",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+06/06/2014,"8 Kenure Lawns, Rush, Dublin",Dublin,340000.0,No,Rush,Co. Dublin,q4,90%
+12/06/2014,"3 Old Hayestown, Rush, Co Dublin",Dublin,290000.0,No,Rush,Co. Dublin,q3,70%
+12/06/2014,"91 Rusheeney Ave, Clonsilla, Dublin 15",Dublin,236000.0,No,Rush,Co. Dublin,q2,50%
+17/06/2014,"1C Old Cottages, Hayestown, Rush",Dublin,367000.0,No,Rush,Co. Dublin,q4,90%
+17/06/2014,"8 Clifflands Rise, Rush",Dublin,225000.0,No,Rush,Co. Dublin,q2,40%
+20/06/2014,"31 Rushbrook Park, Templeogue, Dublin 6W",Dublin,400000.0,No,Rush,Co. Dublin,q4,90%
+25/06/2014,"5 Palmer Road, Rush",Dublin,180303.0,No,Rush,Co. Dublin,q1,20%
+26/06/2014,"6 The Crescent, Ridgewood, Rush",Dublin,180616.74,Yes,Rush,Co. Dublin,q1,20%
+27/06/2014,"12 Finistere, Lower Main St, Rush",Dublin,185000.0,No,Rush,Co. Dublin,q1,20%
+30/06/2014,"23 Rushbrook Dr, Templeogue, Dublin 6W",Dublin,480000.0,No,Rush,Co. Dublin,q4,100%
+02/07/2014,"16 Wood Dale Rd, Clifflands, Rush",Dublin,295000.0,No,Rush,Co. Dublin,q3,80%
+07/07/2014,"No 11 Seabrook, Brook Lane, Rush",Dublin,228360.0,Yes,Rush,Co. Dublin,q2,50%
+15/07/2014,"6 Thorn Chase, Skerries, Rush",Dublin,182300.0,No,Rush,Co. Dublin,q1,20%
+16/07/2014,"55 Woodland Park, Rush",Dublin,185000.0,No,Rush,Co. Dublin,q1,20%
+21/07/2014,"Handpark, Rush, Dublin",Dublin,225000.0,No,Rush,Co. Dublin,q2,40%
+22/07/2014,"140 Rusheeny Village, Clonsilla, Dublin 15",Dublin,265000.0,No,Rush,Co. Dublin,q3,60%
+25/07/2014,"19 Cois Tra, Rush, Dublin",Dublin,125000.0,No,Rush,Co. Dublin,q1,10%
+25/07/2014,"190 Rusheeney Park, Rusheeney Village, Clonsilla Dublin 15",Dublin,207500.0,No,Rush,Co. Dublin,q2,30%
+29/07/2014,"69 Seabrook, Brook Lane, Rush",Dublin,194027.0,Yes,Rush,Co. Dublin,q1,30%
+31/07/2014,"12 Haystown, Rush, Dublin",Dublin,140000.0,No,Rush,Co. Dublin,q1,10%
+31/07/2014,"20 Linn Ban, Rush, Dublin",Dublin,226800.0,No,Rush,Co. Dublin,q2,50%
+01/08/2014,"Hill House, Channel Rd, Rush",Dublin,420000.0,No,Rush,Co. Dublin,q4,100%
+01/08/2014,"Rushbrook, Torquay Road, Foxrock",Dublin,1120000.0,No,Rush,Co. Dublin,q4,100%
+05/08/2014,"8 Bayside Villas, Sandy Lane, Rush",Dublin,93500.0,No,Rush,Co. Dublin,q1,10%
+08/08/2014,"221 Rusheeny Village, Clonsilla, Dublin 15",Dublin,228000.0,No,Rush,Co. Dublin,q2,50%
+15/08/2014,"4 Woodland Park, Rush, Dublin",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+27/08/2014,"29 Kenure Park, Rush",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+28/08/2014,"71 Seabrook, Brook Road, Rush",Dublin,200000.0,Yes,Rush,Co. Dublin,q2,30%
+28/08/2014,"The Cottage, Sandy Lane, Rush",Dublin,70000.0,No,Rush,Co. Dublin,q1,10%
+29/08/2014,"70 Seabrook, Brook Lane, Rush",Dublin,198237.88,Yes,Rush,Co. Dublin,q1,30%
+29/08/2014,"72 Seabrook, Rush",Dublin,189383.0,Yes,Rush,Co. Dublin,q1,20%
+29/08/2014,"The View, South Shore, Rush",Dublin,735000.0,No,Rush,Co. Dublin,q4,100%
+01/09/2014,"12 Seabrook, Brook Lane, Rush",Dublin,259911.0,Yes,Rush,Co. Dublin,q3,60%
+09/09/2014,"Failte, South Shore Road, Rush",Dublin,413000.0,No,Rush,Co. Dublin,q4,100%
+09/09/2014,"The Bungalow, Whitetown Road, Rush",Dublin,251000.0,No,Rush,Co. Dublin,q3,60%
+10/09/2014,"The Brook, Farrens Lane, Rush",Dublin,392500.0,No,Rush,Co. Dublin,q4,90%
+10/09/2014,"Woodview, Skerries Road, Rush",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+11/09/2014,"74 Seabrook, Brooklane, Rush",Dublin,189383.0,Yes,Rush,Co. Dublin,q1,20%
+12/09/2014,"13 Kenure Lawns, Rush",Dublin,309000.0,No,Rush,Co. Dublin,q4,80%
+12/09/2014,"46 Brookford, Brook Lane, Rush",Dublin,192000.0,No,Rush,Co. Dublin,q1,30%
+15/09/2014,"155 Rusheeney Grove, Rusheeney Village, Clonsilla Dublin 15",Dublin,210000.0,No,Rush,Co. Dublin,q2,40%
+19/09/2014,"17 Brookford, Brook Lane, Rush",Dublin,240000.0,No,Rush,Co. Dublin,q2,50%
+23/09/2014,"13 Seabrook, Brook Lane, Rush",Dublin,237885.0,Yes,Rush,Co. Dublin,q2,50%
+26/09/2014,"75 Seabrook, Brook Lane, Rush",Dublin,189383.0,Yes,Rush,Co. Dublin,q1,20%
+01/10/2014,"188 Rusheeney Park, Rusheeney Village, Clonsilla Dublin 15",Dublin,215000.0,No,Rush,Co. Dublin,q2,40%
+10/10/2014,"5 Clifflands Court, Rush, Co Dublin",Dublin,325000.0,No,Rush,Co. Dublin,q4,80%
+10/10/2014,"9 Brookford Park, Rush, North Dublin",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+16/10/2014,"76 Seabrook, Brook Lane, Rush",Dublin,193788.54,Yes,Rush,Co. Dublin,q1,30%
+17/10/2014,"73 Seabrook, Brook Lane, Rush",Dublin,217305.0,Yes,Rush,Co. Dublin,q2,40%
+24/10/2014,"3A Cois Tra, Kilbush Lane, Rush",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+24/10/2014,"Dalys Lane, Rush",Dublin,460000.0,No,Rush,Co. Dublin,q4,100%
+28/10/2014,"10 Bayside Villas, Sandy Lane, Rush",Dublin,140000.0,No,Rush,Co. Dublin,q1,10%
+31/10/2014,"9 Coopersfield, Skerries Rd, Rush",Dublin,375000.0,No,Rush,Co. Dublin,q4,90%
+31/10/2014,"South Shore Road, Rush, Co. Dublin",Dublin,360000.0,No,Rush,Co. Dublin,q4,90%
+04/11/2014,"77 Seabrook, Rush, Co. Dublin",Dublin,225000.0,Yes,Rush,Co. Dublin,q2,50%
+05/11/2014,"66 Seabrook, Brook Lane, Rush",Dublin,194625.01,Yes,Rush,Co. Dublin,q1,30%
+13/11/2014,"2 Barrack Lane, Rush, Dublin",Dublin,160000.0,No,Rush,Co. Dublin,q1,20%
+13/11/2014,"78 Seabrook, Rush, Co. Dublin",Dublin,192070.48,Yes,Rush,Co. Dublin,q1,30%
+17/11/2014,"79 Seabrook, Brook Lane, Rush",Dublin,198238.0,Yes,Rush,Co. Dublin,q1,30%
+20/11/2014,"67  Seabrook, Brook Lane, Rush",Dublin,193832.0,Yes,Rush,Co. Dublin,q1,30%
+21/11/2014,"48 Tayleurs Point, Rush, Co Dublin",Dublin,117500.0,No,Rush,Co. Dublin,q1,10%
+21/11/2014,"4B Sandy Road, Rush, Co Dublin",Dublin,140000.0,No,Rush,Co. Dublin,q1,10%
+21/11/2014,"Atlantis, Rogerstown, Rush",Dublin,265000.0,No,Rush,Co. Dublin,q3,60%
+24/11/2014,"13 The Avenue  Golden Ridge, Rush",Dublin,193000.0,Yes,Rush,Co. Dublin,q1,30%
+24/11/2014,"72 Palmer Court, Rush, Co.Dublin",Dublin,95000.0,No,Rush,Co. Dublin,q1,10%
+25/11/2014,"27 Seabrook, Brook Lane, Rush",Dublin,240000.0,No,Rush,Co. Dublin,q2,50%
+26/11/2014,"6 St Catherines Grove, Rush",Dublin,132000.0,No,Rush,Co. Dublin,q1,10%
+28/11/2014,"Quindio, Channel Road, Rush",Dublin,420000.0,No,Rush,Co. Dublin,q4,100%
+01/12/2014,"10 Thornleigh, Rush, Dublin",Dublin,212000.0,No,Rush,Co. Dublin,q2,40%
+01/12/2014,"4 Sandmere, South Shore Road, Rush",Dublin,394650.0,No,Rush,Co. Dublin,q4,90%
+03/12/2014,"21 Lambay View, Rush, Dublin",Dublin,290000.0,No,Rush,Co. Dublin,q3,70%
+03/12/2014,"68 Seabrook, Brook Lane, Rush",Dublin,198237.89,Yes,Rush,Co. Dublin,q1,30%
+05/12/2014,"107 Rusheeney Court, Hartstown, Clonsilla",Dublin,205000.0,No,Rush,Co. Dublin,q2,30%
+09/12/2014,"91 Lower Main St, Rush, Main St",Dublin,60000.0,No,Rush,Co. Dublin,q1,10%
+10/12/2014,"23 Golden Ridge Drive, Rush",Dublin,218000.0,No,Rush,Co. Dublin,q2,40%
+10/12/2014,"70 Tayleurs Point, Rush, Dublin",Dublin,176000.0,No,Rush,Co. Dublin,q1,20%
+10/12/2014,"78 Tayleurs Point, Rush",Dublin,274000.0,No,Rush,Co. Dublin,q3,70%
+10/12/2014,"8 Seabrook, Brook Lane, Rush",Dublin,238096.0,Yes,Rush,Co. Dublin,q2,50%
+11/12/2014,"No. 62 Seabrook, Brook Road, Rush",Dublin,211454.0,Yes,Rush,Co. Dublin,q2,40%
+12/12/2014,"64 Seabrook, Brook Lane, Rush",Dublin,211454.0,Yes,Rush,Co. Dublin,q2,40%
+16/12/2014,"1 Haven Bank, Palmer Rd, Rush",Dublin,310000.0,No,Rush,Co. Dublin,q4,80%
+16/12/2014,"8 Thorn Chase, Rush, County Dublin",Dublin,179000.0,No,Rush,Co. Dublin,q1,20%
+17/12/2014,"19 The Cairn, Clifflands, Rush",Dublin,222000.0,No,Rush,Co. Dublin,q2,40%
+17/12/2014,"8 Lambay View, Skerries Rd, Rush Dublin",Dublin,237000.0,No,Rush,Co. Dublin,q2,50%
+18/12/2014,"15 Seabrook, Brook Lane, Rush",Dublin,240000.0,Yes,Rush,Co. Dublin,q2,50%
+18/12/2014,"65 Seabrook Lane, Rush",Dublin,213656.38,Yes,Rush,Co. Dublin,q2,40%
+19/12/2014,"1 South Strand, Rush, Dublin",Dublin,485000.0,No,Rush,Co. Dublin,q4,100%
+22/12/2014,"11 Brookside Gardens, Rush, Dublin",Dublin,247319.0,No,Rush,Co. Dublin,q3,60%
+22/12/2014,"6 Rusheeny Village, Clonsilla, Dublin 15",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+23/12/2014,"23 Brookford Brook Rd Rush, Dublin",Dublin,110000.0,No,Rush,Co. Dublin,q1,10%
+23/12/2014,"Whitestown Rd, Rush Dublin, Dublin",Dublin,190000.0,No,Rush,Co. Dublin,q1,20%
+07/01/2015,"Coastguard House, Rogerstown, Rush",Dublin,307000.0,No,Rush,Co. Dublin,q4,80%
+09/01/2015,"11 The Cairn, Clifflands, Rush",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+09/01/2015,"20 Seafield Court, Rush",Dublin,219000.0,No,Rush,Co. Dublin,q2,40%
+09/01/2015,"4 Brookford, Brook Lane, Rush",Dublin,231000.0,No,Rush,Co. Dublin,q2,50%
+13/01/2015,"63 Seabrook, Rush, County Dublin",Dublin,211453.74,Yes,Rush,Co. Dublin,q2,40%
+19/01/2015,"11 Hand Park, Rush, Dublin",Dublin,255000.0,No,Rush,Co. Dublin,q3,60%
+28/01/2015,"Millmount, Whitestown Road, Rush",Dublin,290000.0,No,Rush,Co. Dublin,q3,70%
+02/02/2015,"61 Seabrook, Brook Lane, Rush",Dublin,224670.0,Yes,Rush,Co. Dublin,q2,40%
+03/02/2015,"6A Cois Tra, Kilbush Lane, Rush",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+20/02/2015,"75 Lambay View, Skerries Rd, Rush",Dublin,287500.0,No,Rush,Co. Dublin,q3,70%
+27/02/2015,"29 Kenure Park, Rush, Dublin",Dublin,223000.0,No,Rush,Co. Dublin,q2,40%
+05/03/2015,"14 Seabrook, Brook Lane, Rush",Dublin,260000.0,Yes,Rush,Co. Dublin,q3,60%
+06/03/2015,"Brook, Hayestown Road, Rush",Dublin,158500.0,No,Rush,Co. Dublin,q1,20%
+09/03/2015,"36 Brookford, Rush, Co Dublin",Dublin,266000.0,No,Rush,Co. Dublin,q3,60%
+10/03/2015,"6 Mill Bank Walk, Old Road, Rush",Dublin,260000.0,No,Rush,Co. Dublin,q3,60%
+12/03/2015,"21 Seabrook, Brook Lane, Rush",Dublin,259911.89,Yes,Rush,Co. Dublin,q3,60%
+20/03/2015,"4 Upper Main St, Rush, Main St",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+20/03/2015,"St Francis Apts, Whitestown Rd, Rush",Dublin,412000.0,No,Rush,Co. Dublin,q4,100%
+26/03/2015,"59 Seabrook Lane, Rush",Dublin,224669.6,Yes,Rush,Co. Dublin,q2,40%
+30/03/2015,"9 Woodbury Park Rd, Rush, Dublin",Dublin,300000.0,No,Rush,Co. Dublin,q3,80%
+01/04/2015,"58 Seabrook, Rush",Dublin,229074.74,Yes,Rush,Co. Dublin,q2,50%
+02/04/2015,"94 Rusheeney Ave, Rusheeney Village, Clonsilla Dublin 15",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+02/04/2015,"Millview, Whitestown Rd, Rush",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+08/04/2015,"14 The Cairn, Clifflands Rush, Dublin",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+13/04/2015,"14 Finistere, Rush, Dublin",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+15/04/2015,"52 Tayleurs Point, Quay Road, Rush",Dublin,115000.0,No,Rush,Co. Dublin,q1,10%
+05/05/2015,"6 Linn Cuin, Old Rd, Rush",Dublin,225000.0,No,Rush,Co. Dublin,q2,50%
+12/05/2015,"17 Seabrook, Brook Lane, Rush",Dublin,259911.89,Yes,Rush,Co. Dublin,q3,60%
+15/05/2015,"3 Convent Lane, Rush, Dublin",Dublin,215000.0,No,Rush,Co. Dublin,q2,40%
+22/05/2015,"105 Rusheeny Court, Rusheeny Village, Hartstown Dublin 15",Dublin,217000.0,No,Rush,Co. Dublin,q2,40%
+29/05/2015,"The Cottage, Sandy Lane, Rush",Dublin,86000.0,No,Rush,Co. Dublin,q1,10%
+02/06/2015,"15 Rushbrook Avenue, Templeogue, Dublin 6W",Dublin,396000.0,No,Rush,Co. Dublin,q4,90%
+02/06/2015,"Number 53, Seabrook  Brook Lane, Rush",Dublin,233480.18,Yes,Rush,Co. Dublin,q2,50%
+03/06/2015,"52 Seabrook, Brook Lane, Rush",Dublin,260000.0,Yes,Rush,Co. Dublin,q3,60%
+12/06/2015,"5 Golden Ridge View, Rush, Dublin",Dublin,165000.0,No,Rush,Co. Dublin,q1,20%
+12/06/2015,"5 Linn Ban, Doctors Lane, Rush",Dublin,245000.0,No,Rush,Co. Dublin,q2,50%
+12/06/2015,"82 Thorn Chase, Rush, County Dublin",Dublin,152000.0,No,Rush,Co. Dublin,q1,20%
+16/06/2015,"167 Rusheeny Village, Clonsilla, Dublin 15",Dublin,163000.0,No,Rush,Co. Dublin,q1,20%
+17/06/2015,"Loretto, South Shore Road, Rush",Dublin,880000.0,No,Rush,Co. Dublin,q4,100%
+19/06/2015,"8 Ceol Na Mara, Lower Main St, Rush",Dublin,178000.0,No,Rush,Co. Dublin,q1,20%
+29/06/2015,"39 Ladycove, Palmer Road, Rush",Dublin,103594.0,No,Rush,Co. Dublin,q1,10%
+29/06/2015,"79 Rusheeny Ave, Hartstown, Clonsilla Dublin 15",Dublin,228000.0,No,Rush,Co. Dublin,q2,50%
+06/07/2015,"166 Rusheeny Village Manor, Clonsilla, Dublin 15",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+09/07/2015,"47 Seabrook, Brook Lane, Rush",Dublin,237885.0,Yes,Rush,Co. Dublin,q2,50%
+10/07/2015,"48 Seabrook, Rush",Dublin,229074.88,Yes,Rush,Co. Dublin,q2,50%
+14/07/2015,"50 Palmer Court Rush, Dublin",Dublin,165000.0,No,Rush,Co. Dublin,q1,20%
+14/07/2015,"53 Kenure Park, Rush, Dublin",Dublin,205000.0,No,Rush,Co. Dublin,q2,30%
+16/07/2015,"200 Rusheeny Park, Blanchardstown, Dublin 15",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+21/07/2015,"11 Haystown, Rush, Dublin",Dublin,150000.0,No,Rush,Co. Dublin,q1,10%
+05/08/2015,"14A Main Street, Rush",Dublin,70000.0,No,Rush,Co. Dublin,q1,10%
+14/08/2015,"26 Rushbrook Dr, Templeogue, Dublin 6W",Dublin,357500.0,No,Rush,Co. Dublin,q4,90%
+14/08/2015,"62 Lambay View, Rush, Dublin",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+20/08/2015,"3 Tower St, Rush, Dublin",Dublin,300000.0,No,Rush,Co. Dublin,q3,80%
+24/08/2015,"Midgard, 1 Kilbush Lane, Rush",Dublin,207000.0,No,Rush,Co. Dublin,q2,30%
+28/08/2015,"Glenside, Hands Land, Rush",Dublin,133000.0,No,Rush,Co. Dublin,q1,10%
+31/08/2015,"24 Thorn Chase, Rush, Co Dublin",Dublin,197000.0,No,Rush,Co. Dublin,q1,30%
+02/09/2015,"20 Ceol Na Mara, Main St, Rush",Dublin,156050.0,No,Rush,Co. Dublin,q1,20%
+03/09/2015,"Rusheen, Suttons Lane, Ballycorus  Kiltiernan",Dublin,350000.0,No,Rush,Co. Dublin,q4,90%
+08/09/2015,"3 Bayside Villas, Sandy Rd, Rush",Dublin,130000.0,No,Rush,Co. Dublin,q1,10%
+15/09/2015,"Twostone Cottage, Old Rd, Rush",Dublin,430000.0,No,Rush,Co. Dublin,q4,100%
+17/09/2015,"51 Seabrook, Brook Lane, Rush",Dublin,268722.47,Yes,Rush,Co. Dublin,q3,70%
+23/09/2015,"4A, Sandy Road, Rush",Dublin,185000.0,No,Rush,Co. Dublin,q1,20%
+25/09/2015,"The Drop Inn, Upper Main Street, Rush",Dublin,40000.0,No,Rush,Co. Dublin,q1,10%
+28/09/2015,"19 Golden Ridge Ave, Skerries Rd, Rush",Dublin,160000.0,No,Rush,Co. Dublin,q1,20%
+29/09/2015,"Sandy Ridge, Crescent Road, Rush",Dublin,598000.0,No,Rush,Co. Dublin,q4,100%
+08/10/2015,"12 St Catherines Crescent, Rush, Dublin",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+08/10/2015,"21 Knockabawn, Rush, Dublin",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+14/10/2015,"Crescent Road, Rush, Co Dublin",Dublin,125100.0,No,Rush,Co. Dublin,q1,10%
+20/10/2015,"13 Main Street, Rush, Co Dublin",Dublin,290000.0,No,Rush,Co. Dublin,q3,70%
+20/10/2015,"57 Woodland Park, Rush, Dublin",Dublin,245000.0,No,Rush,Co. Dublin,q2,50%
+30/10/2015,"21 Rusheen Village, Hartstown, Clonsilla Dublin 15",Dublin,232500.0,No,Rush,Co. Dublin,q2,50%
+30/10/2015,"52 Thorn Chase, Rush, Dublin",Dublin,221000.0,No,Rush,Co. Dublin,q2,40%
+05/11/2015,"Cedair, Daly'S Lane, Rush",Dublin,456000.0,No,Rush,Co. Dublin,q4,100%
+16/11/2015,"Seaview, South Shore, Rush",Dublin,340000.0,No,Rush,Co. Dublin,q4,90%
+19/11/2015,"4C Sandy Road, Rush, Co. Dublin",Dublin,190000.0,No,Rush,Co. Dublin,q1,20%
+20/11/2015,"197 Rusheeney Park, Blanchardstown, Dublin 15",Dublin,238000.0,No,Rush,Co. Dublin,q2,50%
+20/11/2015,"27 Rushbrook Way, Templeogue, Dublin 6W",Dublin,355500.0,No,Rush,Co. Dublin,q4,90%
+23/11/2015,"Fernslock, Old Rd, Rush",Dublin,310000.0,No,Rush,Co. Dublin,q4,80%
+23/11/2015,"Island View, Tower St, Rush",Dublin,612500.0,No,Rush,Co. Dublin,q4,100%
+26/11/2015,"55 Seabrook, Rush, Co. Dublin",Dublin,268722.46,Yes,Rush,Co. Dublin,q3,60%
+03/12/2015,"50 Seabrook, Brook Lane, Rush",Dublin,252305.0,Yes,Rush,Co. Dublin,q3,60%
+11/12/2015,"3 Ravenswell, Palmer Road, Rush",Dublin,166563.88,Yes,Rush,Co. Dublin,q1,20%
+11/12/2015,"60 Seabrook, Brook Lane, Rush",Dublin,224669.0,Yes,Rush,Co. Dublin,q2,40%
+17/12/2015,"56 Seabrook, Rush, Co Dublin",Dublin,246696.03,Yes,Rush,Co. Dublin,q3,60%
+18/12/2015,"60 Brookford, Rush, Dublin",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+05/01/2016,"2 Tayleurs Point, Rush, Dublin",Dublin,414000.0,No,Rush,Co. Dublin,q4,100%
+11/01/2016,"10 Finistere, Main St Lower, Rush",Dublin,197000.0,No,Rush,Co. Dublin,q1,30%
+03/02/2016,"16 Seabrook, Brook Lane, Rush",Dublin,280000.0,No,Rush,Co. Dublin,q3,70%
+11/02/2016,"49 Seabrook, Brook Lane, Rush",Dublin,213656.0,Yes,Rush,Co. Dublin,q2,40%
+19/02/2016,"14 An Tearmann, Sandy Rd, Rush Dublin",Dublin,205000.0,No,Rush,Co. Dublin,q2,30%
+22/02/2016,"46 Seabrook, Brook Road, Rush",Dublin,255506.0,Yes,Rush,Co. Dublin,q3,60%
+23/02/2016,"9 Ceol Na Mara, Rush",Dublin,120000.0,No,Rush,Co. Dublin,q1,10%
+10/03/2016,"4 An Tearmann, Rush, Dublin",Dublin,195000.0,No,Rush,Co. Dublin,q1,30%
+11/03/2016,"Coill Ros, Sundrive Rd, Rush",Dublin,365000.0,No,Rush,Co. Dublin,q4,90%
+14/03/2016,"22 Thornleigh, Rush",Dublin,201000.0,No,Rush,Co. Dublin,q2,30%
+22/03/2016,"8 An Tearmann, Sandy Rd, Rush",Dublin,199000.0,No,Rush,Co. Dublin,q2,30%
+23/03/2016,"15 Palmer Court, Rush, Dublin",Dublin,199000.0,No,Rush,Co. Dublin,q2,30%
+01/04/2016,"Ruskinville, Rogerstown, Rush",Dublin,208000.0,No,Rush,Co. Dublin,q2,40%
+05/04/2016,"13 Goldenridge View, Skerries Rd, Rush Dublin",Dublin,130000.0,No,Rush,Co. Dublin,q1,10%
+08/04/2016,"42 Thornleigh, Kilbush Lane, Rush",Dublin,268000.0,No,Rush,Co. Dublin,q3,60%
+18/04/2016,"14 Seafield Court, Main St Lower, Rush",Dublin,190000.0,No,Rush,Co. Dublin,q1,20%
+20/04/2016,"89 Palmer Court, Palmer Rd, Rush",Dublin,144000.0,No,Rush,Co. Dublin,q1,10%
+27/04/2016,"4 Ravenswell, Palmer Road, Rush",Dublin,185022.02,Yes,Rush,Co. Dublin,q1,20%
+05/05/2016,"9 Rusheeny Village, Clonsilla, Dublin 15",Dublin,248000.0,No,Rush,Co. Dublin,q3,60%
+12/05/2016,"South Shore Road, Rush, Co Dublin",Dublin,585500.0,No,Rush,Co. Dublin,q4,100%
+16/05/2016,"54 Seabrook, Brook Road, Rush",Dublin,273127.75,Yes,Rush,Co. Dublin,q3,70%
+30/05/2016,"69 Palmer Avenue, Rush, Co. Dublin",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+31/05/2016,"6 Bayside Villas, Sandylane, Rush",Dublin,124000.0,No,Rush,Co. Dublin,q1,10%
+07/06/2016,"The Thatch Cottage, Skerries Rd, Rush",Dublin,66000.0,No,Rush,Co. Dublin,q1,10%
+10/06/2016,"1 Lambay View, Rush, Dublin",Dublin,295000.0,No,Rush,Co. Dublin,q3,80%
+27/06/2016,"Sundrive Rd, Rush, Dublin",Dublin,445000.0,No,Rush,Co. Dublin,q4,100%
+30/06/2016,"59 Brookford Brook Lane Rush, Dublin",Dublin,247000.0,No,Rush,Co. Dublin,q3,60%
+04/07/2016,"Rogerstown, Rush, Dublin",Dublin,440000.0,No,Rush,Co. Dublin,q4,100%
+05/07/2016,"29 Seabrook, Brook Lane, Rush",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+07/07/2016,"5 St Catherines Ave, Rush, Dublin",Dublin,202000.0,No,Rush,Co. Dublin,q2,30%
+08/07/2016,"2 Ravenswell, Palmer Road, Rush",Dublin,246696.03,Yes,Rush,Co. Dublin,q3,60%
+13/07/2016,"4 Rushbrook View, Templeogue, Dublin 6W",Dublin,412000.0,No,Rush,Co. Dublin,q4,100%
+18/07/2016,"9 Tayleurs Point, Quay Rd, Rush",Dublin,425000.0,No,Rush,Co. Dublin,q4,100%
+25/07/2016,"9 Brookford, Brook Lane, Rush",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+03/08/2016,"22 Channel Rd, Rush, Co Dublin",Dublin,215000.0,No,Rush,Co. Dublin,q2,40%
+05/08/2016,"64 Brookford, Park Rd, Rush",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+08/08/2016,"44 Ravenswell, Palmer Rd, Rush",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+09/08/2016,"44 Rusheeney Crescent, Hartstown, Dublin 15",Dublin,225000.0,No,Rush,Co. Dublin,q2,50%
+12/08/2016,"43 Seabrook, Brook Lane, Rush",Dublin,246696.03,Yes,Rush,Co. Dublin,q3,60%
+23/08/2016,"1 An Tigin, Old Hayes Town, Rush",Dublin,230000.0,Yes,Rush,Co. Dublin,q2,50%
+23/08/2016,"14 Upper Main Street, Rush, County Dublin",Dublin,650000.0,No,Rush,Co. Dublin,q4,100%
+29/08/2016,"13 Goldenridge View, Skerries Rd, Rush Dublin",Dublin,265000.0,No,Rush,Co. Dublin,q3,60%
+08/09/2016,"23 Thornleigh, Kilbush Lane, Rush",Dublin,262000.0,No,Rush,Co. Dublin,q3,60%
+09/09/2016,"8 Haven Bank, Palmer Rd, Rush",Dublin,320000.0,No,Rush,Co. Dublin,q4,80%
+15/09/2016,"2 Hayestown, Rush, Co Dublin",Dublin,152000.0,No,Rush,Co. Dublin,q1,20%
+22/09/2016,"3 Kenure Crescent, Rush, Dublin",Dublin,240000.0,No,Rush,Co. Dublin,q2,50%
+22/09/2016,"38 Lade Cove, Palmer Rd, Rush",Dublin,167500.0,No,Rush,Co. Dublin,q1,20%
+26/09/2016,"68 Rusheeney Village, Clonsilla, Dublin 15",Dublin,216000.0,No,Rush,Co. Dublin,q2,40%
+26/09/2016,"The Bungalow, Whitetown Road, Rush",Dublin,340000.0,No,Rush,Co. Dublin,q4,90%
+28/09/2016,"Crescent Rd, Rogerstown, Rush",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+29/09/2016,"57 Seabrook, Rush",Dublin,261674.0,Yes,Rush,Co. Dublin,q3,60%
+03/10/2016,"148 Rusheeny Grove, Rusheeney Village, Clonsilla",Dublin,251000.0,No,Rush,Co. Dublin,q3,60%
+05/10/2016,"9 St Catherines Dr, Rush, Dublin",Dublin,207000.0,No,Rush,Co. Dublin,q2,30%
+06/10/2016,"14 Palmer Avenue, Rush, Co. Dublin",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+10/10/2016,"31 Brookford Brook Lan Rush, Dublin",Dublin,258000.0,No,Rush,Co. Dublin,q3,60%
+19/10/2016,"1 The Cairn, Skerries Rd, Rush",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+19/10/2016,"2 Coopersfield, Skerries Rd, Rush",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+19/10/2016,"8 Tayleurs Point, Rush, Dublin",Dublin,410000.0,No,Rush,Co. Dublin,q4,100%
+20/10/2016,"1A The Cairn, Haystown Rd, Rush",Dublin,237000.0,No,Rush,Co. Dublin,q2,50%
+24/10/2016,"87 Tayleurs Point, Quay Rd, Rush",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+26/10/2016,"25 Palmer Court Palmer Rd Rush, Dublin",Dublin,177000.0,No,Rush,Co. Dublin,q1,20%
+04/11/2016,"1 Golden Ridge Close, Skerries Road, Rush",Dublin,233411.93,Yes,Rush,Co. Dublin,q2,50%
+04/11/2016,"10 Golden Ridge Crescent, Skerries Road, Rush",Dublin,211783.78,Yes,Rush,Co. Dublin,q2,40%
+04/11/2016,"10 Golden Ridge View, Skerries Road, Rush",Dublin,216146.35,Yes,Rush,Co. Dublin,q2,40%
+04/11/2016,"12 Golden Ridge Walk, Skerries Road, Rush",Dublin,237190.6,Yes,Rush,Co. Dublin,q2,50%
+04/11/2016,"14 Golden Ridge Way, Skerries Road, Rush",Dublin,219680.88,Yes,Rush,Co. Dublin,q2,40%
+04/11/2016,"17 Golden Ridge View, Skerries Road, Rush",Dublin,203523.55,Yes,Rush,Co. Dublin,q2,30%
+04/11/2016,"18 Golden Ridge Avenue, Skerries Road, Rush",Dublin,228772.59,Yes,Rush,Co. Dublin,q2,50%
+04/11/2016,"19 Golden Ridge Green, Skerries Road, Rush",Dublin,207676.91,Yes,Rush,Co. Dublin,q2,30%
+04/11/2016,"2 Golden Ridge Close, Skerries Road, Rush",Dublin,211754.52,Yes,Rush,Co. Dublin,q2,40%
+04/11/2016,"2 Golden Ridge Crescent, Skerries Road, Rush",Dublin,211743.02,Yes,Rush,Co. Dublin,q2,40%
+04/11/2016,"20 Golden Ridge Avenue, Skerries Road, Rush",Dublin,194499.67,Yes,Rush,Co. Dublin,q1,30%
+04/11/2016,"23 Golden Ridge View, Skerries Road, Rush",Dublin,203147.69,Yes,Rush,Co. Dublin,q2,30%
+04/11/2016,"24 Golden Ridge View, Skerries Road, Rush",Dublin,220551.68,Yes,Rush,Co. Dublin,q2,40%
+04/11/2016,"3 Golden Ridge Crescent, Skerries Road, Rush",Dublin,211578.51,Yes,Rush,Co. Dublin,q2,40%
+04/11/2016,"5 Golden Ridge Way, Skerries Road, Rush",Dublin,228844.09,Yes,Rush,Co. Dublin,q2,50%
+04/11/2016,"8 Cois Tra, Kilbush, Rush",Dublin,280000.0,No,Rush,Co. Dublin,q3,70%
+07/11/2016,"18 Ravenswell, Rush, Dublin",Dublin,260000.0,No,Rush,Co. Dublin,q3,60%
+09/11/2016,"160 Rusheeney Manor, Clonsilla Dublin 15, Dublin",Dublin,215000.0,No,Rush,Co. Dublin,q2,40%
+11/11/2016,"15 Ladycove, Palmer Rd, Rush",Dublin,197000.0,No,Rush,Co. Dublin,q1,30%
+16/11/2016,"Sandy Rd, Rush, Dublin",Dublin,340000.0,No,Rush,Co. Dublin,q4,90%
+25/11/2016,"23A Main St, Rush, Main St",Dublin,91650.0,No,Rush,Co. Dublin,q1,10%
+02/12/2016,"El Paso, North Beach Rush, Dublin",Dublin,162500.0,No,Rush,Co. Dublin,q1,20%
+07/12/2016,"Apt 70 Pamer Court, Palmer Rd, Rush North",Dublin,147000.0,No,Rush,Co. Dublin,q1,10%
+12/12/2016,"Ballustree, Skerries Road, Rush",Dublin,510000.0,No,Rush,Co. Dublin,q4,100%
+13/12/2016,"1 Golden Ridge Square, Skerries Road, Rush",Dublin,236802.64,Yes,Rush,Co. Dublin,q2,50%
+13/12/2016,"14 Golden Ridge Walk, Skerries Road, Rush",Dublin,220551.64,Yes,Rush,Co. Dublin,q2,40%
+13/12/2016,"22 Golden Ridge Avenue, Skerries Road, Rush",Dublin,207676.91,Yes,Rush,Co. Dublin,q2,30%
+13/12/2016,"23 Golden Ridge Avenue, Skerries Road, Rush",Dublin,194499.67,Yes,Rush,Co. Dublin,q1,30%
+13/12/2016,"24 Golden Ridge Avenue, Skerries Road, Rush",Dublin,207676.91,Yes,Rush,Co. Dublin,q2,40%
+13/12/2016,"28 Golden Ridge Avenue, Skerries Road, Rush",Dublin,220551.64,Yes,Rush,Co. Dublin,q2,40%
+13/12/2016,"30 Golden Ridge Avenue, Skerries Road, Rush",Dublin,220551.64,Yes,Rush,Co. Dublin,q2,40%
+13/12/2016,"32 Golden Ridge Avenue, Skerries Road, Rush",Dublin,220551.64,Yes,Rush,Co. Dublin,q2,40%
+13/12/2016,"34 Golden Ridge Avenue, Skerries Road, Rush",Dublin,220551.64,Yes,Rush,Co. Dublin,q2,40%
+13/12/2016,"36 Golden Ridge Avenue, Skerries Road, Rush",Dublin,233411.93,Yes,Rush,Co. Dublin,q2,50%
+13/12/2016,"4 Golden Ridge Square, Skerries Road, Rush",Dublin,198538.66,Yes,Rush,Co. Dublin,q1,30%
+13/12/2016,"5 Golden Ridge Square, Skerries Road, Rush",Dublin,198538.66,Yes,Rush,Co. Dublin,q2,30%
+13/12/2016,"6 Golden Ridge Square, Skerries Road, Rush",Dublin,198538.66,Yes,Rush,Co. Dublin,q2,30%
+13/12/2016,"8 Golden Ridge Square, Skerries Road, Rush",Dublin,237817.22,Yes,Rush,Co. Dublin,q2,50%
+13/12/2016,"9 Golden Ridge Square, Skerries Road, Rush",Dublin,237817.22,Yes,Rush,Co. Dublin,q2,50%
+16/12/2016,"14 Seafield Court, Main St Lower, Rush",Dublin,210000.0,No,Rush,Co. Dublin,q2,40%
+16/12/2016,"78 Rusheeney Ave, Hartstown, Dublin 15",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+21/12/2016,"1 Sunset Court, Kilbush Lane, Rush",Dublin,301000.0,No,Rush,Co. Dublin,q4,80%
+21/12/2016,"6A  Old Hayestown Road, Hayestown, Rush",Dublin,280000.0,No,Rush,Co. Dublin,q3,70%
+21/12/2016,"7 Old Hayestown Road, Hayestown, Rush",Dublin,360000.0,No,Rush,Co. Dublin,q4,90%
+23/12/2016,"Bollum Lane, Rush, Dublin",Dublin,387500.0,No,Rush,Co. Dublin,q4,90%
+04/01/2017,"73 Tayleurs Point, Rush, Dublin",Dublin,256000.0,No,Rush,Co. Dublin,q3,60%
+06/01/2017,"1 Upper Main St, Rush, Main St",Dublin,380000.0,No,Rush,Co. Dublin,q4,90%
+10/01/2017,"11Echlin Court, Rush, Dublin",Dublin,260000.0,No,Rush,Co. Dublin,q3,60%
+11/01/2017,"77 Seabrook, Rush, Co. Dublin",Dublin,270000.0,No,Rush,Co. Dublin,q3,70%
+23/01/2017,"1A Linn Dubh, Haystown Rd, Rush",Dublin,2360101.0,No,Rush,Co. Dublin,q4,100%
+26/01/2017,"Alcove, Channel Road, Rush",Dublin,435000.0,No,Rush,Co. Dublin,q4,100%
+27/01/2017,"44 Rushbrook, Blanchardstown, Dublin 15",Dublin,440000.0,No,Rush,Co. Dublin,q4,100%
+30/01/2017,"9 St Catherines Park, Rush, Dublin",Dublin,165000.0,No,Rush,Co. Dublin,q1,20%
+31/01/2017,"40 Thorn Chase, Clifflands, Rush",Dublin,175000.0,No,Rush,Co. Dublin,q1,20%
+03/02/2017,"75 Tayleurs Point, Rush, Dublin",Dublin,240000.0,No,Rush,Co. Dublin,q2,50%
+06/02/2017,"35 Knockabawn, Harbour Rd, Rush",Dublin,251000.0,No,Rush,Co. Dublin,q3,60%
+07/02/2017,"15 Palmer Avenue, Rush Co. Dublin",Dublin,270000.0,No,Rush,Co. Dublin,q3,70%
+08/02/2017,"Skerries Rd, Rush, Dublin",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+20/02/2017,"33 Brookford Park, Rush, Dublin",Dublin,210000.0,No,Rush,Co. Dublin,q2,40%
+24/02/2017,"4 Millbank Walk, Old Rd, Rush",Dublin,290000.0,No,Rush,Co. Dublin,q3,70%
+27/02/2017,"22 Seafield Court, Rush, Dublin",Dublin,217000.0,No,Rush,Co. Dublin,q2,40%
+27/02/2017,"5 Thornleigh, Rush, Dublin",Dublin,300000.0,No,Rush,Co. Dublin,q3,80%
+28/02/2017,"17 Seafield Court, Rush, Dublin",Dublin,267500.0,No,Rush,Co. Dublin,q3,60%
+28/02/2017,"54 Ravenswell, Palmer Rd, Rush",Dublin,255000.0,No,Rush,Co. Dublin,q3,60%
+10/03/2017,"The Phoenix, Sundrive Road, Sandyhills Rush",Dublin,310000.0,No,Rush,Co. Dublin,q4,80%
+15/03/2017,"Eastlea, 3 Bawn Rd, Rush",Dublin,577500.0,No,Rush,Co. Dublin,q4,100%
+20/03/2017,"South Strand, Convent Lane, Rush",Dublin,650000.0,No,Rush,Co. Dublin,q4,100%
+28/03/2017,"168 Rusheeney Manor, Clonsilla, Dublin 15",Dublin,247500.0,No,Rush,Co. Dublin,q3,60%
+29/03/2017,"8 Linn Ban, Rush, Co. Dublin",Dublin,215859.03,Yes,Rush,Co. Dublin,q2,40%
+03/04/2017,"3D Hayestown Green, Rush, Dublin",Dublin,475000.0,No,Rush,Co. Dublin,q4,100%
+20/04/2017,"48 Tayleurs Point, Rush, Dublin",Dublin,170000.0,No,Rush,Co. Dublin,q1,20%
+21/04/2017,"Taonga, Channel Rd, Rush Dublin",Dublin,345000.0,No,Rush,Co. Dublin,q4,90%
+28/04/2017,"16 Finistere, Rush, Dublin",Dublin,285000.0,No,Rush,Co. Dublin,q3,70%
+09/05/2017,"The Links, Crescent Rd, Rush",Dublin,535000.0,No,Rush,Co. Dublin,q4,100%
+10/05/2017,"2 Coopers Lane, Rush, County Dublin",Dublin,225000.0,No,Rush,Co. Dublin,q2,50%
+11/05/2017,"6 Lambay View, Rush, Dublin",Dublin,270000.0,No,Rush,Co. Dublin,q3,70%
+12/05/2017,"4 Carrig Leathan, Kilbush, Rush",Dublin,310000.0,No,Rush,Co. Dublin,q4,80%
+25/05/2017,"84 Rusheeney Ave, Hartstown, Dublin 15",Dublin,225000.0,No,Rush,Co. Dublin,q2,50%
+29/05/2017,"19 Seabrook, Brook Lane, Rush",Dublin,268000.0,No,Rush,Co. Dublin,q3,60%
+31/05/2017,"17 Brookford Park, Rush, Co Dublin",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+01/06/2017,"2A Ceol Na Mara, Rush, Dublin",Dublin,367500.0,No,Rush,Co. Dublin,q4,90%
+13/06/2017,"45 Lambay View, Rush, Dublin",Dublin,291000.0,No,Rush,Co. Dublin,q3,70%
+16/06/2017,"6 Woodbury, Park Rd, Rush",Dublin,330000.0,No,Rush,Co. Dublin,q4,90%
+30/06/2017,"Linn Dubh, Haystown Rd, Rush",Dublin,3700000.0,No,Rush,Co. Dublin,q4,100%
+06/07/2017,"26 Golden Ridge View, Skerries Road, Rush",Dublin,228681.54,Yes,Rush,Co. Dublin,q2,50%
+06/07/2017,"30 Golden Ridge Lodge, Skerries Road, Rush",Dublin,206819.47,Yes,Rush,Co. Dublin,q2,30%
+06/07/2017,"33 Golden Ridge Lodge, Skerries Road, Rush",Dublin,194545.78,Yes,Rush,Co. Dublin,q1,30%
+06/07/2017,"34 Golden Ridge Lodge, Skerries Road, Rush",Dublin,168682.2,Yes,Rush,Co. Dublin,q1,20%
+06/07/2017,"6 Rogerstown Court, Rush, Dublin",Dublin,440000.0,No,Rush,Co. Dublin,q4,100%
+06/07/2017,"Apt 11 Golden Ridge Lodge, Skerries Road, Rush",Dublin,122645.83,Yes,Rush,Co. Dublin,q1,10%
+06/07/2017,"Apt 12 Golden Ridge Lodge, Skerries Road, Rush",Dublin,122645.83,Yes,Rush,Co. Dublin,q1,10%
+06/07/2017,"Apt 21 Golden Ridge Mews, Skerries Road, Rush",Dublin,109215.45,Yes,Rush,Co. Dublin,q1,10%
+06/07/2017,"Apt 24 Golden Ridge Mews, Skerries Road, Rush",Dublin,109215.45,Yes,Rush,Co. Dublin,q1,10%
+06/07/2017,"Apt 25 Golden Ridge Mews, Skerries Road, Rush",Dublin,109306.48,Yes,Rush,Co. Dublin,q1,10%
+06/07/2017,"Apt 26 Golden Ridge Mews, Skerries Road, Rush",Dublin,107619.0,Yes,Rush,Co. Dublin,q1,10%
+06/07/2017,"Apt 27 Golden Ridge Mews, Skerries Road, Rush",Dublin,107619.0,Yes,Rush,Co. Dublin,q1,10%
+06/07/2017,"Apt 28 Golden Ridge Lodge, Skerries Road, Rush",Dublin,225014.9,Yes,Rush,Co. Dublin,q2,50%
+06/07/2017,"Apt 28 Golden Ridge Mews, Skerries Road, Rush",Dublin,109306.48,Yes,Rush,Co. Dublin,q1,10%
+06/07/2017,"Apt 7 Golden Ridge Lodge, Skerries Road, Rush",Dublin,122645.83,Yes,Rush,Co. Dublin,q1,10%
+06/07/2017,"Apt 8 Golden Ridge Lodge, Skerries Road, Rush",Dublin,122645.83,Yes,Rush,Co. Dublin,q1,10%
+11/07/2017,"82 Tayleurs Point, Quay Rd, Rush",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+12/07/2017,"93 Lower Main St, Rush, Main St",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+13/07/2017,"56 Thornchase, Rush, Dublin",Dublin,225000.0,No,Rush,Co. Dublin,q2,50%
+18/07/2017,"Apt 2 Main St, Rush, Dublin",Dublin,115000.0,No,Rush,Co. Dublin,q1,10%
+21/07/2017,"25 Ravenswell, Palmer Rd, Rush",Dublin,270000.0,No,Rush,Co. Dublin,q3,70%
+26/07/2017,"16 Brookford, Rush, Dublin",Dublin,255000.0,No,Rush,Co. Dublin,q3,60%
+26/07/2017,"2 The Cairn, Skerries Rd, Rush",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+28/07/2017,"2 The Bawn, Rush, Co Dublin",Dublin,265000.0,No,Rush,Co. Dublin,q3,60%
+01/08/2017,"41 Ravenswell, Palmer Rd, Rush",Dublin,295000.0,No,Rush,Co. Dublin,q3,80%
+03/08/2017,"16 The Cairn, Clifflands, Rush",Dublin,257000.0,No,Rush,Co. Dublin,q3,60%
+14/08/2017,"7 Woodland Park, Rush, Dublin",Dublin,278000.0,No,Rush,Co. Dublin,q3,70%
+16/08/2017,"3 Kilbush View, Skerries Rd, Rush",Dublin,267000.0,No,Rush,Co. Dublin,q3,60%
+18/08/2017,"45 Tayleurs Point Quay Rd Rush, Dublin",Dublin,270000.0,No,Rush,Co. Dublin,q3,70%
+23/08/2017,"18 Golden Ridge Green, Rush, Dublin",Dublin,225000.0,No,Rush,Co. Dublin,q2,50%
+29/08/2017,"21 Brookfield Park Rush, Dublin",Dublin,442000.0,No,Rush,Co. Dublin,q4,100%
+29/08/2017,"40 Hayestown, Rush, Dublin",Dublin,232500.0,No,Rush,Co. Dublin,q2,50%
+31/08/2017,"9 Palmer Court, Palmer Rd, Rush",Dublin,225000.0,No,Rush,Co. Dublin,q2,50%
+01/09/2017,"11 Hand Park, Rush, Dublin",Dublin,310000.0,No,Rush,Co. Dublin,q4,80%
+01/09/2017,"6 Thorn Chase, Skerries, Rush",Dublin,177000.0,No,Rush,Co. Dublin,q1,20%
+08/09/2017,"Sandy Rd, Rush, Dublin",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+12/09/2017,"52 Lower Main St, Rush, Main St",Dublin,300000.0,No,Rush,Co. Dublin,q3,80%
+22/09/2017,"41 Brookford, Rush, Dublin",Dublin,225000.0,No,Rush,Co. Dublin,q2,50%
+25/09/2017,"8 Kenure Lawns, Rush, Co Dublin",Dublin,375000.0,No,Rush,Co. Dublin,q4,90%
+10/10/2017,"68 Brookford, Brook Lane, Rush",Dublin,237500.0,No,Rush,Co. Dublin,q2,50%
+12/10/2017,"23 Palmer Court, Rush, Dublin",Dublin,270000.0,No,Rush,Co. Dublin,q3,70%
+23/10/2017,"7 Millbank Court, Rush, Dublin",Dublin,255000.0,No,Rush,Co. Dublin,q3,60%
+25/10/2017,"94 Thorn Chase, Palmer Road, Rush",Dublin,245000.0,No,Rush,Co. Dublin,q2,50%
+26/10/2017,"97 Tayleurs Point, Rush, Dublin",Dublin,251000.0,No,Rush,Co. Dublin,q3,60%
+08/11/2017,"60 Kenure Park, Rush, Dublin",Dublin,270000.0,No,Rush,Co. Dublin,q3,70%
+17/11/2017,"33 Woodale Rd, Rush, Dublin",Dublin,260000.0,No,Rush,Co. Dublin,q3,60%
+21/11/2017,"Laburnum, Channel Rd, Rush",Dublin,530000.0,No,Rush,Co. Dublin,q4,100%
+22/11/2017,"109A Lower, Rush, Dublin",Dublin,100000.0,No,Rush,Co. Dublin,q1,10%
+22/11/2017,"45 Ravenswell, Palmer Rd, Rush",Dublin,262500.0,No,Rush,Co. Dublin,q3,60%
+28/11/2017,"23 Ceol Na Mara, Rush, Dublin",Dublin,190000.0,No,Rush,Co. Dublin,q1,30%
+28/11/2017,"Rusheen, Suttons Lane, Ballycorus",Dublin,790000.0,No,Rush,Co. Dublin,q4,100%
+30/11/2017,"Six Cross Lane, Rush, Co Dublin",Dublin,330000.0,No,Rush,Co. Dublin,q4,90%
+04/12/2017,"42 St Catherines Ave, Rush, Dublin",Dublin,260000.0,No,Rush,Co. Dublin,q3,60%
+08/12/2017,"Barrett House, Park Rd, Rush",Dublin,380000.0,No,Rush,Co. Dublin,q4,90%
+14/12/2017,"96 Tayleurs Point, Rush, Dublin",Dublin,256000.0,No,Rush,Co. Dublin,q3,60%
+18/12/2017,"61 Kenure Park, Rush, Dublin",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+20/12/2017,"3 St Maura'S Park, Rush, Co Dublin",Dublin,195000.0,No,Rush,Co. Dublin,q1,30%
+21/12/2017,"2 Rusheeny Green, Rusheeny Village, Dublin 15",Dublin,263000.0,No,Rush,Co. Dublin,q3,60%
+21/12/2017,"Pepper Cottage, 2 Hayestown Road, Rush",Dublin,293000.0,No,Rush,Co. Dublin,q3,70%
+22/12/2017,"45 St Catherines Drive, Rush, Co Dublin",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+03/01/2018,"5 Lambay View, Rush, Dublin",Dublin,280000.0,No,Rush,Co. Dublin,q3,70%
+12/01/2018,"5 Ceol Na Mara, Rush, Dublin",Dublin,218000.0,No,Rush,Co. Dublin,q2,40%
+22/01/2018,"4 Convent Lane, Rush, Co Dublin",Dublin,241000.0,No,Rush,Co. Dublin,q2,50%
+22/01/2018,"7 Bawn Rd, Rush, County Dublin",Dublin,175000.0,No,Rush,Co. Dublin,q1,20%
+22/01/2018,"Anocka 5 Drumanagh Court, Kilbush Lane, Rush",Dublin,562500.0,No,Rush,Co. Dublin,q4,100%
+31/01/2018,"105 Tayleurs Point, Rush, Dublin",Dublin,156000.0,No,Rush,Co. Dublin,q1,20%
+01/02/2018,"Eastwinds, Skerries Road, Rush",Dublin,400000.0,No,Rush,Co. Dublin,q4,90%
+07/02/2018,"6 Brookfield Park, Rush, Dublin",Dublin,362000.0,No,Rush,Co. Dublin,q4,90%
+14/02/2018,"16 Main Street, Rush, Co. Dublin",Dublin,1590000.0,No,Rush,Co. Dublin,q4,100%
+08/03/2018,"18 Brookford Park, Rush, Dublin",Dublin,262887.92,No,Rush,Co. Dublin,q3,60%
+12/03/2018,"59 Palmer Court, Palmer Rd, Rush",Dublin,210000.0,No,Rush,Co. Dublin,q2,40%
+28/03/2018,"46 Seafield Court, Rush, Dublin",Dublin,180000.0,No,Rush,Co. Dublin,q1,20%
+28/03/2018,"Lima, Sandy Road, Rush",Dublin,248000.0,No,Rush,Co. Dublin,q3,60%
+05/04/2018,"8 Thornleigh, Rush, County Dublin",Dublin,266000.0,No,Rush,Co. Dublin,q3,60%
+20/04/2018,"32 Linn Beag, Old Rd, Rush",Dublin,307000.0,No,Rush,Co. Dublin,q4,80%
+23/04/2018,"43 Kenure Park, Rush, Co Dublin",Dublin,352500.0,No,Rush,Co. Dublin,q4,90%
+23/04/2018,"Seafoam, South Shore Rd, Rush",Dublin,523000.0,No,Rush,Co. Dublin,q4,100%
+26/04/2018,"1 Old Cottages, Hayestown, Rush",Dublin,315000.0,No,Rush,Co. Dublin,q4,80%
+27/04/2018,"14 St Cathrines Park Rush, Dublin",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+27/04/2018,"Derravaragh, 7 Hackettstown Park, Rush Rd",Dublin,780000.0,No,Rush,Co. Dublin,q4,100%
+01/05/2018,"6 Brookford Park, Rush, Dublin",Dublin,181000.0,No,Rush,Co. Dublin,q1,20%
+08/05/2018,"16 Woodbury, Park Rd, Rush",Dublin,370000.0,No,Rush,Co. Dublin,q4,90%
+11/05/2018,"118 Rusheeny Village, Clonsilla, Dublin 15",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+11/05/2018,"2 Hayestown, Rush, Dublin",Dublin,330000.0,No,Rush,Co. Dublin,q4,90%
+11/05/2018,"69 Kenure Park, Rush, Dublin",Dublin,190000.0,No,Rush,Co. Dublin,q1,30%
+11/05/2018,"7 Drumanagh Court, Kilbush Lane, Rush",Dublin,480176.0,Yes,Rush,Co. Dublin,q4,100%
+18/05/2018,"15 Ravenswell, Palmer Rd, Rush",Dublin,296000.0,No,Rush,Co. Dublin,q3,80%
+25/05/2018,"Apt 2 Main St, Rush, Dublin",Dublin,179500.0,No,Rush,Co. Dublin,q1,20%
+01/06/2018,"7 Brookford Park, Rush, Co Dublin",Dublin,179000.0,No,Rush,Co. Dublin,q1,20%
+01/06/2018,"Ballynoe, Main Street Upper, Rush",Dublin,399500.0,No,Rush,Co. Dublin,q4,90%
+01/06/2018,"Jubilee House, Channel Road, Rush",Dublin,725000.0,No,Rush,Co. Dublin,q4,100%
+06/06/2018,"12 Kenure Crescent, Rush, Dublin",Dublin,265000.0,No,Rush,Co. Dublin,q3,60%
+08/06/2018,"5 Thorn Chase, Skerries Rd, Rush",Dublin,195000.0,No,Rush,Co. Dublin,q1,30%
+08/06/2018,"The White House, Crescent Rd, Rogerstown   Rush",Dublin,418000.0,No,Rush,Co. Dublin,q4,100%
+13/06/2018,"23 St Catherines Drive, Rush, Co. Dublin",Dublin,215000.0,No,Rush,Co. Dublin,q2,40%
+18/06/2018,"37 Rushbrook, Blanchardstown, Dublin 15",Dublin,465000.0,No,Rush,Co. Dublin,q4,100%
+21/06/2018,"Anfal, Sandy Lane, Rush",Dublin,612500.0,No,Rush,Co. Dublin,q4,100%
+22/06/2018,"17 Finistere, Lower Main St, Rush",Dublin,299000.0,No,Rush,Co. Dublin,q3,80%
+05/07/2018,"228 Rusheeney Ave, Clonsilla, Dublin 15",Dublin,273000.0,No,Rush,Co. Dublin,q3,70%
+06/07/2018,"19 Kenure Lawns, Rush, Co. Dublin",Dublin,330000.0,No,Rush,Co. Dublin,q4,90%
+06/07/2018,"Apartment 1, Lower Main Street, Rush",Dublin,170000.0,No,Rush,Co. Dublin,q1,20%
+19/07/2018,"Firmain, Golf Road, Rush",Dublin,350000.0,Yes,Rush,Co. Dublin,q4,90%
+26/07/2018,"102 Tayleurs Point, Quay Rd, Rush",Dublin,266000.0,No,Rush,Co. Dublin,q3,60%
+26/07/2018,"9 Drumanagh Court, Kilbush Lane, Rush",Dublin,519823.0,Yes,Rush,Co. Dublin,q4,100%
+08/08/2018,"184 Rusheeney Close, Clonsilla, Dublin 15",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+09/08/2018,"10 Linn Cuin, Old Rd, Rush",Dublin,308000.0,No,Rush,Co. Dublin,q4,80%
+09/08/2018,"61 Ravenswell, Palmer Road, Rush",Dublin,300000.0,No,Rush,Co. Dublin,q3,80%
+17/08/2018,"2 The Forge, Main St, Rush",Dublin,190000.0,No,Rush,Co. Dublin,q1,30%
+17/08/2018,"36 Thorn Chase, Skerries Rd, Rush",Dublin,195000.0,No,Rush,Co. Dublin,q1,30%
+17/08/2018,"South Shore Rd, Rush, Dublin",Dublin,350000.0,No,Rush,Co. Dublin,q4,90%
+30/08/2018,"71 Tayleurs Point, Quay Rd, Rush",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+04/09/2018,"43 Woodland Park, Rush, Dublin",Dublin,268000.0,No,Rush,Co. Dublin,q3,60%
+14/09/2018,"3 Haven Bank Palmer Rd Rush, Dublin",Dublin,295000.0,No,Rush,Co. Dublin,q3,80%
+18/09/2018,"7 Seafield Court, Lower Main St, Rush",Dublin,260000.0,No,Rush,Co. Dublin,q3,60%
+18/09/2018,"St Augustines, Rogerstown, Rush",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+20/09/2018,"36 Rusheeny, Crescent, Clonsilla Dublin 15",Dublin,262000.0,No,Rush,Co. Dublin,q3,60%
+20/09/2018,"6 Palmer Court, Palmer Rd, Rush",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+21/09/2018,"Old Rd, Rush, Dublin",Dublin,500000.0,No,Rush,Co. Dublin,q4,100%
+26/09/2018,"10 Golden Ridge Dr, Skerries Rd, Rush",Dublin,275000.0,No,Rush,Co. Dublin,q3,70%
+28/09/2018,"35 Lambay View, Skerries Rd, Rush",Dublin,345000.0,No,Rush,Co. Dublin,q4,90%
+28/09/2018,"Whitestown Road, Rush, Co Dublin",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+02/10/2018,"Finistere Bungalow, Lower Main St, Rush",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+03/10/2018,"15 Lambay View, Skerries Rd, Rush",Dublin,390000.0,No,Rush,Co. Dublin,q4,90%
+12/10/2018,"12 Brookford Park, Rush, Dublin",Dublin,258775.64,No,Rush,Co. Dublin,q3,60%
+23/10/2018,"1 The Forge, Main St Lower, Rush",Dublin,197000.0,No,Rush,Co. Dublin,q1,30%
+24/10/2018,"12 Woodale Rd, Clifflands, Rush",Dublin,342500.0,No,Rush,Co. Dublin,q4,90%
+30/10/2018,"Hands Lane, Rush, Co.Dublin",Dublin,441000.0,No,Rush,Co. Dublin,q4,100%
+31/10/2018,"29 Finistere, Main St Lower, Rush",Dublin,240000.0,No,Rush,Co. Dublin,q2,50%
+02/11/2018,"75 Rusheeney Ave, Clonsilla, Dublin 15",Dublin,265000.0,No,Rush,Co. Dublin,q3,60%
+06/11/2018,"26 Rusheeney Ave, Rusheeney Village, Clonsilla Dublin 15",Dublin,272000.0,No,Rush,Co. Dublin,q3,70%
+08/11/2018,"5 Golden Ridge Close, Skerries Rd, Rush",Dublin,255000.0,No,Rush,Co. Dublin,q3,60%
+08/11/2018,"Sevensprings, Hayestown Rd, Rush",Dublin,132548.0,No,Rush,Co. Dublin,q1,10%
+16/11/2018,"10 The Forge, Lower Main St, Rush",Dublin,220000.0,No,Rush,Co. Dublin,q2,40%
+16/11/2018,"60 Woodland Park, Park Rd, Rush",Dublin,290000.0,No,Rush,Co. Dublin,q3,70%
+20/11/2018,"47 Rusheeney Manor, Rusheeney Village, Clonsilla Dublin 15",Dublin,289000.0,No,Rush,Co. Dublin,q3,70%
+22/11/2018,"4 Golden Ridge Close, Skerries Rd, Rush",Dublin,255000.0,No,Rush,Co. Dublin,q3,60%
+23/11/2018,"10 Seabrook, Brook Lane, Rush",Dublin,373000.0,No,Rush,Co. Dublin,q4,90%
+27/11/2018,"1 Finistere, Rush, Dublin",Dublin,245000.0,No,Rush,Co. Dublin,q2,50%
+27/11/2018,"40 Ladycove, Palmer Rd, Rush",Dublin,147000.0,No,Rush,Co. Dublin,q1,10%
+27/11/2018,"55 Rusheeney Park, Rusheeney Village, Hartstown Dublin 15",Dublin,265000.0,No,Rush,Co. Dublin,q3,60%
+28/11/2018,"23 Seafield Court, Rush, Dublin",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+29/11/2018,"30 Tayleurs Point, Rush, Dublin",Dublin,245000.0,No,Rush,Co. Dublin,q3,60%
+30/11/2018,"6 Drumanagh Court, Kilbush Lane, Rush",Dublin,519824.0,Yes,Rush,Co. Dublin,q4,100%
+04/12/2018,"11 Golden Ridge Crescent, Skerries Rd, Rush",Dublin,283000.0,No,Rush,Co. Dublin,q3,70%
+04/12/2018,"33 Knockabawn, Quay Rd, Rush",Dublin,280000.0,No,Rush,Co. Dublin,q3,70%
+06/12/2018,"13 The Avenue  Golden Ridge, Rush, Dublin",Dublin,330000.0,No,Rush,Co. Dublin,q4,90%
+07/12/2018,"15 Rusheeney Green, Clonsilla, Dublin 15",Dublin,248500.0,No,Rush,Co. Dublin,q3,60%
+17/12/2018,"3 Sunlock Court, Main St, Rush",Dublin,210000.0,No,Rush,Co. Dublin,q2,40%
+19/12/2018,"14 Palmer Court, Palmer Rd, Rush",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+20/12/2018,"29 Tayleurs Point, Rush, Dublin",Dublin,295000.0,No,Rush,Co. Dublin,q3,80%
+20/12/2018,"84 Lambay View, Skerries Rd, Rush",Dublin,375000.0,No,Rush,Co. Dublin,q4,90%
+21/12/2018,"3 Echlin Court, Rush, Co Dublin",Dublin,387500.0,No,Rush,Co. Dublin,q4,90%
+21/12/2018,"7 Golden Ridge View, Skerries Rd, Rush",Dublin,350000.0,No,Rush,Co. Dublin,q4,90%
+07/01/2019,"15 Ceol Na Mara, Rush, Dublin",Dublin,196000.0,No,Rush,Co. Dublin,q1,30%
+14/01/2019,"Moss Cottage, Sandy Road, Rush",Dublin,130000.0,No,Rush,Co. Dublin,q1,10%
+21/01/2019,"24 Ladycove, Palmer Road, Rush",Dublin,190000.0,No,Rush,Co. Dublin,q1,30%
+24/01/2019,"27 Brookfield Park, Rush, Dublin",Dublin,180000.0,No,Rush,Co. Dublin,q1,20%
+05/02/2019,"21 Goldenridge Dr, Skerries Rd, Rush",Dublin,87500.0,No,Rush,Co. Dublin,q1,10%
+13/02/2019,"1 Kenure Gate, Park Road, Rush",Dublin,343612.33,Yes,Rush,Co. Dublin,q4,90%
+13/02/2019,"2 Kenure Gate, Park Road, Rush",Dublin,298550.0,Yes,Rush,Co. Dublin,q3,80%
+20/02/2019,"32 Kenure Gate, Rush, Co. Dublin",Dublin,339206.0,Yes,Rush,Co. Dublin,q4,90%
+22/02/2019,"22 Brookfield Park, Rush, Dublin",Dublin,370000.0,No,Rush,Co. Dublin,q4,90%
+26/02/2019,"14 Kenure Gate, Kenure Gate, Rush",Dublin,325000.0,Yes,Rush,Co. Dublin,q4,80%
+26/02/2019,"34 Kenure Gate, Park Road, Rush",Dublin,378854.0,Yes,Rush,Co. Dublin,q4,90%
+27/02/2019,"61 Seabrook, Brook Lane, Rush",Dublin,309000.0,No,Rush,Co. Dublin,q4,80%
+27/02/2019,"Sandown, Channel Road, Rush",Dublin,800000.0,No,Rush,Co. Dublin,q4,100%
+01/03/2019,"3 Ravenswell, Palmer Road, Rush",Dublin,245000.0,No,Rush,Co. Dublin,q3,60%
+04/03/2019,"The Willows, Skerries Rd, Rush",Dublin,357000.0,No,Rush,Co. Dublin,q4,90%
+07/03/2019,"12 Kenure Gate, Rush",Dublin,295100.0,Yes,Rush,Co. Dublin,q3,80%
+08/03/2019,"2 Clifflands, Rush, Dublin",Dublin,515000.0,No,Rush,Co. Dublin,q4,100%
+08/03/2019,"23 Lambay View, Skerries Rd, Rush",Dublin,345000.0,No,Rush,Co. Dublin,q4,90%
+15/03/2019,"18 Ceol Na Mara, Lower Main St, Rush",Dublin,195000.0,No,Rush,Co. Dublin,q1,30%
+20/03/2019,"Sea View House Sandy Lane, Rush, Dublin",Dublin,300000.0,No,Rush,Co. Dublin,q4,80%
+28/03/2019,"31 Rushbrook Park, Templeogue, Dublin 6W",Dublin,440000.0,No,Rush,Co. Dublin,q4,100%
+02/04/2019,"15 An Tearmann, Rush, Dublin",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+04/04/2019,"13 Kenure Gate, Park Road, Rush",Dublin,352422.0,Yes,Rush,Co. Dublin,q4,90%
+08/04/2019,"6 Finistere, Lower Main St, Rush",Dublin,239000.0,No,Rush,Co. Dublin,q2,50%
+10/04/2019,"72 Seabrook, Rush, Dublin",Dublin,290000.0,No,Rush,Co. Dublin,q3,70%
+11/04/2019,"10 Ceol Na Mara, Main St Lower, Rush",Dublin,270000.0,No,Rush,Co. Dublin,q3,70%
+11/04/2019,"11 Brookside Gardens, Rush, Co Dublin",Dublin,214753.29,No,Rush,Co. Dublin,q2,40%
+15/04/2019,"81 Rusheeney Ave, Clonsilla, Dublin 15",Dublin,286500.0,No,Rush,Co. Dublin,q3,70%
+16/04/2019,"23 Channel Road, Rush, County Dublin",Dublin,315000.0,No,Rush,Co. Dublin,q4,80%
+03/05/2019,"53 Rusheeney Park, Clonsilla, Dublin 15",Dublin,295000.0,No,Rush,Co. Dublin,q3,80%
+07/05/2019,"18 Kenure Gate, Rush, Dublin",Dublin,279735.0,Yes,Rush,Co. Dublin,q3,70%
+07/05/2019,"2 Thornleigh Court, Kilbush Lane, Rush",Dublin,250000.0,No,Rush,Co. Dublin,q3,60%
+09/05/2019,"15 Kenure Gate, Park Road, Rush",Dublin,334801.0,Yes,Rush,Co. Dublin,q4,90%
+10/05/2019,"85 Lambay View, Rush, Dublin",Dublin,390000.0,No,Rush,Co. Dublin,q4,90%
+10/05/2019,"Six Cross Lanes, North Beach, Rush",Dublin,290000.0,No,Rush,Co. Dublin,q3,70%
+14/05/2019,"11 Golden Ridge Walk, Rush, Dublin",Dublin,285000.0,No,Rush,Co. Dublin,q3,70%
+15/05/2019,"24 Sea Brook, Brook Lane, Rush",Dublin,295000.0,No,Rush,Co. Dublin,q3,80%
+15/05/2019,"27 Kenure Gate, Park Road, Rush",Dublin,294144.48,Yes,Rush,Co. Dublin,q3,70%
+20/05/2019,"12 St Catherines Crescent, Rush, Dublin",Dublin,315000.0,No,Rush,Co. Dublin,q4,80%
+24/05/2019,"14 Brookford, Brooklane, Rush",Dublin,282000.0,No,Rush,Co. Dublin,q3,70%
+03/06/2019,"Dunbridge, Millbank, Rush",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+04/06/2019,"93 Tayleurs Point Quay Rd Rush, Dublin",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+07/06/2019,"The Pebbles, Rogertown, Rush",Dublin,300000.0,No,Rush,Co. Dublin,q4,80%
+12/06/2019,"65 Palmer Court, Rush, Co. Dublin",Dublin,260000.0,No,Rush,Co. Dublin,q3,60%
+14/06/2019,"Corrs Lane Sandy Hills, Rush, Dublin",Dublin,350000.0,No,Rush,Co. Dublin,q4,90%
+17/06/2019,"67  Seabrook, Brook Lane, Rush",Dublin,285000.0,No,Rush,Co. Dublin,q3,70%
+20/06/2019,"86 Rusheeney Ave, Hartstown, Clonsilla",Dublin,273000.0,No,Rush,Co. Dublin,q3,70%
+24/06/2019,"Tower Street, Rush, Co. Dublin",Dublin,310000.0,No,Rush,Co. Dublin,q4,80%
+28/06/2019,"19 Rushbrook Ave, Templeogue, Dublin 6W",Dublin,457000.0,No,Rush,Co. Dublin,q4,100%
+28/06/2019,"27 Rushbrook Way, Templeogue, Dublin 6W",Dublin,200000.0,No,Rush,Co. Dublin,q2,30%
+02/07/2019,"Sundrive Rd, Rush, Dublin",Dublin,545000.0,No,Rush,Co. Dublin,q4,100%
+03/07/2019,"154 Rusheeney Grove, Clonsilla, Dublin 15",Dublin,287500.0,No,Rush,Co. Dublin,q3,70%
+03/07/2019,"33 Kenure Gate, Park Road, Rush",Dublin,334801.76,Yes,Rush,Co. Dublin,q4,90%
+08/07/2019,"The Logh, Bawn Road, Rush",Dublin,205000.0,Yes,Rush,Co. Dublin,q2,30%
+10/07/2019,"St Anthonys, Hand Park, Rush",Dublin,135000.0,No,Rush,Co. Dublin,q1,10%
+12/07/2019,"11 Kenure Gate, Park Road, Rush",Dublin,343611.0,Yes,Rush,Co. Dublin,q4,90%
+12/07/2019,"167 Rusheeny Village, Clonsilla, Dublin 15",Dublin,277000.0,No,Rush,Co. Dublin,q3,70%
+15/07/2019,"17 Kenure Gate, Rush",Dublin,279735.0,Yes,Rush,Co. Dublin,q3,70%
+16/07/2019,"35 Golden Ridge Ave, Rush, Dublin",Dublin,295000.0,No,Rush,Co. Dublin,q3,80%
+19/07/2019,"10 Palmer Court, Rush, Dublin",Dublin,230000.0,No,Rush,Co. Dublin,q2,50%
+19/07/2019,"Beachview House, Channel Road, Rush",Dublin,530000.0,Yes,Rush,Co. Dublin,q4,100%
+23/07/2019,"12 Brookford Brooklane Rush, Dublin",Dublin,225000.0,No,Rush,Co. Dublin,q2,50%
+26/07/2019,"21 Ladycove, Palmer Rd, Rush",Dublin,197500.0,No,Rush,Co. Dublin,q1,30%
+29/07/2019,"44 Seafield Court, Rush, Co. Dublin",Dublin,195000.0,No,Rush,Co. Dublin,q1,30%
+29/07/2019,"Hands Lane, Rush, Dublin",Dublin,575000.0,No,Rush,Co. Dublin,q4,100%
+31/07/2019,"10 Drumanaugh Court, Rush",Dublin,519824.0,Yes,Rush,Co. Dublin,q4,100%
+31/07/2019,"70 Tayleurs Point, Rush, Dublin",Dublin,235000.0,No,Rush,Co. Dublin,q2,50%
+01/08/2019,"8 Rogerstown Park, Rush, Dublin",Dublin,510000.0,No,Rush,Co. Dublin,q4,100%
+06/08/2019,"Miramar A Tearmann, Sandy Road, Rush",Dublin,435000.0,No,Rush,Co. Dublin,q4,100%
+08/08/2019,"26 Kenure Gate, Park Road, Rush",Dublin,299559.0,Yes,Rush,Co. Dublin,q3,80%
+08/08/2019,"52 Ravenswell, Palmer Rd, Rush",Dublin,295000.0,No,Rush,Co. Dublin,q3,80%
+09/08/2019,"4 Golden Ridge Green, Rush, Dublin",Dublin,305000.0,No,Rush,Co. Dublin,q4,80%
+09/08/2019,"43 Rushbrook View, Templeogue, Dublin 6W",Dublin,442000.0,No,Rush,Co. Dublin,q4,100%
+09/08/2019,"Old Rd, Rush, Dublin",Dublin,1900000.0,No,Rush,Co. Dublin,q4,100%
+13/08/2019,"135 Rusheeny View, Hartstown, Dublin 15",Dublin,310000.0,No,Rush,Co. Dublin,q4,80%
+13/08/2019,"6 Millbank Walk, Old Rd, Rush",Dublin,328000.0,No,Rush,Co. Dublin,q4,80%
+15/08/2019,"4 Clifflands, Skerris Rd, Rush",Dublin,485000.0,No,Rush,Co. Dublin,q4,100%
+16/08/2019,"11 Goldenridge View, Skerries Rd, Rush",Dublin,285000.0,No,Rush,Co. Dublin,q3,70%
+20/08/2019,"12 Ceol Na Mara, Rush, Dublin",Dublin,195000.0,No,Rush,Co. Dublin,q1,30%
+20/08/2019,"15 Goldenridge Dr, Skerries Rd, Rush",Dublin,285000.0,No,Rush,Co. Dublin,q3,70%
+20/08/2019,"16 Ceol Na Mara, Rush, Dublin",Dublin,195000.0,No,Rush,Co. Dublin,q1,30%
+20/08/2019,"27 Knightsgate Crescent, Rush",Dublin,295154.19,Yes,Rush,Co. Dublin,q3,80%
+21/08/2019,"24 Knightsgate Crescent, Rush, Dublin",Dublin,292952.0,Yes,Rush,Co. Dublin,q3,70%
+22/08/2019,"12 Drumanagh Court, Kilbush Lane, Rush",Dublin,519823.0,Yes,Rush,Co. Dublin,q4,100%
+23/08/2019,"13 Knightsgate Crescent, Rush, Co. Dublin",Dublin,301762.0,Yes,Rush,Co. Dublin,q4,80%
+26/08/2019,"9 Knightsgate Crescent, Rush",Dublin,297356.83,Yes,Rush,Co. Dublin,q3,80%
+27/08/2019,"11 Drumanagh Court, Kilbush Lane, Rush",Dublin,519823.78,Yes,Rush,Co. Dublin,q4,100%
+27/08/2019,"17 Knightsgate Crescent, Rush, County Dublin",Dublin,290748.0,Yes,Rush,Co. Dublin,q3,70%
+27/08/2019,"25 Knightsgate Crescent, Rush",Dublin,295154.19,Yes,Rush,Co. Dublin,q3,80%
+27/08/2019,"29 Knightsgate Crescent, Rush",Dublin,299559.0,Yes,Rush,Co. Dublin,q3,80%
+27/08/2019,"34 Knightsgate Crescent, Rush",Dublin,299559.0,Yes,Rush,Co. Dublin,q3,80%
+27/08/2019,"35 Knightsgate Crescent, Rush, Co. Dublin",Dublin,299559.0,Yes,Rush,Co. Dublin,q3,80%
+27/08/2019,"36 Knightsgate Crescent, Knightsgate, Rush",Dublin,303964.76,Yes,Rush,Co. Dublin,q4,80%
+28/08/2019,"1 Brookford, Brook Lane, Rush",Dublin,343500.0,No,Rush,Co. Dublin,q4,90%
+28/08/2019,"The Admiral Coast Road, Rogerstown, Rush",Dublin,580000.0,No,Rush,Co. Dublin,q4,100%
+30/08/2019,"18 Knightsgate Crescent, Rush",Dublin,290748.9,Yes,Rush,Co. Dublin,q3,70%
+30/08/2019,"28 Knightsgate Crescent, Rush",Dublin,295154.19,Yes,Rush,Co. Dublin,q3,80%
+02/09/2019,"15 Ladycove, Palmer Rd, Rush",Dublin,245000.0,No,Rush,Co. Dublin,q3,60%
+02/09/2019,"22 Knightsgate Crescent, Rush, Co. Dublin",Dublin,290749.0,Yes,Rush,Co. Dublin,q3,70%
+02/09/2019,"26 Knightsgate Crescent, Rush",Dublin,295100.0,Yes,Rush,Co. Dublin,q3,80%
+02/09/2019,"32 Knightsgate Crescent, Rush",Dublin,299559.42,Yes,Rush,Co. Dublin,q3,80%
+04/09/2019,"11 Knightsgate Crescent, Rush, Co Dublin",Dublin,299559.0,Yes,Rush,Co. Dublin,q3,80%
+04/09/2019,"19 Knightsgate Crescent, Rush",Dublin,285450.0,Yes,Rush,Co. Dublin,q3,70%
+05/09/2019,"16 Knightsgate Crescent, Rush, Co. Dublin",Dublin,321586.0,Yes,Rush,Co. Dublin,q4,80%
+06/09/2019,"1 St Catherines Drive, Rush, Dublin",Dublin,300000.0,No,Rush,Co. Dublin,q4,80%
+06/09/2019,"12 The Crescent, Knightsgate, Rush",Dublin,296262.5,Yes,Rush,Co. Dublin,q3,80%
+06/09/2019,"30 Rushbrook Park, Templeogue, Dublin 6W",Dublin,440000.0,No,Rush,Co. Dublin,q4,100%
+06/09/2019,"47 Rushbrook Est, Blanchardstown, Dublin 15",Dublin,420000.0,No,Rush,Co. Dublin,q4,100%
+09/09/2019,"8 Knightsgate Crescent, Rush",Dublin,299600.0,Yes,Rush,Co. Dublin,q3,80%
+11/09/2019,"2 Knightsgate Crescent, Rush, Co. Dublin",Dublin,292951.0,Yes,Rush,Co. Dublin,q3,70%
+11/09/2019,"24 Kenure Gate, Park Road, Rush",Dublin,334801.0,Yes,Rush,Co. Dublin,q4,90%
+11/09/2019,"Avondale, Main Street, Rush",Dublin,150000.0,No,Rush,Co. Dublin,q1,10%
+12/09/2019,"1 Knightsgate Crescent, Rush, Co. Dublin",Dublin,321585.0,Yes,Rush,Co. Dublin,q4,80%
+12/09/2019,"4 Knightsgate Crescent, Rush, Co. Dublin",Dublin,297356.0,Yes,Rush,Co. Dublin,q3,80%
+16/09/2019,"15 Knightsgate Crescent, Knightsgate, Rush",Dublin,341675.0,Yes,Rush,Co. Dublin,q4,90%
+16/09/2019,"20 Knightsgate Crescent, Rush",Dublin,290749.0,Yes,Rush,Co. Dublin,q3,70%
+16/09/2019,"23 Knightsgate Crescent, Knightsgate, Rush",Dublin,290748.0,Yes,Rush,Co. Dublin,q3,70%
+16/09/2019,"29A Lower Main Street, Rush, Co Dublin",Dublin,215000.0,No,Rush,Co. Dublin,q2,40%
+16/09/2019,"7 Linn Ban, Doctors Lane, Rush",Dublin,287000.0,No,Rush,Co. Dublin,q3,70%
+18/09/2019,"10 Knightsgate Crescent, Rush",Dublin,299559.47,Yes,Rush,Co. Dublin,q3,80%
+18/09/2019,"21 Knightsgate Crescent, Rush",Dublin,330000.0,Yes,Rush,Co. Dublin,q4,90%
+18/09/2019,"Nirvana, Sundrive Rd, Rush",Dublin,672522.0,No,Rush,Co. Dublin,q4,100%
+20/09/2019,"20 Brookford Park, Rush, Dublin",Dublin,345000.0,No,Rush,Co. Dublin,q4,90%
+23/09/2019,"33 Knightsgate Crescent, Knightsgate, Rush",Dublin,299559.0,Yes,Rush,Co. Dublin,q3,80%
+23/09/2019,"Sundrive Rd, Rush, Dublin",Dublin,435160.0,No,Rush,Co. Dublin,q4,100%
+24/09/2019,"6 Knightsgate Crescent, Rush, County Dublin",Dublin,299559.47,Yes,Rush,Co. Dublin,q3,80%
+25/09/2019,"27 Wooddale Rd, Skerries Rd, Rush",Dublin,280000.0,No,Rush,Co. Dublin,q3,70%
+27/09/2019,"3 Knightsgate Crescent, Rush, Co. Dublin",Dublin,297356.0,Yes,Rush,Co. Dublin,q3,80%
+30/09/2019,"5 Knightsgate Crescent, Rush, Co. Dublin",Dublin,299559.0,Yes,Rush,Co. Dublin,q3,80%
+01/10/2019,"14 Coopersfield, Skerries Rd, Rush",Dublin,316000.0,No,Rush,Co. Dublin,q4,80%
+01/10/2019,"7 Knightsgate Crescent, Rush",Dublin,299559.47,Yes,Rush,Co. Dublin,q3,80%
+04/10/2019,"25 Kenure Gate, Park Road, Rush",Dublin,334801.76,Yes,Rush,Co. Dublin,q4,90%
+04/10/2019,"7 Wooddale Rd, Clifflands, Rush",Dublin,285000.0,No,Rush,Co. Dublin,q3,70%
+08/10/2019,"30 Knightsgate Crescent, Rush, Co. Dublin",Dublin,339207.0,Yes,Rush,Co. Dublin,q4,90%
+11/10/2019,"168 Rusheeney Grove, Rusheeney Village, Clonsilla Dublin 15",Dublin,225000.0,No,Rush,Co. Dublin,q2,50%
+14/10/2019,"16 Kenure Gate, Palner Road, Rush",Dublin,325991.18,Yes,Rush,Co. Dublin,q4,80%

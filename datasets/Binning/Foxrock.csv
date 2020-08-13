@@ -1,0 +1,717 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+15/01/2010,"30 Pine Avenue, Westminster Park, Foxrock",Dublin,440000.0,No,Foxrock,Dublin 18,q1,20%
+18/02/2010,"5 Mountsandel, Brighton Road, Foxrock",Dublin,1496000.0,No,Foxrock,Dublin 18,q4,90%
+19/02/2010,"Kylemhuire, 3 Knocksinna Park, Foxrock",Dublin,742500.0,No,Foxrock,Dublin 18,q3,60%
+15/03/2010,"58 St. Brigid'S Park, Foxrock",Dublin,187500.0,No,Foxrock,Dublin 18,q1,10%
+22/03/2010,"18 Pine Avenue, Westminster Park, Foxrock",Dublin,420000.0,No,Foxrock,Dublin 18,q1,20%
+31/03/2010,"19 St. Brigid'S Park, Foxrock, Dublin 18",Dublin,339500.0,No,Foxrock,Dublin 18,q1,10%
+09/04/2010,"Pipers Croft, Kilteragh Drive, Foxrock",Dublin,990000.0,No,Foxrock,Dublin 18,q4,80%
+21/04/2010,"18 Cairnhill, Westminster Road, Foxrock",Dublin,818000.0,No,Foxrock,Dublin 18,q3,70%
+28/04/2010,"4 Arkle Square, The Chase  Foxrock, Dublin",Dublin,370000.0,No,Foxrock,Dublin 18,q1,10%
+05/05/2010,"45 Tudor Lawns, Foxrock",Dublin,531000.0,No,Foxrock,Dublin 18,q1,30%
+06/05/2010,"12 Beech Park Drive, Foxrock",Dublin,600000.0,No,Foxrock,Dublin 18,q2,40%
+19/05/2010,"114 Foxrock Park, Foxrock, Dublin 18",Dublin,535000.0,No,Foxrock,Dublin 18,q2,30%
+28/05/2010,"40  Leopardstown Grove, Foxrock, Co. Dublin",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+03/06/2010,"69 Tudor Lawns, Foxrock, Dublin 18",Dublin,500000.0,No,Foxrock,Dublin 18,q1,20%
+15/07/2010,"13 Foxrock Green, Foxrock, Dublin",Dublin,275000.0,No,Foxrock,Dublin 18,q1,10%
+30/07/2010,"46 Westminster Lawns, Foxrock",Dublin,682500.0,No,Foxrock,Dublin 18,q2,50%
+06/08/2010,"30 Knocksinna Park, Foxrock",Dublin,605000.0,No,Foxrock,Dublin 18,q2,40%
+10/08/2010,"7 Sycamore Grove, Westminster Park, Foxrock",Dublin,400000.0,No,Foxrock,Dublin 18,q1,10%
+12/08/2010,"71 Tudor Lawns, Foxrock, Dublni 18",Dublin,485000.0,No,Foxrock,Dublin 18,q1,20%
+18/08/2010,"11 Beech Park Road, Foxrock",Dublin,605000.0,No,Foxrock,Dublin 18,q2,40%
+20/08/2010,"9 Dunboy, Brighton Road, Foxrock",Dublin,1400000.0,No,Foxrock,Dublin 18,q4,90%
+24/08/2010,"108 Foxrock Park, Foxrock, Dublin 18",Dublin,520000.0,No,Foxrock,Dublin 18,q1,30%
+31/08/2010,"815000, Leopardstown Road, Foxrock",Dublin,815000.0,No,Foxrock,Dublin 18,q3,70%
+29/09/2010,"61 Foxrock Manor, Foxrock",Dublin,525000.0,No,Foxrock,Dublin 18,q1,30%
+04/10/2010,"8 Knocksinna Park, Foxrock, County Dublin",Dublin,710000.0,No,Foxrock,Dublin 18,q3,60%
+12/10/2010,"Aisling, Kilteragh Drive, Foxrock",Dublin,1175000.0,No,Foxrock,Dublin 18,q4,90%
+20/10/2010,"7 Willow Grove, Cornelscourt, Foxrock",Dublin,432000.0,No,Foxrock,Dublin 18,q1,20%
+27/10/2010,"2 Newpark Lodge, Foxrock, Dublin 18",Dublin,689000.0,No,Foxrock,Dublin 18,q2,50%
+11/11/2010,"7 Grove House, Hainault Road, Foxrock",Dublin,471365.63,Yes,Foxrock,Dublin 18,q1,20%
+12/11/2010,"50 St. Brigid'S Park, Foxrock",Dublin,275000.0,No,Foxrock,Dublin 18,q1,10%
+03/12/2010,"Lus Mor, Torquay Road, Foxrock",Dublin,875000.0,No,Foxrock,Dublin 18,q3,80%
+14/12/2010,"Innisfallen, Kerrymount Avenue, Foxrock",Dublin,2250000.0,No,Foxrock,Dublin 18,q4,100%
+15/12/2010,"Glenstal, Westminster Road, Foxrock",Dublin,1650000.0,No,Foxrock,Dublin 18,q4,100%
+16/12/2010,"161 Foxrock Park, Foxrock",Dublin,690000.0,No,Foxrock,Dublin 18,q3,60%
+14/01/2011,"'Trefluer', Westminster Road, Foxrock  Dublin 18",Dublin,2650000.0,No,Foxrock,Dublin 18,q4,100%
+17/01/2011,"2 Kelston Drive, Foxrock",Dublin,500000.0,No,Foxrock,Dublin 18,q1,20%
+18/02/2011,"16 Foxrock Mount, Foxrock",Dublin,325000.0,No,Foxrock,Dublin 18,q1,10%
+31/03/2011,"20 Kelston Drive, Foxrock, Dubllin 18",Dublin,465000.0,No,Foxrock,Dublin 18,q1,20%
+28/04/2011,"20 Brighton Court, Foxrock, Dublin 18",Dublin,530000.0,No,Foxrock,Dublin 18,q1,30%
+26/05/2011,"6 Kelston Drive, Leopardstown Road, Foxrock",Dublin,455000.0,No,Foxrock,Dublin 18,q1,20%
+27/05/2011,"36 Tudor Lawns, Foxrock, Dublin 18",Dublin,470000.0,No,Foxrock,Dublin 18,q1,20%
+08/06/2011,"126 Foxrock Grove, Foxrock",Dublin,255000.0,No,Foxrock,Dublin 18,q1,10%
+14/07/2011,"3 Kilteragh Drive, Foxrock",Dublin,657000.0,No,Foxrock,Dublin 18,q2,50%
+29/07/2011,"8 The Birches, Torquay Road, Foxrock",Dublin,1575000.0,No,Foxrock,Dublin 18,q4,100%
+02/08/2011,"49 Hainault Road, Foxrock",Dublin,755000.0,No,Foxrock,Dublin 18,q3,60%
+15/08/2011,"11 Kelston Park, Foxrock, Dublin 18",Dublin,450000.0,No,Foxrock,Dublin 18,q1,20%
+19/08/2011,"15 Tudor Lawns, Foxrock, Dublin 18.",Dublin,440000.0,No,Foxrock,Dublin 18,q1,20%
+25/08/2011,"'Lawnside', Gordon Avenue, Foxrock",Dublin,1185000.0,No,Foxrock,Dublin 18,q4,90%
+29/08/2011,"76 Foxrock Manor, Foxrock",Dublin,945000.0,No,Foxrock,Dublin 18,q4,80%
+30/08/2011,"17 Beechpark Road, Foxrock, Dublin 18",Dublin,555000.0,No,Foxrock,Dublin 18,q2,30%
+02/09/2011,"1B Kerrymount Rise, Foxrock",Dublin,640000.0,No,Foxrock,Dublin 18,q2,50%
+07/10/2011,"60 Kilteragh Road, Foxrock, Dublin 18",Dublin,650000.0,No,Foxrock,Dublin 18,q2,50%
+20/10/2011,"6 Brighton Place, Foxrock",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+28/10/2011,"14 Foxrock Green, Kill Lane, Foxrock",Dublin,390000.0,No,Foxrock,Dublin 18,q1,10%
+01/11/2011,"1 Brighton Lodge, Brighton Road, Foxrock",Dublin,292000.0,No,Foxrock,Dublin 18,q1,10%
+03/11/2011,"1 Chesnut Park, Westminister Park, Foxrock",Dublin,330000.0,No,Foxrock,Dublin 18,q1,10%
+09/11/2011,"244 Foxrock Grove, Foxrock",Dublin,168000.0,No,Foxrock,Dublin 18,q1,10%
+22/11/2011,"9 Fey Yerra, Leopardstown Road, Foxrock",Dublin,325000.0,No,Foxrock,Dublin 18,q1,10%
+24/11/2011,"30 Foxrock Green, Foxrock",Dublin,405000.0,No,Foxrock,Dublin 18,q1,10%
+25/11/2011,"24 Foxrock Wood, Foxrock, Dublin 18",Dublin,475000.0,No,Foxrock,Dublin 18,q1,20%
+28/11/2011,"No. 7  Kelston Avenue, Leopardstown Road, Foxrock",Dublin,375000.0,No,Foxrock,Dublin 18,q1,10%
+01/12/2011,"24 Arkle Square, Foxrock",Dublin,310000.0,No,Foxrock,Dublin 18,q1,10%
+09/12/2011,"61 South Park, Foxrock",Dublin,400000.0,No,Foxrock,Dublin 18,q1,10%
+15/12/2011,"55 Hainault Road, Foxrock",Dublin,680000.0,No,Foxrock,Dublin 18,q2,50%
+16/12/2011,"3 Cornelscourt Hill, Foxrock",Dublin,490000.0,No,Foxrock,Dublin 18,q1,20%
+16/12/2011,"73 Foxrock Avenue, Foxrock",Dublin,403000.0,No,Foxrock,Dublin 18,q1,10%
+20/12/2011,"22 The Hedgerows, Foxrock",Dublin,357500.0,No,Foxrock,Dublin 18,q1,10%
+20/12/2011,"Apartment 3, Westminster Hall, Foxrock",Dublin,324500.0,No,Foxrock,Dublin 18,q1,10%
+02/02/2012,"Rockall  The Birches, Torquay Road, Foxrock",Dublin,1400000.0,No,Foxrock,Dublin 18,q4,90%
+09/02/2012,"38 Foxrock Park, Foxrock, Dublin 18",Dublin,415000.0,No,Foxrock,Dublin 18,q1,20%
+10/02/2012,"23 Grange Park, Foxrock, Dublin 18",Dublin,526500.0,No,Foxrock,Dublin 18,q1,30%
+10/02/2012,"Oaktree Lodge, Westminister Road, Foxrock",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+07/03/2012,"41 Beechpark Road, Foxrock, Co Dublin",Dublin,535000.0,No,Foxrock,Dublin 18,q2,30%
+23/03/2012,"6 Knocksinna Park, Foxrock",Dublin,530000.0,No,Foxrock,Dublin 18,q1,30%
+27/03/2012,"10 Hollybrook, Brighton Road, Foxrock",Dublin,400000.0,No,Foxrock,Dublin 18,q1,10%
+02/04/2012,"10 Fe Yerra, Leopardstown Road, Foxrock",Dublin,320000.0,No,Foxrock,Dublin 18,q1,10%
+03/04/2012,"89 Tudor Lawns, Foxrock",Dublin,322000.0,No,Foxrock,Dublin 18,q1,10%
+04/04/2012,"33 Kerrymount Rise, Foxrock",Dublin,325000.0,No,Foxrock,Dublin 18,q1,10%
+05/04/2012,"20 Cairnhill, Westminster Road, Foxrock",Dublin,690000.0,No,Foxrock,Dublin 18,q3,60%
+16/04/2012,"73 & 73A  Kerrymount Rise, Foxrock",Dublin,435000.0,No,Foxrock,Dublin 18,q1,20%
+20/04/2012,"25 Foxrock Avenue, Kill Lane, Foxrock",Dublin,344000.0,No,Foxrock,Dublin 18,q1,10%
+04/05/2012,"18 Kilteragh Road, Foxrock",Dublin,522000.0,No,Foxrock,Dublin 18,q1,30%
+10/05/2012,"Clonmore, Torquay Road, Foxrock",Dublin,1230000.0,No,Foxrock,Dublin 18,q4,90%
+15/05/2012,"59A Kerrymount Rise, Foxrock, Dublin 18",Dublin,400000.0,No,Foxrock,Dublin 18,q1,10%
+05/06/2012,"20 Brighton Hall, Foxrock",Dublin,835000.0,No,Foxrock,Dublin 18,q3,70%
+22/06/2012,"Lissadell, Kill Lane, Foxrock",Dublin,730000.0,No,Foxrock,Dublin 18,q3,60%
+25/06/2012,"10 Kelston Avenue, Foxrock",Dublin,412500.0,No,Foxrock,Dublin 18,q1,20%
+03/07/2012,"27  Arkle Square, The Chase, Foxrock",Dublin,299000.0,No,Foxrock,Dublin 18,q1,10%
+20/07/2012,"6 Brighton Square, Foxrock",Dublin,801000.0,No,Foxrock,Dublin 18,q3,70%
+24/07/2012,"55 South Park, Foxrock, Dublin 18",Dublin,540000.0,No,Foxrock,Dublin 18,q2,30%
+25/07/2012,"10 The Ticket, Foxrock",Dublin,705000.0,No,Foxrock,Dublin 18,q3,60%
+27/07/2012,"The Willows, 24 Avonmore, Foxrock",Dublin,910000.0,No,Foxrock,Dublin 18,q3,80%
+01/08/2012,"29 Beech Park Road, Foxrock, Dublin 18",Dublin,418000.0,No,Foxrock,Dublin 18,q1,20%
+07/08/2012,"85 Kill Lane, Foxrock, Dublin 18",Dublin,440000.0,No,Foxrock,Dublin 18,q1,20%
+07/08/2012,"Brynogue, Westminster Road, Foxrock",Dublin,3450000.0,No,Foxrock,Dublin 18,q4,100%
+21/08/2012,"Carraig, Kill Lane, Foxrock",Dublin,510000.0,No,Foxrock,Dublin 18,q1,30%
+24/08/2012,"Cranford Hainault Road, Foxrock",Dublin,2600000.0,Yes,Foxrock,Dublin 18,q4,100%
+30/08/2012,"7 Kerrymount Green, Foxrock",Dublin,465000.0,No,Foxrock,Dublin 18,q1,20%
+07/09/2012,"Hazelmere, Westminister Road, Foxrock",Dublin,2450000.0,No,Foxrock,Dublin 18,q4,100%
+10/09/2012,"2 The Fairways, Foxrock",Dublin,356000.0,No,Foxrock,Dublin 18,q1,10%
+11/09/2012,"Lynwood, Claremont Pines, Foxrock",Dublin,900000.0,No,Foxrock,Dublin 18,q3,80%
+12/09/2012,"4 Willow Park, Westminster Park, Foxrock",Dublin,330000.0,No,Foxrock,Dublin 18,q1,10%
+14/09/2012,"25 Hollybrook, Brighton Road, Foxrock",Dublin,500000.0,No,Foxrock,Dublin 18,q1,20%
+19/09/2012,"35, Beech Park Road, Foxrock",Dublin,510000.0,No,Foxrock,Dublin 18,q1,30%
+19/09/2012,"Woodlawn, Golf Lane, Foxrock",Dublin,1595000.0,No,Foxrock,Dublin 18,q4,100%
+20/09/2012,"9 Hainault Park, Foxrock",Dublin,970000.0,No,Foxrock,Dublin 18,q4,80%
+28/09/2012,"13 Knocksinna Crescent, Foxrock",Dublin,410000.0,No,Foxrock,Dublin 18,q1,10%
+28/09/2012,"30 South Park, Foxrock",Dublin,500000.0,No,Foxrock,Dublin 18,q1,20%
+01/10/2012,"1C Foxrock Manor, Foxrock",Dublin,750000.0,No,Foxrock,Dublin 18,q3,60%
+26/10/2012,"1 Hollybrook, Brighton Road, Foxrock",Dublin,500000.0,No,Foxrock,Dublin 18,q1,20%
+02/11/2012,"The Orchard, Westminster Road, Foxrock",Dublin,595000.0,No,Foxrock,Dublin 18,q2,40%
+06/11/2012,"27 Foxrock Green, Foxrock",Dublin,560000.0,No,Foxrock,Dublin 18,q2,30%
+07/11/2012,"45 Joyce Avenue, Foxrock",Dublin,674400.0,No,Foxrock,Dublin 18,q2,50%
+07/11/2012,"No 1 The Courtyard, Foxrock",Dublin,456000.0,No,Foxrock,Dublin 18,q1,20%
+15/11/2012,"76 South Park, Foxrock",Dublin,475000.0,No,Foxrock,Dublin 18,q1,20%
+15/11/2012,"82 South Park, Foxrock, Dublin 18",Dublin,532000.0,No,Foxrock,Dublin 18,q1,30%
+23/11/2012,"38 Beechpark Road, Foxrock",Dublin,565000.0,No,Foxrock,Dublin 18,q2,40%
+27/11/2012,"112A Foxrock Grove, Foxrock",Dublin,521585.9,Yes,Foxrock,Dublin 18,q1,30%
+30/11/2012,"17 Brighton Square, Brighton Road, Foxrock",Dublin,835000.0,No,Foxrock,Dublin 18,q3,70%
+11/12/2012,"Altmor, Brighton Road, Foxrock",Dublin,1700000.0,No,Foxrock,Dublin 18,q4,100%
+13/12/2012,"Apt 43 Hollybrook, Brighton Road, Foxrock",Dublin,377500.0,No,Foxrock,Dublin 18,q1,10%
+14/12/2012,"1 The Fairways, Foxrock",Dublin,382000.0,No,Foxrock,Dublin 18,q1,10%
+14/12/2012,"47 Tudor Lawns, Foxrock, Dublin 18",Dublin,455000.0,No,Foxrock,Dublin 18,q1,20%
+14/12/2012,"Dorval, 18 Kilteragh Drive, Foxrock",Dublin,700000.0,No,Foxrock,Dublin 18,q3,60%
+20/12/2012,"26  Westminister Lawns, Foxrock",Dublin,565000.0,No,Foxrock,Dublin 18,q2,40%
+03/01/2013,"75 Foxrock Avenue, Foxrock",Dublin,420000.0,No,Foxrock,Dublin 18,q1,20%
+09/01/2013,"Apartment 5 Kelston Avenue, Leopardstown Road, Foxrock",Dublin,335000.0,No,Foxrock,Dublin 18,q1,10%
+15/01/2013,"11 The Coppins, Foxrock",Dublin,655000.0,No,Foxrock,Dublin 18,q2,50%
+01/03/2013,"13 Foxrock Avenue, Foxrock, Dublin 18",Dublin,475111.0,No,Foxrock,Dublin 18,q1,20%
+01/03/2013,"15 Brighton Square, Off Brighton Road, Foxrock",Dublin,730925.0,No,Foxrock,Dublin 18,q3,60%
+07/03/2013,"Grassmere, Westminster Road, Foxrock",Dublin,1775000.0,No,Foxrock,Dublin 18,q4,100%
+28/03/2013,"20 Hollybrook, Brighton Road, Foxrock",Dublin,625000.0,No,Foxrock,Dublin 18,q2,40%
+28/03/2013,"46 Hainault Road, Foxrock",Dublin,610000.0,No,Foxrock,Dublin 18,q2,40%
+16/04/2013,"31 Hollybrook, Brighton Road, Foxrock",Dublin,350000.0,No,Foxrock,Dublin 18,q1,10%
+25/04/2013,"'Gortanore', Brighton Road, Foxrock",Dublin,5050000.0,No,Foxrock,Dublin 18,q4,100%
+29/04/2013,"244 Foxrock Grove, Foxrock, Co Dublin",Dublin,275000.0,No,Foxrock,Dublin 18,q1,10%
+02/05/2013,"130 Foxrock Grove, Foxrock",Dublin,270000.0,No,Foxrock,Dublin 18,q1,10%
+14/05/2013,"Willow Cottage, Westminister Road, Foxrock",Dublin,775000.0,No,Foxrock,Dublin 18,q3,70%
+29/05/2013,"256 Foxrock Close, Foxrock",Dublin,282000.0,No,Foxrock,Dublin 18,q1,10%
+29/05/2013,"27 Hollybrook, Brighton Road, Foxrock",Dublin,535000.0,No,Foxrock,Dublin 18,q2,30%
+30/05/2013,"129 Foxrock Park  Foxrock, Dublin 18",Dublin,450000.0,No,Foxrock,Dublin 18,q1,20%
+07/06/2013,"51 Clonkeen Drive, Foxrock",Dublin,442000.0,No,Foxrock,Dublin 18,q1,20%
+11/06/2013,"50 Cairn Hill, Westminster Road, Foxrock",Dublin,882500.0,No,Foxrock,Dublin 18,q3,80%
+14/06/2013,"171A Foxrock Close, Foxrock, Dublin",Dublin,273000.0,No,Foxrock,Dublin 18,q1,10%
+17/06/2013,"46 Foxrock Avenue, Foxrock",Dublin,435000.0,No,Foxrock,Dublin 18,q1,20%
+18/06/2013,"28 Kilteragh Road, Foxrock, Co Dublin",Dublin,680000.0,No,Foxrock,Dublin 18,q2,50%
+21/06/2013,"173A Foxrock Close, Foxrock",Dublin,387500.0,No,Foxrock,Dublin 18,q1,10%
+21/06/2013,"68 Foxrock Avenue, Foxrock, Dublin 18",Dublin,499500.0,No,Foxrock,Dublin 18,q1,20%
+24/06/2013,"6 Kelston View, Leopardstown Road, Foxrock",Dublin,505000.0,No,Foxrock,Dublin 18,q1,30%
+26/06/2013,"31 Foxrock Wood, Foxrock, Dublin 18",Dublin,457000.0,No,Foxrock,Dublin 18,q1,20%
+28/06/2013,"'Avoca' 55 Hainault Rd, Foxrock",Dublin,760000.0,No,Foxrock,Dublin 18,q3,60%
+28/06/2013,"26 The Thicket, Foxrock",Dublin,782500.0,No,Foxrock,Dublin 18,q3,70%
+01/07/2013,"35 Foxrock Manor, Leopardstown Road, Foxrock",Dublin,955000.0,No,Foxrock,Dublin 18,q4,80%
+05/07/2013,"59A Foxrock Park, Foxrock, Dublin18",Dublin,545000.0,No,Foxrock,Dublin 18,q2,30%
+10/07/2013,"34 Cairn Hill, Westminister Road, Foxrock",Dublin,640000.0,No,Foxrock,Dublin 18,q2,50%
+12/07/2013,"26 Cairn Hill, Westminster Road, Foxrock",Dublin,883333.0,No,Foxrock,Dublin 18,q3,80%
+12/07/2013,"47 Westminister Lawns, Foxrock",Dublin,560000.0,No,Foxrock,Dublin 18,q2,40%
+15/07/2013,"8 Carrickmines Little, Brighton Road, Foxrock",Dublin,875000.0,No,Foxrock,Dublin 18,q3,80%
+18/07/2013,"Balorney  Gordon Avenue, Foxrock",Dublin,750000.0,No,Foxrock,Dublin 18,q3,60%
+19/07/2013,"3C Foxrock Manor, Foxrock, Dublin 18",Dublin,760000.0,No,Foxrock,Dublin 18,q3,60%
+19/07/2013,"Annamoe, Hainault Road, Foxrock",Dublin,1720000.0,No,Foxrock,Dublin 18,q4,100%
+30/07/2013,"109 Tudor Lawns, Foxrock, Dublin 18",Dublin,475000.0,No,Foxrock,Dublin 18,q1,20%
+02/08/2013,"6A Foxrock Manor, Foxrock, D/18",Dublin,725000.0,No,Foxrock,Dublin 18,q3,60%
+08/08/2013,"33 Hollybrook, Brighton Rd, Foxrock",Dublin,375000.0,No,Foxrock,Dublin 18,q1,10%
+12/08/2013,"27 Beech Park Road, Foxrock",Dublin,542000.0,No,Foxrock,Dublin 18,q2,30%
+16/08/2013,"50  Foxrock Manor, Foxrock, Dublin 18",Dublin,760000.0,No,Foxrock,Dublin 18,q3,60%
+26/08/2013,"12 Avonmore, Foxrock",Dublin,725000.0,No,Foxrock,Dublin 18,q3,60%
+26/08/2013,"27 Clonkeen Drive, Foxrock",Dublin,540000.0,No,Foxrock,Dublin 18,q2,30%
+30/08/2013,"27 Brighton Avenue, Foxrock",Dublin,600000.0,No,Foxrock,Dublin 18,q2,40%
+30/08/2013,"Knockaderry, Kilteragh Drive, Foxrock",Dublin,1040000.0,No,Foxrock,Dublin 18,q4,80%
+02/09/2013,"54 Clonkeen Drive, Foxrock, Dublin 18",Dublin,534250.0,No,Foxrock,Dublin 18,q2,30%
+12/09/2013,"12 St. Brigid'S Park, Cornelscourt, Foxrock",Dublin,255000.0,No,Foxrock,Dublin 18,q1,10%
+12/09/2013,"4 Birchdale, Westminster Park, Foxrock",Dublin,420000.0,No,Foxrock,Dublin 18,q1,20%
+13/09/2013,"4 Brighton Avenue, Brighton Road, Foxrock",Dublin,797000.0,No,Foxrock,Dublin 18,q3,70%
+18/09/2013,"11 Kilteragh Pines, Westminster Rd Foxrock, Dublin 18",Dublin,575000.0,No,Foxrock,Dublin 18,q2,40%
+25/09/2013,"45 Foxrock Park, Foxrock, Dublin 18",Dublin,455000.0,No,Foxrock,Dublin 18,q1,20%
+01/10/2013,"Spanish Point, Mart Lane, Foxrock",Dublin,705000.0,No,Foxrock,Dublin 18,q3,60%
+11/10/2013,"74 Clonkeen Drive, Foxrock, Dublin 18",Dublin,610000.0,No,Foxrock,Dublin 18,q2,40%
+11/10/2013,"Ivy House, Beech Park Road, Foxrock",Dublin,493393.0,Yes,Foxrock,Dublin 18,q1,20%
+16/10/2013,"25 Arkle Square, The Chase, Foxrock",Dublin,375000.0,No,Foxrock,Dublin 18,q1,10%
+18/10/2013,"Amberley, Kill Lane, Foxrock",Dublin,600000.0,No,Foxrock,Dublin 18,q2,40%
+18/10/2013,"Sorrento, 19 Hainault Park, Foxrock",Dublin,1300000.0,No,Foxrock,Dublin 18,q4,90%
+25/10/2013,"79 Foxrock Manor, Leopardstown Road, Foxrock",Dublin,780000.0,No,Foxrock,Dublin 18,q3,70%
+29/10/2013,"53 Hainault Road, Foxrock",Dublin,735000.0,No,Foxrock,Dublin 18,q3,60%
+05/11/2013,"18 Clonkeen Drive, Foxrock, Dublin 18",Dublin,545000.0,No,Foxrock,Dublin 18,q2,30%
+07/11/2013,"22 Clonkeen Drive, Foxrock, Dublin 18",Dublin,650000.0,No,Foxrock,Dublin 18,q2,50%
+08/11/2013,"18 Brighton Square, Brighton Road, Foxrock",Dublin,845000.0,No,Foxrock,Dublin 18,q3,70%
+08/11/2013,"7 Kerrymount Rise, Foxrock, Dublin 7",Dublin,590000.0,No,Foxrock,Dublin 18,q2,40%
+15/11/2013,"13 Foxrock Mount, Dublin 18, Dublin",Dublin,333500.0,No,Foxrock,Dublin 18,q1,10%
+15/11/2013,"24 Foxrock Court, Dublin 18, Dublin",Dublin,585000.0,No,Foxrock,Dublin 18,q2,40%
+22/11/2013,"13 Kelston Hall, Leopardstown Road, Foxrock",Dublin,330000.0,No,Foxrock,Dublin 18,q1,10%
+27/11/2013,"3 Avonmore, Foxrock, Dublin 18",Dublin,1310000.0,No,Foxrock,Dublin 18,q4,90%
+02/12/2013,"Pine Lodge, Torquay Rd, Foxrock Dublin 18",Dublin,1185000.0,No,Foxrock,Dublin 18,q4,90%
+03/12/2013,"12 Foxrock Green, Foxrock, Dublin 18",Dublin,460000.0,No,Foxrock,Dublin 18,q1,20%
+04/12/2013,"3 The Coppins, Foxrock, Dublin 18",Dublin,970000.0,No,Foxrock,Dublin 18,q4,80%
+11/12/2013,"2 St. Brigid'S Close, Foxrock",Dublin,326000.0,No,Foxrock,Dublin 18,q1,10%
+17/12/2013,"60 Beechpark Rd, Foxrock, Dublin 18",Dublin,850000.0,No,Foxrock,Dublin 18,q3,70%
+20/12/2013,"5 Fey Yerra, Leopardstown Rd, Foxrock Dublin 18",Dublin,320000.0,No,Foxrock,Dublin 18,q1,10%
+23/12/2013,"11 The Birches, Torquay Road, Foxrock",Dublin,1300000.0,No,Foxrock,Dublin 18,q4,90%
+23/12/2013,"26 Claremount, Foxrock",Dublin,414977.98,Yes,Foxrock,Dublin 18,q1,20%
+23/12/2013,"44 Hollybrook, Brighton Rd, Foxrock Dublin 18",Dublin,375000.0,No,Foxrock,Dublin 18,q1,10%
+21/01/2014,"Stillwater House, 59 Hainault Rd, Foxrock Dublin 18",Dublin,1310000.0,No,Foxrock,Dublin 18,q4,90%
+31/01/2014,"3 Kilteragh Road, Foxrock",Dublin,1205000.0,No,Foxrock,Dublin 18,q4,90%
+31/01/2014,"Roslyn, Westminter Road, Foxrock",Dublin,690000.0,No,Foxrock,Dublin 18,q3,60%
+04/02/2014,"48 Beech Park Drive, Foxrock",Dublin,617000.0,No,Foxrock,Dublin 18,q2,40%
+11/02/2014,"16 Brighton Sq, Brighton Rd, Foxrock Dublin 18",Dublin,850000.0,No,Foxrock,Dublin 18,q3,70%
+12/02/2014,"24 The Hedgerows, Foxrock, Dublin 18",Dublin,380000.0,No,Foxrock,Dublin 18,q1,10%
+13/02/2014,"26 Brighton Place, Foxrock, Dublin 18",Dublin,655000.0,No,Foxrock,Dublin 18,q2,50%
+14/02/2014,"11 Cornelscourt Hill Rd, Foxrock, Dublin 18",Dublin,610000.0,No,Foxrock,Dublin 18,q2,40%
+17/02/2014,"48A South Park, Foxrock, Co Dublin",Dublin,390000.0,No,Foxrock,Dublin 18,q1,10%
+24/02/2014,"44 Foxrock Park, Foxrock, Dublin 18",Dublin,675000.0,No,Foxrock,Dublin 18,q2,50%
+11/03/2014,"22 The Hedgerows, Foxrock Village, Dublin 18",Dublin,380000.0,No,Foxrock,Dublin 18,q1,10%
+11/03/2014,"39 South Park, Foxrock, Dublin 18",Dublin,485000.0,No,Foxrock,Dublin 18,q1,20%
+19/03/2014,"28 Pine Ave, Westminster Park, Foxrock Dublin 18",Dublin,399000.0,No,Foxrock,Dublin 18,q1,10%
+19/03/2014,"Four Seasons, Westminister Road, Foxrock",Dublin,950000.0,No,Foxrock,Dublin 18,q4,80%
+21/03/2014,"2 Willow Park, Westminster Park, Foxrock Dublin 18",Dublin,450000.0,No,Foxrock,Dublin 18,q1,20%
+28/03/2014,"'Suantrai', Knocksinna, Foxrock",Dublin,1409700.0,Yes,Foxrock,Dublin 18,q4,90%
+28/03/2014,"Lus Mor, Torquay Rd, Foxrock Dublin 18",Dublin,1050000.0,No,Foxrock,Dublin 18,q4,80%
+31/03/2014,"Raford, Knocksinna, Foxrock Dublin 18",Dublin,1497797.3,Yes,Foxrock,Dublin 18,q4,90%
+02/04/2014,"Beechwood, Gordon Ave, Foxrock Dublin 18",Dublin,1599000.0,No,Foxrock,Dublin 18,q4,100%
+16/04/2014,"18 South Park, Foxrock, Dublin 18",Dublin,795000.0,No,Foxrock,Dublin 18,q3,70%
+02/05/2014,"3 Kelston Park, Foxrock, Dublin 18",Dublin,537500.0,No,Foxrock,Dublin 18,q2,30%
+09/05/2014,"Weavers Hall, Plunkett Avenue, Foxrock",Dublin,294500.0,No,Foxrock,Dublin 18,q1,10%
+20/05/2014,"Apt 6 Grove House, Hainault Road, Foxrock",Dublin,500000.0,No,Foxrock,Dublin 18,q1,20%
+23/05/2014,"28 Kilteragh Road, Foxrock, Dublin 18",Dublin,825000.0,No,Foxrock,Dublin 18,q3,70%
+06/06/2014,"7 Brighton Square, Foxrock, Dublin 18",Dublin,775331.0,Yes,Foxrock,Dublin 18,q3,70%
+09/06/2014,"44 Beechpark Rd, Foxrock, Dublin 18",Dublin,677000.0,No,Foxrock,Dublin 18,q2,50%
+13/06/2014,"Glenbeigh, Torquay Rd, Foxrock Dublin 18",Dublin,500000.0,No,Foxrock,Dublin 18,q1,20%
+17/06/2014,"57 South Park, Foxrock, Dublin 18",Dublin,630000.0,No,Foxrock,Dublin 18,q2,50%
+20/06/2014,"23 Foxrock Court, Foxrock, Dublin 18",Dublin,690000.0,No,Foxrock,Dublin 18,q3,60%
+01/07/2014,"21 Brighton Sq, Brighton Rd, Foxrock Dublin 18",Dublin,713625.0,No,Foxrock,Dublin 18,q3,60%
+01/07/2014,"Old Court, Brighton Avenue, Foxrock",Dublin,1450000.0,No,Foxrock,Dublin 18,q4,90%
+04/07/2014,"13 Kelston Park, Leopardstown Rd, Foxrock Dublin 18",Dublin,640000.0,No,Foxrock,Dublin 18,q2,50%
+08/07/2014,"42 St Brigids Park, Foxrock, Dublin",Dublin,330000.0,No,Foxrock,Dublin 18,q1,10%
+16/07/2014,"22 Brighton Square, Brighton Road, Foxrock",Dublin,735683.0,Yes,Foxrock,Dublin 18,q3,60%
+22/07/2014,"170 Foxrock Close, Foxrock, Dublin",Dublin,275000.0,No,Foxrock,Dublin 18,q1,10%
+29/07/2014,"17 Kelston Ave, Foxrock, Dublin 18",Dublin,350000.0,No,Foxrock,Dublin 18,q1,10%
+29/07/2014,"33 Foxrock Green, Foxrock, Dublin 18",Dublin,591000.0,No,Foxrock,Dublin 18,q2,40%
+01/08/2014,"28 The Coppins, Brighton Road, Foxrock",Dublin,820000.0,No,Foxrock,Dublin 18,q3,70%
+08/08/2014,"11 Fey Yerra, Leopardstown Road, Foxrock D/18",Dublin,416000.0,No,Foxrock,Dublin 18,q1,20%
+12/08/2014,"Auburn Lodge, Golf Lane, Foxrock",Dublin,1700000.0,No,Foxrock,Dublin 18,q4,100%
+18/08/2014,"Cratloe Mart Lane, Foxrock",Dublin,800000.0,Yes,Foxrock,Dublin 18,q3,70%
+18/08/2014,"Loughall, Mart Lane, Foxrock",Dublin,2200000.0,Yes,Foxrock,Dublin 18,q4,100%
+20/08/2014,"34 Grange Park, Foxrock, Dublin 18",Dublin,649000.0,No,Foxrock,Dublin 18,q2,50%
+21/08/2014,"17 St Brigids Park, Foxrock, Dublin 18",Dublin,420000.0,No,Foxrock,Dublin 18,q1,20%
+26/08/2014,"5 St Brigids Close, Foxrock, Dublin",Dublin,380000.0,No,Foxrock,Dublin 18,q1,10%
+28/08/2014,"11 Sycamore Grove, Westminster Park, Foxrock Dublin 18",Dublin,525000.0,No,Foxrock,Dublin 18,q1,30%
+08/09/2014,"Killmantain, Westminister Road, Foxrock",Dublin,1400000.0,No,Foxrock,Dublin 18,q4,90%
+11/09/2014,"9 Brighton Square, Foxrock, Dublin 18",Dublin,815859.0,Yes,Foxrock,Dublin 18,q3,70%
+12/09/2014,"252 Foxrock Close, Foxrock, Dublin 18",Dublin,265000.0,No,Foxrock,Dublin 18,q1,10%
+19/09/2014,"25 Foxrock Wood, Foxrock, Dublin",Dublin,665000.0,No,Foxrock,Dublin 18,q2,50%
+22/09/2014,"Alderford, Kill Lane, Foxrock Dublin 18",Dublin,921500.0,No,Foxrock,Dublin 18,q3,80%
+29/09/2014,"Stanford House, Westminster Rd, Foxrock Dublin 18",Dublin,3000000.0,No,Foxrock,Dublin 18,q4,100%
+30/09/2014,"78A Foxrock Manor, Foxrock, Dublin 18",Dublin,1190000.0,No,Foxrock,Dublin 18,q4,90%
+03/10/2014,"Craiglea, Gordon Ave, Foxrock",Dublin,1040000.0,No,Foxrock,Dublin 18,q4,80%
+08/10/2014,"1 Kelston Park, Leopardstown Road, Foxrock",Dublin,513000.0,No,Foxrock,Dublin 18,q1,30%
+08/10/2014,"10 Brighton Square, Brighton Road, Foxrock",Dublin,811453.74,Yes,Foxrock,Dublin 18,q3,70%
+08/10/2014,"4 Kelston Avenue, Leopardstown Road, Foxrock",Dublin,522500.0,No,Foxrock,Dublin 18,q1,30%
+08/10/2014,"7 Kelston Drive, Leopardstown Road, Foxrock",Dublin,546250.0,No,Foxrock,Dublin 18,q2,30%
+13/10/2014,"36 Kilteragh Rd, Foxrock, Dublin 18",Dublin,952500.0,No,Foxrock,Dublin 18,q4,80%
+16/10/2014,"1 Cairn Hill, Foxrock, Dublin 18",Dublin,753000.0,No,Foxrock,Dublin 18,q3,60%
+16/10/2014,"7 The Coppins, Foxrock, Dublin 18",Dublin,750000.0,No,Foxrock,Dublin 18,q3,60%
+24/10/2014,"5 Brighton Sq, Brighton Rd, Foxrock Dublin 18",Dublin,950000.0,No,Foxrock,Dublin 18,q4,80%
+31/10/2014,"32 Hollybrook, Brighton Rd, Foxrock",Dublin,490000.0,No,Foxrock,Dublin 18,q1,20%
+06/11/2014,"14 Foxrock Mount, Foxrock, Dublin 18",Dublin,610000.0,No,Foxrock,Dublin 18,q2,40%
+14/11/2014,"34 Foxrock Manor, Foxrock, Dublin 18",Dublin,950000.0,No,Foxrock,Dublin 18,q4,80%
+14/11/2014,"Dalriada, Claremont Rd, Foxrock Dublin 18",Dublin,1090000.0,No,Foxrock,Dublin 18,q4,90%
+20/11/2014,"Mountgorry, Mart Lane, Foxrock Dublin 18",Dublin,1310000.0,No,Foxrock,Dublin 18,q4,90%
+04/12/2014,"3 Brighton Sq, Brighton Rd, Foxrock Dublin 18",Dublin,926077.53,Yes,Foxrock,Dublin 18,q4,80%
+09/12/2014,"Montserrat, Torquay Rd, Foxrock Dublin 18",Dublin,1075000.0,No,Foxrock,Dublin 18,q4,90%
+12/12/2014,"20 Brighton Sq, Brighton Rd, Foxrock Dublin 18",Dublin,755947.0,No,Foxrock,Dublin 18,q3,60%
+15/12/2014,"1 Sefton Hall Kelston, Leopardstown Rd, Foxrock Dublin 18",Dublin,392500.0,No,Foxrock,Dublin 18,q1,10%
+15/12/2014,"11 Westminster Lawns, Leopardstown Rd, Foxrock Dublin 18",Dublin,712000.0,No,Foxrock,Dublin 18,q3,60%
+15/12/2014,"52 Beech Park Dr, Foxrock, Dublin 18",Dublin,718000.0,No,Foxrock,Dublin 18,q3,60%
+17/12/2014,"Laurel Lodge, Torquay Road, Foxrock",Dublin,1350000.0,No,Foxrock,Dublin 18,q4,90%
+18/12/2014,"56 Clonkeen Dr, Foxrock, Dublin 18",Dublin,620000.0,No,Foxrock,Dublin 18,q2,40%
+19/12/2014,"8 Brighton Sq, Brighton Rd, Foxrock Dublin 18",Dublin,976000.0,No,Foxrock,Dublin 18,q4,80%
+07/01/2015,"Loughgall, Mart Lane, Foxrock Dublin 18",Dublin,2800000.0,No,Foxrock,Dublin 18,q4,100%
+12/01/2015,"81 South Park, Foxrock",Dublin,760000.0,No,Foxrock,Dublin 18,q3,60%
+14/01/2015,"8 South Park, Foxrock, Dublin 18",Dublin,599000.0,No,Foxrock,Dublin 18,q2,40%
+26/02/2015,"19  Brighton Square, Foxrock, Dublin 18",Dublin,870000.0,No,Foxrock,Dublin 18,q3,80%
+12/03/2015,"13 St Brigids Park, Foxrock, Dublin 18",Dublin,428000.0,No,Foxrock,Dublin 18,q1,20%
+12/03/2015,"4 Brighton Square, Foxrock, Dublin 18",Dublin,1025000.0,No,Foxrock,Dublin 18,q4,80%
+26/03/2015,"130 Foxrock Park, Foxrock, Dublin 18",Dublin,557500.0,No,Foxrock,Dublin 18,q2,30%
+14/04/2015,"102 Foxrock Ave, Foxrock, Dublin",Dublin,505000.0,No,Foxrock,Dublin 18,q1,30%
+22/04/2015,"14 South Park, Foxrock, Co Dublin",Dublin,625000.0,No,Foxrock,Dublin 18,q2,40%
+23/04/2015,"10 Torquay Wood, Foxrock",Dublin,745000.0,No,Foxrock,Dublin 18,q3,60%
+24/04/2015,"11 The Birches, Torquay Rd, Foxrock Dublin 18",Dublin,1445000.0,No,Foxrock,Dublin 18,q4,90%
+24/04/2015,"29 Foxrock Park, Foxrock, Dublin 18",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+28/04/2015,"110 Foxrock Park, Dublin 18",Dublin,565000.0,No,Foxrock,Dublin 18,q2,40%
+01/05/2015,"23 Brighton Avenue, Foxrock, Dublin 18",Dublin,810000.0,No,Foxrock,Dublin 18,q3,70%
+11/05/2015,"155 Foxrock Park, Foxrock, Dublin 18",Dublin,200000.0,No,Foxrock,Dublin 18,q1,10%
+25/05/2015,"24 Kill Lane, Deansgrange, Foxrock",Dublin,500000.0,No,Foxrock,Dublin 18,q1,20%
+25/05/2015,"3 Kerrymount Rise, Foxrock, Dublin 18",Dublin,660000.0,No,Foxrock,Dublin 18,q2,50%
+25/05/2015,"Navarone, Brennanstown Road, Foxrock",Dublin,1300000.0,No,Foxrock,Dublin 18,q4,90%
+04/06/2015,"6 The Courtyard, Foxrock Park, Dublin 18",Dublin,520000.0,No,Foxrock,Dublin 18,q1,30%
+05/06/2015,"Laragh, Beech Park Rd, Foxrock Dublin 18",Dublin,600000.0,No,Foxrock,Dublin 18,q2,40%
+15/06/2015,"42, Kilteragh Road, Foxrock",Dublin,775000.0,No,Foxrock,Dublin 18,q3,70%
+15/06/2015,"Mazemore, Torquay Road, Foxrock",Dublin,958250.0,No,Foxrock,Dublin 18,q4,80%
+19/06/2015,"Whitewood Cottage, Torquay Road, Foxrock",Dublin,1100501.0,No,Foxrock,Dublin 18,q4,90%
+23/06/2015,"155A Foxrock Park, Foxrock, Dublin 15",Dublin,430000.0,No,Foxrock,Dublin 18,q1,20%
+23/06/2015,"3 Kelston Hall, Leopardstown Rd, Foxrock",Dublin,380000.0,No,Foxrock,Dublin 18,q1,10%
+25/06/2015,"Currane, Gordon Avenue, Foxrock",Dublin,1400000.0,No,Foxrock,Dublin 18,q4,90%
+30/06/2015,"Four Winds, Brighton Road, Foxrock",Dublin,3450000.0,No,Foxrock,Dublin 18,q4,100%
+01/07/2015,"Glenshee  Torquay Road, Foxrock",Dublin,2050000.0,No,Foxrock,Dublin 18,q4,100%
+02/07/2015,"17 Sefton Hall, Kelston, Foxrock Dublin 18",Dublin,400000.0,No,Foxrock,Dublin 18,q1,10%
+02/07/2015,"7 The Courtyard, Foxrock Park, Foxrock Dublin 18",Dublin,505000.0,No,Foxrock,Dublin 18,q1,30%
+29/07/2015,"Sideways, 6A Foxrock Ave, Foxrock Dublin 18",Dublin,622500.0,No,Foxrock,Dublin 18,q2,40%
+30/07/2015,"27 Cairn Hill, Westminster Rd, Foxrock Dublin 18",Dublin,760000.0,No,Foxrock,Dublin 18,q3,60%
+13/08/2015,"59 Beechpark Road, Foxrock",Dublin,970000.0,No,Foxrock,Dublin 18,q4,80%
+14/08/2015,"40 Brighton Ave, Foxrock, Dublin 18",Dublin,640000.0,No,Foxrock,Dublin 18,q2,50%
+17/08/2015,"64 Foxrock Ave, Foxrock, Dublin",Dublin,565000.0,No,Foxrock,Dublin 18,q2,40%
+27/08/2015,"128 Foxrock Park, Foxrock, Dublin 18",Dublin,772500.0,No,Foxrock,Dublin 18,q3,70%
+28/08/2015,"48 South Park, Foxrock, Dublin 18",Dublin,507000.0,No,Foxrock,Dublin 18,q1,30%
+31/08/2015,"153 Foxrock Park, Dublin 18, Dublin",Dublin,600000.0,No,Foxrock,Dublin 18,q2,40%
+01/09/2015,"167A Foxrock Close, Foxrock, Dublin 18",Dublin,415000.0,No,Foxrock,Dublin 18,q1,20%
+04/09/2015,"5 Kilteragh Pines, Foxrock, Dublin 18",Dublin,575000.0,No,Foxrock,Dublin 18,q2,40%
+04/09/2015,"80 Beech Park Rd, Foxrock, Dublin 18",Dublin,655000.0,No,Foxrock,Dublin 18,q2,50%
+08/09/2015,"20 South Park, Foxrock, Dublin 18",Dublin,675000.0,No,Foxrock,Dublin 18,q2,50%
+18/09/2015,"6 Kelston Dr, Leopardstown Rd, Foxrock Dublin 18",Dublin,555000.0,No,Foxrock,Dublin 18,q2,30%
+21/09/2015,"Glencot, Hainault Rd, Foxrock Dublin 18",Dublin,1210000.0,No,Foxrock,Dublin 18,q4,90%
+30/09/2015,"65 Kill Abbey, Deansgrange Foxrock, Dublin 18",Dublin,520000.0,No,Foxrock,Dublin 18,q1,30%
+06/10/2015,"Lismallon, Westminster Rd, Foxrock Dublin 18",Dublin,2500000.0,No,Foxrock,Dublin 18,q4,100%
+19/10/2015,"9 Brighton Place, Brighton Rd, Foxrock Dublin 18",Dublin,710000.0,No,Foxrock,Dublin 18,q3,60%
+22/10/2015,"38 Beech Park Drive, Foxrock",Dublin,500000.0,No,Foxrock,Dublin 18,q1,20%
+22/10/2015,"Pembrin, Beech Park Road, Foxrock",Dublin,1680000.0,No,Foxrock,Dublin 18,q4,100%
+23/10/2015,"1 Brighton Sq, Brighton Rd, Foxrock Dublin 18",Dublin,1150000.0,No,Foxrock,Dublin 18,q4,90%
+23/10/2015,"26 Tudor Lawns, Foxrock, Dublin 18",Dublin,604000.0,No,Foxrock,Dublin 18,q2,40%
+27/10/2015,"14 Torquay Wood, Foxrock, Dublin 18",Dublin,765000.0,No,Foxrock,Dublin 18,q3,60%
+28/10/2015,"34 Westminster Lawns, Foxrock, Dublin 18",Dublin,775000.0,No,Foxrock,Dublin 18,q3,70%
+30/10/2015,"173 Foxrock Close, Dublin 18, Dublin",Dublin,457500.0,No,Foxrock,Dublin 18,q1,20%
+02/11/2015,"36 Foxrock Green, Foxrock, Dublin 18",Dublin,570000.0,No,Foxrock,Dublin 18,q2,40%
+03/11/2015,"16 Kelston Hall, Leopardstown Rd, Foxrock Dublin 18",Dublin,447000.0,No,Foxrock,Dublin 18,q1,20%
+10/11/2015,"1 Fey Yerra, Leopardstown Rd, Foxrock Dublin 18",Dublin,484000.0,No,Foxrock,Dublin 18,q1,20%
+24/11/2015,"4 Sycamore Grove, Westminster Park, Foxrock Dublin 18",Dublin,435000.0,No,Foxrock,Dublin 18,q1,20%
+26/11/2015,"17 Foxrock Green, Foxrock Park, Dublin",Dublin,650000.0,No,Foxrock,Dublin 18,q2,50%
+27/11/2015,"2 Hainault Dr, Foxrock, Dublin 18",Dublin,630000.0,No,Foxrock,Dublin 18,q2,50%
+03/12/2015,"104 Tudor Lawns, Foxrock, Dublin 18",Dublin,586500.0,No,Foxrock,Dublin 18,q2,40%
+03/12/2015,"51 Hainault Rd, Foxrock, Dublin 18",Dublin,900000.0,No,Foxrock,Dublin 18,q3,80%
+11/12/2015,"176 Foxrock Close, Foxrock, Dublin 18",Dublin,555000.0,No,Foxrock,Dublin 18,q2,30%
+11/12/2015,"3 South Park, Foxrock",Dublin,770000.0,No,Foxrock,Dublin 18,q3,70%
+15/12/2015,"Kiribili, Westminister Road, Foxrock",Dublin,900000.0,No,Foxrock,Dublin 18,q3,80%
+18/12/2015,"4 The Thicket, Hainault Road, Foxrock",Dublin,800000.0,No,Foxrock,Dublin 18,q3,70%
+04/01/2016,"2 Brighton Sq, Brighton Rd, Foxrock Dublin 18",Dublin,1150000.0,No,Foxrock,Dublin 18,q4,90%
+06/01/2016,"1 Chestnut Park, Westminster Park, Foxrock",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+15/01/2016,"10 Beech Park Rd, Foxrock, Dublin 18",Dublin,770000.0,No,Foxrock,Dublin 18,q3,70%
+18/01/2016,"7 Brighton Lodge, Brighton Rd, Foxrock Dublin 18",Dublin,376000.0,No,Foxrock,Dublin 18,q1,10%
+20/01/2016,"120 Tudor Lawns, Foxrock, Dublin 18",Dublin,555000.0,No,Foxrock,Dublin 18,q2,30%
+22/01/2016,"37 Tudor Lawns, Foxrock, Dublin 18",Dublin,535000.0,No,Foxrock,Dublin 18,q2,30%
+25/01/2016,"27 Rocwood, Foxrock, Dubliln 18",Dublin,645000.0,No,Foxrock,Dublin 18,q2,50%
+29/01/2016,"16 Foxrock Green, Foxrock Park, Foxrock Dublin 18",Dublin,650000.0,No,Foxrock,Dublin 18,q2,50%
+05/02/2016,"1 Fey Yerra Wood, Fey Yerra, Foxrock",Dublin,814977.0,Yes,Foxrock,Dublin 18,q3,70%
+05/02/2016,"Falconwood, 30 Hainault Rd, Foxrock",Dublin,827500.0,No,Foxrock,Dublin 18,q3,70%
+16/02/2016,"8 Beechpark Rd, Foxrock, Dublin 18",Dublin,660000.0,No,Foxrock,Dublin 18,q2,50%
+26/02/2016,"167A Foxrock Close, Foxrock, Dublin 18",Dublin,415000.0,No,Foxrock,Dublin 18,q1,20%
+03/03/2016,"11 Hollybrook, Brighton Rd, Foxrock Dublin 18",Dublin,655000.0,No,Foxrock,Dublin 18,q2,50%
+04/03/2016,"4 Fey Yerra Wood  Fey Yerra, Leopardstown Road, Foxrock",Dublin,779736.0,Yes,Foxrock,Dublin 18,q3,70%
+04/03/2016,"Windemere, Westminister Road, Foxrock",Dublin,3150000.0,No,Foxrock,Dublin 18,q4,100%
+09/03/2016,"24 Foxrock Mount, Foxrock",Dublin,520000.0,No,Foxrock,Dublin 18,q1,30%
+16/03/2016,"Seamount, 32 Hainault Rd, Foxrock Dublin 18",Dublin,766104.0,No,Foxrock,Dublin 18,q3,70%
+22/03/2016,"27 Kerrymount Rise, Foxrock, Dublin 18",Dublin,662000.0,No,Foxrock,Dublin 18,q2,50%
+23/03/2016,"Mangerton, Westminster Road, Foxrock",Dublin,2750000.0,No,Foxrock,Dublin 18,q4,100%
+04/04/2016,"Winthorpe, Claremont Road, Foxrock",Dublin,1539427.31,Yes,Foxrock,Dublin 18,q4,100%
+08/04/2016,"2 The Hedgerows, Foxrock, Dublin 18",Dublin,555000.0,No,Foxrock,Dublin 18,q2,30%
+15/04/2016,"10 Hollybrook, Brighton Rd, Foxrock",Dublin,640000.0,No,Foxrock,Dublin 18,q2,50%
+21/04/2016,"31 Foxrock Park, Kill Lane, Dublin 18",Dublin,620000.0,No,Foxrock,Dublin 18,q2,40%
+22/04/2016,"13 Brighton Place, Foxrock, Dublin 18",Dublin,918000.0,No,Foxrock,Dublin 18,q3,80%
+26/04/2016,"Mildmay, Leopardstown Rd, Foxrock Dublin 18",Dublin,1875000.0,No,Foxrock,Dublin 18,q4,100%
+03/05/2016,"Ambleside, Kill Lane, Foxrock Dublin 18",Dublin,543000.0,No,Foxrock,Dublin 18,q2,30%
+05/05/2016,"Teach Rua, Brighton Rd, Foxrock Dublin 18",Dublin,1800000.0,No,Foxrock,Dublin 18,q4,100%
+13/05/2016,"Mandeville, Torquay Rd, Foxrock Dublin 18",Dublin,1850000.0,No,Foxrock,Dublin 18,q4,100%
+20/05/2016,"14 Carrickmines Chase, Carrickmines Wood, Foxrock",Dublin,1100000.0,No,Foxrock,Dublin 18,q4,90%
+24/05/2016,"6 St Brigids Park, Foxrock, Dublin 18",Dublin,370000.0,No,Foxrock,Dublin 18,q1,10%
+27/05/2016,"Haydock, Westminster Rd, Foxrock Dublin 18",Dublin,1235000.0,No,Foxrock,Dublin 18,q4,90%
+02/06/2016,"5 Chestnut Park West, Minister Park, Foxrock Dublin 18",Dublin,502000.0,No,Foxrock,Dublin 18,q1,30%
+03/06/2016,"100 Tudor Lawns, Foxrock, Dublin 18",Dublin,545000.0,No,Foxrock,Dublin 18,q2,30%
+03/06/2016,"3 South Park, Foxrock, Dublin 18",Dublin,495000.0,No,Foxrock,Dublin 18,q1,20%
+09/06/2016,"41 South Park, Foxrock, Dublin 18",Dublin,545000.0,No,Foxrock,Dublin 18,q2,30%
+10/06/2016,"1 The Hedgerows, Foxrock Village, Foxrock",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+10/06/2016,"2 Foxrock Ave, Foxrock, Dublin 18",Dublin,580000.0,No,Foxrock,Dublin 18,q2,40%
+16/06/2016,"59 South Park, Foxrock, Dublin 18",Dublin,625000.0,No,Foxrock,Dublin 18,q2,40%
+17/06/2016,"8A Foxrock Manor, Leopardstown Rd, Foxrock",Dublin,880000.0,No,Foxrock,Dublin 18,q3,80%
+28/06/2016,"Oakmount, The Birches, Foxrock",Dublin,2150000.0,No,Foxrock,Dublin 18,q4,100%
+01/07/2016,"15 Foxrock Court, Foxrock, Dublin 18",Dublin,657000.0,No,Foxrock,Dublin 18,q2,50%
+01/07/2016,"18 Whites Cross, Foxrock, Dublin",Dublin,600000.0,No,Foxrock,Dublin 18,q2,40%
+01/07/2016,"5 Kill Lane, Foxrock, Dublin 18",Dublin,620000.0,No,Foxrock,Dublin 18,q2,40%
+06/07/2016,"40 Hollybrook Apts, Brighton Rd, Foxrock",Dublin,895000.0,No,Foxrock,Dublin 18,q3,80%
+11/07/2016,"Arly, Kill Lane, Foxrock Dublin 18",Dublin,715000.0,No,Foxrock,Dublin 18,q3,60%
+12/07/2016,"18 Whites Cross, Foxrock, Dublin",Dublin,600000.0,No,Foxrock,Dublin 18,q2,40%
+15/07/2016,"2 Westminster Court, Foxrock, Dublin 18",Dublin,450000.0,No,Foxrock,Dublin 18,q1,20%
+21/07/2016,"13 Sycamore Grove, Westminster Park, Foxrock Dublin 18",Dublin,485000.0,No,Foxrock,Dublin 18,q1,20%
+22/07/2016,"18 Hainault Dr, Foxrock, Dublin 18",Dublin,635000.0,No,Foxrock,Dublin 18,q2,50%
+25/07/2016,"Greencroft, Claremont Road, Foxrock",Dublin,755000.0,No,Foxrock,Dublin 18,q3,60%
+26/07/2016,"New Build, Torquay Road, Foxrock",Dublin,1317181.0,Yes,Foxrock,Dublin 18,q4,90%
+28/07/2016,"10 St Brigids Park, Foxrock, Dublin 18",Dublin,385000.0,No,Foxrock,Dublin 18,q1,10%
+04/08/2016,"21 Foxrock Wood, Foxrock, Dublin 18",Dublin,625000.0,No,Foxrock,Dublin 18,q2,40%
+05/08/2016,"27 Kilteragh Rd, Foxrock, Dublin 18",Dublin,907500.0,No,Foxrock,Dublin 18,q3,80%
+23/08/2016,"9 Brighton Lodge, Brighton Rd, Foxrock Dublin 18",Dublin,375000.0,No,Foxrock,Dublin 18,q1,10%
+24/08/2016,"Charlotte Grove, Torquay Rd, Foxrock Dublin 18",Dublin,2400000.0,No,Foxrock,Dublin 18,q4,100%
+26/08/2016,"1 Newpark Apts, Newtown Park Ave, Foxrock",Dublin,365000.0,No,Foxrock,Dublin 18,q1,10%
+26/08/2016,"29 Leopardstown Park, Foxrock, Dublin 18",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+29/08/2016,"22 Hollybrook Apts, Brighton Rd, Foxrock Dublin 18",Dublin,825000.0,No,Foxrock,Dublin 18,q3,70%
+30/08/2016,"Kilteragh Drive, Foxrock, Dublin",Dublin,1115000.0,No,Foxrock,Dublin 18,q4,90%
+05/09/2016,"52 South Park, Foxrock, Dublin 18",Dublin,610000.0,No,Foxrock,Dublin 18,q2,40%
+14/09/2016,"Arabella, Claremont Road, Foxrock",Dublin,1735682.82,Yes,Foxrock,Dublin 18,q4,100%
+15/09/2016,"The Orchard, Westminster Rd, Foxrock",Dublin,925000.0,No,Foxrock,Dublin 18,q3,80%
+19/09/2016,"100 South Park, Foxrock, Dublin 18",Dublin,690000.0,No,Foxrock,Dublin 18,q3,60%
+19/09/2016,"62 South Park, Foxrock, Dublin 18",Dublin,625000.0,No,Foxrock,Dublin 18,q2,40%
+19/09/2016,"Te Aroha, 146 Foxrock Park, Foxrock Dublin 18",Dublin,600250.0,No,Foxrock,Dublin 18,q2,40%
+26/09/2016,"15 Kelston Dr, Leopardstown Rd, Foxrock Dublin 18",Dublin,575000.0,No,Foxrock,Dublin 18,q2,40%
+27/09/2016,"Clonbur, Torquay Rd, Foxrock",Dublin,2000000.0,No,Foxrock,Dublin 18,q4,100%
+29/09/2016,"5 Beech Park Ave, Foxrock, Dublin 18",Dublin,705000.0,No,Foxrock,Dublin 18,q3,60%
+30/09/2016,"18 Foxrock Mount, Foxrock Park, Dublin 18",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+07/10/2016,"119 Tudor Lawns, Foxrock, Dublin 18",Dublin,500000.0,No,Foxrock,Dublin 18,q1,30%
+07/10/2016,"Slievenamon, 20 Hainault Grove, Foxrock Dublin 18",Dublin,500000.0,No,Foxrock,Dublin 18,q1,30%
+10/10/2016,"39 Foxrock Green, Foxrock, Dublin 18",Dublin,860000.0,No,Foxrock,Dublin 18,q3,80%
+13/10/2016,"16 Kerrymount Rise, Foxrock, Dublin 18",Dublin,795000.0,No,Foxrock,Dublin 18,q3,70%
+14/10/2016,"Suncroft, Mart Lane, Foxrock Dublin 18",Dublin,1875000.0,No,Foxrock,Dublin 18,q4,100%
+24/10/2016,"28 Pine Ave, Westminster Park, Foxrock Dublin 18",Dublin,560000.0,No,Foxrock,Dublin 18,q2,40%
+01/11/2016,"49 Tudor Lawns, Foxrock, Dublin 18",Dublin,514000.0,No,Foxrock,Dublin 18,q1,30%
+01/11/2016,"6 Pembrin Wood, Beechpark Road, Foxrock",Dublin,969162.99,Yes,Foxrock,Dublin 18,q4,80%
+10/11/2016,"51 Westminster Lawns, Foxrock, Dublin 18",Dublin,750000.0,No,Foxrock,Dublin 18,q3,60%
+14/11/2016,"5 Pembrin Wood, Beech Park Road, Foxrock",Dublin,881057.0,Yes,Foxrock,Dublin 18,q3,80%
+15/11/2016,"5 Kilteragh Dr, Foxrock, Dublin 18",Dublin,1250000.0,No,Foxrock,Dublin 18,q4,90%
+18/11/2016,"Latona, Torquay Rd, Foxrock",Dublin,1610000.0,No,Foxrock,Dublin 18,q4,100%
+21/11/2016,"Casa Mia, Gordon Ave, Foxrock Dublin 18",Dublin,1575000.0,No,Foxrock,Dublin 18,q4,100%
+23/11/2016,"1 Foxrock Court, Foxrock, Dublin 18",Dublin,630000.0,No,Foxrock,Dublin 18,q2,50%
+02/12/2016,"77 Tudor Lawns, Foxrock, Dublin 18",Dublin,475000.0,No,Foxrock,Dublin 18,q1,20%
+08/12/2016,"Grianan, Foxrock Park, Foxrock Dublin 18",Dublin,790000.0,No,Foxrock,Dublin 18,q3,70%
+14/12/2016,"'Sancta Maria', Brighton Road, Foxrock",Dublin,3150000.0,No,Foxrock,Dublin 18,q4,100%
+15/12/2016,"123 Foxrock Park, Foxrock, Dublin 18",Dublin,770000.0,No,Foxrock,Dublin 18,q3,70%
+15/12/2016,"23 Foxrock Green, Foxrock, Dublin",Dublin,600000.0,No,Foxrock,Dublin 18,q2,40%
+16/12/2016,"10 Hainault Pk, Foxrock, Dublin 18",Dublin,1125000.0,No,Foxrock,Dublin 18,q4,90%
+16/12/2016,"34 Beech Park Rd, Foxrock, Dublin 18",Dublin,765000.0,No,Foxrock,Dublin 18,q3,70%
+21/12/2016,"106 Foxrock Ave, Foxrock, Dublin 18",Dublin,630000.0,No,Foxrock,Dublin 18,q2,50%
+11/01/2017,"165 Foxrock Close, Deansgrange, Dublin 18",Dublin,575000.0,No,Foxrock,Dublin 18,q2,40%
+11/01/2017,"Corofin, Torquay Rd, Foxrock Dublin 18",Dublin,1055000.0,No,Foxrock,Dublin 18,q4,90%
+12/01/2017,"57 Foxrock Ave, Foxrock, Dublin 18",Dublin,841651.0,No,Foxrock,Dublin 18,q3,70%
+19/01/2017,"8 Pembrin Wood, Beech Park Wood, Foxrock",Dublin,810572.65,Yes,Foxrock,Dublin 18,q3,70%
+20/01/2017,"29 Westminster Lawns, Foxrock, Dublin 18",Dublin,850000.0,No,Foxrock,Dublin 18,q3,70%
+31/01/2017,"Silkwood, The By Way, Foxrock Dublin 18",Dublin,2175000.0,No,Foxrock,Dublin 18,q4,100%
+08/02/2017,"7 Beech Park Dr, Foxrock, Dublin 18",Dublin,741000.0,No,Foxrock,Dublin 18,q3,60%
+10/02/2017,"16 Avonmore, Foxrock, Dublin 18",Dublin,1050000.0,No,Foxrock,Dublin 18,q4,80%
+10/02/2017,"37 Westminster Lawns, Foxrock, Dublin 18",Dublin,785000.0,No,Foxrock,Dublin 18,q3,70%
+14/02/2017,"38 Brighton Ave, Foxrock, Dublin 18",Dublin,910000.0,No,Foxrock,Dublin 18,q3,80%
+17/02/2017,"40 Kerrymount Rise, Foxrock, Dublin 18",Dublin,650000.0,No,Foxrock,Dublin 18,q2,50%
+17/02/2017,"7 Brennanstown Vale, Foxrock, Dublin 18",Dublin,2353000.0,No,Foxrock,Dublin 18,q4,100%
+23/02/2017,"4 Pembrin Wood, Beechpark Road, Foxrock",Dublin,876651.0,Yes,Foxrock,Dublin 18,q3,80%
+03/03/2017,"18 Beech Park Rd, Foxrock, Dublin 18",Dublin,781000.0,No,Foxrock,Dublin 18,q3,70%
+06/03/2017,"3 Kelston House, Whites Cross, Foxrock Dublin 18",Dublin,700000.0,No,Foxrock,Dublin 18,q3,60%
+09/03/2017,"Glenasmole, Brighton Rd, Foxrock Dublin 18",Dublin,1530000.0,No,Foxrock,Dublin 18,q4,100%
+09/03/2017,"Pine Lodge, Torquay Rd, Foxrock Dublin 18",Dublin,1270000.0,No,Foxrock,Dublin 18,q4,90%
+20/03/2017,"The Bungalow, 36A Beechpark Dr, Foxrock Dublin 18",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+23/03/2017,"2 Knocksinna Park, Foxrock, Dublin 18",Dublin,757000.0,No,Foxrock,Dublin 18,q3,60%
+28/03/2017,"57 St Brigids Park, Foxrock, Dublin 18",Dublin,491789.0,No,Foxrock,Dublin 18,q1,20%
+29/03/2017,"6 The Coppins, Foxrock, Dublin 18",Dublin,870000.0,No,Foxrock,Dublin 18,q3,80%
+11/04/2017,"9 Pembrin Wood, Beechpark Road, Foxrock",Dublin,814978.0,Yes,Foxrock,Dublin 18,q3,70%
+13/04/2017,"7 Pembrin Wood, Beech Park Road, Foxrock",Dublin,876651.0,Yes,Foxrock,Dublin 18,q3,80%
+14/04/2017,"109 Tudor Lawns, Foxrock, Dublin 18",Dublin,630000.0,No,Foxrock,Dublin 18,q2,50%
+21/04/2017,"10 Cairn Hill, Foxrock, Dublin 18",Dublin,875000.0,No,Foxrock,Dublin 18,q3,80%
+25/04/2017,"49 St Brigid'S Park, Foxrock, Dublin 18",Dublin,385000.0,No,Foxrock,Dublin 18,q1,10%
+27/04/2017,"Glenstal Close, Westminster Rd, Foxrock",Dublin,930000.0,No,Foxrock,Dublin 18,q4,80%
+27/04/2017,"Stanford House, Westminster Rd, Foxrock Dublin 18",Dublin,4000000.0,No,Foxrock,Dublin 18,q4,100%
+08/05/2017,"4 New Park, Whites Cross, Foxrock",Dublin,395000.0,No,Foxrock,Dublin 18,q1,10%
+15/05/2017,"1 Kinloch, Gordon Avenue, Foxrock",Dublin,1233480.0,Yes,Foxrock,Dublin 18,q4,90%
+16/05/2017,"Hainault House, Hainault Rd, Foxrock Dublin 18",Dublin,2200000.0,No,Foxrock,Dublin 18,q4,100%
+17/05/2017,"3 South Park Dr, Foxrock, Dublin 18",Dublin,760000.0,No,Foxrock,Dublin 18,q3,60%
+25/05/2017,"24 Brighton Hall, Foxrock, Dublin 18",Dublin,950000.0,No,Foxrock,Dublin 18,q4,80%
+26/05/2017,"32 Kilteragh Road, Foxrock, Dublin 18",Dublin,870000.0,No,Foxrock,Dublin 18,q3,80%
+31/05/2017,"2 Brighton Court, Brighton Rd, Foxrock",Dublin,757500.0,No,Foxrock,Dublin 18,q3,60%
+09/06/2017,"35 Tudor Lawns, Foxrock, Dublin 18",Dublin,710000.0,No,Foxrock,Dublin 18,q3,60%
+20/06/2017,"41 Cairn Hill, Westminster Rd, Foxrock Dublin 18",Dublin,845000.0,No,Foxrock,Dublin 18,q3,70%
+21/06/2017,"90 South Park, Foxrock, Dublin 18",Dublin,855000.0,No,Foxrock,Dublin 18,q3,80%
+23/06/2017,"1 Willow Grove, Foxrock, Dublin 18",Dublin,675000.0,No,Foxrock,Dublin 18,q2,50%
+23/06/2017,"5A Foxrock Manor, Leopardstown Rd, Foxrock Dublin 18",Dublin,850000.0,No,Foxrock,Dublin 18,q3,70%
+23/06/2017,"Oak House, 1 Hainault Road, Foxrock",Dublin,1825000.0,No,Foxrock,Dublin 18,q4,100%
+26/06/2017,"3A South Park, Foxrock, Dublin 18",Dublin,969162.0,Yes,Foxrock,Dublin 18,q4,80%
+28/06/2017,"30 Foxrock Green, Foxrock, Dublin 18",Dublin,580000.0,No,Foxrock,Dublin 18,q2,40%
+06/07/2017,"31 Foxrock Mount, Foxrock Park, Dublin 18",Dublin,585000.0,No,Foxrock,Dublin 18,q2,40%
+06/07/2017,"Greenwood, Brighton Rd, Foxrock Dublin 18",Dublin,1440000.0,No,Foxrock,Dublin 18,q4,90%
+07/07/2017,"2 Kinloch, Gordon Avenue, Foxrock",Dublin,660800.0,Yes,Foxrock,Dublin 18,q2,50%
+10/07/2017,"14 Kilteragh Dr, Foxrock, Dublin 18",Dublin,1300000.0,No,Foxrock,Dublin 18,q4,90%
+11/07/2017,"7 Pine Avenue, Foxrock, Dublin 18",Dublin,560000.0,No,Foxrock,Dublin 18,q2,40%
+18/07/2017,"Cullenwaine, Torquay Rd, Foxrock Dublin 18",Dublin,2600000.0,No,Foxrock,Dublin 18,q4,100%
+20/07/2017,"13 South Park, Foxrock, Dublin 18",Dublin,665000.0,No,Foxrock,Dublin 18,q2,50%
+27/07/2017,"2 Whitethorn Walk, Westminster Park, Foxrock Dublin 18",Dublin,610000.0,No,Foxrock,Dublin 18,q2,40%
+28/07/2017,"47 Hollybrook, Brighton Rd, Foxrock Dublin 18",Dublin,485000.0,No,Foxrock,Dublin 18,q1,20%
+28/07/2017,"72 South Park, Foxrock, Dublin 18",Dublin,755000.0,No,Foxrock,Dublin 18,q3,60%
+03/08/2017,"3 Sefton Hall, Kelston, Foxrock Dublin 18",Dublin,421000.0,No,Foxrock,Dublin 18,q1,20%
+09/08/2017,"21 Tudor Lawns, Foxrock, Dublin 18",Dublin,655000.0,No,Foxrock,Dublin 18,q2,50%
+09/08/2017,"Suncroft, Mart Lane, Foxrock Dublin 18",Dublin,1700000.0,No,Foxrock,Dublin 18,q4,100%
+11/08/2017,"25 Kelston Ave, Foxrock, Dublin 18",Dublin,430500.0,No,Foxrock,Dublin 18,q1,20%
+14/08/2017,"40 South Park, Foxrock, Dublin 18",Dublin,695000.0,No,Foxrock,Dublin 18,q3,60%
+18/08/2017,"17 Kelston Ave, Foxrock, Dublin 18",Dublin,425000.0,No,Foxrock,Dublin 18,q1,20%
+18/08/2017,"20 Pine Ave, Westminster Park, Foxrock Dublin 18",Dublin,565000.0,No,Foxrock,Dublin 18,q2,40%
+22/08/2017,"22 Hollybrook Apts, Brighton Rd, Foxrock Dublin 18",Dublin,995000.0,No,Foxrock,Dublin 18,q4,80%
+29/08/2017,"101 Tudor Lawns, Foxrock, Dublin 18",Dublin,576000.0,No,Foxrock,Dublin 18,q2,40%
+05/09/2017,"Apt 7, Westminister Hall, Foxrock Dublin 18",Dublin,750000.0,No,Foxrock,Dublin 18,q3,60%
+08/09/2017,"48 Westminster Lawns, Foxrock, Dublin 18",Dublin,867000.0,No,Foxrock,Dublin 18,q3,80%
+08/09/2017,"Racess House, Foxrock Crescent, Foxrock Dublin 18",Dublin,598000.0,No,Foxrock,Dublin 18,q2,40%
+14/09/2017,"10 Pembrin Wood, Beechpark Road, Foxrock",Dublin,713656.38,Yes,Foxrock,Dublin 18,q3,60%
+21/09/2017,"36 South Park, Foxrock, Dublin 18",Dublin,775000.0,No,Foxrock,Dublin 18,q3,70%
+26/09/2017,"72 Beechpark Rd, Foxrock Dublin 18, Dublin",Dublin,740000.0,No,Foxrock,Dublin 18,q3,60%
+03/10/2017,"15 Foxrock Green, Foxrock, Dublin 18",Dublin,640000.0,No,Foxrock,Dublin 18,q2,50%
+06/10/2017,"Gleneagle Lodge, Brighton Rd, Foxrock Dublin 18",Dublin,960000.0,No,Foxrock,Dublin 18,q4,80%
+13/10/2017,"4 Brighton Hall, Brighton Rd Foxrock, Dublin 18",Dublin,1287500.0,No,Foxrock,Dublin 18,q4,90%
+13/10/2017,"Hermitage, Westminster Rd, Foxrock Dublin 18",Dublin,1900000.0,No,Foxrock,Dublin 18,q4,100%
+23/10/2017,"Aras Eibear, Brennanstown Rd, Foxrock",Dublin,1750000.0,No,Foxrock,Dublin 18,q4,100%
+24/10/2017,"44 Hollybrook, Brighton Rd, Foxrock Dublin 18",Dublin,530000.0,No,Foxrock,Dublin 18,q1,30%
+24/10/2017,"54 Beech Park Dr, Foxrock, Dublin 18",Dublin,755000.0,No,Foxrock,Dublin 18,q3,60%
+24/10/2017,"57 Hainault Rd, Foxrock, Dublin",Dublin,950000.0,No,Foxrock,Dublin 18,q4,80%
+26/10/2017,"49 Joyce Ave, Foxrock, Dublin 18",Dublin,825000.0,No,Foxrock,Dublin 18,q3,70%
+26/10/2017,"63 Tudor Lawns, Foxrock, Dublin 18",Dublin,625000.0,No,Foxrock,Dublin 18,q2,40%
+08/11/2017,"6 The Hedgerows, Foxrock, Dublin 18",Dublin,560000.0,No,Foxrock,Dublin 18,q2,40%
+14/11/2017,"6 The Hedgerows, Foxrock, Dublin 18",Dublin,560000.0,No,Foxrock,Dublin 18,q2,40%
+14/11/2017,"Glenarm, Torquay Road, Foxrock",Dublin,4000000.0,No,Foxrock,Dublin 18,q4,100%
+17/11/2017,"12 Kilteragh Road, Foxrock, Dublin 18",Dublin,830000.0,No,Foxrock,Dublin 18,q3,70%
+22/11/2017,"Annacrivey, Kill Lane Foxrock, Dublin 18",Dublin,866000.0,No,Foxrock,Dublin 18,q3,80%
+23/11/2017,"Nendrum, Knocksinna, Foxrock Dublin 18",Dublin,1960000.0,No,Foxrock,Dublin 18,q4,100%
+29/11/2017,"5 Tudor Lawns, Leopardstown Rd, Foxrock Dublin 18",Dublin,665000.0,No,Foxrock,Dublin 18,q2,50%
+05/12/2017,"42 Hollybrook Apts, Brighton Rd, Foxrock Dublin 18",Dublin,991500.0,No,Foxrock,Dublin 18,q4,80%
+08/12/2017,"26 Hollybrook Apts, Brighton Rd, Foxrock Dublin 18",Dublin,772500.0,No,Foxrock,Dublin 18,q3,70%
+14/12/2017,"29 Foxrock Ave, Foxrock, Dublin 18",Dublin,702500.0,No,Foxrock,Dublin 18,q3,60%
+14/12/2017,"Kinros, Leopardstown Rd, Foxrock",Dublin,1400000.0,No,Foxrock,Dublin 18,q4,90%
+15/12/2017,"9 Westminster Hall, Westminster Rd, Foxrock Dublin 18",Dublin,645000.0,No,Foxrock,Dublin 18,q2,50%
+15/12/2017,"Amberwell, Brighton Rd, Foxrock",Dublin,1400000.0,No,Foxrock,Dublin 18,q4,90%
+18/12/2017,"Sanabria, Kerrymount Ave, Foxrock Dublin 18",Dublin,4000000.0,No,Foxrock,Dublin 18,q4,100%
+22/12/2017,"21 Knocksinna Park, Foxrock, Dublin 18",Dublin,1280000.0,No,Foxrock,Dublin 18,q4,90%
+22/12/2017,"Aldington, Hainault Road, Foxrock",Dublin,2026431.72,Yes,Foxrock,Dublin 18,q4,100%
+08/01/2018,"3 Kerrymount Rise, Foxrock, Dublin 18",Dublin,685000.0,No,Foxrock,Dublin 18,q2,50%
+12/01/2018,"44 Beech Park Dr, Foxrock, Dublin 18",Dublin,792500.0,No,Foxrock,Dublin 18,q3,70%
+15/01/2018,"Oldcourt, Brighton Ave, Foxrock Dublin 18",Dublin,1300000.0,No,Foxrock,Dublin 18,q4,90%
+31/01/2018,"67 Foxrock Ave, Foxrock, Dublin 18",Dublin,750000.0,No,Foxrock,Dublin 18,q3,60%
+02/02/2018,"5 Dunboy, Brighton Rd, Foxrock Dublin 18",Dublin,1150000.0,No,Foxrock,Dublin 18,q4,90%
+12/02/2018,"21 Hainault Dr, Foxrock, Dublin 18",Dublin,740000.0,No,Foxrock,Dublin 18,q3,60%
+12/02/2018,"Ard Na Ros, Brighton Rd, Foxrock Dublin 18",Dublin,1200000.0,No,Foxrock,Dublin 18,q4,90%
+15/02/2018,"87 Kill Lane, Foxrock, Dublin 18",Dublin,765000.0,No,Foxrock,Dublin 18,q3,70%
+20/02/2018,"22 Hollybrook Apts, Brighton Rd, Foxrock Dublin 18",Dublin,1090000.0,No,Foxrock,Dublin 18,q4,90%
+22/02/2018,"20 Foxrock Manor, Foxrock, Dublin",Dublin,900000.0,No,Foxrock,Dublin 18,q3,80%
+26/02/2018,"33 Beech Park Rd, Foxrock, Dublin 18",Dublin,815000.0,No,Foxrock,Dublin 18,q3,70%
+06/03/2018,"114 Tudor Lawns, Foxrock, Dublin 18",Dublin,625000.0,No,Foxrock,Dublin 18,q2,40%
+08/03/2018,"12 Kelston Ave, Foxrock, Dublin 18",Dublin,525000.0,No,Foxrock,Dublin 18,q1,30%
+09/03/2018,"67 Foxrock Park, Foxrock, Dublin",Dublin,695000.0,No,Foxrock,Dublin 18,q3,60%
+12/03/2018,"Malindi Lodge, Westminster Rd, Foxrock",Dublin,1750000.0,No,Foxrock,Dublin 18,q4,100%
+15/03/2018,"15 Brighton Sq, Brighton Rd, Foxrock Dublin 18",Dublin,1075000.0,No,Foxrock,Dublin 18,q4,90%
+16/03/2018,"15 The Hedgerows, Foxrock Village, Foxrock Dublin 18",Dublin,600000.0,No,Foxrock,Dublin 18,q2,40%
+20/03/2018,"145 Foxrock Park, Foxrock, Dublin",Dublin,670000.0,No,Foxrock,Dublin 18,q2,50%
+23/03/2018,"28 The Coppins, Brighton Rd, Foxrock",Dublin,1116150.0,No,Foxrock,Dublin 18,q4,90%
+27/03/2018,"35 Hollybrook, Brighton Rd, Foxrock Dublin 18",Dublin,875000.0,No,Foxrock,Dublin 18,q3,80%
+05/04/2018,"34 Torquay Wood, Foxrock, Dublin 18",Dublin,816000.0,No,Foxrock,Dublin 18,q3,70%
+06/04/2018,"171A Foxrock Close, Deansgrange, Co Dublin",Dublin,495000.0,No,Foxrock,Dublin 18,q1,20%
+09/04/2018,"Glenbeigh, Torquay Rd, Foxrock Dublin 18",Dublin,875000.0,No,Foxrock,Dublin 18,q3,80%
+10/05/2018,"6 Brighton Ave, Foxrock, Dublin 18",Dublin,1050000.0,No,Foxrock,Dublin 18,q4,80%
+11/05/2018,"21 Kelston Ave, Foxrock, Dublin 18",Dublin,430000.0,No,Foxrock,Dublin 18,q1,20%
+14/05/2018,"5 Fey Yerra, Leopardstown Rd, Foxrock Dublin 18",Dublin,515000.0,No,Foxrock,Dublin 18,q1,30%
+15/05/2018,"Voewood, Hainault Rd, Foxrock Dublin 18",Dublin,2050000.0,No,Foxrock,Dublin 18,q4,100%
+16/05/2018,"8 Leopardstown Rd, Foxrock, Dublin 18",Dublin,995000.0,No,Foxrock,Dublin 18,q4,80%
+16/05/2018,"9 Kelston Park, Foxrock, Dublin 18",Dublin,680000.0,No,Foxrock,Dublin 18,q2,50%
+18/05/2018,"49 Glenbourne Rd, Leopardstown Valley, Foxrock Dublin 18",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+28/05/2018,"Mentone, Westminster Rd, Foxrock Dublin 18",Dublin,973000.0,No,Foxrock,Dublin 18,q4,80%
+01/06/2018,"Greencroft, Claremont Road, Foxrock",Dublin,1100000.0,No,Foxrock,Dublin 18,q4,90%
+06/06/2018,"8 The Coppins, Foxrock, Dublin 18",Dublin,1200000.0,No,Foxrock,Dublin 18,q4,90%
+08/06/2018,"The Furrow, 5 Hainault Road, Foxrock",Dublin,1250000.0,No,Foxrock,Dublin 18,q4,90%
+14/06/2018,"16 Kilteragh Dr, Foxrock, Dublin 18",Dublin,1185000.0,No,Foxrock,Dublin 18,q4,90%
+14/06/2018,"20 Beech Park Ave, Foxrock, Dublin 18",Dublin,700000.0,No,Foxrock,Dublin 18,q3,60%
+15/06/2018,"118A Foxrock Grove, Foxrock, Dublin 18",Dublin,620000.0,No,Foxrock,Dublin 18,q2,40%
+15/06/2018,"Beverley, Torquay Rd, Foxrock Dublin 18",Dublin,1500000.0,No,Foxrock,Dublin 18,q4,90%
+15/06/2018,"Lota, Brighton Rd, Foxrock Dublin 18",Dublin,1550000.0,No,Foxrock,Dublin 18,q4,100%
+26/06/2018,"Al Alba, Torquay Rd, Foxrock Dublin 18",Dublin,27500.0,No,Foxrock,Dublin 18,q1,10%
+02/07/2018,"Arden, Torquay Rd, Foxrock Dublin 18",Dublin,2000000.0,No,Foxrock,Dublin 18,q4,100%
+10/07/2018,"7 Foxrock Mount, Foxrock, Dublin 18",Dublin,525000.0,No,Foxrock,Dublin 18,q1,30%
+13/07/2018,"Craughwell, Brighton Road, Foxrock",Dublin,2500000.0,No,Foxrock,Dublin 18,q4,100%
+13/07/2018,"Damson Lodge, Brighton Road, Foxrock",Dublin,1750000.0,No,Foxrock,Dublin 18,q4,100%
+23/07/2018,"12 Beech Park Rd, Foxrock, Dublin 18",Dublin,753000.0,No,Foxrock,Dublin 18,q3,60%
+26/07/2018,"3 Kilteragh Rd, Foxrock, Dublin 18",Dublin,1300000.0,No,Foxrock,Dublin 18,q4,90%
+26/07/2018,"8 Carrickmines Little, Brighton Rd, Foxrock Dublin 18",Dublin,1200000.0,No,Foxrock,Dublin 18,q4,90%
+26/07/2018,"Glenshee, Torquay Rd, Foxrock Dublin 18",Dublin,2500000.0,No,Foxrock,Dublin 18,q4,100%
+27/07/2018,"7 Dunboy, Brighton Rd, Foxrock Dublin 18",Dublin,1325000.0,No,Foxrock,Dublin 18,q4,90%
+31/07/2018,"2 Cairn Hill, Wesinster Rd, Foxrock Dublin 18",Dublin,975000.0,No,Foxrock,Dublin 18,q4,80%
+01/08/2018,"12 Gort Na Mona Dr, Foxrock, Dublin 18",Dublin,617500.0,No,Foxrock,Dublin 18,q2,40%
+02/08/2018,"75 Clonkeen Dr, Foxrock, Dublin 18",Dublin,680000.0,No,Foxrock,Dublin 18,q2,50%
+13/08/2018,"39 Clonkeen Dr, Foxrock, Dublin 18",Dublin,695000.0,No,Foxrock,Dublin 18,q3,60%
+14/08/2018,"33 Brighton Wood, Brighton Road, Foxrock",Dublin,660792.95,Yes,Foxrock,Dublin 18,q2,50%
+16/08/2018,"7  Brighton Wood, Brighton Road, Foxrock",Dublin,1365639.0,Yes,Foxrock,Dublin 18,q4,90%
+17/08/2018,"13 Brighton Wood, Brighton Road, Foxrock",Dublin,1189427.31,Yes,Foxrock,Dublin 18,q4,90%
+17/08/2018,"29 Brighton Wood, Brighton Road, Foxrock",Dublin,583875.0,Yes,Foxrock,Dublin 18,q2,40%
+21/08/2018,"1 Hainault Park, Foxrock, Dublin 18",Dublin,850000.0,No,Foxrock,Dublin 18,q3,80%
+23/08/2018,"11 Brighton Wood, Brighton Road, Foxrock",Dublin,1055506.0,Yes,Foxrock,Dublin 18,q4,90%
+24/08/2018,"12 Brighton Wood, Brighton Road, Foxrock",Dublin,1081250.0,Yes,Foxrock,Dublin 18,q4,90%
+31/08/2018,"28 Brighton Wood, Brighton Road, Foxrock",Dublin,616741.0,Yes,Foxrock,Dublin 18,q2,40%
+31/08/2018,"34 Brighton Wood, Brighton Road, Foxrock",Dublin,726872.24,Yes,Foxrock,Dublin 18,q3,60%
+31/08/2018,"Dunboy Lodge, Brighton Rd, Foxrock Dublin 18",Dublin,1525000.0,No,Foxrock,Dublin 18,q4,100%
+03/09/2018,"Al Alba, Torquay Rd, Foxrock Dublin 18",Dublin,3500000.0,No,Foxrock,Dublin 18,q4,100%
+05/09/2018,"78 Beechpark Rd, Foxrock, Dublin 18",Dublin,755000.0,No,Foxrock,Dublin 18,q3,60%
+07/09/2018,"7 Cairn Hill, Westminster Rd, Foxrock Dublin 18",Dublin,1125000.0,No,Foxrock,Dublin 18,q4,90%
+17/09/2018,"16 St Brigids Park, Foxrock, Dublin",Dublin,433000.0,No,Foxrock,Dublin 18,q1,20%
+21/09/2018,"7 Kelston Park, Foxrock, Dublin 18",Dublin,655000.0,No,Foxrock,Dublin 18,q2,50%
+25/09/2018,"30 Brighton Wood, Brighton Road, Foxrock",Dublin,660660.79,Yes,Foxrock,Dublin 18,q2,50%
+28/09/2018,"Blencarn, Kerrymount Ave, Foxrock Dublin 18",Dublin,2000000.0,No,Foxrock,Dublin 18,q4,100%
+01/10/2018,"36 Brighton Wood, Brighton Road, Foxrock",Dublin,594714.0,Yes,Foxrock,Dublin 18,q2,40%
+02/10/2018,"31 Brighton Wood, Brighton Road, Foxrock",Dublin,925110.0,Yes,Foxrock,Dublin 18,q3,80%
+04/10/2018,"57 Foxrock Manor, Foxrock, Dublin 18",Dublin,1030000.0,No,Foxrock,Dublin 18,q4,80%
+10/10/2018,"35 Broghton Wood, Foxrock, Dublin 18",Dublin,616740.08,Yes,Foxrock,Dublin 18,q2,40%
+10/10/2018,"37 Brighton Wood, Brighton Road, Foxrock",Dublin,585365.85,Yes,Foxrock,Dublin 18,q2,40%
+11/10/2018,"18 Knocksinna Park, Foxrock, Dublin 18",Dublin,821500.0,No,Foxrock,Dublin 18,q3,70%
+12/10/2018,"31 Clonkeen Dr, Foxrock, Dublin 18",Dublin,645000.0,No,Foxrock,Dublin 18,q2,50%
+16/10/2018,"41 Brighton Wood, Brighton Road  Foxrock",Dublin,726872.25,Yes,Foxrock,Dublin 18,q3,60%
+19/10/2018,"4 Stanford Park, Westminster Road, Foxrock",Dublin,1171807.0,Yes,Foxrock,Dublin 18,q4,90%
+19/10/2018,"Kermor, 133 Foxrock Park, Foxrock",Dublin,670000.0,No,Foxrock,Dublin 18,q2,50%
+23/10/2018,"40 Brighton Wood, Brighton Road, Foxrock",Dublin,648750.0,Yes,Foxrock,Dublin 18,q2,50%
+24/10/2018,"20 Brighton Wood, Brighton Road, Foxrock",Dublin,825739.0,Yes,Foxrock,Dublin 18,q3,70%
+24/10/2018,"Stanford House, Westminster Rd, Foxrock Dublin 18",Dublin,1500000.0,No,Foxrock,Dublin 18,q4,90%
+25/10/2018,"25 Brighton Road, Foxrock, Dublin 18",Dublin,726872.25,Yes,Foxrock,Dublin 18,q3,60%
+26/10/2018,"20 Brighton Court, Foxrock, Dublin 18",Dublin,795000.0,No,Foxrock,Dublin 18,q3,70%
+31/10/2018,"44 Foxrock Manor, Dublin 18, Dublin",Dublin,1155000.0,No,Foxrock,Dublin 18,q4,90%
+01/11/2018,"24 Brighton Wood, Brighton Road, Foxrock",Dublin,740088.0,Yes,Foxrock,Dublin 18,q3,60%
+01/11/2018,"9 Brighton Wood, Brighton Road, Foxrock",Dublin,1321585.0,Yes,Foxrock,Dublin 18,q4,90%
+01/11/2018,"Coolhaven, Brighton Rd, Foxrock Dublin 18",Dublin,1440000.0,No,Foxrock,Dublin 18,q4,90%
+09/11/2018,"1  Pembrin Wood, Beechpark Road, Foxrock",Dublin,362000.0,No,Foxrock,Dublin 18,q1,10%
+19/11/2018,"7 Kelston Avenue, Leopardstown Road, Foxrock",Dublin,545000.0,No,Foxrock,Dublin 18,q2,30%
+22/11/2018,"37 Kilteragh, Foxrock, Dublin 18",Dublin,900000.0,No,Foxrock,Dublin 18,q3,80%
+23/11/2018,"20 The Thicket, Foxrock, Dublin 18",Dublin,1500000.0,No,Foxrock,Dublin 18,q4,90%
+27/11/2018,"23 The Hedgerows, Foxrock, Dublin 18",Dublin,550000.0,No,Foxrock,Dublin 18,q2,30%
+27/11/2018,"5 Stanford Park, Westminster Road, Foxrock",Dublin,1171806.17,Yes,Foxrock,Dublin 18,q4,90%
+29/11/2018,"61 Kerrymount Rise, Foxrock, Dublin 18",Dublin,765000.0,No,Foxrock,Dublin 18,q3,70%
+30/11/2018,"2 Beech Park Dr, Foxrock, Dublin 18",Dublin,845000.0,No,Foxrock,Dublin 18,q3,70%
+03/12/2018,"17 Sycamore Grove, Westminister Park, Foxrock Dublin 18",Dublin,492000.0,No,Foxrock,Dublin 18,q1,20%
+05/12/2018,"White House, Hainault Rd, Foxrock Dublin 18",Dublin,1700000.0,No,Foxrock,Dublin 18,q4,100%
+07/12/2018,"4 Brighton Lodge, Foxrock, Dublin 18",Dublin,675000.0,No,Foxrock,Dublin 18,q2,50%
+14/12/2018,"Dass 117 Foxrock Grove, Dulbin 18, D18 Rd82",Dublin,735000.0,No,Foxrock,Dublin 18,q3,60%
+17/12/2018,"26 Brighton Wood, Brighton Road, Foxrock",Dublin,731277.53,Yes,Foxrock,Dublin 18,q3,60%
+17/12/2018,"48 Brighton Wood, Brighton Road, Foxrock",Dublin,629955.0,Yes,Foxrock,Dublin 18,q2,40%
+18/12/2018,"14 Kelston Ave, Foxrock, Dublin 18",Dublin,640000.0,No,Foxrock,Dublin 18,q2,50%
+18/12/2018,"49 Brighton Wood, Brighton Road, Foxrock",Dublin,663716.0,Yes,Foxrock,Dublin 18,q2,50%
+21/12/2018,"'Corbiere' New Road, Foxrock, Dublin",Dublin,590000.0,No,Foxrock,Dublin 18,q2,40%
+21/12/2018,"47 Brighton Wood, Brighton Road, Foxrock",Dublin,634361.0,Yes,Foxrock,Dublin 18,q2,50%
+21/12/2018,"Ardenza, Torquay Rd, Foxrock Dublin 18",Dublin,1600000.0,No,Foxrock,Dublin 18,q4,100%
+08/01/2019,"7 Stanford Park, Westminster Road, Foxrock",Dublin,1004406.0,Yes,Foxrock,Dublin 18,q4,80%
+10/01/2019,"52 Brighton Wood, Brighton Road, Foxrock",Dublin,682819.0,Yes,Foxrock,Dublin 18,q2,50%
+23/01/2019,"Thornfield, Westminster Rd, Foxrock Dublin 18",Dublin,2475000.0,No,Foxrock,Dublin 18,q4,100%
+24/01/2019,"4 Clonkeen Drive, Foxrock, Dublin 18",Dublin,650000.0,No,Foxrock,Dublin 18,q2,50%
+24/01/2019,"Palermo, 1 Kill Lane, Foxrock",Dublin,800000.0,No,Foxrock,Dublin 18,q3,70%
+28/01/2019,"5 Hainault Grove, Foxrock, Dublin 18",Dublin,705000.0,No,Foxrock,Dublin 18,q3,60%
+30/01/2019,"11 Stanford Park, Westminster Road, Foxrock",Dublin,704845.8,Yes,Foxrock,Dublin 18,q3,60%
+31/01/2019,"10 Kelston Dr, Foxrock, Dublin 18",Dublin,584000.0,No,Foxrock,Dublin 18,q2,40%
+31/01/2019,"10 Sycamore Grove, Westminster Park, Foxrock Dublin 18",Dublin,524000.0,No,Foxrock,Dublin 18,q1,30%
+01/02/2019,"38 Westminster Lawns, Foxrock, Dublin 18",Dublin,820000.0,No,Foxrock,Dublin 18,q3,70%
+01/02/2019,"8 Hainault Dr, Foxrock, Dublin 18",Dublin,685000.0,No,Foxrock,Dublin 18,q2,50%
+05/02/2019,"15 Hainault Grove, Foxrock, Dublin 18",Dublin,701000.0,No,Foxrock,Dublin 18,q3,60%
+18/02/2019,"14 Brighton Wood, Brighton Road, Foxrock",Dublin,1250000.0,Yes,Foxrock,Dublin 18,q4,90%
+25/02/2019,"Verona, Kerrymount Ave, Foxrock Dublin 18",Dublin,2210000.0,No,Foxrock,Dublin 18,q4,100%
+28/02/2019,"24 Pine Ave, Westminster Park, Foxrock Dublin 18",Dublin,500000.0,No,Foxrock,Dublin 18,q1,30%
+03/03/2019,"49 Tudor Lawns, Foxrock, Dublin 18",Dublin,176666.66,No,Foxrock,Dublin 18,q1,10%
+15/03/2019,"No.3 Standford Park, Westminister Road, Foxrock",Dublin,925110.13,Yes,Foxrock,Dublin 18,q4,80%
+15/03/2019,"Suantrai, Knocksinna, Foxrock Dublin 18",Dublin,1950000.0,No,Foxrock,Dublin 18,q4,100%
+20/03/2019,"Dalwhinnie, Leopardstown Rd, Foxrock Dublin 18",Dublin,1600000.0,No,Foxrock,Dublin 18,q4,100%
+29/03/2019,"41 Cairn Hill, Westminster Rd, Foxrock Dublin 18",Dublin,985000.0,No,Foxrock,Dublin 18,q4,80%
+03/04/2019,"The Chatterbox, 1A Cornelscourt Hill, Foxrock Dublin 18",Dublin,830000.0,No,Foxrock,Dublin 18,q3,70%
+05/04/2019,"53 Brighton Wood, Brighton Road, Foxrock",Dublin,726872.0,Yes,Foxrock,Dublin 18,q3,60%
+18/04/2019,"1 Gort Na Mona Dr, Foxrock, Dublin 18",Dublin,725000.0,No,Foxrock,Dublin 18,q3,60%
+18/04/2019,"4 Beech Park Grove, Foxrock, Dublin 18",Dublin,800000.0,No,Foxrock,Dublin 18,q3,70%
+18/04/2019,"62 Beech Park Dr, Foxrock, Dublin",Dublin,770000.0,No,Foxrock,Dublin 18,q3,70%
+26/04/2019,"12 Foxrock Crescent, Foxrock Park, Dublin 18",Dublin,707500.0,No,Foxrock,Dublin 18,q3,60%
+26/04/2019,"176 Foxrock Close, Foxrock, Dublin 18",Dublin,655000.0,No,Foxrock,Dublin 18,q2,50%
+26/04/2019,"36 Knocksinna Park, Foxrock, Dublin 18",Dublin,775000.0,No,Foxrock,Dublin 18,q3,70%
+30/04/2019,"38 Foxrock Ave, Foxrock, Dublin",Dublin,653000.0,No,Foxrock,Dublin 18,q2,50%
+01/05/2019,"5 Foxrock Ave, Foxrock, Dublin 18",Dublin,680500.0,No,Foxrock,Dublin 18,q2,50%
+24/05/2019,"5 Brighton Lodge, Foxrock, Dublin",Dublin,400000.0,No,Foxrock,Dublin 18,q1,10%
+31/05/2019,"10 Westminster Hall, Westminster Rd, Foxrock Dublin 18",Dublin,530000.0,No,Foxrock,Dublin 18,q1,30%
+31/05/2019,"56 Brighton Wood, Brighton Road, Foxrock",Dublin,660792.96,Yes,Foxrock,Dublin 18,q2,50%
+31/05/2019,"69 Foxrock Park, Foxrock, Dublin 18",Dublin,810000.0,No,Foxrock,Dublin 18,q3,70%
+13/06/2019,"Annaghkeen, Leopardstown Rd, Foxrock Dublin 18",Dublin,3200000.0,No,Foxrock,Dublin 18,q4,100%
+14/06/2019,"Turnberry, Kerrymount Ave, Foxrock Dublin 18",Dublin,3100000.0,No,Foxrock,Dublin 18,q4,100%
+17/06/2019,"58 South Park, Foxrock, Dublin 18",Dublin,630000.0,No,Foxrock,Dublin 18,q2,50%
+21/06/2019,"28 Foxrock Mount, Foxrock, Dublin 18",Dublin,597000.0,No,Foxrock,Dublin 18,q2,40%
+21/06/2019,"6 Tudor Lawns, Foxrock, Dublin 18",Dublin,612000.0,No,Foxrock,Dublin 18,q2,40%
+28/06/2019,"Cabrera, Torquay Road, Foxrock",Dublin,2915000.0,No,Foxrock,Dublin 18,q4,100%
+01/07/2019,"Dunroamin, Gordon Ave, Foxrock Dublin 18",Dublin,850000.0,No,Foxrock,Dublin 18,q3,80%
+11/07/2019,"26 Foxrock Green, Foxrock, Dublin 18",Dublin,754000.0,No,Foxrock,Dublin 18,q3,60%
+16/07/2019,"62 Beech Park Rd, Foxrock, Dublin 18",Dublin,930000.0,No,Foxrock,Dublin 18,q4,80%
+17/07/2019,"2 Stanford Park, Westminster Road, Foxrock",Dublin,995594.71,Yes,Foxrock,Dublin 18,q4,80%
+17/07/2019,"St. Benedicts Orse Damson Lodge, Brighton Road, Foxrock",Dublin,1650000.0,No,Foxrock,Dublin 18,q4,100%
+26/07/2019,"18 Sycamore Grove, Westminster Park, Foxrock Dublin 18",Dublin,515000.0,No,Foxrock,Dublin 18,q1,30%
+29/07/2019,"15 Sefton Hall, Kelston, Foxrock Dublin 18",Dublin,450000.0,No,Foxrock,Dublin 18,q1,20%
+31/07/2019,"50 Joyce Ave, Foxrock, Dublin 18",Dublin,910000.0,No,Foxrock,Dublin 18,q3,80%
+09/08/2019,"11 Kelston Park, Foxrock, Dublin 18",Dublin,610000.0,No,Foxrock,Dublin 18,q2,40%
+09/08/2019,"23 Westminster Wood, Foxrock, Dublin 18",Dublin,797356.0,Yes,Foxrock,Dublin 18,q3,70%
+09/08/2019,"24 Kerrymount Rise, Foxrock, Dublin",Dublin,660000.0,No,Foxrock,Dublin 18,q2,50%
+14/08/2019,"21 Westminster Wood, Foxrock",Dublin,776000.0,Yes,Foxrock,Dublin 18,q3,70%
+15/08/2019,"Glendhu, Kilteragh Dr, Foxrock Dublin 18",Dublin,1665000.0,No,Foxrock,Dublin 18,q4,100%
+16/08/2019,"40 Westminster Lawns, Foxrock, Dublin 18",Dublin,835000.0,No,Foxrock,Dublin 18,q3,70%
+16/08/2019,"8 Beech Park Ave, Foxrock, Dublin 18",Dublin,675000.0,No,Foxrock,Dublin 18,q2,50%
+20/08/2019,"17 Westminster Wood, Foxrock",Dublin,814977.0,Yes,Foxrock,Dublin 18,q3,70%
+22/08/2019,"20 Westminster Wood, Foxrock",Dublin,775165.5,Yes,Foxrock,Dublin 18,q3,70%
+26/08/2019,"73 Tudor Lawns, Foxrock, Dublin 18",Dublin,510000.0,No,Foxrock,Dublin 18,q1,30%
+26/08/2019,"74 Brighton Wood, Brighton Road, Foxrock",Dublin,740088.1,Yes,Foxrock,Dublin 18,q3,60%
+28/08/2019,"22 Westminster Wood, Foxrock",Dublin,828193.0,Yes,Foxrock,Dublin 18,q3,70%
+28/08/2019,"30 Foxrock Manor, Leopardstown Rd, Foxrock Dublin 18",Dublin,865000.0,No,Foxrock,Dublin 18,q3,80%
+30/08/2019,"14 Brighton Lodge, Brighton Rd, Foxrock Village Dublin 18",Dublin,515000.0,No,Foxrock,Dublin 18,q1,30%
+02/09/2019,"3 Kill Lane, Foxrock, Dublin 18",Dublin,650000.0,No,Foxrock,Dublin 18,q2,50%
+04/09/2019,"25 Foxrock Green, Kill Lane, Foxrock",Dublin,540000.0,No,Foxrock,Dublin 18,q2,30%
+05/09/2019,"3 Hollybrook, Brighton Rd, Foxrock Dublin 18",Dublin,890000.0,No,Foxrock,Dublin 18,q3,80%
+11/09/2019,"25 Tudor Lawns, Foxrock, Dublin 18",Dublin,633000.0,No,Foxrock,Dublin 18,q2,50%
+17/09/2019,"19 Westminster Wood, Foxrock",Dublin,754779.02,Yes,Foxrock,Dublin 18,q3,60%
+20/09/2019,"38 Beech Park Dr, Foxrock, Dublin 18",Dublin,820000.0,No,Foxrock,Dublin 18,q3,70%
+23/09/2019,"55 Brighton Wood, Brighton Road, Foxrock",Dublin,629956.0,Yes,Foxrock,Dublin 18,q2,50%
+25/09/2019,"15 Westminister Wood, Foxrock, Dublin 18",Dublin,497797.36,Yes,Foxrock,Dublin 18,q1,20%
+26/09/2019,"14 Westminister Wood, Foxrock",Dublin,568281.0,Yes,Foxrock,Dublin 18,q2,40%
+27/09/2019,"11 Westminister Wood, Foxrock",Dublin,497797.35,Yes,Foxrock,Dublin 18,q1,20%
+04/10/2019,"12 Foxrock Mount, Foxrock Park, Dublin 18",Dublin,535000.0,No,Foxrock,Dublin 18,q2,30%
+04/10/2019,"4 Kerrymount Green, Foxrock, Dublin 18",Dublin,677000.0,No,Foxrock,Dublin 18,q2,50%
+14/10/2019,"12 Westminster Wood, Foxrock, Dublin 18",Dublin,566374.0,Yes,Foxrock,Dublin 18,q2,40%
+14/10/2019,"Heather Lodge, Kerrymount Ave, Foxrock Dublin 18",Dublin,1400000.0,No,Foxrock,Dublin 18,q4,90%
+18/10/2019,"Hatley, Kerrymount Ave, Foxrock Dublin 18",Dublin,1850000.0,No,Foxrock,Dublin 18,q4,100%
+21/10/2019,"5 Knocksinna Park, Foxrock, Dublin 18",Dublin,835000.0,No,Foxrock,Dublin 18,q3,70%
+22/10/2019,"Calador, Leopardstown Rd, Foxrock",Dublin,1800000.0,No,Foxrock,Dublin 18,q4,100%

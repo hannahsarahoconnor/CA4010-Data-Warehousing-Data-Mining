@@ -1,0 +1,281 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+02/06/2010,"Apartment 13  Block A, Canon Hall  Custom House, Dublin 1",Dublin,300000.0,Yes,Custom House,Dublin 1,q3,70%
+07/07/2010,"45 Malton House, Custom House Square",Dublin,197500.0,No,Custom House,Dublin 1,q1,30%
+28/07/2010,"45  Beresford House, Custom House Square",Dublin,210000.0,No,Custom House,Dublin 1,q2,30%
+04/08/2010,"Apt 2  Ground Floor, Beresford House  Custom House Sq",Dublin,168500.0,No,Custom House,Dublin 1,q1,20%
+26/08/2010,"17 Malton House, Custom House Sq., Ifsc",Dublin,155000.0,No,Custom House,Dublin 1,q1,10%
+10/09/2010,"6 Achill House, Custom House Square, Dublin 1",Dublin,185000.0,No,Custom House,Dublin 1,q1,20%
+30/09/2010,"45 Arran House, Custom House Square",Dublin,171000.0,No,Custom House,Dublin 1,q1,20%
+07/10/2010,"Apt.5 Barrow House, Custom House Square, Dublin 1",Dublin,185000.0,No,Custom House,Dublin 1,q1,20%
+29/10/2010,"270 Asgard North, Custom House Harbour  Ifsc, Dublin 1",Dublin,345000.0,No,Custom House,Dublin 1,q4,80%
+28/01/2011,"100 Rathlin House, Custom House Square",Dublin,252000.0,No,Custom House,Dublin 1,q2,50%
+15/03/2011,"20 Burton House, Custom House Square, Ifsc",Dublin,258000.0,No,Custom House,Dublin 1,q2,50%
+30/03/2011,"Apt 67  Spencer House, Custom House Square, Ifsc",Dublin,260000.0,No,Custom House,Dublin 1,q2,50%
+06/04/2011,"Apt 105 Rathlin House, Custom House Square, Ifsc",Dublin,280000.0,No,Custom House,Dublin 1,q2,50%
+30/05/2011,"Apartment 77 Spencer House, Custom House Square, Ifsc",Dublin,275000.0,No,Custom House,Dublin 1,q2,50%
+30/06/2011,"38 Beresford House, Custom House Square",Dublin,148000.0,No,Custom House,Dublin 1,q1,10%
+19/07/2011,"Apt. 6 Level 2 Boyne House, Custom House Square",Dublin,121000.0,No,Custom House,Dublin 1,q1,10%
+20/07/2011,"Flat 104 Hook Head, Custom House Harbour, Ifsc",Dublin,198000.0,No,Custom House,Dublin 1,q1,30%
+17/08/2011,"12 Lagan House, Custom House Quay, I.F.S.C.",Dublin,230000.0,No,Custom House,Dublin 1,q2,40%
+23/08/2011,"59 Spencer House, Custom House Square, Mayor Street",Dublin,205000.0,No,Custom House,Dublin 1,q2,30%
+31/08/2011,"13  Lagan House, Custom House, I.F.S.C.",Dublin,280000.0,No,Custom House,Dublin 1,q3,60%
+22/09/2011,"54 Beresford House, Custom House Square, Custom House Quay",Dublin,131000.0,No,Custom House,Dublin 1,q1,10%
+30/09/2011,"Apt 236  Custom House Harbour, Ifsc, Dublin 1",Dublin,237500.0,No,Custom House,Dublin 1,q2,40%
+14/10/2011,"23  Burton House, Custom House Square, Ifsc",Dublin,196000.0,No,Custom House,Dublin 1,q1,30%
+14/10/2011,"304 Custom House Harbour, Ifsc, Dublin 1",Dublin,190000.0,No,Custom House,Dublin 1,q1,20%
+28/10/2011,"19 Achill House, Custom House Square, Dublin",Dublin,167500.0,No,Custom House,Dublin 1,q1,10%
+25/11/2011,"Apt. 52  Level 2, Block No. P3  Eagle Island, Custom House Harbour  Ifsc",Dublin,172000.0,No,Custom House,Dublin 1,q1,20%
+28/11/2011,"4 Achill House, Custom House Square, Ifsc",Dublin,175000.0,No,Custom House,Dublin 1,q1,20%
+29/11/2011,"Apartment 23 Gandon House, Custom House Square, Ifsc",Dublin,290000.0,No,Custom House,Dublin 1,q3,60%
+20/12/2011,"136 Scarriff House, Custom House Square  Dublin 1",Dublin,132000.0,No,Custom House,Dublin 1,q1,10%
+21/12/2011,"77 Custom House Harbour, Ifsc",Dublin,90000.0,No,Custom House,Dublin 1,q1,10%
+10/02/2012,"Apartment 282, Custom House Harbour, Ifsc",Dublin,160000.0,No,Custom House,Dublin 1,q1,10%
+14/03/2012,"Apt. 301  Argyle, Custom House Harbour, Ifsc",Dublin,221950.0,No,Custom House,Dublin 1,q2,40%
+19/04/2012,"92 Hook Head, Custom House Harbour, Ifsc",Dublin,175000.0,No,Custom House,Dublin 1,q1,20%
+11/05/2012,"134 Scariff House, Custom House Square, Dublin 1",Dublin,149960.0,No,Custom House,Dublin 1,q1,10%
+14/05/2012,"Apartment 156, Shannon House, Custom House Square  Ifsc",Dublin,368802.0,No,Custom House,Dublin 1,q4,90%
+28/05/2012,"120 Scarriff House, Custom House Square, Dublin 1",Dublin,120000.0,No,Custom House,Dublin 1,q1,10%
+20/06/2012,"41 Malton House, Custom House Square, Dublin 1",Dublin,122500.0,No,Custom House,Dublin 1,q1,10%
+31/07/2012,"298 Custom House Harbour, Ifsc, Dublin 1",Dublin,160000.0,No,Custom House,Dublin 1,q1,10%
+01/08/2012,"90 Spencer House, Custom House Square, Mayor Street",Dublin,161000.0,No,Custom House,Dublin 1,q1,10%
+28/08/2012,"1  Malton House, Custom House Square, Ifsc",Dublin,165000.0,No,Custom House,Dublin 1,q1,10%
+21/10/2012,"114 Rathlin House, Custom House Square",Dublin,295000.0,No,Custom House,Dublin 1,q3,60%
+24/10/2012,"Apt 59 Malton House, Custom House Square, Dublin",Dublin,172000.0,No,Custom House,Dublin 1,q1,20%
+05/11/2012,"8  Boyne House, Custom House Square, Ifsc",Dublin,190000.0,No,Custom House,Dublin 1,q1,20%
+06/11/2012,"Apt. 2 Dargle House, Custom House Square, Mayor Street Dublin 1",Dublin,144000.0,No,Custom House,Dublin 1,q1,10%
+08/11/2012,"Number 46, Aran House, Custom House Square",Dublin,232000.0,No,Custom House,Dublin 1,q2,40%
+09/11/2012,"113 Rathlin House, Ifsc, Custom House Square",Dublin,300000.0,No,Custom House,Dublin 1,q3,70%
+14/12/2012,"3 Beresford House, Custom House Square",Dublin,97000.0,No,Custom House,Dublin 1,q1,10%
+14/12/2012,"62 Eagle Island, Custom House Harbour, Custom House Docks",Dublin,112000.0,No,Custom House,Dublin 1,q1,10%
+14/12/2012,"Apt  10  Gandon House, Custom House Square, Ifsc",Dublin,230000.0,No,Custom House,Dublin 1,q2,40%
+20/12/2012,"Apartment 9, Achill House, Custom House Square",Dublin,187000.0,No,Custom House,Dublin 1,q1,20%
+14/01/2013,"30 Malton House, Custom House Square, Dublin 1",Dublin,125000.0,No,Custom House,Dublin 1,q1,10%
+08/02/2013,"63 Beresford House, Custom House Square, Ifsc",Dublin,180000.0,No,Custom House,Dublin 1,q1,20%
+14/02/2013,"Apt 57 Lee House, Custom House Square, Ifsc",Dublin,187000.0,No,Custom House,Dublin 1,q1,20%
+14/03/2013,"Apartment 4, Custom House Harbour, Custom House Docks",Dublin,180000.0,No,Custom House,Dublin 1,q1,20%
+26/04/2013,"Apartment 4, Block E - First Floor, Lagan House  Custom House Square",Dublin,220000.0,No,Custom House,Dublin 1,q2,40%
+01/05/2013,"Apartment 44 Malton House, Custom House Square",Dublin,173000.0,No,Custom House,Dublin 1,q1,20%
+17/05/2013,"271 The Asgard, Custom House Harbour, Ifsc",Dublin,310000.0,No,Custom House,Dublin 1,q3,70%
+31/05/2013,"294 The Argyle, Custom House Harbour, Ifsc",Dublin,195000.0,No,Custom House,Dublin 1,q1,30%
+07/06/2013,"54 Spencer House, Custom House Square, Ifsc",Dublin,190000.0,No,Custom House,Dublin 1,q1,30%
+17/06/2013,"Apt. 161 Shannon House, Custom House Square, Ifsc",Dublin,260000.0,No,Custom House,Dublin 1,q2,50%
+28/06/2013,"Apartment 60, Spencer House, Custom House Square",Dublin,150000.0,No,Custom House,Dublin 1,q1,10%
+28/06/2013,"Apartment 61, Spencer House, Custom House Square",Dublin,150000.0,No,Custom House,Dublin 1,q1,10%
+28/06/2013,"Apartment 65, Spencer House, Custom House Square",Dublin,150000.0,No,Custom House,Dublin 1,q1,10%
+01/07/2013,"155 Shannon House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,225000.0,No,Custom House,Dublin 1,q2,40%
+02/07/2013,"28 Beresford House, Custom House Square, Ifsc  Dublin 1",Dublin,128000.0,No,Custom House,Dublin 1,q1,10%
+02/07/2013,"Apt 76 Custom House Harbour, Custom House Quay, Dublin 1",Dublin,119000.0,No,Custom House,Dublin 1,q1,10%
+30/07/2013,"74  Spencer House, Custom House Square",Dublin,180000.0,No,Custom House,Dublin 1,q1,20%
+02/08/2013,"321 Argyle, Custom House Harbour, Ifsc",Dublin,181000.0,No,Custom House,Dublin 1,q1,20%
+16/08/2013,"56 Lee House, Custom House, Ifsc",Dublin,215000.0,No,Custom House,Dublin 1,q2,30%
+18/09/2013,"Apt 273, Asgard South, Custom House Quay",Dublin,305000.0,No,Custom House,Dublin 1,q3,70%
+14/10/2013,"244 The Asgard  Custom House, Ifsc",Dublin,220000.0,No,Custom House,Dublin 1,q2,40%
+23/10/2013,"40 Malton House, Custom House Square",Dublin,137000.0,No,Custom House,Dublin 1,q1,10%
+31/10/2013,"40 Spencer House, Custom House Sq, I F S C Dublin 1",Dublin,281000.0,No,Custom House,Dublin 1,q3,60%
+13/11/2013,"123 Scariff House, Custom House Square, Dublin 1",Dublin,210000.0,No,Custom House,Dublin 1,q2,30%
+22/11/2013,"154 Shannon House, Custom House Square, Ifsc",Dublin,210000.0,No,Custom House,Dublin 1,q2,30%
+22/11/2013,"Apartment 8, Block A, Custom House Square",Dublin,227000.0,No,Custom House,Dublin 1,q2,40%
+02/12/2013,"9 Malton House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,183000.0,No,Custom House,Dublin 1,q1,20%
+06/12/2013,"21 Achill House, Custom House Sq, Ifsc Dublin 1",Dublin,188000.0,No,Custom House,Dublin 1,q1,20%
+12/12/2013,"Apartment 80, Spencer House, Custom House Square  Ifsc",Dublin,140000.0,No,Custom House,Dublin 1,q1,10%
+19/12/2013,"144 Custom House Harbour, Ifsc, Dublin 1",Dublin,185000.0,No,Custom House,Dublin 1,q1,20%
+23/12/2013,"Apt 231, Custom House Harbour, Ifsc Dublin 1",Dublin,227000.0,No,Custom House,Dublin 1,q2,40%
+04/02/2014,"42 Beresford House, Custom House Sq, Mayor St Dublin 1",Dublin,150000.0,No,Custom House,Dublin 1,q1,10%
+04/02/2014,"73 Spencer House, Custom House Sq, Dublin",Dublin,270000.0,No,Custom House,Dublin 1,q2,50%
+07/02/2014,"26 Malton House, Custom House Sq, Dublin",Dublin,161750.0,No,Custom House,Dublin 1,q1,10%
+14/02/2014,"12 Malton House, Custom House Sq, Dublin 2",Dublin,210000.0,No,Custom House,Dublin 1,q2,30%
+24/02/2014,"72 Spencer House, Custom House Sq, Dublin",Dublin,320000.0,No,Custom House,Dublin 1,q3,70%
+28/02/2014,"18 Barrow House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,170000.0,No,Custom House,Dublin 1,q1,20%
+28/02/2014,"38 The Bailey, Custom House Harbour, Ifsc",Dublin,200000.0,No,Custom House,Dublin 1,q1,30%
+05/03/2014,"168 Skellig House, Custom House Sq, Mayor St Lower",Dublin,295000.0,No,Custom House,Dublin 1,q3,60%
+07/03/2014,"133 Scarriff House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,246000.0,No,Custom House,Dublin 1,q2,40%
+18/03/2014,"Apt 323 Custom House Harbour, Ifsc, Dublin 1",Dublin,192000.0,No,Custom House,Dublin 1,q1,30%
+21/03/2014,"Apt 9 Block F, Custom House Sq, Dublin 1",Dublin,195000.0,No,Custom House,Dublin 1,q1,30%
+28/03/2014,"194 Custom House Harbour, Tuskar Block, Ifsc Dublin 1",Dublin,207500.0,No,Custom House,Dublin 1,q2,30%
+08/04/2014,"5 Boyne House, Custom House Square, Mayor Street Lower",Dublin,238000.0,No,Custom House,Dublin 1,q2,40%
+02/05/2014,"207 Tuskar Rock, Custom House Harbour, Ifsc Dublin 1",Dublin,191000.0,No,Custom House,Dublin 1,q1,30%
+13/05/2014,"12 Boyne House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,295000.0,No,Custom House,Dublin 1,q3,60%
+11/06/2014,"Apt 91 Spencer House, Custom House Sq, Dublin1",Dublin,345000.0,No,Custom House,Dublin 1,q4,80%
+13/06/2014,"92 Moy House, Custom House Quay, Dublin 2",Dublin,335000.0,No,Custom House,Dublin 1,q4,80%
+20/06/2014,"12 Gandon House, Custom House Sq, Mayor St Dublin 1",Dublin,360000.0,No,Custom House,Dublin 1,q4,90%
+27/06/2014,"178 Custom House Harbour, Ifsc, Dublin 1",Dublin,186000.0,No,Custom House,Dublin 1,q1,20%
+27/06/2014,"262 Asgard, Custom House Harbour, Custom House Quay",Dublin,266000.0,No,Custom House,Dublin 1,q2,50%
+15/07/2014,"15 Achill House, Custom House Sq, I F S C Dublin 1",Dublin,278000.0,No,Custom House,Dublin 1,q2,50%
+18/07/2014,"63 Lee House, Custom House Sq, Mayor St Lower",Dublin,175000.0,No,Custom House,Dublin 1,q1,20%
+24/07/2014,"238 Custom House Harbour, Ifsc, Dublin 1",Dublin,302500.0,No,Custom House,Dublin 1,q3,70%
+01/08/2014,"164 Skellig House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,176000.0,No,Custom House,Dublin 1,q1,20%
+18/08/2014,"38 Block A, Malton House, Custom House Quay",Dublin,200000.0,No,Custom House,Dublin 1,q1,30%
+15/09/2014,"77 Spencer House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,270000.0,No,Custom House,Dublin 1,q2,50%
+16/09/2014,"22 Malton House, Custom House Square, Mayor St Lower",Dublin,248000.0,No,Custom House,Dublin 1,q2,40%
+25/09/2014,"177 Skellig Michael, Custom House Harbour, Ifsc",Dublin,156000.0,No,Custom House,Dublin 1,q1,10%
+26/09/2014,"5 Gandon House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,318000.0,No,Custom House,Dublin 1,q3,70%
+10/10/2014,"122 Scariff House, Custom House Square, Ifsc  Dublin 1",Dublin,228000.0,No,Custom House,Dublin 1,q2,40%
+22/10/2014,"115 Scarrif House, Custom House Square, Dublin 1",Dublin,220000.0,No,Custom House,Dublin 1,q2,40%
+24/10/2014,"20 Malton House, Custom House Sq, Ifsc Dublin 1",Dublin,270000.0,No,Custom House,Dublin 1,q2,50%
+31/10/2014,"70 Lee House, Custom House Sq, Dublin 1",Dublin,480000.0,No,Custom House,Dublin 1,q4,100%
+14/11/2014,"153 Shannon House, Custom House Sq, Lower Mayor St Dublin 1",Dublin,205000.0,No,Custom House,Dublin 1,q2,30%
+14/11/2014,"Apt 7 Achill House, Custom House Square, Ifsc",Dublin,176000.0,No,Custom House,Dublin 1,q1,20%
+18/11/2014,"46 Beresford House, Custom House Sq, Mayor St Dublin 1",Dublin,272000.0,No,Custom House,Dublin 1,q2,50%
+02/12/2014,"97 Spencer House, Custom House Sq, Lower Mayor St Dublin 2",Dublin,283050.0,No,Custom House,Dublin 1,q3,60%
+03/12/2014,"67 Lee House, Custom House Square, Mayor Street Lower Dublin 1",Dublin,218000.0,No,Custom House,Dublin 1,q2,40%
+10/12/2014,"Apt 33, Beresford House, Custom House Sq",Dublin,293000.0,No,Custom House,Dublin 1,q3,60%
+15/12/2014,"110 Hook Head, Custom House Harbour, Ifsc Dublin 1",Dublin,325000.0,No,Custom House,Dublin 1,q3,80%
+15/12/2014,"167 Skellig House, Custom House Square, Dublin",Dublin,206000.0,No,Custom House,Dublin 1,q2,30%
+16/12/2014,"Apt 12 Achill House, Custom House Square, Dublin 1",Dublin,195000.0,No,Custom House,Dublin 1,q1,30%
+19/12/2014,"Apt 250 The Assard, Custom House Harbour, I F S C Dublin 1",Dublin,328000.0,No,Custom House,Dublin 1,q3,80%
+22/12/2014,"56 Custom House Harbour, Ifsc, Dublin 1",Dublin,172000.0,No,Custom House,Dublin 1,q1,20%
+05/01/2015,"65 Malton House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,345000.0,No,Custom House,Dublin 1,q4,80%
+06/01/2015,"108 Rathlin House, Custom House Sq, Mayor St Lower",Dublin,310000.0,No,Custom House,Dublin 1,q3,70%
+19/01/2015,"64 Beresford House, Custom House Sq, Ifsc Dublin 1",Dublin,310000.0,No,Custom House,Dublin 1,q3,70%
+23/01/2015,"46 Malton House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,250000.0,No,Custom House,Dublin 1,q2,40%
+29/01/2015,"13 Berry House, Custom House",Dublin,350000.0,No,Custom House,Dublin 1,q4,90%
+29/01/2015,"78 Spencer House, Custom House Square, Ifsc  Dublin 1",Dublin,315000.0,No,Custom House,Dublin 1,q3,70%
+02/02/2015,"Apartment 9  Lagan House, Custom House Quay, Ifsc",Dublin,295000.0,No,Custom House,Dublin 1,q3,60%
+09/02/2015,"Apt 23, Beresford House, Custom House Sq",Dublin,272500.0,No,Custom House,Dublin 1,q2,50%
+10/02/2015,"144 Custom House Harbour, Ifsc, Dublin 1",Dublin,310000.0,No,Custom House,Dublin 1,q3,70%
+26/02/2015,"227 Custom House Harbour, Ifsc",Dublin,251000.0,No,Custom House,Dublin 1,q2,50%
+27/02/2015,"Apartment 96, Spencer House  Custom House Square, Ifsc",Dublin,345000.0,No,Custom House,Dublin 1,q4,80%
+25/03/2015,"61 Lee House, Custom House Sq, Mayor St Dublin 1",Dublin,306000.0,No,Custom House,Dublin 1,q3,70%
+27/03/2015,"10 Slaney House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,245000.0,No,Custom House,Dublin 1,q2,40%
+21/04/2015,"95 Rathlin House, Custom House Sq, Lower Mayor St Dublin 1",Dublin,294000.0,No,Custom House,Dublin 1,q3,60%
+24/04/2015,"16 Malton House, Ifsc, Custom House Sq Dublin 1",Dublin,200000.0,No,Custom House,Dublin 1,q1,30%
+24/04/2015,"Apartment 35, Arran House Custom House, Ifsc",Dublin,331000.0,No,Custom House,Dublin 1,q3,80%
+27/04/2015,"165 Skellig House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,287000.0,No,Custom House,Dublin 1,q3,60%
+01/05/2015,"64 Malton House, Custom House Sq, Dublin 1",Dublin,293000.0,No,Custom House,Dublin 1,q3,60%
+20/05/2015,"Apt 6, Valentia House, Custom House Sq Dublin 1",Dublin,400000.0,No,Custom House,Dublin 1,q4,100%
+25/05/2015,"331 Argyle House, Custom House Harbour, Ifsc",Dublin,360000.0,No,Custom House,Dublin 1,q4,90%
+28/05/2015,"Apartment 130, Custom House Harbour, Ifsc",Dublin,272500.0,No,Custom House,Dublin 1,q2,50%
+03/06/2015,"Apt 240, Custom House Harbour, I.F.S.C.",Dublin,303000.0,No,Custom House,Dublin 1,q3,70%
+12/06/2015,"121 Scarriff House, Custom House Sq, Dublin 1",Dublin,170000.0,No,Custom House,Dublin 1,q1,20%
+29/07/2015,"58 Spencer House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,291000.0,No,Custom House,Dublin 1,q3,60%
+31/07/2015,"175 Skellig House, Custom House Square, Dublin 1",Dublin,215000.0,No,Custom House,Dublin 1,q2,30%
+12/08/2015,"70 Spencer House, Custom House Sq, I F S C",Dublin,233000.0,No,Custom House,Dublin 1,q2,40%
+14/08/2015,"Apt 58, Malton House, Custom House Sq Dublin 1",Dublin,310000.0,No,Custom House,Dublin 1,q3,70%
+17/08/2015,"140 Scarriff House, Mayor St, Custom House Quay",Dublin,280000.0,No,Custom House,Dublin 1,q3,60%
+24/08/2015,"164 Custom House Harbour, Ifsc, Dublin 1",Dublin,198500.0,No,Custom House,Dublin 1,q1,30%
+27/08/2015,"32 Aran House, Custom House Square, Ifsc",Dublin,225000.0,No,Custom House,Dublin 1,q2,40%
+08/09/2015,"Flat 3 Level 1, Custom House Harbour Ifsc, Dublin 1",Dublin,200000.0,No,Custom House,Dublin 1,q1,30%
+16/09/2015,"79 Spencer House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,185500.0,No,Custom House,Dublin 1,q1,20%
+06/10/2015,"43 Malton House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,225000.0,No,Custom House,Dublin 1,q2,40%
+29/10/2015,"8 Slaney House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,307000.0,No,Custom House,Dublin 1,q3,70%
+27/11/2015,"7 Berry House, Custom House Sq, Dublin 1 Ifsc",Dublin,385000.0,No,Custom House,Dublin 1,q4,100%
+03/12/2015,"Apt 326, Custom House Harbour, Custom House Docks Dublin 1",Dublin,285000.0,No,Custom House,Dublin 1,q3,60%
+08/12/2015,"62 Lee House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,217000.0,No,Custom House,Dublin 1,q2,30%
+09/12/2015,"Apt.57 -  Beresford House, Custom House Square, Ifsc",Dublin,357000.0,No,Custom House,Dublin 1,q4,90%
+18/12/2015,"11 Slaney House, Custom House Sq, Dublin 1",Dublin,287000.0,No,Custom House,Dublin 1,q3,60%
+23/12/2015,"Apt 289, Custom House Harbour, I F S C Dublin 1",Dublin,313000.0,No,Custom House,Dublin 1,q3,70%
+15/01/2016,"Apt 98, Custom House Harbour, Dublin 1",Dublin,207000.0,No,Custom House,Dublin 1,q2,30%
+04/02/2016,"Apt.44  - Beresford House, Custom House Square, Ifsc",Dublin,266000.0,No,Custom House,Dublin 1,q2,50%
+12/02/2016,"44 Aran House, Custom House Sq, Mayor St Lower",Dublin,235000.0,No,Custom House,Dublin 1,q2,40%
+18/03/2016,"308 Custom House Harbour, Ifsc, Dublin 1",Dublin,295000.0,No,Custom House,Dublin 1,q3,60%
+12/04/2016,"Apt 99, Rathlin House, Custom House Sq",Dublin,200000.0,No,Custom House,Dublin 1,q2,30%
+29/04/2016,"327 Ifsc, Custom House Harbour, Dublin 1",Dublin,315000.0,No,Custom House,Dublin 1,q3,70%
+03/05/2016,"99 Hook Head, Custom House Harbour, Custom House Quay Dublin 1",Dublin,220000.0,No,Custom House,Dublin 1,q2,40%
+06/05/2016,"18 Burton House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,250000.0,No,Custom House,Dublin 1,q2,40%
+14/06/2016,"2 Spencer House, Custom House Sq, Dublin 1",Dublin,2812500.0,No,Custom House,Dublin 1,q4,100%
+14/06/2016,"Apt 5, Valentia House, Custom House Sq Dublin 1",Dublin,394000.0,No,Custom House,Dublin 1,q4,100%
+16/06/2016,"89 Moy House, Custom House Sq, I F S C Dublin 1",Dublin,262000.0,No,Custom House,Dublin 1,q2,50%
+01/07/2016,"29 Aran House, Custom House Square, Lower Mayor Street",Dublin,205000.0,No,Custom House,Dublin 1,q2,30%
+18/07/2016,"21 Gandon House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,330000.0,No,Custom House,Dublin 1,q3,80%
+25/07/2016,"33 Malton House, Custom House Sq, Mayor St Lower",Dublin,287000.0,No,Custom House,Dublin 1,q3,60%
+26/07/2016,"3 Achill House, Custom House Sq, Lower Mayor St Dublin 1",Dublin,310000.0,No,Custom House,Dublin 1,q3,70%
+14/09/2016,"Apt 19 Block A, Mayor St, Custom House Sq",Dublin,300000.0,No,Custom House,Dublin 1,q3,70%
+28/09/2016,"28 Aran House Custom House Sq, Lr Mayor St, Dublin 1",Dublin,360000.0,No,Custom House,Dublin 1,q4,90%
+01/10/2016,"54 Lee House, Custom House Sq, Mayor St Dublin 1",Dublin,275000.0,No,Custom House,Dublin 1,q2,50%
+04/10/2016,"56 Spencer House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,260000.0,No,Custom House,Dublin 1,q2,50%
+24/10/2016,"44 Spencer House, Custom House Square, Ifsc",Dublin,253000.0,No,Custom House,Dublin 1,q2,50%
+21/11/2016,"114 Custom House Harbour, Custom House Quay, Dublin 1",Dublin,250000.0,No,Custom House,Dublin 1,q2,50%
+23/11/2016,"124 Scarriff House, Custom House Sq, Dublin 1",Dublin,275000.0,No,Custom House,Dublin 1,q2,50%
+01/12/2016,"86 Spencer House, Custom House Sq, Ifsc",Dublin,297000.0,No,Custom House,Dublin 1,q3,70%
+09/12/2016,"178 Skellig House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,410000.0,No,Custom House,Dublin 1,q4,100%
+13/12/2016,"132 Custom House Harbour, Ifsc, Dublin 1",Dublin,327000.0,No,Custom House,Dublin 1,q3,80%
+22/12/2016,"22 Achill House, Custom House Sq, Mayor St Lower",Dublin,265000.0,No,Custom House,Dublin 1,q2,50%
+12/01/2017,"67 Spencer House, Custom House Sq, I F S C Dublin 1",Dublin,370500.0,No,Custom House,Dublin 1,q4,90%
+13/01/2017,"56 Custom House Harbour, Ifsc, Dublin 1",Dublin,331000.0,No,Custom House,Dublin 1,q3,80%
+20/01/2017,"128 Scariff House, Custom House Square, Dublin 1",Dublin,356000.0,No,Custom House,Dublin 1,q4,90%
+13/02/2017,"20 Slaney House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,364000.0,No,Custom House,Dublin 1,q4,90%
+23/02/2017,"60 Custom House Harbour Apts, Custom House Harbour, Dublin 1",Dublin,266650.0,No,Custom House,Dublin 1,q2,50%
+02/03/2017,"226 Custom House Harbour, Ifsc, Dublin 1",Dublin,393000.0,No,Custom House,Dublin 1,q4,100%
+07/03/2017,"126 Scarriff House, Custom House Sq, Mayor St Dublin 1",Dublin,275000.0,No,Custom House,Dublin 1,q2,50%
+07/03/2017,"Apt 12, Spencer House, Custom House Sq Dublin 1",Dublin,2875000.0,No,Custom House,Dublin 1,q4,100%
+08/03/2017,"Apt 315, Argylle, Custom House Harbour Dublin 1",Dublin,310000.0,No,Custom House,Dublin 1,q3,70%
+14/03/2017,"144 Custom House Harbour, Ifsc, Dublin 1",Dublin,320000.0,No,Custom House,Dublin 1,q3,80%
+29/03/2017,"1 Boyne House, Custom House Square, Mayor St Lower",Dublin,280000.0,No,Custom House,Dublin 1,q3,60%
+24/04/2017,"15 Lagan House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,220000.0,No,Custom House,Dublin 1,q2,40%
+05/05/2017,"27 The Bailey, Custom House Harbour, Ifsc Dublin 1",Dublin,305000.0,No,Custom House,Dublin 1,q3,70%
+26/05/2017,"296 North Argyle, Custom House Harbour Appartments, Harbourmaster Place",Dublin,347000.0,No,Custom House,Dublin 1,q4,80%
+01/06/2017,"11 Burton House, Custom House Sq, I F S C Dublin 1",Dublin,340000.0,No,Custom House,Dublin 1,q4,80%
+02/06/2017,"330 Custom House Harbour, Ifsc, Dublin 1",Dublin,528000.0,No,Custom House,Dublin 1,q4,100%
+19/06/2017,"Apt 252 The Asgard, Custom House Harbour, Ifsc Dublin 1",Dublin,395000.0,No,Custom House,Dublin 1,q4,100%
+20/06/2017,"18 Achill House, Custom House Sq, Mayor St Lower",Dublin,291500.0,No,Custom House,Dublin 1,q3,60%
+18/07/2017,"85 Moy House, Custom House Sq, Ifsc Dublin 1",Dublin,320000.0,No,Custom House,Dublin 1,q3,80%
+08/08/2017,"144 Shannon House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,325000.0,No,Custom House,Dublin 1,q3,80%
+17/08/2017,"102 Rathlin House, Custom House Sq, Ifsc Dublin 1",Dublin,287000.0,No,Custom House,Dublin 1,q3,60%
+05/09/2017,"114 Custom House Harbour, Custom House Quay, Dublin 1",Dublin,357500.0,No,Custom House,Dublin 1,q4,90%
+08/09/2017,"153 Custom House Harbour, Ifsc, Dublin 1",Dublin,362000.0,No,Custom House,Dublin 1,q4,90%
+11/09/2017,"2 Achill House, Custom House Sq, Lower Mayor St Dublin 1",Dublin,237000.0,No,Custom House,Dublin 1,q2,40%
+20/09/2017,"201 Tuskar Rock, Custom House Harbour, I F S C Dublin 1",Dublin,377000.0,No,Custom House,Dublin 1,q4,90%
+28/09/2017,"21 Malton House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,307500.0,No,Custom House,Dublin 1,q3,70%
+12/10/2017,"105 Custom House Harbour, Ifsc, Dublin 1",Dublin,375000.0,No,Custom House,Dublin 1,q4,90%
+12/10/2017,"332 Custom House Harbour, Ifsc, Dublin 1",Dublin,486000.0,No,Custom House,Dublin 1,q4,100%
+20/10/2017,"198 Tuskar Rock, Custom House Harbour, I F S C Dublin 1",Dublin,347000.0,No,Custom House,Dublin 1,q4,90%
+13/11/2017,"140 The Kish, Custom House Harbour, Ifsc",Dublin,321000.0,No,Custom House,Dublin 1,q3,80%
+30/11/2017,"274 Custom House Harbour, Ifsc, Dublin 1",Dublin,400000.0,No,Custom House,Dublin 1,q4,100%
+01/12/2017,"168 Skellig House, Custom House Sq, Mayor St Lower",Dublin,350000.0,No,Custom House,Dublin 1,q4,90%
+08/12/2017,"23 Spencer House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,395000.0,No,Custom House,Dublin 1,q4,100%
+14/12/2017,"Apt 25, Achill Court, Custom House Sq",Dublin,505000.0,No,Custom House,Dublin 1,q4,100%
+15/12/2017,"Apt.20 - Block B, Beresford House, Custom House Square",Dublin,334000.0,No,Custom House,Dublin 1,q4,80%
+21/12/2017,"20 Berry House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,602500.0,No,Custom House,Dublin 1,q4,100%
+16/01/2018,"Apt 2, Barrow House, Custom House Sq Dublin 1",Dublin,305000.0,No,Custom House,Dublin 1,q3,70%
+26/01/2018,"220 Asgard, Custom House Harbour, I F S C",Dublin,418000.0,No,Custom House,Dublin 1,q4,100%
+09/03/2018,"217 The Asgard, Custom House Harbour, Dublin 1",Dublin,406000.0,No,Custom House,Dublin 1,q4,100%
+15/03/2018,"81 Custom House Sq, Mayor St Lower, I F S C Dublin 1",Dublin,338000.0,No,Custom House,Dublin 1,q4,80%
+18/04/2018,"Apt 133, The Kish, Custom House Harbour Dublin 1",Dublin,325000.0,No,Custom House,Dublin 1,q3,80%
+19/04/2018,"19 Slaney House, Custom House Sq, Ifsc",Dublin,397000.0,No,Custom House,Dublin 1,q4,100%
+03/05/2018,"1 Custom House Harbour, Ifsc, Dublin 1",Dublin,400000.0,No,Custom House,Dublin 1,q4,100%
+04/05/2018,"Apt 305, Custom House Harbour, Ifsc",Dublin,365000.0,No,Custom House,Dublin 1,q4,90%
+10/05/2018,"96 Hook Head, Custom House Harbour, I F S C Dublin 1",Dublin,357500.0,No,Custom House,Dublin 1,q4,90%
+15/05/2018,"Apt 47A, Molton House, Custom House Sq",Dublin,310000.0,No,Custom House,Dublin 1,q3,70%
+17/05/2018,"213 Tuskar Rock, Custom House Harbour, Dublin 1",Dublin,360000.0,No,Custom House,Dublin 1,q4,90%
+08/06/2018,"14 Malton House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,240000.0,No,Custom House,Dublin 1,q2,40%
+04/07/2018,"194 Custom House Harbour, Tuskar Block, Ifsc Dublin 1",Dublin,355000.0,No,Custom House,Dublin 1,q4,90%
+06/07/2018,"Apt 51, Spencer House, Custom House Sq Dublin 1",Dublin,361000.0,No,Custom House,Dublin 1,q4,90%
+09/07/2018,"150 Custom House Harbour, Custom House Dock, Ifsc Dublin 1",Dublin,363000.0,No,Custom House,Dublin 1,q4,90%
+19/07/2018,"Apt 17, Beresford House, Custom House Sq Dublin 1",Dublin,260000.0,No,Custom House,Dublin 1,q2,50%
+01/08/2018,"214 Tuskar Rock, Custom House Harbour, I F S C Dublin 1",Dublin,345000.0,No,Custom House,Dublin 1,q4,80%
+07/08/2018,"55 Spencer House, Custom House Sq, Dublin 7",Dublin,325000.0,No,Custom House,Dublin 1,q3,80%
+09/08/2018,"15 Custom House Harbour, Ifsc Dublin 1, Dublin",Dublin,285000.0,No,Custom House,Dublin 1,q3,60%
+09/08/2018,"96 Rathlin House, Custom House Sq, Lower Mayor St Dublin 1",Dublin,285000.0,No,Custom House,Dublin 1,q3,60%
+22/08/2018,"13 Boyne House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,535000.0,No,Custom House,Dublin 1,q4,100%
+24/08/2018,"55 Beresford House, Custom House Sq, Lower Mayor St Dublin 1",Dublin,285000.0,No,Custom House,Dublin 1,q3,60%
+03/09/2018,"163 Skellig House, Custom House Sq, Mayor St Dublin 1",Dublin,400000.0,No,Custom House,Dublin 1,q4,100%
+28/09/2018,"246 Custom House Harbour, Ifsc, Dublin 1",Dublin,375000.0,No,Custom House,Dublin 1,q4,90%
+01/10/2018,"10 Malton House, Custom House Sq, Dublin 1",Dublin,322500.0,No,Custom House,Dublin 1,q3,80%
+03/10/2018,"12 Gandon House, Custom House Sq, Mayor St Dublin 1",Dublin,585000.0,No,Custom House,Dublin 1,q4,100%
+23/10/2018,"166 Custom House Habour, Ifsc, Dublin 1",Dublin,300000.0,No,Custom House,Dublin 1,q3,70%
+14/11/2018,"230 Asgard House, Custom House Harbour, Ifsc Dublin 1",Dublin,375000.0,No,Custom House,Dublin 1,q4,90%
+11/01/2019,"7 Boyne House, Custom House Sq, Mayor St Lower",Dublin,280000.0,No,Custom House,Dublin 1,q3,60%
+05/03/2019,"Apt 205, Tuskar Rock, Custom House Harbour Dublin 1",Dublin,320000.0,No,Custom House,Dublin 1,q3,80%
+11/03/2019,"31 Beresford House Custom House Sq, Dublin 1",Dublin,342000.0,No,Custom House,Dublin 1,q4,80%
+08/04/2019,"5 Spencer House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,4064100.0,No,Custom House,Dublin 1,q4,100%
+12/04/2019,"Apt 5, Malton House, Custom House Sq Dublin 1",Dublin,267000.0,No,Custom House,Dublin 1,q2,50%
+26/04/2019,"1 Semple House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,340000.0,No,Custom House,Dublin 1,q4,80%
+17/05/2019,"16 Spencer House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,350000.0,No,Custom House,Dublin 1,q4,90%
+24/05/2019,"Apartment 35 Aran House, Custom House Square, Ifsc",Dublin,438000.0,No,Custom House,Dublin 1,q4,100%
+28/05/2019,"10 Lagan House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,295000.0,No,Custom House,Dublin 1,q3,70%
+05/06/2019,"333 Custom House Harbour, Ifsc, Dublin 1",Dublin,445000.0,No,Custom House,Dublin 1,q4,100%
+21/06/2019,"Apt 4, Aranmore, Custom House Harbour Dublin 1",Dublin,357000.0,No,Custom House,Dublin 1,q4,90%
+28/06/2019,"102 Custom House Harbour, Custom House Docks, Ifsc Dublin 1",Dublin,287000.0,No,Custom House,Dublin 1,q3,60%
+15/07/2019,"166 Custom House Habour, Ifsc, Dublin 1",Dublin,386000.0,No,Custom House,Dublin 1,q4,100%
+17/07/2019,"6 Achill House, Custom House Sq, Ifsc Dublin 1",Dublin,345000.0,No,Custom House,Dublin 1,q4,80%
+01/08/2019,"12 Apartments At Spencer House, Custom House Sq, Dublin 1",Dublin,5351000.0,No,Custom House,Dublin 1,q4,100%
+09/08/2019,"Apt 17, Achill House, Custom House Sq Dublin 1",Dublin,275000.0,No,Custom House,Dublin 1,q2,50%
+14/08/2019,"27 Burton House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,460000.0,No,Custom House,Dublin 1,q4,100%
+15/08/2019,"Apt 69 Fasnet, Custom House Harbour, I F S C Dublin 1",Dublin,295000.0,No,Custom House,Dublin 1,q3,70%
+16/08/2019,"59 Malton House, Custom House Sq, Dublin 1",Dublin,365000.0,No,Custom House,Dublin 1,q4,90%
+21/08/2019,"4 Semple House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,235000.0,No,Custom House,Dublin 1,q2,40%
+06/09/2019,"25 Beresford House, Custom House Sq, Mayor St Lower Dublin 1",Dublin,280000.0,No,Custom House,Dublin 1,q3,60%
+16/09/2019,"50 Malton House, Lower Mayor St, Custom House Sq Dublin 1",Dublin,380000.0,No,Custom House,Dublin 1,q4,90%
+24/09/2019,"Apt 17 Block C, Gandon House, Custom House Sq Dublin 2",Dublin,380000.0,No,Custom House,Dublin 1,q4,90%
+26/09/2019,"62 Eagle Island, Custom House Harbour, Custom House Docks",Dublin,292000.0,No,Custom House,Dublin 1,q3,60%
+04/10/2019,"64 Spencer House, Custom House Sq, Dublin",Dublin,335000.0,No,Custom House,Dublin 1,q4,80%

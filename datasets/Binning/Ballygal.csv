@@ -1,0 +1,34 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+11/02/2011,"55 Ballygall Road East, Glasnevin",Dublin,360000.0,No,Ballygal,Dublin 11,q4,90%
+20/06/2012,"Hillcrest, 174 Ballygall Road East, Glasnevin",Dublin,190000.0,No,Ballygal,Dublin 11,q1,30%
+20/08/2012,"48 Glasanaon Road, Ballygall",Dublin,120000.0,No,Ballygal,Dublin 11,q1,10%
+24/08/2012,"166 Ballygall Road East, Glasnevin",Dublin,191000.0,No,Ballygal,Dublin 11,q2,30%
+22/10/2012,"176 Ballygall Road East, Glasnevin",Dublin,235000.0,No,Ballygal,Dublin 11,q2,50%
+28/08/2013,"62 Ballygall Road East, Glasnevin",Dublin,315000.0,No,Ballygal,Dublin 11,q3,70%
+07/11/2013,"55 Ballygall Road West, Dublin 11",Dublin,100000.0,No,Ballygal,Dublin 11,q1,10%
+20/12/2013,"19 Ballygall Ave, Dublin 11, Dublin",Dublin,176000.0,No,Ballygal,Dublin 11,q1,30%
+07/02/2014,"39 Cremore Heights, Ballygall Rd, Glasnevin Dublin 11",Dublin,210000.0,No,Ballygal,Dublin 11,q2,40%
+03/12/2014,"151 Ballygall Parade, Dublin 11, Dublin",Dublin,161253.0,No,Ballygal,Dublin 11,q1,20%
+07/01/2015,"14 Johnstown Park, Ballygall Rd East, Dublin 11",Dublin,340000.0,No,Ballygal,Dublin 11,q3,80%
+09/01/2015,"7 Johnstown House, Ballygall Rd East, Dublin 11",Dublin,225000.0,No,Ballygal,Dublin 11,q2,50%
+07/07/2015,"Apt 20 Johnstown House, Ballygall Road East, Dublin 11",Dublin,170000.0,No,Ballygal,Dublin 11,q1,20%
+18/08/2015,"229 Ballygall Rd East, Glasnevin, Dublin 11",Dublin,310000.0,No,Ballygal,Dublin 11,q3,60%
+03/12/2015,"93 Ferndale Ave, Ballygall, Dublin 11",Dublin,290000.0,No,Ballygal,Dublin 11,q2,50%
+08/01/2016,"9 Johnstown House, Ballygall Rd East, Glasnevin Dublin 11",Dublin,200000.0,No,Ballygal,Dublin 11,q2,40%
+12/02/2016,"23 Hillcrest Park, Ballygall Rd East, Dublin 11",Dublin,325000.0,No,Ballygal,Dublin 11,q3,70%
+23/03/2016,"62 Ballygall Crescent, Dublin 11, Dublin",Dublin,139950.0,No,Ballygal,Dublin 11,q1,10%
+05/08/2016,"51 Hillcrest Park, Ballygall, Dublin 11",Dublin,350000.0,No,Ballygal,Dublin 11,q3,80%
+20/09/2016,"153 Hillcrest Park, Ballygall Rd East, Dublin 11",Dublin,370000.0,No,Ballygal,Dublin 11,q4,90%
+29/09/2016,"229A Ballygall Rd East, Glasnevin, Dublin 11",Dublin,383000.0,Yes,Ballygal,Dublin 11,q4,90%
+08/12/2016,"18 West Park Dr, Ballygall Rd East, Dublin 11",Dublin,290000.0,No,Ballygal,Dublin 11,q3,60%
+20/12/2016,"229 Ballygall Rd East, Glasnevin, Dublin 11",Dublin,356000.0,No,Ballygal,Dublin 11,q4,80%
+29/08/2017,"65B Ballygall Road East, Glasnevin, Dublin 11",Dublin,310000.0,Yes,Ballygal,Dublin 11,q3,70%
+29/11/2017,"34 Hillcrest Park, Ballygall Rd East, Dublin 11",Dublin,500000.0,No,Ballygal,Dublin 11,q4,100%
+05/01/2018,"60 Griffith Parade, Ballygall Rd East, Dublin 11",Dublin,280000.0,No,Ballygal,Dublin 11,q2,50%
+16/04/2018,"112 Ballygall Rd West, Dublin 11, Dublin",Dublin,292000.0,No,Ballygal,Dublin 11,q3,60%
+11/06/2018,"4 Cremore Heights, Ballygall Rd East, Glasnevin Dublin 11",Dublin,405000.0,No,Ballygal,Dublin 11,q4,100%
+08/11/2018,"5 Johnstown House, Ballygall Rd East, Dublin 11",Dublin,172500.0,No,Ballygal,Dublin 11,q1,20%
+29/11/2018,"4 West Park Dr, Ballygall Rd East, Dublin 11",Dublin,383000.0,No,Ballygal,Dublin 11,q4,100%
+17/01/2019,"34 Ferndale Ave, Ballygall, Dublin 11",Dublin,200000.0,No,Ballygal,Dublin 11,q2,40%
+06/09/2019,"31 Ballygall Rd East, Glasnevin Dublin 11, Dublin",Dublin,150000.0,No,Ballygal,Dublin 11,q1,10%
+13/09/2019,"16 Hillcrest Park, Ballygall Road East, Dublin 9",Dublin,385000.0,No,Ballygal,Dublin 11,q4,100%

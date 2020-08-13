@@ -1,0 +1,686 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+22/01/2010,"1 Barnwell Way, Barnwell  Hansfield, Dublin 15",Dublin,236499.0,Yes,Hansfield,Dublin 15,q1,20%
+16/02/2010,"16 Barnwell Green, Barnwell, Hansfield",Dublin,325000.0,Yes,Hansfield,Dublin 15,q4,80%
+29/03/2010,"4 Barnwell Crescent, Barnwell, Hansfield",Dublin,231113.5,Yes,Hansfield,Dublin 15,q1,20%
+30/03/2010,"1 Barnwell Avenue, Barnwell, Hansfield",Dublin,224950.0,Yes,Hansfield,Dublin 15,q1,20%
+04/06/2010,"29 Barnwell Place, Barnwell, Hansfield",Dublin,164757.7,Yes,Hansfield,Dublin 15,q1,10%
+21/06/2010,"8  Barnwell Crescent, Barnwell, Hansfield",Dublin,227558.08,Yes,Hansfield,Dublin 15,q1,20%
+24/06/2010,"39 Barnwell Place, Hansfield, Dublin 15",Dublin,194582.0,Yes,Hansfield,Dublin 15,q1,20%
+30/09/2010,"9 Barnwell Road, Barnwell, Hansfield",Dublin,222423.0,Yes,Hansfield,Dublin 15,q1,20%
+14/10/2010,"2 Barnwell Avenue, Barnwell  Hansfield, Dublin 15",Dublin,36028.3,Yes,Hansfield,Dublin 15,q1,10%
+12/11/2010,"15 Barnwell Avenue, Barnwell, Hansfield",Dublin,312607.79,Yes,Hansfield,Dublin 15,q3,80%
+22/12/2010,"25 Barwell Place, Barnwell, Hansfield",Dublin,182000.0,Yes,Hansfield,Dublin 15,q1,20%
+22/12/2010,"33 Barnwell Place  Barnwell, Hansfield",Dublin,152644.0,Yes,Hansfield,Dublin 15,q1,10%
+03/02/2011,"3 Barnwell Way, Hansfield",Dublin,213000.0,Yes,Hansfield,Dublin 15,q1,20%
+18/03/2011,"10 Barnwell Way, Barnwell  Hansfield, Dublin 15",Dublin,180000.0,Yes,Hansfield,Dublin 15,q1,10%
+18/03/2011,"4 Barnwell Way, Barnwell  Hansfield, Dublin 15",Dublin,180000.0,Yes,Hansfield,Dublin 15,q1,10%
+21/03/2011,"Unit 12 Barnwell Way, Barnwell, Hansfield",Dublin,183259.91,Yes,Hansfield,Dublin 15,q1,20%
+31/03/2011,"7 Barnwell Road, Hansfield",Dublin,233480.18,Yes,Hansfield,Dublin 15,q1,20%
+26/05/2011,"33 Barnwell Road, Barnwell Hansfield",Dublin,273127.75,Yes,Hansfield,Dublin 15,q2,40%
+26/09/2011,"41 Barnwell Place, Hansfield, Dublin 15",Dublin,171686.18,Yes,Hansfield,Dublin 15,q1,10%
+18/04/2012,"10 Barnwell Crescent, Barnwell, Hansfield",Dublin,164950.0,Yes,Hansfield,Dublin 15,q1,10%
+18/04/2012,"21 Barnwell Place, Barnwell, Hansfield",Dublin,126000.0,Yes,Hansfield,Dublin 15,q1,10%
+04/05/2012,"14 Barnwell Place, Hansfield",Dublin,109251.0,Yes,Hansfield,Dublin 15,q1,10%
+04/05/2012,"5 Barnwell Green, Barnwell  Hansfield",Dublin,145330.0,Yes,Hansfield,Dublin 15,q1,10%
+10/05/2012,"12 Barnwell Way, Hansfield, Dublin 15",Dublin,150000.0,No,Hansfield,Dublin 15,q1,10%
+23/05/2012,"49 Barnwell Place, Hansfield",Dublin,133000.0,No,Hansfield,Dublin 15,q1,10%
+19/06/2012,"31 Barnwell Crescent, Hansfield, Dublin 15",Dublin,140926.0,Yes,Hansfield,Dublin 15,q1,10%
+26/06/2012,"14 Barnwell Drive, Hansfield, Dublin 15",Dublin,164950.0,Yes,Hansfield,Dublin 15,q1,10%
+04/07/2012,"21 Barnwell Road, Hansfield, Dublin 5",Dublin,134801.76,Yes,Hansfield,Dublin 15,q1,10%
+13/07/2012,"13 Barnwell Terrace, Hansfield",Dublin,151000.0,Yes,Hansfield,Dublin 15,q1,10%
+08/08/2012,"13  Barnwell Drive, Barnwell, Hansfield",Dublin,164196.0,Yes,Hansfield,Dublin 15,q1,10%
+13/08/2012,"1 Barnwell Terrace, Hansfield, Dublin 15",Dublin,140925.11,Yes,Hansfield,Dublin 15,q1,10%
+14/08/2012,"9 Barnwell Way, Hansfield, Dublin 15",Dublin,136519.9,Yes,Hansfield,Dublin 15,q1,10%
+17/08/2012,"18 Barnwell Avenue, Hansfield, Dublin 15",Dublin,195000.0,No,Hansfield,Dublin 15,q1,20%
+17/08/2012,"4 Barnwell Way, Hansfield, Dublin 12",Dublin,150000.0,No,Hansfield,Dublin 15,q1,10%
+23/08/2012,"7 Barnwell Way, Hansfield",Dublin,134801.76,Yes,Hansfield,Dublin 15,q1,10%
+31/08/2012,"3 Barnwell Lane, Barnwell, Hansfield",Dublin,154950.0,Yes,Hansfield,Dublin 15,q1,10%
+03/09/2012,"2 Barnwell Way, Hansfield, Dubin 15",Dublin,136520.0,Yes,Hansfield,Dublin 15,q1,10%
+11/09/2012,"11 Barnwell Road, Hansfield",Dublin,155000.0,Yes,Hansfield,Dublin 15,q1,10%
+18/09/2012,"5 Barnwell Terrace, Hansfield",Dublin,136519.82,Yes,Hansfield,Dublin 15,q1,10%
+27/09/2012,"31 Barnwell Road, Hansfield",Dublin,169163.0,Yes,Hansfield,Dublin 15,q1,10%
+04/10/2012,"14 Bramwell Cresent, Hansfield",Dublin,164950.0,Yes,Hansfield,Dublin 15,q1,10%
+19/10/2012,"13  Barnwell Green, Barnwell, Hansfield",Dublin,105682.81,Yes,Hansfield,Dublin 15,q1,10%
+15/11/2012,"11 Barnwell Lane, Hansfield",Dublin,119950.0,Yes,Hansfield,Dublin 15,q1,10%
+21/11/2012,"5 Barnwell Drive, Hansfield, Dublin 15",Dublin,145330.0,Yes,Hansfield,Dublin 15,q1,10%
+26/11/2012,"5 Barnwell Avenue, Hansfield",Dublin,119950.0,Yes,Hansfield,Dublin 15,q1,10%
+05/12/2012,"3 Barnwell Avenue, Hansfield",Dublin,119950.0,Yes,Hansfield,Dublin 15,q1,10%
+05/12/2012,"3 Barnwell Crescent, Barnwell, Hansfield",Dublin,185000.0,Yes,Hansfield,Dublin 15,q1,20%
+10/12/2012,"13 Barnwell Lane, Hansfield, Dublin 15",Dublin,103756.75,Yes,Hansfield,Dublin 15,q1,10%
+11/12/2012,"6 Barnwell Way, Hansfield",Dublin,136519.82,Yes,Hansfield,Dublin 15,q1,10%
+13/12/2012,"8 Barnwell Way, Hansfield",Dublin,134730.0,Yes,Hansfield,Dublin 15,q1,10%
+20/12/2012,"9 Barnwell Drive, Hansfield, Dublin 15",Dublin,134740.0,Yes,Hansfield,Dublin 15,q1,10%
+21/12/2012,"3 Barnwell Terrace, Hansfield, Dubin 15",Dublin,134730.0,Yes,Hansfield,Dublin 15,q1,10%
+21/12/2012,"8 Barnwell Drive, Hansfield, Dublin 15",Dublin,134730.0,Yes,Hansfield,Dublin 15,q1,10%
+02/01/2013,"2 Barnwell Terrace, Hansfield, Dublin 15",Dublin,147974.0,Yes,Hansfield,Dublin 15,q1,10%
+14/01/2013,"14 Barnwell Avenue, Hansfield",Dublin,103756.75,Yes,Hansfield,Dublin 15,q1,10%
+25/02/2013,"7 Barnwell Lane, Hansfield",Dublin,136519.82,Yes,Hansfield,Dublin 15,q1,10%
+01/03/2013,"10 Barnwell Drive, Hansfield",Dublin,135398.0,Yes,Hansfield,Dublin 15,q1,10%
+12/04/2013,"11 Barnwell Way, Hansfield, Dublin 15",Dublin,134075.0,Yes,Hansfield,Dublin 15,q1,10%
+26/06/2013,"27 Barnwell Road, Hansfield",Dublin,136519.0,Yes,Hansfield,Dublin 15,q1,10%
+04/07/2013,"15 Barnwell Terrace, Hansfield",Dublin,138356.75,Yes,Hansfield,Dublin 15,q1,10%
+02/08/2013,"27 Barnwell Crescent, Hansfield",Dublin,131480.0,Yes,Hansfield,Dublin 15,q1,10%
+08/10/2013,"4 Barnwell Terrace, Hansfield, Dublin 15",Dublin,200000.0,No,Hansfield,Dublin 15,q1,20%
+10/01/2014,"14 Barnwell Way, Barnwell, Hansfield",Dublin,136563.87,Yes,Hansfield,Dublin 15,q1,10%
+03/02/2014,"9 Barnwell Lane, Hansfield, Dublin 15",Dublin,136519.82,Yes,Hansfield,Dublin 15,q1,10%
+28/07/2015,"15 Barnwell Lane, Barnwell, Hansfield",Dublin,277500.0,Yes,Hansfield,Dublin 15,q2,50%
+30/07/2015,"19 Barnwell Lane, Hansfield, Barnwell",Dublin,197698.23,Yes,Hansfield,Dublin 15,q1,20%
+31/07/2015,"5 Barnwell Lawns, Hansfield, Dublin 15",Dublin,295000.0,Yes,Hansfield,Dublin 15,q3,60%
+18/08/2015,"Unit 2, Barnwell Mews, Hansfield",Dublin,240464.0,Yes,Hansfield,Dublin 15,q1,20%
+20/08/2015,"25 Barnwell Lane, Hansfield, Dublin 15",Dublin,260162.6,Yes,Hansfield,Dublin 15,q2,30%
+27/08/2015,"9 Barnwell Lawn, Barnwell, Hansfield",Dublin,272588.0,Yes,Hansfield,Dublin 15,q2,40%
+22/09/2015,"4 Barnwell Mews, Hansfield, Barnwell",Dublin,244326.0,Yes,Hansfield,Dublin 15,q1,20%
+02/10/2015,"15 Barnwell Lawn, Hansfield, Dublin 15",Dublin,329856.82,Yes,Hansfield,Dublin 15,q4,90%
+20/10/2015,"17 Barnwell Lane, Hansfield, Dublin 15",Dublin,178861.79,Yes,Hansfield,Dublin 15,q1,10%
+25/11/2015,"1 Barnwell Mews, Hansfield, Barnwell",Dublin,267301.0,Yes,Hansfield,Dublin 15,q2,40%
+04/12/2015,"12 Barnwell Lane, Hansfield, Bernwell",Dublin,254966.0,Yes,Hansfield,Dublin 15,q1,30%
+07/12/2015,"10 Barnwell Lane, Hansfield, Dublin 15",Dublin,237345.81,Yes,Hansfield,Dublin 15,q1,20%
+16/12/2015,"23 Barnwell Lane, Hansfield, Barnwell",Dublin,325000.0,Yes,Hansfield,Dublin 15,q4,80%
+17/12/2015,"18 Barnwell Way, Hansfield, Barnwell",Dublin,254964.0,Yes,Hansfield,Dublin 15,q1,30%
+21/12/2015,"3 Barnwell Walk, Hansfield",Dublin,233480.0,Yes,Hansfield,Dublin 15,q1,20%
+21/12/2015,"35 Barnwell Road, Hansfield, Barnwell  Dublin",Dublin,263777.53,Yes,Hansfield,Dublin 15,q2,30%
+13/01/2016,"13 Barnwell Lawn, Hansfield, Barnwell",Dublin,263303.96,Yes,Hansfield,Dublin 15,q2,30%
+15/01/2016,"29 Barnwell Place, Barnwell, Hansfield Dublin 15",Dublin,195000.0,No,Hansfield,Dublin 15,q1,20%
+21/01/2016,"8 Barnwell Lane, Hansfield, Dublin 15",Dublin,254966.0,Yes,Hansfield,Dublin 15,q1,30%
+22/01/2016,"7 Barnwell Walk, Hansfield, Barnwell",Dublin,254966.0,Yes,Hansfield,Dublin 15,q1,30%
+28/01/2016,"6 Barnwell Lane, Hansfield, Dublin 15",Dublin,295000.0,Yes,Hansfield,Dublin 15,q3,60%
+02/02/2016,"11 Barnwell Walk, Barnwell, Hansfield",Dublin,215447.15,Yes,Hansfield,Dublin 15,q1,20%
+05/02/2016,"15 Barnwell Walk, Barnwell  Hansfield, Dublin 15",Dublin,254967.0,Yes,Hansfield,Dublin 15,q1,30%
+15/02/2016,"7 Barnwell Lawn, Hansfield, Dublin 15",Dublin,299020.0,Yes,Hansfield,Dublin 15,q3,70%
+19/02/2016,"1 Barnwell Walk, Hansfield, Barnwell",Dublin,237345.0,Yes,Hansfield,Dublin 15,q1,20%
+22/02/2016,"9 Barnwell Walk, Hansfield",Dublin,251101.0,Yes,Hansfield,Dublin 15,q1,30%
+24/02/2016,"13 Barnwell Walk, Hansfield",Dublin,237345.81,Yes,Hansfield,Dublin 15,q1,20%
+07/03/2016,"5 Barnwell Walk, Hansfield, Barnwell",Dublin,265000.0,Yes,Hansfield,Dublin 15,q2,40%
+20/05/2016,"5 Barnwell Gate, Barnwell, Hansfield",Dublin,316640.96,Yes,Hansfield,Dublin 15,q3,80%
+17/06/2016,"22 Barnwell Crescent, Hansfield, Dublin 15",Dublin,312236.0,Yes,Hansfield,Dublin 15,q3,80%
+15/07/2016,"16  Barnwell Crescent, Hansfield, Dublin 15",Dublin,245656.0,Yes,Hansfield,Dublin 15,q1,20%
+22/07/2016,"2 Station Rd, Hansfield",Dublin,312779.0,Yes,Hansfield,Dublin 15,q3,80%
+06/09/2016,"4 Station Road, Hansfield, Barnwell",Dublin,239647.0,Yes,Hansfield,Dublin 15,q1,20%
+06/09/2016,"6 Station Road, Barnwell, Hansfield",Dublin,237885.0,Yes,Hansfield,Dublin 15,q1,20%
+23/09/2016,"4 Barnwell Square West, Hansfield Square, Dublin 15",Dublin,290000.0,Yes,Hansfield,Dublin 15,q3,60%
+23/09/2016,"6 Barnwell Sq West, Barnwell Sq, Hansfield",Dublin,237885.0,Yes,Hansfield,Dublin 15,q1,20%
+26/09/2016,"3 Barnwell Square North, Barnwell Square, Hansfield",Dublin,254966.0,Yes,Hansfield,Dublin 15,q1,30%
+27/09/2016,"4 Barnwell Square North, Hansfield, Barnwell",Dublin,254966.96,Yes,Hansfield,Dublin 15,q1,30%
+29/09/2016,"3 Barnwell Square West, Barnwell Square, Hansfield",Dublin,237885.0,Yes,Hansfield,Dublin 15,q1,20%
+30/09/2016,"Unit 1 Barnwell Square North, Barnwell Square, Hansfield",Dublin,263777.53,Yes,Hansfield,Dublin 15,q2,30%
+05/10/2016,"4 Barnhall Lawn, Hansfield, Barnwell",Dublin,242290.75,Yes,Hansfield,Dublin 15,q1,20%
+05/10/2016,"7 Barnwell Sq, Hansfield",Dublin,237885.0,Yes,Hansfield,Dublin 15,q1,20%
+05/10/2016,"8 Barnwell Sq West, Hansfield",Dublin,263876.0,Yes,Hansfield,Dublin 15,q2,30%
+07/10/2016,"2 Barnwell Square West, Barnwell Square, Hansfield",Dublin,270000.0,Yes,Hansfield,Dublin 15,q2,40%
+07/10/2016,"5 Barnwell Square North, Hansfield, Dublin 15",Dublin,237345.81,Yes,Hansfield,Dublin 15,q1,20%
+11/10/2016,"10 Station Road, Barnwell, Hansfield",Dublin,263876.65,Yes,Hansfield,Dublin 15,q2,40%
+18/10/2016,"4 Barnwell Gate, Hansfield, Dublin 15",Dublin,281900.0,Yes,Hansfield,Dublin 15,q2,50%
+26/10/2016,"3 Barnwell Gate, Barnwell, Hansfield",Dublin,268722.0,Yes,Hansfield,Dublin 15,q2,40%
+27/10/2016,"6 Barnwell Square North, Barnwell Square, Hansfield",Dublin,233480.2,Yes,Hansfield,Dublin 15,q1,20%
+27/10/2016,"7 Barnwell Square North, Barnwell Square, Hansfield",Dublin,255175.0,Yes,Hansfield,Dublin 15,q1,30%
+04/11/2016,"5 Barnwell Square West, Hansfield Square",Dublin,290000.0,Yes,Hansfield,Dublin 15,q3,60%
+07/11/2016,"6 Barnwell Lawn, Hansfield, Barnwell",Dublin,276993.0,Yes,Hansfield,Dublin 15,q2,50%
+16/11/2016,"3 Barnwell Square North, Barnwell Square, Hansfield",Dublin,233480.17,Yes,Hansfield,Dublin 15,q1,20%
+23/11/2016,"2 Barnwell Lawn, Barnwell, Hansfield",Dublin,263455.0,Yes,Hansfield,Dublin 15,q2,30%
+24/11/2016,"1 Barnwell Gate, Hansfield",Dublin,262114.0,Yes,Hansfield,Dublin 15,q2,30%
+06/12/2016,"20 Barnwell Cres, Hansfield",Dublin,264312.0,Yes,Hansfield,Dublin 15,q2,40%
+08/12/2016,"1 Barnwell Square West, Barnwell Square, Hansfield",Dublin,263777.54,Yes,Hansfield,Dublin 15,q2,30%
+08/12/2016,"8 Barnwell Lawn, Barnwell, Hansfield",Dublin,325992.0,Yes,Hansfield,Dublin 15,q4,90%
+16/12/2016,"25 The Lawn, Hansfield Wood, Hansfield",Dublin,246696.0,Yes,Hansfield,Dublin 15,q1,20%
+16/12/2016,"5 The Lawn, Hansfield Wood",Dublin,219383.0,Yes,Hansfield,Dublin 15,q1,20%
+20/12/2016,"11 The Lawn, Hansfield Wood, Hansfield",Dublin,259911.9,Yes,Hansfield,Dublin 15,q2,30%
+20/12/2016,"19 The Lawn, Hansfield Wood",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+20/12/2016,"22 The Lawn, Hansfield Wood, Hansfield",Dublin,255506.6,Yes,Hansfield,Dublin 15,q1,30%
+20/12/2016,"3 The Lawn, Hansfield Wood, Hansfield",Dublin,293000.0,Yes,Hansfield,Dublin 15,q3,60%
+20/12/2016,"4 The Lawn, Hansfield Wood, Hansfield",Dublin,224669.0,Yes,Hansfield,Dublin 15,q1,20%
+21/12/2016,"10 The Lawn, Hansfield Wood, Hansfield",Dublin,259911.0,Yes,Hansfield,Dublin 15,q2,30%
+21/12/2016,"8 Station Road, Hansfield, Barnwell",Dublin,241751.11,Yes,Hansfield,Dublin 15,q1,20%
+22/12/2016,"5 Barnwell Chase, Hansfield, Dublin",Dublin,267742.29,Yes,Hansfield,Dublin 15,q2,40%
+12/01/2017,"6 The Lawn, Hansfield Wood, Hansfield",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+13/01/2017,"14 Barnwell Road, Hansfield, Barnwell",Dublin,251101.32,Yes,Hansfield,Dublin 15,q1,30%
+17/01/2017,"14 The Lawn, Hansfield Wood, Hansfield",Dublin,239837.4,Yes,Hansfield,Dublin 15,q1,20%
+20/01/2017,"17 The Lawn, Hansfield Wood, Hansfield",Dublin,317180.62,Yes,Hansfield,Dublin 15,q4,80%
+20/01/2017,"23 The Lawn, Hansfield Wood, Hansfield",Dublin,251101.0,Yes,Hansfield,Dublin 15,q1,30%
+24/01/2017,"20 The Lawn, Hansfield Wood, Hansfield",Dublin,242246.0,Yes,Hansfield,Dublin 15,q1,20%
+27/01/2017,"18 Barnwell Crescent, Hansfield, Barnwell",Dublin,305000.0,Yes,Hansfield,Dublin 15,q3,80%
+27/01/2017,"18 The Lawn, Hansfield Wood, Hansfield",Dublin,321585.91,Yes,Hansfield,Dublin 15,q4,80%
+30/01/2017,"16 The Lawn, Hansfield Wood  Hansfield, Dublin 15",Dublin,255175.0,Yes,Hansfield,Dublin 15,q1,30%
+30/01/2017,"24 The Lawn, Hansfield Wood, Hansfield",Dublin,246696.0,Yes,Hansfield,Dublin 15,q1,20%
+03/02/2017,"12 The Lawn, Hansfield Wood, Hansfield",Dublin,259911.0,Yes,Hansfield,Dublin 15,q2,30%
+03/02/2017,"26 The Lawn, Hansfield Wood, Hansfield",Dublin,251101.0,Yes,Hansfield,Dublin 15,q1,30%
+08/02/2017,"2 Barnwell Gate, Hansfield, Barnwell",Dublin,263876.65,Yes,Hansfield,Dublin 15,q2,40%
+10/02/2017,"9 The Lawn, Hansfield Wood",Dublin,273127.75,Yes,Hansfield,Dublin 15,q2,50%
+21/02/2017,"13 The Lawn, Hansfield Wood, Hansfield",Dublin,259911.0,Yes,Hansfield,Dublin 15,q2,30%
+21/02/2017,"3 Barnwell Chase, Barnwell, Hansfield",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+22/02/2017,"12  Barnwellheath, Hansfield, Barnwell",Dublin,125451.54,Yes,Hansfield,Dublin 15,q1,10%
+22/02/2017,"8 The Lawn, Hansfield Wood, Hansfield",Dublin,286343.61,Yes,Hansfield,Dublin 15,q3,60%
+02/03/2017,"1 Barnwell Chase, Barnwell, Hansfield",Dublin,265539.65,Yes,Hansfield,Dublin 15,q2,40%
+24/03/2017,"32 The Lawn, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+27/03/2017,"28 The Lawn, Hansfield Wood, Hansfield",Dublin,242246.0,Yes,Hansfield,Dublin 15,q1,20%
+30/03/2017,"2 Barnwell Chase, Hansfield",Dublin,325451.0,Yes,Hansfield,Dublin 15,q4,80%
+30/03/2017,"4 Barnwell Chase, Hansfield",Dublin,273125.0,Yes,Hansfield,Dublin 15,q2,40%
+31/03/2017,"10 Barnwell Chase, Hansfield, Barnwell",Dublin,267742.29,Yes,Hansfield,Dublin 15,q2,40%
+31/03/2017,"35 The Lawn, Hansfield Wood, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+31/03/2017,"4 Barnwell Road, Barnwell, Hansfield",Dublin,215319.0,Yes,Hansfield,Dublin 15,q1,20%
+31/03/2017,"7 The Avenue, Hansfield Wood, Hansfield",Dublin,273127.0,Yes,Hansfield,Dublin 15,q2,40%
+03/04/2017,"8 Barnwell Road, Hansfield, Barnwell",Dublin,246696.03,Yes,Hansfield,Dublin 15,q1,20%
+05/04/2017,"33 The Lawn, Hansfield Wood, Hansfield",Dublin,264273.12,Yes,Hansfield,Dublin 15,q2,40%
+05/04/2017,"6 Barnwell Chase, Hansfield, Barnwell",Dublin,263876.65,Yes,Hansfield,Dublin 15,q2,40%
+06/04/2017,"34 The Lawn, Hansfield Wood, Hansfield",Dublin,264300.0,Yes,Hansfield,Dublin 15,q2,40%
+07/04/2017,"6 Barnwell Road, Hansfield",Dublin,246696.0,Yes,Hansfield,Dublin 15,q1,20%
+10/04/2017,"2 Barnwell Road, Hansfield",Dublin,246696.04,Yes,Hansfield,Dublin 15,q1,20%
+12/04/2017,"13 The Avenue, Hansfield Wood",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+12/04/2017,"27 The Lawn, Hansfield, Hansfield Wood",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+12/04/2017,"Unit 10 Barnwell Road, Barnwell, Hansfield",Dublin,215319.38,Yes,Hansfield,Dublin 15,q1,20%
+13/04/2017,"10 Barnwell Heath, Hansfield, Barnwell",Dublin,281398.68,Yes,Hansfield,Dublin 15,q2,50%
+13/04/2017,"12 Barnwell Road, Hansfield, Barnwell",Dublin,250561.68,Yes,Hansfield,Dublin 15,q1,20%
+13/04/2017,"15 The Avenue, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+13/04/2017,"The Avenue, Hansfield Wood",Dublin,280000.0,Yes,Hansfield,Dublin 15,q2,50%
+20/04/2017,"3 Barnwell Square East, Barnwell Square, Hansfield",Dublin,239837.0,Yes,Hansfield,Dublin 15,q1,20%
+20/04/2017,"4 Barnwall Square East, Hansfield, Dublin 15",Dublin,263778.0,Yes,Hansfield,Dublin 15,q2,30%
+24/04/2017,"1 Barnwell Square East, Barnwell Square, Hansfield",Dublin,268722.0,Yes,Hansfield,Dublin 15,q2,40%
+24/04/2017,"7 Barnwell Square East, Barnwell, Hansfield",Dublin,272588.11,Yes,Hansfield,Dublin 15,q2,40%
+27/04/2017,"2 Barnwell Square East, Barnwell Square, Hansfield",Dublin,243953.75,Yes,Hansfield,Dublin 15,q1,20%
+27/04/2017,"45 The Lawn, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+28/04/2017,"21 The Avenue, Hansfield Wood, Hansfield",Dublin,296747.0,Yes,Hansfield,Dublin 15,q3,70%
+02/05/2017,"17 The Avenue, Hansfield Wood, Hansfield",Dublin,325991.0,Yes,Hansfield,Dublin 15,q4,80%
+02/05/2017,"25 The Avenue, Handfield Wood, Hansfield",Dublin,321585.91,Yes,Hansfield,Dublin 15,q4,80%
+02/05/2017,"41 The Lawn, Hansfield Wood",Dublin,290748.0,Yes,Hansfield,Dublin 15,q3,60%
+02/05/2017,"46 The Lawn, Hansfield Wood",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+04/05/2017,"37 The Lawn, Hansfield Wood",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+05/05/2017,"36 The Lawn, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+09/05/2017,"27 The Avenue, Hansfield Wood, Hansfield",Dublin,321585.0,Yes,Hansfield,Dublin 15,q4,80%
+09/05/2017,"8 Barnwell Square South, Barnwell Square, Hansfield",Dublin,248359.03,Yes,Hansfield,Dublin 15,q1,20%
+10/05/2017,"3 The Avenue, Hansfield Wood, Hansfield",Dublin,246696.0,Yes,Hansfield,Dublin 15,q1,20%
+11/05/2017,"9 Barnwell Square South, Hansfield",Dublin,263876.0,Yes,Hansfield,Dublin 15,q2,30%
+12/05/2017,"1 Latchford Terrace, Hansfield Rd, Castaheaney Dublin 15",Dublin,270000.0,No,Hansfield,Dublin 15,q2,40%
+15/05/2017,"3 Barnwell Square South, Hansfield",Dublin,244493.39,Yes,Hansfield,Dublin 15,q1,20%
+15/05/2017,"43 The Lawn, Hansfield Wood, Hansfield",Dublin,259911.89,Yes,Hansfield,Dublin 15,q2,30%
+16/05/2017,"1 Barnwell Square South, Barnwell Square, Hansfield",Dublin,266519.0,Yes,Hansfield,Dublin 15,q2,40%
+17/05/2017,"4 Barnwell Square South, Barnwell Square, Hansfield",Dublin,244493.36,Yes,Hansfield,Dublin 15,q1,20%
+17/05/2017,"40 The Lawn, Hansfield Wood, Hansfield",Dublin,290748.0,Yes,Hansfield,Dublin 15,q3,60%
+18/05/2017,"11 The Avenue, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+18/05/2017,"12 Barnwell Chase, Barnwell, Hansfield",Dublin,325451.55,Yes,Hansfield,Dublin 15,q4,80%
+18/05/2017,"30 The Lawn, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+22/05/2017,"44 The Lawn, Hansfield Wood, Hansfield",Dublin,260637.5,Yes,Hansfield,Dublin 15,q2,30%
+24/05/2017,"39 The Lawn, Hansfield Wood, Hansfield",Dublin,264274.0,Yes,Hansfield,Dublin 15,q2,40%
+24/05/2017,"6 Barnwell Square South, Barnwell Square, Hansfield",Dublin,267742.0,Yes,Hansfield,Dublin 15,q2,40%
+25/05/2017,"14 Barnwell Chase, Barnwell, Hansfield",Dublin,261574.89,Yes,Hansfield,Dublin 15,q2,30%
+25/05/2017,"38 The Lawn, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+25/05/2017,"7 Barnwell Square South, Hansfield Square, Barnwell",Dublin,244493.39,Yes,Hansfield,Dublin 15,q1,20%
+26/05/2017,"2 Barnwell Square South, Barnwell Square, Hansfield",Dublin,250561.0,Yes,Hansfield,Dublin 15,q1,20%
+26/05/2017,"5 Barnwell Square Sth, Barnwell Square, Hansfield",Dublin,263876.0,Yes,Hansfield,Dublin 15,q2,30%
+29/05/2017,"5 Barnwell Square East, Hansfield, Dublin 15",Dublin,243953.0,Yes,Hansfield,Dublin 15,q1,20%
+02/06/2017,"29 The Lawn, Hansfield Wood, Hansfield",Dublin,255507.0,Yes,Hansfield,Dublin 15,q2,30%
+06/06/2017,"8 Barnwell Chase, Hansfield",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+07/06/2017,"1 The Avenue, Hansfield Wood, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+07/06/2017,"16 Barnwell Chase, Barnwell, Hansfield",Dublin,272475.0,Yes,Hansfield,Dublin 15,q2,40%
+09/06/2017,"9 The Avenue, Hansfield Wood, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+12/06/2017,"3 The Park, The Paddocks, Hansfield",Dublin,224900.0,Yes,Hansfield,Dublin 15,q1,20%
+14/06/2017,"42 The Lawn, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+16/06/2017,"2 The Park, The Paddocks, Hansfield",Dublin,229074.0,Yes,Hansfield,Dublin 15,q1,20%
+23/06/2017,"19 Barnwell Grove, Hansfield, Barnwell",Dublin,261574.89,Yes,Hansfield,Dublin 15,q2,30%
+23/06/2017,"4 The Park, The Paddocks, Hansfield",Dublin,233480.0,Yes,Hansfield,Dublin 15,q1,20%
+26/06/2017,"3 Barnwell Grove, Hansfield",Dublin,224200.0,Yes,Hansfield,Dublin 15,q1,20%
+27/06/2017,"16 The Drive, The Paddocks, Hansfield",Dublin,246696.04,Yes,Hansfield,Dublin 15,q1,20%
+28/06/2017,"1 Barnwell Grove, Barnwell, Hansfield",Dublin,267742.29,Yes,Hansfield,Dublin 15,q2,40%
+28/06/2017,"14 The Drive, The Paddocks, Hansfield",Dublin,259911.89,Yes,Hansfield,Dublin 15,q2,30%
+28/06/2017,"5 The Park, The Paddocks, Hansfield",Dublin,281900.0,Yes,Hansfield,Dublin 15,q2,50%
+28/06/2017,"9 Barnwell Grove, Hansfield, Barnwell",Dublin,268182.82,Yes,Hansfield,Dublin 15,q2,40%
+30/06/2017,"47 The Lawn, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+03/07/2017,"19 The Avenue, Hansfield Wood, Hansfield",Dublin,334802.0,Yes,Hansfield,Dublin 15,q4,90%
+05/07/2017,"11 Barnwell Grove, Hansfield, Barnwell",Dublin,273127.0,Yes,Hansfield,Dublin 15,q2,40%
+06/07/2017,"6 The Drive, The Paddocks, Hansfield",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+07/07/2017,"12 The Drive, The Paddocks, Hansfield",Dublin,251101.32,Yes,Hansfield,Dublin 15,q1,30%
+07/07/2017,"13 Barnwell Grove, Hansfield, Barnwell",Dublin,285803.96,Yes,Hansfield,Dublin 15,q3,60%
+07/07/2017,"15 Barnwell Grove, Hansfield",Dublin,261574.0,Yes,Hansfield,Dublin 15,q2,30%
+07/07/2017,"17 The Drive, The Paddocks, Hansfield",Dublin,259911.9,Yes,Hansfield,Dublin 15,q2,30%
+07/07/2017,"3 The Drive, The Paddocks, Hansfield",Dublin,251101.0,Yes,Hansfield,Dublin 15,q1,30%
+10/07/2017,"2 The Drive, The Paddocks, Hansfield",Dublin,251101.0,Yes,Hansfield,Dublin 15,q1,30%
+11/07/2017,"11 The Drive, The Paddocks, Hansfield",Dublin,251101.0,Yes,Hansfield,Dublin 15,q1,30%
+11/07/2017,"5 Barnwell Grove, Barnwell, Hansfield",Dublin,276993.0,Yes,Hansfield,Dublin 15,q2,50%
+11/07/2017,"6 The Avenue, The Paddocks, Hansfield",Dublin,273128.0,Yes,Hansfield,Dublin 15,q2,50%
+12/07/2017,"10 The Drive, The Paddocks, Hansfield",Dublin,264317.0,Yes,Hansfield,Dublin 15,q2,40%
+12/07/2017,"8 The Drive, The Paddocks, Hansfield",Dublin,251101.0,Yes,Hansfield,Dublin 15,q1,30%
+12/07/2017,"9 The Drive, The Paddocks, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+14/07/2017,"13 The Drive, The Paddocks, Hansfield",Dublin,281938.33,Yes,Hansfield,Dublin 15,q2,50%
+14/07/2017,"7 The Drive, The Paddocks, Hansfield",Dublin,251101.33,Yes,Hansfield,Dublin 15,q1,30%
+19/07/2017,"2 The Avenue, The Paddocks, Hansfield",Dublin,325991.0,Yes,Hansfield,Dublin 15,q4,80%
+20/07/2017,"5 The Drive, The Paddocks, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+20/07/2017,"7 Barnwell Grove, Barnwell, Hansfield",Dublin,338226.88,Yes,Hansfield,Dublin 15,q4,90%
+21/07/2017,"4 Castlegrange Terrace, Hansfield Rd, Castaheaney Dublin 15",Dublin,257000.0,No,Hansfield,Dublin 15,q2,30%
+31/07/2017,"25 Barnwell Grove, Hansfield",Dublin,257709.0,Yes,Hansfield,Dublin 15,q2,30%
+02/08/2017,"4 The Drive, The Paddocks, Hansfield",Dublin,264273.12,Yes,Hansfield,Dublin 15,q2,40%
+03/08/2017,"23 Barnwell Grove, Barnwell, Hansfield",Dublin,237805.0,Yes,Hansfield,Dublin 15,q1,20%
+08/08/2017,"30 Castlegrange Dale, Hansfield Rd, Castaheaney Dublin 15",Dublin,299000.0,No,Hansfield,Dublin 15,q3,70%
+10/08/2017,"17 Barnwell Grove, Hansfield",Dublin,261574.0,Yes,Hansfield,Dublin 15,q2,30%
+11/08/2017,"1 The Drive, The Paddocks, Hansfield",Dublin,281938.0,Yes,Hansfield,Dublin 15,q2,50%
+11/08/2017,"26 The Way, The Paddocks, Hansfield",Dublin,281938.0,Yes,Hansfield,Dublin 15,q2,50%
+11/08/2017,"4 The Way, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+15/08/2017,"6 The Way, The Paddocks, Hansfield",Dublin,277533.03,Yes,Hansfield,Dublin 15,q2,50%
+18/08/2017,"6 Barnwell Grove, Hansfield",Dublin,281398.0,Yes,Hansfield,Dublin 15,q2,50%
+21/08/2017,"15 The Drive, The Paddocks, Hansfield",Dublin,280000.0,Yes,Hansfield,Dublin 15,q2,50%
+21/08/2017,"21 Barnwell Grove, Hansfield",Dublin,274790.0,Yes,Hansfield,Dublin 15,q2,50%
+21/08/2017,"4 Barnwell Grove, Hansfield",Dublin,273127.0,Yes,Hansfield,Dublin 15,q2,40%
+23/08/2017,"27 Barnwell Grove, Hansfield, Barnwell",Dublin,277532.0,Yes,Hansfield,Dublin 15,q2,50%
+24/08/2017,"10 The Way, The Paddocks, Hansfield",Dublin,277533.04,Yes,Hansfield,Dublin 15,q2,50%
+24/08/2017,"2 Barnwell Grove, Hansfield",Dublin,328193.0,Yes,Hansfield,Dublin 15,q4,90%
+24/08/2017,"2 Castlegrange Dale, Hansfield Rd, Castaheaney Dublin 15",Dublin,335000.0,No,Hansfield,Dublin 15,q4,90%
+24/08/2017,"6 The Park, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+25/08/2017,"14 The Way, The Paddocks, Hansfield",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+25/08/2017,"8 The Park, The Paddocks, Hansfield",Dublin,233480.0,Yes,Hansfield,Dublin 15,q1,20%
+30/08/2017,"8 The Way, The Paddocks, Hansfield",Dublin,255506.6,Yes,Hansfield,Dublin 15,q1,30%
+05/09/2017,"20 The Way, The Paddocks, Hansfield",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+05/09/2017,"9 The Park, The Paddocks, Hansfield",Dublin,315000.0,Yes,Hansfield,Dublin 15,q3,80%
+06/09/2017,"16 The Way, The Paddocks, Hansfield",Dublin,299950.0,Yes,Hansfield,Dublin 15,q3,70%
+07/09/2017,"22 The Way, The Paddocks, Hansfield",Dublin,287600.0,Yes,Hansfield,Dublin 15,q3,60%
+07/09/2017,"7 The Park, The Paddocks, Hansfield",Dublin,237885.0,Yes,Hansfield,Dublin 15,q1,20%
+08/09/2017,"12 The Way, The Paddocks, Hansfield",Dublin,264273.12,Yes,Hansfield,Dublin 15,q2,40%
+11/09/2017,"14 Barnwell Grove, Hansfield, Barnwell",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+12/09/2017,"10 Barnwell Grove, Hansfield",Dublin,317180.0,Yes,Hansfield,Dublin 15,q4,80%
+12/09/2017,"31 Barnwell Grove, Barnwell, Hansfield",Dublin,325451.55,Yes,Hansfield,Dublin 15,q4,80%
+13/09/2017,"3 Barnwell Rd, Hansfield, Dublin 15",Dublin,350000.0,No,Hansfield,Dublin 15,q4,100%
+14/09/2017,"1 The Park, The Paddocks, Hansfield",Dublin,264273.13,Yes,Hansfield,Dublin 15,q2,40%
+15/09/2017,"12 Barnwell Grove, Hansfield",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+15/09/2017,"13 The Park, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+18/09/2017,"16 Barnwell Grove, Barnwell, Hansfield",Dublin,254966.96,Yes,Hansfield,Dublin 15,q1,30%
+20/09/2017,"33 Barnwell Grove, Hansfield",Dublin,268722.0,Yes,Hansfield,Dublin 15,q2,40%
+22/09/2017,"29 Barnwell Grove, Hansfield, Barnwell",Dublin,348017.61,Yes,Hansfield,Dublin 15,q4,100%
+22/09/2017,"9 The Green, The Paddocks, Hansfield",Dublin,291000.0,Yes,Hansfield,Dublin 15,q3,60%
+25/09/2017,"15 The Green, The Paddocks, Hansfield",Dublin,315000.0,Yes,Hansfield,Dublin 15,q3,80%
+25/09/2017,"4 The Green, The Paddocks, Hansfield",Dublin,336283.18,Yes,Hansfield,Dublin 15,q4,90%
+26/09/2017,"10 The Green, The Paddocks, Hansfield",Dublin,290749.0,Yes,Hansfield,Dublin 15,q3,60%
+26/09/2017,"12 The Green, The Paddocks, Hansfield",Dublin,290748.9,Yes,Hansfield,Dublin 15,q3,60%
+26/09/2017,"26 The Avenue, The Paddocks, Hansfield",Dublin,281938.0,Yes,Hansfield,Dublin 15,q2,50%
+27/09/2017,"16 The Avenue, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+29/09/2017,"18 The Way, The Paddocks, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+29/09/2017,"5 The Green, The Paddocks, Hansfield",Dublin,330396.0,Yes,Hansfield,Dublin 15,q4,90%
+29/09/2017,"7  The Green, The Paddocks, Hansfield",Dublin,286343.0,Yes,Hansfield,Dublin 15,q3,60%
+02/10/2017,"13 The Green, Hansfield Wood, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+02/10/2017,"14 The Avenue, The Paddocks, Hansfield",Dublin,325991.0,Yes,Hansfield,Dublin 15,q4,90%
+02/10/2017,"24 The Avenue, The Paddocks, Hansfield",Dublin,277533.04,Yes,Hansfield,Dublin 15,q2,50%
+03/10/2017,"8 The Green, The Paddocks, Hansfield",Dublin,286344.0,Yes,Hansfield,Dublin 15,q3,60%
+04/10/2017,"8 Barnwell Grove, Hansfield, Barnwell",Dublin,343073.0,Yes,Hansfield,Dublin 15,q4,100%
+05/10/2017,"10 The Avenue, The Paddocks, Hansfield",Dublin,343612.0,Yes,Hansfield,Dublin 15,q4,100%
+05/10/2017,"18 The Avenue, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+06/10/2017,"35 Barnwell Grove, Hansfield, Barnwell",Dublin,339207.04,Yes,Hansfield,Dublin 15,q4,90%
+09/10/2017,"20 The Avenue, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+09/10/2017,"22 The Avenue, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+10/10/2017,"14 The Green, The Paddocks, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+11/10/2017,"11 The Green, The Paddocks, Hansfield",Dublin,290748.9,Yes,Hansfield,Dublin 15,q3,60%
+13/10/2017,"3 The Green, The Paddocks, Hansfield",Dublin,334801.0,Yes,Hansfield,Dublin 15,q4,90%
+18/10/2017,"2 The Green, The Paddocks, Hansfield",Dublin,290749.0,Yes,Hansfield,Dublin 15,q3,60%
+19/10/2017,"2 Barnwell Heath, Barnwell, Hansfield",Dublin,410000.0,Yes,Hansfield,Dublin 15,q4,100%
+20/10/2017,"2 The Way, The Paddocks, Hansfield",Dublin,281938.0,Yes,Hansfield,Dublin 15,q2,50%
+20/10/2017,"6 The Green, The Paddocks, Hansfield",Dublin,330396.6,Yes,Hansfield,Dublin 15,q4,90%
+23/10/2017,"8 The Avenue, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+26/10/2017,"6 Barnwell Heath, Barnwell, Hansfield",Dublin,308370.0,Yes,Hansfield,Dublin 15,q3,80%
+31/10/2017,"3 Barnwell Lawn, Hansfield, Barnwell",Dublin,260162.6,Yes,Hansfield,Dublin 15,q2,30%
+01/11/2017,"11 The Park, The Paddocks, Hansfield",Dublin,229225.0,Yes,Hansfield,Dublin 15,q1,20%
+03/11/2017,"12 The Avenue, The Paddocks, Hansfield",Dublin,325991.0,Yes,Hansfield,Dublin 15,q4,90%
+06/11/2017,"1 Barnwell Lawn, Hansfield, Dublin 15",Dublin,295154.0,Yes,Hansfield,Dublin 15,q3,70%
+06/11/2017,"14 The Park, Hansfield Wood, Hansfield",Dublin,281939.0,Yes,Hansfield,Dublin 15,q3,60%
+06/11/2017,"19 The Green, The Paddocks, Hansfield",Dublin,281938.33,Yes,Hansfield,Dublin 15,q2,50%
+06/11/2017,"19 The Park, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+07/11/2017,"17 The Park, Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+09/11/2017,"18 The Park, The Paddocks, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+09/11/2017,"21 The Green, The Paddocks, Hansfield",Dublin,290748.9,Yes,Hansfield,Dublin 15,q3,60%
+09/11/2017,"23 The Green, Hansfield Wood",Dublin,334801.76,Yes,Hansfield,Dublin 15,q4,90%
+10/11/2017,"16 The Green, The Paddocks, Hansfield",Dublin,281938.3,Yes,Hansfield,Dublin 15,q2,50%
+10/11/2017,"16 The Park The Paddocks, Hansfield, Dublin 15",Dublin,281938.33,Yes,Hansfield,Dublin 15,q2,50%
+10/11/2017,"18 The Green, The Paddocks, Hansfield",Dublin,259912.0,Yes,Hansfield,Dublin 15,q2,30%
+10/11/2017,"No. 27 The Green, The Paddocks, Hansfield",Dublin,334801.76,Yes,Hansfield,Dublin 15,q4,90%
+14/11/2017,"31 The Green, Hansfield Wood, Hansfield",Dublin,290748.0,Yes,Hansfield,Dublin 15,q3,60%
+14/11/2017,"4 Barnwell Heath, Barnwell, Hansfield",Dublin,299559.0,Yes,Hansfield,Dublin 15,q3,70%
+15/11/2017,"99 Units At, Hansfield",Dublin,26431718.88,Yes,Hansfield,Dublin 15,q4,100%
+16/11/2017,"15 The Park, The Paddocks, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+17/11/2017,"28 The Green, The Paddocks, Hansfield",Dublin,290749.0,Yes,Hansfield,Dublin 15,q3,60%
+17/11/2017,"33 The Green, Hansfield Wood",Dublin,281939.0,Yes,Hansfield,Dublin 15,q3,60%
+22/11/2017,"26 The Green, The Paddocks, Hansfield",Dublin,334801.0,Yes,Hansfield,Dublin 15,q4,90%
+22/11/2017,"29 The Green, The Paddocks, Hansfield",Dublin,290748.0,Yes,Hansfield,Dublin 15,q3,60%
+23/11/2017,"35 The Green, The Paddocks, Hansfield",Dublin,286344.0,Yes,Hansfield,Dublin 15,q3,60%
+24/11/2017,"34 The Green, The Paddocks, Hansfield",Dublin,287610.62,Yes,Hansfield,Dublin 15,q3,60%
+28/11/2017,"1 The Green, The Paddocks, Hansfield",Dublin,295154.0,Yes,Hansfield,Dublin 15,q3,70%
+30/11/2017,"25 The Green, The Paddocks, Hansfield",Dublin,334802.0,Yes,Hansfield,Dublin 15,q4,90%
+30/11/2017,"32 The Green, The Paddocks, Hansfield",Dublin,281938.33,Yes,Hansfield,Dublin 15,q3,60%
+04/12/2017,"24 The Green, The Paddocks, Hansfield",Dublin,334800.0,Yes,Hansfield,Dublin 15,q4,90%
+05/12/2017,"20 The Green, The Paddocks, Hansfield",Dublin,292035.4,Yes,Hansfield,Dublin 15,q3,60%
+05/12/2017,"30 The Green, The Paddocks, Hansfield",Dublin,330000.0,Yes,Hansfield,Dublin 15,q4,90%
+12/12/2017,"No 36 The Way, The Paddocks, Hansfield",Dublin,281938.33,Yes,Hansfield,Dublin 15,q3,60%
+14/12/2017,"42 The Way, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+15/12/2017,"16 Beechwood Gate, Beechwood, Hansfield",Dublin,398017.62,Yes,Hansfield,Dublin 15,q4,100%
+15/12/2017,"36 The Green, The Paddocks, Hansfield",Dublin,290748.89,Yes,Hansfield,Dublin 15,q3,60%
+15/12/2017,"40 The Green, The Paddocks, Hansfield",Dublin,281938.0,Yes,Hansfield,Dublin 15,q2,50%
+18/12/2017,"No. 37 The Green, The Paddocks, Hansfield",Dublin,320000.0,Yes,Hansfield,Dublin 15,q4,80%
+19/12/2017,"38 The Way, The Paddocks, Hansfield",Dublin,264273.12,Yes,Hansfield,Dublin 15,q2,40%
+20/12/2017,"11 Beechwood Gate, Beechwood, Hansfield",Dublin,301101.33,Yes,Hansfield,Dublin 15,q3,70%
+20/12/2017,"14 Beeechwood Gate, Hansfield, Dublin 15",Dublin,295154.18,Yes,Hansfield,Dublin 15,q3,70%
+20/12/2017,"19 Beechwood Gate, Hansfield",Dublin,295153.0,Yes,Hansfield,Dublin 15,q3,60%
+20/12/2017,"20 Beechwood Gate, Beechwood, Hansfield",Dublin,353964.76,Yes,Hansfield,Dublin 15,q4,100%
+20/12/2017,"22 Beechwood Gate, Beechwood, Hansfield",Dublin,299558.0,Yes,Hansfield,Dublin 15,q3,70%
+20/12/2017,"24 Beechwood Gate, Beechwood, Hansfield",Dublin,342951.55,Yes,Hansfield,Dublin 15,q4,90%
+20/12/2017,"34 The Way, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+20/12/2017,"5 Beechwood Gate, Beechwood, Hansfield",Dublin,309912.0,Yes,Hansfield,Dublin 15,q3,80%
+21/12/2017,"10 Beechwood Gate, Beechwood, Hansfield",Dublin,299560.0,Yes,Hansfield,Dublin 15,q3,70%
+21/12/2017,"28 The Way, The Paddocks, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+21/12/2017,"30 The Way, The Paddocks, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+21/12/2017,"32 The Way, The Paddocks, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+21/12/2017,"7 The Lawn, Hansfield Wood, Hansfield",Dublin,233480.0,Yes,Hansfield,Dublin 15,q1,20%
+22/12/2017,"15 Beechwood Gate, Hansfield",Dublin,295153.0,Yes,Hansfield,Dublin 15,q3,70%
+22/12/2017,"3 Beechwood Gate, Hansfield",Dublin,295153.0,Yes,Hansfield,Dublin 15,q3,70%
+04/01/2018,"38 The Green, The Paddocks, Hansfield",Dublin,286343.6,Yes,Hansfield,Dublin 15,q3,60%
+05/01/2018,"39 The Green, The Paddocks, Hansfield",Dublin,290748.0,Yes,Hansfield,Dublin 15,q3,60%
+08/01/2018,"12 Beechwood Gate, Beechwood, Hansfield",Dublin,301101.0,Yes,Hansfield,Dublin 15,q3,70%
+09/01/2018,"23 Beechwood Gate, Beechwood, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+12/01/2018,"40 The Way, The Paddocks, Hansfield",Dublin,259911.9,Yes,Hansfield,Dublin 15,q2,30%
+15/01/2018,"42 The Green, The Paddocks, Hansfield",Dublin,315000.0,Yes,Hansfield,Dublin 15,q3,80%
+31/01/2018,"41 The Green, The Paddocks, Hansfield",Dublin,255506.0,Yes,Hansfield,Dublin 15,q1,30%
+06/02/2018,"21 Beechwood Gate, Beechwood, Hansfield",Dublin,305506.0,Yes,Hansfield,Dublin 15,q3,80%
+27/02/2018,"49 The Avenue, Hansfield Wood, Hansfield",Dublin,334801.0,Yes,Hansfield,Dublin 15,q4,90%
+06/03/2018,"55 The Avenue, Hansfield, Dublin 15",Dublin,341525.0,Yes,Hansfield,Dublin 15,q4,90%
+08/03/2018,"43 The Avenue, Hansfield Wood, Hansfield",Dublin,343612.0,Yes,Hansfield,Dublin 15,q4,100%
+09/03/2018,"45 The Avenue, Hansfield Wood",Dublin,334802.0,Yes,Hansfield,Dublin 15,q4,90%
+13/03/2018,"39 The Avenue, Hansfield Wood, Hansfield",Dublin,348017.63,Yes,Hansfield,Dublin 15,q4,100%
+13/03/2018,"47 The Avenue, Hansfield Wood, Hansfield",Dublin,339207.0,Yes,Hansfield,Dublin 15,q4,90%
+14/03/2018,"35 The Avenue, Hansfield Wood, Hansfield",Dublin,339207.04,Yes,Hansfield,Dublin 15,q4,90%
+14/03/2018,"53 The Avenue, Hansfield Wood, Hansfield",Dublin,339207.04,Yes,Hansfield,Dublin 15,q4,90%
+23/03/2018,"28 Park Crescent, Hansfield Wood, Hansfield",Dublin,281938.32,Yes,Hansfield,Dublin 15,q2,50%
+26/03/2018,"26 Park Crescent, Hansfield Wood, Hansfield",Dublin,295154.0,Yes,Hansfield,Dublin 15,q3,70%
+27/03/2018,"25 Park Crescent, Hansfield Wood, Hansfield",Dublin,295154.19,Yes,Hansfield,Dublin 15,q3,70%
+28/03/2018,"24 Park Crescent, Hansfield Wood, Hansfield",Dublin,295154.0,Yes,Hansfield,Dublin 15,q3,70%
+28/03/2018,"27 Park Crescent, Hansfield Wood, Hansfield",Dublin,286344.0,Yes,Hansfield,Dublin 15,q3,60%
+28/03/2018,"29 The Avenue, Hansfield Wood, Hansfield",Dublin,334801.76,Yes,Hansfield,Dublin 15,q4,90%
+28/03/2018,"32 Park Crescent, Hansfield Wood, Hansfield",Dublin,335000.0,Yes,Hansfield,Dublin 15,q4,90%
+28/03/2018,"33 The Avenue, Hansfield Wood, Hansfield",Dublin,339207.0,Yes,Hansfield,Dublin 15,q4,90%
+29/03/2018,"62 Beechwood Gate, Beechwood, Hansfield",Dublin,296696.03,Yes,Hansfield,Dublin 15,q3,70%
+04/04/2018,"31 Park Crescent, Hansfield Wood, Hansfield",Dublin,303964.75,Yes,Hansfield,Dublin 15,q3,70%
+05/04/2018,"67 Beechwood Gate, Hansfield",Dublin,295154.0,Yes,Hansfield,Dublin 15,q3,70%
+06/04/2018,"30 Park Crescent, Hansfield Wood, Hansfield",Dublin,303964.75,Yes,Hansfield,Dublin 15,q3,70%
+06/04/2018,"63 Beechwood Gate, Beechwood, Hansfield",Dublin,274669.6,Yes,Hansfield,Dublin 15,q2,50%
+06/04/2018,"69 Beechwood Gate, Beechwood, Hansfield",Dublin,299560.0,Yes,Hansfield,Dublin 15,q3,70%
+11/04/2018,"71 Beechwood Gate, Beechwood, Hansfield",Dublin,257048.45,Yes,Hansfield,Dublin 15,q2,30%
+12/04/2018,"68 Beechwood Gate, Beechwood, Hansfield",Dublin,305506.6,Yes,Hansfield,Dublin 15,q3,80%
+16/04/2018,"33 Park Crscent, Hansfield Woods, Hansfield",Dublin,295154.2,Yes,Hansfield,Dublin 15,q3,70%
+17/04/2018,"31 The Avenue, Hansfield Wood, Hansfield",Dublin,339207.0,Yes,Hansfield,Dublin 15,q4,90%
+17/04/2018,"65 Beechwood Gate, Beechwood, Hansfield",Dublin,339206.0,Yes,Hansfield,Dublin 15,q4,90%
+20/04/2018,"17 Beechwood Gate, Beechwood, Hansfield",Dublin,374449.34,Yes,Hansfield,Dublin 15,q4,100%
+20/04/2018,"72 Beechwood Gate, Beechwood, Hansfield",Dublin,299559.46,Yes,Hansfield,Dublin 15,q3,70%
+26/04/2018,"70 Beechwood Gate, Beechwood, Hansfield",Dublin,356827.86,Yes,Hansfield,Dublin 15,q4,100%
+27/04/2018,"74 Beechwood Gate, Beechwood, Hansfield",Dublin,274669.6,Yes,Hansfield,Dublin 15,q2,50%
+08/05/2018,"9 Beechwood Gate, Beechwood, Hansfield",Dublin,269823.78,Yes,Hansfield,Dublin 15,q2,40%
+09/05/2018,"75 Beechwood Gate, Beechwood, Hansfield",Dublin,339207.05,Yes,Hansfield,Dublin 15,q4,90%
+11/05/2018,"House No 2, Park Grove, Hansfield Wood",Dublin,290749.0,Yes,Hansfield,Dublin 15,q3,60%
+15/05/2018,"17 Park View, Hansfield Wood, Hansfield",Dublin,295154.19,Yes,Hansfield,Dublin 15,q3,70%
+15/05/2018,"18 Castlegrange Row, Hansfield Rd, Castaheaney Dublin 15",Dublin,320000.0,No,Hansfield,Dublin 15,q4,80%
+15/05/2018,"18 Park View, Hansfield Wood",Dublin,295154.18,Yes,Hansfield,Dublin 15,q3,70%
+16/05/2018,"6 Park Grove, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+18/05/2018,"66 Beechwood Gate, Beechwood, Hansfield",Dublin,274669.6,Yes,Hansfield,Dublin 15,q2,50%
+21/05/2018,"22 Park View, Hansfield Wood, Hansfield",Dublin,295154.0,Yes,Hansfield,Dublin 15,q3,70%
+21/05/2018,"5 Park Grove, Hansfield Wood, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+23/05/2018,"10 The Grove, Hansfield Wood, Hansfield",Dublin,290750.0,Yes,Hansfield,Dublin 15,q3,60%
+23/05/2018,"4 Park Grove, Hansfield Wood, Hansfield",Dublin,290748.9,Yes,Hansfield,Dublin 15,q3,60%
+24/05/2018,"11 Park Grove, Hansfield, Dublin 15",Dublin,290748.0,Yes,Hansfield,Dublin 15,q3,60%
+25/05/2018,"18 Park Grove, Hansfield Wood, Hansfield",Dublin,264273.13,Yes,Hansfield,Dublin 15,q2,40%
+25/05/2018,"23 Park View, Hansfield Wood, Hansfield",Dublin,295154.19,Yes,Hansfield,Dublin 15,q3,70%
+25/05/2018,"7 Park Grove, Hansfield, Dublin 15",Dublin,277533.04,Yes,Hansfield,Dublin 15,q2,50%
+25/05/2018,"73 Beechwood Gate, Hansfield, Dublin 15",Dublin,375000.0,Yes,Hansfield,Dublin 15,q4,100%
+25/05/2018,"9 Park Grove, Hansfield Wood, Hansfield",Dublin,290748.89,Yes,Hansfield,Dublin 15,q3,60%
+25/05/2018,"No. 8 Park Grove, Hansfield Wood, Hansfield",Dublin,290748.89,Yes,Hansfield,Dublin 15,q3,60%
+28/05/2018,"1 The Lawn, Hansfield Wood, Hansfield",Dublin,341675.0,Yes,Hansfield,Dublin 15,q4,90%
+28/05/2018,"16 Park Grove, Hansfield Wood, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+29/05/2018,"29 Beechwood Gate, Beechwood, Hansfield",Dublin,301101.32,Yes,Hansfield,Dublin 15,q3,70%
+29/05/2018,"33 Beechwood Gate, Beechwood, Hansfield",Dublin,336343.61,Yes,Hansfield,Dublin 15,q4,90%
+29/05/2018,"6 Barnwell Green, Hansfield, Dublin 15",Dublin,282000.0,No,Hansfield,Dublin 15,q3,60%
+30/05/2018,"13 Park Grove, Hansfield Wood, Hansfield",Dublin,295154.18,Yes,Hansfield,Dublin 15,q3,70%
+31/05/2018,"28 Beechwood Gate, Beechwood, Hansfield",Dublin,303964.0,Yes,Hansfield,Dublin 15,q3,70%
+31/05/2018,"32 Beechwood Gate, Beechwood Hansfield, Dublin 15",Dublin,303964.75,Yes,Hansfield,Dublin 15,q3,70%
+01/06/2018,"24 Park View, Hansfield Wood, Hansfield",Dublin,335000.0,Yes,Hansfield,Dublin 15,q4,90%
+01/06/2018,"27 Beechwoos Gate, Beechwood, Hansfield",Dublin,268150.0,Yes,Hansfield,Dublin 15,q2,40%
+01/06/2018,"31 Beechwood Gate, Beechwood, Hansfield",Dublin,330397.0,Yes,Hansfield,Dublin 15,q4,90%
+05/06/2018,"37 Park Crescent, Hansfield",Dublin,299559.47,Yes,Hansfield,Dublin 15,q3,70%
+06/06/2018,"36 Park Crescent, Hansfield Wood, Hansfield",Dublin,299559.47,Yes,Hansfield,Dublin 15,q3,70%
+06/06/2018,"37 The Avenue, Hansfield Wood, Hansfield",Dublin,352422.91,Yes,Hansfield,Dublin 15,q4,100%
+07/06/2018,"24 Barnwell Grove, Barnwell, Hansfield",Dublin,277533.03,Yes,Hansfield,Dublin 15,q2,50%
+07/06/2018,"24 Park Grove, Hansfield Wood, Hansfield",Dublin,264273.12,Yes,Hansfield,Dublin 15,q2,40%
+07/06/2018,"25 Beechwood Gate, Beechwood, Hansfield",Dublin,347797.36,Yes,Hansfield,Dublin 15,q4,100%
+08/06/2018,"22 Park Grove, Hansfield Wood, Dublin 15",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+08/06/2018,"29 Park Grove, Hansfield Wood Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+08/06/2018,"34 Park Crescent, Hansfield Wood, Hansfield",Dublin,295154.19,Yes,Hansfield,Dublin 15,q3,70%
+11/06/2018,"17 Park Grove, Hansfield Wood, Hansfield",Dublin,272475.0,Yes,Hansfield,Dublin 15,q2,40%
+11/06/2018,"19 Park View, Hansfield Wood, Hansfield",Dublin,295154.0,Yes,Hansfield,Dublin 15,q3,70%
+11/06/2018,"21 Park View, Hansfield Wood, Hansfield",Dublin,295154.19,Yes,Hansfield,Dublin 15,q3,70%
+12/06/2018,"20 Park View, Hansfield Wood, Hansfield",Dublin,295154.19,Yes,Hansfield,Dublin 15,q3,70%
+12/06/2018,"21 Parkgrove, Hansfield Wood, Hansfield",Dublin,259460.0,Yes,Hansfield,Dublin 15,q2,30%
+12/06/2018,"22 Barnwell Grove, Barnwell, Hansfield",Dublin,253304.0,Yes,Hansfield,Dublin 15,q1,30%
+13/06/2018,"26 Park Grove, Hansfield Wood, Hansfield",Dublin,277532.0,Yes,Hansfield,Dublin 15,q2,50%
+14/06/2018,"15 Park Grove, Hansfield Wood, Hansfield",Dublin,259911.0,Yes,Hansfield,Dublin 15,q2,30%
+14/06/2018,"20 Barnwell Grove, Barnwell, Hansfield",Dublin,287500.0,Yes,Hansfield,Dublin 15,q3,60%
+15/06/2018,"19 Park Grove, Hansfield Wood, Hansfield",Dublin,256100.0,Yes,Hansfield,Dublin 15,q2,30%
+15/06/2018,"27 Park Grove, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+20/06/2018,"20 Park Grove, Hansfield Wood, Hansfield",Dublin,286343.0,Yes,Hansfield,Dublin 15,q3,60%
+20/06/2018,"26 Beechwood Gate, Beechwood, Hansfield",Dublin,320000.0,Yes,Hansfield,Dublin 15,q4,80%
+20/06/2018,"3 Park Grove, Hansfield Wood, Hansfield",Dublin,290748.9,Yes,Hansfield,Dublin 15,q3,60%
+21/06/2018,"34 Beechwood Gate, Beechwood, Hansfield",Dublin,353964.76,Yes,Hansfield,Dublin 15,q4,100%
+22/06/2018,"38 Beechwood Gate, Beechwood, Hansfield",Dublin,295153.73,Yes,Hansfield,Dublin 15,q3,70%
+22/06/2018,"61 Beechwood Gate, Hansfield, Dublin 15",Dublin,325990.0,Yes,Hansfield,Dublin 15,q4,80%
+25/06/2018,"2 The Lawn, Hansfield Wood, Dublin 15",Dublin,356828.0,Yes,Hansfield,Dublin 15,q4,100%
+25/06/2018,"28 Park Grove, Hansfield Wood, Hansfield",Dublin,264273.0,Yes,Hansfield,Dublin 15,q2,40%
+25/06/2018,"35 Park Crescent, Hansfield Wood, Hansfield",Dublin,295154.18,Yes,Hansfield,Dublin 15,q3,70%
+27/06/2018,"35 Beechwood Gate, Beechwood, Hansfield",Dublin,309911.9,Yes,Hansfield,Dublin 15,q3,80%
+28/06/2018,"25 Park Grove, Hansfield Wood",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+28/06/2018,"36 Beechwood Gate, Beechwood, Hansfield",Dublin,377500.0,Yes,Hansfield,Dublin 15,q4,100%
+29/06/2018,"1 Park Grove, Hansfield Wood, Hansfield",Dublin,330000.0,Yes,Hansfield,Dublin 15,q4,90%
+02/07/2018,"12 Park Grove, Hansfield Wood, Hansfield",Dublin,295154.0,Yes,Hansfield,Dublin 15,q3,70%
+02/07/2018,"12 Park View, Hansfield Wood, Hansfield",Dublin,303964.76,Yes,Hansfield,Dublin 15,q3,70%
+04/07/2018,"14 Park Grove, Hansfield Wood, Hansfield",Dublin,277500.0,Yes,Hansfield,Dublin 15,q2,50%
+04/07/2018,"14 Park View, Hansfield Wood, Hansfield",Dublin,303964.0,Yes,Hansfield,Dublin 15,q3,70%
+06/07/2018,"13 Park View, Hansfield Wood, Hansfield",Dublin,303964.76,Yes,Hansfield,Dublin 15,q3,70%
+11/07/2018,"8 Park View, Hansfield Wood, Hansfield",Dublin,295154.18,Yes,Hansfield,Dublin 15,q3,70%
+13/07/2018,"41 The Avenue, Hansfield Wood, Hansfield",Dublin,352423.0,Yes,Hansfield,Dublin 15,q4,100%
+16/07/2018,"55 Beechwood Gate, Beechwood, Hansfield",Dublin,331938.32,Yes,Hansfield,Dublin 15,q4,90%
+17/07/2018,"76 Beechwood Gate, Beechwood, Hansfield",Dublin,299559.46,Yes,Hansfield,Dublin 15,q3,70%
+17/07/2018,"No. 15 Park View, Hansfield Wood, Hansfield",Dublin,303964.75,Yes,Hansfield,Dublin 15,q3,70%
+18/07/2018,"30 Beechwood Gate, Beechwood, Hansfield",Dublin,279735.0,Yes,Hansfield,Dublin 15,q2,50%
+19/07/2018,"78 Beechwood Gate, Beechwood, Hansfield",Dublin,336344.0,Yes,Hansfield,Dublin 15,q4,90%
+20/07/2018,"11 Park View, Hansfield Wood, Hansfield",Dublin,303965.0,Yes,Hansfield,Dublin 15,q3,70%
+20/07/2018,"26 Barnwell Grove, Barnwell, Hansfield",Dublin,351883.0,Yes,Hansfield,Dublin 15,q4,100%
+20/07/2018,"40 Barnwell Grove, Hansfield, Barnwell",Dublin,254846.0,Yes,Hansfield,Dublin 15,q1,30%
+20/07/2018,"80 Beechwood Gate, Beechwood, Hansfield",Dublin,347797.35,Yes,Hansfield,Dublin 15,q4,100%
+23/07/2018,"10 Park View, Hansfield Wood, Hansfield",Dublin,303966.0,Yes,Hansfield,Dublin 15,q3,80%
+23/07/2018,"16 Park View, Hansfield Wood, Hansfield",Dublin,303965.0,Yes,Hansfield,Dublin 15,q3,70%
+23/07/2018,"34 Barnwell Grove, Hansfield, Barnwell",Dublin,334802.0,Yes,Hansfield,Dublin 15,q4,90%
+23/07/2018,"42 Barnwell Grove, Barnwell, Hansfield",Dublin,286343.0,Yes,Hansfield,Dublin 15,q3,60%
+24/07/2018,"38 Park Crescent, Hansfield Wood, Hansfield",Dublin,290748.0,Yes,Hansfield,Dublin 15,q3,60%
+24/07/2018,"40  Beechwood Gate, Beechwood, Hansfield",Dublin,290742.0,Yes,Hansfield,Dublin 15,q3,60%
+24/07/2018,"56 Beechwood Gate, Beechwood, Hansfield",Dublin,343612.0,Yes,Hansfield,Dublin 15,q4,100%
+24/07/2018,"77 Beechwood Gate, Beechwood, Hansfield",Dublin,277533.0,Yes,Hansfield,Dublin 15,q2,50%
+25/07/2018,"41 Barnwell Grove, Hansfield",Dublin,284140.0,Yes,Hansfield,Dublin 15,q3,60%
+25/07/2018,"41 Park Crescent, Hansfield Wood, Hansfield",Dublin,290748.89,Yes,Hansfield,Dublin 15,q3,60%
+25/07/2018,"42 Park Crescent, Hansfield Wood, Hansfield",Dublin,299559.47,Yes,Hansfield,Dublin 15,q3,70%
+25/07/2018,"79 Beechwood Gate, Hansfield, Dublin 15",Dublin,303964.76,Yes,Hansfield,Dublin 15,q3,70%
+26/07/2018,"43 Beechwood Gate, Hansfield, Dublin 15",Dublin,290748.89,Yes,Hansfield,Dublin 15,q3,60%
+27/07/2018,"36 Barnwell Grove, Barnwell, Hansfield",Dublin,325000.0,Yes,Hansfield,Dublin 15,q4,80%
+27/07/2018,"38 Barnwell Grove, Barnwell, Hansfield",Dublin,237345.82,Yes,Hansfield,Dublin 15,q1,20%
+27/07/2018,"40 Park Crescent, Hansfield Wood, Hansfield",Dublin,308370.05,Yes,Hansfield,Dublin 15,q3,80%
+27/07/2018,"44 Hansfield Crescent, Hansfield, Dublin 15",Dublin,299559.0,Yes,Hansfield,Dublin 15,q3,70%
+27/07/2018,"46 Park Crescent, Hansfield Wood, Hansfield",Dublin,317180.16,Yes,Hansfield,Dublin 15,q4,80%
+30/07/2018,"41 Beechwood Gate, Beechwood, Hansfield",Dublin,325991.0,Yes,Hansfield,Dublin 15,q4,90%
+31/07/2018,"37 Barnwell Grove, Hansfield, Barnwell",Dublin,341409.69,Yes,Hansfield,Dublin 15,q4,90%
+31/07/2018,"59 Beechwood Gate, Beechwood, Hansfield",Dublin,343611.0,Yes,Hansfield,Dublin 15,q4,100%
+31/07/2018,"7 Park View, Hansfield Wood, Hansfield",Dublin,295154.18,Yes,Hansfield,Dublin 15,q3,70%
+02/08/2018,"39 Park Crescent, Hansfield Wood",Dublin,290748.89,Yes,Hansfield,Dublin 15,q3,60%
+03/08/2018,"39 Barnwell Grove, Barnwell, Hansfield",Dublin,264277.64,Yes,Hansfield,Dublin 15,q2,40%
+03/08/2018,"60 Beechwood Gate, Beechwood, Hansfield",Dublin,274669.0,Yes,Hansfield,Dublin 15,q2,50%
+07/08/2018,"57 Beechwood Gate, Beechwood, Hansfield",Dublin,268722.46,Yes,Hansfield,Dublin 15,q2,40%
+16/08/2018,"22 Park Crescent, Hansfield Wood, Hansfield",Dublin,295154.0,Yes,Hansfield,Dublin 15,q3,70%
+17/08/2018,"21 Park Crescent, Hansfield Wood, Hansfield",Dublin,295154.0,Yes,Hansfield,Dublin 15,q3,70%
+17/08/2018,"44 Barnwell Grove, Barnwell, Hansfield",Dublin,292411.9,Yes,Hansfield,Dublin 15,q3,60%
+21/08/2018,"39 Beechwood Gate, Beechwood, Hansfield",Dublin,299558.0,Yes,Hansfield,Dublin 15,q3,70%
+22/08/2018,"14 Park Crescent, Hansfield Wood, Hansfield",Dublin,312775.0,Yes,Hansfield,Dublin 15,q3,80%
+23/08/2018,"12 Park Cresent, Hansfield Wood, Hansfield",Dublin,308370.04,Yes,Hansfield,Dublin 15,q3,80%
+23/08/2018,"19 Park Crescent, Hansfield Wood, Hansfield",Dublin,303965.0,Yes,Hansfield,Dublin 15,q3,70%
+28/08/2018,"16 Park Crescent, Hansfield Wood, Hansfield",Dublin,308370.05,Yes,Hansfield,Dublin 15,q3,80%
+28/08/2018,"17 Park Crescent, Hansfield Wood, Hansfield",Dublin,303964.75,Yes,Hansfield,Dublin 15,q3,70%
+28/08/2018,"18 Park Crescent, Hansfield Wood, Hansfield",Dublin,303965.0,Yes,Hansfield,Dublin 15,q3,80%
+30/08/2018,"13 Park Crescent, Hansfield Wood, Hansfield",Dublin,317181.0,Yes,Hansfield,Dublin 15,q4,80%
+03/09/2018,"45 Park Crescent, Hansfield Wood, Hansfield",Dublin,299559.0,Yes,Hansfield,Dublin 15,q3,70%
+05/09/2018,"30 Barnwell Grove, Barnwell, Hansfield",Dublin,288545.0,Yes,Hansfield,Dublin 15,q3,60%
+05/09/2018,"7 Park Crescent, Hansfield Wood, Hansfield",Dublin,339207.0,Yes,Hansfield,Dublin 15,q4,90%
+06/09/2018,"5 Park View, Hansfield Wood, Hansfield",Dublin,321585.9,Yes,Hansfield,Dublin 15,q4,80%
+07/09/2018,"28 Barnwell Grove, Hansfield, Barnwell",Dublin,292411.9,Yes,Hansfield,Dublin 15,q3,60%
+07/09/2018,"47 Park Crescent, Hansfield Wood, Hansfield",Dublin,303965.0,Yes,Hansfield,Dublin 15,q3,80%
+10/09/2018,"15 Park Crescent, Hansfield Wood, Hansfield",Dublin,308370.05,Yes,Hansfield,Dublin 15,q3,80%
+10/09/2018,"37 Beechwood Gate, Beechwood, Hansfield",Dublin,277534.0,Yes,Hansfield,Dublin 15,q2,50%
+19/09/2018,"11 Park Crescent, Hansfield Wood, Hansfield",Dublin,317180.0,Yes,Hansfield,Dublin 15,q4,80%
+19/09/2018,"26 Barnwell Place, Hansfield, Barnwell",Dublin,325451.55,Yes,Hansfield,Dublin 15,q4,80%
+21/09/2018,"19 Barnwell Green, Hansfield",Dublin,281937.0,Yes,Hansfield,Dublin 15,q2,50%
+24/09/2018,"22 Barnwell Place, Barnwell, Hansfield",Dublin,265980.0,Yes,Hansfield,Dublin 15,q2,40%
+24/09/2018,"43 Park Crescent, Hansfield Wood, Hansfield",Dublin,321585.91,Yes,Hansfield,Dublin 15,q4,80%
+26/09/2018,"20 Park Crescent, Hansfield Wood, Hansfield",Dublin,303964.76,Yes,Hansfield,Dublin 15,q3,70%
+26/09/2018,"5 Park Crescent, Hansfield Wood, Hansfield",Dublin,339207.0,Yes,Hansfield,Dublin 15,q4,90%
+01/10/2018,"21  Barnwell Green, Barnwell, Hansfield",Dublin,292411.9,Yes,Hansfield,Dublin 15,q3,60%
+04/10/2018,"20 Barnwell Place, Barnwell, Hansfield",Dublin,281937.0,Yes,Hansfield,Dublin 15,q2,50%
+05/10/2018,"23 Barnwell Green, Hansfield",Dublin,339206.0,Yes,Hansfield,Dublin 15,q4,90%
+05/10/2018,"77 Latchford Green, Hansfield Rd, Dublin 15",Dublin,321000.0,No,Hansfield,Dublin 15,q4,80%
+08/10/2018,"Lands At, Hansfield, Dublin",Dublin,26431717.42,Yes,Hansfield,Dublin 15,q4,100%
+10/10/2018,"6Beechwood Gate, Beechwood, Hansfield",Dublin,325203.0,Yes,Hansfield,Dublin 15,q4,80%
+18/10/2018,"1 Beechwood Gate, Beechwood, Hansfield",Dublin,462555.0,Yes,Hansfield,Dublin 15,q4,100%
+18/10/2018,"9 Park Crescent, Hansfield Wood, Hansfield",Dublin,334801.0,Yes,Hansfield,Dublin 15,q4,90%
+19/10/2018,"24 Barnwell Place, Barnwell, Hansfield",Dublin,265980.18,Yes,Hansfield,Dublin 15,q2,40%
+14/11/2018,"47 Beechwood Gate, Beechwood, Hansfield",Dublin,414096.0,Yes,Hansfield,Dublin 15,q4,100%
+19/11/2018,"46 Beechwood Gate, Beechwood, Hansfield",Dublin,367806.62,Yes,Hansfield,Dublin 15,q4,100%
+20/11/2018,"48 Beechwood Gate, Beechwood, Hansfield",Dublin,365853.66,Yes,Hansfield,Dublin 15,q4,100%
+22/11/2018,"49 Beechwood Gate, Beechwood, Hansfield",Dublin,431717.52,Yes,Hansfield,Dublin 15,q4,100%
+05/12/2018,"No 4  Park Cresent, Hansfield Wood, Hansfield",Dublin,348017.0,Yes,Hansfield,Dublin 15,q4,100%
+11/12/2018,"15 Beechwood Heath, Beechwood, Hansfield",Dublin,273127.75,Yes,Hansfield,Dublin 15,q2,50%
+12/12/2018,"13 Barnwell Woods, Hansfield, Castlenock",Dublin,183533.0,Yes,Hansfield,Dublin 15,q1,20%
+12/12/2018,"14 Barnwell Woods, Hansfield, Castlenock",Dublin,145347.0,Yes,Hansfield,Dublin 15,q1,10%
+12/12/2018,"15 Barnwell Woods, Hansfield, Castlenock",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+12/12/2018,"16 Barnwell Woods, Hansfield, Castlenock",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+12/12/2018,"18 Barnwell Woods, Hansfield, Castlenock",Dublin,172208.0,Yes,Hansfield,Dublin 15,q1,10%
+12/12/2018,"19 Barnwell Woods, Hansfield, Castlenock",Dublin,172208.0,Yes,Hansfield,Dublin 15,q1,10%
+12/12/2018,"20 Barnwell Woods, Hansfield, Castlenock",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+12/12/2018,"23 Barnwell Woods, Hansfield, Castlenock",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+12/12/2018,"24 Barnwell Woods, Hansfield, Castlenock",Dublin,174959.0,Yes,Hansfield,Dublin 15,q1,10%
+13/12/2018,"12 Beechwood Heath, Beechwood, Hansfield",Dublin,290748.9,Yes,Hansfield,Dublin 15,q3,60%
+13/12/2018,"17 Beechwood Heath, Beechwood, Hansfield",Dublin,308370.04,Yes,Hansfield,Dublin 15,q3,80%
+13/12/2018,"25 Beechwood Heath, Beechwood, Hansfield",Dublin,318180.0,Yes,Hansfield,Dublin 15,q4,80%
+13/12/2018,"52 Beechwood Gate, Beechwood, Hansfield",Dublin,330396.47,Yes,Hansfield,Dublin 15,q4,90%
+13/12/2018,"54 Beechwood Gate, Beechwood, Hansfield",Dublin,290748.9,Yes,Hansfield,Dublin 15,q3,60%
+14/12/2018,"19 Beechwood Heath, Beechwood, Hansfield",Dublin,330397.0,Yes,Hansfield,Dublin 15,q4,90%
+17/12/2018,"21 Beechwood Heath, Beechwood, Hansfield",Dublin,273127.74,Yes,Hansfield,Dublin 15,q2,40%
+18/12/2018,"28 Beechwood Heath, Beechwood, Hansfield",Dublin,343611.0,Yes,Hansfield,Dublin 15,q4,100%
+18/12/2018,"30 Beechwood Heath, Beechwood, Hansfield",Dublin,280489.0,Yes,Hansfield,Dublin 15,q2,50%
+19/12/2018,"16 Beechwood Heath, Beechwood, Hansfield",Dublin,308370.04,Yes,Hansfield,Dublin 15,q3,80%
+19/12/2018,"42 Beechwood Gate, Beechwood, Hansfield",Dublin,290749.0,Yes,Hansfield,Dublin 15,q3,60%
+19/12/2018,"9 Park View, Hansfield Wood, Hansfield",Dublin,334801.76,Yes,Hansfield,Dublin 15,q4,90%
+20/12/2018,"13 Beechwood Heath, Beechwood, Hansfield",Dublin,312774.0,Yes,Hansfield,Dublin 15,q3,80%
+20/12/2018,"51 Beechwood Gate, Beechwood, Hansfield",Dublin,334141.0,Yes,Hansfield,Dublin 15,q4,90%
+20/12/2018,"8  Beechwood Heath, Beechwood, Hansfield",Dublin,339207.04,Yes,Hansfield,Dublin 15,q4,90%
+21/12/2018,"10 Beechwood Heath, Beechwood, Hansfield",Dublin,279736.0,Yes,Hansfield,Dublin 15,q2,50%
+03/01/2019,"44 Beechwood Gate, Beechwood, Hansfield",Dublin,318722.47,Yes,Hansfield,Dublin 15,q4,80%
+07/01/2019,"23 Beechwood Heath, Beechwood, Hansfield",Dublin,317181.0,Yes,Hansfield,Dublin 15,q4,80%
+09/01/2019,"26 Beechwood Heath, Beechwood, Hansfield",Dublin,281938.32,Yes,Hansfield,Dublin 15,q2,50%
+09/01/2019,"32 Beechwood Heath, Beechwood, Hansfield",Dublin,281938.32,Yes,Hansfield,Dublin 15,q2,50%
+10/01/2019,"24 Beechwood Heath, Beechwood, Hansfield",Dublin,303965.0,Yes,Hansfield,Dublin 15,q3,80%
+10/01/2019,"38 Beechwood Heath, Beechwood, Hansfield",Dublin,321585.9,Yes,Hansfield,Dublin 15,q4,80%
+10/01/2019,"40 Beechwood Heath, Beechwood, Hansfield",Dublin,437665.19,Yes,Hansfield,Dublin 15,q4,100%
+16/01/2019,"27 Beechwood Heath, Beechwood, Hansfield",Dublin,374449.33,Yes,Hansfield,Dublin 15,q4,100%
+18/01/2019,"14 Beechwood Heath, Beechwood, Hansfield",Dublin,370044.05,Yes,Hansfield,Dublin 15,q4,100%
+25/01/2019,"20 Beechwood Heath, Beechwood, Hansfield",Dublin,431718.0,Yes,Hansfield,Dublin 15,q4,100%
+29/01/2019,"78 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,174959.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"79 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"80 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"81 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"82 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"83 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,172208.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"84 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,172208.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"85 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"86 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"87 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,142304.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"88 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,145347.0,Yes,Hansfield,Dublin 15,q1,10%
+29/01/2019,"89 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,183533.0,Yes,Hansfield,Dublin 15,q1,20%
+31/01/2019,"2 Beechwood Heath, Beechwood, Hansfield",Dublin,390354.94,Yes,Hansfield,Dublin 15,q4,100%
+01/02/2019,"1 Park View, Hansfield Wood, Hansfield",Dublin,330396.0,Yes,Hansfield,Dublin 15,q4,90%
+04/02/2019,"50 Beechwood Gate, Beechwood, Hansfield",Dublin,361233.48,Yes,Hansfield,Dublin 15,q4,100%
+05/02/2019,"4 Beechwood Heath, Beechwood, Hansfield",Dublin,292951.55,Yes,Hansfield,Dublin 15,q3,60%
+15/02/2019,"6 Park View, Hansfield Wood, Hansfield",Dublin,321585.0,Yes,Hansfield,Dublin 15,q4,80%
+07/03/2019,"29 Beechwood Heath, Beechwood Hansfield, Dublin 15",Dublin,427313.0,Yes,Hansfield,Dublin 15,q4,100%
+02/04/2019,"34 Barnwell Woods, Hansfield",Dublin,308369.0,Yes,Hansfield,Dublin 15,q3,80%
+09/04/2019,"8 Park Crescent, Hansfield Wood, Hansfield",Dublin,339207.0,Yes,Hansfield,Dublin 15,q4,90%
+10/04/2019,"8 Barnwell Gate, Barnwell Woods, Hansfield",Dublin,311893.0,Yes,Hansfield,Dublin 15,q3,80%
+12/04/2019,"9 Barnwell Gate, Barnwell Woods, Hansfield",Dublin,308369.0,Yes,Hansfield,Dublin 15,q3,80%
+15/04/2019,"44 Barnwell Woods, Hansfield",Dublin,292952.0,Yes,Hansfield,Dublin 15,q3,60%
+17/04/2019,"43 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,351982.38,Yes,Hansfield,Dublin 15,q4,100%
+18/04/2019,"47 Barnwell Woods, Barnwell, Hansfield",Dublin,356828.19,Yes,Hansfield,Dublin 15,q4,100%
+18/04/2019,"7 Barnwell Gate, Barnwell Woods, Hansfield",Dublin,308369.0,Yes,Hansfield,Dublin 15,q3,80%
+26/04/2019,"51 Barnwell Woods, Hansfield",Dublin,290748.0,Yes,Hansfield,Dublin 15,q3,60%
+29/04/2019,"46 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,359030.83,Yes,Hansfield,Dublin 15,q4,100%
+03/05/2019,"3 Beechwood Heath, Beechwood, Hansfield",Dublin,317180.61,Yes,Hansfield,Dublin 15,q4,80%
+03/05/2019,"41 Barnwell Woods, Hansfield",Dublin,356827.0,Yes,Hansfield,Dublin 15,q4,100%
+03/05/2019,"49 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,356828.19,Yes,Hansfield,Dublin 15,q4,100%
+03/05/2019,"53 Barnwell Woods, Hansfield",Dublin,312774.0,Yes,Hansfield,Dublin 15,q3,80%
+03/05/2019,"54 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,356800.0,Yes,Hansfield,Dublin 15,q4,100%
+08/05/2019,"5 Beechwood Heath, Beechwood, Hansfield",Dublin,330396.0,Yes,Hansfield,Dublin 15,q4,90%
+08/05/2019,"50 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,356828.19,Yes,Hansfield,Dublin 15,q4,100%
+10/05/2019,"11 Beachwood Heath, Beechwood, Hansfield",Dublin,335000.0,Yes,Hansfield,Dublin 15,q4,90%
+10/05/2019,"48 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,290748.89,Yes,Hansfield,Dublin 15,q3,60%
+14/05/2019,"27 Barnwell Place, Hansfield, Dublin 15",Dublin,305000.0,No,Hansfield,Dublin 15,q3,80%
+14/05/2019,"55 Barnwell Wood, Barnwell Woods, Hansfield",Dublin,270325.0,Yes,Hansfield,Dublin 15,q2,40%
+16/05/2019,"1 Park Crescent, Hansfield Wood, Hansfield",Dublin,334802.0,Yes,Hansfield,Dublin 15,q4,90%
+16/05/2019,"31 Bartnwell Woods, Hansfield, Dublin 15",Dublin,308372.0,Yes,Hansfield,Dublin 15,q3,80%
+16/05/2019,"33 Beechwood Heath, Beechwood, Hansfield",Dublin,409691.63,Yes,Hansfield,Dublin 15,q4,100%
+20/05/2019,"9 Beechwood Heath, Beechwood, Hansfield",Dublin,255506.6,Yes,Hansfield,Dublin 15,q2,30%
+24/05/2019,"39  Barnwell Woods, Hansfield, Dublin 15",Dublin,330396.0,Yes,Hansfield,Dublin 15,q4,90%
+24/05/2019,"56 Barnwell Woods, Hansfield, Dublin 15",Dublin,292951.0,Yes,Hansfield,Dublin 15,q3,60%
+27/05/2019,"30 Barnwell Woods, Hansfield, Dublin 15",Dublin,286343.0,Yes,Hansfield,Dublin 15,q3,60%
+28/05/2019,"57 Barnwell Woods, Hansfield",Dublin,312775.0,Yes,Hansfield,Dublin 15,q3,80%
+30/05/2019,"27 Barnwell Woods, Hansfield",Dublin,286342.0,Yes,Hansfield,Dublin 15,q3,60%
+31/05/2019,"28 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,399500.0,Yes,Hansfield,Dublin 15,q4,100%
+31/05/2019,"29 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,351982.37,Yes,Hansfield,Dublin 15,q4,100%
+04/06/2019,"No. 2 Park View, Hansfield Wood, Hansfield",Dublin,380000.0,Yes,Hansfield,Dublin 15,q4,100%
+05/06/2019,"26 Barnwell Woods, Hansfield, Dublin 15",Dublin,286343.6,Yes,Hansfield,Dublin 15,q3,60%
+06/06/2019,"10 Barnwell Gate, Barnwell Woods, Hansfield  Dublin 15",Dublin,330397.0,Yes,Hansfield,Dublin 15,q4,90%
+14/06/2019,"66 Barnwell Woods, Hansfield, Dublin 15",Dublin,290748.9,Yes,Hansfield,Dublin 15,q3,60%
+27/06/2019,"3 Parkview, Hansfield Wood, Dublin 15",Dublin,325991.0,Yes,Hansfield,Dublin 15,q4,90%
+28/06/2019,"65 Barnwell Woods, Hansfield, Dublin 15",Dublin,356828.19,Yes,Hansfield,Dublin 15,q4,100%
+02/07/2019,"4 Park View, Hansfield Wood, Hansfield",Dublin,326000.0,Yes,Hansfield,Dublin 15,q4,90%
+04/07/2019,"61 Barnwell Woods, Hansfield",Dublin,356827.0,Yes,Hansfield,Dublin 15,q4,100%
+05/07/2019,"2 Barnwell Close, Hansfield, Dublin 15",Dublin,395000.0,No,Hansfield,Dublin 15,q4,100%
+08/07/2019,"7 Beechwood Gate, Beechwood, Hansfield",Dublin,343612.0,Yes,Hansfield,Dublin 15,q4,100%
+16/07/2019,"68 Barnwell Woods, Barnwell, Hansfield",Dublin,330395.0,Yes,Hansfield,Dublin 15,q4,90%
+17/07/2019,"2 Park Crescent, Hansfield Wood, Hansfield",Dublin,348018.0,Yes,Hansfield,Dublin 15,q4,100%
+17/07/2019,"8 Beechwood Gate, Beechwood, Hansfield",Dublin,308370.0,Yes,Hansfield,Dublin 15,q3,80%
+18/07/2019,"1 Beechwood Heath, Beechwood, Hansfield",Dublin,396474.0,Yes,Hansfield,Dublin 15,q4,100%
+18/07/2019,"3 Park Crescent, Hansfield Wood, Hansfield Wood",Dublin,348017.0,Yes,Hansfield,Dublin 15,q4,100%
+18/07/2019,"49 Barnwell Place, Hansfield, Dublin",Dublin,288000.0,No,Hansfield,Dublin 15,q3,60%
+19/07/2019,"4 Barnwell Woods, Hansfield, Dublin 15",Dublin,295153.0,Yes,Hansfield,Dublin 15,q3,70%
+19/07/2019,"9 Barnwell Lawn, Barnwell, Hansfield",Dublin,372000.0,No,Hansfield,Dublin 15,q4,100%
+23/07/2019,"32 Barnwell Woods, Hansfield, Dublin 15",Dublin,351982.37,Yes,Hansfield,Dublin 15,q4,100%
+25/07/2019,"6 Barnwell Woods, Hansfield, Dublin 15",Dublin,317179.0,Yes,Hansfield,Dublin 15,q4,80%
+26/07/2019,"2 Beechwood Gate, Beechwood, Hansfield",Dublin,334802.0,Yes,Hansfield,Dublin 15,q4,90%
+31/07/2019,"15  Barnwell Grove, Hansfield, Dublin  15",Dublin,333000.0,No,Hansfield,Dublin 15,q4,90%
+01/08/2019,"3 Barnwell Woods, Hansfield",Dublin,330395.61,Yes,Hansfield,Dublin 15,q4,90%
+02/08/2019,"7 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,317180.61,Yes,Hansfield,Dublin 15,q4,80%
+12/08/2019,"25 Barnwell Woods, Hansfield",Dublin,321585.89,Yes,Hansfield,Dublin 15,q4,80%
+12/08/2019,"77 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,330395.0,Yes,Hansfield,Dublin 15,q4,90%
+16/08/2019,"58 Barnwell Woods, Hansfield, Dublin 15",Dublin,330395.0,Yes,Hansfield,Dublin 15,q4,90%
+19/08/2019,"59 Barnwell Woods, Hansfield, Dublin 15",Dublin,295155.0,Yes,Hansfield,Dublin 15,q3,70%
+21/08/2019,"63 Barnwell Woods, Barnwill Woods, Hansfield",Dublin,295154.18,Yes,Hansfield,Dublin 15,q3,70%
+23/08/2019,"64 Brnwell Woods, Hansfield, Dublin 15",Dublin,370044.04,Yes,Hansfield,Dublin 15,q4,100%
+27/08/2019,"60 Barnwell Woods, Hansfield, Dublin 15",Dublin,301101.32,Yes,Hansfield,Dublin 15,q3,70%
+27/08/2019,"62 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,367181.0,Yes,Hansfield,Dublin 15,q4,100%
+29/08/2019,"5 Barnwell Woods, Hansfield",Dublin,295153.0,Yes,Hansfield,Dublin 15,q3,70%
+30/08/2019,"73 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,365638.76,Yes,Hansfield,Dublin 15,q4,100%
+02/09/2019,"22 Beechwood Heath, Hansfield",Dublin,405285.0,Yes,Hansfield,Dublin 15,q4,100%
+04/09/2019,"70 Barnwell Woods, Barnwel Woods, Hansfield",Dublin,409691.62,Yes,Hansfield,Dublin 15,q4,100%
+05/09/2019,"71 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,365638.76,Yes,Hansfield,Dublin 15,q4,100%
+09/09/2019,"72 Barnwell Woods, Hansfield, Dublin 15",Dublin,300218.42,Yes,Hansfield,Dublin 15,q3,70%
+16/09/2019,"2 Barnwell Woods, Hansfield",Dublin,339207.05,Yes,Hansfield,Dublin 15,q4,90%
+18/09/2019,"11 Barnwell Gate, Barnwell Woods, Hansfield",Dublin,376651.0,Yes,Hansfield,Dublin 15,q4,100%
+19/09/2019,"4 Park Grove, Hansfield Wood, Hansfield",Dublin,370000.0,No,Hansfield,Dublin 15,q4,100%
+20/09/2019,"1 Barnwell Woods, Hansfield, Dublin 15",Dublin,351981.0,Yes,Hansfield,Dublin 15,q4,100%
+20/09/2019,"10 Park Crescent, Hansfield Wood, Hansfield",Dublin,334801.76,Yes,Hansfield,Dublin 15,q4,90%
+23/09/2019,"7 Station Road, Barnswell Woods, Hansfield",Dublin,303965.0,Yes,Hansfield,Dublin 15,q3,80%
+23/09/2019,"76 Barnwell Woods, Barnwell Woods, Hansfield",Dublin,295154.18,Yes,Hansfield,Dublin 15,q3,70%
+24/09/2019,"13 Station Road, Barnwell Woods, Hansfield",Dublin,281938.33,Yes,Hansfield,Dublin 15,q3,60%
+02/10/2019,"9  Station Road, Barnwell Woods, Hansfield",Dublin,303963.0,Yes,Hansfield,Dublin 15,q3,70%
+03/10/2019,"10 Barnwell Woods, Hansfield",Dublin,351981.0,Yes,Hansfield,Dublin 15,q4,100%
+03/10/2019,"3 Station Road, Barnwell Woods, Hansfield",Dublin,281938.0,Yes,Hansfield,Dublin 15,q2,50%
+03/10/2019,"5 Station Road, Barnwell Woods, Hansfield",Dublin,281937.0,Yes,Hansfield,Dublin 15,q2,50%
+16/10/2019,"6 Barnwell Gate, Barnwell Woods, Hansfield",Dublin,374452.0,Yes,Hansfield,Dublin 15,q4,100%

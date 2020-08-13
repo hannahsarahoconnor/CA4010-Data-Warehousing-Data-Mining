@@ -1,0 +1,162 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+29/01/2010,"30 Ravenswood View, Castaheany",Dublin,174000.0,No,Castaheany,Dublin 15,q1,20%
+23/04/2010,"31 Ravens Wood Cresent, Castaheany, .",Dublin,237000.0,No,Castaheany,Dublin 15,q2,50%
+27/04/2010,"8 Linnetsfield Walk, Castaheany, Dublin 15",Dublin,255000.0,No,Castaheany,Dublin 15,q3,60%
+04/05/2010,"20 Linnetfield Rise, Castaheany  Dublin 15",Dublin,202000.0,No,Castaheany,Dublin 15,q2,30%
+01/06/2010,"29 Beechfield Drive, Castaheany, Dublin 15",Dublin,250000.0,No,Castaheany,Dublin 15,q2,50%
+08/06/2010,"19 Beechfield Lawns, Castaheany",Dublin,260000.0,No,Castaheany,Dublin 15,q3,60%
+31/08/2010,"11 Castlegrange Park, Latchford, Castaheany",Dublin,207048.45,Yes,Castaheany,Dublin 15,q2,30%
+10/11/2010,"7 Ravenswood Drive, Castaheany",Dublin,223000.0,No,Castaheany,Dublin 15,q2,50%
+11/03/2011,"1 Castlegrange Dale, Latchford, Castaheany",Dublin,225000.0,Yes,Castaheany,Dublin 15,q2,50%
+28/03/2011,"4 Beechfield Drive, Castaheany",Dublin,215000.0,No,Castaheany,Dublin 15,q2,40%
+08/04/2011,"48 Castlegrange Park, Castaheany, Clonsill",Dublin,174009.0,Yes,Castaheany,Dublin 15,q1,20%
+20/04/2011,"2 Castlegrange Drive, Latchford, Castaheany",Dublin,195000.0,Yes,Castaheany,Dublin 15,q2,30%
+20/04/2011,"57 Castlegrange Park, Castaheany",Dublin,140925.0,Yes,Castaheany,Dublin 15,q1,10%
+16/05/2011,"49 Castlegrange Park, Latchford, Castaheany",Dublin,153000.0,Yes,Castaheany,Dublin 15,q1,10%
+10/06/2011,"89 Latchford Close, Castaheany",Dublin,171000.0,Yes,Castaheany,Dublin 15,q1,20%
+15/07/2011,"79 Latchford Close, Castaheany",Dublin,175000.0,Yes,Castaheany,Dublin 15,q1,20%
+07/02/2012,"6 Latchford Walk, Castaheany",Dublin,148000.0,No,Castaheany,Dublin 15,q1,10%
+29/02/2012,"6 Beechfield Drive, Castaheany",Dublin,160000.0,No,Castaheany,Dublin 15,q1,20%
+12/04/2012,"29 Ravenswood Avenue, Castaheany",Dublin,182000.0,No,Castaheany,Dublin 15,q1,30%
+12/03/2013,"1 Beechfield Close, Castaheany, Dublin 15",Dublin,90000.0,No,Castaheany,Dublin 15,q1,10%
+21/06/2013,"22 Manorfield View, Castaheany",Dublin,110000.0,No,Castaheany,Dublin 15,q1,10%
+12/09/2013,"9 Manorfields Avenue, Castaheany",Dublin,190000.0,No,Castaheany,Dublin 15,q1,30%
+11/10/2013,"26 Rosedale Close, Castaheany, Dublin 15",Dublin,105000.0,No,Castaheany,Dublin 15,q1,10%
+20/02/2014,"36 Beechfield Heights, Castaheany, Dublin 15",Dublin,136000.0,No,Castaheany,Dublin 15,q1,10%
+28/02/2014,"39 Rosedale Crescent, Castaheany, Dublin 15",Dublin,110000.0,No,Castaheany,Dublin 15,q1,10%
+21/03/2014,"7 Beechfield Heights, Castaheany, Dublin 15",Dublin,135000.0,No,Castaheany,Dublin 15,q1,10%
+07/04/2014,"40 Beechfield Heights, Castaheany, Dublin 15",Dublin,140000.0,No,Castaheany,Dublin 15,q1,10%
+30/04/2014,"17 Beechfield Rd, Castaheany, Dublin 15",Dublin,167500.0,No,Castaheany,Dublin 15,q1,20%
+01/05/2014,"4 Beechfield Ave, Castaheany, Dublin 15",Dublin,255000.0,No,Castaheany,Dublin 15,q3,60%
+14/05/2014,"56 Beechfield Heights, Castaheany, Dublin 15",Dublin,151000.0,No,Castaheany,Dublin 15,q1,10%
+16/05/2014,"19 Manorfields Walk, Castaheany, Dublin 15",Dublin,280000.0,No,Castaheany,Dublin 15,q3,80%
+23/05/2014,"28 Beechfield Heights, Castaheany, Dublin 15",Dublin,151000.0,No,Castaheany,Dublin 15,q1,10%
+18/06/2014,"18 Beechfield Way, Castaheany, Dublin 15",Dublin,118000.0,No,Castaheany,Dublin 15,q1,10%
+01/08/2014,"22 Beechfield Heights, Castaheany, Dublin 15",Dublin,150000.0,No,Castaheany,Dublin 15,q1,10%
+13/08/2014,"27 Beechfield Close, Castaheany, Dublin 15",Dublin,310000.0,No,Castaheany,Dublin 15,q4,90%
+22/08/2014,"2 Beechfield Place, Castaheany, Dublin 15",Dublin,180500.0,No,Castaheany,Dublin 15,q1,30%
+29/08/2014,"22 Beechfield Meadows, Castaheany, Dublin 15",Dublin,180000.0,No,Castaheany,Dublin 15,q1,20%
+22/09/2014,"97 Latchford Close, Latchford, Castaheany Dublin 15",Dublin,213000.0,No,Castaheany,Dublin 15,q2,40%
+17/11/2014,"3 The Dale, Manorfields, Castaheany Dublin 15",Dublin,245000.0,No,Castaheany,Dublin 15,q2,50%
+17/12/2014,"66 Beechfield Heights, Castaheany, Dublin 15",Dublin,180000.0,No,Castaheany,Dublin 15,q1,20%
+17/12/2014,"9 Latchford Close, Castaheany, Dublin 15",Dublin,190000.0,No,Castaheany,Dublin 15,q1,30%
+18/12/2014,"1 Beechfield Court, Castaheany, Dublin 15",Dublin,230000.0,No,Castaheany,Dublin 15,q2,50%
+16/02/2015,"56 Whatley Hall, Archerswood, Castaheany Dublin 15",Dublin,190000.0,No,Castaheany,Dublin 15,q1,30%
+17/04/2015,"11 Ravenswood Crescent, Castaheany, Dublin 15",Dublin,176000.0,No,Castaheany,Dublin 15,q1,20%
+17/04/2015,"4 Castlegrange Park, Castaheany, Dublin 15",Dublin,251000.0,No,Castaheany,Dublin 15,q3,60%
+08/05/2015,"1 Castlegrange Gardens, Castaheany, Dublin 15",Dublin,160000.0,No,Castaheany,Dublin 15,q1,20%
+19/05/2015,"18 Beechfield Meadows, Castaheany Dublin 15, Dublin 15",Dublin,250000.0,No,Castaheany,Dublin 15,q2,50%
+28/05/2015,"4 Castlegrange Row, Castaheany, Dublin 15",Dublin,225000.0,No,Castaheany,Dublin 15,q2,50%
+08/06/2015,"65 Rosedale Close, Castaheany, Dublin 15",Dublin,168000.0,No,Castaheany,Dublin 15,q1,20%
+16/06/2015,"26 Castaheany, Castaheany, Dublin 15",Dublin,245000.0,No,Castaheany,Dublin 15,q2,50%
+02/07/2015,"44 Manorfields View, Castaheany, Dublin 15",Dublin,185000.0,No,Castaheany,Dublin 15,q1,30%
+08/07/2015,"22 Beechfield Way, Castaheany, Dublin 15",Dublin,232000.0,No,Castaheany,Dublin 15,q2,50%
+10/07/2015,"3 Latchford Sq, Castaheany Dublin 15, Dublin",Dublin,213000.0,No,Castaheany,Dublin 15,q2,40%
+13/07/2015,"11 Beechfield View, Castaheany, Dublin 15",Dublin,304500.0,No,Castaheany,Dublin 15,q4,90%
+29/07/2015,"62 Castaheany, Navan Rd, Dublin 15",Dublin,403000.0,No,Castaheany,Dublin 15,q4,100%
+18/11/2015,"1 Rosedale Close, Castaheany, Dublin 15",Dublin,132000.0,No,Castaheany,Dublin 15,q1,10%
+03/12/2015,"1 Linnetsfield Sq, Castaheany, Dublin 15",Dublin,162000.0,No,Castaheany,Dublin 15,q1,20%
+03/12/2015,"17 Beechfield Lawns, Clonee, Castaheany",Dublin,250000.0,No,Castaheany,Dublin 15,q3,60%
+18/12/2015,"12 Ravenswood View, Castaheany, Dublin 15",Dublin,265000.0,No,Castaheany,Dublin 15,q3,70%
+23/02/2016,"6 Ravenswood Rd, Ravenswood, Castaheany Dublin 15",Dublin,272500.0,No,Castaheany,Dublin 15,q3,70%
+29/02/2016,"25 Archers Wood, Castaheany Clonee, Dublin 15",Dublin,220000.0,No,Castaheany,Dublin 15,q2,40%
+11/03/2016,"30 Linnetfields Park, Castaheany, Dublin 15",Dublin,152000.0,No,Castaheany,Dublin 15,q1,10%
+18/05/2016,"24 Beechfield Way, Castaheany, Dublin 15",Dublin,235000.0,No,Castaheany,Dublin 15,q2,50%
+24/05/2016,"6 Latchford Sq, Hansfield Rd Estate, Castaheany Dublin 15",Dublin,220000.0,No,Castaheany,Dublin 15,q2,40%
+02/06/2016,"4 Latchford Terrace, Castaheany, Dublin 15",Dublin,269000.0,No,Castaheany,Dublin 15,q3,70%
+20/06/2016,"10 Beechfield Place, Castaheany, Dublin 15",Dublin,227000.0,No,Castaheany,Dublin 15,q2,50%
+23/06/2016,"5 Hansfield, Castaheany, Dublin 15",Dublin,267500.0,No,Castaheany,Dublin 15,q3,70%
+24/06/2016,"7 Castlegrange Avenue, Castaheany, Dublin 15",Dublin,285000.0,Yes,Castaheany,Dublin 15,q4,80%
+01/07/2016,"24 Linnetfields Pk, Castaheany, Dublin 15",Dublin,175000.0,No,Castaheany,Dublin 15,q1,20%
+19/07/2016,"17 Linnetfields Rise, Castaheany, Dublin 15",Dublin,232000.0,No,Castaheany,Dublin 15,q2,50%
+31/08/2016,"22 Castlegrange Avenue, Castaheany",Dublin,295000.0,Yes,Castaheany,Dublin 15,q4,90%
+22/09/2016,"15 Castlegrange Avenue, Castaheany",Dublin,255507.0,Yes,Castaheany,Dublin 15,q3,60%
+30/09/2016,"19 Castlegrange Avenue, Castaheany, Dublin 15",Dublin,255506.0,Yes,Castaheany,Dublin 15,q3,60%
+25/10/2016,"28 Archerswood, Castaheany, Dublin 15",Dublin,200000.0,No,Castaheany,Dublin 15,q2,30%
+14/11/2016,"66 Latchford Park, Castaheany Dublin 15, Dublin",Dublin,258000.0,No,Castaheany,Dublin 15,q3,60%
+28/11/2016,"13 Latchford Green, Castaheany, Dublin 15",Dublin,269000.0,No,Castaheany,Dublin 15,q3,70%
+30/11/2016,"5 Castlegrange Court, Castaheany",Dublin,259911.95,Yes,Castaheany,Dublin 15,q3,60%
+09/12/2016,"11 Beechfield Heights, Castaheany, Dublin 15",Dublin,279000.0,No,Castaheany,Dublin 15,q3,80%
+20/12/2016,"27 Linnetfields Sq, Castaheany, Dublin 15",Dublin,177000.0,No,Castaheany,Dublin 15,q1,20%
+12/01/2017,"9 Castlegrange Court, Castaheany",Dublin,260000.0,Yes,Castaheany,Dublin 15,q3,60%
+20/01/2017,"5 Latchford Close, Castaheany, Dublin 15",Dublin,255000.0,No,Castaheany,Dublin 15,q3,60%
+23/01/2017,"11 Castlegrange Court, Castaheany, Dublin 15",Dublin,259911.89,Yes,Castaheany,Dublin 15,q3,60%
+02/02/2017,"18 Beechfield Green, Castaheany, Dublin 15",Dublin,271000.0,No,Castaheany,Dublin 15,q3,70%
+24/03/2017,"13 Beechfield Rd, Castaheany, Dublin 15",Dublin,290000.0,No,Castaheany,Dublin 15,q4,80%
+29/03/2017,"91 Latchford Green, Castaheany, Dublin 15",Dublin,262000.0,No,Castaheany,Dublin 15,q3,70%
+31/03/2017,"24 Manorfields Walk, Castaheany, Dublin 15",Dublin,224000.0,No,Castaheany,Dublin 15,q2,50%
+09/05/2017,"20 Hansfield, Castaheany, Dublin 15",Dublin,274000.0,No,Castaheany,Dublin 15,q3,80%
+12/05/2017,"1 Latchford Green, Castaheany, Dublin 15",Dublin,272500.0,No,Castaheany,Dublin 15,q3,70%
+17/05/2017,"21 Linnetfields Park, Castaheany, Dublin 15",Dublin,170500.0,No,Castaheany,Dublin 15,q1,20%
+29/06/2017,"37 Linnetfields Sq, Castaheany, Dublin 15",Dublin,190000.0,No,Castaheany,Dublin 15,q1,30%
+13/07/2017,"27 Castlegrange Court, Castaheany",Dublin,266520.0,Yes,Castaheany,Dublin 15,q3,70%
+19/07/2017,"37 Castlegrange Court, Castaheany",Dublin,264317.0,Yes,Castaheany,Dublin 15,q3,70%
+20/07/2017,"15 Castlegrange Court, Castaheany, Dublin 15",Dublin,262114.54,Yes,Castaheany,Dublin 15,q3,70%
+03/08/2017,"7 Castlegrange Terrace, Hansfield Rd, Castaheany Dublin 15",Dublin,298000.0,No,Castaheany,Dublin 15,q4,90%
+09/08/2017,"31 Castlegrange Court, Castaheany, Dublin 15",Dublin,261662.5,Yes,Castaheany,Dublin 15,q3,70%
+29/08/2017,"35 Castlegrange Court, Castaheany",Dublin,277533.03,Yes,Castaheany,Dublin 15,q3,80%
+29/08/2017,"37 Castaheany, Navan Rd, Dublin 15",Dublin,344000.0,No,Castaheany,Dublin 15,q4,100%
+06/09/2017,"23 Beechfield Court, Castaheany, Dublin",Dublin,395000.0,No,Castaheany,Dublin 15,q4,100%
+06/10/2017,"11 Archerswood, Castaheany, Dublin 15",Dublin,210000.0,No,Castaheany,Dublin 15,q2,40%
+18/10/2017,"48 Latchford Green, Castaheany, Dublin 15",Dublin,255000.0,No,Castaheany,Dublin 15,q3,60%
+20/10/2017,"48 Hansfield, Castaheany, Dublin 15",Dublin,325000.0,No,Castaheany,Dublin 15,q4,100%
+09/11/2017,"1 Ravenswood Dr, Castaheany, Dublin 15",Dublin,364000.0,No,Castaheany,Dublin 15,q4,100%
+04/12/2017,"1 Linnetfields Dr, Castaheany, Dublin 15",Dublin,287000.0,No,Castaheany,Dublin 15,q4,80%
+04/12/2017,"7 Latchford Close, Castaheany, Dublin 15",Dublin,280000.0,No,Castaheany,Dublin 15,q3,80%
+08/12/2017,"9 Beechfield Heights, Castaheany, Dublin 15",Dublin,215000.0,No,Castaheany,Dublin 15,q2,40%
+13/12/2017,"8  Castlegrange Lawn, Castaheany, Dublin 15",Dublin,299559.47,Yes,Castaheany,Dublin 15,q4,90%
+15/12/2017,"240 Pace Rd, Littlepace Paddocks, Castaheany Dublin 15",Dublin,335000.0,No,Castaheany,Dublin 15,q4,100%
+18/12/2017,"36 Castlegrange Dale, Castaheany",Dublin,281938.0,Yes,Castaheany,Dublin 15,q4,80%
+18/12/2017,"6 Castlegrange Lawn, Castaheany, Dublin 15",Dublin,297356.83,Yes,Castaheany,Dublin 15,q4,90%
+22/12/2017,"13 Beechfield View, Castaheany, Dublin 15",Dublin,326500.0,No,Castaheany,Dublin 15,q4,100%
+22/12/2017,"38 Castlegrange Dale, Castlegrange, Castaheany",Dublin,281938.0,Yes,Castaheany,Dublin 15,q4,80%
+29/01/2018,"77 Latchford Sq, Castaheany, Dublin 15",Dublin,250000.0,No,Castaheany,Dublin 15,q3,60%
+14/02/2018,"9 Castlegrange Avenue, Castaheany",Dublin,299559.0,Yes,Castaheany,Dublin 15,q4,90%
+22/02/2018,"48 Linnetfields Sq, Castaheany Dublin 15, Dublin",Dublin,191000.0,No,Castaheany,Dublin 15,q2,30%
+13/03/2018,"7 Castlegrange Dr, Castaheany, Dublin 15",Dublin,140000.0,No,Castaheany,Dublin 15,q1,10%
+14/03/2018,"30 Linnetfields Sq, Castaheany, Dublin 15",Dublin,208000.0,No,Castaheany,Dublin 15,q2,30%
+16/03/2018,"47 Latchford Green, Castaheany, Dublin 15",Dublin,292000.0,No,Castaheany,Dublin 15,q4,90%
+16/04/2018,"6 Castlegrange Park, Castaheany, Dublin 15",Dublin,255000.0,No,Castaheany,Dublin 15,q3,60%
+23/04/2018,"39 Castlegrange Court, Castaheany",Dublin,299559.0,Yes,Castaheany,Dublin 15,q4,90%
+04/05/2018,"1 Castlegrange Lawn, Castaheany",Dublin,308370.0,Yes,Castaheany,Dublin 15,q4,90%
+04/05/2018,"13 Castlegrange Gardens, Castaheany, Dublin 15",Dublin,215000.0,No,Castaheany,Dublin 15,q2,40%
+04/05/2018,"47 Ravenswood Rise, Castaheany, Dublin 15",Dublin,221000.0,No,Castaheany,Dublin 15,q2,40%
+16/05/2018,"97 Latchford Sq, Castaheany, Dublin 15",Dublin,210000.0,No,Castaheany,Dublin 15,q2,40%
+21/05/2018,"19 Latchford Green, Castaheany, Dublin 15",Dublin,292000.0,No,Castaheany,Dublin 15,q4,90%
+31/05/2018,"98 Rosedale Crescent, Castaheany, Dublin 15",Dublin,200000.0,No,Castaheany,Dublin 15,q2,30%
+19/06/2018,"14 Manorfields Crescent, Castaheany, Dublin 15",Dublin,350000.0,No,Castaheany,Dublin 15,q4,100%
+03/07/2018,"13 Latchford Park, Castaheany, Dublin 15",Dublin,215000.0,No,Castaheany,Dublin 15,q2,40%
+04/07/2018,"23 Latchford Park, Castaheany, Dublin 15",Dublin,215000.0,No,Castaheany,Dublin 15,q2,40%
+02/08/2018,"51 Rosedale Close, Castaheany, Dublin 15",Dublin,211000.0,No,Castaheany,Dublin 15,q2,40%
+10/08/2018,"19 Latchford Park, Castaheany, Dublin 15",Dublin,169949.0,No,Castaheany,Dublin 15,q1,20%
+10/08/2018,"44 Beechfield Heights, Clonee, Castaheany",Dublin,276000.0,No,Castaheany,Dublin 15,q3,80%
+30/08/2018,"16 Latchford Sq, Phibblestown Rd, Castaheany Dublin 15",Dublin,330000.0,No,Castaheany,Dublin 15,q4,100%
+06/09/2018,"20 Castlegrange Dale, Hansfield Rd, Castaheany Dublin 15",Dublin,285000.0,No,Castaheany,Dublin 15,q4,80%
+13/09/2018,"92 Latchford Park, Castaheany, Dublin 15",Dublin,268000.0,No,Castaheany,Dublin 15,q3,70%
+19/10/2018,"9 Beechfield Way, Castaheany, Dublin 15",Dublin,195000.0,No,Castaheany,Dublin 15,q2,30%
+08/11/2018,"26 Archers Wood, Castaheany Dublin 15, Dublin",Dublin,220000.0,No,Castaheany,Dublin 15,q2,40%
+26/11/2018,"37 Latchford Close, Castaheany, Dublin 15",Dublin,307000.0,No,Castaheany,Dublin 15,q4,90%
+29/11/2018,"35 Rosedale Close, Castaheany, Dublin 15",Dublin,180000.0,No,Castaheany,Dublin 15,q1,30%
+18/12/2018,"3 The Dale, Manorfields, Castaheany Dublin 15",Dublin,290000.0,No,Castaheany,Dublin 15,q4,80%
+03/01/2019,"23 Latchford Green, Castaheany, Dublin 15",Dublin,285000.0,No,Castaheany,Dublin 15,q4,80%
+14/01/2019,"10 Castlegrange Park, Castaheany, Dublin 15",Dublin,303000.0,No,Castaheany,Dublin 15,q4,90%
+06/02/2019,"18 Manorfields Close, Castaheany, Dublin 15",Dublin,232000.0,No,Castaheany,Dublin 15,q2,50%
+22/02/2019,"28 Beechfield Heights, Castaheany, Dublin 15",Dublin,221000.0,No,Castaheany,Dublin 15,q2,40%
+15/03/2019,"14 Castlegrange Gardens, Castaheany, Dublin 15",Dublin,265000.0,No,Castaheany,Dublin 15,q3,70%
+24/04/2019,"51 Hazelbury Green, Castaheany, Dublin 15",Dublin,306000.0,No,Castaheany,Dublin 15,q4,90%
+03/05/2019,"4 Castlegrange Park, Castaheany, Dublin 15",Dublin,314000.0,No,Castaheany,Dublin 15,q4,100%
+03/05/2019,"87 Castaheany, Navan Rd, Dublin 15",Dublin,450000.0,No,Castaheany,Dublin 15,q4,100%
+09/05/2019,"8 Castlegrange Green, Castaheany, Dublin 15",Dublin,300000.0,Yes,Castaheany,Dublin 15,q4,90%
+10/05/2019,"76 Latchford Green, Castaheany, Dublin 15",Dublin,300000.0,No,Castaheany,Dublin 15,q4,90%
+16/05/2019,"3 Beechfield Green, Castaheany, Dublin 15",Dublin,275000.0,No,Castaheany,Dublin 15,q3,80%
+23/05/2019,"2 Castlegrange Row, Castaheany, Dublin 15",Dublin,276422.76,Yes,Castaheany,Dublin 15,q3,80%
+31/05/2019,"3 Linnetfields Sq, Castaheany, Dublin",Dublin,216000.0,No,Castaheany,Dublin 15,q2,40%
+04/06/2019,"67 Latchford Sq, Castaheany, Dublin 15",Dublin,322500.0,No,Castaheany,Dublin 15,q4,100%
+07/06/2019,"12 Castlegrange Park, Castaheany, Dublin 15",Dublin,270000.0,No,Castaheany,Dublin 15,q3,70%
+14/06/2019,"13 Castlegrange Row, Castaheany, Dublin 15",Dublin,269000.0,Yes,Castaheany,Dublin 15,q3,70%
+26/06/2019,"12 Castlegrange Row, Castaheany, Dublin 15",Dublin,258000.0,No,Castaheany,Dublin 15,q3,60%
+23/07/2019,"20 Manorfields Green, Castaheany, Dublin 15",Dublin,320000.0,No,Castaheany,Dublin 15,q4,100%
+09/08/2019,"28 Beechfield Heights, Castaheany, Dublin 15",Dublin,247000.0,No,Castaheany,Dublin 15,q2,50%
+13/08/2019,"14 Manorfields Crescent, Castaheany, Dublin 15",Dublin,352000.0,No,Castaheany,Dublin 15,q4,100%
+05/09/2019,"38 Latchford Park, Castaheany, Dublin 15",Dublin,315000.0,No,Castaheany,Dublin 15,q4,100%
+15/10/2019,"3 Beechfield Ave, Castaheany, Dublin 15",Dublin,355000.0,No,Castaheany,Dublin 15,q4,100%

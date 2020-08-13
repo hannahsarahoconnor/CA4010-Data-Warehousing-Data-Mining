@@ -1,0 +1,66 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+29/01/2010,"172 The Oakes, Belgard Heights",Dublin,336000.0,No,Belgard,Dublin 24,q4,100%
+17/02/2012,"39 The Park, Kingswood Heights, Belgard Road",Dublin,135000.0,No,Belgard,Dublin 24,q1,30%
+28/06/2012,"361 The Grove, Belgard Heights, Ta11Aght",Dublin,165000.0,No,Belgard,Dublin 24,q2,50%
+09/08/2012,"3 The Dale, Kingswood Heights, Belgard Road",Dublin,142000.0,No,Belgard,Dublin 24,q2,30%
+20/12/2012,"92 The Dale, Belgard Heights",Dublin,215000.0,No,Belgard,Dublin 24,q3,70%
+14/08/2013,"410 The Garth, Belgard",Dublin,190000.0,No,Belgard,Dublin 24,q3,60%
+24/10/2013,"177 The Avenue, Belgard Heights, Ta11Aght",Dublin,175000.0,No,Belgard,Dublin 24,q3,60%
+17/04/2014,"64 The Heath, Belgard Heights, Dublin 24",Dublin,287000.0,No,Belgard,Dublin 24,q4,90%
+12/06/2014,"7 Belgard Rd, Dublin 22, Dublin",Dublin,230000.0,No,Belgard,Dublin 24,q4,80%
+18/06/2014,"Apartment 47, Allen Hall, Belgard Square",Dublin,90500.0,No,Belgard,Dublin 24,q1,10%
+12/09/2014,"7 Loftus Hall, Belgard Sq, Dublin 24",Dublin,144000.0,No,Belgard,Dublin 24,q2,40%
+26/09/2014,"416 The Garth, Belgard Heights, Dublin 24",Dublin,270000.0,No,Belgard,Dublin 24,q4,90%
+09/12/2014,"Apt 70, Exchange Hall, Belgard Rd Dublin 24",Dublin,80000.0,No,Belgard,Dublin 24,q1,10%
+10/12/2014,"85 Exchange Hall, The Exchange, Belgard Sq North",Dublin,137500.0,No,Belgard,Dublin 24,q2,30%
+10/12/2014,"87 Exchange Hall, The Exchange, Belgard Sq North",Dublin,135000.0,No,Belgard,Dublin 24,q1,30%
+12/12/2014,"160 The Rise, Belgard Heights, Dublin 24",Dublin,260000.0,No,Belgard,Dublin 24,q4,90%
+13/04/2015,"Apt 14, Tunsgate Building, Belgard Sq East Dublin 24",Dublin,150000.0,No,Belgard,Dublin 24,q2,40%
+29/05/2015,"8 Exchange Hall, The Exchange, Belgard Sq North Dublin 24",Dublin,100000.0,No,Belgard,Dublin 24,q1,10%
+09/09/2015,"103 Abberley Sq, Belgard Rd, Dublin 24",Dublin,118750.0,No,Belgard,Dublin 24,q1,10%
+09/09/2015,"17 Abberley Sq, Belgard Rd, Dublin 24",Dublin,118750.0,No,Belgard,Dublin 24,q1,20%
+09/09/2015,"35 Abberley Sq, Belgard Rd, Dublin 24",Dublin,118750.0,No,Belgard,Dublin 24,q1,20%
+09/09/2015,"38 Abberley Sq, Belgard Rd, Dublin 24",Dublin,118750.0,No,Belgard,Dublin 24,q1,20%
+09/09/2015,"63 Abberley Sq, Belgard Rd, Dublin 24",Dublin,118750.0,No,Belgard,Dublin 24,q1,20%
+09/09/2015,"78 Abberley Sq, Belgard Rd, Dublin 24",Dublin,118750.0,No,Belgard,Dublin 24,q1,20%
+09/09/2015,"79 Abberley Sq, Belgard Rd, Dublin 24",Dublin,118750.0,No,Belgard,Dublin 24,q1,20%
+09/09/2015,"86 Abberley Sq, Belgard Rd, Dublin 24",Dublin,118750.0,No,Belgard,Dublin 24,q1,30%
+28/09/2015,"16 Colbert Fort, Belgard Road, Dublin 24",Dublin,280000.0,No,Belgard,Dublin 24,q4,90%
+02/10/2015,"269 The Meadows West, Belgard Heights, Dublin 24",Dublin,331500.0,No,Belgard,Dublin 24,q4,100%
+05/11/2015,"16 The Close, Kingswood Heights, Belgard Rd",Dublin,75000.0,No,Belgard,Dublin 24,q1,10%
+22/12/2015,"Apt 33, Tuansgate, Belgard Sq East Dublin 24",Dublin,151000.0,No,Belgard,Dublin 24,q2,40%
+21/01/2016,"Apt 78, Exchange Hall, Belgard Sq North",Dublin,112000.0,No,Belgard,Dublin 24,q1,10%
+24/03/2016,"Apt 13, Exchange Hall, Belgard Sq North Dublin 24",Dublin,140000.0,No,Belgard,Dublin 24,q2,30%
+30/03/2016,"Apt 37, Exchange Hall, Belgard Sq North Dublin 24",Dublin,152500.0,No,Belgard,Dublin 24,q2,40%
+31/05/2016,"21 Alpine Rise, Belgard, Dublin 24",Dublin,215000.0,No,Belgard,Dublin 24,q3,70%
+14/06/2016,"Apt 54, Exchange Hall, Belgard Sq North Dublin 24",Dublin,153000.0,No,Belgard,Dublin 24,q2,50%
+07/09/2016,"93 Exchange Hall, Belgard Sq North, Dublin 24",Dublin,130000.0,No,Belgard,Dublin 24,q1,30%
+07/10/2016,"Apt 54, Tuansgate, Belgard Sq East Dublin 24",Dublin,170000.0,No,Belgard,Dublin 24,q2,50%
+10/11/2016,"6 Belgard Rd, Newlands Cross, Clondalkin Dublin 22",Dublin,290000.0,No,Belgard,Dublin 24,q4,100%
+15/12/2016,"23 Tuansgate, Belgard Rd, Dublin 24",Dublin,176000.0,No,Belgard,Dublin 24,q3,60%
+16/12/2016,"32 Horan Hall, Belgard Sq, Dublin 24",Dublin,193000.0,No,Belgard,Dublin 24,q3,70%
+16/12/2016,"Apt 6 Block A, Aengus Hall, Belgard Sq Dublin 24",Dublin,145000.0,No,Belgard,Dublin 24,q2,40%
+06/01/2017,"305C The Crescent, Belgard Heights, Dublin 24",Dublin,365000.0,No,Belgard,Dublin 24,q4,100%
+03/02/2017,"348 The Lawn, Belgard Heights, Dublin 24",Dublin,255000.0,No,Belgard,Dublin 24,q4,90%
+15/02/2017,"5 Losset Hall, Belgard Sq, Dublin 24",Dublin,200000.0,No,Belgard,Dublin 24,q3,70%
+13/06/2017,"8 Virginia Hall, Belgard Sq West, Dublin 24",Dublin,165000.0,No,Belgard,Dublin 24,q2,50%
+04/07/2017,"114 Exchange Hall, Belgard Sq North, Dublin",Dublin,147000.0,No,Belgard,Dublin 24,q2,40%
+11/08/2017,"93 Abberley Square, Belgard Road, Talllaght",Dublin,108879.04,Yes,Belgard,Dublin 24,q1,10%
+22/09/2017,"15 Virginia Hall, Belgard Sq West, Dublin 24",Dublin,223000.0,No,Belgard,Dublin 24,q4,80%
+29/11/2017,"Apt 51 Block E, Virginia Hall, Belgard Sq",Dublin,170000.0,No,Belgard,Dublin 24,q2,50%
+08/12/2017,"44 Tallow Hall, Belgard Sq, Dublin 24",Dublin,210000.0,No,Belgard,Dublin 24,q3,70%
+14/12/2017,"354 The Lawn, Belgard Heights, Dublin 24",Dublin,318000.0,No,Belgard,Dublin 24,q4,100%
+20/12/2017,"56 The Oaks Belgard Heights, Belgard Heights Dublin 24, Dublin",Dublin,388700.0,No,Belgard,Dublin 24,q4,100%
+20/04/2018,"73 Exchange Hall, The Exchange, Belgard Sq North",Dublin,165000.0,No,Belgard,Dublin 24,q2,50%
+21/06/2018,"17 Exchange Hall, Belgarde Square North, Dublin 24",Dublin,195000.0,No,Belgard,Dublin 24,q3,70%
+22/08/2018,"Apt 53, Tuansgate, Belgard Road",Dublin,184000.0,No,Belgard,Dublin 24,q3,60%
+30/08/2018,"14 Horan Hall, Belgard Sq, Tallagh Dublin 24",Dublin,222000.0,No,Belgard,Dublin 24,q3,80%
+14/09/2018,"Apt 36 Abberley Apts, Abberley Sq, Belgard Rd Tallaght Dublin 24",Dublin,185000.0,No,Belgard,Dublin 24,q3,60%
+02/10/2018,"Apt 22, Alen Hall, Belgard Sq",Dublin,231000.0,No,Belgard,Dublin 24,q4,80%
+02/11/2018,"Apt 41 Horan Hall, Belgard Sq, Dublin",Dublin,180000.0,No,Belgard,Dublin 24,q3,60%
+29/11/2018,"73 Exchange Hall, The Exchange, Belgard Sq North",Dublin,160000.0,No,Belgard,Dublin 24,q2,50%
+12/12/2018,"Apt 33, Virginia Hall, Belgard Sq East",Dublin,217000.0,No,Belgard,Dublin 24,q3,80%
+18/01/2019,"15 Cairnwood Court, Belgard, Dublin 24",Dublin,242500.0,No,Belgard,Dublin 24,q4,90%
+07/05/2019,"78A Alpine Rise, Belgard, Dublin 24",Dublin,295000.0,No,Belgard,Dublin 24,q4,100%
+15/05/2019,"Apt 38 Virginia Hall, Belgard Sq West, Dublin 18",Dublin,220000.0,No,Belgard,Dublin 24,q3,80%
+01/10/2019,"Apt 55, Alen Hall, Belgard Sq East",Dublin,218000.0,No,Belgard,Dublin 24,q3,80%

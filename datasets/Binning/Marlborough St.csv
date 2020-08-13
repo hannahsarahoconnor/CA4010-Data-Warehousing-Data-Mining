@@ -1,0 +1,26 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+25/06/2010,"Apartment 96, Marlborough Court, 29 Marlborough Street",Dublin,117000.0,No,Marlborough St,Dublin 1,q1,20%
+05/09/2011,"16 Marlborough Court, Marlborough Street, Dublin 1",Dublin,144000.0,No,Marlborough St,Dublin 1,q1,30%
+17/01/2012,"63 Marlborough Court, Marlborough Street",Dublin,92500.0,No,Marlborough St,Dublin 1,q1,10%
+30/03/2012,"Apt 56, Marlborough Court, Marlborough Street",Dublin,90000.0,No,Marlborough St,Dublin 1,q1,10%
+31/08/2012,"Apt 36, Marlborough Court, Marlborough Street",Dublin,100000.0,No,Marlborough St,Dublin 1,q1,10%
+20/12/2013,"4 Marlborough Court, Marlborough Street",Dublin,133000.0,No,Marlborough St,Dublin 1,q1,30%
+08/01/2015,"Apartment 67, Marlborough Court, Marlborough Street",Dublin,163000.0,No,Marlborough St,Dublin 1,q2,30%
+20/03/2015,"1 Marlborough Court, Marlborough St, Dublin 1",Dublin,245000.0,No,Marlborough St,Dublin 1,q4,90%
+20/03/2015,"2 Marlborough Court, Marlborough St, Dublin 1",Dublin,190000.0,No,Marlborough St,Dublin 1,q2,50%
+20/03/2015,"45 Marlborough Court, Marlborough St, Dublin 1",Dublin,185000.0,No,Marlborough St,Dublin 1,q2,40%
+16/04/2015,"78 Marlborough Street, Dublin 1, Dublin",Dublin,250000.0,No,Marlborough St,Dublin 1,q4,100%
+22/12/2015,"84 Marlborough Court, Marlborough St, Dublin",Dublin,120000.0,No,Marlborough St,Dublin 1,q1,20%
+07/01/2016,"64 Marlborough Court, Marlborough St, Dublin 1",Dublin,232000.0,No,Marlborough St,Dublin 1,q3,80%
+06/10/2016,"3 Marlborough Court, Marlborough St, Dublin 1",Dublin,189000.0,No,Marlborough St,Dublin 1,q2,40%
+04/01/2017,"67 Marlborough Court, Marlborough St, Dublin 1",Dublin,206000.0,No,Marlborough St,Dublin 1,q2,50%
+10/11/2017,"91 Marlborough Court, Marlborough St, Dublin 1",Dublin,210000.0,No,Marlborough St,Dublin 1,q3,60%
+17/11/2017,"22 Marlborough Court, Marlborough St, Dublin 1",Dublin,241500.0,No,Marlborough St,Dublin 1,q4,80%
+12/02/2018,"57 Marlborough Court, Marlborough St, Dublin 1",Dublin,355000.0,No,Marlborough St,Dublin 1,q4,100%
+15/02/2018,"Apt 62, Marlborough Court, Marlborough St Dublin 1",Dublin,206000.0,No,Marlborough St,Dublin 1,q3,60%
+23/03/2018,"Apt 65, Marlborough Court, Marlborough St",Dublin,215000.0,No,Marlborough St,Dublin 1,q3,70%
+17/07/2018,"Apt 1, 57 Marlborough Street, Dublin 1",Dublin,190000.0,No,Marlborough St,Dublin 1,q2,50%
+22/01/2019,"39 Marlborough Court, Marlborough St, Dublin",Dublin,240000.0,No,Marlborough St,Dublin 1,q3,80%
+31/05/2019,"10 Cathedral View, 85 Marlborough St, Dublin 1",Dublin,310000.0,No,Marlborough St,Dublin 1,q4,100%
+29/08/2019,"41 Marlborough Court, Marlborough St, Dublin 1",Dublin,220000.0,No,Marlborough St,Dublin 1,q3,70%
+13/09/2019,"2 Marlborough Court, Marlborough St, Dublin 1",Dublin,246000.0,No,Marlborough St,Dublin 1,q4,90%

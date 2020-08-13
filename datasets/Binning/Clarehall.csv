@@ -1,0 +1,109 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+12/01/2010,"5 Temple View Park, Clarehall, Dublin 13",Dublin,290000.0,No,Clarehall,Dublin 17,q3,70%
+20/01/2010,"10 Elmfield Lawn, Clarehall  Dublin 13",Dublin,337200.0,No,Clarehall,Dublin 17,q4,90%
+17/02/2010,"8  Elmfield Lawn, Clarehall",Dublin,302500.0,No,Clarehall,Dublin 17,q3,80%
+19/02/2010,"Apt. 50  Block A, Kilkee House, Claire Village  Clarehall",Dublin,129950.0,No,Clarehall,Dublin 17,q1,10%
+25/03/2010,"7 Elmfield Close, Clarehall",Dublin,330000.0,No,Clarehall,Dublin 17,q4,90%
+28/05/2010,"13 Templeview Park, Clarehall, Dublin 13",Dublin,290000.0,No,Clarehall,Dublin 17,q3,70%
+07/07/2010,"12 Elmfield Close, Clarehall, Dublin",Dublin,303000.0,No,Clarehall,Dublin 17,q3,80%
+19/07/2010,"22  Templeview Close, Clarehall",Dublin,310000.0,No,Clarehall,Dublin 17,q4,80%
+24/09/2010,"5 Templeview Drive, Clarehall, Dublin 13",Dublin,300000.0,No,Clarehall,Dublin 17,q3,70%
+08/10/2010,"53 Elmfield Way, Clarehall",Dublin,275000.0,No,Clarehall,Dublin 17,q3,60%
+05/11/2010,"10 Doolin House, Clare Village, Clarehall",Dublin,149735.68,Yes,Clarehall,Dublin 17,q1,10%
+02/12/2010,"4 Elmfield Court, Clarehall  Dublin 13",Dublin,295000.0,No,Clarehall,Dublin 17,q3,70%
+16/12/2010,"Apt 14 Ennis House, Clare Village, Clarehall  Dublin 17",Dublin,169950.0,Yes,Clarehall,Dublin 17,q1,20%
+22/12/2010,"1 Elmfield Crescent, Clarehall",Dublin,247500.0,No,Clarehall,Dublin 17,q2,50%
+22/12/2010,"Apt 36  Block E3, Ennis House, Clare Village  Clarehall",Dublin,179950.0,Yes,Clarehall,Dublin 17,q1,20%
+08/02/2011,"3 Elmfield Close, Clarehall, Dublin 13",Dublin,289000.0,No,Clarehall,Dublin 17,q3,70%
+04/05/2011,"6 Templeview Crescent, Clarehall, Dublin 13",Dublin,215000.0,No,Clarehall,Dublin 17,q2,30%
+10/05/2011,"32 Templeview Avenue, Clarehall, Dublin 13",Dublin,251000.0,No,Clarehall,Dublin 17,q2,50%
+20/06/2011,"59 Elmfield Way, Clarehall",Dublin,252000.0,No,Clarehall,Dublin 17,q2,50%
+21/06/2011,"37 Block E3 Ennis House, Clare Village, Clarehall",Dublin,114493.0,Yes,Clarehall,Dublin 17,q1,10%
+25/08/2011,"5 Templeview Way, Clarehall, Dublin 13",Dublin,225000.0,No,Clarehall,Dublin 17,q2,40%
+07/09/2011,"30 Templeview Gree, Clarehall, Dublin 13",Dublin,210000.0,No,Clarehall,Dublin 17,q1,30%
+26/09/2011,"16 Temple View Crescent, Clarehall, Dublin 13",Dublin,200000.0,No,Clarehall,Dublin 17,q1,20%
+18/11/2011,"17 Templeview Crescent, Clarehall, Dublin 13",Dublin,230000.0,No,Clarehall,Dublin 17,q2,40%
+09/12/2011,"56 Templeview Avenue, Clarehall",Dublin,206000.0,No,Clarehall,Dublin 17,q1,30%
+12/01/2012,"21 Templeview Downs, Clarehall",Dublin,205000.0,No,Clarehall,Dublin 17,q1,30%
+08/02/2012,"44 Temple View Avenue, Clarehall",Dublin,210000.0,No,Clarehall,Dublin 17,q1,30%
+10/02/2012,"6 Temple View Avenue, Clarehall",Dublin,215000.0,No,Clarehall,Dublin 17,q2,30%
+23/03/2012,"7 Elmfield Vale, Clarehall, Dublin 13",Dublin,100000.0,No,Clarehall,Dublin 17,q1,10%
+10/05/2012,"27 Templeview Row, Clarehall",Dublin,194000.0,No,Clarehall,Dublin 17,q1,20%
+11/05/2012,"14 Templeview Court, Clarehall",Dublin,200000.0,No,Clarehall,Dublin 17,q1,20%
+12/07/2012,"22 Temple View Downs, Clarehall",Dublin,175000.0,No,Clarehall,Dublin 17,q1,20%
+26/09/2012,"2 Elmfield Court, Clarehall, Dublin 13",Dublin,180000.0,No,Clarehall,Dublin 17,q1,20%
+10/10/2012,"12 Templeview Square, Clarehall",Dublin,255000.0,No,Clarehall,Dublin 17,q3,60%
+11/10/2012,"22, Templeview Drive, Clarehall",Dublin,249500.0,No,Clarehall,Dublin 17,q2,50%
+16/10/2012,"22 Temple View Green, Clarehall, Dublin 13",Dublin,235000.0,No,Clarehall,Dublin 17,q2,50%
+26/10/2012,"36 Temple View Park, Clarehall, Dublin 13",Dublin,215000.0,No,Clarehall,Dublin 17,q2,30%
+11/12/2012,"36 Temple View Green, Clarehall, Dublin 13",Dublin,216000.0,No,Clarehall,Dublin 17,q2,30%
+21/12/2012,"13  Elmfield Drive, Clarehall",Dublin,232500.0,No,Clarehall,Dublin 17,q2,40%
+21/12/2012,"30 Templeview Copse, Clarehall, Dublin 13",Dublin,230000.0,No,Clarehall,Dublin 17,q2,40%
+04/01/2013,"55 Corofin House, Clare Village, Clarehall",Dublin,80000.0,No,Clarehall,Dublin 17,q1,10%
+12/04/2013,"19 Templeview Crescent, Clarehall",Dublin,203000.0,No,Clarehall,Dublin 17,q1,30%
+23/04/2013,"11 Elmfield Close, Clarehall, Dublin 13",Dublin,220000.0,No,Clarehall,Dublin 17,q2,30%
+25/07/2013,"7 Templeview Park, Clarehall, Dublin 13",Dublin,255000.0,No,Clarehall,Dublin 17,q3,60%
+06/08/2013,"19 Templeview Lawns, Clarehall, Dublin 13",Dublin,223000.0,No,Clarehall,Dublin 17,q2,40%
+09/09/2013,"12 Templeview Rise, Clarehall",Dublin,235000.0,No,Clarehall,Dublin 17,q2,50%
+16/10/2013,"1 Elmfield Court, Clarehall, Dublin 13",Dublin,227500.0,No,Clarehall,Dublin 17,q2,40%
+01/11/2013,"5 Templeview Avenue, Clarehall, Dublin 13",Dublin,220000.0,No,Clarehall,Dublin 17,q2,40%
+08/11/2013,"50 Templeview Avenue, Clarehall, Dublin 13",Dublin,199000.0,No,Clarehall,Dublin 17,q1,20%
+27/11/2013,"2 Temple View Rise, Clarehall, Dublin 13",Dublin,240000.0,No,Clarehall,Dublin 17,q2,50%
+10/12/2013,"15 Temple View Court, Clarehall, Dublin 13",Dublin,152000.0,No,Clarehall,Dublin 17,q1,10%
+10/01/2014,"15 Templeview Row Clarehall, Dublin 13, Dublin",Dublin,158200.0,No,Clarehall,Dublin 17,q1,10%
+05/02/2014,"13 Temple View Rise, Clarehall, Dublin 13",Dublin,237000.0,No,Clarehall,Dublin 17,q2,50%
+29/04/2014,"62 Elmfield Ave, Clarehall, Dublin 13",Dublin,244000.0,No,Clarehall,Dublin 17,q2,50%
+13/06/2014,"35 Temple View Green, Clarehall, Dublin",Dublin,275000.0,No,Clarehall,Dublin 17,q3,60%
+15/07/2014,"7 Temple View Avenue, Clarehall",Dublin,232900.0,No,Clarehall,Dublin 17,q2,40%
+22/07/2014,"27 Temple View Walk, Clarehall, Dublin 13",Dublin,251000.0,No,Clarehall,Dublin 17,q2,50%
+02/09/2014,"9 Elmfield Ave Clarehall, Dublin 13, Dublin",Dublin,279000.0,No,Clarehall,Dublin 17,q3,60%
+05/09/2014,"48 Temple View Copse, Clarehall, Dublin 13",Dublin,355000.0,No,Clarehall,Dublin 17,q4,100%
+05/11/2014,"23 Burnell Court, Clarehall",Dublin,137000.0,No,Clarehall,Dublin 17,q1,10%
+20/11/2014,"12 Elmfield Ave, Clarehall, Dublin 13",Dublin,295000.0,No,Clarehall,Dublin 17,q3,70%
+05/12/2014,"16 Temple View Sq, Clarehall, Dublin 13",Dublin,280000.0,No,Clarehall,Dublin 17,q3,70%
+27/02/2015,"23 Elmfield Green, Clarehall, Dublin 13",Dublin,305000.0,No,Clarehall,Dublin 17,q3,80%
+09/03/2015,"11 Temple View Rise, Clarehall, Dublin 13",Dublin,260000.0,No,Clarehall,Dublin 17,q3,60%
+31/07/2015,"11 Temple View Ave, Clarehall, Dublin 13",Dublin,256000.0,No,Clarehall,Dublin 17,q3,60%
+04/09/2015,"20 Corofin House, Clare Village, Clarehall",Dublin,165000.0,No,Clarehall,Dublin 17,q1,20%
+03/12/2015,"38 Temple View Copse, Clarehall, Dublin 13",Dublin,300000.0,No,Clarehall,Dublin 17,q3,70%
+11/12/2015,"32 Doonbeg House, Clare Village, Clarehall",Dublin,163000.0,No,Clarehall,Dublin 17,q1,10%
+04/03/2016,"7  Temple View Rise, Clarehall, Dublin 13",Dublin,260000.0,No,Clarehall,Dublin 17,q3,60%
+07/06/2016,"34 Templeview Close, Clarehall, Dublin 13",Dublin,255000.0,No,Clarehall,Dublin 17,q3,60%
+02/08/2016,"19 Temple View Park, Clarehall, Dublin 13",Dublin,305000.0,No,Clarehall,Dublin 17,q3,80%
+17/08/2016,"36 Elmfield Ave, Clarehall, Dublin 13",Dublin,277000.0,No,Clarehall,Dublin 17,q3,60%
+11/11/2016,"5 Temple View Ave, Clarehall, Dublin 13",Dublin,284000.0,No,Clarehall,Dublin 17,q3,70%
+02/12/2016,"25 Elmfield Ave, Clarehall, Dublin 13",Dublin,295000.0,No,Clarehall,Dublin 17,q3,70%
+17/02/2017,"7 Temple View Avenue, Clarehall, Dublin 13",Dublin,260000.0,No,Clarehall,Dublin 17,q3,60%
+28/04/2017,"1 Temple View Crescent, Clarehall, Dublin 13",Dublin,300000.0,No,Clarehall,Dublin 17,q3,80%
+30/06/2017,"11 Doolin House, Clarevillage, Clarehall Dublin 13",Dublin,95000.0,No,Clarehall,Dublin 17,q1,10%
+14/07/2017,"1 Temple View Sq, Clarehall, Dublin 13",Dublin,320000.0,No,Clarehall,Dublin 17,q4,80%
+25/07/2017,"13 Elmfield Park, Clarehall, Dublin 13",Dublin,336000.0,No,Clarehall,Dublin 17,q4,90%
+02/08/2017,"24 Templeview Rise, Clarehall, Dublin 13",Dublin,331000.0,No,Clarehall,Dublin 17,q4,90%
+22/08/2017,"24 Temple View Row, Clarehall, Dublin 13",Dublin,302000.0,No,Clarehall,Dublin 17,q3,80%
+27/11/2017,"8 Elmfield Way, Clarehall, Dublin 13",Dublin,326000.0,No,Clarehall,Dublin 17,q4,90%
+29/11/2017,"13 Temple View Dr, Clarehall, Dublin 13",Dublin,365000.0,No,Clarehall,Dublin 17,q4,100%
+14/12/2017,"24 Temple View Green, Clarehall, Dublin 13",Dublin,345000.0,No,Clarehall,Dublin 17,q4,90%
+17/01/2018,"29 Templeview Ave, Clarehall, Dublin 13",Dublin,315000.0,No,Clarehall,Dublin 17,q4,80%
+09/02/2018,"22 Doonbeg, Clarehall, Dublin 13",Dublin,211000.0,No,Clarehall,Dublin 17,q2,30%
+08/03/2018,"21 Doolin House, Clare Village, Clarehall",Dublin,231000.0,No,Clarehall,Dublin 17,q2,40%
+26/04/2018,"55 Temple View Ave, Clarehall, Dublin",Dublin,163500.0,No,Clarehall,Dublin 17,q1,10%
+25/05/2018,"6 Elmfield Green, Clarehall, Dublin 13",Dublin,380000.0,No,Clarehall,Dublin 17,q4,100%
+18/06/2018,"8 Temple View Lawn Clarehall, Dublin 13, Dublin",Dublin,365000.0,No,Clarehall,Dublin 17,q4,100%
+26/06/2018,"7 Templeview Place, Clarehall, Dublin 13",Dublin,342500.0,No,Clarehall,Dublin 17,q4,90%
+27/07/2018,"34 Temple View Park, Clarehall, Dublin",Dublin,350000.0,No,Clarehall,Dublin 17,q4,100%
+27/07/2018,"8 Elmfield Lawn, Clarehall, Dublin 13",Dublin,335000.0,No,Clarehall,Dublin 17,q4,90%
+03/08/2018,"31 Elmfield Way, Clarehall, Dublin",Dublin,315000.0,No,Clarehall,Dublin 17,q4,80%
+21/08/2018,"34 Elmfield Walk, Clarehall, Dublin 13",Dublin,390000.0,No,Clarehall,Dublin 17,q4,100%
+06/09/2018,"16 Temple View Close, Clarehall, Dublin 13",Dublin,325000.0,No,Clarehall,Dublin 17,q4,90%
+04/10/2018,"22 Ennis House, Clare Village, Clarehall Dublin 17",Dublin,228000.0,No,Clarehall,Dublin 17,q2,40%
+12/10/2018,"12 Templeview Grove, Clarehall, Dublin 13",Dublin,252000.0,No,Clarehall,Dublin 17,q2,50%
+23/10/2018,"30 Temple View Grove, Clarehall, Dublin 13",Dublin,335000.0,No,Clarehall,Dublin 17,q4,90%
+06/12/2018,"23 Temple View Rise, Clarehall, Dublin 13",Dublin,310000.0,No,Clarehall,Dublin 17,q4,80%
+12/02/2019,"12 Elmfield Dr, Clarehall, Donaghmede Dublin 13",Dublin,375000.0,No,Clarehall,Dublin 17,q4,100%
+21/05/2019,"4 Temple View Sq, Clarehall, Dublin 13",Dublin,358500.0,No,Clarehall,Dublin 17,q4,100%
+30/05/2019,"39 Doolin House Block D, Clare Village, Clarehall Dublin 17",Dublin,200000.0,No,Clarehall,Dublin 17,q1,20%
+21/06/2019,"21 Ennis House, Clare Village, Clarehall Dublin 17",Dublin,180000.0,No,Clarehall,Dublin 17,q1,20%
+25/06/2019,"5 Elmfield Park, Clarehall, Dublin 13",Dublin,330000.0,No,Clarehall,Dublin 17,q4,90%
+28/06/2019,"22 Temple View Way, Clarehall, Dublin 13",Dublin,420000.0,No,Clarehall,Dublin 17,q4,100%
+15/07/2019,"22 Elmfield Ave, Clarehall, Dublin 13",Dublin,362500.0,No,Clarehall,Dublin 17,q4,100%
+29/08/2019,"2 Temple View Downs, Clarehall, Dublin 13",Dublin,352000.0,No,Clarehall,Dublin 17,q4,100%

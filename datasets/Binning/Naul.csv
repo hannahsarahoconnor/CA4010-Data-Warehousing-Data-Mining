@@ -1,0 +1,111 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/02/2010,"14 Weston Avenue, Naul",Dublin,340000.0,Yes,Naul,Co. Dublin,q3,80%
+04/03/2010,"25 Delvin Banks, Naul",Dublin,361233.49,Yes,Naul,Co. Dublin,q4,90%
+07/12/2010,"The Coach Houses And The Courtyard, Grangemount, Naul",Dublin,15000.0,No,Naul,Co. Dublin,q1,10%
+07/12/2010,"The Coach Houses And The Courtyard, Grangemount, Naul",Dublin,15000.0,No,Naul,Co. Dublin,q1,10%
+15/12/2010,"1 Delvin Banks, Naul",Dublin,361074.0,Yes,Naul,Co. Dublin,q4,90%
+21/12/2010,"68 Delvin Banks, Naul Village",Dublin,185022.0,Yes,Naul,Co. Dublin,q2,30%
+17/02/2011,"34 Delvin Banks, Naul Village, The Naul",Dublin,288112.5,Yes,Naul,Co. Dublin,q3,70%
+10/05/2011,"Old Health Centre, Main Street, The Naul",Dublin,215500.0,No,Naul,Co. Dublin,q2,40%
+01/07/2011,"8 Westown Avenue, Naul",Dublin,226211.0,Yes,Naul,Co. Dublin,q2,50%
+04/11/2011,"51 Delvin Banks, The Naul, Co. Dublin",Dublin,211640.0,Yes,Naul,Co. Dublin,q2,40%
+09/11/2011,"Belgee, Naul",Dublin,467500.0,No,Naul,Co. Dublin,q4,100%
+07/12/2011,"26 Delvin Banks, Naul",Dublin,299532.0,Yes,Naul,Co. Dublin,q3,70%
+14/12/2011,"Great Rath, Naul",Dublin,150000.0,No,Naul,Co. Dublin,q1,20%
+31/03/2012,"The Cottate, Balbriggan Road, Naul",Dublin,190000.0,No,Naul,Co. Dublin,q2,30%
+02/04/2012,"4 Westown Avenue, Naul",Dublin,182158.59,Yes,Naul,Co. Dublin,q2,30%
+26/03/2013,"56 Delvin Banks, Naul Village",Dublin,125000.0,Yes,Naul,Co. Dublin,q1,20%
+21/05/2013,"59 Delvin Banks, Naul",Dublin,135000.0,Yes,Naul,Co. Dublin,q1,20%
+30/05/2013,"9 Delvin Banks, Naul",Dublin,251101.0,Yes,Naul,Co. Dublin,q3,60%
+14/06/2013,"6 Delvin Banks, Naul, Dublin",Dublin,208948.17,Yes,Naul,Co. Dublin,q2,40%
+15/07/2013,"66 Delvin Banks, Naul",Dublin,125000.0,Yes,Naul,Co. Dublin,q1,20%
+18/07/2013,"10 The Old Mill, Naul, Dublin",Dublin,199500.0,No,Naul,Co. Dublin,q2,40%
+19/07/2013,"10 Westown Avenue, Naul",Dublin,164350.0,Yes,Naul,Co. Dublin,q1,30%
+07/08/2013,"2 Westown Avenue, Naul, Co. Dublin",Dublin,149339.2,Yes,Naul,Co. Dublin,q1,20%
+08/08/2013,"Dermotsown, Ring Commons, Naul",Dublin,95000.0,No,Naul,Co. Dublin,q1,10%
+19/08/2013,"7 Weston Avenue, Naul",Dublin,151541.84,Yes,Naul,Co. Dublin,q1,30%
+20/08/2013,"31 Delvin Banks, The Naul",Dublin,280000.0,Yes,Naul,Co. Dublin,q3,70%
+28/08/2013,"29 Delvin Banks, Naul",Dublin,275000.0,Yes,Naul,Co. Dublin,q3,70%
+20/09/2013,"Killougher, Ring Commons, Naul",Dublin,181000.0,No,Naul,Co. Dublin,q2,30%
+03/10/2013,"Naul Hill, Naul",Dublin,266750.0,No,Naul,Co. Dublin,q3,60%
+16/10/2013,"8 Delvin Banks, The Naul, Co Dublin",Dublin,240000.0,No,Naul,Co. Dublin,q2,50%
+06/11/2013,"79 Delvin Banks, The Naul",Dublin,206247.24,Yes,Naul,Co. Dublin,q2,40%
+25/11/2013,"6 Westown Avenue, Naul",Dublin,122830.0,Yes,Naul,Co. Dublin,q1,20%
+06/12/2013,"41 Delvin Banks, The Naul  Co. Dublin",Dublin,250000.0,Yes,Naul,Co. Dublin,q3,60%
+16/12/2013,"27 Delvin Banks, Naul Village, Naul",Dublin,215859.02,Yes,Naul,Co. Dublin,q2,50%
+18/12/2013,"3 Weston Wood, Naul",Dublin,365000.0,No,Naul,Co. Dublin,q4,90%
+23/01/2014,"13 Westown Avenue, The Naul",Dublin,167753.3,Yes,Naul,Co. Dublin,q1,30%
+29/01/2014,"39 Delvin Banks, Naul Village",Dublin,259110.0,Yes,Naul,Co. Dublin,q3,60%
+14/02/2014,"30 Delvin Banks, Naul Village",Dublin,264317.0,Yes,Naul,Co. Dublin,q3,60%
+28/02/2014,"West Curragh, Naul, Co. Dublin",Dublin,305000.0,No,Naul,Co. Dublin,q3,70%
+01/05/2014,"23 Delvin Bank, The Naul",Dublin,206247.24,Yes,Naul,Co. Dublin,q2,40%
+01/05/2014,"7 Delvin Banks, The Naul",Dublin,223868.99,Yes,Naul,Co. Dublin,q2,50%
+23/05/2014,"13 Delvin Banks, The Naul",Dublin,211453.74,Yes,Naul,Co. Dublin,q2,40%
+29/05/2014,"Dermotstown, Ring Commons, Naul",Dublin,230000.0,No,Naul,Co. Dublin,q2,50%
+13/06/2014,"12 Westown Avenue, Naul",Dublin,170000.0,Yes,Naul,Co. Dublin,q1,30%
+27/06/2014,"36 Delvin Banks, The Naul",Dublin,237084.24,Yes,Naul,Co. Dublin,q2,50%
+27/06/2014,"80 Delvin Banks, Naul Village, Naul",Dublin,193832.24,Yes,Naul,Co. Dublin,q2,40%
+08/08/2014,"11 Delvin Banks, The Naul, County Dublin",Dublin,228274.0,Yes,Naul,Co. Dublin,q2,50%
+05/09/2014,"3 Delvin Banks, The Naul",Dublin,315000.0,Yes,Naul,Co. Dublin,q3,70%
+12/09/2014,"9 Westbrook Rise, Naul Rd, Dublin",Dublin,211000.0,No,Naul,Co. Dublin,q2,40%
+17/11/2014,"Balscadden, Naul",Dublin,75000.0,No,Naul,Co. Dublin,q1,10%
+10/12/2014,"14 Delvin Banks, Naul Village",Dublin,228273.0,Yes,Naul,Co. Dublin,q2,50%
+18/12/2014,"Damastown, Naul, Co Dublin",Dublin,151000.0,No,Naul,Co. Dublin,q1,30%
+23/02/2015,"Hilltop House, Dermotstown, Naul",Dublin,520000.0,No,Naul,Co. Dublin,q4,100%
+25/02/2015,"16 Delvin Banks, The Naul, Co. Dublin",Dublin,112500.0,Yes,Naul,Co. Dublin,q1,10%
+25/02/2015,"17 Delvin Banks, The Naul, Co. Dublin",Dublin,112500.0,Yes,Naul,Co. Dublin,q1,10%
+25/02/2015,"19 Delvin Banks, The Naul, Co. Dublin",Dublin,112500.0,Yes,Naul,Co. Dublin,q1,10%
+25/02/2015,"20 Delvin Banks, The Naul, Co. Dublin",Dublin,112500.0,Yes,Naul,Co. Dublin,q1,10%
+25/02/2015,"22 Delvin Banks, The Naul, Co. Dublin",Dublin,112500.0,Yes,Naul,Co. Dublin,q1,20%
+25/02/2015,"24 Delvin Banks, The Naul, Co. Dublin",Dublin,112500.0,Yes,Naul,Co. Dublin,q1,20%
+25/02/2015,"70 Delvin Banks, The Naul, Co. Dublin",Dublin,112500.0,Yes,Naul,Co. Dublin,q1,20%
+25/02/2015,"71 Delvin Banks, The Naul, Co. Dublin",Dublin,112500.0,Yes,Naul,Co. Dublin,q1,20%
+25/05/2015,"1 Weston Close, Naul, Co Dublin",Dublin,220000.0,No,Naul,Co. Dublin,q2,50%
+26/06/2015,"Lambay View, Baldar, Naul",Dublin,206000.0,No,Naul,Co. Dublin,q2,40%
+27/08/2015,"Ashbury, Delahassey, Naul",Dublin,480000.0,No,Naul,Co. Dublin,q4,100%
+02/12/2015,"Thornvale, Lecklinstown, Naul",Dublin,385000.0,No,Naul,Co. Dublin,q4,90%
+12/01/2016,"16 Moonlone Lane, Naul, Hynestown",Dublin,395000.0,No,Naul,Co. Dublin,q4,90%
+28/01/2016,"Westown, Naul, Dublin",Dublin,282000.0,No,Naul,Co. Dublin,q3,70%
+15/02/2016,"Kalema Lodge, Hynestown, Naul",Dublin,343000.0,No,Naul,Co. Dublin,q4,80%
+25/02/2016,"22 Delvin Banks, Naul, Co Dublin",Dublin,140000.0,Yes,Naul,Co. Dublin,q1,20%
+16/03/2016,"Ashwood House, Rathlittle, Naul Dublin",Dublin,440000.0,No,Naul,Co. Dublin,q4,90%
+18/04/2016,"Fiend View House, Balgaddy, The Naul",Dublin,320000.0,No,Naul,Co. Dublin,q3,70%
+31/05/2016,"Naul Village, Naul, Dublin",Dublin,220000.0,No,Naul,Co. Dublin,q2,50%
+13/09/2016,"Belgee, Naul, Dublin",Dublin,100000.0,No,Naul,Co. Dublin,q1,10%
+28/10/2016,"52 Delvin Banks, Naul, Dublin",Dublin,194302.0,No,Naul,Co. Dublin,q2,40%
+04/11/2016,"Hynestown, Naul, Co Dublin",Dublin,160000.0,No,Naul,Co. Dublin,q1,30%
+13/04/2017,"The Cottage, Damastown, Naul",Dublin,449000.0,No,Naul,Co. Dublin,q4,100%
+20/04/2017,"Cabin Hill, Naul, Dublin",Dublin,485000.0,No,Naul,Co. Dublin,q4,100%
+14/07/2017,"The Old School House, Damastown, Naul",Dublin,287000.0,No,Naul,Co. Dublin,q3,70%
+28/07/2017,"1 Delvin Banks, Naul, Dublin",Dublin,421000.0,No,Naul,Co. Dublin,q4,90%
+28/07/2017,"Dermotstown, Ringcommons, Naul",Dublin,515000.0,No,Naul,Co. Dublin,q4,100%
+17/01/2018,"Avondale, Damastown, Naul",Dublin,355000.0,No,Naul,Co. Dublin,q4,80%
+25/01/2018,"3 Cruises Hill, Naul, Dublin",Dublin,184000.0,No,Naul,Co. Dublin,q2,30%
+13/02/2018,"Killougher, Ring Commons, Naul",Dublin,225000.0,No,Naul,Co. Dublin,q2,50%
+27/06/2018,"Westown, Naul, Co Dublin",Dublin,100000.0,No,Naul,Co. Dublin,q1,10%
+31/08/2018,"70 Delvin Banks, The Naul, Co. Dublin",Dublin,330000.0,No,Naul,Co. Dublin,q3,80%
+06/09/2018,"21 Taylor Hill Crescent, Naul Road, Ballbriggan",Dublin,251101.0,Yes,Naul,Co. Dublin,q3,60%
+24/10/2018,"Baldaragh, Naul, Dublin",Dublin,320000.0,No,Naul,Co. Dublin,q3,70%
+27/11/2018,"Naul Village, Naul, Dublin",Dublin,320000.0,No,Naul,Co. Dublin,q3,80%
+28/11/2018,"2 Westown Avenue, Naul Village, Naul",Dublin,335000.0,No,Naul,Co. Dublin,q3,80%
+03/12/2018,"21 Taylor Hill Walk, Naul Walk, Ballbriggan",Dublin,268722.0,Yes,Naul,Co. Dublin,q3,60%
+12/12/2018,"15 Moonlone Lane, The Naul, Dublin",Dublin,445000.0,No,Naul,Co. Dublin,q4,100%
+13/12/2018,"The Old Farmhouse, Naul Hill, Naul",Dublin,270000.0,No,Naul,Co. Dublin,q3,60%
+14/12/2018,"71 Delvin Banks, The Naul, Co. Dublin",Dublin,336000.0,No,Naul,Co. Dublin,q3,80%
+22/01/2019,"1 The  Old Mill, Naul Bridge, Naul",Dublin,95000.0,No,Naul,Co. Dublin,q1,10%
+01/02/2019,"West Curragh, Naul, County Dublin",Dublin,300000.0,No,Naul,Co. Dublin,q3,70%
+27/03/2019,"3 Taylor Hill View, Naul Road, Ballbriggan",Dublin,268722.0,Yes,Naul,Co. Dublin,q3,60%
+14/05/2019,"Whispering Pines, Westown, Naul",Dublin,261000.0,No,Naul,Co. Dublin,q3,60%
+22/05/2019,"Hearns Hill, Malehow, Naul",Dublin,340000.0,No,Naul,Co. Dublin,q4,80%
+28/05/2019,"The Cliff, Naul Village, Naul",Dublin,830000.0,No,Naul,Co. Dublin,q4,100%
+31/05/2019,"13-21 Taylor Hill Way, &Amp;19-30 Taylor Hill Wood, Naul Road",Dublin,5084475.77,Yes,Naul,Co. Dublin,q4,100%
+04/06/2019,"2 Seamus Ennis Terrace, Delvin Banks, Naul",Dublin,385462.0,Yes,Naul,Co. Dublin,q4,90%
+20/06/2019,"Fiend View House, Balgaddy, The Naul",Dublin,360000.0,No,Naul,Co. Dublin,q4,90%
+27/06/2019,"Hedwig Cottage, Damastown, Naul",Dublin,505000.0,No,Naul,Co. Dublin,q4,100%
+22/08/2019,"Woodville, Westown, Naul",Dublin,735000.0,No,Naul,Co. Dublin,q4,100%
+26/08/2019,"20 Delvin Banks, The Naul, Co. Dublin",Dublin,345000.0,No,Naul,Co. Dublin,q4,80%
+29/08/2019,"19 Taylor Hill Walk, Naul Road, Ballbriggan",Dublin,352379.0,Yes,Naul,Co. Dublin,q4,80%
+13/09/2019,"17 Delvin Banks, The Naul, Co. Dublin",Dublin,340000.0,No,Naul,Co. Dublin,q4,80%
+16/09/2019,"60 Delvin Banks, Naul, Dublin",Dublin,240000.0,No,Naul,Co. Dublin,q3,60%
+15/10/2019,"13 Delvin Banks, The Naul, Dublin",Dublin,364000.0,No,Naul,Co. Dublin,q4,90%
+15/10/2019,"19 Delvin Banks, The Naul",Dublin,442000.0,Yes,Naul,Co. Dublin,q4,90%

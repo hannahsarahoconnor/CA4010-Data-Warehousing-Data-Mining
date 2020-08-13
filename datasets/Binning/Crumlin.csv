@@ -1,0 +1,1187 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+14/01/2010,"279  Captain'S Road, Crumlin",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+25/01/2010,"81 Cashel Avenue, Crumlin, Dublin 12",Dublin,222000.0,No,Crumlin,Dublin 12,q2,50%
+27/01/2010,"148 Clonmacnoise Road, Crumlin",Dublin,220000.0,No,Crumlin,Dublin 12,q2,50%
+27/01/2010,"87 Cashel Road, Crumlin",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+27/01/2010,"99 Devenish Road, Crumlin, Dublin 12",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+09/02/2010,"367 Clogher Road, Crumlin",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+09/02/2010,"367 Clogher Road, Crumlin",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+11/02/2010,"25 Kildare Park, Crumlin, Dublin 12",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+11/02/2010,"63 Raphoe Road, Crumlin, Dublin 12",Dublin,377000.0,No,Crumlin,Dublin 12,q4,100%
+15/02/2010,"98 Clonmacnoise Road, Crumlin",Dublin,215000.0,No,Crumlin,Dublin 12,q2,50%
+19/02/2010,"6 Windmill Avenue, Crumlin",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+03/03/2010,"44 Ballynakelly Green, Crumlin",Dublin,220264.0,Yes,Crumlin,Dublin 12,q2,50%
+04/03/2010,"73 Stannaway Avenue, Crumlin",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+05/03/2010,"162 Cashel Road, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+08/03/2010,"88 Iveagh Gardens, Crumlin, Dublin 12",Dublin,460000.0,No,Crumlin,Dublin 12,q4,100%
+29/03/2010,"163 Captain'S Road, Crumlin",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+29/03/2010,"40 Clonard Road, Crumlin",Dublin,192000.0,No,Crumlin,Dublin 12,q2,40%
+29/03/2010,"6 Iveagh Gardens, Crumlin",Dublin,390000.0,No,Crumlin,Dublin 12,q4,100%
+01/04/2010,"260 Crumlin Road, Dublin 12",Dublin,268000.0,No,Crumlin,Dublin 12,q3,70%
+13/04/2010,"43 Raphoe Road, Crumlin, Dublin 12",Dublin,287500.0,No,Crumlin,Dublin 12,q3,80%
+13/04/2010,"93 Clonmacnoise Road, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+13/04/2010,"93 Clonmacnoise Road, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+16/04/2010,"138 Downpatrick Road, Crumlin",Dublin,260500.0,No,Crumlin,Dublin 12,q3,70%
+16/04/2010,"40 Durrow Road, Crumlin",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+26/04/2010,"Apartment 8 Fort Ostman, Old County Road, Crumlin",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+13/05/2010,"17 Kilfenora Road, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+21/05/2010,"64 St. Agnes Road, Crumlin, Dublin",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+24/05/2010,"217 Clonard Road, Crumlin",Dublin,237500.0,No,Crumlin,Dublin 12,q3,60%
+27/05/2010,"49 Cashel Road, Crumlin",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+08/06/2010,"22 Somerville Avenue, Crumlin, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+08/06/2010,"225 Kildare Road, Crumlin",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+08/06/2010,"62 Rutland Ave, Crumlin",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+09/06/2010,"162 Downpatrick Road, Crumlin",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+11/06/2010,"86 Devenish Road, Crumlin",Dublin,145000.0,No,Crumlin,Dublin 12,q1,20%
+16/06/2010,"109 Bangor Road, Crumlin, Dublin 12",Dublin,196000.0,No,Crumlin,Dublin 12,q2,40%
+16/06/2010,"73 St. Agnes Park, Crumlin",Dublin,243000.0,No,Crumlin,Dublin 12,q3,60%
+17/06/2010,"102 Stanaway Road, Crumlin",Dublin,199300.0,No,Crumlin,Dublin 12,q2,40%
+23/06/2010,"113 Captains Road, Crumlin",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+23/06/2010,"113 Captains Road, Crumlin",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+23/06/2010,"122 Cromwellsfort Road, Crumlin",Dublin,322000.0,No,Crumlin,Dublin 12,q4,90%
+23/06/2010,"51 Saint Agnes Road, Crumlin",Dublin,320000.0,No,Crumlin,Dublin 12,q4,90%
+25/06/2010,"107 Brandon Road, Crumlin",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+01/07/2010,"434 Clonard Road, Crumlin",Dublin,332000.0,No,Crumlin,Dublin 12,q4,90%
+07/07/2010,"306 Clogher Road, Crumlin",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+09/07/2010,"180 Lismore Road, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+21/07/2010,"44 Ferns Road, Crumlin",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+23/07/2010,"59 Old County Glen, Crumlin, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+28/07/2010,"57 Crumlin Road, Crumlin",Dublin,350000.0,No,Crumlin,Dublin 12,q4,90%
+30/07/2010,"91 Old County Road, Crumlin",Dublin,232000.0,No,Crumlin,Dublin 12,q3,60%
+06/08/2010,"3 Tonguefield Road, Crumlin",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+10/08/2010,"258 Clonard Road, Crumlin",Dublin,240500.0,No,Crumlin,Dublin 12,q3,60%
+10/08/2010,"30 Cashel Avenue, Crumlin",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+10/08/2010,"9 St Marys Road, Crumlin, Dublin 12",Dublin,335000.0,No,Crumlin,Dublin 12,q4,90%
+11/08/2010,"52 St. Mary'S Road, Crumlin, Dublin 12",Dublin,252000.0,No,Crumlin,Dublin 12,q3,70%
+13/08/2010,"94  Clonard Rpad, Crumlin, Dublin 12",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+16/08/2010,"106 Leighlin Road, Crumlin, Dublin",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+19/08/2010,"102 Raphoe Rpad, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+20/08/2010,"169 Windmill Road, Crumlin",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+24/08/2010,"14 Stanaway Avenue, Crumlin, Dublin 12",Dublin,190500.0,No,Crumlin,Dublin 12,q2,40%
+24/08/2010,"27 Lisle Road, Crumlin, Dublin 12",Dublin,252500.0,No,Crumlin,Dublin 12,q3,70%
+26/08/2010,"319  Kildare Road, Crumlin",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+01/09/2010,"38 Clogher Road, Crumlin",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+10/09/2010,"1 Captain'S Drive, Crumlin, Dublin 12",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+14/09/2010,"378 Captain'S Road, Crumlin",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+14/09/2010,"72 Durrow Road, Crumlin",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+22/09/2010,"181 Stannaway Road, Crumlin, Dublin 12",Dublin,242500.0,No,Crumlin,Dublin 12,q3,60%
+24/09/2010,"Apartment 34, Goldstone Court, Clogher Road Crumlin",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+28/09/2010,"137 Kildare Road, Crumlin",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+30/09/2010,"77 St. Agnes Road, Crumlin",Dublin,277000.0,No,Crumlin,Dublin 12,q3,80%
+05/10/2010,"19 Windmill Park, Crumlin, Dublin 12",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+28/10/2010,"21 Innismore, Crumlin Village",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+04/11/2010,"30 Saul Road, Crumlin",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+08/11/2010,"106 Captain'S Avenue, Crumlin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+09/11/2010,"15  Rathdrum Road, Crumlin",Dublin,165000.0,No,Crumlin,Dublin 12,q2,30%
+19/11/2010,"147  Stannaway Road, Crumlin, Dublin 12",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+30/11/2010,"272 Clogher Road, Crumlin",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+01/12/2010,"68 St. Mary'S Road, Crumlin",Dublin,236500.0,No,Crumlin,Dublin 12,q3,60%
+03/12/2010,"214 Kildare Road, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+10/12/2010,"76 Kildare Road, Crumlin",Dublin,122000.0,No,Crumlin,Dublin 12,q1,20%
+14/12/2010,"8 Leighlin Road, Crumlin, Dublin 12",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+15/12/2010,"19 Clogher Road, Crumlin, Dublin 12",Dublin,165000.0,No,Crumlin,Dublin 12,q2,30%
+15/12/2010,"89 Iveagh Gardens, Crumlin, Dublin 12",Dublin,330000.0,No,Crumlin,Dublin 12,q4,90%
+16/12/2010,"25 Clonard Road, Crumlin, Dublin 12",Dublin,129500.0,No,Crumlin,Dublin 12,q1,20%
+17/12/2010,"371 Clogher Road, Crumlin",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+21/12/2010,"205 Clonard Road, Crumlin",Dublin,138000.0,No,Crumlin,Dublin 12,q1,20%
+22/12/2010,"132 Rutland Avenue, Crumlin, Dublin 12",Dublin,113000.0,No,Crumlin,Dublin 12,q1,10%
+05/01/2011,"282 Clonard Road, Crumlin",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+07/01/2011,"36 Old County Road, Crumlin",Dublin,270000.0,No,Crumlin,Dublin 12,q3,70%
+13/01/2011,"170 Rutland Avenue, Crumlin",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+25/01/2011,"326 Kildare Road, Crumlin, Dublin 12",Dublin,305000.0,No,Crumlin,Dublin 12,q4,90%
+28/01/2011,"155 Windmill Park, Crumlin, Dublin 12",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+28/01/2011,"67 St. Agnes Park, Crumlin",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+02/02/2011,"302 Cashel Road, Crumlin, Dublin 12",Dublin,157000.0,No,Crumlin,Dublin 12,q1,30%
+10/02/2011,"1 Faughart Road, Crumlin, Dublin 12",Dublin,85000.0,No,Crumlin,Dublin 12,q1,10%
+11/02/2011,"248 Clogher Road, Crumlin",Dublin,167500.0,No,Crumlin,Dublin 12,q2,30%
+11/02/2011,"83 Rutland Avenue, Crumlin",Dublin,111500.0,No,Crumlin,Dublin 12,q1,10%
+22/02/2011,"24 & 24A St Teresas Road, Crumlin",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+01/03/2011,"330B Kildare Road, Crumlin",Dublin,211000.0,No,Crumlin,Dublin 12,q2,50%
+07/03/2011,"74 Rafter'S Road, Crumlin",Dublin,195000.0,No,Crumlin,Dublin 12,q2,40%
+08/03/2011,"355 Captain'S Road, Crumlin",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+14/03/2011,"14 Ferns Road, Crumlin, Dublin 12",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+21/03/2011,"155 Leighlin Road, Crumlin",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+23/03/2011,"94 Cashel Avenue, Crumlin",Dublin,129000.0,No,Crumlin,Dublin 12,q1,20%
+07/04/2011,"262 Stannaway Road, Crumlin, Dublin 12",Dublin,121000.0,No,Crumlin,Dublin 12,q1,20%
+07/04/2011,"76 Durrow Road, Crumlin",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+08/04/2011,"17 Clonfert Road, Crumlin",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+08/04/2011,"79 Leighlin Road, Crumlin",Dublin,128000.0,No,Crumlin,Dublin 12,q1,20%
+20/04/2011,"140 Cashel Road, Crumlin 12",Dublin,95000.0,No,Crumlin,Dublin 12,q1,10%
+03/05/2011,"173 Cashel Road, Crumlin",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+03/05/2011,"70 Cashel Road, Crumlin",Dublin,142000.0,No,Crumlin,Dublin 12,q1,20%
+11/05/2011,"10 Whitehall Road West, Crumlin, Dublin 12",Dublin,156000.0,No,Crumlin,Dublin 12,q1,30%
+12/05/2011,"216  Kildare Road, Crumlin, Dublin 12",Dublin,145000.0,No,Crumlin,Dublin 12,q1,20%
+13/05/2011,"130 Bangor Road, Crumlin, Dublin 12",Dublin,110000.0,No,Crumlin,Dublin 12,q1,10%
+23/05/2011,"63 Durrow Road, Crumlin",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+24/05/2011,"21 Glenealy Road, Crumlin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+30/05/2011,"88 Bangor Road, Crumlin, Dublin 12",Dublin,87000.0,No,Crumlin,Dublin 12,q1,10%
+31/05/2011,"27 Dolphin Road, Crumlin",Dublin,162500.0,No,Crumlin,Dublin 12,q2,30%
+03/06/2011,"249 Captains Road, Crumlin, Dublin 12",Dublin,115000.0,No,Crumlin,Dublin 12,q1,10%
+16/06/2011,"26 Fort Ostman, Old County Road, Crumlin",Dublin,147000.0,Yes,Crumlin,Dublin 12,q1,30%
+17/06/2011,"2 Raleigh Square, Crumlin",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+17/06/2011,"68 Aughavanagh Road, Crumlin",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+20/06/2011,"190 Bangor Rd, Crumlin, Crumlin",Dublin,50139.0,No,Crumlin,Dublin 12,q1,10%
+24/06/2011,"12 Rathdrum Road, Crumlin",Dublin,118000.0,No,Crumlin,Dublin 12,q1,20%
+27/06/2011,"145 Cashel Road, Crumlin",Dublin,75000.0,No,Crumlin,Dublin 12,q1,10%
+27/06/2011,"145A Cashel Road, Crumlin",Dublin,65000.0,No,Crumlin,Dublin 12,q1,10%
+05/07/2011,"98 Clonard Road, Crumlin",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+22/07/2011,"64 Rathdrum Road, Crumlin",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+29/07/2011,"27 Raphoe Road, Crumlin, Dublin 12",Dublin,195000.0,No,Crumlin,Dublin 12,q2,40%
+29/07/2011,"74 Clonmacnoise Road, Crumlin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+03/08/2011,"1 St Agnes Terrace, Crumlin",Dublin,203000.0,No,Crumlin,Dublin 12,q2,50%
+05/08/2011,"70 Derry Drive, Crumlin",Dublin,104000.0,No,Crumlin,Dublin 12,q1,10%
+10/08/2011,"360 Kildare Road, Crumlin, Dublin 12",Dublin,85000.0,No,Crumlin,Dublin 12,q1,10%
+10/08/2011,"8 Aughavanagh Road, Crumlin, Dublin 12",Dublin,145000.0,No,Crumlin,Dublin 12,q1,20%
+25/08/2011,"64 Saul Road, Crumlin, Dublin12",Dublin,75000.0,No,Crumlin,Dublin 12,q1,10%
+31/08/2011,"94 Kilfenora Raod, Crumlin, Dublin 12",Dublin,107000.0,No,Crumlin,Dublin 12,q1,10%
+01/09/2011,"77 Raphoe Road, Crumlin, Dublin 12",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+02/09/2011,"40 Rathdrum Road, Crumlin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+14/09/2011,"128 Kildare Road, Crumlin, Dublin12",Dublin,76000.0,No,Crumlin,Dublin 12,q1,10%
+16/09/2011,"7 Windmill Avenue, Crumlin, Dublin 12",Dublin,157500.0,No,Crumlin,Dublin 12,q1,30%
+20/09/2011,"32, Somerville Avenue, Crumlin",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+22/09/2011,"182 Stanaway Road, Crumlin",Dublin,95000.0,No,Crumlin,Dublin 12,q1,10%
+26/09/2011,"61 Innismore, Crumlin",Dublin,220000.0,No,Crumlin,Dublin 12,q2,50%
+28/09/2011,"47 Glenealy Road, Crumlin",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+29/09/2011,"23 Raphoe Road, Crumlin",Dublin,208897.5,No,Crumlin,Dublin 12,q2,50%
+29/09/2011,"89 Saul Road, Crumlin",Dublin,102000.0,No,Crumlin,Dublin 12,q1,10%
+30/09/2011,"53 Clonard Road, Crumlin",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+13/10/2011,"130 Comeragh Road, Crumlin, Dublin 12",Dublin,151000.0,No,Crumlin,Dublin 12,q1,30%
+24/10/2011,"191  Kildare Road, Crumlin",Dublin,105000.0,No,Crumlin,Dublin 12,q1,10%
+24/10/2011,"213 Kildare Road, Crumlin",Dublin,80000.0,No,Crumlin,Dublin 12,q1,10%
+02/11/2011,"387 Captain'S Road, Crumlin, Dublin 12",Dublin,162000.0,No,Crumlin,Dublin 12,q2,30%
+04/11/2011,"309 Clogher Road, Crumlin",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+09/11/2011,"88 Kilfenora Road, Crumlin",Dublin,117000.0,No,Crumlin,Dublin 12,q1,20%
+11/11/2011,"165 Crumlin Rd, Dublin 12",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+16/11/2011,"119  Leighlin Road, Crumlin, Dublin 12",Dublin,92500.0,No,Crumlin,Dublin 12,q1,10%
+18/11/2011,"130 Cashel Avenue, Crumlin",Dublin,78000.0,No,Crumlin,Dublin 12,q1,10%
+21/11/2011,"20 Fernvale Drive, Crumlin",Dublin,205000.0,No,Crumlin,Dublin 12,q2,50%
+23/11/2011,"163 Stannaway Road, Crumlin",Dublin,115000.0,No,Crumlin,Dublin 12,q1,10%
+23/11/2011,"47  St. Agnes Road, Crumlin",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+23/11/2011,"54 Derry Drive, Crumlin, Dublin 12",Dublin,122500.0,No,Crumlin,Dublin 12,q1,20%
+23/11/2011,"69 Clonmacnoise Road, Crumlin, Dublin 12",Dublin,139500.0,No,Crumlin,Dublin 12,q1,20%
+02/12/2011,"340 Clogher Road, Crumlin, Dublin 12",Dublin,131000.0,No,Crumlin,Dublin 12,q1,20%
+02/12/2011,"396 Clogher Road, Crumlin, Dublin 12",Dublin,172500.0,No,Crumlin,Dublin 12,q2,30%
+07/12/2011,"108 Windmill Park, Crumlin",Dublin,145000.0,No,Crumlin,Dublin 12,q1,20%
+12/12/2011,"115 Clonard Road, Crumlin, Dublin",Dublin,105000.0,No,Crumlin,Dublin 12,q1,10%
+13/12/2011,"158 Cashel Road, Crumlin",Dublin,156000.0,No,Crumlin,Dublin 12,q1,30%
+14/12/2011,"233  Cashel Road, Crumlin, Dublin 12",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+14/12/2011,"288 Captain'S Road, Crumlin, Dublin",Dublin,92000.0,No,Crumlin,Dublin 12,q1,10%
+15/12/2011,"247 Cashel Road, Crumlin",Dublin,107000.0,No,Crumlin,Dublin 12,q1,10%
+19/12/2011,"17 Faughart Road, Crumlin",Dublin,70000.0,No,Crumlin,Dublin 12,q1,10%
+19/12/2011,"22 Kildare Road, Crumlin",Dublin,85020.0,No,Crumlin,Dublin 12,q1,10%
+19/12/2011,"243 Clogher Road, Crumlin",Dublin,152000.0,No,Crumlin,Dublin 12,q1,30%
+19/12/2011,"61  Devenish Road, Crumlin Dublin 12",Dublin,57500.0,No,Crumlin,Dublin 12,q1,10%
+20/12/2011,"119 Clogher Road, Crumlin",Dublin,163000.0,No,Crumlin,Dublin 12,q2,30%
+05/01/2012,"10 Sommerville Avenue, Crumlin",Dublin,172500.0,No,Crumlin,Dublin 12,q2,30%
+10/01/2012,"163 Windmill Road, Crumlin",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+11/01/2012,"130 Captains Road, Crumlin",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+19/01/2012,"330A Kildare Road, Crumlin",Dublin,165000.0,No,Crumlin,Dublin 12,q2,30%
+20/01/2012,"132  Stanaway Road, Crumlin",Dublin,110000.0,No,Crumlin,Dublin 12,q1,10%
+20/01/2012,"25 Kildare Road, Crumlin, Dublin 12",Dublin,84000.0,No,Crumlin,Dublin 12,q1,10%
+20/01/2012,"8 Stannaway Road, Crumlin, Dublin",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+23/01/2012,"68 Captains Avenue, Crumlin",Dublin,95000.0,No,Crumlin,Dublin 12,q1,10%
+27/01/2012,"240 Sundrive Road, Crumlin",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+27/01/2012,"54  Lismore Road, Crumlin",Dublin,50000.0,No,Crumlin,Dublin 12,q1,10%
+03/02/2012,"33 Lismore Road, Crumlin, Dublin 12",Dublin,80000.0,No,Crumlin,Dublin 12,q1,10%
+03/02/2012,"51 Old County Glen, Crumlin, Dublin 12",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+08/02/2012,"36 Cloghar Road, Crumlin, Dublin 12",Dublin,96000.0,No,Crumlin,Dublin 12,q1,10%
+10/02/2012,"53 Glenealy Road, Crumlin",Dublin,97000.0,No,Crumlin,Dublin 12,q1,10%
+14/02/2012,"63 Stannawy Road, Crumlin",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+21/02/2012,"25 Windmill Avenue, Crumlin",Dublin,117500.0,No,Crumlin,Dublin 12,q1,20%
+01/03/2012,"60 Cashel Avenue, Crumlin Dublin 12",Dublin,76000.0,No,Crumlin,Dublin 12,q1,10%
+01/03/2012,"84 Raphoe Road, Crumlin, Dublin 12",Dublin,122500.0,No,Crumlin,Dublin 12,q1,20%
+07/03/2012,"158 Stannaway Road, Crumlin, Dublin 12",Dublin,105000.0,No,Crumlin,Dublin 12,q1,10%
+09/03/2012,"122 Sundrive Road, Crumlin",Dublin,115000.0,No,Crumlin,Dublin 12,q1,10%
+09/03/2012,"297 Kildare Road, Crumlin, Dublin 12",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+16/03/2012,"17 Kepper Road, Crumlin, Dublin 12",Dublin,105000.0,No,Crumlin,Dublin 12,q1,10%
+16/03/2012,"232 Sundrive Road, Crumlin",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+30/03/2012,"276 Lower Kimmage Road, Crumlin, Dublin 12",Dublin,350000.0,No,Crumlin,Dublin 12,q4,90%
+02/04/2012,"75 Windmill Park, Crumlin",Dublin,132000.0,No,Crumlin,Dublin 12,q1,20%
+05/04/2012,"286 Cashel Road, Crumlin, Dublin 12",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+05/04/2012,"3 Old County Glen, Crumlin",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+26/04/2012,"361 Kildare Road, Crumlin, Dublin 12",Dublin,90000.0,No,Crumlin,Dublin 12,q1,10%
+01/05/2012,"88 Lismore Road, Crumlin, Dublin",Dublin,117000.0,No,Crumlin,Dublin 12,q1,20%
+03/05/2012,"182 Stannaway Road, Crumlin",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+04/05/2012,"145 Bangor Road, Crumlin, Dublin",Dublin,75000.0,No,Crumlin,Dublin 12,q1,10%
+05/05/2012,"94 Crumlin Road, Crumlin, Dublin 12",Dublin,154000.0,No,Crumlin,Dublin 12,q1,30%
+09/05/2012,"62 Iveagh Gardens, Crumlin",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+11/05/2012,"324 Cashel Road, Crumlin, Dublin 12",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+16/05/2012,"5 Monasterboice Road, Crumlin",Dublin,117000.0,No,Crumlin,Dublin 12,q1,20%
+17/05/2012,"121 Windmill Park, Crumlin",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+23/05/2012,"43 Clonmacnoise Road, Crumlin, Dublin 12",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+24/05/2012,"26 Monasterboice Road, Crumlin",Dublin,132000.0,No,Crumlin,Dublin 12,q1,20%
+28/05/2012,"277 Crumlin Road, Crumlin",Dublin,125000.0,No,Crumlin,Dublin 12,q1,20%
+29/05/2012,"202 Bangor Road, Crumlin",Dublin,85000.0,No,Crumlin,Dublin 12,q1,10%
+01/06/2012,"20 Derry Road, Crumlin",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+05/06/2012,"26 Iveagh Gardens, Crumlin",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+08/06/2012,"26 Captain'S Avenue, Crumlin, Dublin 12",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+08/06/2012,"64 Kilfenora Road, Crumlin, Dublin 12",Dublin,132000.0,No,Crumlin,Dublin 12,q1,20%
+08/06/2012,"70 Crumlin Road, Crumlin",Dublin,165000.0,No,Crumlin,Dublin 12,q2,30%
+18/06/2012,"24 Bangor Road, Crumlin",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+19/06/2012,"8 Cashel Road, Crumlin, Dublin",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+20/06/2012,"1  Faughart Road, Crumlin, Dublin 12",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+25/06/2012,"86 Cashel Avenue, Crumlin",Dublin,74000.0,No,Crumlin,Dublin 12,q1,10%
+28/06/2012,"192 Bangor Road, Crumlin",Dublin,123000.0,No,Crumlin,Dublin 12,q1,20%
+03/07/2012,"10 Windmill Avenue, Crumlin, Dublin 12",Dublin,86000.0,No,Crumlin,Dublin 12,q1,10%
+19/07/2012,"65 Saul Road, Crumlin, Dublin",Dublin,90000.0,No,Crumlin,Dublin 12,q1,10%
+26/07/2012,"30 Derry Drive, Crumlin, Dublin",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+08/08/2012,"17 Rutland Avenue, Crumlin",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+10/08/2012,"71 St Agnes Park, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+14/08/2012,"161 Cashel Road, Crumlin, Dublin 12",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+23/08/2012,"37 Goldstone Court, Cougher Road, Crumlin",Dublin,75000.0,No,Crumlin,Dublin 12,q1,10%
+31/08/2012,"128 Kildare Road, Crumlin, Dublin 12",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+03/09/2012,"187 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,90000.0,No,Crumlin,Dublin 12,q1,10%
+04/09/2012,"212 Clonard Road, Crumlin, Dublin 12",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+07/09/2012,"246 Clogher Road, Crumlin",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+10/09/2012,"45 Glenealy Road, Crumlin, Dublin 12",Dublin,90000.0,No,Crumlin,Dublin 12,q1,10%
+14/09/2012,"399 Captians Road, Crumlin",Dublin,110000.0,No,Crumlin,Dublin 12,q1,10%
+19/09/2012,"168 Kimmage Road West, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+20/09/2012,"51 Stannaway Avenue, Crumlin",Dublin,177500.0,No,Crumlin,Dublin 12,q2,40%
+27/09/2012,"160 Bangor Road, Crumlin, Dublin 12",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+27/09/2012,"7 Clonfert Road, Crumlin, Dublin 12",Dublin,165000.0,No,Crumlin,Dublin 12,q2,30%
+09/10/2012,"316 Clonard Road, Crumlin",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+12/10/2012,"174 Captain'S Road, Crumlin, Dublin",Dublin,99000.0,No,Crumlin,Dublin 12,q1,10%
+19/10/2012,"70 Iveagh Gardens, Crumlin, Dublin 12",Dublin,226000.0,No,Crumlin,Dublin 12,q2,50%
+30/10/2012,"49 Derry Park, Crumlin",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+31/10/2012,"244 Cashel, Crumlin",Dublin,85000.0,No,Crumlin,Dublin 12,q1,10%
+02/11/2012,"29 Windmill Park, Crumlin, Dublin 12",Dublin,112000.0,No,Crumlin,Dublin 12,q1,10%
+08/11/2012,"129 Rutland Avenue, Crumlin",Dublin,125000.0,No,Crumlin,Dublin 12,q1,20%
+09/11/2012,"358 Kildare Road, Crumlin",Dublin,87000.0,No,Crumlin,Dublin 12,q1,10%
+09/11/2012,"78 Durrow Road, Crumlin",Dublin,110000.0,No,Crumlin,Dublin 12,q1,10%
+12/11/2012,"72 Crumlin Road, Crumlin",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+14/11/2012,"86 Benbulbin Road, Crumlin",Dublin,110000.0,No,Crumlin,Dublin 12,q1,10%
+23/11/2012,"56 Brickfield Drive, Crumlin, Dublin 12",Dublin,116000.0,No,Crumlin,Dublin 12,q1,10%
+26/11/2012,"14 Ardagh Road, Crumlin",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+29/11/2012,"277 Crumlin Road, Crumlin",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+03/12/2012,"6 Bangor Drive, Crumlin, Dublin 12",Dublin,202000.0,No,Crumlin,Dublin 12,q2,40%
+05/12/2012,"139 Cashel Road, Crumlin",Dublin,95000.0,No,Crumlin,Dublin 12,q1,10%
+07/12/2012,"350 Kildare Road, Crumlin",Dublin,145000.0,No,Crumlin,Dublin 12,q1,20%
+10/12/2012,"137  Bangor Road, Crumlin, Dublin 12",Dublin,75000.0,No,Crumlin,Dublin 12,q1,10%
+12/12/2012,"111 Saul Road, Crumlin, Dublin",Dublin,77500.0,No,Crumlin,Dublin 12,q1,10%
+19/12/2012,"171 Windmill Road, Crumlin",Dublin,110000.0,No,Crumlin,Dublin 12,q1,10%
+20/12/2012,"1 Downpatrick Road, Crumlin",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+20/12/2012,"206 Cashel Road, Crumlin, Dublin 12",Dublin,113050.0,No,Crumlin,Dublin 12,q1,10%
+20/12/2012,"22 St. Teresa'S Road, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+20/12/2012,"60 Raphoe Road, Crumlin",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+20/12/2012,"98 Kildare Road, Crumlin",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+21/12/2012,"16 Slane Road, Crumlin",Dublin,85000.0,No,Crumlin,Dublin 12,q1,10%
+28/01/2013,"11 Moracrete Cottages, Crumlin Road",Dublin,175000.0,No,Crumlin,Dublin 12,q2,30%
+29/01/2013,"5 Clonard Road, Crumlin",Dublin,217000.0,No,Crumlin,Dublin 12,q2,50%
+30/01/2013,"313 Kildare Road, Crumlin",Dublin,115000.0,No,Crumlin,Dublin 12,q1,10%
+08/02/2013,"28 Raphoe Road, Crumlin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+14/02/2013,"33 Downpatrick Road, Crumlin, Dublin 12",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+15/02/2013,"53 St Agnes Park, Crumlin",Dublin,267000.0,No,Crumlin,Dublin 12,q3,70%
+22/02/2013,"339 Clogher Road, Crumlin",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+04/03/2013,"29 Drimnagh Road, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+14/03/2013,"107 Windmill Road, Crumlin",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+19/03/2013,"126 Stanaway Road, Crumlin",Dublin,93000.0,No,Crumlin,Dublin 12,q1,10%
+20/03/2013,"16 Aughavannagh Road, Crumlin, Dublin 12",Dublin,111000.0,No,Crumlin,Dublin 12,q1,10%
+22/03/2013,"81 Aughavannagh Road, Crumlin",Dublin,115000.0,No,Crumlin,Dublin 12,q1,10%
+25/03/2013,"30 Windmill Road, Crumlin",Dublin,127000.0,No,Crumlin,Dublin 12,q1,20%
+28/03/2013,"24 Fort Ostman, Crumlin",Dublin,78000.0,No,Crumlin,Dublin 12,q1,10%
+28/03/2013,"40 Derry Drive, Crumlin",Dublin,115000.0,No,Crumlin,Dublin 12,q1,10%
+12/04/2013,"137 Clonard Road, Crumlin",Dublin,95000.0,No,Crumlin,Dublin 12,q1,10%
+12/04/2013,"3  Rutland Avenue, Crumlin, Dublin 12",Dublin,142000.0,No,Crumlin,Dublin 12,q1,20%
+15/04/2013,"117 Leighlin Road, Crumlin",Dublin,157000.0,No,Crumlin,Dublin 12,q1,30%
+18/04/2013,"1 Dangan Drive, Off Kimmage Road West, Crumlin  Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+18/04/2013,"159 Clogher Road, Crumlin",Dublin,175000.0,No,Crumlin,Dublin 12,q2,30%
+19/04/2013,"20 Windmill Road, Crumlin, Dublin 12",Dublin,70000.0,No,Crumlin,Dublin 12,q1,10%
+19/04/2013,"5 St. Marys Park, Walkinstown, Crumlin",Dublin,220000.0,No,Crumlin,Dublin 12,q2,50%
+02/05/2013,"52 Raphoe Road, Crumlin, Dublin 12",Dublin,173000.0,No,Crumlin,Dublin 12,q2,30%
+10/05/2013,"217 Clogher Road, Crumlin, Dublin 12",Dublin,172500.0,No,Crumlin,Dublin 12,q2,30%
+17/05/2013,"217 Kildare Road, Crumlin",Dublin,110000.0,No,Crumlin,Dublin 12,q1,10%
+23/05/2013,"357 Captains Road, Crumlin",Dublin,52500.0,No,Crumlin,Dublin 12,q1,10%
+30/05/2013,"36 Rathdrum Road, Crumlin, Dublin",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+31/05/2013,"177 Downpatrick Road, Crumlin",Dublin,147000.0,No,Crumlin,Dublin 12,q1,30%
+31/05/2013,"277 Captains Road, Crumlin",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+07/06/2013,"24 Cashel Avenue, Crumlin, Dublin",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+11/06/2013,"102 Leighlin Road, Crumlin",Dublin,125000.0,No,Crumlin,Dublin 12,q1,20%
+12/06/2013,"372 Cashel Road, Crumlin",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+25/06/2013,"12 Monasterboice Road, Crumlin",Dublin,90000.0,No,Crumlin,Dublin 12,q1,10%
+28/06/2013,"330 Cashel Road, Crumlin, Dublin 12",Dublin,80000.0,No,Crumlin,Dublin 12,q1,10%
+28/06/2013,"70 Monasterboice Road, Crumlin",Dublin,147000.0,No,Crumlin,Dublin 12,q1,30%
+28/06/2013,"Apt 20 Fort Ostman, Old County Road, Crumlin",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+01/07/2013,"400 Clonard Road, Kimmage, Crumlin",Dublin,162000.0,No,Crumlin,Dublin 12,q2,30%
+03/07/2013,"61 Monasterboice Road, Crumlin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+05/07/2013,"37 Kildare Road, Crumlin",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+10/07/2013,"159 Clonard Road, Crumlin",Dublin,126500.0,No,Crumlin,Dublin 12,q1,20%
+11/07/2013,"344 Captains Road, Crumlin, Dublin 12",Dublin,121000.0,No,Crumlin,Dublin 12,q1,20%
+16/07/2013,"198 Sundrive Road, Crumlin",Dublin,193000.0,No,Crumlin,Dublin 12,q2,40%
+17/07/2013,"5 Windmill Road, Crumlin",Dublin,85000.0,No,Crumlin,Dublin 12,q1,10%
+19/07/2013,"330B Kildare Road, Crumlin, Dublin",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+22/07/2013,"Apt 5 Fort Ostman, Old County Road, Crumlin",Dublin,110000.0,No,Crumlin,Dublin 12,q1,10%
+23/07/2013,"111 Windmill Park, Crumlin",Dublin,112000.0,No,Crumlin,Dublin 12,q1,10%
+26/07/2013,"42  St. Mary'S Road, Crumlin",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+31/07/2013,"316 Captains Road, Crumlin",Dublin,123000.0,No,Crumlin,Dublin 12,q1,20%
+01/08/2013,"86 Rathdrum Road, Crumlin",Dublin,182500.0,No,Crumlin,Dublin 12,q2,40%
+02/08/2013,"52 Lismore Road, Crumlin, Dublin 12",Dublin,88000.0,No,Crumlin,Dublin 12,q1,10%
+08/08/2013,"15 Kimmage Road West, Crumlin",Dublin,485000.0,No,Crumlin,Dublin 12,q4,100%
+08/08/2013,"164 Old County Road, Crumlin",Dublin,98500.0,No,Crumlin,Dublin 12,q1,10%
+12/08/2013,"4 Clogher Road, Crumlin, Dublin  12.",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+21/08/2013,"187 Windmill Park, Crumlin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+21/08/2013,"92 Captain'S Avenue, Crumlin",Dublin,125000.0,No,Crumlin,Dublin 12,q1,20%
+23/08/2013,"102 Iveagh Gardens, Crumlin",Dublin,342000.0,No,Crumlin,Dublin 12,q4,90%
+23/08/2013,"264 Sundrive Road, Crumlin",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+27/08/2013,"70 Downpatrick Rd, Crumlin, Dublin 12",Dublin,137500.0,No,Crumlin,Dublin 12,q1,20%
+28/08/2013,"24 Clonfert Road, Crumlin, Dublin 12",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+30/08/2013,"78 Stannawawy Road, Crumlin",Dublin,132000.0,No,Crumlin,Dublin 12,q1,20%
+02/09/2013,"111 Saul Road, Crumlin",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+04/09/2013,"312 Clogher Road, Crumlin, Dublin 12",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+10/09/2013,"60 Durrow Road, Crumlin, Dublin 12",Dublin,110000.0,No,Crumlin,Dublin 12,q1,10%
+13/09/2013,"24 Ferns Road, Crumlin",Dublin,145000.0,No,Crumlin,Dublin 12,q1,20%
+13/09/2013,"280 Captain'S Road, Crumlin",Dublin,168000.0,No,Crumlin,Dublin 12,q2,30%
+17/09/2013,"61 Durrow Road, Crumlin, Dublin 12",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+19/09/2013,"42 Kildare Road, Crumlin",Dublin,110000.0,No,Crumlin,Dublin 12,q1,10%
+20/09/2013,"82 Clonmacnoise Road, Crumlin",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+26/09/2013,"113 Saul Road, Crumlin",Dublin,118000.0,No,Crumlin,Dublin 12,q1,20%
+27/09/2013,"22 Windmill Road, Crumlin, Dublin 12",Dublin,80250.0,No,Crumlin,Dublin 12,q1,10%
+27/09/2013,"46 Raphoe Road, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+30/09/2013,"331 Kildare Road, Crumlin",Dublin,118000.0,No,Crumlin,Dublin 12,q1,20%
+01/10/2013,"48 Ferns Road, Crumlin",Dublin,132000.0,No,Crumlin,Dublin 12,q1,20%
+04/10/2013,"38 Leighan Road, Crumlin, Dublin 12",Dublin,106000.0,No,Crumlin,Dublin 12,q1,10%
+04/10/2013,"41 Saul Road, Crumlin",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+04/10/2013,"76 Sundrive Road, Crumlin",Dublin,205000.0,No,Crumlin,Dublin 12,q2,50%
+04/10/2013,"80 Crumlin Road, Crumlin",Dublin,111000.0,No,Crumlin,Dublin 12,q1,10%
+11/10/2013,"19 Lisle Road, Crumlin",Dublin,173000.0,No,Crumlin,Dublin 12,q2,30%
+17/10/2013,"32 Captains Avenue, Crumlin",Dublin,133000.0,No,Crumlin,Dublin 12,q1,20%
+18/10/2013,"1 Fernvale Drive, Crumlin",Dublin,252000.0,No,Crumlin,Dublin 12,q3,70%
+21/10/2013,"54 Stannaway Avenue, Crumlin, Dublin 12",Dublin,145000.0,No,Crumlin,Dublin 12,q1,20%
+21/10/2013,"70 Aughavanagh Road, Crumlin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+22/10/2013,"284 Captains Road, Crumlin",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+01/11/2013,"19 Old County Glen, Crumlin",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+05/11/2013,"118 Clonard Road, Crumlin",Dublin,151000.0,No,Crumlin,Dublin 12,q1,30%
+05/11/2013,"22 Kilfenora Road, Crumlin",Dublin,125000.0,No,Crumlin,Dublin 12,q1,20%
+06/11/2013,"162 Clonmacnoise Road, Crumlin",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+07/11/2013,"23 Captain'S Drive, Crumlin",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+08/11/2013,"25 Iveagh Gardens, Crumlin",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+15/11/2013,"137 Leighlin Road, Crumlin",Dublin,125000.0,No,Crumlin,Dublin 12,q1,20%
+21/11/2013,"71 Clonard Road, Crumlin",Dublin,141000.0,No,Crumlin,Dublin 12,q1,20%
+22/11/2013,"256 Crumlin Road, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+22/11/2013,"330 Kildare Road, Crumlin, Dublin 12",Dublin,70000.0,No,Crumlin,Dublin 12,q1,10%
+09/12/2013,"384 Clogher Rd, Crumlin, Dublin 12",Dublin,152500.0,No,Crumlin,Dublin 12,q1,30%
+10/12/2013,"43 Innismore, Crumlin Village, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+11/12/2013,"22 Captains Ave, Crumlin, Dublin City",Dublin,178000.0,No,Crumlin,Dublin 12,q2,40%
+17/12/2013,"65 Saul Rd, Crumlin, Dublin",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+19/12/2013,"140 Clonard Rd, Crumlin, Dublin 12",Dublin,143000.0,No,Crumlin,Dublin 12,q1,20%
+19/12/2013,"145 Bangor Rd, Crumlin, Dublin",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+19/12/2013,"32 Downpatrick Rd, Crumlin, Dublin 12",Dublin,161500.0,No,Crumlin,Dublin 12,q2,30%
+19/12/2013,"39 St Marys Dr, Crumlin, Dublin 12",Dublin,144000.0,No,Crumlin,Dublin 12,q1,20%
+20/12/2013,"90 Crumlin Rd, Crumlin, Dublin 12",Dublin,139000.0,No,Crumlin,Dublin 12,q1,20%
+30/12/2013,"63 Windmill Park, Crumlin Dublin 12, Dublin",Dublin,90000.0,No,Crumlin,Dublin 12,q1,10%
+15/01/2014,"184 Crumlin Road, Crumlin, Dublin 12",Dublin,85000.0,No,Crumlin,Dublin 12,q1,10%
+17/01/2014,"10 Windmill Park, Crumlin, Dublin 12",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+21/01/2014,"202 Kildare Rd, Crumlin, Dublin 12",Dublin,117000.0,No,Crumlin,Dublin 12,q1,20%
+22/01/2014,"349 Clogher Road, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+29/01/2014,"3 Raleigh Sq, Crumlin, Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+30/01/2014,"30 St Agnes Park, Crumlin, Dublin 12",Dublin,335000.0,No,Crumlin,Dublin 12,q4,90%
+30/01/2014,"378 Cashel Rd, Crumlin, Dublin",Dublin,157000.0,No,Crumlin,Dublin 12,q1,30%
+05/02/2014,"105 Downpatrick Rd, Crumlin, Dublin 12",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+06/02/2014,"38 St Agnes Pk, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+07/02/2014,"16 Downpatrick Road, Crumlin",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+07/02/2014,"22 Leighlin Rd, Crumlin, Dublin 12",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+07/02/2014,"245 Sundrive Rd, Crumlin, Dublin 12",Dublin,223250.0,No,Crumlin,Dublin 12,q2,50%
+07/02/2014,"348A Kildare Road, Crumlin, Dublin 12",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+07/02/2014,"74 Leighlin Rd, Crumlin, Dublin 12",Dublin,95000.0,No,Crumlin,Dublin 12,q1,10%
+26/02/2014,"15 Captains Dr, Crumlin, Dublin 12",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+26/02/2014,"8 Raleigh Sq, Crumlin, Dublin",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+27/02/2014,"105 Kildare Rd, Crumlin, Dublin 12",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+28/02/2014,"147 Cromwellsfort Rd, Crumlin, Dublin 12",Dublin,205000.0,No,Crumlin,Dublin 12,q2,50%
+05/03/2014,"14 Brickfield Dr, Crumlin Rd, Dublin 12",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+06/03/2014,"49 St Agnes Rd, Crumlin, Dublin",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+07/03/2014,"19 Windmill Rd, Crumlin Dublin 12, Dublin",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+10/03/2014,"145 Downpatrick Rd, Crumlin, Dublin 12",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+14/03/2014,"11 Captain'S Avenue, Crumlin, Dublin 12",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+14/03/2014,"17 Old Cottages, Rafters Road, Crumlin",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+20/03/2014,"71 Monasteraboice Road, Crumlin, Dublin 12",Dublin,145000.0,No,Crumlin,Dublin 12,q1,20%
+21/03/2014,"2 Derry Park, Crumlin, Dublin 12",Dublin,167000.0,No,Crumlin,Dublin 12,q2,30%
+21/03/2014,"78 Aughavanagh Rd, Crumlin, Dublin 12",Dublin,195000.0,No,Crumlin,Dublin 12,q2,40%
+24/03/2014,"201 Crumlin Road, Dublin 12",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+25/03/2014,"84 Crumlin Rd, Dublin 12, Dublin",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+07/04/2014,"Apartment 19, Windmill Lodge, Crumlin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+11/04/2014,"154 Crumlin Road, Crumlin",Dublin,161000.0,No,Crumlin,Dublin 12,q1,30%
+11/04/2014,"306 Cashel Rd, Crumlin, Dublin 12",Dublin,175000.0,No,Crumlin,Dublin 12,q2,30%
+17/04/2014,"23 Derry Park, Crumlin, Dublin 12",Dublin,147500.0,No,Crumlin,Dublin 12,q1,30%
+23/04/2014,"131 Windmill Park, Crumlin, Dublin 12",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+25/04/2014,"15 Ashling Close, Old County Rd, Crumlin Dublin 12",Dublin,237000.0,No,Crumlin,Dublin 12,q3,60%
+28/04/2014,"51 Kildare Rd, Crumlin, Dublin 12",Dublin,148000.0,No,Crumlin,Dublin 12,q1,30%
+29/04/2014,"145 Leighlin Rd, Crumlin, Dublin 12",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+01/05/2014,"51 Raphoe Road, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+02/05/2014,"217 Cashel Rd, Crumlin, Dublin",Dublin,179100.0,No,Crumlin,Dublin 12,q2,40%
+07/05/2014,"89 Rathdrum Rd, Crumlin Dublin 12, Dublin",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+09/05/2014,"162 Crumlin Road, Crumlin",Dublin,175000.0,No,Crumlin,Dublin 12,q2,30%
+14/05/2014,"108 Sundrive Rd, Crumlin, Dublin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+15/05/2014,"100 Clonard Rd, Crumlin, Dublin 12",Dublin,127500.0,No,Crumlin,Dublin 12,q1,20%
+16/05/2014,"177 Windmill Rd, Crumlin, Dublin 12",Dublin,132000.0,No,Crumlin,Dublin 12,q1,20%
+16/05/2014,"346, Cashel Road, Crumlin Dublin 12",Dublin,165000.0,No,Crumlin,Dublin 12,q2,30%
+16/05/2014,"80 Bangor Rd, Crumlin, Dublin 12",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+21/05/2014,"18 Iveagh Gardens, Crumlin, Dublin 12",Dublin,371000.0,No,Crumlin,Dublin 12,q4,100%
+06/06/2014,"142 Old County Rd, Crumlin, Dublin 12",Dublin,199500.0,No,Crumlin,Dublin 12,q2,40%
+10/06/2014,"137 Stanaway Rd, Crumlin, Dublin 12",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+10/06/2014,"295 Kildare Rd, Crumlin, Dublin 12",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+11/06/2014,"Apt 1 6 Lisle Rd, Crumlin Village, Dublin 12",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+11/06/2014,"Apt 2 5 Lisle Rd, Crumlin Village, Dublin 12",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+17/06/2014,"96 Parnell Road, Crumlin",Dublin,270000.0,No,Crumlin,Dublin 12,q3,70%
+18/06/2014,"21 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,187000.0,No,Crumlin,Dublin 12,q2,40%
+20/06/2014,"9 Raphoe Road, Crumlin, Dublin 12",Dublin,65000.0,No,Crumlin,Dublin 12,q1,10%
+20/06/2014,"Innishmore House, Crumlin Village, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+25/06/2014,"125 Rutland Grove, Crumlin, Dublin 12",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+11/07/2014,"105 Crumlin Rd, Crumlin, Dublin 12",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+11/07/2014,"299 Crumlin Rd, Dublin 12, Dublin",Dublin,247000.0,No,Crumlin,Dublin 12,q3,60%
+15/07/2014,"25 Windmill Road, Crumlin",Dublin,177200.0,No,Crumlin,Dublin 12,q2,30%
+21/07/2014,"54 Fort Ostman, Old Co Rd, Crumlin",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+22/07/2014,"13 Crumlin Village, Dublin 12, Dublin",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+25/07/2014,"26 Rathdrum Rd, Crumlin, Dublin 12",Dublin,223000.0,No,Crumlin,Dublin 12,q2,50%
+25/07/2014,"3 Kildare Rd, Crumlin, Dublin 12",Dublin,182000.0,No,Crumlin,Dublin 12,q2,40%
+29/07/2014,"265 Captains Rd, Crumlin, Dublin 12",Dublin,167500.0,No,Crumlin,Dublin 12,q2,30%
+31/07/2014,"109 Captains Road, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+01/08/2014,"213 Bangor Rd, Crumlin, Dublin 12",Dublin,175000.0,No,Crumlin,Dublin 12,q2,30%
+06/08/2014,"38 Kells Rd, Crumlin, Dublin 12",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+13/08/2014,"2 The Belfry, St. Marys, Crumlin",Dublin,330396.0,Yes,Crumlin,Dublin 12,q4,90%
+13/08/2014,"69 Downpatrick Rd, Crumlin, Dublin 12",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+14/08/2014,"4  The Belfry, St Mary'S, Crumlin",Dublin,330396.47,Yes,Crumlin,Dublin 12,q4,90%
+15/08/2014,"115 Kildare Rd, Crumlin, Dublin 12",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+15/08/2014,"18 Faughart Rd, Crumlin, Dublin 12",Dublin,153000.0,No,Crumlin,Dublin 12,q1,30%
+20/08/2014,"148 Cashel Road, Crumlin",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+28/08/2014,"51 Drimnagh Rd, Crumlin, Dublin 12",Dublin,287000.0,No,Crumlin,Dublin 12,q3,80%
+01/09/2014,"300 Kildare Rd, Crumlin, Dublin 12",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+03/09/2014,"11 Clonard Rd, Crumlin, Dublin 12",Dublin,245150.0,No,Crumlin,Dublin 12,q3,60%
+05/09/2014,"59 Glenealy Rd, Crumlin, Dublin 12",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+09/09/2014,"24 Downpatrick Rd, Crumlin, Dublin 12",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+12/09/2014,"103 Clonard Road, Crumlin Dublin 12",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+15/09/2014,"49 Raphoe Rd, Crumlin, Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+18/09/2014,"59 Kildare Rd, Crumlin, Dublin 12",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+19/09/2014,"529 Crumlin Village, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+23/09/2014,"361 Crumlin Rd, Dublin 12, Dublin",Dublin,212000.0,No,Crumlin,Dublin 12,q2,50%
+26/09/2014,"17 Crumlin Village, Crumlin",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+30/09/2014,"8 The Belfry, St Mary'S, Crumlin",Dublin,330396.48,Yes,Crumlin,Dublin 12,q4,90%
+01/10/2014,"171 Captains Rd, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+02/10/2014,"369 Clogher Rd, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+03/10/2014,"383 Clogher Rd, Crumlin Dublin 12, Dublin",Dublin,258000.0,No,Crumlin,Dublin 12,q3,70%
+07/10/2014,"110 Dolphin Road, Crumlin",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+10/10/2014,"116 Clonard Rd, Crumlin, Dublin 12",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+10/10/2014,"5 The Belfry, St. Mary'S Road, Crumlin",Dublin,330396.48,Yes,Crumlin,Dublin 12,q4,90%
+17/10/2014,"115 Clonard Rd, Crumlin, Dublin City",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+17/10/2014,"9 The Belfry, Crumlin",Dublin,330397.0,Yes,Crumlin,Dublin 12,q4,90%
+20/10/2014,"128A Sundrive Rd, Crumlin, Dublin 12",Dublin,223500.0,No,Crumlin,Dublin 12,q2,50%
+22/10/2014,"66, Rafters Road, Crumlin Dublin 12",Dublin,75000.0,No,Crumlin,Dublin 12,q1,10%
+23/10/2014,"128 Sundrive Rd, Crumlin, Dublin 12",Dublin,196500.0,No,Crumlin,Dublin 12,q2,40%
+23/10/2014,"30 Iveagh Gardens, Crumlin Rd, Dublin 12",Dublin,350000.0,No,Crumlin,Dublin 12,q4,100%
+29/10/2014,"20 Stannaway Rd, Crumlin, Dublin 12",Dublin,240999.0,No,Crumlin,Dublin 12,q3,60%
+10/11/2014,"82 St Agnes Park, Crumlin, Dublin 12",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+12/11/2014,"119 Cashel Rd, Crumlin, Dublin 12",Dublin,227000.0,No,Crumlin,Dublin 12,q2,50%
+14/11/2014,"164 Rutland Ave, Crumlin, Dublin 12",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+18/11/2014,"193 Clonard Rd, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+21/11/2014,"15 Herberton Rd, Crumlin, Dublin 12",Dublin,175000.0,No,Crumlin,Dublin 12,q2,30%
+26/11/2014,"14 Lismore Rd, Crumlin, Dublin 12",Dublin,195000.0,No,Crumlin,Dublin 12,q2,40%
+27/11/2014,"37 Derry Drive, Crumlin, Dublin 12",Dublin,145000.0,No,Crumlin,Dublin 12,q1,30%
+28/11/2014,"228 Captains Road, Crumlin",Dublin,329000.0,No,Crumlin,Dublin 12,q4,90%
+08/12/2014,"27 Whitehall Sq, Crumlin, Dublin",Dublin,123000.0,No,Crumlin,Dublin 12,q1,20%
+11/12/2014,"343 Clogher Road, Crumlin, Dublin 12",Dublin,261786.0,No,Crumlin,Dublin 12,q3,70%
+12/12/2014,"145 Leighlin Rd, Crumlin, Dublin 12",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+15/12/2014,"7 The Belfry, St Marys Road, Crumlin",Dublin,312775.0,Yes,Crumlin,Dublin 12,q4,90%
+17/12/2014,"106 Downpatrick Rd, Crumlin, Dublin",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+17/12/2014,"20 Ravensdale Dr, Crumlin, Dublin 12",Dublin,390000.0,No,Crumlin,Dublin 12,q4,100%
+17/12/2014,"51 Lismore Road, Crumlin, Dublin 12",Dublin,195000.0,No,Crumlin,Dublin 12,q2,40%
+18/12/2014,"114 Clonard Rd, Crumlin, Dublin 12",Dublin,183000.0,No,Crumlin,Dublin 12,q2,40%
+18/12/2014,"80 Saul Rd, Crumlin, Dublin 12",Dublin,178000.0,No,Crumlin,Dublin 12,q2,40%
+19/12/2014,"37 Devenish Road, Crumlin, Dublin 12",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+19/12/2014,"42 Iveagh Gardens, Crumlin Road, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+19/12/2014,"5 Raleigh Sq, Crumlin, Dublin 12",Dublin,295000.0,No,Crumlin,Dublin 12,q4,80%
+22/12/2014,"133 Captains Rd, Crumlin, Dublin 12",Dublin,167550.0,No,Crumlin,Dublin 12,q2,30%
+22/12/2014,"89 Aughavanagh Rd, Crumlin, Dublin 12",Dublin,246000.0,No,Crumlin,Dublin 12,q3,60%
+29/12/2014,"15 Crumlin Village, Dubin 12",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+09/01/2015,"Lynwil, 187 Cherryfield Rd, Crumlin Dublin 12",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+13/01/2015,"136 Downpatrick Road, Crumlin",Dublin,183000.0,No,Crumlin,Dublin 12,q2,40%
+13/01/2015,"62 Downpatrick Rd, Crumlin, Dublin 12",Dublin,242000.0,No,Crumlin,Dublin 12,q3,60%
+14/01/2015,"101 Windmill Park, Crumlin",Dublin,216000.0,No,Crumlin,Dublin 12,q2,50%
+16/01/2015,"105 Crumlin Rd, Crumlin, Dublin 12",Dublin,255000.0,No,Crumlin,Dublin 12,q3,70%
+19/01/2015,"18 Downpatrick Rd, Crumlin, Dublin 12",Dublin,85000.0,No,Crumlin,Dublin 12,q1,10%
+20/01/2015,"146 Downpatrick Rd, Crumlin, Dublin 12",Dublin,176000.0,No,Crumlin,Dublin 12,q2,30%
+21/01/2015,"37 Dolphin Road, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+22/01/2015,"215 Clonard Rd, Crumlin Dublin 12, Dublin",Dublin,165000.0,No,Crumlin,Dublin 12,q2,30%
+23/01/2015,"46 St Agnes Park, Crumlin, Dublin 12",Dublin,278000.0,No,Crumlin,Dublin 12,q3,80%
+26/01/2015,"145 Kildare Rd, Crumlin, Dublin 12",Dublin,183000.0,No,Crumlin,Dublin 12,q2,40%
+26/01/2015,"187 Cashel Rd, Crumlin, Dublin 12",Dublin,238000.0,No,Crumlin,Dublin 12,q3,60%
+29/01/2015,"133 Stannaway Rd, Crumlin, Dublin 12",Dublin,213000.0,No,Crumlin,Dublin 12,q2,50%
+29/01/2015,"150 Stannaway Rd, Crumlin, Dublin 12",Dublin,195000.0,No,Crumlin,Dublin 12,q2,40%
+30/01/2015,"212 Stannaway Rd, Crumlin, Dublin City",Dublin,287000.0,No,Crumlin,Dublin 12,q3,80%
+30/01/2015,"6 The Belfry, Crumlin, Dublin 12",Dublin,375000.0,Yes,Crumlin,Dublin 12,q4,100%
+05/02/2015,"3 The Belfry, St. Mary'S Road, Crumlin",Dublin,312775.0,Yes,Crumlin,Dublin 12,q4,90%
+12/02/2015,"219 Kildare Rd, Crumlin, Dublin 12",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+13/02/2015,"61 Saul Road, Crumlin",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+18/02/2015,"12 Clogher Rd, Crumlin, Dublin 12",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+18/02/2015,"47 Rutland Avenue, Crumlin, Dublin",Dublin,228000.0,No,Crumlin,Dublin 12,q2,50%
+19/02/2015,"43 Glenealy Rd, Crumlin, Dublin City",Dublin,204000.0,No,Crumlin,Dublin 12,q2,50%
+19/02/2015,"Kenure, 175 Crumlin Rd, Crumlin Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+26/02/2015,"378 Captains Rd, Crumlin, Dublin 12",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+27/02/2015,"141 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,80000.0,No,Crumlin,Dublin 12,q1,10%
+27/02/2015,"163 Comeragh Rd, Crumlin, Dublin 12",Dublin,236000.0,No,Crumlin,Dublin 12,q3,60%
+04/03/2015,"58 Bangor Rd, Crumlin, Dublin 12",Dublin,196000.0,No,Crumlin,Dublin 12,q2,40%
+05/03/2015,"140 Cashel Rd, Crumlin 12, Dublin",Dublin,215000.0,No,Crumlin,Dublin 12,q2,50%
+10/03/2015,"158 B Kildare Rd, Crumlin, Dublin 12",Dublin,183000.0,No,Crumlin,Dublin 12,q2,40%
+11/03/2015,"13 Crumlin Village, Dublin 12, Dublin",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+20/03/2015,"105 Stannaway Road, Crumlin, Dublin 12",Dublin,205000.0,No,Crumlin,Dublin 12,q2,50%
+20/03/2015,"50 Iveagh Gardens, Crumlin, Dublin 12",Dublin,345000.0,No,Crumlin,Dublin 12,q4,90%
+23/03/2015,"4 Moracrete Cottages, Crumlin, Dublin 12",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+24/03/2015,"30 Old County Rd, Crumlin, Dublin 12",Dublin,307000.0,No,Crumlin,Dublin 12,q4,90%
+25/03/2015,"58 Cashel Rd, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+26/03/2015,"165 Leighlin Rd, Crumlin, Dublin 12",Dublin,161000.0,No,Crumlin,Dublin 12,q1,30%
+26/03/2015,"222 Galtymore Road, Crumlin, Dublin 12",Dublin,220000.0,No,Crumlin,Dublin 12,q2,50%
+26/03/2015,"98 Downpatrick Rd, Crumlin, Dublin 12",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+27/03/2015,"26 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+30/03/2015,"308 Sundrive Rd, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+31/03/2015,"1 Old County Glen, Crumlin, Dublin 12",Dublin,288000.0,No,Crumlin,Dublin 12,q3,80%
+08/04/2015,"28 Lismore Rd, Crumlin, Dublin 12",Dublin,207500.0,No,Crumlin,Dublin 12,q2,50%
+10/04/2015,"51 Kildare Rd, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+16/04/2015,"41 Dromore Rd, Crumlin, Dublin 12",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+16/04/2015,"63 Clonard Rd, Crumlin, Dublin 12",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+17/04/2015,"103 Crumlin Rd, Crumlin, Dublin 12",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+17/04/2015,"19 Inishmore, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+17/04/2015,"37 Kells Rd, Crumlin, Dublin 12",Dublin,60000.0,No,Crumlin,Dublin 12,q1,10%
+22/04/2015,"89 Raphoe Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+23/04/2015,"336 Captains Rd, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+24/04/2015,"164 Captains Rd, Crumlin, Dublin 12",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+29/04/2015,"Flat Overhead, 30 Crumlin Road, Crumlin",Dublin,45000.0,No,Crumlin,Dublin 12,q1,10%
+01/05/2015,"192 Sundrive Road, Crumlin, Dublin 12",Dublin,343529.0,No,Crumlin,Dublin 12,q4,90%
+05/05/2015,"8 Ashling Close, Old Co Rd, Crumlin Dublin 12",Dublin,271000.0,No,Crumlin,Dublin 12,q3,70%
+08/05/2015,"1 The Belfry, St. Marys Crumlin, Dublin 12",Dublin,247000.0,Yes,Crumlin,Dublin 12,q3,60%
+11/05/2015,"257 Crumlin Rd, Dublin 12, Dublin",Dublin,45000.0,No,Crumlin,Dublin 12,q1,10%
+11/05/2015,"31 Rathdrum Rd, Crumlin, Dublin 12",Dublin,256501.0,No,Crumlin,Dublin 12,q3,70%
+13/05/2015,"24A Herberton Rd, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+14/05/2015,"247 Cashel Rd, Crumlin, Dublin City",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+19/05/2015,"76 Bangor Rd, Crumlin, Dublin 12",Dublin,196000.0,No,Crumlin,Dublin 12,q2,40%
+20/05/2015,"119 Downpatrick Rd, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+22/05/2015,"18 Saul Rd, Crumlin, Dublin 12",Dublin,183000.0,No,Crumlin,Dublin 12,q2,40%
+25/05/2015,"64 Saul Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+27/05/2015,"234 Captains Rd, Crumlin, Dublin 12",Dublin,257000.0,No,Crumlin,Dublin 12,q3,70%
+02/06/2015,"14 Ferns Rd, Crumlin, Dublin 12",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+03/06/2015,"384 Clogher Road, Crumlin",Dublin,372700.0,No,Crumlin,Dublin 12,q4,100%
+05/06/2015,"11 Rathdrum Rd, Crumlin, Dublin 12",Dublin,277000.0,No,Crumlin,Dublin 12,q3,80%
+05/06/2015,"318 Cashel Rd, Crumlin, Dublin 12",Dublin,212000.0,No,Crumlin,Dublin 12,q2,50%
+08/06/2015,"9 Faughart Rd, Crumlin, Dublin 12",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+11/06/2015,"33 Rathdrum Rd, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+12/06/2015,"44 Ferns Rd, Crumlin, Dublin City",Dublin,172000.0,No,Crumlin,Dublin 12,q2,30%
+12/06/2015,"68 Lismore Rd, Crumlin, Dublin 12",Dublin,217000.0,No,Crumlin,Dublin 12,q2,50%
+16/06/2015,"68 Windmill Park, Crumlin Dublin 12, Dublin",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+22/06/2015,"115 Clonard Road, Crumlin",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+23/06/2015,"72 Raphoe Road, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+29/06/2015,"250 Keepers Road, Crumlin",Dublin,166910.0,No,Crumlin,Dublin 12,q2,30%
+29/06/2015,"270 Kildare Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+29/06/2015,"7 Crumlin Village, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+01/07/2015,"164 Cashel Rd, Crumlin, Dublin 12",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+03/07/2015,"65 Iveagh Gardens, Crumlin, Dublin 12",Dublin,315000.0,No,Crumlin,Dublin 12,q4,90%
+07/07/2015,"13 Dangan Park, Crumlin, Dublin 12",Dublin,392000.0,No,Crumlin,Dublin 12,q4,100%
+09/07/2015,"32 Innismore, Crumlin Village, Dublin 12",Dublin,282000.0,No,Crumlin,Dublin 12,q3,80%
+09/07/2015,"35 Fort Osmond, Old County Road, Crumlin",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+13/07/2015,"147 Cromwellsfort Road, Crumlin, Dublin 12",Dublin,395000.0,No,Crumlin,Dublin 12,q4,100%
+20/07/2015,"70 Monasterboice Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+21/07/2015,"9 Herberton Road, Crumlin, Dublin 12",Dublin,340500.0,No,Crumlin,Dublin 12,q4,90%
+29/07/2015,"108 Cashel Ave, Crumlin, Dublin 12",Dublin,171000.0,No,Crumlin,Dublin 12,q2,30%
+31/07/2015,"94 Captains Ave, Crumlin, Dublin 12",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+05/08/2015,"269 Cashel Rd, Crumlin, Dublin 12",Dublin,184500.0,No,Crumlin,Dublin 12,q2,40%
+05/08/2015,"47 Monasterboice Road, Crumlin, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+07/08/2015,"171 Kimmage Rd West, Crumlin, Dublin 12",Dublin,460000.0,No,Crumlin,Dublin 12,q4,100%
+07/08/2015,"294 Cashel Rd, Crumlin, Dublin 12",Dublin,205000.0,No,Crumlin,Dublin 12,q2,50%
+12/08/2015,"100 Leighlin Road, Crumlin",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+14/08/2015,"12 Brickfield Dr, Crumlin, Dublin 12",Dublin,217470.0,No,Crumlin,Dublin 12,q2,50%
+21/08/2015,"81 Rutland Ave, Crumlin, Dublin 12",Dublin,191000.0,No,Crumlin,Dublin 12,q2,40%
+24/08/2015,"140 Old Co Rd, Crumlin, Dublin 12",Dublin,248000.0,No,Crumlin,Dublin 12,q3,60%
+24/08/2015,"56 Crumlin Rd, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+25/08/2015,"12 Greentrees Drive, Crumlin",Dublin,430000.0,No,Crumlin,Dublin 12,q4,100%
+26/08/2015,"33 Devenish Rd, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+28/08/2015,"96 Kildare Rd, Crumlin, Dublin 12",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+02/09/2015,"143 Leighlin Road, Crumlin, Dublin 12",Dublin,211000.0,No,Crumlin,Dublin 12,q2,50%
+03/09/2015,"409 Crumlin Rd, Crumlin, Dublin 12",Dublin,191250.0,No,Crumlin,Dublin 12,q2,40%
+09/09/2015,"52 Downpatrick Rd, Crumlin, Dublin 12",Dublin,195500.0,No,Crumlin,Dublin 12,q2,40%
+21/09/2015,"103 Raphoe Rd, Crumlin, Dublin 12",Dublin,263500.0,No,Crumlin,Dublin 12,q3,70%
+25/09/2015,"248 Clogher Rd, Crumlin Dublin 12, Dublin",Dublin,242000.0,No,Crumlin,Dublin 12,q3,60%
+26/09/2015,"165 Leighlin Rd, Crumlin, Dublin 12",Dublin,161000.0,No,Crumlin,Dublin 12,q2,30%
+28/09/2015,"115A Stannaway Road, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+29/09/2015,"16 Faughart Rd, Crumlin, Dublin 12",Dublin,125000.0,No,Crumlin,Dublin 12,q1,20%
+29/09/2015,"84 Captains Ave, Crumlin, Dublin 12",Dublin,173000.0,No,Crumlin,Dublin 12,q2,30%
+30/09/2015,"193 Kildare Rd, Crumlin Dublin 12, Dublin",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+30/09/2015,"93 Raphoe Rd, Crumlin, Dublin",Dublin,220000.0,No,Crumlin,Dublin 12,q2,50%
+02/10/2015,"5 Crumlin Village, Dublin 12, Dublin",Dublin,330000.0,No,Crumlin,Dublin 12,q4,90%
+06/10/2015,"67 Crumlin Rd, Crumlin, Dublin 12",Dublin,350000.0,No,Crumlin,Dublin 12,q4,100%
+12/10/2015,"26 St Teresas Rd, Crumlin, Dublin 12",Dublin,410000.0,No,Crumlin,Dublin 12,q4,100%
+15/10/2015,"27 Monasterboice Rd, Crumlin, Dublin 12",Dublin,227500.0,No,Crumlin,Dublin 12,q2,50%
+16/10/2015,"211 Crumlin Rd, Crumlin, Dublin 12",Dublin,242500.0,No,Crumlin,Dublin 12,q3,60%
+19/10/2015,"6 Goldstone Court, Clougher Rd, Crumlin",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+20/10/2015,"108 Downpatrick Rd, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+20/10/2015,"112 Windmill Park, Crumlin, Dublin 12",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+23/10/2015,"20 Rutland Ave, Crumlin, Dublin 12",Dublin,192500.0,No,Crumlin,Dublin 12,q2,40%
+24/10/2015,"190A Sundrive Rd, Crumlin, Dublin 12",Dublin,270000.0,No,Crumlin,Dublin 12,q3,70%
+30/10/2015,"20 Windmill Crescent, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+06/11/2015,"190 Cashel Rd, Crumlin, Dublin 12",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+09/11/2015,"90 Saul Rd, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+10/11/2015,"34B Windmill Rd, Crumlin, Windmill Rd Dublin 12",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+10/11/2015,"Block 1 Apt 3, Whitehall Square, Crumlin",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+12/11/2015,"71 Downpatrick Rd, Crumlin Dublin 12, Dublin",Dublin,205000.0,No,Crumlin,Dublin 12,q2,50%
+13/11/2015,"59 Saul Rd, Crumlin, Dublin 12",Dublin,206000.0,No,Crumlin,Dublin 12,q2,50%
+17/11/2015,"61 Kells Road, Crumlin, Dublin 12",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+18/11/2015,"308 Sundrive Rd, Crumlin, Dublin 12",Dublin,325200.0,No,Crumlin,Dublin 12,q4,90%
+20/11/2015,"18 Cashel Ave, Crumlin, Dublin",Dublin,40000.0,No,Crumlin,Dublin 12,q1,10%
+20/11/2015,"27 Glenealy Rd, Crumlin, Dublin 12",Dublin,265250.0,No,Crumlin,Dublin 12,q3,70%
+30/11/2015,"130 Clonard Rd, Crumlin, Dublin 12",Dublin,195000.0,No,Crumlin,Dublin 12,q2,40%
+01/12/2015,"68 Raphoe Rd, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+03/12/2015,"167 Crumlin Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+04/12/2015,"1 Hillbrook Ave, Crumlin, Dublin 12",Dublin,355000.0,No,Crumlin,Dublin 12,q4,100%
+11/12/2015,"47 St Teresas Rd, Crumlin, Dublin 12",Dublin,330000.0,No,Crumlin,Dublin 12,q4,90%
+17/12/2015,"28 Glenealy Road, Crumlin, Dublin 12",Dublin,195000.0,No,Crumlin,Dublin 12,q2,40%
+17/12/2015,"6 Raleigh Sq, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+18/12/2015,"18 Innismore, Crumlin Village, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+18/12/2015,"3 St Agnes Terrace, Crumlin, Dublin 12",Dublin,70000.0,No,Crumlin,Dublin 12,q1,10%
+18/12/2015,"33 Knocknarea Rd, Crumlin, Dublin 12",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+22/12/2015,"116 Parnell Road, Crumlin",Dublin,258000.0,No,Crumlin,Dublin 12,q3,70%
+22/12/2015,"32 Fort Ostman, Crumlin, Dublin 12",Dublin,155000.0,No,Crumlin,Dublin 12,q1,30%
+08/01/2016,"22 Crumlin Rd, Apt, Dublin 12",Dublin,80000.0,No,Crumlin,Dublin 12,q1,10%
+13/01/2016,"298 Clougher Rd, Crumlin, Dublin 12",Dublin,205000.0,No,Crumlin,Dublin 12,q2,50%
+15/01/2016,"98 Old County Rd, Crumlin, Dublin 12",Dublin,150000.0,No,Crumlin,Dublin 12,q1,30%
+21/01/2016,"133 Captains Road, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+25/01/2016,"3 Captains Avenue, Crumlin, Dublin 12",Dublin,181500.0,No,Crumlin,Dublin 12,q2,40%
+25/01/2016,"62 Kilfanora Rd, Crumlin, Dublin 12",Dublin,256000.0,No,Crumlin,Dublin 12,q3,70%
+27/01/2016,"1 St Marys Rd, Crumlin, Dublin 12",Dublin,310000.0,No,Crumlin,Dublin 12,q4,90%
+28/01/2016,"19 Fernvale Dr, Crumlin, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+28/01/2016,"2 Clonard Rd, Crumlin, Dublin 12",Dublin,261500.0,No,Crumlin,Dublin 12,q3,70%
+01/02/2016,"180 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,218000.0,No,Crumlin,Dublin 12,q2,50%
+02/02/2016,"5 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+05/02/2016,"164 Bangor Rd, Crumlin, Dublin 12",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+10/02/2016,"63 St Agnes Rd, Crumlin, Dublin 12",Dublin,430000.0,No,Crumlin,Dublin 12,q4,100%
+12/02/2016,"282 Crumlin Road, Dublin 12",Dublin,306000.0,No,Crumlin,Dublin 12,q4,90%
+15/02/2016,"26 Goldstone Court, Clogher Rd, Crumlin Dublin 12",Dublin,202000.0,No,Crumlin,Dublin 12,q2,40%
+15/02/2016,"71 Stannaway Ave, Crumlin, Dublin 12",Dublin,220000.0,No,Crumlin,Dublin 12,q2,50%
+17/02/2016,"98 Windmill Park, Crumlin, Dublin 12",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+19/02/2016,"460 Clonard Rd, Crumlin, Dublin 12",Dublin,323000.0,No,Crumlin,Dublin 12,q4,90%
+23/02/2016,"48 Clonmacnoise Road, Crumlin, Dublin 12",Dublin,50000.0,No,Crumlin,Dublin 12,q1,10%
+24/02/2016,"15 St Marys Rd, Crumlin, Dublin 12",Dublin,390000.0,No,Crumlin,Dublin 12,q4,100%
+24/02/2016,"30 Kildare Rd, Crumlin, Dublin 12",Dublin,193000.0,No,Crumlin,Dublin 12,q2,40%
+04/03/2016,"238 Sundrive Road, Crumlin",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+04/03/2016,"250 Cashel Rd, Crumlin, Dublin 12",Dublin,223000.0,No,Crumlin,Dublin 12,q2,50%
+04/03/2016,"68 Leighlin Road, Crumlin, Dublin 12",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+09/03/2016,"26 Captains Ave, Crumlin Dublin 12, Dublin",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+11/03/2016,"32 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,205000.0,No,Crumlin,Dublin 12,q2,50%
+18/03/2016,"12 Kildare Rd, Crumlin, Dublin 8",Dublin,178000.0,No,Crumlin,Dublin 12,q2,40%
+18/03/2016,"52 Rathdrum Rd, Crumlin, Dublin 12",Dublin,215000.0,No,Crumlin,Dublin 12,q2,50%
+04/04/2016,"1 Tonguefield Rd, Crumlin, Dublin 12",Dublin,249500.0,No,Crumlin,Dublin 12,q3,60%
+05/04/2016,"219 Windmill Rd, Crumlin, Dublin 12",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+08/04/2016,"145A Cashel Rd, Crumlin, Dublin 12",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+14/04/2016,"84 Monasterboice Rd, Crumlin Dublin 12, Dublin",Dublin,163500.0,No,Crumlin,Dublin 12,q2,30%
+15/04/2016,"181 Stannaway Rd, Crumlin, Dublin 12",Dublin,257000.0,No,Crumlin,Dublin 12,q3,70%
+21/04/2016,"42 Crumlin Road, Crumlin, Dublin 12",Dublin,60000.0,No,Crumlin,Dublin 12,q1,10%
+28/04/2016,"26 Derry Rd, Crumlin, Dublin 12",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+28/04/2016,"56 Captains Ave, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+29/04/2016,"17 Windmill Park, Crumlin, Dublin 12",Dublin,203000.0,No,Crumlin,Dublin 12,q2,50%
+29/04/2016,"24 Goldstone Court, Clogher Rd, Crumlin",Dublin,112000.0,No,Crumlin,Dublin 12,q1,10%
+29/04/2016,"24 Herberton Rd, Crumlin, Dublin 12",Dublin,392500.0,No,Crumlin,Dublin 12,q4,100%
+29/04/2016,"36 Lorcan Otoole Park, Crumlin, Dublin 12",Dublin,421000.0,No,Crumlin,Dublin 12,q4,100%
+29/04/2016,"76 Kildare Rd, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+04/05/2016,"19 Captains Drive, Crumlin, Dublin 12",Dublin,222000.0,No,Crumlin,Dublin 12,q2,50%
+05/05/2016,"103 Saul Rd, Crumlin, Dublin 12",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+12/05/2016,"56 Saul Rd, Crumlin, Dublin 12",Dublin,212000.0,No,Crumlin,Dublin 12,q2,50%
+16/05/2016,"304 Clogher Road, Crumlin, Dublin 12",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+16/05/2016,"44 Brickfield Dr, Crumlin, Dublin 12",Dublin,218000.0,No,Crumlin,Dublin 12,q2,50%
+18/05/2016,"358 Cashel Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+18/05/2016,"83 Bangor Rd, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+19/05/2016,"181 Crumlin Road, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+20/05/2016,"20 Derry Rd, Crumlin, Dublin",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+20/05/2016,"355 Crumlin Rd, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+27/05/2016,"71 Captains Rd, Crumlin, Dublin 12",Dublin,258500.0,No,Crumlin,Dublin 12,q3,70%
+30/05/2016,"148 Lismore Rd, Crumlin, Dublin City",Dublin,125000.0,No,Crumlin,Dublin 12,q1,20%
+30/05/2016,"46 Clogher Rd, Crumlin, Dublin 12",Dublin,269000.0,No,Crumlin,Dublin 12,q3,70%
+07/06/2016,"14 Goldstone Court, Clogher Rd, Crumlin Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+09/06/2016,"107 Parnell Rd, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+09/06/2016,"36 Clonard Rd, Crumlin, Dublin 12",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+13/06/2016,"11 Crumlin Village, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+14/06/2016,"12A Moracrete Cottages, Crumlin Rd, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+16/06/2016,"6 Brickfield Dr, Crumlin, Dublin 12",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+22/06/2016,"72 Monasterboice Rd, Crumlin Dublin 12, Dublin",Dublin,173000.0,No,Crumlin,Dublin 12,q2,30%
+23/06/2016,"1 Durrow Rd, Crumlin, Dublin 12",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+24/06/2016,"Apt - The Bridge House Public House, 18 Crumlin Road, Dublin 12",Dublin,60000.0,No,Crumlin,Dublin 12,q1,10%
+28/06/2016,"177 Bangor Road, Crumlin, Dublin 12",Dublin,257000.0,No,Crumlin,Dublin 12,q3,70%
+28/06/2016,"87 Monasterboice Rd, Crumlin, Dublin 12",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+29/06/2016,"17 Crumlin Village, Dublin 12",Dublin,650000.0,No,Crumlin,Dublin 12,q4,100%
+30/06/2016,"19 Fort Ostman, Crumlin, Dublin 12",Dublin,175000.0,No,Crumlin,Dublin 12,q2,30%
+30/06/2016,"49 St Teresas Rd, Crumlin, Dublin 12",Dublin,125000.0,No,Crumlin,Dublin 12,q1,20%
+30/06/2016,"7 Fort Ostman, Old Co Rd, Crumlin",Dublin,171000.0,No,Crumlin,Dublin 12,q2,30%
+01/07/2016,"103 Iveagh Gardens, Crumlin, Dublin 12",Dublin,446000.0,No,Crumlin,Dublin 12,q4,100%
+01/07/2016,"11 Slane Rd, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+04/07/2016,"372 Captains Rd, Crumlin, Dublin 12",Dublin,220000.0,No,Crumlin,Dublin 12,q2,50%
+06/07/2016,"1 Monasterboice Rd, Crumlin, Dublin 12",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+11/07/2016,"244 Kildare Rd, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+13/07/2016,"328 Clonard Rd, Crumlin, Dublin 12",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+15/07/2016,"204 Clonard Rd, Crumlin, Dublin 12",Dublin,180000.0,No,Crumlin,Dublin 12,q2,40%
+18/07/2016,"91 Iveagh Gardens, Crumlin Rd, Dublin 12",Dublin,283000.0,No,Crumlin,Dublin 12,q3,80%
+26/07/2016,"87 Iveagh Gardens, Crumlin Rd, Dublin 12",Dublin,355000.0,No,Crumlin,Dublin 12,q4,100%
+27/07/2016,"61 Devenish Rd, Crumlin Dublin 12, Dublin City",Dublin,263000.0,No,Crumlin,Dublin 12,q3,70%
+28/07/2016,"295 Clogher Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+29/07/2016,"66 Crumlin Rd, Dublin 12, Dublin",Dublin,252000.0,No,Crumlin,Dublin 12,q3,70%
+04/08/2016,"65 St Agnes Park, Crumlin, Dublin 12",Dublin,332000.0,No,Crumlin,Dublin 12,q4,90%
+05/08/2016,"44 Derry Park, Crumlin, Dublin 12",Dublin,176000.0,No,Crumlin,Dublin 12,q2,30%
+10/08/2016,"86 Captains Ave, Crumlin, Dublin 12",Dublin,266000.0,No,Crumlin,Dublin 12,q3,70%
+11/08/2016,"322 Clonard Road, Crumlin, Dublin 12",Dublin,188000.0,No,Crumlin,Dublin 12,q2,40%
+11/08/2016,"39 Clogher Rd, Crumlin, Dublin 12",Dublin,270000.0,No,Crumlin,Dublin 12,q3,70%
+12/08/2016,"31 Herberton Rd, Crumlin, Dublin 12",Dublin,175000.0,No,Crumlin,Dublin 12,q2,30%
+19/08/2016,"12 Ardagh Road, Crumlin, Dublin 12",Dublin,262000.0,No,Crumlin,Dublin 12,q3,70%
+24/08/2016,"133 Windmill Park, Crumlin, Dublin 12",Dublin,201000.0,No,Crumlin,Dublin 12,q2,40%
+30/08/2016,"370 Cashel Rd, Crumlin, Dublin 12",Dublin,206000.0,No,Crumlin,Dublin 12,q2,50%
+30/08/2016,"94 Raphoe Rd, Crumlin, Dublin 12",Dublin,272000.0,No,Crumlin,Dublin 12,q3,70%
+31/08/2016,"44 Monasterboice Rd, Crumlin, Dublin 12",Dublin,233000.0,No,Crumlin,Dublin 12,q3,60%
+01/09/2016,"139 Clogher Rd, Crumlin, Dublin 12",Dublin,252000.0,No,Crumlin,Dublin 12,q3,70%
+01/09/2016,"54 Innismore, Crumlin Village, Dublin 12",Dublin,314000.0,No,Crumlin,Dublin 12,q4,90%
+02/09/2016,"23 Lisle Rd, Crumlin, Dublin 12",Dublin,305000.0,No,Crumlin,Dublin 12,q4,90%
+05/09/2016,"43 Herberton Drive, Rialto/Crumlin, Dublin",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+09/09/2016,"53 Rutland Grove, Crumlin, Dublin 12",Dublin,223000.0,No,Crumlin,Dublin 12,q2,50%
+14/09/2016,"390 Captains Road, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+15/09/2016,"30 Windmill Avenue, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+19/09/2016,"160 Old County Rd, Crumlin, Dublin 12",Dublin,279000.0,No,Crumlin,Dublin 12,q3,80%
+19/09/2016,"298 Captains Rd, Crumlin, Dublin 12",Dublin,247150.0,No,Crumlin,Dublin 12,q3,60%
+23/09/2016,"85 Raphoe Rd, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+26/09/2016,"45 Kells Road, Crumlin, Dublin 12",Dublin,181000.0,No,Crumlin,Dublin 12,q2,40%
+27/09/2016,"10 Herberton Dr, Crumlin, Dublin 12",Dublin,528000.0,No,Crumlin,Dublin 12,q4,100%
+27/09/2016,"69 Downpatrick Rd, Crumlin, Dublin 12",Dublin,269000.0,No,Crumlin,Dublin 12,q3,70%
+29/09/2016,"99 Leighlin Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+03/10/2016,"145 Cashel Rd, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+06/10/2016,"11 Fort Ostman, Old Co Rd, Crumlin",Dublin,190000.0,No,Crumlin,Dublin 12,q2,40%
+07/10/2016,"9 Leighlin Road, Crumlin, Dublin 12",Dublin,170250.0,No,Crumlin,Dublin 12,q2,30%
+14/10/2016,"293 Clogher Rd, Crumlin, Dublin 12",Dublin,268000.0,No,Crumlin,Dublin 12,q3,70%
+18/10/2016,"22 Clonfert Rd, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+27/10/2016,"6 Innismore, Crumlin Village, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+07/11/2016,"376 Clogher Road, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+15/11/2016,"59 Crumlin Rd, Crumlin, Dublin 12",Dublin,384000.0,No,Crumlin,Dublin 12,q4,100%
+18/11/2016,"42 Downpatrick Road, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+29/11/2016,"106 Captains Ave, Crumlin, Dublin 12",Dublin,192000.0,No,Crumlin,Dublin 12,q2,40%
+01/12/2016,"144 Captains Rd, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+06/12/2016,"159 Downpatrick Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+06/12/2016,"28 Kildare Rd, Crumlin, Dublin 12",Dublin,186000.0,No,Crumlin,Dublin 12,q2,40%
+07/12/2016,"158 Old Co Rd, Crumlin, Dublin 12",Dublin,250002.0,No,Crumlin,Dublin 12,q3,60%
+08/12/2016,"100 Stanaway Road, Crumlin, Kimmage",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+08/12/2016,"201 Captains Rd, Crumlin, Dublin 12",Dublin,131923.31,No,Crumlin,Dublin 12,q1,20%
+09/12/2016,"201 Captains Rd, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+09/12/2016,"80 Rathdrum Rd, Crumlin, Dublin 12",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+12/12/2016,"1 The Belfry, St. Marys Crumlin, Dublin 12",Dublin,295000.0,No,Crumlin,Dublin 12,q4,80%
+12/12/2016,"18 Brickfield Dr, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+12/12/2016,"Apt. 28 Crumlin Road, Crumlin, Dublin 12",Dublin,75375.0,No,Crumlin,Dublin 12,q1,10%
+16/12/2016,"238 Sundrive Rd, Crumlin, Dublin 12",Dublin,485000.0,No,Crumlin,Dublin 12,q4,100%
+16/12/2016,"64 Old County Glen, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+16/12/2016,"97 Beechfield Road, Crumlin, Dublin 12",Dublin,405000.0,No,Crumlin,Dublin 12,q4,100%
+19/12/2016,"105 Lismore Rd, Crumlin, Dublin 12",Dublin,248000.0,No,Crumlin,Dublin 12,q3,60%
+20/12/2016,"50 Derry Rd Crumlin Dublin 12, Dublin 12, Dublin",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+20/12/2016,"87 Cashel Ave, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+21/12/2016,"Apt 1, 10/10A St Agnes Rd, Crumlin",Dublin,185000.0,No,Crumlin,Dublin 12,q2,40%
+22/12/2016,"290 Kildare Rd, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+23/12/2016,"1 Clogher Rd, Crumlin, Dublin 12",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+23/12/2016,"145 Kildare Road, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+06/01/2017,"56 Crumlin Rd, Crumlin, Dublin 12",Dublin,357692.5,No,Crumlin,Dublin 12,q4,100%
+12/01/2017,"180 Kildare Rd, Crumlin, Dublin 12",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+13/01/2017,"3 St Agnes Terrace, Crumlin, Dublin 12",Dublin,220000.0,No,Crumlin,Dublin 12,q2,50%
+16/01/2017,"8 Somerville Green, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+18/01/2017,"10 Saul Rd, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+19/01/2017,"378 Cashel Rd, Crumlin, Dublin",Dublin,215000.0,No,Crumlin,Dublin 12,q2,50%
+20/01/2017,"51 Drimnagh Rd, Crumlin, Dublin 12",Dublin,360000.0,No,Crumlin,Dublin 12,q4,100%
+25/01/2017,"36 Clogher Rd, Crumlin, Dublin 12",Dublin,252000.0,No,Crumlin,Dublin 12,q3,70%
+09/02/2017,"167 Bangor Rd, Crumlin, Dublin 12",Dublin,301000.0,No,Crumlin,Dublin 12,q4,80%
+10/02/2017,"255 Captains Rd, Crumlin, Dublin 12",Dublin,176000.0,No,Crumlin,Dublin 12,q2,30%
+15/02/2017,"43 St Agnes Road, Crumlin, Dublin 12",Dublin,390000.0,No,Crumlin,Dublin 12,q4,100%
+16/02/2017,"33 Lissadel Ave, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+17/02/2017,"20 Clogher Rd, Crumlin, Dublin 12",Dublin,267000.0,No,Crumlin,Dublin 12,q3,70%
+17/02/2017,"26 Rutland Grove, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+22/02/2017,"25 Captains Drive, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+22/02/2017,"52 St Agnes Road, Crumlin, Dublin 12",Dublin,435000.0,No,Crumlin,Dublin 12,q4,100%
+23/02/2017,"22 Windmill Ave, Crumlin, Dublin 12",Dublin,195000.0,No,Crumlin,Dublin 12,q2,40%
+24/02/2017,"91 Windmill Rd, Crumlin, Dublin 12",Dublin,252000.0,No,Crumlin,Dublin 12,q3,70%
+24/02/2017,"99 Downpatrick Rd, Crumlin, Dublin 12",Dublin,222000.0,No,Crumlin,Dublin 12,q2,50%
+27/02/2017,"3 Slane Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+27/02/2017,"68 Derry Park, Crumlin, Dublin 12",Dublin,195000.0,No,Crumlin,Dublin 12,q2,40%
+07/03/2017,"285 Kildare Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+07/03/2017,"73 Saul Rd, Crumlin, Dublin 12",Dublin,305000.0,No,Crumlin,Dublin 12,q4,90%
+08/03/2017,"89 Windmill Road, Crumlin, Dublin 12",Dublin,232000.0,No,Crumlin,Dublin 12,q3,60%
+10/03/2017,"68 Leighlin Road, Crumlin, Dublin 12",Dublin,269000.0,No,Crumlin,Dublin 12,q3,70%
+13/03/2017,"390 Clogher Rd, Crumlin, Dublin 12",Dublin,289000.0,No,Crumlin,Dublin 12,q3,80%
+14/03/2017,"5 Stannaway Rd, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+15/03/2017,"32 Lismore Rd, Crumlin, Dublin 12",Dublin,287000.0,No,Crumlin,Dublin 12,q3,80%
+21/03/2017,"106 Rathdrum Rd, Crumlin, Dublin 12",Dublin,130812.7,No,Crumlin,Dublin 12,q1,20%
+21/03/2017,"165 Kildare Rd, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+22/03/2017,"335 Clogher Road, Crumlin, Dublin 12",Dublin,257000.0,No,Crumlin,Dublin 12,q3,70%
+22/03/2017,"37 Monasterboice Rd, Crumlin, Dublin 12",Dublin,222000.0,No,Crumlin,Dublin 12,q2,50%
+23/03/2017,"252 Cashel Rd, Crumlin Dublin 12, Dublin",Dublin,342000.0,No,Crumlin,Dublin 12,q4,90%
+24/03/2017,"167 Captains Road, Crumlin, Dublin 12",Dublin,258500.0,No,Crumlin,Dublin 12,q3,70%
+04/04/2017,"193 Windmill Rd, Crumlin, Dublin 12",Dublin,239000.0,No,Crumlin,Dublin 12,q3,60%
+04/04/2017,"7 Stanaway Road, Crumlin, Dublin 12",Dublin,296000.0,No,Crumlin,Dublin 12,q4,80%
+07/04/2017,"55 St Marys Park, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+12/04/2017,"205 Sundrive Rd, Crumlin, Dublin 12",Dublin,480000.0,No,Crumlin,Dublin 12,q4,100%
+12/04/2017,"55 Cashel Rd, Crumlin, Dublin 12",Dublin,192000.0,No,Crumlin,Dublin 12,q2,40%
+20/04/2017,"18 Downpatrick Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+25/04/2017,"25 Windmill Road, Crumlin, Dublin 12",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+26/04/2017,"62 Stannaway Road, Crumlin, Dublin 12",Dublin,254500.0,No,Crumlin,Dublin 12,q3,70%
+28/04/2017,"171 Leighlin Rd, Crumlin, Dublin 12",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+10/05/2017,"62 Lismore Rd, Crumlin, Dublin 12",Dublin,283000.0,No,Crumlin,Dublin 12,q3,80%
+12/05/2017,"4 Herberton Drive, Crumlin, Dublin 12",Dublin,330000.0,No,Crumlin,Dublin 12,q4,90%
+16/05/2017,"32 Kilfenora Rd, Crumlin, Dublin",Dublin,314500.0,No,Crumlin,Dublin 12,q4,90%
+23/05/2017,"373 Kildare Rd, Crumlin, Dublin 12",Dublin,345000.0,No,Crumlin,Dublin 12,q4,90%
+24/05/2017,"54 Durrow Rd, Crumlin, Dublin 12",Dublin,255000.0,No,Crumlin,Dublin 12,q3,70%
+26/05/2017,"403 Clogher Rd, Crumlin, Dublin 12",Dublin,295000.0,No,Crumlin,Dublin 12,q4,80%
+01/06/2017,"139 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,232000.0,No,Crumlin,Dublin 12,q3,60%
+02/06/2017,"26 Leighlin Road, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+02/06/2017,"386 Clogher Road, Crumlin, Dublin 12",Dublin,395000.0,No,Crumlin,Dublin 12,q4,100%
+07/06/2017,"21 Lisle Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+08/06/2017,"6 Stannaway Ave, Crumlin, Dublin 12",Dublin,178906.0,No,Crumlin,Dublin 12,q2,40%
+09/06/2017,"131 Saul Rd, Crumlin, Dublin 12",Dublin,380000.0,No,Crumlin,Dublin 12,q4,100%
+13/06/2017,"53 Herberton Dr, Crumlin, Dublin 12",Dublin,345000.0,No,Crumlin,Dublin 12,q4,90%
+16/06/2017,"11 Crumlin Village, Crumlin, Dublin 12",Dublin,330000.0,No,Crumlin,Dublin 12,q4,90%
+16/06/2017,"13A, St Agnes Terrace, Crumlin Village",Dublin,330000.0,Yes,Crumlin,Dublin 12,q4,90%
+16/06/2017,"13B, St Agnes Village, Crumlin",Dublin,330000.0,Yes,Crumlin,Dublin 12,q4,90%
+22/06/2017,"108 Galtymore Rd, Crumlin, Dublin 12",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+26/06/2017,"374 Kildare Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+30/06/2017,"88 Derry Rd, Crumlin, Dublin 12",Dublin,251500.0,No,Crumlin,Dublin 12,q3,60%
+05/07/2017,"15 Kildare Rd, Crumlin, Dublin 12",Dublin,227000.0,No,Crumlin,Dublin 12,q2,50%
+11/07/2017,"76 Clonard Rd, Crumlin, Dublin 12",Dublin,256150.0,No,Crumlin,Dublin 12,q3,70%
+12/07/2017,"200 Clonard Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+13/07/2017,"11 Derry Rd, Crumlin, Dublin 12",Dublin,286000.0,No,Crumlin,Dublin 12,q3,80%
+14/07/2017,"432 Clogher Rd, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+14/07/2017,"49 Cashel Rd, Crumlin, Dublin 12",Dublin,277000.0,No,Crumlin,Dublin 12,q3,80%
+19/07/2017,"19 Kildare Park, Crumlin, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+27/07/2017,"58 Derry Rd, Crumlin, Dublin 12",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+28/07/2017,"97 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,259000.0,No,Crumlin,Dublin 12,q3,70%
+01/08/2017,"56 Balfe Rd, East, Crumlin",Dublin,230000.0,No,Crumlin,Dublin 12,q2,50%
+02/08/2017,"125 Clogher Rd, Crumlin, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+02/08/2017,"18 Saul Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+03/08/2017,"300 Cashel Rd, Crumlin, Dublin 12",Dublin,262000.0,No,Crumlin,Dublin 12,q3,70%
+04/08/2017,"118 Kildare Road, Crumlin, Dublin 12",Dublin,277000.0,No,Crumlin,Dublin 12,q3,80%
+04/08/2017,"5 Monasterboice Rd, Crumlin, Dublin",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+04/08/2017,"90 Captains Ave, Crumlin, Dublin 12",Dublin,269000.0,No,Crumlin,Dublin 12,q3,70%
+11/08/2017,"166 Rutland Avenue, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+11/08/2017,"5 Raleigh Sq, Crumlin, Dublin 12",Dublin,100000.0,No,Crumlin,Dublin 12,q1,10%
+14/08/2017,"7 Lismore Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+15/08/2017,"271 Crumlin Road, Crumlin, Dublin 12",Dublin,345000.0,No,Crumlin,Dublin 12,q4,90%
+18/08/2017,"70 Crumlin Rd, Crumlin, Dublin 12",Dublin,361000.0,No,Crumlin,Dublin 12,q4,100%
+22/08/2017,"190 Stannaway Rd, Crumlin, Dublin 12",Dublin,139048.75,No,Crumlin,Dublin 12,q1,20%
+25/08/2017,"190 Clonard Rd, Crumlin, Dublin 12",Dublin,249950.0,No,Crumlin,Dublin 12,q3,60%
+25/08/2017,"86A Benbulbin Road, Crumlin, Dublin 12",Dublin,327500.0,No,Crumlin,Dublin 12,q4,90%
+30/08/2017,"56 Kilfenora Rd, Stannaway Rd, Crumlin Dublin 12",Dublin,323000.0,No,Crumlin,Dublin 12,q4,90%
+01/09/2017,"1 Rafter'S Grove, Rafter'S Road, Crumlin",Dublin,339207.05,Yes,Crumlin,Dublin 12,q4,90%
+01/09/2017,"No. 2 Rafter'S Grove, Rafter'S Road, Crumlin",Dublin,339207.05,Yes,Crumlin,Dublin 12,q4,90%
+01/09/2017,"No. 3 Rafter'S Grove, Rafter'S Road, Crumlin",Dublin,321585.9,Yes,Crumlin,Dublin 12,q4,90%
+04/09/2017,"92 Cashel Rd, Crumlin, Dublin 12",Dublin,273000.0,No,Crumlin,Dublin 12,q3,70%
+06/09/2017,"26 Windmill Ave, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+07/09/2017,"17 Captains Dr, Crumlin, Dublin 12",Dublin,315255.0,No,Crumlin,Dublin 12,q4,90%
+12/09/2017,"11A And 11B, Saint Agnes Road, Crumlin Village",Dublin,660000.0,Yes,Crumlin,Dublin 12,q4,100%
+12/09/2017,"23 Kildare Rd, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+12/09/2017,"255 Captains Rd, Crumlin, Dublin 12",Dublin,320300.0,No,Crumlin,Dublin 12,q4,90%
+13/09/2017,"40 Captains Ave, Crumlin, Dublin 12",Dublin,170000.0,No,Crumlin,Dublin 12,q2,30%
+15/09/2017,"26 Windmill Rd, Crumlin, Dublin 12",Dublin,320000.0,No,Crumlin,Dublin 12,q4,90%
+19/09/2017,"7 Windmill Rd, Crumlin, Dublin 12",Dublin,350000.0,No,Crumlin,Dublin 12,q4,100%
+21/09/2017,"122 Down Patrick Rd, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q3,60%
+21/09/2017,"81 Durrow Rd, Crumlin, Dublin 12",Dublin,262000.0,No,Crumlin,Dublin 12,q3,70%
+22/09/2017,"74 Saul Road, Crumlin, Dublin 12",Dublin,257000.0,No,Crumlin,Dublin 12,q3,70%
+26/09/2017,"53 Windmill Rd, Crumlin, Dublin 12",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+29/09/2017,"12A Aishling Close, Old County Rd, Crumlin Dublin 12",Dublin,360000.0,No,Crumlin,Dublin 12,q4,100%
+29/09/2017,"334 Captains Rd, Crumlin, Dublin 12",Dublin,293200.0,No,Crumlin,Dublin 12,q4,80%
+04/10/2017,"34 Innismore, Crumlin Village, Dublin 12",Dublin,350000.0,No,Crumlin,Dublin 12,q4,100%
+05/10/2017,"102 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,250100.0,No,Crumlin,Dublin 12,q3,60%
+05/10/2017,"54 Kells Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+09/10/2017,"135 Stannaway Rd, Crumlin, Dublin 12",Dublin,277000.0,No,Crumlin,Dublin 12,q3,80%
+12/10/2017,"110 Iveagh Gardens, Crumlin, Dublin 12",Dublin,415000.0,No,Crumlin,Dublin 12,q4,100%
+17/10/2017,"20 Downpatrick Rd, Crumlin, Dublin 12",Dublin,269000.0,No,Crumlin,Dublin 12,q3,70%
+19/10/2017,"52A Windmill Park, Crumlin, Dublin 12",Dublin,284000.0,No,Crumlin,Dublin 12,q3,80%
+19/10/2017,"64 Lismore Rd, Crumlin, Dublin 12",Dublin,335000.0,No,Crumlin,Dublin 12,q4,90%
+20/10/2017,"420 Clogher Rd, Crumlin, Dublin City",Dublin,450000.0,No,Crumlin,Dublin 12,q4,100%
+24/10/2017,"2 Clogher Green, Rutland Grove, Crumlin Dublin 12",Dublin,380000.0,No,Crumlin,Dublin 12,q4,100%
+24/10/2017,"34 Windmill Rd, Crumlin, Dublin 12",Dublin,365000.0,No,Crumlin,Dublin 12,q4,100%
+25/10/2017,"329 Captains Road, Crumlin, Dublin 12",Dublin,251000.0,No,Crumlin,Dublin 12,q3,60%
+25/10/2017,"85 Blarney Park, Crumlin, Dublin 12",Dublin,364500.0,No,Crumlin,Dublin 12,q4,100%
+26/10/2017,"22 St Marys Crescent, Crumlin, Dublin 12",Dublin,465000.0,No,Crumlin,Dublin 12,q4,100%
+26/10/2017,"51 Kildare Rd, Crumlin, Dublin 12",Dublin,344000.0,No,Crumlin,Dublin 12,q4,90%
+27/10/2017,"15 Raleigh Sq, Crumlin, Dublin 8",Dublin,385000.0,No,Crumlin,Dublin 12,q4,100%
+27/10/2017,"40A Cashel Avenue, Crumlin, Dublin12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+01/11/2017,"187 Windmill Road, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+03/11/2017,"207 Kildare Rd, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q3,60%
+09/11/2017,"236A Sundrive Rd, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+10/11/2017,"29 Armagh Road, Crumlin, Dublin 12",Dublin,454000.0,No,Crumlin,Dublin 12,q4,100%
+10/11/2017,"3 Dangan Ave, Crumlin, Dublin 12",Dublin,441750.0,No,Crumlin,Dublin 12,q4,100%
+13/11/2017,"21 Somerville Ave, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+13/11/2017,"Flat 1 39 Ravensdale Park, Crumlin, Dublin 12",Dublin,130000.0,No,Crumlin,Dublin 12,q1,20%
+15/11/2017,"7 Derry Park, Crumlin, Dublin 12",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+15/11/2017,"Apt 107 Old County Road, Crumlin, Dublin 12",Dublin,135000.0,No,Crumlin,Dublin 12,q1,20%
+17/11/2017,"118 Downpatrick Road, Crumlin, Dublin 12",Dublin,310000.0,No,Crumlin,Dublin 12,q4,90%
+21/11/2017,"217 Clogher Road, Crumlin, Dublin 12",Dublin,333000.0,No,Crumlin,Dublin 12,q4,90%
+21/11/2017,"50 Kildare Rd, Crumlin, Dublin 12",Dublin,287000.0,No,Crumlin,Dublin 12,q3,80%
+22/11/2017,"111 Rutland Ave, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+23/11/2017,"247 Clougher Rd, Crumlin, Dublin 12",Dublin,293000.0,No,Crumlin,Dublin 12,q4,80%
+23/11/2017,"98 Iveagh Gardens, Crumlin, Dublin 12",Dublin,575000.0,No,Crumlin,Dublin 12,q4,100%
+24/11/2017,"142 Bangor Rd, Crumlin, Dublin 12",Dublin,352000.0,No,Crumlin,Dublin 12,q4,100%
+24/11/2017,"84 Lismore Rd, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+27/11/2017,"191 Crumlin Rd, Crumlin, Dublin 12",Dublin,435000.0,No,Crumlin,Dublin 12,q4,100%
+30/11/2017,"88 Iveagh Gardens, Crumlin Rd, Dublin 12",Dublin,525000.0,No,Crumlin,Dublin 12,q4,100%
+01/12/2017,"137 Old Co Rd, Crumlin, Dublin 12",Dublin,315000.0,No,Crumlin,Dublin 12,q4,90%
+04/12/2017,"25 Windmill Road, Crumlin, Dublin 12",Dublin,350000.0,No,Crumlin,Dublin 12,q4,100%
+06/12/2017,"304 Clonard Road, Crumlin, Dublin 12",Dublin,315000.0,No,Crumlin,Dublin 12,q4,90%
+07/12/2017,"182 Clonard Rd, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+08/12/2017,"62 Downpatrick Rd, Crumlin, Dublin 12",Dublin,312000.0,No,Crumlin,Dublin 12,q4,90%
+12/12/2017,"294 Kildare Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+12/12/2017,"64 Downpatrick Rd, Crumlin, Dublin",Dublin,376000.0,No,Crumlin,Dublin 12,q4,100%
+14/12/2017,"44 Saul Rd, Crumlin, Dublin 12",Dublin,295000.0,No,Crumlin,Dublin 12,q4,80%
+15/12/2017,"141 Downpatrick Rd, Crumlin, Dublin 12",Dublin,244000.0,No,Crumlin,Dublin 12,q3,60%
+19/12/2017,"28 Monasterboice Rd, Crumlin, Dublin 12",Dublin,339000.0,No,Crumlin,Dublin 12,q4,90%
+02/01/2018,"34 Slane Rd, Crumlin, Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+03/01/2018,"147 Kildare Rd, Crumlin, Dublin 12",Dublin,372000.0,No,Crumlin,Dublin 12,q4,100%
+08/01/2018,"19 Downpatrick Road, Crumlin, Dublin 12",Dublin,269000.0,No,Crumlin,Dublin 12,q3,70%
+12/01/2018,"148 Kildare Rd, Crumlin, Dublin 12",Dublin,291000.0,No,Crumlin,Dublin 12,q4,80%
+12/01/2018,"211 Clogher Road, Crumlin, Dublin 12",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+19/01/2018,"59 Derry Dr, Crumlin, Dublin 12",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+22/01/2018,"77 Old County Glen, Crumlin, Dublin 12",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+23/01/2018,"132 Captains Ave, Crumlin, Dublin 12",Dublin,277000.0,No,Crumlin,Dublin 12,q3,80%
+24/01/2018,"13 Windmill Rd, Crumlin, Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+24/01/2018,"54 Lismore Rd, Crumlin, Dublin City",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+25/01/2018,"34 Clogher Rd, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+25/01/2018,"42, Windmill Park, Crumlin Dublin 12",Dublin,270000.0,No,Crumlin,Dublin 12,q3,70%
+29/01/2018,"52 Bangor Rd, Crumlin, Dublin 12",Dublin,244150.0,No,Crumlin,Dublin 12,q3,60%
+29/01/2018,"78 Aughavanagh Rd, Crumlin, Dublin 12",Dublin,327000.0,No,Crumlin,Dublin 12,q4,90%
+31/01/2018,"77 Clonard Rd, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+31/01/2018,"93 Iveagh Gardens, Crumlin Rd, Dublin 12",Dublin,515000.0,No,Crumlin,Dublin 12,q4,100%
+06/02/2018,"137 Clogher Rd, Crumlin, Dublin 12",Dublin,340340.0,No,Crumlin,Dublin 12,q4,90%
+06/02/2018,"178 Clonard Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+07/02/2018,"108 Cashel Ave, Crumlin, Dublin 12",Dublin,287000.0,No,Crumlin,Dublin 12,q3,80%
+07/02/2018,"52 Old County Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+14/02/2018,"292 Captains Rd, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+14/02/2018,"292 Captains Rd, Crumlin, Dublin 12",Dublin,35598.65,No,Crumlin,Dublin 12,q1,10%
+15/02/2018,"109 Cashel Rd, Crumlin, Dublin 12",Dublin,228500.0,No,Crumlin,Dublin 12,q2,50%
+16/02/2018,"54 Leighlin Rd, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+22/02/2018,"6A Rutland Grove, Crumlin Dublin 12, Dublin",Dublin,372000.0,No,Crumlin,Dublin 12,q4,100%
+22/02/2018,"Apt 1, Rear 150 Sundrive Road, Crumlin",Dublin,451000.0,No,Crumlin,Dublin 12,q4,100%
+26/02/2018,"230 Stannaway Rd, Crumlin Dublin 12, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+08/03/2018,"4 Captains Ave, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q3,60%
+14/03/2018,"43 Innismore, Crumlin Village, Dublin 12",Dublin,358000.0,No,Crumlin,Dublin 12,q4,100%
+20/03/2018,"9 Kells Rd, Crumlin, Dublin 12",Dublin,279000.0,No,Crumlin,Dublin 12,q3,80%
+27/03/2018,"49 Crumlin Rd, Crumlin, Dublin 12",Dublin,403000.0,No,Crumlin,Dublin 12,q4,100%
+28/03/2018,"106 Lismore Rd, Crumlin Dublin 12, Dublin",Dublin,331000.0,No,Crumlin,Dublin 12,q4,90%
+29/03/2018,"18 Windmill Crescent, Crumlin, Dublin 12",Dublin,388000.0,No,Crumlin,Dublin 12,q4,100%
+03/04/2018,"326 Kildare Rd, Crumlin, Dublin 12",Dublin,320000.0,No,Crumlin,Dublin 12,q4,90%
+06/04/2018,"142 Downpatrick Rd, Crumlin, Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+11/04/2018,"101 Bangor Rd, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+12/04/2018,"292 Kildare Rd, Crumlin, Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+17/04/2018,"185 Kildare Rd, Crumlin, Dublin 12",Dublin,286000.0,No,Crumlin,Dublin 12,q3,80%
+20/04/2018,"97A Stannaway Rd, Crumlin, Dublin",Dublin,262000.0,No,Crumlin,Dublin 12,q3,70%
+20/04/2018,"Apt 49, Fort Ostman, Old Crumlin Dublin 12",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+25/04/2018,"8 Monasterboice Rd, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+03/05/2018,"162 Lismore Rd, Crumlin, Dublin 12",Dublin,278000.0,No,Crumlin,Dublin 12,q3,80%
+04/05/2018,"628 Clonard Road, Crumlin, Dublin 12",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+08/05/2018,"19 Cashel Road, Crumlin, Dublin 12",Dublin,243000.0,No,Crumlin,Dublin 12,q3,60%
+09/05/2018,"15 Durrow Rd, Crumlin, Dublin 12",Dublin,267000.0,No,Crumlin,Dublin 12,q3,70%
+11/05/2018,"240 Kildare Rd, Crumlin, Dublin 12",Dublin,236000.0,No,Crumlin,Dublin 12,q3,60%
+11/05/2018,"4 Moracrete Cottages, Crumlin, Dublin 12",Dublin,295000.0,No,Crumlin,Dublin 12,q4,80%
+22/05/2018,"240 Stannaway Rd, Crumlin, Dublin 12",Dublin,326000.0,No,Crumlin,Dublin 12,q4,90%
+22/05/2018,"78 Raphoe Rd, Crumlin, Dublin 12",Dublin,370000.0,No,Crumlin,Dublin 12,q4,100%
+24/05/2018,"283 Captains Rd, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+25/05/2018,"107 Raphoe Rd, Crumlin, Dublin 12",Dublin,405000.0,No,Crumlin,Dublin 12,q4,100%
+25/05/2018,"282 Cashel Rd, Crumlin, Dublin 12",Dublin,360000.0,No,Crumlin,Dublin 12,q4,100%
+28/05/2018,"272 Crumlin Rd, Dublin 12, Dublin",Dublin,390000.0,No,Crumlin,Dublin 12,q4,100%
+28/05/2018,"372 Clogher Rd, Crumlin, Dublin 12",Dublin,437500.0,No,Crumlin,Dublin 12,q4,100%
+30/05/2018,"56 Swanward Court, Parnell Rd, Crumlin Dublin 12",Dublin,217000.0,No,Crumlin,Dublin 12,q2,50%
+05/06/2018,"202 Sundrive Rd, Crumlin, Dublin 12",Dublin,405000.0,No,Crumlin,Dublin 12,q4,100%
+08/06/2018,"13 Derry Park, Crumlin, Dublin 12",Dublin,305000.0,No,Crumlin,Dublin 12,q4,90%
+11/06/2018,"30 Bangor Rd, Crumlin, Dublin City",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+13/06/2018,"49 Leighlin Road, Crumlin, Dublin 12",Dublin,255000.0,No,Crumlin,Dublin 12,q3,70%
+13/06/2018,"73 St Agnes Rd, Crumlin, Dublin 12",Dublin,420000.0,No,Crumlin,Dublin 12,q4,100%
+14/06/2018,"75 Leighlin Rd, Crumlin, Dublin 12",Dublin,271000.0,No,Crumlin,Dublin 12,q3,70%
+15/06/2018,"289 Captains Rd, Crumlin, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+15/06/2018,"53 Crumlin Rd, Crumlin, Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+22/06/2018,"42 Raphoe Rd, Crumlin, Dublin 12",Dublin,385000.0,No,Crumlin,Dublin 12,q4,100%
+25/06/2018,"333 Clogher Rd, Crumlin, Dublin",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+26/06/2018,"328 Clonard Rd, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+26/06/2018,"6 Fernvale Dr, Crumlin, Dublin",Dublin,420000.0,No,Crumlin,Dublin 12,q4,100%
+27/06/2018,"71 St Agnes Rd, Crumlin, Dublin 12",Dublin,556000.0,No,Crumlin,Dublin 12,q4,100%
+02/07/2018,"244 Stannaway Road, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+02/07/2018,"53 Derry Rd, Crumlin, Dublin 12",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+03/07/2018,"151A Crumlin Rd, Dublin 12, Dublin",Dublin,230000.0,No,Crumlin,Dublin 12,q3,60%
+13/07/2018,"132 Cashel Rd, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+19/07/2018,"158 Lismore Rd, Crumlin, Dublin 12",Dublin,283000.0,No,Crumlin,Dublin 12,q3,80%
+20/07/2018,"165 Clonmacnoise Road, Crumlin, Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+20/07/2018,"32 Saul Road, Crumlin, Dublin 12",Dublin,310000.0,No,Crumlin,Dublin 12,q4,90%
+23/07/2018,"403 Captain'S Road, Crumlin, Dublin 12",Dublin,276000.0,No,Crumlin,Dublin 12,q3,70%
+24/07/2018,"158A, Kildare Rd, Crumlin Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+26/07/2018,"28 Kildare Rd, Crumlin, Dublin 12",Dublin,310000.0,No,Crumlin,Dublin 12,q4,90%
+26/07/2018,"6 St Agnes Rd, Crumlin, Dublin",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+30/07/2018,"Apt 1, 178 Crumlin Rd, Dublin 12",Dublin,200000.0,No,Crumlin,Dublin 12,q2,40%
+31/07/2018,"35 Clogher Road, Crumlin, Dublin 12",Dublin,295000.0,No,Crumlin,Dublin 12,q4,80%
+02/08/2018,"61 Kildare Rd, Crumlin, Dublin 12",Dublin,292500.0,No,Crumlin,Dublin 12,q4,80%
+10/08/2018,"208 Kildare Rd, Crumlin, Dublin 12",Dublin,172225.0,No,Crumlin,Dublin 12,q2,30%
+14/08/2018,"193 Downpatrick Rd, Crumlin, Dublin 12",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+15/08/2018,"No 30 Windmill Road, Crumlin, Dublin 12",Dublin,385000.0,No,Crumlin,Dublin 12,q4,100%
+17/08/2018,"179 Clonard Rd, Crumlin, Dublin 12",Dublin,262000.0,No,Crumlin,Dublin 12,q3,70%
+17/08/2018,"81 Cashel Rd, Crumlin Dublin 12, Dublin",Dublin,348000.0,No,Crumlin,Dublin 12,q4,90%
+20/08/2018,"1 Aughavannagh Road, Crumlin, Dublin 12",Dublin,350000.0,No,Crumlin,Dublin 12,q4,100%
+20/08/2018,"3 Faughart Rd, Crumlin, Dublin 12",Dublin,305000.0,No,Crumlin,Dublin 12,q4,90%
+30/08/2018,"102 Lismore Rd, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+31/08/2018,"253 Captains Rd, Crumlin, Dublin 12",Dublin,270000.0,No,Crumlin,Dublin 12,q3,70%
+31/08/2018,"32 Faughart Rd, Crumlin, Dublin 12",Dublin,272000.0,No,Crumlin,Dublin 12,q3,70%
+31/08/2018,"63 Rutland Ave, Crumlin Dublin 12, Dublin",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+06/09/2018,"4 Cashel Rd, Crumlin, Dublin 12",Dublin,336000.0,No,Crumlin,Dublin 12,q4,90%
+13/09/2018,"422 Clogher Rd, Crumlin, Dublin 12",Dublin,427000.0,No,Crumlin,Dublin 12,q4,100%
+14/09/2018,"272 Clonard Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+18/09/2018,"65 Stannaway Ave, Crumlin, Dublin 12",Dublin,352000.0,No,Crumlin,Dublin 12,q4,100%
+19/09/2018,"93 Aughavannagh Rd, Crumlin, Dublin 12",Dublin,336000.0,No,Crumlin,Dublin 12,q4,90%
+20/09/2018,"103 Bangor Rd, Crumlin, Dublin 12",Dublin,350000.0,No,Crumlin,Dublin 12,q4,100%
+20/09/2018,"40 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,295000.0,No,Crumlin,Dublin 12,q4,80%
+20/09/2018,"78 Monasterboice Rd, Crumlin, Dublin 12",Dublin,330000.0,No,Crumlin,Dublin 12,q4,90%
+26/09/2018,"226 Sundrive Rd, Crumlin, Dublin 12",Dublin,415000.0,No,Crumlin,Dublin 12,q4,100%
+28/09/2018,"205 Clonard Rd, Crumlin, Dublin 12",Dublin,302000.0,No,Crumlin,Dublin 12,q4,80%
+01/10/2018,"39 Glenealy Rd, Crumlin, Dublin 12",Dublin,405000.0,No,Crumlin,Dublin 12,q4,100%
+03/10/2018,"58 Devenish Rd, Crumlin, Dublin 12",Dublin,310000.0,No,Crumlin,Dublin 12,q4,90%
+16/10/2018,"242 Kildare Rd, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q3,60%
+17/10/2018,"387 Captains Rd, Crumlin, Dublin 12",Dublin,330000.0,No,Crumlin,Dublin 12,q4,90%
+22/10/2018,"233 Windmill Rd, Crumlin Dublin 12, Dublin",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+22/10/2018,"38 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,276000.0,No,Crumlin,Dublin 12,q3,80%
+24/10/2018,"14 Rathdrum Rd, Crumlin, Dublin 12",Dublin,336000.0,No,Crumlin,Dublin 12,q4,90%
+24/10/2018,"14A Rutland Grove, Crumlin, Dublin 12",Dublin,139520.0,No,Crumlin,Dublin 12,q1,20%
+30/10/2018,"85 St Agnes Park, Crumlin, Dublin 12",Dublin,400000.0,No,Crumlin,Dublin 12,q4,100%
+30/10/2018,"98 Bangor Road, Crumlin, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+30/10/2018,"Apartments 1-4, 46 Crumlin Road, Crumlin",Dublin,360000.0,No,Crumlin,Dublin 12,q4,100%
+07/11/2018,"11 Clonard Rd, Crumlin, Dublin 12",Dublin,408000.0,No,Crumlin,Dublin 12,q4,100%
+15/11/2018,"262 Crumlin Rd, Dublin 12, Dublin",Dublin,449000.0,No,Crumlin,Dublin 12,q4,100%
+16/11/2018,"48 Whitehall Rd West, Crumlin, Dublin 12",Dublin,283000.0,No,Crumlin,Dublin 12,q3,80%
+16/11/2018,"74 Clonard Rd, Crumlin, Dublin 12",Dublin,283000.0,No,Crumlin,Dublin 12,q3,80%
+20/11/2018,"189 Clonard Rd, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+29/11/2018,"34 Crumlin Rd, Crumlin, Dublin 12",Dublin,350000.0,No,Crumlin,Dublin 12,q4,100%
+04/12/2018,"5 Monasterboice Rd, Crumlin, Dublin",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+05/12/2018,"112 Parnell Rd, Crumlin, Dublin 12",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+05/12/2018,"51 Saul Rd, Crumlin, Dublin 12",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+06/12/2018,"319 Kildare Rd, Crumlin, Dublin 12",Dublin,298000.0,No,Crumlin,Dublin 12,q4,80%
+06/12/2018,"75 Cashel Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+10/12/2018,"1 St. Agnes Crescent, St. Agnes Road, Crumlin",Dublin,2000000.0,Yes,Crumlin,Dublin 12,q4,100%
+10/12/2018,"73 Monasterboice Rd, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+13/12/2018,"139 Clogher Rd, Crumlin, Dublin 12",Dublin,320000.0,No,Crumlin,Dublin 12,q4,90%
+14/12/2018,"288 Captains Rd, Crumlin, Dublin 12",Dublin,294000.0,No,Crumlin,Dublin 12,q4,80%
+14/12/2018,"60 Old Co Glen, Crumlin, Dublin",Dublin,381664.0,No,Crumlin,Dublin 12,q4,100%
+18/12/2018,"275 Cashel Road, Crumlin, Dublin 12",Dublin,262000.0,No,Crumlin,Dublin 12,q3,70%
+19/12/2018,"329 Captains Road, Crumlin, Dublin 12",Dublin,275471.05,No,Crumlin,Dublin 12,q3,70%
+19/12/2018,"88 Cashel Ave, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+14/01/2019,"61 Crumlin Rd, Dublin 12, Dublin",Dublin,475000.0,No,Crumlin,Dublin 12,q4,100%
+18/01/2019,"183 Downpatrick Rd, Crumlin, Dublin 12",Dublin,142500.0,No,Crumlin,Dublin 12,q1,20%
+18/01/2019,"50 Fort Ostman, Old County Rd, Crumlin Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+25/01/2019,"14 Slane Rd, Crumlin, Dublin 12",Dublin,312500.0,No,Crumlin,Dublin 12,q4,90%
+25/01/2019,"26 Slane Road, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+28/01/2019,"9 Lismore Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+31/01/2019,"25 Saul Rd, Crumlin, Dublin 12",Dublin,243000.0,No,Crumlin,Dublin 12,q3,60%
+05/02/2019,"10 Armagh Rd, Crumlin, Dublin 12",Dublin,335000.0,No,Crumlin,Dublin 12,q4,90%
+06/02/2019,"25 Old Co Glen, Crumlin, Dublin 12",Dublin,370000.0,No,Crumlin,Dublin 12,q4,100%
+06/02/2019,"8 Lisle Rd, Crumlin, Dublin 12",Dublin,244000.0,No,Crumlin,Dublin 12,q3,60%
+07/02/2019,"184 Downpatrick Rd, Crumlin, Dublin 12",Dublin,263000.0,No,Crumlin,Dublin 12,q3,70%
+12/02/2019,"64 Stannaway Rd, Crumlin, Dublin 12",Dublin,310000.0,No,Crumlin,Dublin 12,q4,90%
+13/02/2019,"29 Lansdown Valley Block A, Slievebloom Rd, Crumlin Dublin 12",Dublin,182000.0,No,Crumlin,Dublin 12,q2,40%
+13/02/2019,"33 Leighlin Rd, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+15/02/2019,"1 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"10 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"11 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"12 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"13 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"14 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"147 Cashel Rd, Crumlin, Dublin 12",Dublin,320000.0,No,Crumlin,Dublin 12,q4,90%
+15/02/2019,"15 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"184 Crumlin Road, Crumlin, Dublin 12",Dublin,230000.0,No,Crumlin,Dublin 12,q3,60%
+15/02/2019,"2 St Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"3 St Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"4 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"5 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"8 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+15/02/2019,"9 St. Agnes Court, Balfe Road, Crumlin",Dublin,398000.0,Yes,Crumlin,Dublin 12,q4,100%
+19/02/2019,"50 St Marys Rd, Crumlin, Dublin 12",Dublin,408000.0,No,Crumlin,Dublin 12,q4,100%
+26/02/2019,"148 Sundrive Rd, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+28/02/2019,"229 Kildare Rd, Crumlin, Dublin 12",Dublin,247000.0,No,Crumlin,Dublin 12,q3,60%
+05/03/2019,"10 Cashel Ave, Crumlin, Dublin 12",Dublin,330000.0,No,Crumlin,Dublin 12,q4,90%
+06/03/2019,"143 Windmill Park, Crumlin, Dublin 12",Dublin,273000.0,No,Crumlin,Dublin 12,q3,70%
+08/03/2019,"25 Clogher Rd, Crumlin, Dublin 12",Dublin,338000.0,No,Crumlin,Dublin 12,q4,90%
+08/03/2019,"275 Kildare Rd, Crumlin, Dublin 12",Dublin,287000.0,No,Crumlin,Dublin 12,q3,80%
+08/03/2019,"63 Innismore, Crumlin, Dublin 12",Dublin,355000.0,No,Crumlin,Dublin 12,q4,100%
+14/03/2019,"125 Downpatrick Rd, Crumlin, Dublin 12",Dublin,297500.0,No,Crumlin,Dublin 12,q4,80%
+15/03/2019,"51 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+22/03/2019,"6 Aughabanagh Rd, Lower Crumlin, Dublin 12",Dublin,298500.0,No,Crumlin,Dublin 12,q4,80%
+26/03/2019,"43 Iveagh Gardens, Crumlin, Dublin",Dublin,354000.0,No,Crumlin,Dublin 12,q4,100%
+03/04/2019,"2 Raphoe Rd, Crumlin, Dublin 12",Dublin,392500.0,No,Crumlin,Dublin 12,q4,100%
+04/04/2019,"37 Fort Ostman, Old County Rd, Crumlin Dublin 12",Dublin,224000.0,No,Crumlin,Dublin 12,q2,50%
+17/04/2019,"56 Balfe Rd, East, Crumlin",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+17/04/2019,"Unit 6, Balfe Road East, Crumlin",Dublin,300636.5,Yes,Crumlin,Dublin 12,q4,80%
+17/04/2019,"Unit 7, Balfe Road East, Crumlin",Dublin,300636.5,Yes,Crumlin,Dublin 12,q4,80%
+18/04/2019,"350 Clogher Rd, Crumlin, Dublin 12",Dublin,357000.0,No,Crumlin,Dublin 12,q4,100%
+01/05/2019,"382 Kildare Rd, Crumlin, Dublin 12",Dublin,262000.0,No,Crumlin,Dublin 12,q3,70%
+13/05/2019,"185 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,240000.0,No,Crumlin,Dublin 12,q3,60%
+14/05/2019,"10 Faughart Rd, Crumlin, Dublin 12",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+14/05/2019,"18 Windmill Rd, Crumlin Dublin 12, Dublin",Dublin,388000.0,No,Crumlin,Dublin 12,q4,100%
+17/05/2019,"124 Parnell Rd, Crumlin, Dublin 12",Dublin,330000.0,No,Crumlin,Dublin 12,q4,90%
+21/05/2019,"143 Downpatrick Rd, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+21/05/2019,"18 Faughart Rd, Crumlin, Dublin 12",Dublin,281500.0,No,Crumlin,Dublin 12,q3,80%
+24/05/2019,"335A Kildare Rd, Crumlin, Dublin 12",Dublin,225000.0,No,Crumlin,Dublin 12,q2,50%
+24/05/2019,"8 Raphoe Rd, Crumlin, Dublin 12",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+28/05/2019,"11 Clonmacoise Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+28/05/2019,"96 Derry Rd, Crumlin, Dublin 12",Dublin,241000.0,No,Crumlin,Dublin 12,q3,60%
+31/05/2019,"11 St Marys Rd, Crumlin, Dublin 12",Dublin,422000.0,No,Crumlin,Dublin 12,q4,100%
+31/05/2019,"31 Drimnagh Rd, Crumlin, Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+04/06/2019,"29 St Marys Crescent, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+12/06/2019,"356 Captain&#039;S Road, Crumlin, Dublin 12",Dublin,270000.0,No,Crumlin,Dublin 12,q3,70%
+13/06/2019,"222 Sundrive Rd, Crumlin, Dublin 12",Dublin,456000.0,No,Crumlin,Dublin 12,q4,100%
+14/06/2019,"50 Saul Rd, Crumlin, Dublin 12",Dublin,212000.0,No,Crumlin,Dublin 12,q2,50%
+17/06/2019,"169 Windmill Rd, Crumlin, Dublin 12",Dublin,290000.0,No,Crumlin,Dublin 12,q4,80%
+17/06/2019,"39 Bangor Rd, Crumlin, Dublin 12",Dublin,235000.0,No,Crumlin,Dublin 12,q3,60%
+19/06/2019,"385 Captains Rd, Crumlin, Dublin 12",Dublin,270000.0,No,Crumlin,Dublin 12,q3,70%
+26/06/2019,"31 Monasterboice Rd, Crumlin, Dublin",Dublin,275500.0,No,Crumlin,Dublin 12,q3,70%
+27/06/2019,"42 Kildare Rd, Crumlin Dublin 12, Dublin",Dublin,289000.0,No,Crumlin,Dublin 12,q3,80%
+01/07/2019,"75 St Agnes Rd, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+02/07/2019,"47 Bangor Rd, Crumlin, Dublin 12",Dublin,320000.0,No,Crumlin,Dublin 12,q4,90%
+04/07/2019,"227 Windmill Road, Crumlin, Dublin 12",Dublin,245000.0,No,Crumlin,Dublin 12,q3,60%
+09/07/2019,"233 Windmill Rd, Crumlin Dublin 12, Dublin",Dublin,310000.0,No,Crumlin,Dublin 12,q4,90%
+09/07/2019,"40 Cashel Ave, Crumlin, Dublin 12",Dublin,320000.0,No,Crumlin,Dublin 12,q4,90%
+11/07/2019,"54 Windmill Park, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+12/07/2019,"143 Clonmacnoise Road, Crumlin, Dublin 12",Dublin,285500.0,No,Crumlin,Dublin 12,q3,80%
+12/07/2019,"339 Crumlin Road, Dublin 12",Dublin,285000.0,No,Crumlin,Dublin 12,q3,80%
+15/07/2019,"10 Windmill Lodge, Windmill Rd, Crumlin Dublin 12",Dublin,255000.0,No,Crumlin,Dublin 12,q3,70%
+15/07/2019,"27 Windmill Lodge, Windmill Rd, Crumlin",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+15/07/2019,"38 Durrow Rd, Crumlin, Dublin 12",Dublin,280000.0,No,Crumlin,Dublin 12,q3,80%
+15/07/2019,"4 Cashel Ave, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+15/07/2019,"42 St Marys Dr, Crumlin, Dublin 12",Dublin,450000.0,No,Crumlin,Dublin 12,q4,100%
+16/07/2019,"138 Downpatrick Rd, Crumlin, Dublin 12",Dublin,386400.0,No,Crumlin,Dublin 12,q4,100%
+17/07/2019,"84 Derry Rd, Crumlin, Dublin 12",Dublin,266000.0,No,Crumlin,Dublin 12,q3,70%
+19/07/2019,"15 Glenealy Road, Crumlin, Dublin 12",Dublin,310000.0,No,Crumlin,Dublin 12,q4,90%
+19/07/2019,"49 Clonard Road, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+19/07/2019,"56 Derry Rd, Crumlin, Dublin 12",Dublin,260000.0,No,Crumlin,Dublin 12,q3,70%
+22/07/2019,"64 Cashel Road, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+23/07/2019,"28 Cashel Rd, Crumlin, Dublin 12",Dublin,321000.0,No,Crumlin,Dublin 12,q4,90%
+25/07/2019,"11A Raleigh Sq, Crumlin, Dublin 12",Dublin,440000.0,No,Crumlin,Dublin 12,q4,100%
+26/07/2019,"10 Rathdrum Rd, Crumlin, Dublin 12",Dublin,242000.0,No,Crumlin,Dublin 12,q3,60%
+02/08/2019,"188 Bangor Rd, Crumlin, Dublin 12",Dublin,265000.0,No,Crumlin,Dublin 12,q3,70%
+02/08/2019,"60 Raphoe Rd, Crumlin, Dublin City",Dublin,485000.0,No,Crumlin,Dublin 12,q4,100%
+07/08/2019,"245 Cashel Rd, Crumlin, Dublin 12",Dublin,275000.0,No,Crumlin,Dublin 12,q3,70%
+09/08/2019,"217 Cashel Rd, Crumlin, Dublin",Dublin,359250.0,No,Crumlin,Dublin 12,q4,100%
+12/08/2019,"60 Durrow Rd, Crumlin, Dublin 12",Dublin,335000.0,No,Crumlin,Dublin 12,q4,90%
+14/08/2019,"2 Somerville Ave, Crumlin, Dublin 12",Dublin,405000.0,No,Crumlin,Dublin 12,q4,100%
+15/08/2019,"25 Derry Park, Crumlin, Dublin 12",Dublin,270000.0,No,Crumlin,Dublin 12,q3,70%
+16/08/2019,"100 Captains Ave, Crumlin, Dublin 12",Dublin,63335.0,No,Crumlin,Dublin 12,q1,10%
+19/08/2019,"170 Rutland Ave, Crumlin, Dublin City",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+19/08/2019,"54 Glenealy Rd, Crumlin, Dublin 12",Dublin,310000.0,No,Crumlin,Dublin 12,q4,90%
+22/08/2019,"229 Clogher Rd, Crumlin Dublin 12, Dublin",Dublin,310000.0,No,Crumlin,Dublin 12,q4,90%
+22/08/2019,"83 Kildare Rd, Crumlin, Dublin 12",Dublin,255000.0,No,Crumlin,Dublin 12,q3,70%
+23/08/2019,"294 Clonard Rd, Crumlin, Dublin 12",Dublin,292000.0,No,Crumlin,Dublin 12,q4,80%
+26/08/2019,"87 Stannaway Rd, Crumlin, Dublin 12",Dublin,282000.0,No,Crumlin,Dublin 12,q3,80%
+28/08/2019,"47 Windmill Park, Crumlin, Dublin 12",Dublin,233333.0,No,Crumlin,Dublin 12,q3,60%
+28/08/2019,"60 Crumlin Rd, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+02/09/2019,"177 Clonard Road, Crumlin, Dublin 12",Dublin,223000.0,No,Crumlin,Dublin 12,q2,50%
+04/09/2019,"1 Derry Dr, Crumlin, Dublin",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+06/09/2019,"19 Windmill Rd, Crumlin Dublin 12, Dublin",Dublin,450000.0,No,Crumlin,Dublin 12,q4,100%
+11/09/2019,"115 Kildare Rd, Crumlin, Dublin 12",Dublin,250000.0,No,Crumlin,Dublin 12,q3,60%
+11/09/2019,"174 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,270000.0,No,Crumlin,Dublin 12,q3,70%
+12/09/2019,"Apt 1 Looceville House, St Agnes Road, Crumlin",Dublin,140000.0,No,Crumlin,Dublin 12,q1,20%
+12/09/2019,"Apt 2 Looceville House, St Agnes Road, Crumlin",Dublin,160000.0,No,Crumlin,Dublin 12,q1,30%
+12/09/2019,"Apt 3 Looceville House, St Agnes Road, Crumlin",Dublin,120000.0,No,Crumlin,Dublin 12,q1,20%
+16/09/2019,"170 Downpatrick Road, Crumlin, Dublin 12",Dublin,210000.0,No,Crumlin,Dublin 12,q2,50%
+25/09/2019,"77 Rathdrum Rd, Crumlin, Dublin 12",Dublin,320000.0,No,Crumlin,Dublin 12,q4,90%
+26/09/2019,"228 Captains Rd, Crumlin, Dublin 12",Dublin,383500.0,No,Crumlin,Dublin 12,q4,100%
+27/09/2019,"102 Iveagh Gdns, Crumlin, Dublin 12",Dublin,500000.0,No,Crumlin,Dublin 12,q4,100%
+30/09/2019,"80B Windmill Rd, Crumlin, Windmill Rd Dublin 12",Dublin,325000.0,No,Crumlin,Dublin 12,q4,90%
+09/10/2019,"100 Captains Ave, Crumlin, Dublin 12",Dublin,90000.0,No,Crumlin,Dublin 12,q1,10%
+09/10/2019,"135 Clonmacnoise Rd, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+10/10/2019,"149 Clonard Rd, Crumlin, Dublin 12",Dublin,165000.0,No,Crumlin,Dublin 12,q2,30%
+10/10/2019,"5 Somerville Ave, Crumlin Village, Dublin 12",Dublin,350000.0,No,Crumlin,Dublin 12,q4,100%
+11/10/2019,"133 Windmill Rd, Crumlin, Dublin 12",Dublin,300000.0,No,Crumlin,Dublin 12,q4,80%
+15/10/2019,"44 Derry Park, Crumlin, Dublin 12",Dublin,295000.0,No,Crumlin,Dublin 12,q4,80%
+17/10/2019,"8 Ardagh Rd, Crumlin, Dublin 12",Dublin,340000.0,No,Crumlin,Dublin 12,q4,90%
+18/10/2019,"1 St Marys Rd, Crumlin, Dublin 12",Dublin,441500.0,No,Crumlin,Dublin 12,q4,100%
+23/10/2019,"203 Kildare Rd, Crumlin, Dublin 12",Dublin,247500.0,No,Crumlin,Dublin 12,q3,60%
+25/10/2019,"4 St Agnes Terrace, Crumlin, Dublin 12",Dublin,315000.0,No,Crumlin,Dublin 12,q4,90%

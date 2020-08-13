@@ -1,0 +1,360 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+30/04/2010,"34 Ellenmere Avenue, North Circular Road, Dublin 7",Dublin,450000.0,No,North Circular,Dublin 7,q4,90%
+11/05/2010,"55 North Circular Road, Dublin",Dublin,400000.0,No,North Circular,Dublin 7,q4,80%
+23/06/2010,"9 St. Joseph Street, North Circular Road",Dublin,460000.0,No,North Circular,Dublin 7,q4,90%
+14/10/2010,"12 Ardmore Avenue, Off Ellesmere Avenue, North Circular Rd  D7",Dublin,390000.0,No,North Circular,Dublin 7,q4,80%
+01/11/2010,"183 North Circular Road, Dublin 7",Dublin,435000.0,No,North Circular,Dublin 7,q4,90%
+08/11/2010,"2 Glenard Avenue, North Circular Road, Dublin 7",Dublin,399000.0,No,North Circular,Dublin 7,q4,80%
+15/12/2010,"227 North Circular Road, Dublin 7",Dublin,550000.0,No,North Circular,Dublin 7,q4,90%
+15/12/2010,"227 North Circular Road, Dublin 7",Dublin,550000.0,No,North Circular,Dublin 7,q4,90%
+23/02/2011,"340 North Circular Road, Dublin 7",Dublin,97500.0,No,North Circular,Dublin 7,q1,10%
+28/02/2011,"418 North Circular Road, Dublin 7",Dublin,200000.0,No,North Circular,Dublin 7,q2,40%
+10/05/2011,"16 St. Josephs Street, North Circular Road, Dublin 7",Dublin,232500.0,No,North Circular,Dublin 7,q2,40%
+12/05/2011,"1 Glenbeigh Road, North Circular Road",Dublin,218000.0,No,North Circular,Dublin 7,q2,40%
+20/05/2011,"16 Rosemount Road, North Circular Road",Dublin,235000.0,No,North Circular,Dublin 7,q2,40%
+11/08/2011,"3 St. Joseph'S Street, North Circular Road, Dublin",Dublin,347500.0,No,North Circular,Dublin 7,q3,80%
+25/08/2011,"1 Muckross Parade, North Circular Road, Dublin 7",Dublin,99000.0,No,North Circular,Dublin 7,q1,10%
+29/08/2011,"15  Valentia Parade, North Circular Road, Dublin 7",Dublin,80000.0,No,North Circular,Dublin 7,q1,10%
+21/10/2011,"5 Finn Street, North Circular Road, Dublin 7",Dublin,150000.0,No,North Circular,Dublin 7,q1,20%
+07/02/2012,"15 Portland Street North, North Circular Road",Dublin,105000.0,No,North Circular,Dublin 7,q1,10%
+17/02/2012,"8 Marlborough Road, North Circular Road, Dublin 7",Dublin,395000.0,No,North Circular,Dublin 7,q4,80%
+25/05/2012,"225 North Circular Road, Dublin 7",Dublin,340000.0,No,North Circular,Dublin 7,q3,70%
+04/07/2012,"12 Muckross Parade, North Circular Road",Dublin,80000.0,No,North Circular,Dublin 7,q1,10%
+16/07/2012,"The Villa, 44A Ellesmere Avenue, North Circular Road",Dublin,210000.0,No,North Circular,Dublin 7,q2,40%
+16/08/2012,"Apartment 3, 436 North Circular Road, Dublin 7",Dublin,70000.0,No,North Circular,Dublin 7,q1,10%
+22/08/2012,"3 Glenmore Road, North Circular Road, Dublin 7",Dublin,195000.0,No,North Circular,Dublin 7,q2,30%
+11/09/2012,"25 Ellesmere Avenue, North Circular Road, Dublin 7",Dublin,260000.0,No,North Circular,Dublin 7,q3,60%
+20/09/2012,"2 St Josephs Terrace, North Circular Road",Dublin,150000.0,No,North Circular,Dublin 7,q1,20%
+04/10/2012,"3 Belvedere Avenue, North Circular Road, Dublin 1",Dublin,175000.0,No,North Circular,Dublin 7,q2,30%
+04/10/2012,"40 Rathdown Square, North Circular Road, Dublin 7",Dublin,105000.0,No,North Circular,Dublin 7,q1,10%
+08/10/2012,"5 Healy Street, Off North Circular Road, Dublin 1",Dublin,57000.0,No,North Circular,Dublin 7,q1,10%
+12/10/2012,"Apartment 3, Valentia House, North Circular Road",Dublin,82750.0,No,North Circular,Dublin 7,q1,10%
+15/10/2012,"300 North Circular Road, Dublin 7",Dublin,280000.0,No,North Circular,Dublin 7,q3,60%
+23/10/2012,"302 North Circular Road, Dublin 7",Dublin,196500.0,No,North Circular,Dublin 7,q2,30%
+31/10/2012,"11 Sherrard Avenue, North Circular Road, Dublin 1",Dublin,70000.0,No,North Circular,Dublin 7,q1,10%
+01/11/2012,"26, Sherrard Avenue, North Circular Road",Dublin,70000.0,No,North Circular,Dublin 7,q1,10%
+16/11/2012,"11 North Circular Road, Dublin 7",Dublin,320000.0,No,North Circular,Dublin 7,q3,70%
+23/11/2012,"405 North Circular Road, Dublin 7",Dublin,140000.0,No,North Circular,Dublin 7,q1,20%
+13/12/2012,"6 Richmond Parade, Off North Circular Road, Dublin",Dublin,143000.0,No,North Circular,Dublin 7,q1,20%
+17/12/2012,"55, North Circular Road",Dublin,369000.0,No,North Circular,Dublin 7,q3,80%
+21/12/2012,"Ivy Cottage 43A North Circular Road, Dublin 7",Dublin,249750.0,No,North Circular,Dublin 7,q2,50%
+07/01/2013,"247, North Circular Road, Dublin 8",Dublin,339000.0,No,North Circular,Dublin 7,q3,70%
+21/01/2013,"74 Innisfallen Parade, North Circular Road",Dublin,90000.0,No,North Circular,Dublin 7,q1,10%
+14/02/2013,"4 Glenmore Road, North Circular Road",Dublin,170000.0,No,North Circular,Dublin 7,q1,30%
+21/02/2013,"Park Lodge, 5 7 And 9 North Circular Road, Dublin",Dublin,9601711.0,No,North Circular,Dublin 7,q4,100%
+21/03/2013,"9 Rutland Place, Off North Circular Road, Dublin 1",Dublin,80000.0,No,North Circular,Dublin 7,q1,10%
+08/04/2013,"6 Leo Avenue, Off North Circular Road, Dublin 7",Dublin,150000.0,No,North Circular,Dublin 7,q1,20%
+16/04/2013,"67 North Circular Road, Dublin 7",Dublin,170000.0,No,North Circular,Dublin 7,q1,30%
+16/04/2013,"69 North Circular Road, Dublin 7",Dublin,170000.0,No,North Circular,Dublin 7,q1,30%
+17/04/2013,"609 North Circular Road, Dublin 1",Dublin,240000.0,No,North Circular,Dublin 7,q2,40%
+01/05/2013,"456 North Circular Road, Dublin 7",Dublin,155000.0,No,North Circular,Dublin 7,q1,20%
+12/06/2013,"10 North Circular Road, Dublin 7",Dublin,420000.0,No,North Circular,Dublin 7,q4,80%
+18/07/2013,"70 Ellesmere Avenue, North Circular Road",Dublin,130000.0,No,North Circular,Dublin 7,q1,20%
+23/07/2013,"7 Ashford Street, North Circular Road, Dublin 7",Dublin,80000.0,No,North Circular,Dublin 7,q1,10%
+23/08/2013,"39 Ellesmere Avenue, North Circular Road, Dublin 7",Dublin,279000.0,No,North Circular,Dublin 7,q3,60%
+29/08/2013,"13 Muckross Parade, North Circular Road",Dublin,118000.0,No,North Circular,Dublin 7,q1,20%
+18/09/2013,"609 North Circular Road, Dublin 1",Dublin,248000.0,No,North Circular,Dublin 7,q2,50%
+20/09/2013,"Apartment 1, 382 North Circular Road, Dublin 7",Dublin,96000.0,No,North Circular,Dublin 7,q1,10%
+26/09/2013,"1 Marlborough Court, North Circular Road",Dublin,120000.0,No,North Circular,Dublin 7,q1,20%
+08/10/2013,"7 Inisfallen Parade, North Circular Road, Dublin 7",Dublin,118000.0,No,North Circular,Dublin 7,q1,20%
+16/10/2013,"65 North Circular Road, Dublin 7",Dublin,205000.0,No,North Circular,Dublin 7,q2,40%
+18/10/2013,"245 North Circular Road, Dublin",Dublin,451000.0,No,North Circular,Dublin 7,q4,90%
+13/11/2013,"253 North Circular Road, Dublin 7",Dublin,220000.0,No,North Circular,Dublin 7,q2,40%
+28/11/2013,"2 North Circular Road, Dublin 7",Dublin,340000.0,No,North Circular,Dublin 7,q3,70%
+28/11/2013,"2 North Circular Road, Dublin 7",Dublin,340000.0,No,North Circular,Dublin 7,q3,70%
+04/12/2013,"Apt 8 Valentia House, 457 North Circular Rd",Dublin,120000.0,No,North Circular,Dublin 7,q1,20%
+11/12/2013,"3 Annamoe Rd, North Circular Rd, Dublin 7",Dublin,380000.0,No,North Circular,Dublin 7,q4,80%
+13/12/2013,"76 North Circular Rd, Dublin 7, Dublin",Dublin,395000.0,No,North Circular,Dublin 7,q4,80%
+11/02/2014,"33 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,130000.0,No,North Circular,Dublin 7,q1,20%
+14/03/2014,"135 North Circular Rd, Dublin 7, Dublin City",Dublin,340000.0,No,North Circular,Dublin 7,q3,80%
+21/03/2014,"10 Simmons Place, Off North Circular Rd, Dublin 1",Dublin,155000.0,No,North Circular,Dublin 7,q1,20%
+28/03/2014,"241 North Circular Road, Dublin 7",Dublin,353000.0,No,North Circular,Dublin 7,q3,80%
+03/04/2014,"5 Glengarriff Parade, North Circular Road, Dublin 7",Dublin,190000.0,No,North Circular,Dublin 7,q2,30%
+09/04/2014,"26 Belvedere Place, North Circular Rd, Dublin 1",Dublin,232000.0,No,North Circular,Dublin 7,q2,40%
+23/04/2014,"20 A Rutland Place, North Circular Road, Dublin 7",Dublin,53048.0,No,North Circular,Dublin 7,q1,10%
+12/05/2014,"6 Sherrard Court, North Circular Rd, Dublin 1",Dublin,222000.0,No,North Circular,Dublin 7,q2,40%
+23/05/2014,"275 North Circular Road, Dublin 7",Dublin,360000.0,No,North Circular,Dublin 7,q3,80%
+30/05/2014,"415 North Circular Road, Dublin 7",Dublin,295000.0,No,North Circular,Dublin 7,q3,70%
+30/05/2014,"59 North Circular Road, Dublin",Dublin,302000.0,No,North Circular,Dublin 7,q3,70%
+11/06/2014,"82 Glengarriff Parade, North Circular Road",Dublin,140000.0,No,North Circular,Dublin 7,q1,20%
+15/06/2014,"437 North Circular Rd, Dublin 7, Dublin",Dublin,320000.0,No,North Circular,Dublin 7,q3,70%
+23/06/2014,"4 Everton Ave, North Circular Rd, Dublin 7",Dublin,430000.0,No,North Circular,Dublin 7,q4,90%
+27/06/2014,"294 North Circular Road, Dublin 7",Dublin,168123.0,No,North Circular,Dublin 7,q1,30%
+30/06/2014,"9 Marlborough Road, Off North Circular Road, Dublin 7",Dublin,200000.0,No,North Circular,Dublin 7,q2,40%
+01/07/2014,"77 North Circular Rd, Dublin 7, Dublin",Dublin,270000.0,No,North Circular,Dublin 7,q3,60%
+09/07/2014,"123 Campbells Row, North Circular Road, Dublin 1",Dublin,53500.0,No,North Circular,Dublin 7,q1,10%
+15/07/2014,"131 North Circular Road, Dublin 7",Dublin,354400.0,No,North Circular,Dublin 7,q3,80%
+15/07/2014,"15 Rutland Place, North Circular Road",Dublin,151900.0,No,North Circular,Dublin 7,q1,20%
+15/07/2014,"474 North Circular Road, Dublin",Dublin,182300.0,No,North Circular,Dublin 7,q2,30%
+15/07/2014,"5 Sherrard Street Lower, Off North Circular Road",Dublin,354400.0,No,North Circular,Dublin 7,q3,80%
+15/07/2014,"6 Sherrard Street Lower, Off North Circular Road",Dublin,405000.0,No,North Circular,Dublin 7,q4,80%
+16/07/2014,"45 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,150000.0,No,North Circular,Dublin 7,q1,20%
+18/07/2014,"11 Ardmore Avenue, North Circular Road",Dublin,368750.0,No,North Circular,Dublin 7,q3,80%
+21/07/2014,"Apt 4, 436 North Circular Rd, Dublin 7",Dublin,104000.0,No,North Circular,Dublin 7,q1,10%
+24/07/2014,"Apartment 4, 382 North Circular Road, Dublin 7",Dublin,150000.0,No,North Circular,Dublin 7,q1,20%
+06/08/2014,"564 North Circular Road, Dublin 1",Dublin,315000.0,No,North Circular,Dublin 7,q3,70%
+05/09/2014,"63 North Circular Rd, Dublin 7",Dublin,315000.0,No,North Circular,Dublin 7,q3,70%
+16/09/2014,"207 North Circular Road, Dublin 7",Dublin,253000.0,No,North Circular,Dublin 7,q2,50%
+26/09/2014,"Fern House, 383A North Circular Rd, Dublin 7",Dublin,292500.0,No,North Circular,Dublin 7,q3,70%
+01/10/2014,"Apt 7, 436 North Circular Rd, Dublin 7",Dublin,105000.0,No,North Circular,Dublin 7,q1,10%
+10/10/2014,"Apt D, 273 North Circular Rd, Dublin 7",Dublin,420000.0,No,North Circular,Dublin 7,q4,90%
+13/10/2014,"37 Innisfallen Parade, North Circular Rd, Dublin 7",Dublin,267500.0,No,North Circular,Dublin 7,q3,60%
+21/10/2014,"1 Sherrard Ave, North Circular Rd, Dublin 7",Dublin,111000.0,No,North Circular,Dublin 7,q1,20%
+21/10/2014,"Apartment 4, 382 North Circular Road, Dublin 7",Dublin,115000.0,No,North Circular,Dublin 7,q1,20%
+23/10/2014,"436 North Circular Road, Dublin 7",Dublin,157000.0,No,North Circular,Dublin 7,q1,20%
+24/10/2014,"57 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,172000.0,No,North Circular,Dublin 7,q1,30%
+25/11/2014,"578 North Circular Rd, Dublin 1, Dublin",Dublin,195000.0,No,North Circular,Dublin 7,q2,30%
+26/11/2014,"43 Rathdown Sq, North Circular Rd, Dublin",Dublin,212500.0,No,North Circular,Dublin 7,q2,40%
+27/11/2014,"37, North Circular Road, Dublin",Dublin,364000.0,No,North Circular,Dublin 7,q3,80%
+28/11/2014,"541 North Circular  Road, Dublin 1",Dublin,606000.0,No,North Circular,Dublin 7,q4,100%
+10/12/2014,"48 Annamoe Rd, North Circular Rd, Dublin 7",Dublin,520000.0,No,North Circular,Dublin 7,q4,90%
+12/12/2014,"53 North Circular Rd, Dublin 4, Dublin",Dublin,385000.0,No,North Circular,Dublin 7,q4,80%
+17/12/2014,"3 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,250000.0,No,North Circular,Dublin 7,q2,50%
+13/01/2015,"67 Marlborough Mews, North Circular Road, Dublin 7",Dublin,230000.0,No,North Circular,Dublin 7,q2,40%
+15/01/2015,"69 Marlborough Mews, North Circular Road, Dublin 7",Dublin,220000.0,No,North Circular,Dublin 7,q2,40%
+28/01/2015,"No 588 North Circular Road, Dublin 7",Dublin,285000.0,No,North Circular,Dublin 7,q3,60%
+06/02/2015,"187 North Circular Road, Dublin 7",Dublin,220000.0,No,North Circular,Dublin 7,q2,40%
+17/02/2015,"5 Sherrard Ave, North Circular Rd, Dublin 1",Dublin,152000.0,No,North Circular,Dublin 7,q1,20%
+18/02/2015,"7 Drumalee Ave, North Circular Road, Dublin 7",Dublin,210000.0,No,North Circular,Dublin 7,q2,40%
+19/03/2015,"Apt 1 -3, 377 North Circular Road, Dublin 7",Dublin,200000.0,No,North Circular,Dublin 7,q2,40%
+20/03/2015,"289 North Circular Rd, Dublin 7, Dublin",Dublin,500000.0,No,North Circular,Dublin 7,q4,90%
+20/03/2015,"Apt 7 Portland Lock, Portland Place, North Circular Rd Dublin 1",Dublin,150000.0,No,North Circular,Dublin 7,q1,20%
+25/03/2015,"10 Leo Street, North Circular Road, Dublin 7",Dublin,50000.0,No,North Circular,Dublin 7,q1,10%
+27/03/2015,"Apartment 4, 382 North Circular Road, Dublin 7",Dublin,255000.0,No,North Circular,Dublin 7,q2,50%
+30/03/2015,"569 North Circular Rd, Dublin 7, Dublin",Dublin,446200.0,No,North Circular,Dublin 7,q4,90%
+10/04/2015,"Apartment 1  Park Lodge, 7-9 North Circular Road",Dublin,243696.67,No,North Circular,Dublin 7,q2,40%
+10/04/2015,"Apartment 10  Park Lodge, 7-9 North Circular Road",Dublin,247898.33,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 11  Park Lodge, 7-9 North Circular Road",Dublin,247898.33,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 12  Park Lodge, 7-9 North Circular Road",Dublin,247898.33,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 13  Park Lodge, 7-9 North Circular Road",Dublin,247898.33,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 14  Park Lodge, 7-9 North Circular Road",Dublin,165965.83,No,North Circular,Dublin 7,q1,30%
+10/04/2015,"Apartment 15  Park Lodge, 7-9 North Circular Road",Dublin,165965.83,No,North Circular,Dublin 7,q1,30%
+10/04/2015,"Apartment 16  Park Lodge, 7-9 North Circular Road",Dublin,165965.83,No,North Circular,Dublin 7,q1,30%
+10/04/2015,"Apartment 17  Park Lodge, 7-9 North Circular Road",Dublin,247898.33,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 18  Park Lodge, 7-9 North Circular Road",Dublin,247898.33,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 19  Park Lodge, 7-9 North Circular Road",Dublin,323528.33,No,North Circular,Dublin 7,q3,70%
+10/04/2015,"Apartment 2  Park Lodge, 7-9 North Circular Road",Dublin,243696.67,No,North Circular,Dublin 7,q2,40%
+10/04/2015,"Apartment 20  Park Lodge, 7-9 North Circular Road",Dublin,247898.33,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 21  Park Lodge, 7-9 North Circular Road",Dublin,256301.67,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 22  Park Lodge, 7-9 North Circular Road",Dublin,256301.67,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 23  Park Lodge, 7-9 North Circular Road",Dublin,323528.33,No,North Circular,Dublin 7,q3,70%
+10/04/2015,"Apartment 24  Park Lodge, 7-9 North Circular Road",Dublin,252100.0,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 25  Park Lodge, 7-9 North Circular Road",Dublin,252100.0,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 26  Park Lodge, 7-9 North Circular Road",Dublin,168066.67,No,North Circular,Dublin 7,q1,30%
+10/04/2015,"Apartment 27  Park Lodge, 7-9 North Circular Road",Dublin,168066.67,No,North Circular,Dublin 7,q1,30%
+10/04/2015,"Apartment 28  Park Lodge, 7-9 North Circular Road",Dublin,168066.67,No,North Circular,Dublin 7,q1,30%
+10/04/2015,"Apartment 29  Park Lodge, 7-9 North Circular Road",Dublin,252100.0,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 3  Park Lodge, 7-9 North Circular Road",Dublin,149159.17,No,North Circular,Dublin 7,q1,20%
+10/04/2015,"Apartment 30  Park Lodge, 7-9 North Circular Road",Dublin,252100.0,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 31  Park Lodge, 7-9 North Circular Road",Dublin,327730.0,No,North Circular,Dublin 7,q3,70%
+10/04/2015,"Apartment 32  Park Lodge, 7-9 North Circular Road",Dublin,252100.0,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 33  Park Lodge, 7-9 North Circular Road",Dublin,260503.33,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 34  Park Lodge, 7-9 North Circular Road",Dublin,260503.33,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 35  Park Lodge, 7-9 North Circular Road",Dublin,327730.0,No,North Circular,Dublin 7,q3,70%
+10/04/2015,"Apartment 36  Park Lodge, 7-9 North Circular Road",Dublin,252100.0,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 37  Park Lodge, 7-9 North Circular Road",Dublin,252100.0,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 38  Park Lodge, 7-9 North Circular Road",Dublin,172268.33,No,North Circular,Dublin 7,q1,30%
+10/04/2015,"Apartment 39  Park Lodge, 7-9 North Circular Road",Dublin,172268.33,No,North Circular,Dublin 7,q2,30%
+10/04/2015,"Apartment 4  Park Lodge, 7-9 North Circular Road",Dublin,161764.17,No,North Circular,Dublin 7,q1,20%
+10/04/2015,"Apartment 40  Park Lodge, 7-9 North Circular Road",Dublin,172268.33,No,North Circular,Dublin 7,q2,30%
+10/04/2015,"Apartment 41  Park Lodge, 7-9 North Circular Road",Dublin,252100.0,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 42  Park Lodge, 7-9 North Circular Road",Dublin,252100.0,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 43  Park Lodge, 7-9 North Circular Road",Dublin,331931.67,No,North Circular,Dublin 7,q3,70%
+10/04/2015,"Apartment 44  Park Lodge, 7-9 North Circular Road",Dublin,252100.0,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 45  Park Lodge, 7-9 North Circular Road",Dublin,264705.0,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 46  Park Lodge, 7-9 North Circular Road",Dublin,264705.0,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 47  Park Lodge, 7-9 North Circular Road",Dublin,331931.67,No,North Circular,Dublin 7,q3,70%
+10/04/2015,"Apartment 48  Park Lodge, 7-9 North Circular Road",Dublin,256301.67,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 49  Park Lodge, 7-9 North Circular Road",Dublin,256301.67,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 5  Park Lodge, 7-9 North Circular Road",Dublin,161764.17,No,North Circular,Dublin 7,q1,20%
+10/04/2015,"Apartment 50  Park Lodge, 7-9 North Circular Road",Dublin,176470.0,No,North Circular,Dublin 7,q2,30%
+10/04/2015,"Apartment 51  Park Lodge, 7-9 North Circular Road",Dublin,176470.0,No,North Circular,Dublin 7,q2,30%
+10/04/2015,"Apartment 52  Park Lodge, 7-9 North Circular Road",Dublin,176470.0,No,North Circular,Dublin 7,q2,30%
+10/04/2015,"Apartment 53  Park Lodge, 7-9 North Circular Road",Dublin,256301.67,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 54  Park Lodge, 7-9 North Circular Road",Dublin,256301.67,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 55  Park Lodge, 7-9 North Circular Road",Dublin,336133.33,No,North Circular,Dublin 7,q3,70%
+10/04/2015,"Apartment 56  Park Lodge, 7-9 North Circular Road",Dublin,336133.33,No,North Circular,Dublin 7,q3,70%
+10/04/2015,"Apartment 57  Park Lodge, 7-9 North Circular Road",Dublin,256301.67,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 58  Park Lodge, 7-9 North Circular Road",Dublin,348738.33,No,North Circular,Dublin 7,q3,80%
+10/04/2015,"Apartment 59  Park Lodge, 7-9 North Circular Road",Dublin,184878.33,No,North Circular,Dublin 7,q2,30%
+10/04/2015,"Apartment 6  Park Lodge, 7-9 North Circular Road",Dublin,243696.67,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 60  Park Lodge, 7-9 North Circular Road",Dublin,264705.0,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 61  Park Lodge, 7-9 North Circular Road",Dublin,256301.67,No,North Circular,Dublin 7,q3,60%
+10/04/2015,"Apartment 62  Park Lodge, 7-9 North Circular Road",Dublin,344536.67,No,North Circular,Dublin 7,q3,80%
+10/04/2015,"Apartment 7  Park Lodge, 7-9 North Circular Road",Dublin,243696.67,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 8  Park Lodge, 7-9 North Circular Road",Dublin,243696.67,No,North Circular,Dublin 7,q2,50%
+10/04/2015,"Apartment 9  Park Lodge, 7-9 North Circular Road",Dublin,247898.33,No,North Circular,Dublin 7,q2,50%
+21/04/2015,"340, North Circular Road, Phisboro",Dublin,130000.0,No,North Circular,Dublin 7,q1,20%
+22/04/2015,"9 Muckross Parade, North Circular Road, Dublin 7",Dublin,210000.0,No,North Circular,Dublin 7,q2,40%
+12/05/2015,"125 North Circular Rd, Dublin 7, Dublin",Dublin,480000.0,No,North Circular,Dublin 7,q4,90%
+26/05/2015,"95, North Circular Road",Dublin,475000.0,No,North Circular,Dublin 7,q4,90%
+04/06/2015,"121 North Circular Road, Dublin 7",Dublin,343000.0,No,North Circular,Dublin 7,q3,80%
+08/06/2015,"235 North Circular Road, Dublin",Dublin,414600.0,No,North Circular,Dublin 7,q4,80%
+09/06/2015,"53 Marlborough Mews, North Circular Rd, Dublin 7",Dublin,245000.0,No,North Circular,Dublin 7,q2,50%
+12/06/2015,"11 North Circular Rd, Dublin 7, Dublin City",Dublin,225000.0,No,North Circular,Dublin 7,q2,40%
+29/06/2015,"96 North Circular Road, Dublin 7",Dublin,207500.0,No,North Circular,Dublin 7,q2,40%
+24/07/2015,"15 Valentia Parade, North Circular Rd, Dublin 7",Dublin,150000.0,No,North Circular,Dublin 7,q1,20%
+29/07/2015,"205 North Circular Rd, Dublin 7, Dublin",Dublin,450000.0,No,North Circular,Dublin 7,q4,90%
+07/08/2015,"Apt 11 Portland Lock, Portland Place, North Circular Road",Dublin,170000.0,No,North Circular,Dublin 7,q1,30%
+02/09/2015,"611 North Circular Rd, Dublin",Dublin,225000.0,No,North Circular,Dublin 7,q2,40%
+02/09/2015,"613 North Circular Rd, Dublin 1, Dublin",Dublin,85000.0,No,North Circular,Dublin 7,q1,10%
+03/09/2015,"137 North Circular Road, Dublin 7",Dublin,452500.0,No,North Circular,Dublin 7,q4,90%
+03/09/2015,"39 North Great Charles St, North Circular Rd, Dublin 1",Dublin,250000.0,No,North Circular,Dublin 7,q2,50%
+14/09/2015,"Bedsits 1-6, 203 North Circular Road, Dublin 7",Dublin,386000.0,No,North Circular,Dublin 7,q4,80%
+12/10/2015,"4 Belevedere Avenue, North Circular Road, Dublin 1",Dublin,302000.0,No,North Circular,Dublin 7,q3,70%
+27/10/2015,"50 Innisfallen Parade, North Circular Rd, Dublin 7",Dublin,297000.0,No,North Circular,Dublin 7,q3,70%
+30/10/2015,"375 North Circular Road, Dublin 7",Dublin,200000.0,No,North Circular,Dublin 7,q2,40%
+27/11/2015,"Apt 21, Valentia House, North Circular Road",Dublin,172000.0,No,North Circular,Dublin 7,q1,30%
+23/12/2015,"5 Arklow Street, North Circular Road",Dublin,241000.0,No,North Circular,Dublin 7,q2,40%
+29/01/2016,"39 Rathdown Square, North Circular Road, Dublin 7",Dublin,143500.0,No,North Circular,Dublin 7,q1,20%
+03/02/2016,"538 North Circular Rd, Dublin 1, Dublin",Dublin,224666.0,No,North Circular,Dublin 7,q2,40%
+19/02/2016,"409 North Circular Road, Dublin 7, Dublin",Dublin,201000.0,No,North Circular,Dublin 7,q2,40%
+04/03/2016,"10 Richmond Crescent, North Circular Rd, Dublin 1",Dublin,165000.0,No,North Circular,Dublin 7,q1,20%
+24/03/2016,"48 Mountpelier Park, North Circular Road, Dublin 7",Dublin,100000.0,No,North Circular,Dublin 7,q1,10%
+13/04/2016,"13 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,262500.0,No,North Circular,Dublin 7,q3,60%
+14/04/2016,"3 Emmet Street, North Circular Road, Dublin 7",Dublin,271000.0,No,North Circular,Dublin 7,q3,60%
+14/04/2016,"41 Belvedere Place, North Circular Rd, Dublin 1",Dublin,490000.0,No,North Circular,Dublin 7,q4,90%
+15/05/2016,"39 North Circular Road, Phisboro, Dublin 7",Dublin,420000.0,No,North Circular,Dublin 7,q4,90%
+17/06/2016,"1 Valentia Parade, North Circular Rd, Dublin 7",Dublin,143500.0,No,North Circular,Dublin 7,q1,20%
+22/06/2016,"439 North Circular Road, Dublin 7",Dublin,330000.0,No,North Circular,Dublin 7,q3,70%
+30/06/2016,"131 North Circular Rd, Dublin 7, Dublin",Dublin,470000.0,No,North Circular,Dublin 7,q4,90%
+07/07/2016,"Apt 1, 79 North Circular Road, Dublin 7",Dublin,70000.0,No,North Circular,Dublin 7,q1,10%
+07/07/2016,"Apt 2, 79 North Circular Rd, Dublin 7",Dublin,70000.0,No,North Circular,Dublin 7,q1,10%
+07/07/2016,"Apt 3, 79 North Circular Road, Dublin 7",Dublin,70000.0,No,North Circular,Dublin 7,q1,10%
+07/07/2016,"Apt 4, 79 North Circular Rd, Dublin 7",Dublin,70000.0,No,North Circular,Dublin 7,q1,10%
+07/07/2016,"Apt 5, 79 North Circular Rd, Dublin 7",Dublin,70000.0,No,North Circular,Dublin 7,q1,10%
+07/07/2016,"Apt 6, 79 North Circular Road, Dublin 7",Dublin,70000.0,No,North Circular,Dublin 7,q1,10%
+20/07/2016,"52 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,254000.0,No,North Circular,Dublin 7,q2,50%
+25/07/2016,"6 Charleville Road, North Circular Road, Dublin 7",Dublin,605000.0,No,North Circular,Dublin 7,q4,100%
+29/07/2016,"428 North Circular Rd, Dublin 7, Dublin",Dublin,150000.0,No,North Circular,Dublin 7,q1,20%
+17/08/2016,"34 Glengarriff Parade, North Circular Road, Dublin 7",Dublin,275000.0,No,North Circular,Dublin 7,q3,60%
+19/08/2016,"22 Leo Street, Off North Circular Road, Dublin 7",Dublin,310000.0,No,North Circular,Dublin 7,q3,70%
+26/08/2016,"7 Richmond Cottages, North Circular Rd, Dublin 1",Dublin,265000.0,No,North Circular,Dublin 7,q3,60%
+12/09/2016,"Unit 1, 90 North Circular Road, Dublin 7",Dublin,400000.0,No,North Circular,Dublin 7,q4,80%
+23/09/2016,"60 North Circular Rd, Dublin 7, Dublin",Dublin,495000.0,No,North Circular,Dublin 7,q4,90%
+30/09/2016,"12 Black St, Off North Circular Road, Dublin 7",Dublin,181000.0,No,North Circular,Dublin 7,q2,30%
+05/10/2016,"18 Valentia Parade, North Circular Road, Dublin 7",Dublin,145000.0,No,North Circular,Dublin 7,q1,20%
+12/10/2016,"The Townhouse, 24A Valentia, North Circular Rd",Dublin,230000.0,No,North Circular,Dublin 7,q2,40%
+26/10/2016,"205 North Circular Rd, Dublin 7, Dublin",Dublin,805000.0,No,North Circular,Dublin 7,q4,100%
+28/10/2016,"Apts 1 - 8, 107 North Circular Road, Dublin 7",Dublin,645120.0,No,North Circular,Dublin 7,q4,100%
+11/11/2016,"11 Niall St, North Circular Rd, Dublin 7",Dublin,235000.0,No,North Circular,Dublin 7,q2,40%
+17/11/2016,"436 North Circular Rd, Apt 1, Dublin 7",Dublin,158000.0,No,North Circular,Dublin 7,q1,20%
+07/12/2016,"Apartment 1, 77 North Circular Road, Dublin 7",Dublin,735000.0,No,North Circular,Dublin 7,q4,100%
+09/12/2016,"18 Valentia House, Valentia Parade, North Circular Rd Dublin 7",Dublin,168000.0,No,North Circular,Dublin 7,q1,30%
+14/12/2016,"472 North Circular Rd, North Circular Rd, Dublin 1",Dublin,650000.0,No,North Circular,Dublin 7,q4,100%
+21/12/2016,"439 North Circular Road, Dublin 7",Dublin,550000.0,No,North Circular,Dublin 7,q4,90%
+06/01/2017,"29 Glengarriffe Parade, North Circular Rd, Dublin 7",Dublin,335000.0,No,North Circular,Dublin 7,q3,70%
+03/02/2017,"38 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,191000.0,No,North Circular,Dublin 7,q2,30%
+10/02/2017,"55 North Circular Road, Dublin 7",Dublin,690000.0,No,North Circular,Dublin 7,q4,100%
+13/03/2017,"540 North Circular Rd, Dublin 7",Dublin,350000.0,No,North Circular,Dublin 7,q3,80%
+21/03/2017,"10 Doon Ave, North Circular Rd, Dublin",Dublin,400000.0,No,North Circular,Dublin 7,q4,80%
+29/03/2017,"93 Prussia St, North Circular Road, Dublin 7",Dublin,275000.0,No,North Circular,Dublin 7,q3,60%
+30/03/2017,"36 Rathdown Sq, North Circular Road, Dublin 7",Dublin,197000.0,No,North Circular,Dublin 7,q2,40%
+05/04/2017,"9 Emmet Street, North Circular Road, Dublin 7",Dublin,330000.0,No,North Circular,Dublin 7,q3,70%
+05/04/2017,"9 Emmet Street, North Circular Road, Dublin 7",Dublin,10000.0,No,North Circular,Dublin 7,q1,10%
+25/04/2017,"19 North Circular Road, Dublin 7",Dublin,500000.0,No,North Circular,Dublin 7,q4,90%
+04/05/2017,"115 North Circular Rd, Dublin 7, Dublin",Dublin,550000.0,No,North Circular,Dublin 7,q4,90%
+08/05/2017,"327 North Circular Rd, Dublin 7, Dublin",Dublin,650000.0,No,North Circular,Dublin 7,q4,100%
+31/05/2017,"484 North Circular Raod, Dublin 1",Dublin,285000.0,No,North Circular,Dublin 7,q3,60%
+22/06/2017,"19 Annamoe Rd, North Circular Rd, Dublin 7",Dublin,428000.0,No,North Circular,Dublin 7,q4,90%
+27/06/2017,"20 Rutland Place North, North Circular Rd, Dublin 1",Dublin,190000.0,No,North Circular,Dublin 7,q2,30%
+27/06/2017,"474 North Circular Road, Dublin 1",Dublin,417500.0,No,North Circular,Dublin 7,q4,80%
+30/06/2017,"Apt 1, 45 North Circular Road, Dublin 7",Dublin,240000.0,No,North Circular,Dublin 7,q2,40%
+30/06/2017,"Apt 4, 45 North Circular Road, Dublin 7",Dublin,165000.0,No,North Circular,Dublin 7,q1,30%
+30/06/2017,"Apt. 2, 45 North Circular Road, Dublin 7",Dublin,165000.0,No,North Circular,Dublin 7,q1,30%
+30/06/2017,"Apt. 3, 45 North Circular Road, Dublin 7",Dublin,240000.0,No,North Circular,Dublin 7,q2,40%
+04/07/2017,"615 North Circular Road, Dublin 1.",Dublin,260000.0,No,North Circular,Dublin 7,q3,60%
+18/07/2017,"57A  North Circular Road, Dublin 7",Dublin,920000.0,No,North Circular,Dublin 7,q4,100%
+01/08/2017,"617 North Circular Rd, Dublin 1, Dublin",Dublin,255000.0,No,North Circular,Dublin 7,q2,50%
+02/08/2017,"68 Rathdown Rd, North Circular Rd, Dublin 7",Dublin,620000.0,No,North Circular,Dublin 7,q4,100%
+04/08/2017,"23 Portland Square, North Circular Road, Dublin 1",Dublin,279000.0,No,North Circular,Dublin 7,q3,60%
+17/08/2017,"15 Ardmore Avenue, North Circular Road, Dublin 7",Dublin,461000.0,No,North Circular,Dublin 7,q4,90%
+30/08/2017,"510 North Circular Rd, Dublin 1, Dublin",Dublin,345000.0,No,North Circular,Dublin 7,q3,80%
+30/08/2017,"The Mews, 2 North Circular Road, Dublin 7",Dublin,310000.0,No,North Circular,Dublin 7,q3,70%
+15/09/2017,"Apts 1-8, 341 North Circular Rd, Dublin 7",Dublin,412000.0,No,North Circular,Dublin 7,q4,80%
+21/09/2017,"62 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,250000.0,No,North Circular,Dublin 7,q2,50%
+22/09/2017,"16 Leo Street, North Circular Road, Dublin 7",Dublin,349000.0,No,North Circular,Dublin 7,q3,80%
+06/10/2017,"540 North Circular Rd, Dublin 7",Dublin,750000.0,No,North Circular,Dublin 7,q4,100%
+09/10/2017,"Apt 1, North Circular Road, Dublin 7",Dublin,110900.0,No,North Circular,Dublin 7,q1,10%
+09/10/2017,"Apt 2, 262 North Circular Road, Dublin 7",Dublin,110900.0,No,North Circular,Dublin 7,q1,10%
+09/10/2017,"Apt 3, 262 North Circular Road, Dublin 7",Dublin,110900.0,No,North Circular,Dublin 7,q1,10%
+09/10/2017,"Apt 4, 262 North Circular Road, Dublin 7",Dublin,110900.0,No,North Circular,Dublin 7,q1,10%
+09/10/2017,"Apt 5, 262 North Circular Road, Dublin 7",Dublin,110800.0,No,North Circular,Dublin 7,q1,10%
+09/10/2017,"Apt 6, 262 North Circular Road, Dublin 7",Dublin,110900.0,No,North Circular,Dublin 7,q1,10%
+09/10/2017,"Apt 7, 262 North Circular Road, Dublin 7",Dublin,110900.0,No,North Circular,Dublin 7,q1,10%
+09/10/2017,"Apt 8, 262 North Circular Road, Dublin 7",Dublin,110900.0,No,North Circular,Dublin 7,q1,20%
+09/10/2017,"Apt 9, 262 North Circular Road, Dublin 7",Dublin,110900.0,No,North Circular,Dublin 7,q1,20%
+15/11/2017,"39 North Great Charles St, North Circular Rd, Dublin 1",Dublin,350000.0,No,North Circular,Dublin 7,q3,80%
+16/11/2017,"No 96  North Circular Road, Dublin 7",Dublin,319000.0,No,North Circular,Dublin 7,q3,70%
+07/12/2017,"2 Marlborough Rd, North Circular Rd, Dublin 7",Dublin,690000.0,No,North Circular,Dublin 7,q4,100%
+07/12/2017,"205 North Circular Rd, Dublin 7, Dublin",Dublin,1100000.0,No,North Circular,Dublin 7,q4,100%
+07/12/2017,"Park Lodge Apartments, 7-9 North Circular Road, Dublin 7",Dublin,18300000.0,No,North Circular,Dublin 7,q4,100%
+08/12/2017,"60 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,250000.0,No,North Circular,Dublin 7,q2,50%
+12/12/2017,"14 Richmond Parade, North Circular Rd, Dublin 1",Dublin,215000.0,No,North Circular,Dublin 7,q2,40%
+14/12/2017,"37 North Great Charles St, North Circular Road, Dublin 7",Dublin,253000.0,No,North Circular,Dublin 7,q2,50%
+15/12/2017,"20 Valencia House, North Circular Rd, Dublin 7",Dublin,274000.0,No,North Circular,Dublin 7,q3,60%
+20/12/2017,"49 Rathdown Sq, North Circular Road, Dublin 7",Dublin,287600.0,No,North Circular,Dublin 7,q3,60%
+22/12/2017,"141 North Circular Road, Dublin 7",Dublin,690000.0,No,North Circular,Dublin 7,q4,100%
+31/01/2018,"29 Richmond Cottages, North Circular Road, Dublin 1",Dublin,137000.0,No,North Circular,Dublin 7,q1,20%
+07/02/2018,"41 Niall St, Off Oxmantown Rd, North Circular Rd Dublin 7",Dublin,440000.0,No,North Circular,Dublin 7,q4,90%
+20/03/2018,"55 Marlborough Mews, North Circular Rd, Dublin 7",Dublin,227719.0,No,North Circular,Dublin 7,q2,40%
+19/04/2018,"3 Marlborough Court, Marlborough Rd, The North Circular Rd Dublin 7",Dublin,280000.0,No,North Circular,Dublin 7,q3,60%
+23/05/2018,"1 Marlborough Court, North Circular Road, Dublin 7",Dublin,315000.0,No,North Circular,Dublin 7,q3,70%
+24/05/2018,"50 North Circular Road, Dublin 7",Dublin,620000.0,No,North Circular,Dublin 7,q4,100%
+29/05/2018,"378A North Circular Road, North Circular Road, Dublin 7",Dublin,320000.0,No,North Circular,Dublin 7,q3,70%
+07/06/2018,"66 Annamoe Rd, North Circular Rd, Dublin 7",Dublin,592000.0,No,North Circular,Dublin 7,q4,100%
+22/06/2018,"10 Josephine Ave, North Circular Rd, Dublin 7",Dublin,420000.0,No,North Circular,Dublin 7,q4,90%
+11/07/2018,"28 Ellesmere Ave, North Circular Rd, Dublin",Dublin,640000.0,No,North Circular,Dublin 7,q4,100%
+03/08/2018,"17 St Ignatius Ave, North Circular Road, Dublin City",Dublin,230000.0,No,North Circular,Dublin 7,q2,40%
+09/08/2018,"1 Belvedere Ave, North Circular Rd, Dublin 1",Dublin,450000.0,No,North Circular,Dublin 7,q4,90%
+21/08/2018,"51 Ellesmere Ave, North Circular Rd, Dublin 7",Dublin,490000.0,No,North Circular,Dublin 7,q4,90%
+07/09/2018,"Apt 1, 134 North Circular Rd, Dublin 7",Dublin,575000.0,No,North Circular,Dublin 7,q4,100%
+11/09/2018,"1 25 North Circular Rd, Dublin 7, Dublin",Dublin,550000.0,No,North Circular,Dublin 7,q4,90%
+20/09/2018,"Cherrymount House, Cherrymount Park, North Circular Rd Dublin 7",Dublin,970000.0,No,North Circular,Dublin 7,q4,100%
+03/10/2018,"223 North Circular Rd, Dublin 1, Dublin",Dublin,550000.0,No,North Circular,Dublin 7,q4,90%
+03/10/2018,"573 North Circular Rd, Dublin 1, Dublin",Dublin,660000.0,No,North Circular,Dublin 7,q4,100%
+03/10/2018,"Apt 8 Valentia House, 457 North Circular Rd, Dublin",Dublin,250000.0,No,North Circular,Dublin 7,q2,50%
+04/10/2018,"12 St Joseph St, North Circular Rd, Dublin 7",Dublin,390000.0,No,North Circular,Dublin 7,q4,80%
+15/10/2018,"517 North Circular Rd, Dublin 1, Dublin",Dublin,295000.0,No,North Circular,Dublin 7,q3,70%
+16/10/2018,"239 North Circular Rd, Dublin 7, Dublin",Dublin,740000.0,No,North Circular,Dublin 7,q4,100%
+15/11/2018,"Apt 1, 169 North Circular Rd, Dublin",Dublin,695000.0,No,North Circular,Dublin 7,q4,100%
+26/11/2018,"428 North Circular Rd, Dublin 7, Dublin",Dublin,300000.0,No,North Circular,Dublin 7,q3,70%
+27/11/2018,"14 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,350000.0,No,North Circular,Dublin 7,q3,80%
+30/11/2018,"Flat 1, 97 North Circular Rd, Dublin 7",Dublin,3000000.0,No,North Circular,Dublin 7,q4,100%
+13/12/2018,"No 4 Valentia Parade, North Circular Road, Dublin 7",Dublin,185000.0,No,North Circular,Dublin 7,q2,30%
+18/12/2018,"10 Bradogue Court, Annamoe Rd, North Circular Rd Dublin 7",Dublin,272000.0,No,North Circular,Dublin 7,q3,60%
+18/12/2018,"57A  North Circular Road, Dublin 7",Dublin,630000.0,No,North Circular,Dublin 7,q4,100%
+19/12/2018,"Apt 9, Valencia House, North Circular Rd Dublin 7",Dublin,195000.0,No,North Circular,Dublin 7,q2,30%
+11/01/2019,"460 North Circular Rd, Dublin 1",Dublin,571600.0,No,North Circular,Dublin 7,q4,100%
+11/01/2019,"563 North Circular Rd, Dublin 1, Dublin",Dublin,700000.0,No,North Circular,Dublin 7,q4,100%
+14/01/2019,"6 Goldsmith Street, North Circular Road, Dublin 7",Dublin,350000.0,No,North Circular,Dublin 7,q3,80%
+16/01/2019,"73 North Circular Road, Dublin 7, Dublin",Dublin,650000.0,No,North Circular,Dublin 7,q4,100%
+01/02/2019,"2 Ardmore Ave, North Circular Rd, Dublin 7",Dublin,515000.0,No,North Circular,Dublin 7,q4,90%
+12/02/2019,"Apt 3, 436 North Circular Rd, Dublin 7",Dublin,185000.0,No,North Circular,Dublin 7,q2,30%
+08/03/2019,"18 Ellesmere Ave, North Circular Rd, Dublin 7",Dublin,515000.0,No,North Circular,Dublin 7,q4,90%
+13/03/2019,"11 Niall St, North Circular Rd, Dublin 7",Dublin,375000.0,No,North Circular,Dublin 7,q4,80%
+28/03/2019,"Apartment 1, 607 North Circular Road, Dublin 1",Dublin,790000.0,No,North Circular,Dublin 7,q4,100%
+18/04/2019,"67, North Circular Road, Dublin 7",Dublin,880000.0,No,North Circular,Dublin 7,q4,100%
+18/04/2019,"69, North Circular Road, Dublin 7",Dublin,920000.0,No,North Circular,Dublin 7,q4,100%
+29/04/2019,"6 Muckross Parade, North Circular Rd, Dublin 7",Dublin,325000.0,No,North Circular,Dublin 7,q3,70%
+17/05/2019,"197 North Circular Rd, Dublin 7, Dublin",Dublin,850000.0,No,North Circular,Dublin 7,q4,100%
+21/05/2019,"2 Black St, North Circular Road, Dublin 7",Dublin,250000.0,No,North Circular,Dublin 7,q2,50%
+21/05/2019,"50 Oxmantown Rd, North Circular Rd, Dublin 7",Dublin,290000.0,No,North Circular,Dublin 7,q3,70%
+24/05/2019,"16 Rosemount Road, North Circular Road, Dublin 7",Dublin,550000.0,No,North Circular,Dublin 7,q4,90%
+29/05/2019,"13 Muckross Parade, North Circular Road, Dublin 7",Dublin,270000.0,No,North Circular,Dublin 7,q3,60%
+30/05/2019,"548 North Circular Rd, Dublin 1",Dublin,555000.0,No,North Circular,Dublin 7,q4,100%
+21/06/2019,"29 Blackhorse Grove, North Circular Road, Dublin 7",Dublin,375000.0,No,North Circular,Dublin 7,q4,80%
+25/06/2019,"430 North Circular Rd, Apt 1, Dublin 1",Dublin,260000.0,No,North Circular,Dublin 7,q3,60%
+26/06/2019,"430 North Circular Rd, Apt 1, Dublin 1",Dublin,260000.0,No,North Circular,Dublin 7,q3,60%
+26/06/2019,"Apt 1, 460 North Circular Road, Dublin 1",Dublin,471600.0,No,North Circular,Dublin 7,q4,90%
+28/06/2019,"Apt 1, 444 North Circular Rd, Dublin 1",Dublin,324000.0,No,North Circular,Dublin 7,q3,70%
+28/06/2019,"No1 27 North Circular Rd, Dublin 1, Dublin",Dublin,525000.0,No,North Circular,Dublin 7,q4,90%
+12/07/2019,"1 Sherrard Ave, North Circular Rd, Dublin 7",Dublin,210000.0,No,North Circular,Dublin 7,q2,40%
+16/07/2019,"12 Muckross Parade, North Circular Rd, Dublin 7",Dublin,280000.0,No,North Circular,Dublin 7,q3,60%
+25/07/2019,"13 Rutland Place, North Circular Road, Dublin 1",Dublin,245000.0,No,North Circular,Dublin 7,q2,50%
+07/08/2019,"12 Cheerymount Park, North Circular Rd, Dublin 7",Dublin,570000.0,No,North Circular,Dublin 7,q4,100%
+08/08/2019,"20 Rathdown Sq, North Circular Rd, Dublin 7",Dublin,310000.0,No,North Circular,Dublin 7,q3,70%
+28/08/2019,"9 Josephine Ave, North Circular Rd, Dublin 7",Dublin,335000.0,No,North Circular,Dublin 7,q3,70%
+16/09/2019,"39 North Great Charles St, North Circular Rd, Dublin 1",Dublin,456000.0,No,North Circular,Dublin 7,q4,90%
+23/09/2019,"93 North Circular Road, Dublin 7",Dublin,700000.0,No,North Circular,Dublin 7,q4,100%
+04/10/2019,"28 Valentia Parade, North Circular Rd, Dublin 7",Dublin,166000.0,No,North Circular,Dublin 7,q1,30%

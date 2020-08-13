@@ -1,0 +1,501 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+22/01/2010,"100  Block B2  Fitzwillam Point, Fitzwilliam Quay, Ringsend  Dublin 4",Dublin,273139.0,Yes,Ringsend,Dublin 4,q2,40%
+27/01/2010,"Apt 43 Grand Canal Warf, Ringsend Road, Dublin 4",Dublin,325000.0,No,Ringsend,Dublin 4,q3,60%
+16/02/2010,"87 Ringsend Park, Ringsend",Dublin,270000.0,No,Ringsend,Dublin 4,q2,40%
+26/02/2010,"96 Veronica Terrace, Ringsend",Dublin,240000.0,No,Ringsend,Dublin 4,q2,30%
+23/03/2010,"45B Pigeon House Road, Ringsend",Dublin,365000.0,No,Ringsend,Dublin 4,q3,70%
+06/05/2010,"22 Barrow Street, Ringsend, Dubllin",Dublin,312000.0,No,Ringsend,Dublin 4,q3,60%
+12/05/2010,"Apartment 103, Fitzwilliam Quay, Ringsend",Dublin,230000.0,No,Ringsend,Dublin 4,q1,30%
+19/05/2010,"Apt. 127 The Deirdre, Fisherman'S Wharf, Ringsend  Dublin 4",Dublin,205000.0,No,Ringsend,Dublin 4,q1,20%
+24/05/2010,"Apartment 147 Charlotte Quay Dock, Ringsend, Dublin 4",Dublin,220000.0,No,Ringsend,Dublin 4,q1,30%
+27/05/2010,"77  St. Magdalen Terrace, Stella Gardens, Ringsend",Dublin,220000.0,No,Ringsend,Dublin 4,q1,30%
+01/06/2010,"8 Hope Street, Ringsend",Dublin,166500.0,No,Ringsend,Dublin 4,q1,10%
+30/06/2010,"29 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,280000.0,No,Ringsend,Dublin 4,q2,40%
+01/07/2010,"137  Charlotte Quay Dock, Ringsend Road",Dublin,272000.0,No,Ringsend,Dublin 4,q2,40%
+08/07/2010,"33 Aikenhead Terrace, Stella Gardens, Ringsend",Dublin,280000.0,No,Ringsend,Dublin 4,q2,40%
+08/07/2010,"33 Aikenhead Terrace, Stella Gardens, Ringsend",Dublin,280000.0,No,Ringsend,Dublin 4,q2,40%
+16/08/2010,"2 Howard Street, Ringsend",Dublin,90000.0,No,Ringsend,Dublin 4,q1,10%
+06/09/2010,"Apartment 39  Fitzwilliam Quay, Ringsend",Dublin,156000.0,No,Ringsend,Dublin 4,q1,10%
+13/09/2010,"43 Ropewalk Place, Ringsend, Dublin 4",Dublin,184000.0,No,Ringsend,Dublin 4,q1,20%
+21/09/2010,"10 Ropewalk Place, Ringsend",Dublin,250000.0,No,Ringsend,Dublin 4,q2,30%
+21/09/2010,"Apartment 69, Fitzwilliam Quay, Ringsend",Dublin,222500.0,No,Ringsend,Dublin 4,q1,30%
+14/10/2010,"14 Camden Lock, Ringsend, Dublin 4",Dublin,262000.0,No,Ringsend,Dublin 4,q2,40%
+14/10/2010,"27 Shelbourne Park Mews, Ringsend Road, Dublin 4",Dublin,202000.0,No,Ringsend,Dublin 4,q1,20%
+05/11/2010,"13 Hastings Street, Ringsend, Dublin 4",Dublin,215000.0,No,Ringsend,Dublin 4,q1,30%
+10/11/2010,"Apartment 35, Fitzwilliam Quay, Ringsend",Dublin,245000.0,No,Ringsend,Dublin 4,q2,30%
+25/11/2010,"19 Barrow Street, Ringsend, Dublin 4",Dublin,285000.0,No,Ringsend,Dublin 4,q2,50%
+02/12/2010,"29 Penrose Street, Ringsend",Dublin,312000.0,No,Ringsend,Dublin 4,q3,60%
+17/12/2010,"52 Grand Canal Wharf, Ringsend",Dublin,265000.0,No,Ringsend,Dublin 4,q2,40%
+22/12/2010,"Apartment 53, Shelbourne Village, Ringsend Road",Dublin,196500.0,No,Ringsend,Dublin 4,q1,20%
+05/01/2011,"191 Charlotte Quay Dock, Ringsend Road",Dublin,280000.0,No,Ringsend,Dublin 4,q2,40%
+05/01/2011,"2 Pembroke Cottages, Ringsend, Dublin 4",Dublin,190000.0,No,Ringsend,Dublin 4,q1,20%
+21/02/2011,"13 Shelbourne Park Mews, Ringsend Road, Dublin 4",Dublin,200000.0,No,Ringsend,Dublin 4,q1,20%
+08/04/2011,"13 Somerset Street, Ringsend",Dublin,250000.0,No,Ringsend,Dublin 4,q2,30%
+20/04/2011,"153  The Waterside, Charlotte Quay, Ringsend Road",Dublin,190000.0,No,Ringsend,Dublin 4,q1,20%
+28/04/2011,"38 Bremen Avenue, Ringsend",Dublin,200000.0,No,Ringsend,Dublin 4,q1,20%
+06/05/2011,"17 Bremen Road, Ringsend",Dublin,180000.0,No,Ringsend,Dublin 4,q1,20%
+22/06/2011,"6 St Patrick'S Villas, Ringsend",Dublin,155000.0,No,Ringsend,Dublin 4,q1,10%
+06/07/2011,"Apartment 240, Charlotte Quay Dock, Ringsend",Dublin,353000.0,No,Ringsend,Dublin 4,q3,70%
+11/07/2011,"27 Cambridge Avenue, Ringsend",Dublin,150000.0,No,Ringsend,Dublin 4,q1,10%
+15/07/2011,"178 The Waterside, Ringsend Road",Dublin,200000.0,No,Ringsend,Dublin 4,q1,20%
+20/07/2011,"66 South Lotts Road, Ringsend",Dublin,250000.0,No,Ringsend,Dublin 4,q2,30%
+25/07/2011,"36 Gordon Street, Ringsend, Dublin 4",Dublin,170000.0,No,Ringsend,Dublin 4,q1,10%
+10/08/2011,"48 Penrose Street, Ringsend, Dublin 4",Dublin,200000.0,No,Ringsend,Dublin 4,q1,20%
+24/08/2011,"Apt. 84 Fitzwilliam Quay, Ringsend",Dublin,245000.0,No,Ringsend,Dublin 4,q2,30%
+26/08/2011,"180 Oliver Plunkett Avenue, Stella Gardens, Ringsend",Dublin,177000.0,No,Ringsend,Dublin 4,q1,20%
+15/09/2011,"128 Ringsend Park, Ringsend, Dublin 4",Dublin,265000.0,No,Ringsend,Dublin 4,q2,40%
+10/10/2011,"33 Ringsend Road, Ringsend",Dublin,160000.0,No,Ringsend,Dublin 4,q1,10%
+17/11/2011,"Apt 20  Shelbourne Village, Ringsend",Dublin,121000.0,No,Ringsend,Dublin 4,q1,10%
+03/12/2011,"49 Camden Lock, Ringsend",Dublin,310000.0,No,Ringsend,Dublin 4,q2,50%
+22/12/2011,"14 South Dock Place, Ringsend",Dublin,185000.0,No,Ringsend,Dublin 4,q1,20%
+18/01/2012,"15 Somerset Street, Ringsend, Dublin 4.",Dublin,175000.0,No,Ringsend,Dublin 4,q1,10%
+23/01/2012,"123 Ringsend Park, Ringsend",Dublin,243000.0,No,Ringsend,Dublin 4,q2,30%
+24/01/2012,"Apartment 22 Shelbourne Park Mews, 25 Ringsend Road, Dublin 7",Dublin,137000.0,No,Ringsend,Dublin 4,q1,10%
+27/01/2012,"21 St. Patrick'S Villas, Ringsend, Dublin 4",Dublin,120000.0,No,Ringsend,Dublin 4,q1,10%
+23/02/2012,"59 Ringsend Road, Dublin 4",Dublin,190000.0,No,Ringsend,Dublin 4,q1,20%
+24/02/2012,"Apartment 93 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,175000.0,No,Ringsend,Dublin 4,q1,10%
+24/02/2012,"Apt 193 Charlotte Quay Dock, Ringsend Road, Dublin 4",Dublin,220000.0,No,Ringsend,Dublin 4,q1,30%
+03/04/2012,"32 Gordon Street, Ringsend",Dublin,165000.0,No,Ringsend,Dublin 4,q1,10%
+22/05/2012,"Apt 107 Charlotte Quay Dock, Ringsend",Dublin,122000.0,No,Ringsend,Dublin 4,q1,10%
+29/05/2012,"105 Charlotte Quay Dock, Ringsend",Dublin,177500.0,No,Ringsend,Dublin 4,q1,20%
+31/05/2012,"9 Hope Street, Ringsend",Dublin,165000.0,No,Ringsend,Dublin 4,q1,10%
+01/06/2012,"53 Ringsend Park, Ringsend",Dublin,85000.0,No,Ringsend,Dublin 4,q1,10%
+22/06/2012,"Apartment 33, Fitzwilliam Quay, Ringsend",Dublin,192500.0,No,Ringsend,Dublin 4,q1,20%
+28/06/2012,"2 Gerald Street, Ringsend",Dublin,143500.0,No,Ringsend,Dublin 4,q1,10%
+29/06/2012,"33 Ringsend Road, Ringsend",Dublin,295000.0,No,Ringsend,Dublin 4,q2,50%
+16/07/2012,"Apt 106 Charlotte Quay, Ringsend",Dublin,170000.0,No,Ringsend,Dublin 4,q1,10%
+26/07/2012,"104 South Lotts Road, Ringsend, Dublin 4",Dublin,176000.0,No,Ringsend,Dublin 4,q1,20%
+31/07/2012,"9 Penrose Street, Ringsend, Dublin 4",Dublin,142000.0,No,Ringsend,Dublin 4,q1,10%
+01/08/2012,"89 The Waterside, Ringsend, Dublin 4",Dublin,155000.0,No,Ringsend,Dublin 4,q1,10%
+22/08/2012,"89 Veronica Terrace, Ringsend",Dublin,185000.0,No,Ringsend,Dublin 4,q1,20%
+03/09/2012,"12  14  16 Bridge Street, Ringsend",Dublin,125000.0,No,Ringsend,Dublin 4,q1,10%
+03/09/2012,"68 South Lotts Road, Ringsend",Dublin,125000.0,No,Ringsend,Dublin 4,q1,10%
+05/09/2012,"32 South Lotts, Ringsend",Dublin,175000.0,No,Ringsend,Dublin 4,q1,10%
+13/09/2012,"35 South Lotts Road, Ringsend",Dublin,267000.0,No,Ringsend,Dublin 4,q2,40%
+01/10/2012,"174 Charlotte Quay, Ringsend",Dublin,193700.0,No,Ringsend,Dublin 4,q1,20%
+30/10/2012,"9 Parkview Place, Ringsend",Dublin,137000.0,No,Ringsend,Dublin 4,q1,10%
+14/11/2012,"No 29, Shelbourne Park Mews, Ringsend Road",Dublin,187000.0,No,Ringsend,Dublin 4,q1,20%
+16/11/2012,"55 Ringsend Park, Ringsend  Dublin 4",Dublin,127000.0,No,Ringsend,Dublin 4,q1,10%
+23/11/2012,"No 8 Penrose Street, Ringsend, Dublin 4",Dublin,195000.0,No,Ringsend,Dublin 4,q1,20%
+26/11/2012,"22 Fitzwilliam St, Ringsend, Dublin 4",Dublin,80000.0,No,Ringsend,Dublin 4,q1,10%
+28/11/2012,"Camden Lock, South Dock Road, Ringsend",Dublin,180000.0,No,Ringsend,Dublin 4,q1,20%
+05/12/2012,"3 Pembroke Cottages, Ringsend",Dublin,115000.0,No,Ringsend,Dublin 4,q1,10%
+06/12/2012,"Apartment 21, Fitzwilliam Quay, Ringsend",Dublin,190000.0,No,Ringsend,Dublin 4,q1,20%
+08/01/2013,"215 Waterside, Charlotte Quay, Ringsend",Dublin,450000.0,No,Ringsend,Dublin 4,q4,90%
+18/01/2013,"25 Fitzwilliam Point Apartments, Ringsend",Dublin,490000.0,No,Ringsend,Dublin 4,q4,100%
+25/01/2013,"44 Bremen Road, Ringsend, Dublin 4",Dublin,235000.0,No,Ringsend,Dublin 4,q2,30%
+07/02/2013,"9 Pigeon House Road, Ringsend, Dublin 4",Dublin,138000.0,No,Ringsend,Dublin 4,q1,10%
+12/02/2013,"Apt. 31 Shelbourne Park Mews, Ringsend, Dublin 4",Dublin,215000.0,No,Ringsend,Dublin 4,q1,30%
+19/02/2013,"15 Poolbeg Quay, Pigeon House Road, Ringsend",Dublin,130000.0,No,Ringsend,Dublin 4,q1,10%
+01/03/2013,"68 South Lotts Road, Ringsend",Dublin,339950.0,No,Ringsend,Dublin 4,q3,60%
+21/03/2013,"9 Cambridge Avenue, Ringsend",Dublin,205000.0,No,Ringsend,Dublin 4,q1,20%
+26/04/2013,"80 Pigeon Road, Ringsend, Dublin 4",Dublin,310000.0,No,Ringsend,Dublin 4,q2,50%
+08/05/2013,"92 South Lotts Road, Ringsend, Parish Of St. Mark",Dublin,305000.0,No,Ringsend,Dublin 4,q2,50%
+28/06/2013,"34 Fishermans Wharf, Ringsend",Dublin,185000.0,No,Ringsend,Dublin 4,q1,20%
+12/07/2013,"Apartment 237 The Waterside, Charlotte Quay, Ringsend",Dublin,92000.0,No,Ringsend,Dublin 4,q1,10%
+08/08/2013,"Apartment 70 Shelbourne Village, Ringsend",Dublin,175000.0,No,Ringsend,Dublin 4,q1,10%
+13/08/2013,"191 The George, Charlotte Quay Dock, Ringsend",Dublin,205000.0,No,Ringsend,Dublin 4,q1,20%
+21/08/2013,"10A  The Bottleworks, Ringsend",Dublin,210000.0,No,Ringsend,Dublin 4,q1,20%
+22/08/2013,"112 Fitzwilliam Quay, Ringsend",Dublin,230000.0,No,Ringsend,Dublin 4,q1,30%
+04/09/2013,"Apartment 128 The Jessop, Charlotte Quay Dock, Ringsend",Dublin,240000.0,No,Ringsend,Dublin 4,q2,30%
+20/09/2013,"77 Millennium Tower, Charlotte Quay Dock, Ringsend Road",Dublin,556810.05,No,Ringsend,Dublin 4,q4,100%
+10/10/2013,"30 Waterside Apt, Block A, Ringsend Road",Dublin,130000.0,No,Ringsend,Dublin 4,q1,10%
+16/10/2013,"7 Fishermans Wharf, Ringsend",Dublin,265000.0,No,Ringsend,Dublin 4,q2,40%
+17/10/2013,"10 Fairview Avenue, Ringsend, Dublin 4",Dublin,185000.0,No,Ringsend,Dublin 4,q1,20%
+29/10/2013,"10 Poolbeg Quay, Ringsend",Dublin,160000.0,No,Ringsend,Dublin 4,q1,10%
+29/10/2013,"44 Fishermans Wharf, York Rd, Ringsend Dublin 4",Dublin,195500.0,No,Ringsend,Dublin 4,q1,20%
+29/10/2013,"6 St. Patricks Villas, Ringsend",Dublin,347000.0,No,Ringsend,Dublin 4,q3,70%
+01/11/2013,"Apartment 3  Block A, Fitzwilliam Point Apartments, Fitzwilliam Quay  Ringsend",Dublin,176211.45,No,Ringsend,Dublin 4,q1,20%
+07/11/2013,"35 Pigeon House Road, Ringsend",Dublin,150000.0,No,Ringsend,Dublin 4,q1,10%
+12/11/2013,"132 The Jessop, Charlotte Quay Dock, Ringsend",Dublin,218500.0,No,Ringsend,Dublin 4,q1,30%
+12/11/2013,"25 Gordon Street, Ringsend",Dublin,120000.0,No,Ringsend,Dublin 4,q1,10%
+15/11/2013,"95 Gordon Street, Ringsend",Dublin,220000.0,No,Ringsend,Dublin 4,q1,30%
+15/11/2013,"Apt 86 Fitzwilliam Point, Fitzwilliam Quay, Ringsend",Dublin,219000.0,No,Ringsend,Dublin 4,q1,30%
+29/11/2013,"3 Hope St, Ringsend, Dublin 4",Dublin,100000.0,No,Ringsend,Dublin 4,q1,10%
+29/11/2013,"64 Pigeon House Road, Ringsend, Dublin 4",Dublin,301510.0,No,Ringsend,Dublin 4,q2,50%
+29/11/2013,"91 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,200000.0,No,Ringsend,Dublin 4,q1,20%
+03/12/2013,"52 Pembroke Cottages, Ringsend, Dublin 4",Dublin,185000.0,No,Ringsend,Dublin 4,q1,20%
+03/12/2013,"98 South Lotts Rd, Ringsend, Dublin 4",Dublin,352000.0,No,Ringsend,Dublin 4,q3,70%
+05/12/2013,"81 Shelbourne Village, Ringsend, Dublin 4",Dublin,171000.0,No,Ringsend,Dublin 4,q1,10%
+11/12/2013,"4 Hope St, Ringsend, Dublin 4",Dublin,245000.0,No,Ringsend,Dublin 4,q2,30%
+12/12/2013,"1 Gordon St, Ringsend, Dublin 4",Dublin,182000.0,No,Ringsend,Dublin 4,q1,20%
+12/12/2013,"58 Poolbeg Quay, Ringsend, Dublin 4",Dublin,147000.0,No,Ringsend,Dublin 4,q1,10%
+17/12/2013,"127 Ringsend Park, Ringsend, Dublin 4",Dublin,360000.0,No,Ringsend,Dublin 4,q3,70%
+17/12/2013,"36 Millenium Tower, Charlotte Quay Dock, Ringsend Rd Dublin 4",Dublin,385000.0,No,Ringsend,Dublin 4,q3,80%
+17/12/2013,"46 Doris St, South Lotts Rd, Ringsend Dublin 4",Dublin,205000.0,No,Ringsend,Dublin 4,q1,20%
+19/12/2013,"125 Charlotte Quay Dock, Ringsend Rd, Dublin 4",Dublin,265000.0,No,Ringsend,Dublin 4,q2,40%
+19/12/2013,"27 Pine Road, Ringsend, Dublin 4",Dublin,180000.0,No,Ringsend,Dublin 4,q1,20%
+20/12/2013,"3 Fitzwilliam Quay, Ringsend, Dublin 2",Dublin,282500.0,No,Ringsend,Dublin 4,q2,40%
+23/12/2013,"10 South Dock Place, Ringsend, Dublin 4",Dublin,340000.0,No,Ringsend,Dublin 4,q3,60%
+06/01/2014,"76 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,241000.0,No,Ringsend,Dublin 4,q2,30%
+06/02/2014,"17 Hope St, Ringsend, Dublin 4",Dublin,219000.0,No,Ringsend,Dublin 4,q1,30%
+12/02/2014,"85 Gordon Street, Ringsend, Dublin 4",Dublin,290000.0,No,Ringsend,Dublin 4,q2,50%
+14/03/2014,"168 The Waterside Apts, Ringsend Rd, Ringsend Dublin 4",Dublin,260000.0,No,Ringsend,Dublin 4,q2,40%
+28/03/2014,"179 The George, Charlotte Quay, Ringsend Dublin 2",Dublin,365000.0,No,Ringsend,Dublin 4,q3,70%
+31/03/2014,"109 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,262000.0,No,Ringsend,Dublin 4,q2,40%
+07/04/2014,"4 Shelbourne Park Mews, Ringsend Rd, Dublin 4",Dublin,220500.0,No,Ringsend,Dublin 4,q1,30%
+07/04/2014,"Apt 53 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,272500.0,No,Ringsend,Dublin 4,q2,40%
+17/04/2014,"22 Hastings St, Ringsend, Dublin 4",Dublin,238000.0,No,Ringsend,Dublin 4,q2,30%
+28/04/2014,"15 Pembroke Sq, Ringsend, Dublin 2",Dublin,280000.0,No,Ringsend,Dublin 4,q2,40%
+28/04/2014,"65 Fishermans Wharf, Thorncastle St, Ringsend",Dublin,191500.0,No,Ringsend,Dublin 4,q1,20%
+29/04/2014,"7 Pembroke St, Ringsend, Dublin 4",Dublin,357000.0,No,Ringsend,Dublin 4,q3,70%
+12/05/2014,"Apartment 128 Fisherman'S Wharf, Ringsend, Dublin 4",Dublin,194000.0,No,Ringsend,Dublin 4,q1,20%
+15/05/2014,"3 Ropewalk Mews, Ropewalk Place, Ringsend",Dublin,247000.0,No,Ringsend,Dublin 4,q2,30%
+30/05/2014,"56 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,340000.0,No,Ringsend,Dublin 4,q3,70%
+18/06/2014,"161 The George, Charlotte Quay Dock, Ringsend Rd Dublin 4",Dublin,310000.0,No,Ringsend,Dublin 4,q2,50%
+20/06/2014,"11 Poolbeg Quay, Ringsend, Dublin 4",Dublin,241000.0,No,Ringsend,Dublin 4,q2,30%
+24/06/2014,"1 South Dock Street, Ringsend, Dublin 4",Dublin,210000.0,No,Ringsend,Dublin 4,q1,20%
+26/06/2014,"70 Shelbourne Park, Ringsend, Dublin 4",Dublin,252500.0,No,Ringsend,Dublin 4,q2,40%
+02/07/2014,"95 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,200000.0,No,Ringsend,Dublin 4,q1,20%
+15/07/2014,"28 Pembroke Cottages, Ringsend, Dublin 4",Dublin,210000.0,No,Ringsend,Dublin 4,q1,20%
+17/07/2014,"1 Hope St, Ringsend, Dublin 4",Dublin,290000.0,No,Ringsend,Dublin 4,q2,50%
+25/07/2014,"87 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,173000.0,No,Ringsend,Dublin 4,q1,10%
+28/07/2014,"13 Barrow St, Ringsend, Dublin 4",Dublin,380000.0,No,Ringsend,Dublin 4,q3,80%
+30/07/2014,"10 Shelbourne Village, Ringsend, Dublin 4",Dublin,242500.0,No,Ringsend,Dublin 4,q2,30%
+18/08/2014,"43 Gordon St, Ringsend, Dublin 4",Dublin,385000.0,No,Ringsend,Dublin 4,q4,80%
+22/08/2014,"Apartment 103, Fitzwilliam Quay, Ringsend",Dublin,311000.0,No,Ringsend,Dublin 4,q3,60%
+28/08/2014,"Apartment 173 The Waterside, Charlotte Quay, Ringsend Road",Dublin,202000.0,No,Ringsend,Dublin 4,q1,20%
+05/09/2014,"4 Grand Caval Wharf, Ringsend, Dublin 4",Dublin,277500.0,No,Ringsend,Dublin 4,q2,40%
+08/09/2014,"6 Shelbourne Park Mews, Ringsend Rd, Dublin 4",Dublin,200000.0,No,Ringsend,Dublin 4,q1,20%
+11/09/2014,"26 Camden Lock, Ringsend, Dublin 4",Dublin,229000.0,No,Ringsend,Dublin 4,q1,30%
+16/09/2014,"142 The Jessop, Charlotte Quay Dock, Ringsend Rd Dublin 4",Dublin,340000.0,No,Ringsend,Dublin 4,q3,70%
+17/09/2014,"155 The Waterside Apts, Ringsend Rd, Dublin 4",Dublin,190000.0,No,Ringsend,Dublin 4,q1,20%
+22/09/2014,"181 The George, Charlotte Quay, Ringsend Rd Dublin 4",Dublin,275000.0,No,Ringsend,Dublin 4,q2,40%
+22/09/2014,"190 The George, Charlotte Quay, Ringsend Rd Dublin 4",Dublin,275000.0,No,Ringsend,Dublin 4,q2,40%
+22/09/2014,"197 The George, Charlotte Quay, Ringsend Rd Dublin 4",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+23/09/2014,"17 Howard St, Ringsend, Dublin 4",Dublin,317500.0,No,Ringsend,Dublin 4,q3,60%
+30/09/2014,"Apt 20, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,250000.0,No,Ringsend,Dublin 4,q2,30%
+17/10/2014,"33 Fitzwilliam Point, Ringsend, Dublin 4",Dublin,314500.0,No,Ringsend,Dublin 4,q3,60%
+23/10/2014,"48 Doris St, Ringsend, Dublin 4",Dublin,340000.0,No,Ringsend,Dublin 4,q3,70%
+04/11/2014,"57 Ringsend Park, Ringsend, Dublin 4",Dublin,176000.0,No,Ringsend,Dublin 4,q1,20%
+07/11/2014,"47 Shelbourne Village, Ringsend, Dublin 2",Dublin,230000.0,No,Ringsend,Dublin 4,q1,30%
+19/11/2014,"7 Pigeon House Road, Ringsend, Dublin 4",Dublin,215000.0,No,Ringsend,Dublin 4,q1,30%
+27/11/2014,"94 Shelbourne Park, South Lotts Rd, Ringsend Dublin 4",Dublin,275000.0,No,Ringsend,Dublin 4,q2,40%
+27/11/2014,"Appartment 1, 10 Bridge St, Ringsend",Dublin,200000.0,No,Ringsend,Dublin 4,q1,20%
+28/11/2014,"25 South Lotts Rd, Ringsend, Dublin 4",Dublin,380000.0,No,Ringsend,Dublin 4,q3,80%
+04/12/2014,"Apt 240, Charlotte Quay Dock, Ringsend",Dublin,495000.0,No,Ringsend,Dublin 4,q4,100%
+11/12/2014,"The Dwelling, 8 Thorncastle St, Ringsend",Dublin,140000.0,No,Ringsend,Dublin 4,q1,10%
+12/12/2014,"10 Cambridge Park, Ringsend",Dublin,275000.0,No,Ringsend,Dublin 4,q2,40%
+12/12/2014,"50 St Patricks Villas, Ringsend, Dublin 4",Dublin,385000.0,No,Ringsend,Dublin 4,q4,80%
+16/12/2014,"58 Fishermans Wharf, York Rd, Ringsend",Dublin,217500.0,No,Ringsend,Dublin 4,q1,30%
+17/12/2014,"16 Aikenhead Terrace, Stella Gardens, Ringsend Dublin 4",Dublin,460000.0,No,Ringsend,Dublin 4,q4,90%
+19/12/2014,"20 Grand Canal Wharf, Ringsend, Dublin 2",Dublin,340000.0,No,Ringsend,Dublin 4,q3,70%
+22/12/2014,"32 Penrose St, Ringsend, Dublin 4",Dublin,375000.0,No,Ringsend,Dublin 4,q3,80%
+22/12/2014,"34 Ropewalk Place, Ringsend, Dublin 4",Dublin,183199.0,No,Ringsend,Dublin 4,q1,20%
+22/12/2014,"61 Gordon St, Ringsend, Dublin 4",Dublin,360000.0,No,Ringsend,Dublin 4,q3,70%
+23/12/2014,"124 The Waterside, Charlotte Quay, Ringsend Dublin 4",Dublin,330000.0,No,Ringsend,Dublin 4,q3,60%
+07/01/2015,"53 Ringsend Rd, Ringsend, Dublin 4",Dublin,6000.0,No,Ringsend,Dublin 4,q1,10%
+16/01/2015,"38 Shelbourne Village, Ringsend Road, Dublin 4",Dublin,280000.0,No,Ringsend,Dublin 4,q2,40%
+22/01/2015,"37 Grand Canal Wharf, Ringsend Rd, Ringsend Dublin 4",Dublin,370000.0,No,Ringsend,Dublin 4,q3,70%
+22/01/2015,"75 Ringsend Rd, Dublin 4, Dublin",Dublin,395000.0,No,Ringsend,Dublin 4,q4,80%
+30/01/2015,"83 Shelbourne Village, Ringsend Rd, Dublin 4",Dublin,260000.0,No,Ringsend,Dublin 4,q2,40%
+05/02/2015,"15 Shelbourne Village, Ringsend",Dublin,175000.0,No,Ringsend,Dublin 4,q1,10%
+05/02/2015,"Apt 30 Portview Apts, Thorncastle St, Ringsend Dublin 4",Dublin,390000.0,No,Ringsend,Dublin 4,q4,80%
+11/02/2015,"78 Millennium Tower, Charlotte Quay Dock, Ringsend Rd",Dublin,600000.0,No,Ringsend,Dublin 4,q4,100%
+12/02/2015,"36B The Bottleworks, Ringsend, Dublin 4",Dublin,350000.0,No,Ringsend,Dublin 4,q3,70%
+18/02/2015,"42 Ropewalk Place, Ringsend, Dublin 4",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+25/02/2015,"18 Pembroke Cottages, Ringsend, Dublin 4",Dublin,225000.0,No,Ringsend,Dublin 4,q1,30%
+23/03/2015,"21 Grand Canal Wharf, Ringsend, Dublin 2",Dublin,340000.0,No,Ringsend,Dublin 4,q3,70%
+31/03/2015,"14 Pigeon House Rd, Ringsend, Dublin 4",Dublin,239000.0,No,Ringsend,Dublin 4,q2,30%
+01/04/2015,"12 Thorncastle Street, Ringsend",Dublin,100000.0,No,Ringsend,Dublin 4,q1,10%
+07/04/2015,"1 Penrose St, Ringsend, Dublin 4",Dublin,413000.0,No,Ringsend,Dublin 4,q4,90%
+22/04/2015,"9 Howard St, Ringsend, Dublin 4",Dublin,260000.0,No,Ringsend,Dublin 4,q2,40%
+05/05/2015,"7 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,430000.0,No,Ringsend,Dublin 4,q4,90%
+06/05/2015,"81 Shelbourne Village, Ringsend, Dublin 4",Dublin,255000.0,No,Ringsend,Dublin 4,q2,40%
+12/05/2015,"29 Gordon St, Ringsend, Dublin 4",Dublin,200000.0,No,Ringsend,Dublin 4,q1,20%
+15/05/2015,"64 Ringsend Park, Dublin 4, Dublin",Dublin,285000.0,No,Ringsend,Dublin 4,q2,50%
+03/06/2015,"26 Cambridge Ave, Ringsend, Dublin 4",Dublin,290000.0,No,Ringsend,Dublin 4,q2,50%
+10/06/2015,"89 Veronica Terrace, Ringsend, Dublin",Dublin,320000.0,No,Ringsend,Dublin 4,q3,60%
+23/06/2015,"124 The Jessop, Charlotte Quay Dock, Ringsend Rd Dublin 4",Dublin,315000.0,No,Ringsend,Dublin 4,q3,60%
+23/06/2015,"42 Doris St, Ringsend, Dublin 4",Dublin,345000.0,No,Ringsend,Dublin 4,q3,70%
+26/06/2015,"10 Grand Canal Wharf, South Dock Rd, Ringsend Dublin 4",Dublin,230000.0,No,Ringsend,Dublin 4,q1,30%
+08/07/2015,"34 The Dickens The Gasworks, Barrow St, Ringsend Dublin 4",Dublin,292500.0,No,Ringsend,Dublin 4,q2,50%
+13/07/2015,"Apartment 19  Grand Canal Wharf, South Docks Road, Ringsend",Dublin,337490.0,No,Ringsend,Dublin 4,q3,60%
+16/07/2015,"31 Pembroke Cottages, Ringsend, Dublin",Dublin,370000.0,No,Ringsend,Dublin 4,q3,70%
+20/07/2015,"30 Fishermans Wharf, York Rd, Ringsend Dublin 4",Dublin,330000.0,No,Ringsend,Dublin 4,q3,60%
+22/07/2015,"40 Camden Lock, Ringsend, Dublin 4",Dublin,290000.0,No,Ringsend,Dublin 4,q2,50%
+24/07/2015,"23 Portview, Thorncastle St, Ringsend",Dublin,415000.0,No,Ringsend,Dublin 4,q4,90%
+30/07/2015,"1 Camden Lock, South Lotts Road, Ringsend",Dublin,400000.0,No,Ringsend,Dublin 4,q4,80%
+04/08/2015,"180 Charlotte Quay Dock, Ringsend Rd, Dublin 4",Dublin,290000.0,No,Ringsend,Dublin 4,q2,50%
+06/08/2015,"3 Thorncastle Court, Thorncastle Street, Ringsend",Dublin,193500.0,No,Ringsend,Dublin 4,q1,20%
+08/09/2015,"8 Howard St, Ringsend, Dublin 4",Dublin,305000.0,No,Ringsend,Dublin 4,q2,50%
+14/09/2015,"107 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,298000.0,No,Ringsend,Dublin 4,q2,50%
+18/09/2015,"12A Joy St, Ringsend, Dublin 4",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+18/09/2015,"98 Shelbourne Park, South Lotts Rd, Ringsend Dublin 4",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+24/09/2015,"Apt 52, Shelbourne Village, Ringsend Rd Dublin 4",Dublin,270000.0,No,Ringsend,Dublin 4,q2,40%
+02/10/2015,"38 Gordon St, Ringsend, Dublin 4",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+08/10/2015,"Bayview Cottage, 45B Pigeon House Rd, Ringsend Dublin 4",Dublin,570000.0,No,Ringsend,Dublin 4,q4,100%
+09/10/2015,"23 Shelbourne Park Mews, Ringsend",Dublin,282500.0,No,Ringsend,Dublin 4,q2,50%
+09/10/2015,"4 Portview, Thorncastle St, Ringsend",Dublin,425000.0,No,Ringsend,Dublin 4,q4,90%
+15/10/2015,"41 Ropewalk Place, Ringsend, Dublin 4",Dublin,245000.0,No,Ringsend,Dublin 4,q2,30%
+22/10/2015,"50 Doris St, Ringsend, Dublin 4",Dublin,310000.0,No,Ringsend,Dublin 4,q2,50%
+29/10/2015,"57 Charlotte Quay Dock, Ringsend Rd, Dublin",Dublin,530000.0,No,Ringsend,Dublin 4,q4,100%
+30/10/2015,"44 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,315000.0,No,Ringsend,Dublin 4,q3,60%
+03/11/2015,"5 Fishermans Wharf, York Rd, Ringsend Dublin 4",Dublin,337500.0,No,Ringsend,Dublin 4,q3,60%
+23/11/2015,"Apartment 95 Fitzwilliam Point, Fitzwilliam Quay, Ringsend",Dublin,150000.0,No,Ringsend,Dublin 4,q1,10%
+30/11/2015,"102 The Waterside, Charlotte Quay, Ringsend Rd Dublin 4",Dublin,215000.0,No,Ringsend,Dublin 4,q1,30%
+30/11/2015,"30 Poolbeg Quay, Ringsend, Dublin 4",Dublin,248000.0,No,Ringsend,Dublin 4,q2,30%
+04/12/2015,"61 Shelbourne Village, Ringsend Rd, Ringsend Dublin 4",Dublin,303000.0,No,Ringsend,Dublin 4,q2,50%
+08/12/2015,"16 Waterside, Charlotte Quay, Ringsend Rd Dublin 4",Dublin,158000.0,No,Ringsend,Dublin 4,q1,10%
+21/12/2015,"17 Fishermans Wharf, Ringsend, Dublin",Dublin,235000.0,No,Ringsend,Dublin 4,q2,30%
+21/12/2015,"25 Alexandra Quay, York Road, Ringsend",Dublin,250000.0,No,Ringsend,Dublin 4,q2,40%
+23/12/2015,"59 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,380000.0,No,Ringsend,Dublin 4,q3,80%
+06/01/2016,"46 South Lotts Rd, Ringsend, Dublin 4",Dublin,460000.0,No,Ringsend,Dublin 4,q4,90%
+08/01/2016,"172 Charlotte Quay Dock, Ringsend Rd Dublin 4, Dublin",Dublin,360000.0,No,Ringsend,Dublin 4,q3,70%
+08/01/2016,"21 Fishermans Wharf, Ringsend, Dublin 4",Dublin,335000.0,No,Ringsend,Dublin 4,q3,60%
+18/01/2016,"31 Grand Canal Wharf, Ringsend Rd, Dublin 4",Dublin,377000.0,No,Ringsend,Dublin 4,q3,80%
+28/01/2016,"109 Fishermans Wharf, York Rd, Ringsend Dublin 4",Dublin,255000.0,No,Ringsend,Dublin 4,q2,40%
+01/02/2016,"72 Grand Canal Wharf, South Dock Rd, Ringsend Dublin 4",Dublin,385000.0,No,Ringsend,Dublin 4,q4,80%
+02/02/2016,"82 Ringsend Park, Dublin 4, Dublin",Dublin,218000.0,No,Ringsend,Dublin 4,q1,30%
+08/02/2016,"85 The Asgard, Fisherman'S Wharf, Ringsend",Dublin,295000.0,No,Ringsend,Dublin 4,q2,50%
+16/02/2016,"2 St Patricks Villas, Ringsend, Dublin",Dublin,317000.0,No,Ringsend,Dublin 4,q3,60%
+25/02/2016,"Apt 31B The Bottleworks, Ringsend, Dublin 4",Dublin,355000.0,No,Ringsend,Dublin 4,q3,70%
+21/03/2016,"Apartment 101 Charlotte Quay, Ringsend Road",Dublin,295000.0,No,Ringsend,Dublin 4,q2,50%
+22/03/2016,"23 Pigeon House Rd, Ringsend, Dublin 4",Dublin,263500.0,No,Ringsend,Dublin 4,q2,40%
+24/03/2016,"51 The Waterside, Ringsend Rd, Charlotte Quay Dublin 4",Dublin,213000.0,No,Ringsend,Dublin 4,q1,20%
+24/03/2016,"52 Pembroke Cottages, Ringsend, Dublin 4",Dublin,225000.0,No,Ringsend,Dublin 4,q1,30%
+24/03/2016,"6 Leukos Rd, Ringsend, Dublin 4",Dublin,425000.0,No,Ringsend,Dublin 4,q4,90%
+29/03/2016,"24 Shelbourne Village, Ringsend Rd, Dublin 4",Dublin,280000.0,No,Ringsend,Dublin 4,q2,40%
+08/04/2016,"Apt 66, Fitzwilliam Point, Fitzwilliam Quay Ringsend Dublin 4",Dublin,285000.0,No,Ringsend,Dublin 4,q2,50%
+22/04/2016,"3 Alexandra Quay, York Rd, Ringsend Dublin 4",Dublin,225000.0,No,Ringsend,Dublin 4,q1,30%
+22/04/2016,"66 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,380000.0,No,Ringsend,Dublin 4,q3,80%
+05/05/2016,"2 Pigeon House Rd, Ringsend, Dublin 4",Dublin,255000.0,No,Ringsend,Dublin 4,q2,40%
+06/05/2016,"91 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,310000.0,No,Ringsend,Dublin 4,q2,50%
+17/05/2016,"73 Ringsend Rd, Dublin 4, Dublin",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+18/05/2016,"40 Shelbourne Park, South Lotts Rd, Ringsend Dublin 4",Dublin,296500.0,No,Ringsend,Dublin 4,q2,50%
+19/05/2016,"72 Pigeon House Rd, Ringsend, Dublin 4",Dublin,310000.0,No,Ringsend,Dublin 4,q3,60%
+19/05/2016,"76 Pigeon House Rd, Ringsend, Dublin 4",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+23/05/2016,"14 South Dock St, Ringsend, Dublin 4",Dublin,275000.0,No,Ringsend,Dublin 4,q2,40%
+27/05/2016,"71 Pigeon House Road, Ringsend, Dublin 4",Dublin,125000.0,No,Ringsend,Dublin 4,q1,10%
+27/05/2016,"74 Coastguard Station, Pigeon House Rd, Ringsend Dublin 4",Dublin,125000.0,No,Ringsend,Dublin 4,q1,10%
+03/06/2016,"73 Ringsend Park, Ringsend, Dublin 4",Dublin,293000.0,No,Ringsend,Dublin 4,q2,50%
+03/06/2016,"Unit 9 Fishermans Wharf, Ringsend, Dublin",Dublin,330000.0,No,Ringsend,Dublin 4,q3,60%
+07/06/2016,"44 Penrose St, Ringsend, Dublin 4",Dublin,490000.0,No,Ringsend,Dublin 4,q4,100%
+09/06/2016,"32 Portview, Thorncastle St, Ringsend",Dublin,345000.0,No,Ringsend,Dublin 4,q3,70%
+09/06/2016,"32 Portview, Thorncastle St, Ringsend",Dublin,345000.0,No,Ringsend,Dublin 4,q3,70%
+09/06/2016,"60 Irishtown Rd, Ringsend, Dublin 4",Dublin,352500.0,No,Ringsend,Dublin 4,q3,70%
+14/06/2016,"97 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,380000.0,No,Ringsend,Dublin 4,q3,80%
+01/07/2016,"2 Camden Lock, South Dock Rd, Ringsend Dublin 4",Dublin,290000.0,No,Ringsend,Dublin 4,q2,50%
+19/07/2016,"12 Portview, Thorncastle St, Ringsend",Dublin,445000.0,No,Ringsend,Dublin 4,q4,90%
+22/07/2016,"165 The George, Charlotte Quay Dock, Ringsend Rd Dublin 4",Dublin,405000.0,No,Ringsend,Dublin 4,q4,80%
+05/08/2016,"47 Millenium Tower, Charlotte Quay Dock, Ringsend Rd Dublin 4",Dublin,540000.0,No,Ringsend,Dublin 4,q4,100%
+11/08/2016,"116 The Waterside, Charlotte Quay, Ringsend Road",Dublin,215000.0,No,Ringsend,Dublin 4,q1,30%
+15/08/2016,"29 Hastings St, Ringsend, Dublin 4",Dublin,325000.0,No,Ringsend,Dublin 4,q3,60%
+17/08/2016,"33 The Waterside Apts, Ringsend, Dublin 4",Dublin,362500.0,No,Ringsend,Dublin 4,q3,70%
+26/08/2016,"62 Ringsend Park, Ringsent, Dublin 4",Dublin,240000.0,No,Ringsend,Dublin 4,q2,30%
+26/08/2016,"79 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,360000.0,No,Ringsend,Dublin 4,q3,70%
+02/09/2016,"16 Cambridge Sq, Ringsend, Dublin 4",Dublin,295000.0,No,Ringsend,Dublin 4,q2,50%
+02/09/2016,"34 Pigeon House Rd, Ringsend, Dublin 4",Dublin,350000.0,No,Ringsend,Dublin 4,q3,70%
+02/09/2016,"65 Fishermans Wharf, Thorncastle St, Ringsend",Dublin,306000.0,No,Ringsend,Dublin 4,q2,50%
+06/09/2016,"15 Hasting St, Ringsend, Dublin 4",Dublin,316000.0,No,Ringsend,Dublin 4,q3,60%
+13/09/2016,"46 Pigeon House Rd, Ringsend, Dublin 4",Dublin,495000.0,No,Ringsend,Dublin 4,q4,100%
+27/09/2016,"Apt 194, The Waterside Apts, Ringsend Rd Dublin 4",Dublin,350000.0,No,Ringsend,Dublin 4,q3,70%
+06/10/2016,"Apt 16 Gordon St, Ringsend, Dublin 4",Dublin,160800.0,No,Ringsend,Dublin 4,q1,10%
+11/10/2016,"175 Charlotte Quay Dock, Ringsend Rd, Dublin 4",Dublin,325000.0,No,Ringsend,Dublin 4,q3,60%
+13/10/2016,"51 South Dock St, Ringsend, Dublin 4",Dublin,375000.0,No,Ringsend,Dublin 4,q3,80%
+14/10/2016,"47 Grand Canal Wharf, South Dock Rd, Ringsend Dublin 4",Dublin,390000.0,No,Ringsend,Dublin 4,q4,80%
+14/10/2016,"53 Ringsend Rd, Ringsend, Dublin 4",Dublin,325000.0,No,Ringsend,Dublin 4,q3,60%
+19/10/2016,"16 Ropewalk Place, Ringsend, Dublin 4",Dublin,280000.0,No,Ringsend,Dublin 4,q2,40%
+20/10/2016,"11 The Poolbeg The Gasworks, Barrow St, Ringsend Dublin 4",Dublin,309000.0,No,Ringsend,Dublin 4,q2,50%
+20/10/2016,"140 The Waterside, Charlotte Quay, Ringsend Rd Dublin 2",Dublin,215000.0,No,Ringsend,Dublin 4,q1,30%
+28/10/2016,"81 Gordon St, Ringsend, Dublin 4",Dublin,335000.0,No,Ringsend,Dublin 4,q3,60%
+03/11/2016,"11 Gordon St, Ringsend, Dublin 4",Dublin,290000.0,No,Ringsend,Dublin 4,q2,50%
+07/11/2016,"48 Penrose St, Ringsend, Dublin 4",Dublin,418500.0,No,Ringsend,Dublin 4,q4,90%
+10/11/2016,"26 Gallery Quay, Ringsend, Dublin 4",Dublin,1300000.0,No,Ringsend,Dublin 4,q4,100%
+21/11/2016,"80 Shelbourne Village, Ringsend Rd, Dublin 4",Dublin,275000.0,No,Ringsend,Dublin 4,q2,40%
+21/11/2016,"82 Shelbourne Village, Ringsend Rd, Dublin 4",Dublin,275000.0,No,Ringsend,Dublin 4,q2,40%
+22/11/2016,"137 The Jessop, Charlotte Quay Dock, Ringsend Rd Dublin 4",Dublin,395000.0,No,Ringsend,Dublin 4,q4,80%
+23/11/2016,"10 Pigeon House Rd, Ringsend, Dublin 4",Dublin,275000.0,No,Ringsend,Dublin 4,q2,40%
+28/11/2016,"34 Joy St, Ringsend, Dublin 4",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+01/12/2016,"1 Portview, Thorncastle St, Ringsend",Dublin,367000.0,No,Ringsend,Dublin 4,q3,70%
+08/12/2016,"79 The Coastguard Station, Pigeon House Rd, Ringsend Dublin 4",Dublin,125000.0,No,Ringsend,Dublin 4,q1,10%
+09/12/2016,"34 Portview, Thorncastle St, Ringsend",Dublin,433000.0,No,Ringsend,Dublin 4,q4,90%
+16/12/2016,"14 South Dock St, Ringsend, Dublin 4",Dublin,310000.0,No,Ringsend,Dublin 4,q3,60%
+20/12/2016,"18 Pembroke Cottages, Ringsend, Dublin 4",Dublin,275000.0,No,Ringsend,Dublin 4,q2,40%
+21/12/2016,"28 Doris St, Ringsend, Dublin 4",Dublin,375000.0,No,Ringsend,Dublin 4,q3,80%
+21/12/2016,"54 Grand Canal Wharf, South Dock Rd, Ringsend",Dublin,390000.0,No,Ringsend,Dublin 4,q4,80%
+22/12/2016,"17 The Waterside Apts, Ringsend Rd, Ringsend Dublin 4",Dublin,272000.0,No,Ringsend,Dublin 4,q2,40%
+16/01/2017,"11 Poolbeg Quay, Ringsend, Dublin 4",Dublin,285000.0,No,Ringsend,Dublin 4,q2,50%
+17/01/2017,"48 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,245000.0,No,Ringsend,Dublin 4,q2,30%
+17/01/2017,"48 Gordon St, Ringsend, Dublin 4",Dublin,380000.0,No,Ringsend,Dublin 4,q3,80%
+18/01/2017,"21 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,325000.0,No,Ringsend,Dublin 4,q3,60%
+25/01/2017,"5 Barrow St, Ringsend, Dublin 4",Dublin,180000.0,No,Ringsend,Dublin 4,q1,20%
+02/02/2017,"21 Grand Canal Wharf, Ringsend, Dublin 2",Dublin,355000.0,No,Ringsend,Dublin 4,q3,70%
+02/02/2017,"3 Bremen Rd, Ringsend, Dublin 4",Dublin,397000.0,No,Ringsend,Dublin 4,q4,80%
+03/02/2017,"3 Shelbourne Village, Ringsend Rd, Dublin 4",Dublin,270000.0,No,Ringsend,Dublin 4,q2,40%
+08/02/2017,"Sandefjorde, 70 Pigeon House Rd, Ringsend Dublin 4",Dublin,750000.0,No,Ringsend,Dublin 4,q4,100%
+16/02/2017,"75 Coastgaurd Cottages, Pigeon House Rd, Ringsend",Dublin,320000.0,No,Ringsend,Dublin 4,q3,60%
+17/02/2017,"9 Cambridge Park, Ringsend, Dublin 4",Dublin,234500.0,No,Ringsend,Dublin 4,q2,30%
+24/02/2017,"8 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,305000.0,No,Ringsend,Dublin 4,q2,50%
+28/03/2017,"222 Charlotte Quay, Ringsend, Dublin 4",Dublin,430000.0,No,Ringsend,Dublin 4,q4,90%
+30/03/2017,"89 Ringsend Rd, Dublin 4, Dublin",Dublin,440000.0,No,Ringsend,Dublin 4,q4,90%
+07/04/2017,"14 Pigeon House Rd, Ringsend, Dublin 4",Dublin,275000.0,No,Ringsend,Dublin 4,q2,40%
+07/04/2017,"21 Ropewalk Place, Ringsend, Dublin 4",Dublin,382082.0,No,Ringsend,Dublin 4,q3,80%
+07/04/2017,"41 Camden Lock, Ringsend, Dublin 4",Dublin,307000.0,No,Ringsend,Dublin 4,q2,50%
+19/04/2017,"83 Fishermans Wharf, Ringsend, Dublin 4",Dublin,331000.0,No,Ringsend,Dublin 4,q3,60%
+11/05/2017,"34 The Dickens The Gasworks, Barrow St, Ringsend Dublin 4",Dublin,330000.0,No,Ringsend,Dublin 4,q3,60%
+11/05/2017,"4 Penrose Sreet, Ringsend, Dublin 4",Dublin,502000.0,No,Ringsend,Dublin 4,q4,100%
+16/05/2017,"15 Bridge St, Ringsend, Dublin 4",Dublin,317652.0,No,Ringsend,Dublin 4,q3,60%
+18/05/2017,"12 Cambridge Park, Cambridge Road, Ringsend",Dublin,363000.0,No,Ringsend,Dublin 4,q3,70%
+24/05/2017,"28 Camden Lock, South Dock Rd, Ringsend Dublin 4",Dublin,315000.0,No,Ringsend,Dublin 4,q3,60%
+25/05/2017,"50 Shelbourne Village, Ringsend Rd, Ringsend Dublin 4",Dublin,340000.0,No,Ringsend,Dublin 4,q3,70%
+25/05/2017,"63 Grand Canal Wharf, South Dock Rd, Ringsend",Dublin,380000.0,No,Ringsend,Dublin 4,q3,80%
+02/06/2017,"93 The Clayton, The Gasworks, Ringsend",Dublin,438000.0,No,Ringsend,Dublin 4,q4,90%
+07/06/2017,"98 Fishermans Wharf, Ringsend, Dublin 4",Dublin,310000.0,No,Ringsend,Dublin 4,q3,60%
+16/06/2017,"87 Shelbourne Village, Ringsend Rd, Dublin 4",Dublin,321000.0,No,Ringsend,Dublin 4,q3,60%
+28/06/2017,"7 Cambridge Avenue, Ringsend, Dublin 4",Dublin,426000.0,No,Ringsend,Dublin 4,q4,90%
+30/06/2017,"51 Grand Canal Wharf, South Dock Road, Ringsend",Dublin,447000.0,No,Ringsend,Dublin 4,q4,90%
+05/07/2017,"57 Grand Canal Wharf, South Dock Rd, Ringsend Dublin 4",Dublin,443000.0,No,Ringsend,Dublin 4,q4,90%
+05/07/2017,"Apartment 75 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,367700.0,No,Ringsend,Dublin 4,q3,70%
+10/07/2017,"227 The Waterside, Charlotte Quay, Ringsend Rd Dublin 4",Dublin,382000.0,No,Ringsend,Dublin 4,q3,80%
+11/07/2017,"12 Joy St, Ringsend, Dublin 4",Dublin,437000.0,No,Ringsend,Dublin 4,q4,90%
+14/07/2017,"Apt 8, Ropewalk Place, Ringsend Dublin 4",Dublin,310000.0,No,Ringsend,Dublin 4,q3,60%
+19/07/2017,"42 Camden Lock, South Dock Rd, Ringsend Dublin 4",Dublin,545000.0,No,Ringsend,Dublin 4,q4,100%
+25/07/2017,"2-4 Bridge St, Ringsend, Dublin 4",Dublin,418500.0,No,Ringsend,Dublin 4,q4,90%
+28/07/2017,"47 Pigeon House Rd, Ringsend, Dublin 4",Dublin,950000.0,No,Ringsend,Dublin 4,q4,100%
+16/08/2017,"225 The Waterside Apts, Ringsend Rd, Dublin 4",Dublin,262000.0,No,Ringsend,Dublin 4,q2,40%
+21/08/2017,"16 South Dock St, Ringsend, Dublin 4",Dublin,352555.0,No,Ringsend,Dublin 4,q3,70%
+04/09/2017,"15 South Dock St, Ringsend, Dublin 4",Dublin,424000.0,No,Ringsend,Dublin 4,q4,90%
+04/09/2017,"33 Fishermans Wharf, Ringsend, Dublin 4",Dublin,380000.0,No,Ringsend,Dublin 4,q3,80%
+08/09/2017,"185 The Waterside Apts, Ringsend Rd, Dublin 4",Dublin,410000.0,No,Ringsend,Dublin 4,q4,80%
+11/09/2017,"10 Parkview Place, Ringsend, Dublin 4",Dublin,470000.0,No,Ringsend,Dublin 4,q4,100%
+19/09/2017,"39 Shelbourne Village, Shelbourne Rd, Ringsend Dublin 4",Dublin,335000.0,No,Ringsend,Dublin 4,q3,60%
+20/09/2017,"241 The Waterside, Charlotte Quay, Ringsend Road",Dublin,680000.0,No,Ringsend,Dublin 4,q4,100%
+21/09/2017,"1A South Dock St, Ringsend, Dublin 4",Dublin,422000.0,No,Ringsend,Dublin 4,q4,90%
+21/09/2017,"5 Howard Street, Ringsend, Dublin 4",Dublin,325000.0,No,Ringsend,Dublin 4,q3,60%
+21/09/2017,"80 Charlotte Quay Dock, Ringsend Rd, Dublin 4",Dublin,330000.0,No,Ringsend,Dublin 4,q3,60%
+28/09/2017,"160 The Waterside Apts, Ringsend Rd, Dublin 4",Dublin,285000.0,No,Ringsend,Dublin 4,q2,50%
+28/09/2017,"Apt 5, Shelbourne Park Mews, Ringsend Rd Dublin 4",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+02/10/2017,"78 Millennium Tower, Charlotte Quay Dock, Ringsend Rd",Dublin,880000.0,No,Ringsend,Dublin 4,q4,100%
+12/10/2017,"100 The Westmoreland Block, Charlotte Quay Dock, Ringsend Dublin 4",Dublin,242000.0,No,Ringsend,Dublin 4,q2,30%
+13/10/2017,"28 Fitzwilliam Point, Ringsend, Dublin 4",Dublin,372000.0,No,Ringsend,Dublin 4,q3,80%
+20/10/2017,"4 Grand Caval Wharf, Ringsend, Dublin 4",Dublin,30000.0,No,Ringsend,Dublin 4,q1,10%
+20/10/2017,"4 Grand Caval Wharf, Ringsend, Dublin 4",Dublin,247500.0,No,Ringsend,Dublin 4,q2,30%
+10/11/2017,"45 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,405000.0,No,Ringsend,Dublin 4,q4,80%
+13/11/2017,"18(E) South Lotts Road, Ringsend, Dublin 4",Dublin,670000.0,No,Ringsend,Dublin 4,q4,100%
+14/11/2017,"Apt 79, Shelbourne Village, Ringsend Rd Dublin 4",Dublin,369000.0,No,Ringsend,Dublin 4,q3,70%
+22/11/2017,"Apt 10 Block B, The Bottleworks, Ringsend",Dublin,357000.0,No,Ringsend,Dublin 4,q3,70%
+23/11/2017,"17 Ropewalk Place, Ringsend, Dublin 4",Dublin,334000.0,No,Ringsend,Dublin 4,q3,60%
+01/12/2017,"149 The George, Charlotte Quay Dock, Ringsend Rd Dublin 4",Dublin,360000.0,No,Ringsend,Dublin 4,q3,70%
+04/12/2017,"16 Hastings St, Lotts Rd South, Ringsend Dublin 4",Dublin,350000.0,No,Ringsend,Dublin 4,q3,70%
+08/12/2017,"242 The Camden, Charlotte Quay Dock, Ringsend Rd Dublin 4",Dublin,750000.0,No,Ringsend,Dublin 4,q4,100%
+14/12/2017,"20 Ropewalk Place, Ringsend, Dublin 4",Dublin,370000.0,No,Ringsend,Dublin 4,q3,70%
+19/12/2017,"39 Gordon St, South Lotts, Ringsend Dublin 4",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+20/12/2017,"61 Ringsend Rd, Ringsend, Dublin 4",Dublin,462000.0,No,Ringsend,Dublin 4,q4,90%
+21/12/2017,"131 Waterside Apts, Charlotte Quay, Ringsend Rd Dublin 4",Dublin,380000.0,No,Ringsend,Dublin 4,q3,80%
+22/12/2017,"Apt 76 The Hibernian, The Gasworks, Barrow St   Ringsend",Dublin,390000.0,No,Ringsend,Dublin 4,q4,80%
+11/01/2018,"43 Camden Lock, Grand Canal Quay, Ringsend Dublin 4",Dublin,497000.0,No,Ringsend,Dublin 4,q4,100%
+01/02/2018,"33 South Dock St, Ringsend, Dublin 4",Dublin,412000.0,No,Ringsend,Dublin 4,q4,90%
+23/02/2018,"Apt 41 The Moorings, Fitzwilliam Quay, Ringsend",Dublin,491000.0,No,Ringsend,Dublin 4,q4,100%
+26/02/2018,"43 South Dock St, Ringsend, Dublin 4",Dublin,390000.0,No,Ringsend,Dublin 4,q4,80%
+27/02/2018,"15 Bridge St, Ringsend, Dublin 4",Dublin,537000.0,No,Ringsend,Dublin 4,q4,100%
+06/03/2018,"117 Charlotte Quay Dock, Ringsend Road, Dublin 4",Dublin,450000.0,No,Ringsend,Dublin 4,q4,90%
+06/03/2018,"146 The Waterside Apts, Ringsend Rd, Dublin 4",Dublin,276000.0,No,Ringsend,Dublin 4,q2,40%
+08/03/2018,"74 Fishermans Wharf, Thorncastle St, Ringsend Dublin 4",Dublin,327000.0,No,Ringsend,Dublin 4,q3,60%
+23/03/2018,"80 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,301000.0,No,Ringsend,Dublin 4,q2,50%
+06/04/2018,"18B South Lotts Road, Ringsend, Dublin 4",Dublin,670000.0,No,Ringsend,Dublin 4,q4,100%
+09/04/2018,"8 Bridge St, Ringsend, Dublin 4",Dublin,350000.0,No,Ringsend,Dublin 4,q3,70%
+27/04/2018,"87 Fishermans Wharf, York Rd, Ringsend Dublin 4",Dublin,335000.0,No,Ringsend,Dublin 4,q3,60%
+09/05/2018,"16 Joy St, Ringsend, Dublin 4",Dublin,365500.0,No,Ringsend,Dublin 4,q3,70%
+14/05/2018,"23 Portview, Thorncastle St, Ringsend",Dublin,700000.0,No,Ringsend,Dublin 4,q4,100%
+23/05/2018,"39 Pigeon House Rd, Ringsend, Dublin 4",Dublin,312000.0,No,Ringsend,Dublin 4,q3,60%
+25/05/2018,"84 The Westmoreland, Charlotte Quay Dock, Ringsend Rd Dublin 4",Dublin,252000.0,No,Ringsend,Dublin 4,q2,40%
+01/06/2018,"13 Hastings St, Ringsend, Dublin 4",Dublin,513000.0,No,Ringsend,Dublin 4,q4,100%
+12/06/2018,"79 Gordon St, Ringsend, Dublin 4",Dublin,355000.0,No,Ringsend,Dublin 4,q3,70%
+13/06/2018,"227 The Waterside, Charlotte Quay, Ringsend Rd Dublin 4",Dublin,435000.0,No,Ringsend,Dublin 4,q4,90%
+14/06/2018,"15 Somerset St, Ringsend, Dublin 4",Dublin,410000.0,No,Ringsend,Dublin 4,q4,80%
+20/07/2018,"59 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,495000.0,No,Ringsend,Dublin 4,q4,100%
+26/07/2018,"1A Bridge St, Ringsend, Dublin 4",Dublin,425000.0,No,Ringsend,Dublin 4,q4,90%
+03/08/2018,"172 Charlotte Quay Dock, Ringsend Rd Dublin 4, Dublin",Dublin,460000.0,No,Ringsend,Dublin 4,q4,90%
+10/08/2018,"45 Shelbourne Square, South Lotts Road, Ringsend",Dublin,750000.0,No,Ringsend,Dublin 4,q4,100%
+19/08/2018,"17 Cambridge Sq, Ringsend, Dublin",Dublin,482000.0,No,Ringsend,Dublin 4,q4,100%
+22/08/2018,"77 Gordon St, Ringsend, Dublin 4",Dublin,375000.0,No,Ringsend,Dublin 4,q3,80%
+22/08/2018,"9 Shelbourne Park Mews, Ringsend Rd, Dublin 4",Dublin,350000.0,No,Ringsend,Dublin 4,q3,70%
+24/08/2018,"31 Hastings St, Ringsend, Dublin 4",Dublin,485000.0,No,Ringsend,Dublin 4,q4,100%
+24/08/2018,"48 Kerlogue Rd, Ringsend, Dublin 4",Dublin,525000.0,No,Ringsend,Dublin 4,q4,100%
+28/08/2018,"32 Millennium Tower, Charlotte Quay Dock, Ringsend",Dublin,982000.0,No,Ringsend,Dublin 4,q4,100%
+30/08/2018,"179 The George, Charlotte Quay, Ringsend Dublin 2",Dublin,560000.0,No,Ringsend,Dublin 4,q4,100%
+13/09/2018,"51 The Hibernian, Barrow St, Ringsend Dublin 4",Dublin,330000.0,No,Ringsend,Dublin 4,q3,60%
+14/09/2018,"69 The Hibernian, Barrow St, Ringsend Dublin 4",Dublin,470000.0,No,Ringsend,Dublin 4,q4,100%
+14/09/2018,"Rear Of 4 & 6 Thorncastle St, Ringsend, Dublin 4",Dublin,420000.0,No,Ringsend,Dublin 4,q4,90%
+18/09/2018,"Apt 8, Shelbourne Park Mews, Ringsend Rd Dublin 4",Dublin,295000.0,No,Ringsend,Dublin 4,q2,50%
+21/09/2018,"8 Cymric Rd, Ringsend, Dublin 4",Dublin,520000.0,No,Ringsend,Dublin 4,q4,100%
+21/09/2018,"88 The Westmoreland, Charlotte Quay Dock, Ringsend Dublin 4",Dublin,451000.0,No,Ringsend,Dublin 4,q4,90%
+27/09/2018,"55 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,433000.0,No,Ringsend,Dublin 4,q4,90%
+01/10/2018,"45 Ringsend Park, Ringsend, Dublin 4",Dublin,355000.0,No,Ringsend,Dublin 4,q3,70%
+02/10/2018,"9 Hastings St, Ringsend, Dublin 4",Dublin,460000.0,No,Ringsend,Dublin 4,q4,90%
+11/10/2018,"8 South Dock St, Ringsend, Dublin 4",Dublin,430000.0,No,Ringsend,Dublin 4,q4,90%
+16/10/2018,"155 The Waterside Apts, Ringsend Rd, Dublin 4",Dublin,260000.0,No,Ringsend,Dublin 4,q2,40%
+05/11/2018,"28 Penrose St, Ringsend, Dublin 4",Dublin,415000.0,No,Ringsend,Dublin 4,q4,90%
+07/11/2018,"85 Ringsend Park, Ringsend, Dublin 4",Dublin,260000.0,No,Ringsend,Dublin 4,q2,40%
+09/11/2018,"79 Ringsend Rd, Dublin 4, Dublin",Dublin,415000.0,No,Ringsend,Dublin 4,q4,90%
+13/11/2018,"74 Coastguard Station, Pigeon House Rd, Ringsend Dublin 4",Dublin,355000.0,No,Ringsend,Dublin 4,q3,70%
+16/11/2018,"20 Doris St, Ringsend, Dublin 4",Dublin,410000.0,No,Ringsend,Dublin 4,q4,80%
+21/11/2018,"67 Charlotte Quay, Ringsend, Dublin 4",Dublin,640000.0,No,Ringsend,Dublin 4,q4,100%
+23/11/2018,"77 Pigeon House Rd, Ringsend, Dublin 4",Dublin,700000.0,No,Ringsend,Dublin 4,q4,100%
+06/12/2018,"34 Doris St, Ringsend, Dublin 4",Dublin,430000.0,No,Ringsend,Dublin 4,q4,90%
+08/12/2018,"40 Penrose St, Ringsend, Dublin 4",Dublin,428000.0,No,Ringsend,Dublin 4,q4,90%
+19/12/2018,"44 Shelbourne Village, Ringsend, Dublin",Dublin,376500.0,No,Ringsend,Dublin 4,q3,80%
+04/01/2019,"74 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,351000.0,No,Ringsend,Dublin 4,q3,70%
+14/01/2019,"32 The Waterside, Charlotte Quay, Ringsend",Dublin,330000.0,No,Ringsend,Dublin 4,q3,60%
+15/01/2019,"10 Alexandra Quay, York Rd, Ringsend Dublin 4",Dublin,265000.0,No,Ringsend,Dublin 4,q2,40%
+17/01/2019,"91 Ringsend Park, Ringsend, Dublin 4",Dublin,420000.0,No,Ringsend,Dublin 4,q4,90%
+24/01/2019,"16 Fitzwilliam Point, Fitzwilliam Quay, Ringsend",Dublin,335000.0,No,Ringsend,Dublin 4,q3,60%
+01/02/2019,"13 Cambridge Ave, Ringsend, Dublin 4",Dublin,505000.0,No,Ringsend,Dublin 4,q4,100%
+07/02/2019,"58 Shelbourne Park, South Lotts Rd, Ringsend Dublin 4",Dublin,378000.0,No,Ringsend,Dublin 4,q3,80%
+21/02/2019,"13 Bridge St, Ringsend, Dublin 4",Dublin,665000.0,No,Ringsend,Dublin 4,q4,100%
+22/02/2019,"24 St Patricks Villas, Ringsend, Dublin 4",Dublin,370000.0,No,Ringsend,Dublin 4,q3,70%
+22/02/2019,"49 Shelbourne Village, Ringsend, Dublin 4",Dublin,290000.0,No,Ringsend,Dublin 4,q2,50%
+25/02/2019,"Apartment 1, 2/4 Bridge Street, Ringsend",Dublin,1031850.0,No,Ringsend,Dublin 4,q4,100%
+07/03/2019,"Apt 36, Grand Canal Wharf, Ringsend Rd Dublin 4",Dublin,440000.0,No,Ringsend,Dublin 4,q4,90%
+11/03/2019,"235 Charlotte Quay Dock, Ringsend, Dublin 4",Dublin,300000.0,No,Ringsend,Dublin 4,q2,50%
+15/03/2019,"1 Fishermans Wharf, York Rd, Ringsend",Dublin,450000.0,No,Ringsend,Dublin 4,q4,90%
+20/03/2019,"13 Dermot Ohurley Ave, Ringsend, Dublin 4",Dublin,365000.0,No,Ringsend,Dublin 4,q3,70%
+21/03/2019,"70 Shelbourne Park, Ringsend, Dublin 4",Dublin,395000.0,No,Ringsend,Dublin 4,q4,80%
+21/03/2019,"Apt 66, Fitzwilliam Point, Fitzwilliam Quay Ringsend Dublin 4",Dublin,395000.0,No,Ringsend,Dublin 4,q4,80%
+26/03/2019,"29 Grand Canal Wharf, Grand Canal Basin, Ringsend Dublin 4",Dublin,297500.0,No,Ringsend,Dublin 4,q2,50%
+26/03/2019,"30 Camden Lock, Ringsend, Dublin",Dublin,477500.0,No,Ringsend,Dublin 4,q4,100%
+01/04/2019,"9 The Pidgeon House, The Gasworks, Ringsend",Dublin,665000.0,No,Ringsend,Dublin 4,q4,100%
+02/04/2019,"137 Ringsend Park, Dublin 4, Dublin",Dublin,650000.0,No,Ringsend,Dublin 4,q4,100%
+02/04/2019,"7 Penrose St, Ringsend, Dublin 4",Dublin,544000.0,No,Ringsend,Dublin 4,q4,100%
+05/04/2019,"6 South Dock Place, Ringsend Dublin 4, Dublin",Dublin,445000.0,No,Ringsend,Dublin 4,q4,90%
+11/04/2019,"107 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,550000.0,No,Ringsend,Dublin 4,q4,100%
+12/04/2019,"17 Fishermans Wharf, Ringsend, Dublin",Dublin,464000.0,No,Ringsend,Dublin 4,q4,90%
+17/04/2019,"508 South Dock Quarter, Ringsend Rd, Ringsend",Dublin,435000.0,No,Ringsend,Dublin 4,q4,90%
+18/04/2019,"18 Shelbourne Park Mews, Ringsend Rd, Dublin 4",Dublin,345000.0,No,Ringsend,Dublin 4,q3,70%
+30/04/2019,"25 Grand Canal Wharf, South Dock Rd, Ringsend Dublin 4",Dublin,425000.0,No,Ringsend,Dublin 4,q4,90%
+07/05/2019,"Apt 234 The Waterside, Charlotte Quay, Ringsend Dublin 4",Dublin,430000.0,No,Ringsend,Dublin 4,q4,90%
+21/05/2019,"13 Grand Canal Wharf, Grand Canal Basin, Ringsend Dublin 4",Dublin,295000.0,No,Ringsend,Dublin 4,q2,50%
+21/05/2019,"8 Howard St, Ringsend, Dublin 4",Dublin,384000.0,No,Ringsend,Dublin 4,q3,80%
+22/05/2019,"38 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,320000.0,No,Ringsend,Dublin 4,q3,60%
+22/05/2019,"42 Penrose St, Ringsend, Dublin 4",Dublin,510000.0,No,Ringsend,Dublin 4,q4,100%
+30/05/2019,"132 The Jessop, Charlotte Quay Dock, Ringsend",Dublin,400000.0,No,Ringsend,Dublin 4,q4,80%
+31/05/2019,"23 Pembroke Cottages, Ringsend, Dublin 4",Dublin,375000.0,No,Ringsend,Dublin 4,q3,80%
+04/06/2019,"20 Alexandra Quay, York Rd, Ringsend Dublin 4",Dublin,330000.0,No,Ringsend,Dublin 4,q3,60%
+13/06/2019,"21 South Dock St, Ringsend, Dublin 4",Dublin,400000.0,No,Ringsend,Dublin 4,q4,80%
+18/06/2019,"9 Fairview Avenue, Ringsend, Dublin 4",Dublin,400000.0,No,Ringsend,Dublin 4,q4,80%
+24/06/2019,"5 Cambridge Ave, Pigeon House Rd, Ringsend Dublin 4",Dublin,415000.0,No,Ringsend,Dublin 4,q4,90%
+25/06/2019,"29 Shelbourne Park Mews, Ringsend Rd, Dublin City",Dublin,359000.0,No,Ringsend,Dublin 4,q3,70%
+25/06/2019,"50 Penrose St, Ringsend, Dublin 4",Dublin,410000.0,No,Ringsend,Dublin 4,q4,90%
+26/06/2019,"68 South Lotts Rd, Ringsend, Dublin City",Dublin,600000.0,No,Ringsend,Dublin 4,q4,100%
+27/06/2019,"1 Cambridge Park, Ringsend, Dublin 4",Dublin,380000.0,No,Ringsend,Dublin 4,q3,80%
+01/07/2019,"19 Cambridge Ave, Ringsend, Dublin 4",Dublin,484570.0,No,Ringsend,Dublin 4,q4,100%
+29/07/2019,"2 South Dock St, Ringsend, Dublin 4",Dublin,700000.0,No,Ringsend,Dublin 4,q4,100%
+30/07/2019,"Apt 30 Fitzwilliam Point, Fitzwilliam Quay, Ringsend Dublin 4",Dublin,320000.0,No,Ringsend,Dublin 4,q3,60%
+14/08/2019,"168 The Waterside Apts, Ringsend Rd, Ringsend Dublin 4",Dublin,420000.0,No,Ringsend,Dublin 4,q4,90%
+19/08/2019,"1 Fitzwilliam Quay, Ringsend, Dublin 4",Dublin,370000.0,No,Ringsend,Dublin 4,q3,70%
+20/08/2019,"5 Howard Street, Ringsend, Dublin 4",Dublin,335000.0,No,Ringsend,Dublin 4,q3,60%
+22/08/2019,"103 Veronica Terrace, Stella Gardens, Ringsend Dublin 4",Dublin,450000.0,No,Ringsend,Dublin 4,q4,90%
+22/08/2019,"52 Ringsend Park Cottages, Ringsend, Dublin 4",Dublin,350000.0,No,Ringsend,Dublin 4,q3,70%
+26/08/2019,"3 Camden Lock, South Dock Rd, Ringsend",Dublin,410000.0,No,Ringsend,Dublin 4,q4,90%
+27/08/2019,"17 South Lotts Rd, Ringsend, Dublin 4",Dublin,582500.0,No,Ringsend,Dublin 4,q4,100%
+29/08/2019,"11 South Dock Place, Ringsend, Dublin 4",Dublin,387500.0,No,Ringsend,Dublin 4,q4,80%
+30/08/2019,"9 Howard St, Ringsend, Dublin 4",Dublin,480000.0,No,Ringsend,Dublin 4,q4,100%
+30/08/2019,"Apt 31B The Bottleworks, Ringsend, Dublin 4",Dublin,423000.0,No,Ringsend,Dublin 4,q4,90%
+13/09/2019,"34A Bottleworks, Dermot O' Hurley Ave, Ringsend",Dublin,370000.0,No,Ringsend,Dublin 4,q3,80%
+16/09/2019,"185 The Waterside Apts, Ringsend Rd, Dublin 4",Dublin,395000.0,No,Ringsend,Dublin 4,q4,80%
+27/09/2019,"10 Ropewalk Place, Ringsend, Dublin 4",Dublin,376000.0,No,Ringsend,Dublin 4,q3,80%
+27/09/2019,"15 Camden Lock, South Dock Road, Ringsend",Dublin,395000.0,No,Ringsend,Dublin 4,q4,80%
+27/09/2019,"208 Block C, Charlotte Quay, Ringsend Rd",Dublin,265000.0,No,Ringsend,Dublin 4,q2,40%
+30/09/2019,"73 Fishermans Wharf, Thorncastle St, Ringsend Dublin 4",Dublin,335000.0,No,Ringsend,Dublin 4,q3,60%
+21/10/2019,"5 Ropewalk Place, Ringsend, Dublin 4",Dublin,320000.0,No,Ringsend,Dublin 4,q3,60%

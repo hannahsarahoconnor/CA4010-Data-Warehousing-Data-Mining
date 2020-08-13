@@ -1,0 +1,353 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+27/01/2010,"4 Bishops Orchard, Tyrrelstown, Dublin 15",Dublin,152000.0,No,Tyrrelstown,Dublin 15,q1,20%
+04/02/2010,"17 Mount Garrett Park, Tyrrelstown",Dublin,257500.0,No,Tyrrelstown,Dublin 15,q4,90%
+05/02/2010,"6 Curragh Hall, Tyrrelstown",Dublin,216000.0,No,Tyrrelstown,Dublin 15,q2,50%
+10/02/2010,"12 Ballentree Avenue, Tyrrelstown, Dublin 15",Dublin,110000.0,No,Tyrrelstown,Dublin 15,q1,10%
+22/02/2010,"4 Cruise Park Court, Cruise Park, Tyrrelstown",Dublin,290000.0,Yes,Tyrrelstown,Dublin 15,q4,100%
+23/02/2010,"Site No. 1 Cruise Park Avenue, Tyrrelstown",Dublin,220532.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+09/03/2010,"4 Bealing Walk, Tyrrelstown, Dublin 15",Dublin,250000.0,No,Tyrrelstown,Dublin 15,q4,90%
+19/03/2010,"107 Cruise Park Drive, Tyrrelstown",Dublin,255000.0,Yes,Tyrrelstown,Dublin 15,q4,90%
+19/03/2010,"33 Cruise Park Avenue, Tyrrelstown",Dublin,187000.0,No,Tyrrelstown,Dublin 15,q2,30%
+26/03/2010,"267 The Boulevard, Mount Eustace, Tyrrelstown",Dublin,215000.0,No,Tyrrelstown,Dublin 15,q2,50%
+01/04/2010,"105 Cruise Park Drive, Tyrrelstown, Dublin 15",Dublin,310000.0,Yes,Tyrrelstown,Dublin 15,q4,100%
+08/04/2010,"10 Mount Eustace Park, Tyrrelstown, Dublin 15",Dublin,238000.0,No,Tyrrelstown,Dublin 15,q4,80%
+04/05/2010,"17 Bishops Orchard, Tyrrelstown",Dublin,247500.0,No,Tyrrelstown,Dublin 15,q4,90%
+10/05/2010,"6 Cruise Park Avenue, Cruise Park, Tyrrelstown",Dublin,249000.0,Yes,Tyrrelstown,Dublin 15,q4,90%
+09/06/2010,"11 Cruise Park Walk, Cruise Park, Tyrrelstown",Dublin,235000.0,Yes,Tyrrelstown,Dublin 15,q3,80%
+02/07/2010,"11 Cruise Park Rise, Tyrrelstown",Dublin,244000.0,Yes,Tyrrelstown,Dublin 15,q4,80%
+19/07/2010,"107 The Boulevard, Mount Eustace, Tyrrelstown",Dublin,205000.0,No,Tyrrelstown,Dublin 15,q2,40%
+12/08/2010,"10 The Boulevard, Cruise Park, Tyrrelstown",Dublin,202643.0,Yes,Tyrrelstown,Dublin 15,q2,40%
+30/08/2010,"8 The Bouevard, Cruise Park, Tyrrelstown",Dublin,235000.0,Yes,Tyrrelstown,Dublin 15,q3,80%
+03/09/2010,"7 Mount Garrett Avenue, Tyrrelstown",Dublin,265000.0,No,Tyrrelstown,Dublin 15,q4,90%
+10/11/2010,"3 Cruise Park Walk, Tyrrelstown, Dublin 15",Dublin,200000.0,Yes,Tyrrelstown,Dublin 15,q2,40%
+02/12/2010,"20 Cruise Park Court, Cruise Park, Tyrrelstown",Dublin,220000.0,Yes,Tyrrelstown,Dublin 15,q2,50%
+21/12/2010,"205 Cruise Park Drive, Cruise Park, Tyrrelstown",Dublin,132158.0,Yes,Tyrrelstown,Dublin 15,q1,10%
+21/12/2010,"207 Cruise Park Drive, Cruise Park, Tyrrelstown",Dublin,132158.0,Yes,Tyrrelstown,Dublin 15,q1,10%
+21/12/2010,"213 Cruise Park Drive, Cruise Park, Tyrrelstown",Dublin,132158.0,Yes,Tyrrelstown,Dublin 15,q1,10%
+21/12/2010,"217 Cruise Park Drive, Cruise Park, Tyrrelstown",Dublin,132158.0,Yes,Tyrrelstown,Dublin 15,q1,10%
+21/01/2011,"24 Ballentree Crescent, Tyrrelstown",Dublin,165000.0,No,Tyrrelstown,Dublin 15,q1,20%
+28/01/2011,"24 Mount Garrett Rise, Tyrrelstown, Dublin 15",Dublin,158000.0,No,Tyrrelstown,Dublin 15,q1,20%
+20/04/2011,"1 Curragh Hall Drive, Tyrrelstown, Dublin 15",Dublin,165000.0,No,Tyrrelstown,Dublin 15,q1,20%
+29/04/2011,"109 Cruise Park Drive, Tyrrelstown",Dublin,220000.0,Yes,Tyrrelstown,Dublin 15,q2,50%
+11/05/2011,"8 Curragh Hall Lodge, Tyrrelstown",Dublin,130000.0,No,Tyrrelstown,Dublin 15,q1,10%
+27/05/2011,"12 Mount Eustace Park, Tyrrelstown",Dublin,183000.0,No,Tyrrelstown,Dublin 15,q2,30%
+30/05/2011,"15 Cruise Park Avenue, Tyrrelstown, Dublin 15",Dublin,194000.0,Yes,Tyrrelstown,Dublin 15,q2,40%
+11/07/2011,"32 The Boulevard, Mount Garrett, Tyrrelstown",Dublin,173375.0,No,Tyrrelstown,Dublin 15,q1,30%
+23/09/2011,"66 The Boulevard, The Bellgree, Tyrrelstown",Dublin,180000.0,No,Tyrrelstown,Dublin 15,q1,30%
+01/11/2011,"16 Gazelle Lane, Tyrrelstown",Dublin,145000.0,No,Tyrrelstown,Dublin 15,q1,20%
+09/11/2011,"13 Ballentree Crescent, Tyrrelstown",Dublin,145000.0,No,Tyrrelstown,Dublin 15,q1,20%
+16/11/2011,"10 Mount Garrett Avenue, Tyrrelstown",Dublin,112000.0,No,Tyrrelstown,Dublin 15,q1,10%
+18/11/2011,"44 The Boulevard, The Bellgree, Tyrrelstown",Dublin,167000.0,No,Tyrrelstown,Dublin 15,q1,20%
+24/01/2012,"3 Cruise Park Court, Tyrrelstown",Dublin,132158.59,Yes,Tyrrelstown,Dublin 15,q1,10%
+24/01/2012,"5 Cruise Park Court, Tyrrelstown",Dublin,132158.59,Yes,Tyrrelstown,Dublin 15,q1,10%
+24/01/2012,"93 Cruise Park Drive, Tyrrelstown",Dublin,132158.59,Yes,Tyrrelstown,Dublin 15,q1,10%
+31/01/2012,"4 Mount Eustace Drive, Tyrrelstown, Dublin",Dublin,142500.0,No,Tyrrelstown,Dublin 15,q1,10%
+05/03/2012,"16 The Boulevard, Cruise Park, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q2,50%
+05/03/2012,"221, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q2,50%
+05/03/2012,"223, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q2,50%
+05/03/2012,"225, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q2,50%
+05/03/2012,"227, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q2,50%
+05/03/2012,"229, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q2,50%
+05/03/2012,"231, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q2,50%
+05/03/2012,"233, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q2,50%
+05/03/2012,"235, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q2,50%
+05/03/2012,"237, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"239, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"23, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"241, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"245, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"247, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"249, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"251, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"253, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"255, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"257, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"259, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"261, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"265, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"26, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"28, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"29, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"32, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"34 The Boulevard, Cruise Park, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"34, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"36 The Boulevard, Cruise Park, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"36, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"40 The Boulevard, Cruise Park, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"42 The Boulevard, Cruise Park, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"44 The Boulevard, Cruise Park, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"45, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"46 The Boulevard, Cruise Park, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"48 The Boulevard, Cruise Park, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"51, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"52 The Boulevard, Cruise Park, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"53, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"54 The Boulevard, Cruise Park, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"59, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"61, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"63, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,60%
+05/03/2012,"69, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"6, Rathmore Crescent, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"71, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"73, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"79, Cruise Park Drive, Tyrrelstown",Dublin,224264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"81, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"83, Cruise Park Drive, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment No. 15, Cruise Park Square, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment No. 5, Cruise Park Square, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 11, Cruise Park Hall, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 11, Cruise Park Square, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 12, Cruise Park Square, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 14, Cruise Park Hall, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 16, Cruise Park Hall, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 3, Cruise Park Square, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 4, Cruise Park Square, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 7, Cruise Park Hall, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 7, Cruise Park Square, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 8, Cruise Park Hall, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 8, Cruise Park Square, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+05/03/2012,"Apartment Number 9, Cruise Park Square, Tyrrelstown",Dublin,220264.31,Yes,Tyrrelstown,Dublin 15,q3,70%
+22/05/2012,"6 Mount Eustace Park, Tyrrelstown",Dublin,30000.0,No,Tyrrelstown,Dublin 15,q1,10%
+05/07/2012,"6 Mount Garret Grove, Tyrrelstown, Dublin",Dublin,175000.0,No,Tyrrelstown,Dublin 15,q1,30%
+03/08/2012,"1 Cruise Park Walk, Tyrrelstown",Dublin,127000.0,No,Tyrrelstown,Dublin 15,q1,10%
+18/10/2012,"29 Bellgree Crescent, Tyrrelstown, Dublin 15",Dublin,162500.0,No,Tyrrelstown,Dublin 15,q1,20%
+18/12/2012,"4 Belgree Lawns, Tyrrelstown, Dublin 15",Dublin,160500.0,No,Tyrrelstown,Dublin 15,q1,20%
+21/12/2012,"5 Curragh Hall Road, Tyrrelstown",Dublin,132000.0,No,Tyrrelstown,Dublin 15,q1,10%
+21/12/2012,"7 Curragh House Hall, Tyrrelstown, Dublin 15",Dublin,78000.0,No,Tyrrelstown,Dublin 15,q1,10%
+28/12/2012,"No.18 Bishops Orchard, Tyrrelstown, Dublin 15",Dublin,110000.0,No,Tyrrelstown,Dublin 15,q1,10%
+31/12/2012,"15 Curragh Hall Crescent, Tyrrelstown",Dublin,139000.0,No,Tyrrelstown,Dublin 15,q1,10%
+05/03/2013,"1 Curragh Hall, Tyrrelstown, Dublin 15",Dublin,145000.0,No,Tyrrelstown,Dublin 15,q1,20%
+16/04/2013,"8 Bellgree Court, Tyrrelstown",Dublin,125000.0,No,Tyrrelstown,Dublin 15,q1,10%
+09/05/2013,"41 Mount Eustace Park, Tyrrelstown",Dublin,141000.0,No,Tyrrelstown,Dublin 15,q1,10%
+10/06/2013,"5 Gazelle Avenue, Tyrrelstown",Dublin,132500.0,No,Tyrrelstown,Dublin 15,q1,10%
+28/06/2013,"4 Mount Eustace, Tyrrelstown",Dublin,141000.0,No,Tyrrelstown,Dublin 15,q1,10%
+28/06/2013,"7 The Boulevard, Bishops Orchard, Tyrrelstown",Dublin,159000.0,No,Tyrrelstown,Dublin 15,q1,20%
+24/07/2013,"7 Bellgree Close, Tyrrelstown, Dublin 15",Dublin,178000.0,No,Tyrrelstown,Dublin 15,q1,30%
+16/09/2013,"29 Bealing Village, Tyrrelstown",Dublin,151000.0,No,Tyrrelstown,Dublin 15,q1,20%
+02/10/2013,"40 Mount Eustace Park, Tyrrelstown, Dublin 15",Dublin,80000.0,No,Tyrrelstown,Dublin 15,q1,10%
+14/10/2013,"3 The Boulevard, Tyrrelstown, Dublin 15",Dublin,155000.0,No,Tyrrelstown,Dublin 15,q1,20%
+15/10/2013,"18 Belgree Rise, Tyrrelstown, Dublin 15",Dublin,162500.0,No,Tyrrelstown,Dublin 15,q1,20%
+21/10/2013,"56 The Park Boulevard, French Park, Tyrrelstown",Dublin,85000.0,No,Tyrrelstown,Dublin 15,q1,10%
+25/10/2013,"114 Mount Garrett Park, Tyrrelstown, Dublin 15",Dublin,102500.0,No,Tyrrelstown,Dublin 15,q1,10%
+07/11/2013,"3 Rathmore Ave, Tyrrelstown, Dublin 15",Dublin,84000.0,No,Tyrrelstown,Dublin 15,q1,10%
+14/11/2013,"8 Belgree Close, Tyrrelstown, Dublin 15",Dublin,171500.0,No,Tyrrelstown,Dublin 15,q1,30%
+20/11/2013,"27 Tyrrelstown Way, Tyrrelstown, Dublin 15",Dublin,202500.0,No,Tyrrelstown,Dublin 15,q2,40%
+22/11/2013,"19 Curragh Hall Green, Tyrrelstown",Dublin,158500.0,No,Tyrrelstown,Dublin 15,q1,20%
+09/12/2013,"39 Mount Garrett Crescent, Tyrrelstown, Dublin 15",Dublin,178000.0,No,Tyrrelstown,Dublin 15,q1,30%
+19/12/2013,"49 Cruise Park Drive, Tyrrelstown, Dublin 15",Dublin,170000.0,No,Tyrrelstown,Dublin 15,q1,20%
+17/01/2014,"7 Curragh Hall Green, Tyrrelstown, Dublin 15",Dublin,155000.0,No,Tyrrelstown,Dublin 15,q1,20%
+24/01/2014,"3 Mount Eustace Grove, Tyrrelstown Dublin 15, Dublin",Dublin,154000.0,No,Tyrrelstown,Dublin 15,q1,20%
+31/01/2014,"18 Ballentree Sq, Tyrrelstown, Dublin 15",Dublin,110000.0,No,Tyrrelstown,Dublin 15,q1,10%
+14/03/2014,"47 Cruise Park Drive, Tyrrelstown, Dublin 15",Dublin,165000.0,No,Tyrrelstown,Dublin 15,q1,20%
+31/03/2014,"13 Ballentree Sq, Tyrrelstown, Dublin 15",Dublin,120000.0,No,Tyrrelstown,Dublin 15,q1,10%
+24/04/2014,"7 Mount Eustace Park, Tyrrelstown, Dublin 15",Dublin,192000.0,No,Tyrrelstown,Dublin 15,q2,40%
+29/04/2014,"1 Curragh Hall View, Tyrrelstown, Dublin 15",Dublin,185000.0,No,Tyrrelstown,Dublin 15,q2,30%
+21/05/2014,"3 Cruise Park Close, Tyrrelstown, Dublin 15",Dublin,186000.0,No,Tyrrelstown,Dublin 15,q2,30%
+02/07/2014,"16 Bellgree Ave, Tyrrelstown, Dublin 15",Dublin,226500.0,No,Tyrrelstown,Dublin 15,q3,70%
+03/07/2014,"49 Park Blvd, French Park, Tyrrelstown Dublin 15",Dublin,166000.0,No,Tyrrelstown,Dublin 15,q1,20%
+25/07/2014,"28 Curragh Hall Green, Tyrrelstown, Dublin 15",Dublin,169000.0,No,Tyrrelstown,Dublin 15,q1,20%
+01/08/2014,"10 Bellgree Dr, Tyrrelstown, Dublin 15",Dublin,236000.0,No,Tyrrelstown,Dublin 15,q3,80%
+11/08/2014,"32  Bishops Orchard, Tyrrelstown, Dublin 15",Dublin,250000.0,No,Tyrrelstown,Dublin 15,q4,90%
+11/08/2014,"5 Tyrrelstown Way, Tyrrelstown, Dublin 15",Dublin,170100.0,No,Tyrrelstown,Dublin 15,q1,20%
+13/08/2014,"2 Bellgree Square, Bellgree Drive, Tyrrelstown",Dublin,114000.0,No,Tyrrelstown,Dublin 15,q1,10%
+01/09/2014,"52 Ballentree Village, Tyrrelstown Dublin 15, Dublin",Dublin,192000.0,No,Tyrrelstown,Dublin 15,q2,40%
+13/10/2014,"1 Bealing Ave, Tyrrelstown, Dublin 15",Dublin,165000.0,No,Tyrrelstown,Dublin 15,q1,20%
+19/12/2014,"45 French Park, Tyrrelstown, Dublin",Dublin,180000.0,No,Tyrrelstown,Dublin 15,q1,30%
+22/12/2014,"5 Bellgree Green, Tyrrelstown, Dublin 15",Dublin,215000.0,No,Tyrrelstown,Dublin 15,q2,50%
+06/01/2015,"6 Curragh Hall Rd, Tyrrelstown, Dublin 15",Dublin,188000.0,No,Tyrrelstown,Dublin 15,q2,30%
+20/01/2015,"4 Bellgree Heights, Tyrrelstown, Dublin 15",Dublin,210000.0,No,Tyrrelstown,Dublin 15,q2,40%
+10/04/2015,"7 Park View House, Tyrrelstown, Dublin 15",Dublin,156000.0,No,Tyrrelstown,Dublin 15,q1,20%
+06/05/2015,"65 Bealing Village, Tyrrelstown Boulevard, Tyrrelstown",Dublin,167500.0,No,Tyrrelstown,Dublin 15,q1,20%
+22/05/2015,"37 Park Blvd, French Park, Tyrrelstown Dublin 15",Dublin,229950.0,No,Tyrrelstown,Dublin 15,q3,70%
+17/06/2015,"2 Curragh Hall Court, Tyrrelstown, Dublin 15",Dublin,235000.0,No,Tyrrelstown,Dublin 15,q3,80%
+29/06/2015,"Apt 7 Bishops Orchard, Tyrrelstown, Dublin 15",Dublin,62500.0,No,Tyrrelstown,Dublin 15,q1,10%
+02/07/2015,"1 Ballentree Grove, Tyrrelstown, Dublin 15",Dublin,240000.0,No,Tyrrelstown,Dublin 15,q4,80%
+02/07/2015,"41 Mount Garrett Crescent, Tyrrelstown, Dublin 15",Dublin,240000.0,No,Tyrrelstown,Dublin 15,q4,80%
+10/07/2015,"17 Mount Eustace Dr, Tyrrelstown, Dublin 15",Dublin,175000.0,No,Tyrrelstown,Dublin 15,q1,30%
+31/07/2015,"140 Mount Garrett Park, Tyrrelstown, Dublin",Dublin,180000.0,No,Tyrrelstown,Dublin 15,q1,30%
+31/07/2015,"24 Ballentree Crescent, Tyrrelstown, Dublin City",Dublin,220000.0,No,Tyrrelstown,Dublin 15,q2,50%
+31/07/2015,"29 The Boulevard, French Park, Tyrrelstown Dublin 15",Dublin,250000.0,No,Tyrrelstown,Dublin 15,q4,90%
+05/08/2015,"28 Curragh Hall Crescent, Tyrrelstown, Dublin 15",Dublin,200000.0,No,Tyrrelstown,Dublin 15,q2,40%
+05/10/2015,"20 Mount Garrett Close, Tyrrelstown, Dublin 15",Dublin,177000.0,No,Tyrrelstown,Dublin 15,q1,30%
+09/10/2015,"33 Mount Garrett Crescent, Tyrrelstown Dublin 15, Dublin",Dublin,225000.0,No,Tyrrelstown,Dublin 15,q3,70%
+05/11/2015,"36 Curragh Hall Green, Tyrrelstown, Dublin 15",Dublin,172887.0,No,Tyrrelstown,Dublin 15,q1,30%
+16/11/2015,"5 Mount Eustace, Crescent, Tyrrelstown Dublin 15",Dublin,172000.0,No,Tyrrelstown,Dublin 15,q1,30%
+14/12/2015,"3 Mount Eustace Park, Tyrrelstown Dublin 15, Dublin",Dublin,226500.0,No,Tyrrelstown,Dublin 15,q3,70%
+21/01/2016,"14 Mount Eustace Drive, Tyrrelstown, Dublin 15",Dublin,152000.0,No,Tyrrelstown,Dublin 15,q1,20%
+10/02/2016,"27 Bealing Village, Tyrrelstown Boulevard, Tyrrelstown Dublin 15",Dublin,210000.0,No,Tyrrelstown,Dublin 15,q2,40%
+12/02/2016,"31 The Boulevard, Bealing Village, Tyrrelstown Dublin 15",Dublin,197000.0,No,Tyrrelstown,Dublin 15,q2,40%
+18/02/2016,"4 Mount Eustace Walk, Tyrrelstown, Dublin 15",Dublin,202500.0,No,Tyrrelstown,Dublin 15,q2,40%
+19/02/2016,"5 Mount Eustace Blvd, Tyrrelstown",Dublin,192000.0,No,Tyrrelstown,Dublin 15,q2,40%
+01/03/2016,"121 Boulevard, Mount Eustace, Tyrrelstown Dublin 15",Dublin,202000.0,No,Tyrrelstown,Dublin 15,q2,40%
+08/03/2016,"2 Gazzele Village, Tyrrelstown, Dublin 15",Dublin,202500.0,No,Tyrrelstown,Dublin 15,q2,40%
+16/03/2016,"23 The Boulavard, French Park, Tyrrelstown",Dublin,220000.0,No,Tyrrelstown,Dublin 15,q2,50%
+16/03/2016,"5 Cruise Park Close, Tyrrelstown, Dublin 15",Dublin,165000.0,No,Tyrrelstown,Dublin 15,q1,20%
+12/04/2016,"1 Mount Eustace Grove, Tyrrelstown, Dublin 15",Dublin,132000.0,No,Tyrrelstown,Dublin 15,q1,10%
+13/04/2016,"4 Bellgree Ave, Tyrrelstown, Dublin 15",Dublin,271000.0,No,Tyrrelstown,Dublin 15,q4,100%
+14/04/2016,"14 Ballentree Crescent, Tyrrelstown, Dublin 15",Dublin,199000.0,No,Tyrrelstown,Dublin 15,q2,40%
+14/04/2016,"189 The Boulevard, Mount Eustace, Tyrrelstown Dublin 15",Dublin,230000.0,No,Tyrrelstown,Dublin 15,q3,70%
+15/04/2016,"24 The Boulevard Cruise Park, Tyrrelstown, Dublin 15",Dublin,210000.0,No,Tyrrelstown,Dublin 15,q2,40%
+22/04/2016,"113 The Boulevard Bealing Village, Tyrrelstown, Dublin 15",Dublin,122500.0,No,Tyrrelstown,Dublin 15,q1,10%
+25/04/2016,"9 Bellgree Heights, Tyrrelstown, Dublin 15",Dublin,240000.0,No,Tyrrelstown,Dublin 15,q4,80%
+27/04/2016,"12 Curragh Hall Crescent, Tyrrelstown Dublin 15, Dublin",Dublin,205000.0,No,Tyrrelstown,Dublin 15,q2,40%
+29/04/2016,"41 The Boulevard, Mount Eustace, Tyrrelstown Dublin 15",Dublin,220000.0,No,Tyrrelstown,Dublin 15,q2,50%
+20/05/2016,"2 The Boulevard, Bishops Orchard, Tyrrelstown Dublin 15",Dublin,230000.0,No,Tyrrelstown,Dublin 15,q3,80%
+27/05/2016,"2 Ballentree Crescent, Tyrrelstown, Dublin 15",Dublin,230000.0,No,Tyrrelstown,Dublin 15,q3,80%
+08/06/2016,"8 Mount Eustace Close, Tyrrelstown, Dublin 15",Dublin,190000.0,No,Tyrrelstown,Dublin 15,q2,30%
+17/06/2016,"31 Curragh Hall Crescent, Tyrrelstown, Dublin 15",Dublin,221000.0,No,Tyrrelstown,Dublin 15,q3,70%
+20/06/2016,"38 Curragh Hall Crescent, Tyrrelstown, Dublin 15",Dublin,218500.0,No,Tyrrelstown,Dublin 15,q2,50%
+26/07/2016,"6 Mount Eustace Rise, Tyrrelstown, Dublin 15",Dublin,211000.0,No,Tyrrelstown,Dublin 15,q2,50%
+29/08/2016,"66 Park Blvd, French Park, Tyrrelstown Dublin 15",Dublin,250000.0,No,Tyrrelstown,Dublin 15,q4,90%
+31/08/2016,"13 Cruise Park Ave, Tyrrelstown, Dublin 15",Dublin,297000.0,No,Tyrrelstown,Dublin 15,q4,100%
+31/08/2016,"15 Ballentree Crescent, Tyrrelstown, Dublin",Dublin,171500.0,No,Tyrrelstown,Dublin 15,q1,30%
+31/08/2016,"5 Mount Eustace Drive, Tyrrelstown, Dublin 15",Dublin,225000.0,No,Tyrrelstown,Dublin 15,q3,70%
+10/10/2016,"8 Mount Eustace Dr, Tyrrelstown, Dublin 15",Dublin,230000.0,No,Tyrrelstown,Dublin 15,q3,80%
+27/10/2016,"34 Curragh Hall Crescent, Tyrrelstown, Dublin 15",Dublin,215000.0,No,Tyrrelstown,Dublin 15,q2,50%
+18/11/2016,"129 Cruise Park Dr, Tyrrelstown, Dublin 15",Dublin,189000.0,No,Tyrrelstown,Dublin 15,q2,30%
+22/11/2016,"3 Mount Eustace Walk, Tyrrelstown, Dublin 15",Dublin,235000.0,No,Tyrrelstown,Dublin 15,q3,80%
+25/11/2016,"2 Mount Garrett Park, Tyrrelstown, Dublin 15",Dublin,166000.0,No,Tyrrelstown,Dublin 15,q1,20%
+02/12/2016,"11 Gazelle Lane, Tyrrelstown, Dublin 15",Dublin,230000.0,No,Tyrrelstown,Dublin 15,q3,80%
+02/12/2016,"8 Rathmore Ave, Tyrrelstown, Dublin 15",Dublin,255000.0,No,Tyrrelstown,Dublin 15,q4,90%
+07/12/2016,"8 Mount Eustace Rise, Tyrrelstown, Dublin 15",Dublin,236000.0,No,Tyrrelstown,Dublin 15,q3,80%
+12/12/2016,"231 The Boulevard, Mount Eustace, Tyrrelstown Dublin 15",Dublin,226500.0,No,Tyrrelstown,Dublin 15,q3,70%
+16/12/2016,"39 Bellgree Rise, Tyrrelstown, Dublin 15",Dublin,238000.0,No,Tyrrelstown,Dublin 15,q4,80%
+21/12/2016,"10 Bellgree Court, Tyrrelstown, Dublin 15",Dublin,190000.0,No,Tyrrelstown,Dublin 15,q2,40%
+21/12/2016,"14 Bellgree Rise, Tyrrelstown, Dublin",Dublin,248000.0,No,Tyrrelstown,Dublin 15,q4,90%
+04/01/2017,"18 Gazelle Lane, Tyrrelstown, Dublin 15",Dublin,210000.0,No,Tyrrelstown,Dublin 15,q2,50%
+05/01/2017,"Apt 6 Bellgree Hall, Off Bellgree Rise, Tyrrelstown Dublin 15",Dublin,165000.0,No,Tyrrelstown,Dublin 15,q1,20%
+06/01/2017,"104 Bellgree Blvd, Tyrrelstown, Dublin 15",Dublin,214000.0,No,Tyrrelstown,Dublin 15,q2,50%
+10/01/2017,"77 Bealing Blvd, Tyrrelstown, Dublin 15",Dublin,235000.0,No,Tyrrelstown,Dublin 15,q3,80%
+23/01/2017,"3 Mount Eustace Green, Tyrrelstown, Dublin 15",Dublin,205000.0,No,Tyrrelstown,Dublin 15,q2,40%
+03/02/2017,"119 Cruise Park Drive, Tyrrelstown, Dublin 15",Dublin,185000.0,No,Tyrrelstown,Dublin 15,q2,30%
+03/02/2017,"99 Cruise Park Drive, Tyrrelstown, Dublin 15",Dublin,220000.0,No,Tyrrelstown,Dublin 15,q2,50%
+15/02/2017,"17 Curragh Hall Green, Tyrrelstown, Dublin 15",Dublin,210000.0,No,Tyrrelstown,Dublin 15,q2,50%
+24/02/2017,"52 The Boulevard, Mount Garrett, Tyrrelstown",Dublin,202500.0,No,Tyrrelstown,Dublin 15,q2,40%
+01/03/2017,"2 Curragh Hall Wood, Tyrrelstown, Dublin 15",Dublin,167000.0,No,Tyrrelstown,Dublin 15,q1,20%
+10/03/2017,"26 Rathmore Crescent, Tyrrelstown Dublin 15, Dublin 15",Dublin,245000.0,No,Tyrrelstown,Dublin 15,q4,80%
+14/03/2017,"5 Cruise Park Avenue, Tyrrelstown, Dublin 15",Dublin,220000.0,No,Tyrrelstown,Dublin 15,q2,50%
+31/03/2017,"44 Gazelle Village, Tyrrelstown, Dublin 15",Dublin,248000.0,No,Tyrrelstown,Dublin 15,q4,90%
+03/04/2017,"22 Park Boulevard, Tyrrelstown, Dublin 15",Dublin,171000.0,No,Tyrrelstown,Dublin 15,q1,20%
+04/04/2017,"60 Park Blvd, French Park, Tyrrelstown Dublin 15",Dublin,237000.0,No,Tyrrelstown,Dublin 15,q4,80%
+05/04/2017,"5 Mount Eustace Ave, Tyrrelstown Dublin 15, Dublin",Dublin,205000.0,No,Tyrrelstown,Dublin 15,q2,40%
+19/04/2017,"29 Bellgree Drive, Tyrrelstown, Dublin 15",Dublin,212930.0,No,Tyrrelstown,Dublin 15,q2,50%
+28/04/2017,"8 Curragh Hall Wood, Tyrrelstown, Dublin 15",Dublin,152000.0,No,Tyrrelstown,Dublin 15,q1,20%
+09/05/2017,"4 Cruise Park Hall, Tyrrelstown, Dublin 15",Dublin,185000.0,No,Tyrrelstown,Dublin 15,q2,30%
+01/06/2017,"40 Bellgree Dr, Tyrrelstown, Dublin 15",Dublin,252000.0,No,Tyrrelstown,Dublin 15,q4,90%
+02/06/2017,"15 Bellgree Dr, Tyrrelstown, Dublin 15",Dublin,277000.0,No,Tyrrelstown,Dublin 15,q4,100%
+07/06/2017,"21 Mount Garrett Park, Tyrrelstown, Dublin 15",Dublin,218000.0,No,Tyrrelstown,Dublin 15,q2,50%
+23/06/2017,"3 Ballentree Dr, Tyrrelstown, Dublin",Dublin,230000.0,No,Tyrrelstown,Dublin 15,q3,80%
+30/06/2017,"78 Park Blvd, Tyrrelstown, Dublin 15",Dublin,241000.0,No,Tyrrelstown,Dublin 15,q4,80%
+06/07/2017,"22 Curragh Hall Crescent, Tyrrelstown Dublin 15, Dublin",Dublin,219000.0,No,Tyrrelstown,Dublin 15,q2,50%
+11/07/2017,"1 Curragh Hall Grove, Tyrrelstown, Dublin 15",Dublin,186000.0,No,Tyrrelstown,Dublin 15,q2,30%
+13/07/2017,"1 Mount Eustace Walk, Tyrrelstown, Dublin 15",Dublin,260000.0,No,Tyrrelstown,Dublin 15,q4,90%
+13/07/2017,"57 Cruise Park Ave, Tyrrelstown, Dublin 15",Dublin,230050.0,No,Tyrrelstown,Dublin 15,q3,80%
+21/07/2017,"23 Cruise Park Dr, Tyrrelstown, Dublin",Dublin,245000.0,No,Tyrrelstown,Dublin 15,q4,80%
+04/08/2017,"103 Cruise Park Dr, Tyrrelstown, Dublin 15",Dublin,230000.0,No,Tyrrelstown,Dublin 15,q3,80%
+08/08/2017,"18 Belgree Dr, Tyrrelstown, Dublin 15",Dublin,175000.0,No,Tyrrelstown,Dublin 15,q1,30%
+17/08/2017,"132 Mount Garrett Park, Tyrrelstown Dublin 15, Dublin",Dublin,205000.0,No,Tyrrelstown,Dublin 15,q2,40%
+17/08/2017,"45 Cruise Park Dr, Tyrrelstown, Dublin",Dublin,260000.0,No,Tyrrelstown,Dublin 15,q4,90%
+21/09/2017,"57 The Boulevard Mount Eustace, Tyrrelstown, Dublin 15",Dublin,245000.0,No,Tyrrelstown,Dublin 15,q4,90%
+26/09/2017,"9 Bealing Walk, Tyrrelstown, Dublin 15",Dublin,148000.0,No,Tyrrelstown,Dublin 15,q1,20%
+17/10/2017,"30 Cruise Park Ave, Tyrrelstown, Dublin 15",Dublin,185022.02,Yes,Tyrrelstown,Dublin 15,q2,30%
+18/10/2017,"1 Mount Eustace Rise, Tyrrelstown, Dublin 15",Dublin,230000.0,No,Tyrrelstown,Dublin 15,q3,80%
+19/10/2017,"15 Mount Garrett Grove, Tyrrelstown, Dublin 15",Dublin,334000.0,No,Tyrrelstown,Dublin 15,q4,100%
+31/10/2017,"1 Ballentree Dr, Tyrrelstown, Dublin 15",Dublin,238000.0,No,Tyrrelstown,Dublin 15,q4,80%
+01/11/2017,"5 Bellgree Green, Tyrrelstown, Dublin 15",Dublin,260000.0,No,Tyrrelstown,Dublin 15,q4,90%
+14/11/2017,"15 The Boulaverd, Bishops Orchard, Tyrrelstown Dublin 15",Dublin,265000.0,No,Tyrrelstown,Dublin 15,q4,90%
+20/11/2017,"18 Bealing Grove, Tyrrelstown, Dublin 15",Dublin,165000.0,No,Tyrrelstown,Dublin 15,q1,20%
+10/12/2017,"62 Mount Garrett Park, Tyrrelstown, Dublin 15",Dublin,181000.0,No,Tyrrelstown,Dublin 15,q2,30%
+13/12/2017,"13 Ballentree Sq, Tyrrelstown, Dublin 15",Dublin,185000.0,No,Tyrrelstown,Dublin 15,q2,30%
+14/12/2017,"7 Ballentree Sq, Tyrrelstown, Dublin 15",Dublin,180000.0,No,Tyrrelstown,Dublin 15,q2,30%
+15/12/2017,"3 Mount Eustace Ave, Tyrrelstown, Dublin 15",Dublin,215000.0,No,Tyrrelstown,Dublin 15,q2,50%
+19/12/2017,"13 Bellgree House, Boulevard, Tyrrelstown Dublin 15",Dublin,645000.0,No,Tyrrelstown,Dublin 15,q4,100%
+19/12/2017,"3 Bealing Mews, Tyrrelstown, Dublin 15",Dublin,285500.0,No,Tyrrelstown,Dublin 15,q4,100%
+22/12/2017,"75 Cruise Park Drive, Tyrrelstown, Dublin 15",Dublin,248000.0,No,Tyrrelstown,Dublin 15,q4,90%
+04/01/2018,"90 Mount Garrett Park, Tyrrelstown, Dublin 15",Dublin,175000.0,No,Tyrrelstown,Dublin 15,q1,30%
+19/01/2018,"16 Mount Garrett Walk, Tyrrelstown, Dublin 15",Dublin,265000.0,No,Tyrrelstown,Dublin 15,q4,90%
+19/01/2018,"32 Mount Eustace Crescent, Tyrrelstown, Dublin 15",Dublin,228100.0,No,Tyrrelstown,Dublin 15,q3,70%
+23/01/2018,"7 Bellgree Green, Tyrrelstown, Dublin 15",Dublin,260000.0,No,Tyrrelstown,Dublin 15,q4,90%
+31/01/2018,"24 Mount Eustace Crescent, Tyrrelstown, Dublin 15",Dublin,205000.0,No,Tyrrelstown,Dublin 15,q2,40%
+01/02/2018,"20 Cruise Park Dr, Tyrrelstown, Dublin 15",Dublin,225000.0,No,Tyrrelstown,Dublin 15,q3,70%
+13/02/2018,"8 Ballentree Sq, Tyrrelstown, Dublin 15",Dublin,184000.0,No,Tyrrelstown,Dublin 15,q2,30%
+16/02/2018,"5 Bellgree Court, Tyrrelstown, Dublin 15",Dublin,255000.0,No,Tyrrelstown,Dublin 15,q4,90%
+26/02/2018,"12 Bellgree Court, Tyrrelstown, Dublin 15",Dublin,212000.0,No,Tyrrelstown,Dublin 15,q2,50%
+06/03/2018,"6 Bishops Orchard, Tyrrelstown, Dublin 15",Dublin,269000.0,No,Tyrrelstown,Dublin 15,q4,100%
+08/03/2018,"4 Cruise Park Hall, Tyrrelstown, Dublin 15",Dublin,194641.83,No,Tyrrelstown,Dublin 15,q2,40%
+06/04/2018,"25 Tyrrellstown Way, Tyrrelstown, Dublin 15",Dublin,175000.0,No,Tyrrelstown,Dublin 15,q1,30%
+18/04/2018,"17 Ballentree Sq, Tyrrelstown, Dublin 15",Dublin,177500.0,No,Tyrrelstown,Dublin 15,q1,30%
+20/04/2018,"2 Curragh Hall Ave, Tyrrelstown, Dublin 15",Dublin,262000.0,No,Tyrrelstown,Dublin 15,q4,90%
+20/04/2018,"6 Curragh Hall Court, Tyrrelstown, Dublin 15",Dublin,269000.0,No,Tyrrelstown,Dublin 15,q4,100%
+30/04/2018,"1 Curragh Hall Green, Tyrrelstown, Dublin 15",Dublin,260000.0,No,Tyrrelstown,Dublin 15,q4,90%
+03/05/2018,"163 Cruise Park Dr, Tyrrelstown, Dublin 15",Dublin,162000.0,No,Tyrrelstown,Dublin 15,q1,20%
+10/05/2018,"69 Park Blvd, French Park, Tyrrelstown Dublin 15",Dublin,258000.0,No,Tyrrelstown,Dublin 15,q4,90%
+11/05/2018,"13 Mount Garrett Grove, Tyrrelstown, Dublin 15",Dublin,265000.0,No,Tyrrelstown,Dublin 15,q4,90%
+31/05/2018,"4 Belgree Woods, Tyrrelstown, Dublin 15",Dublin,220000.0,No,Tyrrelstown,Dublin 15,q2,50%
+18/06/2018,"24 Bealing Ave, Tyrrelstown, Dublin 15",Dublin,277000.0,No,Tyrrelstown,Dublin 15,q4,100%
+29/06/2018,"14 Bellgree Lawn, Tyrrelstown, Dublin 15",Dublin,280000.0,No,Tyrrelstown,Dublin 15,q4,100%
+10/07/2018,"8 The Pines, French Park, Tyrrelstown Dublin 15",Dublin,203000.0,No,Tyrrelstown,Dublin 15,q2,40%
+13/07/2018,"58 Mount Garrett Park, Tyrrelstown, Dublin 15",Dublin,180000.0,No,Tyrrelstown,Dublin 15,q2,30%
+25/07/2018,"3 Belgree Court, Tyrrelstown, Dublin 15",Dublin,260000.0,No,Tyrrelstown,Dublin 15,q4,90%
+30/07/2018,"23 Mount Eustace Park, Tyrrelstown, Dublin 15",Dublin,266700.0,No,Tyrrelstown,Dublin 15,q4,100%
+01/08/2018,"10 Bealing Grove, Tyrrelstown, Dublin 15",Dublin,265000.0,No,Tyrrelstown,Dublin 15,q4,90%
+08/08/2018,"22 Mount Garrett Ave, Tyrrelstown, Dublin 15",Dublin,276000.0,No,Tyrrelstown,Dublin 15,q4,100%
+10/08/2018,"61 Curragh Hall Crescent, Tyrrelstown, Dublin 15",Dublin,226303.0,No,Tyrrelstown,Dublin 15,q3,70%
+13/08/2018,"61 Mount Garrett Rise, Tyrrelstown, Dublin 15",Dublin,270000.0,No,Tyrrelstown,Dublin 15,q4,100%
+31/08/2018,"7 Mount Eustace Park, Tyrrelstown, Dublin 15",Dublin,268000.0,No,Tyrrelstown,Dublin 15,q4,100%
+03/09/2018,"5 Park View House, Park Boulevard, Tyrrelstown Dublin 15",Dublin,216000.0,No,Tyrrelstown,Dublin 15,q2,50%
+07/09/2018,"43 Curragh Hall Crescent, Tyrrelstown, Dublin 15",Dublin,265000.0,No,Tyrrelstown,Dublin 15,q4,90%
+07/09/2018,"Apt 4, Bishops Orchard House, Tyrrelstown",Dublin,200000.0,No,Tyrrelstown,Dublin 15,q2,40%
+13/09/2018,"101 The Boulevard, Bealing Village, Tyrrelstown Dublin 15",Dublin,287000.0,No,Tyrrelstown,Dublin 15,q4,100%
+02/10/2018,"1 Bishops Orchard, Tyrrelstown, Dublin 15",Dublin,120000.0,No,Tyrrelstown,Dublin 15,q1,10%
+03/10/2018,"11 Mount Eustace Dr, Tyrrelstown, Dublin 15",Dublin,250000.0,No,Tyrrelstown,Dublin 15,q4,90%
+08/10/2018,"14 Bellgree Heights, Tyrrelstown, Dublin 15",Dublin,270000.0,No,Tyrrelstown,Dublin 15,q4,100%
+11/10/2018,"1 Belgree Court, Tyrrelstown, Dublin 15",Dublin,279000.0,No,Tyrrelstown,Dublin 15,q4,100%
+18/10/2018,"6 Bealing Grove, Tyrrelstown, Dublin 15",Dublin,270000.0,No,Tyrrelstown,Dublin 15,q4,100%
+19/10/2018,"6 Park View House, Park Boulevard, Tyrrelstown Dublin 15",Dublin,203000.0,No,Tyrrelstown,Dublin 15,q2,40%
+02/11/2018,"22 Ballentree Crescent, Tyrrelstown, Dublin 15",Dublin,242000.0,No,Tyrrelstown,Dublin 15,q4,80%
+06/11/2018,"161 Cruise Park Dr, Tyrrelstown, Dublin 15",Dublin,245000.0,No,Tyrrelstown,Dublin 15,q4,90%
+16/11/2018,"174 Mount Garrett Park, Tyrrelstown, Dublin 15",Dublin,195000.0,No,Tyrrelstown,Dublin 15,q2,40%
+20/11/2018,"12 Ballentree Lodge, Tyrrelstown, Dublin 15",Dublin,196000.0,No,Tyrrelstown,Dublin 15,q2,40%
+17/12/2018,"1 Mount Garrett Crescent, Tyrrelstown Dublin 15, Dublin",Dublin,115000.0,No,Tyrrelstown,Dublin 15,q1,10%
+17/12/2018,"2 Cruise Park Hall, Tyrrelstown, Dublin 15",Dublin,202000.0,No,Tyrrelstown,Dublin 15,q2,40%
+18/12/2018,"37 The Boulevard, Bealing Village, Tyrrelstown Dublin 15",Dublin,275000.0,No,Tyrrelstown,Dublin 15,q4,100%
+18/12/2018,"4 Mount Garrett Ave, Tyrrelstown, Dublin 15",Dublin,265000.0,No,Tyrrelstown,Dublin 15,q4,90%
+20/12/2018,"12 Belgree Ave, Tyrrelstown, Dublin 15",Dublin,265000.0,No,Tyrrelstown,Dublin 15,q4,90%
+11/01/2019,"17 Mount Garritt Rise, Tyrrelstown, Dublin 15",Dublin,307500.0,No,Tyrrelstown,Dublin 15,q4,100%
+11/01/2019,"3 Curragh Hall Rd, Tyrrelstown, Dublin 15",Dublin,235000.0,No,Tyrrelstown,Dublin 15,q3,80%
+17/01/2019,"3 Cruise Park Walk, Tyrrelstown, Dublin 15",Dublin,280000.0,No,Tyrrelstown,Dublin 15,q4,100%
+31/01/2019,"96 Mount Garrett Park, Tyrrelstown, Dublin 15",Dublin,240000.0,No,Tyrrelstown,Dublin 15,q4,80%
+19/02/2019,"71 Cruise Park Ave, Tyrrelstown, Dublin 15",Dublin,225000.0,No,Tyrrelstown,Dublin 15,q3,70%
+19/02/2019,"Apt 7 Bishops Orchard, Tyrrelstown, Dublin 15",Dublin,115000.0,No,Tyrrelstown,Dublin 15,q1,10%
+07/03/2019,"6 Curragh Hall Rd, Tyrrelstown, Dublin 15",Dublin,215000.0,No,Tyrrelstown,Dublin 15,q2,50%
+08/03/2019,"12 Mount Garrett Close, Tyrrelstown, Dublin 15",Dublin,233000.0,No,Tyrrelstown,Dublin 15,q3,80%
+08/03/2019,"5 Gazelle Lane, Tyrrelstown, Dublin 15",Dublin,250000.0,No,Tyrrelstown,Dublin 15,q4,90%
+04/04/2019,"123 Cruise Park Dr, Tyrrelstown, Dublin 15",Dublin,180000.0,No,Tyrrelstown,Dublin 15,q2,30%
+17/04/2019,"33 Curragh Hall Green, Tyrrelstown Dublin 15, Dublin",Dublin,288000.0,No,Tyrrelstown,Dublin 15,q4,100%
+03/05/2019,"11 Bellgree Close, Tyrrelstown, Dublin 15",Dublin,236000.0,No,Tyrrelstown,Dublin 15,q4,80%
+09/05/2019,"168 Mount Garrett Park, Tyrrelstown, Dublin 15",Dublin,180000.0,No,Tyrrelstown,Dublin 15,q2,30%
+31/05/2019,"27 Mount Garrett Rise, Tyrrelstown, Dublin 15",Dublin,315000.0,No,Tyrrelstown,Dublin 15,q4,100%
+07/06/2019,"69 Curragh Hall Crescent, Tyrrelstown, Dublin 15",Dublin,237500.0,No,Tyrrelstown,Dublin 15,q4,80%
+10/06/2019,"15 Mount Garrett Crescent, Tyrrelstown, Dublin 15",Dublin,18000.0,No,Tyrrelstown,Dublin 15,q1,10%
+21/06/2019,"1 Gaxelle Mews, Tyrrelstown, Dublin 15",Dublin,206000.0,No,Tyrrelstown,Dublin 15,q2,40%
+25/06/2019,"1 Bishops Orchard, Tyrrelstown, Dublin 15",Dublin,120000.0,No,Tyrrelstown,Dublin 15,q1,10%
+05/07/2019,"15 Mount Garrett Rise, Tyrrelstown, Dublin 15",Dublin,281000.0,No,Tyrrelstown,Dublin 15,q4,100%
+08/07/2019,"92 The Boulevard, Belgree, Tyrrelstown Dublin 15",Dublin,275000.0,No,Tyrrelstown,Dublin 15,q4,100%
+25/07/2019,"18 Bealing Ave, Bealing Village Tyrrelstown, Dublin 15",Dublin,217500.0,No,Tyrrelstown,Dublin 15,q2,50%
+26/07/2019,"1 Mount Eustace Close, Tyrrelstown, Dublin 15",Dublin,270000.0,No,Tyrrelstown,Dublin 15,q4,100%
+29/07/2019,"12 Park View House, Park Boulevard, Tyrrelstown",Dublin,218000.0,No,Tyrrelstown,Dublin 15,q2,50%
+30/07/2019,"11 Bellgree Rise, Tyrrelstown, Dublin 15",Dublin,225000.0,No,Tyrrelstown,Dublin 15,q3,70%
+06/08/2019,"1 Mount Garrett Ave, Tyrrelstown, Dublin 15",Dublin,265000.0,No,Tyrrelstown,Dublin 15,q4,90%
+06/08/2019,"12 Mount Garrett Grove, Mount Garrett, Tyrrelstown Dublin 15",Dublin,280000.0,No,Tyrrelstown,Dublin 15,q4,100%
+22/08/2019,"4 Ballentree Villas, Tyrrelstown, Dublin 15",Dublin,265000.0,No,Tyrrelstown,Dublin 15,q4,100%
+23/08/2019,"185 Cruise Park Dr, Tyrrelstown, Dublin 15",Dublin,200000.0,No,Tyrrelstown,Dublin 15,q2,40%
+23/08/2019,"23 Bealing Ave, Tyrrelstown, Dublin 15",Dublin,290000.0,No,Tyrrelstown,Dublin 15,q4,100%
+24/08/2019,"16 Mount Garrett Grove, Tyrrelstown, Dublin 15",Dublin,271500.0,No,Tyrrelstown,Dublin 15,q4,100%
+27/08/2019,"31 Curragh Hall Crescent, Tyrrelstown, Dublin 15",Dublin,275000.0,No,Tyrrelstown,Dublin 15,q4,100%
+28/08/2019,"10 Cruise Park Rise, Tyrrelstown, Dublin 15",Dublin,310000.0,No,Tyrrelstown,Dublin 15,q4,100%
+30/08/2019,"5 The Boulevard, French Park, Tyrrelstown",Dublin,233000.0,No,Tyrrelstown,Dublin 15,q3,80%
+06/09/2019,"4 Tyrrelstown Way, Tyrrelstown, Dublin 15",Dublin,242500.0,No,Tyrrelstown,Dublin 15,q4,80%
+18/09/2019,"3 Rathmore Ave, Tyrrelstown, Dublin 15",Dublin,195000.0,No,Tyrrelstown,Dublin 15,q2,40%
+24/09/2019,"34 Mount Eustace Crescent, Tyrrelstown, Dublin 15",Dublin,240500.0,No,Tyrrelstown,Dublin 15,q4,80%
+26/09/2019,"20 Mount Garrett Rise, Tyrrelstown, Dublin 15",Dublin,209000.0,No,Tyrrelstown,Dublin 15,q2,40%
+27/09/2019,"1 Bealing View, Tyrrelstown, Dublin 15",Dublin,285000.0,No,Tyrrelstown,Dublin 15,q4,100%
+02/10/2019,"10 Crvise Park Walk, Tyrrelstown, Dublin 15",Dublin,341000.0,No,Tyrrelstown,Dublin 15,q4,100%

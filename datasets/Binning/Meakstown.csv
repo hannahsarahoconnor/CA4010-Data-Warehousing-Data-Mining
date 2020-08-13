@@ -1,0 +1,122 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+20/01/2010,"34 Seagrave Drive, Meakstown",Dublin,152000.0,No,Meakstown,Dublin 11,q2,40%
+08/02/2010,"34 Creston Avenue, Meakstown",Dublin,270000.0,Yes,Meakstown,Dublin 11,q4,100%
+03/03/2010,"31 Creston Avenue, Meakstown",Dublin,250000.0,Yes,Meakstown,Dublin 11,q4,90%
+08/03/2010,"109 Creston Avenue, Meakstown, Dublin",Dublin,130000.0,Yes,Meakstown,Dublin 11,q1,30%
+16/03/2010,"128 Creston Aveune, Meakstown",Dublin,185022.03,Yes,Meakstown,Dublin 11,q3,60%
+21/05/2010,"32 Creston Ave, Meakstown, Dublin 11",Dublin,255000.0,Yes,Meakstown,Dublin 11,q4,90%
+28/06/2010,"38 Melville Way, Cityside  Meakstown, Dublin 11",Dublin,147500.0,No,Meakstown,Dublin 11,q2,40%
+17/09/2010,"19 Melville View, Meakstown, Dublin 11",Dublin,150000.0,No,Meakstown,Dublin 11,q2,40%
+04/03/2011,"1 Seagrave Terrace, Meakstown, Dublin 11",Dublin,215000.0,No,Meakstown,Dublin 11,q3,80%
+02/06/2011,"21 Seagrave Close, Meakstown, Dublin 11",Dublin,110000.0,No,Meakstown,Dublin 11,q1,10%
+11/07/2011,"63 Seagrave Drive, Meakstown",Dublin,100000.0,No,Meakstown,Dublin 11,q1,10%
+03/08/2011,"8 Seagrave Terrace, Meakstown, Dublin 11",Dublin,175000.0,No,Meakstown,Dublin 11,q2,50%
+22/08/2011,"34 Melville Rise, Meakstown, Dublin 11",Dublin,110000.0,No,Meakstown,Dublin 11,q1,20%
+22/11/2011,"37 Melville Way, Meakstown, Dublin 11",Dublin,122500.0,No,Meakstown,Dublin 11,q1,20%
+16/01/2012,"1 Seagrave Close, Meakstown",Dublin,180000.0,No,Meakstown,Dublin 11,q3,60%
+27/01/2012,"5  Melville Green, Cityside, Meakstown",Dublin,175000.0,No,Meakstown,Dublin 11,q3,60%
+09/03/2012,"5 Seagrave Court, Citygate, Meakstown",Dublin,78000.0,No,Meakstown,Dublin 11,q1,10%
+09/03/2012,"Apartment 64 Seagrave Drive, City Gate, Meakstown",Dublin,110000.0,No,Meakstown,Dublin 11,q1,20%
+05/04/2012,"26, Lanesborough Crescent, Meakstown",Dublin,121000.0,No,Meakstown,Dublin 11,q1,20%
+27/07/2012,"18 Melville Rise, Meakstown, Dublin 11",Dublin,80000.0,No,Meakstown,Dublin 11,q1,10%
+03/09/2012,"14 Seagrave Rise, St. Margarets Road, Meakstown",Dublin,140000.0,No,Meakstown,Dublin 11,q2,30%
+21/12/2012,"9 Seagrave Rise, Meakstown, Dublin 11",Dublin,140000.0,No,Meakstown,Dublin 11,q2,30%
+18/01/2013,"2 Seagrave Terrace, Citygate, Meakstown",Dublin,140000.0,No,Meakstown,Dublin 11,q2,40%
+24/01/2013,"16 Lanesborough Grove, St Margaret'S Road, Meakstown",Dublin,180000.0,No,Meakstown,Dublin 11,q3,60%
+22/02/2013,"8 Seagrave Rise, Meakstown, Dublin 11",Dublin,140000.0,No,Meakstown,Dublin 11,q2,40%
+28/03/2013,"Apt.73 Lanesborough Mews, Meakstown",Dublin,80000.0,No,Meakstown,Dublin 11,q1,10%
+13/12/2013,"7 Seagrave Terrace, Meakstown, Dublin 11",Dublin,135000.0,No,Meakstown,Dublin 11,q1,30%
+18/02/2014,"15 Melville Rise, Meakstown, Dublin 11",Dublin,70000.0,No,Meakstown,Dublin 11,q1,10%
+18/02/2014,"16 Melville Rise, Meakstown, Dublin 11",Dublin,102000.0,No,Meakstown,Dublin 11,q1,10%
+18/02/2014,"35 Melville Rise, Meakstown, Dublin 11",Dublin,70000.0,No,Meakstown,Dublin 11,q1,10%
+18/02/2014,"39 Melville Rise, Meakstown, Dublin 11",Dublin,102000.0,No,Meakstown,Dublin 11,q1,10%
+18/02/2014,"6 Seagrave Terrace, Meakstown, Dublin 11",Dublin,125000.0,No,Meakstown,Dublin 11,q1,20%
+18/02/2014,"65 Seagrave Dr, Meakstown, Dublin 11",Dublin,70000.0,No,Meakstown,Dublin 11,q1,10%
+18/02/2014,"66 Seagrave Dr, Meakstown, Dublin 11",Dublin,70000.0,No,Meakstown,Dublin 11,q1,10%
+18/02/2014,"7 Seagrave Rise, Meakstown, Dublin 11",Dublin,125000.0,No,Meakstown,Dublin 11,q1,30%
+18/02/2014,"70 Seagrave Dr, Meakstown, Dublin 11",Dublin,102000.0,No,Meakstown,Dublin 11,q1,10%
+24/03/2014,"10 Melville Court, Cityside, Meakstown",Dublin,123000.0,No,Meakstown,Dublin 11,q1,20%
+24/03/2014,"5 Melville Lawn, Cityside, Meakstown Dublin 11",Dublin,120000.0,No,Meakstown,Dublin 11,q1,20%
+28/03/2014,"45 Melville Terrace, Cityside, Meakstown Dublin 11",Dublin,249950.0,No,Meakstown,Dublin 11,q4,90%
+03/04/2014,"9 Melville Drive, Cityside, Meakstown",Dublin,135100.0,No,Meakstown,Dublin 11,q2,30%
+05/06/2014,"30 Melville Cove, Cityside, Meakstown Dublin 11",Dublin,130000.0,No,Meakstown,Dublin 11,q1,30%
+30/07/2014,"33 Lanesborough Ave, St Margarets Rd, Meakstown Dublin 11",Dublin,235000.0,No,Meakstown,Dublin 11,q4,80%
+30/07/2014,"6 Melville Dr, Cityside, Meakstown",Dublin,120000.0,No,Meakstown,Dublin 11,q1,20%
+01/09/2014,"36 Seagrave Dr, Meakstown, Dublin 11",Dublin,122000.0,No,Meakstown,Dublin 11,q1,20%
+10/09/2014,"2 Seagrave Tce, Meakstown, Dublin 11",Dublin,221000.0,No,Meakstown,Dublin 11,q3,80%
+18/09/2014,"29 Melville Park, Cityside, Meakstown Dublin 11",Dublin,130000.0,No,Meakstown,Dublin 11,q1,30%
+20/10/2014,"13 Melville Lawn Cityside, Meakstown Dublin 11, Dublin",Dublin,137000.0,No,Meakstown,Dublin 11,q2,30%
+07/11/2014,"18 Melville Close, Cityside, Meakstown Dublin 11",Dublin,250000.0,No,Meakstown,Dublin 11,q4,90%
+11/12/2014,"45 Seagrave Dr, Citygate, Meakstown Dublin 11",Dublin,135000.0,No,Meakstown,Dublin 11,q2,30%
+22/12/2014,"19 Melville Drive, Cityside, Meakstown",Dublin,155719.0,No,Meakstown,Dublin 11,q2,50%
+22/12/2014,"20 Melville Park, Cityside Meakstown, Dublin 11",Dublin,109920.0,No,Meakstown,Dublin 11,q1,10%
+13/01/2015,"17 Lanesborough Crescent, Meakstown, Dublin",Dublin,110000.0,No,Meakstown,Dublin 11,q1,20%
+15/01/2015,"25 Melville Lawn Cityside, Meakstown Dublin 11, Dublin",Dublin,122500.0,No,Meakstown,Dublin 11,q1,20%
+27/03/2015,"27 Melville Terrace, Cityside, Meakstown Dublin 11",Dublin,250000.0,No,Meakstown,Dublin 11,q4,90%
+13/05/2015,"35 Melville View, Meakstown",Dublin,138000.0,No,Meakstown,Dublin 11,q2,30%
+09/06/2015,"16 Melville Cove, Meakstown, Dublin 11",Dublin,120000.0,No,Meakstown,Dublin 11,q1,20%
+19/06/2015,"33 Melville Terrace, Cityside, Meakstown Dublin 11",Dublin,250000.0,No,Meakstown,Dublin 11,q4,90%
+25/06/2015,"30 Melville Terrace, Cityside, Meakstown Dublin 11",Dublin,235000.0,No,Meakstown,Dublin 11,q4,80%
+06/10/2015,"27 Seagrave Drive, Citygate, Meakstown",Dublin,150000.0,No,Meakstown,Dublin 11,q2,40%
+04/12/2015,"1 Seagrave Rise, Meakstown, Dublin 11",Dublin,295000.0,No,Meakstown,Dublin 11,q4,100%
+08/12/2015,"22 Seagrave Close, Meakstown, Dublin 11",Dublin,133000.0,No,Meakstown,Dublin 11,q1,30%
+11/12/2015,"2 Seagrave Court, Citygate, Meakstown Dublin 11",Dublin,150000.0,No,Meakstown,Dublin 11,q2,40%
+13/01/2016,"6 Melville Cove Cityside, Meakstown Dublin 11, Dublin",Dublin,153000.0,No,Meakstown,Dublin 11,q2,40%
+19/04/2016,"68 Melville Dr, Cityside, Meakstown Dublin 11",Dublin,148000.0,No,Meakstown,Dublin 11,q2,40%
+24/06/2016,"76 Seagrave Dr, Citygate, Meakstown Dublin 11",Dublin,195000.0,No,Meakstown,Dublin 11,q3,70%
+08/08/2016,"8 Melville Lawn, Cityside, Meakstown Dublin 11",Dublin,154000.0,No,Meakstown,Dublin 11,q2,40%
+09/08/2016,"54 Lanesborough Grove, Meakstown, Dublin",Dublin,235000.0,No,Meakstown,Dublin 11,q4,80%
+12/08/2016,"Apt 54 Melvill Way, Cityside, Meakstown Dublin 11",Dublin,196000.0,No,Meakstown,Dublin 11,q3,70%
+12/09/2016,"7 Melville Cove, Meakstown, Dublin 11",Dublin,150000.0,No,Meakstown,Dublin 11,q2,40%
+17/11/2016,"32 Seagrave Dr, Citygate, Meakstown Dublin 11",Dublin,161000.0,No,Meakstown,Dublin 11,q2,50%
+12/01/2017,"6 Melville Dr, Meakstown Dublin 11, Dublin",Dublin,166000.0,No,Meakstown,Dublin 11,q2,50%
+25/01/2017,"3 Creston Ave, St Margarets Rd, Meakstown Dublin 11",Dublin,255000.0,No,Meakstown,Dublin 11,q4,100%
+17/02/2017,"27 Melville Lawn, Cityside, Meakstown Dublin 11",Dublin,160000.0,No,Meakstown,Dublin 11,q2,50%
+22/02/2017,"14 Mellville Terrrace, Cityside, Meakstown Dublin 11",Dublin,200000.0,No,Meakstown,Dublin 11,q3,70%
+28/03/2017,"48 Melville Way, Cityside, Meakstown Dublin 11",Dublin,211000.0,No,Meakstown,Dublin 11,q3,80%
+10/04/2017,"7 Seagrave Way, Citygate, Meakstown Dublin 11",Dublin,155000.0,No,Meakstown,Dublin 11,q2,40%
+21/04/2017,"25 Melville Dr, Meakstown Dublin 11, Dublin",Dublin,160000.0,No,Meakstown,Dublin 11,q2,50%
+28/04/2017,"8 Melville Way, Cityside, Meakstown Dublin 11",Dublin,164000.0,No,Meakstown,Dublin 11,q2,50%
+19/05/2017,"33 Melville Cove, Cityside, Meakstown Dublin 11",Dublin,170000.0,No,Meakstown,Dublin 11,q2,50%
+08/06/2017,"6 Seagrave Terrace, Meakstown, Dublin 11",Dublin,250000.0,No,Meakstown,Dublin 11,q4,90%
+09/06/2017,"33 Seagrave Way, Citygate, Meakstown",Dublin,187000.0,No,Meakstown,Dublin 11,q3,60%
+21/06/2017,"2 Melville Close, Cityside, Meakstown Dublin 11",Dublin,286000.0,No,Meakstown,Dublin 11,q4,100%
+05/07/2017,"20 Melville Sq, Cityside, Meakstown",Dublin,188000.0,No,Meakstown,Dublin 11,q3,60%
+17/10/2017,"18 Melville View, Meakstown, Dublin 11",Dublin,245000.0,No,Meakstown,Dublin 11,q4,90%
+05/04/2018,"28 Melville Dr, Cityside, Meakstown Dublin 11",Dublin,165000.0,No,Meakstown,Dublin 11,q2,50%
+09/04/2018,"111 Hampton Wood Rd, Hampton Wood, Meakstown Dublin 11",Dublin,157500.0,No,Meakstown,Dublin 11,q2,50%
+24/04/2018,"5 Melville Lawn, Cityside, Meakstown Dublin 11",Dublin,188000.0,No,Meakstown,Dublin 11,q3,60%
+05/06/2018,"27 Melville Rise, Cityside, Meakstown Dublin 11",Dublin,155000.0,No,Meakstown,Dublin 11,q2,50%
+26/06/2018,"17 Lanesborough Crescent, Meakstown, Dublin",Dublin,173000.0,No,Meakstown,Dublin 11,q2,50%
+30/06/2018,"31 Melville Park, Meakstown, Dublin 11",Dublin,191000.0,No,Meakstown,Dublin 11,q3,70%
+17/08/2018,"37 Melville Dr, Cityside, Meakstown Dublin 11",Dublin,245000.0,No,Meakstown,Dublin 11,q4,90%
+27/08/2018,"47 Seagrave Way, Citygate, Meakstown Dublin 11",Dublin,200000.0,No,Meakstown,Dublin 11,q3,70%
+31/08/2018,"19 Seagrave Way, Meakstown, Dublin 11",Dublin,201000.0,No,Meakstown,Dublin 11,q3,70%
+13/09/2018,"31 Lanesborough Crescent, St Margarets Rd, Meakstown Dublin 11",Dublin,190000.0,No,Meakstown,Dublin 11,q3,70%
+06/11/2018,"19 Lanesborough Crescent, Meakstown, Dublin 11",Dublin,185000.0,No,Meakstown,Dublin 11,q3,60%
+07/12/2018,"1 Melville Rise, Meakstown, Dublin 11",Dublin,325000.0,No,Meakstown,Dublin 11,q4,100%
+18/12/2018,"15 Melville Drive, Meakstown, Dublin 11",Dublin,235000.0,No,Meakstown,Dublin 11,q4,80%
+19/12/2018,"26 Melville Dr, Cityside, Meakstown Dublin 11",Dublin,184500.0,No,Meakstown,Dublin 11,q3,60%
+19/12/2018,"67 Hampton Wood Green, Meakstown, Dublin 11",Dublin,206000.0,No,Meakstown,Dublin 11,q3,70%
+25/01/2019,"16 Melville Dr, Cityside, Meakstown Dublin 11",Dublin,237500.0,No,Meakstown,Dublin 11,q4,90%
+01/02/2019,"16 Mellville Way, Cityside, Meakstown",Dublin,190000.0,No,Meakstown,Dublin 11,q3,70%
+28/02/2019,"5 Seagrave Court, Citygate, Meakstown",Dublin,190000.0,No,Meakstown,Dublin 11,q3,70%
+19/03/2019,"59 Hamptonwood Gr, Meakstown, Dublin 11",Dublin,187000.0,No,Meakstown,Dublin 11,q3,60%
+29/03/2019,"1 Lanesborough Park, St Margarets Rd, Meakstown Dublin 11",Dublin,325000.0,No,Meakstown,Dublin 11,q4,100%
+08/04/2019,"24 Lanesborough Ave, Meakstown, Dublin 11",Dublin,295000.0,No,Meakstown,Dublin 11,q4,100%
+18/04/2019,"61 Hampton Wood Rd, Meakstown, Dublin 11",Dublin,208000.0,No,Meakstown,Dublin 11,q3,80%
+10/05/2019,"8 Melville Dr, Cityside, Meakstown Dublin 11",Dublin,175000.0,No,Meakstown,Dublin 11,q3,60%
+17/05/2019,"47 Melville Way, Cityside, Meakstown",Dublin,222000.0,No,Meakstown,Dublin 11,q4,80%
+20/05/2019,"5 Seagrave Rise, Meakstown, Dublin 11",Dublin,289500.0,No,Meakstown,Dublin 11,q4,100%
+27/05/2019,"33 Melville View, Meakstown, Dublin 11",Dublin,215000.0,No,Meakstown,Dublin 11,q3,80%
+31/05/2019,"12 Block A Lanesborough Crescent, Meakstown, Dublin City",Dublin,285000.0,No,Meakstown,Dublin 11,q4,100%
+04/07/2019,"12 Seagrave Dr, Meakstown, Dublin 11",Dublin,252000.0,No,Meakstown,Dublin 11,q4,90%
+22/07/2019,"21 Melville View, Meakstown, Dublin 11",Dublin,245500.0,No,Meakstown,Dublin 11,q4,90%
+29/07/2019,"43 Melville Dr, Meakstown, Dublin 11",Dublin,255000.0,No,Meakstown,Dublin 11,q4,100%
+23/08/2019,"8 Seagrave Way, Citygate, Meakstown Dublin 11",Dublin,190000.0,No,Meakstown,Dublin 11,q3,70%
+29/08/2019,"Apt 54 Melville Cove, Cityside, Meakstown Dublin 11",Dublin,175000.0,No,Meakstown,Dublin 11,q3,60%
+04/09/2019,"27 Melville Cove, Cityside, Meakstown Dublin 11",Dublin,190000.0,No,Meakstown,Dublin 11,q3,70%
+18/09/2019,"52 Melville Dr, Cityside, Meakstown Dublin 11",Dublin,255000.0,No,Meakstown,Dublin 11,q4,100%
+20/09/2019,"9 Melville Park, Meakstown, Dublin 11",Dublin,255255.0,No,Meakstown,Dublin 11,q4,100%
+03/10/2019,"10 Seagrave Court, Meakstown, Dublin 11",Dublin,217500.0,No,Meakstown,Dublin 11,q3,80%
+07/10/2019,"15 Melville Cove, Cityside, Meakstown Dublin 11",Dublin,225000.0,No,Meakstown,Dublin 11,q4,80%

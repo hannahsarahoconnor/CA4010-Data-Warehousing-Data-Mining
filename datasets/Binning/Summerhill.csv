@@ -1,0 +1,67 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+06/08/2010,"39 & 39A Summerhill Parade, Dublin 1",Dublin,180000.0,No,Summerhill,Dublin 1,q3,70%
+16/03/2012,"5 Rutland Cottages, Summerhill",Dublin,62500.0,No,Summerhill,Dublin 1,q1,10%
+27/06/2012,"17 Rutland Cottages, Summerhill, Dublin 1",Dublin,27000.0,No,Summerhill,Dublin 1,q1,10%
+02/08/2012,"1 Summerhill Place, Dublin 1",Dublin,30000.0,No,Summerhill,Dublin 1,q1,10%
+26/10/2012,"31 Summerhill Parade, Dulin 1",Dublin,87500.0,No,Summerhill,Dublin 1,q2,30%
+30/10/2012,"Apt.1 Duff House, 13/15 Summerhill Parade",Dublin,68000.0,No,Summerhill,Dublin 1,q1,20%
+29/11/2012,"26 Summerhill Parade, Dublin 1",Dublin,97500.0,No,Summerhill,Dublin 1,q2,40%
+29/11/2012,"27 Summerhill Parade, Dublin 1",Dublin,160000.0,No,Summerhill,Dublin 1,q3,60%
+29/11/2012,"28 Summerhill Parade, Dublin 1",Dublin,160000.0,No,Summerhill,Dublin 1,q3,60%
+14/12/2012,"29 Summerhill Parade, Dublin 1",Dublin,160000.0,No,Summerhill,Dublin 1,q3,60%
+09/01/2013,"3 Summerhill Place, Dublin 1",Dublin,34000.0,No,Summerhill,Dublin 1,q1,10%
+08/08/2013,"Apartment 3, Duff House, 13/ 15 Summerhill Parade",Dublin,78000.0,No,Summerhill,Dublin 1,q1,30%
+29/08/2013,"5 Summerhill Place, Dublin 1",Dublin,50000.0,No,Summerhill,Dublin 1,q1,10%
+21/10/2013,"1 Summerhill Place, Dublin 1",Dublin,37500.0,No,Summerhill,Dublin 1,q1,10%
+21/10/2013,"3 Summerhill Place, Off Rutland Street Lower",Dublin,37500.0,No,Summerhill,Dublin 1,q1,10%
+13/11/2013,"Apt 2, Duff House, 13 15 Summerhill Parade Dublin 1",Dublin,76500.0,No,Summerhill,Dublin 1,q1,20%
+23/06/2014,"13 Bridgewater Hall, Summerhill Parade, Dublin 1",Dublin,100000.0,No,Summerhill,Dublin 1,q2,40%
+10/11/2014,"15 Bridgewater Hall, Summerhill Parade, Dublin 1",Dublin,100000.0,No,Summerhill,Dublin 1,q2,40%
+10/11/2014,"24 Bridgewater Hall, Summerhill Parade, Dublin 1",Dublin,100000.0,No,Summerhill,Dublin 1,q2,40%
+10/11/2014,"25 Bridgewater Hall, Summerhill Parade, Dublin 1",Dublin,100000.0,No,Summerhill,Dublin 1,q2,40%
+21/11/2014,"1 Bridgewater Hall, Summerhill Parade, Dublin 1",Dublin,101000.0,No,Summerhill,Dublin 1,q2,40%
+08/12/2014,"23 Bridgewater Hall, Summerhill Parade, Dublin 1",Dublin,100000.0,No,Summerhill,Dublin 1,q2,40%
+23/12/2014,"27 Great Charles St North, Summerhill, Dublin 1",Dublin,501250.0,No,Summerhill,Dublin 1,q4,100%
+23/01/2015,"16 Summer St North, Summerhill, Dublin 1",Dublin,230000.0,No,Summerhill,Dublin 1,q3,70%
+23/01/2015,"27 Bridgewater Hall, Summerhill Parade, Dublin 1",Dublin,131000.0,No,Summerhill,Dublin 1,q2,50%
+19/02/2015,"Summerhill, Mount Anville Road, Dublin 14",Dublin,900000.0,No,Summerhill,Dublin 1,q4,100%
+05/03/2015,"41 Summerhill Parade, Dublin 1",Dublin,215000.0,No,Summerhill,Dublin 1,q3,70%
+29/06/2015,"Apt 11 Headfort Court, Summerhill, Dublin 1",Dublin,157500.0,No,Summerhill,Dublin 1,q2,50%
+17/07/2015,"3 Thompson Cottages, Summerhill, Dublin 1",Dublin,93000.0,No,Summerhill,Dublin 1,q2,30%
+14/08/2015,"18 Rutland Cottages, Summerhill, Dublin 1",Dublin,93000.0,No,Summerhill,Dublin 1,q2,30%
+21/08/2015,"4 Summerhill Parade, Dublin 1",Dublin,195000.0,No,Summerhill,Dublin 1,q3,70%
+08/09/2015,"42 Summerhill Parade, Dublin 1, Dublin",Dublin,178000.0,No,Summerhill,Dublin 1,q3,60%
+14/01/2016,"13 Summerhill Place, Summerhill, Dublin 1",Dublin,175000.0,No,Summerhill,Dublin 1,q3,60%
+25/03/2016,"Apt 18 Bridgewater Hall, Summerhill Parade, Dublin 1",Dublin,75000.0,No,Summerhill,Dublin 1,q1,20%
+25/03/2016,"Apt 3, Bridgewater Hall, Summerhill Parade Dublin 1",Dublin,130000.0,No,Summerhill,Dublin 1,q2,50%
+13/07/2016,"76 Summerhill, Dublin",Dublin,165000.0,No,Summerhill,Dublin 1,q3,60%
+29/07/2016,"28 Richmond Cottages, Summerhill, Dublin 1",Dublin,76000.0,No,Summerhill,Dublin 1,q1,20%
+30/09/2016,"1A Richmond Parade, Summerhill, Dublin 1",Dublin,245000.0,No,Summerhill,Dublin 1,q3,80%
+19/12/2016,"123/128 Summerhill, 6 7 &7A Gardiner'S Lane, Dillons Place",Dublin,47873592.0,No,Summerhill,Dublin 1,q4,100%
+22/12/2016,"Apartment 1, 38 Summerhill Parade, Dublin 1",Dublin,360000.0,No,Summerhill,Dublin 1,q4,90%
+22/12/2016,"Apt 1, 35 Summerhill Parade, Dublin 1",Dublin,360000.0,No,Summerhill,Dublin 1,q4,90%
+22/12/2016,"Apt 1, 36 Summerhill Parade, Dublin 1",Dublin,360000.0,No,Summerhill,Dublin 1,q4,90%
+22/12/2016,"Apt 1, 37 Summerhill Parade, Dublin 1",Dublin,360000.0,No,Summerhill,Dublin 1,q4,90%
+22/12/2016,"Apt 1, 39 Summerhill Parade, Dublin 1",Dublin,360000.0,No,Summerhill,Dublin 1,q4,100%
+27/02/2017,"11 Rutland Cottage, Summerhill, Dublin",Dublin,77500.0,No,Summerhill,Dublin 1,q1,20%
+27/02/2017,"26 Rutland Cottages, Summerhill, Dublin",Dublin,77500.0,No,Summerhill,Dublin 1,q1,30%
+08/03/2017,"11 Summerhill Place, Summerhill, Dublin 1",Dublin,170000.0,No,Summerhill,Dublin 1,q3,60%
+29/03/2017,"26 Richmond Cottages, Summerhill, Dublin 1",Dublin,180000.0,No,Summerhill,Dublin 1,q3,70%
+28/04/2017,"20 Rutland Cottage, Summerhill, Dublin",Dublin,75000.0,No,Summerhill,Dublin 1,q1,20%
+05/05/2017,"23 Rutland Cottages, Summerhill, Dublin 1",Dublin,84345.0,No,Summerhill,Dublin 1,q1,30%
+16/05/2017,"18 Langrishe Place, Summerhill, Dublin 1",Dublin,800000.0,No,Summerhill,Dublin 1,q4,100%
+06/06/2017,"Apt 3, Duff House, 13 15 Summerhill Parade Dublin 1",Dublin,110000.0,No,Summerhill,Dublin 1,q2,50%
+14/07/2017,"88 Summerhill, Dublin 1, Dublin",Dublin,262500.0,No,Summerhill,Dublin 1,q3,80%
+18/10/2017,"43 Summerhill Parade, Dublin 1",Dublin,75000.0,No,Summerhill,Dublin 1,q1,20%
+21/10/2017,"73 & 74 Summerhill, Dublin",Dublin,405000.0,No,Summerhill,Dublin 1,q4,100%
+26/01/2018,"Flat 1., 72A Summerhill, Summerhill",Dublin,670000.0,No,Summerhill,Dublin 1,q4,100%
+23/02/2018,"Apt 1, 33 Summerhill Parade, Dublin 1",Dublin,350000.0,No,Summerhill,Dublin 1,q4,90%
+23/02/2018,"Apt 1, 34 Summerhill Parade, Dublin 1",Dublin,350000.0,No,Summerhill,Dublin 1,q4,90%
+16/08/2018,"Apt 1, 1A Summerhill Parade, Dublin 1",Dublin,215000.0,No,Summerhill,Dublin 1,q3,70%
+29/03/2019,"1A Richmond Parade, Summerhill, Dublin 1",Dublin,285000.0,No,Summerhill,Dublin 1,q4,80%
+02/04/2019,"79 Summerhill, Dublin 1, Dublin",Dublin,270000.0,No,Summerhill,Dublin 1,q3,80%
+12/04/2019,"78 Summerhill, Dublin 1",Dublin,150000.0,No,Summerhill,Dublin 1,q2,50%
+12/04/2019,"78A Summerhill, Dublin 1, Dublin",Dublin,150000.0,No,Summerhill,Dublin 1,q2,50%
+03/05/2019,"17 Langrishe Place, Summerhill, Dublin 1",Dublin,298000.0,No,Summerhill,Dublin 1,q4,80%
+26/06/2019,"79 Summerhill, Dublin 1, Dublin",Dublin,270000.0,No,Summerhill,Dublin 1,q4,80%
+20/09/2019,"8 Langrishe Place, Summerhill, Dublin 1",Dublin,300000.0,No,Summerhill,Dublin 1,q4,80%

@@ -1,0 +1,862 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+21/01/2010,"7  Carrigmore Downs, Saggart",Dublin,210000.0,No,Saggart,Co. Dublin,q2,50%
+31/03/2010,"44 Verschoyle Park, Saggart, Co. Dublin",Dublin,260000.0,No,Saggart,Co. Dublin,q3,70%
+23/04/2010,"14 Carrigmore Manor, Saggart, County Dublin",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+05/05/2010,"3 Carrigmore Terrace, Fortunestown Lane, Saggart",Dublin,295000.0,No,Saggart,Co. Dublin,q4,90%
+07/05/2010,"15 Slade Castle Court, Saggart, Dublin",Dublin,189690.72,Yes,Saggart,Co. Dublin,q2,40%
+07/05/2010,"31 Slade Castle Court, Saggart",Dublin,140969.0,Yes,Saggart,Co. Dublin,q1,20%
+26/05/2010,"23 Slade Castle Court, Saggart, County Dublin",Dublin,189690.72,No,Saggart,Co. Dublin,q2,40%
+24/06/2010,"1 Carrigmore Green, Saggart",Dublin,308000.0,No,Saggart,Co. Dublin,q4,90%
+24/06/2010,"2 Slade Castle Walk, Saggart",Dublin,187628.0,Yes,Saggart,Co. Dublin,q2,40%
+06/07/2010,"24 Slade Castle Avenue, Saggart",Dublin,251101.32,Yes,Saggart,Co. Dublin,q3,70%
+16/08/2010,"42 Slade Castle Court, Saggart",Dublin,154185.02,Yes,Saggart,Co. Dublin,q1,20%
+01/10/2010,"19B Springbank, Saggart, County Dublin",Dublin,328000.0,No,Saggart,Co. Dublin,q4,100%
+13/10/2010,"4 Corbally Downs, Westbrook Glen, Saggart",Dublin,265000.0,No,Saggart,Co. Dublin,q3,70%
+18/10/2010,"34 Verschoyle Court, Saggart, Dublin 24",Dublin,310000.0,No,Saggart,Co. Dublin,q4,90%
+16/11/2010,"15 Verschoyle Rise, Saggart Abbey",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+20/12/2010,"39 Slade Castle Court, Saggart, Co Dublin",Dublin,175000.0,Yes,Saggart,Co. Dublin,q2,30%
+21/12/2010,"29 Slade Castle Court, Saggart, Co Dublin",Dublin,138000.0,Yes,Saggart,Co. Dublin,q1,20%
+21/12/2010,"32 Slade Castle Court, Saggart, Co Dublin",Dublin,164000.0,Yes,Saggart,Co. Dublin,q1,30%
+21/12/2010,"33 Slade Castle Court, Saggart, Co Dublin",Dublin,164000.0,Yes,Saggart,Co. Dublin,q1,30%
+21/12/2010,"34 Slade Castle Court, Saggart, Co Dublin",Dublin,164000.0,Yes,Saggart,Co. Dublin,q1,30%
+21/12/2010,"35 Slade Castle Court, Saggart, Co Dublin",Dublin,164000.0,Yes,Saggart,Co. Dublin,q1,30%
+21/12/2010,"36 Slade Castle Court, Saggart, Co Dublin",Dublin,164000.0,Yes,Saggart,Co. Dublin,q1,30%
+21/12/2010,"37 Slade Castle Court, Saggart, Co Dublin",Dublin,164000.0,Yes,Saggart,Co. Dublin,q1,30%
+21/12/2010,"38 Slade Castle Court, Saggart, Co Dublin",Dublin,138000.0,Yes,Saggart,Co. Dublin,q1,20%
+04/02/2011,"8 Carrigcourt, Fortunestown Lane, Saggart",Dublin,178000.0,Yes,Saggart,Co. Dublin,q2,30%
+18/02/2011,"2 Millrace Avenue, Saggart",Dublin,99999.0,Yes,Saggart,Co. Dublin,q1,10%
+24/02/2011,"7 Millrace Drive, Saggart",Dublin,110000.0,Yes,Saggart,Co. Dublin,q1,10%
+16/03/2011,"Coolmine, Saggart",Dublin,262000.0,No,Saggart,Co. Dublin,q3,70%
+31/03/2011,"Apartment 21  Carrigcourt, Fortunestown Lane, Saggart",Dublin,156828.2,Yes,Saggart,Co. Dublin,q1,20%
+06/04/2011,"41 Verschoyle Park, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+18/04/2011,"Ryber, Main Street, Saggart",Dublin,490000.0,No,Saggart,Co. Dublin,q4,100%
+26/05/2011,"3 Corbally Drive, Saggart, County Dublin",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+27/05/2011,"11 Millrace Drive, Saggart",Dublin,125000.0,Yes,Saggart,Co. Dublin,q1,10%
+03/06/2011,"101 Carrigcourt, Fortunestown Lane, Saggart",Dublin,242290.74,Yes,Saggart,Co. Dublin,q3,70%
+03/06/2011,"104 Carrigcourt, Fortunestown Lane, Saggart",Dublin,259911.89,Yes,Saggart,Co. Dublin,q3,70%
+03/06/2011,"12 Carrigcourt, Fortunestown Lane, Saggart",Dublin,171809.06,Yes,Saggart,Co. Dublin,q2,30%
+03/06/2011,"39 Carrigcourt, Fortunestown Lane, Saggart",Dublin,189427.31,Yes,Saggart,Co. Dublin,q2,40%
+03/06/2011,"44 Carrigcourt, Fortunestown Lane, Saggart",Dublin,246696.03,Yes,Saggart,Co. Dublin,q3,70%
+03/06/2011,"9 Carrigcourt, Fortunestown Lane, Saggart",Dublin,141850.22,Yes,Saggart,Co. Dublin,q1,20%
+28/07/2011,"4  Verschoyle Drive, Saggart Abbey, Blessington Road",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+23/08/2011,"34 Millrace Park, Saggart",Dublin,122500.0,Yes,Saggart,Co. Dublin,q1,10%
+15/09/2011,"Unit 9 Carrigcourt, Fortunestown Lane, Saggart",Dublin,120000.0,No,Saggart,Co. Dublin,q1,10%
+07/10/2011,"Tassagart House And Land, Saggart",Dublin,600000.0,No,Saggart,Co. Dublin,q4,100%
+14/11/2011,"19 Springbank, Saggart, Co. Dublin",Dublin,162000.0,No,Saggart,Co. Dublin,q1,20%
+18/11/2011,"52 Saggart Lodge Court, Garters Lane, Saggart",Dublin,132158.59,Yes,Saggart,Co. Dublin,q1,10%
+02/12/2011,"36 The Slade, Tassaggad Green, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+02/12/2011,"62 Corbally Heath, Westbrook Glen, Saggart",Dublin,205000.0,No,Saggart,Co. Dublin,q2,40%
+08/12/2011,"12 Verschoyle Rise, Saggart Abbey",Dublin,185000.0,No,Saggart,Co. Dublin,q2,30%
+20/12/2011,"111 Carraig Court, Fortunestown Lane, Saggart",Dublin,95000.0,No,Saggart,Co. Dublin,q1,10%
+31/12/2011,"Apt 1 Over Spar Shop Main Street, Saggart, County Dublin",Dublin,80000.0,No,Saggart,Co. Dublin,q1,10%
+31/12/2011,"Apt 2 Over Spar Shop  Main Street, Saggart, Co. Dublin",Dublin,80000.0,No,Saggart,Co. Dublin,q1,10%
+05/01/2012,"143 Carrigmore Crescent, Fortunestown Lane, Saggart",Dublin,90000.0,No,Saggart,Co. Dublin,q1,10%
+20/01/2012,"20 Carrigmore Elms, Saggart, Co. Dublin",Dublin,210000.0,No,Saggart,Co. Dublin,q2,50%
+13/02/2012,"53 Saggart Lodge Court, Saggart",Dublin,110132.15,Yes,Saggart,Co. Dublin,q1,10%
+13/02/2012,"54 Saggart Lodge Court, Saggart",Dublin,114537.44,Yes,Saggart,Co. Dublin,q1,10%
+27/02/2012,"Millbridge, Saggart",Dublin,295000.0,No,Saggart,Co. Dublin,q4,90%
+14/03/2012,"3 Mill Road, Saggart",Dublin,220000.0,No,Saggart,Co. Dublin,q2,50%
+22/05/2012,"50 Saggart Lodge Court, Saggart",Dublin,70484.58,Yes,Saggart,Co. Dublin,q1,10%
+29/06/2012,"17 Carrigmore Downs, Saggart, Dublin 24",Dublin,220000.0,No,Saggart,Co. Dublin,q2,50%
+29/06/2012,"18 Tassagard Green, Garter'S Lane, Saggart",Dublin,120000.0,No,Saggart,Co. Dublin,q1,10%
+29/06/2012,"Swift 45  Tassaggard Green, Garters Lane  Saggart",Dublin,135000.0,No,Saggart,Co. Dublin,q1,10%
+09/07/2012,"44 Carrigmore Avenue, Saggart",Dublin,220000.0,No,Saggart,Co. Dublin,q2,50%
+26/07/2012,"19  Millrace Court, Saggart, County Dublin",Dublin,175000.0,No,Saggart,Co. Dublin,q2,30%
+20/08/2012,"Apt 131 Carrig Court, Fortunestown Lane, Saggart",Dublin,123500.0,No,Saggart,Co. Dublin,q1,10%
+30/08/2012,"3 Verschoyle Crescent, Saggart Abbey, Dublin 24",Dublin,160000.0,No,Saggart,Co. Dublin,q1,20%
+31/08/2012,"29 Verschoyle Rise, Saggart Abbey, Saggart",Dublin,198000.0,No,Saggart,Co. Dublin,q2,40%
+04/09/2012,"49 Saggart Lodge Court, Saggart, Co. Dublin",Dublin,90000.0,No,Saggart,Co. Dublin,q1,10%
+13/09/2012,"28 Verschoyle Avenue, Saggart Abbey, Citywest",Dublin,200000.0,No,Saggart,Co. Dublin,q2,40%
+13/09/2012,"6 Verschoyle Green, Saggart Abbey, Tallaght",Dublin,161000.0,No,Saggart,Co. Dublin,q1,20%
+14/09/2012,"28 Crosforge, Saggart",Dublin,167400.89,Yes,Saggart,Co. Dublin,q1,30%
+14/09/2012,"70 Slade Castle Avenue, Saggart, County Dublin",Dublin,135000.0,Yes,Saggart,Co. Dublin,q1,10%
+17/09/2012,"4 Slade Castle Avenue, Saggart, Co Dublin",Dublin,134361.0,Yes,Saggart,Co. Dublin,q1,10%
+21/09/2012,"27 Crosforge, Saggart",Dublin,148898.67,Yes,Saggart,Co. Dublin,q1,20%
+28/09/2012,"'Rowanville', Coolmine, Saggart",Dublin,395000.0,No,Saggart,Co. Dublin,q4,100%
+05/10/2012,"Unit 26  Crosforge, Saggart",Dublin,245000.0,Yes,Saggart,Co. Dublin,q3,70%
+08/10/2012,"25 Crosforge, Saggart, Barony Of New Castle",Dublin,250000.0,Yes,Saggart,Co. Dublin,q3,70%
+16/10/2012,"24 Crosforge, Newcastle, Saggart",Dublin,220264.0,Yes,Saggart,Co. Dublin,q2,50%
+24/10/2012,"22 Slade Castle Walk, Saggart",Dublin,110132.15,Yes,Saggart,Co. Dublin,q1,10%
+25/10/2012,"Apartment No. 13, Slade Castle Walk, Saggart",Dublin,132159.0,Yes,Saggart,Co. Dublin,q1,10%
+01/11/2012,"6 Slade Castle Avenue, Saggart",Dublin,139207.0,Yes,Saggart,Co. Dublin,q1,20%
+01/11/2012,"60 Slade Castle Avenue, Saggart",Dublin,151600.0,Yes,Saggart,Co. Dublin,q1,20%
+02/11/2012,"17 Slade Castle Walk, Saggart",Dublin,132115.0,Yes,Saggart,Co. Dublin,q1,10%
+02/11/2012,"Apartment 28, Slade Castle Walk, Saggart",Dublin,114493.39,Yes,Saggart,Co. Dublin,q1,10%
+02/11/2012,"Saggart Lodge House, Garters Lane, Saggart",Dublin,900000.0,No,Saggart,Co. Dublin,q4,100%
+12/11/2012,"40 Carrigmore Avenue, Fortunestown Lane, Saggart",Dublin,229950.0,No,Saggart,Co. Dublin,q3,60%
+23/11/2012,"14 Slade Castle Walk, Saggart",Dublin,129500.0,Yes,Saggart,Co. Dublin,q1,10%
+26/11/2012,"24 Corbally Glade, Saggart, County Dublin",Dublin,180000.0,No,Saggart,Co. Dublin,q2,30%
+27/11/2012,"20 Crosforge, Saggart, Co. Dublin",Dublin,205000.0,Yes,Saggart,Co. Dublin,q2,40%
+30/11/2012,"16 Slade Castle Walk, Saggart",Dublin,132114.54,Yes,Saggart,Co. Dublin,q1,10%
+30/11/2012,"22 Crossforge, Saggart",Dublin,180616.74,Yes,Saggart,Co. Dublin,q2,30%
+03/12/2012,"Slade View House, Saggart, Co. Dublin",Dublin,415000.0,No,Saggart,Co. Dublin,q4,100%
+04/12/2012,"6 Millrace View, Saggart, Co. Dublin",Dublin,145374.0,Yes,Saggart,Co. Dublin,q1,20%
+05/12/2012,"Dunbur, Castle Road, Saggart",Dublin,280000.0,No,Saggart,Co. Dublin,q4,80%
+06/12/2012,"18 Verschoyle Close, Saggart Abbey",Dublin,195000.0,No,Saggart,Co. Dublin,q2,40%
+07/12/2012,"17 Crosforge, Saggart, Co.Dublin",Dublin,244800.0,Yes,Saggart,Co. Dublin,q3,70%
+11/12/2012,"23 Crosforge, Saggart",Dublin,225000.0,Yes,Saggart,Co. Dublin,q3,60%
+13/12/2012,"35 Crosforge, Saggart",Dublin,245000.0,Yes,Saggart,Co. Dublin,q3,70%
+14/12/2012,"Unit 19, Crosforge, Saggart",Dublin,198237.88,Yes,Saggart,Co. Dublin,q2,40%
+18/12/2012,"8 Carrigmore Manor, Fortunestown Lane, Saggart",Dublin,104000.0,No,Saggart,Co. Dublin,q1,10%
+19/12/2012,"15 Pairc Mhuire, Saggart",Dublin,130000.0,No,Saggart,Co. Dublin,q1,10%
+19/12/2012,"Coolmine, Saggart, Co Dublin",Dublin,360000.0,No,Saggart,Co. Dublin,q4,100%
+20/12/2012,"14 Crosforge, Saggart",Dublin,183260.0,Yes,Saggart,Co. Dublin,q2,30%
+20/12/2012,"32, Crosforge, Saggart",Dublin,194824.09,Yes,Saggart,Co. Dublin,q2,40%
+21/12/2012,"15 Crosforge, Saggart, Dublin",Dublin,205000.0,Yes,Saggart,Co. Dublin,q2,40%
+21/12/2012,"2 Slade Castle Avenue, Saggart",Dublin,140925.11,Yes,Saggart,Co. Dublin,q1,20%
+21/12/2012,"23 Millrace, Saggart",Dublin,160000.0,Yes,Saggart,Co. Dublin,q1,20%
+02/01/2013,"13 Crosforge, Saggart, Co Dublin",Dublin,180616.74,Yes,Saggart,Co. Dublin,q2,30%
+04/01/2013,"23 Slade Castle Walk, Saggart",Dublin,146255.0,Yes,Saggart,Co. Dublin,q1,20%
+04/01/2013,"32 Verschoyle Park, Saggart Abbey, Citywest",Dublin,249000.0,No,Saggart,Co. Dublin,q3,70%
+17/01/2013,"5 Mill Road, Saggart",Dublin,200000.0,No,Saggart,Co. Dublin,q2,40%
+31/01/2013,"33 Crosforge, Saggart",Dublin,153850.0,Yes,Saggart,Co. Dublin,q1,20%
+22/02/2013,"23 Springbank, Saggart",Dublin,127000.0,No,Saggart,Co. Dublin,q1,10%
+25/02/2013,"34 Crosforge, Saggart, Co. Dublin",Dublin,190420.0,Yes,Saggart,Co. Dublin,q2,40%
+01/03/2013,"Saggart Lodge Court, Saggart, County Dublin",Dublin,4214535.0,No,Saggart,Co. Dublin,q4,100%
+05/03/2013,"16 Crosforge, Saggart",Dublin,198237.88,Yes,Saggart,Co. Dublin,q2,40%
+06/03/2013,"21 Crosforge, Saggart",Dublin,180025.0,Yes,Saggart,Co. Dublin,q2,30%
+08/03/2013,"Apartment 12, Millrace View, Saggart",Dublin,140969.16,Yes,Saggart,Co. Dublin,q1,20%
+15/03/2013,"8 Swiftwood Gardens, Saggart, Co Dublin",Dublin,300000.0,No,Saggart,Co. Dublin,q4,90%
+05/04/2013,"9 Coldwater Lakes, Saggart",Dublin,1000000.0,No,Saggart,Co. Dublin,q4,100%
+26/04/2013,"49 Saggart Lodge Court, Garter'S Lane, Saggart",Dublin,145000.0,No,Saggart,Co. Dublin,q1,20%
+03/05/2013,"12 Crosforge, Saggart, Co. Dublin",Dublin,245000.0,Yes,Saggart,Co. Dublin,q3,70%
+03/05/2013,"23 Coldwater Lakes, (O/W 8 Tassagard Drive), Saggart",Dublin,400000.0,No,Saggart,Co. Dublin,q4,100%
+10/05/2013,"19  Saggart Lodge Court, Saggart",Dublin,140088.11,Yes,Saggart,Co. Dublin,q1,20%
+23/05/2013,"20 Saggart Lodge, Saggart",Dublin,160000.0,Yes,Saggart,Co. Dublin,q1,20%
+31/05/2013,"32 Saggart Lodge Court, Saggart",Dublin,137444.93,Yes,Saggart,Co. Dublin,q1,20%
+10/06/2013,"24 Coldwater Lakes, Saggart",Dublin,400000.0,No,Saggart,Co. Dublin,q4,100%
+10/06/2013,"8 Millrace Park, Saggart, County Dublin",Dublin,170000.0,No,Saggart,Co. Dublin,q1,30%
+20/06/2013,"26 Saggart Lodge Court, Saggart",Dublin,162995.59,Yes,Saggart,Co. Dublin,q1,30%
+28/06/2013,"59 Crosforge, Saggart, County Dublin",Dublin,186784.0,Yes,Saggart,Co. Dublin,q2,40%
+02/07/2013,"Apt 51, Slade Castle Court, Saggart",Dublin,119000.0,No,Saggart,Co. Dublin,q1,10%
+03/07/2013,"60 Crosforge, Saggart",Dublin,207000.0,Yes,Saggart,Co. Dublin,q2,50%
+04/07/2013,"18 Crosforge, Saggart, Co. Dublin",Dublin,222643.0,Yes,Saggart,Co. Dublin,q2,50%
+05/07/2013,"42 Slade Castle Avenue, Saggart",Dublin,105726.0,Yes,Saggart,Co. Dublin,q1,10%
+09/07/2013,"10 Saggart Lodge Court, Saggart, Co. Dubblin",Dublin,150000.0,Yes,Saggart,Co. Dublin,q1,20%
+09/07/2013,"58 Crosforge, Saggart, County Dublin",Dublin,186783.0,Yes,Saggart,Co. Dublin,q2,40%
+10/07/2013,"57 Crosforge, Saggart",Dublin,212000.0,No,Saggart,Co. Dublin,q2,50%
+11/07/2013,"33 Saggart Lodge Court, Saggart",Dublin,140969.16,Yes,Saggart,Co. Dublin,q1,20%
+22/07/2013,"39 Saggart Lodge Court, Saggart",Dublin,350000.0,Yes,Saggart,Co. Dublin,q4,100%
+22/07/2013,"8 Saggart Lodge Court, Saggart",Dublin,308370.04,Yes,Saggart,Co. Dublin,q4,90%
+25/07/2013,"22 Slade Castle Avenue, Saggart, County Dublin",Dublin,120705.0,Yes,Saggart,Co. Dublin,q1,10%
+02/08/2013,"15 Saggart Lodge Court, Saggart",Dublin,132158.59,Yes,Saggart,Co. Dublin,q1,10%
+02/08/2013,"40 Saggart Lodge Court, Saggart",Dublin,303964.75,Yes,Saggart,Co. Dublin,q4,90%
+02/08/2013,"41 Saggart Lodge Court, Saggart",Dublin,325991.18,Yes,Saggart,Co. Dublin,q4,100%
+07/08/2013,"10 Slade Castle Avenue, Saggart, Co. Dublin",Dublin,190000.0,Yes,Saggart,Co. Dublin,q2,40%
+08/08/2013,"19 Carraigmore Elms, Citywest, Saggart",Dublin,236000.0,No,Saggart,Co. Dublin,q3,60%
+08/08/2013,"38 Saggart Lodge Court, Garters Lane, Saggart",Dublin,365000.0,Yes,Saggart,Co. Dublin,q4,100%
+09/08/2013,"21 Saggart Lodge Court, Saggart, County Dublin",Dublin,150000.0,Yes,Saggart,Co. Dublin,q1,20%
+16/08/2013,"14 Saggart Lodge Court, Saggart",Dublin,134801.76,Yes,Saggart,Co. Dublin,q1,10%
+16/08/2013,"56 Crosforge, Saggart, Co Dublin",Dublin,205975.0,Yes,Saggart,Co. Dublin,q2,50%
+19/08/2013,"14 Springbank, Saggart, Co Dublin",Dublin,115000.0,No,Saggart,Co. Dublin,q1,10%
+23/08/2013,"52 Crosforge, Saggart",Dublin,199000.0,Yes,Saggart,Co. Dublin,q2,40%
+30/08/2013,"6 Saggart Lodge Court, Saggart",Dublin,295154.18,Yes,Saggart,Co. Dublin,q4,90%
+30/08/2013,"Apartment 16, Saggart Court Lodge, Saggart",Dublin,136123.34,Yes,Saggart,Co. Dublin,q1,20%
+30/08/2013,"Apartment 9, Saggart Lodge Court, Saggart",Dublin,129750.0,Yes,Saggart,Co. Dublin,q1,10%
+03/09/2013,"31 Saggart Lodge Court, Saggart",Dublin,134801.76,Yes,Saggart,Co. Dublin,q1,10%
+03/09/2013,"Apt. 1  Block 1 Main Street, Saggart",Dublin,60000.0,No,Saggart,Co. Dublin,q1,10%
+03/09/2013,"Apt. 2  Block 1  Main Street, Saggart",Dublin,60000.0,No,Saggart,Co. Dublin,q1,10%
+04/09/2013,"7 Swiftwood Gardens, Saggart",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+05/09/2013,"2 Saggart Lodge Court, Saggart",Dublin,301321.58,Yes,Saggart,Co. Dublin,q4,90%
+05/09/2013,"30 Saggart Lodge Court, Saggart",Dublin,137445.0,Yes,Saggart,Co. Dublin,q1,20%
+06/09/2013,"51 Crosforge, Saggart",Dublin,186783.0,Yes,Saggart,Co. Dublin,q2,40%
+10/09/2013,"7 Carrigmore Way, Saggart",Dublin,145000.0,No,Saggart,Co. Dublin,q1,20%
+12/09/2013,"11 Saggart Lodge Court, Saggart",Dublin,128635.0,Yes,Saggart,Co. Dublin,q1,10%
+12/09/2013,"17 Saggart Lodge Court, Saggart",Dublin,132158.59,Yes,Saggart,Co. Dublin,q1,10%
+18/09/2013,"23 Saggart Lodge Court, Saggart",Dublin,146255.5,Yes,Saggart,Co. Dublin,q1,20%
+20/09/2013,"5 Saggart Lodge Court, Saggart",Dublin,355000.0,No,Saggart,Co. Dublin,q4,100%
+25/09/2013,"28 Saggart Lodge Court, Saggart",Dublin,128634.36,Yes,Saggart,Co. Dublin,q1,10%
+25/09/2013,"35 Saggart Lodge Court, Saggart, Dublin",Dublin,156000.0,Yes,Saggart,Co. Dublin,q1,20%
+26/09/2013,"Apt 22 Saggart Lodge Court, Saggart, Citywest",Dublin,148000.0,No,Saggart,Co. Dublin,q1,20%
+27/09/2013,"36 Saggart Lodge Court, Saggart",Dublin,158590.0,Yes,Saggart,Co. Dublin,q1,20%
+02/10/2013,"1 Saggart Lodge Court, Saggart",Dublin,355000.0,No,Saggart,Co. Dublin,q4,100%
+02/10/2013,"12 Saggart Lodge Court, Saggart",Dublin,132158.59,Yes,Saggart,Co. Dublin,q1,10%
+08/10/2013,"46 Saggart Lodge Court, Saggart",Dublin,292951.54,Yes,Saggart,Co. Dublin,q4,80%
+08/10/2013,"49 Crosforge, Saggart",Dublin,207048.0,Yes,Saggart,Co. Dublin,q2,50%
+09/10/2013,"27 Saggart Lodge Court, Saggart",Dublin,132158.59,Yes,Saggart,Co. Dublin,q1,10%
+11/10/2013,"18 Saggart Lodge Court, Saggart",Dublin,145374.45,Yes,Saggart,Co. Dublin,q1,20%
+30/10/2013,"20 Mill Road, Saggart",Dublin,216500.0,No,Saggart,Co. Dublin,q2,50%
+30/10/2013,"32 Corbally Park, Citywest, Saggart",Dublin,170000.0,No,Saggart,Co. Dublin,q1,30%
+30/10/2013,"62 Crosforge, Saggart",Dublin,222643.0,Yes,Saggart,Co. Dublin,q2,50%
+01/11/2013,"Chapel Hill, Coolmine, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+05/11/2013,"8  Verschoyle Crescent, Saggart Abbey, Saggart",Dublin,208000.0,No,Saggart,Co. Dublin,q2,50%
+06/11/2013,"25 Saggart Lodge Court, Saggart",Dublin,149779.74,Yes,Saggart,Co. Dublin,q1,20%
+07/11/2013,"34 Saggart Lodge Court, Saggart",Dublin,132158.59,Yes,Saggart,Co. Dublin,q1,10%
+08/11/2013,"7 Saggart Lodge Court, Saggart",Dublin,308370.04,Yes,Saggart,Co. Dublin,q4,90%
+11/11/2013,"61 Crosforge, Saggart, County Dublin",Dublin,220264.0,Yes,Saggart,Co. Dublin,q2,50%
+13/11/2013,"63 Crosforge, Saggart, Co Dublin",Dublin,207000.0,Yes,Saggart,Co. Dublin,q2,50%
+14/11/2013,"46 Crosforge, Saggart, County Dublin",Dublin,220263.0,Yes,Saggart,Co. Dublin,q2,50%
+22/11/2013,"43 Saggart Lodge Court, Saggart",Dublin,293392.07,Yes,Saggart,Co. Dublin,q4,80%
+22/11/2013,"45 Saggart Lodge Court, Saggart",Dublin,293392.07,Yes,Saggart,Co. Dublin,q4,90%
+22/11/2013,"Longfield House, Garters Lane, Saggart",Dublin,385000.0,No,Saggart,Co. Dublin,q4,100%
+27/11/2013,"64 Crosforge, Saggart, Dublin",Dublin,186784.14,Yes,Saggart,Co. Dublin,q2,40%
+28/11/2013,"Boherboy, Blessington Road, Saggart",Dublin,212000.0,No,Saggart,Co. Dublin,q2,50%
+29/11/2013,"14 Carrigmore Terrace, Citywest, Saggart",Dublin,162000.0,No,Saggart,Co. Dublin,q1,20%
+29/11/2013,"44 Saggart Lodge Court, Saggart",Dublin,295100.0,Yes,Saggart,Co. Dublin,q4,90%
+30/11/2013,"47 Crosforge, Saggart",Dublin,220263.0,Yes,Saggart,Co. Dublin,q2,50%
+02/12/2013,"11 Mill Rd, Saggart, Dublin",Dublin,245000.0,No,Saggart,Co. Dublin,q3,70%
+05/12/2013,"3 Saggart Lodge Court, Saggart",Dublin,293392.0,Yes,Saggart,Co. Dublin,q4,80%
+10/12/2013,"Apartment 37, Saggart Lodge Court, Saggart",Dublin,158590.0,Yes,Saggart,Co. Dublin,q1,20%
+12/12/2013,"25 Carrigmore Grove, Saggart",Dublin,247500.0,No,Saggart,Co. Dublin,q3,70%
+12/12/2013,"38 Corbally Park, Saggart",Dublin,210000.0,No,Saggart,Co. Dublin,q2,50%
+12/12/2013,"48  Crosforge, Saggart",Dublin,290000.0,Yes,Saggart,Co. Dublin,q4,80%
+13/12/2013,"42 Saggart Lodge Court, Saggart, Co. Dublin",Dublin,321585.9,No,Saggart,Co. Dublin,q4,90%
+18/12/2013,"1 Verschoyle Park, Saggart, Dublin",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+18/12/2013,"50 Crossforge, Saggart, Co Dublin",Dublin,152935.0,Yes,Saggart,Co. Dublin,q1,20%
+19/12/2013,"30 Crossforge, Saggart",Dublin,228633.0,Yes,Saggart,Co. Dublin,q3,60%
+23/12/2013,"20 Slade Castle Walk, Saggart, Dublin",Dublin,114493.4,Yes,Saggart,Co. Dublin,q1,10%
+23/12/2013,"Bayview, Meagans Lane, Saggart",Dublin,325000.0,No,Saggart,Co. Dublin,q4,90%
+06/01/2014,"44 Slade Castle Avenue, Saggart",Dublin,163876.65,Yes,Saggart,Co. Dublin,q1,30%
+17/01/2014,"17 Carrigmore Lawns, Fortunestown Lane, Saggart",Dublin,157000.0,No,Saggart,Co. Dublin,q1,20%
+24/01/2014,"Blackthorn Hill, Coolmine, Saggart",Dublin,170000.0,No,Saggart,Co. Dublin,q1,30%
+28/01/2014,"13 Saggart Lodge, Court, Saggart",Dublin,145320.0,Yes,Saggart,Co. Dublin,q1,20%
+28/01/2014,"66 Crossforge, Saggart",Dublin,212000.0,Yes,Saggart,Co. Dublin,q2,50%
+29/01/2014,"4 Saggart Lakes, Saggart, Dublin",Dublin,525005.01,No,Saggart,Co. Dublin,q4,100%
+04/02/2014,"55 Crosforge, Saggart, Co. Dublin",Dublin,290000.0,Yes,Saggart,Co. Dublin,q4,80%
+10/02/2014,"67 Crosforge, Saggart, Co.Dublin",Dublin,224900.0,Yes,Saggart,Co. Dublin,q3,60%
+11/02/2014,"54 Crosforge, Saggart, County Dublin",Dublin,220264.45,Yes,Saggart,Co. Dublin,q2,50%
+21/02/2014,"24 The Slade, Tassagard Greens, Saggart",Dublin,160000.0,No,Saggart,Co. Dublin,q1,20%
+28/02/2014,"Corballis Cottage, Mount Seskin Rd, Saggart",Dublin,185000.0,No,Saggart,Co. Dublin,q2,30%
+11/03/2014,"21 Slade Castle Walk, Saggart, County Dublin",Dublin,154185.02,Yes,Saggart,Co. Dublin,q1,20%
+11/03/2014,"41 Crosforge, Saggart, Dublin 24",Dublin,162995.59,Yes,Saggart,Co. Dublin,q1,30%
+12/03/2014,"18 Slade Castle Avenue, Saggart",Dublin,132114.0,Yes,Saggart,Co. Dublin,q1,10%
+13/03/2014,"69 Crosforge, Saggart, Co Dublin",Dublin,234582.5,Yes,Saggart,Co. Dublin,q3,60%
+14/03/2014,"34 Millrace Avenue, Saggart, Co Dublin",Dublin,185975.0,Yes,Saggart,Co. Dublin,q2,40%
+14/03/2014,"43 Crosforge, Saggart",Dublin,185000.0,Yes,Saggart,Co. Dublin,q2,30%
+14/03/2014,"65 Crossforge, Saggart, Tallaght",Dublin,186784.12,Yes,Saggart,Co. Dublin,q2,40%
+21/03/2014,"42 Crosforge, Saggart",Dublin,199779.0,Yes,Saggart,Co. Dublin,q2,40%
+21/03/2014,"44 Crosforge, Saggart, Co. Dublin",Dublin,240000.0,Yes,Saggart,Co. Dublin,q3,60%
+26/03/2014,"39 Crosforge, Saggart",Dublin,220264.31,Yes,Saggart,Co. Dublin,q2,50%
+28/03/2014,"40 Crossforge, Saggart",Dublin,240000.0,Yes,Saggart,Co. Dublin,q3,60%
+28/03/2014,"42  Millrace Drive, Saggart",Dublin,133333.33,Yes,Saggart,Co. Dublin,q1,10%
+03/04/2014,"No. 30 Millrace Avenue, Saggart, Co Dublin",Dublin,150000.0,Yes,Saggart,Co. Dublin,q1,20%
+11/04/2014,"131 Carrigmore Crescent, Citywest, Saggart",Dublin,155000.0,No,Saggart,Co. Dublin,q1,20%
+16/04/2014,"34 Slade Castle Ave, Saggart, Co Dublin",Dublin,154950.0,Yes,Saggart,Co. Dublin,q1,20%
+16/04/2014,"The Apartments At Round Garden, Citywest, Saggart",Dublin,1750000.0,No,Saggart,Co. Dublin,q4,100%
+24/04/2014,"18 Slade Castle Walk, Saggart",Dublin,123303.96,Yes,Saggart,Co. Dublin,q1,10%
+25/04/2014,"32 Slade Castle Avenue, Saggart, Co Dublin",Dublin,171806.0,Yes,Saggart,Co. Dublin,q2,30%
+25/04/2014,"38 Crosforge, Saggart",Dublin,295000.0,Yes,Saggart,Co. Dublin,q4,90%
+28/04/2014,"27 Slade Castle Walk, Saggart, Co Dublin",Dublin,179950.0,Yes,Saggart,Co. Dublin,q2,30%
+28/04/2014,"53 Crosforge, Saggart",Dublin,207048.47,Yes,Saggart,Co. Dublin,q2,50%
+30/04/2014,"31 Crosforge, Saggart",Dublin,228634.35,Yes,Saggart,Co. Dublin,q3,60%
+02/05/2014,"29  Slade Castle Walk, Saggart",Dublin,158546.26,Yes,Saggart,Co. Dublin,q1,20%
+02/05/2014,"40 Slade Castle Walk, Saggart",Dublin,123304.0,Yes,Saggart,Co. Dublin,q1,10%
+09/05/2014,"34 Millrace Drive, Saggart, County Dublin",Dublin,158590.0,Yes,Saggart,Co. Dublin,q1,20%
+13/05/2014,"11 Crosforge, Saggart",Dublin,220264.3,Yes,Saggart,Co. Dublin,q2,50%
+16/05/2014,"10 Crossforge, Saggart, Co Dublin",Dublin,230617.0,Yes,Saggart,Co. Dublin,q3,60%
+25/05/2014,"120 Swift Wood, Saggart, Dublin",Dublin,172000.0,No,Saggart,Co. Dublin,q2,30%
+25/05/2014,"42 Millrace Avenue, Saggart, Co. Dublin",Dublin,180000.0,Yes,Saggart,Co. Dublin,q2,30%
+27/05/2014,"16 Crossfort, Saggart, Co Dublin",Dublin,263000.0,No,Saggart,Co. Dublin,q3,70%
+29/05/2014,"9 Crossforge, Saggart",Dublin,211454.0,Yes,Saggart,Co. Dublin,q2,50%
+06/06/2014,"7 Crossforge, Saggart",Dublin,180617.0,Yes,Saggart,Co. Dublin,q2,30%
+13/06/2014,"29 Millrace Drive, Saggart, Co Dublin",Dublin,173568.0,Yes,Saggart,Co. Dublin,q2,30%
+13/06/2014,"5 Crosforge, Saggart, Co Dublin",Dublin,174007.0,Yes,Saggart,Co. Dublin,q2,30%
+13/06/2014,"6 Crosforge, Saggart, County Dublin",Dublin,193832.0,Yes,Saggart,Co. Dublin,q2,40%
+13/06/2014,"68 Crosforge, Saggart",Dublin,229031.0,Yes,Saggart,Co. Dublin,q3,60%
+13/06/2014,"Unit No 8, Crosforge, Saggart",Dublin,180616.74,Yes,Saggart,Co. Dublin,q2,30%
+18/06/2014,"Unit 4, Crossforge, Saggart",Dublin,168943.0,Yes,Saggart,Co. Dublin,q1,30%
+23/06/2014,"19 Carrigmore Green, Saggart, Dublin",Dublin,267000.0,No,Saggart,Co. Dublin,q3,80%
+24/06/2014,"2 Millrace View, Saggart",Dublin,131111.0,Yes,Saggart,Co. Dublin,q1,10%
+30/06/2014,"3 Crosforge, Saggart",Dublin,229074.0,Yes,Saggart,Co. Dublin,q3,60%
+03/07/2014,"22 Millrace Drive, Saggart",Dublin,167400.88,Yes,Saggart,Co. Dublin,q1,30%
+04/07/2014,"2 St Marys Park, School Rd, Saggart",Dublin,269000.0,No,Saggart,Co. Dublin,q3,80%
+04/07/2014,"40 Millrace Avenue, Saggart",Dublin,235000.0,Yes,Saggart,Co. Dublin,q3,60%
+10/07/2014,"15 Millrace View, Saggart",Dublin,164758.0,Yes,Saggart,Co. Dublin,q1,30%
+11/07/2014,"1 Crosforge, Saggart",Dublin,224669.6,Yes,Saggart,Co. Dublin,q3,60%
+11/07/2014,"2 Crosforge, Saggart, Co. Dublin",Dublin,224669.6,Yes,Saggart,Co. Dublin,q3,60%
+11/07/2014,"38 Slade Castle Avenue, Saggart",Dublin,136520.0,Yes,Saggart,Co. Dublin,q1,20%
+11/07/2014,"44A Pairc Mhuire, Saggart, Dublin",Dublin,219000.0,No,Saggart,Co. Dublin,q2,50%
+11/07/2014,"Saggart Hill, Saggart, Dublin",Dublin,60000.0,No,Saggart,Co. Dublin,q1,10%
+16/07/2014,"45 Crosforge, Saggart, Co Dublin",Dublin,259911.0,Yes,Saggart,Co. Dublin,q3,70%
+22/07/2014,"10 Millrace View, Saggart, Co. Dublin",Dublin,149000.0,Yes,Saggart,Co. Dublin,q1,20%
+28/07/2014,"37 Crosford, Saggart",Dublin,255000.0,Yes,Saggart,Co. Dublin,q3,70%
+01/08/2014,"39 Millrace Drive, Saggart",Dublin,180616.0,Yes,Saggart,Co. Dublin,q2,30%
+05/08/2014,"36 Crosforge, Saggart, Co. Dublin",Dublin,220264.31,Yes,Saggart,Co. Dublin,q2,50%
+13/08/2014,"23 Carrigmore Green, City West, Saggart",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+13/08/2014,"48 Slade Castle Court, Saggart",Dublin,148017.0,Yes,Saggart,Co. Dublin,q1,20%
+14/08/2014,"26  Millrace Drive, Saggart",Dublin,167401.0,Yes,Saggart,Co. Dublin,q1,30%
+18/08/2014,"38 Millrace Drive, Saggart, County Dublin",Dublin,167400.0,Yes,Saggart,Co. Dublin,q1,30%
+21/08/2014,"46 Slade Castle Avenue, Saggart",Dublin,138356.75,Yes,Saggart,Co. Dublin,q1,20%
+29/08/2014,"6 Tassagard Dr, Saggart, Dublin",Dublin,650000.0,No,Saggart,Co. Dublin,q4,100%
+01/09/2014,"18  Coldwater Lakes, Saggart",Dublin,295000.0,Yes,Saggart,Co. Dublin,q4,90%
+08/09/2014,"Alverna House, Saggart, Dublin",Dublin,150000.0,No,Saggart,Co. Dublin,q1,20%
+16/09/2014,"21 Swiftwood, Saggart, Dublin",Dublin,252000.0,No,Saggart,Co. Dublin,q3,70%
+10/10/2014,"4 Carrigmore Green, Citywest, Saggart",Dublin,266000.0,No,Saggart,Co. Dublin,q3,70%
+15/10/2014,"19 Carrig Court, Fortunestown Lane, Saggart",Dublin,259500.0,No,Saggart,Co. Dublin,q3,70%
+15/10/2014,"23 Millrace Park, Millrace, Saggart",Dublin,211000.0,No,Saggart,Co. Dublin,q2,50%
+20/10/2014,"Apt 34 The Slade, Citywest, Saggart",Dublin,210000.0,No,Saggart,Co. Dublin,q2,50%
+21/10/2014,"Corbally Mews, Corbally, Saggart",Dublin,316000.0,No,Saggart,Co. Dublin,q4,90%
+24/10/2014,"30 Slade Castle Avenue, Saggart, County Dublin",Dublin,157000.0,Yes,Saggart,Co. Dublin,q1,20%
+24/10/2014,"48 Slade Castle Avenue, Saggart",Dublin,198238.0,Yes,Saggart,Co. Dublin,q2,40%
+28/10/2014,"17 The Slade, Tassaggard Green, City West  Saggart",Dublin,265000.0,No,Saggart,Co. Dublin,q3,70%
+30/10/2014,"Ashlang, Lugg, Saggart",Dublin,415000.0,No,Saggart,Co. Dublin,q4,100%
+07/11/2014,"36 Slade Castle Avenue, Saggart, County Dublin",Dublin,212000.0,Yes,Saggart,Co. Dublin,q2,50%
+14/11/2014,"No. 8 Millrace View, Saggart",Dublin,132158.59,Yes,Saggart,Co. Dublin,q1,10%
+18/11/2014,"7 Saggart Lakes, Saggart, Dublin",Dublin,515000.0,No,Saggart,Co. Dublin,q4,100%
+25/11/2014,"Tarbrook House, Saggart",Dublin,980000.0,No,Saggart,Co. Dublin,q4,100%
+02/12/2014,"Unit 63 Millrace Park, Millrace, Saggart",Dublin,147136.0,Yes,Saggart,Co. Dublin,q1,20%
+04/12/2014,"7 Millrace View, Saggart",Dublin,250000.0,Yes,Saggart,Co. Dublin,q3,70%
+05/12/2014,"42 Carrigmore Gardens, Citywest, Saggart",Dublin,166000.0,No,Saggart,Co. Dublin,q1,30%
+10/12/2014,"64 Millrace Park, Saggart, Dublin",Dublin,180616.0,Yes,Saggart,Co. Dublin,q2,30%
+12/12/2014,"12Millrace Green Saggart, Co Dublin",Dublin,172000.0,No,Saggart,Co. Dublin,q2,30%
+12/12/2014,"74 Carrigmore Crescent, Saggart, Co Dublin",Dublin,100000.0,No,Saggart,Co. Dublin,q1,10%
+16/12/2014,"24 Slade Castle Walk, Saggart, Dublin",Dublin,136519.82,No,Saggart,Co. Dublin,q1,20%
+17/12/2014,"2 Corbally Ave, Westbrook Lawns, Saggart",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+17/12/2014,"65 Millrace Park, Saggart",Dublin,205000.0,Yes,Saggart,Co. Dublin,q2,40%
+17/12/2014,"9 Carrigmore Lawns, Citywest, Saggart",Dublin,200000.0,No,Saggart,Co. Dublin,q2,40%
+18/12/2014,"Block G 36 Slade Castle Walk, Saggart",Dublin,136519.8,Yes,Saggart,Co. Dublin,q1,20%
+19/12/2014,"35 Slade Castle Walk, Saggart, County Dublin",Dublin,174797.0,Yes,Saggart,Co. Dublin,q2,30%
+19/12/2014,"No. 25 Millrace Park, Saggart",Dublin,229074.89,Yes,Saggart,Co. Dublin,q3,60%
+22/12/2014,"2 Verschoyle Crescent, Saggart Abbey, Blessington Rd",Dublin,190000.0,No,Saggart,Co. Dublin,q2,40%
+22/12/2014,"8 Carrigmore Way, Saggart, Dublin",Dublin,146559.0,No,Saggart,Co. Dublin,q1,20%
+23/12/2014,"Apt 19 Slade Castle Walk, Saggart",Dublin,114538.0,Yes,Saggart,Co. Dublin,q1,10%
+09/01/2015,"12 Saggart Lakes, Saggart",Dublin,281938.32,Yes,Saggart,Co. Dublin,q4,80%
+14/01/2015,"2 Crosforge Close, Crosforge, Saggart",Dublin,242290.75,Yes,Saggart,Co. Dublin,q3,70%
+14/01/2015,"32 Slade Castle Walk, Saggart, Co Dublin",Dublin,154950.0,No,Saggart,Co. Dublin,q1,20%
+14/01/2015,"No. 1 Crosforge Close, Crosforge, Saggart",Dublin,242290.74,Yes,Saggart,Co. Dublin,q3,70%
+15/01/2015,"St Teresas, Main St, Saggart Dublin",Dublin,295000.0,No,Saggart,Co. Dublin,q4,90%
+20/01/2015,"3 Crosforge Close, Crosforge, Saggart",Dublin,272475.0,Yes,Saggart,Co. Dublin,q3,80%
+21/01/2015,"36 Millrace Park, Millrace, Saggart",Dublin,131000.0,No,Saggart,Co. Dublin,q1,10%
+22/01/2015,"33 Slade Castle Walk, Saggart, County Dublin",Dublin,174797.0,Yes,Saggart,Co. Dublin,q2,30%
+02/02/2015,"25 Slade Castle Walk, Saggart",Dublin,135000.0,Yes,Saggart,Co. Dublin,q1,20%
+04/02/2015,"11 Coldwater Lakes, Saggart, Dublin",Dublin,525000.0,No,Saggart,Co. Dublin,q4,100%
+06/02/2015,"30 Slade Walk, Saggart",Dublin,154950.0,Yes,Saggart,Co. Dublin,q1,20%
+06/02/2015,"32 Verschoyle Glen, Saggart Abbey Saggart, Dublin",Dublin,245000.0,No,Saggart,Co. Dublin,q3,70%
+09/02/2015,"50 Slade Court, Saggart",Dublin,158590.0,Yes,Saggart,Co. Dublin,q1,20%
+19/02/2015,"9 Crosforge Close, Saggart",Dublin,281938.32,Yes,Saggart,Co. Dublin,q4,80%
+20/02/2015,"46 Slade Castle Court, Saggart",Dublin,185000.0,Yes,Saggart,Co. Dublin,q2,30%
+23/02/2015,"14 Carrigmore Oak, Fortunestown Lane, Saggart",Dublin,200000.0,No,Saggart,Co. Dublin,q2,40%
+27/02/2015,"5 Crosforge Close, Crosforge, Saggart",Dublin,286343.61,Yes,Saggart,Co. Dublin,q4,80%
+06/03/2015,"7 Verschoyle Close, Saggart Abbey, Saggart",Dublin,286500.0,No,Saggart,Co. Dublin,q4,80%
+10/03/2015,"96 Slade Castle Ave, Saggart, Co Dublin",Dublin,164950.0,No,Saggart,Co. Dublin,q1,30%
+11/03/2015,"No. 7 Crosforge Close, Saggart, Co Dublin",Dublin,325000.0,No,Saggart,Co. Dublin,q4,90%
+12/03/2015,"Unit 14E Westpark Executive Suites, City West, Saggart",Dublin,100000.0,No,Saggart,Co. Dublin,q1,10%
+19/03/2015,"8 Crosforge Close, Saggart",Dublin,286343.61,Yes,Saggart,Co. Dublin,q4,80%
+25/03/2015,"13 Carrigmore Green, Saggart, Dublin",Dublin,192000.0,No,Saggart,Co. Dublin,q2,40%
+01/04/2015,"6 Crosforge Close, Crosforge, Saggart",Dublin,283894.0,Yes,Saggart,Co. Dublin,q4,80%
+02/04/2015,"3 Slade Castle Heights, Slade Castle, Saggart",Dublin,223000.0,No,Saggart,Co. Dublin,q2,50%
+08/04/2015,"12 Slade Castle View, Saggart, Dublin",Dublin,166000.0,No,Saggart,Co. Dublin,q1,30%
+17/04/2015,"39 Slade Castle Walk, Saggart, Co Dublin",Dublin,198237.88,Yes,Saggart,Co. Dublin,q2,40%
+21/04/2015,"21 The Avenue, Slade Castle, Saggart",Dublin,180000.0,No,Saggart,Co. Dublin,q2,30%
+24/04/2015,"37 Carrigmore Crescent, Saggart, Dublin",Dublin,72500.0,No,Saggart,Co. Dublin,q1,10%
+27/04/2015,"Apartment 34 Saggart Lodge Court, Saggart",Dublin,200000.0,No,Saggart,Co. Dublin,q2,40%
+01/05/2015,"29 Saggart Lodge Court, Saggart, Dublin",Dublin,200000.0,No,Saggart,Co. Dublin,q2,40%
+13/05/2015,"4 Crosforge Close, Saggart, County Dublin",Dublin,340000.0,Yes,Saggart,Co. Dublin,q4,100%
+14/05/2015,"16 The Slade, Tassagard Reen, Saggart",Dublin,280000.0,No,Saggart,Co. Dublin,q4,80%
+14/05/2015,"24 Verschoyle Glen, Saggart Abbey, Saggart",Dublin,190000.0,No,Saggart,Co. Dublin,q2,40%
+22/05/2015,"20 Coldwater Lakes, Saggart, Dublin",Dublin,610000.0,No,Saggart,Co. Dublin,q4,100%
+26/05/2015,"17 Slade Court, Saggart, Co Dublin",Dublin,210000.0,Yes,Saggart,Co. Dublin,q2,50%
+27/05/2015,"1A Carrigmore Elms, Saggart, County Dublin",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+27/05/2015,"No 22 Tassaggard Green, Garter'S Land, Saggart",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+29/05/2015,"47 Slade Castle Court, Saggart",Dublin,147136.0,Yes,Saggart,Co. Dublin,q1,20%
+09/06/2015,"31 Millrace Drive, Saggart, Dublin",Dublin,235000.0,No,Saggart,Co. Dublin,q3,60%
+09/06/2015,"33 Millrace Drive, Saggart, Dublin",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+09/06/2015,"Apr 1 The Ragstore, Millrace, Saggart",Dublin,135000.0,No,Saggart,Co. Dublin,q1,20%
+09/06/2015,"Apt 12 Millrace Drive, Saggart",Dublin,205000.0,No,Saggart,Co. Dublin,q2,40%
+09/06/2015,"Apt 13 Millrace Drive, Saggart",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+09/06/2015,"Apt 2 The Ragstore, Millrace, Saggart",Dublin,90000.0,No,Saggart,Co. Dublin,q1,10%
+09/06/2015,"Apt 27 Millrace Green, Saggart",Dublin,205000.0,No,Saggart,Co. Dublin,q2,40%
+09/06/2015,"Apt 28 Millrace Green, Saggart",Dublin,230000.0,No,Saggart,Co. Dublin,q3,60%
+09/06/2015,"Apt 29 Millrace Green, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+09/06/2015,"Apt 30 Millrace Drive, Saggart",Dublin,205000.0,No,Saggart,Co. Dublin,q2,40%
+09/06/2015,"Apt 32 Millrace Green, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+09/06/2015,"Apt 34 Millrace Green, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+09/06/2015,"Apt 35 Millrace Green, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+09/06/2015,"Apt 36 Millrace Green, Saggart",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+09/06/2015,"Apt 37 Millrace Green, Saggart",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+09/06/2015,"Apt 46 Millrace Drive, Saggart",Dublin,205000.0,No,Saggart,Co. Dublin,q2,40%
+09/06/2015,"Apt 62 Millrace Park, Saggart",Dublin,169000.0,No,Saggart,Co. Dublin,q1,30%
+09/06/2015,"Apt 9 Millrace Drive, Saggart",Dublin,205000.0,No,Saggart,Co. Dublin,q2,40%
+09/06/2015,"Unit 4 The Ragstore, Millrace, Saggart",Dublin,135000.0,No,Saggart,Co. Dublin,q1,20%
+12/06/2015,"8 Coldwater Lakes, Saggart, Dublin",Dublin,750000.0,No,Saggart,Co. Dublin,q4,100%
+16/06/2015,"31 Slade Castle Walk, Saggart, Co Dublin",Dublin,120704.84,Yes,Saggart,Co. Dublin,q1,10%
+18/06/2015,"102 Carrigmore Crescent, Citywest, Saggart",Dublin,125000.0,No,Saggart,Co. Dublin,q1,10%
+24/06/2015,"Block B, 28 Slade Castle Court, Saggart",Dublin,168106.0,Yes,Saggart,Co. Dublin,q1,30%
+25/06/2015,"62 Carrigmore Crescent, Saggart, Dublin",Dublin,185000.0,No,Saggart,Co. Dublin,q2,30%
+26/06/2015,"101 Carrigmore Crescent, Citywest, Saggart",Dublin,135000.0,No,Saggart,Co. Dublin,q1,20%
+03/07/2015,"19 Springbank, Saggart, Dublin",Dublin,236000.0,No,Saggart,Co. Dublin,q3,60%
+06/07/2015,"17 Carrigmore Manor, Saggart, Dublin",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+09/07/2015,"9 Carrigmore Terrace, Saggart, Dublin",Dublin,263000.0,No,Saggart,Co. Dublin,q3,70%
+10/07/2015,"3 The Old School House, Saggart, Dublin",Dublin,110000.0,No,Saggart,Co. Dublin,q1,10%
+13/07/2015,"8 The Old Schoole House, Saggart, Dublin",Dublin,110000.0,No,Saggart,Co. Dublin,q1,10%
+13/07/2015,"9 The Old Schoole House, Saggart, Dublin",Dublin,112500.0,No,Saggart,Co. Dublin,q1,10%
+20/07/2015,"41 Slade Castle Walk, Saggart Village, Dublin",Dublin,220000.0,No,Saggart,Co. Dublin,q2,50%
+24/07/2015,"18 Mill Rd, Saggart, Dublin",Dublin,236000.0,No,Saggart,Co. Dublin,q3,60%
+28/07/2015,"18B Mill Rd, Saggart, Mill Rd",Dublin,299000.0,No,Saggart,Co. Dublin,q4,90%
+29/07/2015,"4 Carrigmore Close, Saggart, Dublin",Dublin,298000.0,No,Saggart,Co. Dublin,q4,90%
+07/08/2015,"14 Verschoyle Glen, Saggart, Co Dublin",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+11/08/2015,"117 Swiftwood, Garters Lane, Saggart",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+12/08/2015,"Apt 80, Carrigmore Crescent, Saggart",Dublin,153000.0,No,Saggart,Co. Dublin,q1,20%
+17/08/2015,"20 Carrigmore Crescent, Saggart, Dublin",Dublin,119400.0,No,Saggart,Co. Dublin,q1,10%
+25/08/2015,"26, Slade Casetle Walk, Saggart",Dublin,145375.0,Yes,Saggart,Co. Dublin,q1,20%
+11/09/2015,"Boherboy, Saggart, Co Dublin",Dublin,450000.0,No,Saggart,Co. Dublin,q4,100%
+14/09/2015,"102 Slade Castle Avenue, Saggart",Dublin,174950.0,Yes,Saggart,Co. Dublin,q2,30%
+18/09/2015,"56 Carrig Court Citywest, Saggart, Dublin",Dublin,229500.0,No,Saggart,Co. Dublin,q3,60%
+25/09/2015,"9 Drury Mills, Saggart",Dublin,277533.0,Yes,Saggart,Co. Dublin,q4,80%
+25/09/2015,"Apt 10 Millrace Avenue, Saggart",Dublin,185000.0,Yes,Saggart,Co. Dublin,q2,30%
+25/09/2015,"Apt 11 Millrace View, Saggart",Dublin,215000.0,Yes,Saggart,Co. Dublin,q2,50%
+25/09/2015,"Apt 2 Millrace Gardens, Saggart",Dublin,205000.0,Yes,Saggart,Co. Dublin,q2,40%
+25/09/2015,"Apt 32 Millrace Avenue, Saggart",Dublin,207500.0,Yes,Saggart,Co. Dublin,q2,50%
+25/09/2015,"Apt 6 Ragstore, Millrace, Saggart",Dublin,135000.0,Yes,Saggart,Co. Dublin,q1,20%
+25/09/2015,"Apt 7 Millrace Walk, Saggart",Dublin,205000.0,Yes,Saggart,Co. Dublin,q2,40%
+25/09/2015,"Apt 9 Millrace View, Saggart",Dublin,215000.0,Yes,Saggart,Co. Dublin,q2,50%
+28/09/2015,"The Slade, Saggart",Dublin,325000.0,No,Saggart,Co. Dublin,q4,90%
+01/10/2015,"8 Drury Mills, Saggart",Dublin,263436.0,Yes,Saggart,Co. Dublin,q3,70%
+05/10/2015,"Apt 1 Old School House, Mill Rd, Saggart",Dublin,113000.0,No,Saggart,Co. Dublin,q1,10%
+07/10/2015,"1 Millrace Walk The Millrace, Saggart, Dublin",Dublin,188500.0,No,Saggart,Co. Dublin,q2,40%
+09/10/2015,"7 The Old School House, Saggart",Dublin,130000.0,No,Saggart,Co. Dublin,q1,10%
+12/10/2015,"38 Crosforge, Saggart, Dublin",Dublin,332000.0,No,Saggart,Co. Dublin,q4,100%
+14/10/2015,"Fourwinds, Saggart, Dublin",Dublin,349000.0,No,Saggart,Co. Dublin,q4,100%
+16/10/2015,"3 Carrigmore Oak, Fortunestown Lane, Saggart",Dublin,166000.0,No,Saggart,Co. Dublin,q1,30%
+21/10/2015,"27 Saggart Lodge Court, Garters Lane, Saggart",Dublin,257000.0,No,Saggart,Co. Dublin,q3,70%
+23/10/2015,"11 Drury Mills, Saggart, Co. Dublin",Dublin,259912.0,Yes,Saggart,Co. Dublin,q3,70%
+23/10/2015,"6 Drury Mills, Saggart",Dublin,321585.0,Yes,Saggart,Co. Dublin,q4,90%
+23/10/2015,"6 Slade Castlewood, Saggart, Castlewood",Dublin,255000.0,No,Saggart,Co. Dublin,q3,70%
+28/10/2015,"305 Swiftwood, Saggart, Dublin",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+03/11/2015,"10 Drury Mills, Saggart",Dublin,279735.0,Yes,Saggart,Co. Dublin,q4,80%
+10/11/2015,"8 Springbank, Saggart, Dublin",Dublin,230000.0,No,Saggart,Co. Dublin,q3,60%
+11/11/2015,"23 Verschoyle Ave, Saggart Abbey, Citywest",Dublin,285000.0,No,Saggart,Co. Dublin,q4,80%
+20/11/2015,"10 Slade Castlewoods, Saggart, Dublin",Dublin,300000.0,No,Saggart,Co. Dublin,q4,90%
+23/11/2015,"69 Carrig Court, Citywest, Saggart",Dublin,149050.0,No,Saggart,Co. Dublin,q1,20%
+25/11/2015,"3 Carrigmore Glen, City West, Saggart",Dublin,486250.0,No,Saggart,Co. Dublin,q4,100%
+27/11/2015,"3 Drury Mills, Saggart",Dublin,286344.0,Yes,Saggart,Co. Dublin,q4,80%
+30/11/2015,"14 Drury Mills, Saggart",Dublin,263436.0,Yes,Saggart,Co. Dublin,q3,70%
+01/12/2015,"32 Carrigmore Gardens, Citywest, Saggart Dublin 24",Dublin,104700.0,No,Saggart,Co. Dublin,q1,10%
+04/12/2015,"39 Carrig Court, Fortunestown Lane, Saggart",Dublin,172000.0,No,Saggart,Co. Dublin,q2,30%
+09/12/2015,"306 Swiftwood, Saggart, Dublin",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+10/12/2015,"1 Drury Mills, Saggart",Dublin,270925.0,Yes,Saggart,Co. Dublin,q3,80%
+10/12/2015,"15 Drury Mills, Saggart, County Dublin",Dublin,286344.0,Yes,Saggart,Co. Dublin,q4,80%
+11/12/2015,"4 Drury Mills, Saggart, County Dublin",Dublin,303964.76,Yes,Saggart,Co. Dublin,q4,90%
+15/12/2015,"101 Carrig Court, Fortunestown Lane, Saggart",Dublin,195000.0,No,Saggart,Co. Dublin,q2,40%
+15/12/2015,"104 Carrig Court, Fortunestown Lane, Saggart",Dublin,227000.0,No,Saggart,Co. Dublin,q3,60%
+15/12/2015,"16 Drury Mills, Saggart, Co Dublin",Dublin,286344.0,Yes,Saggart,Co. Dublin,q4,80%
+15/12/2015,"17 Slade Castle Walk, Saggart, Dublin",Dublin,226000.0,No,Saggart,Co. Dublin,q3,60%
+16/12/2015,"Coolmine, Saggart, Dublin",Dublin,650000.0,No,Saggart,Co. Dublin,q4,100%
+18/12/2015,"2 Drury Mills, Saggart, Dublin",Dublin,264317.18,Yes,Saggart,Co. Dublin,q3,70%
+18/12/2015,"27 Millrace Crescent, Saggart, Dublin",Dublin,170000.0,No,Saggart,Co. Dublin,q1,30%
+18/12/2015,"3 Slade Castle Lane, Saggart, Dublin",Dublin,135000.0,No,Saggart,Co. Dublin,q1,20%
+18/12/2015,"31 Verschoyle Glen, Saggart, Citywest Dublin 24",Dublin,255000.0,No,Saggart,Co. Dublin,q3,70%
+18/12/2015,"407 Swiftwood, Saggart, Dublin",Dublin,206000.0,No,Saggart,Co. Dublin,q2,50%
+18/12/2015,"Apartment 13 Millrace View, Saggart",Dublin,185000.0,No,Saggart,Co. Dublin,q2,30%
+18/12/2015,"Apartment 27 Millrace Drive, Saggart",Dublin,185000.0,No,Saggart,Co. Dublin,q2,30%
+18/12/2015,"Apartment 3 The Ragstore, Millrace, Saggart",Dublin,135000.0,Yes,Saggart,Co. Dublin,q1,20%
+18/12/2015,"Apartment 5 The Ragstore, Millrace, Saggart",Dublin,90000.0,Yes,Saggart,Co. Dublin,q1,10%
+18/12/2015,"Apartment 9, Saggart Lodge Court, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+18/12/2015,"No 13 Millrace Walk, Saggart",Dublin,235000.0,No,Saggart,Co. Dublin,q3,60%
+18/12/2015,"No 3 Millrace Walk, Saggart",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+18/12/2015,"No 36 Millrace Avenue, Saggart",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+18/12/2015,"No 38 Millrace Avenue, Saggart",Dublin,250000.0,Yes,Saggart,Co. Dublin,q3,70%
+21/12/2015,"44 Carrigmore Gardens, Saggart, Citywest",Dublin,167000.0,No,Saggart,Co. Dublin,q1,30%
+22/12/2015,"2 Carrigmore Gardens, Fortunestown Lane, Saggart",Dublin,171000.0,No,Saggart,Co. Dublin,q1,30%
+22/12/2015,"20 Drury Mills, Saggart, Co. Dublin",Dublin,268720.0,Yes,Saggart,Co. Dublin,q3,80%
+22/12/2015,"30 Verschoyle Ave, Saggart Abbey, Saggart",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+22/12/2015,"409 Swiftwood, Saggart, Dublin",Dublin,200000.0,No,Saggart,Co. Dublin,q2,40%
+04/01/2016,"13 Drury Mills, Saggart",Dublin,230088.0,Yes,Saggart,Co. Dublin,q3,60%
+04/01/2016,"19 Drury Mills, Saggart",Dublin,321586.0,Yes,Saggart,Co. Dublin,q4,90%
+13/01/2016,"14 Carrigmore Green, Citywest, Saggart",Dublin,165000.0,No,Saggart,Co. Dublin,q1,30%
+20/01/2016,"32 Carrigmore Green, Citywest, Saggart",Dublin,151000.0,No,Saggart,Co. Dublin,q1,20%
+27/01/2016,"30 Carrigmore Ave, Saggart, Dublin",Dublin,356350.0,No,Saggart,Co. Dublin,q4,100%
+01/02/2016,"408 Swiftwood, Saggart, Dublin",Dublin,205000.0,No,Saggart,Co. Dublin,q2,50%
+03/02/2016,"15 Saggart Lakes, Saggart, Dublin",Dublin,650000.0,No,Saggart,Co. Dublin,q4,100%
+09/02/2016,"32 Slade Castle Avenue, Saggart, Co Dublin",Dublin,231000.0,No,Saggart,Co. Dublin,q3,60%
+15/02/2016,"18 Drury Mills, Saggart",Dublin,321586.0,Yes,Saggart,Co. Dublin,q4,90%
+15/02/2016,"21 Coldwater Lakes Suites, Saggart, Co Dublin",Dublin,130000.0,No,Saggart,Co. Dublin,q1,10%
+15/02/2016,"85 Carrigcourt, Fortunestown Lane, Saggart",Dublin,150000.0,No,Saggart,Co. Dublin,q1,20%
+15/02/2016,"Apt 13 Westpark Executive Suites, Citywest, Saggart",Dublin,100000.0,No,Saggart,Co. Dublin,q1,10%
+18/02/2016,"27 The Swift, Tassagard Green, Saggart",Dublin,234000.0,No,Saggart,Co. Dublin,q3,60%
+19/02/2016,"47 Carrigmore Lawns, Citywest, Saggart",Dublin,160000.0,No,Saggart,Co. Dublin,q1,20%
+24/02/2016,"17A Mill Rd, Saggart, Mill Rd",Dublin,306000.0,No,Saggart,Co. Dublin,q4,90%
+04/03/2016,"53 Slade Castle Court, Saggart, Co Dublin",Dublin,140000.0,No,Saggart,Co. Dublin,q1,20%
+13/03/2016,"19 Carrig Court, Fortunestown Lane, Saggart",Dublin,190000.0,No,Saggart,Co. Dublin,q2,40%
+22/03/2016,"1 Verschoyle Crescent, Saggart Abbey, Saggart",Dublin,211000.0,No,Saggart,Co. Dublin,q2,50%
+22/03/2016,"34 Carraigmore Crescent, Saggart, Dublin",Dublin,161000.0,No,Saggart,Co. Dublin,q1,20%
+24/03/2016,"68 Belfry Sq, Blessington Rd Saggart, Dublin 24",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+01/04/2016,"The Slade, Saggart, Co Dublin",Dublin,295000.0,No,Saggart,Co. Dublin,q4,90%
+04/04/2016,"34 Millrace Ave, Saggart, Dublin",Dublin,267500.0,No,Saggart,Co. Dublin,q3,80%
+05/04/2016,"Unit 7 Citywest Exeuctive Suite, Saggart, Co Dublin",Dublin,85000.0,No,Saggart,Co. Dublin,q1,10%
+08/04/2016,"59 Carrig Court, Citywest, Saggart",Dublin,152000.0,No,Saggart,Co. Dublin,q1,20%
+13/04/2016,"410 Swiftwood, Saggart, Dublin",Dublin,206500.0,Yes,Saggart,Co. Dublin,q2,50%
+15/04/2016,"19 Swiftwood, Garter Lane, Saggart",Dublin,160000.0,No,Saggart,Co. Dublin,q1,20%
+27/04/2016,"2 Corbally Park, Westbrook Glen, Saggart Dublin 24",Dublin,280000.0,No,Saggart,Co. Dublin,q4,80%
+10/05/2016,"11 Slade Castle Walk, Saggart, Co Dublin",Dublin,154185.0,Yes,Saggart,Co. Dublin,q1,20%
+10/05/2016,"52 Sladecastle Court, Saggart, Co. Dublin",Dublin,167400.0,Yes,Saggart,Co. Dublin,q1,30%
+13/05/2016,"Apt 18 The, Tessagard Green, Saggart",Dublin,245000.0,No,Saggart,Co. Dublin,q3,70%
+17/05/2016,"7 Tassagard Dr, Coldwater Lakes, Saggart",Dublin,615500.0,No,Saggart,Co. Dublin,q4,100%
+18/05/2016,"40 Slade Castle Avenue, Saggart, Co Dublin",Dublin,150000.0,No,Saggart,Co. Dublin,q1,20%
+19/05/2016,"17 Millrace Dr, Saggart, Dublin",Dublin,185000.0,No,Saggart,Co. Dublin,q2,30%
+20/05/2016,"56 Slade Castle Avenue, Saggart, Co. Dublin",Dublin,225375.0,Yes,Saggart,Co. Dublin,q3,60%
+02/06/2016,"24 Drury Mills, Saggart, County Dublin",Dublin,290000.0,Yes,Saggart,Co. Dublin,q4,80%
+03/06/2016,"43 Verscoyle Ave, Saggart Abbey, Citywest",Dublin,267000.0,No,Saggart,Co. Dublin,q3,80%
+03/06/2016,"Slade 1 Tassaggard Green, Gartons Lane Saggart, Dublin",Dublin,265000.0,No,Saggart,Co. Dublin,q3,70%
+07/06/2016,"20 The Swift, Tassagard Greens, Saggart Dublin 24",Dublin,220000.0,No,Saggart,Co. Dublin,q2,50%
+09/06/2016,"26 Coldwater Suite, Saggart, Dublin",Dublin,95000.0,No,Saggart,Co. Dublin,q1,10%
+10/06/2016,"36 Slade Castle Avenue, Saggart, County Dublin",Dublin,246000.0,No,Saggart,Co. Dublin,q3,70%
+14/06/2016,"19 Mill Rd, Saggart, Dublin",Dublin,243000.0,No,Saggart,Co. Dublin,q3,70%
+23/06/2016,"6 Carrigmore Court, Citywest, Saggart",Dublin,287500.0,No,Saggart,Co. Dublin,q4,80%
+30/06/2016,"31 Drury Mills, Saggart, Co. Dublin",Dublin,282750.0,Yes,Saggart,Co. Dublin,q4,80%
+05/07/2016,"20 The Slade, Tassaggard Green, Saggart",Dublin,345000.0,No,Saggart,Co. Dublin,q4,100%
+07/07/2016,"3 Verschoyle Ave, Saggart Abbey, Saggart",Dublin,300000.0,No,Saggart,Co. Dublin,q4,90%
+07/07/2016,"34 Slade Castle Ave, Saggart, Co Dublin",Dublin,205000.0,No,Saggart,Co. Dublin,q2,50%
+08/07/2016,"21 Drury Mills, Saggart",Dublin,295154.0,Yes,Saggart,Co. Dublin,q4,90%
+11/07/2016,"14 Verschoyle Vale, Saggart Abbey, Saggart",Dublin,295000.0,No,Saggart,Co. Dublin,q4,90%
+15/07/2016,"No.23, Drury Mills, Saggart",Dublin,317180.0,Yes,Saggart,Co. Dublin,q4,90%
+22/07/2016,"27 Drury Mills, Saggart, County Dublin",Dublin,264317.18,Yes,Saggart,Co. Dublin,q3,70%
+22/07/2016,"43 Crosforge, Saggart, Co. Dublin",Dublin,266000.0,No,Saggart,Co. Dublin,q3,80%
+22/07/2016,"5 Carrigmore Glen, Fortunestown Lane, Saggart",Dublin,460000.0,Yes,Saggart,Co. Dublin,q4,100%
+27/07/2016,"20 Verschoyle Rise, Saggart, Dublin",Dublin,249000.0,No,Saggart,Co. Dublin,q3,70%
+28/07/2016,"34 Corbally Heath, Saggart, Dublin",Dublin,265000.0,No,Saggart,Co. Dublin,q3,70%
+02/08/2016,"56 Millrace Park, Saggart, Dublin",Dublin,162000.0,No,Saggart,Co. Dublin,q1,30%
+03/08/2016,"30 Drury Mills, Saggart, County Dublin",Dublin,286343.0,Yes,Saggart,Co. Dublin,q4,80%
+05/08/2016,"9 Mill Rd, Saggart, Dublin",Dublin,245000.0,No,Saggart,Co. Dublin,q3,70%
+09/08/2016,"Apt 5 Sacra, Tassagard Green, Saggart",Dublin,220000.0,No,Saggart,Co. Dublin,q2,50%
+11/08/2016,"Apt 1 Main St, Saggart, Main St",Dublin,35000.0,No,Saggart,Co. Dublin,q1,10%
+11/08/2016,"Apt 2 Over Spar Shop, Saggart, Dublin",Dublin,35000.0,No,Saggart,Co. Dublin,q1,10%
+15/08/2016,"29 Drury Mills, Saggart",Dublin,290748.0,Yes,Saggart,Co. Dublin,q4,80%
+22/08/2016,"4 Verschoyle Green, Saggart Abbey, Saggart Dublin 24",Dublin,297500.0,No,Saggart,Co. Dublin,q4,90%
+23/08/2016,"25 Verschoyle Close, Saggart Abbey Blessington Rd, Saggart Dublin",Dublin,290000.0,No,Saggart,Co. Dublin,q4,80%
+24/08/2016,"7 Drury Mills, Saggart",Dublin,330396.47,Yes,Saggart,Co. Dublin,q4,100%
+25/08/2016,"32 Drury Mills, Saggart",Dublin,263436.0,Yes,Saggart,Co. Dublin,q3,70%
+26/08/2016,"24 Verschoyle Glen, Saggart Abbey, Saggart",Dublin,302000.0,No,Saggart,Co. Dublin,q4,90%
+30/08/2016,"23 Carrigmore Crescent, Citywest, Saggart",Dublin,133500.0,No,Saggart,Co. Dublin,q1,10%
+30/08/2016,"5 Carrigmore Place, Citywest, Saggart",Dublin,220000.0,No,Saggart,Co. Dublin,q2,50%
+05/09/2016,"33 Drury Mills, Saggart, Co Dublin",Dublin,229074.88,Yes,Saggart,Co. Dublin,q3,60%
+05/09/2016,"34 Drury Mills, Saggart, County Dublin",Dublin,229100.0,Yes,Saggart,Co. Dublin,q3,60%
+09/09/2016,"6 Mill Race Drive, Saggart, Co Dublin",Dublin,186500.0,No,Saggart,Co. Dublin,q2,40%
+13/09/2016,"37 Carrigmore Lawns, City West, Saggart",Dublin,211000.0,No,Saggart,Co. Dublin,q2,50%
+14/09/2016,"35 Drury Mills, Saggart, Dublin",Dublin,272202.64,Yes,Saggart,Co. Dublin,q3,80%
+14/09/2016,"56 Carrigmore Crescent, Saggart, Dublin",Dublin,168000.0,No,Saggart,Co. Dublin,q1,30%
+16/09/2016,"33 Corbally Heath, Westbrook Glen, Saggart",Dublin,265000.0,No,Saggart,Co. Dublin,q3,70%
+22/09/2016,"25 Drury Mills, Saggart",Dublin,321585.9,Yes,Saggart,Co. Dublin,q4,90%
+23/09/2016,"41 Carrigmore Greene, Saggart, Dublin",Dublin,201000.0,No,Saggart,Co. Dublin,q2,40%
+30/09/2016,"50 Carrigmore Green, Citywest, Saggart",Dublin,171000.0,No,Saggart,Co. Dublin,q1,30%
+06/10/2016,"26 Carrigmore Green, Citywest, Saggart",Dublin,180000.0,No,Saggart,Co. Dublin,q2,30%
+06/10/2016,"39 Drury Mills, Saggart, Co. Dublin",Dublin,285683.0,Yes,Saggart,Co. Dublin,q4,80%
+07/10/2016,"36 Drury Mills, Saggart, County Dublin",Dublin,285682.0,Yes,Saggart,Co. Dublin,q4,80%
+10/10/2016,"27 Swiftwood, Saggart, Dublin",Dublin,275000.0,No,Saggart,Co. Dublin,q3,80%
+12/10/2016,"1 The Swift, Tassagard Green, Saggart",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+12/10/2016,"Apt 28, Slade Castle Walk, Saggart",Dublin,193000.0,No,Saggart,Co. Dublin,q2,40%
+13/10/2016,"38 Drury Mills, Saggart",Dublin,229074.0,Yes,Saggart,Co. Dublin,q3,60%
+14/10/2016,"20 Slade Castle Court, Saggart, Co Dublin",Dublin,130396.0,Yes,Saggart,Co. Dublin,q1,10%
+14/10/2016,"69 Slade Castle Ave, Saggart, Co.Dublin",Dublin,127753.0,Yes,Saggart,Co. Dublin,q1,10%
+17/10/2016,"17 Drury Mills, Saggart",Dublin,295154.18,Yes,Saggart,Co. Dublin,q4,90%
+18/10/2016,"41 Drury Mills, Saggart",Dublin,264227.64,Yes,Saggart,Co. Dublin,q3,70%
+19/10/2016,"42 Belfry Sq, Citywest, Saggart Dublin 24",Dublin,235000.0,No,Saggart,Co. Dublin,q3,60%
+24/10/2016,"Churchview, Saggart, Dublin",Dublin,337000.0,No,Saggart,Co. Dublin,q4,100%
+03/11/2016,"41 Pairc Mhuire, Saggart, Dublin",Dublin,210000.0,No,Saggart,Co. Dublin,q2,50%
+04/11/2016,"26 Carrigmore Meadows, Saggart, Dublin",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+09/11/2016,"Apt 4, The Sacratassagard Green, Saggart",Dublin,238000.0,No,Saggart,Co. Dublin,q3,60%
+11/11/2016,"21 Carrigmore Avenue, Saggart, Co. Dublin",Dublin,350000.0,No,Saggart,Co. Dublin,q4,100%
+11/11/2016,"52 Drury Mills, Saggart, County Dublin",Dublin,321586.0,Yes,Saggart,Co. Dublin,q4,90%
+24/11/2016,"49 Drury Mills, Saggart",Dublin,295418.0,Yes,Saggart,Co. Dublin,q4,90%
+25/11/2016,"15 Mill Race Cresent, Saggart, Dublin",Dublin,220000.0,No,Saggart,Co. Dublin,q2,50%
+28/11/2016,"Apartment 28, Saggart Lodge Court, Saggart",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+07/12/2016,"22 Slade Castle Walk, Saggart, Dublin",Dublin,180000.0,No,Saggart,Co. Dublin,q2,30%
+07/12/2016,"4 Mill Rd, Saggart, Dublin",Dublin,340000.0,No,Saggart,Co. Dublin,q4,100%
+13/12/2016,"46 Drury Mills, Saggart, Co. Dublin",Dublin,320000.0,Yes,Saggart,Co. Dublin,q4,90%
+14/12/2016,"12 Corbally Way, Westbrook Lawns, Saggart",Dublin,281000.0,No,Saggart,Co. Dublin,q4,80%
+14/12/2016,"5 Millrace Green, Saggart, Co Dublin",Dublin,175000.0,No,Saggart,Co. Dublin,q2,30%
+15/12/2016,"Apt 10 The, Tassagard Greens, Saggart",Dublin,285000.0,No,Saggart,Co. Dublin,q4,80%
+16/12/2016,"25 Slade Castle Ave, Saggart, Dublin",Dublin,193000.0,No,Saggart,Co. Dublin,q2,40%
+16/12/2016,"28 Drury Mills, Saggart",Dublin,312775.0,Yes,Saggart,Co. Dublin,q4,90%
+16/12/2016,"47 Drury Mills, Saggart, County Dublin",Dublin,265000.0,Yes,Saggart,Co. Dublin,q3,70%
+19/12/2016,"48 Drury Mills, Saggart",Dublin,237885.46,Yes,Saggart,Co. Dublin,q3,60%
+21/12/2016,"12 Carrigmore Green, Fortunestown Lane, Saggart",Dublin,155000.0,No,Saggart,Co. Dublin,q1,20%
+23/12/2016,"11 Carrigmore Place, Saggart, Co Dublin",Dublin,160000.0,No,Saggart,Co. Dublin,q1,20%
+06/01/2017,"140 Carrigmore Crescent, Citywest West, Saggart",Dublin,163000.0,No,Saggart,Co. Dublin,q1,30%
+17/01/2017,"2 Carrigmore Manor, Saggart, Dublin 24",Dublin,210000.0,No,Saggart,Co. Dublin,q2,50%
+20/01/2017,"3 Slade Castle View, Saggart, Dublin",Dublin,301000.0,No,Saggart,Co. Dublin,q4,90%
+27/01/2017,"34 Carrigmore Green, Saggart, Co Dublin",Dublin,170000.0,No,Saggart,Co. Dublin,q1,30%
+27/01/2017,"49 Carrigmore Green, Citywest, Saggart",Dublin,233000.0,No,Saggart,Co. Dublin,q3,60%
+30/01/2017,"45 Drury Mills, Saggart, Co Dublin",Dublin,295154.0,Yes,Saggart,Co. Dublin,q4,90%
+02/02/2017,"44  Drury Mills, Saggart, County Dublin",Dublin,295154.18,Yes,Saggart,Co. Dublin,q4,90%
+02/02/2017,"A9 Slade, Tassagard Green, Saggart",Dublin,275000.0,No,Saggart,Co. Dublin,q3,80%
+03/02/2017,"17 Pairc Mhuire, Saggart, Dublin",Dublin,205000.0,No,Saggart,Co. Dublin,q2,50%
+07/02/2017,"40 Drury Mills, Saggart",Dublin,295110.0,Yes,Saggart,Co. Dublin,q4,90%
+10/02/2017,"43 Drury Mills, Saggart",Dublin,303964.75,Yes,Saggart,Co. Dublin,q4,90%
+24/02/2017,"16 Millrace Court, Saggart, Dublin",Dublin,185000.0,No,Saggart,Co. Dublin,q2,30%
+28/02/2017,"14 Drury Mills, Saggart, Dublin",Dublin,316000.0,No,Saggart,Co. Dublin,q4,90%
+28/02/2017,"4 Millrace Park, Saggart, County Dublin",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+02/03/2017,"48 Corbally Heath, Saggart, Dublin",Dublin,280000.0,No,Saggart,Co. Dublin,q4,80%
+02/03/2017,"Sexton Cottage, Main St, Saggart",Dublin,170000.0,No,Saggart,Co. Dublin,q1,30%
+06/03/2017,"Suite 19 Coldwater Lakes Suites, Citywest, Saggart",Dublin,155000.0,No,Saggart,Co. Dublin,q1,20%
+15/03/2017,"72 Drury Mills, Saggart, Co Dublin",Dublin,292951.54,Yes,Saggart,Co. Dublin,q4,80%
+24/03/2017,"23 Corbally Vale, Blessington Rd, Saggart",Dublin,276000.0,No,Saggart,Co. Dublin,q3,80%
+31/03/2017,"14 Swiftwood, Garter'S Lane, Saggart",Dublin,380000.0,No,Saggart,Co. Dublin,q4,100%
+31/03/2017,"51 Drury Mills, Saggart",Dublin,299559.47,Yes,Saggart,Co. Dublin,q4,90%
+13/04/2017,"70 Drury Mills, Saggart, County Dublin",Dublin,301718.0,Yes,Saggart,Co. Dublin,q4,90%
+28/04/2017,"25 The Slade, Tassagard Green, Saggart",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+09/05/2017,"75 Slade Castle Ave, Saggart, Dublin",Dublin,162000.0,No,Saggart,Co. Dublin,q1,30%
+15/05/2017,"25 Verschoyle Ave, Saggart Abbey, Saggart",Dublin,337000.0,No,Saggart,Co. Dublin,q4,100%
+18/05/2017,"36 Carrig Court, City West, Saggart",Dublin,227500.0,No,Saggart,Co. Dublin,q3,60%
+22/05/2017,"69 Drury Mills, Saggart",Dublin,316740.0,Yes,Saggart,Co. Dublin,q4,90%
+24/05/2017,"15 Millrace Ave, Saggart, Dublin",Dublin,322000.0,No,Saggart,Co. Dublin,q4,90%
+25/05/2017,"67 Drury Mills, Saggart",Dublin,312775.0,Yes,Saggart,Co. Dublin,q4,90%
+26/05/2017,"Apt 1 Millhouse, Castle Rd, Saggart",Dublin,125000.0,No,Saggart,Co. Dublin,q1,10%
+26/05/2017,"Apt 2 Millhouse, Castle Rd, Saggart",Dublin,125000.0,No,Saggart,Co. Dublin,q1,10%
+26/05/2017,"Apt 3 Millhouse, Castle Rd, Saggart",Dublin,125000.0,No,Saggart,Co. Dublin,q1,10%
+26/05/2017,"Apt 4 Millhouse, Castle Rd, Saggart",Dublin,125000.0,No,Saggart,Co. Dublin,q1,10%
+26/05/2017,"Apt 5 Millhouse, Castle Rd, Saggart",Dublin,125000.0,No,Saggart,Co. Dublin,q1,10%
+26/05/2017,"Apt 6 Millhouse, Castle Rd, Saggart",Dublin,125000.0,No,Saggart,Co. Dublin,q1,10%
+26/05/2017,"Apt 7 Millhouse, Castle Rd, Saggart",Dublin,170000.0,No,Saggart,Co. Dublin,q1,30%
+29/05/2017,"8 Slade Castle Close, Slade Castle, Saggart",Dublin,239000.0,No,Saggart,Co. Dublin,q3,60%
+01/06/2017,"53  Drury Mills, Saggart, Dublin",Dublin,317180.62,Yes,Saggart,Co. Dublin,q4,90%
+02/06/2017,"6 Corbally Park, Westbrook Glen, Saggart",Dublin,297000.0,No,Saggart,Co. Dublin,q4,90%
+06/06/2017,"8 Coldwater Lakes, Saggart, Dublin",Dublin,815000.0,No,Saggart,Co. Dublin,q4,100%
+15/06/2017,"19 Millrace Dr, Saggart, Dublin 24",Dublin,175000.0,No,Saggart,Co. Dublin,q2,30%
+16/06/2017,"71 Drury Mills, Saggart",Dublin,290748.89,Yes,Saggart,Co. Dublin,q4,80%
+20/06/2017,"50 Drury Mills, Saggart",Dublin,299560.0,Yes,Saggart,Co. Dublin,q4,90%
+22/06/2017,"16 Carrigmore Close, Fortunestown Lane, Saggart",Dublin,331000.0,No,Saggart,Co. Dublin,q4,100%
+26/06/2017,"83 Carrig Court, Fortunestown Lane, Saggart",Dublin,210000.0,No,Saggart,Co. Dublin,q2,50%
+04/07/2017,"17 Millrace Green, Saggart, Dublin",Dublin,192000.0,No,Saggart,Co. Dublin,q2,40%
+07/07/2017,"10 Carrigmore Oak, Citywest, Saggart",Dublin,249950.0,No,Saggart,Co. Dublin,q3,70%
+11/07/2017,"36 Belfry Gardens, Citywest, Saggart Dublin 24",Dublin,174000.0,No,Saggart,Co. Dublin,q2,30%
+14/07/2017,"12 Carrig Court, Fortunestown Ln, Saggart",Dublin,207000.0,No,Saggart,Co. Dublin,q2,50%
+18/07/2017,"1 Corbally Close, Westbrook Lawns, Saggart",Dublin,300000.0,No,Saggart,Co. Dublin,q4,90%
+18/07/2017,"26 Slade Castle Avenue, Saggart, Co. Dublin",Dublin,232000.0,No,Saggart,Co. Dublin,q3,60%
+24/07/2017,"Leerobra House, Verschoyles Hill, Saggart",Dublin,850000.0,No,Saggart,Co. Dublin,q4,100%
+26/07/2017,"10 Millrace Park, Saggart, Dublin",Dublin,253112.0,No,Saggart,Co. Dublin,q3,70%
+18/08/2017,"37 Carrigmore Crescent, Saggart, Dublin",Dublin,197000.0,No,Saggart,Co. Dublin,q2,40%
+21/08/2017,"160 Carrigmore, Crescent Citywest, Saggart Dublin",Dublin,192000.0,No,Saggart,Co. Dublin,q2,40%
+21/08/2017,"60 Slade Castle Ave, Boherboy, Saggart",Dublin,275000.0,No,Saggart,Co. Dublin,q3,80%
+23/08/2017,"Johnville, Blessington Road, Saggart",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+25/08/2017,"21 Carrigmore Lawns, Saggart, Dublin",Dublin,260000.0,No,Saggart,Co. Dublin,q3,70%
+29/08/2017,"24 Millrace Ave, Saggart, Dublin",Dublin,266500.0,No,Saggart,Co. Dublin,q3,80%
+14/09/2017,"33 Slade Castle Walk, Saggart, Dublin",Dublin,248000.0,No,Saggart,Co. Dublin,q3,70%
+15/09/2017,"19 Carrigmore Ave, Saggart, Dublin 24",Dublin,346000.0,No,Saggart,Co. Dublin,q4,100%
+18/09/2017,"26 Spring Bank, Saggart, Dublin",Dublin,338000.0,No,Saggart,Co. Dublin,q4,100%
+22/09/2017,"49 The Swift, Tassaggart Green, Saggart",Dublin,255000.0,No,Saggart,Co. Dublin,q3,70%
+26/09/2017,"13 Millrace Green, Saggart, Dublin",Dublin,191000.0,No,Saggart,Co. Dublin,q2,40%
+26/09/2017,"86 Carrigmore Crescent, Citywest, Saggart Dublin 24",Dublin,205000.0,No,Saggart,Co. Dublin,q2,50%
+28/09/2017,"30 Carrigmore Elms, Citywest, Saggart",Dublin,237000.0,No,Saggart,Co. Dublin,q3,60%
+29/09/2017,"219 Swiftwood, Garters Lane, Saggart",Dublin,210000.0,No,Saggart,Co. Dublin,q2,50%
+03/10/2017,"45 Carrigmore Green, Carrigmore, Saggart",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+04/10/2017,"54 Drury Mills, Saggart",Dublin,297356.82,Yes,Saggart,Co. Dublin,q4,90%
+11/10/2017,"8 The Slade, Tassagart Green, Saggart",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+18/10/2017,"30 Springbank, Saggart, Dublin",Dublin,267000.0,No,Saggart,Co. Dublin,q3,80%
+18/10/2017,"7 Millrace Court, Saggart, Dublin",Dublin,295000.0,No,Saggart,Co. Dublin,q4,90%
+20/10/2017,"112 Belfry Hall, Citywest, Saggart Dublin 24",Dublin,208000.0,No,Saggart,Co. Dublin,q2,50%
+25/10/2017,"21 Mill Race Dr, Saggart, Dublin",Dublin,257000.0,No,Saggart,Co. Dublin,q3,70%
+27/10/2017,"10 Saggart Lodge, Saggart",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+02/11/2017,"58 Belfry Sq, Blessington Rd Saggart, Dublin 24",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+06/11/2017,"37 Millrace Ave, Saggart, Dublin",Dublin,280000.0,No,Saggart,Co. Dublin,q4,80%
+14/11/2017,"Suite 25, Coldwater Lakes, Saggart",Dublin,130000.0,No,Saggart,Co. Dublin,q1,10%
+16/11/2017,"11 Carrigmore Oak, Citywest, Saggart",Dublin,218000.0,No,Saggart,Co. Dublin,q2,50%
+20/11/2017,"19 Millrace Park, Saggart, Dublin",Dublin,271000.0,No,Saggart,Co. Dublin,q3,80%
+22/11/2017,"1 Fairgreen, Saggart, Dublin",Dublin,455000.0,No,Saggart,Co. Dublin,q4,100%
+12/12/2017,"16A Springbank, Saggart, Dublin",Dublin,305000.0,No,Saggart,Co. Dublin,q4,90%
+14/12/2017,"2 Fairgren, Saggart, Dublin",Dublin,486000.0,No,Saggart,Co. Dublin,q4,100%
+18/12/2017,"1 Verschoyle Ave, Saggart Abbey Saggart, Dublin",Dublin,383000.0,No,Saggart,Co. Dublin,q4,100%
+20/12/2017,"120 Swift Wood, Saggart, Dublin",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+21/12/2017,"220 Swiftwood, Citywest, Saggart",Dublin,240101.0,No,Saggart,Co. Dublin,q3,70%
+05/01/2018,"16 Springbank, Saggart, Dublin",Dublin,320000.0,No,Saggart,Co. Dublin,q4,90%
+09/01/2018,"2 Millrace Walk, Saggart, Dublin",Dublin,275000.0,No,Saggart,Co. Dublin,q3,80%
+15/01/2018,"52 Saggart Lodge Court, Garters Lane, Saggart",Dublin,305000.0,No,Saggart,Co. Dublin,q4,90%
+18/01/2018,"30 Slade Castle Avenue, Saggart, County Dublin",Dublin,217000.0,No,Saggart,Co. Dublin,q2,50%
+23/01/2018,"6 Carrigmore Oak, Citywest, Saggart",Dublin,257000.0,No,Saggart,Co. Dublin,q3,70%
+26/01/2018,"49 Carrigmore Crescent, Citywest, Saggart",Dublin,160000.0,No,Saggart,Co. Dublin,q1,20%
+26/01/2018,"7 Carrigmore Downs, Saggart, Dublin",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+07/02/2018,"2 Carrigmore Dale, Saggart, Co Dublin",Dublin,355000.0,No,Saggart,Co. Dublin,q4,100%
+16/02/2018,"23 Carrigmore Gardens, Fortunestown Lane, Saggart",Dublin,252000.0,No,Saggart,Co. Dublin,q3,70%
+19/02/2018,"3 Slade Castle Ave, Saggart, Dublin",Dublin,305000.0,No,Saggart,Co. Dublin,q4,90%
+20/02/2018,"29 Golf Suites - Hotel Suite 8, Block 1 Coldwater Lake Suite, Citywest  Saggart",Dublin,187000.0,No,Saggart,Co. Dublin,q2,40%
+22/02/2018,"22 Slade Castle Avenue, Saggart, County Dublin",Dublin,236000.0,No,Saggart,Co. Dublin,q3,60%
+22/02/2018,"Alverna House, Saggart, Dublin",Dublin,204000.0,No,Saggart,Co. Dublin,q2,40%
+22/02/2018,"Apt 33 The Swift, Saggart, Tassagard Green",Dublin,230000.0,No,Saggart,Co. Dublin,q3,60%
+09/03/2018,"4 Millrace Park, Saggart, County Dublin",Dublin,269293.23,No,Saggart,Co. Dublin,q3,80%
+09/03/2018,"5 The Swift, Tassagard Green, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+13/03/2018,"33 Coldwater Lakes Suites, Citywest, Saggart",Dublin,160000.0,No,Saggart,Co. Dublin,q1,20%
+16/03/2018,"106 Carrig Court, Saggart, Dublin",Dublin,210000.0,No,Saggart,Co. Dublin,q2,50%
+20/03/2018,"107 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"109 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"115 Swiftwood, Garters Lane, Saggart",Dublin,202643.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"116 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"2 Swiftwood, Garters Lane, Saggart",Dublin,310572.0,No,Saggart,Co. Dublin,q4,90%
+20/03/2018,"205 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"206 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"217 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"218 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"301 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"302 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"303 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"309 Swiftwood, City West, Saggart",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"312 Swiftwood, Garters Lane, Saggart",Dublin,260541.0,No,Saggart,Co. Dublin,q3,70%
+20/03/2018,"313 Swiftwood, Garters Lane, Saggart",Dublin,273646.0,No,Saggart,Co. Dublin,q3,80%
+20/03/2018,"314 Swiftwood, Garters Lane, Saggart",Dublin,267841.0,No,Saggart,Co. Dublin,q3,80%
+20/03/2018,"315 Swiftwood, Garters Lane, Saggart",Dublin,199015.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"317 Swiftwood, Garters Lane, Saggart",Dublin,185022.0,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"318 Swiftwood, Garters Lane, Saggart",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"320 Swiftwood, Garters Lane, Saggart",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"403 Swiftwood, Garters Lane, Saggart",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"415 Swiftwood, Garters Lane, Saggart",Dublin,211453.74,No,Saggart,Co. Dublin,q2,50%
+20/03/2018,"417 Swiftwood, Garters Lane, Saggart",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"418 Swiftwood, Garters Lane, Saggart",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"419 Swiftwood, Garters Lane, Saggart",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"420 Swiftwood, Garters Lane, Saggart",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"501 Swiftwood, Garters Lane, Saggart",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"506 Swiftwood, Saggart, Co Dublin",Dublin,207048.46,No,Saggart,Co. Dublin,q2,50%
+20/03/2018,"507 Swiftwood, Saggart, Co Dublin",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"508 Swiftwood, Saggart, Co Dublin",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"9 Swiftwood, Garters Lane, Saggart",Dublin,317180.0,No,Saggart,Co. Dublin,q4,90%
+20/03/2018,"Apt 310 Swiftwood, Saggart, Dublin",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"Apt 401 Swiftwood Development, Saggart, Co Dublin",Dublin,185022.03,No,Saggart,Co. Dublin,q2,40%
+20/03/2018,"Apt 505 Swiftwood Development, Saggart, Co Dublin",Dublin,207048.46,No,Saggart,Co. Dublin,q2,50%
+23/03/2018,"28 Verschoyle Dr, Saggart Abbey, Saggart",Dublin,350000.0,No,Saggart,Co. Dublin,q4,100%
+28/03/2018,"Meegans Farmhouse, Meegans Lane, Saggart",Dublin,200000.0,No,Saggart,Co. Dublin,q2,40%
+27/04/2018,"39 Slade Castle Ave, Saggart, Dublin",Dublin,110000.0,No,Saggart,Co. Dublin,q1,10%
+18/05/2018,"10 Springbank, Saggart, Dublin",Dublin,278000.0,No,Saggart,Co. Dublin,q4,80%
+18/05/2018,"148 Carrigmore Crescent, Citywest, Saggart",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+18/05/2018,"5 Millrace Gardens, Saggart, Dublin",Dublin,230000.0,No,Saggart,Co. Dublin,q3,60%
+23/05/2018,"15 Millrace Park, Saggart, Dublin",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+23/05/2018,"43 Carrigmore Green, Citywest, Saggart",Dublin,265000.0,No,Saggart,Co. Dublin,q3,70%
+25/05/2018,"54 Saggart Lodge Court, Saggart, Dublin",Dublin,269000.0,No,Saggart,Co. Dublin,q3,80%
+28/05/2018,"The Slade, Saggart, Slade",Dublin,446000.0,No,Saggart,Co. Dublin,q4,100%
+31/05/2018,"25 Slade Castle Walk, Saggart, Dublin",Dublin,170000.0,No,Saggart,Co. Dublin,q1,30%
+05/06/2018,"57 Drury Mills, Saggart, County Dublin",Dublin,317180.61,Yes,Saggart,Co. Dublin,q4,90%
+07/06/2018,"53 Saggart Lodge Court, Saggart, Dublin",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+15/06/2018,"56 Drury Mills, Saggart",Dublin,365638.0,Yes,Saggart,Co. Dublin,q4,100%
+21/06/2018,"59 Drury Mills, Saggart",Dublin,303964.0,Yes,Saggart,Co. Dublin,q4,90%
+22/06/2018,"44 Pairc Mhuire, Saggart, Dublin",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+29/06/2018,"55 Drury Mills, Saggart",Dublin,361233.48,Yes,Saggart,Co. Dublin,q4,100%
+02/07/2018,"3 Millrace Ave, Saggart, Dublin",Dublin,263500.0,No,Saggart,Co. Dublin,q3,70%
+06/07/2018,"17 Carrigmore Elms, Saggart, Dublin",Dublin,325000.0,No,Saggart,Co. Dublin,q4,90%
+12/07/2018,"3 The Old School House, Saggart, Dublin",Dublin,157000.0,No,Saggart,Co. Dublin,q1,20%
+13/07/2018,"58 Drury Mills, Saggart, Co. Dublin",Dublin,383259.91,Yes,Saggart,Co. Dublin,q4,100%
+17/07/2018,"21 Pairc Mhuire, Saggart, Dublin",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+20/07/2018,"16 Slade Castle View, Saggart, Dublin",Dublin,185000.0,No,Saggart,Co. Dublin,q2,30%
+23/07/2018,"13 Carrigmore Lawns, Saggart, Dublin",Dublin,277000.0,No,Saggart,Co. Dublin,q4,80%
+30/07/2018,"20 Drury Mills, Saggart, Co. Dublin",Dublin,350000.0,No,Saggart,Co. Dublin,q4,100%
+31/07/2018,"19B Springbank, Saggart, Dublin",Dublin,390000.0,No,Saggart,Co. Dublin,q4,100%
+02/08/2018,"27 Coldwater Lakes, Saggart, Co Dublin",Dublin,500000.0,Yes,Saggart,Co. Dublin,q4,100%
+02/08/2018,"8 Browns Barn Court, Brownsbarn, Saggart",Dublin,115000.0,No,Saggart,Co. Dublin,q1,10%
+13/08/2018,"39 Carrigmore Lawns, City West, Saggart",Dublin,207000.0,No,Saggart,Co. Dublin,q2,50%
+13/08/2018,"Suite 21 (Apt 7), Coldwater Golf Suites, Garters  Lane Saggart",Dublin,166000.0,No,Saggart,Co. Dublin,q1,30%
+14/08/2018,"8 Millrace View, Saggart, Co Dublin",Dublin,211000.0,No,Saggart,Co. Dublin,q2,50%
+17/08/2018,"9 Saggart Lakes, Citywest, Dublin",Dublin,825000.0,No,Saggart,Co. Dublin,q4,100%
+20/08/2018,"10 Carrigmore Way, Fortunestoewn Lane, Saggart",Dublin,235000.0,No,Saggart,Co. Dublin,q3,60%
+24/08/2018,"15 Verschoyle Ave, Saggart Abbey, Citywest West",Dublin,297500.0,No,Saggart,Co. Dublin,q4,90%
+29/08/2018,"10 Fair Green, Saggart, Dublin",Dublin,500000.0,No,Saggart,Co. Dublin,q4,100%
+29/08/2018,"33 Millrace Court, Saggart, Dublin",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+30/08/2018,"12 Corbally Rise, Saggart Abbey, Citywest West Dublin 24",Dublin,317500.0,No,Saggart,Co. Dublin,q4,90%
+31/08/2018,"13 Millrace Garden, Saggart, Dublin",Dublin,255000.0,No,Saggart,Co. Dublin,q3,70%
+13/09/2018,"133 Carrigmore Crescent, Citywest, Saggart",Dublin,243000.0,No,Saggart,Co. Dublin,q3,70%
+24/09/2018,"29 Carrigmore Oaks, Saggart, Dublin",Dublin,256000.0,No,Saggart,Co. Dublin,q3,70%
+25/09/2018,"23 Millrace Green, Saggart, Dublin",Dublin,245000.0,No,Saggart,Co. Dublin,q3,70%
+27/09/2018,"11 Drury Mills, Saggart, Co. Dublin",Dublin,354000.0,No,Saggart,Co. Dublin,q4,100%
+27/09/2018,"42 Carrigmore Green, Citywest, Saggart",Dublin,226000.0,No,Saggart,Co. Dublin,q3,60%
+01/10/2018,"24 Carrigmore Grove, Citywest, Saggart",Dublin,216500.0,No,Saggart,Co. Dublin,q2,50%
+10/10/2018,"31 Slade Castle Court, Saggart, Dublin",Dublin,170000.0,No,Saggart,Co. Dublin,q1,30%
+11/10/2018,"29 Millrace Court, Saggart, Dublin",Dublin,273000.0,No,Saggart,Co. Dublin,q3,80%
+11/10/2018,"59 Carrig Court, Citywest, Saggart",Dublin,230000.0,No,Saggart,Co. Dublin,q3,60%
+12/10/2018,"12 Slade Castle Wood, Saggart, Dublin",Dublin,310000.0,No,Saggart,Co. Dublin,q4,90%
+12/10/2018,"31 Carrigmore Lawns, Carrigmore Domain, Saggart",Dublin,224000.0,No,Saggart,Co. Dublin,q2,50%
+15/10/2018,"18 Carrigmore Green, Saggart, Dublin",Dublin,355000.0,No,Saggart,Co. Dublin,q4,100%
+17/10/2018,"15 Carrigmore Elms, Saggart, Dublin",Dublin,312000.0,No,Saggart,Co. Dublin,q4,90%
+17/10/2018,"18 Mill Race Court, Saggart, Dublin",Dublin,275000.0,No,Saggart,Co. Dublin,q3,80%
+17/10/2018,"83 Drury Mills, Castle Road, Saggart",Dublin,251100.0,Yes,Saggart,Co. Dublin,q3,70%
+19/10/2018,"8 Carrigmore Close, Saggart, Co Dublin",Dublin,436000.0,No,Saggart,Co. Dublin,q4,100%
+19/10/2018,"82  Drury Mills, Saggart, Co Dublin",Dublin,233480.0,Yes,Saggart,Co. Dublin,q3,60%
+22/10/2018,"19  The Swift, Tassaggard Green, Saggart",Dublin,225000.0,Yes,Saggart,Co. Dublin,q3,60%
+23/10/2018,"13 Carrigmore Way, Saggart, Citywest Dublin 24",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+25/10/2018,"4 Carrig Court, Fortunestown Lane, Saggart",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+25/10/2018,"Apt. 78 Drury Mills, Saggart",Dublin,233481.0,Yes,Saggart,Co. Dublin,q3,60%
+26/10/2018,"8 Verschoyle Park, Saggart, Dublin",Dublin,320000.0,No,Saggart,Co. Dublin,q4,90%
+31/10/2018,"75 Drury Mills, Saggart",Dublin,224670.0,Yes,Saggart,Co. Dublin,q3,60%
+01/11/2018,"79 Drury Mills, Saggart, Co. Dublin",Dublin,220264.31,Yes,Saggart,Co. Dublin,q2,50%
+09/11/2018,"19 Drury Mills, Saggart, Dublin",Dublin,407000.0,No,Saggart,Co. Dublin,q4,100%
+15/11/2018,"17 Carrigmore Terrace, Saggart, Dublin",Dublin,310000.0,No,Saggart,Co. Dublin,q4,90%
+15/11/2018,"22 Saggart Lodge Court, Saggart, Dublin",Dublin,275000.0,No,Saggart,Co. Dublin,q3,80%
+15/11/2018,"49 Drury Mills, Saggart, Dublin",Dublin,383000.0,No,Saggart,Co. Dublin,q4,100%
+16/11/2018,"4 Carrigmore Oak, Saggart, Dublin",Dublin,255000.0,No,Saggart,Co. Dublin,q3,70%
+16/11/2018,"Apt 77  Apt Block A, Drury Mlls, Saggart",Dublin,255000.0,No,Saggart,Co. Dublin,q3,70%
+19/11/2018,"41 Verschoyle Park, Citywest, Saggart",Dublin,330000.0,No,Saggart,Co. Dublin,q4,100%
+22/11/2018,"73 Drury Mills, Saggart",Dublin,224700.0,Yes,Saggart,Co. Dublin,q3,60%
+23/11/2018,"1 Millrace Park, Saggart, Dublin",Dublin,308000.0,No,Saggart,Co. Dublin,q4,90%
+23/11/2018,"4 Verschoyle Close, Saggart Abbey, Citywest Rd",Dublin,348000.0,No,Saggart,Co. Dublin,q4,100%
+23/11/2018,"Apartment 16, Saggart Lodge Court, Saggart",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+28/11/2018,"76 Drury Mills, Saggart, Dublin 24",Dublin,233480.0,Yes,Saggart,Co. Dublin,q3,60%
+29/11/2018,"64 Crosforge, Saggart, Dublin",Dublin,331000.0,No,Saggart,Co. Dublin,q4,100%
+30/11/2018,"17 Carrigmore Manor, Saggart, Dublin",Dublin,271000.0,No,Saggart,Co. Dublin,q3,80%
+30/11/2018,"9 Millrace Green, Saggart, Dublin",Dublin,212000.0,No,Saggart,Co. Dublin,q2,50%
+06/12/2018,"119 Carrig Court, Fortunestown Lane, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+07/12/2018,"134 Carrigmore Crescent, Citywest, Saggart",Dublin,268000.0,No,Saggart,Co. Dublin,q3,80%
+11/12/2018,"141 Carrig Court, Fortunestown Lane, Saggart",Dublin,228000.0,No,Saggart,Co. Dublin,q3,60%
+11/12/2018,"81 Carrigmore Crescent, Citywest, Saggart Dublin 24",Dublin,205000.0,No,Saggart,Co. Dublin,q2,50%
+12/12/2018,"6 Millrace Gardens, Saggart, Dublin24",Dublin,280000.0,No,Saggart,Co. Dublin,q4,80%
+13/12/2018,"15 Carrigmore Cresent, Fortunestown Lane, Saggart",Dublin,174000.0,No,Saggart,Co. Dublin,q2,30%
+17/12/2018,"74 Drury Mills, Saggart",Dublin,237885.0,Yes,Saggart,Co. Dublin,q3,60%
+18/12/2018,"30 Belfry Gardens, Citywest, Saggart",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+20/12/2018,"4 Mill Race Ave, Saggart, Dublin 24",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+20/12/2018,"5 Verschoyle Park, Saggart Abbey, Saggart",Dublin,330000.0,No,Saggart,Co. Dublin,q4,100%
+06/01/2019,"2 Carrigmore Oak, Citywest, Saggart",Dublin,310000.0,No,Saggart,Co. Dublin,q4,90%
+14/01/2019,"29 Crosforge, Saggart, Co Dublin",Dublin,325000.0,No,Saggart,Co. Dublin,q4,90%
+25/01/2019,"131 Carrigmore Crescent, Citywest, Saggart",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+25/01/2019,"9 Corbally Dr, Westbrook Lawns, Saggart",Dublin,335000.0,No,Saggart,Co. Dublin,q4,100%
+28/01/2019,"30 Saggart Lodge Court, Garters Lane, Saggart",Dublin,279500.0,No,Saggart,Co. Dublin,q4,80%
+04/02/2019,"6 Crosforge Close, Crosforge, Saggart",Dublin,370000.0,No,Saggart,Co. Dublin,q4,100%
+05/02/2019,"29 Slade Castle Ave, Saggart, Dublin",Dublin,224000.0,No,Saggart,Co. Dublin,q2,50%
+06/02/2019,"44A Pairc Mhuire, Saggart, Dublin",Dublin,275000.0,No,Saggart,Co. Dublin,q3,80%
+08/02/2019,"46 Fortune Walk, Citywest, Saggart",Dublin,150000.0,No,Saggart,Co. Dublin,q1,20%
+11/02/2019,"17 Carrigmore Oak, Saggart, Dublin",Dublin,265000.0,No,Saggart,Co. Dublin,q3,70%
+13/02/2019,"11 Millrace Walk, Saggart, Dublin",Dublin,237000.0,No,Saggart,Co. Dublin,q3,60%
+14/02/2019,"46 Carrigmore Gardens, Fortunestown Lane, Saggart",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+15/02/2019,"2 Carrigmore Place, Saggart, Co Dublin",Dublin,307000.0,No,Saggart,Co. Dublin,q4,90%
+22/02/2019,"25 Millrace Crescent, Saggart, Dublin",Dublin,203000.0,No,Saggart,Co. Dublin,q2,40%
+01/03/2019,"29 Verschoyle Glen, Saggart Abbey, Saggart",Dublin,352500.0,No,Saggart,Co. Dublin,q4,100%
+04/03/2019,"Apt 2 The Coldwater Lake Suites, Saggart, Co Dublin",Dublin,164000.0,No,Saggart,Co. Dublin,q1,30%
+07/03/2019,"Caragh, Saggart, Dublin",Dublin,352500.0,No,Saggart,Co. Dublin,q4,100%
+11/03/2019,"137 Carrigmore Crescent, Saggart, Dublin",Dublin,203000.0,No,Saggart,Co. Dublin,q2,40%
+13/03/2019,"27 Carrigmore Lawns, Saggart, Dublin",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+22/03/2019,"32 Pairc Mhuire, Saggart, Dublin",Dublin,120000.0,No,Saggart,Co. Dublin,q1,10%
+04/04/2019,"57 Carrigmore Lawns, Saggart, Dublin",Dublin,256000.0,No,Saggart,Co. Dublin,q3,70%
+05/04/2019,"44 Corbally Heath, Westbrook Glen, Saggart",Dublin,295000.0,No,Saggart,Co. Dublin,q4,90%
+16/04/2019,"51 Slade Castle Court, Saggart, Co.Dublin",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+29/04/2019,"49 Carrig Court, Saggart, Dublin",Dublin,220000.0,No,Saggart,Co. Dublin,q2,50%
+30/04/2019,"Apt 68 James Harold Suites, Citywest, Saggart Dublin 24",Dublin,246428.57,No,Saggart,Co. Dublin,q3,70%
+10/05/2019,"153 Carrigmore Crescent, Citywest, Saggart",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+15/05/2019,"Townhouse 8, Saggart Lodge Court, Saggart",Dublin,510000.0,No,Saggart,Co. Dublin,q4,100%
+21/05/2019,"21 Millrace Green, Saggart, Dublin",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+22/05/2019,"59 Slade Castle Ave, Saggart, Dublin",Dublin,220000.0,No,Saggart,Co. Dublin,q2,50%
+24/05/2019,"39 Carrigmore Oak Citywest, Saggart, Dublin",Dublin,218000.0,No,Saggart,Co. Dublin,q2,50%
+24/05/2019,"Schools Rd, Saggart, Dublin",Dublin,355000.0,No,Saggart,Co. Dublin,q4,100%
+24/05/2019,"The Lugg, Saggart, Dublin",Dublin,325000.0,No,Saggart,Co. Dublin,q4,90%
+27/05/2019,"14 Slade Castle Walk, Saggart, Dublin",Dublin,275000.0,No,Saggart,Co. Dublin,q3,80%
+29/05/2019,"3 Saggart Lakes, Saggart, Dublin",Dublin,800000.0,No,Saggart,Co. Dublin,q4,100%
+29/05/2019,"Apartment 25, Saggart Lodge Court, Saggart",Dublin,335000.0,No,Saggart,Co. Dublin,q4,100%
+06/06/2019,"37 Millrace Dr, Saggart, Dublin",Dublin,270000.0,No,Saggart,Co. Dublin,q3,80%
+10/06/2019,"65 Carrigmore Lawns, Citywest West, Saggart",Dublin,290000.0,No,Saggart,Co. Dublin,q4,80%
+11/06/2019,"Apt 22 The Slade, Tassagard Green, Saggart",Dublin,234000.0,No,Saggart,Co. Dublin,q3,60%
+12/06/2019,"2 Corbally Ave, Westbrook Lawns, Saggart",Dublin,295000.0,No,Saggart,Co. Dublin,q4,90%
+12/06/2019,"25 Carrigmore Gardens, Saggart, Dublin",Dublin,255000.0,No,Saggart,Co. Dublin,q3,70%
+14/06/2019,"9 Mill Race Crescent, Saggart, Dublin",Dublin,225000.0,No,Saggart,Co. Dublin,q3,60%
+18/06/2019,"39 Drury Mills, Saggart, Co. Dublin",Dublin,377000.0,No,Saggart,Co. Dublin,q4,100%
+25/06/2019,"51 Belfry Crescent, Citywest, Saggart Dublin 24",Dublin,252000.0,No,Saggart,Co. Dublin,q3,70%
+26/06/2019,"12 Millrace Walk, Saggart, Dublin",Dublin,272500.0,No,Saggart,Co. Dublin,q3,80%
+27/06/2019,"15 Cuill Duin Lawn, Cuill Duin, Saggart",Dublin,290749.0,Yes,Saggart,Co. Dublin,q4,80%
+27/06/2019,"46 Verschoyle Park, Saggart Abbey, Saggart",Dublin,327500.0,No,Saggart,Co. Dublin,q4,100%
+28/06/2019,"Unit 18 Coldwater Lakes, Citywest, Saggart",Dublin,165000.0,No,Saggart,Co. Dublin,q1,30%
+01/07/2019,"10 Carrigmore Dale, Citywest, Saggart",Dublin,367000.0,No,Saggart,Co. Dublin,q4,100%
+02/07/2019,"Suite 12 Westpark, City West, Saggart",Dublin,162000.0,No,Saggart,Co. Dublin,q1,30%
+03/07/2019,"11 Slade Castle Walk, Saggart, Co Dublin",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+09/07/2019,"10 Verschoyle Vale, Saggart Abbey, Saggart",Dublin,295000.0,No,Saggart,Co. Dublin,q4,90%
+10/07/2019,"11 Millrace Park, Saggart, Dublin 24",Dublin,275000.0,No,Saggart,Co. Dublin,q3,80%
+10/07/2019,"19 Slade Castle Ave, Saggart, Dublin",Dublin,277000.0,No,Saggart,Co. Dublin,q4,80%
+10/07/2019,"69 Crosforge, Saggart, Co Dublin",Dublin,390000.0,No,Saggart,Co. Dublin,q4,100%
+12/07/2019,"48 Carrigmore Green, City West, Saggart",Dublin,212500.0,No,Saggart,Co. Dublin,q2,50%
+19/07/2019,"96 Slade Castle Ave, Saggart, Co Dublin",Dublin,215000.0,No,Saggart,Co. Dublin,q2,50%
+24/07/2019,"27 Verschoyle Crescent, Saggart Abbey, Citywest",Dublin,350000.0,No,Saggart,Co. Dublin,q4,100%
+29/07/2019,"22 Slade Castle Walk, Saggart, Dublin 24",Dublin,240000.0,No,Saggart,Co. Dublin,q3,60%
+01/08/2019,"19 Carrigmore Grove, Citywest, Saggart",Dublin,325000.0,No,Saggart,Co. Dublin,q4,90%
+08/08/2019,"8 Carrigmore Place, Fortunestown Lane, Saggart",Dublin,325000.0,No,Saggart,Co. Dublin,q4,90%
+13/08/2019,"10 Verschoyle Heights, Saggart, Dublin 24",Dublin,295000.0,No,Saggart,Co. Dublin,q4,90%
+14/08/2019,"3 Verschoyle Green, Saggart, Dublin",Dublin,305000.0,No,Saggart,Co. Dublin,q4,90%
+15/08/2019,"1 Millrace View, Saggart, Dublin",Dublin,180000.0,No,Saggart,Co. Dublin,q2,30%
+22/08/2019,"19 Carrigmore Glen, Saggart, Co Dublin",Dublin,350000.0,No,Saggart,Co. Dublin,q4,100%
+23/08/2019,"12 Slade Castle Ave, Saggart, Dublin",Dublin,280000.0,No,Saggart,Co. Dublin,q4,80%
+29/08/2019,"32 Carrigmore Green, Citywest, Saggart",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+30/08/2019,"50 Carrigmore Ave, Fortunestown Lane, Saggart",Dublin,380000.0,No,Saggart,Co. Dublin,q4,100%
+10/09/2019,"6 Corbally Sq, Westbrook Glen, Saggart",Dublin,315000.0,No,Saggart,Co. Dublin,q4,90%
+13/09/2019,"Swift 45 Tassaggard Green, Garters Lane Saggart, Dublin",Dublin,260000.0,No,Saggart,Co. Dublin,q3,70%
+24/09/2019,"30 Slade Castle Court, Saggart, Co Dublin",Dublin,200881.0,Yes,Saggart,Co. Dublin,q2,40%
+26/09/2019,"13 Saggart Lodge, Court, Saggart",Dublin,285000.0,No,Saggart,Co. Dublin,q4,80%
+07/10/2019,"Apartment 319, Swiftwood Development, Saggart",Dublin,250000.0,No,Saggart,Co. Dublin,q3,70%
+24/10/2019,"39 Carrig Court, Fortunestown Lane, Saggart",Dublin,245000.0,No,Saggart,Co. Dublin,q3,70%

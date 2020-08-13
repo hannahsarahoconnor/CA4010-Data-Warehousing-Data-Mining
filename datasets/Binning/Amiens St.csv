@@ -1,0 +1,31 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+12/09/2011,"25 Amiens Square, Amiens Street",Dublin,90000.0,No,Amiens St,Dublin 1,q1,10%
+20/01/2012,"35 Amiens Square, Amiens Street",Dublin,75000.0,No,Amiens St,Dublin 1,q1,10%
+18/11/2014,"Flats 1 - 12, 52 Amiens St, Dublin 1",Dublin,440000.0,No,Amiens St,Dublin 1,q4,100%
+22/12/2014,"53, Amiens Street",Dublin,366398.0,No,Amiens St,Dublin 1,q4,100%
+23/12/2014,"28 Killarney St, Off Amiens St, Dublin 1",Dublin,280000.0,No,Amiens St,Dublin 1,q4,80%
+22/01/2015,"44 Amiens Street, Dublin 1",Dublin,315000.0,No,Amiens St,Dublin 1,q4,90%
+12/06/2015,"Apt 1, 14 Amiens Street, Dublin 1",Dublin,175000.0,No,Amiens St,Dublin 1,q2,40%
+12/06/2015,"Apt 2, 14 Amiens Street, Dublin 1",Dublin,135000.0,No,Amiens St,Dublin 1,q1,20%
+12/06/2015,"Apt 3, 14 Amiens Street, Dublin 1",Dublin,175000.0,No,Amiens St,Dublin 1,q2,40%
+12/06/2015,"Apt 4, 14 Amiens Street, Dublin 1",Dublin,135000.0,No,Amiens St,Dublin 1,q1,20%
+12/06/2015,"Apt 5, 14 Amiens Street, Dublin 1",Dublin,135000.0,No,Amiens St,Dublin 1,q1,20%
+12/06/2015,"Apt 6, 14 Amiens Street, Dublin 1",Dublin,135000.0,No,Amiens St,Dublin 1,q1,30%
+22/09/2015,"21 Amiens Sq, Amiens St, Dublin 1",Dublin,220000.0,No,Amiens St,Dublin 1,q2,50%
+15/10/2015,"5A Frankfort Cottages, Amiens St, Dublin 1",Dublin,165000.0,No,Amiens St,Dublin 1,q2,30%
+16/06/2016,"8A Frankfort Cottages, Off Amiens St, Dublin 1",Dublin,265000.0,No,Amiens St,Dublin 1,q3,70%
+31/10/2016,"Apt 38 Amiens Sq, Amiens St, Dublin 1",Dublin,150000.0,No,Amiens St,Dublin 1,q1,30%
+13/01/2017,"Apartment 1, 53 Amiens Street, Dublin 1",Dublin,276000.0,No,Amiens St,Dublin 1,q4,80%
+14/03/2017,"56 Amiens Street, Dublin 1",Dublin,125000.0,No,Amiens St,Dublin 1,q1,10%
+24/04/2017,"Apt 2, 38 Amiens St, Dublin 1",Dublin,281500.0,No,Amiens St,Dublin 1,q4,90%
+20/09/2017,"Apt 38 Amiens Sq, Amiens St, Dublin 1",Dublin,200000.0,No,Amiens St,Dublin 1,q2,50%
+06/10/2017,"21 Alderborough Court, Five Lamps Amiens St, Fairvlew",Dublin,193500.0,No,Amiens St,Dublin 1,q2,40%
+20/03/2018,"35 Amiens Sq, Amiens St, Dublin City",Dublin,240000.0,No,Amiens St,Dublin 1,q3,60%
+16/08/2018,"Apt 20, Amiens Sq, Amiens St Dublin 1",Dublin,230000.0,No,Amiens St,Dublin 1,q2,50%
+25/09/2018,"6 Hewardine Terrace, Amiens St, Dublin 1",Dublin,260000.0,No,Amiens St,Dublin 1,q3,70%
+30/11/2018,"27 Amiens Sq, Amiens St, Dublin 1",Dublin,261000.0,No,Amiens St,Dublin 1,q3,70%
+19/02/2019,"16 Amiens Sq, Amiens St, Dublin 1",Dublin,270000.0,No,Amiens St,Dublin 1,q3,80%
+22/02/2019,"31 Amiens Sq, Amiens St, Dublin 1",Dublin,250000.0,No,Amiens St,Dublin 1,q3,60%
+01/03/2019,"5 Hewardine Terrace, Amiens St, Dublin 1",Dublin,290000.0,No,Amiens St,Dublin 1,q4,90%
+29/07/2019,"Apt 6 O6, Amiens Sq, Amiens St Dublin 1",Dublin,325000.0,No,Amiens St,Dublin 1,q4,100%
+26/09/2019,"35 Amiens Sq, Amiens St, Dublin City",Dublin,245000.0,No,Amiens St,Dublin 1,q3,60%

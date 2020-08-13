@@ -1,0 +1,38 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/07/2011,"12 Lower Baggot Street, Dublin 2",Dublin,198189.0,No,Lower Baggot St,Dublin 2,q1,10%
+20/03/2012,"94, Lower Baggot Street, Dublin",Dublin,450000.0,No,Lower Baggot St,Dublin 2,q3,60%
+20/11/2013,"Apartment 2, 18 Lower Baggot Street, Dublin 2.",Dublin,400000.0,Yes,Lower Baggot St,Dublin 2,q2,50%
+22/11/2013,"Apartment 16, No. 18 Lower Baggot Street",Dublin,387665.0,Yes,Lower Baggot St,Dublin 2,q2,40%
+27/11/2013,"47/48 Lower Baggot Street, Dublin 2",Dublin,100000.0,No,Lower Baggot St,Dublin 2,q1,10%
+10/12/2013,"Apartment 9, 18 Lower Baggot St, Dublin 2",Dublin,308000.0,No,Lower Baggot St,Dublin 2,q1,30%
+18/12/2013,"Apartment 3, 18 Lower Baggot Street, Dublin 2",Dublin,343612.33,Yes,Lower Baggot St,Dublin 2,q2,30%
+19/12/2013,"Apartment 14, 18 Lower Baggot St, Dublin 2",Dublin,281000.0,No,Lower Baggot St,Dublin 2,q1,20%
+23/12/2013,"Apt1, 18 Lower Baggot Street",Dublin,285000.0,No,Lower Baggot St,Dublin 2,q1,20%
+11/01/2014,"Herbert Lane Mews, Herbert Lane, Rear 66 Lower Baggot St Dublin 2",Dublin,400000.0,No,Lower Baggot St,Dublin 2,q2,50%
+07/02/2014,"Apt 4, 18 Lower Baggot St, Dublin 2",Dublin,370044.05,No,Lower Baggot St,Dublin 2,q2,40%
+14/02/2014,"Apt 8, 18 Lower Baggot St, Dublin 2",Dublin,540000.0,No,Lower Baggot St,Dublin 2,q3,80%
+19/02/2014,"Apartment 6, 18 Lower Baggot St, Dublin 2",Dublin,520000.0,No,Lower Baggot St,Dublin 2,q3,70%
+12/03/2014,"Apartment No. 11, 18 Lower Baggot St., Dublin 2",Dublin,531000.0,No,Lower Baggot St,Dublin 2,q3,70%
+31/03/2014,"Apartment 12, 18 Lower Baggot Street",Dublin,560000.0,Yes,Lower Baggot St,Dublin 2,q3,80%
+02/04/2014,"Apartment 5, 18 Lower Baggot Street, Dublin 2",Dublin,298000.0,Yes,Lower Baggot St,Dublin 2,q1,20%
+24/04/2014,"Apt 7, 18 Lower Baggot St, Dublin 2",Dublin,580000.0,No,Lower Baggot St,Dublin 2,q4,80%
+28/05/2014,"Apt 23, 18 Lower Baggot St., Dublin 2",Dublin,403000.0,No,Lower Baggot St,Dublin 2,q3,60%
+28/05/2014,"Apt 24, 18 Lower Baggot Street, Dublin 2",Dublin,330000.0,No,Lower Baggot St,Dublin 2,q1,30%
+28/05/2014,"Apt 25, 18 Lower Baggot St., Dublin 2",Dublin,295000.0,No,Lower Baggot St,Dublin 2,q1,20%
+15/12/2014,"72 Lower Baggot Street, Dublin",Dublin,1500000.0,No,Lower Baggot St,Dublin 2,q4,100%
+23/12/2014,"110 Lower Baggot Street, 111 Lower Baggot Street",Dublin,260000.0,No,Lower Baggot St,Dublin 2,q1,10%
+26/03/2015,"Apt 3 Ely Mews, 5/6 Rodgers Lane, Lower Baggot Street",Dublin,375000.0,No,Lower Baggot St,Dublin 2,q2,40%
+27/04/2015,"Apt 17, 18 Lower Baggot Street",Dublin,495000.0,No,Lower Baggot St,Dublin 2,q3,70%
+27/04/2015,"Apt 18, 18 Lower Baggot Street",Dublin,495000.0,No,Lower Baggot St,Dublin 2,q3,70%
+21/12/2016,"137 Lower Baggot St, Dublin 2, Dublin",Dublin,419620.0,No,Lower Baggot St,Dublin 2,q3,60%
+04/01/2017,"Herbert Lane Mews, Herbert Lane, Rear 66 Lower Baggot St Dublin 2",Dublin,400000.0,No,Lower Baggot St,Dublin 2,q2,50%
+18/01/2017,"Apt 22, 18 Lower Baggot St, Dublin 2",Dublin,2285000.0,No,Lower Baggot St,Dublin 2,q4,100%
+09/02/2017,"31 Lower Baggot Street, Dublin 2",Dublin,375000.0,Yes,Lower Baggot St,Dublin 2,q2,40%
+09/02/2017,"The Mews 32 Lower Baggot Street, Dublin 2",Dublin,620000.0,Yes,Lower Baggot St,Dublin 2,q4,90%
+28/02/2017,"Apt 2, 88 Lower Baggot St, Dublin 2",Dublin,3000000.0,No,Lower Baggot St,Dublin 2,q4,100%
+08/11/2017,"Apt 2, 18 Lower Baggot St, Dublin 2",Dublin,625000.0,No,Lower Baggot St,Dublin 2,q4,90%
+26/06/2018,"Residence 11, 8-11 And 11A, Lower Baggot Street",Dublin,3612334.8,Yes,Lower Baggot St,Dublin 2,q4,100%
+14/09/2018,"Apartment 5, 18 Lower Baggot Street, Dublin 2",Dublin,395000.0,No,Lower Baggot St,Dublin 2,q2,50%
+11/02/2019,"Apt 17, 18 Lower Baggot Street, Dublin 2",Dublin,1350000.0,No,Lower Baggot St,Dublin 2,q4,90%
+29/03/2019,"Apt B, 87 Lower Baggot St, Dublin 2",Dublin,190000.0,No,Lower Baggot St,Dublin 2,q1,10%
+20/09/2019,"Apartment 10, 18 Lower Baggot Street, Dublin 2",Dublin,680000.0,No,Lower Baggot St,Dublin 2,q4,90%

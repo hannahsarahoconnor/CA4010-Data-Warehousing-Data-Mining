@@ -1,0 +1,1518 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+26/01/2010,"116 Gracepark Meadows, Drumcondra",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+27/01/2010,"24 Susanville Road, Drumcondra",Dublin,233000.0,No,Drumcondra,Dublin 9,q1,20%
+29/01/2010,"6 Gracepark Terrace, Drumcondra, Drumcondra",Dublin,480000.0,No,Drumcondra,Dublin 9,q4,80%
+03/02/2010,"401 Gracepark Heights, Drumcondra",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+04/02/2010,"339 Griffith Avenue, Drumcondra",Dublin,760000.0,No,Drumcondra,Dublin 9,q4,100%
+09/02/2010,"12 College Manor, Drumcondra, Dublin",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+10/02/2010,"82 Fitzroy Avenue, Drumcondra D. 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+25/02/2010,"38 Fleming Road, Drumcondra",Dublin,218000.0,No,Drumcondra,Dublin 9,q1,20%
+01/03/2010,"23 All Hallows Square, Drumcondra, Dublin 9",Dublin,513000.0,No,Drumcondra,Dublin 9,q4,90%
+19/03/2010,"23 Wigan Road, Drumcondra",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+23/03/2010,"129 Annadale Drive, Drumcondra",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+01/04/2010,"21 Clonliffe Gardens, Clonliffe Road, Drumcondra",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+01/04/2010,"34 Hollybank Road, Drumcondra",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+14/04/2010,"Townhouse No 2., 182 Clonliffe Road, Drumcondra",Dublin,230000.0,No,Drumcondra,Dublin 9,q1,20%
+16/04/2010,"71 Richmond Road, Drumcondra",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+29/04/2010,"121 Ferguson Road, Drumcondra, Dublin 9",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+30/04/2010,"9 Griffith Walk, Griffith Avenue, Drumcondra",Dublin,305000.0,No,Drumcondra,Dublin 9,q2,40%
+05/05/2010,"Apartment 126 Griffith Hall, Drumcondra",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+11/05/2010,"128 Walsh Road, Drumcondra, Dublin 9",Dublin,185000.0,No,Drumcondra,Dublin 9,q1,20%
+18/05/2010,"8 Comyn Place, Drumcondra",Dublin,295000.0,No,Drumcondra,Dublin 9,q2,40%
+04/06/2010,"24 St. Columbas Road Lower, Drumcondra, Dublin 9",Dublin,362500.0,No,Drumcondra,Dublin 9,q3,60%
+10/06/2010,"46 Elizabeth Street, Drumcondra",Dublin,160000.0,No,Drumcondra,Dublin 9,q1,10%
+11/06/2010,"87 Annadale Drive, Drumcondra, Dublin 9",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+23/06/2010,"68 Annadale Crescent, Drumcondra, Dublin 9",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+29/06/2010,"14 Distillery Road, Drumcondra, Dublin",Dublin,252000.0,No,Drumcondra,Dublin 9,q1,30%
+05/07/2010,"42 Walnut Avenue, Drumcondra",Dublin,490000.0,No,Drumcondra,Dublin 9,q4,80%
+09/07/2010,"6 Distillery Road, Drumcondra, Dublin 3",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+14/07/2010,"6  Joyce Road, Drumcondra",Dublin,304000.0,No,Drumcondra,Dublin 9,q2,40%
+16/07/2010,"Apartment 22  Griffith Hall, Drumcondra",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+23/07/2010,"11 Fitzroy Avenue, Drumcondra, Dublin 9",Dublin,326000.0,No,Drumcondra,Dublin 9,q2,50%
+26/07/2010,"78 Botanic Avenue, Drumcondra",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+26/07/2010,"90 Fitzroy Avenue, Drumcondra",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+18/08/2010,"4 Millmount Place, Drumcondra",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+20/08/2010,"38 Ferguson Road, Drumcondra",Dublin,305000.0,No,Drumcondra,Dublin 9,q2,40%
+20/08/2010,"Apartment 125, Griffith Hall, Drumcondra",Dublin,283000.0,No,Drumcondra,Dublin 9,q2,40%
+25/08/2010,"65 Calderwood Road, Drumcondra, Dublin 9",Dublin,530000.0,No,Drumcondra,Dublin 9,q4,90%
+26/08/2010,"2 Hogan View, Richmond Road, Drumcondra",Dublin,187000.0,No,Drumcondra,Dublin 9,q1,20%
+26/08/2010,"2 Hogan View, Richmond Road, Drumcondra",Dublin,187000.0,No,Drumcondra,Dublin 9,q1,20%
+26/08/2010,"64 Lower Drumcondra Road, Drumcondra, Dublin 9",Dublin,352000.0,No,Drumcondra,Dublin 9,q2,50%
+26/08/2010,"72 Botanic Avenue, Drumcondra, Dublin",Dublin,305000.0,No,Drumcondra,Dublin 9,q2,40%
+27/08/2010,"391 Grace Park Heights, Drumcondra",Dublin,315000.0,No,Drumcondra,Dublin 9,q2,50%
+30/08/2010,"78 Homefarm Road, Drumcondra",Dublin,515000.0,No,Drumcondra,Dublin 9,q4,90%
+31/08/2010,"17 Upper St. Columbas Road, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+02/09/2010,"2 The Cloisters, Grace Park Road, Drumcondra",Dublin,540000.0,No,Drumcondra,Dublin 9,q4,90%
+06/09/2010,"182 Grace Park Heights, Drumcondra, Dublin",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+08/09/2010,"11 Griffith Hall, Drumcondra",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+15/09/2010,"16 Lower St. Brigids Road, Drumcondra",Dublin,298000.0,No,Drumcondra,Dublin 9,q2,40%
+27/09/2010,"101 Clonliffe Avenue, Drumcondra",Dublin,150000.0,No,Drumcondra,Dublin 9,q1,10%
+27/09/2010,"55 Walsh Road, Drumcondra",Dublin,266100.0,No,Drumcondra,Dublin 9,q2,30%
+29/09/2010,"25 Ferguson Road, Drumcondra",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+01/10/2010,"171 Botanic Avenue, Drumcondra",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+01/10/2010,"171 Botanic Ave, Drumcondra, Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+01/10/2010,"20 Annadale Crescent, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+04/10/2010,"26 Dargle Road, Drumcondra",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+08/10/2010,"56 Upper Drumcondra Road, Drumcondra",Dublin,450000.0,No,Drumcondra,Dublin 9,q3,80%
+18/10/2010,"114 Walsh Road, Drumcondra, Dublin 9",Dublin,277000.0,No,Drumcondra,Dublin 9,q2,30%
+19/10/2010,"1 Mabel Street, Drumcondra, Dublin 9",Dublin,235000.0,No,Drumcondra,Dublin 9,q1,20%
+21/10/2010,"18 Hardiman Road, Drumcondra, Dublin",Dublin,213000.0,No,Drumcondra,Dublin 9,q1,20%
+29/10/2010,"41 Fleming Road, Drumcondra, Dublin 9",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+01/11/2010,"7 Griffith Downs, Drumcondra",Dublin,520000.0,No,Drumcondra,Dublin 9,q4,90%
+02/11/2010,"14 Wellpark Avenue, Drumcondra, Dublin 9",Dublin,465000.0,No,Drumcondra,Dublin 9,q3,80%
+12/11/2010,"67 Carlingford Road, Drumcondra",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+23/11/2010,"267 Griffith Avenue, Drumcondra",Dublin,452500.0,No,Drumcondra,Dublin 9,q3,80%
+02/12/2010,"51 Hollybank Road, Drumcondra",Dublin,450000.0,No,Drumcondra,Dublin 9,q3,80%
+08/12/2010,"142 Griffith Avenue, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+13/12/2010,"114 Griffith Avenue, Drumcondra",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+21/12/2010,"3 Iona Avenue, Drumcondra",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+21/12/2010,"94 Fitzroy Avenue, Drumcondra",Dublin,215000.0,No,Drumcondra,Dublin 9,q1,20%
+23/12/2010,"10 Hollybank Road, Drumcondra",Dublin,408000.0,No,Drumcondra,Dublin 9,q3,70%
+12/01/2011,"44 Hardiman Road, Drumcondra",Dublin,295000.0,No,Drumcondra,Dublin 9,q2,40%
+18/01/2011,"18 All Hallows Green, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+20/01/2011,"42 Joyce Road, Drumcondra, Dublin 9",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+24/01/2011,"11 Comyn Place, Drumcondra",Dublin,110000.0,No,Drumcondra,Dublin 9,q1,10%
+31/01/2011,"31 Achill Road, Drumcondra, Dublin 9",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+31/01/2011,"31 Hardiman Road, Drumcondra",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+07/02/2011,"43 Grace Park Terrace, Drumcondra",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+14/02/2011,"20 Claude Road, Drumcondra, Dublin 9",Dublin,388050.0,No,Drumcondra,Dublin 9,q3,60%
+24/02/2011,"116 Gracepark Heights, Drumcondra",Dublin,299500.0,No,Drumcondra,Dublin 9,q2,40%
+24/02/2011,"128 Richmond Road, Drumcondra",Dublin,167000.0,No,Drumcondra,Dublin 9,q1,10%
+24/03/2011,"316 Charlemont, Griffith Avenue, Drumcondra",Dublin,293000.0,No,Drumcondra,Dublin 9,q2,40%
+25/03/2011,"24 Fitzroy Avenue, Drumcondra",Dublin,277500.0,No,Drumcondra,Dublin 9,q2,30%
+06/04/2011,"130 Grace Park Road, Drumcondra",Dublin,530000.0,No,Drumcondra,Dublin 9,q4,90%
+07/04/2011,"59 Hollybank Road, Drumcondra, Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+08/04/2011,"139 Chapelgate St, Alphonsus Rd, Drumcondra",Dublin,407000.0,No,Drumcondra,Dublin 9,q3,70%
+19/04/2011,"No. 3 The Grove, Griffith Downs, Drumcondra",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+21/04/2011,"14  Cian Park, Drumcondra, Dublin 9",Dublin,120000.0,No,Drumcondra,Dublin 9,q1,10%
+29/04/2011,"27 College Manor, Drumcondra, Dublin 9",Dublin,207000.0,No,Drumcondra,Dublin 9,q1,20%
+02/05/2011,"77 Lower Drumcondra Road, Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+04/05/2011,"4 Distillery Road, Drumcondra, Dublin 3",Dublin,214000.0,No,Drumcondra,Dublin 9,q1,20%
+05/05/2011,"212 Griffith Avenue, Drumcondra, Dublin",Dublin,590000.0,No,Drumcondra,Dublin 9,q4,90%
+11/05/2011,"6 Mabel Street, Drumcondra, Dublin 3",Dublin,135000.0,No,Drumcondra,Dublin 9,q1,10%
+12/05/2011,"11 Russell Avenue, Drumcondra, Dublin 3",Dublin,183500.0,No,Drumcondra,Dublin 9,q1,20%
+13/05/2011,"34 Clonliffe Square, Distillery Road, Drumcondra",Dublin,156500.0,No,Drumcondra,Dublin 9,q1,10%
+17/05/2011,"309 Charlemont, Drumcondra",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+20/05/2011,"2  Whitworth Avenue, Drumcondra, Dublin",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,10%
+24/05/2011,"168 Tolka Road, Drumcondra",Dublin,160000.0,No,Drumcondra,Dublin 9,q1,10%
+25/05/2011,"151 Griffith Avenue, Drumcondra, Dublin 9",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+30/05/2011,"76 Botanic Avenue, Drumcondra, Dublin",Dublin,234000.0,No,Drumcondra,Dublin 9,q1,20%
+31/05/2011,"38 All Hallows Green, Drumcondra",Dublin,327500.0,No,Drumcondra,Dublin 9,q2,50%
+02/06/2011,"Gracepark House, Drumcondra",Dublin,1625000.0,No,Drumcondra,Dublin 9,q4,100%
+03/06/2011,"20 Richmond Road, Drumcondra",Dublin,140000.0,No,Drumcondra,Dublin 9,q1,10%
+06/06/2011,"27 Wellpark Avenue, Drumcondra",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+09/06/2011,"132 Clonliffe Road, Drumcondra",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+01/07/2011,"160 Grace Park Road, Drumcondra, Dublin 9",Dublin,425000.0,No,Drumcondra,Dublin 9,q3,70%
+06/07/2011,"6 Drumcondra Park, Drumcondra",Dublin,375500.0,No,Drumcondra,Dublin 9,q3,60%
+14/07/2011,"30 Richmond Road, Drumcondra",Dublin,163000.0,No,Drumcondra,Dublin 9,q1,10%
+20/07/2011,"70 Gracepark House, Drumcondra, Dublin 9",Dublin,282200.0,No,Drumcondra,Dublin 9,q2,40%
+22/07/2011,"180 Home Farm Road, Drumcondra",Dublin,307500.0,No,Drumcondra,Dublin 9,q2,40%
+25/07/2011,"23 Susanville Road, Drumcondra",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+28/07/2011,"30 All Hallows Green, Drumcondra",Dublin,327000.0,No,Drumcondra,Dublin 9,q2,50%
+28/07/2011,"51 Fitzroy Avenue, Drumcondra, Dublin 9",Dublin,246000.0,No,Drumcondra,Dublin 9,q1,30%
+29/07/2011,"114 Richmond Road, Drumcondra",Dublin,200000.0,No,Drumcondra,Dublin 9,q1,20%
+29/07/2011,"46 St Alphonsus Road, Drumcondra, Dublin 9",Dublin,343000.0,No,Drumcondra,Dublin 9,q2,50%
+02/08/2011,"Apartment 14  Chapelgate, St. Alphonsus Road, Drumcondra",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+05/08/2011,"27 Calderwood Ave, Drumcondra",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+11/08/2011,"37  Hollybank Road, Drumcondra, Dublin 9",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+19/08/2011,"33 Home Farm Park, Drumcondra",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+22/08/2011,"9 Tolka Road, Drumcondra",Dublin,148000.0,No,Drumcondra,Dublin 9,q1,10%
+31/08/2011,"2 Drumcondra Park, Drumcondra, Dublin 3",Dublin,307500.0,No,Drumcondra,Dublin 9,q2,40%
+31/08/2011,"43A Clonturk Park, Drumcondra",Dublin,235000.0,No,Drumcondra,Dublin 9,q1,20%
+06/09/2011,"107 Richmond Rd, Drumcondra, Dublin 9",Dublin,257500.0,No,Drumcondra,Dublin 9,q1,30%
+06/09/2011,"Apartment No. 114 The Covent Block, Chapelgate  St. Alphonsus Rd., Drumcondra",Dublin,225000.0,No,Drumcondra,Dublin 9,q1,20%
+06/09/2011,"Apartment No. 86 Chapel Gate, St. Alphonsus Rd., Drumcondra",Dublin,235000.0,No,Drumcondra,Dublin 9,q1,20%
+08/09/2011,"34 Susanville Road, Drumcondra, Dublin 3",Dublin,119100.0,No,Drumcondra,Dublin 9,q1,10%
+08/09/2011,"4 St. Columba'S Road Upper, Drumcondra",Dublin,355000.0,No,Drumcondra,Dublin 9,q3,60%
+10/09/2011,"43 Griffith Avenue, Drumcondra, Dublin",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+19/09/2011,"72 Carlingford Road, Drumcondra",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+20/09/2011,"11 The Waterfront, Lr Drumcondra Rd",Dublin,193833.0,Yes,Drumcondra,Dublin 9,q1,20%
+21/09/2011,"12 Windale Road, Drumcondra, Dublin 9",Dublin,142500.0,No,Drumcondra,Dublin 9,q1,10%
+23/09/2011,"3 The Grove, Griffith Downs, Drumcondra",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+23/09/2011,"61 Griffith Avenue, Drumcondra",Dublin,505000.0,No,Drumcondra,Dublin 9,q4,80%
+23/09/2011,"8 Hardiman Road, Drumcondra",Dublin,195000.0,No,Drumcondra,Dublin 9,q1,20%
+27/09/2011,"22 Dargle Road, Drumcondra",Dublin,216400.0,No,Drumcondra,Dublin 9,q1,20%
+28/09/2011,"44 St. Alphonsus Road, Drumcondra",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+03/10/2011,"37 St Patrick'S Road, Drumcondra",Dublin,267500.0,No,Drumcondra,Dublin 9,q2,30%
+03/10/2011,"Apartment No 17, The Waterfront, Lower Drumcondra Road",Dublin,270000.0,Yes,Drumcondra,Dublin 9,q2,30%
+04/10/2011,"23 St Columba'S Road Lower, Drumcondra, Dublin",Dublin,214000.0,No,Drumcondra,Dublin 9,q1,20%
+07/10/2011,"No 75 Fitzroy Avenue, Drumcondra",Dublin,215000.0,No,Drumcondra,Dublin 9,q1,20%
+10/10/2011,"51 Upper Drumcondra Road, Drumcondra, Dublin 9",Dublin,565000.0,No,Drumcondra,Dublin 9,q4,90%
+13/10/2011,"100 Grace Park Meadows, Drumcondra",Dublin,286000.0,No,Drumcondra,Dublin 9,q2,40%
+18/10/2011,"12  The Waterfront, Drumcondra",Dublin,224900.0,Yes,Drumcondra,Dublin 9,q1,20%
+21/10/2011,"Apartment 14  The Waterfront, Lower Drumcondra Road",Dublin,286897.0,Yes,Drumcondra,Dublin 9,q2,40%
+27/10/2011,"11 Whitworth Road, Drumcondra",Dublin,254000.0,No,Drumcondra,Dublin 9,q1,30%
+28/10/2011,"34 Glandore Road, Drumcondra, Dublin 9",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+28/10/2011,"38 Lambay Road, Drumcondra",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+10/11/2011,"12 St. Alphonsus Avenue, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+11/11/2011,"3 High Park, Gracepark Road, Drumcondra",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+18/11/2011,"14 Dargle Road, Drumcondra",Dublin,225000.0,No,Drumcondra,Dublin 9,q1,20%
+21/11/2011,"5 Whitworth Tce, Drumcondra, Dublin 3",Dublin,84000.0,No,Drumcondra,Dublin 9,q1,10%
+24/11/2011,"Apt 209 Gracepark Manor, Drumcondra",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+29/11/2011,"10 Mabel Street, Clonliffe Road, Drumcondra",Dublin,122000.0,No,Drumcondra,Dublin 9,q1,10%
+30/11/2011,"Apt 1 James Joyce Court, Millbourne Avenue, Drumcondra",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,10%
+01/12/2011,"33 The Court  High Park, Gracepark, Drumcondra",Dublin,190000.0,No,Drumcondra,Dublin 9,q1,20%
+05/12/2011,"2 High Park, Gracepark Road, Drumcondra",Dublin,270000.0,No,Drumcondra,Dublin 9,q2,30%
+05/12/2011,"41 Whitworth Road, Drumcondra, Dublin 9",Dublin,76666.0,No,Drumcondra,Dublin 9,q1,10%
+06/12/2011,"34 Home Farm Park, Drumcondra",Dublin,580000.0,No,Drumcondra,Dublin 9,q4,90%
+13/12/2011,"66 Chapelgate, Drumcondra",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+14/12/2011,"14 Homefarm Park, Drumcondra",Dublin,295000.0,No,Drumcondra,Dublin 9,q2,40%
+16/12/2011,"315 Gracepark Manor, Drumcondra",Dublin,237500.0,No,Drumcondra,Dublin 9,q1,20%
+20/12/2011,"1 Grace Park Gardens, Drumcondra",Dublin,650000.0,No,Drumcondra,Dublin 9,q4,100%
+20/12/2011,"41 Fitzroy Avenue, Drumcondra, Dublin 9",Dublin,253000.0,No,Drumcondra,Dublin 9,q1,30%
+21/12/2011,"30 Dargle Road, Drumcondra, Dublin 9",Dublin,165000.0,No,Drumcondra,Dublin 9,q1,10%
+21/12/2011,"31 Clonturk Park, Drumcondra, Dublin",Dublin,263000.0,No,Drumcondra,Dublin 9,q2,30%
+22/12/2011,"37 Susanville Road, Drumcondra",Dublin,140000.0,No,Drumcondra,Dublin 9,q1,10%
+28/12/2011,"6 Church Avenue, Drumcondra",Dublin,117500.0,No,Drumcondra,Dublin 9,q1,10%
+29/12/2011,"24 The Village, Drumcondra, Dublin 9",Dublin,225000.0,No,Drumcondra,Dublin 9,q1,20%
+29/12/2011,"26 High Park, Drumcondra",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+16/01/2012,"28 Fleming Road, Drumcondra",Dublin,195000.0,No,Drumcondra,Dublin 9,q1,20%
+23/01/2012,"23 Homefarm Road, Drumcondra, Dublin 9",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+26/01/2012,"35 Charlemont, Drumcondra",Dublin,432500.0,No,Drumcondra,Dublin 9,q3,70%
+31/01/2012,"313 Charlemont, Drumcondra, Dublin 9",Dublin,295000.0,No,Drumcondra,Dublin 9,q2,40%
+15/02/2012,"27 Walnut Lawn, Drumcondra",Dublin,343000.0,No,Drumcondra,Dublin 9,q2,50%
+28/02/2012,"10 Gratten Parade, Drumcondra",Dublin,200000.0,No,Drumcondra,Dublin 9,q1,20%
+02/03/2012,"143 Richmond Road, Drumcondra",Dublin,116000.0,No,Drumcondra,Dublin 9,q1,10%
+14/03/2012,"3 Millmount Place, Off Millmount Avenue, Drumcondra",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,10%
+21/03/2012,"6 Clonturk Avenue, Drumcondra, Dublin 9",Dublin,87000.0,No,Drumcondra,Dublin 9,q1,10%
+22/03/2012,"15 Robert St, Drumcondra",Dublin,132000.0,No,Drumcondra,Dublin 9,q1,10%
+23/03/2012,"71 St . Ignatius Road, Drumcondra",Dublin,164000.0,No,Drumcondra,Dublin 9,q1,10%
+28/03/2012,"9  Wellpark Avenue, Drumcondra, Dublin 9",Dublin,345000.0,No,Drumcondra,Dublin 9,q2,50%
+30/03/2012,"14 High Park, Gracepark Road, Drumcondra",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+05/04/2012,"28 St Alphonsus Road, Drumcondra",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+13/04/2012,"10 O'Daly Road, Drumcondra",Dublin,228000.0,No,Drumcondra,Dublin 9,q1,20%
+18/04/2012,"34 The Court, High Park, Drumcondra",Dublin,190000.0,No,Drumcondra,Dublin 9,q1,20%
+18/04/2012,"6 Ferguson Road, Drumcondra, Dublin 9",Dublin,195000.0,No,Drumcondra,Dublin 9,q1,20%
+19/04/2012,"29 Fleming Road, Drumcondra",Dublin,140000.0,No,Drumcondra,Dublin 9,q1,10%
+24/04/2012,"30 Tolka Road, Drumcondra, Dublin 3",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,10%
+26/04/2012,"29 St Columbas Road Upr, Drumcondra",Dublin,177500.0,No,Drumcondra,Dublin 9,q1,10%
+27/04/2012,"33 Griffith Avenue, Drumcondra, Dublin 9",Dublin,475000.0,No,Drumcondra,Dublin 9,q4,80%
+04/05/2012,"10 Achill Road, Drumcondra",Dublin,445000.0,No,Drumcondra,Dublin 9,q3,80%
+04/05/2012,"243 Charlemont, Griffith Avenue, Drumcondra",Dublin,336000.0,No,Drumcondra,Dublin 9,q2,50%
+08/05/2012,"148 Chapelgate, Drumcondra",Dublin,186500.0,No,Drumcondra,Dublin 9,q1,20%
+10/05/2012,"324 The Distillery, Distillery Road, Drumcondra",Dublin,185000.0,No,Drumcondra,Dublin 9,q1,20%
+18/05/2012,"66 Griffith Avenue, Drumcondra, Drumcondra",Dublin,336365.0,No,Drumcondra,Dublin 9,q2,50%
+24/05/2012,"146 Walsh Road, Drumcondra",Dublin,135000.0,No,Drumcondra,Dublin 9,q1,10%
+24/05/2012,"8 Achill Road, Drumcondra",Dublin,266000.0,No,Drumcondra,Dublin 9,q2,30%
+25/05/2012,"6 Millmount Avenue, Drumcondra, Dublin 9",Dublin,120000.0,No,Drumcondra,Dublin 9,q1,10%
+25/05/2012,"9  Lower Drumcondra Road, Dublin",Dublin,225000.0,No,Drumcondra,Dublin 9,q1,20%
+31/05/2012,"27 Marguerite Road, Drumcondra",Dublin,217500.0,No,Drumcondra,Dublin 9,q1,20%
+01/06/2012,"6 St.Brigid'S Rd Lower, Drumcondra, Dublin 9",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+06/06/2012,"256 Griffith Avenue, Drumcondra",Dublin,391500.0,No,Drumcondra,Dublin 9,q3,60%
+14/06/2012,"14 Hardiman Road, Drumcondra",Dublin,121500.0,No,Drumcondra,Dublin 9,q1,10%
+20/06/2012,"17 O'Neachtain Road, Drumcondra",Dublin,151250.0,No,Drumcondra,Dublin 9,q1,10%
+26/06/2012,"5  Beresford Avenue, Griffith Avenue, Drumcondra",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+06/07/2012,"1 Sherkin Gardens, Drumcondra",Dublin,474000.0,No,Drumcondra,Dublin 9,q4,80%
+10/07/2012,"151 Richmond Road, Drumcondra",Dublin,230000.0,Yes,Drumcondra,Dublin 9,q1,20%
+18/07/2012,"2 Sion Hll Road, Drumcondra",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+19/07/2012,"35 Annadale Crescent, Drumcondra",Dublin,215000.0,No,Drumcondra,Dublin 9,q1,20%
+20/07/2012,"166 Upper Drumcondra Road, Drumcondra",Dublin,315000.0,No,Drumcondra,Dublin 9,q2,50%
+20/07/2012,"25  Griffith Avenue, Drumcondra, Dublin 9",Dublin,445000.0,No,Drumcondra,Dublin 9,q3,80%
+20/07/2012,"65 Griffith Avenue, Drumcondra",Dublin,480000.0,No,Drumcondra,Dublin 9,q4,80%
+20/07/2012,"Apartment 9  Clonliffe Square, Distillery Road, Drumcondra",Dublin,110000.0,No,Drumcondra,Dublin 9,q1,10%
+25/07/2012,"167 Charlemont, Griffth Avenue, Drumcondra",Dublin,298000.0,No,Drumcondra,Dublin 9,q2,40%
+27/07/2012,"273 Grace Park Heights, Drumcondra, Dublin 9",Dublin,345000.0,No,Drumcondra,Dublin 9,q2,50%
+30/07/2012,"107 Hollybank Road, Drumcondra",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+01/08/2012,"31 Homefarm Park, Drumcondra",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+01/08/2012,"8 St Brigids Road Lower, Drumcondra",Dublin,263000.0,No,Drumcondra,Dublin 9,q2,30%
+07/08/2012,"15 St. Joseph'S Avenue, Drumcondra",Dublin,106000.0,No,Drumcondra,Dublin 9,q1,10%
+08/08/2012,"1 Dargle Road, Drumcondra, Dublin",Dublin,155000.0,No,Drumcondra,Dublin 9,q1,10%
+10/08/2012,"3 Annadale Crescent, Drumcondra, Dublin 9",Dublin,201000.0,No,Drumcondra,Dublin 9,q1,20%
+17/08/2012,"19 Glandore Road, Drumcondra",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+20/08/2012,"119 Grace Park Heights, Drumcondra, Dublin 9",Dublin,237000.0,No,Drumcondra,Dublin 9,q1,20%
+20/08/2012,"195 Griffith Avenue, Drumcondra",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+20/08/2012,"258 Griffith Avenue, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+21/08/2012,"235 Griffith Avenue, Drumcondra",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+30/08/2012,"171 Griffith Avenue, Drumcondra, Dublin 9",Dublin,557500.0,No,Drumcondra,Dublin 9,q4,90%
+03/09/2012,"122 Griffith Avenue, Drumcondra",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+04/09/2012,"3 Beresford Avenue, Griffith Avenue, Drumcondra",Dublin,632500.0,No,Drumcondra,Dublin 9,q4,100%
+04/09/2012,"55 Griffith Avenue, Drumcondra",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+05/09/2012,"10 Distillery Road, Drumcondra",Dublin,245000.0,No,Drumcondra,Dublin 9,q1,30%
+05/09/2012,"12 Saint Brigids Road Upper, Drumcondra",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+06/09/2012,"9 Fitzroy Avenue, Drumcondra",Dublin,150000.0,No,Drumcondra,Dublin 9,q1,10%
+07/09/2012,"22 Annadale Drive, Drumcondra, Dublin 9",Dublin,245000.0,No,Drumcondra,Dublin 9,q1,30%
+07/09/2012,"65 Hollybank Road, Drumcondra, Dublin 9",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+13/09/2012,"19  Russell Avenue, Drumcondra",Dublin,127500.0,No,Drumcondra,Dublin 9,q1,10%
+14/09/2012,"65 Chapelgate, Drumcondra",Dublin,245000.0,No,Drumcondra,Dublin 9,q1,30%
+14/09/2012,"82 Walsh Road, Drumcondra, Dublin 9",Dublin,161000.0,No,Drumcondra,Dublin 9,q1,10%
+18/09/2012,"53 Carlingford Road, Drumcondra",Dublin,239000.0,No,Drumcondra,Dublin 9,q1,20%
+20/09/2012,"99 Hyde Park, Grace Park Road, Drumcondra",Dublin,272500.0,No,Drumcondra,Dublin 9,q2,30%
+21/09/2012,"10 St. Alphonsus Avenue, Drumcondra, Dublin 9",Dublin,190000.0,No,Drumcondra,Dublin 9,q1,20%
+24/09/2012,"15 Rosemount, Glandore Road, Drumcondra",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+28/09/2012,"44 Lambay Road, Drumcondra, Dublin",Dublin,286000.0,No,Drumcondra,Dublin 9,q2,40%
+28/09/2012,"Errigal House, 36 Upper Drumcondra Road",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+01/10/2012,"180 Charlemont, Drumcondra",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+05/10/2012,"21 May Street, Drumcondra, Dublin 9",Dublin,200000.0,No,Drumcondra,Dublin 9,q1,20%
+05/10/2012,"33 Hardiman Road, Drumcondra, Dublin 9",Dublin,112500.0,No,Drumcondra,Dublin 9,q1,10%
+05/10/2012,"39 High Park, Grace Park Road, Drumcondra",Dublin,233500.0,No,Drumcondra,Dublin 9,q1,20%
+05/10/2012,"57 Griffith Downs, Drumcondra",Dublin,645000.0,No,Drumcondra,Dublin 9,q4,100%
+08/10/2012,"17 Chapel Gate, Drumcondra",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+15/10/2012,"23 Joyce Road, Drumcondra",Dublin,150000.0,No,Drumcondra,Dublin 9,q1,10%
+17/10/2012,"8 St. Brigid'S Road Upper, Drumcondra, Dublin 9",Dublin,232500.0,No,Drumcondra,Dublin 9,q1,20%
+19/10/2012,"113 Homefarm Road, Drumcondra",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+19/10/2012,"9 Gracepark Meadows, Drumcondra",Dublin,235000.0,No,Drumcondra,Dublin 9,q1,20%
+23/10/2012,"2 St. Michael Road, Drumcondra",Dublin,306000.0,No,Drumcondra,Dublin 9,q2,40%
+23/10/2012,"Apartment 21, Clonliffe Square, Drumcondra",Dublin,140000.0,No,Drumcondra,Dublin 9,q1,10%
+23/10/2012,"Apt 8  The Waterfront, Drumcondra, Dublin 9",Dublin,193832.0,Yes,Drumcondra,Dublin 9,q1,20%
+24/10/2012,"No. 1 The Waterfront, Drumcondra, Dublin 9",Dublin,300000.0,Yes,Drumcondra,Dublin 9,q2,40%
+25/10/2012,"75 Ferguson Road, Drumcondra",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+31/10/2012,"14 Homefarm Park, Drumcondra",Dublin,311000.0,No,Drumcondra,Dublin 9,q2,40%
+31/10/2012,"151 Richmond Road, Drumcondra, Dublin",Dublin,235320.0,No,Drumcondra,Dublin 9,q1,20%
+31/10/2012,"151A Richmond Road, Drumcondra",Dublin,220000.0,Yes,Drumcondra,Dublin 9,q1,20%
+02/11/2012,"10 Bantry Road, Drumcondra",Dublin,580000.0,No,Drumcondra,Dublin 9,q4,90%
+06/11/2012,"131 Grace Park Heights, Drumcondra",Dublin,254000.0,No,Drumcondra,Dublin 9,q1,30%
+08/11/2012,"100 Lower Drumcondra Road, Drumcondra",Dublin,250410.0,No,Drumcondra,Dublin 9,q1,30%
+08/11/2012,"21 Ferguson Road, Drumcondra",Dublin,93000.0,No,Drumcondra,Dublin 9,q1,10%
+16/11/2012,"5  The Waterfront, Drumcondra",Dublin,147137.0,Yes,Drumcondra,Dublin 9,q1,10%
+21/11/2012,"151 Richmond Road, Drumcondra",Dublin,150000.0,No,Drumcondra,Dublin 9,q1,10%
+22/11/2012,"5 Hollybank Road, Drumcondra, Dublin 9",Dublin,304500.0,No,Drumcondra,Dublin 9,q2,40%
+26/11/2012,"23 Walnut Lawn, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+27/11/2012,"4  Bantry Road, Drumcondra, Dublin 9",Dublin,670000.0,No,Drumcondra,Dublin 9,q4,100%
+28/11/2012,"30 Whitworth Road, Drumcondra",Dublin,200000.0,No,Drumcondra,Dublin 9,q1,20%
+28/11/2012,"Muckross House, Claude Road, Drumcondra",Dublin,435000.0,No,Drumcondra,Dublin 9,q3,70%
+29/11/2012,"176A Grace Park Road, Drumcondra, Dublin 9",Dublin,221000.0,No,Drumcondra,Dublin 9,q1,20%
+29/11/2012,"18 St Brigids Road Upper, Drumcondra",Dublin,375500.0,No,Drumcondra,Dublin 9,q3,60%
+30/11/2012,"158 Gracepark Road, Drumcondra",Dublin,430000.0,No,Drumcondra,Dublin 9,q3,70%
+30/11/2012,"214 Gracepark Manor, Drumcondra",Dublin,179950.0,No,Drumcondra,Dublin 9,q1,10%
+03/12/2012,"13 The Waterfront, Drumcondra  Dublin 9",Dublin,215000.0,No,Drumcondra,Dublin 9,q1,20%
+03/12/2012,"65 Tolka Road, Drumcondra  Dublin 9",Dublin,150000.0,No,Drumcondra,Dublin 9,q1,10%
+11/12/2012,"31 The Court, Gracepark Road, Drumcondra",Dublin,173750.0,No,Drumcondra,Dublin 9,q1,10%
+13/12/2012,"18 The Waterfront, Drumcondra, Dublin 9",Dublin,193111.25,Yes,Drumcondra,Dublin 9,q1,20%
+14/12/2012,"110 Gracepark Road, Drumcondra",Dublin,417500.0,No,Drumcondra,Dublin 9,q3,70%
+14/12/2012,"9 Annadale Crescent, Drumcondra",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+17/12/2012,"120 Clonliffe Road, Drumcondra",Dublin,355000.0,No,Drumcondra,Dublin 9,q3,60%
+17/12/2012,"127 Collins Avenue, Drumcondra, Dublin 9",Dublin,352500.0,No,Drumcondra,Dublin 9,q3,60%
+17/12/2012,"35 Seven Oaks, Drumcondra",Dublin,302000.0,No,Drumcondra,Dublin 9,q2,40%
+18/12/2012,"17 St. Ignatius Road, Drumcondra",Dublin,238750.0,No,Drumcondra,Dublin 9,q1,20%
+18/12/2012,"174 Grace Parl Road, Drumcondra",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+18/12/2012,"7 Woodville Road, Drumcondra",Dublin,216000.0,No,Drumcondra,Dublin 9,q1,20%
+19/12/2012,"19 O'Daly Road, Drumcondra",Dublin,165000.0,No,Drumcondra,Dublin 9,q1,10%
+19/12/2012,"2 Lower St. Brigids Road, Drumcondra",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+19/12/2012,"5 Drumcondra Park, Drumcondra",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+19/12/2012,"7 Richmond Road, Drumcondra",Dublin,247777.0,No,Drumcondra,Dublin 9,q1,30%
+20/12/2012,"11 Annadale Drive, Drumcondra, Dublin 9",Dublin,177000.0,No,Drumcondra,Dublin 9,q1,10%
+20/12/2012,"37 Lambay Road, Drumcondra",Dublin,531000.0,No,Drumcondra,Dublin 9,q4,90%
+20/12/2012,"5 Ormond Road, Drumcondra, Dublin 9",Dublin,301000.0,No,Drumcondra,Dublin 9,q2,40%
+21/12/2012,"28 St Anne'S Road, Drumcondra, Dublin",Dublin,206000.0,No,Drumcondra,Dublin 9,q1,20%
+21/12/2012,"38 High Park, Grace Park Road, Drumcondra",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+21/12/2012,"40 High Park, Drumcondra",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+21/12/2012,"54 Calderwood Road, Drumcondra",Dublin,430000.0,No,Drumcondra,Dublin 9,q3,70%
+09/01/2013,"145 Richmond Road, Drumcondra",Dublin,70000.0,No,Drumcondra,Dublin 9,q1,10%
+17/01/2013,"120 Home Farm Road, Drumcondra",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+18/01/2013,"15 Church View, Church Avenue, Drumcondra",Dublin,163500.0,No,Drumcondra,Dublin 9,q1,10%
+22/01/2013,"41  Grace Park Terrace, Drumcondra, Dublin 9",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+22/01/2013,"41 Upper Drumcondra Road, Drumcondra, Dublin 9",Dublin,595000.0,No,Drumcondra,Dublin 9,q4,90%
+25/01/2013,"15 Beau Court, Achill Road, Drumcondra",Dublin,80000.0,No,Drumcondra,Dublin 9,q1,10%
+29/01/2013,"12 Calderwood Avenue, Drumcondra, Dublin 9",Dublin,420000.0,No,Drumcondra,Dublin 9,q3,70%
+31/01/2013,"105  Walsh Road, Drumcondra",Dublin,195000.0,No,Drumcondra,Dublin 9,q1,20%
+01/02/2013,"12 Upper Drumcondra Roadn, Drumcondra",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+04/02/2013,"121 Annadale Drive, Philipsburgh Avenue, Drumcondra",Dublin,225000.0,No,Drumcondra,Dublin 9,q1,20%
+07/02/2013,"73 Grace Park Meadows, Drumcondra, Dublin",Dublin,165000.0,No,Drumcondra,Dublin 9,q1,10%
+08/02/2013,"38 Upper Drumcondra Road, Drumcondra",Dublin,295000.0,No,Drumcondra,Dublin 9,q2,40%
+18/02/2013,"145 Griffith Avenue, Drumcondra",Dublin,323750.0,No,Drumcondra,Dublin 9,q2,50%
+19/02/2013,"Apt 13  Chapelgate, St Alphonsus Road, Drumcondra",Dublin,298000.0,No,Drumcondra,Dublin 9,q2,40%
+08/03/2013,"43 Bantry Road, Drumcondra, Dublin 9",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+11/03/2013,"21 Susanville Road, Drumcondra",Dublin,130000.0,No,Drumcondra,Dublin 9,q1,10%
+13/03/2013,"28 All Hallows Square, Beresford, Drumcondra",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+15/03/2013,"45 Clonturk Park, Drumcondra",Dublin,381000.0,No,Drumcondra,Dublin 9,q3,60%
+21/03/2013,"64 Grace Park Road, Drumcondra",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+26/03/2013,"43 Lambay Road, Drumcondra",Dublin,195000.0,No,Drumcondra,Dublin 9,q1,20%
+03/04/2013,"19 Rosemount, Glandore Road, Drumcondra",Dublin,302500.0,No,Drumcondra,Dublin 9,q2,40%
+03/04/2013,"4 Clonliffe Square, Distillery Road, Drumcondra",Dublin,125000.0,No,Drumcondra,Dublin 9,q1,10%
+04/04/2013,"241 Clonliffe Road, Drumcondra",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+12/04/2013,"84 Annadale Crescent, Drumcondra, Dublin",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+16/04/2013,"Apt 6 The Waterfront, Lower Drumcondra Road",Dublin,188325.0,Yes,Drumcondra,Dublin 9,q1,20%
+19/04/2013,"10 St Brendan'S Road, Drumcondra",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,10%
+29/04/2013,"84 Charlemont, Drumcondra",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+30/04/2013,"15  The Waterfront, Drumcondra",Dublin,213436.0,Yes,Drumcondra,Dublin 9,q1,20%
+01/05/2013,"1St Floor, 36  Calderwood Road, Drumcondra",Dublin,120000.0,No,Drumcondra,Dublin 9,q1,10%
+01/05/2013,"60 St. Ignatius Road, Drumcondra",Dublin,105000.0,No,Drumcondra,Dublin 9,q1,10%
+02/05/2013,"315 Griffith Avenue, Drumcondra, Dublin 9",Dublin,225000.0,No,Drumcondra,Dublin 9,q1,20%
+03/05/2013,"282  Charlemont, Griffith Avenue, Drumcondra",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+07/05/2013,"19 May Street, Drumcondra",Dublin,268000.0,No,Drumcondra,Dublin 9,q2,30%
+09/05/2013,"20 Clonliffe Square, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+15/05/2013,"14 Achill Court, Drumcondra",Dublin,95000.0,No,Drumcondra,Dublin 9,q1,10%
+15/05/2013,"2 Jones Road, Drumcondra",Dublin,128000.0,No,Drumcondra,Dublin 9,q1,10%
+24/05/2013,"12 St Joseph'S Avenue, Drumcondra, Dublin 9",Dublin,145000.0,No,Drumcondra,Dublin 9,q1,10%
+27/05/2013,"4 Corn Mill Row, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+28/05/2013,"Apartment 103, Grace Park Manor, Drumcondra",Dublin,185000.0,No,Drumcondra,Dublin 9,q1,20%
+29/05/2013,"112 Richmond Road, Drumcondra, Dublin 9",Dublin,160000.0,No,Drumcondra,Dublin 9,q1,10%
+29/05/2013,"128 Chapelgate, Drumcondra",Dublin,358400.0,No,Drumcondra,Dublin 9,q3,60%
+30/05/2013,"176A Grace Park Road, Drumcondra, Dublin 9",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+31/05/2013,"104 Grace Park Meadows, Drumcondra",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+31/05/2013,"Apt. 16 All Hallows Green, Drumcondra",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+06/06/2013,"48 Walnut Avenue, Courtlands, Drumcondra",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+07/06/2013,"12 Whitworth Road, Drumcondra",Dublin,200000.0,No,Drumcondra,Dublin 9,q1,20%
+07/06/2013,"8 Glenarm Avenue, Drumcondra",Dublin,200000.0,No,Drumcondra,Dublin 9,q1,20%
+10/06/2013,"51 Church Avenue, Drumcondra, Dublin 9",Dublin,304000.0,No,Drumcondra,Dublin 9,q2,40%
+11/06/2013,"11 Griffith Downs, Drumcondra, Dublin 9",Dublin,750000.0,No,Drumcondra,Dublin 9,q4,100%
+13/06/2013,"128 Clonliffe Road, Drumcondra",Dublin,262000.0,No,Drumcondra,Dublin 9,q1,30%
+14/06/2013,"39 Lambay Road, Drumcondra",Dublin,530000.0,No,Drumcondra,Dublin 9,q4,90%
+14/06/2013,"52 Crawford Avenue, Drumcondra",Dublin,408000.0,No,Drumcondra,Dublin 9,q3,70%
+14/06/2013,"69 Lower Drumcondra Road, Dublin 9",Dublin,307500.0,No,Drumcondra,Dublin 9,q2,40%
+18/06/2013,"16 Walsh Road, Drumcondra",Dublin,217000.0,No,Drumcondra,Dublin 9,q1,20%
+19/06/2013,"5 Richmond Road, Drumcondra",Dublin,205000.0,No,Drumcondra,Dublin 9,q1,20%
+20/06/2013,"17 St. Brigids Road Upper, Drumcondra",Dublin,380750.0,No,Drumcondra,Dublin 9,q3,60%
+20/06/2013,"6 Church View, Church Avenue, Drumcondra",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+26/06/2013,"16 Whitworth Road, Drumcondra",Dublin,220000.0,No,Drumcondra,Dublin 9,q1,20%
+26/06/2013,"Grace Park Cottage, Grace Park Avenue, Drumcondra",Dublin,321500.0,No,Drumcondra,Dublin 9,q2,50%
+28/06/2013,"137 Grace Park Heights, Drumcondra, Dublin 9",Dublin,276000.0,No,Drumcondra,Dublin 9,q2,30%
+28/06/2013,"2 St. Bridget'S Road, Upper Drumcondra",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+28/06/2013,"6 Chapelgate, St Alphonsus Road, Drumcondra",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+28/06/2013,"77 Richmond Road, Drumcondra",Dublin,130000.0,No,Drumcondra,Dublin 9,q1,10%
+05/07/2013,"135 Grace Park Manor, Drumcondra",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+10/07/2013,"3, Jones Road, Drumcondra",Dublin,185000.0,No,Drumcondra,Dublin 9,q1,20%
+12/07/2013,"178 Home Farm Road, Drumcondra",Dublin,475000.0,No,Drumcondra,Dublin 9,q4,80%
+15/07/2013,"65 Fitzroy Avenue, Drumcondra, Dublin 3",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+16/07/2013,"68 Richmond Road, Drumcondra",Dublin,150000.0,No,Drumcondra,Dublin 9,q1,10%
+17/07/2013,"130 Charlemont, Griffith  Avenue, Drumcondra",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+25/07/2013,"234 Clonliffe Road, Drumcondra",Dublin,266000.0,No,Drumcondra,Dublin 9,q2,30%
+25/07/2013,"236 Clonliffe Road, Drumcondra",Dublin,200000.0,No,Drumcondra,Dublin 9,q1,20%
+25/07/2013,"238 Clonliffe Road, Drumcondra",Dublin,399000.0,No,Drumcondra,Dublin 9,q3,70%
+29/07/2013,"14 College Manor, Drumcondra",Dublin,252000.0,No,Drumcondra,Dublin 9,q1,30%
+31/07/2013,"2 Mabel Street, Drumcondra",Dublin,92000.0,No,Drumcondra,Dublin 9,q1,10%
+31/07/2013,"45 St Ignatius Road, Drumcondra",Dublin,122000.0,No,Drumcondra,Dublin 9,q1,10%
+01/08/2013,"14 Clonturk Park, Drumcondra",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+07/08/2013,"237 Clonliffe Road, Drumcondra",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+09/08/2013,"203 Collins Avenue, Drumcondra",Dublin,230000.0,No,Drumcondra,Dublin 9,q1,20%
+09/08/2013,"26 Wellpark Avenue, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+09/08/2013,"30 Susanville Road, Drumcondra",Dublin,210000.0,No,Drumcondra,Dublin 9,q1,20%
+09/08/2013,"8 The Crescent, Griffith Downs, Drumcondra",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+13/08/2013,"8 Grace Park Road, Drumcondra, Dublin 9",Dublin,195000.0,No,Drumcondra,Dublin 9,q1,20%
+16/08/2013,"104 Clonliffe Road, Drumcondra, Dublin 3",Dublin,220000.0,No,Drumcondra,Dublin 9,q1,20%
+16/08/2013,"33 Susanville Road, Drumcondra, Dublin 9",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,10%
+22/08/2013,"29 Calderwood Avenue, Drumcondra, Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+22/08/2013,"40 Tolka Road, Drumcondra",Dublin,162500.0,No,Drumcondra,Dublin 9,q1,10%
+23/08/2013,"1 Grace Park Terrace, Drumcondra",Dublin,305000.0,No,Drumcondra,Dublin 9,q2,40%
+26/08/2013,"76 Hollybank Road, Drumcondra",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+28/08/2013,"15 St Ignatius Road, Drumcondra",Dublin,351000.0,No,Drumcondra,Dublin 9,q2,50%
+28/08/2013,"279 Grace Park Heights, Drumcondra",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+29/08/2013,"1 St. Clement'S Road, Drumcondra",Dublin,287000.0,No,Drumcondra,Dublin 9,q2,40%
+29/08/2013,"21 High Park, Grace Park Road, Drumcondra",Dublin,270000.0,No,Drumcondra,Dublin 9,q2,30%
+04/09/2013,"18 Clonturk Park, Drumcondra",Dublin,345000.0,No,Drumcondra,Dublin 9,q2,50%
+06/09/2013,"125 Grace Park Manor, Drumcondra, Dublin 9",Dublin,232500.0,No,Drumcondra,Dublin 9,q1,20%
+11/09/2013,"24 Alphonsus Road, Drumcondra",Dublin,388500.0,No,Drumcondra,Dublin 9,q3,60%
+12/09/2013,"55 Church Ave, Drumcondra, Dublin 9",Dublin,279000.0,No,Drumcondra,Dublin 9,q2,30%
+19/09/2013,"8 Lower St Columba'S Road, Drumcondra",Dublin,281500.0,No,Drumcondra,Dublin 9,q2,40%
+20/09/2013,"106 Grace Park Road, Drumcondra",Dublin,397000.0,No,Drumcondra,Dublin 9,q3,70%
+20/09/2013,"Apt. 60 Chapelgate, St. Alphonsus Road, Drumcondra",Dublin,286000.0,No,Drumcondra,Dublin 9,q2,40%
+27/09/2013,"6 Clare Road, Drumcondra",Dublin,545000.0,No,Drumcondra,Dublin 9,q4,90%
+01/10/2013,"1 Glenarm Avenue, Drumcondra",Dublin,398000.0,No,Drumcondra,Dublin 9,q3,70%
+01/10/2013,"8 Walnut Park, Courtlands, Drumcondra",Dublin,445000.0,No,Drumcondra,Dublin 9,q3,80%
+04/10/2013,"16 St. Joseph'S Avenue, Drumcondra, Dublin 3",Dublin,188000.0,No,Drumcondra,Dublin 9,q1,20%
+04/10/2013,"334 Griffith Avenue, Drumcondra",Dublin,615000.0,No,Drumcondra,Dublin 9,q4,100%
+10/10/2013,"49 Clonliffe Gardens, Drumcondra",Dublin,273000.0,No,Drumcondra,Dublin 9,q2,30%
+11/10/2013,"58 Elizabeth Street, Drumcondra",Dublin,185000.0,No,Drumcondra,Dublin 9,q1,20%
+14/10/2013,"27 Gracepark Manor, Drumcondra, Dublin 9",Dublin,220000.0,No,Drumcondra,Dublin 9,q1,20%
+14/10/2013,"72 Whitworth Road, Drumcondra",Dublin,302000.0,No,Drumcondra,Dublin 9,q2,40%
+15/10/2013,"66 Hollybank Road, Drumcondra",Dublin,407500.0,No,Drumcondra,Dublin 9,q3,70%
+17/10/2013,"123 Griffith Hall, Glandore Road, Drumcondra",Dublin,268500.0,No,Drumcondra,Dublin 9,q2,30%
+18/10/2013,"11 St. Brendans Road, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+18/10/2013,"50 Seven Oaks, Drumcondra",Dublin,420000.0,No,Drumcondra,Dublin 9,q3,70%
+18/10/2013,"7 Fleming Road, Drumcondra",Dublin,190000.0,No,Drumcondra,Dublin 9,q1,20%
+23/10/2013,"19 The Waterfront, Drumcondra",Dublin,281000.0,Yes,Drumcondra,Dublin 9,q2,30%
+23/10/2013,"35 Church Avenue, Drumcondra, Dublin",Dublin,230000.0,No,Drumcondra,Dublin 9,q1,20%
+25/10/2013,"129 Clonliffe Road, Drumcondra, Dublin 9",Dublin,314000.0,No,Drumcondra,Dublin 9,q2,40%
+25/10/2013,"28 Wellpark Avenue, Drumcondra, Dublin 9",Dublin,352000.0,No,Drumcondra,Dublin 9,q3,60%
+31/10/2013,"23 Clonturk Park, Drumcondra",Dublin,387500.0,No,Drumcondra,Dublin 9,q3,60%
+01/11/2013,"1 Seery'S Lane, Drumcondra",Dublin,50000.0,No,Drumcondra,Dublin 9,q1,10%
+04/11/2013,"44 Homefarm Road, Drumcondra",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+06/11/2013,"49 Fitzroy Ave, Drumcondra, Dublin",Dublin,231000.0,No,Drumcondra,Dublin 9,q1,20%
+07/11/2013,"10 Carlingford Road, Drumcondra",Dublin,255100.0,No,Drumcondra,Dublin 9,q1,30%
+08/11/2013,"23 The Court, High Park Grace Park Road, Drumcondra",Dublin,190000.0,No,Drumcondra,Dublin 9,q1,20%
+14/11/2013,"1 Richmond Road, Drumcondra",Dublin,235000.0,No,Drumcondra,Dublin 9,q1,20%
+14/11/2013,"19 St Clements Road, Drumcondra",Dublin,295000.0,No,Drumcondra,Dublin 9,q2,40%
+15/11/2013,"124 Homefarm Road, Drumcondra, Dublin 9",Dublin,439000.0,No,Drumcondra,Dublin 9,q3,80%
+18/11/2013,"Apartment 5 Clonliffe Square, Distillery Road, Drumcondra",Dublin,110000.0,No,Drumcondra,Dublin 9,q1,10%
+19/11/2013,"116 Gracepark Heights, Gracepark Road, Drumcondra",Dublin,296000.0,No,Drumcondra,Dublin 9,q2,40%
+20/11/2013,"2 St. Bridget'S Road, Upper Drumcondra",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+21/11/2013,"67 Richmond Rd, Drumcondra, Dublin 9",Dublin,201050.0,No,Drumcondra,Dublin 9,q1,20%
+22/11/2013,"112 Grace Park Road, Drumcondra, Dublin 9",Dublin,540000.0,No,Drumcondra,Dublin 9,q4,90%
+22/11/2013,"12 Walsh Rd, Drumcondra, Dublin 9",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+29/11/2013,"97 Grace Park Meadows, Drumcondra, Dublin 9",Dublin,276000.0,No,Drumcondra,Dublin 9,q2,30%
+02/12/2013,"502 Distillery Building, Distillery Rd, Drumcondra",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+04/12/2013,"33 Upper Drumcondra Rd, Dublin 9",Dublin,613000.0,No,Drumcondra,Dublin 9,q4,100%
+10/12/2013,"15 Grattan Parade, Drumcondra, Dublin 9",Dublin,238000.0,No,Drumcondra,Dublin 9,q1,20%
+11/12/2013,"35 Upper St Columbas Rd, Drumcondra, Dublin 9",Dublin,322000.0,No,Drumcondra,Dublin 9,q2,50%
+11/12/2013,"9 David Park, Drumcondra, Dublin 9",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+12/12/2013,"17 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+16/12/2013,"140 Homefarm Rd, Drumcondra, Dublin 3",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+17/12/2013,"3 Windele Road, Drumcondra",Dublin,185000.0,No,Drumcondra,Dublin 9,q1,20%
+17/12/2013,"36 Glenarm Square, St Josephs Ave, Drumcondra",Dublin,315000.0,No,Drumcondra,Dublin 9,q2,50%
+17/12/2013,"68 Hollybank Rd, Drumcondra, Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+17/12/2013,"76 Griffith Hall, Glandore Rd, Drumcondra",Dublin,178000.0,No,Drumcondra,Dublin 9,q1,10%
+18/12/2013,"12 Windele Rd, Drumcondra, Dublin 9",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+18/12/2013,"34 The Village, Drumcondra, Dublin 3",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+19/12/2013,"179 Grace Park Heights, Drumcondra, Dublin 9",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+19/12/2013,"63 Hollybank Road, Drumcondra",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+19/12/2013,"67 Hollybank Rd, Drumcondra, Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+19/12/2013,"85 Ferguson Rd, Drumcondra, Dublin 9",Dublin,230000.0,No,Drumcondra,Dublin 9,q1,20%
+20/12/2013,"29 Homefarm Road, Drumcondra, Dublin 9",Dublin,358000.0,No,Drumcondra,Dublin 9,q3,60%
+20/12/2013,"37 Fitzroy Avenue, Drumcondra, Dublin 9",Dublin,256000.0,No,Drumcondra,Dublin 9,q1,30%
+23/12/2013,"15 Dargle Rd, Drumcondra, Dublin 9",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+23/12/2013,"31 All Hallows Sq, Drumcondra, Dublin 9",Dublin,430000.0,No,Drumcondra,Dublin 9,q3,70%
+10/01/2014,"1A Grace Park Rd, Drumcondra, Dublin 9",Dublin,246000.0,No,Drumcondra,Dublin 9,q1,30%
+10/01/2014,"66 Lower Drumcondra Rd, Drumcondra, Dublin 9",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+14/01/2014,"17 Churchview Apts, Church Rd, Drumcondra",Dublin,152000.0,No,Drumcondra,Dublin 9,q1,10%
+16/01/2014,"2 Millbourne Ave, Drumcondra, Dublin 9",Dublin,184500.0,No,Drumcondra,Dublin 9,q1,20%
+17/01/2014,"144 Walsh Road, Drumcondra",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,10%
+20/01/2014,"43 Walsh Rd, Drumcondra, Dublin 9",Dublin,245000.0,No,Drumcondra,Dublin 9,q1,30%
+21/01/2014,"9 Glandore Rd, Drumcondra, Dublin 9",Dublin,565000.0,No,Drumcondra,Dublin 9,q4,90%
+27/01/2014,"100 Lower Drumcondra Road, Dublin 9",Dublin,256918.7,No,Drumcondra,Dublin 9,q1,30%
+27/01/2014,"42 Whitworth Rd, Drumcondra, Dublin 9",Dublin,270000.0,No,Drumcondra,Dublin 9,q2,30%
+31/01/2014,"3 Addison Place, Botanic Ave, Drumcondra Dublin 9",Dublin,110000.0,No,Drumcondra,Dublin 9,q1,10%
+03/02/2014,"124 Clonliffe Ave, Drumcondra, Dublin 9",Dublin,150000.0,No,Drumcondra,Dublin 9,q1,10%
+03/02/2014,"17 Hollybank Rd, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+03/02/2014,"Apartment 16 The Waterfront, Drumcondra",Dublin,152673.0,Yes,Drumcondra,Dublin 9,q1,10%
+05/02/2014,"302 The Distillery Distillery Rd, Off Clonliffe Rd, Drumcondra Dublin 9",Dublin,130000.0,No,Drumcondra,Dublin 9,q1,10%
+06/02/2014,"60 Calderwood Rd, Drumcondra, Dublin 9",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+12/02/2014,"4 Gracepark Rd, Drumcondra, Dublin 9",Dublin,351000.0,No,Drumcondra,Dublin 9,q2,50%
+19/02/2014,"231 Grace Park Heights, Drumcondra, Dublin 9",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+25/02/2014,"36 Richmond Rd, Drumcondra, Dublin 9",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+27/02/2014,"17 St Brendans Rd, Drumcondra, Dublin 9",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+28/02/2014,"16 St Brigids Rd Upper, Drumcondra, Dublin 9",Dublin,555000.0,No,Drumcondra,Dublin 9,q4,90%
+03/03/2014,"42 Carlingford Rd, Drumcondra, Dublin",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+13/03/2014,"5 Churchview Apts, Church Rd, Drumcondra",Dublin,170000.0,No,Drumcondra,Dublin 9,q1,10%
+19/03/2014,"62 Hollybank Rd, Drumcondra, Dublin 9",Dublin,387000.0,No,Drumcondra,Dublin 9,q3,60%
+20/03/2014,"26 St Patricks Rd, Drumcondra, Dublin 9",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+21/03/2014,"19 Churchview Apts, Church Rd, Drumcondra",Dublin,157000.0,No,Drumcondra,Dublin 9,q1,10%
+25/03/2014,"26 Hogan View, Richmond Rd, Drumcondra Dublin 3",Dublin,98500.0,No,Drumcondra,Dublin 9,q1,10%
+26/03/2014,"14 Millbourne Avenue, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+28/03/2014,"5 Clonturk Park, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+31/03/2014,"25 Grace Park Terrace, Drumcondra, Dublin 9",Dublin,253000.0,No,Drumcondra,Dublin 9,q1,30%
+04/04/2014,"118 Grace Park Manor, Drumcondra, Dublin 9",Dublin,247000.0,No,Drumcondra,Dublin 9,q1,30%
+11/04/2014,"38 Walsh Road, Drumcondra",Dublin,368000.0,No,Drumcondra,Dublin 9,q3,60%
+11/04/2014,"74 Lindsay Road, Drumcondra",Dublin,580000.0,No,Drumcondra,Dublin 9,q4,90%
+16/04/2014,"99 Chapelgate, St Alphonsus Rd Upper, Drumcondra",Dublin,162500.0,No,Drumcondra,Dublin 9,q1,10%
+25/04/2014,"128 Grace Park Manor, Drumcondra, Dublin 9",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+25/04/2014,"2 Wigan Rd, Drumcondra, Dublin 9",Dublin,472000.0,No,Drumcondra,Dublin 9,q4,80%
+25/04/2014,"61 Richmond Rd, Drumcondra, Dublin",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+28/04/2014,"1 Millmount Place, Drumcondra, Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+30/04/2014,"147 Richmond Road, Drumcondra",Dublin,115000.0,No,Drumcondra,Dublin 9,q1,10%
+08/05/2014,"16 May St, Drumcondra, Dublin 3",Dublin,299000.0,No,Drumcondra,Dublin 9,q2,40%
+09/05/2014,"4 Church View, Church Ave, Drumcondra Dublin 9",Dublin,295000.0,No,Drumcondra,Dublin 9,q2,40%
+23/05/2014,"414 Grace Park Manor, Drumcondra, Dublin 9",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+23/05/2014,"7 Abbyvale, Botanic Avenue, Drumcondra",Dublin,270000.0,No,Drumcondra,Dublin 9,q2,30%
+26/05/2014,"113 Chapelgate, Alphonsus Road, Drumcondra",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+26/05/2014,"28 Walsh Rd, Drumcondra, Dublin 9",Dublin,252000.0,No,Drumcondra,Dublin 9,q1,30%
+27/05/2014,"223 Griffith Ave, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+27/05/2014,"65 Lower Drumcondra Road, Dublin 9",Dublin,251000.0,No,Drumcondra,Dublin 9,q1,30%
+28/05/2014,"5 Home Farm Rd, Drumcondra, Dublin 9",Dublin,540000.0,No,Drumcondra,Dublin 9,q4,90%
+11/06/2014,"73 Ferguson Rd, Drumcondra, Dublin 9",Dublin,422000.0,No,Drumcondra,Dublin 9,q3,70%
+17/06/2014,"124 Upper Drumcondra Road, Drumcondra",Dublin,67942.0,No,Drumcondra,Dublin 9,q1,10%
+17/06/2014,"29 Annadale Crescent, Drumcondra",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+18/06/2014,"36 Joyce Rd, Drumcondra, Dublin 9",Dublin,297000.0,No,Drumcondra,Dublin 9,q2,40%
+25/06/2014,"1 Claude Road, Drumcondra, Dublin 9",Dublin,520000.0,No,Drumcondra,Dublin 9,q4,90%
+26/06/2014,"43 Fitzroy Ave, Drumcondra, Dublin 9",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+01/07/2014,"12 Whitworth Rd, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+03/07/2014,"208 Clonliffe Road, Drumcondra, Dublin 9",Dublin,409000.0,No,Drumcondra,Dublin 9,q3,70%
+03/07/2014,"31 Claude Rd, Drumcondra, Dublin 9",Dublin,605000.0,No,Drumcondra,Dublin 9,q4,90%
+04/07/2014,"11 Lambay Rd, Drumcondra, Dublin 9",Dublin,365000.0,No,Drumcondra,Dublin 9,q3,60%
+09/07/2014,"33 Susanville Rd, Drumcondra, Dublin 3",Dublin,425000.0,No,Drumcondra,Dublin 9,q3,70%
+09/07/2014,"Breffni House, 45 Upper Drumcondra Road, Dublin 9",Dublin,675000.0,No,Drumcondra,Dublin 9,q4,100%
+11/07/2014,"5 Gracepark Heights, Drumcondra, Dublin 9",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+11/07/2014,"67 Chaplegate, Alphonsus Rd, Drumcondra Dublin 9",Dublin,215000.0,No,Drumcondra,Dublin 9,q1,20%
+15/07/2014,"10 Withworth Road, Drumcondra",Dublin,344300.0,No,Drumcondra,Dublin 9,q2,50%
+15/07/2014,"12 St Joseph'S Avenue, Clonliffe Road, Drumcondra",Dublin,167100.0,No,Drumcondra,Dublin 9,q1,10%
+17/07/2014,"119 Block A Hampton Lodge, Grace Park Road, Drumcondra",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+17/07/2014,"121 Block A Hampton Lodge, Gracepark Rd, Drumcondra Dublin 9",Dublin,212000.0,No,Drumcondra,Dublin 9,q1,20%
+18/07/2014,"6 Charlemont, Griffith Ave, Drumcondra Dublin 9",Dublin,395000.0,No,Drumcondra,Dublin 9,q3,60%
+22/07/2014,"Apt 312 Gracepark Manor, Drumcondra",Dublin,354400.0,No,Drumcondra,Dublin 9,q3,60%
+25/07/2014,"14 Windele Road, Drumcondra",Dublin,298000.0,No,Drumcondra,Dublin 9,q2,40%
+25/07/2014,"24 Claude Rd, Drumcondra, Dublin 9",Dublin,410050.0,No,Drumcondra,Dublin 9,q3,70%
+25/07/2014,"32 The Village, Drumcondra Rd Upper, Drumcondra",Dublin,283000.0,No,Drumcondra,Dublin 9,q2,40%
+25/07/2014,"5 All Hallows Sq, Griffith Ave, Drumcondra Dublin 9",Dublin,430000.0,No,Drumcondra,Dublin 9,q3,70%
+28/07/2014,"13 Millmount Place, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+28/07/2014,"8 Russell Ave, Drumcondra, Dublin 3",Dublin,303500.0,No,Drumcondra,Dublin 9,q2,40%
+28/07/2014,"9 High Park, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+31/07/2014,"50 Joyce Road, Drumcondra",Dublin,335000.0,No,Drumcondra,Dublin 9,q2,50%
+01/08/2014,"1 Whitworth Road, Drumcondra, Dublin 9",Dublin,230000.0,No,Drumcondra,Dublin 9,q1,20%
+01/08/2014,"50 Annadale Crescent, Drumcondra, Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+05/08/2014,"15 Botanic Ave, Drumcondra, Dublin 9",Dublin,335000.0,No,Drumcondra,Dublin 9,q2,50%
+08/08/2014,"41 Clonturk Park, Drumcondra, Dublin 9",Dublin,415000.0,No,Drumcondra,Dublin 9,q3,70%
+14/08/2014,"190 Clonliffe Road, Drumcondra",Dublin,220000.0,No,Drumcondra,Dublin 9,q1,20%
+15/08/2014,"24 Glenarm Square, Drumcondra, Dublin 9",Dublin,170000.0,No,Drumcondra,Dublin 9,q1,10%
+15/08/2014,"Apartment 63 Block B, Chapelgate, St Alphonsus Road  Drumcondra",Dublin,267000.0,No,Drumcondra,Dublin 9,q2,30%
+18/08/2014,"Apt 26 The Garden House, Waterfall Avenue, Drumcondra",Dublin,80576.0,No,Drumcondra,Dublin 9,q1,10%
+18/08/2014,"Apt . 37 The Garden House, Waterfall Avenue, Drumcondra",Dublin,98625.0,No,Drumcondra,Dublin 9,q1,10%
+20/08/2014,"1 Gracepark Avenue, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+20/08/2014,"1 Russell Avenue, Drumcondra, Dublin 9",Dublin,195000.0,No,Drumcondra,Dublin 9,q1,20%
+22/08/2014,"19 Ferguson Rd, Drumcondra, Dublin 9",Dublin,281000.0,No,Drumcondra,Dublin 9,q2,30%
+22/08/2014,"22 Walsh Rd, Drumcondra, Dublin 9",Dublin,364000.0,No,Drumcondra,Dublin 9,q3,60%
+22/08/2014,"89 Annadale Drive, Drumcondra",Dublin,397000.0,No,Drumcondra,Dublin 9,q3,70%
+26/08/2014,"20 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,304000.0,No,Drumcondra,Dublin 9,q2,40%
+28/08/2014,"14 Millmount Place, Drumcondra, Dublin 9",Dublin,355000.0,No,Drumcondra,Dublin 9,q3,60%
+29/08/2014,"8 Wellpark Avenue, Drumcondra, Dublin 9",Dublin,495000.0,No,Drumcondra,Dublin 9,q4,80%
+29/08/2014,"92 Hollybank Rd, Drumcondra, Dublin 9",Dublin,435000.0,No,Drumcondra,Dublin 9,q3,70%
+02/09/2014,"217 Grace Park Manor, Drumcondra Rd Dublin 9, Dublin",Dublin,293000.0,No,Drumcondra,Dublin 9,q2,40%
+04/09/2014,"22 St Brigids Road Upper, Drumcondra, Dublin 9",Dublin,520000.0,No,Drumcondra,Dublin 9,q4,90%
+04/09/2014,"33 The Village, Drumcondra, Dublin 9",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+05/09/2014,"188 Clonliffe Rd, Drumcondra, Dublin 3",Dublin,115000.0,No,Drumcondra,Dublin 9,q1,10%
+08/09/2014,"111 Ferguson Rd, Drumcondra, Dublin 9",Dublin,396750.0,No,Drumcondra,Dublin 9,q3,70%
+11/09/2014,"50 Walsh Rd, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+16/09/2014,"13 Ormond Rd, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+16/09/2014,"28 College Manor, Drumcondra",Dublin,326000.0,No,Drumcondra,Dublin 9,q2,50%
+16/09/2014,"99 Annadale Drive, Drumcondra, Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+17/09/2014,"23 Lower St. Brigid'S Road, Drumcondra, Dublin 9",Dublin,323000.0,No,Drumcondra,Dublin 9,q2,50%
+17/09/2014,"59 Millmount Ave, Drumcondra, Dublin 9",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+18/09/2014,"12 Grace Park Terrace, Drumcondra, Dublin 9",Dublin,575000.0,No,Drumcondra,Dublin 9,q4,90%
+19/09/2014,"149A Griffith Ave, Drumcondra, Dublin 9",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+19/09/2014,"19 Chapel Gate, St Alphonsus Rd Upper, Drumcondra Dublin 7",Dublin,296000.0,No,Drumcondra,Dublin 9,q2,40%
+19/09/2014,"4 Carberry Rd, Drumcondra, Dublin 9",Dublin,455000.0,No,Drumcondra,Dublin 9,q3,80%
+19/09/2014,"8 St Ignatius Rd, Drumcondra, Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+22/09/2014,"33 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+24/09/2014,"147 Richmond Road, Drumcondra, Dublin 9",Dublin,140000.0,No,Drumcondra,Dublin 9,q1,10%
+25/09/2014,"83 Grace Park Meadows, Drumcondra, Dublin 9",Dublin,377000.0,No,Drumcondra,Dublin 9,q3,60%
+29/09/2014,"11 Valentia Road, Drumcondra",Dublin,1350000.0,No,Drumcondra,Dublin 9,q4,100%
+29/09/2014,"97 Ferguson Rd, Drumcondra, Dublin 9",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+30/09/2014,"194 &196 Clonliffe Road, Drumcondra, Dublin",Dublin,421000.0,No,Drumcondra,Dublin 9,q3,70%
+30/09/2014,"90 Upper Drumcondra Road, Drumcondra, Dublin 7",Dublin,196350.0,No,Drumcondra,Dublin 9,q1,20%
+01/10/2014,"54 Millmount Ave, Drumcondra, Dublin 9",Dublin,418010.0,No,Drumcondra,Dublin 9,q3,70%
+01/10/2014,"9 Lower Drumcondra Rd, Dublin City",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+03/10/2014,"65 Grace Park Terrace, Drumcondra, Dublin 9",Dublin,555000.0,No,Drumcondra,Dublin 9,q4,90%
+13/10/2014,"Hampton Monastery, Gracepark Road, Drumcondra",Dublin,5650000.0,No,Drumcondra,Dublin 9,q4,100%
+14/10/2014,"420 Gracepark Manor, Drumcondra, Dublin 9",Dublin,950000.0,No,Drumcondra,Dublin 9,q4,100%
+15/10/2014,"29 St Columbas Rd Upr, Drumcondra, Dublin City",Dublin,485000.0,No,Drumcondra,Dublin 9,q4,80%
+15/10/2014,"8 Richmond Road, Drumcondra, Dublin 3",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,10%
+17/10/2014,"33 All Hallows Sq, Drumcondra, Dublin 9",Dublin,245000.0,No,Drumcondra,Dublin 9,q1,30%
+17/10/2014,"7 Corn Mill Row, Distillery Road, Drumcondra",Dublin,339207.05,Yes,Drumcondra,Dublin 9,q2,50%
+20/10/2014,"7 Ignatius Road, Drumcondra",Dublin,251900.0,No,Drumcondra,Dublin 9,q1,30%
+23/10/2014,"87 Upper Drumcondra Rd, Dublin 9, Dublin",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+24/10/2014,"30 Gracepark Manor, Drumcondra",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+24/10/2014,"52 Hollybank Rd, Drumcondra, Dublin 9",Dublin,536500.0,No,Drumcondra,Dublin 9,q4,90%
+29/10/2014,"76 Walsh Rd, Drumcondra, Dublin 9",Dublin,293000.0,No,Drumcondra,Dublin 9,q2,40%
+31/10/2014,"31 The Village, Drumcondra, Dublin 3",Dublin,276000.0,No,Drumcondra,Dublin 9,q2,30%
+31/10/2014,"35 Ferguson Rd, Drumcondra, Dublin 9",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+31/10/2014,"7 O Daly Rd, Drumcondra, Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+06/11/2014,"111 Grace Park Manor, Drumcondra, Dublin 9",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+07/11/2014,"38 Joyce Rd, Drumcondra, Dublin 9",Dublin,396000.0,No,Drumcondra,Dublin 9,q3,70%
+07/11/2014,"52 Griffith Downs, Drumcondra, Dublin 9",Dublin,864000.0,No,Drumcondra,Dublin 9,q4,100%
+07/11/2014,"75 Clonliffe Road, Drumcondra",Dublin,283500.0,No,Drumcondra,Dublin 9,q2,40%
+13/11/2014,"195 Clonliffe Rd, Drumcondra, Dublin 3",Dublin,487000.0,No,Drumcondra,Dublin 9,q4,80%
+14/11/2014,"57 Walsh Rd, Drumcondra, Dublin 9",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+21/11/2014,"4 Upper Drumcondra Rd, Dublin 9, Dublin",Dublin,118500.0,No,Drumcondra,Dublin 9,q1,10%
+21/11/2014,"42 Whitworth Road, Drumcondra, Dublin 9",Dublin,365000.0,No,Drumcondra,Dublin 9,q3,60%
+21/11/2014,"Middle Floor Apt, 2 Upr Drumcondra Road, Drumcondra",Dublin,125000.0,No,Drumcondra,Dublin 9,q1,10%
+21/11/2014,"Top Floor Apt, 2 Upr Drumcondra Road, Drumcondra",Dublin,124500.0,No,Drumcondra,Dublin 9,q1,10%
+24/11/2014,"27 Millmount Avenue, Drumcondra",Dublin,375000.0,No,Drumcondra,Dublin 9,q3,60%
+28/11/2014,"107 Hollybank Road, Drumcondra, Dublin 9",Dublin,780300.0,No,Drumcondra,Dublin 9,q4,100%
+28/11/2014,"19 Goose Green, Grace Park Road, Drumcondra",Dublin,433333.0,Yes,Drumcondra,Dublin 9,q3,70%
+01/12/2014,"17 Goose Green Court, Grace Park Road, Drumcondra",Dublin,410875.0,Yes,Drumcondra,Dublin 9,q3,70%
+01/12/2014,"207 Block A Hampton Lodge, Grace Park Rd, Drumcondra Dublin 9",Dublin,270000.0,No,Drumcondra,Dublin 9,q2,30%
+01/12/2014,"27 Annadale Crescent, Drumcondra, Dublin 9",Dublin,502000.0,No,Drumcondra,Dublin 9,q4,80%
+01/12/2014,"30 Carlingford Rd, Drumcondra, Dublin 9",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+03/12/2014,"42 Hardiman Rd, Drumcondra, Dublin 9",Dublin,382500.0,No,Drumcondra,Dublin 9,q3,60%
+05/12/2014,"12 Goose Green, Gracepark Road, Drumcondra",Dublin,485000.0,Yes,Drumcondra,Dublin 9,q4,80%
+05/12/2014,"229 Grace Park Heights, Drumcondra, Dublin 9",Dublin,352000.0,No,Drumcondra,Dublin 9,q3,60%
+05/12/2014,"6 Grace Park Ave, Drumcondra, Dublin 9",Dublin,321000.0,No,Drumcondra,Dublin 9,q2,50%
+08/12/2014,"16 Elizabeth St, Drumcondra, Dublin 3",Dublin,48409.0,No,Drumcondra,Dublin 9,q1,10%
+09/12/2014,"16 Goose Green Court, Gracepark Road, Drumcondra",Dublin,410875.0,Yes,Drumcondra,Dublin 9,q3,70%
+09/12/2014,"9 Edgewood, Richmond Road, Drumcondra",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+10/12/2014,"17 Millbourne Avenue, Drumcondra, Dublin 9",Dublin,160000.0,No,Drumcondra,Dublin 9,q1,10%
+10/12/2014,"9 St Josephs Ave, Drumcondra, Dublin 9",Dublin,220000.0,No,Drumcondra,Dublin 9,q1,20%
+11/12/2014,"132 Homefarm Rd, Drumcondra, Dublin 9",Dublin,505000.0,No,Drumcondra,Dublin 9,q4,80%
+12/12/2014,"36 Grace Park Terrace, Drumcondra, Dublin 9",Dublin,615000.0,No,Drumcondra,Dublin 9,q4,100%
+12/12/2014,"73 Hollybank Rd, Drumcondra, Dublin 9",Dublin,675000.0,No,Drumcondra,Dublin 9,q4,100%
+16/12/2014,"15 Goose Green Court, Drumcondra",Dublin,418502.19,Yes,Drumcondra,Dublin 9,q3,70%
+17/12/2014,"6 Distillery Rd, Drumcondra, Dublin 3",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+17/12/2014,"82 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,361000.0,No,Drumcondra,Dublin 9,q3,60%
+18/12/2014,"1 Glendalough Rd, Drumcondra, Dublin 9",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+18/12/2014,"43 Millmount Ave, Drumcondra, Dublin 9",Dublin,125000.0,No,Drumcondra,Dublin 9,q1,10%
+19/12/2014,"1 Beau Court, Achill Road, Drumcondra",Dublin,150000.0,No,Drumcondra,Dublin 9,q1,10%
+19/12/2014,"13 Churchview Apts, Church Rd, Drumcondra",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,10%
+19/12/2014,"18 Goose Green Court, Drumcondra, Dublin 9",Dublin,422907.0,Yes,Drumcondra,Dublin 9,q3,70%
+19/12/2014,"5 Glen Arm Sq, St Josephs Ave, Drumcondra Dublin 9",Dublin,295000.0,No,Drumcondra,Dublin 9,q2,40%
+19/12/2014,"Apts 1-9 Grace Park House, Richmond Rd, Drumcondra Dublin 9",Dublin,850000.0,No,Drumcondra,Dublin 9,q4,100%
+22/12/2014,"11 Beresford Ave, Griffith Ave, Drumcondra Dublin 9",Dublin,750000.0,No,Drumcondra,Dublin 9,q4,100%
+22/12/2014,"114 Grace Park Manor, Drumcondra, Dublin 9",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+22/12/2014,"21 Rosemount, Glandore Rd, Drumcondra Dublin 9",Dublin,256479.0,No,Drumcondra,Dublin 9,q1,30%
+22/12/2014,"23 Corn Mill, Distillery Rd, Drumcondra Dublin 3",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+22/12/2014,"36 St Alphonsus Road, Drumcondra, Dublin 9",Dublin,480000.0,No,Drumcondra,Dublin 9,q4,80%
+22/12/2014,"46 Walsh Road, Drumcondra",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+22/12/2014,"Apt B, 7 St Patricks Rd, Drumcondra",Dublin,297699.0,No,Drumcondra,Dublin 9,q2,40%
+06/01/2015,"9 0Briens Place, Drumcondra, Dublin 9",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+09/01/2015,"20 May St, Drumcondra, Dublin 3",Dublin,421000.0,No,Drumcondra,Dublin 9,q3,70%
+09/01/2015,"4 Achill Court, Wellpark Ave, Drumcondra Dublin 9",Dublin,215000.0,No,Drumcondra,Dublin 9,q1,20%
+14/01/2015,"4 Lower Drumcondra Road, Dublin 9",Dublin,175000.0,No,Drumcondra,Dublin 9,q1,10%
+15/01/2015,"13 Leo St, Drumcondra, Dublin 9",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+15/01/2015,"8 Annadale Dr, Drumcondra, Dublin 9",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+16/01/2015,"12 The Crescent, Griffith Downs, Drumcondra Dublin 9",Dublin,560300.0,No,Drumcondra,Dublin 9,q4,90%
+16/01/2015,"Apartment 61 Chapelgate, St. Alphonsus Road, Drumcondra",Dublin,399000.0,No,Drumcondra,Dublin 9,q3,70%
+20/01/2015,"82 Hollybank Rd, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+21/01/2015,"Apartment 309, Gracepark Manor, Drumcondra",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+21/01/2015,"Apartment 310, Gracepark Manor, Drumcondra",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+23/01/2015,"74 Walsh Road, Drumcondra, Dublin 9",Dublin,315000.0,No,Drumcondra,Dublin 9,q2,50%
+29/01/2015,"18 Home Farm Rd, Drumcondra, Dublin 9",Dublin,585000.0,No,Drumcondra,Dublin 9,q4,90%
+30/01/2015,"103 Hampton Lodge Block B, Grace Park Rd, Drumcondra Dublin 9",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+30/01/2015,"14 Goose Green, Gracepark Road, Drumcondra",Dublin,442159.0,Yes,Drumcondra,Dublin 9,q3,80%
+03/02/2015,"309 Hampton Lodge, Drumcondra, Dublin 9",Dublin,258000.0,No,Drumcondra,Dublin 9,q1,30%
+05/02/2015,"11 Goose Green, Gracepark Road, Drumcondra",Dublin,376275.0,Yes,Drumcondra,Dublin 9,q3,60%
+06/02/2015,"19 Beresford Ave, Drumcondra, Dublin 9",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+06/02/2015,"2 St Columbus Road Upper, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+06/02/2015,"87 High Park, Grace Park Rd, Drumcondra",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+11/02/2015,"88 Walsh Road, Drumcondra, Dublin 9",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+12/02/2015,"Apartment 52 Chapelgate, St. Alphonsus Road, Drumcondra",Dublin,262000.0,No,Drumcondra,Dublin 9,q1,30%
+18/02/2015,"24 St Patricks Rd, Drumcondra, Dublin 9",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+18/02/2015,"40 Elizabeth St, Drumcondra, Dublin 3",Dublin,245000.0,No,Drumcondra,Dublin 9,q1,30%
+19/02/2015,"26 College Manor, Drumcondra, Dublin 9",Dublin,335000.0,No,Drumcondra,Dublin 9,q2,50%
+23/02/2015,"17 Ashford, Griffith Avenue, Drumcondra",Dublin,255757.0,No,Drumcondra,Dublin 9,q1,30%
+25/02/2015,"9 Carlingford Rd, Drumcondra, Dublin 9",Dublin,434000.0,No,Drumcondra,Dublin 9,q3,70%
+27/02/2015,"110 Drumcondra Road Upper, Dublin 9",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+27/02/2015,"15 Sion Hill Court, Drumcondra, Dublin 9",Dublin,135000.0,No,Drumcondra,Dublin 9,q1,10%
+27/02/2015,"72 St Alphonsus Rd Upper, Drumcondra, Dublin 9",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+27/02/2015,"8 St Josephs Avenue, Drumcondra, Dublin 9",Dublin,185000.0,No,Drumcondra,Dublin 9,q1,20%
+03/03/2015,"214 Hampton Lodge, Grace Park Rd, Drumcondra Dublin 9",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+04/03/2015,"5 Church Avenue, Drumcondra, Dublin 9",Dublin,225000.0,No,Drumcondra,Dublin 9,q1,20%
+04/03/2015,"8 Goose Green Court, Gracepark Road, Drumcondra",Dublin,384955.75,Yes,Drumcondra,Dublin 9,q3,60%
+12/03/2015,"18 Chapelgate, St.Alphonsus Road, Drumcondra",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+18/03/2015,"1A Fitzroy Ave, Drumcondra, Dublin 3",Dublin,125000.0,No,Drumcondra,Dublin 9,q1,10%
+18/03/2015,"27B Wellpark Ave, Drumcondra, Dublin 9",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+19/03/2015,"9 Goose Green, Gracepark Road, Drumcondra",Dublin,383260.0,Yes,Drumcondra,Dublin 9,q3,60%
+25/03/2015,"2 Weir House, Richmond Road, Drumcondra",Dublin,174039.0,No,Drumcondra,Dublin 9,q1,10%
+26/03/2015,"22 Lower Columbus Rd, Drumcondra, Dublin 9",Dublin,375000.0,No,Drumcondra,Dublin 9,q3,60%
+26/03/2015,"67 Hollybank Rd, Drumcondra, Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+27/03/2015,"55 St Patricks Rd, Drumcondra, Dublin",Dublin,430000.0,No,Drumcondra,Dublin 9,q3,70%
+27/03/2015,"58 Annadale Dr, Drumcondra, Dublin 9",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+30/03/2015,"10 Goose Green, Gracepark Road, Drumcondra",Dublin,435000.0,Yes,Drumcondra,Dublin 9,q3,70%
+30/03/2015,"11 Griffith Walk, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+30/03/2015,"44 Elizabeth St, Drumcondra, Dublin 3",Dublin,242000.0,No,Drumcondra,Dublin 9,q1,20%
+31/03/2015,"21 Sion Hill Court, Sion Hill Road, Drumcondra",Dublin,140500.0,No,Drumcondra,Dublin 9,q1,10%
+31/03/2015,"25 Griffith Ave, Drumcondra, Dublin 9",Dublin,47500.0,No,Drumcondra,Dublin 9,q1,10%
+02/04/2015,"253 Clonliffe Road, Drumcondra, Dublin 9",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+07/04/2015,"1B Griffith Lawns, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+15/04/2015,"3 Lower St Brigids Rd, Drumcondra, Dublin 9",Dublin,345000.0,No,Drumcondra,Dublin 9,q2,50%
+17/04/2015,"3 Goose Green, Gracepark Road, Drumcondra",Dublin,370044.05,Yes,Drumcondra,Dublin 9,q3,60%
+24/04/2015,"2 Goose Green, Grace Park  Road, Drumcondra",Dublin,370044.05,Yes,Drumcondra,Dublin 9,q3,60%
+24/04/2015,"38 O'Daly Road, Drumcondra, Dublin 9",Dublin,270000.0,No,Drumcondra,Dublin 9,q2,30%
+27/04/2015,"1 Goose Green Court, Gracepark Road, Drumcondra",Dublin,370045.0,Yes,Drumcondra,Dublin 9,q3,60%
+30/04/2015,"28 Gracepark Manor, Drumcondra, Dublin 9",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+30/04/2015,"7 St Clements Rd, Drumcondra, Dublin 9",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+30/04/2015,"72 Lower Drumcondra Rd, Dublin 9, Dublin",Dublin,456000.0,No,Drumcondra,Dublin 9,q3,80%
+30/04/2015,"74 Lower Drumcondra Rd, Dublin 9, Dublin",Dublin,456000.0,No,Drumcondra,Dublin 9,q3,80%
+30/04/2015,"Apartment 105 Chapelgate, St Alphonsus Road, Drumcondra",Dublin,266000.0,No,Drumcondra,Dublin 9,q2,30%
+01/05/2015,"Apt 329 The Distillery, Distillery Rd, Drumcondra Dublin 3",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+05/05/2015,"3 O'Brien Place, Drumcondra, Dublin 9",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+05/05/2015,"5 St Brigids Rd Lower, Drumcondra, Dublin 9",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+08/05/2015,"17 The Crescent, Griffith Downs, Drumcondra Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+11/05/2015,"28 Oneactain Rd, Drumcondra, Dublin 9",Dublin,335000.0,No,Drumcondra,Dublin 9,q2,50%
+11/05/2015,"32 The Court, Grace Park Rd, Drumcondra Dublin 9",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+13/05/2015,"146 Grace Park Heights, Drumcondra, Dublin 9",Dublin,230000.0,No,Drumcondra,Dublin 9,q1,20%
+13/05/2015,"5 Goose Green, Gracepark Road, Drumcondra",Dublin,387665.2,Yes,Drumcondra,Dublin 9,q3,60%
+15/05/2015,"83 Chapelgate, St Alphonsus Rd Upper, Drumcondra Dublin 9",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+18/05/2015,"61 Millmount Avenue, Drumcondra, Dublin 9",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+20/05/2015,"10 St Brendans Rd, Drumcondra, Dublin 9",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+28/05/2015,"16 Walsh Road, Drumcondra, Dublin 9",Dublin,435000.0,No,Drumcondra,Dublin 9,q3,70%
+28/05/2015,"44 Walnut Rise, Drumcondra, Dublin 9",Dublin,540000.0,No,Drumcondra,Dublin 9,q4,90%
+03/06/2015,"25 St Ignatius Rd, Drumcondra, Dublin 9",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+04/06/2015,"26 Grace Park Manor, Grace Park Road, Drumcondra",Dublin,297000.0,No,Drumcondra,Dublin 9,q2,40%
+05/06/2015,"13 Goose Green, Gracepark Road, Drumcondra",Dublin,475000.0,Yes,Drumcondra,Dublin 9,q4,80%
+05/06/2015,"68 Iona Rd, Drumcondra, Dublin 9",Dublin,1270000.0,No,Drumcondra,Dublin 9,q4,100%
+08/06/2015,"56 Calderwood Road, Drumcondra, Dublin 9",Dublin,580000.0,No,Drumcondra,Dublin 9,q4,90%
+11/06/2015,"44 Fleming Rd, Drumcondra, Dublin 9",Dublin,302000.0,No,Drumcondra,Dublin 9,q2,40%
+12/06/2015,"200 Clonliffe Rd, Drumcondra, Dublin 3",Dublin,274854.0,No,Drumcondra,Dublin 9,q2,30%
+12/06/2015,"66 Carlingford Rd, Drumcondra Dublin 9",Dublin,333751.0,No,Drumcondra,Dublin 9,q2,50%
+16/06/2015,"27 Clonliffe Sq, Distillery Rd, Drumcondra Dublin 3",Dublin,225000.0,No,Drumcondra,Dublin 9,q1,20%
+19/06/2015,"87 Griffith Ave, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+19/06/2015,"Apt 107 Block B Hampton Lodge, Grace Park Rd, Drumcondra Dublin 9",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+25/06/2015,"6 The Crescent, Griffith Downs, Drumcondra Dublin 9",Dublin,505000.0,No,Drumcondra,Dublin 9,q4,80%
+26/06/2015,"4 Grace Park Heights, Drumcondra, Dublin 9",Dublin,335000.0,No,Drumcondra,Dublin 9,q2,50%
+01/07/2015,"46 Joyce Rd, Drumcondra, Dublin 9",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+03/07/2015,"13 Wellpark Avenue, Drumcondra",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+08/07/2015,"6 Bantry Rd, Home Farm Rd, Drumcondra Dublin 9",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+09/07/2015,"132 Upper Drumcondra Road, Drumcondra",Dublin,788000.0,No,Drumcondra,Dublin 9,q4,100%
+13/07/2015,"360 Griffith Ave, Drumcondra, Dublin 9",Dublin,635000.0,No,Drumcondra,Dublin 9,q4,100%
+14/07/2015,"92 Drumcondra Rd Lower, Dublin 9",Dublin,495000.0,No,Drumcondra,Dublin 9,q4,80%
+17/07/2015,"3 All Hallows Green, Griffith Ave, Drumcondra Dublin 9",Dublin,412000.0,No,Drumcondra,Dublin 9,q3,70%
+21/07/2015,"7 Goose Green, Goosepark, Drumcondra",Dublin,367625.0,Yes,Drumcondra,Dublin 9,q3,60%
+21/07/2015,"75 Carlingford Rd, Drumcondra, Dublin 9",Dublin,378000.0,No,Drumcondra,Dublin 9,q3,60%
+21/07/2015,"Calderwood Court, Calderwood Rd And Sion Hill Rd, Drumcondra",Dublin,1801762.0,Yes,Drumcondra,Dublin 9,q4,100%
+21/07/2015,"Calderwood Court, Calderwood Rd And Sion Hill Rd, Drumcondra",Dublin,2045000.0,Yes,Drumcondra,Dublin 9,q4,100%
+24/07/2015,"304 Hampton Lodge, Grace Park Rd, Drumcondra Dublin 9",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+24/07/2015,"5 Holy Cross Ave, Clonliffe Rd, Drumcondra Dublin 9",Dublin,160000.0,No,Drumcondra,Dublin 9,q1,10%
+27/07/2015,"1A Calderwood Avenue, Drumcondra, Dublin 9",Dublin,220000.0,No,Drumcondra,Dublin 9,q1,20%
+27/07/2015,"48 Crawford Ave, Drumcondra, Dublin 9",Dublin,481000.0,No,Drumcondra,Dublin 9,q4,80%
+31/07/2015,"19 Gracepark Heights, Drumcondra, Dublin 9",Dublin,447500.0,No,Drumcondra,Dublin 9,q3,80%
+31/07/2015,"44 Sion Hill Road, Drumcondra, Dublin 9",Dublin,621145.37,No,Drumcondra,Dublin 9,q4,100%
+06/08/2015,"37 Calderwood Ave, Drumcondra, Dublin 9",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+12/08/2015,"5 Beresford Ave, Griffith Ave, Drumcondra",Dublin,800000.0,No,Drumcondra,Dublin 9,q4,100%
+12/08/2015,"67 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,357000.0,No,Drumcondra,Dublin 9,q3,60%
+13/08/2015,"11 Glen Arm Square, Dargle Road, Drumcondra",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+14/08/2015,"11 Homefarm Rd, Drumcondra, Dublin 9",Dublin,510000.0,No,Drumcondra,Dublin 9,q4,90%
+14/08/2015,"60 Clonliffe Road, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+17/08/2015,"16 Whitworth Road, Drumcondra, Dublin 9",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+21/08/2015,"23 St Bridgids Road, Lower Drumcondra, Dublin 9",Dublin,545000.0,No,Drumcondra,Dublin 9,q4,90%
+21/08/2015,"43 Griffith Avenue, Drumcondra",Dublin,490000.0,No,Drumcondra,Dublin 9,q4,80%
+24/08/2015,"108 Grace Park Rd, Drumcondra, Dublin 9",Dublin,545000.0,No,Drumcondra,Dublin 9,q4,90%
+27/08/2015,"10 St Patricks Rd, Drumcondra, Dublin 9",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+27/08/2015,"24 Carlingford Road, Drumcondra",Dublin,410500.0,No,Drumcondra,Dublin 9,q3,70%
+28/08/2015,"63 The Cornmill, Distillery Rd, Drumcondra Dublin 3",Dublin,305000.0,No,Drumcondra,Dublin 9,q2,40%
+31/08/2015,"61 Lower Drumcondra Road, Drumcondra, Dublin 9",Dublin,470000.0,No,Drumcondra,Dublin 9,q4,80%
+03/09/2015,"13 Hogan View, Richmond Rd, Drumcondra",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+04/09/2015,"201 Grace Manor, Drumcondra, Dublin 9",Dublin,333500.0,No,Drumcondra,Dublin 9,q2,50%
+04/09/2015,"3 Richmond Road, Drumcondra",Dublin,292000.0,No,Drumcondra,Dublin 9,q2,40%
+07/09/2015,"St Lukes, 161 Lower Drumcondra Road, Dublin 9",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+08/09/2015,"12 All Hallows Sq, Griffith Ave, Drumcondra Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+08/09/2015,"78 Walsh Road, Drumcondra, Dublin 9",Dublin,230000.0,No,Drumcondra,Dublin 9,q1,20%
+11/09/2015,"46 Grace Park Meadows, Drumcondra, Dublin",Dublin,342500.0,No,Drumcondra,Dublin 9,q2,50%
+16/09/2015,"16 High Park, Grace Park Rd, Drumcondra Dublin 9",Dublin,480000.0,No,Drumcondra,Dublin 9,q4,80%
+17/09/2015,"205 Botanic Avenue, Drumcondra, Dublin 9",Dublin,386000.0,No,Drumcondra,Dublin 9,q3,60%
+17/09/2015,"35 St Annes Rd, Drumcondra, Dublin 9",Dublin,372000.0,No,Drumcondra,Dublin 9,q3,60%
+17/09/2015,"53 St Patricks Rd, Drumcondra, Dublin 9",Dublin,470000.0,No,Drumcondra,Dublin 9,q4,80%
+18/09/2015,"18 Clonliffe Gardens, Drumcondra, Dublin 9",Dublin,455000.0,No,Drumcondra,Dublin 9,q3,80%
+18/09/2015,"1A Fitzroy Ave, Drumcondra, Dublin 3",Dublin,165000.0,No,Drumcondra,Dublin 9,q1,10%
+25/09/2015,"10 Innisfallen Parade, Drumcondra, Dublin 7",Dublin,220000.0,No,Drumcondra,Dublin 9,q1,20%
+25/09/2015,"2 Grace Park Rd, Drumcondra, Dublin 9",Dublin,286000.0,No,Drumcondra,Dublin 9,q2,40%
+25/09/2015,"9 Millmount Place, Drumcondra, Dublin 9",Dublin,341000.0,No,Drumcondra,Dublin 9,q2,50%
+29/09/2015,"8 Woodville Rd, Drumcondra, Dublin 9",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+01/10/2015,"13 All Hallows Sq, Griffith Ave, Drumcondra Dublin 9",Dublin,245000.0,No,Drumcondra,Dublin 9,q1,30%
+01/10/2015,"38 Sion Hill Road, Sion Hill Park, Drumcondra",Dublin,652000.0,Yes,Drumcondra,Dublin 9,q4,100%
+09/10/2015,"26 Carlingford Road, Drumcondra",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+09/10/2015,"91 Griffith Hall, Glandore Rd, Drumcondra Dublin 9",Dublin,202500.0,No,Drumcondra,Dublin 9,q1,20%
+13/10/2015,"52 St Alphonsus Rd, Lower Drumcondra Rd, Drumcondra Dublin 9",Dublin,386000.0,No,Drumcondra,Dublin 9,q3,60%
+14/10/2015,"19 Grace Park Rd, Drumcondra, Dublin 9",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+16/10/2015,"39 St Annes Rd, Drumcondra, Dublin 9",Dublin,422500.0,No,Drumcondra,Dublin 9,q3,70%
+16/10/2015,"48 Chapelgate, Drumcondra, Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+16/10/2015,"49 Richmond Rd, Drumcondra, Dublin 3",Dublin,367000.0,No,Drumcondra,Dublin 9,q3,60%
+20/10/2015,"8 Hollybank Court, St Josephs Ave, Drumcondra Dublin 9",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+22/10/2015,"127 Griffith Avenue, Drumcondra",Dublin,675000.0,No,Drumcondra,Dublin 9,q4,100%
+23/10/2015,"148 Clonliffe Rd, Drumcondra, Dublin 3",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+23/10/2015,"277 Griffith Ave, Drumcondra, Dublin 9",Dublin,640000.0,No,Drumcondra,Dublin 9,q4,100%
+23/10/2015,"30 Portland Lock Drumcondra Bridge, Dublin 1, Dublin",Dublin,230000.0,No,Drumcondra,Dublin 9,q1,20%
+23/10/2015,"35 College Manor, Drumcondra, Dublin",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+27/10/2015,"9 Grace Park Meadows, Drumcondra, Dublin 9",Dublin,347000.0,No,Drumcondra,Dublin 9,q2,50%
+29/10/2015,"No 6 Seven Oaks, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+04/11/2015,"5 Disterllery Rd, Drumcondra, Dublin 3",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+06/11/2015,"3 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,590308.0,Yes,Drumcondra,Dublin 9,q4,90%
+12/11/2015,"37 Home Farm Park, Drumcondra, Dublin 9",Dublin,581000.0,No,Drumcondra,Dublin 9,q4,90%
+13/11/2015,"40 Sion Hill Road, Sion Hill Park, Drumcondra D9",Dublin,616741.0,Yes,Drumcondra,Dublin 9,q4,100%
+18/11/2015,"1 Hardiman Rd, Drumcondra, Dublin 9",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+18/11/2015,"167 Richmond Rd, Drumcondra, Dublin 3",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+18/11/2015,"4 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,612334.8,Yes,Drumcondra,Dublin 9,q4,100%
+18/11/2015,"47 All Hallows Sq, Drumcondra, Dublin 9",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+19/11/2015,"40 Ferguson Road, Drumcondra, Dublin 9",Dublin,313500.0,No,Drumcondra,Dublin 9,q2,40%
+20/11/2015,"65  Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,651982.37,Yes,Drumcondra,Dublin 9,q4,100%
+24/11/2015,"30 Seven Oaks, Drumcondra, Dublin 9",Dublin,430000.0,No,Drumcondra,Dublin 9,q3,70%
+26/11/2015,"Apt 2D  Griffith Lawns, Griffith Avenue, Drumcondra",Dublin,270000.0,No,Drumcondra,Dublin 9,q2,30%
+27/11/2015,"36 High Pk, Grace Pk Rd, Drumcondra Dublin 9",Dublin,345000.0,No,Drumcondra,Dublin 9,q2,50%
+27/11/2015,"62 Sion Hill Park, Drumcondra, Dublin 9",Dublin,608000.0,Yes,Drumcondra,Dublin 9,q4,90%
+03/12/2015,"21 Grace Park Manor, Drumcondra, Dublin 9",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+04/12/2015,"206 Hampton Lodge Block B, Grace Park Rd, Drumcondra Dublin 9",Dublin,305000.0,No,Drumcondra,Dublin 9,q2,40%
+10/12/2015,"127 Ferguson Rd, Drumcondra, Dublin 9",Dublin,328000.0,No,Drumcondra,Dublin 9,q2,50%
+10/12/2015,"Apt 25 Glenarm Sq, St Josephs Ave, Drumcondra",Dublin,197000.0,No,Drumcondra,Dublin 9,q1,20%
+11/12/2015,"40 Grace Park Terrace, Drumcondra, Dublin 9",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+11/12/2015,"Apt 1, 182 Clonliffe Rd, Drumcondra Dublin 3",Dublin,159000.0,No,Drumcondra,Dublin 9,q1,10%
+15/12/2015,"108 Lower Drumcondra Rd, Drumcondra, Dublin 9",Dublin,775000.0,No,Drumcondra,Dublin 9,q4,100%
+15/12/2015,"11 Comyn Place, Drumcondra",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+15/12/2015,"60 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,607930.0,Yes,Drumcondra,Dublin 9,q4,90%
+15/12/2015,"9 Comyn Lace, Drumcondra",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+16/12/2015,"Apt 10, 182 Clonliffe Rd, Drumcondra Dublin 3",Dublin,205000.0,No,Drumcondra,Dublin 9,q1,20%
+17/12/2015,"14 All Hallows Sq, Griffith Ave, Drumcondra Dublin 9",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+17/12/2015,"57 Sion Hill Park, Drumcondra",Dublin,607929.52,Yes,Drumcondra,Dublin 9,q4,90%
+17/12/2015,"6 Clonliffe Gardens, Drumcondra, Dublin 3",Dublin,313500.0,No,Drumcondra,Dublin 9,q2,40%
+18/12/2015,"Apt 6, James Joyce Crt, Drumcondra Dublin 9",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+21/12/2015,"23 Millmount Ave, Drumcondra, Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+22/12/2015,"138 Botanic Ave, Drumcondra, Dublin 9",Dublin,420000.0,No,Drumcondra,Dublin 9,q3,70%
+23/12/2015,"39 Gracepark Manor, Whitehall, Drumcondra Dublin 9",Dublin,323000.0,No,Drumcondra,Dublin 9,q2,50%
+23/12/2015,"59 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,607929.52,Yes,Drumcondra,Dublin 9,q4,90%
+15/01/2016,"10 Whitworth Place, Drumcondra, Dublin 9",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+15/01/2016,"9 Whitworth Place, Drumcondra, Dublin 9",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+18/01/2016,"6 Goose Green Court, Gracepark Road, Drumcondra",Dublin,374449.34,Yes,Drumcondra,Dublin 9,q3,60%
+21/01/2016,"16 All Hallows Sq, Drumcondra, Dublin 9",Dublin,403000.0,No,Drumcondra,Dublin 9,q3,70%
+22/01/2016,"58 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,607929.53,Yes,Drumcondra,Dublin 9,q4,90%
+28/01/2016,"15 Russell Avenue, Drumcondra, Dublin 3",Dublin,368000.0,No,Drumcondra,Dublin 9,q3,60%
+05/02/2016,"13 Achill Court, Drumcondra, Dublin",Dublin,175000.0,No,Drumcondra,Dublin 9,q1,10%
+11/02/2016,"311A Hampton Lodge, Grace Park, Drumcondra",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+19/02/2016,"10 College View, All Hallows Green, Drumcondra Dublin 9",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+01/03/2016,"10 Walnut Rise, Drumcondra, Dublin 9",Dublin,520000.0,No,Drumcondra,Dublin 9,q4,90%
+01/03/2016,"Apartment 3 Botanic Square, Botanic Avenue, Drumcondra",Dublin,215000.0,No,Drumcondra,Dublin 9,q1,20%
+02/03/2016,"10 Mabel St, Off Clonliffe Rd, Drumcondra Dublin 9",Dublin,267500.0,No,Drumcondra,Dublin 9,q2,30%
+03/03/2016,"89 Homefarm Rd, Drumcondra, Dublin 9",Dublin,457000.0,No,Drumcondra,Dublin 9,q3,80%
+04/03/2016,"10 Drumcondra Park, Drumcondra, Dublin 3",Dublin,408000.0,No,Drumcondra,Dublin 9,q3,70%
+04/03/2016,"27 Achill Rd, Drumcondra, Dublin 9",Dublin,575000.0,No,Drumcondra,Dublin 9,q4,90%
+04/03/2016,"34 Hardiman Rd, Drumcondra, Dublin 9",Dublin,305000.0,No,Drumcondra,Dublin 9,q2,40%
+08/03/2016,"68 Annadale Crescent, Drumcondra",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+08/03/2016,"7 Lambay Rd, Drumcondra, Dublin 7",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+09/03/2016,"62 Botanic Ave, Drumcondra, Dublin 9",Dublin,200000.0,No,Drumcondra,Dublin 9,q1,20%
+11/03/2016,"22 Sion Hill Court, Sion Hill Road, Drumcondra",Dublin,128000.0,No,Drumcondra,Dublin 9,q1,10%
+15/03/2016,"Apt 6, 182 Clonliffe Rd, Drumcondra Dublin 3",Dublin,210000.0,No,Drumcondra,Dublin 9,q1,20%
+16/03/2016,"112 Gracepark Manor, Gracepark Rd, Drumcondra Dublin 9",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+16/03/2016,"9 Clare Rd, Drumcondra, Dublin 9",Dublin,720000.0,No,Drumcondra,Dublin 9,q4,100%
+18/03/2016,"16 The Court, High Park, Drumcondra",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+18/03/2016,"47 Hardiman Rd, Drumcondra, Dublin 9",Dublin,298000.0,No,Drumcondra,Dublin 9,q2,40%
+18/03/2016,"52 Joyce Rd, Drumcondra, Dublin 9",Dublin,315000.0,No,Drumcondra,Dublin 9,q2,50%
+18/03/2016,"88 Hollybank Rd, Drumcondra, Dublin 9",Dublin,487000.0,No,Drumcondra,Dublin 9,q4,80%
+23/03/2016,"1 Clonturk Square, Drumcondra",Dublin,414097.0,Yes,Drumcondra,Dublin 9,q3,70%
+23/03/2016,"62 Chapelgate, St Alphonsus Rd, Drumcondra Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+24/03/2016,"2 Clonturk Square, Drumcondra, Dublin 9",Dublin,470000.0,Yes,Drumcondra,Dublin 9,q4,80%
+24/03/2016,"30 Clonliffe Square, Distillery Road, Drumcondra",Dublin,159500.0,No,Drumcondra,Dublin 9,q1,10%
+24/03/2016,"46 Sion Hill Park, Drumcondra",Dublin,422907.0,Yes,Drumcondra,Dublin 9,q3,70%
+24/03/2016,"63  Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,607930.0,Yes,Drumcondra,Dublin 9,q4,90%
+31/03/2016,"50 Sion Hill Park, Drumcondra, Dublin 9",Dublin,396475.77,Yes,Drumcondra,Dublin 9,q3,70%
+01/04/2016,"51 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,396475.77,Yes,Drumcondra,Dublin 9,q3,70%
+05/04/2016,"15 Glen Arm Sq, Dargle Rd, Drumcondra Dublin 9",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+07/04/2016,"12 Calderwood Rd, Drumcondra, Dublin",Dublin,810000.0,No,Drumcondra,Dublin 9,q4,100%
+07/04/2016,"18 St Alphonsus Rd, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+08/04/2016,"47 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,422907.0,Yes,Drumcondra,Dublin 9,q3,70%
+08/04/2016,"48 Sion Hill Park, Drumcondra, Dublin 9",Dublin,510350.0,Yes,Drumcondra,Dublin 9,q4,90%
+13/04/2016,"7 Garden House Apartment, Waterfall Avenue, Drumcondra",Dublin,165000.0,No,Drumcondra,Dublin 9,q1,10%
+15/04/2016,"Griffith Hall, Griffith Ave, Drumcondra Dublin 9",Dublin,353000.0,No,Drumcondra,Dublin 9,q3,60%
+18/04/2016,"98 Clonliffe Rd, Drumcondra, Dublin 9",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+20/04/2016,"23 Glen Arm Sq, Drumcondra, Dublin",Dublin,235000.0,No,Drumcondra,Dublin 9,q1,20%
+20/04/2016,"45 Sion Hill Park, Drumcondra, Dublin 9",Dublin,480000.0,Yes,Drumcondra,Dublin 9,q4,80%
+20/04/2016,"7 Wigan Rd, Drumcondra, Dublin 9",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+21/04/2016,"No. 4 Clonturk Square, Drumcondra, Dublin 9",Dublin,414096.91,Yes,Drumcondra,Dublin 9,q3,70%
+22/04/2016,"33 Hollybank Rd, Drumcondra, Dublin 9",Dublin,525000.0,No,Drumcondra,Dublin 9,q4,90%
+22/04/2016,"8 Church View, Church Ave, Drumcondra Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+26/04/2016,"45 Clonliffe Rd, Drumcondra, Dublin 3",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+28/04/2016,"49 Sion Hill Park, Drumcondra",Dublin,519823.0,Yes,Drumcondra,Dublin 9,q4,90%
+03/05/2016,"26 Annadale Dr, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+06/05/2016,"5 Achill Rd, Drumcondra, Dublin 9",Dublin,750000.0,No,Drumcondra,Dublin 9,q4,100%
+06/05/2016,"Apt 2, 182 Clonliffe, Drumcondra Dublin 3",Dublin,160000.0,No,Drumcondra,Dublin 9,q1,10%
+06/05/2016,"Apt 9, 182 Clonliffe Rd, Drumcondra Dublin 3",Dublin,160000.0,No,Drumcondra,Dublin 9,q1,10%
+10/05/2016,"11 Achill Rd, Drumcondra, Dublin 9",Dublin,615000.0,No,Drumcondra,Dublin 9,q4,100%
+11/05/2016,"20 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,435000.0,Yes,Drumcondra,Dublin 9,q3,80%
+16/05/2016,"19 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,383260.0,Yes,Drumcondra,Dublin 9,q3,60%
+16/05/2016,"3 Millmount Avenue, Drumcondra, Dublin 9",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+16/05/2016,"33 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,506608.0,Yes,Drumcondra,Dublin 9,q4,90%
+16/05/2016,"44 Sion Hill Park, Drumcondra, Dublin 9",Dublin,555066.0,Yes,Drumcondra,Dublin 9,q4,90%
+17/05/2016,"18 Griffith Ave, Drumcondra, Dublin 9",Dublin,615250.0,No,Drumcondra,Dublin 9,q4,100%
+17/05/2016,"65 Hardiman Rd, Drumcondra, Dublin 9",Dublin,365000.0,No,Drumcondra,Dublin 9,q3,60%
+18/05/2016,"132 Lower Drumcondra Road, Drumcondra, Dublin 9",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+18/05/2016,"31 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,415929.2,Yes,Drumcondra,Dublin 9,q3,70%
+18/05/2016,"35 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,404550.0,Yes,Drumcondra,Dublin 9,q3,70%
+19/05/2016,"32 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,470000.0,Yes,Drumcondra,Dublin 9,q4,80%
+19/05/2016,"33 Millmount Ave, Drumcondra, Dublin 9",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+20/05/2016,"36 Whitworth Rd, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+20/05/2016,"42 High Park, Grace Park Rd, Drumcondra Dublin 9",Dublin,411000.0,No,Drumcondra,Dublin 9,q3,70%
+23/05/2016,"Apt 8, 182 Clonliffe, Drumcondra Dublin 3",Dublin,165000.0,No,Drumcondra,Dublin 9,q1,10%
+26/05/2016,"12 St Annes Rd, Drumcondra, Dublin 9",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+26/05/2016,"4 Goose Green, Gracepark Road, Drumcondra",Dublin,370044.0,Yes,Drumcondra,Dublin 9,q3,60%
+27/05/2016,"56 Clonturk Park, Drumcondra, Dublin 9",Dublin,439000.0,No,Drumcondra,Dublin 9,q3,80%
+30/05/2016,"2 Millmount Place, Drumcondra, Dublin 9",Dublin,515000.0,No,Drumcondra,Dublin 9,q4,90%
+30/05/2016,"2 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,585903.0,Yes,Drumcondra,Dublin 9,q4,90%
+30/05/2016,"6 Drumcondra Rd Lower, Dublin 9, Dublin",Dublin,140000.0,No,Drumcondra,Dublin 9,q1,10%
+31/05/2016,"14 Achill Court, Drumcondra, Dublin 9",Dublin,178500.0,No,Drumcondra,Dublin 9,q1,10%
+03/06/2016,"102 Home Farm Rd, Drumcondra, Dublin 9",Dublin,451000.0,No,Drumcondra,Dublin 9,q3,80%
+09/06/2016,"10 Waterfront, Drumcondra, Dublin 9",Dublin,305000.0,No,Drumcondra,Dublin 9,q2,40%
+10/06/2016,"49 Church Ave, Drumcondra, Dublin 9",Dublin,425000.0,No,Drumcondra,Dublin 9,q3,70%
+10/06/2016,"71 Hollybank Rd, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+17/06/2016,"25 Grace Park Manor, Grace Park Rd, Drumcondra Dublin 9",Dublin,200000.0,No,Drumcondra,Dublin 9,q1,20%
+17/06/2016,"60 St Patricks Rd, Drumcondra, Dublin 9",Dublin,431000.0,No,Drumcondra,Dublin 9,q3,70%
+23/06/2016,"37 Gracepark Meadows, Drumcondra Dublin 9, Dublin",Dublin,357000.0,No,Drumcondra,Dublin 9,q3,60%
+23/06/2016,"87 Chapelgate, St Alphonsus Road, Drumcondra",Dublin,327000.0,No,Drumcondra,Dublin 9,q2,50%
+28/06/2016,"210 Clonliffe Rd, Drumcondra, Dublin 3",Dublin,420000.0,No,Drumcondra,Dublin 9,q3,70%
+01/07/2016,"51 Hardiman Rd, Drumcondra, Dublin 9",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+04/07/2016,"6 The Cloisters, Grace Park Rd, Drumcondra Dublin 9",Dublin,655000.0,No,Drumcondra,Dublin 9,q4,100%
+05/07/2016,"18 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,511013.21,Yes,Drumcondra,Dublin 9,q4,90%
+05/07/2016,"24 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,422907.0,Yes,Drumcondra,Dublin 9,q3,70%
+05/07/2016,"30 Sion Hill Park, Sion Hill, Drumcondra",Dublin,515418.5,Yes,Drumcondra,Dublin 9,q4,90%
+06/07/2016,"16 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,414096.91,Yes,Drumcondra,Dublin 9,q3,70%
+08/07/2016,"10 Richmond Rd, Drumcondra, Dublin 9",Dublin,295000.0,No,Drumcondra,Dublin 9,q2,40%
+08/07/2016,"211A Botanic Avenue, Drumcondra, Dublin 9",Dublin,352500.0,No,Drumcondra,Dublin 9,q3,60%
+11/07/2016,"65 Griffith Downs, Drumcondra, Dublin 9",Dublin,900000.0,No,Drumcondra,Dublin 9,q4,100%
+14/07/2016,"21 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,550660.0,Yes,Drumcondra,Dublin 9,q4,90%
+14/07/2016,"3 Comyn Place, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+15/07/2016,"34 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,502203.0,Yes,Drumcondra,Dublin 9,q4,80%
+15/07/2016,"40 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,493050.0,Yes,Drumcondra,Dublin 9,q4,80%
+18/07/2016,"22 Sion Hill Park, Drumcondra",Dublin,563876.65,Yes,Drumcondra,Dublin 9,q4,90%
+19/07/2016,"36 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,414096.0,Yes,Drumcondra,Dublin 9,q3,70%
+20/07/2016,"23 Sion Hill Park, Drumcondra, Dublin 9",Dublin,427313.0,Yes,Drumcondra,Dublin 9,q3,70%
+20/07/2016,"25 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,524229.0,Yes,Drumcondra,Dublin 9,q4,90%
+22/07/2016,"118 Walsh Rd, Drumcondra, Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+22/07/2016,"21 Upper Columbas Rd, Drumcondra, Dublin 9",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+22/07/2016,"7 Calderwood Ave, Drumcondra, Dublin 9",Dublin,535000.0,No,Drumcondra,Dublin 9,q4,90%
+28/07/2016,"9 Achill Court, Achill Rd, Drumcondra Dublin 9",Dublin,192000.0,No,Drumcondra,Dublin 9,q1,20%
+29/07/2016,"38 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,502203.0,Yes,Drumcondra,Dublin 9,q4,80%
+03/08/2016,"16 Grace Park Heights, Drumcondra, Dublin 9",Dublin,425000.0,No,Drumcondra,Dublin 9,q3,70%
+03/08/2016,"74 Walnut Rise, Drumcondra, Dublin 9",Dublin,547000.0,No,Drumcondra,Dublin 9,q4,90%
+04/08/2016,"39 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,409691.0,Yes,Drumcondra,Dublin 9,q3,70%
+04/08/2016,"73 Hardiman Rd, Drumcondra, Dublin 9",Dublin,415000.0,No,Drumcondra,Dublin 9,q3,70%
+05/08/2016,"47 Grace Park Rd, Drumcondra, Dublin 9",Dublin,495000.0,No,Drumcondra,Dublin 9,q4,80%
+08/08/2016,"15 Sion Hill Park, Drumcondra",Dublin,414096.0,Yes,Drumcondra,Dublin 9,q3,70%
+08/08/2016,"27 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,427312.0,Yes,Drumcondra,Dublin 9,q3,70%
+09/08/2016,"225 Gracepark Manor, Drumcondra Dublin 9, Dublin",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+15/08/2016,"70 Calderwood Rd, Drumcondra, Dublin 9",Dublin,575000.0,No,Drumcondra,Dublin 9,q4,90%
+18/08/2016,"24 Russell Avenue, Drumcondra, Dublin 3",Dublin,296000.0,No,Drumcondra,Dublin 9,q2,40%
+18/08/2016,"3 Clonturk Square, Drumcondra, Dublin 9",Dublin,414097.0,Yes,Drumcondra,Dublin 9,q3,70%
+19/08/2016,"23 Church Ave, Drumcondra, Dublin 9",Dublin,336500.0,No,Drumcondra,Dublin 9,q2,50%
+24/08/2016,"16 Clare Rd, Drumcondra, Dublin 9",Dublin,666000.0,No,Drumcondra,Dublin 9,q4,100%
+24/08/2016,"42 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,424375.0,Yes,Drumcondra,Dublin 9,q3,70%
+24/08/2016,"43 Lambay Rd, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+26/08/2016,"9 Calderwood Ave, Drumcondra, Dublin 9",Dublin,530000.0,No,Drumcondra,Dublin 9,q4,90%
+29/08/2016,"46 Annadale Crescent, Drumcondra, Dublin",Dublin,412000.0,No,Drumcondra,Dublin 9,q3,70%
+31/08/2016,"130 Upper Drumcondra Rd, Dublin 9, Dublin",Dublin,660000.0,No,Drumcondra,Dublin 9,q4,100%
+31/08/2016,"29 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,533039.0,Yes,Drumcondra,Dublin 9,q4,90%
+01/09/2016,"2 Susanville Road, Drumcondra, Dublin 3",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+02/09/2016,"10 Edgewood, Richmond Rd, Drumcondra",Dublin,321000.0,No,Drumcondra,Dublin 9,q2,50%
+02/09/2016,"11 Grattan Parade, Drumcondra, Dublin 9",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+02/09/2016,"12 Millbourne Ave, Drumcondra, Dublin 9",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+06/09/2016,"11 Sion Hill Rd, Drumcondra, Dublin 9",Dublin,495000.0,No,Drumcondra,Dublin 9,q4,80%
+06/09/2016,"28 Sion Hill Park, Drumcondra",Dublin,427313.0,Yes,Drumcondra,Dublin 9,q3,70%
+08/09/2016,"42 O Daly Rd, Drumcondra, Dublin",Dublin,350000.0,No,Drumcondra,Dublin 9,q2,50%
+09/09/2016,"12 Obriens Place, Drumcondra, Dublin 9",Dublin,395500.0,No,Drumcondra,Dublin 9,q3,70%
+09/09/2016,"28 Clonturk Park, Drumcondra Dublin 9, Dublin",Dublin,590000.0,No,Drumcondra,Dublin 9,q4,90%
+09/09/2016,"48 Botanic Ave, Drumcondra, Dublin 9",Dublin,345000.0,No,Drumcondra,Dublin 9,q2,50%
+14/09/2016,"61 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,607929.0,Yes,Drumcondra,Dublin 9,q4,90%
+15/09/2016,"10 Hollybank Rd, Drumcondra, Dublin 9",Dublin,627500.0,No,Drumcondra,Dublin 9,q4,100%
+16/09/2016,"47 Joyce Road, Drumcondra, Dublin 9",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+16/09/2016,"Apt 7, 182 Clonliffe Rd, Drumcondra Dublin 3",Dublin,217500.0,No,Drumcondra,Dublin 9,q1,20%
+20/09/2016,"7 Hollybank Court, St Josephs Ave, Drumcondra Dublin 5",Dublin,270000.0,No,Drumcondra,Dublin 9,q2,30%
+20/09/2016,"Apt 5, 182 Clonliffe Rd, Drumcondra Dublin 3",Dublin,165000.0,No,Drumcondra,Dublin 9,q1,10%
+21/09/2016,"12 Elizabeth St, Drumcondra, Dublin 9",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+22/09/2016,"43 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,519824.0,Yes,Drumcondra,Dublin 9,q4,90%
+23/09/2016,"80 Walsh Rd, Drumcondra, Dublin 9",Dublin,375000.0,No,Drumcondra,Dublin 9,q3,60%
+27/09/2016,"21 Whitworth Rd, Drumcondra, Dublin 9",Dublin,427500.0,No,Drumcondra,Dublin 9,q3,70%
+30/09/2016,"20 St Annes Rd, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+03/10/2016,"403B Hampton Lodge, Grace Park Rd, Drumcondra",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+04/10/2016,"26 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,524229.0,Yes,Drumcondra,Dublin 9,q4,90%
+05/10/2016,"30 Whitworth Rd, Drumcondra, Dublin 9",Dublin,399000.0,No,Drumcondra,Dublin 9,q3,70%
+05/10/2016,"4 Hampton Lodge Walk, The Cloisters, Drumcondra",Dublin,427309.0,Yes,Drumcondra,Dublin 9,q3,70%
+05/10/2016,"4 Whitworth Place, Drumcondra, Dublin 9",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+06/10/2016,"1 Hampton Lodge Walk, Gracepark Road, Drumcondra",Dublin,418502.0,Yes,Drumcondra,Dublin 9,q3,70%
+06/10/2016,"237 Griffith Ave, Drumcondra, Dublin 9",Dublin,745000.0,No,Drumcondra,Dublin 9,q4,100%
+06/10/2016,"30 Ormond Rd, Drumcondra, Dublin 9",Dublin,572000.0,No,Drumcondra,Dublin 9,q4,90%
+06/10/2016,"63 Walsh Rd, Drumcondra, Dublin 9",Dublin,415000.0,No,Drumcondra,Dublin 9,q3,70%
+07/10/2016,"234 Griffith Ave, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+11/10/2016,"1 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,585903.0,Yes,Drumcondra,Dublin 9,q4,90%
+14/10/2016,"3 Whitworth Rd, Drumcondra, Dublin 9",Dublin,512000.0,No,Drumcondra,Dublin 9,q4,90%
+17/10/2016,"20 Hollybank Rd, Drumcondra, Dublin 9",Dublin,753000.0,No,Drumcondra,Dublin 9,q4,100%
+17/10/2016,"9 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,427312.0,Yes,Drumcondra,Dublin 9,q3,70%
+18/10/2016,"19 Whitworth Road, Drumcondra, Dublin 9",Dublin,412000.0,No,Drumcondra,Dublin 9,q3,70%
+19/10/2016,"35 Annadale Crescent, Drumcondra, Dublin 9",Dublin,471200.0,No,Drumcondra,Dublin 9,q4,80%
+21/10/2016,"14 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,515417.0,Yes,Drumcondra,Dublin 9,q4,90%
+24/10/2016,"11 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,511013.0,Yes,Drumcondra,Dublin 9,q4,90%
+24/10/2016,"13 Millmount Ave, Drumcondra, Dublin 9",Dublin,420000.0,No,Drumcondra,Dublin 9,q3,70%
+25/10/2016,"14 St Annes Rd, Drumcondra, Dublin 9",Dublin,130500.0,No,Drumcondra,Dublin 9,q1,10%
+25/10/2016,"5 Sion Hill Rd, Drumcondra, Dublin 9",Dublin,530000.0,No,Drumcondra,Dublin 9,q4,90%
+28/10/2016,"41 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,506608.0,Yes,Drumcondra,Dublin 9,q4,90%
+03/11/2016,"52 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,431718.06,Yes,Drumcondra,Dublin 9,q3,70%
+04/11/2016,"407 Grace Park Heights, Drumcondra, Dublin 9",Dublin,351000.0,No,Drumcondra,Dublin 9,q2,50%
+04/11/2016,"82 Griffith Court, Drumcondra, Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+07/11/2016,"15 Church View, Church Ave, Drumcondra Dublin 9",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+07/11/2016,"3 Hampton Lodge Walk, Gracepark Road, Drumcondra",Dublin,409692.0,Yes,Drumcondra,Dublin 9,q3,70%
+11/11/2016,"101 Grace Park Meadows, Drumcondra, Dublin 9",Dublin,405000.0,No,Drumcondra,Dublin 9,q3,70%
+15/11/2016,"Apt 4, 66 Carlingford Rd, Drumcondra Dublin 9",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+17/11/2016,"12 Glen Arm Sq, St Josephs Ave, Drumcondra Dublin 9",Dublin,261000.0,No,Drumcondra,Dublin 9,q1,30%
+18/11/2016,"85 Griffith Hall, Glandore Rd, Drumcondra Dublin 9",Dublin,210551.0,No,Drumcondra,Dublin 9,q1,20%
+21/11/2016,"1A Lower St Brigids Rd, Drumcondra, Dublin 9",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+22/11/2016,"7 St Patricks Road, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+23/11/2016,"12 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,422907.48,Yes,Drumcondra,Dublin 9,q3,70%
+23/11/2016,"401 Gracepark Manor, Drumcondra, Dublin 9",Dublin,975000.0,No,Drumcondra,Dublin 9,q4,100%
+25/11/2016,"9 Grace Park Heights, Drumcondra, Dublin 9",Dublin,388500.0,No,Drumcondra,Dublin 9,q3,60%
+28/11/2016,"10 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,511000.0,Yes,Drumcondra,Dublin 9,q4,90%
+30/11/2016,"23 Clonliffe Gardens, Clonliffe Rd, Drumcondra Dublin 3",Dublin,430000.0,No,Drumcondra,Dublin 9,q3,70%
+05/12/2016,"5 Sion Hill Park, Drumcondra, Dublin 9",Dublin,458149.0,Yes,Drumcondra,Dublin 9,q3,80%
+07/12/2016,"62 Carlingford Road, Drumcondra, Dublin 9",Dublin,222150.0,No,Drumcondra,Dublin 9,q1,20%
+07/12/2016,"81 Clonliffe Rd, Drumcondra, Dublin 9",Dublin,465000.0,No,Drumcondra,Dublin 9,q3,80%
+07/12/2016,"83 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+08/12/2016,"1A Griffith Hall, Glandor Rd, Drumcondra",Dublin,237000.0,No,Drumcondra,Dublin 9,q1,20%
+09/12/2016,"37 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,506607.93,Yes,Drumcondra,Dublin 9,q4,90%
+09/12/2016,"42 Chapelgate, St Alphonsus Rd, Drumcondra Dublin 9",Dublin,331000.0,No,Drumcondra,Dublin 9,q2,50%
+09/12/2016,"50 Elizabeth St, Drumcondra, Dublin 3",Dublin,212000.0,No,Drumcondra,Dublin 9,q1,20%
+09/12/2016,"6 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,458149.78,Yes,Drumcondra,Dublin 9,q3,80%
+12/12/2016,"95 High Park, Drumcondra, Dublin 9",Dublin,389000.0,No,Drumcondra,Dublin 9,q3,60%
+13/12/2016,"345 Grace Park Heights, Drumcondra, Dublin 9",Dublin,150000.0,No,Drumcondra,Dublin 9,q1,10%
+14/12/2016,"66 Home Farm Rd, Drumcondra, Dublin 9",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+14/12/2016,"67 Lower Drumcondra Rd, Drumcondra, Dublin 9",Dublin,650000.0,No,Drumcondra,Dublin 9,q4,100%
+15/12/2016,"184 Grace Park Rd, Drumcondra, Dublin 9",Dublin,406000.0,No,Drumcondra,Dublin 9,q3,70%
+15/12/2016,"32 Drumcondra Rd Upper, Dublin 9, Dublin",Dublin,535000.0,No,Drumcondra,Dublin 9,q4,90%
+15/12/2016,"94 Walsh Rd, Drumcondra, Dublin 9",Dublin,372500.0,No,Drumcondra,Dublin 9,q3,60%
+16/12/2016,"12 Barron Place, Drumcondra, Dublin 9",Dublin,262000.0,No,Drumcondra,Dublin 9,q2,30%
+18/12/2016,"7 Sion Hill, Sion Hill Road, Drumcondra",Dublin,484600.0,Yes,Drumcondra,Dublin 9,q4,80%
+19/12/2016,"8 St Georges Ave, Drumcondra, Dublin 3",Dublin,230000.0,No,Drumcondra,Dublin 9,q1,20%
+20/12/2016,"4 St Annes Rd, Drumcondra, Dublin 9",Dublin,210000.0,No,Drumcondra,Dublin 9,q1,20%
+21/12/2016,"17 Collins Court, Collins Ave, Drumcondra Dublin 9",Dublin,186000.0,No,Drumcondra,Dublin 9,q1,20%
+21/12/2016,"17 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,506607.92,Yes,Drumcondra,Dublin 9,q4,90%
+21/12/2016,"58A Home Farm Rd, Drumcondra, Dublin",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+22/12/2016,"31 College Manor, Drumcondra, Dublin 9",Dublin,257000.0,No,Drumcondra,Dublin 9,q1,30%
+22/12/2016,"59 Gracepark Tce, Drumcondra, Dublin 9",Dublin,435000.0,No,Drumcondra,Dublin 9,q3,80%
+22/12/2016,"Apt 1, 5 Jones Road, Drumcondra",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+02/01/2017,"31 Upper Drumcondra Road, Drumcondra, Dublin 9",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+05/01/2017,"2 The Crescent, Griffith Downs, Drumcondra Dublin 9",Dublin,575000.0,No,Drumcondra,Dublin 9,q4,90%
+06/01/2017,"91 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+11/01/2017,"6 Rosemount, Glandore Rd, Drumcondra Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+13/01/2017,"53 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,524229.08,Yes,Drumcondra,Dublin 9,q4,90%
+17/01/2017,"149 Clonliffe Rd, Drumcondra, Dublin 3",Dublin,477000.0,No,Drumcondra,Dublin 9,q4,80%
+18/01/2017,"55 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,560975.0,Yes,Drumcondra,Dublin 9,q4,90%
+20/01/2017,"8 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,511013.0,Yes,Drumcondra,Dublin 9,q4,90%
+26/01/2017,"56 Sion Hill Park, Drumcondra",Dublin,607929.0,Yes,Drumcondra,Dublin 9,q4,90%
+27/01/2017,"77 The Court, High Park, Drumcondra",Dublin,420000.0,No,Drumcondra,Dublin 9,q3,70%
+06/02/2017,"7 Beresford Ave, Griffith Ave, Drumcondra Dublin 9",Dublin,690000.0,No,Drumcondra,Dublin 9,q4,100%
+06/02/2017,"9 Glenarm, Drumcondra, Dublin 9",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+10/02/2017,"1 Gracepark Manor, Drumcondra, Dublin 9",Dublin,355000.0,No,Drumcondra,Dublin 9,q3,60%
+10/02/2017,"140 Griffith Ave, Drumcondra, Dublin 9",Dublin,466666.0,No,Drumcondra,Dublin 9,q4,80%
+15/02/2017,"11 All Hallows Sq, Griffith Ave, Drumcondra Dublin 9",Dublin,295000.0,No,Drumcondra,Dublin 9,q2,40%
+15/02/2017,"Apt 4, 182 Clonliffe Rd, Drumcondra Dublin 3",Dublin,176500.0,No,Drumcondra,Dublin 9,q1,10%
+16/02/2017,"12 Griffith Walk, Drumcondra, Dublin 9",Dublin,412000.0,No,Drumcondra,Dublin 9,q3,70%
+20/02/2017,"23 Mannix Rd, Drumcondra, Dublin 9",Dublin,525000.0,No,Drumcondra,Dublin 9,q4,90%
+21/02/2017,"37 Bantry Rd, Drumcondra, Dublin 9",Dublin,570000.0,No,Drumcondra,Dublin 9,q4,90%
+21/02/2017,"42 Annadale Crescent, Drumcondra, Dublin 9",Dublin,395000.0,No,Drumcondra,Dublin 9,q3,60%
+22/02/2017,"52 Griffith Hall, Glandore Rd, Drumcondra Dublin 9",Dublin,276000.0,No,Drumcondra,Dublin 9,q2,30%
+22/02/2017,"8 The Court, High Park, Drumcondra",Dublin,245000.0,No,Drumcondra,Dublin 9,q1,30%
+23/02/2017,"136 Griffith Ave, Drumcondra, Dublin 9",Dublin,696000.0,No,Drumcondra,Dublin 9,q4,100%
+24/02/2017,"Apt 1 90 Drumcondra Rd, Drumcondra, Dublin 9",Dublin,837000.0,No,Drumcondra,Dublin 9,q4,100%
+28/02/2017,"156 Grace Park Rd, Drumcondra, Dublin 9",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+02/03/2017,"226 Gracepark Manor, Grace Park Rd, Drumcondra Dublin 9",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+03/03/2017,"8 St Alphonsus Ave, Drumcondra, Dublin 9",Dublin,335000.0,No,Drumcondra,Dublin 9,q2,50%
+06/03/2017,"22 Hardiman Road, Drumcondra, Dublin 9",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+07/03/2017,"6 Iona Avenue, Drumcondra Dublin 9",Dublin,460000.0,No,Drumcondra,Dublin 9,q3,80%
+14/03/2017,"32 Richmond Rd, Drumcondra, Dublin 3",Dublin,307000.0,No,Drumcondra,Dublin 9,q2,40%
+16/03/2017,"101 Hollybank Rd, Drumcondra, Dublin 9",Dublin,735000.0,No,Drumcondra,Dublin 9,q4,100%
+16/03/2017,"Flat 1, 218 Clonliffe Road, Drumcondra",Dublin,105500.0,No,Drumcondra,Dublin 9,q1,10%
+16/03/2017,"Flat 2, 218 Clonliffe Road, Drumcondra",Dublin,105500.0,No,Drumcondra,Dublin 9,q1,10%
+16/03/2017,"Flat 3, 218 Clonliffe Road, Drumcondra",Dublin,105500.0,No,Drumcondra,Dublin 9,q1,10%
+16/03/2017,"Flat 4, 218 Clonliffe Road, Drumcondra",Dublin,105500.0,No,Drumcondra,Dublin 9,q1,10%
+16/03/2017,"Flat 5, 218 Clonliffe Road, Drumcondra",Dublin,105500.0,No,Drumcondra,Dublin 9,q1,10%
+16/03/2017,"Flat 6, 218 Clonliffe Road, Drumcondra",Dublin,105500.0,No,Drumcondra,Dublin 9,q1,10%
+24/03/2017,"12 Russell Ave, Drumcondra, Dublin 3",Dublin,338000.0,No,Drumcondra,Dublin 9,q2,50%
+29/03/2017,"24 Hardiman Rd, Drumcondra, Dublin 9",Dublin,290000.0,No,Drumcondra,Dublin 9,q2,40%
+29/03/2017,"47 Home Farm Rd, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+30/03/2017,"6 Ormond Rd, Drumcondra, Dublin 9",Dublin,475000.0,No,Drumcondra,Dublin 9,q4,80%
+04/04/2017,"65 Ferguson Road, Drumcondra, Dublin 9",Dublin,367000.0,No,Drumcondra,Dublin 9,q3,60%
+07/04/2017,"2 Hampton Lodge Walk, Gracepark Road, Drumcondra",Dublin,411453.0,Yes,Drumcondra,Dublin 9,q3,70%
+07/04/2017,"30 Clonturk Park, Drumcondra, Dublin 9",Dublin,485000.0,No,Drumcondra,Dublin 9,q4,80%
+07/04/2017,"403 Hampton Lodge Block A, Gracepark Road, Drumcondra",Dublin,343612.0,No,Drumcondra,Dublin 9,q2,50%
+11/04/2017,"3 Dargle Rd, Drumcondra, Dublin 9",Dublin,397500.0,No,Drumcondra,Dublin 9,q3,70%
+11/04/2017,"Apt 5, 15 Whitworth Rd, Drumcondra Dublin 9",Dublin,120000.0,No,Drumcondra,Dublin 9,q1,10%
+20/04/2017,"56 Glengarriff Parade, Drumcondra, Dublin",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+24/04/2017,"9 Fitzroy Ave, Drumcondra, Dublin",Dublin,345000.0,No,Drumcondra,Dublin 9,q2,50%
+26/04/2017,"Apt 1 Ground Floor, 63 Lower Drumcondra Road, Dublin 9",Dublin,630000.0,No,Drumcondra,Dublin 9,q4,100%
+27/04/2017,"312 Grace Park Manor, Drumcondra, Dublin 9",Dublin,270000.0,No,Drumcondra,Dublin 9,q2,30%
+08/05/2017,"6 Walsh Road, Drumcondra, Dublin 9",Dublin,470000.0,No,Drumcondra,Dublin 9,q4,80%
+10/05/2017,"64 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,596850.0,Yes,Drumcondra,Dublin 9,q4,90%
+11/05/2017,"40 O Dalys Rd, Drumcondra, Dublin 9",Dublin,366000.0,No,Drumcondra,Dublin 9,q3,60%
+12/05/2017,"30 Ferguson Rd, Drumcondra, Dublin 9",Dublin,472000.0,No,Drumcondra,Dublin 9,q4,80%
+15/05/2017,"10 Grace Park Gardens, Drumcondra, Dublin 9",Dublin,740000.0,No,Drumcondra,Dublin 9,q4,100%
+17/05/2017,"31 The Court, Gracepark Rd, Drumcondra",Dublin,266000.0,No,Drumcondra,Dublin 9,q2,30%
+22/05/2017,"116 Home Farm Road, Drumcondra, Dublin 9",Dublin,665000.0,No,Drumcondra,Dublin 9,q4,100%
+25/05/2017,"21 The Village, Upper Drumcondra Road, Drumcondra",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+26/05/2017,"55 Russell Ave, Drumcondra, Dublin",Dublin,365000.0,No,Drumcondra,Dublin 9,q3,60%
+29/05/2017,"5 Brook House, Richmond Rd, Drumcondra",Dublin,192000.0,No,Drumcondra,Dublin 9,q1,20%
+01/06/2017,"75 Clonliffe Road, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+02/06/2017,"19 Walsh Rd, Drumcondra, Dublin 9",Dublin,425000.0,No,Drumcondra,Dublin 9,q3,70%
+06/06/2017,"2A Hollybank Road, Drumcondra, Dublin 9",Dublin,453000.0,No,Drumcondra,Dublin 9,q3,80%
+09/06/2017,"20 Gracepark Manor, Drumcondra, Dublin 9",Dublin,345000.0,No,Drumcondra,Dublin 9,q2,50%
+09/06/2017,"6 Woodville Rd, Drumcondra, Dublin 9",Dublin,616000.0,No,Drumcondra,Dublin 9,q4,100%
+12/06/2017,"10 Cornmill, Distillery Road, Drumcondra",Dublin,437000.0,No,Drumcondra,Dublin 9,q3,80%
+14/06/2017,"133 Grace Park Manor, Drumcondra, Dublin",Dublin,292000.0,No,Drumcondra,Dublin 9,q2,40%
+19/06/2017,"44 Walsh Rd, Drumcondra, Dublin 9",Dublin,323000.0,No,Drumcondra,Dublin 9,q2,50%
+23/06/2017,"5 Oneachtain Rd, Drumcondra, Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+27/06/2017,"44 Homefarm Rd, Drumcondra, Dublin 9",Dublin,695000.0,No,Drumcondra,Dublin 9,q4,100%
+29/06/2017,"Apt1, 78 Whitworth Road, Drumcondra",Dublin,450000.0,No,Drumcondra,Dublin 9,q3,80%
+30/06/2017,"64 Upper Drumcondra Rd, Dublin 9, Dublin",Dublin,129600.0,No,Drumcondra,Dublin 9,q1,10%
+14/07/2017,"263 Clonliffe Rd, Drumcondra, Dublin 3",Dublin,91000.0,No,Drumcondra,Dublin 9,q1,10%
+14/07/2017,"39 Grace Park Heights, Drumcondra, Dublin 9",Dublin,375000.0,No,Drumcondra,Dublin 9,q3,60%
+14/07/2017,"Apt 11, 182 Clonliffe Rd, Drumcondra Dublin 3",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+17/07/2017,"28 Ferguson Rd, Drumcondra, Dublin 9",Dublin,455000.0,No,Drumcondra,Dublin 9,q3,80%
+19/07/2017,"42 Ferguson Rd, Drumcondra, Dublin 9",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+25/07/2017,"55 Lower Drumcondra Road, Drumcondra, Dublin 9",Dublin,460000.0,No,Drumcondra,Dublin 9,q3,80%
+27/07/2017,"4 High Park, Grace Park Road, Drumcondra",Dublin,398000.0,No,Drumcondra,Dublin 9,q3,70%
+27/07/2017,"Apt 222, Grace Park Manor, Drumcondra Dublin 9",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+28/07/2017,"6 Calderwood Ave, Drumcondra, Dublin 9",Dublin,580000.0,No,Drumcondra,Dublin 9,q4,90%
+31/07/2017,"11 Cian Park, Drumcondra, Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+01/08/2017,"13 Churchview Apts, Church Rd, Drumcondra",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,20%
+01/08/2017,"17 Calderwood Ave, Drumcondra, Dublin 9",Dublin,610000.0,No,Drumcondra,Dublin 9,q4,100%
+03/08/2017,"42 Hollybank Rd, Drumcondra, Dublin 9",Dublin,740000.0,No,Drumcondra,Dublin 9,q4,100%
+08/08/2017,"36 Home Farm Park, Drumcondra, Dublin 9",Dublin,616000.0,No,Drumcondra,Dublin 9,q4,100%
+10/08/2017,"41 Russell Ave, Drumcondra, Dublin 3",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+16/08/2017,"11 Arran Rd, Drumcondra, Dublin 9",Dublin,575000.0,No,Drumcondra,Dublin 9,q4,90%
+18/08/2017,"94 Calderwood Rd, Drumcondra, Dublin 9",Dublin,625000.0,No,Drumcondra,Dublin 9,q4,100%
+22/08/2017,"14 Griffith Walk, Drumcondra, Dublin 9",Dublin,333000.0,No,Drumcondra,Dublin 9,q2,50%
+23/08/2017,"21 Claude Rd, Drumcondra, Dublin 9",Dublin,560000.0,No,Drumcondra,Dublin 9,q4,90%
+23/08/2017,"24 All Hallows Green, Griffith Ave, Drumcondra Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+25/08/2017,"301 Grace Park Heights, Drumcondra, Dublin 9",Dublin,423000.0,No,Drumcondra,Dublin 9,q3,70%
+25/08/2017,"38 Chapelgate, St Alphonsus Rd, Drumcondra",Dublin,375000.0,No,Drumcondra,Dublin 9,q3,60%
+28/08/2017,"181 Griffith Ave, Drumcondra, Dublin 9",Dublin,715000.0,No,Drumcondra,Dublin 9,q4,100%
+01/09/2017,"21 All Hallows Green, Griffith Ave, Drumcondra Dublin 9",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+04/09/2017,"82 Corn Mill, Distillery Rd, Drumcondra Dublin 3",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+06/09/2017,"6 Claude Road, Drumcondra, Dublin 9",Dublin,585000.0,No,Drumcondra,Dublin 9,q4,90%
+08/09/2017,"15 The Crescent, Griffith Downs, Drumcondra Dublin 9",Dublin,463000.0,No,Drumcondra,Dublin 9,q3,80%
+11/09/2017,"222 Charlemont, Griffith Ave, Drumcondra Dublin 9",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+12/09/2017,"12 Calderwood Rd, Drumcondra, Dublin",Dublin,1080000.0,No,Drumcondra,Dublin 9,q4,100%
+14/09/2017,"4 Rathlin Rd, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+14/09/2017,"8 Glen Arm Sq, Dargle Rd, Drumcondra",Dublin,301750.0,No,Drumcondra,Dublin 9,q2,40%
+15/09/2017,"399 Grace Park Heights, Drumcondra, Dublin 9",Dublin,384000.0,No,Drumcondra,Dublin 9,q3,60%
+15/09/2017,"4 Hogan View, Drumcondra, Dublin 7",Dublin,200000.0,No,Drumcondra,Dublin 9,q1,20%
+15/09/2017,"58 Home Farm Rd, Drumcondra, Dublin 9",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+25/09/2017,"37 Glen Arm Sq, St Josephs Ave, Drumcondra Dublin 9",Dublin,420000.0,No,Drumcondra,Dublin 9,q3,70%
+29/09/2017,"79 Botanic Avenue, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+02/10/2017,"207 Griffith Ave, Drumcondra, Dublin 9",Dublin,750000.0,No,Drumcondra,Dublin 9,q4,100%
+02/10/2017,"31 St Annes Rd, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+04/10/2017,"11 Joness Rd, Drumcondra, Dublin 3",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+09/10/2017,"2 Gartan Avenue, Drumcondra, Dublin 9",Dublin,990000.0,No,Drumcondra,Dublin 9,q4,100%
+12/10/2017,"1A Grace Park Rd, Drumcondra, Dublin 9",Dublin,435000.0,No,Drumcondra,Dublin 9,q3,80%
+12/10/2017,"20 Botanic Sq, Botanic Ave, Drumcondra Dublin 9",Dublin,230000.0,No,Drumcondra,Dublin 9,q1,20%
+13/10/2017,"131 Home Farm Rd, Drumcondra, Dublin 9",Dublin,480000.0,No,Drumcondra,Dublin 9,q4,80%
+13/10/2017,"27 High Park, Drumcondra, Dublin",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+16/10/2017,"2 St Alphonsus Rd, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+25/10/2017,"44 Botanic Ave, Drumcondra, Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+26/10/2017,"88 Botanic Ave, Drumcondra, Dublin 9",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+27/10/2017,"15 St James Ave, Clonliffe Rd, Drumcondra",Dublin,210000.0,No,Drumcondra,Dublin 9,q1,20%
+02/11/2017,"41 All Hallows Green, Griffith Ave, Drumcondra Dublin 9",Dublin,445000.0,No,Drumcondra,Dublin 9,q3,80%
+03/11/2017,"109 Home Farm Rd, Drumcondra, Dublin 9",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+03/11/2017,"37 Church Ave, Drumcondra, Dublin 9",Dublin,450000.0,No,Drumcondra,Dublin 9,q3,80%
+07/11/2017,"404 Block A Hampton Lodge, Gracepark Rd, Drumcondra Dublin 9",Dublin,505000.0,No,Drumcondra,Dublin 9,q4,80%
+07/11/2017,"58 Drumcondra Road Lower, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+08/11/2017,"11 Susanville Rd, Drumcondra, Dublin 3",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+08/11/2017,"74 Fitzroy Ave, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+09/11/2017,"195 Clonliffe Rd, Drumcondra, Dublin 3",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+10/11/2017,"18 Richmond Rd, Drumcondra, Dublin 3",Dublin,347500.0,No,Drumcondra,Dublin 9,q2,50%
+10/11/2017,"2 Whitworth Ave, Drumcondra, Dublin 3",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+15/11/2017,"22 Grace Park Court, Beaumont Road, Drumcondra",Dublin,201000.0,No,Drumcondra,Dublin 9,q1,20%
+15/11/2017,"24 Grace Park Court, Beaumont Road, Drumcondra",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,20%
+22/11/2017,"10 Windele Rd, Of Joyce Rd, Drumcondra",Dublin,337000.0,No,Drumcondra,Dublin 9,q2,50%
+22/11/2017,"36 All Hallows Sq, Griffith Ave, Drumcondra Dublin 9",Dublin,365000.0,No,Drumcondra,Dublin 9,q3,60%
+24/11/2017,"17 Church Ave, Drumcondra, Dublin 9",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+24/11/2017,"18 Sion Hill Court, Drumcondra, Dublin 9",Dublin,204000.0,No,Drumcondra,Dublin 9,q1,20%
+24/11/2017,"36 Millmount Ave, Drumcondra, Dublin 9",Dublin,467000.0,No,Drumcondra,Dublin 9,q4,80%
+28/11/2017,"16 Stella Ave, Drumcondra, Dublin 9",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+05/12/2017,"2 Clonliffe Sq, Distillery Rd, Drumcondra Dublin 3",Dublin,292000.0,No,Drumcondra,Dublin 9,q2,40%
+07/12/2017,"65 Grace Park Road, Drumcondra, Dublin 9",Dublin,672500.0,No,Drumcondra,Dublin 9,q4,100%
+08/12/2017,"36 Calderwood Ave, Drumcondra, Dublin 9",Dublin,795000.0,No,Drumcondra,Dublin 9,q4,100%
+13/12/2017,"56 Joyce Rd, Drumcondra, Dublin 9",Dublin,450000.0,No,Drumcondra,Dublin 9,q3,80%
+14/12/2017,"15 Sion Hill Rd, Drumcondra, Dublin 9",Dublin,770000.0,No,Drumcondra,Dublin 9,q4,100%
+14/12/2017,"55 Millmount Ave, Drumcondra, Dublin 9",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+14/12/2017,"82 Upper Drumcondra Rd, Drumcondra, Dublin 9",Dublin,143660.0,No,Drumcondra,Dublin 9,q1,10%
+15/12/2017,"39 Carlingford Rd, Drumcondra, Dublin 9",Dublin,488000.0,No,Drumcondra,Dublin 9,q4,80%
+15/12/2017,"44 Seven Oaks, Drumcondra, Dublin 9",Dublin,425000.0,No,Drumcondra,Dublin 9,q3,70%
+18/12/2017,"237 Griffith Ave, Drumcondra, Dublin 9",Dublin,750000.0,No,Drumcondra,Dublin 9,q4,100%
+19/12/2017,"168 Walsh Rd, Drumcondra, Dublin 3",Dublin,335000.0,No,Drumcondra,Dublin 9,q2,50%
+19/12/2017,"75 Russell Ave, Drumcondra, Dublin",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+20/12/2017,"27 St Ignatius Road, Drumcondra",Dublin,355000.0,No,Drumcondra,Dublin 9,q3,60%
+20/12/2017,"75 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+21/12/2017,"114 Lower Drumcondra Rd, Drumcondra, Dublin 9",Dublin,710000.0,No,Drumcondra,Dublin 9,q4,100%
+21/12/2017,"6 Grace Park Grove, Grace Park Woods, Drumcondra",Dublin,422907.0,Yes,Drumcondra,Dublin 9,q3,70%
+05/01/2018,"19 Glandore Rd, Drumcondra, Dublin City",Dublin,375000.0,No,Drumcondra,Dublin 9,q3,60%
+10/01/2018,"7 David Park, Whitworth Rd, Drumcondra Dublin 9",Dublin,347000.0,No,Drumcondra,Dublin 9,q2,50%
+12/01/2018,"328 Grace Park Manor, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+12/01/2018,"43 Walnut Lawn, Drumcondra, Dublin 9",Dublin,625000.0,No,Drumcondra,Dublin 9,q4,100%
+15/01/2018,"9 Grace Park Grove, Grace Park Wood, Drumcondra",Dublin,423850.0,Yes,Drumcondra,Dublin 9,q3,70%
+18/01/2018,"6 Milbourne Ave, Drumcondra Dublin 9, Dublin",Dublin,455000.0,No,Drumcondra,Dublin 9,q3,80%
+22/01/2018,"7 Sion Hill Court, Sion Hill Rd, Drumcondra Dublin 9",Dublin,185000.0,No,Drumcondra,Dublin 9,q1,20%
+23/01/2018,"4 Grace Park Grove, Drumcondra, Dublin",Dublin,422907.48,Yes,Drumcondra,Dublin 9,q3,70%
+24/01/2018,"59 Fitzroy Avenue, Drumcondra, Dublin 3",Dublin,93333.0,No,Drumcondra,Dublin 9,q1,10%
+25/01/2018,"4 The Grove, Griffith Downs, Drumcondra",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+29/01/2018,"35 Church Ave, Drumcondra, Dublin 9",Dublin,540000.0,No,Drumcondra,Dublin 9,q4,90%
+02/02/2018,"106 Charlemont, Drumcondra, Dublin 9",Dublin,580000.0,No,Drumcondra,Dublin 9,q4,90%
+02/02/2018,"3 Grace Park Grove, Grace Park Wood, Drumcondra",Dublin,550660.0,Yes,Drumcondra,Dublin 9,q4,90%
+02/02/2018,"6 Grace Park Way, Grace Park Wood, Drumcondra",Dublin,419207.0,Yes,Drumcondra,Dublin 9,q3,70%
+06/02/2018,"16 Walnut Park, Courtlands, Drumcondra Dublin 9",Dublin,640000.0,No,Drumcondra,Dublin 9,q4,100%
+07/02/2018,"32 Glen Arm Sq, St Josephs Ave, Drumcondra Dublin 9",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+07/02/2018,"401 Hampton Lodge, Graceperk Rd, Drumcondra",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+08/02/2018,"10 Millmount Ave, Drumcondra, Dublin 9",Dublin,495000.0,No,Drumcondra,Dublin 9,q4,80%
+09/02/2018,"10 College View, All Hallows Green, Drumcondra Dublin 9",Dublin,335000.0,No,Drumcondra,Dublin 9,q2,50%
+12/02/2018,"69 Ferguson Rd, Drumcondra, Dublin 9",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+15/02/2018,"12 Grace Park Terrace, Drumcondra, Dublin 9",Dublin,750000.0,No,Drumcondra,Dublin 9,q4,100%
+19/02/2018,"229 Griffith Ave, Drumcondra, Dublin 9",Dublin,762500.0,No,Drumcondra,Dublin 9,q4,100%
+20/02/2018,"7 St Patricks Road, Drumcondra, Dublin 9",Dublin,692500.0,No,Drumcondra,Dublin 9,q4,100%
+21/02/2018,"50 Sion Hill Park, Drumcondra, Dublin 9",Dublin,575000.0,No,Drumcondra,Dublin 9,q4,90%
+21/02/2018,"503 Gracepark Manor, Drumcondra Dublin 9, Dublin",Dublin,560000.0,No,Drumcondra,Dublin 9,q4,90%
+21/02/2018,"56 Hollybank Rd, Drumcondra, Dublin 9",Dublin,725000.0,No,Drumcondra,Dublin 9,q4,100%
+23/02/2018,"4 Griffith Hall, Glandore Rd, Drumcondra Dublin 9",Dublin,315000.0,No,Drumcondra,Dublin 9,q2,50%
+23/02/2018,"51 Millmount Ave, Drumcondra, Dublin 9",Dublin,475000.0,No,Drumcondra,Dublin 9,q4,80%
+26/02/2018,"1 Clare Park Villas, Achill Rd, Drumcondra Dublin 9",Dublin,630000.0,No,Drumcondra,Dublin 9,q4,100%
+26/02/2018,"115 Chapelgate, St Alphonsus Rd Upper, Drumcondra Dublin 9",Dublin,377000.0,No,Drumcondra,Dublin 9,q3,60%
+26/02/2018,"17 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,404000.0,No,Drumcondra,Dublin 9,q3,70%
+05/03/2018,"19 Achill Rd, Drumcondra, Dublin 9",Dublin,675000.0,No,Drumcondra,Dublin 9,q4,100%
+05/03/2018,"3 Hampton, Gracepark Road, Drumcondra",Dublin,850000.0,Yes,Drumcondra,Dublin 9,q4,100%
+05/03/2018,"428 Griffith Ave, Drumcondra, Dublin 9",Dublin,720000.0,No,Drumcondra,Dublin 9,q4,100%
+08/03/2018,"2 Hampton, Grace Park Road, Drumcondra",Dublin,665418.0,Yes,Drumcondra,Dublin 9,q4,100%
+12/03/2018,"89 Upper Drumcondra Road, Drumcondra, Dublin 9",Dublin,520000.0,No,Drumcondra,Dublin 9,q4,90%
+13/03/2018,"20 Griffith Hall, Glandore Rd, Drumcondra Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+14/03/2018,"134 Upper Drumcondra Road, Drumcondra, Dublin 9",Dublin,671250.0,No,Drumcondra,Dublin 9,q4,100%
+16/03/2018,"43 Upper Drumcondra Rd, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+16/03/2018,"5 Hampton, Grace Park Road, Drumcondra",Dublin,753303.96,Yes,Drumcondra,Dublin 9,q4,100%
+16/03/2018,"64A Russell Ave, Drumcondra, Dublin 3",Dublin,135000.0,No,Drumcondra,Dublin 9,q1,10%
+16/03/2018,"64B Russell Ave, Drumcondra, Dublin 3",Dublin,135000.0,No,Drumcondra,Dublin 9,q1,10%
+16/03/2018,"64C Russell Ave, Drumcondra, Dublin 3",Dublin,135000.0,No,Drumcondra,Dublin 9,q1,10%
+21/03/2018,"1 Church Ave, Drumcondra, Dublin 9",Dublin,352000.0,No,Drumcondra,Dublin 9,q3,60%
+22/03/2018,"2 Russell Avenue, Drumcondra, Dublin 9",Dublin,240000.0,No,Drumcondra,Dublin 9,q1,20%
+23/03/2018,"39 Church Ave, Drumcondra, Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+27/03/2018,"23 Grace Park Grove, Grace Park Wood, Drumcondra",Dublin,440528.63,Yes,Drumcondra,Dublin 9,q3,80%
+28/03/2018,"1 Hampton, Grace Park Road, Drumcondra",Dublin,656608.0,Yes,Drumcondra,Dublin 9,q4,100%
+29/03/2018,"19 Hollybank Rd, Drumcondra, Dublin 9",Dublin,640000.0,No,Drumcondra,Dublin 9,q4,100%
+04/04/2018,"32 Home Farm Park, Drumcondra, Dublin 9",Dublin,749000.0,No,Drumcondra,Dublin 9,q4,100%
+10/04/2018,"15 St Patricks Rd, Drumcondra, Dublin 9",Dublin,460000.0,No,Drumcondra,Dublin 9,q3,80%
+10/04/2018,"51 Drumcondra Rd Lower, Dublin 9",Dublin,460000.0,No,Drumcondra,Dublin 9,q3,80%
+10/04/2018,"97 Griffith Ave, Drumcondra, Dublin 9",Dublin,650000.0,No,Drumcondra,Dublin 9,q4,100%
+11/04/2018,"27 Wigan Rd, Drumcondra, Dublin 9",Dublin,460000.0,No,Drumcondra,Dublin 9,q3,80%
+11/04/2018,"5 Clonliffe Sq, Distillery Rd, Drumcondra Dublin 3",Dublin,210000.0,No,Drumcondra,Dublin 9,q1,20%
+16/04/2018,"1 Ormond Road, Drumcondra, Dublin 9",Dublin,545000.0,No,Drumcondra,Dublin 9,q4,90%
+17/04/2018,"317 Gracepark Manor, Drumcondra, Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+17/04/2018,"Apt 1, 191 Clonliffe Rd, Drumcondra Dublin 9",Dublin,680000.0,No,Drumcondra,Dublin 9,q4,100%
+18/04/2018,"6 Whitworth Place, Drumcondra, Dublin 3",Dublin,462500.0,No,Drumcondra,Dublin 9,q3,80%
+23/04/2018,"4 Sion Hill Park, Sion Hill Road, Drumcondra",Dublin,812000.0,No,Drumcondra,Dublin 9,q4,100%
+26/04/2018,"15 Alphonsus Road, Drumcondra, Dublin 9",Dublin,536500.0,No,Drumcondra,Dublin 9,q4,90%
+02/05/2018,"10 Whitworth Terrace, Drumcondra, Dublin 3",Dublin,370000.0,No,Drumcondra,Dublin 9,q3,60%
+02/05/2018,"20 Grace Park Way, Grace Park Road, Drumcondra",Dublin,418502.2,Yes,Drumcondra,Dublin 9,q3,70%
+02/05/2018,"5 Grace Park View, Grace Park Wood, Drumcondra",Dublin,665198.0,Yes,Drumcondra,Dublin 9,q4,100%
+02/05/2018,"The Gatehouse, 182 Clonliffe Road, Drumcondra",Dublin,30000.0,No,Drumcondra,Dublin 9,q1,10%
+04/05/2018,"10 Grace Park, Heights Drumcondra, Dublin 9",Dublin,452000.0,No,Drumcondra,Dublin 9,q3,80%
+04/05/2018,"16 Grace Park Way, Grace Park Wood, Drumcondra",Dublin,418502.0,Yes,Drumcondra,Dublin 9,q3,70%
+08/05/2018,"Unit 1, 80 Whiteworth Road, Drumcondra",Dublin,695000.0,No,Drumcondra,Dublin 9,q4,100%
+09/05/2018,"34 St Alphonsus Rd, Drumcondra, Dublin 9",Dublin,180000.0,No,Drumcondra,Dublin 9,q1,20%
+14/05/2018,"19 Goose Green, Grace Park Road, Drumcondra",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+14/05/2018,"29 Kingston Lodge, Clonliffe Rd, Drumcondra Dublin 9",Dublin,375000.0,No,Drumcondra,Dublin 9,q3,60%
+17/05/2018,"13 Hardiman Road, Drumcondra, Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+17/05/2018,"53 Church Ave, Drumcondra, Dublin 9",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+18/05/2018,"9 Millmount Ave, Drumcondra, Dublin 9",Dublin,455000.0,No,Drumcondra,Dublin 9,q3,80%
+23/05/2018,"34 Russell Ave, Drumcondra, Dublin 3",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+28/05/2018,"36 Home Farm Road, Drumcondra, Dublin 9",Dublin,670000.0,No,Drumcondra,Dublin 9,q4,100%
+30/05/2018,"Apt 11 Gracepark Manor, Drumcondra, Dublin 9",Dublin,345000.0,No,Drumcondra,Dublin 9,q2,50%
+31/05/2018,"3 Millmount Avenue, Drumcondra, Dublin 9",Dublin,475000.0,No,Drumcondra,Dublin 9,q4,80%
+31/05/2018,"40 Grace Park Grove, Grace Park Wood, Drumcondra",Dublin,506607.92,Yes,Drumcondra,Dublin 9,q4,90%
+01/06/2018,"122 Gracepark Manor, Drumcondra, Dublin 9",Dublin,375000.0,No,Drumcondra,Dublin 9,q3,60%
+05/06/2018,"13 Obrien Place, Joyce Rd, Drumcondra Dublin 9",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+05/06/2018,"14 Botanic Ave, Drumcondra, Dublin 9",Dublin,365000.0,No,Drumcondra,Dublin 9,q3,60%
+07/06/2018,"22 Drumcondra Park, Drumcondra, Dublin 3",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+07/06/2018,"32 Grace Park Grove, Grace Park Wood, Drumcondra",Dublin,531975.0,Yes,Drumcondra,Dublin 9,q4,90%
+11/06/2018,"16 Goose Green Court, Gracepark Road, Drumcondra",Dublin,535000.0,No,Drumcondra,Dublin 9,q4,90%
+12/06/2018,"124 Gracepark Manor, Drumcondra, Dublin 9",Dublin,318000.0,No,Drumcondra,Dublin 9,q2,50%
+14/06/2018,"42 Gracepark Grove, Gracepark Road, Drumcondra",Dublin,625000.0,Yes,Drumcondra,Dublin 9,q4,100%
+19/06/2018,"8 Achill Court, Achill Rd, Drumcondra Dublin 9",Dublin,218000.0,No,Drumcondra,Dublin 9,q1,20%
+28/06/2018,"9 St Patricks Rd, Drumcondra, Dublin 9",Dublin,540000.0,No,Drumcondra,Dublin 9,q4,90%
+29/06/2018,"104 Hampton, Block B, Drumcondra",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+29/06/2018,"2 Obriens Place, Drumcondra, Dublin 9",Dublin,315000.0,No,Drumcondra,Dublin 9,q2,50%
+05/07/2018,"58 St Alphonsus Rd, Drumcondra, Dublin 9",Dublin,695000.0,No,Drumcondra,Dublin 9,q4,100%
+06/07/2018,"190 Upper Drumcondra Rd, Dublin 9, Dublin",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+06/07/2018,"192 Upper Drumcondra Rd, Dublin 9, Dublin",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+06/07/2018,"28 Oneactain Rd, Drumcondra, Dublin 9",Dublin,462000.0,No,Drumcondra,Dublin 9,q3,80%
+11/07/2018,"23 Ormond Rd, Drumcondra, Dublin 9",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+11/07/2018,"77 Lower Drumcondra Rd, Dublin 9, Dublin",Dublin,940000.0,No,Drumcondra,Dublin 9,q4,100%
+12/07/2018,"60 Clonturk Park, Drumcondra, Dublin",Dublin,422000.0,No,Drumcondra,Dublin 9,q3,70%
+12/07/2018,"84 Holly Bank Rd, Drumcondra Dublin, Dublin 9",Dublin,430000.0,No,Drumcondra,Dublin 9,q3,70%
+13/07/2018,"7 Hampton, Grace Park Road, Drumcondra",Dublin,616740.0,Yes,Drumcondra,Dublin 9,q4,100%
+19/07/2018,"22 Grace Park Grove, Grace Park Wood, Drumcondra",Dublin,462555.06,Yes,Drumcondra,Dublin 9,q3,80%
+19/07/2018,"4 Whitworth Terrace, Drumcondra, Dublin 3",Dublin,413600.0,No,Drumcondra,Dublin 9,q3,70%
+19/07/2018,"62 Carlingford Road, Drumcondra, Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+24/07/2018,"35 Celtic Park Rd, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+25/07/2018,"68 Annadale Crescent, Drumcondra, Dublin 9",Dublin,465000.0,No,Drumcondra,Dublin 9,q3,80%
+26/07/2018,"72 Grace Park Rd, Drumcondra, Dublin 9",Dublin,985000.0,No,Drumcondra,Dublin 9,q4,100%
+27/07/2018,"11 Barron Place, Drumcondra, Dublin 9",Dublin,280000.0,No,Drumcondra,Dublin 9,q2,30%
+27/07/2018,"30 Rathlin Rd, Drumcondra, Dublin 9",Dublin,435000.0,No,Drumcondra,Dublin 9,q3,80%
+31/07/2018,"Apt 1, 3 Whitworth Place, Drumcondra",Dublin,220000.0,No,Drumcondra,Dublin 9,q1,20%
+03/08/2018,"65 Griffith Ave, Drumcondra, Dublin",Dublin,750000.0,No,Drumcondra,Dublin 9,q4,100%
+07/08/2018,"Apt 17, The Waterfront, Drumcondra Rd Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+08/08/2018,"20 Walsh Road, Drumcondra, Dublin 9",Dublin,470000.0,No,Drumcondra,Dublin 9,q4,80%
+08/08/2018,"8 Hampton, Gracepark Road, Drumcondra",Dublin,788546.26,Yes,Drumcondra,Dublin 9,q4,100%
+10/08/2018,"21 Bantry Rd, Drumcondra, Dublin 9",Dublin,680000.0,No,Drumcondra,Dublin 9,q4,100%
+10/08/2018,"24 St Annes Rd, Drumcondra, Dublin",Dublin,442500.0,No,Drumcondra,Dublin 9,q3,80%
+14/08/2018,"48 Elizabeth St, Drumcondra, Dublin 3",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+15/08/2018,"1 Clonturk Park, Drumcondra, Dublin 9",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+15/08/2018,"11 Home Farm Park, Drumcondra, Dublin 9",Dublin,650000.0,No,Drumcondra,Dublin 9,q4,100%
+15/08/2018,"Apt 102 Chapel Gate, St Alphonsus Rd Upper, Drumcondra Dublin 7",Dublin,377000.0,No,Drumcondra,Dublin 9,q3,60%
+16/08/2018,"137 Grace Park Heights, Drumcondra, Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+16/08/2018,"41 Home Farm Rd, Drumcondra, Dublin 9",Dublin,675000.0,No,Drumcondra,Dublin 9,q4,100%
+16/08/2018,"49 Richmond Rd, Drumcondra, Dublin 3",Dublin,591555.0,No,Drumcondra,Dublin 9,q4,90%
+17/08/2018,"130 Upper Drumcondra Rd, Dublin 9, Dublin",Dublin,959855.08,No,Drumcondra,Dublin 9,q4,100%
+17/08/2018,"15 Valentia Rd, Drumcondra, Dublin 9",Dublin,895000.0,No,Drumcondra,Dublin 9,q4,100%
+17/08/2018,"20 Sion Hill Rd, Drumcondra, Dublin 9",Dublin,250000.0,No,Drumcondra,Dublin 9,q1,30%
+17/08/2018,"27 St Clements Rd, Drumcondra, Dublin 9",Dublin,525000.0,No,Drumcondra,Dublin 9,q4,90%
+17/08/2018,"43 All Hallows Sq, Beresford Drumcondra, Dublin 9",Dublin,323000.0,No,Drumcondra,Dublin 9,q2,50%
+17/08/2018,"505 Gracepark Manor, Drumcondra, Dublin 9",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+24/08/2018,"304 The Distillery Building, Distillery Rd, Drumcondra",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+30/08/2018,"37 Dargle Rd, Drumcondra, Dublin 9",Dublin,384500.0,No,Drumcondra,Dublin 9,q3,60%
+05/09/2018,"4 Whitworth Place, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+05/09/2018,"51 Ferguson Rd, Drumcondra, Dublin 9",Dublin,377500.0,No,Drumcondra,Dublin 9,q3,60%
+06/09/2018,"118 Lower Drumcondra Rd, Drumcondra, Dublin 9",Dublin,760000.0,No,Drumcondra,Dublin 9,q4,100%
+07/09/2018,"10 Hampton, Gracepark Road, Drumcondra",Dublin,748899.0,Yes,Drumcondra,Dublin 9,q4,100%
+07/09/2018,"15 Richmond Rd, Drumcondra, Dublin 9",Dublin,437000.0,No,Drumcondra,Dublin 9,q3,80%
+07/09/2018,"52 All Hallows Sq, Griffith Ave, Drumcondra",Dublin,470000.0,No,Drumcondra,Dublin 9,q4,80%
+12/09/2018,"11 Gracepark View, Grace Park Wood, Drumcondra",Dublin,647578.0,Yes,Drumcondra,Dublin 9,q4,100%
+12/09/2018,"39 Ormond Road, Drumcondra, Dublin 9",Dublin,555000.0,No,Drumcondra,Dublin 9,q4,90%
+14/09/2018,"119 Griffith Hall, Glandore Rd, Drumcondra Dublin 9",Dublin,262000.0,No,Drumcondra,Dublin 9,q2,30%
+14/09/2018,"15 Oneachtain Rd, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+18/09/2018,"3 Beresford Green, Griffith Ave, Drumcondra Dublin 9",Dublin,1275000.0,No,Drumcondra,Dublin 9,q4,100%
+21/09/2018,"11 Hampton, Grace Park Road, Drumcondra",Dublin,755500.0,Yes,Drumcondra,Dublin 9,q4,100%
+21/09/2018,"2 Walnut Lawn, Drumcondra, Dublin 9",Dublin,650000.0,No,Drumcondra,Dublin 9,q4,100%
+21/09/2018,"33 Ferguson Rd, Drumcondra, Dublin 9",Dublin,382000.0,No,Drumcondra,Dublin 9,q3,60%
+26/09/2018,"401 Hampton Lodge, Graceperk Rd, Drumcondra",Dublin,450000.0,No,Drumcondra,Dublin 9,q3,80%
+27/09/2018,"53 Chapelgate, St Alphonsus Rd, Drumcondra Dublin 9",Dublin,357000.0,No,Drumcondra,Dublin 9,q3,60%
+28/09/2018,"12 Hampton Grace Park, Drumcondra",Dublin,788546.25,Yes,Drumcondra,Dublin 9,q4,100%
+28/09/2018,"7 Gracepark View, Grace Park Wood, Drumcondra",Dublin,647577.0,Yes,Drumcondra,Dublin 9,q4,100%
+28/09/2018,"St Annes, 229 Clonliffe Rd, Drumcondra",Dublin,530000.0,No,Drumcondra,Dublin 9,q4,90%
+08/10/2018,"17 Achill Rd, Drumcondra, Dublin 9",Dublin,575000.0,No,Drumcondra,Dublin 9,q4,90%
+09/10/2018,"31 Dargle Rd, Drumcondra, Dublin 9",Dublin,412000.0,No,Drumcondra,Dublin 9,q3,70%
+11/10/2018,"220 Grace Park Heights, Drumcondra, Dublin 9",Dublin,402000.0,No,Drumcondra,Dublin 9,q3,70%
+17/10/2018,"35 Carlingford Rd, Drumcondra, Dublin 9",Dublin,420000.0,No,Drumcondra,Dublin 9,q3,70%
+18/10/2018,"19 Griffith Hall, Glandore Rd, Drumcondra Dublin 9",Dublin,312000.0,No,Drumcondra,Dublin 9,q2,40%
+19/10/2018,"13 Hampton, Grace Park Road, Drumcondra",Dublin,788547.0,Yes,Drumcondra,Dublin 9,q4,100%
+19/10/2018,"Apartment 1, 31 Hollybank Rd, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+19/10/2018,"Apartment 2, 31 Hollybank Road, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+19/10/2018,"Apartment 3, 31 Hollybank Road, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+19/10/2018,"Apartment 4, 31 Hollybank Road, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+19/10/2018,"Apartment 5, 31 Hollybank Road, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+19/10/2018,"Apartment 6, 31 Hollybank Road, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+19/10/2018,"Apartment 7, 31 Hollybank Road, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+19/10/2018,"Apartment 8, 31 Hollybank Road, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+19/10/2018,"Apartment 9, 31 Hollybank Road, Drumcondra",Dublin,100000.0,No,Drumcondra,Dublin 9,q1,10%
+22/10/2018,"12 All Hallows Green, Drumcondra, Dublin 9",Dublin,440000.0,No,Drumcondra,Dublin 9,q3,80%
+24/10/2018,"10 Dargle Rd, Drumcondra, Dublin 9",Dublin,450000.0,No,Drumcondra,Dublin 9,q3,80%
+24/10/2018,"7 St Brendans Rd, Drumcondra, Dublin 9",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+26/10/2018,"31 Lambay Rd, Drumcondra, Dublin 9",Dublin,466511.6,No,Drumcondra,Dublin 9,q4,80%
+26/10/2018,"6 Milmount Terrace, Drumcondra, Dublin 9",Dublin,445000.0,No,Drumcondra,Dublin 9,q3,80%
+26/10/2018,"64 Lower Drumcondra Rd, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+30/10/2018,"9 Grace Park Wood, Grace Park Road, Drumcondra",Dublin,647600.0,Yes,Drumcondra,Dublin 9,q4,100%
+31/10/2018,"12 Oneachtain Rd, Drumcondra, Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+08/11/2018,"319 Gracepark Manor, Drumcondra, Dublin 9",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+09/11/2018,"75 Hardiman Rd, Drumcondra, Dublin 9",Dublin,336000.0,No,Drumcondra,Dublin 9,q2,50%
+09/11/2018,"9 Hampton, Gracepark Road, Drumcondra",Dublin,806387.67,Yes,Drumcondra,Dublin 9,q4,100%
+13/11/2018,"167 Richmond Rd, Drumcondra, Dublin 3",Dublin,405000.0,No,Drumcondra,Dublin 9,q3,70%
+17/11/2018,"55 Hardiman Rd, Drumcondra, Dublin 9",Dublin,170000.0,No,Drumcondra,Dublin 9,q1,10%
+21/11/2018,"4 St Patricks Rd, Drumcondra, Dublin 9",Dublin,495000.0,No,Drumcondra,Dublin 9,q4,80%
+22/11/2018,"58 Grace Park Wood, Grace Park Road, Drumcondra",Dublin,500000.0,Yes,Drumcondra,Dublin 9,q4,80%
+23/11/2018,"104 Hampton, Block B, Drumcondra",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+23/11/2018,"48 Grace Park Close, Grace Park Wood, Drumcondra",Dublin,555066.0,Yes,Drumcondra,Dublin 9,q4,90%
+23/11/2018,"Apartment 1, 271 Clonliffe Rd, Drumcondra",Dublin,537750.0,No,Drumcondra,Dublin 9,q4,90%
+23/11/2018,"Apartment 1, 61 Whitworth Road, Drumcondra",Dublin,537750.0,No,Drumcondra,Dublin 9,q4,90%
+23/11/2018,"Apartment 1, 62 Whitworth Road, Drumcondra",Dublin,537750.0,No,Drumcondra,Dublin 9,q4,90%
+28/11/2018,"38 Grace Park Close, Grace Park Wood, Drumcondra",Dublin,440528.63,Yes,Drumcondra,Dublin 9,q3,80%
+28/11/2018,"40 Grace Park Close, Grace Park Wood, Drumcondra",Dublin,440529.0,Yes,Drumcondra,Dublin 9,q3,80%
+28/11/2018,"42 All Hallows Sq, Griffith Ave, Drumcondra Dublin 9",Dublin,415000.0,No,Drumcondra,Dublin 9,q3,70%
+29/11/2018,"62 Grace Park Close, Grace Park Wood, Drumcondra",Dublin,555066.0,Yes,Drumcondra,Dublin 9,q4,90%
+30/11/2018,"192 Grace Park Heights, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+30/11/2018,"30 Gracepark Woods, Drumcondra, Dublin 9",Dublin,541850.0,Yes,Drumcondra,Dublin 9,q4,90%
+30/11/2018,"4 Millbourne Ave, Drumcondra, Dublin 9",Dublin,395000.0,No,Drumcondra,Dublin 9,q3,60%
+03/12/2018,"154 Walsh Rd, Drumcondra Dublin 9, Dublin",Dublin,390000.0,No,Drumcondra,Dublin 9,q3,60%
+05/12/2018,"11 Russell Ave, Drumcondra, Dublin 3",Dublin,308000.0,No,Drumcondra,Dublin 9,q2,40%
+06/12/2018,"191 Griffith Avenue, Drumcondra, Dublin 9",Dublin,735000.0,No,Drumcondra,Dublin 9,q4,100%
+06/12/2018,"4 Yeats House, Glenarm Sq, Drumcondra Dublin 3",Dublin,365000.0,No,Drumcondra,Dublin 9,q3,60%
+07/12/2018,"2 High Park, Gracepark Rd, Drumcondra",Dublin,430000.0,No,Drumcondra,Dublin 9,q3,70%
+07/12/2018,"206 Grace Park Rd, Drumcondra, Dublin 9",Dublin,780000.0,No,Drumcondra,Dublin 9,q4,100%
+10/12/2018,"20 Susanville Road, Drumcondra, Dublin 9",Dublin,365000.0,No,Drumcondra,Dublin 9,q3,60%
+12/12/2018,"99 Ferguson Rd, Drumcondra, Dublin 9",Dublin,475000.0,No,Drumcondra,Dublin 9,q4,80%
+13/12/2018,"4 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+14/12/2018,"202A Hampton Lodge, Gracepark Rd, Drumcondra",Dublin,327500.0,No,Drumcondra,Dublin 9,q2,50%
+14/12/2018,"4 Woodville Rd, Drumcondra, Dublin 9",Dublin,435000.0,No,Drumcondra,Dublin 9,q3,80%
+17/12/2018,"14 Hampton, Gracepark Road, Drumcondra",Dublin,806387.0,Yes,Drumcondra,Dublin 9,q4,100%
+17/12/2018,"9 Home Farm Rd, Drumcondra, Dublin 9",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+18/12/2018,"302A Hampton Lodge, Gracepark Rd, Drumcondra",Dublin,343000.0,No,Drumcondra,Dublin 9,q2,50%
+19/12/2018,"33 Russell Ave, Drumcondra, Dublin 3",Dublin,435000.0,No,Drumcondra,Dublin 9,q3,80%
+19/12/2018,"34  Grace Park Close, Drumcondra, Dublin 9",Dublin,555066.0,Yes,Drumcondra,Dublin 9,q4,90%
+21/12/2018,"16 St Brigids Rd Upper, Drumcondra, Dublin 9",Dublin,700000.0,No,Drumcondra,Dublin 9,q4,100%
+21/12/2018,"60 Walnut Rise, Courtlands, Drumcondra Dublin 9",Dublin,825000.0,No,Drumcondra,Dublin 9,q4,100%
+03/01/2019,"69 Carlingford Rd, Drumcondra, Dublin 9",Dublin,470000.0,No,Drumcondra,Dublin 9,q4,80%
+10/01/2019,"56 Home Farm Rd, Drumcondra, Dublin 9",Dublin,650000.0,No,Drumcondra,Dublin 9,q4,100%
+11/01/2019,"131 Chapelgate, St Alphonsus Rd, Drumcondra",Dublin,580000.0,No,Drumcondra,Dublin 9,q4,90%
+16/01/2019,"12 St Brendan'S Road, Drumcondra, Dublin 9",Dublin,285000.0,No,Drumcondra,Dublin 9,q2,40%
+17/01/2019,"201B Hampton Lodge, Gracepark Rd, Drumcondra",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+17/01/2019,"27A Raithlin Road, Drumcondra, Dublin 9",Dublin,495000.0,Yes,Drumcondra,Dublin 9,q4,80%
+18/01/2019,"10 Carberry Rd, Griffith Ave, Drumcondra Dublin 9",Dublin,435000.0,No,Drumcondra,Dublin 9,q3,80%
+18/01/2019,"15 Gracepark Manor, Drumcondra, Dublin 9",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+22/01/2019,"12 The Village, Drumcondra, Dublin 9",Dublin,327000.0,No,Drumcondra,Dublin 9,q2,50%
+29/01/2019,"110B Hampton Lodge, Gracepark Rd, Drumcondra",Dublin,331000.0,No,Drumcondra,Dublin 9,q2,50%
+31/01/2019,"Apt 118 Block A Hampton Lodge Apts, Grace Park Rd, Drumcondra Dublin 9",Dublin,310000.0,No,Drumcondra,Dublin 9,q2,40%
+07/02/2019,"16 Hampton, Grace Park Road, Drumcondra",Dublin,788547.0,Yes,Drumcondra,Dublin 9,q4,100%
+07/02/2019,"33 Hardiman Rd, Drumcondra, Dublin 9",Dublin,475000.0,No,Drumcondra,Dublin 9,q4,80%
+11/02/2019,"160 Drumcondra Rd Upper, Drumcondra, Dublin 9",Dublin,645000.0,No,Drumcondra,Dublin 9,q4,100%
+18/02/2019,"17 Hampton, Gracepark Road, Drumcondra",Dublin,788546.0,Yes,Drumcondra,Dublin 9,q4,100%
+20/02/2019,"137 Richmond Rd, Drumcondra, Dublin 3",Dublin,475000.0,No,Drumcondra,Dublin 9,q4,80%
+21/02/2019,"26 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,395000.0,No,Drumcondra,Dublin 9,q3,70%
+22/02/2019,"14 Achill Rd, Drumcondra, Dublin 9",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+22/02/2019,"16 All Hallows Sq, Drumcondra, Dublin 9",Dublin,455000.0,No,Drumcondra,Dublin 9,q3,80%
+25/02/2019,"Apartment 1-6, 3 Grattan Parade, Drumcondra",Dublin,537750.0,No,Drumcondra,Dublin 9,q4,90%
+25/02/2019,"Block B 303 Hampton Lodge, Grace Park Rd, Drumcondra Dublin 9",Dublin,332000.0,No,Drumcondra,Dublin 9,q2,50%
+25/02/2019,"Flat 7   1 Hollybank Rd, Drumcondra, Dublin 9",Dublin,640000.0,No,Drumcondra,Dublin 9,q4,100%
+27/02/2019,"77 Annadale Dr, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+07/03/2019,"22 All Hallows Sq, Griffith Ave, Drumcondra Dublin 9",Dublin,430000.0,No,Drumcondra,Dublin 9,q3,70%
+07/03/2019,"77 Walsh Rd, Drumcondra, Dublin 9",Dublin,330000.0,No,Drumcondra,Dublin 9,q2,50%
+07/03/2019,"Apt 304 Gracepark Manor, Drumcondra, Dublin 9",Dublin,357000.0,No,Drumcondra,Dublin 9,q3,60%
+11/03/2019,"11 Calderwood Ave, Drumcondra, Dublin 9",Dublin,655000.0,No,Drumcondra,Dublin 9,q4,100%
+12/03/2019,"138 Drumcondra Rd Upper, Drumcondra, Dublin 9",Dublin,1195000.0,No,Drumcondra,Dublin 9,q4,100%
+12/03/2019,"Apt 20 Clonliffe Square, Distillery Road, Drumcondra",Dublin,260000.0,No,Drumcondra,Dublin 9,q1,30%
+13/03/2019,"14 Grace Park Row, Grace Park Wood, Drumcondra",Dublin,590308.37,Yes,Drumcondra,Dublin 9,q4,90%
+15/03/2019,"34 Joyce Rd, Drumcondra, Dublin 9",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+19/03/2019,"281 Griffith Ave, Drumcondra, Dublin 9",Dublin,905000.0,No,Drumcondra,Dublin 9,q4,100%
+19/03/2019,"Apt 11 Glencarrig Court, 115 Richmond Rd, Drumcondra Dublin 9",Dublin,255000.0,No,Drumcondra,Dublin 9,q1,30%
+21/03/2019,"18 Hampton, Gracepark Road, Drumcondra",Dublin,770925.1,Yes,Drumcondra,Dublin 9,q4,100%
+29/03/2019,"112 Block A Hampton Lodge, Grace Park Road, Drumcondra",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+29/03/2019,"172A Grace Park Rd, Drumcondra, Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+04/04/2019,"33 Valentia Rd, Drumcondra, Dublin 9",Dublin,895000.0,No,Drumcondra,Dublin 9,q4,100%
+04/04/2019,"50 Carlingford Rd, Drumcondra, Dublin 9",Dublin,150000.0,No,Drumcondra,Dublin 9,q1,10%
+10/04/2019,"13 Walnut Ave, Courtlands, Drumcondra Dublin 9",Dublin,675000.0,No,Drumcondra,Dublin 9,q4,100%
+10/04/2019,"14 St Alphonsus Road, Drumcondra, Dublin 9",Dublin,595000.0,No,Drumcondra,Dublin 9,q4,90%
+12/04/2019,"4 Whitworth Raod, Drumcondra, Dublin 9",Dublin,480000.0,No,Drumcondra,Dublin 9,q4,80%
+15/04/2019,"29 All Hallows Green, Drumcondra Dublin 9, Dublin",Dublin,410000.0,No,Drumcondra,Dublin 9,q3,70%
+17/04/2019,"109 Annadale Dr, Drumcondra, Dublin 9",Dublin,415000.0,No,Drumcondra,Dublin 9,q3,70%
+18/04/2019,"182 Upper Drumcondra Rd, Dublin 9, Dublin",Dublin,695000.0,No,Drumcondra,Dublin 9,q4,100%
+24/04/2019,"167 Charlemont, Griffth Ave, Drumcondra",Dublin,525000.0,No,Drumcondra,Dublin 9,q4,90%
+24/04/2019,"32 All Hallows Green, Drumcondra, Dublin 9",Dublin,297000.0,No,Drumcondra,Dublin 9,q2,40%
+25/04/2019,"86 Botanic Ave, Drumcondra, Dublin 9",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+29/04/2019,"200 Clonliffe Rd, Drumcondra, Dublin 3",Dublin,480000.0,No,Drumcondra,Dublin 9,q4,80%
+03/05/2019,"121 Annadale Dr, Drumcondra, Dublin 9",Dublin,458000.0,No,Drumcondra,Dublin 9,q3,80%
+03/05/2019,"83 Griffith Hall, Glandore Rd, Drumcondra Dublin 9",Dublin,245000.0,No,Drumcondra,Dublin 9,q1,30%
+08/05/2019,"5 Grace Park Wood, Grace Park Road, Drumcondra",Dublin,484400.0,Yes,Drumcondra,Dublin 9,q4,80%
+09/05/2019,"33 St Columbas Rd Upper, Drumcondra, Dublin 9",Dublin,225000.0,No,Drumcondra,Dublin 9,q1,20%
+10/05/2019,"15 Hampton, Grace Park Road, Drumcondra",Dublin,793171.8,Yes,Drumcondra,Dublin 9,q4,100%
+17/05/2019,"24 St Brigids Rd Lower, Drumcondra, Dublin 9",Dublin,570000.0,No,Drumcondra,Dublin 9,q4,90%
+17/05/2019,"9 0Briens Place, Drumcondra, Dublin 9",Dublin,335000.0,No,Drumcondra,Dublin 9,q2,50%
+20/05/2019,"106 Chapelgate, St Alphonsus Rd, Drumcondra Dublin 9",Dublin,472500.0,No,Drumcondra,Dublin 9,q4,80%
+23/05/2019,"39 Hardiman Rd, Drumcondra, Dublin 9",Dublin,318000.0,No,Drumcondra,Dublin 9,q2,50%
+24/05/2019,"15 Beaucourt, Achill Rd, Drumcondra",Dublin,235000.0,No,Drumcondra,Dublin 9,q1,20%
+24/05/2019,"99 Grace Park Meadows, Drumcondra, Dublin 9",Dublin,395000.0,No,Drumcondra,Dublin 9,q3,70%
+28/05/2019,"118 Griffith Hall, Glandore Rd, Drumcondra Dublin 9",Dublin,245000.0,No,Drumcondra,Dublin 9,q1,30%
+28/05/2019,"19 The Village, Drumcondra Rd Upper, Drumcondra Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+30/05/2019,"105 Grace Park Manor, Grace Park Rd, Drumcondra Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+31/05/2019,"7 Garden House Apartment, Waterfall Avenue, Drumcondra",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+31/05/2019,"Apt 6, 18 Claude Rd, Drumcondra Dublin 9",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+04/06/2019,"389 Grace Park Heights, Drumcondra, Dublin 9",Dublin,425000.0,No,Drumcondra,Dublin 9,q3,70%
+05/06/2019,"5 Shanganagh Road, Drumcondra, Dublin 9",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+10/06/2019,"173 Griffith Avenue, Drumcondra, Dublin 9",Dublin,762000.0,No,Drumcondra,Dublin 9,q4,100%
+14/06/2019,"14 Richmond Rd, Drumcondra, Dublin 3",Dublin,465000.0,No,Drumcondra,Dublin 9,q3,80%
+14/06/2019,"56 Chapelgate, St Alphonsus Rd, Drumcondra Dublin 9",Dublin,465000.0,No,Drumcondra,Dublin 9,q3,80%
+14/06/2019,"60 Upper Drumcondra Rd, Drumcondra, Dublin 9",Dublin,550000.0,No,Drumcondra,Dublin 9,q4,90%
+18/06/2019,"13 Oneachtain Rd, Drumcondra, Dublin 9",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+21/06/2019,"12 Church Ave, Drumcondra, Dublin 9",Dublin,357000.0,No,Drumcondra,Dublin 9,q3,60%
+25/06/2019,"Apt 6, 18 Claude Rd, Drumcondra Dublin 9",Dublin,265000.0,No,Drumcondra,Dublin 9,q2,30%
+26/06/2019,"52 Lower Drumcondra Road, Drumcondra, Dublin 9",Dublin,536000.0,No,Drumcondra,Dublin 9,q4,90%
+27/06/2019,"15 Dargle Rd, Drumcondra, Dublin 9",Dublin,484000.0,No,Drumcondra,Dublin 9,q4,80%
+28/06/2019,"32 Fleming Rd, Drumcondra, Dublin 9",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+02/07/2019,"158 Home Farm Rd, Drumcondra, Dublin 9",Dublin,547500.0,No,Drumcondra,Dublin 9,q4,90%
+08/07/2019,"Apartment 1, 271 Clonliffe Rd, Drumcondra",Dublin,8000.0,No,Drumcondra,Dublin 9,q1,10%
+11/07/2019,"19 All Hallows Green, Griffiths Ave, Drumcondra Dublin 9",Dublin,385000.0,No,Drumcondra,Dublin 9,q3,60%
+11/07/2019,"67 Upper Drumcondra Rd, Drumcondra, Dublin 9",Dublin,950000.0,No,Drumcondra,Dublin 9,q4,100%
+12/07/2019,"41 Griffith Hall, Glandore Rd, Drumcondra",Dublin,300000.0,No,Drumcondra,Dublin 9,q2,40%
+15/07/2019,"41 Ferguson Rd, Drumcondra, Dublin 9",Dublin,595000.0,No,Drumcondra,Dublin 9,q4,90%
+16/07/2019,"20 Lower St Columbas Rd, Drumcondra, Dublin 9",Dublin,526000.0,No,Drumcondra,Dublin 9,q4,90%
+18/07/2019,"227 Griffith Ave, Drumcondra, Dublin 9",Dublin,795000.0,No,Drumcondra,Dublin 9,q4,100%
+19/07/2019,"18 Russell Avenue, Drumcondra, Dublin 3",Dublin,315000.0,No,Drumcondra,Dublin 9,q2,50%
+24/07/2019,"9 Fleming Rd, Drumcondra, Dublin 9",Dublin,275000.0,No,Drumcondra,Dublin 9,q2,30%
+26/07/2019,"10 Susanville Rd, Drumcondra, Dublin 3",Dublin,413500.0,No,Drumcondra,Dublin 9,q3,70%
+26/07/2019,"16 Lambay Rd, Drumcondra, Dublin 9",Dublin,590000.0,No,Drumcondra,Dublin 9,q4,90%
+26/07/2019,"414 Grace Park Manor, Drumcondra, Dublin 9",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+26/07/2019,"62 Russell Ave, Drumcondra, Dublin 3",Dublin,355000.0,No,Drumcondra,Dublin 9,q3,60%
+29/07/2019,"Apt 2 Abbeyvale, 215 Botanic Ave, Drumcondra Dublin 9",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+31/07/2019,"12 Glen Arm Sq, St Josephs Ave, Drumcondra Dublin 9",Dublin,340000.0,No,Drumcondra,Dublin 9,q2,50%
+01/08/2019,"5 Grace Park Grove, Grace Park Road, Drumcondra",Dublin,515419.0,Yes,Drumcondra,Dublin 9,q4,90%
+02/08/2019,"14 O'Brien'S Place, Drumcondra, Dublin 9",Dublin,322000.0,No,Drumcondra,Dublin 9,q2,50%
+13/08/2019,"11 Barron Place, Drumcondra, Dublin 9",Dublin,360000.0,No,Drumcondra,Dublin 9,q3,60%
+15/08/2019,"38 Upper Drumcondra Road, Dublin 9",Dublin,816000.0,No,Drumcondra,Dublin 9,q4,100%
+16/08/2019,"35 Glen Arm Sq, St Josephs Ave, Drumcondra Dublin 9",Dublin,450000.0,No,Drumcondra,Dublin 9,q3,80%
+20/08/2019,"13 St Brendans Rd, Drumcondra, Dublin 9",Dublin,267000.0,No,Drumcondra,Dublin 9,q2,30%
+22/08/2019,"19 Hampton, Grace Park Road, Drumcondra",Dublin,793171.8,Yes,Drumcondra,Dublin 9,q4,100%
+23/08/2019,"13 Gracepark Meadows, Drumcondra, Dublin 9",Dublin,415000.0,No,Drumcondra,Dublin 9,q3,70%
+23/08/2019,"77 Home Farm Rd, Drumcondra, Dublin 9",Dublin,600000.0,No,Drumcondra,Dublin 9,q4,90%
+26/08/2019,"22 Gracepark Close, Gracepark Road, Drumcondra",Dublin,440528.0,Yes,Drumcondra,Dublin 9,q3,80%
+26/08/2019,"8 Carberry Rd, Drumcondra, Dublin 9",Dublin,515000.0,No,Drumcondra,Dublin 9,q4,90%
+27/08/2019,"115 Griffith Ave, Drumcondra, Dublin 9",Dublin,810000.0,No,Drumcondra,Dublin 9,q4,100%
+30/08/2019,"177 Clonliffe Rd, Drumcondra, Dublin 9",Dublin,500000.0,No,Drumcondra,Dublin 9,q4,80%
+30/08/2019,"22 Russell Avenue, Drumcondra, Dublin 9",Dublin,308000.0,No,Drumcondra,Dublin 9,q2,40%
+30/08/2019,"34 The Court, High Park, Drumcondra",Dublin,296500.0,No,Drumcondra,Dublin 9,q2,40%
+02/09/2019,"357 Grace Park Heights, Drumcondra, Dublin 9",Dublin,420000.0,No,Drumcondra,Dublin 9,q3,70%
+03/09/2019,"16 St Josephs Ave, Drumcondra, Dublin 9",Dublin,281000.0,No,Drumcondra,Dublin 9,q2,40%
+03/09/2019,"381 Grace Park Heights, Drumcondra, Dublin 9",Dublin,400000.0,No,Drumcondra,Dublin 9,q3,70%
+05/09/2019,"Apt 115, Grace Park Manor, Drumcondra",Dublin,320000.0,No,Drumcondra,Dublin 9,q2,50%
+06/09/2019,"75 Cornmill, Distillery Rd, Drumcondra Dublin 9",Dublin,380000.0,No,Drumcondra,Dublin 9,q3,60%
+09/09/2019,"23 Clonliffe Sq, Distillery Rd, Drumcondra Dublin 3",Dublin,310000.0,Yes,Drumcondra,Dublin 9,q2,40%
+13/09/2019,"16 St Patricks Rd, Drumcondra, Dublin 9",Dublin,447000.0,No,Drumcondra,Dublin 9,q3,80%
+17/09/2019,"36 Whitworth Rd, Drumcondra, Dublin 9",Dublin,580000.0,No,Drumcondra,Dublin 9,q4,90%
+17/09/2019,"46 Elizabeth St, Drumcondra, Dublin 3",Dublin,377000.0,No,Drumcondra,Dublin 9,q3,60%
+20/09/2019,"28 Claude Rd, Drumcondra, Dublin 9",Dublin,595000.0,No,Drumcondra,Dublin 9,q4,90%
+25/09/2019,"13 Millmount Place, Drumcondra, Dublin 9",Dublin,480000.0,No,Drumcondra,Dublin 9,q4,80%
+25/09/2019,"6 Grace Park Rd, Drumcondra, Dublin 9",Dublin,540000.0,No,Drumcondra,Dublin 9,q4,90%
+26/09/2019,"19 Arran Road, Drumcondra, Dublin 9",Dublin,755000.0,No,Drumcondra,Dublin 9,q4,100%
+01/10/2019,"136 Chapelgate, St Alphosus Rd, Drumcondra Dublin 9",Dublin,580000.0,No,Drumcondra,Dublin 9,q4,90%
+04/10/2019,"79 Fitzroy Ave, Drumcondra, Dublin 3",Dublin,325000.0,No,Drumcondra,Dublin 9,q2,50%
+08/10/2019,"28 Corn Mill, Distillery Rd, Drumcondra Dublin 9",Dublin,460000.0,No,Drumcondra,Dublin 9,q3,80%
+10/10/2019,"1 Carlingford Rd, Drumcondra, Dublin 9",Dublin,525000.0,No,Drumcondra,Dublin 9,q4,90%
+18/10/2019,"12 Claude Rd, Drumcondra, Dublin 9",Dublin,555000.0,No,Drumcondra,Dublin 9,q4,90%

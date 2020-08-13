@@ -1,0 +1,912 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+12/01/2010,"House 2  Dungriffin Road, Howth, County Dublin",Dublin,594714.0,Yes,Howth,Dublin 13,q3,60%
+27/01/2010,"5 Campbells Court, Main Street, Howth",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+28/01/2010,"5 Evora Park, Howth",Dublin,420000.0,No,Howth,Dublin 13,q2,50%
+01/02/2010,"581 Howth Road, Raheny",Dublin,501000.0,No,Howth,Dublin 13,q3,60%
+04/02/2010,"34 The Pines, Howth Road, Killester",Dublin,285000.0,No,Howth,Dublin 13,q1,20%
+04/02/2010,"56 The Pines, Howth Road, Killester",Dublin,305000.0,No,Howth,Dublin 13,q1,30%
+11/02/2010,"545 Howth Road, Raheny, Dublin",Dublin,525000.0,No,Howth,Dublin 13,q3,60%
+15/02/2010,"605 Howth Road, Raheny, Dublin 5",Dublin,635000.0,No,Howth,Dublin 13,q3,70%
+23/02/2010,"5 Abbey Street, Howth",Dublin,527000.0,No,Howth,Dublin 13,q3,60%
+26/02/2010,"Apt 5 Auburn, 118 Howth Road, Clontarf",Dublin,344000.0,No,Howth,Dublin 13,q2,30%
+05/03/2010,"10 Rosevale, Howth Road  Raheny",Dublin,260000.0,No,Howth,Dublin 13,q1,20%
+31/03/2010,"No 10  150 Howth Road, Clontarf",Dublin,490000.0,No,Howth,Dublin 13,q2,50%
+31/03/2010,"Whitewater House, Baily, Howth",Dublin,1550000.0,No,Howth,Dublin 13,q4,100%
+08/04/2010,"Apt 14 Block B Howth Junction Court, St Donagh'S Road, Dublin 5",Dublin,200000.0,Yes,Howth,Dublin 13,q1,10%
+12/04/2010,"16 Thormanby Woods, Howth, County Dublin",Dublin,1400000.0,No,Howth,Dublin 13,q4,100%
+27/04/2010,"Apartment 21  Block B, Howth Junction Court, St. Donagh'S Road",Dublin,202643.17,Yes,Howth,Dublin 13,q1,10%
+07/05/2010,"2 Corr Castle, Howth",Dublin,696750.0,No,Howth,Dublin 13,q3,80%
+07/05/2010,"Monksilver, Windgate Rise, Howth",Dublin,775000.0,No,Howth,Dublin 13,q4,80%
+14/05/2010,"Apartment 5 Garland Court, Abbey Street  Howth",Dublin,277533.03,Yes,Howth,Dublin 13,q1,20%
+29/05/2010,"Holly Cottage, Balkhill Road, Howth",Dublin,485000.0,No,Howth,Dublin 13,q2,50%
+11/06/2010,"7 Asgard Road, Howth",Dublin,555000.0,No,Howth,Dublin 13,q3,60%
+16/06/2010,"Heather Cottage, Upper Cliff Rd, Howth  Co Dublin",Dublin,2022511.0,No,Howth,Dublin 13,q4,100%
+18/06/2010,"8 Mariner'S Cove, Howth",Dublin,720000.0,No,Howth,Dublin 13,q3,80%
+22/06/2010,"5 Cannon Rock View, Howth",Dublin,1500000.0,No,Howth,Dublin 13,q4,100%
+16/07/2010,"8 Dungriffin Villas, Howth",Dublin,735000.0,No,Howth,Dublin 13,q3,80%
+20/07/2010,"53 Thormanby Lawn, Howth",Dublin,640000.0,No,Howth,Dublin 13,q3,70%
+22/07/2010,"67 Balglass Estate, Howth",Dublin,380000.0,No,Howth,Dublin 13,q2,40%
+23/07/2010,"Portmor, Greys Lane, Howth",Dublin,900000.0,Yes,Howth,Dublin 13,q4,90%
+28/07/2010,"15 Furry Park Court, Howth Road",Dublin,155000.0,No,Howth,Dublin 13,q1,10%
+29/07/2010,"Apt. 1  Glenbrian Hall, 98  Howth Road, Clontarf",Dublin,283000.0,No,Howth,Dublin 13,q1,20%
+12/08/2010,"32 Howth Road, Dublin 3, Dublin 3",Dublin,67500.0,No,Howth,Dublin 13,q1,10%
+17/08/2010,"562 Howth Road, Raheny",Dublin,311000.0,No,Howth,Dublin 13,q1,30%
+23/08/2010,"16 Woodside, Balkill Road, Howth",Dublin,460000.0,No,Howth,Dublin 13,q2,50%
+27/08/2010,"171 Ashbrook, Howth Road, Clontarf",Dublin,415000.0,No,Howth,Dublin 13,q2,50%
+31/08/2010,"3 Thormanby Lawns, Howth",Dublin,690000.0,No,Howth,Dublin 13,q3,80%
+03/09/2010,"St Gerards, Balkill Road, Howth",Dublin,640000.0,No,Howth,Dublin 13,q3,70%
+01/10/2010,"Apt 2 Auburn, 118 Howth Road, Clontarf",Dublin,315000.0,No,Howth,Dublin 13,q2,30%
+14/10/2010,"Heritage Lodge, Balkill Road, Howth",Dublin,810000.0,No,Howth,Dublin 13,q4,90%
+15/10/2010,"13 Crosstrees Court, Howth, County Dublin",Dublin,344500.0,No,Howth,Dublin 13,q2,40%
+18/10/2010,"Flat Numbr 17, Glenbrian Hall, 98 Howth Road",Dublin,225000.0,No,Howth,Dublin 13,q1,20%
+19/10/2010,"Ayrton, 634 Howth Road, Raheny",Dublin,425000.0,No,Howth,Dublin 13,q2,50%
+27/10/2010,"12 Mariners Cove, Thornmanby Road, Howth",Dublin,750000.0,No,Howth,Dublin 13,q4,80%
+03/12/2010,"Site 2, 101 Howth Road, Howth",Dublin,1396475.0,Yes,Howth,Dublin 13,q4,100%
+07/12/2010,"16 Crosstrees, Main Street, Howth",Dublin,350000.0,No,Howth,Dublin 13,q2,40%
+09/12/2010,"24 Corr Castle, Howth Road Sutton",Dublin,602500.0,No,Howth,Dublin 13,q3,70%
+10/12/2010,"'Greygates', Grey'S Lane, Howth",Dublin,1300000.0,No,Howth,Dublin 13,q4,100%
+10/12/2010,"40 Ashbrook, Howth Road, Clontarf",Dublin,520000.0,No,Howth,Dublin 13,q3,60%
+16/12/2010,"Dunbo Hill, Howth, Co Dublin",Dublin,1500000.0,No,Howth,Dublin 13,q4,100%
+17/12/2010,"1 Thulla, Dunbo Hill, Howth",Dublin,1000000.0,Yes,Howth,Dublin 13,q4,90%
+17/12/2010,"5 Crosstrees Court, Main Street, Howth",Dublin,355000.0,No,Howth,Dublin 13,q2,40%
+20/12/2010,"Apartment 1 Rookstown, Thormanby Road, Howth",Dublin,250000.0,No,Howth,Dublin 13,q1,20%
+22/12/2010,"Apartment 14, Block 1, Howth Lodge  Howth",Dublin,675000.0,No,Howth,Dublin 13,q3,70%
+22/12/2010,"No 2 Brooklawn, Dungriffin Road, Howth",Dublin,270000.0,No,Howth,Dublin 13,q1,20%
+17/01/2011,"43 Venetian Hall, Howth Road",Dublin,245000.0,No,Howth,Dublin 13,q1,20%
+28/01/2011,"370 Howth Road, Raheny",Dublin,348000.0,No,Howth,Dublin 13,q2,40%
+28/01/2011,"Apartment 3  308 Howth Road, Killester  Dublin 3",Dublin,345000.0,No,Howth,Dublin 13,q2,40%
+08/02/2011,"93 Corr Castle, Howth",Dublin,700000.0,No,Howth,Dublin 13,q3,80%
+17/02/2011,"Windrush, 772 Howth Road, Dublin 5",Dublin,2000000.0,No,Howth,Dublin 13,q4,100%
+17/02/2011,"Wyvern, Dungriffin Road, Howth",Dublin,1425000.0,No,Howth,Dublin 13,q4,100%
+23/02/2011,"15 Harbour View, Howth",Dublin,375000.0,No,Howth,Dublin 13,q2,40%
+22/03/2011,"18 Thormanby Woods, Howth",Dublin,925000.0,No,Howth,Dublin 13,q4,90%
+05/05/2011,"Couleen, Baily, Howth",Dublin,1255000.0,No,Howth,Dublin 13,q4,100%
+15/05/2011,"The Moorings, Claremont, Howth Road",Dublin,735000.0,No,Howth,Dublin 13,q4,80%
+24/05/2011,"16 Rosevale, Howth Road, Raheny",Dublin,125000.0,No,Howth,Dublin 13,q1,10%
+27/05/2011,"No. 9 Grace O'Malley Drive, Howth, Co. Dublin",Dublin,270000.0,No,Howth,Dublin 13,q1,20%
+31/05/2011,"90 St. Peter'S Terrace, Howth",Dublin,250000.0,No,Howth,Dublin 13,q1,20%
+31/05/2011,"Apt 84, Block 5 Corr Castle, Howth Road",Dublin,450000.0,No,Howth,Dublin 13,q2,50%
+30/06/2011,"44A, Grace O'Malley Drive, Howth",Dublin,260000.0,No,Howth,Dublin 13,q1,20%
+01/07/2011,"36 Rosevale Apartments, Howth Road, Raheny",Dublin,140000.0,No,Howth,Dublin 13,q1,10%
+01/07/2011,"6 Claremont Road, Howth",Dublin,610000.0,No,Howth,Dublin 13,q3,70%
+08/07/2011,"The Anchorage, Church Street, Howth",Dublin,820000.0,No,Howth,Dublin 13,q4,90%
+11/07/2011,"Apt. 2 The Villa, St. Lawrence  Harbour Road, Howth",Dublin,305000.0,Yes,Howth,Dublin 13,q1,30%
+15/07/2011,"628 Howth Road, Raheny",Dublin,500000.0,No,Howth,Dublin 13,q2,50%
+25/07/2011,"3 Thulla, Dunbo Hill, Howth",Dublin,500000.0,Yes,Howth,Dublin 13,q3,60%
+05/08/2011,"359 Howth Road, Raheny",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+11/08/2011,"226A Howth Road, Clontarf",Dublin,482500.0,No,Howth,Dublin 13,q2,50%
+26/08/2011,"Carraigbrack House, Carraickbrack Road, Howth",Dublin,2480000.0,No,Howth,Dublin 13,q4,100%
+23/09/2011,"64 Balkill Park, Howth",Dublin,385000.0,No,Howth,Dublin 13,q2,40%
+26/09/2011,"330 Howth Road, Raheny",Dublin,265000.0,No,Howth,Dublin 13,q1,20%
+29/09/2011,"26 Casana View, Howth",Dublin,495000.0,No,Howth,Dublin 13,q2,50%
+29/09/2011,"485 Howth Road, Raheny",Dublin,575000.0,No,Howth,Dublin 13,q3,60%
+30/09/2011,"133 Howth Road, Clontarf, Dublin 3",Dublin,430000.0,No,Howth,Dublin 13,q2,50%
+04/10/2011,"287 Howth Road, Killester, Dublin 5",Dublin,565000.0,No,Howth,Dublin 13,q3,60%
+07/10/2011,"17 Thornmanby Lawns, Howth",Dublin,601500.0,No,Howth,Dublin 13,q3,70%
+14/10/2011,"62 Ashbrook, Howth Road",Dublin,350000.0,No,Howth,Dublin 13,q2,40%
+25/10/2011,"Lindisfarne, 44D Thormanby Road, Howth",Dublin,735000.0,No,Howth,Dublin 13,q4,80%
+09/11/2011,"34 Woodcliff Heights, Howth, Dublin 13",Dublin,580000.0,No,Howth,Dublin 13,q3,60%
+09/11/2011,"Journeys End, Baily, Howth",Dublin,895000.0,No,Howth,Dublin 13,q4,90%
+11/11/2011,"69 Corr Castle, Howth",Dublin,250000.0,No,Howth,Dublin 13,q1,20%
+15/11/2011,"20 Thormanby Lawn, Howth",Dublin,720000.0,No,Howth,Dublin 13,q3,80%
+30/11/2011,"14 Ashbrook, Howth Road, Clontarf",Dublin,393000.0,No,Howth,Dublin 13,q2,40%
+02/12/2011,"Rossmere, Carrickbrack, Howth",Dublin,1200000.0,No,Howth,Dublin 13,q4,100%
+08/12/2011,"141 Howth Road, Clontarf",Dublin,385000.0,No,Howth,Dublin 13,q2,40%
+08/12/2011,"380 Howth Road, Raheny",Dublin,322500.0,No,Howth,Dublin 13,q2,30%
+08/12/2011,"70 Grace O'Maley Road, Howth",Dublin,225000.0,No,Howth,Dublin 13,q1,20%
+08/12/2011,"Apartment No. 3, Harbour Road, Howth",Dublin,161233.48,Yes,Howth,Dublin 13,q1,10%
+16/12/2011,"504A Howth Road, Raheny, Dublin 5",Dublin,550000.0,No,Howth,Dublin 13,q3,60%
+03/02/2012,"7 Casana View, Howth",Dublin,480000.0,No,Howth,Dublin 13,q2,50%
+03/02/2012,"85 Balkill Park, Howth",Dublin,360000.0,No,Howth,Dublin 13,q2,40%
+16/02/2012,"104 Grace O'Malley Road, Howth",Dublin,224000.0,No,Howth,Dublin 13,q1,20%
+16/02/2012,"39 Corr Castle, Howth, County Dublin",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+20/02/2012,"640 Howth Road, Dublin",Dublin,755000.0,No,Howth,Dublin 13,q4,80%
+24/02/2012,"1 Abbey Terrace, Howth",Dublin,360000.0,No,Howth,Dublin 13,q2,40%
+09/03/2012,"Treborth East, 15 Claremont Road, Howth",Dublin,1200000.0,No,Howth,Dublin 13,q4,100%
+13/03/2012,"7 Asgard Apartments, Balscadden Road, Howth",Dublin,100000.0,No,Howth,Dublin 13,q1,10%
+14/03/2012,"Galtee Lodge, 3 Asgard Road, Howth",Dublin,535000.0,No,Howth,Dublin 13,q3,60%
+29/03/2012,"30 Main Street, Howth",Dublin,285000.0,No,Howth,Dublin 13,q1,20%
+13/04/2012,"12 Woodside, Balkill Road, Howth",Dublin,270000.0,No,Howth,Dublin 13,q1,20%
+30/04/2012,"15 Crosstrees, Main Street, Howth",Dublin,220000.0,No,Howth,Dublin 13,q1,10%
+04/05/2012,"708 Howth Road, Blackbanks",Dublin,775000.0,No,Howth,Dublin 13,q4,80%
+10/05/2012,"Knockerra, Balkhill Road, Howth",Dublin,525000.0,No,Howth,Dublin 13,q3,60%
+11/05/2012,"Dunbo Lodge, Dunbo Hill, Howth",Dublin,650000.0,No,Howth,Dublin 13,q3,70%
+14/05/2012,"19 Block B, Howth Junction Court, St. Donagh'S Road",Dublin,100000.0,Yes,Howth,Dublin 13,q1,10%
+16/05/2012,"798 Howth Road, Raheny, Dublin 5",Dublin,465000.0,No,Howth,Dublin 13,q2,50%
+18/05/2012,"Gorse Hill, Baily, Howth",Dublin,1460000.0,No,Howth,Dublin 13,q4,100%
+06/06/2012,"636 Howth Road, Raheny",Dublin,600000.0,No,Howth,Dublin 13,q3,70%
+07/06/2012,"626 Howth Road, Raheny",Dublin,480000.0,No,Howth,Dublin 13,q2,50%
+08/06/2012,"19 Howth Junction Cottages, Kilbarrack, Dublin 5",Dublin,122500.0,No,Howth,Dublin 13,q1,10%
+12/06/2012,"13 Harbour View, St. Lawrence Road, Howth",Dublin,336000.0,No,Howth,Dublin 13,q2,30%
+28/06/2012,"99 Grace O'Malley Road, Howth",Dublin,257500.0,No,Howth,Dublin 13,q1,20%
+29/06/2012,"17 Ashbrook, Howth Road, Clontarf",Dublin,290000.0,No,Howth,Dublin 13,q1,30%
+29/06/2012,"3 Venetian Hall, Howth Road, Killester",Dublin,155000.0,No,Howth,Dublin 13,q1,10%
+12/07/2012,"441 Howth Road, Raheny",Dublin,320000.0,No,Howth,Dublin 13,q2,30%
+16/07/2012,"143 Howth Road, Clontarf",Dublin,352000.0,No,Howth,Dublin 13,q2,40%
+19/07/2012,"3 Graysbrook, Main Street, Howth",Dublin,366000.0,No,Howth,Dublin 13,q2,40%
+20/07/2012,"22 St Lawrence Building, Howth",Dublin,395000.0,No,Howth,Dublin 13,q2,40%
+20/07/2012,"Apartment 17, Howth Junction Court, St Donagh'S Road",Dublin,88105.73,Yes,Howth,Dublin 13,q1,10%
+31/07/2012,"Apartment 1, 17 The Crescent, Howth Road",Dublin,120000.0,No,Howth,Dublin 13,q1,10%
+01/08/2012,"Apartment 16 Block B, Howth Junction Court, St. Donaghs Road",Dublin,89550.0,Yes,Howth,Dublin 13,q1,10%
+02/08/2012,"18 Thormanby Lodge, Howth",Dublin,570000.0,No,Howth,Dublin 13,q3,60%
+08/08/2012,"458 Howth Road, Raheny, Dublin 5",Dublin,385000.0,No,Howth,Dublin 13,q2,40%
+15/08/2012,"495 Howth Road, Raheny",Dublin,565000.0,No,Howth,Dublin 13,q3,60%
+29/08/2012,"30 Corr Castle, Howth",Dublin,260000.0,No,Howth,Dublin 13,q1,20%
+05/09/2012,"714 Howth Road, Raheny, Dublin 5",Dublin,875000.0,No,Howth,Dublin 13,q4,90%
+11/09/2012,"53 Main Street, Howth",Dublin,283000.0,No,Howth,Dublin 13,q1,20%
+18/09/2012,"'Kelburne', 128 Howth Road, Clontarf",Dublin,1550000.0,No,Howth,Dublin 13,q4,100%
+21/09/2012,"266 Howth Road, Dublin 5",Dublin,326000.0,No,Howth,Dublin 13,q2,30%
+24/09/2012,"14 Corr Castle, Howth, Co Dublin",Dublin,220000.0,No,Howth,Dublin 13,q1,10%
+05/10/2012,"Apartment 15  Block B, Howth Junction Court, St. Donagh'S Road",Dublin,79295.15,Yes,Howth,Dublin 13,q1,10%
+05/10/2012,"Apartment 5 Asgard Apartments, Balscadden Road, Howth",Dublin,200000.0,No,Howth,Dublin 13,q1,10%
+05/10/2012,"Apt 18  Block B, Howth Junction Court, St. Donaghs Road",Dublin,90000.0,Yes,Howth,Dublin 13,q1,10%
+10/10/2012,"644 Howth Road, Raheny",Dublin,660000.0,No,Howth,Dublin 13,q3,70%
+10/10/2012,"Corr Castle, 120 Howth Road, Howth",Dublin,260000.0,No,Howth,Dublin 13,q1,20%
+12/10/2012,"216 Howth Road, Killester",Dublin,302000.0,No,Howth,Dublin 13,q1,30%
+12/10/2012,"Glenvale, 36  Howth Road, Clontarf",Dublin,730000.0,No,Howth,Dublin 13,q3,80%
+16/10/2012,"1 Grace O'Malley, Drive  Howth, Dublin 13",Dublin,230000.0,No,Howth,Dublin 13,q1,20%
+17/10/2012,"Castleisland, 93 Howth Road, Howth",Dublin,710000.0,No,Howth,Dublin 13,q3,80%
+19/10/2012,"488 Howth Road, Raheny",Dublin,430000.0,No,Howth,Dublin 13,q2,50%
+19/10/2012,"7 Venetian Hall, Howth Road, Killester",Dublin,150000.0,No,Howth,Dublin 13,q1,10%
+01/11/2012,"Apt. 3 St. Laurence Quay, Harbour Road, Howth",Dublin,160000.0,No,Howth,Dublin 13,q1,10%
+05/11/2012,"642 Howth Road, Raheny, Dublin 5",Dublin,510000.0,No,Howth,Dublin 13,q3,60%
+05/11/2012,"Apartment 20  Block B, Howth Junction Court, St. Donagh'S Road",Dublin,79295.15,Yes,Howth,Dublin 13,q1,10%
+08/11/2012,"2 St Marys Place, St Marys Road, Howth",Dublin,135000.0,No,Howth,Dublin 13,q1,10%
+09/11/2012,"40 Howth Road, Clontarf, Dublin 3",Dublin,725000.0,No,Howth,Dublin 13,q3,80%
+20/11/2012,"9 Castle Court, Howth Road, Clontarf",Dublin,260000.0,No,Howth,Dublin 13,q1,20%
+26/11/2012,"179 Ashbrook, Howth, Co. Dublin",Dublin,329000.0,No,Howth,Dublin 13,q2,30%
+29/11/2012,"1 Thormanby Woods, Thormanby Road, Howth",Dublin,1000000.0,No,Howth,Dublin 13,q4,90%
+30/11/2012,"12  Thormanby Lawns, Howth, Co. Dublin",Dublin,680000.0,No,Howth,Dublin 13,q3,70%
+30/11/2012,"78 St Peter'S Terrace, Howth",Dublin,290000.0,No,Howth,Dublin 13,q1,30%
+11/12/2012,"537 Howth Road, Raheny",Dublin,655000.0,No,Howth,Dublin 13,q3,70%
+12/12/2012,"59 Grace O'Malley Road, Howth",Dublin,358000.0,No,Howth,Dublin 13,q2,40%
+12/12/2012,"The Old Lodge, Thormanby Road, Howth",Dublin,641000.0,No,Howth,Dublin 13,q3,70%
+13/12/2012,"60 St. Peters Terrace, Howth, County Dublin",Dublin,260000.0,No,Howth,Dublin 13,q1,20%
+17/12/2012,"11 Castle Court, Howth Road, Clontarf",Dublin,308300.0,No,Howth,Dublin 13,q1,30%
+18/12/2012,"2 Thormanby Grove, Howth, Co. Dublin",Dublin,334000.0,No,Howth,Dublin 13,q2,30%
+18/12/2012,"Apartment 13  Block B, Howth Junction Court, St. Donagh'S Road",Dublin,79295.15,Yes,Howth,Dublin 13,q1,10%
+19/12/2012,"53 Howth Road, Clontarf",Dublin,650000.0,No,Howth,Dublin 13,q3,70%
+20/12/2012,"30 Auburn, Howth Road, Clontarf",Dublin,349990.0,No,Howth,Dublin 13,q2,40%
+16/01/2013,"28 Grace O'Malley Rd, Howth, Co Dublin",Dublin,210000.0,No,Howth,Dublin 13,q1,10%
+25/01/2013,"48 Church Street, Howth, Co .Dublin",Dublin,130000.0,No,Howth,Dublin 13,q1,10%
+01/02/2013,"Crudden, Howth, Co Dublin",Dublin,360000.0,No,Howth,Dublin 13,q2,40%
+08/02/2013,"Apt 6  Block A, Howth Junction Court, St. Donaghs Road",Dublin,79295.0,Yes,Howth,Dublin 13,q1,10%
+12/02/2013,"Apartment 15, Howth Lodge, Howth",Dublin,320000.0,No,Howth,Dublin 13,q2,30%
+15/02/2013,"Lonethorn Carrickbrack Road, Howth",Dublin,860000.0,No,Howth,Dublin 13,q4,90%
+20/02/2013,"20 Main Street, Howth",Dublin,200000.0,No,Howth,Dublin 13,q1,10%
+22/02/2013,"Calistoga, Greys Lane, Howth",Dublin,750000.0,No,Howth,Dublin 13,q4,80%
+26/02/2013,"3 Abbey Street, Howth",Dublin,320000.0,No,Howth,Dublin 13,q2,30%
+04/03/2013,"800 Howth Road, Raheny",Dublin,560000.0,No,Howth,Dublin 13,q3,60%
+08/03/2013,"193-195, Howth Road, Clontarf",Dublin,450000.0,No,Howth,Dublin 13,q2,50%
+20/03/2013,"2 Cross Trees, Howth",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+25/03/2013,"38 Woodcliff Heights, Howth",Dublin,580000.0,No,Howth,Dublin 13,q3,60%
+26/03/2013,"94A Howth Road, Howth, Dublin",Dublin,872246.7,No,Howth,Dublin 13,q4,90%
+28/03/2013,"483  Howth Road, Raheny",Dublin,427500.0,No,Howth,Dublin 13,q2,50%
+05/04/2013,"1 Kitestown Road, Howth",Dublin,485000.0,No,Howth,Dublin 13,q2,50%
+11/04/2013,"41 Grace O' Malley Road, Howth",Dublin,210000.0,No,Howth,Dublin 13,q1,10%
+12/04/2013,"6  Emo House, Main Street, Howth",Dublin,164000.0,No,Howth,Dublin 13,q1,10%
+12/04/2013,"Apartment 12, Howth Junction Court, St Donagh'S Road",Dublin,90000.0,Yes,Howth,Dublin 13,q1,10%
+16/04/2013,"Apt No. 5, Howth Junction Court, St. Donagh'S Road",Dublin,95000.0,Yes,Howth,Dublin 13,q1,10%
+23/04/2013,"215 Howth Road, Killester",Dublin,568000.0,No,Howth,Dublin 13,q3,60%
+26/04/2013,"19 Auburn, Howth Road, Clontarf",Dublin,370000.0,No,Howth,Dublin 13,q2,40%
+29/04/2013,"19B Howth Junction Coattages, Kilbarrack, Dublin 5",Dublin,160000.0,No,Howth,Dublin 13,q1,10%
+02/05/2013,"66 Ashbrook, Howth Road, Clontarf",Dublin,550000.0,No,Howth,Dublin 13,q3,60%
+09/05/2013,"10A Howth Junction Court, St Donaghs Road",Dublin,82175.0,Yes,Howth,Dublin 13,q1,10%
+13/05/2013,"320 Howth Road, Raheny",Dublin,365000.0,No,Howth,Dublin 13,q2,40%
+13/05/2013,"Dunamase, 12A Balkhill Road, Howth",Dublin,550000.0,No,Howth,Dublin 13,q3,60%
+22/05/2013,"7 Claremont Road, Howth, Dublin",Dublin,1150000.0,No,Howth,Dublin 13,q4,100%
+23/05/2013,"27 The Pines, Howth Road, Killester",Dublin,220000.0,No,Howth,Dublin 13,q1,10%
+24/05/2013,"20 Main Street, Howth",Dublin,215000.0,No,Howth,Dublin 13,q1,10%
+24/05/2013,"Apt 57, Crescent House, Howth Rd",Dublin,275000.0,No,Howth,Dublin 13,q1,20%
+27/05/2013,"No. 9 Block A, Howth Junction Court, St. Donaghs Road",Dublin,79295.0,Yes,Howth,Dublin 13,q1,10%
+31/05/2013,"5 Church Street, Howth",Dublin,390000.0,No,Howth,Dublin 13,q2,40%
+12/06/2013,"No 2  Block A, Howth Junction Court, St Donaghs Road",Dublin,95000.0,Yes,Howth,Dublin 13,q1,10%
+21/06/2013,"23 St. Nessans, Howth, Co  Dublin",Dublin,310000.0,No,Howth,Dublin 13,q1,30%
+25/06/2013,"4 Thulla, Dunbo Hill, Howth",Dublin,414000.0,Yes,Howth,Dublin 13,q2,50%
+26/06/2013,"Apartment 11, Block A  Howth Junction, Court  St. Donagh'S Road",Dublin,95000.0,Yes,Howth,Dublin 13,q1,10%
+26/06/2013,"Apartment 7 Block A, Howth Junction Court, St.Donagh'S Road",Dublin,95000.0,Yes,Howth,Dublin 13,q1,10%
+05/07/2013,"15 Casana View, Howth",Dublin,640000.0,No,Howth,Dublin 13,q3,70%
+15/07/2013,"Devenish, Claremont Road, Howth",Dublin,710000.0,No,Howth,Dublin 13,q3,80%
+15/07/2013,"Weston, Old Carrickbrack Road, Howth",Dublin,1510000.0,No,Howth,Dublin 13,q4,100%
+19/07/2013,"8 Crosstrees, Main Street, Howth",Dublin,250000.0,No,Howth,Dublin 13,q1,20%
+19/07/2013,"Apartment 4 Block A, Howth Junction Court, St  Donagh'S Road",Dublin,83700.44,Yes,Howth,Dublin 13,q1,10%
+23/07/2013,"Silver Heights, Windgate Road, Howth",Dublin,1100000.0,No,Howth,Dublin 13,q4,90%
+29/07/2013,"36 Harbour View, Howth",Dublin,325000.0,No,Howth,Dublin 13,q2,30%
+31/07/2013,"52 Grace O'Malley Road, Howth",Dublin,217000.0,No,Howth,Dublin 13,q1,10%
+31/07/2013,"820 Howth Road, Raheny, Dublin 5",Dublin,575000.0,No,Howth,Dublin 13,q3,60%
+01/08/2013,"Apt. No. 1 Auburn, 118 Howth Road, Clontarf",Dublin,280000.0,No,Howth,Dublin 13,q1,20%
+02/08/2013,"24 The Pines, Howth Road, Killester",Dublin,252000.0,No,Howth,Dublin 13,q1,20%
+12/08/2013,"178 Howth Road, Clontarf, Dublin 3",Dublin,662000.0,No,Howth,Dublin 13,q3,70%
+13/08/2013,"8 The Villa, St. Lawrence, Howth",Dublin,280000.0,No,Howth,Dublin 13,q1,20%
+14/08/2013,"Cloonbeg, 108 Howth Road, Howth",Dublin,875000.0,No,Howth,Dublin 13,q4,90%
+20/08/2013,"Apt 16, St. Laurences Quay, Howth",Dublin,220000.0,No,Howth,Dublin 13,q1,20%
+21/08/2013,"48 Grace O'Malley Road, Howth",Dublin,228000.0,No,Howth,Dublin 13,q1,20%
+22/08/2013,"631 Howth Road, Blackbanks",Dublin,642500.0,No,Howth,Dublin 13,q3,70%
+23/08/2013,"20 Abbey Street, Howth",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+23/08/2013,"35 Harbour View, Howth",Dublin,320000.0,No,Howth,Dublin 13,q2,30%
+23/08/2013,"60 Balkill Park, Howth",Dublin,345000.0,No,Howth,Dublin 13,q2,40%
+01/09/2013,"5 Thulla, Howth",Dublin,1600000.0,No,Howth,Dublin 13,q4,100%
+09/09/2013,"45 Church Street, Howth",Dublin,313000.0,No,Howth,Dublin 13,q2,30%
+10/09/2013,"10 Crosstrees, Howth, Co. Dublin",Dublin,235000.0,No,Howth,Dublin 13,q1,20%
+10/09/2013,"56 Glaslyn, Howth Road, Clontarf",Dublin,207000.0,No,Howth,Dublin 13,q1,10%
+11/09/2013,"42 Venetian Hall, Howth Road, Dublin 5",Dublin,140000.0,No,Howth,Dublin 13,q1,10%
+11/09/2013,"60 Venetian Hall, Howth Road, Dublin 5",Dublin,140000.0,No,Howth,Dublin 13,q1,10%
+11/09/2013,"Apartment 8 Howth Junction Court, St Donaghs Road",Dublin,83700.44,Yes,Howth,Dublin 13,q1,10%
+16/09/2013,"44 Balkill Park, Howth",Dublin,395000.0,No,Howth,Dublin 13,q2,40%
+23/09/2013,"78 Howth Road, Clontarf, Dublin 3",Dublin,440000.0,No,Howth,Dublin 13,q2,50%
+27/09/2013,"2 Cannon Rock Cottages, Upper Cliff Road, Howth",Dublin,435000.0,No,Howth,Dublin 13,q2,50%
+01/10/2013,"16 Asgard Park, Howth",Dublin,1275000.0,No,Howth,Dublin 13,q4,100%
+01/10/2013,"313 Howth Road, Raheny",Dublin,434200.0,No,Howth,Dublin 13,q2,50%
+04/10/2013,"19 Thormanby Road, Howth, Co. Dublin",Dublin,520000.0,No,Howth,Dublin 13,q3,60%
+08/10/2013,"2Nd And 3Rd Floor, 1 Island View, Howth",Dublin,100000.0,No,Howth,Dublin 13,q1,10%
+10/10/2013,"50 Main Street, Howth",Dublin,250000.0,No,Howth,Dublin 13,q1,20%
+10/10/2013,"Drynan Lodge, Baily, Howth",Dublin,1000000.0,No,Howth,Dublin 13,q4,90%
+11/10/2013,"186 Howth Road, Clontarf",Dublin,605000.0,No,Howth,Dublin 13,q3,70%
+11/10/2013,"2 Thormanby Laws, Howth",Dublin,685000.0,No,Howth,Dublin 13,q3,80%
+14/10/2013,"363 Howth Road, Raheny, Dublin 5",Dublin,460000.0,No,Howth,Dublin 13,q2,50%
+16/10/2013,"5 Harbour View, Howth",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+18/10/2013,"Apt. 5  Island View, Harbour Road, Howth",Dublin,253000.0,No,Howth,Dublin 13,q1,20%
+21/10/2013,"17 Evora Park, Howth",Dublin,515000.0,No,Howth,Dublin 13,q3,60%
+21/10/2013,"57A Thormanby Road, Howth",Dublin,480000.0,No,Howth,Dublin 13,q2,50%
+22/10/2013,"1 Crosstrees, Main Street, Howth",Dublin,255000.0,No,Howth,Dublin 13,q1,20%
+22/10/2013,"4 Thormanby Woods, Howth",Dublin,665000.0,No,Howth,Dublin 13,q3,70%
+24/10/2013,"'Violet Hill', Old Carrickbrack Road, Baily  Howth",Dublin,2200000.0,No,Howth,Dublin 13,q4,100%
+25/10/2013,"Craigend, Claremont Road, Howth",Dublin,1600000.0,No,Howth,Dublin 13,q4,100%
+31/10/2013,"111D Howth Road, Clontarf",Dublin,860000.0,Yes,Howth,Dublin 13,q4,90%
+01/11/2013,"Ardfield, 647A Blackbanks, Raheny  Howth Road",Dublin,840000.0,No,Howth,Dublin 13,q4,90%
+12/11/2013,"Apartment Number 3, Block A, Howth Junction Court",Dublin,88105.72,Yes,Howth,Dublin 13,q1,10%
+13/11/2013,"4  Crosstrees Court, Main Street, Howth",Dublin,235000.0,No,Howth,Dublin 13,q1,20%
+15/11/2013,"45 Venitian Hall, Howth Road, Dublin 5",Dublin,220000.0,No,Howth,Dublin 13,q1,20%
+19/11/2013,"59 Howth Road, Clontarf, Dublin 3",Dublin,445000.0,No,Howth,Dublin 13,q2,50%
+22/11/2013,"7 St Nessans Terrace, Thormanby Road, Howth",Dublin,280000.0,No,Howth,Dublin 13,q1,20%
+22/11/2013,"House 16, 150 Howth Road, Clontarf",Dublin,600000.0,No,Howth,Dublin 13,q3,70%
+25/11/2013,"Glencar, 7 Kitestown Road, Howth",Dublin,725000.0,No,Howth,Dublin 13,q3,80%
+26/11/2013,"283 Howth Rd, Killester, Dublin 5",Dublin,530000.0,No,Howth,Dublin 13,q3,60%
+26/11/2013,"502 Howth Road, Raheny",Dublin,305000.0,No,Howth,Dublin 13,q1,30%
+27/11/2013,"Apartment 16 Berehaven Place, 694 Howth Road, Raheny",Dublin,345132.75,Yes,Howth,Dublin 13,q2,40%
+29/11/2013,"42 Venetian Hall, Howth Rd, Killester",Dublin,140000.0,No,Howth,Dublin 13,q1,10%
+29/11/2013,"6 Rookstown, Thormanby Rd, Howth",Dublin,580000.0,No,Howth,Dublin 13,q3,60%
+02/12/2013,"17 Howth View Pk, The Donahies, Dublin 13",Dublin,220000.0,No,Howth,Dublin 13,q1,20%
+03/12/2013,"64 Venetian Hall, 276 Howth Rd, Killester",Dublin,220000.0,No,Howth,Dublin 13,q1,20%
+03/12/2013,"Glenlion Lodge, Carrickbrack Rd, Howth Dublin 13",Dublin,415000.0,No,Howth,Dublin 13,q2,50%
+11/12/2013,"55 Grace O'Malley Drive, Howth, County Dublin",Dublin,330000.0,No,Howth,Dublin 13,q2,30%
+12/12/2013,"1 Thormanby Road, Howth",Dublin,565000.0,No,Howth,Dublin 13,q3,60%
+12/12/2013,"Glendarragh, Thormanby Rd, Howth",Dublin,840000.0,No,Howth,Dublin 13,q4,90%
+13/12/2013,"1 St. Mary'S Place, Howth",Dublin,132000.0,No,Howth,Dublin 13,q1,10%
+13/12/2013,"7 Campbells Court, Howth, Dublin",Dublin,120000.0,No,Howth,Dublin 13,q1,10%
+19/12/2013,"147 Howth Road, Clontarf, Dublin 3",Dublin,519500.0,No,Howth,Dublin 13,q3,60%
+19/12/2013,"27 Glaslyn, Howth Road, Clontarf",Dublin,370000.0,No,Howth,Dublin 13,q2,40%
+20/12/2013,"3 Tucketts Lane, Howth, Dublin",Dublin,475000.0,No,Howth,Dublin 13,q2,50%
+20/12/2013,"7 Hazelhatch, Thormanby Rd, Howth",Dublin,215000.0,No,Howth,Dublin 13,q1,10%
+20/12/2013,"St Marys, 5 Howth Rd, Clontarf Dublin 3",Dublin,535000.0,No,Howth,Dublin 13,q3,60%
+17/01/2014,"32 Harbour View, St Laurences Rd, Howth",Dublin,355000.0,No,Howth,Dublin 13,q2,40%
+21/01/2014,"109 Venetian Hall, Howth Road, Killester",Dublin,145000.0,No,Howth,Dublin 13,q1,10%
+29/01/2014,"Apt 4 St. Lawarances Quay, Harbour Road, Howth",Dublin,180000.0,No,Howth,Dublin 13,q1,10%
+29/01/2014,"Saoirse, Upper Cliff Road, Howth",Dublin,220000.0,No,Howth,Dublin 13,q1,20%
+31/01/2014,"778  780 And 782 Howth Road, Raheny, Dublin",Dublin,2226500.0,No,Howth,Dublin 13,q4,100%
+07/02/2014,"56 Thormanby Lawns, Howth, Dublin",Dublin,635000.0,No,Howth,Dublin 13,q3,70%
+07/02/2014,"83 St Peters Terrace, Howth",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+12/02/2014,"17 Rosevale Mansions, Howth Road, Raheny",Dublin,195000.0,No,Howth,Dublin 13,q1,10%
+12/02/2014,"19A Howth Junction, Cottages Kilbarrac, Raheny Dublin 5",Dublin,176000.0,No,Howth,Dublin 13,q1,10%
+13/02/2014,"21 Saint Lawrence Terrace, Howth, Co. Dublin",Dublin,40000.0,No,Howth,Dublin 13,q1,10%
+13/02/2014,"4 Seaview Terrace, Howth, Dublin13",Dublin,40000.0,No,Howth,Dublin 13,q1,10%
+13/02/2014,"47 Church Street, Howth, Co. Dublin",Dublin,40000.0,No,Howth,Dublin 13,q1,10%
+17/02/2014,"Orchard, 17B Claremont Rd, Howth Dublin 13",Dublin,1200000.0,No,Howth,Dublin 13,q4,100%
+19/02/2014,"611 Howth Road, Raheny, Dublin 5",Dublin,590000.0,No,Howth,Dublin 13,q3,60%
+21/02/2014,"23 St Lawrence, Harbour Rd, Howth Dublin 13",Dublin,425000.0,No,Howth,Dublin 13,q2,50%
+21/02/2014,"750 Howth Rd, Blackbanks, Dublin 5",Dublin,720000.0,No,Howth,Dublin 13,q3,80%
+24/02/2014,"1 Balkhill Grove, Howth, County Dublin",Dublin,247000.0,No,Howth,Dublin 13,q1,20%
+12/03/2014,"2 Dunbo Terrace, Howth, Dublin 13",Dublin,145000.0,No,Howth,Dublin 13,q1,10%
+12/03/2014,"4 Venetian Hall, Howth Rd, Killester Dublin 3",Dublin,205000.0,No,Howth,Dublin 13,q1,10%
+14/03/2014,"20 Seaview Terrace, Howth, Dublin",Dublin,385000.0,No,Howth,Dublin 13,q2,40%
+14/03/2014,"Ryehill, Carrickbrack Rd, Howth",Dublin,805000.0,No,Howth,Dublin 13,q4,90%
+25/03/2014,"91 St Peters Terrace, Howth, Co Dublin",Dublin,370000.0,No,Howth,Dublin 13,q2,40%
+28/03/2014,"3 Windgate Road, Howth, Dublin 13",Dublin,475000.0,No,Howth,Dublin 13,q2,50%
+02/04/2014,"15 Woodside, Balkill, Howth",Dublin,380000.0,No,Howth,Dublin 13,q2,40%
+04/04/2014,"20 Howth Lodge, Howth Rd, Howth Dublin 13",Dublin,495000.0,No,Howth,Dublin 13,q2,50%
+16/04/2014,"65 Venetian Hall, Howth Road, Killester",Dublin,230000.0,No,Howth,Dublin 13,q1,20%
+23/04/2014,"32 Castlecourt, Howth Rd, Clontarf Dublin 3",Dublin,355000.0,No,Howth,Dublin 13,q2,40%
+23/04/2014,"Rosbeg, Windgate Rd, Baily Howth",Dublin,1020000.0,No,Howth,Dublin 13,q4,90%
+24/04/2014,"21A Claremont Road, Howth, Dublin 23",Dublin,1230000.0,No,Howth,Dublin 13,q4,100%
+30/04/2014,"2 Asgard Park, Howth, Coolock",Dublin,755000.0,No,Howth,Dublin 13,q4,80%
+30/04/2014,"Heath House, Thormanby Rd, Howth",Dublin,1600000.0,No,Howth,Dublin 13,q4,100%
+01/05/2014,"69 Howth Rd, Clontarf, Dublin 3",Dublin,965000.0,No,Howth,Dublin 13,q4,90%
+09/05/2014,"11 Howth Lodge, Howth",Dublin,450000.0,No,Howth,Dublin 13,q2,50%
+14/05/2014,"60 Corr Castle, Howth Rd, Dublin 13",Dublin,360000.0,No,Howth,Dublin 13,q2,40%
+29/05/2014,"11 Berehaven Place, 694 Howth Road, Raheny",Dublin,264317.0,Yes,Howth,Dublin 13,q1,20%
+30/05/2014,"2 Dunbo Hill, Howth, Dublin",Dublin,250000.0,No,Howth,Dublin 13,q1,20%
+30/05/2014,"Apt 3, Renaissance House, Church Street  Howth",Dublin,180000.0,No,Howth,Dublin 13,q1,10%
+06/06/2014,"Apartment 82, 150 Howth Road, Dublin 3",Dublin,495000.0,No,Howth,Dublin 13,q2,50%
+16/06/2014,"5 Thormanby Woods, Howth, Dublin 13",Dublin,637500.0,No,Howth,Dublin 13,q3,70%
+19/06/2014,"285 Howth Rd, Killester, Dublin 5",Dublin,630000.0,No,Howth,Dublin 13,q3,70%
+20/06/2014,"597 Howth Rd, Blackbanks, Dublin 5",Dublin,960000.0,No,Howth,Dublin 13,q4,90%
+27/06/2014,"51 Grace Omalley Rd, Howth, Dublin",Dublin,320000.0,No,Howth,Dublin 13,q2,30%
+27/06/2014,"84 St Peters Terrace, Howth, Co Dublin",Dublin,220000.0,No,Howth,Dublin 13,q1,20%
+07/07/2014,"3 Harbour View, Howth, Dublin 13",Dublin,355000.0,No,Howth,Dublin 13,q2,40%
+17/07/2014,"Bun Abhann, Asgard Rd, Howth",Dublin,675000.0,No,Howth,Dublin 13,q3,70%
+25/07/2014,"38 Harbour View, Howth, Dublin",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+01/08/2014,"75 Grace Omalley Rd, Howth, Dublin 13",Dublin,390000.0,No,Howth,Dublin 13,q2,40%
+07/08/2014,"19 Asgard Apts, Balscadden Rd, Howth Dublin 13",Dublin,225000.0,No,Howth,Dublin 13,q1,20%
+11/08/2014,"Evor Loder 83 Howth Rd, Howth, Dublin",Dublin,365000.0,No,Howth,Dublin 13,q2,40%
+28/08/2014,"46 Main St, Howth, Dublin",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+29/08/2014,"7 Crosstrees, Main St, Howth Dublin 13",Dublin,340000.0,No,Howth,Dublin 13,q2,30%
+03/09/2014,"Haddon Lodge, Thormanby Rd, Howth",Dublin,780000.0,No,Howth,Dublin 13,q4,80%
+04/09/2014,"Apt 15 Block B, Howth Junction Court, St Donaghs Rd",Dublin,153500.0,No,Howth,Dublin 13,q1,10%
+04/09/2014,"Apt 82, 150 Howth Road, Clontarf",Dublin,495000.0,No,Howth,Dublin 13,q2,50%
+05/09/2014,"37 Howth Lodge, Howth, Dublin",Dublin,510000.0,No,Howth,Dublin 13,q3,60%
+05/09/2014,"Westward, Thormanby Road, Howth",Dublin,250000.0,No,Howth,Dublin 13,q1,20%
+10/09/2014,"610 Howth Rd, Raheny, Dublin 5",Dublin,615000.0,No,Howth,Dublin 13,q3,70%
+10/09/2014,"Locksley, Windgate Road, Howth",Dublin,990000.0,No,Howth,Dublin 13,q4,90%
+12/09/2014,"1 Findlater, St Lawrence Apartments, Harbour Road Howth",Dublin,220000.0,No,Howth,Dublin 13,q1,20%
+12/09/2014,"261 Howth Road, Killester",Dublin,655000.0,No,Howth,Dublin 13,q3,70%
+12/09/2014,"Apt 5 The Villa, Findlater St Lawrence, Howth",Dublin,397000.0,No,Howth,Dublin 13,q2,40%
+12/09/2014,"Oakwood, Balkill Rd, Howth",Dublin,1300000.0,No,Howth,Dublin 13,q4,100%
+16/09/2014,"Ferns 31 Carrickbrack Rd, Baily Howth, Dublin 13",Dublin,770000.0,No,Howth,Dublin 13,q4,80%
+16/09/2014,"Ferns 31 Carrickbrack Rd, Baily Howth, Dublin 13",Dublin,10000.0,No,Howth,Dublin 13,q1,10%
+22/09/2014,"391 Howth Rd, Raheny, Dublin 5",Dublin,560000.0,No,Howth,Dublin 13,q3,60%
+23/09/2014,"19 Church Street, Howth, Co: Dublin",Dublin,445000.0,No,Howth,Dublin 13,q2,50%
+26/09/2014,"264 Howth Road, Killester, Dublin 5",Dublin,480000.0,No,Howth,Dublin 13,q2,50%
+26/09/2014,"577 Howth Rd, Raheny, Dublin 5",Dublin,600000.0,No,Howth,Dublin 13,q3,70%
+02/10/2014,"Bloomfield, 29 Howth Rd, Clontarf",Dublin,780000.0,No,Howth,Dublin 13,q4,80%
+03/10/2014,"Coolatee, Thormanby Road, Howth",Dublin,700000.0,No,Howth,Dublin 13,q3,80%
+03/10/2014,"Robin Hill, Thormanby Rd, Howth Dublin 13",Dublin,680000.0,No,Howth,Dublin 13,q3,70%
+06/10/2014,"111A Howth Road, Clontarf, Dublin 3",Dublin,859031.0,No,Howth,Dublin 13,q4,90%
+08/10/2014,"248 Howth Road, Killester, D 5",Dublin,520000.0,No,Howth,Dublin 13,q3,60%
+10/10/2014,"20 Casana View, Howth, Dublin",Dublin,700000.0,No,Howth,Dublin 13,q3,80%
+10/10/2014,"27 Rosevale Mansions, Howth Rd, Raheny",Dublin,200000.0,No,Howth,Dublin 13,q1,10%
+13/10/2014,"155 Howth Rd, Clontarf, Dublin 9",Dublin,1187500.0,No,Howth,Dublin 13,q4,100%
+17/10/2014,"36 Grace O'Malley Road, Howth, Dublin",Dublin,356000.0,No,Howth,Dublin 13,q2,40%
+17/10/2014,"728 Howth Road, Raheny, Dublin",Dublin,1400000.0,No,Howth,Dublin 13,q4,100%
+23/10/2014,"Greyswood, Grey'S Lane, Howth",Dublin,740000.0,No,Howth,Dublin 13,q4,80%
+24/10/2014,"349 Howth Rd, Raheny, Dublin 5",Dublin,365000.0,No,Howth,Dublin 13,q2,40%
+24/10/2014,"Tuckett Lodge, Tuckett'S Lane, Howth",Dublin,585903.0,Yes,Howth,Dublin 13,q3,60%
+31/10/2014,"Carrick, Bailey, Howth",Dublin,2050000.0,No,Howth,Dublin 13,q4,100%
+03/11/2014,"15B Bayhill, Howth, Bayhill",Dublin,360000.0,No,Howth,Dublin 13,q2,40%
+04/11/2014,"34A Main Street, Howth",Dublin,312000.0,No,Howth,Dublin 13,q2,30%
+10/11/2014,"28 Thormanby Lawns, Howth, Dublin",Dublin,685000.0,No,Howth,Dublin 13,q3,80%
+14/11/2014,"Crossgarvey, Balkill Rd, Howth Dublin 13",Dublin,900000.0,No,Howth,Dublin 13,q4,90%
+17/11/2014,"Apartment No. 77, Block 4  Corr Castle, Howth Road  Sutton",Dublin,775000.0,No,Howth,Dublin 13,q4,80%
+25/11/2014,"67 Glaslyn, Howth Rd, Dublin",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+26/11/2014,"228 Howth Road, Killester, Dublin 3",Dublin,500000.0,No,Howth,Dublin 13,q3,60%
+28/11/2014,"66 Howth Rd, Clontarf, Dublin 3",Dublin,670000.0,No,Howth,Dublin 13,q3,70%
+28/11/2014,"Apt 3 Island View, Howth, Island View",Dublin,270000.0,No,Howth,Dublin 13,q1,20%
+01/12/2014,"52 St. Peter'S Terrace, Howth, Co. Dublin",Dublin,190000.0,No,Howth,Dublin 13,q1,10%
+01/12/2014,"Apartment 6, The Findlater Building, Harbour Road  Howth",Dublin,350000.0,No,Howth,Dublin 13,q2,40%
+05/12/2014,"33 Howth Lodge, Howth Rd, Howth",Dublin,500000.0,No,Howth,Dublin 13,q3,60%
+08/12/2014,"30 Thormanby Lawns, Howth, Dublin",Dublin,680000.0,No,Howth,Dublin 13,q3,70%
+10/12/2014,"Dumela, Balkill Rd, Howth",Dublin,885000.0,No,Howth,Dublin 13,q4,90%
+15/12/2014,"129 Venetian Hall, Howth Rd, Killester Dublin 5",Dublin,210000.0,No,Howth,Dublin 13,q1,10%
+18/12/2014,"85 Howth Road, Clontarf",Dublin,472000.0,No,Howth,Dublin 13,q2,50%
+19/12/2014,"12 Church St, Howth, Dublin 13",Dublin,160000.0,No,Howth,Dublin 13,q1,10%
+19/12/2014,"91 Venetian Hall, Howth Rd, Dublin 5",Dublin,164000.0,No,Howth,Dublin 13,q1,10%
+19/12/2014,"Apt 57  69  74  77  78  96 Glaslynn, Howth Road, Clontarf",Dublin,1300000.0,No,Howth,Dublin 13,q4,100%
+22/12/2014,"79 Corrcastle, Sutton, Howth Rd Dublin 13",Dublin,244000.0,No,Howth,Dublin 13,q1,20%
+23/12/2014,"Apt 8 Island View, Howth, Island View",Dublin,220000.0,No,Howth,Dublin 13,q1,20%
+07/01/2015,"5 Thulla, Dunbo Hill, Howth",Dublin,890000.0,No,Howth,Dublin 13,q4,90%
+15/01/2015,"Apt 18 Auburn, Howth Rd Clontarf, Dublin 3",Dublin,375000.0,No,Howth,Dublin 13,q2,40%
+22/01/2015,"Apt 30 Ventian Hall, Howth Rd, Killester",Dublin,240000.0,No,Howth,Dublin 13,q1,20%
+29/01/2015,"Tanglewood, Grey'S Lane, Howth",Dublin,720000.0,No,Howth,Dublin 13,q3,80%
+30/01/2015,"329 Howth Rd, Raheny, Dublin 5",Dublin,515000.0,No,Howth,Dublin 13,q3,60%
+04/02/2015,"16 Cross Trees, Howth",Dublin,350000.0,No,Howth,Dublin 13,q2,40%
+04/02/2015,"2 Dunbo Terrace, Howth, Dublin 13",Dublin,280000.0,No,Howth,Dublin 13,q1,20%
+06/02/2015,"2 Charlemont Mews, Howth Road, Clontarf",Dublin,449339.2,Yes,Howth,Dublin 13,q2,50%
+06/02/2015,"Apartment 1, 97D Harbour Road, Howth",Dublin,185000.0,No,Howth,Dublin 13,q1,10%
+06/02/2015,"Apartment 2, 79D Harbour Road, Howth",Dublin,130000.0,No,Howth,Dublin 13,q1,10%
+06/02/2015,"Apartment 3, 97D Harhour Road, Howth",Dublin,185000.0,No,Howth,Dublin 13,q1,10%
+06/02/2015,"Apartment 4, 97D Harbour Road, Howth",Dublin,130000.0,No,Howth,Dublin 13,q1,10%
+16/02/2015,"524A Howth Road, Raheny, Dublin 5",Dublin,500000.0,No,Howth,Dublin 13,q3,60%
+27/02/2015,"6 Asgard Rd, Howth, Dublin 13",Dublin,750000.0,No,Howth,Dublin 13,q4,80%
+27/02/2015,"70 Howth Rd, Clontarf, Dublin 3",Dublin,865000.0,No,Howth,Dublin 13,q4,90%
+03/03/2015,"6 Forge Court, Main St, Howth",Dublin,317000.0,No,Howth,Dublin 13,q2,30%
+12/03/2015,"218 Howth Rd, Killester, Dublin 3",Dublin,493000.0,No,Howth,Dublin 13,q2,50%
+13/03/2015,"Arcadia, Baily Green Road, Howth",Dublin,775000.0,No,Howth,Dublin 13,q4,80%
+14/03/2015,"44A Grace Omalley Dr, Howth, Dublin 13",Dublin,350000.0,No,Howth,Dublin 13,q2,40%
+18/03/2015,"11 Thormanby Lawns, Howth, Dublin",Dublin,710000.0,No,Howth,Dublin 13,q3,80%
+18/03/2015,"13 Casana View, Howth, Dublin 13",Dublin,660000.0,No,Howth,Dublin 13,q3,70%
+19/03/2015,"Apt 1 Glenbrian Hall, 98 Howth Rd, Clontarf",Dublin,340500.0,No,Howth,Dublin 13,q2,30%
+30/03/2015,"Rear 74 St Peters Terrace, Howth, Dublin",Dublin,327000.0,No,Howth,Dublin 13,q2,30%
+17/04/2015,"Apt 13 Glaslynn, Howth Road, Clontarf",Dublin,336000.0,No,Howth,Dublin 13,q2,30%
+24/04/2015,"15 Berehaven Place, Howth Rd, Raheny Dublin 5",Dublin,385000.0,No,Howth,Dublin 13,q2,40%
+27/04/2015,"75 Venetian Hall, Howth Rd, Dublin 5",Dublin,238000.0,No,Howth,Dublin 13,q1,20%
+22/05/2015,"641 Howth Rd, Dublin 5, Dublin",Dublin,470000.0,No,Howth,Dublin 13,q2,50%
+02/06/2015,"4 Campbells Court, Main St, Howth Dublin 13",Dublin,425000.0,No,Howth,Dublin 13,q2,50%
+05/06/2015,"10 Church St, Howth, Dublin 13",Dublin,375000.0,No,Howth,Dublin 13,q2,40%
+12/06/2015,"33 Castlecourt, Howth Rd, Clontarf Dublin 3",Dublin,396000.0,No,Howth,Dublin 13,q2,40%
+15/06/2015,"11 The Villa Building, Harbour Rd, Howth",Dublin,380000.0,No,Howth,Dublin 13,q2,40%
+16/06/2015,"31 Venetian Hall, Howth Rd, Killester Dublin 5",Dublin,275000.0,No,Howth,Dublin 13,q1,20%
+20/06/2015,"Apt 15 Findlater, St. Lawrence, Howth",Dublin,255000.0,No,Howth,Dublin 13,q1,20%
+24/06/2015,"Apt 22 St Lawrence Building, Harbour Road, Howth",Dublin,475000.0,No,Howth,Dublin 13,q2,50%
+26/06/2015,"Harbour View House, Harbour Rd, Howth",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+02/07/2015,"39 St Nessans Terrace, Howth",Dublin,431000.0,No,Howth,Dublin 13,q2,50%
+13/07/2015,"Oonavarra, 784 Howth Road",Dublin,1250000.0,No,Howth,Dublin 13,q4,100%
+23/07/2015,"147A Howth Road, Clontarf, Dublin 3",Dublin,814978.0,Yes,Howth,Dublin 13,q4,90%
+29/07/2015,"111B Howth Road, Clontarf, Dublin 3",Dublin,969163.0,Yes,Howth,Dublin 13,q4,90%
+29/07/2015,"20 Rosevale, Howth Rd, Dublin 5",Dublin,215000.0,No,Howth,Dublin 13,q1,10%
+29/07/2015,"55 Thormanby Lawns, Howth, Dublin",Dublin,387500.0,No,Howth,Dublin 13,q2,40%
+30/07/2015,"21 Howth Lodge, Howth Road, Howth",Dublin,675000.0,No,Howth,Dublin 13,q3,70%
+07/08/2015,"8 Seaview Tce, Howth, Dublin",Dublin,295000.0,No,Howth,Dublin 13,q1,30%
+11/08/2015,"Rookstown Lodge, Thormanby Rd, Howth",Dublin,1225000.0,No,Howth,Dublin 13,q4,100%
+21/08/2015,"6 The Findlater, St Lawrence Apts, Howth",Dublin,270000.0,No,Howth,Dublin 13,q1,20%
+25/08/2015,"197 Howth Rd, Clontarf, Dublin 3",Dublin,550000.0,No,Howth,Dublin 13,q3,60%
+25/08/2015,"93 Venetian Hall, Howth Rd, Killester",Dublin,180000.0,No,Howth,Dublin 13,q1,10%
+31/08/2015,"149 Howth Rd, Clontarf, Dublin 3",Dublin,995000.0,No,Howth,Dublin 13,q4,90%
+31/08/2015,"547 Howth Rd, Raheny, Dublin 5",Dublin,610000.0,No,Howth,Dublin 13,q3,70%
+31/08/2015,"Goretti, New Road, Howth Summit",Dublin,740000.0,No,Howth,Dublin 13,q4,80%
+01/09/2015,"527 Howth Rd, Raheny, Dublin",Dublin,525000.0,No,Howth,Dublin 13,q3,60%
+03/09/2015,"80 Howth Rd, Clontarf, Dublin 3",Dublin,610000.0,No,Howth,Dublin 13,q3,70%
+04/09/2015,"6 Casana View, Howth, Dublin",Dublin,725000.0,No,Howth,Dublin 13,q3,80%
+07/09/2015,"Ashgrove, 555A Howth Road, Raheny",Dublin,440000.0,No,Howth,Dublin 13,q2,50%
+11/09/2015,"Montrose, Asgard Road, Howth",Dublin,1500000.0,No,Howth,Dublin 13,q4,100%
+15/09/2015,"294 Howth Road, Killester, Dublin 5",Dublin,635000.0,No,Howth,Dublin 13,q3,70%
+16/09/2015,"213 Howth Rd, Killester, Dublin 5",Dublin,415000.0,No,Howth,Dublin 13,q2,50%
+16/09/2015,"9 The Findlater, Harbour Road, Howth  Howth",Dublin,220000.0,No,Howth,Dublin 13,q1,20%
+16/09/2015,"San Jose, Thormanby Rd, Howth",Dublin,900000.0,No,Howth,Dublin 13,q4,90%
+23/09/2015,"34 Crescent House, Howth Rd, Clontarf Dublin 3",Dublin,90000.0,No,Howth,Dublin 13,q1,10%
+29/09/2015,"12 Asgard Apts, Balscadden Rd, Howth",Dublin,225000.0,No,Howth,Dublin 13,q1,20%
+29/09/2015,"7 Church Street, Howth, Co. Dublin",Dublin,408000.0,No,Howth,Dublin 13,q2,50%
+02/10/2015,"46 Grace Omalley Rd, Howth, Dublin",Dublin,380000.0,No,Howth,Dublin 13,q2,40%
+07/10/2015,"Maoillrea, Dungriffin Rd, Howth Dublin 13",Dublin,760000.0,No,Howth,Dublin 13,q4,80%
+09/10/2015,"Rear 75 St Peters Terrace, Howth, Dublin",Dublin,310000.0,No,Howth,Dublin 13,q1,30%
+13/10/2015,"Site 3 Thormanby Hill, Thormanby Road, Howth",Dublin,1246696.03,Yes,Howth,Dublin 13,q4,100%
+27/10/2015,"70 Ashbrook, Howth Rd, Clontarf Dublin 3",Dublin,410000.0,No,Howth,Dublin 13,q2,50%
+30/10/2015,"Apartment 2, Findlater, Howth",Dublin,220000.0,No,Howth,Dublin 13,q1,20%
+12/11/2015,"61 Glaslyn, Howth Rd, Dublin",Dublin,280000.0,No,Howth,Dublin 13,q1,20%
+17/11/2015,"28 Woodcliff Heights, Howth",Dublin,720000.0,No,Howth,Dublin 13,q3,80%
+26/11/2015,"Tir Na Nog, 138 Howth Road",Dublin,850000.0,No,Howth,Dublin 13,q4,90%
+01/12/2015,"No. 1 Thormanby Hill, Thormanby Road, Howth",Dublin,1234361.22,Yes,Howth,Dublin 13,q4,100%
+03/12/2015,"12 Church St, Howth, Dublin 13",Dublin,475000.0,No,Howth,Dublin 13,q2,50%
+04/12/2015,"16 Thormanby Hill, Thormanby Road, Howth",Dublin,1233480.17,Yes,Howth,Dublin 13,q4,100%
+04/12/2015,"26 Howth Lodge, Howth Rd, Howth",Dublin,1130000.0,No,Howth,Dublin 13,q4,100%
+09/12/2015,"13 Asgard Apts, Balscadden Rd, Howth",Dublin,270000.0,No,Howth,Dublin 13,q1,20%
+10/12/2015,"512 Howth Rd, Dublin 5, Dublin",Dublin,450000.0,No,Howth,Dublin 13,q2,50%
+11/12/2015,"104A Howth Road, Clontarf",Dublin,1127753.0,Yes,Howth,Dublin 13,q4,90%
+11/12/2015,"502 Howth Road, Raheny, Dublin 5",Dublin,580000.0,No,Howth,Dublin 13,q3,60%
+15/12/2015,"104B Howth Road, Clontarf, Dublin 3",Dublin,1145374.45,Yes,Howth,Dublin 13,q4,100%
+17/12/2015,"9 Berehaven Place, 694 Howth Road, Raheny",Dublin,299560.0,Yes,Howth,Dublin 13,q1,30%
+18/12/2015,"1 Evora Garden, Dunbo Hill, Howth",Dublin,704845.0,Yes,Howth,Dublin 13,q3,80%
+18/12/2015,"716 Howth Rd, Blackbanks, Raheny",Dublin,1010000.0,No,Howth,Dublin 13,q4,90%
+19/12/2015,"2 Thormanby Hill, Howth",Dublin,1189427.0,Yes,Howth,Dublin 13,q4,100%
+21/12/2015,"31 St Nessans Tce, Howth, Dublin",Dublin,330000.0,No,Howth,Dublin 13,q2,30%
+23/12/2015,"84A Balkill Park, Howth, Co Dublin",Dublin,382500.0,No,Howth,Dublin 13,q2,40%
+13/01/2016,"78 Balkill Park, Howth, Dublin 13",Dublin,447500.0,No,Howth,Dublin 13,q2,50%
+19/01/2016,"Lioscarraig, Windgate Rd, Howth",Dublin,1700000.0,No,Howth,Dublin 13,q4,100%
+22/01/2016,"1 Foxs Lane, Howth Rd, Raheny Dublin 5",Dublin,671000.0,No,Howth,Dublin 13,q3,70%
+22/01/2016,"6 Campbells Court, 33 Main St, Howth",Dublin,332500.0,No,Howth,Dublin 13,q2,30%
+26/01/2016,"115 Howth Rd, Howth, Dublin 13",Dublin,800000.0,No,Howth,Dublin 13,q4,90%
+27/01/2016,"60 Venetian Hall, Howth Rd, Killester",Dublin,270000.0,No,Howth,Dublin 13,q1,20%
+27/01/2016,"Limara, Thormanby Rd, Howth",Dublin,687000.0,No,Howth,Dublin 13,q3,80%
+29/01/2016,"119 Howth Road, Clontarf, Dublin",Dublin,1750000.0,No,Howth,Dublin 13,q4,100%
+29/01/2016,"3 Forge Court, Main St, Howth",Dublin,165000.0,No,Howth,Dublin 13,q1,10%
+29/01/2016,"75 St Peters Terrace, Howth, Dublin",Dublin,310000.0,No,Howth,Dublin 13,q1,30%
+03/02/2016,"3 2 Boyd House, Harbour Rd, Howth",Dublin,499000.0,No,Howth,Dublin 13,q2,50%
+05/02/2016,"51 St. Peter'S Terrace, Howth, Dublin",Dublin,411000.0,No,Howth,Dublin 13,q2,50%
+11/02/2016,"14 Asgard Road, Howth, Co Dublin",Dublin,725000.0,No,Howth,Dublin 13,q3,80%
+17/02/2016,"19 Berehaven Place, Howth Rd, Raheny Dublin 5",Dublin,505000.0,No,Howth,Dublin 13,q3,60%
+24/02/2016,"31 Evora Park, Howth, Dublin 13",Dublin,530000.0,No,Howth,Dublin 13,q3,60%
+04/03/2016,"12 Asgard Road, Howth, Co Dublin",Dublin,710000.0,No,Howth,Dublin 13,q3,80%
+04/03/2016,"4 Thornaby Grove, Main St, Howth",Dublin,255000.0,No,Howth,Dublin 13,q1,20%
+07/03/2016,"18 Crosstrees, Main Street, Howth",Dublin,350000.0,No,Howth,Dublin 13,q2,40%
+16/03/2016,"39 Howth Rd, Clontarf, Dublin",Dublin,650000.0,No,Howth,Dublin 13,q3,70%
+30/03/2016,"Apt 21 Block B, Howth Junction Court, St Donaghs Park",Dublin,200000.0,No,Howth,Dublin 13,q1,10%
+31/03/2016,"14C Abbey St, Howth, Dublin",Dublin,525000.0,No,Howth,Dublin 13,q3,60%
+06/04/2016,"Guretti, Howth Summit, New Rd",Dublin,710000.0,No,Howth,Dublin 13,q3,80%
+12/04/2016,"4B Kitestown Road, Howth, Co Dublin",Dublin,1620000.0,No,Howth,Dublin 13,q4,100%
+13/04/2016,"7 Marine Villas, Howth, Co Dublin",Dublin,260000.0,No,Howth,Dublin 13,q1,20%
+22/04/2016,"7 Howth Lodge, Howth Rd, Howth",Dublin,550000.0,No,Howth,Dublin 13,q3,60%
+28/04/2016,"50 Glaslyn, Howth Rd, Clontarf Dublin 3",Dublin,342000.0,No,Howth,Dublin 13,q2,30%
+29/04/2016,"15 Thormanby Hill, Thormanby Road, Howth",Dublin,1283185.83,Yes,Howth,Dublin 13,q4,100%
+05/05/2016,"Ardmore, 654 Howth Rd, Raheny Dublin 5",Dublin,695000.0,No,Howth,Dublin 13,q3,80%
+10/05/2016,"Apartment 1, 4 Main Street, Howth",Dublin,200000.0,No,Howth,Dublin 13,q1,10%
+13/05/2016,"5 Thormanby Hill, Thomanby Hill, Howth",Dublin,1246696.0,Yes,Howth,Dublin 13,q4,100%
+14/05/2016,"Apt 14, Rosevale Mansions, Howth Rd Dublin 5",Dublin,100000.0,No,Howth,Dublin 13,q1,10%
+20/05/2016,"31 Rosevale Apts Private, Howth Rd, Dublin 5",Dublin,225000.0,No,Howth,Dublin 13,q1,20%
+31/05/2016,"389 Howth Rd, Raheny, Dublin 5",Dublin,625000.0,No,Howth,Dublin 13,q3,70%
+03/06/2016,"3 Dunbo West, Howth",Dublin,969163.0,Yes,Howth,Dublin 13,q4,90%
+16/06/2016,"46 Church Street, Howth, Co Dublin",Dublin,340000.0,No,Howth,Dublin 13,q2,30%
+20/06/2016,"1 Howth Terrace, Howth, Dublin",Dublin,130000.0,No,Howth,Dublin 13,q1,10%
+20/06/2016,"2 Howth Terrace, Howth, Co. Dublin",Dublin,205000.0,No,Howth,Dublin 13,q1,10%
+20/06/2016,"Gable Cottage, 43 Main St, Howth Dublin 13",Dublin,330000.0,No,Howth,Dublin 13,q2,30%
+23/06/2016,"175 Ashbrook Howth Rd, Dublin 3, Dublin",Dublin,610000.0,No,Howth,Dublin 13,q3,70%
+23/06/2016,"5 Marine Villas, Howth, Co Dublin",Dublin,240000.0,No,Howth,Dublin 13,q1,20%
+24/06/2016,"33 Howth View Park, Donaghamede, Dublin City",Dublin,255000.0,No,Howth,Dublin 13,q1,20%
+24/06/2016,"51 Howth Lodge, Howth Rd, Howth Dublin 13",Dublin,635000.0,No,Howth,Dublin 13,q3,70%
+27/06/2016,"4 Howth Terrace, Howth, Dublin 13",Dublin,425000.0,No,Howth,Dublin 13,q2,50%
+01/07/2016,"Apt 2, 308 Howth Rd, Killester Dublin 5",Dublin,295000.0,No,Howth,Dublin 13,q1,30%
+06/07/2016,"4 Thormanby Hill, Howth, Co. Dublin",Dublin,1223975.0,Yes,Howth,Dublin 13,q4,100%
+07/07/2016,"20 Berehaven Place, Howth Rd, Raheny Dublin 5",Dublin,431718.0,Yes,Howth,Dublin 13,q2,50%
+11/07/2016,"3 The Meadows, Howth Rd, Raheny Dublin 5",Dublin,600000.0,No,Howth,Dublin 13,q3,70%
+11/07/2016,"Apt 8 Auburn, 118 Howth Road, Dublin 3",Dublin,405000.0,No,Howth,Dublin 13,q2,50%
+12/07/2016,"Aryton, 634 Howth Rd, Raheny Dublin 5",Dublin,642500.0,No,Howth,Dublin 13,q3,70%
+15/07/2016,"9 Thormanby Rd, Howth, Dublin",Dublin,335000.0,No,Howth,Dublin 13,q2,30%
+22/07/2016,"539 Howth Rd, Raheny, Dublin 5",Dublin,660000.0,No,Howth,Dublin 13,q3,70%
+26/07/2016,"822 Howth Road, Raheny, Dublin 5",Dublin,741421.15,Yes,Howth,Dublin 13,q4,80%
+28/07/2016,"71 Grace Omalley Rd, Howth, Dublin 13",Dublin,370000.0,No,Howth,Dublin 13,q2,40%
+29/07/2016,"19 Woodcliff Heights, Howth, Dublin",Dublin,600000.0,No,Howth,Dublin 13,q3,70%
+29/07/2016,"86 Glaslyn, Howth Rd, Dublin",Dublin,313000.0,No,Howth,Dublin 13,q2,30%
+29/07/2016,"Glenlion Bungalow, Thormanby Rd, Howth",Dublin,1000000.0,No,Howth,Dublin 13,q4,90%
+02/08/2016,"1 Hazelhatch, Howth, Dublin",Dublin,714000.0,No,Howth,Dublin 13,q3,80%
+10/08/2016,"10 Howth Lodge, Howth Rd, Howth Dublin 13",Dublin,620000.0,No,Howth,Dublin 13,q3,70%
+10/08/2016,"8 Church St, Howth, Dublin",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+12/08/2016,"11 Rosevale Apt, Howth Rd, Raheny Dublin 5",Dublin,229000.0,No,Howth,Dublin 13,q1,20%
+12/08/2016,"89 Howth Road, Dublin 3",Dublin,387000.0,No,Howth,Dublin 13,q2,40%
+12/08/2016,"Dunbride, Nashville Park, Howth",Dublin,1350000.0,No,Howth,Dublin 13,q4,100%
+18/08/2016,"20 Thormanby Hill, Thormanby Road, Howth",Dublin,1343700.0,Yes,Howth,Dublin 13,q4,100%
+19/08/2016,"163 Howth Rd, Clontarf, Dublin 3",Dublin,1715000.0,No,Howth,Dublin 13,q4,100%
+25/08/2016,"127 Howth Rd, Clontarf, Dublin 3",Dublin,740000.0,No,Howth,Dublin 13,q4,80%
+12/09/2016,"Apt 29, Corrcastle, Howth Rd Dublin 13",Dublin,510000.0,No,Howth,Dublin 13,q3,60%
+15/09/2016,"243 Howth Rd, Killester Dublin 5, Dublin 5",Dublin,740000.0,No,Howth,Dublin 13,q4,80%
+16/09/2016,"1 Thornmanby Road, Howth, Dublin 13",Dublin,425000.0,No,Howth,Dublin 13,q2,50%
+20/09/2016,"145A Howth Rd, Clontarf, Dublin 3",Dublin,745000.0,No,Howth,Dublin 13,q4,80%
+23/09/2016,"27 Main St, Howth, Co Dublin",Dublin,480500.0,No,Howth,Dublin 13,q2,50%
+23/09/2016,"592 Howth Road, Raheny, Dublin 5",Dublin,680000.0,No,Howth,Dublin 13,q3,70%
+28/09/2016,"2 Dunbo West, Howth",Dublin,569105.69,Yes,Howth,Dublin 13,q3,60%
+30/09/2016,"Apt 9, Marine Villas, Howth Rd",Dublin,250000.0,No,Howth,Dublin 13,q1,20%
+06/10/2016,"824 Howth Road, Raheny, Dublin 5",Dublin,823788.54,Yes,Howth,Dublin 13,q4,90%
+07/10/2016,"5 Balkill Park, Howth, Fingal",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+07/10/2016,"87 Glaslyn, Howth Rd, Dublin",Dublin,310000.0,No,Howth,Dublin 13,q1,30%
+13/10/2016,"42 Venetian Hall, Howth Rd, Killester",Dublin,290000.0,No,Howth,Dublin 13,q1,30%
+18/10/2016,"Apt 78, Venetian Hall, Howth Rd Dublin 5",Dublin,176000.0,No,Howth,Dublin 13,q1,10%
+20/10/2016,"19 Thormanby Lawns, Howth, Dublin",Dublin,680000.0,No,Howth,Dublin 13,q3,70%
+20/10/2016,"39 Glaslyn, Howth Rd, Clontarf Dublin 3",Dublin,341000.0,No,Howth,Dublin 13,q2,30%
+25/10/2016,"46 Church Street, Howth, Co Dublin",Dublin,340000.0,No,Howth,Dublin 13,q2,30%
+26/10/2016,"558 Howth Rd, Raheny, Dublin 5",Dublin,425000.0,No,Howth,Dublin 13,q2,50%
+28/10/2016,"63 Ashbrook, Howth Rd, Dublin 3",Dublin,470000.0,No,Howth,Dublin 13,q2,50%
+28/10/2016,"770 Howth Rd, Blackbanks, Raheny Dublin 5",Dublin,717500.0,No,Howth,Dublin 13,q3,80%
+30/10/2016,"60 Glaslyn, Howth Rd, Dublin",Dublin,285000.0,No,Howth,Dublin 13,q1,20%
+01/11/2016,"22 St Nessans Terrace, Howth, Dublin",Dublin,555000.0,No,Howth,Dublin 13,q3,60%
+04/11/2016,"Evora East, Dunbo Hill, Howth Dublin 13",Dublin,780000.0,No,Howth,Dublin 13,q4,80%
+04/11/2016,"Evora West, Dunbo Hill, Howth Dublin 13",Dublin,780000.0,No,Howth,Dublin 13,q4,80%
+09/11/2016,"Apt 1, 308 Howth Rd, Killester Dublin 5",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+11/11/2016,"41 Grace O'Malley Road, Howth, Dublin",Dublin,380000.0,No,Howth,Dublin 13,q2,40%
+14/11/2016,"Mount St Mary'S, Thormanby Road, Howth",Dublin,1450000.0,No,Howth,Dublin 13,q4,100%
+15/11/2016,"14 Church St, Howth, Dublin",Dublin,525000.0,No,Howth,Dublin 13,q3,60%
+18/11/2016,"Whitewater, Howth Summit, Bailey Howth",Dublin,1076000.0,No,Howth,Dublin 13,q4,90%
+25/11/2016,"44 St Peters Terrace, Howth, Dublin 13",Dublin,420000.0,No,Howth,Dublin 13,q2,50%
+25/11/2016,"616 Howth Rd, Raheny, Dublin 5",Dublin,710000.0,No,Howth,Dublin 13,q3,80%
+25/11/2016,"806 Howth Rd, Raheny, Dublin 5",Dublin,645000.0,No,Howth,Dublin 13,q3,70%
+25/11/2016,"Apt 2 Waveney House, 11 Harbour Road, Howth",Dublin,190000.0,No,Howth,Dublin 13,q1,10%
+28/11/2016,"Apt 6 St Nessans Terrace, Thornamby Road, Howth",Dublin,328000.0,No,Howth,Dublin 13,q2,30%
+30/11/2016,"197 Howth Road, Clontarf, Dublin 3",Dublin,709251.0,Yes,Howth,Dublin 13,q3,80%
+02/12/2016,"49 Howth Lodge, Howth, Dublin",Dublin,618000.0,No,Howth,Dublin 13,q3,70%
+08/12/2016,"1 St Marys Place, Howth, Co Dublin",Dublin,270000.0,No,Howth,Dublin 13,q1,20%
+08/12/2016,"105 Howth Rd, Clontarf, Dublin 3",Dublin,231000.0,No,Howth,Dublin 13,q1,20%
+08/12/2016,"58 Glaslyn, Howth Rd, Dublin",Dublin,285000.0,No,Howth,Dublin 13,q1,20%
+09/12/2016,"11 Evora Park, Howth, Dublin",Dublin,560000.0,No,Howth,Dublin 13,q3,60%
+09/12/2016,"5 Mariners Cove, Thormanby Rd, Howth",Dublin,780000.0,No,Howth,Dublin 13,q4,80%
+14/12/2016,"13 Woodcliff Heights, Howth, Dublin",Dublin,550000.0,No,Howth,Dublin 13,q3,60%
+15/12/2016,"8 Berehaven Place, Howth Road, Raheny",Dublin,312775.0,Yes,Howth,Dublin 13,q2,30%
+15/12/2016,"House 12, 150 Howth Rd, Clontarf Dublin 3",Dublin,525000.0,No,Howth,Dublin 13,q3,60%
+20/12/2016,"810 Howth Rd, Kilbarrack, Dublin 5",Dublin,614000.0,No,Howth,Dublin 13,q3,70%
+21/12/2016,"15 Glaslyn, Howth Rd, Clontarf Dublin 3",Dublin,347500.0,No,Howth,Dublin 13,q2,40%
+22/12/2016,"4 Venetian Hall, Howth Rd, Killester Dublin 3",Dublin,329100.0,No,Howth,Dublin 13,q2,30%
+22/12/2016,"Apt 13 Berehaven Place, Howth Rd, Raheny Dublin 5",Dublin,366000.0,No,Howth,Dublin 13,q2,40%
+23/12/2016,"Tomar House Baily Green Road, Howth Co Dublin",Dublin,730000.0,No,Howth,Dublin 13,q3,80%
+16/01/2017,"26 Woodcliff Heights, Howth, Dublin",Dublin,610000.0,No,Howth,Dublin 13,q3,70%
+17/01/2017,"The Lodge, Glenbrian Hall, 98 Howth Road  Clontarf",Dublin,520000.0,No,Howth,Dublin 13,q3,60%
+25/01/2017,"6 St Lawerence Terrace, Howth, Fingal",Dublin,500000.0,No,Howth,Dublin 13,q3,60%
+30/01/2017,"Kapiti 39 Thormanby Rd, Bailey, Howth",Dublin,765000.0,No,Howth,Dublin 13,q4,80%
+02/02/2017,"65 Glaslyn, Howth Rd, Dublin",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+02/02/2017,"97 Balkill Park, Howth, Dublin",Dublin,435000.0,No,Howth,Dublin 13,q2,50%
+14/02/2017,"9 Thormanby Rd, Howth, Dublin",Dublin,515000.0,No,Howth,Dublin 13,q3,60%
+17/02/2017,"30 Main St, Howth, Dublin 13",Dublin,515000.0,No,Howth,Dublin 13,q3,60%
+20/02/2017,"7 Auburn, 118 Howth Rd, Clontarf Dublin 3",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+22/02/2017,"44 Glaslyn, Howth Rd, Clontarf Dublin 3",Dublin,327000.0,No,Howth,Dublin 13,q2,30%
+23/02/2017,"39 Woodcliff Heights, Howth, Dublin",Dublin,650000.0,No,Howth,Dublin 13,q3,70%
+24/02/2017,"55 Thormanby Lawns, Howth, Dublin",Dublin,750000.0,No,Howth,Dublin 13,q4,80%
+01/03/2017,"66 Glaslyn, Howth Rd, Dublin",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+07/03/2017,"34 Venetian Hall, Howth Rd, Killester Dublin 5",Dublin,310000.0,No,Howth,Dublin 13,q1,30%
+10/03/2017,"Apt 6, Auburn, Howth Rd Dublin 3",Dublin,390000.0,No,Howth,Dublin 13,q2,40%
+16/03/2017,"10 Rosevale Mansions, Howth Rd, Raheny Dublin 5",Dublin,250000.0,No,Howth,Dublin 13,q1,20%
+16/03/2017,"10 Rosevale Mansions, Howth Rd, Raheny Dublin 5",Dublin,10000.0,No,Howth,Dublin 13,q1,10%
+16/03/2017,"Green Ivies, Thormanby Rd, Howth",Dublin,800000.0,No,Howth,Dublin 13,q4,90%
+28/03/2017,"Windrock, Thormanby Lawns, Howth",Dublin,702000.0,No,Howth,Dublin 13,q3,80%
+29/03/2017,"197A Howth Road, Clontarf, Dublin 3",Dublin,790000.0,Yes,Howth,Dublin 13,q4,80%
+31/03/2017,"16 Findlaters, St Lawrence, Howth",Dublin,350000.0,No,Howth,Dublin 13,q2,40%
+06/04/2017,"64 Howth Rd, Clontarf, Dublin 3",Dublin,655000.0,No,Howth,Dublin 13,q3,70%
+11/04/2017,"104 Bettglen Est, Howth Rd, Raheny Dublin 5",Dublin,525000.0,No,Howth,Dublin 13,q3,60%
+11/04/2017,"Rossmere, 27 Carrickbrack Rd, Howth",Dublin,2100000.0,No,Howth,Dublin 13,q4,100%
+12/04/2017,"107 Grace O Malley Rd, Howth, Co Dublin",Dublin,430000.0,No,Howth,Dublin 13,q2,50%
+12/04/2017,"72 Glaslyn, Howth Rd, Clontarf",Dublin,408000.0,No,Howth,Dublin 13,q2,50%
+28/04/2017,"Barrenhill House, Carrickbrack Rd, Howth",Dublin,1150000.0,No,Howth,Dublin 13,q4,100%
+16/05/2017,"331 Howth Rd, Dublin 5, Dublin",Dublin,585000.0,No,Howth,Dublin 13,q3,60%
+16/05/2017,"Apt 13 St Lawrence, Harbour Rd, Howth Dublin 13",Dublin,315000.0,No,Howth,Dublin 13,q2,30%
+24/05/2017,"4 St Mary'S Place, Howth, County Dublin",Dublin,420000.0,No,Howth,Dublin 13,q2,50%
+24/05/2017,"92 Howth Rd, Clontarf, Dublin 3",Dublin,630000.0,No,Howth,Dublin 13,q3,70%
+29/05/2017,"646 Howth Rd, Raheny, Dublin 5",Dublin,735000.0,No,Howth,Dublin 13,q4,80%
+02/06/2017,"35 Furry Park Court, Howth Rd, Dublin 3",Dublin,395000.0,No,Howth,Dublin 13,q2,40%
+13/06/2017,"1 Howth Road, Clontarf, Dublin 3",Dublin,660000.0,No,Howth,Dublin 13,q3,70%
+13/06/2017,"3 Howth Road, Clontarf, Dublin 3",Dublin,800000.0,No,Howth,Dublin 13,q4,90%
+04/07/2017,"84 Howth Rd, Clontarf, Dublin 3",Dublin,510000.0,No,Howth,Dublin 13,q3,60%
+05/07/2017,"39 Venetian Hall, Howth Rd, Killester Dublin 5",Dublin,285000.0,No,Howth,Dublin 13,q1,20%
+06/07/2017,"90 Glaslyn, Howth Rd, Dublin",Dublin,275000.0,No,Howth,Dublin 13,q1,20%
+10/07/2017,"23 Howth Rd, Clontarf, Dublin 3",Dublin,800000.0,No,Howth,Dublin 13,q4,90%
+13/07/2017,"Apartment 9  Block A, Howth Junction Court, St Donagh'S Park",Dublin,215500.0,No,Howth,Dublin 13,q1,10%
+14/07/2017,"40 Balkill Park, Howth, Dublin",Dublin,572000.0,No,Howth,Dublin 13,q3,60%
+14/07/2017,"55 Main St, Howth, Dublin 13",Dublin,425000.0,No,Howth,Dublin 13,q2,50%
+18/07/2017,"621 Howth Rd, Raheny, Dublin 5",Dublin,1450000.0,No,Howth,Dublin 13,q4,100%
+18/07/2017,"7  Lonsdale, Howth Road, Blackbeans",Dublin,581498.0,Yes,Howth,Dublin 13,q3,60%
+19/07/2017,"11 Lonsdale, Howth Road, Raheny",Dublin,603524.0,Yes,Howth,Dublin 13,q3,70%
+20/07/2017,"26 Glaslyn, Howth Rd, Clontarf Dublin 3",Dublin,410000.0,No,Howth,Dublin 13,q2,50%
+20/07/2017,"3 Lonsdale, 726-728 Howth Road, Raheny",Dublin,603524.0,Yes,Howth,Dublin 13,q3,70%
+20/07/2017,"6 Lonsdale, 726-728 Howth Road, Raheny",Dublin,603524.0,Yes,Howth,Dublin 13,q3,70%
+20/07/2017,"728B Howth Road, Raheny, Dublin 5",Dublin,792951.54,Yes,Howth,Dublin 13,q4,80%
+20/07/2017,"8 Lonsdale, 726-728 Howth Road, Raheny",Dublin,603524.0,Yes,Howth,Dublin 13,q3,70%
+20/07/2017,"9 Lonsdale, 726-728 Howth Road, Raheny",Dublin,603524.0,Yes,Howth,Dublin 13,q3,70%
+21/07/2017,"2 Lonsdale, 726-728 Howth Road, Raheny",Dublin,792951.54,Yes,Howth,Dublin 13,q4,80%
+21/07/2017,"726 Howth Road, Raheny, Dublin 5",Dublin,756875.0,Yes,Howth,Dublin 13,q4,80%
+24/07/2017,"Cova, Bailey, Howth",Dublin,1300000.0,No,Howth,Dublin 13,q4,100%
+25/07/2017,"157A Howth Rd, Clontarf, Dublin 3",Dublin,1050000.0,No,Howth,Dublin 13,q4,90%
+28/07/2017,"5 Lonsdale, Howth Road, Raheny",Dublin,603524.0,Yes,Howth,Dublin 13,q3,70%
+31/07/2017,"60 Balkill Park, Howth, Dublin",Dublin,507000.0,No,Howth,Dublin 13,q3,60%
+31/07/2017,"728A Howth Rd, Raheny, Dublin 5",Dublin,792952.0,Yes,Howth,Dublin 13,q4,90%
+31/07/2017,"Tennyson House, 660 Howth Rd, Raheny Dublin 5",Dublin,632000.0,No,Howth,Dublin 13,q3,70%
+01/08/2017,"14 Casana View, Howth, Dublin",Dublin,612500.0,No,Howth,Dublin 13,q3,70%
+02/08/2017,"4 Londsdale, Howth Road, Raheny",Dublin,581498.0,Yes,Howth,Dublin 13,q3,60%
+03/08/2017,"50 Howth Lodge, Howth Rd, Howth",Dublin,665000.0,No,Howth,Dublin 13,q3,70%
+04/08/2017,"574 Howth Rd, Raheny, Dublin 5",Dublin,708000.0,No,Howth,Dublin 13,q3,80%
+04/08/2017,"Guretti, Howth Summit, New Rd",Dublin,720000.0,No,Howth,Dublin 13,q3,80%
+10/08/2017,"24 Rosevale Mansions, Howth Road, Raheny",Dublin,267000.0,No,Howth,Dublin 13,q1,20%
+18/08/2017,"Carraig Mews, 138B Howth Rd, Raheny",Dublin,450000.0,No,Howth,Dublin 13,q2,50%
+22/08/2017,"728 Howth Road, Raheny",Dublin,814978.0,Yes,Howth,Dublin 13,q4,90%
+22/08/2017,"Corbridge Villa, Claremont Road, Howth",Dublin,910000.0,No,Howth,Dublin 13,q4,90%
+24/08/2017,"56 Thormanby Lawns, Howth, Dublin",Dublin,750000.0,No,Howth,Dublin 13,q4,80%
+25/08/2017,"9 Howth Road, Clontarf, Dublin 3",Dublin,780000.0,No,Howth,Dublin 13,q4,80%
+25/08/2017,"Valencia, 30 Carrickbrack Rd, Howth",Dublin,900000.0,No,Howth,Dublin 13,q4,90%
+25/08/2017,"Westward, Thormanby Rd, Howth Dublin 13",Dublin,800000.0,No,Howth,Dublin 13,q4,90%
+28/08/2017,"479 Howth Rd, Raheny, Dublin 5",Dublin,790000.0,No,Howth,Dublin 13,q4,80%
+31/08/2017,"Derolin, 535 Howth Road, Raheny",Dublin,700000.0,No,Howth,Dublin 13,q3,80%
+01/09/2017,"744 Howth Rd, Raheny, Dublin 5",Dublin,640000.0,No,Howth,Dublin 13,q3,70%
+08/09/2017,"Danes Hollow, Thormanby Rd, Howth",Dublin,8200000.0,No,Howth,Dublin 13,q4,100%
+18/09/2017,"Inglewood, 174 Howth Rd, Killester Dublin 3",Dublin,1300000.0,No,Howth,Dublin 13,q4,100%
+20/09/2017,"1 Woodcliff Heights, Howth, Co Dublin",Dublin,640000.0,No,Howth,Dublin 13,q3,70%
+20/09/2017,"Sharavogue, 5 Corrbridge Tce Claremont Rd, Howth",Dublin,1025000.0,No,Howth,Dublin 13,q4,90%
+22/09/2017,"31 Boyd House, Harbour Rd, Howth",Dublin,592000.0,No,Howth,Dublin 13,q3,60%
+25/09/2017,"St Elmo, 5 Nashville Park, Howth",Dublin,1420000.0,No,Howth,Dublin 13,q4,100%
+04/10/2017,"14 Thormanby Court, Thormanby Rd, Howth",Dublin,297000.0,No,Howth,Dublin 13,q1,30%
+04/10/2017,"48 Howth Lodge, Howth, Dublin 13",Dublin,587500.0,No,Howth,Dublin 13,q3,60%
+06/10/2017,"Cobblers Bank, Baily, Howth",Dublin,2900000.0,No,Howth,Dublin 13,q4,100%
+06/10/2017,"The Anchorage, Church St, Howth",Dublin,665000.0,No,Howth,Dublin 13,q3,70%
+10/10/2017,"11 Thormanby Court, Thormanby Rd, Howth",Dublin,295000.0,No,Howth,Dublin 13,q1,30%
+19/10/2017,"68 Ashbrook, Howth Rd, Clontarf Dublin 3",Dublin,593000.0,No,Howth,Dublin 13,q3,60%
+25/10/2017,"28 Castlecourt, Howth Rd, Dublin 3",Dublin,450000.0,No,Howth,Dublin 13,q2,50%
+01/11/2017,"43 The Pines Howth Rd, Killester, Dublin 5",Dublin,344000.0,No,Howth,Dublin 13,q2,40%
+03/11/2017,"62 Grace O Malley Dr, Howth, Dublin 13",Dublin,445000.0,No,Howth,Dublin 13,q2,50%
+06/11/2017,"522A Howth Rd, Raheny, Dublin 5",Dublin,700000.0,No,Howth,Dublin 13,q3,80%
+06/11/2017,"Lambay, Nashville Park, Howth Dublin 13",Dublin,1200000.0,No,Howth,Dublin 13,q4,100%
+14/11/2017,"The Hatch, Greys Lane, Howth",Dublin,885000.0,No,Howth,Dublin 13,q4,90%
+15/11/2017,"8 Berehaven Place, Howth Rd, Raheny Dublin 5",Dublin,356884.1,No,Howth,Dublin 13,q2,40%
+16/11/2017,"21 Thormanby Hill, Thormanby Road, Howth",Dublin,1365638.76,Yes,Howth,Dublin 13,q4,100%
+20/11/2017,"20 Evora Park, Howth, Dublin",Dublin,635000.0,No,Howth,Dublin 13,q3,70%
+20/11/2017,"44 Grace Omalley Dr, Howth, Dublin",Dublin,480000.0,No,Howth,Dublin 13,q2,50%
+24/11/2017,"39 Ashbrook, Howth Rd, Dublin 3",Dublin,595000.0,No,Howth,Dublin 13,q3,60%
+28/11/2017,"336 Howth Rd, Killester, Dublin 5",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+05/12/2017,"Lambay, Nashville Park, Howth Dublin 13",Dublin,1600000.0,No,Howth,Dublin 13,q4,100%
+08/12/2017,"2 Dunbo Hill, Howth, Dublin 13",Dublin,910000.0,No,Howth,Dublin 13,q4,90%
+11/12/2017,"2 Graysbrook, Main St, Howth",Dublin,470000.0,No,Howth,Dublin 13,q2,50%
+14/12/2017,"113 A Howth Road, Clontarf, Dublin 3",Dublin,352423.0,Yes,Howth,Dublin 13,q2,40%
+14/12/2017,"St Nessans Apts, Thormanby Rd, Howth Dublin 13",Dublin,450000.0,No,Howth,Dublin 13,q2,50%
+15/12/2017,"82 Venetian Hall, Howth Rd, Dublin 5",Dublin,292000.0,No,Howth,Dublin 13,q1,30%
+18/12/2017,"28 Casana View, Howth, Dublin",Dublin,700000.0,No,Howth,Dublin 13,q3,80%
+19/12/2017,"6 St Lawerence Terrace, Howth, Fingal",Dublin,490000.0,No,Howth,Dublin 13,q2,50%
+22/12/2017,"51 Evora Park, Howth, Dublin 13",Dublin,685000.0,No,Howth,Dublin 13,q3,80%
+22/12/2017,"7 Thormanby Court, Thormanby Rd, Howth",Dublin,305000.0,Yes,Howth,Dublin 13,q1,30%
+02/01/2018,"1 Abbey St, Howth, Dublin",Dublin,710000.0,No,Howth,Dublin 13,q3,80%
+08/01/2018,"2 Bettys Town Ave, Howth Rd, Raheny Dublin 5",Dublin,515000.0,No,Howth,Dublin 13,q3,60%
+09/01/2018,"40 Ashbrook, Howth Rd, Clontarf Dublin 3",Dublin,637500.0,No,Howth,Dublin 13,q3,70%
+10/01/2018,"Apt 36, Glaslyn, Howth Rd Dublin 3",Dublin,385000.0,No,Howth,Dublin 13,q2,40%
+18/01/2018,"6 Thormanby Court, Thormanby Rd, Howth",Dublin,275000.0,No,Howth,Dublin 13,q1,20%
+19/01/2018,"570 Howth Rd, Raheny, Dublin 5",Dublin,1200000.0,No,Howth,Dublin 13,q4,100%
+23/01/2018,"59 Glaslyn, Howth Rd, Dublin",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+24/01/2018,"23 Howth Lodge, Howth Rd, Howth",Dublin,775000.0,No,Howth,Dublin 13,q4,80%
+25/01/2018,"21 Church Street, Howth, Co Dublin",Dublin,520000.0,No,Howth,Dublin 13,q3,60%
+26/01/2018,"14E Abbey St, Howth, Dublin",Dublin,555000.0,No,Howth,Dublin 13,q3,60%
+31/01/2018,"Cliff Bungalow, 22 Balscadden Road, Howth",Dublin,500000.0,No,Howth,Dublin 13,q3,60%
+01/02/2018,"Apt 8 Howth Junction Court, St Donaghs Road, Dublin 5",Dublin,241000.0,No,Howth,Dublin 13,q1,20%
+02/02/2018,"19 Asgard Park, Howth, Dublin 13",Dublin,1025000.0,No,Howth,Dublin 13,q4,90%
+02/02/2018,"19 Finlater, Main Street, Howth",Dublin,265000.0,No,Howth,Dublin 13,q1,20%
+13/02/2018,"3Rd Floor Apt 1 Island View House, Harbour Road, Howth",Dublin,50000.0,No,Howth,Dublin 13,q1,10%
+13/02/2018,"96A Howth Road, Howth, Co. Dublin",Dublin,980000.0,No,Howth,Dublin 13,q4,90%
+13/02/2018,"Apt 1 2Nd Floor Island View House, Harbour Rd, Howth Dublin",Dublin,50000.0,No,Howth,Dublin 13,q1,10%
+15/02/2018,"Hilltop House, Windgate Road, Howth",Dublin,2150000.0,No,Howth,Dublin 13,q4,100%
+19/02/2018,"2 Asgard Rd, Howth, Dublin",Dublin,760000.0,No,Howth,Dublin 13,q4,80%
+19/02/2018,"The Spinnaker, 2 Abbey St, Howth",Dublin,760000.0,No,Howth,Dublin 13,q4,80%
+22/02/2018,"1 Lonsdale, Howth Road, Raheny",Dublin,784140.97,Yes,Howth,Dublin 13,q4,80%
+26/02/2018,"9 Grace O Malley Dr, Howth, Dublin",Dublin,470000.0,No,Howth,Dublin 13,q2,50%
+28/02/2018,"2 Thormanby Grove, Howth, Dublin",Dublin,557000.0,No,Howth,Dublin 13,q3,60%
+28/02/2018,"Apt 7   St Nessans, Thormanby Road, Howth",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+14/03/2018,"44 Harbour View, Howth, Dublin 13",Dublin,540000.0,No,Howth,Dublin 13,q3,60%
+15/03/2018,"4 Norabrook, 119 Howth Road, Clontarf",Dublin,947136.55,Yes,Howth,Dublin 13,q4,90%
+23/03/2018,"726A Howth Road, Raheny",Dublin,860000.0,Yes,Howth,Dublin 13,q4,90%
+23/03/2018,"Apt 2 Waveney House, 11 Harbour Road, Howth",Dublin,301000.0,No,Howth,Dublin 13,q1,30%
+27/03/2018,"513 Howth Rd, Raheny, Dublin 5",Dublin,650000.0,No,Howth,Dublin 13,q3,70%
+10/04/2018,"10 Norabrook, 119 Howth Road, Clontarf",Dublin,837005.0,Yes,Howth,Dublin 13,q4,90%
+13/04/2018,"80 Glaslyn, Howth Rd, Dublin",Dublin,340000.0,No,Howth,Dublin 13,q2,30%
+19/04/2018,"15 Thormanby Court, Thormanby Rd, Howth",Dublin,305000.0,No,Howth,Dublin 13,q1,30%
+20/04/2018,"13 Norabrook, 119 Howth Road, Clontarf",Dublin,981057.0,Yes,Howth,Dublin 13,q4,90%
+23/04/2018,"11 Norabrook, Howth Road, Clontarf",Dublin,800440.52,Yes,Howth,Dublin 13,q4,90%
+27/04/2018,"372 Howth Rd, Raheny, Dublin 5",Dublin,595000.0,No,Howth,Dublin 13,q3,60%
+02/05/2018,"39A  Thormanby Road, Howth",Dublin,881057.0,Yes,Howth,Dublin 13,q4,90%
+09/05/2018,"379 Howth Rd, Raheny, Dublin 5",Dublin,600000.0,No,Howth,Dublin 13,q3,70%
+13/05/2018,"38 Crescent House, Howth Rd, Clontarf Dublin 3",Dublin,248000.0,No,Howth,Dublin 13,q1,20%
+14/05/2018,"9 Norabrook, 119 Howth Rd, Clontarf",Dublin,969164.0,Yes,Howth,Dublin 13,q4,90%
+17/05/2018,"29 Ashbrook, Howth Rd, Clontarf Dublin 3",Dublin,615000.0,No,Howth,Dublin 13,q3,70%
+18/05/2018,"St Anthony, Nashville Rd, Howth",Dublin,790000.0,No,Howth,Dublin 13,q4,80%
+21/05/2018,"12 Norabrook, Howth Road",Dublin,848898.0,Yes,Howth,Dublin 13,q4,90%
+21/05/2018,"24 Howth Lodge, Howth, Co Dublin",Dublin,987500.0,No,Howth,Dublin 13,q4,90%
+23/05/2018,"28 Grace Omalley Dr, Howth, Dublin",Dublin,310000.0,No,Howth,Dublin 13,q1,30%
+25/05/2018,"12 Thormanby Court, Thormanby Rd, Howth",Dublin,310000.0,No,Howth,Dublin 13,q1,30%
+29/05/2018,"53 Howth Rd, Clontarf, Dublin",Dublin,1300000.0,No,Howth,Dublin 13,q4,100%
+29/05/2018,"617 Howth Road, Raheny, Dublin 5",Dublin,10000.0,No,Howth,Dublin 13,q1,10%
+31/05/2018,"19 Church St, Howth, Dublin",Dublin,555000.0,No,Howth,Dublin 13,q3,60%
+31/05/2018,"8 Norabrook, Howth Road, Dublin 3",Dublin,969163.0,Yes,Howth,Dublin 13,q4,90%
+07/06/2018,"24 Howth View Park, Donahies, Dublin 13",Dublin,315000.0,No,Howth,Dublin 13,q2,30%
+13/06/2018,"617 Howth Road, Raheny, Dublin 5",Dublin,470000.0,No,Howth,Dublin 13,q2,50%
+13/06/2018,"617A, Howth Rd, Raheny Dublin 5",Dublin,315000.0,No,Howth,Dublin 13,q2,30%
+15/06/2018,"1-4 Howth Court, 116 Howth Road, Dublin 3",Dublin,3000000.0,No,Howth,Dublin 13,q4,100%
+15/06/2018,"19 Thormanby Hill, Thormanby Road, Howth",Dublin,1343612.33,Yes,Howth,Dublin 13,q4,100%
+18/06/2018,"3 St Laurence Road, Howth, Dublin 13",Dublin,600000.0,No,Howth,Dublin 13,q3,70%
+18/06/2018,"The Boat House, Asgard Rd, Howth",Dublin,1200000.0,No,Howth,Dublin 13,q4,100%
+22/06/2018,"Flat 1, 55 Church Street, Howth",Dublin,360000.0,No,Howth,Dublin 13,q2,40%
+26/06/2018,"14 Norabrook, 119 Howth Road, Clontarf",Dublin,969163.0,Yes,Howth,Dublin 13,q4,90%
+04/07/2018,"Apt 28 Auburn, 118 Howth Rd, Clontarf Dublin 3",Dublin,385000.0,No,Howth,Dublin 13,q2,40%
+05/07/2018,"12 Grace O'Malley Drive, Howth, Dublin 13",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+05/07/2018,"Apt 5 Auburn, Castle Ct And Auburn, Howth Rd Dublin 3",Dublin,395000.0,No,Howth,Dublin 13,q2,40%
+18/07/2018,"2 St Marys Rd, Howth, Dublin",Dublin,501000.0,No,Howth,Dublin 13,q3,60%
+25/07/2018,"15 Norabrook, Howth Road, Clontarf",Dublin,925000.0,Yes,Howth,Dublin 13,q4,90%
+30/07/2018,"67 Crescent House, Howth Rd, Clontarf Dublin 3",Dublin,317000.0,No,Howth,Dublin 13,q2,30%
+30/07/2018,"Avalon, 3 Asgard Road, Howth",Dublin,925000.0,No,Howth,Dublin 13,q4,90%
+01/08/2018,"10 Furry Park Court, Howth Rd, Killester Dublin 5",Dublin,446000.0,No,Howth,Dublin 13,q2,50%
+02/08/2018,"18 Norabrook, Howth Road, Clontarf",Dublin,837003.0,Yes,Howth,Dublin 13,q4,90%
+09/08/2018,"44 Woodcliffe Village, Howth, Dublin 13",Dublin,703000.0,No,Howth,Dublin 13,q3,80%
+14/08/2018,"Kincora Deerpark, Howth Rd, Howth",Dublin,850000.0,No,Howth,Dublin 13,q4,90%
+24/08/2018,"9 Ashbrook, Howth Rd, Clontarf Dublin 3",Dublin,658000.0,No,Howth,Dublin 13,q3,70%
+31/08/2018,"106 Howth Rd, Clontarf, Dublin 3",Dublin,1605000.0,No,Howth,Dublin 13,q4,100%
+31/08/2018,"Byways, 98 Howth Rd, Howth",Dublin,1190000.0,No,Howth,Dublin 13,q4,100%
+03/09/2018,"Apt 1 To 4 Glaslynn House, 97 Howth Road, Clontarf",Dublin,1140000.0,No,Howth,Dublin 13,q4,100%
+03/09/2018,"Shelmalier, 4 Windgate Rd, Howth",Dublin,1300000.0,No,Howth,Dublin 13,q4,100%
+04/09/2018,"58 Glaslyn, Howth Rd, Dublin",Dublin,335000.0,No,Howth,Dublin 13,q2,30%
+05/09/2018,"47 The Pines, 276 Howth Rd, Dublin 5",Dublin,340000.0,No,Howth,Dublin 13,q2,30%
+13/09/2018,"10 Asgard Rd, Howth, Dublin 13",Dublin,800000.0,No,Howth,Dublin 13,q4,90%
+13/09/2018,"2 Charlemont Mews, Howth Road, Clontarf",Dublin,660000.0,Yes,Howth,Dublin 13,q3,70%
+22/09/2018,"35 Woodcliff Heights, Howth, Dublin",Dublin,695000.0,No,Howth,Dublin 13,q3,80%
+26/09/2018,"17 Norabrook, Howth Road, Clontarf",Dublin,770044.04,Yes,Howth,Dublin 13,q4,80%
+28/09/2018,"12 Howth Lodge Apts, Howth Lodge, Clarmont Road Howth",Dublin,705000.0,No,Howth,Dublin 13,q3,80%
+28/09/2018,"29 Howth Lodge, Howth, Co Dublin",Dublin,750000.0,No,Howth,Dublin 13,q4,80%
+01/10/2018,"15 Grace Omalley Dr, Howth, Dublin",Dublin,445000.0,No,Howth,Dublin 13,q2,50%
+02/10/2018,"92 Howth Rd, Clontarf, Dublin 3",Dublin,750000.0,No,Howth,Dublin 13,q4,80%
+03/10/2018,"7 Berehaven Place, Howth Rd, Raheny Dublin 5",Dublin,427000.0,No,Howth,Dublin 13,q2,50%
+05/10/2018,"6 Evora Park, Howth, Dublin",Dublin,625000.0,No,Howth,Dublin 13,q3,70%
+10/10/2018,"32 Evora Park, Howth, Dublin 13",Dublin,500000.0,No,Howth,Dublin 13,q3,60%
+11/10/2018,"2 Maywood Ave, Howth Rd, Raheny Dublin 5",Dublin,595000.0,No,Howth,Dublin 13,q3,60%
+19/10/2018,"6 Norabrook, Howth Road, Clontarf",Dublin,969162.99,Yes,Howth,Dublin 13,q4,90%
+22/10/2018,"70 Balkill Park, Howth, Co Dublin",Dublin,525000.0,No,Howth,Dublin 13,q3,60%
+23/10/2018,"386 Howth Rd, Raheny, Dublin 5",Dublin,590000.0,No,Howth,Dublin 13,q3,60%
+24/10/2018,"11 Howth View Park, The Donahies, Dublin 13",Dublin,292500.0,No,Howth,Dublin 13,q1,30%
+24/10/2018,"Apt 3 Thormanby Court, Howth, Dublin",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+25/10/2018,"19 Asgard Apts, Balscadden Rd, Howth Dublin 13",Dublin,350000.0,No,Howth,Dublin 13,q2,40%
+25/10/2018,"7 Norabrook, 119 Howth Road, Clontarf",Dublin,969163.0,Yes,Howth,Dublin 13,q4,90%
+26/10/2018,"6 Greys Lane, Howth, Dublin",Dublin,870000.0,No,Howth,Dublin 13,q4,90%
+26/10/2018,"7 Thormanby Hill, Howth, Dublin",Dublin,1299559.0,Yes,Howth,Dublin 13,q4,100%
+30/10/2018,"Matakana, Greys Lane, Howth",Dublin,775000.0,No,Howth,Dublin 13,q4,80%
+05/11/2018,"18 Asgard Park, Howth, Dublin 13",Dublin,1060000.0,No,Howth,Dublin 13,q4,90%
+07/11/2018,"126 Howth Rd, Clontarf, Dublin 3",Dublin,3300000.0,No,Howth,Dublin 13,q4,100%
+09/11/2018,"5 Norabrook, Howth Road, Clontarf",Dublin,1101322.0,Yes,Howth,Dublin 13,q4,90%
+16/11/2018,"17 Grace O Malley Dr, Howth, Dublin",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+19/11/2018,"373 Howth Rd, Raheny, Dublin 5",Dublin,662201.0,No,Howth,Dublin 13,q3,70%
+20/11/2018,"2 Blakeney, Thormanby Rd, Howth",Dublin,24000.0,No,Howth,Dublin 13,q1,10%
+21/11/2018,"2A Dungriffin Rd, Howth, Dublin",Dublin,910000.0,No,Howth,Dublin 13,q4,90%
+23/11/2018,"1 Garland Court, Church St, Howth",Dublin,235510.13,No,Howth,Dublin 13,q1,20%
+23/11/2018,"6 Castlecourt, Howth Rd, Clontarf Dublin 3",Dublin,507000.0,No,Howth,Dublin 13,q3,60%
+23/11/2018,"7 Garland Court, Church St, Howth",Dublin,286343.61,No,Howth,Dublin 13,q1,30%
+23/11/2018,"9 Garland Court, Church St, Howth",Dublin,352422.91,No,Howth,Dublin 13,q2,40%
+26/11/2018,"2 Norabrook, Howth Road, Clontarf",Dublin,937004.0,Yes,Howth,Dublin 13,q4,90%
+30/11/2018,"287 Howth Rd, Killester, Dublin 5",Dublin,1290000.0,No,Howth,Dublin 13,q4,100%
+30/11/2018,"64 Thormanby Lawns, Howth, Dublin 13",Dublin,850000.0,No,Howth,Dublin 13,q4,90%
+03/12/2018,"4 Thulla, Dunbo Hill, Howth",Dublin,925000.0,No,Howth,Dublin 13,q4,90%
+12/12/2018,"3 Norabrook, 119 Howth Road, Clontarf",Dublin,910573.0,Yes,Howth,Dublin 13,q4,90%
+13/12/2018,"34 Glaslyn, Howth Rd, Clontarf Dublin 3",Dublin,393000.0,No,Howth,Dublin 13,q2,40%
+13/12/2018,"517 Howth Rd, Raheny, Dublin 5",Dublin,655000.0,No,Howth,Dublin 13,q3,70%
+14/12/2018,"16 Thormanby Woods, Howth, Dublin",Dublin,1500000.0,No,Howth,Dublin 13,q4,100%
+14/12/2018,"18 Seaview Terrace, Howth, County Dublin",Dublin,430000.0,No,Howth,Dublin 13,q2,50%
+14/12/2018,"Windton Lodge, Windgate Road, Howth",Dublin,2150000.0,No,Howth,Dublin 13,q4,100%
+18/12/2018,"5 Asgard Rd, Howth, Dublin",Dublin,1155000.0,No,Howth,Dublin 13,q4,100%
+19/12/2018,"Apt 4 Thormanby Court, Howth, Dublin",Dublin,320000.0,No,Howth,Dublin 13,q2,30%
+20/12/2018,"1 Blakeney, Thormanby Rd, Howth",Dublin,500000.0,No,Howth,Dublin 13,q3,60%
+20/12/2018,"10 Glaslynn, 97 Howth Rd, Clontarf Dublin 3",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+20/12/2018,"18 Abbey St, Howth, Dublin",Dublin,722500.0,No,Howth,Dublin 13,q3,80%
+21/12/2018,"1 Heatherfield, Thormanby Road, Howth",Dublin,1453744.0,Yes,Howth,Dublin 13,q4,100%
+08/01/2019,"28 Main St, Howth, Dublin",Dublin,675000.0,No,Howth,Dublin 13,q3,70%
+10/01/2019,"4 Waveney, Harbour Rd, Howth Dublin 13",Dublin,295000.0,No,Howth,Dublin 13,q1,30%
+11/01/2019,"5 Abbey St, Howth, Dublin 13",Dublin,840000.0,No,Howth,Dublin 13,q4,90%
+14/01/2019,"539 Howth Rd, Raheny, Dublin 5",Dublin,755000.0,No,Howth,Dublin 13,q4,80%
+17/01/2019,"93 Glaslyn, Howth Rd, Dublin",Dublin,340000.0,No,Howth,Dublin 13,q2,30%
+18/01/2019,"Silveracre, 724 Howth Rd, Dublin 5",Dublin,1850000.0,No,Howth,Dublin 13,q4,100%
+23/01/2019,"452 Howth Rd, Raheny, Dublin 5",Dublin,677500.0,No,Howth,Dublin 13,q3,70%
+25/01/2019,"105 Howth Rd, Clontarf, Dublin 3",Dublin,415000.0,No,Howth,Dublin 13,q2,50%
+25/01/2019,"Knockerra, Balkill Road, Howth",Dublin,1120000.0,No,Howth,Dublin 13,q4,90%
+08/02/2019,"154 Howth Rd, Clontarf, Dublin 3",Dublin,1250000.0,No,Howth,Dublin 13,q4,100%
+08/02/2019,"Fionnradharc, The Baily, Howth",Dublin,995000.0,No,Howth,Dublin 13,q4,90%
+12/02/2019,"Gate Lodge, Auburn, Howth Rd Clontarf",Dublin,302000.0,No,Howth,Dublin 13,q1,30%
+14/02/2019,"505 Howth Rd, Raheny, Dublin 5",Dublin,705000.0,No,Howth,Dublin 13,q3,80%
+15/02/2019,"2 St Marys'S Place, Howth, Co Dublin",Dublin,280000.0,No,Howth,Dublin 13,q1,20%
+20/02/2019,"3 Asgard Apts, Balscadden, Howth",Dublin,380000.0,No,Howth,Dublin 13,q2,40%
+25/02/2019,"256  258 & 260 Howth Rd, Killester, Dublin 5",Dublin,1731278.0,No,Howth,Dublin 13,q4,100%
+26/02/2019,"Cannon Rock, Upper Cliff Road, Howth",Dublin,1390000.0,No,Howth,Dublin 13,q4,100%
+01/03/2019,"8 Howth Lodge, Claremont Rd, Dublin",Dublin,650000.0,No,Howth,Dublin 13,q3,70%
+06/03/2019,"Apartment 6 Garland Court, Abbey Street, Howth",Dublin,286343.61,Yes,Howth,Dublin 13,q1,30%
+08/03/2019,"91 Glaslyn, Howth Rd, Dublin",Dublin,350000.0,No,Howth,Dublin 13,q2,40%
+15/03/2019,"3 Garland Court, Church St, Howth",Dublin,330000.0,No,Howth,Dublin 13,q2,30%
+21/03/2019,"25 Thormanby Lawns, Howth, Dublin",Dublin,820000.0,No,Howth,Dublin 13,q4,90%
+25/03/2019,"29 Ashbrook, Howth Rd, Clontarf Dublin 3",Dublin,610000.0,No,Howth,Dublin 13,q3,70%
+25/03/2019,"Ballymilish, Dungriffin Rd, Howth",Dublin,615000.0,No,Howth,Dublin 13,q3,70%
+28/03/2019,"17 Main St, Howth, Dublin",Dublin,480000.0,No,Howth,Dublin 13,q2,50%
+03/04/2019,"Roslyn, Claremont Rd, Howth Dublin 13",Dublin,100000.0,No,Howth,Dublin 13,q1,10%
+03/04/2019,"Roslyn, Claremont Rd, Howth Dublin 13",Dublin,1910000.0,No,Howth,Dublin 13,q4,100%
+09/04/2019,"38 The Pines, Howth Rd, Killester Dublin 5",Dublin,407000.0,No,Howth,Dublin 13,q2,50%
+10/04/2019,"3 Abbey Street, Howth, Co. Dublin",Dublin,887500.0,No,Howth,Dublin 13,q4,90%
+15/04/2019,"8 Garland Court, Church St, Howth",Dublin,307000.0,No,Howth,Dublin 13,q1,30%
+16/04/2019,"32 Harbour View, St Laurences Rd, Howth",Dublin,583500.0,No,Howth,Dublin 13,q3,60%
+17/04/2019,"50 Evora Park, Howth, Co.Dublin",Dublin,687224.0,Yes,Howth,Dublin 13,q3,80%
+18/04/2019,"Apt 13 Berehaven Place, Howth Rd, Raheny Dublin 5",Dublin,400000.0,No,Howth,Dublin 13,q2,40%
+01/05/2019,"13 Howth Junction Cottages, Kilbarrack, Dublin 5",Dublin,307500.0,No,Howth,Dublin 13,q1,30%
+03/05/2019,"6 Balkill Park, Howth, Dublin 13",Dublin,580000.0,No,Howth,Dublin 13,q3,60%
+03/05/2019,"Apt 8, The Findlater Harbour Road, Howth",Dublin,375000.0,No,Howth,Dublin 13,q2,40%
+08/05/2019,"15 Balkill Park, Howth, Dublin",Dublin,611000.0,No,Howth,Dublin 13,q3,70%
+08/05/2019,"58 Thormanby Lawns, Howth, Dublin",Dublin,800000.0,No,Howth,Dublin 13,q4,90%
+09/05/2019,"St Kierans, Balkill Rd, Howth",Dublin,675000.0,No,Howth,Dublin 13,q3,70%
+13/05/2019,"14 Church St, Howth, Dublin",Dublin,600000.0,No,Howth,Dublin 13,q3,70%
+13/05/2019,"67 Venetian Hall, Howth Rd, Dublin 5",Dublin,240000.0,No,Howth,Dublin 13,q1,20%
+14/05/2019,"Ryehill, Carrickbrack Rd, Howth",Dublin,1175000.0,No,Howth,Dublin 13,q4,100%
+15/05/2019,"71 Glaslyn, Howth Rd, Clontarf Dublin 3",Dublin,420000.0,No,Howth,Dublin 13,q2,50%
+15/05/2019,"82 Glaslyn, Howth Rd, Dublin",Dublin,267000.0,No,Howth,Dublin 13,q1,20%
+16/05/2019,"44 Grace Omalley Dr, Howth, Dublin",Dublin,500000.0,No,Howth,Dublin 13,q3,60%
+16/05/2019,"91 St Peters Terrace, Howth, Co Dublin",Dublin,435000.0,No,Howth,Dublin 13,q2,50%
+16/05/2019,"Woodford, Thormanby Rd, Howth",Dublin,765000.0,No,Howth,Dublin 13,q4,80%
+17/05/2019,"Apartment 1, 33 Howth Rd, Clontarf",Dublin,850000.0,No,Howth,Dublin 13,q4,90%
+20/05/2019,"414 Howth Rd, Raheny, Dublin 5",Dublin,300000.0,No,Howth,Dublin 13,q1,30%
+24/05/2019,"6 Island View, Harbour Rd, Howth",Dublin,277000.0,No,Howth,Dublin 13,q1,20%
+28/05/2019,"Gaisford Tower Apt, Howth Castle, Dublin 13",Dublin,3500000.0,No,Howth,Dublin 13,q4,100%
+29/05/2019,"57 The Pines, Howth Rd, Killester Dublin 5",Dublin,395000.0,No,Howth,Dublin 13,q2,40%
+31/05/2019,"40 St Nessans Terrace, Howth, Dublin",Dublin,405000.0,No,Howth,Dublin 13,q2,50%
+06/06/2019,"Howth Terrace, 1/2 Church Street, Howth",Dublin,2895000.0,Yes,Howth,Dublin 13,q4,100%
+07/06/2019,"12 Auburn, 118 Howth Rd, Clontarf Dublin 3",Dublin,415000.0,No,Howth,Dublin 13,q2,50%
+07/06/2019,"Tai Mo Shan, 718 Howth Road, Blackbanks",Dublin,960000.0,No,Howth,Dublin 13,q4,90%
+14/06/2019,"48 Furry Park Court, Howth Rd, Killester",Dublin,429500.0,No,Howth,Dublin 13,q2,50%
+17/06/2019,"Drynan Lodge, 52 Old Carrickbrack Road, Howth",Dublin,1825000.0,No,Howth,Dublin 13,q4,100%
+21/06/2019,"49 Evora Crescent, Howth, Co Dublin",Dublin,670000.0,No,Howth,Dublin 13,q3,70%
+26/06/2019,"64 Ashbrook, Howth Rd, Clontarf Dublin 3",Dublin,515000.0,No,Howth,Dublin 13,q3,60%
+27/06/2019,"576 Howth Rd, Raheny, Dublin 5",Dublin,910000.0,No,Howth,Dublin 13,q4,90%
+28/06/2019,"55 Ashbrook, Howth Rd, Clontarf Dublin 3",Dublin,533500.0,No,Howth,Dublin 13,q3,60%
+01/07/2019,"69 Balglass Rd, Howth, Dublin",Dublin,450000.0,No,Howth,Dublin 13,q2,50%
+02/07/2019,"3 Thormanby Grove, Howth, Dublin",Dublin,582500.0,No,Howth,Dublin 13,q3,60%
+03/07/2019,"50 Venetian Hall, Howth Rd, Killester Dublin 5",Dublin,380000.0,No,Howth,Dublin 13,q2,40%
+03/07/2019,"72 Venetian Hall, Howth Rd, Killester Dublin 5",Dublin,225000.0,No,Howth,Dublin 13,q1,20%
+04/07/2019,"374 Howth Rd, Raheny, Dublin",Dublin,575000.0,No,Howth,Dublin 13,q3,60%
+04/07/2019,"Windermere, Nashville Rd, Howth",Dublin,770000.0,No,Howth,Dublin 13,q4,80%
+05/07/2019,"11 Rosevale Apt, Howth Rd, Raheny Dublin 5",Dublin,285000.0,No,Howth,Dublin 13,q1,20%
+08/07/2019,"232 Howth Rd, Killester, Dublin 5",Dublin,625000.0,No,Howth,Dublin 13,q3,70%
+09/07/2019,"2 Thormanby Court, Thormanby Rd, Howth",Dublin,295000.0,No,Howth,Dublin 13,q1,30%
+12/07/2019,"452 Howth Rd, Raheny, Dublin 5",Dublin,665000.0,No,Howth,Dublin 13,q3,70%
+17/07/2019,"40 Harbour View, Howth, Dublin",Dublin,485000.0,No,Howth,Dublin 13,q2,50%
+18/07/2019,"Apt 43, Venetian Hall, Howth Rd Dublin 5",Dublin,333500.0,No,Howth,Dublin 13,q2,30%
+23/07/2019,"Woodlands, Windgate Road, Howth",Dublin,1930000.0,No,Howth,Dublin 13,q4,100%
+24/07/2019,"Seawood, Balkill Road, Howth",Dublin,1150000.0,No,Howth,Dublin 13,q4,100%
+31/07/2019,"1 Dunbo West, Howth, Dublin",Dublin,965000.0,No,Howth,Dublin 13,q4,90%
+31/07/2019,"Apt 57, Crescent House, Howth Rd",Dublin,380000.0,No,Howth,Dublin 13,q2,40%
+02/08/2019,"38 Furry Park Court, Howth Rd, Dublin 5",Dublin,485000.0,No,Howth,Dublin 13,q2,50%
+06/08/2019,"Bayview House, Carrickbrack Rd, Howth Dublin 13",Dublin,2750000.0,No,Howth,Dublin 13,q4,100%
+07/08/2019,"17 St Lawrence'S Terrace, Howth, Co Dublin",Dublin,575000.0,No,Howth,Dublin 13,q3,60%
+12/08/2019,"2 2 Balscadden View, Cuan Na Mara, Howth Dublin 13",Dublin,620000.0,No,Howth,Dublin 13,q3,70%
+21/08/2019,"37 Furry Park Court, Howth Rd, Killester",Dublin,450000.0,No,Howth,Dublin 13,q2,50%
+23/08/2019,"Gorteen, 67 Carrigbrack Road, Baily Howth",Dublin,1025000.0,No,Howth,Dublin 13,q4,90%
+30/08/2019,"19 Block B, Howth Junction Court, St Donaghs Rd",Dublin,247000.0,No,Howth,Dublin 13,q1,20%
+09/09/2019,"4 St Lawrence Rd, Howth, Dublin 13",Dublin,1400000.0,No,Howth,Dublin 13,q4,100%
+11/09/2019,"10 Venetian Hal, Howth Rd, Dublin 5",Dublin,295000.0,No,Howth,Dublin 13,q1,30%
+19/09/2019,"1 East Pier, Howth, Dublin",Dublin,133389.0,No,Howth,Dublin 13,q1,10%
+20/09/2019,"2 Crosstrees, Main St, Howth",Dublin,460000.0,No,Howth,Dublin 13,q2,50%
+20/09/2019,"Inglewood, 174 Howth Rd, Killester Dublin 3",Dublin,1730000.0,No,Howth,Dublin 13,q4,100%
+01/10/2019,"18 Venetian Hall, Howth Rd, Dublin 5",Dublin,313000.0,No,Howth,Dublin 13,q2,30%
+04/10/2019,"194 Howth Rd, Killester, Dublin 3",Dublin,627000.0,No,Howth,Dublin 13,q3,70%
+10/10/2019,"322 Howth Rd, Raheny, Dublin 5",Dublin,511000.0,No,Howth,Dublin 13,q3,60%
+15/10/2019,"38 Woodcliff Heights, Howth, Dublin",Dublin,885000.0,No,Howth,Dublin 13,q4,90%
+21/10/2019,"19 Asgard Rd, Howth, Dublin",Dublin,924000.0,No,Howth,Dublin 13,q4,90%

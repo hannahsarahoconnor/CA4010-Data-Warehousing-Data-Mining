@@ -1,0 +1,222 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/01/2010,"74 Oak Road, Donnycarney, Dublin 9",Dublin,310000.0,No,Donnycarney,Dublin 9,q3,80%
+12/01/2010,"25 Belton Park Road, Donnycarney",Dublin,222500.0,No,Donnycarney,Dublin 9,q2,40%
+04/02/2010,"10 Belton Park Gardens, Donnycarney",Dublin,315000.0,No,Donnycarney,Dublin 9,q3,80%
+19/02/2010,"109 Clanranald Road, Donnycarney, Dublin 5",Dublin,250000.0,No,Donnycarney,Dublin 9,q2,50%
+23/03/2010,"75 Collins Avenue West, Donnycarney",Dublin,291000.0,No,Donnycarney,Dublin 9,q3,70%
+25/03/2010,"24  Clanree Road, Donnycarney",Dublin,182000.0,No,Donnycarney,Dublin 9,q1,20%
+30/03/2010,"39 Clanmahon Road, Donnycarney, Dublin 5",Dublin,196750.0,No,Donnycarney,Dublin 9,q2,30%
+13/04/2010,"21 Clanhugh Road, Donnycarney, Dublin",Dublin,195000.0,No,Donnycarney,Dublin 9,q2,30%
+26/04/2010,"32 Clanmaurice Road, Donnycarney, Dublin",Dublin,180000.0,No,Donnycarney,Dublin 9,q1,20%
+05/05/2010,"28 Clanboy Road, Donnycarney, Dublin 5",Dublin,287000.0,No,Donnycarney,Dublin 9,q3,60%
+22/06/2010,"16 Belton Park Avenue, Donnycarney, Dublin",Dublin,312000.0,No,Donnycarney,Dublin 9,q3,80%
+15/07/2010,"40 Clanree Road, Donnycarney",Dublin,187000.0,No,Donnycarney,Dublin 9,q1,30%
+05/08/2010,"11 Clanree Road, Donnycarney, Dublin 5",Dublin,273000.0,No,Donnycarney,Dublin 9,q3,60%
+12/08/2010,"76A Elm Road, Donnycarney",Dublin,176116.0,Yes,Donnycarney,Dublin 9,q1,20%
+02/09/2010,"23  Clanree Road, Donnycarney",Dublin,330000.0,No,Donnycarney,Dublin 9,q4,80%
+03/11/2010,"26 Clanboy Road, Donnycarney",Dublin,265000.0,No,Donnycarney,Dublin 9,q2,50%
+25/01/2011,"130 Collins Avenue East, Donnycarney",Dublin,210000.0,No,Donnycarney,Dublin 9,q2,40%
+11/02/2011,"3 Belton Park Road, Donnycarney, Dublin 9",Dublin,300000.0,No,Donnycarney,Dublin 9,q3,70%
+15/04/2011,"24 Clanmaurice Road, Donnycarney",Dublin,170000.0,No,Donnycarney,Dublin 9,q1,20%
+27/05/2011,"1 Clanmahon Road, Donnycarney, Dublin 5",Dublin,240000.0,No,Donnycarney,Dublin 9,q2,40%
+18/08/2011,"19 Holly Road, Donnycarney, Dublin",Dublin,140000.0,No,Donnycarney,Dublin 9,q1,10%
+18/08/2011,"32 Clandonagh Road, Donnycarney",Dublin,200000.0,No,Donnycarney,Dublin 9,q2,30%
+27/09/2011,"19 Oak Road, Donnycarney",Dublin,120000.0,No,Donnycarney,Dublin 9,q1,10%
+12/10/2011,"47 Clandonagh Road, Donnycarney",Dublin,198000.0,No,Donnycarney,Dublin 9,q2,30%
+25/10/2011,"49 Clanranald Road, Donnycarney",Dublin,142000.0,No,Donnycarney,Dublin 9,q1,10%
+27/10/2011,"42 Clancarty Road, Donnycarney",Dublin,135000.0,No,Donnycarney,Dublin 9,q1,10%
+04/11/2011,"40 Belton Park Road, Donnycarney, Dublin 9",Dublin,202000.0,No,Donnycarney,Dublin 9,q2,30%
+11/11/2011,"89 Clanmaurice Road, Donnycarney, Dublin 5",Dublin,145000.0,No,Donnycarney,Dublin 9,q1,10%
+23/11/2011,"13 Elm Road, Donnycarney",Dublin,115000.0,No,Donnycarney,Dublin 9,q1,10%
+23/11/2011,"7 Elm Road, Donnycarney, Dublin 9",Dublin,150000.0,No,Donnycarney,Dublin 9,q1,10%
+25/11/2011,"5 Clanmaurice Road, Donnycarney",Dublin,135000.0,No,Donnycarney,Dublin 9,q1,10%
+13/12/2011,"222 Collins Avenue East, Donnycarney",Dublin,140000.0,No,Donnycarney,Dublin 9,q1,10%
+14/12/2011,"60 Cloncarthy Road, Donnycarney",Dublin,180000.0,No,Donnycarney,Dublin 9,q1,20%
+23/12/2011,"3 Clanree Road, Donnycarney",Dublin,152000.0,No,Donnycarney,Dublin 9,q1,20%
+12/01/2012,"41 Elm Road, Donnycarney",Dublin,129000.0,No,Donnycarney,Dublin 9,q1,10%
+14/02/2012,"43 Belton Park Road, Donnycarney",Dublin,185000.0,No,Donnycarney,Dublin 9,q1,30%
+02/03/2012,"35 Clanmoyle Road, Donnycarney",Dublin,215000.0,No,Donnycarney,Dublin 9,q2,40%
+07/03/2012,"10 Elm Road, Donnycarney",Dublin,156000.0,No,Donnycarney,Dublin 9,q1,20%
+22/03/2012,"37 Clanhugh Road, Donnycarney",Dublin,155000.0,No,Donnycarney,Dublin 9,q1,20%
+04/05/2012,"116 Collins Avenue East, Donnycarney, Dublin 5",Dublin,137750.0,No,Donnycarney,Dublin 9,q1,10%
+17/05/2012,"43 Belton Park Gardens, Donnycarney",Dublin,180000.0,No,Donnycarney,Dublin 9,q1,20%
+08/06/2012,"33 Belton Avenue, Donnycarney, Dublin 9",Dublin,165000.0,No,Donnycarney,Dublin 9,q1,20%
+30/08/2012,"52 Oak Road, Donnycarney",Dublin,148000.0,No,Donnycarney,Dublin 9,q1,10%
+05/09/2012,"47 Clanhugh Road, Donnycarney",Dublin,118000.0,No,Donnycarney,Dublin 9,q1,10%
+05/09/2012,"53 Clancarthy Road, Donnycarney",Dublin,127000.0,No,Donnycarney,Dublin 9,q1,10%
+23/10/2012,"51 Oak Road, Donnycarney",Dublin,115000.0,No,Donnycarney,Dublin 9,q1,10%
+02/11/2012,"234 Collins Ave, Donnycarney",Dublin,166000.0,No,Donnycarney,Dublin 9,q1,20%
+08/11/2012,"54 Hazel Road, Donnycarney",Dublin,177500.0,No,Donnycarney,Dublin 9,q1,20%
+21/11/2012,"1 Clanranald Road, Donnycarney, Dublin 5",Dublin,110000.0,No,Donnycarney,Dublin 9,q1,10%
+05/12/2012,"42 Clanranald Road, Donnycarney",Dublin,171000.0,No,Donnycarney,Dublin 9,q1,20%
+10/12/2012,"76 Elm Road, Donnycarney, Dublin 9",Dublin,137000.0,No,Donnycarney,Dublin 9,q1,10%
+18/12/2012,"35 Belton Park Gardens, Donnycarney, Dublin 5",Dublin,201000.0,No,Donnycarney,Dublin 9,q2,30%
+20/12/2012,"52 Collins Avenue West, Donnycarney, Dublin 9",Dublin,100000.0,No,Donnycarney,Dublin 9,q1,10%
+21/12/2012,"64 Clanree Road, Donnycarney",Dublin,184000.0,No,Donnycarney,Dublin 9,q1,20%
+18/01/2013,"79 Clanranald Road, Donnycarney, Dublin 5",Dublin,164000.0,No,Donnycarney,Dublin 9,q1,20%
+23/01/2013,"60 Clanree Road, Donnycarney",Dublin,90000.0,No,Donnycarney,Dublin 9,q1,10%
+03/04/2013,"40 Donnycarney Road, Donnycarney",Dublin,154000.0,No,Donnycarney,Dublin 9,q1,20%
+26/04/2013,"44 Clanranald Road, Donnycarney",Dublin,220000.0,No,Donnycarney,Dublin 9,q2,40%
+21/06/2013,"107 Clanranald Road, Donnycarney, Dublin 5",Dublin,218000.0,No,Donnycarney,Dublin 9,q2,40%
+24/06/2013,"30 Elm Road, Donnycarney",Dublin,195000.0,No,Donnycarney,Dublin 9,q2,30%
+16/07/2013,"34 Elm Road, Donnycarney",Dublin,190000.0,No,Donnycarney,Dublin 9,q1,30%
+18/07/2013,"32 Clanranald Road, Donnycarney, Dublin 5",Dublin,140000.0,No,Donnycarney,Dublin 9,q1,10%
+01/08/2013,"46 Clanree Road, Donnycarney",Dublin,190000.0,No,Donnycarney,Dublin 9,q1,30%
+12/08/2013,"86 Collins Avenue East, Donnycarney",Dublin,135000.0,No,Donnycarney,Dublin 9,q1,10%
+22/08/2013,"89 Donnycarney Road, Dublin 9",Dublin,146500.0,No,Donnycarney,Dublin 9,q1,10%
+04/09/2013,"36 Holly Road, Donnycarney, Dublin",Dublin,180000.0,No,Donnycarney,Dublin 9,q1,20%
+11/09/2013,"85 Clanmaurice Road, Donnycarney",Dublin,165000.0,No,Donnycarney,Dublin 9,q1,20%
+25/09/2013,"53 Collins Avenue West, Donnycarney",Dublin,200000.0,No,Donnycarney,Dublin 9,q2,30%
+30/09/2013,"39 Clanranald Road, Donnycarney",Dublin,190000.0,No,Donnycarney,Dublin 9,q1,30%
+02/10/2013,"118 Clanranald Road, Donnycarney, Dublin",Dublin,150000.0,No,Donnycarney,Dublin 9,q1,20%
+18/10/2013,"22 Clancarthy Road, Donnycarney, Dublin",Dublin,185000.0,No,Donnycarney,Dublin 9,q1,30%
+18/10/2013,"49 Hazel Road, Donnycarney, Dublin 9",Dublin,191000.0,No,Donnycarney,Dublin 9,q1,30%
+25/10/2013,"32 Clanmaurice Road, Donnycarney",Dublin,180000.0,No,Donnycarney,Dublin 9,q1,20%
+06/11/2013,"13 Belton Park Villas, Donnycarney",Dublin,215000.0,No,Donnycarney,Dublin 9,q2,40%
+14/11/2013,"70 Clanranald Road, Donnycarney, Dublin 5",Dublin,225000.0,No,Donnycarney,Dublin 9,q2,40%
+27/02/2014,"14 Clanmaurice Rd, Donnycarney, Dublin 5",Dublin,208000.0,No,Donnycarney,Dublin 9,q2,40%
+21/03/2014,"9 Clanhugh Road, Donnycarney",Dublin,186000.0,No,Donnycarney,Dublin 9,q1,30%
+25/03/2014,"44 Clanmahon Rd Donnycarney, Dublin 5, Dublin",Dublin,157600.0,No,Donnycarney,Dublin 9,q1,20%
+02/04/2014,"51 Collins Avenue West, Donnycarney",Dublin,218000.0,No,Donnycarney,Dublin 9,q2,40%
+03/04/2014,"33 Clancarthy Rd, Donnycarney, Dublin 5",Dublin,206000.0,No,Donnycarney,Dublin 9,q2,40%
+11/04/2014,"4 Oak Road, Donnycarney",Dublin,195000.0,No,Donnycarney,Dublin 9,q2,30%
+17/04/2014,"31 Clanranald Rd Donnycarney, Dublin 5, Dublin",Dublin,190000.0,No,Donnycarney,Dublin 9,q1,30%
+02/05/2014,"112 Collins Ave East, Donnycarney, Dublin 5",Dublin,211000.0,No,Donnycarney,Dublin 9,q2,40%
+20/05/2014,"2 Clandonagh Road, Donnycarney, Dublin 5",Dublin,200000.0,No,Donnycarney,Dublin 9,q2,30%
+23/05/2014,"35 Holly Rd, Donnycarney, Dublin",Dublin,228000.0,No,Donnycarney,Dublin 9,q2,40%
+05/06/2014,"61 Oak Road, Donnycarney, Dublin 5",Dublin,292000.0,No,Donnycarney,Dublin 9,q3,70%
+26/06/2014,"2 Hazel Rd, Donnycarney, Dublin 9",Dublin,237500.0,No,Donnycarney,Dublin 9,q2,40%
+30/06/2014,"71 Clanranald Rd, Donnycarney, Dublin 5",Dublin,264500.0,No,Donnycarney,Dublin 9,q2,50%
+01/07/2014,"31 Clancarthy Rd, Donnycarney, Dublin 5",Dublin,228000.0,No,Donnycarney,Dublin 9,q2,40%
+04/07/2014,"21 Clanawley Rd, Donnycarney, Dublin 5",Dublin,240500.0,No,Donnycarney,Dublin 9,q2,50%
+15/07/2014,"14 Elm Road, Donnycarney",Dublin,187300.0,No,Donnycarney,Dublin 9,q1,30%
+21/07/2014,"23 Elm Rd, Donnycarney, Dublin 5",Dublin,278000.0,No,Donnycarney,Dublin 9,q3,60%
+30/07/2014,"57 Clanranald Rd, Donnycarney, Dublin 5",Dublin,190000.0,No,Donnycarney,Dublin 9,q1,30%
+12/09/2014,"79 Donnycarney Rd, Donnycarney, Dublin 9",Dublin,338500.0,No,Donnycarney,Dublin 9,q4,90%
+08/10/2014,"4 Collins Park, Donnycarney, Dublin 9",Dublin,360000.0,No,Donnycarney,Dublin 9,q4,90%
+16/10/2014,"17 Belton Park Ave, Donnycarney, Dublin 9",Dublin,282500.0,No,Donnycarney,Dublin 9,q3,60%
+28/11/2014,"39 Clandonagh Rd, Donnycarney, Dublin 5",Dublin,240000.0,No,Donnycarney,Dublin 9,q2,40%
+02/12/2014,"63 Oak Rd, Donnycarney, Dublin 9",Dublin,293000.0,No,Donnycarney,Dublin 9,q3,70%
+08/12/2014,"52 Clanmahon Rd, Donnycarney, Dublin 5",Dublin,296000.0,No,Donnycarney,Dublin 9,q3,70%
+07/01/2015,"44 Donnycarney Road, Donnycarney, Dublin 9",Dublin,308511.1,No,Donnycarney,Dublin 9,q3,70%
+25/02/2015,"18 Collins Ave, Donnycarney, Dublin 9",Dublin,258000.0,No,Donnycarney,Dublin 9,q2,50%
+06/03/2015,"31 Clandonagh Road, Donnycarney, Dublin 5",Dublin,278000.0,No,Donnycarney,Dublin 9,q3,60%
+27/03/2015,"30 Belton Park Avenue, Donnycarney, Dublin 9",Dublin,323000.0,No,Donnycarney,Dublin 9,q4,80%
+02/04/2015,"4 Donnycarney Rd, Donnycarney, Dublin 5",Dublin,260000.0,No,Donnycarney,Dublin 9,q2,50%
+15/04/2015,"40 Oak Rd, Donnycarney, Dublin 9",Dublin,342500.0,No,Donnycarney,Dublin 9,q4,90%
+14/05/2015,"44 Clanree Rd, Donnycarney, Dublin 5",Dublin,265000.0,No,Donnycarney,Dublin 9,q2,50%
+21/05/2015,"7 Elm Rd, Donnycarney, Dublin 9",Dublin,275000.0,No,Donnycarney,Dublin 9,q3,60%
+22/05/2015,"60 Clanree Rd, Donnycarney, Dublin 5",Dublin,285000.0,No,Donnycarney,Dublin 9,q3,60%
+15/07/2015,"42 Clancarthy Rd, Donnycarney, Dublin 5",Dublin,280000.0,No,Donnycarney,Dublin 9,q3,60%
+06/08/2015,"47 Clanhugh Rd, Donnycarney, Dublin City",Dublin,262000.0,No,Donnycarney,Dublin 9,q2,50%
+14/08/2015,"47 Clanmaurice Rd, Donnycarney, Dublin 5",Dublin,265000.0,No,Donnycarney,Dublin 9,q2,50%
+02/09/2015,"14 Collins Park, Donnycarney, Dublin 9",Dublin,331000.0,No,Donnycarney,Dublin 9,q4,80%
+04/09/2015,"53 Belton Park Road, Donnycarney, Dublin 9",Dublin,300000.0,No,Donnycarney,Dublin 9,q3,70%
+04/09/2015,"58 Clanhugh Road, Donnycarney, Dublin 5",Dublin,243500.0,No,Donnycarney,Dublin 9,q2,50%
+07/09/2015,"7 Collins Park, Donnycarney, Dublin 9",Dublin,396000.0,No,Donnycarney,Dublin 9,q4,100%
+08/09/2015,"51 Clanmahon Rd, Donnycarney, Dublin 5",Dublin,249500.0,No,Donnycarney,Dublin 9,q2,50%
+02/10/2015,"71 Clanranald Rd, Donnycarney, Dublin 5",Dublin,279000.0,No,Donnycarney,Dublin 9,q3,60%
+07/10/2015,"11 Donnycarney Rd, Donnycarney, Dublin 9",Dublin,252000.0,No,Donnycarney,Dublin 9,q2,50%
+12/10/2015,"248 Collins Ave East, Donnycarney, Dublin 5",Dublin,140000.0,No,Donnycarney,Dublin 9,q1,10%
+29/10/2015,"1 Clanawley Road, Donnycarney, Dublin 5",Dublin,203250.0,No,Donnycarney,Dublin 9,q2,30%
+29/10/2015,"6 Clanree Rd, Donnycarney, Dublin 5",Dublin,292000.0,No,Donnycarney,Dublin 9,q3,70%
+27/11/2015,"17 Belton Park Gardens, Donnycarney, Dublin 9",Dublin,295000.0,No,Donnycarney,Dublin 9,q3,70%
+02/12/2015,"61 Clanmaurice Road, Donnycarney",Dublin,235000.0,No,Donnycarney,Dublin 9,q2,40%
+11/12/2015,"17 Clanmaurice Rd, Donnycarney, Dublin 5",Dublin,281500.0,No,Donnycarney,Dublin 9,q3,60%
+11/12/2015,"44A Donnycarney Road, Donnycarney, Dublin 9",Dublin,267500.0,No,Donnycarney,Dublin 9,q2,50%
+18/12/2015,"19 Clancarthy Rd Donnycarney, Dublin 5, Dublin",Dublin,290000.0,No,Donnycarney,Dublin 9,q3,60%
+18/12/2015,"68 Hazel Rd, Donnycarney, Dublin 9",Dublin,226000.0,No,Donnycarney,Dublin 9,q2,40%
+23/12/2015,"57 Hazel Road, Donnycarney, Dublin 5",Dublin,225000.0,No,Donnycarney,Dublin 9,q2,40%
+04/01/2016,"28 Belton Park Gardens, Donnycarney, Dublin",Dublin,310000.0,No,Donnycarney,Dublin 9,q3,80%
+11/01/2016,"7 Donnycarney Rd, Dublin 9, Dublin",Dublin,315000.0,No,Donnycarney,Dublin 9,q3,80%
+22/01/2016,"127 Collins Ave East, Donnycarney, Dublin 5",Dublin,317000.0,No,Donnycarney,Dublin 9,q3,80%
+28/01/2016,"24 Belton Park Ave, Donnycarney, Dublin 9",Dublin,335000.0,No,Donnycarney,Dublin 9,q4,80%
+23/02/2016,"17 Collins Avenue West, Donnycarney",Dublin,230000.0,No,Donnycarney,Dublin 9,q2,40%
+29/02/2016,"44 Donnycarney Road, Donnycarney, Dublin 9",Dublin,248000.0,No,Donnycarney,Dublin 9,q2,50%
+01/04/2016,"21 Clanranald Rd, Donnycarney, Dublin 5",Dublin,295000.0,No,Donnycarney,Dublin 9,q3,70%
+29/04/2016,"34 Clanhugh Rd, Donnycarney, Dublin 5",Dublin,250000.0,No,Donnycarney,Dublin 9,q2,50%
+10/05/2016,"35 Belton Park Rd, Donnycarney, Dublin 9",Dublin,358000.0,No,Donnycarney,Dublin 9,q4,90%
+24/05/2016,"43 Belton Park Ave, Donnycarney, Dublin 9",Dublin,358000.0,No,Donnycarney,Dublin 9,q4,90%
+24/05/2016,"6 Clanhugh Road, Donnycarney, Dublin 5",Dublin,245000.0,No,Donnycarney,Dublin 9,q2,50%
+25/07/2016,"51 Clandonagh Rd, Donnycarney, Dublin 3",Dublin,205000.0,No,Donnycarney,Dublin 9,q2,40%
+28/07/2016,"8 Belton Park Villas, Donnycarney, Dublin 9",Dublin,335000.0,No,Donnycarney,Dublin 9,q4,80%
+04/08/2016,"246 Collins Ave East, Donnycarney, Dublin 5",Dublin,293000.0,No,Donnycarney,Dublin 9,q3,70%
+12/08/2016,"58 Elm Rd, Donnycarney, Dublin 9",Dublin,150000.0,No,Donnycarney,Dublin 9,q1,20%
+02/09/2016,"18 Clanhugh Rd, Donnycarney, Dublin 5",Dublin,267500.0,No,Donnycarney,Dublin 9,q3,60%
+02/09/2016,"26 Oak Rd, Donnycarney, Dublin 9",Dublin,250000.0,No,Donnycarney,Dublin 9,q2,50%
+21/09/2016,"49 Clanhugh Rd, Donnycarney, Dublin 5",Dublin,306000.0,No,Donnycarney,Dublin 9,q3,70%
+28/09/2016,"55 Hazel Road, Donnycarney, Dublin 9",Dublin,266000.0,No,Donnycarney,Dublin 9,q2,50%
+21/10/2016,"18 Holly Rd, Donnycarney, Dublin 9",Dublin,260000.0,No,Donnycarney,Dublin 9,q2,50%
+16/11/2016,"28 Holly Rd, Donnycarney, Dublin 9",Dublin,290000.0,No,Donnycarney,Dublin 9,q3,60%
+30/11/2016,"46 Clanree Rd, Donnycarney, Dublin 5",Dublin,290000.0,No,Donnycarney,Dublin 9,q3,60%
+01/12/2016,"47 Collins Ave West, Donnycarney, Dublin 9",Dublin,285000.0,No,Donnycarney,Dublin 9,q3,60%
+02/12/2016,"14 Elm Road, Donnycarney, Dublin 5",Dublin,245000.0,No,Donnycarney,Dublin 9,q2,50%
+15/12/2016,"31B Donnycarney Rd, Donnycarney, Dublin 5",Dublin,346500.0,No,Donnycarney,Dublin 9,q4,90%
+20/12/2016,"80 Clancarthy Rd, Donnycarney, Dublin 5",Dublin,204900.0,No,Donnycarney,Dublin 9,q2,40%
+20/01/2017,"182 Killester Ave, Donnycarney, Dublin 5",Dublin,280000.0,No,Donnycarney,Dublin 9,q3,60%
+20/01/2017,"248 Collins Ave East, Donnycarney, Dublin 5",Dublin,280000.0,No,Donnycarney,Dublin 9,q3,60%
+20/01/2017,"50 Clanawley Rd, Donnycarney, Dublin 5",Dublin,283000.0,No,Donnycarney,Dublin 9,q3,60%
+07/02/2017,"53 Elm Rd, Donnycarney, Dublin 9",Dublin,305000.0,No,Donnycarney,Dublin 9,q3,70%
+24/02/2017,"22 Oak Road, Donnycarney, Dublin 9",Dublin,280000.0,No,Donnycarney,Dublin 9,q3,60%
+28/02/2017,"103 Celtic Park Ave, Donnycarney, Dublin 9",Dublin,395000.0,No,Donnycarney,Dublin 9,q4,100%
+09/03/2017,"66 Clanree Rd Donnycarney, Dublin 5, Dublin",Dublin,285000.0,No,Donnycarney,Dublin 9,q3,60%
+15/03/2017,"63 Hazel Rd, Donnycarney, Dublin 9",Dublin,308000.0,No,Donnycarney,Dublin 9,q3,70%
+24/03/2017,"39 Holly Rd, Donnycarney, Dublin 9",Dublin,295000.0,No,Donnycarney,Dublin 9,q3,70%
+19/04/2017,"222 Collins Ave East, Donnycarney, Dublin 5",Dublin,315000.0,No,Donnycarney,Dublin 9,q3,80%
+25/04/2017,"45 Belton Park Rd, Donnycarney, Dublin 9",Dublin,345000.0,No,Donnycarney,Dublin 9,q4,90%
+14/07/2017,"25 Clanranald Rd, Donnycarney, Dublin 5",Dublin,276000.0,No,Donnycarney,Dublin 9,q3,60%
+19/07/2017,"52 Oak Rd, Donnycarney, Dublin 9",Dublin,328000.0,No,Donnycarney,Dublin 9,q4,80%
+24/07/2017,"86 Clanronald Road, Donnycarney, Dublin 5",Dublin,310000.0,No,Donnycarney,Dublin 9,q3,80%
+28/07/2017,"35 Clanhugh Rd, Donnycarney, Dublin 5",Dublin,295000.0,No,Donnycarney,Dublin 9,q3,70%
+02/08/2017,"13 Clanranald Rd, Donnycarney, Dublin 5",Dublin,326000.0,No,Donnycarney,Dublin 9,q4,80%
+08/08/2017,"37 Clancarthy Rd, Donnycarney, Dublin 5",Dublin,297500.0,No,Donnycarney,Dublin 9,q3,70%
+31/08/2017,"3 Clanronald Road, Donnycarney, Dublin 5",Dublin,372000.0,No,Donnycarney,Dublin 9,q4,100%
+07/09/2017,"38 Belton Park Rd, Donnycarney, Dublin 9",Dublin,409000.0,No,Donnycarney,Dublin 9,q4,100%
+13/09/2017,"12 Belton Park Villas, Donnycarney, Dublin 9",Dublin,343500.0,No,Donnycarney,Dublin 9,q4,90%
+15/09/2017,"35 Belton Park Gardens, Donnycarney, Dublin 5",Dublin,412000.0,No,Donnycarney,Dublin 9,q4,100%
+06/10/2017,"35 Clanree Rd, Donnycarney, Dublin 9",Dublin,355000.0,No,Donnycarney,Dublin 9,q4,90%
+09/10/2017,"98 Clanranald Rd, Donnycarney, Dublin 5",Dublin,336000.0,No,Donnycarney,Dublin 9,q4,90%
+19/10/2017,"49 Clancarthy Rd, Donnycarney, Dublin 5",Dublin,359000.0,No,Donnycarney,Dublin 9,q4,90%
+19/10/2017,"6 Clancarthy Rd, Donnycarney, Dublin 5",Dublin,250000.0,No,Donnycarney,Dublin 9,q2,50%
+27/10/2017,"116 Clanranald Rd, Donnycarney, Dublin",Dublin,300000.0,No,Donnycarney,Dublin 9,q3,70%
+13/11/2017,"62 Clanranald Rd, Donnycarney, Dublin 5",Dublin,375000.0,No,Donnycarney,Dublin 9,q4,100%
+16/11/2017,"32 Collins Ave West, Donnycarney, Dublin 9",Dublin,261000.0,No,Donnycarney,Dublin 9,q2,50%
+17/11/2017,"10 Clanboy Rd, Donnycarney, Dublin 5",Dublin,350000.0,No,Donnycarney,Dublin 9,q4,90%
+22/01/2018,"2 Belton Park Ave, Donnycarney, Dublin 9",Dublin,452000.0,No,Donnycarney,Dublin 9,q4,100%
+12/02/2018,"13 Donnycarney Rd, Donnycarney, Dublin 9",Dublin,440000.0,No,Donnycarney,Dublin 9,q4,100%
+23/03/2018,"119 Clanranald Rd, Donnycarney, Dublin 5",Dublin,355000.0,No,Donnycarney,Dublin 9,q4,90%
+24/04/2018,"6 Oak Rd, Donnycarney, Dublin 9",Dublin,355000.0,No,Donnycarney,Dublin 9,q4,90%
+16/05/2018,"159 Collins Park, Donnycarney, Dublin 9",Dublin,375000.0,No,Donnycarney,Dublin 9,q4,100%
+17/05/2018,"22 Belton Park Ave, Donnycarney, Dublin 9",Dublin,438000.0,No,Donnycarney,Dublin 9,q4,100%
+25/05/2018,"6 Clanboy Rd, Donnycarney, Dublin 5",Dublin,341500.0,No,Donnycarney,Dublin 9,q4,90%
+01/06/2018,"41 Holly Rd, Donnycarney, Dublin 9",Dublin,350000.0,No,Donnycarney,Dublin 9,q4,90%
+07/06/2018,"13 Clanhugh Rd, Donnycarney, Dublin 5",Dublin,360500.0,No,Donnycarney,Dublin 9,q4,90%
+03/07/2018,"74 Clanmaurice Rd, Donnycarney, Dublin 5",Dublin,320000.0,No,Donnycarney,Dublin 9,q3,80%
+12/07/2018,"51 Clandonagh Rd, Donnycarney, Dublin 3",Dublin,365000.0,No,Donnycarney,Dublin 9,q4,90%
+25/07/2018,"103 Celtic Park Ave, Donnycarney, Dublin 9",Dublin,435000.0,No,Donnycarney,Dublin 9,q4,100%
+22/08/2018,"9 Clancarthy Rd, Donnycarney, Dublin 5",Dublin,285000.0,No,Donnycarney,Dublin 9,q3,60%
+31/08/2018,"27 Elm Rd, Donnycarney, Dublin 5",Dublin,366000.0,No,Donnycarney,Dublin 9,q4,90%
+03/09/2018,"1 Hazel Rd, Donnycarney, Dublin 9",Dublin,340000.0,No,Donnycarney,Dublin 9,q4,90%
+31/10/2018,"25 Collins Ave West, Donnycarney, Dublin 9",Dublin,299999.0,No,Donnycarney,Dublin 9,q3,70%
+02/11/2018,"9 Collins Park, Donnycarney, Dublin 9",Dublin,395000.0,No,Donnycarney,Dublin 9,q4,100%
+06/11/2018,"124 Collins Ave East, Donnycarney, Dublin 5",Dublin,375000.0,No,Donnycarney,Dublin 9,q4,100%
+23/11/2018,"7 Elm Rd, Donnycarney, Dublin 9",Dublin,382000.0,No,Donnycarney,Dublin 9,q4,100%
+14/02/2019,"58 Elm Rd, Donnycarney, Dublin 9",Dublin,380000.0,No,Donnycarney,Dublin 9,q4,100%
+22/02/2019,"53 Collins Ave, Donnycarney, Dublin 9",Dublin,295000.0,No,Donnycarney,Dublin 9,q3,70%
+04/03/2019,"25 Elm Rd, Donnycarney, Dublin 9",Dublin,335000.0,No,Donnycarney,Dublin 9,q4,80%
+15/03/2019,"38 Holly Rd, Donnycarney, Dublin 9",Dublin,322000.0,No,Donnycarney,Dublin 9,q4,80%
+09/04/2019,"37 Elm Rd, Donnycarney, Dublin 9",Dublin,290000.0,No,Donnycarney,Dublin 9,q3,70%
+02/05/2019,"214 Collins Ave East, Donnycarney, Dublin 3",Dublin,320000.0,No,Donnycarney,Dublin 9,q3,80%
+16/05/2019,"12 Clanboy Rd, Donnycarney, Dublin 5",Dublin,340000.0,No,Donnycarney,Dublin 9,q4,90%
+17/05/2019,"84 Elm Rd, Donnycarney, Dublin 9",Dublin,400000.0,No,Donnycarney,Dublin 9,q4,100%
+21/06/2019,"14 Belton Park Rd, Donnycarney, Dublin 9",Dublin,440000.0,No,Donnycarney,Dublin 9,q4,100%
+26/06/2019,"16 Clanboy Rd, Donnycarney, Dublin",Dublin,330000.0,No,Donnycarney,Dublin 9,q4,80%
+02/07/2019,"56 Oak Rd, Donnycarney, Dublin 9",Dublin,386000.0,No,Donnycarney,Dublin 9,q4,100%
+12/07/2019,"26 Collins Ave, Donnycarney, Dublin 9",Dublin,385000.0,No,Donnycarney,Dublin 9,q4,100%
+24/07/2019,"54 Collins Ave East, Donnycarney, Dublin 5",Dublin,328000.0,No,Donnycarney,Dublin 9,q4,80%
+26/07/2019,"25 Belton Park Rd, Donnycarney, Dublin 9",Dublin,386000.0,No,Donnycarney,Dublin 9,q4,100%
+26/07/2019,"36 Clanree Rd, Donnycarney Dublin 5, Dublin 5",Dublin,290000.0,No,Donnycarney,Dublin 9,q3,70%
+16/08/2019,"73 Clanmaurice Rd, Donnycarney, Dublin 5",Dublin,320000.0,No,Donnycarney,Dublin 9,q3,80%
+28/08/2019,"56 Hazel Rd, Donnycarney, Dublin 9",Dublin,378000.0,No,Donnycarney,Dublin 9,q4,100%
+04/09/2019,"76A Elm Rd, Donnycarney, Dublin",Dublin,427000.0,No,Donnycarney,Dublin 9,q4,100%
+09/09/2019,"8 Holly Rd, Donnycarney, Dublin 9",Dublin,335000.0,No,Donnycarney,Dublin 9,q4,90%

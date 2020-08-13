@@ -1,0 +1,640 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+22/01/2010,"2 Ballyroan Road, Templeogue",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+25/01/2010,"44 Templeogue Lodge, Templeogue",Dublin,350000.0,No,Templeogue,Dublin 6W,q1,20%
+12/02/2010,"9 The Court, Cypress Downs, Templeogue",Dublin,795000.0,No,Templeogue,Dublin 6W,q4,100%
+19/02/2010,"12 Willington Lawn, Templeogue, Dublin",Dublin,420500.0,No,Templeogue,Dublin 6W,q2,30%
+26/02/2010,"5 Orchardstown Park, Templeogue",Dublin,300000.0,No,Templeogue,Dublin 6W,q1,10%
+01/03/2010,"16 Woodbrook Park, Templeogue, Dublin 16",Dublin,390000.0,No,Templeogue,Dublin 6W,q1,30%
+08/03/2010,"54 Willington Cresent, Templeogue",Dublin,375000.0,No,Templeogue,Dublin 6W,q1,20%
+11/03/2010,"7 Cypress Lawn, Templeogue, Dublin 6W",Dublin,455000.0,No,Templeogue,Dublin 6W,q2,40%
+19/03/2010,"44 Templeville Drive, Templeogue",Dublin,580000.0,No,Templeogue,Dublin 6W,q3,80%
+01/04/2010,"13 Cypress Park, Templeogue, Dublin",Dublin,530000.0,No,Templeogue,Dublin 6W,q3,70%
+07/04/2010,"9 Templeville Avenue, Templeogue, Dublin 6W",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+09/04/2010,"42 The Avenue, Templeogue",Dublin,435000.0,No,Templeogue,Dublin 6W,q2,40%
+14/04/2010,"13 Templeville Road, Templeogue",Dublin,469000.0,No,Templeogue,Dublin 6W,q2,50%
+16/04/2010,"34 Osprey Park, Templeogue",Dublin,315000.0,No,Templeogue,Dublin 6W,q1,10%
+22/04/2010,"227 Orwell Park Heights, Templeogue, Dublin 6W",Dublin,337000.0,No,Templeogue,Dublin 6W,q1,10%
+12/05/2010,"33 Osprey Avenue, Templeogue",Dublin,499000.0,No,Templeogue,Dublin 6W,q3,60%
+14/05/2010,"18 Ballyroan Road, Templeogue",Dublin,525000.0,No,Templeogue,Dublin 6W,q3,60%
+19/05/2010,"81 Templeville Road, Templeogue, Dublin 6W",Dublin,485000.0,No,Templeogue,Dublin 6W,q2,50%
+11/06/2010,"White Gables, Old Bridge Road, Templeogue",Dublin,500000.0,No,Templeogue,Dublin 6W,q3,60%
+21/06/2010,"293 Orwell Park Grove, Templeogue",Dublin,545000.0,No,Templeogue,Dublin 6W,q3,70%
+30/06/2010,"67 Ballyroan Road, Templeogue",Dublin,430000.0,No,Templeogue,Dublin 6W,q2,40%
+01/07/2010,"10 Hillcrest Manor, Templeogue",Dublin,290000.0,No,Templeogue,Dublin 6W,q1,10%
+01/07/2010,"432 Orwell Park Green, Templeogue",Dublin,380000.0,No,Templeogue,Dublin 6W,q1,20%
+02/07/2010,"10 Ashfield Close, Templeogue",Dublin,590000.0,No,Templeogue,Dublin 6W,q4,80%
+08/07/2010,"129 Templeogue Wood, Templeogue",Dublin,485000.0,No,Templeogue,Dublin 6W,q2,50%
+15/07/2010,"226 Orwell Park Heights, Templeogue, Dublin 6W",Dublin,340000.0,No,Templeogue,Dublin 6W,q1,10%
+15/07/2010,"7 Willington Court, Templeogue, Dublin 6W",Dublin,356000.0,No,Templeogue,Dublin 6W,q1,20%
+19/07/2010,"31 Cypress Grove Road, Templeogue",Dublin,480000.0,No,Templeogue,Dublin 6W,q2,50%
+20/07/2010,"120 Templeogue Wood, Templeogue",Dublin,442500.0,No,Templeogue,Dublin 6W,q2,40%
+23/07/2010,"57 Kennington Road, Templeogue",Dublin,340000.0,No,Templeogue,Dublin 6W,q1,20%
+28/07/2010,"26 Orwell Park Rise, Templeogue",Dublin,364700.0,No,Templeogue,Dublin 6W,q1,20%
+03/08/2010,"333  Templeogue Road, .",Dublin,492500.0,No,Templeogue,Dublin 6W,q3,60%
+05/08/2010,"24 Ballyroan Park, Templeogue, Dublin 16",Dublin,357000.0,No,Templeogue,Dublin 6W,q1,20%
+06/08/2010,"14 Orlagh Crescent, Templeogue",Dublin,470000.0,No,Templeogue,Dublin 6W,q2,50%
+03/09/2010,"20 Kilvere Park, Templeogue",Dublin,325000.0,No,Templeogue,Dublin 6W,q1,10%
+14/09/2010,"6 Cedar Grove, Templeogue",Dublin,350000.0,Yes,Templeogue,Dublin 6W,q1,20%
+24/09/2010,"6 Osprey Avenue, Templeogue, Dublin 6W",Dublin,340000.0,No,Templeogue,Dublin 6W,q1,20%
+30/09/2010,"89 Orwell Park Rise, Templeogue",Dublin,315000.0,No,Templeogue,Dublin 6W,q1,10%
+01/10/2010,"179Templeville Road, Templeogue",Dublin,500000.0,No,Templeogue,Dublin 6W,q3,60%
+04/10/2010,"17 Wellington Grove, Templeogue",Dublin,245000.0,No,Templeogue,Dublin 6W,q1,10%
+15/10/2010,"83 Templeville Drive, Templeogue",Dublin,440000.0,No,Templeogue,Dublin 6W,q2,40%
+02/11/2010,"5 Kennington Lawn, Templeogue, Dublin 6W",Dublin,400000.0,No,Templeogue,Dublin 6W,q1,30%
+04/11/2010,"377 Orwell Park Crescent, Templeogue",Dublin,362500.0,No,Templeogue,Dublin 6W,q1,20%
+17/11/2010,"175 Templeville Road, Templeogue, Dublin 6W",Dublin,418500.0,No,Templeogue,Dublin 6W,q2,30%
+06/12/2010,"40  Cypress Grove South, Templeogue, Dublin 6W",Dublin,453000.0,No,Templeogue,Dublin 6W,q2,40%
+09/12/2010,"60 Templeville Road, Templeogue, Dublin",Dublin,470000.0,No,Templeogue,Dublin 6W,q2,50%
+13/12/2010,"37 Wellington Road, Templeogue",Dublin,300000.0,No,Templeogue,Dublin 6W,q1,10%
+15/12/2010,"73 Rossmore Lawns, Templeogue",Dublin,388500.0,No,Templeogue,Dublin 6W,q1,30%
+16/12/2010,"13 Templeville Park, Templeogue, Dublin 6W",Dublin,610000.0,No,Templeogue,Dublin 6W,q4,90%
+14/01/2011,"2 Willington Grove, Templeogue",Dublin,500000.0,No,Templeogue,Dublin 6W,q3,60%
+02/02/2011,"431 Orwell Park Green, Templeogue",Dublin,455000.0,No,Templeogue,Dublin 6W,q2,40%
+02/03/2011,"8 Ballyroan Road, Templeogue",Dublin,416000.0,No,Templeogue,Dublin 6W,q2,30%
+08/03/2011,"52 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,425000.0,No,Templeogue,Dublin 6W,q2,30%
+14/03/2011,"8 Kilvere Park, Cypress Downs, Templeogue",Dublin,410000.0,No,Templeogue,Dublin 6W,q1,30%
+21/03/2011,"3 Kennington Crescent, Templeogue",Dublin,385000.0,No,Templeogue,Dublin 6W,q1,20%
+25/03/2011,"176 Orwell Park View, Templeogue",Dublin,370000.0,No,Templeogue,Dublin 6W,q1,20%
+11/04/2011,"30 Ballyroan Rd, Templeogue",Dublin,300000.0,No,Templeogue,Dublin 6W,q1,10%
+27/05/2011,"16 Westbourne Lodge, Templeogue, Dublin 6W",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+31/05/2011,"15A Glendown Close, Templeogue, Dublin 6W",Dublin,200000.0,No,Templeogue,Dublin 6W,q1,10%
+06/06/2011,"34 Ballyroan, Templeogue, Dublin 16",Dublin,320000.0,No,Templeogue,Dublin 6W,q1,10%
+20/06/2011,"93 Templeville Road, Templeogue",Dublin,440000.0,No,Templeogue,Dublin 6W,q2,40%
+01/07/2011,"15 Delaford Park, Templeogue, Dublin 16",Dublin,290000.0,No,Templeogue,Dublin 6W,q1,10%
+01/07/2011,"5 Rossmore Avenue, Templeogue",Dublin,415000.0,No,Templeogue,Dublin 6W,q2,30%
+17/07/2011,"6 Rossmore Lawn, Templeogue, Dublin",Dublin,295000.0,No,Templeogue,Dublin 6W,q1,10%
+05/08/2011,"3 Domville Drive, Templeogue, Dublin 6W",Dublin,285000.0,No,Templeogue,Dublin 6W,q1,10%
+09/08/2011,"1 Fortrose Park, Templeogue",Dublin,530000.0,No,Templeogue,Dublin 6W,q3,70%
+18/08/2011,"8 The Avenue, Cypress Downs, Templeogue",Dublin,370000.0,No,Templeogue,Dublin 6W,q1,20%
+26/08/2011,"245 Templeogue Road, Templeogue",Dublin,966250.0,No,Templeogue,Dublin 6W,q4,100%
+02/09/2011,"20 Rossmore Crescent, Templeogue",Dublin,273000.0,No,Templeogue,Dublin 6W,q1,10%
+23/09/2011,"5 Wilderwood Grove, Templeogue",Dublin,352000.0,No,Templeogue,Dublin 6W,q1,20%
+30/09/2011,"1 Grosvenor Court, Templeogue",Dublin,440000.0,No,Templeogue,Dublin 6W,q2,40%
+19/10/2011,"5 Rossmore Crescent, Templeogue",Dublin,227000.0,No,Templeogue,Dublin 6W,q1,10%
+27/10/2011,"9 Willington Park, Templeogue",Dublin,275000.0,No,Templeogue,Dublin 6W,q1,10%
+28/10/2011,"513 Orwell Park Way, Templeogue",Dublin,300000.0,No,Templeogue,Dublin 6W,q1,10%
+04/11/2011,"1 Orwell Park Heights, Templeogue, Dublin 6W",Dublin,360000.0,No,Templeogue,Dublin 6W,q1,20%
+07/11/2011,"43 Wellington Park, Templeogue, Dublin 6W",Dublin,345000.0,No,Templeogue,Dublin 6W,q1,20%
+24/11/2011,"244 Templeogue Road, Dublin 6W",Dublin,350000.0,No,Templeogue,Dublin 6W,q1,20%
+25/11/2011,"18 Cypress Park, Templeogue, Dublin",Dublin,400000.0,No,Templeogue,Dublin 6W,q1,30%
+20/12/2011,"15A Glendown Close, Templeogue",Dublin,335000.0,No,Templeogue,Dublin 6W,q1,10%
+21/12/2011,"14 The Avenue, Cypress Downs, Templeogue",Dublin,375000.0,No,Templeogue,Dublin 6W,q1,20%
+21/12/2011,"16 Rossmore Park, Templeogue, Dublin 6W",Dublin,280000.0,No,Templeogue,Dublin 6W,q1,10%
+07/02/2012,"4 The Green, Cypress Downs, Templeogue",Dublin,569000.0,No,Templeogue,Dublin 6W,q3,80%
+02/03/2012,"53 Osprey Drive, Templeogue, Dublin 6W",Dublin,220000.0,No,Templeogue,Dublin 6W,q1,10%
+16/03/2012,"236/238, Templeogue Road, Templeogue",Dublin,230000.0,No,Templeogue,Dublin 6W,q1,10%
+27/03/2012,"1 The Manor, Cypress Downs, Templeogue",Dublin,515000.0,No,Templeogue,Dublin 6W,q3,60%
+27/03/2012,"46 Delaford Drive, Templeogue",Dublin,255000.0,No,Templeogue,Dublin 6W,q1,10%
+12/04/2012,"321 Orwell Park Glen, Templeogue",Dublin,380000.0,No,Templeogue,Dublin 6W,q1,20%
+19/04/2012,"33 Wainsfort Crescent, Templeogue, Dublin 6W",Dublin,285000.0,No,Templeogue,Dublin 6W,q1,10%
+27/04/2012,"14  Ballyroan Park, Templeogue",Dublin,385000.0,No,Templeogue,Dublin 6W,q1,30%
+30/04/2012,"52 Templeville Drive, Templeogue",Dublin,345000.0,No,Templeogue,Dublin 6W,q1,20%
+01/05/2012,"176A Orwell Park View, Templeogue, Dublin 6W",Dublin,367000.0,No,Templeogue,Dublin 6W,q1,20%
+04/05/2012,"1A Greenacre Court, Templeogue, Dublin 16",Dublin,389000.0,No,Templeogue,Dublin 6W,q1,30%
+04/05/2012,"22 Glendown Park, Templeogue",Dublin,385000.0,No,Templeogue,Dublin 6W,q1,30%
+23/05/2012,"16 Rossmore Avenue, Templeogue, Dublin",Dublin,356000.0,No,Templeogue,Dublin 6W,q1,20%
+25/05/2012,"30 Woodbrook Park, Templeogue",Dublin,478000.0,No,Templeogue,Dublin 6W,q2,50%
+30/05/2012,"46 Rossmore Lawns, Templeogue",Dublin,368000.0,No,Templeogue,Dublin 6W,q1,20%
+05/07/2012,"27 Anne Devlin Road, Templeogue",Dublin,330000.0,No,Templeogue,Dublin 6W,q1,10%
+16/07/2012,"127 Templeville Drive, Templeogue, Dublin 6W",Dublin,368000.0,No,Templeogue,Dublin 6W,q1,20%
+16/07/2012,"52 Cypress Grove Road, Templeogue, Dublin 6W",Dublin,340000.0,No,Templeogue,Dublin 6W,q1,20%
+18/07/2012,"7 The Heath, Cypress Downs  Templeogue",Dublin,322000.0,No,Templeogue,Dublin 6W,q1,10%
+27/07/2012,"12 Glendown Avenue, Templeogue",Dublin,395000.0,No,Templeogue,Dublin 6W,q1,30%
+31/07/2012,"51 Glendown Avenue, Templeogue",Dublin,430000.0,No,Templeogue,Dublin 6W,q2,40%
+31/07/2012,"8 Templeogue Lodge, Templeogue",Dublin,380000.0,No,Templeogue,Dublin 6W,q1,20%
+03/08/2012,"3 Willington Crescent, Templeogue",Dublin,254000.0,No,Templeogue,Dublin 6W,q1,10%
+22/08/2012,"204 Templeogue Road, Dublin 6W",Dublin,500000.0,No,Templeogue,Dublin 6W,q3,60%
+24/08/2012,"102 Ballyroan Road, Templeogue, Dublin 16",Dublin,315000.0,No,Templeogue,Dublin 6W,q1,10%
+28/08/2012,"135 Templeville Drive, Templeogue",Dublin,475000.0,No,Templeogue,Dublin 6W,q2,50%
+06/09/2012,"9 Templeogue Lodge, Templeogue, Dublin 6W",Dublin,285000.0,No,Templeogue,Dublin 6W,q1,10%
+02/10/2012,"11 Wilderwood Grove, Templeogue",Dublin,344500.0,No,Templeogue,Dublin 6W,q1,20%
+13/11/2012,"1 Rossmore Park, Templeogue",Dublin,505000.0,No,Templeogue,Dublin 6W,q3,60%
+14/11/2012,"7 Domville Road, Templeogue, Dublin 6W",Dublin,325000.0,No,Templeogue,Dublin 6W,q1,10%
+15/11/2012,"173 Orwell Park View, Templeogue",Dublin,321000.0,No,Templeogue,Dublin 6W,q1,10%
+27/11/2012,"40 Cypress Grove Road, Templeogue",Dublin,405000.0,No,Templeogue,Dublin 6W,q1,30%
+29/11/2012,"94 Templeville Drive, Templeogue",Dublin,380000.0,No,Templeogue,Dublin 6W,q1,20%
+12/12/2012,"26 Rossmore Crescent, Templeogue",Dublin,107460.0,No,Templeogue,Dublin 6W,q1,10%
+12/12/2012,"Templeogue House, Templeogue Road, Templeogue",Dublin,515495.0,No,Templeogue,Dublin 6W,q3,60%
+14/12/2012,"58 Rossmore Lawns, Templeogue",Dublin,306250.0,No,Templeogue,Dublin 6W,q1,10%
+18/12/2012,"17 The Court, Cypress Downs, Templeogue",Dublin,605000.0,No,Templeogue,Dublin 6W,q4,80%
+18/12/2012,"216 Orwell Park Heights, Templeogue, Dublin 6W",Dublin,317000.0,No,Templeogue,Dublin 6W,q1,10%
+19/12/2012,"346 Orwell Park Close, Templeogue",Dublin,395000.0,No,Templeogue,Dublin 6W,q1,30%
+21/12/2012,"1 Willington Park, Templeogue",Dublin,263000.0,No,Templeogue,Dublin 6W,q1,10%
+21/12/2012,"7 Cypress Drive, Templeogue",Dublin,435000.0,No,Templeogue,Dublin 6W,q2,40%
+28/01/2013,"18 Kilvere Park, Cypress Downs, Templeogue",Dublin,253000.0,No,Templeogue,Dublin 6W,q1,10%
+12/02/2013,"51  Osprey Drive, Templeogue",Dublin,303000.0,No,Templeogue,Dublin 6W,q1,10%
+15/02/2013,"2 Kilvere Park, Cypress Downs, Templeogue",Dublin,365000.0,No,Templeogue,Dublin 6W,q1,20%
+20/02/2013,"32 Ashton Lawn, Templeogue",Dublin,352500.0,No,Templeogue,Dublin 6W,q1,20%
+28/02/2013,"26 Ashfield, Templeogue, Dublin 6W",Dublin,470500.0,No,Templeogue,Dublin 6W,q2,50%
+12/04/2013,"2 Hillcrest Manor, Templeogue",Dublin,245000.0,No,Templeogue,Dublin 6W,q1,10%
+12/04/2013,"460 Orwell Park Green, Templeogue",Dublin,308000.0,No,Templeogue,Dublin 6W,q1,10%
+17/04/2013,"20 Willington Crescent, Templeogue",Dublin,338000.0,No,Templeogue,Dublin 6W,q1,10%
+25/04/2013,"176 Orwell Park View, Templeogue, Dublin 6W",Dublin,365000.0,No,Templeogue,Dublin 6W,q1,20%
+02/05/2013,"24 Cypress Grove South, Templeogue",Dublin,410000.0,No,Templeogue,Dublin 6W,q1,30%
+09/05/2013,"6 Hillcrest Manor, Templeogue, Dublin 6",Dublin,245000.0,No,Templeogue,Dublin 6W,q1,10%
+10/05/2013,"4 Rossmore Grove, Templeogue",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+20/05/2013,"Ladywell, Corrybeg, Templeogue",Dublin,400000.0,No,Templeogue,Dublin 6W,q1,30%
+07/06/2013,"26 Templeogue Lodge, Templeogue",Dublin,420000.0,No,Templeogue,Dublin 6W,q2,30%
+12/06/2013,"18 Old Bridge Road, Templeogue, Dublin 16",Dublin,530000.0,No,Templeogue,Dublin 6W,q3,70%
+12/06/2013,"31A Cypress Grove Road, Templeogue",Dublin,361000.0,No,Templeogue,Dublin 6W,q1,20%
+13/06/2013,"26 Cypress Grove Road, Templeogue",Dublin,475000.0,No,Templeogue,Dublin 6W,q2,50%
+16/06/2013,"92 Templeville Drive, Templeogue, Dublin 6W",Dublin,445000.0,No,Templeogue,Dublin 6W,q2,40%
+24/06/2013,"83 Ballyroan Road, Templeogue, Dublin 16",Dublin,380000.0,No,Templeogue,Dublin 6W,q1,20%
+26/06/2013,"1 Rossmore Grove, Templeogue",Dublin,500000.0,No,Templeogue,Dublin 6W,q3,60%
+26/06/2013,"13 Old Bridge Road, Templeogue, Dublin 13",Dublin,512500.0,No,Templeogue,Dublin 6W,q3,60%
+11/07/2013,"15 Templeroan Grove, Templeogue, Dublin 16",Dublin,267000.0,No,Templeogue,Dublin 6W,q1,10%
+12/07/2013,"43 Anne Devlin Park, Templeogue, Dublin 16",Dublin,338000.0,No,Templeogue,Dublin 6W,q1,10%
+16/07/2013,"2 Idrone Drive, Templeogue, Dublin 16",Dublin,445000.0,No,Templeogue,Dublin 6W,q2,40%
+26/07/2013,"24 Ashfield, Cypress Grove Road, Templeogue",Dublin,562500.0,No,Templeogue,Dublin 6W,q3,80%
+30/07/2013,"42 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,322000.0,No,Templeogue,Dublin 6W,q1,10%
+31/07/2013,"27 Willington Crescent, Templeogue",Dublin,370000.0,No,Templeogue,Dublin 6W,q1,20%
+07/08/2013,"57 Glendown Avenue, Templeogue",Dublin,436000.0,No,Templeogue,Dublin 6W,q2,40%
+09/08/2013,"11 Orchardstown Drive, Templeogue, Dublin 6",Dublin,326000.0,No,Templeogue,Dublin 6W,q1,10%
+15/08/2013,"Caherlea, Templeogue Road, Templeogue",Dublin,627000.0,No,Templeogue,Dublin 6W,q4,90%
+30/08/2013,"50 Rossmore Lawns, Templeogue",Dublin,340000.0,No,Templeogue,Dublin 6W,q1,20%
+02/09/2013,"10 The Manor, Cypress Downs, Templeogue",Dublin,630000.0,No,Templeogue,Dublin 6W,q4,90%
+05/09/2013,"1 Butterfield Avenue, Templeogue",Dublin,315000.0,No,Templeogue,Dublin 6W,q1,10%
+10/09/2013,"7  Fortfield Square, Templeogue",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+10/09/2013,"77 Templeogue Road, Dublin 6W",Dublin,650000.0,No,Templeogue,Dublin 6W,q4,90%
+11/09/2013,"47 Wainsford Manor Drive, Templeogue, Dublin 6W",Dublin,510000.0,No,Templeogue,Dublin 6W,q3,60%
+12/09/2013,"28 Templeville Drive, Templeogue, Dublin 6W",Dublin,495000.0,No,Templeogue,Dublin 6W,q3,60%
+25/09/2013,"20 Cypress Grove Road, Templeogue, Dublin",Dublin,420000.0,No,Templeogue,Dublin 6W,q2,30%
+25/09/2013,"61 Cypress Grove Road, Templeogue",Dublin,410000.0,No,Templeogue,Dublin 6W,q1,30%
+26/09/2013,"11 The Court, Cypress Downs, Templeogue",Dublin,705000.0,No,Templeogue,Dublin 6W,q4,100%
+26/09/2013,"35 Delaford Grove, Knocknylon, Templeogue",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+26/09/2013,"Rostellan, Templeogue Road",Dublin,590000.0,No,Templeogue,Dublin 6W,q4,80%
+27/09/2013,"74 Templeville Road, Templeogue",Dublin,470000.0,No,Templeogue,Dublin 6W,q2,50%
+01/10/2013,"1 Cypress Grove Road, Templeogue",Dublin,415000.0,No,Templeogue,Dublin 6W,q2,30%
+09/10/2013,"9 Glendown Drive, Templeogue, Dublin 6W",Dublin,445000.0,No,Templeogue,Dublin 6W,q2,40%
+09/10/2013,"Firbank, Old Bridge Road, Templeogue",Dublin,475000.0,No,Templeogue,Dublin 6W,q2,50%
+10/10/2013,"32 Ospery Avenue, Templeogue, Dublin 6W",Dublin,370000.0,No,Templeogue,Dublin 6W,q1,20%
+21/10/2013,"7 The Avenue, Cypress Downs, Templeogue",Dublin,360000.0,No,Templeogue,Dublin 6W,q1,20%
+23/10/2013,"14 The Drive, Cypress Downs, Templeogue",Dublin,650000.0,No,Templeogue,Dublin 6W,q4,90%
+25/10/2013,"471 Orwell Park Green, Templeogue",Dublin,348000.0,No,Templeogue,Dublin 6W,q1,20%
+30/10/2013,"30 Cypress Grove South, Templeogue",Dublin,585000.0,No,Templeogue,Dublin 6W,q3,80%
+30/10/2013,"48 Cypress Road, Templeogue",Dublin,410000.0,No,Templeogue,Dublin 6W,q2,30%
+30/10/2013,"9 Templeville Avenue, Templeogue",Dublin,475000.0,No,Templeogue,Dublin 6W,q2,50%
+08/11/2013,"242A Orwell Park Glade, Templeogue",Dublin,345000.0,No,Templeogue,Dublin 6W,q1,20%
+19/11/2013,"1 Old Bridge Rd, Templeogue, Dublin 16",Dublin,555000.0,No,Templeogue,Dublin 6W,q3,70%
+27/11/2013,"80 Dargle Wood, Templeogue, Dublin 16",Dublin,340000.0,No,Templeogue,Dublin 6W,q1,20%
+28/11/2013,"6 Old Orchard, Templeogue",Dublin,380000.0,No,Templeogue,Dublin 6W,q1,20%
+28/11/2013,"Homeleigh, 130 Templeogue Rd, Templeogue",Dublin,707000.0,No,Templeogue,Dublin 6W,q4,100%
+29/11/2013,"13 Glendown Park, Templeogue, Dublin 6W",Dublin,430000.0,No,Templeogue,Dublin 6W,q2,40%
+29/11/2013,"21 Glendown Ave, Templeogue, Dublin 6W",Dublin,480000.0,No,Templeogue,Dublin 6W,q2,50%
+02/12/2013,"5 Rossmore Rd, Templeogue, Dublin 6W",Dublin,410000.0,No,Templeogue,Dublin 6W,q2,30%
+04/12/2013,"1 Templeville Dr, Templeogue, Dublin 16",Dublin,565000.0,No,Templeogue,Dublin 6W,q3,80%
+05/12/2013,"135 Templeogue Wood, Templeogue, Dublin 6W",Dublin,348000.0,No,Templeogue,Dublin 6W,q1,20%
+10/12/2013,"17 Wainsfort Ave, Templeogue, Dublin 6W",Dublin,325000.0,No,Templeogue,Dublin 6W,q1,10%
+10/12/2013,"399 Orwell Park Drive, Templeogue, Dublin 6",Dublin,350000.0,No,Templeogue,Dublin 6W,q1,20%
+12/12/2013,"10 Kilvere Park, Cypress Downs, Templeogue Dublin 6W",Dublin,387500.0,No,Templeogue,Dublin 6W,q1,30%
+12/12/2013,"31 Ballyroan Rd, Templeogue, Dublin 16",Dublin,420000.0,No,Templeogue,Dublin 6W,q2,30%
+18/12/2013,"125 Wainsfort Rd, Templeogue, Dublin 6W",Dublin,390000.0,No,Templeogue,Dublin 6W,q1,30%
+18/12/2013,"146 Coolamber Park, Templeogue, Dublin 16",Dublin,495000.0,No,Templeogue,Dublin 6W,q3,60%
+20/12/2013,"12 Ashfield, Templeogue",Dublin,515000.0,No,Templeogue,Dublin 6W,q3,60%
+20/12/2013,"15 Willington Park, Templeogue, Dublin 6W",Dublin,312000.0,No,Templeogue,Dublin 6W,q1,10%
+08/01/2014,"9 Orwell Park Dale, Templeogue",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+20/01/2014,"73 Westbourne Lodge, Templeogue, Dublin 16",Dublin,337000.0,No,Templeogue,Dublin 6W,q1,10%
+31/01/2014,"2 The Manor, Cypress Downs, Templeogue Dublin 6W",Dublin,780000.0,No,Templeogue,Dublin 6W,q4,100%
+31/01/2014,"68 Orlagh Park, Scholarstown Rd, Templeogue Dublin 16",Dublin,510000.0,No,Templeogue,Dublin 6W,q3,60%
+06/02/2014,"16 Willington Green, Templeogue, Dublin 6W",Dublin,432000.0,No,Templeogue,Dublin 6W,q2,40%
+18/02/2014,"86 Coolamber Park, Templeogue, Dublin 16",Dublin,468000.0,No,Templeogue,Dublin 6W,q2,50%
+21/02/2014,"12 Hillcrest Manor, Block B, Templeogue",Dublin,252000.0,No,Templeogue,Dublin 6W,q1,10%
+05/03/2014,"63 Templeville Road, Templeogue",Dublin,430000.0,No,Templeogue,Dublin 6W,q2,40%
+07/03/2014,"20 Kilvere Park, Cypress Downs, Templeogue Dublin 6W",Dublin,308000.0,No,Templeogue,Dublin 6W,q1,10%
+07/03/2014,"37 Templeville Rd, Templeogue, Dublin 6W",Dublin,475000.0,No,Templeogue,Dublin 6W,q2,50%
+11/04/2014,"19 Osprey Ave, Templeogue, Dublin 6W",Dublin,405000.0,No,Templeogue,Dublin 6W,q1,30%
+20/04/2014,"225 Templeogue Rd, Templeogue, Dublin 6W",Dublin,650000.0,No,Templeogue,Dublin 6W,q4,90%
+01/05/2014,"114A Templeogue Wood, Templeogue, Dublin 6W",Dublin,515000.0,No,Templeogue,Dublin 6W,q3,60%
+08/05/2014,"Beechwood House, Old Bridge Rd, Templeogue Dublin 16",Dublin,717000.0,No,Templeogue,Dublin 6W,q4,100%
+29/05/2014,"122 Bushy Park House, Templeogue, Dublin",Dublin,370000.0,No,Templeogue,Dublin 6W,q1,20%
+29/05/2014,"39 Woodbrook Park, Templeogue, Dublin 16",Dublin,505000.0,No,Templeogue,Dublin 6W,q3,60%
+03/06/2014,"45 Templeville Rd, Templeogue, Dublin 6W",Dublin,605000.0,No,Templeogue,Dublin 6W,q4,80%
+05/06/2014,"Derry Cairn, Old Bridge Rd, Templeogue Dublin 16",Dublin,600000.0,No,Templeogue,Dublin 6W,q4,80%
+10/06/2014,"31 Templeroan Grove, Templeogue, Dublin",Dublin,347999.0,No,Templeogue,Dublin 6W,q1,20%
+12/06/2014,"11 Orwell Park Heights, Templeogue, Dublin 6W",Dublin,364000.0,No,Templeogue,Dublin 6W,q1,20%
+12/06/2014,"4 Rossmore Ave, Templeogue, Dublin 6W",Dublin,512000.0,No,Templeogue,Dublin 6W,q3,60%
+12/06/2014,"45 Kennington Rd, Templeogue, Dublin 6W",Dublin,410000.0,No,Templeogue,Dublin 6W,q2,30%
+12/06/2014,"61 Cypress Grove Rd, Templeogue, Dublin 6W",Dublin,600000.0,No,Templeogue,Dublin 6W,q4,80%
+17/06/2014,"60 Orchardstown Dr, Templeogue, Dublin 14",Dublin,381000.0,No,Templeogue,Dublin 6W,q1,20%
+19/06/2014,"134 Wainsfort Rd, Templeogue, Dublin 6W",Dublin,480000.0,No,Templeogue,Dublin 6W,q2,50%
+24/06/2014,"664 B Ballycullan Cottages, Ballycullan Road, Templeogue",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+02/07/2014,"528 Orwell Park Crescent, Templeogue, Dublin 6W",Dublin,555000.0,No,Templeogue,Dublin 6W,q3,70%
+03/07/2014,"107 Orwell Park View, Templeogue, Park View Dublin 6W",Dublin,443000.0,No,Templeogue,Dublin 6W,q2,40%
+04/07/2014,"50 Anne Devlin Rd, Templeogue, Dublin 14",Dublin,475000.0,No,Templeogue,Dublin 6W,q2,50%
+11/07/2014,"210 Templeogue Road, Dublin 6W",Dublin,630000.0,No,Templeogue,Dublin 6W,q4,90%
+11/07/2014,"81 Templeroan Ave, Templeogue, Dublin 16",Dublin,360000.0,No,Templeogue,Dublin 6W,q1,20%
+14/07/2014,"6 Cypress Garth, Templeogue, Dublin 6W",Dublin,548700.0,No,Templeogue,Dublin 6W,q3,70%
+17/07/2014,"17 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,430000.0,No,Templeogue,Dublin 6W,q2,40%
+17/07/2014,"19 Templeogue Lodge, Templeogue, Dublin 6W",Dublin,536000.0,No,Templeogue,Dublin 6W,q3,70%
+22/07/2014,"144 Glenvara Park, Templeogue, Dublin 16",Dublin,381000.0,No,Templeogue,Dublin 6W,q1,20%
+24/07/2014,"664A Ballycullan Cottages, Ballycullan Road, Templeogue",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+25/07/2014,"444 Orwell Park Green, Templeogue, Dublin 6W",Dublin,425000.0,No,Templeogue,Dublin 6W,q2,30%
+06/08/2014,"19 Hillcrest Manor, Templeogue, Dublin 6W",Dublin,191000.0,No,Templeogue,Dublin 6W,q1,10%
+07/08/2014,"3 Rossmore Crescent, Templeogue, Dublin 6W",Dublin,445000.0,No,Templeogue,Dublin 6W,q2,40%
+08/08/2014,"30 Beverly Ave, Templeogue, Dublin 16",Dublin,398000.0,No,Templeogue,Dublin 6W,q1,30%
+27/08/2014,"18 Osprey Lawn, Templeogue, Dublin 6",Dublin,495000.0,No,Templeogue,Dublin 6W,q3,60%
+29/08/2014,"Apt 180, Bushy Park House, Templeogue Rd Dublin 6",Dublin,420000.0,No,Templeogue,Dublin 6W,q2,30%
+08/09/2014,"126 Templeville Dr, Templeogue, Dublin 6W",Dublin,525000.0,No,Templeogue,Dublin 6W,q3,60%
+09/09/2014,"8 Woodbrook Park, Templeogue, Dublin 16",Dublin,530000.0,No,Templeogue,Dublin 6W,q3,70%
+16/09/2014,"224 Orwell Park Heights, Templeogue Dublin 6W, Dublin",Dublin,437000.0,No,Templeogue,Dublin 6W,q2,40%
+18/09/2014,"11 Kilvere Park, Cypress Downs, Templeogue",Dublin,281000.0,No,Templeogue,Dublin 6W,q1,10%
+03/10/2014,"255 B Orwell Park Glade, Templeogue, Dublin 6W",Dublin,482500.0,No,Templeogue,Dublin 6W,q2,50%
+13/10/2014,"17 Kennington Crescent, Templeogue, Dublin 6W",Dublin,437500.0,No,Templeogue,Dublin 6W,q2,40%
+14/10/2014,"130 Templeogue Wood, Templeogue, Dublin 6W",Dublin,438000.0,No,Templeogue,Dublin 6W,q2,40%
+15/10/2014,"8 Rosehall, Templeogue Village, Dublin 6W",Dublin,590000.0,No,Templeogue,Dublin 6W,q4,80%
+20/10/2014,"1 Glendown Grove, Templeogue, Dublin 6W",Dublin,535000.0,No,Templeogue,Dublin 6W,q3,70%
+20/10/2014,"24 The Avenue, Cypress Downs, Templeogue Dublin 6W",Dublin,500000.0,No,Templeogue,Dublin 6W,q3,60%
+22/10/2014,"33 Willington Grove, Templeogue, Dublin 6W",Dublin,595000.0,No,Templeogue,Dublin 6W,q4,80%
+23/10/2014,"20 Kennington Rd, Templeogue, Dublin 6W",Dublin,435000.0,No,Templeogue,Dublin 6W,q2,40%
+23/10/2014,"20 The Heath, Cypress Downs, Templeogue",Dublin,610000.0,No,Templeogue,Dublin 6W,q4,90%
+23/10/2014,"8 Willington Court, Templeogue, Dublin 6W",Dublin,456000.0,No,Templeogue,Dublin 6W,q2,40%
+07/11/2014,"115 Glenvara Park, Templeogue, Dublin 16",Dublin,435000.0,No,Templeogue,Dublin 6W,q2,40%
+18/11/2014,"15 Kennington Close, Templeogue, Dublin 6W",Dublin,429000.0,No,Templeogue,Dublin 6W,q2,40%
+19/11/2014,"19 Glendown Grove, Templeogue, Dublin 6W",Dublin,535000.0,No,Templeogue,Dublin 6W,q3,70%
+10/12/2014,"Apt 111, Bushy Park House, Templeogue",Dublin,375000.0,No,Templeogue,Dublin 6W,q1,20%
+12/12/2014,"163 Coolamber Park, Templeogue, Dublin 16",Dublin,495000.0,No,Templeogue,Dublin 6W,q3,60%
+17/12/2014,"10 Osprey Avenue, Templeogue, Dublin 6W",Dublin,365000.0,No,Templeogue,Dublin 6W,q1,20%
+19/12/2014,"Riverway, Old Bridge Road, Templeogue",Dublin,860000.0,No,Templeogue,Dublin 6W,q4,100%
+23/12/2014,"42 Grosvenor Court, Templeville Rd, Templeogue Dublin 6W",Dublin,245000.0,No,Templeogue,Dublin 6W,q1,10%
+09/01/2015,"263 Orwell Park Glade, Templeogue",Dublin,470000.0,No,Templeogue,Dublin 6W,q2,50%
+21/01/2015,"345 Orwell Park, Close, Templeogue D6W",Dublin,470000.0,No,Templeogue,Dublin 6W,q2,50%
+30/01/2015,"47 Templeogue Lodge, Templeogue, Dublin 6W",Dublin,400000.0,No,Templeogue,Dublin 6W,q1,30%
+11/02/2015,"58 Ballyroan Rd, Templeogue, Dublin 16",Dublin,456000.0,No,Templeogue,Dublin 6W,q2,40%
+12/02/2015,"146 Orwell Park View, Templeogue, Park View Dublin 6W",Dublin,420000.0,No,Templeogue,Dublin 6W,q2,30%
+16/02/2015,"40 Ballyroan Rd, Templeogue, Dublin 16",Dublin,489000.0,No,Templeogue,Dublin 6W,q2,50%
+13/03/2015,"10 Beverley Rise, Scholarstown Rd, Templeogue",Dublin,400000.0,No,Templeogue,Dublin 6W,q1,30%
+25/03/2015,"224 Glenvara Park, Templeogue, Dublin 16",Dublin,345000.0,No,Templeogue,Dublin 6W,q1,20%
+30/03/2015,"14 The Avenue, Cypress Downs, Templeogue Dublin 6W",Dublin,540000.0,No,Templeogue,Dublin 6W,q3,70%
+02/04/2015,"17 Rossmore Close, Templeogue, Dublin 6W",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+14/04/2015,"45 Ballyroan Crescent, Templeogue, Dublin 16",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+20/04/2015,"28 Westbourne Lodge, Templeogue, Dublin 6W",Dublin,415000.0,No,Templeogue,Dublin 6W,q2,30%
+23/04/2015,"33 The Drive, Cypress Downs, Templeogue",Dublin,650000.0,No,Templeogue,Dublin 6W,q4,90%
+24/04/2015,"20 Osprey Park, Templeogue, Dublin",Dublin,362000.0,No,Templeogue,Dublin 6W,q1,20%
+29/04/2015,"51 Monalea Park, Templeogue",Dublin,300000.0,No,Templeogue,Dublin 6W,q1,10%
+05/05/2015,"9 Ashton Close, Templeogue, Dublin 16",Dublin,510000.0,No,Templeogue,Dublin 6W,q3,60%
+07/05/2015,"12 Willington Lawn, Templeogue, Dublin 6W",Dublin,425000.0,No,Templeogue,Dublin 6W,q2,30%
+15/05/2015,"45A Ballyroan Crescent, Templeogue, Dublin 16",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+15/05/2015,"61 Templeogue Wood, Templeogue, Dublin 6W",Dublin,540000.0,No,Templeogue,Dublin 6W,q3,70%
+21/05/2015,"24 Willington Lawn, Templeogue, Dublin 6W",Dublin,380001.0,No,Templeogue,Dublin 6W,q1,20%
+21/05/2015,"8 Cypress Grove North, Templeogue, Dublin 6W",Dublin,600000.0,No,Templeogue,Dublin 6W,q4,80%
+26/05/2015,"86 Templeville Dr, Templeogue, Dublin 6W",Dublin,587000.0,No,Templeogue,Dublin 6W,q4,80%
+19/06/2015,"20 The Drive, Cypress Downs, Templeogue",Dublin,750000.0,No,Templeogue,Dublin 6W,q4,100%
+19/06/2015,"5 Cypress Drive, Templeogue, Dublin 6",Dublin,665000.0,No,Templeogue,Dublin 6W,q4,90%
+22/06/2015,"108 Templeogue Wood, Dublin 6W, Dublin",Dublin,596000.0,No,Templeogue,Dublin 6W,q4,80%
+29/06/2015,"21 Orchardstown Drive, Templeogue, Dublin 14",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+30/06/2015,"3 Rosehall, Templeogue, Dublin 6W",Dublin,505000.0,No,Templeogue,Dublin 6W,q3,60%
+08/07/2015,"19 The Close, Cypress Downs, Templeogue Dublin 6W",Dublin,483500.0,No,Templeogue,Dublin 6W,q2,50%
+16/07/2015,"6 The Park  Cypress Downes, Templeogue, Dublin 6",Dublin,770000.0,No,Templeogue,Dublin 6W,q4,100%
+17/07/2015,"51 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,510000.0,No,Templeogue,Dublin 6W,q3,60%
+23/07/2015,"7 Woodbrook Park, Templeogue, Dublin 16",Dublin,470000.0,No,Templeogue,Dublin 6W,q2,50%
+24/07/2015,"34 Ashfield, Templeogue, Dublin 6W",Dublin,610000.0,No,Templeogue,Dublin 6W,q4,90%
+24/07/2015,"57 Kennington Rd, Templeogue, Dublin 6W",Dublin,421000.0,No,Templeogue,Dublin 6W,q2,30%
+29/07/2015,"The White House, Templeogue, Dublin 6W",Dublin,900000.0,No,Templeogue,Dublin 6W,q4,100%
+30/07/2015,"89 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+07/08/2015,"17 The Drive, Cypress Downs, Templeogue Dublin 6W",Dublin,770000.0,No,Templeogue,Dublin 6W,q4,100%
+12/08/2015,"199 Bushy Park House, Templeogue, Dublin 6W",Dublin,675000.0,No,Templeogue,Dublin 6W,q4,90%
+14/08/2015,"14 Rossmore Park, Templeogue, Dublin 6W",Dublin,418500.0,No,Templeogue,Dublin 6W,q2,30%
+20/08/2015,"17A Orwell Park Rise, Templeogue, Dublin 6W",Dublin,519000.0,No,Templeogue,Dublin 6W,q3,60%
+20/08/2015,"30 Willington Grove, Templeogue, Dublin 6W",Dublin,375000.0,No,Templeogue,Dublin 6W,q1,20%
+24/08/2015,"60 Elkwood, Knockcullen Dr, Templeogue Dublin 16",Dublin,490000.0,No,Templeogue,Dublin 6W,q2,50%
+27/08/2015,"84 Cypress Grove Rd, Templeogue, Dublin 6W",Dublin,622500.0,No,Templeogue,Dublin 6W,q4,90%
+01/09/2015,"6 Woodbrook Park, Templeogue, Dublin 16",Dublin,455000.0,No,Templeogue,Dublin 6W,q2,40%
+02/09/2015,"5 Templeroan Court, Templeogue, Dublin 16",Dublin,425000.0,No,Templeogue,Dublin 6W,q2,30%
+08/09/2015,"107 Templeogue Wood, Templeogue, Dublin 6",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+29/09/2015,"29 Ballyroan Rd, Templeogue, Dublin 16",Dublin,590000.0,No,Templeogue,Dublin 6W,q4,80%
+29/09/2015,"31 The Drive, Cypress Downs, Templeogue Dublin 6W",Dublin,810000.0,No,Templeogue,Dublin 6W,q4,100%
+29/09/2015,"40 Willington Park, Templeogue, Dublin 6W",Dublin,445000.0,No,Templeogue,Dublin 6W,q2,40%
+30/09/2015,"1 Anne Devlin Ave, Templeogue, Dublin",Dublin,431000.0,No,Templeogue,Dublin 6W,q2,40%
+30/09/2015,"35 The Heath, Cypress Downs, Templeogue",Dublin,540000.0,No,Templeogue,Dublin 6W,q3,70%
+30/09/2015,"Mantua, 256 Templeogue Rd, Templeogue Bridge Dublin 6",Dublin,1090000.0,No,Templeogue,Dublin 6W,q4,100%
+10/10/2015,"3 Ballyroan Rd, Templeogue, Dublin 16",Dublin,460000.0,No,Templeogue,Dublin 6W,q2,50%
+21/10/2015,"225 Glenvara Park, Templeogue, Dublin 16",Dublin,398000.0,No,Templeogue,Dublin 6W,q1,30%
+23/10/2015,"7 Osprey Drive, Templeogue, Dublin 6W",Dublin,368500.0,No,Templeogue,Dublin 6W,q1,20%
+27/10/2015,"81B Orwell Park Rise, Templeogue, Dublin 6W",Dublin,485000.0,No,Templeogue,Dublin 6W,q2,50%
+28/10/2015,"10 Cypruss Grove Sth, Templeogue, Dublin 6",Dublin,527500.0,No,Templeogue,Dublin 6W,q3,70%
+02/11/2015,"12 Knockcullen Park, Templeogue, Dublin 16",Dublin,480000.0,No,Templeogue,Dublin 6W,q2,50%
+06/11/2015,"48 Ballyroan Rd, Templeogue, Dublin 16",Dublin,460000.0,No,Templeogue,Dublin 6W,q2,50%
+12/11/2015,"271 Templeogue Rd, Dublin 6, Dublin",Dublin,457500.0,No,Templeogue,Dublin 6W,q2,40%
+20/11/2015,"20 The Avenue, Cypress Downs, Templeogue Dublin 6W",Dublin,475000.0,No,Templeogue,Dublin 6W,q2,50%
+20/11/2015,"93 Westbourne Lodge, Templeogue, Dublin 16",Dublin,422500.0,No,Templeogue,Dublin 6W,q2,30%
+25/11/2015,"21 Osprey Park, Templeogue, Dublin 6W",Dublin,575000.0,No,Templeogue,Dublin 6W,q3,80%
+04/12/2015,"344 Orwell Park Close, Templeogue, Dublin 6W",Dublin,585000.0,No,Templeogue,Dublin 6W,q3,80%
+07/12/2015,"13 Kilvere Park, Cypress Downs, Templeogue",Dublin,285000.0,No,Templeogue,Dublin 6W,q1,10%
+07/12/2015,"6 Willington Lawn, Templeogue, Dublin 6W",Dublin,420000.0,No,Templeogue,Dublin 6W,q2,30%
+16/12/2015,"3 Willington Park, Templeogue, Dublin 6W",Dublin,458500.0,No,Templeogue,Dublin 6W,q2,50%
+17/12/2015,"27 Grosvenor Court, Templeogue, Dublin 6W",Dublin,605000.0,No,Templeogue,Dublin 6W,q4,90%
+18/12/2015,"11 Willington Dr, Templeogue, Dublin 6W",Dublin,60000.0,No,Templeogue,Dublin 6W,q1,10%
+21/12/2015,"13 The Heath, Cypress Downs, Templeogue Dublin 6W",Dublin,635000.0,No,Templeogue,Dublin 6W,q4,90%
+21/12/2015,"336 Orwell Park Avenue, Templeogue, Dublin 6W",Dublin,575000.0,No,Templeogue,Dublin 6W,q3,80%
+21/12/2015,"82 Templevile Dr, Templeogue, Dublin 6W",Dublin,530000.0,No,Templeogue,Dublin 6W,q3,70%
+06/01/2016,"56 Templeogue Wood, Templeogue, Dublin 6W",Dublin,580000.0,No,Templeogue,Dublin 6W,q3,80%
+14/01/2016,"31A Cypress Grove Rd, Templeogue, Dublin 6W",Dublin,480000.0,No,Templeogue,Dublin 6W,q2,50%
+15/01/2016,"19 Templeville Park, Templeogue, Dublin 6",Dublin,750000.0,No,Templeogue,Dublin 6W,q4,100%
+20/01/2016,"No 11 Orlagh Na Green, Templeogue, Dublin16",Dublin,520000.0,No,Templeogue,Dublin 6W,q3,60%
+21/01/2016,"24 Wainsfort Ave, Templeogue, Dublin 6",Dublin,441000.0,No,Templeogue,Dublin 6W,q2,40%
+21/01/2016,"79 Templeville Rd, Templeogue, Dublin 6W",Dublin,530000.0,No,Templeogue,Dublin 6W,q3,70%
+26/01/2016,"82 Cypress Grove Rd, Templeogue, Dublin 6W",Dublin,535000.0,No,Templeogue,Dublin 6W,q3,70%
+29/01/2016,"18 Wilderwood Grove, Templeogue, Dublin 6W",Dublin,487500.0,No,Templeogue,Dublin 6W,q2,50%
+18/02/2016,"57 Rossmore Lawns, Templeogue, Dublin 6W",Dublin,456000.0,No,Templeogue,Dublin 6W,q2,40%
+25/02/2016,"9 Osprey Park, Templeogue, Dublin 6W",Dublin,458000.0,No,Templeogue,Dublin 6W,q2,50%
+01/03/2016,"201 Orwell Park Heights, Templeogue, Dublin 6W",Dublin,448000.0,No,Templeogue,Dublin 6W,q2,40%
+16/03/2016,"124 Orwell Park View, Templeogue, Dublin 6W",Dublin,425000.0,No,Templeogue,Dublin 6W,q2,30%
+07/04/2016,"27 Westbourne Lodge, Templeogue, Dublin 16",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+12/04/2016,"132 Templeville Rd, Templeogue, Dublin 6W",Dublin,470000.0,No,Templeogue,Dublin 6W,q2,50%
+25/04/2016,"5 Glendown Green, Templeogue, Dublin 6W",Dublin,595000.0,No,Templeogue,Dublin 6W,q4,80%
+29/04/2016,"2 Orchardstown Park, Templeogue, Dublin 14",Dublin,510000.0,No,Templeogue,Dublin 6W,q3,60%
+05/05/2016,"496 Orwell Park Way, Templeogue, Dublin 6W",Dublin,413500.0,No,Templeogue,Dublin 6W,q2,30%
+09/05/2016,"72 Templeville Rd, Templeogue, Dublin 6W",Dublin,530000.0,No,Templeogue,Dublin 6W,q3,70%
+19/05/2016,"527 Orwell Park Crescent, Templeogue, Dublin 6W",Dublin,406000.0,No,Templeogue,Dublin 6W,q1,30%
+27/05/2016,"10 Hillcrest Manor, Templeogue Rd, Templeogue Dublin 6W",Dublin,330000.0,No,Templeogue,Dublin 6W,q1,10%
+30/05/2016,"18 The Court, Cypress Downs, Templeogue Dublin 16",Dublin,780000.0,No,Templeogue,Dublin 6W,q4,100%
+01/06/2016,"16 Grosvenor Court, Templeogue, Dublin 6W",Dublin,600000.0,No,Templeogue,Dublin 6W,q4,80%
+01/06/2016,"61 Cypress Grove Rd, Templeogue, Dublin 6W",Dublin,620000.0,No,Templeogue,Dublin 6W,q4,90%
+07/06/2016,"8 Glendown Park, Templeogue, Dublin 12",Dublin,545000.0,No,Templeogue,Dublin 6W,q3,70%
+10/06/2016,"44 Cypress Grove North, Templeogue, Dublin 6W",Dublin,590000.0,No,Templeogue,Dublin 6W,q4,80%
+13/06/2016,"19 Orchardstown Dr, Templeogue, Dublin 14",Dublin,422000.0,No,Templeogue,Dublin 6W,q2,30%
+15/06/2016,"104 Templeville Dr, Templeogue, Dublin 6W",Dublin,600000.0,No,Templeogue,Dublin 6W,q4,80%
+20/06/2016,"142 Ballyroan Rd, Templeogue, Dublin 16",Dublin,400000.0,No,Templeogue,Dublin 6W,q1,30%
+24/06/2016,"132 Templeville Dr, Templeogue, Dublin 6W",Dublin,574000.0,No,Templeogue,Dublin 6W,q3,80%
+28/06/2016,"28 Anne Devlin Rd, Templeogue, Dublin 14",Dublin,455000.0,No,Templeogue,Dublin 6W,q2,40%
+04/07/2016,"17 Templeroan Meadows, Templeogue, Dublin 16",Dublin,415000.0,No,Templeogue,Dublin 6W,q2,30%
+06/07/2016,"21 The Walk, Cypress Downs, Templeogue Dublin 6W",Dublin,565000.0,No,Templeogue,Dublin 6W,q3,80%
+11/07/2016,"The Leap, Old Bridge Road, Templeogue",Dublin,650000.0,No,Templeogue,Dublin 6W,q4,90%
+14/07/2016,"Apt 156, Bushy Park House, Templeogue",Dublin,830000.0,No,Templeogue,Dublin 6W,q4,100%
+08/08/2016,"46 Orwell Pk Rise, Templeogue, Dublin 6W",Dublin,490000.0,No,Templeogue,Dublin 6W,q2,50%
+10/08/2016,"277 Orwell Park Lawns, Templeogue, Dublin 6W",Dublin,500000.0,No,Templeogue,Dublin 6W,q3,60%
+11/08/2016,"3 Orlagh Way, Templeogue, Dublin 6",Dublin,395000.0,No,Templeogue,Dublin 6W,q1,30%
+16/08/2016,"Ladywell, Corrybeg, Templeogue",Dublin,4800000.0,No,Templeogue,Dublin 6W,q4,100%
+18/08/2016,"512 Orwell Park Way, Templeogue, Dublin 6W",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+19/08/2016,"25 Templeroan Dr, Templeogue, Dublin 16",Dublin,390000.0,No,Templeogue,Dublin 6W,q1,30%
+24/08/2016,"40 Cypress Grove North, Templeogue, Dublin 6W",Dublin,644000.0,No,Templeogue,Dublin 6W,q4,90%
+25/08/2016,"59 Wellington Lane, Wellington Road, Templeogue",Dublin,466960.35,Yes,Templeogue,Dublin 6W,q2,50%
+26/08/2016,"57 Wellington Road, Templeogue",Dublin,565000.0,Yes,Templeogue,Dublin 6W,q3,80%
+29/08/2016,"41 Grosvenor Court, Templeogue, Dublin 6W",Dublin,559000.0,No,Templeogue,Dublin 6W,q3,70%
+29/08/2016,"51 Wellington Road, Templeogue",Dublin,436123.34,Yes,Templeogue,Dublin 6W,q2,40%
+12/09/2016,"1 Templeville Rd, Templeogue, Dublin 6W",Dublin,496500.0,No,Templeogue,Dublin 6W,q3,60%
+14/09/2016,"2 Pine Grove, Templeogue, Dublin 16",Dublin,300000.0,No,Templeogue,Dublin 6W,q1,10%
+14/09/2016,"61 Wellington Road, Templeogue, Dublin 16",Dublin,449340.0,Yes,Templeogue,Dublin 6W,q2,40%
+19/09/2016,"30 Ballyroan Rd, Templeogue, Dublin 16",Dublin,501000.0,No,Templeogue,Dublin 6W,q3,60%
+22/09/2016,"122A Templeville Dr, Templeogue, Dublin 6W",Dublin,570000.0,No,Templeogue,Dublin 6W,q3,80%
+28/09/2016,"257 Orwell Park Glade, Templeogue, Dublin 6W",Dublin,515000.0,No,Templeogue,Dublin 6W,q3,60%
+28/09/2016,"Apt 94, Bushy Park House, Templeogue Dublin 6W",Dublin,360000.0,No,Templeogue,Dublin 6W,q1,20%
+30/09/2016,"10 Hillcrest, Templeogue, Dublin 16",Dublin,366000.0,No,Templeogue,Dublin 6W,q1,20%
+10/10/2016,"59 Templeville Dr, Templeogue, Dublin 6W",Dublin,560000.0,No,Templeogue,Dublin 6W,q3,70%
+11/10/2016,"15 The Close, Cypress Downs, Templeogue",Dublin,560000.0,No,Templeogue,Dublin 6W,q3,70%
+17/10/2016,"23 Glendown Park, Templeogue, Dublin 6W",Dublin,570000.0,No,Templeogue,Dublin 6W,q3,80%
+18/10/2016,"13 Orwell Park Heights, Templeogue, Dublin 6W",Dublin,504000.0,No,Templeogue,Dublin 6W,q3,60%
+25/10/2016,"49 Wellington Road, Templeogue",Dublin,484581.49,Yes,Templeogue,Dublin 6W,q2,50%
+26/10/2016,"46 Templeogue Lodge, Templeogue, Dublin 6W",Dublin,517000.0,No,Templeogue,Dublin 6W,q3,60%
+27/10/2016,"25 Landsdowne Park, Templeogue, Dublin 16",Dublin,580000.0,No,Templeogue,Dublin 6W,q3,80%
+27/10/2016,"7 Fortfield Squre, Templeogue, Dublin",Dublin,740000.0,No,Templeogue,Dublin 6W,q4,100%
+28/10/2016,"77 Templeville Dr, Templeogue, Dublin 6W",Dublin,617000.0,No,Templeogue,Dublin 6W,q4,90%
+02/11/2016,"74 Templeville Rd, Templeogue, Dublin 6W",Dublin,632500.0,No,Templeogue,Dublin 6W,q4,90%
+03/11/2016,"20 Woodbrook Park, Templeogue, Dublin 16",Dublin,650000.0,No,Templeogue,Dublin 6W,q4,90%
+08/11/2016,"1 Kilvere Park, Cypress Downs, Templeogue",Dublin,477000.0,No,Templeogue,Dublin 6W,q2,50%
+08/11/2016,"66 Templeville Dr, Templeogue, Dublin 6W",Dublin,596000.0,No,Templeogue,Dublin 6W,q4,80%
+10/11/2016,"114 Templeogue Wood, Templeogue, Dublin 6W",Dublin,533000.0,No,Templeogue,Dublin 6W,q3,70%
+30/11/2016,"17 Wainsfort Ave, Templeogue, Dublin 6W",Dublin,520000.0,No,Templeogue,Dublin 6W,q3,60%
+01/12/2016,"483 Orwell Parkway, Templeogue, Dublin 12",Dublin,435000.0,No,Templeogue,Dublin 6W,q2,40%
+02/12/2016,"347 Orwell Park Close, Templeogue, Dublin 6W",Dublin,566000.0,No,Templeogue,Dublin 6W,q3,80%
+15/12/2016,"30 Glendown Lawn, Templeogue, Dublin 6W",Dublin,575000.0,No,Templeogue,Dublin 6W,q3,80%
+16/12/2016,"53 Wellington Road, Templeogue, County Dublin",Dublin,440528.63,Yes,Templeogue,Dublin 6W,q2,40%
+16/12/2016,"55 Wellington Road, Templeogue, Dublin 6W",Dublin,475800.0,Yes,Templeogue,Dublin 6W,q2,50%
+16/12/2016,"7 The Avenue, Cypress Downs, Templeogue Dublin 6W",Dublin,485000.0,No,Templeogue,Dublin 6W,q2,50%
+19/12/2016,"16 Cypress Grove South, Templeogue, Dublin 6W",Dublin,670000.0,No,Templeogue,Dublin 6W,q4,90%
+22/12/2016,"Cranford House, 325 Templeogue Rd, Dublin 6W",Dublin,1000000.0,No,Templeogue,Dublin 6W,q4,100%
+23/12/2016,"47 Wellington Road, Templeogue, Dublin 6W",Dublin,575000.0,Yes,Templeogue,Dublin 6W,q3,80%
+24/01/2017,"32 Ashfield, Templeogue, Dublin 6W",Dublin,755000.0,No,Templeogue,Dublin 6W,q4,100%
+26/01/2017,"14 The Green, Cyprus Downs, Templeogue",Dublin,725000.0,No,Templeogue,Dublin 6W,q4,100%
+30/01/2017,"19 Rossmore Park, Templeogue, Dublin 6W",Dublin,595000.0,No,Templeogue,Dublin 6W,q4,80%
+03/02/2017,"211 Templeogue Rd, Dublin 6, Dublin",Dublin,835000.0,No,Templeogue,Dublin 6W,q4,100%
+16/02/2017,"470 Orwell Park Green, Templeogue, Dublin 6W",Dublin,455000.0,No,Templeogue,Dublin 6W,q2,40%
+28/02/2017,"10 Domville Rd, Templeogue, Dublin 6W",Dublin,480000.0,No,Templeogue,Dublin 6W,q2,50%
+28/02/2017,"4 Ashton Grove, Templeogue, Dublin 16",Dublin,512000.0,No,Templeogue,Dublin 6W,q3,60%
+14/03/2017,"17 Cremorne, Templeogue, Dublin 16",Dublin,675000.0,No,Templeogue,Dublin 6W,q4,90%
+20/03/2017,"212 Templeogue Rd, Templeogue, Dublin 6W",Dublin,140000.0,No,Templeogue,Dublin 6W,q1,10%
+21/03/2017,"35 Kilvere Park, Cypress Downs, Templeogue Dublin 6W",Dublin,350000.0,No,Templeogue,Dublin 6W,q1,20%
+31/03/2017,"16 Ashton Grove, Templeogue, Dublin 16",Dublin,547500.0,No,Templeogue,Dublin 6W,q3,70%
+03/04/2017,"249 Orwell Park, Glade, Templeogue Dublin 6W",Dublin,525000.0,No,Templeogue,Dublin 6W,q3,60%
+06/04/2017,"6 Orchardstown Park, Templeogue, Dublin 14",Dublin,565000.0,No,Templeogue,Dublin 6W,q3,80%
+04/05/2017,"18 Orlagh Close, Scholarstown Rd, Templeogue Dublin 16",Dublin,685000.0,No,Templeogue,Dublin 6W,q4,90%
+08/05/2017,"Apartment 3, Cypress Garth, Templeogue",Dublin,208000.0,No,Templeogue,Dublin 6W,q1,10%
+10/05/2017,"14 Cypress Park, Templeogue, Dublin 6W",Dublin,580000.0,No,Templeogue,Dublin 6W,q3,80%
+12/05/2017,"10 Kennington Rd, Templeogue, Dublin 6W",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+12/05/2017,"3 Templeroan Close, Templeogue, Dublin 16",Dublin,642500.0,No,Templeogue,Dublin 6W,q4,90%
+22/05/2017,"44 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,515000.0,No,Templeogue,Dublin 6W,q3,60%
+24/05/2017,"4 Templeville Rd, Templeogue, Dublin 6W",Dublin,555000.0,No,Templeogue,Dublin 6W,q3,70%
+25/05/2017,"Padua, 213 Templeogue Rd, Dublin 6W",Dublin,760000.0,No,Templeogue,Dublin 6W,q4,100%
+31/05/2017,"15 Cypress Grove South, Templeogue, Dublin 6W",Dublin,600000.0,No,Templeogue,Dublin 6W,q4,80%
+28/06/2017,"103 Glenvara Park, Templeogue, Dublin 16",Dublin,435000.0,No,Templeogue,Dublin 6W,q2,40%
+29/06/2017,"124 Templeville Dr, Templeogue, Dublin 6W",Dublin,665000.0,No,Templeogue,Dublin 6W,q4,90%
+29/06/2017,"224 Glenvara Park, Templeogue, Dublin 16",Dublin,385000.0,No,Templeogue,Dublin 6W,q1,30%
+03/07/2017,"84 Orchardstown Dr, Templeogue, Dublin 14",Dublin,616100.0,No,Templeogue,Dublin 6W,q4,90%
+07/07/2017,"138 Ballyroan Rd, Templeogue, Dublin 16",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+14/07/2017,"112 Templeville Drive, Templeogue, Dublin 6W",Dublin,615000.0,No,Templeogue,Dublin 6W,q4,90%
+19/07/2017,"41 Cypress Grove Rd, Templeogue, Dublin 6W",Dublin,630000.0,No,Templeogue,Dublin 6W,q4,90%
+28/07/2017,"72 Orchardstown Dr, Templeogue, Dublin 14",Dublin,410000.0,No,Templeogue,Dublin 6W,q2,30%
+11/08/2017,"401 Orwell Park Dr, Templeogue, Dublin 12",Dublin,405000.0,No,Templeogue,Dublin 6W,q1,30%
+15/08/2017,"4 Templeroan Park, Templeogue, Dublin 16",Dublin,655000.0,No,Templeogue,Dublin 6W,q4,90%
+17/08/2017,"11 Rossmore Grove, Templeogue, Dublin 6W",Dublin,520000.0,No,Templeogue,Dublin 6W,q3,60%
+17/08/2017,"36 Templeville Rd, Templeogue, Dublin 6W",Dublin,657500.0,No,Templeogue,Dublin 6W,q4,90%
+23/08/2017,"81 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,510000.0,No,Templeogue,Dublin 6W,q3,60%
+29/08/2017,"13 Ashfield, Templeogue, Dublin 6W",Dublin,1100000.0,No,Templeogue,Dublin 6W,q4,100%
+29/08/2017,"19 Glendown Park, Templeogue, Dublin 6W",Dublin,562000.0,No,Templeogue,Dublin 6W,q3,80%
+29/08/2017,"20 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,520000.0,No,Templeogue,Dublin 6W,q3,60%
+01/09/2017,"30 Lansdowne Park, Templeogue, Dublin 16",Dublin,575000.0,No,Templeogue,Dublin 6W,q3,80%
+08/09/2017,"26 Pine Grove, Templeogue, Dublin 16",Dublin,340000.0,No,Templeogue,Dublin 6W,q1,20%
+20/09/2017,"18 Templeogue Lodge, Templeogue, Dublin 6W",Dublin,500000.0,No,Templeogue,Dublin 6W,q3,60%
+22/09/2017,"120 Templeogue Wood, Templeogue, Dublin 6",Dublin,640000.0,No,Templeogue,Dublin 6W,q4,90%
+22/09/2017,"16 Corrybeg Way, Templeogue, Dublin 6W",Dublin,722467.0,Yes,Templeogue,Dublin 6W,q4,100%
+29/09/2017,"57 Templeville Dr, Templeogue, Dublin 6W",Dublin,840000.0,No,Templeogue,Dublin 6W,q4,100%
+29/09/2017,"8 Grosvenor Court, Templeogue, Dublin 6W",Dublin,670000.0,No,Templeogue,Dublin 6W,q4,90%
+06/10/2017,"14 Templeogue Lodge, Templeogue, Dublin 6W",Dublin,548000.0,No,Templeogue,Dublin 6W,q3,70%
+12/10/2017,"33 The Heath, Cypress Downs, Templeogue Dublin 6W",Dublin,582000.0,No,Templeogue,Dublin 6W,q3,80%
+12/10/2017,"89 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,475000.0,No,Templeogue,Dublin 6W,q2,50%
+31/10/2017,"1 Cypress Park, Templeogue, Dublin 6W",Dublin,750000.0,No,Templeogue,Dublin 6W,q4,100%
+03/11/2017,"15 Corrybeg Way, Templeogue, Dublin 6W",Dublin,850000.0,Yes,Templeogue,Dublin 6W,q4,100%
+08/11/2017,"98 Ballyroan Rd, Templeogue, Dublin 16",Dublin,595000.0,No,Templeogue,Dublin 6W,q4,80%
+09/11/2017,"249 Templeogue Rd, Dublin 6W, Dublin",Dublin,1200000.0,No,Templeogue,Dublin 6W,q4,100%
+24/11/2017,"442 Orwell Park Green, Templeogue, Dublin 6W",Dublin,440000.0,No,Templeogue,Dublin 6W,q2,40%
+24/11/2017,"48 Anne Devlin Rd, Templeogue, Dublin 14",Dublin,525000.0,No,Templeogue,Dublin 6W,q3,60%
+28/11/2017,"5 Green Acre Court, Templeogue, Dublin 16",Dublin,537500.0,No,Templeogue,Dublin 6W,q3,70%
+30/11/2017,"14 Corrybeg Way, Templeogue, Dublin 6W",Dublin,760353.0,Yes,Templeogue,Dublin 6W,q4,100%
+01/12/2017,"36 Cypress Grove North, Templeogue, Dublin 6W",Dublin,675000.0,No,Templeogue,Dublin 6W,q4,90%
+01/12/2017,"4 Beverly Downs, Scholarstown Rd, Templeogue Dublin 16",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+01/12/2017,"72 Orchardstown Dr, Templeogue, Dublin 14",Dublin,492500.0,No,Templeogue,Dublin 6W,q3,60%
+07/12/2017,"40 Rossmore Lawns, Templeogue, Dublin 6W",Dublin,557500.0,No,Templeogue,Dublin 6W,q3,70%
+12/12/2017,"1 Ashfield, Templeogue, Dublin 6W",Dublin,740000.0,No,Templeogue,Dublin 6W,q4,100%
+12/12/2017,"4 Hillcrest Manor, Templeogue Rd, Templeogue Dublin 6W",Dublin,363000.0,No,Templeogue,Dublin 6W,q1,20%
+14/12/2017,"82 Templeogue Wood, Templeogue, Dublin 6W",Dublin,800000.0,No,Templeogue,Dublin 6W,q4,100%
+18/12/2017,"157 Coolamber Park, Templeogue, Dublin 16",Dublin,488000.0,No,Templeogue,Dublin 6W,q2,50%
+19/12/2017,"64 Orchardstown Dr, Templeogue, Dublin 14",Dublin,510000.0,No,Templeogue,Dublin 6W,q3,60%
+20/12/2017,"2 Templeville Park, Templeogue, Dublin 16",Dublin,912000.0,No,Templeogue,Dublin 6W,q4,100%
+21/12/2017,"13 Corrybeg Way, Templeogue, Dublin 6W",Dublin,835000.0,No,Templeogue,Dublin 6W,q4,100%
+08/01/2018,"333 Templeogue Rd, Templeogue, Dublin 6W",Dublin,920000.0,No,Templeogue,Dublin 6W,q4,100%
+16/01/2018,"31 Ashfield, Templeogue, Dublin 6W",Dublin,675000.0,No,Templeogue,Dublin 6W,q4,90%
+19/01/2018,"1 Hillcrest, Templeogue, Dublin 6W",Dublin,402000.0,No,Templeogue,Dublin 6W,q1,30%
+22/01/2018,"11 Templeroan Ave, Templeogue, Dublin 16",Dublin,615000.0,No,Templeogue,Dublin 6W,q4,90%
+24/01/2018,"67 Rossmore Lawns, Templeogue, Dublin 6W",Dublin,485000.0,No,Templeogue,Dublin 6W,q2,50%
+26/01/2018,"25 Templeroan Dr, Templeogue, Dublin 16",Dublin,473000.0,No,Templeogue,Dublin 6W,q2,50%
+26/01/2018,"35 Anne Devlin Park, Templeogue, Dublin 14",Dublin,540000.0,No,Templeogue,Dublin 6W,q3,70%
+26/01/2018,"99 Westbourne Lodge, Templeogue, Dublin 16",Dublin,530000.0,No,Templeogue,Dublin 6W,q3,70%
+09/02/2018,"4 Wellington Road, Templeogue, Dublin 6W",Dublin,470000.0,No,Templeogue,Dublin 6W,q2,50%
+09/02/2018,"8 Cypress Garth, Templeogue, Dublin 6W",Dublin,630000.0,No,Templeogue,Dublin 6W,q4,90%
+22/02/2018,"357A Orwell Park Close, Templeogue, Dublin 6W",Dublin,620000.0,No,Templeogue,Dublin 6W,q4,90%
+23/02/2018,"33 Ballyroan Rd, Templeogue, Dublin 16",Dublin,537000.0,No,Templeogue,Dublin 6W,q3,70%
+28/02/2018,"204 Templeogue Rd, Dublin 6W, Dublin",Dublin,793750.0,No,Templeogue,Dublin 6W,q4,100%
+05/03/2018,"37 Grosvenor Court, Templeogue, Dublin 6W",Dublin,520000.0,No,Templeogue,Dublin 6W,q3,60%
+26/03/2018,"46 Cremorne, Templeogue, Dublin 16",Dublin,585000.0,No,Templeogue,Dublin 6W,q3,80%
+27/03/2018,"170 Templeogue Village, Templeogue, Dublin 6W",Dublin,361075.0,No,Templeogue,Dublin 6W,q1,20%
+28/03/2018,"42 Willington Dr, Templeogue, Dublin 6W",Dublin,475000.0,No,Templeogue,Dublin 6W,q2,50%
+18/04/2018,"5 The Heath, Cypress Downs, Templeogue Dublin 6W",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+01/05/2018,"9 Glendown Grove, Templeogue, Dublin 6W",Dublin,650000.0,No,Templeogue,Dublin 6W,q4,90%
+10/05/2018,"1 Glendown Green, Templeogue, Dublin 6W",Dublin,765000.0,No,Templeogue,Dublin 6W,q4,100%
+24/05/2018,"107 Templeville Road, Templeogue, Dublin 6W",Dublin,590000.0,No,Templeogue,Dublin 6W,q4,80%
+24/05/2018,"23 The Drive, Cypress Downes, Templeogue",Dublin,600000.0,No,Templeogue,Dublin 6W,q4,80%
+27/05/2018,"176A Orwell, Templeogue, Dublin 6W",Dublin,560000.0,No,Templeogue,Dublin 6W,q3,70%
+30/05/2018,"16 Willington Grove, Templeogue, Dublin 6W",Dublin,390000.0,No,Templeogue,Dublin 6W,q1,30%
+30/05/2018,"24 College Sq, Wainsfort Manor, Templeogue Dublin 6W",Dublin,845000.0,No,Templeogue,Dublin 6W,q4,100%
+31/05/2018,"3 Wellington Road, Templeogue, Dublin 6W",Dublin,520000.0,No,Templeogue,Dublin 6W,q3,60%
+06/06/2018,"12 Wellington Cottages, Templeogue, Dublin 6W",Dublin,380000.0,No,Templeogue,Dublin 6W,q1,20%
+12/06/2018,"Beechmark, Scholarstown Rd, Templeogue Dublin 16",Dublin,975000.0,No,Templeogue,Dublin 6W,q4,100%
+15/06/2018,"171 Ballyroan Road, Templeogue, Dublin 16",Dublin,540000.0,No,Templeogue,Dublin 6W,q3,70%
+18/06/2018,"44 Cypress Grove South, Templeogue, Dublin 6W",Dublin,656387.67,Yes,Templeogue,Dublin 6W,q4,90%
+22/06/2018,"13A Rossmore Lawns, Templeogue, Dublin 6W",Dublin,595000.0,No,Templeogue,Dublin 6W,q4,80%
+28/06/2018,"4 Willington Lawn, Templeogue, Dublin 7",Dublin,525000.0,No,Templeogue,Dublin 6W,q3,70%
+29/06/2018,"182 Bushy Park House, Templeogue Rd, Dublin 6W",Dublin,635000.0,No,Templeogue,Dublin 6W,q4,90%
+29/06/2018,"57 Cypress Grove Rd, Templeogue, Dublin 6W",Dublin,630000.0,No,Templeogue,Dublin 6W,q4,90%
+02/07/2018,"377 Orwell Park Crescent, Templeogue, Dublin 6W",Dublin,445000.0,No,Templeogue,Dublin 6W,q2,40%
+03/07/2018,"22 Rossmore Park, Templeogue, Dublin 6W",Dublin,460000.0,No,Templeogue,Dublin 6W,q2,50%
+04/07/2018,"12 Cremorne, Templeogue, Dublin 16",Dublin,592250.0,No,Templeogue,Dublin 6W,q4,80%
+11/07/2018,"11 Corrybeg Way, Templeogue, Dublin 6",Dublin,748898.68,Yes,Templeogue,Dublin 6W,q4,100%
+13/07/2018,"20 Templeville Rd, Templeogue, Dublin 6W",Dublin,655000.0,No,Templeogue,Dublin 6W,q4,90%
+18/07/2018,"9 Osprey Lawn, Templeogue, Dublin 6W",Dublin,525000.0,No,Templeogue,Dublin 6W,q3,70%
+19/07/2018,"253 Orwell Park Glade, Templeogue, Dublin 6W",Dublin,615000.0,No,Templeogue,Dublin 6W,q4,90%
+19/07/2018,"69 Cypress Grove Rd, Templeogue, Dublin 6W",Dublin,585000.0,No,Templeogue,Dublin 6W,q3,80%
+20/07/2018,"13 Woodbrook Park, Templeogue, Dublin 16",Dublin,557500.0,No,Templeogue,Dublin 6W,q3,70%
+27/07/2018,"49 Rossmore Lawns, Templeogue, Dublin 6W",Dublin,495000.0,No,Templeogue,Dublin 6W,q3,60%
+31/07/2018,"35 Willington Ave, Templeogue, Dublin 6W",Dublin,485000.0,No,Templeogue,Dublin 6W,q2,50%
+01/08/2018,"14 Orchardstown Dr, Templeogue, Dublin 14",Dublin,590000.0,No,Templeogue,Dublin 6W,q4,80%
+02/08/2018,"181 Orwell Park Heights, Templeogue, Dublin 6W",Dublin,475000.0,No,Templeogue,Dublin 6W,q2,50%
+08/08/2018,"12 Corrybeg Way, Templeogue, Dublin 6W",Dublin,748899.0,Yes,Templeogue,Dublin 6W,q4,100%
+08/08/2018,"20 Templeville Park, Templeogue, Co. Dublin",Dublin,792951.0,Yes,Templeogue,Dublin 6W,q4,100%
+10/08/2018,"21B Wellington Park, Templeogue, Dublin 6W",Dublin,625000.0,No,Templeogue,Dublin 6W,q4,90%
+13/08/2018,"4 Templeogue Lodge, Templeogue, Dublin 6W",Dublin,516000.0,No,Templeogue,Dublin 6W,q3,60%
+14/08/2018,"259 Orwell Park Glade, Templeogue, Dublin 6W",Dublin,585000.0,No,Templeogue,Dublin 6W,q4,80%
+20/08/2018,"121 Orwell Park Vw, Templeogue, Dublin 6W",Dublin,496000.0,No,Templeogue,Dublin 6W,q3,60%
+20/08/2018,"Fairborne, Templeville Park, Templeogue",Dublin,788600.0,Yes,Templeogue,Dublin 6W,q4,100%
+23/08/2018,"17 Orlagh Court, Scholarstown Rd, Templeogue Dublin 16",Dublin,495000.0,No,Templeogue,Dublin 6W,q3,60%
+27/08/2018,"31 Mount Alton, Templeogue, Dublin 6",Dublin,490000.0,No,Templeogue,Dublin 6W,q3,60%
+28/08/2018,"17 Wainsfort Ave, Templeogue, Dublin 6W",Dublin,545000.0,No,Templeogue,Dublin 6W,q3,70%
+28/08/2018,"2 Hillcrest Manor, Templeogue, Dublin 6W",Dublin,401000.0,No,Templeogue,Dublin 6W,q1,30%
+30/08/2018,"Apt 94, Bushy Park House, Templeogue Dublin 6W",Dublin,420000.0,No,Templeogue,Dublin 6W,q2,30%
+07/09/2018,"10 Corrybeg Way, Templeogue, Dublin 6W",Dublin,748899.0,Yes,Templeogue,Dublin 6W,q4,100%
+14/09/2018,"6 Wellington Cottages, Templeogue, Dublin",Dublin,782000.0,No,Templeogue,Dublin 6W,q4,100%
+24/09/2018,"11 Limekiln Rd, Manor Estate, Templeogue Dublin 12",Dublin,480000.0,No,Templeogue,Dublin 6W,q2,50%
+27/09/2018,"5 Templeroan Close, Templeogue, Dublin 16",Dublin,545000.0,No,Templeogue,Dublin 6W,q3,70%
+28/09/2018,"Apt.196, Bushy Park House, Templeogue Road",Dublin,650000.0,No,Templeogue,Dublin 6W,q4,90%
+04/10/2018,"98 Templeville Rd, Templeogue, Dublin 6W",Dublin,673000.0,No,Templeogue,Dublin 6W,q4,90%
+09/10/2018,"261 Templeogue Rd, Templeogue, Dublin 6W",Dublin,650000.0,No,Templeogue,Dublin 6W,q4,90%
+11/10/2018,"42 Ashfield, Templeogue, Dublin 6W",Dublin,598000.0,No,Templeogue,Dublin 6W,q4,80%
+19/10/2018,"33 Ballymace Green, Templeogue, Dublin 14",Dublin,725000.0,No,Templeogue,Dublin 6W,q4,100%
+23/10/2018,"9 Willington Cresent, Templeogue, Dublin 12",Dublin,525000.0,No,Templeogue,Dublin 6W,q3,70%
+25/10/2018,"15 Glendown Crescent, Templeogue, Dublin 6",Dublin,625000.0,No,Templeogue,Dublin 6W,q4,90%
+30/10/2018,"16 Orwell Park Heights, Templeogue, Dublin",Dublin,635000.0,No,Templeogue,Dublin 6W,q4,90%
+30/10/2018,"39A Orwell Park Rise, Templeogue, Dublin",Dublin,546255.0,Yes,Templeogue,Dublin 6W,q3,70%
+13/11/2018,"12 Coolamber Park, Templeogue, Dublin 16",Dublin,515000.0,No,Templeogue,Dublin 6W,q3,60%
+16/11/2018,"13 Willington Grove, Templeogue, Dublin 6W",Dublin,468000.0,No,Templeogue,Dublin 6W,q2,50%
+16/11/2018,"16 Osprey Lawn, Templeogue, Dublin 6W",Dublin,530000.0,No,Templeogue,Dublin 6W,q3,70%
+16/11/2018,"29 Beverly Ave, Templeogue, Dublin 16",Dublin,415000.0,No,Templeogue,Dublin 6W,q2,30%
+16/11/2018,"5 Ladywell, Corrybeg Way, Templeogue",Dublin,748898.0,Yes,Templeogue,Dublin 6W,q4,100%
+28/11/2018,"8 Ashfield Place, Templeogue Road",Dublin,603524.0,Yes,Templeogue,Dublin 6W,q4,80%
+29/11/2018,"Apt 179, Bushy Park House, Templeogue Rd Dublin 6W",Dublin,430000.0,No,Templeogue,Dublin 6W,q2,40%
+30/11/2018,"2 Corrybeg Way, Templeogue",Dublin,969163.0,Yes,Templeogue,Dublin 6W,q4,100%
+30/11/2018,"9 Ashfield Place, Templeogue Road, Dublin 6 W",Dublin,625550.65,Yes,Templeogue,Dublin 6W,q4,90%
+03/12/2018,"6 Corrybeg Way, Templeogue, Dublin 6W",Dublin,754185.0,Yes,Templeogue,Dublin 6W,q4,100%
+05/12/2018,"15 Glendown Grove, Templeogue, Dublin 6W",Dublin,560000.0,No,Templeogue,Dublin 6W,q3,70%
+05/12/2018,"20 Willington Crescent, Templeogue, Dublin 6W",Dublin,565000.0,No,Templeogue,Dublin 6W,q3,80%
+05/12/2018,"4 Wellington Road, Templeogue, Dublin 6W",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+07/12/2018,"2 Ashton Grove, Templeogue, Dublin 16",Dublin,520000.0,No,Templeogue,Dublin 6W,q3,60%
+18/12/2018,"110 Orwell Park View, Templeogue, Dublin 6",Dublin,440000.0,No,Templeogue,Dublin 6W,q2,40%
+18/12/2018,"2 Domville Rd, Templeogue, Dublin",Dublin,630000.0,No,Templeogue,Dublin 6W,q4,90%
+19/12/2018,"1 Corrybeg Way, Templeogue, Dublin 6W",Dublin,1038000.0,Yes,Templeogue,Dublin 6W,q4,100%
+21/12/2018,"4 Ladywell, Corrybeg Way, Templeogue",Dublin,792951.0,Yes,Templeogue,Dublin 6W,q4,100%
+04/01/2019,"11 Corrybeg, Templeogue Bridge, Dublin 6W",Dublin,1325000.0,No,Templeogue,Dublin 6W,q4,100%
+18/01/2019,"229 Templeogue Rd, Templeogue, Dublin 6W",Dublin,850000.0,No,Templeogue,Dublin 6W,q4,100%
+18/01/2019,"30 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,460000.0,No,Templeogue,Dublin 6W,q2,50%
+21/01/2019,"12 Willington Court, Templeogue, Dublin 6W",Dublin,505000.0,No,Templeogue,Dublin 6W,q3,60%
+21/01/2019,"48 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,452000.0,No,Templeogue,Dublin 6W,q2,40%
+22/01/2019,"116 Templeville Rd, Templeogue, Dublin 6W",Dublin,580000.0,No,Templeogue,Dublin 6W,q3,80%
+28/01/2019,"339 Orwell Park Ave, Templeogue, Dublin 6W",Dublin,545000.0,No,Templeogue,Dublin 6W,q3,70%
+01/02/2019,"12 Cypress Park, Templeogue, Dublin 6W",Dublin,300000.0,No,Templeogue,Dublin 6W,q1,10%
+01/02/2019,"66 Rossmore Lawns, Templeogue, Dublin 6W",Dublin,470000.0,No,Templeogue,Dublin 6W,q2,50%
+01/02/2019,"Lourdesville, 100 Templeville Rd, Templeogue Dublin 6W",Dublin,675000.0,No,Templeogue,Dublin 6W,q4,90%
+06/02/2019,"1 The Watercourse, Templeogue, Dublin 6W",Dublin,840000.0,No,Templeogue,Dublin 6W,q4,100%
+18/02/2019,"99 Bushy Park House, Templeogue Rd, Dublin",Dublin,427000.0,No,Templeogue,Dublin 6W,q2,30%
+18/02/2019,"Clashmore, 313 Templeogue Rd, Templeogue Dublin 6W",Dublin,755000.0,No,Templeogue,Dublin 6W,q4,100%
+21/02/2019,"15 Cypress Park, Templeogue, Dublin 6W",Dublin,630000.0,No,Templeogue,Dublin 6W,q4,90%
+28/02/2019,"109 Wainsfort Manor Dr, Templeogue, Dublin 6W",Dublin,595000.0,No,Templeogue,Dublin 6W,q4,80%
+01/03/2019,"13 Delaford Park, Templeogue, Dublin 16",Dublin,390000.0,No,Templeogue,Dublin 6W,q1,30%
+29/03/2019,"13 Orlagh Ave, Templeogue, Dublin 16",Dublin,420000.0,No,Templeogue,Dublin 6W,q2,30%
+03/04/2019,"22 Templeville Park, Templeogue, Dublin 6W",Dublin,682819.38,Yes,Templeogue,Dublin 6W,q4,90%
+04/04/2019,"15 Templeogue Lodge, Templeogue, Dublin 6W",Dublin,487500.0,No,Templeogue,Dublin 6W,q2,50%
+05/04/2019,"216 Orwell Park Heights, Templeogue, Dublin 6W",Dublin,440000.0,No,Templeogue,Dublin 6W,q2,40%
+12/04/2019,"20 Anne Devlin Road, Templeogue, Dublin 14",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+16/04/2019,"194 Bushy Park House, Templeogue Rd, Dublin 6W",Dublin,480000.0,No,Templeogue,Dublin 6W,q2,50%
+18/04/2019,"16 Willington Grove, Templeogue, Dublin 6W",Dublin,476000.0,No,Templeogue,Dublin 6W,q2,50%
+25/04/2019,"Burnsley, Templeogue Road, Dublin 6W",Dublin,950000.0,No,Templeogue,Dublin 6W,q4,100%
+26/04/2019,"14 Ashfield Place, Templeogue, Dublin 6W",Dublin,704846.0,Yes,Templeogue,Dublin 6W,q4,100%
+01/05/2019,"12 Ashfield Place, Templeogue Road, Templeogue",Dublin,700440.53,Yes,Templeogue,Dublin 6W,q4,100%
+15/05/2019,"Maryfield, Scholarstown Rd, Templeogue Dublin 16",Dublin,1925000.0,No,Templeogue,Dublin 6W,q4,100%
+27/05/2019,"245 Orwell Park Glade, Templeogue, Dublin 6W",Dublin,560000.0,No,Templeogue,Dublin 6W,q3,70%
+28/05/2019,"6 Rossmore Avenue, Templeogue, Dublin 6 W",Dublin,687500.0,No,Templeogue,Dublin 6W,q4,90%
+30/05/2019,"1 Ashfield, Templeogue, Dublin 6W",Dublin,620000.0,No,Templeogue,Dublin 6W,q4,90%
+30/05/2019,"21 Domville Rd, Templeogue, Dublin 6W",Dublin,463000.0,No,Templeogue,Dublin 6W,q2,50%
+04/06/2019,"2 Glenvara Park, Templeogue, Dublin 16",Dublin,385000.0,No,Templeogue,Dublin 6W,q1,30%
+06/06/2019,"47 Ballyroan Rd, Templeogue, Dublin 16",Dublin,535000.0,No,Templeogue,Dublin 6W,q3,70%
+13/06/2019,"8 Woodbrook Park, Templeogue, Dublin 16",Dublin,710000.0,No,Templeogue,Dublin 6W,q4,100%
+17/06/2019,"10 Willington Grove, Templeogue, Dublin 6W",Dublin,412000.0,No,Templeogue,Dublin 6W,q2,30%
+18/06/2019,"21 Templeville Park, Templeogue",Dublin,684581.0,Yes,Templeogue,Dublin 6W,q4,90%
+21/06/2019,"51 Elkwood, Templeogue, Dublin 16",Dublin,482500.0,No,Templeogue,Dublin 6W,q2,50%
+24/06/2019,"1A Ashfield, Templeogue",Dublin,625550.66,Yes,Templeogue,Dublin 6W,q4,90%
+26/06/2019,"3 Ashfield Place, Templeogue Road",Dublin,563877.0,Yes,Templeogue,Dublin 6W,q3,80%
+28/06/2019,"5 Wellington Road, Templeogue, Dublin 6W",Dublin,496000.0,No,Templeogue,Dublin 6W,q3,60%
+01/07/2019,"23 Cypress Park, Templeogue, Dublin 6W",Dublin,495000.0,No,Templeogue,Dublin 6W,q3,60%
+04/07/2019,"78 Westbourne Lodge, Templeogue Dublin 16, Dublin",Dublin,480000.0,No,Templeogue,Dublin 6W,q2,50%
+09/07/2019,"11 Ashfield Place, Templeogue Road, Dublin 6W",Dublin,660793.0,Yes,Templeogue,Dublin 6W,q4,90%
+15/07/2019,"22 Cypress Grove North, Templeogue, Dublin 6W",Dublin,609000.0,No,Templeogue,Dublin 6W,q4,90%
+19/07/2019,"33 Willington Dr, Templeogue, Dublin 6W",Dublin,455000.0,No,Templeogue,Dublin 6W,q2,40%
+19/07/2019,"8 The Court, Cypress Downs, Templeogue",Dublin,750000.0,No,Templeogue,Dublin 6W,q4,100%
+25/07/2019,"15 Grosvenor Court, Templeogue, Dublin 6W",Dublin,660000.0,No,Templeogue,Dublin 6W,q4,90%
+26/07/2019,"Unit 15, Ashfield Place, Templeogue Road",Dublin,528634.35,Yes,Templeogue,Dublin 6W,q3,70%
+29/07/2019,"7 Kilvere Park, Cypress Downs, Templeogue Dublin 6W",Dublin,463000.0,No,Templeogue,Dublin 6W,q2,50%
+30/07/2019,"25 Knockcullen Park, Templeogue, Dublin 16",Dublin,590000.0,No,Templeogue,Dublin 6W,q4,80%
+31/07/2019,"413 Orwell Park, Templeogue, Dublin 6 W",Dublin,880000.0,No,Templeogue,Dublin 6W,q4,100%
+31/07/2019,"52 Orwell Park Rise, Wellington Lane, Templeogue Dublin 6W",Dublin,520000.0,No,Templeogue,Dublin 6W,q3,60%
+02/08/2019,"5 The Park, Cypress Downs, Templeogue",Dublin,872500.0,No,Templeogue,Dublin 6W,q4,100%
+06/08/2019,"2 Ashfield Place, Templeogue Road, Dublin 6W",Dublin,572683.0,Yes,Templeogue,Dublin 6W,q3,80%
+07/08/2019,"1 Wellington Rd, Templeogue, Dublin 6W",Dublin,494000.0,No,Templeogue,Dublin 6W,q3,60%
+08/08/2019,"25 Kilvere Park, Cypress Downs, Templeogue Dublin 6W",Dublin,345000.0,No,Templeogue,Dublin 6W,q1,20%
+13/08/2019,"28 Orlagh Meadows, Templeogue, Dublin 16",Dublin,515000.0,No,Templeogue,Dublin 6W,q3,60%
+14/08/2019,"101 Orwell Park Rise, Templeogue, Dublin 6W",Dublin,445000.0,No,Templeogue,Dublin 6W,q2,40%
+15/08/2019,"130 Templeville Rd, Templeogue, Dublin 6W",Dublin,550000.0,No,Templeogue,Dublin 6W,q3,70%
+15/08/2019,"6 The Walk, Cypress Downs, Templeogue Dublin 6W",Dublin,497000.0,No,Templeogue,Dublin 6W,q3,60%
+22/08/2019,"96 Templeville Dr, Templeogue, Dublin 6W",Dublin,660000.0,No,Templeogue,Dublin 6W,q4,90%
+23/08/2019,"3 Cypress Dr, Templeogue, Dublin 6W",Dublin,585000.0,No,Templeogue,Dublin 6W,q4,80%
+29/08/2019,"4 Ashfield Place, Templeogue, Dublin 6W",Dublin,678414.1,Yes,Templeogue,Dublin 6W,q4,90%
+03/09/2019,"1 Templeroan Downs, Templeogue, Dublin 16",Dublin,545000.0,No,Templeogue,Dublin 6W,q3,70%
+04/09/2019,"3 Ballyroan Crescent, Templeogue, Dublin",Dublin,553000.0,No,Templeogue,Dublin 6W,q3,70%
+05/09/2019,"2 Hyde Park, Templeogue, Dublin 6W",Dublin,785000.0,No,Templeogue,Dublin 6W,q4,100%
+05/09/2019,"37 Ballyroan Rd, Templeogue, Dublin 16",Dublin,535000.0,No,Templeogue,Dublin 6W,q3,70%
+09/09/2019,"11 Rossmore Avenue, Templeogue, Dublin 6W",Dublin,568000.0,No,Templeogue,Dublin 6W,q3,80%
+11/09/2019,"16 Ashfield Place, Templeogue Village, Templeogue",Dublin,484400.0,Yes,Templeogue,Dublin 6W,q2,50%
+11/09/2019,"31 Ashton Close, Templeogue, Dublin 16",Dublin,450000.0,No,Templeogue,Dublin 6W,q2,40%
+16/09/2019,"14 Rossmore Ave, Templeogue, Dublin 6W",Dublin,557500.0,No,Templeogue,Dublin 6W,q3,70%
+18/09/2019,"449 Orwell Park Green, Templeogue, Dublin 6W",Dublin,471000.0,No,Templeogue,Dublin 6W,q2,50%
+20/09/2019,"8 Rossmore Dr, Templeogue, Dublin 6W",Dublin,580000.0,No,Templeogue,Dublin 6W,q3,80%
+04/10/2019,"30 Willington Ave, Templeogue, Dublin 6W",Dublin,585000.0,No,Templeogue,Dublin 6W,q4,80%
+07/10/2019,"336 Orwell Park Avenue, Templeogue, Dublin 6W",Dublin,540000.0,No,Templeogue,Dublin 6W,q3,70%
+16/10/2019,"303 Orwell Park Grove, Templeogue, Dublin 6W",Dublin,257500.0,No,Templeogue,Dublin 6W,q1,10%
+17/10/2019,"19 Knockcullen Park, Templeogue, Dublin 16",Dublin,575000.0,No,Templeogue,Dublin 6W,q3,80%

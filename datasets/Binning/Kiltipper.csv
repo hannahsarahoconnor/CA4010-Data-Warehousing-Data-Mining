@@ -1,0 +1,374 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/01/2010,"38 Ellensborough Copse, Kiltipper, Dublin",Dublin,290000.0,No,Kiltipper,Dublin 24,q4,90%
+16/04/2010,"37 Deerpark Close, Kiltipper Way, Kiltipper",Dublin,144500.0,No,Kiltipper,Dublin 24,q1,10%
+02/06/2010,"15 Deerpark Close, Kiltipper, Dublin 24",Dublin,140000.0,No,Kiltipper,Dublin 24,q1,10%
+16/06/2010,"3 Ellensborough View, Kiltipper, Dublin 24",Dublin,260000.0,No,Kiltipper,Dublin 24,q3,70%
+16/07/2010,"29 Deerpark Close, Kiltipper",Dublin,140000.0,No,Kiltipper,Dublin 24,q1,10%
+30/07/2010,"3 Ellensborough Park, Kiltipper, Dublin 24",Dublin,245000.0,No,Kiltipper,Dublin 24,q2,40%
+11/10/2010,"1A Ellensborough Court, Kiltipper",Dublin,370000.0,No,Kiltipper,Dublin 24,q4,100%
+15/10/2010,"17 Marlfield Green, Kiltipper",Dublin,232000.0,No,Kiltipper,Dublin 24,q1,30%
+22/09/2011,"36 Ellensborough Crescent, Kiltipper, Dublin 24",Dublin,245000.0,No,Kiltipper,Dublin 24,q2,40%
+22/11/2011,"11 Marlfield Grove, Kiltipper",Dublin,105000.0,No,Kiltipper,Dublin 24,q1,10%
+30/11/2011,"24 Ellensborough Court, Kiltipper, Dublin 24",Dublin,227000.0,No,Kiltipper,Dublin 24,q1,20%
+16/12/2011,"24 Ellensborough Downs, Kiltipper",Dublin,217000.0,No,Kiltipper,Dublin 24,q1,20%
+16/12/2011,"8 Ellensborough View, Kiltipper  Tallaght, Dublin 24",Dublin,235000.0,No,Kiltipper,Dublin 24,q1,30%
+17/01/2012,"26 Marlfield Mall, Kiltipper",Dublin,70000.0,No,Kiltipper,Dublin 24,q1,10%
+04/04/2012,"37 Deer Park Close, Kiltipper",Dublin,106000.0,No,Kiltipper,Dublin 24,q1,10%
+05/10/2012,"21 Deerpark Way, Kiltipper",Dublin,87500.0,No,Kiltipper,Dublin 24,q1,10%
+18/12/2012,"55 Ellensborough Lodge, Kiltipper Road Tallaght, Dublin 24",Dublin,135000.0,No,Kiltipper,Dublin 24,q1,10%
+28/03/2013,"16 Marlfield Close, Kiltipper",Dublin,75000.0,No,Kiltipper,Dublin 24,q1,10%
+30/04/2013,"8 Deerpark Place, Kiltipper Way",Dublin,75000.0,No,Kiltipper,Dublin 24,q1,10%
+28/06/2013,"1 Deerpark Road, Kiltipper",Dublin,200000.0,No,Kiltipper,Dublin 24,q1,20%
+17/07/2013,"33 Ellensborough View, Kiltipper",Dublin,231000.0,No,Kiltipper,Dublin 24,q1,20%
+27/11/2013,"11 Deerpark Close, Kiltipper",Dublin,98000.0,No,Kiltipper,Dublin 24,q1,10%
+28/11/2013,"Apt 10, Ellensborough Lodge, Kiltipper Rd Dublin 24",Dublin,195000.0,No,Kiltipper,Dublin 24,q1,20%
+09/12/2013,"42 Kiltipper Avenue, Aylesbury, Dublin 24",Dublin,192500.0,No,Kiltipper,Dublin 24,q1,20%
+09/06/2014,"24 Ellensborough Lodge, Kiltipper, Dublin 24",Dublin,115000.0,No,Kiltipper,Dublin 24,q1,10%
+16/12/2014,"3 Elder Heath Avenue, Elder Heath, Kiltipper Road",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+16/12/2014,"4 Elder Heath Woods, Elder Heath, Kiltipper Road",Dublin,237886.0,Yes,Kiltipper,Dublin 24,q1,30%
+17/12/2014,"2 Elder Heath Avenue, Kiltipper Road, Dublin 24",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+22/12/2014,"1 Ellensborough Lodge, Kiltipper Rd, Dublin 24",Dublin,205000.0,No,Kiltipper,Dublin 24,q1,20%
+27/01/2015,"Leabeg, Kiltipper Rd, Dublin 24",Dublin,275000.0,No,Kiltipper,Dublin 24,q4,80%
+27/02/2015,"5 Elder Heath Woods, Elder Heath, Kiltipper Road",Dublin,281938.32,Yes,Kiltipper,Dublin 24,q4,90%
+06/03/2015,"11 Ellensborough Lawn, Kiltipper, Dublin 24",Dublin,300000.0,No,Kiltipper,Dublin 24,q4,100%
+31/03/2015,"3 Elderheath Woods, Elder Heath, Kiltipper Road",Dublin,277533.0,Yes,Kiltipper,Dublin 24,q4,90%
+10/04/2015,"5 Elder Heath Glade, Elder Heath, Kiltipper Road",Dublin,242290.74,Yes,Kiltipper,Dublin 24,q2,40%
+15/04/2015,"2 Elderheath Glade, Kiltipper Road, Dublin 24",Dublin,273572.68,Yes,Kiltipper,Dublin 24,q4,80%
+17/04/2015,"68 Deerpark Rd, Kiltipper, Dublin 24",Dublin,135000.0,No,Kiltipper,Dublin 24,q1,10%
+24/04/2015,"4 Elder Heath Glade, Kiltipper, Dublin 24",Dublin,242290.75,Yes,Kiltipper,Dublin 24,q2,40%
+01/05/2015,"3 Elder Heath Glade, Elder Heath, Kiltipper Road",Dublin,242290.0,Yes,Kiltipper,Dublin 24,q2,30%
+20/05/2015,"1 Elder Heath Glade, Kiltipper Road",Dublin,246907.0,Yes,Kiltipper,Dublin 24,q2,50%
+27/05/2015,"4 Ellensborough Grange, Kiltipper Rd, Dublin 24",Dublin,250000.0,No,Kiltipper,Dublin 24,q2,50%
+09/06/2015,"13 Ellensborough Walk, Kiltipper, Dublin 24",Dublin,287500.0,No,Kiltipper,Dublin 24,q4,90%
+09/06/2015,"2 Kiltipper View, Kiltipper, Dublin 24",Dublin,234000.0,No,Kiltipper,Dublin 24,q1,30%
+18/06/2015,"6 Elder Heath Glade, Elder Heath, Kiltipper Road",Dublin,242290.75,Yes,Kiltipper,Dublin 24,q2,40%
+07/07/2015,"31 The Lawn, Marlfield, Kiltipper Way",Dublin,130000.0,No,Kiltipper,Dublin 24,q1,10%
+13/08/2015,"69 Marlfield Place, Kiltipper Way, Dublin 24",Dublin,220000.0,No,Kiltipper,Dublin 24,q1,20%
+19/08/2015,"10 Elder Heath Vale, Elder Heath, Kiltipper Road",Dublin,246696.03,Yes,Kiltipper,Dublin 24,q2,50%
+20/08/2015,"7 Elder Heath Vale, Elder Heath, Kiltipper Road",Dublin,242290.0,Yes,Kiltipper,Dublin 24,q2,30%
+24/08/2015,"11 Elder Heath Vale, Elder Heath, Kiltipper Road",Dublin,246696.03,Yes,Kiltipper,Dublin 24,q2,50%
+03/09/2015,"79 Kiltipper Dr, Dublin 24, Dublin",Dublin,180000.0,No,Kiltipper,Dublin 24,q1,10%
+07/09/2015,"6 Elder Heath Vale, Elder Heath, Kiltipper Road",Dublin,242290.72,Yes,Kiltipper,Dublin 24,q2,40%
+09/09/2015,"9 Elder Heath Vale, Kiltipper Road",Dublin,246696.04,Yes,Kiltipper,Dublin 24,q2,50%
+10/09/2015,"3 Elder Heath Vale, Elder Heath, Kiltipper Road",Dublin,229075.0,Yes,Kiltipper,Dublin 24,q1,20%
+14/09/2015,"13 Elder Heath Vale, Elder Heath, Kiltipper Road",Dublin,259911.9,Yes,Kiltipper,Dublin 24,q3,70%
+16/09/2015,"57 Kiltipper Gate, Kiltipper Way, Dublin 24",Dublin,152000.0,No,Kiltipper,Dublin 24,q1,10%
+16/09/2015,"8 Elder Heath Vale, Elder Heath, Kiltipper Road",Dublin,242299.75,Yes,Kiltipper,Dublin 24,q2,40%
+17/09/2015,"3 Deerpark Lodge, Deepark Rise, Kiltipper Way Dublin 24",Dublin,135000.0,No,Kiltipper,Dublin 24,q1,10%
+18/09/2015,"1 Elder Heath Vale, Elder Heath, Kiltipper Road",Dublin,237886.0,Yes,Kiltipper,Dublin 24,q1,30%
+18/09/2015,"160 Kiltipper Gate, Kiltipper Way, Dublin 24",Dublin,140000.0,No,Kiltipper,Dublin 24,q1,10%
+21/09/2015,"1 Elder Heath Woods, Elder Heath, Kiltipper Road",Dublin,259911.89,Yes,Kiltipper,Dublin 24,q3,70%
+21/09/2015,"61 Deerpark Place, Kiltipper, Dublin 24",Dublin,191000.0,No,Kiltipper,Dublin 24,q1,20%
+08/10/2015,"5 Deerpark Rd, Kiltipper Dublin 24, Dublin",Dublin,200000.0,No,Kiltipper,Dublin 24,q1,20%
+09/10/2015,"9 Elder Heath Avenue, Elder Heath, Kiltipper Road",Dublin,242291.0,Yes,Kiltipper,Dublin 24,q2,40%
+19/10/2015,"8 Elder Heath Avenue, Elder Heath, Kiltipper Road",Dublin,275000.0,Yes,Kiltipper,Dublin 24,q4,80%
+23/10/2015,"7 Elder Heath Avenue, Elder Heath, Kiltipper Road",Dublin,242290.75,Yes,Kiltipper,Dublin 24,q2,40%
+29/10/2015,"6 Elder Heath Avenue, Elder Heath, Kiltipper Road",Dublin,242290.74,Yes,Kiltipper,Dublin 24,q2,40%
+30/10/2015,"4 Elder Heath Avenue, Elder Heath, Kiltipper Road",Dublin,240037.5,Yes,Kiltipper,Dublin 24,q1,30%
+09/12/2015,"11 Kiltipper Gate, Kiltipper Way, Dublin 24",Dublin,146000.0,No,Kiltipper,Dublin 24,q1,10%
+11/12/2015,"2A Kiltipper Close, Aylesbury, Dublin",Dublin,150000.0,No,Kiltipper,Dublin 24,q1,10%
+22/12/2015,"10 Elder Heath Court, Elder Heath, Kiltipper Road",Dublin,229074.88,Yes,Kiltipper,Dublin 24,q1,20%
+22/12/2015,"9 Elder Heath Court, Elder Heath, Kiltipper Road",Dublin,251101.32,Yes,Kiltipper,Dublin 24,q2,50%
+29/01/2016,"Apt 18, Deerpark Road, Kiltipper Way",Dublin,133000.0,No,Kiltipper,Dublin 24,q1,10%
+03/02/2016,"3 Elder Heath Court, Elder Heath, Kiltipper Road",Dublin,229074.89,Yes,Kiltipper,Dublin 24,q1,20%
+08/02/2016,"4 Elder Heath Court, Elder Heath, Kiltipper Road",Dublin,242290.0,Yes,Kiltipper,Dublin 24,q2,30%
+11/02/2016,"Site No 2 Elder Heath Vale, Kiltipper Rd, Dublin 24",Dublin,295160.0,Yes,Kiltipper,Dublin 24,q4,100%
+22/04/2016,"22 Kiltipper Gate, Kiltipper Way, Dublin 24",Dublin,160000.0,No,Kiltipper,Dublin 24,q1,10%
+01/06/2016,"5 Elder Heath Lawn, Elder Heath, Kiltipper Road",Dublin,275000.0,Yes,Kiltipper,Dublin 24,q4,80%
+03/06/2016,"4 Elder Heath Lawn, Elder Heath, Kiltipper Road",Dublin,242291.0,Yes,Kiltipper,Dublin 24,q2,40%
+17/06/2016,"3 Elder Heath Lawn, Elder Heath, Kiltipper Road",Dublin,242290.75,Yes,Kiltipper,Dublin 24,q2,40%
+20/06/2016,"8 Elder Heath Mews, Elder Heath, Kiltipper Road",Dublin,229074.88,Yes,Kiltipper,Dublin 24,q1,20%
+24/06/2016,"6 Elder Heath Lawns, Kiltipper Road",Dublin,242291.0,Yes,Kiltipper,Dublin 24,q2,40%
+28/06/2016,"2 Elder Heath Mews, Elder Heath, Kiltipper Road",Dublin,315000.0,Yes,Kiltipper,Dublin 24,q4,100%
+01/07/2016,"10 Elder Heath Mews, Elder Heath, Kiltipper Road",Dublin,242290.74,Yes,Kiltipper,Dublin 24,q2,40%
+01/07/2016,"6 Elder Heath Mews, Elder Heath, Kiltipper Road",Dublin,275000.0,Yes,Kiltipper,Dublin 24,q4,90%
+11/07/2016,"7 Elder Heath Lawn, Elder Heath, Kiltipper Road",Dublin,242291.0,Yes,Kiltipper,Dublin 24,q2,40%
+15/07/2016,"4 Elder Heath Mews, Elder Heath, Kiltipper Road",Dublin,277534.0,Yes,Kiltipper,Dublin 24,q4,90%
+15/07/2016,"8 Elder Heath Lawn, Kiltipper, Dublin 24",Dublin,242290.0,Yes,Kiltipper,Dublin 24,q2,30%
+27/07/2016,"13 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,237886.0,Yes,Kiltipper,Dublin 24,q1,30%
+28/07/2016,"12 Ellensborough Lane, Kiltipper Rd, Dublin 24",Dublin,268000.0,No,Kiltipper,Dublin 24,q3,80%
+28/07/2016,"14 Elder Heath Mews, Elder Heath, Kiltipper Road",Dublin,242290.74,Yes,Kiltipper,Dublin 24,q2,40%
+28/07/2016,"Kilshean, Kiltipper Rd, Old Bawn Dublin 24",Dublin,431000.0,No,Kiltipper,Dublin 24,q4,100%
+05/08/2016,"11 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,242290.0,Yes,Kiltipper,Dublin 24,q2,30%
+05/08/2016,"76 Deerpark Rd, Kiltipper, Dublin",Dublin,210000.0,No,Kiltipper,Dublin 24,q1,20%
+30/09/2016,"15 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,242290.0,Yes,Kiltipper,Dublin 24,q2,30%
+30/09/2016,"23 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,242290.0,Yes,Kiltipper,Dublin 24,q2,40%
+13/10/2016,"8 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,246696.04,Yes,Kiltipper,Dublin 24,q2,50%
+21/10/2016,"19 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,242290.74,Yes,Kiltipper,Dublin 24,q2,40%
+24/10/2016,"21 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,229075.0,Yes,Kiltipper,Dublin 24,q1,20%
+25/10/2016,"25 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+04/11/2016,"17 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,246696.04,Yes,Kiltipper,Dublin 24,q2,50%
+22/11/2016,"10 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,335000.0,Yes,Kiltipper,Dublin 24,q4,100%
+25/11/2016,"4 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,246696.03,Yes,Kiltipper,Dublin 24,q2,50%
+29/11/2016,"5 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,233480.0,Yes,Kiltipper,Dublin 24,q1,30%
+01/12/2016,"2 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,281938.0,Yes,Kiltipper,Dublin 24,q4,90%
+02/12/2016,"27 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,242290.74,Yes,Kiltipper,Dublin 24,q2,40%
+08/12/2016,"6 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+08/12/2016,"7 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,246525.0,Yes,Kiltipper,Dublin 24,q2,40%
+12/12/2016,"1 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+16/12/2016,"10 Elder Heath Meadow, Kiltipper Road",Dublin,251101.0,Yes,Kiltipper,Dublin 24,q2,50%
+16/12/2016,"5 Elder Heath Meadow, Kiltipper Road",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+16/12/2016,"Sonas Kiltipper, Rd Kiltipper, Dublin 24",Dublin,440000.0,No,Kiltipper,Dublin 24,q4,100%
+19/12/2016,"20 Elder Heath Meadows, Elder Heath, Kiltipper Road",Dublin,237885.0,Yes,Kiltipper,Dublin 24,q1,30%
+22/12/2016,"18 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,229225.0,Yes,Kiltipper,Dublin 24,q1,20%
+22/12/2016,"2 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,251101.0,Yes,Kiltipper,Dublin 24,q2,50%
+11/01/2017,"8 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,246697.0,Yes,Kiltipper,Dublin 24,q2,50%
+12/01/2017,"8 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+13/01/2017,"9 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,246696.03,Yes,Kiltipper,Dublin 24,q2,50%
+16/01/2017,"4 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,233480.17,Yes,Kiltipper,Dublin 24,q1,30%
+01/02/2017,"12 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,251101.32,Yes,Kiltipper,Dublin 24,q2,50%
+01/02/2017,"16 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,242000.0,Yes,Kiltipper,Dublin 24,q2,30%
+02/02/2017,"14 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,246696.03,Yes,Kiltipper,Dublin 24,q2,50%
+02/02/2017,"4 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,251101.0,Yes,Kiltipper,Dublin 24,q2,50%
+15/02/2017,"1 Elder Heath Court, Elder Heath, Kiltipper Road",Dublin,277534.0,Yes,Kiltipper,Dublin 24,q4,90%
+16/02/2017,"137 Kiltipper Gate, Kiltipper Way, Dublin 24",Dublin,190000.0,No,Kiltipper,Dublin 24,q1,20%
+20/02/2017,"74 Deerpark Rd, Kiltipper Rd, Kiltipper Tallaght Dublin 24",Dublin,248000.0,No,Kiltipper,Dublin 24,q2,50%
+06/03/2017,"7 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,247787.61,Yes,Kiltipper,Dublin 24,q2,50%
+08/03/2017,"19 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,251101.32,Yes,Kiltipper,Dublin 24,q2,50%
+08/03/2017,"21 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,251100.0,Yes,Kiltipper,Dublin 24,q2,50%
+13/03/2017,"17 Elder Heath Meadows, Elder Heath, Kiltipper Road",Dublin,246525.0,Yes,Kiltipper,Dublin 24,q2,40%
+13/03/2017,"8 Marlifield Lawn, Kiltipper, Dublin 24",Dublin,160000.0,No,Kiltipper,Dublin 24,q1,10%
+16/03/2017,"11 Elder Heath Meadow, Elder Heath, Kiltipper Road",Dublin,290748.89,Yes,Kiltipper,Dublin 24,q4,100%
+16/03/2017,"15 Elder Heath Meadows, Elder Heath, Kiltipper Road",Dublin,251101.32,Yes,Kiltipper,Dublin 24,q2,50%
+28/03/2017,"15 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,251100.0,Yes,Kiltipper,Dublin 24,q2,50%
+29/03/2017,"9 Elder Heath Lawns, Kiltipper Road, Dublin 24",Dublin,251101.32,Yes,Kiltipper,Dublin 24,q2,50%
+30/03/2017,"12 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,251101.0,Yes,Kiltipper,Dublin 24,q2,50%
+10/04/2017,"13 Elder Heath Meadow, Kiltipper, Dublin 24",Dublin,299560.0,Yes,Kiltipper,Dublin 24,q4,100%
+12/04/2017,"13 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,251101.0,Yes,Kiltipper,Dublin 24,q2,50%
+12/04/2017,"14 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,251101.0,Yes,Kiltipper,Dublin 24,q2,50%
+13/04/2017,"10 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,251101.32,Yes,Kiltipper,Dublin 24,q2,50%
+18/04/2017,"34 Deerp4Rk Sq, Kiltipper Gate Tallagn, Dublin 24",Dublin,190000.0,No,Kiltipper,Dublin 24,q1,20%
+17/05/2017,"16 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,251101.0,Yes,Kiltipper,Dublin 24,q2,50%
+19/05/2017,"5 Elder Heath Dale, Elder Heath, Kiltipper Road",Dublin,255506.0,Yes,Kiltipper,Dublin 24,q3,60%
+22/05/2017,"7 Elder Heath Dale, Elder Heath, Kiltipper Road",Dublin,255507.0,Yes,Kiltipper,Dublin 24,q3,60%
+24/05/2017,"9 Elder Heath Dale, Elder Heath, Kiltipper Road",Dublin,255506.0,Yes,Kiltipper,Dublin 24,q3,60%
+30/05/2017,"3 Elder Heath Dale, Kiltipper, Dublin 24",Dublin,255500.0,Yes,Kiltipper,Dublin 24,q3,60%
+01/06/2017,"1 Elder Heath Dale, Elder Heath, Kiltipper Road",Dublin,255506.61,Yes,Kiltipper,Dublin 24,q3,60%
+01/06/2017,"17 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,251101.32,Yes,Kiltipper,Dublin 24,q2,50%
+08/06/2017,"13 Elder Heath Dale, Elder Heath, Kiltipper Road",Dublin,255506.6,Yes,Kiltipper,Dublin 24,q3,60%
+14/06/2017,"51 Kiltipper Drive, Aylesbury, Dublin 24",Dublin,260000.0,No,Kiltipper,Dublin 24,q3,70%
+04/07/2017,"8 Ellensborough Crescent, Kiltipper Rd, Dublin 24",Dublin,391000.0,No,Kiltipper,Dublin 24,q4,100%
+06/07/2017,"24 Ellensborough Lodge, Kiltipper, Dublin 24",Dublin,201000.0,No,Kiltipper,Dublin 24,q1,20%
+11/07/2017,"3 Deerpark Way, Kiltipper Rd, Dublin 24",Dublin,250000.0,No,Kiltipper,Dublin 24,q2,50%
+20/07/2017,"9 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,255506.0,Yes,Kiltipper,Dublin 24,q3,60%
+21/07/2017,"3 Elder Heath View, Elder Heath, Kiltipper",Dublin,259911.0,Yes,Kiltipper,Dublin 24,q3,60%
+28/07/2017,"5 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,255506.0,Yes,Kiltipper,Dublin 24,q3,60%
+02/08/2017,"1 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,255506.6,Yes,Kiltipper,Dublin 24,q3,60%
+18/08/2017,"7 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,246696.03,Yes,Kiltipper,Dublin 24,q2,50%
+22/08/2017,"46 Marlfield Terrace, Kiltipper, Dublin 24",Dublin,210000.0,No,Kiltipper,Dublin 24,q1,20%
+25/08/2017,"11Elder Heath Dale, Elder Heath, Kiltipper Road",Dublin,290000.0,Yes,Kiltipper,Dublin 24,q4,100%
+21/09/2017,"16 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,255507.0,Yes,Kiltipper,Dublin 24,q3,60%
+21/09/2017,"24 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,273127.75,Yes,Kiltipper,Dublin 24,q4,80%
+22/09/2017,"23 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,70%
+25/09/2017,"22 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,251101.0,Yes,Kiltipper,Dublin 24,q2,50%
+26/09/2017,"18 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,255507.0,Yes,Kiltipper,Dublin 24,q3,60%
+26/09/2017,"19 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,255506.0,Yes,Kiltipper,Dublin 24,q3,60%
+27/09/2017,"17 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,255506.0,Yes,Kiltipper,Dublin 24,q3,60%
+29/09/2017,"21 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,255507.0,Yes,Kiltipper,Dublin 24,q3,60%
+02/10/2017,"30 Marlfield Mall, Kiltipper, Dublin",Dublin,140000.0,No,Kiltipper,Dublin 24,q1,10%
+11/10/2017,"10 Marlfield Lawns, Kiltipper, Dublin 24",Dublin,180000.0,No,Kiltipper,Dublin 24,q1,10%
+17/10/2017,"5 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,251101.0,Yes,Kiltipper,Dublin 24,q2,50%
+20/10/2017,"3 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,242290.0,Yes,Kiltipper,Dublin 24,q2,40%
+23/10/2017,"11 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,275000.0,Yes,Kiltipper,Dublin 24,q4,90%
+26/10/2017,"7 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,256143.75,Yes,Kiltipper,Dublin 24,q3,60%
+27/10/2017,"13 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,251200.0,Yes,Kiltipper,Dublin 24,q3,60%
+15/11/2017,"2A Kiltipper Close, Aylesbury, Dublin",Dublin,350000.0,No,Kiltipper,Dublin 24,q4,100%
+12/12/2017,"31 Marlfield Green, Kiltipper Way, Dublin 24",Dublin,256000.0,No,Kiltipper,Dublin 24,q3,60%
+21/12/2017,"Apt 29, Kiltipper Gate, Kiltipper Way Dublin 24",Dublin,135000.0,No,Kiltipper,Dublin 24,q1,10%
+22/12/2017,"3 Deerpark Lodge, Deepark Rise, Kiltipper Way Dublin 24",Dublin,190000.0,No,Kiltipper,Dublin 24,q1,20%
+05/01/2018,"6 Deerpark Lodge, Kiltipper, Dublin 24",Dublin,156500.0,No,Kiltipper,Dublin 24,q1,10%
+08/01/2018,"23 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,255600.0,Yes,Kiltipper,Dublin 24,q3,60%
+10/01/2018,"44 Deerpark Place, Kiltipper Way, Dublin 24",Dublin,175000.0,No,Kiltipper,Dublin 24,q1,10%
+19/01/2018,"19 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,242291.0,Yes,Kiltipper,Dublin 24,q2,40%
+19/01/2018,"21 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,242290.74,Yes,Kiltipper,Dublin 24,q2,40%
+25/01/2018,"15 Elder Heath Grove, Kiltipper Road",Dublin,251101.0,Yes,Kiltipper,Dublin 24,q2,50%
+02/02/2018,"3 Ellensbrough Grange, Kiltipper Rd, Dublin 24",Dublin,237000.0,No,Kiltipper,Dublin 24,q1,30%
+23/02/2018,"19 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,242290.0,Yes,Kiltipper,Dublin 24,q2,40%
+23/02/2018,"21 Elderheath Drive, Kiltipper, Dublin 24",Dublin,255506.61,Yes,Kiltipper,Dublin 24,q3,60%
+28/02/2018,"1 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,209957.17,Yes,Kiltipper,Dublin 24,q1,20%
+28/02/2018,"10 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,240230.96,Yes,Kiltipper,Dublin 24,q1,30%
+28/02/2018,"10 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"11 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,209957.17,Yes,Kiltipper,Dublin 24,q1,20%
+28/02/2018,"13 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"15 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,300000.0,Yes,Kiltipper,Dublin 24,q4,100%
+28/02/2018,"17 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,275000.0,Yes,Kiltipper,Dublin 24,q4,90%
+28/02/2018,"2 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,240230.96,Yes,Kiltipper,Dublin 24,q1,30%
+28/02/2018,"2 Elder Heath Grove, Elder Heath, Kiltipper",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"3 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,209957.17,Yes,Kiltipper,Dublin 24,q1,20%
+28/02/2018,"4 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"4 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"5 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"6 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"6 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"7 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"8 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"8 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,241791.23,Yes,Kiltipper,Dublin 24,q2,30%
+28/02/2018,"9 Elder Heath Close, Elder Heath, Kiltipper Road",Dublin,209957.17,Yes,Kiltipper,Dublin 24,q1,20%
+09/03/2018,"14 Elder Heath Drive, Kiltipper Road",Dublin,255507.0,Yes,Kiltipper,Dublin 24,q3,60%
+09/03/2018,"14 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,264317.18,Yes,Kiltipper,Dublin 24,q3,80%
+14/03/2018,"34 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,259912.0,Yes,Kiltipper,Dublin 24,q3,70%
+16/03/2018,"75 Marlfield Green, Kiltipper, Dublin 24",Dublin,275000.0,No,Kiltipper,Dublin 24,q4,90%
+23/03/2018,"26 Elder Heath Drive, Kiltipper Road, Dublin 24",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+23/03/2018,"30 Elder Heath Drive, Kiltipper Road, Dublin 24",Dublin,259912.0,Yes,Kiltipper,Dublin 24,q3,70%
+26/03/2018,"16 Elder Heath Drive, Kiltipper Road, Dublin 24",Dublin,246696.03,Yes,Kiltipper,Dublin 24,q2,50%
+28/03/2018,"20 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,255506.6,Yes,Kiltipper,Dublin 24,q3,60%
+29/03/2018,"28 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,255506.6,Yes,Kiltipper,Dublin 24,q3,60%
+09/04/2018,"24 Elder Heath Drive, Elder Heath, Kiltipper Rd",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+24/04/2018,"32 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,259919.0,Yes,Kiltipper,Dublin 24,q3,70%
+25/04/2018,"12 Elder Heath Green, Elder Heath, Kiltipper",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,70%
+30/04/2018,"12 Elder Heath Drive, Elder Heath, Kiltipper",Dublin,290000.0,Yes,Kiltipper,Dublin 24,q4,100%
+03/05/2018,"4 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,255506.61,Yes,Kiltipper,Dublin 24,q3,60%
+09/05/2018,"8 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+10/05/2018,"13 Elder Heath Green, Kiltipper Road, Dublin 24",Dublin,264317.18,Yes,Kiltipper,Dublin 24,q3,80%
+11/05/2018,"10 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,40%
+15/05/2018,"15A Marlfield Green, Kiltipper, Dublin 24",Dublin,165000.0,No,Kiltipper,Dublin 24,q1,10%
+18/05/2018,"11 Elder Heath Greeen, Elder Heath, Kiltipper",Dublin,264318.0,Yes,Kiltipper,Dublin 24,q3,80%
+13/06/2018,"1 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,264317.18,Yes,Kiltipper,Dublin 24,q3,80%
+13/06/2018,"11 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,215981.92,Yes,Kiltipper,Dublin 24,q1,20%
+13/06/2018,"12 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,214607.23,Yes,Kiltipper,Dublin 24,q1,20%
+13/06/2018,"13 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,187934.29,Yes,Kiltipper,Dublin 24,q1,10%
+13/06/2018,"14 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,214607.23,Yes,Kiltipper,Dublin 24,q1,20%
+13/06/2018,"15 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,187934.29,Yes,Kiltipper,Dublin 24,q1,10%
+13/06/2018,"3 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,215981.92,Yes,Kiltipper,Dublin 24,q1,20%
+13/06/2018,"7 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,187934.29,Yes,Kiltipper,Dublin 24,q1,10%
+13/06/2018,"9 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,215981.92,Yes,Kiltipper,Dublin 24,q1,20%
+23/06/2018,"10 Elder Heath Green, Kiltipper Road, Dublin 24",Dublin,272643.0,Yes,Kiltipper,Dublin 24,q4,80%
+26/06/2018,"17 Elder Heath Crescent, Elder Heath, Kiltipper",Dublin,259912.0,Yes,Kiltipper,Dublin 24,q3,70%
+29/06/2018,"15 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,259911.89,Yes,Kiltipper,Dublin 24,q3,70%
+29/06/2018,"5 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,255175.0,Yes,Kiltipper,Dublin 24,q3,60%
+04/07/2018,"No 11 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,259911.89,Yes,Kiltipper,Dublin 24,q3,70%
+12/07/2018,"21 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,70%
+13/07/2018,"10 Elder Heath Crescent, Elder Heath, Kiltipper Rd",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,70%
+13/07/2018,"3 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,259912.0,Yes,Kiltipper,Dublin 24,q3,70%
+13/07/2018,"6 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,246696.0,Yes,Kiltipper,Dublin 24,q2,50%
+16/07/2018,"1 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,259911.89,Yes,Kiltipper,Dublin 24,q3,70%
+16/07/2018,"79 Deerpark Place, Kiltipper, Dublin 24",Dublin,280000.0,No,Kiltipper,Dublin 24,q4,90%
+19/07/2018,"12 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,70%
+20/07/2018,"16 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,259911.89,Yes,Kiltipper,Dublin 24,q3,70%
+20/07/2018,"21 Ellensborough Grove, Kiltipper, Dublin 24",Dublin,342000.0,No,Kiltipper,Dublin 24,q4,100%
+20/07/2018,"9 Elder Heath Green, Kiltipper Road",Dublin,277533.0,Yes,Kiltipper,Dublin 24,q4,90%
+25/07/2018,"7 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,259911.0,Yes,Kiltipper,Dublin 24,q3,60%
+26/07/2018,"14 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,70%
+27/07/2018,"2 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,259912.0,Yes,Kiltipper,Dublin 24,q3,70%
+01/08/2018,"19 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,70%
+01/08/2018,"4  Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,264317.18,Yes,Kiltipper,Dublin 24,q3,80%
+10/08/2018,"16 Deerpark Sq, Kiltipper Way, Dublin 24",Dublin,175000.0,No,Kiltipper,Dublin 24,q1,10%
+20/08/2018,"13 Elder Heath Crescent, Elder Heath, Kiltipper Road",Dublin,295000.0,Yes,Kiltipper,Dublin 24,q4,100%
+28/08/2018,"11 Marlfield Terrace, Kiltipper, Dublin 24",Dublin,190000.0,No,Kiltipper,Dublin 24,q1,20%
+07/09/2018,"2 Elder Heath Walk, Kiltipper Road, Dublin 24",Dublin,264317.18,Yes,Kiltipper,Dublin 24,q3,80%
+07/09/2018,"3 Elder Heath Walk, Elder Heath, Kiltipper Road",Dublin,246525.0,Yes,Kiltipper,Dublin 24,q2,40%
+12/09/2018,"9 Elder Heath Crescent, Elder Heath, Kiltipper",Dublin,295000.0,Yes,Kiltipper,Dublin 24,q4,100%
+17/09/2018,"37 Ellensborough Park, Kiltipper Road, Dublin 24",Dublin,350000.0,No,Kiltipper,Dublin 24,q4,100%
+19/09/2018,"1 Elder Heath Vale, Elder Heath, Kiltipper Road",Dublin,174000.0,No,Kiltipper,Dublin 24,q1,10%
+21/09/2018,"1 Elder Heath Walk, Kiltipper, Dublin 24",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,70%
+24/09/2018,"7 Elder Heath Way, Elder Heath, Kiltipper Road",Dublin,220264.0,Yes,Kiltipper,Dublin 24,q1,20%
+25/09/2018,"6 Elder Heath Crescent, Elder Heath, Kiltipper",Dublin,264318.0,Yes,Kiltipper,Dublin 24,q3,80%
+26/09/2018,"1 Elder Heath Way, Kiltipper Road, Dublin 24",Dublin,264317.17,Yes,Kiltipper,Dublin 24,q3,80%
+26/09/2018,"7 Deerpark Green, Kiltipper Way, Dublin 24",Dublin,257000.0,No,Kiltipper,Dublin 24,q3,60%
+28/09/2018,"31 Ellensborough Grange, Kiltipper Rd, Dublin 24",Dublin,370000.0,No,Kiltipper,Dublin 24,q4,100%
+28/09/2018,"9 Ellensborough Dr, Kiltipper Rd Tallaght, Dublin 24",Dublin,355000.0,No,Kiltipper,Dublin 24,q4,100%
+05/10/2018,"2 Elder Heath Crescent, Kiltipper Road, Dublin 24",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,70%
+11/10/2018,"13 Elder Heath Way, Elder Heath, Kiltipper Road",Dublin,251101.32,Yes,Kiltipper,Dublin 24,q3,60%
+12/10/2018,"3 Elder Heath Way, Elder Heath, Kiltipper Road",Dublin,259911.0,Yes,Kiltipper,Dublin 24,q3,60%
+23/10/2018,"6 Elder Heath Walk, Elder Heath, Kiltipper Road",Dublin,259500.0,Yes,Kiltipper,Dublin 24,q3,60%
+26/10/2018,"4 Elder Heath Walk, Kiltipper Road, Dublin 24",Dublin,255506.0,Yes,Kiltipper,Dublin 24,q3,60%
+01/11/2018,"8 Elder Heath Way, Elder Heath, Kiltipper Road",Dublin,268723.0,Yes,Kiltipper,Dublin 24,q4,80%
+02/11/2018,"7 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,268772.0,Yes,Kiltipper,Dublin 24,q4,80%
+06/11/2018,"2 Elderheath Way, Elderheath, Kiltipper Road",Dublin,268722.0,Yes,Kiltipper,Dublin 24,q3,80%
+07/11/2018,"5 Elder Heath Walk, Kiltipper Road",Dublin,255506.0,Yes,Kiltipper,Dublin 24,q3,60%
+08/11/2018,"24 Ellensborough Rise, Kiltipper Rd, Dublin 24",Dublin,362000.0,No,Kiltipper,Dublin 24,q4,100%
+13/11/2018,"4 Elder Heath Way, Kiltipper Road, Dublin 24",Dublin,268722.46,Yes,Kiltipper,Dublin 24,q4,80%
+16/11/2018,"1 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,255175.0,Yes,Kiltipper,Dublin 24,q3,60%
+16/11/2018,"2 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,259911.0,Yes,Kiltipper,Dublin 24,q3,70%
+16/11/2018,"6 Elder Heath Green, Elder Heath, Kiltipper",Dublin,259912.0,Yes,Kiltipper,Dublin 24,q3,70%
+21/11/2018,"7 Elder Heath Walk, Kiltipper, Dublin 24",Dublin,259500.0,Yes,Kiltipper,Dublin 24,q3,60%
+21/11/2018,"9 Elder Heath Walk, Elder Heath, Kiltipper Road",Dublin,255500.0,Yes,Kiltipper,Dublin 24,q3,60%
+22/11/2018,"5 Elder Heath Green, Kiltipper Road, Dublin 24",Dublin,259911.0,Yes,Kiltipper,Dublin 24,q3,70%
+23/11/2018,"1 Elder Heath Downs, Elder Heath, Kiltipper Road",Dublin,268722.0,Yes,Kiltipper,Dublin 24,q3,80%
+23/11/2018,"6 Elder Heath Way, Elder Heath, Kiltipper Road",Dublin,233480.18,Yes,Kiltipper,Dublin 24,q1,30%
+28/11/2018,"11 Elder Heath Way, Elder Heath, Kiltipper Road",Dublin,259912.0,Yes,Kiltipper,Dublin 24,q3,70%
+29/11/2018,"10 Elder Heath Way, Kiltipper Road, Dublin 24",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,70%
+29/11/2018,"9 Elder Heath Downs, Kiltipper Road, Dublin 24",Dublin,273127.75,Yes,Kiltipper,Dublin 24,q4,80%
+04/12/2018,"5 Elder Heath Way, Elder Heath, Kiltipper Road",Dublin,220264.0,Yes,Kiltipper,Dublin 24,q1,20%
+07/12/2018,"48 Marlfield, Kiltipper, Dublin 22",Dublin,198000.0,No,Kiltipper,Dublin 24,q1,20%
+10/12/2018,"19 Deerpark Road, Kiltipper, Dublin 24",Dublin,265000.0,No,Kiltipper,Dublin 24,q3,80%
+18/12/2018,"17 Elderheath Walk, Kiltipper Road, Dublin 24",Dublin,268722.46,Yes,Kiltipper,Dublin 24,q4,80%
+20/12/2018,"34 Deerpark Place, Kiltipper, Dublin 24",Dublin,161000.0,No,Kiltipper,Dublin 24,q1,10%
+08/01/2019,"3 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,268722.0,Yes,Kiltipper,Dublin 24,q3,80%
+11/01/2019,"18 Elder Heath Walk, Elder Heath, Kiltipper Road",Dublin,259911.0,Yes,Kiltipper,Dublin 24,q3,70%
+15/01/2019,"8 Elder Heath Walk, Kiltipper Road, Dublin 24",Dublin,255506.0,Yes,Kiltipper,Dublin 24,q3,60%
+17/01/2019,"3 Elder Heath Meadows, Elder Heath, Kiltipper Road",Dublin,290749.0,Yes,Kiltipper,Dublin 24,q4,100%
+24/01/2019,"19 Elder Heath Walk, Elder Heath, Kiltipper Road",Dublin,259911.0,Yes,Kiltipper,Dublin 24,q3,70%
+25/01/2019,"11 Elder Heath Walk, Elder Heath, Kiltipper Road",Dublin,233480.0,Yes,Kiltipper,Dublin 24,q1,30%
+25/01/2019,"3 Elder Heath Downs, Elder Heath, Kiltipper Road",Dublin,264317.8,Yes,Kiltipper,Dublin 24,q3,80%
+29/01/2019,"10  Elder Heath Walk, Kiltipper Road, Dublin 24",Dublin,233480.0,Yes,Kiltipper,Dublin 24,q1,30%
+01/02/2019,"2 Elder Heath Downs, Elder Heath, Kiltipper Road",Dublin,273128.0,Yes,Kiltipper,Dublin 24,q4,80%
+01/02/2019,"3 Elderheath Avenue, Kiltipper Road, Dublin 24",Dublin,280000.0,No,Kiltipper,Dublin 24,q4,90%
+06/02/2019,"16 Elder Heath Walk, Elder Heath, Kiltipper Road",Dublin,268722.0,Yes,Kiltipper,Dublin 24,q3,80%
+08/02/2019,"12 Elder Heath Walk, Elder Heath, Kiltipper Road",Dublin,268722.0,Yes,Kiltipper,Dublin 24,q3,80%
+08/02/2019,"8 Elder Heath Downs, Elder Heath, Kiltipper Road",Dublin,275000.0,Yes,Kiltipper,Dublin 24,q4,90%
+15/02/2019,"2 Elder Heath View, Elder Heath, Kiltipper Road",Dublin,295154.18,Yes,Kiltipper,Dublin 24,q4,100%
+19/02/2019,"20 Elder Heath Green, Elder Heath, Kiltipper Road",Dublin,286344.0,Yes,Kiltipper,Dublin 24,q4,90%
+22/02/2019,"23 Elder Heath Drive, Elder Heath, Kiltipper Road",Dublin,290748.0,Yes,Kiltipper,Dublin 24,q4,100%
+27/02/2019,"17 Elder Heath Grove, Elder Heath, Kiltipper",Dublin,264317.18,Yes,Kiltipper,Dublin 24,q3,80%
+01/03/2019,"10 Elder Heath Downs, Elder Downs, Kiltipper",Dublin,273200.0,Yes,Kiltipper,Dublin 24,q4,80%
+04/03/2019,"15 Elder Heath Walk, Elder Heath, Kiltipper Road",Dublin,259912.0,Yes,Kiltipper,Dublin 24,q3,70%
+05/03/2019,"14 Elder Heath Downs, Elder Heath, Kiltipper Road",Dublin,237885.46,Yes,Kiltipper,Dublin 24,q1,30%
+06/03/2019,"4 Elder Heath Downs, Elder Heath, Kiltipper Road",Dublin,273128.0,Yes,Kiltipper,Dublin 24,q4,80%
+07/03/2019,"7 Elderheath Downs, Kiltipper, Dublin 24",Dublin,264317.0,Yes,Kiltipper,Dublin 24,q3,80%
+08/03/2019,"12 Elder Heath Downs, Elder Heath, Kiltipper Road",Dublin,237885.46,Yes,Kiltipper,Dublin 24,q1,30%
+08/03/2019,"6 Elder Heath Downs, Elder Heath, Kiltipper Road",Dublin,233550.0,Yes,Kiltipper,Dublin 24,q1,30%
+12/03/2019,"2 Elder Heath Terrace, Elder Heath, Kiltipper Road",Dublin,259911.9,Yes,Kiltipper,Dublin 24,q3,70%
+13/03/2019,"18 Elder Heath Terrace, Kiltipper Road, Dublin 24",Dublin,272500.0,Yes,Kiltipper,Dublin 24,q4,80%
+14/03/2019,"14 Kiltipper Gate, Kiltipper Dublin 24, Dublin",Dublin,197000.0,No,Kiltipper,Dublin 24,q1,20%
+14/03/2019,"8 Elderheath Terrace, Kiltipper, Dublin 24",Dublin,247967.0,Yes,Kiltipper,Dublin 24,q2,50%
+15/03/2019,"10 Elder Heath Terrace, Elder Heath, Kiltipper",Dublin,268722.0,Yes,Kiltipper,Dublin 24,q3,80%
+19/03/2019,"13 Elder Heath Walk, Elder Heath, Kiltipper Road",Dublin,268722.0,Yes,Kiltipper,Dublin 24,q4,80%
+20/03/2019,"5 Elder Heath Downs, Elder Heath, Kiltipper Road",Dublin,229074.88,Yes,Kiltipper,Dublin 24,q1,20%
+20/03/2019,"6 Elder Heath Terrace, Elder Heath, Kiltipper Road",Dublin,259912.0,Yes,Kiltipper,Dublin 24,q3,70%
+21/03/2019,"1 Elder Heath Rise, Kiltipper Road",Dublin,273127.0,Yes,Kiltipper,Dublin 24,q4,80%
+22/03/2019,"12 Elderheath Terrace, Kiltipper Road, Dublin 24",Dublin,259911.89,Yes,Kiltipper,Dublin 24,q3,70%
+22/03/2019,"4 Elder Heath Terrace, Elder Heath, Kiltipper Road",Dublin,259912.0,Yes,Kiltipper,Dublin 24,q3,70%
+29/03/2019,"16 Elder Heath Terrace, Elder Heath, Kiltipper Road",Dublin,247967.48,Yes,Kiltipper,Dublin 24,q2,50%
+12/04/2019,"14 Elder Heath Terrace, Elder Heath, Kiltipper",Dublin,259911.89,Yes,Kiltipper,Dublin 24,q3,70%
+15/04/2019,"1 Elder Heath Park, Elder Heath, Kiltipper Road",Dublin,308370.0,Yes,Kiltipper,Dublin 24,q4,100%
+03/05/2019,"14 Elder Heath Walk, Kiltipper Road, Dublin 24",Dublin,259911.89,Yes,Kiltipper,Dublin 24,q3,70%
+15/05/2019,"3 Elder Park Heights, Elder Heath, Kiltipper Road",Dublin,277533.0,Yes,Kiltipper,Dublin 24,q4,90%
+16/05/2019,"12 Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,277533.04,Yes,Kiltipper,Dublin 24,q4,90%
+22/05/2019,"9 Elder Park Heights, Elder Heath, Kiltipper Road",Dublin,277533.0,Yes,Kiltipper,Dublin 24,q4,90%
+28/05/2019,"5 Elder Park Heights, Kiltipper Road, Dublin 24",Dublin,277533.0,Yes,Kiltipper,Dublin 24,q4,90%
+31/05/2019,"20 Elder Park Place, Elder Heath, Kiltipper Road",Dublin,281938.0,Yes,Kiltipper,Dublin 24,q4,90%
+03/06/2019,"6 Elder Park Heights, Elder Heath, Kiltipper Road",Dublin,277533.0,Yes,Kiltipper,Dublin 24,q4,90%
+06/06/2019,"22 Elder Park Place, Elder Heath, Kiltipper",Dublin,281938.33,Yes,Kiltipper,Dublin 24,q4,90%
+07/06/2019,"10 Elder Heath Row, Kiltipper, Dublin 24",Dublin,281938.0,Yes,Kiltipper,Dublin 24,q4,90%
+07/06/2019,"10 Elder Park Heights, Elder Heath, Kiltipper Road",Dublin,277533.04,Yes,Kiltipper,Dublin 24,q4,90%
+07/06/2019,"3 Elder Heath Vale, Elder Heath, Kiltipper Road",Dublin,317000.0,No,Kiltipper,Dublin 24,q4,100%
+13/06/2019,"9 Ellensborough Downs, Kiltipper, Dublin 24",Dublin,327000.0,No,Kiltipper,Dublin 24,q4,100%
+19/06/2019,"133 Kiltipper Gate, Kiltipper Rd, Dublin 24",Dublin,183000.0,No,Kiltipper,Dublin 24,q1,10%
+27/06/2019,"18 Elder Park Place, Elder Heath, Kiltipper Road",Dublin,281438.0,Yes,Kiltipper,Dublin 24,q4,90%
+05/07/2019,"1 Elder Heath Grove, Elder Heath, Kiltipper Road",Dublin,273127.0,Yes,Kiltipper,Dublin 24,q4,80%
+09/07/2019,"12 Elder Heath Mews, Elder Heath, Kiltipper",Dublin,295154.0,Yes,Kiltipper,Dublin 24,q4,100%
+12/07/2019,"1 Elder Heath Terrace, Elder Heath, Kiltipper Road",Dublin,290749.0,Yes,Kiltipper,Dublin 24,q4,100%
+12/07/2019,"3 Elder Heath Terrace, Elder Heath, Kiltipper Road",Dublin,290748.0,Yes,Kiltipper,Dublin 24,q4,100%
+12/07/2019,"39 Marlfield Terrace Kiltipper Way, Dublin 24, Dublin",Dublin,180000.0,No,Kiltipper,Dublin 24,q1,10%
+12/07/2019,"5 Elderheath Woods, Kiltipper Road, Dublin 24",Dublin,395000.0,No,Kiltipper,Dublin 24,q4,100%
+19/07/2019,"8 Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,277533.0,Yes,Kiltipper,Dublin 24,q4,90%
+31/07/2019,"13 Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,286343.61,Yes,Kiltipper,Dublin 24,q4,90%
+02/08/2019,"19 Elder Heath Row, Kiltipper Road, Dublin 24",Dublin,286343.61,Yes,Kiltipper,Dublin 24,q4,90%
+06/08/2019,"15 Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,286343.62,Yes,Kiltipper,Dublin 24,q4,90%
+06/08/2019,"17 Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,286345.0,Yes,Kiltipper,Dublin 24,q4,90%
+13/08/2019,"21 Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,290748.89,Yes,Kiltipper,Dublin 24,q4,100%
+15/08/2019,"4 Ellensborough Walk, Kiltipper Rd, Old Bawn Dublin 24",Dublin,337000.0,No,Kiltipper,Dublin 24,q4,100%
+19/08/2019,"40 Ellensborough Rise Rd, Kiltipper Dublin 24, Dublin",Dublin,397000.0,No,Kiltipper,Dublin 24,q4,100%
+20/08/2019,"3 Elder Park Place, Elder Heath, Kiltipper Road",Dublin,281938.0,Yes,Kiltipper,Dublin 24,q4,90%
+23/08/2019,"9  Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,281938.33,Yes,Kiltipper,Dublin 24,q4,90%
+02/09/2019,"3 Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,286343.61,Yes,Kiltipper,Dublin 24,q4,90%
+05/09/2019,"11 Ellensborough Close Rd, Kiltipper Dublin 24, Dublin",Dublin,349000.0,No,Kiltipper,Dublin 24,q4,100%
+10/09/2019,"5 Elder Heath Terrace, Elder Heath, Kiltipper Road",Dublin,290748.89,Yes,Kiltipper,Dublin 24,q4,100%
+24/09/2019,"26 Deerpark Place Kiltipper Way, Dublin 24, Dublin",Dublin,182000.0,No,Kiltipper,Dublin 24,q1,10%
+25/09/2019,"12 Elder Park Heights, Elder Heath, Kiltipper Road",Dublin,286343.0,Yes,Kiltipper,Dublin 24,q4,90%
+25/09/2019,"7 Elder Heath, Elder Heath, Kiltipper Road",Dublin,290750.0,Yes,Kiltipper,Dublin 24,q4,100%
+27/09/2019,"23 Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,286344.0,Yes,Kiltipper,Dublin 24,q4,90%
+02/10/2019,"2 Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,325000.0,Yes,Kiltipper,Dublin 24,q4,100%
+08/10/2019,"55 Marlfield Place, Kiltipper Dublin 24, Dublin",Dublin,255000.0,No,Kiltipper,Dublin 24,q3,60%
+21/10/2019,"6 Elder Heath Row, Elder Heath, Kiltipper Road",Dublin,277533.0,Yes,Kiltipper,Dublin 24,q4,90%

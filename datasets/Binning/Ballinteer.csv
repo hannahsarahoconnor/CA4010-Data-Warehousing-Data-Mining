@@ -1,0 +1,721 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/01/2010,"36 Broadford Lawns, Ballinteer, Dublin 16",Dublin,375000.0,No,Ballinteer,Dublin 16,q2,50%
+27/01/2010,"8 Ballintyre Hall, Ballinteer Avenue, Ballinteer",Dublin,213986.78,Yes,Ballinteer,Dublin 16,q1,10%
+29/01/2010,"15 Broadford Avenue, Ballinteer",Dublin,402500.0,No,Ballinteer,Dublin 16,q3,60%
+05/02/2010,"112 Southmede, Ballinteer Road, Dundrum",Dublin,336800.0,Yes,Ballinteer,Dublin 16,q2,40%
+05/02/2010,"13 Coach House Square, Ballintyre Hall, Ballinteer Avenue",Dublin,220000.0,Yes,Ballinteer,Dublin 16,q1,10%
+05/02/2010,"No 9 Coach House Square, Ballintyre Hall, Ballinteer Avenue",Dublin,227000.0,Yes,Ballinteer,Dublin 16,q1,10%
+22/02/2010,"Apt 207 The Beeches, Grange Hall, Ballinteer",Dublin,270000.0,No,Ballinteer,Dublin 16,q1,20%
+11/03/2010,"39 Marlay View, Ballinteer",Dublin,292500.0,No,Ballinteer,Dublin 16,q1,30%
+13/04/2010,"42  Southmede, Ballinteer Road",Dublin,360000.0,Yes,Ballinteer,Dublin 16,q2,40%
+14/04/2010,"76 Ballinteer Crescent, Ballinteer, Dublin 16",Dublin,340000.0,No,Ballinteer,Dublin 16,q2,40%
+16/04/2010,"36 Ballinteer Park, Ballinteer",Dublin,600000.0,No,Ballinteer,Dublin 16,q4,100%
+30/04/2010,"Apartment 202 A, Grange Hall, Ballinteer",Dublin,260000.0,No,Ballinteer,Dublin 16,q1,20%
+24/05/2010,"511 Woodpark, Ballinteer",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+25/05/2010,"25 Broadford Park, Ballinteer",Dublin,360000.0,No,Ballinteer,Dublin 16,q2,40%
+26/05/2010,"Apt 79, Ballintyre Grove, Ballinteer",Dublin,295000.0,No,Ballinteer,Dublin 16,q1,30%
+31/05/2010,"23 Kingston Close, Ballinteer, Dublin 16",Dublin,460000.0,No,Ballinteer,Dublin 16,q3,80%
+18/06/2010,"Apartment 208 Block B, The Beaches, Grange Hall  Ballinteer",Dublin,232500.0,No,Ballinteer,Dublin 16,q1,10%
+23/06/2010,"6 The Close, Woodpark, Ballinteer",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+30/06/2010,"20 College Park Close, Ballinteer, Dublin 14",Dublin,398000.0,No,Ballinteer,Dublin 16,q3,60%
+01/07/2010,"31 Broadford Walk, Ballinteer",Dublin,400000.0,No,Ballinteer,Dublin 16,q3,60%
+07/07/2010,"16 Ludford Park, Ballinteer, Dublin 16",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,30%
+12/07/2010,"13 Mayfield Terrace, Ballinteer",Dublin,183000.0,No,Ballinteer,Dublin 16,q1,10%
+14/07/2010,"5 Coach House Square, Ballinyre Hall, Ballinteer Avenue",Dublin,308369.0,Yes,Ballinteer,Dublin 16,q1,30%
+13/08/2010,"42 Ballinteer Drive, Ballinteer",Dublin,380000.0,No,Ballinteer,Dublin 16,q2,50%
+20/08/2010,"Apt 97 The Meadows, Ballintyre Hall, Ballinteer",Dublin,216000.0,Yes,Ballinteer,Dublin 16,q1,10%
+23/08/2010,"3 College Park Avenue, Ballinteer, Dublin 16",Dublin,490000.0,No,Ballinteer,Dublin 16,q4,80%
+27/08/2010,"3 Ballintyre, Ballinteer",Dublin,265000.0,No,Ballinteer,Dublin 16,q1,20%
+09/09/2010,"10 Kingston Grove, Ballinteer",Dublin,413000.0,No,Ballinteer,Dublin 16,q3,60%
+10/09/2010,"85  Ballinteer Park, Ballinteer",Dublin,239000.0,No,Ballinteer,Dublin 16,q1,20%
+17/09/2010,"29  Chestnut Grove, Ballinteer, Dublin 16",Dublin,403000.0,No,Ballinteer,Dublin 16,q3,60%
+24/09/2010,"14 The Green, Woodpark, Ballinteer",Dublin,352500.0,No,Ballinteer,Dublin 16,q2,40%
+15/10/2010,"20 Hilton Gardens, Ballinteer",Dublin,382000.0,No,Ballinteer,Dublin 16,q2,50%
+27/10/2010,"2 Beechlawn Avenue, Ballinteer, Dublin 16",Dublin,310000.0,No,Ballinteer,Dublin 16,q1,30%
+05/11/2010,"83 Ballinteer Crescent, Ballinteer",Dublin,410750.0,No,Ballinteer,Dublin 16,q3,60%
+11/11/2010,"28 Balinteer Gardens, Ballinteer",Dublin,340000.0,No,Ballinteer,Dublin 16,q2,40%
+16/11/2010,"47 Ballintyre Grove, Ballintyre Hall, Ballinteer Avenue",Dublin,265000.0,No,Ballinteer,Dublin 16,q1,20%
+16/11/2010,"92 Ludford Road, Ballinteer",Dublin,415000.0,No,Ballinteer,Dublin 16,q3,60%
+17/11/2010,"29 The Heights, Woodpark, Ballinteer",Dublin,320500.0,No,Ballinteer,Dublin 16,q2,30%
+22/11/2010,"14 Kingston Heights, Ballinteer Road, Dublin 16",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+23/11/2010,"80 Broadford Drive, Ballinteer",Dublin,348757.0,No,Ballinteer,Dublin 16,q2,40%
+29/11/2010,"49 Dundrum Gate, Ballinteer Road, Dundrum",Dublin,292500.0,No,Ballinteer,Dublin 16,q1,30%
+10/12/2010,"7 Ballinteer Avenue, Ballinteer",Dublin,277000.0,No,Ballinteer,Dublin 16,q1,20%
+14/12/2010,"7 Ludford Drive, Ballinteer, Dublin 16",Dublin,385000.0,No,Ballinteer,Dublin 16,q2,50%
+16/12/2010,"Apt 63 Ballintyre Square, Ballinteer",Dublin,350000.0,No,Ballinteer,Dublin 16,q2,40%
+17/12/2010,"14 Mayfield Terrace, Ballinteer, Dublin 16",Dublin,300000.0,No,Ballinteer,Dublin 16,q1,30%
+23/12/2010,"112 Ballintyre Square, Ballintyre Hall, Ballinteer",Dublin,524229.07,Yes,Ballinteer,Dublin 16,q4,90%
+28/01/2011,"2 Ludford Drive, Ballinteer, Dublin 16",Dublin,340000.0,No,Ballinteer,Dublin 16,q2,40%
+28/01/2011,"40 Ballintyre Square, Ballinteer",Dublin,225000.0,No,Ballinteer,Dublin 16,q1,10%
+16/02/2011,"484 Woodpark, Ballinteer",Dublin,328350.0,No,Ballinteer,Dublin 16,q2,30%
+25/02/2011,"15 Hillview Estate, Ballinteer",Dublin,176000.0,No,Ballinteer,Dublin 16,q1,10%
+03/03/2011,"Apt. 101 Southmede, Ballinteer Road, Dundrum",Dublin,255000.0,No,Ballinteer,Dublin 16,q1,20%
+18/03/2011,"107 La Touche House, Marley View, Ballinteer Road",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,30%
+23/03/2011,"45 Marley View, Ballinteer Avenue",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+01/07/2011,"17 Broadford Close, Ballinteer",Dublin,266000.0,No,Ballinteer,Dublin 16,q1,20%
+04/07/2011,"18 Kingston Rise, Ballinteer, Dublin 16",Dublin,290000.0,No,Ballinteer,Dublin 16,q1,20%
+13/07/2011,"32 Hillview Estate, Ballinteer",Dublin,186000.0,No,Ballinteer,Dublin 16,q1,10%
+22/07/2011,"10 The Rise, Woodpark, Ballinteer",Dublin,210000.0,No,Ballinteer,Dublin 16,q1,10%
+22/07/2011,"24 Clonlea, Ballinteer, Dublin 16",Dublin,505000.0,No,Ballinteer,Dublin 16,q4,90%
+29/07/2011,"23 Ballintyre Heath, Ballinteer",Dublin,540000.0,No,Ballinteer,Dublin 16,q4,90%
+08/08/2011,"11A Mayfiled Terrace, Ballinteer, Dublin 16",Dublin,315000.0,No,Ballinteer,Dublin 16,q1,30%
+08/08/2011,"6 Kingston Drive, Ballinteer, Dublin",Dublin,307250.0,No,Ballinteer,Dublin 16,q1,30%
+12/08/2011,"105 Broadford Crescent, Ballinteer",Dublin,280000.0,No,Ballinteer,Dublin 16,q1,20%
+17/08/2011,"52 Ballinteer Crescent, Ballinteer, Dublin 16",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,30%
+01/09/2011,"31  Ludford Drive, Ballinteer",Dublin,295000.0,No,Ballinteer,Dublin 16,q1,30%
+05/09/2011,"14 The Drive, Woodpark, Ballinteer",Dublin,275000.0,No,Ballinteer,Dublin 16,q1,20%
+13/09/2011,"72 College Park Way, Ballinteer",Dublin,305000.0,No,Ballinteer,Dublin 16,q1,30%
+15/09/2011,"39 The Green, Woodpark, Ballinteer",Dublin,310000.0,No,Ballinteer,Dublin 16,q1,30%
+27/09/2011,"3 Hilton Gardens, Ballinteer",Dublin,355500.0,No,Ballinteer,Dublin 16,q2,40%
+28/09/2011,"49 Clonlea, Ballinteer",Dublin,475000.0,No,Ballinteer,Dublin 16,q3,80%
+29/09/2011,"Apt 5, Derrickbawn Court, Ballinteer Road",Dublin,196000.0,No,Ballinteer,Dublin 16,q1,10%
+30/09/2011,"44 Ballinteer Park, Ballinteer",Dublin,387000.0,No,Ballinteer,Dublin 16,q2,50%
+05/10/2011,"No. 1 Ballinteer Park, Ballinteer, Dublin 16",Dublin,375000.0,No,Ballinteer,Dublin 16,q2,50%
+24/10/2011,"15 Ballintyre Downs, Ballinteer Avenue",Dublin,367500.0,No,Ballinteer,Dublin 16,q2,50%
+27/10/2011,"Apt. 162  Wyckham Point, Ballinteer Road, Dundrum",Dublin,272000.0,No,Ballinteer,Dublin 16,q1,20%
+28/10/2011,"Apartment 2, Derrickbawn Court, Ballinteer Road",Dublin,193500.0,No,Ballinteer,Dublin 16,q1,10%
+04/11/2011,"1  Ballinteer Road, Dundrum, Dublin",Dublin,107000.0,No,Ballinteer,Dublin 16,q1,10%
+04/11/2011,"11 Ludford Road, Ballinteer",Dublin,322500.0,No,Ballinteer,Dublin 16,q2,30%
+15/11/2011,"3 Broadford Lawn, Ballinteer",Dublin,307000.0,No,Ballinteer,Dublin 16,q1,30%
+29/11/2011,"84 Ballinteer Drive, Ballinteer, Dublin 16",Dublin,338000.0,No,Ballinteer,Dublin 16,q2,40%
+30/11/2011,"3 Heather Grove, Marley Wood, Ballinteer",Dublin,295000.0,No,Ballinteer,Dublin 16,q1,30%
+30/11/2011,"6 The Drive, Woodpark, Ballinteer",Dublin,292000.0,No,Ballinteer,Dublin 16,q1,30%
+07/12/2011,"7 Kingston Park, Ballinteer",Dublin,310000.0,No,Ballinteer,Dublin 16,q1,30%
+14/12/2011,"2 Broadford Rise, Ballinteer",Dublin,245000.0,No,Ballinteer,Dublin 16,q1,20%
+14/12/2011,"39 Delbrook Manor, Ballinteer",Dublin,350000.0,No,Ballinteer,Dublin 16,q2,40%
+15/12/2011,"38 Ballinteer Gardens, Ballinteer",Dublin,220000.0,No,Ballinteer,Dublin 16,q1,10%
+10/01/2012,"31 Ballinteer, Ballinteer",Dublin,285000.0,No,Ballinteer,Dublin 16,q1,20%
+20/01/2012,"149 Broadford Rise, Ballinteer",Dublin,310000.0,No,Ballinteer,Dublin 16,q1,30%
+20/01/2012,"25 Woodpark, Ballinteer Avenue, Ballinteer",Dublin,269000.0,No,Ballinteer,Dublin 16,q1,20%
+27/01/2012,"6 Lynwood, Ballinteer, Dundrum",Dublin,405000.0,No,Ballinteer,Dublin 16,q3,60%
+07/02/2012,"3 Kingston Green, Ballinteer",Dublin,262000.0,No,Ballinteer,Dublin 16,q1,20%
+17/02/2012,"1A Lynwood, Ballinteer, Dundrum",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+24/02/2012,"54A Ballinteer Park, Ballinteer",Dublin,650000.0,No,Ballinteer,Dublin 16,q4,100%
+25/02/2012,"26 Ludford Road, Ballinteer",Dublin,385000.0,No,Ballinteer,Dublin 16,q2,50%
+29/02/2012,"2 Ballinteer Gardens, Ballinteer, Dublin 16",Dublin,245000.0,No,Ballinteer,Dublin 16,q1,20%
+16/03/2012,"6 The Lawn, Woodpark, Ballinteer",Dublin,315000.0,No,Ballinteer,Dublin 16,q2,30%
+23/03/2012,"10 Marley View, Ballinteer",Dublin,200000.0,No,Ballinteer,Dublin 16,q1,10%
+23/04/2012,"35 Ballinteer Avenue, Ballinteer",Dublin,360000.0,No,Ballinteer,Dublin 16,q2,40%
+24/04/2012,"36 Broadford Park, Ballinteer, Dublin 16",Dublin,236500.0,No,Ballinteer,Dublin 16,q1,10%
+27/04/2012,"95 Marlay View, Ballinteer Avenue, Ballinteer Dublin 16",Dublin,213000.0,No,Ballinteer,Dublin 16,q1,10%
+11/05/2012,"2 The Green, Woodpark, Ballinteer",Dublin,244000.0,No,Ballinteer,Dublin 16,q1,20%
+11/05/2012,"67 Broadford Lawn, Ballinteer",Dublin,215000.0,No,Ballinteer,Dublin 16,q1,10%
+14/05/2012,"10 Ballinteer Park, Ballinteer",Dublin,255000.0,No,Ballinteer,Dublin 16,q1,20%
+15/05/2012,"14 The Grove, Woodpark, Ballinteer",Dublin,235000.0,No,Ballinteer,Dublin 16,q1,10%
+15/05/2012,"2 Kingston Avenue, Ballinteer",Dublin,336000.0,No,Ballinteer,Dublin 16,q2,40%
+17/05/2012,"14 The Walks, Woodpark, Ballinteer",Dublin,225000.0,No,Ballinteer,Dublin 16,q1,10%
+01/06/2012,"40 Broadford Park, Ballinteer, Dublin 16",Dublin,220000.0,No,Ballinteer,Dublin 16,q1,10%
+18/06/2012,"Ballinteer Lodge, Ballinteer Road, Dundrum",Dublin,980000.0,No,Ballinteer,Dublin 16,q4,100%
+19/06/2012,"1 Ballintyre Woods, Ballinteer, Dublin 16",Dublin,370000.0,No,Ballinteer,Dublin 16,q2,50%
+20/06/2012,"6 The Heights, Woodpark, Ballinteer",Dublin,245000.0,No,Ballinteer,Dublin 16,q1,20%
+22/06/2012,"15 Grangefield, Ballinteer",Dublin,386000.0,No,Ballinteer,Dublin 16,q2,50%
+26/06/2012,"42 Broadford Drive, Ballinteer, Dublin",Dublin,267500.0,No,Ballinteer,Dublin 16,q1,20%
+26/06/2012,"90 Ludford Drive, Ballinteer, Dublin 16",Dublin,347500.0,No,Ballinteer,Dublin 16,q2,40%
+02/07/2012,"23 Broadford Close, Ballinteer",Dublin,220000.0,No,Ballinteer,Dublin 16,q1,10%
+09/07/2012,"1 Ballinteer Drive, Ballinteer",Dublin,270000.0,No,Ballinteer,Dublin 16,q1,20%
+17/07/2012,"17B Lynnwood, Dundrum, Ballinteer",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+17/07/2012,"25 Ballinteer Drive, Ballinteer, Dublin 16",Dublin,272000.0,No,Ballinteer,Dublin 16,q1,20%
+17/07/2012,"7, The Gables, Ballinteer Road",Dublin,300000.0,No,Ballinteer,Dublin 16,q1,30%
+18/07/2012,"Apt 71 Ballintyre Meadows, Ballinteer, Dublin 16",Dublin,245000.0,No,Ballinteer,Dublin 16,q1,20%
+27/07/2012,"11 Broadford Lawn, Ballinteer, Dublin 16",Dublin,265000.0,No,Ballinteer,Dublin 16,q1,20%
+27/07/2012,"14 Ballinteer Gardens, Ballinteer, Dublin 16",Dublin,239000.0,No,Ballinteer,Dublin 16,q1,20%
+27/07/2012,"208 Ballinteer Avenue, Dublin 16",Dublin,339000.0,No,Ballinteer,Dublin 16,q2,40%
+27/07/2012,"45 College Park Way, Ballinteer, Dublin 16",Dublin,515000.0,No,Ballinteer,Dublin 16,q4,90%
+03/08/2012,"18 Chestnut Grove, Ballinteer",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+20/08/2012,"103 Ballintyre Square, Ballinteer",Dublin,222500.0,No,Ballinteer,Dublin 16,q1,10%
+27/08/2012,"24 Broadford Drive, Ballinteer",Dublin,290000.0,No,Ballinteer,Dublin 16,q1,20%
+27/08/2012,"Apartment 5 The Pines, Ballinteer Avenue, Rathfarnham",Dublin,163000.0,No,Ballinteer,Dublin 16,q1,10%
+31/08/2012,"25 Kingston Rise, Ballinteer",Dublin,303000.0,No,Ballinteer,Dublin 16,q1,30%
+04/09/2012,"8 Clonlea Wood, Ballinteer  Dublin 16",Dublin,450000.0,No,Ballinteer,Dublin 16,q3,70%
+10/09/2012,"56 The Heights, Woodpark, Ballinteer",Dublin,320000.0,No,Ballinteer,Dublin 16,q2,30%
+13/09/2012,"36 Kingston Grove, Ballinteer, Dublin 16",Dublin,282000.0,No,Ballinteer,Dublin 16,q1,20%
+14/09/2012,"1 Wood Park, Ballinteer Avenue",Dublin,560000.0,No,Ballinteer,Dublin 16,q4,90%
+21/09/2012,"61 Ludford Road, Ballinteer",Dublin,450000.0,No,Ballinteer,Dublin 16,q3,70%
+05/10/2012,"28 Ballinteer Avenue, Ballinteer, Dublin 16",Dublin,205000.0,No,Ballinteer,Dublin 16,q1,10%
+10/10/2012,"56 Ludford Park, Ballinteer",Dublin,370000.0,No,Ballinteer,Dublin 16,q2,50%
+06/11/2012,"7 The Drive, Woodpark, Ballinteer",Dublin,376000.0,No,Ballinteer,Dublin 16,q2,50%
+07/11/2012,"54 The Rise, Ballinteer",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,30%
+09/11/2012,"Apartment 205A, Grange Hall, Ballinteer",Dublin,163000.0,No,Ballinteer,Dublin 16,q1,10%
+16/11/2012,"27 The Green, Wood Park, Ballinteer",Dublin,357500.0,No,Ballinteer,Dublin 16,q2,40%
+23/11/2012,"47 Ludford Road, Ballinteer",Dublin,378500.0,No,Ballinteer,Dublin 16,q2,50%
+30/11/2012,"50 The Avenue, Woodpark, Ballinteer",Dublin,332000.0,No,Ballinteer,Dublin 16,q2,40%
+30/11/2012,"52, Delbrook Manor, Ballinteer",Dublin,890000.0,No,Ballinteer,Dublin 16,q4,100%
+30/11/2012,"54 Broadford Close, Ballinteer, Dublin 16",Dublin,297000.0,No,Ballinteer,Dublin 16,q1,30%
+04/12/2012,"8 Ballinteer Court, Ballinteer, Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+11/12/2012,"42 Ballintyre Walk, Ballinteer",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,30%
+13/12/2012,"10 The Walk, Woodpark, Ballinteer",Dublin,340000.0,No,Ballinteer,Dublin 16,q2,40%
+13/12/2012,"5 Kingston Close, Ballinteer",Dublin,340000.0,No,Ballinteer,Dublin 16,q2,40%
+14/12/2012,"21 The Glen, Woodpark, Ballinteer",Dublin,379950.0,No,Ballinteer,Dublin 16,q2,50%
+14/12/2012,"Apartment No. 11 'The Laurels', Ballinteer Road, Dundrum",Dublin,6000.0,No,Ballinteer,Dublin 16,q1,10%
+14/12/2012,"Apartment No. 15 'The Laurels', Ballinteer Road, Dundrum",Dublin,6000.0,No,Ballinteer,Dublin 16,q1,10%
+14/12/2012,"Apartment No. 18 'The Laurels', Ballinteer Road, Dundrum",Dublin,5700.0,No,Ballinteer,Dublin 16,q1,10%
+14/12/2012,"Apartment No. 19 'The Laurels', Ballinteer Road, Dundrum",Dublin,7200.0,No,Ballinteer,Dublin 16,q1,10%
+14/12/2012,"Apartment No. 80 'The Laurels', Ballinteer Road, Dundrum",Dublin,8000.0,No,Ballinteer,Dublin 16,q1,10%
+14/12/2012,"Apartment No. 9 'The Laurels', Ballinteer Road, Dundrum",Dublin,6000.0,No,Ballinteer,Dublin 16,q1,10%
+17/12/2012,"14 Ballintyre Heath, Ballinteer Avenue",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,30%
+17/12/2012,"4 Ballintyre Heath, Ballinteer",Dublin,316727.6,No,Ballinteer,Dublin 16,q2,30%
+18/12/2012,"16 The Copse, Woodpark, Ballinteer",Dublin,177000.0,No,Ballinteer,Dublin 16,q1,10%
+21/12/2012,"24 Ballinteer Gardens, Ballinteer, Dublin 16",Dublin,585000.0,No,Ballinteer,Dublin 16,q4,100%
+13/02/2013,"37  Balltyre Downs, Ballinteer",Dublin,360000.0,No,Ballinteer,Dublin 16,q2,40%
+22/02/2013,"Apartment 64, Ballintyre Grove, Ballinteer",Dublin,235000.0,No,Ballinteer,Dublin 16,q1,10%
+28/02/2013,"52 Broadford Park, Ballinteer, Dublin",Dublin,322500.0,No,Ballinteer,Dublin 16,q2,30%
+21/03/2013,"18 Ballinteer Court, Ballinteer",Dublin,443000.0,No,Ballinteer,Dublin 16,q3,70%
+21/03/2013,"86 Ballinteer Crescent, Ballinteer",Dublin,257500.0,No,Ballinteer,Dublin 16,q1,20%
+21/03/2013,"Vierwinden, Ballinteer Road, Dundrum",Dublin,500000.0,No,Ballinteer,Dublin 16,q4,80%
+22/03/2013,"18 Ballintyre Downs, Ballintrye Hall, Ballinteer",Dublin,347000.0,No,Ballinteer,Dublin 16,q2,40%
+22/03/2013,"Apartment 18, Ballintyre Square  Ballintyre Hall, Ballinteer Road",Dublin,217500.0,No,Ballinteer,Dublin 16,q1,10%
+28/03/2013,"12 Kingston Walk, Ballinteer, Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+05/04/2013,"2 Delbrook Park, Ballinteer",Dublin,450000.0,No,Ballinteer,Dublin 16,q3,70%
+29/04/2013,"8 Kingston Heights, Ballinteer, Dublin 16",Dublin,413000.0,No,Ballinteer,Dublin 16,q3,60%
+03/05/2013,"26 Broadford Park, Ballinteer",Dublin,303000.0,No,Ballinteer,Dublin 16,q1,30%
+10/05/2013,"25 Lynwood, Ballinteer, Dublin 16",Dublin,585000.0,No,Ballinteer,Dublin 16,q4,100%
+15/05/2013,"Apt. 19 Marlay View, Ballinteer",Dublin,295000.0,No,Ballinteer,Dublin 16,q1,30%
+16/05/2013,"16 The Dale, Woodpark, Ballinteer",Dublin,175000.0,No,Ballinteer,Dublin 16,q1,10%
+31/05/2013,"42 Clonlea, Ballinteer",Dublin,520000.0,No,Ballinteer,Dublin 16,q4,90%
+11/06/2013,"65 Lynnwood, Ballinteer Road, Ballinteer",Dublin,560000.0,No,Ballinteer,Dublin 16,q4,90%
+12/06/2013,"20 Broadford Park, Dundrum, Ballinteer",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+12/06/2013,"37 Hillview Estate, Ballinteer, Dublin 16",Dublin,175000.0,No,Ballinteer,Dublin 16,q1,10%
+26/06/2013,"5 Ballinteer Gardens, Ballinteer",Dublin,315000.0,No,Ballinteer,Dublin 16,q2,30%
+28/06/2013,"54 Broadford Hill, Ballinteer, Dublin 16",Dublin,323000.0,No,Ballinteer,Dublin 16,q2,30%
+09/07/2013,"9 Broadford Walk, Ballinteer",Dublin,370000.0,No,Ballinteer,Dublin 16,q2,50%
+16/07/2013,"29 Ballinteer Gardens, Ballinteer",Dublin,245000.0,No,Ballinteer,Dublin 16,q1,20%
+19/07/2013,"5 The Pines, Ballinteer Avenue, Rathfarnham",Dublin,163000.0,No,Ballinteer,Dublin 16,q1,10%
+23/07/2013,"8 Castleview, Dundrum Castle, Ballinteer Road",Dublin,399000.0,No,Ballinteer,Dublin 16,q3,60%
+24/07/2013,"92 Broadford Rise, Ballinteer",Dublin,312000.0,No,Ballinteer,Dublin 16,q1,30%
+30/07/2013,"46 Marlay View, Ballinteer Avenue",Dublin,226000.0,No,Ballinteer,Dublin 16,q1,10%
+31/07/2013,"23 Ballintyre Downs, Ballinteer",Dublin,413000.0,No,Ballinteer,Dublin 16,q3,60%
+07/08/2013,"96 Ballintyre Meadows, Ballinteer",Dublin,200000.0,No,Ballinteer,Dublin 16,q1,10%
+15/08/2013,"73 Ballintyre Square, Ballinteer Avenue, Ballinteer",Dublin,220000.0,No,Ballinteer,Dublin 16,q1,10%
+19/08/2013,"88 Marley View, Ballinteer Avenue",Dublin,205000.0,No,Ballinteer,Dublin 16,q1,10%
+21/08/2013,"23 Ballintyre Heath, Ballinteer",Dublin,550000.0,No,Ballinteer,Dublin 16,q4,90%
+22/08/2013,"14  Broadford Drive, Ballinteer",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,30%
+22/08/2013,"24 Broadfield Park, Ballinteer",Dublin,340000.0,No,Ballinteer,Dublin 16,q2,40%
+22/08/2013,"3 Kingston Close, Ballinteer",Dublin,415000.0,No,Ballinteer,Dublin 16,q3,60%
+22/08/2013,"Apartment 3 The Pines, Ballinteer Avenue, Dublin 16",Dublin,124000.0,No,Ballinteer,Dublin 16,q1,10%
+23/08/2013,"25 College Park Way, Ballinteer",Dublin,415000.0,No,Ballinteer,Dublin 16,q3,60%
+03/09/2013,"Vierwinden, Ballinteer Rd, Dundrum",Dublin,560000.0,No,Ballinteer,Dublin 16,q4,90%
+05/09/2013,"84 Broadford Drive, Ballinteer, Dublin 16",Dublin,311000.0,No,Ballinteer,Dublin 16,q1,30%
+06/09/2013,"2 Woodpark, Ballinteer Avenue, Dublin 16",Dublin,467000.0,No,Ballinteer,Dublin 16,q3,80%
+10/09/2013,"14 Ballinteer Drive, Ballinteer",Dublin,367500.0,No,Ballinteer,Dublin 16,q2,50%
+10/09/2013,"64 Broadford Drive, Ballinteer, Dublin 16",Dublin,307000.0,No,Ballinteer,Dublin 16,q1,30%
+12/09/2013,"20 The Copse, Woodpark, Ballinteer",Dublin,165000.0,No,Ballinteer,Dublin 16,q1,10%
+13/09/2013,"53 The Rise, Woodpark, Ballinteer",Dublin,380000.0,No,Ballinteer,Dublin 16,q2,50%
+25/09/2013,"34 Ballintyre Hall, Ballinteer",Dublin,266000.0,No,Ballinteer,Dublin 16,q1,20%
+03/10/2013,"11 Ballinteer Court, Ballinteer, Dublin 16",Dublin,475000.0,No,Ballinteer,Dublin 16,q3,80%
+11/10/2013,"40 Ballinteer Avenue, Ballinteer",Dublin,340000.0,No,Ballinteer,Dublin 16,q2,40%
+20/10/2013,"50 The Rise, Woodpark, Ballinteer",Dublin,360000.0,No,Ballinteer,Dublin 16,q2,40%
+23/10/2013,"59 Ballintyre Grove, Ballinteer",Dublin,251000.0,No,Ballinteer,Dublin 16,q1,20%
+31/10/2013,"Apartment 205 Block C, Grange Hall, Ballinteer",Dublin,198000.0,No,Ballinteer,Dublin 16,q1,10%
+01/11/2013,"Apartment 66 Ballintyre Meadows, Ballinteer",Dublin,216000.0,No,Ballinteer,Dublin 16,q1,10%
+08/11/2013,"4 Ballinteer Avenue, Ballinteer, Dublin 16",Dublin,385000.0,No,Ballinteer,Dublin 16,q2,50%
+14/11/2013,"83  Broadford Avenue, Ballinteer",Dublin,315000.0,No,Ballinteer,Dublin 16,q2,30%
+18/11/2013,"25 Delbrook Park, Ballinteer",Dublin,400000.0,No,Ballinteer,Dublin 16,q3,60%
+02/12/2013,"54 Marlay View, Ballinteer Ave, Dublin",Dublin,230000.0,No,Ballinteer,Dublin 16,q1,10%
+02/12/2013,"59 Broadford Hill, Ballinteer, Dublin 16",Dublin,392000.0,No,Ballinteer,Dublin 16,q2,50%
+03/12/2013,"Grantinalfi, Mayfield Terrace, Ballinteer Dublin 16",Dublin,380000.0,No,Ballinteer,Dublin 16,q2,50%
+11/12/2013,"105 Marlayview, Ballinteer Avenue",Dublin,241000.0,No,Ballinteer,Dublin 16,q1,20%
+18/12/2013,"13 Ashlawn, Ballinteer Rd, Dundrum Dublin 16",Dublin,507500.0,No,Ballinteer,Dublin 16,q4,90%
+19/12/2013,"1 The Hill, Woodpark, Ballinteer Dundrum Dublin 14",Dublin,425000.0,No,Ballinteer,Dublin 16,q3,60%
+20/12/2013,"6 The Lawn, Woodpark, Ballinteer Dublin 16",Dublin,420000.0,No,Ballinteer,Dublin 16,q3,60%
+27/01/2014,"43 Clonlea, Ballinteer, Dublin 16",Dublin,442000.0,No,Ballinteer,Dublin 16,q3,70%
+30/01/2014,"46 Broadford Rise Ballinteer, Dublin 16, Dublin",Dublin,322000.0,No,Ballinteer,Dublin 16,q2,30%
+06/02/2014,"86A, Ballinteer Cresent, Ballinteer",Dublin,353000.0,No,Ballinteer,Dublin 16,q2,40%
+06/02/2014,"Apt 62, Ballintyre Sq, Ballinteer",Dublin,238000.0,No,Ballinteer,Dublin 16,q1,20%
+13/02/2014,"1 The Grove, Woodpark, Ballinteer",Dublin,476000.0,No,Ballinteer,Dublin 16,q4,80%
+14/02/2014,"79 Marlay View, Ballinteer Ave, Dublin 16",Dublin,234000.0,No,Ballinteer,Dublin 16,q1,10%
+14/02/2014,"The Courtyard, Ballinteer Road, Dundrum",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+27/02/2014,"102 Ballinteer Park, Dundrum, Dublin 16",Dublin,170000.0,No,Ballinteer,Dublin 16,q1,10%
+27/02/2014,"57 The Grove, Ballintyre Hall, Ballinteer Ave Dublin 16",Dublin,227500.0,No,Ballinteer,Dublin 16,q1,10%
+27/02/2014,"9 Ballintyre Meadows, Ballinteer, Dublin 16",Dublin,242000.0,No,Ballinteer,Dublin 16,q1,20%
+06/03/2014,"56 Marlay View, Ballinteer Ave, Ballinteer Dublin 16",Dublin,253000.0,No,Ballinteer,Dublin 16,q1,20%
+12/03/2014,"Apt 29, Marlay View, Ballinteer Ave",Dublin,230000.0,No,Ballinteer,Dublin 16,q1,10%
+13/03/2014,"30 College Park Close, Ballinteer Road, Dumdrum",Dublin,475000.0,No,Ballinteer,Dublin 16,q3,80%
+19/03/2014,"22 Kingston Walk, Ballinteer, Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+28/03/2014,"26 Kingston Heights, Ballinteer, Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+04/04/2014,"50 Dundrum Gate, Ballinteer Rd, Dundrum Dublin 14",Dublin,163455.0,No,Ballinteer,Dublin 16,q1,10%
+17/04/2014,"52 Dundrum Gate, Ballinteer Rd, Dundrum Dublin 14",Dublin,155000.0,No,Ballinteer,Dublin 16,q1,10%
+23/04/2014,"106 Broadford Hill, Ballinteer, Dublin 16",Dublin,490000.0,No,Ballinteer,Dublin 16,q4,80%
+23/04/2014,"20 The Heights, Woodpark, Ballinteer Dublin 16",Dublin,383000.0,No,Ballinteer,Dublin 16,q2,50%
+24/04/2014,"13 Ballinteer Gardens, Ballinteer, Dublin 16",Dublin,380000.0,No,Ballinteer,Dublin 16,q2,50%
+24/04/2014,"48 Ballintyre Grove, Ballinteer Avenue, Ballinteer",Dublin,280500.0,No,Ballinteer,Dublin 16,q1,20%
+07/05/2014,"54 The Heights, Woodpark, Ballinteer Dublin 16",Dublin,407000.0,No,Ballinteer,Dublin 16,q3,60%
+09/05/2014,"106 Hillview Est, Ballinteer, Dublin 16",Dublin,225000.0,No,Ballinteer,Dublin 16,q1,10%
+12/05/2014,"8 Kingston Crescent, Ballinteer Rd, Dublin 16",Dublin,600000.0,No,Ballinteer,Dublin 16,q4,100%
+16/05/2014,"44 Broadford Hill, Ballinteer, Dublin 16",Dublin,481000.0,No,Ballinteer,Dublin 16,q4,80%
+20/05/2014,"33 Ballintyre Downs, Ballinteer, Dublin 16",Dublin,465000.0,No,Ballinteer,Dublin 16,q3,80%
+29/05/2014,"15 Ballinteer Dr, Ballinteer, Dublin 16",Dublin,377500.0,No,Ballinteer,Dublin 16,q2,50%
+30/05/2014,"60 Broadford Crescent, Ballinteer, Dublin 16",Dublin,420000.0,No,Ballinteer,Dublin 16,q3,60%
+03/06/2014,"35 The Heights, Woodpark, Ballinteer Dublin 16",Dublin,387000.0,No,Ballinteer,Dublin 16,q2,50%
+05/06/2014,"1 The Copse, Woodpark, Ballinteer",Dublin,245000.0,No,Ballinteer,Dublin 16,q1,20%
+11/06/2014,"60 The Avenue, Woodpark Ballinteer, Dublin 16",Dublin,415000.0,No,Ballinteer,Dublin 16,q3,60%
+16/06/2014,"Apt 74 Ballintyre Square, Ballinteer",Dublin,375000.0,No,Ballinteer,Dublin 16,q2,50%
+17/06/2014,"1 Ballinteer Court, Ballinteer, Dublin 16",Dublin,490000.0,No,Ballinteer,Dublin 16,q4,80%
+19/06/2014,"55 Broadford Crescent, Ballinteer, Dublin 16",Dublin,437000.0,No,Ballinteer,Dublin 16,q3,70%
+20/06/2014,"96 Hillview Estate, Ballinteer, Dublin 16",Dublin,250000.0,No,Ballinteer,Dublin 16,q1,20%
+25/06/2014,"35 Ballinteer Gardens, Ballinteer, Dublin 16",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+27/06/2014,"5 Mayfield Terrace, Ballinteer, Dublin 16",Dublin,320000.0,No,Ballinteer,Dublin 16,q2,30%
+10/07/2014,"20 Ballinteer Ave, Ballinteer, Dublin 16",Dublin,401304.0,No,Ballinteer,Dublin 16,q3,60%
+10/07/2014,"42 Ballinteer Park, Ballinteer, Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+11/07/2014,"11 Dundrum Gate, Ballinteer Road, Dundrum",Dublin,280000.0,No,Ballinteer,Dublin 16,q1,20%
+16/07/2014,"8 Ballintyre Downs, Ballinteer, Dublin 16",Dublin,472500.0,No,Ballinteer,Dublin 16,q3,80%
+29/07/2014,"3 Kingston Dr, Ballinteer, Dublin 16",Dublin,395000.0,No,Ballinteer,Dublin 16,q2,50%
+30/07/2014,"12 Kingston Heights, Ballinteer, Dublin 16",Dublin,447000.0,No,Ballinteer,Dublin 16,q3,70%
+01/08/2014,"96 Ludford, Ballinteer, Dublin 16",Dublin,490000.0,No,Ballinteer,Dublin 16,q4,80%
+08/08/2014,"9 Kingston Ave, Ballinteer Rd, Dundrum Dublin 16",Dublin,590000.0,No,Ballinteer,Dublin 16,q4,100%
+14/08/2014,"15 The Close, Woodpark, Ballinteer Dublin 16",Dublin,435000.0,No,Ballinteer,Dublin 16,q3,70%
+14/08/2014,"55 Dundrum Gate, Ballinteer Rd, Dundrum Dublin 14",Dublin,161500.0,No,Ballinteer,Dublin 16,q1,10%
+15/08/2014,"5 Kingston Rise, Ballinteer, Dublin 16",Dublin,435000.0,No,Ballinteer,Dublin 16,q3,70%
+18/08/2014,"10 The Rise, Woodpark, Ballinteer Dublin 16",Dublin,451000.0,No,Ballinteer,Dublin 16,q3,70%
+21/08/2014,"110 Broadford Hill, Ballinteer, Dublin 16",Dublin,470000.0,No,Ballinteer,Dublin 16,q3,80%
+21/08/2014,"2 Kingston Ave, Ballinteer, Dublin City",Dublin,500000.0,No,Ballinteer,Dublin 16,q4,80%
+21/08/2014,"Apt 35 Wyckham Place, Wyckham Rd, Ballinteer Dublin 16",Dublin,395000.0,No,Ballinteer,Dublin 16,q2,50%
+25/08/2014,"Apt 61, Ballintyre Sq, Ballinteer",Dublin,287000.0,No,Ballinteer,Dublin 16,q1,20%
+26/08/2014,"41 Ballintyre Meadows, Ballinteer, Dublin 16",Dublin,515000.0,No,Ballinteer,Dublin 16,q4,90%
+28/08/2014,"1A Kinston Lawn, Ballinteer, Dublin 16",Dublin,375000.0,No,Ballinteer,Dublin 16,q2,50%
+28/08/2014,"86 Broadford Crescent, Ballinteer, Dublin 16",Dublin,465000.0,No,Ballinteer,Dublin 16,q3,80%
+29/08/2014,"22 Ballintyre Square, Ballintyre, Ballinteer",Dublin,500000.0,No,Ballinteer,Dublin 16,q4,80%
+29/08/2014,"22 Kingston Walk, Ballinteer, Dublin 16",Dublin,429000.0,No,Ballinteer,Dublin 16,q3,70%
+01/09/2014,"109 Broadford Hill, Ballinteer, Dublin 16",Dublin,550000.0,No,Ballinteer,Dublin 16,q4,90%
+02/09/2014,"6 Broadford Rise, Ballinteer, Dundrum Dublin 16",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+02/09/2014,"75 Marlay View, Ballinteer Ave, Ballinteer Dublin 16",Dublin,308000.0,No,Ballinteer,Dublin 16,q1,30%
+05/09/2014,"89 Hillview Est, Ballinteer, Dublin",Dublin,302500.0,No,Ballinteer,Dublin 16,q1,30%
+08/09/2014,"Meadowbrook Court, Ballinteer Rd, Dundrum Dublin 16",Dublin,760000.0,No,Ballinteer,Dublin 16,q4,100%
+12/09/2014,"2 Clonlea, Woodpark, Ballinteer Dublin 16",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+12/09/2014,"40 Ballintyre Sq, Ballintyre, Ballinteer Dublin 16",Dublin,331500.0,No,Ballinteer,Dublin 16,q2,40%
+12/09/2014,"75 Ballinteer Park, Dundrum, Dublin 16",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+16/09/2014,"9 Baliinteer Grove, Ballinteer, Dublin 16",Dublin,395000.0,No,Ballinteer,Dublin 16,q3,60%
+17/09/2014,"37 Ashlawn, Ballinteer Road, Dublin 16",Dublin,610000.0,No,Ballinteer,Dublin 16,q4,100%
+19/09/2014,"15 The Crescent, Woodpark, Ballinteer Dublin 16",Dublin,470000.0,No,Ballinteer,Dublin 16,q3,80%
+26/09/2014,"25 Marlay View, Ballinteer Ave, Ballinteer Dublin 16",Dublin,291000.0,No,Ballinteer,Dublin 16,q1,20%
+26/09/2014,"62 The Heights, Woodpark, Ballinteer Dublin 16",Dublin,432500.0,No,Ballinteer,Dublin 16,q3,70%
+29/09/2014,"6 Kingston Walk, Ballinteer, Dublin 16",Dublin,450000.0,No,Ballinteer,Dublin 16,q3,70%
+30/09/2014,"32 Ballintyre Walk, Ballinteer, Dublin 16",Dublin,780000.0,No,Ballinteer,Dublin 16,q4,100%
+03/10/2014,"5 Broadford Close, Ballinteer, Dublin 16",Dublin,398000.0,No,Ballinteer,Dublin 16,q3,60%
+08/10/2014,"15 Kingston Walk, Ballinteer, Dublin",Dublin,457000.0,No,Ballinteer,Dublin 16,q3,70%
+14/10/2014,"48 The Avenue, Woodpark, Ballinteer",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+24/10/2014,"95 Ballintyre Meadows, Ballinteer, Dublin 16",Dublin,355500.0,No,Ballinteer,Dublin 16,q2,40%
+31/10/2014,"7 Grangefield, Ballinteer, Dublin 16",Dublin,524000.0,No,Ballinteer,Dublin 16,q4,90%
+06/11/2014,"26A Ballintyre Grove, Ballinteer, Dublin 16",Dublin,241000.0,No,Ballinteer,Dublin 16,q1,20%
+07/11/2014,"7 Ballintyre Sq Ballinteer, Dublin 16, Dublin",Dublin,345000.0,No,Ballinteer,Dublin 16,q2,40%
+13/11/2014,"3 Ludford Grove, Ludford Road  Ballinteer, Dublin 16",Dublin,612334.0,Yes,Ballinteer,Dublin 16,q4,100%
+13/11/2014,"30 The Crescent, Woodpark, Ballinteer Dublin 16",Dublin,431500.0,No,Ballinteer,Dublin 16,q3,70%
+14/11/2014,"7 Ashlawn, Ballinteer, Dublin 16",Dublin,650000.0,No,Ballinteer,Dublin 16,q4,100%
+17/11/2014,"6 Kingston Heights, Ballinteer, Dublin 16",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+18/11/2014,"42 Ballintyre Walk, Ballinteer, Dublin",Dublin,450000.0,No,Ballinteer,Dublin 16,q3,70%
+25/11/2014,"20 Woodpark, Ballinteer, Dublin 16",Dublin,441000.0,No,Ballinteer,Dublin 16,q3,70%
+26/11/2014,"34 Dundrum Gate, Ballinteer Rd, Dundrum Dublin 14",Dublin,210000.0,No,Ballinteer,Dublin 16,q1,10%
+05/12/2014,"25 The Glen, Woodpark, Ballinteer  Dublin 16",Dublin,555000.0,No,Ballinteer,Dublin 16,q4,90%
+05/12/2014,"4 Ludford Grove, Ludford Road, Ballinteer",Dublin,594713.0,Yes,Ballinteer,Dublin 16,q4,100%
+11/12/2014,"Saoirse, Ballinteer Road, Dundrum",Dublin,645000.0,No,Ballinteer,Dublin 16,q4,100%
+12/12/2014,"13 Broadford Ave, Ballinteer, Dublin 16",Dublin,388000.0,No,Ballinteer,Dublin 16,q2,50%
+15/12/2014,"5 Ludford Grove, Ballinteer, Dublin 16",Dublin,725000.0,No,Ballinteer,Dublin 16,q4,100%
+17/12/2014,"82 Ludford Rd, Ballinteer, Dublin 16",Dublin,495000.0,No,Ballinteer,Dublin 16,q4,80%
+18/12/2014,"7 Kingston Grove, Ballinteer, Dublin 16",Dublin,450000.0,No,Ballinteer,Dublin 16,q3,70%
+18/12/2014,"St Martins, Mayfield Terrace, Ballinteer Dublin 16",Dublin,525000.0,No,Ballinteer,Dublin 16,q4,90%
+22/12/2014,"13 Ballinteer Grove, Ballinteer, Dublin 16",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+22/12/2014,"16 Ballintyre Downs, Ballinteer, Dublin 16",Dublin,510000.0,No,Ballinteer,Dublin 16,q4,90%
+22/12/2014,"58 Broadford Ave, Ballinteer, Dublin 16",Dublin,416778.0,No,Ballinteer,Dublin 16,q3,60%
+22/12/2014,"Apt 57 Southmede, Ballinteer Road, Dundrum",Dublin,320599.0,No,Ballinteer,Dublin 16,q2,30%
+23/12/2014,"49 Broadford Hill, Ballinteer",Dublin,424000.0,No,Ballinteer,Dublin 16,q3,60%
+05/01/2015,"71 Marlay View, Ballinteer Ave, Ballinteer Dublin 16",Dublin,295000.0,No,Ballinteer,Dublin 16,q1,30%
+13/01/2015,"100 Marlay View, Ballinteer Ave, Dublin 16",Dublin,280000.0,No,Ballinteer,Dublin 16,q1,20%
+13/01/2015,"82 Ballinteer Park, Ballinteer",Dublin,367000.0,No,Ballinteer,Dublin 16,q2,50%
+20/01/2015,"120 Broadford Hill, Ballinteer, Dublin 16",Dublin,436500.0,No,Ballinteer,Dublin 16,q3,70%
+23/01/2015,"27 Kingston Walk, Ballinteer, Dublin 16",Dublin,438000.0,No,Ballinteer,Dublin 16,q3,70%
+23/01/2015,"98 Ballinteer Close, Ballinteer",Dublin,461000.0,No,Ballinteer,Dublin 16,q3,80%
+26/01/2015,"1 Ludford Grove, Ludford Road, Ballinteer",Dublin,594713.65,Yes,Ballinteer,Dublin 16,q4,100%
+27/01/2015,"33 Broadford Crescent, Ballinteer, Dublin 16",Dublin,402500.0,No,Ballinteer,Dublin 16,q3,60%
+30/01/2015,"76 Southmede, Ballinteer Rd, Ballinteer Dublin 16",Dublin,225000.0,No,Ballinteer,Dublin 16,q1,10%
+06/02/2015,"1 Ludford Rd, Ballinteer, Dublin 16",Dublin,695000.0,No,Ballinteer,Dublin 16,q4,100%
+09/02/2015,"54 The Avenue, Woodpark, Ballinteer Dublin 16",Dublin,40000.0,No,Ballinteer,Dublin 16,q1,10%
+09/02/2015,"60 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+12/02/2015,"12 Broadford Lawn, Ballinteer, Dublin 16",Dublin,399950.0,No,Ballinteer,Dublin 16,q3,60%
+13/02/2015,"10 Southmede, Ballinteer Road, Dundrum  Dublin 16",Dublin,285000.0,No,Ballinteer,Dublin 16,q1,20%
+13/02/2015,"110 Southmede, Ballinteer Road, Dundrum  Dublin 16",Dublin,285000.0,No,Ballinteer,Dublin 16,q1,20%
+13/02/2015,"28 Southmede, Ballinteer Road, Dundrum  Dublin 16",Dublin,285000.0,No,Ballinteer,Dublin 16,q1,20%
+19/02/2015,"5 Dundrum Wood, Ballinteer Rd, Dundrum Dublin 14",Dublin,575000.0,No,Ballinteer,Dublin 16,q4,100%
+26/02/2015,"10A Ballinteer Park, Ballinteer, Dublin 16",Dublin,631000.0,No,Ballinteer,Dublin 16,q4,100%
+26/02/2015,"41 Ballinteer Crescent, Ballinteer, Dublin 16",Dublin,550000.0,No,Ballinteer,Dublin 16,q4,90%
+27/02/2015,"2 Ludford Grove, Ballinteer",Dublin,629955.95,Yes,Ballinteer,Dublin 16,q4,100%
+27/02/2015,"26A Ballintyre Grove, Ballinteer, Dublin 16",Dublin,346000.0,No,Ballinteer,Dublin 16,q2,40%
+27/02/2015,"4 The Dale, Woodpark, Ballinteer Dublin 16",Dublin,252000.0,No,Ballinteer,Dublin 16,q1,20%
+02/03/2015,"88 Ballintyre Sq, Ballinteer, Dublin 16",Dublin,470000.0,No,Ballinteer,Dublin 16,q3,80%
+03/03/2015,"95 Ballinteer Park, Ballinteer, Dundrum",Dublin,347450.0,No,Ballinteer,Dublin 16,q2,40%
+11/03/2015,"8 The View, Woodpark, Ballinteer Dublin 16",Dublin,470000.0,No,Ballinteer,Dublin 16,q3,80%
+12/03/2015,"72 Broadford Rise, Ballinteer, Dublin 16",Dublin,425000.0,No,Ballinteer,Dublin 16,q3,60%
+16/03/2015,"16 The Walk, Woodpark, Ballinteer Dublin 16",Dublin,400000.0,No,Ballinteer,Dublin 16,q3,60%
+23/03/2015,"64 The Rise, Woodpark, Ballinteer",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+27/03/2015,"29 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,351000.0,No,Ballinteer,Dublin 16,q2,40%
+02/04/2015,"22 Broadford Crescent, Ballinteer, Dublin 16",Dublin,375000.0,No,Ballinteer,Dublin 16,q2,50%
+17/04/2015,"28 Dundrum Gate, Ballinteer Rd, Dundrum Dublin 16",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+17/04/2015,"31 Broadford Lawn, Ballinteer, Dublin 16",Dublin,435000.0,No,Ballinteer,Dublin 16,q3,70%
+21/04/2015,"44 Clonlea, Ballinteer Rd, Dundrum Dublin 16",Dublin,625000.0,No,Ballinteer,Dublin 16,q4,100%
+21/04/2015,"59 Delbrook Manor, Ballinteer Rd, Dundrum",Dublin,850000.0,No,Ballinteer,Dublin 16,q4,100%
+23/04/2015,"43 Ludford Drive, Ballinteer, Dublin 16",Dublin,431500.0,No,Ballinteer,Dublin 16,q3,70%
+30/04/2015,"17 Ludford Park, Ballinteer, Dublin 16",Dublin,480000.0,No,Ballinteer,Dublin 16,q4,80%
+08/05/2015,"86A, Ballinteer Cresent, Ballinteer",Dublin,510000.0,No,Ballinteer,Dublin 16,q4,90%
+11/05/2015,"6 The Copse, Woodpark, Ballinteer Dublin 16",Dublin,255000.0,No,Ballinteer,Dublin 16,q1,20%
+13/05/2015,"11 The Grove, Woodpark, Ballinteer Dublin 16",Dublin,435000.0,No,Ballinteer,Dublin 16,q3,70%
+14/05/2015,"23 Ludford Rd, Ballinteer, Dublin 16",Dublin,512000.0,No,Ballinteer,Dublin 16,q4,90%
+22/05/2015,"22 The Copse, Woodpark, Ballinteer Dublin 16",Dublin,255000.0,No,Ballinteer,Dublin 16,q1,20%
+29/05/2015,"104C The Hazel, Grangehall, Brehon Field Road  Ballinteer",Dublin,270000.0,No,Ballinteer,Dublin 16,q1,20%
+08/06/2015,"87 Marlay View, Ballinteer Ave, Dublin 16",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,30%
+18/06/2015,"19 The Crescent, Woodpark, Ballinteer",Dublin,415000.0,No,Ballinteer,Dublin 16,q3,60%
+18/06/2015,"27 Kingston Ave, Ballinteer, Dublin 16",Dublin,415000.0,No,Ballinteer,Dublin 16,q3,60%
+19/06/2015,"6 Broadford Close, Ballinteer, Dublin 16",Dublin,421000.0,No,Ballinteer,Dublin 16,q3,60%
+23/06/2015,"27 Kingston Grove, Ballinteer, Dublin 16",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+23/06/2015,"84 Ballintyre Sq, Ballinteer, Dublin 16",Dublin,325000.0,No,Ballinteer,Dublin 16,q2,30%
+24/06/2015,"5 Coach House Sq, Ballinyre Hall, Ballinteer Ave",Dublin,405000.0,No,Ballinteer,Dublin 16,q3,60%
+25/06/2015,"4 The Crescent, Woodpark, Ballinteer Dublin 16",Dublin,415000.0,No,Ballinteer,Dublin 16,q3,60%
+26/06/2015,"77 Broadford Rise, Ballinteer, Dublin 16",Dublin,480000.0,No,Ballinteer,Dublin 16,q4,80%
+29/06/2015,"20 Kingston Rise, Ballinteer, Dublin 16",Dublin,392000.0,No,Ballinteer,Dublin 16,q2,50%
+07/07/2015,"102 Ballintyre Sq, Ballintyre Hall, Ballinteer Ave Dublin 16",Dublin,317000.0,No,Ballinteer,Dublin 16,q2,30%
+07/07/2015,"3 Ballinteer Park, Ballinteer, Dublin 16",Dublin,460000.0,No,Ballinteer,Dublin 16,q3,80%
+22/07/2015,"30 Broadford Walk, Ballinteer, Dublin 16",Dublin,420000.0,No,Ballinteer,Dublin 16,q3,60%
+22/07/2015,"47 Lynwood, Ballinteer, Dublin 14",Dublin,590000.0,No,Ballinteer,Dublin 16,q4,100%
+23/07/2015,"Apt 84, Marlay View, Ballinteer Dublin 16",Dublin,299000.0,No,Ballinteer,Dublin 16,q1,30%
+24/07/2015,"141 Broadford Rise, Ballinteer, Dublin 16",Dublin,500000.0,No,Ballinteer,Dublin 16,q4,90%
+24/07/2015,"25 Ballinteer Dr, Ballinteer, Dublin 16",Dublin,435000.0,No,Ballinteer,Dublin 16,q3,70%
+31/07/2015,"14 Castleview, Ballinteer Rd, Dundrum Dublin 16",Dublin,530000.0,No,Ballinteer,Dublin 16,q4,90%
+04/08/2015,"107 Ballintyre Square, Ballinteer Ave., Dublin 16",Dublin,325000.0,No,Ballinteer,Dublin 16,q2,30%
+07/08/2015,"8 The Walk, Woodpark, Ballinteer",Dublin,515000.0,No,Ballinteer,Dublin 16,q4,90%
+17/08/2015,"1 Ballintyre Downs, Ballinteer, Dublin 16",Dublin,605000.0,No,Ballinteer,Dublin 16,q4,100%
+17/08/2015,"7 The Copse, Woodpark, Ballinteer Dublin 16",Dublin,260000.0,No,Ballinteer,Dublin 16,q1,20%
+17/08/2015,"8 The Crescent, Woodpark, Ballinteer",Dublin,420000.0,No,Ballinteer,Dublin 16,q3,60%
+19/08/2015,"5 The Rise, Woodpark, Ballinteer Ave",Dublin,400000.0,No,Ballinteer,Dublin 16,q3,60%
+20/08/2015,"40 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,485000.0,No,Ballinteer,Dublin 16,q4,80%
+24/08/2015,"42 Broadford Hill, Ballinteer, Dublin 16",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+28/08/2015,"3 The Copse, Woodpark, Ballinteer Dublin 16",Dublin,255000.0,No,Ballinteer,Dublin 16,q1,20%
+28/08/2015,"36 Broadford Hill, Ballinteer, Dublin 16",Dublin,488500.0,No,Ballinteer,Dublin 16,q4,80%
+31/08/2015,"Ballintyre House, Ballintyre Hall, Ballinteer",Dublin,1305000.0,No,Ballinteer,Dublin 16,q4,100%
+03/09/2015,"5 Kingston Lawn, Ballinteer, Dublin 16",Dublin,435000.0,No,Ballinteer,Dublin 16,q3,70%
+04/09/2015,"22 Clonlea, Woodpark Estate, Ballinteer",Dublin,472500.0,No,Ballinteer,Dublin 16,q3,80%
+04/09/2015,"5 Ballinteer Park, Dundrum, Dublin 14",Dublin,432000.0,No,Ballinteer,Dublin 16,q3,70%
+11/09/2015,"36 Llewelyn Grove, Ballinteer, Dublin 16",Dublin,29827.0,No,Ballinteer,Dublin 16,q1,10%
+17/09/2015,"86 Marlay View, Ballinteer Ave, Ballinteer Dublin 16",Dublin,342500.0,No,Ballinteer,Dublin 16,q2,40%
+25/09/2015,"28 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,350000.0,No,Ballinteer,Dublin 16,q2,40%
+29/09/2015,"32 The Glen, Woodpark, Ballinteer Dublin 16",Dublin,367500.0,No,Ballinteer,Dublin 16,q2,50%
+29/09/2015,"40 Dundrum Gate, Ballinteer Rd, Dundrum Dublin 14",Dublin,230000.0,No,Ballinteer,Dublin 16,q1,10%
+02/10/2015,"72 Marlay View, Ballinteer Ave, Dublin 16",Dublin,224000.0,No,Ballinteer,Dublin 16,q1,10%
+07/10/2015,"92 Broadford Ave, Ballinteer, Dublin 16",Dublin,403000.0,No,Ballinteer,Dublin 16,q3,60%
+09/10/2015,"30 Broadford Crescent, Ballinteer, Dublin 16",Dublin,420000.0,No,Ballinteer,Dublin 16,q3,60%
+19/10/2015,"2 Ailesbury Lawn, Ballinteer Rd, Dundrum Dublin 16",Dublin,590000.0,No,Ballinteer,Dublin 16,q4,100%
+23/10/2015,"150 Broadford Rise, Ballinteer, Dublin 16",Dublin,385000.0,No,Ballinteer,Dublin 16,q2,50%
+23/10/2015,"56 The Avenue, Woodpark, Ballinteer Dublin 16",Dublin,405000.0,No,Ballinteer,Dublin 16,q3,60%
+23/10/2015,"64 Ballinteer Park, Ballinteer, Dublin 16",Dublin,690000.0,No,Ballinteer,Dublin 16,q4,100%
+28/10/2015,"42 Ballintyre Square, Ballinteer, Dublin 16",Dublin,365000.0,No,Ballinteer,Dublin 16,q2,50%
+06/11/2015,"120 Broadford Ave Ballinteer, Dublin 16, Dublin",Dublin,418500.0,No,Ballinteer,Dublin 16,q3,60%
+20/11/2015,"22 Delbrook Manor, Ballinteer, Dublin 16",Dublin,780000.0,No,Ballinteer,Dublin 16,q4,100%
+23/11/2015,"38 Ballintyre Sq, Ballinteer Ave, Ballinteer Dublin 16",Dublin,250000.0,No,Ballinteer,Dublin 16,q1,20%
+01/12/2015,"6 Dundrum Castle House, Ballinteer Rd, Dublin 16",Dublin,210000.0,No,Ballinteer,Dublin 16,q1,10%
+02/12/2015,"46 Ballintyre Meadows, Ballintyre Ave, Ballinteer",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,40%
+04/12/2015,"54 Ballintyre Meadows, Ballinteer, Dublin 16",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+07/12/2015,"24 Kingston Hall, Harolds Grange Rd, Ballinteer Dublin 18",Dublin,280000.0,No,Ballinteer,Dublin 16,q1,20%
+08/12/2015,"22 Woodpark Est, Ballinteer, Dublin 16",Dublin,575000.0,No,Ballinteer,Dublin 16,q4,100%
+10/12/2015,"10 Llewellyn Close, Ballinteer, Dublin 16",Dublin,337500.0,No,Ballinteer,Dublin 16,q2,40%
+10/12/2015,"84 Ballintyre Grove, Ballinteer, Dublin 16",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+11/12/2015,"108 Ludford Rd, Ballinteer, Dublin 16",Dublin,520000.0,No,Ballinteer,Dublin 16,q4,90%
+14/12/2015,"94 Broadford Lawn, Ballinteer, Dublin 16",Dublin,415000.0,No,Ballinteer,Dublin 16,q3,60%
+17/12/2015,"10 Dundrum Court, Dundrum Castle, Ballinteer Rd Dublin 16",Dublin,247000.0,No,Ballinteer,Dublin 16,q1,20%
+18/12/2015,"10 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,345000.0,No,Ballinteer,Dublin 16,q2,40%
+18/12/2015,"26 Ballintyre Heath, Ballinteer, Dublin 16",Dublin,620000.0,No,Ballinteer,Dublin 16,q4,100%
+21/12/2015,"41 Ballintyre Downs, Ballinteer, Dublin 16",Dublin,585000.0,No,Ballinteer,Dublin 16,q4,100%
+23/12/2015,"8 The View, Woodpark, Ballinteer",Dublin,465000.0,No,Ballinteer,Dublin 16,q3,80%
+08/01/2016,"Apt.49 Kingston Hall, Harold Grange Rd, Ballinteer",Dublin,235000.0,No,Ballinteer,Dublin 16,q1,10%
+15/01/2016,"14 The Green, Woodpark, Ballinteer Dublin 16",Dublin,425000.0,No,Ballinteer,Dublin 16,q3,60%
+28/01/2016,"25 The View, Woodpark, Ballinteer Dublin 16",Dublin,490000.0,No,Ballinteer,Dublin 16,q4,80%
+02/02/2016,"23 The Heights, Woodpark, Ballinteer Dublin 16",Dublin,460000.0,No,Ballinteer,Dublin 16,q3,80%
+03/02/2016,"Apt 38 Ballintyre, Demesne, Ballintyre Hall Ballinteer",Dublin,327000.0,No,Ballinteer,Dublin 16,q2,30%
+05/02/2016,"305 Grange Hall, Brehon Field Rd, Ballinteer Dublin 16",Dublin,250000.0,No,Ballinteer,Dublin 16,q1,20%
+09/02/2016,"51 Ballintyre Grove, Ballintyre Hall, Ballinteer",Dublin,453000.0,No,Ballinteer,Dublin 16,q3,70%
+18/02/2016,"7 Pine Copse Rd, Ballinteer, Dublin 16",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+19/02/2016,"56 Hillview Estate, Ballinteer, Dublin 16",Dublin,245000.0,No,Ballinteer,Dublin 16,q1,20%
+23/02/2016,"110 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,372500.0,No,Ballinteer,Dublin 16,q2,50%
+25/02/2016,"8 Ballinteer Dr, Dublin 16, Dublin",Dublin,466500.0,No,Ballinteer,Dublin 16,q3,80%
+02/03/2016,"209 Ballinteer Ave, Dublin 16, Dublin",Dublin,475000.0,No,Ballinteer,Dublin 16,q4,80%
+02/03/2016,"29 Dundrum Gate, Ballinteer Rd, Dundrum",Dublin,236000.0,No,Ballinteer,Dublin 16,q1,10%
+02/03/2016,"61 Ballintyre Meadows, Ballintyre Hall, Ballinteer Ave Dublin 16",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+02/03/2016,"62 Broadford Lawn, Ballinteer, Dublin",Dublin,385000.0,No,Ballinteer,Dublin 16,q2,50%
+03/03/2016,"14 Ballinteer Park, Ballinteer",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+04/03/2016,"41 Ballintyre Grove, Ballinteer Ave, Dublin 16",Dublin,260000.0,No,Ballinteer,Dublin 16,q1,20%
+16/03/2016,"14 Clonlea, Woodpark, Ballinteer",Dublin,397000.0,No,Ballinteer,Dublin 16,q3,60%
+21/03/2016,"8 Ballintyre Sq, Ballinteer, Dublin 16",Dublin,185000.0,No,Ballinteer,Dublin 16,q1,10%
+24/03/2016,"26 The Green, Woodpark, Ballinteer Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+24/03/2016,"63 Broadfield Close, Ballinteer",Dublin,385000.0,No,Ballinteer,Dublin 16,q2,50%
+29/03/2016,"40 Broadford Close, Ballinteer, Dublin 16",Dublin,395000.0,No,Ballinteer,Dublin 16,q3,60%
+06/04/2016,"7 The Gables, Ballinteer Rd, Dublin",Dublin,382000.0,No,Ballinteer,Dublin 16,q2,50%
+15/04/2016,"18 The Walk, Woodpark, Ballinteer",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+28/04/2016,"28 The Glen, Woodpark, Ballinteer Dublin 16",Dublin,425000.0,No,Ballinteer,Dublin 16,q3,60%
+13/05/2016,"19 College Park Ave, Ballinteer, Dublin 16",Dublin,540000.0,No,Ballinteer,Dublin 16,q4,90%
+13/05/2016,"2 Hilton Gardens, Ballinteer, Dublin 16",Dublin,225000.0,No,Ballinteer,Dublin 16,q1,10%
+13/05/2016,"7 Ballintyre Grove, Ballinteer Ave, Ballinteer Dublin 16",Dublin,345000.0,No,Ballinteer,Dublin 16,q2,40%
+16/05/2016,"2A Ludford Park, Ballinteer, Dublin 16",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+17/05/2016,"11 Kingston Lawn, Ballinteer, Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+18/05/2016,"67 Ballintyre Meadows, Ballinteer, Dublin 15",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,40%
+19/05/2016,"17 Kingston Heights, Ballinteer, Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+19/05/2016,"87 Ballintyre Sq, Ballinteer Ave, Dublin",Dublin,625000.0,No,Ballinteer,Dublin 16,q4,100%
+20/05/2016,"28 Kingston Grove, Ballinteer, Dublin 16",Dublin,370000.0,No,Ballinteer,Dublin 16,q2,50%
+23/05/2016,"19 The Court, Woodpark, Ballinteer Dublin 16",Dublin,470000.0,No,Ballinteer,Dublin 16,q3,80%
+25/05/2016,"18 Broadford Dr, Ballinteer, Dublin 16",Dublin,399000.0,No,Ballinteer,Dublin 16,q3,60%
+26/05/2016,"3 Dundrum Wood, Ballinteer Rd, Dundrum Dublin 16",Dublin,703000.0,No,Ballinteer,Dublin 16,q4,100%
+30/05/2016,"13 Kingston Rise, Ballinteer, Dublin 16",Dublin,620000.0,No,Ballinteer,Dublin 16,q4,100%
+01/06/2016,"69 Ballinteer Park, Dundrum, Dublin 16",Dublin,545000.0,No,Ballinteer,Dublin 16,q4,90%
+09/06/2016,"97 Broadford Ave, Ballinteer, Dublin 16",Dublin,417000.0,No,Ballinteer,Dublin 16,q3,60%
+17/06/2016,"6 Ballinteer Gardens, Ballinteer, Dublin 16",Dublin,412000.0,No,Ballinteer,Dublin 16,q3,60%
+17/06/2016,"67 Ludford Dr, Ballinteer, Dublin 16",Dublin,545000.0,No,Ballinteer,Dublin 16,q4,90%
+21/06/2016,"21 Ballintyre Heath, Ballinteer, Dublin 16",Dublin,415000.0,No,Ballinteer,Dublin 16,q3,60%
+28/06/2016,"6 The Dale Woodpark Ballinteer, Dublin 16, Dublin",Dublin,255000.0,No,Ballinteer,Dublin 16,q1,20%
+29/06/2016,"32 Broadford Lawn, Ballinteer, Dublin 16",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+30/06/2016,"57 Broadford Park, Ballinteer, Dublin 16",Dublin,405000.0,No,Ballinteer,Dublin 16,q3,60%
+01/07/2016,"8 Kingston Walk, Ballinteer, Dublin 16",Dublin,366000.0,No,Ballinteer,Dublin 16,q2,50%
+12/07/2016,"18 Ballintyre Demense, Ballintyre Hall, Ballinteer",Dublin,313000.0,No,Ballinteer,Dublin 16,q1,30%
+15/07/2016,"26 Broadford Crescent, Ballinteer, Co Dublin",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+15/07/2016,"497A Ballinteer Rd, Woodpark, Dublin 16",Dublin,650000.0,No,Ballinteer,Dublin 16,q4,100%
+15/07/2016,"58 Ludford Rd, Ballinteer, Dublin 16",Dublin,590000.0,No,Ballinteer,Dublin 16,q4,100%
+22/07/2016,"9 Ludford Rd, Ballinteer, Dublin 16",Dublin,562000.0,No,Ballinteer,Dublin 16,q4,90%
+26/07/2016,"1 The Green, Woodpark, Ballinteer Dublin 16",Dublin,535000.0,No,Ballinteer,Dublin 16,q4,90%
+29/07/2016,"2 Kingston Park, Ballinteer, Dublin 16",Dublin,427500.0,No,Ballinteer,Dublin 16,q3,60%
+09/08/2016,"65 Ludford Rd, Ballinteer, Dublin 16",Dublin,530000.0,No,Ballinteer,Dublin 16,q4,90%
+10/08/2016,"49 Ludford Dr, Ballinteer, Dublin 16",Dublin,575600.0,No,Ballinteer,Dublin 16,q4,100%
+11/08/2016,"1 Broadford Crescent Ballinteer, Dublin 16",Dublin,541000.0,No,Ballinteer,Dublin 16,q4,90%
+17/08/2016,"306 Grange Hall, Brehon Field Rd, Ballinteer Dublin 16",Dublin,255000.0,No,Ballinteer,Dublin 16,q1,20%
+18/08/2016,"44 The Avenue, Woodpark, Ballinteer Dublin 16",Dublin,395000.0,No,Ballinteer,Dublin 16,q3,60%
+18/08/2016,"59 Broadford Crescent, Ballinteer, Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+23/08/2016,"94 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,366000.0,No,Ballinteer,Dublin 16,q2,50%
+26/08/2016,"11 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,393000.0,No,Ballinteer,Dublin 16,q2,50%
+29/08/2016,"35 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+01/09/2016,"82 Broadford Ave, Ballinteer, Dublin 16",Dublin,392000.0,No,Ballinteer,Dublin 16,q2,50%
+09/09/2016,"21 Dundrum Gate, Ballinteer Road, Dublin 16",Dublin,455555.0,No,Ballinteer,Dublin 16,q3,70%
+12/09/2016,"8 Dundrum Court, Dundrum Castle, Ballinteer Rd Dublin 16",Dublin,282000.0,No,Ballinteer,Dublin 16,q1,20%
+19/09/2016,"50 Hillview Estate, Ballinteer, Dublin 16",Dublin,255000.0,No,Ballinteer,Dublin 16,q1,20%
+19/09/2016,"80 Ballinteer Dr, Ballinteer, Dublin 16",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+26/09/2016,"1A The Hill, Woodpardk, Ballinteer",Dublin,374449.0,Yes,Ballinteer,Dublin 16,q2,50%
+30/09/2016,"12 Ballintyre, Ballinteer, Demesne Dublin 16",Dublin,345000.0,No,Ballinteer,Dublin 16,q2,40%
+06/10/2016,"21 Marlay View, Ballinteer Ave, Dublin 16",Dublin,340000.0,No,Ballinteer,Dublin 16,q2,40%
+06/10/2016,"34 Kingston Grove, Ballinteer, Dublin 16",Dublin,423500.0,No,Ballinteer,Dublin 16,q3,60%
+10/10/2016,"17 The Dale, Woodpark, Ballinteer",Dublin,258000.0,No,Ballinteer,Dublin 16,q1,20%
+10/10/2016,"44 Broadford Lawns, Ballinteer, Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+10/10/2016,"Apt 83 Ballintyre Grove, Ballintyre Hall, Ballinteer Ave Dublin 16",Dublin,355000.0,No,Ballinteer,Dublin 16,q2,40%
+27/10/2016,"20 Marlay View, Ballinteer Ave, Rathfarnham Dublin 16",Dublin,325000.0,No,Ballinteer,Dublin 16,q2,30%
+27/10/2016,"85 Ballintyre Meadows, Ballinteer Ave, Dundrum Dublin 16",Dublin,575000.0,No,Ballinteer,Dublin 16,q4,100%
+28/10/2016,"22 Chestnut Grove, Ballinteer, Dublin 16",Dublin,570000.0,No,Ballinteer,Dublin 16,q4,100%
+01/11/2016,"42 Ballinteer Dr, Ballinteer, Dublin 16",Dublin,560000.0,No,Ballinteer,Dublin 16,q4,90%
+04/11/2016,"86 Ludford Rd, Ballinteer, Dublin 16",Dublin,542000.0,No,Ballinteer,Dublin 16,q4,90%
+07/11/2016,"13 The Hill, Woodpark, Ballinteer Dublin 16",Dublin,481500.0,No,Ballinteer,Dublin 16,q4,80%
+10/11/2016,"62 The Rise, Woodpark, Ballinteer Dublin 16",Dublin,452000.0,No,Ballinteer,Dublin 16,q3,70%
+11/11/2016,"32 Broadford Crescent, Ballinteer, Dublin 16",Dublin,421000.0,No,Ballinteer,Dublin 16,q3,60%
+11/11/2016,"82 Broadford Crescent, Ballinteer, Dublin 16",Dublin,445000.0,No,Ballinteer,Dublin 16,q3,70%
+18/11/2016,"2 The Lawn, Woodpark, Ballinteer Dublin 16",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+22/11/2016,"85 Broadford Lawn, Ballinteer, Dublin 14",Dublin,460000.0,No,Ballinteer,Dublin 16,q3,80%
+25/11/2016,"49 The Rise, Woodpark, Ballinteer",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+01/12/2016,"306 D The Ash, Grange Hall, Ballinteer Dublin 16",Dublin,275000.0,No,Ballinteer,Dublin 16,q1,20%
+07/12/2016,"38 Broadford Close, Ballinteer, Dublin 16",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+08/12/2016,"92 Broadford Lawn, Ballinteer, Dublin 16",Dublin,385000.0,No,Ballinteer,Dublin 16,q2,50%
+09/12/2016,"6 Ballintyre Walk, Ballinteer, Dublin 16",Dublin,600000.0,No,Ballinteer,Dublin 16,q4,100%
+12/12/2016,"211 Woodpark, Ballinteer Ave, Ballinteer Dublin 16",Dublin,210000.0,No,Ballinteer,Dublin 16,q1,10%
+14/12/2016,"19 Dundrum Wood, Ballinteer Rd, Dundrum Dublin 16",Dublin,385000.0,No,Ballinteer,Dublin 16,q2,50%
+14/12/2016,"22 Ballintyre Walk, Ballinteer, Dublin 16",Dublin,451000.0,No,Ballinteer,Dublin 16,q3,70%
+15/12/2016,"36 Acorn Rd, Ballinteer, Dublin 14",Dublin,557000.0,No,Ballinteer,Dublin 16,q4,90%
+16/12/2016,"15 The Walk, Woodpark, Ballinteer Dublin 16",Dublin,450000.0,No,Ballinteer,Dublin 16,q3,70%
+16/12/2016,"17 Hillview Est, Ballinteer, Dublin 16",Dublin,245000.0,No,Ballinteer,Dublin 16,q1,20%
+16/12/2016,"2 Ballintyre Sq, Ballinteer, Dublin 16",Dublin,370000.0,No,Ballinteer,Dublin 16,q2,50%
+19/12/2016,"101 Ballintyre Sq, Ballinteer Ave, Ballinteer Dublin 16",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+22/12/2016,"24 The Grove, Woodpark, Ballinteer",Dublin,400000.0,No,Ballinteer,Dublin 16,q3,60%
+13/01/2017,"27 Ashlawn, Ballinteer Rd, Dundrum Dublin 16",Dublin,685000.0,No,Ballinteer,Dublin 16,q4,100%
+16/01/2017,"8 The Copse, Woodpark, Ballinteer Dublin 16",Dublin,260000.0,No,Ballinteer,Dublin 16,q1,20%
+27/01/2017,"9 Kingston Rise, Ballinteer, Dublin 16",Dublin,545000.0,No,Ballinteer,Dublin 16,q4,90%
+03/02/2017,"143 Ludford Rd, Ballinteer, Dublin 16",Dublin,520000.0,No,Ballinteer,Dublin 16,q4,90%
+08/02/2017,"Apt 75, Ballintyre Grove, Ballinteer Dublin 16",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+09/02/2017,"41 Beech Lawn, Ballinteer, Dublin 16",Dublin,483000.0,No,Ballinteer,Dublin 16,q4,80%
+10/02/2017,"12 Ballintyre Grove, Ballinteer Ave, Dublin 16",Dublin,320000.0,No,Ballinteer,Dublin 16,q2,30%
+20/02/2017,"22 Delbrook Manor, Ballinteer, Dublin 16",Dublin,872500.0,No,Ballinteer,Dublin 16,q4,100%
+20/02/2017,"79 Marlay View, Ballinteer Ave, Dublin 16",Dublin,350000.0,No,Ballinteer,Dublin 16,q2,40%
+24/02/2017,"37 The Rise, Woodpark, Ballinteer Dublin 16",Dublin,450000.0,No,Ballinteer,Dublin 16,q3,70%
+27/02/2017,"39 College Park Way, Ballinteer, Dublin 16",Dublin,640000.0,No,Ballinteer,Dublin 16,q4,100%
+01/03/2017,"25 Dundrum Gate, Ballinteer Rd, Dublin 14",Dublin,336000.0,No,Ballinteer,Dublin 16,q2,40%
+08/03/2017,"24 The Copse Woodpark Ballinteer, Dublin 16, Dublin",Dublin,313000.0,No,Ballinteer,Dublin 16,q1,30%
+08/03/2017,"67 Broadford Close, Ballinteer, Dublin 16",Dublin,455000.0,No,Ballinteer,Dublin 16,q3,70%
+15/03/2017,"35 Kingston Grove, Ballinteer, Dublin 16",Dublin,442500.0,No,Ballinteer,Dublin 16,q3,70%
+21/03/2017,"3 The Grove, Ballintyre Hall, Ballinteer Avenue",Dublin,305000.0,No,Ballinteer,Dublin 16,q1,30%
+23/03/2017,"25 Broadford Lawn, Ballinteer, Dublin 16",Dublin,465000.0,No,Ballinteer,Dublin 16,q3,80%
+30/03/2017,"21 Ballintyre Grove, Ballinteer, Dublin 16",Dublin,348000.0,No,Ballinteer,Dublin 16,q2,40%
+07/04/2017,"The Courtyard, Ballinteer Road, Dundrum",Dublin,550000.0,No,Ballinteer,Dublin 16,q4,90%
+10/04/2017,"78 Marlay View, Ballinteer Ave, Ballinteer Dublin 16",Dublin,355000.0,No,Ballinteer,Dublin 16,q2,40%
+12/04/2017,"26 Dundrum Gate, Ballinteer Rd, Dundrum Dublin 14",Dublin,280000.0,No,Ballinteer,Dublin 16,q1,20%
+20/04/2017,"29 Ballinteer Dr, Ballinteer, Dublin 16",Dublin,530000.0,No,Ballinteer,Dublin 16,q4,90%
+26/04/2017,"45 Dundrum Gate, Ballinteer Rd, Dublin 14",Dublin,240000.0,No,Ballinteer,Dublin 16,q1,20%
+05/05/2017,"89 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,386600.0,No,Ballinteer,Dublin 16,q2,50%
+16/05/2017,"33 The Heights, Woodpark, Ballinteer Dublin 16",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+26/05/2017,"25 Ballinteer Park, Ballinteer, Dublin 16",Dublin,475000.0,No,Ballinteer,Dublin 16,q4,80%
+09/06/2017,"47 Marlay View, Ballinteer Ave, Dublin 16",Dublin,320000.0,No,Ballinteer,Dublin 16,q2,30%
+09/06/2017,"91 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,392000.0,No,Ballinteer,Dublin 16,q2,50%
+09/06/2017,"Ellis 18 Ludford Park, Ludford, Ballinteer",Dublin,613000.0,No,Ballinteer,Dublin 16,q4,100%
+12/06/2017,"104 Ludford Rd, Ballinteer, Dublin 16",Dublin,595000.0,No,Ballinteer,Dublin 16,q4,100%
+22/06/2017,"17 Marlay View, Ballinteer Ave, Ballinteer Dublin 16",Dublin,310000.0,No,Ballinteer,Dublin 16,q1,30%
+26/06/2017,"3 The Crescent, Woodpark, Ballinteer Dublin 16",Dublin,550000.0,No,Ballinteer,Dublin 16,q4,90%
+30/06/2017,"17 Ballinteer Park, Dundrum, Dublin 16",Dublin,374500.0,No,Ballinteer,Dublin 16,q2,50%
+06/07/2017,"14 Southmede, Ballinteer Rd, Dundrum",Dublin,475000.0,No,Ballinteer,Dublin 16,q4,80%
+07/07/2017,"1 Ballinteer Gardens, Dublin 16, Dublin",Dublin,810000.0,No,Ballinteer,Dublin 16,q4,100%
+13/07/2017,"22 Broadford Lawn, Ballinteer, Dublin 16",Dublin,467000.0,No,Ballinteer,Dublin 16,q3,80%
+18/07/2017,"59 Braodford Close Ballinteer, Dublin 16, Dublin",Dublin,519000.0,No,Ballinteer,Dublin 16,q4,90%
+20/07/2017,"2 Castle View, Ballinteer Rd, Dundrum Dublin 16",Dublin,620000.0,No,Ballinteer,Dublin 16,q4,100%
+20/07/2017,"68 The Avenue, Woodpark, Ballinteer Dublin 16",Dublin,510000.0,No,Ballinteer,Dublin 16,q4,90%
+31/07/2017,"32 Hillview Estate, Ballinteer, Dublin",Dublin,320000.0,No,Ballinteer,Dublin 16,q2,30%
+31/07/2017,"78 Broadford Rise, Ballinteer, Dublin 16",Dublin,452000.0,No,Ballinteer,Dublin 16,q3,70%
+04/08/2017,"1 The Gables, Ballinteer Rd, Dundrum Dublin 14",Dublin,547500.0,No,Ballinteer,Dublin 16,q4,90%
+04/08/2017,"52 Ballintyre Meadows, Ballinteer, Dublin 16",Dublin,320000.0,No,Ballinteer,Dublin 16,q2,30%
+21/08/2017,"29 Broadford Dr, Ballinteer, Dublin 16",Dublin,460000.0,No,Ballinteer,Dublin 16,q3,80%
+21/08/2017,"62 Broadford Ave, Ballinteer, Dublin 16",Dublin,525000.0,No,Ballinteer,Dublin 16,q4,90%
+23/08/2017,"19 Kingston Heights, Ballinteer, Dublin 16",Dublin,525000.0,No,Ballinteer,Dublin 16,q4,90%
+29/08/2017,"52 Southmede, Ballinteer Rd, Dundrum Dublin 14",Dublin,439000.0,No,Ballinteer,Dublin 16,q3,70%
+30/08/2017,"55 The Rise, Woodpark, Ballinteer Dublin 16",Dublin,467000.0,No,Ballinteer,Dublin 16,q3,80%
+05/09/2017,"79 Ballintyre Sq, Ballinteer, Dublin 16",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,40%
+07/09/2017,"28 Dundrum Gate, Ballinteer Rd, Dundrum Dublin 16",Dublin,140000.0,No,Ballinteer,Dublin 16,q1,10%
+15/09/2017,"20 Heather Grove, Marley Wood, Ballinteer Dublin 16",Dublin,505000.0,No,Ballinteer,Dublin 16,q4,90%
+15/09/2017,"56 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,420000.0,No,Ballinteer,Dublin 16,q3,60%
+18/09/2017,"4 Kingston Grove, Ballinteer, Dublin 16",Dublin,496143.0,No,Ballinteer,Dublin 16,q4,80%
+21/09/2017,"13 Coach House Sq, Ballintyre Hall, Ballinteer Ave",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+06/10/2017,"18 Dundrum Gate, Ballinteer Rd, Dundrum Dublin 16",Dublin,380000.0,No,Ballinteer,Dublin 16,q2,50%
+20/10/2017,"19 Kingston Rise, Ballinteer, Dublin 16",Dublin,508000.0,No,Ballinteer,Dublin 16,q4,90%
+23/10/2017,"24 Ballintyre Heath, Ballinteer, Dublin 16",Dublin,510000.0,No,Ballinteer,Dublin 16,q4,90%
+25/10/2017,"15 A Kingston Walk, Ballinteer, Dublin 16",Dublin,550000.0,No,Ballinteer,Dublin 16,q4,90%
+25/10/2017,"81 Ballinteer Crescent, Ballinteer, Dundrum Dublin 16",Dublin,525000.0,No,Ballinteer,Dublin 16,q4,90%
+25/10/2017,"83 Ballinteer Park, Ballinteer, Dublin 16",Dublin,518000.0,No,Ballinteer,Dublin 16,q4,90%
+01/11/2017,"33 Dundrum Gate, Ballinteer Rd, Dublin 16",Dublin,410000.0,No,Ballinteer,Dublin 16,q3,60%
+09/11/2017,"18 The Copse, Woodpark, Ballinteer",Dublin,320000.0,No,Ballinteer,Dublin 16,q2,30%
+10/11/2017,"19 Heather Lawns, Marley Wood, Ballinteer",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+16/11/2017,"22 Kingston Rise, Ballinteer, Dublin 16",Dublin,475000.0,No,Ballinteer,Dublin 16,q4,80%
+16/11/2017,"71 Broadford Ave, Ballinteer, Dublin 16",Dublin,486500.0,No,Ballinteer,Dublin 16,q4,80%
+20/11/2017,"36 Ballinteer Park, Ballinteer, Dublin 16",Dublin,791100.0,No,Ballinteer,Dublin 16,q4,100%
+01/12/2017,"118 Southmede, Ballinteer Rd, Dundrum Dublin 14",Dublin,303000.0,No,Ballinteer,Dublin 16,q1,30%
+08/12/2017,"6 The Heath, Woodpark, Ballinteer Dublin 16",Dublin,460000.0,No,Ballinteer,Dublin 16,q3,80%
+15/12/2017,"39 Ballintyre Grove Ballinteer, Dublin 14, Dublin",Dublin,380000.0,No,Ballinteer,Dublin 16,q2,50%
+05/01/2018,"4 The Close, Woodpark, Ballinteer Dublin 16",Dublin,525000.0,No,Ballinteer,Dublin 16,q4,90%
+12/01/2018,"3 The Grove, Woodpark, Ballinteer Dublin 16",Dublin,450000.0,No,Ballinteer,Dublin 16,q3,70%
+19/01/2018,"127 Southmede, Ballinteer Rd, Dundrum Dublin 14",Dublin,303000.0,No,Ballinteer,Dublin 16,q1,30%
+31/01/2018,"92 Broadford Ave, Ballinteer, Dublin 16",Dublin,485000.0,No,Ballinteer,Dublin 16,q4,80%
+07/02/2018,"65 Ballinteer Park, Dublin 16, Dublin",Dublin,550550.0,No,Ballinteer,Dublin 16,q4,90%
+22/02/2018,"43 College Park Ave, Ballinteer, Dublin 16",Dublin,705000.0,No,Ballinteer,Dublin 16,q4,100%
+26/02/2018,"11 Kingston Heights, Ballinteer, Dublin 16",Dublin,475000.0,No,Ballinteer,Dublin 16,q4,80%
+28/02/2018,"23 Kingston Heights, Ballinteer, Dublin 16",Dublin,565000.0,No,Ballinteer,Dublin 16,q4,100%
+15/03/2018,"25 The Walk, Woodpark, Ballinteer Dublin 16",Dublin,240000.0,No,Ballinteer,Dublin 16,q1,20%
+22/03/2018,"25 The Hill, Woodpark, Ballinteer Dublin 16",Dublin,525000.0,No,Ballinteer,Dublin 16,q4,90%
+23/03/2018,"96 Marlay View, Ballinteer Rd, Dublin 16",Dublin,360000.0,No,Ballinteer,Dublin 16,q2,50%
+26/03/2018,"5 Ballinteer Avenue, Dundrum, Dublin 16",Dublin,510000.0,No,Ballinteer,Dublin 16,q4,90%
+06/04/2018,"89 The Grove, Ballintyre, Ballinteer Ave Dublin 16",Dublin,285000.0,No,Ballinteer,Dublin 16,q1,20%
+06/04/2018,"96 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,500000.0,No,Ballinteer,Dublin 16,q4,90%
+12/04/2018,"27 Broadford Avenue, Ballinteer, Dublin 16",Dublin,475000.0,No,Ballinteer,Dublin 16,q4,80%
+12/04/2018,"Apt 50, Marlay View, Ballinteer Ave",Dublin,345000.0,No,Ballinteer,Dublin 16,q2,40%
+18/04/2018,"27 Ballinteer Gardens, Dundrum, Dublin 16",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+20/04/2018,"51 Broadford Close, Ballinteer, Dublin 16",Dublin,450000.0,No,Ballinteer,Dublin 16,q3,70%
+14/05/2018,"109 Ballintyre Sq, Ballinteer Ave, Dublin 16",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,40%
+14/05/2018,"56 Broadford Crescent, Ballinteer, Dublin 16",Dublin,452000.0,No,Ballinteer,Dublin 16,q3,70%
+18/05/2018,"17 The Drive, Woodpark, Ballinteer Dublin 16",Dublin,553100.0,No,Ballinteer,Dublin 16,q4,90%
+21/05/2018,"10 Kingston Crescent, Ballinteer, Dublin 16",Dublin,745000.0,No,Ballinteer,Dublin 16,q4,100%
+21/05/2018,"203 The Maples, Grange Hall, Ballinteer Dublin 14",Dublin,336000.0,No,Ballinteer,Dublin 16,q2,40%
+22/05/2018,"13 Broadford Drive, Ballinteer, Dublin 16",Dublin,461000.0,No,Ballinteer,Dublin 16,q3,80%
+23/05/2018,"81 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,490000.0,No,Ballinteer,Dublin 16,q4,80%
+24/05/2018,"48 Ballinteer Park, Ballinteer, Dublin 16",Dublin,527000.0,No,Ballinteer,Dublin 16,q4,90%
+08/06/2018,"97 Southmede, Ballinteer Rd, Dublin",Dublin,525000.0,No,Ballinteer,Dublin 16,q4,90%
+11/06/2018,"80 Ballintyre Meadows, Ballinteer Ave, Ballinteer",Dublin,459000.0,No,Ballinteer,Dublin 16,q3,80%
+22/06/2018,"61 Marlay View, Ballinteer Ave, Dublin 16",Dublin,115000.0,No,Ballinteer,Dublin 16,q1,10%
+04/07/2018,"Apt 27, Ballintyre Demesne, Ballinteer Dublin 16",Dublin,380000.0,No,Ballinteer,Dublin 16,q2,50%
+09/07/2018,"20 The Copse, Woodpark, Ballinteer Dublin 16",Dublin,337000.0,No,Ballinteer,Dublin 16,q2,40%
+11/07/2018,"Apartment 60A, Ballintyre Meadows, Ballinteer Avenue",Dublin,585000.0,Yes,Ballinteer,Dublin 16,q4,100%
+17/07/2018,"53 Ludford Dr, Ballinteer, Dublin 16",Dublin,600000.0,No,Ballinteer,Dublin 16,q4,100%
+19/07/2018,"48 Clonlea, Ballinteer, Dublin 16",Dublin,585000.0,No,Ballinteer,Dublin 16,q4,100%
+20/07/2018,"82 Ballintyre Sq, Ballinteer, Dublin 16",Dublin,322500.0,No,Ballinteer,Dublin 16,q2,30%
+23/07/2018,"27 Kingston Grove, Ballinteer, Dublin 16",Dublin,498000.0,No,Ballinteer,Dublin 16,q4,80%
+24/07/2018,"42 Ballinteer Dr, Ballinteer, Dublin 16",Dublin,705000.0,No,Ballinteer,Dublin 16,q4,100%
+25/07/2018,"Apt108 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,490000.0,No,Ballinteer,Dublin 16,q4,80%
+30/07/2018,"46 Ballintyre Walk, Ballintyre, Ballinteer Dublin 16",Dublin,532500.0,No,Ballinteer,Dublin 16,q4,90%
+10/08/2018,"15 Ballintyre Walk, Ballinteer Ave, Dublin 16",Dublin,702500.0,No,Ballinteer,Dublin 16,q4,100%
+10/08/2018,"67 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,460000.0,No,Ballinteer,Dublin 16,q3,80%
+15/08/2018,"35 Broadford Ave, Ballinteer, Dublin 16",Dublin,457000.0,No,Ballinteer,Dublin 16,q3,70%
+15/08/2018,"Apt 135, Southmede, Ballinteer Rd Dublin 16",Dublin,385000.0,No,Ballinteer,Dublin 16,q2,50%
+30/08/2018,"1 Ailesbury Lawn, Ballinteer Road, Dundrum",Dublin,720000.0,No,Ballinteer,Dublin 16,q4,100%
+31/08/2018,"56 Broadford Ave, Ballinteer, Dublin 16",Dublin,522000.0,No,Ballinteer,Dublin 16,q4,90%
+04/09/2018,"8 Broadford Lawn, Ballinteer, Dublin 16",Dublin,465000.0,No,Ballinteer,Dublin 16,q3,80%
+05/09/2018,"12 Ballinteer Gardens, Dundrum, Dublin 16",Dublin,452000.0,No,Ballinteer,Dublin 16,q3,70%
+07/09/2018,"4 Chestnut Grove, Ballinteer, Dublin 16",Dublin,600000.0,No,Ballinteer,Dublin 16,q4,100%
+14/09/2018,"23 Ballintyre, Ballinteer Ave, Demesne Dublin 16",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,40%
+17/09/2018,"14 Ludford Dr, Ballinteer, Dublin 16",Dublin,660000.0,No,Ballinteer,Dublin 16,q4,100%
+24/09/2018,"5 Ludford Park, Ballinteer, Dublin 16",Dublin,575000.0,No,Ballinteer,Dublin 16,q4,100%
+26/09/2018,"19 Broadford Crescent, Ballinteer, Dublin 16",Dublin,475000.0,No,Ballinteer,Dublin 16,q4,80%
+27/09/2018,"32 Marlay View, Ballinteer Ave, Ballinteer Dublin 16",Dublin,382000.0,No,Ballinteer,Dublin 16,q2,50%
+28/09/2018,"Apt 120 Southmede, Ballinteer Road, Dundrum",Dublin,415000.0,No,Ballinteer,Dublin 16,q3,60%
+03/10/2018,"72 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,495000.0,Yes,Ballinteer,Dublin 16,q4,80%
+05/10/2018,"49 Ashlawn, Ballinteer Rd, Dundrum",Dublin,435000.0,No,Ballinteer,Dublin 16,q3,70%
+10/10/2018,"24 Delbrook Manor, Ballinteer, Dublin",Dublin,950000.0,No,Ballinteer,Dublin 16,q4,100%
+25/10/2018,"132 Broadford Rise, Ballinteer, Dublin 16",Dublin,490000.0,No,Ballinteer,Dublin 16,q4,80%
+25/10/2018,"36 Broadford Hill, Ballinteer, Dublin 16",Dublin,57000.0,No,Ballinteer,Dublin 16,q1,10%
+30/10/2018,"68 Broadford Ave, Ballinteer, Dublin 16",Dublin,500000.0,No,Ballinteer,Dublin 16,q4,90%
+05/11/2018,"40 The Heights, Woodpark, Ballinteer Dublin 16",Dublin,510000.0,No,Ballinteer,Dublin 16,q4,90%
+09/11/2018,"89 The Grove, Ballintyre, Ballinteer Ave Dublin 16",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,40%
+16/11/2018,"82 Ballinteer Crescent, Dundrum, Dublin 16",Dublin,545000.0,No,Ballinteer,Dublin 16,q4,90%
+22/11/2018,"2 The Copse, Woodpark, Ballinteer",Dublin,345000.0,No,Ballinteer,Dublin 16,q2,40%
+23/11/2018,"15 The Dale, Woodpark, Ballinteer Dublin 16",Dublin,317000.0,No,Ballinteer,Dublin 16,q2,30%
+03/12/2018,"30 Ballinteer Crescent, Ballinteer, Dublin 16",Dublin,540000.0,No,Ballinteer,Dublin 16,q4,90%
+04/12/2018,"32A The Avenue, Woodpark, Ballinteer Dublin 16",Dublin,725000.0,No,Ballinteer,Dublin 16,q4,100%
+10/12/2018,"122 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,390000.0,No,Ballinteer,Dublin 16,q2,50%
+12/12/2018,"69 Marley View, Ballinteer Ave, Dublin 16",Dublin,530000.0,No,Ballinteer,Dublin 16,q4,90%
+14/12/2018,"Apt 14, Marlay View, Ballinteer Ave Dublin 16",Dublin,350000.0,No,Ballinteer,Dublin 16,q2,40%
+21/12/2018,"82 Broadford Rise, Ballinteer, Dublin 16",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+24/12/2018,"9 The Heath, Woodpark, Ballinteer Dublin 16",Dublin,417000.0,No,Ballinteer,Dublin 16,q3,60%
+07/01/2019,"103 Marlay View, Ballinteer Ave, Dublin 16",Dublin,340000.0,No,Ballinteer,Dublin 16,q2,40%
+15/01/2019,"35 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+16/01/2019,"24 Dundrum Wood, Ballinteer Road, Dundrum",Dublin,480000.0,No,Ballinteer,Dublin 16,q4,80%
+11/02/2019,"106 The Ash, Grange Hall, Ballinteer Dublin 16",Dublin,300000.0,No,Ballinteer,Dublin 16,q1,30%
+11/02/2019,"108 Broadford Ave, Ballinteer, Dublin 16",Dublin,470000.0,No,Ballinteer,Dublin 16,q3,80%
+14/02/2019,"41 Ballintyre Meadows, Ballinteer Ave, Dublin 16",Dublin,499000.0,No,Ballinteer,Dublin 16,q4,80%
+27/02/2019,"42 Ballinteer Ave, Dublin 16, Dublin",Dublin,470000.0,No,Ballinteer,Dublin 16,q3,80%
+28/02/2019,"68 Wyckham Point, Wyckham Way, Ballinteer Dublin 16",Dublin,320000.0,No,Ballinteer,Dublin 16,q2,30%
+07/03/2019,"21 The Hill, Woodpark, Ballinteer Dublin 16",Dublin,472500.0,No,Ballinteer,Dublin 16,q3,80%
+07/03/2019,"9 Ballintyre Grove, Block 6, Ballinteer",Dublin,160000.0,No,Ballinteer,Dublin 16,q1,10%
+12/03/2019,"15 Kingston Ave, Ballinteer Rd, Ballinteer Dublin 16",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+25/03/2019,"54 Ballintyre Grove, Ballinteer Avenue, Ballinteer",Dublin,355000.0,No,Ballinteer,Dublin 16,q2,40%
+28/03/2019,"8 Ballintyre Grove, Ballintyre Hall, Ballinteer Dublin 16",Dublin,430000.0,No,Ballinteer,Dublin 16,q3,70%
+29/03/2019,"60B Ballintyre Meadows, Ballinteer, Dublin 16",Dublin,696000.0,Yes,Ballinteer,Dublin 16,q4,100%
+02/04/2019,"176 Wyckham Point, Ballinteer, Dublin",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+26/04/2019,"36 Ashlawn, Ballinteer, Dublin 16",Dublin,600000.0,No,Ballinteer,Dublin 16,q4,100%
+30/04/2019,"120 Broadford Hill, Ballinteer, Dublin 16",Dublin,505000.0,No,Ballinteer,Dublin 16,q4,90%
+30/04/2019,"66 Marlay View, Ballinteer, Dublin 16",Dublin,260000.0,No,Ballinteer,Dublin 16,q1,20%
+03/05/2019,"12 Heather Dr, Marlay Wood, Ballinteer Dublin 16",Dublin,467000.0,No,Ballinteer,Dublin 16,q3,80%
+03/05/2019,"79 Broadford Rise, Ballinteer, Dublin 16",Dublin,655000.0,No,Ballinteer,Dublin 16,q4,100%
+16/05/2019,"94 Ballintyre Meadows, Ballinteer Ave, Dublin 16",Dublin,300000.0,No,Ballinteer,Dublin 16,q1,30%
+17/05/2019,"56 Ballinteer Dr, Ballinteer, Dublin 16",Dublin,460000.0,No,Ballinteer,Dublin 16,q3,80%
+17/05/2019,"89 Ballintyre Sq, Ballinteer Ave, Dublin",Dublin,436000.0,No,Ballinteer,Dublin 16,q3,70%
+27/05/2019,"26A Ballintyre Grove, Ballinteer, Dublin 16",Dublin,364000.0,No,Ballinteer,Dublin 16,q2,50%
+27/05/2019,"28 The Hill, Woodpark, Ballinteer Dublin 16",Dublin,507500.0,No,Ballinteer,Dublin 16,q4,90%
+30/05/2019,"Apt 4, Ballintyre Demense, Ballinteer",Dublin,325000.0,No,Ballinteer,Dublin 16,q2,30%
+31/05/2019,"58 Ludford Rd, Ballinteer, Dublin 16",Dublin,590000.0,No,Ballinteer,Dublin 16,q4,100%
+05/06/2019,"94 Ballinteer Park, Ballinteer, Dublin 16",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+07/06/2019,"6 Marlay View, Ballinteer Ave, Rathfarnham Dublin 16",Dublin,395000.0,No,Ballinteer,Dublin 16,q3,60%
+14/06/2019,"35 Ballintyre Downs, Ballinteer Ave, Dublin 16",Dublin,520000.0,No,Ballinteer,Dublin 16,q4,90%
+20/06/2019,"29 Ballinteer Gardens, Dublin 16, Dublin",Dublin,455000.0,No,Ballinteer,Dublin 16,q3,70%
+26/06/2019,"7 Broadford Ave, Ballinteer, Dublin 16",Dublin,455000.0,No,Ballinteer,Dublin 16,q3,70%
+28/06/2019,"72 Ludford Drive, Ballinteer, Dublin 16",Dublin,600000.0,No,Ballinteer,Dublin 16,q4,100%
+03/07/2019,"65 Ludford Rd, Ballinteer, Dublin 16",Dublin,600000.0,No,Ballinteer,Dublin 16,q4,100%
+11/07/2019,"12 The Copse, Woodpark, Ballinteer Dublin 16",Dublin,320000.0,No,Ballinteer,Dublin 16,q2,30%
+11/07/2019,"68 Broadford Hill, Ballinteer, Dublin 16",Dublin,470000.0,No,Ballinteer,Dublin 16,q3,80%
+22/07/2019,"83 Marlay View, Ballinteer Ave, Ballinteer Dublin 16",Dublin,375000.0,No,Ballinteer,Dublin 16,q2,50%
+31/07/2019,"4 The Crescent, Woodpark, Ballinteer Dublin 16",Dublin,575000.0,No,Ballinteer,Dublin 16,q4,100%
+02/08/2019,"48 Ballinteer Dr, Ballinteer, Dublin 16",Dublin,466000.0,No,Ballinteer,Dublin 16,q3,80%
+02/08/2019,"96 Ballintyre Meadows, Ballintyre Hall, Ballinteer Dublin 16",Dublin,355000.0,No,Ballinteer,Dublin 16,q2,40%
+06/08/2019,"Apt 54 Dundrum Gate, Block 3, Ballinteer Rd Dublin 14",Dublin,380000.0,No,Ballinteer,Dublin 16,q2,50%
+07/08/2019,"7 The Copse, Woodpark, Ballinteer Dublin 16",Dublin,335000.0,No,Ballinteer,Dublin 16,q2,40%
+08/08/2019,"67 Ballintyre Grove, Ballinteer Ave, Ballinteer Dublin 16",Dublin,360000.0,No,Ballinteer,Dublin 16,q2,50%
+12/08/2019,"3 The Close, Woodpark, Ballinteer Dublin 16",Dublin,520000.0,No,Ballinteer,Dublin 16,q4,90%
+13/08/2019,"56 The Avenue, Woodpark, Ballinteer Dublin 16",Dublin,520000.0,No,Ballinteer,Dublin 16,q4,90%
+15/08/2019,"19 The Hill, Woodpark, Ballinteer Dublin 16",Dublin,70000.0,No,Ballinteer,Dublin 16,q1,10%
+16/08/2019,"35 Ballinteer Park, Dublin 16, Dublin",Dublin,605000.0,No,Ballinteer,Dublin 16,q4,100%
+30/08/2019,"37 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,398000.0,No,Ballinteer,Dublin 16,q3,60%
+04/09/2019,"27 Marlay View, Ballinteer Ave, Rathfarnham",Dublin,330000.0,No,Ballinteer,Dublin 16,q2,40%
+10/09/2019,"492 Ballinteer Rd, Woodpark, Dundrum Dublin 16",Dublin,495000.0,No,Ballinteer,Dublin 16,q4,80%
+11/09/2019,"19 Broadford Park, Ballinteer, Dublin 16",Dublin,445000.0,No,Ballinteer,Dublin 16,q3,70%
+11/09/2019,"21 The Avenue, Ballinteer, Dublin 16",Dublin,550000.0,No,Ballinteer,Dublin 16,q4,90%
+13/09/2019,"18 College Park Way, Ballinteer, Dublin 16",Dublin,544000.0,No,Ballinteer,Dublin 16,q4,90%
+03/10/2019,"22 The Green, Woodpark, Ballinteer Dublin 16",Dublin,564000.0,No,Ballinteer,Dublin 16,q4,100%
+03/10/2019,"31 Broadford Dr, Ballinteer, Dublin 16",Dublin,440000.0,No,Ballinteer,Dublin 16,q3,70%
+04/10/2019,"3 Stonemasons Green, Ballinteer, Dublin 16",Dublin,550000.0,No,Ballinteer,Dublin 16,q4,90%
+15/10/2019,"112 Southmede, Ballinteer Rd, Dundrum Dublin 16",Dublin,495000.0,No,Ballinteer,Dublin 16,q4,80%

@@ -1,0 +1,777 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/01/2010,"44 Bayside Walk, Sutton",Dublin,330000.0,No,Sutton,Dublin 13,q1,30%
+15/01/2010,"93 Binn Eadair View, Sutton, Dublin",Dublin,327000.0,No,Sutton,Dublin 13,q1,30%
+22/01/2010,"42 Beach View, Sutton, Dublin 13",Dublin,430000.0,No,Sutton,Dublin 13,q2,50%
+25/01/2010,"22 Offington Park, Sutton",Dublin,820000.0,No,Sutton,Dublin 13,q4,90%
+23/03/2010,"35 Offington Manor, Sutton, Dublin 13",Dublin,356212.0,No,Sutton,Dublin 13,q2,30%
+23/03/2010,"Flat 18 Offington Manor, Sutton",Dublin,335000.0,No,Sutton,Dublin 13,q1,30%
+14/04/2010,"1A Verbena Avenue, Sutton",Dublin,380000.0,No,Sutton,Dublin 13,q2,40%
+14/04/2010,"8 The Strand, Baldoyle Road, Sutton",Dublin,397000.0,No,Sutton,Dublin 13,q2,40%
+30/04/2010,"7 Bayside Boulevard North, Sutton",Dublin,235000.0,No,Sutton,Dublin 13,q1,10%
+07/05/2010,"4 St. Michael'S, Station Road, Sutton",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+17/05/2010,"13  Block B  Radcliffe, Dublin Road, Sutton",Dublin,258000.0,No,Sutton,Dublin 13,q1,20%
+28/05/2010,"20 Sutton Court, Sutton, Dublin 13",Dublin,210000.0,No,Sutton,Dublin 13,q1,10%
+28/05/2010,"86 Bayside Boulevard North, Sutton",Dublin,275000.0,No,Sutton,Dublin 13,q1,20%
+31/05/2010,"13 Sutton Downs, Sutton, Dublin 13",Dublin,260000.0,No,Sutton,Dublin 13,q1,20%
+31/05/2010,"26A Binn Eadair View, Sutton, Dublin 13",Dublin,273500.0,No,Sutton,Dublin 13,q1,20%
+04/06/2010,"97 Binn Eadair View, Sutton",Dublin,299000.0,No,Sutton,Dublin 13,q1,20%
+09/06/2010,"66 Sutton Park, Sutton",Dublin,410000.0,No,Sutton,Dublin 13,q2,40%
+23/06/2010,"Apartment 15 Old Quay Terrace, Strand Road, Sutton",Dublin,445000.0,No,Sutton,Dublin 13,q2,50%
+25/06/2010,"20 St. Domhnachs Well, Baldoyle Road, Sutton",Dublin,310000.0,No,Sutton,Dublin 13,q1,20%
+06/07/2010,"129 Bayside Boulevard North, Sutton",Dublin,220000.0,No,Sutton,Dublin 13,q1,10%
+06/07/2010,"30 Bayside Square South, Sutton",Dublin,274000.0,No,Sutton,Dublin 13,q1,20%
+14/07/2010,"7 Offington Avenue, Sutton  Dublin 13",Dublin,690000.0,No,Sutton,Dublin 13,q3,80%
+20/07/2010,"96A Binn Eadair View, Sutton, Dublin 13",Dublin,295000.0,No,Sutton,Dublin 13,q1,20%
+30/07/2010,"16B Binn Eadair View, Sutton",Dublin,330000.0,No,Sutton,Dublin 13,q1,30%
+30/07/2010,"178A Sutton Park, Clontarf, Dublin 3",Dublin,510000.0,No,Sutton,Dublin 13,q3,60%
+30/07/2010,"37A The Crescent, Binn Eadair View  Dublin Road, Sutton",Dublin,345000.0,No,Sutton,Dublin 13,q1,30%
+19/08/2010,"38 Bayside Crescent, Sutton, Dublin13",Dublin,420000.0,No,Sutton,Dublin 13,q2,40%
+23/08/2010,"100 Binn Eadair View, Sutton",Dublin,540000.0,No,Sutton,Dublin 13,q3,60%
+27/08/2010,"17 Offington Court, Sutton",Dublin,660000.0,No,Sutton,Dublin 13,q3,80%
+03/09/2010,"78 Sutton Park, Sutton, Dublin 13",Dublin,500000.0,No,Sutton,Dublin 13,q3,60%
+09/09/2010,"4 Shielmartin Park, Shielmartin Road, Sutton",Dublin,615000.0,No,Sutton,Dublin 13,q3,70%
+14/09/2010,"26 Sutton Grove, Sutton",Dublin,400000.0,No,Sutton,Dublin 13,q2,40%
+08/10/2010,"5 Sarto Lawn, Sutton, Dublin",Dublin,345000.0,No,Sutton,Dublin 13,q1,30%
+26/10/2010,"2 St. Domhnachs Well, Baldoyle Road, Sutton",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+30/10/2010,"26 Binn Eadair View, Sutton",Dublin,270000.0,No,Sutton,Dublin 13,q1,20%
+04/11/2010,"10 James Mccormack Gardens, Sutton, Dublin 13",Dublin,216000.0,No,Sutton,Dublin 13,q1,10%
+05/11/2010,"73 Bayside Walk, Sutton",Dublin,320000.0,No,Sutton,Dublin 13,q1,20%
+16/11/2010,"87A Bin Eadaiar View, Sutton",Dublin,347500.0,No,Sutton,Dublin 13,q2,30%
+18/11/2010,"189 Sarto Lawns, Sutton, Dublin 13",Dublin,410000.0,No,Sutton,Dublin 13,q2,40%
+24/11/2010,"4  The Strand, Baldoyle Road, Sutton",Dublin,325000.0,No,Sutton,Dublin 13,q1,20%
+10/12/2010,"2 Lauders Lane, Sutton",Dublin,750000.0,No,Sutton,Dublin 13,q4,90%
+10/12/2010,"No. 34  Block 2, Corr Castle, Sutton",Dublin,425000.0,No,Sutton,Dublin 13,q2,50%
+13/12/2010,"1A St. Fintan'S Crescent, Sutton",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+13/12/2010,"1A St. Fintan'S Crescent, Sutton",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+16/12/2010,"200A Sutton Park, Sutton",Dublin,250000.0,No,Sutton,Dublin 13,q1,10%
+17/12/2010,"8 Offington Drive, Sutton",Dublin,725000.0,No,Sutton,Dublin 13,q4,80%
+22/12/2010,"168 Howth Road, Sutton",Dublin,430000.0,No,Sutton,Dublin 13,q2,50%
+14/01/2011,"26 Carrickbrack Hill, Sutton, Dublin 13",Dublin,610000.0,No,Sutton,Dublin 13,q3,70%
+17/01/2011,"14 St. Fintan'S Road, Sutton",Dublin,560000.0,No,Sutton,Dublin 13,q3,60%
+21/01/2011,"79 Glencarrig, Sutton",Dublin,525000.0,No,Sutton,Dublin 13,q3,60%
+08/02/2011,"15 St Domhnach Well, Sutton",Dublin,310000.0,No,Sutton,Dublin 13,q1,20%
+14/02/2011,"24 Tramway Court, Sutton",Dublin,247000.0,No,Sutton,Dublin 13,q1,10%
+18/02/2011,"9 Saint Fintans Park, Sutton, Dublin 13",Dublin,610000.0,No,Sutton,Dublin 13,q3,70%
+01/03/2011,"Gilmoss, Strand Road, Sutton",Dublin,720000.0,No,Sutton,Dublin 13,q4,80%
+07/03/2011,"21 Tramway Court, Sutton, Dublin 13",Dublin,275000.0,No,Sutton,Dublin 13,q1,20%
+14/03/2011,"22 Offington Court, Sutton",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+18/03/2011,"25  Binn Eadair View, Sutton, Dublin 13.",Dublin,279250.0,No,Sutton,Dublin 13,q1,20%
+25/03/2011,"26 Verbena Park, Sutton, Dublin 13",Dublin,374069.0,No,Sutton,Dublin 13,q2,40%
+31/03/2011,"15 Rosbeg Court, Sutton, Dublin 13",Dublin,239500.0,No,Sutton,Dublin 13,q1,10%
+15/04/2011,"25 Duncarraig, Sutton",Dublin,580000.0,No,Sutton,Dublin 13,q3,70%
+15/04/2011,"52 Offington Drive, Sutton",Dublin,560000.0,No,Sutton,Dublin 13,q3,70%
+29/04/2011,"98A Binn Eadair View, Sutton, Dublin 13",Dublin,260000.0,No,Sutton,Dublin 13,q1,20%
+03/05/2011,"7 St Fintan'S Road, Sutton",Dublin,500000.0,No,Sutton,Dublin 13,q3,60%
+12/05/2011,"3 Bayside Boulevard South, Sutton, Dublin 13",Dublin,270000.0,No,Sutton,Dublin 13,q1,20%
+18/05/2011,"54 Corr Castle, Howth Road, Sutton",Dublin,300000.0,No,Sutton,Dublin 13,q1,20%
+20/05/2011,"276 Sutton Park, Sutton",Dublin,415000.0,No,Sutton,Dublin 13,q2,40%
+01/06/2011,"8 Rosbeg Court, Dublin Road, Sutton",Dublin,220000.0,No,Sutton,Dublin 13,q1,10%
+02/06/2011,"10 Roncalli Road, Sutton, Dublin 13",Dublin,400000.0,No,Sutton,Dublin 13,q2,40%
+17/06/2011,"16 Beach View, Sutton, Dublin 13",Dublin,275000.0,No,Sutton,Dublin 13,q1,20%
+17/06/2011,"41A Binn Eadair View, Sutton",Dublin,210000.0,No,Sutton,Dublin 13,q1,10%
+01/07/2011,"21 St Fintan'S Road, Sutton",Dublin,558400.0,No,Sutton,Dublin 13,q3,60%
+08/07/2011,"109 Sutton Park, Sutton",Dublin,175000.0,No,Sutton,Dublin 13,q1,10%
+08/07/2011,"11 Carrickbrack Heath, Sutton",Dublin,512000.0,No,Sutton,Dublin 13,q3,60%
+14/07/2011,"1 Church Road, Sutton, Dublin",Dublin,605000.0,No,Sutton,Dublin 13,q3,70%
+12/08/2011,"9 St Fintans Road, Sutton",Dublin,440000.0,No,Sutton,Dublin 13,q2,50%
+15/08/2011,"34 Verbena Avenue, Sutton, Dublin 13",Dublin,290000.0,No,Sutton,Dublin 13,q1,20%
+24/08/2011,"179 Sarto Lawns, Sutton",Dublin,300000.0,No,Sutton,Dublin 13,q1,20%
+26/08/2011,"14 Sarto Road, Sutton, County Dublin",Dublin,325000.0,No,Sutton,Dublin 13,q1,30%
+26/08/2011,"151 Dublin Road, Sutton",Dublin,900000.0,No,Sutton,Dublin 13,q4,100%
+26/08/2011,"43 Offington Park, Sutton, Dublin 13",Dublin,750000.0,No,Sutton,Dublin 13,q4,90%
+29/08/2011,"176 Sutton Park, Sutton, Dublin 13",Dublin,340000.0,No,Sutton,Dublin 13,q1,30%
+31/08/2011,"64 Offington Lawn, Sutton, Dublin 13",Dublin,555000.0,No,Sutton,Dublin 13,q3,60%
+29/09/2011,"184 Sutton Park, Coolock",Dublin,432000.0,No,Sutton,Dublin 13,q2,50%
+03/10/2011,"67 Glencarraig, Sutton, Dublin 13",Dublin,570000.0,No,Sutton,Dublin 13,q3,70%
+13/10/2011,"27 Dublin Road, Sutton",Dublin,425000.0,No,Sutton,Dublin 13,q2,50%
+26/10/2011,"20 Burrowfield Road, Sutton, Dublin 13",Dublin,460000.0,No,Sutton,Dublin 13,q2,50%
+28/10/2011,"4 Carrickbrennan Lawn, Sutton",Dublin,400000.0,No,Sutton,Dublin 13,q2,40%
+04/11/2011,"132 Dublin Road, Sutton",Dublin,220000.0,No,Sutton,Dublin 13,q1,10%
+04/11/2011,"22 Beechview, Del Val Avenue, Sutton",Dublin,190000.0,No,Sutton,Dublin 13,q1,10%
+11/11/2011,"19 Offington Park, Sutton",Dublin,680000.0,No,Sutton,Dublin 13,q3,80%
+18/11/2011,"16A Greenfield Road, Sutton, Dublin 13",Dublin,1100000.0,No,Sutton,Dublin 13,q4,100%
+21/11/2011,"90 Corr Castle, Howth Road, Sutton",Dublin,334000.0,No,Sutton,Dublin 13,q1,30%
+22/11/2011,"11 Offington Avenue, Sutton, Dublin 13",Dublin,485000.0,No,Sutton,Dublin 13,q3,60%
+23/11/2011,"126 Dublin Rd, Sutton",Dublin,475000.0,No,Sutton,Dublin 13,q2,50%
+28/11/2011,"184 Sarto Lawn, Sutton, Dublin 13",Dublin,243750.0,No,Sutton,Dublin 13,q1,10%
+30/11/2011,"158 Dublin Road, Sutton, Dublin 13",Dublin,580000.0,No,Sutton,Dublin 13,q3,70%
+05/12/2011,"2 Bayside Boulevard South, Sutton",Dublin,210000.0,No,Sutton,Dublin 13,q1,10%
+06/12/2011,"44A Binn Eadair View, Sutton",Dublin,227500.0,No,Sutton,Dublin 13,q1,10%
+09/12/2011,"'Cintra', 16  Dublin Road, Sutton",Dublin,530000.0,No,Sutton,Dublin 13,q3,60%
+09/12/2011,"29 Church Road, Sutton",Dublin,620000.0,No,Sutton,Dublin 13,q3,70%
+09/12/2011,"Crosbarry, St. Fintan'S Road, Sutton",Dublin,1107000.0,No,Sutton,Dublin 13,q4,100%
+19/12/2011,"24 Binn Eadair View, Sutton, County Dublin",Dublin,193000.0,No,Sutton,Dublin 13,q1,10%
+21/12/2011,"26 Offington Manor, Sutton, Dublin 13",Dublin,185000.0,No,Sutton,Dublin 13,q1,10%
+21/12/2011,"Apartment 3, Sutton Castle, Sutton Dublin 13",Dublin,530000.0,Yes,Sutton,Dublin 13,q3,60%
+12/01/2012,"296 Sutton Park, Sutton",Dublin,410000.0,No,Sutton,Dublin 13,q2,40%
+20/01/2012,"17 Offington Drive, Sutton, Dublin",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+27/01/2012,"17 Verbena Grove, Sutton",Dublin,240000.0,No,Sutton,Dublin 13,q1,10%
+10/02/2012,"8 Station Road Cottages, Sutton, Co. Dublin",Dublin,250000.0,No,Sutton,Dublin 13,q1,10%
+17/02/2012,"Shakespeare Villa, 24  Strand Road, Sutton",Dublin,310000.0,No,Sutton,Dublin 13,q1,20%
+20/02/2012,"69 Glencarraig, Sutton",Dublin,526000.0,No,Sutton,Dublin 13,q3,60%
+22/02/2012,"5 Offington Park, Sutton",Dublin,520000.0,No,Sutton,Dublin 13,q3,60%
+24/02/2012,"14 Railway Ave, Sutton, Dublin 13",Dublin,285000.0,No,Sutton,Dublin 13,q1,20%
+30/03/2012,"54 Dublin Road, Sutton, Dublin 13",Dublin,463500.0,No,Sutton,Dublin 13,q2,50%
+16/04/2012,"18 Glencarraig, Sutton, Dublin 13",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+19/04/2012,"Clandon, Carrickbrack Road, Sutton",Dublin,615000.0,No,Sutton,Dublin 13,q3,70%
+26/04/2012,"38 Howth Road, Sutton",Dublin,520000.0,No,Sutton,Dublin 13,q3,60%
+04/05/2012,"65 Alden Road, Sutton",Dublin,250000.0,No,Sutton,Dublin 13,q1,10%
+15/05/2012,"Apartment 27 Offington Manor, Sutton",Dublin,145000.0,No,Sutton,Dublin 13,q1,10%
+17/05/2012,"20 Carrickbrack Lawn, Sutton",Dublin,472500.0,No,Sutton,Dublin 13,q2,50%
+18/05/2012,"53 Verbena Lawn, Sutton",Dublin,210000.0,No,Sutton,Dublin 13,q1,10%
+23/05/2012,"26 Bayside Square South, Sutton, Dublin 13.",Dublin,177500.0,No,Sutton,Dublin 13,q1,10%
+29/05/2012,"32 Tramway Court, Sutton",Dublin,163500.0,No,Sutton,Dublin 13,q1,10%
+31/05/2012,"41 Bayside Square South, Sutton, Dublin 13",Dublin,170000.0,No,Sutton,Dublin 13,q1,10%
+14/06/2012,"19 Tramway Court, Station Road, Sutton",Dublin,215000.0,No,Sutton,Dublin 13,q1,10%
+25/06/2012,"Westpoint Lodge, 33A Strand Road, Sutton",Dublin,705000.0,No,Sutton,Dublin 13,q4,80%
+29/06/2012,"120 Sutton Park, Sutton, Dublin 13",Dublin,321000.0,No,Sutton,Dublin 13,q1,20%
+29/06/2012,"4A Glencarrig, Sutton",Dublin,255000.0,No,Sutton,Dublin 13,q1,10%
+29/06/2012,"Dun Mhuire, Greenfield Road, Sutton",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+03/07/2012,"72 Corr Castle, Howth Road, Sutton",Dublin,336000.0,No,Sutton,Dublin 13,q1,30%
+05/07/2012,"66  Verbena Avenue, Sutton, Dublin 13",Dublin,262000.0,No,Sutton,Dublin 13,q1,20%
+11/07/2012,"26 Tramway Court, Station Road, Sutton",Dublin,195000.0,No,Sutton,Dublin 13,q1,10%
+16/07/2012,"41 Offington Manor, Sutton",Dublin,200000.0,No,Sutton,Dublin 13,q1,10%
+16/07/2012,"42 Offington Manor, Sutton",Dublin,200000.0,No,Sutton,Dublin 13,q1,10%
+18/07/2012,"11 Station Road Cottages, Sutton, Dublin 13",Dublin,315000.0,No,Sutton,Dublin 13,q1,20%
+18/07/2012,"Apartment 15  Block 1  Corr Castle, Howth Road, Sutton",Dublin,340000.0,No,Sutton,Dublin 13,q1,30%
+19/07/2012,"17 Bayside Boulevard North, Sutton, Dublin 13",Dublin,210000.0,No,Sutton,Dublin 13,q1,10%
+31/07/2012,"47 Bayside Boulevard South, Sutton",Dublin,255000.0,No,Sutton,Dublin 13,q1,20%
+01/08/2012,"St. Michael'S, Station Road, Sutton",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+07/08/2012,"31 Sutton Downs, Sutton",Dublin,295000.0,No,Sutton,Dublin 13,q1,20%
+10/08/2012,"65 Sutton Park, Sutton, Dublin13",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+14/08/2012,"63 St. Fintan'S Road, Sutton",Dublin,455000.0,No,Sutton,Dublin 13,q2,50%
+15/08/2012,"51 Offington Park, Sutton",Dublin,615000.0,No,Sutton,Dublin 13,q3,70%
+21/08/2012,"33 Carrickbrach Heath, Sutton, Dublin 13",Dublin,470000.0,No,Sutton,Dublin 13,q2,50%
+24/08/2012,"Sutton House, Sutton",Dublin,1275000.0,No,Sutton,Dublin 13,q4,100%
+31/08/2012,"42 Bayside Boulevard North, Sutton",Dublin,200000.0,No,Sutton,Dublin 13,q1,10%
+14/09/2012,"118 Dublin Road, Sutton",Dublin,725000.0,No,Sutton,Dublin 13,q4,80%
+17/09/2012,"8 Carrickbrack Road, Sutton",Dublin,297157.0,No,Sutton,Dublin 13,q1,20%
+20/09/2012,"Burnbrae, 103 Dublin Road, Sutton",Dublin,1150000.0,No,Sutton,Dublin 13,q4,100%
+21/09/2012,"6 La Vista Avenue, Sutton, Dublin",Dublin,620000.0,No,Sutton,Dublin 13,q3,70%
+25/09/2012,"42 Bayside Walk, Sutton",Dublin,175000.0,No,Sutton,Dublin 13,q1,10%
+25/09/2012,"5  Station Road Cottages, Sutton, Dublin 13",Dublin,380000.0,No,Sutton,Dublin 13,q2,40%
+26/09/2012,"4  Offington Drive, Sutton",Dublin,542500.0,No,Sutton,Dublin 13,q3,60%
+05/10/2012,"13 Beachview, Sutton, Dublin 13",Dublin,240000.0,No,Sutton,Dublin 13,q1,10%
+16/10/2012,"17A Binn Eadair View, Sutton",Dublin,224000.0,No,Sutton,Dublin 13,q1,10%
+22/10/2012,"Apartment 32 Block 2, Corr Castle Howth Road, Sutton",Dublin,270000.0,No,Sutton,Dublin 13,q1,20%
+25/10/2012,"341 Sutton Park, Sutton, Dublin 13",Dublin,490000.0,No,Sutton,Dublin 13,q3,60%
+30/10/2012,"43 Beach View, Sutton, Dublin 13",Dublin,345000.0,No,Sutton,Dublin 13,q1,30%
+30/10/2012,"St. Brigids, Railway Avenue, Sutton",Dublin,410000.0,No,Sutton,Dublin 13,q2,40%
+31/10/2012,"358 Sutton Park, Sutton, Dublin 13",Dublin,310000.0,No,Sutton,Dublin 13,q1,20%
+02/11/2012,"Derravaragh, 1 Railway Avenue, Sutton",Dublin,390000.0,No,Sutton,Dublin 13,q2,40%
+07/11/2012,"Apartment 8, Mariners Court, Sutton",Dublin,160000.0,No,Sutton,Dublin 13,q1,10%
+12/11/2012,"70 Offington Park, Sutton, Dublin 3",Dublin,609474.0,No,Sutton,Dublin 13,q3,70%
+13/11/2012,"113 Bayside Boulevard North, Sutton",Dublin,187500.0,No,Sutton,Dublin 13,q1,10%
+19/11/2012,"Wadena, 147 Dublin Road, Sutton",Dublin,1100000.0,No,Sutton,Dublin 13,q4,100%
+30/11/2012,"13 St. Fintan'S Park, Sutton, Dublin 13",Dublin,470000.0,No,Sutton,Dublin 13,q2,50%
+07/12/2012,"3 Offington Avenue, Sutton",Dublin,890000.0,No,Sutton,Dublin 13,q4,100%
+11/12/2012,"7 Sutton Park, Sutton",Dublin,422500.0,No,Sutton,Dublin 13,q2,50%
+13/12/2012,"24 The Crescent, Binn Eadair View, Sutton",Dublin,231000.0,No,Sutton,Dublin 13,q1,10%
+14/12/2012,"Apt. 76 Block 4  Corr Castle, Howth Road, Sutton",Dublin,250000.0,No,Sutton,Dublin 13,q1,10%
+14/12/2012,"Lauderville, 1 Station Road, Sutton",Dublin,421000.0,No,Sutton,Dublin 13,q2,50%
+17/12/2012,"49 Sutton Park, Sutton",Dublin,401000.0,No,Sutton,Dublin 13,q2,40%
+17/12/2012,"Sutton Cottage, 2 St.Fintan'S Road, Sutton",Dublin,580000.0,No,Sutton,Dublin 13,q3,70%
+19/12/2012,"13 La Vista Avenue, Sutton",Dublin,196875.0,No,Sutton,Dublin 13,q1,10%
+19/12/2012,"9A Burrow Rd, Sutton",Dublin,1250000.0,No,Sutton,Dublin 13,q4,100%
+20/12/2012,"34  Alden Drive, Sutton, Dublin 13",Dublin,360000.0,No,Sutton,Dublin 13,q2,30%
+20/12/2012,"741 Sarto Park, Sutton",Dublin,372000.0,No,Sutton,Dublin 13,q2,40%
+21/12/2012,"13 Railway Avenue, Sutton",Dublin,190000.0,No,Sutton,Dublin 13,q1,10%
+02/01/2013,"59 Corr Castle, Howth Road, Sutton",Dublin,310000.0,No,Sutton,Dublin 13,q1,20%
+04/01/2013,"18 Bayside Boulevard North, Sutton",Dublin,182500.0,No,Sutton,Dublin 13,q1,10%
+09/01/2013,"35 Carrickbrack Heath, Sutton, Dublin 13",Dublin,500000.0,No,Sutton,Dublin 13,q3,60%
+09/01/2013,"39 Mariners Court, Howth Road, Sutton",Dublin,170000.0,No,Sutton,Dublin 13,q1,10%
+11/01/2013,"Seaverge, Greenfield Road, Sutton",Dublin,610000.0,No,Sutton,Dublin 13,q3,70%
+16/01/2013,"30 Binn Eadair View, Sutton, Dublin",Dublin,183000.0,No,Sutton,Dublin 13,q1,10%
+24/01/2013,"Lindesfarne, 7 Station Road, Sutton",Dublin,1025000.0,No,Sutton,Dublin 13,q4,100%
+07/02/2013,"8A Carrickbrack Road, Sutton",Dublin,312157.0,No,Sutton,Dublin 13,q1,20%
+12/02/2013,"Bouley And Fakaraki Station Road, And St. Josephs Dubli Road, Sutton",Dublin,950000.0,No,Sutton,Dublin 13,q4,100%
+13/02/2013,"57 St. Fintan'S Crescent, Sutton",Dublin,490000.0,No,Sutton,Dublin 13,q3,60%
+15/02/2013,"23 Offington Drive, Sutton, Dublin 13",Dublin,590100.0,No,Sutton,Dublin 13,q3,70%
+25/02/2013,"2 Duncarraig, Carrickbrack Road, Sutton",Dublin,625000.0,No,Sutton,Dublin 13,q3,70%
+25/02/2013,"32 Verbena Lawns, Sutton",Dublin,230000.0,No,Sutton,Dublin 13,q1,10%
+07/03/2013,"87 Bayside Walk, Sutton, Dublin 13",Dublin,209000.0,No,Sutton,Dublin 13,q1,10%
+14/03/2013,"307 Sutton Park, Sutton",Dublin,435000.0,No,Sutton,Dublin 13,q2,50%
+05/04/2013,"242 Sutton Park, Sutton, Dublin 13",Dublin,440000.0,No,Sutton,Dublin 13,q2,50%
+10/04/2013,"17 Sutton Court, Sutton",Dublin,142000.0,No,Sutton,Dublin 13,q1,10%
+26/04/2013,"11 Warren Green, Sutton",Dublin,320000.0,No,Sutton,Dublin 13,q1,20%
+03/05/2013,"Apartment 1, Sutton Castle, Sutton",Dublin,490000.0,No,Sutton,Dublin 13,q3,60%
+21/06/2013,"49 Binn Eadair View, Sutton, Dublin 13",Dublin,227000.0,No,Sutton,Dublin 13,q1,10%
+03/07/2013,"37 Corr Castle, Howth Road, Sutton",Dublin,280000.0,No,Sutton,Dublin 13,q1,20%
+05/07/2013,"31 Alden Drive, Sutton",Dublin,336000.0,No,Sutton,Dublin 13,q1,30%
+05/07/2013,"5 Del Val Court, Sutton",Dublin,296000.0,No,Sutton,Dublin 13,q1,20%
+10/07/2013,"907 Sarto Lawn, Sutton",Dublin,310000.0,No,Sutton,Dublin 13,q1,20%
+11/07/2013,"27 Duncarraig, Sutton, Dublin 13",Dublin,650000.0,No,Sutton,Dublin 13,q3,70%
+17/07/2013,"52 Sutton Park, Sutton, Dublin 13",Dublin,410000.0,No,Sutton,Dublin 13,q2,40%
+26/07/2013,"6 Carrickbrack Heath, Sutton",Dublin,596250.0,No,Sutton,Dublin 13,q3,70%
+29/07/2013,"67 St Fintan'S Crescent, Sutton",Dublin,630000.0,No,Sutton,Dublin 13,q3,70%
+30/07/2013,"28 Baldoyle Road, Sutton",Dublin,370000.0,No,Sutton,Dublin 13,q2,40%
+01/08/2013,"30 Carrickbrack Heath, Sutton",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+06/08/2013,"8 Bayside Walk, Sutton",Dublin,286000.0,No,Sutton,Dublin 13,q1,20%
+09/08/2013,"25 Shielmartin Road, Sutton, Dublin 13",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+09/08/2013,"39 Offington Lawns, Sutton, Co Dublin",Dublin,610000.0,No,Sutton,Dublin 13,q3,70%
+09/08/2013,"58 Corr Castle, Sutton",Dublin,363000.0,No,Sutton,Dublin 13,q2,30%
+12/08/2013,"19 Sutton Lawns, Sutton",Dublin,510000.0,No,Sutton,Dublin 13,q3,60%
+16/08/2013,"Lanterna, St Fintans Rd, Sutton",Dublin,700000.0,No,Sutton,Dublin 13,q4,80%
+19/08/2013,"8 Sutton Court, Sutton, Dubin 13",Dublin,172500.0,No,Sutton,Dublin 13,q1,10%
+20/08/2013,"Camross, 134 Dublin Road, Sutton",Dublin,990000.0,No,Sutton,Dublin 13,q4,100%
+21/08/2013,"9A Station Road Cottages, Sutton, Dublin 13",Dublin,355000.0,No,Sutton,Dublin 13,q2,30%
+26/08/2013,"12 Alden Drive, Sutton",Dublin,420000.0,No,Sutton,Dublin 13,q2,40%
+29/08/2013,"22 Carrickbrack Lawn, Sutton, Dublin 13",Dublin,582500.0,No,Sutton,Dublin 13,q3,70%
+03/09/2013,"Apt 2 B Avalon, Burrow Road, Sutton",Dublin,250000.0,No,Sutton,Dublin 13,q1,10%
+06/09/2013,"2 Alden Park, Sutton",Dublin,404000.0,No,Sutton,Dublin 13,q2,40%
+10/09/2013,"1A Offington Park, Sutton",Dublin,480000.0,No,Sutton,Dublin 13,q2,50%
+10/09/2013,"Binn Eadair Villa, 17 Greefield Road, Sutton",Dublin,1075000.0,No,Sutton,Dublin 13,q4,100%
+19/09/2013,"47A Howth Road, Sutton, Dublin 13",Dublin,456000.0,No,Sutton,Dublin 13,q2,50%
+23/09/2013,"14 James Mccormack Gardens, Sutton",Dublin,425000.0,No,Sutton,Dublin 13,q2,50%
+23/09/2013,"30 Carrickbrack Hill, Sutton",Dublin,510000.0,No,Sutton,Dublin 13,q3,60%
+26/09/2013,"4 St Domhnachs Well, Baldoyle Road, Sutton",Dublin,305000.0,No,Sutton,Dublin 13,q1,20%
+02/10/2013,"23 The Crescent, Binn Eadair, Sutton",Dublin,296000.0,No,Sutton,Dublin 13,q1,20%
+08/10/2013,"33 Bayside Boulevard North, Sutton",Dublin,170000.0,No,Sutton,Dublin 13,q1,10%
+08/10/2013,"34 Bayside Square North, Sutton, Dublin",Dublin,215000.0,No,Sutton,Dublin 13,q1,10%
+11/10/2013,"5 Sutton Grove, Sutton, Dublin 13",Dublin,260000.0,No,Sutton,Dublin 13,q1,20%
+16/10/2013,"Cnoc Muire, 21 Station Road, Sutton",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+22/10/2013,"6 Sutton Lawns, Sutton",Dublin,480000.0,No,Sutton,Dublin 13,q2,50%
+25/10/2013,"4 Church Road, Sutton, Dublin 13",Dublin,530000.0,No,Sutton,Dublin 13,q3,60%
+29/10/2013,"18 Offington Court, Sutton",Dublin,770000.0,No,Sutton,Dublin 13,q4,90%
+31/10/2013,"68 Offington Park, Sutton",Dublin,615000.0,No,Sutton,Dublin 13,q3,70%
+08/11/2013,"13 St Domhnachs Well, Sutton",Dublin,245000.0,No,Sutton,Dublin 13,q1,10%
+11/11/2013,"355 Sutton Park, Sutton",Dublin,425000.0,No,Sutton,Dublin 13,q2,50%
+11/11/2013,"61 Offington Lawn, Sutton",Dublin,620000.0,No,Sutton,Dublin 13,q3,70%
+14/11/2013,"4 Offington Park, Sutton",Dublin,590000.0,No,Sutton,Dublin 13,q3,70%
+15/11/2013,"1 Marine Cove, Baldoyle Road, Sutton",Dublin,198000.0,No,Sutton,Dublin 13,q1,10%
+20/11/2013,"4 Saffron House, Station Rd, Sutton",Dublin,195000.0,No,Sutton,Dublin 13,q1,10%
+20/11/2013,"7A Carrickbrack Road, Sutton",Dublin,1250000.0,No,Sutton,Dublin 13,q4,100%
+22/11/2013,"43 Bayside Park, Sutton",Dublin,215000.0,No,Sutton,Dublin 13,q1,10%
+29/11/2013,"11 Shielmartin Drive, Sutton",Dublin,510000.0,No,Sutton,Dublin 13,q3,60%
+05/12/2013,"7 Verbena Lawn, Sutton, Dublin 13",Dublin,310000.0,No,Sutton,Dublin 13,q1,20%
+06/12/2013,"The Gables, 6 Strand Rd, Sutton",Dublin,456000.0,No,Sutton,Dublin 13,q2,50%
+09/12/2013,"16 Del Val Court, Sutton, Dublin 13",Dublin,361000.0,No,Sutton,Dublin 13,q2,30%
+11/12/2013,"1 Pacelli Ave, Sutton, Dublin 13",Dublin,455000.0,No,Sutton,Dublin 13,q2,50%
+12/12/2013,"3 Radcliffe Apts, Dublin Rd, Sutton Dublin 13",Dublin,240000.0,No,Sutton,Dublin 13,q1,10%
+16/12/2013,"1B Avalon, Burrow Road, Sutton",Dublin,270000.0,No,Sutton,Dublin 13,q1,20%
+16/12/2013,"250 Bayside Boulevard North, Sutton, Dublin 13",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+16/12/2013,"The Bungalow, Strand Road, Sutton",Dublin,400000.0,No,Sutton,Dublin 13,q2,40%
+19/12/2013,"19 Shielmartin Rd, Sutton, Dublin 13",Dublin,630000.0,No,Sutton,Dublin 13,q3,70%
+19/12/2013,"19 Verbena Lawn, Sutton, Dublin 15",Dublin,320000.0,No,Sutton,Dublin 13,q1,20%
+19/12/2013,"Moyne, Greenfield Rd, Sutton Dublin 13",Dublin,480000.0,No,Sutton,Dublin 13,q2,50%
+20/12/2013,"128 Dublin Rd, Sutton",Dublin,850000.0,No,Sutton,Dublin 13,q4,90%
+23/12/2013,"11 Binn Eadair Court, Sutton, Dublin 13",Dublin,420000.0,No,Sutton,Dublin 13,q2,40%
+23/12/2013,"9 Sarto Lawn, Sutton, Dublin 13",Dublin,345000.0,No,Sutton,Dublin 13,q1,30%
+24/01/2014,"44 Beach View, Sutton, Dublin 13",Dublin,554000.0,No,Sutton,Dublin 13,q3,60%
+30/01/2014,"15 Bayside Square East, Sutton, Dublin 13",Dublin,200000.0,No,Sutton,Dublin 13,q1,10%
+05/02/2014,"Fairways, Carrickbrack Rd, Sutton",Dublin,1020000.0,No,Sutton,Dublin 13,q4,100%
+24/02/2014,"44 Offington Dr, Sutton, Dublin 13",Dublin,655000.0,No,Sutton,Dublin 13,q3,80%
+25/02/2014,"16 Sarto Rd, Sutton, Dublin 13",Dublin,475000.0,No,Sutton,Dublin 13,q2,50%
+28/02/2014,"105 Bayside Boulevard North, Sutton, Dublin 13",Dublin,285000.0,No,Sutton,Dublin 13,q1,20%
+28/02/2014,"175 Howth Rd, Sutton, Dublin 13",Dublin,740000.0,No,Sutton,Dublin 13,q4,80%
+03/03/2014,"3 Carrickbrack Heath, Sutton, Dublin 13",Dublin,660000.0,No,Sutton,Dublin 13,q3,80%
+06/03/2014,"22 Offington Park, Sutton, Dublin 13",Dublin,702000.0,No,Sutton,Dublin 13,q4,80%
+06/03/2014,"84 Bayside Walk, Sutton, Dublin 13",Dublin,267500.0,No,Sutton,Dublin 13,q1,20%
+10/03/2014,"Tenebo, 144 Dublin Rd, Sutton",Dublin,1350000.0,No,Sutton,Dublin 13,q4,100%
+13/03/2014,"11 La Vista Ave, Sutton, Dublin 13",Dublin,800000.0,No,Sutton,Dublin 13,q4,90%
+13/03/2014,"4 Howth Junction Cottages, Sutton, Dublin 5",Dublin,127000.0,No,Sutton,Dublin 13,q1,10%
+28/03/2014,"22 James Mccormack Gardens, Sutton",Dublin,240000.0,No,Sutton,Dublin 13,q1,10%
+31/03/2014,"24 Alden Dr, Sutton, Dublin 13",Dublin,365000.0,No,Sutton,Dublin 13,q2,40%
+04/04/2014,"11 Sarto Rise, Bayside, Sutton Dublin 13",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+04/04/2014,"174 Howth Rd, Sutton, Dublin 13",Dublin,867500.0,No,Sutton,Dublin 13,q4,90%
+10/04/2014,"44F Strand Rd, Sutton, Strand Rd Dublin 13",Dublin,880000.0,No,Sutton,Dublin 13,q4,100%
+11/04/2014,"83 Bayside Walk, Bayside, Sutton",Dublin,290000.0,No,Sutton,Dublin 13,q1,20%
+11/04/2014,"Redrock Lodge, Shielmartin Rd, Sutton Dublin 13",Dublin,800000.0,No,Sutton,Dublin 13,q4,90%
+17/04/2014,"St Philomenas, 16 Howth Road, Sutton",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+25/04/2014,"50 Kilbarrack Rd, Sutton, Dublin 13",Dublin,480000.0,No,Sutton,Dublin 13,q2,50%
+16/05/2014,"774 Sarto Park, Bayside, Sutton Dublin 13",Dublin,500000.0,No,Sutton,Dublin 13,q3,60%
+22/05/2014,"32 Sutton Lawns, Sutton, Dublin 13",Dublin,505000.0,No,Sutton,Dublin 13,q3,60%
+30/05/2014,"9 Mariners Court, Dublin Rd, Sutton Dublin 13",Dublin,275000.0,No,Sutton,Dublin 13,q1,20%
+11/06/2014,"182 Sutton Park, Sutton, Dublin 13",Dublin,506000.0,No,Sutton,Dublin 13,q3,60%
+26/06/2014,"105 Sutton Park, Sutton, Dublin",Dublin,492000.0,No,Sutton,Dublin 13,q3,60%
+30/06/2014,"38 Bayside Boulevard North, Bayside, Sutton Dublin 13",Dublin,225000.0,No,Sutton,Dublin 13,q1,10%
+11/07/2014,"177 Howth Rd, Sutton, Dublin 13",Dublin,740000.0,No,Sutton,Dublin 13,q4,80%
+14/07/2014,"12 Burrow Road, Sutton",Dublin,1000000.0,No,Sutton,Dublin 13,q4,100%
+15/07/2014,"3 Pacelli Ave, Sutton, Dublin 13",Dublin,570000.0,No,Sutton,Dublin 13,q3,70%
+15/07/2014,"3 Strand Road, Sutton",Dublin,784700.0,No,Sutton,Dublin 13,q4,90%
+15/07/2014,"4 Strand Road, Sutton",Dublin,658100.0,No,Sutton,Dublin 13,q3,80%
+16/07/2014,"36A Howth Rd, Sutton, Dublin 13",Dublin,710000.0,No,Sutton,Dublin 13,q4,80%
+28/07/2014,"2 The Crescent, Binn Eadair View, Sutton",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+30/07/2014,"60 Offington Park, Sutton, Dublin 13",Dublin,705000.0,No,Sutton,Dublin 13,q4,80%
+12/08/2014,"60 Dublin Rd, Sutton, Dubin 13",Dublin,850000.0,No,Sutton,Dublin 13,q4,90%
+15/08/2014,"17 Bayside Sq East, Sutton Dublin 13, Dublin",Dublin,313000.0,No,Sutton,Dublin 13,q1,20%
+15/08/2014,"37 St Domhnachs Well, Sutton, Dublin 13",Dublin,220000.0,No,Sutton,Dublin 13,q1,10%
+15/08/2014,"53A Binn Eadair View, Sutton, Dublin",Dublin,360000.0,No,Sutton,Dublin 13,q2,30%
+19/08/2014,"120 Dublin Rd, Sutton, Dublin",Dublin,975000.0,No,Sutton,Dublin 13,q4,100%
+22/08/2014,"52 Glencarraig, Sutton, Dublin 13",Dublin,675000.0,No,Sutton,Dublin 13,q3,80%
+24/08/2014,"6 Martello Terrace, Strand Rd, Sutton",Dublin,470000.0,No,Sutton,Dublin 13,q2,50%
+28/08/2014,"20 Bayside Walk, Sutton, Dublin 13",Dublin,285000.0,No,Sutton,Dublin 13,q1,20%
+28/08/2014,"68 Bayside Walk, Sutton, Dublin 13",Dublin,346000.0,No,Sutton,Dublin 13,q2,30%
+28/08/2014,"Apt 1 Strand Court, 19A Burrow Rd, Sutton Dublin 13",Dublin,340000.0,No,Sutton,Dublin 13,q1,30%
+29/08/2014,"5 Dargans Way, Railway Avenue, Sutton",Dublin,430000.0,Yes,Sutton,Dublin 13,q2,50%
+29/08/2014,"7 Dargans Way, Railway Avenue, Sutton",Dublin,407048.45,Yes,Sutton,Dublin 13,q2,40%
+03/09/2014,"Sliema, 42 Dublin Rd, Sutton Dublin 13",Dublin,740000.0,No,Sutton,Dublin 13,q4,80%
+04/09/2014,"4 Dargan'S Way, Railway Avenue, Sutton",Dublin,427312.77,Yes,Sutton,Dublin 13,q2,50%
+05/09/2014,"21 Glencarraig, Sutton, Dublin 13",Dublin,690000.0,No,Sutton,Dublin 13,q3,80%
+12/09/2014,"54 Blvd North, Bayside, Sutton Dublin 13",Dublin,272000.0,No,Sutton,Dublin 13,q1,20%
+12/09/2014,"783 Sarto Park, Sutton, Dublin 13",Dublin,560000.0,No,Sutton,Dublin 13,q3,70%
+12/09/2014,"8 Sutton Lawns, Sutton, Dublin 13",Dublin,525000.0,No,Sutton,Dublin 13,q3,60%
+15/09/2014,"10A Binn Eadair View, Sutton, Dublin 13",Dublin,362000.0,No,Sutton,Dublin 13,q2,30%
+15/09/2014,"2 Dargans Way, Railway Avenue, Sutton",Dublin,530000.0,Yes,Sutton,Dublin 13,q3,60%
+18/09/2014,"30 James Mccormack Gardens, Sutton, Dublin 13",Dublin,325000.0,No,Sutton,Dublin 13,q1,30%
+24/09/2014,"4 Sarto Lawn, Sutton, Dublin 13",Dublin,360000.0,No,Sutton,Dublin 13,q2,30%
+25/09/2014,"51 Sutton Downs, Sutton, Dublin 13",Dublin,300000.0,No,Sutton,Dublin 13,q1,20%
+26/09/2014,"1 Martello Terrace, Strand Rd, Sutton Dublin 13",Dublin,400000.0,No,Sutton,Dublin 13,q2,40%
+30/09/2014,"18 Bayside Sq South, Sutton, Dublin 13",Dublin,300000.0,No,Sutton,Dublin 13,q1,20%
+03/10/2014,"3 Dargan'S Way, Railway Avenue, Sutton",Dublin,497000.0,Yes,Sutton,Dublin 13,q3,60%
+03/10/2014,"37 Mariners Court, Sutton, Dublin 13",Dublin,248000.0,No,Sutton,Dublin 13,q1,10%
+03/10/2014,"8 Dargan'S Way, Sutton",Dublin,385000.0,Yes,Sutton,Dublin 13,q2,40%
+08/10/2014,"9 Dargan'S Way, Railway Avenue, Sutton",Dublin,437000.0,Yes,Sutton,Dublin 13,q2,50%
+10/10/2014,"9A Binn Eadair View, Sutton",Dublin,250000.0,No,Sutton,Dublin 13,q1,10%
+10/10/2014,"Apt 32 Block 2, Corr Castle Howth Rd, Sutton",Dublin,510000.0,No,Sutton,Dublin 13,q3,60%
+14/10/2014,"23 Burrow Road, Sutton, Dublin 13",Dublin,1066500.0,No,Sutton,Dublin 13,q4,100%
+24/10/2014,"10 Dargan'S Way, Railway Avenue, Sutton",Dublin,389427.31,Yes,Sutton,Dublin 13,q2,40%
+24/10/2014,"20 Boulevard South, Bayside, Sutton",Dublin,331500.0,No,Sutton,Dublin 13,q1,30%
+24/10/2014,"63 Aulden Rd, Sutton, Dublin 13",Dublin,332000.0,No,Sutton,Dublin 13,q1,30%
+28/10/2014,"11 Dargan'S Way, Railway Avenue, Sutton",Dublin,389427.0,Yes,Sutton,Dublin 13,q2,40%
+31/10/2014,"14 Offington Manor, Offington, Sutton",Dublin,200000.0,No,Sutton,Dublin 13,q1,10%
+10/11/2014,"24 Duncarraig, Sutton, Dublin 13",Dublin,710000.0,No,Sutton,Dublin 13,q4,80%
+12/11/2014,"6A Binn Eadair View, Sutton, Dublin 13",Dublin,453000.0,No,Sutton,Dublin 13,q2,50%
+14/11/2014,"63 Glencarraig, Sutton, Dublin 13",Dublin,685000.0,No,Sutton,Dublin 13,q3,80%
+14/11/2014,"9 The Crescent, Binn Eadair View, Sutton Dublin 13",Dublin,380000.0,No,Sutton,Dublin 13,q2,40%
+14/11/2014,"St Lawrence Lodge, 18 Station Rd, Sutton Dublin 13",Dublin,1400000.0,No,Sutton,Dublin 13,q4,100%
+19/11/2014,"6 Dargans Way, Railway Avenue, Sutton",Dublin,471365.63,Yes,Sutton,Dublin 13,q2,50%
+20/11/2014,"Coragh House, 7 Baldoyle Rd, Sutton Dublin 13",Dublin,565000.0,No,Sutton,Dublin 13,q3,70%
+27/11/2014,"4 Offington Court, Sutton, Dublin 13",Dublin,720000.0,No,Sutton,Dublin 13,q4,80%
+28/11/2014,"43 The Crescent, Binn Eadair, Sutton Dublin 13",Dublin,356000.0,No,Sutton,Dublin 13,q2,30%
+28/11/2014,"The Hut, 37A Howth Road, Sutton",Dublin,334000.0,No,Sutton,Dublin 13,q1,30%
+04/12/2014,"39 Bayside Park, Bayside, Sutton Dublin 13",Dublin,302000.0,No,Sutton,Dublin 13,q1,20%
+05/12/2014,"12 Dargan'S Way, Railway Avenue, Sutton",Dublin,462000.0,Yes,Sutton,Dublin 13,q2,50%
+10/12/2014,"736 Sarto Park, Bayside, Sutton Dublin 13",Dublin,450000.0,No,Sutton,Dublin 13,q2,50%
+12/12/2014,"20 Sutton Lawns, Sutton",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+15/12/2014,"1  2 And 3 Old Quay Terrace, Strand Road, Sutton",Dublin,242291.0,No,Sutton,Dublin 13,q1,10%
+16/12/2014,"14 Burrowfield Rd, Sutton, Dublin 13",Dublin,690000.0,No,Sutton,Dublin 13,q3,80%
+16/12/2014,"55 Bayside Walk, Sutton, Dublin 13",Dublin,377000.0,No,Sutton,Dublin 13,q2,40%
+19/12/2014,"15 St Fintans Park, Sutton, Dublin 13",Dublin,776500.0,No,Sutton,Dublin 13,q4,90%
+23/12/2014,"157 Dublin Road, Sutton",Dublin,980000.0,No,Sutton,Dublin 13,q4,100%
+09/01/2015,"28 Dublin Rd, Sutton, Dublin 13",Dublin,1250000.0,No,Sutton,Dublin 13,q4,100%
+09/01/2015,"41 Verbena Ave, Bayside, Sutton Dublin 13",Dublin,440000.0,No,Sutton,Dublin 13,q2,50%
+09/01/2015,"99 Binn Eadair View, Sutton, Dublin 13",Dublin,325000.0,No,Sutton,Dublin 13,q1,30%
+22/01/2015,"Magheraboy, Shielmartin Rd, Sutton",Dublin,850000.0,No,Sutton,Dublin 13,q4,90%
+22/01/2015,"Number 1 Engine House, Dargan'S Way Railway Avenue, Sutton",Dublin,475770.92,Yes,Sutton,Dublin 13,q2,50%
+22/01/2015,"Skelligs Manor, Shielmartin Rd, Sutton",Dublin,850000.0,No,Sutton,Dublin 13,q4,90%
+23/01/2015,"27 Baldoyle Rd, Sutton, Dublin 13",Dublin,615000.0,No,Sutton,Dublin 13,q3,70%
+23/01/2015,"Breffni, Burrow Rd, Sutton Dublin 13",Dublin,1250000.0,No,Sutton,Dublin 13,q4,100%
+02/02/2015,"37 Bayside Sq East, Sutton, Dublin 13",Dublin,349000.0,No,Sutton,Dublin 13,q2,30%
+09/02/2015,"64 Glencarrig, Sutton, Dublin 13",Dublin,690000.0,No,Sutton,Dublin 13,q3,80%
+24/02/2015,"3 Old Quay Terrace, Strand Rd, Sutton Dublin 13",Dublin,375000.0,No,Sutton,Dublin 13,q2,40%
+25/02/2015,"41 Bayside Blvd North, Sutton, Dublin 13",Dublin,318000.0,No,Sutton,Dublin 13,q1,20%
+27/02/2015,"1 St Domhnachs Well, Sutton, Dublin 13",Dublin,395000.0,No,Sutton,Dublin 13,q2,40%
+27/02/2015,"15 Dargan'S Way, Railway Avenue, Sutton",Dublin,484581.49,Yes,Sutton,Dublin 13,q3,60%
+25/03/2015,"13 Old Quay Terrace, Strand Rd, Sutton Dublin 13",Dublin,352423.0,No,Sutton,Dublin 13,q2,30%
+02/04/2015,"27 Bayside Square South, Bayside, Sutton",Dublin,340000.0,No,Sutton,Dublin 13,q1,30%
+07/04/2015,"69 Bayside Walk, Sutton",Dublin,325000.0,No,Sutton,Dublin 13,q1,30%
+17/04/2015,"Old Quay House, 3 St Fintans Rd, Sutton Dublin 13",Dublin,520000.0,No,Sutton,Dublin 13,q3,60%
+21/04/2015,"2 Offington Ave, Sutton, Dublin 13",Dublin,250000.0,No,Sutton,Dublin 13,q1,10%
+21/04/2015,"2 Offington Ave, Sutton, Dublin 13",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+22/04/2015,"150 Howth Road, Sutton, Dublin 15",Dublin,849000.0,No,Sutton,Dublin 13,q4,90%
+22/04/2015,"151 Howth Road, Sutton, Dublin 13",Dublin,825000.0,No,Sutton,Dublin 13,q4,90%
+22/04/2015,"152 Howth Road, Sutton, Dublin 13",Dublin,975000.0,No,Sutton,Dublin 13,q4,100%
+24/04/2015,"22 Radcliffe Apts, Binn Eadair View, Sutton Dublin 13",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+27/04/2015,"22 Church Rd, Sutton, Dublin",Dublin,365000.0,No,Sutton,Dublin 13,q2,40%
+01/05/2015,"20 South Hill, Sutton, Dublin 13",Dublin,800000.0,No,Sutton,Dublin 13,q4,90%
+01/05/2015,"24 Offington Dr, Sutton, Dublin 13",Dublin,415000.0,No,Sutton,Dublin 13,q2,40%
+06/05/2015,"83 Corr Castle, Sutton, Dublin",Dublin,500000.0,No,Sutton,Dublin 13,q3,60%
+15/05/2015,"3 Verbena Lawn, Bayside, Sutton Dublin 13",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+15/05/2015,"72 Verbena Lawn, Sutton, Dublin 13",Dublin,385000.0,No,Sutton,Dublin 13,q2,40%
+15/05/2015,"87 Dublin Road, Sutton",Dublin,745000.0,No,Sutton,Dublin 13,q4,90%
+21/05/2015,"17 Dargan'S Way, Railway Avenue, Sutton",Dublin,475771.0,Yes,Sutton,Dublin 13,q2,50%
+29/05/2015,"2 Warren Lodge, Sutton, County Dublin",Dublin,819383.25,Yes,Sutton,Dublin 13,q4,90%
+03/06/2015,"Unit No 4. Warren Lodge, Sutton",Dublin,907500.0,Yes,Sutton,Dublin 13,q4,100%
+10/06/2015,"4A Avalon Court, Burrow Rd, Sutton Dublin 13",Dublin,270000.0,No,Sutton,Dublin 13,q1,20%
+12/06/2015,"36A Binn Eadair View, Sutton, Dublin",Dublin,335000.0,No,Sutton,Dublin 13,q1,30%
+15/06/2015,"3 Old Quay, Strand Rd, Sutton Dublin 13",Dublin,725000.0,No,Sutton,Dublin 13,q4,80%
+18/06/2015,"2 Binn Eadair View, Sutton, Dublin 13",Dublin,675000.0,No,Sutton,Dublin 13,q3,80%
+19/06/2015,"34 Glencarraig, Sutton, Dublin 13",Dublin,720000.0,No,Sutton,Dublin 13,q4,80%
+29/06/2015,"44 Shielmartin Dr, Sutton, Dublin 13",Dublin,740000.0,No,Sutton,Dublin 13,q4,80%
+29/06/2015,"64 Bayside Boulevard North, Sutton, Dublin 13",Dublin,360000.0,No,Sutton,Dublin 13,q2,30%
+08/07/2015,"22 Offinton Manor, Sutton, Dublin 13",Dublin,380000.0,No,Sutton,Dublin 13,q2,40%
+13/07/2015,"4 Burrow Heath, Station Road, Sutton",Dublin,647577.0,Yes,Sutton,Dublin 13,q3,70%
+13/07/2015,"7 Burrow Heath, Station Road, Sutton",Dublin,718070.0,Yes,Sutton,Dublin 13,q4,80%
+15/07/2015,"19 Beach View, Sutton, Dublin 13",Dublin,291000.0,No,Sutton,Dublin 13,q1,20%
+20/07/2015,"8 Burrow Heath, Station Road, Sutton",Dublin,730000.0,Yes,Sutton,Dublin 13,q4,80%
+20/07/2015,"9 Burrow Heath, Sutton, Dublin 13",Dublin,660000.0,Yes,Sutton,Dublin 13,q3,80%
+22/07/2015,"6 Burrow Heath, Sutton, Dublin 13",Dublin,726872.24,Yes,Sutton,Dublin 13,q4,80%
+23/07/2015,"2 Burrow Heath, Station Road, Sutton",Dublin,634362.0,Yes,Sutton,Dublin 13,q3,70%
+27/07/2015,"21 Sutton Lawns, Sutton, Dublin 13",Dublin,625000.0,No,Sutton,Dublin 13,q3,70%
+30/07/2015,"5 Seafield, Baldoyle Road, Sutton",Dublin,440000.0,No,Sutton,Dublin 13,q2,50%
+30/07/2015,"56 Verbena Ave, Sutton, Dublin 13",Dublin,400000.0,No,Sutton,Dublin 13,q2,40%
+30/07/2015,"82 Corrcastle, Sutton, Dublin 13",Dublin,271000.0,No,Sutton,Dublin 13,q1,20%
+07/08/2015,"18 South Hill, Sutton",Dublin,790000.0,No,Sutton,Dublin 13,q4,90%
+13/08/2015,"14 Beach View, Sutton, Dublin 13",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+19/08/2015,"10 La Vista Ave, Strand Rd, Sutton Dublin 13",Dublin,825000.0,No,Sutton,Dublin 13,q4,90%
+19/08/2015,"30 Burrowfields Rd, Sutton, Dublin 13",Dublin,655000.0,No,Sutton,Dublin 13,q3,80%
+19/08/2015,"84 Bayside Crescent, Sutton, Dublin 13",Dublin,290000.0,No,Sutton,Dublin 13,q1,20%
+21/08/2015,"34 Offington Dr, Sutton, Dublin 13",Dublin,925500.0,No,Sutton,Dublin 13,q4,100%
+21/08/2015,"38 Carrickbrack Hill, Sutton, Dublin 13",Dublin,700000.0,No,Sutton,Dublin 13,q4,80%
+24/08/2015,"38 The Crescent, Binn Eadair View, Sutton",Dublin,395000.0,No,Sutton,Dublin 13,q2,40%
+25/08/2015,"3 Burrow Heath, Station Road, Sutton",Dublin,647577.0,Yes,Sutton,Dublin 13,q3,70%
+25/08/2015,"5 Burrow Heath, Sutton, Dublin 13",Dublin,629956.0,Yes,Sutton,Dublin 13,q3,70%
+26/08/2015,"37 Sutton Downs, Bayside, Sutton",Dublin,200000.0,No,Sutton,Dublin 13,q1,10%
+26/08/2015,"The Orchard, St Fintans Rd, Sutton Dublin 13",Dublin,1000000.0,No,Sutton,Dublin 13,q4,100%
+27/08/2015,"2 Station Road Cottages, Sutton",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+27/08/2015,"6 Offington Drive, Sutton, Dublin 13",Dublin,825000.0,No,Sutton,Dublin 13,q4,90%
+28/08/2015,"3 Lodge Lodge, Sutton, Dublin 13",Dublin,819383.0,Yes,Sutton,Dublin 13,q4,90%
+01/09/2015,"11 Offington Ave, Sutton, Dublin 13",Dublin,870000.0,No,Sutton,Dublin 13,q4,100%
+01/09/2015,"51 Bayside Sq South, Sutton, Dublin 13",Dublin,375000.0,No,Sutton,Dublin 13,q2,40%
+04/09/2015,"178 Howth Rd, Sutton Cross, Dublin 13",Dublin,990000.0,No,Sutton,Dublin 13,q4,100%
+11/09/2015,"74 Corrcastle, Howth Rd, Sutton Dublin 13",Dublin,510000.0,No,Sutton,Dublin 13,q3,60%
+11/09/2015,"Skelligs Manor, Shielmartin Rd, Sutton",Dublin,1250000.0,No,Sutton,Dublin 13,q4,100%
+17/09/2015,"13 Bayside Sq West, Sutton, Dublin 13",Dublin,330000.0,No,Sutton,Dublin 13,q1,30%
+17/09/2015,"175 Sutton Park, Sutton, Dublin 13",Dublin,473000.0,No,Sutton,Dublin 13,q2,50%
+22/09/2015,"44 Binn Eadair Crescent, Sutton, Dublin 13",Dublin,372000.0,No,Sutton,Dublin 13,q2,40%
+24/09/2015,"16 Offington Park, Sutton, Dublin 13",Dublin,755000.0,No,Sutton,Dublin 13,q4,90%
+29/09/2015,"46 Carrickbrack Hill, Sutton, Dublin 13",Dublin,690000.0,No,Sutton,Dublin 13,q3,80%
+30/09/2015,"14 Bayside Boulevard North, Sutton, Dublin 13",Dublin,342000.0,No,Sutton,Dublin 13,q1,30%
+14/10/2015,"15 Bayside Boulevard South, Sutton",Dublin,317500.0,No,Sutton,Dublin 13,q1,20%
+22/10/2015,"Falaraki, Station Road, Sutton",Dublin,657400.0,Yes,Sutton,Dublin 13,q3,80%
+23/10/2015,"1 Warren Lodge, Dublin Road, Sutton",Dublin,823789.0,Yes,Sutton,Dublin 13,q4,90%
+23/10/2015,"15 Baldoyle Rd, Sutton, Dublin 13",Dublin,310000.0,No,Sutton,Dublin 13,q1,20%
+23/10/2015,"4 Shielmartin Park, Sutton, Dublin",Dublin,733000.0,No,Sutton,Dublin 13,q4,80%
+03/11/2015,"309 Sutton Park, Sutton, Dublin 13",Dublin,560000.0,No,Sutton,Dublin 13,q3,70%
+05/11/2015,"20 Offington Ave, Sutton, Dublin 13",Dublin,680000.0,No,Sutton,Dublin 13,q3,80%
+06/11/2015,"Bayview House, Strand Rd, Sutton Dublin 13",Dublin,1495000.0,No,Sutton,Dublin 13,q4,100%
+12/11/2015,"18 Dargan'S Way, Railway Avenue, Sutton",Dublin,515418.0,Yes,Sutton,Dublin 13,q3,60%
+13/11/2015,"1 Burrow Heath, Sutton",Dublin,623348.0,Yes,Sutton,Dublin 13,q3,70%
+27/11/2015,"Apt 50, Corr Castle, Sutton",Dublin,510000.0,No,Sutton,Dublin 13,q3,60%
+30/11/2015,"7 Warren Lodge, Sutton, Dublin 13",Dublin,748898.67,Yes,Sutton,Dublin 13,q4,90%
+04/12/2015,"902 Sarto Lawn, Sutton, Dublin 13",Dublin,342000.0,No,Sutton,Dublin 13,q1,30%
+09/12/2015,"312 Sutton Park, Dublin 13, Dublin",Dublin,449000.0,No,Sutton,Dublin 13,q2,50%
+21/12/2015,"Bouley, Station Rd, Sutton Dublin 13",Dublin,750000.0,No,Sutton,Dublin 13,q4,90%
+22/12/2015,"Apt 6 Sutton Castle, Shielmartin Rd, Sutton",Dublin,1050000.0,No,Sutton,Dublin 13,q4,100%
+14/01/2016,"162 Howth Road, Sutton",Dublin,700000.0,No,Sutton,Dublin 13,q4,80%
+15/01/2016,"328 Sutton Park, Sutton, Dublin 13",Dublin,510000.0,No,Sutton,Dublin 13,q3,60%
+15/01/2016,"38 Bayside Boulevard North, Bayside, Sutton Dublin 13",Dublin,250000.0,No,Sutton,Dublin 13,q1,10%
+21/01/2016,"20 Bayside Square East, Sutton",Dublin,300000.0,No,Sutton,Dublin 13,q1,20%
+26/01/2016,"4 Martello Terrace, Strand Rd, Sutton Dublin 13",Dublin,180000.0,No,Sutton,Dublin 13,q1,10%
+02/02/2016,"37 The Crescent, Binn Eadair View, Sutton  Dublin 13",Dublin,310000.0,No,Sutton,Dublin 13,q1,20%
+08/02/2016,"47A Binn Eadair View, Sutton",Dublin,295000.0,No,Sutton,Dublin 13,q1,20%
+09/02/2016,"900 Sarto Lawn, Sutton",Dublin,420000.0,No,Sutton,Dublin 13,q2,40%
+19/02/2016,"21 James Mccormack Gardens, Sutton, Dublin 13",Dublin,290000.0,No,Sutton,Dublin 13,q1,20%
+19/02/2016,"8 Carrickbrack Heath, Sutton",Dublin,710000.0,No,Sutton,Dublin 13,q4,80%
+22/02/2016,"1 Binn Eadair View, Sutton, Dublin 13",Dublin,630000.0,No,Sutton,Dublin 13,q3,70%
+22/02/2016,"174 Sutton Park, Sutton, Dublin 13",Dublin,440000.0,No,Sutton,Dublin 13,q2,50%
+24/02/2016,"26 Offington Manor, Sutton, Dublin 13",Dublin,363000.0,No,Sutton,Dublin 13,q2,30%
+28/02/2016,"16 Dargan'S Way, Railway Avenue, Sutton",Dublin,475771.0,Yes,Sutton,Dublin 13,q2,50%
+29/02/2016,"110 Sutton Park, Sutton, Dublin 13",Dublin,210000.0,Yes,Sutton,Dublin 13,q1,10%
+29/02/2016,"63 Offington Park, Sutton, Dublin 13",Dublin,795000.0,No,Sutton,Dublin 13,q4,90%
+02/03/2016,"46 Offington Park, Sutton, Dublin 13",Dublin,900000.0,No,Sutton,Dublin 13,q4,100%
+03/03/2016,"45 Bayside Sq West, Bayside, Sutton",Dublin,145000.0,No,Sutton,Dublin 13,q1,10%
+03/03/2016,"Quiet Waters, 28 St. Fintans Road, Sutton",Dublin,697000.0,No,Sutton,Dublin 13,q4,80%
+16/03/2016,"84 Dublin Rd, Sutton, Dublin",Dublin,894850.0,No,Sutton,Dublin 13,q4,100%
+31/03/2016,"23A Binn Eadair View, Sutton",Dublin,370000.0,No,Sutton,Dublin 13,q2,40%
+13/04/2016,"21 Binn Eadair View, Sutton, Dublin 13",Dublin,354000.0,No,Sutton,Dublin 13,q2,30%
+18/04/2016,"38 Dublin Rd, Sutton",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+25/04/2016,"3 Carrickbrack Park, Sutton, Dublin 13",Dublin,540000.0,No,Sutton,Dublin 13,q3,60%
+28/04/2016,"45 Offington Ave, Sutton, Dublin 13",Dublin,705000.0,No,Sutton,Dublin 13,q4,80%
+03/05/2016,"43 Offington Lawn, Sutton, Dublin 13",Dublin,820000.0,No,Sutton,Dublin 13,q4,90%
+06/05/2016,"5 La Vista Ave, Sutton, Dublin 13",Dublin,700000.0,No,Sutton,Dublin 13,q4,80%
+12/05/2016,"25 Sutton Park, Dublin 13, Dublin",Dublin,582000.0,No,Sutton,Dublin 13,q3,70%
+13/05/2016,"150 Howth Road, Sutton, Dublin 15",Dublin,760000.0,No,Sutton,Dublin 13,q4,90%
+25/05/2016,"7 Dargans Way, Railway Avenue, Sutton",Dublin,430000.0,No,Sutton,Dublin 13,q2,50%
+27/05/2016,"14 Dargan'S Way, Railway Avenue, Sutton",Dublin,480176.21,Yes,Sutton,Dublin 13,q3,60%
+31/05/2016,"Apt 8 Sutton Castle, Shielmartin Rd, Sutton",Dublin,1140000.0,Yes,Sutton,Dublin 13,q4,100%
+02/06/2016,"25 South Hill, Sutton, Dublin 13",Dublin,745000.0,No,Sutton,Dublin 13,q4,90%
+13/06/2016,"8 Carrickbrack Hill, Sutton, Dublin 13",Dublin,690000.0,No,Sutton,Dublin 13,q3,80%
+17/06/2016,"42 Bayside Sq North, Sutton, Dublin 13",Dublin,275000.0,No,Sutton,Dublin 13,q1,20%
+29/06/2016,"17 St Domhnachs Well, Sutton, Dublin 13",Dublin,345000.0,No,Sutton,Dublin 13,q2,30%
+29/06/2016,"21 Offington Avenue, Sutton, Dublin 13",Dublin,840000.0,No,Sutton,Dublin 13,q4,90%
+30/06/2016,"19 Radcliffe, Sutton, Dublin 13",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+05/07/2016,"27 Shielmartin Rd, Sutton, Dublin 13",Dublin,705000.0,No,Sutton,Dublin 13,q4,80%
+08/07/2016,"39 Offington Manor Apts, Offington Park, Sutton",Dublin,395000.0,No,Sutton,Dublin 13,q2,40%
+15/07/2016,"12 Sutton Downs, Bayside Sutton, Dublin 13",Dublin,460000.0,No,Sutton,Dublin 13,q2,50%
+15/07/2016,"74 Sutton Park, Sutton, Dublin 13",Dublin,620000.0,No,Sutton,Dublin 13,q3,70%
+15/07/2016,"7A Avalon Burrow Rd, Sutton Dublin 13, Dublin 13",Dublin,335000.0,No,Sutton,Dublin 13,q1,30%
+21/07/2016,"Property At Rear Of, 12 Strand Road, Sutton",Dublin,528634.36,Yes,Sutton,Dublin 13,q3,60%
+22/07/2016,"41 St Fintans Crescent, Sutton, Dublin 13",Dublin,760000.0,No,Sutton,Dublin 13,q4,90%
+22/07/2016,"8A Avalon, Burrow Road, Sutton",Dublin,376000.0,No,Sutton,Dublin 13,q2,40%
+27/07/2016,"Grasmere, 19 Greenfield Rd, Sutton Dublin 13",Dublin,1550000.0,No,Sutton,Dublin 13,q4,100%
+02/08/2016,"19 Dargan'S Way, Railway Avenue, Sutton",Dublin,528634.0,Yes,Sutton,Dublin 13,q3,60%
+04/08/2016,"21 Mariners Court, Dublin Rd, Sutton Dublin 13",Dublin,307500.0,No,Sutton,Dublin 13,q1,20%
+11/08/2016,"13 Shielmartin Dr, Sutton, Dublin 13",Dublin,655000.0,No,Sutton,Dublin 13,q3,80%
+17/08/2016,"749 Sarto Park, Sutton, Dublin 13",Dublin,518000.0,No,Sutton,Dublin 13,q3,60%
+02/09/2016,"30 Sutton Park, Sutton, Dublin 13",Dublin,580000.0,No,Sutton,Dublin 13,q3,70%
+09/09/2016,"Ouvane, Greenfield Road, Sutton",Dublin,1200000.0,No,Sutton,Dublin 13,q4,100%
+19/09/2016,"15 Roncalli Rd Sutton, Dublin 13, Dublin",Dublin,570000.0,No,Sutton,Dublin 13,q3,70%
+29/09/2016,"3 St Domhnachs Well, Baldoyle Rd, Sutton Dublin 13",Dublin,327000.0,No,Sutton,Dublin 13,q1,30%
+03/10/2016,"15 Binn Eadair View, Sutton, Dublin",Dublin,455000.0,No,Sutton,Dublin 13,q2,50%
+03/10/2016,"4 Strand Rd, Sutton, Dublin",Dublin,1500000.0,No,Sutton,Dublin 13,q4,100%
+03/10/2016,"Cuala, Greenfield Rd, Sutton Dublin 13",Dublin,414000.0,No,Sutton,Dublin 13,q2,40%
+03/10/2016,"Cuala, Greenfield Rd, Sutton Dublin 13",Dublin,786000.0,No,Sutton,Dublin 13,q4,90%
+04/10/2016,"11 Bayside Square South, Sutton, Dublin 13",Dublin,300000.0,No,Sutton,Dublin 13,q1,20%
+04/10/2016,"37 Beachview, Sutton, Dublin 13",Dublin,385000.0,No,Sutton,Dublin 13,q2,40%
+07/10/2016,"18 St Domhnachs Well, Baldoyle Rd, Sutton Dublin 13",Dublin,380000.0,No,Sutton,Dublin 13,q2,40%
+12/10/2016,"18 B Claremount Rd, Sutton, Dublin 13",Dublin,310000.0,No,Sutton,Dublin 13,q1,20%
+12/10/2016,"23 Offington Park, Sutton, Dublin 13",Dublin,790000.0,No,Sutton,Dublin 13,q4,90%
+14/10/2016,"Shandon, Carrickbrack Rd, Sutton Dublin 13",Dublin,875000.0,No,Sutton,Dublin 13,q4,100%
+19/10/2016,"7 South Hill, Sutton, Dublin 13",Dublin,830000.0,No,Sutton,Dublin 13,q4,90%
+20/10/2016,"17 Sutton Downs, Bayside, Sutton Dublin 13",Dublin,318000.0,No,Sutton,Dublin 13,q1,20%
+24/10/2016,"3A Station Rd, Sutton, Dublin 13",Dublin,665000.0,No,Sutton,Dublin 13,q3,80%
+26/10/2016,"10 Sutton Court, Sutton, Dublin 13",Dublin,242000.0,No,Sutton,Dublin 13,q1,10%
+26/10/2016,"149 Howth Rd, Sutton, Dublin 13",Dublin,1610000.0,No,Sutton,Dublin 13,q4,100%
+26/10/2016,"54 Sutton Park, Sutton, Dublin 13",Dublin,580000.0,No,Sutton,Dublin 13,q3,70%
+02/11/2016,"5 Warren Lodge, Sutton",Dublin,682819.0,Yes,Sutton,Dublin 13,q3,80%
+03/11/2016,"67 Sutton Park, Sutton, Dublin 13",Dublin,536000.0,No,Sutton,Dublin 13,q3,60%
+07/11/2016,"1 Del Val Court, Sutton, Dublin 13",Dublin,400000.0,No,Sutton,Dublin 13,q2,40%
+16/11/2016,"24 Offington Dr, Sutton, Dublin 13",Dublin,755000.0,No,Sutton,Dublin 13,q4,90%
+18/11/2016,"1 Bayside Boulevard South, Sutton, Dublin 13",Dublin,315000.0,No,Sutton,Dublin 13,q1,20%
+18/11/2016,"20 Howth Rd, Sutton, Dublin 13",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+21/11/2016,"1 Dargans Way, Sutton, Dublin 13",Dublin,563877.0,Yes,Sutton,Dublin 13,q3,70%
+25/11/2016,"13 Dargan'S Way, Railway Avenue, Sutton",Dublin,458150.0,Yes,Sutton,Dublin 13,q2,50%
+25/11/2016,"3 La Vista Ave, Sutton Strand, Sutton Dublin 13",Dublin,670000.0,No,Sutton,Dublin 13,q3,80%
+02/12/2016,"74 Verbena Ave, Bayside, Sutton Dublin 13",Dublin,390000.0,No,Sutton,Dublin 13,q2,40%
+05/12/2016,"41 St Fintans Rd, Sutton, Dublin 13",Dublin,650000.0,No,Sutton,Dublin 13,q3,70%
+06/12/2016,"Apt 2 Sutton Castle, Shielmartin Road, Sutton",Dublin,625000.0,No,Sutton,Dublin 13,q3,70%
+07/12/2016,"24 Carrickbrack Heath, Sutton, Dublin",Dublin,650000.0,No,Sutton,Dublin 13,q3,70%
+09/12/2016,"24 St Fintans Crescent, Sutton, Dublin 13",Dublin,627500.0,No,Sutton,Dublin 13,q3,70%
+09/12/2016,"52 Offington Ave, Sutton, Dublin 13",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+15/12/2016,"37 St Domhnachs Well, Sutton, Dublin 13",Dublin,260000.0,No,Sutton,Dublin 13,q1,20%
+16/12/2016,"46 St Fintans Rd, Sutton, Dublin 13",Dublin,665000.0,No,Sutton,Dublin 13,q3,80%
+19/12/2016,"23 Mariners Court, Sutton, Dublin 5",Dublin,301000.0,No,Sutton,Dublin 13,q1,20%
+21/12/2016,"13A Strand Rd, Sutton, Strand Rd Dublin 13",Dublin,877500.0,No,Sutton,Dublin 13,q4,100%
+21/12/2016,"6 Warren Lodge, Sutton",Dublin,674008.0,Yes,Sutton,Dublin 13,q3,80%
+21/12/2016,"Apartment 14, Sutton Castle, Sutton",Dublin,850000.0,Yes,Sutton,Dublin 13,q4,90%
+22/12/2016,"47 The Crescent, Binn Eadair View, Sutton",Dublin,348000.0,No,Sutton,Dublin 13,q2,30%
+06/01/2017,"59 Sutton Park, Sutton, Dublin 13",Dublin,565000.0,No,Sutton,Dublin 13,q3,70%
+11/01/2017,"Apt 7 Radcliffe, Dublin Rd, Sutton Dublin 13",Dublin,370000.0,No,Sutton,Dublin 13,q2,40%
+10/02/2017,"8 Warren Lodge, Sutton, Dublin 13",Dublin,638767.0,Yes,Sutton,Dublin 13,q3,70%
+10/02/2017,"9 Warren Lodge, Sutton, Dublin 13",Dublin,726872.24,Yes,Sutton,Dublin 13,q4,80%
+13/02/2017,"44 Carrickbrack Heath, Sutton, Dublin 13",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+24/02/2017,"57 Bayside Walk, Sutton, Dublin 13",Dublin,405000.0,No,Sutton,Dublin 13,q2,40%
+10/03/2017,"8 Marine Cove, Baldoyle Rd, Sutton Dublin 13",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+15/03/2017,"45 The Crescent, Binn Eadair View, Sutton Dublin 13",Dublin,420000.0,No,Sutton,Dublin 13,q2,40%
+23/03/2017,"188 Sutton Park, Sutton, Dublin 13",Dublin,540000.0,No,Sutton,Dublin 13,q3,60%
+31/03/2017,"64 Corr Castle, Sutton, Dublin 13",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+31/03/2017,"Sunnyside, 13 Station Rd, Sutton Dublin 13",Dublin,1000000.0,No,Sutton,Dublin 13,q4,100%
+07/04/2017,"205 Sutton Park, Sutton, Dublin 13",Dublin,525000.0,No,Sutton,Dublin 13,q3,60%
+07/04/2017,"St Fintans, Strand Rd, Sutton Dublin 13",Dublin,805000.0,No,Sutton,Dublin 13,q4,90%
+12/04/2017,"43 Bayside Boulevard South, Sutton, Dublin 13",Dublin,330000.0,No,Sutton,Dublin 13,q1,30%
+19/04/2017,"39 Offington Lawn, Sutton, Dublin 13",Dublin,730000.0,No,Sutton,Dublin 13,q4,80%
+25/04/2017,"21 Strand Rd, Sutton, Dublin 13",Dublin,330000.0,No,Sutton,Dublin 13,q1,30%
+04/05/2017,"1 Martello Terrace, Strand Rd, Sutton Dublin 13",Dublin,1216000.0,No,Sutton,Dublin 13,q4,100%
+12/05/2017,"14 Alden Park, Sutton, Dublin 13",Dublin,466000.0,No,Sutton,Dublin 13,q2,50%
+19/05/2017,"1 Sli Na Mara, Howth Road, Sutton",Dublin,837004.0,Yes,Sutton,Dublin 13,q4,90%
+26/05/2017,"3 Sli Na Mara, Howth Road, Sutton",Dublin,848458.0,No,Sutton,Dublin 13,q4,90%
+26/05/2017,"8 Offington Park, Sutton, Dublin 13",Dublin,692500.0,No,Sutton,Dublin 13,q3,80%
+29/05/2017,"36 Bayside Walk, Sutton, Dublin 13",Dublin,365000.0,No,Sutton,Dublin 13,q2,40%
+30/05/2017,"8 St Domhnachs Well, Sutton, Dublin 13",Dublin,460000.0,No,Sutton,Dublin 13,q2,50%
+31/05/2017,"12 Verbena Lawn, Sutton, Dublin 13",Dublin,425000.0,No,Sutton,Dublin 13,q2,50%
+31/05/2017,"27 Verbena Ave, Sutton, Dublin 13",Dublin,441000.0,No,Sutton,Dublin 13,q2,50%
+31/05/2017,"7 Carrickbrack Rd, Sutton, Dublin 13",Dublin,2100000.0,No,Sutton,Dublin 13,q4,100%
+31/05/2017,"82 Bayside Crescent, Sutton, Dublin 13",Dublin,355000.0,No,Sutton,Dublin 13,q2,30%
+09/06/2017,"247 Sutton Park, Sutton, Dublin 13",Dublin,520000.0,No,Sutton,Dublin 13,q3,60%
+09/06/2017,"7 Burrow Heath, Station Road, Sutton",Dublin,880000.0,No,Sutton,Dublin 13,q4,100%
+09/06/2017,"8 Sutton Court, Sutton, Dublin 13",Dublin,295000.0,No,Sutton,Dublin 13,q1,20%
+09/06/2017,"Pine Lodge, Sutton Park, Co Dublin",Dublin,730000.0,No,Sutton,Dublin 13,q4,80%
+16/06/2017,"6 Beach View, Del Val Avenue, Sutton",Dublin,360000.0,No,Sutton,Dublin 13,q2,30%
+16/06/2017,"80 Corr Castle, Sutton, Dublin 13",Dublin,292000.0,No,Sutton,Dublin 13,q1,20%
+27/06/2017,"9 Verbena Grove, Bayside, Sutton Dublin 13",Dublin,490000.0,No,Sutton,Dublin 13,q3,60%
+30/06/2017,"11 St Fintans Crescent, Sutton, Dublin 13",Dublin,655000.0,No,Sutton,Dublin 13,q3,80%
+30/06/2017,"47 Bayside Walk, Sutton, Dublin 13",Dublin,525000.0,No,Sutton,Dublin 13,q3,60%
+10/07/2017,"55 Offington Ave, Sutton, Dublin 13",Dublin,800000.0,No,Sutton,Dublin 13,q4,90%
+19/07/2017,"21 Verbena Ave, Sutton, Dublin 13",Dublin,433000.0,No,Sutton,Dublin 13,q2,50%
+19/07/2017,"51 St Fintans Crescent, Sutton, Dublin 13",Dublin,650000.0,No,Sutton,Dublin 13,q3,80%
+20/07/2017,"1A St Fintans Grove, Sutton, Dublin 13",Dublin,615000.0,No,Sutton,Dublin 13,q3,70%
+21/07/2017,"24 Beach View, Sutton, Dublin 13",Dublin,342000.0,No,Sutton,Dublin 13,q1,30%
+27/07/2017,"13 Glencarraig, Sutton, Dublin 13",Dublin,730000.0,No,Sutton,Dublin 13,q4,80%
+28/07/2017,"271 Sutton Park, Sutton, Dublin 13",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+31/07/2017,"14 Rosbeg Court, Sutton, Dublin 13",Dublin,425000.0,No,Sutton,Dublin 13,q2,50%
+31/07/2017,"3 Old Quay, Strand Rd, Sutton Dublin 13",Dublin,835000.0,No,Sutton,Dublin 13,q4,90%
+03/08/2017,"5 St Domhnachs Well, Baldoyle Rd, Sutton Dublin 13",Dublin,500000.0,No,Sutton,Dublin 13,q3,60%
+08/08/2017,"14 Station Rd Cottages, Sutton, Dublin 13",Dublin,540000.0,No,Sutton,Dublin 13,q3,60%
+11/08/2017,"14 Carrickbrack Heath, Sutton, Dublin 13",Dublin,701000.0,No,Sutton,Dublin 13,q4,80%
+11/08/2017,"20A Strand Rd, Sutton, Strand Rd Dublin 13",Dublin,225000.0,No,Sutton,Dublin 13,q1,10%
+16/08/2017,"2 Baldoyle Rd, Sutton, Dublin",Dublin,755000.0,No,Sutton,Dublin 13,q4,90%
+16/08/2017,"39 Bayside, Bovlevarde North, Sutton Dublin 13",Dublin,153541.0,No,Sutton,Dublin 13,q1,10%
+16/08/2017,"44F Strand Rd, Sutton, Strand Rd Dublin 13",Dublin,890000.0,No,Sutton,Dublin 13,q4,100%
+17/08/2017,"319B Sutton Park, Sutton, Dublin 13",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+18/08/2017,"11 Carrickbrack Heath, Sutton, Dublin 13",Dublin,820000.0,No,Sutton,Dublin 13,q4,90%
+18/08/2017,"24 Offington Dr, Sutton, Dublin 13",Dublin,845000.0,No,Sutton,Dublin 13,q4,90%
+21/08/2017,"2 St Fintans Grove, Sutton, Dublin 13",Dublin,675000.0,No,Sutton,Dublin 13,q3,80%
+23/08/2017,"Cooltray Carrickbrack Rd Sutton, Dublin 13, Dublin",Dublin,725000.0,No,Sutton,Dublin 13,q4,80%
+24/08/2017,"31 Tramway Court, Sutton, Dublin 13",Dublin,352000.0,No,Sutton,Dublin 13,q2,30%
+25/08/2017,"38 Howth Rd, Sutton, Dublin",Dublin,670000.0,No,Sutton,Dublin 13,q3,80%
+01/09/2017,"7 Sycamore House, Sutton, Dublin 13",Dublin,355000.0,No,Sutton,Dublin 13,q2,30%
+04/09/2017,"63 Fintans Crescent, Sutton, Dublin 13",Dublin,665000.0,No,Sutton,Dublin 13,q3,80%
+07/09/2017,"25 Offington Court, Sutton, Dublin 13",Dublin,795000.0,No,Sutton,Dublin 13,q4,90%
+08/09/2017,"90 Dublin Rd, Sutton",Dublin,790000.0,No,Sutton,Dublin 13,q4,90%
+14/09/2017,"Apt 13 Sutton Castle, Shielmartin Road, Sutton",Dublin,910000.0,No,Sutton,Dublin 13,q4,100%
+18/09/2017,"2 Martello Terrace, Strand Rd, Sutton Dublin 13",Dublin,390000.0,No,Sutton,Dublin 13,q2,40%
+25/09/2017,"41 Offington Manor, Sutton, Dublin",Dublin,995000.0,No,Sutton,Dublin 13,q4,100%
+27/09/2017,"90 Bayside Crescent, Sutton, Dublin 13",Dublin,340000.0,No,Sutton,Dublin 13,q1,30%
+02/10/2017,"2 Beachfield House, Strand Rd, Sutton Dublin 13",Dublin,1175000.0,No,Sutton,Dublin 13,q4,100%
+05/10/2017,"Rockgrange, 156 Dublin Rd, Sutton Dublin 13",Dublin,999000.0,No,Sutton,Dublin 13,q4,100%
+11/10/2017,"95 Sutton Grove, Sutton, Dublin 13",Dublin,385000.0,No,Sutton,Dublin 13,q2,40%
+13/10/2017,"8 Burrowfield Rd, Sutton, Dublin",Dublin,617500.0,No,Sutton,Dublin 13,q3,70%
+16/10/2017,"6 Del Val Ct, Sutton, Dublin 13",Dublin,466000.0,No,Sutton,Dublin 13,q2,50%
+17/10/2017,"58 Offington Lawn, Sutton, Dublin 13",Dublin,800000.0,No,Sutton,Dublin 13,q4,90%
+31/10/2017,"5 Santa Sabina Manor, Sutton, Dublin 13",Dublin,1010000.0,No,Sutton,Dublin 13,q4,100%
+02/11/2017,"30 Bayside Sq South, Bayside, Sutton Dublin 13",Dublin,432000.0,No,Sutton,Dublin 13,q2,50%
+02/11/2017,"Apt 2 Sutton Castle, Shielmartin Road, Sutton",Dublin,655000.0,No,Sutton,Dublin 13,q3,80%
+22/11/2017,"Apt 4 Sutton Castle, Shielmartin Road, Sutton",Dublin,695000.0,No,Sutton,Dublin 13,q4,80%
+28/11/2017,"257A Sutton Park, Sutton, Dublin 13",Dublin,575000.0,No,Sutton,Dublin 13,q3,70%
+01/12/2017,"Glenthorn, 1 Carrickbrack Rd, Sutton Dublin 13",Dublin,1000000.0,No,Sutton,Dublin 13,q4,100%
+05/12/2017,"98 Bayside Boulevard North, Sutton, Dublin 13",Dublin,470000.0,No,Sutton,Dublin 13,q2,50%
+14/12/2017,"52 Carrickbrack Hill, Sutton, Dublin 13",Dublin,725000.0,No,Sutton,Dublin 13,q4,80%
+21/12/2017,"3 Verbena Grove, Sutton, Dublin 13",Dublin,490000.0,No,Sutton,Dublin 13,q3,60%
+05/01/2018,"Apt 12 Sutton Castle, Shielmartin Road, Sutton",Dublin,640000.0,No,Sutton,Dublin 13,q3,70%
+19/01/2018,"25 Beach View, Sutton, Dublin 15",Dublin,415000.0,No,Sutton,Dublin 13,q2,40%
+19/01/2018,"30 Bayside Boulevard North, Sutton, Dublin 13",Dublin,325000.0,No,Sutton,Dublin 13,q1,30%
+30/01/2018,"173 Howth Road, Sutton, Dublin 13",Dublin,680000.0,No,Sutton,Dublin 13,q3,80%
+02/02/2018,"Dargent, 25A Binn Eadair View, Sutton",Dublin,352000.0,No,Sutton,Dublin 13,q2,30%
+08/02/2018,"Glencoe, 56 Dublin Rd, Sutton Dublin 13",Dublin,1020000.0,No,Sutton,Dublin 13,q4,100%
+14/02/2018,"35 Offington Dr, Sutton, Dublin 13",Dublin,825000.0,No,Sutton,Dublin 13,q4,90%
+15/02/2018,"14 St Domhnachs Well, Sutton, Dublin 13",Dublin,385000.0,No,Sutton,Dublin 13,q2,40%
+20/02/2018,"Rockfield, 23 Howth Rd, Sutton Dublin 13",Dublin,750000.0,No,Sutton,Dublin 13,q4,90%
+21/02/2018,"152 Howth Road, Sutton, Dublin 13",Dublin,925110.0,Yes,Sutton,Dublin 13,q4,100%
+23/02/2018,"47A Glencarraig, Sutton, Dublin 13",Dublin,720000.0,No,Sutton,Dublin 13,q4,80%
+23/02/2018,"98 Dublin Rd, Sutton",Dublin,775500.0,No,Sutton,Dublin 13,q4,90%
+27/02/2018,"12 Old Quay Terrace, Strand Rd, Sutton Dublin 13",Dublin,570000.0,No,Sutton,Dublin 13,q3,70%
+28/02/2018,"36 The Crescent, Binn Eadair View, Sutton Dublin 13",Dublin,442000.0,No,Sutton,Dublin 13,q2,50%
+28/02/2018,"4 Glencarrig, Church Rd, Sutton Dublin 13",Dublin,775000.0,No,Sutton,Dublin 13,q4,90%
+28/02/2018,"5A La Vista Avenue, Sutton",Dublin,910000.0,Yes,Sutton,Dublin 13,q4,100%
+06/03/2018,"336 Sutton Park, Sutton, Dublin 13",Dublin,570000.0,No,Sutton,Dublin 13,q3,70%
+08/03/2018,"22 Bayside Sq East, Bayside, Sutton",Dublin,485000.0,No,Sutton,Dublin 13,q3,60%
+16/03/2018,"19 Bayside Boulevard North, Sutton, Dublin 13",Dublin,329000.0,No,Sutton,Dublin 13,q1,30%
+16/03/2018,"Southward, 22 Greenfield Rd, Sutton Dublin 13",Dublin,1600000.0,No,Sutton,Dublin 13,q4,100%
+13/04/2018,"9 Bayside Boulevard South, Sutton, Dublin 13",Dublin,320000.0,No,Sutton,Dublin 13,q1,20%
+04/05/2018,"12 Tramway Court, Sutton, Dublin 13",Dublin,450000.0,No,Sutton,Dublin 13,q2,50%
+05/05/2018,"Apt 3 Sycamore House, Park View, Sutton Dublin 13",Dublin,400000.0,No,Sutton,Dublin 13,q2,40%
+17/05/2018,"21 Church Road, Sutton, Dublin 13",Dublin,431000.0,No,Sutton,Dublin 13,q2,50%
+18/05/2018,"Apt 15 Sutton Castle, Shielmartin Road, Sutton",Dublin,950000.0,No,Sutton,Dublin 13,q4,100%
+13/06/2018,"Bouley, Station Rd, Sutton Dublin 13",Dublin,840000.0,No,Sutton,Dublin 13,q4,90%
+18/06/2018,"256 Sutton Park, Sutton, Dublin 13",Dublin,500000.0,No,Sutton,Dublin 13,q3,60%
+29/06/2018,"24 Glencarrig Rd, Sutton, Dublin 13",Dublin,817500.0,No,Sutton,Dublin 13,q4,90%
+29/06/2018,"Breffni, Burrow Rd, Sutton Dublin 13",Dublin,1250000.0,No,Sutton,Dublin 13,q4,100%
+20/07/2018,"Apt 7 Sutton Castle, Shielmartin Road, Sutton",Dublin,1200000.0,No,Sutton,Dublin 13,q4,100%
+24/07/2018,"25 Offington Park, Sutton, Dublin",Dublin,1200000.0,No,Sutton,Dublin 13,q4,100%
+25/07/2018,"20A Binn Eadair View, Sutton, Dublin 13",Dublin,500000.0,No,Sutton,Dublin 13,q3,60%
+31/07/2018,"28 Bayside Sq East, Sutton, Dublin 13",Dublin,482000.0,No,Sutton,Dublin 13,q3,60%
+03/08/2018,"13 St Fintans Park, Sutton, Dublin 13",Dublin,765000.0,No,Sutton,Dublin 13,q4,90%
+03/08/2018,"70 Bayside Boulevard North, Bayside, Sutton Dublin 13",Dublin,387000.0,No,Sutton,Dublin 13,q2,40%
+03/08/2018,"8 Santa Sabina Manor, Greenfield Rd, Sutton",Dublin,1075000.0,No,Sutton,Dublin 13,q4,100%
+15/08/2018,"9 Sutton Castle, Shielmartin Rd, Sutton Dublin 13",Dublin,825000.0,No,Sutton,Dublin 13,q4,90%
+22/08/2018,"11 Carrickbrack Lawn, Sutton, Dublin 13",Dublin,665000.0,No,Sutton,Dublin 13,q3,80%
+24/08/2018,"39 Verbena Lawn, Sutton, Dublin 13",Dublin,417000.0,No,Sutton,Dublin 13,q2,40%
+27/08/2018,"36A Binn Eadair View, Sutton, Dublin",Dublin,420000.0,No,Sutton,Dublin 13,q2,40%
+04/09/2018,"37 Sutton Downs, Bayside, Sutton",Dublin,465000.0,No,Sutton,Dublin 13,q2,50%
+05/09/2018,"2 Sutton Court, Sutton, Dublin 13",Dublin,300000.0,No,Sutton,Dublin 13,q1,20%
+07/09/2018,"45 Binn Eadair View, Sutton, Dublin 13",Dublin,355000.0,No,Sutton,Dublin 13,q2,30%
+07/09/2018,"6 Offington Park, Sutton, Dublin 13",Dublin,960000.0,No,Sutton,Dublin 13,q4,100%
+07/09/2018,"801 Sarto Park, Bayside, Sutton Dublin 13",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+10/09/2018,"37 Offington Ave, Sutton, Dublin 13",Dublin,790000.0,No,Sutton,Dublin 13,q4,90%
+13/09/2018,"22 Sutton Downs, Bayside, Sutton Dublin 13",Dublin,515000.0,No,Sutton,Dublin 13,q3,60%
+17/09/2018,"15 St Domhnachs Well, Sutton, Dublin 13",Dublin,355000.0,No,Sutton,Dublin 13,q2,30%
+17/09/2018,"81 Corrcastle, Howth Rd, Sutton",Dublin,335000.0,No,Sutton,Dublin 13,q1,30%
+19/09/2018,"4 St Catherines Terrace, Sutton Cross, Dublin 13",Dublin,470000.0,No,Sutton,Dublin 13,q2,50%
+19/09/2018,"51 Sutton Downs, Sutton, Dublin 13",Dublin,480000.0,No,Sutton,Dublin 13,q2,50%
+21/09/2018,"16 Verbena Park, Sutton, Dublin 13",Dublin,240000.0,No,Sutton,Dublin 13,q1,10%
+21/09/2018,"28 Carrickbrack Hill, Sutton, Dublin",Dublin,760000.0,No,Sutton,Dublin 13,q4,90%
+23/09/2018,"Lecmara, 79 Dublin Rd, Sutton Dublin 13",Dublin,750000.0,No,Sutton,Dublin 13,q4,90%
+25/09/2018,"3 Beach View, Del Val Ave, Sutton",Dublin,426655.0,No,Sutton,Dublin 13,q2,50%
+26/09/2018,"6 Bayside Sq, Sutton, Dublin 13",Dublin,370000.0,No,Sutton,Dublin 13,q2,40%
+28/09/2018,"40 Howth Rd, Sutton, Dublin 13",Dublin,960000.0,No,Sutton,Dublin 13,q4,100%
+01/10/2018,"1A Station Rd, Sutton, Station Rd Dublin 13",Dublin,547000.0,No,Sutton,Dublin 13,q3,60%
+04/10/2018,"8A Avalon, Burrow Road, Sutton",Dublin,410000.0,No,Sutton,Dublin 13,q2,40%
+05/10/2018,"13 The Crescent, Binn Eadair View, Sutton Dublin 13",Dublin,435000.0,No,Sutton,Dublin 13,q2,50%
+05/10/2018,"15A The Beeches, Strand Rd, Sutton Dublin 13",Dublin,2000000.0,No,Sutton,Dublin 13,q4,100%
+05/10/2018,"27 Glencarraig, Sutton, Dublin 13",Dublin,740000.0,No,Sutton,Dublin 13,q4,90%
+08/10/2018,"154 Howth Rd, Sutton, Dublin 13",Dublin,1100000.0,No,Sutton,Dublin 13,q4,100%
+10/10/2018,"Lenco, 159 Dublin Rd, Sutton",Dublin,888000.0,No,Sutton,Dublin 13,q4,100%
+12/10/2018,"71 Glencarraig, Sutton, Dublin 13",Dublin,750000.0,No,Sutton,Dublin 13,q4,90%
+15/10/2018,"3 Tramway Court, Sutton, Dublin 13",Dublin,460000.0,No,Sutton,Dublin 13,q2,50%
+19/10/2018,"Thalassa, 156 Howth Road, Sutton",Dublin,1150000.0,No,Sutton,Dublin 13,q4,100%
+24/10/2018,"14 Verbena Lawn, Sutton, Dublin 13",Dublin,495000.0,No,Sutton,Dublin 13,q3,60%
+06/11/2018,"33 The Crescent, Binn Aidir View, Sutton",Dublin,445000.0,No,Sutton,Dublin 13,q2,50%
+13/11/2018,"5B La Vista Avenue, Sutton, Dublin 13",Dublin,784140.97,Yes,Sutton,Dublin 13,q4,90%
+14/11/2018,"16 Greenfield Rd, Sutton, Dublin 13",Dublin,1575000.0,No,Sutton,Dublin 13,q4,100%
+16/11/2018,"31 Burrowfield Rd, Sutton, Dublin",Dublin,190000.0,No,Sutton,Dublin 13,q1,10%
+16/11/2018,"53 St Fintans Rd, Sutton, Dublin 13",Dublin,765000.0,No,Sutton,Dublin 13,q4,90%
+20/11/2018,"37 Offington Lawn, Sutton, Dublin",Dublin,1060000.0,No,Sutton,Dublin 13,q4,100%
+23/11/2018,"33 Alden Dr, Sutton, Dublin 13",Dublin,475000.0,No,Sutton,Dublin 13,q2,50%
+23/11/2018,"76 Verbena Ave, Sutton, Dublin 13",Dublin,422500.0,No,Sutton,Dublin 13,q2,50%
+27/11/2018,"Goodwood, Claremont Rd, Sutton Dublin 13",Dublin,915000.0,No,Sutton,Dublin 13,q4,100%
+18/12/2018,"14 Dublin Rd, Sutton, 'Dublin Rd  Dublin 13'",Dublin,650000.0,No,Sutton,Dublin 13,q3,80%
+19/12/2018,"12 Carrickbrack Heath, Sutton, Dublin 13",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+19/12/2018,"13 Del Val Court, Sutton, Dublin 13",Dublin,428000.0,No,Sutton,Dublin 13,q2,50%
+20/12/2018,"7 Sutton Lawns, Sutton, Dublin 13",Dublin,550000.0,No,Sutton,Dublin 13,q3,60%
+09/01/2019,"22 Offington Avenue, Sutton, Dublin 13",Dublin,745000.0,No,Sutton,Dublin 13,q4,90%
+11/01/2019,"62 Sutton Park, Sutton, Dublin 13",Dublin,676000.0,No,Sutton,Dublin 13,q3,80%
+24/01/2019,"12 Burrowfield Rd, Sutton, Dublin 13",Dublin,655000.0,No,Sutton,Dublin 13,q3,80%
+31/01/2019,"53 Verbena Lawn, Sutton, Dublin 13",Dublin,405000.0,No,Sutton,Dublin 13,q2,40%
+01/02/2019,"6 Carrickbrack Heath, Sutton, Dublin 13",Dublin,750000.0,No,Sutton,Dublin 13,q4,90%
+08/02/2019,"14 Carrickbrack Heath, Sutton, Dublin 13",Dublin,825000.0,No,Sutton,Dublin 13,q4,90%
+14/02/2019,"12 Radcliffe Apts, Dublin Rd, Sutton Dublin 13",Dublin,383000.0,No,Sutton,Dublin 13,q2,40%
+01/03/2019,"24 Tramway Court, Station Rd, Sutton Dublin 13",Dublin,357000.0,No,Sutton,Dublin 13,q2,30%
+04/03/2019,"Alta, St Fintans Rd, Sutton Dublin 13",Dublin,1650000.0,No,Sutton,Dublin 13,q4,100%
+05/03/2019,"116 Sutton Park, Sutton, Co Dublin",Dublin,561000.0,No,Sutton,Dublin 13,q3,70%
+05/03/2019,"44 Bayside Walk, Sutton, Dublin 13",Dublin,425000.0,No,Sutton,Dublin 13,q2,50%
+14/03/2019,"807 Sarto Park, Bayside, Sutton Dublin 13",Dublin,570000.0,No,Sutton,Dublin 13,q3,70%
+19/03/2019,"41 Bayside Sq West, Sutton, Dublin 13",Dublin,450000.0,No,Sutton,Dublin 13,q2,50%
+19/03/2019,"66 Bayside Boulevard North, Sutton, Dublin 13",Dublin,365000.0,No,Sutton,Dublin 13,q2,40%
+26/03/2019,"91 Sutton Grove, Sutton, Dublin 13",Dublin,341000.0,No,Sutton,Dublin 13,q1,30%
+27/03/2019,"9 Bayside Boulevard, Sutton, Dublin 13",Dublin,395000.0,No,Sutton,Dublin 13,q2,40%
+29/03/2019,"Woodlands, 78 Dublin Road, Sutton",Dublin,750000.0,No,Sutton,Dublin 13,q4,90%
+02/04/2019,"3 Railway Ave, Baldoyle Rd, Sutton Dublin 13",Dublin,465000.0,No,Sutton,Dublin 13,q2,50%
+05/04/2019,"40 Carrickbrack Heath, Sutton, Dublin",Dublin,726000.0,No,Sutton,Dublin 13,q4,80%
+10/04/2019,"6 Bayside Crescent, Sutton, Dublin 13",Dublin,320000.0,No,Sutton,Dublin 13,q1,20%
+16/04/2019,"71 Bayside Walk, Sutton, Dublin 13",Dublin,442000.0,No,Sutton,Dublin 13,q2,50%
+24/04/2019,"12 Glencarraig, Sutton, Dublin 13",Dublin,880000.0,No,Sutton,Dublin 13,q4,100%
+25/04/2019,"43 Bayside Sq East, Sutton, Dublin 13",Dublin,380000.0,No,Sutton,Dublin 13,q2,40%
+26/04/2019,"St Philomenas, 16 Howth Road, Sutton",Dublin,530000.0,No,Sutton,Dublin 13,q3,60%
+01/05/2019,"30 The Crescent, Binn Eadair View, Sutton Dublin 13",Dublin,485000.0,No,Sutton,Dublin 13,q3,60%
+03/05/2019,"18 Beach View, Del Val Ave, Sutton Dublin 13",Dublin,385000.0,No,Sutton,Dublin 13,q2,40%
+08/05/2019,"30 Carrick Brack Heath, Sutton, Dublin 13",Dublin,850000.0,No,Sutton,Dublin 13,q4,90%
+08/05/2019,"Tara, Strand Rd, Sutton Dublin 13",Dublin,850000.0,No,Sutton,Dublin 13,q4,90%
+10/05/2019,"289A Sutton Park, Sutton, Dublin 13",Dublin,500000.0,No,Sutton,Dublin 13,q3,60%
+14/05/2019,"Ouvane, 11 Greenfield Road, Sutton",Dublin,1453745.0,Yes,Sutton,Dublin 13,q4,100%
+15/05/2019,"60 Verbena Ave, Bayside, Sutton Dublin 13",Dublin,388000.0,No,Sutton,Dublin 13,q2,40%
+24/05/2019,"25 Binn Eadair View, Sutton, Dublin",Dublin,435000.0,No,Sutton,Dublin 13,q2,50%
+24/05/2019,"64 Bayside Crescent, Sutton, Dublin 13",Dublin,335000.0,No,Sutton,Dublin 13,q1,30%
+24/05/2019,"7 Bayside Walk, Sutton, Dublin 13",Dublin,412000.0,No,Sutton,Dublin 13,q2,40%
+24/05/2019,"Las Rocas, St Fintans Rd, Sutton Dublin 13",Dublin,2000000.0,No,Sutton,Dublin 13,q4,100%
+27/05/2019,"53A Binn Eadair View, Sutton, Dublin",Dublin,470000.0,No,Sutton,Dublin 13,q2,50%
+04/06/2019,"3 Verbena Lawn, Bayside, Sutton Dublin 13",Dublin,630000.0,No,Sutton,Dublin 13,q3,70%
+10/06/2019,"1 Radcliffe Apt, Dublin Rd, Sutton Dublin 13",Dublin,195000.0,No,Sutton,Dublin 13,q1,10%
+19/06/2019,"11B Greenfield Road, Sutton",Dublin,1101322.0,Yes,Sutton,Dublin 13,q4,100%
+27/06/2019,"59 Offington Park, Sutton, Dublin 13",Dublin,750000.0,No,Sutton,Dublin 13,q4,90%
+28/06/2019,"191 Sutton Park, Sutton, Dublin",Dublin,571599.0,Yes,Sutton,Dublin 13,q3,70%
+01/07/2019,"24 Binn Eadair View, Sutton, Dublin 13",Dublin,380000.0,No,Sutton,Dublin 13,q2,40%
+04/07/2019,"2 Cluain Aedin, Sutton, Dublin 13",Dublin,1321586.0,Yes,Sutton,Dublin 13,q4,100%
+05/07/2019,"14A Station Rd, Sutton, Station Rd Dublin 13",Dublin,865000.0,No,Sutton,Dublin 13,q4,90%
+09/07/2019,"35 St Fintans Crescent, Sutton, Dublin 13",Dublin,695500.0,No,Sutton,Dublin 13,q4,80%
+10/07/2019,"11 Del Van Ave, Sutton, Dublin 13",Dublin,565000.0,No,Sutton,Dublin 13,q3,70%
+12/07/2019,"17 Bayside Boulevard North, Sutton, Dublin 13",Dublin,350000.0,No,Sutton,Dublin 13,q2,30%
+12/07/2019,"2 Bayside Sq East, Sutton, Dublin 13",Dublin,376500.0,No,Sutton,Dublin 13,q2,40%
+12/07/2019,"29 Sutton Lawns, Sutton, Dublin 13",Dublin,590000.0,No,Sutton,Dublin 13,q3,70%
+17/07/2019,"15 Dargan'S Way, Railway Avenue, Sutton",Dublin,640000.0,No,Sutton,Dublin 13,q3,70%
+26/07/2019,"14 Duncarraig, Sutton, Dublin 13",Dublin,850000.0,No,Sutton,Dublin 13,q4,90%
+30/07/2019,"5 Duncarraig, Sutton, Dublin 13",Dublin,800000.0,No,Sutton,Dublin 13,q4,90%
+30/07/2019,"Shoreline 11A, Greenfield Road, Sutton",Dublin,1242290.0,Yes,Sutton,Dublin 13,q4,100%
+09/08/2019,"22 Mariners Court, Sutton, Dublin 13",Dublin,360000.0,No,Sutton,Dublin 13,q2,30%
+12/08/2019,"21 Rosbeg Court, Dublin Rd, Sutton Dublin 13",Dublin,380000.0,No,Sutton,Dublin 13,q2,40%
+13/08/2019,"130 Sutton Park, Sutton, Dublin 13",Dublin,580000.0,No,Sutton,Dublin 13,q3,70%
+15/08/2019,"33 Bayside Park, Sutton, Dublin",Dublin,335000.0,No,Sutton,Dublin 13,q1,30%
+23/08/2019,"3 Offington Park, Sutton, Dublin 13",Dublin,760000.0,No,Sutton,Dublin 13,q4,90%
+23/08/2019,"32 Bayside Sq North, Bayside, Sutton Dublin 13",Dublin,312500.0,No,Sutton,Dublin 13,q1,20%
+29/08/2019,"36 Binn Eadair View, Sutton, Dublin 13",Dublin,395000.0,No,Sutton,Dublin 13,q2,40%
+04/09/2019,"18 Offington Park, Sutton, Dublin 13",Dublin,865000.0,No,Sutton,Dublin 13,q4,90%
+05/09/2019,"11 Binn Eadair Court, Sutton, Dublin 13",Dublin,600000.0,No,Sutton,Dublin 13,q3,70%
+06/09/2019,"42 Strand Rd, Sutton, Dublin 13",Dublin,908500.0,No,Sutton,Dublin 13,q4,100%
+06/09/2019,"45 Sutton Park, Sutton, Dublin 13",Dublin,680000.0,No,Sutton,Dublin 13,q3,80%
+06/09/2019,"64 Offington Ave, Sutton, Dublin 13",Dublin,670000.0,No,Sutton,Dublin 13,q3,80%
+19/09/2019,"51 Bayside Walk, Sutton, Dublin 13",Dublin,405000.0,No,Sutton,Dublin 13,q2,40%
+19/09/2019,"Auburn Lodge, Sutton Park, Dublin 13",Dublin,530000.0,No,Sutton,Dublin 13,q3,60%
+20/09/2019,"39A St Domhnachs Well, Sutton, Dublin 13",Dublin,657000.0,No,Sutton,Dublin 13,q3,80%
+24/09/2019,"4A Avalon Court, Burrow Road, Sutton",Dublin,395000.0,No,Sutton,Dublin 13,q2,40%
+03/10/2019,"41 Offington Dr, Sutton, Dublin 13",Dublin,860000.0,No,Sutton,Dublin 13,q4,90%
+04/10/2019,"13 Shielmartin Road, Sutton, Dublin 13",Dublin,720000.0,No,Sutton,Dublin 13,q4,80%
+07/10/2019,"36 Carrickbrack Hill, Sutton, Dublin",Dublin,780000.0,No,Sutton,Dublin 13,q4,90%
+09/10/2019,"913 Sarto Lawn, Bayside, Sutton Dublin 13",Dublin,420000.0,No,Sutton,Dublin 13,q2,40%
+11/10/2019,"101 Bayside Walk, Sutton, Dublin 13",Dublin,465000.0,No,Sutton,Dublin 13,q2,50%
+22/10/2019,"46A Howth Rd, Sutton, Dublin",Dublin,630000.0,No,Sutton,Dublin 13,q3,70%

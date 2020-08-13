@@ -1,0 +1,857 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+04/01/2010,"12 Sallymount Avenue, Ranelagh",Dublin,425000.0,No,Ranelagh,Dublin 6,q2,30%
+08/01/2010,"75 Lower Beechwood Avenue, Ranelagh",Dublin,820000.0,No,Ranelagh,Dublin 6,q3,70%
+11/01/2010,"17 Annesley Park, Ranelagh, Dublin 6",Dublin,930000.0,No,Ranelagh,Dublin 6,q4,80%
+20/01/2010,"Apartment 5, 32 Mount Pleasant Square, Ranelagh",Dublin,200000.0,No,Ranelagh,Dublin 6,q1,10%
+26/01/2010,"27 Killeen Road, Ranelagh, Dublin 6",Dublin,832500.0,No,Ranelagh,Dublin 6,q3,80%
+02/02/2010,"1 Ashfield Road, Ranelagh, Dublin 6",Dublin,646000.0,No,Ranelagh,Dublin 6,q3,60%
+17/02/2010,"2 Bannaville, Ranelagh, Dublin 6",Dublin,470000.0,No,Ranelagh,Dublin 6,q2,40%
+23/02/2010,"76 Sandford Road, Ranelagh",Dublin,1040000.0,No,Ranelagh,Dublin 6,q4,90%
+02/03/2010,"51 Lower Mount Pleasant Avenue, Ranelagh",Dublin,640000.0,No,Ranelagh,Dublin 6,q3,60%
+03/03/2010,"7 Lower Cherryfield Avenue, Ranelagh, Dublin 6",Dublin,550000.0,No,Ranelagh,Dublin 6,q2,50%
+16/03/2010,"8 Annavilla, Ranelagh",Dublin,360000.0,No,Ranelagh,Dublin 6,q1,30%
+18/03/2010,"33 Elm Park Avenue, Ranelagh, Dublin 6",Dublin,517000.0,No,Ranelagh,Dublin 6,q2,40%
+23/03/2010,"61 Sandford Road, Ranelagh, Dublin 6",Dublin,910000.0,No,Ranelagh,Dublin 6,q3,80%
+23/03/2010,"92 Sandford Road, Ranelagh",Dublin,730000.0,No,Ranelagh,Dublin 6,q3,70%
+30/03/2010,"25A Ranelagh, Dublin",Dublin,142500.0,No,Ranelagh,Dublin 6,q1,10%
+23/04/2010,"16 Leeson Park Avenue, Ranelagh, Dublin",Dublin,980000.0,No,Ranelagh,Dublin 6,q4,90%
+25/05/2010,"45 Merton Drive, Ranelagh, Dublin 6",Dublin,665000.0,No,Ranelagh,Dublin 6,q3,60%
+26/05/2010,"20A Beechwood Avenue, Ranelagh",Dublin,920000.0,No,Ranelagh,Dublin 6,q4,80%
+28/05/2010,"12 Rugby Road, Ranelagh, Dublin",Dublin,470000.0,No,Ranelagh,Dublin 6,q2,40%
+28/05/2010,"4 Ashfield Avenue, Ranelagh, Dublin 6",Dublin,500000.0,No,Ranelagh,Dublin 6,q2,40%
+03/06/2010,"3 Cullinswood, The Triangle, Ranelagh",Dublin,292000.0,No,Ranelagh,Dublin 6,q1,20%
+04/06/2010,"No. 3 Crosbie House, Northbrook Road, Ranelagh",Dublin,175000.0,No,Ranelagh,Dublin 6,q1,10%
+09/06/2010,"50 Lower Mount Pleasant Avenue, Ranelagh, Dublin 6",Dublin,400000.0,No,Ranelagh,Dublin 6,q2,30%
+10/06/2010,"29 Beechwood Park, Ranelagh, Dublin 6",Dublin,650000.0,No,Ranelagh,Dublin 6,q3,60%
+11/06/2010,"25 Rugby Road, Ranelagh",Dublin,350000.0,No,Ranelagh,Dublin 6,q1,20%
+16/06/2010,"7 Ashfield Avenue, Ranelagh",Dublin,517000.0,No,Ranelagh,Dublin 6,q2,40%
+08/07/2010,"13 Mount Pleasant Parade, Ranelagh",Dublin,640000.0,No,Ranelagh,Dublin 6,q3,60%
+15/07/2010,"2 Garden View, Mount Pleasant Terrace, Ranelagh",Dublin,295000.0,No,Ranelagh,Dublin 6,q1,20%
+16/07/2010,"73 Northbrook Ave, Ranelagh, Dublin 6",Dublin,502500.0,No,Ranelagh,Dublin 6,q2,40%
+29/07/2010,"51 Dartmouth Square, Ranelagh",Dublin,1175000.0,No,Ranelagh,Dublin 6,q4,90%
+30/07/2010,"6 Woodstock Gardens, Ranelagh, Dublin 6",Dublin,930000.0,No,Ranelagh,Dublin 6,q4,80%
+03/08/2010,"20 Ashfield Road, Ranelagh",Dublin,860000.0,No,Ranelagh,Dublin 6,q3,80%
+06/08/2010,"28 Albany Road, Ranelagh, Dublin 6",Dublin,1460000.0,No,Ranelagh,Dublin 6,q4,100%
+20/08/2010,"19 Sandford Road, Ranelagh, Dublin",Dublin,975000.0,No,Ranelagh,Dublin 6,q4,90%
+30/08/2010,"17 Norwood Park, Sandford Road, Ranelagh",Dublin,535000.0,No,Ranelagh,Dublin 6,q2,50%
+07/09/2010,"29 Albany Road, Ranelagh",Dublin,900000.0,No,Ranelagh,Dublin 6,q3,80%
+09/09/2010,"22 Hollybank Avenue Lower, Ranelagh",Dublin,540000.0,No,Ranelagh,Dublin 6,q2,50%
+10/09/2010,"13 Sallymount Avenue, Ranelagh, Dublin 6",Dublin,520000.0,No,Ranelagh,Dublin 6,q2,40%
+14/09/2010,"23  Albany Road, Ranelagh",Dublin,850000.0,No,Ranelagh,Dublin 6,q3,80%
+14/09/2010,"37 Cherryfield Avenue Lower, Ranelagh, Dublin 6",Dublin,627500.0,No,Ranelagh,Dublin 6,q3,60%
+17/09/2010,"Apartment 27 Block E, Oakley Court, Oakley Road Ranelagh",Dublin,200000.0,No,Ranelagh,Dublin 6,q1,10%
+23/09/2010,"20 Upper Beechwood Avenue, Ranelagh, Dublin 6",Dublin,655000.0,No,Ranelagh,Dublin 6,q3,60%
+30/09/2010,"1 Mount Pleasant Villas, Ranelagh",Dublin,246000.0,No,Ranelagh,Dublin 6,q1,20%
+01/10/2010,"54 Lower Hollybank Avenue, Ranelagh",Dublin,500000.0,No,Ranelagh,Dublin 6,q2,40%
+07/10/2010,"19 Mount Pleasant Squareq, Ranelagh",Dublin,1250000.0,No,Ranelagh,Dublin 6,q4,100%
+21/10/2010,"34 Anna Villa, Ranelagh, Dublin",Dublin,650000.0,No,Ranelagh,Dublin 6,q3,60%
+26/10/2010,"12 Norwood Park, Ranelagh",Dublin,653000.0,No,Ranelagh,Dublin 6,q3,60%
+11/11/2010,"4 Chelmsford Avenue, Ranelagh",Dublin,475000.0,No,Ranelagh,Dublin 6,q2,40%
+15/11/2010,"21 Upper Mount Pleasant Avenue, Ranelagh",Dublin,605000.0,No,Ranelagh,Dublin 6,q2,50%
+30/11/2010,"33 Annavilla, Ranelagh",Dublin,605000.0,No,Ranelagh,Dublin 6,q2,50%
+08/12/2010,"23 Park Drive, Ranelagh",Dublin,1721500.0,No,Ranelagh,Dublin 6,q4,100%
+08/12/2010,"3 Merton Drive, Ranelagh",Dublin,692750.0,No,Ranelagh,Dublin 6,q3,60%
+21/12/2010,"12 Sallymount Avenue, Ranelagh",Dublin,545000.0,No,Ranelagh,Dublin 6,q2,50%
+22/12/2010,"11 Northbrook Avenue, Ranelagh",Dublin,520000.0,No,Ranelagh,Dublin 6,q2,40%
+23/12/2010,"36 Mountplesant Terrace, Ranelagh",Dublin,180000.0,No,Ranelagh,Dublin 6,q1,10%
+27/01/2011,"26 Chelmsford Road, Ranelagh, Dublin 6",Dublin,663000.0,No,Ranelagh,Dublin 6,q3,60%
+27/01/2011,"4 Bannavilla, Ranelagh",Dublin,353225.0,No,Ranelagh,Dublin 6,q1,30%
+03/02/2011,"20 Mount Pleasant Terrace, Ranelagh",Dublin,405000.0,No,Ranelagh,Dublin 6,q2,30%
+28/02/2011,"2 Sandford Square, Merton Drive, Ranelagh",Dublin,1233480.0,Yes,Ranelagh,Dublin 6,q4,90%
+02/03/2011,"3 Warwick Terrace, Ranelagh, Dublin 6",Dublin,1115000.0,No,Ranelagh,Dublin 6,q4,90%
+03/03/2011,"9 Edenvale Road, Ranelagh, Dublin",Dublin,557500.0,No,Ranelagh,Dublin 6,q2,50%
+31/03/2011,"16 Merton Drive, Ranelagh, Dublin 6",Dublin,665000.0,No,Ranelagh,Dublin 6,q3,60%
+31/03/2011,"30 Mount Pleasand Terrace, Ranelagh",Dublin,339600.0,No,Ranelagh,Dublin 6,q1,20%
+14/04/2011,"25 Merton Drive, Ranelagh, Dublin 6",Dublin,545000.0,No,Ranelagh,Dublin 6,q2,50%
+27/04/2011,"5 Sandford Square, Merton Drive, Ranelagh",Dublin,1189427.0,Yes,Ranelagh,Dublin 6,q4,90%
+05/05/2011,"3 Sandford Square, Merton Drive, Ranelagh",Dublin,925110.0,Yes,Ranelagh,Dublin 6,q4,80%
+06/05/2011,"4 Sandford Square, Merton Drive, Ranelagh",Dublin,925110.0,Yes,Ranelagh,Dublin 6,q4,80%
+12/05/2011,"20 Merton Drive, Ranelagh",Dublin,645000.0,No,Ranelagh,Dublin 6,q3,60%
+27/05/2011,"64 Dartmouth Square, Ranelagh",Dublin,1200000.0,No,Ranelagh,Dublin 6,q4,90%
+17/06/2011,"16 Lower Beechwood Avenue, Ranelagh",Dublin,700000.0,No,Ranelagh,Dublin 6,q3,60%
+17/06/2011,"89 Lower Beechwood Avenue, Ranelagh, Dublin",Dublin,340000.0,No,Ranelagh,Dublin 6,q1,20%
+22/06/2011,"27 Willbrook House, Northbrook Avenue, Ranelagh",Dublin,202333.0,No,Ranelagh,Dublin 6,q1,10%
+29/06/2011,"2 Cullenswood, Northbrook Avenue, Ranelagh",Dublin,205000.0,No,Ranelagh,Dublin 6,q1,10%
+07/07/2011,"73 Moyne Road, Ranelagh, Dublin 6",Dublin,600000.0,No,Ranelagh,Dublin 6,q2,50%
+08/07/2011,"1A Larch Grove, Sandford Road, Ranelagh",Dublin,75000.0,No,Ranelagh,Dublin 6,q1,10%
+11/07/2011,"Number 6, Dunville Avenue, Ranelagh",Dublin,355000.0,No,Ranelagh,Dublin 6,q1,30%
+15/07/2011,"12 Dunville Avenue, Ranelagh, Dublin",Dublin,610000.0,No,Ranelagh,Dublin 6,q2,50%
+18/07/2011,"4 Hollybank Avenue Lower, Ranelagh",Dublin,530000.0,No,Ranelagh,Dublin 6,q2,40%
+20/07/2011,"30 Chelmsford Road, Ranelagh",Dublin,600000.0,No,Ranelagh,Dublin 6,q2,50%
+29/07/2011,"54 Moyne Road, Ranelagh, Dublin",Dublin,540000.0,No,Ranelagh,Dublin 6,q2,50%
+05/08/2011,"44 Park Drive, Ranelagh, Dublin 6",Dublin,999990.0,No,Ranelagh,Dublin 6,q4,90%
+12/08/2011,"38 Edenvale Road, Ranelagh",Dublin,880000.0,No,Ranelagh,Dublin 6,q3,80%
+22/08/2011,"5 Mountainview Road, Ranelagh",Dublin,575000.0,No,Ranelagh,Dublin 6,q2,50%
+26/08/2011,"114 Sandford Road, Ranelagh, Dublin 6",Dublin,600000.0,No,Ranelagh,Dublin 6,q2,50%
+31/08/2011,"2 Chelmsford Avenue, Ranelagh, Dublin",Dublin,435000.0,No,Ranelagh,Dublin 6,q2,40%
+09/09/2011,"30 Lower  Beechwood Avenue, Ranelagh, Dublin 6",Dublin,780000.0,No,Ranelagh,Dublin 6,q3,70%
+12/09/2011,"2 Leeson Walk, Northbrook Lane, Ranelagh  Dublin 6",Dublin,200000.0,No,Ranelagh,Dublin 6,q1,10%
+16/09/2011,"41 Sandford Road, Ranelagh",Dublin,1450000.0,No,Ranelagh,Dublin 6,q4,100%
+20/09/2011,"24 Beechwood Avenue Lower, Ranelagh, Dublin 6",Dublin,760000.0,No,Ranelagh,Dublin 6,q3,70%
+20/09/2011,"24 Dartmouth Square, Ranelagh",Dublin,1210000.0,No,Ranelagh,Dublin 6,q4,90%
+30/09/2011,"36 Edenvale Road, Ranelagh",Dublin,350000.0,No,Ranelagh,Dublin 6,q1,20%
+06/10/2011,"23 Ashfield Road, Ranelagh, Dublin 6",Dublin,590000.0,No,Ranelagh,Dublin 6,q2,50%
+11/10/2011,"3 Annavilla, Ranelagh",Dublin,300000.0,No,Ranelagh,Dublin 6,q1,20%
+19/10/2011,"8 Oakley Square, Ranelagh",Dublin,325000.0,No,Ranelagh,Dublin 6,q1,20%
+25/10/2011,"81 Sandford Road, Ranelagh",Dublin,465000.0,No,Ranelagh,Dublin 6,q2,40%
+28/10/2011,"10 Ormond Road, Ranelagh",Dublin,525000.0,No,Ranelagh,Dublin 6,q2,40%
+03/11/2011,"6  Larch Grove, Ranelagh, Dublin 6",Dublin,330000.0,No,Ranelagh,Dublin 6,q1,20%
+08/11/2011,"36 Upper Beechwood Avenue, Ranelagh, Dublin",Dublin,720000.0,No,Ranelagh,Dublin 6,q3,60%
+18/11/2011,"29 Edenvale Road, Ranelagh, Dublin 6",Dublin,685000.0,No,Ranelagh,Dublin 6,q3,60%
+18/11/2011,"49 Anna Villa, Ranelagh, Dublin 6",Dublin,380000.0,No,Ranelagh,Dublin 6,q1,30%
+25/11/2011,"28 Oxford Road, Ranelagh",Dublin,605000.0,No,Ranelagh,Dublin 6,q2,50%
+25/11/2011,"60 Dunville Avenue, Ranelagh",Dublin,600000.0,No,Ranelagh,Dublin 6,q2,50%
+01/12/2011,"3 Leeson Park Avenue, Ranelagh",Dublin,104000.0,No,Ranelagh,Dublin 6,q1,10%
+02/12/2011,"40 Chelmsford Road, Ranelagh",Dublin,615000.0,No,Ranelagh,Dublin 6,q3,60%
+04/12/2011,"13 Edenvale, Ranelagh, Dublin 6",Dublin,625000.0,No,Ranelagh,Dublin 6,q3,60%
+08/12/2011,"1B Ranelagh Mews, 1B Mount Pleasant Terrace, Ranelagh",Dublin,229950.0,No,Ranelagh,Dublin 6,q1,10%
+08/12/2011,"32 Charleston Av, Ranelagh",Dublin,565000.0,No,Ranelagh,Dublin 6,q2,50%
+09/12/2011,"9 The Courtyard, Hollybank Avenue, Ranelagh",Dublin,345000.0,No,Ranelagh,Dublin 6,q1,20%
+12/12/2011,"31 Beechwood Park, Ranelagh, Dublin 6",Dublin,522000.0,No,Ranelagh,Dublin 6,q2,40%
+15/12/2011,"16 Elmpark Avenue, Ranelagh, Dublin 6",Dublin,392000.0,No,Ranelagh,Dublin 6,q2,30%
+09/01/2012,"57A/57B, Leeson Park, Ranelagh",Dublin,997000.0,No,Ranelagh,Dublin 6,q4,90%
+10/01/2012,"40 Northbrook Avenue, Northbrook Road, Ranelagh",Dublin,353500.0,No,Ranelagh,Dublin 6,q1,30%
+16/01/2012,"3 Cowper Drive, Ranelagh, Dublin 6",Dublin,755000.0,No,Ranelagh,Dublin 6,q3,70%
+25/01/2012,"18 Mountainview Road, Ranelagh, Dublin 6",Dublin,695000.0,No,Ranelagh,Dublin 6,q3,60%
+30/01/2012,"No. 10 The Courtyard, Cherrybank  Hollybank Ave, Ranelagh  Dublin 6",Dublin,345000.0,No,Ranelagh,Dublin 6,q1,20%
+07/02/2012,"Apartment 20, Block D Oakley Court, Ranelagh",Dublin,155000.0,No,Ranelagh,Dublin 6,q1,10%
+21/02/2012,"12 Chester Road, Ranelagh",Dublin,345000.0,No,Ranelagh,Dublin 6,q1,20%
+29/02/2012,"25B Oakley Road, Ranelagh",Dublin,310000.0,No,Ranelagh,Dublin 6,q1,20%
+13/03/2012,"4 Beechwood Park, Ranelagh",Dublin,525000.0,No,Ranelagh,Dublin 6,q2,40%
+22/03/2012,"2 Mountainview Cottages, Ranelagh, Dublin",Dublin,195000.0,No,Ranelagh,Dublin 6,q1,10%
+30/03/2012,"25 Anna Villa, Ranelagh, Dublin 6",Dublin,432000.0,No,Ranelagh,Dublin 6,q2,40%
+04/04/2012,"82 Moyne Road, Ranelagh, Dublin",Dublin,530000.0,No,Ranelagh,Dublin 6,q2,50%
+10/04/2012,"48 Dunville Avenue, Ranelagh, Dublin 6",Dublin,391000.0,No,Ranelagh,Dublin 6,q2,30%
+12/04/2012,"22 Mount Pleasant Terrace, Ranelagh",Dublin,390000.0,No,Ranelagh,Dublin 6,q2,30%
+26/04/2012,"62 Beechwood Avenue Lower, Ranelagh",Dublin,690000.0,No,Ranelagh,Dublin 6,q3,60%
+27/04/2012,"21 Cullenswood Gardens, Ranelagh",Dublin,500000.0,No,Ranelagh,Dublin 6,q2,40%
+27/04/2012,"79  Moyne  Road, Ranelagh",Dublin,610000.0,No,Ranelagh,Dublin 6,q2,50%
+02/05/2012,"16 Chelmsford Lane, Ranelagh",Dublin,310000.0,No,Ranelagh,Dublin 6,q1,20%
+03/05/2012,"Apartment 27 Willbrook House, Northbrook Avenue, Ranelagh",Dublin,140000.0,No,Ranelagh,Dublin 6,q1,10%
+04/05/2012,"27 Beechwood Avenue Lower, Ranelagh, Dublin 6",Dublin,665000.0,No,Ranelagh,Dublin 6,q3,60%
+04/05/2012,"75 Northbrook Avenue, Ranelagh",Dublin,318000.0,No,Ranelagh,Dublin 6,q1,20%
+21/05/2012,"42 Beechwood Avenue, Lower, Ranelagh",Dublin,605000.0,No,Ranelagh,Dublin 6,q2,50%
+22/05/2012,"30 Elm Park Avenue, Ranelagh",Dublin,373000.0,No,Ranelagh,Dublin 6,q1,30%
+30/05/2012,"34 Merton Drive, Ranelagh",Dublin,445000.0,No,Ranelagh,Dublin 6,q2,40%
+05/06/2012,"28 Cullenswood, Off Northbrook Avenue, Ranelagh",Dublin,137500.0,No,Ranelagh,Dublin 6,q1,10%
+08/06/2012,"12 Appian Way, Ranelagh",Dublin,1450000.0,No,Ranelagh,Dublin 6,q4,100%
+18/06/2012,"40 Ashfield Road, Ranelagh",Dublin,525000.0,No,Ranelagh,Dublin 6,q2,40%
+19/06/2012,"1 Sandford Sq, Merton Drive, Ranelagh",Dublin,1365638.0,Yes,Ranelagh,Dublin 6,q4,100%
+26/06/2012,"7 Mount Pleasant Parade, Ranelagh, Dublin 6",Dublin,380000.0,No,Ranelagh,Dublin 6,q1,30%
+29/06/2012,"15 Rugby Road, Ranelagh, Dublin",Dublin,409000.0,No,Ranelagh,Dublin 6,q2,30%
+12/07/2012,"7 Elm Park Avenue, Ranelagh, Dublin 6",Dublin,375000.0,No,Ranelagh,Dublin 6,q1,30%
+13/07/2012,"1 & 3 Edenvale Rd, Ranelagh",Dublin,625000.0,No,Ranelagh,Dublin 6,q3,60%
+13/07/2012,"36 Fitzwilliam Court, Ranelagh, Dublin 6",Dublin,156000.0,No,Ranelagh,Dublin 6,q1,10%
+17/07/2012,"7&6A Oakley Road, Ranelagh",Dublin,400000.0,No,Ranelagh,Dublin 6,q2,30%
+23/07/2012,"34 Tudor Road, Ranelagh",Dublin,510000.0,No,Ranelagh,Dublin 6,q2,40%
+01/08/2012,"10 Charleston Court, Charleston Road, Ranelagh",Dublin,162500.0,No,Ranelagh,Dublin 6,q1,10%
+02/08/2012,"12 Colliers Avenue, Ranelagh",Dublin,276000.0,No,Ranelagh,Dublin 6,q1,20%
+02/08/2012,"55 Edenvale Road, Ranelagh",Dublin,630000.0,No,Ranelagh,Dublin 6,q3,60%
+09/08/2012,"18 Mount Pleasant Square, Ranelagh, Dublin 6",Dublin,1150000.0,No,Ranelagh,Dublin 6,q4,90%
+10/08/2012,"27 Mornington Road, Ranelagh, Dublin 6",Dublin,400000.0,No,Ranelagh,Dublin 6,q2,30%
+10/08/2012,"64 Ranelagh Road, Dublin 6",Dublin,565000.0,No,Ranelagh,Dublin 6,q2,50%
+15/08/2012,"51 Upper Mount Pleasant Avenue, Ranelagh, Dublin 6",Dublin,617500.0,No,Ranelagh,Dublin 6,q3,60%
+20/08/2012,"4 Anna Villa, Ranelagh",Dublin,180000.0,No,Ranelagh,Dublin 6,q1,10%
+29/08/2012,"5 Killeen Road, Ranelagh, Dublin 6",Dublin,440000.0,No,Ranelagh,Dublin 6,q2,40%
+10/09/2012,"14 Annesley Park, Ranelagh, Dublin 6",Dublin,705000.0,No,Ranelagh,Dublin 6,q3,60%
+10/09/2012,"17 Upper Cherryfield Avenue, Ranelagh",Dublin,407500.0,No,Ranelagh,Dublin 6,q2,30%
+10/09/2012,"20 Colliers Avenue, Ranelagh",Dublin,205000.0,No,Ranelagh,Dublin 6,q1,10%
+10/09/2012,"30 Tudor Road, Ranelagh",Dublin,485000.0,No,Ranelagh,Dublin 6,q2,40%
+11/09/2012,"70 Moyne Road, Ranelagh",Dublin,550000.0,No,Ranelagh,Dublin 6,q2,50%
+12/09/2012,"52 Hollybank, Avenue Lower, Ranelagh",Dublin,550000.0,No,Ranelagh,Dublin 6,q2,50%
+14/09/2012,"No. 4 Ashfield Road, Ranelagh",Dublin,465000.0,No,Ranelagh,Dublin 6,q2,40%
+18/09/2012,"18 Ranelagh Court, Ranelagh",Dublin,100000.0,No,Ranelagh,Dublin 6,q1,10%
+20/09/2012,"8 Upper Hollybank Avenue, Ranelagh",Dublin,467000.0,No,Ranelagh,Dublin 6,q2,40%
+28/09/2012,"13 The Orchard, Cherryfield Avenue, Ranelagh",Dublin,525000.0,No,Ranelagh,Dublin 6,q2,40%
+01/10/2012,"17 Wilbrook House, Northbrook Avenue, Ranelagh",Dublin,150000.0,No,Ranelagh,Dublin 6,q1,10%
+18/10/2012,"64 Moyne Road, Ranelagh, Dublin 6",Dublin,675000.0,No,Ranelagh,Dublin 6,q3,60%
+19/10/2012,"22 Chelmsford Lane, Ranelagh, Dublin 6",Dublin,290000.0,No,Ranelagh,Dublin 6,q1,20%
+19/10/2012,"83 Ranelagh Road, Ranelagh, Dublin 6",Dublin,850000.0,No,Ranelagh,Dublin 6,q3,80%
+22/10/2012,"7 Garden View, Ranelagh",Dublin,220000.0,No,Ranelagh,Dublin 6,q1,10%
+23/10/2012,"46 Upper Beechwood Avenue, Ranelagh",Dublin,612500.0,No,Ranelagh,Dublin 6,q2,50%
+25/10/2012,"9 Berystede, Leeson Park, Ranelagh",Dublin,132000.0,No,Ranelagh,Dublin 6,q1,10%
+26/10/2012,"13 Cullenswood Gardens, Ranelagh",Dublin,650000.0,No,Ranelagh,Dublin 6,q3,60%
+31/10/2012,"6 Anna Villa, Ranelagh, Dublin 6",Dublin,337000.0,No,Ranelagh,Dublin 6,q1,20%
+01/11/2012,"23 Northbrook Road, Ranelagh",Dublin,2050000.0,No,Ranelagh,Dublin 6,q4,100%
+02/11/2012,"1 Alma Court, Ranelagh",Dublin,315000.0,No,Ranelagh,Dublin 6,q1,20%
+12/11/2012,"93 Sandford Road, Ranelagh, Dublin 6",Dublin,435000.0,No,Ranelagh,Dublin 6,q2,40%
+13/11/2012,"6 Tudor Road, Ranelagh, Dublin 6",Dublin,481000.0,No,Ranelagh,Dublin 6,q2,40%
+21/11/2012,"7 Mornington Road, Ranelagh, Dublin 6",Dublin,430000.0,No,Ranelagh,Dublin 6,q2,40%
+29/11/2012,"36 Mount Pleasant Avenue, Ranelagh",Dublin,765000.0,No,Ranelagh,Dublin 6,q3,70%
+30/11/2012,"77 Ranelagh Road, Ranelagh",Dublin,915000.0,No,Ranelagh,Dublin 6,q4,80%
+06/12/2012,"7 The Courtyard, Hollybank Avenue Upper, Ranelagh",Dublin,650000.0,No,Ranelagh,Dublin 6,q3,60%
+13/12/2012,"48 Hollybank Avenue Lower, Ranelagh",Dublin,430000.0,No,Ranelagh,Dublin 6,q2,40%
+14/12/2012,"18 Oakley Square, Oakley Road, Ranelagh",Dublin,395000.0,No,Ranelagh,Dublin 6,q2,30%
+18/12/2012,"1A Ranelagh Mews, Ranelagh, Dublin 6",Dublin,237500.0,No,Ranelagh,Dublin 6,q1,10%
+18/12/2012,"3 Oxford Road, Ranelagh, Dublin 6",Dublin,365000.0,No,Ranelagh,Dublin 6,q1,30%
+19/12/2012,"19 Charleston Avenue, Charleston Road, Ranelagh",Dublin,425000.0,No,Ranelagh,Dublin 6,q2,30%
+19/12/2012,"20 Upper Mount Pleasant Avenue, Ranelagh",Dublin,312000.0,No,Ranelagh,Dublin 6,q1,20%
+20/12/2012,"15 Bannaville, Ranelagh",Dublin,220000.0,No,Ranelagh,Dublin 6,q1,10%
+21/12/2012,"11 Beechwood Park, Ranelagh, Dublin 6",Dublin,630000.0,No,Ranelagh,Dublin 6,q3,60%
+21/12/2012,"28 Dartmouth Road, Ranelagh",Dublin,528634.0,No,Ranelagh,Dublin 6,q2,40%
+21/12/2012,"4Ash House, Charleston Court, Ranelagh",Dublin,203000.0,No,Ranelagh,Dublin 6,q1,10%
+21/12/2012,"61 Dartmouth Square, Ranelagh",Dublin,1000000.0,No,Ranelagh,Dublin 6,q4,90%
+28/12/2012,"9 Colliers Avenue, Ranelagh, Dublin 6",Dublin,143500.0,No,Ranelagh,Dublin 6,q1,10%
+31/12/2012,"6 The Courtyard, Hollybank Avenue, Ranelagh",Dublin,485000.0,No,Ranelagh,Dublin 6,q2,40%
+10/01/2013,"36 Edendale Road, Ranelagh, Dublin 6",Dublin,650000.0,No,Ranelagh,Dublin 6,q3,60%
+11/01/2013,"97 Lower Beechwood Avenue, Ranelagh",Dublin,520000.0,No,Ranelagh,Dublin 6,q2,40%
+16/01/2013,"32 Oxford Road, Ranelagh, Dublin 6",Dublin,372000.0,No,Ranelagh,Dublin 6,q1,30%
+25/01/2013,"76  Dartmouth Terrace, Ranelagh",Dublin,415000.0,No,Ranelagh,Dublin 6,q2,30%
+31/01/2013,"19 Ashfield Road, Ranelagh, Dublin 6",Dublin,602500.0,No,Ranelagh,Dublin 6,q2,50%
+06/02/2013,"19 Beechwood Road, Ranelagh",Dublin,1300000.0,No,Ranelagh,Dublin 6,q4,100%
+15/02/2013,"Apartment 2, 10 Ranelagh Road, Dublin 6",Dublin,248500.0,No,Ranelagh,Dublin 6,q1,20%
+26/02/2013,"13 Dexter Terrace, Northbrook Road, Ranelagh",Dublin,375000.0,No,Ranelagh,Dublin 6,q1,30%
+26/02/2013,"7 Mount Pleasant Place, Ranelagh",Dublin,415000.0,No,Ranelagh,Dublin 6,q2,30%
+27/02/2013,"20 Rugby Road, Ranelagh",Dublin,250000.0,No,Ranelagh,Dublin 6,q1,20%
+27/02/2013,"34 Killeen Road, Ranelagh",Dublin,460000.0,No,Ranelagh,Dublin 6,q2,40%
+28/02/2013,"5 Beechwood Avenue Lower, Ranelagh, Dublin 6",Dublin,665000.0,No,Ranelagh,Dublin 6,q3,60%
+19/03/2013,"33 Edenvale Road, Ranelagh",Dublin,718000.0,No,Ranelagh,Dublin 6,q3,60%
+28/03/2013,"84 Ranelagh, Dublin 6",Dublin,575000.0,No,Ranelagh,Dublin 6,q2,50%
+28/03/2013,"86 Ranelagh, Dublin 6",Dublin,575000.0,No,Ranelagh,Dublin 6,q2,50%
+11/04/2013,"35 Charleston Road, Ranelagh",Dublin,372500.0,No,Ranelagh,Dublin 6,q1,30%
+12/04/2013,"76 Ranelagh Rd, Ranelagh",Dublin,465000.0,No,Ranelagh,Dublin 6,q2,40%
+10/05/2013,"9 Cherryfield Avenue Lower, Ranelagh",Dublin,540000.0,No,Ranelagh,Dublin 6,q2,50%
+20/05/2013,"2 Silverton, 132 Ranelagh Road",Dublin,189000.0,No,Ranelagh,Dublin 6,q1,10%
+22/05/2013,"69 Dartmouth Terrace, Ranelagh",Dublin,410000.0,No,Ranelagh,Dublin 6,q2,30%
+07/06/2013,"12 Moyne Road, Ranelagh",Dublin,786500.0,No,Ranelagh,Dublin 6,q3,70%
+10/06/2013,"79 Ashfield Road, Ranelagh",Dublin,595000.0,No,Ranelagh,Dublin 6,q2,50%
+24/06/2013,"1 Sallymount Avenue And, 98 100 & 102 Ranelagh Village",Dublin,265000.0,No,Ranelagh,Dublin 6,q1,20%
+26/06/2013,"4 Moyne Road, Ranelagh",Dublin,600000.0,No,Ranelagh,Dublin 6,q2,50%
+27/06/2013,"4 Sanford Row, Colliers Avenue, Ranelagh",Dublin,210000.0,No,Ranelagh,Dublin 6,q1,10%
+02/07/2013,"11 Sallymount Avenue, Ranelagh",Dublin,275000.0,No,Ranelagh,Dublin 6,q1,20%
+15/07/2013,"27 Northbrook Avenue, Ranelagh",Dublin,455000.0,No,Ranelagh,Dublin 6,q2,40%
+19/07/2013,"16 Charleston Court, Charleston Road, Ranelagh",Dublin,220000.0,No,Ranelagh,Dublin 6,q1,10%
+22/07/2013,"27 Dartmouth Road, Ranelagh, Dublin 6",Dublin,510000.0,No,Ranelagh,Dublin 6,q2,40%
+23/07/2013,"38 Cherryfield Avenue Lower, Ranelagh",Dublin,580000.0,No,Ranelagh,Dublin 6,q2,50%
+24/07/2013,"66 Darrmouth Square, Ranelagh, Dublin 6",Dublin,1160000.0,No,Ranelagh,Dublin 6,q4,90%
+25/07/2013,"47 Dunville Avenue, Ranelagh, Dublin 6",Dublin,330000.0,No,Ranelagh,Dublin 6,q1,20%
+26/07/2013,"49 Mountain View Road, Ranelagh, Dublin 6",Dublin,932000.0,No,Ranelagh,Dublin 6,q4,80%
+30/07/2013,"12 Upper Beechwood Avenue, Ranelagh",Dublin,750000.0,No,Ranelagh,Dublin 6,q3,70%
+01/08/2013,"2 Sandford Row, Colliers Avenue, Ranelagh",Dublin,215000.0,No,Ranelagh,Dublin 6,q1,10%
+01/08/2013,"28 Mitchell House, Appian Way, Ranelagh",Dublin,198000.0,No,Ranelagh,Dublin 6,q1,10%
+01/08/2013,"4 Mountpleasant Terrace, Ranelagh, Dublin 6",Dublin,595000.0,No,Ranelagh,Dublin 6,q2,50%
+01/08/2013,"The Lodge, Charleston Avenue, Ranelagh",Dublin,900000.0,No,Ranelagh,Dublin 6,q3,80%
+08/08/2013,"1 Sandford Row, Colliers Avenue, Ranelagh",Dublin,210000.0,No,Ranelagh,Dublin 6,q1,10%
+08/08/2013,"57 Anna Villa, Ranelagh",Dublin,315000.0,No,Ranelagh,Dublin 6,q1,20%
+09/08/2013,"3 Northbrook Road, Ranelagh, Dublin 6",Dublin,1890000.0,No,Ranelagh,Dublin 6,q4,100%
+16/08/2013,"The Turret, 18 Park Drive, Ranelagh",Dublin,2430000.0,No,Ranelagh,Dublin 6,q4,100%
+23/08/2013,"6 St Anne'S Terrace, Northbrook Land, Ranelagh",Dublin,650000.0,No,Ranelagh,Dublin 6,q3,60%
+29/08/2013,"4 Charleston Avenue, Ranelagh",Dublin,650000.0,No,Ranelagh,Dublin 6,q3,60%
+30/08/2013,"19 Athlumney Villas, Ranelagh, Dublin 6",Dublin,211000.0,No,Ranelagh,Dublin 6,q1,10%
+30/08/2013,"75 Ranelagh Road, Dublin 6",Dublin,445000.0,No,Ranelagh,Dublin 6,q2,40%
+05/09/2013,"3 Sandford Row, Colliers Avenue, Ranelagh",Dublin,210000.0,No,Ranelagh,Dublin 6,q1,10%
+06/09/2013,"No. 17 Oakley Court, Oakley Road, Ranelagh",Dublin,185000.0,No,Ranelagh,Dublin 6,q1,10%
+11/09/2013,"18 Oakley Court, Ranelagh, Dublin 6",Dublin,185000.0,No,Ranelagh,Dublin 6,q1,10%
+16/09/2013,"14 Rugby Road, Ranelagh, Dublin",Dublin,451000.0,No,Ranelagh,Dublin 6,q2,40%
+20/09/2013,"117/119 Ranelagh, Ranelagh",Dublin,410000.0,No,Ranelagh,Dublin 6,q2,30%
+20/09/2013,"18 Athlumney Villas, Ranelagh",Dublin,179000.0,No,Ranelagh,Dublin 6,q1,10%
+27/09/2013,"1 Oxford Road, Ranelagh, Dublin 6",Dublin,780000.0,No,Ranelagh,Dublin 6,q3,70%
+30/09/2013,"Apartment 4, The Triangle, Ranelagh",Dublin,210000.0,No,Ranelagh,Dublin 6,q1,10%
+01/10/2013,"47 Dartmouth Square, Ranelagh",Dublin,1300000.0,No,Ranelagh,Dublin 6,q4,100%
+02/10/2013,"15 Athlumney Villas, Ranelagh, Dublin 6",Dublin,218000.0,No,Ranelagh,Dublin 6,q1,10%
+04/10/2013,"11 Parkview, Northbrook Avenue, Ranelagh",Dublin,169500.0,No,Ranelagh,Dublin 6,q1,10%
+14/10/2013,"5 Mount Pleasant  Terrace, Ranelagh",Dublin,590000.0,No,Ranelagh,Dublin 6,q2,50%
+15/10/2013,"74 Ranelagh Road, Dublin 6",Dublin,450000.0,No,Ranelagh,Dublin 6,q2,40%
+16/10/2013,"25 Chelmsford Road, Ranelagh, Dublin 6",Dublin,605000.0,No,Ranelagh,Dublin 6,q2,50%
+18/10/2013,"121 - 123 Ranelagh, Ranelagh, Dublin 6",Dublin,1050000.0,No,Ranelagh,Dublin 6,q4,90%
+21/10/2013,"30 Mountainview Road, Ranelagh",Dublin,980000.0,No,Ranelagh,Dublin 6,q4,90%
+21/10/2013,"33 Chelmsford Road, Ranelagh",Dublin,450000.0,No,Ranelagh,Dublin 6,q2,40%
+23/10/2013,"25  Cherryfield Avenue, Ranelagh",Dublin,575000.0,No,Ranelagh,Dublin 6,q2,50%
+24/10/2013,"68 Ranelagh Road, Ranelagh, Dublin 6",Dublin,1090000.0,No,Ranelagh,Dublin 6,q4,90%
+31/10/2013,"10 Crosbie House, Northbrook Park, Ranelagh Dublin 6",Dublin,267000.0,No,Ranelagh,Dublin 6,q1,20%
+31/10/2013,"6 Dartmouth Place, Ranelagh",Dublin,225000.0,No,Ranelagh,Dublin 6,q1,10%
+01/11/2013,"3 Dartmouth Place, Ranelagh",Dublin,220000.0,No,Ranelagh,Dublin 6,q1,10%
+05/11/2013,"7 Leeson Park, Ranelagh",Dublin,3371625.0,No,Ranelagh,Dublin 6,q4,100%
+07/11/2013,"Apt. 2 Crosbie House, Northbrrok Avenue, Ranelagh",Dublin,255000.0,No,Ranelagh,Dublin 6,q1,20%
+08/11/2013,"26 Dartmouth Road, Ranelagh",Dublin,572625.0,No,Ranelagh,Dublin 6,q2,50%
+11/11/2013,"26 Ranelagh Road, Ranelagh, Dublin 6",Dublin,815000.0,No,Ranelagh,Dublin 6,q3,70%
+12/11/2013,"7 Upper Beechwood Avenue, Ranelagh, Dublin 6",Dublin,300000.0,No,Ranelagh,Dublin 6,q1,20%
+15/11/2013,"3 Dartmouth Rd, Ranelagh, Dublin City",Dublin,1990000.0,No,Ranelagh,Dublin 6,q4,100%
+18/11/2013,"7 Dartmouth Place, Ranelagh, Dublin 6",Dublin,230000.0,No,Ranelagh,Dublin 6,q1,10%
+22/11/2013,"11 Mountpleasant Terrace, Ranelagh, Dublin 6",Dublin,485000.0,No,Ranelagh,Dublin 6,q2,40%
+22/11/2013,"6 Killeen Road, Ranelagh",Dublin,495000.0,No,Ranelagh,Dublin 6,q2,40%
+22/11/2013,"6 Ranelagh Road, Ranelagh",Dublin,500000.0,No,Ranelagh,Dublin 6,q2,40%
+25/11/2013,"8 Courtneyhouse, Appian Way, Ranelagh",Dublin,167000.0,No,Ranelagh,Dublin 6,q1,10%
+27/11/2013,"19 Chelmsford Ave, Ranelagh, Dublin 6",Dublin,350000.0,No,Ranelagh,Dublin 6,q1,20%
+28/11/2013,"25 Mount Pleasant Ave Upper, Ranelagh, Dublin 6",Dublin,1100000.0,No,Ranelagh,Dublin 6,q4,90%
+29/11/2013,"13 Rugby Rd, Ranelagh, Dublin 6",Dublin,421000.0,No,Ranelagh,Dublin 6,q2,30%
+04/12/2013,"31 Moyne Rd, Ranelagh, Dublin 6",Dublin,525000.0,No,Ranelagh,Dublin 6,q2,40%
+04/12/2013,"6 Cullenswood Park, Ranelagh, Dublin 6",Dublin,675000.0,No,Ranelagh,Dublin 6,q3,60%
+06/12/2013,"88 Merton Dr, Ranelagh, Dublin 6",Dublin,805000.0,No,Ranelagh,Dublin 6,q3,70%
+09/12/2013,"78 Sandford Road, Ranelagh, Dublin 6",Dublin,910000.0,No,Ranelagh,Dublin 6,q3,80%
+11/12/2013,"23 Dunville Ave, Ranelagh",Dublin,407000.0,No,Ranelagh,Dublin 6,q2,30%
+12/12/2013,"4 Sandford Court 28 Sandford Rd, Ranelagh, Dublin 6",Dublin,170000.0,No,Ranelagh,Dublin 6,q1,10%
+13/12/2013,"44 Mountainview Rd, Ranelagh, Dublin",Dublin,857100.0,No,Ranelagh,Dublin 6,q3,80%
+13/12/2013,"Apt 1, 51 Mount Pleasant Square, Ranelagh",Dublin,260000.0,No,Ranelagh,Dublin 6,q1,20%
+13/12/2013,"Apt 2, 51 Mount Pleasant Square, Ranelagh",Dublin,200000.0,No,Ranelagh,Dublin 6,q1,10%
+13/12/2013,"Apt 3, 51 Mount Pleasant Square, Ranelagh",Dublin,200000.0,No,Ranelagh,Dublin 6,q1,10%
+18/12/2013,"50 Oakley Rd, Ranelagh, Dublin 6",Dublin,740000.0,No,Ranelagh,Dublin 6,q3,70%
+20/12/2013,"13 Ashfield Ave, Ranelagh, Dublin 6",Dublin,599000.0,No,Ranelagh,Dublin 6,q2,50%
+20/12/2013,"24 Millbrook Village, Ranelagh, Dublin 6",Dublin,302000.0,No,Ranelagh,Dublin 6,q1,20%
+09/01/2014,"68 Ranelagh Village, Dublin 6, Dublin",Dublin,245000.0,No,Ranelagh,Dublin 6,q1,20%
+22/01/2014,"30 Charleston Road, Ranelagh, Dublin 6",Dublin,1000000.0,No,Ranelagh,Dublin 6,q4,90%
+22/01/2014,"Chelmsford Lodge, Chelmsford Lane, Ranelagh",Dublin,345000.0,No,Ranelagh,Dublin 6,q1,20%
+24/01/2014,"9 Chelmsford Rd, Ranelagh, Dublin 6",Dublin,597500.0,No,Ranelagh,Dublin 6,q2,50%
+27/01/2014,"18 Athlumney Villas, Ranelagh, Dublin 6",Dublin,325000.0,No,Ranelagh,Dublin 6,q1,20%
+28/01/2014,"10 Ashfield Rd, Ranelagh, Dublin 6",Dublin,775000.0,No,Ranelagh,Dublin 6,q3,70%
+31/01/2014,"7 Chelmsford Avenue, Ranelagh Dublin 6",Dublin,350000.0,No,Ranelagh,Dublin 6,q1,30%
+04/02/2014,"35 Anna Villa, Ranelagh, Dublin 6",Dublin,950000.0,No,Ranelagh,Dublin 6,q4,80%
+11/02/2014,"3 Lower Hollybank Ave, Ranelagh, Dublin 6",Dublin,504000.0,No,Ranelagh,Dublin 6,q2,40%
+24/02/2014,"15 Charleston Court, Charleston Rd, Ranelagh Dublin 6",Dublin,290000.0,No,Ranelagh,Dublin 6,q1,20%
+27/02/2014,"48 Dunville Ave, Ranelagh, Dublin 6",Dublin,760750.0,No,Ranelagh,Dublin 6,q3,70%
+04/03/2014,"92 Ranelagh Village, Ranelagh, Dublin 6",Dublin,150000.0,No,Ranelagh,Dublin 6,q1,10%
+18/03/2014,"5 Dartmouth Terrace, Ranelagh, Dublin 6",Dublin,340000.0,No,Ranelagh,Dublin 6,q1,20%
+19/03/2014,"1 Dunville Close, Ranelagh, Dublin 6",Dublin,600000.0,No,Ranelagh,Dublin 6,q2,50%
+19/03/2014,"4 Upper Cherryfield Ave, Ranelagh, Dublin 6",Dublin,540000.0,No,Ranelagh,Dublin 6,q2,50%
+19/03/2014,"43 Dunville Ave, Ranelagh, Dublin 6",Dublin,500000.0,No,Ranelagh,Dublin 6,q2,40%
+19/03/2014,"57 Beechwood Avenue Lower, Ranelagh, Dublin 6",Dublin,805000.0,No,Ranelagh,Dublin 6,q3,70%
+24/03/2014,"29 Ranelagh Rd, Dublin 6",Dublin,525000.0,No,Ranelagh,Dublin 6,q2,40%
+02/04/2014,"3 Dartmouth Terrace, Ranelagh",Dublin,290000.0,No,Ranelagh,Dublin 6,q1,20%
+03/04/2014,"Apts 1-11 And The Mews, 48 Ranelagh Rd, Dublin 6",Dublin,2690000.0,No,Ranelagh,Dublin 6,q4,100%
+09/04/2014,"108 Sandford Rd, Ranelagh, Dublin 6",Dublin,875000.0,No,Ranelagh,Dublin 6,q3,80%
+17/04/2014,"63 Ranelagh Rd, Ranelagh, Dublin",Dublin,450000.0,No,Ranelagh,Dublin 6,q2,40%
+30/04/2014,"6 Upper Mountpleasant Ave, Ranelagh, Dublin 6",Dublin,440000.0,No,Ranelagh,Dublin 6,q2,40%
+02/05/2014,"39 Mountpleasant Sq, Ranelagh, Dublin",Dublin,930000.0,No,Ranelagh,Dublin 6,q4,80%
+07/05/2014,"8 Bessborough Parade, Ranelagh, Dublin 6",Dublin,415000.0,No,Ranelagh,Dublin 6,q2,30%
+14/05/2014,"11 Edenvale Rd, Ranelagh, Dublin 6",Dublin,416666.66,No,Ranelagh,Dublin 6,q2,30%
+30/05/2014,"39 Mountain View Rd, Ranelagh, Dublin 6",Dublin,990000.0,No,Ranelagh,Dublin 6,q4,90%
+09/06/2014,"2 Charleston Court, Charleston Road, Ranelagh",Dublin,303000.0,No,Ranelagh,Dublin 6,q1,20%
+17/06/2014,"1 Charleston Road, Ranelagh",Dublin,702500.0,No,Ranelagh,Dublin 6,q3,60%
+23/06/2014,"4 Belleisle House, 51 Ranelagh Rd, Ranelagh Dublin 6",Dublin,250000.0,No,Ranelagh,Dublin 6,q1,20%
+30/06/2014,"134 Sandford Road, Ranelagh",Dublin,3368511.0,No,Ranelagh,Dublin 6,q4,100%
+02/07/2014,"2 Northbrook Rd, Ranelagh, Dublin 6",Dublin,2450000.0,No,Ranelagh,Dublin 6,q4,100%
+07/07/2014,"22 Cullenswood Gardens, Ranelagh",Dublin,674458.0,Yes,Ranelagh,Dublin 6,q3,60%
+09/07/2014,"29 Crosbie House, North Brook Ave, Ranelagh",Dublin,200000.0,No,Ranelagh,Dublin 6,q1,10%
+09/07/2014,"42 Sandford Road, Ranelagh",Dublin,1250000.0,No,Ranelagh,Dublin 6,q4,100%
+09/07/2014,"9 Walker'S Court, Ranelagh, Dublin 6",Dublin,362000.0,No,Ranelagh,Dublin 6,q1,30%
+18/07/2014,"11 Leeson Park, Ranelagh, Dublin 6",Dublin,680000.0,No,Ranelagh,Dublin 6,q3,60%
+21/07/2014,"8 Alma Court, Ranelagh, Dublin 6",Dublin,413000.0,No,Ranelagh,Dublin 6,q2,30%
+23/07/2014,"59 Lower Beechwood Avenue, Ranelagh, Dublin 6",Dublin,660000.0,No,Ranelagh,Dublin 6,q3,60%
+29/07/2014,"57 Upper Beechwood Avenue, Ranelagh",Dublin,1210099.0,No,Ranelagh,Dublin 6,q4,90%
+31/07/2014,"11 Elmwood Avenue Lower, Ranelagh",Dublin,590000.0,No,Ranelagh,Dublin 6,q2,50%
+31/07/2014,"11 North Brook Walk, Ranelagh, Dublin 6",Dublin,510000.0,No,Ranelagh,Dublin 6,q2,40%
+01/08/2014,"16 Athlumney Villas, Ranelagh, Dublin 6",Dublin,280000.0,No,Ranelagh,Dublin 6,q1,20%
+01/08/2014,"30 Killeen Road, Ranelagh, Dublin 6",Dublin,1050000.0,No,Ranelagh,Dublin 6,q4,90%
+07/08/2014,"23 Mountain View Rd, Ranelagh, Dublin 6",Dublin,1250000.0,No,Ranelagh,Dublin 6,q4,100%
+07/08/2014,"35 Upper Mountpleasant Ave, Ranelagh, Dublin 6",Dublin,910000.0,No,Ranelagh,Dublin 6,q3,80%
+08/08/2014,"18 Berystede, Leeson Park, Ranelagh Dublin 6",Dublin,365000.0,No,Ranelagh,Dublin 6,q1,30%
+12/08/2014,"40 Ashfield Rd, Ranelagh, Dublin 6",Dublin,850000.0,No,Ranelagh,Dublin 6,q3,80%
+12/08/2014,"45 Willbrook House, Northbrook Ave, Ranelagh",Dublin,210000.0,No,Ranelagh,Dublin 6,q1,10%
+21/08/2014,"18 Moyne Rd, Ranelagh, Dublin 6",Dublin,1170000.0,No,Ranelagh,Dublin 6,q4,90%
+21/08/2014,"9 Charleston Court, Ranelagh, Dublin City",Dublin,361000.0,No,Ranelagh,Dublin 6,q1,30%
+22/08/2014,"34 Dartmouth Sq, Ranelagh, Dublin 6",Dublin,1250000.0,No,Ranelagh,Dublin 6,q4,100%
+25/08/2014,"14 Rugby Villas, Ranelagh",Dublin,340000.0,No,Ranelagh,Dublin 6,q1,20%
+28/08/2014,"6 Ashbrook Terrace, Sallymount Avenue, Ranelagh",Dublin,984990.0,No,Ranelagh,Dublin 6,q4,90%
+29/08/2014,"10 Oakley Sq, Oakley Rd, Ranelagh Dublin 6",Dublin,550000.0,No,Ranelagh,Dublin 6,q2,50%
+29/08/2014,"4 Alma Court, Ranelagh, Dublin 6",Dublin,465000.0,No,Ranelagh,Dublin 6,q2,40%
+03/09/2014,"5 Mount Sandford, Ranelagh, Sandford Dublin 6",Dublin,290000.0,No,Ranelagh,Dublin 6,q1,20%
+11/09/2014,"Ground Floor, 4 Leeson Park, Ranelagh",Dublin,275000.0,No,Ranelagh,Dublin 6,q1,20%
+18/09/2014,"8 Bannaville, Ranelagh",Dublin,550000.0,No,Ranelagh,Dublin 6,q2,50%
+01/10/2014,"First Floor Return Flat, 4 Leeson Park, Ranelagh",Dublin,140000.0,No,Ranelagh,Dublin 6,q1,10%
+03/10/2014,"42 Rugby Rd, Ranelagh, Dublin 6",Dublin,585000.0,No,Ranelagh,Dublin 6,q2,50%
+06/10/2014,"5 Dexter Terrace, Northbrook Road, Ranelagh",Dublin,300000.0,No,Ranelagh,Dublin 6,q1,20%
+21/10/2014,"4 Dunville Court, Dunville Avenue, Ranelagh",Dublin,220000.0,No,Ranelagh,Dublin 6,q1,10%
+30/10/2014,"59 Beechwood Ave Upper, Ranelagh, Dublin 6",Dublin,1100000.0,No,Ranelagh,Dublin 6,q4,90%
+04/11/2014,"52 Moyne Rd, Ranelagh, Dublin 6",Dublin,1122000.0,No,Ranelagh,Dublin 6,q4,90%
+14/11/2014,"14 Athlumney Villas, Ranelagh",Dublin,225000.0,No,Ranelagh,Dublin 6,q1,10%
+14/11/2014,"4 Manders Terrace, Ranelagh, Dublin 6",Dublin,960000.0,No,Ranelagh,Dublin 6,q4,80%
+27/11/2014,"50  Elmwood Avenue, Ranelagh",Dublin,350000.0,No,Ranelagh,Dublin 6,q1,30%
+02/12/2014,"29 Elmwood Ave, Ranelagh, Dublin 6",Dublin,535000.0,No,Ranelagh,Dublin 6,q2,50%
+04/12/2014,"2 Belgrave Court, Ranelagh, Dublin 6",Dublin,176000.0,No,Ranelagh,Dublin 6,q1,10%
+04/12/2014,"39 Rugby Rd, Ranelagh, Dublin 6",Dublin,466500.0,No,Ranelagh,Dublin 6,q2,40%
+05/12/2014,"19 Cherryfield Ave Upper, Ranelagh, Dublin 6",Dublin,630000.0,No,Ranelagh,Dublin 6,q3,60%
+10/12/2014,"11 Upper Beechwood Ave, Ranelagh, Dublin 6",Dublin,710000.0,No,Ranelagh,Dublin 6,q3,60%
+10/12/2014,"70 Sandford Rd, Ranelagh, Dublin 6",Dublin,885000.0,No,Ranelagh,Dublin 6,q3,80%
+11/12/2014,"5 Sherborne Court, Charleston Rd, Ranelagh Dublin 6",Dublin,152000.0,No,Ranelagh,Dublin 6,q1,10%
+12/12/2014,"11 Hollybank Ave Upper, Ranelagh, Dublin 6",Dublin,587000.0,No,Ranelagh,Dublin 6,q2,50%
+12/12/2014,"3 Charleston Avenue, Ranelagh",Dublin,899999.0,No,Ranelagh,Dublin 6,q3,80%
+16/12/2014,"18 Oakley Rd, Ranelagh, Dublin 6",Dublin,612500.0,No,Ranelagh,Dublin 6,q2,50%
+16/12/2014,"36 Edenvale Rd, Ranelagh, Dublin",Dublin,1275000.0,No,Ranelagh,Dublin 6,q4,100%
+16/12/2014,"7 Alma Court, Ranelagh, Dublin 6",Dublin,435000.0,No,Ranelagh,Dublin 6,q2,40%
+19/12/2014,"13 Chester Rd, Ranelagh, Dublin",Dublin,740000.0,No,Ranelagh,Dublin 6,q3,70%
+22/12/2014,"21C Ranelagh Avenue, Dublin 6",Dublin,150000.0,No,Ranelagh,Dublin 6,q1,10%
+23/12/2014,"109 Moyne Rd, Ranelagh, Dublin 6",Dublin,1045000.0,No,Ranelagh,Dublin 6,q4,90%
+23/12/2014,"17 Ranelagh Rd, Ranelagh, Dublin 6",Dublin,670000.0,No,Ranelagh,Dublin 6,q3,60%
+23/12/2014,"21 Mountain View Rd, Ranelagh, Dublin 6",Dublin,1500000.0,No,Ranelagh,Dublin 6,q4,100%
+23/12/2014,"6 Alma Court, Ranelagh, Dublin 6",Dublin,580000.0,No,Ranelagh,Dublin 6,q2,50%
+23/12/2014,"93 Ranelagh Rd, Dublin 6, Dublin",Dublin,3778483.0,No,Ranelagh,Dublin 6,q4,100%
+23/12/2014,"9A Fitzwilliam Court, Ranelagh, Dublin 6",Dublin,373000.0,No,Ranelagh,Dublin 6,q1,30%
+06/01/2015,"44 Mount Pleasant Square, Ranelagh, Dublin 6",Dublin,1045000.0,No,Ranelagh,Dublin 6,q4,90%
+19/01/2015,"79 Ranelagh Road, Ranelagh, Dublin",Dublin,710000.0,No,Ranelagh,Dublin 6,q3,60%
+28/01/2015,"41 Northbrook Avenue, Ranelagh",Dublin,256938.0,No,Ranelagh,Dublin 6,q1,20%
+30/01/2015,"Apartments And Smyths Public House, 75/77 Ranelagh",Dublin,320000.0,No,Ranelagh,Dublin 6,q1,20%
+05/02/2015,"5 Charleston Court, Charleston Rd, Ranelagh",Dublin,365000.0,No,Ranelagh,Dublin 6,q1,30%
+05/02/2015,"50 Crosbie House, Northbrook Avenue, Ranelagh",Dublin,387500.0,No,Ranelagh,Dublin 6,q1,30%
+09/02/2015,"3 Moyne Court, Ranelagh",Dublin,505500.0,No,Ranelagh,Dublin 6,q2,40%
+11/02/2015,"Apt 6, 20 A Charleston Ave, Ranelagh Dublin 6",Dublin,170000.0,No,Ranelagh,Dublin 6,q1,10%
+13/02/2015,"54 Sandford Rd, Ranelagh, Dublin 6",Dublin,770000.0,No,Ranelagh,Dublin 6,q3,70%
+20/02/2015,"34 Oxford Rd, Ranelagh, Dublin 6",Dublin,525000.0,No,Ranelagh,Dublin 6,q2,40%
+27/02/2015,"58 Dexter Terrace, Northbrook Rd, Ranelagh Dublin 6",Dublin,265000.0,No,Ranelagh,Dublin 6,q1,20%
+04/03/2015,"Tara, 26C Oakley Rd, Ranelagh Dublin 6",Dublin,595000.0,No,Ranelagh,Dublin 6,q2,50%
+09/03/2015,"Apt 6 Mitchell House, Appian Way, Ranelagh",Dublin,190000.0,No,Ranelagh,Dublin 6,q1,10%
+23/03/2015,"91 Lower Beechwood Avenue, Ranelagh, Dublin 6",Dublin,625000.0,No,Ranelagh,Dublin 6,q3,60%
+26/03/2015,"Chelmsford Lodge, Chelmsord Lane, Ranelagh",Dublin,365000.0,No,Ranelagh,Dublin 6,q1,30%
+10/04/2015,"4 Beechwood Rd, Ranelagh, Dublin 6",Dublin,1065000.0,No,Ranelagh,Dublin 6,q4,90%
+17/04/2015,"35 Charleston Rd, Ranelagh, Dublin 6",Dublin,600000.0,No,Ranelagh,Dublin 6,q2,50%
+07/05/2015,"5 Dartmouth Place, Ranelagh",Dublin,355000.0,No,Ranelagh,Dublin 6,q1,30%
+08/05/2015,"11 Temple Place, Ranelagh, Dublin 6",Dublin,400000.0,No,Ranelagh,Dublin 6,q2,30%
+08/05/2015,"12 Temple Place, Ranelagh, Dublin 6",Dublin,400000.0,No,Ranelagh,Dublin 6,q2,30%
+15/05/2015,"55 Dexter Terrace, Northbrook Rd, Ranelagh Dublin 6",Dublin,265000.0,No,Ranelagh,Dublin 6,q1,20%
+15/05/2015,"9 Winton Rd Ranelagh, Ranelagh Dublin 6, Dublin",Dublin,1500000.0,No,Ranelagh,Dublin 6,q4,100%
+26/05/2015,"74 Ranelagh Village, Dublin 6",Dublin,1178000.0,No,Ranelagh,Dublin 6,q4,90%
+03/06/2015,"Apartment 6 Dunville Court, Ranelagh, Dublin 6",Dublin,258500.0,No,Ranelagh,Dublin 6,q1,20%
+05/06/2015,"24 Mornington Road, Ranelagh, Dublin 6",Dublin,350000.0,No,Ranelagh,Dublin 6,q1,30%
+09/06/2015,"44 Edenvale Rd, Ranelagh, Dublin 6",Dublin,960000.0,No,Ranelagh,Dublin 6,q4,80%
+12/06/2015,"16 Upper Mount Pleasant Ave, Ranelagh Dublin 6",Dublin,530075.0,No,Ranelagh,Dublin 6,q2,50%
+25/06/2015,"1A Alma Terrace, Ranelagh, Dublin 6",Dublin,640000.0,No,Ranelagh,Dublin 6,q3,60%
+01/07/2015,"44 Moyne Rd, Ranelagh, Dublin 6",Dublin,800000.0,No,Ranelagh,Dublin 6,q3,70%
+02/07/2015,"11 Willbrook House, Northbrook Ave, Ranelagh Dublin 6",Dublin,220000.0,No,Ranelagh,Dublin 6,q1,10%
+08/07/2015,"Northbrook Mews, Rear Of 2 Northbrook Road, Ranelagh",Dublin,750000.0,No,Ranelagh,Dublin 6,q3,70%
+09/07/2015,"31 Leeson Park Ave, Ranelagh, Dublin 6",Dublin,1100000.0,No,Ranelagh,Dublin 6,q4,90%
+09/07/2015,"45 Hollybank Ave Lower, Ranelagh, Dublin 6",Dublin,755000.0,No,Ranelagh,Dublin 6,q3,70%
+10/07/2015,"57C Belmont Ave, Ranelagh Rd, Dublin 6",Dublin,790000.0,No,Ranelagh,Dublin 6,q3,70%
+13/07/2015,"6 Chelmsford Ave, Ranelagh, Dublin",Dublin,640000.0,No,Ranelagh,Dublin 6,q3,60%
+14/07/2015,"13 Athlumney Villas, Ranelagh, Dublin",Dublin,295000.0,No,Ranelagh,Dublin 6,q1,20%
+14/07/2015,"16 Leeson Park, Ranelagh, Dublin 6",Dublin,2700000.0,No,Ranelagh,Dublin 6,q4,100%
+22/07/2015,"38 Mount Pleasant Square, Ranelagh, Dublin 6",Dublin,910000.0,No,Ranelagh,Dublin 6,q4,80%
+23/07/2015,"5 Upper Cherryfield Ave, Ranelagh, Dublin 6",Dublin,584000.0,No,Ranelagh,Dublin 6,q2,50%
+31/07/2015,"47 Sandford Road, Ranelagh",Dublin,4350000.0,No,Ranelagh,Dublin 6,q4,100%
+31/07/2015,"6 Mount Pleasant Parade, Ranelagh, Dublin 6",Dublin,610000.0,No,Ranelagh,Dublin 6,q2,50%
+04/08/2015,"3 Warwick Terrace, Sallymount Ave, Ranelagh Dublin 6",Dublin,1355000.0,No,Ranelagh,Dublin 6,q4,100%
+07/08/2015,"13 Sallymount Gardens, Ranelagh, Dublin",Dublin,627000.0,No,Ranelagh,Dublin 6,q3,60%
+07/08/2015,"51 Culistan Cottages, Ranelagh, Dublin 6",Dublin,305000.0,No,Ranelagh,Dublin 6,q1,20%
+08/08/2015,"56 Anna Villa, Ranelagh, Dublin 6",Dublin,550000.0,No,Ranelagh,Dublin 6,q2,50%
+12/08/2015,"9 Cambridge Terrace, Ranelagh",Dublin,800000.0,No,Ranelagh,Dublin 6,q3,70%
+24/08/2015,"7 Mountpleasant Place, Ranelagh, Dublin 6",Dublin,567500.0,No,Ranelagh,Dublin 6,q2,50%
+24/08/2015,"9 Upper Mountpleasant Ave, Ranelagh, Dublin 6",Dublin,940000.0,No,Ranelagh,Dublin 6,q4,80%
+03/09/2015,"4 Orchard Lane, (Mews At Rear Of, 56 Ranelagh Road)",Dublin,425000.0,No,Ranelagh,Dublin 6,q2,30%
+04/09/2015,"58 Northbrook Ave, Ranelagh, Dublin 6",Dublin,350000.0,No,Ranelagh,Dublin 6,q1,30%
+16/09/2015,"10 Dartmouth Sq, Ranelagh, Dublin 6",Dublin,1330000.0,No,Ranelagh,Dublin 6,q4,100%
+22/09/2015,"1 Upper Beechwood Avenue, Ranelagh",Dublin,715000.0,No,Ranelagh,Dublin 6,q3,60%
+22/09/2015,"7 Bessborough Hall, Bessborough Parade, Ranelagh Dublin 6",Dublin,775000.0,No,Ranelagh,Dublin 6,q3,70%
+24/09/2015,"15 A Park Dr, Ranelagh, Dublin 6",Dublin,815000.0,No,Ranelagh,Dublin 6,q3,70%
+01/10/2015,"18 Cherryfield Ave Upper, Ranelagh, Dublin 6",Dublin,632500.0,No,Ranelagh,Dublin 6,q3,60%
+06/10/2015,"1 Rugby Rd, Ranelagh, Dublin 6",Dublin,662500.0,No,Ranelagh,Dublin 6,q3,60%
+13/10/2015,"13 Oakley Sq, Oakley Rd, Ranelagh Dublin 6",Dublin,540000.0,No,Ranelagh,Dublin 6,q2,50%
+14/10/2015,"2 Elm Park Ave, Ranelagh, Dublin 6",Dublin,579000.0,No,Ranelagh,Dublin 6,q2,50%
+16/10/2015,"3 Chelmsford Close, Ranelagh, Dublin 6",Dublin,493000.0,No,Ranelagh,Dublin 6,q2,40%
+21/10/2015,"70 Lower Beechwood Avenue, Ranelagh, Dublin 6",Dublin,682000.0,No,Ranelagh,Dublin 6,q3,60%
+22/10/2015,"46 Dexter Terrace, Northbrook Rd, Ranelagh",Dublin,303000.0,No,Ranelagh,Dublin 6,q1,20%
+23/10/2015,"7 Mount Pleasant Ave, Ranelagh, Dublin 6",Dublin,849760.0,No,Ranelagh,Dublin 6,q3,80%
+27/10/2015,"52 Dexter Tec, Northbrook Ave, Ranelagh Dublin 6",Dublin,415000.0,No,Ranelagh,Dublin 6,q2,30%
+30/10/2015,"3 Morans Cottages, Ranelagh, Dublin 6",Dublin,359000.0,No,Ranelagh,Dublin 6,q1,30%
+30/10/2015,"Apt. 1, 12 Ranelagh, Dublin 6",Dublin,150000.0,No,Ranelagh,Dublin 6,q1,10%
+13/11/2015,"18 Hollybank Ave, Sandford Rd, Ranelagh Dublin 6",Dublin,640000.0,No,Ranelagh,Dublin 6,q3,60%
+17/11/2015,"8 Northbrook Lane, Ranelagh, Dublin 6",Dublin,500000.0,No,Ranelagh,Dublin 6,q2,40%
+24/11/2015,"9 Northbrook Walk, Ranelagh",Dublin,475000.0,No,Ranelagh,Dublin 6,q2,40%
+04/12/2015,"52 Northbrook Ave, Ranelagh, Dublin 6",Dublin,540000.0,No,Ranelagh,Dublin 6,q2,50%
+07/12/2015,"4 Dartmouth Place, Ranelagh, Dublin 6",Dublin,380000.0,No,Ranelagh,Dublin 6,q1,30%
+11/12/2015,"117-119 Ranelagh Road, Dublin 6",Dublin,400000.0,No,Ranelagh,Dublin 6,q2,30%
+11/12/2015,"2 Beechwood Cottage, Beechwood Ave Lower, Ranelagh Dublin 6",Dublin,390000.0,No,Ranelagh,Dublin 6,q2,30%
+14/12/2015,"57 Beechwood Ave Upper, Ranelagh, Dublin 6",Dublin,1250000.0,No,Ranelagh,Dublin 6,q4,100%
+16/12/2015,"10 Dunville Ave, Ranelagh Dublin 6, Dublin",Dublin,580000.0,No,Ranelagh,Dublin 6,q2,50%
+16/12/2015,"78 Beechwood Avenue Lwr, Ranelagh, Dublin 6",Dublin,775000.0,No,Ranelagh,Dublin 6,q3,70%
+16/12/2015,"8 Dunville Ave, Ranelagh Dublin 6, Dublin",Dublin,580000.0,No,Ranelagh,Dublin 6,q2,50%
+17/12/2015,"5 Anna Villa, Ranelagh, Dublin 6",Dublin,720000.0,No,Ranelagh,Dublin 6,q3,70%
+18/12/2015,"5 Albany Rd, Ranelagh, Dublin 6",Dublin,3100000.0,No,Ranelagh,Dublin 6,q4,100%
+01/01/2016,"34 Mount Pleasant Terrace, Ranelagh, Dublin 6",Dublin,170000.0,No,Ranelagh,Dublin 6,q1,10%
+27/01/2016,"Apt No. 5 The Triangle, Ranelagh, Dublin 8",Dublin,195000.0,No,Ranelagh,Dublin 6,q1,10%
+28/01/2016,"24 Upper Hollybank Ave, Ranelagh Dublin 6, Dublin",Dublin,620000.0,No,Ranelagh,Dublin 6,q3,60%
+02/02/2016,"11 Crosbie House, Northbrook Ave, Ranelagh Dublin 6",Dublin,221000.0,No,Ranelagh,Dublin 6,q1,10%
+02/02/2016,"17 Leeson Park Ave, Ranelagh, Dublin 6",Dublin,865000.0,No,Ranelagh,Dublin 6,q3,80%
+10/02/2016,"1A Larch Grove, Sandford Rd, Ranelagh",Dublin,162500.0,No,Ranelagh,Dublin 6,q1,10%
+15/02/2016,"18 Annesley Park, Ranelagh, Dublin",Dublin,760000.0,No,Ranelagh,Dublin 6,q3,70%
+18/02/2016,"38 Millbrook Village, Milltown, Ranelagh",Dublin,385000.0,No,Ranelagh,Dublin 6,q1,30%
+23/02/2016,"1 Mountpleasant Place, Ranelagh, Dublin 6",Dublin,200000.0,No,Ranelagh,Dublin 6,q1,10%
+23/02/2016,"2 Mountpleasant Place, Ranelagh, Dublin 6",Dublin,180000.0,No,Ranelagh,Dublin 6,q1,10%
+26/02/2016,"16 Northbrook Rd, Ranelagh, Dublin 6",Dublin,3400000.0,No,Ranelagh,Dublin 6,q4,100%
+29/02/2016,"15 Cullenswood Gardens, Ranelagh, Dublin 6",Dublin,820000.0,No,Ranelagh,Dublin 6,q3,70%
+01/03/2016,"Apt 5 Ranelagh Court, 12 Ranelagh Rd, Ranelagh Dublin 6",Dublin,230000.0,No,Ranelagh,Dublin 6,q1,10%
+03/03/2016,"26B Oakley Rd, Ranelagh, Dublin 6",Dublin,650000.0,No,Ranelagh,Dublin 6,q3,60%
+04/03/2016,"14 Westmoreland Park, Ranelagh, Dublin 6",Dublin,733000.0,No,Ranelagh,Dublin 6,q3,70%
+08/03/2016,"4 Mount Pleasant, Ranelagh, Dublin 6",Dublin,585000.0,No,Ranelagh,Dublin 6,q2,50%
+23/03/2016,"40 Anna Villa, Apt 1, Ranelagh",Dublin,270000.0,No,Ranelagh,Dublin 6,q1,20%
+23/03/2016,"40 Anna Villa, Apt 2, Ranelagh",Dublin,270000.0,No,Ranelagh,Dublin 6,q1,20%
+23/03/2016,"40 Anna Villa, Apt 3, Ranelagh",Dublin,275000.0,No,Ranelagh,Dublin 6,q1,20%
+01/04/2016,"10 Sallymount Ave, Ranelagh, Dublin 6",Dublin,800000.0,No,Ranelagh,Dublin 6,q3,70%
+01/04/2016,"15 Beechwood Rd, Ranelagh, Dublin",Dublin,875000.0,No,Ranelagh,Dublin 6,q3,80%
+06/04/2016,"1 Beechwood Cottage, Beechwood Ave Lower, Ranelagh Dublin 6",Dublin,425000.0,No,Ranelagh,Dublin 6,q2,30%
+07/04/2016,"22 Beechwood Ave Lower, Ranelagh, Dublin 6",Dublin,840000.0,No,Ranelagh,Dublin 6,q3,80%
+11/04/2016,"26 Elmpark Ave, Ranelagh, Dublin 6",Dublin,495000.0,No,Ranelagh,Dublin 6,q2,40%
+14/04/2016,"29 Chelmsford Ave, Ranelagh, Dublin 6",Dublin,742000.0,No,Ranelagh,Dublin 6,q3,70%
+21/04/2016,"24 Killeen Rd, Ranelagh, Dublin 6",Dublin,935000.0,No,Ranelagh,Dublin 6,q4,80%
+25/04/2016,"7 Charleston Ave, Ranelagh, Dublin 6",Dublin,616168.0,No,Ranelagh,Dublin 6,q3,60%
+27/04/2016,"11 Athlumney Villas, Ranelagh, Dublin",Dublin,275000.0,No,Ranelagh,Dublin 6,q1,20%
+28/04/2016,"6 Charleston Court, Charleston Rd, Ranelagh Dublin 6",Dublin,285000.0,No,Ranelagh,Dublin 6,q1,20%
+05/05/2016,"56 Ranelagh Rd, Ranelagh, Dublin 6",Dublin,780000.0,No,Ranelagh,Dublin 6,q3,70%
+11/05/2016,"8 Cullenswood, Northbrook Ave, Ranelagh Dublin 6",Dublin,295000.0,No,Ranelagh,Dublin 6,q1,20%
+13/05/2016,"68 Sandford Rd, Ranelagh, Dublin 6",Dublin,1250000.0,No,Ranelagh,Dublin 6,q4,100%
+17/05/2016,"13 Annesley Park, Ranelagh, Dublin 6",Dublin,750000.0,No,Ranelagh,Dublin 6,q3,70%
+31/05/2016,"62 Sandford Rd, Ranelagh, Dublin 6",Dublin,710000.0,No,Ranelagh,Dublin 6,q3,60%
+03/06/2016,"Flat 1    21 Ranelagh Road, Ranelagh, Dublin 6",Dublin,800000.0,No,Ranelagh,Dublin 6,q3,70%
+08/06/2016,"2 Chester Gardens, Ranelagh, Dublin 6",Dublin,730000.0,No,Ranelagh,Dublin 6,q3,70%
+09/06/2016,"24 Belgrave Court, Mountpleasant Ave Lower, Ranelagh Dublin 6",Dublin,303000.0,No,Ranelagh,Dublin 6,q1,20%
+17/06/2016,"5 Manders Terrace, Ranelagh, Dublin 6",Dublin,1300000.0,No,Ranelagh,Dublin 6,q4,100%
+28/06/2016,"29 Ranelagh Rd, Dublin 6",Dublin,1350000.0,No,Ranelagh,Dublin 6,q4,100%
+28/06/2016,"8 Dexter Terrace, Northbrook Rd, Ranelagh",Dublin,475000.0,No,Ranelagh,Dublin 6,q2,40%
+29/06/2016,"37 Charleston Rd, Ranelagh, Dublin 6",Dublin,675000.0,No,Ranelagh,Dublin 6,q3,60%
+29/06/2016,"45 Sandford Terrace, Ranelagh, Dublin 6",Dublin,4500000.0,No,Ranelagh,Dublin 6,q4,100%
+30/06/2016,"36 Mitchell House, The Appian Way, Ranelagh Dublin 6",Dublin,203500.0,No,Ranelagh,Dublin 6,q1,10%
+30/06/2016,"47 Cherryfield Ave Lower, Ranelagh, Dublin 6",Dublin,630000.0,No,Ranelagh,Dublin 6,q3,60%
+01/07/2016,"2 Chelmsford Mews, Chelmsford Lane, Ranelagh",Dublin,610000.0,No,Ranelagh,Dublin 6,q2,50%
+08/07/2016,"20 Moyne Rd, Ranelagh, Dublin 6",Dublin,995000.0,No,Ranelagh,Dublin 6,q4,90%
+08/07/2016,"63 Dartmouth Square, Ranelagh, Dublin 6",Dublin,1920000.0,No,Ranelagh,Dublin 6,q4,100%
+11/07/2016,"90 Merton Dr, Ranelagh, Dublin 6",Dublin,390000.0,No,Ranelagh,Dublin 6,q2,30%
+12/07/2016,"2 Belgrave Court, Ranelagh, Dublin 6",Dublin,98600.0,No,Ranelagh,Dublin 6,q1,10%
+18/07/2016,"10 Sandford Rd, Ranelagh, Dublin 6",Dublin,1305000.0,No,Ranelagh,Dublin 6,q4,100%
+18/07/2016,"55 Beechwood Ave Upper, Ranelagh, Dublin 6",Dublin,1005000.0,No,Ranelagh,Dublin 6,q4,90%
+19/07/2016,"61 Upper Beechwood Ave, Ranelagh, Dublin 6",Dublin,975000.0,No,Ranelagh,Dublin 6,q4,90%
+29/07/2016,"Basement Flat, 32 Dartmouth Square, Ranelagh",Dublin,367047.0,No,Ranelagh,Dublin 6,q1,30%
+03/08/2016,"36 Mountpleasant Terrace, Ranelagh, Dublin 6",Dublin,455000.0,No,Ranelagh,Dublin 6,q2,40%
+04/08/2016,"5 Leeson Mews, Northbrook Lane, Ranelagh Dublin 6",Dublin,855000.0,No,Ranelagh,Dublin 6,q3,80%
+12/08/2016,"30 Annesley Park, Ranelagh, Dublin 6",Dublin,930000.0,No,Ranelagh,Dublin 6,q4,80%
+16/08/2016,"37 Elmwood Ave Upper, Ranelagh, Dublin 6",Dublin,505000.0,No,Ranelagh,Dublin 6,q2,40%
+19/08/2016,"2 Chelmsford Rd, Ranelagh, Dublin 6",Dublin,880000.0,No,Ranelagh,Dublin 6,q3,80%
+22/08/2016,"7 Cambridge Terrace, Ranelagh, Dublin 6",Dublin,1650000.0,No,Ranelagh,Dublin 6,q4,100%
+31/08/2016,"13 Mountain View Rd, Ranelagh, Dublin 6",Dublin,1040000.0,No,Ranelagh,Dublin 6,q4,90%
+01/09/2016,"44 Warners Lane, Ranelagh, Dublin 6",Dublin,915000.0,No,Ranelagh,Dublin 6,q4,80%
+02/09/2016,"5 Charleston Ave, Ranelagh, Dublin 6",Dublin,810000.0,No,Ranelagh,Dublin 6,q3,70%
+09/09/2016,"8 Ashfield Rd, Ranelagh, Dublin 6",Dublin,880000.0,No,Ranelagh,Dublin 6,q3,80%
+12/09/2016,"12 Chelmsford Rd, Ranelagh, Dublin 6",Dublin,720000.0,No,Ranelagh,Dublin 6,q3,70%
+12/09/2016,"39 Ashfield Rd, Ranelagh, Dublin 6",Dublin,810000.0,No,Ranelagh,Dublin 6,q3,70%
+14/09/2016,"2 Morans Cottages, Charleston Rd, Ranelagh Dublin 6",Dublin,421750.0,No,Ranelagh,Dublin 6,q2,30%
+16/09/2016,"16 Edenvale Rd, Ranelagh, Dublin 6",Dublin,856500.0,No,Ranelagh,Dublin 6,q3,80%
+16/09/2016,"26 Upper Mount Pleasant Ave, Ranelagh, Dublin 6",Dublin,890000.0,No,Ranelagh,Dublin 6,q3,80%
+16/09/2016,"35 Dartmouth Walk, Ranelagh, Dublin 6",Dublin,727500.0,No,Ranelagh,Dublin 6,q3,70%
+21/09/2016,"7 Norwood Park, Ranelagh, Dublin 6",Dublin,757000.0,No,Ranelagh,Dublin 6,q3,70%
+22/09/2016,"44 Sandford Rd, Ranelagh, Dublin 6",Dublin,1042000.0,No,Ranelagh,Dublin 6,q4,90%
+23/09/2016,"76 Moyne Rd, Ranelagh, Dublin 6",Dublin,1060000.0,No,Ranelagh,Dublin 6,q4,90%
+26/09/2016,"26 Chelmsford Ave, Ranelagh, Dublin",Dublin,535000.0,No,Ranelagh,Dublin 6,q2,50%
+29/09/2016,"18 Tudor Rd, Ranelagh, Dublin 6",Dublin,640000.0,No,Ranelagh,Dublin 6,q3,60%
+03/10/2016,"47 Leeson Park, Ranelagh, Dublin 6",Dublin,1700000.0,No,Ranelagh,Dublin 6,q4,100%
+12/10/2016,"Apt 1, 17 Ashfield Rd, Ranelagh Dublin 6",Dublin,750000.0,No,Ranelagh,Dublin 6,q3,70%
+13/10/2016,"24 Athlumney Villas, Ranelagh, Dublin 6",Dublin,400000.0,No,Ranelagh,Dublin 6,q2,30%
+14/10/2016,"10 Edenvale Rd, Ranelagh, Dublin 6",Dublin,915000.0,No,Ranelagh,Dublin 6,q4,80%
+18/10/2016,"14 The Orchard, Cherryfield Ave Upper, Ranelagh Dublin 6",Dublin,800000.0,No,Ranelagh,Dublin 6,q3,70%
+20/10/2016,"20 Colliers Ave, Ranelagh, Dublin",Dublin,325000.0,No,Ranelagh,Dublin 6,q1,20%
+21/10/2016,"89 Lower Beechmount Ave, Ranelagh, Dublin 6",Dublin,657500.0,No,Ranelagh,Dublin 6,q3,60%
+26/10/2016,"10 Crosbie House, Northbrook Park, Ranelagh Dublin 6",Dublin,325000.0,No,Ranelagh,Dublin 6,q1,20%
+26/10/2016,"23 Cherryfield Ave Lower, Ranelagh, Dublin 6",Dublin,675000.0,No,Ranelagh,Dublin 6,q3,60%
+28/10/2016,"26 Oakley Sq, Ranelagh, Dublin 6",Dublin,565000.0,No,Ranelagh,Dublin 6,q2,50%
+01/11/2016,"1 Sandford Court 28 Sandford Rd, Ranelagh, Dublin 6",Dublin,210000.0,No,Ranelagh,Dublin 6,q1,10%
+01/11/2016,"72 Ranelagh Rd, Ranelagh, Dublin 6",Dublin,1240000.0,No,Ranelagh,Dublin 6,q4,90%
+02/11/2016,"86 Ranelagh Rd, Ranelagh, Dublin 6",Dublin,950000.0,No,Ranelagh,Dublin 6,q4,80%
+08/11/2016,"30 Elmwood Avenue, Ranelagh, Dublin 6",Dublin,541555.0,No,Ranelagh,Dublin 6,q2,50%
+24/11/2016,"101 Marlborough Road, Ranelagh, Dublin 6",Dublin,1080000.0,No,Ranelagh,Dublin 6,q4,90%
+25/11/2016,"20A Beechwood Ave Lower, Ranelagh, Dublin",Dublin,1010000.0,No,Ranelagh,Dublin 6,q4,90%
+25/11/2016,"Apartment 1, 19 Charleston Road, Ranelagh",Dublin,1050000.0,No,Ranelagh,Dublin 6,q4,90%
+25/11/2016,"Apartment 1, 20 Charleston Road, Ranelagh",Dublin,1050000.0,No,Ranelagh,Dublin 6,q4,90%
+29/11/2016,"64 Ranelagh Rd, Dublin 6, Dublin",Dublin,1685000.0,No,Ranelagh,Dublin 6,q4,100%
+01/12/2016,"45 Warners Lane, Ranelagh, Dublin 6",Dublin,910000.0,No,Ranelagh,Dublin 6,q4,80%
+01/12/2016,"8 Elmwood Ave, Ranelagh, Dublin 6",Dublin,725000.0,No,Ranelagh,Dublin 6,q3,70%
+01/12/2016,"8 Westmoreland Park, Ranelagh, Dublin 6",Dublin,425000.0,No,Ranelagh,Dublin 6,q2,30%
+05/12/2016,"22 Oakley Court, Oakley Rd, Ranelagh Dublin 6",Dublin,300000.0,No,Ranelagh,Dublin 6,q1,20%
+06/12/2016,"19 Cullenswood, Nothbrook Ave, Ranelagh Dublin 6",Dublin,232000.0,No,Ranelagh,Dublin 6,q1,10%
+07/12/2016,"1 Larch Grove, Sandford Rd, Ranelagh Dublin 6",Dublin,565000.0,No,Ranelagh,Dublin 6,q2,50%
+08/12/2016,"The Mews House, Mount Pleasant Place, Ranelagh",Dublin,292500.0,No,Ranelagh,Dublin 6,q1,20%
+09/12/2016,"10 Rugby Villas, Ranelagh, Dublin 6",Dublin,412000.0,No,Ranelagh,Dublin 6,q2,30%
+12/12/2016,"35 Courtney House, Appian Way, Ranelagh Dublin 6",Dublin,275000.0,No,Ranelagh,Dublin 6,q1,20%
+13/12/2016,"38 Willbrook House, Northbrook Ave, Ranelagh Dublin 6",Dublin,200000.0,No,Ranelagh,Dublin 6,q1,10%
+15/12/2016,"58 Dartmouth Sq, Ranelagh, Dublin 6",Dublin,1617000.0,No,Ranelagh,Dublin 6,q4,100%
+16/12/2016,"37 Lower Mountpleasant Ave, Ranelagh, Dublin 6",Dublin,950000.0,No,Ranelagh,Dublin 6,q4,80%
+16/12/2016,"55 Moyne Rd, Ranelagh, Dublin",Dublin,1070000.0,No,Ranelagh,Dublin 6,q4,90%
+19/12/2016,"44 Mountpleasant Terrace, Ranelagh, Dublin 6",Dublin,395000.0,No,Ranelagh,Dublin 6,q2,30%
+19/12/2016,"87 Ranelagh Rd, Ranelagh, Dublin 6",Dublin,1100000.0,No,Ranelagh,Dublin 6,q4,90%
+20/12/2016,"1 Morans Cottages, Charleston Rd, Ranelagh Dublin 6",Dublin,430000.0,No,Ranelagh,Dublin 6,q2,40%
+20/12/2016,"65 Ranelagh Rd, Apt 1-8, Dublin 8",Dublin,720000.0,No,Ranelagh,Dublin 6,q3,70%
+26/01/2017,"47 Lwr Beechwood Ave, Ranelagh, Dublin 6",Dublin,1130000.0,No,Ranelagh,Dublin 6,q4,90%
+27/01/2017,"66 Beechwood Ave Upper, Ranelagh, Dublin 6",Dublin,1275000.0,No,Ranelagh,Dublin 6,q4,100%
+31/01/2017,"54 Mount Pleasant Sq, Ranelagh, Dublin",Dublin,905000.0,No,Ranelagh,Dublin 6,q3,80%
+06/02/2017,"5 Hollybank Ave Lower, Ranelagh, Dublin 6",Dublin,780000.0,No,Ranelagh,Dublin 6,q3,70%
+07/02/2017,"22 Moyne Rd, Ranelagh, Dublin 6",Dublin,950000.0,No,Ranelagh,Dublin 6,q4,80%
+10/02/2017,"1 Mount Pleasant Villas, Ranelagh, Dublin 6",Dublin,437000.0,No,Ranelagh,Dublin 6,q2,40%
+13/02/2017,"10 Sallymount Ave, Ranelagh, Dublin 6",Dublin,760000.0,No,Ranelagh,Dublin 6,q3,70%
+13/02/2017,"34 Albany Rd, Ranelagh, Dublin 6",Dublin,790000.0,No,Ranelagh,Dublin 6,q3,70%
+24/02/2017,"48 Beechwood Ave, Ranelagh, Dublin 6",Dublin,720000.0,No,Ranelagh,Dublin 6,q3,70%
+27/02/2017,"3 Chelmsford Ave, Ranelagh, Dublin 6",Dublin,725000.0,No,Ranelagh,Dublin 6,q3,70%
+27/02/2017,"66 Sandford Rd, Ranelagh, Dublin",Dublin,1000000.0,No,Ranelagh,Dublin 6,q4,90%
+28/02/2017,"97 Ranelagh Rd, Ranelagh, Dublin 6",Dublin,220000.0,No,Ranelagh,Dublin 6,q1,10%
+02/03/2017,"74 Northbrook Ave, Ranelagh, Dublin 6",Dublin,915000.0,No,Ranelagh,Dublin 6,q4,80%
+07/03/2017,"61 Edenvale Rd, Ranelagh, Dublin 6",Dublin,985000.0,No,Ranelagh,Dublin 6,q4,90%
+09/03/2017,"Apt 3, 53 Mountpleasant Avenue Lower, Ranelagh",Dublin,620000.0,No,Ranelagh,Dublin 6,q3,60%
+16/03/2017,"2 Cullenswood Gardens, Ranelagh, Dublin 6",Dublin,965000.0,No,Ranelagh,Dublin 6,q4,80%
+16/03/2017,"4 Orchard Lane, Rear 56 Ranelagh Rd, Ranelagh Dublin 6",Dublin,550000.0,No,Ranelagh,Dublin 6,q2,50%
+16/03/2017,"75 Ashfield Rd (Ground Floor Flat), Ranelagh, Dublin 6",Dublin,825000.0,No,Ranelagh,Dublin 6,q3,80%
+21/03/2017,"15 Anna Villa, Ranelagh, Dublin 6",Dublin,827000.0,No,Ranelagh,Dublin 6,q3,80%
+29/03/2017,"17 Mount Pleasant Place, Ranelagh, Dublin 6",Dublin,320000.0,No,Ranelagh,Dublin 6,q1,20%
+31/03/2017,"1 Killeen Rd, Ranelagh, Dublin 6",Dublin,800000.0,No,Ranelagh,Dublin 6,q3,70%
+06/04/2017,"11 Hollybank Ave Lower, Ranelagh, Dublin 6",Dublin,750000.0,No,Ranelagh,Dublin 6,q3,70%
+27/04/2017,"74 Moyne Rd, Ranelagh, Dublin 6",Dublin,1295000.0,No,Ranelagh,Dublin 6,q4,100%
+02/05/2017,"2 The Orchard, Cherryfield Ave Upper, Ranelagh Dublin 6",Dublin,500000.0,No,Ranelagh,Dublin 6,q2,40%
+04/05/2017,"26A Merton Dr, Ranelagh, Dublin 6",Dublin,957000.0,No,Ranelagh,Dublin 6,q4,80%
+11/05/2017,"12 Merton Drive, Ranelagh, Dublin 6",Dublin,890000.0,No,Ranelagh,Dublin 6,q3,80%
+18/05/2017,"39 Ashfield Rd, Ranelagh, Dublin 6",Dublin,1052000.0,No,Ranelagh,Dublin 6,q4,90%
+19/05/2017,"22 Northbrook Rd, Ranelagh, Dublin 6",Dublin,2800000.0,No,Ranelagh,Dublin 6,q4,100%
+19/05/2017,"Apt 1 Silverton, 132 Ranelagh Village, Dublin 6",Dublin,290000.0,No,Ranelagh,Dublin 6,q1,20%
+22/05/2017,"34 Merton Dr, Ranelagh, Dublin City",Dublin,1140000.0,No,Ranelagh,Dublin 6,q4,90%
+22/05/2017,"The Mews Rere Of 31, Mountpleasant Sq, Ranelagh Dublin 6",Dublin,770000.0,No,Ranelagh,Dublin 6,q3,70%
+23/05/2017,"5 Colliers Ave, Ranelagh, Dublin 6",Dublin,365000.0,No,Ranelagh,Dublin 6,q1,30%
+01/06/2017,"58 Northbrook Ave, Ranelagh, Dublin 6",Dublin,396000.0,No,Ranelagh,Dublin 6,q2,30%
+02/06/2017,"28 Cherryfield Ave Lower, Ranelagh, Dublin 6",Dublin,740000.0,No,Ranelagh,Dublin 6,q3,70%
+08/06/2017,"3 Alma Court, Ranelagh, Dublin 6",Dublin,540000.0,No,Ranelagh,Dublin 6,q2,50%
+12/06/2017,"4 The Courtyard, Hollybank Ave Lower, Ranelagh Dublin 6",Dublin,720000.0,No,Ranelagh,Dublin 6,q3,70%
+14/06/2017,"2 Merton Dr, Ranelagh, Dublin 6",Dublin,969000.0,No,Ranelagh,Dublin 6,q4,80%
+16/06/2017,"60 Annavilla, Ranelagh, Dublin 6",Dublin,480000.0,No,Ranelagh,Dublin 6,q2,40%
+23/06/2017,"1 Charleston Mews, Mountpleasant Ave Upper, Ranelagh",Dublin,386000.0,No,Ranelagh,Dublin 6,q1,30%
+27/06/2017,"14 Park Dr, Ranelagh, Dublin 6",Dublin,990000.0,No,Ranelagh,Dublin 6,q4,90%
+06/07/2017,"20 Beechwood Ave Lower, Ranelagh, Dublin 6",Dublin,1200000.0,No,Ranelagh,Dublin 6,q4,90%
+12/07/2017,"9 Cullenswood House, Northbrook Ave, Ranelagh Dublin 6",Dublin,348000.0,No,Ranelagh,Dublin 6,q1,20%
+18/07/2017,"79 Ranelagh Road, Ranelagh, Dublin",Dublin,1265000.0,No,Ranelagh,Dublin 6,q4,100%
+20/07/2017,"70 Beechwood Ave Upper, Ranelagh, Dublin 6",Dublin,810000.0,No,Ranelagh,Dublin 6,q3,70%
+21/07/2017,"6 Merton Dr, Ranelagh, Dublin 6",Dublin,900000.0,No,Ranelagh,Dublin 6,q3,80%
+21/07/2017,"Lpt: 1373572Sh 1373592Bh 1373609Ph, 1 Moyne Rd, Ranelagh Dublin 6",Dublin,675000.0,No,Ranelagh,Dublin 6,q3,60%
+26/07/2017,"29 Mountain View Rd, Ranelagh, Dublin 6",Dublin,1300000.0,No,Ranelagh,Dublin 6,q4,100%
+27/07/2017,"7 The Orchard, Cherryfield Ave Upper, Ranelagh",Dublin,735000.0,No,Ranelagh,Dublin 6,q3,70%
+03/08/2017,"46 Berystede, Leeson Park, Ranelagh",Dublin,630000.0,No,Ranelagh,Dublin 6,q3,60%
+08/08/2017,"54 Beechwood Ave Upper, Ranelagh, Dublin 6",Dublin,850000.0,No,Ranelagh,Dublin 6,q3,80%
+10/08/2017,"28 Chelmsford Road, Ranelagh, Dublin 6",Dublin,1300000.0,No,Ranelagh,Dublin 6,q4,100%
+10/08/2017,"4 Colliers Ave, Ranelagh, Dublin",Dublin,580000.0,No,Ranelagh,Dublin 6,q2,50%
+17/08/2017,"24 Mornington Road, Ranelagh, Dublin 6",Dublin,600000.0,No,Ranelagh,Dublin 6,q2,50%
+18/08/2017,"29 Leeson Park Ave, Ranelagh, Dublin 6",Dublin,1110000.0,No,Ranelagh,Dublin 6,q4,90%
+21/08/2017,"30 Ranelagh Rd, Ranelagh, Dublin 6",Dublin,655000.0,No,Ranelagh,Dublin 6,q3,60%
+23/08/2017,"7 Lower Elmwood Ave, Ranelagh, Dublin 6",Dublin,800000.0,No,Ranelagh,Dublin 6,q3,70%
+23/08/2017,"Apt 1 138, Sandford Rd, Ranelagh Dublin 6",Dublin,2600000.0,No,Ranelagh,Dublin 6,q4,100%
+25/08/2017,"11 Mountpleasant Ave Upper, Ranelagh, Dublin 6",Dublin,1100000.0,No,Ranelagh,Dublin 6,q4,90%
+25/08/2017,"14 Dunville Ave, Ranelagh, Dublin 6",Dublin,985000.0,No,Ranelagh,Dublin 6,q4,90%
+25/08/2017,"19 Ashbrook House, Sallymount Terrace, Ranelagh Dublin 6",Dublin,363000.0,No,Ranelagh,Dublin 6,q1,30%
+28/08/2017,"38A Lr Beechwood Ave, Ranelagh, Dublin 6",Dublin,515000.0,No,Ranelagh,Dublin 6,q2,40%
+28/08/2017,"55 Northbrook Ave, Northbrook Rd, Ranelagh",Dublin,655000.0,No,Ranelagh,Dublin 6,q3,60%
+31/08/2017,"11 Moyne Rd, Ranelagh, Dublin 6",Dublin,1005000.0,No,Ranelagh,Dublin 6,q4,90%
+31/08/2017,"43 Lower Cherryfield Ave, Ranelagh, Dublin 6",Dublin,650000.0,No,Ranelagh,Dublin 6,q3,60%
+01/09/2017,"37 Killeen Rd, Ranelagh, Dublin 6",Dublin,982000.0,No,Ranelagh,Dublin 6,q4,90%
+04/09/2017,"19 Westmoreland Park, Ranelagh, Dublin 6",Dublin,490000.0,No,Ranelagh,Dublin 6,q2,40%
+05/09/2017,"3 Oxford Rd, Ranelagh, Dublin 6",Dublin,1070000.0,No,Ranelagh,Dublin 6,q4,90%
+08/09/2017,"55 Mountain View Rd, Ranelagh, Dublin 6",Dublin,1100000.0,No,Ranelagh,Dublin 6,q4,90%
+08/09/2017,"60 Northbrook Ave, Ranelagh, Dublin 6",Dublin,680000.0,No,Ranelagh,Dublin 6,q3,60%
+08/09/2017,"8 Colliers Ave, Ranelagh, Dublin 6",Dublin,304000.0,No,Ranelagh,Dublin 6,q1,20%
+11/09/2017,"10 Northbrook Walk, Ranelagh, Dublin 6",Dublin,750000.0,No,Ranelagh,Dublin 6,q3,70%
+13/09/2017,"3 Dexter Terrace, Northbrook Rd, Ranelagh Dublin 6",Dublin,347500.0,No,Ranelagh,Dublin 6,q1,20%
+13/09/2017,"9 Moyne Rd, Ranelagh, Dublin 6",Dublin,792500.0,No,Ranelagh,Dublin 6,q3,70%
+15/09/2017,"29 Killeen Rd, Ranelagh, Dublin 6",Dublin,950000.0,No,Ranelagh,Dublin 6,q4,80%
+18/09/2017,"8 Beechwood Ave Lower, Ranelagh, Dublin 6",Dublin,1000000.0,No,Ranelagh,Dublin 6,q4,90%
+21/09/2017,"45 Edenvale Rd, Ranelagh, Dublin 6",Dublin,1000000.0,No,Ranelagh,Dublin 6,q4,90%
+22/09/2017,"52 Charleston Rd, Ranelagh, Dublin 6",Dublin,1290000.0,No,Ranelagh,Dublin 6,q4,100%
+25/09/2017,"59 Ranelagh, Ranelagh",Dublin,250000.0,No,Ranelagh,Dublin 6,q1,20%
+25/09/2017,"72 Northbrook Ave, Ranelagh, Dublin 6",Dublin,400000.0,No,Ranelagh,Dublin 6,q2,30%
+28/09/2017,"31 Dunville Avenue, Ranelagh, Dublin 6",Dublin,1210000.0,No,Ranelagh,Dublin 6,q4,90%
+02/10/2017,"23 Gullisten Terrace, Mount Pleasant, Ranelagh Dublin 6",Dublin,639000.0,No,Ranelagh,Dublin 6,q3,60%
+04/10/2017,"38 Dexter Terrace, Northbrook Rd, Ranelagh",Dublin,385000.0,No,Ranelagh,Dublin 6,q1,30%
+04/10/2017,"4 Chelmsford Close, Ranelagh, Dublin 6",Dublin,590000.0,No,Ranelagh,Dublin 6,q2,50%
+04/10/2017,"7 Colliers Ave, Ranelagh, Dublin",Dublin,450000.0,No,Ranelagh,Dublin 6,q2,40%
+09/10/2017,"34 Edenvale Rd, Ranelagh, Dublin 6",Dublin,1350000.0,No,Ranelagh,Dublin 6,q4,100%
+09/10/2017,"41 Mornington Rd, Ranelagh, Dublin 6",Dublin,824500.0,No,Ranelagh,Dublin 6,q3,70%
+11/10/2017,"2 Beechwood Park, Ranelagh, Dublin 6",Dublin,840000.0,No,Ranelagh,Dublin 6,q3,80%
+11/10/2017,"5 Mount Pleasant Sq, Ranelagh, Dublin 6",Dublin,950000.0,No,Ranelagh,Dublin 6,q4,80%
+18/10/2017,"32 Mornington Rd, Ranelagh, Dublin 6",Dublin,665000.0,No,Ranelagh,Dublin 6,q3,60%
+18/10/2017,"35 Edenvale Rd, Ranelagh, Dublin 6",Dublin,950000.0,No,Ranelagh,Dublin 6,q4,80%
+20/10/2017,"23 Elmwood Ave Upper, Ranelagh, Dublin 6",Dublin,542000.0,No,Ranelagh,Dublin 6,q2,50%
+25/10/2017,"33 Dexter Terrace, Northbrook Rd, Ranelagh Dublin 6",Dublin,571000.0,No,Ranelagh,Dublin 6,q2,50%
+26/10/2017,"22 Crosbie House, Northbrook Ave, Ranelagh",Dublin,285000.0,No,Ranelagh,Dublin 6,q1,20%
+27/10/2017,"15B Berystede, Leeson, Ranelagh Dublin 6",Dublin,750000.0,No,Ranelagh,Dublin 6,q3,70%
+27/10/2017,"2 Northbrook Villas, Northbrook Rd, Ranelagh Dublin 6",Dublin,770000.0,No,Ranelagh,Dublin 6,q3,70%
+27/10/2017,"43 Dartmouth Sq, Ranelagh, Dublin 6",Dublin,1565000.0,No,Ranelagh,Dublin 6,q4,100%
+31/10/2017,"4 Lower Beechwood Avenue, Ranelagh, Dublin 6",Dublin,745000.0,No,Ranelagh,Dublin 6,q3,70%
+10/11/2017,"4 Northbrook Villas, Ranelagh, Dublin 6",Dublin,495000.0,No,Ranelagh,Dublin 6,q2,40%
+17/11/2017,"18 Leeson Park, Ranelagh, Dublin 6",Dublin,2750000.0,No,Ranelagh,Dublin 6,q4,100%
+17/11/2017,"4 Hollybank Ave Lower, Ranelagh, Dublin 6",Dublin,915000.0,No,Ranelagh,Dublin 6,q4,80%
+23/11/2017,"45 Annavilla, Ranelagh, Dublin 6",Dublin,950000.0,No,Ranelagh,Dublin 6,q4,80%
+24/11/2017,"19 Mount Pleasant Place, Ranelagh, Dublin 6",Dublin,145000.0,No,Ranelagh,Dublin 6,q1,10%
+24/11/2017,"24 Northbrook Road, Ranelagh, Dublin 6",Dublin,2355000.0,No,Ranelagh,Dublin 6,q4,100%
+28/11/2017,"25A Oakley Rd, Ranelagh, Dublin 6",Dublin,887500.0,No,Ranelagh,Dublin 6,q3,80%
+29/11/2017,"3 St Annes, Northbrook Rd, Ranelagh Dublin 6",Dublin,550000.0,No,Ranelagh,Dublin 6,q2,50%
+29/11/2017,"49 Oakley Rd, Ranelagh, Dublin 6",Dublin,2075000.0,No,Ranelagh,Dublin 6,q4,100%
+30/11/2017,"32 Rugby Rd, Ranelagh, Dublin 6",Dublin,595000.0,No,Ranelagh,Dublin 6,q2,50%
+04/12/2017,"49 Upper Mountpleasant Ave, Ranelagh, Dublin 6",Dublin,840000.0,No,Ranelagh,Dublin 6,q3,80%
+06/12/2017,"4 Sallymount Avenue, Ranelagh, Dublin 6",Dublin,860000.0,No,Ranelagh,Dublin 6,q3,80%
+21/12/2017,"Apt 1 Ranelagh House, Ranelagh, Dublin 6",Dublin,208000.0,No,Ranelagh,Dublin 6,q1,10%
+21/12/2017,"Apt 3 Ranelagh House, 1 Ranelagh Avenue, Dublin 6",Dublin,208500.0,No,Ranelagh,Dublin 6,q1,10%
+21/12/2017,"Apt. 2 Ranelagh House, 1 Ranelagh Avenue, Dublin 6",Dublin,208500.0,No,Ranelagh,Dublin 6,q1,10%
+22/12/2017,"65 Ranelagh Rd, Apt 1-8, Dublin 8",Dublin,240000.0,No,Ranelagh,Dublin 6,q1,20%
+22/12/2017,"65 Ranelagh Rd, Apt 1-8, Dublin 8",Dublin,240000.0,No,Ranelagh,Dublin 6,q1,20%
+09/01/2018,"7 Ashfield Road, Ranelagh, Dublin 6",Dublin,1110000.0,No,Ranelagh,Dublin 6,q4,90%
+10/01/2018,"50 Cullenswood Apts, Northbrook Ave, Ranelagh Dublin 6",Dublin,150000.0,No,Ranelagh,Dublin 6,q1,10%
+10/01/2018,"52 Cullenswood House, Northbrook Ave, Ranelagh Dublin 6",Dublin,150000.0,No,Ranelagh,Dublin 6,q1,10%
+22/01/2018,"4 Beechwood Rd, Ranelagh, Dublin 6",Dublin,2000000.0,No,Ranelagh,Dublin 6,q4,100%
+26/01/2018,"Apt 1 And 2, 18 Cherryfeild Ave, Ranelagh Dublin 6",Dublin,685000.0,No,Ranelagh,Dublin 6,q3,60%
+15/02/2018,"24 Leeson Park, Ranelagh, Dublin 6",Dublin,3050000.0,No,Ranelagh,Dublin 6,q4,100%
+15/02/2018,"75 Ashfield Rd (Ground Floor Flat), Ranelagh, Dublin 6",Dublin,515000.0,No,Ranelagh,Dublin 6,q2,40%
+21/02/2018,"43 Northbrook Ave, Ranelagh, Dublin 6",Dublin,732500.0,No,Ranelagh,Dublin 6,q3,70%
+22/02/2018,"13 Upper Cherryfield Ave, Ranelagh, Dublin 6",Dublin,840000.0,No,Ranelagh,Dublin 6,q3,80%
+22/02/2018,"22 Upper Beechwood Ave, Ranelagh, Dublin 6",Dublin,850000.0,No,Ranelagh,Dublin 6,q3,80%
+23/02/2018,"47 Merton Dr, Ranelagh, Dublin 6",Dublin,945000.0,No,Ranelagh,Dublin 6,q4,80%
+23/02/2018,"Apt 6 Sherbourne Court, 17 18 Charleston Rd, Ranelagh Dublin 6",Dublin,215000.0,No,Ranelagh,Dublin 6,q1,10%
+26/02/2018,"13 Mountpleasant Terrace, Ranelagh, Dublin 6",Dublin,630000.0,No,Ranelagh,Dublin 6,q3,60%
+28/02/2018,"11 Lower Elmwood Ave, Ranelagh, Dublin 6",Dublin,840000.0,No,Ranelagh,Dublin 6,q3,80%
+12/03/2018,"110 Sandford Rd, Ranelagh, Dublin 6",Dublin,925000.0,No,Ranelagh,Dublin 6,q4,80%
+13/03/2018,"27 Athlumney Villas, Ranelagh, Dublin",Dublin,400000.0,No,Ranelagh,Dublin 6,q2,30%
+16/03/2018,"41 Mountpleasant Ave, Ranelagh, Dublin 6",Dublin,830088.0,No,Ranelagh,Dublin 6,q3,80%
+30/03/2018,"Apt 8, 51 Ranelagh Rd, Ranelagh Dublin 6",Dublin,447895.0,No,Ranelagh,Dublin 6,q2,40%
+20/04/2018,"25 Park View, Northbrook Ave, Ranelagh Dublin 6",Dublin,328000.0,No,Ranelagh,Dublin 6,q1,20%
+20/04/2018,"Apt 410 Ranelagh Rd, Dublin",Dublin,295000.0,No,Ranelagh,Dublin 6,q1,20%
+24/04/2018,"26 Mount Pleasant Sq, Ranelagh, Dublin 6",Dublin,1499023.0,No,Ranelagh,Dublin 6,q4,100%
+25/04/2018,"50 Cullenswood Apts, Northbrook Ave, Ranelagh Dublin 6",Dublin,380000.0,No,Ranelagh,Dublin 6,q1,30%
+26/04/2018,"52 Mountpleasant Ave, Ranelagh, Dublin 6",Dublin,5250.0,No,Ranelagh,Dublin 6,q1,10%
+03/05/2018,"21A Ranelagh Ave, Ranelagh, Dublin 6",Dublin,350000.0,No,Ranelagh,Dublin 6,q1,30%
+04/05/2018,"2 Clifton Mews, Ranelagh, Dublin 6",Dublin,700000.0,No,Ranelagh,Dublin 6,q3,60%
+04/05/2018,"7 Walkers Court, Mountpleasant Place, Ranelagh Dublin 6",Dublin,505000.0,No,Ranelagh,Dublin 6,q2,40%
+11/05/2018,"3 Leeson Park Way, Chelmsford Road, Ranelagh",Dublin,660000.0,No,Ranelagh,Dublin 6,q3,60%
+11/05/2018,"30 Lower Mount Pleasant Ave, Ranelagh, Dublin 6",Dublin,610000.0,No,Ranelagh,Dublin 6,q2,50%
+21/05/2018,"1A Northbrook Rd, Ranelagh, Dublin 6",Dublin,700000.0,No,Ranelagh,Dublin 6,q3,60%
+23/05/2018,"8 Chelmsford Rd, Ranelagh, Dublin 6",Dublin,725000.0,No,Ranelagh,Dublin 6,q3,70%
+25/05/2018,"11 Dunville Avenue, Ranelagh, Dublin 6",Dublin,1050000.0,No,Ranelagh,Dublin 6,q4,90%
+25/05/2018,"4 Oxford Lane, Ranelagh, Dublin 6",Dublin,365000.0,No,Ranelagh,Dublin 6,q1,30%
+25/05/2018,"6 Old Mt Pleasant, Ranelagh, Dublin 6",Dublin,910000.0,No,Ranelagh,Dublin 6,q4,80%
+08/06/2018,"13 Oakley Court, Oakley Rd, Ranelagh Dublin 6",Dublin,384000.0,No,Ranelagh,Dublin 6,q1,30%
+11/06/2018,"9 Mount Pleasant Terrace, Ranelagh, Dublin 6",Dublin,550000.0,No,Ranelagh,Dublin 6,q2,50%
+20/06/2018,"1 Beechwood Cottage, Beechwood Ave Lower, Ranelagh Dublin 6",Dublin,490000.0,No,Ranelagh,Dublin 6,q2,40%
+22/06/2018,"3 Upper Mountpleasant Avenue, Ranelagh, Dublin 6",Dublin,535000.0,No,Ranelagh,Dublin 6,q2,50%
+22/06/2018,"4 Dartmouth Sq West, Ranelagh, Dublin",Dublin,1750000.0,No,Ranelagh,Dublin 6,q4,100%
+22/06/2018,"56 Beechwood Ave Lower, Ranelagh, Dublin 6",Dublin,1255000.0,No,Ranelagh,Dublin 6,q4,100%
+22/06/2018,"76 Northbrook Ave, Ranelagh, Dublin 6",Dublin,630000.0,No,Ranelagh,Dublin 6,q3,60%
+25/06/2018,"5 Oxford Rd, Ranelagh, Dublin 6",Dublin,1100000.0,No,Ranelagh,Dublin 6,q4,90%
+25/06/2018,"8 Cullenswood Gardens, Ranelagh, Dublin 6",Dublin,1250000.0,No,Ranelagh,Dublin 6,q4,100%
+25/06/2018,"9 The Courtyard, Hollybank Ave, Ranelagh Dublin 6",Dublin,640000.0,No,Ranelagh,Dublin 6,q3,60%
+28/06/2018,"23 Park View, Northbrook Ave, Ranelagh Dublin 6",Dublin,377500.0,No,Ranelagh,Dublin 6,q1,30%
+05/07/2018,"34 Dexter Terrace, Northbrook Rd, Ranelagh Dublin 6",Dublin,391000.0,No,Ranelagh,Dublin 6,q2,30%
+10/07/2018,"4 Beechwood Avenue, Ranelagh, Dublin 6",Dublin,830000.0,No,Ranelagh,Dublin 6,q3,80%
+16/07/2018,"28 Ashfield Road, Ranelagh, Dublin 6",Dublin,940000.0,No,Ranelagh,Dublin 6,q4,80%
+17/07/2018,"2 Edenvale Road, Ranelagh, Dublin 6",Dublin,970000.0,No,Ranelagh,Dublin 6,q4,80%
+18/07/2018,"16 Rugby Road, Ranelagh, Dublin 6",Dublin,700000.0,No,Ranelagh,Dublin 6,q3,60%
+07/08/2018,"13 Rugby Villas, Ranelagh, Dublin 6",Dublin,397000.0,No,Ranelagh,Dublin 6,q2,30%
+07/08/2018,"33 Upper Beechwood Ave, Ranelagh, Dublin 6",Dublin,1250000.0,No,Ranelagh,Dublin 6,q4,100%
+17/08/2018,"2 Ashbrook House, Sallymount Ave, Ranelagh Dublin 6",Dublin,395000.0,No,Ranelagh,Dublin 6,q2,30%
+17/08/2018,"23 Sandford Rd, Ranelagh, Dublin 6",Dublin,1650000.0,No,Ranelagh,Dublin 6,q4,100%
+17/08/2018,"7 The Courtyard, Hollybank Ave Upper, Ranelagh",Dublin,920000.0,No,Ranelagh,Dublin 6,q4,80%
+22/08/2018,"26 Anna Villa, Ranelagh, Dublin 6",Dublin,730000.0,No,Ranelagh,Dublin 6,q3,70%
+24/08/2018,"11 Mountpleasant Ave Lower, Ranelagh, Dublin 6",Dublin,1093530.0,No,Ranelagh,Dublin 6,q4,90%
+29/08/2018,"19 Chelmsford Lane, Ranelagh, Dublin 6",Dublin,850000.0,No,Ranelagh,Dublin 6,q3,80%
+30/08/2018,"55 Dexter Terrace, Northbrook Rd, Ranelagh Dublin 6",Dublin,405000.0,No,Ranelagh,Dublin 6,q2,30%
+06/09/2018,"45 Oakley Rd, Ranelagh, Dublin 6",Dublin,1500000.0,No,Ranelagh,Dublin 6,q4,100%
+10/09/2018,"6 Northbrook Lane, Ranelagh, Dublin 6",Dublin,725000.0,No,Ranelagh,Dublin 6,q3,70%
+12/09/2018,"57A Leeson Park, Ranelagh, Dublin City",Dublin,1150000.0,No,Ranelagh,Dublin 6,q4,90%
+14/09/2018,"12 Park Dr, Ranelagh, Dublin 6",Dublin,1150000.0,No,Ranelagh,Dublin 6,q4,90%
+14/09/2018,"Apt 16, 12/13 Ranelagh Road, Ranelagh",Dublin,375000.0,No,Ranelagh,Dublin 6,q1,30%
+18/09/2018,"18 Oakley Rd, Ranelagh, Dublin 6",Dublin,920000.0,No,Ranelagh,Dublin 6,q4,80%
+20/09/2018,"35 Mount Pleasant Square, Ranelagh, Dublin 6",Dublin,1100000.0,No,Ranelagh,Dublin 6,q4,90%
+28/09/2018,"45 Chelmsford Road, Ranelagh, Dublin 6",Dublin,840000.0,No,Ranelagh,Dublin 6,q3,80%
+01/10/2018,"24 Athlumney Villas, Ranelagh, Dublin 6",Dublin,537000.0,No,Ranelagh,Dublin 6,q2,50%
+05/10/2018,"15 Chelmsford Lane, Ranelagh, Dublin 6",Dublin,425000.0,No,Ranelagh,Dublin 6,q2,30%
+09/10/2018,"55 Charleston Rd, Ranelagh, Dublin 6",Dublin,1800000.0,No,Ranelagh,Dublin 6,q4,100%
+12/10/2018,"31 Mountain View Rd, Ranelagh, Dublin 6",Dublin,1290000.0,No,Ranelagh,Dublin 6,q4,100%
+18/10/2018,"42 Hollybank Ave Lower, Ranelagh, Dublin 6",Dublin,724000.0,No,Ranelagh,Dublin 6,q3,70%
+18/10/2018,"52 Cullenswood House, Northbrook Ave, Ranelagh Dublin 6",Dublin,296000.0,No,Ranelagh,Dublin 6,q1,20%
+22/10/2018,"4 Rugby Rd, Ranelagh, Dublin 6",Dublin,433333.0,No,Ranelagh,Dublin 6,q2,40%
+23/10/2018,"37 Crosbie House, Northbrook Ave, Ranelagh Dublin 6",Dublin,310000.0,No,Ranelagh,Dublin 6,q1,20%
+24/10/2018,"11 Bannaville, Ranelagh, Dublin 6",Dublin,525000.0,No,Ranelagh,Dublin 6,q2,40%
+26/10/2018,"101 Marlborough Road, Ranelagh, Dublin 6",Dublin,2498385.0,No,Ranelagh,Dublin 6,q4,100%
+26/10/2018,"19 And 20 Charleston Road, Ranelagh",Dublin,4569595.0,No,Ranelagh,Dublin 6,q4,100%
+26/10/2018,"21 Ranelagh Road, Ranelagh",Dublin,2049068.0,No,Ranelagh,Dublin 6,q4,100%
+26/10/2018,"23 Cherryfield Ave Lower, Ranelagh, Dublin 6",Dublin,760000.0,No,Ranelagh,Dublin 6,q3,70%
+26/10/2018,"24 Killeen Rd, Ranelagh, Dublin 6",Dublin,940000.0,No,Ranelagh,Dublin 6,q4,80%
+26/10/2018,"25 Park Dr, Ranelagh, Dublin 6",Dublin,900000.0,No,Ranelagh,Dublin 6,q3,80%
+26/10/2018,"86 Ranelagh Rd, Ranelagh, Dublin 6",Dublin,3301787.0,No,Ranelagh,Dublin 6,q4,100%
+26/10/2018,"87 Ranelagh Rd, Ranelagh, Dublin 6",Dublin,3024908.0,No,Ranelagh,Dublin 6,q4,100%
+30/10/2018,"20 Athlumney Villas, Ranelagh, Dublin",Dublin,215000.0,No,Ranelagh,Dublin 6,q1,10%
+31/10/2018,"Apt 1, 4 Clifton Mews, 25 Ranelagh Road",Dublin,771429.0,No,Ranelagh,Dublin 6,q3,70%
+31/10/2018,"Flat 1 25B Oakley Rd, Ranelagh, Dublin",Dublin,795000.0,No,Ranelagh,Dublin 6,q3,70%
+05/11/2018,"24 Mountainview Road, Ranelagh, Dublin 6",Dublin,980000.0,No,Ranelagh,Dublin 6,q4,90%
+14/11/2018,"70 Moyne Rd, Ranelagh, Dublin",Dublin,660000.0,No,Ranelagh,Dublin 6,q3,60%
+15/11/2018,"13 Athlumney Villas, Ranelagh, Dublin",Dublin,455000.0,No,Ranelagh,Dublin 6,q2,40%
+19/11/2018,"7 Northbrook Ave, Ranelagh, Dublin 6",Dublin,805000.0,No,Ranelagh,Dublin 6,q3,70%
+23/11/2018,"24 Ashfield Rd, Ranelagh, Co Dublin",Dublin,950000.0,No,Ranelagh,Dublin 6,q4,80%
+29/11/2018,"6 Oxford Rd, Ranelagh, Dublin 6",Dublin,715000.0,No,Ranelagh,Dublin 6,q3,60%
+11/12/2018,"38 Cherryfield Ave Lower, Ranelagh, Dublin 6",Dublin,735000.0,No,Ranelagh,Dublin 6,q3,70%
+19/12/2018,"12 Oakley Court, Oakley Rd, Ranelagh Dublin 6",Dublin,345000.0,No,Ranelagh,Dublin 6,q1,20%
+21/12/2018,"14 Leeson Park Avenue, Ranelagh, Dublin 6",Dublin,1243000.0,No,Ranelagh,Dublin 6,q4,90%
+10/01/2019,"13 Merton Dr, Ranelagh, Dublin 6",Dublin,922000.0,No,Ranelagh,Dublin 6,q4,80%
+15/01/2019,"16 Beechwood Ave Lower, Ranelagh, Dublin 6",Dublin,1125000.0,No,Ranelagh,Dublin 6,q4,90%
+15/01/2019,"34 Oxford Rd, Ranelagh, Dublin 6",Dublin,800000.0,No,Ranelagh,Dublin 6,q3,70%
+18/01/2019,"4 Cambridge Terrace, Ranelagh, Dublin 6",Dublin,10000.0,No,Ranelagh,Dublin 6,q1,10%
+21/01/2019,"6 Walkers Court, Walkers Cottages, Ranelagh Dublin 6",Dublin,455000.0,No,Ranelagh,Dublin 6,q2,40%
+23/01/2019,"24 Upper Mountpleasant Ave, Ranelagh, Dublin 6",Dublin,387500.0,No,Ranelagh,Dublin 6,q1,30%
+28/01/2019,"11 Mornington Rd, Ranelagh, Dublin 6",Dublin,984950.0,No,Ranelagh,Dublin 6,q4,90%
+31/01/2019,"14 Ashfield Rd, Ranelagh, Dublin 6",Dublin,1200000.0,No,Ranelagh,Dublin 6,q4,90%
+05/02/2019,"5 Dartmouth Square West, Ranelagh, Dublin 6",Dublin,1405000.0,No,Ranelagh,Dublin 6,q4,100%
+05/02/2019,"9 Cullenswood Gardens, Ranelagh, Dublin 6",Dublin,1210000.0,No,Ranelagh,Dublin 6,q4,90%
+07/02/2019,"23 Leeson Park Ave, Ranelagh, Dublin 6",Dublin,921500.0,No,Ranelagh,Dublin 6,q4,80%
+08/02/2019,"58 Hollybank Ave Lower, Ranelagh, Dublin 6",Dublin,882500.0,No,Ranelagh,Dublin 6,q3,80%
+15/02/2019,"15 Hollybank Ave Lower, Ranelagh, Dublin 6",Dublin,1100000.0,No,Ranelagh,Dublin 6,q4,90%
+18/02/2019,"20A Beechwood Ave Lower, Ranelagh, Dublin",Dublin,1064000.0,No,Ranelagh,Dublin 6,q4,90%
+20/02/2019,"10 Mountpleasant Sq, Ranelagh, Dublin 6",Dublin,1125000.0,No,Ranelagh,Dublin 6,q4,90%
+22/02/2019,"22 Hollybank Ave Lower, Ranelagh, Dublin 6",Dublin,950000.0,No,Ranelagh,Dublin 6,q4,80%
+04/03/2019,"55 Hollybank Ave Lower, Ranelagh, Dublin 6",Dublin,815000.0,No,Ranelagh,Dublin 6,q3,70%
+08/03/2019,"6 Mount Pleasant Parade, Ranelagh, Dublin 6",Dublin,800000.0,No,Ranelagh,Dublin 6,q3,70%
+11/03/2019,"10 Richmond Place, Ranelagh, Dublin 6",Dublin,775000.0,No,Ranelagh,Dublin 6,q3,70%
+19/03/2019,"28 Park View, Northbrook Ave, Ranelagh Dublin 6",Dublin,290000.0,No,Ranelagh,Dublin 6,q1,20%
+22/03/2019,"21 Belgrave Court, Mountpleasant Ave, Ranelagh Dublin 6",Dublin,261000.0,No,Ranelagh,Dublin 6,q1,20%
+29/03/2019,"20 Fitzwilliam Court, Winton Rd, Ranelagh Dublin 6",Dublin,330000.0,No,Ranelagh,Dublin 6,q1,20%
+02/04/2019,"9 Ranelagh Rd, Dublin 6, Dublin",Dublin,705000.0,No,Ranelagh,Dublin 6,q3,60%
+03/04/2019,"6 Willbrook House, Northbrook Avenue, Ranelagh",Dublin,255000.0,No,Ranelagh,Dublin 6,q1,20%
+04/04/2019,"36 Albany Rd, Ranelagh, Dublin 6",Dublin,1300000.0,No,Ranelagh,Dublin 6,q4,100%
+05/04/2019,"9 Old Mountpleasant, Ranelagh, Mountpleasant Dublin 6",Dublin,725000.0,No,Ranelagh,Dublin 6,q3,70%
+11/04/2019,"93 - 95 Ranelagh Rd, And 15-18 Dartmouth Place",Dublin,8123276.66,No,Ranelagh,Dublin 6,q4,100%
+12/04/2019,"Apt 1-5 The Hill Pub, 1/2 Old Mount Pleasant, Ranelagh",Dublin,750000.0,No,Ranelagh,Dublin 6,q3,70%
+25/04/2019,"20 Ranelagh Avenue, Ranelagh, Dublin 6",Dublin,550000.0,No,Ranelagh,Dublin 6,q2,50%
+26/04/2019,"14 Sallymount Gardens, Ranelagh, Dublin 6",Dublin,715000.0,No,Ranelagh,Dublin 6,q3,60%
+26/04/2019,"7 Chelmsford Road, Ranelagh, Dublin 6",Dublin,910000.0,No,Ranelagh,Dublin 6,q4,80%
+30/04/2019,"9 Albany Rd, Ranelagh, Dublin 6",Dublin,1645000.0,No,Ranelagh,Dublin 6,q4,100%
+07/05/2019,"39 Rugby Rd, Ranelagh, Dublin 6",Dublin,585000.0,No,Ranelagh,Dublin 6,q2,50%
+17/05/2019,"19 Cullenswood Gardens, Ranelagh, Dublin 6",Dublin,1410000.0,No,Ranelagh,Dublin 6,q4,100%
+17/05/2019,"Apartment 1, 27 Moyne Road, Ranelagh",Dublin,720000.0,No,Ranelagh,Dublin 6,q3,70%
+22/05/2019,"5 Mitchell House, The Appian Way, Ranelagh Dublin 6",Dublin,475000.0,No,Ranelagh,Dublin 6,q2,40%
+24/05/2019,"61 Moyne Rd, Ranelagh, Dublin 6",Dublin,1246600.0,No,Ranelagh,Dublin 6,q4,100%
+29/05/2019,"8 Northbrook Ave, Ranelagh, Dublin 6",Dublin,750000.0,No,Ranelagh,Dublin 6,q3,70%
+04/06/2019,"25 Mountain View Road, Ranelagh, Dublin 6",Dublin,1160000.0,No,Ranelagh,Dublin 6,q4,90%
+12/06/2019,"26 Merton Dr, Ranelagh, Dublin 6",Dublin,1250000.0,No,Ranelagh,Dublin 6,q4,100%
+17/06/2019,"16 Berystede, Leeson Park, Ranelagh",Dublin,285000.0,No,Ranelagh,Dublin 6,q1,20%
+18/06/2019,"37 Mountain View Rd, Ranelagh, Dublin 6",Dublin,1850000.0,No,Ranelagh,Dublin 6,q4,100%
+20/06/2019,"2 Walkers Court, Ranelagh, Dublin 6",Dublin,458000.0,No,Ranelagh,Dublin 6,q2,40%
+20/06/2019,"5 Chelmsford Avenue, Ranelagh, Dublin 6",Dublin,545000.0,No,Ranelagh,Dublin 6,q2,50%
+21/06/2019,"10 Oxford Rd, Ranelagh, Dublin 6",Dublin,430000.0,No,Ranelagh,Dublin 6,q2,40%
+21/06/2019,"8 Oakley Sq, Ranelagh, Dublin 6",Dublin,640000.0,No,Ranelagh,Dublin 6,q3,60%
+21/06/2019,"Apt 1, 12 Ranelagh Ave, Dublin 6",Dublin,1450000.0,No,Ranelagh,Dublin 6,q4,100%
+26/06/2019,"15 Dexter Terrace, Ranelagh, Dublin 6",Dublin,400000.0,No,Ranelagh,Dublin 6,q2,30%
+28/06/2019,"1 Leeson Park Way, Chelmsford Rd, Ranelagh Dublin 6",Dublin,470000.0,No,Ranelagh,Dublin 6,q2,40%
+28/06/2019,"51 Upper Beechwood Ave, Ranelagh, Dublin 6",Dublin,1065000.0,No,Ranelagh,Dublin 6,q4,90%
+05/07/2019,"52 Moyne Rd, Ranelagh, Dublin 6",Dublin,1270000.0,No,Ranelagh,Dublin 6,q4,100%
+09/07/2019,"35 Fitzwilliam Court, Appian Way, Ranelagh Dublin 6",Dublin,325000.0,No,Ranelagh,Dublin 6,q1,20%
+09/07/2019,"5 Upper Mount Pleasant Ave, Ranelagh, Dublin 6",Dublin,570000.0,No,Ranelagh,Dublin 6,q2,50%
+12/07/2019,"20 Chelmsford Lane, Ranelagh, Dublin 6",Dublin,555000.0,No,Ranelagh,Dublin 6,q2,50%
+15/07/2019,"29 Crosbie House, North Brook Ave, Ranelagh",Dublin,200000.0,No,Ranelagh,Dublin 6,q1,10%
+15/07/2019,"36 Mount Pleasant Ave, Ranelagh, Dublin City",Dublin,1275000.0,No,Ranelagh,Dublin 6,q4,100%
+16/07/2019,"12 Albany Rd, Ranelagh, Dublin 6",Dublin,1675000.0,No,Ranelagh,Dublin 6,q4,100%
+22/07/2019,"62 Ranelagh Rd, Ranelagh, Dublin 6",Dublin,1800000.0,No,Ranelagh,Dublin 6,q4,100%
+23/07/2019,"20A Mountpleasant Ave Lwr, Ranelagh, Dublin 6",Dublin,452500.0,No,Ranelagh,Dublin 6,q2,40%
+25/07/2019,"5 Charleston Court, Charleston Rd, Ranelagh",Dublin,385000.0,No,Ranelagh,Dublin 6,q1,30%
+25/07/2019,"9 Sallymount Gardens, Ranelagh, Dublin 6",Dublin,1035000.0,No,Ranelagh,Dublin 6,q4,90%
+26/07/2019,"15 Oakley Court, Oakley Rd, Ranelagh Dublin 6",Dublin,360000.0,No,Ranelagh,Dublin 6,q1,30%
+26/07/2019,"50 Dartmouth Square, Ranelagh, Dublin 6",Dublin,1505000.0,No,Ranelagh,Dublin 6,q4,100%
+29/07/2019,"48 Hollybank Ave Lower, Ranelagh, Dublin 6",Dublin,1010000.0,No,Ranelagh,Dublin 6,q4,90%
+02/08/2019,"3 Ashfield Ave, Ranelagh, Dublin 6",Dublin,750000.0,No,Ranelagh,Dublin 6,q3,70%
+15/08/2019,"Apt 5, 10 Ranelagh Rd, Ranelagh Dublin 6",Dublin,375000.0,No,Ranelagh,Dublin 6,q1,30%
+16/08/2019,"34 Sandford Road, Ranelagh, Dublin 6",Dublin,1275000.0,No,Ranelagh,Dublin 6,q4,100%
+22/08/2019,"19 Chelmsford Ave, Ranelagh, Dublin 6",Dublin,710000.0,No,Ranelagh,Dublin 6,q3,60%
+28/08/2019,"13 Lower Hollybank Avenue, Ranelagh, Dublin 6",Dublin,780000.0,No,Ranelagh,Dublin 6,q3,70%
+30/08/2019,"6 St Annes Terrace, Northbrook Lane, Ranelagh Dublin 6",Dublin,1090000.0,No,Ranelagh,Dublin 6,q4,90%
+06/09/2019,"33 Merton Dr, Ranelagh, Dublin 6",Dublin,1127500.0,No,Ranelagh,Dublin 6,q4,90%
+09/09/2019,"16 Oxford Rd, Ranelagh, Dublin 6",Dublin,1010000.0,No,Ranelagh,Dublin 6,q4,90%
+12/09/2019,"27 Mornington Rd, Ranelagh, Dublin 6",Dublin,760000.0,No,Ranelagh,Dublin 6,q3,70%
+16/09/2019,"41 Beechwood Park, Ranelagh, Dublin 6",Dublin,720000.0,No,Ranelagh,Dublin 6,q3,70%
+19/09/2019,"7 Beechwood Ave Lower, Ranelagh, Dublin 6",Dublin,680000.0,No,Ranelagh,Dublin 6,q3,60%
+23/09/2019,"16 Charleston Rd, Ranelagh, Dublin",Dublin,1400000.0,No,Ranelagh,Dublin 6,q4,100%
+24/09/2019,"12 St Annes, Northbrook Rd, Ranelagh Dublin 6",Dublin,450000.0,No,Ranelagh,Dublin 6,q2,40%
+27/09/2019,"51 Ashfield Rd, Ranelagh, Dublin 6",Dublin,1070000.0,No,Ranelagh,Dublin 6,q4,90%
+02/10/2019,"36 Mountpleasant Terrace, Ranelagh, Dublin 6",Dublin,512000.0,No,Ranelagh,Dublin 6,q2,40%
+03/10/2019,"6 Ashbrook Terrace, Sallymount Ave, Ranelagh Dublin 6",Dublin,1740000.0,No,Ranelagh,Dublin 6,q4,100%
+04/10/2019,"20 Elmwood Ave, Ranelagh, Dublin 6",Dublin,637000.0,No,Ranelagh,Dublin 6,q3,60%
+04/10/2019,"27 Courtney House, The Appian Way, Ranelagh Dublin 6",Dublin,205000.0,No,Ranelagh,Dublin 6,q1,10%

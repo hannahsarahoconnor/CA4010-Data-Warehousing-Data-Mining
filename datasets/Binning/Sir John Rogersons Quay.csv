@@ -1,0 +1,46 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/01/2010,"134 Longboat Quay North, Sir John Rogersons Quay",Dublin,225000.0,Yes,Sir John Rogersons Quay,Dublin 2,q1,10%
+11/11/2011,"104 The Windmill, Sir John Rogersons Quay, Lime Street",Dublin,330000.0,No,Sir John Rogersons Quay,Dublin 2,q2,40%
+24/01/2012,"Apartment 9 Butlers Court, Sir John Rogersons Quay",Dublin,346000.0,No,Sir John Rogersons Quay,Dublin 2,q2,50%
+02/05/2012,"Apartment 14, Park House, 77 Sir John Rogersons Quay",Dublin,240000.0,No,Sir John Rogersons Quay,Dublin 2,q1,20%
+31/08/2012,"105 The Windmill, Sir John Rogersons Quay",Dublin,300000.0,No,Sir John Rogersons Quay,Dublin 2,q1,30%
+28/09/2012,"10 Park House, 77 Sir John Rogersons Quay, Dublin 2",Dublin,235000.0,No,Sir John Rogersons Quay,Dublin 2,q1,20%
+19/06/2013,"415 Longboat Quay, Sir John Rogersons Quay, Dublin 12",Dublin,331000.0,No,Sir John Rogersons Quay,Dublin 2,q2,40%
+01/10/2013,"714 Longboat Quay North, Sir John Rogersons Quay, Dublin 2",Dublin,364000.0,No,Sir John Rogersons Quay,Dublin 2,q2,50%
+10/12/2013,"608 Longboat Quay North, Sir John Rogersons Quay, Dublin 2",Dublin,400000.0,No,Sir John Rogersons Quay,Dublin 2,q3,70%
+16/06/2014,"Apt 95, The Windmill, Sir John Rogersons Quay Dublin 2",Dublin,200000.0,No,Sir John Rogersons Quay,Dublin 2,q1,10%
+22/07/2014,"47 The Windmill, Sir John Rogersons Quay, Windmill Dublin 2",Dublin,275000.0,No,Sir John Rogersons Quay,Dublin 2,q1,20%
+17/11/2014,"69 Forbes Quay, Lazer Lane, Sir John Rogersons Quay Dublin 2",Dublin,190000.0,No,Sir John Rogersons Quay,Dublin 2,q1,10%
+10/12/2014,"96 The Windmill, Sir John Rogersons Quay, Windmill Dublin 2",Dublin,275000.0,No,Sir John Rogersons Quay,Dublin 2,q1,20%
+17/12/2014,"102 The Windmill, Sir John Rogersons Quay, Windmill Dublin 2",Dublin,180000.0,No,Sir John Rogersons Quay,Dublin 2,q1,10%
+17/12/2014,"89 The Windmill, Sir John Rogersons Quay, Windmill Dublin 2",Dublin,290000.0,No,Sir John Rogersons Quay,Dublin 2,q1,30%
+02/04/2015,"70 Forbes Quay Apts, Lazer Lane, Sir John Rogersons Quay Dublin 2",Dublin,395000.0,No,Sir John Rogersons Quay,Dublin 2,q3,70%
+13/07/2015,"77 Forbes Quay, Sir John Rogersons Quay, Dublin 2",Dublin,530000.0,No,Sir John Rogersons Quay,Dublin 2,q4,90%
+15/12/2015,"64 The Windmill, Sir John Rogersons Quay, Dublin 2",Dublin,207000.0,No,Sir John Rogersons Quay,Dublin 2,q1,10%
+08/07/2016,"121 Forbes Quay, Sir John Rogersons Quay, Dublin 2",Dublin,550000.0,No,Sir John Rogersons Quay,Dublin 2,q4,90%
+12/01/2017,"30 Forbes Quay, Sir John Rogersons Quay, Dublin 2",Dublin,345000.0,No,Sir John Rogersons Quay,Dublin 2,q2,50%
+31/03/2017,"13 Butlers Court, Sir John Rogersons Quay, Dublin 2",Dublin,450000.0,No,Sir John Rogersons Quay,Dublin 2,q3,80%
+07/04/2017,"315S, Longboat Quay South, Sir John Rogersons Quay",Dublin,530000.0,No,Sir John Rogersons Quay,Dublin 2,q4,90%
+07/04/2017,"507S, Longboat Quay South, Sir John Rogersons Quay",Dublin,460000.0,No,Sir John Rogersons Quay,Dublin 2,q3,80%
+07/04/2017,"522S, Longboat Quay South, Sir John Rogersons Quay",Dublin,320000.0,No,Sir John Rogersons Quay,Dublin 2,q2,40%
+07/04/2017,"524S, Longboat Quay South, Sir John Rogersons Quay",Dublin,540000.0,No,Sir John Rogersons Quay,Dublin 2,q4,90%
+27/06/2017,"Unit 25 Butlers Court, 77 Sir John Rogersons Quay, Dublin 12",Dublin,465000.0,No,Sir John Rogersons Quay,Dublin 2,q3,80%
+09/08/2017,"69 Forbes Quay, Lazer Lane, Sir John Rogersons Quay Dublin 2",Dublin,300000.0,No,Sir John Rogersons Quay,Dublin 2,q2,30%
+27/10/2017,"517 Longboat Quay North, Sir John Rogersons Quay, Dublin 2",Dublin,439000.0,No,Sir John Rogersons Quay,Dublin 2,q3,70%
+29/11/2017,"94 Forbes Quay Apts, Sir John Rogersons Quay, Dublin 2",Dublin,580000.0,No,Sir John Rogersons Quay,Dublin 2,q4,100%
+15/12/2017,"Apt 413 Longboat Quay North, Sir John Rogersons Quay, Dublin 2",Dublin,446200.0,No,Sir John Rogersons Quay,Dublin 2,q3,70%
+22/12/2017,"506 Longboat Quay North, Sir John Rogersons Quay, Dublin 4",Dublin,357000.0,No,Sir John Rogersons Quay,Dublin 2,q2,50%
+29/01/2018,"113 Forbes Quay, Sir John Rogersons Quay, Dublin 2",Dublin,330000.0,No,Sir John Rogersons Quay,Dublin 2,q2,40%
+13/02/2018,"Apt 31, The Windmills, Sir John Rogersons Quay",Dublin,375000.0,No,Sir John Rogersons Quay,Dublin 2,q3,60%
+16/02/2018,"85 Forbes Quay Apts, Sir John Rogersons Quay, Dublin 2",Dublin,500000.0,No,Sir John Rogersons Quay,Dublin 2,q4,80%
+15/06/2018,"Apartment No 207 Longboat Quay Nth, Sir John Rogersons Quay, Dublin 2",Dublin,375000.0,No,Sir John Rogersons Quay,Dublin 2,q3,60%
+27/07/2018,"Apt 8 Butlers Court, 77 Sir John Rogersons Quay, Dublin 2",Dublin,485000.0,No,Sir John Rogersons Quay,Dublin 2,q4,80%
+03/08/2018,"Apt 9, Hanover Quarter, Sir John Rogersons Quay",Dublin,630000.0,No,Sir John Rogersons Quay,Dublin 2,q4,100%
+13/09/2018,"101 The Windmill, Sir John Rogersons Quay, Windmill Dublin 2",Dublin,375000.0,No,Sir John Rogersons Quay,Dublin 2,q3,60%
+09/10/2018,"13 Windmill Lane Apts, Sir John Rogersons Quay, Dublin",Dublin,365000.0,No,Sir John Rogersons Quay,Dublin 2,q2,50%
+22/11/2018,"62 The Windmill, Sir John Rogersons Quay, Windmill Dublin 2",Dublin,285000.0,No,Sir John Rogersons Quay,Dublin 2,q1,30%
+25/03/2019,"96 Forbes Quay, Sir John Rogersons Quay, Dublin 2",Dublin,600000.0,No,Sir John Rogersons Quay,Dublin 2,q4,100%
+13/05/2019,"Apt 403 Longboat Quay North, Sir John Rogersons Quay, Dublin 2",Dublin,370000.0,No,Sir John Rogersons Quay,Dublin 2,q3,60%
+18/07/2019,"13 Forbes Quay, Sir John Rogersons Quay, Dublin 2",Dublin,581000.0,No,Sir John Rogersons Quay,Dublin 2,q4,100%
+22/08/2019,"17 Butlers Court, Sir John Rogersons Quay, Dublin 2",Dublin,560000.0,No,Sir John Rogersons Quay,Dublin 2,q4,100%
+23/08/2019,"411 Long Boat Quay North, Sir John Rogersons Quay, Dublin 2",Dublin,319000.0,No,Sir John Rogersons Quay,Dublin 2,q2,30%

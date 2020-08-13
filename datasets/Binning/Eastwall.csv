@@ -1,0 +1,41 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+21/01/2010,"7 Hawthorn Terrace, Eastwall, Dublin",Dublin,210000.0,No,Eastwall,Dublin 3,q3,60%
+28/04/2010,"79 Church Road, Eastwall, Dublin 3",Dublin,255000.0,No,Eastwall,Dublin 3,q3,70%
+20/07/2010,"3 Shelmalier Road, Eastwall, Dublin",Dublin,200000.0,No,Eastwall,Dublin 3,q2,50%
+17/08/2011,"56 Caledon Road, Eastwall, Dublin 3",Dublin,90000.0,No,Eastwall,Dublin 3,q1,10%
+31/07/2012,"2 Shelmalier Road, Eastwall, Dublin 3",Dublin,190000.0,No,Eastwall,Dublin 3,q2,40%
+19/10/2012,"139 Church Road, Eastwall, Dublin 3",Dublin,220000.0,No,Eastwall,Dublin 3,q3,60%
+01/11/2013,"50 Bargy Road, Eastwall, Dublin 3",Dublin,96000.0,No,Eastwall,Dublin 3,q1,10%
+18/12/2013,"116 Caledon Rd, Eastwall, Dublin 3",Dublin,155000.0,No,Eastwall,Dublin 3,q1,20%
+20/01/2014,"14 Merchant Sq, Eastwall, Dublin 3",Dublin,158000.0,No,Eastwall,Dublin 3,q1,30%
+27/02/2014,"19 West Rd, Eastwall, Dublin 3",Dublin,197000.0,No,Eastwall,Dublin 3,q2,50%
+22/07/2014,"2 Fairfield Ave, Eastwall, Dublin 3",Dublin,137500.0,No,Eastwall,Dublin 3,q1,10%
+18/08/2014,"145 The Lighthouse Apts, Church Rd, Eastwall Dublin 3",Dublin,263000.0,No,Eastwall,Dublin 3,q3,80%
+01/09/2014,"101 The Lighthouse, Church Rd, Eastwall Dublin 3",Dublin,208000.0,No,Eastwall,Dublin 3,q2,50%
+25/09/2014,"27 West Rd, Eastwall, Dublin 3",Dublin,185000.0,No,Eastwall,Dublin 3,q2,30%
+14/11/2014,"17 Merchants Rd, Eastwall Dublin 3, Dublin",Dublin,192000.0,No,Eastwall,Dublin 3,q2,40%
+19/12/2014,"57 The Lighthouse, Eastwall Rd, Eastwall Dublin 3",Dublin,140000.0,No,Eastwall,Dublin 3,q1,20%
+05/06/2015,"22 Caledon Rd, Eastwall, Dublin",Dublin,187000.0,No,Eastwall,Dublin 3,q2,40%
+22/04/2016,"84 St Marys Rd, Eastwall, Dublin 3",Dublin,155000.0,No,Eastwall,Dublin 3,q1,30%
+08/08/2016,"6 Church Sq, Eastwall, Dublin 3",Dublin,240000.0,No,Eastwall,Dublin 3,q3,70%
+05/09/2016,"74 West Rd, Eastwall, Dublin 3",Dublin,147000.0,No,Eastwall,Dublin 3,q1,20%
+06/09/2016,"1 Irvine, Cottages, Eastwall",Dublin,65000.0,No,Eastwall,Dublin 3,q1,10%
+27/10/2016,"13 Church Rd, Eastwall, Dublin 3",Dublin,164000.0,No,Eastwall,Dublin 3,q2,30%
+23/01/2017,"31 Caledon Rd, Eastwall, Dublin 3",Dublin,235000.0,No,Eastwall,Dublin 3,q3,60%
+19/04/2017,"84 St Marys Rd, Eastwall, Dublin 3",Dublin,335500.0,No,Eastwall,Dublin 3,q4,90%
+26/04/2017,"61 Teeling Way Eastwall Dublin 3, Dublin 3, Dublin",Dublin,185000.0,No,Eastwall,Dublin 3,q2,40%
+22/10/2017,"17 Caledon Rd, Eastwall, Dublin 3",Dublin,235000.0,No,Eastwall,Dublin 3,q3,60%
+01/11/2017,"20 Fairfield Ave, Eastwall, Dublin 1",Dublin,146000.0,No,Eastwall,Dublin 3,q1,20%
+06/12/2017,"60 Caledon Rd, Eastwall, Dublin 3",Dublin,337000.0,No,Eastwall,Dublin 3,q4,90%
+19/01/2018,"17 Forth Rd, Eastwall, Dublin 3",Dublin,200000.0,No,Eastwall,Dublin 3,q2,50%
+25/01/2018,"61 Merchants Rd, Eastwall, Dublin 3",Dublin,244000.0,No,Eastwall,Dublin 3,q3,70%
+09/02/2018,"24 Russell Ave, Eastwall, Dublin 3",Dublin,307500.0,No,Eastwall,Dublin 3,q4,80%
+23/02/2018,"145 The Lighthouse Apts, Church Rd, Eastwall Dublin 3",Dublin,405000.0,No,Eastwall,Dublin 3,q4,100%
+30/04/2018,"88 Caledon Rd, Eastwall, Dublin 3",Dublin,341000.0,No,Eastwall,Dublin 3,q4,100%
+03/07/2018,"73 Bargy Rd, Eastwall, Dublin 3",Dublin,318000.0,No,Eastwall,Dublin 3,q4,80%
+14/08/2018,"18 Portside Court, West Rd, Eastwall",Dublin,325000.0,No,Eastwall,Dublin 3,q4,90%
+24/08/2018,"1 Portside Court, Eastwall, Dublin 3",Dublin,305000.0,No,Eastwall,Dublin 3,q3,80%
+12/11/2018,"36 Bargy Rd, Eastwall, Dublin 3",Dublin,342500.0,No,Eastwall,Dublin 3,q4,100%
+02/05/2019,"2 Fairfield Ave, Eastwall, Dublin 3",Dublin,250000.0,No,Eastwall,Dublin 3,q3,70%
+29/05/2019,"65 Seaview Ave, Eastwall, Dublin 3",Dublin,340000.0,No,Eastwall,Dublin 3,q4,90%
+25/07/2019,"28 The Lighthouse Apts, Church Rd, Eastwall Dublin 3",Dublin,515000.0,No,Eastwall,Dublin 3,q4,100%

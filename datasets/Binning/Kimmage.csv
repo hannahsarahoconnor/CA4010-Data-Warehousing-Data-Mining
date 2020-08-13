@@ -1,0 +1,457 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+19/01/2010,"103 Royston, Kimmage",Dublin,280000.0,No,Kimmage,Dublin 6W,q2,40%
+21/01/2010,"76 Royston, Kimmage Road West, Dublin 12",Dublin,297500.0,No,Kimmage,Dublin 6W,q2,50%
+29/01/2010,"43 Kilfenora Road, Kimmage, Dublin 12",Dublin,253000.0,No,Kimmage,Dublin 6W,q2,30%
+12/02/2010,"50 Lower Kimmage Road, Dublin 6W",Dublin,410000.0,No,Kimmage,Dublin 6W,q3,80%
+15/02/2010,"56 Blarney Park, Kimmage, Dublin 12",Dublin,280000.0,No,Kimmage,Dublin 6W,q2,40%
+04/03/2010,"4 Dangan Park, Kimmage Road West, Dublin 12",Dublin,400000.0,No,Kimmage,Dublin 6W,q3,80%
+16/03/2010,"108 Rockfield Avenue, Kimmage, Dublin 12",Dublin,343000.0,No,Kimmage,Dublin 6W,q3,60%
+16/03/2010,"60 Kimmage Grove, Kimmage",Dublin,350000.0,No,Kimmage,Dublin 6W,q3,60%
+29/03/2010,"7 Poddle Park, Kimmage, Dublin 12",Dublin,272500.0,No,Kimmage,Dublin 6W,q2,40%
+09/04/2010,"54 Brookfield Green, Kimmage, Dublin 6W",Dublin,335000.0,No,Kimmage,Dublin 6W,q3,60%
+15/04/2010,"22 Stanaway Road, Kimmage, Dublin 12",Dublin,260000.0,No,Kimmage,Dublin 6W,q2,40%
+21/04/2010,"46 Blarney Park, Kimmage, Dublin",Dublin,322000.0,No,Kimmage,Dublin 6W,q3,60%
+07/05/2010,"41 Fortfield Drive, Kimmage",Dublin,572500.0,No,Kimmage,Dublin 6W,q4,100%
+18/05/2010,"79 Sundrive Road, Kimmage",Dublin,150000.0,No,Kimmage,Dublin 6W,q1,10%
+26/05/2010,"98 St Annes, Kimmage Road West, Dublin 12",Dublin,280000.0,No,Kimmage,Dublin 6W,q2,40%
+15/06/2010,"83 Devenish Road, Kimmage, Dublin 12",Dublin,155000.0,No,Kimmage,Dublin 6W,q1,10%
+29/06/2010,"39 St Martins Park, Kimmage",Dublin,380000.0,No,Kimmage,Dublin 6W,q3,70%
+01/07/2010,"100A Lower Kimmage Road, Harold'S Cross, Dublin",Dublin,430000.0,No,Kimmage,Dublin 6W,q4,80%
+05/07/2010,"8 St Martin'S Park, Kimmage",Dublin,340000.0,No,Kimmage,Dublin 6W,q3,60%
+27/07/2010,"23 Larkfield Gardens, Kimmage, Dublin 6W",Dublin,265000.0,No,Kimmage,Dublin 6W,q2,40%
+17/08/2010,"38 Brookfield Green, Kimmage",Dublin,315000.0,No,Kimmage,Dublin 6W,q2,50%
+20/08/2010,"1 Dangan Park, Kimmage Road West, Dublin",Dublin,310000.0,No,Kimmage,Dublin 6W,q2,50%
+20/08/2010,"124 Sundrive Rd, Kimmage",Dublin,175000.0,No,Kimmage,Dublin 6W,q1,20%
+20/08/2010,"36 Poddle Park, Kimmage, Dublin 12",Dublin,270000.0,No,Kimmage,Dublin 6W,q2,40%
+30/08/2010,"48 Royston, Kimmage Road West, Kimmage",Dublin,282000.0,No,Kimmage,Dublin 6W,q2,40%
+01/09/2010,"147 Kimmage Road West, Dublin 12",Dublin,385000.0,No,Kimmage,Dublin 6W,q3,70%
+22/09/2010,"48, Brookfield, Kimmage Road",Dublin,357500.0,No,Kimmage,Dublin 6W,q3,70%
+30/09/2010,"7 St. Anne'S, Kimmage Road West",Dublin,293000.0,No,Kimmage,Dublin 6W,q2,50%
+12/10/2010,"9 Hazel Park, Lower Kimmage Road, .",Dublin,265000.0,No,Kimmage,Dublin 6W,q2,40%
+21/10/2010,"24 Blarney Park, Kimmage, .",Dublin,210000.0,No,Kimmage,Dublin 6W,q1,20%
+06/12/2010,"13 Blarney Park, Kimmage, Dubin 12",Dublin,235000.0,No,Kimmage,Dublin 6W,q1,30%
+09/12/2010,"14 Shelton Grove, Kimmage Road West",Dublin,347500.0,No,Kimmage,Dublin 6W,q3,60%
+20/12/2010,"Apt 17 Brookfield Court, Brookfield Green, Kimmage",Dublin,130000.0,No,Kimmage,Dublin 6W,q1,10%
+22/12/2010,"280 Captains Road, Kimmage",Dublin,123000.0,No,Kimmage,Dublin 6W,q1,10%
+21/01/2011,"9 Brookfield, Kimmage Road West",Dublin,327000.0,No,Kimmage,Dublin 6W,q3,60%
+25/03/2011,"No198, Lower Kimmage Road, Dublin6",Dublin,416250.0,No,Kimmage,Dublin 6W,q3,80%
+30/03/2011,"111 Stanaway Road, Kimmage",Dublin,128000.0,No,Kimmage,Dublin 6W,q1,10%
+21/04/2011,"47 St Anne'S, Kimmage Road West",Dublin,295000.0,No,Kimmage,Dublin 6W,q2,50%
+11/05/2011,"2 Shelton Grove, Kimmage",Dublin,250000.0,No,Kimmage,Dublin 6W,q2,30%
+20/05/2011,"69 St Annes, Kimmage Road West",Dublin,290000.0,No,Kimmage,Dublin 6W,q2,50%
+27/05/2011,"25 Shelton Drive, Kimmage Road West",Dublin,305000.0,No,Kimmage,Dublin 6W,q2,50%
+20/06/2011,"Apt. 5 Baroma, 300 Lower Kimmage Road, Kimmage",Dublin,100500.0,No,Kimmage,Dublin 6W,q1,10%
+01/07/2011,"15 Mount Argus Court, Lr Kimmage Rd",Dublin,260000.0,No,Kimmage,Dublin 6W,q2,40%
+12/07/2011,"172 Kimmage Road West, Kimmage, Dublin 12",Dublin,350000.0,No,Kimmage,Dublin 6W,q3,60%
+04/08/2011,"103 Stannaway Road, Kimmage",Dublin,185000.0,No,Kimmage,Dublin 6W,q1,20%
+16/09/2011,"178 Lower Kimmage Road, Kimmage",Dublin,252000.0,No,Kimmage,Dublin 6W,q2,30%
+16/09/2011,"58 Ferns Road, Kimmage, Dublin 12",Dublin,110000.0,No,Kimmage,Dublin 6W,q1,10%
+05/10/2011,"27 Blarney Park, Kimmage",Dublin,225000.0,No,Kimmage,Dublin 6W,q1,30%
+03/11/2011,"7 Clonfert Road, Kimmage",Dublin,122000.0,No,Kimmage,Dublin 6W,q1,10%
+10/11/2011,"136 Kimmage Road West, Kimmage",Dublin,210000.0,No,Kimmage,Dublin 6W,q1,20%
+18/11/2011,"16 Sundrive Park, Kimmage, Dublin 12",Dublin,280000.0,No,Kimmage,Dublin 6W,q2,40%
+22/11/2011,"42 Larkfield Grove, Kimmage, Dublin 6W",Dublin,263000.0,No,Kimmage,Dublin 6W,q2,40%
+07/12/2011,"10 St Anne'S, Kimmage Road West",Dublin,272000.0,No,Kimmage,Dublin 6W,q2,40%
+07/12/2011,"15 Sundrive Park, Kimmage, Dublin 6W",Dublin,255000.0,No,Kimmage,Dublin 6W,q2,30%
+07/12/2011,"39 Devenish Road, Kimmage, Dublin 12",Dublin,180000.0,No,Kimmage,Dublin 6W,q1,20%
+16/12/2011,"20 Dangan Park, Kimmage Road West, Dublin 12.",Dublin,292500.0,No,Kimmage,Dublin 6W,q2,50%
+16/12/2011,"50 Kimmage Road West, Kimmage, Dublin",Dublin,510000.0,No,Kimmage,Dublin 6W,q4,90%
+20/12/2011,"13 Aideen Avenue, Lr Kimmage Road",Dublin,165000.0,No,Kimmage,Dublin 6W,q1,10%
+22/12/2011,"34 St. Annes, Kimmage Road West",Dublin,183000.0,No,Kimmage,Dublin 6W,q1,20%
+20/01/2012,"41 Lower Kimmage Road, Harol'S Cross, Dublin",Dublin,250000.0,No,Kimmage,Dublin 6W,q2,30%
+02/03/2012,"12 Shelton Gardens, Kimmage, Dublin 12",Dublin,285000.0,No,Kimmage,Dublin 6W,q2,50%
+30/03/2012,"418 Clonard Road, Kimmage",Dublin,240000.0,No,Kimmage,Dublin 6W,q1,30%
+03/04/2012,"26 Shelton Park, Kimmage Road West, Kimmage  Dublin 12",Dublin,225000.0,No,Kimmage,Dublin 6W,q1,30%
+13/04/2012,"606 Poddle Park, Clonard Road, Kimmage",Dublin,115000.0,No,Kimmage,Dublin 6W,q1,10%
+30/04/2012,"72 Kilfenora Road, Kimmage",Dublin,135000.0,No,Kimmage,Dublin 6W,q1,10%
+23/05/2012,"237B Kimmage Road Lr, Kimmage, Dublin 6W",Dublin,250000.0,No,Kimmage,Dublin 6W,q2,30%
+28/05/2012,"17 Mount Argus Court, Lower Kimmage Road, Dublin 6W",Dublin,220000.0,No,Kimmage,Dublin 6W,q1,20%
+29/06/2012,"22 Shelton Drive, Kimmage, Dublin",Dublin,270000.0,No,Kimmage,Dublin 6W,q2,40%
+05/07/2012,"20 Shelton Grove, Kimmage Road West",Dublin,367500.0,No,Kimmage,Dublin 6W,q3,70%
+06/07/2012,"11 Poddle Green, Kimmage",Dublin,157500.0,No,Kimmage,Dublin 6W,q1,10%
+31/07/2012,"20 Ravensdale Park, Kimmage",Dublin,175000.0,No,Kimmage,Dublin 6W,q1,20%
+02/08/2012,"33 St. Annes, Kimmage",Dublin,225000.0,No,Kimmage,Dublin 6W,q1,30%
+15/08/2012,"44 Cloyne Road, Kimmage, Dublin 12",Dublin,90000.0,No,Kimmage,Dublin 6W,q1,10%
+17/08/2012,"21 Cloyne Road, Kimmage, Dublin",Dublin,115000.0,No,Kimmage,Dublin 6W,q1,10%
+31/08/2012,"82 Kimmage Road West, Kimmage, Dublin 12",Dublin,455000.0,No,Kimmage,Dublin 6W,q4,90%
+05/09/2012,"55 Kimmage Road West, Terenue",Dublin,650000.0,No,Kimmage,Dublin 6W,q4,100%
+07/09/2012,"21 Tonguefield Road, Kimmage, Dublin 6W",Dublin,112000.0,No,Kimmage,Dublin 6W,q1,10%
+14/09/2012,"50 Royston, Kimmage Road West",Dublin,210000.0,No,Kimmage,Dublin 6W,q1,20%
+28/09/2012,"34 St. Teresas Road, Kimmage Road West, Dublin 12",Dublin,210000.0,No,Kimmage,Dublin 6W,q1,20%
+28/09/2012,"76 Kimmage Road West, Kimmage",Dublin,610000.0,No,Kimmage,Dublin 6W,q4,100%
+01/10/2012,"Apartment 3B, Bedford Court, Lower Kimmage Road",Dublin,125000.0,No,Kimmage,Dublin 6W,q1,10%
+03/10/2012,"79 Sundrive Road, Kimmage",Dublin,225000.0,No,Kimmage,Dublin 6W,q1,30%
+05/10/2012,"90 Royston, Kimmage Road West",Dublin,200000.0,No,Kimmage,Dublin 6W,q1,20%
+19/10/2012,"Flat No. 4 Granuaile, 225A Lower Kimmage Road",Dublin,127000.0,No,Kimmage,Dublin 6W,q1,10%
+31/10/2012,"60  Lower Kimmage Road, Harold'S Cross",Dublin,491000.0,No,Kimmage,Dublin 6W,q4,90%
+07/11/2012,"15 Dangan Drive, Kimmage",Dublin,265000.0,No,Kimmage,Dublin 6W,q2,40%
+08/11/2012,"62 Kimmage Road, West  Kimmage",Dublin,470000.0,No,Kimmage,Dublin 6W,q4,90%
+14/11/2012,"87 Royston, Kimmage Road West",Dublin,180000.0,No,Kimmage,Dublin 6W,q1,20%
+20/11/2012,"108 St Annes Estate, Kimmage Road West, Dublin 12",Dublin,285000.0,No,Kimmage,Dublin 6W,q2,50%
+21/11/2012,"82 Blarney Park, Kimmage",Dublin,156000.0,No,Kimmage,Dublin 6W,q1,10%
+29/11/2012,"26 Larkfield Gardens, Kimmage",Dublin,200000.0,No,Kimmage,Dublin 6W,q1,20%
+17/12/2012,"236 Lower Kimmage Road, Dublin 6W",Dublin,246000.0,No,Kimmage,Dublin 6W,q2,30%
+18/12/2012,"154 Lower Kimmage Road, Kimmage",Dublin,238000.0,No,Kimmage,Dublin 6W,q1,30%
+21/12/2012,"84 Lower Kimmage Road, Dublin 6W",Dublin,585000.0,No,Kimmage,Dublin 6W,q4,100%
+31/12/2012,"14 Aideen Avenue, Lower Kimmage Road",Dublin,235000.0,No,Kimmage,Dublin 6W,q1,30%
+07/01/2013,"34  Ravensdale Drive, Kimmage, Dublin 12",Dublin,350000.0,No,Kimmage,Dublin 6W,q3,70%
+11/01/2013,"9 Sundrive Park, Kimmage, Dublin 12",Dublin,227000.0,No,Kimmage,Dublin 6W,q1,30%
+22/01/2013,"78 Kilfenora Road, Kimmage, Dublin",Dublin,115000.0,No,Kimmage,Dublin 6W,q1,10%
+24/01/2013,"30  Poddle Park, Kimmage",Dublin,250000.0,No,Kimmage,Dublin 6W,q2,30%
+01/02/2013,"19 Ravensdale Park, Kimmage, Dublin 12",Dublin,91000.0,No,Kimmage,Dublin 6W,q1,10%
+01/02/2013,"21 Ravensdale Park, Kimmage",Dublin,78000.0,No,Kimmage,Dublin 6W,q1,10%
+01/02/2013,"33 Ravensdale Park, Kimmage",Dublin,92000.0,No,Kimmage,Dublin 6W,q1,10%
+01/02/2013,"35 Ravensdale Park, Kimmage",Dublin,57000.0,No,Kimmage,Dublin 6W,q1,10%
+01/02/2013,"37 Ravensdale Park, Kimmage",Dublin,59000.0,No,Kimmage,Dublin 6W,q1,10%
+01/02/2013,"41 Ravensdale Park, Kimmage",Dublin,99000.0,No,Kimmage,Dublin 6W,q1,10%
+01/02/2013,"43 Ravensale Park, Kimmage",Dublin,160000.0,No,Kimmage,Dublin 6W,q1,10%
+08/02/2013,"297 Lr Kimmage Road, Dublin 6W",Dublin,370000.0,No,Kimmage,Dublin 6W,q3,70%
+08/03/2013,"10 Royston, Kimmage",Dublin,218000.0,No,Kimmage,Dublin 6W,q1,20%
+28/03/2013,"9 Poddle Park, Kimmage, Dublin 12",Dublin,245000.0,No,Kimmage,Dublin 6W,q2,30%
+05/04/2013,"72 Kimmage West, Dublin 12",Dublin,565000.0,No,Kimmage,Dublin 6W,q4,100%
+12/04/2013,"249 Kimmage Road Lr, Kimmage, Dublin 6W",Dublin,280000.0,No,Kimmage,Dublin 6W,q2,40%
+30/04/2013,"49 Dangan Park, Kimmage",Dublin,425000.0,No,Kimmage,Dublin 6W,q4,80%
+17/05/2013,"4 Poddle Park, Kimmage, Dublin",Dublin,215000.0,No,Kimmage,Dublin 6W,q1,20%
+21/05/2013,"54 Blarney Park, Kimmage",Dublin,200000.0,No,Kimmage,Dublin 6W,q1,20%
+22/05/2013,"15 Stannaway Road, Kimmage",Dublin,121000.0,No,Kimmage,Dublin 6W,q1,10%
+25/06/2013,"15A Bedford Court, Lower Kimmage Road",Dublin,120000.0,No,Kimmage,Dublin 6W,q1,10%
+05/07/2013,"8 Hazel Park, Kimmage Road",Dublin,224000.0,No,Kimmage,Dublin 6W,q1,30%
+31/07/2013,"67 Poodle Park, Lower Kimmage Road, Kimmage",Dublin,220000.0,No,Kimmage,Dublin 6W,q1,30%
+31/07/2013,"84  Devenish Road, Kimmage, Dublin 12",Dublin,150000.0,No,Kimmage,Dublin 6W,q1,10%
+02/08/2013,"42 Lorcan O'Toole Park, Kimmage, Dublin 12",Dublin,315000.0,No,Kimmage,Dublin 6W,q2,50%
+09/08/2013,"49 Larkfield Avenue, Kimmage, Dublin 6W",Dublin,255000.0,No,Kimmage,Dublin 6W,q2,30%
+13/08/2013,"68 Lower Kimmage Road, Kimage",Dublin,445000.0,No,Kimmage,Dublin 6W,q4,90%
+15/08/2013,"45 Kimmage Road West, Dublin 12",Dublin,436000.0,No,Kimmage,Dublin 6W,q4,90%
+28/08/2013,"6 Brookfield Green, Kimmage, Dublin 12",Dublin,311000.0,No,Kimmage,Dublin 6W,q2,50%
+05/09/2013,"184 Lower Kimmage Road, Dublin 6W",Dublin,272000.0,No,Kimmage,Dublin 6W,q2,40%
+06/09/2013,"90 Kimmage Road West, Kimmage",Dublin,450000.0,No,Kimmage,Dublin 6W,q4,90%
+18/09/2013,"180 Lower Kimmage Road, Kimmage",Dublin,271000.0,No,Kimmage,Dublin 6W,q2,40%
+04/10/2013,"18 Larkfield Park, Kimmage, Dublin 6W",Dublin,277000.0,No,Kimmage,Dublin 6W,q2,40%
+22/10/2013,"7 Dangan Drive, Kimmage",Dublin,310000.0,No,Kimmage,Dublin 6W,q2,50%
+06/11/2013,"100 Kilfenora Road, Kimmage",Dublin,135000.0,No,Kimmage,Dublin 6W,q1,10%
+07/11/2013,"19  Kilfenora Road, Kimmage",Dublin,130000.0,No,Kimmage,Dublin 6W,q1,10%
+11/11/2013,"295  Lower Kimmage Road, Kimmage",Dublin,255000.0,No,Kimmage,Dublin 6W,q2,30%
+12/11/2013,"204 Stannaway Rd, Kimmage, Dublin 12",Dublin,162000.0,No,Kimmage,Dublin 6W,q1,10%
+22/11/2013,"83 Larkfield Gardens, Kimmage",Dublin,255000.0,No,Kimmage,Dublin 6W,q2,30%
+27/11/2013,"27 Shelton Dr, Kimmage, Dublin 6W",Dublin,402000.0,No,Kimmage,Dublin 6W,q3,80%
+09/12/2013,"60 Kimmage Rd West, Dublin 12, Dublin",Dublin,510000.0,No,Kimmage,Dublin 6W,q4,90%
+10/12/2013,"50 Cloyne Rd, Kimmage, Dublin 12",Dublin,170000.0,No,Kimmage,Dublin 6W,q1,10%
+18/12/2013,"15 Shelton Park, Kimmage Rd West, Dublin 12",Dublin,375000.0,No,Kimmage,Dublin 6W,q3,70%
+20/12/2013,"106 St Annes, Kimmage Rd West, Dublin 12",Dublin,335000.0,No,Kimmage,Dublin 6W,q3,60%
+17/01/2014,"67 Devenish Rd, Kimmage, Dublin 12",Dublin,128000.0,No,Kimmage,Dublin 6W,q1,10%
+07/02/2014,"69 Sundrive Rd, Kimmage, Dublin 12",Dublin,161000.0,No,Kimmage,Dublin 6W,q1,10%
+11/02/2014,"34 Lorcan Otoole Park, Kimmage, Dublin 12",Dublin,280000.0,No,Kimmage,Dublin 6W,q2,40%
+12/02/2014,"57 Royston, Kimmage Road West",Dublin,115000.0,No,Kimmage,Dublin 6W,q1,10%
+03/03/2014,"21 Kimmage Grove, Dublin 6W, Dublin",Dublin,296000.0,No,Kimmage,Dublin 6W,q2,50%
+25/03/2014,"23 St Annes, Kimmage Rd West, Dublin 12",Dublin,330000.0,No,Kimmage,Dublin 6W,q3,60%
+14/04/2014,"7 St Martins Pk, Kimmage, Dublin 6W",Dublin,342000.0,No,Kimmage,Dublin 6W,q3,60%
+17/04/2014,"7 Dangan Ave, Kimmage Rd West, Dublin 12",Dublin,395000.0,No,Kimmage,Dublin 6W,q3,70%
+18/04/2014,"29 Ravensdale Park, Kimmage",Dublin,150000.0,No,Kimmage,Dublin 6W,q1,10%
+24/04/2014,"143 Kimmage Road West, Dublin 12",Dublin,450000.0,No,Kimmage,Dublin 6W,q4,90%
+22/05/2014,"49 Brookfield, Kimmage Rd West, Dublin 12",Dublin,278800.0,No,Kimmage,Dublin 6W,q2,40%
+26/05/2014,"71 Royston, Kimmage Rd West, Dublin 12",Dublin,245000.0,No,Kimmage,Dublin 6W,q2,30%
+03/06/2014,"70 Kilfenora Rd, Kimmage, Dublin 12",Dublin,240000.0,No,Kimmage,Dublin 6W,q1,30%
+14/06/2014,"180 Kimmage Rd West, Dublin 12, Dublin",Dublin,500000.0,No,Kimmage,Dublin 6W,q4,90%
+10/07/2014,"1A Park Crescent, Off Lorcan Otoole Park, Kimmage Dublin 12",Dublin,145000.0,No,Kimmage,Dublin 6W,q1,10%
+25/07/2014,"134 Lower Kimmage Road, Kimmage",Dublin,605000.0,No,Kimmage,Dublin 6W,q4,100%
+25/07/2014,"147 Kimmage Road West, Dublin 6",Dublin,425000.0,No,Kimmage,Dublin 6W,q4,80%
+30/07/2014,"42 Kilfenora Rd, Kimmage, Dublin 12",Dublin,185000.0,No,Kimmage,Dublin 6W,q1,20%
+01/08/2014,"66 Devenish Rd, Kimmage, Dublin 12",Dublin,275000.0,No,Kimmage,Dublin 6W,q2,40%
+01/08/2014,"69 Sundrive Rd, Kimmage, Dublin 12",Dublin,340000.0,No,Kimmage,Dublin 6W,q3,60%
+06/08/2014,"14 Baroma, Lower Kimmage Rd, Dublin 6W",Dublin,150000.0,No,Kimmage,Dublin 6W,q1,10%
+19/08/2014,"28 Kimmage Grove, Kimmage",Dublin,325000.0,No,Kimmage,Dublin 6W,q3,60%
+22/08/2014,"75 Blarney Park, Kimmage, Dublin 12",Dublin,270000.0,No,Kimmage,Dublin 6W,q2,40%
+25/08/2014,"65 Lismore Rd, Kimmage, Dublin 12",Dublin,160000.0,No,Kimmage,Dublin 6W,q1,10%
+28/08/2014,"109 St Annes, Kimmage, Dublin 12",Dublin,520000.0,No,Kimmage,Dublin 6W,q4,100%
+04/09/2014,"14 Larkfield Gardens, Kimmage, Dublin 6W",Dublin,365000.0,No,Kimmage,Dublin 6W,q3,70%
+23/09/2014,"Cosy Lodge, 152 Kimmage Rd West, Dublin 12",Dublin,480000.0,No,Kimmage,Dublin 6W,q4,90%
+29/09/2014,"1A Park Crescent, Off Lorcan Otoole Park, Kimmage Dublin 12",Dublin,243000.0,No,Kimmage,Dublin 6W,q2,30%
+16/10/2014,"25 Glendale Park, Kimmage, Dublin 12",Dublin,380000.0,No,Kimmage,Dublin 6W,q3,70%
+23/10/2014,"52 Brookfield Green, Kimmage, Dublin 12",Dublin,310000.0,No,Kimmage,Dublin 6W,q2,50%
+24/10/2014,"201 Lower Kimmage Road, Dublin 6",Dublin,338500.0,No,Kimmage,Dublin 6W,q3,60%
+24/10/2014,"3 Royston Court, Kimmage Rd West, Dublin 12",Dublin,320000.0,No,Kimmage,Dublin 6W,q3,60%
+28/10/2014,"2 Poddle Park (Old), Kimmage, Dublin 12",Dublin,336000.0,No,Kimmage,Dublin 6W,q3,60%
+28/10/2014,"47 Shelton Park, Kimmage, Dublin 12",Dublin,510000.0,No,Kimmage,Dublin 6W,q4,100%
+30/10/2014,"52 Brookfield, Kimmage Rd West, Dublin 6W",Dublin,432000.0,No,Kimmage,Dublin 6W,q4,80%
+05/11/2014,"23 St Martins Dr, Kimmage, Dublin 6W",Dublin,427000.0,No,Kimmage,Dublin 6W,q4,80%
+07/11/2014,"3 Hazel Park, Kimmage Rd Lower, Dublin 6W",Dublin,322000.0,No,Kimmage,Dublin 6W,q3,60%
+03/12/2014,"162 Bangor Road, Kimmage, Dublin 12",Dublin,206600.0,No,Kimmage,Dublin 6W,q1,20%
+04/12/2014,"57 Brookfield Green, Kimmage, Dublin 12",Dublin,318000.0,No,Kimmage,Dublin 6W,q3,60%
+17/12/2014,"137 Kimmage Rd West, Dublin 12, Dublin",Dublin,467500.0,No,Kimmage,Dublin 6W,q4,90%
+18/12/2014,"162 Stannaway Road, Kimmage, Dublin 12",Dublin,175000.0,No,Kimmage,Dublin 6W,q1,20%
+22/12/2014,"29 Sundrive Park, Kimmage, Dublin 12",Dublin,296000.0,No,Kimmage,Dublin 6W,q2,50%
+22/12/2014,"5 Lismore Rd, Kimmage, Dublin 12",Dublin,175000.0,No,Kimmage,Dublin 6W,q1,20%
+07/01/2015,"19 Ravensdale Dr, Kimmage, Dublin 12",Dublin,430000.0,No,Kimmage,Dublin 6W,q4,80%
+20/01/2015,"67 Captains Rd, Kimmage, Dublin 12",Dublin,252500.0,No,Kimmage,Dublin 6W,q2,30%
+29/01/2015,"50 Kimmage Grove, Dublin 6W",Dublin,310000.0,No,Kimmage,Dublin 6W,q2,50%
+09/02/2015,"4 Kimmage Court, Lower Kimmage Rd, Dublin 6W",Dublin,265000.0,No,Kimmage,Dublin 6W,q2,40%
+09/02/2015,"80 Brookfield, Kimmage Cross Road, Brookfield",Dublin,425000.0,No,Kimmage,Dublin 6W,q4,80%
+13/02/2015,"11 Kimmage Court, Lr Kimmage Rd, Dublin 6",Dublin,265000.0,No,Kimmage,Dublin 6W,q2,40%
+26/02/2015,"10 Lismore Rd, Kimmage, Dublin 12",Dublin,181000.0,No,Kimmage,Dublin 6W,q1,20%
+23/03/2015,"25 Kimmage Grove, Kimmage Rd Lower, Kimmage Dublin 6W",Dublin,346000.0,No,Kimmage,Dublin 6W,q3,60%
+23/03/2015,"3A Bedford Court, Lower Kimmage Rd, Dublin 6W",Dublin,180000.0,No,Kimmage,Dublin 6W,q1,20%
+24/03/2015,"110 Captains Rd, Kimmage, Dublin 12",Dublin,257000.0,No,Kimmage,Dublin 6W,q2,40%
+31/03/2015,"321 Lower Kimmage Road, Dublin 6W",Dublin,365000.0,No,Kimmage,Dublin 6W,q3,70%
+08/04/2015,"56 Durrow Rd, Kimmage, Dublin 12",Dublin,193000.0,No,Kimmage,Dublin 6W,q1,20%
+09/04/2015,"134 Kimmage Rd West, Kimmage, Dublin 12",Dublin,335000.0,No,Kimmage,Dublin 6W,q3,60%
+05/05/2015,"13 Kilfenora Rd, Kimmage, Dublin 12",Dublin,200000.0,No,Kimmage,Dublin 6W,q1,20%
+08/05/2015,"3 Kilfenora Rd, Kimmage, Dublin 12",Dublin,195000.0,No,Kimmage,Dublin 6W,q1,20%
+19/05/2015,"28 Shelton Drive, Kimmage, Dublin 12",Dublin,450000.0,No,Kimmage,Dublin 6W,q4,90%
+15/06/2015,"340 Lower Kimmage Rd, Dublin 6W, Dublin",Dublin,166700.0,No,Kimmage,Dublin 6W,q1,10%
+15/06/2015,"46 Lismore Rd, Kimmage, Dublin 12",Dublin,195000.0,No,Kimmage,Dublin 6W,q1,20%
+16/06/2015,"5 Dangan Park, Kimmage, Dublin 12",Dublin,435000.0,No,Kimmage,Dublin 6W,q4,90%
+22/06/2015,"45 Kimmage Rd West, Dublin 12, Dublin",Dublin,570000.0,No,Kimmage,Dublin 6W,q4,100%
+23/06/2015,"241 Lower Kimmage Rd, Dublin 6W, Dublin",Dublin,377000.0,No,Kimmage,Dublin 6W,q3,70%
+03/07/2015,"7 Shelton Gardens, Kimmage Rd West, Dublin 12",Dublin,423000.0,No,Kimmage,Dublin 6W,q4,80%
+03/07/2015,"9 Baroma Lower, Kimmage Road, Dublin 6W",Dublin,167000.0,No,Kimmage,Dublin 6W,q1,10%
+10/07/2015,"6 Kimmage Grove, Lower Kimmage Rd, Dublin 6W",Dublin,340000.0,No,Kimmage,Dublin 6W,q3,60%
+21/07/2015,"106 Larkfield Gardens, Kimmage, Dublin 6W",Dublin,352000.0,No,Kimmage,Dublin 6W,q3,70%
+05/08/2015,"94 Kimmage Rd West, Dublin 12, Dublin",Dublin,590000.0,No,Kimmage,Dublin 6W,q4,100%
+10/08/2015,"Apt 3 Clonard Court, Poddel Park, Kimmage Dublin 12",Dublin,166000.0,No,Kimmage,Dublin 6W,q1,10%
+21/08/2015,"178 Kimmage Road West, Kimmage, Dublin 12",Dublin,427000.0,No,Kimmage,Dublin 6W,q4,80%
+25/08/2015,"444 Clonard Road, Poddle Park, Kimmage",Dublin,192770.0,No,Kimmage,Dublin 6W,q1,20%
+28/08/2015,"151 Stannaway Rd, Kimmage, Dublin 12",Dublin,185000.0,No,Kimmage,Dublin 6W,q1,20%
+02/09/2015,"71 Devenish Rd, Kimmage, Dublin 12",Dublin,298000.0,No,Kimmage,Dublin 6W,q2,50%
+28/09/2015,"28 Brookfield Green, Kimmage, Dublin 12",Dublin,420000.0,No,Kimmage,Dublin 6W,q3,80%
+28/09/2015,"28 St Teresas Rd, Kimmage Rd West, Dublin 12",Dublin,402000.0,No,Kimmage,Dublin 6W,q3,80%
+30/09/2015,"48 Devenish Rd, Kimmage, Dublin 12",Dublin,302000.0,No,Kimmage,Dublin 6W,q2,50%
+15/10/2015,"184 Kimmage Rd West, Dublin 12, Dublin",Dublin,450000.0,No,Kimmage,Dublin 6W,q4,90%
+06/11/2015,"214 Stanaway Rd, Kimmage, Dublin 12",Dublin,200500.0,No,Kimmage,Dublin 6W,q1,20%
+12/11/2015,"38 Royston, Kimmage Rd West, Dublin 12",Dublin,335000.0,No,Kimmage,Dublin 6W,q3,60%
+13/11/2015,"125 St Annes, Kimmage Rd West, Dublin 12",Dublin,330000.0,No,Kimmage,Dublin 6W,q3,60%
+20/11/2015,"324 Cashel Rd, Kimmage, Dublin 12",Dublin,210000.0,No,Kimmage,Dublin 6W,q1,20%
+20/11/2015,"41 Larkfield Grove, Kimmage, Dublin 6W",Dublin,352000.0,No,Kimmage,Dublin 6W,q3,70%
+20/11/2015,"50 Kilfenora Road, Kimmage",Dublin,220000.0,No,Kimmage,Dublin 6W,q1,30%
+27/11/2015,"30 Brookfield, Kimmage Rd West, Dublin 12",Dublin,380000.0,No,Kimmage,Dublin 6W,q3,70%
+27/11/2015,"Apt 2 Gravalie, 225A Lower Kimmage Rd, Dublin 6W",Dublin,243000.0,No,Kimmage,Dublin 6W,q2,30%
+08/12/2015,"81 Lismore Rd, Kimmage, Dublin 12",Dublin,195000.0,No,Kimmage,Dublin 6W,q1,20%
+11/12/2015,"4A Poddle Park, Kimmage, Dublin 12",Dublin,330000.0,No,Kimmage,Dublin 6W,q3,60%
+16/12/2015,"13 Cloyne Rd, Kimmage, Dublin 12",Dublin,215000.0,No,Kimmage,Dublin 6W,q1,20%
+16/12/2015,"2 Tonguefield Rd, Kimmage, Dublin 12",Dublin,293500.0,No,Kimmage,Dublin 6W,q2,50%
+16/12/2015,"233 Lower Kimmage Road, Kimage",Dublin,275000.0,No,Kimmage,Dublin 6W,q2,40%
+06/01/2016,"Apt 1B, Bedford Court, Lower Kimmage Rd Dublin 6W",Dublin,130000.0,No,Kimmage,Dublin 6W,q1,10%
+05/02/2016,"8 Poddle Park, Kimmage, Dublin 12",Dublin,300000.0,No,Kimmage,Dublin 6W,q2,50%
+12/02/2016,"123 St Annes, Kimmage Road West, Dublin 12",Dublin,327000.0,No,Kimmage,Dublin 6W,q3,60%
+12/02/2016,"46 Cloyne Rd, Kimmage, Dublin 12",Dublin,190000.0,No,Kimmage,Dublin 6W,q1,20%
+22/02/2016,"33 Stannaway Rd, Kimmage, Dublin 12",Dublin,188000.0,No,Kimmage,Dublin 6W,q1,20%
+03/03/2016,"331 333 Lower Kimmage Rd, Apt 27 28 29 30 31, Kimmage",Dublin,180000.0,No,Kimmage,Dublin 6W,q1,20%
+07/03/2016,"114 Kimmage Rd West, Dublin 12, Dublin",Dublin,535000.0,No,Kimmage,Dublin 6W,q4,100%
+07/03/2016,"169 Clonmacnoise Road, Kimmage, Dublin 12",Dublin,194500.0,No,Kimmage,Dublin 6W,q1,20%
+16/03/2016,"67 Royston, Kimmage Rd West, Dublin 12",Dublin,310000.0,No,Kimmage,Dublin 6W,q2,50%
+01/04/2016,"18 Shelton Gardens, Kimmage Rd West, Dublin 12",Dublin,385000.0,No,Kimmage,Dublin 6W,q3,70%
+04/04/2016,"5 Clonard Court, Poddle Park, Kimmage Dublin 12",Dublin,175000.0,No,Kimmage,Dublin 6W,q1,20%
+14/04/2016,"28C Blarney Park, Kimmage, Dublin 12",Dublin,312000.0,No,Kimmage,Dublin 6W,q2,50%
+16/04/2016,"36 Brookfield Green, Kimmage, Dublin 12",Dublin,282000.0,No,Kimmage,Dublin 6W,q2,40%
+19/04/2016,"35 Ferns Rd, Kimmage, Dublin 12",Dublin,172000.0,No,Kimmage,Dublin 6W,q1,20%
+20/04/2016,"36 St Annes, Kimmage Rd West, Dublin 12",Dublin,365000.0,No,Kimmage,Dublin 6W,q3,70%
+21/04/2016,"78 Royston, Kimmage Road West, Dublin 6W",Dublin,299000.0,No,Kimmage,Dublin 6W,q2,50%
+04/05/2016,"201 Sundrive Rd, Kimmage, Dublin 12",Dublin,396000.0,No,Kimmage,Dublin 6W,q3,80%
+09/05/2016,"236 Lower Kimmage Rd, Kimmage, Dublin 6W",Dublin,415000.0,No,Kimmage,Dublin 6W,q3,80%
+20/05/2016,"17 Kimmage Rd West, Dublin 12",Dublin,590000.0,No,Kimmage,Dublin 6W,q4,100%
+26/05/2016,"15 St Annes, Kimmage Rd West, Dublin 12",Dublin,370000.0,No,Kimmage,Dublin 6W,q3,70%
+30/05/2016,"61 Larkfield Grove, Kimmage, Dublin 6W",Dublin,380000.0,No,Kimmage,Dublin 6W,q3,70%
+10/06/2016,"43 Larkfield Ave, Kimmage, Dublin 6W",Dublin,421800.0,No,Kimmage,Dublin 6W,q4,80%
+15/06/2016,"146 Kimmage Rd West, Dublin 6W, Dublin",Dublin,420000.0,No,Kimmage,Dublin 6W,q4,80%
+17/06/2016,"20 Park Crescent, Kimmage, Dublin 12",Dublin,385000.0,No,Kimmage,Dublin 6W,q3,70%
+22/06/2016,"4 Poddle Green, Kimmage, Dublin 12",Dublin,295000.0,No,Kimmage,Dublin 6W,q2,50%
+27/06/2016,"160 Bangor Rd, Kimmage, Dublin 12",Dublin,292500.0,No,Kimmage,Dublin 6W,q2,50%
+27/06/2016,"Breffni, 146 Kimmage Rd Lower, Dublin 6W",Dublin,612000.0,No,Kimmage,Dublin 6W,q4,100%
+30/06/2016,"3Idangan Park, Kimmage Rd West, Dublin 12",Dublin,393000.0,No,Kimmage,Dublin 6W,q3,70%
+01/07/2016,"32 Blarney Park, Kimmage, Dublin 12",Dublin,339000.0,No,Kimmage,Dublin 6W,q3,60%
+07/07/2016,"456 Clonard Rd, Kimmage, Dublin",Dublin,445000.0,No,Kimmage,Dublin 6W,q4,90%
+07/07/2016,"82 Brookfield, Kimmage Rd West, Kimmage Dublin 12",Dublin,415000.0,No,Kimmage,Dublin 6W,q3,80%
+14/07/2016,"65 Lismore Rd, Kimmage, Dublin 12",Dublin,300000.0,No,Kimmage,Dublin 6W,q2,50%
+21/07/2016,"75 Devenish Rd, Kimmage, Dublin 12",Dublin,276000.0,No,Kimmage,Dublin 6W,q2,40%
+26/07/2016,"18 Brookfield Green, Kimmage, Dublin 12",Dublin,436000.0,No,Kimmage,Dublin 6W,q4,90%
+29/07/2016,"63 Stannaway Avenue, Kimmage, Dublin 12",Dublin,285000.0,No,Kimmage,Dublin 6W,q2,50%
+18/08/2016,"5 Sundrive Park, Kimmage, Dublin 12",Dublin,421500.0,No,Kimmage,Dublin 6W,q4,80%
+26/08/2016,"3 Baroma 300 Lower Kimmage Rd, Kimmage, Dublin 6W",Dublin,166000.0,No,Kimmage,Dublin 6W,q1,10%
+30/08/2016,"170 Harold'S Cross, Lower Kimmage Road, Dublin 6W",Dublin,292000.0,No,Kimmage,Dublin 6W,q2,50%
+08/09/2016,"55 Royston, Kimmage Rd West, Dublin 12",Dublin,430000.0,No,Kimmage,Dublin 6W,q4,80%
+27/09/2016,"1 St Martins Dr, Kimmage Rd Lower, Dublin 6W",Dublin,446000.0,No,Kimmage,Dublin 6W,q4,90%
+30/09/2016,"426 Clonard Rd, Kimmage, Dublin 12",Dublin,368000.0,No,Kimmage,Dublin 6W,q3,70%
+07/10/2016,"103 Kimmage Rd West, Dublin 12, Dublin",Dublin,671000.0,No,Kimmage,Dublin 6W,q4,100%
+13/10/2016,"2 Brookfield Green, Kimmage, Dublin 12",Dublin,340000.0,No,Kimmage,Dublin 6W,q3,60%
+20/10/2016,"72 Devenish Rd, Kimmage, Dublin 12",Dublin,260000.0,No,Kimmage,Dublin 6W,q2,40%
+25/10/2016,"72 Stanaway Rd Kimmage, Dublin 12, Dublin",Dublin,261000.0,No,Kimmage,Dublin 6W,q2,40%
+28/10/2016,"22 Cloyne Rd, Kimmage, Dublin 12",Dublin,256000.0,No,Kimmage,Dublin 6W,q2,40%
+08/11/2016,"52 Lr Kimmage Rd, Dublin 6W, Dublin",Dublin,630000.0,No,Kimmage,Dublin 6W,q4,100%
+09/11/2016,"182 Bangor Rd, Kimmage, Dublin 12",Dublin,295000.0,No,Kimmage,Dublin 6W,q2,50%
+16/11/2016,"21 Durrow Rd, Kimmage, Dublin 12",Dublin,240000.0,No,Kimmage,Dublin 6W,q1,30%
+18/11/2016,"18 Mount Argus Park, Kimmage Rd Lower, Dublin 6W",Dublin,375000.0,No,Kimmage,Dublin 6W,q3,70%
+23/11/2016,"Apt 2, Glenanne, Kimmage Cross Rd Dublin 6",Dublin,235500.0,No,Kimmage,Dublin 6W,q1,30%
+24/11/2016,"47 Stannaway Rd, Kimmage, Dublin 12",Dublin,230000.0,No,Kimmage,Dublin 6W,q1,30%
+25/11/2016,"57 Sundrive Road, Kimmage, Dublin 12",Dublin,317000.0,No,Kimmage,Dublin 6W,q2,50%
+28/11/2016,"115 Larkfield Gardens, Kimmage, Dublin 6W",Dublin,420000.0,No,Kimmage,Dublin 6W,q4,80%
+28/11/2016,"13 Blarney Park, Kimmage, Dublin 12",Dublin,390000.0,No,Kimmage,Dublin 6W,q3,70%
+14/12/2016,"23 Kimmage Grove, Lower Kimmage Rd, Dublin 6W",Dublin,350000.0,No,Kimmage,Dublin 6W,q3,70%
+16/12/2016,"37 Royston, Kimmage Rd West, Dublin 12",Dublin,325000.0,No,Kimmage,Dublin 6W,q3,60%
+20/12/2016,"23 Larkfield Park, Kimmage, Dublin 6W",Dublin,425500.0,No,Kimmage,Dublin 6W,q4,80%
+09/01/2017,"366 Cashel Rd, Kimmage, Dublin 12",Dublin,182000.0,No,Kimmage,Dublin 6W,q1,20%
+13/01/2017,"Apt 5, 225A Lower Kimmage Rd, Dublin 6W",Dublin,195000.0,No,Kimmage,Dublin 6W,q1,20%
+27/01/2017,"14 Brookfield Green, Kimmage, Dublin 12",Dublin,470000.0,No,Kimmage,Dublin 6W,q4,90%
+16/02/2017,"156 Lismore Rd, Kimmage, Dublin 12",Dublin,165000.0,No,Kimmage,Dublin 6W,q1,10%
+09/03/2017,"622 Clonard Rd, Kimmage, Dublin 12",Dublin,500000.0,No,Kimmage,Dublin 6W,q4,90%
+16/03/2017,"142 Kimmage Rd Lower, Mount Argus, Dublin 6W",Dublin,618500.0,No,Kimmage,Dublin 6W,q4,100%
+23/03/2017,"26 Royston, Kimmage Rd West, Dublin 12",Dublin,392500.0,No,Kimmage,Dublin 6W,q3,70%
+24/03/2017,"57 Kilfenora Rd, Kimmage, Dublin 12",Dublin,227000.0,No,Kimmage,Dublin 6W,q1,30%
+27/03/2017,"4B Bedford Court, Lower Kimmage Rd, Dublin 6W",Dublin,190000.0,No,Kimmage,Dublin 6W,q1,20%
+25/04/2017,"20 St Martins Park, Kimmage Rd Lower, Dublin 6W",Dublin,425000.0,No,Kimmage,Dublin 6W,q4,80%
+26/04/2017,"112 Lismore Rd, Kimmage, Dublin 12",Dublin,240000.0,No,Kimmage,Dublin 6W,q1,30%
+02/05/2017,"2 Blarney Park, Kimmage, Dublin 12",Dublin,356000.0,No,Kimmage,Dublin 6W,q3,70%
+04/05/2017,"153 Cashel Rd, Kimmage, Dublin 12",Dublin,237500.0,No,Kimmage,Dublin 6W,q1,30%
+05/05/2017,"44 Poddle Park, Kimmage, Dublin 12",Dublin,533000.0,No,Kimmage,Dublin 6W,q4,100%
+23/05/2017,"32 Kimmage Grove, Kimmage Road Lower, Dublin 6W",Dublin,370000.0,No,Kimmage,Dublin 6W,q3,70%
+26/05/2017,"6 Larkfield Ave, Lower Kimmage Rd, Dublin 6W",Dublin,432000.0,No,Kimmage,Dublin 6W,q4,90%
+26/05/2017,"7 Dangan Ave, Kimmage Rd West, Dublin 12",Dublin,510000.0,No,Kimmage,Dublin 6W,q4,100%
+02/06/2017,"43 Kimmage Grove, Kimmage, Dublin 6W",Dublin,406000.0,No,Kimmage,Dublin 6W,q3,80%
+06/06/2017,"6 Royston, Kimmage Rd West, Dublin 6W",Dublin,440000.0,No,Kimmage,Dublin 6W,q4,90%
+19/06/2017,"166 Lower Kimmage Rd, Dublin 6W, Dublin",Dublin,550000.0,No,Kimmage,Dublin 6W,q4,100%
+19/06/2017,"73 Blarney Park, Kimmage, Dublin 12",Dublin,260000.0,No,Kimmage,Dublin 6W,q2,40%
+23/06/2017,"63 St Annes, Kimmage Rd West, Dublin 12",Dublin,460000.0,No,Kimmage,Dublin 6W,q4,90%
+29/06/2017,"192 Kimmage Rd West, Dublin 12, Dublin",Dublin,535000.0,No,Kimmage,Dublin 6W,q4,100%
+06/07/2017,"14 Brookfield, Kimmage Rd West, Dublin 12",Dublin,422000.0,No,Kimmage,Dublin 6W,q4,80%
+11/07/2017,"83 Brookfield, Kimmage Rd West, Dublin 12",Dublin,550000.0,No,Kimmage,Dublin 6W,q4,100%
+18/07/2017,"22 Captains Ave, Kimmage, Dublin 12",Dublin,285000.0,No,Kimmage,Dublin 6W,q2,50%
+18/07/2017,"8 Ashewood House, Kimmage Rd Lower, Dublin 6W",Dublin,193000.0,No,Kimmage,Dublin 6W,q1,20%
+31/07/2017,"7 Dangan Drive, Kimmage, Dublin 12",Dublin,475000.0,No,Kimmage,Dublin 6W,q4,90%
+31/07/2017,"Apt 3 112 Sundrive Rd, Kimmage, Dublin 12",Dublin,225000.0,No,Kimmage,Dublin 6W,q1,30%
+09/08/2017,"20 Shelton Dr, Kimmage Rd West, Dublin 12",Dublin,445000.0,No,Kimmage,Dublin 6W,q4,90%
+21/08/2017,"163 Kimmage Road West, Dublin 12",Dublin,450000.0,No,Kimmage,Dublin 6W,q4,90%
+28/08/2017,"16 Stannaway Rd, Kimmage, Dublin 12",Dublin,250000.0,No,Kimmage,Dublin 6W,q2,30%
+04/09/2017,"202 Lower Kimmage Rd, Kimmage, City Of Dublin",Dublin,565000.0,No,Kimmage,Dublin 6W,q4,100%
+05/09/2017,"36 Aideen Ave, Kimmage Rd Lower, Dublin 6W",Dublin,325000.0,No,Kimmage,Dublin 6W,q3,60%
+05/09/2017,"98 St Annes, Kimmage Rd West, Kimmage Dublin 12",Dublin,381000.0,No,Kimmage,Dublin 6W,q3,70%
+08/09/2017,"Apartment 5, Larissa, 213A Lower Kimmage Road",Dublin,210000.0,No,Kimmage,Dublin 6W,q1,20%
+15/09/2017,"102 Royston, Kimmage Rd West, Dublin 12",Dublin,393000.0,No,Kimmage,Dublin 6W,q3,70%
+15/09/2017,"Apt B6, Bedford Court, Lower Kimmage Rd Dublin 6W",Dublin,280000.0,No,Kimmage,Dublin 6W,q2,40%
+22/09/2017,"33 Blarney Park, Kimmage, Dublin 12",Dublin,405000.0,No,Kimmage,Dublin 6W,q3,80%
+25/09/2017,"141 Bangor Rd, Kimmage, Dublin 12",Dublin,420420.0,No,Kimmage,Dublin 6W,q4,80%
+09/10/2017,"15 Shelton Dr, Kimmage Rd West, Dublin 12",Dublin,445000.0,No,Kimmage,Dublin 6W,q4,90%
+11/10/2017,"10 Larissa Court, Lower Kimmage Rd, Dublin 6W",Dublin,172000.0,No,Kimmage,Dublin 6W,q1,20%
+17/10/2017,"51 Royston, Kimmage Rd West, Dublin 12",Dublin,411500.0,No,Kimmage,Dublin 6W,q3,80%
+24/10/2017,"39 Brookfield Green, Kimmage, Dublin 12",Dublin,410000.0,No,Kimmage,Dublin 6W,q3,80%
+27/10/2017,"43 Blarney Park, Kimmage, Dublin 12",Dublin,382500.0,No,Kimmage,Dublin 6W,q3,70%
+31/10/2017,"234 Stanaway Road, Kimmage, Dublin 12",Dublin,270000.0,No,Kimmage,Dublin 6W,q2,40%
+03/11/2017,"23 Brookfield Court, Brookfield Green, Kimmage Dublin 12",Dublin,250000.0,No,Kimmage,Dublin 6W,q2,30%
+03/11/2017,"7 Larkfield Rd, Kimmage, Dublin 6",Dublin,460000.0,No,Kimmage,Dublin 6W,q4,90%
+08/11/2017,"157 Kimmage Road West, Kimmage, Dublin 12",Dublin,510000.0,No,Kimmage,Dublin 6W,q4,100%
+21/11/2017,"12 Clonard Court, Poddle Park, Kimmage Dublin 12",Dublin,237000.0,No,Kimmage,Dublin 6W,q1,30%
+21/11/2017,"26 St Martins Dr, Lower Kimmage Rd, Dublin 6W",Dublin,562000.0,No,Kimmage,Dublin 6W,q4,100%
+24/11/2017,"95 Kimmage Rd West, Dublin 12",Dublin,701000.0,No,Kimmage,Dublin 6W,q4,100%
+05/12/2017,"1 Shelton Dr, Kimmage Rd West, Dublin 12",Dublin,430000.0,No,Kimmage,Dublin 6W,q4,80%
+05/12/2017,"6 St Martins Park, Kimmage, Dublin 6W",Dublin,563500.0,No,Kimmage,Dublin 6W,q4,100%
+07/12/2017,"18 Brookfield Green, Kimmage, Dublin 12",Dublin,510000.0,No,Kimmage,Dublin 6W,q4,100%
+12/12/2017,"212 Bangor Rd, Kimmage, Dublin 12",Dublin,350000.0,No,Kimmage,Dublin 6W,q3,70%
+13/12/2017,"4 Royston Court, Kimmage Rd West, Dublin 12",Dublin,355000.0,No,Kimmage,Dublin 6W,q3,70%
+19/12/2017,"95 St Annes, Kimmage Rd, Dublin 14",Dublin,360000.0,No,Kimmage,Dublin 6W,q3,70%
+21/12/2017,"46 Kilfenora Rd, Kimmage, Dublin 12",Dublin,321000.0,No,Kimmage,Dublin 6W,q3,60%
+04/01/2018,"61 Brookfield Est, Kimmage Cross Rd, Dublin 12",Dublin,445000.0,No,Kimmage,Dublin 6W,q4,90%
+05/01/2018,"33 Ravensdale Dr, Kimmage, Dublin 12",Dublin,500000.0,No,Kimmage,Dublin 6W,q4,90%
+05/01/2018,"619 Clonard Rd, Kimmage, Dublin 12",Dublin,652000.0,No,Kimmage,Dublin 6W,q4,100%
+12/01/2018,"29 Shelton Park, Kimmage Rd West, Dublin 12",Dublin,535000.0,No,Kimmage,Dublin 6W,q4,100%
+12/01/2018,"3 Poddle Green, Poddle Park Rd, Kimmage Dublin 12",Dublin,330000.0,No,Kimmage,Dublin 6W,q3,60%
+22/01/2018,"67 Kimmage Grove, Kimmage Rd Lower, Dublin 6W",Dublin,290000.0,No,Kimmage,Dublin 6W,q2,50%
+29/01/2018,"4 Poddle Park, Bangor Road End, Kimmage",Dublin,419000.0,No,Kimmage,Dublin 6W,q3,80%
+07/02/2018,"152 Bangor Rd, Kimmage, Dublin 12",Dublin,322500.0,No,Kimmage,Dublin 6W,q3,60%
+09/02/2018,"6 Glenanne Apts, Kimmage Rd West, Dublin 12",Dublin,325000.0,No,Kimmage,Dublin 6W,q3,60%
+16/02/2018,"73 Blarney Park, Kimmage, Dublin 12",Dublin,490000.0,No,Kimmage,Dublin 6W,q4,90%
+19/02/2018,"182 Lower Kimmage Road, Dublin 6W",Dublin,500000.0,No,Kimmage,Dublin 6W,q4,90%
+23/02/2018,"342 Lower Kimmage Rd, Dublin 6W, Dublin",Dublin,675000.0,No,Kimmage,Dublin 6W,q4,100%
+09/03/2018,"112 Lismore Rd, Kimmage, Dublin 12",Dublin,328000.0,No,Kimmage,Dublin 6W,q3,60%
+12/03/2018,"15 Clonfert Rd, Kimmage, Dublin 12",Dublin,262500.0,No,Kimmage,Dublin 6W,q2,40%
+12/03/2018,"271 Cashel Rd Kimmage, Dublin 12, Dublin",Dublin,251000.0,No,Kimmage,Dublin 6W,q2,30%
+16/03/2018,"Apt 1, 220 Kimmage Rd Lower, Dublin 6W",Dublin,290000.0,No,Kimmage,Dublin 6W,q2,50%
+26/03/2018,"2 Aideen Place, Kimmage Road, Dublin 6W",Dublin,395066.07,Yes,Kimmage,Dublin 6W,q3,80%
+27/03/2018,"37 Kimmage Grove, Kimmage, Dublin 6W",Dublin,398000.0,No,Kimmage,Dublin 6W,q3,80%
+19/04/2018,"33 Shelton Gardens, Kimmage Rd West, Dublin 12",Dublin,190000.0,No,Kimmage,Dublin 6W,q1,20%
+24/04/2018,"1 Aideen Place, Kimmage, Dublin 6W",Dublin,396476.0,Yes,Kimmage,Dublin 6W,q3,80%
+25/04/2018,"63 Sundrive Rd, Kimmage, Dublin 12",Dublin,280000.0,No,Kimmage,Dublin 6W,q2,40%
+27/04/2018,"2 Shelton Dr, Kimmage, Dublin 12",Dublin,500000.0,No,Kimmage,Dublin 6W,q4,90%
+27/04/2018,"50 Kilfenora Rd, Kimmage, Dublin 12",Dublin,542100.0,No,Kimmage,Dublin 6W,q4,100%
+02/05/2018,"3A Aideen Place, Kimmage",Dublin,401828.0,Yes,Kimmage,Dublin 6W,q3,80%
+03/05/2018,"329 Lower Kimmage Road, Kimmage, Dublin",Dublin,400000.0,No,Kimmage,Dublin 6W,q3,80%
+09/05/2018,"195 Clonard Rd, Kimmage, Dublin 12",Dublin,236750.0,No,Kimmage,Dublin 6W,q1,30%
+22/05/2018,"60 Kimmage Grove, Kimmage Rd Lower, Dublin 6W",Dublin,410000.0,No,Kimmage,Dublin 6W,q3,80%
+23/05/2018,"Apt 1, 27 Ravensdale Park, Kimmage",Dublin,331000.0,No,Kimmage,Dublin 6W,q3,60%
+25/05/2018,"36 Aideen Ave, Kimmage Rd Lower, Dublin 6W",Dublin,540000.0,No,Kimmage,Dublin 6W,q4,100%
+25/05/2018,"Apt 1, 27 Ravensdale Park, Kimmage",Dublin,331000.0,No,Kimmage,Dublin 6W,q3,60%
+28/05/2018,"Avila, 16B St Teresa'S Road, Off Kimmage Road West",Dublin,541850.0,Yes,Kimmage,Dublin 6W,q4,100%
+06/06/2018,"16A St. St.Teresa&#039;S Road, Off Kimmage Road West, Dublin 12",Dublin,555066.0,Yes,Kimmage,Dublin 6W,q4,100%
+08/06/2018,"51 Devenish Rd, Kimmage, Dublin 12",Dublin,240000.0,No,Kimmage,Dublin 6W,q2,30%
+14/06/2018,"94 Kimmage Rd West, Dublin 12, Dublin",Dublin,638000.0,No,Kimmage,Dublin 6W,q4,100%
+04/07/2018,"65 Kimmage Grove Kimmage, Dublin 6W, Dublin",Dublin,441000.0,No,Kimmage,Dublin 6W,q4,90%
+06/07/2018,"108 Kimmage Rd Lower, Dublin 6W, Dublin",Dublin,1020000.0,No,Kimmage,Dublin 6W,q4,100%
+12/07/2018,"37 Kilfenora Rd, Kimmage, Dublin 12",Dublin,360000.0,No,Kimmage,Dublin 6W,q3,70%
+18/07/2018,"63 Lismore Road, Kimmage, Dublin 12",Dublin,261000.0,No,Kimmage,Dublin 6W,q2,40%
+19/07/2018,"34 Clonfert Rd, Kimmage, Dublin 12",Dublin,315000.0,No,Kimmage,Dublin 6W,q2,50%
+31/07/2018,"7 Larkfield Gardens, Kimmage, Dublin 6",Dublin,420000.0,No,Kimmage,Dublin 6W,q4,80%
+02/08/2018,"19 Stannaway Rd, Kimmage, Dublin 12",Dublin,305000.0,No,Kimmage,Dublin 6W,q2,50%
+13/08/2018,"1 Kimmage Court, Lower Kimmage Rd, Dublin 6W",Dublin,315000.0,No,Kimmage,Dublin 6W,q2,50%
+13/08/2018,"180  Lower Kimmage Road, Kimmage, Dublin 6W",Dublin,539000.0,No,Kimmage,Dublin 6W,q4,100%
+21/08/2018,"16 Clonmacnoise Rd, Kimmage, Dublin 12",Dublin,285000.0,No,Kimmage,Dublin 6W,q2,50%
+31/08/2018,"623 Clonard Rd, Kimmage, Dublin 12",Dublin,452500.0,No,Kimmage,Dublin 6W,q4,90%
+31/08/2018,"91 Larkfield Gardens, Kimmage, Dublin 6W",Dublin,475000.0,No,Kimmage,Dublin 6W,q4,90%
+10/09/2018,"45 Shelton Park, Kimmage, Dublin",Dublin,495000.0,No,Kimmage,Dublin 6W,q4,90%
+11/09/2018,"325 Lr Kimmage Rd, Kimmage, Dublin 6W",Dublin,525000.0,No,Kimmage,Dublin 6W,q4,100%
+17/09/2018,"116 Captains Rd, Kimmage, Dublin 12",Dublin,325995.0,No,Kimmage,Dublin 6W,q3,60%
+17/09/2018,"12 Tonguefield Rd, Kimmage, Dublin 12",Dublin,326000.0,No,Kimmage,Dublin 6W,q3,60%
+31/10/2018,"132 Kimmage Rd West, Dublin 12, Dublin",Dublin,243750.0,No,Kimmage,Dublin 6W,q2,30%
+31/10/2018,"90 Stannaway Rd, Kimmage, Dublin 12",Dublin,339000.0,No,Kimmage,Dublin 6W,q3,60%
+31/10/2018,"96 Lower Kimmage Rd Apt 1, Rathmines, Dublin 6",Dublin,578571.0,No,Kimmage,Dublin 6W,q4,100%
+09/11/2018,"31 Devenish Rd, Kimmage, Dublin 12",Dublin,320000.0,No,Kimmage,Dublin 6W,q3,60%
+12/11/2018,"Apartment 1, 106 Sundrive Road, Kimmage Dublin 12",Dublin,490000.0,No,Kimmage,Dublin 6W,q4,90%
+16/11/2018,"66 Brookfield, Kimmage Road West, Dublin 12",Dublin,563000.0,No,Kimmage,Dublin 6W,q4,100%
+23/11/2018,"44 Stannaway Ave, Kimmage, Dublin 12",Dublin,341000.0,No,Kimmage,Dublin 6W,q3,60%
+06/12/2018,"1 Brookfield, Kimmage Rd West, Dublin 12",Dublin,495000.0,No,Kimmage,Dublin 6W,q4,90%
+11/12/2018,"298 Cashel Rd, Kimmage, Dublin 12",Dublin,310000.0,No,Kimmage,Dublin 6W,q2,50%
+13/12/2018,"92 Kilfenora Rd, Kimmage, Dublin 12",Dublin,300000.0,No,Kimmage,Dublin 6W,q2,50%
+18/12/2018,"Aberfoyle, 50 Kimmage Rd Lower, Dublin 6W",Dublin,322500.0,No,Kimmage,Dublin 6W,q3,60%
+18/12/2018,"Apt 18, Glenanne, Kimmage Rd Dublin 12",Dublin,360000.0,No,Kimmage,Dublin 6W,q3,70%
+19/12/2018,"11 Ashwood House, Kimmage Rd Lower, Kimmage",Dublin,240000.0,No,Kimmage,Dublin 6W,q2,30%
+15/01/2019,"251 Kimmage Rd Lower, Dublin 6W, Dublin",Dublin,888000.0,No,Kimmage,Dublin 6W,q4,100%
+18/01/2019,"38 Cloyne Rd, Kimmage, Dublin 12",Dublin,281000.0,No,Kimmage,Dublin 6W,q2,40%
+25/01/2019,"38 Kilfenora Rd, Kimmage, Dublin 12",Dublin,320000.0,No,Kimmage,Dublin 6W,q3,60%
+25/01/2019,"88 St Annes, Kimmage, Dublin 12",Dublin,392500.0,No,Kimmage,Dublin 6W,q3,70%
+29/01/2019,"33 St Martins Park, Lwr Kimmage Rd, Dublin 6W",Dublin,575000.0,No,Kimmage,Dublin 6W,q4,100%
+30/01/2019,"10 Clonfert Rd, Kimmage, Dublin 12",Dublin,315000.0,No,Kimmage,Dublin 6W,q2,50%
+08/02/2019,"57 Kimmage Grove, Kimmage, Dublin 6W",Dublin,380000.0,No,Kimmage,Dublin 6W,q3,70%
+13/02/2019,"261 Kimmage Rd Lower, Dublin 6W, Dublin",Dublin,480000.0,No,Kimmage,Dublin 6W,q4,90%
+18/02/2019,"55 Devenish Road, Kimmage, Dublin 12",Dublin,256000.0,No,Kimmage,Dublin 6W,q2,40%
+22/02/2019,"Belmont, 62 Kimmage Rd Lower, Kimmage Dublin 6W",Dublin,750000.0,No,Kimmage,Dublin 6W,q4,100%
+01/03/2019,"43 Shelton Gardens, Kimmage Rd West, Dublin 12",Dublin,440000.0,No,Kimmage,Dublin 6W,q4,90%
+05/03/2019,"73 Kilfenora Road, Kimmage, Dublin 12",Dublin,208000.0,No,Kimmage,Dublin 6W,q1,20%
+14/03/2019,"30 Ravensdale Drive, Kimmage, Dublin 12",Dublin,400000.0,No,Kimmage,Dublin 6W,q3,80%
+14/03/2019,"65 Lismore Rd, Kimmage, Dublin 12",Dublin,310000.0,No,Kimmage,Dublin 6W,q2,50%
+15/03/2019,"16 Shelton Dr, Kimmage Rd West, Dublin 12",Dublin,420000.0,No,Kimmage,Dublin 6W,q4,80%
+26/03/2019,"18 Aideen Ave, Kimmage, Dublin 6W",Dublin,370000.0,No,Kimmage,Dublin 6W,q3,70%
+27/03/2019,"55 Brookfield, Kimmage, Dublin",Dublin,445000.0,No,Kimmage,Dublin 6W,q4,90%
+29/03/2019,"3 Mount Argus Court, Kimmage, Dublin 6W",Dublin,395000.0,No,Kimmage,Dublin 6W,q3,70%
+29/03/2019,"342 Lower Kimmage Rd, Dublin 6W, Dublin",Dublin,285000.0,No,Kimmage,Dublin 6W,q2,50%
+29/03/2019,"41 Blarney Park, Kimmage, Dublin 12",Dublin,395000.0,No,Kimmage,Dublin 6W,q3,70%
+03/04/2019,"95 Blarney Park, Kimmage, Dublin 12",Dublin,385000.0,No,Kimmage,Dublin 6W,q3,70%
+05/04/2019,"149 Kimmage Rd West, Kimmage, Dublin 12",Dublin,450000.0,No,Kimmage,Dublin 6W,q4,90%
+18/04/2019,"243 Lower Kimmage Rd, Dublin West, Dublin 6W",Dublin,535000.0,No,Kimmage,Dublin 6W,q4,100%
+23/05/2019,"82 Royston, Kimmage Rd West, Dublin 12",Dublin,360000.0,No,Kimmage,Dublin 6W,q3,70%
+06/06/2019,"10 Glenanne Apts, Kimmage Rd West, Dublin 12",Dublin,300000.0,No,Kimmage,Dublin 6W,q2,50%
+11/06/2019,"3 Westbrook, Kimmage Road West, Dublin 6W",Dublin,450000.0,No,Kimmage,Dublin 6W,q4,90%
+14/06/2019,"10 Old Poddle Park, Kimmage, Dublin 12",Dublin,421000.0,No,Kimmage,Dublin 6W,q4,80%
+25/06/2019,"43 Devenish Rd, Kimmage, Dublin 12",Dublin,257000.0,No,Kimmage,Dublin 6W,q2,40%
+27/06/2019,"47 Stannaway Rd, Kimmage, Dublin 12",Dublin,340000.0,No,Kimmage,Dublin 6W,q3,60%
+03/07/2019,"183 Captains Rd, Kimmage, Dublin 12",Dublin,270000.0,No,Kimmage,Dublin 6W,q2,40%
+05/07/2019,"2 Durrow Rd, Kimmage, Dublin 12",Dublin,320000.0,No,Kimmage,Dublin 6W,q3,60%
+16/07/2019,"2 Lismore Rd, Kimmage, Dublin 12",Dublin,387000.0,No,Kimmage,Dublin 6W,q3,70%
+29/07/2019,"90 Royston, Kimmage Rd West, Dublin",Dublin,369000.0,No,Kimmage,Dublin 6W,q3,70%
+15/08/2019,"161 Bangor Rd, Kimmage, Dublin 12",Dublin,250000.0,No,Kimmage,Dublin 6W,q2,30%
+29/08/2019,"22 Lower Kimmage Rd, Kimmage, Dublin 6W",Dublin,580000.0,No,Kimmage,Dublin 6W,q4,100%
+30/08/2019,"6 Shelton Park, Kimmage Rd, Dublin 12",Dublin,445000.0,No,Kimmage,Dublin 6W,q4,90%
+03/09/2019,"30 Brookfield Court, Brookfield Green, Kimmage Dublin 12",Dublin,281000.0,No,Kimmage,Dublin 6W,q2,40%
+03/09/2019,"30 Poddle Park, Kimmage, Dublin 12",Dublin,540000.0,No,Kimmage,Dublin 6W,q4,100%
+04/09/2019,"2 Aideen Place, Kimmage Road",Dublin,275000.0,No,Kimmage,Dublin 6W,q2,40%
+05/09/2019,"8 Bedford Court, Kimmage Rd, Dublin 6W",Dublin,270000.0,No,Kimmage,Dublin 6W,q2,40%
+19/09/2019,"199 Sundrive Rd, Kimmage, Dublin 12",Dublin,407000.0,No,Kimmage,Dublin 6W,q3,80%
+30/09/2019,"83 Cashel Ave, Kimmage, Dublin 12",Dublin,290000.0,No,Kimmage,Dublin 6W,q2,50%
+04/10/2019,"17 Cloyne Rd, Kimmage, Dublin 12",Dublin,320000.0,No,Kimmage,Dublin 6W,q3,60%
+09/10/2019,"134 Kimmage Rd West, Kimmage, Dublin 12",Dublin,427500.0,No,Kimmage,Dublin 6W,q4,80%
+14/10/2019,"7B Bedford Court, 222 Lr Kimmage Rd, Dublin 6W",Dublin,272000.0,No,Kimmage,Dublin 6W,q2,40%
+15/10/2019,"17 Kimmage Grove, Kimmage, Dublin 6W",Dublin,395000.0,No,Kimmage,Dublin 6W,q3,80%

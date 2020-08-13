@@ -1,0 +1,14 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+30/05/2014,"Apt 5, Castle Gate, Lord Edward St Dublin 2",Dublin,175000.0,No,Lord Edward St,Dublin 2,q1,10%
+21/12/2015,"5 Parliament Buildings, Lord Edward St, Dublin",Dublin,155000.0,No,Lord Edward St,Dublin 2,q1,10%
+08/01/2016,"27 Castle Gate, Lord Edward St, Dublin 2",Dublin,300000.0,No,Lord Edward St,Dublin 2,q2,50%
+13/03/2017,"31 Castle Gate, Lord Edward St, Dublin 2",Dublin,365000.0,No,Lord Edward St,Dublin 2,q3,70%
+23/03/2017,"26 Castle Gate, Lord Edward St, Dublin 2",Dublin,310000.0,No,Lord Edward St,Dublin 2,q2,50%
+24/05/2017,"20 Castle Gate, 19 23 Lord Edward St, Dublin 2",Dublin,322500.0,No,Lord Edward St,Dublin 2,q3,60%
+20/10/2017,"Apt 7, Castle Gate, Lord Edward St Dublin 2",Dublin,257000.0,No,Lord Edward St,Dublin 2,q1,20%
+20/03/2018,"9 Lord Edward St, Dublin 2, Dublin",Dublin,570000.0,No,Lord Edward St,Dublin 2,q4,90%
+06/06/2018,"Apt 2, Castle Gate, Lord Edward St Dublin 2",Dublin,265000.0,No,Lord Edward St,Dublin 2,q1,30%
+03/09/2018,"11 Lord Edward St, Dublin 2, Dublin",Dublin,600000.0,No,Lord Edward St,Dublin 2,q4,100%
+08/03/2019,"Apt 14, Castle Gate, Lord Edward St Dublin 2",Dublin,280000.0,No,Lord Edward St,Dublin 2,q2,40%
+22/08/2019,"30 Castle Gate, Lord Edward St, Dublin 2",Dublin,450000.0,No,Lord Edward St,Dublin 2,q3,80%
+23/09/2019,"9 Lord Edward St, Dublin 2, Dublin",Dublin,600000.0,No,Lord Edward St,Dublin 2,q4,100%

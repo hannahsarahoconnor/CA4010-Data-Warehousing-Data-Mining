@@ -1,0 +1,725 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/01/2010,"3 Myrtle Square, The Coast, Baldoyle",Dublin,265198.0,Yes,Baldoyle,Dublin 13,q2,50%
+11/01/2010,"29 Myrtle House, Longfield Road  The Coast, Baldoyle",Dublin,240000.0,Yes,Baldoyle,Dublin 13,q2,40%
+19/01/2010,"5 Moyclare Avenue, Baldoyle, Dublin 13",Dublin,297500.0,No,Baldoyle,Dublin 13,q3,60%
+28/01/2010,"3 Admiral Park, Baldoyle, Dublin 13",Dublin,372500.0,No,Baldoyle,Dublin 13,q4,90%
+17/02/2010,"Apt 57 Red Arches Avenue, The Coast, Baldoyle",Dublin,193832.59,Yes,Baldoyle,Dublin 13,q1,30%
+08/03/2010,"12 Red Arches Road, The Coast, Baldoyle",Dublin,158590.0,Yes,Baldoyle,Dublin 13,q1,20%
+12/03/2010,"2 Brookstone Road, Baldoyle, Dublin 13",Dublin,140000.0,No,Baldoyle,Dublin 13,q1,10%
+30/03/2010,"6 Myrtle Close, Baldoyle, Dublin 13",Dublin,115000.0,No,Baldoyle,Dublin 13,q1,10%
+30/04/2010,"66 Grange Road, Baldoyle",Dublin,285000.0,No,Baldoyle,Dublin 13,q3,60%
+06/05/2010,"11 Talavera House, Myrtle Road  The Coast, Baldoyle  Dublin 13",Dublin,237000.0,Yes,Baldoyle,Dublin 13,q2,40%
+11/05/2010,"13 Sweetman House  Stapolin Ave, The Coast  Baldoyle",Dublin,142731.0,Yes,Baldoyle,Dublin 13,q1,20%
+17/05/2010,"72 Red Arches Avenue, The Coast, Baldoyle",Dublin,229074.88,Yes,Baldoyle,Dublin 13,q2,40%
+20/05/2010,"5 Tuscany Park, Baldoyle, Dublin 13",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+25/05/2010,"Westbury, Brookstone Road, Baldoyle",Dublin,372500.0,No,Baldoyle,Dublin 13,q4,90%
+28/05/2010,"75 Admiral Park, Baldoyle, Dublin 13",Dublin,330000.0,No,Baldoyle,Dublin 13,q3,80%
+14/06/2010,"114 Grange Road, Baldoyle",Dublin,265000.0,No,Baldoyle,Dublin 13,q2,50%
+15/06/2010,"62 Grange Road, Baldoyle, Dublin",Dublin,285000.0,No,Baldoyle,Dublin 13,q3,60%
+22/06/2010,"39 Grange Abbey Drive, Baldoyle",Dublin,270000.0,No,Baldoyle,Dublin 13,q2,50%
+02/07/2010,"47 Admiral Park, Baldoyle, Dublin 13",Dublin,330000.0,No,Baldoyle,Dublin 13,q3,80%
+06/07/2010,"34 Parkvale Park, Baldoyle",Dublin,275000.0,No,Baldoyle,Dublin 13,q2,50%
+09/07/2010,"21 Seacliff Drive, Baldoyle",Dublin,230000.0,No,Baldoyle,Dublin 13,q2,40%
+13/07/2010,"60 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,312000.0,No,Baldoyle,Dublin 13,q3,70%
+16/07/2010,"40 Sweetman House, Myrtle Drive  The Coast, Baldoyle",Dublin,222026.43,Yes,Baldoyle,Dublin 13,q2,40%
+22/07/2010,"Star Of Sea Cottage, 140Baldoyle Road",Dublin,410000.0,No,Baldoyle,Dublin 13,q4,90%
+23/07/2010,"4 Foxhill Court, Baldoyle, Dublin 13",Dublin,140000.0,No,Baldoyle,Dublin 13,q1,10%
+23/07/2010,"4 Red Arches Drive, The Coast, Baldoyle",Dublin,290000.0,Yes,Baldoyle,Dublin 13,q3,60%
+03/08/2010,"94 Grange Road, Baldoyle",Dublin,285000.0,No,Baldoyle,Dublin 13,q3,60%
+11/08/2010,"36 Red Arches Drive, The Coast, Baldoyle",Dublin,260000.0,Yes,Baldoyle,Dublin 13,q2,50%
+12/08/2010,"16 Castlerosse Drive, Baldoyle",Dublin,379000.0,No,Baldoyle,Dublin 13,q4,90%
+18/08/2010,"114A Abbey Park, Baldoyle, Dublin 13",Dublin,305000.0,No,Baldoyle,Dublin 13,q3,70%
+19/08/2010,"14 Moyclare Drive, Baldoyle, Dublin 13",Dublin,282000.0,No,Baldoyle,Dublin 13,q3,60%
+20/08/2010,"22 Red Arches Close, The Coast, Baldoyle",Dublin,207000.0,Yes,Baldoyle,Dublin 13,q2,30%
+27/08/2010,"144 Grange Abbey Drive, Baldoyle",Dublin,268500.0,No,Baldoyle,Dublin 13,q2,50%
+03/09/2010,"10 Castleross View, Baldoyle, Dublin 13",Dublin,372000.0,No,Baldoyle,Dublin 13,q4,90%
+15/10/2010,"13 Baldoyle Road, Baldoyle, Dublin 13",Dublin,240000.0,No,Baldoyle,Dublin 13,q2,40%
+20/10/2010,"54 Abbey Park, Baldoyle",Dublin,272000.0,No,Baldoyle,Dublin 13,q2,50%
+22/10/2010,"2 The Drive, Castlerosse, Baldoyle",Dublin,335000.0,No,Baldoyle,Dublin 13,q3,80%
+29/10/2010,"33 Myrtle House, Longfield Road, Baldoyle",Dublin,188148.14,Yes,Baldoyle,Dublin 13,q1,30%
+05/11/2010,"61 Myrtle House, Myrtle Road, Baldoyle",Dublin,209330.0,Yes,Baldoyle,Dublin 13,q2,30%
+08/11/2010,"19 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,250000.0,No,Baldoyle,Dublin 13,q2,40%
+12/11/2010,"27 Tuscany Park, Baldoyle, Dublin 13",Dublin,290000.0,No,Baldoyle,Dublin 13,q3,60%
+17/11/2010,"2A Brookstone Lane, Baldoyle",Dublin,300000.0,No,Baldoyle,Dublin 13,q3,60%
+02/12/2010,"16 Warren Green, Baldoyle, Dublin 13",Dublin,340000.0,No,Baldoyle,Dublin 13,q4,80%
+03/12/2010,"42 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,245000.0,No,Baldoyle,Dublin 13,q2,40%
+07/12/2010,"25 Castlerosse Crescent, Baldoyle, Dublin 13",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+16/12/2010,"39 Marian Park, Baldoyle",Dublin,290000.0,No,Baldoyle,Dublin 13,q3,60%
+16/12/2010,"47 Sweetman House, Baldoyle",Dublin,116775.0,Yes,Baldoyle,Dublin 13,q1,10%
+16/12/2010,"67 Sweetman House, Baldoyle",Dublin,116775.0,Yes,Baldoyle,Dublin 13,q1,10%
+22/12/2010,"11  Myrtle Close, The Coast, Baldoyle",Dublin,230000.0,No,Baldoyle,Dublin 13,q2,40%
+22/12/2010,"38 Seagrange Avenue, Baldoyle",Dublin,240000.0,No,Baldoyle,Dublin 13,q2,40%
+14/01/2011,"20 Dublin Street, Baldoyle",Dublin,277000.0,No,Baldoyle,Dublin 13,q3,60%
+02/02/2011,"53 Strand Road, Baldoyle",Dublin,530000.0,No,Baldoyle,Dublin 13,q4,100%
+03/02/2011,"69 Red Arches Avenue, The Coast, Baldoyle",Dublin,242290.75,Yes,Baldoyle,Dublin 13,q2,40%
+18/02/2011,"19 Main Street, Baldoyle, Dublin 13",Dublin,317500.0,No,Baldoyle,Dublin 13,q3,70%
+31/03/2011,"6 Moyclare Park, Baldoyle",Dublin,230000.0,No,Baldoyle,Dublin 13,q2,40%
+18/04/2011,"41  Myrtle Hose, The Coast, Baldoyle",Dublin,149779.0,Yes,Baldoyle,Dublin 13,q1,20%
+20/04/2011,"7 Foxhill Park, Baldoyle, Dublin 13",Dublin,235000.0,No,Baldoyle,Dublin 13,q2,40%
+28/04/2011,"34 Warrenhouse Road, Baldoyle, Dublin 13",Dublin,460000.0,No,Baldoyle,Dublin 13,q4,100%
+10/06/2011,"146 Strapolin Lawns, Baldoyle",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+24/06/2011,"15 Meadowbrook Lawn, Baldoyle, Dublin 13",Dublin,255000.0,No,Baldoyle,Dublin 13,q2,50%
+27/07/2011,"1 Talavera House, The Coast, Baldoyle",Dublin,158590.0,Yes,Baldoyle,Dublin 13,q1,20%
+10/08/2011,"39 Tuscany Park, Baldoyle, Dublin 13",Dublin,252500.0,No,Baldoyle,Dublin 13,q2,50%
+15/08/2011,"110 Grange Road, Baldoyle",Dublin,350000.0,No,Baldoyle,Dublin 13,q4,80%
+17/08/2011,"Apt 84  Red Arches Road, The Coast, Baldoyle",Dublin,230000.0,No,Baldoyle,Dublin 13,q2,40%
+07/09/2011,"16 Marian Court, Baldoyle",Dublin,248000.0,No,Baldoyle,Dublin 13,q2,40%
+21/10/2011,"64 Admiral Park, Baldoyle",Dublin,290000.0,No,Baldoyle,Dublin 13,q3,60%
+27/10/2011,"16 Moyclare Avenue, Baldoyle",Dublin,206500.0,No,Baldoyle,Dublin 13,q1,30%
+04/11/2011,"1 Seapoint Crescent, Baldoyle, Dublin 13",Dublin,279000.0,No,Baldoyle,Dublin 13,q3,60%
+01/12/2011,"17 Red Arches Drive, The Coast, Baldoyle",Dublin,189000.0,No,Baldoyle,Dublin 13,q1,30%
+07/12/2011,"24 Marian Park, Baldoyle",Dublin,309000.0,No,Baldoyle,Dublin 13,q3,70%
+09/01/2012,"56 Marian Park, Baldoyle",Dublin,212500.0,No,Baldoyle,Dublin 13,q2,30%
+27/01/2012,"14 Red Arches Avenue, The Coast, Baldoyle",Dublin,275000.0,Yes,Baldoyle,Dublin 13,q2,50%
+03/02/2012,"37 Warren Green, Baldoyle, Warrenstown",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+10/02/2012,"14 Marian Park, Baldoyle, Dublin 13",Dublin,140000.0,No,Baldoyle,Dublin 13,q1,20%
+21/03/2012,"77 Red Arches Avenue, Baldoyle, Dublin 13",Dublin,150000.0,Yes,Baldoyle,Dublin 13,q1,20%
+23/03/2012,"31 Turnberry, Baldoyle",Dublin,360000.0,No,Baldoyle,Dublin 13,q4,80%
+24/04/2012,"16 Castlerosse Crescent, Baldoyle, Dublin 13",Dublin,306000.0,No,Baldoyle,Dublin 13,q3,70%
+25/04/2012,"50 Castlerosse View, Baldoyle, Dublin 13",Dublin,270000.0,No,Baldoyle,Dublin 13,q2,50%
+31/05/2012,"22 Willie Nolan Road, Baldoyle, Dublin 13",Dublin,141500.0,No,Baldoyle,Dublin 13,q1,20%
+31/05/2012,"73 Turnberry, Baldoyle",Dublin,308000.0,No,Baldoyle,Dublin 13,q3,70%
+08/06/2012,"17 Warrenhouse Road, Baldoyle",Dublin,320000.0,No,Baldoyle,Dublin 13,q3,70%
+13/06/2012,"44 Abbey Park, Baldoyle",Dublin,200000.0,No,Baldoyle,Dublin 13,q1,30%
+22/06/2012,"12 Admiral Park, Baldoyle",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+16/07/2012,"1 Boyd House, Myrtle Square, Baldoyle",Dublin,180000.0,No,Baldoyle,Dublin 13,q1,20%
+27/07/2012,"55 Marian Park, Baldoyle",Dublin,195000.0,No,Baldoyle,Dublin 13,q1,30%
+31/07/2012,"7 College Street, Baldoyle",Dublin,80000.0,No,Baldoyle,Dublin 13,q1,10%
+02/08/2012,"23 Foxhill Drive, Baldoyle, Dublin 13",Dublin,190000.0,No,Baldoyle,Dublin 13,q1,30%
+09/08/2012,"27 Warrenhouse Road, Baldoyle, Dublin 13",Dublin,357500.0,No,Baldoyle,Dublin 13,q4,80%
+29/08/2012,"15 Turnberry, Baldoyle, Dublin 13",Dublin,350000.0,No,Baldoyle,Dublin 13,q4,80%
+04/09/2012,"67 Park Vale, Baldoyle",Dublin,195000.0,No,Baldoyle,Dublin 13,q1,30%
+07/09/2012,"49 Myrtle House, Longfield Road, Baldoyle",Dublin,101322.0,Yes,Baldoyle,Dublin 13,q1,10%
+24/09/2012,"2 Turnberry Square, Baldoyle, Dublin 13",Dublin,275000.0,No,Baldoyle,Dublin 13,q2,50%
+26/09/2012,"13 Moyclare Park, Baldoyle, Dublin 13",Dublin,180000.0,No,Baldoyle,Dublin 13,q1,20%
+27/09/2012,"98 Grange Road, Baldoyle",Dublin,200000.0,No,Baldoyle,Dublin 13,q1,30%
+03/10/2012,"12 Castlerosse Drive, Baldoyle, Dublin 13",Dublin,304000.0,No,Baldoyle,Dublin 13,q3,70%
+09/10/2012,"12 The Morrows, Baldoyle, Dublin 13",Dublin,111000.0,No,Baldoyle,Dublin 13,q1,10%
+11/10/2012,"46 Segrange Road, Baldoyle, County Dublin",Dublin,208500.0,No,Baldoyle,Dublin 13,q2,30%
+22/10/2012,"1 Admiral Park, Baldoyle, Dublin 13",Dublin,302500.0,No,Baldoyle,Dublin 13,q3,70%
+26/10/2012,"11 Meadowbrook Lawns, Baldoyle",Dublin,175000.0,No,Baldoyle,Dublin 13,q1,20%
+02/11/2012,"47 Parkvale, Baldoyle, Dublin 13",Dublin,155000.0,No,Baldoyle,Dublin 13,q1,20%
+05/11/2012,"14 Seacliff Avenue, Baldoyle, Dublin 13",Dublin,167000.0,No,Baldoyle,Dublin 13,q1,20%
+14/11/2012,"34 Turnberry Square, Baldoyle, Dublin 13",Dublin,250000.0,No,Baldoyle,Dublin 13,q2,40%
+03/12/2012,"17 Abbey Park, Baldoyle",Dublin,299000.0,No,Baldoyle,Dublin 13,q3,60%
+07/12/2012,"11 Georgian Hamlets, Baldoyle",Dublin,220000.0,No,Baldoyle,Dublin 13,q2,40%
+12/12/2012,"College Street, Baldoyle",Dublin,15785185.0,No,Baldoyle,Dublin 13,q4,100%
+12/12/2012,"College Street, Baldoyle, Dublin 13",Dublin,779690.0,No,Baldoyle,Dublin 13,q4,100%
+12/12/2012,"Lar Foley House, 73 Grange Abbey Road, Baldoyle",Dublin,12119.0,No,Baldoyle,Dublin 13,q1,10%
+14/12/2012,"57 Parkvale, Baldoyle, Dublin",Dublin,185000.0,No,Baldoyle,Dublin 13,q1,20%
+18/12/2012,"25 Seacliff Drive, Baldoyle",Dublin,175000.0,No,Baldoyle,Dublin 13,q1,20%
+19/12/2012,"42 Grange Park, Baldoyle, Dublin 13",Dublin,242000.0,No,Baldoyle,Dublin 13,q2,40%
+07/01/2013,"40 Warren Green, Warrenhouse Road, Baldoyle",Dublin,280000.0,No,Baldoyle,Dublin 13,q3,60%
+11/01/2013,"54 Grange Road, Baldoyle, Dublin 13",Dublin,200000.0,No,Baldoyle,Dublin 13,q1,30%
+14/01/2013,"20 Abbey Park, Baldoyle",Dublin,267000.0,No,Baldoyle,Dublin 13,q2,50%
+20/01/2013,"Apt. 13 Red Arches Avenue, The Coast, Baldoyle",Dublin,110132.16,Yes,Baldoyle,Dublin 13,q1,10%
+21/01/2013,"22 Grange Road, Baldoyle",Dublin,167000.0,No,Baldoyle,Dublin 13,q1,20%
+24/01/2013,"13 Foxhill Drive, Baldoyle",Dublin,230000.0,No,Baldoyle,Dublin 13,q2,40%
+07/02/2013,"49 Admiral Park, Baldoyle, Dublin 13",Dublin,280000.0,No,Baldoyle,Dublin 13,q3,60%
+21/02/2013,"50 Red Arches Drive, The Coast, Baldoyle",Dublin,173000.0,Yes,Baldoyle,Dublin 13,q1,20%
+28/02/2013,"27 Tuscany Park, Baldoyle, Dublin 13",Dublin,257500.0,No,Baldoyle,Dublin 13,q2,50%
+28/02/2013,"32 Parkvale, Baldoyle, Dublin 13",Dublin,170000.0,No,Baldoyle,Dublin 13,q1,20%
+02/05/2013,"80 Seagrange Road, Baldoyle, Dublin",Dublin,190000.0,No,Baldoyle,Dublin 13,q1,30%
+10/06/2013,"4 Admiral Park, Baldoyle, Dublin 13",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+14/06/2013,"108 Red Arches Road, The Coast Baldoyle, Dublin",Dublin,114537.0,Yes,Baldoyle,Dublin 13,q1,10%
+25/06/2013,"Apt. 7 Admiral Court, Willie Nolan Road, Baldoyle",Dublin,172500.0,No,Baldoyle,Dublin 13,q1,20%
+27/06/2013,"22 Tuscany Park, Baldoyle",Dublin,250000.0,No,Baldoyle,Dublin 13,q2,40%
+28/06/2013,"21 Red Arches Park, The Coast, Baldoyle",Dublin,181650.0,Yes,Baldoyle,Dublin 13,q1,20%
+05/07/2013,"13 Turnberry Square, Baldoyle",Dublin,362000.0,No,Baldoyle,Dublin 13,q4,80%
+08/07/2013,"32 Georgian Hamlet, Baldoyle",Dublin,220000.0,No,Baldoyle,Dublin 13,q2,40%
+08/07/2013,"34 Grange Road, Baldoyle, Dublin 13",Dublin,165000.0,No,Baldoyle,Dublin 13,q1,20%
+12/07/2013,"14 Warren Green, Baldoyle",Dublin,320000.0,No,Baldoyle,Dublin 13,q3,70%
+18/07/2013,"66 Red Arches, The Coast, Baldoyle",Dublin,276000.0,No,Baldoyle,Dublin 13,q3,60%
+19/07/2013,"5 Marion Park, Baldoyle",Dublin,215000.0,No,Baldoyle,Dublin 13,q2,30%
+29/07/2013,"14 Moyclare Close, Baldoyle, Dublin 13",Dublin,169000.0,No,Baldoyle,Dublin 13,q1,20%
+02/08/2013,"32 Willie Nolan Road, Baldoyle, Dublin 13",Dublin,275000.0,No,Baldoyle,Dublin 13,q2,50%
+15/08/2013,"17 Castlerosse Crescent, Baldoyle, Dublin 13",Dublin,278000.0,No,Baldoyle,Dublin 13,q3,60%
+26/08/2013,"19 James Mccormack Gardens, Baldoyle",Dublin,167000.0,No,Baldoyle,Dublin 13,q1,20%
+27/08/2013,"23 Red Arches Close, The Coast, Baldoyle",Dublin,181650.0,Yes,Baldoyle,Dublin 13,q1,20%
+29/08/2013,"64 Turnberry, Warrenhous Road, Baldoyle",Dublin,383000.0,No,Baldoyle,Dublin 13,q4,90%
+30/08/2013,"5 Turnberry Square, Baldoyle",Dublin,330000.0,No,Baldoyle,Dublin 13,q3,80%
+05/09/2013,"99 Abbey Park, Baldoyle",Dublin,250000.0,No,Baldoyle,Dublin 13,q2,40%
+13/09/2013,"Apt. 38 Myrtle House, The Coast, Baldoyle",Dublin,96916.29,Yes,Baldoyle,Dublin 13,q1,10%
+18/09/2013,"5  Brookstone Lane, Baldoyle",Dublin,255000.0,No,Baldoyle,Dublin 13,q2,50%
+20/09/2013,"95 Grange Abbey Drive, Baldoyle, Dublin 13",Dublin,180000.0,No,Baldoyle,Dublin 13,q1,20%
+27/09/2013,"6 Red Arches Avenue, The Coast, Baldoyle",Dublin,235000.0,Yes,Baldoyle,Dublin 13,q2,40%
+04/10/2013,"76 Admiral Park, Baldoyle",Dublin,290000.0,No,Baldoyle,Dublin 13,q3,60%
+08/10/2013,"12 Parker House, Myrtle Court  The Coast, Baldoyle",Dublin,79295.15,Yes,Baldoyle,Dublin 13,q1,10%
+11/10/2013,"33 Seagrange Avenue, Baldoyle, Dublin 13",Dublin,195000.0,No,Baldoyle,Dublin 13,q1,30%
+16/10/2013,"17 Admiral Park, Baldoyle",Dublin,317000.0,No,Baldoyle,Dublin 13,q3,70%
+16/10/2013,"45 Turnberry, Baldoyle",Dublin,370000.0,No,Baldoyle,Dublin 13,q4,80%
+22/10/2013,"3 Red Arches Avenue, The Coast, Baldoyle",Dublin,202643.0,Yes,Baldoyle,Dublin 13,q1,30%
+23/10/2013,"35 Warrenhouse Road, Baldoyle, Dublin 13",Dublin,430000.0,No,Baldoyle,Dublin 13,q4,90%
+31/10/2013,"11 Red Arches Park, The Coast, Baldoyle",Dublin,97500.0,Yes,Baldoyle,Dublin 13,q1,10%
+01/11/2013,"41 Meadowbrook Avenue, Baldoyle",Dublin,325000.0,No,Baldoyle,Dublin 13,q3,70%
+05/11/2013,"20 Marian Park, Baldoyle, Dublin13",Dublin,205000.0,No,Baldoyle,Dublin 13,q1,30%
+19/11/2013,"48 Abbey Park, Baldoyle",Dublin,300000.0,No,Baldoyle,Dublin 13,q3,60%
+20/11/2013,"20 Residential Properties, The Coast, Baldoyle",Dublin,2129955.95,Yes,Baldoyle,Dublin 13,q4,100%
+20/11/2013,"20 Residential Properties, The Coast, Baldoyle",Dublin,2129955.95,Yes,Baldoyle,Dublin 13,q4,100%
+20/11/2013,"65 Red Arches Avenue, The Coast, Baldoyle",Dublin,132158.49,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"68 Red Arches Avenue, The Coast, Baldoyle",Dublin,123348.02,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"68 Red Arches Avenue, The Coast, Baldoyle",Dublin,123348.02,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 10 Sweetman House, The Coast, Baldoyle",Dublin,96916.3,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 112 Red Arches Road, The Coast, Baldoyle",Dublin,110132.16,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 112 Red Arches Road, The Coast, Baldoyle",Dublin,110132.16,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 13 Red Arches Avenue, The Coast, Baldoyle",Dublin,110132.16,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 13 Talavera House, The Coast, Baldoyle",Dublin,105726.87,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 16 Sweetman House, The Coast, Baldoyle",Dublin,74889.87,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 17 Red Arches Avenue, The Coast, Baldoyle",Dublin,132158.59,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 20 Red Arches Avenue, The Coast, Baldoyle",Dublin,110132.16,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 21 Boyd House, The Coast, Baldoyle",Dublin,105726.87,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 21 Boyd House, The Coast, Baldoyle",Dublin,105726.87,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 28 Red Arches Close, The Coast, Baldoyle",Dublin,132158.59,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 28 Red Arches Close, The Coast, Baldoyle",Dublin,132158.59,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 30 Myrtle House, The Coast, Baldoyle",Dublin,116740.09,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 35 Red Arches Close, The Coast, Baldoyle",Dublin,116740.09,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 35 Red Arches Close, The Coast, Baldoyle",Dublin,116740.09,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 36 Sweetman House, The Coast, Baldoyle",Dublin,70484.58,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 50 Sweetman House, The Coast, Baldoyle",Dublin,70484.58,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 51 Red Arches Drive, The Coast, Baldoyle",Dublin,116740.09,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 51 Red Arches Drive, The Coast, Baldoyle",Dublin,116740.09,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 53 Sweetman House, The Coast, Baldoyle",Dublin,70484.58,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 66 Red Arches Avenue, The Coast, Baldoyle",Dublin,110132.16,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 66 Red Arches Avenue, The Coast, Baldoyle",Dublin,110132.16,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 72 Sweetman House, The Coast, Baldoyle",Dublin,96916.3,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 72 Sweetman House, The Coast, Baldoyle",Dublin,96916.3,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 9 Red Arches Park, The Coast, Baldoyle",Dublin,127753.3,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 9 Red Arches Park, The Coast, Baldoyle",Dublin,127753.3,Yes,Baldoyle,Dublin 13,q1,10%
+20/11/2013,"Apt. 9 Red Arches Park, The Coast, Baldoyle",Dublin,127753.3,Yes,Baldoyle,Dublin 13,q1,10%
+27/11/2013,"51 Myrtle House, The Coast, Baldoyle",Dublin,90000.0,Yes,Baldoyle,Dublin 13,q1,10%
+29/11/2013,"22 Castleross View, Baldoyle, Dublin 13",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+29/11/2013,"31 Warren Green, Baldoyle, Dublin 13",Dublin,274150.0,No,Baldoyle,Dublin 13,q2,50%
+06/12/2013,"25 Red Arches Road, The Coast, Baldoyle",Dublin,176211.45,Yes,Baldoyle,Dublin 13,q1,20%
+06/12/2013,"66 Admiral Park, Baldoyle, Dublin 13",Dublin,290000.0,No,Baldoyle,Dublin 13,q3,60%
+06/12/2013,"7 Red Arches Avenue, The Coast, Baldoyle",Dublin,204845.81,Yes,Baldoyle,Dublin 13,q1,30%
+11/12/2013,"70, Abbey Park, Baldoyle",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+12/12/2013,"104 Grange Abbey Grove, Baldoyle",Dublin,226000.0,No,Baldoyle,Dublin 13,q2,40%
+12/12/2013,"38 Meadowbrook Ave, Baldoyle, Dublin 13",Dublin,249000.0,No,Baldoyle,Dublin 13,q2,40%
+17/12/2013,"4 Admiral Court, Willie Nolan Rd, Baldoyle",Dublin,185000.0,No,Baldoyle,Dublin 13,q1,20%
+18/12/2013,"14 Red Arches Park, The Coast, Baldoyle",Dublin,78414.1,Yes,Baldoyle,Dublin 13,q1,10%
+18/12/2013,"27 Red Arches Close, The Coast, Baldoyle",Dublin,78414.1,Yes,Baldoyle,Dublin 13,q1,10%
+18/12/2013,"5 Red Arches Road, The Coast, Baldoyle",Dublin,78414.1,Yes,Baldoyle,Dublin 13,q1,10%
+18/12/2013,"6 Red Arches Road, The Coast, Baldoyle",Dublin,78414.1,Yes,Baldoyle,Dublin 13,q1,10%
+03/01/2014,"80 Grange Rd, Baldoyle, Dublin 13",Dublin,317000.0,No,Baldoyle,Dublin 13,q3,70%
+29/01/2014,"110 Red Arches Rd, Baldoyle, Dublin",Dublin,130000.0,No,Baldoyle,Dublin 13,q1,10%
+04/02/2014,"82 Grattan Lodge, Baldoyle, Dublin 13",Dublin,264000.0,No,Baldoyle,Dublin 13,q2,50%
+07/02/2014,"14 Marian Park, Baldoyle, Dublin 13",Dublin,250000.0,No,Baldoyle,Dublin 13,q2,40%
+07/02/2014,"9 Red Arches Close, Baldoyle, Dublin 13",Dublin,220000.0,No,Baldoyle,Dublin 13,q2,40%
+13/02/2014,"20 College Street, Baldoyle, Co. Dublin",Dublin,40000.0,No,Baldoyle,Dublin 13,q1,10%
+13/02/2014,"37 College Street, Baldoyle, Co. Dublin",Dublin,40000.0,No,Baldoyle,Dublin 13,q1,10%
+21/02/2014,"100 Red Arches Road, The Coast, Baldoyle",Dublin,211453.0,Yes,Baldoyle,Dublin 13,q2,30%
+21/02/2014,"113 Abbey Park, Baldoyle, Dublin 13",Dublin,405000.0,No,Baldoyle,Dublin 13,q4,90%
+26/02/2014,"76 Red Arches Road, The Coast, Baldoyle",Dublin,185022.02,Yes,Baldoyle,Dublin 13,q1,20%
+06/03/2014,"169 Grange Abbey Grove, Grange Rd, Baldoyle",Dublin,215000.0,No,Baldoyle,Dublin 13,q2,30%
+06/03/2014,"21 Red Arches Close, The Coast, Baldoyle",Dublin,193832.59,Yes,Baldoyle,Dublin 13,q1,30%
+07/03/2014,"13 Seagrange Rd, Baldoyle, Dublin 13",Dublin,199000.0,No,Baldoyle,Dublin 13,q1,30%
+07/03/2014,"85 Red Arches Road, The Coast, Baldoyle",Dublin,176211.0,Yes,Baldoyle,Dublin 13,q1,20%
+01/04/2014,"56 Admiral Park, Baldoyle, Dublin 13",Dublin,306000.0,No,Baldoyle,Dublin 13,q3,70%
+09/04/2014,"21 Seagrange Rd, Baldoyle, Dublin 13",Dublin,245000.0,No,Baldoyle,Dublin 13,q2,40%
+09/04/2014,"51 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+16/04/2014,"78 Admiral Park, Baldoyle",Dublin,335000.0,No,Baldoyle,Dublin 13,q3,80%
+17/04/2014,"54 Red Arches Rd, The Coast, Baldoyle Dublin 13",Dublin,395000.0,No,Baldoyle,Dublin 13,q4,90%
+25/04/2014,"Apt 2 Myrtle House, The Coast, Baldoyle Dublin 13",Dublin,179000.0,No,Baldoyle,Dublin 13,q1,20%
+08/05/2014,"2 Red Arches Close, The Coast, Baldoyle",Dublin,121000.0,No,Baldoyle,Dublin 13,q1,10%
+09/05/2014,"104 Red Arches Rd, Baldoyle, Dublin",Dublin,185000.0,No,Baldoyle,Dublin 13,q1,20%
+28/05/2014,"103 Red Arches Road, The Coast, Baldoyle",Dublin,201000.0,Yes,Baldoyle,Dublin 13,q1,30%
+28/05/2014,"106 Red Arches Rd, The Coast, Baldoyle Dublin 13",Dublin,167500.0,No,Baldoyle,Dublin 13,q1,20%
+28/05/2014,"17 Red Arches Close, The Coast, Baldoyle Dublin 13",Dublin,80000.0,No,Baldoyle,Dublin 13,q1,10%
+03/06/2014,"15 College St, Baldoyle, Dublin 13",Dublin,300000.0,No,Baldoyle,Dublin 13,q3,60%
+05/06/2014,"22A Grange Park, Baldoyle, Grange Park",Dublin,372500.0,No,Baldoyle,Dublin 13,q4,90%
+20/06/2014,"101 Red Arches Rd, Baldoyle, Dublin",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+24/06/2014,"25 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,315000.0,No,Baldoyle,Dublin 13,q3,70%
+24/06/2014,"Apt. 16 Red Arches Close, The Coast Baldoyle",Dublin,120000.0,Yes,Baldoyle,Dublin 13,q1,10%
+26/06/2014,"46 Meadowbrook Park, Baldoyle, Dublin 13",Dublin,287000.0,No,Baldoyle,Dublin 13,q3,60%
+02/07/2014,"Apt 38 Red Arches Close, The Coast, Baldoyle Dublin 13",Dublin,121000.0,No,Baldoyle,Dublin 13,q1,10%
+09/07/2014,"4 Red Arches Park, The Coast, Baldoyle",Dublin,207049.0,Yes,Baldoyle,Dublin 13,q2,30%
+10/07/2014,"37 Red Arches Dr, The Coast, Baldoyle Dublin 13",Dublin,173000.0,No,Baldoyle,Dublin 13,q1,20%
+11/07/2014,"11Myrtle House, Myrtle Drive  The Coast, Baldoyle",Dublin,240000.0,Yes,Baldoyle,Dublin 13,q2,40%
+11/07/2014,"24 Red Arches Park, The Coast, Baldoyle",Dublin,230000.0,Yes,Baldoyle,Dublin 13,q2,40%
+22/07/2014,"105 Red Arches Rd, Baldoyle, Dublin",Dublin,167500.0,No,Baldoyle,Dublin 13,q1,20%
+25/07/2014,"27 Grange Park, Baldoyle, Dublin 13",Dublin,370000.0,No,Baldoyle,Dublin 13,q4,80%
+25/07/2014,"39 Warren Green, Baldoyle, Dublin 13",Dublin,315000.0,No,Baldoyle,Dublin 13,q3,70%
+01/08/2014,"45A Grange Park, Baldoyle, Dublin 13",Dublin,320000.0,No,Baldoyle,Dublin 13,q3,70%
+05/08/2014,"7 Meadowbrook Park, Baldoyle, Dublin 13",Dublin,253000.0,No,Baldoyle,Dublin 13,q2,50%
+08/08/2014,"7 Marine Cove, Baldoyle Road",Dublin,320000.0,No,Baldoyle,Dublin 13,q3,70%
+01/09/2014,"The Haven 55 Strand Road, Baldoyle, Dublin 13",Dublin,413000.0,No,Baldoyle,Dublin 13,q4,90%
+22/09/2014,"119 Seacrest, Willie Nolan Road, Baldoyle",Dublin,380000.0,No,Baldoyle,Dublin 13,q4,90%
+23/09/2014,"116 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,350000.0,No,Baldoyle,Dublin 13,q4,80%
+01/10/2014,"30 Castlerosse View, Baldoyle, Dublin 13",Dublin,400000.0,No,Baldoyle,Dublin 13,q4,90%
+07/10/2014,"16 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,304000.0,No,Baldoyle,Dublin 13,q3,70%
+08/10/2014,"7 Turnberry, Baldoyle, Dublin 13",Dublin,445000.0,No,Baldoyle,Dublin 13,q4,100%
+09/10/2014,"48 Grange Road, Baldoyle, Dublin 13",Dublin,315000.0,No,Baldoyle,Dublin 13,q3,70%
+10/10/2014,"7 Strand Rd, Baldoyle, Dublin 13",Dublin,470000.0,No,Baldoyle,Dublin 13,q4,100%
+15/10/2014,"91 Grange Abbey Drive, Baldoyle, Dublin 13",Dublin,320000.0,No,Baldoyle,Dublin 13,q3,70%
+22/10/2014,"65 Red Arches Rd, The Coast, Baldoyle Dublin 13",Dublin,400000.0,No,Baldoyle,Dublin 13,q4,90%
+29/10/2014,"37 Meadowbrook Park, Baldoyle Dublin 13, Dublin",Dublin,330000.0,No,Baldoyle,Dublin 13,q3,80%
+30/10/2014,"16 Seacliff Ave, Baldoyle, Dublin 13",Dublin,307000.0,No,Baldoyle,Dublin 13,q3,70%
+07/11/2014,"36 Red Arches Dr, The Coast, Baldoyle Dublin 13",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+25/11/2014,"61A Abbey Park, Baldoyle, Dublin 13",Dublin,482000.0,No,Baldoyle,Dublin 13,q4,100%
+04/12/2014,"6 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,305000.0,No,Baldoyle,Dublin 13,q3,70%
+08/12/2014,"2 Meadowbrook Lawn, Baldoyle, Dublin 13",Dublin,267000.0,No,Baldoyle,Dublin 13,q2,50%
+10/12/2014,"6 College St, Baldoyle, Dublin 13",Dublin,300000.0,No,Baldoyle,Dublin 13,q3,60%
+11/12/2014,"16 Moyclare Close, Baldoyle, Dublin 13",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+15/12/2014,"37 Admiral Park, Baldoyle, Dublin",Dublin,422000.0,No,Baldoyle,Dublin 13,q4,90%
+15/12/2014,"8 Grange Abbey Rd, Baldoyle, Dublin 13",Dublin,385000.0,No,Baldoyle,Dublin 13,q4,90%
+23/12/2014,"163 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,350000.0,No,Baldoyle,Dublin 13,q4,80%
+15/01/2015,"21 Castlecross Crescent, Baldoyle, Dublin 13",Dublin,385000.0,No,Baldoyle,Dublin 13,q4,90%
+19/01/2015,"84 Admiral Park, Baldoyle, Dublin 13",Dublin,408500.0,No,Baldoyle,Dublin 13,q4,90%
+29/01/2015,"40B Strand Rd, Baldoyle, Dublin 13",Dublin,900000.0,No,Baldoyle,Dublin 13,q4,100%
+12/02/2015,"22 Meadowbrook Park, Baldoyle, Dublin 13",Dublin,315000.0,No,Baldoyle,Dublin 13,q3,70%
+16/02/2015,"2 Red Arches Park, Baldoyle, Dublin",Dublin,120000.0,No,Baldoyle,Dublin 13,q1,10%
+16/02/2015,"39 Seacliffe Ave, Baldoyle, Dublin 13",Dublin,270000.0,No,Baldoyle,Dublin 13,q2,50%
+20/02/2015,"33 Red Arches Road, Baldoyle, Dublin 13",Dublin,285000.0,No,Baldoyle,Dublin 13,q3,60%
+22/02/2015,"57 Turnburry, Baldoyle",Dublin,460000.0,No,Baldoyle,Dublin 13,q4,100%
+27/02/2015,"31 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,170000.0,No,Baldoyle,Dublin 13,q1,20%
+27/02/2015,"34 Morrow House, Baldoyle",Dublin,211453.74,Yes,Baldoyle,Dublin 13,q2,30%
+04/03/2015,"39 Red Arches Road, The Coast, Baldoyle",Dublin,245000.0,No,Baldoyle,Dublin 13,q2,40%
+05/03/2015,"90 Red Arches Road, The Coast, Baldoyle",Dublin,216500.0,Yes,Baldoyle,Dublin 13,q2,30%
+06/03/2015,"41 Red Arches Rd, Baldoyle, Dublin 13",Dublin,453000.0,No,Baldoyle,Dublin 13,q4,100%
+06/03/2015,"52 Park View, Baldoyle, Dublin 13",Dublin,345000.0,No,Baldoyle,Dublin 13,q4,80%
+09/03/2015,"1 Red Arches Ave, The Coast, Baldoyle Dublin 13",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+13/03/2015,"11 Red Arches Drive, The Coast, Baldoyle",Dublin,105726.0,Yes,Baldoyle,Dublin 13,q1,10%
+13/03/2015,"12 Red Arches Drive, The Coast, Baldoyle",Dublin,105726.0,Yes,Baldoyle,Dublin 13,q1,10%
+13/03/2015,"3 Red Arches Close, The Coast, Baldoyle",Dublin,105726.0,Yes,Baldoyle,Dublin 13,q1,10%
+13/03/2015,"32 Marion Park, Baldoyle",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+13/03/2015,"33 Red Arches Close, The Coast, Baldoyle",Dublin,264317.0,Yes,Baldoyle,Dublin 13,q2,50%
+13/03/2015,"37 Red Arches Close, The Coast, Baldoyle",Dublin,105726.0,Yes,Baldoyle,Dublin 13,q1,10%
+13/03/2015,"78 Red Arches Avenue, The Coast, Baldoyle",Dublin,211453.0,Yes,Baldoyle,Dublin 13,q2,30%
+20/03/2015,"42 Meadowbrook Park, Baldoyle, Dublin 13",Dublin,265000.0,No,Baldoyle,Dublin 13,q2,50%
+13/04/2015,"2 Seaview Ave, Baldoyle, Dublin 13",Dublin,263000.0,No,Baldoyle,Dublin 13,q2,50%
+24/04/2015,"26 Grange Abbey Crescent, Baldoyle, Dublin 13",Dublin,323000.0,No,Baldoyle,Dublin 13,q3,70%
+24/04/2015,"27 Morrow House, Myrtle, Baldoyle",Dublin,120000.0,No,Baldoyle,Dublin 13,q1,10%
+05/05/2015,"10 Marian Court, Marian Park, Baldoyle",Dublin,275000.0,No,Baldoyle,Dublin 13,q2,50%
+06/05/2015,"1 Sweetman House, Myrtle Ave, The Coast Baldoyle",Dublin,265000.0,No,Baldoyle,Dublin 13,q2,50%
+07/05/2015,"23 Seagrange Dr, Baldoyle, Dublin 13",Dublin,276500.0,No,Baldoyle,Dublin 13,q3,60%
+22/05/2015,"12 Stapolin Avenue, The Coast, Baldoyle",Dublin,265000.0,Yes,Baldoyle,Dublin 13,q2,50%
+19/06/2015,"165 Grange Abbey Grove, Baldoyle, Dublin 13",Dublin,255000.0,No,Baldoyle,Dublin 13,q2,50%
+24/06/2015,"11 Abbey Park, Grange Rd, Baldoyle",Dublin,325000.0,No,Baldoyle,Dublin 13,q3,70%
+01/07/2015,"15 Myrtle Close The Coast, Baldoyle Dublin 13, Dublin",Dublin,250000.0,No,Baldoyle,Dublin 13,q2,40%
+10/07/2015,"57 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,287000.0,No,Baldoyle,Dublin 13,q3,60%
+17/07/2015,"29 Red Arches Close, The Coast, Baldoyle",Dublin,105726.0,Yes,Baldoyle,Dublin 13,q1,10%
+24/07/2015,"67 Park Vale, Baldoyle, Dublin 13",Dublin,275000.0,No,Baldoyle,Dublin 13,q2,50%
+29/07/2015,"25 Turnberry, Baldoyle, Dublin 13",Dublin,418000.0,No,Baldoyle,Dublin 13,q4,90%
+31/07/2015,"22 Castlerosse Crescent, Baldoyle, Dublin 13",Dublin,420000.0,No,Baldoyle,Dublin 13,q4,90%
+20/08/2015,"14 Grange Abbey Rd, Grange Abbey, Baldoyle Dublin 13",Dublin,255000.0,No,Baldoyle,Dublin 13,q2,50%
+01/09/2015,"7 Marine Cove, Baldoyle Rd, Dublin 13",Dublin,299250.0,No,Baldoyle,Dublin 13,q3,60%
+10/09/2015,"7 Foxhill Ave, Baldoyle, Dublin 13",Dublin,277000.0,No,Baldoyle,Dublin 13,q3,60%
+13/09/2015,"19 Seacliff Dr, Baldoyle, Dublin 13",Dublin,257000.0,No,Baldoyle,Dublin 13,q2,50%
+16/09/2015,"18A Georgian Hamlet, Baldoyle, Dublin 13",Dublin,330000.0,No,Baldoyle,Dublin 13,q3,80%
+16/09/2015,"2 Warrencourt Apts, Baldoyle, Dublin 13",Dublin,174000.0,No,Baldoyle,Dublin 13,q1,20%
+16/09/2015,"5 Marine Cove, Baldoyle Rd, Dublin 13",Dublin,242500.0,No,Baldoyle,Dublin 13,q2,40%
+23/10/2015,"1 Stapolio House The Coast, Baldoyle Dublin 13, Dublin",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+27/10/2015,"73 Admiral Park, Baldoyle, Dublin 13",Dublin,390000.0,No,Baldoyle,Dublin 13,q4,90%
+30/10/2015,"5 Moyclare Park, Baldoyle, Dublin 13",Dublin,340000.0,No,Baldoyle,Dublin 13,q4,80%
+06/11/2015,"17 Red Arches Rd, The Coast, Baldoyle Dublin 13",Dublin,190000.0,No,Baldoyle,Dublin 13,q1,30%
+06/11/2015,"28 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,320500.0,No,Baldoyle,Dublin 13,q3,70%
+19/11/2015,"10 Stapolin Ave, The Coast, Baldoyle Dublin 13",Dublin,385000.0,No,Baldoyle,Dublin 13,q4,90%
+20/11/2015,"22 Boyd House, The Coast, Baldoyle Dublin 13",Dublin,215000.0,No,Baldoyle,Dublin 13,q2,30%
+27/11/2015,"35 Marrow House, The Coast, Baldoyle",Dublin,135000.0,No,Baldoyle,Dublin 13,q1,10%
+04/12/2015,"29 Willie Nolan Road, Baldoyle",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+08/12/2015,"46 Turnberry, Baldoyle, Dublin 13",Dublin,415000.0,No,Baldoyle,Dublin 13,q4,90%
+15/12/2015,"34 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,235000.0,No,Baldoyle,Dublin 13,q2,40%
+16/12/2015,"44 Turnberry Sq, Baldoyle Dublin 13, Dublin",Dublin,320000.0,No,Baldoyle,Dublin 13,q3,70%
+17/12/2015,"42 Red Arches Dr, The Coast, Baldoyle Dublin 13",Dublin,225000.0,No,Baldoyle,Dublin 13,q2,40%
+23/12/2015,"1 Admiral Court, Willie Nolan Road, Baldoyle",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+20/01/2016,"14 Parkvale, Baldoyle, Dublin 13",Dublin,252000.0,No,Baldoyle,Dublin 13,q2,50%
+22/01/2016,"29 Foxhill Drive, Baldoyle, Dublin 13",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+29/01/2016,"28 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,209251.0,No,Baldoyle,Dublin 13,q2,30%
+02/02/2016,"57 Morrow House, Myrtle Drive, Baldoyle",Dublin,213000.0,Yes,Baldoyle,Dublin 13,q2,30%
+03/02/2016,"Apartment 44 Sweetman House, Longfield Road  The Coast, Baldoyle  Dublin 13",Dublin,120000.0,No,Baldoyle,Dublin 13,q1,10%
+05/02/2016,"14C Warrenhouse Road, Baldoyle",Dublin,698000.0,No,Baldoyle,Dublin 13,q4,100%
+05/02/2016,"7 Admiral Court, Willie Nolan Rd, Baldoyle Dublin 13",Dublin,244000.0,No,Baldoyle,Dublin 13,q2,40%
+11/02/2016,"8 Seagrange Dr, Baldoyle, Dublin 13",Dublin,255000.0,No,Baldoyle,Dublin 13,q2,50%
+12/02/2016,"11 College Street, Baldoyle, Dublin 13",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+19/02/2016,"15 Parochial Ave, Baldoyle, Dublin 13",Dublin,320000.0,No,Baldoyle,Dublin 13,q3,70%
+19/02/2016,"60 Abbey Park, Baldoyle, Dublin",Dublin,400000.0,No,Baldoyle,Dublin 13,q4,90%
+24/02/2016,"18 Grange Park, Baldoyle",Dublin,340000.0,No,Baldoyle,Dublin 13,q4,80%
+25/02/2016,"4 Moyclare Dr, Baldoyle, Dublin 13",Dublin,285000.0,No,Baldoyle,Dublin 13,q3,60%
+04/03/2016,"32 Boyd House, Baldoyle, Dublin 13",Dublin,208000.0,No,Baldoyle,Dublin 13,q2,30%
+07/03/2016,"28 Turnberry, Baldoyle Dublin 13, Dublin",Dublin,445000.0,No,Baldoyle,Dublin 13,q4,100%
+14/03/2016,"17 Dublin St, Baldoyle, Dublin 13",Dublin,305000.0,No,Baldoyle,Dublin 13,q3,70%
+11/04/2016,"22 College St, Baldoyle, Dublin 13",Dublin,420000.0,No,Baldoyle,Dublin 13,q4,90%
+13/04/2016,"11 Stapolin House, The Coast, Baldoyle Dublin 13",Dublin,293500.0,No,Baldoyle,Dublin 13,q3,60%
+13/04/2016,"22 Main St, Baldoyle, Dublin 13",Dublin,213000.0,No,Baldoyle,Dublin 13,q2,30%
+15/04/2016,"55 Myrtle House, The Coast, Baldoyle Dublin 13",Dublin,290000.0,No,Baldoyle,Dublin 13,q3,60%
+29/04/2016,"34 James Mccormack Gardens, Baldoyle, Dublin 13",Dublin,372000.0,No,Baldoyle,Dublin 13,q4,90%
+25/05/2016,"24 Meadowbrook Ave, Baldoyle, Dublin 13",Dublin,325000.0,No,Baldoyle,Dublin 13,q3,80%
+27/05/2016,"15 Moyclare Rd, Baldoyle, Dublin 13",Dublin,265000.0,No,Baldoyle,Dublin 13,q2,50%
+01/06/2016,"1 Foxhill Green, Baldoyle, Dublin 13",Dublin,290000.0,No,Baldoyle,Dublin 13,q3,60%
+09/06/2016,"73 Red Arches Rd, The Coast, Baldoyle Dublin 3",Dublin,280000.0,No,Baldoyle,Dublin 13,q3,60%
+28/06/2016,"17 Moyclare Close, Baldoyle, Dublin 13",Dublin,270000.0,No,Baldoyle,Dublin 13,q2,50%
+30/06/2016,"1 Turnberry Sq, Baldoyle, Dublin 13",Dublin,410000.0,No,Baldoyle,Dublin 13,q4,90%
+09/07/2016,"31 Grange Park, Baldoyle, Dublin 13",Dublin,362000.0,No,Baldoyle,Dublin 13,q4,80%
+13/07/2016,"51 Grange Park, Baldoyle, Dublin 13",Dublin,378000.0,No,Baldoyle,Dublin 13,q4,90%
+10/08/2016,"60 Turnberry, Baldoyle, Dublin 13",Dublin,480000.0,No,Baldoyle,Dublin 13,q4,100%
+26/08/2016,"12 Stapolin Ave, The Coast, Baldoyle",Dublin,391000.0,No,Baldoyle,Dublin 13,q4,90%
+26/08/2016,"20 Tuscany Park, Baldoyle, Dublin 13",Dublin,290000.0,No,Baldoyle,Dublin 13,q3,60%
+31/08/2016,"33 Marian Park, Grange Road, Baldoyle",Dublin,326000.0,No,Baldoyle,Dublin 13,q3,80%
+05/09/2016,"107 Grange Abbey Crescent, Baldoyle, Dublin 13",Dublin,275000.0,No,Baldoyle,Dublin 13,q2,50%
+05/09/2016,"52 Strand Rd, Baldoyle, Dublin 13",Dublin,625000.0,No,Baldoyle,Dublin 13,q4,100%
+09/09/2016,"8 Seagrange Rd, Baldoyle, Dublin 13",Dublin,210000.0,No,Baldoyle,Dublin 13,q2,30%
+12/09/2016,"40A Strand Road, Baldoyle, Dublin 13",Dublin,880000.0,No,Baldoyle,Dublin 13,q4,100%
+12/09/2016,"9 Castlerosse Dr, Baldoyle, Dublin 13",Dublin,430000.0,No,Baldoyle,Dublin 13,q4,90%
+16/09/2016,"66 Red Arches Rd, The Coast, Baldoyle Dublin 13",Dublin,330000.0,No,Baldoyle,Dublin 13,q3,80%
+21/09/2016,"13 Seacliff Rd, Baldoyle, Dublin 13",Dublin,271000.0,No,Baldoyle,Dublin 13,q2,50%
+23/09/2016,"31 Tuscany Park, Baldoyle, Dublin 13",Dublin,289000.0,No,Baldoyle,Dublin 13,q3,60%
+29/09/2016,"3 Moyclare Road, Baldoyle, Dublin 13",Dublin,255000.0,No,Baldoyle,Dublin 13,q2,50%
+06/10/2016,"41 Grange Abbey Rd, Baldoyle, Dublin 13",Dublin,275000.0,No,Baldoyle,Dublin 13,q3,60%
+21/10/2016,"23 Red Arches Drive, The Coast, Baldoyle",Dublin,126500.0,No,Baldoyle,Dublin 13,q1,10%
+25/10/2016,"86 Grange Abbey Crescent, Baldoyle, Dublin 13",Dublin,305000.0,No,Baldoyle,Dublin 13,q3,70%
+25/10/2016,"Deebert, Brookstone Rd, Baldoyle Dublin 13",Dublin,555000.0,No,Baldoyle,Dublin 13,q4,100%
+28/10/2016,"24 Red Arches Park, The Coast, Baldoyle",Dublin,275000.0,No,Baldoyle,Dublin 13,q3,60%
+28/10/2016,"41 Tuscany Park, Baldoyle, Dublin 13",Dublin,265000.0,No,Baldoyle,Dublin 13,q2,50%
+10/11/2016,"1 Cypress House, Park View, Baldoyle Rd",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+11/11/2016,"26 Meadowbrook Park, Baldoyle, Dublin 13",Dublin,160000.0,No,Baldoyle,Dublin 13,q1,20%
+14/11/2016,"72 Seagrange Rd, Baldoyle, Dublin 13",Dublin,337000.0,No,Baldoyle,Dublin 13,q3,80%
+18/11/2016,"1 Morrow House, Myrtle, Baldoyle Dublin 13",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+18/11/2016,"1 Myrtle House, Myrtle Drive  -  The Coast, Baldoyle",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+18/11/2016,"10 Talavera House, Baldoyle, Dublin 13",Dublin,310000.0,Yes,Baldoyle,Dublin 13,q3,70%
+18/11/2016,"111 Red Arches Rd, Baldoyle, Dublin",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+18/11/2016,"17 Myrtle House, Myrtle Drive  -  The Coast, Baldoyle",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+18/11/2016,"18 Beauparc St, Clongriffin, Baldoyle Dublin 13",Dublin,190000.0,No,Baldoyle,Dublin 13,q1,30%
+18/11/2016,"19 Talavera House, Baldoyle, Dublin 13",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+18/11/2016,"20 Red Arches Park, The Coast, Baldoyle",Dublin,315000.0,No,Baldoyle,Dublin 13,q3,70%
+18/11/2016,"30 Morrow House, Myrtle, Baldoyle Dublin 13",Dublin,250000.0,No,Baldoyle,Dublin 13,q2,40%
+18/11/2016,"34 Red Arches Close, Baldoyle, Dublin 13",Dublin,270000.0,No,Baldoyle,Dublin 13,q2,50%
+18/11/2016,"36 Boyd House, Myrtle Avenue - The Coast, Baldoyle",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+18/11/2016,"94 Red Arches Rd, Baldoyle, Dublin",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+21/11/2016,"48 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+23/11/2016,"41 Red Arches Rd, Baldoyle, Dublin 13",Dublin,470000.0,No,Baldoyle,Dublin 13,q4,100%
+28/11/2016,"55 Grange Park, Baldoyle, Dublin 13",Dublin,420000.0,No,Baldoyle,Dublin 13,q4,90%
+09/12/2016,"54 Marian Park, Baldoyle, Dublin 13",Dublin,370000.0,No,Baldoyle,Dublin 13,q4,80%
+13/01/2017,"11 Moyclare Park, Baldoyle, Dublin 13",Dublin,278000.0,No,Baldoyle,Dublin 13,q3,60%
+01/02/2017,"29 Willie Nolan Rd, Baldoyle, Dublin 13",Dublin,550000.0,No,Baldoyle,Dublin 13,q4,100%
+01/02/2017,"8 Seacliff Ave, Baldoyle, Dublin 13",Dublin,250000.0,No,Baldoyle,Dublin 13,q2,40%
+10/02/2017,"38 Warren Green, Baldoyle, Dublin 13",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+03/03/2017,"23 College St, Baldoyle, Dublin 13",Dublin,290000.0,No,Baldoyle,Dublin 13,q3,60%
+10/03/2017,"17 Turnberry, Warren House Road, Baldoyle",Dublin,495000.0,No,Baldoyle,Dublin 13,q4,100%
+10/03/2017,"38 Grange Park, Baldoyle, Dublin 13",Dublin,105000.0,No,Baldoyle,Dublin 13,q1,10%
+16/03/2017,"31 Parker House, Myrtle Court, Baldoyle Dublin 13",Dublin,197500.0,No,Baldoyle,Dublin 13,q1,30%
+16/03/2017,"64 Red Arches Rd The Coast, Baldoyle Dublin 13, Dublin",Dublin,465000.0,No,Baldoyle,Dublin 13,q4,100%
+16/03/2017,"Mornington Lodge, Dublin St, Baldoyle",Dublin,340000.0,No,Baldoyle,Dublin 13,q4,80%
+24/03/2017,"42 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,355000.0,No,Baldoyle,Dublin 13,q4,80%
+24/03/2017,"7 Stapolin House, The Coast, Baldoyle Dublin 13",Dublin,190000.0,No,Baldoyle,Dublin 13,q1,30%
+29/03/2017,"50 Castlerosse View, Baldoyle, Dublin 13",Dublin,427500.0,No,Baldoyle,Dublin 13,q4,90%
+31/03/2017,"50 Marian Park, Baldoyle, Dublin 13",Dublin,255000.0,No,Baldoyle,Dublin 13,q2,50%
+03/04/2017,"18 Tuscany Park, Baldoyle, Dublin 13",Dublin,315000.0,No,Baldoyle,Dublin 13,q3,70%
+03/04/2017,"1A Moyne Rd, Baldoyle, Dublin 13",Dublin,176000.0,No,Baldoyle,Dublin 13,q1,20%
+07/04/2017,"56 Grange Abbey Grove, Baldoyle, Dublin 13",Dublin,287000.0,No,Baldoyle,Dublin 13,q3,60%
+20/04/2017,"20 Parker House, The Coast, Baldoyle Dublin 13",Dublin,241000.0,No,Baldoyle,Dublin 13,q2,40%
+27/04/2017,"119 Grange Abbey Dr, Baldoyle, Dublin 13",Dublin,280000.0,No,Baldoyle,Dublin 13,q3,60%
+05/05/2017,"13 Castlerosse Crescent, Baldoyle, Dublin 13",Dublin,430000.0,No,Baldoyle,Dublin 13,q4,100%
+10/05/2017,"93 Grange Rd, Baldoyle, Dublin 13",Dublin,405500.0,No,Baldoyle,Dublin 13,q4,90%
+12/05/2017,"16 Grange Park, Baldoyle, Dublin 13",Dublin,375000.0,No,Baldoyle,Dublin 13,q4,90%
+19/05/2017,"5A Warren Green, Baldoyle",Dublin,250000.0,Yes,Baldoyle,Dublin 13,q2,40%
+01/06/2017,"1 Sweetman House, Myrtle Ave, The Coast Baldoyle",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+09/06/2017,"128 Grange Rd, Baldoyle, Dublin 13",Dublin,325000.0,No,Baldoyle,Dublin 13,q3,80%
+12/06/2017,"55A Grange Pk, Baldoyle, Dublin 13",Dublin,342000.0,No,Baldoyle,Dublin 13,q4,80%
+14/06/2017,"56 Red Arches Rd, Baldoyle, Dublin 13",Dublin,440000.0,No,Baldoyle,Dublin 13,q4,100%
+20/06/2017,"7 Parochial Ave, Baldoyle, Dublin 13",Dublin,168000.0,No,Baldoyle,Dublin 13,q1,20%
+28/06/2017,"28 Boyd House, The Coast, Baldoyle",Dublin,335000.0,No,Baldoyle,Dublin 13,q3,80%
+30/06/2017,"35 Moyclare Close, Baldoyle, Dublin 13",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+03/07/2017,"19 Main St, Baldoyle, Dublin 13",Dublin,402000.0,No,Baldoyle,Dublin 13,q4,90%
+03/07/2017,"Westbury, Brookstone Rd, Baldoyle Dublin 13",Dublin,492000.0,No,Baldoyle,Dublin 13,q4,100%
+04/07/2017,"16 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,435000.0,No,Baldoyle,Dublin 13,q4,100%
+07/07/2017,"Turnstone House, The Mall, Main St Baldoyle Dublin 13",Dublin,445000.0,Yes,Baldoyle,Dublin 13,q4,100%
+14/07/2017,"6 Parochial Ave, Baldoyle, Dublin 13",Dublin,305000.0,No,Baldoyle,Dublin 13,q3,70%
+17/07/2017,"37 Abbey Park, Baldoyle, Dublin 13",Dublin,450000.0,No,Baldoyle,Dublin 13,q4,100%
+25/07/2017,"4 Admiral Court, Willie Nolan Rd, Baldoyle",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+10/08/2017,"18 Baldoyle Road, Baldoyle, Dublin 13",Dublin,280000.0,No,Baldoyle,Dublin 13,q3,60%
+14/08/2017,"60 Sweetman House, The Coast, Baldoyle Dublin 13",Dublin,260000.0,No,Baldoyle,Dublin 13,q2,50%
+18/08/2017,"112 Abbey Park, Baldoyle, Dublin 13",Dublin,400000.0,No,Baldoyle,Dublin 13,q4,90%
+18/08/2017,"123 Red Arches Road, Silverbanks, Baldoyle",Dublin,237885.46,Yes,Baldoyle,Dublin 13,q2,40%
+18/08/2017,"3 Rowan House, Silverbanks The Coast, Baldoyle",Dublin,285000.0,Yes,Baldoyle,Dublin 13,q3,60%
+18/08/2017,"8 Rowan House, Silverbanks The Coast, Baldoyle",Dublin,251101.32,Yes,Baldoyle,Dublin 13,q2,50%
+21/08/2017,"39 Red Arches Avenue, Silverbanks, Baldoyle",Dublin,259911.89,Yes,Baldoyle,Dublin 13,q2,50%
+21/08/2017,"45 Red Arches Avenue, Silverbanks, Baldoyle",Dublin,334801.76,Yes,Baldoyle,Dublin 13,q3,80%
+23/08/2017,"46 Red Arches Avenue, Silverbanks, Baldoyle",Dublin,380000.0,Yes,Baldoyle,Dublin 13,q4,90%
+24/08/2017,"2 Rowan House, Silverbanks, Baldoyle",Dublin,229074.0,Yes,Baldoyle,Dublin 13,q2,40%
+25/08/2017,"54 Grange Rd, Grange Abbey Baldoyle, Dublin 13",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+28/08/2017,"43 Turnberry Sq, Baldoyle, Dublin 13",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+30/08/2017,"5 Rowan House, Silverbanks, Baldoyle",Dublin,140969.16,Yes,Baldoyle,Dublin 13,q1,20%
+31/08/2017,"35 Strand Road, Baldoyle, Dublin 13",Dublin,755000.0,No,Baldoyle,Dublin 13,q4,100%
+04/09/2017,"121 Red Arches Road, Silverbanks, The Coast  Baldoyle",Dublin,352400.0,Yes,Baldoyle,Dublin 13,q4,80%
+04/09/2017,"124 Red Arches Road, Silverbanks, Baldoyle",Dublin,251101.0,Yes,Baldoyle,Dublin 13,q2,50%
+05/09/2017,"1B Meadowbrook Lawn, Baldoyle, Dublin 13",Dublin,220000.0,No,Baldoyle,Dublin 13,q2,40%
+07/09/2017,"3 Willie Nolan Rd, Baldoyle, Dublin 13",Dublin,465000.0,No,Baldoyle,Dublin 13,q4,100%
+14/09/2017,"51 Red Arches Avenue, Silverbanks The Coast, Baldoyle",Dublin,251101.32,Yes,Baldoyle,Dublin 13,q2,50%
+15/09/2017,"114 Red Arches Road, Baldoyle, Dublin 13",Dublin,215860.0,Yes,Baldoyle,Dublin 13,q2,30%
+15/09/2017,"119 Red Arches Road, Silverbanks, The Coast Baldoyle",Dublin,237885.0,Yes,Baldoyle,Dublin 13,q2,40%
+15/09/2017,"37 Red Arches Park, Silverbank, Baldoyle",Dublin,262114.54,Yes,Baldoyle,Dublin 13,q2,50%
+16/09/2017,"46 Meadowbrook Park, Baldoyle, Dublin 13",Dublin,360000.0,No,Baldoyle,Dublin 13,q4,80%
+18/09/2017,"117 Red Arches Road, Silverbanks, Baldoyle",Dublin,246696.03,Yes,Baldoyle,Dublin 13,q2,40%
+20/09/2017,"118 Red Arches Road, The Coast, Baldoyle",Dublin,237885.45,Yes,Baldoyle,Dublin 13,q2,40%
+20/09/2017,"39 Red Arches Park, Silverbanks, Baldoyle",Dublin,334801.76,Yes,Baldoyle,Dublin 13,q3,80%
+21/09/2017,"33 Strand Rd, Baldoyle, Dublin 13",Dublin,880000.0,No,Baldoyle,Dublin 13,q4,100%
+21/09/2017,"36 Seacliff Rd, Baldoyle, Dublin 13",Dublin,412000.0,No,Baldoyle,Dublin 13,q4,90%
+26/09/2017,"35 Red Arches Park, Silverbanks, Baldoyle",Dublin,136563.0,Yes,Baldoyle,Dublin 13,q1,10%
+28/09/2017,"7 Seagrange Ave, Baldoyle, Dublin 13",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+29/09/2017,"12 Turnberry, Warren House Road, Baldoyle",Dublin,540000.0,No,Baldoyle,Dublin 13,q4,100%
+29/09/2017,"Apt 36 Red Arches Park, Silverbanks, Baldoyle",Dublin,140969.0,Yes,Baldoyle,Dublin 13,q1,20%
+02/10/2017,"14 Red Arches Dr, The Coast, Baldoyle Dublin 13",Dublin,175000.0,No,Baldoyle,Dublin 13,q1,20%
+06/10/2017,"49 Red Arches Avenue, The Coast, Baldoyle",Dublin,334801.76,Yes,Baldoyle,Dublin 13,q3,80%
+10/10/2017,"40 Marian Park, Baldoyle, Dublin 13",Dublin,308500.0,No,Baldoyle,Dublin 13,q3,70%
+11/10/2017,"42 Red Arches Park, The Coast, Baldoyle",Dublin,259912.0,Yes,Baldoyle,Dublin 13,q2,50%
+16/10/2017,"34 Red Arches Park, Silverbanks, Baldoyle",Dublin,259911.0,Yes,Baldoyle,Dublin 13,q2,50%
+20/10/2017,"34 Meadowbrook Ave, Baldoyle, Dublin 13",Dublin,422000.0,No,Baldoyle,Dublin 13,q4,90%
+20/10/2017,"4 Myrtle Sq, The Coast, Baldoyle Dublin 13",Dublin,332000.0,No,Baldoyle,Dublin 13,q3,80%
+24/10/2017,"177 Grange Abbey Grove, Baldoyle, Dublin 13",Dublin,315000.0,No,Baldoyle,Dublin 13,q3,70%
+26/10/2017,"71 Admiral Park, Baldoyle, Dublin 13",Dublin,442000.0,No,Baldoyle,Dublin 13,q4,100%
+27/10/2017,"4A Brookstone Road, Baldoyle, Dublin 13",Dublin,425000.0,No,Baldoyle,Dublin 13,q4,90%
+31/10/2017,"30 Tuscany Park, Baldoyle, Dublin",Dublin,305000.0,No,Baldoyle,Dublin 13,q3,70%
+02/11/2017,"35A Seacliff Avenue, Baldoyle, Dublin 13",Dublin,345000.0,Yes,Baldoyle,Dublin 13,q4,80%
+06/11/2017,"41 Red Arches Park, The Coast   Baldoyle, Dublin 13",Dublin,297500.0,Yes,Baldoyle,Dublin 13,q3,60%
+08/11/2017,"30 Seacliff Ave, Baldoyle, Dublin 13",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+15/11/2017,"24 Seagrange Ave, Baldoyle, Dublin 13",Dublin,300000.0,No,Baldoyle,Dublin 13,q3,60%
+20/11/2017,"41 Seacliffe Rd, Baldoyle, Dublin 13",Dublin,415000.0,No,Baldoyle,Dublin 13,q4,90%
+23/11/2017,"25 Moyclare Pk, Baldoyle, Dublin 13",Dublin,375000.0,No,Baldoyle,Dublin 13,q4,90%
+24/11/2017,"23 Tuscany Park, Baldoyle, Dublin",Dublin,240000.0,No,Baldoyle,Dublin 13,q2,40%
+29/11/2017,"13 Willow House, Silverbanks, Baldoyle",Dublin,149779.0,Yes,Baldoyle,Dublin 13,q1,20%
+29/11/2017,"2 Willow House, Silverbanks The Coast, Baldoyle",Dublin,211453.74,Yes,Baldoyle,Dublin 13,q2,30%
+01/12/2017,"110 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,425000.0,No,Baldoyle,Dublin 13,q4,90%
+05/12/2017,"31 Red Arches Avenue, The Coast, Baldoyle",Dublin,280000.0,Yes,Baldoyle,Dublin 13,q3,60%
+07/12/2017,"Apt 3 Willow House, Silverbanks, Baldoyle",Dublin,178380.0,Yes,Baldoyle,Dublin 13,q1,20%
+08/12/2017,"17 Abbey Park, Baldoyle, Dublin City",Dublin,500000.0,No,Baldoyle,Dublin 13,q4,100%
+13/12/2017,"13 College St, Baldoyle, Dublin 13",Dublin,291000.0,No,Baldoyle,Dublin 13,q3,60%
+13/12/2017,"28 Red Arches, Silverbanks, Baldoyle",Dublin,220265.0,Yes,Baldoyle,Dublin 13,q2,40%
+14/12/2017,"36 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,415000.0,No,Baldoyle,Dublin 13,q4,90%
+14/12/2017,"9 Willow House, Silverbanks, Baldoyle",Dublin,145374.0,Yes,Baldoyle,Dublin 13,q1,20%
+18/12/2017,"26 Birch House, Silverbanks  The Coast, Baldoyle",Dublin,229074.88,Yes,Baldoyle,Dublin 13,q2,40%
+18/12/2017,"37 Red Arches Avenue, Silverbanks, Baldoyle",Dublin,246696.0,Yes,Baldoyle,Dublin 13,q2,40%
+19/12/2017,"10 Parker House, Myrtle Court, Baldoyle Dublin 13",Dublin,210000.0,No,Baldoyle,Dublin 13,q2,30%
+19/12/2017,"23 Red Arches Avenue, Silverbacks, Baldoyle",Dublin,247787.61,Yes,Baldoyle,Dublin 13,q2,40%
+20/12/2017,"11 Willow House, Silverbanks, Baldoyle",Dublin,145374.0,Yes,Baldoyle,Dublin 13,q1,20%
+20/12/2017,"24 Birch House, Silverbanks, Baldoyle",Dublin,224669.61,Yes,Baldoyle,Dublin 13,q2,40%
+04/01/2018,"14 Willow House, Silverbanks, Baldoyle",Dublin,219512.2,Yes,Baldoyle,Dublin 13,q2,40%
+08/01/2018,"33 Birch House, Silverbanks, Baldoyle",Dublin,149780.0,Yes,Baldoyle,Dublin 13,q1,20%
+09/01/2018,"20 Birch House, Silverbanks, Baldoyle",Dublin,145374.0,Yes,Baldoyle,Dublin 13,q1,20%
+12/01/2018,"42 Foxhill Ave, Ayrfield, Baldoyle",Dublin,340000.0,No,Baldoyle,Dublin 13,q4,80%
+12/01/2018,"84 Grange Rd, Baldoyle, Dublin 13",Dublin,440000.0,No,Baldoyle,Dublin 13,q4,100%
+15/01/2018,"36 Seacliff Ave, Baldoyle, Dublin 13",Dublin,308000.0,No,Baldoyle,Dublin 13,q3,70%
+19/01/2018,"136 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,450000.0,No,Baldoyle,Dublin 13,q4,100%
+24/01/2018,"11 Grange Rd, Grange Abbey, Baldoyle",Dublin,296500.0,No,Baldoyle,Dublin 13,q3,60%
+26/01/2018,"29 Red Arches Avenue, Silverbanks, Baldoyle",Dublin,246696.0,Yes,Baldoyle,Dublin 13,q2,40%
+26/01/2018,"32 Birch House, The Coast, Baldoyle",Dublin,229074.88,Yes,Baldoyle,Dublin 13,q2,40%
+05/02/2018,"Apartment 55, Beech House, Baldoyle",Dublin,193832.0,Yes,Baldoyle,Dublin 13,q1,30%
+08/02/2018,"28 Birch House, Silverbanks, Baldoyle",Dublin,229074.88,Yes,Baldoyle,Dublin 13,q2,40%
+09/02/2018,"48 Parkview, Baldoyle, Dublin 13",Dublin,350000.0,No,Baldoyle,Dublin 13,q4,80%
+12/02/2018,"30 Birch House, Silverbanks  The Coast, Baldoyle",Dublin,224900.0,Yes,Baldoyle,Dublin 13,q2,40%
+12/02/2018,"73 Red Arches Ave, The Coast, Baldoyle",Dublin,235000.0,No,Baldoyle,Dublin 13,q2,40%
+13/02/2018,"34 Birch House, Baldoyle, Dublin 13",Dublin,251101.32,Yes,Baldoyle,Dublin 13,q2,50%
+13/02/2018,"58 Beech House, Silverbanks, Baldoyle",Dublin,237885.5,Yes,Baldoyle,Dublin 13,q2,40%
+19/02/2018,"62 Beech House, Silverbanks, Baldoyle",Dublin,242290.7,Yes,Baldoyle,Dublin 13,q2,40%
+20/02/2018,"108 Ash House, Baldoyle, Dublin 13",Dublin,290748.89,Yes,Baldoyle,Dublin 13,q3,60%
+20/02/2018,"52 Sycamore House, Silverbanks, Baldoyle",Dublin,321585.0,Yes,Baldoyle,Dublin 13,q3,70%
+22/02/2018,"49 Sycamore House, Silverbanks  The Coast, Baldoyle",Dublin,171807.0,Yes,Baldoyle,Dublin 13,q1,20%
+23/02/2018,"17 Warrenhouse Rd, Baldoyle, Dublin City",Dublin,745000.0,No,Baldoyle,Dublin 13,q4,100%
+27/02/2018,"20 Seacliff Dr, Seagrange, Baldoyle Dublin 13",Dublin,370000.0,No,Baldoyle,Dublin 13,q4,80%
+05/03/2018,"43 Sycamore House, Silverbanks, The Coast Baldoyle",Dublin,149779.73,Yes,Baldoyle,Dublin 13,q1,20%
+05/03/2018,"97 Ash House Silverbanks, Baldoyle, Dublin 13",Dublin,242300.0,Yes,Baldoyle,Dublin 13,q2,40%
+06/03/2018,"16 Red Arches Close, Baldoyle, Dublin 13",Dublin,192500.0,No,Baldoyle,Dublin 13,q1,30%
+08/03/2018,"59 Beech House, Baldoyle",Dublin,158590.31,Yes,Baldoyle,Dublin 13,q1,20%
+09/03/2018,"50 Sycamore House  Silverbanks, The Coast  Baldoyle",Dublin,245374.0,Yes,Baldoyle,Dublin 13,q2,40%
+14/03/2018,"21 Red Arches Avenue, Baldoyle",Dublin,246696.0,Yes,Baldoyle,Dublin 13,q2,40%
+15/03/2018,"Apartment 22 Red Arches Avenue, Baldoyle, Dublin 13",Dublin,220265.0,Yes,Baldoyle,Dublin 13,q2,40%
+20/03/2018,"45 Sycamore House, Silverbanks, The Coast Baldoyle",Dublin,158590.3,Yes,Baldoyle,Dublin 13,q1,20%
+21/03/2018,"52 Admiral Park, Baldoyle, Dublin 13",Dublin,465000.0,No,Baldoyle,Dublin 13,q4,100%
+26/03/2018,"30 Red Arches Park, Silverbanks, Baldoyle",Dublin,259911.89,Yes,Baldoyle,Dublin 13,q2,50%
+27/03/2018,"6 Seapoint Court, Baldoyle, Dublin 13",Dublin,280000.0,No,Baldoyle,Dublin 13,q3,60%
+27/03/2018,"Apartment 47 Sycamore House, Silverbanks, Baldoyle",Dublin,158590.0,Yes,Baldoyle,Dublin 13,q1,20%
+28/03/2018,"114 Alder House, Silverbanks, Baldoyle",Dublin,167400.0,Yes,Baldoyle,Dublin 13,q1,20%
+28/03/2018,"25 Birch House, Silverbanks The Coast, Baldoyle",Dublin,165000.0,Yes,Baldoyle,Dublin 13,q1,20%
+28/03/2018,"27 Birch House, Silverbanks The Coast, Baldoyle",Dublin,160000.0,Yes,Baldoyle,Dublin 13,q1,20%
+28/03/2018,"93 Ash House, Silverbanks The Coast, Baldoyle",Dublin,255000.0,Yes,Baldoyle,Dublin 13,q2,50%
+29/03/2018,"90 Oak House  Silverbanks, The Coast  Baldoyle",Dublin,281937.0,Yes,Baldoyle,Dublin 13,q3,60%
+29/03/2018,"96 Ash House, Silver Bank, Baldoyle",Dublin,154185.02,Yes,Baldoyle,Dublin 13,q1,20%
+04/04/2018,"29 Birch House, Silverbanks  The Coast, Baldoyle",Dublin,145374.44,Yes,Baldoyle,Dublin 13,q1,20%
+06/04/2018,"115 Alder House, Silverbanks, Baldoyle",Dublin,268722.46,Yes,Baldoyle,Dublin 13,q2,50%
+06/04/2018,"118 Alder House, Silverbanks, Baldoyle",Dublin,171806.16,Yes,Baldoyle,Dublin 13,q1,20%
+10/04/2018,"2 Harford Green, Baldoyle",Dublin,524229.0,Yes,Baldoyle,Dublin 13,q4,100%
+17/04/2018,"31 Morrow House, The Coast, Baldoyle Dublin 13",Dublin,207000.0,No,Baldoyle,Dublin 13,q2,30%
+18/04/2018,"56 Abbey Park, Baldoyle, Dublin 13",Dublin,450000.0,No,Baldoyle,Dublin 13,q4,100%
+24/04/2018,"56 Beech House, Silberbanks, Baldoyle",Dublin,203275.0,Yes,Baldoyle,Dublin 13,q1,30%
+25/04/2018,"94 Ashmore House, Silverbanks, Baldoyle",Dublin,233480.17,Yes,Baldoyle,Dublin 13,q2,40%
+26/04/2018,"Apartment 122 Alder House, The Coast, Baldoyle",Dublin,180617.0,Yes,Baldoyle,Dublin 13,q1,20%
+30/04/2018,"49 Admiral Park, Baldoyle, Dublin 13",Dublin,480000.0,No,Baldoyle,Dublin 13,q4,100%
+01/05/2018,"3 Harford Green, Willie Nolan Road, Baldoyle",Dublin,506608.0,Yes,Baldoyle,Dublin 13,q4,100%
+02/05/2018,"4 Harford Green, Willie Nolan Road, Baldoyle",Dublin,511013.22,Yes,Baldoyle,Dublin 13,q4,100%
+04/05/2018,"26 Tuscany Park, Baldoyle, Dublin 13",Dublin,155000.0,No,Baldoyle,Dublin 13,q1,20%
+04/05/2018,"64 Grange Abbey Grove, Baldoyle, Dublin 13",Dublin,360000.0,No,Baldoyle,Dublin 13,q4,80%
+04/05/2018,"70 Beech House Silverbanks, The Coast, Baldoyle",Dublin,325991.0,Yes,Baldoyle,Dublin 13,q3,80%
+04/05/2018,"86 Oak House, Silverbanks, The Coast Baldoyle",Dublin,280000.0,Yes,Baldoyle,Dublin 13,q3,60%
+08/05/2018,"80 Oak House  Silverbanks, The Coast, Baldoyle",Dublin,272475.0,Yes,Baldoyle,Dublin 13,q2,50%
+09/05/2018,"83 Oak House, The Coast, Baldoyle",Dublin,167400.0,Yes,Baldoyle,Dublin 13,q1,20%
+09/05/2018,"Apartment 117 Alder House, Silverbanks  The Coast, Baldoyle",Dublin,251101.32,Yes,Baldoyle,Dublin 13,q2,50%
+11/05/2018,"1 Harford Green, Willie Nolan Road, Baldoyle",Dublin,555066.08,Yes,Baldoyle,Dublin 13,q4,100%
+15/05/2018,"41 Turnberry Sq, Baldoyle, Dublin 13",Dublin,297500.0,No,Baldoyle,Dublin 13,q3,60%
+16/05/2018,"63 Beech House, Silverbanks, Baldoyle",Dublin,162996.0,Yes,Baldoyle,Dublin 13,q1,20%
+16/05/2018,"74 Oak House, Silverbanks, Baldoyle",Dublin,207048.0,Yes,Baldoyle,Dublin 13,q2,30%
+17/05/2018,"11 Castlerosse View, Baldoyle, Dublin 13",Dublin,455000.0,No,Baldoyle,Dublin 13,q4,100%
+17/05/2018,"81 Oak House, The Coast, Baldoyle",Dublin,158590.3,Yes,Baldoyle,Dublin 13,q1,20%
+23/05/2018,"124 Alder House, Silverbanks, Baldoyle",Dublin,185022.02,Yes,Baldoyle,Dublin 13,q1,30%
+07/06/2018,"3 Parker House, Myrtle Court, Baldoyle Dublin 13",Dublin,317500.0,No,Baldoyle,Dublin 13,q3,70%
+26/06/2018,"5 Foxhill Grove, Baldoyle, Dublin 13",Dublin,55000.0,No,Baldoyle,Dublin 13,q1,10%
+29/06/2018,"57 Myrtle House, Myrtle Rd, The Coast Baldoyle",Dublin,360000.0,No,Baldoyle,Dublin 13,q4,80%
+02/07/2018,"11 Breffni Gardens, Main St, Baldoyle Dublin 13",Dublin,300000.0,No,Baldoyle,Dublin 13,q3,70%
+02/07/2018,"11 Turnberry, Baldoyle, Dublin 13",Dublin,505000.0,No,Baldoyle,Dublin 13,q4,100%
+02/07/2018,"35 Birch House, Silverbanks The Coast, Baldoyle",Dublin,255506.0,Yes,Baldoyle,Dublin 13,q2,50%
+02/07/2018,"40 Strand Rd, Baldoyle, Dublin 13",Dublin,950000.0,No,Baldoyle,Dublin 13,q4,100%
+05/07/2018,"Apt. 110 Alder House, Baldoyle, Dublin 13",Dublin,220264.32,Yes,Baldoyle,Dublin 13,q2,40%
+09/07/2018,"7 Red Arches Road, The Coast, Baldoyle",Dublin,353000.0,No,Baldoyle,Dublin 13,q4,80%
+10/07/2018,"21 Foxhill Lawn, Baldoyle  Dublin 13, Dublin",Dublin,300000.0,No,Baldoyle,Dublin 13,q3,70%
+11/07/2018,"38 Red Arches Avenue, The Coast, Baldoyle",Dublin,220265.0,Yes,Baldoyle,Dublin 13,q2,40%
+12/07/2018,"13 Warren Court, Warrenhouse Road, Baldoyle",Dublin,425000.0,Yes,Baldoyle,Dublin 13,q4,90%
+13/07/2018,"63 Red Arches Rd, The Coast, Baldoyle Dublin 13",Dublin,500000.0,No,Baldoyle,Dublin 13,q4,100%
+16/07/2018,"50 Red Arches Avenue, The Coast, Baldoyle  Dublin 13",Dublin,220264.0,Yes,Baldoyle,Dublin 13,q2,40%
+17/07/2018,"2 Seagrange Ave, Baldoyle, Dublin 13",Dublin,365000.0,No,Baldoyle,Dublin 13,q4,80%
+18/07/2018,"3 Admiral Court, Willie Nolan Rd, Baldoyle",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+19/07/2018,"12 Warrencourt Apartments, Warrenhouse Road, Baldoyle",Dublin,295154.19,Yes,Baldoyle,Dublin 13,q3,60%
+20/07/2018,"13  Park House, Baldoyle",Dublin,440088.0,Yes,Baldoyle,Dublin 13,q4,100%
+25/07/2018,"14 Red Arches Close, The Coast, Baldoyle Dublin 13",Dublin,295000.0,No,Baldoyle,Dublin 13,q3,60%
+27/07/2018,"79 Turnberry, Baldoyle, Dublin 13",Dublin,537000.0,No,Baldoyle,Dublin 13,q4,100%
+30/07/2018,"11  Park House, Baldoyle",Dublin,440088.11,Yes,Baldoyle,Dublin 13,q4,100%
+30/07/2018,"118 Abbey Park, Baldoyle Dublin 13, Dublin",Dublin,434200.0,No,Baldoyle,Dublin 13,q4,100%
+01/08/2018,"7 Warrenhouse Rd, Baldoyle, Dublin 13",Dublin,615000.0,No,Baldoyle,Dublin 13,q4,100%
+02/08/2018,"14 Park House, Dublin Road, Baldoyle",Dublin,444934.0,Yes,Baldoyle,Dublin 13,q4,100%
+03/08/2018,"12 Park House, Baldoyle",Dublin,440088.11,Yes,Baldoyle,Dublin 13,q4,100%
+10/08/2018,"119 Seacrest, Willie Nolan Rd, Baldoyle Dublin 13",Dublin,538000.0,No,Baldoyle,Dublin 13,q4,100%
+13/08/2018,"14 Boyd House, The Coast, Baldoyle",Dublin,345000.0,No,Baldoyle,Dublin 13,q4,80%
+13/08/2018,"8 Moyclare Close, Baldoyle, Dublin 13",Dublin,305000.0,No,Baldoyle,Dublin 13,q3,70%
+13/08/2018,"Apartment 10 Warrencourt, Warrenhouse Road, Baldoyle",Dublin,325000.0,No,Baldoyle,Dublin 13,q3,80%
+20/08/2018,"16 Park House, Dublin Street, Baldoyle",Dublin,458149.78,Yes,Baldoyle,Dublin 13,q4,100%
+22/08/2018,"17 Seagrange Ave, Baldoyle, Dublin 13",Dublin,325000.0,No,Baldoyle,Dublin 13,q3,80%
+23/08/2018,"11 Meadowbrook Ave, Baldoyle, Dublin 13",Dublin,380000.0,No,Baldoyle,Dublin 13,q4,90%
+27/08/2018,"19 Warrenhouse Road, Baldoyle, Dublin 13",Dublin,670000.0,No,Baldoyle,Dublin 13,q4,100%
+29/08/2018,"15 Park House, Baldoyle, Dublin 13",Dublin,449400.0,Yes,Baldoyle,Dublin 13,q4,100%
+31/08/2018,"18 Park House, Baldoyle",Dublin,414097.0,Yes,Baldoyle,Dublin 13,q4,90%
+05/09/2018,"20 Park House, Baldoyle, Dublin 13",Dublin,414096.91,Yes,Baldoyle,Dublin 13,q4,90%
+05/09/2018,"48 Parkview, Baldoyle, Dublin 13",Dublin,395000.0,No,Baldoyle,Dublin 13,q4,90%
+10/09/2018,"24 Park House, Baldoyle, Dublin 13",Dublin,414100.0,Yes,Baldoyle,Dublin 13,q4,90%
+11/09/2018,"23 Park House, Baldoyle, Dublin 13",Dublin,414097.0,Yes,Baldoyle,Dublin 13,q4,90%
+14/09/2018,"10 Seagrange Rd, Baldoyle, Dublin 13",Dublin,412000.0,No,Baldoyle,Dublin 13,q4,90%
+20/09/2018,"22 Park House, Dublin Street, Baldoyle",Dublin,414097.0,Yes,Baldoyle,Dublin 13,q4,90%
+21/09/2018,"163 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,100000.0,No,Baldoyle,Dublin 13,q1,10%
+25/09/2018,"5 Strand Rd, Baldoyle, Dublin 13",Dublin,512000.0,No,Baldoyle,Dublin 13,q4,100%
+28/09/2018,"166 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,420000.0,No,Baldoyle,Dublin 13,q4,90%
+04/10/2018,"67 Red Arches Ave, The Coast, Baldoyle Dublin 13",Dublin,300000.0,No,Baldoyle,Dublin 13,q3,70%
+05/10/2018,"16 Foxhill Green, Baldoyle, Dublin 13",Dublin,325000.0,No,Baldoyle,Dublin 13,q3,80%
+05/10/2018,"82 Admiral Park, Baldoyle, Dublin 13",Dublin,450000.0,No,Baldoyle,Dublin 13,q4,100%
+09/10/2018,"16 Seacliff Ave, Baldoyle, Dublin 13",Dublin,445000.0,No,Baldoyle,Dublin 13,q4,100%
+09/10/2018,"41 Meadowbrook Ave, Baldoyle, Dublin 13",Dublin,485000.0,No,Baldoyle,Dublin 13,q4,100%
+12/10/2018,"10 Park House, Baldoyle",Dublin,449800.0,Yes,Baldoyle,Dublin 13,q4,100%
+23/10/2018,"10 Grange Abbey Rd, Baldoyle, Dublin 13",Dublin,345000.0,No,Baldoyle,Dublin 13,q4,80%
+26/10/2018,"17  Park House, Baldoyle, Dublin 13",Dublin,422908.0,Yes,Baldoyle,Dublin 13,q4,90%
+26/10/2018,"4 Red Arches Dr, The Coast, Baldoyle Dublin 13",Dublin,335000.0,No,Baldoyle,Dublin 13,q3,80%
+02/11/2018,"16 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,395000.0,No,Baldoyle,Dublin 13,q4,90%
+08/11/2018,"25 Park House, Baldoyle, Dublin 13",Dublin,422907.0,Yes,Baldoyle,Dublin 13,q4,90%
+12/11/2018,"1 Turnberry Sq, Baldoyle, Dublin 13",Dublin,410000.0,No,Baldoyle,Dublin 13,q4,90%
+16/11/2018,"12 Moyclare Dr, Baldoyle, Dublin 13",Dublin,319000.0,No,Baldoyle,Dublin 13,q3,70%
+20/11/2018,"29 Morrow House, The Coast, Baldoyle Dublin 13",Dublin,285000.0,No,Baldoyle,Dublin 13,q3,60%
+20/11/2018,"47 Parkvale, Baldoyle, Dublin 13",Dublin,428000.0,No,Baldoyle,Dublin 13,q4,90%
+21/11/2018,"2 College St, Baldoyle, Dublin 13",Dublin,30000.0,No,Baldoyle,Dublin 13,q1,10%
+07/12/2018,"8 Myrtle Close, The Coast, Baldoyle",Dublin,320000.0,No,Baldoyle,Dublin 13,q3,70%
+10/12/2018,"21 Redarches Rd The Coast, Baldoyle Dublin 13, Dublin",Dublin,375000.0,No,Baldoyle,Dublin 13,q4,90%
+14/12/2018,"38 Meadowbrook Park, Baldoyle, Dublin 13",Dublin,345000.0,No,Baldoyle,Dublin 13,q4,80%
+17/12/2018,"8 Moyclare Rd, Baldoyle, Dublin 13",Dublin,338000.0,No,Baldoyle,Dublin 13,q3,80%
+03/01/2019,"36 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,340000.0,No,Baldoyle,Dublin 13,q4,80%
+14/01/2019,"31 Grange Abbey Rd, Baldoyle, Dublin 13",Dublin,337500.0,No,Baldoyle,Dublin 13,q3,80%
+14/02/2019,"102 Red Arches Rd, Baldoyle, Dublin",Dublin,330396.48,Yes,Baldoyle,Dublin 13,q3,80%
+14/02/2019,"109 Red Arches Rd, Baldoyle, Dublin",Dublin,312775.33,Yes,Baldoyle,Dublin 13,q3,70%
+14/02/2019,"11 Morrow House, Myrtle, Baldoyle Dublin 13",Dublin,330396.48,Yes,Baldoyle,Dublin 13,q3,80%
+14/02/2019,"14 Parker House, Myrtle, Baldoyle Dublin 13",Dublin,207048.46,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"14 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,215859.03,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"15 Red Arches Park, Baldoyle, Dublin 13",Dublin,317180.62,Yes,Baldoyle,Dublin 13,q3,70%
+14/02/2019,"15 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,215859.03,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"17 Morrow House, Myrtle, Baldoyle Dublin 13",Dublin,330396.48,Yes,Baldoyle,Dublin 13,q3,80%
+14/02/2019,"17 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,185022.03,Yes,Baldoyle,Dublin 13,q1,30%
+14/02/2019,"17 Talavera House, Baldoyle, Dublin 13",Dublin,330396.48,Yes,Baldoyle,Dublin 13,q3,80%
+14/02/2019,"18 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,215859.03,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"18 Talavera House, Baldoyle, Dublin 13",Dublin,330396.48,Yes,Baldoyle,Dublin 13,q3,80%
+14/02/2019,"19 Myrtle House, Myrtle, Baldoyle Dublin 13",Dublin,185022.03,Yes,Baldoyle,Dublin 13,q1,30%
+14/02/2019,"19 Red Arches Drive, Baldoyle, Dublin 13",Dublin,317180.62,Yes,Baldoyle,Dublin 13,q3,70%
+14/02/2019,"19 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,215859.03,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"20 Boyd House, Myrtle, Baldoyle Dublin 13",Dublin,299559.47,Yes,Baldoyle,Dublin 13,q3,60%
+14/02/2019,"20 Myrtle House, Myrtle, Baldoyle Dublin 13",Dublin,185022.03,Yes,Baldoyle,Dublin 13,q1,30%
+14/02/2019,"20 Red Arches Close, Baldoyle, Dublin 13",Dublin,176211.45,Yes,Baldoyle,Dublin 13,q1,20%
+14/02/2019,"20 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,185022.03,Yes,Baldoyle,Dublin 13,q1,30%
+14/02/2019,"21 Myrtle House, Myrtle, Baldoyle Dublin 13",Dublin,237885.46,Yes,Baldoyle,Dublin 13,q2,40%
+14/02/2019,"21 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,185022.03,Yes,Baldoyle,Dublin 13,q1,30%
+14/02/2019,"22 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,215859.03,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"23 Myrtle House, Myrtle, Baldoyle Dublin 13",Dublin,185022.03,Yes,Baldoyle,Dublin 13,q1,30%
+14/02/2019,"23 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,207048.46,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"24 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,176211.45,Yes,Baldoyle,Dublin 13,q1,20%
+14/02/2019,"25 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,207048.46,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"26 Parker House, Myrtle, Baldoyle Dublin 13",Dublin,207048.46,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"27 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,207048.46,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"28 Talavera House, Myrtle, Baldoyle Dublin 13",Dublin,299559.47,Yes,Baldoyle,Dublin 13,q3,60%
+14/02/2019,"29 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,176211.45,Yes,Baldoyle,Dublin 13,q1,20%
+14/02/2019,"3 Red Arches Park, Baldoyle, Dublin",Dublin,176211.45,Yes,Baldoyle,Dublin 13,q1,20%
+14/02/2019,"30 Red Arches Close, Baldoyle, Dublin 13",Dublin,176211.45,Yes,Baldoyle,Dublin 13,q1,20%
+14/02/2019,"30 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,176211.45,Yes,Baldoyle,Dublin 13,q1,20%
+14/02/2019,"31 Myrtle House, Myrtle, Baldoyle Dublin 13",Dublin,185022.03,Yes,Baldoyle,Dublin 13,q1,30%
+14/02/2019,"31 Red Arches Close, Baldoyle, Dublin 13",Dublin,317180.62,Yes,Baldoyle,Dublin 13,q3,70%
+14/02/2019,"33 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,229074.89,Yes,Baldoyle,Dublin 13,q2,40%
+14/02/2019,"4 Talavera House, Myrtle, Baldoyle Dublin 13",Dublin,207048.46,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"40 Morror House, The Coast, Baldoyle",Dublin,308370.04,Yes,Baldoyle,Dublin 13,q3,70%
+14/02/2019,"40 Myrtle House, Myrtle, Baldoyle Dublin 13",Dublin,185022.03,Yes,Baldoyle,Dublin 13,q1,30%
+14/02/2019,"41 Parkvale, Baldoyle, Dublin 13",Dublin,380000.0,No,Baldoyle,Dublin 13,q4,90%
+14/02/2019,"42 Myrtle House, Myrtle, Baldoyle Dublin 13",Dublin,189427.31,Yes,Baldoyle,Dublin 13,q1,30%
+14/02/2019,"42 Sweetman House Longfield Rd, The Coast Baldoyle, Dublin 13",Dublin,193000.0,No,Baldoyle,Dublin 13,q1,30%
+14/02/2019,"43 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,176211.45,Yes,Baldoyle,Dublin 13,q1,20%
+14/02/2019,"45 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,207048.46,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"50 Morrow House, Myrtle, Baldoyle Dublin 13",Dublin,215859.03,Yes,Baldoyle,Dublin 13,q2,30%
+14/02/2019,"55 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,176211.45,Yes,Baldoyle,Dublin 13,q1,20%
+14/02/2019,"56 Sweetman House, Myrtle, Baldoyle Dublin 13",Dublin,176211.45,Yes,Baldoyle,Dublin 13,q1,20%
+14/02/2019,"7 Red Arches Park, Baldoyle, Dublin 13",Dublin,317180.62,Yes,Baldoyle,Dublin 13,q3,70%
+14/02/2019,"7 Talavera House, Myrtle, Baldoyle Dublin 13",Dublin,330396.48,Yes,Baldoyle,Dublin 13,q3,80%
+14/02/2019,"8 Talavera House, Baldoyle, Dublin 13",Dublin,330396.48,Yes,Baldoyle,Dublin 13,q3,80%
+14/02/2019,"88 Red Arches Rd, Baldoyle, Dublin",Dublin,237885.46,Yes,Baldoyle,Dublin 13,q2,40%
+14/02/2019,"89 Red Arches Rd, Baldoyle, Dublin",Dublin,237885.46,Yes,Baldoyle,Dublin 13,q2,40%
+14/02/2019,"91 Red Arches Rd, Baldoyle, Dublin",Dublin,237885.46,Yes,Baldoyle,Dublin 13,q2,40%
+14/02/2019,"97 Red Arches Rd, Baldoyle, Dublin",Dublin,312775.33,Yes,Baldoyle,Dublin 13,q3,70%
+21/02/2019,"53 Sycamore House, Silverbanks, Baldoyle",Dublin,300837.0,Yes,Baldoyle,Dublin 13,q3,70%
+22/02/2019,"66 Red Arches Rd, The Coast, Baldoyle Dublin 13",Dublin,390000.0,No,Baldoyle,Dublin 13,q4,90%
+25/02/2019,"27 Boyd House, Myrtle Avenue, The Coast Baldoyle",Dublin,358000.0,No,Baldoyle,Dublin 13,q4,80%
+27/02/2019,"12 Red Arches Ave, The Coast, Baldoyle",Dublin,330000.0,No,Baldoyle,Dublin 13,q3,80%
+13/03/2019,"134 Stapolin Lawns, Baldoyle, Dublin 13",Dublin,385000.0,No,Baldoyle,Dublin 13,q4,90%
+13/03/2019,"Apartment 1 Park House, Baldoyle",Dublin,480000.0,Yes,Baldoyle,Dublin 13,q4,100%
+27/03/2019,"36 Turnberry Sq, Baldoyle, Dublin 13",Dublin,410000.0,No,Baldoyle,Dublin 13,q4,90%
+01/04/2019,"58 Seagrange Rd, Baldoyle, Dublin 13",Dublin,315000.0,No,Baldoyle,Dublin 13,q3,70%
+05/04/2019,"51 Marian Park, Baldoyle, Dublin 13",Dublin,328000.0,No,Baldoyle,Dublin 13,q3,80%
+12/04/2019,"32 Grange Rd, Baldoyle, Dublin 13",Dublin,337500.0,No,Baldoyle,Dublin 13,q3,80%
+24/04/2019,"19 Red Arches Ave, The Coast, Baldoyle Dublin 13",Dublin,320000.0,No,Baldoyle,Dublin 13,q3,70%
+30/04/2019,"62 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,455000.0,No,Baldoyle,Dublin 13,q4,100%
+03/05/2019,"1 Moyne Rd, Baldoyle, Dublin 13",Dublin,270000.0,No,Baldoyle,Dublin 13,q2,50%
+10/05/2019,"15 Turnberry Sq, Baldoyle, Dublin City",Dublin,575000.0,No,Baldoyle,Dublin 13,q4,100%
+10/05/2019,"40 Georgian Hamlet, Baldoyle, Dublin 13",Dublin,307500.0,No,Baldoyle,Dublin 13,q3,70%
+17/05/2019,"4 Foxhill Ave, Baldoyle Dublin 13, Dublin",Dublin,380000.0,No,Baldoyle,Dublin 13,q4,90%
+24/05/2019,"15 Myrtle Close The Coast, Baldoyle Dublin 13, Dublin",Dublin,325000.0,No,Baldoyle,Dublin 13,q3,80%
+24/05/2019,"18 Castlerosse View, Baldoyle, Dublin 13",Dublin,495000.0,No,Baldoyle,Dublin 13,q4,100%
+28/05/2019,"9 Park House, Baldoyle",Dublin,506607.9,Yes,Baldoyle,Dublin 13,q4,100%
+19/06/2019,"3 Myrtle Close, Baldoyle, Dublin 13",Dublin,320000.0,No,Baldoyle,Dublin 13,q3,70%
+20/06/2019,"11 Warren Green, Baldoyle, Dublin 13",Dublin,472000.0,No,Baldoyle,Dublin 13,q4,100%
+20/06/2019,"80 Abbey Pk, Baldoyle, Dublin 13",Dublin,412500.0,No,Baldoyle,Dublin 13,q4,90%
+25/06/2019,"12 Red Arches Rd, The Coast, Baldoyle",Dublin,217000.0,Yes,Baldoyle,Dublin 13,q2,30%
+04/07/2019,"42 Morrow House Myrtle Dr, Baldoyle Dublin 13, Dublin",Dublin,108333.0,No,Baldoyle,Dublin 13,q1,10%
+05/07/2019,"24 Talavera House, Myrtle Sq  The Coast, Baldoyle",Dublin,258000.0,No,Baldoyle,Dublin 13,q2,50%
+19/07/2019,"7 Tuscany Park, Baldoyle, Dublin 13",Dublin,321000.0,No,Baldoyle,Dublin 13,q3,70%
+23/07/2019,"7 Parochial Ave, Baldoyle, Dublin 13",Dublin,365000.0,No,Baldoyle,Dublin 13,q4,80%
+24/07/2019,"32 Marian Park, Baldoyle, Dublin 13",Dublin,380000.0,No,Baldoyle,Dublin 13,q4,90%
+26/07/2019,"11 Red Arches Rd, The Coast, Baldoyle Dublin 13",Dublin,345000.0,No,Baldoyle,Dublin 13,q4,80%
+26/07/2019,"Apartment 4 Park House, Baldoyle, Dublin 13",Dublin,395000.0,Yes,Baldoyle,Dublin 13,q4,90%
+31/07/2019,"25 Park Vale, Baldoyle, Dublin 13",Dublin,380000.0,No,Baldoyle,Dublin 13,q4,90%
+07/08/2019,"8 Park House, Baldoyle, Dublin 13",Dublin,484581.49,Yes,Baldoyle,Dublin 13,q4,100%
+09/08/2019,"37 Castleross Crescent, Baldoyle, Dublin 13",Dublin,422000.0,No,Baldoyle,Dublin 13,q4,90%
+20/08/2019,"4 Brookstone Road, Baldoyle, Dublin 13",Dublin,310000.0,No,Baldoyle,Dublin 13,q3,70%
+28/08/2019,"120 Grange Abbey Crescent, Baldoyle, Dublin 13",Dublin,325000.0,No,Baldoyle,Dublin 13,q3,80%
+30/08/2019,"8 Seacliff Rd, Baldoyle, Dublin 13",Dublin,318000.0,No,Baldoyle,Dublin 13,q3,70%
+05/09/2019,"20 Dublin St, Baldoyle, Dublin 13",Dublin,455000.0,No,Baldoyle,Dublin 13,q4,100%
+20/09/2019,"65 Red Arches Rd, The Coast, Baldoyle Dublin 13",Dublin,490000.0,No,Baldoyle,Dublin 13,q4,100%
+24/09/2019,"22 Boyd House, The Coast, Baldoyle Dublin 13",Dublin,270000.0,No,Baldoyle,Dublin 13,q2,50%
+03/10/2019,"63 Parkvale, Baldoyle, Dublin 13",Dublin,372000.0,No,Baldoyle,Dublin 13,q4,90%
+04/10/2019,"62 Seagrange Rd, Baldoyle, Dublin 13",Dublin,285000.0,No,Baldoyle,Dublin 13,q3,60%
+07/10/2019,"16 Parkvale, Baldoyle, Dublin 13",Dublin,355000.0,No,Baldoyle,Dublin 13,q4,80%
+09/10/2019,"1 Moyne Rd, Baldoyle, Dublin 13",Dublin,42500.0,No,Baldoyle,Dublin 13,q1,10%
+22/10/2019,"6 Red Arches Park, The Coast, Baldoyle Dublin 13",Dublin,389000.0,No,Baldoyle,Dublin 13,q4,90%

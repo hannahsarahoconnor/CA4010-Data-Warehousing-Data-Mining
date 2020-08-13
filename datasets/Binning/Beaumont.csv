@@ -1,0 +1,604 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+27/01/2010,"156 Elmmount Avenue, Beaumont, Dublin 9",Dublin,310000.0,No,Beaumont,Dublin 9,q2,50%
+01/02/2010,"74 The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,400000.0,No,Beaumont,Dublin 9,q4,80%
+26/02/2010,"46 Shanglas Road, Beaumont",Dublin,280000.0,No,Beaumont,Dublin 9,q2,40%
+16/03/2010,"142  Elm Mount Road, Beaumont",Dublin,380000.0,No,Beaumont,Dublin 9,q3,80%
+15/04/2010,"105 Elm Mount Road, Beaumont",Dublin,345000.0,No,Beaumont,Dublin 9,q3,60%
+22/04/2010,"5 Coolatree Road, Beaumont",Dublin,255000.0,No,Beaumont,Dublin 9,q2,30%
+30/04/2010,"17 Cooleen Avenue, Beaumont",Dublin,257500.0,No,Beaumont,Dublin 9,q2,40%
+04/05/2010,"171 Elm Mount Road, Beaumont, Dublin 9",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+10/05/2010,"36 The Green, Beaumont Woods, Beaumont  Dublin 9",Dublin,320000.0,No,Beaumont,Dublin 9,q3,60%
+16/06/2010,"55 Beauvale Park, Beaumont",Dublin,266000.0,No,Beaumont,Dublin 9,q2,40%
+28/06/2010,"5 Coolatree Close, Beaumont",Dublin,295000.0,No,Beaumont,Dublin 9,q2,50%
+02/07/2010,"58 Celtic Park Avenue, Beaumont, Dublin 9",Dublin,326000.0,No,Beaumont,Dublin 9,q3,60%
+15/07/2010,"84 Collinswood, Collins Avenue, Beaumont",Dublin,326000.0,No,Beaumont,Dublin 9,q3,60%
+16/07/2010,"23 Shanboley Road, Beaumont, Dublin 9",Dublin,267500.0,No,Beaumont,Dublin 9,q2,40%
+27/07/2010,"240 Elmmount Avenue, Beaumont, Dublin 9",Dublin,322000.0,No,Beaumont,Dublin 9,q3,60%
+30/07/2010,"59 The Green, Beaumont Woods, Beaumont",Dublin,345000.0,No,Beaumont,Dublin 9,q3,60%
+05/08/2010,"11 Coolatree Close, Beaumont",Dublin,290000.0,No,Beaumont,Dublin 9,q2,50%
+05/08/2010,"19 The Park, Beaumont Woods, Beaumont",Dublin,297500.0,No,Beaumont,Dublin 9,q2,50%
+16/08/2010,"3 Collins Park, Beaumont, Dublin 9",Dublin,400000.0,No,Beaumont,Dublin 9,q4,80%
+20/08/2010,"45 Coolatree Road, Beaumont, Dublin 9",Dublin,297500.0,No,Beaumont,Dublin 9,q2,50%
+20/08/2010,"8 Celtic Park, Beaumont",Dublin,320000.0,No,Beaumont,Dublin 9,q3,60%
+27/08/2010,"13 Shanglas Road, Beaumont, Dublin 9",Dublin,317000.0,No,Beaumont,Dublin 9,q3,60%
+31/08/2010,"16 Coolatree Road, Beaumont",Dublin,320000.0,No,Beaumont,Dublin 9,q3,60%
+12/10/2010,"69 Elm Mount Avenue, Beaumont, Dublin 9",Dublin,267000.0,No,Beaumont,Dublin 9,q2,40%
+13/10/2010,"56 Beaumont Road, Beaumont, Dublin 9",Dublin,288250.0,No,Beaumont,Dublin 9,q2,50%
+14/10/2010,"57 Coolatree Road, Beaumont",Dublin,328000.0,No,Beaumont,Dublin 9,q3,60%
+15/10/2010,"106 Celtic Park Avenue, Beaumont",Dublin,325000.0,No,Beaumont,Dublin 9,q3,60%
+18/10/2010,"113  Beauvale Park, Beaumont",Dublin,233000.0,No,Beaumont,Dublin 9,q1,30%
+26/10/2010,"12 Shanboley Road, Beaumont",Dublin,263000.0,No,Beaumont,Dublin 9,q2,40%
+04/11/2010,"80 Beauvale Park, Beaumont",Dublin,225000.0,No,Beaumont,Dublin 9,q1,30%
+26/11/2010,"68 Ivy Court, Beaumont Woods, Beaumont",Dublin,210000.0,No,Beaumont,Dublin 9,q1,20%
+09/12/2010,"19 Shanboley Road, Beaumont",Dublin,286500.0,No,Beaumont,Dublin 9,q2,50%
+07/01/2011,"Apartment 1G, Beaumont House, Terenure Road East",Dublin,195000.0,No,Beaumont,Dublin 9,q1,20%
+12/01/2011,"8 Dromnanane Park, Beaumont",Dublin,275000.0,No,Beaumont,Dublin 9,q2,40%
+14/01/2011,"53 Cooltree Park, Beaumont, Dublin 9",Dublin,267000.0,No,Beaumont,Dublin 9,q2,40%
+24/02/2011,"1A Elmmount Grove, Beaumont, Dublin 9",Dublin,347000.0,No,Beaumont,Dublin 9,q3,70%
+03/03/2011,"35 Shanglas Road, Beaumont",Dublin,285000.0,No,Beaumont,Dublin 9,q2,40%
+11/03/2011,"165 Collinswood, Collin'S Avenue, Beaumont",Dublin,298000.0,No,Beaumont,Dublin 9,q2,50%
+05/05/2011,"52 Cooleen Avenue, Beaumont",Dublin,217000.0,No,Beaumont,Dublin 9,q1,20%
+13/05/2011,"10 Cooleen Avenue, Beaumont, Dublin 9",Dublin,315000.0,No,Beaumont,Dublin 9,q3,60%
+29/06/2011,"18 The Park, Beaumont Woods, Dublin 9",Dublin,285000.0,No,Beaumont,Dublin 9,q2,50%
+29/06/2011,"Apartment 3  Ashley, Grace Park Court  Beaumont, Dublin 9",Dublin,140000.0,No,Beaumont,Dublin 9,q1,10%
+30/06/2011,"2 Coolgreena Road, Beaumont",Dublin,160000.0,No,Beaumont,Dublin 9,q1,10%
+13/07/2011,"83 The Park, Beaumont Woods, Beaumont",Dublin,322500.0,No,Beaumont,Dublin 9,q3,60%
+10/08/2011,"45A  Coolatree Road, Beaumont",Dublin,410000.0,No,Beaumont,Dublin 9,q4,90%
+24/08/2011,"313 Collinswood, Off Collins Avenue, Beaumont",Dublin,255000.0,No,Beaumont,Dublin 9,q2,30%
+25/08/2011,"52 Shantalla Drive, Beaumont",Dublin,215000.0,No,Beaumont,Dublin 9,q1,20%
+26/08/2011,"76 Elm Mount Road, Beaumont, Dublin 9",Dublin,325000.0,No,Beaumont,Dublin 9,q3,60%
+08/09/2011,"45 Elm Mount Close, Beaumont, Dublin 9",Dublin,290000.0,No,Beaumont,Dublin 9,q2,50%
+13/09/2011,"92 Shantalla Road, Beaumont",Dublin,245000.0,No,Beaumont,Dublin 9,q2,30%
+19/09/2011,"48 Shantalla Drive, Beaumont, Dublin 9",Dublin,215000.0,No,Beaumont,Dublin 9,q1,20%
+28/09/2011,"401 Collinswood, Collinswood Avenue, Beaumont",Dublin,264900.0,No,Beaumont,Dublin 9,q2,40%
+29/09/2011,"59 Coolatree Road, Beaumont",Dublin,200000.0,No,Beaumont,Dublin 9,q1,20%
+30/09/2011,"243 Elm Mount Avenue, Beaumont, Dublin 9",Dublin,197500.0,No,Beaumont,Dublin 9,q1,20%
+04/10/2011,"69 Coolgreena Road, Beaumont, Dublin 9",Dublin,235000.0,No,Beaumont,Dublin 9,q1,30%
+28/10/2011,"44 Coolrua Drive, Beaumont",Dublin,205000.0,No,Beaumont,Dublin 9,q1,20%
+07/11/2011,"50  Ivy Court, Beaumont",Dublin,226000.0,No,Beaumont,Dublin 9,q1,30%
+11/11/2011,"15 Collins Park, Beaumont, Dublin 9",Dublin,273500.0,No,Beaumont,Dublin 9,q2,40%
+11/11/2011,"37 Beaumont Road, Dublin",Dublin,357000.0,No,Beaumont,Dublin 9,q3,70%
+14/11/2011,"33 Elm Mount Rise, Beaumont, Dublin 9",Dublin,91999.0,No,Beaumont,Dublin 9,q1,10%
+25/11/2011,"49 Shanboley Road, Beaumont, Dublin 9",Dublin,290000.0,No,Beaumont,Dublin 9,q2,50%
+06/12/2011,"36 Coolrua Drive, Beaumont, Dublin 9",Dublin,180000.0,No,Beaumont,Dublin 9,q1,10%
+06/12/2011,"An Gleann, Shamboley Road, Beaumont",Dublin,260000.0,No,Beaumont,Dublin 9,q2,40%
+14/12/2011,"167 Elm Mount Avenue, Beaumont, Dublin 9",Dublin,230000.0,No,Beaumont,Dublin 9,q1,30%
+16/12/2011,"82 The Green, Beaumont Woods, Beaumont",Dublin,265000.0,No,Beaumont,Dublin 9,q2,40%
+21/12/2011,"273 Collinswood, Collins Avenue, Beaumont",Dublin,230000.0,No,Beaumont,Dublin 9,q1,30%
+22/12/2011,"Apt. 1G Beaumont House, 60 Terenure Road East, Rathgar",Dublin,267000.0,No,Beaumont,Dublin 9,q2,40%
+17/01/2012,"10 Coolatree Road, Beaumont",Dublin,307000.0,No,Beaumont,Dublin 9,q2,50%
+20/01/2012,"111 Shantalla Road, Beaumont, Dublin 9",Dublin,165000.0,No,Beaumont,Dublin 9,q1,10%
+01/02/2012,"99  Beaumont Road, Beaumont",Dublin,179000.0,No,Beaumont,Dublin 9,q1,10%
+10/02/2012,"52 Montrose Drive, Beaumont Park, Artane",Dublin,183000.0,No,Beaumont,Dublin 9,q1,20%
+05/04/2012,"124 Elm Mount Road, Beaumont",Dublin,190000.0,No,Beaumont,Dublin 9,q1,20%
+13/04/2012,"98 Shantalla Road, Beaumont",Dublin,180000.0,No,Beaumont,Dublin 9,q1,10%
+23/04/2012,"86 Ivy Court, Beaumont Woods, Beaumont",Dublin,140000.0,No,Beaumont,Dublin 9,q1,10%
+27/04/2012,"62 The Park, Beaumont Woods, Beaumont",Dublin,290000.0,No,Beaumont,Dublin 9,q2,50%
+27/04/2012,"87 Celtic Park Avenue, Beaumont",Dublin,275000.0,No,Beaumont,Dublin 9,q2,40%
+08/05/2012,"6 Elm Mount Park, Beaumont",Dublin,230000.0,No,Beaumont,Dublin 9,q1,30%
+29/05/2012,"12 Dromlee Crescent, Beaumont, Dublin 9",Dublin,220000.0,No,Beaumont,Dublin 9,q1,20%
+14/06/2012,"138 Shantalla Road, Beaumont, Dublin 9",Dublin,220000.0,No,Beaumont,Dublin 9,q1,20%
+28/06/2012,"18 Elm Mount Court, Beaumont",Dublin,210000.0,No,Beaumont,Dublin 9,q1,20%
+29/06/2012,"84 Beaumont Road, Beaumont",Dublin,200000.0,No,Beaumont,Dublin 9,q1,20%
+13/07/2012,"13 Grace Park Court, Beaumont Road, Dublin 9",Dublin,85000.0,No,Beaumont,Dublin 9,q1,10%
+15/08/2012,"93 Shantalla Road, Beaumont",Dublin,180000.0,No,Beaumont,Dublin 9,q1,10%
+23/08/2012,"20 The Park, Beaumont Woods, Beaumont  Dublin 9",Dublin,270000.0,No,Beaumont,Dublin 9,q2,40%
+30/08/2012,"34 Celtic Park Avenue, Beaumont, Dublin 9",Dublin,280000.0,No,Beaumont,Dublin 9,q2,40%
+31/08/2012,"18 Dromawling Road, Beaumont, Dublin 9",Dublin,230000.0,No,Beaumont,Dublin 9,q1,30%
+07/09/2012,"162 Elm Mount Avenue, Beaumont",Dublin,265000.0,No,Beaumont,Dublin 9,q2,40%
+13/09/2012,"57 Elm Mount Avenue, Beaumont",Dublin,230000.0,No,Beaumont,Dublin 9,q1,30%
+14/09/2012,"4 Coolatree Park, Beaumont",Dublin,175000.0,No,Beaumont,Dublin 9,q1,10%
+27/09/2012,"189 Elm Mount Ave, Beaumont, Dublin 9",Dublin,220000.0,No,Beaumont,Dublin 9,q1,20%
+02/10/2012,"14 Beaumont Grove, Beaumont",Dublin,235000.0,No,Beaumont,Dublin 9,q1,30%
+12/10/2012,"50 Shanboley Road, Beaumont, Dublin 9",Dublin,257000.0,No,Beaumont,Dublin 9,q2,40%
+17/10/2012,"32 Ivy Court, Beaumont Woods, Beaumont",Dublin,104000.0,No,Beaumont,Dublin 9,q1,10%
+22/10/2012,"28 Beaumont Crescent, Beaumont",Dublin,227000.0,No,Beaumont,Dublin 9,q1,30%
+15/11/2012,"105 Collinswood, Beaumont",Dublin,343000.0,No,Beaumont,Dublin 9,q3,60%
+15/11/2012,"98A Shantalla Road, Beaumont, Dublin",Dublin,280000.0,No,Beaumont,Dublin 9,q2,40%
+16/11/2012,"54 Shantalla Drive, Beaumont",Dublin,225000.0,No,Beaumont,Dublin 9,q1,30%
+16/11/2012,"61 Dromawling Road, Beaumont",Dublin,280000.0,No,Beaumont,Dublin 9,q2,40%
+27/11/2012,"1 The Park, Beaumont",Dublin,280000.0,No,Beaumont,Dublin 9,q2,40%
+30/11/2012,"13 The Green, Beaumont Woods, Beaumont",Dublin,240000.0,No,Beaumont,Dublin 9,q2,30%
+06/12/2012,"14 Celtic Park Avenue, Beaumont, Dublin 9",Dublin,301000.0,No,Beaumont,Dublin 9,q2,50%
+14/12/2012,"1 Coolatree Road, Beaumont",Dublin,100000.0,No,Beaumont,Dublin 9,q1,10%
+14/12/2012,"43 Coolatree Road, Beaumont",Dublin,266000.0,No,Beaumont,Dublin 9,q2,40%
+18/12/2012,"73 Collins Park, Beaumont",Dublin,170000.0,No,Beaumont,Dublin 9,q1,10%
+18/12/2012,"Apt 28 Block 1, Beaumont Court, Beamount",Dublin,190000.0,No,Beaumont,Dublin 9,q1,20%
+20/12/2012,"44 Ivy Court, Beaumont Woods, Dublin 9",Dublin,195000.0,No,Beaumont,Dublin 9,q1,20%
+15/03/2013,"61 The Park, Beaumont Woods, Beaumont",Dublin,322500.0,No,Beaumont,Dublin 9,q3,60%
+02/05/2013,"13 Dromeen Avenue, Beaumont, Dublin 9",Dublin,290000.0,No,Beaumont,Dublin 9,q2,50%
+10/05/2013,"31 Elm Mount Avenue, Beaumont",Dublin,240000.0,No,Beaumont,Dublin 9,q2,30%
+17/05/2013,"245 Elm Mount Avenue, Beaumont, Dublin 9",Dublin,241000.0,No,Beaumont,Dublin 9,q2,30%
+17/05/2013,"5 Beaumont Crescent, Beaumont",Dublin,297000.0,No,Beaumont,Dublin 9,q2,50%
+29/05/2013,"65 Beaumont Road, Beaumont, Dublin 9",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+04/06/2013,"47 The Park, Beaumont Woods, Beaumont",Dublin,278000.0,No,Beaumont,Dublin 9,q2,40%
+18/06/2013,"72 Shanboley Road, Beaumont",Dublin,215000.0,No,Beaumont,Dublin 9,q1,20%
+20/06/2013,"128 Beaumont Road, Beaumont",Dublin,220000.0,No,Beaumont,Dublin 9,q1,20%
+21/06/2013,"27 The Park, Beaumont Woods",Dublin,290000.0,No,Beaumont,Dublin 9,q2,50%
+26/06/2013,"4 Elm Mount Drive, Beaumont, Dublin 9",Dublin,260000.0,No,Beaumont,Dublin 9,q2,40%
+29/06/2013,"71 Shantalla Drive, Beaumont, Dublin 9",Dublin,173000.0,No,Beaumont,Dublin 9,q1,10%
+02/07/2013,"47 Coolatree Park, Beaumont, Dublin 9",Dublin,225000.0,No,Beaumont,Dublin 9,q1,30%
+15/07/2013,"78 The Green, Beaumont Woods, Beaumont",Dublin,280000.0,No,Beaumont,Dublin 9,q2,40%
+02/08/2013,"96 Shantalla Road, Beaumont",Dublin,282500.0,No,Beaumont,Dublin 9,q2,40%
+09/08/2013,"85 The Park, Beaumont Woods, Beamont",Dublin,275000.0,No,Beaumont,Dublin 9,q2,40%
+10/08/2013,"115 Beaumont Road, Beaumont",Dublin,216000.0,No,Beaumont,Dublin 9,q1,20%
+23/08/2013,"15 Coolatree Road, Beaumont, Dublin 9",Dublin,209000.0,No,Beaumont,Dublin 9,q1,20%
+10/09/2013,"406 Collinswood  Beaumont, Dublin 9",Dublin,270000.0,No,Beaumont,Dublin 9,q2,40%
+18/09/2013,"124 Beaumont Raod, Beaumont, Dublin 9",Dublin,215000.0,No,Beaumont,Dublin 9,q1,20%
+27/09/2013,"36 Coolatree Road, Beaumont, Dublin 9",Dublin,297000.0,No,Beaumont,Dublin 9,q2,50%
+02/10/2013,"29 Dromawling Road, Beaumont",Dublin,263000.0,No,Beaumont,Dublin 9,q2,40%
+04/11/2013,"35 Beaumont Crescent, Beaumont, Dublin 9.",Dublin,250000.0,No,Beaumont,Dublin 9,q2,30%
+05/11/2013,"4 The Close, Beaumont Woods, Beaumont",Dublin,310000.0,No,Beaumont,Dublin 9,q2,50%
+06/11/2013,"10 Coolatree Park, Beaumont, Dublin 9",Dublin,243500.0,No,Beaumont,Dublin 9,q2,30%
+21/11/2013,"12 Drombawn Avenue, Beaumont",Dublin,260000.0,No,Beaumont,Dublin 9,q2,40%
+22/11/2013,"47 Shantalla Road, Beaumont",Dublin,239100.0,No,Beaumont,Dublin 9,q2,30%
+22/11/2013,"60 Elm Mount Road, Beaumont, Dublin 9",Dublin,260000.0,No,Beaumont,Dublin 9,q2,40%
+02/12/2013,"57A The Green  Beaumont Woods, Beaumont",Dublin,237000.0,No,Beaumont,Dublin 9,q1,30%
+02/12/2013,"87 Celtic Park Ave, Beaumont, Dublin 9",Dublin,400000.0,No,Beaumont,Dublin 9,q4,80%
+04/12/2013,"43A The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,230000.0,No,Beaumont,Dublin 9,q1,30%
+06/12/2013,"150 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,75000.0,No,Beaumont,Dublin 9,q1,10%
+06/12/2013,"17 Elm Mount Ave, Beaumont, Dublin 9",Dublin,280000.0,No,Beaumont,Dublin 9,q2,40%
+10/12/2013,"160 Beaumont Rd, Beaumont, Dublin 9",Dublin,250000.0,No,Beaumont,Dublin 9,q2,30%
+10/12/2013,"9 Coolatree Close, Beaumont, Dublin 9",Dublin,250000.0,No,Beaumont,Dublin 9,q2,30%
+12/12/2013,"159 Ivy Court, Beaumont Woods, Beaumont",Dublin,105000.0,No,Beaumont,Dublin 9,q1,10%
+18/12/2013,"237 Elm Mount, Beaumont, Dublin 9",Dublin,114000.0,No,Beaumont,Dublin 9,q1,10%
+19/12/2013,"3 The Close, Beaumont Woods, Beaumont Dublin 9",Dublin,273000.0,No,Beaumont,Dublin 9,q2,40%
+10/01/2014,"80 Beaumont Court, Dublin 9",Dublin,121000.0,No,Beaumont,Dublin 9,q1,10%
+13/01/2014,"Apt 32, Grace Park Court, Beaumont Rd Dublin 9",Dublin,106000.0,No,Beaumont,Dublin 9,q1,10%
+14/01/2014,"75 Beaumont Ave, Church Town, Dublin 14",Dublin,262500.0,No,Beaumont,Dublin 9,q2,40%
+15/01/2014,"25 Elm Mount Rd, Beaumont, Dublin 9",Dublin,324000.0,No,Beaumont,Dublin 9,q3,60%
+23/01/2014,"13 Coolatree Park, Beaumont, Dublin 9",Dublin,228500.0,No,Beaumont,Dublin 9,q1,30%
+03/02/2014,"Apt 35, Grace Park Court, Beaumont Rd Dublin 9",Dublin,105000.0,No,Beaumont,Dublin 9,q1,10%
+07/02/2014,"25 Shantalla Rd, Beaumont, Dublin 9",Dublin,227500.0,No,Beaumont,Dublin 9,q1,30%
+11/02/2014,"23 Coolgreena Rd, Beaumont, Dublin 9",Dublin,220000.0,No,Beaumont,Dublin 9,q1,20%
+21/02/2014,"35 Shantalla Rd, Beaumont, Dublin 9",Dublin,217000.0,No,Beaumont,Dublin 9,q1,20%
+21/02/2014,"Apt 27, Grace Park Court, Beaumont Rd Dublin 9",Dublin,105000.0,No,Beaumont,Dublin 9,q1,10%
+11/03/2014,"Apt 31, Grace Park Court, Beaumont Rd Dublin 9",Dublin,106500.0,No,Beaumont,Dublin 9,q1,10%
+13/03/2014,"30 Shanglas Road, Beaumont, Dublin 9",Dublin,240000.0,No,Beaumont,Dublin 9,q2,30%
+20/03/2014,"71 Ivy Court, Beaumont Woods, Dublin 9",Dublin,101000.0,No,Beaumont,Dublin 9,q1,10%
+15/04/2014,"92A Shantalla Rd, Beaumont, Dublin 9",Dublin,295000.0,No,Beaumont,Dublin 9,q2,50%
+01/05/2014,"22 The Green, Beaumont Woods, Dublin",Dublin,249000.0,No,Beaumont,Dublin 9,q2,30%
+02/05/2014,"2 Dromlee Crescent, Beaumont, Dublin 9",Dublin,357000.0,No,Beaumont,Dublin 9,q3,70%
+06/06/2014,"47 Beaumont Hall, Beaumont Woods, Dublin 9",Dublin,203000.0,No,Beaumont,Dublin 9,q1,20%
+12/06/2014,"43 Shantalla Rd, Beaumont, Dublin 9",Dublin,257000.0,No,Beaumont,Dublin 9,q2,40%
+19/06/2014,"Apt 28, Grace Park Court, Beaumont Rd Dublin 9",Dublin,104000.0,No,Beaumont,Dublin 9,q1,10%
+01/07/2014,"15 Beaumont Court, Beaumont, Dublin",Dublin,145000.0,No,Beaumont,Dublin 9,q1,10%
+03/07/2014,"31 Collins Park, Beaumont, Dublin 9",Dublin,375000.0,No,Beaumont,Dublin 9,q3,80%
+15/07/2014,"85 Ivy Court, Beaumont Woods",Dublin,126600.0,No,Beaumont,Dublin 9,q1,10%
+18/07/2014,"Apt 36, Grace Park Court, Beaumont Rd Dublin 9",Dublin,142000.0,No,Beaumont,Dublin 9,q1,10%
+07/08/2014,"34 Coolgreena Rd, Beaumont, Dublin 9",Dublin,325000.0,No,Beaumont,Dublin 9,q3,60%
+14/08/2014,"66 The Park, Beaumont Woods, Beaumont",Dublin,415000.0,No,Beaumont,Dublin 9,q4,90%
+20/08/2014,"74 The Green, Beaumont Woods, Beaumont Dublin 9",Dublin,340000.0,No,Beaumont,Dublin 9,q3,60%
+22/08/2014,"12 The Close, Beaumont Woods, Beaumont",Dublin,335000.0,No,Beaumont,Dublin 9,q3,60%
+26/08/2014,"11 Elm Mount Lawn, Beaumont",Dublin,348000.0,No,Beaumont,Dublin 9,q3,70%
+05/09/2014,"24 Coolrua Dr, Beaumont, Dublin 9",Dublin,405000.0,No,Beaumont,Dublin 9,q4,90%
+10/09/2014,"288 Collinswood, Collins Avenue, Beaumont",Dublin,338000.0,No,Beaumont,Dublin 9,q3,60%
+11/09/2014,"1 Drombawn Ave, Beaumont, Dublin 9",Dublin,380000.0,No,Beaumont,Dublin 9,q3,80%
+12/09/2014,"24 The Green, Beaumont Woods, Dublin 9",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+30/09/2014,"6 Beaumont Hall, Beaumont Woods, Dublin 9",Dublin,195000.0,No,Beaumont,Dublin 9,q1,20%
+03/10/2014,"157 Beaumont Road, Beaumont, Dublin 9",Dublin,280000.0,No,Beaumont,Dublin 9,q2,40%
+31/10/2014,"83 Beaumont Court, Beaumont, Dublin 9",Dublin,203000.0,No,Beaumont,Dublin 9,q1,20%
+03/11/2014,"20 Coolatree Park, Beaumont, Dublin 9",Dublin,299950.0,No,Beaumont,Dublin 9,q2,50%
+03/11/2014,"31 Coolatree Rd, Beaumont, Dublin 9",Dublin,360000.0,No,Beaumont,Dublin 9,q3,70%
+17/11/2014,"23 The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,321000.0,No,Beaumont,Dublin 9,q3,60%
+26/11/2014,"17 Whitethorn Rd, Beaumont, Dublin 9",Dublin,405000.0,No,Beaumont,Dublin 9,q4,90%
+11/12/2014,"16 Shantalla Dr, Beaumont, Dublin 9",Dublin,291500.0,No,Beaumont,Dublin 9,q2,50%
+11/12/2014,"55 Ivy Court, Beaumont Woods, Dublin",Dublin,145000.0,No,Beaumont,Dublin 9,q1,10%
+12/12/2014,"16 Beaumont Court, Beaumont Woods, Beaumont Dublin 9",Dublin,190000.0,No,Beaumont,Dublin 9,q1,20%
+17/12/2014,"45 Beaumont Court, Beaumont, Dublin",Dublin,150000.0,No,Beaumont,Dublin 9,q1,10%
+19/12/2014,"84 The Green, Beaumont Woods, Beaumont",Dublin,320000.0,No,Beaumont,Dublin 9,q3,60%
+22/12/2014,"22 Beaumont Court, Beaumont Woods, Dublin 9",Dublin,145000.0,No,Beaumont,Dublin 9,q1,10%
+23/12/2014,"62 Beauvale Park, Beaumont, Artane",Dublin,200000.0,No,Beaumont,Dublin 9,q1,20%
+12/01/2015,"230 Elm Mount Mount, Beaumont, Dublin 9",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+13/01/2015,"Apartment 3  4 Beaumont House, 60 Terenure Road East, Terenure",Dublin,325000.0,No,Beaumont,Dublin 9,q3,60%
+21/01/2015,"246 Elm Mount Ave, Beaumont, Dublin 9",Dublin,386000.0,No,Beaumont,Dublin 9,q4,80%
+23/01/2015,"9 Coolgreena Rd, Beaumont, Dublin 9",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+06/02/2015,"145 Beaumont Road, Dublin 9",Dublin,310000.0,No,Beaumont,Dublin 9,q2,50%
+06/02/2015,"53 Cooleen Avenue, Beaumont",Dublin,320000.0,No,Beaumont,Dublin 9,q3,60%
+12/02/2015,"42 Beaumont Rd, Beaumont, Dublin",Dublin,246000.0,No,Beaumont,Dublin 9,q2,30%
+17/02/2015,"103 Ivy Ct, Beaumont Wood, Beaumont Dublin 9",Dublin,220000.0,No,Beaumont,Dublin 9,q1,20%
+20/02/2015,"8 Elm Mount Close, Beaumont, Dublin 9",Dublin,310000.0,No,Beaumont,Dublin 9,q2,50%
+10/03/2015,"56 The Green, Beaumont Woods, Dublin 9",Dublin,295000.0,No,Beaumont,Dublin 9,q2,50%
+10/03/2015,"78 Elm Mount Ave, Beaumont, Dublin 9",Dublin,382000.0,No,Beaumont,Dublin 9,q3,80%
+19/03/2015,"28 Coolrua Drive, Beaumont",Dublin,287000.0,No,Beaumont,Dublin 9,q2,50%
+25/03/2015,"5 Ivy Court, Beaumont, Dublin 9",Dublin,274799.0,No,Beaumont,Dublin 9,q2,40%
+27/03/2015,"42 Shantalla Rd, Beaumont, Dublin 9",Dublin,295000.0,No,Beaumont,Dublin 9,q2,50%
+01/04/2015,"29 Beaumont Hall, Beaumont, Dublin 9",Dublin,140000.0,No,Beaumont,Dublin 9,q1,10%
+15/04/2015,"4 The Park, Beaumont, Beaumont",Dublin,312000.0,No,Beaumont,Dublin 9,q3,60%
+15/04/2015,"48 Collinswood, Beaumont, Dublin 9",Dublin,426000.0,No,Beaumont,Dublin 9,q4,100%
+17/04/2015,"61 Shantalla Drive, Beaumont",Dublin,370000.0,No,Beaumont,Dublin 9,q3,80%
+11/05/2015,"36 Shantalla Dr, Beaumont, Dublin 9",Dublin,290000.0,No,Beaumont,Dublin 9,q2,50%
+13/05/2015,"107 Shantalla Rd, Beaumont, Dublin 9",Dublin,284000.0,No,Beaumont,Dublin 9,q2,40%
+20/05/2015,"33 Beaumont Hall, Beaumont, Dublin 9",Dublin,140000.0,No,Beaumont,Dublin 9,q1,10%
+29/05/2015,"Apartment 38, Beaumont Hall, Beaumont Woods",Dublin,186000.0,No,Beaumont,Dublin 9,q1,20%
+01/06/2015,"9 Ivy Court, Beaumont, Dublin 9",Dublin,230000.0,No,Beaumont,Dublin 9,q1,30%
+02/06/2015,"Apt 70 Beaumont Court, Beaumont Woods, Beaumont Rd Dublin 9",Dublin,200000.0,No,Beaumont,Dublin 9,q1,20%
+10/06/2015,"50 Coolgariff Rd, Beaumont, Dublin 9",Dublin,335000.0,No,Beaumont,Dublin 9,q3,60%
+26/06/2015,"93 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,110000.0,No,Beaumont,Dublin 9,q1,10%
+07/07/2015,"105 Ivy Court, Beaumont Woods, Dublin 9",Dublin,185000.0,No,Beaumont,Dublin 9,q1,20%
+09/07/2015,"26 Elm Mount Close, Beaumont, Dublin 9",Dublin,360000.0,No,Beaumont,Dublin 9,q3,70%
+13/07/2015,"22 Elm Mount Ave, Beaumont, Dublin 9",Dublin,372000.0,No,Beaumont,Dublin 9,q3,80%
+14/07/2015,"3 The Cresent, Beaumont Rd, Dublin 9",Dublin,240000.0,No,Beaumont,Dublin 9,q2,30%
+15/07/2015,"190 Collins Ave, Beaumont, Dublin 9",Dublin,190000.0,No,Beaumont,Dublin 9,q1,20%
+15/07/2015,"192 Collins Ave, Beaumont, Dublin 9",Dublin,120000.0,No,Beaumont,Dublin 9,q1,10%
+31/07/2015,"230 Elm Mount Mount, Beaumont, Dublin 9",Dublin,168249.44,No,Beaumont,Dublin 9,q1,10%
+05/08/2015,"63 Coolgreena Road, Beaumont",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+05/08/2015,"Apt 3 1 Beaumont House, 60 Terenure Rd East, Dublin 6",Dublin,343000.0,No,Beaumont,Dublin 9,q3,60%
+14/08/2015,"313 Collinswood, Beaumont, Dublin 9",Dublin,375000.0,No,Beaumont,Dublin 9,q3,80%
+20/08/2015,"25 Beaumont Rd, Beaumont, Dublin 9",Dublin,125000.0,No,Beaumont,Dublin 9,q1,10%
+26/08/2015,"41 Shantalla Drive, Beaumont, Dublin 9",Dublin,294000.0,No,Beaumont,Dublin 9,q2,50%
+02/09/2015,"44A The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,400000.0,No,Beaumont,Dublin 9,q4,80%
+14/09/2015,"50 Elm Mount Close, Beaumont, Dublin",Dublin,369500.0,No,Beaumont,Dublin 9,q3,80%
+15/09/2015,"40 The Green, Beaumont Woods, Beaumont Dublin 9",Dublin,360000.0,No,Beaumont,Dublin 9,q3,70%
+28/09/2015,"11 Beaumont Hall, Beaumont, Dublin 9",Dublin,185000.0,No,Beaumont,Dublin 9,q1,20%
+28/09/2015,"29 Ivy Court, Beaumont Woods, Beaumont",Dublin,235000.0,No,Beaumont,Dublin 9,q1,30%
+07/10/2015,"53 The Green, Beaumont Woods, Beaumont",Dublin,410000.0,No,Beaumont,Dublin 9,q4,90%
+16/10/2015,"31 Celtic Park Road, Beaumont, Dublin 9",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+28/10/2015,"41 Dromawling Road, Beaumont, Dublin 9",Dublin,366000.0,No,Beaumont,Dublin 9,q3,70%
+30/10/2015,"429 The Crescent, Beaumont Road, Dublin 9",Dublin,349000.0,No,Beaumont,Dublin 9,q3,70%
+17/11/2015,"2 Elm Mount Close, Beaumont, Dublin 9",Dublin,330000.0,No,Beaumont,Dublin 9,q3,60%
+19/11/2015,"69 Coolatree Road, Beaumont",Dublin,380000.0,No,Beaumont,Dublin 9,q3,80%
+20/11/2015,"5 Elm Mount Rise, Beaumont, Dublin 9",Dublin,325000.0,No,Beaumont,Dublin 9,q3,60%
+23/11/2015,"33 Shanboley Road, Beaumont, Dublin 9",Dublin,367500.0,No,Beaumont,Dublin 9,q3,80%
+02/12/2015,"Apartment 32, Beaumont House, 60 Terenure Road East",Dublin,312000.0,No,Beaumont,Dublin 9,q3,60%
+11/12/2015,"4 Coolgreena Rd, Beaumont, Dublin 9",Dublin,292500.0,No,Beaumont,Dublin 9,q2,50%
+15/12/2015,"10 Shantalla Dr, Beaumont, Dublin 9",Dublin,310000.0,No,Beaumont,Dublin 9,q3,60%
+06/01/2016,"51 Coolatree Rd, Beaumont, Dublin 9",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+22/01/2016,"25 Ivy Court, Beaumont, Dublin 9",Dublin,228000.0,No,Beaumont,Dublin 9,q1,30%
+22/01/2016,"32 Coolrua Dr, Beaumont, Dublin 9",Dublin,318000.0,No,Beaumont,Dublin 9,q3,60%
+16/02/2016,"92 Ivy Court, Beaumont Woods, Dublin 9",Dublin,220000.0,No,Beaumont,Dublin 9,q1,20%
+19/02/2016,"41 The Park, Beaumont Woods, Dublin 9",Dublin,395000.0,No,Beaumont,Dublin 9,q4,80%
+25/02/2016,"3 Coolatree Rd, Beaumont, Dublin 9",Dublin,360000.0,No,Beaumont,Dublin 9,q3,70%
+25/02/2016,"33 Beaumont Court, Beaumont, Dublin 9",Dublin,160000.0,No,Beaumont,Dublin 9,q1,10%
+25/02/2016,"8 Beaumont Court, Beaumont Woods, Dublin 9",Dublin,165000.0,No,Beaumont,Dublin 9,q1,10%
+01/03/2016,"19 Beaumont Crescent, Beaumont, Dublin 9",Dublin,340000.0,No,Beaumont,Dublin 9,q3,60%
+01/03/2016,"6 Coolatree Close, Beaumont, Dublin 9",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+03/03/2016,"64 The Green, Beaumont Woods, Beaumont Dublin 9",Dublin,400000.0,No,Beaumont,Dublin 9,q4,80%
+08/03/2016,"8 Beaumont Hall, Beaumont Woods, Beaumont Dublin 9",Dublin,153000.0,No,Beaumont,Dublin 9,q1,10%
+08/03/2016,"91 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,160000.0,No,Beaumont,Dublin 9,q1,10%
+10/03/2016,"1 Montrose Crescent, Beaumont, Dublin 5",Dublin,310000.0,No,Beaumont,Dublin 9,q3,60%
+30/03/2016,"181 Beaumont Rd, Beaumont, Dublin 9",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+30/03/2016,"33 The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,315000.0,No,Beaumont,Dublin 9,q3,60%
+07/04/2016,"43 Elm Mount Park, Beaumont, Dublin 9",Dublin,360000.0,No,Beaumont,Dublin 9,q3,70%
+12/04/2016,"15 Dromeen Ave, Beaumont, Dublin 9",Dublin,470000.0,No,Beaumont,Dublin 9,q4,100%
+18/04/2016,"58 Coolrua Dr, Beaumont, Dublin 9",Dublin,333000.0,No,Beaumont,Dublin 9,q3,60%
+27/04/2016,"Apt 32, Grace Park Court, Beaumont Rd Dublin 9",Dublin,180000.0,No,Beaumont,Dublin 9,q1,20%
+06/05/2016,"11 Shantalla Park, Beaumont, Dublin 9",Dublin,305000.0,No,Beaumont,Dublin 9,q2,50%
+10/05/2016,"33 Beaumont Court, Beaumont, Dublin 9",Dublin,170000.0,No,Beaumont,Dublin 9,q1,10%
+12/05/2016,"3 The Laragh, Grace Park Court, Beaumont Rd Dublin 9",Dublin,205000.0,No,Beaumont,Dublin 9,q1,20%
+16/05/2016,"7 Coolgreena Rd, Beaumont, Dublin 9",Dublin,330000.0,No,Beaumont,Dublin 9,q3,60%
+18/05/2016,"57A The Green, Beaumont Woods, Beaumont Dublin 9",Dublin,270000.0,No,Beaumont,Dublin 9,q2,40%
+23/05/2016,"31 Shantalla Ave, Beaumont, Dublin 9",Dublin,345000.0,No,Beaumont,Dublin 9,q3,60%
+27/05/2016,"59 Elm Mount Ave, Beaumont, Dublin 9",Dublin,340000.0,No,Beaumont,Dublin 9,q3,60%
+30/05/2016,"No 1 Thornwood, Beaumont",Dublin,450000.0,Yes,Beaumont,Dublin 9,q4,100%
+30/05/2016,"No 10 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 11 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 12 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 13 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 14 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 2 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 3 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 4 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 5 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 6 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 8 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+30/05/2016,"No 9 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+09/06/2016,"13 Ivy Court, Beaumont, Dublin 9",Dublin,227000.0,No,Beaumont,Dublin 9,q1,30%
+16/06/2016,"No 15 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+16/06/2016,"No 16 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+16/06/2016,"No 17 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+16/06/2016,"No 18 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+16/06/2016,"No 19 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+16/06/2016,"No 21Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+20/06/2016,"42 Coolrua Dr, Beaumont, Dublin 9",Dublin,301000.0,No,Beaumont,Dublin 9,q2,50%
+21/06/2016,"83 Coolgreena Rd, Beaumont, Dublin 9",Dublin,147500.0,No,Beaumont,Dublin 9,q1,10%
+21/06/2016,"94 Shantalla Rd, Beaumont, Dublin 9",Dublin,361000.0,No,Beaumont,Dublin 9,q3,70%
+08/07/2016,"37 Shantalla Dr, Beaumont, Dublin 9",Dublin,291000.0,No,Beaumont,Dublin 9,q2,50%
+08/07/2016,"Lavender Lodge, Nowlan Ave Mount Albion, Off Beaumont Ave Dublin 14",Dublin,635000.0,No,Beaumont,Dublin 9,q4,100%
+14/07/2016,"41 Elm Mount Ave, Beaumont, Dublin 9",Dublin,320000.0,No,Beaumont,Dublin 9,q3,60%
+18/07/2016,"392 Collinswood, Beaumont, Dublin 9",Dublin,351500.0,No,Beaumont,Dublin 9,q3,70%
+19/07/2016,"65 The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,416000.0,No,Beaumont,Dublin 9,q4,90%
+20/07/2016,"22 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+20/07/2016,"23 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+20/07/2016,"24 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+20/07/2016,"25 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+20/07/2016,"27 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+20/07/2016,"28 Thornwood, Beaumont",Dublin,450000.0,Yes,Beaumont,Dublin 9,q4,100%
+21/07/2016,"104 Ivy Court, Beaumont Woods, Dublin",Dublin,270000.0,No,Beaumont,Dublin 9,q2,40%
+26/07/2016,"21 Coolgariff Rd, Beaumont, Dublin 9",Dublin,295000.0,No,Beaumont,Dublin 9,q2,50%
+29/07/2016,"21 Shantalla Ave, Beaumont, Dublin 9",Dublin,315000.0,No,Beaumont,Dublin 9,q3,60%
+10/08/2016,"56 Elm Mount Rd, Beaumont, Dublin 9",Dublin,375000.0,No,Beaumont,Dublin 9,q3,80%
+17/08/2016,"No 29 Thornwood, Beaumont",Dublin,450000.0,Yes,Beaumont,Dublin 9,q4,100%
+17/08/2016,"No 30 Thornwood, Beaumont",Dublin,450000.0,Yes,Beaumont,Dublin 9,q4,100%
+17/08/2016,"No 31 Thornwood, Beaumont",Dublin,450000.0,Yes,Beaumont,Dublin 9,q4,100%
+17/08/2016,"No 32 Thornwood, Beaumont",Dublin,450000.0,Yes,Beaumont,Dublin 9,q4,100%
+17/08/2016,"No 33 Thornwood, Beaumont",Dublin,450000.0,Yes,Beaumont,Dublin 9,q4,100%
+17/08/2016,"No 34 Thornwood, Beaumont",Dublin,450000.0,Yes,Beaumont,Dublin 9,q4,100%
+17/08/2016,"No 35 Thornwood, Beaumont",Dublin,450000.0,Yes,Beaumont,Dublin 9,q4,100%
+17/08/2016,"No 36 Thornwood, Beaumont",Dublin,450000.0,Yes,Beaumont,Dublin 9,q4,100%
+26/08/2016,"19 Elm Mount Heights, Beaumont, Dublin 9",Dublin,355000.0,No,Beaumont,Dublin 9,q3,70%
+02/09/2016,"182 Elm Mount Avenue, Beaumont, Dublin 9",Dublin,322000.0,No,Beaumont,Dublin 9,q3,60%
+07/09/2016,"28 Shantalla Road, Beaumont, Dublin 9",Dublin,309000.0,No,Beaumont,Dublin 9,q2,50%
+09/09/2016,"100 Elm Mount Rd, Beaumont, Dublin 9",Dublin,357500.0,No,Beaumont,Dublin 9,q3,70%
+09/09/2016,"55 Elm Mount Ave, Beaumont, Dublin 9",Dublin,389000.0,No,Beaumont,Dublin 9,q4,80%
+16/09/2016,"3 Ivy Court, Beaumont, Dublin 9",Dublin,249000.0,No,Beaumont,Dublin 9,q2,30%
+28/09/2016,"No 37 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+28/09/2016,"No 38 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+28/09/2016,"No 39 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+28/09/2016,"No 40 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+28/09/2016,"No 41 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+28/09/2016,"No 42 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+28/09/2016,"No 43 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+28/09/2016,"No 44 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+28/09/2016,"No 45 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+28/09/2016,"No 46 Thornwood, Beaumont",Dublin,410000.0,Yes,Beaumont,Dublin 9,q4,90%
+04/10/2016,"88 Beaumont Rd, Beaumont, Dublin 9",Dublin,340000.0,No,Beaumont,Dublin 9,q3,60%
+06/10/2016,"130 Ivy Court, Beaumont Woods, Beaumont",Dublin,220000.0,No,Beaumont,Dublin 9,q1,20%
+17/10/2016,"56 Elm Mount Ave, Beaumont, Dublin 9",Dublin,365000.0,No,Beaumont,Dublin 9,q3,70%
+18/10/2016,"55 Coolatree Rd, Beaumont, Dublin 9",Dublin,335000.0,No,Beaumont,Dublin 9,q3,60%
+21/10/2016,"33 The Green, Beaumont Woods, Beaumont Dublin 9",Dublin,441000.0,No,Beaumont,Dublin 9,q4,100%
+28/10/2016,"9 Elm Mount Heights, Beaumont, Dublin 9",Dublin,390000.0,No,Beaumont,Dublin 9,q4,80%
+03/11/2016,"2 Beaumont Court, Beaumont Woods, Dublin 9",Dublin,198000.0,No,Beaumont,Dublin 9,q1,20%
+04/11/2016,"48 Thornwood, Beaumont",Dublin,350000.0,Yes,Beaumont,Dublin 9,q3,70%
+04/11/2016,"49 Thornwood, Beaumont",Dublin,267500.0,Yes,Beaumont,Dublin 9,q2,40%
+04/11/2016,"50 Thornwood, Beaumont",Dublin,350000.0,Yes,Beaumont,Dublin 9,q3,70%
+04/11/2016,"51 Thornwood, Beaumont",Dublin,300000.0,Yes,Beaumont,Dublin 9,q2,50%
+04/11/2016,"52 Thornwood, Beaumont",Dublin,267500.0,Yes,Beaumont,Dublin 9,q2,40%
+04/11/2016,"53 Thornwood, Beaumont",Dublin,267500.0,Yes,Beaumont,Dublin 9,q2,40%
+04/11/2016,"54 Thornwood, Beaumont",Dublin,300000.0,Yes,Beaumont,Dublin 9,q2,50%
+04/11/2016,"Apartment 47 Thornwood, Beaumont",Dublin,300000.0,Yes,Beaumont,Dublin 9,q2,50%
+09/11/2016,"51 Coolatree Park, Beaumont, Dublin 9",Dublin,305000.0,No,Beaumont,Dublin 9,q2,50%
+16/11/2016,"60 Elm Mount Ave, Beaumont, Dublin 9",Dublin,349000.0,No,Beaumont,Dublin 9,q3,70%
+18/11/2016,"136 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,240000.0,No,Beaumont,Dublin 9,q2,30%
+18/11/2016,"51 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,308500.0,No,Beaumont,Dublin 9,q2,50%
+25/11/2016,"49 Coolatree Road, Beaumont, Dublin 9",Dublin,365000.0,No,Beaumont,Dublin 9,q3,70%
+29/11/2016,"24 Cooleen Ave, Beaumont, Dublin 9",Dublin,305000.0,No,Beaumont,Dublin 9,q2,50%
+30/11/2016,"11 Dromawling Rd, Beaumont, Dublin 9",Dublin,365000.0,No,Beaumont,Dublin 9,q3,70%
+30/11/2016,"55 Thornwood, Beaumont",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+30/11/2016,"56 Thornwood, Beaumont",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+30/11/2016,"57 Thornwood, Beaumont",Dublin,267500.0,No,Beaumont,Dublin 9,q2,40%
+30/11/2016,"58 Thornwood, Beaumont",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+30/11/2016,"59 Thornwood, Beaumont",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+30/11/2016,"60 Thornwood, Beaumont",Dublin,267500.0,No,Beaumont,Dublin 9,q2,40%
+08/12/2016,"12 Elm Mount Ave, Beaumont, Dublin 9",Dublin,345000.0,No,Beaumont,Dublin 9,q3,60%
+14/12/2016,"9A Elmont Crescent, Beaumont, Dublin 9",Dublin,254000.0,No,Beaumont,Dublin 9,q2,30%
+21/12/2016,"38 Coolatree Rd, Beaumont, Dublin 9",Dublin,310000.0,No,Beaumont,Dublin 9,q3,60%
+22/12/2016,"23 Beaumont Crescent, Beaumont, Dublin 9",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+09/01/2017,"71 Beaumont Rd, Beaumont, Dublin 9",Dublin,405000.0,No,Beaumont,Dublin 9,q4,90%
+23/01/2017,"9 Elm Mount Crescent, Beaumont, Dublin 9",Dublin,325000.0,No,Beaumont,Dublin 9,q3,60%
+02/02/2017,"4G Beaumont House, 60 Terenure Road, Dublin 6",Dublin,329800.0,No,Beaumont,Dublin 9,q3,60%
+03/02/2017,"11 Grace Park Court, Beaumont, Dublin 5",Dublin,198250.0,No,Beaumont,Dublin 9,q1,20%
+03/02/2017,"2 Drom Na Nane Pk, Beaumont, Dublin 9",Dublin,362500.0,No,Beaumont,Dublin 9,q3,70%
+13/02/2017,"4 Coolatree Rd, Beaumont, Dublin 9",Dublin,345000.0,No,Beaumont,Dublin 9,q3,60%
+17/02/2017,"105 Shantalla Rd, Beaumont, Dublin 9",Dublin,346000.0,No,Beaumont,Dublin 9,q3,70%
+17/02/2017,"62 Thornwood, Beaumont",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+17/02/2017,"63 Thornwood, Beaumont",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+17/02/2017,"64 Thornwood, Beaumont",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+17/02/2017,"65 Thornwood, Beaumont",Dublin,267500.0,No,Beaumont,Dublin 9,q2,40%
+17/02/2017,"66 Thornwood, Beaumont",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+17/02/2017,"67 Thornwood, Beaumont",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+17/02/2017,"68 Thornwood, Beaumont",Dublin,267500.0,No,Beaumont,Dublin 9,q2,40%
+17/02/2017,"Apartment 61 Thornwood, Beaumont",Dublin,267500.0,No,Beaumont,Dublin 9,q2,40%
+20/02/2017,"93 Elm Mount Road, Beaumont, Dublin 9",Dublin,223333.0,No,Beaumont,Dublin 9,q1,30%
+22/02/2017,"142 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,241500.0,No,Beaumont,Dublin 9,q2,30%
+15/03/2017,"8 Elm Mount Rd, Elm Mount, Beaumont Dublin 7",Dublin,370000.0,No,Beaumont,Dublin 9,q3,80%
+16/03/2017,"3 Shanglas Rd, Beaumont, Dublin 9",Dublin,373000.0,No,Beaumont,Dublin 9,q3,80%
+28/03/2017,"10 Beaumont Hall, Beaumont, Dublin 9",Dublin,199500.0,No,Beaumont,Dublin 9,q1,20%
+31/03/2017,"13 Elm Mount Crescent, Beaumont, Dublin 9",Dublin,370000.0,No,Beaumont,Dublin 9,q3,80%
+31/03/2017,"147 Ivy Court, Beaumont Woods, Dublin 9",Dublin,185000.0,No,Beaumont,Dublin 9,q1,20%
+03/04/2017,"192 Collins Ave, Beaumont, Dublin 9",Dublin,650500.0,No,Beaumont,Dublin 9,q4,100%
+04/04/2017,"47 Beauvale Park, Beaumont, Dublin 9",Dublin,280000.0,No,Beaumont,Dublin 9,q2,40%
+07/04/2017,"Apt 4 Laragh Grace Park Court, Beaumont, Dublin 9",Dublin,192000.0,No,Beaumont,Dublin 9,q1,20%
+13/04/2017,"5 Dromlee Crescent, Beaumont, Dublin 9",Dublin,390000.0,No,Beaumont,Dublin 9,q4,80%
+21/04/2017,"85 Ivy Court, Beaumont Woods, Dublin 9",Dublin,166000.0,No,Beaumont,Dublin 9,q1,10%
+24/04/2017,"2 Elm Mount Rd, Beaumont, Dublin 9",Dublin,123000.0,No,Beaumont,Dublin 9,q1,10%
+27/04/2017,"233 Collinswood, Beaumont, Dublin 9",Dublin,375000.0,No,Beaumont,Dublin 9,q3,80%
+28/04/2017,"169 Beaumont Road, Beaumont, Dublin 9",Dublin,308000.0,No,Beaumont,Dublin 9,q2,50%
+28/04/2017,"55 Beaumont Court, Beaumont Woods, Dublin 9",Dublin,205000.0,No,Beaumont,Dublin 9,q1,20%
+03/05/2017,"157 Collins Park, Beaumont, Dublin 9",Dublin,400000.0,No,Beaumont,Dublin 9,q4,80%
+11/05/2017,"111 Ivy Court, Beaumont Woods, Beaumont",Dublin,179000.0,No,Beaumont,Dublin 9,q1,10%
+11/05/2017,"8 Dromawling Rd, Beaumont, Dublin 9",Dublin,380000.0,No,Beaumont,Dublin 9,q3,80%
+15/05/2017,"161 Beaumont Rd, Elm Park, Dublin 9",Dublin,355000.0,No,Beaumont,Dublin 9,q3,70%
+22/05/2017,"21 Dromawling Rd, Beaumont, Dublin 9",Dublin,490000.0,No,Beaumont,Dublin 9,q4,100%
+22/05/2017,"7 Elm Mount Heights, Elm Mount, Beaumont Dublin 7",Dublin,380000.0,No,Beaumont,Dublin 9,q3,80%
+23/05/2017,"65 Elm Mount Ave, Beaumont, Dublin 9",Dublin,411000.0,No,Beaumont,Dublin 9,q4,90%
+24/05/2017,"23 Coolgreena Rd, Beaumont, Dublin 9",Dublin,401000.0,No,Beaumont,Dublin 9,q4,80%
+31/05/2017,"67 Shantalla Dr, Beaumont, Dublin 9",Dublin,330000.0,No,Beaumont,Dublin 9,q3,60%
+09/06/2017,"131 Beaumont Rd, Dublin 9, Dublin",Dublin,372000.0,No,Beaumont,Dublin 9,q3,80%
+15/06/2017,"15 Grace Park Court, Beaumont, Dublin 9",Dublin,166500.0,No,Beaumont,Dublin 9,q1,10%
+15/06/2017,"154 Ivy Court, Beaumont, Dublin 9",Dublin,232000.0,No,Beaumont,Dublin 9,q1,30%
+16/06/2017,"32 Elm Mount Drive, Beaumont, Dublin 9",Dublin,365000.0,No,Beaumont,Dublin 9,q3,70%
+16/06/2017,"51 Coolrua Dr, Beaumont, Dublin 9",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+19/06/2017,"54 Coolatree Park, Beaumont, Dublin 9",Dublin,385000.0,No,Beaumont,Dublin 9,q3,80%
+20/06/2017,"258 Elm Mount Ave, Beaumont, Dublin",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+22/06/2017,"3 Coolgreena Road, Beaumont, Dublin 9",Dublin,297000.0,No,Beaumont,Dublin 9,q2,50%
+03/07/2017,"6 Drombawn Ave, Beaumont, Dublin 9",Dublin,408000.0,No,Beaumont,Dublin 9,q4,90%
+25/07/2017,"68 Beaumont Court, Beaumont Woods, Beaumont",Dublin,177000.0,No,Beaumont,Dublin 9,q1,10%
+31/07/2017,"91 Elm Mount Ave, Beaumont, Dublin 9",Dublin,412500.0,No,Beaumont,Dublin 9,q4,90%
+03/08/2017,"Apt 127, Ivy Court, Beaumont Woods Dublin 9",Dublin,215000.0,No,Beaumont,Dublin 9,q1,20%
+04/08/2017,"33 Beaumont Road, Dublin 9",Dublin,407000.0,No,Beaumont,Dublin 9,q4,90%
+10/08/2017,"117 Elm Mount Rd, Beaumont, Dublin 9",Dublin,398000.0,No,Beaumont,Dublin 9,q4,80%
+11/08/2017,"12 Coolrua Dr, Beaumont, Dublin 9",Dublin,345000.0,No,Beaumont,Dublin 9,q3,70%
+11/08/2017,"12 The Green, Beaumont Woods, Beaumont Dublin 9",Dublin,415000.0,No,Beaumont,Dublin 9,q4,90%
+11/08/2017,"30A Elm Mount Ave, Beaumont, Dublin 9",Dublin,360000.0,No,Beaumont,Dublin 9,q3,70%
+12/08/2017,"29 Grace Park Court, Beaumont Rd, Dublin",Dublin,178000.0,No,Beaumont,Dublin 9,q1,10%
+16/08/2017,"31 Dromauling Rd, Beaumont, Dublin 9",Dublin,385000.0,No,Beaumont,Dublin 9,q3,80%
+23/08/2017,"1 Beaumont Rd, Beaumont, Dublin 9",Dublin,285000.0,No,Beaumont,Dublin 9,q2,50%
+24/08/2017,"145 Elm Mount Ave, Beaumont, Dublin 9",Dublin,435000.0,No,Beaumont,Dublin 9,q4,100%
+25/08/2017,"165 Collinswood, Collins Ave, Beaumont Dublin 9",Dublin,400000.0,No,Beaumont,Dublin 9,q4,80%
+25/08/2017,"190 Elm Mount Ave, Beaumont, Dublin 9",Dublin,480000.0,No,Beaumont,Dublin 9,q4,100%
+25/08/2017,"50 Elm Mount Park, Beaumont, Dublin 9",Dublin,246666.0,No,Beaumont,Dublin 9,q2,30%
+28/08/2017,"126 Beaumont Rd, Beaumont, Dublin 9",Dublin,358000.0,No,Beaumont,Dublin 9,q3,70%
+30/08/2017,"69 Shantalla Rd, Beaumont, Dublin 9",Dublin,296250.0,No,Beaumont,Dublin 9,q2,50%
+01/09/2017,"356 Collinswood, Beaumont, Dublin 9",Dublin,403000.0,No,Beaumont,Dublin 9,q4,80%
+05/09/2017,"66 Elm Mount Park, Beaumont, Dublin 9",Dublin,405000.0,No,Beaumont,Dublin 9,q4,90%
+15/09/2017,"13 The Close, Beaumont Woods, Dublin 9",Dublin,390000.0,No,Beaumont,Dublin 9,q4,80%
+25/09/2017,"49 Shantalla Dr, Beaumont, Dublin 9",Dublin,401000.0,No,Beaumont,Dublin 9,q4,80%
+27/09/2017,"117 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,185000.0,No,Beaumont,Dublin 9,q1,20%
+02/10/2017,"34 Beaumont Court, Beaumont Woods, Dublin 9",Dublin,227000.0,No,Beaumont,Dublin 9,q1,30%
+06/10/2017,"46 Beaumont Court, Beaumont, Dublin 9",Dublin,205000.0,No,Beaumont,Dublin 9,q1,20%
+26/10/2017,"72 Beaumont Court, Beaumont Woods, Dublin 9",Dublin,230000.0,No,Beaumont,Dublin 9,q1,30%
+26/10/2017,"87 Elmmount Park, Beaumont, Dublin 9",Dublin,410000.0,No,Beaumont,Dublin 9,q4,90%
+31/10/2017,"Apt 24, Beaumont Hall, Beaumont Dublin 9",Dublin,282000.0,No,Beaumont,Dublin 9,q2,40%
+02/11/2017,"57 Shantalla Dr, Beaumont, Dublin 9",Dublin,360000.0,No,Beaumont,Dublin 9,q3,70%
+17/11/2017,"41 Cooleen Ave, Beaumont, Dublin 9",Dublin,392000.0,No,Beaumont,Dublin 9,q4,80%
+23/11/2017,"81 Elm Mount Ave, Beaumont Dublin 9, Dublin",Dublin,433000.0,No,Beaumont,Dublin 9,q4,100%
+29/11/2017,"65 Ivy Court, Beaumont Woods, Dublin 13",Dublin,208000.0,No,Beaumont,Dublin 9,q1,20%
+30/11/2017,"156 Beaumont Rd, Dublin 9, Dublin",Dublin,430000.0,No,Beaumont,Dublin 9,q4,100%
+01/12/2017,"49 Elm Mount Rise, Beaumont, Dublin 9",Dublin,410000.0,No,Beaumont,Dublin 9,q4,90%
+01/12/2017,"8 Beaumont Court, Beaumont Woods, Dublin 9",Dublin,169000.0,No,Beaumont,Dublin 9,q1,10%
+04/12/2017,"1.1 Beaumont House, 60 Terenure Road, East Terenure",Dublin,415000.0,No,Beaumont,Dublin 9,q4,90%
+11/12/2017,"40 Beaumont Court, Beaumont Woods, Dublin 9",Dublin,168000.0,No,Beaumont,Dublin 9,q1,10%
+15/12/2017,"49 Dromawling Rd, Beaumont, Dublin 9",Dublin,419000.0,No,Beaumont,Dublin 9,q4,90%
+18/12/2017,"9 Dromeen Ave, Beaumont, Dublin 9",Dublin,430000.0,No,Beaumont,Dublin 9,q4,100%
+19/12/2017,"Apartment 1, 82 Shantalla Road, Beaumont",Dublin,175000.0,No,Beaumont,Dublin 9,q1,10%
+03/01/2018,"10 Shantalla Park, Beaumont, Dublin 9",Dublin,360000.0,No,Beaumont,Dublin 9,q3,70%
+04/01/2018,"21 The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,420000.0,No,Beaumont,Dublin 9,q4,100%
+09/01/2018,"95 The Green, Beaumont Woods, Beaumont Dublin 9",Dublin,330000.0,No,Beaumont,Dublin 9,q3,60%
+10/01/2018,"26 The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,420000.0,No,Beaumont,Dublin 9,q4,100%
+18/01/2018,"58 Coolatree Park, Beaumont, Dublin 9",Dublin,370000.0,No,Beaumont,Dublin 9,q3,80%
+22/01/2018,"7 Dromlee Crescent, Beaumont, Dublin 9",Dublin,412000.0,No,Beaumont,Dublin 9,q4,90%
+24/01/2018,"5 Coolgariff Rd, Beaumont, Dublin 9",Dublin,365000.0,No,Beaumont,Dublin 9,q3,70%
+05/02/2018,"4 Dromnanane Park, Beaumont, Dublin 9",Dublin,152000.0,No,Beaumont,Dublin 9,q1,10%
+16/02/2018,"122 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,240000.0,No,Beaumont,Dublin 9,q2,30%
+21/02/2018,"144 Elm Mount Ave, Beaumont, Dublin 9",Dublin,460000.0,No,Beaumont,Dublin 9,q4,100%
+21/02/2018,"15 Dromawling Rd, Beaumont, Dublin 9",Dublin,420000.0,No,Beaumont,Dublin 9,q4,100%
+22/02/2018,"3 Coolatree Park, Beaumont, Dublin 9",Dublin,345000.0,No,Beaumont,Dublin 9,q3,70%
+23/02/2018,"27 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,272000.0,No,Beaumont,Dublin 9,q2,40%
+28/02/2018,"16 Shantalla Dr, Beaumont, Dublin 9",Dublin,403000.0,No,Beaumont,Dublin 9,q4,90%
+06/03/2018,"144 Ivy Court, Beaumont Woods, Beaumont",Dublin,275000.0,No,Beaumont,Dublin 9,q2,40%
+07/03/2018,"188A Collins Avenue, Beaumont, Dublin 9",Dublin,555066.0,Yes,Beaumont,Dublin 9,q4,100%
+12/03/2018,"12 Coolatree Road, Beaumont, Dublin 9",Dublin,442000.0,No,Beaumont,Dublin 9,q4,100%
+13/03/2018,"65 Coolatree Rd, Beaumont, Dublin 9",Dublin,395000.0,No,Beaumont,Dublin 9,q4,80%
+13/03/2018,"70 Elm Mount Park, Beaumont, Dublin 9",Dublin,415000.0,No,Beaumont,Dublin 9,q4,90%
+27/03/2018,"31 Beaumont Hall, Beaumont Woods, Beaumont Dublin 9",Dublin,230000.0,No,Beaumont,Dublin 9,q1,30%
+28/03/2018,"190A Collins Avenue, Beaumont",Dublin,541850.0,Yes,Beaumont,Dublin 9,q4,100%
+28/03/2018,"7 Beaumont Rd, Beaumont, Dublin 9",Dublin,325000.0,No,Beaumont,Dublin 9,q3,60%
+29/03/2018,"72 The Green, Beaumont Woods, Dublin 9",Dublin,441000.0,No,Beaumont,Dublin 9,q4,100%
+03/04/2018,"45 Beaumont Hall, Beaumont Woods, Beaumont Dublin 9",Dublin,255000.0,No,Beaumont,Dublin 9,q2,30%
+10/04/2018,"13 Beaumont Crescent, Beaumont, Dublin 9",Dublin,425000.0,No,Beaumont,Dublin 9,q4,100%
+24/04/2018,"18 Cooleen Avenue, Beaumont, Dublin 9",Dublin,361000.0,No,Beaumont,Dublin 9,q3,70%
+27/04/2018,"5 Coolrua Dr, Beaumont, Dublin 9",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+30/04/2018,"24 Coolrua Dr, Beaumont, Dublin 9",Dublin,415000.0,No,Beaumont,Dublin 9,q4,90%
+03/05/2018,"40 Dromawling Rd, Beaumont, Dublin 9",Dublin,404000.0,No,Beaumont,Dublin 9,q4,90%
+03/05/2018,"83 The Green, Beaumont Woods, Beaumont Dublin 9",Dublin,415000.0,No,Beaumont,Dublin 9,q4,90%
+08/05/2018,"171 Elm Mount Rd, Beaumont, Dublin 9",Dublin,425000.0,No,Beaumont,Dublin 9,q4,100%
+09/05/2018,"42 Ivy Ct, Beaumont Woods, Dublin 9",Dublin,277000.0,No,Beaumont,Dublin 9,q2,40%
+10/05/2018,"49 The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,440000.0,No,Beaumont,Dublin 9,q4,100%
+15/05/2018,"19 Coolgreena Rd, Beaumont, Dublin 9",Dublin,410000.0,No,Beaumont,Dublin 9,q4,90%
+18/05/2018,"93 Coolgreena Rd, Beaumont, Dublin 9",Dublin,385000.0,No,Beaumont,Dublin 9,q3,80%
+23/05/2018,"188 Collins Avenue, Beaumont",Dublin,537448.05,Yes,Beaumont,Dublin 9,q4,100%
+01/06/2018,"122 Beaumont Rd, Beaumont, Dublin 9",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+05/06/2018,"190 Collins Avanue, Beaumont",Dublin,568281.0,Yes,Beaumont,Dublin 9,q4,100%
+07/06/2018,"58 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,240000.0,No,Beaumont,Dublin 9,q2,30%
+15/06/2018,"157 Elm Mount Ave, Beaumont, Dublin 9",Dublin,360000.0,No,Beaumont,Dublin 9,q3,70%
+18/06/2018,"89 Shantalla Rd, Beaumont, Dublin 9",Dublin,407000.0,No,Beaumont,Dublin 9,q4,90%
+02/07/2018,"53 Dromawling Rd, Beaumont, Dublin 9",Dublin,440000.0,No,Beaumont,Dublin 9,q4,100%
+11/07/2018,"48 Elm Mount Rd, Beaumont Rd, Dublin 9",Dublin,395000.0,No,Beaumont,Dublin 9,q4,80%
+12/07/2018,"1 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,362000.0,No,Beaumont,Dublin 9,q3,70%
+18/07/2018,"13 Beaumont Court, Beaumont, Dublin 9",Dublin,240000.0,No,Beaumont,Dublin 9,q2,30%
+19/07/2018,"87 Elm Mount Ave, Beaumont, Dublin 9",Dublin,398000.0,No,Beaumont,Dublin 9,q4,80%
+24/07/2018,"7 Coolgreena Close, Beaumont, Dublin 9",Dublin,162500.0,No,Beaumont,Dublin 9,q1,10%
+25/07/2018,"101 Elm Mount Ave, Beaumont, Dublin 9",Dublin,440000.0,No,Beaumont,Dublin 9,q4,100%
+26/07/2018,"67 Dromawling Rd, Beaumont, Dublin 9",Dublin,438000.0,No,Beaumont,Dublin 9,q4,100%
+27/07/2018,"28 Cooleen Ave, Beaumont, Dublin 9",Dublin,170000.0,No,Beaumont,Dublin 9,q1,10%
+30/07/2018,"24 The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,357000.0,No,Beaumont,Dublin 9,q3,70%
+30/07/2018,"76 Shantalla Road, Beaumont, Dublin 9",Dublin,160000.0,No,Beaumont,Dublin 9,q1,10%
+01/08/2018,"284 Collins Park, Beaumont, Dublin 9",Dublin,387000.0,No,Beaumont,Dublin 9,q4,80%
+15/08/2018,"35 Shanboley Rd, Beaumont, Dublin 9",Dublin,417500.0,No,Beaumont,Dublin 9,q4,90%
+15/08/2018,"59A Coolatree Pk, Beaumont, Dublin 9",Dublin,325450.0,No,Beaumont,Dublin 9,q3,60%
+15/08/2018,"71 The Green, Beaumont Woods, Dublin 9",Dublin,437000.0,No,Beaumont,Dublin 9,q4,100%
+16/08/2018,"9 The Close, Beaumont Woods, Beaumont Dublin 9",Dublin,330000.0,No,Beaumont,Dublin 9,q3,60%
+17/08/2018,"107 Elm Mount Rd, Beaumont, Dublin 9",Dublin,450000.0,No,Beaumont,Dublin 9,q4,100%
+27/08/2018,"108 Beaumont Rd, Beaumont, Dublin 9",Dublin,600000.0,No,Beaumont,Dublin 9,q4,100%
+31/08/2018,"33 Elm Mount Rise, Beaumont, Dublin 9",Dublin,90000.0,No,Beaumont,Dublin 9,q1,10%
+31/08/2018,"41 Elm Mount Court, Beaumont, Dublin 9",Dublin,524625.0,No,Beaumont,Dublin 9,q4,100%
+06/09/2018,"36 Beaumont Hall, Beaumont Woods, Beaumont Dublin 9",Dublin,207508.0,No,Beaumont,Dublin 9,q1,20%
+07/09/2018,"45 The Green, Beaumont Woods, Beaumont Dublin 9",Dublin,400000.0,No,Beaumont,Dublin 9,q4,80%
+19/09/2018,"98 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,310000.0,No,Beaumont,Dublin 9,q3,60%
+01/10/2018,"109 Ivy Court, Beaumont Woods, Dublin 9",Dublin,160000.0,No,Beaumont,Dublin 9,q1,10%
+01/10/2018,"164 Ivy Court, Beaumont, Dublin 9",Dublin,290000.0,No,Beaumont,Dublin 9,q2,50%
+01/10/2018,"75 Elm Mount Rd, Beaumont, Dublin 9",Dublin,431000.0,No,Beaumont,Dublin 9,q4,100%
+03/10/2018,"7 Coolatree Rd, Beaumont, Dublin9",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+10/10/2018,"58 Cooleen Ave, Beaumont, Dublin 9",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+12/10/2018,"27 Coolrua Dr, Beaumont, Dublin 9",Dublin,345000.0,No,Beaumont,Dublin 9,q3,70%
+12/10/2018,"4 Dromawling Road, Beaumont, Dublin 9",Dublin,446017.0,No,Beaumont,Dublin 9,q4,100%
+16/10/2018,"115 Ivy Court, Beaumont Woods, Dublin 9",Dublin,210000.0,No,Beaumont,Dublin 9,q1,20%
+25/10/2018,"6 Elm Mount Crescent, Beaumont, Dublin 9",Dublin,414000.0,No,Beaumont,Dublin 9,q4,90%
+31/10/2018,"13 Beaumont Hall, Beaumont Dublin 9, Dublin",Dublin,205000.0,No,Beaumont,Dublin 9,q1,20%
+31/10/2018,"4 Dromnanane Park, Beaumont, Dublin 9",Dublin,380000.0,No,Beaumont,Dublin 9,q3,80%
+01/11/2018,"230 Elm Mount Mount, Beaumont, Dublin 9",Dublin,475000.0,No,Beaumont,Dublin 9,q4,100%
+01/11/2018,"328 Collinswood, Beaumont, Dublin 9",Dublin,428000.0,No,Beaumont,Dublin 9,q4,100%
+12/11/2018,"73 Coolgreena Rd, Beaumont, Dublin 9",Dublin,335000.0,No,Beaumont,Dublin 9,q3,60%
+15/11/2018,"17 Elm Mount Park, Beaumont, Dublin 9",Dublin,397500.0,No,Beaumont,Dublin 9,q4,80%
+15/11/2018,"68 Beaumont Rd, Dublin 9, Dublin",Dublin,590000.0,No,Beaumont,Dublin 9,q4,100%
+19/11/2018,"110 Ivy Court, Beaumont Woods, Dublin 9",Dublin,280000.0,No,Beaumont,Dublin 9,q2,40%
+19/11/2018,"165 Beauvale Park, Beaumont, Dublin 9",Dublin,365000.0,No,Beaumont,Dublin 9,q3,70%
+20/11/2018,"45 Shantalla Rd, Beaumont, Dublin 9",Dublin,332500.0,No,Beaumont,Dublin 9,q3,60%
+26/11/2018,"157 Ivy Court, Beaumont, Dublin 9",Dublin,197000.0,No,Beaumont,Dublin 9,q1,20%
+27/11/2018,"Apt 2/3, Beaumont House, Terenure Rd East",Dublin,390000.0,No,Beaumont,Dublin 9,q4,80%
+29/11/2018,"128 Shantalla Rd, Beaumont, Dublin 9",Dublin,460000.0,No,Beaumont,Dublin 9,q4,100%
+29/11/2018,"80 The Green, Beaumountwoods, Beaumont",Dublin,432000.0,No,Beaumont,Dublin 9,q4,100%
+30/11/2018,"17 Ivy Court, Beaumont Woods, Dublin 9",Dublin,285000.0,No,Beaumont,Dublin 9,q2,50%
+11/12/2018,"136 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,240000.0,No,Beaumont,Dublin 9,q2,30%
+12/12/2018,"6 Elm Mount Rd, Beaumont, Dublin 9",Dublin,400000.0,No,Beaumont,Dublin 9,q4,80%
+14/12/2018,"77 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,205000.0,No,Beaumont,Dublin 9,q1,20%
+20/12/2018,"13 Elm Mount Road, Beaumont, Dublin 9",Dublin,170000.0,No,Beaumont,Dublin 9,q1,10%
+09/01/2019,"2 Beaumont Hall, Beaumont, Dublin 9",Dublin,235000.0,No,Beaumont,Dublin 9,q1,30%
+09/01/2019,"61 Beaumont Rd, Dublin 9, Dublin",Dublin,517500.0,No,Beaumont,Dublin 9,q4,100%
+11/01/2019,"61 Coolgreena Rd, Beaumont, Dublin 9",Dublin,350000.0,No,Beaumont,Dublin 9,q3,70%
+18/01/2019,"160 Beaumont Rd, Beaumont, Dublin 9",Dublin,380000.0,No,Beaumont,Dublin 9,q3,80%
+01/02/2019,"40 Ivy Court, Beaumont Woods, Dublin 9",Dublin,160000.0,No,Beaumont,Dublin 9,q1,10%
+12/02/2019,"15 Elm Mount Ave, Beaumont, Dublin 9",Dublin,390000.0,No,Beaumont,Dublin 9,q4,80%
+25/02/2019,"15 Ivy Court Beaumont Woods, Beaumont Dublin 9, Dublin",Dublin,345000.0,No,Beaumont,Dublin 9,q3,70%
+28/02/2019,"11 Coolatree Park, Beaumont, Dublin 9",Dublin,220000.0,No,Beaumont,Dublin 9,q1,20%
+01/03/2019,"219 Elm Mount Ave, Beaumont, Dublin 9",Dublin,425000.0,No,Beaumont,Dublin 9,q4,100%
+01/03/2019,"Padua, 106 Elm Mount Ave, Beaumont Dublin 9",Dublin,370000.0,No,Beaumont,Dublin 9,q3,80%
+19/03/2019,"46 Cooleen Ave, Beaumont, Dublin",Dublin,300000.0,No,Beaumont,Dublin 9,q2,50%
+27/03/2019,"31 Ivy Court, Beaumont Woods, Dublin 9",Dublin,225000.0,No,Beaumont,Dublin 9,q1,30%
+28/03/2019,"56 Coolatree Park, Beaumont, Dublin 9",Dublin,345000.0,No,Beaumont,Dublin 9,q3,70%
+01/04/2019,"48 Ivy Court, Beaumont Woods, Dublin 9",Dublin,261000.0,No,Beaumont,Dublin 9,q2,40%
+05/04/2019,"175 Beaumont Rd, Beaumont, Dublin 9",Dublin,275000.0,No,Beaumont,Dublin 9,q2,40%
+08/04/2019,"Apt 7, Beaumont Court, Beaumont",Dublin,250000.0,No,Beaumont,Dublin 9,q2,30%
+11/04/2019,"5 Coolatree Close, Beaumont, Dublin 9",Dublin,435000.0,No,Beaumont,Dublin 9,q4,100%
+15/04/2019,"21 Ivy Court, Beaumont Woods, Dublin 9",Dublin,251000.0,No,Beaumont,Dublin 9,q2,30%
+26/04/2019,"151 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,210000.0,No,Beaumont,Dublin 9,q1,20%
+30/04/2019,"140 Ivy Court, Beaumont Woods, Dublin 9",Dublin,285000.0,No,Beaumont,Dublin 9,q2,50%
+01/05/2019,"52 Shantalla Drive, Beaumont, Dublin 9",Dublin,380000.0,No,Beaumont,Dublin 9,q3,80%
+10/05/2019,"82 Beaumont Court, Beaumont Woods, Dublin 9",Dublin,262500.0,No,Beaumont,Dublin 9,q2,40%
+14/05/2019,"159 Beaumont Rd, Beaumont, Dublin 9",Dublin,340000.0,No,Beaumont,Dublin 9,q3,60%
+14/05/2019,"43 Ivy Court, Beaumont Woods, Dublin 9",Dublin,270000.0,No,Beaumont,Dublin 9,q2,40%
+16/05/2019,"55 Beaumont Rd, Dublin 9, Dublin",Dublin,605000.0,No,Beaumont,Dublin 9,q4,100%
+20/05/2019,"57 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,185000.0,No,Beaumont,Dublin 9,q1,20%
+22/05/2019,"20 Elm Mount Park, Beaumont, Dublin 9",Dublin,392500.0,No,Beaumont,Dublin 9,q4,80%
+23/05/2019,"23 The Park, Beaumont Woods, Beaumont Dublin 9",Dublin,375000.0,No,Beaumont,Dublin 9,q3,80%
+28/05/2019,"65 Coolgreena Rd, Beaumont, Dublin 9",Dublin,355000.0,No,Beaumont,Dublin 9,q3,70%
+04/06/2019,"152 Collins Park, Beaumont, Dublin 9",Dublin,432500.0,No,Beaumont,Dublin 9,q4,100%
+14/06/2019,"75 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,190000.0,No,Beaumont,Dublin 9,q1,20%
+28/06/2019,"19 Grace Park Court, Beaumont Rd, Dublin 9",Dublin,250000.0,No,Beaumont,Dublin 9,q2,30%
+04/07/2019,"12 Elm Mount Heights, Beaumont, Dublin 9",Dublin,380000.0,No,Beaumont,Dublin 9,q3,80%
+08/07/2019,"15 Elm Mount Court, Beaumont, Dublin 9",Dublin,440000.0,No,Beaumont,Dublin 9,q4,100%
+19/07/2019,"111 Beaumont Rd, Beaumont, Dublin 9",Dublin,475000.0,No,Beaumont,Dublin 9,q4,100%
+22/07/2019,"42 Coolgreena Rd, Beaumont, Dublin 9",Dublin,387000.0,No,Beaumont,Dublin 9,q4,80%
+23/07/2019,"57 Dromawling Rd, Beaumont, Dublin 9",Dublin,430000.0,No,Beaumont,Dublin 9,q4,100%
+30/07/2019,"34 Elm Mount Dr, Beaumont, Dublin 9",Dublin,367500.0,No,Beaumont,Dublin 9,q3,80%
+07/08/2019,"Apt 1, Grace Park Court, Beaumont Rd Dublin 9",Dublin,245000.0,No,Beaumont,Dublin 9,q2,30%
+12/08/2019,"42A Elm Mount Park, Beaumont, Dublin 9",Dublin,594713.66,Yes,Beaumont,Dublin 9,q4,100%
+13/08/2019,"34 Ivy Court, Beaumont Woods, Dublin 9",Dublin,200000.0,No,Beaumont,Dublin 9,q1,20%
+15/08/2019,"144 Elm Mount Rd, Beaumont, Dublin 9",Dublin,225000.0,No,Beaumont,Dublin 9,q1,30%
+15/08/2019,"46 Coolatree Park, Beaumont, Dublin 9",Dublin,355000.0,No,Beaumont,Dublin 9,q3,70%
+16/08/2019,"108 Elm Mount Ave, Beaumont, Dublin 9",Dublin,355000.0,No,Beaumont,Dublin 9,q3,70%
+16/08/2019,"128 Beaumont Rd, Dublin 9, Dublin",Dublin,370000.0,No,Beaumont,Dublin 9,q3,80%
+16/08/2019,"246 Elm Mount Ave, Beaumont, Dublin 9",Dublin,450000.0,No,Beaumont,Dublin 9,q4,100%
+22/08/2019,"158 Beaumont Rd, Dublin 9, Dublin",Dublin,170000.0,No,Beaumont,Dublin 9,q1,10%
+29/08/2019,"13 Coolatree Rd, Beaumont, Dublin 9",Dublin,220000.0,No,Beaumont,Dublin 9,q1,30%
+04/09/2019,"60 Coolrua Dr, Beaumont, Dublin 9",Dublin,365000.0,No,Beaumont,Dublin 9,q3,70%
+05/09/2019,"63 Shantalla Dr, Beaumont, Dublin 9",Dublin,327000.0,No,Beaumont,Dublin 9,q3,60%
+06/09/2019,"Apt 6, Beaumont Court, Beaumont Woods Dublin 9",Dublin,260000.0,No,Beaumont,Dublin 9,q2,40%
+11/09/2019,"6 Shantalla Dr, Beaumont, Dublin 9",Dublin,367000.0,No,Beaumont,Dublin 9,q3,70%
+17/09/2019,"113 Ivy Court, Beaumont Woods, Beaumont Dublin 9",Dublin,205000.0,No,Beaumont,Dublin 9,q1,20%
+19/09/2019,"2 Beaumont Court, Beaumont Woods, Dublin 9",Dublin,255000.0,No,Beaumont,Dublin 9,q2,30%
+03/10/2019,"2 Elm Mount Dr, Beaumont, Dublin 9",Dublin,450000.0,No,Beaumont,Dublin 9,q4,100%
+04/10/2019,"13 Elm Mount Heights, Beaumont, Dublin 9",Dublin,395000.0,No,Beaumont,Dublin 9,q4,80%
+10/10/2019,"4 Dromnanane Road, Beaumont, Dublin 9",Dublin,435000.0,No,Beaumont,Dublin 9,q4,100%
+23/10/2019,"2 Drom Na Nane Pk, Beaumont, Dublin 9",Dublin,470000.0,No,Beaumont,Dublin 9,q4,100%

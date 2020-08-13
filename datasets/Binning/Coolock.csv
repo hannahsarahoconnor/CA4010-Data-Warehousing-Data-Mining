@@ -1,0 +1,411 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+22/01/2010,"21 St Brendans, Coolock",Dublin,330000.0,No,Coolock,Dublin 5,q4,90%
+26/01/2010,"9 Beechdale Green, Coolock",Dublin,167000.0,No,Coolock,Dublin 5,q2,30%
+16/03/2010,"25 Beechlawn Close, Coolock",Dublin,280000.0,No,Coolock,Dublin 5,q3,80%
+19/03/2010,"23 St Brendans Avenue, Coolock",Dublin,300000.0,No,Coolock,Dublin 5,q4,80%
+22/04/2010,"44 Beechpark Court, Coolock",Dublin,255000.0,No,Coolock,Dublin 5,q3,70%
+30/04/2010,"56 Dunree Park, Coolock, Dublin 5",Dublin,330000.0,No,Coolock,Dublin 5,q4,90%
+30/04/2010,"9 Woodlawn Way, Coolock",Dublin,290000.0,No,Coolock,Dublin 5,q4,80%
+04/06/2010,"60 Tonlegee Road, Coolock",Dublin,260000.0,No,Coolock,Dublin 5,q3,70%
+21/06/2010,"22 St. Brendan'S Drive, Coolock",Dublin,320000.0,No,Coolock,Dublin 5,q4,90%
+04/08/2010,"12 Moatfield Road, St Brendan'S Estate, Coolock",Dublin,305000.0,No,Coolock,Dublin 5,q4,90%
+28/10/2010,"44 Kilmore Drive, Coolock, Dublin 5",Dublin,280000.0,No,Coolock,Dublin 5,q3,80%
+10/11/2010,"9 Glin Crescent, Coolock  Dublin 17",Dublin,178000.0,No,Coolock,Dublin 5,q2,30%
+16/11/2010,"49 Kilbarron Park, Coolock",Dublin,126500.0,No,Coolock,Dublin 5,q1,20%
+10/12/2010,"37  Glin Grove, Coolock",Dublin,208500.0,No,Coolock,Dublin 5,q2,50%
+14/12/2010,"6 Tranquility Grove, Coolock",Dublin,240000.0,No,Coolock,Dublin 5,q3,60%
+17/12/2010,"27 St. Brendans Ave, Coolock, Dublin 5",Dublin,240000.0,No,Coolock,Dublin 5,q3,60%
+22/12/2010,"28  Castletimon Road, Coolock, Dublin 17",Dublin,160000.0,No,Coolock,Dublin 5,q1,30%
+05/01/2011,"38 Kilmore Avenue, Coolock",Dublin,270000.0,No,Coolock,Dublin 5,q3,70%
+28/01/2011,"12  Ballyshannon Avenue, Kilmore, Coolock",Dublin,160000.0,No,Coolock,Dublin 5,q1,30%
+16/02/2011,"9 Greencastle Cres, Coolock, Dublin 17",Dublin,160000.0,No,Coolock,Dublin 5,q1,30%
+31/03/2011,"38 Chanel Road, Coolock",Dublin,325000.0,No,Coolock,Dublin 5,q4,90%
+24/05/2011,"66 Tonglegee Road, Coolock",Dublin,235000.0,No,Coolock,Dublin 5,q3,60%
+24/06/2011,"147 Kilbarron Road, Coolock",Dublin,160000.0,No,Coolock,Dublin 5,q1,30%
+28/06/2011,"122A Ballyshannon Road, Coolock, Dublin 5",Dublin,176211.45,Yes,Coolock,Dublin 5,q2,30%
+19/07/2011,"17 Clonrosse Drive, Ard Na Greine, Coolock",Dublin,248000.0,No,Coolock,Dublin 5,q3,70%
+05/08/2011,"122B Ballyshannon Road, Coolock",Dublin,177973.0,Yes,Coolock,Dublin 5,q2,30%
+15/08/2011,"4 Adare Park, Coolock, Dublin 17",Dublin,130000.0,No,Coolock,Dublin 5,q1,20%
+19/08/2011,"54 Greencastle Avenue, Coolock",Dublin,146500.0,No,Coolock,Dublin 5,q1,30%
+30/09/2011,"18 Castletimon Road, Coolock",Dublin,135000.0,No,Coolock,Dublin 5,q1,20%
+07/11/2011,"Apartment 45  Block B, Castle Elms  Greencastle Road, Coolock",Dublin,95000.0,No,Coolock,Dublin 5,q1,10%
+13/12/2011,"4 Castletimon Park, Coolock",Dublin,170000.0,No,Coolock,Dublin 5,q2,30%
+14/12/2011,"9 Chanel Grove, Coolock, Dublin 5",Dublin,212000.0,No,Coolock,Dublin 5,q2,50%
+20/12/2011,"56 Glin Road, Coolock, Dublin 17",Dublin,140000.0,No,Coolock,Dublin 5,q1,20%
+24/02/2012,"66 Chanel Road, Coolock",Dublin,165000.0,No,Coolock,Dublin 5,q2,30%
+26/03/2012,"72 Moatfield Avenue, Coolock",Dublin,182500.0,No,Coolock,Dublin 5,q2,40%
+23/05/2012,"32C Glin Drive, Coolock, Dublin 17",Dublin,90000.0,No,Coolock,Dublin 5,q1,10%
+25/05/2012,"3 Greencastle Avenue, Coolock",Dublin,115000.0,No,Coolock,Dublin 5,q1,10%
+25/05/2012,"87 Glin Drive, Coolock",Dublin,115000.0,No,Coolock,Dublin 5,q1,10%
+22/06/2012,"24 Adare Drive, Coolock",Dublin,130000.0,No,Coolock,Dublin 5,q1,20%
+28/06/2012,"91 Kilbarron Road, Coolock",Dublin,100000.0,No,Coolock,Dublin 5,q1,10%
+29/06/2012,"4 Beechpark Avenue, Coolock, Dublin 5",Dublin,230000.0,No,Coolock,Dublin 5,q3,60%
+12/07/2012,"1 Kilbarron Road, Coolock",Dublin,123500.0,No,Coolock,Dublin 5,q1,20%
+01/08/2012,"30 St. Brendan'S Terrace, Coolock",Dublin,131000.0,No,Coolock,Dublin 5,q1,20%
+23/08/2012,"15 Ferrycarrig Avenue, Coolock",Dublin,100000.0,No,Coolock,Dublin 5,q1,10%
+28/08/2012,"5 St. Brendans Park, Coolock, Dublin 5",Dublin,138000.0,No,Coolock,Dublin 5,q1,20%
+29/08/2012,"36 Adare Drive, Coolock, Dublin 17",Dublin,100000.0,No,Coolock,Dublin 5,q1,10%
+10/09/2012,"106 Castletimon Road, Coolock, Dublin 5",Dublin,106666.04,No,Coolock,Dublin 5,q1,10%
+19/09/2012,"203 Tonglee Road, Coolock",Dublin,294000.0,No,Coolock,Dublin 5,q4,80%
+19/10/2012,"50 Beechpark Court, Coolock",Dublin,170000.0,No,Coolock,Dublin 5,q2,30%
+23/10/2012,"69 Glynn Drive, Coolock",Dublin,110000.0,No,Coolock,Dublin 5,q1,10%
+31/10/2012,"1 Greencastle Drive, Coolock, Dublin 17",Dublin,105000.0,No,Coolock,Dublin 5,q1,10%
+31/10/2012,"11 Dunree Park, Coolock",Dublin,155000.0,No,Coolock,Dublin 5,q1,30%
+13/11/2012,"10 Barryscourt Road, Coolock",Dublin,96000.0,No,Coolock,Dublin 5,q1,10%
+06/12/2012,"32 Castletimon Road, Kilmore West, Coolock",Dublin,107000.0,No,Coolock,Dublin 5,q1,10%
+06/12/2012,"45 Glin Drive, Coolock",Dublin,140000.0,No,Coolock,Dublin 5,q1,20%
+07/12/2012,"86 Ferrycarrig Road, Coolock",Dublin,140000.0,No,Coolock,Dublin 5,q1,20%
+12/12/2012,"132 Kilmore Road, Coolock",Dublin,85279.0,No,Coolock,Dublin 5,q1,10%
+17/12/2012,"34 Moatfield Park, Coolock",Dublin,183000.0,No,Coolock,Dublin 5,q2,40%
+19/12/2012,"52 Dunree Park, Coolock, Dublin 5",Dublin,180000.0,No,Coolock,Dublin 5,q2,40%
+21/12/2012,"42 Moatfield, St. Brendans, Coolock",Dublin,230000.0,No,Coolock,Dublin 5,q3,60%
+27/12/2012,"14 Castletimon Road, Coolock, Dublin 5",Dublin,105000.0,No,Coolock,Dublin 5,q1,10%
+14/01/2013,"66 Ferrycarrig Park, Coolock",Dublin,80000.0,No,Coolock,Dublin 5,q1,10%
+18/01/2013,"134 Macroom Road, Coolock, Dublin 17",Dublin,133500.0,No,Coolock,Dublin 5,q1,20%
+01/02/2013,"77 St Brendan'S Avenue, Coolock",Dublin,200000.0,No,Coolock,Dublin 5,q2,50%
+08/02/2013,"85 Kilbarron Road, Coolock",Dublin,100000.0,No,Coolock,Dublin 5,q1,10%
+25/02/2013,"61 Adare Road, Coolock",Dublin,118000.0,No,Coolock,Dublin 5,q1,10%
+15/03/2013,"12 Marlborough Road, Coolock",Dublin,380000.0,No,Coolock,Dublin 5,q4,100%
+05/04/2013,"37 Beechlawn Close, Coolock",Dublin,180000.0,No,Coolock,Dublin 5,q2,40%
+12/04/2013,"7 Moatfield Avenue, Coolock, Dublin 17",Dublin,194000.0,No,Coolock,Dublin 5,q2,40%
+23/04/2013,"26 Moatfield Avenue, Coolock",Dublin,205000.0,No,Coolock,Dublin 5,q2,50%
+24/05/2013,"169 Bunratty Road, Coolock",Dublin,88000.0,No,Coolock,Dublin 5,q1,10%
+31/05/2013,"20 Castle Elms, Coolock, Dublin 17",Dublin,140000.0,No,Coolock,Dublin 5,q1,20%
+14/06/2013,"18 Chanel Road, Coolock",Dublin,235000.0,No,Coolock,Dublin 5,q3,60%
+17/06/2013,"42 St Brendans Drive, Coolock, Dublin 5",Dublin,287500.0,No,Coolock,Dublin 5,q4,80%
+20/06/2013,"8 Castletimon Avenue, Coolock, Dublin 5",Dublin,130000.0,No,Coolock,Dublin 5,q1,20%
+28/06/2013,"26 St. Brendans Park, Coolock",Dublin,273000.0,No,Coolock,Dublin 5,q3,80%
+15/07/2013,"56 Bunratty Drive, Coolock",Dublin,138000.0,No,Coolock,Dublin 5,q1,20%
+18/07/2013,"76 Bunratty Road, Coolock",Dublin,122500.0,No,Coolock,Dublin 5,q1,10%
+30/07/2013,"28 Ferrycarrig Avenue, Coolock",Dublin,110000.0,No,Coolock,Dublin 5,q1,10%
+18/08/2013,"3 Adare Park, Coolock",Dublin,99000.0,No,Coolock,Dublin 5,q1,10%
+23/08/2013,"45 Ferrycarrig Road, Coolock, Dublin 17",Dublin,80000.0,No,Coolock,Dublin 5,q1,10%
+17/09/2013,"5 Beechwood Park, Coolock, Dublin 5",Dublin,187500.0,No,Coolock,Dublin 5,q2,40%
+23/09/2013,"14 Bunratty Road, Coolock, Dublin 17",Dublin,115000.0,No,Coolock,Dublin 5,q1,10%
+03/10/2013,"42 Macroom Road, Coolock",Dublin,135000.0,No,Coolock,Dublin 5,q1,20%
+10/10/2013,"113 Cromcastle Road, Coolock, Dublin 5",Dublin,121000.0,No,Coolock,Dublin 5,q1,10%
+11/10/2013,"31 Greencastle Crescent, Coolock",Dublin,80000.0,No,Coolock,Dublin 5,q1,10%
+14/10/2013,"16 Ferrycarrig Avenue, Coolock",Dublin,128000.0,No,Coolock,Dublin 5,q1,20%
+14/10/2013,"36 Adare Drive, Coolock",Dublin,137000.0,No,Coolock,Dublin 5,q1,20%
+15/10/2013,"42 Chanel Road, Coolock",Dublin,305000.0,No,Coolock,Dublin 5,q4,90%
+16/10/2013,"45 Cromcastle Park, Coolock, Dublin 5",Dublin,125000.0,No,Coolock,Dublin 5,q1,20%
+18/10/2013,"18 Ballyshannon Road, Coolock",Dublin,143000.0,No,Coolock,Dublin 5,q1,20%
+18/10/2013,"188 Greencastle Road, Coolock",Dublin,115000.0,No,Coolock,Dublin 5,q1,10%
+22/10/2013,"77 Glinn Drive, Coolock",Dublin,125000.0,No,Coolock,Dublin 5,q1,20%
+25/10/2013,"15 Castletimon Avenue, Coolock, Dublin 5",Dublin,110785.0,No,Coolock,Dublin 5,q1,10%
+25/10/2013,"6 Beechpark Avenue, Coolock",Dublin,190000.0,No,Coolock,Dublin 5,q2,40%
+29/10/2013,"16 Eagle Park, Coolock, Dublin 5",Dublin,160000.0,No,Coolock,Dublin 5,q1,30%
+08/11/2013,"5 Ferrycarrig Avenue, Coolock, Dublin 17",Dublin,100000.0,No,Coolock,Dublin 5,q1,10%
+15/11/2013,"30 Adare Avenue, Coolock, Dublin",Dublin,112000.0,No,Coolock,Dublin 5,q1,10%
+18/11/2013,"86 Greencastle Road, Coolock",Dublin,132000.0,No,Coolock,Dublin 5,q1,20%
+04/12/2013,"16 Beechlawn Close, Coolock, Dublin 5",Dublin,265000.0,No,Coolock,Dublin 5,q3,70%
+05/12/2013,"18 St Brendans Park, Coolock, Dublin 5",Dublin,285000.0,No,Coolock,Dublin 5,q3,80%
+06/12/2013,"13 Ferrycarrig Road, Coolock, Dublin 17",Dublin,85000.0,No,Coolock,Dublin 5,q1,10%
+13/12/2013,"28 Castle Elms, Greencastle Road, Coolock",Dublin,88000.0,No,Coolock,Dublin 5,q1,10%
+19/12/2013,"140 Cromcastle Road, Coolock, Dublin 5",Dublin,130000.0,No,Coolock,Dublin 5,q1,20%
+19/12/2013,"24 Greencastle Crescent, Coolock, Dublin 17",Dublin,135000.0,No,Coolock,Dublin 5,q1,20%
+20/12/2013,"3 Eagle Park, Coolock, Dublin 5",Dublin,178000.0,No,Coolock,Dublin 5,q2,40%
+20/12/2013,"61 Kilbarron Avenue, Coolock, Dublin 5",Dublin,140000.0,No,Coolock,Dublin 5,q1,20%
+03/01/2014,"25 Beechlawn Ave, Woodville Estate, Coolock Dublin 5",Dublin,176666.0,No,Coolock,Dublin 5,q2,30%
+20/01/2014,"4 Cromcastle Green, Kilmore West, Coolock",Dublin,135000.0,No,Coolock,Dublin 5,q1,20%
+04/02/2014,"14 Greencastle Crescent, Coolock, Dublin 17",Dublin,124000.0,No,Coolock,Dublin 5,q1,20%
+27/02/2014,"46 Coolock Village, Dublin, Dublin",Dublin,117500.0,No,Coolock,Dublin 5,q1,10%
+20/03/2014,"10 Castle Elms, Coolock Dublin 17, Dublin",Dublin,128000.0,No,Coolock,Dublin 5,q1,20%
+28/03/2014,"7 Ferrycarrig Drive, Fairfield, Coolock",Dublin,120000.0,No,Coolock,Dublin 5,q1,10%
+03/04/2014,"133 Bunratty Rd, Coolock, Dublin 17",Dublin,135000.0,No,Coolock,Dublin 5,q1,20%
+04/04/2014,"30A Moatview Gardens, Coolock, Dublin 17",Dublin,80000.0,No,Coolock,Dublin 5,q1,10%
+15/04/2014,"21 Cromsastle Park, Kilmore West, Coolock",Dublin,125000.0,No,Coolock,Dublin 5,q1,20%
+24/04/2014,"47 Castlekevin Road, Coolock",Dublin,161000.0,No,Coolock,Dublin 5,q1,30%
+30/04/2014,"13 Measc Dr, Coolock, Dublin 5",Dublin,211500.0,No,Coolock,Dublin 5,q2,50%
+08/05/2014,"64 Bunratty Rd, Coolock, Dublin 17",Dublin,115000.0,No,Coolock,Dublin 5,q1,10%
+15/05/2014,"17 Moatfield Ave, Coolock, Dublin 5",Dublin,200000.0,No,Coolock,Dublin 5,q2,50%
+28/05/2014,"30 Barryscourt Rd, Coolock, Dublin 17",Dublin,147000.0,No,Coolock,Dublin 5,q1,30%
+03/06/2014,"29 Kilkee House, Clare Village, Coolock",Dublin,145000.0,No,Coolock,Dublin 5,q1,20%
+10/06/2014,"181 Ballyshannon Rd, Kilmore West, Coolock Dublin 5",Dublin,206000.0,No,Coolock,Dublin 5,q2,50%
+20/06/2014,"6 Brookville Pk, Coolock, Dublin 5",Dublin,535000.0,No,Coolock,Dublin 5,q4,100%
+26/06/2014,"13 Castle Elms, Greencastle Rd, Coolock Dublin 5",Dublin,143000.0,No,Coolock,Dublin 5,q1,20%
+26/06/2014,"27 Chanel Grove, Coolock",Dublin,207500.0,No,Coolock,Dublin 5,q2,50%
+27/06/2014,"46 Tonlegee Rd, Coolock, Dublin",Dublin,268000.0,No,Coolock,Dublin 5,q3,70%
+27/06/2014,"6 Glin Grove, Coolock, Dublin 17",Dublin,100000.0,No,Coolock,Dublin 5,q1,10%
+02/07/2014,"11 Macroom Road, Coolock, Dublin 5",Dublin,160000.0,No,Coolock,Dublin 5,q1,30%
+02/07/2014,"76 Macroom Rd, Coolock, Dublin 17",Dublin,175000.0,No,Coolock,Dublin 5,q2,30%
+08/07/2014,"57 Bunratty Avenue, Coolock, Dublin 5",Dublin,160000.0,No,Coolock,Dublin 5,q1,30%
+10/07/2014,"20 Glin Ave, Coolock, Dublin 17",Dublin,196000.0,No,Coolock,Dublin 5,q2,40%
+31/07/2014,"11A Brookville Pk, Coolock, Dublin 5",Dublin,420000.0,No,Coolock,Dublin 5,q4,100%
+05/08/2014,"29 St Brendans Dr, Coolock, Dublin 5",Dublin,387500.0,No,Coolock,Dublin 5,q4,100%
+06/08/2014,"27 Ballyshannon Road, Coolock",Dublin,223000.0,No,Coolock,Dublin 5,q2,50%
+08/08/2014,"20 St Brendans Terrace, Coolock, Dublin 5",Dublin,197000.0,No,Coolock,Dublin 5,q2,40%
+02/09/2014,"17 Eagle Park, Coolock, Dublin 5",Dublin,241000.0,No,Coolock,Dublin 5,q3,60%
+02/09/2014,"21 Adare Ave, Coolock, Dublin City",Dublin,198000.0,No,Coolock,Dublin 5,q2,40%
+05/09/2014,"34 Barryscourt Rd, Coolock, Dublin 17",Dublin,195000.0,No,Coolock,Dublin 5,q2,40%
+05/09/2014,"36 Chanel Rd, Coolock, Dublin 5",Dublin,374000.0,No,Coolock,Dublin 5,q4,100%
+10/09/2014,"15 Ballyshannon Avenue, Kilmore, Coolock",Dublin,189000.0,No,Coolock,Dublin 5,q2,40%
+12/09/2014,"40 Barryscourt Road, Coolock, Dublin",Dublin,189000.0,No,Coolock,Dublin 5,q2,40%
+29/09/2014,"9A Greencastle Avenue, Coolock, Dublin 17",Dublin,184000.0,No,Coolock,Dublin 5,q2,40%
+09/10/2014,"65 Chanel Road, Coolock",Dublin,295000.0,No,Coolock,Dublin 5,q4,80%
+10/10/2014,"15 Ballyshannon Avenue, Kilmore, Coolock",Dublin,170000.0,No,Coolock,Dublin 5,q2,30%
+24/10/2014,"116 St Brendans Ave, Coolock Dublin 5, Dublin",Dublin,240000.0,No,Coolock,Dublin 5,q3,60%
+28/10/2014,"29 Adare Park, Coolock, Dublin 5",Dublin,170000.0,No,Coolock,Dublin 5,q2,30%
+31/10/2014,"2 Moatview Avenue, Coolock, Dublin 17",Dublin,145000.0,No,Coolock,Dublin 5,q1,20%
+04/11/2014,"17 Moatfield Ave, Coolock, Dublin 5",Dublin,240000.0,No,Coolock,Dublin 5,q3,60%
+06/11/2014,"40 Moatview Gardens, Coolock, Dublin 17",Dublin,145000.0,No,Coolock,Dublin 5,q1,20%
+11/11/2014,"103 Macroon Road, Coolock",Dublin,102500.0,No,Coolock,Dublin 5,q1,10%
+17/11/2014,"12 Beechpark Ave, Coolock Village, Dublin 5",Dublin,157500.0,No,Coolock,Dublin 5,q1,30%
+20/11/2014,"96 Macroom Road, Coolock, Dublin 17",Dublin,185000.0,No,Coolock,Dublin 5,q2,40%
+21/11/2014,"35 Tonlegee Rd, Coolock, Dublin 5",Dublin,238000.0,No,Coolock,Dublin 5,q3,60%
+04/12/2014,"41 St Brendans Ave, Coolock, Dublin 5",Dublin,325000.0,No,Coolock,Dublin 5,q4,90%
+10/12/2014,"21 Belcam Crescent, Coolock",Dublin,120000.0,No,Coolock,Dublin 5,q1,10%
+10/12/2014,"6 Ennel Drve, Coolock, Dublin 5",Dublin,145000.0,No,Coolock,Dublin 5,q1,20%
+11/12/2014,"42 Ferrycarrig Rd, Coolock, Dublin 5",Dublin,205000.0,No,Coolock,Dublin 5,q2,50%
+19/12/2014,"63 Ferrycarrig Road, Coolock",Dublin,200000.0,No,Coolock,Dublin 5,q2,50%
+22/12/2014,"2 Castle Elms, Coolock, Dublin 17",Dublin,145000.0,No,Coolock,Dublin 5,q1,20%
+22/12/2014,"37 St Brendans Dr, Coolock, Dublin 5",Dublin,415000.0,No,Coolock,Dublin 5,q4,100%
+08/01/2015,"2 Beechlawn Grove, Coolock, Dublin 17",Dublin,292500.0,No,Coolock,Dublin 5,q4,80%
+16/01/2015,"66 Bunratty Rd, Coolock, Dublin 17",Dublin,185000.0,No,Coolock,Dublin 5,q2,40%
+20/01/2015,"28 Beechlawn Ave, Coolock, Dublin 5",Dublin,330000.0,No,Coolock,Dublin 5,q4,90%
+27/01/2015,"102 Greencastle Rd, Bonnybrook, Coolock Dublin 17",Dublin,190000.0,No,Coolock,Dublin 5,q2,40%
+29/01/2015,"36 Bunratty Ave, Coolock, Dublin 17",Dublin,177000.0,No,Coolock,Dublin 5,q2,30%
+30/01/2015,"14 Tonlegee Road, Coolock, Dublin 5",Dublin,251500.0,No,Coolock,Dublin 5,q3,70%
+30/01/2015,"6 Moatfield Avenue, Coolock, Dublin 5",Dublin,375000.0,No,Coolock,Dublin 5,q4,100%
+06/03/2015,"140 Cromcastle Road, Coolock, Dublin 5",Dublin,185000.0,No,Coolock,Dublin 5,q2,40%
+23/03/2015,"139 Tonlegee Rd, Coolock, Dublin 5",Dublin,150000.0,No,Coolock,Dublin 5,q1,30%
+24/03/2015,"20 Macroom Rd, Coolock, Dublin 17",Dublin,225000.0,No,Coolock,Dublin 5,q3,60%
+27/03/2015,"31 Moatfield Rd, Coolock, Dublin 5",Dublin,260000.0,No,Coolock,Dublin 5,q3,70%
+21/04/2015,"74 Hilbarron Rd, Kilmore West, Coolock",Dublin,235000.0,No,Coolock,Dublin 5,q3,60%
+27/04/2015,"10 St Brendans Dr, Coolock, Dublin 5",Dublin,430000.0,No,Coolock,Dublin 5,q4,100%
+29/04/2015,"16 Greencastle Dr, Coolock, Dublin 5",Dublin,198000.0,No,Coolock,Dublin 5,q2,40%
+27/05/2015,"34 The Park, Larchill Coolock, Dublin 5",Dublin,132500.0,No,Coolock,Dublin 5,q1,20%
+10/06/2015,"26 Beechlawn Close, Coolock, Dublin 5",Dublin,295000.0,No,Coolock,Dublin 5,q4,80%
+29/06/2015,"72 Macroom Road, Coolock, Dublin 17",Dublin,235000.0,No,Coolock,Dublin 5,q3,60%
+06/07/2015,"3 Macroom Ave, Coolock, Dublin 17",Dublin,190000.0,No,Coolock,Dublin 5,q2,40%
+15/07/2015,"49 Beechpark Court, Coolock, Dublin 5",Dublin,237500.0,No,Coolock,Dublin 5,q3,60%
+31/07/2015,"4 Greencastle Ave, Coolock, Dublin",Dublin,199000.0,No,Coolock,Dublin 5,q2,50%
+11/08/2015,"10 Moatfield Rd, Coolock, Dublin 5",Dublin,245000.0,No,Coolock,Dublin 5,q3,70%
+20/08/2015,"9 Tranquility Grove, Coolock, Dublin 5",Dublin,240000.0,No,Coolock,Dublin 5,q3,60%
+01/09/2015,"14 Ainninn Dr, Coolock, Dublin 5",Dublin,238000.0,No,Coolock,Dublin 5,q3,60%
+07/09/2015,"49 Ferrycarrig Dr, Fairfield Coolock, Dublin 17",Dublin,195000.0,No,Coolock,Dublin 5,q2,40%
+18/09/2015,"130 Macroom Rd, Coolock, Dublin 17",Dublin,216000.0,No,Coolock,Dublin 5,q2,50%
+22/09/2015,"82 St Brendan'S Avenue, Coolock, Dublin 5",Dublin,173333.0,No,Coolock,Dublin 5,q2,30%
+23/09/2015,"65 Kilbarron Park, Coolock, Dublin 5",Dublin,220000.0,No,Coolock,Dublin 5,q2,50%
+25/09/2015,"44 Castle Elms, Greenhill Road, Coolock",Dublin,145000.0,No,Coolock,Dublin 5,q1,20%
+29/09/2015,"50 Dundaniel Rd, Coolock Dublin 5, Dublin",Dublin,200000.0,No,Coolock,Dublin 5,q2,50%
+05/10/2015,"48 Bunratty Ave, Coolock, Dublin 17",Dublin,200100.0,No,Coolock,Dublin 5,q2,50%
+05/10/2015,"9 Moatfield Avenue, Coolock, Dublin 5",Dublin,230000.0,No,Coolock,Dublin 5,q3,60%
+09/10/2015,"403 Bunratty Road, Coolock",Dublin,209000.0,No,Coolock,Dublin 5,q2,50%
+21/10/2015,"4 St Brendans Park, Coolock, Dublin 5",Dublin,235000.0,No,Coolock,Dublin 5,q3,60%
+28/10/2015,"51 Coolock Dr, Dublin 17, Dublin",Dublin,182000.0,No,Coolock,Dublin 5,q2,40%
+16/11/2015,"22 Tonlegee Rd, Coolock, Dublin",Dublin,275000.0,No,Coolock,Dublin 5,q3,80%
+11/12/2015,"23 Greencastle Crescent, Coolock, Dublin 17",Dublin,204500.0,No,Coolock,Dublin 5,q2,50%
+15/12/2015,"26 Cromcastle Green, Kilmore West, Coolock",Dublin,245000.0,No,Coolock,Dublin 5,q3,70%
+15/12/2015,"32 Kilmore Avenue, Coolock, Dublin 5",Dublin,315000.0,No,Coolock,Dublin 5,q4,90%
+23/12/2015,"81A Adare Rd, Coolock, Dublin 17",Dublin,240000.0,No,Coolock,Dublin 5,q3,60%
+08/01/2016,"114A Ballyshannon Road, Coolock, Dublin 5",Dublin,265000.0,No,Coolock,Dublin 5,q3,70%
+08/01/2016,"3 Glin Park, Coolock, Dublin 5",Dublin,170000.0,No,Coolock,Dublin 5,q2,30%
+22/01/2016,"120 Macroom Road, Coolock, Dublin 5",Dublin,195000.0,No,Coolock,Dublin 5,q2,40%
+29/01/2016,"24 Glin Grove, Coolock, Dublin 17",Dublin,170000.0,No,Coolock,Dublin 5,q2,30%
+12/02/2016,"63 Tonlegee Rd, Coolock, Dublin 5",Dublin,321000.0,No,Coolock,Dublin 5,q4,90%
+15/02/2016,"59 Moatfield Rd, Coolock, Dublin 5",Dublin,250000.0,No,Coolock,Dublin 5,q3,70%
+22/02/2016,"28 Lein Gardens, Coolock, Dublin 5",Dublin,253000.0,No,Coolock,Dublin 5,q3,70%
+22/02/2016,"8 Limewood Rd, Cameron Estate, Coolock Dublin 5",Dublin,300000.0,No,Coolock,Dublin 5,q4,90%
+04/03/2016,"4 Glin Park, Coolock, Dublin 17",Dublin,190000.0,No,Coolock,Dublin 5,q2,40%
+10/03/2016,"1 Armstrong Walk, Coolock, Dublin 5",Dublin,270000.0,No,Coolock,Dublin 5,q3,70%
+10/03/2016,"32 Ennel Dr, Coolock, Dublin 5",Dublin,186000.0,No,Coolock,Dublin 5,q2,40%
+15/03/2016,"31 Macroom Ave, Coolock, Dublin 5",Dublin,200000.0,No,Coolock,Dublin 5,q2,50%
+16/03/2016,"16 Rathvale Drive, Coolock, Dublin 5",Dublin,160000.0,No,Coolock,Dublin 5,q1,30%
+30/03/2016,"17C Greencastle Avenue, Coolock, Dublin 5",Dublin,145000.0,No,Coolock,Dublin 5,q1,20%
+04/04/2016,"75 St Brendans Ave, Coolock, Dublin 5",Dublin,295000.0,No,Coolock,Dublin 5,q4,80%
+08/05/2016,"36 Cromcastle Drive, Kilmore West, Coolock",Dublin,215000.0,No,Coolock,Dublin 5,q2,50%
+13/05/2016,"31 Bunratty Rd, Coolock, Dublin 17",Dublin,180000.0,No,Coolock,Dublin 5,q2,40%
+20/05/2016,"18 Castlekevin Rd, Coolock, Dublin 5",Dublin,220000.0,No,Coolock,Dublin 5,q2,50%
+10/06/2016,"55 Macroom Rd, Coolock, Dublin 17",Dublin,185000.0,No,Coolock,Dublin 5,q2,40%
+15/06/2016,"15 Coolock Dr, Coolock, Dublin",Dublin,234000.0,No,Coolock,Dublin 5,q3,60%
+16/06/2016,"56 Greencastle Avenue, Coolock, Dublin 17",Dublin,205000.0,No,Coolock,Dublin 5,q2,50%
+21/06/2016,"52 The Green, Larch Hill, Coolock Dublin 17",Dublin,173000.0,No,Coolock,Dublin 5,q2,30%
+24/06/2016,"22 Ferrycarrig Rd, Coolock, Dublin 17",Dublin,200000.0,No,Coolock,Dublin 5,q2,50%
+08/08/2016,"6 Beechpark Court, Coolock, Dublin 5",Dublin,180000.0,No,Coolock,Dublin 5,q2,40%
+23/08/2016,"35 Kilmore Close, Coolock, Dublin 5",Dublin,300000.0,No,Coolock,Dublin 5,q4,90%
+01/09/2016,"27 Primrose Grove, Coolock Dublin 17, Dublin",Dublin,143594.0,No,Coolock,Dublin 5,q1,20%
+05/09/2016,"56 Greencastle Crescent, Coolock, Dublin 17",Dublin,199000.0,No,Coolock,Dublin 5,q2,50%
+09/09/2016,"1 Chanel Grove, Coolock, Dublin 5",Dublin,287000.0,No,Coolock,Dublin 5,q3,80%
+09/09/2016,"81 Glin Dr, Coolock, Dublin 17",Dublin,235000.0,No,Coolock,Dublin 5,q3,60%
+12/09/2016,"8 Adare Park, Coolock, Dublin 17",Dublin,230000.0,No,Coolock,Dublin 5,q3,60%
+22/09/2016,"62 Kilbarron Ave, Coolock, Dublin 5",Dublin,200000.0,No,Coolock,Dublin 5,q2,50%
+26/09/2016,"23 Beechlawn Ave, Coolock, Dublin 5",Dublin,320000.0,No,Coolock,Dublin 5,q4,90%
+05/10/2016,"1 Woodville Court, Coolock, Dublin 5",Dublin,250000.0,No,Coolock,Dublin 5,q3,70%
+07/10/2016,"15 Cromcastle Rd, Kilmore West, Coolock Dublin 5",Dublin,190000.0,No,Coolock,Dublin 5,q2,40%
+10/10/2016,"26 Ballyshannon Rd, Coolock, Dublin 5",Dublin,235000.0,No,Coolock,Dublin 5,q3,60%
+12/10/2016,"Apt 6 Chanel Court, Chanel Road, Coolock",Dublin,720000.0,No,Coolock,Dublin 5,q4,100%
+21/10/2016,"47 Castle Elms Court, Greencastle Rd, Coolock Dublin 17",Dublin,152000.0,No,Coolock,Dublin 5,q1,30%
+28/10/2016,"112 St Brendan'S Avenue, Coolock, Dublin 5",Dublin,285000.0,No,Coolock,Dublin 5,q3,80%
+01/11/2016,"5 Castletimon Park, Coolock Dublin 5, Dublin",Dublin,218500.0,No,Coolock,Dublin 5,q2,50%
+08/11/2016,"43 Kilbarron Ave, Coolock Dublin 5, Dublin",Dublin,212000.0,No,Coolock,Dublin 5,q2,50%
+23/11/2016,"67 Castletimon Rd, Coolock, Dublin 17",Dublin,230000.0,No,Coolock,Dublin 5,q3,60%
+29/11/2016,"10 Chanel Grove, Coolock, Dublin 5",Dublin,335000.0,No,Coolock,Dublin 5,q4,90%
+30/11/2016,"12 The Park Larchill, Oscar Traynor Rd, Coolock",Dublin,167000.0,No,Coolock,Dublin 5,q2,30%
+30/11/2016,"8 Castle Elms, Greencastle Rd, Coolock Dublin 17",Dublin,180000.0,No,Coolock,Dublin 5,q2,40%
+07/12/2016,"Apt. 57 Block B, Castle Elms Court, Greencastle Road Coolock",Dublin,155000.0,No,Coolock,Dublin 5,q1,30%
+09/12/2016,"35 Castletimon Ave, Coolock, Dublin 5",Dublin,180000.0,No,Coolock,Dublin 5,q2,40%
+09/12/2016,"35 Castletimon Ave, Coolock, Dublin 5",Dublin,40000.0,No,Coolock,Dublin 5,q1,10%
+13/12/2016,"33 St Brendans Ave, Coolock, Dublin 5",Dublin,420000.0,No,Coolock,Dublin 5,q4,100%
+14/12/2016,"44 Bunratty Ave, Coolock, Dublin 17",Dublin,180000.0,No,Coolock,Dublin 5,q2,40%
+21/12/2016,"5 Macroom Ave, Coolock, Dublin 17",Dublin,195000.0,No,Coolock,Dublin 5,q2,40%
+22/12/2016,"44 Rathvale Dr, Coolock, Dublin 13",Dublin,170000.0,No,Coolock,Dublin 5,q2,30%
+22/12/2016,"52 Castle Elms Court, Castle Elms, Coolock Dublin 17",Dublin,155000.0,No,Coolock,Dublin 5,q1,30%
+06/01/2017,"10A Moatfield Rd, Coolock, Dublin 5",Dublin,285000.0,No,Coolock,Dublin 5,q3,80%
+09/01/2017,"17 Bunratty Ave, Coolock, Dublin 17",Dublin,230000.0,No,Coolock,Dublin 5,q3,60%
+13/01/2017,"59A Moutfield Rd, Coolock, Dublin 5",Dublin,171000.0,No,Coolock,Dublin 5,q2,30%
+23/02/2017,"34 St Brendans Park, Coolock, Dublin 5",Dublin,350000.0,No,Coolock,Dublin 5,q4,90%
+10/03/2017,"3 Greencastle Dr, Coolock, Dublin 17",Dublin,255000.0,No,Coolock,Dublin 5,q3,70%
+24/03/2017,"12 St Brendans Dr, Coolock, Dublin 5",Dublin,380000.0,No,Coolock,Dublin 5,q4,100%
+04/04/2017,"70 Chanel Rd, Coolock, Dublin 5",Dublin,290000.0,No,Coolock,Dublin 5,q4,80%
+12/04/2017,"26 Tonlegee Rd, Coolock, Dublin 5",Dublin,304000.0,No,Coolock,Dublin 5,q4,90%
+12/04/2017,"70A Ferrycarrig Rd, Coolock Dublin 5, Dublin",Dublin,225000.0,No,Coolock,Dublin 5,q3,60%
+26/04/2017,"93 Cromcastle Rd, Kilmore West, Coolock Dublin 5",Dublin,245000.0,No,Coolock,Dublin 5,q3,70%
+28/04/2017,"69 Kilbarron Park, Coolock Dublin 5, Dublin",Dublin,231000.0,No,Coolock,Dublin 5,q3,60%
+03/05/2017,"51 Beechpark Court, Coolock, Dublin",Dublin,265000.0,No,Coolock,Dublin 5,q3,70%
+09/05/2017,"1 Kilbarron Rd, Coolock, Dublin",Dublin,240000.0,No,Coolock,Dublin 5,q3,60%
+12/05/2017,"59 Moatfield Rd, Coolock, Dublin 5",Dublin,287000.0,No,Coolock,Dublin 5,q4,80%
+26/05/2017,"60 Bunratty Dr, Coolock, Dublin 17",Dublin,220000.0,No,Coolock,Dublin 5,q2,50%
+02/06/2017,"49 Limewood Ave, Coolock, Dublin 5",Dublin,310000.0,No,Coolock,Dublin 5,q4,90%
+07/06/2017,"49 Kilbarron Park, Coolock, Dublin City",Dublin,243000.0,No,Coolock,Dublin 5,q3,70%
+29/06/2017,"13 Glenwood Rd, Coolock, Dublin",Dublin,310000.0,No,Coolock,Dublin 5,q4,90%
+30/06/2017,"43 Adare Green, Coolock, Dublin 17",Dublin,142745.0,No,Coolock,Dublin 5,q1,20%
+05/07/2017,"27 Adare Green, Coolock, Dublin 17",Dublin,160000.0,No,Coolock,Dublin 5,q1,30%
+12/07/2017,"22 Limewood Ave, Cameron Park, Coolock Dublin 5",Dublin,342000.0,No,Coolock,Dublin 5,q4,90%
+14/07/2017,"24 Ferrycarrig Rd, Coolock, Dublin 17",Dublin,216000.0,No,Coolock,Dublin 5,q2,50%
+31/07/2017,"8Glencresent, Coolock, Dublin 5",Dublin,160000.0,No,Coolock,Dublin 5,q1,30%
+04/08/2017,"165 Bunratty Rd, Coolock, Dublin 17",Dublin,225000.0,No,Coolock,Dublin 5,q3,60%
+10/08/2017,"15 Moatfield Ave, Coolock, Dublin 5",Dublin,280000.0,No,Coolock,Dublin 5,q3,80%
+18/08/2017,"45 Dundaniel Rd, Coolock Dublin 5, Dublin",Dublin,245000.0,No,Coolock,Dublin 5,q3,70%
+24/08/2017,"98 St Brendans Ave, Coolock, Dublin 5",Dublin,295000.0,No,Coolock,Dublin 5,q4,80%
+31/08/2017,"168 Kilmore Rd, Coolock, Dublin 5",Dublin,320000.0,No,Coolock,Dublin 5,q4,90%
+01/09/2017,"88 Castletimon Rd, Coolock, Dublin 5",Dublin,240000.0,No,Coolock,Dublin 5,q3,60%
+13/09/2017,"137 Kilbarron Rd, Coolock, Dublin 5",Dublin,30000.0,No,Coolock,Dublin 5,q1,10%
+15/09/2017,"46 Ceide Ainninn, Coolock, Dublin 5",Dublin,265000.0,No,Coolock,Dublin 5,q3,70%
+28/09/2017,"8 Greencastle Ave, Coolock, Dublin 17",Dublin,217000.0,No,Coolock,Dublin 5,q2,50%
+03/10/2017,"13 Brookville Park, Coolock, Dublin 5",Dublin,372652.0,No,Coolock,Dublin 5,q4,100%
+11/10/2017,"32 Glin Road, Coolock, Dublin 17",Dublin,210000.0,No,Coolock,Dublin 5,q2,50%
+18/10/2017,"10 Measc Rd, Coolock, Dublin 5",Dublin,425000.0,No,Coolock,Dublin 5,q4,100%
+23/10/2017,"2 Cromcastle Dr, Coolock, Dublin 5",Dublin,162269.57,No,Coolock,Dublin 5,q1,30%
+31/10/2017,"2 Macroom Road, Coolock, Dublin 17",Dublin,250000.0,No,Coolock,Dublin 5,q3,70%
+03/11/2017,"110 Macroom Rd, Coolock, Dublin 17",Dublin,241000.0,No,Coolock,Dublin 5,q3,60%
+07/11/2017,"57 Moatfield Rd, Coolock, Dublin 5",Dublin,355000.0,No,Coolock,Dublin 5,q4,90%
+08/11/2017,"7 Moatfield Park, St Breandans Estate, Coolock Dublin 5",Dublin,325000.0,No,Coolock,Dublin 5,q4,90%
+13/11/2017,"18 Barryscourt Road, Coolock, Dublin 5",Dublin,225000.0,No,Coolock,Dublin 5,q3,60%
+17/11/2017,"81 Bunratty Rd, Coolock, Dublin 5",Dublin,215000.0,No,Coolock,Dublin 5,q2,50%
+28/11/2017,"1 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"10 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"11 Chanel Manor, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"12 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"13 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"14 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"15 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"16 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"2 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"3 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"4 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"5 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"6 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"7 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"8 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+28/11/2017,"9 Chanel Manor Close, Coolock",Dublin,425000.0,Yes,Coolock,Dublin 5,q4,100%
+01/12/2017,"3 Adare Park, Coolock Dublin 17, Dublin",Dublin,320000.0,No,Coolock,Dublin 5,q4,90%
+05/12/2017,"30 Moatview Dr, Priorsewood, Coolock Dublin 17",Dublin,200000.0,No,Coolock,Dublin 5,q2,50%
+15/12/2017,"8 Ballyshannon Ave, Kilmore West, Coolock Dublin 5",Dublin,295000.0,No,Coolock,Dublin 5,q4,80%
+18/12/2017,"13 Moatfield Park, St Brendan Estate, Coolock",Dublin,322500.0,No,Coolock,Dublin 5,q4,90%
+18/12/2017,"19 Greencastle Crescent, Coolock, Dublin 17",Dublin,180000.0,No,Coolock,Dublin 5,q2,40%
+19/12/2017,"9 Measc Drive, Coolock, Dublin 5",Dublin,298000.0,No,Coolock,Dublin 5,q4,80%
+03/01/2018,"61 Cromcastle Rd, Kilmore West, Coolock Dublin 5",Dublin,302500.0,No,Coolock,Dublin 5,q4,90%
+12/01/2018,"19 Green Castle Ave, Coolock, Dublin 17",Dublin,235000.0,No,Coolock,Dublin 5,q3,60%
+17/01/2018,"37 Glin Grove, Coolock, Dublin 17",Dublin,273000.0,No,Coolock,Dublin 5,q3,80%
+26/01/2018,"64 Rathvale Dr, Coolock, Dublin 13",Dublin,227000.0,No,Coolock,Dublin 5,q3,60%
+05/02/2018,"17A Cromcastle Rd, Kilmore West, Coolock Dublin 5",Dublin,310000.0,No,Coolock,Dublin 5,q4,90%
+07/02/2018,"13 Macroom Ave, Coolock Dublin 17, Dublin",Dublin,196000.0,No,Coolock,Dublin 5,q2,40%
+13/02/2018,"3 Oscar Traynor Road, Coolock, Dublin 17",Dublin,190000.0,No,Coolock,Dublin 5,q2,40%
+05/03/2018,"23 Kilbarron Ave, Kilmore West, Coolock Dublin 5",Dublin,300000.0,No,Coolock,Dublin 5,q4,90%
+14/03/2018,"115 Kilbarron Rd, Kilmore West, Coolock Dublin 5",Dublin,223032.0,No,Coolock,Dublin 5,q3,60%
+20/03/2018,"12 The Crescent, Larchill, Coolock Lane",Dublin,190264.0,No,Coolock,Dublin 5,q2,40%
+20/03/2018,"33 Chanel Ave, Coolock, Dublin 5",Dublin,340000.0,No,Coolock,Dublin 5,q4,90%
+28/03/2018,"3 Castle Elms, Greencastle Rd, Coolock Dublin 17",Dublin,223000.0,No,Coolock,Dublin 5,q3,60%
+05/04/2018,"16 Glin Ave, Coolock, Dublin 5",Dublin,240000.0,No,Coolock,Dublin 5,q3,60%
+06/04/2018,"1 Castletimon Gardens, Coolock, Dublin 5",Dublin,275000.0,No,Coolock,Dublin 5,q3,80%
+16/04/2018,"30 Ferrycarrig Ave, Coolock Dublin 17, Dublin",Dublin,208333.33,No,Coolock,Dublin 5,q2,50%
+20/04/2018,"68 Brookville Park, Coolock, Dublin 5",Dublin,355000.0,No,Coolock,Dublin 5,q4,90%
+24/04/2018,"25 St Brendans Tce, Coolock Village, Dublin",Dublin,320000.0,No,Coolock,Dublin 5,q4,90%
+27/04/2018,"7 St Brendans Terrace, Coolock, Dublin 5",Dublin,338000.0,No,Coolock,Dublin 5,q4,90%
+11/05/2018,"27 Chanel Grove, Coolock, Dublin 5",Dublin,382500.0,No,Coolock,Dublin 5,q4,100%
+11/05/2018,"5 Woodlawn Way, Coolock Lane, Dublin 17",Dublin,350000.0,No,Coolock,Dublin 5,q4,90%
+11/06/2018,"19 Greencastle Crescent, Coolock, Dublin 17",Dublin,245000.0,No,Coolock,Dublin 5,q3,70%
+13/06/2018,"13 Tranquility Grove, Woodville Park, Coolock",Dublin,385000.0,Yes,Coolock,Dublin 5,q4,100%
+19/06/2018,"23 St Brendans Park, Coolock, Dublin 5",Dublin,395000.0,No,Coolock,Dublin 5,q4,100%
+22/06/2018,"Apartment 56 The Green, Larch Hill, Coolock",Dublin,191000.0,No,Coolock,Dublin 5,q2,40%
+28/06/2018,"337 Bunratty Road, Coolock, Dublin 17",Dublin,251500.0,No,Coolock,Dublin 5,q3,70%
+09/07/2018,"4 Kilbarron Dr, Kilmore West, Coolock Dublin 5",Dublin,225000.0,No,Coolock,Dublin 5,q3,60%
+13/07/2018,"11 Castletimon Ave, Coolock, Dublin",Dublin,290000.0,No,Coolock,Dublin 5,q4,80%
+18/07/2018,"Apartment 72 Brookville Park, Coolock, Dublin 17",Dublin,220000.0,No,Coolock,Dublin 5,q2,50%
+03/08/2018,"51 Castletimon Road, Coolock, Dublin 5",Dublin,243500.0,No,Coolock,Dublin 5,q3,70%
+22/08/2018,"95 Cromcastle Rd, Coolock, Dublin 5",Dublin,250000.0,No,Coolock,Dublin 5,q3,70%
+23/08/2018,"21 Cromcastle Drive, Kilmore West, Coolock",Dublin,246249.0,No,Coolock,Dublin 5,q3,70%
+23/08/2018,"22 Ferrycarrig Rd, Coolock, Dublin 17",Dublin,235000.0,No,Coolock,Dublin 5,q3,60%
+27/08/2018,"Apt1 Castle Elms Court, Greencastle Road, Coolock",Dublin,168000.0,No,Coolock,Dublin 5,q2,30%
+30/08/2018,"26 Glin Dr, Coolock, Dublin 17",Dublin,290055.0,No,Coolock,Dublin 5,q4,80%
+11/09/2018,"47 St Brendans Park, Coolock, Dublin 5",Dublin,385000.0,No,Coolock,Dublin 5,q4,100%
+14/09/2018,"15A Cromcastle Rd, Coolock, Dublin 5",Dublin,345000.0,No,Coolock,Dublin 5,q4,90%
+19/09/2018,"58 Kilbarron Ave, Kilmore West, Coolock Dublin 5",Dublin,245000.0,No,Coolock,Dublin 5,q3,70%
+26/09/2018,"5 Kilbarron Park, Coolock, Dublin 5",Dublin,252000.0,No,Coolock,Dublin 5,q3,70%
+05/10/2018,"2 Macroom Avenue, Coolock, Dublin 17",Dublin,225000.0,No,Coolock,Dublin 5,q3,60%
+08/10/2018,"84 Ferrycarrig Rd, Coolock, Dublin 17",Dublin,252000.0,No,Coolock,Dublin 5,q3,70%
+08/10/2018,"Apt 1 Above Centra, Oscar Traynor Rd, Coolock Dublin 17",Dublin,435715.0,No,Coolock,Dublin 5,q4,100%
+08/10/2018,"Apt 4 Above Centra, Oscar Traynor Road, Coolock",Dublin,145250.0,No,Coolock,Dublin 5,q1,20%
+11/10/2018,"39 Dunree Park, Coolock, Dublin 5",Dublin,364000.0,No,Coolock,Dublin 5,q4,90%
+12/10/2018,"50 Coolock Village, Coolock, Dublin 5",Dublin,210000.0,No,Coolock,Dublin 5,q2,50%
+15/10/2018,"143 Kilbarron Rd, Kilmore West, Coolock Dublin 5",Dublin,270000.0,No,Coolock,Dublin 5,q3,70%
+17/10/2018,"106 Castletimon Rd, Coolock, Dublin 5",Dublin,295000.0,No,Coolock,Dublin 5,q4,80%
+01/11/2018,"63 Bunratty Rd, Coolock, Dublin 17",Dublin,210000.0,No,Coolock,Dublin 5,q2,50%
+09/11/2018,"9 Beechlawn Ave, Coolock, Dublin 5",Dublin,320000.0,No,Coolock,Dublin 5,q4,90%
+13/11/2018,"37 Rathvale Ave, Coolock, Dublin 13",Dublin,350000.0,No,Coolock,Dublin 5,q4,90%
+16/11/2018,"23 Kilbarron Park, Coolock, Dublin 5",Dublin,285000.0,No,Coolock,Dublin 5,q3,80%
+20/11/2018,"12 The Crescent, Larchill, Coolock Lane",Dublin,216000.0,No,Coolock,Dublin 5,q2,50%
+21/11/2018,"67 Adare Rd, Coolock, Dublin 17",Dublin,260000.0,No,Coolock,Dublin 5,q3,70%
+23/11/2018,"31 St Brendans Park, Coolock, Dublin 5",Dublin,395000.0,No,Coolock,Dublin 5,q4,100%
+23/11/2018,"54 & 54A Kilbarron Rd, Coolock, Dublin 5",Dublin,439652.0,No,Coolock,Dublin 5,q4,100%
+04/12/2018,"17 Macroom Rd, Coolock, Dublin 5",Dublin,240000.0,No,Coolock,Dublin 5,q3,60%
+07/12/2018,"6A Glin Park, Coolock, Dublin 5",Dublin,254000.0,No,Coolock,Dublin 5,q3,70%
+20/12/2018,"1 Chanel Grove, Coolock, Dublin 5",Dublin,285000.0,No,Coolock,Dublin 5,q3,80%
+21/12/2018,"98 Cromcastle Rd, Coolock, Dublin 5",Dublin,290000.0,No,Coolock,Dublin 5,q4,80%
+17/01/2019,"84 St Brendans Ave, Coolock, Dublin 5",Dublin,362000.0,No,Coolock,Dublin 5,q4,90%
+05/02/2019,"4 Castlekevin Rd, Coolock, Dublin 5",Dublin,273000.0,No,Coolock,Dublin 5,q3,80%
+01/03/2019,"159 Kilbarron Rd, Coolock, Dublin",Dublin,260000.0,No,Coolock,Dublin 5,q3,70%
+04/03/2019,"34 Brookville Park, Coolock, Dublin 5",Dublin,200000.0,No,Coolock,Dublin 5,q2,50%
+07/03/2019,"18 Ballyshannon Ave, Coolock, Dublin 5",Dublin,255000.0,No,Coolock,Dublin 5,q3,70%
+07/03/2019,"3 Royal Oak Cottage, Coolock Lane, Dublin 17",Dublin,285000.0,No,Coolock,Dublin 5,q3,80%
+08/03/2019,"63 Kilbarron Avenue, Coolock, Dublin 5",Dublin,213581.82,No,Coolock,Dublin 5,q2,50%
+12/03/2019,"28 St Brendans Park, Coolock, Dublin",Dublin,425000.0,No,Coolock,Dublin 5,q4,100%
+20/03/2019,"32C Glin Dr, Coolock, Dublin 17",Dublin,275000.0,No,Coolock,Dublin 5,q3,80%
+26/03/2019,"11 Castlekevin Rd, Kilmore, Coolock",Dublin,272000.0,No,Coolock,Dublin 5,q3,80%
+01/04/2019,"10F Glin Park, Coolock, Dublin 17",Dublin,190025.0,No,Coolock,Dublin 5,q2,40%
+01/04/2019,"35 Glin Drive, Coolock, Dublin 17",Dublin,270000.0,No,Coolock,Dublin 5,q3,80%
+12/04/2019,"79A Adare Road, Coolock, Dublin 17",Dublin,265000.0,No,Coolock,Dublin 5,q3,70%
+15/04/2019,"29 Adare Green, Coolock, Dublin 17",Dublin,245000.0,No,Coolock,Dublin 5,q3,70%
+16/04/2019,"38 St Brendans Drive, Coolock, Dublin 5",Dublin,455000.0,No,Coolock,Dublin 5,q4,100%
+26/04/2019,"55 Ferrycarrig Rd, Coolock, Dublin 17",Dublin,265000.0,No,Coolock,Dublin 5,q3,70%
+17/05/2019,"134 Greencastle Rd, Coolock, Dublin 17",Dublin,285000.0,No,Coolock,Dublin 5,q3,80%
+17/05/2019,"48 Beechpark Court, Coolock, Dublin",Dublin,157500.0,No,Coolock,Dublin 5,q1,30%
+24/05/2019,"15 Beechlawn Close, Coolock, Dublin 5",Dublin,360000.0,No,Coolock,Dublin 5,q4,90%
+05/06/2019,"21 St Brendans Dr, Coolock, Dublin 5",Dublin,440000.0,No,Coolock,Dublin 5,q4,100%
+04/07/2019,"239 Bunratty Road, Coolock, Dublin 17",Dublin,195000.0,No,Coolock,Dublin 5,q2,40%
+04/07/2019,"37 Ballyshannon Avenue, Coolock, Dublin 5",Dublin,290000.0,No,Coolock,Dublin 5,q4,80%
+10/07/2019,"32 Castletimon Ave, Coolock, Dublin 5",Dublin,320000.0,No,Coolock,Dublin 5,q4,90%
+19/07/2019,"10A Kilbarron Rd, Coolock, Dublin 5",Dublin,298000.0,No,Coolock,Dublin 5,q4,80%
+27/07/2019,"36 Beechlawn Grove, Coolock Dublin 5, Dublin",Dublin,385000.0,No,Coolock,Dublin 5,q4,100%
+02/08/2019,"6 Ballyshannon Ave, Coolock, Dublin 5",Dublin,297000.0,No,Coolock,Dublin 5,q4,80%
+08/08/2019,"47 Kilmore Dr, Coolock, Dublin 5",Dublin,325000.0,No,Coolock,Dublin 5,q4,90%
+14/08/2019,"198 Kilmore Rd, Coolock, Dublin",Dublin,120000.0,No,Coolock,Dublin 5,q1,10%
+14/08/2019,"22 The Park, Larchill, Coolock Dublin",Dublin,210000.0,No,Coolock,Dublin 5,q2,50%
+15/08/2019,"10 Castlekevin Rd, Coolock Dublin 5, Dublin",Dublin,273000.0,No,Coolock,Dublin 5,q3,80%
+22/08/2019,"6 Adare Dr, Coolock, Dublin 17",Dublin,245000.0,No,Coolock,Dublin 5,q3,70%
+29/08/2019,"15 Chanel Grove, Coolock, Dublin 5",Dublin,383000.0,No,Coolock,Dublin 5,q4,100%
+03/09/2019,"126 Ballyshannon Rd, Coolock, Dublin 5",Dublin,287000.0,No,Coolock,Dublin 5,q4,80%
+05/09/2019,"14 Castle Timon Drive, Coolock, Dublin 5",Dublin,255000.0,No,Coolock,Dublin 5,q3,70%
+18/09/2019,"54 Castle Elms Court, Greencastle Rd, Coolock Dublin 17",Dublin,246500.0,No,Coolock,Dublin 5,q3,70%
+09/10/2019,"13 Castletimon Green, Coolock, Dublin 5",Dublin,308000.0,No,Coolock,Dublin 5,q4,90%

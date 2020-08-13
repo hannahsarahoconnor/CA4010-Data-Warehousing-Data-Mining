@@ -1,0 +1,157 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+10/03/2010,"69 Mount Oliver Road, Kilbarrack, Dublin 5",Dublin,200000.0,No,Kilbarrack,Dublin 5,q2,30%
+21/05/2010,"21 Mount Olive Park, Kilbarrack",Dublin,63750.0,No,Kilbarrack,Dublin 5,q1,10%
+02/07/2010,"8 Berach Lodge, Kilbarrack Road",Dublin,340000.0,No,Kilbarrack,Dublin 5,q4,90%
+28/07/2010,"7 Thornville Road, Kilbarrack, Dublin 13",Dublin,205000.0,No,Kilbarrack,Dublin 5,q2,30%
+30/07/2010,"209 Kilbarrack Road, Dublin 5",Dublin,285000.0,No,Kilbarrack,Dublin 5,q3,70%
+04/08/2010,"4 Thornville Avenue, Kilbarrack, Dublin 13",Dublin,371000.0,No,Kilbarrack,Dublin 5,q4,90%
+17/08/2010,"97 Kilbarrack Road, Kilbarrack",Dublin,280000.0,No,Kilbarrack,Dublin 5,q3,70%
+25/01/2011,"16 Briarfield Road, Kilbarrack",Dublin,196000.0,No,Kilbarrack,Dublin 5,q2,30%
+04/03/2011,"4 Sarto Road, Kilbarrack",Dublin,425000.0,No,Kilbarrack,Dublin 5,q4,100%
+19/05/2011,"6  Berach Lodge, Kilbarrack Road",Dublin,260000.0,No,Kilbarrack,Dublin 5,q3,60%
+19/07/2011,"25 Briarfield Grove, Kilbarrack, Dublin 5",Dublin,200000.0,No,Kilbarrack,Dublin 5,q2,30%
+05/10/2011,"69 Thornville Road, Kilbarrack, Dublin 5",Dublin,153000.0,No,Kilbarrack,Dublin 5,q1,20%
+21/11/2011,"1 Alden Road, Kilbarrack, Dublin",Dublin,220000.0,No,Kilbarrack,Dublin 5,q2,40%
+09/12/2011,"67 Kilbarrack Road, Dublin 5",Dublin,320000.0,No,Kilbarrack,Dublin 5,q4,80%
+20/12/2011,"17 Thornville Avenue, Kilbarrack",Dublin,180000.0,No,Kilbarrack,Dublin 5,q1,30%
+12/03/2012,"84A  Millbrook Avenue, Kilbarrack",Dublin,192000.0,No,Kilbarrack,Dublin 5,q1,30%
+19/06/2012,"10 Kilbarrack Road, Kilbarrack",Dublin,303000.0,No,Kilbarrack,Dublin 5,q3,80%
+20/07/2012,"7 Briarfield Grove, Kilbarrack, Dublin 5",Dublin,95000.0,No,Kilbarrack,Dublin 5,q1,10%
+20/08/2012,"51 Briarfield Road, Kilbarrack, Dubln 5",Dublin,115000.0,No,Kilbarrack,Dublin 5,q1,10%
+30/08/2012,"86B Briarfield Road, Kilbarrack",Dublin,142235.77,Yes,Kilbarrack,Dublin 5,q1,20%
+07/09/2012,"86A Briarfield Road, Kilbarrack",Dublin,140000.0,Yes,Kilbarrack,Dublin 5,q1,20%
+11/10/2012,"43 Thornville Avenue, Kilbarrack",Dublin,110000.0,No,Kilbarrack,Dublin 5,q1,10%
+17/10/2012,"10 Belfry, Kilbarrack Road, Kilbarrack",Dublin,174000.0,No,Kilbarrack,Dublin 5,q1,20%
+12/11/2012,"27 Mount Olive Grove, Kilbarrack, Dublin 5",Dublin,120000.0,No,Kilbarrack,Dublin 5,q1,10%
+27/11/2012,"31 Briarfield Road, Kilbarrack",Dublin,107000.0,No,Kilbarrack,Dublin 5,q1,10%
+30/11/2012,"161 Millbrook Avenue, Kilbarrack, Dublin 5",Dublin,112500.0,No,Kilbarrack,Dublin 5,q1,10%
+18/12/2012,"58A, Kilbarrack Road, Dublin 5",Dublin,280000.0,No,Kilbarrack,Dublin 5,q3,70%
+08/01/2013,"7 Kilbarrack Gardens, Dublin 5",Dublin,410000.0,No,Kilbarrack,Dublin 5,q4,100%
+11/02/2013,"7 The Belfry, Kilbarrack",Dublin,95000.0,No,Kilbarrack,Dublin 5,q1,10%
+22/03/2013,"46 Greendale Road, Kilbarrack",Dublin,125000.0,No,Kilbarrack,Dublin 5,q1,20%
+28/03/2013,"7 Kilbarrack Road, Dublin",Dublin,205000.0,No,Kilbarrack,Dublin 5,q2,40%
+28/05/2013,"118 Millbrook Avenue, Kilbarrack, Dublin 13",Dublin,135588.0,No,Kilbarrack,Dublin 5,q1,20%
+17/06/2013,"73 Thornville Road, Kilbarrack, Dublin 5",Dublin,110000.0,No,Kilbarrack,Dublin 5,q1,10%
+31/07/2013,"40 Greendale Road, Kilbarrack",Dublin,105000.0,No,Kilbarrack,Dublin 5,q1,10%
+16/08/2013,"16 St. Donagh'S Park, Kilbarrack, Donnaghmede",Dublin,170000.0,No,Kilbarrack,Dublin 5,q1,20%
+16/08/2013,"64 Briarfield Grove, Kilbarrack, Dublin 5",Dublin,121500.0,No,Kilbarrack,Dublin 5,q1,10%
+26/09/2013,"62 Roseglen Road, Kilbarrack, Dublin 5",Dublin,235000.0,No,Kilbarrack,Dublin 5,q2,50%
+07/10/2013,"56 Roseglen, Kilbarrack",Dublin,210000.0,No,Kilbarrack,Dublin 5,q2,40%
+10/10/2013,"19 Kilbarrack Avenue, Kilbarrack",Dublin,405000.0,No,Kilbarrack,Dublin 5,q4,90%
+18/10/2013,"39 Mount Olive Grove, Kilbarrack",Dublin,90500.0,No,Kilbarrack,Dublin 5,q1,10%
+31/10/2013,"25B Thornville Road, Kilbarrack, Dublin 5",Dublin,175000.0,No,Kilbarrack,Dublin 5,q1,20%
+16/12/2013,"6 Briarfield Gr, Kilbarrack, Dublin 5",Dublin,90000.0,No,Kilbarrack,Dublin 5,q1,10%
+16/12/2013,"73 Kilbarrack Rd, Dublin 5, Dublin",Dublin,375000.0,No,Kilbarrack,Dublin 5,q4,90%
+10/02/2014,"23 Briarfield Rd, Kilbarrack, Dublin 17",Dublin,135000.0,No,Kilbarrack,Dublin 5,q1,20%
+27/02/2014,"Briarfield House, Kilbarrack Road, Dublin 5",Dublin,218500.0,No,Kilbarrack,Dublin 5,q2,40%
+10/03/2014,"Mariners Court, Apt 12, 1 Kilbarrack Rd Dublin 5",Dublin,263500.0,No,Kilbarrack,Dublin 5,q3,60%
+27/03/2014,"6 Rose Glen Rd, Kilbarrack, Glen Rd Dublin 5",Dublin,220000.0,No,Kilbarrack,Dublin 5,q2,40%
+28/03/2014,"41 Mariners Court, Kilbarrack Rd, Dublin",Dublin,185000.0,No,Kilbarrack,Dublin 5,q1,30%
+02/05/2014,"105 Kilbarrack Rd, Kilbarrack, Dublin 5",Dublin,338000.0,No,Kilbarrack,Dublin 5,q4,90%
+26/05/2014,"7 Thornville Park, Kilbarrack, Dublin 5",Dublin,245000.0,No,Kilbarrack,Dublin 5,q2,50%
+30/06/2014,"49 Mount Olive Rd, Kilbarrack, Dublin 5",Dublin,159000.0,No,Kilbarrack,Dublin 5,q1,20%
+30/06/2014,"91 Briarsfield Rd, Kilbarrack, Dublin 5",Dublin,215000.0,No,Kilbarrack,Dublin 5,q2,40%
+17/07/2014,"1 Briarfield Walk, Kilbarrack, Dublin 5",Dublin,175000.0,No,Kilbarrack,Dublin 5,q1,30%
+25/07/2014,"8 Kilbarrack Ave, Dublin 5, Dublin",Dublin,547500.0,No,Kilbarrack,Dublin 5,q4,100%
+31/07/2014,"100C Briarfield Grove, Kilbarrack",Dublin,265000.0,Yes,Kilbarrack,Dublin 5,q3,60%
+12/09/2014,"18 Briarfield Rd, Kilbarrack, Dublin 13",Dublin,233000.0,No,Kilbarrack,Dublin 5,q2,50%
+01/10/2014,"100B Briarfield Grove, Kilbarrack, Dublin 5",Dublin,220264.0,Yes,Kilbarrack,Dublin 5,q2,50%
+03/10/2014,"62 Briarfield Grove, Kilbarrack, Dublin 5",Dublin,153000.0,No,Kilbarrack,Dublin 5,q1,20%
+17/10/2014,"8 Mount Olive Rd, Kilbarrack, Dublin 15",Dublin,170000.0,No,Kilbarrack,Dublin 5,q1,20%
+22/10/2014,"74 Briarfield Rd, Kilbarrack, Dublin 5",Dublin,210000.0,No,Kilbarrack,Dublin 5,q2,40%
+28/10/2014,"61 St. Donagh'S Road, Kilbarrack",Dublin,80000.0,No,Kilbarrack,Dublin 5,q1,10%
+18/11/2014,"57 Millbrook Rd, Kilbarrack, Dublin 5",Dublin,200000.0,No,Kilbarrack,Dublin 5,q2,30%
+12/12/2014,"2 Millbrook Grove, Kilbarrack, Dublin 5",Dublin,167000.0,No,Kilbarrack,Dublin 5,q1,20%
+16/01/2015,"13 St Margarets Ave, Kilbarrack, Dublin 5",Dublin,545000.0,No,Kilbarrack,Dublin 5,q4,100%
+20/01/2015,"7 Briarfield Rd Kilbarrack, Dublin 5, Dublin",Dublin,170000.0,No,Kilbarrack,Dublin 5,q1,20%
+21/01/2015,"33 Roseglen Ave, Kilbarrack, Dublin 5",Dublin,205500.0,No,Kilbarrack,Dublin 5,q2,40%
+02/02/2015,"13 Thornville Road, Kilbarrack, Dublin 5",Dublin,260000.0,No,Kilbarrack,Dublin 5,q3,60%
+06/03/2015,"14 Kilbarrack Grove, Kilbarrack, Dublin 5",Dublin,386000.0,No,Kilbarrack,Dublin 5,q4,90%
+30/03/2015,"9 Mount Olive Grove, Kilbarrack, Dublin 5",Dublin,202000.0,No,Kilbarrack,Dublin 5,q2,30%
+17/04/2015,"49 Rose Glen Ave, Kilbarrack, Dublin 5",Dublin,192000.0,No,Kilbarrack,Dublin 5,q1,30%
+23/04/2015,"71 Briarfield Road, Kilbarrack, Dublin 5",Dublin,195000.0,No,Kilbarrack,Dublin 5,q1,30%
+08/05/2015,"97 Kilbarrack Rd, Dublin 5, Dublin",Dublin,162338.24,No,Kilbarrack,Dublin 5,q1,20%
+29/05/2015,"74A Millbrook Ave, Kilbarrack, Dublin 13",Dublin,265000.0,No,Kilbarrack,Dublin 5,q3,60%
+05/06/2015,"174 Brairfield Grove, Kilbarrack, Dublin 5",Dublin,194000.0,No,Kilbarrack,Dublin 5,q1,30%
+22/06/2015,"62A Briarfield Rd, Kilbarrack, Dublin 5",Dublin,272000.0,No,Kilbarrack,Dublin 5,q3,70%
+30/06/2015,"10 Kilbarrack Grove, Kilbarrack, Dublin 5",Dublin,470000.0,No,Kilbarrack,Dublin 5,q4,100%
+07/07/2015,"117 Mount Olive Rd, Kilbarrack, Dublin 5",Dublin,204000.0,No,Kilbarrack,Dublin 5,q2,30%
+10/07/2015,"74 Thornville Ave, Kilbarrack, Dublin 5",Dublin,245000.0,No,Kilbarrack,Dublin 5,q3,60%
+17/07/2015,"41, Mount Olive Grove, Kilbarrack Dublin 5",Dublin,215000.0,No,Kilbarrack,Dublin 5,q2,40%
+22/07/2015,"9 Roseglen Rd, Kilbarrack, Dublin 5",Dublin,120000.0,No,Kilbarrack,Dublin 5,q1,10%
+24/09/2015,"21 Thornville Rd, Kilbarrack, Dublin 5",Dublin,213000.0,No,Kilbarrack,Dublin 5,q2,40%
+11/11/2015,"61 Briarfield Grove, Kilbarrack, Dublin",Dublin,220000.0,No,Kilbarrack,Dublin 5,q2,40%
+13/11/2015,"71 Mount Olive Rd, Kilbarrack, Dublin 5",Dublin,205000.0,No,Kilbarrack,Dublin 5,q2,40%
+01/12/2015,"22 The Belfry, Kilbarrack Rd, Kilbarrack Dublin 13",Dublin,270000.0,Yes,Kilbarrack,Dublin 5,q3,60%
+01/12/2015,"343 Kilbarrack Rd, Dublin 5, Dublin",Dublin,231000.0,No,Kilbarrack,Dublin 5,q2,50%
+21/12/2015,"2 Briarfield, Kilbarrack Road, Kilbarrack",Dublin,423850.0,Yes,Kilbarrack,Dublin 5,q4,100%
+22/12/2015,"40 Mount Olive Grove, Kilbarrack",Dublin,245000.0,No,Kilbarrack,Dublin 5,q3,60%
+22/01/2016,"5 Thornville Road, Kilbarrack",Dublin,230000.0,No,Kilbarrack,Dublin 5,q2,50%
+27/01/2016,"12 Kilbarrack Grove, Kilbarrack, Dublin 5",Dublin,513500.0,No,Kilbarrack,Dublin 5,q4,100%
+29/01/2016,"32 Swansnest Ave, Kilbarrack, Dublin 5",Dublin,208000.0,No,Kilbarrack,Dublin 5,q2,40%
+02/02/2016,"31 Kilbarrack Rd, Kilbarrack, Dublin 5",Dublin,575000.0,No,Kilbarrack,Dublin 5,q4,100%
+09/02/2016,"10 Mariners Court, Kilbarrack Rd, Kilbararrack Dublin 5",Dublin,290000.0,No,Kilbarrack,Dublin 5,q3,70%
+29/02/2016,"52 Mount Olive Grove, Kilbarrack, Dublin 5",Dublin,217000.0,No,Kilbarrack,Dublin 5,q2,40%
+11/05/2016,"23 Mount Olive Grove, Kilbarrack, Dublin 5",Dublin,210000.0,No,Kilbarrack,Dublin 5,q2,40%
+23/05/2016,"48 Briarfield Grove, Kilbarrack, Dublin 5",Dublin,235000.0,No,Kilbarrack,Dublin 5,q2,50%
+17/06/2016,"8 Mount Olive Rd, Kilbarrack, Dublin 15",Dublin,227000.0,No,Kilbarrack,Dublin 5,q2,50%
+21/07/2016,"151 Kilbarrack Road, Dublin 5",Dublin,290000.0,No,Kilbarrack,Dublin 5,q3,80%
+29/07/2016,"2 Briarfield Rd, Kilbarrack, Dublin 5",Dublin,220000.0,No,Kilbarrack,Dublin 5,q2,50%
+05/08/2016,"19 Mariners Court, Kilbarrack, Dublin 5",Dublin,279000.0,No,Kilbarrack,Dublin 5,q3,70%
+18/08/2016,"2 Roseglen Rd, Kilbarrack, Dublin 5",Dublin,325000.0,No,Kilbarrack,Dublin 5,q4,80%
+26/08/2016,"7 Berach Lodge, Kilbarrack Rd, Kilbarrack Dublin 5",Dublin,325000.0,No,Kilbarrack,Dublin 5,q4,80%
+31/08/2016,"96 Kilbarrack Rd, Dublin 5, Dublin",Dublin,357000.0,No,Kilbarrack,Dublin 5,q4,90%
+13/09/2016,"6 The Belfry, Kilbarrack Rd, Dublin 5",Dublin,200000.0,No,Kilbarrack,Dublin 5,q2,30%
+29/09/2016,"7 Mariners Court, Kilbarrack, Dublin",Dublin,270000.0,No,Kilbarrack,Dublin 5,q3,60%
+30/09/2016,"7 Kilbarrack Ave, Kilbarrack, Dublin 5",Dublin,555000.0,No,Kilbarrack,Dublin 5,q4,100%
+12/10/2016,"210 St Donaghs Rd, Kilbarrack West, Dublin 5",Dublin,150000.0,No,Kilbarrack,Dublin 5,q1,20%
+28/10/2016,"No. 5 Kilbarrack Road, Dublin 5",Dublin,696035.0,Yes,Kilbarrack,Dublin 5,q4,100%
+15/11/2016,"12 Mount Olive Rd, Kilbarrack, Dublin 5",Dublin,245000.0,No,Kilbarrack,Dublin 5,q3,60%
+23/11/2016,"126 Briarfield Rd, Kilbarrack, Dublin",Dublin,250000.0,No,Kilbarrack,Dublin 5,q3,60%
+25/11/2016,"1 Briarfield, Kilbarrack Road, Kilbarrack",Dublin,451970.48,Yes,Kilbarrack,Dublin 5,q4,100%
+30/11/2016,"1 Millbrook Dr, Kilbarrack, Dublin 13",Dublin,240000.0,No,Kilbarrack,Dublin 5,q2,50%
+16/12/2016,"32 St Margarets Ave, Kilbarrack, Dublin 5",Dublin,511500.0,No,Kilbarrack,Dublin 5,q4,100%
+19/12/2016,"1A Briarfield Grove, Kilbarrack, Dublin 5",Dublin,281000.0,No,Kilbarrack,Dublin 5,q3,70%
+13/01/2017,"17 The Belfry, Kilbarrack Rd, Dublin 5",Dublin,210000.0,No,Kilbarrack,Dublin 5,q2,40%
+05/05/2017,"98 Briarfield Rd Kilbarrack, Dublin 5, Dublin",Dublin,220000.0,No,Kilbarrack,Dublin 5,q2,50%
+23/06/2017,"46 Thornville Rd, Kilbarrack, Dublin 5",Dublin,304000.0,No,Kilbarrack,Dublin 5,q3,80%
+25/08/2017,"2 Thornville Dr, Kilbarrack, Dublin 5",Dublin,285000.0,No,Kilbarrack,Dublin 5,q3,70%
+28/08/2017,"3 Berach Lodge, Kilbarrack Road, Dublin 5",Dublin,335000.0,No,Kilbarrack,Dublin 5,q4,90%
+29/08/2017,"49 Mount Olive Road, Kilbarrack, Dublin 5",Dublin,271000.0,No,Kilbarrack,Dublin 5,q3,70%
+25/09/2017,"105 Briarfield Grove, Kilbarrack, Dublin 5",Dublin,280000.0,No,Kilbarrack,Dublin 5,q3,70%
+09/10/2017,"21 Thornville Drive, Kilbarrack, Dublin 5",Dublin,270000.0,No,Kilbarrack,Dublin 5,q3,60%
+24/10/2017,"33A Mount Olive Park, Kilbarrack, Dublin 13",Dublin,220000.0,No,Kilbarrack,Dublin 5,q2,50%
+03/11/2017,"100C Briarfield Grove, Kilbarrack, Dublin 5",Dublin,303000.0,No,Kilbarrack,Dublin 5,q3,80%
+17/11/2017,"58 Kilbarrack Rd, Kilbarrack, Dublin 5",Dublin,500000.0,No,Kilbarrack,Dublin 5,q4,100%
+22/11/2017,"26 The Belfry, Kilbarrack Rd, Kilbarrack Dublin 5",Dublin,280000.0,No,Kilbarrack,Dublin 5,q3,70%
+27/11/2017,"6 Thornville Dr, Kilbarrack, Dublin 5",Dublin,275000.0,No,Kilbarrack,Dublin 5,q3,70%
+09/01/2018,"14 Kilbarrack Grove, Kilbarrack, Dublin 5",Dublin,575000.0,No,Kilbarrack,Dublin 5,q4,100%
+26/01/2018,"45 Thornville Road, Kilbarrack, Dublin 5",Dublin,260000.0,No,Kilbarrack,Dublin 5,q3,60%
+14/02/2018,"130 Briarfield Grove, Kilbarrack, Dublin 5",Dublin,220000.0,No,Kilbarrack,Dublin 5,q2,50%
+23/02/2018,"66 Briarfield Rd, Kilbarrack, Dublin 5",Dublin,321000.0,No,Kilbarrack,Dublin 5,q4,80%
+09/03/2018,"84 Kilbarrack Road, Dublin 5",Dublin,270000.0,No,Kilbarrack,Dublin 5,q3,70%
+02/05/2018,"7 Kilbarrack Grove, Dublin 5, Dublin",Dublin,735000.0,No,Kilbarrack,Dublin 5,q4,100%
+27/07/2018,"17 Swans Nest Rd, Kilbarrack West, Dublin 5",Dublin,306000.0,No,Kilbarrack,Dublin 5,q4,80%
+05/09/2018,"52 Millbrook Avenue, Kilbarrack, Dublin 5",Dublin,300000.0,No,Kilbarrack,Dublin 5,q3,80%
+14/09/2018,"127 St Donaghs Rd, Kilbarrack, Dublin 5",Dublin,327000.0,No,Kilbarrack,Dublin 5,q4,90%
+21/09/2018,"10 Swans Nest Ave, Kilbarrack, Dublin 5",Dublin,265000.0,No,Kilbarrack,Dublin 5,q3,60%
+21/09/2018,"41 Mariners Court, Kilbarrack Rd, Dublin",Dublin,325000.0,No,Kilbarrack,Dublin 5,q4,90%
+09/10/2018,"57 Swan'S Nest Road, Kilbarrack, Dublin 5",Dublin,300000.0,No,Kilbarrack,Dublin 5,q3,80%
+19/10/2018,"23 Thornville Rd, Kilbarrack, Dublin 5",Dublin,288000.0,No,Kilbarrack,Dublin 5,q3,70%
+25/10/2018,"97 Grange Park Cresent, Kilbarrack, Dublin 5",Dublin,311000.0,No,Kilbarrack,Dublin 5,q4,80%
+14/11/2018,"Apt 40, Mariners Court, Kilbarrack Rd Dublin 13",Dublin,340000.0,No,Kilbarrack,Dublin 5,q4,90%
+23/11/2018,"235 Kilbarrack Rd, Kilbarrack, Dublin 5",Dublin,395000.0,No,Kilbarrack,Dublin 5,q4,90%
+03/12/2018,"9 Thornville Dr, Kilbarrack, Dublin 5",Dublin,295000.0,No,Kilbarrack,Dublin 5,q3,80%
+14/12/2018,"133 Kilbarrack Rd, Kilbarrack, Dublin 5",Dublin,355000.0,No,Kilbarrack,Dublin 5,q4,90%
+19/12/2018,"27 Swans Nest Rd, Kilbarrack, Dublin 5",Dublin,266000.0,No,Kilbarrack,Dublin 5,q3,60%
+08/02/2019,"27A Millbrook Rd, Kilbarrack, Dublin 13",Dublin,310000.0,No,Kilbarrack,Dublin 5,q4,80%
+12/03/2019,"62, Saint Berachs Place, Kilbarrack Dublin 5",Dublin,79600.0,No,Kilbarrack,Dublin 5,q1,10%
+22/03/2019,"30 Millbrook Rd, Kilbarrack, Dublin 13",Dublin,230000.0,No,Kilbarrack,Dublin 5,q2,50%
+07/05/2019,"58 Swansnest Ave, Kilbarrack, Dublin 5",Dublin,267500.0,No,Kilbarrack,Dublin 5,q3,60%
+15/05/2019,"25B Thornville Rd, Kilbarrack, Dublin 5",Dublin,314000.0,No,Kilbarrack,Dublin 5,q4,80%
+22/05/2019,"41 Thornville Ave, Kilbarrack, Dublin 5",Dublin,284000.0,No,Kilbarrack,Dublin 5,q3,70%
+29/05/2019,"5 Thornville Park, Kilbarrack, Dublin 5",Dublin,340000.0,No,Kilbarrack,Dublin 5,q4,90%
+30/05/2019,"33A Mount Olive Park, Kilbarrack, Dublin 13",Dublin,236837.72,No,Kilbarrack,Dublin 5,q2,50%
+12/06/2019,"10 Mariners Court, Kilbarrack Rd, Kilbararrack Dublin 5",Dublin,376000.0,No,Kilbarrack,Dublin 5,q4,90%
+04/07/2019,"6 Briarfield Gr, Kilbarrack, Dublin 5",Dublin,294800.0,No,Kilbarrack,Dublin 5,q3,80%
+15/07/2019,"10 Kilbarrack Grove, Kilbarrack, Dublin 5",Dublin,620000.0,No,Kilbarrack,Dublin 5,q4,100%

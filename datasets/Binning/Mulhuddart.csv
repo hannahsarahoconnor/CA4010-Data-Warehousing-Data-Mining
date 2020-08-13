@@ -1,0 +1,286 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+15/01/2010,"50 Ashfield Green, Mulhuddart",Dublin,200000.0,No,Mulhuddart,Dublin 15,q3,70%
+26/03/2010,"178 Castlecurragh Vale, Mulhuddart, Dublin 14",Dublin,210000.0,No,Mulhuddart,Dublin 15,q3,70%
+17/05/2010,"20 Castlecurragh Park, Mulhuddart, Dublin 15.",Dublin,130000.0,No,Mulhuddart,Dublin 15,q1,30%
+21/05/2010,"289 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,160000.0,No,Mulhuddart,Dublin 15,q2,50%
+11/06/2010,"302 Castlecurragh Heath, Mulhuddart",Dublin,175000.0,No,Mulhuddart,Dublin 15,q3,60%
+17/06/2010,"310 Castlecurragh Heath, Mulhuddart",Dublin,155000.0,No,Mulhuddart,Dublin 15,q2,50%
+30/08/2010,"294 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,152000.0,No,Mulhuddart,Dublin 15,q2,40%
+02/09/2010,"Mountainview House, Mulhuddart",Dublin,105000.0,No,Mulhuddart,Dublin 15,q1,20%
+03/09/2010,"7 Saddlers Avenue, Mulhuddart, Dublin 15",Dublin,188000.0,No,Mulhuddart,Dublin 15,q3,60%
+20/09/2010,"130 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,149950.0,No,Mulhuddart,Dublin 15,q2,40%
+27/09/2010,"9 Saddlers Crescent, Mulhuddart",Dublin,217500.0,No,Mulhuddart,Dublin 15,q3,80%
+08/10/2010,"13 The Court, Mulhuddart, Dublin 15",Dublin,162000.0,No,Mulhuddart,Dublin 15,q2,50%
+20/10/2010,"42 Ladyswell Road, Mulhuddart, Dublin 15",Dublin,150000.0,No,Mulhuddart,Dublin 15,q2,40%
+21/10/2010,"Ard Eadrad, Blakestown Road, Mulhuddart",Dublin,1418502.0,No,Mulhuddart,Dublin 15,q4,100%
+06/11/2010,"Apt 17 Ard Eadrad, Blakestown Road, Mulhuddart",Dublin,31375.0,No,Mulhuddart,Dublin 15,q1,10%
+01/12/2010,"160 Castlecurragh Heath, Mulhuddart",Dublin,132000.0,No,Mulhuddart,Dublin 15,q1,30%
+01/12/2010,"21 The Court, Mulhuddart Wood, Mulhuddart",Dublin,157500.0,No,Mulhuddart,Dublin 15,q2,50%
+03/12/2010,"140 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,140000.0,No,Mulhuddart,Dublin 15,q2,30%
+06/12/2010,"338 Castlecurragh Heath, Mulhuddart",Dublin,130000.0,No,Mulhuddart,Dublin 15,q1,30%
+07/12/2010,"163 Castlecurragh Vale, Mulhuddart, Dublin 15",Dublin,143000.0,No,Mulhuddart,Dublin 15,q2,40%
+13/01/2011,"7 Huntstown Park, Mulhuddart, Dublin 15",Dublin,200000.0,No,Mulhuddart,Dublin 15,q3,70%
+15/03/2011,"337 Castlecurragh Heath, Mulhuddart",Dublin,123000.0,No,Mulhuddart,Dublin 15,q1,20%
+29/04/2011,"114 Castlecurragh Vale, Mulhuddart",Dublin,137000.0,No,Mulhuddart,Dublin 15,q2,30%
+10/05/2011,"182 Castlecurragh Vale, Mulhuddart",Dublin,100000.0,No,Mulhuddart,Dublin 15,q1,10%
+11/05/2011,"3 Dromheath Gardens, Mulhuddart, Dublin",Dublin,90000.0,No,Mulhuddart,Dublin 15,q1,10%
+11/05/2011,"33 Ashfield Park, Mulhuddart, Dublin 15",Dublin,220000.0,No,Mulhuddart,Dublin 15,q3,80%
+24/05/2011,"17 Saddlers Crescent, Mulhuddart, Dublin 15",Dublin,180000.0,No,Mulhuddart,Dublin 15,q3,60%
+27/06/2011,"100 Castlecurragh Park, Mulhuddart",Dublin,155000.0,No,Mulhuddart,Dublin 15,q2,50%
+05/07/2011,"271 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,145000.0,No,Mulhuddart,Dublin 15,q2,40%
+26/08/2011,"4 Dromheath Grove, Ladyswell, Mulhuddart",Dublin,141500.0,No,Mulhuddart,Dublin 15,q2,40%
+02/09/2011,"136 Briarwood Park, Mulhuddart",Dublin,141500.0,No,Mulhuddart,Dublin 15,q2,40%
+07/09/2011,"174 Castlecurragh Heath, Mulhuddart",Dublin,98000.0,No,Mulhuddart,Dublin 15,q1,10%
+04/10/2011,"11 Wellview Crescent, Mulhuddart",Dublin,89000.0,No,Mulhuddart,Dublin 15,q1,10%
+23/11/2011,"88 Castlecurragh Heath, Mulhuddart",Dublin,148000.0,No,Mulhuddart,Dublin 15,q2,40%
+21/12/2011,"6  The Green, Mulhuddart Wood, Mulhuddart",Dublin,118000.0,No,Mulhuddart,Dublin 15,q1,20%
+24/01/2012,"335 Castlecurragh Heath, Mulhuddart",Dublin,85000.0,No,Mulhuddart,Dublin 15,q1,10%
+25/01/2012,"43 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,136000.0,No,Mulhuddart,Dublin 15,q2,30%
+26/01/2012,"130 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,165000.0,No,Mulhuddart,Dublin 15,q2,50%
+02/04/2012,"15 Village Heights, Mulhuddart",Dublin,135000.0,No,Mulhuddart,Dublin 15,q1,30%
+13/06/2012,"77 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,130000.0,No,Mulhuddart,Dublin 15,q1,30%
+09/07/2012,"33 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,153459.66,No,Mulhuddart,Dublin 15,q2,40%
+26/07/2012,"188 Huntstown Wood, Mulhuddart, Dublin 15",Dublin,83000.0,No,Mulhuddart,Dublin 15,q1,10%
+27/09/2012,"3 Blakestown Road, Mulhuddart, Dubliln 15",Dublin,130000.0,No,Mulhuddart,Dublin 15,q1,30%
+17/10/2012,"15 Ashfield Gardens, Mulhuddart, Dublin 15",Dublin,145500.0,No,Mulhuddart,Dublin 15,q2,40%
+15/11/2012,"21, Wellview Crescent, Mulhuddart",Dublin,82000.0,No,Mulhuddart,Dublin 15,q1,10%
+20/11/2012,"234 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,123000.0,No,Mulhuddart,Dublin 15,q1,20%
+29/11/2012,"164 Huntstown Wood, Mulhuddart",Dublin,100000.0,No,Mulhuddart,Dublin 15,q1,20%
+20/12/2012,"119 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,115000.0,No,Mulhuddart,Dublin 15,q1,20%
+20/12/2012,"163 Castlecurragh Heath, Mulhuddart",Dublin,56000.0,No,Mulhuddart,Dublin 15,q1,10%
+21/12/2012,"174 Briarwood Avenue, Mulhuddart",Dublin,161000.0,No,Mulhuddart,Dublin 15,q2,50%
+31/12/2012,"1 Willowwood Lawn, Mulhuddart, Dublin 15",Dublin,142000.0,No,Mulhuddart,Dublin 15,q2,40%
+11/01/2013,"87 Castlecurragh Vale, Mulhuddart",Dublin,81500.0,No,Mulhuddart,Dublin 15,q1,10%
+21/02/2013,"188 Castlecurragh Heath, Mulhuddart",Dublin,116000.0,No,Mulhuddart,Dublin 15,q1,20%
+28/02/2013,"60 Huntstown Lawn, Mulhuddart, Dublin 15",Dublin,148450.0,No,Mulhuddart,Dublin 15,q2,40%
+01/03/2013,"50 Glenealy Downs, Mulhuddart",Dublin,130000.0,No,Mulhuddart,Dublin 15,q1,30%
+12/04/2013,"285 Castlecurragh Heath, Mulhuddart",Dublin,106000.0,No,Mulhuddart,Dublin 15,q1,20%
+26/04/2013,"5 Huntstown Rise, Clonsilla, Mulhuddart",Dublin,154000.0,No,Mulhuddart,Dublin 15,q2,40%
+29/04/2013,"183 Huntstown Wood, Clonsilla, Mulhuddart",Dublin,120000.0,No,Mulhuddart,Dublin 15,q1,20%
+03/05/2013,"40 Pindbrook View, Mulhuddart",Dublin,91000.0,No,Mulhuddart,Dublin 15,q1,10%
+17/05/2013,"60 Huntstoqn Court, Mulhuddart",Dublin,127500.0,No,Mulhuddart,Dublin 15,q1,20%
+20/05/2013,"Tolka Cottage, Mulhuddart",Dublin,185000.0,No,Mulhuddart,Dublin 15,q3,60%
+04/06/2013,"14 Saddlers Avenue, Mulhuddart, Dublin 15",Dublin,120000.0,No,Mulhuddart,Dublin 15,q1,20%
+14/06/2013,"52 Castlecurragh Vale, Mulhuddart",Dublin,120000.0,No,Mulhuddart,Dublin 15,q1,20%
+28/06/2013,"2 Wellview Green, Mulhuddart",Dublin,73000.0,No,Mulhuddart,Dublin 15,q1,10%
+03/07/2013,"45 Castlecurragh Heath, Mulhuddart",Dublin,120000.0,No,Mulhuddart,Dublin 15,q1,20%
+08/07/2013,"209 Castlecurragh Heath, Mulhuddart",Dublin,117000.0,No,Mulhuddart,Dublin 15,q1,20%
+08/07/2013,"6 Saddlers Lawn, Mulhuddart",Dublin,130000.0,No,Mulhuddart,Dublin 15,q1,30%
+17/07/2013,"14 Saddlers Court, Mulhuddart",Dublin,158000.0,No,Mulhuddart,Dublin 15,q2,50%
+25/07/2013,"2 Ashfield Park, Mulhuddart, Dublin 15",Dublin,115000.0,No,Mulhuddart,Dublin 15,q1,20%
+30/07/2013,"31 Huntstown Wood, Mulhuddart, Dublin 15",Dublin,154950.0,No,Mulhuddart,Dublin 15,q2,40%
+01/08/2013,"62 Castlecurragh Vale, Mulhuddart",Dublin,51000.0,No,Mulhuddart,Dublin 15,q1,10%
+05/08/2013,"37 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,50000.0,No,Mulhuddart,Dublin 15,q1,10%
+12/08/2013,"188, Castlecurragh Vale, Mulhuddart",Dublin,122000.0,No,Mulhuddart,Dublin 15,q1,20%
+20/08/2013,"38 Wellview Park, Mulhuddart, Dublin 15",Dublin,82000.0,No,Mulhuddart,Dublin 15,q1,10%
+13/09/2013,"266 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,75000.0,No,Mulhuddart,Dublin 15,q1,10%
+24/09/2013,"23 Huntstown Park, Mulhuddart, Dublin 15",Dublin,175000.0,No,Mulhuddart,Dublin 15,q3,60%
+30/10/2013,"259 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,126000.0,No,Mulhuddart,Dublin 15,q1,20%
+01/11/2013,"15 The Green, Mulhuddart Wood",Dublin,120000.0,No,Mulhuddart,Dublin 15,q1,20%
+06/11/2013,"4 Saddler'S Avenue, Mulhuddart",Dublin,151750.0,No,Mulhuddart,Dublin 15,q2,40%
+04/12/2013,"29 Ashfield Court, Mulhuddart, Dublin 15",Dublin,135000.0,No,Mulhuddart,Dublin 15,q1,30%
+17/12/2013,"48 Castlecurragh Vale, Mulhuddart, Dublin 15",Dublin,60000.0,No,Mulhuddart,Dublin 15,q1,10%
+17/12/2013,"9 The Drive, Mulhuddart Wood, Mulhuddart Village Dublin 15",Dublin,149000.0,No,Mulhuddart,Dublin 15,q2,40%
+03/01/2014,"37 Castlecurragh Vale, Mulhuddart, Dublin 15",Dublin,129000.0,No,Mulhuddart,Dublin 15,q1,30%
+09/04/2014,"188 Briarwood Avenue, Mulhuddart, Dublin 15",Dublin,160000.0,No,Mulhuddart,Dublin 15,q2,50%
+10/04/2014,"20 The Court, Mulhuddart Wood, Mulhuddart Dublin 15",Dublin,160000.0,No,Mulhuddart,Dublin 15,q2,50%
+25/04/2014,"130 Huntstown Wood, Mulhuddart, Dublin 15",Dublin,105000.0,No,Mulhuddart,Dublin 15,q1,20%
+29/04/2014,"20 Pinebrook Glen, Mulhuddart, Dublin 15",Dublin,137000.0,No,Mulhuddart,Dublin 15,q2,30%
+02/05/2014,"Hollywood Rath, Mulhuddart",Dublin,692500.0,No,Mulhuddart,Dublin 15,q4,100%
+06/05/2014,"29 Ashfield Court, Mulhuddart, Dublin 15",Dublin,188000.0,No,Mulhuddart,Dublin 15,q3,60%
+26/05/2014,"8 Saddlers Ave, Mulhuddart, Dublin 15",Dublin,220000.0,No,Mulhuddart,Dublin 15,q3,80%
+03/06/2014,"104 Castlecurragh Vale, Mulhuddart, Dublin 15",Dublin,125000.0,No,Mulhuddart,Dublin 15,q1,20%
+09/06/2014,"4 Dromheath Grove, Mulhuddart, Dublin 15",Dublin,150000.0,No,Mulhuddart,Dublin 15,q2,40%
+12/06/2014,"171 Castlecurragh Vale, Mulhuddart Dublin 15, Dublin",Dublin,70000.0,No,Mulhuddart,Dublin 15,q1,10%
+19/06/2014,"19 Castlecurragh, Mulhuddart, Dublin 15",Dublin,112500.0,No,Mulhuddart,Dublin 15,q1,20%
+20/06/2014,"164 Castlecurragh Vale, Mulhuddart, Dublin City",Dublin,140000.0,No,Mulhuddart,Dublin 15,q2,30%
+27/06/2014,"58 Curragh Hall Crescent, Mulhuddart, Dublin 15",Dublin,156000.0,No,Mulhuddart,Dublin 15,q2,50%
+02/07/2014,"206 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,186000.0,No,Mulhuddart,Dublin 15,q3,60%
+11/07/2014,"292 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,155000.0,No,Mulhuddart,Dublin 15,q2,50%
+15/07/2014,"101 Huntstown Rise, Mulhuddart",Dublin,172100.0,No,Mulhuddart,Dublin 15,q3,60%
+30/07/2014,"12 The Drive, Mulhuddart Wood, Dublin 15",Dublin,140000.0,No,Mulhuddart,Dublin 15,q2,30%
+31/07/2014,"331 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,80000.0,No,Mulhuddart,Dublin 15,q1,10%
+07/08/2014,"71 Castlecurragh Vale, Mulhuddart Dublin 15, Dublin",Dublin,140000.0,No,Mulhuddart,Dublin 15,q2,30%
+22/08/2014,"125 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,145000.0,No,Mulhuddart,Dublin 15,q2,40%
+28/08/2014,"94 Castlecurragh Park, Mulhuddart, Dublin 15",Dublin,148500.0,No,Mulhuddart,Dublin 15,q2,40%
+08/09/2014,"34 Pinebrook Glen, Mulhuddart, Dublin 15",Dublin,179000.0,No,Mulhuddart,Dublin 15,q3,60%
+17/09/2014,"18 Blakestown Dr, Mulhuddart, Dublin 15",Dublin,195000.0,No,Mulhuddart,Dublin 15,q3,70%
+19/09/2014,"13 Saddlers Glade, Mulhuddart, Dublin 15",Dublin,216000.0,No,Mulhuddart,Dublin 15,q3,80%
+02/10/2014,"262 Castlecurragh Heath, Mulhuddart, Dublin City",Dublin,178000.0,No,Mulhuddart,Dublin 15,q3,60%
+10/10/2014,"150 Huntstown Wood, Mulhuddart, Dublin 15",Dublin,110000.0,No,Mulhuddart,Dublin 15,q1,20%
+31/10/2014,"33 Ashfield Park, Mulhuddart, Dublin 15",Dublin,251000.0,No,Mulhuddart,Dublin 15,q4,90%
+05/11/2014,"17 Saddlers Glade, Mulhuddart",Dublin,215000.0,No,Mulhuddart,Dublin 15,q3,80%
+11/11/2014,"84 Dromheath Ave, Mulhuddart, Dublin 15",Dublin,110000.0,No,Mulhuddart,Dublin 15,q1,20%
+26/11/2014,"13 Saddlers Grove, Saddlers, Mulhuddart Dublin 15",Dublin,226000.0,No,Mulhuddart,Dublin 15,q4,80%
+28/11/2014,"7 The Drive, Mulhuddart Wood, Mulhuddart Dublin 15",Dublin,185000.0,No,Mulhuddart,Dublin 15,q3,60%
+04/12/2014,"7 Castlecurragh Vale, Mulhuddart, Dublin 15",Dublin,167000.0,No,Mulhuddart,Dublin 15,q2,50%
+15/12/2014,"44 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,167000.0,No,Mulhuddart,Dublin 15,q2,50%
+18/12/2014,"16 Woodvale Grove, Blakestown, Mulhuddart Dublin 15",Dublin,45000.0,No,Mulhuddart,Dublin 15,q1,10%
+22/12/2014,"2 Huntstown Grove, Mulhuddart, Dublin 15",Dublin,155719.0,No,Mulhuddart,Dublin 15,q2,50%
+22/12/2014,"2A Huntstown Grove, Mulhuddart, Dublin",Dublin,164879.0,No,Mulhuddart,Dublin 15,q2,50%
+22/12/2014,"3 Curragh Hall Woods, Mulhuddart, Dublin 15",Dublin,115000.0,No,Mulhuddart,Dublin 15,q1,20%
+23/12/2014,"2 Pinebrook Vale, Mulhuddart, County Dublin",Dublin,101000.0,No,Mulhuddart,Dublin 15,q1,20%
+09/01/2015,"8 Wellview Grove, Mulhuddart, Dublin 15",Dublin,120000.0,No,Mulhuddart,Dublin 15,q1,20%
+26/01/2015,"11 Wellview Grove, Mulhuddart, Dublin 15",Dublin,90000.0,No,Mulhuddart,Dublin 15,q1,10%
+28/01/2015,"243 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,11104.73,No,Mulhuddart,Dublin 15,q1,10%
+03/02/2015,"7 Huntstown Green, Mulhuddart, Dublin 15",Dublin,220000.0,No,Mulhuddart,Dublin 15,q4,80%
+09/02/2015,"23 Huntstown Rd, Mulhuddart Dublin 15, Dublin",Dublin,175000.0,No,Mulhuddart,Dublin 15,q3,60%
+13/02/2015,"48 Ashfield Court, Mulhuddart, Dublin 15",Dublin,165000.0,No,Mulhuddart,Dublin 15,q2,50%
+20/02/2015,"173 Hunstown Wood, Mulhuddart, Dublin 15",Dublin,145000.0,No,Mulhuddart,Dublin 15,q2,40%
+25/02/2015,"339 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,85000.0,No,Mulhuddart,Dublin 15,q1,10%
+10/03/2015,"8 The Court, Mulhuddart Wood, Mulhuddart Dublin 15",Dublin,185000.0,No,Mulhuddart,Dublin 15,q3,60%
+20/03/2015,"13 The Drive, Mulhuddart, Dublin 15",Dublin,200000.0,No,Mulhuddart,Dublin 15,q3,70%
+27/03/2015,"231 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,144000.0,No,Mulhuddart,Dublin 15,q2,40%
+01/04/2015,"89 Castlecurragh Vale, Mulhuddart, Dublin 15",Dublin,170000.0,No,Mulhuddart,Dublin 15,q2,50%
+13/04/2015,"264 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,130000.0,No,Mulhuddart,Dublin 15,q1,30%
+17/04/2015,"7 The Court, Mulhuddart Wood, Dublin 15",Dublin,187000.0,No,Mulhuddart,Dublin 15,q3,60%
+24/04/2015,"280 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,90000.0,No,Mulhuddart,Dublin 15,q1,10%
+24/04/2015,"6 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,218000.0,No,Mulhuddart,Dublin 15,q3,80%
+15/05/2015,"187 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,161000.0,No,Mulhuddart,Dublin 15,q2,50%
+25/05/2015,"35Wellview Crescent, Mulhuddart, Dublin 15",Dublin,128000.0,No,Mulhuddart,Dublin 15,q1,30%
+11/06/2015,"153 Briarwood Ave, Mulhuddart, Dublin 15",Dublin,220000.0,No,Mulhuddart,Dublin 15,q4,80%
+26/06/2015,"204 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,140000.0,No,Mulhuddart,Dublin 15,q2,30%
+02/07/2015,"4 Blakes Court, Blakestown Rd, Mulhuddart Dublin 15",Dublin,100000.0,No,Mulhuddart,Dublin 15,q1,20%
+10/07/2015,"4 Bramblefield Dr, Huntstown Mulhuddart, Dublin 15",Dublin,265000.0,No,Mulhuddart,Dublin 15,q4,100%
+31/07/2015,"43 Bealing Village, Tyrellstown, Mulhuddart Dublin 15",Dublin,183000.0,No,Mulhuddart,Dublin 15,q3,60%
+04/08/2015,"1 Huntstown Grove, Mulhuddart, Dublin 15",Dublin,207500.0,No,Mulhuddart,Dublin 15,q3,70%
+14/08/2015,"Kilmartin, Mulhuddart, Dublin 15",Dublin,302000.0,No,Mulhuddart,Dublin 15,q4,100%
+16/09/2015,"209 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,198000.0,No,Mulhuddart,Dublin 15,q3,70%
+01/10/2015,"205 Briarwood Lawn, Mulhuddart, Dublin",Dublin,207000.0,No,Mulhuddart,Dublin 15,q3,70%
+01/10/2015,"23 Ashfield Court, Mulhuddart, Dublin 15",Dublin,190000.0,No,Mulhuddart,Dublin 15,q3,60%
+06/10/2015,"15 Saddlers Glade, Mulhuddart, Dublin 15",Dublin,192000.0,No,Mulhuddart,Dublin 15,q3,70%
+23/10/2015,"17 Huntstown Court, Mulhuddart, Dublin 15",Dublin,185000.0,No,Mulhuddart,Dublin 15,q3,60%
+19/11/2015,"75 Huntstown Rise, Mulhuddart, Dublin 15",Dublin,163000.0,No,Mulhuddart,Dublin 15,q2,50%
+20/11/2015,"10 Huntstown Lawn, Mulhuddart, Dublin 15",Dublin,220000.0,No,Mulhuddart,Dublin 15,q4,80%
+24/11/2015,"17 Drumheath Gardens, Mulhuddart, Dublin 15",Dublin,75000.0,No,Mulhuddart,Dublin 15,q1,10%
+24/11/2015,"39 Wellview Ave, Mulhuddart, Dublin",Dublin,135000.0,No,Mulhuddart,Dublin 15,q1,30%
+27/11/2015,"10 Huntstown Close, Mulhuddart, Dublin 15",Dublin,205000.0,No,Mulhuddart,Dublin 15,q3,70%
+27/11/2015,"23 The Drive, Mulhuddart Wood, Mulhuddart Dublin 15",Dublin,183000.0,No,Mulhuddart,Dublin 15,q3,60%
+02/12/2015,"14 The Avenue, Mulhuddart Wood, Mulhuddart Dublin 15",Dublin,162000.0,No,Mulhuddart,Dublin 15,q2,50%
+04/12/2015,"8 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,177500.0,No,Mulhuddart,Dublin 15,q3,60%
+10/12/2015,"98 Castlecurragh Heath, Mulhuddart, Dublin",Dublin,92000.0,No,Mulhuddart,Dublin 15,q1,10%
+14/12/2015,"20 Castlecurragh Park, Mulhuddart, Dublin 15",Dublin,165000.0,No,Mulhuddart,Dublin 15,q2,50%
+24/12/2015,"15 The Nurseries, Mulhuddart, Dublin 15",Dublin,193000.0,No,Mulhuddart,Dublin 15,q3,70%
+15/01/2016,"15 Huntstown Ave, Mulhuddart, Dublin 15",Dublin,198000.0,No,Mulhuddart,Dublin 15,q3,70%
+19/01/2016,"18 Saddlers Grove, Old Navan Rd, Mulhuddart Dublin 15",Dublin,187000.0,No,Mulhuddart,Dublin 15,q3,60%
+29/01/2016,"91 Castlecurragh Park, Mulhuddart",Dublin,159000.0,No,Mulhuddart,Dublin 15,q2,50%
+11/02/2016,"42 The Way, Mulhuddart, Dublin 15",Dublin,238000.0,No,Mulhuddart,Dublin 15,q4,90%
+12/02/2016,"12 The Green, Mulhuddart Wood, Dublin 15",Dublin,217500.0,No,Mulhuddart,Dublin 15,q3,80%
+25/02/2016,"171 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,150000.0,No,Mulhuddart,Dublin 15,q2,40%
+26/02/2016,"42 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,185000.0,No,Mulhuddart,Dublin 15,q3,60%
+04/03/2016,"18 The Avenue, Mulhuddart Wood, Mulhuddart Dublin 15",Dublin,195000.0,No,Mulhuddart,Dublin 15,q3,70%
+10/03/2016,"13 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,9031.0,No,Mulhuddart,Dublin 15,q1,10%
+31/03/2016,"1 The Drive, Mulhuddart Wood, Mulhuddart Dublin 15",Dublin,175000.0,No,Mulhuddart,Dublin 15,q3,60%
+15/04/2016,"32 Ashfield Court, Mulhuddart, Dublin 15",Dublin,190000.0,No,Mulhuddart,Dublin 15,q3,60%
+26/04/2016,"20 Huntstown Dr, Mulhuddart, Dublin 15",Dublin,170000.0,No,Mulhuddart,Dublin 15,q2,50%
+26/04/2016,"9 Huntstown Close, Mulhuddart, Dublin 15",Dublin,188000.0,No,Mulhuddart,Dublin 15,q3,60%
+02/06/2016,"9 Saddlers Ave, Mulhuddart, Dublin 15",Dublin,225000.0,No,Mulhuddart,Dublin 15,q4,80%
+03/06/2016,"8 Sadlers Crescent, Mulhuddart, Dublin 15",Dublin,208000.0,No,Mulhuddart,Dublin 15,q3,70%
+01/07/2016,"63 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,189000.0,No,Mulhuddart,Dublin 15,q3,60%
+11/07/2016,"4 Huntstown Dr, Mulhuddart, Dublin 15",Dublin,200000.0,No,Mulhuddart,Dublin 15,q3,70%
+12/07/2016,"37 Ashfield Gardens, Mulhuddart, Dublin 15",Dublin,210000.0,No,Mulhuddart,Dublin 15,q3,70%
+15/07/2016,"12 Village Heights, Mulhuddart, Dublin 15",Dublin,203000.0,No,Mulhuddart,Dublin 15,q3,70%
+15/07/2016,"27 Ashfield Grove, Mulhuddart, Dublin 15",Dublin,205000.0,No,Mulhuddart,Dublin 15,q3,70%
+15/07/2016,"32 Bramblefield Walk, Huntstown Mulhuddart, Dublin 15",Dublin,266000.0,No,Mulhuddart,Dublin 15,q4,100%
+18/07/2016,"35 Dromheath Drive, Mulhuddart, Dublin 15",Dublin,140000.0,No,Mulhuddart,Dublin 15,q2,30%
+02/08/2016,"32 Ashfield Park, Mulhuddart, Dublin 15",Dublin,228000.0,No,Mulhuddart,Dublin 15,q4,90%
+26/08/2016,"20 Parlickstown Green, Mulhuddart, Dublin 15",Dublin,145000.0,No,Mulhuddart,Dublin 15,q2,40%
+30/08/2016,"4 Huntstown Rise, Mulhuddart, Dublin 15",Dublin,218000.0,No,Mulhuddart,Dublin 15,q3,80%
+16/09/2016,"35 Ashfield Court, Mulhuddart, Dublin 15",Dublin,212500.0,No,Mulhuddart,Dublin 15,q3,80%
+27/09/2016,"61 Wellview Ave, Mulhuddart, Dublin 15",Dublin,117500.0,No,Mulhuddart,Dublin 15,q1,20%
+18/10/2016,"22 Saddlers Crescent, Mulhuddart, Dublin 15",Dublin,216000.0,No,Mulhuddart,Dublin 15,q3,80%
+20/10/2016,"243 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,202000.0,No,Mulhuddart,Dublin 15,q3,70%
+21/10/2016,"40 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,170000.0,No,Mulhuddart,Dublin 15,q2,50%
+24/10/2016,"10 Saddlers Ave, Mulhuddart, Dublin 15",Dublin,200000.0,No,Mulhuddart,Dublin 15,q3,70%
+28/10/2016,"13 The Court, Mulhuddart Wood, Mulhuddart Dublin 15",Dublin,225000.0,No,Mulhuddart,Dublin 15,q4,80%
+25/11/2016,"7 Pinebrook Close, Mulhuddart, Dublin 15",Dublin,222000.0,No,Mulhuddart,Dublin 15,q4,80%
+08/12/2016,"21 Ashfield Park, Mulhuddart, Dublin 15",Dublin,237000.0,No,Mulhuddart,Dublin 15,q4,90%
+09/12/2016,"198 Castle Curragh Vale, Mulhuddart, Dublin 15",Dublin,82500.0,No,Mulhuddart,Dublin 15,q1,10%
+14/12/2016,"20 Parlickstown Green, Mulhuddart, Dublin 15",Dublin,210000.0,No,Mulhuddart,Dublin 15,q3,70%
+16/12/2016,"69 Wellview Ave, Mulhuddart, Dublin 15",Dublin,136000.0,No,Mulhuddart,Dublin 15,q2,30%
+31/01/2017,"65 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,191000.0,No,Mulhuddart,Dublin 15,q3,70%
+07/02/2017,"7 Blakestown Cottages, Blakestown Rd, Mulhuddart Dublin 15",Dublin,212000.0,No,Mulhuddart,Dublin 15,q3,80%
+03/03/2017,"20 Ashfield Park, Mulhuddart, Dublin 15",Dublin,156000.0,No,Mulhuddart,Dublin 15,q2,50%
+06/03/2017,"24 Huntstown Rise, Mulhuddart, Dublin 15",Dublin,228000.0,No,Mulhuddart,Dublin 15,q4,90%
+10/03/2017,"34 Ashfield Court, Mulhuddart, Dublin 15",Dublin,233000.0,No,Mulhuddart,Dublin 15,q4,90%
+13/03/2017,"45 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,216000.0,No,Mulhuddart,Dublin 15,q3,80%
+31/03/2017,"Robin Hill, Macetown, Mulhuddart Dublin 15",Dublin,580000.0,No,Mulhuddart,Dublin 15,q4,100%
+24/04/2017,"237 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,215000.0,No,Mulhuddart,Dublin 15,q3,80%
+12/05/2017,"1 Canterbury Gate, Old Navan Rd, Mulhuddart Dublin 15",Dublin,222000.0,No,Mulhuddart,Dublin 15,q4,80%
+09/06/2017,"6 Wellview Green, Mulhuddart, Dublin 15",Dublin,140000.0,No,Mulhuddart,Dublin 15,q2,30%
+19/06/2017,"56 Wellview Ave, Mulhuddart, Dublin 15",Dublin,158000.0,No,Mulhuddart,Dublin 15,q2,50%
+23/06/2017,"296 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,238000.0,No,Mulhuddart,Dublin 15,q4,90%
+27/06/2017,"20 Ashfield Park, Mulhuddart, Dublin 15",Dublin,245000.0,No,Mulhuddart,Dublin 15,q4,90%
+29/06/2017,"209 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,179500.0,No,Mulhuddart,Dublin 15,q3,60%
+05/07/2017,"43 Bealing Village, Tyrellstown, Mulhuddart",Dublin,240000.0,No,Mulhuddart,Dublin 15,q4,90%
+12/07/2017,"18 Ashfield Gardens, Mulhuddart, Dublin 15",Dublin,235000.0,No,Mulhuddart,Dublin 15,q4,90%
+18/07/2017,"50 Castlecurragh Vale, Mulhuddart, Dublin 15",Dublin,220000.0,No,Mulhuddart,Dublin 15,q4,80%
+26/07/2017,"150 Huntstown Wood, Mulhuddart, Dublin 15",Dublin,130000.0,No,Mulhuddart,Dublin 15,q1,30%
+27/07/2017,"31 Hollystown Park, Mulhuddart, Dublin",Dublin,400000.0,No,Mulhuddart,Dublin 15,q4,100%
+28/07/2017,"24 Woodlands, Mulhuddart, Dublin 15",Dublin,273000.0,No,Mulhuddart,Dublin 15,q4,100%
+09/08/2017,"34 Castle Curragh Park, Mulhuddart, Dublin 15",Dublin,213000.0,No,Mulhuddart,Dublin 15,q3,80%
+30/08/2017,"59 Huntstown Dr, Mulhuddart, Dublin 15",Dublin,272000.0,No,Mulhuddart,Dublin 15,q4,100%
+31/08/2017,"34 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,203000.0,No,Mulhuddart,Dublin 15,q3,70%
+08/09/2017,"94 Dromheath Ave, Mulhuddart, Dublin 15",Dublin,190000.0,No,Mulhuddart,Dublin 15,q3,70%
+29/09/2017,"33 Parslickstown Dr, Mulhuddart, Dublin 15",Dublin,226000.0,No,Mulhuddart,Dublin 15,q4,80%
+05/10/2017,"8 The Court, Mulhuddart Wood, Mulhuddart Dublin 15",Dublin,260000.0,No,Mulhuddart,Dublin 15,q4,90%
+11/10/2017,"Apt 1, The Crescent, Church Rd Mulhuddart",Dublin,1718062.0,No,Mulhuddart,Dublin 15,q4,100%
+17/10/2017,"39 Ashfield Grove, Mulhuddart, Dublin 15",Dublin,190000.0,No,Mulhuddart,Dublin 15,q3,70%
+02/11/2017,"58 Curragh Hall Crescent, Mulhuddart, Dublin 15",Dublin,229500.0,No,Mulhuddart,Dublin 15,q4,90%
+07/11/2017,"63 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,8729.85,No,Mulhuddart,Dublin 15,q1,10%
+19/12/2017,"4 Ashmount, Blakestown Road, Mulhuddart",Dublin,225000.0,No,Mulhuddart,Dublin 15,q4,80%
+05/01/2018,"33 Huntstown Drive, Mulhuddart, Dublin 15",Dublin,261100.0,No,Mulhuddart,Dublin 15,q4,100%
+12/01/2018,"12 Saddlers Glade, Mulhuddart, Dublin",Dublin,260000.0,No,Mulhuddart,Dublin 15,q4,100%
+24/01/2018,"17 Drumheath Gardens, Mulhuddart, Dublin 15",Dublin,150000.0,No,Mulhuddart,Dublin 15,q2,40%
+29/01/2018,"46 Huntstown Lawn, Mulhuddart, Dublin 15",Dublin,295000.0,No,Mulhuddart,Dublin 15,q4,100%
+14/02/2018,"269 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,185000.0,No,Mulhuddart,Dublin 15,q3,60%
+15/02/2018,"25 The Drive, Mulhuddart Wood, Dublin 15",Dublin,231000.0,No,Mulhuddart,Dublin 15,q4,90%
+22/02/2018,"254 Castlecurragh Heath, Mulhuddart Dublin 15, Dublin",Dublin,220000.0,No,Mulhuddart,Dublin 15,q4,80%
+07/03/2018,"30 Wellview Grove, Mulhuddart, Dublin 15",Dublin,153000.0,No,Mulhuddart,Dublin 15,q2,40%
+23/03/2018,"17 Huntstown Glen, Mulhuddart, Dublin",Dublin,296000.0,No,Mulhuddart,Dublin 15,q4,100%
+23/03/2018,"25 Apartments At River View, 1-1A Church Rd, Mulhuddart",Dublin,1600000.0,Yes,Mulhuddart,Dublin 15,q4,100%
+23/04/2018,"12 Saddlers Ave, The Saddlers, Mulhuddart Dublin 15",Dublin,259000.0,No,Mulhuddart,Dublin 15,q4,90%
+26/04/2018,"4 Saddlers Dr, Mulhuddart, Dublin 15",Dublin,262000.0,No,Mulhuddart,Dublin 15,q4,100%
+30/04/2018,"143 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,175000.0,No,Mulhuddart,Dublin 15,q3,60%
+30/04/2018,"163 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,140000.0,No,Mulhuddart,Dublin 15,q2,30%
+01/05/2018,"168 Castlecurragh Vale, Mulhuddart, Dublin 15",Dublin,130000.0,No,Mulhuddart,Dublin 15,q1,30%
+02/05/2018,"336 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,135000.0,No,Mulhuddart,Dublin 15,q2,30%
+11/05/2018,"19 Huntstown Grove, Mulhuddart, Dublin 15",Dublin,250000.0,No,Mulhuddart,Dublin 15,q4,90%
+17/05/2018,"22 Boulevard, Tyrellstown, Mulhuddart",Dublin,255000.0,No,Mulhuddart,Dublin 15,q4,90%
+21/05/2018,"51 Ashfield Gardens, Mulhuddart, Dublin 15",Dublin,299000.0,No,Mulhuddart,Dublin 15,q4,100%
+28/05/2018,"46 The Grove, Hunters Run Mulhuddart, Dublin 15",Dublin,328000.0,No,Mulhuddart,Dublin 15,q4,100%
+06/07/2018,"20 Saddlers Crescent, Old Navan Road, Mulhuddart",Dublin,260000.0,No,Mulhuddart,Dublin 15,q4,100%
+13/07/2018,"11 Saddlers Grove, Mulhuddart Dublin 15, Dublin",Dublin,290000.0,No,Mulhuddart,Dublin 15,q4,100%
+20/07/2018,"5 Huntstown Park, Huntstown, Mulhuddart",Dublin,261000.0,No,Mulhuddart,Dublin 15,q4,100%
+27/07/2018,"42 Wellview Ave, Mulhuddart, Dublin 15",Dublin,149000.0,No,Mulhuddart,Dublin 15,q2,40%
+10/08/2018,"29 Deerhaven Close, Huntstown Mulhuddart, Dublin 15",Dublin,245600.0,No,Mulhuddart,Dublin 15,q4,90%
+17/08/2018,"4 Dromheath Park, Mulhuddart, Dublin 15",Dublin,216000.0,No,Mulhuddart,Dublin 15,q3,80%
+26/09/2018,"14 Ashfield Court, Mulhuddart, Dublin 15",Dublin,300000.0,No,Mulhuddart,Dublin 15,q4,100%
+12/10/2018,"18 Castlechrragh Pk, Mulhuddart, Dublin 15",Dublin,145500.0,No,Mulhuddart,Dublin 15,q2,40%
+12/10/2018,"45 Huntstown Lawn, Mulhuddart, Dublin 15",Dublin,275000.0,No,Mulhuddart,Dublin 15,q4,100%
+23/10/2018,"21 Amberwood, Navan Rd, Mulhuddart",Dublin,195000.0,No,Mulhuddart,Dublin 15,q3,70%
+06/11/2018,"165 Castlecurragh Vale, Mulhuddart, Dublin 15",Dublin,225000.0,No,Mulhuddart,Dublin 15,q4,80%
+29/11/2018,"13 Ashmount, Blakestown Rd, Mulhuddart",Dublin,263000.0,No,Mulhuddart,Dublin 15,q4,100%
+05/12/2018,"183 Castlecurragh Vale, Mulhuddart, Dublin 15",Dublin,157000.0,No,Mulhuddart,Dublin 15,q2,50%
+12/12/2018,"39 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,235000.0,No,Mulhuddart,Dublin 15,q4,90%
+13/12/2018,"89 Briarwood Ave, Mulhuddart, Dublin",Dublin,246000.0,No,Mulhuddart,Dublin 15,q4,90%
+14/12/2018,"131 Huntstown Wood, Mulhuddart, Dublin 15",Dublin,232000.0,No,Mulhuddart,Dublin 15,q4,90%
+14/12/2018,"25 Ashfield Gardens, Mulhuddart, Dublin 15",Dublin,247000.0,No,Mulhuddart,Dublin 15,q4,90%
+17/12/2018,"4 Pinebrook Vale, Mulhuddart, Dublin 15",Dublin,239000.0,No,Mulhuddart,Dublin 15,q4,90%
+20/12/2018,"20 Huntstown Wood, Mulhuddart, Dublin 15",Dublin,254000.0,No,Mulhuddart,Dublin 15,q4,90%
+28/12/2018,"7 Ashfield Gardens, Mulhuddart, Dublin 15",Dublin,240000.0,No,Mulhuddart,Dublin 15,q4,90%
+05/03/2019,"52 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,135000.0,No,Mulhuddart,Dublin 15,q2,30%
+28/03/2019,"Lily Cottage, Hollywoodrath, Mulhuddart",Dublin,236000.0,No,Mulhuddart,Dublin 15,q4,90%
+01/04/2019,"57 Huntstown Rise, Mulhuddart Dublin 15, Dublin",Dublin,238000.0,No,Mulhuddart,Dublin 15,q4,90%
+03/04/2019,"6 The Nurseries, Mulhuddart, Dublin 15",Dublin,210000.0,No,Mulhuddart,Dublin 15,q3,70%
+26/04/2019,"206 Briarwood Lawn, Mulhuddart, Dublin 15",Dublin,285000.0,No,Mulhuddart,Dublin 15,q4,100%
+29/04/2019,"27 Huntstown Glen, Mulhuddart, Dublin 15",Dublin,280000.0,No,Mulhuddart,Dublin 15,q4,100%
+07/05/2019,"187 Castlecurragh Heath, Mulhuddart, Dublin 15",Dublin,248000.0,No,Mulhuddart,Dublin 15,q4,90%
+08/05/2019,"74 Huntstown Wood, Huntstown, Mulhuddart Dublin 15",Dublin,210000.0,No,Mulhuddart,Dublin 15,q3,70%
+18/06/2019,"Parslickstown Cottage, Mulhuddart, Dublin City",Dublin,171000.0,No,Mulhuddart,Dublin 15,q2,50%
+05/07/2019,"11 The Crescent, Church Rd, Mulhuddart Dublin 15",Dublin,230000.0,No,Mulhuddart,Dublin 15,q4,90%
+01/08/2019,"9 Saddlers Glade, Mulhuddart, Dublin 15",Dublin,270000.0,No,Mulhuddart,Dublin 15,q4,100%
+02/08/2019,"Apt 1, 8 Coolmine Cottages, Mulhuddart",Dublin,220000.0,No,Mulhuddart,Dublin 15,q4,80%
+23/08/2019,"92 Dromheath Avenue, Mulhuddart, Dublin 15",Dublin,140000.0,No,Mulhuddart,Dublin 15,q2,40%
+09/09/2019,"32 Ashfield Grove, Mulhuddart, Dublin 15",Dublin,280000.0,No,Mulhuddart,Dublin 15,q4,100%
+07/10/2019,"17 Village Height, Mulhuddart, Dublin 15",Dublin,276000.0,No,Mulhuddart,Dublin 15,q4,100%

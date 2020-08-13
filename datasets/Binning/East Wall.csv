@@ -1,0 +1,361 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/03/2010,"71 Ravensdale Road, East Wall, Dublin",Dublin,230000.0,No,East Wall,Dublin 3,q2,50%
+12/04/2010,"6 Portside Court, West Road, East Wall",Dublin,210000.0,No,East Wall,Dublin 3,q2,50%
+09/06/2010,"178 East Wall Road, East Wall, Dublin 3",Dublin,8000.0,No,East Wall,Dublin 3,q1,10%
+02/07/2010,"6 Shelmalier Road, East Wall",Dublin,212000.0,No,East Wall,Dublin 3,q2,50%
+30/07/2010,"194  East Wall Road, East Wall, Dublin 3",Dublin,350000.0,No,East Wall,Dublin 3,q4,90%
+17/08/2010,"8 Hope Avenue, East Wall",Dublin,172166.79,No,East Wall,Dublin 3,q2,40%
+30/08/2010,"Apt 16 Lighthouse Apts, Church Road, East Wall",Dublin,178000.0,No,East Wall,Dublin 3,q2,40%
+10/09/2010,"21  Merchant'S Square, East Wall",Dublin,187000.0,No,East Wall,Dublin 3,q2,40%
+05/10/2010,"2 Abercorn Road, East Wall",Dublin,110000.0,No,East Wall,Dublin 3,q1,10%
+15/10/2010,"14 Strangford Road, East Wall",Dublin,130000.0,No,East Wall,Dublin 3,q1,20%
+05/11/2010,"62 Merchant'S Square, Merchant Road, East Wall",Dublin,170000.0,No,East Wall,Dublin 3,q2,30%
+11/11/2010,"86 St Marys Road, East Wall, Dublin 3",Dublin,215000.0,No,East Wall,Dublin 3,q2,50%
+30/11/2010,"58 Shelmalier Road, East Wall, Dublin 3",Dublin,155000.0,No,East Wall,Dublin 3,q2,30%
+11/01/2011,"82 East Road, East Wall, Dublin 3",Dublin,165000.0,No,East Wall,Dublin 3,q2,30%
+18/02/2011,"47  Seaview Avenue West, East Wall, Dublin 3",Dublin,225000.0,No,East Wall,Dublin 3,q2,50%
+07/04/2011,"11 Crescent Gardens, West Road, East Wall",Dublin,200000.0,No,East Wall,Dublin 3,q2,40%
+31/05/2011,"40 Seaview Avenue, East Wall",Dublin,227500.0,No,East Wall,Dublin 3,q2,50%
+20/09/2011,"29 Ravensdale Road, East Wall, Parish Of Saint Thomas",Dublin,73000.0,No,East Wall,Dublin 3,q1,10%
+12/10/2011,"2 Portside Court, East Wall",Dublin,152000.0,No,East Wall,Dublin 3,q2,30%
+17/11/2011,"75 Caledon Road, East Wall",Dublin,177000.0,No,East Wall,Dublin 3,q2,40%
+13/12/2011,"21 Forth Road, East Wall, Dublin 3",Dublin,125000.0,No,East Wall,Dublin 3,q1,20%
+16/12/2011,"13&15 Merchants Road, East Wall, Dublin 3",Dublin,50000.0,No,East Wall,Dublin 3,q1,10%
+21/12/2011,"15 Church Road, East Wall",Dublin,65000.0,No,East Wall,Dublin 3,q1,10%
+01/02/2012,"5 Caledon Road, East Wall",Dublin,125000.0,No,East Wall,Dublin 3,q1,20%
+24/02/2012,"31 Caledon Road, East Wall",Dublin,107000.0,No,East Wall,Dublin 3,q1,10%
+12/04/2012,"24 Fourth Road, East Wall, Dublin 3",Dublin,60000.0,No,East Wall,Dublin 3,q1,10%
+20/04/2012,"Apt. 65 Crosbies Yard, Ossory Road, East Wall",Dublin,116740.09,Yes,East Wall,Dublin 3,q1,20%
+26/04/2012,"29 Church Road, East Wall, Dublin 3",Dublin,187000.0,No,East Wall,Dublin 3,q2,40%
+26/04/2012,"8 West Wall, East Wall, Dublin 3",Dublin,85000.0,No,East Wall,Dublin 3,q1,10%
+01/05/2012,"54, Ravensdale Road, East Wall",Dublin,130000.0,No,East Wall,Dublin 3,q1,20%
+22/05/2012,"14A And 14B Hawthorn Ave, East Wall",Dublin,900000.0,No,East Wall,Dublin 3,q4,100%
+08/06/2012,"5 West Road, East Wall",Dublin,50000.0,No,East Wall,Dublin 3,q1,10%
+22/06/2012,"4 Shelmalier Road, East Wall, Dublin 3",Dublin,212000.0,No,East Wall,Dublin 3,q2,50%
+26/07/2012,"Apartment 105 Crosby Yard, Ossory Road, East Wall",Dublin,77579.3,Yes,East Wall,Dublin 3,q1,10%
+07/09/2012,"Apartment 100, The Lighthouse, East Wall",Dublin,87000.0,No,East Wall,Dublin 3,q1,10%
+21/09/2012,"50 West Road, East Wall, Dublin 3",Dublin,140000.0,No,East Wall,Dublin 3,q1,20%
+21/09/2012,"53 Bargy Road, East Wall",Dublin,83000.0,No,East Wall,Dublin 3,q1,10%
+26/09/2012,"82 Shelmalier Road, East Wall, Dublin",Dublin,155000.0,No,East Wall,Dublin 3,q2,30%
+10/10/2012,"6 East Road, East Wall",Dublin,130000.0,No,East Wall,Dublin 3,q1,20%
+07/11/2012,"Apt 29 The Lighthouse, East Wall",Dublin,90000.0,No,East Wall,Dublin 3,q1,10%
+09/11/2012,"40 Caledon Road, East Wall",Dublin,82500.0,No,East Wall,Dublin 3,q1,10%
+17/12/2012,"Apt 69 And Carpark No 53, Crosbies Yard  Ossory Road, East Wall",Dublin,93657.0,Yes,East Wall,Dublin 3,q1,10%
+19/12/2012,"21 Abercorn Road, East Wall, Dublin 3",Dublin,160000.0,No,East Wall,Dublin 3,q2,30%
+19/12/2012,"69 Seaview Avenue, East Wall",Dublin,120000.0,No,East Wall,Dublin 3,q1,20%
+21/12/2012,"Apartment 4  Block A, Crosbies Yard, East Wall",Dublin,118942.0,Yes,East Wall,Dublin 3,q1,20%
+02/01/2013,"56 Bargy Road, East Wall",Dublin,160000.0,No,East Wall,Dublin 3,q2,30%
+07/01/2013,"47 Shelmalier Road, East Wall",Dublin,81000.0,No,East Wall,Dublin 3,q1,10%
+11/01/2013,"2 Church Street, East Wall",Dublin,99000.0,No,East Wall,Dublin 3,q1,10%
+15/02/2013,"35 Shelmalier Road, East Wall",Dublin,120000.0,No,East Wall,Dublin 3,q1,20%
+28/02/2013,"16 Hawthorn Terrace, East Wall",Dublin,115000.0,No,East Wall,Dublin 3,q1,20%
+07/03/2013,"102 Caledon Road, East Wall, Dublin 3",Dublin,130000.0,No,East Wall,Dublin 3,q1,20%
+04/04/2013,"25 West Road, East Wall",Dublin,89000.0,No,East Wall,Dublin 3,q1,10%
+10/04/2013,"Apt 62 Crosbies Yard, Ossory Road, East Wall",Dublin,115040.0,Yes,East Wall,Dublin 3,q1,20%
+15/04/2013,"4 Russell Avenue, East Wall",Dublin,130000.0,No,East Wall,Dublin 3,q1,20%
+01/05/2013,"19 Caledon Road, East Wall, Dublin 3",Dublin,100000.0,No,East Wall,Dublin 3,q1,10%
+14/05/2013,"40 Merchant'S Square, East Wall",Dublin,150000.0,No,East Wall,Dublin 3,q1,30%
+16/05/2013,"10 Church Square, East Wall, Dublin 3",Dublin,99000.0,No,East Wall,Dublin 3,q1,10%
+16/05/2013,"9 Caledon Road, East Wall, Dublin 3",Dublin,99500.0,No,East Wall,Dublin 3,q1,10%
+07/06/2013,"156 East Wall Road, East Wall",Dublin,80000.0,No,East Wall,Dublin 3,q1,10%
+14/06/2013,"23 Ravensdale Road, East Wall",Dublin,78500.0,No,East Wall,Dublin 3,q1,10%
+17/06/2013,"38 Church Road, East Wall",Dublin,200000.0,No,East Wall,Dublin 3,q2,40%
+25/06/2013,"21 Russell Avenue, East Wall",Dublin,140000.0,No,East Wall,Dublin 3,q1,20%
+02/07/2013,"54  Church Road, East Wall",Dublin,225000.0,No,East Wall,Dublin 3,q2,50%
+03/07/2013,"24 Hawthorn Terrace, East Wall, Dublin 3",Dublin,152250.0,No,East Wall,Dublin 3,q2,30%
+01/08/2013,"48 East Wall Road, Dublin 3",Dublin,141250.0,No,East Wall,Dublin 3,q1,30%
+01/08/2013,"49 East Wall Road, Dublin 3",Dublin,141250.0,No,East Wall,Dublin 3,q1,30%
+06/08/2013,"46 Shelmalier Road, East Wall",Dublin,140000.0,No,East Wall,Dublin 3,q1,30%
+09/08/2013,"93 Crosbies Yard, Ossory Road, East Wall",Dublin,99000.0,No,East Wall,Dublin 3,q1,10%
+20/08/2013,"73 Ravensdale Road, East Wall, Dublin 3",Dublin,135000.0,No,East Wall,Dublin 3,q1,20%
+30/08/2013,"37 Merchant'S Square, East Wall",Dublin,147500.0,No,East Wall,Dublin 3,q1,30%
+13/09/2013,"31 Caledon Road, East Wall",Dublin,114000.0,No,East Wall,Dublin 3,q1,10%
+20/09/2013,"14 Abercorn, East Wall",Dublin,125000.0,No,East Wall,Dublin 3,q1,20%
+20/09/2013,"6 Hope Avenue, East Wall Road, Dublin 3",Dublin,130000.0,No,East Wall,Dublin 3,q1,20%
+03/10/2013,"35 Portside Court, West Road, East Wall",Dublin,150000.0,No,East Wall,Dublin 3,q1,30%
+17/10/2013,"28 Forth Road, East Wall, Dublin 3",Dublin,110000.0,No,East Wall,Dublin 3,q1,10%
+07/11/2013,"11 West Rd, East Wall, Dublin 1",Dublin,65000.0,No,East Wall,Dublin 3,q1,10%
+08/11/2013,"61 Bargy Road, East Wall",Dublin,120000.0,No,East Wall,Dublin 3,q1,20%
+08/11/2013,"9 Church Road, East Wall, Dublin 3",Dublin,134000.0,No,East Wall,Dublin 3,q1,20%
+11/11/2013,"27 Merchants Square, East Wall, Dublin 3",Dublin,140000.0,No,East Wall,Dublin 3,q1,30%
+27/11/2013,"23 Hawthorn Terrace, East Wall, Dublin 3",Dublin,115250.0,No,East Wall,Dublin 3,q1,20%
+13/12/2013,"3 Irvine Court, East Wall, Dublin 3",Dublin,180000.0,No,East Wall,Dublin 3,q2,40%
+16/12/2013,"87 Caledon Rd, East Wall, Dublin 3",Dublin,182000.0,No,East Wall,Dublin 3,q2,40%
+19/12/2013,"2 Strangford Rd, East Wall, Dublin 3",Dublin,200000.0,No,East Wall,Dublin 3,q2,40%
+09/01/2014,"15 St Marys Rd, East Wall, Dublin 3",Dublin,132500.0,No,East Wall,Dublin 3,q1,20%
+13/01/2014,"10 Abercorn Rd, East Wall, Dublin",Dublin,55000.0,No,East Wall,Dublin 3,q1,10%
+13/01/2014,"34 Shelmalier Rd, East Wall, Dublin 3",Dublin,171000.0,No,East Wall,Dublin 3,q2,30%
+03/02/2014,"13 Boolavogue Rd, East Wall, Dublin 3",Dublin,141000.0,No,East Wall,Dublin 3,q1,30%
+06/02/2014,"1 Strangford Gardens, West Road, East Wall",Dublin,151000.0,No,East Wall,Dublin 3,q1,30%
+10/02/2014,"38 Ravensdale Rd, East Wall, Dublin 3",Dublin,133000.0,No,East Wall,Dublin 3,q1,20%
+14/03/2014,"48 Bargy Road, East Wall",Dublin,126000.0,No,East Wall,Dublin 3,q1,20%
+28/03/2014,"60 Crosbies Yard, Ossory Road, East Wall",Dublin,120705.0,Yes,East Wall,Dublin 3,q1,20%
+25/04/2014,"57 Shelmallier Rd, East Wall, Dublin 3",Dublin,110000.0,No,East Wall,Dublin 3,q1,10%
+20/05/2014,"14 Forth Rd, East Wall, Dublin 3",Dublin,175000.0,No,East Wall,Dublin 3,q2,40%
+04/06/2014,"50 East Wall Rd, East Wall, Dublin 3",Dublin,190000.0,No,East Wall,Dublin 3,q2,40%
+06/06/2014,"22 Moy Elta Rd, East Wall, Dublin 3",Dublin,80000.0,No,East Wall,Dublin 3,q1,10%
+24/06/2014,"68 Lighthouse Gateway, East Wall Road, Dublin3",Dublin,151000.0,No,East Wall,Dublin 3,q1,30%
+15/07/2014,"26 Merchants Road, East Wall",Dublin,151900.0,No,East Wall,Dublin 3,q1,30%
+22/07/2014,"52 Caledon Rd, East Wall, Dublin 3",Dublin,171000.0,No,East Wall,Dublin 3,q2,40%
+20/08/2014,"13 Hawthorn Terrace, East Wall, Dublin 3",Dublin,207000.0,No,East Wall,Dublin 3,q2,40%
+26/08/2014,"79 St Marys Rd, East Wall, Dublin 3",Dublin,165000.0,No,East Wall,Dublin 3,q2,30%
+12/09/2014,"65 Caledon Rd, East Wall, Dublin 3",Dublin,121000.0,No,East Wall,Dublin 3,q1,20%
+20/09/2014,"42 St Marys Rd, East Wall, Dublin 3",Dublin,200000.0,No,East Wall,Dublin 3,q2,40%
+30/09/2014,"118 Church Road, East Wall, Dublin 3",Dublin,176600.0,No,East Wall,Dublin 3,q2,40%
+13/10/2014,"8 Church Road, East Wall, Dublin 3",Dublin,210000.0,No,East Wall,Dublin 3,q2,50%
+20/10/2014,"79 The Lighthouse, Church Rd, East Wall Dublin 3",Dublin,230000.0,No,East Wall,Dublin 3,q2,50%
+22/10/2014,"148 Caledon Rd, East Wall, Dublin 3",Dublin,246000.0,No,East Wall,Dublin 3,q3,60%
+02/12/2014,"80 East Rd, East Wall, Dublin 3",Dublin,217500.0,No,East Wall,Dublin 3,q2,50%
+14/12/2014,"107 The Lighthouse Apt, Church Rd, East Wall Dublin 3",Dublin,219000.0,No,East Wall,Dublin 3,q2,50%
+18/12/2014,"78 Russell Ave, Church Rd East Wall, Dublin 3",Dublin,135000.0,No,East Wall,Dublin 3,q1,20%
+22/12/2014,"106A Church Rd, East Wall, Church Rd Dublin 3",Dublin,119079.0,No,East Wall,Dublin 3,q1,20%
+22/12/2014,"106B Church Rd, East Wall, Church Rd Dublin 3",Dublin,119079.0,No,East Wall,Dublin 3,q1,20%
+22/12/2014,"12 Moy Elta Rd, East Wall, Dublin 3",Dublin,160000.0,No,East Wall,Dublin 3,q2,30%
+22/12/2014,"42 Shelmalier Rd, East Wall, Dublin 3",Dublin,250000.0,No,East Wall,Dublin 3,q3,60%
+23/12/2014,"1A Church Row, Irvine Terrace, East Wall Dublin 3",Dublin,164000.0,No,East Wall,Dublin 3,q2,30%
+09/01/2015,"54 Seaview Ave, East Wall, Dublin 3",Dublin,190000.0,No,East Wall,Dublin 3,q2,40%
+12/01/2015,"46 East Wall Road, Dublin",Dublin,155000.0,No,East Wall,Dublin 3,q2,30%
+20/01/2015,"29 Crescent Gardens, East Wall, Dublin 3",Dublin,250000.0,No,East Wall,Dublin 3,q3,60%
+17/02/2015,"55A Arbour Mews, Church Road, East Wall",Dublin,168000.0,No,East Wall,Dublin 3,q2,30%
+13/03/2015,"66 Seaview Ave East, East Wall, Dublin 3",Dublin,240000.0,No,East Wall,Dublin 3,q3,60%
+19/03/2015,"45 West Rd, East Wall, Dublin 3",Dublin,218000.0,No,East Wall,Dublin 3,q2,50%
+07/04/2015,"54 Marys Rd North, East Wall, Dublin 3",Dublin,170000.0,No,East Wall,Dublin 3,q2,30%
+08/04/2015,"Apt 1 147 Church Rd, East Wall, Dublin 3",Dublin,80000.0,No,East Wall,Dublin 3,q1,10%
+08/04/2015,"Apt 2 147 Church Road, East Wall, Dublin 3",Dublin,75000.0,No,East Wall,Dublin 3,q1,10%
+08/04/2015,"Apt 3, 147 Church Road, East Wall",Dublin,80000.0,No,East Wall,Dublin 3,q1,10%
+24/04/2015,"101 Church Road, East Wall",Dublin,135000.0,No,East Wall,Dublin 3,q1,20%
+28/04/2015,"70 Russell Ave East, East Wall, Dublin 3",Dublin,171000.0,No,East Wall,Dublin 3,q2,40%
+07/05/2015,"16A Church St East, East Wall, Dublin 3",Dublin,340000.0,No,East Wall,Dublin 3,q4,90%
+15/05/2015,"35 Moy Elta Rd, East Wall, Dublin 3",Dublin,222000.0,No,East Wall,Dublin 3,q2,50%
+20/05/2015,"23 Hawthorn Terrace, East Wall, Dublin 3",Dublin,350000.0,No,East Wall,Dublin 3,q4,90%
+22/05/2015,"23 Russell Ave, East Wall, Dublin 3",Dublin,215000.0,No,East Wall,Dublin 3,q2,50%
+25/05/2015,"40 Fairfield Ave, East Wall, Dublin 3",Dublin,120000.0,No,East Wall,Dublin 3,q1,20%
+26/05/2015,"16 Killan Rd, East Wall, Dublin 3",Dublin,176000.0,No,East Wall,Dublin 3,q2,40%
+28/05/2015,"18 Hope Ave, East Wall Rd, Dublin 3",Dublin,268500.0,No,East Wall,Dublin 3,q3,70%
+10/06/2015,"41 Blythe Avenue, East Wall",Dublin,370500.0,No,East Wall,Dublin 3,q4,100%
+12/06/2015,"114 Island Quay, East Rd, East Wall Dublin 3",Dublin,150000.0,No,East Wall,Dublin 3,q1,30%
+22/06/2015,"107 Church Rd, East Wall, Dublin 3",Dublin,137500.0,No,East Wall,Dublin 3,q1,20%
+14/07/2015,"41 West Road, East Wall, Dublin 3",Dublin,170000.0,No,East Wall,Dublin 3,q2,30%
+14/07/2015,"9 Shelmalier Road, East Wall, Dublin 3",Dublin,180000.0,No,East Wall,Dublin 3,q2,40%
+16/07/2015,"11 Forth Rd, East Wall, Dublin 3",Dublin,235000.0,No,East Wall,Dublin 3,q3,60%
+17/07/2015,"94 St Mary'S Road, East Wall, Dublin 3",Dublin,135000.0,No,East Wall,Dublin 3,q1,20%
+28/07/2015,"136 Caledon Rd, East Wall, Dublin 3",Dublin,295000.0,No,East Wall,Dublin 3,q3,80%
+07/08/2015,"73 Church Rd, East Wall, Dublin 3",Dublin,200000.0,No,East Wall,Dublin 3,q2,40%
+14/08/2015,"31 Merchants Sq, East Wall, Dublin 3",Dublin,221000.0,No,East Wall,Dublin 3,q2,50%
+26/08/2015,"36 Moy Elta Rd, East Wall, Dublin 3",Dublin,187500.0,No,East Wall,Dublin 3,q2,40%
+15/09/2015,"30 Seaview Ave, East Wall, Dublin 3",Dublin,245000.0,No,East Wall,Dublin 3,q3,60%
+22/09/2015,"61 Ravensdale Road, East Wall, Dublin 3",Dublin,207500.0,No,East Wall,Dublin 3,q2,40%
+28/09/2015,"55 Church Rd, East Wall, Dublin 3",Dublin,237500.0,No,East Wall,Dublin 3,q3,60%
+06/10/2015,"6 Seaview Ave East, East Wall, Dublin 3",Dublin,174000.0,No,East Wall,Dublin 3,q2,40%
+13/10/2015,"8  Shelmalier Road, East Wall, Dublin 3",Dublin,225000.0,No,East Wall,Dublin 3,q2,50%
+30/10/2015,"70 Lighthouse Apts, East Wall Rd, Dublin 3",Dublin,240000.0,No,East Wall,Dublin 3,q3,60%
+05/11/2015,"56 West Rd, East Wall, Dublin 3",Dublin,300000.0,No,East Wall,Dublin 3,q3,80%
+06/11/2015,"117 Island Quay, East Rd, East Wall Dublin 3",Dublin,130000.0,No,East Wall,Dublin 3,q1,20%
+03/12/2015,"65 Caledon Rd, East Wall, Dublin 3",Dublin,225000.0,No,East Wall,Dublin 3,q2,50%
+11/12/2015,"30 West Rd, East Wall, Dublin 3",Dublin,271000.0,No,East Wall,Dublin 3,q3,70%
+14/12/2015,"21 Russell Avenue, East Wall",Dublin,225000.0,No,East Wall,Dublin 3,q2,50%
+21/12/2015,"87 Churchroad, East Wall, Dublin 3",Dublin,130000.0,No,East Wall,Dublin 3,q1,20%
+02/02/2016,"162 East Wall Rd, Dublin 3",Dublin,175000.0,No,East Wall,Dublin 3,q2,40%
+15/02/2016,"3 Merchant Sq, East Wall, Dublin 3",Dublin,231000.0,No,East Wall,Dublin 3,q3,60%
+17/02/2016,"15 Hawthorn Terrace, East Wall, Dublin 3",Dublin,343500.0,No,East Wall,Dublin 3,q4,90%
+17/02/2016,"21 St Marys Rd Nth, East Wall, Dublin 3",Dublin,195000.0,No,East Wall,Dublin 3,q2,40%
+18/02/2016,"77 Seaview Ave, East Wall, Dublin 3",Dublin,210000.0,No,East Wall,Dublin 3,q2,50%
+19/02/2016,"17 Portside Court, West Rd, East Wall Dublin 3",Dublin,60000.0,No,East Wall,Dublin 3,q1,10%
+22/02/2016,"12 Hawthorn Tce, East Wall, Dublin 3",Dublin,250000.0,No,East Wall,Dublin 3,q3,60%
+25/02/2016,"26 Moy Elta Road, East Wall, Dublin 3",Dublin,142500.0,No,East Wall,Dublin 3,q1,30%
+30/03/2016,"Apt 77 Lighthouse Apartments, Church Road, East Wall",Dublin,193020.0,No,East Wall,Dublin 3,q2,40%
+01/04/2016,"26 Russell Ave East, East Wall, Dublin 3",Dublin,210000.0,No,East Wall,Dublin 3,q2,50%
+14/04/2016,"13 Portside Court, Rd West, East Wall",Dublin,263000.0,No,East Wall,Dublin 3,q3,70%
+03/05/2016,"105 Caledon Rd, East Wall, Dublin 3",Dublin,280000.0,No,East Wall,Dublin 3,q3,70%
+12/05/2016,"78 Church Rd, East Wall, Dublin 3",Dublin,120000.0,No,East Wall,Dublin 3,q1,20%
+19/05/2016,"Stoney House, Stoney Rd, East Wall Dublin 3",Dublin,241200.0,No,East Wall,Dublin 3,q3,60%
+20/05/2016,"13 St Marys Rd, East Wall, Dublin 3",Dublin,220000.0,No,East Wall,Dublin 3,q2,50%
+08/06/2016,"10 East Rd, East Wall, Dublin 3",Dublin,195000.0,No,East Wall,Dublin 3,q2,40%
+24/06/2016,"15 Church Sq, East Wall, Dublin 3",Dublin,235000.0,No,East Wall,Dublin 3,q3,60%
+30/06/2016,"24 Merchants Sq, East Wall, Dublin 3",Dublin,220000.0,No,East Wall,Dublin 3,q2,50%
+05/07/2016,"5 Boolavogue Rd, East Wall, Dublin 3",Dublin,275000.0,No,East Wall,Dublin 3,q3,70%
+12/07/2016,"76 Church Road, East Wall, Dublin 3",Dublin,238000.0,No,East Wall,Dublin 3,q3,60%
+15/07/2016,"121 St Mary'S Road, East Wall, Dublin 3",Dublin,180000.0,No,East Wall,Dublin 3,q2,40%
+02/08/2016,"24 East Road, East Wall, Dublin 3",Dublin,220000.0,No,East Wall,Dublin 3,q2,50%
+03/08/2016,"100 Caledon Rd, East Wall, Dublin 3",Dublin,238000.0,No,East Wall,Dublin 3,q3,60%
+05/08/2016,"11 Church St East, East Wall, Dublin 3",Dublin,280000.0,No,East Wall,Dublin 3,q3,70%
+17/08/2016,"69 Crosbies Yard, Ossory Road, East Wall",Dublin,165000.0,No,East Wall,Dublin 3,q2,30%
+24/08/2016,"57 Church Road, East Wall, Dublin 3",Dublin,230000.0,No,East Wall,Dublin 3,q3,60%
+26/08/2016,"103 Merchants Road, East Wall, Dublin 3",Dublin,200000.0,No,East Wall,Dublin 3,q2,40%
+06/09/2016,"7 Church Ave, East Wall, Dublin 3",Dublin,95000.0,No,East Wall,Dublin 3,q1,10%
+15/09/2016,"2 Merchants Sq, East Wall, Dublin 3",Dublin,245000.0,No,East Wall,Dublin 3,q3,60%
+21/09/2016,"52 Bargy Road, East Wall, Dublin 3",Dublin,243000.0,No,East Wall,Dublin 3,q3,60%
+26/09/2016,"93 St Marys Rd, East Wall, Dublin 3",Dublin,200000.0,No,East Wall,Dublin 3,q2,40%
+28/09/2016,"12 Strangford Gardens, West Rd, East Wall",Dublin,320000.0,No,East Wall,Dublin 3,q4,80%
+14/10/2016,"22 Hawthorn Terrace, East Wall, Dublin 3",Dublin,210000.0,No,East Wall,Dublin 3,q2,50%
+03/11/2016,"48 Church Rd, East Wall, Dublin 3",Dublin,265000.0,No,East Wall,Dublin 3,q3,70%
+10/11/2016,"7 Oxford Terrace, Church Rd, East Wall Dublin 3",Dublin,335000.0,No,East Wall,Dublin 3,q4,90%
+17/11/2016,"12 Strangford Rd, East Wall, Dublin",Dublin,11058.96,No,East Wall,Dublin 3,q1,10%
+18/11/2016,"136 Church Rd, East Wall, Dublin 3",Dublin,270000.0,No,East Wall,Dublin 3,q3,70%
+21/11/2016,"59 Seaview Avenue, East Wall, Dublin 3",Dublin,250000.0,No,East Wall,Dublin 3,q3,60%
+02/12/2016,"4 St Barnabas Gardens, East Wall, Dublin 3",Dublin,375000.0,No,East Wall,Dublin 3,q4,100%
+16/12/2016,"1 Bolands Cottages, Church Rd, East Wall Dublin 3",Dublin,180000.0,No,East Wall,Dublin 3,q2,40%
+19/12/2016,"1 Church Court, Church Rd, East Wall Dublin 3",Dublin,250000.0,No,East Wall,Dublin 3,q3,60%
+20/12/2016,"60 St Marys Rd, East Wall, Dublin 3",Dublin,320000.0,No,East Wall,Dublin 3,q4,80%
+06/01/2017,"47 Caledon Rd, East Wall, Dublin 3",Dublin,240000.0,No,East Wall,Dublin 3,q3,60%
+10/01/2017,"6 Killane Rd, East Wall, Dublin 3",Dublin,265000.0,No,East Wall,Dublin 3,q3,70%
+17/01/2017,"57 Caledon Rd, East Wall, Dublin 13",Dublin,210000.0,No,East Wall,Dublin 3,q2,50%
+18/01/2017,"4 Oxford Terrace, East Wall, Dublin 3",Dublin,427500.0,No,East Wall,Dublin 3,q4,100%
+20/01/2017,"4St Muras Terrace, Strangford Rd, East Wall Dublin 3",Dublin,285000.0,No,East Wall,Dublin 3,q3,70%
+23/01/2017,"202 East Wall Rd, Dublin 3, Dublin",Dublin,250000.0,No,East Wall,Dublin 3,q3,60%
+30/01/2017,"182 East Wall Rd, Dublin 3, Dublin",Dublin,220000.0,No,East Wall,Dublin 3,q2,50%
+20/02/2017,"34 Seaview Avenue, East Wall, Dublin 3",Dublin,150000.0,No,East Wall,Dublin 3,q1,30%
+24/02/2017,"26 Ravensdale Rd, East Wall, Dublin 3",Dublin,210000.0,No,East Wall,Dublin 3,q2,50%
+10/03/2017,"Apt 86 The Lighthouse, Church Rd, East Wall",Dublin,195000.0,No,East Wall,Dublin 3,q2,40%
+30/03/2017,"138 The Lighthouse, Church Rd, East Wall Dublin 3",Dublin,150000.0,No,East Wall,Dublin 3,q1,30%
+31/03/2017,"50 Russell Ave, East Wall, Dublin 3",Dublin,250000.0,No,East Wall,Dublin 3,q3,60%
+05/04/2017,"63 West Rd, East Wall, Dublin 3",Dublin,353000.0,No,East Wall,Dublin 3,q4,90%
+06/04/2017,"47 The Lighthouse Apts, Church Rd, East Wall Dublin 3",Dublin,309000.0,No,East Wall,Dublin 3,q4,80%
+12/04/2017,"49 Caledon Rd, East Wall, Dublin 3",Dublin,222000.0,No,East Wall,Dublin 3,q2,50%
+05/05/2017,"89 Merchants Rd, East Wall, Dublin 3",Dublin,215000.0,No,East Wall,Dublin 3,q2,50%
+08/05/2017,"40 Merchants Sq, East Wall, Dublin 3",Dublin,154300.0,No,East Wall,Dublin 3,q2,30%
+10/05/2017,"1 St Barnabas Gardens, West Rd, East Wall Dublin 3",Dublin,380000.0,No,East Wall,Dublin 3,q4,100%
+10/05/2017,"196 East Wall Rd, Dublin 3, Dublin",Dublin,255000.0,No,East Wall,Dublin 3,q3,60%
+11/05/2017,"20 West Rd, East Wall, Dublin 3",Dublin,340000.0,No,East Wall,Dublin 3,q4,90%
+19/05/2017,"26 Merchant'S Road, East Wall, Dublin 3",Dublin,208000.0,No,East Wall,Dublin 3,q2,40%
+24/05/2017,"1 Hawthorn Close, Hawthorn Avenue, East Wall Road",Dublin,396475.0,Yes,East Wall,Dublin 3,q4,100%
+30/05/2017,"51 West Rd, East Wall, Dublin 3",Dublin,279000.0,No,East Wall,Dublin 3,q3,70%
+07/06/2017,"36 Portside Court, East Wall, Dublin 3",Dublin,236000.0,No,East Wall,Dublin 3,q3,60%
+14/06/2017,"30 Shelmalier Road, East Wall, Dublin 3",Dublin,227000.0,No,East Wall,Dublin 3,q2,50%
+16/06/2017,"164 East Wall Rd, Dublin 3, Dublin",Dublin,258000.0,No,East Wall,Dublin 3,q3,70%
+21/06/2017,"99 St Marys Rd, East Wall, Dublin 3",Dublin,262000.0,No,East Wall,Dublin 3,q3,70%
+29/06/2017,"63 Merchants Rd, East Wall, Dublin 3",Dublin,195000.0,No,East Wall,Dublin 3,q2,40%
+30/06/2017,"46 Church Rd, East Wall, Dublin 3",Dublin,260000.0,No,East Wall,Dublin 3,q3,70%
+30/06/2017,"66 Caledon Rd, East Wall, Dublin 3",Dublin,262000.0,No,East Wall,Dublin 3,q3,70%
+04/07/2017,"52 Russell Avenue East, East Wall, Dublin 3",Dublin,250000.0,No,East Wall,Dublin 3,q3,60%
+05/07/2017,"8 Caledon Court, East Rd, East Wall",Dublin,285000.0,No,East Wall,Dublin 3,q3,70%
+06/07/2017,"3 Hawthorn Close, Hawthorn Avenue, East Wall",Dublin,334801.72,Yes,East Wall,Dublin 3,q4,90%
+07/07/2017,"71 Seaview Ave East, East Wall, Dublin 3",Dublin,307500.0,No,East Wall,Dublin 3,q4,80%
+14/07/2017,"11 Shelmalier Rd, East Wall, Dublin 3",Dublin,272000.0,No,East Wall,Dublin 3,q3,70%
+14/07/2017,"48 Lighthouse, Church Rd, East Wall Dublin 3",Dublin,310000.0,No,East Wall,Dublin 3,q4,80%
+15/07/2017,"92 East Road, East Wall, Dublin 3",Dublin,142500.0,No,East Wall,Dublin 3,q1,30%
+18/07/2017,"14 West Rd, East Wall, Dublin 3",Dublin,275000.0,No,East Wall,Dublin 3,q3,70%
+18/07/2017,"21 Hope Ave, East Wall, Dublin 3",Dublin,280000.0,No,East Wall,Dublin 3,q3,70%
+04/08/2017,"2 Hawthorn Close, Hawthorn Avenue, East Wall",Dublin,370044.0,Yes,East Wall,Dublin 3,q4,100%
+18/08/2017,"97 Merchants Road, East Wall, Dublin 3",Dublin,221000.0,No,East Wall,Dublin 3,q2,50%
+23/08/2017,"73 Church Rd, East Wall, Dublin 3",Dublin,235000.0,No,East Wall,Dublin 3,q3,60%
+23/08/2017,"93 St Marys Rd, East Wall, Dublin 3",Dublin,365000.0,No,East Wall,Dublin 3,q4,100%
+24/08/2017,"42 Blythe Ave, East Wall, Dublin 3",Dublin,365000.0,No,East Wall,Dublin 3,q4,100%
+25/08/2017,"79 Merchants Rd, East Wall, Dublin 3",Dublin,235000.0,No,East Wall,Dublin 3,q3,60%
+07/09/2017,"9 Caledon Court, East Rd, East Wall Dublin 3",Dublin,284000.0,No,East Wall,Dublin 3,q3,70%
+08/09/2017,"37 St. Marys Road, East Wall, Dublin 3",Dublin,312500.0,No,East Wall,Dublin 3,q4,80%
+22/09/2017,"16 Church Road, East Wall, Dublin 3",Dublin,225000.0,No,East Wall,Dublin 3,q2,50%
+03/10/2017,"3 Fairfield Avenue, East Wall, Dublin 3",Dublin,147000.0,No,East Wall,Dublin 3,q1,30%
+09/10/2017,"Apt 91, Lighthouse, East Wall",Dublin,265000.0,No,East Wall,Dublin 3,q3,70%
+11/10/2017,"Apt 1  Alexandra Place, 55-58 East Road, East Wall",Dublin,10132159.0,Yes,East Wall,Dublin 3,q4,100%
+12/10/2017,"2 Portside Court, East Wall, Dublin 3",Dublin,285000.0,No,East Wall,Dublin 3,q3,70%
+13/10/2017,"125 St Marys Rd, East Wall, Dublin 3",Dublin,290000.0,No,East Wall,Dublin 3,q3,80%
+13/10/2017,"36 Lighthouse Apts, Church Rd, East Wall Dublin 3",Dublin,340000.0,No,East Wall,Dublin 3,q4,90%
+19/10/2017,"99 Merchants Road, East Wall, Dublin 3",Dublin,231000.0,No,East Wall,Dublin 3,q3,60%
+01/11/2017,"33 Merchants Rd, East Wall, Dublin 3",Dublin,246000.0,No,East Wall,Dublin 3,q3,60%
+16/11/2017,"198 East Wall Rd, Dublin 3, Dublin",Dublin,275000.0,No,East Wall,Dublin 3,q3,70%
+17/11/2017,"43 The Lighthouse Apts, Church Rd, East Wall Dublin 3",Dublin,328000.0,No,East Wall,Dublin 3,q4,90%
+05/12/2017,"69 Church Rd, East Wall, Dublin 3",Dublin,310000.0,No,East Wall,Dublin 3,q4,80%
+06/12/2017,"36 East Wall Road, Dublin",Dublin,240000.0,No,East Wall,Dublin 3,q3,60%
+22/12/2017,"107 Church Rd, East Wall, Dublin 3",Dublin,615000.0,No,East Wall,Dublin 3,q4,100%
+23/01/2018,"25 Portside Court, East Wall, Dublin 3",Dublin,325000.0,No,East Wall,Dublin 3,q4,90%
+25/01/2018,"19 Portside Court, East Wall, Dublin 3",Dublin,299299.0,No,East Wall,Dublin 3,q3,80%
+02/02/2018,"68 Bargy Rd, East Wall, Dublin 3",Dublin,306000.0,No,East Wall,Dublin 3,q3,80%
+08/02/2018,"71 St Marys Rd, East Wall, Dublin 3",Dublin,340000.0,No,East Wall,Dublin 3,q4,90%
+15/02/2018,"32 Seaview Ave, West Rd, East Wall Dublin 3",Dublin,300000.0,No,East Wall,Dublin 3,q3,80%
+22/02/2018,"23 Lighthouse Apts, East Wall, Dublin 3",Dublin,290000.0,No,East Wall,Dublin 3,q3,80%
+08/03/2018,"128 The Lighthouse, Church Rd, East Wall Dublin 3",Dublin,295000.0,No,East Wall,Dublin 3,q3,80%
+08/03/2018,"20 Forth Rd, East Wall, Dublin 3",Dublin,315000.0,No,East Wall,Dublin 3,q4,80%
+09/03/2018,"25 Fairfield Avenue, East Wall, Dublin 3",Dublin,381000.0,No,East Wall,Dublin 3,q4,100%
+12/03/2018,"2 Forth Rd, East Wall, Dublin",Dublin,315000.0,No,East Wall,Dublin 3,q4,80%
+23/03/2018,"41 West Road, East Wall, Dublin 3",Dublin,451000.0,No,East Wall,Dublin 3,q4,100%
+26/03/2018,"57 Russell Avenue East, East Wall, Dublin 3",Dublin,230000.0,No,East Wall,Dublin 3,q3,60%
+29/03/2018,"11 Church Sq, Church Rd, East Wall",Dublin,295000.0,No,East Wall,Dublin 3,q3,80%
+13/04/2018,"Apartments 1St Floor, 125 East Wall Road, Dublin 3",Dublin,380000.0,No,East Wall,Dublin 3,q4,100%
+16/05/2018,"9 Hawthorne Avenue, East Wall, Dublin 3",Dublin,262500.0,No,East Wall,Dublin 3,q3,70%
+31/05/2018,"112 The Lighthouse, East Wall Rd, Lighthouse Dublin 3",Dublin,475000.0,No,East Wall,Dublin 3,q4,100%
+06/07/2018,"7 Shelmalier Rd, East Wall, Dublin 3",Dublin,365000.0,No,East Wall,Dublin 3,q4,100%
+17/07/2018,"111 The Lighthouse, East Wall Rd, Lighthouse Dublin 3",Dublin,412050.0,No,East Wall,Dublin 3,q4,100%
+23/07/2018,"52 West Rd, East Wall, Dublin 3",Dublin,346000.0,No,East Wall,Dublin 3,q4,90%
+25/07/2018,"16 Church Square, East Wall, Dublin 3",Dublin,289000.0,No,East Wall,Dublin 3,q3,70%
+26/07/2018,"6 Abercorn Rd, East Wall, Dublin 3",Dublin,185000.0,No,East Wall,Dublin 3,q2,40%
+27/07/2018,"5 Caledon Rd, East Wall, Dublin",Dublin,295000.0,No,East Wall,Dublin 3,q3,80%
+01/08/2018,"76 West Rd, East Wall, Dublin 3",Dublin,350000.0,No,East Wall,Dublin 3,q4,90%
+09/08/2018,"9A St Barnabas Gardens, East Wall, Dublin 3",Dublin,425000.0,No,East Wall,Dublin 3,q4,100%
+19/08/2018,"164 Caledon Road, East Wall, Dublin 3",Dublin,330000.0,No,East Wall,Dublin 3,q4,90%
+21/08/2018,"78 The Lighthouse, East Wall Rd, Dublin 3",Dublin,275000.0,No,East Wall,Dublin 3,q3,70%
+23/08/2018,"2 Caledon Rd, East Wall, Dublin 3",Dublin,253000.0,No,East Wall,Dublin 3,q3,60%
+28/08/2018,"29 Merchants Sq, East Wall, Dublin 3",Dublin,285000.0,No,East Wall,Dublin 3,q3,70%
+07/09/2018,"102 Caledon Rd, East Wall, Dublin 3",Dublin,333000.0,No,East Wall,Dublin 3,q4,90%
+07/09/2018,"12 Strangford Gardens, West Rd, East Wall",Dublin,380000.0,No,East Wall,Dublin 3,q4,100%
+07/09/2018,"Apt126 Block 3, Island Key, East Wall Dublin 3",Dublin,262000.0,No,East Wall,Dublin 3,q3,70%
+11/09/2018,"60 West Road, East Wall, Dublin 3",Dublin,340000.0,No,East Wall,Dublin 3,q4,90%
+12/09/2018,"3 Strangford Rd, East Wall, Dublin 3",Dublin,460000.0,No,East Wall,Dublin 3,q4,100%
+13/09/2018,"12 Faith Ave, East Wall, Dublin 3",Dublin,320000.0,No,East Wall,Dublin 3,q4,80%
+14/09/2018,"1 St Mura'S Terrace, East Wall, Dublin 3",Dublin,450000.0,No,East Wall,Dublin 3,q4,100%
+17/09/2018,"8 Shelmalier Rd, East Wall, Dublin 3",Dublin,340000.0,No,East Wall,Dublin 3,q4,90%
+19/09/2018,"14 Bargy Rd, East Wall, Dublin 3",Dublin,320000.0,No,East Wall,Dublin 3,q4,80%
+27/09/2018,"8 Crescent Gardens, East Wall, Dublin 3",Dublin,357500.0,No,East Wall,Dublin 3,q4,100%
+12/10/2018,"58 Island Key, East Rd, East Wall Dublin 3",Dublin,240000.0,No,East Wall,Dublin 3,q3,60%
+02/11/2018,"124 The Lighthouse, Church Rd, East Wall Dublin 3",Dublin,350000.0,No,East Wall,Dublin 3,q4,90%
+09/11/2018,"32 Merchants Rd, East Wall, Dublin 3",Dublin,220000.0,No,East Wall,Dublin 3,q2,50%
+13/11/2018,"135 The Lighthouse, Church Rd, East Wall Dublin 3",Dublin,265000.0,No,East Wall,Dublin 3,q3,70%
+16/11/2018,"21 Merchant Sq, East Wall, Dublin 3",Dublin,325000.0,No,East Wall,Dublin 3,q4,90%
+26/11/2018,"28 East Wall Road, East Wall, Dublin 3",Dublin,325000.0,No,East Wall,Dublin 3,q4,90%
+30/11/2018,"67 Church Road, East Wall, Dublin 3",Dublin,312000.0,No,East Wall,Dublin 3,q4,80%
+04/12/2018,"138 East Wall Rd, Dublin 3",Dublin,220000.0,No,East Wall,Dublin 3,q2,50%
+05/12/2018,"64 St Marys Rd, East Wall, Dublin 3",Dublin,400000.0,No,East Wall,Dublin 3,q4,100%
+17/12/2018,"1 Boolavogue Rd, East Wall, Dublin 3",Dublin,352500.0,No,East Wall,Dublin 3,q4,90%
+04/01/2019,"169 Crosbies Yard, Ossory Rd, East Wall Dublin 3",Dublin,302000.0,No,East Wall,Dublin 3,q3,80%
+22/01/2019,"4 Strangford Rd East, East Wall, Dublin 3",Dublin,496000.0,No,East Wall,Dublin 3,q4,100%
+23/01/2019,"122 Caledon Rd, East Wall, Dublin 3",Dublin,348000.0,No,East Wall,Dublin 3,q4,90%
+23/01/2019,"32 Caledon Rd, East Wall, Dublin 3",Dublin,324000.0,No,East Wall,Dublin 3,q4,80%
+23/01/2019,"36 East Wall Road, Dublin",Dublin,342000.0,No,East Wall,Dublin 3,q4,90%
+28/01/2019,"21 Shelmalier Rd, East Wall, Dublin 3",Dublin,335000.0,No,East Wall,Dublin 3,q4,90%
+01/02/2019,"17 Abercorn Rd, East Wall, Dublin 3",Dublin,258000.0,No,East Wall,Dublin 3,q3,70%
+07/02/2019,"9 Hawthorn Terrace, East Wall, Dublin 3",Dublin,337000.0,No,East Wall,Dublin 3,q4,90%
+12/02/2019,"16 Russell Ave, East Wall, Dublin 3",Dublin,325000.0,No,East Wall,Dublin 3,q4,90%
+21/03/2019,"59 St Mary'S Road, East Wall, Dublin 3",Dublin,295000.0,No,East Wall,Dublin 3,q3,80%
+22/03/2019,"8 East Road, East Wall, Dublin 3",Dublin,325000.0,No,East Wall,Dublin 3,q4,90%
+28/03/2019,"17 St Marys Road, East Wall, Dublin 3",Dublin,265100.0,No,East Wall,Dublin 3,q3,70%
+28/03/2019,"3 Killan Road, East Wall, Dublin 3",Dublin,275000.0,No,East Wall,Dublin 3,q3,70%
+02/04/2019,"28 Merchants Sq, East Wall, Dublin 3",Dublin,283000.0,No,East Wall,Dublin 3,q3,70%
+02/04/2019,"47 West Rd, East Wall, Dublin 3",Dublin,315000.0,No,East Wall,Dublin 3,q4,80%
+04/04/2019,"2 Hawthorn Ave, East Wall, Dublin City",Dublin,242000.0,No,East Wall,Dublin 3,q3,60%
+11/04/2019,"106A & 106B Church Rd, East Wall, Church Rd Dublin 3",Dublin,429506.58,No,East Wall,Dublin 3,q4,100%
+23/04/2019,"62 Church Rd, East Wall, Dublin 3",Dublin,310000.0,No,East Wall,Dublin 3,q4,80%
+25/04/2019,"41 East Wall Road, East Wall, Dublin 3",Dublin,350000.0,No,East Wall,Dublin 3,q4,90%
+26/04/2019,"26 Moy Elta Road, East Wall, Dublin 3",Dublin,362500.0,No,East Wall,Dublin 3,q4,100%
+29/04/2019,"33 Fairfield Ave, East Wall, Dublin 3",Dublin,350000.0,No,East Wall,Dublin 3,q4,90%
+30/04/2019,"12 Moy Elta Rd, East Wall, Dublin 3",Dublin,315000.0,No,East Wall,Dublin 3,q4,80%
+08/05/2019,"95 St Marys Rd, East Wall, Dublin 3",Dublin,300000.0,No,East Wall,Dublin 3,q3,80%
+23/05/2019,"53 Lighthouse Apts, Church Rd, East Wall Dublin 3",Dublin,320000.0,No,East Wall,Dublin 3,q4,80%
+27/05/2019,"44 Bargy Rd, East Wall, Dublin 3",Dublin,230000.0,No,East Wall,Dublin 3,q3,60%
+28/05/2019,"31 Shelmalier Rd, East Wall, Dublin 3",Dublin,325000.0,No,East Wall,Dublin 3,q4,90%
+28/05/2019,"38 Fairfield Ave, East Wall, Dublin 3",Dublin,380000.0,No,East Wall,Dublin 3,q4,100%
+07/06/2019,"118 Church Road, East Wall, Dublin 3",Dublin,1385000.0,No,East Wall,Dublin 3,q4,100%
+07/06/2019,"29 Church Rd, East Wall, Dublin 3",Dublin,400000.0,No,East Wall,Dublin 3,q4,100%
+10/06/2019,"61 West Rd, East Wall, Dublin 3",Dublin,404000.0,No,East Wall,Dublin 3,q4,100%
+13/06/2019,"164 Church Rd, East Wall, Dublin 3",Dublin,304000.0,No,East Wall,Dublin 3,q3,80%
+17/06/2019,"15 Portside Court, East Wall, Dublin 3",Dublin,302500.0,No,East Wall,Dublin 3,q3,80%
+20/06/2019,"2 Moy Elta Rd, East Wall, Dublin 3",Dublin,325000.0,No,East Wall,Dublin 3,q4,90%
+20/06/2019,"4 Moy Elta Rd, East Wall, Dublin 3",Dublin,300000.0,No,East Wall,Dublin 3,q3,80%
+20/06/2019,"55 West Rd, East Wall, Dublin 3",Dublin,375000.0,No,East Wall,Dublin 3,q4,100%
+21/06/2019,"72 Rd East Wall, Ravensdale Dublin 3, Dublin",Dublin,345000.0,No,East Wall,Dublin 3,q4,90%
+26/06/2019,"53 Merchants Sq, East Wall, Dublin 3",Dublin,318000.0,No,East Wall,Dublin 3,q4,80%
+04/07/2019,"59 Canon Hall, Church St East, East Wall Dublin 3",Dublin,475000.0,No,East Wall,Dublin 3,q4,100%
+25/07/2019,"66 Ravensdale Rd, East Wall, Dublin 3",Dublin,394000.0,No,East Wall,Dublin 3,q4,100%
+09/08/2019,"26 Lighthouse Apts, Church Rd, East Wall Dublin 3",Dublin,330000.0,No,East Wall,Dublin 3,q4,90%
+09/08/2019,"38 East Wall Road, Dublin 3",Dublin,150000.0,No,East Wall,Dublin 3,q1,30%
+09/08/2019,"49 Caledon Rd, East Wall, Dublin 3",Dublin,235000.0,No,East Wall,Dublin 3,q3,60%
+13/08/2019,"12 Shelmalier Rd, East Wall, Dublin 3",Dublin,290000.0,No,East Wall,Dublin 3,q3,80%
+26/08/2019,"150A Church Rd, East Wall, Dublin 3",Dublin,285000.0,No,East Wall,Dublin 3,q3,70%
+05/09/2019,"46 Merchant Sq, East Wall, Dublin",Dublin,355000.0,No,East Wall,Dublin 3,q4,100%
+17/09/2019,"21 Fairfield Ave, East Wall, Dublin",Dublin,383000.0,No,East Wall,Dublin 3,q4,100%
+23/09/2019,"20 Ravensdale Rd, East Wall, Dublin",Dublin,275000.0,No,East Wall,Dublin 3,q3,70%
+23/09/2019,"43 Merchants Sq, East Wall, Dublin 3",Dublin,360000.0,No,East Wall,Dublin 3,q4,100%
+30/09/2019,"20 Shelmalier Rd, East Wall, Dublin 3",Dublin,300000.0,No,East Wall,Dublin 3,q3,80%
+02/10/2019,"25 Ravensdale Rd, East Wall, Dublin",Dublin,265000.0,No,East Wall,Dublin 3,q3,70%
+10/10/2019,"36 Merchants Rd, East Wall, Dublin 3",Dublin,220000.0,No,East Wall,Dublin 3,q2,50%
+11/10/2019,"5 Irvine Court, East Wall, Dublin 3",Dublin,345000.0,No,East Wall,Dublin 3,q4,90%
+18/10/2019,"32 St Marys Rd, East Wall, Dublin 3",Dublin,350000.0,No,East Wall,Dublin 3,q4,90%

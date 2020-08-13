@@ -1,0 +1,344 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+29/01/2010,"1 Church View, Hollystown, Dublin 15",Dublin,466960.35,Yes,Hollystown,Dublin 15,q4,100%
+03/06/2010,"51 Redwood Heights, Hollystown, Dublin 15",Dublin,395000.0,No,Hollystown,Dublin 15,q4,100%
+16/09/2010,"6 Hollystown Demesne, Hollystown",Dublin,420000.0,No,Hollystown,Dublin 15,q4,100%
+12/11/2010,"19 Hollystown Park, Hollystown, Dublin 15",Dublin,435000.0,No,Hollystown,Dublin 15,q4,100%
+02/11/2011,"14 Chapelwood View, Hollystown",Dublin,235000.0,No,Hollystown,Dublin 15,q1,20%
+13/12/2011,"2 Chapelwood Green, Hollystown, Dublin 15",Dublin,260000.0,No,Hollystown,Dublin 15,q1,30%
+09/02/2012,"25 Chapelwood Drive, Chapelwood, Hollystown",Dublin,92511.0,Yes,Hollystown,Dublin 15,q1,10%
+28/03/2012,"4 Church View, Hollystown, Dublin 15",Dublin,490000.0,No,Hollystown,Dublin 15,q4,100%
+04/04/2012,"41 Hollystown Park, Hollystown",Dublin,335000.0,No,Hollystown,Dublin 15,q3,70%
+16/04/2012,"1 Chapelwood Crescent, Chapelwood, Hollystown",Dublin,112500.0,Yes,Hollystown,Dublin 15,q1,10%
+16/04/2012,"8 Chapelwood Park, Chapelwood, Hollystown",Dublin,112500.0,Yes,Hollystown,Dublin 15,q1,10%
+24/04/2012,"Hollywood Rath, Hollystown",Dublin,115000.0,No,Hollystown,Dublin 15,q1,10%
+29/05/2012,"3 Chapelwood View, Chapelwood, Hollystown",Dublin,100000.0,No,Hollystown,Dublin 15,q1,10%
+30/05/2012,"3 Chapelwood Green, Hollystown, Dublin 15",Dublin,96916.0,Yes,Hollystown,Dublin 15,q1,10%
+01/06/2012,"18 Alderwood, Hollystown",Dublin,92511.0,Yes,Hollystown,Dublin 15,q1,10%
+01/06/2012,"25 Alderwood, Hollystown",Dublin,92511.0,Yes,Hollystown,Dublin 15,q1,10%
+01/06/2012,"40 Alderwood, Hollystown",Dublin,92511.0,Yes,Hollystown,Dublin 15,q1,10%
+01/06/2012,"46 Alderwood, Hollystown",Dublin,92511.0,Yes,Hollystown,Dublin 15,q1,10%
+06/06/2012,"37  Alderwood, Hollystown",Dublin,190000.0,Yes,Hollystown,Dublin 15,q1,10%
+07/06/2012,"29 Hollystown Demesne, Hollystown, Dublin 15",Dublin,315000.0,No,Hollystown,Dublin 15,q3,60%
+10/07/2012,"19 Alderwood, Alderwood, Hollystown",Dublin,164701.0,Yes,Hollystown,Dublin 15,q1,10%
+19/07/2012,"11 Chapelwood Green, Hollystown",Dublin,95000.0,Yes,Hollystown,Dublin 15,q1,10%
+01/08/2012,"23 Alderwood, Hollystown",Dublin,100000.0,Yes,Hollystown,Dublin 15,q1,10%
+03/08/2012,"50 Alderwood, Hollystown",Dublin,79295.0,Yes,Hollystown,Dublin 15,q1,10%
+07/08/2012,"30 Alderwood, Chapelwood, Hollystown",Dublin,77850.0,Yes,Hollystown,Dublin 15,q1,10%
+09/08/2012,"38 Redwood, Hollystown, Dublin 15",Dublin,270000.0,No,Hollystown,Dublin 15,q2,40%
+20/08/2012,"24 Alderwood, Hollystown",Dublin,182378.85,Yes,Hollystown,Dublin 15,q1,10%
+05/09/2012,"22 Alderwood, Hollystown",Dublin,94000.0,No,Hollystown,Dublin 15,q1,10%
+06/09/2012,"33 Alderwood, Hollystown",Dublin,77800.0,Yes,Hollystown,Dublin 15,q1,10%
+13/09/2012,"13 Chapelwood Green, Chapelwood, Hollystown",Dublin,95000.0,Yes,Hollystown,Dublin 15,q1,10%
+19/09/2012,"48 Alderwood, Hollystown, Dublin 15",Dublin,88106.0,Yes,Hollystown,Dublin 15,q1,10%
+11/10/2012,"39 Alderwood, Hollystown",Dublin,173569.0,Yes,Hollystown,Dublin 15,q1,10%
+31/10/2012,"47 Alderwood, Hollystown, Dublin 15",Dublin,88106.0,Yes,Hollystown,Dublin 15,q1,10%
+21/11/2012,"30 Alderwood, Hollystown, Dublin 15",Dublin,194000.0,No,Hollystown,Dublin 15,q1,20%
+26/11/2012,"3 Chapelwood Green, Hollystown, Dublin 15",Dublin,255000.0,No,Hollystown,Dublin 15,q1,20%
+10/12/2012,"7 Chapelwood Crescent, Hollystown, Dublin 15",Dublin,77800.0,Yes,Hollystown,Dublin 15,q1,10%
+20/12/2012,"37 Hollystown Park, Hollystown",Dublin,300000.0,No,Hollystown,Dublin 15,q2,50%
+21/12/2012,"47 Alderwood, Hollystown",Dublin,229000.0,No,Hollystown,Dublin 15,q1,20%
+21/12/2012,"48 Alderwood, Hollystown, Dublin15",Dublin,225000.0,No,Hollystown,Dublin 15,q1,20%
+04/02/2013,"10 Hollystown Park, Hollystown",Dublin,330000.0,No,Hollystown,Dublin 15,q3,70%
+08/02/2013,"33 Alderwood, Hollystown",Dublin,196000.0,No,Hollystown,Dublin 15,q1,20%
+20/02/2013,"49 Alderwood, Hollystown",Dublin,77800.0,Yes,Hollystown,Dublin 15,q1,10%
+12/04/2013,"43 Alderwood, Hollystown",Dublin,77800.0,Yes,Hollystown,Dublin 15,q1,10%
+26/04/2013,"7 Chapelwood Crescent, Hollystown, Dublin 15",Dublin,200000.0,No,Hollystown,Dublin 15,q1,20%
+20/05/2013,"Killamonan, Hollystown Rath, Hollystown",Dublin,55000.0,No,Hollystown,Dublin 15,q1,10%
+24/05/2013,"49 Alderwood, Hollystown, Dublin 15",Dublin,229000.0,Yes,Hollystown,Dublin 15,q1,20%
+21/08/2013,"9 Alderwood, Hollystown, Dublin 15",Dublin,250000.0,Yes,Hollystown,Dublin 15,q1,20%
+17/09/2013,"11 Redwood Park, Hollystown",Dublin,210000.0,No,Hollystown,Dublin 15,q1,20%
+02/10/2013,"10 Hollystown Demesne, Hollystown",Dublin,350000.0,No,Hollystown,Dublin 15,q4,80%
+15/10/2013,"29 Hollystown Park, Hollystown, Dublin 15",Dublin,348000.0,No,Hollystown,Dublin 15,q4,80%
+17/10/2013,"43 Alderwood, Hollystown",Dublin,235000.0,No,Hollystown,Dublin 15,q1,20%
+01/11/2013,"7 Alderwood, Hollystown, Dublin 15",Dublin,245000.0,No,Hollystown,Dublin 15,q1,20%
+19/12/2013,"8 Church View, Hollystown, Dublin 15",Dublin,200000.0,No,Hollystown,Dublin 15,q1,20%
+27/01/2014,"5 Alderwood, Hollystown, Dublin 15",Dublin,259030.84,Yes,Hollystown,Dublin 15,q1,30%
+14/02/2014,"6 Alderwood, Hollystown",Dublin,245000.0,Yes,Hollystown,Dublin 15,q1,20%
+21/03/2014,"3 Alderwood, Hollystown, Dublin 15",Dublin,262996.0,Yes,Hollystown,Dublin 15,q2,30%
+10/04/2014,"1 Alderwood, Hollystown",Dublin,268722.46,Yes,Hollystown,Dublin 15,q2,40%
+14/04/2014,"10 Alderwood, Hollystown, Dublin 15",Dublin,273127.75,Yes,Hollystown,Dublin 15,q2,40%
+14/04/2014,"4 Alderwood, Hollystown, Dublin 15",Dublin,299000.0,Yes,Hollystown,Dublin 15,q2,50%
+23/04/2014,"8  Alderwood, Hollystown, Dublin 15",Dublin,265000.0,Yes,Hollystown,Dublin 15,q2,30%
+12/05/2014,"22 Redwood Park, Hollystown, Dublin 15",Dublin,205000.0,No,Hollystown,Dublin 15,q1,20%
+14/05/2014,"2 Alderwood, Hollystown, Dublin 15",Dublin,298500.0,No,Hollystown,Dublin 15,q2,50%
+14/05/2014,"45 Alderwood, Hollystown",Dublin,325000.0,Yes,Hollystown,Dublin 15,q3,70%
+24/06/2014,"5 Redwood, Hollystown, Dublin 15",Dublin,101250.0,No,Hollystown,Dublin 15,q1,10%
+30/06/2014,"3 The Oaks Hollystown, Hollystown Dublin 15, Dublin",Dublin,490000.0,No,Hollystown,Dublin 15,q4,100%
+10/07/2014,"The Gatelodge, Hollywood Rath, Hollystown",Dublin,55000.0,No,Hollystown,Dublin 15,q1,10%
+07/08/2014,"14 Hollystown Park, Hollystown, Dublin 15",Dublin,345000.0,No,Hollystown,Dublin 15,q3,80%
+03/10/2014,"23 Redwood, Hollystown, Dublin 15",Dublin,218000.0,No,Hollystown,Dublin 15,q1,20%
+03/12/2014,"60 Hollystown Pk, Hollystown, Dublin 15",Dublin,416000.0,No,Hollystown,Dublin 15,q4,100%
+06/01/2015,"Duinch, Hollystown, Dublin 15",Dublin,800000.0,No,Hollystown,Dublin 15,q4,100%
+19/02/2015,"Whitegables, Kilmartin Lane, Hollystown",Dublin,498000.0,No,Hollystown,Dublin 15,q4,100%
+18/03/2015,"36 Hollystown Park, Hollystown, Dublin 15",Dublin,362500.0,No,Hollystown,Dublin 15,q4,90%
+25/03/2015,"36 Redwood, Hollystown, Dublin 15",Dublin,256479.0,No,Hollystown,Dublin 15,q1,20%
+08/05/2015,"11 Alderwood, Hollystown, Dublin 15",Dublin,315000.0,Yes,Hollystown,Dublin 15,q3,60%
+18/06/2015,"46 Redwood, Hollystown, Dublin 15",Dublin,272000.0,No,Hollystown,Dublin 15,q2,40%
+27/08/2015,"5 Chapelwood Green, Hollystown, Dublin 15",Dublin,322500.0,No,Hollystown,Dublin 15,q3,70%
+22/09/2015,"7 Chapelwood Green, Hollystown, Dublin 15",Dublin,348500.0,No,Hollystown,Dublin 15,q4,80%
+01/10/2015,"25 Alderwood, Hollystown, Dublin",Dublin,370000.0,No,Hollystown,Dublin 15,q4,90%
+07/10/2015,"59 Hollystown Park, Hollystown, Dublin 15",Dublin,435000.0,No,Hollystown,Dublin 15,q4,100%
+16/11/2015,"3 Chapelton, Hollystown, Dublin",Dublin,300000.0,No,Hollystown,Dublin 15,q2,50%
+01/12/2015,"18 Redwood, Hollystown, Dublin 15",Dublin,259000.0,No,Hollystown,Dublin 15,q1,30%
+25/01/2016,"8 Redwood Park, Hollystown, Dublin 15",Dublin,395000.0,No,Hollystown,Dublin 15,q4,100%
+28/04/2016,"1 Hollywoodrath Road, Hollystown, Dublin 15",Dublin,317180.62,Yes,Hollystown,Dublin 15,q3,60%
+28/04/2016,"2 Hollywoodrath Road, Hollystown, Dublin 15",Dublin,317180.62,Yes,Hollystown,Dublin 15,q3,60%
+29/04/2016,"15 Hollywoodrath Avenue, Hollystown",Dublin,255506.6,Yes,Hollystown,Dublin 15,q1,20%
+04/05/2016,"4 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,257268.0,Yes,Hollystown,Dublin 15,q1,30%
+05/05/2016,"Unit 3 Hollywoodrath Road, Hollystown, Dublin 15",Dublin,311400.0,Yes,Hollystown,Dublin 15,q3,60%
+10/05/2016,"13 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,287500.0,Yes,Hollystown,Dublin 15,q2,40%
+11/05/2016,"14 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,253304.0,Yes,Hollystown,Dublin 15,q1,20%
+11/05/2016,"17 Hollywood Rath Avenue, Hollystown, Dublin 15",Dublin,253013.0,Yes,Hollystown,Dublin 15,q1,20%
+11/05/2016,"18 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,255506.61,Yes,Hollystown,Dublin 15,q1,20%
+16/05/2016,"19 Hollywoodrath, Hollystown, Dublin 15",Dublin,340000.0,Yes,Hollystown,Dublin 15,q3,80%
+23/05/2016,"4 Hollywoodrath Road, Hollystown",Dublin,324229.0,Yes,Hollystown,Dublin 15,q3,70%
+25/05/2016,"2 Hollystown, Demesne Dublin 15, Dublin",Dublin,395000.0,No,Hollystown,Dublin 15,q4,100%
+27/05/2016,"6 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,290748.9,Yes,Hollystown,Dublin 15,q2,40%
+02/06/2016,"1 Chapelton, Hollystown, Dublin 15",Dublin,182345.83,No,Hollystown,Dublin 15,q1,10%
+02/06/2016,"2 Chapelton, Hollystown, Dublin 15",Dublin,182345.83,No,Hollystown,Dublin 15,q1,10%
+02/06/2016,"7 Chapelton, Hollystown, Dublin 15",Dublin,182345.83,No,Hollystown,Dublin 15,q1,10%
+02/06/2016,"8 Chapelton, Hollystown, Dublin 15",Dublin,182345.83,No,Hollystown,Dublin 15,q1,10%
+02/06/2016,"9 Chapelton, Hollystown, Dublin 15",Dublin,182345.83,No,Hollystown,Dublin 15,q1,10%
+03/06/2016,"12 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,297356.82,Yes,Hollystown,Dublin 15,q2,50%
+08/06/2016,"20 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,305309.73,Yes,Hollystown,Dublin 15,q2,50%
+10/06/2016,"5 Hollywoodrath Avenue, Hollystown",Dublin,295154.18,Yes,Hollystown,Dublin 15,q2,50%
+22/06/2016,"68 Hollystown Park, Hollystown, Dublin 15",Dublin,350000.0,No,Hollystown,Dublin 15,q4,80%
+23/06/2016,"3 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,251101.32,Yes,Hollystown,Dublin 15,q1,20%
+04/07/2016,"11 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,297356.83,Yes,Hollystown,Dublin 15,q2,50%
+11/07/2016,"9 Church View, Hollystown, Dublin 15",Dublin,425000.0,No,Hollystown,Dublin 15,q4,100%
+22/07/2016,"16 Hollywoodrath Avenue, Hollystown",Dublin,257709.0,Yes,Hollystown,Dublin 15,q1,30%
+22/07/2016,"2 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,295830.0,Yes,Hollystown,Dublin 15,q2,50%
+22/07/2016,"8 Hollywoodrath Avenue, Hollystown",Dublin,285000.0,Yes,Hollystown,Dublin 15,q2,40%
+28/07/2016,"18 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,303965.0,Yes,Hollystown,Dublin 15,q2,50%
+28/07/2016,"9 Hollywoodrath Avenue, Hollystown",Dublin,253304.0,Yes,Hollystown,Dublin 15,q1,20%
+03/08/2016,"23  Hollywoodrath Avenue, Hollystown",Dublin,253303.96,Yes,Hollystown,Dublin 15,q1,20%
+08/08/2016,"24 Hollywoodrath Avenue, Hollystown",Dublin,253304.0,Yes,Hollystown,Dublin 15,q1,20%
+12/08/2016,"4 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,253304.0,Yes,Hollystown,Dublin 15,q1,20%
+17/08/2016,"21 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,299559.5,Yes,Hollystown,Dublin 15,q2,50%
+19/08/2016,"19 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,299559.0,Yes,Hollystown,Dublin 15,q2,50%
+19/08/2016,"3 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,253304.0,Yes,Hollystown,Dublin 15,q1,20%
+25/08/2016,"1 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,290748.9,Yes,Hollystown,Dublin 15,q2,40%
+14/09/2016,"7 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,251101.32,Yes,Hollystown,Dublin 15,q1,20%
+21/09/2016,"10 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,253304.0,Yes,Hollystown,Dublin 15,q1,20%
+06/10/2016,"22 Hollywoodrath Avenue, Hollystown",Dublin,299559.0,Yes,Hollystown,Dublin 15,q2,50%
+25/10/2016,"6 Hollywoodrath Crescent, Hollystown",Dublin,255947.13,Yes,Hollystown,Dublin 15,q1,20%
+28/10/2016,"28 Hollywoodrath Avenue, Hollystown",Dublin,259911.89,Yes,Hollystown,Dublin 15,q1,30%
+04/11/2016,"5 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,255947.5,Yes,Hollystown,Dublin 15,q1,20%
+07/11/2016,"27 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,259912.0,Yes,Hollystown,Dublin 15,q1,30%
+11/11/2016,"20 Hollywood Rath Crescent, Hollystown, Dublin 15",Dublin,303964.76,Yes,Hollystown,Dublin 15,q2,50%
+15/11/2016,"26 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,261674.0,Yes,Hollystown,Dublin 15,q1,30%
+23/11/2016,"10 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,262115.0,Yes,Hollystown,Dublin 15,q1,30%
+23/11/2016,"21 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,305727.0,Yes,Hollystown,Dublin 15,q3,60%
+23/11/2016,"25 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,262995.6,Yes,Hollystown,Dublin 15,q2,30%
+23/11/2016,"9 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,236179.0,Yes,Hollystown,Dublin 15,q1,20%
+25/11/2016,"80 Hollystown Park, Hollystown, Dublin 15",Dublin,397000.0,No,Hollystown,Dublin 15,q4,100%
+05/12/2016,"8 Hollywood Rath Crescent, Hollystown",Dublin,262114.54,Yes,Hollystown,Dublin 15,q1,30%
+06/12/2016,"12 Hollywood Rath Crescent, Hollystown, Dublin 15",Dublin,262114.53,Yes,Hollystown,Dublin 15,q1,30%
+07/12/2016,"24 Hollywoodrath Crescent, Hollystown",Dublin,308370.0,Yes,Hollystown,Dublin 15,q3,60%
+08/12/2016,"51 Hollystown Park, Hollystown, Dublin 15",Dublin,405000.0,No,Hollystown,Dublin 15,q4,100%
+09/12/2016,"25 Hollywoodrath Crescent, Hollystown",Dublin,306607.0,Yes,Hollystown,Dublin 15,q3,60%
+12/12/2016,"23 Hollywoodrath Crescent, Hollywoodrath, Hollystown",Dublin,305726.87,Yes,Hollystown,Dublin 15,q3,60%
+12/12/2016,"26 Hollywoodrath Crescent, Hollystown",Dublin,352000.0,Yes,Hollystown,Dublin 15,q4,90%
+13/12/2016,"27 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,310132.16,Yes,Hollystown,Dublin 15,q3,60%
+20/12/2016,"8 Church View, Hollystown, Dublin 15",Dublin,360000.0,No,Hollystown,Dublin 15,q4,90%
+21/12/2016,"11 Hollywoodrath Crescent, Hollystown",Dublin,262115.0,Yes,Hollystown,Dublin 15,q1,30%
+09/01/2017,"53 The Park, Hollystown, Dublin 15",Dublin,390000.0,No,Hollystown,Dublin 15,q4,90%
+17/01/2017,"1 Hollystown, Demesne, Dublin 15",Dublin,465000.0,No,Hollystown,Dublin 15,q4,100%
+27/01/2017,"28 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,263895.0,Yes,Hollystown,Dublin 15,q2,30%
+27/01/2017,"31 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,259912.0,Yes,Hollystown,Dublin 15,q1,30%
+30/01/2017,"7 Hollywoodrath Crescent, Hollystown",Dublin,259912.0,Yes,Hollystown,Dublin 15,q1,30%
+03/02/2017,"13 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,262995.6,Yes,Hollystown,Dublin 15,q2,30%
+13/02/2017,"29 Hollywoodrath Crescent, Hollystown",Dublin,259911.0,Yes,Hollystown,Dublin 15,q1,30%
+14/02/2017,"43 Hollystown Park, Hollystown, Dublin 15",Dublin,429950.0,No,Hollystown,Dublin 15,q4,100%
+15/02/2017,"63 Hollystown Park, Hollystown, Dublin 15",Dublin,470000.0,No,Hollystown,Dublin 15,q4,100%
+23/02/2017,"14 Hollywoodrath Crescent, Hollystown",Dublin,263876.65,Yes,Hollystown,Dublin 15,q2,30%
+24/02/2017,"39 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,264273.0,Yes,Hollystown,Dublin 15,q2,30%
+02/03/2017,"35 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,263876.66,Yes,Hollystown,Dublin 15,q2,30%
+08/03/2017,"38 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,264273.1,Yes,Hollystown,Dublin 15,q2,30%
+10/03/2017,"32 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,259911.9,Yes,Hollystown,Dublin 15,q1,30%
+16/03/2017,"37 Hollywoodrath Crescent, Hollystown",Dublin,263800.0,Yes,Hollystown,Dublin 15,q2,30%
+28/03/2017,"40 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,299950.0,Yes,Hollystown,Dublin 15,q2,50%
+28/03/2017,"46 Hollywoodrath Crescent, Hollystown",Dublin,314537.44,Yes,Hollystown,Dublin 15,q3,60%
+30/03/2017,"34 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,261233.48,Yes,Hollystown,Dublin 15,q1,30%
+04/04/2017,"41 Hollywoodrath Crescent, Hollystown",Dublin,264273.12,Yes,Hollystown,Dublin 15,q2,30%
+13/04/2017,"45 Hollywoodrath Crescent, Hollywoodrath, Hollystown",Dublin,315725.0,Yes,Hollystown,Dublin 15,q3,60%
+21/04/2017,"36 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,263876.65,Yes,Hollystown,Dublin 15,q2,30%
+08/05/2017,"33 Hollywoodrath Avenue, Hollywoodrath, Hollystown",Dublin,263876.0,Yes,Hollystown,Dublin 15,q2,30%
+10/05/2017,"44 Hollywoodrath Crescent, Hollywoodrath, Hollystown",Dublin,321585.9,Yes,Hollystown,Dublin 15,q3,60%
+15/05/2017,"29 Hollywoodrath Avenue, Hollystown",Dublin,321585.0,Yes,Hollystown,Dublin 15,q3,60%
+16/05/2017,"42 Hollywoodrath Cresent, Hollystown, Dublin 15",Dublin,243495.93,Yes,Hollystown,Dublin 15,q1,20%
+17/05/2017,"43 Hollywoodrath Crescent, Hollywoodrath, Hollystown",Dublin,263876.0,Yes,Hollystown,Dublin 15,q2,30%
+19/05/2017,"32 Hollywoodrath Avenue, Hollywoodrath, Hollystown",Dublin,321585.0,Yes,Hollystown,Dublin 15,q3,60%
+01/06/2017,"34 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,286343.61,Yes,Hollystown,Dublin 15,q2,40%
+14/06/2017,"31 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,321585.9,Yes,Hollystown,Dublin 15,q3,70%
+04/07/2017,"23 Hollywoodrath Rise, Hollystown, Dublin 15",Dublin,270925.0,Yes,Hollystown,Dublin 15,q2,40%
+07/07/2017,"20 Hollywoodrath Rise, Hollystown, Dublin 15",Dublin,264274.32,Yes,Hollystown,Dublin 15,q2,30%
+07/07/2017,"22 Hollywoodrath Rise, Hollystown, Dublin 15",Dublin,264283.13,Yes,Hollystown,Dublin 15,q2,30%
+07/07/2017,"30 Hollywoodrath Avenue, Hollystown",Dublin,321585.0,Yes,Hollystown,Dublin 15,q3,60%
+10/07/2017,"17 Hollywoodrath Rise, Hollystown",Dublin,325991.0,Yes,Hollystown,Dublin 15,q3,70%
+11/07/2017,"15 Hollywoodrath Rise, Hollystown",Dublin,325991.0,Yes,Hollystown,Dublin 15,q3,70%
+20/07/2017,"21 Hollywoodrath Rise, Hollystown",Dublin,264273.13,Yes,Hollystown,Dublin 15,q2,30%
+24/07/2017,"19 Hollywoodrath Rise, Hollystown",Dublin,324229.0,Yes,Hollystown,Dublin 15,q3,70%
+26/07/2017,"12 Hollywoodrath Rise, Hollystown",Dublin,361233.0,Yes,Hollystown,Dublin 15,q4,90%
+16/08/2017,"10 Hollywoodrath Rise, Hollystown, Dublin 15",Dublin,270925.1,Yes,Hollystown,Dublin 15,q2,40%
+16/08/2017,"14 Hollywoodrath Rise, Hollystown, Dublin 15",Dublin,325991.18,Yes,Hollystown,Dublin 15,q3,70%
+16/08/2017,"7 Hollywood Rath Rise, Hollystown",Dublin,273127.75,Yes,Hollystown,Dublin 15,q2,40%
+17/08/2017,"13 Hollywoodrath Rise, Hollystown, Dublin 15",Dublin,356828.0,Yes,Hollystown,Dublin 15,q4,90%
+21/08/2017,"17 Hollywoodrath Crescent, Hollystown",Dublin,327312.0,Yes,Hollystown,Dublin 15,q3,70%
+23/08/2017,"6 Hollywoodrath Rise, Hollystown, Dublin 15",Dublin,275330.0,Yes,Hollystown,Dublin 15,q2,40%
+25/08/2017,"9 Hollywoodrath Rise, Hollystown, Dublin 15",Dublin,273127.76,Yes,Hollystown,Dublin 15,q2,40%
+29/08/2017,"18 Hollywoodrath Rise, Hollystown",Dublin,324229.08,Yes,Hollystown,Dublin 15,q3,70%
+30/08/2017,"1 Hollywoodrath Cresent, Hollystown, Dublin 15",Dublin,266666.67,Yes,Hollystown,Dublin 15,q2,40%
+05/09/2017,"5 Hollywoodrath Rise, Hollywoodrath, Hollystown",Dublin,277534.0,Yes,Hollystown,Dublin 15,q2,40%
+06/09/2017,"11 Hollywoodrath Rise, Hollystown",Dublin,363436.0,Yes,Hollystown,Dublin 15,q4,90%
+06/09/2017,"16 Hollystown Rise, Hollystown, Dublin 15",Dublin,325991.0,Yes,Hollystown,Dublin 15,q3,70%
+07/09/2017,"3 Hollywoodrath Rise, Hollystown",Dublin,281938.0,Yes,Hollystown,Dublin 15,q2,40%
+11/09/2017,"4 Hollywoodrath Rise, Hollystown, Dublin 16",Dublin,279735.68,Yes,Hollystown,Dublin 15,q2,40%
+14/09/2017,"48 Hollywoodrath Crescent, Hollystown",Dublin,317181.0,Yes,Hollystown,Dublin 15,q3,60%
+19/09/2017,"2 Hollywoodrath Rise, Hollywoodrath, Hollystown",Dublin,281938.33,Yes,Hollystown,Dublin 15,q2,40%
+21/09/2017,"49 Hollywoodrath Crescent, Hollywoodrath, Hollystown",Dublin,314977.0,Yes,Hollystown,Dublin 15,q3,60%
+29/09/2017,"10 Hollywood Rath Road, Hollystown",Dublin,348017.0,Yes,Hollystown,Dublin 15,q4,80%
+29/09/2017,"15 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,352422.92,Yes,Hollystown,Dublin 15,q4,90%
+05/10/2017,"70 Hollystown Park, Hollystown, Dublin 15",Dublin,340000.0,No,Hollystown,Dublin 15,q3,80%
+06/10/2017,"9 Hollywoodrath Road, Hollystown, Dublin 15",Dublin,348017.62,Yes,Hollystown,Dublin 15,q4,80%
+10/10/2017,"11 Hooywoodrath Road, Hollywoodrath, Hollystown",Dublin,348018.0,Yes,Hollystown,Dublin 15,q4,80%
+24/10/2017,"1 Hollywoodrath Rise, Hollywoodrath, Hollystown",Dublin,320000.0,Yes,Hollystown,Dublin 15,q3,60%
+10/11/2017,"21 Redwood, Hollystown, Dublin 15",Dublin,302500.0,No,Hollystown,Dublin 15,q2,50%
+15/11/2017,"5 Hollywoodrath Road, Hollystown, Dublin 15",Dublin,330396.0,Yes,Hollystown,Dublin 15,q3,70%
+16/11/2017,"16 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,340088.1,Yes,Hollystown,Dublin 15,q3,80%
+23/11/2017,"7 Hollywoodrath Road, Hollystown",Dublin,361233.48,Yes,Hollystown,Dublin 15,q4,90%
+01/12/2017,"8 Hollywoodrath Road, Hollystown, Dublin 15",Dublin,330396.0,Yes,Hollystown,Dublin 15,q3,70%
+08/12/2017,"22 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,375000.0,Yes,Hollystown,Dublin 15,q4,90%
+13/12/2017,"6 Hollywoodrath Road, Hollystown, Dublin 15",Dublin,362422.91,Yes,Hollystown,Dublin 15,q4,90%
+18/12/2017,"Kilmartin House, Kilmartin, Hollystown",Dublin,350000.0,No,Hollystown,Dublin 15,q4,80%
+05/01/2018,"11 Hollywood Rath Park, Hollystown",Dublin,341409.0,Yes,Hollystown,Dublin 15,q3,80%
+10/01/2018,"14 Hollywoodrath Road, Hollystown, Dublin",Dublin,352423.0,Yes,Hollystown,Dublin 15,q4,90%
+24/01/2018,"12 Holywoodrath Road, Hollystown, Dublin 15",Dublin,365638.78,Yes,Hollystown,Dublin 15,q4,90%
+25/01/2018,"2 Hollywoodrath Park, Hollywoodrath, Hollystown",Dublin,290748.0,Yes,Hollystown,Dublin 15,q2,40%
+26/01/2018,"6 Hollywoodrath Crescent, Hollystown",Dublin,295154.2,Yes,Hollystown,Dublin 15,q2,50%
+26/01/2018,"6 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,268293.0,Yes,Hollystown,Dublin 15,q2,40%
+02/02/2018,"13 Hollywoodrath Road, Hollystown, Dublin 15",Dublin,356828.2,Yes,Hollystown,Dublin 15,q4,90%
+02/02/2018,"5 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,290748.89,Yes,Hollystown,Dublin 15,q2,40%
+09/02/2018,"1 Holywoodrath Park, Hollystown, Dublin 15",Dublin,297356.0,Yes,Hollystown,Dublin 15,q2,50%
+16/02/2018,"12 Hollywoodrath Park, Hollywoodrath, Hollystown",Dublin,345814.0,Yes,Hollystown,Dublin 15,q4,80%
+26/02/2018,"16 Hollywoodrath Road, Hollywoodrath, Hollystown",Dublin,361233.48,Yes,Hollystown,Dublin 15,q4,90%
+08/03/2018,"7 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,289823.01,Yes,Hollystown,Dublin 15,q2,40%
+09/03/2018,"15 Hollywoodrath Road, Hollystown, Dublin 15",Dublin,365639.0,Yes,Hollystown,Dublin 15,q4,90%
+21/03/2018,"Unit 2 Hollywoodrath Crescent, Hollystown, Dublin 15",Dublin,315479.39,Yes,Hollystown,Dublin 15,q3,60%
+29/03/2018,"13 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,435000.0,Yes,Hollystown,Dublin 15,q4,100%
+11/04/2018,"18 Hollywoodrath Park, Hollystown",Dublin,317180.62,Yes,Hollystown,Dublin 15,q3,60%
+11/04/2018,"22 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,297356.0,Yes,Hollystown,Dublin 15,q2,50%
+13/04/2018,"21 Hollywoodrath Parki, Hollystown, Dublin 15",Dublin,324375.0,Yes,Hollystown,Dublin 15,q3,70%
+18/04/2018,"24 Hollywoodrath Park, Hollystown",Dublin,288546.0,Yes,Hollystown,Dublin 15,q2,40%
+25/04/2018,"25 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,288546.26,Yes,Hollystown,Dublin 15,q2,40%
+25/04/2018,"5 Chapelton, Hollystown, Dublin 15",Dublin,182345.83,No,Hollystown,Dublin 15,q1,10%
+26/04/2018,"19 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,312775.33,Yes,Hollystown,Dublin 15,q3,60%
+03/05/2018,"29 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,292035.4,Yes,Hollystown,Dublin 15,q2,40%
+04/05/2018,"23 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,290748.89,Yes,Hollystown,Dublin 15,q2,40%
+09/05/2018,"20 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,330397.0,Yes,Hollystown,Dublin 15,q3,70%
+09/05/2018,"31 Hollywoodrath Park, Hollystown",Dublin,295154.0,Yes,Hollystown,Dublin 15,q2,40%
+10/05/2018,"28 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,330000.0,Yes,Hollystown,Dublin 15,q3,70%
+11/05/2018,"14 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,334802.0,Yes,Hollystown,Dublin 15,q3,70%
+11/05/2018,"17 Hollywoodrath Park, Hollystown",Dublin,334801.76,Yes,Hollystown,Dublin 15,q3,70%
+14/05/2018,"17 Hollywoodrath Road, Hollystown, Dublin 15",Dublin,370044.05,Yes,Hollystown,Dublin 15,q4,90%
+16/05/2018,"30 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,290748.89,Yes,Hollystown,Dublin 15,q2,40%
+17/05/2018,"27 Hollywoodrath Park, Hollystown",Dublin,290748.89,Yes,Hollystown,Dublin 15,q2,40%
+24/05/2018,"26 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,290748.9,Yes,Hollystown,Dublin 15,q2,40%
+29/05/2018,"15 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,334801.76,Yes,Hollystown,Dublin 15,q3,70%
+31/05/2018,"6 Chapelwood Dr, Hollystown, Dublin 15",Dublin,325000.0,No,Hollystown,Dublin 15,q3,70%
+05/06/2018,"39 Hollywoodrath Avenue, Hollystown",Dublin,334801.0,Yes,Hollystown,Dublin 15,q3,70%
+06/06/2018,"40 Hollywoodrath Avenue, Hollystown",Dublin,328700.0,Yes,Hollystown,Dublin 15,q3,70%
+07/06/2018,"35 Hollywoodrath  Avenue, Hollystown, Dublin 15",Dublin,337004.0,Yes,Hollystown,Dublin 15,q3,70%
+19/06/2018,"Duinch, Hollystown, Dublin 15",Dublin,1600000.0,No,Hollystown,Dublin 15,q4,100%
+20/06/2018,"37 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,337004.0,Yes,Hollystown,Dublin 15,q3,70%
+22/06/2018,"14 Hollystown Park, Hollystown, Dublin 15",Dublin,460000.0,No,Hollystown,Dublin 15,q4,100%
+04/07/2018,"42 Hollywoodrath Avenue, Hollystown",Dublin,374449.0,Yes,Hollystown,Dublin 15,q4,90%
+09/07/2018,"41 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,378855.0,Yes,Hollystown,Dublin 15,q4,90%
+10/07/2018,"40 Alderwood, Hollystown, Dublin",Dublin,435000.0,No,Hollystown,Dublin 15,q4,100%
+10/07/2018,"43 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,430000.0,Yes,Hollystown,Dublin 15,q4,100%
+11/07/2018,"44 Hollywoodrath Avenue, Hollystown",Dublin,341409.0,Yes,Hollystown,Dublin 15,q3,80%
+12/07/2018,"16 Hollywoodrath Park, Hollystown, Dublin 15",Dublin,334802.0,Yes,Hollystown,Dublin 15,q3,70%
+13/07/2018,"89 Hollywoodrath Avenue, Hollystown",Dublin,295154.0,Yes,Hollystown,Dublin 15,q2,40%
+25/07/2018,"86 Hollywoodrath Ave, Hollystown",Dublin,295161.23,Yes,Hollystown,Dublin 15,q2,50%
+31/07/2018,"36 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,337004.4,Yes,Hollystown,Dublin 15,q3,70%
+31/07/2018,"49 Hollywoodrath Avenue, Hollystown",Dublin,337004.0,Yes,Hollystown,Dublin 15,q3,70%
+31/07/2018,"51 Hollywoodrath Avenue, Hollystown",Dublin,371585.91,Yes,Hollystown,Dublin 15,q4,90%
+02/08/2018,"88  Hollywoodrath Avenue, Hollystown",Dublin,295155.0,Yes,Hollystown,Dublin 15,q2,50%
+03/08/2018,"50 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,332599.11,Yes,Hollystown,Dublin 15,q3,70%
+03/08/2018,"85 Hollywoodrath Avenue, Hollywoodrath, Hollystown",Dublin,365638.76,Yes,Hollystown,Dublin 15,q4,90%
+06/08/2018,"47 Hollywoodrath Avenue, Hollystown",Dublin,337004.0,Yes,Hollystown,Dublin 15,q3,70%
+07/08/2018,"45 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,339207.04,Yes,Hollystown,Dublin 15,q3,80%
+10/08/2018,"83 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,299119.0,Yes,Hollystown,Dublin 15,q2,50%
+14/08/2018,"87 Hollywoodrath Avenue, Hollystown, Dublin 13",Dublin,296460.17,Yes,Hollystown,Dublin 15,q2,50%
+15/08/2018,"48 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,339207.04,Yes,Hollystown,Dublin 15,q3,80%
+15/08/2018,"82 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,299119.0,Yes,Hollystown,Dublin 15,q2,50%
+16/08/2018,"84 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,332599.11,Yes,Hollystown,Dublin 15,q3,70%
+17/08/2018,"38 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,337004.4,Yes,Hollystown,Dublin 15,q3,80%
+22/08/2018,"46 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,337004.4,Yes,Hollystown,Dublin 15,q3,80%
+31/08/2018,"29 Redwood, Hollystown, Dublin 15",Dublin,275000.0,No,Hollystown,Dublin 15,q2,40%
+10/09/2018,"20 Hollywoodrath Avenue, Hollystown, Dublin 15",Dublin,373000.0,No,Hollystown,Dublin 15,q4,90%
+19/09/2018,"4 Hollywoodrath  Way, Hollywoodrath, Hollystown",Dublin,337500.0,Yes,Hollystown,Dublin 15,q3,80%
+21/09/2018,"1 Hollywoodrath Way, Hollystown",Dublin,299199.0,Yes,Hollystown,Dublin 15,q2,50%
+21/09/2018,"2 Hollywoodrath Way, Hollystown, Dublin 15",Dublin,297357.0,Yes,Hollystown,Dublin 15,q2,50%
+24/09/2018,"88 Hollystown Park, Dublin 15, Dublin",Dublin,340000.0,No,Hollystown,Dublin 15,q3,80%
+25/09/2018,"3 Hollywoodrath Way, Hollystown",Dublin,297356.0,Yes,Hollystown,Dublin 15,q2,50%
+02/10/2018,"7 Hollywoodrath Way, Hollystown, Dublin 15",Dublin,297356.82,Yes,Hollystown,Dublin 15,q2,50%
+25/10/2018,"1 Chapelwood Crescent, Hollystown, Dublin 15",Dublin,310000.0,No,Hollystown,Dublin 15,q3,60%
+05/11/2018,"21 Redwood, Hollystown, Dublin 15",Dublin,302500.0,No,Hollystown,Dublin 15,q2,50%
+06/11/2018,"47 Redwood, Hollystown, Dublin 15",Dublin,393000.0,No,Hollystown,Dublin 15,q4,100%
+06/11/2018,"8 Hollywoodrath Way, Hollystown, Dublin 15",Dublin,299559.0,Yes,Hollystown,Dublin 15,q2,50%
+14/11/2018,"8 Chapelwood Park, Hollystown, Dublin 15",Dublin,220000.0,No,Hollystown,Dublin 15,q1,20%
+22/11/2018,"9 Hollywoodrath Way, Hollywoodrath, Hollystown",Dublin,299560.0,Yes,Hollystown,Dublin 15,q2,50%
+23/11/2018,"13 Chapelwood, Crescent, Hollystown Dublin 15",Dublin,320000.0,No,Hollystown,Dublin 15,q3,60%
+05/12/2018,"11 Hollywoodrath Way, Hollystown, Dublin 15",Dublin,299118.94,Yes,Hollystown,Dublin 15,q2,50%
+07/12/2018,"10 Hollywoodrath Way, Hollystown",Dublin,299118.94,Yes,Hollystown,Dublin 15,q2,50%
+18/12/2018,"12 Hollywoodrath Way, Hollywoodrath, Hollystown",Dublin,299119.0,Yes,Hollystown,Dublin 15,q2,50%
+11/01/2019,"30 Holly Stown Park, Hollystown, Dublin 15",Dublin,440000.0,No,Hollystown,Dublin 15,q4,100%
+01/02/2019,"22 Hollystown Demense, Hollystown, Dublin 15",Dublin,587500.0,No,Hollystown,Dublin 15,q4,100%
+28/02/2019,"20 Chapelwood Green, Hollystown, Dublin 15",Dublin,430000.0,No,Hollystown,Dublin 15,q4,100%
+28/03/2019,"69 Hollystown Park, Hollystown Dublin 15, Dublin",Dublin,470000.0,No,Hollystown,Dublin 15,q4,100%
+04/04/2019,"14 Hollywoodrath Way, Hollystown, Dublin 15",Dublin,310573.0,Yes,Hollystown,Dublin 15,q3,60%
+05/04/2019,"13 Hollywoodrath Way, Hollystown, Dublin 15",Dublin,299118.94,Yes,Hollystown,Dublin 15,q2,50%
+12/04/2019,"1 Chapelwood Crescent, Hollystown, Dublin 15",Dublin,447500.0,No,Hollystown,Dublin 15,q4,100%
+13/05/2019,"21 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,343612.33,Yes,Hollystown,Dublin 15,q3,80%
+20/05/2019,"23 Hollywood Rath Drive, Hollystown, Dublin 15",Dublin,319105.0,Yes,Hollystown,Dublin 15,q3,60%
+21/05/2019,"20 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,345814.97,Yes,Hollystown,Dublin 15,q4,80%
+24/05/2019,"19 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,339207.0,Yes,Hollystown,Dublin 15,q3,80%
+30/05/2019,"22 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,343612.0,Yes,Hollystown,Dublin 15,q3,80%
+21/06/2019,"24 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,345814.98,Yes,Hollystown,Dublin 15,q4,80%
+27/06/2019,"25 Hollywoodrath Drive, Hollywoodrath, Hollystown",Dublin,345814.97,Yes,Hollystown,Dublin 15,q4,80%
+02/07/2019,"12 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,350220.26,Yes,Hollystown,Dublin 15,q4,90%
+05/07/2019,"13 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,350220.26,Yes,Hollystown,Dublin 15,q4,90%
+05/07/2019,"8 Chapelwood Park, Hollystown, Dublin 15",Dublin,320000.0,No,Hollystown,Dublin 15,q3,60%
+09/07/2019,"15 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,345815.0,Yes,Hollystown,Dublin 15,q4,80%
+24/07/2019,"17 Hollywoodrath Drive, Hollystown",Dublin,378854.63,Yes,Hollystown,Dublin 15,q4,90%
+31/07/2019,"16 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,339207.0,Yes,Hollystown,Dublin 15,q3,80%
+02/08/2019,"10 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,354625.55,Yes,Hollystown,Dublin 15,q4,90%
+02/08/2019,"11 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,350220.0,Yes,Hollystown,Dublin 15,q4,80%
+06/08/2019,"18 Hollywoodrath Drive, Hollystown",Dublin,378853.0,Yes,Hollystown,Dublin 15,q4,90%
+06/08/2019,"24 Redwood, Hollystown, Dublin 15",Dublin,285000.0,No,Hollystown,Dublin 15,q2,40%
+09/08/2019,"8  Hollywoodrath  Crescent, Hollystown, Dublin 15",Dublin,375000.0,No,Hollystown,Dublin 15,q4,90%
+09/08/2019,"9 Hollywoodrath Drive, Hollywoodrath, Hollystown",Dublin,321585.9,Yes,Hollystown,Dublin 15,q3,70%
+21/08/2019,"8 Hollywoodrath Drive, Hollystown, Dublin 15",Dublin,321586.0,Yes,Hollystown,Dublin 15,q3,70%
+28/08/2019,"35 Hollystown Park, Hollystown, Dublin 15",Dublin,430000.0,No,Hollystown,Dublin 15,q4,100%
+28/08/2019,"8 Chapelwood Close, Hollystown, Dublin 15",Dublin,352422.9,Yes,Hollystown,Dublin 15,q4,90%
+30/08/2019,"7 Hollywoodrath Drive, Hollystown",Dublin,405286.0,Yes,Hollystown,Dublin 15,q4,100%
+04/09/2019,"10 Hollystown Park, Hollystown, Dublin 15",Dublin,485000.0,No,Hollystown,Dublin 15,q4,100%
+09/09/2019,"4 Hollywoodrath Court, Hollystown",Dublin,348018.0,Yes,Hollystown,Dublin 15,q4,80%
+09/09/2019,"6 Hollywoodrath Court, Hollystown, Dublin 15",Dublin,350220.26,Yes,Hollystown,Dublin 15,q4,90%
+09/09/2019,"6 Hollywoodrath Drive, Hollystown",Dublin,392070.0,Yes,Hollystown,Dublin 15,q4,100%
+11/09/2019,"14 Hollywoodrath Court, Hollystown, Dublin 15",Dublin,312775.33,Yes,Hollystown,Dublin 15,q3,60%
+12/09/2019,"17 Hollywoodrath Court, Hollystown, Dublin 15",Dublin,312775.33,Yes,Hollystown,Dublin 15,q3,60%
+13/09/2019,"16 Holywoodrath Court, Hollystown, Dublin 15",Dublin,312775.33,Yes,Hollystown,Dublin 15,q3,60%
+19/09/2019,"3 Hollywoodrath Court, Hollystown, Dublin 15",Dublin,348017.62,Yes,Hollystown,Dublin 15,q4,80%
+20/09/2019,"8 Hollywoodrath Court, Hollywoodrath, Hollystown",Dublin,352422.9,Yes,Hollystown,Dublin 15,q4,90%
+24/09/2019,"15 Hollywoodrath Court, Hollystown",Dublin,312775.3,Yes,Hollystown,Dublin 15,q3,60%
+26/09/2019,"5 Hollywoodrath Court, Hollystown, Dublin 15",Dublin,352422.9,Yes,Hollystown,Dublin 15,q4,90%
+27/09/2019,"2 Hollywoodrath Court, Hollystown, Dublin 15",Dublin,348017.62,Yes,Hollystown,Dublin 15,q4,80%
+27/09/2019,"7 Hollywoodrath Court, Hollystown",Dublin,350220.0,Yes,Hollystown,Dublin 15,q4,90%
+01/10/2019,"13 Hollywoodrath Court, Hollystown, Dublin 15",Dublin,345132.75,Yes,Hollystown,Dublin 15,q3,80%
+02/10/2019,"9  Hollywoodrath Court, Hollywoodrath, Hollystown",Dublin,317180.61,Yes,Hollystown,Dublin 15,q3,60%
+07/10/2019,"11 Hollywoodrath Court, Hollystown, Dublin 15",Dublin,312775.33,Yes,Hollystown,Dublin 15,q3,60%
+11/10/2019,"12 Hollywoodrath Court, Hollystown, Dublin 15",Dublin,320796.46,Yes,Hollystown,Dublin 15,q3,60%
+17/10/2019,"18 Hollywoodrath Road, Hollywoodrath, Hollystown",Dublin,484581.0,Yes,Hollystown,Dublin 15,q4,100%
+18/10/2019,"19 Hollywoodrath Road, Hollywoodrath, Hollystown",Dublin,488986.0,Yes,Hollystown,Dublin 15,q4,100%

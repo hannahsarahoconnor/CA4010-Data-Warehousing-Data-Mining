@@ -1,0 +1,750 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+01/02/2010,"78 Glenaulin Green, Palmerstown",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+03/02/2010,"8  Palmers Glade, Palmerstown",Dublin,330000.0,No,Palmerstown,Dublin 20,q4,90%
+05/02/2010,"49 Palmerstown Drive, Palmerstown, Dublin",Dublin,410000.0,No,Palmerstown,Dublin 20,q4,100%
+19/03/2010,"73 Glenmaroon Road, Palmerstown, Dublin",Dublin,285000.0,No,Palmerstown,Dublin 20,q3,80%
+09/04/2010,"1 Palmerstown Grove, Milltown",Dublin,810000.0,No,Palmerstown,Dublin 20,q4,100%
+14/04/2010,"4 St Edmunds Park, St Edmunds, Palmerstown",Dublin,279295.27,Yes,Palmerstown,Dublin 20,q3,70%
+19/04/2010,"20 Oakcourt Close, Palmerstown, .",Dublin,223000.0,No,Palmerstown,Dublin 20,q2,50%
+20/04/2010,"9 St. Edmunds Park, St Edmunds, Palmerstown",Dublin,320000.0,Yes,Palmerstown,Dublin 20,q4,80%
+23/04/2010,"43 Palmerstown Green, Palmerstown",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+26/04/2010,"42 Oakcourt Lawns, Palmerstown",Dublin,147000.0,No,Palmerstown,Dublin 20,q1,10%
+06/05/2010,"105 Whitethorn Drive, Palmerstown, Dublin 20",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+07/05/2010,"65 Hannah Square, Block 4  St. Edmunds, Palmerstown",Dublin,225000.0,Yes,Palmerstown,Dublin 20,q2,50%
+21/05/2010,"266 Palmerstown Wood, Dublin 22",Dublin,252000.0,No,Palmerstown,Dublin 20,q3,60%
+04/06/2010,"5 Palmers Park, Palmerstown, Dublin 20",Dublin,253000.0,No,Palmerstown,Dublin 20,q3,60%
+16/06/2010,"25 Turret Road, Palmerstown, Dublin",Dublin,225000.0,No,Palmerstown,Dublin 20,q2,50%
+25/06/2010,"44A Glenmaroon Road, Palmerstown",Dublin,300000.0,No,Palmerstown,Dublin 20,q3,80%
+30/06/2010,"140 Kennelsfort Road, Palmerstown, Dublin 20",Dublin,285000.0,No,Palmerstown,Dublin 20,q3,80%
+02/07/2010,"55 The Coppice, Woodfarm Acres, Palmerstown",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+19/07/2010,"5 Oak Court Park, Palmerstown",Dublin,180000.0,No,Palmerstown,Dublin 20,q1,20%
+03/08/2010,"2 Palmerstown Park, Palmerstown, Dublin 20",Dublin,207500.0,No,Palmerstown,Dublin 20,q2,50%
+09/08/2010,"3 Palmers Glade, Palmerstown Manor, Palmerstown",Dublin,285000.0,No,Palmerstown,Dublin 20,q3,80%
+20/08/2010,"170 Palmerstown Wood, Clondakin",Dublin,202000.0,No,Palmerstown,Dublin 20,q2,50%
+24/08/2010,"67 Culmore Road, Palmerstown, Dublin 20",Dublin,270000.0,No,Palmerstown,Dublin 20,q3,70%
+27/08/2010,"7 The Vale, Woodfarm Acres, Palmerstown",Dublin,310000.0,No,Palmerstown,Dublin 20,q4,80%
+08/09/2010,"98 Whitethorn Drive, Palmerstown, Dublin 20",Dublin,240000.0,No,Palmerstown,Dublin 20,q3,60%
+13/09/2010,"6 The Covert, Woodfarm Acres, Palmerstown",Dublin,276000.0,No,Palmerstown,Dublin 20,q3,70%
+14/09/2010,"49 Glenaulin Green, Palmerstown",Dublin,230000.0,No,Palmerstown,Dublin 20,q3,60%
+22/09/2010,"16 Glenmaroon Park, Palmerstown",Dublin,273000.0,No,Palmerstown,Dublin 20,q3,70%
+24/09/2010,"93 Palmerstown Drive, Palmerstown, Dublin 20",Dublin,326500.0,No,Palmerstown,Dublin 20,q4,90%
+30/09/2010,"187 Whitethorn Gardens, Palmerstown",Dublin,210000.0,No,Palmerstown,Dublin 20,q2,50%
+11/10/2010,"3 Palmerstown Park, Rathmines",Dublin,1300000.0,No,Palmerstown,Dublin 20,q4,100%
+29/10/2010,"26 Heather Grove, Parkway Downs, Woodfarm Acres Palmerstown",Dublin,265000.0,No,Palmerstown,Dublin 20,q3,70%
+29/10/2010,"70 Kenneslfort Road, Palmerstown",Dublin,230000.0,No,Palmerstown,Dublin 20,q3,60%
+05/11/2010,"58  Hannah Square, Block 4  St. Edmunds, Palmerstown",Dublin,162995.59,Yes,Palmerstown,Dublin 20,q1,20%
+10/11/2010,"26 Palmerstown Avenue, Palmerstown, Dublin 20",Dublin,245000.0,No,Palmerstown,Dublin 20,q3,60%
+12/11/2010,"No. 8 Hannah Square, Block 4  St. Edmunds, Palmerstown",Dublin,190000.0,Yes,Palmerstown,Dublin 20,q1,30%
+22/11/2010,"30 Oakcourt Lawn, Palmerstown, Dublin 20",Dublin,210000.0,No,Palmerstown,Dublin 20,q2,50%
+06/12/2010,"13 Palmers Court, Palmerstown Manor, Palmerstown",Dublin,212000.0,No,Palmerstown,Dublin 20,q2,50%
+06/12/2010,"35 Woodfarm Avenue, Palmerstown, Dublin 20",Dublin,360000.0,No,Palmerstown,Dublin 20,q4,100%
+08/12/2010,"18 Glenpark Road, Palmerstown",Dublin,245000.0,No,Palmerstown,Dublin 20,q3,60%
+20/12/2010,"17  Hannah Square, Block 4  St. Edmunds, Palmerstown",Dublin,160352.42,Yes,Palmerstown,Dublin 20,q1,20%
+07/01/2011,"38 Hollyville Lawn, Palmerstown",Dublin,351000.0,No,Palmerstown,Dublin 20,q4,90%
+17/02/2011,"15 Kennelsfort Road, Palmerstown",Dublin,210000.0,No,Palmerstown,Dublin 20,q2,50%
+10/03/2011,"5 Kennelsfort Road, Palmerstown",Dublin,147000.0,No,Palmerstown,Dublin 20,q1,10%
+18/03/2011,"14 Manor Road, Palmerstown, Dublin 20",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+31/03/2011,"20 The Dingle, Woodfarm Acres, Palmerstown",Dublin,240000.0,No,Palmerstown,Dublin 20,q3,60%
+31/03/2011,"8 Oak Court Park, Palmerstown, Dublin 20",Dublin,253500.0,No,Palmerstown,Dublin 20,q3,60%
+11/05/2011,"162 Whitethorn Park, Palmerstown, Dublin 20",Dublin,207000.0,No,Palmerstown,Dublin 20,q2,50%
+20/05/2011,"14 Riversdale Avenue, Palmerstown, Dublin 20",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+20/05/2011,"275 Palmerstown Woods, Palmerstown",Dublin,177500.0,No,Palmerstown,Dublin 20,q1,20%
+31/05/2011,"56 Palmerstown Gardens, Rathmines",Dublin,363333.0,No,Palmerstown,Dublin 20,q4,100%
+28/06/2011,"13 Kennelsfort Road, Palmerstown, Dublin 20",Dublin,200000.0,No,Palmerstown,Dublin 20,q2,50%
+30/06/2011,"62 Glenmaroon Road, Palmerstown",Dublin,266000.0,No,Palmerstown,Dublin 20,q3,70%
+12/07/2011,"11 The Orchard, Woodfarm Acres, Palmerstown",Dublin,227500.0,No,Palmerstown,Dublin 20,q3,60%
+13/07/2011,"13 Oakcourt Park, Palmerstown",Dublin,175000.0,No,Palmerstown,Dublin 20,q1,20%
+21/07/2011,"18 Palmerstown Avenue, Palmerstown",Dublin,187500.0,No,Palmerstown,Dublin 20,q1,20%
+21/07/2011,"39 Oak Court Lawns, Palmerstown, Dublin 20",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+22/07/2011,"55 Palmerstowm Avenue, Palmerstown",Dublin,200000.0,No,Palmerstown,Dublin 20,q2,50%
+05/08/2011,"30 Palmers Crescent, Palmerstown Manor, Palmerstown",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+05/09/2011,"3 Riversdale Avenue, Palmerstown",Dublin,307500.0,No,Palmerstown,Dublin 20,q4,80%
+16/09/2011,"No. 58, Balnagowan, Palmerstown Park",Dublin,207500.0,No,Palmerstown,Dublin 20,q2,50%
+21/09/2011,"12 Heather Grove, Woodfarm Acres, Palmerstown",Dublin,202000.0,No,Palmerstown,Dublin 20,q2,50%
+23/09/2011,"64 Kennelsfort Road, Palmerstown",Dublin,160000.0,No,Palmerstown,Dublin 20,q1,20%
+05/10/2011,"14 Glenpark Close, Woodfarm Acres, Palmerstown",Dublin,200000.0,No,Palmerstown,Dublin 20,q2,50%
+07/10/2011,"112  Oak Court Drive, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+07/10/2011,"116 Palmerstown Woods, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+17/10/2011,"9 Palmerstown Lawn, Palmerstown, Dublin 20",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+17/10/2011,"Ground Adjacent To, 9 Palmerstown Lawn, Palmerstown",Dublin,10000.0,No,Palmerstown,Dublin 20,q1,10%
+21/10/2011,"114 Kennelsfort Road, Palmerstown, Dublin 20",Dublin,160000.0,No,Palmerstown,Dublin 20,q1,20%
+28/10/2011,"9 Elderwood Road, Palmerstown",Dublin,234000.0,No,Palmerstown,Dublin 20,q3,60%
+04/11/2011,"137 Oakcourt Drive, Palmerstown, Dublin 20",Dublin,170000.0,No,Palmerstown,Dublin 20,q1,20%
+23/11/2011,"18 Glenmaroon Road, Palmerstown",Dublin,220000.0,No,Palmerstown,Dublin 20,q2,50%
+28/11/2011,"36 Oakcourt Park, Palmerstown, Dublin 20",Dublin,151300.0,No,Palmerstown,Dublin 20,q1,10%
+07/12/2011,"No 4 Robbin Villas, Palmerstown, Dublin 20",Dublin,272000.0,No,Palmerstown,Dublin 20,q3,70%
+09/12/2011,"148 Whitethorn Park, Palmerstown, Dublin 22",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+14/12/2011,"144  Palmerstown Avenue, Palmerstown, Dublin 20",Dublin,258000.0,No,Palmerstown,Dublin 20,q3,70%
+14/12/2011,"144 Kennelsfort Road, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+20/12/2011,"16 Kennelsfort Road, Palmerstown, Dublin 20",Dublin,170000.0,No,Palmerstown,Dublin 20,q1,20%
+27/01/2012,"37 Palmerstown Drive, Palmerstown",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+14/02/2012,"97 Culmore Road, Palmerstown, Dublin 20",Dublin,230000.0,No,Palmerstown,Dublin 20,q3,60%
+16/02/2012,"Palmerstown Lodge, Dartry",Dublin,1780000.0,No,Palmerstown,Dublin 20,q4,100%
+22/02/2012,"11 The Vale, Woodfarm Acres, Palmerstown",Dublin,192500.0,No,Palmerstown,Dublin 20,q2,40%
+28/02/2012,"No. 50 Palmers Drive, Palmerstown Manor",Dublin,239000.0,No,Palmerstown,Dublin 20,q3,60%
+29/02/2012,"10 Woodfarm Avenue, Palmerstown, Dublin 20",Dublin,180000.0,No,Palmerstown,Dublin 20,q1,20%
+14/03/2012,"16 Riversdale Grove, Palmerstown",Dublin,200000.0,No,Palmerstown,Dublin 20,q2,50%
+03/04/2012,"126 Palmerstown Avenue, Palmerstown, Dublin 20",Dublin,182000.0,No,Palmerstown,Dublin 20,q1,20%
+04/04/2012,"95 The Coppice, Woodfarm Acres, Palmerstown",Dublin,205000.0,No,Palmerstown,Dublin 20,q2,50%
+17/04/2012,"10 Culmore Park, Palmerstown, Dublin 20",Dublin,155000.0,No,Palmerstown,Dublin 20,q1,10%
+27/04/2012,"62 Culmore Road, Palmerstown",Dublin,235000.0,No,Palmerstown,Dublin 20,q3,60%
+30/04/2012,"21 Kennelsfort Road, Palmerstown",Dublin,105000.0,No,Palmerstown,Dublin 20,q1,10%
+03/05/2012,"4 Palmers Glade, Palmerstown",Dublin,185000.0,No,Palmerstown,Dublin 20,q1,20%
+28/05/2012,"Irishtown, Quarryvale, Palmerstown",Dublin,310000.0,No,Palmerstown,Dublin 20,q4,80%
+31/05/2012,"18 Glenmaroon Park, Palmerstown, Dublin",Dublin,230000.0,No,Palmerstown,Dublin 20,q3,60%
+31/05/2012,"35 Palmerstown Drive, Palmerstown",Dublin,278000.0,No,Palmerstown,Dublin 20,q3,70%
+19/06/2012,"61 Oak Court Lawn, Palmerstown",Dublin,80000.0,No,Palmerstown,Dublin 20,q1,10%
+22/06/2012,"13 Wheatfield Road, Palmerstown",Dublin,222500.0,No,Palmerstown,Dublin 20,q2,50%
+28/06/2012,"71 Palmerstown Green, Palmerstown",Dublin,160000.0,No,Palmerstown,Dublin 20,q1,20%
+29/06/2012,"34 Culmore Road, Palmerstown",Dublin,197500.0,No,Palmerstown,Dublin 20,q2,50%
+01/08/2012,"16 Temple Villas, Palmerstown Road",Dublin,3450000.0,No,Palmerstown,Dublin 20,q4,100%
+14/08/2012,"59 Oakcourt Avenue, Palmerstown",Dublin,155000.0,No,Palmerstown,Dublin 20,q1,10%
+16/08/2012,"158 Kennelsfort Road, Palmerstown",Dublin,196000.0,No,Palmerstown,Dublin 20,q2,50%
+24/08/2012,"134A Whitethorn Park, Palmerstown",Dublin,117000.0,No,Palmerstown,Dublin 20,q1,10%
+27/08/2012,"197 Palmerstown Avenue, Dublin",Dublin,150000.0,No,Palmerstown,Dublin 20,q1,10%
+31/08/2012,"3 Oak Court Avenue, Palmerstown, Dublin 20",Dublin,170000.0,No,Palmerstown,Dublin 20,q1,20%
+10/09/2012,"13 The Vale, Woodfarm Acres, Palmerstown",Dublin,180000.0,No,Palmerstown,Dublin 20,q1,20%
+20/09/2012,"5 St Fintans Terrace, Palmerstown, Dublin 20",Dublin,137000.0,No,Palmerstown,Dublin 20,q1,10%
+20/09/2012,"96 Palmerstown Drive, Palmerstown",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+01/10/2012,"53 Oak Court Lawns, Palmerstown",Dublin,80000.0,No,Palmerstown,Dublin 20,q1,10%
+03/10/2012,"115 Wheatfield Road, Palmerstown, Dublin 20",Dublin,175000.0,No,Palmerstown,Dublin 20,q1,20%
+18/10/2012,"12 Palmers Drive, Palmerstown, Dublin 20",Dublin,194000.0,No,Palmerstown,Dublin 20,q2,50%
+18/10/2012,"26 Turret Road, Palmerstown",Dublin,187000.0,No,Palmerstown,Dublin 20,q1,20%
+21/10/2012,"12 Glenaulin Road, Palmerstown, Dublin 20",Dublin,178500.0,No,Palmerstown,Dublin 20,q1,20%
+25/10/2012,"1 And 2 Beechdale Mews, Palmerstown Road",Dublin,400000.0,No,Palmerstown,Dublin 20,q4,100%
+27/10/2012,"3 Glenpark Road, Palmerstown, Dublin 20",Dublin,180000.0,No,Palmerstown,Dublin 20,q1,20%
+02/11/2012,"80 Whitethorn Drive, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+15/11/2012,"15 Palmers Drive, Palmerstown, Dublin 20",Dublin,105000.0,No,Palmerstown,Dublin 20,q1,10%
+20/11/2012,"136 Whitethorn Park, Palmerstown, Dublin 20",Dublin,110000.0,No,Palmerstown,Dublin 20,q1,10%
+20/11/2012,"174 Oakcourt Drive, Palmerstown",Dublin,218500.0,No,Palmerstown,Dublin 20,q2,50%
+22/11/2012,"23 Glenaulin Green, Palmerstown",Dublin,235000.0,No,Palmerstown,Dublin 20,q3,60%
+23/11/2012,"30 Kennelsfort Road, Palmerstown, Dublin 20",Dublin,170000.0,No,Palmerstown,Dublin 20,q1,20%
+28/11/2012,"26 Kennelsfort Road, Palmerstown, Dublin 20",Dublin,175000.0,No,Palmerstown,Dublin 20,q1,20%
+10/12/2012,"Apartment 5B, Ballnagowan, Palmerstown Park",Dublin,168000.0,No,Palmerstown,Dublin 20,q1,20%
+11/12/2012,"85, Turrett Road, Palmerstown",Dublin,225000.0,No,Palmerstown,Dublin 20,q2,50%
+12/12/2012,"10 Palmers Glade, Palmerstown Manor",Dublin,225000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2012,"15 Culmore Park, Palmerstown, Dublin",Dublin,200000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2012,"3 Palmers Avenue, Palmerstown Manor",Dublin,220000.0,No,Palmerstown,Dublin 20,q2,50%
+20/12/2012,"1  Glen Park Drive, Palmerstown",Dublin,180000.0,No,Palmerstown,Dublin 20,q1,20%
+20/12/2012,"57 Palmerstown Drive, Palmerstown",Dublin,262000.0,No,Palmerstown,Dublin 20,q3,70%
+21/12/2012,"1  Glen Park Drive, Palmerstown",Dublin,180000.0,No,Palmerstown,Dublin 20,q1,20%
+18/01/2013,"34 Heather Grove, Woodfarm Acres, Palmerstown",Dublin,300000.0,No,Palmerstown,Dublin 20,q3,80%
+01/02/2013,"15 Palmer'S Glade, Palmerstown Manor, Palmerstown",Dublin,229950.0,No,Palmerstown,Dublin 20,q3,60%
+08/02/2013,"107 Glenmaroon Road, Palmerstown",Dublin,160000.0,No,Palmerstown,Dublin 20,q1,20%
+08/02/2013,"48 Oak Court Park, Palmerstown",Dublin,160000.0,No,Palmerstown,Dublin 20,q1,20%
+04/03/2013,"77 Turret Road, Palmerstown, Dublin 20",Dublin,190000.0,No,Palmerstown,Dublin 20,q1,30%
+08/03/2013,"111 Whitethorn Drive, Palmerstown, Dublin  22",Dublin,205000.0,No,Palmerstown,Dublin 20,q2,50%
+12/03/2013,"38 Oakcourt Park, Palmerstown",Dublin,150000.0,No,Palmerstown,Dublin 20,q1,10%
+13/03/2013,"Apartment 12, Palmerstown Square, Palmerstown",Dublin,122000.0,No,Palmerstown,Dublin 20,q1,10%
+15/03/2013,"15 Palmerstown Drive, Palmerstown",Dublin,262000.0,No,Palmerstown,Dublin 20,q3,70%
+20/03/2013,"67 Whitethorn Park, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+08/04/2013,"5 Palmerstown Court, Rathmines",Dublin,400000.0,No,Palmerstown,Dublin 20,q4,100%
+17/04/2013,"22 Glenmaroon Road, Palmerstown",Dublin,140000.0,No,Palmerstown,Dublin 20,q1,10%
+19/04/2013,"15 Glenaulin Green, Palmerstown, Dublin 20",Dublin,162000.0,No,Palmerstown,Dublin 20,q1,20%
+19/04/2013,"3 Glenaulin Road, Palmerstown",Dublin,262500.0,No,Palmerstown,Dublin 20,q3,70%
+24/05/2013,"46 Whitethorn Crescent, Palmerstown, Dublin 20",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+28/05/2013,"18A Culmore Road, Palmerstown, Dublin 20",Dublin,235000.0,No,Palmerstown,Dublin 20,q3,60%
+29/05/2013,"7 Palmers Park, Palmerstown Manor",Dublin,246500.0,No,Palmerstown,Dublin 20,q3,60%
+30/05/2013,"171 Oak Court Drive, Palmerstown, Dublin 20",Dublin,151000.0,No,Palmerstown,Dublin 20,q1,10%
+01/07/2013,"111 Turret Road, Palmerstown",Dublin,190000.0,No,Palmerstown,Dublin 20,q1,30%
+08/07/2013,"25 Rivesdale Avenue, Palmerstown, Dublin",Dublin,200000.0,No,Palmerstown,Dublin 20,q2,50%
+12/07/2013,"28 Palmerstown Lawn, Palmerstown",Dublin,190000.0,No,Palmerstown,Dublin 20,q1,30%
+13/07/2013,"24 Palmers Court, Palmerstown, Dublin  20",Dublin,151000.0,No,Palmerstown,Dublin 20,q1,10%
+23/07/2013,"10 Palmerstown Avenue, Palmerstown",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+02/08/2013,"15 Riversdale Avenue, Palmerstown",Dublin,225000.0,No,Palmerstown,Dublin 20,q3,60%
+08/08/2013,"22 Glenmaroon Park, Palmerstown",Dublin,183000.0,No,Palmerstown,Dublin 20,q1,20%
+08/08/2013,"35 Whitethorn Crescent, Palmerstown",Dublin,193000.0,No,Palmerstown,Dublin 20,q2,40%
+16/08/2013,"38 The Coppice, Woodfarm Acres, Palmerstown",Dublin,235000.0,No,Palmerstown,Dublin 20,q3,60%
+19/08/2013,"16 Elderwood Road, Palmerstown",Dublin,161000.0,No,Palmerstown,Dublin 20,q1,20%
+03/09/2013,"Glendower, 6 Palmerstown Gardens, Dublin 6",Dublin,1310000.0,No,Palmerstown,Dublin 20,q4,100%
+12/09/2013,"160 The Coppice, Woodfarm Acres, Palmerstown",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+16/09/2013,"76 Palmerstown Dr, Palmerstown, Dublin 20",Dublin,270000.0,No,Palmerstown,Dublin 20,q3,70%
+24/09/2013,"123 Oakcourt Drive, Palmerstown",Dublin,145000.0,No,Palmerstown,Dublin 20,q1,10%
+27/09/2013,"148 Palmerstown Avenue, Palmerstowndublin 20",Dublin,172500.0,No,Palmerstown,Dublin 20,q1,20%
+27/09/2013,"25 Hollyville Lawn, Palmerstown",Dublin,390500.0,No,Palmerstown,Dublin 20,q4,100%
+27/09/2013,"6 Palmerstown Close, Palmerstown, Dublin 20",Dublin,233000.0,No,Palmerstown,Dublin 20,q3,60%
+27/09/2013,"88 Palmerstown Drive, Palmerstown",Dublin,291000.0,No,Palmerstown,Dublin 20,q3,80%
+04/10/2013,"51 Oak Court Lawn, Palmerstown",Dublin,90000.0,No,Palmerstown,Dublin 20,q1,10%
+15/10/2013,"77 Whitethorn Drive, Palmerstown",Dublin,186000.0,No,Palmerstown,Dublin 20,q1,20%
+17/10/2013,"27 Kennelsfort Road, Palmerstown, Dublin 20",Dublin,210000.0,No,Palmerstown,Dublin 20,q2,50%
+24/10/2013,"36 Palmerstown Square, Palmerstown",Dublin,138000.0,No,Palmerstown,Dublin 20,q1,10%
+19/11/2013,"48 Oakcourt Grove, Palmerstown, Dublin 20",Dublin,182000.0,No,Palmerstown,Dublin 20,q1,20%
+20/11/2013,"123 Kennelsfort Road, Palmerstown",Dublin,178000.0,No,Palmerstown,Dublin 20,q1,20%
+06/12/2013,"118 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,276000.0,No,Palmerstown,Dublin 20,q3,70%
+06/12/2013,"34 Oakcourt Lawn, Palmerstown, Dublin 20",Dublin,182000.0,No,Palmerstown,Dublin 20,q1,20%
+18/12/2013,"170 Kennelsfort Rd Upper, Palmerstown, Dublin 20",Dublin,275000.0,No,Palmerstown,Dublin 20,q3,70%
+18/12/2013,"24 Culmore Rd, Palmerstown, Dublin",Dublin,255000.0,No,Palmerstown,Dublin 20,q3,60%
+19/12/2013,"119 Oak Court Dr, Palmerstown, Dublin 20",Dublin,155000.0,No,Palmerstown,Dublin 20,q1,10%
+19/12/2013,"22 Manor Rd, For Residence, Palmerstown",Dublin,77500.0,No,Palmerstown,Dublin 20,q1,10%
+20/12/2013,"6 Riversdale Ave, Palmerstown, Dublin 20",Dublin,180000.0,No,Palmerstown,Dublin 20,q1,20%
+24/01/2014,"23 Turret Rd, Palmerstown, Dublin 20",Dublin,190000.0,No,Palmerstown,Dublin 20,q1,30%
+30/01/2014,"84A Culmore Road, Palmerstown",Dublin,287224.0,Yes,Palmerstown,Dublin 20,q3,80%
+31/01/2014,"7 Glenmaroon Road, Palmerstown, Dublin 20",Dublin,240000.0,No,Palmerstown,Dublin 20,q3,60%
+20/02/2014,"54 Whitethorn Crescent, Palmerstown, Dublin 20",Dublin,225000.0,No,Palmerstown,Dublin 20,q3,60%
+25/02/2014,"2 The Vale, Woodfarm Acres, Palmerstown Dublin 20",Dublin,220000.0,No,Palmerstown,Dublin 20,q2,50%
+18/03/2014,"7 Manor Rd, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,80%
+10/04/2014,"70 Palmerstown Dr, Palmerstown, Dublin 20",Dublin,287000.0,No,Palmerstown,Dublin 20,q3,80%
+10/04/2014,"71 Turret Rd, Palmerstown, Dublin 20",Dublin,212000.0,No,Palmerstown,Dublin 20,q2,50%
+15/05/2014,"56 Whitethorn Crescent, Palmerstown, Dublin 22",Dublin,221000.0,No,Palmerstown,Dublin 20,q2,50%
+21/05/2014,"12 Glenpark Close, Woodfarm, Palmerstown Dublin 20",Dublin,245000.0,No,Palmerstown,Dublin 20,q3,60%
+21/05/2014,"2 Oak Court Park, Palmerstown, Dublin 20",Dublin,190000.0,No,Palmerstown,Dublin 20,q1,30%
+23/05/2014,"123 Culmore Rd, Palmerstown, Dublin 20",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+23/05/2014,"189 Whitethorn Gardens, Palmerstown, Dublin 22",Dublin,222000.0,No,Palmerstown,Dublin 20,q2,50%
+30/05/2014,"142 Kennelsfort Rd Upper, Palmerstown, Dublin 20",Dublin,265000.0,No,Palmerstown,Dublin 20,q3,70%
+06/06/2014,"19 Palmerstown Park, Rathmines, Dublin 6",Dublin,2250000.0,No,Palmerstown,Dublin 20,q4,100%
+19/06/2014,"25 Glenpark Road, Woodfarm Court, Palmerstown",Dublin,240000.0,No,Palmerstown,Dublin 20,q3,60%
+25/06/2014,"1 Palmerstown Park, Palmerstown",Dublin,254500.0,No,Palmerstown,Dublin 20,q3,60%
+30/06/2014,"31 Palmerstown Sq, Palmerstown Park, Palmerstown Dublin 20",Dublin,151000.0,No,Palmerstown,Dublin 20,q1,10%
+02/07/2014,"16 Temple Villas, Palmerstown Rd, Dublin",Dublin,3950000.0,No,Palmerstown,Dublin 20,q4,100%
+04/07/2014,"16 Palmerstown Park, Palmerstown, Dublin 20",Dublin,252000.0,No,Palmerstown,Dublin 20,q3,60%
+11/07/2014,"157 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,342000.0,No,Palmerstown,Dublin 20,q4,90%
+16/07/2014,"27 Riverside Dr, Palmerstown, Dublin",Dublin,230000.0,No,Palmerstown,Dublin 20,q3,60%
+17/07/2014,"138 Kennelsfort Road, Palmerstown, Dublin",Dublin,196000.0,No,Palmerstown,Dublin 20,q2,50%
+22/07/2014,"32 Palmerstown Square, Palmerstown, Dublin 20",Dublin,131000.0,No,Palmerstown,Dublin 20,q1,10%
+23/07/2014,"11 Palmerstown Court, Palmerstown, Dublin 20",Dublin,292001.0,No,Palmerstown,Dublin 20,q3,80%
+30/07/2014,"14 Palmers Glade, Palmerstown",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+01/08/2014,"138 The Coppice Woodfarm Acres, Palmerstown Dublin 20, Dublin",Dublin,295000.0,No,Palmerstown,Dublin 20,q3,80%
+01/08/2014,"3 Culmore Park, Palmerstown, Dublin 20",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+07/08/2014,"22 Palmers Grove, Palmerstown, Dublin 20",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+15/08/2014,"166 The Coppice, Woodfarm Acres, Palmerstown Dublin 20",Dublin,267500.0,No,Palmerstown,Dublin 20,q3,70%
+19/08/2014,"7 Glenmaroon Park, Palmerstown, Dublin 20",Dublin,271522.0,No,Palmerstown,Dublin 20,q3,70%
+19/08/2014,"72 Glenaulin Green, Palmerstown, Dublin 20",Dublin,220000.0,No,Palmerstown,Dublin 20,q2,50%
+29/08/2014,"28 Palmers Dr, Palmerstown Manor, Palmerstown Dublin 20",Dublin,262000.0,No,Palmerstown,Dublin 20,q3,70%
+12/09/2014,"2 Juliet Sq, Palmerstown, Dublin 20",Dublin,197000.0,No,Palmerstown,Dublin 20,q2,50%
+19/09/2014,"5 Oak Court Lawn, Palmerstown, Dublin 20",Dublin,232000.0,No,Palmerstown,Dublin 20,q3,60%
+19/09/2014,"6 Glenmaroon Park, Palmerstown, Dublin",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+26/09/2014,"50 Hannah Square, Palmerstown, Dublin 20",Dublin,170000.0,No,Palmerstown,Dublin 20,q1,20%
+30/09/2014,"50 Juliet Square, St Edmunds, Palmerstown",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"51 Juliet Square, St Edmunds, Palmerstown",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"53 Juliet Square, St Edmunds, Palmerstown",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"54 Juilet Square, St Edmunds, Palmerstown",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"56 Juilet Square, St Edmunds, Palmerstown",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"58 Juliet Square, St Edmunds, Palmerstown",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"59 Juliet Square, St Edmund'S, Palmerstown",Dublin,140455.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"59 Juliet Square, St Edmunds, Palmerstown",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"60 Juliet Square, St Edmunds, Palmerstown",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"61 Juliet Sq, St Edmunds, Palmerstown Dublin 20",Dublin,185777.0,No,Palmerstown,Dublin 20,q1,20%
+30/09/2014,"62 Juliet Square, St Edmunds, Palmerstown",Dublin,185777.0,No,Palmerstown,Dublin 20,q1,20%
+30/09/2014,"63 Juliet Square, St Edmonds, Palmerstown",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"64 Juliet Square, St. Edmunds, Palmerstown",Dublin,185777.0,No,Palmerstown,Dublin 20,q1,20%
+30/09/2014,"65 Juliet Square, St. Edmunds, Palmerstown",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"67 Juliet Sq, St Edmunds, Palmerstown Dublin 20",Dublin,140445.0,No,Palmerstown,Dublin 20,q1,10%
+30/09/2014,"68 Juliet Sq, St Edmunds, Palmerstown Dublin 20",Dublin,185799.0,No,Palmerstown,Dublin 20,q1,20%
+30/09/2014,"69 Juliet Square, St Edmunds, Palmerstown",Dublin,185777.0,No,Palmerstown,Dublin 20,q1,20%
+01/10/2014,"5 Palmers Grove, Palmerstown Manor, Dublin 20",Dublin,310000.0,No,Palmerstown,Dublin 20,q4,80%
+09/10/2014,"Apt 41 Block D Palmerstown Sq, Palmerstown, Dublin 20",Dublin,155000.0,No,Palmerstown,Dublin 20,q1,10%
+17/10/2014,"35 Oakcourt Lawn, Palmerstown, Dublin 20",Dublin,233000.0,No,Palmerstown,Dublin 20,q3,60%
+17/10/2014,"46 Kennelsfort Road, Palmerstown, Dublin 20",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+17/10/2014,"48A Oakcourt Grove, Palmerstown",Dublin,188793.83,Yes,Palmerstown,Dublin 20,q1,30%
+22/10/2014,"30 Elderwood Rd, Palmerstown, Dublin 20",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+09/11/2014,"31 Oakcourt Pk, Palmerstown, Dublin 20",Dublin,168000.0,No,Palmerstown,Dublin 20,q1,20%
+13/11/2014,"1 The Terrace, Mill Lane, Palmerstown",Dublin,163333.0,No,Palmerstown,Dublin 20,q1,20%
+26/11/2014,"23 Riversdale Ave, Palmerstown, Dublin 20",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+28/11/2014,"34 Palmerstown Lawns, Palmerstown, Dublin 20",Dublin,272500.0,No,Palmerstown,Dublin 20,q3,70%
+05/12/2014,"8 Mill Lane, Palmerstown",Dublin,80000.0,No,Palmerstown,Dublin 20,q1,10%
+05/12/2014,"85 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,282000.0,No,Palmerstown,Dublin 20,q3,70%
+08/12/2014,"23 Culmore Road, Palmerstown",Dublin,270000.0,No,Palmerstown,Dublin 20,q3,70%
+22/12/2014,"7 Whitethorn Way, Palmerstown, Dublin 20",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+23/12/2014,"5 Woodfarm Dr, Palmerstown, Dublin 24",Dublin,301000.0,No,Palmerstown,Dublin 20,q3,80%
+16/01/2015,"35A Woodfarm Ave, Palmerstown, Dublin",Dublin,330000.0,No,Palmerstown,Dublin 20,q4,90%
+16/01/2015,"7 Mill Lane, Palmerstown, Dublin 20",Dublin,105000.0,No,Palmerstown,Dublin 20,q1,10%
+16/01/2015,"75 Culmore Rd, Palmerstown, Dublin 20",Dublin,326250.0,No,Palmerstown,Dublin 20,q4,90%
+21/01/2015,"12 Palmers Glade, Palmerstown Manor, Palmerstown Dublin 20",Dublin,271000.0,No,Palmerstown,Dublin 20,q3,70%
+23/01/2015,"50 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"51 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"53 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"54 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"56 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"57 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"58 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"59 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"60 Juliet Square, St Endmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"61 Juliet Square, St Edmunds, Palmerstown",Dublin,193853.0,No,Palmerstown,Dublin 20,q2,40%
+23/01/2015,"62 Juliet Square, St Edmunds, Palmerstown",Dublin,193853.0,No,Palmerstown,Dublin 20,q2,40%
+23/01/2015,"63 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"64 Juliet Square, St Edmunds, Palmerstown",Dublin,193853.0,No,Palmerstown,Dublin 20,q2,40%
+23/01/2015,"65 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"66 Juliet Square, St Edmunds, Palmerstown",Dublin,193853.0,No,Palmerstown,Dublin 20,q2,40%
+23/01/2015,"67 Juliet Square, St Edmunds, Palmerstown",Dublin,146550.0,No,Palmerstown,Dublin 20,q1,10%
+23/01/2015,"68 Juliet Square, St Edmunds, Palmerstown",Dublin,193855.0,No,Palmerstown,Dublin 20,q2,40%
+23/01/2015,"69 Juliet Square, St Edmunds, Palmerstown",Dublin,193855.0,No,Palmerstown,Dublin 20,q2,50%
+26/01/2015,"87 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+03/02/2015,"37 Glen Park Dr, Woodfarm Court, Palmerstown Dublin 20",Dublin,245000.0,No,Palmerstown,Dublin 20,q3,60%
+09/02/2015,"16 Palmers Copse, Palmerstown Manor, Palmerstown Dublin 20",Dublin,262000.0,No,Palmerstown,Dublin 20,q3,70%
+09/02/2015,"29 Glenmaroon Road, Palmerstown",Dublin,350000.0,No,Palmerstown,Dublin 20,q4,90%
+11/02/2015,"86 Glenmaroon Rd, Palmerstown, Dublin 20",Dublin,305000.0,No,Palmerstown,Dublin 20,q4,80%
+20/02/2015,"1 Palmers Copse, Palmerstown Manor, Dublin 20",Dublin,273000.0,No,Palmerstown,Dublin 20,q3,70%
+13/03/2015,"244 Palmerstown Woods, Dublin 22, Dublin",Dublin,210000.0,No,Palmerstown,Dublin 20,q2,50%
+16/03/2015,"4 The Terrace, Mill Lane, Palmerstown",Dublin,75000.0,No,Palmerstown,Dublin 20,q1,10%
+18/03/2015,"20 Palmerstown Green, Dublin 20, Dublin",Dublin,240000.0,No,Palmerstown,Dublin 20,q3,60%
+27/03/2015,"55 Palmerstown Green, Palmerstown",Dublin,255000.0,No,Palmerstown,Dublin 20,q3,60%
+27/04/2015,"118 The Coppice, Woodfarm Acres, Palmerstown Dublin 20",Dublin,249000.0,No,Palmerstown,Dublin 20,q3,60%
+25/05/2015,"62 Oakcourt Lawn, Palmerstown, Dublin 20",Dublin,155000.0,No,Palmerstown,Dublin 20,q1,10%
+12/06/2015,"54 Glenaulin Rd, Palmerstown, Dublin 20",Dublin,304500.0,No,Palmerstown,Dublin 20,q4,80%
+24/06/2015,"24 The Orchard, Woodfarm Acres, Palmerstown",Dublin,290000.0,No,Palmerstown,Dublin 20,q3,80%
+30/06/2015,"21 Kennelsfort Rd, Palmerstown, Dublin",Dublin,255000.0,No,Palmerstown,Dublin 20,q3,60%
+03/07/2015,"4 Glenmaroon Park, Palmerstown, Dublin 20",Dublin,216000.0,No,Palmerstown,Dublin 20,q2,50%
+20/07/2015,"117 Turret Road, Palmerstown, Dublin 20",Dublin,265000.0,No,Palmerstown,Dublin 20,q3,70%
+28/07/2015,"20 Glenpark Rd, Woodfarm Court, Palmerstown Dublin 20",Dublin,282000.0,No,Palmerstown,Dublin 20,q3,70%
+06/08/2015,"81 Kennelsfort Rd, Palmerstown Dublin 20, Dublin",Dublin,245000.0,No,Palmerstown,Dublin 20,q3,60%
+10/08/2015,"89 Culmore Rd, Palmerstown, Dublin 20",Dublin,257000.0,No,Palmerstown,Dublin 20,q3,70%
+27/08/2015,"53 Whitethorn Crescentt, Palmerstown, Dublin 22",Dublin,246000.0,No,Palmerstown,Dublin 20,q3,60%
+07/09/2015,"6 Palmerstown Square, Dublin 20",Dublin,153000.0,No,Palmerstown,Dublin 20,q1,10%
+18/09/2015,"123 Wheatfield Road, Palmerstown, Dublin 20",Dublin,360000.0,No,Palmerstown,Dublin 20,q4,100%
+25/09/2015,"24 Hollyville Lawn, Palmerstown, Dublin 20",Dublin,420000.0,No,Palmerstown,Dublin 20,q4,100%
+28/09/2015,"18 Palmers Copse, Palmerstown Manor, Palmerstown Dublin 20",Dublin,300000.0,No,Palmerstown,Dublin 20,q3,80%
+28/09/2015,"4 Palmerstown Ave, Palmerstown, Dublin",Dublin,310280.0,No,Palmerstown,Dublin 20,q4,80%
+30/09/2015,"5 Kennelsfort Rd Upper, Palmerstown, Dublin 20",Dublin,200000.0,No,Palmerstown,Dublin 20,q2,50%
+04/10/2015,"89 Culmore Rd, Palmerstown, Dublin 20",Dublin,257000.0,No,Palmerstown,Dublin 20,q3,70%
+07/10/2015,"152 Whitethorn Park, Palmerstown, Dublin 22",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+07/10/2015,"93 Culmore Road, Palmerstown",Dublin,280000.0,No,Palmerstown,Dublin 20,q3,70%
+22/10/2015,"30 Palmerstown Lawns, Palmerstown, Dublin 20",Dublin,265000.0,No,Palmerstown,Dublin 20,q3,70%
+22/10/2015,"4 Riversdale Grove, Palmerstown, Dublin",Dublin,280000.0,No,Palmerstown,Dublin 20,q3,70%
+30/10/2015,"22 The Orchard, Wood Farm Acres, Palmerstown Dublin 20",Dublin,276500.0,No,Palmerstown,Dublin 20,q3,70%
+06/11/2015,"9 Glenaulin Green, Palmerstown, Dublin 20",Dublin,265000.0,No,Palmerstown,Dublin 20,q3,70%
+11/11/2015,"47 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,200000.0,No,Palmerstown,Dublin 20,q2,50%
+12/11/2015,"47A Palmerstown Ave, Palmerstown, Dublin 20",Dublin,210000.0,No,Palmerstown,Dublin 20,q2,50%
+30/11/2015,"138 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,299000.0,No,Palmerstown,Dublin 20,q3,80%
+03/12/2015,"14 Palmerstown Dr, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,80%
+08/12/2015,"2 Hannah Sq, St Edmunds, Palmerstown Dublin 20",Dublin,239000.0,No,Palmerstown,Dublin 20,q3,60%
+11/12/2015,"142 Palmerstown Avenue, Palmerstown",Dublin,255000.0,No,Palmerstown,Dublin 20,q3,60%
+17/12/2015,"64 Palmerstown Ave, Dublin 20, Dublin",Dublin,294000.0,No,Palmerstown,Dublin 20,q3,80%
+21/12/2015,"126 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,310000.0,No,Palmerstown,Dublin 20,q4,80%
+15/01/2016,"55 Oakcourt Ave, Palmerstown",Dublin,225000.0,No,Palmerstown,Dublin 20,q3,60%
+18/01/2016,"23 Glenmaroon Rd, Palmerstown, Dublin 20",Dublin,341000.0,No,Palmerstown,Dublin 20,q4,90%
+12/02/2016,"24 Juliet Sq, St Edmunds, Palmerstown Dublin 20",Dublin,187000.0,No,Palmerstown,Dublin 20,q1,20%
+29/02/2016,"98 Palmerstown Ave, Dublin 20, Dublin",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+03/03/2016,"18 Palmerstown Square, Palmerstown, Dublin 20",Dublin,173000.0,No,Palmerstown,Dublin 20,q1,20%
+11/03/2016,"16 Oakcourt Close, Palmerstown, Dublin 20",Dublin,239950.0,No,Palmerstown,Dublin 20,q3,60%
+11/03/2016,"67 Turret Rd, Palmerstown, Dublin 20",Dublin,287000.0,No,Palmerstown,Dublin 20,q3,80%
+30/03/2016,"168 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,265000.0,No,Palmerstown,Dublin 20,q3,70%
+07/04/2016,"Apt 2, Balnagowan, Palmerstown Park Dublin 6",Dublin,350000.0,No,Palmerstown,Dublin 20,q4,90%
+08/04/2016,"28 Oak Court Park, Palmerstown, Dublin 20",Dublin,225000.0,No,Palmerstown,Dublin 20,q3,60%
+15/04/2016,"55 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,289500.0,No,Palmerstown,Dublin 20,q3,80%
+15/04/2016,"73 Whitethorn Park, Palmerstown, Dublin 20",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+18/04/2016,"158 The Coppice, Woodfarm Acres, Palmerstown Dublin 20",Dublin,287000.0,No,Palmerstown,Dublin 20,q3,80%
+21/04/2016,"3 Mill Lane Lower, Palmerstown, Dublin 20",Dublin,45000.0,No,Palmerstown,Dublin 20,q1,10%
+25/04/2016,"36 Manor Rd, For Residential A C, Palmerstown",Dublin,100000.0,No,Palmerstown,Dublin 20,q1,10%
+29/04/2016,"7 Mill Lane, Palmerstown, Dublin 20",Dublin,65000.0,No,Palmerstown,Dublin 20,q1,10%
+06/05/2016,"201 Whitethorn Park, Palmerstown, Dublin 23",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+16/05/2016,"26 Riversdale Ave, Palmerstown, Dublin 20",Dublin,305000.0,No,Palmerstown,Dublin 20,q4,80%
+16/05/2016,"38 Glenaulin Green, Palmerstown Dublin 20, Dublin",Dublin,270000.0,No,Palmerstown,Dublin 20,q3,70%
+25/05/2016,"128 The Coppice, Woodfarm Acres, Palmerstown Dublin 20",Dublin,302000.0,No,Palmerstown,Dublin 20,q3,80%
+03/06/2016,"15 Riversdale Grove, Palmerstown, Dublin 20",Dublin,300000.0,No,Palmerstown,Dublin 20,q3,80%
+08/06/2016,"12 Palmers Dr, Palmerstown, Dublin 20",Dublin,228000.0,No,Palmerstown,Dublin 20,q3,60%
+29/06/2016,"25 Palmerstown Road, Rathmines, Dublin 6",Dublin,2450000.0,No,Palmerstown,Dublin 20,q4,100%
+08/07/2016,"11 The Covert, Woodfarm Acres, Palmerstown Dublin 20",Dublin,310000.0,No,Palmerstown,Dublin 20,q4,80%
+29/07/2016,"20 Palmers Court, Palmerstown Manor, Palmerstown Dublin 20",Dublin,240000.0,No,Palmerstown,Dublin 20,q3,60%
+05/08/2016,"21 Palmers Copse, Palmerstown Manor, Dublin 20",Dublin,297500.0,No,Palmerstown,Dublin 20,q3,80%
+10/08/2016,"20 Whitethorn Crescent, Palmerstown, Dublin 22",Dublin,282500.0,No,Palmerstown,Dublin 20,q3,70%
+10/08/2016,"97 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,330000.0,No,Palmerstown,Dublin 20,q4,90%
+29/08/2016,"31 Heather Grove, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,80%
+02/09/2016,"14 Palmerstown Ave, Dublin",Dublin,290000.0,No,Palmerstown,Dublin 20,q3,80%
+02/09/2016,"18 Riversdale Ave, Palmerstown, Dublin 20",Dublin,382000.0,No,Palmerstown,Dublin 20,q4,100%
+05/09/2016,"11 Riversdale Grove, Palmerstown, Dublin 20",Dublin,297000.0,No,Palmerstown,Dublin 20,q3,80%
+05/09/2016,"50 Whitehtorn Crescent, Palmerstown, Dublin 20",Dublin,235000.0,No,Palmerstown,Dublin 20,q3,60%
+10/09/2016,"2 Lower Mill Lane, Palmerstown, Dublin 20",Dublin,50000.0,No,Palmerstown,Dublin 20,q1,10%
+23/09/2016,"53 The Coppice, Woodfarm Acres, Palmerstown Dublin 20",Dublin,272500.0,No,Palmerstown,Dublin 20,q3,70%
+29/09/2016,"49 Ashley Hall, St. Edmunds, Palmerstown",Dublin,111184.14,Yes,Palmerstown,Dublin 20,q1,10%
+29/09/2016,"50 Ashley Hall, St. Edmunds, Palmerstown",Dublin,157439.65,Yes,Palmerstown,Dublin 20,q1,10%
+29/09/2016,"51 Ashley Hall, St. Edmunds, Palmerstown",Dublin,150831.72,Yes,Palmerstown,Dublin 20,q1,10%
+29/09/2016,"52 Ashley Hall, St. Edmunds, Palmerstown",Dublin,157439.65,Yes,Palmerstown,Dublin 20,q1,10%
+29/09/2016,"53 Ashley Hall, St. Edmunds, Palmerstown",Dublin,111184.14,Yes,Palmerstown,Dublin 20,q1,10%
+29/09/2016,"54 Ashley Hall, St. Edmunds, Palmerstown",Dublin,157439.65,Yes,Palmerstown,Dublin 20,q1,10%
+29/09/2016,"55 Ashley Hall, St. Edmunds, Palmerstown",Dublin,168893.39,Yes,Palmerstown,Dublin 20,q1,20%
+29/09/2016,"56 Ashley Hall, St. Edmunds, Palmerstown",Dublin,159642.29,Yes,Palmerstown,Dublin 20,q1,20%
+29/09/2016,"57 Ashley Hall, St. Edmunds, Palmerstown",Dublin,111184.14,Yes,Palmerstown,Dublin 20,q1,10%
+29/09/2016,"58 Ashley Hall, St. Edmunds, Palmerstown",Dublin,157439.65,Yes,Palmerstown,Dublin 20,q1,20%
+29/09/2016,"59 Ashley Hall, St. Edmunds, Palmerstown",Dublin,168893.39,Yes,Palmerstown,Dublin 20,q1,20%
+29/09/2016,"60 Ashley Hall, St. Edmunds, Palmerstown",Dublin,157439.65,Yes,Palmerstown,Dublin 20,q1,20%
+29/09/2016,"61 Ashley Hall, St. Edmunds, Palmerstown",Dublin,111184.14,Yes,Palmerstown,Dublin 20,q1,10%
+29/09/2016,"62 Ashley Hall, St. Edmunds, Palmerstown",Dublin,157439.65,Yes,Palmerstown,Dublin 20,q1,20%
+29/09/2016,"63 Ashley Hall, St. Edmunds, Palmerstown",Dublin,168893.39,Yes,Palmerstown,Dublin 20,q1,20%
+29/09/2016,"64 Ashley Hall, St. Edmunds, Palmerstown",Dublin,157439.65,Yes,Palmerstown,Dublin 20,q1,20%
+29/09/2016,"65 Ashley Hall, St. Edmunds, Palmerstown",Dublin,156999.12,Yes,Palmerstown,Dublin 20,q1,10%
+29/09/2016,"66 Ashley Hall, St. Edmunds, Palmerstown",Dublin,157439.65,Yes,Palmerstown,Dublin 20,q1,20%
+10/10/2016,"19 Heather Grove, Woodfarm Acres, Palmerstown Dublin 20",Dublin,305000.0,No,Palmerstown,Dublin 20,q4,80%
+17/10/2016,"12 The Coppice, Woodfarm Acres, Palmerstown Dublin 20",Dublin,285000.0,No,Palmerstown,Dublin 20,q3,80%
+19/10/2016,"4 Palmerstown Heights, Palmerstown, Dublin 20",Dublin,325000.0,No,Palmerstown,Dublin 20,q4,90%
+19/10/2016,"76 Turret Rd, Palmerstown, Dublin 20",Dublin,334000.0,No,Palmerstown,Dublin 20,q4,90%
+27/10/2016,"29 The Vale, Woodfarm Acres, Palmerstown Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,80%
+04/11/2016,"138 Oakcourt Dr, Palmerstown, Dublin 20",Dublin,267500.0,No,Palmerstown,Dublin 20,q3,70%
+04/11/2016,"74 Culmore Rd, Palmerstown, Dublin 20",Dublin,333000.0,No,Palmerstown,Dublin 20,q4,90%
+10/11/2016,"96 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,265000.0,No,Palmerstown,Dublin 20,q3,70%
+17/11/2016,"40 Culmore Rd, Palmerstown, Dublin 20",Dublin,287000.0,No,Palmerstown,Dublin 20,q3,80%
+18/11/2016,"107 Kennelsfort Rd Upper, Palmerstown, Dublin 20",Dublin,281000.0,Yes,Palmerstown,Dublin 20,q3,70%
+18/11/2016,"65 Hannah Sq, St Edmunds, Palmerstown Dublin 20",Dublin,215000.0,No,Palmerstown,Dublin 20,q2,50%
+23/11/2016,"8 Palmerstown Lawn, Palmerstown, Dublin",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+24/11/2016,"141 Whitethorn Park, Palmerstown, Dublin",Dublin,248000.0,No,Palmerstown,Dublin 20,q3,60%
+08/12/2016,"19 Glenpark Close, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,80%
+09/12/2016,"91 Whitethorn Dr, Palmerstown, Dublin 20",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+14/12/2016,"21 Glenaulin Rd, Palmerstown, Dublin 20",Dublin,285000.0,No,Palmerstown,Dublin 20,q3,80%
+16/12/2016,"5 Mill Lane, Palmerstown, Dublin 20",Dublin,95000.0,No,Palmerstown,Dublin 20,q1,10%
+19/12/2016,"1 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"10 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"10 Juliet Sq, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"100 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"101 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"102 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"103 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"104 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"105 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"106 Ashley Hall, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"107 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"108 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"109 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"11 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"110 Ashley Hall, St Edmund'S, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+19/12/2016,"111 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"112 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"113 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"114 Ashley Hall, St Edmund'S, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+19/12/2016,"115 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"116  Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"117 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"118 Ashley Hall, St Edmund'S, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+19/12/2016,"119 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"12 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"12 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"12 Juliet Sq St Edmunds, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"120 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"121 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"122 Ashley Hall, St Edmund'S, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+19/12/2016,"13 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q1,30%
+19/12/2016,"13 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"13 Juliet Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"14 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"14 Juliet Sq, Palmerstown, Dublin 20",Dublin,199000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"15 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"15 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"16 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"17 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"18 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"19 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"2 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"20 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"20 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"21 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"21 Juliet Sq St Edmunds, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"22 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"22 Juliet Sq, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"23 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"24 Ashley Hall, St Edmund'S, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+19/12/2016,"24 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"25 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"25 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"25 Juliet Sq, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"26 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"26 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"26 Juliet Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"27 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"27 Juliet Square, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"28 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"28 Hannah Sq, Palmerstown, Dublin 20",Dublin,199000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"28 Juliet Square, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"29 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"29 Hannah Sq, Palmerstown, Dublin 20",Dublin,199000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"29 Juliet Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"3 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"30 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"30 Juliet Square, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"31 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"31 Juliet Square, St Edmunds, Palmerstown",Dublin,199000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"32 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"32 Hannah Sq, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"32 Juliet Sq, Palmerstown, Dublin 20",Dublin,199000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"33 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,30%
+19/12/2016,"34 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"34 Juliet Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"35 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"36 Ashley Hall, St Edmund'S, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+19/12/2016,"37 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"37 Juliet Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"38 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"39 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"39 Juliet Square, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"4 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"40 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"40 Juliet Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"41 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"42 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"42 Juliet Square, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"43 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"43 Juliet Square, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"44 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"44 Juliet Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"45 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"45 Juliet Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"46 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"47 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"47 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"47 Juliet Square, St Edmunds, Palmerstown",Dublin,199000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"48 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"48 Juliet Sq, Palmerstown, Dublin 20",Dublin,199000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"49 Hannah Sq, Palmerstown, Dublin 16",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"5 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"54 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"55 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"6 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"63 Hannah Square, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"66 Hannah Square, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"67 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"68 Ashley Hall, St Edmund'S, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+19/12/2016,"68 Hannah Square, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"69 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"7 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"7 Hannah Sq, Palmerstown, Dublin 20",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"70 Hannah Square, St. Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"71 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"72 Hannah Square, St Edmunds, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"73 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"74 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"74 Hannah Sqr, St Edmunds, Palmerstown",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"75 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"75 Hannah Sq, Palmerstown",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"76 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"77 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"77 Hannah Sq, Palmerstown, Dublin 20",Dublin,283847.0,No,Palmerstown,Dublin 20,q3,80%
+19/12/2016,"78 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"78 Hannah Square, St Edmunds, Palmerstown",Dublin,265000.0,No,Palmerstown,Dublin 20,q3,70%
+19/12/2016,"79 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"8 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"80 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"80 Hannah Sq, Palmerstown, Dublin 20",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+19/12/2016,"81 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"81 Hannah Square, St Edmounds, Palmerstown",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"82 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"82 Hannah Sq, Palmerstown, Dublin 20",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"83 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"84 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"85 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"85 Hannah Square, St Edmunds, Palmerstown",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"86 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"87 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"87 Hannah Sq, Palmerstown, Dublin 20",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"88 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"88 Hannah Sq, Palmerstown, Dublin 20",Dublin,195000.0,No,Palmerstown,Dublin 20,q2,50%
+19/12/2016,"89 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"9 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"9 Juliet Sq, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"9 Riversdale Ave, Palmerstown, Dublin",Dublin,306000.0,No,Palmerstown,Dublin 20,q4,80%
+19/12/2016,"90 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"91 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"92 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"93 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"94 Ashley Hall, St Edmund'S, Palmerstown",Dublin,165000.0,No,Palmerstown,Dublin 20,q1,20%
+19/12/2016,"95 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"96 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"97 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"98 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+19/12/2016,"99 Ashley Hall, St Edmund'S, Palmerstown",Dublin,191000.0,No,Palmerstown,Dublin 20,q2,40%
+20/12/2016,"1 Palmers Court, Palmerstown Dublin 20, Dublin",Dublin,257000.0,No,Palmerstown,Dublin 20,q3,70%
+20/12/2016,"28 The Orchard, Woodfarm Acres, Palmerstown Dublin 20",Dublin,270000.0,No,Palmerstown,Dublin 20,q3,70%
+20/12/2016,"32 Palmerstown Square, Palmerstown, Dublin 20",Dublin,180000.0,No,Palmerstown,Dublin 20,q1,20%
+21/12/2016,"211 Palmerstown Woods, Dublin 22, Dublin",Dublin,244000.0,No,Palmerstown,Dublin 20,q3,60%
+24/01/2017,"153 Glenmaroon Rd, Palmerstown, Dublin 20",Dublin,310000.0,No,Palmerstown,Dublin 20,q4,80%
+24/01/2017,"9 Oakcourt Close, Palmerstown, Dublin 20",Dublin,235000.0,No,Palmerstown,Dublin 20,q3,60%
+06/02/2017,"28 Palmers Crescent, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,80%
+08/02/2017,"14 The Orchard, Woodfarm Acres, Palmerstown Dublin 20",Dublin,309000.0,No,Palmerstown,Dublin 20,q4,80%
+10/02/2017,"142 Whitethorn, Park, Palmerstown Dublin 22",Dublin,262000.0,No,Palmerstown,Dublin 20,q3,70%
+16/02/2017,"118 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,275000.0,No,Palmerstown,Dublin 20,q3,70%
+17/02/2017,"38 Manor Rd, Palmerstown, Dublin 20",Dublin,165099.0,No,Palmerstown,Dublin 20,q1,20%
+20/02/2017,"42 Glenaulin Green, Palmerstown, Dublin 20",Dublin,287000.0,No,Palmerstown,Dublin 20,q3,80%
+24/02/2017,"3 Glenpark Dr, Woodfarm Court, Palmerstown Dublin 20",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+03/03/2017,"2 Palmerstown Sq Apt, Palmerstown Park, Dublin 20",Dublin,223000.0,No,Palmerstown,Dublin 20,q2,50%
+10/03/2017,"8 Palmerstown Square, Palmerstown, Dublin 20",Dublin,177319.0,No,Palmerstown,Dublin 20,q1,20%
+14/03/2017,"22 Glenaulin Rd, Palmerstown, Dublin 20",Dublin,270000.0,No,Palmerstown,Dublin 20,q3,70%
+22/03/2017,"119 Culmore Rd, Palmerstown, Dublin 20",Dublin,350000.0,No,Palmerstown,Dublin 20,q4,90%
+30/03/2017,"7 The Park, St Edmunds, Palmerstown Dublin 20",Dublin,322000.0,No,Palmerstown,Dublin 20,q4,90%
+07/04/2017,"3 Riverside Dr, Palmerstown, Dublin 20",Dublin,310000.0,No,Palmerstown,Dublin 20,q4,80%
+12/04/2017,"60 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,275000.0,No,Palmerstown,Dublin 20,q3,70%
+13/04/2017,"46 Palmerstown Sq, Palmerstown, Dublin 20",Dublin,188500.0,No,Palmerstown,Dublin 20,q1,30%
+21/04/2017,"21 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+24/04/2017,"17 Oakcourt Close, Palmerstown, Dublin 20",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+03/05/2017,"160 Oakcourt Dr, Palmerstown, Dublin 20",Dublin,265000.0,No,Palmerstown,Dublin 20,q3,70%
+03/05/2017,"22 Whitethorn Crescent, Palmerstown, Dublin 20",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+16/05/2017,"95A Whitethorn Dr, Palmerstown, Dublin 20",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+17/05/2017,"109 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,372000.0,No,Palmerstown,Dublin 20,q4,100%
+25/05/2017,"1 Palmers Glade, Palmerstown Manor, Palmerstown Dublin 20",Dublin,330000.0,No,Palmerstown,Dublin 20,q4,90%
+29/05/2017,"12 Palmerstown Place, Phibsboro, Dublin 7",Dublin,235000.0,No,Palmerstown,Dublin 20,q3,60%
+29/05/2017,"33 Glenaulin Green, Palmerstown, Dublin 20",Dublin,392500.0,No,Palmerstown,Dublin 20,q4,100%
+01/06/2017,"7 Manor Rd, Palmerstown, Dublin 20",Dublin,385000.0,No,Palmerstown,Dublin 20,q4,100%
+02/06/2017,"66 Palmerstown Dr, Palmerstown, Dublin",Dublin,395000.0,No,Palmerstown,Dublin 20,q4,100%
+13/06/2017,"61 Palmerstown Dr, Palmerstown, Dublin 20",Dublin,465000.0,No,Palmerstown,Dublin 20,q4,100%
+23/06/2017,"1A Glen Park Drive, Palmerstown, Dublin 20",Dublin,345000.0,No,Palmerstown,Dublin 20,q4,90%
+07/07/2017,"151 Whitethorn Park, Palmerstown, Dublin 20",Dublin,278000.0,No,Palmerstown,Dublin 20,q3,70%
+12/07/2017,"17 Turret Rd, Palmerstown, Dublin 20",Dublin,333000.0,No,Palmerstown,Dublin 20,q4,90%
+14/07/2017,"10 Palmerstown Lawn, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,80%
+20/07/2017,"7 Robin Villas, Palmerstown, Dublin",Dublin,280000.0,No,Palmerstown,Dublin 20,q3,70%
+24/07/2017,"80 The Copse, Woodfarm Acres, Palmerstown Dublin 20",Dublin,348000.0,No,Palmerstown,Dublin 20,q4,90%
+26/07/2017,"266 Oak Court Ave, Palmerstown Dublin 20, Dublin",Dublin,163368.96,No,Palmerstown,Dublin 20,q1,20%
+02/08/2017,"117 Glenmaroom Rpad, Palmerstown, Dublin 20",Dublin,302000.0,No,Palmerstown,Dublin 20,q4,80%
+11/08/2017,"13 The Covert, Woodfarm Acres, Palmerstown Dublin 20",Dublin,220000.0,No,Palmerstown,Dublin 20,q2,50%
+18/08/2017,"11 Riversdale Grove, Palmerstown, Dublin 20",Dublin,345000.0,No,Palmerstown,Dublin 20,q4,90%
+08/09/2017,"56 Palmers Crescent, Palmerstown Manor, Palmerstowm Dublin 20",Dublin,360000.0,No,Palmerstown,Dublin 20,q4,100%
+13/10/2017,"21 St Edmund'S Square, St Loman'S Road, Palmerstown",Dublin,340000.0,Yes,Palmerstown,Dublin 20,q4,90%
+13/10/2017,"23 St Edmund'S Square, St Loman'S Road, Palmerstown",Dublin,355000.0,Yes,Palmerstown,Dublin 20,q4,90%
+13/10/2017,"25 St Edmund'S Square, St Loman'S, Palmerstown",Dublin,340000.0,Yes,Palmerstown,Dublin 20,q4,90%
+13/10/2017,"29 St Edmund'S Square, St Loman'S Road, Palmerstown",Dublin,355000.0,Yes,Palmerstown,Dublin 20,q4,90%
+13/10/2017,"31 St Edmund'S Square, St Loman'S Road, Palmerstown",Dublin,340000.0,Yes,Palmerstown,Dublin 20,q4,90%
+19/10/2017,"56 Oakcourt Lawn, Palmerstown, Dublin 20",Dublin,190000.0,No,Palmerstown,Dublin 20,q1,30%
+20/10/2017,"81 Wheatfield Rd, Palmerstown, Dublin",Dublin,353107.0,No,Palmerstown,Dublin 20,q4,90%
+26/10/2017,"19 Woodfarm Avenue, Palmerstown, Dublin 20",Dublin,430000.0,No,Palmerstown,Dublin 20,q4,100%
+02/11/2017,"1 St. Edmund'S Square, St. Loman'S Road  Palmerstown",Dublin,385000.0,Yes,Palmerstown,Dublin 20,q4,100%
+02/11/2017,"3 St. Edmund'S Square, St. Loman'S Road  Palmerstown",Dublin,375000.0,Yes,Palmerstown,Dublin 20,q4,100%
+02/11/2017,"5 St. Edmund'S Square, St. Loman'S Road  Palmerstown",Dublin,375000.0,Yes,Palmerstown,Dublin 20,q4,100%
+02/11/2017,"7 St. Edmund'S Square, St. Loman'S Road  Palmerstown",Dublin,375000.0,Yes,Palmerstown,Dublin 20,q4,100%
+02/11/2017,"9 St. Edmund'S Square, St. Loman'S Road  Palmerstown",Dublin,390000.0,Yes,Palmerstown,Dublin 20,q4,100%
+09/11/2017,"11 St. Edmund'S Square, St. Loman'S Road, Palmerstown",Dublin,385000.0,Yes,Palmerstown,Dublin 20,q4,100%
+09/11/2017,"13 St. Edmund'S Square, St. Loman'S Road  Palmerstown",Dublin,370000.0,Yes,Palmerstown,Dublin 20,q4,100%
+09/11/2017,"15 St. Edmund'S Square, St. Loman'S Road  Palmerstown",Dublin,370000.0,Yes,Palmerstown,Dublin 20,q4,100%
+09/11/2017,"17 St. Edmund'S Square, St. Loman'S Road  Palmerstown",Dublin,370000.0,Yes,Palmerstown,Dublin 20,q4,100%
+09/11/2017,"19 St. Edmund'S Square, St. Loman'S Road  Palmerstown",Dublin,385000.0,Yes,Palmerstown,Dublin 20,q4,100%
+13/11/2017,"128 Oakcourt Dr, Palmerstown, Dublin 20",Dublin,125000.0,No,Palmerstown,Dublin 20,q1,10%
+16/11/2017,"15 Oakcourt Park, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,80%
+21/11/2017,"2 St Edmund'S Square, St Loman'S Road, Palmerstown",Dublin,325000.0,Yes,Palmerstown,Dublin 20,q4,90%
+21/11/2017,"4 St Edmund'S Square, St Loman'S Road, Palmerstown",Dublin,330000.0,Yes,Palmerstown,Dublin 20,q4,90%
+21/11/2017,"6 St Edmund'S Square, St Loman'S Road, Palmerstown",Dublin,330000.0,Yes,Palmerstown,Dublin 20,q4,90%
+21/11/2017,"8 St Edmund'S Square, St Loman'S Road, Palmerstown",Dublin,325000.0,Yes,Palmerstown,Dublin 20,q4,90%
+22/11/2017,"18 Palmerstown Dr, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,90%
+23/11/2017,"37A Palmerstown Ave, Palmerstown, Dublin 20",Dublin,270000.0,No,Palmerstown,Dublin 20,q3,70%
+24/11/2017,"26 Oakcourt Grove, Palmerstown, Dublin 20",Dublin,310000.0,No,Palmerstown,Dublin 20,q4,80%
+24/11/2017,"84 Hannah Sq, St Edmunds, Palmerstown Dublin 20",Dublin,264000.0,No,Palmerstown,Dublin 20,q3,70%
+27/11/2017,"7A Culmore Park, Palmerstown, Dublin 20",Dublin,550000.0,No,Palmerstown,Dublin 20,q4,100%
+27/11/2017,"91 Kennelsfort Rd Upper, Palmerstown, Dublin 20",Dublin,370000.0,No,Palmerstown,Dublin 20,q4,100%
+29/11/2017,"16 Robin Villas, Palmerstown, Dublin 20",Dublin,450000.0,No,Palmerstown,Dublin 20,q4,100%
+30/11/2017,"34 Palmers Dr, Palmerstown Manor, Palmerstown Dublin 20",Dublin,335000.0,No,Palmerstown,Dublin 20,q4,90%
+30/11/2017,"96 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,361125.0,No,Palmerstown,Dublin 20,q4,100%
+01/12/2017,"23 Palmers Crescent, Palmerstown, Dublin 20",Dublin,342000.0,No,Palmerstown,Dublin 20,q4,90%
+12/12/2017,"135 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,360000.0,No,Palmerstown,Dublin 20,q4,100%
+12/12/2017,"186 Whitethorn Gardens, Palmerstown, Dublin 20",Dublin,301000.0,No,Palmerstown,Dublin 20,q3,80%
+12/12/2017,"59 Glenmaroon Rd, Palmerstown, Dublin 20",Dublin,524145.0,No,Palmerstown,Dublin 20,q4,100%
+12/12/2017,"7 Palmerstown Sq, Palmerstown Park, Dublin 20",Dublin,170000.0,No,Palmerstown,Dublin 20,q1,20%
+12/01/2018,"14 Kennelsfort Rd Upper, Palmerstown, Dublin 20",Dublin,322000.0,No,Palmerstown,Dublin 20,q4,90%
+06/02/2018,"43 Oakcourt Lawn, Palmerstown, Dublin 20",Dublin,180000.0,No,Palmerstown,Dublin 20,q1,20%
+09/02/2018,"121 Oakcourt Dr, Palmerstown, Dublin 20",Dublin,300000.0,No,Palmerstown,Dublin 20,q3,80%
+19/02/2018,"4 Heather Grove, Palmerstown, Dublin 20",Dublin,355000.0,No,Palmerstown,Dublin 20,q4,100%
+07/03/2018,"31 Palmerstown Sq, Palmerstown Park, Palmerstown Dublin 20",Dublin,190000.0,No,Palmerstown,Dublin 20,q1,30%
+27/03/2018,"125 Oakcourt Dr, Palmerstown, Dublin 20",Dublin,276000.0,No,Palmerstown,Dublin 20,q3,70%
+29/03/2018,"1 St. Edmunds Green, St. Lomans, Palmerstown",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+29/03/2018,"11 St. Edmunds Green, St. Lomans, Palmerstown",Dublin,345000.0,No,Palmerstown,Dublin 20,q4,90%
+29/03/2018,"13 St. Edmunds Green, St. Lomans, Palmerstown",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,90%
+29/03/2018,"15 St. Edmunds Green, St. Lomans, Palmerstown",Dublin,345000.0,No,Palmerstown,Dublin 20,q4,90%
+29/03/2018,"28 St. Edmunds Green, St. Lomans, Palmerstown",Dublin,390000.0,No,Palmerstown,Dublin 20,q4,100%
+29/03/2018,"3 St. Edmunds Green, St. Lomans Road, Palmerstown",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,90%
+29/03/2018,"30 St Edmunds Green, St. Lomans, Palmerstown",Dublin,350000.0,No,Palmerstown,Dublin 20,q4,90%
+29/03/2018,"32 St. Edmunds Green, St. Lomans, Palmerstown",Dublin,350000.0,No,Palmerstown,Dublin 20,q4,90%
+29/03/2018,"5 St. Edmunds Green, St. Lomans, Palmerstown",Dublin,335000.0,No,Palmerstown,Dublin 20,q4,90%
+29/03/2018,"64 Wheatfield Rd, Palmerstown, Dublin 20",Dublin,336000.0,No,Palmerstown,Dublin 20,q4,90%
+29/03/2018,"7 St. Edmunds Green, St. Lomans, Palmerstown",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+29/03/2018,"9 St Edmunds Green, St. Lomans, Palmerstown",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+10/04/2018,"85 Palmerstown Dr, Palmerstown, Dublin 20",Dublin,200000.0,No,Palmerstown,Dublin 20,q2,50%
+16/04/2018,"170 Palmerstown Woods, Dublin 22, Dublin",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+11/05/2018,"19 Kennelsfort Rd Upper, Palmerstown, Dublin 20",Dublin,385000.0,No,Palmerstown,Dublin 20,q4,100%
+16/05/2018,"89 Whitethorn Dr, Palmerstown, Dublin 22",Dublin,143000.0,No,Palmerstown,Dublin 20,q1,10%
+12/06/2018,"59 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,90%
+03/07/2018,"37 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,333000.0,No,Palmerstown,Dublin 20,q4,90%
+05/07/2018,"8 Glenpark Close, Woodfarm Court, Palmerstown Dublin 20",Dublin,316000.0,No,Palmerstown,Dublin 20,q4,80%
+25/07/2018,"3 Riverside Dr, Palmerstown, Dublin 20",Dublin,328251.25,Yes,Palmerstown,Dublin 20,q4,90%
+28/08/2018,"1 St Edmunds Park, Palmerstown, Dublin",Dublin,246295.0,No,Palmerstown,Dublin 20,q3,60%
+28/08/2018,"22 St Edmunds Park, St Edmunds, Palmerstown",Dublin,246295.0,No,Palmerstown,Dublin 20,q3,60%
+28/08/2018,"24 St Edmunds Park, Palmerstown, Dublin 16",Dublin,246295.0,No,Palmerstown,Dublin 20,q3,60%
+28/08/2018,"5 St Edmunds Park, Palmerstown, Dublin 16",Dublin,214855.0,No,Palmerstown,Dublin 20,q2,50%
+29/08/2018,"69 Palmerstown Ave, Palmerstown, Dublin 22",Dublin,345000.0,No,Palmerstown,Dublin 20,q4,90%
+03/09/2018,"22 Palmerstown Sq, Palmerstown, Dublin 20",Dublin,225000.0,No,Palmerstown,Dublin 20,q3,60%
+05/09/2018,"29 Palmerstown Avenue, Palmerstown, Dublin 20",Dublin,155000.0,No,Palmerstown,Dublin 20,q1,10%
+19/09/2018,"10 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,310000.0,Yes,Palmerstown,Dublin 20,q4,80%
+19/09/2018,"12 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,310000.0,Yes,Palmerstown,Dublin 20,q4,80%
+19/09/2018,"14 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,400000.0,Yes,Palmerstown,Dublin 20,q4,100%
+19/09/2018,"16 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,415000.0,Yes,Palmerstown,Dublin 20,q4,100%
+19/09/2018,"18 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,415000.0,Yes,Palmerstown,Dublin 20,q4,100%
+19/09/2018,"2 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,355000.0,Yes,Palmerstown,Dublin 20,q4,100%
+19/09/2018,"20 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,415000.0,Yes,Palmerstown,Dublin 20,q4,100%
+19/09/2018,"22 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,415000.0,Yes,Palmerstown,Dublin 20,q4,100%
+19/09/2018,"26 St Edmund'S Green  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,405000.0,Yes,Palmerstown,Dublin 20,q4,100%
+19/09/2018,"4 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,355000.0,Yes,Palmerstown,Dublin 20,q4,100%
+19/09/2018,"6 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,400000.0,Yes,Palmerstown,Dublin 20,q4,100%
+19/09/2018,"8 St Edmund'S Grove  St Edmund'S, St Loman'S Road  Palmerstown, Dublin 20",Dublin,310000.0,Yes,Palmerstown,Dublin 20,q4,80%
+21/09/2018,"4 Palmers Lawn, Palmerstown Manor, Palmerstown Dublin 20",Dublin,360000.0,No,Palmerstown,Dublin 20,q4,100%
+27/09/2018,"4 Glenside Villas, Palmerstown, Dublin 20",Dublin,216000.0,No,Palmerstown,Dublin 20,q2,50%
+01/10/2018,"79 Wheatfield Rd, Palmerstown, Dublin",Dublin,350000.0,No,Palmerstown,Dublin 20,q4,90%
+04/10/2018,"Apt 9, Palmerstown Sq, Palmerstown Dublin 20",Dublin,219000.0,No,Palmerstown,Dublin 20,q2,50%
+08/10/2018,"103 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,295000.0,No,Palmerstown,Dublin 20,q3,80%
+08/10/2018,"16 Palmers Court, Palmerstown Manor, Dublin",Dublin,230000.0,No,Palmerstown,Dublin 20,q3,60%
+10/10/2018,"47 Kennelsfort Rd, Palmerstown, Dublin",Dublin,315000.0,No,Palmerstown,Dublin 20,q4,80%
+12/10/2018,"40 Oakcourt Park, Palmerstown, Dublin 20",Dublin,300000.0,No,Palmerstown,Dublin 20,q3,80%
+15/10/2018,"4 Palmers Crescent, Palmerstown, Dublin 20",Dublin,350000.0,No,Palmerstown,Dublin 20,q4,90%
+24/10/2018,"30 Riversdale Ave, Palmerstown, Dublin 20",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+31/10/2018,"18 Palmers Court, Palmerstown Manor, Palmerstown Dublin 20",Dublin,255000.0,No,Palmerstown,Dublin 20,q3,70%
+31/10/2018,"80 Glenmaroon Rd, Palmerstown, Dublin 20",Dublin,385000.0,No,Palmerstown,Dublin 20,q4,100%
+06/11/2018,"35 Glenaulin Rd, Palmerstown, Dublin 20",Dublin,398000.0,No,Palmerstown,Dublin 20,q4,100%
+23/11/2018,"134 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,335000.0,No,Palmerstown,Dublin 20,q4,90%
+30/11/2018,"41 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,240000.0,No,Palmerstown,Dublin 20,q3,60%
+10/12/2018,"15 Oakcourt Close, Palmerstown, Dublin 20",Dublin,275000.0,No,Palmerstown,Dublin 20,q3,70%
+17/12/2018,"91 Turret Rd, Palmerstown, Dublin 20",Dublin,450000.0,No,Palmerstown,Dublin 20,q4,100%
+18/12/2018,"49 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,400000.0,No,Palmerstown,Dublin 20,q4,100%
+18/12/2018,"57 Glenmaroon Rd, Palmerstown, Dublin 20",Dublin,405000.0,No,Palmerstown,Dublin 20,q4,100%
+19/12/2018,"No 56 Hannah Square, St Edmunds, Palmerstown",Dublin,199000.0,No,Palmerstown,Dublin 20,q2,50%
+07/01/2019,"43 Elderwood Road, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,90%
+15/01/2019,"303 Palmerstown Woods, Palmerstown, Dublin 22",Dublin,306000.0,No,Palmerstown,Dublin 20,q4,80%
+15/01/2019,"46 Palmerstown Park, Palmerstown, Dublin 20",Dublin,380000.0,No,Palmerstown,Dublin 20,q4,100%
+18/01/2019,"124 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,150000.0,No,Palmerstown,Dublin 20,q1,10%
+18/01/2019,"66 Wheatfield Rd, Palmerstown, Dublin 20",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,90%
+28/01/2019,"152 Kennelsfort Rd, Palmerstown, Dublin 20",Dublin,350000.0,No,Palmerstown,Dublin 20,q4,90%
+06/02/2019,"17 Glenpark Road, Palmerstown, Dublin 20",Dublin,324000.0,No,Palmerstown,Dublin 20,q4,90%
+07/02/2019,"5 Palmers Copse, Palmerstown Manor, Palmerstown Dublin 20",Dublin,337000.0,No,Palmerstown,Dublin 20,q4,90%
+15/02/2019,"107 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,295000.0,No,Palmerstown,Dublin 20,q3,80%
+15/02/2019,"88 Glenmaroon Rd, Palmerstown, Dublin 20",Dublin,360000.0,No,Palmerstown,Dublin 20,q4,100%
+21/02/2019,"33 The Vale, Woodfarm Acres, Palmerstown Dublin 20",Dublin,250000.0,No,Palmerstown,Dublin 20,q3,60%
+25/02/2019,"207 Whitethorn Park, Palmerstown, Dublin 22",Dublin,276521.0,No,Palmerstown,Dublin 20,q3,70%
+27/02/2019,"33 The Dingle, Woodfarm Acres, Palmerstown Dublin 20",Dublin,330000.0,No,Palmerstown,Dublin 20,q4,90%
+05/03/2019,"24A Glenpark Close, Palmerstown, Dublin 20",Dublin,80000.0,No,Palmerstown,Dublin 20,q1,10%
+07/03/2019,"2 Turret Rd, Palmerstown, Dublin 20",Dublin,395000.0,No,Palmerstown,Dublin 20,q4,100%
+08/03/2019,"24 Juliet Sq, St Edmunds, Palmerstown Dublin 20",Dublin,286000.0,No,Palmerstown,Dublin 20,q3,80%
+13/03/2019,"170 Whitethorn Gardens, Palmerstown, Dublin 22",Dublin,310000.0,No,Palmerstown,Dublin 20,q4,80%
+14/03/2019,"7 Culmore Park, Palmerstown, Dublin 20",Dublin,350000.0,No,Palmerstown,Dublin 20,q4,90%
+15/03/2019,"5 Kennelsfort Rd Upper, Palmerstown, Dublin 20",Dublin,290000.0,No,Palmerstown,Dublin 20,q3,80%
+20/03/2019,"21 Palmerstown Park, Palmerstown, Dublin 20",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+26/03/2019,"164 Whitethorn Park, Palmerstown, Dublin 20",Dublin,292000.0,No,Palmerstown,Dublin 20,q3,80%
+26/03/2019,"8 Upper Kennelsfort Road, Palmerstown, Dublin 20",Dublin,251750.0,No,Palmerstown,Dublin 20,q3,60%
+01/04/2019,"231 Palmerstown Woods, Dublin 22, Dublin",Dublin,278000.0,No,Palmerstown,Dublin 20,q3,70%
+05/04/2019,"51 Oakcourt Park, Palmerstown Dublin 20, Dublin",Dublin,285000.0,No,Palmerstown,Dublin 20,q3,80%
+12/04/2019,"35 Elderwood Rd, Palmerstown, Dublin 20",Dublin,277000.0,No,Palmerstown,Dublin 20,q3,70%
+16/04/2019,"102 Residential Houses, St Edmunds, Palmerstown",Dublin,34188546.26,Yes,Palmerstown,Dublin 20,q4,100%
+16/04/2019,"7 Millbrook, Palmerstown, Dublin 20",Dublin,208000.0,No,Palmerstown,Dublin 20,q2,50%
+16/04/2019,"9 Juliet Sq, Palmerstown, Dublin 20",Dublin,34188546.26,No,Palmerstown,Dublin 20,q4,100%
+19/04/2019,"28 Wheatfield Rd, Palmerstown, Dublin 20",Dublin,405000.0,No,Palmerstown,Dublin 20,q4,100%
+29/04/2019,"16 Palmerstown Court, Palmerstown, Dublin 20",Dublin,335000.0,No,Palmerstown,Dublin 20,q4,90%
+29/04/2019,"6 Kennelsfort Green, Palmerstown, Dublin 20",Dublin,385000.0,No,Palmerstown,Dublin 20,q4,100%
+03/05/2019,"145 Palmerstown Ave, Palmerstown, Dublin",Dublin,320000.0,No,Palmerstown,Dublin 20,q4,90%
+03/05/2019,"81 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,327000.0,No,Palmerstown,Dublin 20,q4,90%
+10/05/2019,"139 Oak Court Dr, Palmerstown, Dublin 20",Dublin,264000.0,No,Palmerstown,Dublin 20,q3,70%
+14/05/2019,"165 Wheatfield Rd, Palmerstown, Dublin 20",Dublin,403650.0,No,Palmerstown,Dublin 20,q4,100%
+21/05/2019,"167 Oakcourt Dr, Palmerstown, Dublin 20",Dublin,290000.0,No,Palmerstown,Dublin 20,q3,80%
+24/05/2019,"192 Oakcourt Ave, Palmerstown, Dublin 20",Dublin,310000.0,No,Palmerstown,Dublin 20,q4,80%
+24/05/2019,"62 Glenaulin Rd, Palmerstown, Dublin 20",Dublin,325000.0,No,Palmerstown,Dublin 20,q4,90%
+30/05/2019,"17 Palmerstown Court, Palmerstown, Dublin 20",Dublin,357000.0,No,Palmerstown,Dublin 20,q4,100%
+03/06/2019,"46 Glenaulin Rd, Palmerstown, Dublin 20",Dublin,309000.0,No,Palmerstown,Dublin 20,q4,80%
+21/06/2019,"71 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,315000.0,No,Palmerstown,Dublin 20,q4,80%
+27/06/2019,"17 Palmerstown Court, Palmerstown, Dublin 20",Dublin,327500.0,No,Palmerstown,Dublin 20,q4,90%
+28/06/2019,"35 Woodfarm Ave, Palmerstown, Dublin 20",Dublin,575000.0,No,Palmerstown,Dublin 20,q4,100%
+04/07/2019,"11 Palmerstown Green, Dublin 20, Dublin",Dublin,327000.0,No,Palmerstown,Dublin 20,q4,90%
+18/07/2019,"11 Wheatfield Rd, Palmerstown, Dublin 20",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+26/07/2019,"42 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,410500.0,No,Palmerstown,Dublin 20,q4,100%
+09/08/2019,"143 Wheatfield Rd, Palmerstown, Dublin 20",Dublin,360000.0,No,Palmerstown,Dublin 20,q4,100%
+09/08/2019,"16 Turret Rd, Palmerstown, Dublin 20",Dublin,380000.0,No,Palmerstown,Dublin 20,q4,100%
+12/08/2019,"117 The Coppice, Woodfarm Acres, Palmerstown",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+13/08/2019,"24 Kennelsfort Road, Palmerstown, Dublin 24",Dublin,225000.0,No,Palmerstown,Dublin 20,q3,60%
+26/08/2019,"2 Palmerstown Park, Palmerstown, Dublin 20",Dublin,278300.0,No,Palmerstown,Dublin 20,q3,70%
+28/08/2019,"41 Juliet Sq, St Edmunds, Palmerstown Dublin 20",Dublin,260000.0,No,Palmerstown,Dublin 20,q3,70%
+29/08/2019,"17 Woodfarm Ave, Palmerstown, Dublin 20",Dublin,405000.0,No,Palmerstown,Dublin 20,q4,100%
+02/09/2019,"152 Whitethorn Park, Palmerstown, Dublin 22",Dublin,315000.0,No,Palmerstown,Dublin 20,q4,80%
+05/09/2019,"34 Glenmaroon Rd, Palmerstown, Dublin 20",Dublin,335000.0,No,Palmerstown,Dublin 20,q4,90%
+06/09/2019,"23 Palmerstown Sq, Kennelsfort Rd Upper, Palmerstown Dublin 20",Dublin,222500.0,No,Palmerstown,Dublin 20,q2,50%
+06/09/2019,"52 Palmerstown Road, Rathmines, Dublin 6",Dublin,2800000.0,No,Palmerstown,Dublin 20,q4,100%
+13/09/2019,"32 Oakcourt Lawn, Palmerstown, Dublin 20",Dublin,283000.0,No,Palmerstown,Dublin 20,q3,70%
+13/09/2019,"51 Hannah Sq, St Edmunds, Palmerstown Dublin 20",Dublin,255000.0,No,Palmerstown,Dublin 20,q3,70%
+27/09/2019,"2 Manor Park, Palmerstown, Dublin 20",Dublin,360000.0,No,Palmerstown,Dublin 20,q4,100%
+30/09/2019,"127 Palmerstown Ave, Palmerstown, Dublin 20",Dublin,340000.0,No,Palmerstown,Dublin 20,q4,90%
+01/10/2019,"50 Hannah Square, Palmerstown, Dublin 20",Dublin,253000.0,No,Palmerstown,Dublin 20,q3,60%
+02/10/2019,"48 Palmerstown Dr, Palmerstown, Dublin 20",Dublin,406000.0,No,Palmerstown,Dublin 20,q4,100%

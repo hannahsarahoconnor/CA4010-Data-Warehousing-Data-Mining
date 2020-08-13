@@ -1,0 +1,803 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+13/01/2010,"5 Offaly Road, Cabra East, Dublin 7",Dublin,227000.0,No,Cabra,Dublin 7,q2,50%
+22/01/2010,"128 Kilkieran Road, Cabra, Dublin 7",Dublin,152000.0,No,Cabra,Dublin 7,q1,30%
+22/01/2010,"253 Ratoath Road, Cabra",Dublin,208000.0,No,Cabra,Dublin 7,q2,50%
+25/01/2010,"94 Fassaugh Road, Cabra, Dublin 7",Dublin,185000.0,No,Cabra,Dublin 7,q2,40%
+01/02/2010,"166, St Attracta Road, Cabra",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+01/02/2010,"34 Licannor Road, Cabra",Dublin,191000.0,No,Cabra,Dublin 7,q2,40%
+09/02/2010,"78 Fassaugh Road, Cabra, Dublin 7",Dublin,173000.0,No,Cabra,Dublin 7,q2,30%
+12/02/2010,"16 Annaly Road, Cabra, Dublin 7",Dublin,276500.0,No,Cabra,Dublin 7,q3,70%
+12/02/2010,"82, Annamoe Drive, Cabra",Dublin,235000.0,No,Cabra,Dublin 7,q3,60%
+15/02/2010,"243 Bannow Road, Cabra",Dublin,85000.0,No,Cabra,Dublin 7,q1,10%
+19/02/2010,"116 Old Cabra Road, Cabra, Dublin 7",Dublin,485000.0,No,Cabra,Dublin 7,q4,100%
+01/03/2010,"42 Fassaugh Avenue, Cabra",Dublin,150000.0,No,Cabra,Dublin 7,q1,20%
+26/03/2010,"4 Quarry Road, Cabra",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+14/04/2010,"155 Bannow Road, Cabra, Dublin 7",Dublin,187500.0,No,Cabra,Dublin 7,q2,40%
+16/04/2010,"102 Faussagh Road, Cabra",Dublin,125000.0,No,Cabra,Dublin 7,q1,20%
+19/04/2010,"84 Glenbeigh Road, Cabra",Dublin,350000.0,No,Cabra,Dublin 7,q4,90%
+30/04/2010,"55 Killala Road, Cabra West",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+04/05/2010,"49 Newgrange Road, Cabra, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,70%
+07/05/2010,"114 Attracta Road, Cabra",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+12/05/2010,"31 Liscannor Road, Cabra West",Dublin,285000.0,No,Cabra,Dublin 7,q3,70%
+13/05/2010,"9 Bregia Road, Cabra",Dublin,306000.0,No,Cabra,Dublin 7,q3,80%
+21/05/2010,"436 Carnlough Road, Cabra West",Dublin,195000.0,No,Cabra,Dublin 7,q2,40%
+24/05/2010,"23 Carnlough Road, Cabra",Dublin,115000.0,No,Cabra,Dublin 7,q1,20%
+28/05/2010,"26 Annaly Road, Cabra",Dublin,297500.0,No,Cabra,Dublin 7,q3,80%
+01/06/2010,"37 Carnlough Road, Cabra, Dublin 7",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+08/06/2010,"137 Annamoe Drive, Cabra",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+15/06/2010,"12 St. Fintan Terrace, Cabra",Dublin,170000.0,No,Cabra,Dublin 7,q2,30%
+18/06/2010,"122 Leix Road, Cabra, Dublin 7",Dublin,250000.0,No,Cabra,Dublin 7,q3,60%
+18/06/2010,"4 Annamoe Drive, Cabra, Dublin 7",Dublin,220000.0,No,Cabra,Dublin 7,q2,50%
+18/06/2010,"72 Annamoe Terrace, Cabra, Dublin 7",Dublin,259000.0,No,Cabra,Dublin 7,q3,60%
+26/06/2010,"115 St Jarlath Road, Cabra, Dublin 7",Dublin,192000.0,No,Cabra,Dublin 7,q2,40%
+30/06/2010,"125 New Cabra Road, Cabra",Dublin,288555.0,No,Cabra,Dublin 7,q3,70%
+01/07/2010,"186 New Cabra Road, Cabra, Dublin 7",Dublin,517000.0,No,Cabra,Dublin 7,q4,100%
+06/07/2010,"255 Bannow Road, Cabra",Dublin,215000.0,No,Cabra,Dublin 7,q2,50%
+06/07/2010,"41 Carnlough Road, Cabra West, Cabra",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+13/07/2010,"131 Killala Road, Cabra",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+15/07/2010,"17 Ratoath Road, Cabra",Dublin,230000.0,No,Cabra,Dublin 7,q2,50%
+16/07/2010,"2 Newgrange Road, Cabra",Dublin,206000.0,No,Cabra,Dublin 7,q2,50%
+21/07/2010,"380 Carnlough Road, Cabra",Dublin,235000.0,No,Cabra,Dublin 7,q3,60%
+23/07/2010,"79 Old Cabra Road, Dublin",Dublin,470000.0,No,Cabra,Dublin 7,q4,100%
+29/07/2010,"14 Broombridge Road, Cabra, Dublin 7",Dublin,195000.0,No,Cabra,Dublin 7,q2,40%
+03/08/2010,"245 Carnlough Road, Cabra",Dublin,228000.0,No,Cabra,Dublin 7,q2,50%
+17/08/2010,"15 Dowth Avenue, Cabra",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+17/08/2010,"43 Inver Road, Cabra, Dublin 7",Dublin,284000.0,No,Cabra,Dublin 7,q3,70%
+23/08/2010,"88 Leix Road, Cabra, Dublin 7",Dublin,195000.0,No,Cabra,Dublin 7,q2,40%
+26/08/2010,"30 Drumcliffe Road, Cabra, Dublin 7",Dublin,220000.0,No,Cabra,Dublin 7,q2,50%
+27/08/2010,"340 Carnlough Road, Cabra",Dublin,155000.0,No,Cabra,Dublin 7,q1,30%
+31/08/2010,"1 Ashington Close, Navan Road, Cabra",Dublin,333500.0,No,Cabra,Dublin 7,q4,90%
+31/08/2010,"106 Old Cabra Road, Cabra, Dublin 7",Dublin,420000.0,No,Cabra,Dublin 7,q4,100%
+06/09/2010,"168 Killala Road, Cabra, Dublin 7",Dublin,150000.0,No,Cabra,Dublin 7,q1,20%
+10/09/2010,"18 Fertullagh Road, Cabra",Dublin,212500.0,No,Cabra,Dublin 7,q2,50%
+13/09/2010,"112 Cabra Road, Dublin 7, Dublin 7",Dublin,406250.0,No,Cabra,Dublin 7,q4,100%
+21/09/2010,"33 Killala Road, Cabra",Dublin,233000.0,No,Cabra,Dublin 7,q3,60%
+01/10/2010,"27 Glenbeigh Road, Off Old Cabra Road, Dublin 7",Dublin,308000.0,No,Cabra,Dublin 7,q3,80%
+14/10/2010,"37 Annamoe Park, Cabra",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+15/10/2010,"204 St. Attracta Road, Cabra",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+20/10/2010,"80 Newgrange Road, Cabra",Dublin,215000.0,No,Cabra,Dublin 7,q2,50%
+22/10/2010,"28 Liscannor Road, Cabra",Dublin,170000.0,No,Cabra,Dublin 7,q2,30%
+04/11/2010,"131 Ventry Park, Cabra",Dublin,212000.0,No,Cabra,Dublin 7,q2,50%
+04/11/2010,"36 Ratra Road, Cabra",Dublin,280000.0,No,Cabra,Dublin 7,q3,70%
+08/11/2010,"10 Offaly Road, Cabra",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+09/11/2010,"13 Fassaugh Avenue, Cabra West",Dublin,195000.0,No,Cabra,Dublin 7,q2,40%
+15/11/2010,"313 Ratoath Road, Cabra, Dublin 7",Dublin,232500.0,No,Cabra,Dublin 7,q2,50%
+24/11/2010,"74 Leix Road, Cabra, Dublin 7",Dublin,196000.0,No,Cabra,Dublin 7,q2,40%
+02/12/2010,"5 Bannow Road, Cabra, Dublin 7",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+06/12/2010,"65  Swilly Road, Cabra, Dublin 7",Dublin,268000.0,No,Cabra,Dublin 7,q3,70%
+10/12/2010,"32 Annamoe Drive, Cabra, Dublin 7",Dublin,229000.0,No,Cabra,Dublin 7,q2,50%
+05/01/2011,"73 St Jarlath Road, Cabra",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+05/01/2011,"73 St Jarlath Road, Cabra",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+06/01/2011,"90 St. Attracta'S Road, Cabra, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+04/02/2011,"143 Killala Road, Cabra, Dublin 7",Dublin,203000.0,No,Cabra,Dublin 7,q2,40%
+04/02/2011,"455 Carnlough Rd, Cabra",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+11/02/2011,"217 New Cabra Road, Dublin 7",Dublin,250000.0,No,Cabra,Dublin 7,q3,60%
+14/02/2011,"78 Cabra Road, Phibsoboro",Dublin,500000.0,No,Cabra,Dublin 7,q4,100%
+07/03/2011,"71 Killala Road, Cabra, Dublin 7",Dublin,145500.0,No,Cabra,Dublin 7,q1,20%
+05/04/2011,"30 Drumcliffe Drive, Cabra",Dublin,170000.0,No,Cabra,Dublin 7,q2,30%
+12/04/2011,"171 Carnlough Road, Cabra",Dublin,145000.0,No,Cabra,Dublin 7,q1,20%
+11/05/2011,"79 Ratoath Road, Cabra",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+12/05/2011,"468 Carnlough Road, Cabra",Dublin,150000.0,No,Cabra,Dublin 7,q1,20%
+20/05/2011,"15 Bregia Road, Cabra",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+07/06/2011,"163 St Attracta Road, Cabra, Dublin 7",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+07/06/2011,"3 Cabra Drive, Cabra",Dublin,315000.0,No,Cabra,Dublin 7,q4,80%
+13/06/2011,"605 Carnlough Road, Cabra, Dublin 7",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+15/06/2011,"55 Quarry Road, Cabra, Dublin 7",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+28/07/2011,"109 Ventry Park, Cabra, Dublin 7",Dublin,85000.0,No,Cabra,Dublin 7,q1,10%
+08/08/2011,"7 New Cabra, Road, Dublin 7",Dublin,450000.0,No,Cabra,Dublin 7,q4,100%
+13/09/2011,"The Coachouse, 288 Bannow Road, Cabra",Dublin,40000.0,No,Cabra,Dublin 7,q1,10%
+23/09/2011,"109 Ratoath Road, Cabra",Dublin,103000.0,No,Cabra,Dublin 7,q1,10%
+23/09/2011,"34 Mulroy Road, Cabra, Dublin 7",Dublin,145000.0,No,Cabra,Dublin 7,q1,20%
+30/09/2011,"229 St. Attracta Road, Cabra",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+07/10/2011,"139 Ventry Park, Cabra",Dublin,106000.0,No,Cabra,Dublin 7,q1,10%
+11/10/2011,"18 Annamoe Terrace, Cabra",Dublin,75000.0,No,Cabra,Dublin 7,q1,10%
+19/10/2011,"32 Cabra Drive, Cabra",Dublin,282000.0,No,Cabra,Dublin 7,q3,70%
+21/10/2011,"208 Ratoath Road, Cabra",Dublin,150000.0,No,Cabra,Dublin 7,q1,20%
+25/10/2011,"206 Ratoath Road, Cabra, Dublin 7",Dublin,170000.0,No,Cabra,Dublin 7,q2,30%
+09/11/2011,"91 St. Jarlath Road, Cabra, Dublin",Dublin,91000.0,No,Cabra,Dublin 7,q1,10%
+30/11/2011,"2 Mulroy Road, Cabra, Dublin 7",Dublin,167500.0,No,Cabra,Dublin 7,q2,30%
+06/12/2011,"22 Newgrange Road, Cabra",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+13/12/2011,"72 Rathoath Estate, Cabra, Dublin 7",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+20/12/2011,"3 Inver Road, Cabra, Dublin 7",Dublin,90000.0,No,Cabra,Dublin 7,q1,10%
+20/12/2011,"Everton House, 47 Old Cabra Road",Dublin,455000.0,No,Cabra,Dublin 7,q4,100%
+21/12/2011,"277, Ratoath Road, Cabra",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+10/01/2012,"20 Fertullagh Road, Cabra, Dublin 7",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+29/02/2012,"123 St Attracta Road, Cabra",Dublin,95000.0,No,Cabra,Dublin 7,q1,10%
+02/03/2012,"159 New Cabra Road, Cabra",Dublin,415000.0,No,Cabra,Dublin 7,q4,100%
+05/03/2012,"21 Drumcliffe Road, Cabra",Dublin,154500.0,No,Cabra,Dublin 7,q1,30%
+08/03/2012,"93 St Eithne Road, Cabra, Dublin",Dublin,80000.0,No,Cabra,Dublin 7,q1,10%
+14/03/2012,"76 St Eithne Road, Cabra Dublin 7",Dublin,85000.0,No,Cabra,Dublin 7,q1,10%
+15/03/2012,"11 Quarry Road, Cabra Dublin 7",Dublin,131000.0,No,Cabra,Dublin 7,q1,20%
+15/03/2012,"67 Leix Road, Cabra, Dublin 7",Dublin,118000.0,No,Cabra,Dublin 7,q1,20%
+30/03/2012,"4 Cuala Road, Cabra",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+17/04/2012,"1 Drumcliffe Drive, Cabra West, Dublin 7",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+17/04/2012,"225 Ratoath Road, Cabra, Dublin 7",Dublin,106666.7,No,Cabra,Dublin 7,q1,10%
+23/04/2012,"87 Carnlough Road, Cabra, Dublin 7",Dublin,105000.0,No,Cabra,Dublin 7,q1,10%
+26/04/2012,"16 Cabra Drive, Cabra, Dublin 7",Dublin,265000.0,No,Cabra,Dublin 7,q3,60%
+03/05/2012,"122 Ratoath Estate, Cabra, Dublin 7",Dublin,220000.0,No,Cabra,Dublin 7,q2,50%
+14/05/2012,"655 Carnlough Road, Cabra",Dublin,118000.0,No,Cabra,Dublin 7,q1,20%
+18/05/2012,"28 Kinvara Drive, Navan Road, Cabra",Dublin,218500.0,No,Cabra,Dublin 7,q2,50%
+23/05/2012,"104 Leix Road, Cabra, Dublin 7",Dublin,174700.0,No,Cabra,Dublin 7,q2,30%
+24/05/2012,"38 Leix Road, Cabra",Dublin,120000.0,No,Cabra,Dublin 7,q1,20%
+29/05/2012,"8 Annaly Road, Cabra, Dublin",Dublin,145000.0,No,Cabra,Dublin 7,q1,20%
+31/05/2012,"195 New Cabra Road, Cabra",Dublin,265000.0,No,Cabra,Dublin 7,q3,60%
+31/05/2012,"275 Bannow Road, Cabra",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+01/06/2012,"15 Ventry Drive, Cabra, Dublin 7",Dublin,104000.0,No,Cabra,Dublin 7,q1,10%
+05/06/2012,"8 Offaly Road, Cabra, Dublin 7",Dublin,165100.0,No,Cabra,Dublin 7,q1,30%
+08/06/2012,"4 Convent View  Cottages, Ratoath Road, Cabra",Dublin,180000.0,No,Cabra,Dublin 7,q2,30%
+21/06/2012,"43A Faussagh Road, Cabra, Dublin 7",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+28/06/2012,"16 Dingle Road, Cabra West",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+11/07/2012,"20 Kilkieran Road, Cabra, Dublin 7",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+12/07/2012,"264 Navan Road, Cabra",Dublin,423000.0,No,Cabra,Dublin 7,q4,100%
+12/07/2012,"42 Leix Road, Cabra",Dublin,126500.0,No,Cabra,Dublin 7,q1,20%
+12/07/2012,"46 Annamoe Terrace, Cabra, Dublin 7",Dublin,125000.0,No,Cabra,Dublin 7,q1,20%
+12/07/2012,"58 Leix Road, Cabra, Dublin 7",Dublin,165000.0,No,Cabra,Dublin 7,q1,30%
+12/07/2012,"72 Newgrange Road, Cabra, Dublin 7",Dublin,113000.0,No,Cabra,Dublin 7,q1,20%
+23/07/2012,"87 Annamoe Terrace, Cabra",Dublin,105000.0,No,Cabra,Dublin 7,q1,10%
+27/07/2012,"155 Carnlough Road, Cabra",Dublin,187000.0,No,Cabra,Dublin 7,q2,40%
+01/08/2012,"75 Ventry Park, Cabra, Dublin 7",Dublin,75000.0,No,Cabra,Dublin 7,q1,10%
+02/08/2012,"17 Drumcliffe Drive, Cabra, Dublin 7",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+02/08/2012,"No 79 Dingle Road, Cabra, Dublin 7",Dublin,80000.0,No,Cabra,Dublin 7,q1,10%
+14/08/2012,"34, Dowth Avenue, Cabra",Dublin,98000.0,No,Cabra,Dublin 7,q1,10%
+17/08/2012,"52 Leix Road, Cabra",Dublin,105000.0,No,Cabra,Dublin 7,q1,10%
+20/08/2012,"103 Annaly Road, Cabra, Dublin 7",Dublin,105000.0,No,Cabra,Dublin 7,q1,10%
+20/08/2012,"103 St Attracta Road, Cabra, Dublin 7",Dublin,150000.0,No,Cabra,Dublin 7,q1,20%
+20/08/2012,"16 Leix Road, Cabra",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+30/08/2012,"108 Leix Road, Cabra, Dublin 7",Dublin,154000.0,No,Cabra,Dublin 7,q1,30%
+03/09/2012,"49 Quarry Road, Cabra, Dublin 7",Dublin,141000.0,No,Cabra,Dublin 7,q1,20%
+04/09/2012,"124 Leix Road, Cabra",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+06/09/2012,"125 Annamoe Drive, Cabra",Dublin,141387.0,No,Cabra,Dublin 7,q1,20%
+06/09/2012,"68 Old Cabra Road, Dublin 7",Dublin,285000.0,No,Cabra,Dublin 7,q3,70%
+07/09/2012,"416 Carnlough Road, Cabra West, Dublin 7",Dublin,95000.0,No,Cabra,Dublin 7,q1,10%
+07/09/2012,"81 Swilly Road, Cabra, Dublin 7",Dublin,118000.0,No,Cabra,Dublin 7,q1,20%
+14/09/2012,"11 Kilalla Road, Cabra",Dublin,98000.0,No,Cabra,Dublin 7,q1,10%
+14/09/2012,"428 Carnlough Road, Cabra West, Dublin 7",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+21/09/2012,"40 Annaly Road, Cabra, Dublin 7",Dublin,151250.0,No,Cabra,Dublin 7,q1,30%
+24/09/2012,"47 St. Attracta Rd, Cabra, Dublin 7",Dublin,99000.0,No,Cabra,Dublin 7,q1,10%
+25/09/2012,"16 St Finbar'S Road, Cabra, Dublin 7",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+27/09/2012,"35 Ratoath Road, Cabra",Dublin,138000.0,No,Cabra,Dublin 7,q1,20%
+15/10/2012,"28  Fassagh Road, Cabra",Dublin,95000.0,No,Cabra,Dublin 7,q1,10%
+22/10/2012,"92 New Cabra Road, Cabra, Dublin 7",Dublin,310000.0,No,Cabra,Dublin 7,q3,80%
+24/10/2012,"151 Dingle Road, Cabra, Dublin 7",Dublin,120000.0,No,Cabra,Dublin 7,q1,20%
+25/10/2012,"251 Bannow Road, Cabra",Dublin,135000.0,No,Cabra,Dublin 7,q1,20%
+26/10/2012,"93 Annamoe Drive, Cabra",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+01/11/2012,"14 Mulroy Road, Cabra",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+05/11/2012,"41 Cabra Drive, Cabra, Dublin 7",Dublin,265000.0,No,Cabra,Dublin 7,q3,60%
+08/11/2012,"141 St Attracta Road, Cabra",Dublin,90000.0,No,Cabra,Dublin 7,q1,10%
+12/11/2012,"10 Ashington Grove, Cabra",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+13/11/2012,"22 Carnlough Road, Cabra, Dublin 7",Dublin,95000.0,No,Cabra,Dublin 7,q1,10%
+13/11/2012,"8 Ashington Grove, Cabra",Dublin,215000.0,No,Cabra,Dublin 7,q2,50%
+20/11/2012,"79 St Jarlath Rd, Cabra",Dublin,133000.0,No,Cabra,Dublin 7,q1,20%
+27/11/2012,"161 New Cabra Road, Cabra",Dublin,330000.0,No,Cabra,Dublin 7,q4,90%
+29/11/2012,"157 Dingle Road, Cabra",Dublin,117500.0,No,Cabra,Dublin 7,q1,20%
+30/11/2012,"110 Fassaugh Road, Cabra, Dublin 7",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+30/11/2012,"46 Liscannor Road, Cabra, Dublin 7",Dublin,130000.0,No,Cabra,Dublin 7,q1,20%
+11/12/2012,"154 Killala Road, Cabra West",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+11/12/2012,"221 Bannow Road, Cabra, Dublin",Dublin,85000.0,No,Cabra,Dublin 7,q1,10%
+11/12/2012,"65 Fassaugh Road, Cabra",Dublin,145000.0,No,Cabra,Dublin 7,q1,20%
+14/12/2012,"39 Erris Road, Cabra, Dublin 7",Dublin,199500.0,No,Cabra,Dublin 7,q2,40%
+14/12/2012,"68 New Cabra Road, Cabra",Dublin,265000.0,No,Cabra,Dublin 7,q3,60%
+14/12/2012,"83 Old Cabra Road, Cabra",Dublin,320000.0,No,Cabra,Dublin 7,q4,80%
+18/12/2012,"110 Old Cabra Road, Cabra",Dublin,250000.0,No,Cabra,Dublin 7,q3,60%
+19/12/2012,"24 Drumcliffe Road, Cabra, Dublin 7",Dublin,161500.0,No,Cabra,Dublin 7,q1,30%
+20/12/2012,"26 Cabra Drive, Off Cabra Road",Dublin,230000.0,No,Cabra,Dublin 7,q2,50%
+20/12/2012,"45 St. Jarlath'S Road, Cabra",Dublin,92000.0,No,Cabra,Dublin 7,q1,10%
+21/12/2012,"124 Carnlough Road, Cabra",Dublin,85000.0,No,Cabra,Dublin 7,q1,10%
+21/12/2012,"135 Annaly Road, Cabra",Dublin,135000.0,No,Cabra,Dublin 7,q1,20%
+21/12/2012,"19 St. Eithne Road, Cabra, Dublin 7",Dublin,123000.0,No,Cabra,Dublin 7,q1,20%
+22/12/2012,"Block A, Apartment 1 Hamilton Square, Cabra",Dublin,25000.0,Yes,Cabra,Dublin 7,q1,10%
+22/12/2012,"Block A, Apartment 2 Hamilton Square, Cabra",Dublin,25000.0,Yes,Cabra,Dublin 7,q1,10%
+22/12/2012,"Block A, Apartment 5 Hamilton Square, Cabra",Dublin,40000.0,Yes,Cabra,Dublin 7,q1,10%
+22/12/2012,"Block A, Apartment 6 Hamilton Square, Cabra",Dublin,40000.0,Yes,Cabra,Dublin 7,q1,10%
+07/01/2013,"47 Carnlough Road, Cabra",Dublin,132000.0,No,Cabra,Dublin 7,q1,20%
+18/01/2013,"19 Kinvara Park, Cabra",Dublin,230000.0,No,Cabra,Dublin 7,q2,50%
+22/01/2013,"82 Ratoath Estate, Cabra",Dublin,195000.0,No,Cabra,Dublin 7,q2,40%
+25/01/2013,"61 Killala Road, Cabra",Dublin,50000.0,No,Cabra,Dublin 7,q1,10%
+05/02/2013,"128 Ratoath Estate, Cabra",Dublin,165000.0,No,Cabra,Dublin 7,q1,30%
+06/02/2013,"400 Carnlough Road, Cabra, Dublin 7",Dublin,85000.0,No,Cabra,Dublin 7,q1,10%
+07/02/2013,"240 St Attracta Road, Cabra, Dublin 7",Dublin,121000.0,No,Cabra,Dublin 7,q1,20%
+08/02/2013,"225 New Cabra Road, Dublin 7",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+11/02/2013,"112 St Jarlath'S Road, Cabra",Dublin,130000.0,No,Cabra,Dublin 7,q1,20%
+04/03/2013,"117 St. Jarlath Road, Cabra",Dublin,86000.0,No,Cabra,Dublin 7,q1,10%
+07/03/2013,"10 Saint Eithne'S Road, Cabra, Dublin 7",Dublin,106000.0,No,Cabra,Dublin 7,q1,10%
+12/03/2013,"26 Swilly Road, Cabra, Dublin 7",Dublin,126000.0,No,Cabra,Dublin 7,q1,20%
+15/03/2013,"140 New Cabra Road, Dublin 7",Dublin,310000.0,No,Cabra,Dublin 7,q3,80%
+15/03/2013,"518 Carnlough Road, Cabra, Dublin 7",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+22/03/2013,"409 Carnlough Road, Cabra",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+25/03/2013,"52 Annamoe Park, Cabra, Dublin 7",Dublin,105000.0,No,Cabra,Dublin 7,q1,10%
+27/03/2013,"11 Rathoath Road, Cabra",Dublin,158000.0,No,Cabra,Dublin 7,q1,30%
+05/04/2013,"100 Drumcliffe Road, Cabra, Dublin 7",Dublin,125000.0,No,Cabra,Dublin 7,q1,20%
+09/04/2013,"141 St Attracta Road, Cabra, Dublin 7",Dublin,135000.0,No,Cabra,Dublin 7,q1,20%
+15/04/2013,"469 Carnlough Road, Cabra",Dublin,80000.0,No,Cabra,Dublin 7,q1,10%
+19/04/2013,"48 Dingle Road, Cabra",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+02/05/2013,"3 St. Jarlaths Road, Cabra",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+09/05/2013,"103 Dun Manuis Road, Cabra, Dublin 7",Dublin,67500.0,No,Cabra,Dublin 7,q1,10%
+24/05/2013,"129 Cabra Road, Dublin 7",Dublin,400000.0,No,Cabra,Dublin 7,q4,100%
+30/05/2013,"28 St. Fintan Road, Cabra, Dublin 7",Dublin,86500.0,No,Cabra,Dublin 7,q1,10%
+30/05/2013,"3 Leix Road, Cabra",Dublin,132000.0,No,Cabra,Dublin 7,q1,20%
+31/05/2013,"4 St. Attracta Road, Cabra, Dublin 7",Dublin,95000.0,No,Cabra,Dublin 7,q1,10%
+07/06/2013,"51 Leix Road, Cabra",Dublin,145000.0,No,Cabra,Dublin 7,q1,20%
+07/06/2013,"7 Fertullagh Road, Cabra",Dublin,178000.0,No,Cabra,Dublin 7,q2,30%
+12/06/2013,"126 Quarry Road, Cabra",Dublin,107500.0,No,Cabra,Dublin 7,q1,10%
+21/06/2013,"64 Jarlath Road, Cabra",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+27/06/2013,"24 Liscannor Road, Cabra West",Dublin,135000.0,No,Cabra,Dublin 7,q1,20%
+27/06/2013,"48 Leix Road, Cabra",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+05/07/2013,"14 Glenbeigh Park, Off Cabra Road, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,70%
+19/07/2013,"29 Anamoe Drive, Cabra",Dublin,108000.0,No,Cabra,Dublin 7,q1,10%
+23/07/2013,"41 Old Cabra Road, Cabra, Dublin 7",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+29/07/2013,"53 Dowth Avenue, Cabra",Dublin,157000.0,No,Cabra,Dublin 7,q1,30%
+16/08/2013,"20 Drumcliffe Drive, Cabra, Dublin 7.",Dublin,120000.0,No,Cabra,Dublin 7,q1,20%
+19/08/2013,"41 St. Eithne Road, Cabra, Dublin 7",Dublin,91500.0,No,Cabra,Dublin 7,q1,10%
+22/08/2013,"317 Bannow Road, Cabra West",Dublin,50000.0,No,Cabra,Dublin 7,q1,10%
+22/08/2013,"67 Cabra Drive, Cabra",Dublin,295000.0,No,Cabra,Dublin 7,q3,70%
+23/08/2013,"62 St Eithne Rd, Cabra",Dublin,126000.0,No,Cabra,Dublin 7,q1,20%
+28/08/2013,"50  Nephin Road, Cabra, Dublin 7",Dublin,292000.0,No,Cabra,Dublin 7,q3,70%
+30/08/2013,"43 Leix Road, Cabra",Dublin,148000.0,No,Cabra,Dublin 7,q1,20%
+02/09/2013,"38A  Annamoe Terrace, Cabra West",Dublin,50000.0,No,Cabra,Dublin 7,q1,10%
+05/09/2013,"22 Quarry Road, Cabra",Dublin,145000.0,No,Cabra,Dublin 7,q1,20%
+06/09/2013,"21 Cabra Drive, Old Cabra Road, Cabra",Dublin,275000.0,No,Cabra,Dublin 7,q3,70%
+06/09/2013,"81 Quarry Road, Cabra, Dublin 7",Dublin,165000.0,No,Cabra,Dublin 7,q1,30%
+23/09/2013,"26 Annamoe Road, Cabra, Dublin",Dublin,450000.0,No,Cabra,Dublin 7,q4,100%
+02/10/2013,"127 Kilkieran Road, Cabra West",Dublin,114000.0,No,Cabra,Dublin 7,q1,20%
+07/10/2013,"167 Bannow Road, Cabra, Dublin 7",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+09/10/2013,"9 Annamoe Terrace, Cabra, Dublin",Dublin,122000.0,No,Cabra,Dublin 7,q1,20%
+18/10/2013,"62 St Attracta Road, Cabra, Dublin 7",Dublin,111000.0,No,Cabra,Dublin 7,q1,20%
+25/10/2013,"430 Carnlough Road, Cabra, Dublin 7",Dublin,108000.0,No,Cabra,Dublin 7,q1,10%
+31/10/2013,"211 Ratoath Road, Cabra",Dublin,150000.0,No,Cabra,Dublin 7,q1,30%
+18/11/2013,"135 Kilkiernan Road, Cabra",Dublin,136000.0,No,Cabra,Dublin 7,q1,20%
+18/11/2013,"3 Fassaugh Avenue, Cabra, Dublin 7",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+21/11/2013,"21 St Attracta Road, Cabra, Dublin 7",Dublin,145000.0,No,Cabra,Dublin 7,q1,20%
+28/11/2013,"65 Annaly Road, Cabra, Dublin 7",Dublin,158000.0,No,Cabra,Dublin 7,q1,30%
+29/11/2013,"175 St Attracta Rd, Cabra, Dublin 7",Dublin,150000.0,No,Cabra,Dublin 7,q1,30%
+29/11/2013,"9 St Attracta Road, Cabra, Dublin 7",Dublin,170500.0,No,Cabra,Dublin 7,q2,30%
+04/12/2013,"25 Ratoath Road, Cabra West",Dublin,125000.0,No,Cabra,Dublin 7,q1,20%
+04/12/2013,"475 Blackhorse Ave, Cabra, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+05/12/2013,"38 Cabra Road, Dublin 7",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+12/12/2013,"116 Killala Rd, Cabra West Dublin 7, Dublin",Dublin,207500.0,No,Cabra,Dublin 7,q2,50%
+12/12/2013,"121 Carnlough Road, Cabra, Dublin 7",Dublin,145000.0,No,Cabra,Dublin 7,q1,20%
+13/12/2013,"8 Dingle Rd, Cabra West, Dublin 7",Dublin,109000.0,No,Cabra,Dublin 7,q1,10%
+18/12/2013,"46A, New Cabra Rd, Dublin 7",Dublin,470000.0,No,Cabra,Dublin 7,q4,100%
+19/12/2013,"57 Annamoe Drive, Cabra, Dublin 7",Dublin,105000.0,No,Cabra,Dublin 7,q1,10%
+19/12/2013,"80 Ratoath Est, Cabra West, Dublin 7",Dublin,217000.0,No,Cabra,Dublin 7,q2,50%
+20/12/2013,"92 Carnlough Rd, Cabra, Dublin 7",Dublin,101250.0,No,Cabra,Dublin 7,q1,10%
+16/01/2014,"142 Cabra Rd, Dublin 7, Dublin",Dublin,285000.0,No,Cabra,Dublin 7,q3,70%
+20/01/2014,"281 Ratoath Rd, Cabra, Dublin 7",Dublin,201000.0,No,Cabra,Dublin 7,q2,40%
+24/01/2014,"30 Carnlough Rd, Cabra, Dublin 7",Dublin,150000.0,No,Cabra,Dublin 7,q1,30%
+28/01/2014,"41 Ratoath Est, Cabra West, Dublin 7",Dublin,243000.0,No,Cabra,Dublin 7,q3,60%
+31/01/2014,"342 Carnlough Rd, Cabra Rd, Dublin 7",Dublin,132500.0,No,Cabra,Dublin 7,q1,20%
+31/01/2014,"52 Newgrange Rd, Cabra, Dublin",Dublin,205536.0,No,Cabra,Dublin 7,q2,40%
+10/02/2014,"51 Fassaugh Rd, Cabra, Dublin 7",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+18/02/2014,"263 Carnlough Road, Cabra",Dublin,143000.0,No,Cabra,Dublin 7,q1,20%
+28/02/2014,"73 St Jarlath Rd, Cabra, Dublin City",Dublin,113000.0,No,Cabra,Dublin 7,q1,20%
+28/02/2014,"95 Dingle Rd, Cabra West, Dublin 7",Dublin,140500.0,No,Cabra,Dublin 7,q1,20%
+07/03/2014,"41 Swilly Rd, Cabra West, Dublin 7",Dublin,132000.0,No,Cabra,Dublin 7,q1,20%
+11/03/2014,"65 Broombridge Road, Cabra, Dublin 7",Dublin,57000.0,No,Cabra,Dublin 7,q1,10%
+11/03/2014,"77 Kilalla Rd, Cabra, Dublin 7",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+13/03/2014,"110 Cabra Road, Cabra, Dublin 7",Dublin,335000.0,No,Cabra,Dublin 7,q4,90%
+14/03/2014,"26 Quarry Rd, Cabra, Dublin 7",Dublin,199000.0,No,Cabra,Dublin 7,q2,40%
+14/03/2014,"56 Carnlough Rd, Cabra, Dublin 7",Dublin,95000.0,No,Cabra,Dublin 7,q1,10%
+20/03/2014,"117 Ratoath Rd, Cabra West, Dublin 7",Dublin,125000.0,No,Cabra,Dublin 7,q1,20%
+02/04/2014,"24 Broombridge Rd, Cabra West, Dublin 7",Dublin,172000.0,No,Cabra,Dublin 7,q2,30%
+03/04/2014,"37 Offaly Rd, Cabra, Dublin 7",Dublin,195000.0,No,Cabra,Dublin 7,q2,40%
+01/05/2014,"15 Bannow Road, Cabra West, Dublin 7",Dublin,183000.0,No,Cabra,Dublin 7,q2,30%
+02/05/2014,"164 Quarry Road, Cabra, Dublin 7",Dublin,243000.0,No,Cabra,Dublin 7,q3,60%
+06/05/2014,"108 St. Jarlath Road, Cabra",Dublin,90000.0,No,Cabra,Dublin 7,q1,10%
+07/05/2014,"9 St Jarlaths Rd, Cabra, Dublin 7",Dublin,114000.0,No,Cabra,Dublin 7,q1,20%
+13/05/2014,"14 Kilkieran Rd, Cabra West, Dublin 7",Dublin,155000.0,No,Cabra,Dublin 7,q1,30%
+14/05/2014,"The Coachouse, 288 Bannow Rd, Cabra",Dublin,20000.0,No,Cabra,Dublin 7,q1,10%
+19/05/2014,"176 Killala Rd, Cabra, Dublin 7",Dublin,162000.0,No,Cabra,Dublin 7,q1,30%
+26/05/2014,"168 St Attractas  Road, Cabra, Dublin 7",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+28/05/2014,"455 Carnlough Rd, Cabra, Dublin City",Dublin,167500.0,No,Cabra,Dublin 7,q2,30%
+04/06/2014,"13 St Fintan Terrace, Cabra, Dublin 7",Dublin,171000.0,No,Cabra,Dublin 7,q2,30%
+05/06/2014,"148 Killala Rd, Cabra West, Dublin",Dublin,181000.0,No,Cabra,Dublin 7,q2,30%
+06/06/2014,"174 Killala Rd, Cabra West, Dublin 7",Dublin,136000.0,No,Cabra,Dublin 7,q1,20%
+06/06/2014,"324 Carnlough Rd, Cabra, Dublin 7",Dublin,205000.0,No,Cabra,Dublin 7,q2,40%
+16/06/2014,"22 Fassaugh Rd, Cabra, Dublin 7",Dublin,191000.0,No,Cabra,Dublin 7,q2,40%
+18/06/2014,"87 Annamoe Dr, Cabra, Dublin 7",Dublin,165000.0,No,Cabra,Dublin 7,q1,30%
+23/06/2014,"168 Killala Rd, Cabra, Dublin 7",Dublin,215000.0,No,Cabra,Dublin 7,q2,50%
+27/06/2014,"186 Killala Rd, Cabra West, Dublin 7",Dublin,145000.0,No,Cabra,Dublin 7,q1,20%
+27/06/2014,"54 Fassaugh Avenue, Cabra, Dublin 7",Dublin,130000.0,No,Cabra,Dublin 7,q1,20%
+03/07/2014,"23 Ventry Park, Cabra West, Dublin 7",Dublin,141000.0,No,Cabra,Dublin 7,q1,20%
+07/07/2014,"98 Broombridge Road, Cabra West, Dublin 7",Dublin,185000.0,No,Cabra,Dublin 7,q2,40%
+08/07/2014,"14 Glenbeigh Rd, Cabra, Dublin 7",Dublin,292000.0,No,Cabra,Dublin 7,q3,70%
+15/07/2014,"7 Old Cabra Road, Dublin",Dublin,253100.0,No,Cabra,Dublin 7,q3,60%
+17/07/2014,"190 Cabra Road, Dublin 7",Dublin,503000.0,No,Cabra,Dublin 7,q4,100%
+24/07/2014,"3 Fassaugh Avenue, Cabra, Dublin 7",Dublin,193000.0,No,Cabra,Dublin 7,q2,40%
+28/07/2014,"107 Carnlough Rd, Cabra, Dublin 7",Dublin,237000.0,No,Cabra,Dublin 7,q3,60%
+30/07/2014,"306 St Attracta Road, Cabra, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+31/07/2014,"22 Annamoe Rd, Cabra, Dublin 7",Dublin,367500.0,No,Cabra,Dublin 7,q4,90%
+01/08/2014,"81 New Cabra Road, Dublin 7",Dublin,460000.0,No,Cabra,Dublin 7,q4,100%
+07/08/2014,"114 Annamoe Dr, Cabra, Dublin 7",Dublin,181500.0,No,Cabra,Dublin 7,q2,30%
+13/08/2014,"447 Carnlough Road, Cabra West, Dublin 7",Dublin,170000.0,No,Cabra,Dublin 7,q2,30%
+13/08/2014,"57 Fassaugh Rd, Cabra, Dublin 7",Dublin,250000.0,No,Cabra,Dublin 7,q3,60%
+22/08/2014,"56 Swilly Rd, Cabra, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+10/09/2014,"161 St. Attracta Rd, Cabra, Dublin 7",Dublin,180000.0,No,Cabra,Dublin 7,q2,30%
+12/09/2014,"11 Old Cabra Road, Cabra, Dublin 7",Dublin,209000.0,No,Cabra,Dublin 7,q2,50%
+18/09/2014,"115 Carnlough Road, Cabra, Dublin 7",Dublin,218000.0,No,Cabra,Dublin 7,q2,50%
+19/09/2014,"50 Old Cabra Road, Dublin, Dublin 7",Dublin,595000.0,No,Cabra,Dublin 7,q4,100%
+19/09/2014,"7 Dynmanus Rd, Cabra West, Dublin 7",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+23/09/2014,"139 Bannow Rd, Cabra West, Dublin 7",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+03/10/2014,"20 St Eithne Road, Cabra, Dublin 7",Dublin,187000.0,No,Cabra,Dublin 7,q2,40%
+08/10/2014,"69 Annamoe Rd, Cabra, Dublin 7",Dublin,385000.0,No,Cabra,Dublin 7,q4,90%
+10/10/2014,"33 St Jarlath Rd, Cabra, Dublin 7",Dublin,312000.0,No,Cabra,Dublin 7,q4,80%
+13/10/2014,"29 Quarry Rd, Cabra, Dublin 7",Dublin,222000.0,No,Cabra,Dublin 7,q2,50%
+16/10/2014,"121 Annamoe Dr, Cabra, Dublin 7",Dublin,193000.0,No,Cabra,Dublin 7,q2,40%
+16/10/2014,"254 St Attracta Rd, Cabra, Dublin 7",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+31/10/2014,"104 Ratoath Est, Cabra, Dublin 7",Dublin,310000.0,No,Cabra,Dublin 7,q3,80%
+31/10/2014,"401 Carnlough Road, Cabra",Dublin,122000.0,No,Cabra,Dublin 7,q1,20%
+10/11/2014,"143 St Attracta Rd, Cabra, Dublin 7",Dublin,188000.0,No,Cabra,Dublin 7,q2,40%
+10/11/2014,"15 Old Cabra Rd, Cabra, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,70%
+11/11/2014,"18 Liscannor Road, Cabra",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+12/11/2014,"138 Carnlough Rd, Cabra West, Dublin 7",Dublin,165000.0,No,Cabra,Dublin 7,q1,30%
+13/11/2014,"170 New Cabra Rd, Dublin 7, Dublin",Dublin,682000.0,No,Cabra,Dublin 7,q4,100%
+13/11/2014,"56 Newgrange Rd, Cabra, Dublin 7",Dublin,332000.0,No,Cabra,Dublin 7,q4,90%
+14/11/2014,"126 Cabra Park, Phisboro, Dublin 7",Dublin,215000.0,No,Cabra,Dublin 7,q2,50%
+14/11/2014,"147 New Cabra Rd, Dublin 7, Dublin",Dublin,576000.0,No,Cabra,Dublin 7,q4,100%
+02/12/2014,"152 Quarry Rd, Cabra, Dublin 7",Dublin,230000.0,No,Cabra,Dublin 7,q2,50%
+12/12/2014,"60 Ratoath Est, Cabra, Dublin 7",Dublin,285000.0,No,Cabra,Dublin 7,q3,70%
+22/12/2014,"107 Ratoath Rd, Cabra West, Dublin 7",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+22/12/2014,"150 Carnlough Rd, Cabra, Dublin 7",Dublin,192359.0,No,Cabra,Dublin 7,q2,40%
+22/12/2014,"263 Ratoath Road, Cabra West, Dublin 7",Dublin,216000.0,No,Cabra,Dublin 7,q2,50%
+22/12/2014,"67 Cabra Road, Dublin 7",Dublin,412198.0,No,Cabra,Dublin 7,q4,100%
+23/12/2014,"72 Ventry Park, Cabra West, Dublin 7",Dublin,125000.0,No,Cabra,Dublin 7,q1,20%
+23/12/2014,"83 Carnlough Rd, Cabra West, Dublin 7",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+05/01/2015,"7 St Finbarr'S Road, Cabra, Dublin 7",Dublin,235000.0,No,Cabra,Dublin 7,q3,60%
+09/01/2015,"43 St Jarlath Rd, Cabra, Dublin 7",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+12/01/2015,"299 Carnlough Rd, Cabra West, Dublin 7",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+23/01/2015,"265 Bannow Rd, Cabra West, Dublin 7",Dublin,219000.0,No,Cabra,Dublin 7,q2,50%
+27/01/2015,"1 Fassaugh Avenue, Cabra, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+30/01/2015,"41 Dowth Ave, Cabra, Dublin 7",Dublin,255000.0,No,Cabra,Dublin 7,q3,60%
+30/01/2015,"58 Bannow Rd, Cabra, Dublin 7",Dublin,380000.0,No,Cabra,Dublin 7,q4,90%
+05/02/2015,"65 Fassaugh Aveune, Cabra West, Dublin 7",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+09/02/2015,"3 Kilkernan Rd, Cabra West, Dublin 7",Dublin,187000.0,No,Cabra,Dublin 7,q2,40%
+11/02/2015,"6 Drumcliffe Dr, Cabra, Dublin 7",Dublin,243000.0,No,Cabra,Dublin 7,q3,60%
+16/02/2015,"227 Cabra Rd, Dublin 7, Dublin",Dublin,633000.0,No,Cabra,Dublin 7,q4,100%
+16/02/2015,"25 Drumcliffe Rd, Cabra, Dublin 7",Dublin,200500.0,No,Cabra,Dublin 7,q2,40%
+24/02/2015,"41 Ratoath Rd, Cabra Cross, Dublin 7",Dublin,260000.0,No,Cabra,Dublin 7,q3,60%
+27/02/2015,"26 Ratoath Estate, Cabra, Dublin 7",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+27/02/2015,"46 Annamoe Park, Cabra, Dublin 7",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+05/03/2015,"145 Faussaugh Avenue, Cabra, Dublin 7",Dublin,196000.0,No,Cabra,Dublin 7,q2,40%
+11/03/2015,"5 Kilkieran Court, Cabra West, Dublin 7",Dublin,250000.0,No,Cabra,Dublin 7,q3,60%
+12/03/2015,"144 Quarry Road, Cabra, Dublin 7",Dublin,192000.0,No,Cabra,Dublin 7,q2,40%
+12/03/2015,"29 Dowth Ave, Cabra, Dublin",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+12/03/2015,"62 St. Eithne Road, Cabra",Dublin,252500.0,No,Cabra,Dublin 7,q3,60%
+27/03/2015,"8 Cuala Rd, Cabra, Dublin",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+30/03/2015,"128 Dingle Road, Cabra",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+01/04/2015,"473 Carnlough Rd, Cabra West, Dublin 7",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+10/04/2015,"138 Cabra Rd, Dublin 7, Dublin",Dublin,500000.0,No,Cabra,Dublin 7,q4,100%
+20/04/2015,"5 Rosecourt, New Cabra Rd, Dublin 7",Dublin,165000.0,No,Cabra,Dublin 7,q1,30%
+23/04/2015,"105 Ventry Park Cabra, Dublin 7",Dublin,171000.0,No,Cabra,Dublin 7,q2,30%
+23/04/2015,"85 Ratoath Est, Cabra, Dublin 7",Dublin,122500.0,No,Cabra,Dublin 7,q1,20%
+27/04/2015,"112 Broombridge Rd, Cabra, Dublin 7",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+11/05/2015,"112 Old Cabra Rd, Dublin 7, Dublin",Dublin,525000.0,No,Cabra,Dublin 7,q4,100%
+18/05/2015,"62 Newgrange Rd, Cabra, Dublin 7",Dublin,257500.0,No,Cabra,Dublin 7,q3,60%
+27/05/2015,"57 St Attracta Rd, Cabra, Dublin 7",Dublin,232000.0,No,Cabra,Dublin 7,q2,50%
+05/06/2015,"127 Ratoath Rd, Cabra West, Dublin 7",Dublin,220000.0,No,Cabra,Dublin 7,q2,50%
+05/06/2015,"147 Ratoath Rd, Cabra West, Dublin 7",Dublin,195000.0,No,Cabra,Dublin 7,q2,40%
+19/06/2015,"130 Fassaugh Road, Cabra, Dublin 7",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+25/06/2015,"121 Cabra Rd, Dublin 7, Dublin",Dublin,392500.0,No,Cabra,Dublin 7,q4,90%
+26/06/2015,"33 Quarry Rd, Cabra, Dublin 7",Dublin,208000.0,No,Cabra,Dublin 7,q2,50%
+28/06/2015,"45 Bannow Road, Cabra West, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+01/07/2015,"23 Annamoe Dr, Cabra, Dublin 7",Dublin,150000.0,No,Cabra,Dublin 7,q1,30%
+02/07/2015,"515 Carnlough Rd, Cabra, Dublin 7",Dublin,170000.0,No,Cabra,Dublin 7,q2,30%
+06/07/2015,"5 Earls Court, Old Cabra Rd, Dublin 7",Dublin,290000.0,No,Cabra,Dublin 7,q3,70%
+24/07/2015,"14 Earls Court, Old Cabra Rd, Dublin 7",Dublin,265000.0,No,Cabra,Dublin 7,q3,60%
+30/07/2015,"2 Galmoy Rd, Cabra, Dublin 7",Dublin,283500.0,No,Cabra,Dublin 7,q3,70%
+30/07/2015,"88 Navan Rd, Cabra, Dublin 7",Dublin,525000.0,No,Cabra,Dublin 7,q4,100%
+31/07/2015,"37 Drumcliffe Dr, Cabra West, Dublin 7",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+06/08/2015,"1 Ventry Drive, Cabra, Dublin 7",Dublin,211500.0,No,Cabra,Dublin 7,q2,50%
+07/08/2015,"63 Bannow Road, Cabra West, Dubin 7",Dublin,207000.0,No,Cabra,Dublin 7,q2,50%
+12/08/2015,"18 Cuala Rd, Cabra, Dublin 7",Dublin,255000.0,No,Cabra,Dublin 7,q3,60%
+26/08/2015,"142 Quarry Rd, Cabra, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+26/08/2015,"36 Kinvara Ave, Cabra, Dublin 7",Dublin,183570.5,No,Cabra,Dublin 7,q2,40%
+08/09/2015,"38 Annaly Rd, Cabra, Dublin 7",Dublin,275000.0,No,Cabra,Dublin 7,q3,70%
+14/09/2015,"2A St Jarlath Road, Cabra, Dublin 7",Dublin,208333.33,No,Cabra,Dublin 7,q2,50%
+16/09/2015,"128 St Attractas Road, Cabra",Dublin,275000.0,No,Cabra,Dublin 7,q3,70%
+17/09/2015,"126 Killala Rd, Cabra West, Dublin",Dublin,267000.0,No,Cabra,Dublin 7,q3,70%
+24/09/2015,"112 St Jarlaths Rd, Cabra, Dublin 7",Dublin,244500.0,No,Cabra,Dublin 7,q3,60%
+24/09/2015,"52 Ventry Park, Cabra West, Dublin 7",Dublin,205000.0,No,Cabra,Dublin 7,q2,40%
+25/09/2015,"11 Rosecourt, Cabra Rd, Dublin",Dublin,172000.0,No,Cabra,Dublin 7,q2,30%
+25/09/2015,"414 Carnlough Rd, Cabra West, Dublin 7",Dublin,192500.0,No,Cabra,Dublin 7,q2,40%
+30/09/2015,"1 Annamoe Dr, Cabra, Dublin 7",Dublin,286500.0,No,Cabra,Dublin 7,q3,70%
+30/09/2015,"150 Killala Road, Cabra West, Dublin 7",Dublin,185000.0,No,Cabra,Dublin 7,q2,40%
+01/10/2015,"94 Leix Rd, Cabra, Dublin 7",Dublin,270000.0,No,Cabra,Dublin 7,q3,70%
+08/10/2015,"179 Killala Road, Cabra West, Dublin 7",Dublin,180000.0,No,Cabra,Dublin 7,q2,30%
+08/10/2015,"296 Carnlough Rd, Cabra, Dublin 7",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+08/10/2015,"50 Cabra Dr, Circular Rd North, Dublin 7",Dublin,415000.0,No,Cabra,Dublin 7,q4,100%
+08/10/2015,"83 Ratoath Rd, Cabra West, Dublin 7",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+13/10/2015,"172 Quarry Road, Cabra, Dublin 7",Dublin,310000.0,No,Cabra,Dublin 7,q3,80%
+23/10/2015,"108 Broombridge Rd, Cabra, Dublin 7",Dublin,220000.0,No,Cabra,Dublin 7,q2,50%
+23/10/2015,"16 St Fintan Terrace, Cabra, Dublin 7",Dublin,170000.0,No,Cabra,Dublin 7,q2,30%
+23/10/2015,"24B Cabra Drive, Cabra",Dublin,422908.0,Yes,Cabra,Dublin 7,q4,100%
+29/10/2015,"52 Annamoe Drive, Cabra, Dublin 7",Dublin,208000.0,No,Cabra,Dublin 7,q2,50%
+04/11/2015,"83 Faussagh Rd, Cabra, Dublin 7",Dublin,237000.0,No,Cabra,Dublin 7,q3,60%
+06/11/2015,"32 Broombridge Road, Cabra, Dublin 7",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+06/11/2015,"48 Annamoe Terrace, Cabra, Dublin 7",Dublin,220000.0,No,Cabra,Dublin 7,q2,50%
+17/11/2015,"76 Leix Rd, Cabra, Dublin 7",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+19/11/2015,"106 Broombridge Rd, Cabra, Dublin 7",Dublin,280000.0,No,Cabra,Dublin 7,q3,70%
+20/11/2015,"20 Erris Rd, Cabra, Dublin 7",Dublin,280000.0,No,Cabra,Dublin 7,q3,70%
+26/11/2015,"245 Carnlough Road, Cabra, Dublin 7",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+27/11/2015,"103 Bannow Rd, Cabra West, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+30/11/2015,"106 St Attracta Rd, Cabra, Dublin 7",Dublin,231000.0,No,Cabra,Dublin 7,q2,50%
+30/11/2015,"87 Kilkiernan Rd, Cabra West, Dublin 7",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+03/12/2015,"92 Ventry Park, Cabra West, Dublin 7",Dublin,185000.0,No,Cabra,Dublin 7,q2,40%
+04/12/2015,"47 Swilly Rd, Cabra, Dublin 7",Dublin,262000.0,No,Cabra,Dublin 7,q3,60%
+07/12/2015,"593 Carnlough Road, Cabra West, Dublin 7",Dublin,170000.0,No,Cabra,Dublin 7,q2,30%
+08/12/2015,"121 Fassaugh Ave, Cabra, Dublin 7",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+08/12/2015,"68 St Attracta Rd, Cabra, Dublin 7",Dublin,212500.0,No,Cabra,Dublin 7,q2,50%
+09/12/2015,"First Floor, Unit 105A Cabra Road, Dublin 7",Dublin,135000.0,No,Cabra,Dublin 7,q1,20%
+10/12/2015,"62 Cabra Park, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,70%
+17/12/2015,"8 St Eithne Rd, Cabra, Dublin 7",Dublin,221000.0,No,Cabra,Dublin 7,q2,50%
+21/12/2015,"79 Ventry Park, Cabra West",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+23/12/2015,"26 Offaly Rd, Cabra, Dublin 7",Dublin,285000.0,No,Cabra,Dublin 7,q3,70%
+13/01/2016,"120 Ratoath Estate, Cabra, Dublin 7",Dublin,265000.0,No,Cabra,Dublin 7,q3,60%
+14/01/2016,"11 Annaly Rd, Cabra, Dublin 7",Dublin,112500.0,No,Cabra,Dublin 7,q1,20%
+21/01/2016,"24A Cabra Drive, Old Cabra Road, Dublin 7",Dublin,391870.0,Yes,Cabra,Dublin 7,q4,90%
+28/01/2016,"19 Rosecourt, Old Cabra Road, Cabra",Dublin,150000.0,No,Cabra,Dublin 7,q1,30%
+03/02/2016,"29 Bannow Rd, Cabra West, Dublin 7",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+04/02/2016,"56 Annamoe Rd, Cabra, Dublin",Dublin,445000.0,No,Cabra,Dublin 7,q4,100%
+10/02/2016,"31 Kilkieran Road, Cabra",Dublin,145000.0,No,Cabra,Dublin 7,q1,20%
+12/02/2016,"1 Blackhorse Downs, Blackhorse Ave, Cabra Dublin 7",Dublin,235000.0,No,Cabra,Dublin 7,q3,60%
+18/02/2016,"199 Cabra Road, Cabra",Dublin,475000.0,No,Cabra,Dublin 7,q4,100%
+19/02/2016,"106 St Jarlath Road, Cabra",Dublin,305000.0,No,Cabra,Dublin 7,q3,80%
+19/02/2016,"42 Annamoe Rd, Cabra Rd, Dublin 7",Dublin,477000.0,No,Cabra,Dublin 7,q4,100%
+02/03/2016,"210 Ratoath Rd, Cabra, Dublin 7",Dublin,285000.0,No,Cabra,Dublin 7,q3,70%
+02/03/2016,"22 Leix Rd, Cabra, Dublin 7",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+03/03/2016,"14 Bradogue Court, Annamoe Road, Cabra",Dublin,180000.0,No,Cabra,Dublin 7,q2,30%
+04/03/2016,"27 Dunard Walk Black Horse Ave, Cabra, Dublin",Dublin,201000.0,No,Cabra,Dublin 7,q2,40%
+18/03/2016,"Apt 1 Park Springs Apartments, 7/9 Nephin Road, Cabra",Dublin,350000.0,No,Cabra,Dublin 7,q4,90%
+24/03/2016,"Unit 1  13 Old Cabra Road, Cabra, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,70%
+31/03/2016,"187 North Circular Rd, Cabra, Dublin 7",Dublin,515000.0,No,Cabra,Dublin 7,q4,100%
+01/04/2016,"5 Kilkieran Court, Cabra West, Dublin 7",Dublin,250000.0,No,Cabra,Dublin 7,q3,60%
+06/04/2016,"148 Carnlough Rd, Cabra, Dublin 7",Dublin,227000.0,No,Cabra,Dublin 7,q2,50%
+08/04/2016,"19 Old Cabra Road, Cabra, Dublin 7",Dublin,250000.0,No,Cabra,Dublin 7,q3,60%
+11/04/2016,"25 Mulroy Road, Cabra West, Dublin 7",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+19/04/2016,"13A St Finbars Rd, Cabra West, Dublin 7",Dublin,242000.0,No,Cabra,Dublin 7,q3,60%
+25/04/2016,"374 Carnlough Road, Cabra West, Dublin 7",Dublin,170000.0,No,Cabra,Dublin 7,q2,30%
+29/04/2016,"323 Bannow Rd, Cabra, Dublin",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+12/05/2016,"78 Killala Rd, Cabra West, Dublin 7",Dublin,205000.0,No,Cabra,Dublin 7,q2,40%
+16/05/2016,"85 Carnlough Road, Cabra, Dublin 7",Dublin,232000.0,No,Cabra,Dublin 7,q2,50%
+23/05/2016,"1A Blackhorse Downs, Blackhorse Ave, Cabra Dublin 7",Dublin,520000.0,No,Cabra,Dublin 7,q4,100%
+25/05/2016,"2 St Jarlath Rd, Cabra, Dublin 7",Dublin,237500.0,No,Cabra,Dublin 7,q3,60%
+26/05/2016,"317 St Attracta Rd, Cabra, Dublin 7",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+30/05/2016,"14 St Attracta Rd, Cabra, Dublin 7",Dublin,215000.0,No,Cabra,Dublin 7,q2,50%
+30/05/2016,"283St Attracta Rd, Cabra, Dublin 6W",Dublin,183000.0,No,Cabra,Dublin 7,q2,30%
+02/06/2016,"84 Annamoe Dr, Cabra, Dublin",Dublin,235000.0,No,Cabra,Dublin 7,q3,60%
+03/06/2016,"208 St Attracta Rd, Cabra, Dublin 7",Dublin,265000.0,No,Cabra,Dublin 7,q3,60%
+09/06/2016,"63 Carnlough Road, Cabra West, Dublin 7",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+10/06/2016,"40 Annmore Dr, Cabra, Dublin 7",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+10/06/2016,"479 Blackhorse Avenue, Cabra, Dublin 7",Dublin,255000.0,No,Cabra,Dublin 7,q3,60%
+23/06/2016,"Apt 3 The Gables, Old Cabra Rd, Dublin 7",Dublin,195251.0,No,Cabra,Dublin 7,q2,40%
+24/06/2016,"61 Cabra Dr, Circular Rd North, Dublin 7",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+27/06/2016,"23 Drumcliffe Road, Cabra, Dublin 7",Dublin,290000.0,No,Cabra,Dublin 7,q3,70%
+29/06/2016,"32 Annamoe Terrace, Cabra, Dublin 7",Dublin,250000.0,No,Cabra,Dublin 7,q3,60%
+01/07/2016,"5 Bannow Rd, Cabra West, Dublin 7",Dublin,260000.0,No,Cabra,Dublin 7,q3,60%
+06/07/2016,"647 Carnlough Rd, Cabra West, Dublin 7",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+15/07/2016,"38 Ellesmere Ave, Off North Circular Road, Cabra",Dublin,350000.0,Yes,Cabra,Dublin 7,q4,90%
+18/07/2016,"513 Carnlough Road, Cabra West, Dublin 7",Dublin,193000.0,No,Cabra,Dublin 7,q2,40%
+20/07/2016,"231 Carnlough Rd, Cabra, Dublin 7",Dublin,165000.0,No,Cabra,Dublin 7,q1,30%
+21/07/2016,"28 Annamoe Rd, Cabra, Dublin 7",Dublin,470000.0,No,Cabra,Dublin 7,q4,100%
+27/07/2016,"45 Offaly Rd, Cabra, Dublin 7",Dublin,269000.0,No,Cabra,Dublin 7,q3,70%
+28/07/2016,"100 Hampton Sq, Cabra Rd, Dublin 7",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+12/08/2016,"22 Kilkieran Court, Cabra West, Dublin 7",Dublin,206925.0,No,Cabra,Dublin 7,q2,50%
+18/08/2016,"241 St Attracta Rd, Cabra, Dublin 7",Dublin,156000.0,No,Cabra,Dublin 7,q1,30%
+19/08/2016,"115 Dunmanus Rd, Cabra, Dublin 7",Dublin,249000.0,No,Cabra,Dublin 7,q3,60%
+19/08/2016,"15 St Jarlath Rd, Cabra, Dublin 7",Dublin,310000.0,No,Cabra,Dublin 7,q3,80%
+19/08/2016,"199 Cabra Rd, Cabra, Dublin 7",Dublin,480000.0,No,Cabra,Dublin 7,q4,100%
+19/08/2016,"239 St Attracta Rd, Cabra, Dublin 7",Dublin,195000.0,No,Cabra,Dublin 7,q2,40%
+19/08/2016,"43 St Eithne Rd, Cabra, Dublin 7",Dublin,286000.0,No,Cabra,Dublin 7,q3,70%
+19/08/2016,"63 Cabra Dr, Cabra, Dublin",Dublin,440000.0,No,Cabra,Dublin 7,q4,100%
+25/08/2016,"68 Fassaugh Ave, Cabra, Dublin 7",Dublin,85000.0,No,Cabra,Dublin 7,q1,10%
+26/08/2016,"77 Ratoath Estate, Cabra, Dublin 7",Dublin,292000.0,No,Cabra,Dublin 7,q3,70%
+30/08/2016,"143 Ratoath Rd, Cabra West, Dublin 7",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+05/09/2016,"29 Drumcliff Rd, Cabra West, Dublin 7",Dublin,315000.0,No,Cabra,Dublin 7,q4,80%
+05/09/2016,"73 Cabra Drive, Cabra, Dublin 7",Dublin,367000.0,No,Cabra,Dublin 7,q4,90%
+08/09/2016,"22 Cabra Dr, Cabra, Dublin 7",Dublin,350000.0,No,Cabra,Dublin 7,q4,90%
+13/09/2016,"92 Drumcliffe Rd, Cabra West, Dublin 7",Dublin,187500.0,No,Cabra,Dublin 7,q2,40%
+20/09/2016,"86 St Jarlath Rd, Cabra, Dublin 7",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+23/09/2016,"321 St Attracta Rd, Cabra, Dublin 7",Dublin,185000.0,No,Cabra,Dublin 7,q2,40%
+27/09/2016,"301 Carnlough Rd, Cabra, Dublin 7",Dublin,261000.0,No,Cabra,Dublin 7,q3,60%
+30/09/2016,"95 Ratoath Est, Cabra, Dublin 7",Dublin,320000.0,No,Cabra,Dublin 7,q4,80%
+07/10/2016,"15 St Fintan Terrace, Cabra, Dublin 7",Dublin,199000.0,No,Cabra,Dublin 7,q2,40%
+12/10/2016,"135 Kilkieran Rd, Cabra West, Dublin 7",Dublin,289000.0,No,Cabra,Dublin 7,q3,70%
+14/10/2016,"57 Ellesmere Ave, Cabra, Dublin 7",Dublin,486500.0,No,Cabra,Dublin 7,q4,100%
+21/10/2016,"58 Glenbeigh Rd, Cabra, Dublin",Dublin,270000.0,No,Cabra,Dublin 7,q3,70%
+21/10/2016,"79 Kilkieran Rd, Cabra West, Dublin 7",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+24/10/2016,"42 St Eitne Rd, Cabra, Dublin 7",Dublin,246000.0,No,Cabra,Dublin 7,q3,60%
+26/10/2016,"105 Annamoe Dr, Cabra, Dublin",Dublin,261595.0,No,Cabra,Dublin 7,q3,60%
+27/10/2016,"14 Galmoy Rd, Cabra, Dublin 7",Dublin,305000.0,No,Cabra,Dublin 7,q3,80%
+27/10/2016,"58 Fassaugh Rd, Cabra, Dublin 7",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+03/11/2016,"87 Quarry Rd, Cabra, Dublin 7",Dublin,212000.0,No,Cabra,Dublin 7,q2,50%
+04/11/2016,"19 Carnlough Rd, Cabra, Dublin 7",Dublin,275000.0,No,Cabra,Dublin 7,q3,70%
+04/11/2016,"76 St Eithne Rd, Cabra Dublin 7, Dublin",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+15/11/2016,"131 Ratoath Est, Cabra West, Dublin 7",Dublin,261000.0,No,Cabra,Dublin 7,q3,60%
+18/11/2016,"15 Quarry Rd, Cabra, Dublin 7",Dublin,251000.0,No,Cabra,Dublin 7,q3,60%
+18/11/2016,"99 Fassaugh Rd, Cabra, Dublin 7",Dublin,250000.0,No,Cabra,Dublin 7,q3,60%
+23/11/2016,"10 Annamoe Terrace, Cabra, Dublin 7",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+23/11/2016,"43 Erris Road, Cabra, Dublin 7",Dublin,280000.0,No,Cabra,Dublin 7,q3,70%
+23/11/2016,"44 Bradogue Court, Annamoe Rd, Cabra Dublin 7",Dublin,185000.0,No,Cabra,Dublin 7,q2,40%
+24/11/2016,"8 Annaly Rd, Cabra, Dublin 7",Dublin,335000.0,No,Cabra,Dublin 7,q4,90%
+28/11/2016,"659 Carnlough Rd, Cabra West, Dublin 7",Dublin,261000.0,No,Cabra,Dublin 7,q3,60%
+30/11/2016,"15 Newgrange Rd, Cabra, Dublin 7",Dublin,286000.0,No,Cabra,Dublin 7,q3,70%
+01/12/2016,"55 Broombridge Rd, Cabra West, Dublin 7",Dublin,211000.0,No,Cabra,Dublin 7,q2,50%
+07/12/2016,"12 Newgrange Road, Cabra, Dublin 7",Dublin,260000.0,No,Cabra,Dublin 7,q3,60%
+07/12/2016,"30 Ventry Rd, Cabra West, Dublin 7",Dublin,260000.0,No,Cabra,Dublin 7,q3,60%
+09/12/2016,"9 Leix Rd, Cabra, Dublin 7",Dublin,333000.0,No,Cabra,Dublin 7,q4,90%
+15/12/2016,"35 Leix Rd, Cabra, Dublin 7",Dublin,229000.0,No,Cabra,Dublin 7,q2,50%
+16/12/2016,"151 St Attractas Rd, Cabra, Dublin 7",Dublin,185000.0,No,Cabra,Dublin 7,q2,40%
+19/12/2016,"101 Annaly Rd, Cabra, Dublin 7",Dublin,312000.0,No,Cabra,Dublin 7,q4,80%
+19/12/2016,"98 Ratoath Est, Cabra West, Dublin 7",Dublin,285000.0,No,Cabra,Dublin 7,q3,70%
+21/12/2016,"194 Quarry Rd, Cabra, Dublin 7",Dublin,340000.0,No,Cabra,Dublin 7,q4,90%
+21/12/2016,"39 Annamoe Dr, Cabra, Dublin 7",Dublin,285000.0,No,Cabra,Dublin 7,q3,70%
+22/12/2016,"314 Carnlough Rd, Cabra West, Dublin 7",Dublin,195000.0,No,Cabra,Dublin 7,q2,40%
+22/12/2016,"38 Drumcliffe Dr, Cabra West, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+30/12/2016,"407 Carnlough Rd, Cabra West, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+05/01/2017,"123 Killala  Road, Cabra, Dublin 7",Dublin,170000.0,No,Cabra,Dublin 7,q2,30%
+12/01/2017,"10 71 Cabra Rd, Dublin 2, Dublin",Dublin,475000.0,No,Cabra,Dublin 7,q4,100%
+12/01/2017,"78 Annmore Dr, Cabra, Dublin 7",Dublin,267000.0,No,Cabra,Dublin 7,q3,70%
+17/01/2017,"Rear 88 New Cabra Rd, Cabra, Dublin 7",Dublin,400000.0,No,Cabra,Dublin 7,q4,100%
+25/01/2017,"12 St Attracta Rd, Cabra, Dublin 7",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+25/01/2017,"6 Bannow Road, Cabra West, Dublin 7",Dublin,220000.0,No,Cabra,Dublin 7,q2,50%
+26/01/2017,"247 Carnlough Rd, Cabra West, Dublin 7",Dublin,200000.0,No,Cabra,Dublin 7,q2,40%
+26/01/2017,"63 Ratoath Est, Cabra, Dublin 7",Dublin,272500.0,No,Cabra,Dublin 7,q3,70%
+31/01/2017,"2 Ventry Road, Cabra West, Dublin 7",Dublin,195000.0,No,Cabra,Dublin 7,q2,40%
+03/02/2017,"144 Annamoe Dr, Cabra, Dublin 7",Dublin,276000.0,No,Cabra,Dublin 7,q3,70%
+15/02/2017,"177 Killala Rd, Cabra West, Dublin 7",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+17/02/2017,"151 Carnlough Rd, Cabra West, Dublin 7",Dublin,311000.0,No,Cabra,Dublin 7,q4,80%
+17/02/2017,"267 Blackhorse Ave, Cabra, Dublin 7",Dublin,327500.0,No,Cabra,Dublin 7,q4,90%
+17/02/2017,"69 St Eithne Rd, Cabra, Dublin 7",Dublin,245000.0,No,Cabra,Dublin 7,q3,60%
+20/02/2017,"20 Hampton Sq, Cabra Rd, Dublin 7",Dublin,350000.0,No,Cabra,Dublin 7,q4,90%
+27/02/2017,"Apt1, 9 Old Cabra Road, Dublin 7",Dublin,340000.0,No,Cabra,Dublin 7,q4,90%
+03/03/2017,"98 Ratoath Est, Cabra West, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,70%
+06/03/2017,"45 Annaly Rd, Cabra, Dublin 7",Dublin,335000.0,No,Cabra,Dublin 7,q4,90%
+09/03/2017,"1A Glendhu Rd, Cabra, Dublin 7",Dublin,342000.0,No,Cabra,Dublin 7,q4,90%
+14/03/2017,"17 Cuala Rd, Cabra, Dublin 7",Dublin,281000.0,No,Cabra,Dublin 7,q3,70%
+24/03/2017,"7 Marlborough Rd, Off Ncr, Cabra Dublin 7",Dublin,515000.0,No,Cabra,Dublin 7,q4,100%
+31/03/2017,"16 Dowth Ave, Cabra, Dublin 7",Dublin,410000.0,No,Cabra,Dublin 7,q4,100%
+06/04/2017,"129 Nephin Rd, Cabra, Dublin 7",Dublin,350000.0,No,Cabra,Dublin 7,q4,90%
+13/04/2017,"18 Fassaugh Ave, Cabra West, Dublin 7",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+18/04/2017,"16 Annamoe Drive, Cabra, Dublin 7",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+19/04/2017,"86 St Eithne Rd, Cabra, Dublin 7",Dublin,190000.0,No,Cabra,Dublin 7,q2,40%
+25/04/2017,"18 Annally Rd, Cabra East, Dublin 7",Dublin,371000.0,No,Cabra,Dublin 7,q4,90%
+27/04/2017,"78 Dingle Rd, Cabra, Dublin 7",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+27/04/2017,"81 Broombridge Rd, Cabra West, Dublin 7",Dublin,262000.0,No,Cabra,Dublin 7,q3,60%
+28/04/2017,"18 St Attracta Rd, Cabra East, Dublin 7",Dublin,192000.0,No,Cabra,Dublin 7,q2,40%
+03/05/2017,"14 St Jarlath Rd, Cabra, Dublin 7",Dublin,267000.0,No,Cabra,Dublin 7,q3,70%
+05/05/2017,"10 St Fintan'S Road, Cabra, Dublin 7",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+10/05/2017,"26 St Attracta Rd, Cabra, Dublin 7",Dublin,110000.0,No,Cabra,Dublin 7,q1,10%
+15/05/2017,"21 Fassaugh Avenue, Cabra West, Dublin 7",Dublin,302000.0,No,Cabra,Dublin 7,q3,80%
+19/05/2017,"1A Blackhorse Downs, Blackhorse Ave, Cabra Dublin 7",Dublin,890000.0,No,Cabra,Dublin 7,q4,100%
+26/05/2017,"9 Rose Court, New Cabra Road, Dublin 7",Dublin,179000.0,No,Cabra,Dublin 7,q2,30%
+29/05/2017,"228 St Attracta Rd, Cabra, Dublin 7",Dublin,320000.0,No,Cabra,Dublin 7,q4,80%
+01/06/2017,"29 Ventry Rd, Cabra, Dublin 07",Dublin,230000.0,No,Cabra,Dublin 7,q2,50%
+02/06/2017,"20 Inver Rd, Cabra West, Dublin 7",Dublin,240000.0,No,Cabra,Dublin 7,q3,60%
+02/06/2017,"37 Old Cabra Rd, Dublin 7, Dublin",Dublin,640000.0,No,Cabra,Dublin 7,q4,100%
+07/06/2017,"12 Rosecourt, Cabra Rd, Dublin 7",Dublin,198000.0,No,Cabra,Dublin 7,q2,40%
+09/06/2017,"14 Kilkieran Rd, Cabra West, Dublin 7",Dublin,262000.0,No,Cabra,Dublin 7,q3,60%
+23/06/2017,"30 Carnlough Rd, Cabra, Dublin 7",Dublin,375000.0,No,Cabra,Dublin 7,q4,90%
+03/07/2017,"85 St Attracta Rd, Cabra, Dublin 7",Dublin,210000.0,No,Cabra,Dublin 7,q2,50%
+06/07/2017,"10 Swilly Rd, Cabra West, Dublin 7",Dublin,95000.0,No,Cabra,Dublin 7,q1,10%
+07/07/2017,"34 Quarry Rd, Cabra, Dublin 7",Dublin,205000.0,No,Cabra,Dublin 7,q2,40%
+07/07/2017,"36 Liscannor Rd, Cabra West, Dublin",Dublin,236000.0,No,Cabra,Dublin 7,q3,60%
+14/07/2017,"12 Ventry Rd, Cabra, Dublin 7",Dublin,300000.0,No,Cabra,Dublin 7,q3,80%
+14/07/2017,"169 St Attracta Rd, Cabra, Dublin 7",Dublin,257000.0,No,Cabra,Dublin 7,q3,60%
+24/07/2017,"13 Annamoe Drive, Cabra, Dublin 7",Dublin,330000.0,No,Cabra,Dublin 7,q4,90%
+27/07/2017,"66 Old Cabra Rd, Dublin 7, Dublin",Dublin,475000.0,No,Cabra,Dublin 7,q4,100%
+28/07/2017,"190 Quarry Rd, Cabra, Dublin 7",Dublin,297500.0,No,Cabra,Dublin 7,q3,80%
+01/08/2017,"639 Carnlough Road, Cabra West, Dublin 7",Dublin,230000.0,No,Cabra,Dublin 7,q2,50%
+04/08/2017,"263 Carnlough Rd, Cabra West, Dublin",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+04/08/2017,"320 Carnlough Rd, Cabra, Dublin 7",Dublin,344000.0,No,Cabra,Dublin 7,q4,90%
+08/08/2017,"139 Cabra Rd, Dublin 7, Dublin",Dublin,587000.0,No,Cabra,Dublin 7,q4,100%
+09/08/2017,"105 St Jarlath Rd, Cabra, Dublin 7",Dublin,340000.0,No,Cabra,Dublin 7,q4,90%
+09/08/2017,"97 St Jarlaths Rd, Cabra, Dublin City",Dublin,330000.0,No,Cabra,Dublin 7,q4,90%
+11/08/2017,"219 Navan Rd, Cabra, Dublin 7",Dublin,715000.0,No,Cabra,Dublin 7,q4,100%
+22/08/2017,"37 St Eithne Rd, Cabra, Dublin 7",Dublin,310000.0,No,Cabra,Dublin 7,q3,80%
+25/08/2017,"76 Ellesmere Ave, Cabra, Dublin 7",Dublin,600000.0,No,Cabra,Dublin 7,q4,100%
+29/08/2017,"111 Carnlough Rd, Cabra West, Dublin 7",Dublin,303000.0,No,Cabra,Dublin 7,q3,80%
+01/09/2017,"121 Ratoath Rd, Cabra West, Dublin 7",Dublin,265000.0,No,Cabra,Dublin 7,q3,60%
+01/09/2017,"70 Swilly Road, Cabra West, Dublin 7",Dublin,320000.0,No,Cabra,Dublin 7,q4,80%
+11/09/2017,"331 Bannow Rd, Cabra, Dublin 7",Dublin,279000.0,No,Cabra,Dublin 7,q3,70%
+20/09/2017,"106 Killala Rd, Cabra West, Dublin 7",Dublin,260000.0,No,Cabra,Dublin 7,q3,60%
+22/09/2017,"Windfield, 215 Cabra Rd, Dublin 7",Dublin,588000.0,No,Cabra,Dublin 7,q4,100%
+26/09/2017,"30 Ratoath Est, Cabra, Dublin 7",Dublin,321000.0,No,Cabra,Dublin 7,q4,80%
+29/09/2017,"98 Drumcliffe Rd, Cabra, Dublin 7",Dublin,380000.0,No,Cabra,Dublin 7,q4,90%
+03/10/2017,"9 Croagh Patrick Rd, Cabra, Dublin 7",Dublin,560000.0,No,Cabra,Dublin 7,q4,100%
+06/10/2017,"37 Glenbeigh Rd, Old Cabra Rd, Dublin 7",Dublin,315000.0,No,Cabra,Dublin 7,q4,80%
+12/10/2017,"481 Carnlough Rd, Cabra, Dublin 7",Dublin,260000.0,No,Cabra,Dublin 7,q3,60%
+26/10/2017,"14 Annamoe Dr, Cabra, Dublin 7",Dublin,388500.0,No,Cabra,Dublin 7,q4,90%
+27/10/2017,"2 D Quarry Road, Cabra, Dublin 7",Dublin,340000.0,No,Cabra,Dublin 7,q4,90%
+03/11/2017,"29 Old Cabra Rd, Cabra, Dublin 7",Dublin,426000.0,No,Cabra,Dublin 7,q4,100%
+03/11/2017,"68 Bannow Rd Cabra West, Dublin",Dublin,315000.0,No,Cabra,Dublin 7,q4,80%
+03/11/2017,"Apt 1-3, 34 New Cabra Rd, Dublin 7",Dublin,345000.0,No,Cabra,Dublin 7,q4,90%
+13/11/2017,"87 St Attracta Rd, Cabra, Dublin 7",Dublin,356000.0,No,Cabra,Dublin 7,q4,90%
+16/11/2017,"118 / 120 Cabra Park, Cabra, Dublin 7",Dublin,951000.0,No,Cabra,Dublin 7,q4,100%
+22/11/2017,"Apt 5, 9 Old Cabra Road, Dublin 7",Dublin,650000.0,No,Cabra,Dublin 7,q4,100%
+24/11/2017,"153 Rathoath Rd, Cabra West, Dublin 7",Dublin,150000.0,No,Cabra,Dublin 7,q1,30%
+04/12/2017,"108 Nephin Rd, Cabra, Dublin 7",Dublin,430000.0,No,Cabra,Dublin 7,q4,100%
+04/12/2017,"22 St Fintan Rd, Cabra, Dublin",Dublin,305000.0,No,Cabra,Dublin 7,q3,80%
+05/12/2017,"7 Old Cabra Road, Cabra, Dublin 7",Dublin,370100.0,No,Cabra,Dublin 7,q4,90%
+07/12/2017,"1Cabra Park, Dublin 7, Dublin",Dublin,570000.0,No,Cabra,Dublin 7,q4,100%
+07/12/2017,"5 Cabra Park, Dublin 7",Dublin,692000.0,No,Cabra,Dublin 7,q4,100%
+13/12/2017,"48 Annamoe Dr, Cabra, Dublin 7",Dublin,350000.0,No,Cabra,Dublin 7,q4,90%
+19/12/2017,"68 Offaly Road, Cabra, Dublin 7",Dublin,360000.0,No,Cabra,Dublin 7,q4,90%
+20/12/2017,"56 Fassaugh Road, Cabra, Dublin 7",Dublin,350000.0,No,Cabra,Dublin 7,q4,90%
+21/12/2017,"152 Carnlough Rd, Cabra West, Dublin 7",Dublin,350000.0,No,Cabra,Dublin 7,q4,90%
+21/12/2017,"37 Dowth Ave, Cabra West, Dublin 7",Dublin,250000.0,No,Cabra,Dublin 7,q3,60%
+08/01/2018,"89 Bannow Rd, Cabra West, Dublin 7",Dublin,299950.0,No,Cabra,Dublin 7,q3,80%
+08/01/2018,"93 Carnlough Rd, Cabra Rd, Cabra Dublin 7",Dublin,230000.0,No,Cabra,Dublin 7,q2,50%
+12/01/2018,"67 Cabra Road, Dublin 7",Dublin,470000.0,No,Cabra,Dublin 7,q4,100%
+26/01/2018,"65 Annamoe Terrace, Cabra, Dublin 7",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+31/01/2018,"5 Offaly Rd, Cabra, Dublin",Dublin,370000.0,No,Cabra,Dublin 7,q4,90%
+05/02/2018,"4 Liscannor Road, Cabra West, Dublin 7",Dublin,304300.0,No,Cabra,Dublin 7,q3,80%
+07/02/2018,"3 Annamoe Park, Cabra, Dublin 7",Dublin,370000.0,No,Cabra,Dublin 7,q4,90%
+08/02/2018,"47 Liscannor Rd, Cabra West, Dublin City",Dublin,245000.0,No,Cabra,Dublin 7,q3,60%
+12/02/2018,"237 Carnlough Rd, Cabra, Dublin 7",Dublin,370000.0,No,Cabra,Dublin 7,q4,90%
+19/02/2018,"11 Offaly Rd, Cabra, Dublin 7",Dublin,415000.0,No,Cabra,Dublin 7,q4,100%
+19/02/2018,"122 Nephin Rd, Cabra, Dublin 7",Dublin,495000.0,No,Cabra,Dublin 7,q4,100%
+19/02/2018,"132 St Attracta Rd, Cabra, Dublin 7",Dublin,374000.0,No,Cabra,Dublin 7,q4,90%
+26/02/2018,"33 St Eithne Road, Cabra, Dublin 7",Dublin,280000.0,No,Cabra,Dublin 7,q3,70%
+28/02/2018,"2 Inver Rd, Cabra, Dublin 7",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+28/03/2018,"8 Cabra Dr, Nth Circular Rd, Dublin 7",Dublin,520000.0,No,Cabra,Dublin 7,q4,100%
+29/03/2018,"5 Drumcliffe Dr, Cabra, Dublin 7",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+10/04/2018,"Apt 7, 192A New Cabra Rd, Dublin 7",Dublin,175000.0,No,Cabra,Dublin 7,q2,30%
+16/04/2018,"19 Leix Rd, Cabra, Dublin 7",Dublin,355000.0,No,Cabra,Dublin 7,q4,90%
+18/04/2018,"160 Killala Rd, Cabra, Dublin 7",Dublin,305000.0,No,Cabra,Dublin 7,q3,80%
+18/04/2018,"179 Ratoath Rd, Cabra West, Dublin 7",Dublin,315000.0,No,Cabra,Dublin 7,q4,80%
+27/04/2018,"23 Cabra Rd, Cabra, Dublin 7",Dublin,1300000.0,No,Cabra,Dublin 7,q4,100%
+27/04/2018,"58 Killala Rd, Cabra West, Dublin 7",Dublin,301000.0,No,Cabra,Dublin 7,q3,80%
+03/05/2018,"Franciscan Sisterhood, 1-1A Cabra Grove, Cabra",Dublin,510000.0,No,Cabra,Dublin 7,q4,100%
+04/05/2018,"12 Offaly Rd, Cabra, Dublin 7",Dublin,292000.0,No,Cabra,Dublin 7,q3,70%
+04/05/2018,"8 Cuala Rd, Cabra, Dublin",Dublin,423000.0,No,Cabra,Dublin 7,q4,100%
+16/05/2018,"4 Dunmanus Rd, Cabra West, Dublin 7",Dublin,290000.0,No,Cabra,Dublin 7,q3,70%
+23/05/2018,"7 Killala Rd, Cabra, Dublin 7",Dublin,322000.0,No,Cabra,Dublin 7,q4,80%
+23/05/2018,"96 Dingle Rd, Cabra West, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,70%
+24/05/2018,"8 Annamoe Terrace, Cabra, Dublin 7",Dublin,313000.0,No,Cabra,Dublin 7,q4,80%
+28/05/2018,"40 Swilly Rd, Cabra, Dublin 7",Dublin,380000.0,No,Cabra,Dublin 7,q4,90%
+31/05/2018,"281 St Attracta Rd, Cabra, Dublin 7",Dublin,225620.0,No,Cabra,Dublin 7,q2,50%
+01/06/2018,"211 Killala Rd, Cabra West, Dublin 7",Dublin,328000.0,No,Cabra,Dublin 7,q4,90%
+11/06/2018,"69 Ratoath Rd, Cabra, Dublin 7",Dublin,150000.0,No,Cabra,Dublin 7,q1,30%
+13/06/2018,"55 St Jarlath Rd, Cabra, Dublin 7",Dublin,400000.0,No,Cabra,Dublin 7,q4,100%
+14/06/2018,"3 Inver Rd, Cabra, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,80%
+19/06/2018,"53 Broombridge Rd, Cabra West, Dublin 7",Dublin,282000.0,No,Cabra,Dublin 7,q3,70%
+26/06/2018,"21 Annaly Rd, Cabra, Dublin 7",Dublin,374000.0,No,Cabra,Dublin 7,q4,90%
+26/06/2018,"22 Drumcliffe Rd, Cabra, Dublin 7",Dublin,396000.0,No,Cabra,Dublin 7,q4,100%
+05/07/2018,"198 Quarry Rd, Cabra, Dublin 7",Dublin,375000.0,No,Cabra,Dublin 7,q4,90%
+06/07/2018,"23 Cabra Rd, Cabra, Dublin 7",Dublin,1300000.0,No,Cabra,Dublin 7,q4,100%
+11/07/2018,"187 Killala Road, Cabra West, Dublin 7",Dublin,273000.0,No,Cabra,Dublin 7,q3,70%
+17/07/2018,"58 Dingle Rd, Cabra, Dublin 7",Dublin,334750.0,No,Cabra,Dublin 7,q4,90%
+18/07/2018,"59 Drumcliffe Rd, Cabra, Dublin 7",Dublin,345000.0,No,Cabra,Dublin 7,q4,90%
+19/07/2018,"4 Swilly Rd, Cabra West, Dublin 7",Dublin,329000.0,No,Cabra,Dublin 7,q4,90%
+26/07/2018,"138 Quarry Rd, Cabra, Dublin 7",Dublin,357500.0,No,Cabra,Dublin 7,q4,90%
+27/07/2018,"Saint Anthony'S, 1 Cabra Grove, Cabra",Dublin,445000.0,No,Cabra,Dublin 7,q4,100%
+01/08/2018,"427 Carnlough Road, Cabra West, Dublin 7",Dublin,310000.0,No,Cabra,Dublin 7,q3,80%
+03/08/2018,"53 Annamoe Park, Cabra, Dublin 7",Dublin,390000.0,No,Cabra,Dublin 7,q4,90%
+08/08/2018,"120 Annamoe Dr, Cabra, Dublin 7",Dublin,317000.0,No,Cabra,Dublin 7,q4,80%
+08/08/2018,"289 Carnlough Rd, Cabra West, Dublin 7",Dublin,255000.0,No,Cabra,Dublin 7,q3,60%
+10/08/2018,"37 Mulroy Rd, Cabra, Dublin 7",Dublin,305000.0,No,Cabra,Dublin 7,q3,80%
+16/08/2018,"32 Mulroy Rd, Cabra West, Dublin 7",Dublin,275000.0,No,Cabra,Dublin 7,q3,70%
+17/08/2018,"126 Quarry Rd, Cabra, Dublin",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+17/08/2018,"68 St Jarlath Rd, Cabra, Dublin",Dublin,302000.0,No,Cabra,Dublin 7,q3,80%
+27/08/2018,"66 Annamoe Terrace, Cabra, Dublin 7",Dublin,321000.0,No,Cabra,Dublin 7,q4,80%
+28/08/2018,"29 St Attracta Rd, Cabra, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,80%
+03/09/2018,"12 Quarry Road, Cabra, Dublin 7",Dublin,402000.0,No,Cabra,Dublin 7,q4,100%
+03/09/2018,"210 Carnlough Rd, Cabra, Dublin 7",Dublin,346000.0,No,Cabra,Dublin 7,q4,90%
+04/09/2018,"21 Annamoe Drive, Cabra, Dublin 7",Dublin,375000.0,No,Cabra,Dublin 7,q4,90%
+13/09/2018,"75 Old Cabra Rd, Dublin 7, Dublin",Dublin,10000.0,No,Cabra,Dublin 7,q1,10%
+17/09/2018,"12 Broombridge Rd, Cabra, Dublin 7",Dublin,385000.0,No,Cabra,Dublin 7,q4,90%
+18/09/2018,"1 Mulroy Rd, Cabra, Dublin 7",Dublin,300000.0,No,Cabra,Dublin 7,q3,80%
+21/09/2018,"247 Carnlough Rd, Cabra West, Dublin 7",Dublin,245000.0,No,Cabra,Dublin 7,q3,60%
+24/09/2018,"13 Ratoath Rd, Cabra West, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,80%
+25/09/2018,"116 St Attracta Road, Cabra, Dublin 7",Dublin,349000.0,No,Cabra,Dublin 7,q4,90%
+28/09/2018,"1 Delvin Rd, Cabra East, Dublin 7",Dublin,380000.0,No,Cabra,Dublin 7,q4,90%
+02/10/2018,"2A St Jarlath Road, Cabra, Dublin 7",Dublin,365000.0,No,Cabra,Dublin 7,q4,90%
+04/10/2018,"13 Imaal Rd, Cabra, Dublin 7",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+11/10/2018,"27 Drumcliffe Rd, Cabra West, Dublin 7",Dublin,301000.0,No,Cabra,Dublin 7,q3,80%
+11/10/2018,"353 Carnlough Rd, Cabra, Dublin 7",Dublin,339000.0,No,Cabra,Dublin 7,q4,90%
+18/10/2018,"173 St Attracta Rd, Cabra, Dublin 7",Dublin,215000.0,No,Cabra,Dublin 7,q2,50%
+24/10/2018,"137 Annamoe Dr, Cabra, Dublin",Dublin,260000.0,No,Cabra,Dublin 7,q3,60%
+26/10/2018,"71 Swilly Rd, Cabra West, Dublin 7",Dublin,330000.0,No,Cabra,Dublin 7,q4,90%
+14/11/2018,"120 Quarry Road, Cabra, Dublin 7",Dublin,415000.0,No,Cabra,Dublin 7,q4,100%
+16/11/2018,"186 St Attracta Rd, Cabra, Dublin 7",Dublin,344000.0,No,Cabra,Dublin 7,q4,90%
+19/11/2018,"89 St Eithne Rd, Cabra, Dublin 7",Dublin,305000.0,No,Cabra,Dublin 7,q3,80%
+03/12/2018,"106 Newgrange Rd, Cabra, Dublin 7",Dublin,520000.0,No,Cabra,Dublin 7,q4,100%
+07/12/2018,"313 Ratoath Rd, Cabra, Dublin 7",Dublin,374000.0,No,Cabra,Dublin 7,q4,90%
+11/12/2018,"43 Cabra Dr, Off The North Circular Rd, Cabra Dublin 7",Dublin,518000.0,No,Cabra,Dublin 7,q4,100%
+13/12/2018,"19 Bregia Rd, Cabra, Dublin 7",Dublin,335000.0,No,Cabra,Dublin 7,q4,90%
+17/12/2018,"16 Rosecourt, Cabra Rd, Dublin",Dublin,245000.0,No,Cabra,Dublin 7,q3,60%
+18/12/2018,"14 Erris Rd, Cabra, Dublin 7",Dublin,275000.0,No,Cabra,Dublin 7,q3,70%
+19/12/2018,"19 Infirmary Rd, Cabra, Dublin 7",Dublin,525000.0,No,Cabra,Dublin 7,q4,100%
+20/12/2018,"87 St Jarlath Road, Cabra, Dublin 7",Dublin,298000.0,No,Cabra,Dublin 7,q3,80%
+21/12/2018,"44 Inver Rd, Cabra West, Dublin 7",Dublin,205000.0,No,Cabra,Dublin 7,q2,40%
+10/01/2019,"273 Ratoath Rd, Cabra, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,80%
+24/01/2019,"158 Quary Rd, Cabra, Dublin",Dublin,230000.0,No,Cabra,Dublin 7,q2,50%
+04/02/2019,"529 Carnlough Rd, Cabra West, Dublin 7",Dublin,251500.0,No,Cabra,Dublin 7,q3,60%
+04/02/2019,"96 Old Cabra Rd, Dublin 7, Dublin",Dublin,216666.0,No,Cabra,Dublin 7,q2,50%
+08/02/2019,"11 Annamoe Drive, Cabra, Dublin 7",Dublin,192000.0,No,Cabra,Dublin 7,q2,40%
+11/02/2019,"208 St Attracta Rd, Cabra, Dublin 7",Dublin,320000.0,No,Cabra,Dublin 7,q4,80%
+11/02/2019,"89 Broombridge Rd, Cabra West, Dublin 7",Dublin,340000.0,No,Cabra,Dublin 7,q4,90%
+21/02/2019,"6 St Finbar Road, Cabra, Dublin 7",Dublin,380000.0,No,Cabra,Dublin 7,q4,90%
+25/02/2019,"26 Bannow Rd, Cabra, Dublin 7",Dublin,287000.0,No,Cabra,Dublin 7,q3,70%
+25/02/2019,"39 Erris Rd, Cabra, Dublin 7",Dublin,155000.0,No,Cabra,Dublin 7,q1,30%
+26/02/2019,"154 Carnlough Road, Cabra West, Dublin 7",Dublin,267500.0,No,Cabra,Dublin 7,q3,70%
+07/03/2019,"55 Bannow Rd, Cabra, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,80%
+08/03/2019,"Apartment Overhead, 95 Cabra Road, Cabra",Dublin,100000.0,No,Cabra,Dublin 7,q1,10%
+14/03/2019,"35 Cabra Dr, Cabra, Dublin 7",Dublin,563000.0,No,Cabra,Dublin 7,q4,100%
+22/03/2019,"29 Quarry Rd, Cabra, Dublin 7",Dublin,318000.0,No,Cabra,Dublin 7,q4,80%
+25/03/2019,"59 Annaly Rd, Cabra, Dublin 7",Dublin,300000.0,No,Cabra,Dublin 7,q3,80%
+25/03/2019,"9 Fassaugh Rd, Cabra, Dublin 7",Dublin,301000.0,No,Cabra,Dublin 7,q3,80%
+29/03/2019,"37 Annamoe Rd, Cabra, Dublin City",Dublin,612500.0,No,Cabra,Dublin 7,q4,100%
+29/03/2019,"51 Bannow Road, Cabra, Dublin 7",Dublin,317000.0,No,Cabra,Dublin 7,q4,80%
+01/04/2019,"49 Killala Rd, Cabra West, Dublin 7",Dublin,266900.0,No,Cabra,Dublin 7,q3,70%
+01/04/2019,"66 Old Cabra Rd, Dublin 7, Dublin",Dublin,550000.0,No,Cabra,Dublin 7,q4,100%
+04/04/2019,"30 Annamoe Terrace, Cabra, Dublin",Dublin,283500.0,No,Cabra,Dublin 7,q3,70%
+08/04/2019,"31 Hamilton Square, Bannow Road, Cabra",Dublin,200000.0,Yes,Cabra,Dublin 7,q2,40%
+10/04/2019,"64 Bannow Rd, Cabra, Dublin 7",Dublin,278500.0,No,Cabra,Dublin 7,q3,70%
+11/04/2019,"122 St Eithne Rd, Cabra, Dublin 7",Dublin,265000.0,No,Cabra,Dublin 7,q3,70%
+11/04/2019,"150 Carnlough Rd, Cabra, Dublin 7",Dublin,289450.09,No,Cabra,Dublin 7,q3,70%
+17/04/2019,"66 Drumcliffe Rd, Cabra, Dublin",Dublin,370000.0,No,Cabra,Dublin 7,q4,90%
+18/04/2019,"105 Attracta Rd, Cabra, Dublin 7",Dublin,290000.0,No,Cabra,Dublin 7,q3,70%
+01/05/2019,"149 Killala Road, Cabra, Dublin 7",Dublin,65000.0,No,Cabra,Dublin 7,q1,10%
+03/05/2019,"44 Dowth Ave, Cabra, Dublin 7",Dublin,308350.0,No,Cabra,Dublin 7,q3,80%
+03/05/2019,"90 Leix Rd, Cabra, Dublin 7",Dublin,325000.0,No,Cabra,Dublin 7,q4,80%
+03/05/2019,"The Coachouse, 288 Bannow Rd, Cabra",Dublin,140000.0,No,Cabra,Dublin 7,q1,20%
+08/05/2019,"40 St Attracta Road, Cabra, Dublin 7",Dublin,320000.0,No,Cabra,Dublin 7,q4,80%
+15/05/2019,"1 Convent View Cottages, Ratoath Rd, Cabra Dublin 7",Dublin,345000.0,No,Cabra,Dublin 7,q4,90%
+15/05/2019,"129 Annamoe Dr, Cabra, Dublin 7",Dublin,280000.0,No,Cabra,Dublin 7,q3,70%
+23/05/2019,"49 Bradogue Court, Annamoe Rd, Cabra Dublin 7",Dublin,327000.0,No,Cabra,Dublin 7,q4,80%
+23/05/2019,"85 St Eithne Rd, Cabra, Dublin 7",Dublin,258614.0,No,Cabra,Dublin 7,q3,60%
+24/05/2019,"4 St Eithne Rd, Cabra, Dublin 7",Dublin,367500.0,No,Cabra,Dublin 7,q4,90%
+28/05/2019,"278 Carnlough Rd, Cabra, Dublin 7",Dublin,316000.0,No,Cabra,Dublin 7,q4,80%
+31/05/2019,"193 New Cabra Road, Dublin 7",Dublin,576000.0,No,Cabra,Dublin 7,q4,100%
+31/05/2019,"79 Quarry Road, Cabra, Dublin 7",Dublin,300000.0,No,Cabra,Dublin 7,q3,80%
+05/06/2019,"4 Erris Road, Cabra, Dublin 7",Dublin,150000.0,No,Cabra,Dublin 7,q1,30%
+07/06/2019,"1 Annaly Rd, Cabra, Dublin 7",Dublin,355000.0,No,Cabra,Dublin 7,q4,90%
+13/06/2019,"38 Glenbeigh Rd, Cabra, Dublin 7",Dublin,395000.0,No,Cabra,Dublin 7,q4,100%
+14/06/2019,"131 Bannow Rd, Cabra West, Dublin 7",Dublin,268000.0,No,Cabra,Dublin 7,q3,70%
+14/06/2019,"27 St Jarlath Road, Cabra, Dublin 7",Dublin,270000.0,No,Cabra,Dublin 7,q3,70%
+24/06/2019,"28 Offaly Rd, Cabra, Dublin 5",Dublin,315000.0,No,Cabra,Dublin 7,q4,80%
+24/06/2019,"47A Mckee Park, Cabra, Dublin 7",Dublin,310000.0,No,Cabra,Dublin 7,q3,80%
+24/06/2019,"88 Leix Rd, Cabra, Dublin 7",Dublin,350000.0,No,Cabra,Dublin 7,q4,90%
+26/06/2019,"11 Annamoe Drive, Cabra, Dublin 7",Dublin,254000.0,No,Cabra,Dublin 7,q3,60%
+27/06/2019,"107 Annaly Rd, Cabra, Dublin 7",Dublin,160000.0,No,Cabra,Dublin 7,q1,30%
+05/07/2019,"335 St Attracta Rd, Cabra, Dublin 7",Dublin,292000.0,No,Cabra,Dublin 7,q3,70%
+05/07/2019,"5 Old Cabra Rd, Dublin 7, Dublin",Dublin,435000.0,No,Cabra,Dublin 7,q4,100%
+10/07/2019,"10 Swilly Rd, Cabra West, Dublin 7",Dublin,330000.0,No,Cabra,Dublin 7,q4,90%
+12/07/2019,"46 Liscannor Rd, Cabra, Dublin 7",Dublin,320000.0,No,Cabra,Dublin 7,q4,80%
+17/07/2019,"1 Delvin Rd, Cabra East, Dublin 7",Dublin,407000.0,No,Cabra,Dublin 7,q4,100%
+17/07/2019,"28 Annamoe Dr, Cabra East, Dublin",Dublin,335000.0,No,Cabra,Dublin 7,q4,90%
+30/07/2019,"161 St. Attracta Rd, Cabra, Dublin 7",Dublin,290000.0,No,Cabra,Dublin 7,q3,70%
+01/08/2019,"178 Carnlough Rd, Cabra, Dublin 7",Dublin,283000.0,No,Cabra,Dublin 7,q3,70%
+13/08/2019,"33 St Jarlath Road, Cabra, Dublin 7",Dublin,415000.0,No,Cabra,Dublin 7,q4,100%
+14/08/2019,"27 Killala Rd, Cabra West, Dublin 7",Dublin,287500.0,No,Cabra,Dublin 7,q3,70%
+16/08/2019,"103 Annamoe Dr, Cabra, Dublin",Dublin,334500.0,No,Cabra,Dublin 7,q4,90%
+16/08/2019,"315 Carnlough Rd, Cabra West, Dublin 7",Dublin,273000.0,No,Cabra,Dublin 7,q3,70%
+26/08/2019,"13 St Fintan Terrace, Cabra, Dublin 7",Dublin,264000.0,No,Cabra,Dublin 7,q3,60%
+26/08/2019,"218 Carnlough Rd, Cabra, Dublin 7",Dublin,265000.0,No,Cabra,Dublin 7,q3,70%
+29/08/2019,"3 Kilkernan Rd, Cabra West, Dublin 7",Dublin,290000.0,No,Cabra,Dublin 7,q3,70%
+30/08/2019,"17 Dowth Avenue, Cabra, Dublin 7",Dublin,270000.0,No,Cabra,Dublin 7,q3,70%
+30/08/2019,"343 Blackhorse Ave, Cabra, Dublin 7",Dublin,600000.0,No,Cabra,Dublin 7,q4,100%
+30/08/2019,"47 Swilly Rd, Cabra, Dublin 7",Dublin,320000.0,No,Cabra,Dublin 7,q4,80%
+05/09/2019,"12 Imaal Rd, Cabra, Dublin 7",Dublin,327000.0,No,Cabra,Dublin 7,q4,80%
+05/09/2019,"45 Bannow Road, Cabra West, Dublin 7",Dublin,327000.0,No,Cabra,Dublin 7,q4,90%
+11/09/2019,"140 New Cabra Road, Dublin 7",Dublin,642000.0,No,Cabra,Dublin 7,q4,100%
+13/09/2019,"176 Killala Rd, Cabra, Dublin 7",Dublin,300000.0,No,Cabra,Dublin 7,q3,80%
+13/09/2019,"253 Carnlough Rd, Cabra, Dublin 7",Dublin,317500.0,No,Cabra,Dublin 7,q4,80%
+19/09/2019,"120 Dingle Rd West, Cabra, Dublin",Dublin,292000.0,No,Cabra,Dublin 7,q3,70%
+19/09/2019,"77 Quarry Rd, Cabra, Dublin 7",Dublin,295000.0,No,Cabra,Dublin 7,q3,80%
+20/09/2019,"157 Dingle Rd, Cabra, Dublin",Dublin,303000.0,No,Cabra,Dublin 7,q3,80%
+20/09/2019,"2 St Jarlath Rd, Cabra, Dublin 7",Dublin,323000.0,No,Cabra,Dublin 7,q4,80%
+24/09/2019,"25 St Fintan Rd, Cabra, Dublin 7",Dublin,225000.0,No,Cabra,Dublin 7,q2,50%
+24/09/2019,"75, Dingle Road, Cabra Dublin 7",Dublin,270000.0,No,Cabra,Dublin 7,q3,70%
+25/09/2019,"379 Carnlough Rd, Cabra, Dublin 7",Dublin,263500.0,No,Cabra,Dublin 7,q3,60%
+26/09/2019,"39 Annamoe Terrace, Cabra, Dublin 7",Dublin,365000.0,No,Cabra,Dublin 7,q4,90%
+27/09/2019,"43 Lisconnor Rd, Cabra West, Dublin 7",Dublin,390000.0,No,Cabra,Dublin 7,q4,90%
+02/10/2019,"110 Cabra Road, Cabra, Dublin 7",Dublin,605000.0,No,Cabra,Dublin 7,q4,100%
+02/10/2019,"18 Cabra Dr, Dublin 7, Dublin",Dublin,535000.0,No,Cabra,Dublin 7,q4,100%
+07/10/2019,"16 Erris Rd, Cabra, Dublin 7",Dublin,335000.0,No,Cabra,Dublin 7,q4,90%
+09/10/2019,"41 Bannow Road, Cabra West, Dublin 7",Dublin,237000.0,No,Cabra,Dublin 7,q3,60%
+11/10/2019,"314 Carnlough Rd, Cabra West, Dublin 7",Dublin,368000.0,No,Cabra,Dublin 7,q4,90%
+17/10/2019,"44 Mulroy Rd, Cabra West, Dublin",Dublin,285000.0,No,Cabra,Dublin 7,q3,70%
+21/10/2019,"129 Killala Road, Cabra West, Dublin 7",Dublin,285000.0,No,Cabra,Dublin 7,q3,70%
+21/10/2019,"18 Fertullagh Rd, Cabra, Dublin 7",Dublin,400000.0,No,Cabra,Dublin 7,q4,100%
+21/10/2019,"68 Killala Rd, Cabra, Dublin 7",Dublin,350000.0,No,Cabra,Dublin 7,q4,90%
+25/10/2019,"35 Jarlath Rd, Cabra, Dublin 7",Dublin,290000.0,No,Cabra,Dublin 7,q3,70%

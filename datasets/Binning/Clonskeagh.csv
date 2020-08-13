@@ -1,0 +1,543 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+06/01/2010,"31 Gledswood Park, Clonskeagh, Dublin 14",Dublin,385000.0,No,Clonskeagh,Dublin 14,q1,30%
+18/01/2010,"9 Whitebeam Road, Clonskeagh",Dublin,820000.0,No,Clonskeagh,Dublin 14,q4,90%
+29/01/2010,"4 The Palms, Roebuck Road, Clonskeagh",Dublin,595000.0,No,Clonskeagh,Dublin 14,q3,60%
+18/02/2010,"9 Gledswood Park, Clonskeagh, Dublin 14",Dublin,500000.0,No,Clonskeagh,Dublin 14,q2,50%
+30/03/2010,"40 Louvain, Ardilea, Clonskeagh",Dublin,1175000.0,No,Clonskeagh,Dublin 14,q4,100%
+23/04/2010,"15 Rosemount Crescent, Roebuck Road, Clonskeagh",Dublin,875000.0,No,Clonskeagh,Dublin 14,q4,90%
+23/04/2010,"7  Roebuck Lawn, Clonskeagh",Dublin,638000.0,No,Clonskeagh,Dublin 14,q3,70%
+27/04/2010,"16 Roebuck Road, Clonskeagh, Dublin 14",Dublin,700000.0,No,Clonskeagh,Dublin 14,q3,70%
+27/05/2010,"33 Bird Avenue, Clonskeagh",Dublin,536000.0,No,Clonskeagh,Dublin 14,q3,60%
+10/06/2010,"The Graan, Roebuck Rd, Clonskeagh",Dublin,550000.0,No,Clonskeagh,Dublin 14,q3,60%
+14/06/2010,"1 Heidelberg, Clonskeagh",Dublin,500000.0,No,Clonskeagh,Dublin 14,q2,50%
+17/06/2010,"91 White Oaks, Clonskeagh",Dublin,235000.0,No,Clonskeagh,Dublin 14,q1,10%
+29/06/2010,"13 Orghard Square, Bird Ave, Clonskeagh",Dublin,235000.0,No,Clonskeagh,Dublin 14,q1,10%
+30/06/2010,"Rosbeg, 58 Robuck Road, Clonskeagh",Dublin,567000.0,No,Clonskeagh,Dublin 14,q3,60%
+30/07/2010,"134 The Maples, Bird Avenue, Clonskeagh  Dublin 14",Dublin,495000.0,No,Clonskeagh,Dublin 14,q2,50%
+09/08/2010,"25 Gledswood Avenue, Clonskeagh, Dublin",Dublin,460000.0,No,Clonskeagh,Dublin 14,q2,40%
+03/09/2010,"14 Whitebeam Road, Clonskeagh, Dublin",Dublin,755000.0,No,Clonskeagh,Dublin 14,q3,80%
+09/09/2010,"36 Gledswood Park, Clonskeagh",Dublin,527000.0,No,Clonskeagh,Dublin 14,q2,50%
+10/09/2010,"18 The Maples, Bird Avenue, Clonskeagh",Dublin,460000.0,No,Clonskeagh,Dublin 14,q2,40%
+15/10/2010,"53 Roebuck Castle, Clonskeagh",Dublin,350000.0,No,Clonskeagh,Dublin 14,q1,20%
+15/10/2010,"57 White Oaks, Clonskeagh",Dublin,204000.0,No,Clonskeagh,Dublin 14,q1,10%
+28/10/2010,"142  The Maples, Bird Avenue, Clonskeagh",Dublin,100000.0,No,Clonskeagh,Dublin 14,q1,10%
+13/01/2011,"62 The Maples, Clonskeagh",Dublin,350000.0,No,Clonskeagh,Dublin 14,q1,20%
+20/01/2011,"72 Roebuck Road, Clonskeagh",Dublin,920000.0,No,Clonskeagh,Dublin 14,q4,90%
+24/01/2011,"68 Roebuck Road, Clonskeagh",Dublin,660792.95,Yes,Clonskeagh,Dublin 14,q3,70%
+27/01/2011,"2 Vergemount Court, Clonskeagh Road",Dublin,295000.0,No,Clonskeagh,Dublin 14,q1,20%
+28/01/2011,"21 The Palms, Roebuck Road, Clonskeagh",Dublin,715000.0,No,Clonskeagh,Dublin 14,q3,80%
+01/02/2011,"90 The Maples, Bird Avenue, Clonskeagh",Dublin,400000.0,No,Clonskeagh,Dublin 14,q2,30%
+21/04/2011,"47 Roebuck Downs, Clonskeagh",Dublin,380000.0,No,Clonskeagh,Dublin 14,q1,30%
+15/06/2011,"47 Whitethorn Road, Clonskeagh",Dublin,555000.0,No,Clonskeagh,Dublin 14,q3,60%
+22/06/2011,"26 Whitebeam Avenue, Clonskeagh",Dublin,610000.0,No,Clonskeagh,Dublin 14,q3,60%
+14/07/2011,"60 Gledswood Park, Clonskeagh, Dublin 14",Dublin,365000.0,No,Clonskeagh,Dublin 14,q1,30%
+21/07/2011,"Apartment 5 Hacienda, Wynnsward Drive, Clonskeagh",Dublin,285000.0,No,Clonskeagh,Dublin 14,q1,20%
+22/07/2011,"47 Bird Avenue, Clonskeagh",Dublin,395000.0,No,Clonskeagh,Dublin 14,q2,30%
+29/07/2011,"27 Louvain, Clonskeagh",Dublin,780000.0,No,Clonskeagh,Dublin 14,q4,80%
+12/08/2011,"26 Whitethorn Road, Clonskeagh, Dublin 14",Dublin,510000.0,No,Clonskeagh,Dublin 14,q2,50%
+19/08/2011,"10 Roebuck Hall, Roebuck Road, Clonskeagh",Dublin,135000.0,No,Clonskeagh,Dublin 14,q1,10%
+29/08/2011,"10 Harlech Downs, Clonskeagh",Dublin,365000.0,No,Clonskeagh,Dublin 14,q1,30%
+29/08/2011,"12  Laburnam Road, Clonskeagh, Dublin 14",Dublin,750000.0,No,Clonskeagh,Dublin 14,q3,80%
+02/09/2011,"49 The Maples, Bird Avenue, Clonskeagh",Dublin,459000.0,No,Clonskeagh,Dublin 14,q2,40%
+02/09/2011,"I Gledswood Avenue, Clonskeagh",Dublin,390000.0,No,Clonskeagh,Dublin 14,q1,30%
+10/10/2011,"11  Maple Road, Clonskeagh",Dublin,2650000.0,No,Clonskeagh,Dublin 14,q4,100%
+12/10/2011,"Kincora, Bird Avenue, Clonskeagh",Dublin,390000.0,No,Clonskeagh,Dublin 14,q2,30%
+14/10/2011,"29 Laburnum Road, Clonskeagh",Dublin,506110.15,No,Clonskeagh,Dublin 14,q2,50%
+21/11/2011,"52 Whiteoaks, Clonskeagh",Dublin,235000.0,No,Clonskeagh,Dublin 14,q1,10%
+21/11/2011,"60 Whitethorn Road, Clonskeagh, Ddublin 14",Dublin,450000.0,No,Clonskeagh,Dublin 14,q2,40%
+28/11/2011,"1 Maple Road, Clonskeagh",Dublin,1600000.0,No,Clonskeagh,Dublin 14,q4,100%
+06/01/2012,"15 Yale, Ardilea, Clonskeagh",Dublin,680000.0,No,Clonskeagh,Dublin 14,q3,70%
+24/02/2012,"119  The Maples, Clonskeagh, Dublin 14",Dublin,305000.0,No,Clonskeagh,Dublin 14,q1,20%
+29/03/2012,"14 Rosemount Crescent, Clonskeagh",Dublin,625000.0,No,Clonskeagh,Dublin 14,q3,60%
+05/04/2012,"22 Nutgrove Park, Clonskeagh, Dublin 14",Dublin,403000.0,No,Clonskeagh,Dublin 14,q2,30%
+13/04/2012,"5 Harvard, Ardilea, Clonskeagh",Dublin,1195000.0,No,Clonskeagh,Dublin 14,q4,100%
+18/05/2012,"15 Whitethorn Road, Clonskeagh",Dublin,515000.0,No,Clonskeagh,Dublin 14,q2,50%
+29/05/2012,"70 Roebuck Road, Clonskeagh, Dublin 15",Dublin,450000.0,No,Clonskeagh,Dublin 14,q2,40%
+21/06/2012,"142  The Maples, Bird Avenue, Clonskeagh",Dublin,72200.0,No,Clonskeagh,Dublin 14,q1,10%
+29/06/2012,"120 Roebuck Raod, Clonskeagh",Dublin,720000.0,No,Clonskeagh,Dublin 14,q3,80%
+11/07/2012,"62 Gledswood Park, Clonskeagh",Dublin,390000.0,No,Clonskeagh,Dublin 14,q2,30%
+16/07/2012,"204 Roebuck Castle, Clonskeagh",Dublin,315000.0,No,Clonskeagh,Dublin 14,q1,20%
+26/07/2012,"84 The Palms, Roebuck Road, Clonskeagh",Dublin,500000.0,No,Clonskeagh,Dublin 14,q2,50%
+01/08/2012,"129 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,275000.0,No,Clonskeagh,Dublin 14,q1,10%
+01/08/2012,"18 Roebuck Road, Clonskeagh, Dublin 14",Dublin,350000.0,No,Clonskeagh,Dublin 14,q1,20%
+01/08/2012,"181 Roebuck Castle, Clonskeagh",Dublin,335000.0,No,Clonskeagh,Dublin 14,q1,20%
+01/08/2012,"68A Roebuck Road, Clonskeagh, Dublin 14",Dublin,425000.0,No,Clonskeagh,Dublin 14,q2,40%
+07/08/2012,"13 Roebuck Downs, Clonskeagh, Dublin 14",Dublin,290000.0,No,Clonskeagh,Dublin 14,q1,20%
+10/08/2012,"82 Gledswood Park, Clonskeagh",Dublin,352500.0,No,Clonskeagh,Dublin 14,q1,30%
+22/08/2012,"215 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,285000.0,No,Clonskeagh,Dublin 14,q1,20%
+31/08/2012,"1 Hacienda, Wynnsward Drive, Clonskeagh",Dublin,267000.0,No,Clonskeagh,Dublin 14,q1,10%
+05/09/2012,"33 Glebswood Avenue, Clonskeagh, Dublin",Dublin,394000.0,No,Clonskeagh,Dublin 14,q2,30%
+14/09/2012,"7 Whitethorn Road, Clonskeagh, Dublin 14",Dublin,650000.0,No,Clonskeagh,Dublin 14,q3,70%
+21/09/2012,"3 Friarsland Road, Clonskeagh",Dublin,380000.0,No,Clonskeagh,Dublin 14,q1,30%
+25/09/2012,"Glenfide 59 Bird Avenue, Clonskeagh",Dublin,485000.0,No,Clonskeagh,Dublin 14,q2,50%
+12/10/2012,"24 White Oaks, Clonskeagh, Dublin 14",Dublin,235000.0,No,Clonskeagh,Dublin 14,q1,10%
+18/10/2012,"19 Laburnum Road, Clonskeagh",Dublin,580000.0,No,Clonskeagh,Dublin 14,q3,60%
+18/10/2012,"80 The Maples, Clonskeagh, Dublin 14",Dublin,420000.0,No,Clonskeagh,Dublin 14,q2,40%
+19/10/2012,"Derrynane, 3 Wynnsward Drive, Clonskeagh",Dublin,550000.0,No,Clonskeagh,Dublin 14,q3,60%
+26/10/2012,"110 Roebuck Castle, Roebuck Road, Clonskeagh",Dublin,316000.0,No,Clonskeagh,Dublin 14,q1,20%
+30/10/2012,"69 Gledswood Park, Clonskeagh, Dublin 14",Dublin,310000.0,No,Clonskeagh,Dublin 14,q1,20%
+02/11/2012,"108  The Maples, Bird Avenue, Clonskeagh",Dublin,400000.0,No,Clonskeagh,Dublin 14,q2,30%
+09/11/2012,"7 Salzburg, Ardilea, Clonskeagh",Dublin,1000000.0,No,Clonskeagh,Dublin 14,q4,100%
+16/11/2012,"Adare, 13 Wynnsward Park, Clonskeagh",Dublin,1150000.0,No,Clonskeagh,Dublin 14,q4,100%
+05/12/2012,"68 Whiteoaks, Clonskeagh, Dublin 14",Dublin,280000.0,No,Clonskeagh,Dublin 14,q1,20%
+11/12/2012,"9 Laburnum Road, Clonskeagh, Dublin 14",Dublin,605000.0,No,Clonskeagh,Dublin 14,q3,60%
+18/12/2012,"22A Beechmount Drive, Clonskeagh",Dublin,392000.0,No,Clonskeagh,Dublin 14,q2,30%
+18/12/2012,"27 Gledswood Avenue, Clonskeagh",Dublin,410000.0,No,Clonskeagh,Dublin 14,q2,30%
+18/12/2012,"69 Roebuck Downs, Clonskeagh, Dublin 14",Dublin,480000.0,No,Clonskeagh,Dublin 14,q2,50%
+19/12/2012,"62 The Palms, Clonskeagh",Dublin,761000.0,No,Clonskeagh,Dublin 14,q3,80%
+19/12/2012,"7 Embassy Lawn, Clonskeagh, Dublin 14",Dublin,965000.0,No,Clonskeagh,Dublin 14,q4,90%
+21/12/2012,"25A Whitebeam Road, Clonskeagh, Dublin 14",Dublin,120000.0,No,Clonskeagh,Dublin 14,q1,10%
+21/12/2012,"40   The Maples, Clonskeagh, Dublin  14.",Dublin,725000.0,No,Clonskeagh,Dublin 14,q3,80%
+28/12/2012,"8 Annsbrook, Clonskeagh, Dublin 14",Dublin,720000.0,No,Clonskeagh,Dublin 14,q3,80%
+09/01/2013,"93 Bird Avenue, Clonskeagh",Dublin,504500.0,No,Clonskeagh,Dublin 14,q2,50%
+30/01/2013,"15 Gledswood Avenue, Clonskeagh, Dublin 14",Dublin,630000.0,No,Clonskeagh,Dublin 14,q3,70%
+01/02/2013,"48 Whitethorn Road, Clonskeagh, Dublin 14",Dublin,760000.0,No,Clonskeagh,Dublin 14,q3,80%
+07/02/2013,"24 Harlech Crescent, Clonskeagh, Dublin 14",Dublin,445000.0,No,Clonskeagh,Dublin 14,q2,40%
+11/02/2013,"43 Gledswood Ave, Clonskeagh, Dublin 14",Dublin,400000.0,No,Clonskeagh,Dublin 14,q2,30%
+11/02/2013,"74 Gledswood Park, Clonskeagh",Dublin,573500.0,No,Clonskeagh,Dublin 14,q3,60%
+15/02/2013,"4 Princeton, Ardilea, Clonskeagh",Dublin,900000.0,No,Clonskeagh,Dublin 14,q4,90%
+22/02/2013,"10 Whitebeam Road, Clonskeagh",Dublin,657500.0,No,Clonskeagh,Dublin 14,q3,70%
+16/04/2013,"50 Roebuck Avenue, Clonskeagh",Dublin,436666.0,No,Clonskeagh,Dublin 14,q2,40%
+30/04/2013,"54 Gledswood Park, Clonskeagh, Dublin 14",Dublin,173334.0,No,Clonskeagh,Dublin 14,q1,10%
+03/05/2013,"50 Whitethorn Road, Clonskeagh",Dublin,865000.0,No,Clonskeagh,Dublin 14,q4,90%
+10/05/2013,"98 Roebuck Hill, Roebuck Road, Clonskeagh",Dublin,136608.0,No,Clonskeagh,Dublin 14,q1,10%
+13/06/2013,"19 Bird Avenue, Clonskeagh",Dublin,537000.0,No,Clonskeagh,Dublin 14,q3,60%
+14/06/2013,"5 Palmerston Grove, Milltown, Clonskeagh",Dublin,805000.0,No,Clonskeagh,Dublin 14,q4,80%
+25/06/2013,"97 Roebuck Road, Clonskeagh",Dublin,210000.0,No,Clonskeagh,Dublin 14,q1,10%
+12/07/2013,"10 Louvain, Clonskeagh, Dublin 14",Dublin,750000.0,No,Clonskeagh,Dublin 14,q3,80%
+17/07/2013,"2 Stanford, Ardilea, Clonskeagh",Dublin,685000.0,No,Clonskeagh,Dublin 14,q3,70%
+18/07/2013,"Wynnstay, Clonskeagh",Dublin,1100000.0,No,Clonskeagh,Dublin 14,q4,100%
+22/07/2013,"28 Gledswood Avenue, Clonskeagh",Dublin,485000.0,No,Clonskeagh,Dublin 14,q2,50%
+23/07/2013,"50 Louvain, Clonskeagh, Dublin 14",Dublin,1025000.0,No,Clonskeagh,Dublin 14,q4,100%
+07/08/2013,"37 The Palms, Roebuck Road, Clonskeagh",Dublin,443000.0,No,Clonskeagh,Dublin 14,q2,40%
+14/08/2013,"32 The Palms, Clonskeagh",Dublin,470000.0,No,Clonskeagh,Dublin 14,q2,40%
+15/08/2013,"52 Whitebeam Road, Clonskeagh",Dublin,900000.0,No,Clonskeagh,Dublin 14,q4,90%
+21/08/2013,"5 Whitethorn Road, Clonskeagh, Dublin 14",Dublin,715000.0,No,Clonskeagh,Dublin 14,q3,80%
+21/08/2013,"80 Roebuck Road, Clonskeagh, Dublin 14",Dublin,620000.0,No,Clonskeagh,Dublin 14,q3,60%
+26/08/2013,"59 The Palms, Clonskeagh, Dublin 14",Dublin,625000.0,No,Clonskeagh,Dublin 14,q3,60%
+27/08/2013,"38 Whiteoaks, Clonskeagh",Dublin,330000.0,No,Clonskeagh,Dublin 14,q1,20%
+30/08/2013,"Woodside, Bird Avenue, Clonskeagh",Dublin,685000.0,No,Clonskeagh,Dublin 14,q3,70%
+30/08/2013,"Wyvern, 1 Harleck Grove, Clonskeagh",Dublin,605000.0,No,Clonskeagh,Dublin 14,q3,60%
+01/09/2013,"77 The Maples, Bird Avenue, Clonskeagh",Dublin,420000.0,No,Clonskeagh,Dublin 14,q2,40%
+02/09/2013,"22 Whitebeam Road, Clonskeagh, Dublin 14",Dublin,755000.0,No,Clonskeagh,Dublin 14,q3,80%
+06/09/2013,"120 Roebuck Castle, Clonskeagh",Dublin,272000.0,No,Clonskeagh,Dublin 14,q1,10%
+06/09/2013,"13 Glenard Hall, Goatstown Road, Clonskeagh  Dublin 14",Dublin,525000.0,No,Clonskeagh,Dublin 14,q2,50%
+19/09/2013,"Apartment 102  The Atrium, Roebuck Road, Clonskeagh",Dublin,300000.0,Yes,Clonskeagh,Dublin 14,q1,20%
+30/09/2013,"85 Roebuck Castle, Roebuck Road, Clonskeagh",Dublin,350000.0,No,Clonskeagh,Dublin 14,q1,30%
+10/10/2013,"2 Moorefield Cottages, Roebuck Road, Clonskeagh",Dublin,298000.0,No,Clonskeagh,Dublin 14,q1,20%
+11/10/2013,"3 Maple Road, Clonskeagh",Dublin,1796310.0,No,Clonskeagh,Dublin 14,q4,100%
+16/10/2013,"86 Roebuck Castle, Clonskeagh",Dublin,350000.0,No,Clonskeagh,Dublin 14,q1,30%
+18/10/2013,"23 Nutgrove Park, Clonskeagh",Dublin,650000.0,No,Clonskeagh,Dublin 14,q3,70%
+30/10/2013,"41 Bird Avenue, Clonskeagh",Dublin,465328.6,No,Clonskeagh,Dublin 14,q2,40%
+04/11/2013,"14 Roebuck Castle, Clonskeagh",Dublin,415000.0,No,Clonskeagh,Dublin 14,q2,40%
+08/11/2013,"9 Orchard Square  Bird Avenue, Clonskeagh",Dublin,272500.0,No,Clonskeagh,Dublin 14,q1,10%
+22/11/2013,"31 Beechmount Drive, Clonskeagh, Dublin 14",Dublin,385000.0,No,Clonskeagh,Dublin 14,q1,30%
+18/12/2013,"76 Gledswood Park, Clonskeagh, Dublin 14",Dublin,488000.0,No,Clonskeagh,Dublin 14,q2,50%
+18/12/2013,"Birdville, Bird Avenue, Clonskeagh",Dublin,432750.0,No,Clonskeagh,Dublin 14,q2,40%
+19/12/2013,"27 Gledswood Park, Clonskeagh, Dublin 4",Dublin,375000.0,No,Clonskeagh,Dublin 14,q1,30%
+20/12/2013,"34 Nutgrove Park, Clonskeagh, Dublin 14",Dublin,325000.0,No,Clonskeagh,Dublin 14,q1,20%
+15/01/2014,"12 Roebuck Court, Clonskeagh Rd, Clonskeagh Dublin 6",Dublin,230000.0,No,Clonskeagh,Dublin 14,q1,10%
+19/02/2014,"99 Whiteoak, Clonskeagh, Dublin",Dublin,269000.0,No,Clonskeagh,Dublin 14,q1,10%
+21/02/2014,"5 Coolgraney, Nutgrove Park, Clonskeagh Dublin 14",Dublin,1040000.0,No,Clonskeagh,Dublin 14,q4,100%
+06/03/2014,"9 Clonskeagh Road, Dublin 6",Dublin,815000.0,No,Clonskeagh,Dublin 14,q4,90%
+11/03/2014,"26 Roebuck Hill, Clonskeagh, Dublin 14",Dublin,300000.0,No,Clonskeagh,Dublin 14,q1,20%
+19/03/2014,"4 Gledswood Close, Clonskeagh, Dublin 14",Dublin,510000.0,No,Clonskeagh,Dublin 14,q2,50%
+28/03/2014,"20 Stanford, Ardilea, Clonskeagh",Dublin,345000.0,No,Clonskeagh,Dublin 14,q1,20%
+03/04/2014,"Apartment 18 Stanford, Ardilea, Clonskeagh",Dublin,360000.0,No,Clonskeagh,Dublin 14,q1,30%
+15/04/2014,"26 White Oak, Roebuck Wood, Clonskeagh Dublin 14",Dublin,320000.0,No,Clonskeagh,Dublin 14,q1,20%
+20/05/2014,"45 Whitebeam Rd, Clonskeagh, Dublin 14",Dublin,895000.0,No,Clonskeagh,Dublin 14,q4,90%
+30/05/2014,"2 Ardilea Wood, Ardilea, Clonskeagh Dublin 14",Dublin,620000.0,No,Clonskeagh,Dublin 14,q3,60%
+30/05/2014,"69 Whiteoak, Clonskeagh, Dublin 14",Dublin,245000.0,No,Clonskeagh,Dublin 14,q1,10%
+05/06/2014,"8 Roebuck Road, Clonskeagh, Dublin 14",Dublin,550000.0,No,Clonskeagh,Dublin 14,q3,60%
+06/06/2014,"1 White Oak, Roebuck Road, Clonskeagh",Dublin,100000.0,No,Clonskeagh,Dublin 14,q1,10%
+12/06/2014,"3 Belfield Close, Clonskeagh Rd, Dublin 14",Dublin,550000.0,No,Clonskeagh,Dublin 14,q3,60%
+12/06/2014,"40 Nutgrove Park, Clonskeagh, Dublin 14",Dublin,694000.0,No,Clonskeagh,Dublin 14,q3,70%
+16/06/2014,"3 Roebuck Downs, Clonskeagh, Dublin 14",Dublin,490000.0,No,Clonskeagh,Dublin 14,q2,50%
+23/06/2014,"9 Rosemount Crescent, Roebuck Road, Clonskeagh",Dublin,780000.0,No,Clonskeagh,Dublin 14,q4,80%
+25/06/2014,"58 Roebuck Castle, Clonskeagh, Dublin",Dublin,405000.0,No,Clonskeagh,Dublin 14,q2,30%
+30/06/2014,"8 Roebuck Court, Clonskeagh, Dublin 4",Dublin,250000.0,No,Clonskeagh,Dublin 14,q1,10%
+04/07/2014,"St. Josephs, 79 Bird Avenue, Clonskeagh",Dublin,730000.0,No,Clonskeagh,Dublin 14,q3,80%
+07/07/2014,"13 Gledswood Park, Clonskeagh, Dublin 14",Dublin,540000.0,No,Clonskeagh,Dublin 14,q3,60%
+15/07/2014,"13 Vergemount Park, Clonskeagh",Dublin,708800.0,No,Clonskeagh,Dublin 14,q3,70%
+24/07/2014,"21 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,495000.0,No,Clonskeagh,Dublin 14,q2,50%
+25/07/2014,"5 Roebuck Lawn, Clonskeagh, Dublin 14",Dublin,270000.0,No,Clonskeagh,Dublin 14,q1,10%
+29/07/2014,"1 Clonskeagh Rd, Ranelagh, Dublin 6",Dublin,712000.0,No,Clonskeagh,Dublin 14,q3,80%
+30/07/2014,"123 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,450000.0,No,Clonskeagh,Dublin 14,q2,40%
+01/08/2014,"10 Embassy Lawn, Clonskeagh, Dublin 14",Dublin,820000.0,No,Clonskeagh,Dublin 14,q4,90%
+12/08/2014,"2 Bird Ave, Clonskeagh, Dublin 14",Dublin,420000.0,No,Clonskeagh,Dublin 14,q2,40%
+22/08/2014,"1 Coolgraney Avenue, Clonskeagh, Dublin 14",Dublin,800000.0,No,Clonskeagh,Dublin 14,q4,80%
+25/08/2014,"18 Vergemount Park, Clonskeagh, Dublin 6",Dublin,1000000.0,No,Clonskeagh,Dublin 14,q4,100%
+27/08/2014,"154 Roebuck Castle, Roebuck Rd, Clonskeagh Dublin 14",Dublin,502000.0,No,Clonskeagh,Dublin 14,q2,50%
+05/09/2014,"25 Harlech Crescent, Roebuck Road, Clonskeagh",Dublin,690000.0,No,Clonskeagh,Dublin 14,q3,70%
+25/09/2014,"108 White Oak, Clonskeagh, Dublin 14",Dublin,140000.0,No,Clonskeagh,Dublin 14,q1,10%
+26/09/2014,"123 Th3 Maples, Bird Ave, Clonskeagh Dublin 13",Dublin,511000.0,No,Clonskeagh,Dublin 14,q2,50%
+06/10/2014,"119 The Maples, Clonskeagh, Dublin 24",Dublin,495000.0,No,Clonskeagh,Dublin 14,q2,50%
+09/10/2014,"Roebuck House, Roebuck Road, Clonskeagh",Dublin,900000.0,No,Clonskeagh,Dublin 14,q4,90%
+16/10/2014,"19 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,272500.0,No,Clonskeagh,Dublin 14,q1,10%
+23/10/2014,"2 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,300000.0,No,Clonskeagh,Dublin 14,q1,20%
+24/10/2014,"16 Princeton, Ardilea, Clonskeagh Dublin 14",Dublin,1445000.0,No,Clonskeagh,Dublin 14,q4,100%
+29/10/2014,"49 White Oaks, Clonskeagh, Dublin 14",Dublin,265000.0,No,Clonskeagh,Dublin 14,q1,10%
+30/10/2014,"38 Gledswood Park, Clonskeagh",Dublin,557500.0,No,Clonskeagh,Dublin 14,q3,60%
+13/11/2014,"31 The Maples, Bird Ave, Clonskeagh Dublin 14",Dublin,500000.0,No,Clonskeagh,Dublin 14,q2,50%
+14/11/2014,"7 Annsbrook, Clonskeagh, Dublin 14",Dublin,1065000.0,No,Clonskeagh,Dublin 14,q4,100%
+19/11/2014,"26 Gledswood Ave, Clonskeagh, Dublin 14",Dublin,610000.0,No,Clonskeagh,Dublin 14,q3,60%
+26/11/2014,"6 Princeton, Ardilea, Clonskeagh",Dublin,950000.0,No,Clonskeagh,Dublin 14,q4,90%
+27/11/2014,"1  Bird Avenue, Clonskeagh",Dublin,90000.0,No,Clonskeagh,Dublin 14,q1,10%
+04/12/2014,"79 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,395000.0,No,Clonskeagh,Dublin 14,q2,30%
+05/12/2014,"37 Whiteoaks Clonskeagh, Dublin 14",Dublin,259000.0,No,Clonskeagh,Dublin 14,q1,10%
+05/12/2014,"Bonnington 66 Bird Ave, Bird Ave, Clonskeagh",Dublin,640000.0,No,Clonskeagh,Dublin 14,q3,70%
+11/12/2014,"11 Roebuck Park, Clonskeagh, Dublin 6",Dublin,665000.0,No,Clonskeagh,Dublin 14,q3,70%
+12/12/2014,"96 Bird Avenue, Clonskeagh, Dublin 14",Dublin,750000.0,No,Clonskeagh,Dublin 14,q3,80%
+12/12/2014,"Richview Lodge, Clonskeagh Rd, Clonskeagh Dublin 14",Dublin,1035000.0,No,Clonskeagh,Dublin 14,q4,100%
+16/12/2014,"23 Leinster Lawn, Clonskeagh, Dublin 14",Dublin,875000.0,No,Clonskeagh,Dublin 14,q4,90%
+16/12/2014,"Apt 9, Roebuck Lawns, Clonskeagh Dublin 14",Dublin,293000.0,No,Clonskeagh,Dublin 14,q1,20%
+17/12/2014,"30 Beechmount Drive, Clonskeagh",Dublin,570000.0,No,Clonskeagh,Dublin 14,q3,60%
+18/12/2014,"1 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,239000.0,No,Clonskeagh,Dublin 14,q1,10%
+18/12/2014,"11 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,174000.0,No,Clonskeagh,Dublin 14,q1,10%
+18/12/2014,"17 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,159000.0,No,Clonskeagh,Dublin 14,q1,10%
+18/12/2014,"21 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,299000.0,No,Clonskeagh,Dublin 14,q1,20%
+18/12/2014,"28 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,270000.0,No,Clonskeagh,Dublin 14,q1,10%
+18/12/2014,"3 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,159000.0,No,Clonskeagh,Dublin 14,q1,10%
+18/12/2014,"7 Gledswood Close, Clonskeagh, Dublin 14",Dublin,500000.0,No,Clonskeagh,Dublin 14,q2,50%
+18/12/2014,"8 Belfield Close, Clonskeagh, Dublin 14",Dublin,685000.0,No,Clonskeagh,Dublin 14,q3,70%
+23/12/2014,"9 Gledswood Close, Clonskeagh, Dublin 14",Dublin,544000.0,No,Clonskeagh,Dublin 14,q3,60%
+21/01/2015,"14 Woodhaven, Milltown Bridge Rd, Clonskeagh Dublin 14",Dublin,470000.0,No,Clonskeagh,Dublin 14,q2,40%
+21/01/2015,"2 Princeton, Ardilea Road, Clonskeagh",Dublin,620000.0,No,Clonskeagh,Dublin 14,q3,60%
+21/01/2015,"2A Princeton, Ardilea Road, Clonskeagh",Dublin,490000.0,No,Clonskeagh,Dublin 14,q2,50%
+27/01/2015,"98 Roebuck Rd, Clonskeagh, Dublin 14",Dublin,805000.0,No,Clonskeagh,Dublin 14,q4,80%
+28/01/2015,"115 The Maples Clonskeagh, Dublin 14, Dublin",Dublin,659000.0,No,Clonskeagh,Dublin 14,q3,70%
+28/01/2015,"7 Leinster Lawn, Clonskeagh, Dublin 14",Dublin,925000.0,No,Clonskeagh,Dublin 14,q4,90%
+10/02/2015,"2 Friarsland, Clonskeagh",Dublin,550660.79,Yes,Clonskeagh,Dublin 14,q3,60%
+10/02/2015,"Apt 20, Roebuck Hill, Clonskeagh",Dublin,275000.0,No,Clonskeagh,Dublin 14,q1,20%
+13/02/2015,"1 Vergemount Park, Clonskeagh Dublin 6, Dublin",Dublin,1072500.0,No,Clonskeagh,Dublin 14,q4,100%
+02/03/2015,"134 Roebuck Rd, Clonskeagh, Dublin 14",Dublin,1555000.0,No,Clonskeagh,Dublin 14,q4,100%
+09/03/2015,"11 Roebuck Lawn, Clonskeagh, Dublin 14",Dublin,260000.0,No,Clonskeagh,Dublin 14,q1,10%
+16/03/2015,"12 Leinster Lawn, Clonskeagh, Dublin 14",Dublin,375000.0,No,Clonskeagh,Dublin 14,q1,30%
+23/03/2015,"73 Gledswood Park, Clonskeagh, Dublin 14",Dublin,495000.0,No,Clonskeagh,Dublin 14,q2,50%
+02/04/2015,"6 Leinster Lawn, Clonskeagh",Dublin,812500.0,No,Clonskeagh,Dublin 14,q4,90%
+09/04/2015,"7 Belfield Close, Clonskeagh, Dublin 14",Dublin,560000.0,No,Clonskeagh,Dublin 14,q3,60%
+10/04/2015,"7 Roebuck Lawn, Clonskeagh, Dublin 14",Dublin,260000.0,No,Clonskeagh,Dublin 14,q1,10%
+28/04/2015,"20A The Maples, Bird Ave, Clonskeagh",Dublin,360000.0,No,Clonskeagh,Dublin 14,q1,30%
+08/05/2015,"17A Gledswood Avenue, Clonskeagh, Dublin 14",Dublin,700000.0,No,Clonskeagh,Dublin 14,q3,70%
+14/05/2015,"31 Stanford, Ardilea, Clonskeagh",Dublin,239000.0,No,Clonskeagh,Dublin 14,q1,10%
+19/05/2015,"109 White Oaks, Clonskeagh, Dublin 14",Dublin,340000.0,No,Clonskeagh,Dublin 14,q1,20%
+20/05/2015,"98 The Maples, Bird Avenue, Clonskeagh",Dublin,390000.0,No,Clonskeagh,Dublin 14,q2,30%
+17/06/2015,"2 Roebuck Hall, The Palms, Clonskeagh Dublin 14",Dublin,165000.0,No,Clonskeagh,Dublin 14,q1,10%
+30/06/2015,"2 Beechmount Dr, Clonskeagh, Dublin 14",Dublin,575000.0,No,Clonskeagh,Dublin 14,q3,60%
+02/07/2015,"20 Roebuck Castle, Clonskeagh, Dublin 4",Dublin,508500.0,No,Clonskeagh,Dublin 14,q2,50%
+06/07/2015,"Apartment 1, Roebuck Court, Clonskeagh Road",Dublin,116500.0,No,Clonskeagh,Dublin 14,q1,10%
+06/07/2015,"Apartment 5, Roebuck Court, Clonskeagh Road",Dublin,116500.0,No,Clonskeagh,Dublin 14,q1,10%
+23/07/2015,"1 Friarsland, Roebuck Road, Clonskeagh",Dublin,528634.0,Yes,Clonskeagh,Dublin 14,q2,50%
+23/07/2015,"5 Friarsland, Roebuck Road, Clonskeagh",Dublin,528634.0,Yes,Clonskeagh,Dublin 14,q2,50%
+23/07/2015,"6 Friarsland, Roebuck Road, Clonskeagh",Dublin,572687.0,Yes,Clonskeagh,Dublin 14,q3,60%
+24/07/2015,"103 Roebuck Castle, Roebuck Rd, Clonskeagh Dublin 14",Dublin,495000.0,No,Clonskeagh,Dublin 14,q2,50%
+30/07/2015,"46 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,520000.0,No,Clonskeagh,Dublin 14,q2,50%
+31/07/2015,"33 Bird Ave, Clonskeagh, Dublin 14",Dublin,655000.0,No,Clonskeagh,Dublin 14,q3,70%
+06/08/2015,"4 Friarsland, Roebuck Road, Clonskeagh",Dublin,687675.0,Yes,Clonskeagh,Dublin 14,q3,70%
+06/08/2015,"8 Gledswood Park, Clonskeagh, Dublin 14",Dublin,610000.0,No,Clonskeagh,Dublin 14,q3,60%
+12/08/2015,"25 Whitebeam Ave, Clonskeagh, Dublin 14",Dublin,1060000.0,No,Clonskeagh,Dublin 14,q4,100%
+14/08/2015,"Apartment 1, Roebuck Court, Clonskeagh Road",Dublin,116500.0,No,Clonskeagh,Dublin 14,q1,10%
+14/08/2015,"Apartment 5, Roebuck Court, Clonskeagh Road",Dublin,116500.0,No,Clonskeagh,Dublin 14,q1,10%
+21/08/2015,"8 Leinster Lawn, Clonskeagh, Dublin 14",Dublin,932000.0,No,Clonskeagh,Dublin 14,q4,90%
+24/08/2015,"31 Gledswood Park, Clonskeagh, Dublin 14",Dublin,495000.0,No,Clonskeagh,Dublin 14,q2,50%
+24/08/2015,"76 Roebuck Rd, Clonskeagh, Dublin 14",Dublin,805000.0,No,Clonskeagh,Dublin 14,q4,80%
+25/08/2015,"2 Hacienda, Wynnsworth Dr, Clonskeagh Dublin 4",Dublin,325000.0,No,Clonskeagh,Dublin 14,q1,20%
+04/09/2015,"64 The Maples, Bird Ave, Clonskeagh Dublin 14",Dublin,480000.0,No,Clonskeagh,Dublin 14,q2,50%
+07/09/2015,"8 Gledswood Close, Clonskeagh, Dublin 14",Dublin,630000.0,No,Clonskeagh,Dublin 14,q3,70%
+25/09/2015,"27 Beechmount Dr, Clonskeagh, Dublin 14",Dublin,529000.0,No,Clonskeagh,Dublin 14,q2,50%
+25/09/2015,"27 Larchfield Rd, Clonskeagh, Dublin 14",Dublin,570000.0,No,Clonskeagh,Dublin 14,q3,60%
+09/10/2015,"38 Whitethorn Road, Clonskeagh",Dublin,1448000.0,No,Clonskeagh,Dublin 14,q4,100%
+22/10/2015,"20 Farmhill Rd, Clonskeagh, Dublin 14",Dublin,600000.0,No,Clonskeagh,Dublin 14,q3,60%
+02/11/2015,"Apt 47 White Oaks, Clonskeagh",Dublin,235000.0,No,Clonskeagh,Dublin 14,q1,10%
+03/11/2015,"4 Annsbrook, Clonskeagh Rd, Clonskeagh Dublin 14",Dublin,825000.0,No,Clonskeagh,Dublin 14,q4,90%
+10/11/2015,"28 Friarsland Rd, Clonskeagh, Dublin 14",Dublin,830000.0,No,Clonskeagh,Dublin 14,q4,90%
+19/11/2015,"51 Whitethorn Rd, Clonskeagh, Dublin 14",Dublin,710000.0,No,Clonskeagh,Dublin 14,q3,80%
+20/11/2015,"24A Gledswood Avenue, Clonskeagh, Dublin 14",Dublin,380000.0,No,Clonskeagh,Dublin 14,q1,30%
+23/11/2015,"19 Orchard Square, Clonskeagh, Dublin 14",Dublin,86666.0,No,Clonskeagh,Dublin 14,q1,10%
+26/11/2015,"7 Friarsland, Roebuck Road, Clonskeagh",Dublin,195000.0,Yes,Clonskeagh,Dublin 14,q1,10%
+26/11/2015,"8 Friarsland, Roebuck Road, Clonskeagh",Dublin,198238.0,Yes,Clonskeagh,Dublin 14,q1,10%
+27/11/2015,"140 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,492000.0,No,Clonskeagh,Dublin 14,q2,50%
+04/12/2015,"7 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,195000.0,No,Clonskeagh,Dublin 14,q1,10%
+14/12/2015,"19 The Maples, Clonskeagh, Dublin 14",Dublin,530000.0,No,Clonskeagh,Dublin 14,q2,50%
+21/12/2015,"67 The Atrium, Roebuck Hill, Clonskeagh Dublin 14",Dublin,233000.0,No,Clonskeagh,Dublin 14,q1,10%
+22/12/2015,"34 Whitebeam Rd, Clonskeagh, Dublin 14",Dublin,850000.0,No,Clonskeagh,Dublin 14,q4,90%
+07/01/2016,"10 Roebuck Hall, Roebuck Rd, Clonskeagh",Dublin,195000.0,No,Clonskeagh,Dublin 14,q1,10%
+15/01/2016,"9 Maple Road, Clonskeagh",Dublin,3000000.0,No,Clonskeagh,Dublin 14,q4,100%
+05/02/2016,"Rougen, Bird Avenue, Clonskeagh",Dublin,680000.0,No,Clonskeagh,Dublin 14,q3,70%
+18/02/2016,"23 Roebuck Castle, Roebuck Rd, Clonskeagh Dublin 14",Dublin,448550.0,No,Clonskeagh,Dublin 14,q2,40%
+24/02/2016,"104 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,445000.0,No,Clonskeagh,Dublin 14,q2,40%
+26/02/2016,"27 Leinster Lawn, Clonskeagh, Dublin 14",Dublin,1275000.0,No,Clonskeagh,Dublin 14,q4,100%
+01/03/2016,"33 The Palms, Roebuck Rd, Clonskeagh Dublin 14",Dublin,650000.0,No,Clonskeagh,Dublin 14,q3,70%
+21/03/2016,"65 Gledswood Park, Clonskeagh, Dublin 14",Dublin,515000.0,No,Clonskeagh,Dublin 14,q2,50%
+24/03/2016,"20 Farmhill Rd, Clonskeagh, Dublin 14",Dublin,870000.0,No,Clonskeagh,Dublin 14,q4,90%
+31/03/2016,"99 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,480000.0,No,Clonskeagh,Dublin 14,q2,50%
+01/04/2016,"74 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,425000.0,No,Clonskeagh,Dublin 14,q2,40%
+14/04/2016,"187 Roebuck Castle, Clonskeagh, Dublin",Dublin,465000.0,No,Clonskeagh,Dublin 14,q2,40%
+29/04/2016,"9 Bird Ave, Clonskeagh, Dublin 14",Dublin,485000.0,No,Clonskeagh,Dublin 14,q2,50%
+05/05/2016,"3 Salamanca, Ardilea, Clonskeagh Dublin 14",Dublin,920000.0,No,Clonskeagh,Dublin 14,q4,90%
+09/05/2016,"17 The Maples, Bird Ave, Clonskeagh Dublin 14",Dublin,461000.0,No,Clonskeagh,Dublin 14,q2,40%
+18/05/2016,"8 Richview Villas, Clonskeagh Rd, Clonskeagh Dublin 14",Dublin,840000.0,No,Clonskeagh,Dublin 14,q4,90%
+18/05/2016,"9 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,331000.0,No,Clonskeagh,Dublin 14,q1,20%
+19/05/2016,"162 Roebuck Castle, Roebuck Rd, Clonskeagh Dublin 14",Dublin,500000.0,No,Clonskeagh,Dublin 14,q2,50%
+23/05/2016,"Red Roof, Clonskeagh Rd, Dublin 14",Dublin,745000.0,No,Clonskeagh,Dublin 14,q3,80%
+16/06/2016,"66 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,291000.0,No,Clonskeagh,Dublin 14,q1,20%
+22/06/2016,"71 Roebuck Castle, Roebuck Rd, Clonskeagh Dublin 14",Dublin,393000.0,No,Clonskeagh,Dublin 14,q2,30%
+29/06/2016,"2 Whitebeam Rd, Clonskeagh, Dublin 14",Dublin,1780000.0,No,Clonskeagh,Dublin 14,q4,100%
+06/07/2016,"16 The Maples, Bird Ave, Clonskeagh Dublin 14",Dublin,475000.0,No,Clonskeagh,Dublin 14,q2,40%
+06/07/2016,"4 Garrynure, Milltown Rd, Clonskeagh",Dublin,475000.0,No,Clonskeagh,Dublin 14,q2,40%
+08/07/2016,"23 Whitebeam Ave, Clonskeagh, Dublin 14",Dublin,825000.0,No,Clonskeagh,Dublin 14,q4,90%
+22/07/2016,"48 White Oaks, Clonskeagh, Dublin 14",Dublin,350000.0,No,Clonskeagh,Dublin 14,q1,30%
+15/08/2016,"4 Louvain, Ardilea, Clonskeagh Dublin 14",Dublin,1500000.0,No,Clonskeagh,Dublin 14,q4,100%
+15/08/2016,"63 The Palms, Clonskeagh, Dublin 14",Dublin,1025000.0,No,Clonskeagh,Dublin 14,q4,100%
+25/08/2016,"45 Beechmount Dr, Clonskeagh, Dublin 14",Dublin,505000.0,No,Clonskeagh,Dublin 14,q2,50%
+01/09/2016,"Apt 9 Roebuck Hill, Roebuck Road, Clonskeagh",Dublin,332500.0,No,Clonskeagh,Dublin 14,q1,20%
+02/09/2016,"Ardmore, Bird Ave, Clonskeagh Dublin 14",Dublin,567000.0,No,Clonskeagh,Dublin 14,q3,60%
+08/09/2016,"63 Bird Ave, Clonskeagh, Dublin 14",Dublin,650000.0,No,Clonskeagh,Dublin 14,q3,70%
+09/09/2016,"23 Friarsland Apts, Roebuck Rd, Clonskeagh",Dublin,215000.0,No,Clonskeagh,Dublin 14,q1,10%
+20/09/2016,"1 Garrynure, Milltown Rd, Clonskeagh",Dublin,415000.0,No,Clonskeagh,Dublin 14,q2,40%
+20/09/2016,"88 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,450000.0,No,Clonskeagh,Dublin 14,q2,40%
+23/09/2016,"17 White Oaks, Clonskeagh, Dublin 14",Dublin,213000.0,No,Clonskeagh,Dublin 14,q1,10%
+27/09/2016,"2 Glenard Hall, Clonskeagh, Dublin 14",Dublin,600000.0,No,Clonskeagh,Dublin 14,q3,60%
+05/10/2016,"23 Whitethorn Rd, Clonskeagh, Dublin 14",Dublin,901000.0,No,Clonskeagh,Dublin 14,q4,90%
+05/10/2016,"Rossleigh, 14 Maple Rd, Clonskeagh Dublin 14",Dublin,1825000.0,No,Clonskeagh,Dublin 14,q4,100%
+12/10/2016,"3 Friarsland Ave, Clonskeagh, Dublin 14",Dublin,580000.0,No,Clonskeagh,Dublin 14,q3,60%
+20/10/2016,"9 Vergemount Court, Clonskeagh Rd, Clonskeagh Dublin 6",Dublin,315000.0,No,Clonskeagh,Dublin 14,q1,20%
+27/10/2016,"1 Gledswood Close, Clonskeagh, Dublin 14",Dublin,545000.0,No,Clonskeagh,Dublin 14,q3,60%
+27/10/2016,"2  Ardilea Crescent, Heidelberg, Clonskeagh",Dublin,924488.0,Yes,Clonskeagh,Dublin 14,q4,90%
+27/10/2016,"24 Maple Rd, Clonskeagh, Dublin 14",Dublin,1550000.0,No,Clonskeagh,Dublin 14,q4,100%
+27/10/2016,"73 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,500000.0,No,Clonskeagh,Dublin 14,q2,50%
+03/11/2016,"Castle End, Bird Ave, Clonskeagh Dublin 14",Dublin,652500.0,No,Clonskeagh,Dublin 14,q3,70%
+04/11/2016,"58 The Maples, Bird Ave, Clonskeagh Dublin 14",Dublin,485000.0,No,Clonskeagh,Dublin 14,q2,50%
+16/11/2016,"21 Roebuck Castle, Roebuck Road, Clonskeagh",Dublin,508000.0,No,Clonskeagh,Dublin 14,q2,50%
+24/11/2016,"4 Ardilea Crescent, Heidelberg, Clonskeagh",Dublin,954845.81,Yes,Clonskeagh,Dublin 14,q4,90%
+25/11/2016,"5 Stanford, Ardilea, Clonskeagh Dublin 14",Dublin,270000.0,No,Clonskeagh,Dublin 14,q1,10%
+29/11/2016,"7 Whitebeam Ave, Clonskeagh, Dublin 14",Dublin,1070000.0,No,Clonskeagh,Dublin 14,q4,100%
+30/11/2016,"32 Whitethorn Rd, Clonskeagh, Dublin 14",Dublin,805000.0,No,Clonskeagh,Dublin 14,q4,90%
+30/11/2016,"8 Vergemount Court, Clonskeagh Rd, Clonskeagh Dublin 6",Dublin,340000.0,No,Clonskeagh,Dublin 14,q1,20%
+01/12/2016,"22 Maple Rd, Clonskeagh, Dublin 14",Dublin,1300000.0,No,Clonskeagh,Dublin 14,q4,100%
+02/12/2016,"3 Stanford, Harlech Grove, Clonskeagh Dublin 14",Dublin,720000.0,No,Clonskeagh,Dublin 14,q3,80%
+09/12/2016,"10 Roebuck Rd, Clonskeagh, Dublin 14",Dublin,600000.0,No,Clonskeagh,Dublin 14,q3,60%
+15/12/2016,"15 Beechmount Dr, Clonskeagh, Dublin 14",Dublin,795000.0,No,Clonskeagh,Dublin 14,q4,80%
+21/12/2016,"3A Vergemount Hall, Clonskeagh Rd, Clonskeagh Dublin 6",Dublin,475000.0,No,Clonskeagh,Dublin 14,q2,40%
+04/01/2017,"46 Gledswood Park, Clonskeagh, Dublin 14",Dublin,612000.0,No,Clonskeagh,Dublin 14,q3,60%
+05/01/2017,"81 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,466000.0,No,Clonskeagh,Dublin 14,q2,40%
+09/01/2017,"Apt 8, Roebuck Lawn, Clonskeagh Dublin 14",Dublin,282000.0,No,Clonskeagh,Dublin 14,q1,20%
+12/01/2017,"63 Whiteoak, Clonskeagh, Dublin 14",Dublin,280000.0,No,Clonskeagh,Dublin 14,q1,20%
+13/01/2017,"39 Gledswood Ave, Clonskeagh, Dublin 14",Dublin,630000.0,No,Clonskeagh,Dublin 14,q3,70%
+20/01/2017,"56 Whitebeam Rd, Clonskeagh, Dublin 14",Dublin,865000.0,No,Clonskeagh,Dublin 14,q4,90%
+24/01/2017,"14 Friarsland Cresent, Roebuck Rd, Clonskeagh Dublin 14",Dublin,330000.0,No,Clonskeagh,Dublin 14,q1,20%
+26/01/2017,"13 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,647500.0,No,Clonskeagh,Dublin 14,q3,70%
+31/01/2017,"40 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,500000.0,No,Clonskeagh,Dublin 14,q2,50%
+10/02/2017,"14 Leinster Lawn, Clonskeagh, Dublin 14",Dublin,900000.0,No,Clonskeagh,Dublin 14,q4,90%
+16/02/2017,"14 Ardilea Crescent, Heidelberg  Ardilea, Clonskeagh",Dublin,770925.0,Yes,Clonskeagh,Dublin 14,q4,80%
+17/02/2017,"51 Gledswood Park, Clonskeagh, Dublin 14",Dublin,780000.0,No,Clonskeagh,Dublin 14,q4,80%
+17/02/2017,"Scotia Cottage, Bird Avenue, Clonskeagh",Dublin,535000.0,No,Clonskeagh,Dublin 14,q2,50%
+06/03/2017,"2 Roebuck Road, Clonskeagh, Dublin 14",Dublin,625000.0,No,Clonskeagh,Dublin 14,q3,60%
+15/03/2017,"16 Ardilea Crescent, Clonskeagh, Dubiln 14",Dublin,900000.0,Yes,Clonskeagh,Dublin 14,q4,90%
+10/04/2017,"3 Vergemount Court, Clonskeagh Rd, Dublin 6",Dublin,325000.0,No,Clonskeagh,Dublin 14,q1,20%
+20/04/2017,"17 Vergemount Park, Clonskeagh, Dublin 6",Dublin,900000.0,No,Clonskeagh,Dublin 14,q4,90%
+26/04/2017,"Apt 1, Roebuck Lawn, Clonskeagh Dublin 14",Dublin,260000.0,No,Clonskeagh,Dublin 14,q1,10%
+02/05/2017,"15 Ardilea Crescent, Heidelberg, Ardilea  Clonskeagh",Dublin,770924.0,Yes,Clonskeagh,Dublin 14,q4,80%
+04/05/2017,"7 Roebuck Court, Clonskeagh Rd, Clonskeagh Dublin 14",Dublin,295000.0,No,Clonskeagh,Dublin 14,q1,20%
+11/05/2017,"8  Ardilea Crescent, Heidelberg, Clonskeagh",Dublin,954846.0,Yes,Clonskeagh,Dublin 14,q4,90%
+22/05/2017,"18 Ardilea Cresent, Heidelberg  Ardilea, Clonskeagh",Dublin,770926.0,Yes,Clonskeagh,Dublin 14,q4,80%
+24/05/2017,"17 Ardilea Cresent, Clonskeagh, Dublin",Dublin,792953.0,Yes,Clonskeagh,Dublin 14,q4,80%
+25/05/2017,"7 Whiteoak, Roebuck Rd, Clonskeagh Dublin 14",Dublin,285000.0,No,Clonskeagh,Dublin 14,q1,20%
+01/06/2017,"1 Gledswood Park, Clonskeagh, Dublin 14",Dublin,495000.0,No,Clonskeagh,Dublin 14,q2,50%
+02/06/2017,"66 Gledswood Park, Clonskeagh, Dublin 14",Dublin,610000.0,No,Clonskeagh,Dublin 14,q3,60%
+13/06/2017,"1 Roebuck Crescent, Clonskeagh, Dublin 14",Dublin,980000.0,No,Clonskeagh,Dublin 14,q4,100%
+16/06/2017,"Apt 1, 1 Rosemount Crescent, Clonskeagh Dublin 14",Dublin,2025000.0,No,Clonskeagh,Dublin 14,q4,100%
+16/06/2017,"Apt 2, 1 Rosemount Crescent, Clonskeagh Dublin 14",Dublin,2025000.0,No,Clonskeagh,Dublin 14,q4,100%
+16/06/2017,"Apt 3, 1 Rosemount Crescent, Clonskeagh Dublin 14",Dublin,2025000.0,No,Clonskeagh,Dublin 14,q4,100%
+16/06/2017,"Apt 4, 1 Rosemount Crescent, Clonskeagh Dublin 14",Dublin,2025000.0,No,Clonskeagh,Dublin 14,q4,100%
+16/06/2017,"Apt 5, 1 Rosemount Crescent, Clonskeagh Dublin 14",Dublin,2025000.0,No,Clonskeagh,Dublin 14,q4,100%
+16/06/2017,"Apt 6, 1 Rosemount Crescent, Clonskeagh Dublin 14",Dublin,2025000.0,No,Clonskeagh,Dublin 14,q4,100%
+19/06/2017,"1 Whitethorn Rd, Clonskeagh, Dublin 14",Dublin,1060000.0,No,Clonskeagh,Dublin 14,q4,100%
+27/06/2017,"8 Nutgrove Park, Clonskeagh, Dublin 14",Dublin,930000.0,No,Clonskeagh,Dublin 14,q4,90%
+07/07/2017,"2 Roebuck Crescent, Clonskeagh Rd, Clonskeagh Dublin 14",Dublin,800000.0,No,Clonskeagh,Dublin 14,q4,80%
+14/07/2017,"Apt 3, Roebuck Court, Clonskeagh Rd Dublin 14",Dublin,410000.0,No,Clonskeagh,Dublin 14,q2,30%
+17/07/2017,"21 Whitethorn Rd, Clonskeagh, Dublin 14",Dublin,835000.0,No,Clonskeagh,Dublin 14,q4,90%
+18/07/2017,"98 The Maples, Bird Ave, Clonskeagh Dublin 14",Dublin,410000.0,No,Clonskeagh,Dublin 14,q2,30%
+21/07/2017,"16 Annsbrook, Clonskeagh Rd, Clonskeagh Dublin 14",Dublin,1100000.0,No,Clonskeagh,Dublin 14,q4,100%
+27/07/2017,"8 Friarsland, Roebuck Road, Clonskeagh",Dublin,860000.0,No,Clonskeagh,Dublin 14,q4,90%
+27/07/2017,"Apartment 1, 11 Clonskeagh Road, Ranelagh",Dublin,3333000.0,No,Clonskeagh,Dublin 14,q4,100%
+28/07/2017,"19 Nutgrove Park, Clonskeagh, Dublin 14",Dublin,790000.0,No,Clonskeagh,Dublin 14,q4,80%
+31/07/2017,"25 Bird Ave, Clonskeagh, Dublin 14",Dublin,685000.0,No,Clonskeagh,Dublin 14,q3,70%
+02/08/2017,"Mayfield, Clonskeagh Rd, Dublin 14",Dublin,795000.0,No,Clonskeagh,Dublin 14,q4,80%
+04/08/2017,"13 Vergemount Park, Clonskeagh, Dublin 6",Dublin,735000.0,No,Clonskeagh,Dublin 14,q3,80%
+28/08/2017,"2 Annsbrook, Clonskeagh, Dublin 14",Dublin,1100000.0,No,Clonskeagh,Dublin 14,q4,100%
+29/08/2017,"15 Whitebeam Ave, Clonskeagh, Dublin 14",Dublin,1460000.0,No,Clonskeagh,Dublin 14,q4,100%
+01/09/2017,"73 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,500000.0,No,Clonskeagh,Dublin 14,q2,50%
+06/09/2017,"10 Ardilea Crescent, Heidelberg, Clonskeagh",Dublin,925110.0,Yes,Clonskeagh,Dublin 14,q4,90%
+06/09/2017,"Apt 10, Roebuck Court, Clonskeagh Rd Dublin 14",Dublin,410000.0,No,Clonskeagh,Dublin 14,q2,30%
+08/09/2017,"4 Hawthorn Grove, Bird Avenue, Clonskeagh",Dublin,427312.0,Yes,Clonskeagh,Dublin 14,q2,40%
+08/09/2017,"7 Roebuck Crescent, Clonskeagh Rd, Clonskeagh Dublin 14",Dublin,882000.0,No,Clonskeagh,Dublin 14,q4,90%
+11/09/2017,"178 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,540000.0,No,Clonskeagh,Dublin 14,q3,60%
+13/09/2017,"13 Whitebeam Rd, Clonskeagh, Dublin 14",Dublin,950000.0,No,Clonskeagh,Dublin 14,q4,90%
+15/09/2017,"2 Hawthorn Grove, Bird Ave, Clonskeagh",Dublin,490000.0,Yes,Clonskeagh,Dublin 14,q2,50%
+15/09/2017,"8 Hawthorn Grove, Bird Avenue, Clonskeagh",Dublin,431718.0,Yes,Clonskeagh,Dublin 14,q2,40%
+20/09/2017,"11 Hawthorn Grove, Bird Avenue, Clonskeagh",Dublin,519825.0,Yes,Clonskeagh,Dublin 14,q2,50%
+21/09/2017,"3 Hawthorn Grove, Bird Avenue, Clonskeagh",Dublin,339207.04,Yes,Clonskeagh,Dublin 14,q1,20%
+22/09/2017,"2 Salamanca, Ardilea, Clonskeagh Dublin 14",Dublin,1065000.0,No,Clonskeagh,Dublin 14,q4,100%
+22/09/2017,"29 Whiteoak, Clonskeagh, Dublin 14",Dublin,334000.0,No,Clonskeagh,Dublin 14,q1,20%
+22/09/2017,"3 Vergemount Park, Clonskeagh, Dublin 6",Dublin,900000.0,No,Clonskeagh,Dublin 14,q4,90%
+29/09/2017,"The Willows, 12C Wynnsword Park, Clonskeagh",Dublin,975000.0,No,Clonskeagh,Dublin 14,q4,90%
+02/10/2017,"33 White Oaks, Goatstown Rd, Clonskeagh Dublin 14",Dublin,295000.0,No,Clonskeagh,Dublin 14,q1,20%
+05/10/2017,"9 Wynnsward Park, Clonskeagh, Dublin 14",Dublin,869000.0,No,Clonskeagh,Dublin 14,q4,90%
+17/10/2017,"58 The Maples, Bird Ave, Clonskeagh Dublin 14",Dublin,630000.0,No,Clonskeagh,Dublin 14,q3,70%
+20/10/2017,"5 Hawthorn Grove, Bird Avenue, Clonskeagh",Dublin,339207.0,Yes,Clonskeagh,Dublin 14,q1,20%
+31/10/2017,"Apt 10 Roebuck Lawn, Bird Ave, Clonskeagh Dublin 14",Dublin,323000.0,No,Clonskeagh,Dublin 14,q1,20%
+31/10/2017,"Avonlea, Bird Avenue, Clonskeagh",Dublin,810000.0,No,Clonskeagh,Dublin 14,q4,90%
+02/11/2017,"Apartment 7 Hawthorne Grove, Bird Avenue, Clonskeagh",Dublin,367401.0,Yes,Clonskeagh,Dublin 14,q1,30%
+08/11/2017,"4 Longwood, Wynnsward Park, Clonskeagh",Dublin,840000.0,No,Clonskeagh,Dublin 14,q4,90%
+08/11/2017,"4 Longwood, Wynnsward Park, Clonskeagh",Dublin,840000.0,No,Clonskeagh,Dublin 14,q4,90%
+08/11/2017,"5 Longwood, Wynnsward Park, Clonskeagh",Dublin,790000.0,No,Clonskeagh,Dublin 14,q4,80%
+08/11/2017,"5 Longwood, Wynnsward Park, Clonskeagh",Dublin,790000.0,No,Clonskeagh,Dublin 14,q4,80%
+08/11/2017,"6 Longwood, Wynnsward Park, Clonskeagh",Dublin,790000.0,No,Clonskeagh,Dublin 14,q4,80%
+08/11/2017,"6 Longwood, Wynnsward Park, Clonskeagh",Dublin,790000.0,No,Clonskeagh,Dublin 14,q4,80%
+08/11/2017,"7 Longwood, Wynnsward Park, Clonskeagh",Dublin,790000.0,No,Clonskeagh,Dublin 14,q4,80%
+08/11/2017,"7 Longwood, Wynnsward Park, Clonskeagh",Dublin,790000.0,No,Clonskeagh,Dublin 14,q4,80%
+08/11/2017,"8 Longwood, Wynnsward Park, Clonskeagh",Dublin,790000.0,No,Clonskeagh,Dublin 14,q4,80%
+08/11/2017,"8 Longwood, Wynnsward Park, Clonskeagh",Dublin,790000.0,No,Clonskeagh,Dublin 14,q4,80%
+10/11/2017,"1 Longwood, Wynnsward Park, Clonskeagh",Dublin,366666.66,No,Clonskeagh,Dublin 14,q1,30%
+10/11/2017,"2 Longwood, Wynnsward Park, Clonskeagh",Dublin,366666.66,No,Clonskeagh,Dublin 14,q1,30%
+10/11/2017,"3 Longwood, Wynnsward Park, Clonskeagh",Dublin,366666.66,No,Clonskeagh,Dublin 14,q1,30%
+14/11/2017,"1 Longwood, Wynnsward Park, Clonskeagh",Dublin,366666.66,No,Clonskeagh,Dublin 14,q1,30%
+14/11/2017,"2 Longwood, Wynnsward Park, Clonskeagh",Dublin,366666.66,No,Clonskeagh,Dublin 14,q1,30%
+14/11/2017,"3 Longwood, Wynnsward Park, Clonskeagh",Dublin,366666.66,No,Clonskeagh,Dublin 14,q1,30%
+21/11/2017,"9 Beechmount Dr, Bird Ave, Clonskeagh Dublin 14",Dublin,720000.0,No,Clonskeagh,Dublin 14,q3,80%
+21/11/2017,"Rostrevor, 5 Wynnsward Dr, Clonskeagh Dublin 14",Dublin,400000.0,No,Clonskeagh,Dublin 14,q2,30%
+27/11/2017,"36 Stanford, Ardilea, Clonskeagh Dublin 14",Dublin,710000.0,No,Clonskeagh,Dublin 14,q3,80%
+30/11/2017,"6 Hawthorn Gorve, Bird Avenue, Clonskeagh",Dublin,427312.77,Yes,Clonskeagh,Dublin 14,q2,40%
+01/12/2017,"10 Hawthorn Grove, Bird Avenue, Clonskeagh",Dublin,682820.0,Yes,Clonskeagh,Dublin 14,q3,70%
+06/12/2017,"5 Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,568200.0,Yes,Clonskeagh,Dublin 14,q3,60%
+07/12/2017,"38 Whitethorn Rd, Clonskeagh, Dublin 14",Dublin,1500000.0,No,Clonskeagh,Dublin 14,q4,100%
+14/12/2017,"1 Hawthorn Grove, Bird Avenue, Clonskeagh",Dublin,343612.33,Yes,Clonskeagh,Dublin 14,q1,20%
+15/12/2017,"12 Trimbleston, Goatstown Rd, Clonskeagh",Dublin,500000.0,No,Clonskeagh,Dublin 14,q2,50%
+15/12/2017,"3 Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,568280.0,Yes,Clonskeagh,Dublin 14,q3,60%
+18/12/2017,"4 Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,568281.0,Yes,Clonskeagh,Dublin 14,q3,60%
+18/12/2017,"Ashfield House, 5 Clonskeagh Road, Clonskeagh",Dublin,1800000.0,No,Clonskeagh,Dublin 14,q4,100%
+19/12/2017,"6 Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,581498.0,Yes,Clonskeagh,Dublin 14,q3,60%
+25/01/2018,"17 Gledswood Ave, Clonskeagh, Dublin 14",Dublin,720000.0,No,Clonskeagh,Dublin 14,q3,80%
+25/01/2018,"Lindenlea, 81 Bird Ave, Clonskeagh",Dublin,1350000.0,No,Clonskeagh,Dublin 14,q4,100%
+29/01/2018,"1 Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,581497.79,Yes,Clonskeagh,Dublin 14,q3,60%
+31/01/2018,"2 Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,568282.0,Yes,Clonskeagh,Dublin 14,q3,60%
+02/02/2018,"57 Roebuck Downs, Clonskeagh, Dublin",Dublin,567250.0,No,Clonskeagh,Dublin 14,q3,60%
+05/02/2018,"18 Laburnum Road, Clonskeagh, Dublin 14",Dublin,950000.0,No,Clonskeagh,Dublin 14,q4,90%
+06/02/2018,"12 Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,740000.0,Yes,Clonskeagh,Dublin 14,q3,80%
+08/02/2018,"10  Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,643172.0,Yes,Clonskeagh,Dublin 14,q3,70%
+08/02/2018,"7 Hawthorne Avenue, Bird Avenue, Clonskeagh",Dublin,643171.81,Yes,Clonskeagh,Dublin 14,q3,70%
+14/02/2018,"49 Whitethorn Rd, Clonskeagh, Dublin 14",Dublin,860000.0,No,Clonskeagh,Dublin 14,q4,90%
+23/02/2018,"8 Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,643171.8,Yes,Clonskeagh,Dublin 14,q3,70%
+09/03/2018,"11 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,510000.0,No,Clonskeagh,Dublin 14,q2,50%
+22/03/2018,"58 Ardilea Crescent, Heidelberg, Ardilea  Clonskeagh",Dublin,462555.0,Yes,Clonskeagh,Dublin 14,q2,40%
+22/03/2018,"65 Ardilea Crescent, Clonskeagh",Dublin,520000.0,Yes,Clonskeagh,Dublin 14,q2,50%
+29/03/2018,"15 The Maples, Bird Avenue, Clonskeagh",Dublin,656000.0,No,Clonskeagh,Dublin 14,q3,70%
+11/04/2018,"74 Ardilea Crescent, Ardilea, Clonskeagh",Dublin,704847.0,Yes,Clonskeagh,Dublin 14,q3,70%
+16/04/2018,"2 Hawthorn Meadows, Bird Avenue, Clonskeagh",Dublin,660793.0,Yes,Clonskeagh,Dublin 14,q3,70%
+17/04/2018,"6 Hawthorn Meadows, Bird Avenue, Clonskeagh",Dublin,660793.0,Yes,Clonskeagh,Dublin 14,q3,70%
+18/04/2018,"4 Hawthorn Meadows, Clonskeagh, Dublin 14",Dublin,661000.0,Yes,Clonskeagh,Dublin 14,q3,70%
+19/04/2018,"59 Ardilea Crescent, Clonskeagh",Dublin,481666.08,Yes,Clonskeagh,Dublin 14,q2,50%
+20/04/2018,"1 Hawthorn Meadows, Bird Avenue, Clonskeagh",Dublin,669603.52,Yes,Clonskeagh,Dublin 14,q3,70%
+30/04/2018,"3 Hawthorn Meadows, Bird Avenue, Clonskeagh",Dublin,660792.95,Yes,Clonskeagh,Dublin 14,q3,70%
+10/05/2018,"5 Hawthorn Meadows, Bird Avenue, Clonskeagh",Dublin,660792.0,Yes,Clonskeagh,Dublin 14,q3,70%
+16/05/2018,"68 Ardilea Crescent, Ardilea, Clonskeagh",Dublin,466960.0,Yes,Clonskeagh,Dublin 14,q2,40%
+24/05/2018,"9 Hawthorn Grove, Bird Avenue, Clonskeagh",Dublin,735682.0,Yes,Clonskeagh,Dublin 14,q3,80%
+30/05/2018,"62 Ardilea Crescent  Heidelberg, Ardilea, Clonskeagh",Dublin,436123.35,Yes,Clonskeagh,Dublin 14,q2,40%
+01/06/2018,"95 Roebuck Rd, Clonskeagh, Dublin 14",Dublin,427500.0,No,Clonskeagh,Dublin 14,q2,40%
+08/06/2018,"9 Roebuck Hill, Clonskeagh, Dublin 14",Dublin,326250.0,No,Clonskeagh,Dublin 14,q1,20%
+21/06/2018,"26 The Maples, Bird Ave, Clonskeagh",Dublin,590000.0,No,Clonskeagh,Dublin 14,q3,60%
+22/06/2018,"25 Gledswood Park, Clonskeagh, Dublin 14",Dublin,550000.0,No,Clonskeagh,Dublin 14,q3,60%
+22/06/2018,"32 Whitebeam Ave, Clonskeagh, Dublin 14",Dublin,1065000.0,No,Clonskeagh,Dublin 14,q4,100%
+22/06/2018,"49 Whitebeam Rd, Clonskeagh, Dublin 14",Dublin,1205000.0,No,Clonskeagh,Dublin 14,q4,100%
+29/06/2018,"28 White Oaks, Clonskeagh, Dublin 14",Dublin,395000.0,No,Clonskeagh,Dublin 14,q2,30%
+04/07/2018,"7 Hawthorn Meadows, Bird Avenue, Clonskeagh",Dublin,660793.0,Yes,Clonskeagh,Dublin 14,q3,70%
+10/07/2018,"14 Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,651982.37,Yes,Clonskeagh,Dublin 14,q3,70%
+12/07/2018,"7 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,348017.0,Yes,Clonskeagh,Dublin 14,q1,20%
+16/07/2018,"12 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,399774.88,Yes,Clonskeagh,Dublin 14,q2,30%
+16/07/2018,"16  Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,422907.48,Yes,Clonskeagh,Dublin 14,q2,40%
+16/07/2018,"2 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,444933.91,Yes,Clonskeagh,Dublin 14,q2,40%
+17/07/2018,"13 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,356828.0,Yes,Clonskeagh,Dublin 14,q1,30%
+17/07/2018,"3 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,348017.0,Yes,Clonskeagh,Dublin 14,q1,20%
+17/07/2018,"6 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,444933.0,Yes,Clonskeagh,Dublin 14,q2,40%
+18/07/2018,"15 Hawthorn Avenue, Bird Avenue, Clonskeagh",Dublin,770925.0,Yes,Clonskeagh,Dublin 14,q4,80%
+18/07/2018,"9 Clonskeagh Road, Clonskeagh Road, Dublin 6",Dublin,1850000.0,No,Clonskeagh,Dublin 14,q4,100%
+19/07/2018,"13 Orchard Sq, Clonskeagh, Dublin 14",Dublin,385000.0,No,Clonskeagh,Dublin 14,q1,30%
+19/07/2018,"4 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,444934.0,Yes,Clonskeagh,Dublin 14,q2,40%
+23/07/2018,"1 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,348018.0,Yes,Clonskeagh,Dublin 14,q1,20%
+23/07/2018,"8 Hawthorn Meadows, Bird Avenue, Clonskeagh",Dublin,651982.0,Yes,Clonskeagh,Dublin 14,q3,70%
+25/07/2018,"8 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,444934.0,Yes,Clonskeagh,Dublin 14,q2,40%
+27/07/2018,"Apartment 2, 11 Clonskeagh Road, Ranelagh",Dublin,191666.0,No,Clonskeagh,Dublin 14,q1,10%
+27/07/2018,"Apartment 3, 11 Clonskeagh Road, Ranelagh",Dublin,191667.0,No,Clonskeagh,Dublin 14,q1,10%
+27/07/2018,"Apartment 4, 11 Clonskeagh Road, Ranelagh",Dublin,191667.0,No,Clonskeagh,Dublin 14,q1,10%
+30/07/2018,"Mingary, 21 Gledswood Ave, Clonskeagh Dublin 14",Dublin,670000.0,No,Clonskeagh,Dublin 14,q3,70%
+31/07/2018,"32 Nutgrove Park, Clonskeagh, Dublin 14",Dublin,809000.0,No,Clonskeagh,Dublin 14,q4,90%
+02/08/2018,"5 Glenard Hall, Clonskeagh, Dublin 14",Dublin,695000.0,No,Clonskeagh,Dublin 14,q3,70%
+02/08/2018,"9 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,356828.19,Yes,Clonskeagh,Dublin 14,q1,30%
+08/08/2018,"Apt. 56 Ardilea Crescent, Heidelberg Ardilea, Clonskeagh",Dublin,466960.22,Yes,Clonskeagh,Dublin 14,q2,40%
+13/08/2018,"84 The Lyle, White Oak, Clonskeagh Dublin 14",Dublin,406500.0,No,Clonskeagh,Dublin 14,q2,30%
+16/08/2018,"50 Whiteoak, Clonskeagh, Dublin 14",Dublin,405000.0,No,Clonskeagh,Dublin 14,q2,30%
+16/08/2018,"52 Ardilea Crescent, Heidelberg, Ardliea  Clonskeagh",Dublin,436124.0,Yes,Clonskeagh,Dublin 14,q2,40%
+17/08/2018,"14 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,418699.0,Yes,Clonskeagh,Dublin 14,q2,40%
+20/08/2018,"21A The Maples, Bird Ave Clonskeagh, Dublin 14",Dublin,413000.0,No,Clonskeagh,Dublin 14,q2,40%
+20/08/2018,"37 Whitebeam Rd, Clonskeagh, Dublin 14",Dublin,1350000.0,No,Clonskeagh,Dublin 14,q4,100%
+21/08/2018,"15 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,329268.0,Yes,Clonskeagh,Dublin 14,q1,20%
+24/08/2018,"87 The Maples, Clonskeagh, Dublin 14",Dublin,625000.0,No,Clonskeagh,Dublin 14,q3,70%
+27/08/2018,"167 Roebuck Castle, Roebuck Rd, Clonskeagh Dublin 14",Dublin,626000.0,No,Clonskeagh,Dublin 14,q3,70%
+29/08/2018,"82 Roebuck Hill, Roebuck Rd, Clonskeagh",Dublin,335000.0,No,Clonskeagh,Dublin 14,q1,20%
+30/08/2018,"10 Hawthorn Walk, Bird Avenue, Clonskeagh",Dublin,454700.0,Yes,Clonskeagh,Dublin 14,q2,40%
+03/09/2018,"198 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,650000.0,No,Clonskeagh,Dublin 14,q3,70%
+04/09/2018,"113 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,411000.0,No,Clonskeagh,Dublin 14,q2,30%
+07/09/2018,"49 Roebuck Hill, Roebuck Rd, Clonskeagh",Dublin,315000.0,No,Clonskeagh,Dublin 14,q1,20%
+04/10/2018,"2 Richview Villas, Clonskeagh, Dublin 14",Dublin,927500.0,No,Clonskeagh,Dublin 14,q4,90%
+04/10/2018,"66 Trimbleston, Goatstown Rd, Clonskeagh Dublin 14",Dublin,450000.0,No,Clonskeagh,Dublin 14,q2,40%
+09/10/2018,"31 Nutgrove Park, Clonskeagh, Dublin 14",Dublin,835000.0,No,Clonskeagh,Dublin 14,q4,90%
+16/10/2018,"19 Roebuck Downs, Clonskeagh, Dublin 14",Dublin,590000.0,No,Clonskeagh,Dublin 14,q3,60%
+17/10/2018,"63 Ardilea Crescent, Heidelberg  Ardilea, Clonskeagh",Dublin,449400.0,Yes,Clonskeagh,Dublin 14,q2,40%
+31/10/2018,"3 Embassy Lawn, Clonskeagh, Dublin 14",Dublin,885000.0,No,Clonskeagh,Dublin 14,q4,90%
+23/11/2018,"62 Gledswood Park, Clonskeagh, Dublin 14",Dublin,702000.0,No,Clonskeagh,Dublin 14,q3,70%
+03/12/2018,"3 Glenard Hall, Goatstown Rd, Clonskeagh Dublin 14",Dublin,450000.0,No,Clonskeagh,Dublin 14,q2,40%
+07/12/2018,"8 Whiteoak, Clonskeagh, Dublin 14",Dublin,371000.0,No,Clonskeagh,Dublin 14,q1,30%
+10/12/2018,"Rockbawn, Bird Ave, Clonskeagh",Dublin,1080000.0,No,Clonskeagh,Dublin 14,q4,100%
+11/12/2018,"83 The Atruim, Roebuck Hill Apts, Clonskeagh",Dublin,325000.0,No,Clonskeagh,Dublin 14,q1,20%
+14/12/2018,"Apartment 41, Ardliea Crescent, Clonskeagh",Dublin,462775.0,Yes,Clonskeagh,Dublin 14,q2,40%
+19/12/2018,"25 Roebuck, Clonskeagh, Dublin 14",Dublin,412500.0,No,Clonskeagh,Dublin 14,q2,30%
+21/12/2018,"19 Vergemount Park, Clonskeagh, Dublin 6",Dublin,1350000.0,No,Clonskeagh,Dublin 14,q4,100%
+24/01/2019,"8 Roebuck Road, Clonskeagh, Dublin 14",Dublin,776000.0,No,Clonskeagh,Dublin 14,q4,80%
+31/01/2019,"4 Stanford, Harlech Grove, Clonskeagh Dublin 14",Dublin,715000.0,No,Clonskeagh,Dublin 14,q3,80%
+01/02/2019,"1A Whitethorn Rd, Clonskeagh, Dublin 14",Dublin,780000.0,No,Clonskeagh,Dublin 14,q4,80%
+06/02/2019,"117 The Maples, Bird Ave, Clonskeagh Dublin 14",Dublin,662500.0,No,Clonskeagh,Dublin 14,q3,70%
+07/02/2019,"134 The Maples, Bird Avenue, Clonskeagh",Dublin,965000.0,No,Clonskeagh,Dublin 14,q4,90%
+15/03/2019,"27 Whitebeam Ave, Clonskeagh, Dublin 14",Dublin,975000.0,No,Clonskeagh,Dublin 14,q4,100%
+20/03/2019,"44 The Palms, Roebuck Road, Clonskeagh",Dublin,720000.0,No,Clonskeagh,Dublin 14,q3,80%
+22/03/2019,"Rose Cottage, Bird Ave, Clonskeagh Dublin 14",Dublin,675000.0,No,Clonskeagh,Dublin 14,q3,70%
+27/03/2019,"68A Roebuck Road, Clonskeagh, Dublin 14",Dublin,975000.0,No,Clonskeagh,Dublin 14,q4,100%
+02/04/2019,"116 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,450000.0,No,Clonskeagh,Dublin 14,q2,40%
+16/04/2019,"203 Trimbleston, Goatstown Rd, Clonskeagh Dublin 14",Dublin,580000.0,No,Clonskeagh,Dublin 14,q3,60%
+23/04/2019,"34 Whiteoaks, Clonskeagh, Dublin 14",Dublin,420000.0,No,Clonskeagh,Dublin 14,q2,40%
+23/04/2019,"6 Roebuck Downs, Clonskeagh, Dublin 14",Dublin,595000.0,No,Clonskeagh,Dublin 14,q3,60%
+09/05/2019,"17 Stanford, Harlech Grove, Clonskeagh Dublin 14",Dublin,635000.0,No,Clonskeagh,Dublin 14,q3,70%
+27/05/2019,"129 The Maples, Clonskeagh, Dublin 14",Dublin,600000.0,No,Clonskeagh,Dublin 14,q3,60%
+06/06/2019,"4 Leinster Lawn, Clonskeagh, Dublin 14",Dublin,1150000.0,No,Clonskeagh,Dublin 14,q4,100%
+18/06/2019,"7 Richview Villas, Clonskeagh Rd, Dublin 14",Dublin,885000.0,No,Clonskeagh,Dublin 14,q4,90%
+05/07/2019,"4 Rosemount Crescent, Roebuck Road, Clonskeagh",Dublin,865000.0,No,Clonskeagh,Dublin 14,q4,90%
+08/07/2019,"86  Roebuck Castle, Roebuck Rd., Clonskeagh",Dublin,498000.0,No,Clonskeagh,Dublin 14,q2,50%
+10/07/2019,"1 Vergemount, Clonskeagh Rd, Clonskeagh Dublin 6",Dublin,400000.0,No,Clonskeagh,Dublin 14,q2,30%
+10/07/2019,"83 White Oaks, Roebuck Rd, Clonskeagh",Dublin,470000.0,No,Clonskeagh,Dublin 14,q2,40%
+25/07/2019,"1 Millrace Court, Clonskeagh Rd, Clonskeagh",Dublin,2425000.0,No,Clonskeagh,Dublin 14,q4,100%
+30/07/2019,"181 Trimbleston, Goatstown Rd, Clonskeagh Dublin 14",Dublin,572000.0,No,Clonskeagh,Dublin 14,q3,60%
+30/07/2019,"5 Hacienda, Wynnsward Dr, Clonskeagh Dublin 14",Dublin,393000.0,No,Clonskeagh,Dublin 14,q2,30%
+01/08/2019,"39 Ardilea Crescent, Heidelberg, Clonskeagh",Dublin,458854.62,Yes,Clonskeagh,Dublin 14,q2,40%
+02/08/2019,"1 Orchard Sq, The Maples, Clonskeagh Dublin 14",Dublin,283000.0,No,Clonskeagh,Dublin 14,q1,20%
+02/08/2019,"1 Yale, Ardilea, Clonskeagh Dublin 14",Dublin,840000.0,No,Clonskeagh,Dublin 14,q4,90%
+12/08/2019,"5 Beechmount Dr, Clonskeagh, Dublin 14",Dublin,710000.0,No,Clonskeagh,Dublin 14,q3,80%
+16/08/2019,"Bonnington, 66 Bird Avenuue, Clonskeagh",Dublin,795000.0,No,Clonskeagh,Dublin 14,q4,80%
+19/08/2019,"Apartment 2, 11 Clonskeagh Road, Ranelagh",Dublin,217000.0,No,Clonskeagh,Dublin 14,q1,10%
+30/08/2019,"2 Maple Rd, Clonskeagh, Dublin 14",Dublin,1770000.0,No,Clonskeagh,Dublin 14,q4,100%
+30/08/2019,"59 Bird Ave, Clonskeagh, Dublin 14",Dublin,727501.0,No,Clonskeagh,Dublin 14,q3,80%
+20/09/2019,"104 Roebuck Road, Clonskeagh",Dublin,1101321.59,Yes,Clonskeagh,Dublin 14,q4,100%
+20/09/2019,"Ballinahown, 56 Bird Ave, Clonskeagh Dublin 14",Dublin,625000.0,No,Clonskeagh,Dublin 14,q3,70%
+25/09/2019,"17 The Maples, Orchard Sq, Clonskeagh Dublin 14",Dublin,310000.0,No,Clonskeagh,Dublin 14,q1,20%
+27/09/2019,"79 Roebuck Castle, Clonskeagh, Dublin 14",Dublin,495500.0,No,Clonskeagh,Dublin 14,q2,50%
+04/10/2019,"1 White Oak, Roebuck Road, Clonskeagh",Dublin,330000.0,No,Clonskeagh,Dublin 14,q1,20%
+21/10/2019,"14 Orchard Sq, Bird Ave, Clonskeagh Dublin 14",Dublin,390000.0,No,Clonskeagh,Dublin 14,q2,30%

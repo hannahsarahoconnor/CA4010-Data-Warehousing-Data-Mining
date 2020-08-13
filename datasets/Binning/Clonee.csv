@@ -1,0 +1,687 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/01/2010,"64 The Way, Hunters Road, Clonee",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+22/01/2010,"5 The Drive, Hunters Run, Clonee",Dublin,246000.0,No,Clonee,Dublin 15,q3,60%
+05/02/2010,"255 Littlepace Road, Littlepace, Clonee",Dublin,255000.0,No,Clonee,Dublin 15,q3,60%
+12/02/2010,"11 Swallowbrook View, Clonee, Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+18/02/2010,"13 Manorfields Walk, Clonee, Dublin",Dublin,181000.0,No,Clonee,Dublin 15,q1,30%
+18/02/2010,"13 Manorfields Walk, Clonee, Dublin 15",Dublin,181000.0,No,Clonee,Dublin 15,q1,30%
+18/02/2010,"32 The Drive, Hunters Run, Clonee",Dublin,242000.0,No,Clonee,Dublin 15,q3,60%
+05/03/2010,"123 Hazelbury Green, Clonee",Dublin,272500.0,No,Clonee,Dublin 15,q3,80%
+12/03/2010,"140 Manorfield View, Clonee, Dublin 15",Dublin,231500.0,No,Clonee,Dublin 15,q2,50%
+15/03/2010,"No 9 The Close, Hunters Run, Clonee",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+19/03/2010,"15 Castaheany, Clonee",Dublin,210000.0,No,Clonee,Dublin 15,q2,40%
+19/03/2010,"40 Castaheany, Clonee, Dublin 15",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+22/03/2010,"10 Beechfield View, Castaheany, Clonee  Dublin 15",Dublin,268000.0,No,Clonee,Dublin 15,q3,70%
+30/03/2010,"47 The Grove, Hunters Run, Clonee",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+31/03/2010,"54 The Way, Hunters Run, Clonee",Dublin,241500.0,No,Clonee,Dublin 15,q3,60%
+22/04/2010,"33 Rosedale Close, Rosedale, Clonee",Dublin,155000.0,No,Clonee,Dublin 15,q1,20%
+27/04/2010,"63 The Grove, Hunters Run, Clonee",Dublin,255000.0,No,Clonee,Dublin 15,q3,70%
+28/04/2010,"4  The Dale, Manorfields, Clonee",Dublin,255000.0,No,Clonee,Dublin 15,q3,70%
+29/04/2010,"14 Manorfields Avenue, Clonee, Dublin 15",Dublin,267500.0,No,Clonee,Dublin 15,q3,70%
+30/04/2010,"139 Hazlebury Park, Clonee, .",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+11/05/2010,"137A Pace Avenue, Clonee",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+12/05/2010,"11 Swalloebrook Pk, Clonee, D 15",Dublin,265500.0,No,Clonee,Dublin 15,q3,70%
+12/05/2010,"180 Littlepace Woods, Clonee, Dublin 15",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+28/05/2010,"2 Manorfield Road, Clonee, Dublin 15",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+28/05/2010,"6 The Drive, Hunter'S Run, Clonee",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+31/05/2010,"63 Ard Cluain, Clonee, Dublin 15",Dublin,194950.0,Yes,Clonee,Dublin 15,q2,30%
+04/06/2010,"104 Hansfield Road, Clonee",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+04/06/2010,"104 Hansfield Road, Clonee, Dublin 15",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+11/06/2010,"104 Littlepace Gallops, Clonee",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+17/06/2010,"32 Bramblefield Walk, Clonee",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+17/06/2010,"Apartment 47, Rosedale Close, Clonee  Dublin 15",Dublin,144500.0,No,Clonee,Dublin 15,q1,10%
+18/06/2010,"60 Hazelbury Park, Clonee, Dublin 15",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+22/06/2010,"19 Linnetfields Square, Clonee, Dublin 15",Dublin,155000.0,No,Clonee,Dublin 15,q1,20%
+07/07/2010,"5 Linnetsfield Avenue, Clonee",Dublin,215000.0,No,Clonee,Dublin 15,q2,40%
+12/07/2010,"36 Deerhaven Avenue, Clonee",Dublin,191000.0,No,Clonee,Dublin 15,q2,30%
+20/07/2010,"14 The Glade, Hunter'S Run, Clonee",Dublin,235000.0,No,Clonee,Dublin 15,q2,50%
+23/07/2010,"8 Linnetsfield View, Clonee",Dublin,180000.0,No,Clonee,Dublin 15,q1,30%
+06/08/2010,"46 Manorfield Road, Clonee, Dublin 15.",Dublin,210000.0,No,Clonee,Dublin 15,q2,40%
+12/08/2010,"35 Castaheany, Clonee, Dublin 15",Dublin,265000.0,No,Clonee,Dublin 15,q3,70%
+18/08/2010,"15 Bramblefield Drive, Clonee, Dublin 15",Dublin,234000.0,No,Clonee,Dublin 15,q2,50%
+18/08/2010,"71 Castaheany, Clonee",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+20/08/2010,"11 Manorfield Green, Clonee, Dublin 15",Dublin,237000.0,No,Clonee,Dublin 15,q3,60%
+25/08/2010,"77 The Way, Hunters Run, Clonee",Dublin,226000.0,No,Clonee,Dublin 15,q2,50%
+26/08/2010,"13 Bramblefield Park, Clonee, Dublin 15",Dublin,248000.0,No,Clonee,Dublin 15,q3,60%
+31/08/2010,"18 Bramblefield Court, Clonee, Dublin 15",Dublin,175000.0,No,Clonee,Dublin 15,q1,30%
+01/09/2010,"14 Beechfield Court, Clonee",Dublin,215000.0,No,Clonee,Dublin 15,q2,40%
+02/09/2010,"14 The Woods, Hunters Run, Clonee",Dublin,215000.0,No,Clonee,Dublin 15,q2,40%
+06/09/2010,"48 Whatley Hall, Archer'S Wood, Clonee",Dublin,200000.0,No,Clonee,Dublin 15,q2,40%
+09/09/2010,"6 Manorfields Close, Clonee",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+14/09/2010,"12 Manorfields Road, Clonee, Dublin 15",Dublin,157000.0,No,Clonee,Dublin 15,q1,20%
+23/09/2010,"248 Pace Road, Clonee, Dublin 15",Dublin,228000.0,No,Clonee,Dublin 15,q2,50%
+12/10/2010,"159 Hazelbury Park, Clonee",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+15/10/2010,"39 The Way, Hunters Run, Clonee",Dublin,237000.0,No,Clonee,Dublin 15,q3,60%
+22/10/2010,"11 Linnetsfield Close, Clonee",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+02/11/2010,"16 The Park, Pheasant'S Run, Clonee",Dublin,245000.0,No,Clonee,Dublin 15,q3,60%
+11/11/2010,"10 The Drive, Hunters Run, Clonee",Dublin,207000.0,No,Clonee,Dublin 15,q2,40%
+19/11/2010,"15 The Green, Pheasants Run, Clonee",Dublin,205000.0,No,Clonee,Dublin 15,q2,40%
+19/11/2010,"46 Ard Cluain, Clonee",Dublin,140000.0,Yes,Clonee,Dublin 15,q1,10%
+09/12/2010,"25 Castaheny, Clonee, D15",Dublin,232000.0,No,Clonee,Dublin 15,q2,50%
+14/12/2010,"16 Beechfield Court, Clonee",Dublin,16000.0,No,Clonee,Dublin 15,q1,10%
+22/12/2010,"46 Deerhaven Avenue, Clonee, Dublin 15",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+27/01/2011,"19 The Green, Pheasant'S Run, Clonee",Dublin,202950.0,No,Clonee,Dublin 15,q2,40%
+22/02/2011,"7 Deerhaven Avenue, Clonee, Dublin 15",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+28/02/2011,"60 Beechfield Heights, Clonee",Dublin,175000.0,No,Clonee,Dublin 15,q1,30%
+10/03/2011,"45 Bramblefield Crescent, Clonee, Dublin",Dublin,199000.0,No,Clonee,Dublin 15,q2,40%
+31/03/2011,"14 Stralem Terrace, Ongar, Clonee",Dublin,170000.0,No,Clonee,Dublin 15,q1,20%
+09/05/2011,"12 The Close, Hunter'S Run, Clonee",Dublin,203000.0,No,Clonee,Dublin 15,q2,40%
+18/05/2011,"22 The Green, Pheasant Run, Clonee",Dublin,182000.0,No,Clonee,Dublin 15,q2,30%
+05/07/2011,"110A Pace Road, Littlepace, Clonee",Dublin,193000.0,No,Clonee,Dublin 15,q2,30%
+13/07/2011,"20 Manorfields View, Clonee",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+13/07/2011,"52 Littlepace Woods, Clonee",Dublin,200000.0,No,Clonee,Dublin 15,q2,40%
+15/07/2011,"28 The Grove, Hunter'S Run, Clonee",Dublin,254500.0,No,Clonee,Dublin 15,q3,60%
+20/07/2011,"117 Littlepace Gallops, Clonee, Dublin 15",Dublin,195000.0,No,Clonee,Dublin 15,q2,40%
+21/07/2011,"152 Littlepace Gallops, Littlepace, Clonee",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+29/07/2011,"77 Hazelbury Park, Clonee, Dublin 15",Dublin,215000.0,No,Clonee,Dublin 15,q2,40%
+12/08/2011,"56 Hansfield, Clonee",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+19/08/2011,"14  Hansfield, Clonee, Dublin",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+19/08/2011,"45 The Drive, Hunters Run, Clonee",Dublin,194000.0,No,Clonee,Dublin 15,q2,30%
+16/09/2011,"50 Manorfield View, Clonee, Dublin 15",Dublin,171000.0,No,Clonee,Dublin 15,q1,30%
+22/09/2011,"22 Bramblefield View, Clonee, Dublin 15",Dublin,185000.0,No,Clonee,Dublin 15,q2,30%
+23/09/2011,"24A The Close, Hunters Run, Clonee",Dublin,200000.0,No,Clonee,Dublin 15,q2,40%
+27/09/2011,"21 Deerhaven View, Clonee",Dublin,145000.0,No,Clonee,Dublin 15,q1,10%
+27/09/2011,"5  Rosedale Crescent, Clonee",Dublin,125000.0,No,Clonee,Dublin 15,q1,10%
+28/09/2011,"6 Beechfield Court, Clonee",Dublin,95000.0,No,Clonee,Dublin 15,q1,10%
+21/10/2011,"1 Manorfield Rise, Clonee",Dublin,176000.0,No,Clonee,Dublin 15,q1,30%
+21/10/2011,"84 Castaheaney, Clonee",Dublin,202000.0,No,Clonee,Dublin 15,q2,40%
+04/11/2011,"6 Latchford Square, Clonee",Dublin,180000.0,No,Clonee,Dublin 15,q1,30%
+10/11/2011,"42 Manorfields Avenue, Clonee, Dublin 15",Dublin,185000.0,No,Clonee,Dublin 15,q2,30%
+18/11/2011,"46 Castaheany, Clonee, Dublin 15",Dublin,200000.0,No,Clonee,Dublin 15,q2,40%
+23/11/2011,"14 Bramblefield Walk, Clonee",Dublin,155000.0,No,Clonee,Dublin 15,q1,20%
+28/11/2011,"1 Deerhaven Crescent, Clonee, Dublin15",Dublin,190000.0,No,Clonee,Dublin 15,q2,30%
+16/12/2011,"49 Castlegrange Green, Clonee",Dublin,200000.0,Yes,Clonee,Dublin 15,q2,40%
+20/12/2011,"32 Manorfield Road, Clonee, Dublin 15",Dublin,170000.0,No,Clonee,Dublin 15,q1,20%
+20/12/2011,"6 Manorfiled Dale, Clonee, Dublin 15",Dublin,170000.0,No,Clonee,Dublin 15,q1,20%
+09/02/2012,"12 Beechfield Meadows, Clonee",Dublin,134000.0,No,Clonee,Dublin 15,q1,10%
+09/02/2012,"12 Beechfield Meadows, Clonee",Dublin,134000.0,No,Clonee,Dublin 15,q1,10%
+14/02/2012,"187 Littlepace Woods, Clonee, Dublin 15",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+02/03/2012,"79 The Way, Hunters Run, Clonee",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+14/03/2012,"46 Hazelbury Park, Clonee",Dublin,151000.0,No,Clonee,Dublin 15,q1,20%
+30/03/2012,"157 Hazelbury Park, Clonee",Dublin,185000.0,No,Clonee,Dublin 15,q2,30%
+30/03/2012,"170 Pace View, Clonee",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+30/03/2012,"2 Beechfield Drive, Clonee",Dublin,150000.0,No,Clonee,Dublin 15,q1,20%
+03/04/2012,"40 Linnetsfield Square, Clonee, Dublin 15",Dublin,77000.0,No,Clonee,Dublin 15,q1,10%
+30/04/2012,"39 Bramblefield Crescent, Clonee, Dublin 15",Dublin,154000.0,No,Clonee,Dublin 15,q1,20%
+08/05/2012,"9 Deerhaven View, Clonee, Dublin 15",Dublin,150000.0,No,Clonee,Dublin 15,q1,20%
+17/05/2012,"9 Swallowbrook Park, Clonee, Dublin 15",Dublin,185000.0,No,Clonee,Dublin 15,q2,30%
+31/05/2012,"13 Beechfield Way, Clonee",Dublin,135000.0,No,Clonee,Dublin 15,q1,10%
+01/06/2012,"1 Rosedale Crescent, Clonee",Dublin,130000.0,No,Clonee,Dublin 15,q1,10%
+06/06/2012,"172 Pace View, Littlepace Paddocks, Clonee",Dublin,208500.0,No,Clonee,Dublin 15,q2,40%
+29/06/2012,"15 Beechfield Drive, Clonee",Dublin,135000.0,No,Clonee,Dublin 15,q1,10%
+03/07/2012,"18 The Dale, Manorfields, Clonee",Dublin,196000.0,No,Clonee,Dublin 15,q2,40%
+23/07/2012,"196 Littlepace Woods, Clonee, Dublin 15",Dublin,177000.0,No,Clonee,Dublin 15,q1,30%
+25/07/2012,"40 Linnetsfield Park, Clonee, Dublin 15",Dublin,70000.0,No,Clonee,Dublin 15,q1,10%
+26/07/2012,"12 The Glade, Hunters Run, Clonee",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+27/07/2012,"2 The Drive, Hunters Run, Clonee",Dublin,185000.0,No,Clonee,Dublin 15,q2,30%
+27/07/2012,"20 Bramblefield Drive, Clonee",Dublin,120000.0,No,Clonee,Dublin 15,q1,10%
+03/08/2012,"15 Deerhaven View, Clonee, Dublin 15",Dublin,150000.0,No,Clonee,Dublin 15,q1,20%
+15/08/2012,"12 The Green, Pheasants Run, Clonee",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+23/08/2012,"14 The Green, Pheasants Run, Clonee",Dublin,156000.0,No,Clonee,Dublin 15,q1,20%
+23/08/2012,"2 Latchford Green, Castaheany, Clonee",Dublin,181000.0,No,Clonee,Dublin 15,q2,30%
+29/08/2012,"1 The Grove, Hunters Run, Clonee",Dublin,255000.0,No,Clonee,Dublin 15,q3,70%
+30/08/2012,"137 Hazelbury Park, Clonee, Dublin 15",Dublin,183000.0,No,Clonee,Dublin 15,q2,30%
+30/08/2012,"18 The Close, Hunters Run, Clonee",Dublin,156000.0,No,Clonee,Dublin 15,q1,20%
+13/09/2012,"39 Castaheany, Clonee, Dublin 15",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+25/09/2012,"57 The Way, Hunters Run, Clonee",Dublin,155000.0,No,Clonee,Dublin 15,q1,20%
+08/10/2012,"10 Bramblefield Crescent, Clonee",Dublin,182000.0,No,Clonee,Dublin 15,q2,30%
+09/10/2012,"53 The Drive, Pheasants Run, Clonee",Dublin,200000.0,No,Clonee,Dublin 15,q2,40%
+10/10/2012,"41 Rosedale Crescent, Clonee",Dublin,109000.0,No,Clonee,Dublin 15,q1,10%
+22/10/2012,"18 Beechfield Lawn, Clonee",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+22/10/2012,"95 Latchford Square, Clonee, Dublin 15",Dublin,88000.0,No,Clonee,Dublin 15,q1,10%
+31/10/2012,"24 Swallowbrook Crescent, Clonee, Dublin 15",Dublin,202000.0,No,Clonee,Dublin 15,q2,40%
+01/11/2012,"79 Little Pace Park, Clonee",Dublin,180000.0,No,Clonee,Dublin 15,q1,30%
+02/11/2012,"2 The View, Manorfields, Clonee",Dublin,179700.0,No,Clonee,Dublin 15,q1,30%
+07/11/2012,"11 Beechfield Lawns, Clonee",Dublin,108000.0,No,Clonee,Dublin 15,q1,10%
+15/11/2012,"25 Latchford Park Clonee D15, D15",Dublin,86500.0,No,Clonee,Dublin 15,q1,10%
+26/11/2012,"27Linnetfields Avenue, Clonee",Dublin,112500.0,No,Clonee,Dublin 15,q1,10%
+30/11/2012,"57 The Way, Hunters Run, Clonee",Dublin,180000.0,No,Clonee,Dublin 15,q1,30%
+14/12/2012,"2 Linnetsfield Green, Clonee, Dublin 15",Dublin,197000.0,No,Clonee,Dublin 15,q2,40%
+17/12/2012,"36 Deerhaven Avenue, Littlepace, Clonee",Dublin,170000.0,No,Clonee,Dublin 15,q1,20%
+18/12/2012,"15  Hansfield, Clonee",Dublin,250100.0,No,Clonee,Dublin 15,q3,60%
+18/12/2012,"40 Deerhaven Avenue, Clonee",Dublin,173000.0,No,Clonee,Dublin 15,q1,30%
+18/12/2012,"7 Beechfield Close, Clonee, Dublin 15",Dublin,125000.0,No,Clonee,Dublin 15,q1,10%
+19/12/2012,"111A Little Pace Road, Clonee",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+19/12/2012,"5 Beechfield Road, Castaheany, Clonee",Dublin,120000.0,No,Clonee,Dublin 15,q1,10%
+20/12/2012,"82 Littlepace Park, Clonee, Dublin 15",Dublin,195000.0,No,Clonee,Dublin 15,q2,40%
+16/01/2013,"5 Beechfield Close, Clonee, Dublin 15",Dublin,100000.0,No,Clonee,Dublin 15,q1,10%
+06/02/2013,"3 Beechfield Close, Clonee, Dublin 15",Dublin,85000.0,No,Clonee,Dublin 15,q1,10%
+25/02/2013,"14 Phibblestown House, Clonee, Dublin 15",Dublin,71000.0,No,Clonee,Dublin 15,q1,10%
+26/02/2013,"19 The Rise, Hunters Run, Clonee",Dublin,167000.0,No,Clonee,Dublin 15,q1,20%
+05/03/2013,"244 Pace Road, Clonee, Dublin 15",Dublin,237000.0,No,Clonee,Dublin 15,q3,60%
+13/03/2013,"Cloncourt, Main Street, Clonee",Dublin,565000.0,Yes,Clonee,Dublin 15,q4,100%
+15/03/2013,"248 Littlepace Court, Clonee",Dublin,255000.0,No,Clonee,Dublin 15,q3,70%
+22/03/2013,"1 Bramblefield Court, Clonee",Dublin,136000.0,No,Clonee,Dublin 15,q1,10%
+29/03/2013,"46 Hansfield, Clonee",Dublin,175000.0,No,Clonee,Dublin 15,q1,30%
+23/04/2013,"Apartment 34, Phibblestown House, Clonee",Dublin,76000.0,No,Clonee,Dublin 15,q1,10%
+03/05/2013,"Unit 5, Phibblestown House, Clonee",Dublin,70000.0,No,Clonee,Dublin 15,q1,10%
+28/05/2013,"130 Hazelbury Park, Clonee",Dublin,256000.0,No,Clonee,Dublin 15,q3,70%
+07/06/2013,"4 The Drive, Hunters Run, Clonee",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+31/07/2013,"33 Linnetsfield Square, Clonee, Dublin 15",Dublin,94000.0,No,Clonee,Dublin 15,q1,10%
+02/08/2013,"110 Pace Road, Littleplace, Clonee",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+02/08/2013,"30 Bramblefield Drive, Clonee, Dublin 15",Dublin,118500.0,No,Clonee,Dublin 15,q1,10%
+08/08/2013,"155 Pace Crescent, Clonee",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+09/08/2013,"69 Hansfield, Clonee, Dublin 15",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+23/08/2013,"12, Beechfield Rise, Clonee",Dublin,276000.0,No,Clonee,Dublin 15,q3,80%
+26/08/2013,"1 Beechfield Heights, Littlepace, Clonee",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+30/08/2013,"43 The Drive, Hunters Run, Clonee",Dublin,222000.0,No,Clonee,Dublin 15,q2,50%
+04/09/2013,"49 The Way, Hunters Run, Clonee",Dublin,182025.0,No,Clonee,Dublin 15,q2,30%
+30/09/2013,"34 Bramblefield View, Clonee",Dublin,188000.0,No,Clonee,Dublin 15,q2,30%
+01/10/2013,"16 The Dale, Manorfields, Clonee",Dublin,217500.0,No,Clonee,Dublin 15,q2,40%
+04/10/2013,"112 Pace Road, Littlepace, Clonee",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+04/10/2013,"14 Deerhaven Avenue, Clonee, Dublin 15",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+04/10/2013,"53 Bramblefield Crescent, Clonee",Dublin,207000.0,No,Clonee,Dublin 15,q2,40%
+10/10/2013,"2 Deerhaven View, Clonee",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+11/10/2013,"42 Linnetsfield Square, Clonee",Dublin,92000.0,No,Clonee,Dublin 15,q1,10%
+15/10/2013,"226 Pace Road, Littlepace, Clonee",Dublin,203000.0,No,Clonee,Dublin 15,q2,40%
+25/10/2013,"24 Deerhaven Park, Clonee, Dublin 15",Dublin,195500.0,No,Clonee,Dublin 15,q2,40%
+01/11/2013,"24 The Drive, Pheasant'S Run, Clonee",Dublin,205000.0,No,Clonee,Dublin 15,q2,40%
+01/11/2013,"The Bunker, Clonee Road, Westmanstown",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+04/11/2013,"83 Hazelbury Park, Clonee",Dublin,233000.0,No,Clonee,Dublin 15,q2,50%
+06/11/2013,"9 Beechfield Meadows, Clonee",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+28/11/2013,"16 Deerhaven Ave, Clonee, Dublin 15",Dublin,180000.0,No,Clonee,Dublin 15,q1,30%
+28/11/2013,"30 Rosedale Crescent, Clonee, Dublin 15",Dublin,112000.0,No,Clonee,Dublin 15,q1,10%
+03/12/2013,"4 Beechfield Rd, Clonee, Dublin 15",Dublin,126000.0,No,Clonee,Dublin 15,q1,10%
+11/12/2013,"32 Little Pace, Park Clonee, Dublin 15",Dublin,216000.0,No,Clonee,Dublin 15,q2,40%
+16/12/2013,"70 Deerhaven Ave, Clonee, Dublin 15",Dublin,226000.0,No,Clonee,Dublin 15,q2,50%
+18/12/2013,"12 The Rise, Manorfield, Clonee Dublin 15",Dublin,149000.0,No,Clonee,Dublin 15,q1,20%
+18/12/2013,"41 Manorfields Walk, Clonee, Dublin 15",Dublin,202000.0,No,Clonee,Dublin 15,q2,40%
+10/01/2014,"144 Littlepace Gallops, Clonee, Dublin 15",Dublin,349000.0,No,Clonee,Dublin 15,q4,100%
+24/01/2014,"9 Beechfield Close, Clonee, Dublin 15",Dublin,131000.0,No,Clonee,Dublin 15,q1,10%
+31/01/2014,"235 Pace Rd, Clonee, Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+04/02/2014,"14 Beechfield Rd, Clonee, Dublin 15",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+07/02/2014,"185 Pace Ave, Littlepace, Clonee Dublin 15",Dublin,236000.0,No,Clonee,Dublin 15,q3,60%
+10/02/2014,"17 Littlepace Close, Clonee, Dublin 15",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+18/02/2014,"19 Linnetfields Walk, Clonee, Dublin 15",Dublin,150000.0,No,Clonee,Dublin 15,q1,20%
+20/02/2014,"15 The Park, Pheasant Run, Clonee Dublin 15",Dublin,257500.0,No,Clonee,Dublin 15,q3,70%
+21/02/2014,"85 The Grove, Hunters Run, Clonee Dublin 15",Dublin,270000.0,No,Clonee,Dublin 15,q3,70%
+24/02/2014,"191 Littlepace Woods, Clonee, Dublin 15",Dublin,212000.0,No,Clonee,Dublin 15,q2,40%
+13/03/2014,"25 Hazelbury Green, Clonee, Dublin 15",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+14/03/2014,"6 Ravenswood Green, Clonee",Dublin,152000.0,No,Clonee,Dublin 15,q1,20%
+21/03/2014,"23 Summerseat Crescent, Clonee",Dublin,184000.0,No,Clonee,Dublin 15,q2,30%
+16/04/2014,"7 Manorfields Dr, Clonee, Dublin 15",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+09/05/2014,"33 Rosedale Crescent, Clonee, Dublin 15",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+23/05/2014,"45 Hazelbury Park, Clonee, Dublin 15",Dublin,235000.0,No,Clonee,Dublin 15,q2,50%
+27/05/2014,"2 Castaheany, Clonee, Dublin 15",Dublin,266000.0,No,Clonee,Dublin 15,q3,70%
+30/05/2014,"64 Littlepace Park, Clonee, Dublin 15",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+18/06/2014,"2 Beechfield Lawns, Clonee, Dublin 15",Dublin,274000.0,No,Clonee,Dublin 15,q3,80%
+20/06/2014,"49 Castlegrange Green, Castaheany, Clonee Dublin 15",Dublin,211000.0,No,Clonee,Dublin 15,q2,40%
+20/06/2014,"5 The Drive, Pheasant Run, Clonee Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+07/07/2014,"123 Littlepace Gallops, Clonee, Dublin 15",Dublin,262000.0,No,Clonee,Dublin 15,q3,70%
+08/07/2014,"Apt 34, Phibblestown House, Clonee",Dublin,120000.0,No,Clonee,Dublin 15,q1,10%
+11/07/2014,"22 Linnetfields Rise, Clonee, Dublin 15",Dublin,180000.0,No,Clonee,Dublin 15,q1,30%
+14/07/2014,"100 Hansfield, Clonee, Dublin",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+15/07/2014,"120 Hazelbury Park, Clonee",Dublin,283500.0,No,Clonee,Dublin 15,q4,80%
+15/07/2014,"50 Castlecurragh Vale, Clonee",Dublin,151900.0,No,Clonee,Dublin 15,q1,20%
+15/07/2014,"97 Littlepace Drive, Clonee",Dublin,253100.0,No,Clonee,Dublin 15,q3,60%
+17/07/2014,"17 The Drive, Hunters Run, Clonee Dublin 15",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+18/07/2014,"17 The Green, Pheasant Run, Clonee",Dublin,316000.0,No,Clonee,Dublin 15,q4,90%
+29/07/2014,"110 Hazelbury Park, Clonee, Dublin 15",Dublin,255000.0,No,Clonee,Dublin 15,q3,70%
+30/07/2014,"1 Littlepace Cresent, Clonee, Dublin 15",Dublin,341000.0,No,Clonee,Dublin 15,q4,100%
+07/08/2014,"23 Linnetfields Ave, Clonee, Dublin 15",Dublin,191500.0,No,Clonee,Dublin 15,q2,30%
+08/08/2014,"50 The Park, Hunters Run, Clonee Dublin 15",Dublin,285000.0,No,Clonee,Dublin 15,q4,80%
+15/08/2014,"100 Whately Hall, Archerswood, Clonee Dublin 15",Dublin,135000.0,No,Clonee,Dublin 15,q1,10%
+15/08/2014,"20 Beechfield Lawns, Clonee, Dublin 15",Dublin,155000.0,No,Clonee,Dublin 15,q1,20%
+15/08/2014,"68 Manorfields Ave, Castaheany, Clonee Dublin 15",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+22/08/2014,"11 Latchford Close Castaheany, Clonee Dublin 15, Dublin",Dublin,156000.0,No,Clonee,Dublin 15,q1,20%
+22/08/2014,"19  Manorfields Close, Clonee, Dublin 15",Dublin,185000.0,No,Clonee,Dublin 15,q2,30%
+28/08/2014,"32 Manorfields View, Clonee, Dublin 15",Dublin,255000.0,No,Clonee,Dublin 15,q3,70%
+29/08/2014,"13 The Grove, Hunters Run, Clonee",Dublin,262500.0,No,Clonee,Dublin 15,q3,70%
+04/09/2014,"48 Manorfields View, Clonee, Dublin 15",Dublin,257000.0,No,Clonee,Dublin 15,q3,70%
+08/09/2014,"39 Linnetfields Walk, Clonee, Dublin 15",Dublin,217000.0,No,Clonee,Dublin 15,q2,40%
+19/09/2014,"78 Hazelbury Park, Clonee, Dublin 15",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+08/10/2014,"1 The Wood, Hunters Run, Clonee Dublin 15",Dublin,252500.0,No,Clonee,Dublin 15,q3,60%
+15/10/2014,"12 The Park, Hunters Run, Clonee Dublin 15",Dublin,295000.0,No,Clonee,Dublin 15,q4,80%
+20/10/2014,"177 Hazelbury Park, Clonee",Dublin,231800.0,No,Clonee,Dublin 15,q2,50%
+24/10/2014,"171 Hazelbury Park, Clonee, Dublin 15",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+24/10/2014,"203 Littlepace Woods, Clonee, Dublin 15",Dublin,265000.0,No,Clonee,Dublin 15,q3,70%
+29/10/2014,"16 Swallowbrook View, Clonee, Dublin 15",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+31/10/2014,"39 The Grove, Pheasant Run, Clonee",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+03/11/2014,"17 Beechfield Court Castaheney, Clonee Dublin 15, Dublin",Dublin,235000.0,No,Clonee,Dublin 15,q2,50%
+05/11/2014,"31 Bramblefield Park, Clonee, Dublin 15",Dublin,247000.0,No,Clonee,Dublin 15,q3,60%
+07/11/2014,"55 Hansfield, Castaheany, Clonee Dublin 15",Dublin,343000.0,No,Clonee,Dublin 15,q4,100%
+18/11/2014,"93 Whately Hall, Archers Wood, Clonee",Dublin,156000.0,No,Clonee,Dublin 15,q1,20%
+27/11/2014,"22 Latchford Green, Clonee, Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+03/12/2014,"41 Hazel Bury Park, Clonee, Dublin 15",Dublin,252000.0,No,Clonee,Dublin 15,q3,60%
+03/12/2014,"85 The Way, Hunters Run, Clonee Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+12/12/2014,"45 Rosedale Close, Clonee, Dublin 15",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+17/12/2014,"38 The Drive, Hunters Run, Clonee",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+17/12/2014,"7 Hazelbury Green, Phibblestown, Clonee Dublin 15",Dublin,287500.0,No,Clonee,Dublin 15,q4,80%
+18/12/2014,"29 The Drive, Hunters Run, Clonee Dublin 15",Dublin,259000.0,No,Clonee,Dublin 15,q3,70%
+18/12/2014,"7 Deerhaven Close, Clonee, Dublin",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+19/12/2014,"1 Bramblefield Dr, Clonee, Dublin 3",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+19/12/2014,"42 Hansfield, Castaheaney, Clonee Dublin 15",Dublin,255000.0,No,Clonee,Dublin 15,q3,70%
+22/12/2014,"15 Ravenswood View, Clonee Dublin 15, Dublin",Dublin,160299.0,No,Clonee,Dublin 15,q1,20%
+22/12/2014,"55 The Drive, Pheasant Run, Clonee Dublin 15",Dublin,287000.0,No,Clonee,Dublin 15,q4,80%
+22/12/2014,"7 Linnetfields Walk, Castaheany, Clonee Dublin 15",Dublin,238159.0,No,Clonee,Dublin 15,q3,60%
+23/12/2014,"23 Manorfields Walk, Castaheany, Clonee",Dublin,195000.0,No,Clonee,Dublin 15,q2,40%
+05/01/2015,"2 Linnetfields Court, Castaheany, Clonee",Dublin,142000.0,No,Clonee,Dublin 15,q1,10%
+06/01/2015,"233 Pace Rd, Little Pace Paddocks, Clonee Dublin 15",Dublin,255000.0,No,Clonee,Dublin 15,q3,70%
+20/01/2015,"113 Hazelburry Park, Clonee, Dublin 15",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+23/01/2015,"22 Bramblefield Park, Clonee, Dublin 15",Dublin,245000.0,No,Clonee,Dublin 15,q3,60%
+06/02/2015,"14 Thornberry Sq, Clonee, Dublin 15",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+06/02/2015,"4 The View, Hunters Run, Clonee Dublin 15",Dublin,305000.0,No,Clonee,Dublin 15,q4,90%
+09/02/2015,"25 Beechfield Meadows, Castaheany, Clonee Dublin 15",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+11/02/2015,"3 Linnetfields Drive, Clonee, Dublin 15",Dublin,177000.0,No,Clonee,Dublin 15,q1,30%
+12/02/2015,"26 Thornberry Sq, Clonee, Dublin 15",Dublin,145000.0,No,Clonee,Dublin 15,q1,10%
+13/02/2015,"190 Pace Ave, Littlepace, Clonee Dublin 15",Dublin,265000.0,No,Clonee,Dublin 15,q3,70%
+17/02/2015,"15 Linnetfields Park, Castaheany, Clonee",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+18/02/2015,"44 Deerhaven Ave, Clonee, Dublin 15",Dublin,235000.0,No,Clonee,Dublin 15,q2,50%
+18/02/2015,"45 Linnetfield Walk, Clonee, Dublin 15",Dublin,170000.0,No,Clonee,Dublin 15,q1,30%
+19/02/2015,"127 Hazelbury Park, Clonee, Dublin",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+20/02/2015,"1 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.33,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"10 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.0,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"11 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.0,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"12 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.0,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"2 Vicars Court, Archers Wood, Clonee Dublin 15",Dublin,70833.0,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"3 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.33,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"4 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.0,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"5 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.0,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"6 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.0,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"7 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.0,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"8 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.0,No,Clonee,Dublin 15,q1,10%
+20/02/2015,"9 Vicars Court, Archerswood, Clonee Dublin 15",Dublin,70833.0,No,Clonee,Dublin 15,q1,10%
+26/02/2015,"104 Hazelbury Park, Clonee, Dublin 15",Dublin,302000.0,No,Clonee,Dublin 15,q4,90%
+09/03/2015,"111 Pace Rd, Clonee, Meath",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+09/03/2015,"3 Castlegrange Green, Clonee, Dublin 15",Dublin,206000.0,No,Clonee,Dublin 15,q2,40%
+13/03/2015,"14 Beechfield Rise, Castaheany, Clonee Dublin 15",Dublin,330000.0,No,Clonee,Dublin 15,q4,100%
+18/03/2015,"6 The Grove, Hunters Run, Clonee",Dublin,251000.0,No,Clonee,Dublin 15,q3,60%
+23/03/2015,"3 Latchford Close, Clonee, Dublin 15",Dublin,190000.0,No,Clonee,Dublin 15,q2,30%
+10/04/2015,"34 Linnetfields Sq, Clonee, Dublin 15",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+15/04/2015,"15 The Drive, Pheasant Run, Clonee Dublin 15",Dublin,235000.0,No,Clonee,Dublin 15,q2,50%
+21/04/2015,"63 Hansfield, Clonee, Dublin",Dublin,317500.0,No,Clonee,Dublin 15,q4,90%
+22/04/2015,"26 Linnetfields Rise, Castaheany, Clonee",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+23/04/2015,"12 Linnetsfield Court, Phibblestown Rd, Clonee Dublin 15",Dublin,152500.0,No,Clonee,Dublin 15,q1,20%
+05/05/2015,"3 Beechfield Dr, Clonee, Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+18/05/2015,"24 Deerhaven Green, Clonee, Dublin 15",Dublin,235000.0,No,Clonee,Dublin 15,q2,50%
+29/05/2015,"30 Castlegrange Park, Clonee, Dublin 15",Dublin,268000.0,No,Clonee,Dublin 15,q3,70%
+29/05/2015,"40 Beechfield Meadows, Clonee, Dublin 15",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+16/06/2015,"17 Beechfield Heights, Clonee, Dublin",Dublin,180000.0,No,Clonee,Dublin 15,q1,30%
+17/06/2015,"136 Littlepace Walk, Clonee, Dublin 15",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+24/06/2015,"60 Whatley Hall Archerswood, Clonee Dublin 15, Dublin",Dublin,130000.0,No,Clonee,Dublin 15,q1,10%
+26/06/2015,"44 The Grove, Pheasant Run, Clonee",Dublin,310000.0,No,Clonee,Dublin 15,q4,90%
+29/06/2015,"8 The Drive, Pheasant Run, Clonee Dublin 15",Dublin,293500.0,No,Clonee,Dublin 15,q4,80%
+03/07/2015,"30 Hazelbury Park, Clonee, Dublin 15",Dublin,264000.0,No,Clonee,Dublin 15,q3,70%
+10/07/2015,"Apt 19 Block 7B, Annely Close  Ongar, Clonee",Dublin,153000.0,No,Clonee,Dublin 15,q1,20%
+16/07/2015,"40 The Park, Hunters Run, Clonee Dublin 15",Dublin,310000.0,No,Clonee,Dublin 15,q4,90%
+29/07/2015,"74 Hazlebury Park, Clonee, Dublin 15",Dublin,266000.0,No,Clonee,Dublin 15,q3,70%
+10/08/2015,"119 Hansfield, Clonee, Dublin 15",Dublin,333000.0,No,Clonee,Dublin 15,q4,100%
+12/08/2015,"8 The Park, Pheasant Run, Clonee Dublin 15",Dublin,271000.0,No,Clonee,Dublin 15,q3,80%
+13/08/2015,"5 Bramblefield Crescent, Clonee, Dublin 15",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+17/08/2015,"73 Ravenswood Crescent, Clonee, Dublin 15",Dublin,173000.0,No,Clonee,Dublin 15,q1,30%
+21/08/2015,"22 Hazelbury Green, Clonee, Dublin 15",Dublin,274000.0,No,Clonee,Dublin 15,q3,80%
+21/08/2015,"84 The Way, Hunters Run, Clonee Dublin 15",Dublin,247000.0,No,Clonee,Dublin 15,q3,60%
+03/09/2015,"7 The Park, Pheasants Run, Clonee",Dublin,270000.0,No,Clonee,Dublin 15,q3,70%
+04/09/2015,"23 Manorfields Close, Clonee, Dublin 15",Dublin,177000.0,No,Clonee,Dublin 15,q1,30%
+04/09/2015,"71 Linnetfields Walk, Clonee, Dublin 15",Dublin,235000.0,No,Clonee,Dublin 15,q2,50%
+07/09/2015,"33 Littlepace Park, Clonee, Dublin 15",Dublin,257000.0,No,Clonee,Dublin 15,q3,70%
+15/09/2015,"25 Deerhaven Park, Clonee, Dublin 15",Dublin,252000.0,No,Clonee,Dublin 15,q3,60%
+17/09/2015,"40 Thornberry Sq, Clonee, Meath",Dublin,146000.0,No,Clonee,Dublin 15,q1,20%
+18/09/2015,"179 Pace Ave, Clonee, Dublin",Dublin,257000.0,No,Clonee,Dublin 15,q3,70%
+18/09/2015,"222 Littlepace Meadows, Clonee, Dublin 15",Dublin,285500.0,No,Clonee,Dublin 15,q4,80%
+02/10/2015,"3 Beechfield Close, Clonee, Dublin 15",Dublin,261500.0,No,Clonee,Dublin 15,q3,70%
+06/10/2015,"29 Rosedale Crescent, Clonee, Dublin 15",Dublin,191000.0,No,Clonee,Dublin 15,q2,30%
+07/10/2015,"40 Manorfields Ave, Clonee, Dublin 15",Dublin,247000.0,No,Clonee,Dublin 15,q3,60%
+13/10/2015,"4 Ravenswood Rd, Clonee, Dublin",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+19/10/2015,"127A Littlepace Gallops, Clonee, Dublin 15",Dublin,235000.0,No,Clonee,Dublin 15,q2,50%
+19/10/2015,"39  Thornberry Square, Clonee",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+19/10/2015,"40 Littlepace Park, Clonee, Dublin 15",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+23/10/2015,"14 Manorfields View, Clonee, Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+23/10/2015,"15 Beechfield Lawns, Clonee, Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+11/11/2015,"6 Swallowbrook Crescent, Clonee, Dublin 15",Dublin,350000.0,No,Clonee,Dublin 15,q4,100%
+18/11/2015,"8 Deerhaven Ave, Clonee, Dublin 15",Dublin,242000.0,No,Clonee,Dublin 15,q3,60%
+19/11/2015,"102 Littlepace Park, Littlepace Paddocks, Clonee",Dublin,232500.0,No,Clonee,Dublin 15,q2,50%
+19/11/2015,"16 Bramblefield Crescent, Clonee, Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+19/11/2015,"74 The Way, Hunters Run, Clonee",Dublin,265000.0,No,Clonee,Dublin 15,q3,70%
+04/12/2015,"19 Allendale Glade, Clonee Dublin 15, Dublin",Dublin,179950.0,No,Clonee,Dublin 15,q1,30%
+10/12/2015,"29 Ravenswood Rise, Clonee, Dublin 15",Dublin,270000.0,No,Clonee,Dublin 15,q3,70%
+17/12/2015,"9 Deerhaven Ave, Clonee, Dublin 15",Dublin,256500.0,No,Clonee,Dublin 15,q3,70%
+18/12/2015,"94 Rosedale Crescent, Clonee, Dublin 15",Dublin,176000.0,No,Clonee,Dublin 15,q1,30%
+21/12/2015,"3 Castlegrange Park, Hansfield, Clonee Dublin 15",Dublin,255000.0,No,Clonee,Dublin 15,q3,70%
+21/12/2015,"61 Latchford Green, Castaheany, Clonee",Dublin,232000.0,No,Clonee,Dublin 15,q2,50%
+22/12/2015,"19 Rosedale Close, Clonee, Dublin 15",Dublin,142000.0,No,Clonee,Dublin 15,q1,10%
+22/12/2015,"24 Linnetsfield Sq, Clonee, Dublin",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+23/12/2015,"38 Rosedale Crescent, Clonee, Dublin 15",Dublin,150000.0,No,Clonee,Dublin 15,q1,20%
+23/12/2015,"78 Rosedale Crescent, Clonee, Dublin",Dublin,155000.0,No,Clonee,Dublin 15,q1,20%
+04/01/2016,"32 Latchford Sq, Clonee, Dublin 15",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+15/01/2016,"75 The Way, Hunters Run, Clonee",Dublin,215000.0,No,Clonee,Dublin 15,q2,40%
+22/01/2016,"27 Rosedale Close, Clonee, Dublin 15",Dublin,148000.0,No,Clonee,Dublin 15,q1,20%
+25/01/2016,"17 Williams Avenue, Ongar Green, Clonee",Dublin,150000.0,No,Clonee,Dublin 15,q1,20%
+25/01/2016,"209 Pace Ave, Littlepace, Clonee Dublin 15",Dublin,265000.0,No,Clonee,Dublin 15,q3,70%
+02/02/2016,"25 Ravenswood View, Clonee, Dublin 15",Dublin,120000.0,No,Clonee,Dublin 15,q1,10%
+04/02/2016,"81 The Grove, Hunters Run, Clonee Dublin 15",Dublin,310000.0,No,Clonee,Dublin 15,q4,90%
+16/02/2016,"95 Latchford Sq, Clonee, Dublin 15",Dublin,156000.0,No,Clonee,Dublin 15,q1,20%
+18/02/2016,"14 Ravenswood View, Clonee, Dublin 15",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+18/02/2016,"24 Bramblefield Walk, Clonee, Dublin 15",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+18/02/2016,"25 Ravenswood Crescent, Clonee, Dublin 15",Dublin,262000.0,No,Clonee,Dublin 15,q3,70%
+23/02/2016,"36 Rosedale Crescent, Clonee, Dublin 15",Dublin,142000.0,No,Clonee,Dublin 15,q1,10%
+24/02/2016,"22 Rosedale Crescent, Clonee, Dublin 15",Dublin,148000.0,No,Clonee,Dublin 15,q1,20%
+26/02/2016,"9 The Green Phesent Run, Clonee, Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+08/03/2016,"38 Linnetsfield Park, Clonee Dublin 15, Dublin",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+16/03/2016,"23 Linnetsfield Sq, Clonee, Dublin 15",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+18/03/2016,"204 Pace Avenue, Clonee",Dublin,257000.0,No,Clonee,Dublin 15,q3,70%
+18/03/2016,"46 The Drive, Hunters Run, Clonee",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+21/03/2016,"14 The Park, Pheasants Run, Clonee Dublin 15",Dublin,286000.0,No,Clonee,Dublin 15,q4,80%
+24/03/2016,"36 Hazelbury Park, Clonee, Dublin 15",Dublin,242500.0,No,Clonee,Dublin 15,q3,60%
+24/03/2016,"92 Rosedale Crescent, Clonee, Dublin 15",Dublin,180000.0,No,Clonee,Dublin 15,q1,30%
+30/03/2016,"91 Hansfield, Castaheany, Clonee Dublin 15",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+05/04/2016,"62 Whatley Hall, Archerswood, Clonee Dublin 15",Dublin,172000.0,No,Clonee,Dublin 15,q1,30%
+14/04/2016,"17 Deerhaven Park, Clonee, Dublin 15",Dublin,256000.0,No,Clonee,Dublin 15,q3,70%
+15/04/2016,"12 Linnetfields Rise, Clonee, Dublin 15",Dublin,223000.0,No,Clonee,Dublin 15,q2,50%
+21/04/2016,"36 Swallowbrook Crescent, Clonee, Dublin 15",Dublin,287000.0,No,Clonee,Dublin 15,q4,80%
+22/04/2016,"24 The Drive, Clonee, Dublin 15",Dublin,246000.0,No,Clonee,Dublin 15,q3,60%
+28/04/2016,"5 The Rise, Hunters Run, Clonee",Dublin,257000.0,No,Clonee,Dublin 15,q3,70%
+28/04/2016,"8 Beechfield Road, Clonee, Dublin 15",Dublin,171000.0,No,Clonee,Dublin 15,q1,30%
+05/05/2016,"36 Littlepace Park, Clonee, Dublin 15",Dublin,292000.0,No,Clonee,Dublin 15,q4,80%
+13/05/2016,"38 Beechfield Meadows, Cataheany, Clonee Dublin 15",Dublin,182000.0,No,Clonee,Dublin 15,q2,30%
+16/05/2016,"8 Beechfield Place, Clonee, Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+18/05/2016,"126 Littlepace Gallops, Clonee, Dublin 15",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+18/05/2016,"5 Bramblefield Park, Clonee, Dublin 15",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+18/05/2016,"84 Whatley Hall, Archerswood, Clonee Dublin 15",Dublin,175000.0,No,Clonee,Dublin 15,q1,30%
+18/05/2016,"84 Whatley Hall, Archerswood, Clonee Dublin 15",Dublin,175000.0,No,Clonee,Dublin 15,q1,30%
+20/05/2016,"7 Blackwood Crescent, Ongar, Clonee Dublin 15",Dublin,370000.0,No,Clonee,Dublin 15,q4,100%
+02/06/2016,"126 Hazelbury Green, Clonee, Dublin",Dublin,274000.0,No,Clonee,Dublin 15,q3,80%
+13/06/2016,"64 Hazelbury Green, Clonee, Dublin 15",Dublin,320000.0,No,Clonee,Dublin 15,q4,90%
+14/06/2016,"30 Beechfield Heights, Clonee, Dublin 15",Dublin,188250.0,No,Clonee,Dublin 15,q2,30%
+15/06/2016,"13 The View, Hunters Run, Clonee Dublin 15",Dublin,440000.0,No,Clonee,Dublin 15,q4,100%
+23/06/2016,"53 Phibblestown House, Clonee, Dublin 15",Dublin,162500.0,No,Clonee,Dublin 15,q1,20%
+27/06/2016,"235 Littlepace Court, Clonee Dublin 15, Dublin",Dublin,295000.0,No,Clonee,Dublin 15,q4,80%
+30/06/2016,"3 Castlegrange Avenue, Castaheany, Clonee",Dublin,259911.9,Yes,Clonee,Dublin 15,q3,70%
+05/07/2016,"144 Pace Crescent, Clonee, Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+08/07/2016,"18 Deerhaven Park, Clonee, Dublin 15",Dublin,265000.0,No,Clonee,Dublin 15,q3,70%
+15/07/2016,"237 Littlepace Court, Clonee, Dublin 15",Dublin,380000.0,No,Clonee,Dublin 15,q4,100%
+20/07/2016,"46 The Grove, Pheasant Run, Clonee Dublin 15",Dublin,345000.0,No,Clonee,Dublin 15,q4,100%
+22/07/2016,"17 Bramblefield Dr, Clonee, Dublin 15",Dublin,257000.0,No,Clonee,Dublin 15,q3,70%
+02/08/2016,"13 Linnetsfield Park, Clonee, Dublin",Dublin,168000.0,No,Clonee,Dublin 15,q1,20%
+05/08/2016,"112 Littlepace Gallops, Clonee, Dublin 15",Dublin,265000.0,No,Clonee,Dublin 15,q3,70%
+05/08/2016,"13 Manorfields Dr, Clonee, Dublin 15",Dublin,274000.0,No,Clonee,Dublin 15,q3,80%
+12/08/2016,"70 Castaheany, Clonee, Dublin 15",Dublin,340000.0,No,Clonee,Dublin 15,q4,100%
+18/08/2016,"10 Beechfield Lawn, Clonee, Dublin 15",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+19/08/2016,"28 Bramblefield Dr, Clonee, Dublin 15",Dublin,208000.0,No,Clonee,Dublin 15,q2,40%
+26/08/2016,"4 The Dr, Hunters Run, Clonee",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+30/08/2016,"12 Manorfields Dr, Clonee Dublin 15, Dublin",Dublin,280000.0,No,Clonee,Dublin 15,q3,80%
+30/08/2016,"2 Shackleton House, Clonee, Dublin 15",Dublin,174000.0,No,Clonee,Dublin 15,q1,30%
+30/08/2016,"62 Hansfield, Clonee, Dublin 15",Dublin,317500.0,No,Clonee,Dublin 15,q4,90%
+14/09/2016,"131 Pace Avenue, Clonee, Dublin 15",Dublin,270000.0,No,Clonee,Dublin 15,q3,70%
+19/09/2016,"25 Beechfield Heights, Castaheany, Clonee Dublin 15",Dublin,315000.0,No,Clonee,Dublin 15,q4,90%
+22/09/2016,"9 Manorfields View, Clonee, Dublin 15",Dublin,252000.0,No,Clonee,Dublin 15,q3,60%
+05/10/2016,"59 Shackleton House, Archers Wood, Clonee",Dublin,207500.0,No,Clonee,Dublin 15,q2,40%
+06/10/2016,"188 Littlepace Woods, Littlepace, Clonee Dublin 15",Dublin,327000.0,No,Clonee,Dublin 15,q4,100%
+07/10/2016,"28 The Way, Hunters Run, Clonee Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+07/10/2016,"38 Linnetsfield Park, Clonee Dublin 15, Dublin",Dublin,186000.0,No,Clonee,Dublin 15,q2,30%
+10/10/2016,"7 Manorfield Green, Castaheany, Clonee Dublin 15",Dublin,280000.0,No,Clonee,Dublin 15,q3,80%
+13/10/2016,"23 The Way, Hunters Run, Clonee Dublin 15",Dublin,378000.0,No,Clonee,Dublin 15,q4,100%
+13/10/2016,"27 Summerseat Green, Clonee",Dublin,166666.0,Yes,Clonee,Dublin 15,q1,20%
+14/10/2016,"16 Linnetfields Court, Clonee, Dublin 15",Dublin,170000.0,No,Clonee,Dublin 15,q1,30%
+14/10/2016,"16 The Park, Hunters Run, Clonee Dublin 15",Dublin,370000.0,No,Clonee,Dublin 15,q4,100%
+14/10/2016,"53 Latchford Green, Castaheany, Clonee",Dublin,221000.0,No,Clonee,Dublin 15,q2,50%
+20/10/2016,"13 Archers Wood, Clonee, Dublin 15",Dublin,194000.0,No,Clonee,Dublin 15,q2,30%
+24/10/2016,"234 Littlepace Crt, Clonee, Dublin 15",Dublin,326000.0,No,Clonee,Dublin 15,q4,100%
+25/10/2016,"35 The Drive, Pheasants Run, Clonee Dublin 15",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+27/10/2016,"5 Swallowbrook Park, Clonee, Dublin 15",Dublin,278000.0,No,Clonee,Dublin 15,q3,80%
+28/10/2016,"2 Hazelbury Green, Clonee, Dublin 15",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+01/11/2016,"5 Deerhaven Park, Clonee, Dublin 15",Dublin,269950.0,No,Clonee,Dublin 15,q3,70%
+04/11/2016,"5 Manorfields Walk, Clonee, Dublin 15",Dublin,210000.0,No,Clonee,Dublin 15,q2,40%
+10/11/2016,"26 Beechfield Way, Beechfield Park, Clonee",Dublin,191000.0,No,Clonee,Dublin 15,q2,30%
+18/11/2016,"74 The Way, Hunters Run, Clonee Dublin 15",Dublin,295000.0,No,Clonee,Dublin 15,q4,90%
+25/11/2016,"41 Littlepace Park, Clonee, Dublin 15",Dublin,270000.0,No,Clonee,Dublin 15,q3,70%
+28/11/2016,"35 Hansfield, Clonee, Dublin 15",Dublin,277000.0,No,Clonee,Dublin 15,q3,80%
+01/12/2016,"5 Castlegrange Green, Castaheany, Clonee",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+02/12/2016,"120 Hazelbury Green, Clonee, Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+02/12/2016,"66 Rosedale Crescent, Clonee, Dublin 15",Dublin,161000.0,No,Clonee,Dublin 15,q1,20%
+05/12/2016,"12 Hayworth Close, Ongar Village, Clonee",Dublin,157000.0,No,Clonee,Dublin 15,q1,20%
+06/12/2016,"121 Pace Rd, Littlepace, Clonee",Dublin,258000.0,No,Clonee,Dublin 15,q3,70%
+06/12/2016,"9 Deerhaven View, Clonee, Dublin 15",Dublin,265000.0,No,Clonee,Dublin 15,q3,70%
+14/12/2016,"30 Bramblefield View, Clonee, Dublin 15",Dublin,259000.0,No,Clonee,Dublin 15,q3,70%
+15/12/2016,"10 Rosedale Close, Clonee, Dublin 15",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+15/12/2016,"10 Rosedale Close, Clonee, Dublin 15",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+15/12/2016,"18 Rosedale Close, Clonee, Dublin 15",Dublin,235000.0,No,Clonee,Dublin 15,q2,50%
+15/12/2016,"18 Rosedale Close, Clonee, Dublin 15",Dublin,235000.0,No,Clonee,Dublin 15,q2,50%
+15/12/2016,"31 Ravenswood View, Clonee, Dublin 15",Dublin,170000.0,No,Clonee,Dublin 15,q1,30%
+15/12/2016,"31 Ravenswood View, Clonee, Dublin 15",Dublin,170000.0,No,Clonee,Dublin 15,q1,30%
+15/12/2016,"53 Rosedale Close, Clonee, Dublin 15",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+15/12/2016,"53 Rosedale Close, Clonee, Dublin 15",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+15/12/2016,"58 Rosedale Crescent, Clonee, Dublin 15",Dublin,145000.0,No,Clonee,Dublin 15,q1,10%
+15/12/2016,"58 Rosedale Crescent, Clonee, Dublin 15",Dublin,145000.0,No,Clonee,Dublin 15,q1,20%
+15/12/2016,"61 Rosedale Close, Clonee, Dublin 15",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+15/12/2016,"61 Rosedale Close, Clonee, Dublin 15",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+15/12/2016,"68 Rosedale Crescent, Clonee, Dublin 15",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+15/12/2016,"68 Rosedale Crescent, Clonee, Dublin 15",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+15/12/2016,"69 Latchford Sq, Clonee, Dublin 15",Dublin,215000.0,No,Clonee,Dublin 15,q2,40%
+15/12/2016,"70 Rosedale Crescent, Clonee, Dublin 15",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+15/12/2016,"70 Rosedale Crescent, Clonee, Dublin 15",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+15/12/2016,"72 Rosedale Crescent, Clonee, Dublin 15",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+15/12/2016,"72 Rosedale Crescent, Clonee, Dublin 15",Dublin,140000.0,No,Clonee,Dublin 15,q1,10%
+19/12/2016,"10 Delhurst Mews, Ongar Park, Clonee Dublin 15",Dublin,226000.0,No,Clonee,Dublin 15,q2,50%
+22/12/2016,"2 Summerseat Glen, Clonee",Dublin,290000.0,Yes,Clonee,Dublin 15,q4,80%
+12/01/2017,"3 Beechfield Court, Clonee, Dublin 15",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+24/01/2017,"13 Beechfield Way, Clonee, Dublin 15",Dublin,264000.0,No,Clonee,Dublin 15,q3,70%
+28/01/2017,"14 Manorfields Dale, Clonee, Dublin 15",Dublin,261000.0,No,Clonee,Dublin 15,q3,70%
+31/01/2017,"32 Little Pace Park, Clonee, Dublin 15",Dublin,337000.0,No,Clonee,Dublin 15,q4,100%
+03/02/2017,"96 Littlepace Woods, Clonee, Dublin 15",Dublin,270000.0,No,Clonee,Dublin 15,q3,70%
+15/02/2017,"30 Deerhaven Ave, Clonee, Dublin 15",Dublin,242000.0,No,Clonee,Dublin 15,q3,60%
+24/02/2017,"12 Bramblefield Park, Clonee, Dublin 15",Dublin,325000.0,No,Clonee,Dublin 15,q4,100%
+01/03/2017,"53 Whatley Hall, Archerswood, Clonee Dublin 15",Dublin,194000.0,No,Clonee,Dublin 15,q2,30%
+02/03/2017,"29 Archers Wood, Clonee, Dublin 15",Dublin,216000.0,No,Clonee,Dublin 15,q2,40%
+03/03/2017,"52 Hazelbury Park, Clonee, Dublin 15",Dublin,242000.0,No,Clonee,Dublin 15,q3,60%
+10/03/2017,"60 The Way Hunters Run, Clonee, Dublin 15",Dublin,270000.0,No,Clonee,Dublin 15,q3,80%
+23/03/2017,"35 Thornbury Sq, Clonee, Dublin 15",Dublin,150000.0,No,Clonee,Dublin 15,q1,20%
+05/04/2017,"12 The Park, Pheasant Run, Clonee Dublin 15",Dublin,200000.0,No,Clonee,Dublin 15,q2,40%
+07/04/2017,"2 Delhurst Close, Ongar, Clonee Dublin 15",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+13/04/2017,"37 Thornbury Square, Clonee, Dublin 15",Dublin,165000.0,No,Clonee,Dublin 15,q1,20%
+18/04/2017,"43 Littlepace Dr, Clonee, Dublin 15",Dublin,270000.0,No,Clonee,Dublin 15,q3,80%
+19/04/2017,"18 Linnetfield Park, Clonee, Dublin 15",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+20/04/2017,"17 Ravenswood Lawn, Clonee, Dublin 15",Dublin,203000.0,No,Clonee,Dublin 15,q2,40%
+21/04/2017,"55 Whatley Hall, Archerswood, Clonee Dublin 15",Dublin,193000.0,No,Clonee,Dublin 15,q2,30%
+28/04/2017,"7 Beechfield View, Clonee, Meath",Dublin,280000.0,No,Clonee,Dublin 15,q3,80%
+30/05/2017,"25 Swallowbrook View, Clonee, Dublin 15",Dublin,307000.0,No,Clonee,Dublin 15,q4,90%
+05/06/2017,"25 Whatley Hall, Archerswood, Clonee",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+15/06/2017,"38 Beechfield Heights, Clonee, Dublin 15",Dublin,210000.0,No,Clonee,Dublin 15,q2,40%
+16/06/2017,"38 Summerseat Crescent, Clonee, Dublin 15",Dublin,229074.89,Yes,Clonee,Dublin 15,q2,50%
+16/06/2017,"6 Castlegrange Green, Clonee, Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+20/06/2017,"28 Beechfield Place, Clonee, Dublin 15",Dublin,208000.0,No,Clonee,Dublin 15,q2,40%
+28/06/2017,"81 Castaheany, Clonee, Dublin 15",Dublin,315000.0,No,Clonee,Dublin 15,q4,90%
+28/06/2017,"97 Littlepace Drive, Clonee, Dublin 15",Dublin,293000.0,No,Clonee,Dublin 15,q4,80%
+29/06/2017,"13 Linnetfields Rise, Clonee, Dublin 15",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+29/06/2017,"21 Castaheany, Clonee, Dublin 15",Dublin,350000.0,No,Clonee,Dublin 15,q4,100%
+03/07/2017,"37 Littlepace Way, Littlepace Paddocks, Clonee",Dublin,280000.0,No,Clonee,Dublin 15,q3,80%
+04/07/2017,"10 What Ley Hall, Clonee, Dublin 15",Dublin,192000.0,No,Clonee,Dublin 15,q2,30%
+05/07/2017,"12 Linnetsfield Court, Phibblestown Rd, Clonee Dublin 15",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+05/07/2017,"19 Deerhaven View, Clonee, Dublin 15",Dublin,266000.0,No,Clonee,Dublin 15,q3,70%
+06/07/2017,"20 Beechfield Rd, Clonee, Dublin 15",Dublin,320000.0,No,Clonee,Dublin 15,q4,90%
+13/07/2017,"206 Pace Ave, Clonee, Dublin 15",Dublin,295000.0,No,Clonee,Dublin 15,q4,90%
+28/07/2017,"26 Littlepace Park, Clonee, Dublin 15",Dublin,425000.0,No,Clonee,Dublin 15,q4,100%
+04/08/2017,"30 Thornberry Sq, Clonee, Dublin 15",Dublin,202000.0,No,Clonee,Dublin 15,q2,40%
+08/08/2017,"10 The Crescent, Manorfields, Clonee Dublin 15",Dublin,326000.0,No,Clonee,Dublin 15,q4,100%
+08/08/2017,"2 Beechfield Dr, Clonee, Dublin 15",Dublin,285000.0,No,Clonee,Dublin 15,q4,80%
+19/08/2017,"86 The Way, Hunters Run, Clonee Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+22/08/2017,"53 Latchford Close, Clonee, Dublin 15",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+23/08/2017,"132 Littlepace Walk, Clonee, Dublin 15",Dublin,306000.0,No,Clonee,Dublin 15,q4,90%
+23/08/2017,"21 Archers Wood, Clonee, Dublin 15",Dublin,252000.0,No,Clonee,Dublin 15,q3,60%
+25/08/2017,"14 Blackwood Crescent, Ongar Chase, Clonee Dublin 15",Dublin,560000.0,No,Clonee,Dublin 15,q4,100%
+31/08/2017,"127 Hazelbury Park, Clonee, Dublin",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+05/09/2017,"2 The Wood, Hunters Run, Clonee Dublin 15",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+27/09/2017,"61 Castaheany, Clonee, Dublin 15",Dublin,342000.0,No,Clonee,Dublin 15,q4,100%
+27/09/2017,"8 Ravenswood Ave, Clonee, Dublin 15",Dublin,233500.0,No,Clonee,Dublin 15,q2,50%
+28/09/2017,"28 Deerhaven Walk, Clonee, Dublin 15",Dublin,285000.0,No,Clonee,Dublin 15,q4,80%
+29/09/2017,"20 Castlegrange Ave, Clonee, Dublin 15",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+29/09/2017,"64 Littlepace View, Clonee, Dublin",Dublin,279000.0,No,Clonee,Dublin 15,q3,80%
+29/09/2017,"96 Rosedale Crescent, Clonee, Dublin 15",Dublin,155000.0,No,Clonee,Dublin 15,q1,20%
+03/10/2017,"21 Rosedale Close, Clonee, Dublin 15",Dublin,205000.0,No,Clonee,Dublin 15,q2,40%
+04/10/2017,"18 Bramblefield Drive, Clonee, Dublin 15",Dublin,243000.0,No,Clonee,Dublin 15,q3,60%
+06/10/2017,"15 The Grove, Pheasant Run, Clonee Dublin 15",Dublin,295000.0,No,Clonee,Dublin 15,q4,90%
+06/10/2017,"27 Latchford Close, Clonee, Dublin 15",Dublin,239500.0,No,Clonee,Dublin 15,q3,60%
+11/10/2017,"17 The Grove, Pheasant Run, Clonee Dublin 15",Dublin,305000.0,No,Clonee,Dublin 15,q4,90%
+19/10/2017,"52 Shackleton House, Archerswood, Clonee Dublin 15",Dublin,215000.0,No,Clonee,Dublin 15,q2,40%
+02/11/2017,"92 Castaheany, Clonee, Dublin 15",Dublin,312500.0,No,Clonee,Dublin 15,q4,90%
+07/11/2017,"3 The Grove, Pheasants Run, Clonee Dublin 15",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+16/11/2017,"57 Hazelbury Park, Phibblestown, Clonee Dublin 15",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+17/11/2017,"175 Pace View, Littlepace Paddocks, Clonee Dublin 15",Dublin,326800.0,No,Clonee,Dublin 15,q4,100%
+22/11/2017,"37 Rosedale Crescent, Clonee, Dublin 15",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+27/11/2017,"12 The Close, Hunters Run, Clonee",Dublin,295000.0,No,Clonee,Dublin 15,q4,90%
+28/11/2017,"13 The  Walk, Summerseat, Clonee Manor",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+29/11/2017,"115 Latchford Sq, Castlaheaney, Clonee Dublin 15",Dublin,200000.0,No,Clonee,Dublin 15,q2,40%
+29/11/2017,"29 Littlepace Park, Clonee, Dublin 15",Dublin,337000.0,No,Clonee,Dublin 15,q4,100%
+29/11/2017,"69 Castaheany, Clonee, Dublin 15",Dublin,425000.0,No,Clonee,Dublin 15,q4,100%
+01/12/2017,"38 The Park, Hunters Run, Clonee Dublin 15",Dublin,336000.0,No,Clonee,Dublin 15,q4,100%
+14/12/2017,"120 Hazelbury Park, Clonee, Co Meath",Dublin,262000.0,No,Clonee,Dublin 15,q3,70%
+14/12/2017,"242 Littlepace Court, Clonee, Dublin 15",Dublin,387000.0,No,Clonee,Dublin 15,q4,100%
+14/12/2017,"68 Deerhaven Ave, Clonee, Dublin 15",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+15/12/2017,"55 Rosedale Close, Clonee, Dublin 15",Dublin,175000.0,No,Clonee,Dublin 15,q1,30%
+15/12/2017,"96 Littlepace Drive, Clonee, Dublin 15",Dublin,280000.0,No,Clonee,Dublin 15,q4,80%
+18/12/2017,"35 Bramblefield View, Clonee Dublin 15, Dublin",Dublin,298000.0,No,Clonee,Dublin 15,q4,90%
+19/12/2017,"38 Hazelbury Green, Clonee, Dublin 15",Dublin,312000.0,No,Clonee,Dublin 15,q4,90%
+19/12/2017,"89 Hansfiled, Castaheaney, Clonee Dublin 15",Dublin,318000.0,No,Clonee,Dublin 15,q4,90%
+21/12/2017,"12 Beechfield Rd, Clonee, Dublin 15",Dublin,311000.0,No,Clonee,Dublin 15,q4,90%
+21/12/2017,"33 Rosedale Close, Clonee, Dublin 15",Dublin,228000.0,No,Clonee,Dublin 15,q2,50%
+24/01/2018,"50 Ravenswood Crescent, Clonee, Dublin 15",Dublin,210000.0,No,Clonee,Dublin 15,q2,40%
+26/01/2018,"14 Manorfield Ave, Clonee, Dublin 15",Dublin,315000.0,No,Clonee,Dublin 15,q4,90%
+26/01/2018,"21 The Green, Pheasant Run, Clonee Dublin 15",Dublin,210000.0,No,Clonee,Dublin 15,q2,40%
+05/02/2018,"11 Bramblefield Dr, Clonee Dublin 15, Dublin",Dublin,280000.0,No,Clonee,Dublin 15,q4,80%
+06/02/2018,"12 The Woods, Hunters Run, Clonee Dublin 15",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+20/02/2018,"76 Deerhaven Ave, Clonee, Dublin 15",Dublin,224000.0,No,Clonee,Dublin 15,q2,50%
+23/02/2018,"36 Thornbury Sq, Clonee, Dublin 15",Dublin,186000.0,No,Clonee,Dublin 15,q2,30%
+07/03/2018,"9 Linnetsfield View, Clonee, Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+08/03/2018,"3 The Glade Hunters Run, Clonee, Hunters Run Dublin 15",Dublin,284920.38,No,Clonee,Dublin 15,q4,80%
+13/03/2018,"Apt 19, Sterling Square, Clonee",Dublin,122000.0,No,Clonee,Dublin 15,q1,10%
+16/03/2018,"19 Shackleton House, Archers Wood, Clonee",Dublin,95000.0,No,Clonee,Dublin 15,q1,10%
+16/03/2018,"26 The Way, Hunters Run, Clonee Dublin 15",Dublin,305000.0,No,Clonee,Dublin 15,q4,90%
+20/03/2018,"32 Castlegrange Dale, Castaheany, Clonee Dublin 15",Dublin,321000.0,No,Clonee,Dublin 15,q4,100%
+20/03/2018,"59 Rosedale Close, Clonee, Dublin 15",Dublin,191500.0,No,Clonee,Dublin 15,q2,30%
+22/03/2018,"48 The Way, Hunters Run, Clonee Dublin 15",Dublin,242000.0,No,Clonee,Dublin 15,q3,60%
+26/03/2018,"10 Linnetfields Walk, Clonee, Dublin 15",Dublin,260000.0,No,Clonee,Dublin 15,q3,70%
+13/04/2018,"40 The Way, Hunters Run Clonee, Dublin 15",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+24/04/2018,"22 Manorfields Close, Clonee, Dublin 15",Dublin,222000.0,No,Clonee,Dublin 15,q2,50%
+24/04/2018,"39 Linnettefields Pk, Clonee, Dublin 15",Dublin,200000.0,No,Clonee,Dublin 15,q2,40%
+30/04/2018,"27 Beechfield Way, Clonee, Dublin 15",Dublin,231000.0,No,Clonee,Dublin 15,q2,50%
+11/05/2018,"16 Beechfield Heights, Clonee, Dublin",Dublin,210000.0,No,Clonee,Dublin 15,q2,40%
+18/05/2018,"72 Hazelbury Park, Clonee, Dublin 15",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+21/05/2018,"29 Latchford Park, Castaheany, Clonee",Dublin,192000.0,No,Clonee,Dublin 15,q2,30%
+25/05/2018,"79 The Grove Hunters Run, Clonee Dublin 15, Dublin",Dublin,325000.0,No,Clonee,Dublin 15,q4,100%
+30/05/2018,"2 Linnets Fields Close, Castaheany, Clonee",Dublin,195000.0,No,Clonee,Dublin 15,q2,40%
+20/06/2018,"25 Deerhaven Ave, Clonee Dublin 15, Dublin",Dublin,274000.0,No,Clonee,Dublin 15,q3,80%
+20/06/2018,"26 Linnetsfields Square, Clonee, Dublin 15",Dublin,195000.0,No,Clonee,Dublin 15,q2,40%
+28/06/2018,"18 Shackleton House, Archerswood, Clonee Dublin 15",Dublin,205000.0,No,Clonee,Dublin 15,q2,40%
+29/06/2018,"16 Manorfields Dr, Clonee, Dublin 15",Dublin,380000.0,No,Clonee,Dublin 15,q4,100%
+02/07/2018,"42 Bramblefield Drive, Clonee, Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+03/07/2018,"74 Hazelbury Green, Clonee, Dublin",Dublin,295000.0,No,Clonee,Dublin 15,q4,90%
+05/07/2018,"54 The Way, Hunters Run, Clonee Dublin 15",Dublin,346000.0,No,Clonee,Dublin 15,q4,100%
+06/07/2018,"10 Deerhaven Close, Clonee, Dublin 15",Dublin,315000.0,No,Clonee,Dublin 15,q4,90%
+18/07/2018,"30 The Crescent, Ongar, Clonee",Dublin,148000.0,No,Clonee,Dublin 15,q1,20%
+24/07/2018,"48 Bramblefield Dr, Clonee, Dublin 15",Dublin,235000.0,No,Clonee,Dublin 15,q3,60%
+26/07/2018,"20 Beechfield Heights, Clonee, Dublin 15",Dublin,280000.0,No,Clonee,Dublin 15,q4,80%
+31/07/2018,"15 Linnet Fields Sq, Clonee, Dublin 15",Dublin,160000.0,No,Clonee,Dublin 15,q1,20%
+01/08/2018,"177 Hazelbury Park, Clonee, Dublin 15",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+03/08/2018,"15 Bramblefield Walk, Clonee, Dublin 15",Dublin,360000.0,No,Clonee,Dublin 15,q4,100%
+15/08/2018,"30 Ravenswood Crescent, Clonee, Dublin 15",Dublin,216877.92,No,Clonee,Dublin 15,q2,40%
+17/08/2018,"10 Deerhaven Park, Clonee, Dublin",Dublin,325000.0,No,Clonee,Dublin 15,q4,100%
+17/08/2018,"7 Linnetsfield View, Clonee Dublin 15, Dublin",Dublin,242000.0,No,Clonee,Dublin 15,q3,60%
+30/08/2018,"6 Beechfield Heights, Clonee, Dublin",Dublin,215000.0,No,Clonee,Dublin 15,q2,40%
+31/08/2018,"6 Manorfields Green, Clonee, Dublin 15",Dublin,310000.0,No,Clonee,Dublin 15,q4,90%
+05/09/2018,"20 Beechfield Dr, Clonee, Dublin 15",Dublin,335000.0,No,Clonee,Dublin 15,q4,100%
+05/09/2018,"5 Beechfield Heights, Clonee, Dublin 15",Dublin,220000.0,No,Clonee,Dublin 15,q2,50%
+06/09/2018,"1 The Green, Pheasant Run, Clonee Dublin 15",Dublin,402000.0,No,Clonee,Dublin 15,q4,100%
+06/09/2018,"32 Manorfields Ave, Clonee, Dublin 15",Dublin,308000.0,No,Clonee,Dublin 15,q4,90%
+06/09/2018,"79 Little Pace Dr, Clonee, Dublin",Dublin,315000.0,No,Clonee,Dublin 15,q4,90%
+07/09/2018,"135 Pace Ave, Clonee, Dublin 15",Dublin,306000.0,No,Clonee,Dublin 15,q4,90%
+07/09/2018,"14 Linnetfields Sq, Castaheany, Clonee Dublin 15",Dublin,210000.0,No,Clonee,Dublin 15,q2,40%
+07/09/2018,"4 Deerhaven Park, Clonee, Dublin",Dublin,355000.0,No,Clonee,Dublin 15,q4,100%
+07/09/2018,"4 Thornberry Sq, Clonee, Dublin 15",Dublin,210000.0,No,Clonee,Dublin 15,q2,40%
+07/09/2018,"Apt 30 Whately Hall, Archers Wood, Clonee Dublin 15",Dublin,210000.0,No,Clonee,Dublin 15,q2,40%
+11/09/2018,"13 Linnetfield Court, Clonee, Dublin 15",Dublin,190000.0,No,Clonee,Dublin 15,q2,30%
+11/09/2018,"91 Littlepace Woods, Littlepace, Clonee Dublin 15",Dublin,330000.0,No,Clonee,Dublin 15,q4,100%
+17/09/2018,"28 Manorfield Ave, Clonee, Dublin 15",Dublin,295000.0,No,Clonee,Dublin 15,q4,90%
+18/09/2018,"11 Deerhaven Close, Clonee, Dublin 15",Dublin,307750.0,No,Clonee,Dublin 15,q4,90%
+18/09/2018,"46 Hazelbury Green, Clonee Dublin 15, Dublin",Dublin,307000.0,No,Clonee,Dublin 15,q4,90%
+19/09/2018,"18 Manorfields Rd, Clonee, Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+26/09/2018,"98 Hansfield Castaheany, Clonee Dublin 15, Dublin",Dublin,70000.0,No,Clonee,Dublin 15,q1,10%
+01/10/2018,"20 Deerhaven Ave, Clonee Dublin 15, Dublin",Dublin,310000.0,No,Clonee,Dublin 15,q4,90%
+02/10/2018,"9 The Rise, Hunters Run, Clonee Dublin 15",Dublin,325000.0,No,Clonee,Dublin 15,q4,100%
+05/10/2018,"76 Deerhaven Ave, Clonee, Dublin 15",Dublin,310000.0,No,Clonee,Dublin 15,q4,90%
+19/10/2018,"15 Beechfield Heights, Clonee, Dublin 15",Dublin,222500.0,No,Clonee,Dublin 15,q2,50%
+22/10/2018,"39 Hazelbury Park, Clonee, Dublin 15",Dublin,295000.0,No,Clonee,Dublin 15,q4,90%
+30/10/2018,"21 The Grove, Pheanasts Rue, Clonee Dublin 15",Dublin,325000.0,No,Clonee,Dublin 15,q4,100%
+31/10/2018,"103 Littlepace Park, Clonee, Dublin 15",Dublin,345000.0,No,Clonee,Dublin 15,q4,100%
+31/10/2018,"9 Ravenswood Lawn, Clonee, Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+02/11/2018,"21 The Green, Pheasant Run, Clonee Dublin 15",Dublin,300000.0,No,Clonee,Dublin 15,q4,90%
+06/11/2018,"40 Bramblefield Crescent, Clonee, Dublin 15",Dublin,302000.0,No,Clonee,Dublin 15,q4,90%
+06/11/2018,"82 Littlepace Park, Clonee, Dublin 15",Dublin,322500.0,No,Clonee,Dublin 15,q4,100%
+08/11/2018,"10 Linnetfields View, Clonee, Dublin 15",Dublin,235000.0,No,Clonee,Dublin 15,q3,60%
+09/11/2018,"28 Manorfields Walk, Clonee, Dublin 15",Dublin,340000.0,No,Clonee,Dublin 15,q4,100%
+13/11/2018,"12 Castlegrange Ave, Castaheany, Clonee Dublin 15",Dublin,314000.0,No,Clonee,Dublin 15,q4,90%
+20/11/2018,"25 Swallowbrook View, Clonee, Dublin 15",Dublin,365000.0,No,Clonee,Dublin 15,q4,100%
+26/11/2018,"12 Holsteiner Park, Williamstown Stud, Clonee",Dublin,801762.12,Yes,Clonee,Dublin 15,q4,100%
+29/11/2018,"1 Latchford Close, Clonee, Dublin 15",Dublin,320000.0,No,Clonee,Dublin 15,q4,90%
+29/11/2018,"76 Whately Hall, Archerswood, Clonee Dublin 15",Dublin,180000.0,No,Clonee,Dublin 15,q1,30%
+30/11/2018,"177 Hazelbury Park, Clonee, Dublin 15",Dublin,340000.0,No,Clonee,Dublin 15,q4,100%
+30/11/2018,"7 Beechfield Way, Clonee, Dublin 15",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+04/12/2018,"38 Bramblefield View, Clonee, Dublin",Dublin,327500.0,No,Clonee,Dublin 15,q4,100%
+07/12/2018,"24 Linnetfields Rise, Clonee, Dublin 15",Dublin,231000.0,No,Clonee,Dublin 15,q2,50%
+10/12/2018,"7 Thornberry Sq, Littlepace, Clonee Dublin 15",Dublin,208000.0,No,Clonee,Dublin 15,q2,40%
+10/12/2018,"92 Hazelbury Park, Clonee, Dublin 15",Dublin,340000.0,No,Clonee,Dublin 15,q4,100%
+13/12/2018,"38 Thornbury Sq, Clonee, Dublin 15",Dublin,203500.0,No,Clonee,Dublin 15,q2,40%
+18/12/2018,"16 Bramblefield, View Clonee, Dublin 15",Dublin,308000.0,No,Clonee,Dublin 15,q4,90%
+19/12/2018,"13 Linnetfield Court, Clonee, Dublin 15",Dublin,190000.0,No,Clonee,Dublin 15,q2,30%
+20/12/2018,"4 Beechfield Heights, Clonee, Dublin",Dublin,216000.0,No,Clonee,Dublin 15,q2,40%
+20/12/2018,"4 Latchford Sq, Clonee, Dublin 15",Dublin,255000.0,No,Clonee,Dublin 15,q3,70%
+21/12/2018,"14 Beechfield Rd, Clonee, Dublin 15",Dublin,353000.0,No,Clonee,Dublin 15,q4,100%
+04/01/2019,"56 The Grove, Hunters Run, Clonee Dublin 15",Dublin,377500.0,No,Clonee,Dublin 15,q4,100%
+07/01/2019,"56 Deerhaven Ave, Clonee, Dublin 15",Dublin,310000.0,No,Clonee,Dublin 15,q4,90%
+10/01/2019,"15 Deerhaven Park, Clonee, Dublin 15",Dublin,285000.0,No,Clonee,Dublin 15,q4,80%
+11/01/2019,"194 Littlepace Woods, Clonee, Dublin 15",Dublin,330000.0,No,Clonee,Dublin 15,q4,100%
+24/01/2019,"32 Latchford Park, Clonee Dublin 15, Dublin",Dublin,250000.0,No,Clonee,Dublin 15,q3,60%
+28/01/2019,"36 Manorfields Avenue, Clonee, Dublin 15",Dublin,282500.0,No,Clonee,Dublin 15,q4,80%
+31/01/2019,"251 Pace Rd, Littlepace, Clonee Dublin 15",Dublin,285000.0,No,Clonee,Dublin 15,q4,80%
+31/01/2019,"31 The Grove, Hunters Run, Clonee Dublin 15",Dublin,297000.0,No,Clonee,Dublin 15,q4,90%
+06/02/2019,"21 Hazelbury Park, Clonee, Dublin 15",Dublin,345000.0,No,Clonee,Dublin 15,q4,100%
+07/02/2019,"30 Beechfiled Meadows, Castaheany, Clonee",Dublin,235000.0,No,Clonee,Dublin 15,q3,60%
+08/02/2019,"11 The Park, Pheasant Run, Clonee Dublin 15",Dublin,322000.0,No,Clonee,Dublin 15,q4,100%
+11/02/2019,"19 Chipping Terrace, Ongar Village, Clonee",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+14/02/2019,"107 Hazelbury Park, Clonee, Dublin 15",Dublin,270000.0,No,Clonee,Dublin 15,q3,80%
+14/02/2019,"15 Hazelbury Park, Phibblestown, Clonee Dublin 15",Dublin,330000.0,No,Clonee,Dublin 15,q4,100%
+15/02/2019,"14 The Park, Hunters Run, Clonee Dublin 15",Dublin,391000.0,No,Clonee,Dublin 15,q4,100%
+20/03/2019,"40 Beechfield Meadows, Clonee, Dublin 15",Dublin,270000.0,No,Clonee,Dublin 15,q3,80%
+20/03/2019,"76 Littlepace Park, Clonee, Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+28/03/2019,"43 Shackleton House, Archerswood, Clonee Dublin 15",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+29/03/2019,"7 The Drive Pheasant Run, Clonee Dublin 15, Dublin",Dublin,307000.0,No,Clonee,Dublin 15,q4,90%
+05/04/2019,"20 Hazelbury Park, Clonee, Dublin 15",Dublin,355000.0,No,Clonee,Dublin 15,q4,100%
+09/04/2019,"52 Castaheany, Clonee, Dublin 15",Dublin,310000.0,No,Clonee,Dublin 15,q4,90%
+11/04/2019,"15 Ravenswood View, Clonee Dublin 15, Dublin",Dublin,210084.74,No,Clonee,Dublin 15,q2,40%
+11/04/2019,"18 Linnetfields Sq, Clonee, Dublin 15",Dublin,238000.0,No,Clonee,Dublin 15,q3,60%
+12/04/2019,"18 Bramblefield Crescent, Clonee, Dublin 15",Dublin,311000.0,No,Clonee,Dublin 15,q4,90%
+12/04/2019,"24 Hazelbury Green, Clonee, Dublin 15",Dublin,330000.0,No,Clonee,Dublin 15,q4,100%
+12/04/2019,"52 Phibblestown Wood, Clonee, Dublin 15",Dublin,205000.0,No,Clonee,Dublin 15,q2,40%
+12/04/2019,"67 Hazelbury Park, Clonee, Meath",Dublin,289000.0,No,Clonee,Dublin 15,q4,80%
+16/04/2019,"2 Beechfield Green, Clonee, Dublin 15",Dublin,277000.0,No,Clonee,Dublin 15,q3,80%
+18/04/2019,"43 Rosedale Close, Clonee, Dublin 15",Dublin,205000.0,No,Clonee,Dublin 15,q2,40%
+18/04/2019,"93 Littlepace Drive, Clonee, Dublin 15",Dublin,316000.0,No,Clonee,Dublin 15,q4,90%
+24/04/2019,"188 Pace View, Littlepace Paddocks, Clonee Dublin 15",Dublin,322000.0,No,Clonee,Dublin 15,q4,100%
+25/04/2019,"3 Deerhaven Close, Clonee, Dublin 15",Dublin,372000.0,No,Clonee,Dublin 15,q4,100%
+30/04/2019,"10 Hazelbury Green, Clonee, Dublin 15",Dublin,347000.0,No,Clonee,Dublin 15,q4,100%
+30/04/2019,"57 Hazelbury Green, Clonee, Meath",Dublin,280000.0,No,Clonee,Dublin 15,q4,80%
+03/05/2019,"70 Castaheany, Clonee, Dublin 15",Dublin,365000.0,No,Clonee,Dublin 15,q4,100%
+16/05/2019,"44 Castlegrange, Park Castheany Clonee, Dublin 15",Dublin,275000.0,No,Clonee,Dublin 15,q3,80%
+23/05/2019,"14 Beechfield Dr, Clonee, Dublin 15",Dublin,310000.0,No,Clonee,Dublin 15,q4,90%
+31/05/2019,"7 Beechfield Place, Clonee, Dublin 15",Dublin,230000.0,No,Clonee,Dublin 15,q2,50%
+31/05/2019,"7 Manorfield Rise, Clonee, Dublin 15",Dublin,212631.0,No,Clonee,Dublin 15,q2,40%
+21/06/2019,"27 The Drive, Hunters Run, Clonee Dublin 15",Dublin,305000.0,No,Clonee,Dublin 15,q4,90%
+25/06/2019,"7 Beechfield Lawns, Clonee, Dublin 15",Dublin,295000.0,No,Clonee,Dublin 15,q4,90%
+02/07/2019,"20 Summerseat Dr, Summerseat, Clonee",Dublin,225000.0,No,Clonee,Dublin 15,q2,50%
+05/07/2019,"213 Littlepace Meadows, Clonee, Dublin 15",Dublin,347000.0,No,Clonee,Dublin 15,q4,100%
+10/07/2019,"5 Linnetsfield Ave, Clonee, Dublin 15",Dublin,295000.0,No,Clonee,Dublin 15,q4,90%
+17/07/2019,"1 Beechfield View, Clonee, Dublin 15",Dublin,290000.0,No,Clonee,Dublin 15,q4,80%
+30/07/2019,"2 The View, Hunters Run, Clonee",Dublin,350000.0,No,Clonee,Dublin 15,q4,100%
+30/07/2019,"9 The Drive, Hunters Run, Clonee",Dublin,308000.0,No,Clonee,Dublin 15,q4,90%
+06/08/2019,"29 Hazelbury Green, Clonee, Dublin 15",Dublin,345000.0,No,Clonee,Dublin 15,q4,100%
+09/08/2019,"63 Littlepace View, Clonee, Dublin 15",Dublin,317000.0,No,Clonee,Dublin 15,q4,90%
+12/08/2019,"24A The Close, Hunters Run, Clonee",Dublin,402500.0,No,Clonee,Dublin 15,q4,100%
+13/08/2019,"13 Bramblefield Court, Clonee, Dublin 15",Dublin,259000.0,No,Clonee,Dublin 15,q3,70%
+16/08/2019,"96 Littlepace Woods, Clonee, Dublin 15",Dublin,332000.0,No,Clonee,Dublin 15,q4,100%
+23/08/2019,"53 Ravenswood Cresent, Clonee, Dublin 15",Dublin,224000.0,No,Clonee,Dublin 15,q2,50%
+05/09/2019,"25 The Rise, Hunters Run, Clonee Dublin 15",Dublin,301500.0,No,Clonee,Dublin 15,q4,90%
+09/09/2019,"84 The Avenue, Summerseat, Clonee",Dublin,224669.6,Yes,Clonee,Dublin 15,q2,50%
+20/09/2019,"21 The Drive, Hunters Run, Clonee Dublin 15",Dublin,419000.0,No,Clonee,Dublin 15,q4,100%
+20/09/2019,"43 Linnetsfields Walk, Clonee, Dublin 15",Dublin,240000.0,No,Clonee,Dublin 15,q3,60%
+30/09/2019,"27 Beechfield Rd, Clonee, Dublin 15",Dublin,360000.0,No,Clonee,Dublin 15,q4,100%
+04/10/2019,"8 Latchford Row, Clonee, Dublin 15",Dublin,303000.0,No,Clonee,Dublin 15,q4,90%
+15/10/2019,"30 Allendale Dr, Clonee, Dublin 15",Dublin,325000.0,No,Clonee,Dublin 15,q4,100%

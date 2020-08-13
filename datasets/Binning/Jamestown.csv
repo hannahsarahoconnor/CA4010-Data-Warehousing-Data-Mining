@@ -1,0 +1,46 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+22/10/2010,"120 Jamestown Avenue, Inchicore, Dublin 8",Dublin,160000.0,No,Jamestown,Dublin 11,q1,30%
+20/12/2010,"34 Jamestown Avenue, Inchicore",Dublin,150000.0,No,Jamestown,Dublin 11,q1,30%
+12/07/2011,"35 Jamestown Park, Ratoath",Dublin,260000.0,No,Jamestown,Dublin 11,q3,60%
+09/09/2011,"29 Jamestown Avenue, Inchicore",Dublin,121000.0,No,Jamestown,Dublin 11,q1,10%
+05/04/2012,"18 Jamestown Road, Inchicore, Dublin 18",Dublin,170000.0,No,Jamestown,Dublin 11,q2,40%
+27/04/2012,"38 Jamestown Road, Inchicore",Dublin,200000.0,No,Jamestown,Dublin 11,q2,50%
+02/08/2012,"43 Jamestown Avenue, Inchicore, Dublin 8",Dublin,148500.0,No,Jamestown,Dublin 11,q1,20%
+24/09/2012,"46 Jamestown Avenue, Inchicore",Dublin,158000.0,No,Jamestown,Dublin 11,q1,30%
+18/12/2012,"14 Jamestown Avenue, Inchicore, Dublin 8",Dublin,107000.0,No,Jamestown,Dublin 11,q1,10%
+25/04/2013,"74 Jamestown Avenue, Inchicore, Dublin 8",Dublin,142500.0,No,Jamestown,Dublin 11,q1,20%
+13/05/2013,"16 Jamestown Avenue, Inchicore, Dublin 8",Dublin,135000.0,No,Jamestown,Dublin 11,q1,20%
+11/10/2013,"35 Jamestown Avenue, Inchicore",Dublin,138000.0,No,Jamestown,Dublin 11,q1,20%
+20/01/2014,"34 Parkview Green, Jamestown Rd, Dublin 11",Dublin,75000.0,No,Jamestown,Dublin 11,q1,10%
+17/04/2014,"91 Jamestown Ave, Inchicore, Dublin 8",Dublin,180000.0,No,Jamestown,Dublin 11,q2,40%
+13/08/2014,"84 Jamestown Avenue, Inchicore",Dublin,125000.0,No,Jamestown,Dublin 11,q1,10%
+02/09/2014,"49 Melville View Cityside, Jamestown Rd, Meakestown Dublin 11",Dublin,90000.0,No,Jamestown,Dublin 11,q1,10%
+19/09/2014,"10 Jamestown Sq, Jamestown Rd, Inchicore Dublin 8",Dublin,192000.0,No,Jamestown,Dublin 11,q2,40%
+28/11/2014,"64 Jamestown Rd, Inchicore, Dublin 8",Dublin,175000.0,No,Jamestown,Dublin 11,q2,40%
+10/07/2015,"110 Jamestown Ave, Inchicore, Dublin 8",Dublin,165000.0,No,Jamestown,Dublin 11,q2,30%
+30/07/2015,"49 Melville View Cityside, Jamestown Rd, Meakestown Dublin 11",Dublin,168500.0,No,Jamestown,Dublin 11,q2,30%
+07/08/2015,"60 Jamestown Rd, Inchicore, Dublin 8",Dublin,318000.0,No,Jamestown,Dublin 11,q3,80%
+29/09/2015,"51 Jamestown Rd, Inchicore, Dublin 8",Dublin,250000.0,No,Jamestown,Dublin 11,q2,50%
+16/06/2016,"29 Jamestown Rd, Inchicore, Dublin 8",Dublin,345000.0,No,Jamestown,Dublin 11,q4,80%
+09/09/2016,"7 Jamestown Avenue, Inchicore, Dublin 8",Dublin,270000.0,No,Jamestown,Dublin 11,q3,60%
+21/10/2016,"50 Jamestown Ave, Inchicore, Dublin 8",Dublin,212000.0,No,Jamestown,Dublin 11,q2,50%
+22/12/2016,"2 Jamestown Road, Inchicore, Dublin 8",Dublin,205000.0,No,Jamestown,Dublin 11,q2,50%
+24/03/2017,"83 Jamestown Ave, Dublin 8, Dublin",Dublin,250000.0,No,Jamestown,Dublin 11,q3,60%
+25/04/2017,"54 Jamestown Rd, Inchicore, Dublin 8",Dublin,328000.0,No,Jamestown,Dublin 11,q4,80%
+22/05/2017,"44 Jamestown Ave, Inchicore, Dublin 8",Dublin,200000.0,No,Jamestown,Dublin 11,q2,50%
+09/06/2017,"32 Jamestown Rd, Inchicore Dublin 8, Dublin",Dublin,400000.0,No,Jamestown,Dublin 11,q4,100%
+06/09/2017,"42 Jamestown Ave, Inchicore, Dublin 8",Dublin,305000.0,No,Jamestown,Dublin 11,q3,70%
+24/11/2017,"51 Jamestown Ave, Inchicore, Dublin 8",Dublin,290000.0,No,Jamestown,Dublin 11,q3,70%
+04/05/2018,"22 Jamestown Rd, Inchicore, Dublin 8",Dublin,346000.0,No,Jamestown,Dublin 11,q4,90%
+23/07/2018,"111 Jamestown Rd, Inchicore, Dublin 8",Dublin,375000.0,No,Jamestown,Dublin 11,q4,100%
+18/09/2018,"15 Jamestown Road, Inchicore, Dublin 8",Dublin,365000.0,No,Jamestown,Dublin 11,q4,90%
+23/10/2018,"44 Jamestown Ave, Inchicore, Dublin 8",Dublin,312000.0,No,Jamestown,Dublin 11,q3,80%
+26/10/2018,"234 Jamestown Rd, Hampton Wood, Dublin 11",Dublin,295000.0,No,Jamestown,Dublin 11,q3,70%
+14/03/2019,"Beechfield, Enniskerry Rd, Jamestown Dublin 18",Dublin,1372500.0,No,Jamestown,Dublin 11,q4,100%
+15/04/2019,"62 Jamestown Ave, Inchicore, Dublin 8",Dublin,320000.0,No,Jamestown,Dublin 11,q3,80%
+14/05/2019,"2 Jamestown Ave, Inchicore, Dublin",Dublin,262000.0,No,Jamestown,Dublin 11,q3,60%
+21/05/2019,"58 Jamestown Rd, Inchicore, Dublin 8",Dublin,360000.0,No,Jamestown,Dublin 11,q4,90%
+28/06/2019,"56 Jamestown Rd, Inchicore, Dublin 8",Dublin,370000.0,No,Jamestown,Dublin 11,q4,90%
+07/08/2019,"145 Jamestown Rd, Dublin 11, Dublin",Dublin,310000.0,No,Jamestown,Dublin 11,q3,70%
+15/08/2019,"24 Jamestown Ave, Inchicore, Dublin 8",Dublin,430000.0,No,Jamestown,Dublin 11,q4,100%
+19/08/2019,"63 Jamestown Rd, Inchicore, Dublin 8",Dublin,385000.0,No,Jamestown,Dublin 11,q4,100%

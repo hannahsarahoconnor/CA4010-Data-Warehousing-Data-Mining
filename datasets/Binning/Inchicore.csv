@@ -1,0 +1,709 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+12/02/2010,"21 Ring Terrace, Inchicore, Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,40%
+23/02/2010,"106 Inchicore Road, Inchicore",Dublin,310000.0,No,Inchicore,Dublin 8,q4,80%
+03/03/2010,"15 Ebenezer Terrace, Donor Avenue, Inchicore  Dubllin 8",Dublin,306000.0,No,Inchicore,Dublin 8,q4,80%
+01/04/2010,"114 Tyrconnell Park, Inchicore, Dublin 8",Dublin,270000.0,No,Inchicore,Dublin 8,q3,70%
+20/04/2010,"18 Bulfin Road, Inchicore, Dublin 8",Dublin,215000.0,No,Inchicore,Dublin 8,q2,50%
+21/04/2010,"21 Anner Road, Inchicore",Dublin,170000.0,No,Inchicore,Dublin 8,q2,30%
+22/04/2010,"Apt 166 The Tramyards, Inchicore",Dublin,115000.0,No,Inchicore,Dublin 8,q1,20%
+29/04/2010,"47 Railway Avenue, Inchicore, Dublin 8",Dublin,240000.0,No,Inchicore,Dublin 8,q3,60%
+14/05/2010,"169 Emmet Road, Inchicore, Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,60%
+10/06/2010,"17 Tyrconnell Park, Inchicore",Dublin,220000.0,No,Inchicore,Dublin 8,q2,50%
+14/06/2010,"58 Anner Road, Inchicore, Dublin 8",Dublin,240000.0,No,Inchicore,Dublin 8,q3,60%
+22/06/2010,"34 Goldenbridge Avenue, Inchicore, Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,40%
+12/07/2010,"14 St. Vincent'S Street West, Inchicore",Dublin,105000.0,No,Inchicore,Dublin 8,q1,10%
+12/07/2010,"175 Emmett Road, Inchicore",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+21/07/2010,"5 Phoenix Street, Inchicore",Dublin,163000.0,No,Inchicore,Dublin 8,q2,30%
+27/08/2010,"36A Ring Terrace, Inchicore",Dublin,225000.0,No,Inchicore,Dublin 8,q2,50%
+02/09/2010,"22 Ring Terrace, Inchicore",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+13/09/2010,"14 Southern Cross Avenue, Inchicore",Dublin,265000.0,No,Inchicore,Dublin 8,q3,70%
+17/09/2010,"52 Ring Street, Inchicore, Dublin 8",Dublin,238000.0,No,Inchicore,Dublin 8,q3,60%
+05/10/2010,"77 Kickham Road, Inchicore",Dublin,255000.0,No,Inchicore,Dublin 8,q3,70%
+21/10/2010,"9 Harcourt Lodge, Off Southern Cross Avenue, Inchicore",Dublin,261500.0,No,Inchicore,Dublin 8,q3,70%
+15/11/2010,"15 Tyrconnell Park, Inchicore, Dublin 8",Dublin,170000.0,No,Inchicore,Dublin 8,q2,30%
+20/12/2010,"Apartment 125 Sevenoaks, Sarsfield Road, Inchicore",Dublin,157000.0,No,Inchicore,Dublin 8,q1,30%
+02/02/2011,"31 Dolpin Road, Inchicore",Dublin,208000.0,No,Inchicore,Dublin 8,q2,50%
+15/02/2011,"103 Naas Road, Inchicore",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+22/02/2011,"11 Railway Avenue, Inchicore",Dublin,103000.0,No,Inchicore,Dublin 8,q1,10%
+28/02/2011,"52 Kickham Road, Inchicore",Dublin,100000.0,No,Inchicore,Dublin 8,q1,10%
+02/03/2011,"70 Bulfin Road, Inchicore",Dublin,205000.0,No,Inchicore,Dublin 8,q2,50%
+11/03/2011,"9 North Terrace, Inchicore, Dublin 8",Dublin,330000.0,No,Inchicore,Dublin 8,q4,90%
+30/03/2011,"18 Abercorn Terrace, Inchicore",Dublin,235000.0,No,Inchicore,Dublin 8,q3,60%
+05/04/2011,"45 Ring Street, Inchicore",Dublin,215000.0,No,Inchicore,Dublin 8,q2,50%
+13/04/2011,"25 Nash Street, Inchicore",Dublin,104000.0,No,Inchicore,Dublin 8,q1,10%
+06/05/2011,"12 North Terrace, Inchicore",Dublin,456500.0,No,Inchicore,Dublin 8,q4,100%
+19/05/2011,"27 Southern  Cross Avenue, Inchicore, Dublin",Dublin,167000.0,No,Inchicore,Dublin 8,q2,30%
+06/06/2011,"5 Goldenbridge Gardens, Inchicore",Dublin,6000.0,No,Inchicore,Dublin 8,q1,10%
+08/06/2011,"33 Jamestow Road, Inchicore",Dublin,180000.0,No,Inchicore,Dublin 8,q2,40%
+17/06/2011,"15 Goldenbridge Tce, Inchicore",Dublin,207000.0,No,Inchicore,Dublin 8,q2,50%
+29/07/2011,"Apt. 3 Beaconsfields Court, Inchicore Road, Kilmaninham",Dublin,105000.0,No,Inchicore,Dublin 8,q1,10%
+08/09/2011,"2 St Patrick'S Terrace, Inchicore",Dublin,152000.0,No,Inchicore,Dublin 8,q1,30%
+26/09/2011,"46 Connolly Gardens, Inchicore, Dublin 8",Dublin,110000.0,No,Inchicore,Dublin 8,q1,20%
+30/09/2011,"102 Tyrconnell Road, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+11/10/2011,"3 Goldenbridge Gardens, Inchicore, Dublin 8",Dublin,142500.0,No,Inchicore,Dublin 8,q1,30%
+21/10/2011,"44 Tyrconnell Road, Inchicore",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+21/10/2011,"66 Anner Road, Inchicore, Dublin 8",Dublin,203000.0,No,Inchicore,Dublin 8,q2,50%
+27/10/2011,"56 Tyrconnell Park, Inchicore",Dublin,135000.0,No,Inchicore,Dublin 8,q1,20%
+08/11/2011,"57 Bulfin Road, Inchicore",Dublin,8500.0,No,Inchicore,Dublin 8,q1,10%
+11/11/2011,"11 Inchicore Terrace, Inchicore, Dublin 8",Dublin,257000.0,No,Inchicore,Dublin 8,q3,70%
+15/11/2011,"205  Emmet Road, Inchicore",Dublin,704845.5,No,Inchicore,Dublin 8,q4,100%
+17/11/2011,"10 Ring Terrace, Inchicore",Dublin,130000.0,No,Inchicore,Dublin 8,q1,20%
+29/11/2011,"76 Tyconnell Park, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+05/12/2011,"Apartment 27 Floraville, Sarsfield Road, Inchicore",Dublin,210000.0,No,Inchicore,Dublin 8,q2,50%
+19/12/2011,"2 Devoy Road, Inchicore, Dublin 8",Dublin,80000.0,No,Inchicore,Dublin 8,q1,10%
+06/01/2012,"4 O'Leary Road, Inchicore, Dublin 8",Dublin,142000.0,No,Inchicore,Dublin 8,q1,20%
+11/01/2012,"28 Kickham Road, Inchicore, Dublin 8",Dublin,185000.0,No,Inchicore,Dublin 8,q2,40%
+19/01/2012,"26 Kickham Road, Inchicore, Dublin 8",Dublin,115000.0,No,Inchicore,Dublin 8,q1,20%
+24/01/2012,"82 Bulfin Road, Inchicore, Dublin 8",Dublin,130000.0,No,Inchicore,Dublin 8,q1,20%
+30/01/2012,"11 Thomas Davis Street, Inchicore",Dublin,99950.0,No,Inchicore,Dublin 8,q1,10%
+23/03/2012,"111 Kickham Road, Inchicore",Dublin,105000.0,No,Inchicore,Dublin 8,q1,10%
+03/04/2012,"45 Nash Street, Inchicore, Dublin 8",Dublin,54000.0,No,Inchicore,Dublin 8,q1,10%
+27/04/2012,"11 Bulfin Gardens, Inchicore, Dublin 8",Dublin,120000.0,No,Inchicore,Dublin 8,q1,20%
+27/04/2012,"79 Tyrconnell Park, Inchicore, Dublin 8",Dublin,131000.0,No,Inchicore,Dublin 8,q1,20%
+30/04/2012,"Apartment 12A, Emmet Court, Inchicore",Dublin,46000.0,No,Inchicore,Dublin 8,q1,10%
+04/05/2012,"21 Nash Street, Inchicore, Dublin 8",Dublin,112000.0,No,Inchicore,Dublin 8,q1,20%
+23/05/2012,"37 Phoenix Street, The Ranch, Inchicore",Dublin,60000.0,No,Inchicore,Dublin 8,q1,10%
+25/05/2012,"8 Anner Road, Inchicore, Dublin 8",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+01/06/2012,"1 Goldenbridge Terrace, Inchicore",Dublin,155000.0,No,Inchicore,Dublin 8,q1,30%
+07/06/2012,"6 Ring Street, Inchicore, Dublin 8",Dublin,72500.0,No,Inchicore,Dublin 8,q1,10%
+08/06/2012,"8 Abercorn Terrace, Inchicore, Dublin 8",Dublin,216000.0,No,Inchicore,Dublin 8,q2,50%
+14/06/2012,"No.9 Granite Terrace, Inchicore, Dublin 8",Dublin,205000.0,No,Inchicore,Dublin 8,q2,50%
+18/06/2012,"76 Ring Street, Inchicore",Dublin,73000.0,No,Inchicore,Dublin 8,q1,10%
+26/06/2012,"17 Phoenix Street, Inchicore",Dublin,55000.0,No,Inchicore,Dublin 8,q1,10%
+28/06/2012,"40 Naas Road, Inchicore",Dublin,204000.0,No,Inchicore,Dublin 8,q2,50%
+01/08/2012,"22 Tyrconnell Park, Inchicore",Dublin,113000.0,No,Inchicore,Dublin 8,q1,20%
+07/08/2012,"5 Rosedale, Tyrconnell Street, Inchicore",Dublin,185000.0,No,Inchicore,Dublin 8,q2,40%
+09/08/2012,"11 Inchicore Square East, Inchicore",Dublin,304000.0,No,Inchicore,Dublin 8,q4,80%
+10/08/2012,"1&1A First Avenue, Inchicore, Dublin",Dublin,41500.0,No,Inchicore,Dublin 8,q1,10%
+17/08/2012,"87 Emmet Road, Inchicore, Dublin 8",Dublin,105000.0,No,Inchicore,Dublin 8,q1,10%
+21/08/2012,"38  Tyrconnell Road, Inchicore",Dublin,220000.0,No,Inchicore,Dublin 8,q2,50%
+24/08/2012,"29 O Donoghue St, Inchicore",Dublin,85000.0,No,Inchicore,Dublin 8,q1,10%
+31/08/2012,"48 Stephens Road, Inchicore, Dublin 8",Dublin,119000.0,No,Inchicore,Dublin 8,q1,20%
+31/08/2012,"85 Emmet Road, Inchicore",Dublin,105000.0,No,Inchicore,Dublin 8,q1,10%
+11/09/2012,"20 Connolly Gardens, Inchicore",Dublin,145000.0,No,Inchicore,Dublin 8,q1,30%
+28/09/2012,"143 Tyrconnell Park  Inchicore, Dublin 8",Dublin,197000.0,No,Inchicore,Dublin 8,q2,40%
+01/10/2012,"27 Ring Street, Inchicore",Dublin,170000.0,No,Inchicore,Dublin 8,q2,30%
+02/10/2012,"48  Railway Avenue, Inchicore, Dublin 8",Dublin,106000.0,No,Inchicore,Dublin 8,q1,10%
+08/10/2012,"71 Naas Road, Inchicore, Dublin 12",Dublin,160000.0,No,Inchicore,Dublin 8,q1,30%
+22/10/2012,"23 Sarsfield Road, Inchicore, Dublin 10",Dublin,90000.0,No,Inchicore,Dublin 8,q1,10%
+25/10/2012,"4 Goldenbridge Gardens, Inchicore",Dublin,97000.0,No,Inchicore,Dublin 8,q1,10%
+02/11/2012,"29 Bulfin Gardens, Inchicore, Dublin 8",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+05/11/2012,"16 Harcourt Lodge, Inchicore, Dublin 8",Dublin,162500.0,No,Inchicore,Dublin 8,q2,30%
+13/11/2012,"4 Kickham Road, Inchicore, Dublin  8",Dublin,108000.0,No,Inchicore,Dublin 8,q1,20%
+27/11/2012,"46 Connolly Avenue, Inchicore, Dublin 8",Dublin,197000.0,No,Inchicore,Dublin 8,q2,40%
+30/11/2012,"116 Emmet Road, Inchicore",Dublin,120000.0,No,Inchicore,Dublin 8,q1,20%
+30/11/2012,"12 Tyrconnell Road, Inchicore",Dublin,10345.31,No,Inchicore,Dublin 8,q1,10%
+01/12/2012,"48 Tyrconnell Road, Inchicore",Dublin,125000.0,No,Inchicore,Dublin 8,q1,20%
+04/12/2012,"181 Emmet Road, Inchicore, Dublin 8",Dublin,120000.0,No,Inchicore,Dublin 8,q1,20%
+05/12/2012,"21 O'Donohue Street, Inchicore, Dublin 8",Dublin,70000.0,No,Inchicore,Dublin 8,q1,10%
+14/12/2012,"21 Tyrconnell Road, Inchicore",Dublin,34000.0,No,Inchicore,Dublin 8,q1,10%
+14/12/2012,"Apartment 20  Hampton Court, Tyrconnell Road, Inchicore",Dublin,89000.0,No,Inchicore,Dublin 8,q1,10%
+17/12/2012,"25 North Terrace, Cie Works, Inchicore",Dublin,381500.0,No,Inchicore,Dublin 8,q4,90%
+18/12/2012,"121 Kickham Road, Inchicore, Dublin 8",Dublin,179000.0,No,Inchicore,Dublin 8,q2,40%
+19/12/2012,"11 Abercorn Square, Inchicore",Dublin,240000.0,No,Inchicore,Dublin 8,q3,60%
+20/12/2012,"10 North Square, Inchicore, Dublin 8",Dublin,335000.0,No,Inchicore,Dublin 8,q4,90%
+22/01/2013,"9 Railway Avenue, Inchicore",Dublin,95000.0,No,Inchicore,Dublin 8,q1,10%
+24/01/2013,"42 Tyrconnell Road, Inchicore",Dublin,207500.0,No,Inchicore,Dublin 8,q2,50%
+05/02/2013,"6. St. Patrick'S Terrace, Inchicore",Dublin,207000.0,No,Inchicore,Dublin 8,q2,50%
+08/02/2013,"1 Tyrconnell Street, Inchicore, Dublin 8",Dublin,77500.0,No,Inchicore,Dublin 8,q1,10%
+12/02/2013,"85A Emmet Road, Inchicore",Dublin,55000.0,No,Inchicore,Dublin 8,q1,10%
+28/02/2013,"32 Bulfin Gardens, Inchicore, Dublin 8",Dublin,110000.0,No,Inchicore,Dublin 8,q1,20%
+08/03/2013,"11 Stephen'S Road, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+11/03/2013,"77 Emmet Road, Inchicore",Dublin,120000.0,No,Inchicore,Dublin 8,q1,20%
+12/03/2013,"10 Murray Cottages, Off Sarsfield Road, Inchicore",Dublin,158765.5,No,Inchicore,Dublin 8,q1,30%
+12/03/2013,"40 Ring Street, Inchicore, Dublin 8",Dublin,128000.0,No,Inchicore,Dublin 8,q1,20%
+14/03/2013,"22 Ring Street, Inchicore, Dublin 8",Dublin,93000.0,No,Inchicore,Dublin 8,q1,10%
+12/04/2013,"46 Nash Street, Inchicore",Dublin,80000.0,No,Inchicore,Dublin 8,q1,10%
+19/04/2013,"34 Bulfin Road, Inchicore, Dublin 8",Dublin,148155.0,No,Inchicore,Dublin 8,q1,30%
+19/04/2013,"9 Goldenbridge Gardens, Inchicore",Dublin,110000.0,No,Inchicore,Dublin 8,q1,20%
+25/04/2013,"138 Tyrconnell Park, Inchicore, Dublin 8",Dublin,173000.0,No,Inchicore,Dublin 8,q2,40%
+26/04/2013,"87A Emmet Road, Inchicore",Dublin,55000.0,No,Inchicore,Dublin 8,q1,10%
+01/05/2013,"75 Emmeet Road, Inchicore",Dublin,73000.0,No,Inchicore,Dublin 8,q1,10%
+16/05/2013,"26 Liffey Street, Inchicore, Dublin 10",Dublin,76000.0,No,Inchicore,Dublin 8,q1,10%
+16/05/2013,"27 Floraville, Sarsfield Road, Inchicore",Dublin,150000.0,No,Inchicore,Dublin 8,q1,30%
+20/05/2013,"1 Woodfield Terrace, Sarsfield Road, Inchicore",Dublin,195000.0,No,Inchicore,Dublin 8,q2,40%
+21/05/2013,"1 Thomas Davis Street, Inchicore, Dublin 8",Dublin,80000.0,No,Inchicore,Dublin 8,q1,10%
+21/05/2013,"1 & 1A Thomas Davis Street, Inchicore",Dublin,80000.0,No,Inchicore,Dublin 8,q1,10%
+30/05/2013,"64 Anner Road, Inchicore, Dublin 8",Dublin,100000.0,No,Inchicore,Dublin 8,q1,10%
+31/05/2013,"5 Goldenbridge Avenue, Inchicore",Dublin,182500.0,No,Inchicore,Dublin 8,q2,40%
+07/06/2013,"Apt 18 Floraville, Sarsfield Road, Inchicore",Dublin,95000.0,No,Inchicore,Dublin 8,q1,10%
+26/06/2013,"2 O'Leary Road, Inchicore",Dublin,149000.0,No,Inchicore,Dublin 8,q1,30%
+27/06/2013,"11 Partridge Terrace, Inchicore",Dublin,81000.0,No,Inchicore,Dublin 8,q1,10%
+27/06/2013,"29 Tyrconnell Park, Inchicore",Dublin,160000.0,No,Inchicore,Dublin 8,q1,30%
+27/06/2013,"6 Kickham Road, Inchicore",Dublin,174500.0,No,Inchicore,Dublin 8,q2,40%
+16/07/2013,"19  O'Leary Road, Inchicore, Dublin 9",Dublin,172500.0,No,Inchicore,Dublin 8,q2,40%
+17/07/2013,"80 Kickham Road, Inchicore",Dublin,156000.0,No,Inchicore,Dublin 8,q1,30%
+26/07/2013,"2 O'Donoghue Street, Inchicore",Dublin,75000.0,No,Inchicore,Dublin 8,q1,10%
+26/07/2013,"Apartment 4 Rivercourt, Camac Close, Inchicore",Dublin,71000.0,No,Inchicore,Dublin 8,q1,10%
+01/08/2013,"Apartment 32, Metropolitan Apartments, Inchicore Road",Dublin,102500.0,No,Inchicore,Dublin 8,q1,10%
+07/08/2013,"6 Woodfield Terrace, Sarsfield Road, Inchicore",Dublin,165000.0,No,Inchicore,Dublin 8,q2,30%
+08/08/2013,"10A Grattan Terrace, Inchicore",Dublin,42500.0,No,Inchicore,Dublin 8,q1,10%
+08/08/2013,"97 Tyrconnell Park, Inchicore, Dublin",Dublin,136000.0,No,Inchicore,Dublin 8,q1,20%
+09/08/2013,"51 Connolly Avenue, Inchicore",Dublin,246000.0,No,Inchicore,Dublin 8,q3,60%
+22/08/2013,"28 Ring Terrace, Inchicore, Dublin 8",Dublin,85000.0,No,Inchicore,Dublin 8,q1,10%
+30/08/2013,"21 Hampton Court, Inchicore, Dublin 8",Dublin,82000.0,No,Inchicore,Dublin 8,q1,10%
+06/09/2013,"18 Woodfield Avenue, Inchicore",Dublin,235000.0,No,Inchicore,Dublin 8,q3,60%
+06/09/2013,"Camac Crescent, Turvey Avenue, Inchicore",Dublin,8734134.8,No,Inchicore,Dublin 8,q4,100%
+09/09/2013,"12A Southern Cross Ave, Inchicore",Dublin,229000.0,No,Inchicore,Dublin 8,q3,60%
+11/09/2013,"28A Ring Terrace, Inchicore",Dublin,75000.0,No,Inchicore,Dublin 8,q1,10%
+25/09/2013,"16 Hampton Court, Tyrconnell Road, Inchicore",Dublin,83000.0,No,Inchicore,Dublin 8,q1,10%
+27/09/2013,"14 Rivecourt, Camac Close, Inchicore",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+30/09/2013,"9 Ring Terrace, Inchicore",Dublin,114000.0,No,Inchicore,Dublin 8,q1,20%
+01/10/2013,"Apartment 123, The Tramyard, Inchicore",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+07/10/2013,"111 Tyrconnell Road, Inchicore",Dublin,175000.0,No,Inchicore,Dublin 8,q2,40%
+10/10/2013,"40 Tyrconnell Road, Inchicore, Dublin 8",Dublin,215000.0,No,Inchicore,Dublin 8,q2,50%
+14/10/2013,"Grotto House, 129 Tyrconnell Road, Inchicore",Dublin,70000.0,No,Inchicore,Dublin 8,q1,10%
+25/10/2013,"115 Inchicore Road, Inchicore",Dublin,330000.0,No,Inchicore,Dublin 8,q4,90%
+25/10/2013,"24 South Terrace, Inchicore, Dublin 8",Dublin,275000.0,No,Inchicore,Dublin 8,q3,70%
+29/10/2013,"102 Tyrconnell Road, Inchicore",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+12/11/2013,"25 O'Donoghue Street, Inchicore, Dublin 8",Dublin,65000.0,No,Inchicore,Dublin 8,q1,10%
+27/11/2013,"1 Kickham Rd, Inchicore, Dublin 8",Dublin,270000.0,No,Inchicore,Dublin 8,q3,70%
+27/11/2013,"26 Tyrconnell Grove, Inchicore, Dublin 8",Dublin,122000.0,No,Inchicore,Dublin 8,q1,20%
+28/11/2013,"217 Tyrconnell, Inchicore, Dublin 8",Dublin,170000.0,No,Inchicore,Dublin 8,q2,30%
+28/11/2013,"5 Rivercourt, Camac Close, Inchicore Dublin 8",Dublin,146000.0,No,Inchicore,Dublin 8,q1,30%
+04/12/2013,"204 The Tramyard, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+09/12/2013,"19 Tyconnell Park, Inchicore, Dublin 8",Dublin,168000.0,No,Inchicore,Dublin 8,q2,30%
+09/12/2013,"9 Tir Connell Grove, Thomas Davis St West, Inchicore Dublin 8",Dublin,114000.0,No,Inchicore,Dublin 8,q1,20%
+18/12/2013,"7 Goldenbridge Terrace, Inchicore, Dublin 8",Dublin,165000.0,No,Inchicore,Dublin 8,q2,30%
+19/12/2013,"3 Railway Avenue, Inchicore, Dublin 8",Dublin,111000.0,No,Inchicore,Dublin 8,q1,20%
+20/12/2013,"101 Inchicore Rd, Inchicore, Dublin 8",Dublin,173000.0,No,Inchicore,Dublin 8,q2,40%
+20/12/2013,"11 Anner Rd, Inchicore, Dublin 8",Dublin,270000.0,No,Inchicore,Dublin 8,q3,70%
+20/12/2013,"13 Kilmainham Sq, The Old Chocolate Factory, Inchicore Dublin 8",Dublin,185000.0,No,Inchicore,Dublin 8,q2,40%
+20/12/2013,"26 Block B, Metropolitan, Inchicore Rd",Dublin,115000.0,No,Inchicore,Dublin 8,q1,20%
+23/12/2013,"25 Nash St, Inchicore, Dublin 8",Dublin,205000.0,No,Inchicore,Dublin 8,q2,50%
+23/12/2013,"8 Partridge Terrace, Inchicore, Dublin 8",Dublin,127000.0,No,Inchicore,Dublin 8,q1,20%
+15/01/2014,"18 Rosedale, Tyrconnell Street, Inchicore",Dublin,107500.0,No,Inchicore,Dublin 8,q1,20%
+11/02/2014,"91 Bulfin Rd, Inchicore, Dublin 8",Dublin,235000.0,No,Inchicore,Dublin 8,q3,60%
+14/02/2014,"1A Phoenix St, Inchicore, Dublin 10",Dublin,110000.0,No,Inchicore,Dublin 8,q1,20%
+14/02/2014,"37 Phoenix St, The Ranch, Inchicore",Dublin,138000.0,No,Inchicore,Dublin 8,q1,20%
+24/02/2014,"22 Tir Connell St, Inchicore, Dublin 8",Dublin,90000.0,No,Inchicore,Dublin 8,q1,10%
+04/03/2014,"14 O Leary Rd, Inchicore, Dublin 8",Dublin,189250.0,No,Inchicore,Dublin 8,q2,40%
+04/03/2014,"21 Tir Connell Grove, Thomas Davis Street, Inchicore",Dublin,120000.0,No,Inchicore,Dublin 8,q1,20%
+04/03/2014,"63 Tyrconnell Park, Inchicore, Dublin 8",Dublin,265000.0,No,Inchicore,Dublin 8,q3,70%
+10/03/2014,"10 Ring St, Inchicore, Dublin 8",Dublin,95000.0,No,Inchicore,Dublin 8,q1,10%
+11/03/2014,"4 Tyrconnell Park, Inchicore",Dublin,171000.0,No,Inchicore,Dublin 8,q2,30%
+18/03/2014,"206 The Tramyard, Spa Road, Inchicore",Dublin,90000.0,No,Inchicore,Dublin 8,q1,10%
+21/03/2014,"79 Emmet Rd, Inchicore, Dublin 7",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+25/03/2014,"28 South Square, Inchicore, Dublin 8",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+04/04/2014,"6 West Terrace, Inchicore, Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,60%
+14/04/2014,"6 Ring St, Inchicore, Dublin 8",Dublin,197000.0,No,Inchicore,Dublin 8,q2,40%
+19/05/2014,"64 Connolly Ave, Inchicore, Dublin 8",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+23/05/2014,"2 Goldenbridge Ave, Inchicore Dublin 8, Dublin",Dublin,240000.0,No,Inchicore,Dublin 8,q3,60%
+23/05/2014,"79A Emmet Rd, Inchicore, Dublin 8",Dublin,172500.0,No,Inchicore,Dublin 8,q2,40%
+04/06/2014,"12 Thomas Davis St West, Inchicore, Dublin 8",Dublin,170000.0,No,Inchicore,Dublin 8,q2,30%
+11/06/2014,"85 Tyrconnell, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+13/06/2014,"3 James Plunkett House, Grattan Crescent, Inchicore",Dublin,106000.0,No,Inchicore,Dublin 8,q1,20%
+25/06/2014,"11 Liffey St, South Inchicore, Dublin",Dublin,131000.0,No,Inchicore,Dublin 8,q1,20%
+26/06/2014,"41 Naas Rd, Inchicore, Dublin 12",Dublin,370000.0,No,Inchicore,Dublin 8,q4,90%
+27/06/2014,"47 Connolly Gardens, Inchicore, Dublin 8",Dublin,240000.0,No,Inchicore,Dublin 8,q3,60%
+10/07/2014,"63 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,65000.0,No,Inchicore,Dublin 8,q1,10%
+11/07/2014,"16 Nash St, Inchicore, Dublin 8",Dublin,120000.0,No,Inchicore,Dublin 8,q1,20%
+11/07/2014,"5 Goldenbridge Gardens, Inchicore, Dublin City",Dublin,226000.0,No,Inchicore,Dublin 8,q3,60%
+15/07/2014,"Apt 29 Emmet Court, Goldenbridge, Inchicore",Dublin,151900.0,No,Inchicore,Dublin 8,q1,30%
+25/07/2014,"13 Nash St, Inchicore, Dublin 8",Dublin,240000.0,No,Inchicore,Dublin 8,q3,60%
+25/07/2014,"146 Tyrconnell Park, Inchicore, Dublin 8",Dublin,195000.0,No,Inchicore,Dublin 8,q2,40%
+25/07/2014,"20 Connolly Ave, Inchicore, Dublin 8",Dublin,311000.0,No,Inchicore,Dublin 8,q4,80%
+28/07/2014,"201 A Tyreconnell Rd, Inchicore, Dublin 8",Dublin,27000.0,No,Inchicore,Dublin 8,q1,10%
+29/07/2014,"40 Phoenix St, The Ranch, Inchicore",Dublin,87000.0,No,Inchicore,Dublin 8,q1,10%
+01/08/2014,"48 Tyrconnell Rd, Inchicore, Dublin",Dublin,366000.0,No,Inchicore,Dublin 8,q4,90%
+07/08/2014,"23 Inchicore Terrace South, Inchicore, Dublin 8",Dublin,400000.0,No,Inchicore,Dublin 8,q4,100%
+18/08/2014,"15 St. Vincents, Street West, Inchicore",Dublin,125000.0,No,Inchicore,Dublin 8,q1,20%
+26/08/2014,"1A Phoenix St, Inchicore, Dublin 10",Dublin,160000.0,No,Inchicore,Dublin 8,q1,30%
+01/09/2014,"102 Kickham Rd, Inchicore, Dublin 8",Dublin,130000.0,No,Inchicore,Dublin 8,q1,20%
+15/09/2014,"1 Gratton Court, The Cie Works Inchicore, Dublin 8",Dublin,330000.0,No,Inchicore,Dublin 8,q4,90%
+17/09/2014,"36 Berrys Close Spa Rd, Inchicore Dublin 8, Dublin",Dublin,155000.0,No,Inchicore,Dublin 8,q1,30%
+19/09/2014,"1 South Terrace, Inchicore, Dublin 8",Dublin,400000.0,No,Inchicore,Dublin 8,q4,100%
+19/09/2014,"44 Rosedale, Tir Connell St, Inchicore Dublin 8",Dublin,170000.0,No,Inchicore,Dublin 8,q2,30%
+25/09/2014,"27 Abercorn Sq, Inchicore, Dublin 8",Dublin,237000.0,No,Inchicore,Dublin 8,q3,60%
+26/09/2014,"24 Flora Ville, Sarsfeild, Inchicore Dublin 8",Dublin,153500.0,No,Inchicore,Dublin 8,q1,30%
+01/10/2014,"213 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,135000.0,No,Inchicore,Dublin 8,q1,20%
+03/10/2014,"17 Fleurville, Sarsfield Road, Inchicore",Dublin,145000.0,No,Inchicore,Dublin 8,q1,30%
+06/10/2014,"Apt1 Block D, Metropolitan, Inchicore Rd Dublin 8",Dublin,145000.0,No,Inchicore,Dublin 8,q1,30%
+09/10/2014,"Apt 12 Seven Oaks Sarsfield Rd, Inchicore, Dublin",Dublin,145000.0,No,Inchicore,Dublin 8,q1,30%
+10/10/2014,"82 Kilmainham Bank, Inchicore, Dublin 8",Dublin,174000.0,Yes,Inchicore,Dublin 8,q2,40%
+17/10/2014,"Apartment 1 Ellen Hall, 124D/124E Emmet Road, Inchicore",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+17/10/2014,"Apartment 2 Ellen Hall, 124D/124E Emmet Road, Inchicore",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+20/10/2014,"1 Woodford Avenue, Inchicore",Dublin,186000.0,No,Inchicore,Dublin 8,q2,40%
+20/10/2014,"77 Emmet Road, Inchicore, Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,60%
+31/10/2014,"1 Rosedale Court, Inchicore, Dublin 8",Dublin,267500.0,No,Inchicore,Dublin 8,q3,70%
+04/11/2014,"19 Anner Rd, Inchicore, Dublin 8",Dublin,275000.0,No,Inchicore,Dublin 8,q3,70%
+06/11/2014,"29 O Donoghue St, Inchicore, Dublin City",Dublin,172000.0,No,Inchicore,Dublin 8,q2,30%
+17/11/2014,"6 Inchicore Sq, North Inchicore, Dublin 8",Dublin,391159.0,No,Inchicore,Dublin 8,q4,100%
+19/11/2014,"137 The Tramyard, Inchicore, Dublin 8",Dublin,210000.0,No,Inchicore,Dublin 8,q2,50%
+21/11/2014,"47 Stephens Rd, Inchicore, Dublin 8",Dublin,226000.0,No,Inchicore,Dublin 8,q3,60%
+27/11/2014,"10 Tyrconnell Rd, Inchicore, Dublin",Dublin,425250.0,No,Inchicore,Dublin 8,q4,100%
+03/12/2014,"13 Phoenix St, The Ranch, Inchicore",Dublin,25000.0,No,Inchicore,Dublin 8,q1,10%
+04/12/2014,"11 First Ave, Inchicore, Dublin 10",Dublin,153000.0,No,Inchicore,Dublin 8,q1,30%
+05/12/2014,"58 Nash St, Inchicore, Dublin",Dublin,215000.0,No,Inchicore,Dublin 8,q2,50%
+08/12/2014,"116 Tyrconnell Park, Inchicore, Dublin 8",Dublin,267500.0,No,Inchicore,Dublin 8,q3,70%
+16/12/2014,"20 Kickham Rd, Inchicore, Dublin 8",Dublin,252000.0,No,Inchicore,Dublin 8,q3,70%
+19/12/2014,"24 Hampton Court, Tyrconnell Road, Inchicore",Dublin,120000.0,No,Inchicore,Dublin 8,q1,20%
+19/12/2014,"45 Berrys Close, Spa Road, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+22/12/2014,"1 Prospect Villas, Inchicore, Dublin 8",Dublin,82440.0,No,Inchicore,Dublin 8,q1,10%
+22/12/2014,"1 Tyrconnell Park, Inchicore, Dublin 8",Dublin,183199.0,No,Inchicore,Dublin 8,q2,40%
+22/12/2014,"91 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,219839.0,No,Inchicore,Dublin 8,q2,50%
+23/12/2014,"Apt 5 Lockhouse, Goldenbridge Terrace, Inchicore Dublin 8",Dublin,686997.0,No,Inchicore,Dublin 8,q4,100%
+15/01/2015,"25 South Trce, Inchicore, Dublin 8",Dublin,329000.0,No,Inchicore,Dublin 8,q4,90%
+16/01/2015,"34 Railway Avenue, Inchicore, Dublin 8",Dublin,145000.0,No,Inchicore,Dublin 8,q1,30%
+21/01/2015,"14 New Rd, Inchicore, Dublin",Dublin,146000.0,No,Inchicore,Dublin 8,q1,30%
+30/01/2015,"2 Connolly Gardens, Inchicore, Dublin 8",Dublin,275000.0,No,Inchicore,Dublin 8,q3,70%
+30/01/2015,"26 Kickham Rd, Inchicore, Dublin 8",Dublin,285000.0,No,Inchicore,Dublin 8,q3,80%
+11/02/2015,"39 Connolly Gardens, Inchicore, Dublin 8",Dublin,238000.0,No,Inchicore,Dublin 8,q3,60%
+12/02/2015,"11 Hampton Court, Tyrconnell Road, Inchicore",Dublin,70000.0,No,Inchicore,Dublin 8,q1,10%
+10/03/2015,"15 Abercorn Terrace, Inchicore, Dublin 8",Dublin,274500.0,No,Inchicore,Dublin 8,q3,70%
+20/03/2015,"5 The Belfry, Inchicore Road",Dublin,240000.0,No,Inchicore,Dublin 8,q3,60%
+23/03/2015,"Apt 39, Davis Court, Inchicore Dublin 8",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+24/03/2015,"39 Suir Rd, Inchicore, Dublin",Dublin,180000.0,No,Inchicore,Dublin 8,q2,40%
+25/03/2015,"24 Inchicore Sq South, Inchicore, Dublin 8",Dublin,405000.0,No,Inchicore,Dublin 8,q4,100%
+27/03/2015,"25 Meadow View, Sarsfield Rd, Inchicore Dublin 10",Dublin,255000.0,No,Inchicore,Dublin 8,q3,70%
+15/04/2015,"161 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,183000.0,No,Inchicore,Dublin 8,q2,40%
+20/04/2015,"39 Anner Road, Inchicore, Dublin 8",Dublin,280000.0,No,Inchicore,Dublin 8,q3,80%
+23/04/2015,"35 Anner Road, Inchicore, Dublin 8",Dublin,320000.0,No,Inchicore,Dublin 8,q4,80%
+27/04/2015,"5 O Doughue St, Inchicore, Dublin 8",Dublin,175000.0,No,Inchicore,Dublin 8,q2,40%
+05/05/2015,"6 Stephens Rd, Inchicore, Dublin 8",Dublin,160000.0,No,Inchicore,Dublin 8,q1,30%
+07/05/2015,"77 James Town Rd, Inchicore, Dublin 8",Dublin,212000.0,No,Inchicore,Dublin 8,q2,50%
+05/06/2015,"1 Tyrone Court, Thomas Davis Street, Inchicore",Dublin,170925.0,No,Inchicore,Dublin 8,q2,30%
+05/06/2015,"2 Tyrone Court, Thomas Davis Street West, Inchicore",Dublin,170925.0,No,Inchicore,Dublin 8,q2,30%
+05/06/2015,"3 Tyrone Court, Thomas Davis Street West, Inchicore",Dublin,170925.0,No,Inchicore,Dublin 8,q2,30%
+05/06/2015,"4 Tyrone Court, Thomas Davis Street West, Inchicore",Dublin,170925.0,No,Inchicore,Dublin 8,q2,30%
+12/06/2015,"12 St Patricks Terrace, Inchicore, Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,60%
+12/06/2015,"27 Park St, Inchicore, Dublin 10",Dublin,187500.0,No,Inchicore,Dublin 8,q2,40%
+15/06/2015,"6 Grattan Court, Inchicore Terrace South, Dublin 8",Dublin,230000.0,No,Inchicore,Dublin 8,q3,60%
+23/06/2015,"42 Kilmainham Bank, Emmet Rd, Inchicore Dublin 8",Dublin,146000.0,No,Inchicore,Dublin 8,q1,30%
+26/06/2015,"36 Rosedale, Tyrconnell St, Inchicore Dublin 8",Dublin,186000.0,No,Inchicore,Dublin 8,q2,40%
+08/07/2015,"Apt 13, James Plunkett House, Inchicore",Dublin,150000.0,No,Inchicore,Dublin 8,q1,30%
+09/07/2015,"8 Floraville, Sarsfield Rd, Inchicore Dublin 10",Dublin,158000.0,No,Inchicore,Dublin 8,q1,30%
+14/07/2015,"31 Emmet Rd, Inchicore, Dublin",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+17/07/2015,"109 & 111 Emmet Road, Inchicore",Dublin,360000.0,No,Inchicore,Dublin 8,q4,90%
+17/07/2015,"131 Tramyard, Inchicore, Dublin 8",Dublin,200450.0,No,Inchicore,Dublin 8,q2,50%
+20/07/2015,"Apt 21, Tyrconnell Road, Inchicore",Dublin,60000.0,No,Inchicore,Dublin 8,q1,10%
+24/07/2015,"1 Harcourt Lodge, Inchicore, Dublin 8",Dublin,240000.0,No,Inchicore,Dublin 8,q3,60%
+30/07/2015,"16 New Rd, Inchicore, Dublin 8",Dublin,152000.0,No,Inchicore,Dublin 8,q1,30%
+30/07/2015,"87 The Tramyard, Spa Road, Inchicore",Dublin,130000.0,No,Inchicore,Dublin 8,q1,20%
+31/07/2015,"Apt 27 Block A, Metropolitan Apts, Inchicore Road",Dublin,210000.0,No,Inchicore,Dublin 8,q2,50%
+04/08/2015,"11 Woodfield Place, Inchicore",Dublin,165000.0,No,Inchicore,Dublin 8,q2,30%
+13/08/2015,"32 Tyrconnell Street, Inchicore, Dublin 8",Dublin,70000.0,No,Inchicore,Dublin 8,q1,10%
+17/08/2015,"101 Inchicore Rd, Inchicore, Dublin 8",Dublin,355000.0,No,Inchicore,Dublin 8,q4,90%
+25/08/2015,"58 Ring St, Inchicore, Dublin 8",Dublin,243000.0,No,Inchicore,Dublin 8,q3,60%
+28/08/2015,"18 Goldenbridge Terrace, Inchicore, Dublin 8",Dublin,300000.0,No,Inchicore,Dublin 8,q3,80%
+01/09/2015,"14 Ring Terrace, Inchicore, Dublin 8",Dublin,170000.0,No,Inchicore,Dublin 8,q2,30%
+04/09/2015,"41 Tyrconnell Park, Inchicore, Dublin 8",Dublin,315000.0,No,Inchicore,Dublin 8,q4,80%
+10/09/2015,"45 Tyrconnell Park, Inchicore, Dublin 8",Dublin,257500.0,No,Inchicore,Dublin 8,q3,70%
+15/09/2015,"8 Wheaton Court, Inchicore Terrace North, Inchicore",Dublin,128000.0,No,Inchicore,Dublin 8,q1,20%
+25/09/2015,"21 Kickham Rd, Inchicore, Dublin 8",Dublin,265000.0,No,Inchicore,Dublin 8,q3,70%
+25/09/2015,"Apt 34 Block A, Metropolitan Appartments, Inchicore Rd Dublin 8",Dublin,220000.0,No,Inchicore,Dublin 8,q2,50%
+28/09/2015,"11 Railway Avenue, Inchicore, Dublin 8",Dublin,241000.0,No,Inchicore,Dublin 8,q3,60%
+01/10/2015,"30 Nash St, Inchicore, Dublin 8",Dublin,184000.0,No,Inchicore,Dublin 8,q2,40%
+12/10/2015,"5 Tyrconnell Street, Inchicore, Dublin 8",Dublin,92000.0,No,Inchicore,Dublin 8,q1,10%
+16/10/2015,"10 Connolly Avenue, Inchicore, Dublin 8",Dublin,292000.0,No,Inchicore,Dublin 8,q3,80%
+21/10/2015,"46 Connolly Ave, Inchicore, Dublin 8",Dublin,329000.0,No,Inchicore,Dublin 8,q4,90%
+27/10/2015,"5 Woodfield Avenue, Inchicore, Dublin 8",Dublin,230000.0,No,Inchicore,Dublin 8,q3,60%
+30/10/2015,"33 Phoenix Street, The Ranch, Inchicore",Dublin,153000.0,No,Inchicore,Dublin 8,q1,30%
+30/10/2015,"8 Rosgdale, Tyrconnell St, Inchicore Dublin 8",Dublin,139000.0,No,Inchicore,Dublin 8,q1,20%
+05/11/2015,"94A Kickham Rd, Inchicore, Dublin 8",Dublin,245000.0,No,Inchicore,Dublin 8,q3,60%
+12/11/2015,"7 James Plunkett House, Gratton Crescent, Inchicore",Dublin,165000.0,No,Inchicore,Dublin 8,q2,30%
+16/11/2015,"32 Thomas Davis St, Inchicore, Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+23/11/2015,"25 Rosedale, Tyrconnell Road, Inchicore",Dublin,190500.0,No,Inchicore,Dublin 8,q2,40%
+24/11/2015,"22 Woodfield Terrace, Sarsfield Rd, Inchicore",Dublin,225000.0,No,Inchicore,Dublin 8,q3,60%
+30/11/2015,"131 Inchicore Rd, Inchicore, Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,70%
+01/12/2015,"65 Davis Court, Thomas Davis St, Inchicore Dublin 8",Dublin,205000.0,No,Inchicore,Dublin 8,q2,50%
+02/12/2015,"32 Connelly Ave, Inchicore, Dublin 8",Dublin,160000.0,No,Inchicore,Dublin 8,q2,30%
+11/12/2015,"21 Davis Court, Thomas Davis Street W., Inchicore",Dublin,169000.0,No,Inchicore,Dublin 8,q2,30%
+11/12/2015,"92 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,230000.0,No,Inchicore,Dublin 8,q3,60%
+16/12/2015,"194 The Tramyard, Inchicore, Dublin 8",Dublin,167000.0,No,Inchicore,Dublin 8,q2,30%
+17/12/2015,"1 O'Leary Road, Inchicore",Dublin,210000.0,No,Inchicore,Dublin 8,q2,50%
+17/12/2015,"112 Emmet Rd, Inchicore, Dublin 8",Dublin,290000.0,No,Inchicore,Dublin 8,q3,80%
+17/12/2015,"8 Oblate Dr, Inchicore, Dublin 8",Dublin,180000.0,No,Inchicore,Dublin 8,q2,40%
+18/12/2015,"221 Tyrconnell Rd, Inchicore, Dublin 8",Dublin,209000.0,No,Inchicore,Dublin 8,q2,50%
+21/12/2015,"45A The Metropolitan, Inchicore, Dublin 8",Dublin,176035.0,No,Inchicore,Dublin 8,q2,40%
+15/01/2016,"13 Harcourt Lodge, Southern Cross Ave, Inchicore Dublin 8",Dublin,270000.0,No,Inchicore,Dublin 8,q3,70%
+15/01/2016,"30 Emmet Road, Inchicore, Dublin 8",Dublin,220000.0,No,Inchicore,Dublin 8,q2,50%
+21/01/2016,"16 Stephens Rd, Inchicore, Dublin 8",Dublin,193500.0,No,Inchicore,Dublin 8,q2,40%
+22/01/2016,"52A Metropolitan Apts, Inchicore Rd, Dublin 8",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+26/01/2016,"241 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,117000.0,No,Inchicore,Dublin 8,q1,20%
+27/01/2016,"22 Anner Road, Inchicore, Dublin 8",Dublin,252200.0,No,Inchicore,Dublin 8,q3,70%
+03/02/2016,"53 Nash Street, Inchicore, Dublin",Dublin,167000.0,No,Inchicore,Dublin 8,q2,30%
+03/02/2016,"69 Emmet Road, Inchicore",Dublin,255000.0,No,Inchicore,Dublin 8,q3,70%
+11/02/2016,"26 Nash St, Inchicore, Dublin 8",Dublin,188000.0,No,Inchicore,Dublin 8,q2,40%
+17/02/2016,"16 Harcourt Lodge, Inchicore, Dublin 8",Dublin,225000.0,No,Inchicore,Dublin 8,q3,60%
+19/02/2016,"52 Railway Ave, Inchicore, Dublin 8",Dublin,220000.0,No,Inchicore,Dublin 8,q2,50%
+26/02/2016,"7 Thomas Davis St West, Inchicore, Dublin 8",Dublin,220000.0,No,Inchicore,Dublin 8,q2,50%
+29/02/2016,"39 Suir Rd, Inchicore, Dublin",Dublin,350000.0,No,Inchicore,Dublin 8,q4,90%
+01/03/2016,"21 Connolly Ave, Inchicore, Dublin 8",Dublin,340000.0,No,Inchicore,Dublin 8,q4,90%
+08/03/2016,"17 Goldenbridge Ave, Inchicore, Dublin 8",Dublin,305000.0,No,Inchicore,Dublin 8,q4,80%
+11/03/2016,"19 Ring St, Inchicore, Dublin 8",Dublin,238000.0,No,Inchicore,Dublin 8,q3,60%
+16/03/2016,"28A Ring Terrace, Inchicore, Dublin",Dublin,160000.0,No,Inchicore,Dublin 8,q2,30%
+30/03/2016,"62 Buflin Rd, Inchicore, Dublin 8",Dublin,265500.0,No,Inchicore,Dublin 8,q3,70%
+01/04/2016,"120 Tyrconnell Park, Inchicore, Dublin 8",Dublin,296000.0,No,Inchicore,Dublin 8,q3,80%
+06/04/2016,"7 Devoy Road, Inchicore, Dublin 8",Dublin,345000.0,No,Inchicore,Dublin 8,q4,90%
+14/04/2016,"118 Inchicore Rd, Inchicore, Dublin 8",Dublin,456000.0,No,Inchicore,Dublin 8,q4,100%
+15/04/2016,"243 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,320000.0,No,Inchicore,Dublin 8,q4,80%
+18/04/2016,"36 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,252000.0,No,Inchicore,Dublin 8,q3,70%
+18/04/2016,"49 Rosedale - Gatelodg, Tyrconnell Road, Inchicore",Dublin,90000.0,No,Inchicore,Dublin 8,q1,10%
+28/04/2016,"1 St Michaels Villas, Sarsfield Rd, Inchicore Dublin 10",Dublin,332000.0,No,Inchicore,Dublin 8,q4,90%
+03/05/2016,"19 Davis Court, Thomas Davis St West, Inchicore Dublin 8",Dublin,188000.0,No,Inchicore,Dublin 8,q2,40%
+03/05/2016,"432 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,280000.0,No,Inchicore,Dublin 8,q3,80%
+04/05/2016,"55 Berrys Close Spa Rd, Apts Inchicore Dublin 8, Dublin 8",Dublin,202000.0,No,Inchicore,Dublin 8,q2,50%
+17/05/2016,"4 St Vincent St West, Inchicore, Dublin 8",Dublin,127000.0,No,Inchicore,Dublin 8,q1,20%
+18/05/2016,"14 Tyrconnell St, Inchicore, Dublin 8",Dublin,227000.0,No,Inchicore,Dublin 8,q3,60%
+18/05/2016,"34 Ring Terrace, Inchicore, Dublin 8",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+24/05/2016,"3 Floraville, Sarsfield Rd, Inchicore Dublin 8",Dublin,150000.0,No,Inchicore,Dublin 8,q1,30%
+31/05/2016,"31 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,274000.0,No,Inchicore,Dublin 8,q3,70%
+01/06/2016,"20 Stephens Rd, Inchicore, Dublin 8",Dublin,245000.0,No,Inchicore,Dublin 8,q3,60%
+03/06/2016,"446 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,351000.0,Yes,Inchicore,Dublin 8,q4,90%
+15/06/2016,"Railway Lodge, 12B Railway Avenue, Inchicore",Dublin,235000.0,No,Inchicore,Dublin 8,q3,60%
+20/06/2016,"22 Emmet House, Emmet Court, Inchicore",Dublin,130000.0,No,Inchicore,Dublin 8,q1,20%
+22/06/2016,"121 Inchicore Rd, Dublin 8, Dublin",Dublin,125000.0,No,Inchicore,Dublin 8,q1,20%
+22/06/2016,"1A Phoenix St, Inchicore, Dublin 10",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+23/06/2016,"119 Tyrconnell Rd, Inchicore, Dublin 8",Dublin,280000.0,No,Inchicore,Dublin 8,q3,80%
+24/06/2016,"105 Tyrconnell Rd, Inchicore, Dublin",Dublin,135000.0,No,Inchicore,Dublin 8,q1,20%
+24/06/2016,"7 West Terrace, Inchicore, Dublin 8",Dublin,243000.0,No,Inchicore,Dublin 8,q3,60%
+28/06/2016,"102 Emmet Road, Inchicore, Dublin 8",Dublin,275000.0,No,Inchicore,Dublin 8,q3,70%
+30/06/2016,"10 Nash St, Inchicore, Dublin 8",Dublin,205000.0,No,Inchicore,Dublin 8,q2,50%
+01/07/2016,"5 North Sq, Inchicore, Dublin 8",Dublin,376200.0,No,Inchicore,Dublin 8,q4,90%
+21/07/2016,"9 St Patricks Terrace, Inchicore, Dublin 8",Dublin,280555.0,No,Inchicore,Dublin 8,q3,80%
+22/07/2016,"8 O'Leary Road, Inchicore, Dublin 8",Dublin,227500.0,No,Inchicore,Dublin 8,q3,60%
+29/07/2016,"16 Nash St, Inchicore, Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+02/08/2016,"Apt 44 Berrys Close, Spa Rd, Inchicore Dublin 8",Dublin,205000.0,No,Inchicore,Dublin 8,q2,50%
+03/08/2016,"13 Liffey St South, Inchicore, Dublin 10",Dublin,195000.0,No,Inchicore,Dublin 8,q2,40%
+05/08/2016,"31 Inchicore Rd, Dublin 8, Dublin",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+08/08/2016,"34 Kilmainham Square, Inchicore Road, Dublin",Dublin,280000.0,Yes,Inchicore,Dublin 8,q3,80%
+10/08/2016,"22 Tir Connell St, Inchicore, Dublin 8",Dublin,230000.0,No,Inchicore,Dublin 8,q3,60%
+11/08/2016,"1 Tyrconnell Park, Inchicore, Dublin 8",Dublin,205000.0,No,Inchicore,Dublin 8,q2,50%
+26/08/2016,"28 Tyrconnell Park, Inchicore, Dublin 8",Dublin,300000.0,No,Inchicore,Dublin 8,q3,80%
+14/09/2016,"13 Heuston Sq, Inchicore Rd, Dublin 8",Dublin,410000.0,No,Inchicore,Dublin 8,q4,100%
+21/09/2016,"55 Railway Ave, Inchicore, Dublin 8",Dublin,182000.0,No,Inchicore,Dublin 8,q2,40%
+23/09/2016,"41 Connolly Ave, Inchicore, Dublin 8",Dublin,350000.0,No,Inchicore,Dublin 8,q4,90%
+23/09/2016,"67 Tyrconnell Rd, Inchicore, Dublin 8",Dublin,243000.0,No,Inchicore,Dublin 8,q3,60%
+30/09/2016,"59 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,161000.0,No,Inchicore,Dublin 8,q2,30%
+30/09/2016,"75 Nash St, Inchicore, Dublin 8",Dublin,195000.0,No,Inchicore,Dublin 8,q2,40%
+04/10/2016,"74 Nash St, Inchicore, Dublin 8",Dublin,185000.0,No,Inchicore,Dublin 8,q2,40%
+06/10/2016,"5 C Metropolitan, Inchicore, Dublin",Dublin,217500.0,No,Inchicore,Dublin 8,q2,50%
+10/10/2016,"44 Harcourt Lodge, Inchicore, Dublin 8",Dublin,170000.0,No,Inchicore,Dublin 8,q2,30%
+19/10/2016,"2 Berrys Close Spa Rd, Inchicore Dublin 8, Dublin",Dublin,68595.15,No,Inchicore,Dublin 8,q1,10%
+19/10/2016,"54 The Tramyard Apts, Spa Rd, Inchicore Dublin 8",Dublin,165000.0,No,Inchicore,Dublin 8,q2,30%
+21/10/2016,"21 Emmet Rd, Inchicore, Dublin 8",Dublin,399000.0,No,Inchicore,Dublin 8,q4,100%
+26/10/2016,"31 Phoenix St, The Ranch, Inchicore Dublin 10",Dublin,155000.0,No,Inchicore,Dublin 8,q1,30%
+27/10/2016,"2 West Terrace, Inchicore, Dublin 8",Dublin,220000.0,No,Inchicore,Dublin 8,q2,50%
+02/11/2016,"9 New Rd, Inchicore, Dublin 8",Dublin,164000.0,No,Inchicore,Dublin 8,q2,30%
+09/11/2016,"122 Inchicore Rd, Dublin 8, Dublin",Dublin,550000.0,No,Inchicore,Dublin 8,q4,100%
+10/11/2016,"48 The Metropolitan, Inchicore, Dublin 8",Dublin,224000.0,No,Inchicore,Dublin 8,q2,50%
+11/11/2016,"100 Tyrconnell Rd, Inchicore, Dublin 8",Dublin,320000.0,No,Inchicore,Dublin 8,q4,80%
+11/11/2016,"18 Bulfin Gardens, Inchicore, Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+22/11/2016,"117 Kickham Rd, Inchicore, Dublin",Dublin,325000.0,No,Inchicore,Dublin 8,q4,90%
+23/11/2016,"22 New Rd, Inchicore, Dublin 8",Dublin,235000.0,No,Inchicore,Dublin 8,q3,60%
+23/11/2016,"41 Harcourt Lodge, Southern Cross Ave, Inchicore",Dublin,135000.0,No,Inchicore,Dublin 8,q1,20%
+07/12/2016,"6 Goldenbridge Gardens, Inchicore, Dublin 8",Dublin,291000.0,No,Inchicore,Dublin 8,q3,80%
+08/12/2016,"40 Phoenix St, The Ranch, Inchicore",Dublin,107000.0,No,Inchicore,Dublin 8,q1,20%
+08/12/2016,"54 Inchicore Road, Dublin 8",Dublin,612000.0,No,Inchicore,Dublin 8,q4,100%
+09/12/2016,"25 Ring St, Inchicore, Dublin 8",Dublin,192000.0,No,Inchicore,Dublin 8,q2,40%
+09/12/2016,"26 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,142000.0,No,Inchicore,Dublin 8,q1,20%
+19/12/2016,"47 Nash St, Inchicore, Dublin 8",Dublin,243000.0,No,Inchicore,Dublin 8,q3,60%
+21/12/2016,"29 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,221000.0,No,Inchicore,Dublin 8,q2,50%
+21/12/2016,"46 Harcourt Lodge, Southern Cross Ave, Inchicore Dublin 8",Dublin,330000.0,No,Inchicore,Dublin 8,q4,90%
+23/12/2016,"12B Metropolitan Apts, Inchicore Rd, Dublin 8",Dublin,231000.0,No,Inchicore,Dublin 8,q3,60%
+23/12/2016,"39 Rosedale, Tyrconnell St, Inchicore",Dublin,221000.0,No,Inchicore,Dublin 8,q2,50%
+23/12/2016,"57 Nash St, Inchicore, Dublin 8",Dublin,150000.0,No,Inchicore,Dublin 8,q1,30%
+12/01/2017,"66 Bulfin Rd, Inchicore, Dublin 8",Dublin,428000.0,No,Inchicore,Dublin 8,q4,100%
+12/01/2017,"Apt 163, The Tramyard, Inchicore",Dublin,175000.0,No,Inchicore,Dublin 8,q2,40%
+17/01/2017,"Apartment 247, Kilmainham Square, Inchicore Road",Dublin,435000.0,Yes,Inchicore,Dublin 8,q4,100%
+18/01/2017,"173 Inchicore Rd, Inchicore, Dublin 8",Dublin,278000.0,No,Inchicore,Dublin 8,q3,70%
+20/01/2017,"37 Rosedale, Tyrconnell St, Inchicore Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,70%
+20/01/2017,"9 James Plunkett House, Grattan Crescent, Inchicore Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+25/01/2017,"9 Partridge Terrace, Inchicore, Dublin 8",Dublin,214000.0,No,Inchicore,Dublin 8,q2,50%
+02/02/2017,"1 Murrays Cottages, Sarsfield Rd, Inchicore Dublin 10",Dublin,395000.0,No,Inchicore,Dublin 8,q4,100%
+02/02/2017,"205B Emmet Rd, Inchicore, Dublin 8",Dublin,100000.0,No,Inchicore,Dublin 8,q1,10%
+08/02/2017,"28 Nash St, Inchicore, Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+17/02/2017,"159 Tyrconnell Park, Inchicore, Dublin 8",Dublin,405000.0,No,Inchicore,Dublin 8,q4,100%
+17/02/2017,"58 Nash St, Inchicore, Dublin",Dublin,250000.0,No,Inchicore,Dublin 8,q3,70%
+20/02/2017,"245 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,348018.0,Yes,Inchicore,Dublin 8,q4,90%
+27/02/2017,"5 Rosedale, Tyrconnell St, Inchicore",Dublin,330000.0,No,Inchicore,Dublin 8,q4,90%
+06/03/2017,"10 New Rd, Inchicore, Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+07/03/2017,"140 Tyrconnell Park, Inchicore, Dublin 8",Dublin,269000.0,No,Inchicore,Dublin 8,q3,70%
+07/03/2017,"157 Inchicore Rd, Dublin 8, Dublin",Dublin,245200.0,No,Inchicore,Dublin 8,q3,60%
+21/03/2017,"10 Floraville, Sarsfield Rd, Inchicore Dublin 8",Dublin,193000.0,No,Inchicore,Dublin 8,q2,40%
+22/03/2017,"1 Hampton Court, Inchicore, Dublin 8",Dublin,115000.0,No,Inchicore,Dublin 8,q1,20%
+23/03/2017,"27 Rosedale, Tyrconnell Rd, Inchicore Dublin 8",Dublin,110000.0,No,Inchicore,Dublin 8,q1,20%
+03/04/2017,"197 Emett Rd, Inchicore, Dublin",Dublin,82360.0,No,Inchicore,Dublin 8,q1,10%
+04/04/2017,"2 Harcourt Lodge, Southern Cross Avenue, Inchicore",Dublin,245000.0,No,Inchicore,Dublin 8,q3,60%
+06/04/2017,"64 Nash St, Inchicore, Dublin 8",Dublin,181000.0,No,Inchicore,Dublin 8,q2,40%
+07/04/2017,"20 Woodfield Terrace, Sarsfield Rd, Inchicore Dublin 8",Dublin,280171.0,No,Inchicore,Dublin 8,q3,80%
+21/04/2017,"55 Bonbridge Place, Inchicore, Dublin 8",Dublin,274000.0,No,Inchicore,Dublin 8,q3,70%
+24/04/2017,"1 O'Donoghue Street, Inchicore, Dublin 8",Dublin,180000.0,No,Inchicore,Dublin 8,q2,40%
+26/04/2017,"193 Emmet Rd, Inchicore, Dublin 8",Dublin,120000.0,No,Inchicore,Dublin 8,q1,20%
+04/05/2017,"127 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,300000.0,No,Inchicore,Dublin 8,q3,80%
+04/05/2017,"36 Bulfin Rd, Inchicore, Dublin 8",Dublin,333000.0,No,Inchicore,Dublin 8,q4,90%
+12/05/2017,"129 Emmet Rd, Inchicore, Dublin 8",Dublin,520000.0,No,Inchicore,Dublin 8,q4,100%
+15/05/2017,"2 Berrys Close Spa Rd, Inchicore Dublin 8, Dublin",Dublin,158000.0,No,Inchicore,Dublin 8,q1,30%
+17/05/2017,"15 Devoy Rd, Inchicore, Dublin 8",Dublin,280000.0,No,Inchicore,Dublin 8,q3,80%
+17/05/2017,"8 Tyrconnell St, Inchicore, Dublin 8",Dublin,197000.0,No,Inchicore,Dublin 8,q2,40%
+26/05/2017,"2 St Georges Villas, Inchicore Parade, Inchicore Dublin 8",Dublin,650023.0,No,Inchicore,Dublin 8,q4,100%
+30/05/2017,"41 Ring St, Inchicore, Dublin 8",Dublin,30000.0,No,Inchicore,Dublin 8,q1,10%
+09/06/2017,"86 Naas Rd, Inchicore, Dublin 8",Dublin,377000.0,No,Inchicore,Dublin 8,q4,90%
+13/06/2017,"1 Goldenbridge Terrace, Inchicore, Dublin 8",Dublin,405000.0,No,Inchicore,Dublin 8,q4,100%
+13/06/2017,"137 The Tramyard, Inchicore, Dublin 8",Dublin,280000.0,No,Inchicore,Dublin 8,q3,80%
+15/06/2017,"3 Connolly Gardens, Inchicore, Dublin 8",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+15/06/2017,"97 Kickham Road, Inchicore, Dublin 8",Dublin,300000.0,No,Inchicore,Dublin 8,q3,80%
+27/06/2017,"14 Grand Canal View, Jamess Walk, Inchicore Dublin 12",Dublin,186000.0,No,Inchicore,Dublin 8,q2,40%
+30/06/2017,"11 Davis Court, Thomas Davis St West, Inchicore Dublin 8",Dublin,245000.0,No,Inchicore,Dublin 8,q3,60%
+06/07/2017,"59 Anner Rd, Inchicore, Dublin 8",Dublin,380000.0,No,Inchicore,Dublin 8,q4,90%
+07/07/2017,"74 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,247000.0,No,Inchicore,Dublin 8,q3,60%
+10/07/2017,"40 Ring St, Inchicore, Dublin 8",Dublin,220000.0,No,Inchicore,Dublin 8,q2,50%
+19/07/2017,"9 Emmet Rd, Inchicore, Dublin 8",Dublin,495000.0,No,Inchicore,Dublin 8,q4,100%
+21/07/2017,"22 Oblate Dr, Inchicore, Dublin 8",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+25/07/2017,"8 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,345000.0,No,Inchicore,Dublin 8,q4,90%
+31/07/2017,"29 Devoy Rd, Inchicore, Dublin 8",Dublin,25000.0,No,Inchicore,Dublin 8,q1,10%
+08/08/2017,"3 First Avenue, Inchicore, Dublin 8",Dublin,297000.0,No,Inchicore,Dublin 8,q3,80%
+09/08/2017,"221 The Old Chocolate Factory, Kilmainham Sq, Inchicore Rd Dublin 8",Dublin,347000.0,No,Inchicore,Dublin 8,q4,90%
+18/08/2017,"7 Davis Court, Inchicore, Dublin",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+23/08/2017,"2 South Terrace, Inchicore, Dublin 8",Dublin,195000.0,No,Inchicore,Dublin 8,q2,40%
+23/08/2017,"Apt 14 James Plunkett House, 9 - 11 Grattan Crescent, Inchicore",Dublin,173000.0,No,Inchicore,Dublin 8,q2,40%
+25/08/2017,"148 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,248000.0,No,Inchicore,Dublin 8,q3,60%
+04/09/2017,"217 The Tramyard, Inchicore, Dublin",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+08/09/2017,"1 Devoy Rd, Inchicore, Dublin 8",Dublin,335000.0,No,Inchicore,Dublin 8,q4,90%
+08/09/2017,"36 Naas Rd, Inchicore, Dublin 12",Dublin,330000.0,No,Inchicore,Dublin 8,q4,90%
+13/09/2017,"15 Stephens Rd, Inchicore, Dublin 2",Dublin,252000.0,No,Inchicore,Dublin 8,q3,70%
+14/09/2017,"197 Tyrconnell Road, Inchicore, Dublin 8",Dublin,85360.0,No,Inchicore,Dublin 8,q1,10%
+15/09/2017,"47 Bulfin Rd, Inchicore, Dublin 8",Dublin,150000.0,No,Inchicore,Dublin 8,q1,30%
+19/09/2017,"7 The Tramyard, Spa Rd, Inchicore Village Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,70%
+21/09/2017,"9 South Terrace, Inchicore, Dublin 8",Dublin,350000.0,No,Inchicore,Dublin 8,q4,90%
+25/09/2017,"50A Metropolitan Apts, Inchicore Rd, Dublin 8",Dublin,315000.0,No,Inchicore,Dublin 8,q4,80%
+29/09/2017,"64 Tyrconnel Rd, Inchicore, Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+29/09/2017,"Apt 16 Rosedale, Tyrconnell Rd, Inchicore Dublin 8",Dublin,211000.0,No,Inchicore,Dublin 8,q2,50%
+10/10/2017,"2 Ring St, Ring Terrace, Inchicore Dublin 8",Dublin,246000.0,No,Inchicore,Dublin 8,q3,60%
+13/10/2017,"13 Odonoghue St, Inchicore, Dublin 8",Dublin,311000.0,No,Inchicore,Dublin 8,q4,80%
+20/10/2017,"38 Bulfin Rd, Inchicore, Dublin 8",Dublin,365000.0,No,Inchicore,Dublin 8,q4,90%
+20/10/2017,"97 Tyrconnell Park, Inchicore, Dublin 8",Dublin,426800.0,No,Inchicore,Dublin 8,q4,100%
+24/10/2017,"203 Tyrconnell Road, Inchicore, Dublin 8",Dublin,100000.0,No,Inchicore,Dublin 8,q1,10%
+25/10/2017,"47 Emmet Rd, Inchicore, Dublin 8",Dublin,306000.0,No,Inchicore,Dublin 8,q4,80%
+03/11/2017,"5 Kickham Rd, Inchicore, Dublin 8",Dublin,385000.0,No,Inchicore,Dublin 8,q4,100%
+03/11/2017,"8 Partridge Terrace, Inchicore, Dublin 8",Dublin,284000.0,No,Inchicore,Dublin 8,q3,80%
+06/11/2017,"40 Kilmainham Bank, Emmet Rd, Inchicore Dublin 8",Dublin,290000.0,No,Inchicore,Dublin 8,q3,80%
+08/11/2017,"Apt 14 Rosedale, Tyrconnell Rd, Inchicore Dublin 8",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+15/11/2017,"58 Connolly Ave, Inchicore, Dublin 8",Dublin,355000.0,No,Inchicore,Dublin 8,q4,90%
+17/11/2017,"82 Bulfin Road, Inchicore, Dublin 8",Dublin,315000.0,No,Inchicore,Dublin 8,q4,80%
+20/11/2017,"78 The Tramyard, Spa Rd, Inchicore",Dublin,170000.0,No,Inchicore,Dublin 8,q2,30%
+22/11/2017,"105 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,201000.0,No,Inchicore,Dublin 8,q2,50%
+22/11/2017,"79 Kilmainham Bank, Inchicore, Dublin 8",Dublin,221000.0,No,Inchicore,Dublin 8,q2,50%
+22/11/2017,"Davis Court, Thomas Davis St West, Inchicore Dublin 8",Dublin,199999.0,No,Inchicore,Dublin 8,q2,40%
+23/11/2017,"111 The Old Chocolate Factory, Kilmainham Sq, Inchicore Rd Dublin 8",Dublin,370000.0,No,Inchicore,Dublin 8,q4,90%
+27/11/2017,"1 Partridge Terrace, Inchicore, Dublin",Dublin,221000.0,No,Inchicore,Dublin 8,q2,50%
+28/11/2017,"10 Thomas Davis Street West, Inchicore, Dublin 8",Dublin,278000.0,No,Inchicore,Dublin 8,q3,70%
+01/12/2017,"5 Luby Rd, Inchicore, Dublin 8",Dublin,398437.0,No,Inchicore,Dublin 8,q4,100%
+08/12/2017,"27 Devoy Rd, Inchicore, Dublin 8",Dublin,330000.0,No,Inchicore,Dublin 8,q4,90%
+15/12/2017,"6 St Patricks Terrace, Inchicore, Dublin 8",Dublin,411000.0,No,Inchicore,Dublin 8,q4,100%
+19/12/2017,"35 Kilmainham Square, Inchicore Road, Dublin 8",Dublin,321586.0,Yes,Inchicore,Dublin 8,q4,80%
+22/12/2017,"4 Woodfield Mews, Rear Inchicore Rd, Kilmainhaim Dublin 8",Dublin,370000.0,No,Inchicore,Dublin 8,q4,90%
+08/01/2018,"48 Harcourt Lodge, Southern Cross Ave, Inchicore Dublin 8",Dublin,345000.0,No,Inchicore,Dublin 8,q4,90%
+10/01/2018,"71 Goldenbridge Ave, Inchicore, Dublin 8",Dublin,306000.0,No,Inchicore,Dublin 8,q4,80%
+12/01/2018,"12 Thomas Davis St West, Inchicore, Dublin 8",Dublin,245000.0,No,Inchicore,Dublin 8,q3,60%
+12/01/2018,"3 Harcourt Lodge, Inchicore, Dublin 8",Dublin,294000.0,No,Inchicore,Dublin 8,q3,80%
+12/01/2018,"Apt 200 Block H, Tramyard, Inchicore Dublin 8",Dublin,272500.0,No,Inchicore,Dublin 8,q3,70%
+19/01/2018,"15 Wheton Court, Inchicore, Dublin 8",Dublin,160000.0,No,Inchicore,Dublin 8,q2,30%
+24/01/2018,"227 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,268000.0,No,Inchicore,Dublin 8,q3,70%
+25/01/2018,"21 Woodfield Ave, Inchicore, Dublin 10",Dublin,423000.0,No,Inchicore,Dublin 8,q4,100%
+30/01/2018,"122 The Tramyard, Inchicore, Dublin",Dublin,225000.0,No,Inchicore,Dublin 8,q3,60%
+08/02/2018,"149 Inchicore Rd, Dublin 8, Dublin",Dublin,229000.0,No,Inchicore,Dublin 8,q3,60%
+09/02/2018,"9 Wheaton Court, North Terrace, Inchicore",Dublin,243000.0,No,Inchicore,Dublin 8,q3,60%
+12/02/2018,"8A Emmet Court, Inchicore, Dublin",Dublin,160000.0,No,Inchicore,Dublin 8,q2,30%
+16/02/2018,"21 Woodfield Terrace, Sarsfield Rd, Inchicore",Dublin,356022.0,No,Inchicore,Dublin 8,q4,90%
+16/02/2018,"22 Connolly Gardens, Inchicore, Dublin 8",Dublin,320000.0,No,Inchicore,Dublin 8,q4,80%
+23/02/2018,"9 Tyrconnell Place, Tyrconnell Rd, Inchicore Dublin 8",Dublin,325000.0,No,Inchicore,Dublin 8,q4,90%
+26/02/2018,"Apt 12 Rosedale, Tyrconnell Rd, Inchicore Dublin 8",Dublin,183000.0,No,Inchicore,Dublin 8,q2,40%
+06/03/2018,"455 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,455000.0,No,Inchicore,Dublin 8,q4,100%
+06/03/2018,"99 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,128750.0,No,Inchicore,Dublin 8,q1,20%
+07/03/2018,"4 Berry Court, Spa Road, Inchicore",Dublin,210000.0,No,Inchicore,Dublin 8,q2,50%
+08/03/2018,"2 Harcourt Lodge, Stephen'S Rd, Inchicore",Dublin,256105.97,No,Inchicore,Dublin 8,q3,70%
+13/03/2018,"19 Devoy Rd, Inchicore, Dublin 12",Dublin,355000.0,No,Inchicore,Dublin 8,q4,90%
+14/03/2018,"Apt 29, Emmet Court, Inchicore",Dublin,126000.0,No,Inchicore,Dublin 8,q1,20%
+21/03/2018,"195 Emmet Rd, Inchicore, Dublin 8",Dublin,215000.0,No,Inchicore,Dublin 8,q2,50%
+22/03/2018,"39 Suir Rd, Inchicore, Dublin",Dublin,400000.0,No,Inchicore,Dublin 8,q4,100%
+27/03/2018,"41 Goldenbridge Avenue, Goldenbridge, Inchicore",Dublin,360000.0,No,Inchicore,Dublin 8,q4,90%
+28/03/2018,"447 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,420000.0,No,Inchicore,Dublin 8,q4,100%
+29/03/2018,"441 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,400881.0,Yes,Inchicore,Dublin 8,q4,100%
+06/04/2018,"209 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,299559.47,No,Inchicore,Dublin 8,q3,80%
+10/04/2018,"8 Hampton Court, Tyrconnell Rd, Inchicore Dublin 8",Dublin,70838.0,No,Inchicore,Dublin 8,q1,10%
+16/04/2018,"45 Stephens Road, Inchicore, Dublin 8",Dublin,167500.0,No,Inchicore,Dublin 8,q2,30%
+25/04/2018,"59 Goldenbridge Ave, Inchicore, Dublin 8",Dublin,320000.0,No,Inchicore,Dublin 8,q4,80%
+30/04/2018,"155 Emmet Rd, Inchicore Rd, Dublin 8",Dublin,315000.0,No,Inchicore,Dublin 8,q4,80%
+02/05/2018,"1A Devoy Rd, Inchicore, Dublin 8",Dublin,300000.0,No,Inchicore,Dublin 8,q4,80%
+02/05/2018,"9 Davis Court, Thomas Davis St, Inchicore Dublin 8",Dublin,137500.0,No,Inchicore,Dublin 8,q1,20%
+04/05/2018,"31 Tyrconnell Grove, Thomas Davis St West, Inchicore Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+04/05/2018,"458 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,416740.0,No,Inchicore,Dublin 8,q4,100%
+18/05/2018,"6 Goldenbridge Ave, Inchicore, Dublin 8",Dublin,340000.0,No,Inchicore,Dublin 8,q4,90%
+25/05/2018,"41 Berry Close, Spa Rd, Inchicore",Dublin,320000.0,No,Inchicore,Dublin 8,q4,80%
+25/05/2018,"99 Seven Oaks, Sarsfield Rd, Inchicore Dublin 10",Dublin,178000.0,No,Inchicore,Dublin 8,q2,40%
+29/05/2018,"44 Rosedale, Tir Connell St, Inchicore Dublin 8",Dublin,255000.0,No,Inchicore,Dublin 8,q3,70%
+29/05/2018,"53 Connolly Ave, Inchicore, Dublin 8",Dublin,328000.0,No,Inchicore,Dublin 8,q4,90%
+31/05/2018,"23 0 Donoghue Street, Inchicore, Dublin 8",Dublin,204000.0,No,Inchicore,Dublin 8,q2,50%
+07/06/2018,"15 Goldenbridge Terrace, Inchicore, Dublin 8",Dublin,406500.0,No,Inchicore,Dublin 8,q4,100%
+08/06/2018,"20 Abercorn Sq, Inchicore, Dublin 8",Dublin,411000.0,No,Inchicore,Dublin 8,q4,100%
+08/06/2018,"4 Anner Rd, Inchicore, Dublin 8",Dublin,185950.0,No,Inchicore,Dublin 8,q2,40%
+12/06/2018,"14 Inchicore Terrace North, Inchicore, Dublin 8",Dublin,500000.0,No,Inchicore,Dublin 8,q4,100%
+14/06/2018,"1 Emmet Lodge, Emmet Court, Inchicore",Dublin,3250000.0,No,Inchicore,Dublin 8,q4,100%
+15/06/2018,"448 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,400000.0,No,Inchicore,Dublin 8,q4,100%
+19/06/2018,"456 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,318942.0,No,Inchicore,Dublin 8,q4,80%
+21/06/2018,"39 Nash St, Inchicore, Dublin 8",Dublin,230000.0,No,Inchicore,Dublin 8,q3,60%
+22/06/2018,"246 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,375000.0,Yes,Inchicore,Dublin 8,q4,90%
+29/06/2018,"6 Oblate View, Tyrconnell Rd, Inchicore Dublin 8",Dublin,188987.0,No,Inchicore,Dublin 8,q2,40%
+29/06/2018,"90 The Tramyard, Inchicore, Dublin 8",Dublin,300000.0,No,Inchicore,Dublin 8,q4,80%
+02/07/2018,"28 The Tramyard, Spa Rd, Inchicore",Dublin,237000.0,No,Inchicore,Dublin 8,q3,60%
+06/07/2018,"Apt 1, 229 Tyrconnell Rd, Inchicore",Dublin,330000.0,No,Inchicore,Dublin 8,q4,90%
+11/07/2018,"20 Liffey St, Inchicore, Dublin 10",Dublin,162000.0,No,Inchicore,Dublin 8,q2,30%
+16/07/2018,"249 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,410100.0,No,Inchicore,Dublin 8,q4,100%
+16/07/2018,"9C Metropolitan Apts, Inchicore Rd, Dublin 8",Dublin,315000.0,No,Inchicore,Dublin 8,q4,80%
+19/07/2018,"Apt 505, Kilmainham Sq, Inchicore Rd Dublin 8",Dublin,352500.0,No,Inchicore,Dublin 8,q4,90%
+20/07/2018,"454 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,430000.0,No,Inchicore,Dublin 8,q4,100%
+21/07/2018,"9 New Rd, Inchicore, Dublin 8",Dublin,225000.0,No,Inchicore,Dublin 8,q3,60%
+23/07/2018,"8 Hampton Court, Tyrconnell Rd, Inchicore Dublin 8",Dublin,210000.0,No,Inchicore,Dublin 8,q2,50%
+27/07/2018,"231 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,383000.0,No,Inchicore,Dublin 8,q4,100%
+30/07/2018,"452 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,400000.0,No,Inchicore,Dublin 8,q4,100%
+31/07/2018,"15 Tir Connell Grove, Thomas Davis St West, Inchicore Dublin 8",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+01/08/2018,"Apartment 4 Rivercourt, Camac Close, Inchicore",Dublin,231000.0,No,Inchicore,Dublin 8,q3,60%
+07/08/2018,"32 Nash St, Inchicore, Dublin 8",Dublin,290000.0,No,Inchicore,Dublin 8,q3,80%
+08/08/2018,"13 New Rd, Inchicore, Dublin 8",Dublin,288000.0,No,Inchicore,Dublin 8,q3,80%
+08/08/2018,"131A Inchicore Rd, Dublin 8, Dublin",Dublin,226500.0,No,Inchicore,Dublin 8,q3,60%
+09/08/2018,"13 Tyrconnell Place, Tyrconnell Rd, Inchicore Dublin 8",Dublin,285000.0,No,Inchicore,Dublin 8,q3,80%
+09/08/2018,"33 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,360000.0,No,Inchicore,Dublin 8,q4,90%
+10/08/2018,"54 Emmet Rd, Inchicore, Dublin 8",Dublin,345000.0,No,Inchicore,Dublin 8,q4,90%
+16/08/2018,"14 Tyrconnell Place, Tyrconnell Rd, Inchicore Dublin 8",Dublin,275000.0,No,Inchicore,Dublin 8,q3,70%
+17/08/2018,"21 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,423500.0,No,Inchicore,Dublin 8,q4,100%
+29/08/2018,"21 Phoenix St, Inchicore, Dublin 10",Dublin,225000.0,No,Inchicore,Dublin 8,q3,60%
+31/08/2018,"110 Emmet Road, Inchicore, Dublin 8",Dublin,295000.0,No,Inchicore,Dublin 8,q3,80%
+31/08/2018,"3 Inchicore Terrace South, Inchicore, Dublin 8",Dublin,485000.0,No,Inchicore,Dublin 8,q4,100%
+06/09/2018,"224 The Tramyard, Inchicore, Dublin 8",Dublin,180000.0,No,Inchicore,Dublin 8,q2,40%
+07/09/2018,"108 Tyrconnell Park, Inchicore, Dublin 8",Dublin,390000.0,No,Inchicore,Dublin 8,q4,100%
+10/09/2018,"6 Southern Cross Ave, Inchicore, Dublin 8",Dublin,360000.0,No,Inchicore,Dublin 8,q4,90%
+12/09/2018,"87 Emmet Rd, Inchicore, Dublin 8",Dublin,445000.0,No,Inchicore,Dublin 8,q4,100%
+14/09/2018,"157 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,280000.0,No,Inchicore,Dublin 8,q3,80%
+21/09/2018,"48 Tramsyard, Inchicore, Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,70%
+24/09/2018,"125 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,350000.0,No,Inchicore,Dublin 8,q4,90%
+25/09/2018,"Apt 191, The Tramyard, Inchicore",Dublin,231000.0,No,Inchicore,Dublin 8,q3,60%
+01/10/2018,"Apartment 8, 13 Grattan Crescent, Inchicore",Dublin,284000.0,No,Inchicore,Dublin 8,q3,80%
+02/10/2018,"151 Inchicore Rd, Dublin 8, Dublin",Dublin,275000.0,No,Inchicore,Dublin 8,q3,70%
+05/10/2018,"19 Tyconnell Park, Inchicore, Dublin 8",Dublin,400000.0,No,Inchicore,Dublin 8,q4,100%
+18/10/2018,"14 Goldenbridge Terrace, Inchicore, Dublin 8",Dublin,342000.0,No,Inchicore,Dublin 8,q4,90%
+18/10/2018,"43 Stephens Rd, Inchicore, Dublin 8",Dublin,325000.0,No,Inchicore,Dublin 8,q4,90%
+18/10/2018,"73 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,207500.0,No,Inchicore,Dublin 8,q2,50%
+19/10/2018,"47 Nash St, Inchicore, Dublin 8",Dublin,318000.0,No,Inchicore,Dublin 8,q4,80%
+24/10/2018,"36A Ring Terrace, Inchicore, Dublin",Dublin,325000.0,No,Inchicore,Dublin 8,q4,90%
+26/10/2018,"16 Berrys Court, Spa Rd, Inchicore Dublin 8",Dublin,249950.0,No,Inchicore,Dublin 8,q3,60%
+31/10/2018,"18 Tir Connell Grove, Thomas Davis St West, Inchicore Dublin 8",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+31/10/2018,"244 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,440528.63,No,Inchicore,Dublin 8,q4,100%
+31/10/2018,"28 Oleary Rd, Inchicore, Dublin 8",Dublin,347000.0,No,Inchicore,Dublin 8,q4,90%
+07/11/2018,"2 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,375000.0,No,Inchicore,Dublin 8,q4,90%
+14/11/2018,"55 Davis Court, Thomas Davis St West, Inchicore Dublin 8",Dublin,234000.0,No,Inchicore,Dublin 8,q3,60%
+16/11/2018,"15 Odonoghue St, Inchicore Dublin 8, Dublin",Dublin,305000.0,No,Inchicore,Dublin 8,q4,80%
+20/11/2018,"40 Goldenbridge Avenue, Inchicore, Dublin 8",Dublin,395000.0,No,Inchicore,Dublin 8,q4,100%
+23/11/2018,"127 The Tramyard, Inchicore, Dublin",Dublin,275000.0,No,Inchicore,Dublin 8,q3,70%
+26/11/2018,"109 The Tramyard, Inchicore, Dublin 8",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+29/11/2018,"104 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,70%
+05/12/2018,"15 Oblate View, Tyrconnell Road, Inchicore",Dublin,169000.0,No,Inchicore,Dublin 8,q2,30%
+06/12/2018,"445 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,430000.0,No,Inchicore,Dublin 8,q4,100%
+11/12/2018,"225 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,365000.0,No,Inchicore,Dublin 8,q4,90%
+14/12/2018,"75 Tyrconnell Road, Inchicore, Dublin 8",Dublin,450000.0,No,Inchicore,Dublin 8,q4,100%
+17/12/2018,"48 Anner Rd, Inchicore, Dublin 8",Dublin,370000.0,No,Inchicore,Dublin 8,q4,90%
+18/12/2018,"132 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,255000.0,No,Inchicore,Dublin 8,q3,70%
+18/12/2018,"38 Phoenix St, Inchicore, Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,70%
+18/12/2018,"4 Floraville Apts, Sarsfield Rd, Inchicore Dublin 10",Dublin,232000.0,No,Inchicore,Dublin 8,q3,60%
+18/12/2018,"Apt 12, Beaconsfield Court, 62 Inchicore Rd Dublin 8",Dublin,316000.0,No,Inchicore,Dublin 8,q4,80%
+18/12/2018,"Apt 7, Grattan Crescent, Inchicore Dublin 8",Dublin,246000.0,No,Inchicore,Dublin 8,q3,60%
+19/12/2018,"14 Inchicore Terrace North, Inchicore, Dublin 8",Dublin,420000.0,No,Inchicore,Dublin 8,q4,100%
+19/12/2018,"214 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,195000.0,No,Inchicore,Dublin 8,q2,40%
+19/12/2018,"Apt1 Block C, Emmet Manor, Inchicore",Dublin,3416000.0,No,Inchicore,Dublin 8,q4,100%
+20/12/2018,"8 St Patricks Terrace, Inchicore, Dublin 8",Dublin,460000.0,No,Inchicore,Dublin 8,q4,100%
+20/12/2018,"85 Tyrconnell Road, Inchicore, Dublin 8",Dublin,275000.0,No,Inchicore,Dublin 8,q3,70%
+21/12/2018,"130 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,350000.0,No,Inchicore,Dublin 8,q4,90%
+31/12/2018,"23 Anner Rd, Inchicore, Dublin 8",Dublin,362000.0,No,Inchicore,Dublin 8,q4,90%
+09/01/2019,"41 Ring St, Inchicore, Dublin 8",Dublin,315000.0,No,Inchicore,Dublin 8,q4,80%
+15/01/2019,"Apartment 1, Block 1 St James Place, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+15/01/2019,"Apartment 2, Block 1 St James Place, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+15/01/2019,"Apartment 4, Block 1 St James Place, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+15/01/2019,"Apartment 5, Block 1 St James Place, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+15/01/2019,"Apartment 7, Block 1 St James Place, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+17/01/2019,"23 Tir Connell Grove, Inchicore, Dublin 8",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+18/01/2019,"22 Woodfield Terrace, Sarsfield Rd, Inchicore",Dublin,395000.0,No,Inchicore,Dublin 8,q4,100%
+18/01/2019,"51 Davis Court, Thomas Davis St, Inchicore Dublin 8",Dublin,241000.0,No,Inchicore,Dublin 8,q3,60%
+19/01/2019,"101 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,318100.0,Yes,Inchicore,Dublin 8,q4,80%
+29/01/2019,"36 Goldenbridge Avenue, Inchicore, Dublin 8",Dublin,330000.0,No,Inchicore,Dublin 8,q4,90%
+31/01/2019,"11 B Metropolitan Apts, Inchicore Rd, Dublin 8",Dublin,320000.0,No,Inchicore,Dublin 8,q4,80%
+01/02/2019,"18 First Ave The Ranch, Inchicore, Dublin 10",Dublin,294500.0,No,Inchicore,Dublin 8,q3,80%
+01/02/2019,"450 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,375000.0,No,Inchicore,Dublin 8,q4,90%
+07/02/2019,"66 Goldenbridge Ave, Inchicore, Dublin 8",Dublin,315000.0,No,Inchicore,Dublin 8,q4,80%
+13/02/2019,"1 Phoenix St, Inchicore, Dublin 10",Dublin,242000.0,No,Inchicore,Dublin 8,q3,60%
+20/02/2019,"71 Connolly Ave, Inchicore, Dublin 8",Dublin,300000.0,No,Inchicore,Dublin 8,q4,80%
+25/02/2019,"11 Rosedale House, Tyrconnell St, Inchicore Dublin 8",Dublin,190000.0,No,Inchicore,Dublin 8,q2,40%
+25/02/2019,"13 Rosedale House, Tyrconnell St, Inchicore Dublin 8",Dublin,185000.0,No,Inchicore,Dublin 8,q2,40%
+25/02/2019,"195 Emmet Rd, Inchicore, Dublin 8",Dublin,145590.0,No,Inchicore,Dublin 8,q1,30%
+26/02/2019,"11 Berrys Close, Spa Rd, Inchicore Dublin 8",Dublin,235000.0,No,Inchicore,Dublin 8,q3,60%
+27/02/2019,"Apt.145  - Block F, The Tramyard, Inchicore",Dublin,290000.0,No,Inchicore,Dublin 8,q3,80%
+28/02/2019,"Apt 1-5, 117 Tyrconnell Road, Inchicore",Dublin,438000.0,No,Inchicore,Dublin 8,q4,100%
+06/03/2019,"45 Stephens Road, Inchicore, Dublin 8",Dublin,400000.0,No,Inchicore,Dublin 8,q4,100%
+07/03/2019,"31 Inchicore Rd, Dublin 8, Dublin",Dublin,385000.0,No,Inchicore,Dublin 8,q4,100%
+08/03/2019,"45 Anner Rd, Inchicore, Dublin 8",Dublin,398000.0,No,Inchicore,Dublin 8,q4,100%
+09/03/2019,"132 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,370000.0,No,Inchicore,Dublin 8,q4,90%
+15/03/2019,"131 Tyrconnell Park, Inchicore, Dublin 8",Dublin,270000.0,No,Inchicore,Dublin 8,q3,70%
+26/03/2019,"Apt 2 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,180000.0,No,Inchicore,Dublin 8,q2,40%
+29/03/2019,"49 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,207500.0,No,Inchicore,Dublin 8,q2,50%
+02/04/2019,"71 Ring St, Inchicore, Dublin 8",Dublin,280000.0,No,Inchicore,Dublin 8,q3,80%
+12/04/2019,"54 Connolly Ave, Inchicore, Dublin 8",Dublin,475000.0,No,Inchicore,Dublin 8,q4,100%
+12/04/2019,"96 Tyrconnell Rd, Inchicore, Dublin 8",Dublin,467000.0,No,Inchicore,Dublin 8,q4,100%
+16/04/2019,"49 Davis Court, Thomas St, Inchicore Dublin 8",Dublin,207500.0,No,Inchicore,Dublin 8,q2,50%
+17/04/2019,"63 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,70%
+17/04/2019,"75 Ring St, Inchicore, Dublin 8",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+24/04/2019,"148 Tyrconnell Park, Inchicore, Dublin 8",Dublin,299000.0,No,Inchicore,Dublin 8,q3,80%
+24/04/2019,"26 Goldenbridge Ave, Inchicore, Dublin 8",Dublin,337000.0,No,Inchicore,Dublin 8,q4,90%
+24/04/2019,"5 Abercorn Terrace, Inchicore, Dublin 8",Dublin,430000.0,No,Inchicore,Dublin 8,q4,100%
+07/05/2019,"2 Berrys Close Spa Rd, Inchicore Dublin 8, Dublin",Dublin,235000.0,No,Inchicore,Dublin 8,q3,60%
+07/05/2019,"248 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,375000.0,No,Inchicore,Dublin 8,q4,90%
+08/05/2019,"48 Kickham Rd, Inchicore, Dublin 8",Dublin,387500.0,No,Inchicore,Dublin 8,q4,100%
+09/05/2019,"162 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,270000.0,No,Inchicore,Dublin 8,q3,70%
+13/05/2019,"1 Oblate Dr, Inchicore, Dublin 8",Dublin,252000.0,No,Inchicore,Dublin 8,q3,70%
+16/05/2019,"9 West Terrace, Inchicore, Dublin 8",Dublin,325000.0,No,Inchicore,Dublin 8,q4,90%
+20/05/2019,"20 Thomas Davis St, Inchicore, Dublin",Dublin,300000.0,No,Inchicore,Dublin 8,q4,80%
+21/05/2019,"10 Nash St, Inchicore, Dublin 8",Dublin,292000.0,No,Inchicore,Dublin 8,q3,80%
+21/05/2019,"18 Suir Rd, Inchicore, Dublin 8",Dublin,315000.0,No,Inchicore,Dublin 8,q4,80%
+24/05/2019,"5 Railway Ave, Inchicore, Dublin 8",Dublin,267000.0,No,Inchicore,Dublin 8,q3,70%
+29/05/2019,"50 Berrys Close Spa Rd, Inchicore Dublin 8, Dublin",Dublin,255000.0,No,Inchicore,Dublin 8,q3,70%
+31/05/2019,"6 Anner Road, Inchicore, Dublin 8",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+06/06/2019,"5 O Doughue St, Inchicore, Dublin 8",Dublin,280000.0,No,Inchicore,Dublin 8,q3,80%
+07/06/2019,"12 Davis Court, Inchicore, Dublin 8",Dublin,220000.0,No,Inchicore,Dublin 8,q2,50%
+07/06/2019,"131 Tramyard, Inchicore, Dublin 8",Dublin,285000.0,No,Inchicore,Dublin 8,q3,80%
+11/06/2019,"19 Tir Connell Grove, Inchicore, Dublin 8",Dublin,260000.0,No,Inchicore,Dublin 8,q3,70%
+14/06/2019,"18 Odonoghue St, Inchicore, Dublin 8",Dublin,175000.0,No,Inchicore,Dublin 8,q2,40%
+14/06/2019,"19 Tyreconnel, Inchicore, Dublin",Dublin,345000.0,No,Inchicore,Dublin 8,q4,90%
+14/06/2019,"5 Tyrconnell Place, Tyrconnell Rd, Inchicore Dublin 8",Dublin,300000.0,No,Inchicore,Dublin 8,q4,80%
+17/06/2019,"104 Tyrconnell Road, Inchicore, Dublin 8",Dublin,225000.0,No,Inchicore,Dublin 8,q3,60%
+17/06/2019,"157 Emmet Rd, Inchicore, Dublin 8",Dublin,400000.0,No,Inchicore,Dublin 8,q4,100%
+19/06/2019,"111 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,70%
+20/06/2019,"12 Oblate View, Tyrconnell Rd, Inchicore Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+20/06/2019,"448 Kilmainham Sq, Inchicore Rd, Dublin 8",Dublin,400000.0,No,Inchicore,Dublin 8,q4,100%
+03/07/2019,"56 Ring St, Inchicore, Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+04/07/2019,"110 The Tramyard, Inchicore, Dublin 8",Dublin,210000.0,No,Inchicore,Dublin 8,q2,50%
+11/07/2019,"40 Connolly Avenue, Inchicore, Dublin 8",Dublin,325000.0,No,Inchicore,Dublin 8,q4,90%
+25/07/2019,"42 Ring St, Inchicore, Dublin",Dublin,240000.0,No,Inchicore,Dublin 8,q3,60%
+29/07/2019,"23 Phoenix Street, Inchicore, Dublin 8",Dublin,230000.0,No,Inchicore,Dublin 8,q3,60%
+01/08/2019,"223 Tyrconnell Rd, Inchicore, Dublin 8",Dublin,307000.0,No,Inchicore,Dublin 8,q4,80%
+02/08/2019,"15A Emmet House, Emmet Court, Inchicore",Dublin,140000.0,No,Inchicore,Dublin 8,q1,20%
+02/08/2019,"Apt 307, Kilmainham Sq, Inchicore Rd Dublin 8",Dublin,335000.0,No,Inchicore,Dublin 8,q4,90%
+08/08/2019,"50 Nash St, Inchicore, Dublin 8",Dublin,235000.0,No,Inchicore,Dublin 8,q3,60%
+09/08/2019,"16 The Metropolitan, Inchicore, Dublin 8",Dublin,275000.0,No,Inchicore,Dublin 8,q3,70%
+09/08/2019,"88 Tyrconnell Park, Inchicore, Dublin 8",Dublin,350000.0,No,Inchicore,Dublin 8,q4,90%
+19/08/2019,"41 Rosedale, Tyrconnell St, Inchicore Dublin 8",Dublin,265000.0,No,Inchicore,Dublin 8,q3,70%
+23/08/2019,"214 The Old Chocolate Factory, Kilmainham Sq, Inchicore Rd Dublin 8",Dublin,175000.0,No,Inchicore,Dublin 8,q2,40%
+28/08/2019,"Apt 1, 89 Tyrconnell Rd, Inchicore",Dublin,265000.0,No,Inchicore,Dublin 8,q3,70%
+30/08/2019,"80 Tyrconnell Park, Inchicore, Dublin 8",Dublin,460000.0,No,Inchicore,Dublin 8,q4,100%
+03/09/2019,"121 The Tramyard, Spa Rd, Inchicore Dublin 8",Dublin,250000.0,No,Inchicore,Dublin 8,q3,70%
+03/09/2019,"45 Railway Avenue, Inchicore, Dublin 8",Dublin,200000.0,No,Inchicore,Dublin 8,q2,50%
+05/09/2019,"16 Oblate View, Tyrconnell Road, Inchicore",Dublin,240000.0,No,Inchicore,Dublin 8,q3,60%
+05/09/2019,"67 Tyrconnell Rd, Inchicore, Dublin 8",Dublin,523635.0,No,Inchicore,Dublin 8,q4,100%
+06/09/2019,"10 Goldenbridge Gardens, Inchicore, Dublin 8",Dublin,420000.0,No,Inchicore,Dublin 8,q4,100%
+12/09/2019,"Apt 22 B, Metropolitan Apts, Inchicore Rd",Dublin,285000.0,No,Inchicore,Dublin 8,q3,80%
+19/09/2019,"10 Connolly Gardens, Inchicore, Dublin 8",Dublin,475000.0,No,Inchicore,Dublin 8,q4,100%
+25/09/2019,"60 Connolly Ave, Inchicore, Dublin 8",Dublin,350000.0,No,Inchicore,Dublin 8,q4,90%
+25/09/2019,"98 Emmet Rd, Inchicore, Dublin 8",Dublin,615000.0,No,Inchicore,Dublin 8,q4,100%
+02/10/2019,"28 Abercorn Sq, Inchicore, Dublin 8",Dublin,350000.0,No,Inchicore,Dublin 8,q4,90%
+03/10/2019,"231 Tyrconnell Rd, Inchicore, Dublin 8",Dublin,400000.0,No,Inchicore,Dublin 8,q4,100%
+09/10/2019,"13 East Sq, Inchicore, Dublin 8",Dublin,631000.0,No,Inchicore,Dublin 8,q4,100%
+16/10/2019,"26 Connolly Gardens, Inchicore, Dublin 8",Dublin,347000.0,No,Inchicore,Dublin 8,q4,90%
+24/10/2019,"36 Railway Ave, Inchicore, Dublin 8",Dublin,279000.0,No,Inchicore,Dublin 8,q3,70%

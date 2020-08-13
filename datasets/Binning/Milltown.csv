@@ -1,0 +1,572 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+18/01/2010,"9 The Odl Schoolhouse, Mount Saint Annes, Milltown",Dublin,310000.0,No,Milltown,Dublin 6,q1,30%
+11/02/2010,"213 Richmond Court, Milltown Road, Dublin 6",Dublin,17780.0,Yes,Milltown,Dublin 6,q1,10%
+17/02/2010,"10 Ramleh Park, Milltown",Dublin,575000.0,No,Milltown,Dublin 6,q4,90%
+24/02/2010,"14, Patrick Doyle Road, Milltown",Dublin,320000.0,No,Milltown,Dublin 6,q1,30%
+02/03/2010,"64 Glenmalure Square, Milltown, Dublin 6",Dublin,300000.0,No,Milltown,Dublin 6,q1,20%
+16/03/2010,"12 Merton Walk, Mount St. Annes, Milltown",Dublin,731000.0,No,Milltown,Dublin 6,q4,100%
+25/03/2010,"13 Merton Crescent, Mount Saint Annes, Milltown",Dublin,925000.0,No,Milltown,Dublin 6,q4,100%
+04/05/2010,"29 Milltown Avenue, Mount St. Anne'S, Milltown",Dublin,731000.0,No,Milltown,Dublin 6,q4,100%
+07/05/2010,"6 The Pines, Grove House, Milltown Road",Dublin,440000.0,No,Milltown,Dublin 6,q3,60%
+11/05/2010,"7 Farrenboley Cottages, Milltown, Dublin 14",Dublin,200000.0,No,Milltown,Dublin 6,q1,10%
+14/05/2010,"25 Churchfields, Milltown",Dublin,567000.0,No,Milltown,Dublin 6,q4,90%
+24/05/2010,"57 Patrick Doyle Road, Milltown, Dublin 14",Dublin,297500.0,No,Milltown,Dublin 6,q1,20%
+02/06/2010,"Apt 7 Rowan Hall, Millbrook Court, Milltown",Dublin,300000.0,No,Milltown,Dublin 6,q1,20%
+08/06/2010,"Apartment 15  Abbeyfield, Milltown Road, Barony Of Uppercross",Dublin,392500.0,No,Milltown,Dublin 6,q2,50%
+11/06/2010,"110 St Columbanus Road, Milltown, Dublin 14.",Dublin,270000.0,No,Milltown,Dublin 6,q1,10%
+25/06/2010,"43 Temple Hall, Mount St. Annes, Milltown",Dublin,317180.61,Yes,Milltown,Dublin 6,q1,30%
+27/06/2010,"30 Rowan Hall, Millbrook Court, Milltown Road",Dublin,310000.0,No,Milltown,Dublin 6,q1,30%
+06/07/2010,"Apt. 5 Shanagarry, Milltown",Dublin,170000.0,No,Milltown,Dublin 6,q1,10%
+09/07/2010,"Apartment 9  First Floor, Block No 1  Shanagarry, Milltown",Dublin,275000.0,No,Milltown,Dublin 6,q1,10%
+22/07/2010,"82 Abbeyfield, Milltown, Dublin 6",Dublin,380000.0,No,Milltown,Dublin 6,q2,40%
+23/07/2010,"75 Ramleh Park, Milltown",Dublin,975000.0,No,Milltown,Dublin 6,q4,100%
+28/07/2010,"19 Merton Walk, Mount St. Anne'S, Milltown",Dublin,476000.0,No,Milltown,Dublin 6,q3,70%
+04/08/2010,"103 St. Columbanus Road, Milltown, Dublin 14",Dublin,265000.0,No,Milltown,Dublin 6,q1,10%
+12/08/2010,"6 St Columbanus Road, Milltown, Dublin 14",Dublin,316000.0,No,Milltown,Dublin 6,q1,30%
+13/08/2010,"50 Milltown Avenue, Mount St Anne'S, Milltown",Dublin,497500.0,No,Milltown,Dublin 6,q3,70%
+26/08/2010,"43 Patrick Doyle Road, Milltown",Dublin,332000.0,No,Milltown,Dublin 6,q2,30%
+27/08/2010,"7  The Pines, Grove House, Milltown",Dublin,490000.0,No,Milltown,Dublin 6,q3,70%
+01/09/2010,"Elm Lodge, Milltown Avenue, Mount Saint Annes  Milltown",Dublin,511013.21,Yes,Milltown,Dublin 6,q3,80%
+02/09/2010,"Apartment 12 Convent Hall, Milltown, Mount Saint Annes",Dublin,540000.0,No,Milltown,Dublin 6,q4,80%
+08/10/2010,"1 Ramleh Park, Milltown, Dublin 6",Dublin,501000.0,No,Milltown,Dublin 6,q3,80%
+04/11/2010,"Elm House, 17 Milltown Road, Milltown",Dublin,1000000.0,No,Milltown,Dublin 6,q4,100%
+08/11/2010,"5 Milltown Court, Milltown Road",Dublin,377500.0,No,Milltown,Dublin 6,q2,40%
+30/11/2010,"Apartment No. 4  Block A, Milltown Hill, Milltown Road",Dublin,150000.0,No,Milltown,Dublin 6,q1,10%
+13/12/2010,"86 Ramleh Park, Milltown, Dublin 6",Dublin,485000.0,No,Milltown,Dublin 6,q3,70%
+21/12/2010,"56 Churchfields, Milltown, Dublin 14",Dublin,450000.0,No,Milltown,Dublin 6,q3,60%
+18/02/2011,"5 Millbrook Village, Millbrook Court, Milltown",Dublin,262500.0,No,Milltown,Dublin 6,q1,10%
+10/03/2011,"43 Ramleh Hall, Mount St. Anne'S, Milltown",Dublin,392500.0,No,Milltown,Dublin 6,q2,50%
+18/03/2011,"60 Abbeyfield, Milltown Road",Dublin,232000.0,No,Milltown,Dublin 6,q1,10%
+17/05/2011,"89 Shanagarry, Milltown",Dublin,290000.0,No,Milltown,Dublin 6,q1,20%
+17/05/2011,"Apartment 34, Abbeyfield, Milltown Road",Dublin,380000.0,No,Milltown,Dublin 6,q2,40%
+31/05/2011,"34 Mount Sandford, Milltown",Dublin,33972.0,No,Milltown,Dublin 6,q1,10%
+16/06/2011,"70 Ramleh Park, Milltown",Dublin,833000.0,No,Milltown,Dublin 6,q4,100%
+17/06/2011,"Apartment 11, Mount Sandford, Milltown Road",Dublin,325000.0,No,Milltown,Dublin 6,q1,30%
+22/07/2011,"Apartment 22  2Nd Floor  Block E, Milltown Hall, Mount Saint Annes",Dublin,212500.0,No,Milltown,Dublin 6,q1,10%
+29/07/2011,"25 Patrick Doyle Road, Milltown",Dublin,206750.0,No,Milltown,Dublin 6,q1,10%
+24/08/2011,"14 Ramleh Villas, Milltown",Dublin,560000.0,No,Milltown,Dublin 6,q4,80%
+16/09/2011,"Apt 99 Abbeyfield, Milltown, Dublin 6",Dublin,341000.0,No,Milltown,Dublin 6,q2,30%
+19/09/2011,"22 Merton Walk, Mount St Annes, Milltown",Dublin,302500.0,No,Milltown,Dublin 6,q1,20%
+22/09/2011,"7 Mount Sandford, Milltown Road, Dublin",Dublin,280000.0,No,Milltown,Dublin 6,q1,20%
+23/09/2011,"80 Ramleh Park, Milltown, Dublin 6",Dublin,665000.0,No,Milltown,Dublin 6,q4,90%
+14/10/2011,"6 Temple Hall, Mount St. Annes, Milltown",Dublin,294100.0,Yes,Milltown,Dublin 6,q1,20%
+28/10/2011,"7 Woodhaven, Milltown Bridge Road",Dublin,400000.0,No,Milltown,Dublin 6,q2,50%
+22/11/2011,"6 The Courtyard, Milltown Avenue, Mount Saint Annes",Dublin,270000.0,No,Milltown,Dublin 6,q1,10%
+01/12/2011,"1 The Elms, Grove House, Milltown Road",Dublin,355000.0,No,Milltown,Dublin 6,q2,40%
+19/12/2011,"6, Millbrook Village, Milltown",Dublin,230000.0,No,Milltown,Dublin 6,q1,10%
+16/01/2012,"86 Shanagarry, Milltown",Dublin,270000.0,No,Milltown,Dublin 6,q1,10%
+23/01/2012,"1 The Cedars, Grove House, Milltown",Dublin,330000.0,No,Milltown,Dublin 6,q2,30%
+23/01/2012,"11 Merton Hall, Mount Saint Anne'S, Milltown",Dublin,165500.0,No,Milltown,Dublin 6,q1,10%
+31/01/2012,"26 Milltown Grove, Milltown, Dublin 6",Dublin,293000.0,No,Milltown,Dublin 6,q1,20%
+01/02/2012,"4 Geraldine Terrace, Milltown",Dublin,271500.0,No,Milltown,Dublin 6,q1,10%
+09/03/2012,"9 Abbeyfield, Milltown Road",Dublin,210000.0,No,Milltown,Dublin 6,q1,10%
+27/04/2012,"65 Abbeyfield, Milltown",Dublin,257500.0,No,Milltown,Dublin 6,q1,10%
+10/05/2012,"22 Mount Sandford, Milltown",Dublin,290000.0,No,Milltown,Dublin 6,q1,20%
+01/06/2012,"120 Saint Columbanus Road, Milltown, Dublin 14",Dublin,225000.0,No,Milltown,Dublin 6,q1,10%
+29/06/2012,"19 Ramleh Villas, Milltown, Dublin 6",Dublin,550000.0,No,Milltown,Dublin 6,q4,80%
+03/07/2012,"66 Ramleh Park, Milltown, Dublin 6",Dublin,410000.0,No,Milltown,Dublin 6,q2,50%
+04/07/2012,"7 Patrick Doyle Road, Milltown, Dublin 14",Dublin,164000.0,No,Milltown,Dublin 6,q1,10%
+09/07/2012,"98  Abbeyfield, Milltown",Dublin,275000.0,No,Milltown,Dublin 6,q1,10%
+11/07/2012,"72 Shanagarry, Milltown, Dublin",Dublin,172000.0,No,Milltown,Dublin 6,q1,10%
+13/07/2012,"30 Milltown Avenue, Mount St. Annes, Milltown",Dublin,645000.0,No,Milltown,Dublin 6,q4,90%
+20/07/2012,"Apartment 3, Woodhaven, Milltown Bridge Road",Dublin,335000.0,No,Milltown,Dublin 6,q2,30%
+30/08/2012,"Apartment 62 Abbeyfield, Milltown",Dublin,307000.0,No,Milltown,Dublin 6,q1,20%
+31/08/2012,"2  Temple Hall, Mount Saint Anne'S, Milltown",Dublin,281938.0,Yes,Milltown,Dublin 6,q1,20%
+10/09/2012,"4 Millbrook Village, Milltown",Dublin,230000.0,No,Milltown,Dublin 6,q1,10%
+17/09/2012,"63 Merton Hall, Mount St Annes, Milltown",Dublin,330000.0,No,Milltown,Dublin 6,q2,30%
+21/09/2012,"Apartment 2  Block 1, Woodhaven, Milltown Bridge Road",Dublin,280000.0,No,Milltown,Dublin 6,q1,20%
+28/09/2012,"4 The Elms, Grove House, Milltown",Dublin,370000.0,No,Milltown,Dublin 6,q2,40%
+03/10/2012,"3 Millmount Terrace, Milltown",Dublin,310000.0,No,Milltown,Dublin 6,q1,30%
+25/10/2012,"23 Milltown Avenue, Mount St. Annes, Milltown",Dublin,425000.0,No,Milltown,Dublin 6,q3,60%
+07/11/2012,"177 St. Columbanus Road, Milltown",Dublin,327000.0,No,Milltown,Dublin 6,q2,30%
+16/11/2012,"54 Abbeyfield, Milltown",Dublin,325000.0,No,Milltown,Dublin 6,q1,30%
+27/11/2012,"15 Farranboley Cottages, Milltown",Dublin,180000.0,No,Milltown,Dublin 6,q1,10%
+04/12/2012,"14 Millmount Terrace, Milltown, Dublin 14",Dublin,220000.0,No,Milltown,Dublin 6,q1,10%
+11/12/2012,"30 Milltown Avenue, Mount Saint Anne'S, Milltown",Dublin,557000.0,No,Milltown,Dublin 6,q4,80%
+11/12/2012,"72 Churchfields, Milltown",Dublin,500000.0,No,Milltown,Dublin 6,q3,80%
+19/12/2012,"33 Patrick Doyle Road, Milltown, Dublin 14",Dublin,212000.0,No,Milltown,Dublin 6,q1,10%
+20/12/2012,"3A Bankside Cottages, Milltown",Dublin,300000.0,No,Milltown,Dublin 6,q1,20%
+21/12/2012,"12 St. Luke'S Crescent, Milltown",Dublin,300000.0,No,Milltown,Dublin 6,q1,20%
+11/01/2013,"37 Cowper Hall, Mount St. Annes, Milltown",Dublin,281938.0,Yes,Milltown,Dublin 6,q1,20%
+21/01/2013,"27 Ramleh Hall, Mount St. Annes, Milltown",Dublin,295000.0,No,Milltown,Dublin 6,q1,20%
+25/01/2013,"19 Farrenboley Park, Milltown",Dublin,200000.0,No,Milltown,Dublin 6,q1,10%
+30/01/2013,"Part Of Lands At 145A Milltown Road, Milltown",Dublin,226949.0,No,Milltown,Dublin 6,q1,10%
+30/01/2013,"Part Of Lands At145A Milltown Road, Milltown",Dublin,218396.0,No,Milltown,Dublin 6,q1,10%
+08/02/2013,"71 Ramleh Park, Milltown, Dublin 6",Dublin,650000.0,No,Milltown,Dublin 6,q4,90%
+12/02/2013,"41 Cowper Hall, Mount St Annes, Milltown",Dublin,340000.0,No,Milltown,Dublin 6,q2,30%
+13/03/2013,"38 Abbeyfield, Milltown Road, Milltown",Dublin,320000.0,No,Milltown,Dublin 6,q1,30%
+14/03/2013,"43 Convent Hall, Mount St Anne'S, Milltown",Dublin,221500.0,No,Milltown,Dublin 6,q1,10%
+22/03/2013,"Apartment 33, Milltown Grove, Milltown",Dublin,300000.0,No,Milltown,Dublin 6,q1,20%
+16/04/2013,"Apartment No. 46, Convent Hall  Block C, Mount St. Annes  Milltown",Dublin,495000.0,No,Milltown,Dublin 6,q3,70%
+30/04/2013,"6 Park Hall, Mount Saint Annes, Milltown",Dublin,194000.0,No,Milltown,Dublin 6,q1,10%
+07/05/2013,"5 St Columbanus Road, Milltown, Dublin",Dublin,249950.0,No,Milltown,Dublin 6,q1,10%
+10/05/2013,"102 Saint Colombanus Road, Milltown",Dublin,288000.0,No,Milltown,Dublin 6,q1,20%
+21/05/2013,"47 Ramleh Park, Milltown, Dublin 6",Dublin,582500.0,No,Milltown,Dublin 6,q4,90%
+30/05/2013,"7 Convent Hall, Mount St Annes, Milltown",Dublin,275000.0,No,Milltown,Dublin 6,q1,10%
+30/05/2013,"Apt 64 Merton Hall, Mount Saint Annes, Milltown",Dublin,230000.0,No,Milltown,Dublin 6,q1,10%
+06/06/2013,"4 Patrick Doyle Road, Milltown",Dublin,230000.0,No,Milltown,Dublin 6,q1,10%
+14/06/2013,"Apt. 4 Dodderbank, Milltown Bridge, Milltown",Dublin,385000.0,No,Milltown,Dublin 6,q2,40%
+19/06/2013,"Apt 15 Merton Hall, Mount Saint Anne'S, Milltown",Dublin,315000.0,No,Milltown,Dublin 6,q1,30%
+24/06/2013,"4 Mount Sandford, Milltown",Dublin,300500.0,No,Milltown,Dublin 6,q1,20%
+28/06/2013,"1 Glenmalure Square, Milltown, Dublin 6",Dublin,875000.0,No,Milltown,Dublin 6,q4,100%
+18/07/2013,"Apartment 33 Rowan Hall, Millbrook Court, Milltown",Dublin,281137.0,No,Milltown,Dublin 6,q1,20%
+19/07/2013,"94 Ramleh Park, Milltown",Dublin,523000.0,No,Milltown,Dublin 6,q3,80%
+08/08/2013,"19  Merton Walk, Mount St. Annes, Milltown",Dublin,542000.0,No,Milltown,Dublin 6,q4,80%
+30/08/2013,"22 Merton Crescent, Mount Saint Annes, Milltown",Dublin,526000.0,No,Milltown,Dublin 6,q4,80%
+05/09/2013,"Apt No 24 Cowper Hall, Mount St Anne'S, Milltown",Dublin,288986.0,Yes,Milltown,Dublin 6,q1,20%
+13/09/2013,"3 Crannagh, Prospect Lane, Milltown",Dublin,338000.0,No,Milltown,Dublin 6,q2,30%
+23/09/2013,"1 Milltown Court, Milltown",Dublin,415000.0,No,Milltown,Dublin 6,q2,50%
+07/10/2013,"28 Patrick Doyle Road, Milltown, Dublin 6",Dublin,222000.0,No,Milltown,Dublin 6,q1,10%
+22/10/2013,"96 Abbeyfield, Milltown, Dublin",Dublin,262500.0,No,Milltown,Dublin 6,q1,10%
+25/10/2013,"1 Milltown Avenue, Mount St Annes, Milltown",Dublin,527000.0,No,Milltown,Dublin 6,q4,80%
+29/10/2013,"48 Convent Hall, Mt St Annes, Milltown",Dublin,340000.0,No,Milltown,Dublin 6,q2,30%
+31/10/2013,"42 Shanagarry, Milltown, Dublin 6",Dublin,305000.0,No,Milltown,Dublin 6,q1,20%
+06/11/2013,"64 Milltown Hall, Milltown, Dublin 6",Dublin,218121.0,No,Milltown,Dublin 6,q1,10%
+08/11/2013,"5 Milltown Hall, Mount Saint Anne'S, Milltown",Dublin,260000.0,No,Milltown,Dublin 6,q1,10%
+02/12/2013,"5 Merton Crescent, Mount St Annes, Milltown Dublin 6",Dublin,845000.0,No,Milltown,Dublin 6,q4,100%
+12/12/2013,"16 Ramleh Park, Milltown, Dublin 6",Dublin,617500.0,No,Milltown,Dublin 6,q4,90%
+13/12/2013,"12 Ramleh Park, Milltown, Dublin 6",Dublin,585000.0,No,Milltown,Dublin 6,q4,90%
+19/12/2013,"16 Millbrook Village, Milltown, Dublin 6",Dublin,385000.0,No,Milltown,Dublin 6,q2,40%
+09/01/2014,"1 Merton Walk, Mount St Annes, Milltown",Dublin,780000.0,No,Milltown,Dublin 6,q4,100%
+23/01/2014,"6 The Orchard, Grove House, Milltown",Dublin,395000.0,No,Milltown,Dublin 6,q2,50%
+04/02/2014,"24 Mount Sandford, Milltown, Sandford",Dublin,295000.0,No,Milltown,Dublin 6,q1,20%
+14/02/2014,"8 Merton Walk, Mount St. Annes, Milltown",Dublin,675000.0,No,Milltown,Dublin 6,q4,90%
+28/03/2014,"31 Milltown Hall, Ground Floor, Mount St. Annes",Dublin,415000.0,No,Milltown,Dublin 6,q2,50%
+02/04/2014,"2 Geraldine Terrace, Milltown Road, Dublin 6",Dublin,350000.0,No,Milltown,Dublin 6,q2,40%
+14/04/2014,"101 St Columbanus Rd, Milltown, Dublin 14",Dublin,153000.0,No,Milltown,Dublin 6,q1,10%
+29/04/2014,"40 Milltown Ave, Mount St Annes, Milltown",Dublin,587000.0,No,Milltown,Dublin 6,q4,90%
+09/05/2014,"50 St Columbanus Ave, Milltown, Dublin 14",Dublin,322000.0,No,Milltown,Dublin 6,q1,30%
+12/05/2014,"67 Glenmalure Square, Milltown, Dublin 6",Dublin,340000.0,No,Milltown,Dublin 6,q2,30%
+16/05/2014,"16 Merton Hall, Rd Floor, Milltown Hall Dublin 6",Dublin,368000.0,No,Milltown,Dublin 6,q2,40%
+28/05/2014,"19 Woodhaven, Milltown Bridge Road, Milltown",Dublin,375000.0,No,Milltown,Dublin 6,q2,40%
+11/06/2014,"9 St Galls Gardens North, Milltown, Dublin 14",Dublin,322500.0,No,Milltown,Dublin 6,q1,30%
+18/06/2014,"20 Cedar Hall, Millbrook Court, Milltown Dublin 6",Dublin,280000.0,No,Milltown,Dublin 6,q1,20%
+18/06/2014,"50 Milbrook Village, Milltown, Dublin 2",Dublin,357000.0,No,Milltown,Dublin 6,q2,40%
+23/06/2014,"42 Milltown Grove, Milltown, Dublin 6",Dublin,320000.0,No,Milltown,Dublin 6,q1,30%
+24/06/2014,"38 Cowper Hall, Mount St. Annes, Milltown Avenue",Dublin,425000.0,No,Milltown,Dublin 6,q3,60%
+25/06/2014,"57 Milltown Hall, Mount Saint Annes, Milltown",Dublin,470000.0,No,Milltown,Dublin 6,q3,70%
+21/07/2014,"77 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,550000.0,No,Milltown,Dublin 6,q4,80%
+23/07/2014,"6 Merton Hall, St Anne'S  Milltown",Dublin,340000.0,No,Milltown,Dublin 6,q2,30%
+24/07/2014,"32 Ramleh, Mount St Annes, Milltown",Dublin,445000.0,No,Milltown,Dublin 6,q3,60%
+01/08/2014,"45 Millbrook Village, Milltown, Dublin 6",Dublin,375000.0,No,Milltown,Dublin 6,q2,40%
+15/08/2014,"6 Millbrook Village, Milltown, Dunlin6 Dublin 6",Dublin,356000.0,No,Milltown,Dublin 6,q2,40%
+22/08/2014,"8 The Courtyard, Milltown Ave, Mt St Annes Dublin 6",Dublin,480000.0,No,Milltown,Dublin 6,q3,70%
+25/08/2014,"27 Milltown Ave, Mount St Annes, Milltown Dublin 6",Dublin,605000.0,No,Milltown,Dublin 6,q4,90%
+12/09/2014,"7 Rowan Hall, Millbrook Court, Milltown Dublin 6",Dublin,390000.0,No,Milltown,Dublin 6,q2,40%
+16/09/2014,"37 Shanagarry, Milltown, Dublin 6",Dublin,300000.0,No,Milltown,Dublin 6,q1,20%
+19/09/2014,"59 Merton Walk, Mount Saint Annes, Milltown",Dublin,475000.0,No,Milltown,Dublin 6,q3,70%
+29/09/2014,"9 Merton Walk, Mount Saint Anne'S, Milltown",Dublin,825000.0,No,Milltown,Dublin 6,q4,100%
+03/10/2014,"50 Milltown Ave, Mount St Annes, Milltown Dublin 6",Dublin,650000.0,No,Milltown,Dublin 6,q4,90%
+03/10/2014,"Dodder Ground, Milltown Bridge Rd, Milltown Dublin 14",Dublin,4000000.0,No,Milltown,Dublin 6,q4,100%
+09/10/2014,"31 Shanagarry, Milltown, Dublin 6",Dublin,310000.0,No,Milltown,Dublin 6,q1,30%
+15/10/2014,"77 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,310000.0,No,Milltown,Dublin 6,q1,30%
+17/10/2014,"12A Cedar Hall, Millbrook Village, Milltown Rd Dublin 6",Dublin,190000.0,No,Milltown,Dublin 6,q1,10%
+17/10/2014,"16 Merton Crescent, Mount St Annes, Milltown Dublin 6",Dublin,1215000.0,No,Milltown,Dublin 6,q4,100%
+17/10/2014,"Apt. 81  Shanagarry, Milltown Road",Dublin,348000.0,No,Milltown,Dublin 6,q2,40%
+30/10/2014,"14 Convent Hall, Mount St Annes, Milltown Dublin 6",Dublin,306000.0,No,Milltown,Dublin 6,q1,20%
+01/11/2014,"155 St Columbanus Rd, Milltown, Dublin 14",Dublin,490000.0,No,Milltown,Dublin 6,q3,70%
+12/11/2014,"25 Mount Sandford, Milltown Rd, Milltown",Dublin,355000.0,No,Milltown,Dublin 6,q2,40%
+12/11/2014,"30 Temple Hall, Mount St Annes, Milltown",Dublin,321500.0,No,Milltown,Dublin 6,q1,30%
+12/11/2014,"40 Glenmalure Sq, Milltown, Dublin 6",Dublin,540000.0,No,Milltown,Dublin 6,q4,80%
+12/11/2014,"66 Milltown Ave, St Annes, Milltown Dublin 6",Dublin,465000.0,No,Milltown,Dublin 6,q3,70%
+27/11/2014,"7 Shanagarry, Milltown, Dublin 6",Dublin,335000.0,No,Milltown,Dublin 6,q2,30%
+28/11/2014,"2 The Oaks Grove House, Milltown Rd, Dublin 6",Dublin,287500.0,No,Milltown,Dublin 6,q1,20%
+28/11/2014,"49 Shanagarry, Milltown",Dublin,290000.0,No,Milltown,Dublin 6,q1,20%
+17/12/2014,"38 South Hill Apts 1, Milltown, Dublin 6",Dublin,1900000.0,No,Milltown,Dublin 6,q4,100%
+18/12/2014,"33 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,455000.0,No,Milltown,Dublin 6,q3,70%
+19/12/2014,"21 Convent Hall, Mount St Annes, Milltown",Dublin,455000.0,No,Milltown,Dublin 6,q3,70%
+19/12/2014,"61 Milltown Hall, Mount St Annes, Milltown Ave",Dublin,310000.0,No,Milltown,Dublin 6,q1,30%
+19/12/2014,"Apartment 36  Merton Hall, Mount St Annes, Milltown",Dublin,405000.0,No,Milltown,Dublin 6,q2,50%
+22/12/2014,"52 Ramleh Park, Milltown, Dublin 6",Dublin,800000.0,No,Milltown,Dublin 6,q4,100%
+22/12/2014,"7 Park Hall, Mount St Annes, Milltown Dublin 6",Dublin,420000.0,No,Milltown,Dublin 6,q2,50%
+07/01/2015,"102 Shanagary, Milltown, Dublin 6",Dublin,342000.0,No,Milltown,Dublin 6,q2,30%
+12/01/2015,"18 Churchfields, Milltown, Dublin 6",Dublin,515000.0,No,Milltown,Dublin 6,q3,80%
+13/01/2015,"115 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,468500.0,No,Milltown,Dublin 6,q3,70%
+21/01/2015,"48 Temple Hall, Mount St. Annes, Milltown",Dublin,535000.0,No,Milltown,Dublin 6,q4,80%
+23/01/2015,"9 Mount Sandford, Milltown Road",Dublin,317500.0,No,Milltown,Dublin 6,q1,30%
+28/01/2015,"8 The Old Schoolhouse, Rd Floor, Milltown Hall",Dublin,225000.0,No,Milltown,Dublin 6,q1,10%
+03/02/2015,"16 Abbeyfield, Milltown, Dublin 6",Dublin,335000.0,No,Milltown,Dublin 6,q2,30%
+06/02/2015,"32 Glenmalure Sq, Milltown, Dublin 6",Dublin,332000.0,No,Milltown,Dublin 6,q2,30%
+06/02/2015,"4 St Columbanus Ave, Milltown, Dublin 14",Dublin,331000.0,No,Milltown,Dublin 6,q2,30%
+06/02/2015,"54 Glenmalure Sq, Milltown Rd, Dublin 6",Dublin,345000.0,No,Milltown,Dublin 6,q2,30%
+06/02/2015,"7 Merton Hall, Mount St Annes, Milltown Rd Dublin 6",Dublin,312500.0,No,Milltown,Dublin 6,q1,30%
+16/02/2015,"29 Mount Sandford, Milltown Rd, Sandford Dublin 6",Dublin,340000.0,No,Milltown,Dublin 6,q2,30%
+19/02/2015,"39 Shanagarry, Milltown, Dublin 6",Dublin,125000.0,No,Milltown,Dublin 6,q1,10%
+20/02/2015,"26 Rowan Hall, Millbrook Court, Milltown Dublin 6",Dublin,370000.0,No,Milltown,Dublin 6,q2,40%
+20/02/2015,"79 Ramleh Park, Milltown, Dublin 6",Dublin,735000.0,No,Milltown,Dublin 6,q4,100%
+13/03/2015,"122A St Columbanus, Milltown, Dublin 14",Dublin,512000.0,No,Milltown,Dublin 6,q3,80%
+24/03/2015,"35 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,470000.0,No,Milltown,Dublin 6,q3,70%
+27/03/2015,"73 St Annes, Milltown, Dublin 6",Dublin,450000.0,No,Milltown,Dublin 6,q3,60%
+01/04/2015,"110 St Columbanus Rd, Milltown, Dublin 14",Dublin,410000.0,No,Milltown,Dublin 6,q2,50%
+30/04/2015,"11 Garrynure, Milltown",Dublin,385000.0,No,Milltown,Dublin 6,q2,40%
+30/04/2015,"19 Mount Sandford, Milltown, Sandford Dublin 6",Dublin,443000.0,No,Milltown,Dublin 6,q3,60%
+06/05/2015,"30 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,306000.0,No,Milltown,Dublin 6,q1,20%
+08/05/2015,"27 Convent Hall, Mount St Annes, Milltown Dublin 6",Dublin,497000.0,No,Milltown,Dublin 6,q3,70%
+15/05/2015,"11 Park Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,410000.0,No,Milltown,Dublin 6,q2,50%
+22/05/2015,"5 Millbrook Village, Milltown, Dublin 6",Dublin,360000.0,No,Milltown,Dublin 6,q2,40%
+25/05/2015,"3 Merton Walk, Mount Saint Annes, Milltown",Dublin,791000.0,No,Milltown,Dublin 6,q4,100%
+05/06/2015,"13 Temple Hall, Mount St Annes, Milltown",Dublin,290749.0,Yes,Milltown,Dublin 6,q1,20%
+08/06/2015,"27 Millbrook Village, Milltown, Dublin 6",Dublin,418000.0,No,Milltown,Dublin 6,q2,50%
+26/06/2015,"14 Ramleh Close, Milltown, Dublin 6",Dublin,1164000.0,No,Milltown,Dublin 6,q4,100%
+26/06/2015,"8 Convent Hall, Mount St Annes, Milltown Dublin 6",Dublin,275000.0,No,Milltown,Dublin 6,q1,20%
+29/06/2015,"1 Ramleh Close, Milltown, Dublin 6",Dublin,1350000.0,No,Milltown,Dublin 6,q4,100%
+06/07/2015,"18 Dodderbank Apts, Milltown, Dublin 14",Dublin,375000.0,No,Milltown,Dublin 6,q2,40%
+14/07/2015,"68 Milltown Avenue, Milltown, Dublin 6",Dublin,452500.0,No,Milltown,Dublin 6,q3,70%
+14/07/2015,"90 Milltown Hall, Mount St Annes, Milltown Dublin 6",Dublin,440000.0,No,Milltown,Dublin 6,q3,60%
+21/07/2015,"17 Temple Hall, Mount Saint Anne'S, Milltown",Dublin,510746.0,Yes,Milltown,Dublin 6,q3,80%
+21/07/2015,"46 Ramleh Park, Milltown",Dublin,710000.0,No,Milltown,Dublin 6,q4,90%
+23/07/2015,"102 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,450000.0,No,Milltown,Dublin 6,q3,60%
+29/07/2015,"32 Milltown Grove, Milltown, Dublin 14",Dublin,408000.0,No,Milltown,Dublin 6,q2,50%
+10/08/2015,"Apartment 114, Milltown Hall, Mount Saint Annes",Dublin,285450.0,Yes,Milltown,Dublin 6,q1,20%
+13/08/2015,"51 Millbrook Village, Millbrook Court, Milltown Road",Dublin,349000.0,No,Milltown,Dublin 6,q2,40%
+14/08/2015,"6 Temple Court, Mountst Annes, Milltown",Dublin,431718.0,Yes,Milltown,Dublin 6,q3,60%
+14/08/2015,"71 Abbeyfield, Milltown, Dublin 6",Dublin,320000.0,No,Milltown,Dublin 6,q1,30%
+18/08/2015,"20 Temple Hall, Mount Saint Annes, Milltown",Dublin,392070.0,No,Milltown,Dublin 6,q2,50%
+20/08/2015,"1 Merton Crescent, Mount St Annes, Milltown Dublin 6",Dublin,962500.0,No,Milltown,Dublin 6,q4,100%
+02/09/2015,"13 Garrynure, Milltown, Dublin 6",Dublin,425000.0,No,Milltown,Dublin 6,q3,60%
+03/09/2015,"Apartment 12, Milltown Grove, Milltown",Dublin,410000.0,No,Milltown,Dublin 6,q2,50%
+07/09/2015,"98 St Columbanus Rd, Milltown, Dublin 14",Dublin,390000.0,No,Milltown,Dublin 6,q2,40%
+09/09/2015,"36 Churchfields, Milltown, Dublin 14",Dublin,666000.0,No,Milltown,Dublin 6,q4,90%
+10/09/2015,"Unit 41 Ramleh Hall, Block D Mount St Annes, Milltown Dublin 6",Dublin,417000.0,No,Milltown,Dublin 6,q2,50%
+17/09/2015,"31 Cedar Hall, Millbrook Court, Milltown Dublin 6",Dublin,380000.0,No,Milltown,Dublin 6,q2,40%
+18/09/2015,"97 Shanagarry, Milltown, Dublin 6",Dublin,335000.0,No,Milltown,Dublin 6,q2,30%
+22/09/2015,"55 St Columbanus Rd, Milltown, Dublin 14",Dublin,384000.0,No,Milltown,Dublin 6,q2,40%
+24/09/2015,"8 Cedar Hall, Millbrook Court, Milltown Dublin 6",Dublin,365000.0,No,Milltown,Dublin 6,q2,40%
+05/10/2015,"33 Ramleh Park, Milltown",Dublin,715000.0,No,Milltown,Dublin 6,q4,90%
+09/10/2015,"1 Abbeyfield, Milltown, Dublin 6",Dublin,265000.0,No,Milltown,Dublin 6,q1,10%
+13/10/2015,"34 Milltown Grove, Milltown Bridge, Dublin 14",Dublin,395000.0,No,Milltown,Dublin 6,q2,50%
+16/10/2015,"13 Cowper Hall, Mount Saint Annes, Milltown",Dublin,700000.0,No,Milltown,Dublin 6,q4,90%
+23/10/2015,"53 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,345000.0,No,Milltown,Dublin 6,q2,30%
+12/11/2015,"82 Milltown Hall, Mount St Annes, Milltown Dublin 6",Dublin,470000.0,No,Milltown,Dublin 6,q3,70%
+26/11/2015,"54 Temple Hall, Mount St Annes, Milltown",Dublin,450000.0,No,Milltown,Dublin 6,q3,60%
+26/11/2015,"62 Milltown Hall, Mount St Annes, Milltown Dublin 6",Dublin,470000.0,No,Milltown,Dublin 6,q3,70%
+30/11/2015,"37 Temple Hall, Mount Saint Annes, Milltown",Dublin,634361.0,Yes,Milltown,Dublin 6,q4,90%
+01/12/2015,"47 Milltown Hall, Mount St Annes, Dublin 6",Dublin,307643.0,No,Milltown,Dublin 6,q1,20%
+07/12/2015,"17 Cowper Hall, Mount St Annes, Milltown Road",Dublin,387665.0,Yes,Milltown,Dublin 6,q2,40%
+08/12/2015,"Apt. 5 The Cedars, Grove House, Milltown",Dublin,575000.0,No,Milltown,Dublin 6,q4,90%
+16/12/2015,"1 Millbrook Village, Milltown, Dublin 6",Dublin,400000.0,No,Milltown,Dublin 6,q2,50%
+21/12/2015,"48 Glenmalure Sq, Milltown, Dublin 6",Dublin,345000.0,No,Milltown,Dublin 6,q2,30%
+22/12/2015,"21 Milltown Hall, Mount St Annes, Milltown Dublin 6",Dublin,465000.0,No,Milltown,Dublin 6,q3,70%
+22/12/2015,"93 Ramleh Park, Milltown, Dublin 6",Dublin,800000.0,No,Milltown,Dublin 6,q4,100%
+07/01/2016,"20 Milltown Hill, Milltown, Dublin 6",Dublin,175000.0,No,Milltown,Dublin 6,q1,10%
+07/01/2016,"30 Mount Sandford, Milltown Rd, Sandford Dublin 6",Dublin,410000.0,No,Milltown,Dublin 6,q2,50%
+08/01/2016,"83 Shanagarry Apts, Milltown, Dublin 6",Dublin,325000.0,No,Milltown,Dublin 6,q1,30%
+15/01/2016,"118 Milltown Hall, Mount St Annes, Milltown Dublin 6",Dublin,460000.0,No,Milltown,Dublin 6,q3,70%
+15/01/2016,"52 Ramleh Park, Milltown, Dublin 6",Dublin,910000.0,No,Milltown,Dublin 6,q4,100%
+22/01/2016,"23 Milltown Hall, Mount St Annes, Milltown",Dublin,450000.0,No,Milltown,Dublin 6,q3,60%
+08/02/2016,"20 Milltown Grove, Milltown Bridge, Dublin 14",Dublin,395000.0,No,Milltown,Dublin 6,q2,50%
+09/02/2016,"49 Merton Hall, Rd Floor, Milltown Hall",Dublin,325000.0,No,Milltown,Dublin 6,q2,30%
+24/02/2016,"97 Milltown Hall, Milltown Ave, Mount St Annes",Dublin,565000.0,No,Milltown,Dublin 6,q4,80%
+01/03/2016,"No 5 Richmond Close, Milltown, Dublin 14",Dublin,726872.25,Yes,Milltown,Dublin 6,q4,100%
+04/03/2016,"45 Temple Hall, Mount Saint Annes, Milltown",Dublin,320000.0,No,Milltown,Dublin 6,q1,30%
+07/03/2016,"29 Merton Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,500000.0,No,Milltown,Dublin 6,q3,80%
+07/03/2016,"85 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,410000.0,No,Milltown,Dublin 6,q2,50%
+11/03/2016,"Apartment 31  Temple Hall, Mount St. Annes, Milltown",Dublin,409691.63,Yes,Milltown,Dublin 6,q2,50%
+14/03/2016,"5 Cowper Hall, Mount Saint Annes, Milltown",Dublin,278414.0,No,Milltown,Dublin 6,q1,20%
+15/03/2016,"3 Richmond Close, Milltown, Dublin 14",Dublin,726872.24,Yes,Milltown,Dublin 6,q4,100%
+16/03/2016,"54 Ramleh Park, Milltown, Dublin 6",Dublin,780000.0,No,Milltown,Dublin 6,q4,100%
+22/03/2016,"No 4 Richmond Close, Milltown",Dublin,825000.0,Yes,Milltown,Dublin 6,q4,100%
+30/03/2016,"15 Glenmalure Sq, Milltown, Dublin 6",Dublin,310000.0,No,Milltown,Dublin 6,q1,30%
+25/04/2016,"Apt. No. 43  Cowper Hall, Mount Saint Anne'S, Milltown",Dublin,603524.0,Yes,Milltown,Dublin 6,q4,90%
+27/04/2016,"8 Merton Crescent, Mount St Anns, Milltown Dublin 6",Dublin,975000.0,No,Milltown,Dublin 6,q4,100%
+04/05/2016,"7 The Oaks, Grove House, Milltown Rd Dublin 6",Dublin,600000.0,No,Milltown,Dublin 6,q4,90%
+16/05/2016,"21 Cowper Hall, Mount Saint Annes, Milltown",Dublin,460000.0,No,Milltown,Dublin 6,q3,70%
+20/05/2016,"109 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,425000.0,No,Milltown,Dublin 6,q3,60%
+26/05/2016,"65 Milltown Hall, Milltown Ave, Mount St Annes",Dublin,470000.0,No,Milltown,Dublin 6,q3,70%
+03/06/2016,"17 Maple Hall, Mount Saint Annes, Milltown",Dublin,400881.05,Yes,Milltown,Dublin 6,q2,50%
+03/06/2016,"23 Cowper Hall, Mount Saint Annes, Milltown",Dublin,460000.0,No,Milltown,Dublin 6,q3,70%
+03/06/2016,"9 Maple Hall, Mount Saint Annes, Milltown",Dublin,402000.0,No,Milltown,Dublin 6,q2,50%
+08/06/2016,"Apt 9 Milltown Hall, Mount St Annes, Dublin 6",Dublin,627500.0,No,Milltown,Dublin 6,q4,90%
+09/06/2016,"58 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,260000.0,No,Milltown,Dublin 6,q1,10%
+10/06/2016,"77 St Columbanus Rd, Milltown, Dublin 14",Dublin,355000.0,No,Milltown,Dublin 6,q2,40%
+16/06/2016,"21 Maple Hall, Mount Saint Annes, Milltown",Dublin,445000.0,No,Milltown,Dublin 6,q3,60%
+17/06/2016,"18 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,420000.0,No,Milltown,Dublin 6,q3,60%
+17/06/2016,"49 Temple Hall, Mount Saint Annes, Milltown",Dublin,475000.0,No,Milltown,Dublin 6,q3,70%
+17/06/2016,"71 Churchfields, Milltown, Dublin 14",Dublin,740000.0,No,Milltown,Dublin 6,q4,100%
+23/06/2016,"Apt 44 Convent Hall, Mount St Annes, Milltown",Dublin,320000.0,No,Milltown,Dublin 6,q1,30%
+24/06/2016,"52 Abbeyfield, Milltown Rd, Milltown Dublin 6",Dublin,370000.0,No,Milltown,Dublin 6,q2,40%
+24/06/2016,"94 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,338000.0,No,Milltown,Dublin 6,q2,30%
+28/06/2016,"16 Maple Hall, Mount St Annes, Milltown Dublin 6",Dublin,480000.0,No,Milltown,Dublin 6,q3,70%
+28/06/2016,"8 Palmerston Grove, Milltown, Dublin 6",Dublin,890000.0,No,Milltown,Dublin 6,q4,100%
+01/07/2016,"Elm Lodge, Mount St Annes, Milltown Dublin 5",Dublin,995000.0,No,Milltown,Dublin 6,q4,100%
+05/07/2016,"108 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,505000.0,No,Milltown,Dublin 6,q3,80%
+14/07/2016,"40 Ramleh Park, Milltown, Dublin 6",Dublin,840000.0,No,Milltown,Dublin 6,q4,100%
+22/07/2016,"105 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,236000.0,No,Milltown,Dublin 6,q1,10%
+22/07/2016,"96 Shanagarry, Milltown Rd, Milltown",Dublin,235000.0,No,Milltown,Dublin 6,q1,10%
+24/07/2016,"77 Abbeyfield, Milltown, Dublin 6",Dublin,330000.0,No,Milltown,Dublin 6,q2,30%
+29/07/2016,"11 Maple Hall, Mount Saint Annes, Milltown",Dublin,396475.77,Yes,Milltown,Dublin 6,q2,50%
+02/08/2016,"7 Temple Hall, Mount Saint Annes, Milltown",Dublin,325000.0,No,Milltown,Dublin 6,q2,30%
+02/08/2016,"Apartment 22, Mount St Annes, Milltown",Dublin,455000.0,Yes,Milltown,Dublin 6,q3,70%
+05/08/2016,"161 St Columbanus Rd, Milltown, Dublin 14",Dublin,496000.0,No,Milltown,Dublin 6,q3,70%
+08/08/2016,"62 Columbanus Road, Milltown, Dublin 14",Dublin,405000.0,No,Milltown,Dublin 6,q2,50%
+12/08/2016,"50 Glenmalure Sq, Milltown Rd, Dublin",Dublin,464000.0,No,Milltown,Dublin 6,q3,70%
+19/08/2016,"57 Ramleh Park, Milltown, Dublin 6",Dublin,1165000.0,No,Milltown,Dublin 6,q4,100%
+22/08/2016,"28 Cowper Hall, Mount St Annes, Milltown Dublin 6",Dublin,461000.0,No,Milltown,Dublin 6,q3,70%
+24/08/2016,"2 Cowper Hall, Mount Saint Annes, Milltown",Dublin,405286.34,Yes,Milltown,Dublin 6,q2,50%
+08/09/2016,"4 Convent Hall, Mount Saint Annes, Milltown",Dublin,570000.0,No,Milltown,Dublin 6,q4,90%
+14/09/2016,"22 Cowper Hall, Mount Saint Annes, Milltown",Dublin,400881.05,Yes,Milltown,Dublin 6,q2,50%
+14/09/2016,"23 Maple Hall, Mount Saint Annes, Milltown",Dublin,455000.0,Yes,Milltown,Dublin 6,q3,70%
+14/09/2016,"7 Milltown Hall, Mount St Annes, Milltown Dublin 6",Dublin,455000.0,No,Milltown,Dublin 6,q3,70%
+16/09/2016,"Apt 15 Abbeyfield, Milltown Rd, Dublin",Dublin,495000.0,No,Milltown,Dublin 6,q3,70%
+19/09/2016,"10 Cowper Hall, Mount Saint Anne'S, Milltown",Dublin,418502.0,Yes,Milltown,Dublin 6,q2,50%
+19/09/2016,"33 Temple Hall, Mount Saint Anne'S, Milltown",Dublin,427312.0,Yes,Milltown,Dublin 6,q3,60%
+19/09/2016,"4 Mount Sandford, Milltown, Dublin 6",Dublin,320000.0,No,Milltown,Dublin 6,q1,30%
+19/09/2016,"46 Temple Hall, Mount Saint Anne'S, Milltown",Dublin,422907.0,Yes,Milltown,Dublin 6,q3,60%
+21/09/2016,"11 Cowper Hall, Mount Saint Annes, Milltown",Dublin,286343.0,Yes,Milltown,Dublin 6,q1,20%
+21/09/2016,"34 Cowper Hall, Mount Saint Annes, Milltown",Dublin,414096.0,Yes,Milltown,Dublin 6,q2,50%
+27/09/2016,"25 St Columbanus Ave, Milltown, Dublin 14",Dublin,380000.0,No,Milltown,Dublin 6,q2,40%
+29/09/2016,"12 Glenmalure Sq, Milltown, Dublin 6",Dublin,290000.0,No,Milltown,Dublin 6,q1,20%
+29/09/2016,"Apt 51 Merton Hall, Rd Floor, Milltown Hall Dublin 6",Dublin,207500.0,No,Milltown,Dublin 6,q1,10%
+30/09/2016,"16 Rowan Hall, Millbrook Court, Milltown Dublin 6",Dublin,410000.0,No,Milltown,Dublin 6,q2,50%
+01/10/2016,"6 Ramleh Hall, Mount Saint Annes, Milltown",Dublin,275000.0,No,Milltown,Dublin 6,q1,20%
+03/10/2016,"40 Cowper Hall, Mount Saint Annes, Milltown",Dublin,465000.0,No,Milltown,Dublin 6,q3,70%
+07/10/2016,"63 Abbeyfield, Milltown, Dublin 6",Dublin,353000.0,No,Milltown,Dublin 6,q2,40%
+14/10/2016,"25 Glenmalure Sq, Milltown, Dublin 6",Dublin,314000.0,No,Milltown,Dublin 6,q1,30%
+17/10/2016,"59 Temple Hall, Mount Saint Annes, Milltown",Dublin,525991.0,No,Milltown,Dublin 6,q4,80%
+19/10/2016,"Apartment 18 Temple Hall, Mount Saint Anne'S, Milltown",Dublin,566079.0,Yes,Milltown,Dublin 6,q4,80%
+21/10/2016,"2 Milltown Court, Milltown Rd, Milltown Dublin 6",Dublin,415000.0,No,Milltown,Dublin 6,q2,50%
+27/10/2016,"21 Milltown Grove Apt, Milltown, Dublin 6",Dublin,415000.0,No,Milltown,Dublin 6,q2,50%
+02/11/2016,"18 Maple Hall, Mount Saint Annes, Milltown",Dublin,278414.0,Yes,Milltown,Dublin 6,q1,20%
+03/11/2016,"10 Maple Hall, Mount Saint Annes, Milltown",Dublin,396475.0,Yes,Milltown,Dublin 6,q2,50%
+14/11/2016,"46 Abbeyfield, Milltown Rd, Milltown Dublin 6",Dublin,495000.0,No,Milltown,Dublin 6,q3,70%
+18/11/2016,"40 Merton Hall, Rd Floor, Milltown Hall Dublin 6",Dublin,440000.0,No,Milltown,Dublin 6,q3,60%
+21/11/2016,"27 Ramleh Park, Milltown, Dublin 6",Dublin,735000.0,No,Milltown,Dublin 6,q4,100%
+23/11/2016,"Greentrees, Milltown, Dublin 6",Dublin,1000000.0,No,Milltown,Dublin 6,q4,100%
+29/11/2016,"23 Temple Hall, Mount Saint Annes, Milltown",Dublin,465000.0,No,Milltown,Dublin 6,q3,70%
+01/12/2016,"104 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,365000.0,No,Milltown,Dublin 6,q2,40%
+01/12/2016,"116 St Columbanus Rd, Milltown, Dublin 14",Dublin,370000.0,No,Milltown,Dublin 6,q2,40%
+02/12/2016,"47 Ramleh Park, Milltown, Dublin",Dublin,650000.0,No,Milltown,Dublin 6,q4,90%
+08/12/2016,"9 Temple Hall, Moun Saint Annes, Milltown",Dublin,277315.62,Yes,Milltown,Dublin 6,q1,20%
+13/12/2016,"20 Maple Hall, Mount Saint Annes, Milltown",Dublin,345000.0,No,Milltown,Dublin 6,q2,40%
+13/12/2016,"37 Cowper Hall, Mount Saint Annes, Milltown",Dublin,410000.0,No,Milltown,Dublin 6,q2,50%
+16/12/2016,"64 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,300000.0,No,Milltown,Dublin 6,q1,20%
+21/12/2016,"22 Temple Hall, Mount Saint Annes, Milltown",Dublin,273127.75,Yes,Milltown,Dublin 6,q1,10%
+21/12/2016,"32 Temple Hall, Mount Saint Annes, Milltown",Dublin,415929.0,Yes,Milltown,Dublin 6,q2,50%
+17/01/2017,"36 Temple Hall, Mount St Annes, Milltown Dublin 6",Dublin,565000.0,No,Milltown,Dublin 6,q4,80%
+26/01/2017,"32 Millbrook Village, Milltown, Dublin 8",Dublin,430000.0,No,Milltown,Dublin 6,q3,60%
+27/01/2017,"19 Temple Hall, Mount Saint Annes, Milltown",Dublin,450000.0,No,Milltown,Dublin 6,q3,60%
+27/01/2017,"4 Abbeyfield, Milltown, Dublin 6",Dublin,405000.0,No,Milltown,Dublin 6,q2,50%
+27/01/2017,"64 Abbeyfield, Milltown, Dublin 6",Dublin,522000.0,No,Milltown,Dublin 6,q3,80%
+27/01/2017,"Apt 9 First Floor, Block 1 Shanagarry, Milltown",Dublin,340000.0,No,Milltown,Dublin 6,q2,30%
+03/02/2017,"14 Maple Hall, Mount Saint Annes, Milltown",Dublin,460000.0,No,Milltown,Dublin 6,q3,70%
+03/02/2017,"24 Abbeyfield, Milltown, Dublin 6",Dublin,385000.0,No,Milltown,Dublin 6,q2,40%
+06/02/2017,"10 Cedar Hall, Millbrook Court, Milltown Dublin 6",Dublin,395000.0,No,Milltown,Dublin 6,q2,50%
+07/02/2017,"18 Cowper Hall, Mount Saint Annes, Milltown",Dublin,405286.34,Yes,Milltown,Dublin 6,q2,50%
+09/02/2017,"24 Maple Hall, Mount Saint Annes, Milltown",Dublin,299559.0,Yes,Milltown,Dublin 6,q1,20%
+10/02/2017,"83 Ramleh Park, Milltown Rd, Dublin 6",Dublin,740000.0,No,Milltown,Dublin 6,q4,100%
+14/02/2017,"87 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,440000.0,No,Milltown,Dublin 6,q3,60%
+15/02/2017,"2 Park Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,285000.0,No,Milltown,Dublin 6,q1,20%
+16/02/2017,"111 Shanagarry, Milltown Rd, Milltown",Dublin,425000.0,No,Milltown,Dublin 6,q3,60%
+16/02/2017,"Apt 24 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,445000.0,No,Milltown,Dublin 6,q3,60%
+22/02/2017,"5 Temple Hall, Mount Saint Annes, Milltown",Dublin,300000.0,No,Milltown,Dublin 6,q1,20%
+02/03/2017,"3 Cowper Hall, Mount Saint Annes, Milltown",Dublin,277533.03,Yes,Milltown,Dublin 6,q1,20%
+14/03/2017,"33 Patrick Doyle Rd, Milltown, Dublin 14",Dublin,365000.0,No,Milltown,Dublin 6,q2,40%
+27/03/2017,"12 Maple Hall, Mount St Annes, Milltown Dublin 6",Dublin,310000.0,No,Milltown,Dublin 6,q1,30%
+30/03/2017,"15 Maple Hall, Mount Saint Annes, Milltown",Dublin,396475.0,Yes,Milltown,Dublin 6,q2,50%
+03/04/2017,"8 Maple Hall, Mount St Annes, Milltown Dublin 6",Dublin,450000.0,No,Milltown,Dublin 6,q3,60%
+06/04/2017,"2 Maple Hall, Mount Saint Annes, Milltown",Dublin,396475.77,Yes,Milltown,Dublin 6,q2,50%
+06/04/2017,"45 Abbeyfield, Milltown, Dublin 6",Dublin,397000.0,No,Milltown,Dublin 6,q2,50%
+11/04/2017,"9 Cowper Hall, Mount Saint Annes, Milltown",Dublin,290749.0,Yes,Milltown,Dublin 6,q1,20%
+12/04/2017,"15 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,414100.0,Yes,Milltown,Dublin 6,q2,50%
+24/04/2017,"32 Cedar Hall, Millbrook Court, Milltown Rd Dublin 6",Dublin,400000.0,No,Milltown,Dublin 6,q2,50%
+24/04/2017,"7 Woodhaven, Bridge Rd, Milltown Dublin 6",Dublin,585000.0,No,Milltown,Dublin 6,q4,90%
+28/04/2017,"3 Maple Hall, Mount Saint Annes, Milltown",Dublin,440000.0,No,Milltown,Dublin 6,q3,60%
+28/04/2017,"3 Temple Court, Mount St Annes, Milltown",Dublin,485000.0,No,Milltown,Dublin 6,q3,70%
+04/05/2017,"13 Maple Hall, Mount Saint Annes, Milltown",Dublin,455000.0,No,Milltown,Dublin 6,q3,70%
+04/05/2017,"7 Maple Hall, Mount Saint Annes, Milltown",Dublin,445000.0,No,Milltown,Dublin 6,q3,60%
+19/05/2017,"13 Abbeyfield, Milltown, Dublin 6",Dublin,395000.0,No,Milltown,Dublin 6,q2,50%
+20/05/2017,"20 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,495000.0,No,Milltown,Dublin 6,q3,70%
+25/05/2017,"33 Cedar Hall, Millbrook Court, Milltown Dublin 6",Dublin,422000.0,No,Milltown,Dublin 6,q3,60%
+25/05/2017,"7 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,490000.0,No,Milltown,Dublin 6,q3,70%
+31/05/2017,"27 Cowper Hall, Mount St Annes, Milltown Dublin 6",Dublin,710000.0,No,Milltown,Dublin 6,q4,90%
+07/06/2017,"Roseleague, 2 Littlegrove, Milltown Road",Dublin,1146125.0,Yes,Milltown,Dublin 6,q4,100%
+09/06/2017,"40 Ramleh Park, Milltown, Dublin 6",Dublin,840000.0,No,Milltown,Dublin 6,q4,100%
+13/06/2017,"39 Cowper Hall, Mount Saint Annes, Milltown",Dublin,345000.0,No,Milltown,Dublin 6,q2,40%
+13/06/2017,"8 Glenmalure Sq, Milltown Rd, Dublin 6",Dublin,698220.0,No,Milltown,Dublin 6,q4,90%
+20/06/2017,"34 Temple Hall, Mount Saint Annes, Milltown",Dublin,335000.0,No,Milltown,Dublin 6,q2,30%
+22/06/2017,"Apt 6, Cowper Hall, Milltown Dublin 6",Dublin,500000.0,No,Milltown,Dublin 6,q3,80%
+27/06/2017,"12 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,610000.0,No,Milltown,Dublin 6,q4,90%
+27/06/2017,"27 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,757709.25,Yes,Milltown,Dublin 6,q4,100%
+29/06/2017,"14 Ricmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,295155.0,Yes,Milltown,Dublin 6,q1,20%
+30/06/2017,"Apt 30 Rowan Hall, Millbrook Court, Milltown Dublin 6",Dublin,395000.0,No,Milltown,Dublin 6,q2,50%
+10/07/2017,"18 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,350000.0,No,Milltown,Dublin 6,q2,40%
+10/07/2017,"19 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,350000.0,No,Milltown,Dublin 6,q2,40%
+10/07/2017,"5 Ricmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,350000.0,No,Milltown,Dublin 6,q2,40%
+10/07/2017,"8 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,350000.0,No,Milltown,Dublin 6,q2,40%
+20/07/2017,"10 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,572688.0,No,Milltown,Dublin 6,q4,90%
+26/07/2017,"63 Milltown Avenue, Mount St Annes, Milltown",Dublin,430000.0,No,Milltown,Dublin 6,q3,60%
+26/07/2017,"74 Abbeyfield, Milltown Rd, Dublin",Dublin,410000.0,No,Milltown,Dublin 6,q2,50%
+27/07/2017,"13 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,301762.11,Yes,Milltown,Dublin 6,q1,20%
+28/07/2017,"11 Millbrook Village, Milltown, Dublin 6",Dublin,380000.0,No,Milltown,Dublin 6,q2,40%
+28/07/2017,"19 Cowper Hall, Mount Saint Annes, Milltown",Dublin,431718.06,Yes,Milltown,Dublin 6,q3,60%
+31/07/2017,"111 St Columbanus Rd, Milltown, Dublin 14",Dublin,367000.0,No,Milltown,Dublin 6,q2,40%
+31/07/2017,"18 Merton Walk, Mount St Annes, Milltown Dublin 6",Dublin,690000.0,No,Milltown,Dublin 6,q4,90%
+01/08/2017,"6 Maple Hall, Mount Saint Annes, Milltown",Dublin,281938.0,Yes,Milltown,Dublin 6,q1,20%
+01/08/2017,"6 Richmond Hall, Mount Saint Annes, Milltown",Dublin,559471.0,Yes,Milltown,Dublin 6,q4,80%
+10/08/2017,"80 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,270000.0,No,Milltown,Dublin 6,q1,10%
+11/08/2017,"12 Temple Court, Mount St Anne, Milltown",Dublin,431718.0,Yes,Milltown,Dublin 6,q3,60%
+16/08/2017,"39 Mount Sandford, Milltown, Dublin 6",Dublin,800000.0,No,Milltown,Dublin 6,q4,100%
+18/08/2017,"9 Ramleh Park, Milltown, Dublin 6",Dublin,1161000.0,No,Milltown,Dublin 6,q4,100%
+22/08/2017,"2 Temple Court, Mount Saint Annes, Milltown",Dublin,431718.0,Yes,Milltown,Dublin 6,q3,60%
+30/08/2017,"16 Dodderbank Apts, Milltown, Dublin 14",Dublin,410000.0,No,Milltown,Dublin 6,q2,50%
+05/09/2017,"19 Merton Crescent, Mount St Anns, Milltown",Dublin,680000.0,No,Milltown,Dublin 6,q4,90%
+07/09/2017,"64 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,300000.0,No,Milltown,Dublin 6,q1,20%
+14/09/2017,"26 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,669604.0,Yes,Milltown,Dublin 6,q4,90%
+14/09/2017,"35 Temple Hall, Mount St Annes, Milltown Dublin 6",Dublin,775000.0,No,Milltown,Dublin 6,q4,100%
+14/09/2017,"90 Shanagarry, Milltown Rd, Milltown",Dublin,435000.0,No,Milltown,Dublin 6,q3,60%
+20/09/2017,"32 Cowper Hall, Mount Saint Annes, Milltown",Dublin,500000.0,No,Milltown,Dublin 6,q3,80%
+21/09/2017,"8 Temple Court, Mount Saint Annes, Milltown",Dublin,431700.0,Yes,Milltown,Dublin 6,q3,60%
+27/09/2017,"64 Shanagarry, Milltown Rd, Dublin 6",Dublin,365000.0,No,Milltown,Dublin 6,q2,40%
+29/09/2017,"36 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,420000.0,No,Milltown,Dublin 6,q3,60%
+29/09/2017,"3A Bankside Cottages, Milltown, Dublin 6",Dublin,472500.0,No,Milltown,Dublin 6,q3,70%
+04/10/2017,"19 Glenmalure Sq, Milltown, Dublin 6",Dublin,510000.0,No,Milltown,Dublin 6,q3,80%
+05/10/2017,"1 Cowper Hall, Mount Saint Annes, Milltown",Dublin,330000.0,No,Milltown,Dublin 6,q2,30%
+10/10/2017,"128 Richmond Hall, Mount St. Anne'S, Milltown",Dublin,10000.0,No,Milltown,Dublin 6,q1,10%
+10/10/2017,"128 Richmond Hall, Mount St. Anne'S, Milltown",Dublin,10000.0,No,Milltown,Dublin 6,q1,10%
+10/10/2017,"22 Richmond Hall, Mount St Annes, Milltown",Dublin,622736.0,No,Milltown,Dublin 6,q4,90%
+11/10/2017,"21 Richmond Hall, Mount Saint Annes, Milltown",Dublin,308370.04,Yes,Milltown,Dublin 6,q1,30%
+17/10/2017,"1 Maple Hall, Mount St Annes, Milltown",Dublin,445000.0,No,Milltown,Dublin 6,q3,60%
+20/10/2017,"10 The Pines, Grove House, Milltown Dublin 6",Dublin,650000.0,No,Milltown,Dublin 6,q4,90%
+23/10/2017,"44 Abbeyfield, Milltown, Dublin 6",Dublin,390000.0,No,Milltown,Dublin 6,q2,40%
+24/10/2017,"10 Crannach, Prospect Lane, Milltown",Dublin,650000.0,No,Milltown,Dublin 6,q4,90%
+24/10/2017,"4 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,467841.41,Yes,Milltown,Dublin 6,q3,70%
+26/10/2017,"24 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,471366.0,Yes,Milltown,Dublin 6,q3,70%
+31/10/2017,"122 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,510000.0,No,Milltown,Dublin 6,q3,80%
+01/11/2017,"75 St Columbanus Rd, Milltown, Dublin 14",Dublin,354000.0,No,Milltown,Dublin 6,q2,40%
+02/11/2017,"23 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,308370.0,No,Milltown,Dublin 6,q1,20%
+02/11/2017,"3 Mount Sandford, Milltown Road, Milltown",Dublin,520000.0,No,Milltown,Dublin 6,q3,80%
+02/11/2017,"49 Glenmalure Sq, Milltown, Dublin",Dublin,540000.0,No,Milltown,Dublin 6,q4,80%
+07/11/2017,"25 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,360000.0,No,Milltown,Dublin 6,q2,40%
+07/11/2017,"67 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,375000.0,No,Milltown,Dublin 6,q2,40%
+10/11/2017,"9 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,594714.0,Yes,Milltown,Dublin 6,q4,90%
+20/11/2017,"28 Merton Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,565000.0,No,Milltown,Dublin 6,q4,80%
+21/11/2017,"72 Abbeyfield, Milltown, Dublin 6",Dublin,495000.0,No,Milltown,Dublin 6,q3,70%
+22/11/2017,"Apt 44, Mount St Annes, Milltown Dublin 6",Dublin,360000.0,No,Milltown,Dublin 6,q2,40%
+28/11/2017,"1 Temple Court, Mount St Annes, Milltown",Dublin,700000.0,No,Milltown,Dublin 6,q4,90%
+30/11/2017,"7 Woodhaven, Bridge Rd, Milltown Dublin 6",Dublin,587000.0,No,Milltown,Dublin 6,q4,90%
+01/12/2017,"2 Ricmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,305555.07,No,Milltown,Dublin 6,q1,20%
+01/12/2017,"3 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,556656.39,No,Milltown,Dublin 6,q4,80%
+04/12/2017,"54 Shanagarry, Milltown, Dublin 6",Dublin,376006.0,No,Milltown,Dublin 6,q2,40%
+07/12/2017,"40 Millbrook Village, Milltown Rd, Dublin 6",Dublin,433110.0,No,Milltown,Dublin 6,q3,60%
+11/12/2017,"109 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,505000.0,No,Milltown,Dublin 6,q3,80%
+15/12/2017,"18 Rowan Hall, Millbrook Court, Milltown",Dublin,435000.0,No,Milltown,Dublin 6,q3,60%
+18/12/2017,"55 Temple Hall, Mount St Annes, Milltown Road",Dublin,375000.0,No,Milltown,Dublin 6,q2,40%
+20/12/2017,"16 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,296744.49,No,Milltown,Dublin 6,q1,20%
+20/12/2017,"17 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,660000.0,No,Milltown,Dublin 6,q4,90%
+21/12/2017,"103 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,365000.0,No,Milltown,Dublin 6,q2,40%
+21/12/2017,"108 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,455000.0,No,Milltown,Dublin 6,q3,70%
+22/12/2017,"65 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,398000.0,No,Milltown,Dublin 6,q2,50%
+18/01/2018,"20 Glenmalure Sq, Milltown, Dublin 6",Dublin,375000.0,No,Milltown,Dublin 6,q2,40%
+24/01/2018,"11 Richmond Hall, Mount St Annes, Milltown Dublin 6",Dublin,657977.97,No,Milltown,Dublin 6,q4,90%
+26/01/2018,"21 Millbrook Village, Milltown, Dublin 6",Dublin,440000.0,No,Milltown,Dublin 6,q3,60%
+02/02/2018,"65 Merton Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,875000.0,No,Milltown,Dublin 6,q4,100%
+12/02/2018,"46 Millbrook Village, Milltown, Dublin 6",Dublin,442500.0,No,Milltown,Dublin 6,q3,60%
+16/02/2018,"21 Cedar Hall, Millbrook Court, Milltown Dublin 6",Dublin,440000.0,No,Milltown,Dublin 6,q3,60%
+21/02/2018,"12A Cedar Hall, Millbrook Village, Milltown Rd Dublin 6",Dublin,442000.0,No,Milltown,Dublin 6,q3,60%
+23/02/2018,"7 Temple Court, Mount Saint Annes, Milltown",Dublin,431718.0,No,Milltown,Dublin 6,q3,60%
+06/03/2018,"2 Milltown Ave, Mount St Annes, Milltown Dublin 6",Dublin,585000.0,No,Milltown,Dublin 6,q4,90%
+07/03/2018,"Apt 47 Temple Hall, Mount St Annes, Milltown",Dublin,283000.0,No,Milltown,Dublin 6,q1,20%
+16/03/2018,"9 Temple Court, Mount Saint Annes, Milltown",Dublin,490000.0,No,Milltown,Dublin 6,q3,70%
+22/03/2018,"13 Patrick Doyle Rd, Milltown, Dublin 14",Dublin,506000.0,No,Milltown,Dublin 6,q3,80%
+26/03/2018,"11 Temple Court, Mount Saint Annes, Milltown",Dublin,490000.0,No,Milltown,Dublin 6,q3,70%
+28/03/2018,"10 Temple Court, Mount Saint Annes, Milltown",Dublin,440528.63,No,Milltown,Dublin 6,q3,60%
+28/03/2018,"15 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,283333.0,No,Milltown,Dublin 6,q1,20%
+29/03/2018,"106 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,485000.0,No,Milltown,Dublin 6,q3,70%
+29/03/2018,"107 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,500000.0,No,Milltown,Dublin 6,q3,80%
+29/03/2018,"110 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,505000.0,No,Milltown,Dublin 6,q3,80%
+29/03/2018,"12 Garrynure, Milltown, Dublin 6",Dublin,450000.0,No,Milltown,Dublin 6,q3,60%
+29/03/2018,"23 Abbeyfield, Milltown, Dublin 6",Dublin,520000.0,No,Milltown,Dublin 6,q3,80%
+03/04/2018,"8 Merton Walk, Mount St Annes, Milltown",Dublin,900000.0,No,Milltown,Dublin 6,q4,100%
+13/04/2018,"23 Glenmalure Sq, Milltown, Dublin 6",Dublin,465000.0,No,Milltown,Dublin 6,q3,70%
+17/04/2018,"Apt 69, Milltown Hall, Mount St Annes Dublin 6",Dublin,710000.0,No,Milltown,Dublin 6,q4,90%
+27/04/2018,"103 Ramleh Park, Milltown, Dublin 6",Dublin,1230000.0,No,Milltown,Dublin 6,q4,100%
+27/04/2018,"25 Dodderbank, Milltown, Dublin 14",Dublin,355000.0,No,Milltown,Dublin 6,q2,40%
+02/05/2018,"17 Churchfields, Milltown, Dublin 6",Dublin,625000.0,No,Milltown,Dublin 6,q4,90%
+03/05/2018,"7 Ramleh Close, Milltown, Dublin 6",Dublin,1008500.0,No,Milltown,Dublin 6,q4,100%
+08/05/2018,"3 Bankside Cottages, Milltown Bridge, Milltown Dublin 6",Dublin,426000.0,No,Milltown,Dublin 6,q3,60%
+24/05/2018,"128 St Columbanus Rd, Milltown, Dublin 14",Dublin,437000.0,No,Milltown,Dublin 6,q3,60%
+30/05/2018,"27 Convent Hall, Mount St Annes, Milltown Dublin 6",Dublin,620000.0,No,Milltown,Dublin 6,q4,90%
+04/06/2018,"5 Crannagh, Prospect Lane, Milltown Dublin 6",Dublin,340000.0,No,Milltown,Dublin 6,q2,30%
+08/06/2018,"13 Convent Hall, Mount Saint Annes, Milltown",Dublin,650000.0,No,Milltown,Dublin 6,q4,90%
+15/06/2018,"24 St Columbanus Ave, Milltown, Dublin 14",Dublin,415000.0,No,Milltown,Dublin 6,q2,50%
+20/06/2018,"35 Millbrook Village, Milltown Rd, Dublin 6",Dublin,425000.0,No,Milltown,Dublin 6,q3,60%
+20/06/2018,"Apt 30 Rowan Hall, Millbrook Court, Milltown Dublin 6",Dublin,450000.0,No,Milltown,Dublin 6,q3,60%
+22/06/2018,"9 Abbeyfield, Milltown Rd, Dublin City",Dublin,420000.0,No,Milltown,Dublin 6,q3,60%
+28/06/2018,"98 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,700000.0,No,Milltown,Dublin 6,q4,90%
+29/06/2018,"31 Rowan Hall, Millbrook Court, Milltown",Dublin,435000.0,No,Milltown,Dublin 6,q3,60%
+02/07/2018,"10 The Courtyard, Milltown Ave, Mount St Annes",Dublin,500000.0,No,Milltown,Dublin 6,q3,80%
+09/07/2018,"38 St Columbanus Ave, Milltown, Dublin 14",Dublin,400000.0,No,Milltown,Dublin 6,q2,50%
+11/07/2018,"26 St Columbanus Ave, Milltown, Dublin 14",Dublin,422000.0,No,Milltown,Dublin 6,q3,60%
+11/07/2018,"46 Shanagarry Apts, Milltown Rd, Milltown",Dublin,600000.0,No,Milltown,Dublin 6,q4,90%
+12/07/2018,"29 St Columbanus Rd, Milltown, Dublin 14",Dublin,400000.0,No,Milltown,Dublin 6,q2,50%
+13/07/2018,"25 St Lukes Crescent, Milltown, Dublin 14",Dublin,540000.0,No,Milltown,Dublin 6,q4,80%
+13/07/2018,"3A Saint Columbanus Mews, Milltown, Dublin 14",Dublin,282000.0,No,Milltown,Dublin 6,q1,20%
+13/07/2018,"4 Temple Court, Mount St Annes, Milltown Dublin 6",Dublin,458150.0,No,Milltown,Dublin 6,q3,70%
+13/07/2018,"5 Temple Court, Mount Saint Annes, Milltown",Dublin,422907.0,No,Milltown,Dublin 6,q3,60%
+20/07/2018,"74 Churchfields, Milltown, Dublin 14",Dublin,742500.0,No,Milltown,Dublin 6,q4,100%
+31/07/2018,"14 Milltown Ave, Mount St Annes, Milltown Dublin 6",Dublin,645000.0,No,Milltown,Dublin 6,q4,90%
+31/07/2018,"24 Temple Hall, Mount St Annes, Milltown Dublin 6",Dublin,550000.0,No,Milltown,Dublin 6,q4,80%
+14/08/2018,"Apt 10 Rowan Hall, Milltown Road, Dublin 6",Dublin,435000.0,No,Milltown,Dublin 6,q3,60%
+17/08/2018,"24 Cedar Hall, Millbrook, Milltown Dublin 6",Dublin,440000.0,No,Milltown,Dublin 6,q3,60%
+21/08/2018,"30 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,162500.0,No,Milltown,Dublin 6,q1,10%
+27/08/2018,"36 Churchfields, Milltown, Dublin 14",Dublin,795000.0,No,Milltown,Dublin 6,q4,100%
+31/08/2018,"88 Milltown Hall, Milltown Ave, Mount St Annes Dublin 6",Dublin,555000.0,No,Milltown,Dublin 6,q4,80%
+03/09/2018,"Apt 89, Milltown Hall, Mount Dsaint Annes Milltown",Dublin,360000.0,No,Milltown,Dublin 6,q2,40%
+07/09/2018,"19 Rowan Hall, Millbrook Court, Milltown Dublin 6",Dublin,512000.0,No,Milltown,Dublin 6,q3,80%
+17/09/2018,"6 Temple Hall, Mount St Annes, Milltown Dublin 6",Dublin,605000.0,No,Milltown,Dublin 6,q4,90%
+01/10/2018,"62 Milltown Ave, Mt St Annes, Milltown",Dublin,525000.0,No,Milltown,Dublin 6,q4,80%
+05/10/2018,"16 Milltown Hill, Milltown, Dublin 6",Dublin,305000.0,No,Milltown,Dublin 6,q1,20%
+05/10/2018,"20 Ramleh Close, Milltown, Dublin 6",Dublin,932500.0,No,Milltown,Dublin 6,q4,100%
+08/10/2018,"7 Patrick Doyle, Milltown, Dublin 14",Dublin,485000.0,No,Milltown,Dublin 6,q3,70%
+10/10/2018,"55 Glenmalure Sq, Milltown, Dublin 6",Dublin,450000.0,No,Milltown,Dublin 6,q3,70%
+11/10/2018,"35 Milltown Grove, Milltown, Dublin 6",Dublin,512500.0,No,Milltown,Dublin 6,q3,80%
+19/10/2018,"21 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,475000.0,No,Milltown,Dublin 6,q3,70%
+26/10/2018,"17 Maple Hall, Mount Saint Annes, Milltown",Dublin,10000.0,No,Milltown,Dublin 6,q1,10%
+31/10/2018,"21 Churchfields, Milltown, Dublin 14",Dublin,720000.0,No,Milltown,Dublin 6,q4,100%
+08/11/2018,"48 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,170000.0,No,Milltown,Dublin 6,q1,10%
+29/11/2018,"3A Saint Columbanus Mews, Milltown, Dublin 14",Dublin,290000.0,No,Milltown,Dublin 6,q1,20%
+06/12/2018,"4A Bankside Cottages, Milltown, Dublin 6",Dublin,530000.0,No,Milltown,Dublin 6,q4,80%
+14/12/2018,"36 Milltown Hall, Mount St Annes, Milltown Dublin 6",Dublin,405000.0,No,Milltown,Dublin 6,q2,50%
+17/12/2018,"35 Milltown Hall, Mount St Annes, Milltown Dublin 6",Dublin,638500.0,No,Milltown,Dublin 6,q4,90%
+20/12/2018,"Apt 22 2Nd Floor Block E, Milltown Hall, Mount St Annes",Dublin,408000.0,No,Milltown,Dublin 6,q2,50%
+08/02/2019,"53 Churchfields, Milltown, Dublin 14",Dublin,700000.0,No,Milltown,Dublin 6,q4,90%
+12/02/2019,"8 St Galls Gardens, Milltown, Dublin 14",Dublin,485000.0,No,Milltown,Dublin 6,q3,70%
+08/03/2019,"181 St Columbanus Rd, Milltown, Dublin 14",Dublin,515000.0,No,Milltown,Dublin 6,q3,80%
+26/03/2019,"10 Patrick Doyle Road, Milltown, Dublin 14",Dublin,400000.0,No,Milltown,Dublin 6,q2,50%
+08/04/2019,"15 Cedar Hall, Millbrook Court, Milltown",Dublin,472500.0,No,Milltown,Dublin 6,q3,70%
+08/04/2019,"37 Merton Hall, Mount St Annes, Milltown Dublin 6",Dublin,505000.0,No,Milltown,Dublin 6,q3,80%
+23/04/2019,"Apt 6, Cowper Hall, Milltown Dublin 6",Dublin,590000.0,No,Milltown,Dublin 6,q4,90%
+26/04/2019,"6 Mount Sandford, Milltown, Sandford Dublin 4",Dublin,510000.0,No,Milltown,Dublin 6,q3,80%
+03/05/2019,"39 Churchfields, Milltown, Dublin 6",Dublin,695000.0,No,Milltown,Dublin 6,q4,90%
+08/05/2019,"Apt 53, Shanagarry, Milltown Dublin 6",Dublin,406000.0,No,Milltown,Dublin 6,q2,50%
+09/05/2019,"Apt 94, Milltown Hall, Milltown Ave Dublin 6",Dublin,585000.0,No,Milltown,Dublin 6,q4,90%
+11/05/2019,"37 Churchfields, Milltown, Dublin 14",Dublin,730000.0,No,Milltown,Dublin 6,q4,100%
+30/05/2019,"1 Cedar Hall, Millbrook Court, Milltown",Dublin,440000.0,No,Milltown,Dublin 6,q3,60%
+30/05/2019,"59 Shanagarry, Milltown Rd, Milltown Dublin 6",Dublin,377000.0,No,Milltown,Dublin 6,q2,40%
+05/06/2019,"57 Milltown Hall, Mount St Annes, Milltown Dublin 6",Dublin,605000.0,No,Milltown,Dublin 6,q4,90%
+06/06/2019,"69 Churchfields, Milltown, Dublin 14",Dublin,935000.0,No,Milltown,Dublin 6,q4,100%
+07/06/2019,"57 Patrick Doyle Rd, Milltown, Dublin 14",Dublin,418000.0,No,Milltown,Dublin 6,q2,50%
+14/06/2019,"9 The Oaks, Grove House, Milltown Dublin 6",Dublin,705000.0,No,Milltown,Dublin 6,q4,90%
+17/06/2019,"2 Ramleh Park, Milltown, Dublin 6",Dublin,775000.0,No,Milltown,Dublin 6,q4,100%
+26/06/2019,"2A Palmerston Grove, Milltown, Dublin 6",Dublin,825000.0,No,Milltown,Dublin 6,q4,100%
+28/06/2019,"14 Mount Sandford, Milltown, Sandford Dublin 6",Dublin,525000.0,No,Milltown,Dublin 6,q4,80%
+12/07/2019,"3 Ramleh Close, Milltown, Dublin 6",Dublin,910000.0,No,Milltown,Dublin 6,q4,100%
+24/07/2019,"9 The Pines, Grove House, Milltown Rd Dublin 6",Dublin,695000.0,No,Milltown,Dublin 6,q4,90%
+25/07/2019,"73 Glenmalure Sq, Milltown Rd, Dublin 6",Dublin,452500.0,No,Milltown,Dublin 6,q3,70%
+16/08/2019,"119 St Columbanus Rd, Milltown, Dublin 14",Dublin,440000.0,No,Milltown,Dublin 6,q3,60%
+22/08/2019,"22 Mount Sandford, Milltown, Sandford",Dublin,530000.0,No,Milltown,Dublin 6,q4,80%
+22/08/2019,"48 Abbeyfield, Milltown, Dublin 6",Dublin,390000.0,No,Milltown,Dublin 6,q2,40%
+23/08/2019,"10 The Oaks, Grove House, Milltown Rd Dublin 6",Dublin,753000.0,No,Milltown,Dublin 6,q4,100%
+29/08/2019,"40 Milltown Hall, Mt St Annes, Milltown Rd Dublin 6",Dublin,595000.0,No,Milltown,Dublin 6,q4,90%
+30/08/2019,"15 Ramleh Park, Milltown, Dublin 6",Dublin,735000.0,No,Milltown,Dublin 6,q4,100%
+04/09/2019,"35 Milltown Ave, Mount St Annes, Milltown Dublin 6",Dublin,875000.0,No,Milltown,Dublin 6,q4,100%
+04/09/2019,"59 Milltown Hall, Mount St Annes, Milltown Dublin 6",Dublin,550000.0,No,Milltown,Dublin 6,q4,80%
+10/09/2019,"72 Milltown Ave, Milltown, Dublin 6",Dublin,525000.0,No,Milltown,Dublin 6,q4,80%
+10/09/2019,"96 Shanagarry, Milltown Rd, Milltown",Dublin,250000.0,No,Milltown,Dublin 6,q1,10%
+12/09/2019,"141 St Columbanus Rd, Milltown, Dublin 14",Dublin,373510.0,No,Milltown,Dublin 6,q2,40%
+16/09/2019,"3 Maple Hall, Mount Saint Annes, Milltown",Dublin,500000.0,No,Milltown,Dublin 6,q3,80%
+16/09/2019,"5 St Columbanus Ave, Milltown, Dublin 14",Dublin,460000.0,No,Milltown,Dublin 6,q3,70%
+26/09/2019,"31 Millbrook Village, Milltown, Dublin 6",Dublin,552500.0,No,Milltown,Dublin 6,q4,80%
+27/09/2019,"8 The Orchard, Grove House, Milltown",Dublin,523000.0,No,Milltown,Dublin 6,q3,80%
+14/10/2019,"19 Mount Sandford, Milltown, Sandford Dublin 6",Dublin,555000.0,No,Milltown,Dublin 6,q4,80%
+14/10/2019,"63 Ramlea Park, Milltown, Dublin 6",Dublin,990000.0,No,Milltown,Dublin 6,q4,100%

@@ -1,0 +1,1507 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+11/01/2010,"73 College Park, Terenure",Dublin,131250.0,No,Terenure,Dublin 6W,q1,10%
+15/01/2010,"3 Glenmurray Park, Terenure, Dublin 6 W",Dublin,462000.0,No,Terenure,Dublin 6W,q3,60%
+29/01/2010,"14 College Square, Wainsfort Manor Drive, Terenure",Dublin,704846.0,Yes,Terenure,Dublin 6W,q4,90%
+12/02/2010,"16 Temple Hill, Terenure Road West, Terenure",Dublin,240000.0,No,Terenure,Dublin 6W,q1,20%
+16/02/2010,"152 Corrib Road, Terenure, Dublin 6W",Dublin,355000.0,No,Terenure,Dublin 6W,q2,40%
+18/02/2010,"17 Hazelbrook Court, Terenure",Dublin,363000.0,No,Terenure,Dublin 6W,q2,40%
+18/02/2010,"18 Ashfield Park, Terenure",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+19/02/2010,"137 Corrib Road, Terenure, Dublin 6W",Dublin,315000.0,No,Terenure,Dublin 6W,q1,30%
+23/02/2010,"Apt 15 Priory Hall, Manor Grove, Terenure",Dublin,258500.0,No,Terenure,Dublin 6W,q1,20%
+26/02/2010,"9 Fergus Road, Terenure",Dublin,490000.0,No,Terenure,Dublin 6W,q3,60%
+01/03/2010,"100 Corrib Road, Terenure",Dublin,298000.0,No,Terenure,Dublin 6W,q1,30%
+02/03/2010,"Apartment 36, Cremorne, Terenure",Dublin,245000.0,No,Terenure,Dublin 6W,q1,20%
+11/03/2010,"52 College Square, Wainsfort Manor Drive, Terenure",Dublin,771233.48,Yes,Terenure,Dublin 6W,q4,90%
+26/03/2010,"Apt 4 The Grange, Laurel Place, Terenure",Dublin,337500.0,Yes,Terenure,Dublin 6W,q2,30%
+31/03/2010,"2 Wainsfort Manor Grove, Terenure, Dublin",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+09/04/2010,"104 Parkmore Drive, Terenure, Dublin 6W",Dublin,490000.0,No,Terenure,Dublin 6W,q3,60%
+15/04/2010,"44 St. Enda'S Road, Terenure",Dublin,245000.0,No,Terenure,Dublin 6W,q1,20%
+16/04/2010,"3 Fortfield Road, Terenure",Dublin,470000.0,No,Terenure,Dublin 6W,q3,60%
+20/04/2010,"19 Fortfield Road, Terenure",Dublin,380000.0,No,Terenure,Dublin 6W,q2,40%
+30/04/2010,"7 Ashfield Park, Terenure",Dublin,460000.0,No,Terenure,Dublin 6W,q3,60%
+30/04/2010,"7 Limekiln Drive, Terenure",Dublin,425000.0,No,Terenure,Dublin 6W,q2,50%
+05/05/2010,"35  The Courtyard, Fortfield Square, Terenure",Dublin,300000.0,Yes,Terenure,Dublin 6W,q1,30%
+06/05/2010,"42  Templeville Road, Terenure, Dublin 6",Dublin,520000.0,No,Terenure,Dublin 6W,q3,60%
+13/05/2010,"24 Temple Hill, Terenure Road West, Terenure",Dublin,245000.0,No,Terenure,Dublin 6W,q1,20%
+14/05/2010,"154 Corrib Road, Terenure",Dublin,334500.0,No,Terenure,Dublin 6W,q2,30%
+18/05/2010,"170 Corrib Road, Terenure, Dublin 6W",Dublin,150000.0,No,Terenure,Dublin 6W,q1,10%
+19/05/2010,"6 Greenlea Avenue, Terenure, Dublin 7",Dublin,695000.0,No,Terenure,Dublin 6W,q4,90%
+21/05/2010,"22 College Park, Terenure, Dublin",Dublin,418000.0,No,Terenure,Dublin 6W,q2,50%
+11/06/2010,"16 Fortfield Drive, Terenure",Dublin,770000.0,No,Terenure,Dublin 6W,q4,90%
+17/06/2010,"8 Rathdown Villas, Terenure",Dublin,1065000.0,No,Terenure,Dublin 6W,q4,100%
+18/06/2010,"29 Wasdale Park, Terenure",Dublin,730000.0,No,Terenure,Dublin 6W,q4,90%
+18/06/2010,"67 Corrib Road, Terenure",Dublin,275000.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2010,"30 Fortfield Grove, Fortfield Square, Terenure",Dublin,865638.77,Yes,Terenure,Dublin 6W,q4,100%
+25/06/2010,"Apt 5 The Crescent, Fortfield Square, Terenure",Dublin,270925.11,Yes,Terenure,Dublin 6W,q1,20%
+28/06/2010,"5 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,416777.0,No,Terenure,Dublin 6W,q2,50%
+30/06/2010,"59 Derravaragh Road, Terenure",Dublin,300000.0,No,Terenure,Dublin 6W,q1,30%
+12/07/2010,"21 Fergus Road, Terenure",Dublin,502000.0,No,Terenure,Dublin 6W,q3,60%
+16/07/2010,"53 Derravaragh Road, Terenure",Dublin,273000.0,No,Terenure,Dublin 6W,q1,20%
+21/07/2010,"54 College Square, Terenure, Dublin 6",Dublin,362555.0,Yes,Terenure,Dublin 6W,q2,40%
+23/07/2010,"13 Parkmore Drive, Terenure",Dublin,871555.0,No,Terenure,Dublin 6W,q4,100%
+23/07/2010,"32 Wainsfort Crescent, Terenure, Dublin 6W",Dublin,517000.0,No,Terenure,Dublin 6W,q3,60%
+28/07/2010,"20 Hannaville Park, Terenure",Dublin,725000.0,No,Terenure,Dublin 6W,q4,90%
+04/08/2010,"Hazelwood, 91 Bushy Park Road, Terenure",Dublin,1200000.0,No,Terenure,Dublin 6W,q4,100%
+06/08/2010,"19 The Laurels, Terenure",Dublin,360000.0,No,Terenure,Dublin 6W,q2,40%
+06/08/2010,"47 St. Enda'S Road, Terenure",Dublin,260000.0,No,Terenure,Dublin 6W,q1,20%
+10/08/2010,"33 Limekiln Drive, Terenure",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+16/08/2010,"151 Greenlea Road, Terenure",Dublin,675000.0,No,Terenure,Dublin 6W,q4,80%
+18/08/2010,"58 Hanaville Park, Terenure, City Of Dublin",Dublin,575000.0,No,Terenure,Dublin 6W,q3,70%
+20/08/2010,"5 Rathdown Drive, Terenure, Dublin 6W",Dublin,1000000.0,No,Terenure,Dublin 6W,q4,100%
+27/08/2010,"2  Cranford, Terenure Road West, Terenure  Dublin 6W",Dublin,845000.0,No,Terenure,Dublin 6W,q4,100%
+08/09/2010,"4 Terenure Park, Terenure",Dublin,735000.0,No,Terenure,Dublin 6W,q4,90%
+10/09/2010,"1 Limekiln Road, Terenure",Dublin,325000.0,No,Terenure,Dublin 6W,q2,30%
+10/09/2010,"16 The Laurels, Terenure, Dublin 6W",Dublin,351000.0,No,Terenure,Dublin 6W,q2,40%
+10/09/2010,"4 Limekiln Park, Terenure",Dublin,290000.0,No,Terenure,Dublin 6W,q1,30%
+13/09/2010,"No 9 Terenure Court, Terenure Road West",Dublin,257500.0,No,Terenure,Dublin 6W,q1,20%
+14/09/2010,"25 Priory Hall, Manor Grove, Terenure",Dublin,248000.0,No,Terenure,Dublin 6W,q1,20%
+24/09/2010,"30 Neagh Road, Terenure, Dublin 6",Dublin,288000.0,No,Terenure,Dublin 6W,q1,30%
+27/09/2010,"75 Wainsfort Manor Crescent, Terenure",Dublin,474950.0,No,Terenure,Dublin 6W,q3,60%
+27/09/2010,"99  The Cloisters, Mount Tallant Avenue, Terenure",Dublin,341000.0,No,Terenure,Dublin 6W,q2,30%
+28/09/2010,"Apartment 35 Temple Hill, Terenure Road West, Dublin 6W",Dublin,220000.0,No,Terenure,Dublin 6W,q1,10%
+29/09/2010,"32 Wainsfort Road, Terenure",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+29/09/2010,"42 Lavarna Road, Terenure, Dublin 6W",Dublin,715000.0,No,Terenure,Dublin 6W,q4,90%
+29/09/2010,"64  Melvin Road, Terenure, Dublin 6",Dublin,232000.0,No,Terenure,Dublin 6W,q1,20%
+30/09/2010,"18 Melvin Road, Terenure",Dublin,270000.0,No,Terenure,Dublin 6W,q1,20%
+30/09/2010,"64 Cremorne, Terenure, Dubin 6",Dublin,290000.0,No,Terenure,Dublin 6W,q1,30%
+30/09/2010,"Apt. 14  Temple Hill, Terenure Road West, Dublin 6W",Dublin,230000.0,No,Terenure,Dublin 6W,q1,20%
+01/10/2010,"3 Priory Hall, Manor Grove, Terenure",Dublin,241000.0,No,Terenure,Dublin 6W,q1,20%
+06/10/2010,"59 Larkfield Gardens, Terenure, Dublin 6W",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+08/10/2010,"31 Brighton Gardens, Terenure, Dublin 6",Dublin,495000.0,No,Terenure,Dublin 6W,q3,60%
+11/10/2010,"Apt  18 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt  20 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 1 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 10 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 11 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 12 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 13 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 15 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 16 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 17 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 2 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 21 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 23 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 3  The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 3A The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 4 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 5 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 6 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 7 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 8 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Apt 9 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+11/10/2010,"Art 22 The Courtyard, Fortfield Square, Terenure",Dublin,218205.0,Yes,Terenure,Dublin 6W,q1,10%
+12/10/2010,"30 Priory Way, Manor Grove, Terenure",Dublin,402500.0,No,Terenure,Dublin 6W,q2,50%
+19/10/2010,"2 Eaton Court, Terenure",Dublin,285000.0,No,Terenure,Dublin 6W,q1,30%
+19/10/2010,"8 College Drive, Terenure, Dublin 6W",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+26/10/2010,"124 Mount Tallant Avenue, Terenure, Dublin 6W",Dublin,220000.0,No,Terenure,Dublin 6W,q1,10%
+04/11/2010,"3 Ashdale Gardens, Terenure",Dublin,449400.0,No,Terenure,Dublin 6W,q2,50%
+08/11/2010,"14 The Laurels, Terenure Rd West, Terenure",Dublin,345000.0,No,Terenure,Dublin 6W,q2,40%
+12/11/2010,"50 College Square, Wainsfort Manor Drive, Terenure",Dublin,696036.0,Yes,Terenure,Dublin 6W,q4,90%
+17/11/2010,"19 College Square, Wainsfort Manor Drive, Terenure",Dublin,760000.0,Yes,Terenure,Dublin 6W,q4,90%
+17/11/2010,"52 Priory Way, Manor Grove, Terenure",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+18/11/2010,"39 Fortfield Drive, Terenure, Dublin 6W",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+25/11/2010,"37 Terenure Road North, Terenure, Dublin 6W",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+30/11/2010,"39 Derravaragh Road, Terenure",Dublin,230000.0,No,Terenure,Dublin 6W,q1,20%
+30/11/2010,"40 Terenure Road West, Terenure",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+05/12/2010,"5 Wainsfort Manor Grove, Terenure",Dublin,250000.0,No,Terenure,Dublin 6W,q1,20%
+06/12/2010,"23 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,427000.0,No,Terenure,Dublin 6W,q2,50%
+15/12/2010,"22  Eaton Road, Terenure",Dublin,445000.0,No,Terenure,Dublin 6W,q2,50%
+16/12/2010,"3 Beechlawn Manor, Terenure, Dublin 6W",Dublin,170000.0,No,Terenure,Dublin 6W,q1,10%
+16/12/2010,"4 Beechlawn Manor, Terenure, Dublin 6W",Dublin,170000.0,No,Terenure,Dublin 6W,q1,10%
+16/12/2010,"7 Beechlawn Manor, Terenure, Dublin 6W",Dublin,162500.0,No,Terenure,Dublin 6W,q1,10%
+16/12/2010,"8 Beechlawn Manor, Terenure, Dublin 6W",Dublin,162500.0,No,Terenure,Dublin 6W,q1,10%
+17/12/2010,"13 Glendale Park, Terenure, Dublin 12",Dublin,305000.0,No,Terenure,Dublin 6W,q1,30%
+21/12/2010,"16 Whitton Road, Terenure",Dublin,365000.0,No,Terenure,Dublin 6W,q2,40%
+22/12/2010,"29  Wainsfort Crescent, Terenure, Dublin 6W",Dublin,455000.0,No,Terenure,Dublin 6W,q3,60%
+22/12/2010,"34 Fortfield Drive, Terenure",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+13/01/2011,"19 Wainsfort Crescent, Terenure",Dublin,364000.0,No,Terenure,Dublin 6W,q2,40%
+18/01/2011,"Apartment 7 The Grange, Laurel Place, Terenure Road West",Dublin,280000.0,No,Terenure,Dublin 6W,q1,20%
+28/01/2011,"53 Rathdown Park, Terenure, Dublin 6",Dublin,750000.0,No,Terenure,Dublin 6W,q4,90%
+04/02/2011,"149 Wainsfort Road, Terenure",Dublin,390000.0,No,Terenure,Dublin 6W,q2,40%
+08/02/2011,"50 Wainsfort Road, Terenure",Dublin,475000.0,No,Terenure,Dublin 6W,q3,60%
+10/02/2011,"4 Aideen Drive, Terenure, Dublin 6W",Dublin,200000.0,No,Terenure,Dublin 6W,q1,10%
+15/02/2011,"1 Tower View, Terenure, Dublin City",Dublin,557500.0,No,Terenure,Dublin 6W,q3,70%
+15/02/2011,"2A Greenlea Road, Terenure",Dublin,495000.0,No,Terenure,Dublin 6W,q3,60%
+17/02/2011,"3 Aideen Avenue, Terenure, Dublin 6W",Dublin,245000.0,No,Terenure,Dublin 6W,q1,20%
+17/02/2011,"57 Rathdown Park, Terenure, Dublin 6W",Dublin,1190000.0,No,Terenure,Dublin 6W,q4,100%
+21/02/2011,"10 Elm Park Terrace, Terenure, Dublin 6W",Dublin,230000.0,No,Terenure,Dublin 6W,q1,20%
+21/02/2011,"53 College Square, Wainsfort Manor Drive, Terenure",Dublin,761828.19,Yes,Terenure,Dublin 6W,q4,90%
+23/02/2011,"103 Terenue Road West, Terenure",Dublin,747500.0,No,Terenure,Dublin 6W,q4,90%
+24/02/2011,"Premises K/A No 31 Greenmount Road, Terenure  Dublin 6",Dublin,580000.0,No,Terenure,Dublin 6W,q3,70%
+02/03/2011,"56 Fernhill Road, Manor Estate, Terenure",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+07/03/2011,"88 Greenlea Road, Terenure, Dublin 6W",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+14/03/2011,"20 Fortfield Avenue, Terenure",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+16/03/2011,"17 Cormac Terrace, Terenure",Dublin,280000.0,No,Terenure,Dublin 6W,q1,20%
+16/03/2011,"17 Limekiln Close, Terenure, Dublin",Dublin,307000.0,No,Terenure,Dublin 6W,q1,30%
+25/03/2011,"16 Templeogue Road, Terenure",Dublin,255000.0,No,Terenure,Dublin 6W,q1,20%
+25/03/2011,"19 Fergus Road, Terenure, Dublin 6",Dublin,343000.0,No,Terenure,Dublin 6W,q2,30%
+25/03/2011,"36 Fortfield Park, Terenure",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+31/03/2011,"8 Wainsfort Manor Drive, Terenure",Dublin,437000.0,No,Terenure,Dublin 6W,q2,50%
+01/04/2011,"7 Mountdown Drive, Terenure",Dublin,275000.0,No,Terenure,Dublin 6W,q1,20%
+06/04/2011,"26 Fergus Road, Terenure, Dublin 6W",Dublin,360000.0,No,Terenure,Dublin 6W,q2,40%
+07/04/2011,"27  Greenlea Place, Terenure, Dublin 6W",Dublin,197500.0,No,Terenure,Dublin 6W,q1,10%
+08/04/2011,"8 Priory Walk, Manor Grove, Terenure",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+18/04/2011,"17 Glendale Park, Terenure, Dublin",Dublin,320000.0,No,Terenure,Dublin 6W,q1,30%
+20/04/2011,"86 Mount Tallant Avenue, Terenure",Dublin,210000.0,No,Terenure,Dublin 6W,q1,10%
+05/05/2011,"44 Fortfield Drive, Terenure, Dublin 6W",Dublin,503500.0,No,Terenure,Dublin 6W,q3,60%
+06/05/2011,"7 Wainsfort Manor Crescent, Terenure",Dublin,370000.0,No,Terenure,Dublin 6W,q2,40%
+09/05/2011,"15 Glenmurray Park, Terenure",Dublin,376500.0,No,Terenure,Dublin 6W,q2,40%
+10/05/2011,"12 Wellington Road, Terenure, Dublin 6W",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+13/05/2011,"184 Corrib Road, Terenure, Dublin 6W",Dublin,279000.0,No,Terenure,Dublin 6W,q1,20%
+13/05/2011,"51 College Square, Wainsfort Manor Drive, Terenure",Dublin,696036.0,Yes,Terenure,Dublin 6W,q4,90%
+27/05/2011,"175, Corrib Road, Terenure",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+03/06/2011,"7 Greenlea Grove, Terenure, Dublin",Dublin,515000.0,Yes,Terenure,Dublin 6W,q3,60%
+10/06/2011,"24 Fortfield Road, Terenure, Dublin 6W",Dublin,440000.0,No,Terenure,Dublin 6W,q2,50%
+14/06/2011,"21 Neagh Road, Terenure, Dublin 6W",Dublin,279000.0,No,Terenure,Dublin 6W,q1,20%
+15/06/2011,"30 Lavarna Grove, Terenure",Dublin,590000.0,No,Terenure,Dublin 6W,q3,70%
+24/06/2011,"33 Rathdown Park, Terenure",Dublin,1000000.0,No,Terenure,Dublin 6W,q4,100%
+29/06/2011,"20 Wainsfort Manor Grove, Terenure, Dublin 6",Dublin,260000.0,No,Terenure,Dublin 6W,q1,20%
+29/06/2011,"55 Parkmore Drive, Terenure",Dublin,530000.0,No,Terenure,Dublin 6W,q3,70%
+04/07/2011,"14 Hazelbrook Rd, Terenure, Dublin 6 W",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+05/07/2011,"2 Millgate Drive, Terenure, Dublin 6W",Dublin,342000.0,No,Terenure,Dublin 6W,q2,30%
+07/07/2011,"4 Maple Drive, Terenure",Dublin,259000.0,No,Terenure,Dublin 6W,q1,20%
+08/07/2011,"31 Wainsfort Crescent, Terenure, Dublin 6W",Dublin,335000.0,No,Terenure,Dublin 6W,q2,30%
+13/07/2011,"76 Fortfield Road, Terenure, Dublin 6W",Dublin,672800.0,No,Terenure,Dublin 6W,q4,80%
+14/07/2011,"26 Wainsfort Grove, Terenure",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+15/07/2011,"2 Greenlea Grove, Terenure",Dublin,560000.0,No,Terenure,Dublin 6W,q3,70%
+15/07/2011,"Apartment 16 Block A, Eaton Hall, Terenure Road North",Dublin,240000.0,No,Terenure,Dublin 6W,q1,20%
+22/07/2011,"89 The Cloisters, Mount Tallant Avenue, Terenure",Dublin,285000.0,No,Terenure,Dublin 6W,q1,30%
+27/07/2011,"66 Derravarragh Road, Terenure",Dublin,199950.0,No,Terenure,Dublin 6W,q1,10%
+28/07/2011,"Flat 8  Temple Hill, Terenure Road West, Dublin 6W",Dublin,245000.0,No,Terenure,Dublin 6W,q1,20%
+10/08/2011,"161 Wainsfort Road, Terenure, Dublin 6 W",Dublin,325000.0,No,Terenure,Dublin 6W,q2,30%
+11/08/2011,"44 Terenure Road North, Terenure",Dublin,317000.0,No,Terenure,Dublin 6W,q1,30%
+18/08/2011,"14 Fortfield Avenue, Terenure",Dublin,507000.0,No,Terenure,Dublin 6W,q3,60%
+18/08/2011,"35 Cedar Court, Terenure, Dublin 6W",Dublin,252000.0,No,Terenure,Dublin 6W,q1,20%
+19/08/2011,"27 Wainsfort Grove, Terenure",Dublin,397500.0,No,Terenure,Dublin 6W,q2,40%
+23/08/2011,"41 Eaton Square, Terenure, Dublin 6W",Dublin,565000.0,No,Terenure,Dublin 6W,q3,70%
+23/08/2011,"44 Priory Way, Manor Grove, Terenure",Dublin,308000.0,No,Terenure,Dublin 6W,q1,30%
+26/08/2011,"67 Derravaragh Raod, Terenure, Dublin 6W",Dublin,218000.0,No,Terenure,Dublin 6W,q1,10%
+02/09/2011,"9 Minnowbrook, Terenure Road East, Dublin 6W",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+02/09/2011,"Apt 29 Cherry Court, Mount Tallant Avenue, Terenure",Dublin,185000.0,No,Terenure,Dublin 6W,q1,10%
+09/09/2011,"7 Wainsfort Avenue, Terenure",Dublin,265000.0,No,Terenure,Dublin 6W,q1,20%
+16/09/2011,"47 Rathdown Drive, Terenure, Dublin",Dublin,590000.0,No,Terenure,Dublin 6W,q3,70%
+16/09/2011,"61 Bushy Park House, Templogue Road, Terenure",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+21/09/2011,"5 Eagle Hill Avenue, Terenure",Dublin,322000.0,No,Terenure,Dublin 6W,q2,30%
+29/09/2011,"92 The Cloisters, Terenure, Dublin 6W",Dublin,264000.0,No,Terenure,Dublin 6W,q1,20%
+30/09/2011,"19  Wainsfort Park, Terenure, Dublin 6W",Dublin,460000.0,No,Terenure,Dublin 6W,q3,60%
+03/10/2011,"39 Rathdown Drive, Terenure",Dublin,595000.0,No,Terenure,Dublin 6W,q3,70%
+04/10/2011,"92 Greenlea Road, Terenure",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+05/10/2011,"5 Eaton Court, Terenure, Dublin 6W",Dublin,195000.0,No,Terenure,Dublin 6W,q1,10%
+12/10/2011,"Apt. 114  Block 4, Bushy Park House, Terenure",Dublin,247000.0,No,Terenure,Dublin 6W,q1,20%
+24/10/2011,"Apartment 6, Horton Court, Terenure Road West",Dublin,170000.0,No,Terenure,Dublin 6W,q1,10%
+02/11/2011,"109 Melvin Rd., Terenure",Dublin,182500.0,No,Terenure,Dublin 6W,q1,10%
+03/11/2011,"37  Corrib Road, Terenure",Dublin,253000.0,No,Terenure,Dublin 6W,q1,20%
+04/11/2011,"15 Ashdale Road, Terenure, Dublin 6",Dublin,622000.0,No,Terenure,Dublin 6W,q3,80%
+10/11/2011,"1 College Crescent, Terenure, Dublin 6W",Dublin,320000.0,No,Terenure,Dublin 6W,q1,30%
+11/11/2011,"139  Corrib Road, Terenure",Dublin,225000.0,No,Terenure,Dublin 6W,q1,10%
+18/11/2011,"2 Alexandra Terrace, Terenure, Dublin 6W",Dublin,250000.0,No,Terenure,Dublin 6W,q1,20%
+18/11/2011,"32 Templeogue Road, Terenure, Dublin 6W",Dublin,332000.0,No,Terenure,Dublin 6W,q2,30%
+18/11/2011,"49  College Park, Terenure",Dublin,332000.0,No,Terenure,Dublin 6W,q2,30%
+21/11/2011,"18 Greenmount Lawns, Terenure",Dublin,275000.0,No,Terenure,Dublin 6W,q1,20%
+28/11/2011,"6 Parkmore Drive, Terenure",Dublin,555000.0,No,Terenure,Dublin 6W,q3,70%
+07/12/2011,"43 Corrib Road, Terenure, Dublin 6W",Dublin,260000.0,No,Terenure,Dublin 6W,q1,20%
+08/12/2011,"3 Ashdale Park, Terenure",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+09/12/2011,"75 Wainsfort Road, Terenure",Dublin,428000.0,No,Terenure,Dublin 6W,q2,50%
+12/12/2011,"19 Westbourne Road, Terenure",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+16/12/2011,"12 Mayfield Road, Terenure",Dublin,615000.0,No,Terenure,Dublin 6W,q3,80%
+21/12/2011,"89 Wainsfort Road, Terenure",Dublin,390000.0,No,Terenure,Dublin 6W,q2,40%
+23/12/2011,"6 Greenlea Grove, Terenure",Dublin,418502.2,Yes,Terenure,Dublin 6W,q2,50%
+06/01/2012,"1 Whitton Road, Terenure, Diblin 6W",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+06/01/2012,"6 Beechlawn Mews, Terenure",Dublin,182500.0,No,Terenure,Dublin 6W,q1,10%
+11/01/2012,"1 Eagle Hill Avenue, Terenure Road East, Dubliln 6W",Dublin,275000.0,No,Terenure,Dublin 6W,q1,20%
+12/01/2012,"18 Wainsfort Park, Terenure, Dublin 6W",Dublin,402000.0,No,Terenure,Dublin 6W,q2,50%
+16/01/2012,"13 Lavarna Road, Terenure",Dublin,475000.0,No,Terenure,Dublin 6W,q3,60%
+23/01/2012,"76 Hannaville Park, Terenure",Dublin,667000.0,No,Terenure,Dublin 6W,q4,80%
+27/01/2012,"3  Ashdale Road, Terenure, Dublin",Dublin,418000.0,No,Terenure,Dublin 6W,q2,50%
+01/02/2012,"33  Cremorne, Terenure Road East, Terenure",Dublin,245000.0,No,Terenure,Dublin 6W,q1,20%
+10/02/2012,"113 Fortfield Road, Terenure",Dublin,805000.0,No,Terenure,Dublin 6W,q4,90%
+27/02/2012,"31 The Laurels, Terenure Road West, Dublin 6W",Dublin,255000.0,No,Terenure,Dublin 6W,q1,20%
+01/03/2012,"Homestead, 19 Rathdown Park, Terenure",Dublin,1285000.0,No,Terenure,Dublin 6W,q4,100%
+05/03/2012,"80  Wainsfort Road, Terenure, Dublin 6W",Dublin,355000.0,No,Terenure,Dublin 6W,q2,40%
+06/03/2012,"7 Eaton Square, Terenure",Dublin,546000.0,No,Terenure,Dublin 6W,q3,70%
+12/03/2012,"5 Greenmount Road, Terenure, Dublin 6W",Dublin,755000.0,No,Terenure,Dublin 6W,q4,90%
+29/03/2012,"117 Terenure Road West, Dublin",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+03/04/2012,"16 Rathdown Crescent, Terenure",Dublin,1000000.0,No,Terenure,Dublin 6W,q4,100%
+03/04/2012,"5 Terenure Road West, Terenure",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+05/04/2012,"Apartment 54, Cremorne, Terenure Road East",Dublin,125000.0,No,Terenure,Dublin 6W,q1,10%
+13/04/2012,"43 Cedar Court, Terenure",Dublin,255000.0,No,Terenure,Dublin 6W,q1,20%
+26/04/2012,"13 College Drive, Terenure",Dublin,336500.0,No,Terenure,Dublin 6W,q2,30%
+26/04/2012,"53 Priory Way, Manor Grove, Terenure",Dublin,290000.0,No,Terenure,Dublin 6W,q1,30%
+03/05/2012,"13 Cremorne, Terenure, Dublin 6",Dublin,260000.0,No,Terenure,Dublin 6W,q1,20%
+08/05/2012,"30 Wasdale Park, Terenure, Dublin 6",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+09/05/2012,"188 Bushy Park House, Templogue Road, Terenure Dublin6",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+09/05/2012,"41 Fortfield Park, Terenure",Dublin,735000.0,No,Terenure,Dublin 6W,q4,90%
+30/05/2012,"14 Fergus Road, Terenure",Dublin,323000.0,No,Terenure,Dublin 6W,q2,30%
+01/06/2012,"11 Greenlea Park, Terenure, Dubln 6W",Dublin,475000.0,No,Terenure,Dublin 6W,q3,60%
+01/06/2012,"28 Larkfield Park, Terenure",Dublin,251000.0,No,Terenure,Dublin 6W,q1,20%
+08/06/2012,"26 Wainsfort Manor Crescent, Terenure",Dublin,365000.0,No,Terenure,Dublin 6W,q2,40%
+14/06/2012,"Apartment 171 Bushy Park House, Terenure",Dublin,230000.0,No,Terenure,Dublin 6W,q1,20%
+18/06/2012,"39 Cherry Court, Mount Tallant Ave, Terenure Dublin 6W",Dublin,130000.0,No,Terenure,Dublin 6W,q1,10%
+18/06/2012,"8 Oaklands Terrace, Terenure, Dublin",Dublin,225000.0,No,Terenure,Dublin 6W,q1,10%
+21/06/2012,"175 Fortfield Road, Terenure",Dublin,468750.0,No,Terenure,Dublin 6W,q3,60%
+28/06/2012,"34 Wainsfort Park, Terenure",Dublin,378000.0,No,Terenure,Dublin 6W,q2,40%
+28/06/2012,"9 Ashdale Avenue, Terenure, Dublin 6W",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+29/06/2012,"33 Fortfield Park, Terenure, Dublin 6W",Dublin,592000.0,No,Terenure,Dublin 6W,q3,70%
+01/07/2012,"101 Greenlea, Terenure, Dublin 6",Dublin,380000.0,No,Terenure,Dublin 6W,q2,40%
+03/07/2012,"124 Mount Tallant  Avenue, Terenure",Dublin,230000.0,No,Terenure,Dublin 6W,q1,20%
+10/07/2012,"42 Hannaville Park, Terenure",Dublin,520000.0,No,Terenure,Dublin 6W,q3,60%
+12/07/2012,"16 Fortfield Grove, Terenure, Dublin 6W",Dublin,506000.0,No,Terenure,Dublin 6W,q3,60%
+13/07/2012,"2 Cormac Terrace, Terenure",Dublin,280000.0,No,Terenure,Dublin 6W,q1,20%
+16/07/2012,"23 Mayfield Road, Terenure, Dublin 6W",Dublin,520000.0,No,Terenure,Dublin 6W,q3,60%
+20/07/2012,"11  Wainsfort Crescent, Terenure",Dublin,285000.0,No,Terenure,Dublin 6W,q1,30%
+30/07/2012,"97 Melvin Road, Terenure",Dublin,254000.0,No,Terenure,Dublin 6W,q1,20%
+03/08/2012,"106 Corrib Road, Terenure",Dublin,315000.0,No,Terenure,Dublin 6W,q1,30%
+03/08/2012,"52 Parkmore Drive, Terenure",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+09/08/2012,"16 Derravarragh Road, Terenure, Dublin 6W",Dublin,188000.0,No,Terenure,Dublin 6W,q1,10%
+10/08/2012,"12 Cherry Court, Mount Tallant Avenue, Terenure",Dublin,137500.0,No,Terenure,Dublin 6W,q1,10%
+17/08/2012,"41 The Crescent, Fortfield Square, Terenure",Dublin,242500.0,No,Terenure,Dublin 6W,q1,20%
+22/08/2012,"5 Cormac Terrace, Terenure, Dublin 6W",Dublin,199000.0,No,Terenure,Dublin 6W,q1,10%
+24/08/2012,"16 Wainsfort Road, Terenure",Dublin,455000.0,No,Terenure,Dublin 6W,q3,60%
+24/08/2012,"3 Fortfield Square, Fortfield Grove, Terenure Dublin6W",Dublin,423080.0,Yes,Terenure,Dublin 6W,q2,50%
+27/08/2012,"17 Priory Way, Terenure, Dublin 6W",Dublin,344000.0,No,Terenure,Dublin 6W,q2,40%
+29/08/2012,"93 Templeogue Road, Terenure",Dublin,635000.0,No,Terenure,Dublin 6W,q3,80%
+31/08/2012,"18 Cedar Court, Mount Tallant Avenue, Terenure",Dublin,234000.0,No,Terenure,Dublin 6W,q1,20%
+31/08/2012,"38 Terenure Rd West, Terenure",Dublin,406500.0,No,Terenure,Dublin 6W,q2,50%
+03/09/2012,"121 Corrib Road, Terenure, Dublin 6",Dublin,315000.0,No,Terenure,Dublin 6W,q1,30%
+14/09/2012,"38 Rathdown Drive, Terenure",Dublin,640000.0,No,Terenure,Dublin 6W,q3,80%
+17/09/2012,"36 Lavarna Road, Terenure",Dublin,450000.0,No,Terenure,Dublin 6W,q2,50%
+21/09/2012,"45 Fortfield Grove, Terenure, Dublin6W",Dublin,670000.0,No,Terenure,Dublin 6W,q4,80%
+24/09/2012,"8 Mcmorrough Road, Terenure",Dublin,260000.0,No,Terenure,Dublin 6W,q1,20%
+28/09/2012,"61 Derravaragh Road, Terenure, Dublin 6W",Dublin,342000.0,No,Terenure,Dublin 6W,q2,30%
+01/10/2012,"41 Mountdown Park, Terenure, Dublin 12",Dublin,211000.0,No,Terenure,Dublin 6W,q1,10%
+10/10/2012,"15 Priory Way, Manor Grove, Terenure",Dublin,335000.0,No,Terenure,Dublin 6W,q2,30%
+18/10/2012,"39 Aideen Road, Terenure, Dublin",Dublin,210000.0,No,Terenure,Dublin 6W,q1,10%
+25/10/2012,"71  Terenure Road North, Terenure",Dublin,410000.0,No,Terenure,Dublin 6W,q2,50%
+05/11/2012,"No 41 Templeville Road, Terenure",Dublin,555000.0,No,Terenure,Dublin 6W,q3,70%
+07/11/2012,"17 College Square, Wainsfort Manor Drive, Terenure",Dublin,525000.0,Yes,Terenure,Dublin 6W,q3,70%
+08/11/2012,"Apartment 15 Block B, Temple Hill, Terenure",Dublin,177500.0,No,Terenure,Dublin 6W,q1,10%
+09/11/2012,"177 Bushy Park House, Terenure, Dublin 6W",Dublin,250000.0,No,Terenure,Dublin 6W,q1,20%
+09/11/2012,"35 St. Anne'S, Kimmage Road West, Terenure",Dublin,200000.0,No,Terenure,Dublin 6W,q1,10%
+16/11/2012,"18 Mayfield Road, Terenure",Dublin,545000.0,No,Terenure,Dublin 6W,q3,70%
+27/11/2012,"Apartment 42, Bushy Park House, Terenure",Dublin,247000.0,No,Terenure,Dublin 6W,q1,20%
+28/11/2012,"44 College Square, Manor Drive, Terenure",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+30/11/2012,"16 Wasdale Grove, Terenure, Dublin 6W",Dublin,560000.0,No,Terenure,Dublin 6W,q3,70%
+03/12/2012,"30 Lavarna Grove, Terenure",Dublin,575000.0,No,Terenure,Dublin 6W,q3,70%
+04/12/2012,"12 Wainsfort Road, Terenure",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+04/12/2012,"23 Eaton Square, Terenure",Dublin,861000.0,No,Terenure,Dublin 6W,q4,100%
+07/12/2012,"34A Fergus Road, Terenure, Dublin 6W",Dublin,417500.0,No,Terenure,Dublin 6W,q2,50%
+07/12/2012,"Apartment 7 Priory Hall, Terenure, Dublin",Dublin,183000.0,No,Terenure,Dublin 6W,q1,10%
+10/12/2012,"Apartment 87  C Remorne, Greenmount Road, Terenure",Dublin,125000.0,No,Terenure,Dublin 6W,q1,10%
+13/12/2012,"3 Greenlea Road, Terenure, Dublin 6W",Dublin,441000.0,No,Terenure,Dublin 6W,q2,50%
+14/12/2012,"130 Corrib Road, Terenure",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+17/12/2012,"5 Laverna Grove, Terenure, Dublin 6W",Dublin,615000.0,No,Terenure,Dublin 6W,q3,80%
+17/12/2012,"53 Neagh Road, Terenure",Dublin,165000.0,No,Terenure,Dublin 6W,q1,10%
+18/12/2012,"181 Kimmage Road West, Terenure, Dublin 6",Dublin,290000.0,No,Terenure,Dublin 6W,q1,30%
+18/12/2012,"4 Fortfield Avenue, Terenure, Dublin 6W",Dublin,494000.0,No,Terenure,Dublin 6W,q3,60%
+20/12/2012,"124 Bushy Park House, Terenure, Dublin 6W",Dublin,240000.0,No,Terenure,Dublin 6W,q1,20%
+20/12/2012,"13 Hazelbrook Court, Terenure Road West",Dublin,250000.0,No,Terenure,Dublin 6W,q1,20%
+20/12/2012,"189 Bushy Park House, Templeogue Road, Terenure",Dublin,545000.0,No,Terenure,Dublin 6W,q3,70%
+20/12/2012,"36 St. Enda'S Road, Terenure",Dublin,285000.0,No,Terenure,Dublin 6W,q1,30%
+21/12/2012,"10 Minnowbrook, Terenure Road West",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+21/12/2012,"21 Wasdale Park, Terenure, Part Folio Dn195653F",Dublin,760000.0,No,Terenure,Dublin 6W,q4,90%
+21/12/2012,"4 Wainsfort Manor Green, Terenure, Dublin 6 W",Dublin,375000.0,No,Terenure,Dublin 6W,q2,40%
+21/12/2012,"5 Greentrees Drive, Terenure, Dublin 12",Dublin,345000.0,No,Terenure,Dublin 6W,q2,40%
+21/12/2012,"51  Neagh Road, Terenure",Dublin,215000.0,No,Terenure,Dublin 6W,q1,10%
+31/12/2012,"59 Parkmore Drive, Terenure",Dublin,447500.0,No,Terenure,Dublin 6W,q2,50%
+03/01/2013,"Apartment 57, Fortfield Square, Terenure",Dublin,290748.0,Yes,Terenure,Dublin 6W,q1,30%
+05/01/2013,"6 Hannaville Park, Terenure, Dublin 6W",Dublin,715000.0,No,Terenure,Dublin 6W,q4,90%
+16/01/2013,"5 Riversdale Avenue, Terenure",Dublin,620000.0,No,Terenure,Dublin 6W,q3,80%
+17/01/2013,"109 Fortfield Road, Terenure",Dublin,510000.0,No,Terenure,Dublin 6W,q3,60%
+17/01/2013,"36 The Courtyard, College Drive  Fortfield Square, Terenure",Dublin,215859.03,Yes,Terenure,Dublin 6W,q1,10%
+17/01/2013,"36 The Crescent, College Drive  Fortfield Square, Terenure",Dublin,140969.16,Yes,Terenure,Dublin 6W,q1,10%
+18/01/2013,"83 Greenlea Road, Terenure",Dublin,534000.0,No,Terenure,Dublin 6W,q3,70%
+25/01/2013,"Apt 19 Temple Hill, Terenure, Dublin 6W",Dublin,207000.0,No,Terenure,Dublin 6W,q1,10%
+13/02/2013,"121 Mount Tallant Avenue, Terenure",Dublin,250000.0,No,Terenure,Dublin 6W,q1,20%
+13/02/2013,"8 Limekiln Drive, Terenure, Dublin 12",Dublin,325000.0,No,Terenure,Dublin 6W,q2,30%
+15/02/2013,"8 College Square, Wainsford Manor Drive, Terenure",Dublin,520000.0,Yes,Terenure,Dublin 6W,q3,60%
+15/02/2013,"Hildon, 51 Rathdown Park, Terenure",Dublin,1260000.0,No,Terenure,Dublin 6W,q4,100%
+25/02/2013,"24 Hannaville Park, Terenure",Dublin,705000.0,No,Terenure,Dublin 6W,q4,90%
+01/03/2013,"50 Terenure Road North, Terenure",Dublin,90000.0,No,Terenure,Dublin 6W,q1,10%
+08/03/2013,"Apt. 39 The Courtyard, Fortfield Square, Terenure",Dublin,311400.0,Yes,Terenure,Dublin 6W,q1,30%
+12/03/2013,"21 Eaton Road, Terenure, Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+12/03/2013,"22 Wainsfort Park, Terenure, Dublin 6W",Dublin,455000.0,No,Terenure,Dublin 6W,q3,60%
+22/03/2013,"34 Rathdown Avenue, Terenure, Dublin 6W",Dublin,570000.0,No,Terenure,Dublin 6W,q3,70%
+27/03/2013,"16 Wainsfort Drive, Terenure",Dublin,455000.0,No,Terenure,Dublin 6W,q3,60%
+12/04/2013,"32 The Courtyard, College Drive, Fortfield Square  Terenure",Dublin,257500.0,Yes,Terenure,Dublin 6W,q1,20%
+12/04/2013,"Apartment 2  Annesley Lodge, 76A Terenure Road East, Dublin 6",Dublin,122000.0,No,Terenure,Dublin 6W,q1,10%
+12/04/2013,"The Coachhouse, 31 Terenure Road East, Dublin 6",Dublin,515000.0,No,Terenure,Dublin 6W,q3,60%
+15/04/2013,"30 The Courtyard, Fortfield Square, Terenure  Dublin 6W",Dublin,282500.0,No,Terenure,Dublin 6W,q1,30%
+16/04/2013,"34 Fortfield Avenue, Terenure",Dublin,412500.0,No,Terenure,Dublin 6W,q2,50%
+17/04/2013,"Apartment 24 Cherry Court, Mount Tallant Avenue, Terenure",Dublin,150000.0,No,Terenure,Dublin 6W,q1,10%
+19/04/2013,"7 Derravaragh Road, Terenure, Dublin 6W",Dublin,295000.0,No,Terenure,Dublin 6W,q1,30%
+24/04/2013,"36 Hannaville Park, Terenure, Dublin 6W",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+25/04/2013,"60 Rathdown Avenue, Terenure",Dublin,609000.0,No,Terenure,Dublin 6W,q3,80%
+26/04/2013,"78 Bushy Park House, Templeogue Road, Terenure",Dublin,275000.0,No,Terenure,Dublin 6W,q1,20%
+30/04/2013,"76 Rathdown Park, Terenure, Dublin 6",Dublin,895000.0,No,Terenure,Dublin 6W,q4,100%
+30/04/2013,"Apt. 115 Bushy Park House, Templeogue Road, Terenure",Dublin,280000.0,No,Terenure,Dublin 6W,q1,20%
+01/05/2013,"45 Terenure Road North, Terenure",Dublin,475000.0,No,Terenure,Dublin 6W,q3,60%
+13/05/2013,"29 Ashfield Park, Terenure",Dublin,499500.0,No,Terenure,Dublin 6W,q3,60%
+14/05/2013,"23 Fortfield Road, Terenure, Dublin 6W",Dublin,375000.0,No,Terenure,Dublin 6W,q2,40%
+14/05/2013,"4 Wainsfort Road, Terenure, Dublin 6W",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+15/05/2013,"29 Temple Hill, Terenure Road Wset, Dublin 6",Dublin,175000.0,No,Terenure,Dublin 6W,q1,10%
+17/05/2013,"8 Fortfield Square, Terenure",Dublin,560000.0,No,Terenure,Dublin 6W,q3,70%
+21/05/2013,"17 Fortfield Road, Terenure, Dublin 6W",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+22/05/2013,"22 Fortfield Grove, Terenure, Dublin 6W",Dublin,520000.0,No,Terenure,Dublin 6W,q3,60%
+24/05/2013,"90 Greenlea Road, Terenure",Dublin,705000.0,No,Terenure,Dublin 6W,q4,90%
+26/05/2013,"27 Ashdale Road, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+27/05/2013,"13 Ashfield Park, Terenure",Dublin,625000.0,No,Terenure,Dublin 6W,q3,80%
+30/05/2013,"30 Fortfield Park, Terenure, Dublin 6 W",Dublin,675000.0,No,Terenure,Dublin 6W,q4,80%
+30/05/2013,"35 Bushy Park House, Terenure",Dublin,233500.0,No,Terenure,Dublin 6W,q1,20%
+30/05/2013,"5 Rathmore Villas, Terenure",Dublin,210000.0,No,Terenure,Dublin 6W,q1,10%
+31/05/2013,"2 Cherry Court, Mount Tallant Avenue, Terenure",Dublin,146000.0,No,Terenure,Dublin 6W,q1,10%
+11/06/2013,"43 Lower Kimmage Road, Terenure",Dublin,265000.0,No,Terenure,Dublin 6W,q1,20%
+14/06/2013,"5 Beechlawn Manor, Terenure",Dublin,195000.0,No,Terenure,Dublin 6W,q1,10%
+20/06/2013,"33 St. Enda'S Road, Terenure",Dublin,278000.0,No,Terenure,Dublin 6W,q1,20%
+28/06/2013,"1 Greenlea Grove, Terenure, Dublin 6W",Dublin,615000.0,No,Terenure,Dublin 6W,q3,80%
+28/06/2013,"15 Rathdown Villas, Terenure",Dublin,563000.0,No,Terenure,Dublin 6W,q3,70%
+05/07/2013,"6 Ashdale Avenue, Terenure, Dublin 6W",Dublin,398000.0,No,Terenure,Dublin 6W,q2,40%
+12/07/2013,"2 Olney Grove, Terenure",Dublin,525000.0,No,Terenure,Dublin 6W,q3,70%
+12/07/2013,"30 Terenure Road East, Rathgar",Dublin,1080000.0,No,Terenure,Dublin 6W,q4,100%
+17/07/2013,"33A Terenure Road East, Rathgar, Dublin 6",Dublin,1350000.0,No,Terenure,Dublin 6W,q4,100%
+25/07/2013,"60 Derravaragh Road, Terenure",Dublin,247000.0,No,Terenure,Dublin 6W,q1,20%
+26/07/2013,"Apartment 7  Minnowbrook, Terenure Road West, Terenure",Dublin,275000.0,No,Terenure,Dublin 6W,q1,20%
+29/07/2013,"14A Terenure Road North, Terenure",Dublin,370000.0,No,Terenure,Dublin 6W,q2,40%
+29/07/2013,"36 Cherry Court, Mount Tallant Avenue, Terenure",Dublin,145000.0,No,Terenure,Dublin 6W,q1,10%
+31/07/2013,"Apt 33 The Courtyard, Fortfield Square, College Drive  Terenure",Dublin,248898.0,Yes,Terenure,Dublin 6W,q1,20%
+13/08/2013,"14 Maple Drive  The Cloisters, Terenure, Dublin 6W",Dublin,295000.0,No,Terenure,Dublin 6W,q1,30%
+15/08/2013,"15 Wainsfort Drive, Terenure",Dublin,452500.0,No,Terenure,Dublin 6W,q3,60%
+18/08/2013,"5 Wainsfort Manor Drive, Terenure",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+21/08/2013,"18 Eaton Square, Terenure, Dublin 6W",Dublin,695000.0,No,Terenure,Dublin 6W,q4,90%
+21/08/2013,"73 Terenure Road North, Dublin 6W",Dublin,455507.0,No,Terenure,Dublin 6W,q3,60%
+23/08/2013,"36 Fortfield Square, College Drive, Terenure",Dublin,506960.0,Yes,Terenure,Dublin 6W,q3,60%
+27/08/2013,"38 Wainsfort Road, Terenure, Dublin",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+30/08/2013,"10  Greentrees Road, Manor Estate, Terenure",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+03/09/2013,"35 Priory Walk, Terenure, Dublin 6W",Dublin,445000.0,No,Terenure,Dublin 6W,q2,50%
+04/09/2013,"71 Templeville Road, Terenure",Dublin,485000.0,No,Terenure,Dublin 6W,q3,60%
+05/09/2013,"68 Parkmore Drive, Terenure",Dublin,655000.0,No,Terenure,Dublin 6W,q4,80%
+10/09/2013,"19 The Orchard, Fortfield Road, Terenure",Dublin,529000.0,No,Terenure,Dublin 6W,q3,70%
+11/09/2013,"1 College Square, Wainsfort Manor Drive, Terenure",Dublin,587475.0,Yes,Terenure,Dublin 6W,q3,70%
+12/09/2013,"50 Parkmore Drive, Terenure",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+16/09/2013,"25 Aideen Drive, Lower Kimmage Road, Terenure",Dublin,370000.0,No,Terenure,Dublin 6W,q2,40%
+18/09/2013,"30 Fortfield Square, Terenure",Dublin,511013.22,Yes,Terenure,Dublin 6W,q3,60%
+19/09/2013,"49 Bushy Park House, Templeogue Road, Terenure",Dublin,270000.0,No,Terenure,Dublin 6W,q1,20%
+20/09/2013,"17 Fergus Road, Terenure",Dublin,425000.0,No,Terenure,Dublin 6W,q2,50%
+20/09/2013,"28 Limrkiln Road, Terenure, Dublin 12",Dublin,305000.0,No,Terenure,Dublin 6W,q1,30%
+24/09/2013,"14 Corrib Road, Terenure",Dublin,280000.0,No,Terenure,Dublin 6W,q1,20%
+25/09/2013,"103 Corrib Road, Terenure, Dublin 6W",Dublin,399950.0,No,Terenure,Dublin 6W,q2,40%
+25/09/2013,"5 Eaton Road, Terenure",Dublin,589000.0,No,Terenure,Dublin 6W,q3,70%
+26/09/2013,"37 Wasdale Park, Terenure",Dublin,695000.0,No,Terenure,Dublin 6W,q4,90%
+26/09/2013,"398 Harolds Cross Road, Terenure, Dublin 6W",Dublin,482759.0,No,Terenure,Dublin 6W,q3,60%
+27/09/2013,"10 Greenlea Road, Terenure, Dublin 6W",Dublin,305000.0,No,Terenure,Dublin 6W,q1,30%
+27/09/2013,"93 The Cloisters, Terenure",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+04/10/2013,"126 Bushy Park House, Templeogue Road, Terenure",Dublin,300000.0,No,Terenure,Dublin 6W,q1,30%
+07/10/2013,"3 Healthfield Road, Terenure, Dublin 6W",Dublin,865000.0,No,Terenure,Dublin 6W,q4,100%
+10/10/2013,"193 Bushy Park House, Templeogue Road, Terenure",Dublin,300000.0,No,Terenure,Dublin 6W,q1,30%
+11/10/2013,"14 Terenure Road North, Terenure, Dublin 6W",Dublin,360000.0,No,Terenure,Dublin 6W,q2,40%
+11/10/2013,"23 Glenavy Park, Terenure",Dublin,665000.0,No,Terenure,Dublin 6W,q4,80%
+17/10/2013,"18 Westbourne Road, Terenure",Dublin,810000.0,No,Terenure,Dublin 6W,q4,90%
+18/10/2013,"72 Neagh Road, Terenure",Dublin,255000.0,No,Terenure,Dublin 6W,q1,20%
+21/10/2013,"29 Wasdale Park, Terenure",Dublin,842000.0,No,Terenure,Dublin 6W,q4,100%
+22/10/2013,"11 Minnowbrook, Terenure Road West",Dublin,445000.0,No,Terenure,Dublin 6W,q2,50%
+23/10/2013,"5 Eaglehill Avenue, Terenure",Dublin,366500.0,No,Terenure,Dublin 6W,q2,40%
+23/10/2013,"No 348 Lower Kimmage Road, Terenure, Dublin 6W",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+25/10/2013,"21 Wainsfort Drive, Terenure",Dublin,457000.0,No,Terenure,Dublin 6W,q3,60%
+25/10/2013,"4 Mount Tallant Avenue, Terenure, Dublin 6W",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+07/11/2013,"145 Templeogue Rd, Terenure, Dublin 6W",Dublin,980000.0,No,Terenure,Dublin 6W,q4,100%
+07/11/2013,"6 Olney Grove, Terenure, Dublin 6W",Dublin,565000.0,No,Terenure,Dublin 6W,q3,70%
+12/11/2013,"158 Corrib Road, Terenure",Dublin,354500.0,No,Terenure,Dublin 6W,q2,40%
+15/11/2013,"26 Parkmore Dr, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+15/11/2013,"29 The Courtyard, Fortfield Square, Terenure",Dublin,240088.0,Yes,Terenure,Dublin 6W,q1,20%
+15/11/2013,"35 Fortfield Square, College Drive, Terenure",Dublin,550000.0,Yes,Terenure,Dublin 6W,q3,70%
+15/11/2013,"55 Wainsfort Road, Terenure",Dublin,423000.0,No,Terenure,Dublin 6W,q2,50%
+18/11/2013,"Apt 27 The Crescent, Fortfield Square, Fortfield Grove  Terenure",Dublin,190000.0,No,Terenure,Dublin 6W,q1,10%
+22/11/2013,"129 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,235000.0,No,Terenure,Dublin 6W,q1,20%
+22/11/2013,"189 Corrib Rd, Terenure, Dublin 6W",Dublin,295000.0,No,Terenure,Dublin 6W,q1,30%
+25/11/2013,"22 Mountdown Park, Terenure, Dublin 12",Dublin,390000.0,No,Terenure,Dublin 6W,q2,40%
+26/11/2013,"6 Cranford, Terenure",Dublin,790000.0,No,Terenure,Dublin 6W,q4,90%
+29/11/2013,"18 College Square, Wainsfort Manor Drive, Terenure",Dublin,493392.07,Yes,Terenure,Dublin 6W,q3,60%
+29/11/2013,"Avondale, 345 Harolds Cross Rd, Terenure Dublin 6W",Dublin,490000.0,No,Terenure,Dublin 6W,q3,60%
+02/12/2013,"18 Heathfield Road, Terenure",Dublin,1150000.0,No,Terenure,Dublin 6W,q4,100%
+04/12/2013,"120 Wainsfort Rd, Terenure, Dublin 6W",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+05/12/2013,"24 Terenure Rd West, Terenure, Dublin 6W",Dublin,515000.0,No,Terenure,Dublin 6W,q3,60%
+12/12/2013,"15 Hyde Park, Terenure, Dublin 6",Dublin,935000.0,No,Terenure,Dublin 6W,q4,100%
+12/12/2013,"2 College Sq, Terenure",Dublin,581500.0,Yes,Terenure,Dublin 6W,q3,70%
+12/12/2013,"39 Priory Walk, Terenure, Dublin 14",Dublin,445000.0,No,Terenure,Dublin 6W,q2,50%
+13/12/2013,"141 Corrib Rd, Terenure, Dublin 6W",Dublin,305000.0,No,Terenure,Dublin 6W,q1,30%
+13/12/2013,"20 Priory Way, Manor Grove, Terenure Dublin 12",Dublin,410000.0,No,Terenure,Dublin 6W,q2,50%
+16/12/2013,"37 Fortfield Sq, Terenure, Dublin",Dublin,253000.0,No,Terenure,Dublin 6W,q1,20%
+16/12/2013,"60 College Square, Wainsfort Manor Drive, Terenure",Dublin,550000.0,Yes,Terenure,Dublin 6W,q3,70%
+19/12/2013,"57 College Sq, Wainsfort Manor Drive, Terenure",Dublin,502202.64,Yes,Terenure,Dublin 6W,q3,60%
+19/12/2013,"57 Parkmore Dr, Terenure, Dublin 6W",Dublin,515000.0,No,Terenure,Dublin 6W,q3,60%
+19/12/2013,"9 Fergus Rd, Terenure, Dublin City",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+20/12/2013,"37 Cedar Court, Mount Tallant Avenue, Terenure",Dublin,312000.0,No,Terenure,Dublin 6W,q1,30%
+20/12/2013,"38 Hazelbrook Rd, Terenure, Dublin 6",Dublin,570000.0,No,Terenure,Dublin 6W,q3,70%
+20/12/2013,"98 Bushy Park House, Terenure, Dublin",Dublin,295000.0,No,Terenure,Dublin 6W,q1,30%
+03/01/2014,"19 Fortfield Dr, Terenure, Dublin 6W",Dublin,850000.0,No,Terenure,Dublin 6W,q4,100%
+03/01/2014,"34 Mountdown Park, Mountdown East, Terenure Dublin 12",Dublin,640000.0,No,Terenure,Dublin 6W,q3,80%
+03/01/2014,"55 College Square, Terenure",Dublin,447200.0,Yes,Terenure,Dublin 6W,q2,50%
+09/01/2014,"30 Melvin Rd Terenure, Dublin 6W, Dublin",Dublin,440000.0,No,Terenure,Dublin 6W,q2,50%
+09/01/2014,"7 Eagle Hill Ave, Terenure, Dublin 6W",Dublin,354000.0,No,Terenure,Dublin 6W,q2,40%
+09/01/2014,"88 Templeville Rd, Terenure, Dublin 6W",Dublin,490000.0,No,Terenure,Dublin 6W,q3,60%
+17/01/2014,"56 College Square, Wainsfort Manor Drive, Terenure",Dublin,525932.0,Yes,Terenure,Dublin 6W,q3,70%
+24/01/2014,"29 Corrib Road, Terenure",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+24/01/2014,"37  The Courtyard, College Drive  Fortfield, Square  Terenure  D6W",Dublin,343612.33,Yes,Terenure,Dublin 6W,q2,30%
+30/01/2014,"10 College Square, Wainsfort Manor Drive, Terenure",Dublin,555066.07,Yes,Terenure,Dublin 6W,q3,70%
+30/01/2014,"13 Fortfield Drive, Terenure, Dublin 6W",Dublin,925000.0,No,Terenure,Dublin 6W,q4,100%
+31/01/2014,"13 Temple Hill, Terenure Road West, Terenure",Dublin,226000.0,No,Terenure,Dublin 6W,q1,10%
+05/02/2014,"70 Parkmore Dr, Terenure, Dublin 6W",Dublin,610000.0,No,Terenure,Dublin 6W,q3,80%
+11/02/2014,"11 Loughmourne House, Terenure Rd, Terenure Dublin 6W",Dublin,280000.0,No,Terenure,Dublin 6W,q1,20%
+11/02/2014,"400 Harolds Cross Road, Terenure, Dublin 6W",Dublin,442500.0,No,Terenure,Dublin 6W,q2,50%
+12/02/2014,"19 Fortfield Rd, Terenure, Dublin 6W",Dublin,425000.0,No,Terenure,Dublin 6W,q2,50%
+12/02/2014,"75 Terenure Road North, Terenure, Dublin 6",Dublin,360000.0,No,Terenure,Dublin 6W,q2,40%
+13/02/2014,"41 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,410000.0,No,Terenure,Dublin 6W,q2,50%
+14/02/2014,"26 Priory Walk, Terenure, Dublin 12",Dublin,509925.0,No,Terenure,Dublin 6W,q3,60%
+14/02/2014,"37 Fortfield Square, Terenure",Dublin,519824.0,Yes,Terenure,Dublin 6W,q3,60%
+19/02/2014,"96 Corrib Rd, Terenure, Dublin 6W",Dublin,308000.0,No,Terenure,Dublin 6W,q1,30%
+26/02/2014,"16 College Dr, Terenure, Dublin 6W",Dublin,465000.0,No,Terenure,Dublin 6W,q3,60%
+26/02/2014,"7 College Park, Terenure",Dublin,505000.0,No,Terenure,Dublin 6W,q3,60%
+27/02/2014,"64 Melvin Rd, Terenure, Dublin 6W",Dublin,10000.0,No,Terenure,Dublin 6W,q1,10%
+28/02/2014,"19 Ashdale Rd, Terenure, Dublin 6W",Dublin,675000.0,No,Terenure,Dublin 6W,q4,80%
+06/03/2014,"11 Eaton Rd, Terenure, Dublin 6W",Dublin,345000.0,No,Terenure,Dublin 6W,q2,40%
+07/03/2014,"3 Olney Crescent, Terenure, Dublin 6W",Dublin,572000.0,No,Terenure,Dublin 6W,q3,70%
+07/03/2014,"8 The Laurels, Terenure Rd West, Dublin 6W",Dublin,310000.0,No,Terenure,Dublin 6W,q1,30%
+10/03/2014,"111 Melvin Rd, Terenure, Dublin 6W",Dublin,310000.0,No,Terenure,Dublin 6W,q1,30%
+11/03/2014,"12 Beechlawn Mews, Terenure, Dublin 6W",Dublin,190000.0,No,Terenure,Dublin 6W,q1,10%
+14/03/2014,"47 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,230000.0,No,Terenure,Dublin 6W,q1,20%
+18/03/2014,"No 5 Alexandra Terrace, Terenure, Dublin 6",Dublin,150000.0,No,Terenure,Dublin 6W,q1,10%
+20/03/2014,"4 College Square, Wainsfort Manor Drive, Terenure Dublin 6W",Dublin,581500.0,Yes,Terenure,Dublin 6W,q3,70%
+24/03/2014,"10 The Hall, Laurel Place, Terenure Rd West Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+25/03/2014,"71 Bushy Park House, Terenure Rd, Terenure Dublin 6W",Dublin,300000.0,No,Terenure,Dublin 6W,q1,30%
+26/03/2014,"22 College Square, Wainsfort Manor Drive, Terenure",Dublin,484500.0,Yes,Terenure,Dublin 6W,q3,60%
+26/03/2014,"29 College Park, Terenure, Dublin 6W",Dublin,290000.0,No,Terenure,Dublin 6W,q1,30%
+27/03/2014,"23 The Laurels, Terenure Rd West, Dublin 6",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+28/03/2014,"21 College Square, Wainsfort Manor Drive, Terenure",Dublin,536101.32,Yes,Terenure,Dublin 6W,q3,70%
+28/03/2014,"Apt 4, Loughmore House, Terenure Rd West Dublin 6W",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+31/03/2014,"58 College Square, Wainsfort Manor Drive, Terenure",Dublin,470425.11,Yes,Terenure,Dublin 6W,q3,60%
+31/03/2014,"69 Templeville Rd, Terenure, Dublin 6W",Dublin,630000.0,No,Terenure,Dublin 6W,q3,80%
+01/04/2014,"11 Fortfield Park, Terenure, Dublin 6W",Dublin,800000.0,No,Terenure,Dublin 6W,q4,90%
+01/04/2014,"54 Hazelbrook Road, Terenure, Dublin6W",Dublin,608000.0,No,Terenure,Dublin 6W,q3,80%
+07/04/2014,"48 Hazelbrook Rd, Terenure, Dublin 6",Dublin,521000.0,No,Terenure,Dublin 6W,q3,60%
+08/04/2014,"4 Elm Park Terrace, Terenure, Dublin 6W",Dublin,345000.0,No,Terenure,Dublin 6W,q2,40%
+10/04/2014,"59 College Square, Wainsfort Manor Drive, Terenure",Dublin,475750.0,Yes,Terenure,Dublin 6W,q3,60%
+15/04/2014,"16 Aideen Drive, Terenure, Dublin 6W",Dublin,307000.0,No,Terenure,Dublin 6W,q1,30%
+15/04/2014,"1St Floor Apt, 3 Terenure Road, North",Dublin,75000.0,No,Terenure,Dublin 6W,q1,10%
+16/04/2014,"12 Hazelbrook Rd, Terenure, Dublin 6W",Dublin,660000.0,No,Terenure,Dublin 6W,q4,80%
+16/04/2014,"54 Templeville Dr, Terenure, Dublin 6",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+17/04/2014,"23 College Square, Wainsford Manor Drive, Terenure",Dublin,484581.48,Yes,Terenure,Dublin 6W,q3,60%
+24/04/2014,"4 Fortfield Dr, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+25/04/2014,"34 Fortfield Square, Terenure, Dublin 6W",Dublin,645000.0,Yes,Terenure,Dublin 6W,q4,80%
+30/04/2014,"22 Derravaragh Rd, Terenure, Dublin 6W",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+30/04/2014,"3 Cranford, Terenure Rd West, Terenure Dublin 6W",Dublin,840000.0,No,Terenure,Dublin 6W,q4,100%
+30/04/2014,"38 St Endas Rd, Terenure, Dublin 6",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+02/05/2014,"11 The Crescent, Fortfield Square, Terenure",Dublin,375000.0,Yes,Terenure,Dublin 6W,q2,40%
+13/05/2014,"59 The Crescent, Fortfield Square, Terenure",Dublin,343612.33,Yes,Terenure,Dublin 6W,q2,30%
+14/05/2014,"40 Fortfield Rd, Terenure, Dublin 6W",Dublin,675000.0,No,Terenure,Dublin 6W,q4,80%
+16/05/2014,"10 Cormac Terrace, Terenure, Dublin",Dublin,186000.0,No,Terenure,Dublin 6W,q1,10%
+16/05/2014,"138 Bushy Park House, Terenure, Dublin 6W",Dublin,387000.0,No,Terenure,Dublin 6W,q2,40%
+21/05/2014,"30 College Park, Terenure, Dublin 6W",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+21/05/2014,"33 Fortfield Square, Terenure, Dublin 6W",Dublin,533039.64,Yes,Terenure,Dublin 6W,q3,70%
+22/05/2014,"3 Greenmount Lawns, Terenure, Dublin 6",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+23/05/2014,"9 Fortfield Rd, Terenure, Dublin 6W",Dublin,540000.0,No,Terenure,Dublin 6W,q3,70%
+26/05/2014,"1 Rathdown Villas, Terenure, Dublin 6 W",Dublin,920000.0,No,Terenure,Dublin 6W,q4,100%
+27/05/2014,"20 College Square, Wainsfort Manor Drive, Terenure",Dublin,502202.0,Yes,Terenure,Dublin 6W,q3,60%
+28/05/2014,"6 Greenlea Ave, Terenure, Dublin 6W",Dublin,830000.0,No,Terenure,Dublin 6W,q4,100%
+29/05/2014,"44 Priory Walk, Manor Grove, Terenure Dublin 12",Dublin,505000.0,No,Terenure,Dublin 6W,q3,60%
+30/05/2014,"12 The Orchard, Fortfield Rd, Terenure Dublin 6W",Dublin,582500.0,No,Terenure,Dublin 6W,q3,70%
+30/05/2014,"25 Westbourne Rd, Terenure, Dublin 6W",Dublin,725000.0,No,Terenure,Dublin 6W,q4,90%
+05/06/2014,"67 Corrib Rd, Terenure, Dublin 6W",Dublin,324500.0,No,Terenure,Dublin 6W,q2,30%
+09/06/2014,"5 Greenlea Place, Terenure Rd West, Terenure",Dublin,325000.0,No,Terenure,Dublin 6W,q2,30%
+11/06/2014,"92 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,325000.0,No,Terenure,Dublin 6W,q2,30%
+12/06/2014,"15 Lavarna Grove, Terenure, Dublin 6W",Dublin,750000.0,No,Terenure,Dublin 6W,q4,90%
+12/06/2014,"57 Fortfield Rd, Terenure, Dublin 6W",Dublin,640000.0,No,Terenure,Dublin 6W,q3,80%
+19/06/2014,"181 Corrib Road, Terenure, Dublin 6W",Dublin,355000.0,No,Terenure,Dublin 6W,q2,40%
+19/06/2014,"36 Limekiln Road, Terenure",Dublin,300000.0,No,Terenure,Dublin 6W,q1,30%
+20/06/2014,"35 The Cloisters, Terenure",Dublin,425000.0,No,Terenure,Dublin 6W,q2,50%
+24/06/2014,"58 Mt Tallant Ave, Terenure, Dublin 6",Dublin,275000.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 203 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 204 Bushy Park House, Templeogue Road, Terenure",Dublin,252077.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 205 Bushy Park House, Templeogue Road, Terenure",Dublin,336102.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 206 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 207 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 208 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 209 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 210 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 211 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 212 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 213 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 214 Bushy Park House, Templeogue Road, Terenure",Dublin,246240.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 215 Bushy Park House, Templeogue Road, Terenure",Dublin,328340.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 216 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 217 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 218 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 219 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 220 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 221 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 222 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 223 Bushy Park House, Templeogue Road, Terenure",Dublin,246255.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 224 Bushy Park House, Templeogue Road, Terenure",Dublin,328340.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 225 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 226 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 227 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 228 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 229 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 230 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 231 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 232 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 233 Bushy Park House, Templeogue Road, Terenure",Dublin,252077.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 234 Bushy Park House, Templeogue Road, Terenure",Dublin,336102.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 235 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 236 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 237 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 238 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 239 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 240 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 241 Bushy Park House, Templeogue Road, Terenure",Dublin,226869.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 242 Bushy Park House, Templeogue Road, Terenure",Dublin,252077.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 243 Bushy Park House, Templeogue Road, Terenure",Dublin,336102.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 244 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 245 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 246 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 247 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 248 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 249 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 250 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 251 Bushy Park House, Templeogue Road, Terenure",Dublin,221629.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 252 Bushy Park House, Templeogue Road, Terenure",Dublin,246255.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 253 Bushy Park House, Templeogue Road, Terenure",Dublin,328340.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 254 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 255 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 256 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 257 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 258 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 259 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 260 Bushy Park House, Templeogue Road, Terenure",Dublin,221629.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 261 Bushy Park House, Templeogue Road, Terenure",Dublin,246255.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 262 Bushy Park House, Templeogue Road, Terenure",Dublin,328340.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 263 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 264 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 265 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 266 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 267 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 268 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 269 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 270 Bushy Park House, Templeogue Road, Terenure",Dublin,226869.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 271 Bushy Park House, Templeogue Road, Terenure",Dublin,252077.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 272 Bushy Park House, Templeogue Road, Terenure",Dublin,336102.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 273 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 274 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 275 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 276 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 277 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 278 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 279 Bushy Park House, Templeogue Road, Terenure",Dublin,226869.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 280 Bushy Park House, Templeogue Road, Terenure",Dublin,252077.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 281 Bushy Park House, Templeogue Road, Terenure",Dublin,336095.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 282 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 283 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 284 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 285 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 286 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 287 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 288 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 289 Bushy Park House, Templeogue Road, Terenure",Dublin,221629.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 290 Bushy Park House, Templeogue Road, Terenure",Dublin,246255.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 291 Bushy Park House, Templeogue Road, Terenure",Dublin,328340.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 292 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 293 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 294 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 295 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 296 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 297 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 298 Bushy Park House, Templeogue Road, Terenure",Dublin,328340.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 299 Bushy Park House, Templeogue Road, Terenure",Dublin,336102.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 300 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 301 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 302 Bushy Park House, Templeogue Road, Terenure",Dublin,197004.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 303 Bushy Park House, Templeogue Road, Terenure",Dublin,201661.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 305 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 306 Bushy Park House, Templeogue Road, Terenure",Dublin,221629.0,No,Terenure,Dublin 6W,q1,10%
+25/06/2014,"Apartment 307 Bushy Park House, Templeogue Road, Terenure",Dublin,252077.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 308 Bushy Park House, Templeogue Road, Terenure",Dublin,328340.0,No,Terenure,Dublin 6W,q2,30%
+25/06/2014,"Apartment 309 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 310 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 311 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 312 Bushy Park House, Templeogue Road, Terenure",Dublin,235272.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 313 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+25/06/2014,"Apartment 34 Bushy Park House, Templeogue Road, Terenure",Dublin,229838.0,No,Terenure,Dublin 6W,q1,20%
+26/06/2014,"12 College Dr, Terenure, Dublin 6W",Dublin,517000.0,No,Terenure,Dublin 6W,q3,60%
+26/06/2014,"28 Melvin Rd, Terenure, Dublin 6W",Dublin,378000.0,No,Terenure,Dublin 6W,q2,40%
+02/07/2014,"21 Fortfield Sq, Fortfield Grove, Terenure Dublin 6W",Dublin,615000.0,No,Terenure,Dublin 6W,q3,80%
+03/07/2014,"36 Greentrees Rd, Manor Estate, Terenure Dublin 12",Dublin,455000.0,No,Terenure,Dublin 6W,q3,60%
+11/07/2014,"14 Wainsfort Dr, Terenure, Dublin 6W",Dublin,555000.0,No,Terenure,Dublin 6W,q3,70%
+15/07/2014,"146 Bushy Park House, Terenure",Dublin,298700.0,No,Terenure,Dublin 6W,q1,30%
+15/07/2014,"6 Mount Tallant Avenue, Terenure",Dublin,506300.0,No,Terenure,Dublin 6W,q3,60%
+15/07/2014,"89 Fortfield Road, Terenure",Dublin,683400.0,No,Terenure,Dublin 6W,q4,80%
+15/07/2014,"Apt 2 Templehill, Terenure Road",Dublin,253100.0,No,Terenure,Dublin 6W,q1,20%
+16/07/2014,"23 Templeogue Rd, Terenure, Dublin 6W",Dublin,580000.0,No,Terenure,Dublin 6W,q3,70%
+17/07/2014,"3 Parkmore Dr, Terenure, Dublin 6W",Dublin,710000.0,No,Terenure,Dublin 6W,q4,90%
+18/07/2014,"24 Fortfield Ave, Terenure, Dublin 6W",Dublin,720000.0,No,Terenure,Dublin 6W,q4,90%
+23/07/2014,"115 Melvin Rd, Terenure, Dublin 6",Dublin,305000.0,No,Terenure,Dublin 6W,q1,30%
+24/07/2014,"40 Hannaville Park, Terenure, Dublin 6W",Dublin,750000.0,No,Terenure,Dublin 6W,q4,90%
+28/07/2014,"77 Bushypark Road, Terenure, Dublin 6",Dublin,361000.0,No,Terenure,Dublin 6W,q2,40%
+30/07/2014,"49 College Square, Wainsfort Manor Drive, Terenure",Dublin,433920.0,Yes,Terenure,Dublin 6W,q2,50%
+31/07/2014,"23 Cremorne, Greenmount Rd, Terenure Dublin 6",Dublin,295000.0,No,Terenure,Dublin 6W,q1,30%
+31/07/2014,"49 Priory Way, Manor Grove, Terenure Dublin 12",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+01/08/2014,"12 Hazelbrook Court, Terenure, Dublin 6W",Dublin,425000.0,No,Terenure,Dublin 6W,q2,50%
+02/08/2014,"6 Fortfield Court Fortfield Road, Terenure Dublin 6W",Dublin,125000.0,No,Terenure,Dublin 6W,q1,10%
+08/08/2014,"133 Bushy Park House, Terenure, Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+14/08/2014,"7 Cranford, Terenure Rd West, Terenure Dublin 6W",Dublin,855000.0,No,Terenure,Dublin 6W,q4,100%
+15/08/2014,"26 Cedar Court, Terenure, Dublin 6W",Dublin,342000.0,No,Terenure,Dublin 6W,q2,30%
+15/08/2014,"Apt 1, Healthfield Rd, Terenure",Dublin,302000.0,No,Terenure,Dublin 6W,q1,30%
+19/08/2014,"113 Bushy Park House, Terenure, Dublin 6W",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+19/08/2014,"127 Bushy Park House, Templeogue Rd, Terenure Dublin 6W",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+25/08/2014,"70 Hannaville Park, Terenure, Dublin 6W",Dublin,850000.0,No,Terenure,Dublin 6W,q4,100%
+27/08/2014,"50 Bushy Park House, Terenure",Dublin,390000.0,No,Terenure,Dublin 6W,q2,40%
+28/08/2014,"12 Greenlea Rd, Terenure, Dublin 6W",Dublin,950000.0,No,Terenure,Dublin 6W,q4,100%
+28/08/2014,"60 Neagh Rd, Terenure, Dublin 6W",Dublin,525000.0,No,Terenure,Dublin 6W,q3,70%
+28/08/2014,"74 Hannaville Park, Terenure, Dublin 6W",Dublin,845000.0,No,Terenure,Dublin 6W,q4,100%
+29/08/2014,"153 Fortfield Road, Terenure",Dublin,1110000.0,No,Terenure,Dublin 6W,q4,100%
+02/09/2014,"31 Wainsfort Park, Terenure, Dublin 6W",Dublin,510000.0,No,Terenure,Dublin 6W,q3,60%
+03/09/2014,"3 College Square, Wainsfort Manor Drive, Terenure",Dublin,660792.95,Yes,Terenure,Dublin 6W,q4,80%
+05/09/2014,"28 Rathdown Ave, Terenure, Dublin 6W",Dublin,865000.0,No,Terenure,Dublin 6W,q4,100%
+15/09/2014,"119 Wainsford Manor Dr, Terenure, Dublin 6W",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+17/09/2014,"63 Rathdown Park, Terenure, Dublin 6W",Dublin,1185000.0,No,Terenure,Dublin 6W,q4,100%
+17/09/2014,"8 Shelton Gardens, Terenure, Dublin",Dublin,460000.0,No,Terenure,Dublin 6W,q3,60%
+23/09/2014,"48 Parkmore Dr, Terenure, Dublin 6",Dublin,640000.0,No,Terenure,Dublin 6W,q3,80%
+30/09/2014,"30 College Crescent, Terenure, Dublin 6W",Dublin,425000.0,No,Terenure,Dublin 6W,q2,50%
+02/10/2014,"125 Rathdown Park, Terenure, Dublin 6",Dublin,615000.0,No,Terenure,Dublin 6W,q3,80%
+02/10/2014,"41 Templeville Dr, Terenure, Dublin 6W",Dublin,520000.0,No,Terenure,Dublin 6W,q3,60%
+06/10/2014,"77 Larkfield Grove, Terenure, Dublin 6W",Dublin,348133.0,No,Terenure,Dublin 6W,q2,40%
+08/10/2014,"61 Wainsfort Rd, Terenure, Dublin 6W",Dublin,565000.0,No,Terenure,Dublin 6W,q3,70%
+08/10/2014,"Argus House, 59 Terenure Road East, Terenure",Dublin,850000.0,No,Terenure,Dublin 6W,q4,100%
+10/10/2014,"12 College Park, Terenure, Dublin 6W",Dublin,502000.0,No,Terenure,Dublin 6W,q3,60%
+10/10/2014,"30 Lavarna Rd, Terenure, Dublin 6W",Dublin,620000.0,No,Terenure,Dublin 6W,q3,80%
+14/10/2014,"61 Templeville Rd, Terenure, Dublin 6W",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+15/10/2014,"14 Wainsfort Avenue, Terenure, Dublin 6W",Dublin,456000.0,No,Terenure,Dublin 6W,q3,60%
+15/10/2014,"78 Bushy Park Rd, Terenure, Dublin 6",Dublin,845000.0,No,Terenure,Dublin 6W,q4,100%
+17/10/2014,"301 Lower Kimmage Rd, Terenure, Dublin 6W",Dublin,472500.0,No,Terenure,Dublin 6W,q3,60%
+24/10/2014,"129 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,410000.0,No,Terenure,Dublin 6W,q2,50%
+24/10/2014,"72 Hannaville Park, Terenure",Dublin,770925.0,Yes,Terenure,Dublin 6W,q4,90%
+30/10/2014,"5 College Sq, Terenure, Dublin 6W",Dublin,730000.0,No,Terenure,Dublin 6W,q4,90%
+31/10/2014,"21 Limekiln Park, Terenure, Dublin 6W",Dublin,451000.0,No,Terenure,Dublin 6W,q3,60%
+06/11/2014,"70A Fortfield Rd, Terenure, Dublin 6W",Dublin,660000.0,No,Terenure,Dublin 6W,q4,80%
+18/11/2014,"11 Eaton Rd, Terenure, Dublin 6W",Dublin,440000.0,No,Terenure,Dublin 6W,q2,50%
+20/11/2014,"8 Minnowbrook, Terenure Rd West, Terenure Dublin 6W",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+21/11/2014,"15 Fortfield Rd, Terenure, Dublin 6W",Dublin,551000.0,No,Terenure,Dublin 6W,q3,70%
+27/11/2014,"34 Rathdown Park, Terenure, Dublin 6W",Dublin,1350000.0,No,Terenure,Dublin 6W,q4,100%
+28/11/2014,"10 Hyde Park, Terenure, Dublin 6W",Dublin,980000.0,No,Terenure,Dublin 6W,q4,100%
+02/12/2014,"6 Temple Hill, Terenure Road West, Dublin 6W",Dublin,302000.0,No,Terenure,Dublin 6W,q1,30%
+02/12/2014,"No. 97  College Square, Wainsfort Manor Drive, Terenure",Dublin,640000.0,Yes,Terenure,Dublin 6W,q4,80%
+04/12/2014,"1 Minnowbrook, Terenure Rd West, Terenure Dublin 6W",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+04/12/2014,"96 College Square, Terenure, Dublin 6",Dublin,730000.0,Yes,Terenure,Dublin 6W,q4,90%
+05/12/2014,"12 Wainsfort Manor Dr, Terenure, Dublin 6W",Dublin,560000.0,No,Terenure,Dublin 6W,q3,70%
+05/12/2014,"90 Meadowbank, Bushy Park Rd, Terenure Dublin 6",Dublin,225000.0,No,Terenure,Dublin 6W,q1,10%
+12/12/2014,"99 College Square, Wainsfort Manor Drive, Terenure",Dublin,563877.0,Yes,Terenure,Dublin 6W,q3,70%
+15/12/2014,"100  College Square, Terenure, Dublin 6",Dublin,640000.0,Yes,Terenure,Dublin 6W,q4,80%
+16/12/2014,"11 Terenure Park, Terenure, Dublin 6W",Dublin,920000.0,No,Terenure,Dublin 6W,q4,100%
+18/12/2014,"101 College Square, Wainsfort Manor Drive, Terenure",Dublin,640000.0,Yes,Terenure,Dublin 6W,q4,80%
+19/12/2014,"28 Brighton Gardens, Terenure",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+19/12/2014,"98 College Square, Wainsfort Manor Drive, Terenure",Dublin,563876.64,Yes,Terenure,Dublin 6W,q3,70%
+19/12/2014,"Somerton, 13 Hyde Park, Terenure Dublin 6W",Dublin,1241000.0,No,Terenure,Dublin 6W,q4,100%
+22/12/2014,"18 Mountdown Park, Manor Estate, Terenure",Dublin,348994.0,No,Terenure,Dublin 6W,q2,40%
+22/12/2014,"62 Greenlea Rd, Terenure, Dublin 6W",Dublin,702000.0,No,Terenure,Dublin 6W,q4,90%
+23/12/2014,"26 Priory Way, Manor Grove, Terenure Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+23/12/2014,"32 Aideen Ave, Terenure, Dublin 6W",Dublin,460000.0,No,Terenure,Dublin 6W,q3,60%
+07/01/2015,"66 Bushy Park Rd, Terenure, Dublin 6",Dublin,950000.0,No,Terenure,Dublin 6W,q4,100%
+08/01/2015,"47 Priory Way, Manor Grove, Terenure Dublin 12",Dublin,460000.0,No,Terenure,Dublin 6W,q3,60%
+09/01/2015,"Apt 186 Bushy Park House, Terenure, Dublin 6W",Dublin,360000.0,No,Terenure,Dublin 6W,q2,40%
+12/01/2015,"47 Bushy Park House, Terenure, Dublin 6W",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+14/01/2015,"Roslyn, 63 Terenure Rd East, Rathgar",Dublin,1600000.0,No,Terenure,Dublin 6W,q4,100%
+23/01/2015,"118 Terenure Rd North, Terenure, Dublin 6W",Dublin,285000.0,No,Terenure,Dublin 6W,q1,30%
+23/01/2015,"33 The Crescent, Fortfield Sq, Terenure",Dublin,315000.0,No,Terenure,Dublin 6W,q1,30%
+23/01/2015,"7 Mountdown Park, Manor Estate, Terenure Dublin 12",Dublin,405000.0,No,Terenure,Dublin 6W,q2,50%
+28/01/2015,"4 Hyde Park, Terenure, Dublin 6W",Dublin,2000000.0,No,Terenure,Dublin 6W,q4,100%
+28/01/2015,"75 Greenlea Rd, Terenure, Dublin 6W",Dublin,750000.0,No,Terenure,Dublin 6W,q4,90%
+29/01/2015,"54 Neagh Rd Terenure, Dublin 6, Dublin",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+30/01/2015,"76 Bushy Park Rd, Terenure, Dublin",Dublin,875000.0,No,Terenure,Dublin 6W,q4,100%
+02/02/2015,"69 Templeville Rd, Terenure, Dublin 6W",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+04/02/2015,"18 Ashfield Park, Terenure, Dublin 6W",Dublin,705000.0,No,Terenure,Dublin 6W,q4,90%
+04/02/2015,"24 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+05/02/2015,"13 Greenmount Lawns Terenure, Dublin 6, Dublin",Dublin,515000.0,No,Terenure,Dublin 6W,q3,60%
+06/02/2015,"33 Derraravagh Rd, Terenure, Dublin 6",Dublin,370000.0,No,Terenure,Dublin 6W,q2,40%
+09/02/2015,"109 Terenure Rd West, Terenure, Dublin 6W",Dublin,875000.0,No,Terenure,Dublin 6W,q4,100%
+10/02/2015,"3 Wainsfort Manor Grove, Wainsfort Manor Green, Terenure",Dublin,275000.0,No,Terenure,Dublin 6W,q1,20%
+10/02/2015,"No. 92 College Square, Wainsfort Manor Drive, Terenure",Dublin,630000.0,Yes,Terenure,Dublin 6W,q3,80%
+11/02/2015,"79 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,375000.0,No,Terenure,Dublin 6W,q2,40%
+12/02/2015,"12 Eastmore, Bushy Park Road, Terenure",Dublin,410000.0,No,Terenure,Dublin 6W,q2,50%
+12/02/2015,"53 Bushy Park House, Templeogue Rd, Terenure Dublin 6W",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+12/02/2015,"93 College Square, Wainsfort Manor Drive, Terenure",Dublin,599120.0,Yes,Terenure,Dublin 6W,q3,80%
+13/02/2015,"2 Fortfield Ave, Terenure, Dublin 6W",Dublin,677000.0,No,Terenure,Dublin 6W,q4,80%
+13/02/2015,"Apt 51 The Crescent, Fortfield Square, Terenure",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+18/02/2015,"34 Terenure Road East, Rathgar, Dublin 6",Dublin,775000.0,No,Terenure,Dublin 6W,q4,90%
+20/02/2015,"17A Greenmount Lawns, Terenure, Dublin 6",Dublin,200000.0,No,Terenure,Dublin 6W,q1,10%
+24/02/2015,"17 Meadowbank, Bushy Park Rd, Terenure Dublin 6",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+24/02/2015,"8 Lavarna Road, Terenure",Dublin,642000.0,No,Terenure,Dublin 6W,q4,80%
+26/02/2015,"95 College Square, Wainsfort Manor Drive, Terenure",Dublin,555066.07,Yes,Terenure,Dublin 6W,q3,70%
+26/02/2015,"98 Bushy Park Rd, Terenure, Dublin 6",Dublin,1070000.0,No,Terenure,Dublin 6W,q4,100%
+27/02/2015,"21 Hazelbrook Court, Terenure, Dublin 6W",Dublin,448500.0,No,Terenure,Dublin 6W,q2,50%
+27/02/2015,"94 College Square, Wainsfort Manor Drive, Terenure  Dublin 6W",Dublin,555066.08,Yes,Terenure,Dublin 6W,q3,70%
+02/03/2015,"114 College Square, Terenure, Dublin 6W",Dublin,570900.0,Yes,Terenure,Dublin 6W,q3,70%
+03/03/2015,"105 College Square, Wainsfort Manor Drive, Terenure",Dublin,546255.0,Yes,Terenure,Dublin 6W,q3,70%
+06/03/2015,"192 Kimmage Road West, Terenure, Dublin 12",Dublin,475000.0,No,Terenure,Dublin 6W,q3,60%
+06/03/2015,"25 College Sq, Wainsfort Manor Dr, Terenure Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+20/03/2015,"88 College Square, Wainsfort Manor Drive, Terenure",Dublin,599747.0,Yes,Terenure,Dublin 6W,q3,80%
+23/03/2015,"19 Templeogue Road, Terenure, Dublin 6W",Dublin,520000.0,No,Terenure,Dublin 6W,q3,60%
+24/03/2015,"125 Rathdown Park, Terenure, Dublin 6",Dublin,770000.0,No,Terenure,Dublin 6W,q4,90%
+25/03/2015,"29 Priory Way, Manor Grove, Terenure Dublin 12",Dublin,450000.0,No,Terenure,Dublin 6W,q2,50%
+27/03/2015,"116 College Square, Wainsfort Manor Drive, Terenure",Dublin,650000.0,Yes,Terenure,Dublin 6W,q4,80%
+27/03/2015,"22 Terenure Rd West, Terenure, Dublin 6W",Dublin,566000.0,No,Terenure,Dublin 6W,q3,70%
+31/03/2015,"91 College Square, Wainsfort Manor Drive, Terenure",Dublin,634361.23,Yes,Terenure,Dublin 6W,q3,80%
+31/03/2015,"97 Fortfield Rd, Terenure, Dublin 6W",Dublin,525000.0,No,Terenure,Dublin 6W,q3,70%
+13/04/2015,"16 Victoria Rd, Terenure, Dublin 6",Dublin,1266000.0,No,Terenure,Dublin 6W,q4,100%
+14/04/2015,"17 Eaton Hall, Terenure, Dublin 6W",Dublin,312000.0,No,Terenure,Dublin 6W,q1,30%
+15/04/2015,"9 Limekiln Rd, Manor Estate, Terenure Dublin 12",Dublin,447000.0,No,Terenure,Dublin 6W,q2,50%
+16/04/2015,"2 Oaklands Terrace, Terenure, Dublin 6",Dublin,527500.0,No,Terenure,Dublin 6W,q3,70%
+22/04/2015,"38 Bushy Park Rd, Terenure, Dublin 6",Dublin,1000000.0,No,Terenure,Dublin 6W,q4,100%
+27/04/2015,"11 Greenlea Rd, Terenure, Dublin 6W",Dublin,700000.0,No,Terenure,Dublin 6W,q4,90%
+30/04/2015,"89 College Square, Wainsfgort Manor Drive, Terenure",Dublin,584229.07,Yes,Terenure,Dublin 6W,q3,70%
+05/05/2015,"102 College Square, Wainsfort Manor Drive, Terenure",Dublin,620000.0,Yes,Terenure,Dublin 6W,q3,80%
+12/05/2015,"67 Brookfield Greetn, Terenure, Dublin 6",Dublin,370000.0,No,Terenure,Dublin 6W,q2,40%
+12/05/2015,"84 College Square, Wainsfort Manor Drive, Terenure",Dublin,546256.0,Yes,Terenure,Dublin 6W,q3,70%
+13/05/2015,"80 College Square, Wainsfort Manor Drive, Terenure",Dublin,555066.0,Yes,Terenure,Dublin 6W,q3,70%
+14/05/2015,"103 College Square, Wainsfort Manor Drive, Terenure",Dublin,546255.5,Yes,Terenure,Dublin 6W,q3,70%
+15/05/2015,"4 Fortfield Road, Terenure, Dublin 6W",Dublin,575000.0,No,Terenure,Dublin 6W,q3,70%
+20/05/2015,"52 The Crescent, Fortfield Sq, Terenure Dublin 6W",Dublin,445000.0,No,Terenure,Dublin 6W,q2,50%
+20/05/2015,"95 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,350500.0,No,Terenure,Dublin 6W,q2,40%
+22/05/2015,"133 Wainsfort Rd, Terenure, Dublin 6W",Dublin,520000.0,No,Terenure,Dublin 6W,q3,60%
+28/05/2015,"Site No 83 College Square, Wainsfort Manor Drive, Terenure",Dublin,555065.0,Yes,Terenure,Dublin 6W,q3,70%
+29/05/2015,"35 Lavarna Grove, Terenure, Dublin 6W",Dublin,938000.0,No,Terenure,Dublin 6W,q4,100%
+03/06/2015,"82 College Square, Wainsfort Manor Drive, Terenure",Dublin,555065.0,Yes,Terenure,Dublin 6W,q3,70%
+10/06/2015,"19A College Crescent, Terenure, Dublin 6W",Dublin,530000.0,No,Terenure,Dublin 6W,q3,70%
+11/06/2015,"81 College Square, Wainsfort Manor Drive, Terenure",Dublin,555066.07,Yes,Terenure,Dublin 6W,q3,70%
+12/06/2015,"36 Wainsfort Manor Dr, Terenure, Dublin 6W",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+17/06/2015,"5 Aideen Mews, Aideen Place, Terenure",Dublin,406000.0,No,Terenure,Dublin 6W,q2,50%
+18/06/2015,"52 Priory Way, Manor Grove, Terenure Dublin 12",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+19/06/2015,"49 Cremorne, Terenure, Dublin 6",Dublin,225000.0,No,Terenure,Dublin 6W,q1,10%
+23/06/2015,"78 College Square, Wainsfort Manor Drive, Terenure",Dublin,555066.0,Yes,Terenure,Dublin 6W,q3,70%
+01/07/2015,"77 College Square, Wainsfort Manor Drive, Terenure",Dublin,567700.0,Yes,Terenure,Dublin 6W,q3,70%
+03/07/2015,"85 College Square, Wainsfort Manor Drive, Terenure",Dublin,546255.0,Yes,Terenure,Dublin 6W,q3,70%
+08/07/2015,"14 Ashdale Gardens, Terenure, Dublin 6W",Dublin,580000.0,No,Terenure,Dublin 6W,q3,70%
+09/07/2015,"90 College Square, Wainsfort Manor Drive, Terenure",Dublin,660793.0,Yes,Terenure,Dublin 6W,q4,80%
+17/07/2015,"6 College Sq, Terenure, Dublin 6W",Dublin,700000.0,No,Terenure,Dublin 6W,q4,90%
+20/07/2015,"51 Parkmore Drive, Terenure",Dublin,805000.0,No,Terenure,Dublin 6W,q4,90%
+21/07/2015,"11 College Square, Wainsfort Manor Drive, Terenure",Dublin,740000.0,No,Terenure,Dublin 6W,q4,90%
+21/07/2015,"115 College Square, Wainsfort Manor Drive, Terenure",Dublin,650000.0,Yes,Terenure,Dublin 6W,q4,80%
+22/07/2015,"30 Hazelbrook Rd, Terenure, Dublin 6W",Dublin,575000.0,No,Terenure,Dublin 6W,q3,70%
+23/07/2015,"59 Bushy Park House, Terenure, Dublin 6 W",Dublin,380000.0,No,Terenure,Dublin 6W,q2,40%
+23/07/2015,"66 Wainsfort Manor Drive, Terenure",Dublin,460000.0,No,Terenure,Dublin 6W,q3,60%
+27/07/2015,"8 Limekiln Road, Terenure, Dublin 12",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+30/07/2015,"32 Corrib Road, Terenure",Dublin,365000.0,No,Terenure,Dublin 6W,q2,40%
+06/08/2015,"194 Corrib Rd, Terenure, Dublin 6",Dublin,347000.0,No,Terenure,Dublin 6W,q2,40%
+10/08/2015,"21 Cremorne, Greenmount Rd, Terenure Dublin 6",Dublin,325000.0,No,Terenure,Dublin 6W,q2,30%
+11/08/2015,"306 Kimmage Road Lower, Terenure",Dublin,80000.0,No,Terenure,Dublin 6W,q1,10%
+11/08/2015,"310 Kimmage Road Lower, Terenure",Dublin,80000.0,No,Terenure,Dublin 6W,q1,10%
+11/08/2015,"312 Kimmage Road Lower, Terenure",Dublin,90000.0,No,Terenure,Dublin 6W,q1,10%
+11/08/2015,"51 Derravaragh Rd, Terenure, Dublin 6W",Dublin,337000.0,No,Terenure,Dublin 6W,q2,30%
+14/08/2015,"79 College Square, Wainsfort Manor Drive, Terenure",Dublin,555066.0,Yes,Terenure,Dublin 6W,q3,70%
+17/08/2015,"1 Eaton Court, Terenure Road North, Terenure",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+17/08/2015,"25 Glenavy Park, Terenure, Dublin 6W",Dublin,740000.0,No,Terenure,Dublin 6W,q4,90%
+18/08/2015,"3 West Hampton Place, Terenure, Dublin 6W",Dublin,390000.0,No,Terenure,Dublin 6W,q2,40%
+21/08/2015,"2 Ashdale Ave, Terenure, Dublin 6W",Dublin,820000.0,No,Terenure,Dublin 6W,q4,90%
+31/08/2015,"86 College Square, Wainsfort Manor, Terenure",Dublin,546255.0,Yes,Terenure,Dublin 6W,q3,70%
+01/09/2015,"14 Terenure Rd East, Dublin 6W",Dublin,940000.0,Yes,Terenure,Dublin 6W,q4,100%
+04/09/2015,"18 The Mews Fortfield Sq, College Dr, Terenure Dublin 6W",Dublin,427000.0,No,Terenure,Dublin 6W,q2,50%
+04/09/2015,"75 Brookfield, Terenure, Dublin 6W",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+08/09/2015,"46 Bushy Park House, Terenure, Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+09/09/2015,"15 Cormac Terrace, Terenure, Dublin 6W",Dublin,365000.0,No,Terenure,Dublin 6W,q2,40%
+09/09/2015,"170 Corrib Rd, Terenure, Dublin 6W",Dublin,401254.0,No,Terenure,Dublin 6W,q2,40%
+10/09/2015,"162 Corrib Rd, Terenure, Dublin 6W",Dublin,395000.0,No,Terenure,Dublin 6W,q2,40%
+10/09/2015,"38 Derravaragh Rd, Terenure, Dublin 6W",Dublin,332500.0,No,Terenure,Dublin 6W,q2,30%
+10/09/2015,"5 Wainsfort Manor Dr, Terenure, Dublin 6W",Dublin,466000.0,No,Terenure,Dublin 6W,q3,60%
+11/09/2015,"107 College Square, Wainsfort Manor Drive, Terenure",Dublin,645881.06,Yes,Terenure,Dublin 6W,q4,80%
+15/09/2015,"109 College Sqaure, Wainsfort Manor Drive, Terenure",Dublin,629956.0,Yes,Terenure,Dublin 6W,q3,80%
+25/09/2015,"21 Terenure Rd West, Terenure, Dublin 6W",Dublin,962500.0,No,Terenure,Dublin 6W,q4,100%
+25/09/2015,"4 Rathdown Villas, Terenure",Dublin,1030000.0,No,Terenure,Dublin 6W,q4,100%
+30/09/2015,"131 Larkfield Gardens, Terenure, Dublin 6W",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+30/09/2015,"7 Aideen Place, Terenure, Dublin 6W",Dublin,410000.0,No,Terenure,Dublin 6W,q2,50%
+02/10/2015,"293 Harolds Cross Rd, Terenure, Dublin 6",Dublin,640000.0,No,Terenure,Dublin 6W,q4,80%
+08/10/2015,"60 Limekiln Rd, Terenure, Dublin 12",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+09/10/2015,"24 Glendale Park, Terenure, Dublin 12",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+09/10/2015,"62A Fortfield Road, Terenure, Dublin 6W",Dublin,748898.67,Yes,Terenure,Dublin 6W,q4,90%
+09/10/2015,"7 Rathdown Park, Terenure, Dublin 6W",Dublin,1060000.0,No,Terenure,Dublin 6W,q4,100%
+12/10/2015,"46 College Sq, Wainsfort Manor Dr, Terenure",Dublin,575000.0,No,Terenure,Dublin 6W,q3,70%
+14/10/2015,"53 Priory Way, Manor Grove, Terenure",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+16/10/2015,"33 Neagh Rd, Terenure, Dublin 6W",Dublin,268000.0,No,Terenure,Dublin 6W,q1,20%
+16/10/2015,"46 Terenure Road West, Terenure, Dublin 6W",Dublin,2500000.0,No,Terenure,Dublin 6W,q4,100%
+16/10/2015,"59 Cedar Court, Terenure, Dublin 6W",Dublin,360000.0,No,Terenure,Dublin 6W,q2,40%
+23/10/2015,"336 Lower Kimmage Road, Terenure Dublin 6W",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+30/10/2015,"87 College Square, Wainsfort Manor Drive, Terenure",Dublin,651982.0,Yes,Terenure,Dublin 6W,q4,80%
+30/10/2015,"Clarendon, 46 Terenure Road East, Rathgar",Dublin,2450000.0,No,Terenure,Dublin 6W,q4,100%
+05/11/2015,"6 Aideen Ave, Terenure, Dublin 6W",Dublin,295000.0,No,Terenure,Dublin 6W,q1,30%
+06/11/2015,"13 Rathdown Villas, Terenure, Dublin 6W",Dublin,725000.0,No,Terenure,Dublin 6W,q4,90%
+13/11/2015,"106 College Square, Wainsfort Manor Drive, Terenure",Dublin,616740.0,Yes,Terenure,Dublin 6W,q3,80%
+16/11/2015,"79 Melvin Rd, Terenure, Dublin 6W",Dublin,256000.0,No,Terenure,Dublin 6W,q1,20%
+18/11/2015,"26 Wainsfort Park, Terenure, Dublin 6W",Dublin,597500.0,No,Terenure,Dublin 6W,q3,80%
+19/11/2015,"13 Wainsfort Grove, Fortfield Rd, Terenure Dublin 6W",Dublin,510000.0,No,Terenure,Dublin 6W,q3,60%
+19/11/2015,"46 Rathdown Dr, Terenure, Dublin 6",Dublin,1180000.0,No,Terenure,Dublin 6W,q4,100%
+20/11/2015,"3 Eaton Hall Apts, 62 Terenure Rd North, Terenure",Dublin,206000.0,No,Terenure,Dublin 6W,q1,10%
+27/11/2015,"22 Oaklands Terrace, Terenure, Dublin 6W",Dublin,530000.0,No,Terenure,Dublin 6W,q3,70%
+27/11/2015,"26 Wainsfort Manor Drive, Terenure",Dublin,527000.0,No,Terenure,Dublin 6W,q3,70%
+04/12/2015,"33 Terenure Rd North, Dublin 6W, Dublin",Dublin,720000.0,No,Terenure,Dublin 6W,q4,90%
+09/12/2015,"2 Ferrard Rd, Terenure, Dublin 6",Dublin,910000.0,No,Terenure,Dublin 6W,q4,100%
+10/12/2015,"107 Bushy Park House, Terenure, Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+10/12/2015,"12 Wasdale Park, Terenure, Dublin 6",Dublin,735000.0,No,Terenure,Dublin 6W,q4,90%
+10/12/2015,"14 Greenlea Place, Terenure, Dublin 6W",Dublin,285000.0,No,Terenure,Dublin 6W,q1,30%
+11/12/2015,"11A Elm Park Terrace, Terenure, Dublin 6W",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+11/12/2015,"57A Terenure Road West, Terenure, Dublin",Dublin,100000.0,No,Terenure,Dublin 6W,q1,10%
+11/12/2015,"Bessboro Apartments, 51 Terenure Road West",Dublin,12100050.0,No,Terenure,Dublin 6W,q4,100%
+16/12/2015,"8 Olney Grove, Terenure, Dublin 6W",Dublin,681000.0,No,Terenure,Dublin 6W,q4,80%
+18/12/2015,"9 Loughmorne House, 20 Terenure Rd West, Dublin 6",Dublin,317000.0,No,Terenure,Dublin 6W,q1,30%
+18/12/2015,"9 Neagh Road, Terenure, Dublin 6W",Dublin,302000.0,No,Terenure,Dublin 6W,q1,30%
+18/12/2015,"Apartment 20 Temple Hill, Terenure Road West, Dublin",Dublin,264000.0,No,Terenure,Dublin 6W,q1,20%
+21/12/2015,"142 Templeville Dr, Terenure, Dublin 6W",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+21/12/2015,"184 Corrib Rd, Terenure, Dublin 6W",Dublin,371000.0,No,Terenure,Dublin 6W,q2,40%
+21/12/2015,"Apt 8, Hazelbrook, Terenure Rd West Dublin 6W",Dublin,251000.0,No,Terenure,Dublin 6W,q1,20%
+22/12/2015,"67 Fortfield Rd, Terenure, Dublin 6W",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+12/01/2016,"46 Wainsfort Manor Dr, Terenure, Dublin 6W",Dublin,485000.0,No,Terenure,Dublin 6W,q3,60%
+12/01/2016,"9 Town House, Terenure Rd East, Dublin 6",Dublin,585000.0,No,Terenure,Dublin 6W,q3,70%
+13/01/2016,"10 Eaton Square, Terenure, Dublin 6W",Dublin,777300.0,No,Terenure,Dublin 6W,q4,90%
+14/01/2016,"187 Fortfield Road, Terenure",Dublin,755000.0,No,Terenure,Dublin 6W,q4,90%
+15/01/2016,"36 Fernhill Road, Terenure, Dublin 12",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+18/01/2016,"165 Wainsfort Rd, Terenure",Dublin,525000.0,No,Terenure,Dublin 6W,q3,70%
+21/01/2016,"91 Fortfield Rd, Terenure, Dublin 6W",Dublin,560000.0,No,Terenure,Dublin 6W,q3,70%
+25/01/2016,"19 Terenure Park, Terenure, Dublin 6W",Dublin,1000000.0,No,Terenure,Dublin 6W,q4,100%
+26/01/2016,"85 Corrib Rd Terenure, Dublin 6W, Dublin",Dublin,156000.0,No,Terenure,Dublin 6W,q1,10%
+01/02/2016,"Saoirse, 327 Harolds Cross Rd, Terenure Dublin 6W",Dublin,651000.0,No,Terenure,Dublin 6W,q4,80%
+02/02/2016,"13 Lwr Kimmage Rd, Terenure, Dublin 6W",Dublin,480000.0,No,Terenure,Dublin 6W,q3,60%
+03/02/2016,"24 Hazelbrook Dr, Terenure, Dublin 6W",Dublin,515000.0,No,Terenure,Dublin 6W,q3,60%
+04/02/2016,"Apt 14 Hazelbrook Apts, Terenure Rd West, Dublin 6",Dublin,290000.0,No,Terenure,Dublin 6W,q1,30%
+05/02/2016,"8 Wainsfort Gardens, Terenure, Dublin 6W",Dublin,445000.0,No,Terenure,Dublin 6W,q2,50%
+08/02/2016,"77 The Cloisters, Mount Tallant Ave, Terenure",Dublin,440501.0,No,Terenure,Dublin 6W,q2,50%
+10/02/2016,"16 Rathdown Park, Terenure, Dublin 6W",Dublin,1120000.0,No,Terenure,Dublin 6W,q4,100%
+11/02/2016,"2 Lavarna Grove, Terenure",Dublin,725000.0,No,Terenure,Dublin 6W,q4,90%
+12/02/2016,"20 Terenure Rd East, Rathgar, Dublin 6",Dublin,1300000.0,No,Terenure,Dublin 6W,q4,100%
+15/02/2016,"36 Cedar Court, Terenure, Dublin 6W",Dublin,397500.0,No,Terenure,Dublin 6W,q2,40%
+18/02/2016,"36 Fortfield Dr, Terenure, Dublin 6W",Dublin,585000.0,No,Terenure,Dublin 6W,q3,70%
+19/02/2016,"41 St Endas Road, Terenure, Dublin 6",Dublin,392500.0,No,Terenure,Dublin 6W,q2,40%
+22/02/2016,"56 Templeville Rd, Terenure, Dublin 6W",Dublin,520000.0,No,Terenure,Dublin 6W,q3,60%
+04/03/2016,"27 Fernhill Park, Terenure, Dublin 6",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+08/03/2016,"34 Wainsfort Rd, Terenure, Dublin 6W",Dublin,531599.0,No,Terenure,Dublin 6W,q3,70%
+14/03/2016,"90, Terenure Road, Terenure",Dublin,108500.0,No,Terenure,Dublin 6W,q1,10%
+15/03/2016,"71 College Square, Wainsfort Manor Drive, Terenure",Dublin,612335.0,Yes,Terenure,Dublin 6W,q3,80%
+16/03/2016,"21 Wainsfort Crescent, Terenure, Dublin 6W",Dublin,403000.0,No,Terenure,Dublin 6W,q2,50%
+16/03/2016,"35 Bushy Park, Terenure, Dublin 6W",Dublin,320000.0,No,Terenure,Dublin 6W,q1,30%
+18/03/2016,"24 Fortfield Rd, Terenure, Dublin 6W",Dublin,680000.0,No,Terenure,Dublin 6W,q4,80%
+21/03/2016,"10 Fortfield Court, Terenure, Dublin 6W",Dublin,161000.0,No,Terenure,Dublin 6W,q1,10%
+24/03/2016,"16 Fortfield Court, Terenure, Dublin 6W",Dublin,150000.0,No,Terenure,Dublin 6W,q1,10%
+24/03/2016,"8 College Crescent, Terenure, Dublin 6W",Dublin,472000.0,No,Terenure,Dublin 6W,q3,60%
+01/04/2016,"16 Elm Park Terrace, Terenure, Dublin 6W",Dublin,230000.0,No,Terenure,Dublin 6W,q1,20%
+07/04/2016,"38 Rathdown Ave, Terenure, Dublin 6W",Dublin,693000.0,No,Terenure,Dublin 6W,q4,90%
+15/04/2016,"Apt 28, Temple Hill, Terenure Rd West Dublin 6W",Dublin,280000.0,No,Terenure,Dublin 6W,q1,20%
+18/04/2016,"26 Fortfield Dr, Terenure, Dublin 6W",Dublin,970000.0,No,Terenure,Dublin 6W,q4,100%
+21/04/2016,"2 Fortfield Crescent, Fortfield Square, Terenure",Dublin,320000.0,No,Terenure,Dublin 6W,q2,30%
+21/04/2016,"Apt 83, Bushy Park House, Terenure Dublin 6W",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+22/04/2016,"13 Glenavy Park, Terenure, Dublin 6W",Dublin,785000.0,No,Terenure,Dublin 6W,q4,90%
+26/04/2016,"14 Limekiln Rd, Terenure, Dublin 12",Dublin,485000.0,No,Terenure,Dublin 6W,q3,60%
+28/04/2016,"14 Limekiln Dr, Manor Estate, Terenure Dublin 12",Dublin,375000.0,No,Terenure,Dublin 6W,q2,40%
+28/04/2016,"42 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,485000.0,No,Terenure,Dublin 6W,q3,60%
+28/04/2016,"59 Greentrees Rd, Manor Estate, Terenure",Dublin,480000.0,No,Terenure,Dublin 6W,q3,60%
+28/04/2016,"65 College Square, Terenure",Dublin,641267.62,Yes,Terenure,Dublin 6W,q4,80%
+28/04/2016,"66 College Square, Terenure",Dublin,641267.0,Yes,Terenure,Dublin 6W,q4,80%
+29/04/2016,"1 Wainsfort Manor Green, Terenure, Dublin 6W",Dublin,630000.0,No,Terenure,Dublin 6W,q3,80%
+29/04/2016,"56 Fortfield Sq, Terenure, Dublin 6W",Dublin,390000.0,No,Terenure,Dublin 6W,q2,40%
+04/05/2016,"43 Parkmore Dr, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+12/05/2016,"12 Hyde Park, Terenure, Dublin 6W",Dublin,1200000.0,No,Terenure,Dublin 6W,q4,100%
+13/05/2016,"1 Greenmount Lawns, Terenure, Dublin 6",Dublin,225000.0,No,Terenure,Dublin 6W,q1,10%
+13/05/2016,"72 College Square, Wainsfort Manor, Terenure",Dublin,612335.0,Yes,Terenure,Dublin 6W,q3,80%
+18/05/2016,"40 Brookfield, Kimmage Rd West, Terenure Dublin 12",Dublin,460000.0,No,Terenure,Dublin 6W,q3,60%
+19/05/2016,"51 College Park, Terenure, Dublin 6W",Dublin,547000.0,No,Terenure,Dublin 6W,q3,70%
+19/05/2016,"9 Wasdale Park, Terenure, Dublin 6",Dublin,675000.0,No,Terenure,Dublin 6W,q4,80%
+20/05/2016,"3 Rathmore Villas, Terenure, Dublin 6",Dublin,260000.0,No,Terenure,Dublin 6W,q1,20%
+23/05/2016,"70 College Square, Wainsfort Manor Drive, Terenure",Dublin,641267.62,Yes,Terenure,Dublin 6W,q4,80%
+03/06/2016,"108 College Square, Terenure",Dublin,596600.0,Yes,Terenure,Dublin 6W,q3,80%
+07/06/2016,"68 College Square, Wainsfort Manor Drive, Terenure",Dublin,695000.0,Yes,Terenure,Dublin 6W,q4,90%
+10/06/2016,"103 Bushy Park House, Terenure, Dublin 6W",Dublin,428000.0,No,Terenure,Dublin 6W,q2,50%
+15/06/2016,"43 Terenure Park, Terenure, Dublin 6W",Dublin,335000.0,No,Terenure,Dublin 6W,q2,30%
+16/06/2016,"118 College Square, Terenure",Dublin,629720.0,Yes,Terenure,Dublin 6W,q3,80%
+16/06/2016,"37 Greentrees Rd, Manor Estate, Terenure Dublin 6W",Dublin,407000.0,No,Terenure,Dublin 6W,q2,50%
+17/06/2016,"17 Terenure Rd West, Dublin 6W, Dublin",Dublin,610000.0,No,Terenure,Dublin 6W,q3,80%
+17/06/2016,"7 Oaklands Terrace, Terenure, Dublin 6",Dublin,527500.0,No,Terenure,Dublin 6W,q3,70%
+29/06/2016,"67 College Square, Wainsfort Manor Drive, Terenure",Dublin,607929.51,Yes,Terenure,Dublin 6W,q3,80%
+30/06/2016,"1 Wainsfort Park, Terenure, Dublin 6W",Dublin,571000.0,No,Terenure,Dublin 6W,q3,70%
+30/06/2016,"16 Temple Hill, Terenure Rd West, Terenure Dublin 6W",Dublin,310000.0,No,Terenure,Dublin 6W,q1,30%
+01/07/2016,"127 Wainsfort Rd, Terenure, Dublin 6W",Dublin,490000.0,No,Terenure,Dublin 6W,q3,60%
+01/07/2016,"53 Derravaragh Rd, Terenure, Dublin 6",Dublin,405000.0,No,Terenure,Dublin 6W,q2,50%
+04/07/2016,"15 Brighton Gdns, Terenure, Dublin 6W",Dublin,485500.0,No,Terenure,Dublin 6W,q3,60%
+05/07/2016,"69 College Square, Wainsfort Manor Drive, Terenure",Dublin,422342.62,Yes,Terenure,Dublin 6W,q2,50%
+06/07/2016,"6 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,470000.0,No,Terenure,Dublin 6W,q3,60%
+06/07/2016,"63 C9Ollege Square, Wainsfort Manor Drive, Terenure",Dublin,603524.22,Yes,Terenure,Dublin 6W,q3,80%
+06/07/2016,"64 College Square, Terenure, Dublin 6W",Dublin,603525.0,Yes,Terenure,Dublin 6W,q3,80%
+06/07/2016,"8 Wainsfort Manor Grove, Terenure, Manor Grove Dublin 6W",Dublin,320000.0,No,Terenure,Dublin 6W,q2,30%
+07/07/2016,"10 Hazelbrook Court, Terenure Rd West, Dublin 6W",Dublin,399000.0,No,Terenure,Dublin 6W,q2,40%
+11/07/2016,"6 The Hall, Laurel Place, Terenure Rd West Dublin 6W",Dublin,370000.0,No,Terenure,Dublin 6W,q2,40%
+13/07/2016,"76 Corrib Rd, Terenure, Dublin 6W",Dublin,450000.0,No,Terenure,Dublin 6W,q2,50%
+14/07/2016,"25 Greentrees Rd, Terenure, Dublin",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+14/07/2016,"26 Templehill, Terenure, Dublin 6W",Dublin,305000.0,No,Terenure,Dublin 6W,q1,30%
+15/07/2016,"79 Wainsfort Rd, Terenure, Dublin 6W",Dublin,630000.0,No,Terenure,Dublin 6W,q3,80%
+19/07/2016,"113 Wainsfort Rd, Terenure, Dublin 6W",Dublin,540000.0,No,Terenure,Dublin 6W,q3,70%
+19/07/2016,"39 Aideen Rd, Terenure, Dublin",Dublin,515000.0,No,Terenure,Dublin 6W,q3,60%
+20/07/2016,"44 College Park, Terenure, Dublin 6W",Dublin,449500.0,No,Terenure,Dublin 6W,q2,50%
+21/07/2016,"15 Fortfield Sq, Terenure, Dublin 6W",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+22/07/2016,"22 Wainsfort Manor Grove, Wainsfort Manor Green, Terenure Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+28/07/2016,"155 Greenlea Rd, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+29/07/2016,"29 The Laurels, Terenure Rd West, Dublin 6W",Dublin,355000.0,No,Terenure,Dublin 6W,q2,40%
+03/08/2016,"12 Greenlea Rd, Terenure, Dublin 6W",Dublin,925000.0,No,Terenure,Dublin 6W,q4,100%
+05/08/2016,"56 Greenlea Rd, Terenure, Dublin 6W",Dublin,690000.0,No,Terenure,Dublin 6W,q4,80%
+10/08/2016,"30 Lakelands Park, Terenure, Dublin 6W",Dublin,825000.0,No,Terenure,Dublin 6W,q4,90%
+10/08/2016,"Apt 2, 21 Healthfield Rd, Terenure",Dublin,264000.0,No,Terenure,Dublin 6W,q1,20%
+11/08/2016,"20 Priory Hall, Manor Grove, Terenure Dublin 12",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+12/08/2016,"19 Terenure Road East, Rathgar, Dublin 6",Dublin,750000.0,No,Terenure,Dublin 6W,q4,90%
+12/08/2016,"22 Neagh Rd, Terenure, Dublin 6",Dublin,422000.0,No,Terenure,Dublin 6W,q2,50%
+12/08/2016,"39 Eaton Sq, Terenure, Dublin 6W",Dublin,815000.0,No,Terenure,Dublin 6W,q4,90%
+18/08/2016,"7 Fortfield Grove, Terenure, Dublin 6W",Dublin,595000.0,No,Terenure,Dublin 6W,q3,70%
+19/08/2016,"25 Brookfield Est, Kimmage Cross Roads, Terenure Dublin 12",Dublin,408500.0,No,Terenure,Dublin 6W,q2,50%
+26/08/2016,"152 Bushy Park House, Templeogue Rd, Terenure Dublin 6W",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+30/08/2016,"115 Fortfield Rd, Terenure, Dublin 6W",Dublin,1100000.0,No,Terenure,Dublin 6W,q4,100%
+31/08/2016,"20 St Endas Rd, Terenure, Dublin 6",Dublin,440000.0,No,Terenure,Dublin 6W,q2,50%
+31/08/2016,"28 Wasdale Park, Terenure, Dublin",Dublin,915000.0,No,Terenure,Dublin 6W,q4,100%
+02/09/2016,"129 Bushy Park House, Templeogue Rd, Terenure Dublin 6W",Dublin,356000.0,No,Terenure,Dublin 6W,q2,40%
+02/09/2016,"42 Hannaville Park, Terenure, Dublin 6W",Dublin,924000.0,No,Terenure,Dublin 6W,q4,100%
+07/09/2016,"6 Greenlea Dr, Terenure, Dublin 6W",Dublin,805000.0,No,Terenure,Dublin 6W,q4,90%
+09/09/2016,"38 Terenure Rd East, Rathgar, Dublin 6",Dublin,915000.0,No,Terenure,Dublin 6W,q4,100%
+09/09/2016,"81 Corrib Road, Terenure, Dublin 6",Dublin,407000.0,No,Terenure,Dublin 6W,q2,50%
+12/09/2016,"32 St Endas Rd, Terenure, Dublin 6W",Dublin,280000.0,No,Terenure,Dublin 6W,q1,20%
+15/09/2016,"24 Greenlea Place, Terenure Rd West, Dublin 6W",Dublin,150000.0,No,Terenure,Dublin 6W,q1,10%
+21/09/2016,"12 Derravaragh Rd, Terenure, Dublin 6W",Dublin,243000.0,No,Terenure,Dublin 6W,q1,20%
+21/09/2016,"36 College Dr, Terenure, Dublin 6W",Dublin,545000.0,No,Terenure,Dublin 6W,q3,70%
+22/09/2016,"38 Hannaville Park, Terenure, Dublin 6W",Dublin,920000.0,No,Terenure,Dublin 6W,q4,100%
+26/09/2016,"22 Elm Park Terrace, Terenure, Dublin 6W",Dublin,313000.0,No,Terenure,Dublin 6W,q1,30%
+27/09/2016,"30 Fortfield Ave, Terenure, Dublin 6W",Dublin,580000.0,No,Terenure,Dublin 6W,q3,70%
+29/09/2016,"25 Wainsfort Park, Terenure, Dublin 6W",Dublin,625000.0,No,Terenure,Dublin 6W,q3,80%
+30/09/2016,"113 Melvin Rd, Terenure, Dublin 6W",Dublin,335000.0,No,Terenure,Dublin 6W,q2,30%
+30/09/2016,"56 Terenure Rd East, Rathgar, Dublin 6",Dublin,890000.0,No,Terenure,Dublin 6W,q4,100%
+04/10/2016,"17 Temple Hill, Terenure Rd West, Dublin 6W",Dublin,252000.0,No,Terenure,Dublin 6W,q1,20%
+04/10/2016,"79 Corrib Rd, Terenure, Dublin 6W",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+05/10/2016,"40 Wainsfort Crescent, Terenure, Dublin 6W",Dublin,595000.0,No,Terenure,Dublin 6W,q3,70%
+07/10/2016,"177 Corrib Rd, Terenure, Dublin 6W",Dublin,475000.0,No,Terenure,Dublin 6W,q3,60%
+07/10/2016,"53 Neagh Rd, Terenure, Dublin6W",Dublin,325000.0,No,Terenure,Dublin 6W,q2,30%
+13/10/2016,"19 Fortfield Grove, Terenure, Dublin 6W",Dublin,665000.0,No,Terenure,Dublin 6W,q4,80%
+13/10/2016,"22B Greenmount Lawns, Terenure, Dublin 6",Dublin,208000.0,No,Terenure,Dublin 6W,q1,10%
+13/10/2016,"33 Greenmount Rd, Terenure, Dublin 6",Dublin,912500.0,No,Terenure,Dublin 6W,q4,100%
+14/10/2016,"17 Lavarna Rd, Terenure, Dublin 6W",Dublin,815000.0,No,Terenure,Dublin 6W,q4,90%
+18/10/2016,"8 Greenmount Rd, Terenure, Dublin 6",Dublin,959000.0,No,Terenure,Dublin 6W,q4,100%
+19/10/2016,"1 Fernhill Park, Terenure, Dublin 12",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+19/10/2016,"20 Fortfield Rd, Terenure, Dublin 6",Dublin,800000.0,No,Terenure,Dublin 6W,q4,90%
+19/10/2016,"65 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,525000.0,No,Terenure,Dublin 6W,q3,70%
+21/10/2016,"10 Rathdown Park, Terenure, Dublin 6W",Dublin,1145000.0,No,Terenure,Dublin 6W,q4,100%
+21/10/2016,"15 Ashfield Park, Terenure, Dublin 6",Dublin,427000.0,No,Terenure,Dublin 6W,q2,50%
+25/10/2016,"132 Bushy Park House, Terenure, Dublin 6",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+25/10/2016,"89 Mount Tallant Ave, Terenure, Dublin 6",Dublin,343000.0,No,Terenure,Dublin 6W,q2,30%
+26/10/2016,"16 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,515000.0,No,Terenure,Dublin 6W,q3,60%
+28/10/2016,"105 Melvin Rd, Terenure, Dublin 6W",Dublin,379400.0,No,Terenure,Dublin 6W,q2,40%
+28/10/2016,"61 College Square, Wainsfort Manor Drive, Terenure",Dublin,745000.0,Yes,Terenure,Dublin 6W,q4,90%
+01/11/2016,"3 Alexandra Terrace, Terenure, Dublin 6",Dublin,556000.0,No,Terenure,Dublin 6W,q3,70%
+02/11/2016,"24 Brighton Gardens, Terenure, Dublin 6",Dublin,530000.0,No,Terenure,Dublin 6W,q3,70%
+07/11/2016,"62 College Square, Wainsfort Manor, Terenure",Dublin,625550.0,Yes,Terenure,Dublin 6W,q3,80%
+09/11/2016,"1 Eagle Hill Ave, Terenure Rd East, Dubliln 6W",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+09/11/2016,"9 Glenavy Park, Terenure, Dublin 6W",Dublin,710000.0,No,Terenure,Dublin 6W,q4,90%
+10/11/2016,"21 Corrib Rd, Terenure, Dublin 6W",Dublin,425000.0,No,Terenure,Dublin 6W,q2,50%
+15/11/2016,"10 Loughmourne House, Terenure, Dublin 6",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+16/11/2016,"Unit 3, 15 Eaton Square, Terenure",Dublin,827500.0,No,Terenure,Dublin 6W,q4,100%
+18/11/2016,"12 Wainsfort Dr, Terenure, Dublin 6W",Dublin,640000.0,No,Terenure,Dublin 6W,q4,80%
+23/11/2016,"17 Templeville Rd, Terenure, Dublin 6W",Dublin,316666.0,No,Terenure,Dublin 6W,q1,30%
+23/11/2016,"Apt 1 The Laurels, Terenure Road West, Terenure",Dublin,300000.0,No,Terenure,Dublin 6W,q1,30%
+25/11/2016,"6 Aideen Ave, Terenure, Dublin 6W",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+25/11/2016,"8 Terenure Court, Terenure Rd West, Dublin 6W",Dublin,290000.0,No,Terenure,Dublin 6W,q1,30%
+25/11/2016,"88 Rathdown Park, Terenure, Dublin 6W",Dublin,945000.0,No,Terenure,Dublin 6W,q4,100%
+30/11/2016,"19 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,505000.0,No,Terenure,Dublin 6W,q3,60%
+08/12/2016,"23 Fergus Rd, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+08/12/2016,"40 Lavarna Road, Terenure, Dublin 6W",Dublin,765000.0,No,Terenure,Dublin 6W,q4,90%
+12/12/2016,"94 Parkmore Dr, Terenure, Dublin 6W",Dublin,600000.0,No,Terenure,Dublin 6W,q3,80%
+14/12/2016,"18 The Orchard, Fortfield Rd, Terenure Dublin 6W",Dublin,635000.0,No,Terenure,Dublin 6W,q3,80%
+16/12/2016,"19 Wainsfort Ave, Terenure, Dublin 6W",Dublin,687500.0,No,Terenure,Dublin 6W,q4,80%
+16/12/2016,"70 Fortfield Rd, Terenure, Dublin 6W",Dublin,985000.0,No,Terenure,Dublin 6W,q4,100%
+21/12/2016,"146 Bushy Park House, Terenure, Dublin 6W",Dublin,382000.0,No,Terenure,Dublin 6W,q2,40%
+22/12/2016,"103 Rathdown Park, Terenure, Dublin 6W",Dublin,705000.0,No,Terenure,Dublin 6W,q4,90%
+22/12/2016,"4 Terenure Square, Dublin 6W",Dublin,640000.0,Yes,Terenure,Dublin 6W,q4,80%
+22/12/2016,"93 College Sq, Terenure, Dublin 6W",Dublin,670000.0,No,Terenure,Dublin 6W,q4,80%
+09/01/2017,"9 Olney Crescent, Terenure, Dublin 6W",Dublin,680000.0,No,Terenure,Dublin 6W,q4,80%
+10/01/2017,"9 The Laurels, Terenure Rd West, Dublin 6W",Dublin,410000.0,No,Terenure,Dublin 6W,q2,50%
+11/01/2017,"37 Priory Way, Manor Grove, Terenure Dublin 12",Dublin,536000.0,No,Terenure,Dublin 6W,q3,70%
+11/01/2017,"81 Templeogue Road, Terenure, Dublin 6W",Dublin,824385.0,No,Terenure,Dublin 6W,q4,90%
+16/01/2017,"11 Fortfield Court, Terenure, Dublin 6W",Dublin,192000.0,No,Terenure,Dublin 6W,q1,10%
+19/01/2017,"49 Parkmore Dr, Terenure, Dublin 6W",Dublin,705000.0,No,Terenure,Dublin 6W,q4,90%
+23/01/2017,"16 Ashfield Park, Terenure, Dublin 6W",Dublin,858000.0,No,Terenure,Dublin 6W,q4,100%
+23/01/2017,"45 College Sq, Terenure, Dublin",Dublin,625000.0,No,Terenure,Dublin 6W,q3,80%
+25/01/2017,"21 Greenmount Rd, Terenure, Dublin 6",Dublin,920000.0,No,Terenure,Dublin 6W,q4,100%
+25/01/2017,"41 Terenure Rd North, Terenure, Dublin 6W",Dublin,615000.0,No,Terenure,Dublin 6W,q3,80%
+26/01/2017,"4 Lakelands Park, Terenure, Dublin 6W",Dublin,1190000.0,No,Terenure,Dublin 6W,q4,100%
+27/01/2017,"1 College Dr, Terenure, Dublin 6W",Dublin,750000.0,No,Terenure,Dublin 6W,q4,90%
+27/01/2017,"Apt 6 Hazelbrook, Terenure Road West, Dublin 6W",Dublin,258000.0,No,Terenure,Dublin 6W,q1,20%
+30/01/2017,"18 Templeogue, Terenure Village, Dublin 6",Dublin,449000.0,No,Terenure,Dublin 6W,q2,50%
+31/01/2017,"32 Cremorne Off Greenmount Rd, Terenure Rd East, Dublin 6",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+31/01/2017,"5 Terenure Square, Terenure, Dublin 6W",Dublin,625000.0,Yes,Terenure,Dublin 6W,q3,80%
+03/02/2017,"1 Lakelands Park, Terenure, Dublin 6W",Dublin,1100000.0,No,Terenure,Dublin 6W,q4,100%
+03/02/2017,"22 Greenmount Lawns, Terenure, Dublin 6",Dublin,197000.0,No,Terenure,Dublin 6W,q1,10%
+03/02/2017,"8 Fortfield Park, Terenure, Dublin 6W",Dublin,700000.0,No,Terenure,Dublin 6W,q4,90%
+06/02/2017,"63 Terenure Rd, North Terenure, Dublin 6W",Dublin,620000.0,No,Terenure,Dublin 6W,q3,80%
+07/02/2017,"53 Rockfield Ave, Terenure, Dublin 12",Dublin,454000.0,No,Terenure,Dublin 6W,q3,60%
+08/02/2017,"25 Brighton Gardens, Terenure, Dublin 6",Dublin,492000.0,No,Terenure,Dublin 6W,q3,60%
+09/02/2017,"1 Terenure Square, Terenure, Dublin 6W",Dublin,531608.0,Yes,Terenure,Dublin 6W,q3,70%
+09/02/2017,"2 Terenure Square, Terenure",Dublin,528634.36,Yes,Terenure,Dublin 6W,q3,70%
+09/02/2017,"30 Fortfield Square, Terenure, Dublin",Dublin,700000.0,No,Terenure,Dublin 6W,q4,90%
+10/02/2017,"18 The Orchard, Fortfield Rd, Terenure Dublin 6W",Dublin,635000.0,No,Terenure,Dublin 6W,q3,80%
+13/02/2017,"18 Wainsfort Dr, Terenure, Dublin 6W",Dublin,620000.0,No,Terenure,Dublin 6W,q3,80%
+13/02/2017,"56 Fortfield Sq, Terenure, Dublin 6W",Dublin,390000.0,No,Terenure,Dublin 6W,q2,40%
+14/02/2017,"26 Bushy Park House, Terenure, Dublin 6W",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+15/02/2017,"27 Priory Hall, Manor Grove, Terenure Dublin 12",Dublin,285000.0,No,Terenure,Dublin 6W,q1,30%
+17/02/2017,"1A Ashdale Rd, Terenure, Dublin 6",Dublin,712500.0,No,Terenure,Dublin 6W,q4,90%
+17/02/2017,"20 Hazelbrook Court, Terenure Rd West, Terenure Dublin 6W",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+17/02/2017,"2A Greentrees Rd, Manor Estate, Terenure Dublin 12",Dublin,536000.0,No,Terenure,Dublin 6W,q3,70%
+20/02/2017,"28 Aideen Ave, Terenure, Dublin 6W",Dublin,405000.0,No,Terenure,Dublin 6W,q2,50%
+23/02/2017,"121 Fortfield Rd, Terenure, Dublin 6W",Dublin,950000.0,No,Terenure,Dublin 6W,q4,100%
+23/02/2017,"56 Neagh Rd, Terenure, Dublin 6W",Dublin,290000.0,No,Terenure,Dublin 6W,q1,30%
+02/03/2017,"10 Cremorne, Terenure Rd East, Dublin 6",Dublin,365000.0,No,Terenure,Dublin 6W,q2,40%
+02/03/2017,"2 Rathdown Crescent, Terenure, Dublin 6W",Dublin,1225000.0,No,Terenure,Dublin 6W,q4,100%
+07/03/2017,"49 Hazelbrook Rd, Terenure, Dublin 6W",Dublin,605000.0,No,Terenure,Dublin 6W,q3,80%
+10/03/2017,"28 Melvin Rd, Terenure, Dublin 6W",Dublin,200000.0,No,Terenure,Dublin 6W,q1,10%
+25/03/2017,"107 College Square, Wainsfort Manor Drive, Terenure",Dublin,360000.0,No,Terenure,Dublin 6W,q2,40%
+25/03/2017,"66 College Square, Terenure, Dublin6W",Dublin,357500.0,No,Terenure,Dublin 6W,q2,40%
+27/03/2017,"26 Cremorne, Terenure, Dublin 6",Dublin,310000.0,No,Terenure,Dublin 6W,q1,30%
+27/03/2017,"7 Cormac Tce, Terenure, Dublin 6W",Dublin,281000.0,No,Terenure,Dublin 6W,q1,20%
+28/03/2017,"25 Fortfield Dr, Terenure, Dublin 6W",Dublin,950000.0,No,Terenure,Dublin 6W,q4,100%
+29/03/2017,"39 Greenlea Rd, Terenure, Dublin 6W",Dublin,600000.0,No,Terenure,Dublin 6W,q3,80%
+29/03/2017,"7 Derravaragh Rd, Terenure, Dublin 6W",Dublin,480000.0,No,Terenure,Dublin 6W,q3,60%
+31/03/2017,"3 Rathmore Villas, Terenure, Dublin 6",Dublin,355000.0,No,Terenure,Dublin 6W,q2,40%
+31/03/2017,"64 Larkfield Grove, Terenure, Dublin 6W",Dublin,425050.0,No,Terenure,Dublin 6W,q2,50%
+05/04/2017,"Apt. 1 Park House, Ashdale Rd, Terenure Dublin 6W",Dublin,481000.0,No,Terenure,Dublin 6W,q3,60%
+10/04/2017,"139 Templeville Dr, Terenure, Dublin 6W",Dublin,610000.0,No,Terenure,Dublin 6W,q3,80%
+13/04/2017,"13 College Dr, Terenure, Dublin",Dublin,615000.0,No,Terenure,Dublin 6W,q3,80%
+24/04/2017,"9 Aideen Place Mews, Terenure, Dublin 6",Dublin,494000.0,No,Terenure,Dublin 6W,q3,60%
+28/04/2017,"109 Templeville Rd, Terenure, Dublin 6W",Dublin,558000.0,No,Terenure,Dublin 6W,q3,70%
+04/05/2017,"19 Wainsfort Grove, Terenure, Dublin 6W",Dublin,590000.0,No,Terenure,Dublin 6W,q3,70%
+05/05/2017,"172 Corrib Rd, Terenure, Dublin 6W",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+12/05/2017,"191 Lower Kimmage Rd, Terenure, Dublin 6W",Dublin,250000.0,No,Terenure,Dublin 6W,q1,20%
+12/05/2017,"38 Meadowbank, Bushy Park Rd, Terenure Dublin 6",Dublin,527000.0,No,Terenure,Dublin 6W,q3,70%
+16/05/2017,"42 Terenure Rd North, Terenure, Dublin 6W",Dublin,577500.0,No,Terenure,Dublin 6W,q3,70%
+16/05/2017,"95 College Sq, Terenure, Dublin 6W",Dublin,700000.0,No,Terenure,Dublin 6W,q4,90%
+17/05/2017,"2 Eaton Sq Apt 1, Terenure, Dublin 6W",Dublin,965000.0,No,Terenure,Dublin 6W,q4,100%
+18/05/2017,"16 Hazelbrook Road, Terenure, Dublin 6W",Dublin,290000.0,No,Terenure,Dublin 6W,q1,30%
+23/05/2017,"4 Cranford, Terenure Rd West, Terenure Dublin 6W",Dublin,895000.0,No,Terenure,Dublin 6W,q4,100%
+25/05/2017,"Upstairs Apartment, 81 Terenure Road North, Terenure",Dublin,214500.0,No,Terenure,Dublin 6W,q1,10%
+30/05/2017,"8 Elm Park Terrace, Terenure, Dublin 6W",Dublin,453000.0,No,Terenure,Dublin 6W,q3,60%
+31/05/2017,"18 Terenure Rd East, Rathgar, Dublin 6",Dublin,1410000.0,No,Terenure,Dublin 6W,q4,100%
+31/05/2017,"7 Wainsfort Ave, Terenure, Dublin 6W",Dublin,578000.0,No,Terenure,Dublin 6W,q3,70%
+01/06/2017,"13 Eaton Hall, Terenure Rd North, Terenure Dublin 6W",Dublin,240000.0,No,Terenure,Dublin 6W,q1,20%
+07/06/2017,"45 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,406000.0,No,Terenure,Dublin 6W,q2,50%
+12/06/2017,"17 Whitton Rd, Terenure, Dublin 6",Dublin,610000.0,No,Terenure,Dublin 6W,q3,80%
+12/06/2017,"Apt 2, 29 Templeogue Road, Terenure",Dublin,545000.0,No,Terenure,Dublin 6W,q3,70%
+13/06/2017,"46 Derravagh Rd, Terenure, Dublin 6W",Dublin,355000.0,No,Terenure,Dublin 6W,q2,40%
+13/06/2017,"8 Aideen Place Mews, Terenure, Dublin 6",Dublin,467650.0,No,Terenure,Dublin 6W,q3,60%
+14/06/2017,"42 Terenure Park, Terenure, Dublin 6W",Dublin,1000000.0,No,Terenure,Dublin 6W,q4,100%
+20/06/2017,"25 Corrib Rd, Terenure, Dublin 6W",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+23/06/2017,"9 Wasdale Grove, Terenure, Dublin 6",Dublin,785000.0,No,Terenure,Dublin 6W,q4,90%
+27/06/2017,"14 Greenlea Place, Terenure, Dublin 6W",Dublin,417500.0,No,Terenure,Dublin 6W,q2,50%
+27/06/2017,"21 Glendale Park, Terenure, Dublin 12",Dublin,521000.0,No,Terenure,Dublin 6W,q3,60%
+29/06/2017,"6 Fortfield Park, Terenure, Dublin 6W",Dublin,1170000.0,No,Terenure,Dublin 6W,q4,100%
+30/06/2017,"113 Kimmage Road Lower, Terenure, Dublin 6",Dublin,735000.0,No,Terenure,Dublin 6W,q4,90%
+05/07/2017,"4 Healthfield Rd, Terenure, Dublin 6",Dublin,1250000.0,No,Terenure,Dublin 6W,q4,100%
+05/07/2017,"8 College Park, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+06/07/2017,"11 Rathdown Park, Terenure, Dublin 6W",Dublin,1305000.0,No,Terenure,Dublin 6W,q4,100%
+06/07/2017,"78 Neagh Rd, Terenure, Dublin 6W",Dublin,362000.0,No,Terenure,Dublin 6W,q2,40%
+11/07/2017,"27 Temple Hill, Terenure Rd West, Dublin 6W",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+11/07/2017,"32 The Cloisters, Terenure, Dublin 6W",Dublin,469000.0,No,Terenure,Dublin 6W,q3,60%
+14/07/2017,"37 Fortfield Grove, Terenure, Dublin",Dublin,745000.0,No,Terenure,Dublin 6W,q4,90%
+21/07/2017,"6 Terenure Court, Terenure Rd West, Dublin 6W",Dublin,268000.0,No,Terenure,Dublin 6W,q1,20%
+26/07/2017,"34 Melvin Rd, Terenure, Dublin 6W",Dublin,505000.0,No,Terenure,Dublin 6W,q3,60%
+27/07/2017,"330 Kimmage Road Lower, Terenure, Dublin 6W",Dublin,241250.0,No,Terenure,Dublin 6W,q1,20%
+28/07/2017,"10 Kimmage Court, Off Lr Kimmage Rd, Terenure",Dublin,295000.0,No,Terenure,Dublin 6W,q1,30%
+31/07/2017,"8 Temple Hill, Terenure Rd West, Terenure Dublin 6W",Dublin,376000.0,No,Terenure,Dublin 6W,q2,40%
+10/08/2017,"4 Melvin Rd, Mount Tallant Ave, Terenure Dublin 6W",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+16/08/2017,"11 Glenavy Park, Terenure, Dublin 6W",Dublin,885000.0,No,Terenure,Dublin 6W,q4,100%
+18/08/2017,"73 Fortfield Rd, Terenure, Dublin 6W",Dublin,675000.0,No,Terenure,Dublin 6W,q4,80%
+18/08/2017,"95 Parkmore Dr, Terenure, Dublin 6W",Dublin,725000.0,No,Terenure,Dublin 6W,q4,90%
+21/08/2017,"12 Mountdown Rd, Terenure, Dublin 12",Dublin,450000.0,No,Terenure,Dublin 6W,q2,50%
+21/08/2017,"15 Glenmurry Park, Terenure, Dublin 12",Dublin,535000.0,No,Terenure,Dublin 6W,q3,70%
+21/08/2017,"3 Terenure Park, Terenure, Dublin 6W",Dublin,922000.0,No,Terenure,Dublin 6W,q4,100%
+23/08/2017,"37 Templeville Dr, Terenure, Dublin 6W",Dublin,685000.0,No,Terenure,Dublin 6W,q4,80%
+25/08/2017,"153 Bushy Park House, Templeogue Rd, Terenure Dublin 6W",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+25/08/2017,"61 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,610000.0,No,Terenure,Dublin 6W,q3,80%
+29/08/2017,"77 Terenure Rd West, Dublin 6W, Dublin",Dublin,895000.0,No,Terenure,Dublin 6W,q4,100%
+29/08/2017,"9 Ashdale Park, Terenure, Dublin 6W",Dublin,645000.0,No,Terenure,Dublin 6W,q4,80%
+30/08/2017,"22 Fortfield Sq, Terenure, Dublin 6W",Dublin,735000.0,No,Terenure,Dublin 6W,q4,90%
+30/08/2017,"77 Parkmore Dr, Terenure, Dublin 6W",Dublin,700000.0,No,Terenure,Dublin 6W,q4,90%
+31/08/2017,"58 Bushy Park House, Terenure, Dublin 6",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+01/09/2017,"14 Riversdale Grove, Terenure, Dublin 6W",Dublin,600000.0,No,Terenure,Dublin 6W,q3,80%
+01/09/2017,"29 Terenure Park, Terenure, Dublin 6W",Dublin,1180000.0,No,Terenure,Dublin 6W,q4,100%
+04/09/2017,"22 Rathdown Ave, Terenure, Dublin 6W",Dublin,770000.0,No,Terenure,Dublin 6W,q4,90%
+06/09/2017,"21 Terenure Gate, Terenure Road West, Dublin 6W",Dublin,788546.25,Yes,Terenure,Dublin 6W,q4,90%
+07/09/2017,"12 Fortfield Ave, Terenure, Dublin 6W",Dublin,1150000.0,No,Terenure,Dublin 6W,q4,100%
+07/09/2017,"43 Lavarna Grove, Terenure, Dublin 6W",Dublin,600000.0,No,Terenure,Dublin 6W,q3,80%
+08/09/2017,"25 Terenure Gate, Terenure Road, Dublin 6W",Dublin,785000.0,Yes,Terenure,Dublin 6W,q4,90%
+11/09/2017,"8 Horton Court, Terenure Rd West, Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+12/09/2017,"3 Terenure Square, Elm Park Terrace, Terenure",Dublin,502202.0,Yes,Terenure,Dublin 6W,q3,60%
+12/09/2017,"42 Rathdown Park, Terenure, Dublin 6W",Dublin,1352209.99,No,Terenure,Dublin 6W,q4,100%
+12/09/2017,"7 The Laurels, Terenure Rd West, Dublin 6W",Dublin,310000.0,No,Terenure,Dublin 6W,q1,30%
+13/09/2017,"135 Wainsfort Manor Dr, Terenure, Dublin 6",Dublin,612500.0,No,Terenure,Dublin 6W,q3,80%
+13/09/2017,"16 Olney Crescent, Terenure, Dublin 6W",Dublin,685000.0,No,Terenure,Dublin 6W,q4,80%
+14/09/2017,"6 Wainsfort Manor Dr, Terenure, Dublin 6W",Dublin,620000.0,No,Terenure,Dublin 6W,q3,80%
+15/09/2017,"58 Corrib Rd, Terenure, Dublin 6W",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+15/09/2017,"8 Maple Court, 40 42 Terenure Rd East, Rathgar Dublin 6",Dublin,319000.0,No,Terenure,Dublin 6W,q1,30%
+19/09/2017,"125 Meadow Bank, Bushy Park Road, Terenure Road",Dublin,395000.0,No,Terenure,Dublin 6W,q2,40%
+25/09/2017,"21 Mountdown Rd, Manor Estate, Terenure Dublin 12",Dublin,463000.0,No,Terenure,Dublin 6W,q3,60%
+26/09/2017,"8 Greenlea Rd, Terenure, Dublin 6W",Dublin,850000.0,No,Terenure,Dublin 6W,q4,100%
+05/10/2017,"33 Cremorne, Terenure Rd East, Terenure",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+05/10/2017,"63 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+06/10/2017,"5 Terenure Gate, Terenure Road West, Terenure",Dublin,594714.0,Yes,Terenure,Dublin 6W,q3,70%
+06/10/2017,"50 Greentrees Rd, Terenure, Dublin 12",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+09/10/2017,"239 Templeogue Rd, Terenure, Dublin 6W",Dublin,885000.0,No,Terenure,Dublin 6W,q4,100%
+13/10/2017,"18 Terenure Gate, Terenure Road West, Dublin 6",Dublin,841279.87,Yes,Terenure,Dublin 6W,q4,100%
+13/10/2017,"23 Terenure Gate, Terenure, Dublin 6W",Dublin,691629.96,Yes,Terenure,Dublin 6W,q4,90%
+13/10/2017,"91 Templeogue Rd, Terenure, Dublin 6W",Dublin,950000.0,No,Terenure,Dublin 6W,q4,100%
+17/10/2017,"18 Wainsfort Manor Grove, Terenure, Manor Grove Dublin 6W",Dublin,375000.0,No,Terenure,Dublin 6W,q2,40%
+17/10/2017,"2 Parkmore Dr, Terenure, Dublin 6W",Dublin,819500.0,No,Terenure,Dublin 6W,q4,90%
+19/10/2017,"62 The Cloisters, Terenure, Dublin",Dublin,460000.0,No,Terenure,Dublin 6W,q3,60%
+20/10/2017,"16 Wainsfort Crescent, Terenure, Dublin 6W",Dublin,538000.0,No,Terenure,Dublin 6W,q3,70%
+20/10/2017,"35 Greentrees Rd, Terenure, Dublin 12",Dublin,486000.0,No,Terenure,Dublin 6W,q3,60%
+23/10/2017,"19 Healthfield Rd, Terenure, Dublin 6",Dublin,1985000.0,No,Terenure,Dublin 6W,q4,100%
+24/10/2017,"Apt 2 Templehill, Terenure Road, Dublin 6",Dublin,360000.0,No,Terenure,Dublin 6W,q2,40%
+25/10/2017,"17 Cormac Terrace, Terenure, Dublin 6W",Dublin,380000.0,No,Terenure,Dublin 6W,q2,40%
+26/10/2017,"4 The Hall, Laurel Place, Terenure Rd West Dublin 6W",Dublin,372500.0,No,Terenure,Dublin 6W,q2,40%
+27/10/2017,"45 Melvin Rd, Terenure, Dublin 6W",Dublin,305000.0,No,Terenure,Dublin 6W,q1,30%
+27/10/2017,"77 Terenure Rd East, Dublin 6, Dublin",Dublin,1480000.0,No,Terenure,Dublin 6W,q4,100%
+02/11/2017,"177 Bushy Park House, Terenure, Dublin 6W",Dublin,406000.0,No,Terenure,Dublin 6W,q2,50%
+02/11/2017,"3 Cormac Terrace, Terenure, Dublin 6W",Dublin,340000.0,No,Terenure,Dublin 6W,q2,30%
+03/11/2017,"29 Fortfield Rd, Terenure, Dublin 6W",Dublin,800000.0,No,Terenure,Dublin 6W,q4,90%
+03/11/2017,"7 Beechlawn Mews, Beechlawn Way, Terenure Dublin 6",Dublin,350000.0,No,Terenure,Dublin 6W,q2,40%
+03/11/2017,"Apt 15 Hazelbrook, 65 69 Terenure Rd West, Dublin 6W",Dublin,325000.0,No,Terenure,Dublin 6W,q2,30%
+10/11/2017,"62 Derravaragh Rd, Terenure, Dublin 6W",Dublin,485000.0,No,Terenure,Dublin 6W,q3,60%
+13/11/2017,"66 Kimmage Grove, Terenure, Dublin 6W",Dublin,380000.0,No,Terenure,Dublin 6W,q2,40%
+15/11/2017,"113 Kimmage Road Lower, Terenure, Dublin 6",Dublin,735000.0,No,Terenure,Dublin 6W,q4,90%
+17/11/2017,"10 Terenure Gate, Terenure Road West, Dublin 6W",Dublin,387664.0,Yes,Terenure,Dublin 6W,q2,40%
+17/11/2017,"16 Terenure Gate, Terenure Road West, Terenure",Dublin,396476.0,Yes,Terenure,Dublin 6W,q2,40%
+17/11/2017,"88 Terenure Rd East, Terenure, Dublin 6",Dublin,275000.0,No,Terenure,Dublin 6W,q1,20%
+17/11/2017,"Unit 13 Terenure Gate, Terenure Road West, Dublin 6W",Dublin,524229.0,Yes,Terenure,Dublin 6W,q3,60%
+20/11/2017,"12 Terenure Gate, Terenure Road West, Terenure",Dublin,387664.0,Yes,Terenure,Dublin 6W,q2,40%
+22/11/2017,"12 Brighton Gardens, Terenure, Dublin 6",Dublin,515000.0,No,Terenure,Dublin 6W,q3,60%
+22/11/2017,"75 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,595000.0,No,Terenure,Dublin 6W,q3,70%
+28/11/2017,"143 Terenure Rd, Terenure Rd West, Dublin 6W",Dublin,807500.0,No,Terenure,Dublin 6W,q4,90%
+29/11/2017,"No. 8 Tenenure Gate, Terenure, Dubllin 6W",Dublin,380600.0,Yes,Terenure,Dublin 6W,q2,40%
+30/11/2017,"13 Hazelbrook Rd, Terenure, Dublin 6",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+30/11/2017,"2 Wainsfort Manor Grove, Terenure, Dublin",Dublin,395000.0,No,Terenure,Dublin 6W,q2,40%
+30/11/2017,"35 Terenure Park, Dublin 6, Co Dublin",Dublin,820000.0,No,Terenure,Dublin 6W,q4,90%
+01/12/2017,"14 Fortfield Sq, Terenure, Dublin 6W",Dublin,620000.0,No,Terenure,Dublin 6W,q3,80%
+01/12/2017,"37 Wainsfort Manor Dr, Terenure, Dublin 6W",Dublin,620000.0,No,Terenure,Dublin 6W,q3,80%
+05/12/2017,"9 Rathdown Crescent, Terenure, Dublin 6W",Dublin,1865000.0,No,Terenure,Dublin 6W,q4,100%
+06/12/2017,"Peacehaven, 12A Fortfield Ave, Terenure",Dublin,930000.0,No,Terenure,Dublin 6W,q4,100%
+07/12/2017,"22 Larkfield Park, Terenure, Dublin 6W",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+08/12/2017,"191 Lower Kimmage Rd, Terenure, Dublin 6W",Dublin,300000.0,No,Terenure,Dublin 6W,q1,30%
+08/12/2017,"45 Rathdown Dr, Terenure, Dublin 6W",Dublin,1610625.0,No,Terenure,Dublin 6W,q4,100%
+13/12/2017,"Unit 20 Terenure Gate, Terenure Road  West, Dublin 6W",Dublin,691629.96,Yes,Terenure,Dublin 6W,q4,90%
+15/12/2017,"1 Hazelbrook Court, Terenure Rd West, Terenure Dublin 6W",Dublin,464000.0,No,Terenure,Dublin 6W,q3,60%
+15/12/2017,"133 Templeogue Road, Terenure, Dublin 6W",Dublin,1170000.0,No,Terenure,Dublin 6W,q4,100%
+15/12/2017,"No. 9 Terenure Gate, Terenure Road West, Dublin 6W",Dublin,524229.0,Yes,Terenure,Dublin 6W,q3,70%
+19/12/2017,"6 Melvin Rd, Terenure, Dublin 6W",Dublin,460000.0,No,Terenure,Dublin 6W,q3,60%
+20/12/2017,"35 Fortfield Square, College Drive, Terenure",Dublin,721500.0,No,Terenure,Dublin 6W,q4,90%
+21/12/2017,"13 The Laurels, Terenure Road West, Dublin 6W",Dublin,307500.0,No,Terenure,Dublin 6W,q1,30%
+22/12/2017,"23 Ashfield Park, Terenure, Dublin 6W",Dublin,900000.0,No,Terenure,Dublin 6W,q4,100%
+22/12/2017,"40 Eaton Sq, Terenure, Dublin 6W",Dublin,990000.0,No,Terenure,Dublin 6W,q4,100%
+22/12/2017,"96 Wainsfort Rd, Terenure, Dublin 6W",Dublin,260000.0,No,Terenure,Dublin 6W,q1,20%
+05/01/2018,"69 Rockfield Ave, Terenure, Dublin 12",Dublin,545000.0,No,Terenure,Dublin 6W,q3,70%
+09/01/2018,"19 Terenure Gate, Terenure, Dublin 6W",Dublin,691629.94,Yes,Terenure,Dublin 6W,q4,80%
+12/01/2018,"30 Wainsfort Manor Crescent, Wainsfort Manor, Terenure Dublin 6W",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+16/01/2018,"11 Terenure Gate, Terenure Road West",Dublin,537443.0,Yes,Terenure,Dublin 6W,q3,70%
+17/01/2018,"18 Eaton Hall, Terenure Rd North, Dublin 6W",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+19/01/2018,"15 Priory Hall, Manor Grove, Terenure",Dublin,325000.0,No,Terenure,Dublin 6W,q2,30%
+23/01/2018,"10 Wainsfort, Manor Green, Terenure Dublin 6W",Dublin,555000.0,No,Terenure,Dublin 6W,q3,70%
+29/01/2018,"153 Templeogue Rd, Terenure, Dublin 6W",Dublin,1287500.0,No,Terenure,Dublin 6W,q4,100%
+29/01/2018,"78 Wainsfort Rd, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+30/01/2018,"No. 1 Terenure Gate, Terenure Road West, Dublin 6W",Dublin,656389.0,Yes,Terenure,Dublin 6W,q4,80%
+31/01/2018,"17 Ashdale Rd, Terenure, Dublin 6W",Dublin,665000.0,No,Terenure,Dublin 6W,q4,80%
+01/02/2018,"3 Horton Court, Terenure, Dublin 6W",Dublin,380000.0,No,Terenure,Dublin 6W,q2,40%
+05/02/2018,"66 Hazelbrook Rd, Terenure, Dublin 6W",Dublin,680000.0,No,Terenure,Dublin 6W,q4,80%
+07/02/2018,"Apartment 14, Terenure Gate, Terenure Road West",Dublin,387665.0,Yes,Terenure,Dublin 6W,q2,40%
+09/02/2018,"19 Greenlea Place, Terenure Rd West, Dublin 6W",Dublin,290000.0,No,Terenure,Dublin 6W,q1,30%
+09/02/2018,"68 Terenure Rd East, Dublin 6, Dublin",Dublin,1065000.0,No,Terenure,Dublin 6W,q4,100%
+14/02/2018,"Apartment 6, Terenure Gate, Terenure West",Dublin,447455.41,Yes,Terenure,Dublin 6W,q2,50%
+15/02/2018,"5 Riversdale Grove, Terenure, Dublin 6W",Dublin,552000.0,No,Terenure,Dublin 6W,q3,70%
+22/02/2018,"15 Terenure Gate, Terenure Road West, Dublin 6W",Dublin,537445.0,Yes,Terenure,Dublin 6W,q3,70%
+27/02/2018,"37 Greenmount Rd, Terenure, Dublin 6",Dublin,700000.0,No,Terenure,Dublin 6W,q4,90%
+27/02/2018,"5 Cranford, Terenure Rd West, Terenure Dublin 6W",Dublin,895000.0,No,Terenure,Dublin 6W,q4,100%
+28/02/2018,"117 Bushy Park House, Terenure, Dublin 6W",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+05/03/2018,"121 Bush Park House, Terenure, Dublin 6W",Dublin,417000.0,No,Terenure,Dublin 6W,q2,50%
+08/03/2018,"12 Limekiln Dr, Manor Estate, Terenure Dublin 12",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+09/03/2018,"39 Greenlea Rd, Terenure, Dublin 6W",Dublin,900000.0,No,Terenure,Dublin 6W,q4,100%
+09/03/2018,"5 The Grange, Laurel Place, Terenure Rd West Dublin 6W",Dublin,495000.0,No,Terenure,Dublin 6W,q3,60%
+13/03/2018,"17 Terenure Gate, Terenure Road West, Dublin  6W",Dublin,533040.0,Yes,Terenure,Dublin 6W,q3,70%
+14/03/2018,"83 Bushy Park Rd, Terenure, Dublin 6",Dublin,1375000.0,No,Terenure,Dublin 6W,q4,100%
+15/03/2018,"31 Terenure Gate, Terenure Road West, Terenure",Dublin,440000.0,Yes,Terenure,Dublin 6W,q2,50%
+20/03/2018,"2 Westbourne House, Westbourne Rd, Terenure Dublin 6",Dublin,492500.0,No,Terenure,Dublin 6W,q3,60%
+21/03/2018,"15 Greenlea Place, Terenure Rd West, Terenure Dublin 6W",Dublin,230000.0,No,Terenure,Dublin 6W,q1,20%
+22/03/2018,"38 Terenure Gate, Terenure Road West",Dublin,546300.0,Yes,Terenure,Dublin 6W,q3,70%
+23/03/2018,"12 Ashdale Rd, Terenure, Dublin 6W",Dublin,865000.0,No,Terenure,Dublin 6W,q4,100%
+23/03/2018,"22 Terenure Gate, Terenure Road West, Terenure",Dublin,766519.82,Yes,Terenure,Dublin 6W,q4,90%
+23/03/2018,"68 Hannaville Park, Terenure, Dublin",Dublin,898000.0,No,Terenure,Dublin 6W,q4,100%
+28/03/2018,"113 Terenure Road West, Dublin 6W",Dublin,680000.0,No,Terenure,Dublin 6W,q4,80%
+29/03/2018,"Aghadoe, 72 Greenlea Rd, Terenure Dublin 6W",Dublin,880000.0,No,Terenure,Dublin 6W,q4,100%
+03/04/2018,"128 Bushy Park House, Terenure, Dublin 6",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+06/04/2018,"41 Terenure Park, Terenure, Dublin 6W",Dublin,724000.0,No,Terenure,Dublin 6W,q4,90%
+11/04/2018,"19 Derravaragh Rd, Terenure, Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+19/04/2018,"171 Fortfield Rd, Terenure, Dublin 6W",Dublin,1200000.0,No,Terenure,Dublin 6W,q4,100%
+20/04/2018,"55 Bushy Park House, Templeogue Rd, Terenure Dublin 6W",Dublin,395000.0,No,Terenure,Dublin 6W,q2,40%
+23/04/2018,"32 College Sq, Wainsfort Manor Dr, Terenure Dublin 6W",Dublin,710000.0,No,Terenure,Dublin 6W,q4,90%
+25/04/2018,"53 Fortfield Sq, Terenure, Dublin 6W",Dublin,408000.0,No,Terenure,Dublin 6W,q2,50%
+26/04/2018,"19 Temple Hill, Terenure Road West, Terenure",Dublin,400000.0,No,Terenure,Dublin 6W,q2,40%
+26/04/2018,"29 Terenure Gate, Terenure Road West",Dublin,405286.0,Yes,Terenure,Dublin 6W,q2,50%
+27/04/2018,"45 Terenure Gate, Terenure Road West, Dublin 6W",Dublin,747021.35,Yes,Terenure,Dublin 6W,q4,90%
+01/05/2018,"3 Wainsfort Drive, Terenure, Dublin 6W",Dublin,361200.0,No,Terenure,Dublin 6W,q2,40%
+03/05/2018,"26 Neagh Rd, Terenure Dublin 6W, Dublin",Dublin,358650.0,No,Terenure,Dublin 6W,q2,40%
+03/05/2018,"28 Hazelbrook Rd, Terenure, Dublin 6W",Dublin,675000.0,No,Terenure,Dublin 6W,q4,80%
+04/05/2018,"48 Terenure Gate, Terenure",Dublin,766520.0,Yes,Terenure,Dublin 6W,q4,90%
+10/05/2018,"27 Terenure Gate, Terenure Road West",Dublin,570484.58,Yes,Terenure,Dublin 6W,q3,70%
+11/05/2018,"50 Rathdown Ave, Terenure, Dublin 6W",Dublin,885000.0,No,Terenure,Dublin 6W,q4,100%
+17/05/2018,"41 Terenure Gate, Terenure Road West, Terenure",Dublin,713656.0,Yes,Terenure,Dublin 6W,q4,90%
+17/05/2018,"43 Terenure Gate, Terenure Road West",Dublin,788546.25,Yes,Terenure,Dublin 6W,q4,90%
+22/05/2018,"53 Priory Way, Manor Grove, Terenure",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+22/05/2018,"9 Fortfield Court, Fortfield Rd, Terenure Dublin 6W",Dublin,225000.0,No,Terenure,Dublin 6W,q1,10%
+24/05/2018,"28 Terenure Gate, Terenure Road West",Dublin,572687.0,Yes,Terenure,Dublin 6W,q3,70%
+24/05/2018,"44 Wainsfort Manor Crescent, Terenure, Dublin 6",Dublin,533000.0,No,Terenure,Dublin 6W,q3,70%
+25/05/2018,"113 Templeogue Rd, Terenure, Dublin 6W",Dublin,1600000.0,No,Terenure,Dublin 6W,q4,100%
+25/05/2018,"61 Terenure Rd North, Terenure, Dublin 6W",Dublin,450000.0,No,Terenure,Dublin 6W,q2,50%
+28/05/2018,"Avondale, 345 Harolds Cross Rd, Terenure Dublin 6W",Dublin,730000.0,No,Terenure,Dublin 6W,q4,90%
+30/05/2018,"37 Temple Hill, Terenure Rd West, Dublin 6W",Dublin,335000.0,No,Terenure,Dublin 6W,q2,30%
+31/05/2018,"107 Corrib Rd, Terenure, Dublin 6W",Dublin,490000.0,No,Terenure,Dublin 6W,q3,60%
+01/06/2018,"11 Fortfield Dr, Terenure, Dublin 6W",Dublin,1143000.0,No,Terenure,Dublin 6W,q4,100%
+01/06/2018,"16 Hannaville Park, Terenure, Dublin 6W",Dublin,900000.0,No,Terenure,Dublin 6W,q4,100%
+01/06/2018,"8 Hazelbrook Rd, Terenure, Dublin 6W",Dublin,795000.0,No,Terenure,Dublin 6W,q4,90%
+01/06/2018,"Cara House, 76 Terenure Road East, Dublin 6",Dublin,1325000.0,No,Terenure,Dublin 6W,q4,100%
+06/06/2018,"148 Bushy Park House, Templeogue Road, Terenure",Dublin,425000.0,No,Terenure,Dublin 6W,q2,50%
+14/06/2018,"7 Beechlawn Mews, Beechlawn Way, Terenure Dublin 6",Dublin,335000.0,No,Terenure,Dublin 6W,q2,30%
+15/06/2018,"44 Terenure Gate, Terenure",Dublin,788546.0,Yes,Terenure,Dublin 6W,q4,90%
+15/06/2018,"77 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,532000.0,No,Terenure,Dublin 6W,q3,70%
+18/06/2018,"79 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,473250.0,No,Terenure,Dublin 6W,q3,60%
+21/06/2018,"97 Terenure Rd East, Dublin 6, Dublin",Dublin,320000.0,No,Terenure,Dublin 6W,q2,30%
+22/06/2018,"73 Wainsfort Manor Cresent, Terenure, Dublin 6W",Dublin,549000.0,No,Terenure,Dublin 6W,q3,70%
+25/06/2018,"5 Templeville Dr, Terenure, Dublin 6W",Dublin,612500.0,No,Terenure,Dublin 6W,q3,80%
+28/06/2018,"25 Fortfield Avenue, Terenure, Dublin 6W",Dublin,1160000.0,No,Terenure,Dublin 6W,q4,100%
+29/06/2018,"20 Cherry Court, Mount Tallant Ave, Terenure Dublin 6W",Dublin,240000.0,No,Terenure,Dublin 6W,q1,20%
+29/06/2018,"42 Terenure Gate, Terenure",Dublin,713657.0,Yes,Terenure,Dublin 6W,q4,90%
+29/06/2018,"44 Terenure Rd West, Terenure, Dublin 6W",Dublin,494000.0,No,Terenure,Dublin 6W,q3,60%
+02/07/2018,"24 Terenure Rd West, Terenure, Dublin 6W",Dublin,1100000.0,No,Terenure,Dublin 6W,q4,100%
+04/07/2018,"14 Wainsfort Manor Dr, Terenure, Dublin 6W",Dublin,552000.0,No,Terenure,Dublin 6W,q3,70%
+05/07/2018,"90 Terenure Rd North, First Top Floors, Dublin 6W",Dublin,115500.0,No,Terenure,Dublin 6W,q1,10%
+06/07/2018,"7 Terenure Gate, Terenure",Dublin,605000.0,Yes,Terenure,Dublin 6W,q3,80%
+09/07/2018,"27 Templeville Rd, Terenure, Dublin 6W",Dublin,725000.0,No,Terenure,Dublin 6W,q4,90%
+09/07/2018,"27 Templeville Road, Terenure, Dublin 6W",Dublin,50000.0,No,Terenure,Dublin 6W,q1,10%
+11/07/2018,"17 St Endas Rd, Terenure, Dublin 6",Dublin,610000.0,No,Terenure,Dublin 6W,q3,80%
+12/07/2018,"39 Terenure Gate, Terenure, Dublin 6W",Dublin,774174.66,Yes,Terenure,Dublin 6W,q4,90%
+12/07/2018,"57 Terenure Rd North, Dublin 6W, Dublin",Dublin,405000.0,No,Terenure,Dublin 6W,q2,50%
+17/07/2018,"111 Templeville Rd, Terenure, Dublin 6W",Dublin,645000.0,No,Terenure,Dublin 6W,q4,80%
+17/07/2018,"26 Fortfield Rd, Terenure, Dublin 6W",Dublin,670000.0,No,Terenure,Dublin 6W,q4,80%
+18/07/2018,"47 Terenure Gate, Terenure Road West, Dublin 6",Dublin,700440.0,Yes,Terenure,Dublin 6W,q4,90%
+18/07/2018,"50 Fernhill Rd, Manor, Terenure Dublin 12",Dublin,530000.0,No,Terenure,Dublin 6W,q3,70%
+19/07/2018,"4 Terenure Gate, Terenure",Dublin,722500.0,Yes,Terenure,Dublin 6W,q4,90%
+20/07/2018,"192 Bushy Park House, Terenure, Dublin 6W",Dublin,402000.0,No,Terenure,Dublin 6W,q2,50%
+20/07/2018,"24 Cormac Terrace, Terenure, Dublin 6W",Dublin,380000.0,No,Terenure,Dublin 6W,q2,40%
+26/07/2018,"9 Aideen Ave, Terenure, Dublin 6W",Dublin,480000.0,No,Terenure,Dublin 6W,q3,60%
+27/07/2018,"303 Harolds Cross Rd, Terenure, Dublin 6W",Dublin,590000.0,No,Terenure,Dublin 6W,q3,70%
+31/07/2018,"11 Temple Hill, Terenure Rd West, Terenure Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+01/08/2018,"13 Limekiln Close, Manor Estate, Terenure Dublin 12",Dublin,540000.0,No,Terenure,Dublin 6W,q3,70%
+02/08/2018,"202 Bushy Park House, Templeogue Rd, Terenure Dublin 6W",Dublin,725000.0,No,Terenure,Dublin 6W,q4,90%
+03/08/2018,"2 Terenure Park, Terenure, Dublin 6W",Dublin,840000.0,No,Terenure,Dublin 6W,q4,100%
+07/08/2018,"157 Wainsfort Rd, Terenure, Dublin 6W",Dublin,510000.0,No,Terenure,Dublin 6W,q3,60%
+07/08/2018,"89 Fortfield Road, Terenure, Dublin 6W",Dublin,600000.0,No,Terenure,Dublin 6W,q3,80%
+08/08/2018,"16 Ashdale Gardens, Terenure, Dublin 6",Dublin,730000.0,No,Terenure,Dublin 6W,q4,90%
+10/08/2018,"32 Terenure Gate, Terenure Road West, Dublin 6W",Dublin,524229.07,Yes,Terenure,Dublin 6W,q3,70%
+10/08/2018,"370 Lower Kimmage Rd, Terenure, Dublin 6W",Dublin,635000.0,No,Terenure,Dublin 6W,q3,80%
+14/08/2018,"74 Bushy Park House, Terenure, Dublin 6",Dublin,423000.0,No,Terenure,Dublin 6W,q2,50%
+15/08/2018,"43 Fortfield Park, Terenure, Dublin 6W",Dublin,886000.0,No,Terenure,Dublin 6W,q4,100%
+17/08/2018,"124 Corrib Rd, Terenure, Dublin 6W",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+17/08/2018,"27 Fortfield Rd, Terenure, Dublin 6W",Dublin,900000.0,No,Terenure,Dublin 6W,q4,100%
+17/08/2018,"64 Melvin Rd, Terenure, Dublin 6W",Dublin,490000.0,No,Terenure,Dublin 6W,q3,60%
+17/08/2018,"8 Rathdown Villas, Terenure, Dublin 6W",Dublin,1050000.0,No,Terenure,Dublin 6W,q4,100%
+21/08/2018,"No. 2, Terenure Gate, Terenure",Dublin,792951.54,Yes,Terenure,Dublin 6W,q4,90%
+22/08/2018,"101 Fortfield Rd, Terenure, Dublin 6W",Dublin,777000.0,No,Terenure,Dublin 6W,q4,90%
+24/08/2018,"125 Bushy Park House, Templeogue Rd, Terenure Dublin 6W",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+24/08/2018,"26 College Dr, Terenure, Dublin 6W",Dublin,597000.0,No,Terenure,Dublin 6W,q3,80%
+28/08/2018,"46 Terenure Gate, Terenure Road West, Dublin 6W",Dublin,700440.53,Yes,Terenure,Dublin 6W,q4,90%
+01/09/2018,"29 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,210000.0,No,Terenure,Dublin 6W,q1,10%
+04/09/2018,"152 Bushy Park House, Templeogue Rd, Terenure Dublin 6W",Dublin,540000.0,No,Terenure,Dublin 6W,q3,70%
+06/09/2018,"30 St Endas Rd, Terenure, Dublin 6",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+14/09/2018,"21 Mayfield Rd, Terenure, Dublin 6W",Dublin,980000.0,No,Terenure,Dublin 6W,q4,100%
+14/09/2018,"30 Terenure Gate, Terenure Road West",Dublin,533039.64,Yes,Terenure,Dublin 6W,q3,70%
+17/09/2018,"22 Lavarna Road, Terenure, Dublin 6W",Dublin,735000.0,No,Terenure,Dublin 6W,q4,90%
+17/09/2018,"7 Terenure Park, Terenure, Dublin 6W",Dublin,910000.0,No,Terenure,Dublin 6W,q4,100%
+21/09/2018,"15 Fortfield Dr, Terenure, Dublin 6W",Dublin,1150000.0,No,Terenure,Dublin 6W,q4,100%
+24/09/2018,"24 Terenure Gate, Terenure Road West",Dublin,691629.0,Yes,Terenure,Dublin 6W,q4,80%
+27/09/2018,"10 Aideen Ave, Terenure, Dublin 6W",Dublin,445000.0,No,Terenure,Dublin 6W,q2,50%
+27/09/2018,"86 Templeville Rd, Terenure, Dublin 6W",Dublin,630000.0,No,Terenure,Dublin 6W,q3,80%
+28/09/2018,"16 Lavarna Rd, Terenure, Dublin 6W",Dublin,700000.0,No,Terenure,Dublin 6W,q4,90%
+28/09/2018,"26 Aideen Ave, Terenure, Dublin 6West",Dublin,529850.0,No,Terenure,Dublin 6W,q3,70%
+28/09/2018,"3 Fortfield Grove, Terenure, Dublin 6W",Dublin,625000.0,No,Terenure,Dublin 6W,q3,80%
+28/09/2018,"Apt 5, 20 Highfield Rd, Terenure Dublin 6",Dublin,202000.0,No,Terenure,Dublin 6W,q1,10%
+02/10/2018,"7 Fergus Rd, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+03/10/2018,"4. St. Pancras Avenue, Mount Tallant Avenue, Terenure",Dublin,766519.82,Yes,Terenure,Dublin 6W,q4,90%
+05/10/2018,"27 Terenure Rd West, Dublin 6W, Dublin",Dublin,750000.0,No,Terenure,Dublin 6W,q4,90%
+05/10/2018,"7 College Park, Terenure, Dublin 6W",Dublin,682000.0,No,Terenure,Dublin 6W,q4,80%
+05/10/2018,"73 Larkfield Gardens, Terenure, Dublin 6W",Dublin,465000.0,No,Terenure,Dublin 6W,q3,60%
+12/10/2018,"6 Terenure Park, Terenure, Dublin 6W",Dublin,780000.0,No,Terenure,Dublin 6W,q4,90%
+12/10/2018,"7 Greenlea Place, Terenure Rd West, Terenure Dublin 6W",Dublin,375000.0,No,Terenure,Dublin 6W,q2,40%
+16/10/2018,"159 Bushy Park House, Terenure, Dublin 6W",Dublin,435000.0,No,Terenure,Dublin 6W,q2,50%
+22/10/2018,"21 Templeogue Rd, Terenure, Dublin 6W",Dublin,595000.0,No,Terenure,Dublin 6W,q3,70%
+22/10/2018,"53 Corrib Rd, Terenure, Dublin 6W",Dublin,388000.0,No,Terenure,Dublin 6W,q2,40%
+24/10/2018,"196 Corrib Rd, Terenure, Dublin 6W",Dublin,480000.0,No,Terenure,Dublin 6W,q3,60%
+24/10/2018,"40 Terenure Gate, Terenure, Dublin 6W",Dublin,713656.38,Yes,Terenure,Dublin 6W,q4,90%
+25/10/2018,"172 Corrib Rd, Terenure, Dublin 6W",Dublin,515000.0,No,Terenure,Dublin 6W,q3,60%
+25/10/2018,"87 Wainsfort Road, Terenure, Dublin 6",Dublin,740000.0,No,Terenure,Dublin 6W,q4,90%
+26/10/2018,"16 Riversdale Grove, Terenure, Dublin 6W",Dublin,575000.0,No,Terenure,Dublin 6W,q3,70%
+26/10/2018,"56 Terenure Rd East, Rathgar, Dublin 6",Dublin,2135874.0,No,Terenure,Dublin 6W,q4,100%
+26/10/2018,"7 Limekiln Dr, Terenure, Dublin 6W",Dublin,445000.0,No,Terenure,Dublin 6W,q2,50%
+30/10/2018,"17 Wainsfort Manor Grove, Terenure, Manor Grove Dublin 6W",Dublin,300000.0,No,Terenure,Dublin 6W,q1,30%
+30/10/2018,"26 Hazelbrook Dr, Terenure, Dublin 6W",Dublin,600000.0,No,Terenure,Dublin 6W,q3,80%
+08/11/2018,"2 Greenlea Place, Terenure Rd West, Dublin 6W",Dublin,280000.0,No,Terenure,Dublin 6W,q1,20%
+12/11/2018,"4 Fergus Rd, Terenure, Dublin 6W",Dublin,270000.0,No,Terenure,Dublin 6W,q1,20%
+12/11/2018,"44 Derravaragh Rd, Terenure, Dublin 6W",Dublin,437000.0,No,Terenure,Dublin 6W,q2,50%
+13/11/2018,"3 Neagh Rd, Terenure, Dublin 6",Dublin,335000.0,No,Terenure,Dublin 6W,q2,30%
+13/11/2018,"38 Derravaragh Rd, Terenure, Dublin 6W",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+13/11/2018,"46 Lavarna Rd, Terenure, Dublin 6W",Dublin,815000.0,No,Terenure,Dublin 6W,q4,90%
+15/11/2018,"The Cottage, 40 Templeogue Rd, Terenure Dublin 6W",Dublin,695000.0,No,Terenure,Dublin 6W,q4,90%
+21/11/2018,"6 Fortfield Dr, Terenure, Dublin 6W",Dublin,980000.0,No,Terenure,Dublin 6W,q4,100%
+22/11/2018,"139 Terenure Rd West, Terenure, Dublin 6W",Dublin,825000.0,No,Terenure,Dublin 6W,q4,100%
+23/11/2018,"14 Fortfield Court, Fortfield Rd, Terenure",Dublin,200000.0,No,Terenure,Dublin 6W,q1,10%
+30/11/2018,"122 Templeville Road, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+05/12/2018,"13 St Martins Park, Kimmage Rd Lower, Terenure Dublin 6W",Dublin,545000.0,No,Terenure,Dublin 6W,q3,70%
+07/12/2018,"47 Neagh Rd, Terenure, Dublin 6W",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+13/12/2018,"79 Brookefield, Terenure, Dublin 12",Dublin,444000.0,No,Terenure,Dublin 6W,q2,50%
+14/12/2018,"6 Greenlea Park, Terenure, Dublin 6W",Dublin,680000.0,No,Terenure,Dublin 6W,q4,80%
+17/12/2018,"34 Wainsfort Manor Dr, Terenure, Dublin 6W",Dublin,535000.0,No,Terenure,Dublin 6W,q3,70%
+18/12/2018,"120 Templeville Rd, Terenure Dublin 6W, Dublin 6W",Dublin,560000.0,No,Terenure,Dublin 6W,q3,70%
+19/12/2018,"113 Wainsfort Manor Dr, Terenure, Dublin 6W",Dublin,605000.0,No,Terenure,Dublin 6W,q3,80%
+19/12/2018,"139 Greenlea Rd, Terenure, Dublin",Dublin,697000.0,No,Terenure,Dublin 6W,q4,90%
+19/12/2018,"24 Whitton Rd, Terenure, Dublin 6",Dublin,640000.0,No,Terenure,Dublin 6W,q4,80%
+19/12/2018,"43 College Sq, Terenure, Dublin 6W",Dublin,727000.0,No,Terenure,Dublin 6W,q4,90%
+20/12/2018,"132 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+20/12/2018,"31 Cremorne, Greenmount Rd, Terenure Dublin 6",Dublin,363000.0,No,Terenure,Dublin 6W,q2,40%
+20/12/2018,"32 Cherry Court, Terenure, Dublin",Dublin,305000.0,No,Terenure,Dublin 6W,q1,30%
+20/12/2018,"56 Templeville Dr, Terenure, Dublin 6W",Dublin,602500.0,No,Terenure,Dublin 6W,q3,80%
+20/12/2018,"Site 7 Limekiln Drive, Manor Estate, Terenure",Dublin,210000.0,Yes,Terenure,Dublin 6W,q1,10%
+21/12/2018,"118 St Annes, Terenure, Dublin 12",Dublin,384000.0,No,Terenure,Dublin 6W,q2,40%
+21/12/2018,"12 Parkmore Drive, Terenure, Dublin 6W",Dublin,850000.0,No,Terenure,Dublin 6W,q4,100%
+21/12/2018,"65 Terenure Rd North, Dublin 6W, Dublin",Dublin,20000.0,No,Terenure,Dublin 6W,q1,10%
+07/01/2019,"173 Corrib Rd, Terenure, Dublin 6W",Dublin,495000.0,No,Terenure,Dublin 6W,q3,60%
+16/01/2019,"135 Templeogue Rd, Terenure, Dublin 6W",Dublin,1201000.0,No,Terenure,Dublin 6W,q4,100%
+16/01/2019,"27 Fortfield Park, Terenure, Dublin 6W",Dublin,1005000.0,No,Terenure,Dublin 6W,q4,100%
+17/01/2019,"23 Temple Hill, Terenure Rd West, Terenure Dublin 6W",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+22/01/2019,"37 Fortfield Square, Terenure, Dublin 6W",Dublin,800000.0,No,Terenure,Dublin 6W,q4,90%
+23/01/2019,"13 Terenure Park, Terenure, Dublin 6W",Dublin,950000.0,No,Terenure,Dublin 6W,q4,100%
+31/01/2019,"10 Beechlawn Mews, Terenure, Dublin 6",Dublin,320000.0,No,Terenure,Dublin 6W,q2,30%
+04/02/2019,"20 Wainsfort Manor Dr, Terenure, Dublin 6W",Dublin,810000.0,No,Terenure,Dublin 6W,q4,90%
+08/02/2019,"31 St Pancras Avenue, Mount Tallant Avenue, Terenure",Dublin,801762.0,Yes,Terenure,Dublin 6W,q4,90%
+14/02/2019,"19 Wainsfort Manor Grove, Terenure, Manor Grove Dublin 6W",Dublin,305000.0,No,Terenure,Dublin 6W,q1,30%
+15/02/2019,"10 Parkmore Dr, Terenure, Dublin 6W",Dublin,775000.0,No,Terenure,Dublin 6W,q4,90%
+18/02/2019,"1 Wainsfort Manor Green, Terenure, Dublin 6W",Dublin,640000.0,No,Terenure,Dublin 6W,q4,80%
+18/02/2019,"21 Wainsfort Grove, Terenure, Dublin 6W",Dublin,780000.0,No,Terenure,Dublin 6W,q4,90%
+19/02/2019,"5 Shelton Gardens, Terenure, Dublin 12",Dublin,438000.0,No,Terenure,Dublin 6W,q2,50%
+19/02/2019,"63 Terenure Rd, North Terenure, Dublin 6W",Dublin,15000.0,No,Terenure,Dublin 6W,q1,10%
+21/02/2019,"1 Ashfield Park, Terenure, Dublin 6W",Dublin,685000.0,No,Terenure,Dublin 6W,q4,80%
+25/02/2019,"17 Cremorne, Terenure, Off Greenmount Rd Dublin 6",Dublin,415000.0,No,Terenure,Dublin 6W,q2,50%
+28/02/2019,"2 St. Pancras Avenue, St Pancras  Mount Tallant Avenue, Terenure",Dublin,870000.0,Yes,Terenure,Dublin 6W,q4,100%
+28/02/2019,"25 College Sq, Wainsfort Manor Dr, Terenure Dublin 6W",Dublin,746500.0,No,Terenure,Dublin 6W,q4,90%
+28/02/2019,"64 Mount Tallant Ave, Terenure Dublin 6W, Dublin",Dublin,426000.0,No,Terenure,Dublin 6W,q2,50%
+01/03/2019,"2 Aideen Ave, Terenure, Dublin 6",Dublin,390000.0,No,Terenure,Dublin 6W,q2,40%
+05/03/2019,"39 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,555000.0,No,Terenure,Dublin 6W,q3,70%
+06/03/2019,"37 St. Pancras Avenue, Mount Tallant Avenue, Terenure",Dublin,722467.0,Yes,Terenure,Dublin 6W,q4,90%
+07/03/2019,"14 Glenmurry Park, Manor Estate, Terenure Dublin 12",Dublin,610000.0,No,Terenure,Dublin 6W,q3,80%
+07/03/2019,"32 Saint Pancras, Mount Tallant Avenue, Terenure",Dublin,801762.0,Yes,Terenure,Dublin 6W,q4,90%
+08/03/2019,"8 Eaton Hall, Terenure, Dublin 6W",Dublin,366000.0,No,Terenure,Dublin 6W,q2,40%
+11/03/2019,"19 Lavarna Grove, Terenure, Dublin 6W",Dublin,770000.0,No,Terenure,Dublin 6W,q4,90%
+15/03/2019,"24 Oaklands Terrace, Terenure, Dublin 6",Dublin,155000.0,No,Terenure,Dublin 6W,q1,10%
+18/03/2019,"4 Cormac Terrace, Terenure, Dublin 6W",Dublin,354000.0,No,Terenure,Dublin 6W,q2,40%
+26/03/2019,"6 Rathmore Villas, Terenure, Dublin 6W",Dublin,366000.0,No,Terenure,Dublin 6W,q2,40%
+27/03/2019,"44 Wainsfort Crescent, Terenure, Dublin 6W",Dublin,550000.0,No,Terenure,Dublin 6W,q3,70%
+28/03/2019,"21 The Orchard, Fortfield Rd, Terenure Dublin 6W",Dublin,785000.0,No,Terenure,Dublin 6W,q4,90%
+29/03/2019,"24 The Cloisters, Terenure, Dublin 6W",Dublin,490000.0,No,Terenure,Dublin 6W,q3,60%
+11/04/2019,"18 Mountdown Park, Manor Estate, Terenure",Dublin,396826.73,No,Terenure,Dublin 6W,q2,40%
+17/04/2019,"139 Fortfield Rd, Terenure, Dublin 6W",Dublin,1160000.0,No,Terenure,Dublin 6W,q4,100%
+25/04/2019,"107 Bushy Park House, Terenure, Dublin 6W",Dublin,427000.0,No,Terenure,Dublin 6W,q2,50%
+26/04/2019,"42 Greentrees Rd, Terenure, Dublin 12",Dublin,450000.0,No,Terenure,Dublin 6W,q2,50%
+01/05/2019,"78 Parkmore Dr, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+03/05/2019,"38 Cedar Court, Terenure, Dublin 6W",Dublin,247500.0,No,Terenure,Dublin 6W,q1,20%
+09/05/2019,"48 Neagh Rd, Terenure, Dublin 6W",Dublin,345000.0,No,Terenure,Dublin 6W,q2,40%
+10/05/2019,"10 Wainsfort Gardens, Terenure, Dublin 6W",Dublin,545000.0,No,Terenure,Dublin 6W,q3,70%
+10/05/2019,"17A Greenmount Lawns, Terenure, Dublin 6",Dublin,330000.0,No,Terenure,Dublin 6W,q2,30%
+10/05/2019,"38 Greentrees Road, Manor Estate, Terenure",Dublin,455000.0,No,Terenure,Dublin 6W,q3,60%
+14/05/2019,"33 Eaton Square, Terenure, Dublin 6W",Dublin,885000.0,No,Terenure,Dublin 6W,q4,100%
+14/05/2019,"9 Healthfield Rd, Terenure, Dublin 6",Dublin,1460000.0,No,Terenure,Dublin 6W,q4,100%
+14/05/2019,"90 Fortfield Rd, Terenure, Dublin 6",Dublin,780000.0,No,Terenure,Dublin 6W,q4,90%
+14/05/2019,"90 Mount Tallant Ave, Terenure, Dublin 6",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+15/05/2019,"327 Lower Kimmage Rd, Terenure, Dublin 6W",Dublin,390000.0,No,Terenure,Dublin 6W,q2,40%
+24/05/2019,"48 Wainsfort Manor Crescent, Terenure, Dublin 6W",Dublin,555000.0,No,Terenure,Dublin 6W,q3,70%
+27/05/2019,"26 St. Pancras Avenue, Terenure",Dublin,792952.0,Yes,Terenure,Dublin 6W,q4,90%
+28/05/2019,"55 The Cloisters, Terenure, Dublin 6W",Dublin,490000.0,No,Terenure,Dublin 6W,q3,60%
+30/05/2019,"4 Eaton Court, Terenure, Dublin 6W",Dublin,400500.0,No,Terenure,Dublin 6W,q2,40%
+31/05/2019,"16 Terenure Road West, Dublin 6W, Dublin 6W",Dublin,800000.0,No,Terenure,Dublin 6W,q4,90%
+31/05/2019,"7 St Endas Rd, Terenure, Dublin 6",Dublin,480000.0,No,Terenure,Dublin 6W,q3,60%
+05/06/2019,"26 Aideen Drive, Terenure, Dublin 6W",Dublin,390000.0,No,Terenure,Dublin 6W,q2,40%
+06/06/2019,"66 Bushy Park Road, Terenure, Dublin 6",Dublin,1705100.0,No,Terenure,Dublin 6W,q4,100%
+07/06/2019,"156 Corrib Rd, Terenure, Dublin 6W",Dublin,450000.0,No,Terenure,Dublin 6W,q3,60%
+07/06/2019,"39 Greentrees Rd, Manor Estate, Terenure Dublin 12",Dublin,510000.0,No,Terenure,Dublin 6W,q3,60%
+12/06/2019,"42 College Park, Terenure, Dublin 6W",Dublin,625000.0,No,Terenure,Dublin 6W,q3,80%
+14/06/2019,"2 1 Beaumount House, Terenure Road East, Dublin 6",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+14/06/2019,"70 Greentrees Rd, Terenure, Dublin 12",Dublin,490000.0,No,Terenure,Dublin 6W,q3,60%
+17/06/2019,"3 Terenure Gate, Terenure Road West, Dublin",Dublin,722466.96,Yes,Terenure,Dublin 6W,q4,90%
+17/06/2019,"5 Wainsfort Manor Green, Wainsfort Rd, Terenure Dublin 6W",Dublin,637500.0,No,Terenure,Dublin 6W,q3,80%
+19/06/2019,"15 Corrib Rd, Terenure, Dublin 6W",Dublin,505000.0,No,Terenure,Dublin 6W,q3,60%
+19/06/2019,"54 Melvin Rd, Terenure, Dublin 6W",Dublin,335000.0,No,Terenure,Dublin 6W,q2,30%
+22/06/2019,"7 Glenmurray Park, Mountdown Estate, Terenure Dublin 12",Dublin,520000.0,No,Terenure,Dublin 6W,q3,60%
+26/06/2019,"61 Rathdown Park, Terenure, Dublin 6",Dublin,1200000.0,No,Terenure,Dublin 6W,q4,100%
+28/06/2019,"6 St Pancras Avenue, Mount Tallant Avenue, Terenure",Dublin,801762.0,Yes,Terenure,Dublin 6W,q4,90%
+02/07/2019,"1 Fortfield Square, Terenure, Dublin 6W",Dublin,700000.0,No,Terenure,Dublin 6W,q4,90%
+02/07/2019,"16 Aideen Ave, Terenure, Dublin 6",Dublin,445000.0,No,Terenure,Dublin 6W,q2,50%
+03/07/2019,"110 Corrib Rd, Terenure, Dublin 6W",Dublin,556000.0,No,Terenure,Dublin 6W,q3,70%
+03/07/2019,"20 Fergus Rd, Terenure, Dublin 6W",Dublin,650000.0,No,Terenure,Dublin 6W,q4,80%
+09/07/2019,"96 The Cloisters, Terenure, Dublin 6W",Dublin,460000.0,No,Terenure,Dublin 6W,q3,60%
+10/07/2019,"22 St. Pancras Avenue, Mount Tallant Avenue, Terenure",Dublin,801762.12,Yes,Terenure,Dublin 6W,q4,90%
+10/07/2019,"50 Greentrees Rd, Terenure, Dublin 12",Dublin,495000.0,No,Terenure,Dublin 6W,q3,60%
+12/07/2019,"30 The Crescent, Fortfield Sq, Terenure Dublin 6W",Dublin,380000.0,No,Terenure,Dublin 6W,q2,40%
+16/07/2019,"11 Eaton Rd, Terenure, Dublin 6W",Dublin,705000.0,No,Terenure,Dublin 6W,q4,90%
+16/07/2019,"49 Terenure Gate, Terenure Road West, Dublin 6W",Dublin,775330.39,Yes,Terenure,Dublin 6W,q4,90%
+16/07/2019,"62 Wainsfort Rd, Terenure, Dublin 6W",Dublin,610000.0,No,Terenure,Dublin 6W,q3,80%
+18/07/2019,"Apt 6, Minnowbrook, Terenure Rd West Dublin 6W",Dublin,375000.0,No,Terenure,Dublin 6W,q2,40%
+19/07/2019,"32 Fortfield Square, Fortfield Grove, Terenure",Dublin,653083.7,Yes,Terenure,Dublin 6W,q4,80%
+22/07/2019,"48 The Crescent, Fortfield Sq, Terenure Dublin 6",Dublin,250000.0,No,Terenure,Dublin 6W,q1,20%
+24/07/2019,"24 Temple Hill, Terenure Road West, Dublin 6W",Dublin,380000.0,No,Terenure,Dublin 6W,q2,40%
+26/07/2019,"318 Lower Kimmage Rd, Terenure, Dublin 6W",Dublin,420000.0,No,Terenure,Dublin 6W,q2,50%
+29/07/2019,"18 Terenure Rd West, Terenure, Dublin 6W",Dublin,875000.0,No,Terenure,Dublin 6W,q4,100%
+29/07/2019,"7 Riversdale Grove Lower, Kimmage Rd, Terenure Dublin 6W",Dublin,412000.0,No,Terenure,Dublin 6W,q2,50%
+01/08/2019,"25 St Pancras Avenue, Mount Tallant Avenue, Terenure",Dublin,766520.0,Yes,Terenure,Dublin 6W,q4,90%
+02/08/2019,"2 Wainsfort Crescent, Terenure, Dublin 6W",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+02/08/2019,"21 Wainsfort Crescent, Terenure, Dublin 6W",Dublin,500000.0,No,Terenure,Dublin 6W,q3,60%
+06/08/2019,"Apt 57 The Crescent, Fortfield Square, Terenure",Dublin,570000.0,No,Terenure,Dublin 6W,q3,70%
+09/08/2019,"123 Melvin Rd, Terenure, Dublin",Dublin,546000.0,No,Terenure,Dublin 6W,q3,70%
+13/08/2019,"5 Ashfield Park, Terenure, Dublin 6W",Dublin,779000.0,No,Terenure,Dublin 6W,q4,90%
+13/08/2019,"51 Lavarna Grove, Terenure, Dublin 6W",Dublin,735000.0,No,Terenure,Dublin 6W,q4,90%
+21/08/2019,"138 Wainsfort Rd, Terenure, Dublin 6W",Dublin,560000.0,No,Terenure,Dublin 6W,q3,70%
+22/08/2019,"42 Hannaville Park, Terenure, Dublin 6W",Dublin,1065000.0,No,Terenure,Dublin 6W,q4,100%
+23/08/2019,"19 The Orchard, Fortfield Rd, Terenure",Dublin,696000.0,No,Terenure,Dublin 6W,q4,90%
+23/08/2019,"3 Cranford, Terenure Rd West, Terenure Dublin 6W",Dublin,850000.0,No,Terenure,Dublin 6W,q4,100%
+27/08/2019,"153 Greenlea Road, Terenure, Dublin 6W",Dublin,673600.0,No,Terenure,Dublin 6W,q4,80%
+28/08/2019,"51 Terenure Gate, Terenure Road West, Terenure",Dublin,870000.0,Yes,Terenure,Dublin 6W,q4,100%
+29/08/2019,"2 Melvin Rd, Terenure, Dublin 6W",Dublin,370000.0,No,Terenure,Dublin 6W,q2,40%
+02/09/2019,"117 Melvin Rd, Terenure, Dublin 6W",Dublin,511000.0,No,Terenure,Dublin 6W,q3,60%
+02/09/2019,"20 Mount Tallant Ave, Terenure, Dublin 6W",Dublin,737500.0,No,Terenure,Dublin 6W,q4,90%
+05/09/2019,"26 Terenure Gate, Terenure Road West, Terenure",Dublin,870000.0,Yes,Terenure,Dublin 6W,q4,100%
+09/09/2019,"23 Ashfield Park, Terenure, Dublin 6W",Dublin,956000.0,No,Terenure,Dublin 6W,q4,100%
+09/09/2019,"35Hazelbrook Dr, Terenure, Dublin 6W",Dublin,555000.0,No,Terenure,Dublin 6W,q3,70%
+12/09/2019,"142 Kimmage Rd West, Terenure, Dublin 12",Dublin,595000.0,No,Terenure,Dublin 6W,q3,80%
+12/09/2019,"23 St Pancras Avenue, Mount Tallant Avenue, Terenure",Dublin,801762.0,Yes,Terenure,Dublin 6W,q4,90%
+13/09/2019,"329 Harolds Cross Rd, Terenure, Dublin 6W",Dublin,775000.0,No,Terenure,Dublin 6W,q4,90%
+13/09/2019,"97 Corrib Rd, Terenure, Dublin 6W",Dublin,470000.0,No,Terenure,Dublin 6W,q3,60%
+16/09/2019,"115 Melvin Rd, Terenure, Dublin 6",Dublin,427000.0,No,Terenure,Dublin 6W,q2,50%
+16/09/2019,"14 Oaklands Terrace, Terenure, Dublin 6",Dublin,395000.0,No,Terenure,Dublin 6W,q2,40%
+18/09/2019,"21 Derravarragh Rd, Terenure, Dublin 6W",Dublin,430000.0,No,Terenure,Dublin 6W,q2,50%
+18/09/2019,"4 The Hall, Laurel Place, Terenure Rd West Dublin 6W",Dublin,385000.0,No,Terenure,Dublin 6W,q2,40%
+23/09/2019,"33 Melvin Rd, Terenure, Dublin 6W",Dublin,425000.0,No,Terenure,Dublin 6W,q2,50%
+23/09/2019,"63A Terenure Road North, Terenure, Dublin 6W",Dublin,683095.0,Yes,Terenure,Dublin 6W,q4,80%
+27/09/2019,"5 Aideen Ave, Terenure, Dublin 6W",Dublin,485000.0,No,Terenure,Dublin 6W,q3,60%
+27/09/2019,"6 Fortfield Sq, Terenure, Dublin 6W",Dublin,842500.0,No,Terenure,Dublin 6W,q4,100%
+01/10/2019,"66 Wainsfort Rd, Terenure, Dublin 6W",Dublin,640000.0,No,Terenure,Dublin 6W,q4,80%
+02/10/2019,"34 St. Pancras Avenue, Mount Tallant Avenue, Terenure",Dublin,766519.82,Yes,Terenure,Dublin 6W,q4,90%
+04/10/2019,"14 Cedar Court, Mount Tallant Ave, Terenure Dublin 6W",Dublin,470000.0,No,Terenure,Dublin 6W,q3,60%
+04/10/2019,"33 St. Pancras Avenue, Terenure, Dublin 6W",Dublin,766263.0,Yes,Terenure,Dublin 6W,q4,90%
+07/10/2019,"42 Eaton Sq, Terenure, Dublin 6W",Dublin,915000.0,No,Terenure,Dublin 6W,q4,100%
+10/10/2019,"65 Terenure Rd North, Dublin 6W, Dublin",Dublin,595000.0,No,Terenure,Dublin 6W,q3,80%
+17/10/2019,"64 Neagh Road, Terenure, Dublin 6W",Dublin,335000.0,No,Terenure,Dublin 6W,q2,30%
+21/10/2019,"21 Fortfield Sq, Fortfield Grove, Terenure Dublin 6W",Dublin,740000.0,No,Terenure,Dublin 6W,q4,90%
+22/10/2019,"17 Brighton Gardens, Terenure, Dublin 6W",Dublin,212000.0,No,Terenure,Dublin 6W,q1,10%
+22/10/2019,"4 Greenmount Rd, Terenure, Dublin 6",Dublin,985000.0,No,Terenure,Dublin 6W,q4,100%

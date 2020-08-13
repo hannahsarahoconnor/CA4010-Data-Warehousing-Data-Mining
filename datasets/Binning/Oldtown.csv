@@ -1,0 +1,109 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+18/02/2010,"Wyanstown, Oldtown",Dublin,6350.0,No,Oldtown,Co. Dublin,q1,10%
+18/02/2010,"Wyanstown, Oldtown",Dublin,6350.0,No,Oldtown,Co. Dublin,q1,10%
+18/02/2010,"Wyanstown, Oldtown",Dublin,6350.0,No,Oldtown,Co. Dublin,q1,10%
+01/03/2010,"13 Weston Park, Oldtown, Fingal",Dublin,280000.0,Yes,Oldtown,Co. Dublin,q3,60%
+14/04/2010,"8 Weston Park, Oldtown, Fingal",Dublin,280000.0,Yes,Oldtown,Co. Dublin,q3,60%
+22/07/2010,"9 Clonmethan Green, Oldtown",Dublin,156000.0,Yes,Oldtown,Co. Dublin,q1,20%
+02/09/2010,"8 Clonmethan Green, Oldtown",Dublin,148000.0,No,Oldtown,Co. Dublin,q1,20%
+16/11/2010,"House And Site, Oldtown",Dublin,180000.0,No,Oldtown,Co. Dublin,q2,30%
+04/03/2011,"30 Clonemethan Green, Oldtown",Dublin,128000.0,Yes,Oldtown,Co. Dublin,q1,10%
+29/07/2011,"Cabragh House, Mooretown, Oldtown",Dublin,270000.0,No,Oldtown,Co. Dublin,q3,60%
+09/08/2011,"Tuskar Lodge, Kileen, Oldtown",Dublin,380000.0,No,Oldtown,Co. Dublin,q4,80%
+06/09/2011,"29 Weston Park, Fieldstown Road, Oldtown  Fingal",Dublin,210000.0,Yes,Oldtown,Co. Dublin,q2,40%
+16/09/2011,"Oldtown Cottage, Oldtown",Dublin,111000.0,No,Oldtown,Co. Dublin,q1,10%
+07/10/2011,"Wren Villa, Kileen, Oldtown",Dublin,350000.0,No,Oldtown,Co. Dublin,q3,80%
+02/12/2011,"7 Oldtown Road, Santry",Dublin,160000.0,No,Oldtown,Co. Dublin,q1,20%
+08/12/2011,"11 Oldtown Avenue, Santry, Dublin 9",Dublin,87500.0,No,Oldtown,Co. Dublin,q1,10%
+16/12/2011,"Farmhouse, Moortown, Oldtown",Dublin,137000.0,No,Oldtown,Co. Dublin,q1,20%
+17/01/2012,"Oldtown, County Dublin",Dublin,110000.0,No,Oldtown,Co. Dublin,q1,10%
+25/01/2012,"'Avalon', Palmerstown, Oldtown",Dublin,380000.0,No,Oldtown,Co. Dublin,q4,80%
+12/03/2012,"23 Oldtown Park, Santry",Dublin,187500.0,No,Oldtown,Co. Dublin,q2,30%
+31/05/2012,"Palmerstown, Oldtown",Dublin,130000.0,No,Oldtown,Co. Dublin,q1,20%
+08/06/2012,"Wyanstown, Oldtown",Dublin,150000.0,No,Oldtown,Co. Dublin,q1,20%
+04/09/2012,"Keoghs Cross, Oldtown",Dublin,270000.0,No,Oldtown,Co. Dublin,q3,60%
+13/09/2012,"Ashlaw, Oldtown, Co Dublin",Dublin,210000.0,No,Oldtown,Co. Dublin,q2,40%
+11/10/2012,"Chestnut House, Oldtown",Dublin,450000.0,No,Oldtown,Co. Dublin,q4,90%
+22/10/2012,"29 Oldtown Avenue, Santry",Dublin,170000.0,No,Oldtown,Co. Dublin,q1,30%
+04/01/2013,"Brook Cottage, Oldtown, Co. Dublin",Dublin,190000.0,No,Oldtown,Co. Dublin,q2,40%
+26/04/2013,"Highgrove House, Oldtown, County Dublin",Dublin,469650.0,No,Oldtown,Co. Dublin,q4,90%
+04/11/2013,"Clonmethan, Oldtown",Dublin,165000.0,No,Oldtown,Co. Dublin,q1,30%
+05/12/2013,"Clonmethan, Oldtown",Dublin,285000.0,No,Oldtown,Co. Dublin,q3,60%
+30/06/2014,"Clonmethan Glebe, Oldtown",Dublin,1200000.0,No,Oldtown,Co. Dublin,q4,100%
+17/07/2014,"Tall Trees, Whitestown, Oldtown",Dublin,735000.0,No,Oldtown,Co. Dublin,q4,100%
+07/10/2014,"Glebe House, Oldtown",Dublin,310000.0,No,Oldtown,Co. Dublin,q3,70%
+29/10/2014,"4 Weston Park, Oldtown, Co Dublin",Dublin,185000.0,No,Oldtown,Co. Dublin,q2,30%
+30/10/2014,"2 The Old Schoolyard, Oldtown, Co. Dublin",Dublin,178500.0,No,Oldtown,Co. Dublin,q2,30%
+27/11/2014,"4 Oldtown Court, Oldtown",Dublin,182000.0,No,Oldtown,Co. Dublin,q2,30%
+10/12/2014,"Windgate House, Whitestown, Oldtown",Dublin,452000.0,No,Oldtown,Co. Dublin,q4,90%
+12/12/2014,"21 Oldtown Park, Santry, Dublin 9",Dublin,250000.0,No,Oldtown,Co. Dublin,q2,50%
+22/12/2014,"Cathys Cottage, The Bridge, Oldtown",Dublin,260000.0,No,Oldtown,Co. Dublin,q3,60%
+13/03/2015,"Jordanstown, Oldtown, Co. Dublin",Dublin,162460.0,No,Oldtown,Co. Dublin,q1,30%
+02/04/2015,"2 Oldtown Ave, Santry, Dublin 9",Dublin,295000.0,No,Oldtown,Co. Dublin,q3,70%
+02/04/2015,"Jordanstown, Oldtown, Co Dublin",Dublin,120000.0,No,Oldtown,Co. Dublin,q1,10%
+30/04/2015,"Greenlane, Palmerstown, Oldtown",Dublin,485000.0,No,Oldtown,Co. Dublin,q4,90%
+08/05/2015,"31A Oldtown Rd, Santry, Dublin 9",Dublin,280000.0,No,Oldtown,Co. Dublin,q3,60%
+30/06/2015,"Tuskar Lodge, Kileen, Oldtown",Dublin,470000.0,No,Oldtown,Co. Dublin,q4,90%
+17/07/2015,"6 Oldtown Park, Santry, Dublin 9",Dublin,270000.0,No,Oldtown,Co. Dublin,q3,60%
+21/08/2015,"Pondfield House, O'Brien'S Lane, Oldtown",Dublin,685000.0,No,Oldtown,Co. Dublin,q4,100%
+17/09/2015,"27 Oldtown Ave, Santry, Dublin 9",Dublin,270000.0,No,Oldtown,Co. Dublin,q3,60%
+01/10/2015,"43 Oldtown Ave, Santry, Dublin 9",Dublin,220000.0,No,Oldtown,Co. Dublin,q2,40%
+01/12/2015,"Drishouge, Oldtown, Dublin",Dublin,295000.0,No,Oldtown,Co. Dublin,q3,70%
+02/12/2015,"16 Oldtown Park, Santry, Dublin 9",Dublin,200000.0,No,Oldtown,Co. Dublin,q2,40%
+12/02/2016,"Woodlands, Cabragh, Oldtown",Dublin,520000.0,No,Oldtown,Co. Dublin,q4,100%
+10/03/2016,"Wyestown, Oldtown, Co Dublin",Dublin,170000.0,No,Oldtown,Co. Dublin,q1,30%
+24/03/2016,"Jordanstown, Oldtown, Dublin",Dublin,215000.0,No,Oldtown,Co. Dublin,q2,40%
+29/04/2016,"4 Jordanstown, Oldtown, Co Dublin",Dublin,175000.0,No,Oldtown,Co. Dublin,q1,30%
+06/05/2016,"Blackthorn Lodge, Oldtown, Nqf 25 N16",Dublin,515000.0,No,Oldtown,Co. Dublin,q4,100%
+28/07/2016,"28 Oldtown Rd, Santry, Dublin",Dublin,245000.0,No,Oldtown,Co. Dublin,q2,50%
+17/08/2016,"Cherryhill, Cotterstown, Oldtown",Dublin,532000.0,No,Oldtown,Co. Dublin,q4,100%
+30/08/2016,"25 Oldtown Park, Santry, Dublin 9",Dublin,317500.0,No,Oldtown,Co. Dublin,q3,80%
+05/09/2016,"42 Oldtown Rd, Santry, Dublin 9",Dublin,225000.0,No,Oldtown,Co. Dublin,q2,50%
+21/10/2016,"11 Weston Park, Oldtown, Co Dublin",Dublin,242000.0,No,Oldtown,Co. Dublin,q2,50%
+25/10/2016,"The Presbytery, Oldtown, Dublin",Dublin,390000.0,No,Oldtown,Co. Dublin,q4,80%
+01/12/2016,"Cead Rath, Whitestown, Oldtown",Dublin,452000.0,No,Oldtown,Co. Dublin,q4,90%
+22/12/2016,"Clonmethan, Oldtown, Dublin",Dublin,427000.0,No,Oldtown,Co. Dublin,q4,90%
+01/02/2017,"9 Oldtown Court, Oldtown, Dublin",Dublin,225000.0,No,Oldtown,Co. Dublin,q2,50%
+09/03/2017,"4 The Old School Yard, Oldtown, Old School Yard",Dublin,198000.0,No,Oldtown,Co. Dublin,q2,40%
+07/04/2017,"No 9, The Orchard, Oldtown",Dublin,485000.0,No,Oldtown,Co. Dublin,q4,90%
+19/05/2017,"Cottrelstown Lodge, Oldtown, Dublin",Dublin,175000.0,No,Oldtown,Co. Dublin,q2,30%
+12/07/2017,"Avalon, Palmerstown, Oldtown",Dublin,510000.0,No,Oldtown,Co. Dublin,q4,100%
+14/07/2017,"Bushfield, Wyanstown, Oldtown",Dublin,421000.0,No,Oldtown,Co. Dublin,q4,80%
+18/07/2017,"9 Oldtown Road, Santry, Dublin 9",Dublin,309000.0,No,Oldtown,Co. Dublin,q3,70%
+25/07/2017,"38 Oldtown Road, Santry, Dublin 9",Dublin,221000.0,No,Oldtown,Co. Dublin,q2,50%
+27/07/2017,"Genista Cottage, Drishoge, Oldtown",Dublin,287000.0,No,Oldtown,Co. Dublin,q3,70%
+19/09/2017,"6 Oldtown Rd, Santry, Dublin 9",Dublin,300000.0,No,Oldtown,Co. Dublin,q3,70%
+25/09/2017,"Drishogue, Oldtown, Dublin",Dublin,490000.0,No,Oldtown,Co. Dublin,q4,100%
+25/10/2017,"Heathcliff House, The Folly, Oldtown",Dublin,350000.0,No,Oldtown,Co. Dublin,q3,80%
+22/11/2017,"3 Jordanstown, Oldtown, Co Dublin",Dublin,251000.0,No,Oldtown,Co. Dublin,q2,50%
+24/11/2017,"Clonmethan, Oldtown, Co. Dublin",Dublin,585000.0,No,Oldtown,Co. Dublin,q4,100%
+08/12/2017,"Clonmethan, Oldtown, Dublin",Dublin,445000.0,No,Oldtown,Co. Dublin,q4,90%
+20/12/2017,"20 Oldtown Rd, Santry, Dublin 9",Dublin,200000.0,No,Oldtown,Co. Dublin,q2,40%
+21/12/2017,"Tobarowen, 2 Clara Court, Oldtown",Dublin,488000.0,No,Oldtown,Co. Dublin,q4,90%
+07/03/2018,"54 Oldtown Ave, Santry, Dublin 9",Dublin,290000.0,No,Oldtown,Co. Dublin,q3,70%
+13/03/2018,"5 Weston Park, Fieldstown Road, Oldtown",Dublin,247000.0,No,Oldtown,Co. Dublin,q2,50%
+18/04/2018,"1 Beechtree Nursing Home, Murragh, Oldtown",Dublin,60000.0,No,Oldtown,Co. Dublin,q1,10%
+18/04/2018,"2 Beechtree Nursing Home, Murragh, Oldtown",Dublin,60000.0,No,Oldtown,Co. Dublin,q1,10%
+18/04/2018,"4 Beechtree Nursing Home, Murragh, Oldtown",Dublin,60000.0,No,Oldtown,Co. Dublin,q1,10%
+28/06/2018,"7 Oldtown Avenue, Santry, Dublin 9",Dublin,311000.0,No,Oldtown,Co. Dublin,q3,70%
+06/07/2018,"10 The Orchard, Oldtown, Dublin",Dublin,250000.0,No,Oldtown,Co. Dublin,q2,50%
+18/07/2018,"10 The Orchard, Oldtown, Dublin",Dublin,250000.0,No,Oldtown,Co. Dublin,q2,50%
+24/07/2018,"Jordanstown, Oldtown, Dublin",Dublin,187500.0,No,Oldtown,Co. Dublin,q2,40%
+27/07/2018,"13 Weston Park, Oldtown, Fingal",Dublin,290000.0,No,Oldtown,Co. Dublin,q3,70%
+10/10/2018,"21 Shamrock Park, Oldtown, Dublin",Dublin,247000.0,No,Oldtown,Co. Dublin,q2,50%
+31/10/2018,"Dubh Linn House, Oldtown, Dublin",Dublin,800000.0,No,Oldtown,Co. Dublin,q4,100%
+13/11/2018,"17 Oldtown Park, Santry, Dublin 9",Dublin,325000.0,No,Oldtown,Co. Dublin,q3,80%
+19/12/2018,"Palmerstown, Oldtown, Co Dublin",Dublin,200000.0,No,Oldtown,Co. Dublin,q2,40%
+15/03/2019,"30 Weston Park, Oldtown, Dublin",Dublin,275000.0,No,Oldtown,Co. Dublin,q3,60%
+27/03/2019,"1 Beechtree Nursing Home, Murragh, Oldtown",Dublin,160000.0,No,Oldtown,Co. Dublin,q1,20%
+27/03/2019,"10 Beechtree Nursing Home, Murragh, Oldtown",Dublin,160000.0,No,Oldtown,Co. Dublin,q1,20%
+27/03/2019,"2 Beechtree Nursing Home, Murragh, Oldtown",Dublin,160000.0,No,Oldtown,Co. Dublin,q1,20%
+27/03/2019,"4 Beechtree Nursing Home, Murragh, Oldtown",Dublin,160000.0,No,Oldtown,Co. Dublin,q1,20%
+27/03/2019,"9 Beechtree Nursing Home, Murragh, Oldtown",Dublin,160000.0,No,Oldtown,Co. Dublin,q1,20%
+11/04/2019,"Newtown Lane, Oldtown, Co Dublin",Dublin,320000.0,No,Oldtown,Co. Dublin,q3,80%
+02/05/2019,"Beara, Palmerstown, Oldtown",Dublin,450000.0,No,Oldtown,Co. Dublin,q4,90%
+05/06/2019,"31 Oldtown Rd, Santry Dublin 9, Dublin",Dublin,310000.0,No,Oldtown,Co. Dublin,q3,70%
+30/07/2019,"Oldtown House, Kilgobbin, Dublin 18",Dublin,2500000.0,No,Oldtown,Co. Dublin,q4,100%
+26/08/2019,"7 Oldtown Court, Oldtown, Dublin",Dublin,256500.0,No,Oldtown,Co. Dublin,q3,60%
+28/08/2019,"4 Oldtown Rd, Santry, Dublin 9",Dublin,317000.0,No,Oldtown,Co. Dublin,q3,80%
+17/09/2019,"32 Oldtown Ave, Santry, Dublin 9",Dublin,360000.0,No,Oldtown,Co. Dublin,q4,80%

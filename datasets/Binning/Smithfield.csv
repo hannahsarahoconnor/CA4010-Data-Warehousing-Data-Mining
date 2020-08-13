@@ -1,0 +1,439 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+12/03/2010,"3 Lincoln Lane, Smithfield",Dublin,164950.0,No,Smithfield,Dublin 7,q1,30%
+01/04/2010,"143 Smithfield Village, Smithfield, Dublin 7",Dublin,182000.0,No,Smithfield,Dublin 7,q2,40%
+07/04/2010,"59 Arran St, Smithfield",Dublin,210000.0,No,Smithfield,Dublin 7,q2,50%
+21/04/2010,"Apt 137 Block A, Smithfield Village, Dublin 7",Dublin,145000.0,No,Smithfield,Dublin 7,q1,20%
+22/04/2010,"97 Hardwicke, Morning Star Avenue, Smithfield",Dublin,147500.0,No,Smithfield,Dublin 7,q1,20%
+03/06/2010,"Apartment 208, Smithfield Village, Dublin 7",Dublin,194500.0,No,Smithfield,Dublin 7,q2,40%
+15/07/2010,"Apt 206, Smithfield Village, Dublin 7",Dublin,117000.0,No,Smithfield,Dublin 7,q1,10%
+14/10/2010,"Apartment 123, Block A, Smithfield",Dublin,166500.0,No,Smithfield,Dublin 7,q1,30%
+21/04/2011,"10, Smithfield Market",Dublin,111458.0,No,Smithfield,Dublin 7,q1,10%
+20/06/2011,"Apartment 15, The Old Distillery, Cuckoo Lane  Smithfield",Dublin,160000.0,No,Smithfield,Dublin 7,q1,30%
+01/11/2011,"Apartment 7 Block C, Smithfield Market, Smithfield",Dublin,108000.0,No,Smithfield,Dublin 7,q1,10%
+08/11/2011,"23 Ormond Square, Smithfield, Dublin 7",Dublin,190000.0,No,Smithfield,Dublin 7,q2,40%
+09/11/2011,"69 Chancery Street, Smithfield",Dublin,153000.0,No,Smithfield,Dublin 7,q1,30%
+05/12/2011,"Apt 7 Block B, Smithfield Market, Dublin",Dublin,180000.0,No,Smithfield,Dublin 7,q2,30%
+12/01/2012,"Apartment 48, Smithfield Gate, Dublin 7",Dublin,106500.0,No,Smithfield,Dublin 7,q1,10%
+16/01/2012,"39C Smithfield Market, Smithfield",Dublin,200000.0,No,Smithfield,Dublin 7,q2,50%
+24/01/2012,"Apt. 158, The Old Distillery, Smithfield",Dublin,115000.0,No,Smithfield,Dublin 7,q1,10%
+05/04/2012,"Apt 8  The Old Distillery, Smithfield, Dublin 7",Dublin,118000.0,No,Smithfield,Dublin 7,q1,10%
+31/05/2012,"35 Richmond Square, Smithfield",Dublin,80000.0,No,Smithfield,Dublin 7,q1,10%
+31/05/2012,"36 Richmond Square, Smithfield",Dublin,112000.0,No,Smithfield,Dublin 7,q1,10%
+31/05/2012,"Apartment 30, Smithfield Gate, Red Cow Lane",Dublin,135000.0,No,Smithfield,Dublin 7,q1,10%
+19/06/2012,"Apt 75 Block 6, Smithfield Market",Dublin,121000.0,No,Smithfield,Dublin 7,q1,10%
+28/06/2012,"Apartment 123, The Old Distillery, Smithfield",Dublin,96000.0,No,Smithfield,Dublin 7,q1,10%
+14/08/2012,"Apartment 13, Richmond Square, Smithfield",Dublin,85000.0,No,Smithfield,Dublin 7,q1,10%
+05/09/2012,"Apartment 40  Level1  Block D, Smithfield Village, Dublin 7",Dublin,145000.0,No,Smithfield,Dublin 7,q1,20%
+17/09/2012,"116 The Old Distillery, Smithfield",Dublin,135000.0,No,Smithfield,Dublin 7,q1,10%
+01/11/2012,"Apartment 4, Smithfield Gate, Smithfield",Dublin,90000.0,No,Smithfield,Dublin 7,q1,10%
+17/12/2012,"3 Linenhall Parade, Off King Street, Smithfield",Dublin,165000.0,No,Smithfield,Dublin 7,q1,30%
+20/12/2012,"91 Block B, Smithfield Market, Smithfield",Dublin,246000.0,No,Smithfield,Dublin 7,q3,60%
+21/12/2012,"58, Block A  Smithfield Market, Smithfield",Dublin,190000.0,No,Smithfield,Dublin 7,q2,40%
+21/12/2012,"Apartment 92  Block B, Smithfield Market, Smithfield",Dublin,246000.0,No,Smithfield,Dublin 7,q3,60%
+17/01/2013,"No. 42 Block A, Smithfield Market, Smithfield",Dublin,197000.0,No,Smithfield,Dublin 7,q2,50%
+28/01/2013,"Apartment 125, Block A  Smithfield Market, Dublin 7",Dublin,255000.0,No,Smithfield,Dublin 7,q3,60%
+18/02/2013,"Apartment 11 Block E, Smithfield Market, Smithfield",Dublin,195000.0,No,Smithfield,Dublin 7,q2,40%
+05/03/2013,"90 The Hardwicke, Smithfield",Dublin,90000.0,No,Smithfield,Dublin 7,q1,10%
+28/03/2013,"Apt 90  Block B  Smithfield Market, Smithfield, Dublin 7",Dublin,246000.0,No,Smithfield,Dublin 7,q3,60%
+03/04/2013,"31 Smithfield Gate, Smithfield",Dublin,97500.0,No,Smithfield,Dublin 7,q1,10%
+12/04/2013,"88B Block B, Smithfield Market, Smithfield",Dublin,357500.0,No,Smithfield,Dublin 7,q4,90%
+18/04/2013,"Apartment 13 Smithfield Village, Block E  Bow Lane, Smithfield",Dublin,143000.0,No,Smithfield,Dublin 7,q1,20%
+18/04/2013,"Apartment 97, Smithfield Market, Smithfield",Dublin,110000.0,No,Smithfield,Dublin 7,q1,10%
+25/06/2013,"7 Smithfield Market, Dublin 7",Dublin,248000.0,No,Smithfield,Dublin 7,q3,60%
+29/07/2013,"28 The Richmond, Smithfield, Dubln 7",Dublin,140000.0,No,Smithfield,Dublin 7,q1,10%
+31/07/2013,"Apartment 75B Smithfield Market, Dublin 7",Dublin,208000.0,No,Smithfield,Dublin 7,q2,50%
+30/08/2013,"74C Smithfield Market, Smithfield, Dublin 7",Dublin,204500.0,No,Smithfield,Dublin 7,q2,50%
+06/09/2013,"84 Block C, Smithfield Market",Dublin,170000.0,No,Smithfield,Dublin 7,q2,30%
+11/10/2013,"Apartment 50A, Smithfield Market, Smithfield",Dublin,210000.0,No,Smithfield,Dublin 7,q2,50%
+25/10/2013,"Apartment 88  Level 3  Block B, Smithfield Village, Smithfield",Dublin,145000.0,No,Smithfield,Dublin 7,q1,20%
+31/10/2013,"208 The Schooner, Arran Quay, Smithfield",Dublin,90000.0,No,Smithfield,Dublin 7,q1,10%
+14/11/2013,"98 Smithfield Village, Smithfield, Dublin 7",Dublin,150000.0,No,Smithfield,Dublin 7,q1,20%
+19/11/2013,"Apt 10 Block F, Smithfield Market, Smithfield Dublin 7",Dublin,155000.0,No,Smithfield,Dublin 7,q1,30%
+18/12/2013,"87 Blackhall Sq, North Brunswick St, Smithfield Dublin 7",Dublin,127500.0,No,Smithfield,Dublin 7,q1,10%
+20/12/2013,"59 Smithfield Gate, Red Cow Lane, Smithfield Dublin 7",Dublin,125000.0,No,Smithfield,Dublin 7,q1,10%
+09/01/2014,"49 Smithfield Gate, Dublin 7",Dublin,136000.0,No,Smithfield,Dublin 7,q1,10%
+22/01/2014,"54 Smithfield Gate, Red Cow Lane, Dublin 7",Dublin,190000.0,No,Smithfield,Dublin 7,q2,40%
+23/01/2014,"37 Smithfield Gate, North King St, Dublin 7",Dublin,145000.0,No,Smithfield,Dublin 7,q1,20%
+31/01/2014,"Apt 2, Blackhall Sq, Smithfield Dublin 7",Dublin,85000.0,No,Smithfield,Dublin 7,q1,10%
+14/02/2014,"Apt 30 Smithfield Market, Smithfield, Dublin 1",Dublin,200000.0,No,Smithfield,Dublin 7,q2,50%
+03/03/2014,"139 Blackhall Square, Smithfield",Dublin,135000.0,No,Smithfield,Dublin 7,q1,10%
+28/03/2014,"40 Blackhall Sq, North King St, Smithfield Dublin 7",Dublin,193000.0,No,Smithfield,Dublin 7,q2,40%
+03/04/2014,"91 The Richmond, Brunswich St, Smithfield Dublin 7",Dublin,130000.0,No,Smithfield,Dublin 7,q1,10%
+04/04/2014,"Apt.147 The Old Distillery, Beresford Street, Smithfield",Dublin,192500.0,No,Smithfield,Dublin 7,q2,40%
+30/04/2014,"34 Smithfield Gate, Red Cow Lane, Smithfield",Dublin,130000.0,No,Smithfield,Dublin 7,q1,10%
+01/05/2014,"72-74 Queen Street, Smithfield, Dublin 7",Dublin,850000.0,No,Smithfield,Dublin 7,q4,100%
+12/05/2014,"Apt 51 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,200000.0,No,Smithfield,Dublin 7,q2,50%
+15/05/2014,"36 Smithfield Gate, Dublin 7",Dublin,145000.0,No,Smithfield,Dublin 7,q1,20%
+20/05/2014,"24/25 Aaron Quay, Smithfield, Dublin 7",Dublin,150000.0,No,Smithfield,Dublin 7,q1,20%
+04/06/2014,"Apt 37, Smithfield Loft, North King St Dublin 7",Dublin,101000.0,No,Smithfield,Dublin 7,q1,10%
+27/06/2014,"Apt 216, Smithfield Village, Smithfield Dublin 7",Dublin,186000.0,No,Smithfield,Dublin 7,q2,40%
+03/07/2014,"Apt 40, Block E, Smithfield Market",Dublin,227500.0,No,Smithfield,Dublin 7,q3,60%
+28/07/2014,"Apt 72 Block A, Smithfield Market, Dublin 7",Dublin,170000.0,No,Smithfield,Dublin 7,q2,30%
+01/08/2014,"Apt 81, Smithfield Village, Dublin 7",Dublin,142000.0,No,Smithfield,Dublin 7,q1,20%
+08/08/2014,"Apt 117, Garden Court, Smithfield Villlage",Dublin,292000.0,No,Smithfield,Dublin 7,q3,70%
+15/08/2014,"14 Blackhall Square, North King Street, Smithfield",Dublin,160000.0,No,Smithfield,Dublin 7,q1,30%
+15/08/2014,"179 Smithfield Village, Smithfield, Dublin 7",Dublin,122000.0,No,Smithfield,Dublin 7,q1,10%
+18/08/2014,"89 Smithsfield Village, Smithfield, Dublin 7",Dublin,195000.0,No,Smithfield,Dublin 7,q2,40%
+03/09/2014,"172 Smithfield Village, Smithfield, Dublin 7",Dublin,105000.0,No,Smithfield,Dublin 7,q1,10%
+10/09/2014,"116 Blackhall Sq, Smithfield, Dublin",Dublin,155000.0,No,Smithfield,Dublin 7,q1,30%
+18/09/2014,"10 Father Matthew Sq, Smithfield, Dublin City",Dublin,275000.0,No,Smithfield,Dublin 7,q3,70%
+24/09/2014,"217 Smithfield Village, Smithfield, Dublin 7",Dublin,175000.0,No,Smithfield,Dublin 7,q2,30%
+01/10/2014,"90 Smithfield Village, Dublin",Dublin,135000.0,No,Smithfield,Dublin 7,q1,10%
+10/10/2014,"63 Block C, Smithfield Gate, Dublin 7",Dublin,130000.0,No,Smithfield,Dublin 7,q1,10%
+16/10/2014,"Apt 11, Blackhall Court, Smithfield Dublin 7",Dublin,124750.0,No,Smithfield,Dublin 7,q1,10%
+30/10/2014,"Apt.84 Blackhall Square, Smithfield, Dublin 7",Dublin,129204.46,No,Smithfield,Dublin 7,q1,10%
+31/10/2014,"106 Smithfield Village, Dublin 7, Dublin",Dublin,172500.0,No,Smithfield,Dublin 7,q2,30%
+04/11/2014,"59 Block A, Smithfield Market, Dublin 7",Dublin,177000.0,No,Smithfield,Dublin 7,q2,30%
+20/11/2014,"33 Bow St, Smithfield Village, Dublin 7",Dublin,205000.0,No,Smithfield,Dublin 7,q2,50%
+28/11/2014,"Apt 16, Block B, Smithfield Market Dublin 7",Dublin,180000.0,No,Smithfield,Dublin 7,q2,30%
+18/12/2014,"243 The Richmond, North Brunswick St, Smithfield Dublin 7",Dublin,150000.0,No,Smithfield,Dublin 7,q1,20%
+18/12/2014,"Apt 102, Smithfield Village, Smithfield Dublin 1",Dublin,160000.0,No,Smithfield,Dublin 7,q1,30%
+19/12/2014,"87 Smithfield Village, Dublin 7, Dublin",Dublin,160000.0,No,Smithfield,Dublin 7,q1,30%
+19/12/2014,"97 Smithfield Village, Dublin 7, Dublin",Dublin,160000.0,No,Smithfield,Dublin 7,q1,30%
+22/12/2014,"2 Smithfield Village, Smithfield, Dublin 7",Dublin,132819.0,No,Smithfield,Dublin 7,q1,10%
+22/12/2014,"54 Block A, Smithfield, Dublin 7",Dublin,171123.0,No,Smithfield,Dublin 7,q2,30%
+22/12/2014,"93 Clifdon Court, Smithfield, Dublin 7",Dublin,119079.0,No,Smithfield,Dublin 7,q1,10%
+22/12/2014,"Apt 22, Block C, Smithfield Market",Dublin,297699.0,No,Smithfield,Dublin 7,q3,80%
+23/12/2014,"4 Blackhall Green, Smithfield, Dublin 7",Dublin,202000.0,No,Smithfield,Dublin 7,q2,50%
+14/01/2015,"83 Old Distillery Road, Smithfield, Dublin 8",Dublin,150000.0,No,Smithfield,Dublin 7,q1,20%
+20/01/2015,"Apt 39 Block C, Smithfield Market, Smithfield",Dublin,300000.0,No,Smithfield,Dublin 7,q3,80%
+29/01/2015,"Apt. 145 Garden Court, Smithfield Village, Smithfield",Dublin,230100.0,No,Smithfield,Dublin 7,q3,60%
+04/02/2015,"Apt 94 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,175000.0,No,Smithfield,Dublin 7,q2,30%
+06/02/2015,"60 The Distillery, Smithfield, Dublin",Dublin,202000.0,No,Smithfield,Dublin 7,q2,50%
+13/02/2015,"72 Smithfield Village, Bow St, Smithfield Dublin 2",Dublin,210000.0,No,Smithfield,Dublin 7,q2,50%
+16/02/2015,"Apt 66, Smithfield Village, Smithfield Dublin 7",Dublin,191000.0,No,Smithfield,Dublin 7,q2,40%
+19/02/2015,"65 Smithfield Gate, Red Cow Lane, Dublin 7",Dublin,191000.0,No,Smithfield,Dublin 7,q2,40%
+20/02/2015,"Apt 84 Block C, Smithfield Market, Smithfield",Dublin,295000.0,No,Smithfield,Dublin 7,q3,70%
+23/02/2015,"Apt 56 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,250000.0,No,Smithfield,Dublin 7,q3,60%
+23/02/2015,"Apt 66 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,250000.0,No,Smithfield,Dublin 7,q3,60%
+10/03/2015,"10 Smithfield Gate, Dublin 7",Dublin,200000.0,No,Smithfield,Dublin 7,q2,50%
+11/03/2015,"64 Smithfield Gate, Smithfield Red Cow Lane, Dublin 7",Dublin,180000.0,No,Smithfield,Dublin 7,q2,30%
+30/03/2015,"45 Blackhall Sq, Brunswick St North, Smithfield Dublin 7",Dublin,180000.0,No,Smithfield,Dublin 7,q2,30%
+31/03/2015,"50 Smithfield Village, Smithfield, Dublin 7",Dublin,218000.0,No,Smithfield,Dublin 7,q2,50%
+08/04/2015,"42 Smithfield Lofts, North King St, Dublin 7",Dublin,118000.0,No,Smithfield,Dublin 7,q1,10%
+10/04/2015,"43 Smithfield Lofts, Church Street, Dublin 7",Dublin,101000.0,No,Smithfield,Dublin 7,q1,10%
+29/04/2015,"65 Smithfield Market, Smithfield, Dublin 7",Dublin,270000.0,No,Smithfield,Dublin 7,q3,70%
+01/05/2015,"87 North King Street, Smithfield",Dublin,112500.0,No,Smithfield,Dublin 7,q1,10%
+18/05/2015,"Apt 147, Smithfield Village, Smithfield Dublin 7",Dublin,185000.0,No,Smithfield,Dublin 7,q2,40%
+21/05/2015,"5 Wood Lane, Smithfield, Dublin 7",Dublin,250000.0,No,Smithfield,Dublin 7,q3,60%
+04/06/2015,"Apartment No 175, Smithfield Villlage, Dublin 7",Dublin,185000.0,No,Smithfield,Dublin 7,q2,40%
+05/06/2015,"91 Blackhall Square, Smithfield, Dublin 7",Dublin,167000.0,No,Smithfield,Dublin 7,q2,30%
+08/06/2015,"10 Smithfield Village, Dublin 7, Dublin",Dublin,150000.0,No,Smithfield,Dublin 7,q1,20%
+12/06/2015,"32 Smithfield Gate, Smithfield, Dublin 7",Dublin,180618.0,No,Smithfield,Dublin 7,q2,30%
+01/07/2015,"Apartment 2 Block E, Smithfield Market, Dublin 7",Dublin,250000.0,No,Smithfield,Dublin 7,q3,60%
+01/07/2015,"Apartment 21, Smithfield Village, Smithfield",Dublin,351000.0,No,Smithfield,Dublin 7,q4,90%
+02/07/2015,"Apt 2 Block A, Smithfield Market, Dublin 7",Dublin,211000.0,No,Smithfield,Dublin 7,q2,50%
+03/07/2015,"88 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,283500.0,No,Smithfield,Dublin 7,q3,70%
+15/07/2015,"40 Smithfield Village, Bow St, Smithfield Dublin 7",Dublin,235000.0,No,Smithfield,Dublin 7,q3,60%
+27/07/2015,"28B Smithfield Sq, Smithfield, Dublin 7",Dublin,157700.0,No,Smithfield,Dublin 7,q1,30%
+27/07/2015,"60B Smithfield Sq, Smithfield, Dublin 7",Dublin,156700.0,No,Smithfield,Dublin 7,q1,30%
+30/07/2015,"170 Smithfield Village, Smithfield, Dublin",Dublin,125000.0,No,Smithfield,Dublin 7,q1,10%
+30/07/2015,"80 Chancery Street, Smithfield, Dublin 7",Dublin,223000.0,No,Smithfield,Dublin 7,q2,50%
+17/08/2015,"211 The New Hardwick, Church St, Smithfield Dublin 7",Dublin,230000.0,No,Smithfield,Dublin 7,q3,60%
+19/08/2015,"Apt. 134   Level 4  Block A, Smithfield Village, Dublin 7",Dublin,226000.0,No,Smithfield,Dublin 7,q3,60%
+20/08/2015,"8 Firary Grove, Smithfield",Dublin,307500.0,No,Smithfield,Dublin 7,q3,80%
+03/09/2015,"17 Blackhall Square, Smithfield, Dublin 7",Dublin,145000.0,No,Smithfield,Dublin 7,q1,20%
+23/09/2015,"63 Block C, Smithfield Market, Smithfield",Dublin,380000.0,No,Smithfield,Dublin 7,q4,90%
+28/09/2015,"Apt 107, Block B, Smithfield Village Dublin 7",Dublin,200000.0,No,Smithfield,Dublin 7,q2,50%
+09/10/2015,"32 Block F, Smithfield Market",Dublin,290000.0,No,Smithfield,Dublin 7,q3,70%
+12/10/2015,"Apt 50, The Old Distillery, Smithfield Dublin 7",Dublin,166000.0,No,Smithfield,Dublin 7,q1,30%
+16/10/2015,"92 Blackhall Sq, Brunswick St North, Smithfield Dublin 7",Dublin,92500.0,No,Smithfield,Dublin 7,q1,10%
+16/10/2015,"94 Blackhall Sq, Brunswick St North, Smithfield Dublin 7",Dublin,92500.0,No,Smithfield,Dublin 7,q1,10%
+16/10/2015,"Apt 34, Smithfield Village, Smithfield Dublin 7",Dublin,246111.0,No,Smithfield,Dublin 7,q3,60%
+21/10/2015,"Apartment 130, Smithfield Village",Dublin,240000.0,No,Smithfield,Dublin 7,q3,60%
+24/11/2015,"3 Bow St, Smithfield, Dublin 7",Dublin,270000.0,No,Smithfield,Dublin 7,q3,70%
+03/12/2015,"Apartment 92 Block A, Smithfield Market, Smithfield",Dublin,340000.0,No,Smithfield,Dublin 7,q4,80%
+14/12/2015,"54 Old Distillery, North Anne Street, Smithfield",Dublin,145000.0,No,Smithfield,Dublin 7,q1,20%
+21/12/2015,"Apt171 Centre Court, Smithfield Village, Smithfield Dublin 1",Dublin,140000.0,No,Smithfield,Dublin 7,q1,20%
+23/12/2015,"Apt 11 Block B, Smithfield Market, Dublin 7",Dublin,255000.0,No,Smithfield,Dublin 7,q3,60%
+18/01/2016,"Apt 8, Smithfield Village, Smithfield Dublin 7",Dublin,235000.0,No,Smithfield,Dublin 7,q3,60%
+09/02/2016,"123 Smithfield Market, Block A  Smithfield, Dublin 7",Dublin,320000.0,No,Smithfield,Dublin 7,q4,80%
+16/02/2016,"56 Block C, Smithfield Market, Smithfield",Dublin,312000.0,No,Smithfield,Dublin 7,q3,80%
+16/02/2016,"Apartment 58 Block B, Smithfield Market, Dublin 7",Dublin,250000.0,No,Smithfield,Dublin 7,q3,60%
+18/02/2016,"185 Smithfield Village, Smithfield, Dublin 7",Dublin,125000.0,No,Smithfield,Dublin 7,q1,10%
+21/02/2016,"38A Smithfield Market, Dublin 7, Dublin",Dublin,300000.0,No,Smithfield,Dublin 7,q3,80%
+24/02/2016,"177 Smithfield Village, Smithfield, Dublin 7",Dublin,150000.0,No,Smithfield,Dublin 7,q1,20%
+24/02/2016,"54 Blackhall Square, Smithfield, Dublin 7",Dublin,150000.0,No,Smithfield,Dublin 7,q1,20%
+25/02/2016,"Apt 50 Blackhall Sq, Smithfield, Dublin",Dublin,170000.0,No,Smithfield,Dublin 7,q2,30%
+26/02/2016,"83 Smithfield Market, Block B, Smithfield",Dublin,365000.0,No,Smithfield,Dublin 7,q4,90%
+01/03/2016,"Apt 2, Block F, Smithfield Market Dublin 1",Dublin,277000.0,No,Smithfield,Dublin 7,q3,70%
+30/03/2016,"14 Blackhall Place, Smithfield",Dublin,91091.0,No,Smithfield,Dublin 7,q1,10%
+05/04/2016,"123 The Chandler, Arran Quay, Smithfield",Dublin,225000.0,No,Smithfield,Dublin 7,q2,50%
+21/04/2016,"Apt 33 Block F, Smithfield Market, Smithfield Dublin 7",Dublin,270000.0,No,Smithfield,Dublin 7,q3,70%
+06/05/2016,"180 Smithfield Village, Smithfield, Dublin 7",Dublin,300000.0,No,Smithfield,Dublin 7,q3,80%
+18/05/2016,"Apt 65 Block B, Smithfield Market, Smithfield Dublin 7",Dublin,180000.0,No,Smithfield,Dublin 7,q2,30%
+20/05/2016,"54 The Redmil, North Brunswick St, Smithfield Dublin 7",Dublin,197000.0,No,Smithfield,Dublin 7,q2,50%
+20/05/2016,"8 Smithfield Gate, North Kings Street, Dublin 7",Dublin,100000.0,No,Smithfield,Dublin 7,q1,10%
+23/05/2016,"8 Blackhall Place, Smithfield, Dublin 7",Dublin,142800.0,No,Smithfield,Dublin 7,q1,20%
+03/06/2016,"Apt 120, Smithfield Village, Dublin 7",Dublin,235000.0,No,Smithfield,Dublin 7,q3,60%
+15/06/2016,"9 Smithfield Gate, North King St, Dublin 7",Dublin,235000.0,No,Smithfield,Dublin 7,q3,60%
+17/06/2016,"71 Smithfield Village, Smithfield, Dublin 7",Dublin,180000.0,No,Smithfield,Dublin 7,q2,30%
+22/06/2016,"28B Smithfield Sq, Smithfield, Dublin 7",Dublin,272500.0,No,Smithfield,Dublin 7,q3,70%
+23/06/2016,"Apt 38 Smithfield Gate, Red Cow Lane, Smithfield",Dublin,178500.0,No,Smithfield,Dublin 7,q2,30%
+01/07/2016,"Apt 51, Smithfield Gate, Red Cow Lane",Dublin,181750.0,No,Smithfield,Dublin 7,q2,30%
+13/07/2016,"Apt 15 Oxmanstown Lofts, Coke Lane, Smithfield",Dublin,374449.0,Yes,Smithfield,Dublin 7,q4,90%
+15/07/2016,"2 Oxmanstown Lofts, Coke Lane, Smithfield",Dublin,303964.0,Yes,Smithfield,Dublin 7,q3,80%
+20/07/2016,"60B Smithfield Sq, Smithfield, Dublin 7",Dublin,280000.0,No,Smithfield,Dublin 7,q3,70%
+22/07/2016,"12 Oxmanstown Lofts, Coke Lane, Smithfield",Dublin,334801.0,Yes,Smithfield,Dublin 7,q4,80%
+26/07/2016,"Apt.114 - Block A, Smithfield Market, Dublin 7",Dublin,235000.0,No,Smithfield,Dublin 7,q3,60%
+03/08/2016,"10 Oxmanstown Lofts, Coke Lane, Smithfield",Dublin,325991.0,Yes,Smithfield,Dublin 7,q4,80%
+03/08/2016,"Apartment 3, Oxmanstown Lofts, Coke Lake  Smithfield",Dublin,290748.89,Yes,Smithfield,Dublin 7,q3,70%
+04/08/2016,"6  Oxmanstown Lofts, Coke Lane, Smithfield",Dublin,298425.0,Yes,Smithfield,Dublin 7,q3,80%
+04/08/2016,"62 Red Cow Lane, Smithfield Gate, Dublin",Dublin,220000.0,No,Smithfield,Dublin 7,q2,50%
+08/08/2016,"Apt 23 Block E, Smithfield Market, Dublin 7",Dublin,370000.0,No,Smithfield,Dublin 7,q4,90%
+10/08/2016,"Apartment 7 Oxmanstown Lofts, Coke Lane, Smithfield",Dublin,317181.0,Yes,Smithfield,Dublin 7,q4,80%
+11/08/2016,"No 103 Smithfield Market, Market Square, Smithfield",Dublin,200000.0,No,Smithfield,Dublin 7,q2,50%
+17/08/2016,"13 Oxmanstown Lofts, Coke Lane, Smithfield",Dublin,376106.19,Yes,Smithfield,Dublin 7,q4,90%
+18/08/2016,"Apartment 8 Oxmanstown Lofts, Coke Lane, Smithfield",Dublin,317180.61,Yes,Smithfield,Dublin 7,q4,80%
+26/08/2016,"33A Smithfield Market, Smithfield, Dublin 7",Dublin,280000.0,No,Smithfield,Dublin 7,q3,70%
+26/08/2016,"Apartment 5, Oxmanstown Lofts, Coke Lane  Smithfield",Dublin,308370.04,Yes,Smithfield,Dublin 7,q3,80%
+02/09/2016,"7 The Old Distillery, Smithfield, Dublin 7",Dublin,241500.0,No,Smithfield,Dublin 7,q3,60%
+07/09/2016,"Apt 25 Smithfield Gate Apartment, Red Cow Lane, Dublin 7",Dublin,177000.0,No,Smithfield,Dublin 7,q2,30%
+14/09/2016,"Apt. 11 Oxmanstown Lofts, Coke Lane, Smithfield",Dublin,334801.76,Yes,Smithfield,Dublin 7,q4,80%
+15/09/2016,"Apt 96B, Smithfield, Dublin 7",Dublin,333039.65,No,Smithfield,Dublin 7,q4,80%
+20/09/2016,"64C Smithfield, Smithfield, Dublin",Dublin,379660.0,No,Smithfield,Dublin 7,q4,90%
+27/09/2016,"Apt 144, Smithfield Village, Smithfield Dublin 7",Dublin,262000.0,No,Smithfield,Dublin 7,q3,70%
+30/09/2016,"18 Block C, Smithfield Market, Smithfield Dublin 7",Dublin,322500.0,No,Smithfield,Dublin 7,q4,80%
+06/10/2016,"Apt 37, Smithfield Loft, North King St Dublin 7",Dublin,160000.0,No,Smithfield,Dublin 7,q1,30%
+25/10/2016,"10 Smithfield Market, Smithfield, Dublin 7",Dublin,280000.0,No,Smithfield,Dublin 7,q3,70%
+01/11/2016,"73 Blackhall Sq, Smithfield, Dublin 7",Dublin,200000.0,No,Smithfield,Dublin 7,q2,50%
+07/11/2016,"9 Block C, Smithfield Market, Smithfield Dublin 7",Dublin,465000.0,No,Smithfield,Dublin 7,q4,100%
+11/11/2016,"161 Tower Central, Smithfield Market, Dublin 7",Dublin,460000.0,No,Smithfield,Dublin 7,q4,100%
+14/11/2016,"32 Coopers Yard, Block E, Smithfield Market Dublin 7",Dublin,315000.0,No,Smithfield,Dublin 7,q3,80%
+15/11/2016,"75A Smithfield, Dublin 7, Dublin",Dublin,298500.0,No,Smithfield,Dublin 7,q3,80%
+17/11/2016,"60 Smithfield, Dublin 7, Dublin",Dublin,231000.0,No,Smithfield,Dublin 7,q3,60%
+23/11/2016,"148A Smithfield Market, Smithfield, Dublin 7",Dublin,240000.0,No,Smithfield,Dublin 7,q3,60%
+23/11/2016,"Apartment 166, Smithfield Village, Dublin 7",Dublin,166250.0,No,Smithfield,Dublin 7,q1,30%
+23/11/2016,"Apartment No 163, Smithfield Village, Dublin 7",Dublin,166250.0,No,Smithfield,Dublin 7,q1,30%
+23/11/2016,"Apartment No 190, Smithfield Village, Dublin 7",Dublin,190000.0,No,Smithfield,Dublin 7,q2,40%
+23/11/2016,"Apartment No 205, Smithfield Village, Dublin 7",Dublin,166250.0,No,Smithfield,Dublin 7,q1,30%
+23/11/2016,"Apt 1, Smithfield Village, Dublin 7",Dublin,166250.0,No,Smithfield,Dublin 7,q1,30%
+24/11/2016,"82 Smithfield Village, Smithfield, Dublin 7",Dublin,150000.0,No,Smithfield,Dublin 7,q1,20%
+24/11/2016,"Apt 107 Block A, Smithfield Market, Smithfield",Dublin,286000.0,No,Smithfield,Dublin 7,q3,70%
+30/11/2016,"1 Block B, Smithfield Market, Smithfield",Dublin,327000.0,No,Smithfield,Dublin 7,q4,80%
+01/12/2016,"53B Smithfield Market, Dublin",Dublin,225000.0,No,Smithfield,Dublin 7,q2,50%
+07/12/2016,"8 Smithfield Market Block B, Market Sq, Smithfield Dublin 7",Dublin,315000.0,No,Smithfield,Dublin 7,q3,80%
+09/12/2016,"4 Smithfield Market, Smithfield, Dublin 7",Dublin,295000.0,No,Smithfield,Dublin 7,q3,70%
+12/12/2016,"Apt 14, Block A, Smithfield Market Dublin 7",Dublin,305000.0,No,Smithfield,Dublin 7,q3,80%
+14/12/2016,"Apt.68C - Smithfield Market, Smithfield, Dublin 7",Dublin,285000.0,No,Smithfield,Dublin 7,q3,70%
+16/12/2016,"Apt 85 Block C, Smithfield, Dublin 7",Dublin,335000.0,No,Smithfield,Dublin 7,q4,80%
+21/12/2016,"127 Smithfield Market, Smithfield, Dublin 7",Dublin,521600.0,No,Smithfield,Dublin 7,q4,100%
+22/12/2016,"23 Block B, Smithfield Market, Smithfield Dublin 7",Dublin,340000.0,No,Smithfield,Dublin 7,q4,80%
+22/12/2016,"43 Block E, Smithfield, Smithfiled",Dublin,193333.0,No,Smithfield,Dublin 7,q2,40%
+22/12/2016,"Apt  57  Block E, Coopers Yard, Smithfield",Dublin,193333.0,No,Smithfield,Dublin 7,q2,40%
+31/12/2016,"Apt 30, Block B, Smithfield Apts",Dublin,149500.0,No,Smithfield,Dublin 7,q1,20%
+12/01/2017,"Apartment 61, Block E, Smithfield Market",Dublin,420000.0,No,Smithfield,Dublin 7,q4,100%
+18/01/2017,"Apt 69, Smithfield Village, Smithfield Dublin 7",Dublin,275000.0,No,Smithfield,Dublin 7,q3,70%
+20/01/2017,"45 Blackhall Sq, Brunswick St North, Smithfield Dublin 7",Dublin,218000.0,No,Smithfield,Dublin 7,q2,50%
+23/01/2017,"53 Smithfield Market, Block E, Smithfield",Dublin,315000.0,No,Smithfield,Dublin 7,q3,80%
+27/01/2017,"66 Block C, Smithfield Market, Smithfield Dublin 7",Dublin,161500.0,No,Smithfield,Dublin 7,q1,30%
+31/01/2017,"76 Block A, Smithfield Market Dublin 7, Dublin",Dublin,403000.0,No,Smithfield,Dublin 7,q4,100%
+03/02/2017,"Apartment 86, Block B, Smithfield",Dublin,355000.0,No,Smithfield,Dublin 7,q4,90%
+08/02/2017,"Apt 89 Block B, Smithfield Market, Smithfield Dublin 7",Dublin,355000.0,No,Smithfield,Dublin 7,q4,90%
+10/02/2017,"Apt 16, Block B, Smithfield Market Dublin 7",Dublin,205000.0,No,Smithfield,Dublin 7,q2,50%
+14/02/2017,"10 Nicolas Av, Smithfield, Dublin 7",Dublin,150000.0,No,Smithfield,Dublin 7,q1,20%
+24/02/2017,"34 Blackhall Sq, King St North, Smithfield Dublin 7",Dublin,245000.0,No,Smithfield,Dublin 7,q3,60%
+27/02/2017,"131 Smithfield Village, Smithfield, Dublin",Dublin,230000.0,No,Smithfield,Dublin 7,q3,60%
+01/03/2017,"Apt 42 Block B, Smithfield, Dublin 7",Dublin,320000.0,No,Smithfield,Dublin 7,q4,80%
+02/03/2017,"61C Smithfield Market, Smithfield, Dublin 7",Dublin,260000.0,No,Smithfield,Dublin 7,q3,70%
+03/03/2017,"124 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,302500.0,No,Smithfield,Dublin 7,q3,80%
+20/03/2017,"21 Hardwicke, Smithfield, Dublin",Dublin,200000.0,No,Smithfield,Dublin 7,q2,50%
+27/03/2017,"Apt 41 Smithfield Village, Smithfield, Dublin 7",Dublin,235000.0,No,Smithfield,Dublin 7,q3,60%
+31/03/2017,"160 Smithfield Village, Smithfield, Dublin 7",Dublin,176000.0,No,Smithfield,Dublin 7,q2,30%
+13/04/2017,"27 Block B, Smithfield Market, Smithfield Dublin 7",Dublin,350000.0,No,Smithfield,Dublin 7,q4,80%
+21/04/2017,"71 The Hardwicke, North Brunswick Street, Smithfield",Dublin,187000.0,No,Smithfield,Dublin 7,q2,40%
+15/05/2017,"Apt 116, Block A, Smithfield Market Dublin 7",Dublin,425000.0,No,Smithfield,Dublin 7,q4,100%
+16/05/2017,"Apt 67 Block C, Smithfield Market, Smithfield",Dublin,295000.0,No,Smithfield,Dublin 7,q3,70%
+24/05/2017,"37 Smithfield Village, Dublin 7",Dublin,252500.0,No,Smithfield,Dublin 7,q3,60%
+31/05/2017,"137 Smithfield Market, Smithfield, Dublin 7",Dublin,268000.0,No,Smithfield,Dublin 7,q3,70%
+31/05/2017,"Apt. 89, Block B, Smithfield Market",Dublin,276000.0,No,Smithfield,Dublin 7,q3,70%
+06/06/2017,"100 Smithfield Market, Smithfield, Dublin 7",Dublin,385000.0,No,Smithfield,Dublin 7,q4,90%
+08/06/2017,"59 Smithfield Village, Smithfield, Dublin 7",Dublin,230000.0,No,Smithfield,Dublin 7,q3,60%
+12/06/2017,"49 Block C, Smithfield Market, Smithfield Dublin 7",Dublin,395000.0,No,Smithfield,Dublin 7,q4,90%
+13/06/2017,"97 The Richmond, Brunswick St North, Smithfield Dublin 7",Dublin,230000.0,No,Smithfield,Dublin 7,q3,60%
+16/06/2017,"4 Block F, Smithfield Market, Smithfield Dublin 7",Dublin,220000.0,No,Smithfield,Dublin 7,q2,50%
+20/06/2017,"111 Smithfield Village, Smithfield, Dublin 7",Dublin,225000.0,No,Smithfield,Dublin 7,q3,60%
+28/06/2017,"135 The Towers, Smithfield Market, Dublin 7",Dublin,507000.0,No,Smithfield,Dublin 7,q4,100%
+30/06/2017,"Apt 18, Third Floor Block B, Smithfield Market",Dublin,355550.0,No,Smithfield,Dublin 7,q4,90%
+06/07/2017,"96 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,242000.0,No,Smithfield,Dublin 7,q3,60%
+07/07/2017,"24 Smithfield Gate, King St North, Smithfield Dublin 7",Dublin,268000.0,No,Smithfield,Dublin 7,q3,70%
+20/07/2017,"10 Nicolas Av, Smithfield, Dublin 7",Dublin,249000.0,No,Smithfield,Dublin 7,q3,60%
+03/08/2017,"35 Smithfield Village, Smithfield, Dublin 7",Dublin,298000.0,No,Smithfield,Dublin 7,q3,80%
+08/08/2017,"3 Wood Lane, Smithfield, Dublin 7",Dublin,550000.0,No,Smithfield,Dublin 7,q4,100%
+09/08/2017,"Apt 1, Block C, Smithfield Market Dublin 7",Dublin,375000.0,No,Smithfield,Dublin 7,q4,90%
+25/08/2017,"41 Smithfield Market, Dublin 7",Dublin,295000.0,No,Smithfield,Dublin 7,q3,70%
+06/09/2017,"Apt 152, Smithfield, Dublin",Dublin,287000.0,No,Smithfield,Dublin 7,q3,70%
+14/09/2017,"Apt 9, Block F, Smithfield Village Dublin 7",Dublin,285000.0,No,Smithfield,Dublin 7,q3,70%
+25/09/2017,"14B Smithfield Market, Block B, Smithfield Dublin 7",Dublin,440000.0,No,Smithfield,Dublin 7,q4,100%
+26/09/2017,"8 Block F, Smithfield Market, Smithfield Dublin 7",Dublin,160000.0,No,Smithfield,Dublin 7,q1,30%
+26/09/2017,"Apartment 40, Block B, Smithfield",Dublin,267000.0,No,Smithfield,Dublin 7,q3,70%
+04/10/2017,"26B Smithfield Market, Dublin 7, Dublin",Dublin,258000.0,No,Smithfield,Dublin 7,q3,60%
+04/10/2017,"58 Smithfield Village, Bowe St, Dublin 7",Dublin,426950.0,No,Smithfield,Dublin 7,q4,100%
+09/10/2017,"69 Block C, Smithfield Market, Smithfield Dublin 7",Dublin,410000.0,No,Smithfield,Dublin 7,q4,100%
+10/10/2017,"117A Smithfield Market, Dublin 7, Dublin",Dublin,438000.0,No,Smithfield,Dublin 7,q4,100%
+11/10/2017,"Apt 56 Smithfield Gate, Red Cow Lane, Smithfield",Dublin,414000.0,No,Smithfield,Dublin 7,q4,100%
+12/10/2017,"Apartment 86, Block B, Smithfield",Dublin,491100.0,No,Smithfield,Dublin 7,q4,100%
+19/10/2017,"Apt 85, Garden Court Block2B, Smithfield Village Dublin 7",Dublin,160000.0,No,Smithfield,Dublin 7,q1,30%
+20/10/2017,"202 Smithfield Village, Dublin 7, Dublin",Dublin,200000.0,No,Smithfield,Dublin 7,q2,50%
+25/10/2017,"Apt 50, Block B, Smithfield Market Dublin 7",Dublin,376000.0,No,Smithfield,Dublin 7,q4,90%
+27/10/2017,"91Block A, Smithfield Market, Dublin 7",Dublin,270000.0,No,Smithfield,Dublin 7,q3,70%
+14/11/2017,"Block 90A, Smithfield Market, Smithfield",Dublin,272000.0,No,Smithfield,Dublin 7,q3,70%
+21/11/2017,"3 Lincoln Lane, Smithfield, Dublin 7",Dublin,184000.0,No,Smithfield,Dublin 7,q2,40%
+29/11/2017,"Apt 19 Smithfield Lofts, 150 North King Street, Smithfield",Dublin,305000.0,No,Smithfield,Dublin 7,q3,80%
+13/12/2017,"52E Coopers Yard, Smithfield Market, Dublin 1",Dublin,330000.0,No,Smithfield,Dublin 7,q4,80%
+22/12/2017,"Apt 1, 4 Queen St, Smithfield Dublin 7",Dublin,512460.0,No,Smithfield,Dublin 7,q4,100%
+17/01/2018,"Apt 25 Block A, Smithfield Market, Smithfield",Dublin,395000.0,No,Smithfield,Dublin 7,q4,90%
+18/01/2018,"Apartment No 29, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+25/01/2018,"104 Old Distillery Rd, Smithfield, Dublin 7",Dublin,335000.0,No,Smithfield,Dublin 7,q4,80%
+26/01/2018,"Apt 99 Block A, Smithfield Market, Smithfield",Dublin,425000.0,No,Smithfield,Dublin 7,q4,100%
+01/02/2018,"59 Townhouse, Smithfield Lofts, North King Street",Dublin,206390.0,No,Smithfield,Dublin 7,q2,50%
+01/02/2018,"61 Townhouse, Smithfield Lofts, 150-155 North King St",Dublin,206390.0,No,Smithfield,Dublin 7,q2,50%
+01/02/2018,"Apartment 39, Smithfield Lofts, North King Street",Dublin,151000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment 40, Smithfield Lofts, North King Street",Dublin,141000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment 46, Smithfield Lofts, North King Street",Dublin,151000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment 47 Smithfield Lofts, North King Street, Dublin 7",Dublin,141000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment No 10 Smithfield Lofts, North King Street, Dublin  7",Dublin,151000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment No 11, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 12 Smithfield Lofts, North King Street, Dublin 7",Dublin,185500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 13 Smithfield Lofts, North King Street, Dublin 7",Dublin,141000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment No 15 Smithfield Lofts, North King Street, Dublin 7",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 16, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 17, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 18 Smithfield Lofts, North King Street, Dublin 7",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 29, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 2, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 3 Smithfield Lofts, North King Street, Dublin 7",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 30, Smithfield Lofts, North King Street",Dublin,185500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 31, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 32, Smithfield Lofts, North King Street",Dublin,185500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 33, Smithfield Lofts, North King Street",Dublin,151000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment No 34, Smithfield Lofts, North King Street",Dublin,185500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 35, Smithfield Lofts, North King Street",Dublin,141000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment No 49, Smithfield Lofts, North King Street",Dublin,141000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment No 5 Smithfield Lofts, North King Street, Dublin 7",Dublin,185500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 50, Smithfield Lofts, North King Street",Dublin,151000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment No 51, Smithfield Lofts, North King Street",Dublin,141000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment No 53, Smithfield Lofts, North King Street",Dublin,141000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment No 57, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 7 Smithfield Lofts, North King Street, Dublin 7",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No 8, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No. 20, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No. 26, Smithfield Lofts, North King Street",Dublin,195500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No. 54, Smithfield Lofts, North King Street",Dublin,151000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apartment No. 55, Smithfield Lofts, North King Street",Dublin,185500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apartment No.56, Smithfield Lofts, North King Street",Dublin,151000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apt 14, Smithfield Lofts, 150-155 North King St",Dublin,185500.0,No,Smithfield,Dublin 7,q2,40%
+01/02/2018,"Apt 21, Smithfield Lofts, 150-155 North King St",Dublin,195500.0,No,Smithfield,Dublin 7,q2,50%
+01/02/2018,"Apt 25, Smithfield Lofts, 150-155 North King St",Dublin,195500.0,No,Smithfield,Dublin 7,q2,50%
+01/02/2018,"Apt 38, Smithfield Lofts, 150-155 North King St",Dublin,141000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apt 52  Smithfield Lofts, North King Street, Dublin 7",Dublin,141000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apt No 24, Smithfield Lofts, North King St",Dublin,141000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apt No. 22 Smithfield Lofts, North King Street, Dublin 7",Dublin,195500.0,No,Smithfield,Dublin 7,q2,50%
+01/02/2018,"Apt.48 Smithfield Lofts, North King Street, Dublin 7",Dublin,151000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"Apt.No. 23 Smithfield Lofts, North King Street, Dublin 7",Dublin,151000.0,No,Smithfield,Dublin 7,q1,20%
+01/02/2018,"No 58 Townhouse, Smithfield Lofts, North King Street",Dublin,206390.0,No,Smithfield,Dublin 7,q2,50%
+01/02/2018,"No 60 Townhouse, Smithfield Lofts, North King Street",Dublin,206390.0,No,Smithfield,Dublin 7,q2,50%
+01/02/2018,"No 63 Townhouse, Smithfield Lofts, North King Street",Dublin,206390.0,No,Smithfield,Dublin 7,q2,50%
+01/02/2018,"No. 62 Townhouse, Smithfield Lofts, North King Street",Dublin,206390.0,No,Smithfield,Dublin 7,q2,50%
+02/02/2018,"Apartment 94B, Smithfield Market, Dublin 7",Dublin,400000.0,No,Smithfield,Dublin 7,q4,90%
+05/02/2018,"Apt 1, Block A, Smithfield Market",Dublin,385000.0,No,Smithfield,Dublin 7,q4,90%
+07/02/2018,"45 Smithfield Gate, Nth King St, Dublin 7",Dublin,146666.0,No,Smithfield,Dublin 7,q1,20%
+07/02/2018,"Apt 46 Smithfield Gate, Dublin 7",Dublin,146667.0,No,Smithfield,Dublin 7,q1,20%
+07/02/2018,"Apt 47, Smithfield Gate, Dublin 7",Dublin,146667.0,No,Smithfield,Dublin 7,q1,20%
+15/02/2018,"Apt 159, The Tower, Smithfield Dublin 7",Dublin,550000.0,No,Smithfield,Dublin 7,q4,100%
+16/02/2018,"2 Aughrim Place, Smithfield, Dublin 7",Dublin,321000.0,No,Smithfield,Dublin 7,q4,80%
+07/03/2018,"84B Smithfield Market, Smithfield, Dublin 7",Dublin,438000.0,No,Smithfield,Dublin 7,q4,100%
+13/03/2018,"Apartment 72, Block C, Smithfield Market",Dublin,220000.0,No,Smithfield,Dublin 7,q2,50%
+16/03/2018,"85 Smithfield Market, Block B, Smithfield",Dublin,490000.0,No,Smithfield,Dublin 7,q4,100%
+23/03/2018,"28 Smithfield Loft, King St North, Dublin 7",Dublin,270000.0,No,Smithfield,Dublin 7,q3,70%
+28/03/2018,"34B Smithfield Market, Smithfield, Dublin 7",Dublin,405000.0,No,Smithfield,Dublin 7,q4,100%
+24/04/2018,"Apt 65 Block B, Smithfield Market, Smithfield Dublin 7",Dublin,310000.0,No,Smithfield,Dublin 7,q3,80%
+30/04/2018,"64 Market Sq, Block A, Smithfield Dublin 7",Dublin,265000.0,No,Smithfield,Dublin 7,q3,70%
+02/05/2018,"139A Block A, Smithfield Market, Dublin 1",Dublin,367000.0,No,Smithfield,Dublin 7,q4,90%
+04/05/2018,"Apt 99 Block B, The Malt House Sq, Smithfield Village Dublin 7",Dublin,350000.0,No,Smithfield,Dublin 7,q4,90%
+17/05/2018,"26 Block A, Smithfield Market, Dublin 7",Dublin,452500.0,No,Smithfield,Dublin 7,q4,100%
+12/06/2018,"57 Block C, Smithfield Market, Dublin 7",Dublin,400000.0,No,Smithfield,Dublin 7,q4,90%
+19/06/2018,"14 Smithfield Gate, Red Cow Lane, Smithfield",Dublin,370000.0,No,Smithfield,Dublin 7,q4,90%
+25/06/2018,"28A Smithfield Market, Smithfield, Dublin 7",Dublin,450000.0,No,Smithfield,Dublin 7,q4,100%
+25/06/2018,"44A Smithfield Market, Smithfield, Dublin 7",Dublin,450000.0,No,Smithfield,Dublin 7,q4,100%
+26/06/2018,"Apt.45 Block A, Smithfield Market, Smithfield",Dublin,502000.0,No,Smithfield,Dublin 7,q4,100%
+29/06/2018,"90C Smithfield Market, Block C, Smithfield Dublin 7",Dublin,602612.0,No,Smithfield,Dublin 7,q4,100%
+29/06/2018,"91 The Richmond, Brunswich St, Smithfield Dublin 7",Dublin,296000.0,No,Smithfield,Dublin 7,q3,80%
+11/07/2018,"39 Smithfield Gate, North King St, Dublin 7",Dublin,215000.0,No,Smithfield,Dublin 7,q2,50%
+12/07/2018,"206 Smithfield Village, Smithfield, Dublin 7",Dublin,198000.0,No,Smithfield,Dublin 7,q2,50%
+19/07/2018,"Apt 34, Smithfield Market, Block C Dublin 1",Dublin,400000.0,No,Smithfield,Dublin 7,q4,90%
+20/07/2018,"87 Blackhall Sq, North Brunswick St, Smithfield Dublin 7",Dublin,316000.0,No,Smithfield,Dublin 7,q4,80%
+24/07/2018,"35 Block B, Smithfield Market, Smithfield Dublin 7",Dublin,190000.0,No,Smithfield,Dublin 7,q2,40%
+25/07/2018,"39 Coopers Yard, Smithfield, Dublin 7",Dublin,360000.0,No,Smithfield,Dublin 7,q4,90%
+31/07/2018,"36 Smithfield Village, Bow St, Dublin 7",Dublin,355000.0,No,Smithfield,Dublin 7,q4,90%
+09/08/2018,"Apt 111, Smithfield Market Sq, Dublin 7",Dublin,415000.0,No,Smithfield,Dublin 7,q4,100%
+16/08/2018,"Apt 12 Block F, Smithfield Market, Dublin 7",Dublin,256000.0,No,Smithfield,Dublin 7,q3,60%
+31/08/2018,"198 Smithfield, Dublin 1",Dublin,255000.0,No,Smithfield,Dublin 7,q3,60%
+05/09/2018,"210 Smithfield Village, Smithfield, Dublin 7",Dublin,261000.0,No,Smithfield,Dublin 7,q3,70%
+10/09/2018,"Apt 29 Block B, Smithfield Market, Smithfield Dublin 7",Dublin,395000.0,No,Smithfield,Dublin 7,q4,90%
+12/09/2018,"5A Smithfield Market, Smithfield, Dublin 7",Dublin,245000.0,No,Smithfield,Dublin 7,q3,60%
+12/09/2018,"Apt 86 Garden Court, Smithfield, Dublin",Dublin,220000.0,No,Smithfield,Dublin 7,q2,50%
+14/09/2018,"Apartment 49, Smithfield Market, Smithfield",Dublin,261000.0,No,Smithfield,Dublin 7,q3,70%
+17/09/2018,"127 Brumswick St, Richmond Apt, Smithfield",Dublin,305000.0,No,Smithfield,Dublin 7,q3,80%
+24/09/2018,"211 Smithfield, Dublin 1",Dublin,250000.0,No,Smithfield,Dublin 7,q3,60%
+24/09/2018,"Apt 52, Block C Smithfield Market, Dublin 7",Dublin,425000.0,No,Smithfield,Dublin 7,q4,100%
+01/10/2018,"1 Smithfield Tce, Off North King St, Dublin 7",Dublin,1237500.0,No,Smithfield,Dublin 7,q4,100%
+19/10/2018,"33 Coopers Yd Block E, Smithfield Market, Smithfield Dublin 7",Dublin,370000.0,No,Smithfield,Dublin 7,q4,90%
+24/10/2018,"Apt 51, Old Distillery, Smithfield",Dublin,247000.0,No,Smithfield,Dublin 7,q3,60%
+02/11/2018,"Apt 13C Smithfield, Smithfield Complex, Smithfield Dublin 7",Dublin,390000.0,No,Smithfield,Dublin 7,q4,90%
+09/11/2018,"86 Block C, Smithfield Market, Smithfield Dublin 7",Dublin,730999.0,No,Smithfield,Dublin 7,q4,100%
+16/11/2018,"34 Blackhall St, Smithfield, Dublin 7",Dublin,415000.0,No,Smithfield,Dublin 7,q4,100%
+28/11/2018,"73 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,342000.0,No,Smithfield,Dublin 7,q4,80%
+30/11/2018,"71 Block A, Smithfield Market, Dublin 7",Dublin,430000.0,No,Smithfield,Dublin 7,q4,100%
+05/12/2018,"Apartment 51, Block C, Smithfield Market",Dublin,400000.0,No,Smithfield,Dublin 7,q4,90%
+07/12/2018,"71 Block C, Smithfield Market, Smithfield Dublin 7",Dublin,900000.0,No,Smithfield,Dublin 7,q4,100%
+12/12/2018,"Apt 72 Block B, Smithfield Market, Smithfield Dublin 7",Dublin,295000.0,No,Smithfield,Dublin 7,q3,70%
+18/12/2018,"Apt 7, Smithfield Village, Smithfield Dublin 7",Dublin,280000.0,No,Smithfield,Dublin 7,q3,70%
+19/12/2018,"Apt 40, Smithfield Gate, King St North Dublin 7",Dublin,340000.0,No,Smithfield,Dublin 7,q4,80%
+21/12/2018,"165 Distillery, Smithfield Dublin 1, Dublin",Dublin,387500.0,No,Smithfield,Dublin 7,q4,90%
+21/12/2018,"Apt 28, Smithfield Gate, King St North Dublin 7",Dublin,199000.0,No,Smithfield,Dublin 7,q2,50%
+12/02/2019,"33 Blackhall Sq, North King St, Smithfield Dublin 7",Dublin,272500.0,No,Smithfield,Dublin 7,q3,70%
+15/02/2019,"Apt 64, Block B, Smithfield Market Dublin 7",Dublin,275000.0,No,Smithfield,Dublin 7,q3,70%
+15/02/2019,"Apt 69, Block B, Smithfield Market Dublin 7",Dublin,275000.0,No,Smithfield,Dublin 7,q3,70%
+22/02/2019,"243 The Richmond, North Brunswick St, Smithfield Dublin 7",Dublin,230000.0,No,Smithfield,Dublin 7,q3,60%
+01/03/2019,"108 Smithfield Village, Smithfield, Dublin 7",Dublin,355000.0,No,Smithfield,Dublin 7,q4,90%
+06/03/2019,"Apartment 54, Block B, Smithfield Market Square",Dublin,415000.0,No,Smithfield,Dublin 7,q4,100%
+15/03/2019,"28 Blackhall Sq, King St North, Smithfield Dublin 7",Dublin,177000.0,No,Smithfield,Dublin 7,q2,30%
+15/03/2019,"Apt 29 Coopers Yard, Smithfield Market, Smithfield Dublin 7",Dublin,290000.0,No,Smithfield,Dublin 7,q3,70%
+25/03/2019,"Apt 38, Block B, Smithfield Market Dublin 7",Dublin,400000.0,No,Smithfield,Dublin 7,q4,90%
+03/04/2019,"9 Fr Matthew Square, Smithfield, Dublin 7",Dublin,337500.0,No,Smithfield,Dublin 7,q4,80%
+04/04/2019,"76 Block C, Smithfield, Dublin 7",Dublin,390000.0,No,Smithfield,Dublin 7,q4,90%
+04/04/2019,"77 Block C, Smithfield, Dublin 7",Dublin,380000.0,No,Smithfield,Dublin 7,q4,90%
+04/04/2019,"81 Block B, Smithfield, Dublin 7",Dublin,400000.0,No,Smithfield,Dublin 7,q4,90%
+04/04/2019,"93 Block B, Smithfield Market, Smithfield Dublin 7",Dublin,400000.0,No,Smithfield,Dublin 7,q4,100%
+04/04/2019,"94 Smithfield Village, Dublin 7, Dublin",Dublin,180000.0,No,Smithfield,Dublin 7,q2,30%
+17/04/2019,"220 Smithfield Village, Dublin 7, Dublin",Dublin,195000.0,No,Smithfield,Dublin 7,q2,40%
+25/04/2019,"77 Smithfield, Market, Dublin 7",Dublin,390000.0,No,Smithfield,Dublin 7,q4,90%
+29/04/2019,"Apt 14, Block A, Smithfield Market Dublin 7",Dublin,360000.0,No,Smithfield,Dublin 7,q4,90%
+30/04/2019,"60 Red Mill 69 Brunswick St, Smithfield, Dublin 7",Dublin,250000.0,No,Smithfield,Dublin 7,q3,60%
+01/05/2019,"Apt 9, Block A Smithfield Market, Dublin 7",Dublin,365000.0,No,Smithfield,Dublin 7,q4,90%
+02/05/2019,"33 Smithfield Gate Apts, North King St, Dublin 7",Dublin,210000.0,No,Smithfield,Dublin 7,q2,50%
+03/05/2019,"5 Smithfield Village, Smithfield, Dublin 7",Dublin,330000.0,No,Smithfield,Dublin 7,q4,80%
+10/05/2019,"161 Tower Central, Smithfield Market, Dublin 7",Dublin,575000.0,No,Smithfield,Dublin 7,q4,100%
+15/05/2019,"Apt 51, Smithfield Village, Dublin 7",Dublin,310500.0,No,Smithfield,Dublin 7,q3,80%
+20/05/2019,"144 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,476659.0,No,Smithfield,Dublin 7,q4,100%
+29/05/2019,"Apt 101, Block A, Smithfield Market Dublin 7",Dublin,420000.0,No,Smithfield,Dublin 7,q4,100%
+14/06/2019,"18 Smithfield Gate, Dublin 7",Dublin,257000.0,No,Smithfield,Dublin 7,q3,60%
+28/06/2019,"68 Smithfield Market, Smithfield, Dublin 7",Dublin,375000.0,No,Smithfield,Dublin 7,q4,90%
+28/06/2019,"Apt 39, Block B, Smithfield Market",Dublin,400000.0,No,Smithfield,Dublin 7,q4,100%
+09/07/2019,"Apt 155 The Tower, Block A, Smithfield Market Dublin 7",Dublin,550000.0,No,Smithfield,Dublin 7,q4,100%
+12/07/2019,"Apt 24, Blocka, Smithfield Market Dublin 7",Dublin,367000.0,No,Smithfield,Dublin 7,q4,90%
+15/07/2019,"50 Smithfield Market, Block A, Smithfield Dublin 7",Dublin,375000.0,No,Smithfield,Dublin 7,q4,90%
+16/07/2019,"Apt 35, Smithfield Gate, King St North Dublin 7",Dublin,265000.0,No,Smithfield,Dublin 7,q3,70%
+15/08/2019,"134 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,507500.0,No,Smithfield,Dublin 7,q4,100%
+27/08/2019,"19 Smithfield Market, Smithfield, Dublin",Dublin,312500.0,No,Smithfield,Dublin 7,q3,80%
+03/09/2019,"44E Coopers Yard, Smithfield Market, Smithfield Dublin 7",Dublin,265000.0,No,Smithfield,Dublin 7,q3,70%
+06/09/2019,"71 B Smithfield, Smithfield Market, Smithfield",Dublin,396500.0,No,Smithfield,Dublin 7,q4,90%
+11/09/2019,"53 Smithfield Market, Block E, Smithfield",Dublin,386000.0,No,Smithfield,Dublin 7,q4,90%
+13/09/2019,"21 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,417000.0,No,Smithfield,Dublin 7,q4,100%
+13/09/2019,"21 Block A, Smithfield Market, Smithfield Dublin 7",Dublin,417000.0,No,Smithfield,Dublin 7,q4,100%
+18/09/2019,"79 Block B, Smithfield Market, Smithfield Dublin 7",Dublin,630000.0,No,Smithfield,Dublin 7,q4,100%
+23/09/2019,"45 Smithfield Loft, North King St, Dublin 7",Dublin,207000.0,No,Smithfield,Dublin 7,q2,50%
+25/09/2019,"10 Linenhall Terrace, North King St, Smithfield",Dublin,390000.0,No,Smithfield,Dublin 7,q4,90%
+30/09/2019,"49 Smithfield Gate, Dublin 7",Dublin,255000.0,No,Smithfield,Dublin 7,q3,60%
+17/10/2019,"Apt 39, Blackhall Green, Smithfield Dublin 7",Dublin,290000.0,No,Smithfield,Dublin 7,q3,70%

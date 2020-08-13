@@ -1,0 +1,57 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/01/2010,"7 Roebuck Drive, Perrystown, Dublin 12",Dublin,284000.0,No,Roebuck,Dublin 14,q1,30%
+17/06/2010,"18 Roebuck Downs, Lower Clanbrassil St, Dublin 8",Dublin,425000.0,No,Roebuck,Dublin 14,q2,50%
+05/07/2010,"1  Friarsland Avenue, Roebuck, Dublin 14",Dublin,557500.0,No,Roebuck,Dublin 14,q3,60%
+23/05/2012,"137 Roebuck Castle, Closnkeagh, Dublin 14",Dublin,343000.0,No,Roebuck,Dublin 14,q2,40%
+14/12/2012,"8 The Palms, Roebuck Road, Dublin 14",Dublin,247500.0,No,Roebuck,Dublin 14,q1,20%
+19/12/2012,"4 Roebuck Drive, Perrystown",Dublin,170000.0,No,Roebuck,Dublin 14,q1,10%
+11/01/2013,"Apartment 89 The Atrium, Roebuck Hill  Roebuck Road, Mount Merion",Dublin,226000.0,Yes,Roebuck,Dublin 14,q1,10%
+17/06/2013,"Apt 84 The Atrium, Roebuck Hill, Roebuck Road",Dublin,162500.0,Yes,Roebuck,Dublin 14,q1,10%
+26/06/2013,"71 The Atrium, Roebuck Hill  Roebuck Road",Dublin,238200.0,No,Roebuck,Dublin 14,q1,10%
+12/11/2013,"32 Harlech Crescent, Roebuck Rd, Dublin 14",Dublin,740000.0,No,Roebuck,Dublin 14,q4,80%
+25/03/2014,"Apt 57   Level I, The Atrium, Roebuck Hill",Dublin,270000.0,No,Roebuck,Dublin 14,q1,20%
+04/04/2014,"95 The Atrium, Roebuck Hill, Roebuck Rd Dublin 14",Dublin,257000.0,No,Roebuck,Dublin 14,q1,20%
+25/04/2014,"Apt 32 Stanford, Ardilea, Roebuck Rd Dublin 14",Dublin,225000.0,No,Roebuck,Dublin 14,q1,10%
+30/04/2014,"1 The Palms, Roebuck Road, Dublin 14",Dublin,820000.0,No,Roebuck,Dublin 14,q4,90%
+30/06/2014,"19 Roebuck Hill, Roebuck Road, Clonakeagh",Dublin,277533.0,Yes,Roebuck,Dublin 14,q1,20%
+01/08/2014,"52 The Pavilion, Roebuck Hill, Fostersave",Dublin,455000.0,No,Roebuck,Dublin 14,q3,60%
+03/09/2014,"Roebuck House, Roebuck Hill, Dublin 14",Dublin,590000.0,No,Roebuck,Dublin 14,q3,70%
+10/11/2014,"Apt 7, Roebuck Park House, Larchfield Park Dublin 14",Dublin,300000.0,No,Roebuck,Dublin 14,q1,30%
+07/01/2015,"6 Roebuck Ave, The Rise, Mt Merrion",Dublin,1200000.0,No,Roebuck,Dublin 14,q4,100%
+29/05/2015,"9 Roebuck House, Roebuck Park, Dublin 14",Dublin,303000.0,No,Roebuck,Dublin 14,q2,30%
+11/06/2015,"29 Roebuck Hill Apts, Mount Anville Rd, Dublin 14",Dublin,336000.0,No,Roebuck,Dublin 14,q2,40%
+03/09/2015,"3 Friarsland, Roebuck Road, Dublin",Dublin,682819.0,Yes,Roebuck,Dublin 14,q3,80%
+09/10/2015,"2 Heidelberg, Ardilea, Roebuck Rd Dublin 14",Dublin,1320000.0,No,Roebuck,Dublin 14,q4,100%
+08/12/2015,"8 The Concourse, Roebuck Hill, Clonskea",Dublin,275000.0,No,Roebuck,Dublin 14,q1,20%
+31/03/2016,"31 The Palms, Roebuck Rd, Dublin 14",Dublin,846500.0,No,Roebuck,Dublin 14,q4,90%
+06/04/2016,"41 Harlech Grove, Roebuck Rd, Clonskea Dublin 14",Dublin,630000.0,No,Roebuck,Dublin 14,q3,70%
+17/06/2016,"5 Princeton, Ardilea, Roebuck Rd Dublin 14",Dublin,1420000.0,No,Roebuck,Dublin 14,q4,100%
+24/06/2016,"Apt 69 The Atrium, Roebuck Hill, Roebuck House Dublin 14",Dublin,340000.0,No,Roebuck,Dublin 14,q2,40%
+05/07/2016,"Hollybrook, Roebuck Crescent, Clonskea Rd Dublin 14",Dublin,665000.0,No,Roebuck,Dublin 14,q3,70%
+18/08/2016,"182 Roebuck Castle, Dublin 14",Dublin,515000.0,No,Roebuck,Dublin 14,q3,60%
+14/09/2016,"1 The Concourse, Roebuck Hill, Clonskea Dublin 14",Dublin,345000.0,No,Roebuck,Dublin 14,q2,50%
+06/10/2016,"18 Roebuck Dr, Perrystown, Dublin",Dublin,325000.0,No,Roebuck,Dublin 14,q2,30%
+15/11/2016,"29 Larchfield Rd, Roebuck Park, Dublin 14",Dublin,676000.0,No,Roebuck,Dublin 14,q3,80%
+18/11/2016,"10 Harlech Crescent, Roebuck Rd, Dublin 14",Dublin,745000.0,No,Roebuck,Dublin 14,q4,80%
+07/12/2016,"24 Friarsland Rd, Roebuck, Dublin 14",Dublin,885000.0,No,Roebuck,Dublin 14,q4,100%
+12/12/2016,"3 Roebuck Hill, Roebuck Rd, Dublin 14",Dublin,205000.0,No,Roebuck,Dublin 14,q1,10%
+13/12/2016,"Apt 12, Roebuck Park House, Larchfield Park Dublin 14",Dublin,328000.0,No,Roebuck,Dublin 14,q2,40%
+20/12/2016,"91 The Atrium, Roebuck Hill, Fosters Ave",Dublin,365000.0,No,Roebuck,Dublin 14,q2,50%
+26/01/2017,"2 Trimbleston, Roebuck Rd, Dublin 14",Dublin,392500.0,No,Roebuck,Dublin 14,q2,50%
+06/02/2017,"17 Roebuck Downs, Clanskeagh, Dublin 14",Dublin,500000.0,No,Roebuck,Dublin 14,q3,60%
+09/03/2017,"81 Roebuck Hill, Roebuck Rd, Dublin 14",Dublin,267000.0,No,Roebuck,Dublin 14,q1,20%
+10/11/2017,"15 Louvain, Ardilea, Roebuck Rd Dublin 14",Dublin,840000.0,No,Roebuck,Dublin 14,q4,90%
+20/12/2017,"59 The Palms, Roebuck Rd, Dublin 14",Dublin,375000.0,No,Roebuck,Dublin 14,q2,50%
+15/01/2018,"54 Block D, Roebuck Hill, Mount Anville Road",Dublin,465000.0,No,Roebuck,Dublin 14,q3,60%
+02/08/2018,"1 The Mews, Roebuck Hall, The Palms Dublin 14",Dublin,325000.0,No,Roebuck,Dublin 14,q2,40%
+25/10/2018,"23 The Palms, Roebuck Rd, Dublin 14",Dublin,930150.0,No,Roebuck,Dublin 14,q4,100%
+12/12/2018,"4 Friarsland Ave, Roebuck, Dublin 14",Dublin,841177.0,No,Roebuck,Dublin 14,q4,90%
+18/12/2018,"Apartment 15, Greygates Hall, Roebuck Avenue",Dublin,546255.0,Yes,Roebuck,Dublin 14,q3,60%
+24/01/2019,"2 Harlech Grove, Roebuck Rd, Dublin 14",Dublin,695000.0,No,Roebuck,Dublin 14,q3,80%
+07/02/2019,"Apartment 11, Greygates Hall, Roebuck Avenue",Dublin,562250.0,Yes,Roebuck,Dublin 14,q3,70%
+18/04/2019,"44 Roebuck Hill, Mount Anville Rd, Dublin 14",Dublin,316000.0,No,Roebuck,Dublin 14,q2,30%
+05/06/2019,"32 Louvain, Ardilea, Roebuck Rd Dublin 14",Dublin,1000000.0,No,Roebuck,Dublin 14,q4,100%
+09/07/2019,"Unit No. 3.3 (Otherwise Apt. 18), Greygates Hall, Roebuck Avenue",Dublin,612335.0,Yes,Roebuck,Dublin 14,q3,70%
+12/07/2019,"210 Roebuck Castle, Roebuck Rd, Dublin 14",Dublin,803000.0,No,Roebuck,Dublin 14,q4,90%
+15/08/2019,"34 Harlech Crescent, Roebuck Rd, Dublin 14",Dublin,724000.0,No,Roebuck,Dublin 14,q4,80%
+24/10/2019,"Apt 32 Stanford, Ardilea, Roebuck Rd Dublin 14",Dublin,342000.0,No,Roebuck,Dublin 14,q2,40%

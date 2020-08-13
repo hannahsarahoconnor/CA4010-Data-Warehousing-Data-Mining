@@ -1,0 +1,717 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+21/01/2010,"19 Brennanstown Avenue, Cabinteely",Dublin,355000.0,No,Cabinteely,Dublin 18,q2,50%
+21/01/2010,"23 East Courtyard, Tullyvale, Cabinteely",Dublin,310000.0,No,Cabinteely,Dublin 18,q2,40%
+22/01/2010,"18 Belville Court, Johnstown Road, Cabinteely",Dublin,208000.0,Yes,Cabinteely,Dublin 18,q1,10%
+05/02/2010,"13 Belville Court, Johnstown Road, Cabinteely",Dublin,260000.0,Yes,Cabinteely,Dublin 18,q1,20%
+08/02/2010,"12 West Courtyard, Tullyvale, Cabinteely",Dublin,310000.0,No,Cabinteely,Dublin 18,q2,40%
+08/02/2010,"Apartment No 77 The Oval, Tullyvale, Cabinteely",Dublin,230000.0,No,Cabinteely,Dublin 18,q1,20%
+12/02/2010,"30 Maple Manor, Cabinteely, Dublin 18",Dublin,435000.0,No,Cabinteely,Dublin 18,q3,60%
+24/02/2010,"18 East Court Yard, Tullvale Druid Valley, Cabinteely",Dublin,180000.0,No,Cabinteely,Dublin 18,q1,10%
+24/02/2010,"32 Vale View Lawn, The Park  Cabinteely, Dublin 18",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+04/03/2010,"28 Belville Court, Johnstown Road, Cabinteely",Dublin,200000.0,Yes,Cabinteely,Dublin 18,q1,10%
+29/03/2010,"1  Glen Garth, The Park, Cabinteely",Dublin,500000.0,No,Cabinteely,Dublin 18,q3,70%
+30/03/2010,"31 Belville Court, Cabinteely, .",Dublin,350000.0,No,Cabinteely,Dublin 18,q2,50%
+31/03/2010,"17 Brennanstown Court, Brennanstown, Cabinteely",Dublin,168675.0,Yes,Cabinteely,Dublin 18,q1,10%
+23/04/2010,"14 Willow Court, Druids Valley, Cabinteely",Dublin,460000.0,No,Cabinteely,Dublin 18,q3,70%
+30/04/2010,"58 Maple Manor, Johnstown Road, Cabinteely",Dublin,425000.0,No,Cabinteely,Dublin 18,q3,60%
+12/05/2010,"Apartment 73 St. Gabriel'S, Johnston Road, Cabinteely",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+27/05/2010,"18 Brennanstown Court, Brennanstown, Cabinteely",Dublin,230000.0,Yes,Cabinteely,Dublin 18,q1,20%
+01/06/2010,"6 Cabinteely Court, Cabinteely",Dublin,390000.0,No,Cabinteely,Dublin 18,q3,60%
+10/06/2010,"15 Park Drive, The Park, Cabinteely",Dublin,436000.0,No,Cabinteely,Dublin 18,q3,60%
+10/06/2010,"31 Gleann Na Ri, Druid Valley, Cabinteely",Dublin,215000.0,No,Cabinteely,Dublin 18,q1,10%
+16/06/2010,"Apartment 83, St. Gabriels, Johnstown Road  Cabinteely",Dublin,230000.0,No,Cabinteely,Dublin 18,q1,20%
+17/06/2010,"4 Marlfield House, St Gabriels, Cabinteely",Dublin,222500.0,No,Cabinteely,Dublin 18,q1,20%
+21/06/2010,"9 Willow Court, Druid Valley, Cabinteely",Dublin,400000.0,No,Cabinteely,Dublin 18,q3,60%
+29/06/2010,"8 Willow Court, Druid Valley, Cabinteely",Dublin,414000.0,No,Cabinteely,Dublin 18,q3,60%
+12/07/2010,"5 Prospect Lawn, The Park, Cabinteely",Dublin,465000.0,No,Cabinteely,Dublin 18,q3,70%
+13/07/2010,"14 Belville Court, Johnstown Rd., Cabinteely  Dublin 18",Dublin,286343.61,Yes,Cabinteely,Dublin 18,q2,30%
+16/07/2010,"14 Brennanstown Court, Brennanstown, Cabinteely",Dublin,224000.0,Yes,Cabinteely,Dublin 18,q1,20%
+29/07/2010,"2 Johnstown Court, Johnstown Road, Cabinteely",Dublin,340000.0,No,Cabinteely,Dublin 18,q2,40%
+16/08/2010,"36 Glen Drive, The Park, Cabinteely",Dublin,375000.0,No,Cabinteely,Dublin 18,q2,50%
+16/08/2010,"60 Maple Manor, Cabinteely, Dublin 18",Dublin,415000.0,No,Cabinteely,Dublin 18,q3,60%
+20/08/2010,"37 Johnstown Court, Cabinteely, Dublin 18",Dublin,333000.0,No,Cabinteely,Dublin 18,q2,40%
+20/08/2010,"54 Johnstown Park, Cabinteely, Dublin 18",Dublin,380000.0,No,Cabinteely,Dublin 18,q2,50%
+27/08/2010,"9 Cabinteely Court, Cabinteely, Co. Dublin",Dublin,367500.0,No,Cabinteely,Dublin 18,q2,50%
+14/09/2010,"92 Johnstown Avenue, Cabinteely",Dublin,372500.0,No,Cabinteely,Dublin 18,q2,50%
+30/09/2010,"42 West Courtyard, Tullyvale  Cabinteely, Dublin 18",Dublin,240000.0,No,Cabinteely,Dublin 18,q1,20%
+01/10/2010,"14 Auburn Avenue, Cabinteely",Dublin,430000.0,No,Cabinteely,Dublin 18,q3,60%
+11/10/2010,"9 Brennanstown Court, Brennanstown, Cabinteely",Dublin,177000.0,Yes,Cabinteely,Dublin 18,q1,10%
+20/10/2010,"Apartment 38 Brennanstown Square, Cabinteely",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+28/10/2010,"Apt 95, Tullyvale  Druid Valley, Cabinteely",Dublin,268000.0,No,Cabinteely,Dublin 18,q1,30%
+12/11/2010,"91 Gleann Na Ri, Cabinteely",Dublin,256000.0,No,Cabinteely,Dublin 18,q1,20%
+30/11/2010,"10 Brennanstown Court, Brennanstown, Cabinteely",Dublin,134075.0,Yes,Cabinteely,Dublin 18,q1,10%
+16/12/2010,"48 Gleann Na Ri, Druids Valley, Cabinteely",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+20/12/2010,"89 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,212000.0,No,Cabinteely,Dublin 18,q1,10%
+22/12/2010,"Apartment No. 29, Brennanstown Avenue, Cabinteely",Dublin,400000.0,No,Cabinteely,Dublin 18,q3,60%
+23/12/2010,"30 Cabinteely Close, Cabinteely",Dublin,500000.0,No,Cabinteely,Dublin 18,q3,70%
+17/02/2011,"34 Woodlands Avenue, Cabinteely",Dublin,370000.0,No,Cabinteely,Dublin 18,q2,50%
+25/02/2011,"11 Glen Garth, The Park, Cabinteely",Dublin,475000.0,No,Cabinteely,Dublin 18,q3,70%
+11/03/2011,"24 Vale View, The Park, Cabinteely",Dublin,415000.0,No,Cabinteely,Dublin 18,q3,60%
+23/03/2011,"Apt 21 Le Hunt House, Brennanstown, Cabinteely",Dublin,255000.0,No,Cabinteely,Dublin 18,q1,20%
+28/03/2011,"69 The Oval, Tullyvale, Cabinteely",Dublin,175000.0,No,Cabinteely,Dublin 18,q1,10%
+29/04/2011,"51 Woodlands Road, Cabinteely, Dublin 18",Dublin,315000.0,No,Cabinteely,Dublin 18,q2,40%
+30/05/2011,"51 Park Drive, The Park, Cabinteely",Dublin,325000.0,No,Cabinteely,Dublin 18,q2,40%
+24/06/2011,"15 Highland View, The Park, Cabinteely",Dublin,311000.0,No,Cabinteely,Dublin 18,q2,40%
+05/07/2011,"24 Cabinteely Way, Cabinteely, Dublin 18",Dublin,455000.0,No,Cabinteely,Dublin 18,q3,70%
+06/07/2011,"50 Gleann Na Ri, Cabinteely",Dublin,250000.0,No,Cabinteely,Dublin 18,q1,20%
+22/07/2011,"35 Johnstown Court, Cabinteely, Dublon 18",Dublin,295000.0,No,Cabinteely,Dublin 18,q2,30%
+16/08/2011,"7 Lambourne Wood, Brennanstown Road, Cabinteely",Dublin,740000.0,No,Cabinteely,Dublin 18,q4,100%
+18/08/2011,"164 Ard Na Ri, Druid Valley, Cabinteely",Dublin,235000.0,No,Cabinteely,Dublin 18,q1,20%
+23/08/2011,"131 The Oval, Tullyvale Apartments, Cabinteely",Dublin,215000.0,No,Cabinteely,Dublin 18,q1,10%
+24/08/2011,"110 Granitefield, Cabinteely",Dublin,290000.0,No,Cabinteely,Dublin 18,q2,30%
+31/08/2011,"25 Oakdale Drive, Cabinteely, Dublin 18",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+15/09/2011,"57 Maple Manor, Cabinteely",Dublin,345000.0,No,Cabinteely,Dublin 18,q2,40%
+22/09/2011,"35 Maple Manor, Johnstown Road, Cabinteely",Dublin,323000.0,No,Cabinteely,Dublin 18,q2,40%
+28/09/2011,"12 Brennanstown Square, Cabinteely, Dublin 18",Dublin,330000.0,No,Cabinteely,Dublin 18,q2,40%
+07/10/2011,"7 Marlfied Gardens, Cabinteely",Dublin,467500.0,No,Cabinteely,Dublin 18,q3,70%
+07/10/2011,"9 Willow Park, Druids Valley, Cabinteely",Dublin,295000.0,No,Cabinteely,Dublin 18,q2,30%
+21/10/2011,"30 Cabinteely Avenue, Cabinteely",Dublin,312000.0,No,Cabinteely,Dublin 18,q2,40%
+25/10/2011,"3 Highland Ave., The Park, Cabinteely",Dublin,282000.0,No,Cabinteely,Dublin 18,q1,30%
+27/10/2011,"8 Willow Park, Druids Valley, Cabinteely",Dublin,275000.0,No,Cabinteely,Dublin 18,q1,30%
+28/10/2011,"34 Park Drive, Cabinteely",Dublin,260000.0,No,Cabinteely,Dublin 18,q1,20%
+01/11/2011,"25 East Courtyard, Tullyvale, Cabinteely",Dublin,127500.0,No,Cabinteely,Dublin 18,q1,10%
+03/11/2011,"26 Brennanstown Avenue, Cabinteely, Dublin 18",Dublin,428500.0,No,Cabinteely,Dublin 18,q3,60%
+09/11/2011,"4 Belville Court, Johnstown Road, Cabinteely",Dublin,154185.0,Yes,Cabinteely,Dublin 18,q1,10%
+17/11/2011,"Number 10 Brennanstown Square, Cabinteely",Dublin,250000.0,No,Cabinteely,Dublin 18,q1,20%
+09/12/2011,"22 Highland Grove, The Park, Cabinteely",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+09/12/2011,"33 Woodlands Park, Cabinteely, Co Dublin",Dublin,365000.0,No,Cabinteely,Dublin 18,q2,50%
+16/12/2011,"20 Highland Lawn, The Park, Cabinteely",Dublin,318000.0,No,Cabinteely,Dublin 18,q2,40%
+22/12/2011,"Ardenlea, Brennanstown Road, Cabinteely",Dublin,642000.0,No,Cabinteely,Dublin 18,q4,90%
+23/12/2011,"30 Cabinteely Close, Cabinteely",Dublin,367500.0,No,Cabinteely,Dublin 18,q2,50%
+12/01/2012,"53 Maple Manor, Johnston Road, Cabinteely",Dublin,302000.0,No,Cabinteely,Dublin 18,q2,40%
+18/01/2012,"73 Johnstown Park, Cabinteely",Dublin,290000.0,No,Cabinteely,Dublin 18,q2,30%
+01/02/2012,"45 Shrewsbury Lawn, Cabinteely",Dublin,592500.0,No,Cabinteely,Dublin 18,q4,90%
+06/02/2012,"16A Shrewbury Lawn, Cabinteely",Dublin,470000.0,No,Cabinteely,Dublin 18,q3,70%
+09/02/2012,"28 Vale View Avenue, The Park, Cabinteely",Dublin,325000.0,No,Cabinteely,Dublin 18,q2,40%
+23/02/2012,"4 Granville Crescent, Cabinteely",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+29/02/2012,"14 Lambourne Wood, Brennanstown Road, Cabinteely",Dublin,647500.0,No,Cabinteely,Dublin 18,q4,90%
+08/03/2012,"23 Willow Court, Druids Glen, Cabinteely",Dublin,295000.0,No,Cabinteely,Dublin 18,q2,30%
+05/04/2012,"134 The Oval, Tullyvale, Cabinteely",Dublin,115000.0,No,Cabinteely,Dublin 18,q1,10%
+20/04/2012,"2 Shrewsbury Wood, Shrewsbury Lawn, Cabinteely",Dublin,360000.0,No,Cabinteely,Dublin 18,q2,50%
+25/04/2012,"39 Park Drive, The Park, Cabinteely",Dublin,290000.0,No,Cabinteely,Dublin 18,q2,30%
+30/04/2012,"44 Gleann Na Ri, Druid Valley, Cabinteely",Dublin,225000.0,No,Cabinteely,Dublin 18,q1,20%
+02/05/2012,"9 Cabinteely Way, Long Meadow, Cabinteely",Dublin,260000.0,No,Cabinteely,Dublin 18,q1,20%
+11/05/2012,"25 Le Hunt House, Brennanstown, Cabinteely",Dublin,323000.0,Yes,Cabinteely,Dublin 18,q2,40%
+18/05/2012,"23 Brennanstown Avenue, Cabinteely",Dublin,220000.0,No,Cabinteely,Dublin 18,q1,20%
+31/05/2012,"112 Shrewsbury Lawn, Cabinteely",Dublin,615000.0,No,Cabinteely,Dublin 18,q4,90%
+11/06/2012,"32 Valeview Lawn, Cabinteely",Dublin,377000.0,No,Cabinteely,Dublin 18,q2,50%
+14/06/2012,"30 Brennanstown Avenue, Brennanstown, Cabinteely",Dublin,405286.34,Yes,Cabinteely,Dublin 18,q3,60%
+15/06/2012,"4 Cunningham Park, Cabinteely",Dublin,310000.0,No,Cabinteely,Dublin 18,q2,40%
+22/06/2012,"Apartment 25 Rochford House, Brennanstown Square, Cabinteely",Dublin,295000.0,No,Cabinteely,Dublin 18,q2,30%
+26/06/2012,"12 Willow Park, Druids Valley, Cabinteely",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+05/07/2012,"31 East Courtyard, Tullyvale, Cabinteely",Dublin,165000.0,No,Cabinteely,Dublin 18,q1,10%
+10/07/2012,"34 Glen Drive, The Park, Cabinteely",Dublin,347000.0,No,Cabinteely,Dublin 18,q2,50%
+19/07/2012,"57 Granville Road, Cabinteely, Co Dublin",Dublin,305000.0,No,Cabinteely,Dublin 18,q2,40%
+25/07/2012,"8 Rochfort House, Brennanstown Square, Cabinteely",Dublin,215000.0,No,Cabinteely,Dublin 18,q1,20%
+02/08/2012,"24 Glen Lawn Drive, The Park, Cabinteely",Dublin,385000.0,No,Cabinteely,Dublin 18,q2,50%
+03/08/2012,"24 Rochfort House, Brennanstown Road, Cabinteely",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+07/08/2012,"1 The Mapels, Doonsalla Drive, Cabinteely",Dublin,387665.0,Yes,Cabinteely,Dublin 18,q2,50%
+10/08/2012,"Apartment 44, East Courtyard, Cabinteely",Dublin,220000.0,No,Cabinteely,Dublin 18,q1,20%
+15/08/2012,"20 Granville Close, Cabinteely, Co Dublin",Dublin,355000.0,No,Cabinteely,Dublin 18,q2,50%
+16/08/2012,"Apt. 65  Gleann Na Ri, Druids Glenn, Cabinteely",Dublin,144000.0,No,Cabinteely,Dublin 18,q1,10%
+29/08/2012,"4 Park Drive, The Park, Cabinteely",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+31/08/2012,"13 Highland Grove, The Park, Cabinteely",Dublin,530000.0,No,Cabinteely,Dublin 18,q3,80%
+31/08/2012,"2 The Maples, Doonsalla Drive, Cabinteely",Dublin,352422.9,Yes,Cabinteely,Dublin 18,q2,50%
+31/08/2012,"Apt 82 The Oval, Tullyvale, Cabinteely",Dublin,250000.0,No,Cabinteely,Dublin 18,q1,20%
+07/09/2012,"119 Ghleann Na Ri, Druids Valley, Cabinteely",Dublin,140000.0,No,Cabinteely,Dublin 18,q1,10%
+19/09/2012,"27 Lambourne Wood, Brennanstown Road, Cabinteely",Dublin,675000.0,No,Cabinteely,Dublin 18,q4,100%
+20/09/2012,"54 Maple Manor, Cabinteely",Dublin,327500.0,No,Cabinteely,Dublin 18,q2,40%
+03/10/2012,"23 Rochfort House, Brennanstown, Cabinteely",Dublin,290000.0,No,Cabinteely,Dublin 18,q2,30%
+05/10/2012,"49 Cabinteely Green, Cabinteely, Dublin 18",Dublin,355500.0,No,Cabinteely,Dublin 18,q2,50%
+12/10/2012,"19 Sycamore Close, The Park  Cabinteely, Dublin 18",Dublin,500000.0,No,Cabinteely,Dublin 18,q3,70%
+21/10/2012,"40 Gleann Na Ri, Druid Valley, Cabinteely",Dublin,185000.0,No,Cabinteely,Dublin 18,q1,10%
+26/10/2012,"3 Brennanstown Square, Brennanstown, Cabinteely",Dublin,340000.0,No,Cabinteely,Dublin 18,q2,40%
+26/10/2012,"4 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,500000.0,No,Cabinteely,Dublin 18,q3,70%
+26/10/2012,"Druid Glen, Brennanstown Road, Cabinteely",Dublin,850000.0,No,Cabinteely,Dublin 18,q4,100%
+31/10/2012,"8 The Maples, Doonsalla Drive, Cabinteely",Dublin,378855.0,Yes,Cabinteely,Dublin 18,q2,50%
+09/11/2012,"17 St. Gabriel'S, Johnstown Road, Cabinteely",Dublin,840000.0,No,Cabinteely,Dublin 18,q4,100%
+13/11/2012,"95 Shrewbury Lawn, Cabinteely",Dublin,420000.0,No,Cabinteely,Dublin 18,q3,60%
+15/11/2012,"8 Cabinteely Crescent, Cabinteely",Dublin,440000.0,No,Cabinteely,Dublin 18,q3,60%
+15/11/2012,"Apartment No 6 Le Hunt House, Brennanstown, Cabinteely",Dublin,183259.91,Yes,Cabinteely,Dublin 18,q1,10%
+28/11/2012,"10 Sycamore Close, Cabinteely",Dublin,200000.0,No,Cabinteely,Dublin 18,q1,10%
+29/11/2012,"13A Willow Court, Druid Valley, Cabinteely",Dublin,162500.0,No,Cabinteely,Dublin 18,q1,10%
+30/11/2012,"20 Courtlands, Cabinteely, Dublin 18",Dublin,235000.0,No,Cabinteely,Dublin 18,q1,20%
+04/12/2012,"11  Brennanstown Square, Brennanstown, Cabinteely",Dublin,330000.0,Yes,Cabinteely,Dublin 18,q2,40%
+07/12/2012,"20 Granville Road, Cabinteely",Dublin,350000.0,No,Cabinteely,Dublin 18,q2,50%
+07/12/2012,"7 The Maples, Doonsalla Drive, Cabinteely",Dublin,361570.0,Yes,Cabinteely,Dublin 18,q2,50%
+07/12/2012,"Apartment 114, East Courtyard, Tullyvale  Cabinteely",Dublin,189500.0,No,Cabinteely,Dublin 18,q1,10%
+12/12/2012,"49A Mapel Manor, Cabinteely, Dublin 18",Dublin,325000.0,No,Cabinteely,Dublin 18,q2,40%
+17/12/2012,"1 Cabinteely Avenue, Cabinteely",Dublin,355000.0,No,Cabinteely,Dublin 18,q2,50%
+18/12/2012,"1 Cabinteely Park, Cabinteely",Dublin,362500.0,No,Cabinteely,Dublin 18,q2,50%
+18/12/2012,"3 Sycamore Walk, Cabinteely, Dublin 18",Dublin,346000.0,No,Cabinteely,Dublin 18,q2,50%
+19/12/2012,"8 Cabinteely Avenue, Cabinteely, Dublin 18",Dublin,310000.0,No,Cabinteely,Dublin 18,q2,40%
+20/12/2012,"27 Glen Lawn Drive, The Park, Cabinteely",Dublin,475000.0,No,Cabinteely,Dublin 18,q3,70%
+20/12/2012,"3 Valley Walk, Druid Valley, Cabinteely",Dublin,375000.0,No,Cabinteely,Dublin 18,q2,50%
+20/12/2012,"6 The Maples, Doonsalla Drive, Cabinteely",Dublin,348017.62,Yes,Cabinteely,Dublin 18,q2,50%
+20/12/2012,"71 Gleann Na Ri, Cabinteely",Dublin,124000.0,No,Cabinteely,Dublin 18,q1,10%
+21/12/2012,"2 Maple Manor, Johnstown Road, Cabinteely",Dublin,530000.0,No,Cabinteely,Dublin 18,q3,80%
+21/12/2012,"36, Brennanstown Avenue, Brennanstown  Cabinteely",Dublin,405286.34,Yes,Cabinteely,Dublin 18,q3,60%
+21/12/2012,"9 Vale View Lawn, Cabinteely",Dublin,430000.0,No,Cabinteely,Dublin 18,q3,60%
+31/12/2012,"11 Carraig Glen, Brennanstown Road, Cabinteely",Dublin,620000.0,No,Cabinteely,Dublin 18,q4,90%
+09/01/2013,"10B Sycamore Close, Cabinteely",Dublin,200000.0,No,Cabinteely,Dublin 18,q1,10%
+10/01/2013,"28Brennanstown Avenue, Cabinteely",Dublin,444934.0,Yes,Cabinteely,Dublin 18,q3,60%
+11/01/2013,"44 Brennanstown Avenue, Brennanstown, Cabinteely",Dublin,500000.0,Yes,Cabinteely,Dublin 18,q3,70%
+16/01/2013,"30 Woodlands Park, Johnstown Estate, Cabinteely",Dublin,343000.0,No,Cabinteely,Dublin 18,q2,40%
+24/01/2013,"Apartment 55, The Ramparts, Cabinteely",Dublin,200000.0,No,Cabinteely,Dublin 18,q1,10%
+25/01/2013,"112 Gleann Na Ri, Druid Valley, Cabinteely",Dublin,217000.0,No,Cabinteely,Dublin 18,q1,20%
+25/01/2013,"8  Cabinteely Wood, Cabinteely, Dublin 18.",Dublin,440000.0,No,Cabinteely,Dublin 18,q3,60%
+29/01/2013,"34 Brennanstown Avenue, Brennanstown, Cabinteely",Dublin,422907.48,Yes,Cabinteely,Dublin 18,q3,60%
+28/02/2013,"4 The Maples, Doonsalla Drive, Cabinteely",Dublin,333025.0,Yes,Cabinteely,Dublin 18,q2,40%
+01/03/2013,"35 Brennanstown Avenue, Cabinteely",Dublin,302500.0,No,Cabinteely,Dublin 18,q2,40%
+22/04/2013,"The Cottage, Brennanstown Road, Cabinteely",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+30/04/2013,"10A  Sycamore Close, The Park, Cabinteely",Dublin,200000.0,No,Cabinteely,Dublin 18,q1,10%
+30/04/2013,"38 Brennanstown Avenue, Brennanstown, Cabinteely",Dublin,405286.0,Yes,Cabinteely,Dublin 18,q3,60%
+17/05/2013,"53 Gleann Na Ri, Druid Valley, Cabinteely",Dublin,189500.0,No,Cabinteely,Dublin 18,q1,10%
+23/05/2013,"2 Shrewsbury Lawn, Cabinteely",Dublin,600000.0,No,Cabinteely,Dublin 18,q4,90%
+28/05/2013,"11 Doonsalla Park, Cabinteely",Dublin,365000.0,No,Cabinteely,Dublin 18,q2,50%
+31/05/2013,"69 Gleann Na Ri, Druids Valley, Cabinteely",Dublin,205000.0,No,Cabinteely,Dublin 18,q1,10%
+31/05/2013,"The Old Dispensary, Cabinteely",Dublin,420000.0,No,Cabinteely,Dublin 18,q3,60%
+14/06/2013,"53 Granville Road, Cabinteely",Dublin,369000.0,No,Cabinteely,Dublin 18,q2,50%
+19/06/2013,"6-9 Monaloe Court, Old Clonkeen Road, Cabinteely",Dublin,370000.0,No,Cabinteely,Dublin 18,q2,50%
+21/06/2013,"15 Sycamore Lawn, The Park, Cabinteely",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+25/06/2013,"10 Vale View Avenue, The Park, Cabinteely",Dublin,396000.0,No,Cabinteely,Dublin 18,q3,60%
+28/06/2013,"7 Cabinteely Wood, Cabinteely, Dublin 18",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+29/06/2013,"112 Shrewsbury Lawn, Cabinteely",Dublin,750000.0,No,Cabinteely,Dublin 18,q4,100%
+05/07/2013,"Apartment 57  Block B  The Oval, Tullyvale, Cabinteely",Dublin,142000.0,No,Cabinteely,Dublin 18,q1,10%
+08/07/2013,"1 Glen Walk, The Park, Cabinteely",Dublin,540000.0,No,Cabinteely,Dublin 18,q4,80%
+15/07/2013,"25 Johnstown Court, Johnstown Road, Cabinteely",Dublin,290000.0,No,Cabinteely,Dublin 18,q2,30%
+19/07/2013,"6 Granville Road, Cabinteely",Dublin,457000.0,No,Cabinteely,Dublin 18,q3,70%
+22/07/2013,"18 Granville Road, Cabinteely",Dublin,400000.0,No,Cabinteely,Dublin 18,q3,60%
+22/07/2013,"2 Glen Lawn Drive, The Park, Cabinteely",Dublin,437000.0,No,Cabinteely,Dublin 18,q3,60%
+23/07/2013,"54 East Courtyard, Tullyvale, Cabinteely",Dublin,175000.0,No,Cabinteely,Dublin 18,q1,10%
+26/07/2013,"120 St. Gabriel'S, Johnstown Road, Cabinteely",Dublin,617500.0,No,Cabinteely,Dublin 18,q4,90%
+26/07/2013,"28 Prospect Lawn, Cabinteely",Dublin,422500.0,No,Cabinteely,Dublin 18,q3,60%
+31/07/2013,"71 East Courtyard, Tullyvale, Cabinteely",Dublin,180000.0,No,Cabinteely,Dublin 18,q1,10%
+01/08/2013,"94 St Gabriels, Johnstown Road, Cabinteely Dublin 18",Dublin,315000.0,No,Cabinteely,Dublin 18,q2,40%
+02/08/2013,"48 Cabinteely Avenue, Cabinteely",Dublin,411000.0,No,Cabinteely,Dublin 18,q3,60%
+12/08/2013,"6 Woodlands Drive, Cabinteely, Dublin 18",Dublin,365000.0,No,Cabinteely,Dublin 18,q2,50%
+27/08/2013,"3 The Maples, Doonsalla Drive, Cabinteely",Dublin,290749.0,Yes,Cabinteely,Dublin 18,q2,30%
+28/08/2013,"8 Courtlands, Cabinteely",Dublin,280000.0,No,Cabinteely,Dublin 18,q1,30%
+28/08/2013,"Apt 8 Brennanstown Court, Brennanstown, Cabinteely",Dublin,122467.0,No,Cabinteely,Dublin 18,q1,10%
+03/09/2013,"14 St Gabriels, Johnstown Road, Cabinteely",Dublin,807000.0,No,Cabinteely,Dublin 18,q4,100%
+10/09/2013,"19 St. Gabriel'S, Cabinteely, Dublin 18",Dublin,530000.0,No,Cabinteely,Dublin 18,q3,80%
+17/09/2013,"121 The Oval, Tullyvale, Cabinteely",Dublin,131000.0,No,Cabinteely,Dublin 18,q1,10%
+27/09/2013,"27 Woodlands Road, Cabinteely, Dublin",Dublin,369000.0,No,Cabinteely,Dublin 18,q2,50%
+01/10/2013,"4 Highland Grove, The Park, Cabinteely",Dublin,395000.0,No,Cabinteely,Dublin 18,q3,60%
+04/10/2013,"2 Fairview Lawn, Shanganagh Vale, Cabinteely",Dublin,517000.0,No,Cabinteely,Dublin 18,q3,80%
+07/10/2013,"130 Gleann Na Ri, Druids Valley, Cabinteely",Dublin,280000.0,No,Cabinteely,Dublin 18,q1,30%
+14/10/2013,"22 Rosedale Close, Cabinteely, Dublin 18",Dublin,106000.0,No,Cabinteely,Dublin 18,q1,10%
+15/10/2013,"Apartment 23, The Ramparts, Cabinteely",Dublin,143000.0,No,Cabinteely,Dublin 18,q1,10%
+18/10/2013,"4 Sycamore Drive, The Park, Cabinteely",Dublin,417000.0,No,Cabinteely,Dublin 18,q3,60%
+18/10/2013,"50 Auburn Road, Cabinteely, County Dublin",Dublin,442000.0,No,Cabinteely,Dublin 18,q3,60%
+29/10/2013,"10A Sycamore Close, The Park, Cabinteely",Dublin,328000.0,No,Cabinteely,Dublin 18,q2,40%
+30/10/2013,"49 St Gabriels, Cabinteely",Dublin,650000.0,No,Cabinteely,Dublin 18,q4,90%
+30/10/2013,"5 Vale View Close, The Park, Cabinteely",Dublin,520000.0,No,Cabinteely,Dublin 18,q3,80%
+31/10/2013,"114 St Gabriels, Cabinteely",Dublin,295000.0,No,Cabinteely,Dublin 18,q2,30%
+31/10/2013,"43A Granville Road, Cabinteely",Dublin,352423.0,Yes,Cabinteely,Dublin 18,q2,50%
+31/10/2013,"67 Shanganagh Vale, Cabinteely",Dublin,465000.0,No,Cabinteely,Dublin 18,q3,70%
+01/11/2013,"22 Willow Court, Druid Valley, Cabinteely",Dublin,440000.0,No,Cabinteely,Dublin 18,q3,60%
+01/11/2013,"Talblick, Lehaunstown Lane, Brennanstown Road  Cabinteely",Dublin,800000.0,No,Cabinteely,Dublin 18,q4,100%
+28/11/2013,"8 Highland Lawn, The Park, Cabinteely",Dublin,392500.0,No,Cabinteely,Dublin 18,q3,60%
+28/11/2013,"8 Sycamore Lawn, The Park, Cabinteely Dublin 18",Dublin,470000.0,No,Cabinteely,Dublin 18,q3,70%
+29/11/2013,"44 Prospect Lawn, The Park, Cabinteely",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+04/12/2013,"26 Rochfort House, Brennanstown Ave, Cabinteely Dublin 18",Dublin,355000.0,No,Cabinteely,Dublin 18,q2,50%
+04/12/2013,"46 St Gabriels, Johnstown Rd, Cabinteely Dublin 18",Dublin,650000.0,No,Cabinteely,Dublin 18,q4,90%
+06/12/2013,"24 Maple Manor, Cabinteely, Dublin 18",Dublin,453000.0,No,Cabinteely,Dublin 18,q3,70%
+10/12/2013,"59 Brennanstown Ave, Cabinteely, Dublin 18",Dublin,360000.0,No,Cabinteely,Dublin 18,q2,50%
+13/12/2013,"77 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,199000.0,No,Cabinteely,Dublin 18,q1,10%
+16/12/2013,"12 Maple Manor, Cabinteely, Dublin 18",Dublin,430000.0,No,Cabinteely,Dublin 18,q3,60%
+16/12/2013,"144 Gleann Na Ri, Druid Valley, Cabinteely",Dublin,163000.0,No,Cabinteely,Dublin 18,q1,10%
+16/12/2013,"31 Lambourne Wood, Brennanstown Rd, Cabinteely Dublin 18",Dublin,905000.0,No,Cabinteely,Dublin 18,q4,100%
+17/12/2013,"18 Cabinteely Green, Cabinteely, Dublin 18",Dublin,363000.0,No,Cabinteely,Dublin 18,q2,50%
+20/12/2013,"10B Sycamore Close, The Park, Cabinteely",Dublin,341250.0,Yes,Cabinteely,Dublin 18,q2,40%
+07/01/2014,"43 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,160000.0,No,Cabinteely,Dublin 18,q1,10%
+14/01/2014,"25 Monaloe Ave, Cabinteely, Dublin 18",Dublin,602000.0,No,Cabinteely,Dublin 18,q4,90%
+23/01/2014,"26 Cabinteely Ave, Dublin 18, Dublin",Dublin,363000.0,No,Cabinteely,Dublin 18,q2,50%
+23/01/2014,"35 The Oval, Tullyvale, Cabinteely",Dublin,160000.0,No,Cabinteely,Dublin 18,q1,10%
+30/01/2014,"119 The Oval Tullyvale, Druid Valley, Cabinteely Dublin 18",Dublin,287500.0,No,Cabinteely,Dublin 18,q2,30%
+10/02/2014,"Apt 22 Carleton House, Brennanstown Sq, Cabinteely Dublin 18",Dublin,385000.0,No,Cabinteely,Dublin 18,q2,50%
+14/02/2014,"10 Sycamore Close, Cabinteely, Dublin",Dublin,395000.0,No,Cabinteely,Dublin 18,q3,60%
+17/02/2014,"160 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,235000.0,No,Cabinteely,Dublin 18,q1,20%
+25/02/2014,"Foinavon, No 7 Beech Park, Cabinteely",Dublin,1350000.0,No,Cabinteely,Dublin 18,q4,100%
+05/03/2014,"57 Block K, The Oval, Tullyvale Cabinteely",Dublin,158000.0,No,Cabinteely,Dublin 18,q1,10%
+31/03/2014,"1 Cabinteely Crescent, Cabinteely, Dublin 18",Dublin,645000.0,No,Cabinteely,Dublin 18,q4,90%
+11/04/2014,"18 Rochfort House, Brennanstown Sq, Cabinteely Dublin 18",Dublin,260000.0,No,Cabinteely,Dublin 18,q1,20%
+06/05/2014,"70 West Courtyard, Tullyvale, Cabinteely",Dublin,220000.0,No,Cabinteely,Dublin 18,q1,20%
+09/05/2014,"129 Gleann Na Ri, Cabinteely, Dublin 18",Dublin,260000.0,No,Cabinteely,Dublin 18,q1,20%
+26/05/2014,"6 Valley View, Cabinteely",Dublin,600000.0,No,Cabinteely,Dublin 18,q4,90%
+29/05/2014,"Apt. 78 St. Gabriels, Johnstown Road, Cabinteely",Dublin,340000.0,No,Cabinteely,Dublin 18,q2,40%
+30/05/2014,"1 Marlfield, Cabinteely, Dublin 18",Dublin,495000.0,No,Cabinteely,Dublin 18,q3,70%
+04/06/2014,"63 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,610000.0,No,Cabinteely,Dublin 18,q4,90%
+06/06/2014,"51 St Gabriels, Johnstown Rd, Cabinteely",Dublin,673000.0,No,Cabinteely,Dublin 18,q4,100%
+10/06/2014,"3 Cabinteely Ave, Cabinteely, Dublin",Dublin,457000.0,No,Cabinteely,Dublin 18,q3,70%
+12/06/2014,"48 Shanganagh Vale, Cabinteely, Dublin 18",Dublin,535000.0,No,Cabinteely,Dublin 18,q3,80%
+16/06/2014,"1 Highland View, The Park, Cabinteely Dublin 18",Dublin,431000.0,No,Cabinteely,Dublin 18,q3,60%
+18/06/2014,"49 Park Dr, Cabinteely, Dublin 18",Dublin,505501.0,No,Cabinteely,Dublin 18,q3,70%
+20/06/2014,"17 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,620000.0,No,Cabinteely,Dublin 18,q4,90%
+27/06/2014,"82 The Oval, Tullyvale, Cherrywood Cabinteely",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+04/07/2014,"6 Sycamore Dr, The Park, Cabinteely Dublin 18",Dublin,467000.0,No,Cabinteely,Dublin 18,q3,70%
+11/07/2014,"Benoni, Brennanstown Rd, Cabinteely Dublin 18",Dublin,1650000.0,No,Cabinteely,Dublin 18,q4,100%
+17/07/2014,"7A Willow Court, Druid Valley, Cabinteely Dublin 18",Dublin,230000.0,No,Cabinteely,Dublin 18,q1,20%
+18/07/2014,"23 Holmwood, Brennanstown Rd, Cabinteely Dublin 18",Dublin,945000.0,No,Cabinteely,Dublin 18,q4,100%
+18/07/2014,"39 Holmwood, Brennanstown Rd, Cabinteely Dublin 18",Dublin,850000.0,No,Cabinteely,Dublin 18,q4,100%
+21/07/2014,"4A Willow Court, Druid Valley, Cabinteely Dublin 18",Dublin,222500.0,No,Cabinteely,Dublin 18,q1,20%
+25/07/2014,"34 Highland Ave, Cabinteely, Dublin 18",Dublin,440000.0,No,Cabinteely,Dublin 18,q3,60%
+07/08/2014,"37Brennanstown Square, Cabinteely, Dublin 18",Dublin,251101.0,Yes,Cabinteely,Dublin 18,q1,20%
+08/08/2014,"17 Maple Manor, Cabinteely, Dublin 18",Dublin,525000.0,No,Cabinteely,Dublin 18,q3,80%
+08/08/2014,"2 Highland Lawn, Cabinteely, Dublin 18",Dublin,452500.0,No,Cabinteely,Dublin 18,q3,70%
+14/08/2014,"Apt 63, West Courtyard, Tulllyvale  Cabinteely",Dublin,315725.0,Yes,Cabinteely,Dublin 18,q2,40%
+25/08/2014,"11 Shanganagh Vale, Cabinteely, Dublin 18",Dublin,625000.0,No,Cabinteely,Dublin 18,q4,90%
+29/08/2014,"97 West Courtyard, Tullyvale, Cabinteely",Dublin,370000.0,No,Cabinteely,Dublin 18,q2,50%
+04/09/2014,"41 Prospect Lawn, The Park, Cabinteely",Dublin,505000.0,No,Cabinteely,Dublin 18,q3,70%
+08/09/2014,"40 Glendrive, The Park, Cabinteely Dublin 18",Dublin,460000.0,No,Cabinteely,Dublin 18,q3,70%
+22/09/2014,"1 Sycamore Ave, The Park, Cabinteely Dublin 18",Dublin,460000.0,No,Cabinteely,Dublin 18,q3,70%
+23/09/2014,"24 Valeview Ave, The Park, Cabinteely Dublin 18",Dublin,570000.0,No,Cabinteely,Dublin 18,q4,80%
+24/09/2014,"4 Cabinteely Close, Cabinteely, Dublin 18",Dublin,535000.0,No,Cabinteely,Dublin 18,q3,80%
+30/09/2014,"156 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,175000.0,No,Cabinteely,Dublin 18,q1,10%
+08/10/2014,"15 Glenlawn Drive, The Park, Cabinteely",Dublin,427500.0,No,Cabinteely,Dublin 18,q3,60%
+08/10/2014,"15A Glenlawn Drive, Cabinteely, Dublin 18",Dublin,427500.0,No,Cabinteely,Dublin 18,q3,60%
+08/10/2014,"28 Vale View Lawn, The Park, Cabinteely",Dublin,475000.0,No,Cabinteely,Dublin 18,q3,70%
+08/10/2014,"4 Vale View Close, Cabinteely, Dublin 18",Dublin,595000.0,No,Cabinteely,Dublin 18,q4,90%
+09/10/2014,"1A Sycamore Dr, The Park, Cabinteely Dublin 18",Dublin,520000.0,No,Cabinteely,Dublin 18,q3,80%
+10/10/2014,"42 Holmwood, Cabinteely, Dublin 18",Dublin,880000.0,No,Cabinteely,Dublin 18,q4,100%
+16/10/2014,"5 St Gabriels, Johnstown Rd, Cabinteely Dublin 18",Dublin,750000.0,No,Cabinteely,Dublin 18,q4,100%
+17/10/2014,"10 Highland Grove, The Park, Cabinteely Dublin 18",Dublin,445000.0,No,Cabinteely,Dublin 18,q3,60%
+21/10/2014,"1 Kilbogget Villas, Main St, Cabinteely Village Dublin 18",Dublin,330000.0,No,Cabinteely,Dublin 18,q2,40%
+23/10/2014,"43 Maple Manor, Cabinteely, Dublin",Dublin,540000.0,No,Cabinteely,Dublin 18,q4,80%
+24/10/2014,"1 Hillview Dr, Pottery Rd, Cabinteely Dublin 18",Dublin,322000.0,No,Cabinteely,Dublin 18,q2,40%
+24/10/2014,"10 Park Drive, Cabinteely",Dublin,530000.0,No,Cabinteely,Dublin 18,q3,80%
+24/10/2014,"35 Park Drive, The Park, Cabinteely",Dublin,473000.0,No,Cabinteely,Dublin 18,q3,70%
+30/10/2014,"48 Granville Road, Cabinteely, Dublin 18",Dublin,595000.0,No,Cabinteely,Dublin 18,q4,90%
+07/11/2014,"32 Belville Court, Johnstown Road, Cabinteely",Dublin,228583.25,No,Cabinteely,Dublin 18,q1,20%
+07/11/2014,"34 Belville Court, Johnstown Road, Cabinteely",Dublin,177407.92,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"35 Belville Court, Johnstown Road, Cabinteely",Dublin,197878.41,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"36 Belville Court, Johnstown Road, Cabinteely",Dublin,191054.62,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"37 Belville Court, Johnstown Road, Cabinteely",Dublin,187643.17,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"38 Belville Court, Johnstown Road, Cabinteely",Dublin,194466.96,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"40 Belville Court, Johnstown Road, Cabinteely",Dublin,187643.17,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"41 Belville Court, Johnstown Road, Cabinteely",Dublin,194466.96,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"42 Belville Court, Johnstown Road, Cabinteely",Dublin,180820.26,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"43 Belville Court, Johnstown Road, Cabinteely",Dublin,153525.99,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"44 Belville Court, Johnstown Road, Cabinteely",Dublin,177407.92,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"45 Belville Court, Johnstown Road, Cabinteely",Dublin,187643.17,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"46 Belville Court, Johnstown Road, Cabinteely",Dublin,228583.25,No,Cabinteely,Dublin 18,q1,20%
+07/11/2014,"47 Belville Court, Johnstown Road, Cabinteely",Dublin,191054.62,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"48 Belville Court, Johnstown Road, Cabinteely",Dublin,143291.62,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"49 Belville Court, Johnstown Road, Cabinteely",Dublin,177407.92,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"50 Belville Court, Johnstown Road, Cabinteely",Dublin,197878.41,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"51 Belville Court, Johnstown Road, Cabinteely",Dublin,197878.41,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"52 Belville Court, Johnstown Road, Cabinteely",Dublin,146703.08,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"53 Belville Court, Johnstown Road, Cabinteely",Dublin,187643.17,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"54 Belville Court, Johnstown Road, Cabinteely",Dublin,194466.96,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"55 Belville Court, Johnstown Road, Cabinteely",Dublin,197878.41,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"56 Belville Court, Johnstown Road, Cabinteely",Dublin,150114.53,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"57 Belville Court, Johnstown Road, Cabinteely",Dublin,187643.17,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"58 Belville Court, Johnstown Road, Cabinteely",Dublin,194466.96,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"59 Belville Court, Johnstown Road, Cabinteely",Dublin,235407.04,No,Cabinteely,Dublin 18,q1,20%
+07/11/2014,"60 Belville Court, Johnstown Road, Cabinteely",Dublin,201289.86,No,Cabinteely,Dublin 18,q1,10%
+07/11/2014,"61 Belville Court, Johnstown Road, Cabinteely",Dublin,194466.96,No,Cabinteely,Dublin 18,q1,10%
+10/11/2014,"31 Brennanstown Avenue, Brennanstown, Cabinteely",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+28/11/2014,"144 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,197000.0,No,Cabinteely,Dublin 18,q1,10%
+28/11/2014,"2 Cabinteely Close, Cabinteely, Dublin 18",Dublin,565000.0,No,Cabinteely,Dublin 18,q4,80%
+04/12/2014,"156 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,265000.0,No,Cabinteely,Dublin 18,q1,30%
+11/12/2014,"5 Glen Close, The Park, Cabinteely Dublin 18",Dublin,615000.0,No,Cabinteely,Dublin 18,q4,90%
+16/12/2014,"25 Willow Court, Druid Valley, Cabinteely Dublin 18",Dublin,455000.0,No,Cabinteely,Dublin 18,q3,70%
+18/12/2014,"17 Brennanstown Ave, Cabinteely, Dublin",Dublin,280000.0,No,Cabinteely,Dublin 18,q1,30%
+19/12/2014,"11 Holmwood, Cabinteely, Dublin",Dublin,975000.0,No,Cabinteely,Dublin 18,q4,100%
+22/12/2014,"22 West Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,288539.0,No,Cabinteely,Dublin 18,q2,30%
+22/12/2014,"76 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,355000.0,No,Cabinteely,Dublin 18,q2,50%
+22/12/2014,"8 Shrewsbury Lodge, Johnstown Rd, Cabinteely Dublin 18",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+15/01/2015,"4 Valley View, Druid Valley, Cabinteely Dublin 18",Dublin,505100.0,No,Cabinteely,Dublin 18,q3,70%
+19/01/2015,"36 Brennanstown Sq, Cabinteely, Dublin 18",Dublin,291000.0,No,Cabinteely,Dublin 18,q2,30%
+21/01/2015,"31 Brennanstown Avenue, Brennanstown, Cabinteely",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+28/01/2015,"12 Marlfield House, St Gabriels, Cabinteely Dublin 18",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+30/01/2015,"58 West Court Yard, Tullycale, Cabinteely",Dublin,285000.0,No,Cabinteely,Dublin 18,q1,30%
+09/02/2015,"123 East Courtyard, Tullyvale, Cabinteely",Dublin,227000.0,No,Cabinteely,Dublin 18,q1,20%
+16/02/2015,"2 Courtlands, Cabinteely, Dublin 18",Dublin,301000.0,No,Cabinteely,Dublin 18,q2,30%
+27/02/2015,"3 Gleann Ni Ri, Druides Valley, Cabinteely",Dublin,228000.0,No,Cabinteely,Dublin 18,q1,20%
+06/03/2015,"8 Glen Close, The Park, Cabinteely",Dublin,670000.0,No,Cabinteely,Dublin 18,q4,100%
+10/03/2015,"75 St Gabriels, Johnstown Rd, Cabinteely Dublin 18",Dublin,258333.0,No,Cabinteely,Dublin 18,q1,20%
+20/03/2015,"Apt 65 The Oval, Tullyvale, Cabinteely",Dublin,310000.0,No,Cabinteely,Dublin 18,q2,40%
+23/03/2015,"1 Cabinteely Way, Monaloe Park, Cabinteely Dublin 18",Dublin,490000.0,No,Cabinteely,Dublin 18,q3,70%
+24/03/2015,"65 Block 1, St Gabriels, Cabinteely Dublin 18",Dublin,330000.0,No,Cabinteely,Dublin 18,q2,40%
+25/03/2015,"22 The Ramparts, Cabinteely, Dublin 18",Dublin,245000.0,No,Cabinteely,Dublin 18,q1,20%
+10/04/2015,"3 Brennanstown Court, Brennanstown Ave, Cabinteely Dublin 18",Dublin,216000.0,No,Cabinteely,Dublin 18,q1,20%
+15/04/2015,"7 Sycamore Lawn, The Park, Cabinteely",Dublin,545000.0,No,Cabinteely,Dublin 18,q4,80%
+17/04/2015,"39 Westcourtyard, Tullyvale, Cabinteely",Dublin,270500.0,No,Cabinteely,Dublin 18,q1,30%
+21/04/2015,"16 Vale View Close, The Park, Cabinteely Dublin 18",Dublin,490000.0,No,Cabinteely,Dublin 18,q3,70%
+22/04/2015,"5 Valley View, Druid Valley, Cabinteely Dublin 18",Dublin,445000.0,No,Cabinteely,Dublin 18,q3,60%
+30/04/2015,"Apt 6 Le Hunt House, Brennanstown, Cabinteely",Dublin,290000.0,No,Cabinteely,Dublin 18,q2,30%
+05/05/2015,"9 Carleton House, Brennanstown, Cabinteely Dublin 18",Dublin,335000.0,No,Cabinteely,Dublin 18,q2,40%
+06/05/2015,"5 Brennanstown Sq, Brennanstown, Cabinteely Dublin 18",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+29/05/2015,"43 Brennanstown Square, Cabinteely",Dublin,246696.0,Yes,Cabinteely,Dublin 18,q1,20%
+29/05/2015,"6 Holmwood, Brennanstown Rd, Cabinteely Dublin 18",Dublin,905000.0,No,Cabinteely,Dublin 18,q4,100%
+30/05/2015,"4 Willow Place, Druid Valley, Cabinteely",Dublin,472500.0,No,Cabinteely,Dublin 18,q3,70%
+05/06/2015,"115 St Gabriels, Cabinteely, Dublin",Dublin,375000.0,No,Cabinteely,Dublin 18,q2,50%
+05/06/2015,"9 Shrewsbury Lodge, Johnstown Rd, Cabinteely Dublin 18",Dublin,290000.0,No,Cabinteely,Dublin 18,q2,30%
+08/06/2015,"6 Glen Garth, The Park, Cabinteely Dublin 18",Dublin,630000.0,No,Cabinteely,Dublin 18,q4,90%
+11/06/2015,"47 Woodlands Ave, Cabinteely, Dublin 18",Dublin,535000.0,No,Cabinteely,Dublin 18,q3,80%
+17/06/2015,"3 Brennanstown Ave, Brennanstown, Cabinteely Dublin 18",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+18/06/2015,"2 Willow Place, Druidsvalley, Cabinteely",Dublin,390000.0,No,Cabinteely,Dublin 18,q3,60%
+22/06/2015,"18 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,655000.0,No,Cabinteely,Dublin 18,q4,90%
+02/07/2015,"2 Vale View Close, The Park, Cabinteely Dublin 18",Dublin,580000.0,No,Cabinteely,Dublin 18,q4,90%
+02/07/2015,"3 Rochford House, Brennanstown, Cabinteely",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+07/07/2015,"96 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,225000.0,No,Cabinteely,Dublin 18,q1,20%
+15/07/2015,"20 Granville Close, Cabinteely, Dublin",Dublin,572000.0,No,Cabinteely,Dublin 18,q4,80%
+15/07/2015,"24 East Courtyard, Tullyvale Cherrywood, Cabinteely",Dublin,202000.0,No,Cabinteely,Dublin 18,q1,10%
+21/07/2015,"105 Granville Rd, Cabinteely, Dublin",Dublin,585000.0,No,Cabinteely,Dublin 18,q4,90%
+22/07/2015,"19 Rochfort House, Brennanstown Square, Cabinteely",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+27/07/2015,"87 Gleann Na Ri, Druid Valley, Cabinteely",Dublin,225000.0,No,Cabinteely,Dublin 18,q1,20%
+31/07/2015,"2 Vale View Grove, The Park, Cabinteely",Dublin,577502.0,No,Cabinteely,Dublin 18,q4,90%
+06/08/2015,"11 Granville Road, Cabinteely",Dublin,615000.0,No,Cabinteely,Dublin 18,q4,90%
+10/08/2015,"82 Granville Road, Cabinteely, Co. Dublin",Dublin,440000.0,No,Cabinteely,Dublin 18,q3,60%
+11/08/2015,"15 Highland Lawn, The Park, Cabinteely",Dublin,712000.0,No,Cabinteely,Dublin 18,q4,100%
+25/08/2015,"27 West Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,256000.0,No,Cabinteely,Dublin 18,q1,20%
+28/08/2015,"5 Glen Ave, The Park Cabinteely, Dublin",Dublin,550000.0,No,Cabinteely,Dublin 18,q4,80%
+31/08/2015,"2 Sycamore Lawns, The Park, Cabinteely",Dublin,485000.0,No,Cabinteely,Dublin 18,q3,70%
+11/09/2015,"1 Shrewsbury Lodge, Johnstown Rd, Cabinteely",Dublin,325000.0,No,Cabinteely,Dublin 18,q2,40%
+17/09/2015,"5 Marlfield House, St Gabriels, Cabinteely Dublin 18",Dublin,370000.0,No,Cabinteely,Dublin 18,q2,50%
+24/09/2015,"11 Holmwood, Cabinteely, Dublin",Dublin,850000.0,No,Cabinteely,Dublin 18,q4,100%
+06/10/2015,"49 Cabinteely Green, Cabinteely, Dublin 18",Dublin,520000.0,No,Cabinteely,Dublin 18,q3,80%
+09/10/2015,"164 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,315000.0,No,Cabinteely,Dublin 18,q2,40%
+15/10/2015,"58 Johnstown Grove, Cabinteely",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+16/10/2015,"20 St Gabriels, Johnstown Rd, Cabinteely Dublin 18",Dublin,667000.0,No,Cabinteely,Dublin 18,q4,100%
+29/10/2015,"16 Sycamore Crescent, The Park, Cabinteely Dublin 18",Dublin,380000.0,No,Cabinteely,Dublin 18,q2,50%
+05/11/2015,"94 East Courtyard, Tullyvale, Cabinteely",Dublin,242000.0,No,Cabinteely,Dublin 18,q1,20%
+13/11/2015,"51 Holmwood, Brennanstown Rd, Cabinteely Dublin 18",Dublin,680000.0,No,Cabinteely,Dublin 18,q4,100%
+16/11/2015,"Appledore, Brennanstown Road, Cabinteely",Dublin,1750000.0,No,Cabinteely,Dublin 18,q4,100%
+25/11/2015,"30 Glen Dr, The Park, Cabinteely Dublin 18",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+25/11/2015,"80 Shanganagh Vale, Cabinteely, Dublin 18",Dublin,505000.0,No,Cabinteely,Dublin 18,q3,70%
+02/12/2015,"72 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,180000.0,No,Cabinteely,Dublin 18,q1,10%
+08/12/2015,"23 Brennanstown Ave, Cabinteely, Dublin",Dublin,293000.0,No,Cabinteely,Dublin 18,q2,30%
+14/12/2015,"84 The Oval, Tullyvale, Cabinteely",Dublin,201000.0,No,Cabinteely,Dublin 18,q1,10%
+15/12/2015,"Glen Ellen, Lehaunstown, Cabinteely",Dublin,2300000.0,No,Cabinteely,Dublin 18,q4,100%
+22/12/2015,"8 Cabinteely Way, Cabinteely, Dublin 18",Dublin,485000.0,No,Cabinteely,Dublin 18,q3,70%
+23/12/2015,"32 West Courtyard, Tullyvale, Cabinteely",Dublin,240000.0,No,Cabinteely,Dublin 18,q1,20%
+08/01/2016,"3 Glen Lawn Drive, The Park, Cabinteely",Dublin,550000.0,No,Cabinteely,Dublin 18,q4,80%
+15/01/2016,"6 Highland Lawn, The Park, Cabinteely Dublin 18",Dublin,465000.0,No,Cabinteely,Dublin 18,q3,70%
+26/01/2016,"33 St Gabriels, Cabinteely, Dublin 18",Dublin,649000.0,No,Cabinteely,Dublin 18,q4,90%
+27/01/2016,"4 Cabinteely Park, Long Meadow, Cabinteely Dublin 18",Dublin,385000.0,No,Cabinteely,Dublin 18,q2,50%
+28/01/2016,"3 Vale View Lawn, The Park, Cabinteely Dublin 18",Dublin,560000.0,No,Cabinteely,Dublin 18,q4,80%
+29/01/2016,"13A  Willow Court  Druid Valley, Cabinteely",Dublin,240000.0,No,Cabinteely,Dublin 18,q1,20%
+05/02/2016,"115 Gleann Na Ri, Druids Valley, Cabinteely",Dublin,233750.0,No,Cabinteely,Dublin 18,q1,20%
+05/02/2016,"52 Holmwood, Brennanstown Rd, Cabinteely Dublin 18",Dublin,830000.0,No,Cabinteely,Dublin 18,q4,100%
+09/02/2016,"14 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,700000.0,No,Cabinteely,Dublin 18,q4,100%
+12/02/2016,"14 Mercer House, Brennanstown, Cabinteely Dublin 18",Dublin,333000.0,No,Cabinteely,Dublin 18,q2,40%
+15/02/2016,"2 Holmwood, Brennanstown Rd, Cabinteely",Dublin,827800.0,No,Cabinteely,Dublin 18,q4,100%
+16/02/2016,"36 Park Dr, The Park, Cabinteely Dublin 18",Dublin,426000.0,No,Cabinteely,Dublin 18,q3,60%
+19/02/2016,"13 Woodlands Ave, Cabinteely, Dublin",Dublin,395000.0,No,Cabinteely,Dublin 18,q3,60%
+19/02/2016,"48 Woodlands Ave, Cabinteely, Dublin 18",Dublin,573000.0,No,Cabinteely,Dublin 18,q4,80%
+24/02/2016,"45 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,247000.0,No,Cabinteely,Dublin 18,q1,20%
+26/02/2016,"41 Cabinteeely Way, Longmeadow, Cabinteely Dublin 18",Dublin,375000.0,No,Cabinteely,Dublin 18,q2,50%
+29/02/2016,"17 Mercer House, Brennanstown Square, Cabinteely",Dublin,320000.0,No,Cabinteely,Dublin 18,q2,40%
+01/03/2016,"63 Brennanstown Avenue, Cabinteely",Dublin,298000.0,No,Cabinteely,Dublin 18,q2,30%
+04/03/2016,"45 Shanganagh Vale, Cabinteely, Dublin",Dublin,530000.0,No,Cabinteely,Dublin 18,q3,80%
+10/03/2016,"117 St Gabriels, Cabinteely, Dublin 18",Dublin,428000.0,No,Cabinteely,Dublin 18,q3,60%
+10/03/2016,"Abbey Glen, Johnstown Road, Cabinteely",Dublin,10500000.0,No,Cabinteely,Dublin 18,q4,100%
+12/03/2016,"30 Glen Dr, The Park, Cabinteely Dublin 18",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+04/04/2016,"41 Marlfield Gardens, Cabinteely, Dublin 18",Dublin,495000.0,No,Cabinteely,Dublin 18,q3,70%
+14/04/2016,"36 Glen Dr, The Park, Cabinteely Dublin 18",Dublin,462000.0,No,Cabinteely,Dublin 18,q3,70%
+19/04/2016,"71 Shanganagh Vale, Cabinteely, Dublin",Dublin,614000.0,No,Cabinteely,Dublin 18,q4,90%
+21/04/2016,"34 St Gabriels, Cabinteely, Dublin 18",Dublin,600000.0,No,Cabinteely,Dublin 18,q4,90%
+29/04/2016,"3 Sycamore Grove, The Park, Cabinteely",Dublin,482500.0,No,Cabinteely,Dublin 18,q3,70%
+06/05/2016,"18 Cabinteely Crescent, Cabinteely, Dublin",Dublin,550000.0,No,Cabinteely,Dublin 18,q4,80%
+09/05/2016,"23 Johnstown Court, Cabinteely, Dublin 18",Dublin,396000.0,No,Cabinteely,Dublin 18,q3,60%
+10/05/2016,"19 Mercer House, Brennanstown, Cabinteely Dublin 18",Dublin,301500.0,No,Cabinteely,Dublin 18,q2,40%
+10/05/2016,"4 Willow Park, Cabinteely, Dublin 18",Dublin,400000.0,No,Cabinteely,Dublin 18,q3,60%
+13/05/2016,"16 Park Dr, The Park, Cabinteely Dublin 18",Dublin,466000.0,No,Cabinteely,Dublin 18,q3,70%
+13/05/2016,"72 St Gabriels, Johnstown Rd, Cabinteely Dublin 18",Dublin,345000.0,No,Cabinteely,Dublin 18,q2,40%
+23/05/2016,"Apt 6 Brennanstown Sq, Cabinteely, Dublin 18",Dublin,492500.0,No,Cabinteely,Dublin 18,q3,70%
+27/05/2016,"St Marys, Brennanstown Rd, Cabinteely Dublin 18",Dublin,980000.0,No,Cabinteely,Dublin 18,q4,100%
+03/06/2016,"45 Lambourne Wood, Brennanstown Road, Cabinteely",Dublin,850000.0,No,Cabinteely,Dublin 18,q4,100%
+15/06/2016,"27 Cabinteely Way, Cabinteely, Dublin 18",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+17/06/2016,"Apt 67, St Gabriels, Cabinteely",Dublin,337500.0,No,Cabinteely,Dublin 18,q2,40%
+29/06/2016,"82 West Courtyard, Tullyvale, Cabinteely",Dublin,225000.0,No,Cabinteely,Dublin 18,q1,20%
+04/07/2016,"32 Highland Ave, The Park, Cabinteely Dublin 18",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,60%
+05/07/2016,"30 Vale View Lawn, The Park, Cabinteely Dublin 18",Dublin,540000.0,No,Cabinteely,Dublin 18,q4,80%
+08/07/2016,"4 Cabinteely Way, Cabinteely, Dublin 18",Dublin,505000.0,No,Cabinteely,Dublin 18,q3,70%
+11/07/2016,"91 St Gabriels, Cabinteely, Dublin",Dublin,435000.0,No,Cabinteely,Dublin 18,q3,60%
+21/07/2016,"26 Highland Lawn, The Park, Cabinteely Dublin 18",Dublin,455000.0,No,Cabinteely,Dublin 18,q3,70%
+22/07/2016,"2 Valley Close, Druid Valley, Cabinteely Dublin 18",Dublin,575000.0,No,Cabinteely,Dublin 18,q4,80%
+29/07/2016,"31 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,745000.0,No,Cabinteely,Dublin 18,q4,100%
+03/08/2016,"14 Eastcourtyard, Tullyvale, Cabinteely Dublin 8",Dublin,236000.0,No,Cabinteely,Dublin 18,q1,20%
+03/08/2016,"5 Gleann Na Ri, Valley Ave, Cabinteely",Dublin,249500.0,No,Cabinteely,Dublin 18,q1,20%
+09/08/2016,"25 Glen Dr, The Park, Cabinteely Dublin 18",Dublin,410000.0,No,Cabinteely,Dublin 18,q3,60%
+09/08/2016,"6 Glen Close, The Park, Cabinteely Dublin 18",Dublin,650000.0,No,Cabinteely,Dublin 18,q4,90%
+10/08/2016,"12 Willow Court, Druid Valley, Cabinteely Dublin 18",Dublin,405000.0,No,Cabinteely,Dublin 18,q3,60%
+16/08/2016,"44 Valeview Ave, The Park, Cabinteely Dublin 18",Dublin,567500.0,No,Cabinteely,Dublin 18,q4,80%
+19/08/2016,"2 Valley Ave, Druid Valley, Cabinteely Dublin 18",Dublin,435000.0,No,Cabinteely,Dublin 18,q3,60%
+25/08/2016,"34 Glen Dr, The Park, Cabinteely",Dublin,531000.0,No,Cabinteely,Dublin 18,q3,80%
+31/08/2016,"10 Cabinteely Ave, Cabinteely, Dublin 18",Dublin,475000.0,No,Cabinteely,Dublin 18,q3,70%
+02/09/2016,"128 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,220000.0,No,Cabinteely,Dublin 18,q1,20%
+05/09/2016,"24 Mercer House Brennanstown, Cabinteely Dublin 18, Dublin",Dublin,440000.0,No,Cabinteely,Dublin 18,q3,60%
+09/09/2016,"15 Vale View Ave, The Park, Cabinteely Dublin 18",Dublin,580000.0,No,Cabinteely,Dublin 18,q4,90%
+22/09/2016,"55 Cabinteely Ave, Cabinteely, Dublin 18",Dublin,516000.0,No,Cabinteely,Dublin 18,q3,80%
+23/09/2016,"29 Prospect Lawn, The Park, Cabinteely Dublin 18",Dublin,460000.0,No,Cabinteely,Dublin 18,q3,70%
+03/10/2016,"18A Cabinteely Green, Cabinteely, Dublin 18",Dublin,430000.0,No,Cabinteely,Dublin 18,q3,60%
+07/10/2016,"37 Brennanstown Sq, Brennanstown, Cabinteely Dublin 18",Dublin,310000.0,No,Cabinteely,Dublin 18,q2,40%
+07/10/2016,"70 Glenn Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,337500.0,No,Cabinteely,Dublin 18,q2,40%
+11/10/2016,"2 Cabinteely Ave, Cabinteely, Dublin 18",Dublin,470000.0,No,Cabinteely,Dublin 18,q3,70%
+13/10/2016,"5 Valley Close, Druid Valley, Cabinteely Dublin 18",Dublin,520000.0,No,Cabinteely,Dublin 18,q3,80%
+14/10/2016,"1 Sycamore Ave, The Park, Cabinteely Dublin 18",Dublin,465000.0,No,Cabinteely,Dublin 18,q3,70%
+21/10/2016,"12 Sycamore Crescent, The Park, Cabinteely Dublin 18",Dublin,470000.0,No,Cabinteely,Dublin 18,q3,70%
+03/11/2016,"15 Brennanstown Sq, Brennanstown, Cabinteely Dublin 18",Dublin,330000.0,No,Cabinteely,Dublin 18,q2,40%
+11/11/2016,"97 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,250000.0,No,Cabinteely,Dublin 18,q1,20%
+15/11/2016,"83 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,331000.0,No,Cabinteely,Dublin 18,q2,40%
+17/11/2016,"118 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,837599.0,No,Cabinteely,Dublin 18,q4,100%
+17/11/2016,"3 Valley Walk, Druid Valley, Cabinteely Dublin 18",Dublin,610000.0,No,Cabinteely,Dublin 18,q4,90%
+21/11/2016,"11 East Courtyard, Tullyvale, Cabinteely",Dublin,281000.0,No,Cabinteely,Dublin 18,q1,30%
+22/11/2016,"11 Sycamore Lawn, The Park, Cabinteely Dublin 18",Dublin,553000.0,No,Cabinteely,Dublin 18,q4,80%
+25/11/2016,"12 Le Hunt House, Brennanstown, Cabinteely Village",Dublin,234000.0,No,Cabinteely,Dublin 18,q1,20%
+25/11/2016,"St Annes, 6 Shrewsbury Lawn, Cabinteely Dublin 18",Dublin,705000.0,No,Cabinteely,Dublin 18,q4,100%
+02/12/2016,"4 Willow Crescent, Druid Valley, Cabinteely Dublin 18",Dublin,486000.0,No,Cabinteely,Dublin 18,q3,70%
+02/12/2016,"50 Lambourne Wood, Cabinteely, Dublin 18",Dublin,950000.0,No,Cabinteely,Dublin 18,q4,100%
+05/12/2016,"18 Glen Ave, The Park, Cabinteely Dublin 18",Dublin,550000.0,No,Cabinteely,Dublin 18,q4,80%
+05/01/2017,"89 Gleann Na Ri, Valley Ave, Cabinteely Dublin 18",Dublin,243000.0,No,Cabinteely,Dublin 18,q1,20%
+20/01/2017,"115 East Courtyard, Tullyvale, Cabinteely",Dublin,350000.0,No,Cabinteely,Dublin 18,q2,50%
+20/01/2017,"137 The Oval, Tullyvale, Cabinteely",Dublin,320000.0,No,Cabinteely,Dublin 18,q2,40%
+20/01/2017,"8 The Oval, Tullyvale, Cabinteely",Dublin,290000.0,No,Cabinteely,Dublin 18,q2,30%
+30/01/2017,"4 Willow Place, Cabinteely, Dublin 18",Dublin,427000.0,No,Cabinteely,Dublin 18,q3,60%
+31/01/2017,"51A Park Dr, The Park, Cabinteely Dublin 18",Dublin,535000.0,No,Cabinteely,Dublin 18,q4,80%
+01/02/2017,"Willow Lodge, Monaloe Ave, Cabinteely",Dublin,575000.0,No,Cabinteely,Dublin 18,q4,80%
+02/02/2017,"5 Willow Place, Druids Valley, Cabinteely",Dublin,595000.0,Yes,Cabinteely,Dublin 18,q4,90%
+10/02/2017,"45 Granville Rd, Cabinteely, Dublin",Dublin,545000.0,No,Cabinteely,Dublin 18,q4,80%
+20/02/2017,"33 Lambourne Wood, Cabinteely, Dublin 18",Dublin,870000.0,No,Cabinteely,Dublin 18,q4,100%
+02/03/2017,"7 Rochfort House, Brennanstown, Cabinteely Dublin 18",Dublin,320000.0,No,Cabinteely,Dublin 18,q2,40%
+02/03/2017,"7 Sycamore Green, The Park, Cabinteely Dublin 18",Dublin,550000.0,No,Cabinteely,Dublin 18,q4,80%
+03/03/2017,"66 St Gabriels, Johnstown Rd, Cabinteely",Dublin,345000.0,No,Cabinteely,Dublin 18,q2,40%
+03/03/2017,"8 Highland Lawn, The Park, Cabinteely",Dublin,480000.0,No,Cabinteely,Dublin 18,q3,70%
+15/03/2017,"28 East Courtyard, Tullyvale, Cabinteely",Dublin,310000.0,No,Cabinteely,Dublin 18,q2,40%
+21/03/2017,"Apt 7 Eastcourtyard, Tullyvale, Cabinteely Dublin 18",Dublin,250000.0,No,Cabinteely,Dublin 18,q1,20%
+22/03/2017,"10 Lambourne Wood, Brennanstown Rd, Cabinteely Dublin 18",Dublin,1280000.0,No,Cabinteely,Dublin 18,q4,100%
+27/03/2017,"64 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,330000.0,No,Cabinteely,Dublin 18,q2,40%
+12/04/2017,"13 Prospect Lawn, The Park, Cabinteely",Dublin,525000.0,No,Cabinteely,Dublin 18,q3,80%
+13/04/2017,"12 Shanganagh Vale, Cabinteely, Dublin 18",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,70%
+28/04/2017,"3 Longmeadow Grove, Off Pottery Rd, Cabinteely Dublin 18",Dublin,377500.0,No,Cabinteely,Dublin 18,q2,50%
+08/05/2017,"9 Brennanstown Sq, Brennanstown, Cabinteely Dublin 18",Dublin,410000.0,Yes,Cabinteely,Dublin 18,q3,60%
+10/05/2017,"23A Willow Court, Druids Valley, Cabinteely Dublin 18",Dublin,207000.0,No,Cabinteely,Dublin 18,q1,10%
+12/05/2017,"3 Courtlands, Cabinteely, Dublin 18",Dublin,345000.0,No,Cabinteely,Dublin 18,q2,50%
+16/05/2017,"69 Holmwood, Brennanstown Rd, Cabinteely Dublin 18",Dublin,790000.0,No,Cabinteely,Dublin 18,q4,100%
+18/05/2017,"14 The Ramparts, Cabinteely, Ramparts Dublin 18",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+22/05/2017,"92 East Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,371000.0,No,Cabinteely,Dublin 18,q2,50%
+25/05/2017,"18 Woodlands Rd, Cabinteely, Dublin 18",Dublin,467000.0,No,Cabinteely,Dublin 18,q3,70%
+02/06/2017,"33 Glen Dr, The Park, Cabinteely Dublin 18",Dublin,545000.0,No,Cabinteely,Dublin 18,q4,80%
+08/06/2017,"33 Granville Road, Cabinteely, Dublin 18",Dublin,590000.0,No,Cabinteely,Dublin 18,q4,90%
+13/06/2017,"14 Cornelscourt, Hill Road, Cabinteely",Dublin,585000.0,No,Cabinteely,Dublin 18,q4,90%
+22/06/2017,"Apt 15 Garrison Mews, The Ramparts, Cabinteely Dublin 18",Dublin,257000.0,No,Cabinteely,Dublin 18,q1,20%
+23/06/2017,"108 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,775000.0,No,Cabinteely,Dublin 18,q4,100%
+23/06/2017,"Apt 1 West Courtyard, Tullyvale, Cabinteely",Dublin,328000.0,No,Cabinteely,Dublin 18,q2,40%
+28/06/2017,"90 East Court Yard, Tullyvale, Cabinteely Dublin 18",Dublin,277110.0,No,Cabinteely,Dublin 18,q1,30%
+30/06/2017,"9 Johnstown Court, Cabinteely, Dublin 18",Dublin,435000.0,No,Cabinteely,Dublin 18,q3,60%
+04/07/2017,"7 Brennanstown Sq, Brennanstown, Cabinteely Dublin 18",Dublin,370000.0,No,Cabinteely,Dublin 18,q2,50%
+10/07/2017,"19 Sycamore Close, The Park Cabinteely, Dublin 18",Dublin,642555.0,No,Cabinteely,Dublin 18,q4,90%
+10/07/2017,"25 Cabinteely Way, Cabinteely, Dublin 18",Dublin,595000.0,No,Cabinteely,Dublin 18,q4,90%
+14/07/2017,"13 Cabinteely Park, Cabinteely, Dublin 18",Dublin,555000.0,No,Cabinteely,Dublin 18,q4,80%
+19/07/2017,"126 Gleann Na Ri, Cabinteely, Dublin 18",Dublin,260500.0,No,Cabinteely,Dublin 18,q1,20%
+19/07/2017,"9 Courtlands, Cabinteely, Dublin 18",Dublin,325000.0,No,Cabinteely,Dublin 18,q2,40%
+25/07/2017,"2 West Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,268000.0,No,Cabinteely,Dublin 18,q1,30%
+27/07/2017,"8 Easctourtyard, Tullyvale, Cabinteely Dublin 18",Dublin,225000.0,No,Cabinteely,Dublin 18,q1,20%
+28/07/2017,"36 Glen Lawn Dr, The Park, Cabinteely",Dublin,660000.0,No,Cabinteely,Dublin 18,q4,90%
+03/08/2017,"Apt 64 West Courtyard, Tullyvale, Cabinteely",Dublin,276000.0,No,Cabinteely,Dublin 18,q1,30%
+04/08/2017,"7 Brennanstown Ave, Cabinteely, Dublin 18",Dublin,330000.0,No,Cabinteely,Dublin 18,q2,40%
+18/08/2017,"94 The Oval Tullyvale, Cabinteely, Dublin 18",Dublin,240000.0,No,Cabinteely,Dublin 18,q1,20%
+25/08/2017,"14 Cabinteely Close, Cabinteely, Dublin 18",Dublin,560000.0,No,Cabinteely,Dublin 18,q4,80%
+30/08/2017,"15 Maple Manor, Cabinteely, Dublin",Dublin,590000.0,No,Cabinteely,Dublin 18,q4,90%
+31/08/2017,"19 Sycamore Crescent, The Park, Cabinteely Dublin 18",Dublin,550000.0,No,Cabinteely,Dublin 18,q4,80%
+01/09/2017,"161 The Oval, Tullyvale, Cabinteely",Dublin,280000.0,No,Cabinteely,Dublin 18,q1,30%
+01/09/2017,"23 Rochfort House, Brennanstown, Cabinteely",Dublin,465000.0,No,Cabinteely,Dublin 18,q3,70%
+01/09/2017,"61 Brennanstown Ave, Brennanstown, Cabinteely Dublin 18",Dublin,492000.0,No,Cabinteely,Dublin 18,q3,70%
+01/09/2017,"8 Shanganagh Vale, Cabinteely, Dublin 18",Dublin,625000.0,No,Cabinteely,Dublin 18,q4,90%
+04/09/2017,"17 Carleton House, Brennanstown, Cabinteely",Dublin,373000.0,No,Cabinteely,Dublin 18,q2,50%
+06/09/2017,"64 Holmwood, Cabinteely, Dublin 18",Dublin,842500.0,No,Cabinteely,Dublin 18,q4,100%
+13/09/2017,"18 Rochfort House, Brennanstown Sq, Cabinteely Dublin 18",Dublin,340000.0,No,Cabinteely,Dublin 18,q2,40%
+19/09/2017,"17A Willow Court, Cabinteely, Dublin 18",Dublin,250000.0,No,Cabinteely,Dublin 18,q1,20%
+19/09/2017,"18 St Gabriels, Johnstown Rd, Cabinteely Dublin 18",Dublin,795000.0,No,Cabinteely,Dublin 18,q4,100%
+26/09/2017,"3 Vale View Lawn, The Park, Cabinteely Dublin 18",Dublin,356500.0,No,Cabinteely,Dublin 18,q2,50%
+02/10/2017,"37 Cabinteely Way, Cabinteely, Dublin 18",Dublin,484500.0,No,Cabinteely,Dublin 18,q3,70%
+13/10/2017,"8 Belville Court, Johnstown Rd, Cabinteely",Dublin,253000.0,No,Cabinteely,Dublin 18,q1,20%
+27/10/2017,"12 Marlfield House, St Gabriels, Cabinteely Dublin 18",Dublin,480000.0,No,Cabinteely,Dublin 18,q3,70%
+27/10/2017,"5 Vale View Ave, The Park, Cabinteely Dublin 18",Dublin,517500.0,No,Cabinteely,Dublin 18,q3,80%
+31/10/2017,"16 Prospect Lawn, The Park, Cabinteely",Dublin,262500.0,No,Cabinteely,Dublin 18,q1,30%
+01/11/2017,"34 Garrison Mews, Cabinteely, Dublin 18",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+02/11/2017,"41 Holmwood, Cabinteely, Dublin 18",Dublin,850000.0,No,Cabinteely,Dublin 18,q4,100%
+03/11/2017,"22 Mercer House, Brennanstown, Cabinteely Dublin 18",Dublin,510000.0,No,Cabinteely,Dublin 18,q3,70%
+07/11/2017,"101 The Ramparts, Cabinteely, Dublin 18",Dublin,316000.0,No,Cabinteely,Dublin 18,q2,40%
+07/11/2017,"2 Le Hunt, Brennanstown Apts, Cabinteely",Dublin,324000.0,No,Cabinteely,Dublin 18,q2,40%
+13/11/2017,"1 Highland Grove, The Park, Cabinteely",Dublin,515000.0,No,Cabinteely,Dublin 18,q3,80%
+13/11/2017,"11 Brennanstown Sq, Cabinteely, Dublin 18",Dublin,529000.0,No,Cabinteely,Dublin 18,q3,80%
+22/11/2017,"36 Prospect Lawn, The Park, Cabinteely",Dublin,475000.0,No,Cabinteely,Dublin 18,q3,70%
+23/11/2017,"22 Brennanstown Sq, Cabinteely, Dublin",Dublin,530000.0,No,Cabinteely,Dublin 18,q3,80%
+23/11/2017,"Apt 106 East Court Yard, Tullyvale, Cabinteely Dublin 18",Dublin,475000.0,No,Cabinteely,Dublin 18,q3,70%
+24/11/2017,"10A Cabinteely Way, Cabinteely, Dublin 18",Dublin,655000.0,No,Cabinteely,Dublin 18,q4,90%
+27/11/2017,"112 St Gabriels, Johnstown Rd, Cabinteely Dublin 18",Dublin,370000.0,No,Cabinteely,Dublin 18,q2,50%
+08/12/2017,"16 Le Hunt House, Brennanstown, Cabinteely Dublin 18",Dublin,336000.0,No,Cabinteely,Dublin 18,q2,40%
+13/12/2017,"46 St Gabriels, Johnstown Rd, Cabinteely Dublin 18",Dublin,680000.0,No,Cabinteely,Dublin 18,q4,100%
+15/12/2017,"11A Willow Court, Cabinteely, Dublin 18",Dublin,258000.0,No,Cabinteely,Dublin 18,q1,20%
+15/12/2017,"34 Shanganagh Vale, Cabinteely, Dublin 18",Dublin,591888.0,No,Cabinteely,Dublin 18,q4,90%
+19/12/2017,"58 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,228000.0,No,Cabinteely,Dublin 18,q1,20%
+20/12/2017,"33 Highland Ave, The Park, Cabinteely",Dublin,500000.0,No,Cabinteely,Dublin 18,q3,70%
+20/12/2017,"4 Mercer House, Brennanstown Sq, Cabinteely Dublin 18",Dublin,376250.0,No,Cabinteely,Dublin 18,q2,50%
+20/12/2017,"49 Brennanstown Ave, Cabinteely, Dublin 18",Dublin,367000.0,No,Cabinteely,Dublin 18,q2,50%
+21/12/2017,"32 Glen Dr, The Park, Cabinteely Dublin 18",Dublin,528000.0,No,Cabinteely,Dublin 18,q3,80%
+12/01/2018,"10 Highland Grove, The Park, Cabinteely Dublin 18",Dublin,520000.0,No,Cabinteely,Dublin 18,q3,80%
+16/01/2018,"35 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,264000.0,No,Cabinteely,Dublin 18,q1,30%
+26/01/2018,"43 Garrison Mews, The Ramparts, Cabinteely Dublin 18",Dublin,232000.0,No,Cabinteely,Dublin 18,q1,20%
+31/01/2018,"129 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,225000.0,No,Cabinteely,Dublin 18,q1,20%
+31/01/2018,"49 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,252000.0,No,Cabinteely,Dublin 18,q1,20%
+05/02/2018,"21 Marlfield, Cabinteely, Dublin 18",Dublin,660000.0,No,Cabinteely,Dublin 18,q4,100%
+07/02/2018,"50 Cabinteely Ave, Cabinteely, Dublin 18",Dublin,525000.0,No,Cabinteely,Dublin 18,q3,80%
+07/02/2018,"61 West Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,352500.0,No,Cabinteely,Dublin 18,q2,50%
+09/02/2018,"4 St Gabriels, Cabinteely, Dublin 18",Dublin,755000.0,No,Cabinteely,Dublin 18,q4,100%
+12/02/2018,"24 Cabinteely Crescent, Dublin 18, Dublin",Dublin,630000.0,No,Cabinteely,Dublin 18,q4,90%
+13/02/2018,"4 Park Dr, The Park, Cabinteely Dublin 18",Dublin,625000.0,No,Cabinteely,Dublin 18,q4,90%
+14/02/2018,"23 East Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,305000.0,No,Cabinteely,Dublin 18,q2,40%
+16/02/2018,"Apt 22, East Courtyard, Tullyvale Cabinteely Dublin 18",Dublin,440000.0,No,Cabinteely,Dublin 18,q3,60%
+19/02/2018,"1 Brennanstown Court, Cabinteely, Dublin",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+23/02/2018,"99 St Gabriels, Johnstown Rd, Cabinteely",Dublin,725000.0,No,Cabinteely,Dublin 18,q4,100%
+06/03/2018,"31 Garrison Mews, The Ramparts, Cabinteely Dublin 18",Dublin,306000.0,No,Cabinteely,Dublin 18,q2,40%
+07/03/2018,"10 Le Hunt House, Brennanstown, Cabinteely Dublin 18",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+27/03/2018,"13 Killart, Cabinteely, Dublin 18",Dublin,656387.66,Yes,Cabinteely,Dublin 18,q4,90%
+16/04/2018,"14 Killart, Clonkeen Road, Cabinteely",Dublin,656387.66,Yes,Cabinteely,Dublin 18,q4,90%
+24/04/2018,"12 Killart, Clonkeen Road, Cabinteely",Dublin,682819.0,Yes,Cabinteely,Dublin 18,q4,100%
+25/04/2018,"28 Cabinteely Way, Cabinteely, Dublin 18",Dublin,615000.0,No,Cabinteely,Dublin 18,q4,90%
+26/04/2018,"13A Willow Court, Druids Valley, Cabinteely",Dublin,275000.0,No,Cabinteely,Dublin 18,q1,30%
+26/04/2018,"15 Killart, Clonkeen Road, Cabinteely",Dublin,656387.66,Yes,Cabinteely,Dublin 18,q4,90%
+27/04/2018,"1 Killart, Clonkeen Road, Cabinteely",Dublin,612334.0,Yes,Cabinteely,Dublin 18,q4,90%
+04/05/2018,"24 Valeview Ave, The Park, Cabinteely Dublin 18",Dublin,570000.0,No,Cabinteely,Dublin 18,q4,80%
+09/05/2018,"162 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,350000.0,No,Cabinteely,Dublin 18,q2,50%
+10/05/2018,"26 Shanganagh Vale, Cabinteely, Dublin 18",Dublin,675000.0,No,Cabinteely,Dublin 18,q4,100%
+14/05/2018,"21 Vale View Lawn, The Park, Cabinteely",Dublin,635000.0,No,Cabinteely,Dublin 18,q4,90%
+15/05/2018,"4  Belville  Court, Johnstown  Rd, Cabinteely",Dublin,330000.0,No,Cabinteely,Dublin 18,q2,40%
+15/05/2018,"81 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,675000.0,No,Cabinteely,Dublin 18,q4,100%
+18/05/2018,"11 The Oval, Tullyvale, Cabinteely",Dublin,375000.0,No,Cabinteely,Dublin 18,q2,50%
+18/05/2018,"110 Gleann Na Ri, Druids Valley, Cabinteely Dublin 18",Dublin,270000.0,No,Cabinteely,Dublin 18,q1,30%
+28/05/2018,"7 Cabinteely Village, Cabinteely, Dublin",Dublin,575000.0,No,Cabinteely,Dublin 18,q4,80%
+31/05/2018,"8 Highland View, The Park, Cabinteely Dublin 18",Dublin,595000.0,No,Cabinteely,Dublin 18,q4,90%
+08/06/2018,"7 Glen Dr The Park, Cabinteely, Dublin 18",Dublin,800000.0,No,Cabinteely,Dublin 18,q4,100%
+13/06/2018,"5 Highland Lawn, The Park, Cabinteely Dublin 18",Dublin,540000.0,No,Cabinteely,Dublin 18,q4,80%
+21/06/2018,"60 St Gabriels, Johnstown Rd, Cabinteely Dublin 18",Dublin,650000.0,No,Cabinteely,Dublin 18,q4,90%
+27/06/2018,"6 Valley Close, Druid Valley, Cabinteely Dublin 18",Dublin,575000.0,No,Cabinteely,Dublin 18,q4,90%
+28/06/2018,"123 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,325000.0,No,Cabinteely,Dublin 18,q2,40%
+28/06/2018,"31 Vale View Ave, The Park, Cabinteely Dublin 18",Dublin,725000.0,No,Cabinteely,Dublin 18,q4,100%
+29/06/2018,"6 Vale View Close, The Park, Cabinteely Dublin 18",Dublin,665000.0,No,Cabinteely,Dublin 18,q4,100%
+02/07/2018,"25 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,285000.0,No,Cabinteely,Dublin 18,q1,30%
+05/07/2018,"2 Killart, Clonkeen Road, Cabinteely",Dublin,572686.0,Yes,Cabinteely,Dublin 18,q4,80%
+11/07/2018,"28 Holmwood, Brennanstown Rd, Cabinteely",Dublin,945000.0,No,Cabinteely,Dublin 18,q4,100%
+12/07/2018,"Apt 116, St Gabriels, Cabinteely Dublin 18",Dublin,347000.0,No,Cabinteely,Dublin 18,q2,50%
+15/07/2018,"53 St Gabriels, Cabinteely, Dublin 18",Dublin,1050000.0,No,Cabinteely,Dublin 18,q4,100%
+16/07/2018,"16 West Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,355000.0,No,Cabinteely,Dublin 18,q2,50%
+16/07/2018,"71 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,870000.0,No,Cabinteely,Dublin 18,q4,100%
+18/07/2018,"14 Willow Court, Druid Valley, Cabinteely Dublin 18",Dublin,490000.0,No,Cabinteely,Dublin 18,q3,70%
+19/07/2018,"8 Cabinteely Wood, Cabinteely, Dublin 18",Dublin,610000.0,No,Cabinteely,Dublin 18,q4,90%
+27/07/2018,"11 Brennanstown Court, Brennanstown Avenue, Cabinteely",Dublin,236000.0,No,Cabinteely,Dublin 18,q1,20%
+27/07/2018,"125 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,230000.0,No,Cabinteely,Dublin 18,q1,20%
+02/08/2018,"52 Maple Manor, Cabinteely, Dublin 18",Dublin,485000.0,No,Cabinteely,Dublin 18,q3,70%
+15/08/2018,"51 The Oval, Tullyvale, Cabinteely",Dublin,275000.0,No,Cabinteely,Dublin 18,q1,30%
+23/08/2018,"36 Glen Lawn Dr, The Park, Cabinteely",Dublin,670000.0,No,Cabinteely,Dublin 18,q4,100%
+24/08/2018,"64 Granville Rd, Cabinteely, Dublin 18",Dublin,550000.0,No,Cabinteely,Dublin 18,q4,80%
+30/08/2018,"22 Shrewsbury Wood, Cabinteely, Dublin 18",Dublin,830000.0,No,Cabinteely,Dublin 18,q4,100%
+31/08/2018,"33 Brennanstown Ave, Brennanstown, Cabinteely",Dublin,383000.0,No,Cabinteely,Dublin 18,q2,50%
+31/08/2018,"6 Brennanstown Court, Cabinteely, Dublin 18",Dublin,260000.0,No,Cabinteely,Dublin 18,q1,20%
+31/08/2018,"80 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,775000.0,No,Cabinteely,Dublin 18,q4,100%
+04/09/2018,"9 St Gabriels, Johnstown Rd, Cabinteely Dublin 18",Dublin,780000.0,No,Cabinteely,Dublin 18,q4,100%
+06/09/2018,"16 Highland Ave, The Park, Cabinteely Dublin 18",Dublin,680000.0,No,Cabinteely,Dublin 18,q4,100%
+14/09/2018,"40 Glen Lawn Dr, The Park, Cabinteely Dublin 18",Dublin,646000.0,No,Cabinteely,Dublin 18,q4,90%
+20/09/2018,"114 St Gabriels, Cabinteely, Dublin 18",Dublin,485000.0,No,Cabinteely,Dublin 18,q3,70%
+21/09/2018,"116 East Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,480000.0,No,Cabinteely,Dublin 18,q3,70%
+25/09/2018,"5 Courtlands, Johnstown Rd, Cabinteely Dublin 18",Dublin,415000.0,No,Cabinteely,Dublin 18,q3,60%
+28/09/2018,"12 Cabinteely Crescent, Cabinteely, Dublin 18",Dublin,660000.0,No,Cabinteely,Dublin 18,q4,100%
+01/10/2018,"26 Prospect Lawn, The Park, Cabinteely",Dublin,520000.0,No,Cabinteely,Dublin 18,q3,80%
+02/10/2018,"122 The Oval, Tullyvale, Cabinteely",Dublin,260000.0,No,Cabinteely,Dublin 18,q1,20%
+08/10/2018,"50 St Gabriels, Cabinteely, Dublin 18",Dublin,850000.0,No,Cabinteely,Dublin 18,q4,100%
+12/10/2018,"1 Willow Park, Druid Valley, Cabinteely",Dublin,470000.0,No,Cabinteely,Dublin 18,q3,70%
+15/10/2018,"5 Killart, Clonkeen Road, Cabinteely",Dublin,643172.0,Yes,Cabinteely,Dublin 18,q4,90%
+19/10/2018,"30 West Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,302000.0,No,Cabinteely,Dublin 18,q2,40%
+23/10/2018,"4 Killart, Clonkeen Road, Cabinteely",Dublin,647576.0,Yes,Cabinteely,Dublin 18,q4,90%
+26/10/2018,"13 Cabinteely Crescent, Cabinteely, Dublin 16",Dublin,545000.0,No,Cabinteely,Dublin 18,q4,80%
+26/10/2018,"82 West Courtyard, Tullyvale, Cabinteely",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+02/11/2018,"22 Prospect Lawn, The Park, Cabinteely Dublin 18",Dublin,520000.0,No,Cabinteely,Dublin 18,q3,80%
+06/11/2018,"105 Oval Apt, Tullyvale, Cabinteely Dublin 18",Dublin,325000.0,No,Cabinteely,Dublin 18,q2,40%
+09/11/2018,"60 The Ramparts, Cabinteely, Ramparts Dublin 18",Dublin,285000.0,No,Cabinteely,Dublin 18,q2,30%
+12/11/2018,"44 West Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,295000.0,No,Cabinteely,Dublin 18,q2,30%
+20/11/2018,"65 Cabinteely Green, Cabinteely, Dublin 18",Dublin,565000.0,No,Cabinteely,Dublin 18,q4,80%
+22/11/2018,"14 Marlfield House, St Gabriels, Cabinteely",Dublin,435000.0,No,Cabinteely,Dublin 18,q3,60%
+26/11/2018,"Marlfield Gardens, Cabinteely, Dublin 18",Dublin,610000.0,No,Cabinteely,Dublin 18,q4,90%
+28/11/2018,"Abbey Glen, Off Pottery Rd, Cabinteely",Dublin,14800000.0,No,Cabinteely,Dublin 18,q4,100%
+30/11/2018,"13 Sycamore Close, The Park, Cabinteely Dublin 18",Dublin,530000.0,No,Cabinteely,Dublin 18,q3,80%
+07/12/2018,"13 Shanganagh Vale, Cabinteely, Dublin 18",Dublin,615000.0,No,Cabinteely,Dublin 18,q4,90%
+13/12/2018,"5 Rochfort House, Brennanstown, Cabinteely",Dublin,382000.0,No,Cabinteely,Dublin 18,q2,50%
+14/12/2018,"7 Willow Court, Druid Valley, Cabinteely Dublin 18",Dublin,525000.0,No,Cabinteely,Dublin 18,q3,80%
+17/12/2018,"18A Willow Court, Druid Valley, Cabinteely Dublin 18",Dublin,280000.0,No,Cabinteely,Dublin 18,q1,30%
+18/12/2018,"33 Gleann Na Ri, Cabinteely, Dublin 18",Dublin,303000.0,No,Cabinteely,Dublin 18,q2,40%
+19/12/2018,"43 Prospect Lawn, The Park, Cabinteely Dublin 18",Dublin,555000.0,No,Cabinteely,Dublin 18,q4,80%
+20/12/2018,"11 Cabinteely Crescent, Cabinteely, Dublin 18",Dublin,535000.0,No,Cabinteely,Dublin 18,q4,80%
+20/12/2018,"20 Carleton House, Brennanstown Sq, Cabinteely Dublin 18",Dublin,350000.0,No,Cabinteely,Dublin 18,q2,50%
+20/12/2018,"48 West Courtyard, Tullyvale, Cabinteely",Dublin,282000.0,No,Cabinteely,Dublin 18,q1,30%
+20/12/2018,"67 West Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,315000.0,No,Cabinteely,Dublin 18,q2,40%
+21/12/2018,"3 Willow Park, Druid Valley, Cabinteely",Dublin,465000.0,No,Cabinteely,Dublin 18,q3,70%
+21/12/2018,"5 Cabinteely Ave, Cabinteely, Dublin 18",Dublin,510000.0,No,Cabinteely,Dublin 18,q3,70%
+21/12/2018,"98 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,280000.0,No,Cabinteely,Dublin 18,q1,30%
+16/01/2019,"48 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,628000.0,No,Cabinteely,Dublin 18,q4,90%
+23/01/2019,"12 Le Hunt House, Brennanstown, Cabinteely Village",Dublin,285000.0,No,Cabinteely,Dublin 18,q2,30%
+25/01/2019,"15 Willow Court, Druid Valley, Cabinteely",Dublin,515000.0,No,Cabinteely,Dublin 18,q3,80%
+25/01/2019,"2 Sycamore Grove, The Park, Cabinteely Dublin 18",Dublin,620000.0,No,Cabinteely,Dublin 18,q4,90%
+28/01/2019,"53 The Ramparts, Cabinteely, Ramparts Dublin 18",Dublin,285000.0,No,Cabinteely,Dublin 18,q2,30%
+31/01/2019,"6 Cabinteely Close, Cabinteely, Dublin 18",Dublin,600000.0,No,Cabinteely,Dublin 18,q4,90%
+04/02/2019,"26 Lambourne Wood, Brennanstown Rd, Cabinteely Dublin 18",Dublin,950000.0,No,Cabinteely,Dublin 18,q4,100%
+13/02/2019,"10 Glen Ave, The Park, Cabinteely Dublin 18",Dublin,650000.0,No,Cabinteely,Dublin 18,q4,90%
+22/02/2019,"15 Hillview Lawns, Pottery Rd, Cabinteely",Dublin,380000.0,No,Cabinteely,Dublin 18,q2,50%
+26/02/2019,"94 St Gabriels, Cabinteely, Dublin 18",Dublin,515000.0,No,Cabinteely,Dublin 18,q3,80%
+15/03/2019,"1 Park Drive, Cabinteely, Dublin 18",Dublin,615000.0,No,Cabinteely,Dublin 18,q4,90%
+05/04/2019,"4 Highland View, The Park, Cabinteely Dublin 18",Dublin,222000.0,No,Cabinteely,Dublin 18,q1,20%
+12/04/2019,"117 East Courtyard, Tullyvale, Cabinteely",Dublin,375000.0,No,Cabinteely,Dublin 18,q2,50%
+12/04/2019,"75 Shanganagh Vale, Cabinteely, Dublin 18",Dublin,650000.0,No,Cabinteely,Dublin 18,q4,90%
+15/04/2019,"2 Vale View Grove, The Park, Cabinteely Dublin 18",Dublin,615000.0,No,Cabinteely,Dublin 18,q4,90%
+25/04/2019,"9 Killart, Clonkeen Road, Cabinteely",Dublin,607929.52,Yes,Cabinteely,Dublin 18,q4,90%
+26/04/2019,"Apt 59 West Courtyard, Tullyvale, Cabinteely",Dublin,306500.0,No,Cabinteely,Dublin 18,q2,40%
+30/04/2019,"6 Killart, Clonkeen Road, Cabinteely",Dublin,590308.0,Yes,Cabinteely,Dublin 18,q4,90%
+30/04/2019,"9 Killart, Clonkeen Road, Cabinteely",Dublin,607929.52,Yes,Cabinteely,Dublin 18,q4,90%
+03/05/2019,"5 Glen Grove, The Park, Cabinteely",Dublin,760000.0,No,Cabinteely,Dublin 18,q4,100%
+08/05/2019,"1 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,220000.0,No,Cabinteely,Dublin 18,q1,20%
+15/05/2019,"153 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,370000.0,No,Cabinteely,Dublin 18,q2,50%
+17/05/2019,"9 Carraig Bui, Johnstown Road, Cabinteely",Dublin,700440.53,Yes,Cabinteely,Dublin 18,q4,100%
+20/05/2019,"11 Sycamore Close, The Park, Cabinteely Dublin 18",Dublin,800000.0,No,Cabinteely,Dublin 18,q4,100%
+29/05/2019,"7 Killart, Clonkeen Road, Cabinteely",Dublin,600300.0,Yes,Cabinteely,Dublin 18,q4,90%
+31/05/2019,"28 Glen Lawn Dr, The Park, Cabinteely",Dublin,685000.0,No,Cabinteely,Dublin 18,q4,100%
+31/05/2019,"7 Highland Grove, The Park, Cabinteely Dublin 18",Dublin,552500.0,No,Cabinteely,Dublin 18,q4,80%
+07/06/2019,"10 Killart, Clonkeen Road, Cabinteely",Dublin,631137.0,Yes,Cabinteely,Dublin 18,q4,90%
+13/06/2019,"135 Oval, Tullyvale, Cabinteely Dublin 18",Dublin,325000.0,No,Cabinteely,Dublin 18,q2,40%
+19/06/2019,"10 Carriag Bui, Johnstown Road, Cabinteely",Dublin,656387.66,Yes,Cabinteely,Dublin 18,q4,90%
+20/06/2019,"11 Rochfort House, Brennanstown Sq, Cabinteely Dublin 18",Dublin,370000.0,No,Cabinteely,Dublin 18,q2,50%
+20/06/2019,"17 Le Hunt House, Brennanstown, Cabinteely",Dublin,370000.0,No,Cabinteely,Dublin 18,q2,50%
+20/06/2019,"55 Maple Manor, Cabinteely, Dublin 18",Dublin,502500.0,No,Cabinteely,Dublin 18,q3,70%
+01/07/2019,"155 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,330000.0,No,Cabinteely,Dublin 18,q2,40%
+01/07/2019,"166 Gleann Na Ri, Druids Valley, Cabinteely Dublin 18",Dublin,365000.0,No,Cabinteely,Dublin 18,q2,50%
+09/07/2019,"103 St Gabriels, Cabinteely, Dublin 18",Dublin,340000.0,No,Cabinteely,Dublin 18,q2,40%
+10/07/2019,"37 Highland Ave, The Park, Cabinteely Dublin 18",Dublin,525000.0,No,Cabinteely,Dublin 18,q3,80%
+10/07/2019,"52 Gleann Na Ri, Druid Valley, Cabinteely Dublin 18",Dublin,380000.0,No,Cabinteely,Dublin 18,q2,50%
+10/07/2019,"8 Prospect Lawn, The Park, Cabinteely Dublin 18",Dublin,545000.0,No,Cabinteely,Dublin 18,q4,80%
+12/07/2019,"64 Maple Manor, Cabinteely, Dublin 18",Dublin,515000.0,No,Cabinteely,Dublin 18,q3,80%
+15/07/2019,"88 Shanganagh Vale, Cabinteely, Dublin 18",Dublin,665000.0,No,Cabinteely,Dublin 18,q4,100%
+16/07/2019,"11 Park Dr, The Park, Cabinteely Dublin 18",Dublin,507500.0,No,Cabinteely,Dublin 18,q3,70%
+17/07/2019,"8 Killart, Clonkeen Road, Cabinteely",Dublin,607929.52,Yes,Cabinteely,Dublin 18,q4,90%
+18/07/2019,"29 Auburn Rd, Cabinteely, Dublin",Dublin,510000.0,No,Cabinteely,Dublin 18,q3,70%
+19/07/2019,"16 Killart, Clonkeen Road, Cabinteely",Dublin,660792.95,Yes,Cabinteely,Dublin 18,q4,100%
+19/07/2019,"39 Maple Manor, Johnstown Rd, Cabinteely Dublin 18",Dublin,521000.0,No,Cabinteely,Dublin 18,q3,80%
+25/07/2019,"60 Cabinteely Ave, Cabinteely, Dublin 18",Dublin,515000.0,No,Cabinteely,Dublin 18,q3,80%
+26/07/2019,"18 Brennanstown Court, Brennanstown, Cabinteely Dublin 18",Dublin,323000.0,No,Cabinteely,Dublin 18,q2,40%
+26/07/2019,"39 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,265000.0,No,Cabinteely,Dublin 18,q1,30%
+01/08/2019,"32  34-61  Belville Court, Johnstown Rd, Cabinteely Dublin 18",Dublin,10394000.0,No,Cabinteely,Dublin 18,q4,100%
+02/08/2019,"22 Lehunt House, Brennanstown, Cabinteely Dublin 18",Dublin,353000.0,No,Cabinteely,Dublin 18,q2,50%
+12/08/2019,"8 Highland Ave, Cabinteely, Dublin 18",Dublin,477500.0,No,Cabinteely,Dublin 18,q3,70%
+19/08/2019,"56 Gleann Na Ri, Cherrywood, Cabinteely",Dublin,334000.0,No,Cabinteely,Dublin 18,q2,40%
+26/08/2019,"20 Carleton House, Brennanstown Sq, Cabinteely Dublin 18",Dublin,350000.0,No,Cabinteely,Dublin 18,q2,50%
+26/08/2019,"93 Shrewsbury Lawn, Cabinteely, Dublin 18",Dublin,767500.0,No,Cabinteely,Dublin 18,q4,100%
+29/08/2019,"11 Beckett Hall, Carrickmines Wood, Brennans Town Road Cabinteely",Dublin,450000.0,No,Cabinteely,Dublin 18,q3,70%
+30/08/2019,"21 Brennanstown Court, Cabinteely, Dublin 18",Dublin,250000.0,No,Cabinteely,Dublin 18,q1,20%
+02/09/2019,"5 Longmeadow Grove, Cabinteely, Dublin",Dublin,206000.0,No,Cabinteely,Dublin 18,q1,10%
+04/09/2019,"103 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,225000.0,Yes,Cabinteely,Dublin 18,q1,20%
+05/09/2019,"49 Brennanstown Sq, Brennanstown, Cabinteely Dublin 18",Dublin,360000.0,No,Cabinteely,Dublin 18,q2,50%
+11/09/2019,"36 Park Dr, The Park, Cabinteely Dublin 18",Dublin,565000.0,No,Cabinteely,Dublin 18,q4,80%
+13/09/2019,"15 Park Drive, The Park, Cabinteely Dublin 18",Dublin,530000.0,No,Cabinteely,Dublin 18,q3,80%
+16/09/2019,"Apt 86     St Gabriels, Johnstown Road, Cabinteely",Dublin,85000.0,No,Cabinteely,Dublin 18,q1,10%
+03/10/2019,"2 Vale View Close, The Park, Cabinteely Dublin 18",Dublin,687000.0,No,Cabinteely,Dublin 18,q4,100%
+08/10/2019,"2 Little Meadows, Pottery Rd, Cabinteely Dublin 18",Dublin,410000.0,No,Cabinteely,Dublin 18,q3,60%
+09/10/2019,"55 West Courtyard, Tullyvale, Cabinteely Dublin 18",Dublin,300000.0,No,Cabinteely,Dublin 18,q2,30%
+21/10/2019,"40 Prospect Lawn, The Park, Cabinteely",Dublin,515000.0,No,Cabinteely,Dublin 18,q3,80%
+22/10/2019,"126 The Oval, Tullyvale, Cabinteely Dublin 18",Dublin,265000.0,No,Cabinteely,Dublin 18,q1,30%

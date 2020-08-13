@@ -1,0 +1,284 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+22/01/2010,"20A Auburn Street, Phibsboro",Dublin,190000.0,No,Phibsboro,Dublin 7,q1,30%
+05/02/2010,"4 Connaught Street, Phibsboro",Dublin,392000.0,No,Phibsboro,Dublin 7,q4,80%
+19/03/2010,"27 Norfolk Road, Phibsboro",Dublin,300000.0,No,Phibsboro,Dublin 7,q3,60%
+31/03/2010,"8 Avondale Road, Phibsboro",Dublin,216500.0,No,Phibsboro,Dublin 7,q2,40%
+23/04/2010,"18 Saint Benedict'S Gardens, Phibsboro, Dublin 7",Dublin,248000.0,No,Phibsboro,Dublin 7,q2,50%
+30/04/2010,"22 Fontenoy Street, Phibsboro",Dublin,280000.0,No,Phibsboro,Dublin 7,q3,60%
+27/05/2010,"2 Great Western Villas, Phibsboro",Dublin,195000.0,No,Phibsboro,Dublin 7,q1,30%
+18/06/2010,"134 Connaught Street, Phibsboro, Dublin 7",Dublin,330000.0,No,Phibsboro,Dublin 7,q3,70%
+01/07/2010,"5 Leo Street, North Circular Road, Phibsboro",Dublin,290000.0,No,Phibsboro,Dublin 7,q3,60%
+12/07/2010,"151 New Cabra Road, Phibsboro, Dublin 7",Dublin,474500.0,No,Phibsboro,Dublin 7,q4,90%
+15/07/2010,"10 Norfolk Road, Phibsboro, Dublin 7",Dublin,370000.0,No,Phibsboro,Dublin 7,q3,80%
+02/08/2010,"49 Shandon Mill, Phibsboro, Dublin 7",Dublin,145000.0,No,Phibsboro,Dublin 7,q1,10%
+05/08/2010,"148 Phibsboro Road, Phibsboro",Dublin,125000.0,No,Phibsboro,Dublin 7,q1,10%
+28/09/2010,"12 Connaught Street, Phibsboro, Dublin 7",Dublin,275000.0,No,Phibsboro,Dublin 7,q3,60%
+04/10/2010,"17 Innisfallen Parade, Phibsboro, Dublin 7",Dublin,305000.0,No,Phibsboro,Dublin 7,q3,60%
+22/10/2010,"65 Norfolk Road, Phibsboro",Dublin,232000.0,No,Phibsboro,Dublin 7,q2,40%
+29/10/2010,"42 Norfolk Road, Phibsboro, Dublin 7",Dublin,360000.0,No,Phibsboro,Dublin 7,q3,80%
+07/12/2010,"45 Norfolk Road, Phibsboro",Dublin,415000.0,No,Phibsboro,Dublin 7,q4,90%
+15/12/2010,"5 Royse Rd, Phibsboro",Dublin,350000.0,No,Phibsboro,Dublin 7,q3,70%
+17/12/2010,"10 Shandon Green, Phibsboro",Dublin,250000.0,No,Phibsboro,Dublin 7,q2,50%
+27/01/2011,"2 Rosemount Road, Phibsboro",Dublin,205000.0,No,Phibsboro,Dublin 7,q2,30%
+11/02/2011,"225 Phibsboro Road, Dublin 7",Dublin,260000.0,No,Phibsboro,Dublin 7,q2,50%
+11/03/2011,"16 Geraldine Street, Phibsboro, Dublin 7",Dublin,215000.0,No,Phibsboro,Dublin 7,q2,40%
+20/04/2011,"17 Royse Road, Phibsboro",Dublin,290000.0,No,Phibsboro,Dublin 7,q3,60%
+27/04/2011,"5 Ignatius Avenue, Phibsboro, Dublin 7",Dublin,155000.0,No,Phibsboro,Dublin 7,q1,20%
+16/09/2011,"26 Shandon Road, Phibsboro, Dublin 7",Dublin,266500.0,No,Phibsboro,Dublin 7,q2,50%
+23/09/2011,"24 Shandon Road, Phibsboro, Dublin 7",Dublin,365000.0,No,Phibsboro,Dublin 7,q3,80%
+05/10/2011,"29 Berkeley Road, Phibsboro",Dublin,160000.0,No,Phibsboro,Dublin 7,q1,20%
+05/10/2011,"49 Dakota Court, Phibsboro",Dublin,145000.0,No,Phibsboro,Dublin 7,q1,10%
+28/10/2011,"312 North Circular Road, Phibsboro",Dublin,205000.0,No,Phibsboro,Dublin 7,q2,30%
+01/11/2011,"142 Connaught Street, Phibsboro, Dublin",Dublin,300000.0,No,Phibsboro,Dublin 7,q3,60%
+04/11/2011,"107 Phibsboro Road, Phibsboro",Dublin,160000.0,No,Phibsboro,Dublin 7,q1,20%
+08/11/2011,"60 Cabra Park, Phibsboro, Dublin 7",Dublin,162000.0,No,Phibsboro,Dublin 7,q1,20%
+08/12/2011,"31 Shandon Park, Phibsboro, Dublin",Dublin,300000.0,No,Phibsboro,Dublin 7,q3,60%
+16/12/2011,"24  Shandon Crescent, Phibsboro",Dublin,230000.0,No,Phibsboro,Dublin 7,q2,40%
+30/01/2012,"47 Innisfallen Parade, Phibsboro, Dublin 7",Dublin,270000.0,No,Phibsboro,Dublin 7,q2,50%
+30/01/2012,"94 Phibsboro Road, Phibsboro, Dublin7",Dublin,160000.0,No,Phibsboro,Dublin 7,q1,20%
+16/02/2012,"27 Berkeley Road, Phibsboro, Dublin 7",Dublin,170000.0,No,Phibsboro,Dublin 7,q1,20%
+15/03/2012,"22  Avondale Avenue, Phibsboro",Dublin,92000.0,No,Phibsboro,Dublin 7,q1,10%
+23/03/2012,"74 Shandon Park, Phibsboro, Dublin 7",Dublin,260000.0,No,Phibsboro,Dublin 7,q2,50%
+12/04/2012,"189A Phililsburgh Avenue, Phibsboro, Dublin 3",Dublin,250000.0,No,Phibsboro,Dublin 7,q2,50%
+20/04/2012,"11 Munster Street, Phibsboro, Dublin 7",Dublin,130000.0,No,Phibsboro,Dublin 7,q1,10%
+24/04/2012,"1  St. Peter'S Square, Phibsboro",Dublin,102500.0,No,Phibsboro,Dublin 7,q1,10%
+27/04/2012,"86 St Ignatious Road, Phibsboro",Dublin,120000.0,No,Phibsboro,Dublin 7,q1,10%
+27/04/2012,"Apartment 1, 13 Monck Place, Phibsboro",Dublin,75000.0,No,Phibsboro,Dublin 7,q1,10%
+01/05/2012,"33  Shandon Road, Phibsboro, Dublin 7",Dublin,177000.0,No,Phibsboro,Dublin 7,q1,20%
+11/05/2012,"139 North Circular Road, Phibsboro, Dublin 7",Dublin,355000.0,No,Phibsboro,Dublin 7,q3,80%
+16/05/2012,"14 Spireview, Phibsboro",Dublin,215000.0,No,Phibsboro,Dublin 7,q2,40%
+08/06/2012,"35 Shandon Road, Phibsboro, Dublin 7",Dublin,220000.0,No,Phibsboro,Dublin 7,q2,40%
+11/06/2012,"31 Royal Canal Bank, Phibsboro",Dublin,150000.0,No,Phibsboro,Dublin 7,q1,20%
+24/07/2012,"28 Great Western Square, Phibsboro",Dublin,210000.0,No,Phibsboro,Dublin 7,q2,40%
+27/07/2012,"37 Charleville Road, Phibsboro",Dublin,415000.0,No,Phibsboro,Dublin 7,q4,90%
+03/08/2012,"34 Munster Street, Phibsboro",Dublin,207500.0,No,Phibsboro,Dublin 7,q2,30%
+09/08/2012,"82 Shandon Park, Phibsboro",Dublin,220000.0,No,Phibsboro,Dublin 7,q2,40%
+06/09/2012,"91 Phibsboro Road, Phibsboro",Dublin,220000.0,No,Phibsboro,Dublin 7,q2,40%
+10/09/2012,"308 North Circular Road, Phibsboro, Dublin 7",Dublin,150000.0,No,Phibsboro,Dublin 7,q1,20%
+10/09/2012,"54 Geraldine Street, Phibsboro, Dublin 7",Dublin,150000.0,No,Phibsboro,Dublin 7,q1,20%
+10/09/2012,"79 Connought, Streeet, Phibsboro",Dublin,190000.0,No,Phibsboro,Dublin 7,q1,30%
+11/09/2012,"56 Shandon Drive, Phibsboro",Dublin,250000.0,No,Phibsboro,Dublin 7,q2,50%
+18/09/2012,"16 St Peter'S Road, Phibsboro",Dublin,170000.0,No,Phibsboro,Dublin 7,q1,20%
+16/10/2012,"1 Shandon Park, Phibsboro",Dublin,273000.0,No,Phibsboro,Dublin 7,q3,60%
+19/11/2012,"4 Rathdown  Square, Phibsboro, Dublin  7",Dublin,165000.0,No,Phibsboro,Dublin 7,q1,20%
+26/11/2012,"93 Phibsboro Road, Dublin 7",Dublin,215000.0,No,Phibsboro,Dublin 7,q2,40%
+27/11/2012,"23 Brekeley Road, Phibsboro",Dublin,195000.0,No,Phibsboro,Dublin 7,q1,30%
+29/11/2012,"36 Goldsmith Street, Phibsboro, Dublin 7",Dublin,170000.0,No,Phibsboro,Dublin 7,q1,20%
+12/12/2012,"448 North Circular Road, Phibsboro",Dublin,340000.0,No,Phibsboro,Dublin 7,q3,70%
+17/12/2012,"14 Rathdown Road, Phibsboro",Dublin,480000.0,No,Phibsboro,Dublin 7,q4,90%
+20/12/2012,"43 Geraldine Street, Phibsboro, Dublin 7",Dublin,152500.0,No,Phibsboro,Dublin 7,q1,20%
+20/12/2012,"6 Shandon Green, Phibsboro, Dublin",Dublin,215000.0,No,Phibsboro,Dublin 7,q2,40%
+21/12/2012,"18 Shandon Gardens, Phibsboro",Dublin,342500.0,No,Phibsboro,Dublin 7,q3,70%
+21/12/2012,"30 Munster Street, Phibsboro'",Dublin,242000.0,No,Phibsboro,Dublin 7,q2,50%
+24/01/2013,"1 St. Peter'S Road, Phibsboro",Dublin,195000.0,No,Phibsboro,Dublin 7,q1,30%
+13/02/2013,"34 Shandon Park, Phibsboro, Dublin 7",Dublin,275000.0,No,Phibsboro,Dublin 7,q3,60%
+04/03/2013,"2 Killarney Parade, Phibsboro",Dublin,275000.0,No,Phibsboro,Dublin 7,q3,60%
+20/03/2013,"31 Shandon Drive, Phibsboro, Dublin 7",Dublin,298000.0,No,Phibsboro,Dublin 7,q3,60%
+26/04/2013,"10 Broadstone Avenue, Phibsboro",Dublin,106000.0,No,Phibsboro,Dublin 7,q1,10%
+30/04/2013,"29 Munster Street, Phibsboro",Dublin,283000.0,No,Phibsboro,Dublin 7,q3,60%
+16/05/2013,"36 Charleville Road, Phibsboro, Dublin 7",Dublin,370000.0,No,Phibsboro,Dublin 7,q3,80%
+21/06/2013,"40 New Cabra Road, Phibsboro",Dublin,249000.0,No,Phibsboro,Dublin 7,q2,50%
+24/07/2013,"50 Norfolk Road, Phibsboro",Dublin,142000.0,No,Phibsboro,Dublin 7,q1,10%
+21/08/2013,"6 Sarsfield Street, Phibsboro",Dublin,320000.0,No,Phibsboro,Dublin 7,q3,70%
+23/08/2013,"33 Phibsboro Road, Phibsboro",Dublin,162000.0,No,Phibsboro,Dublin 7,q1,20%
+29/08/2013,"171 Phibsboro Road, Phibsboro",Dublin,59400.0,No,Phibsboro,Dublin 7,q1,10%
+02/09/2013,"1 Ulster Street, Phibsboro",Dublin,310000.0,No,Phibsboro,Dublin 7,q3,70%
+04/09/2013,"308 North Circular Road, Phibsboro, Dublin 7",Dublin,150000.0,No,Phibsboro,Dublin 7,q1,20%
+05/09/2013,"1 Broadstone Avenue, Phibsboro",Dublin,125000.0,No,Phibsboro,Dublin 7,q1,10%
+06/09/2013,"42 Royal Canal, Phibsboro",Dublin,237000.0,No,Phibsboro,Dublin 7,q2,50%
+12/09/2013,"287 North Circular Road, Phibsboro, Dublin 7",Dublin,455000.0,No,Phibsboro,Dublin 7,q4,90%
+13/09/2013,"4 Norfolk Road, Phibsboro",Dublin,195000.0,No,Phibsboro,Dublin 7,q1,30%
+20/09/2013,"62 Shandon Park, Phibsboro, Dublin 7",Dublin,340000.0,No,Phibsboro,Dublin 7,q3,70%
+07/10/2013,"171 Phibsboro Road, Phibsboro",Dublin,59400.0,No,Phibsboro,Dublin 7,q1,10%
+10/10/2013,"37 Rathdown Road, Phibsboro",Dublin,495000.0,No,Phibsboro,Dublin 7,q4,100%
+10/10/2013,"61 Norfolk Road, Phibsboro, Dublin",Dublin,200000.0,No,Phibsboro,Dublin 7,q2,30%
+11/10/2013,"31 Royal Canal Bank, Phibsboro",Dublin,296500.0,No,Phibsboro,Dublin 7,q3,60%
+16/10/2013,"10 Georges Wharf, Royal Canal Bank, Phibsboro",Dublin,197000.0,No,Phibsboro,Dublin 7,q1,30%
+31/10/2013,"29 St Peters Road, Phibsboro",Dublin,180000.0,No,Phibsboro,Dublin 7,q1,30%
+07/11/2013,"24 Great Western Square, Phibsboro",Dublin,262000.0,No,Phibsboro,Dublin 7,q2,50%
+07/11/2013,"54 Geraldine Street, Phibsboro, Dublin 7",Dublin,310000.0,No,Phibsboro,Dublin 7,q3,70%
+13/11/2013,"32 Phibsboro Road, Phibsboro",Dublin,65000.0,No,Phibsboro,Dublin 7,q1,10%
+14/11/2013,"34 Berkeley Road, Phibsboro",Dublin,100000.0,No,Phibsboro,Dublin 7,q1,10%
+15/11/2013,"40 Rathdown Road, Phibsboro",Dublin,526668.0,No,Phibsboro,Dublin 7,q4,100%
+28/11/2013,"5 Avondale Ave, Phibsboro, Dublin 7",Dublin,216000.0,No,Phibsboro,Dublin 7,q2,40%
+13/12/2013,"18 Great Western Villas, Phibsboro, Dublin 7",Dublin,186000.0,No,Phibsboro,Dublin 7,q1,30%
+16/12/2013,"28 Berkeley Road, Phibsboro, Dublin 7",Dublin,155000.0,No,Phibsboro,Dublin 7,q1,20%
+16/12/2013,"Apt 2, 382 North Circular Road, Phibsboro",Dublin,96000.0,No,Phibsboro,Dublin 7,q1,10%
+10/01/2014,"379 North Circular Rd, Phibsboro, Dublin 7",Dublin,151000.0,No,Phibsboro,Dublin 7,q1,20%
+12/02/2014,"1 Enniskerry Rd, Phibsboro, Dublin 7",Dublin,370000.0,No,Phibsboro,Dublin 7,q3,80%
+14/04/2014,"24 New Cabra, Phibsboro",Dublin,200000.0,No,Phibsboro,Dublin 7,q2,30%
+16/04/2014,"241 New Cabra Road, Phibsboro, Dublin 7",Dublin,395000.0,No,Phibsboro,Dublin 7,q4,80%
+16/05/2014,"47 Cabra Park, Phibsboro, Dublin 7",Dublin,165000.0,No,Phibsboro,Dublin 7,q1,20%
+21/05/2014,"21 North Circular Road, Phibsboro, Dublin 7",Dublin,372500.0,No,Phibsboro,Dublin 7,q3,80%
+21/05/2014,"23 North Circular Road, Phibsboro, Dublin 7",Dublin,372500.0,No,Phibsboro,Dublin 7,q4,80%
+22/05/2014,"19 Geraldine St, Phibsboro, Dublin",Dublin,228500.0,No,Phibsboro,Dublin 7,q2,40%
+26/05/2014,"46A Innisfallen Parade, Phibsboro",Dublin,210000.0,No,Phibsboro,Dublin 7,q2,40%
+29/05/2014,"5 Villa Bank, Royal Canal, Phibsboro",Dublin,195000.0,No,Phibsboro,Dublin 7,q1,30%
+30/05/2014,"32 Goldsmith Street, Phibsboro, Dublin 1",Dublin,394000.0,No,Phibsboro,Dublin 7,q4,80%
+02/07/2014,"89/89A Phibsboro Rd, Phibsboro, Dublin 7",Dublin,200000.0,No,Phibsboro,Dublin 7,q2,30%
+15/07/2014,"32 Phibsboro Road, Phibsboro, Dublin 7",Dublin,70000.0,No,Phibsboro,Dublin 7,q1,10%
+24/07/2014,"44 Royal Canal Bank, Phibsboro, Dublin 7",Dublin,195000.0,No,Phibsboro,Dublin 7,q1,30%
+29/07/2014,"39 The Mill, Crossguns Quay, Phibsboro",Dublin,125000.0,No,Phibsboro,Dublin 7,q1,10%
+05/08/2014,"16 St Ignatius Avenue, Phibsboro",Dublin,155500.0,No,Phibsboro,Dublin 7,q1,20%
+15/08/2014,"2 Coke Ovens Cottages, Royal Canal Way, Phibsboro",Dublin,235000.0,No,Phibsboro,Dublin 7,q2,50%
+02/09/2014,"52 Shandon Park, Phibsboro, Dublin 7",Dublin,458000.0,No,Phibsboro,Dublin 7,q4,90%
+03/09/2014,"1 St Laurence Place, Fontenoy St, Phibsboro",Dublin,175000.0,No,Phibsboro,Dublin 7,q1,20%
+09/09/2014,"84 Cabra Park, Phibsboro, Dublin 7",Dublin,374000.0,No,Phibsboro,Dublin 7,q4,80%
+12/09/2014,"243 Phibsboro Road, Phibsboro, Dublin 7",Dublin,232000.0,No,Phibsboro,Dublin 7,q2,40%
+25/09/2014,"8 Broadstone Ave, Phibsboro, Dublin 7",Dublin,135000.0,No,Phibsboro,Dublin 7,q1,10%
+14/10/2014,"50 Norfolk Rd, Phibsboro, Dublin 7",Dublin,483000.0,No,Phibsboro,Dublin 7,q4,90%
+29/10/2014,"74 North Circular Rd, Phibsboro, Dublin 7",Dublin,190000.0,No,Phibsboro,Dublin 7,q1,30%
+10/11/2014,"1 Dalymount, Phibsboro, Dublin 7",Dublin,418000.0,No,Phibsboro,Dublin 7,q4,90%
+21/11/2014,"95 Connaught St, Phibsboro, Dublin 6W",Dublin,525000.0,No,Phibsboro,Dublin 7,q4,100%
+27/11/2014,"Broadstone Hall, Phibsboro",Dublin,425000.0,No,Phibsboro,Dublin 7,q4,90%
+16/12/2014,"61 The Mill, Cross Guns Bridge, Phibsboro",Dublin,127500.0,No,Phibsboro,Dublin 7,q1,10%
+19/12/2014,"7 Goldsmith St, Phibsboro, Dublin 7",Dublin,335000.0,No,Phibsboro,Dublin 7,q3,70%
+23/12/2014,"4 Kllarney Parade, Phibsboro",Dublin,240000.0,No,Phibsboro,Dublin 7,q2,50%
+23/12/2014,"51 Glengarriff Parade, Phibsboro",Dublin,240000.0,No,Phibsboro,Dublin 7,q2,50%
+12/01/2015,"52 Innisfallen Parade, Phibsboro, Dublin 7",Dublin,242500.0,No,Phibsboro,Dublin 7,q2,50%
+23/01/2015,"35 Cabra Park, Phibsboro",Dublin,375000.0,No,Phibsboro,Dublin 7,q4,80%
+10/03/2015,"189 A Phibsboro Road, Phibsboro, Dublin 7",Dublin,102600.0,No,Phibsboro,Dublin 7,q1,10%
+10/03/2015,"47 Phibsboro Road, Phibsboro, Dublin 7",Dublin,94500.0,No,Phibsboro,Dublin 7,q1,10%
+10/03/2015,"Unit 2, 180 Phibsboro Road, Phibsboro",Dublin,94500.0,No,Phibsboro,Dublin 7,q1,10%
+13/03/2015,"26 Broadstone Ave, Phibsboro, Dublin 7",Dublin,130000.0,No,Phibsboro,Dublin 7,q1,10%
+25/03/2015,"18 St Ignatius Rd, Phibsboro Dublin 7, Dublin",Dublin,367500.0,No,Phibsboro,Dublin 7,q3,80%
+25/03/2015,"Combined Plastering, 25 A Rathdown Rd, Phibsboro Dublin 7",Dublin,545000.0,No,Phibsboro,Dublin 7,q4,100%
+29/04/2015,"8 Broadstone Ave, Phibsboro, Dublin 7",Dublin,205000.0,No,Phibsboro,Dublin 7,q2,30%
+13/05/2015,"5 Kings Inn Court, Phibsboro, Dublin 7",Dublin,172000.0,No,Phibsboro,Dublin 7,q1,20%
+15/05/2015,"46 Leinster St North, Phibsboro, Dublin 7",Dublin,325000.0,No,Phibsboro,Dublin 7,q3,70%
+15/05/2015,"63 St Ignaitus Rd, Phibsboro, Dublin",Dublin,221000.0,No,Phibsboro,Dublin 7,q2,40%
+21/05/2015,"12 Glengarriff Parade, Phibsboro, Dublin 7",Dublin,318000.0,No,Phibsboro,Dublin 7,q3,70%
+21/05/2015,"30 Shandon Crescent, Phibsboro, Dublin 7",Dublin,310000.0,No,Phibsboro,Dublin 7,q3,70%
+29/05/2015,"Grove Mews, Rear Of 8-12 Monk Place, Phibsboro",Dublin,1350000.0,No,Phibsboro,Dublin 7,q4,100%
+02/06/2015,"5 Great Western Villas, Phibsboro, Dublin 7",Dublin,220000.0,No,Phibsboro,Dublin 7,q2,40%
+04/06/2015,"63 Annamoe Rd, Phibsboro, Dublin 7",Dublin,490000.0,No,Phibsboro,Dublin 7,q4,100%
+09/06/2015,"40 North Circular Road, Phibsboro, Dublin 7",Dublin,517000.0,No,Phibsboro,Dublin 7,q4,100%
+30/07/2015,"118 Connaught Street, Phibsboro, Dublin 7",Dublin,350000.0,No,Phibsboro,Dublin 7,q3,70%
+28/08/2015,"1 Fontenoy Street, Phibsboro, Dublin 7",Dublin,306000.0,No,Phibsboro,Dublin 7,q3,70%
+14/09/2015,"38 Shandon Mill, Phibsboro, Dublin 7",Dublin,235000.0,No,Phibsboro,Dublin 7,q2,50%
+12/10/2015,"1 Shandon Drive, Phibsboro",Dublin,475000.0,No,Phibsboro,Dublin 7,q4,90%
+05/11/2015,"26 Phibsboro Road, Phibsboro, Dublin 7",Dublin,300000.0,No,Phibsboro,Dublin 7,q3,60%
+11/11/2015,"66 St Josephs Place, Dorset St Upper, Phibsboro Dublin 7",Dublin,229000.0,No,Phibsboro,Dublin 7,q2,40%
+18/12/2015,"3 Leslie Court, Off Monch Place, Phibsboro Dublin 7",Dublin,295000.0,No,Phibsboro,Dublin 7,q3,60%
+22/12/2015,"8 Dalymount Avenue, Phibsboro",Dublin,465000.0,No,Phibsboro,Dublin 7,q4,90%
+22/01/2016,"20 Rosemount Road, Phibsboro, Dublin 7",Dublin,335000.0,No,Phibsboro,Dublin 7,q3,70%
+28/01/2016,"13 Phibsboro, Dublin",Dublin,199000.0,No,Phibsboro,Dublin 7,q2,30%
+28/01/2016,"17 Arranmore Avenue, Phibsboro, Dublin 7",Dublin,300000.0,No,Phibsboro,Dublin 7,q3,60%
+29/01/2016,"100 Connaught St, Phibsboro, Dublin 7",Dublin,160000.0,No,Phibsboro,Dublin 7,q1,20%
+08/02/2016,"5 Glengariff Parade, Phibsboro, Dublin 5",Dublin,275000.0,No,Phibsboro,Dublin 7,q3,60%
+23/02/2016,"36 Glengariff Parade, Phibsboro, Dublin 7",Dublin,305000.0,No,Phibsboro,Dublin 7,q3,60%
+08/03/2016,"12 Phibsboro Ave, Phibsboro, Dublin 7",Dublin,220000.0,No,Phibsboro,Dublin 7,q2,40%
+08/04/2016,"Apt 1, 13 Phibsboro, Phibsboro Dublin 7",Dublin,258657.0,No,Phibsboro,Dublin 7,q2,50%
+08/04/2016,"Apt 2, 13 Phibsboro, Phibsboro Dublin 7",Dublin,305313.0,No,Phibsboro,Dublin 7,q3,70%
+08/04/2016,"Apt 3, 13 Phibsboro, Phibsboro Dublin 7",Dublin,238982.0,No,Phibsboro,Dublin 7,q2,50%
+08/04/2016,"Apt 4, 13 Phibsboro, Phibsboro Dublin 7",Dublin,242917.0,No,Phibsboro,Dublin 7,q2,50%
+08/04/2016,"Apt 5, 13 Phibsboro, Phibsboro Dublin 7",Dublin,242355.0,No,Phibsboro,Dublin 7,q2,50%
+08/04/2016,"Apt 6, 13 Phibsboro, Phibsboro Dublin 7",Dublin,238139.0,No,Phibsboro,Dublin 7,q2,50%
+08/04/2016,"Apt 8, 13 Phibsboro, Phibsboro Dublin 7",Dublin,232237.0,No,Phibsboro,Dublin 7,q2,40%
+12/04/2016,"14 Royal Canal Tce, Phibsboro, Dublin 7",Dublin,456000.0,No,Phibsboro,Dublin 7,q4,90%
+13/04/2016,"55 Shandon Drive, Phibsboro, Dublin 7",Dublin,458000.0,No,Phibsboro,Dublin 7,q4,90%
+15/04/2016,"2 Leinster St North, Phibsboro, Dublin 7",Dublin,430000.0,No,Phibsboro,Dublin 7,q4,90%
+28/04/2016,"48 North Circular Road, Phibsboro, Dublin 7",Dublin,575000.0,No,Phibsboro,Dublin 7,q4,100%
+19/05/2016,"13 Ben Eadair Rd, Phibsboro Rd, Dublin 7",Dublin,215000.0,No,Phibsboro,Dublin 7,q2,40%
+19/05/2016,"68 Cabra Dr, Phibsboro, Dublin 7",Dublin,367000.0,No,Phibsboro,Dublin 7,q3,80%
+20/05/2016,"33 St. Peters Sq, Phibsboroough Rd, Phibsboro",Dublin,147000.0,No,Phibsboro,Dublin 7,q1,10%
+27/05/2016,"17 Monks Place, Phibsboro, Dublin 7",Dublin,118750.0,No,Phibsboro,Dublin 7,q1,10%
+02/06/2016,"Apartments 1-21, Broadstone Hall, Phibsboro Road",Dublin,8500000.0,No,Phibsboro,Dublin 7,q4,100%
+17/06/2016,"31 Geraldine St, Phibsboro, Dublin 7",Dublin,286000.0,No,Phibsboro,Dublin 7,q3,60%
+27/06/2016,"12 Blessington Lane, Phibsboro, Dublin 7",Dublin,155000.0,No,Phibsboro,Dublin 7,q1,20%
+30/06/2016,"16 St Ignatius Avenue, Phibsboro, Dublin 7",Dublin,255000.0,No,Phibsboro,Dublin 7,q2,50%
+07/07/2016,"448 North Circular Rd, Phibsboro, Dublin 7",Dublin,340000.0,No,Phibsboro,Dublin 7,q3,70%
+21/07/2016,"31 Munster St, Phibsboro, Dublin 9",Dublin,70000.0,No,Phibsboro,Dublin 7,q1,10%
+21/07/2016,"31 Munster St, Phibsboro, Dublin 9",Dublin,70000.0,No,Phibsboro,Dublin 7,q1,10%
+18/08/2016,"8 Royse Rd, Phibsboro, Dublin 7",Dublin,395000.0,No,Phibsboro,Dublin 7,q4,80%
+23/08/2016,"29 Upper Wellington Street, Phibsboro, Dublin 7",Dublin,172000.0,No,Phibsboro,Dublin 7,q1,20%
+24/08/2016,"7 Monck Place, Phibsboro, Dublin 7",Dublin,350000.0,No,Phibsboro,Dublin 7,q3,70%
+01/09/2016,"31 Phibsboro Rd, Dublin 7, Dublin",Dublin,301000.0,No,Phibsboro,Dublin 7,q3,60%
+16/09/2016,"12 Shandon Dr, Phibsboro, Dublin",Dublin,475000.0,No,Phibsboro,Dublin 7,q4,90%
+16/09/2016,"23 Royal Canal Court, Phibsboro, Dublin",Dublin,213850.0,No,Phibsboro,Dublin 7,q2,40%
+06/10/2016,"124 Cabra Park, Phibsboro, Dublin 7",Dublin,295000.0,No,Phibsboro,Dublin 7,q3,60%
+07/10/2016,"43 Munster Street, Phibsboro, Dublin 7",Dublin,375000.0,No,Phibsboro,Dublin 7,q4,80%
+25/10/2016,"38 Kings Inn Court, Phibsboro, Dublin 7",Dublin,186000.0,No,Phibsboro,Dublin 7,q1,30%
+18/11/2016,"21 Royal Canal Court, Phibsboro, Dublin 7",Dublin,225000.0,No,Phibsboro,Dublin 7,q2,40%
+15/12/2016,"51 Cross Guns Quay, The Old Mill, Phibsboro",Dublin,155000.0,No,Phibsboro,Dublin 7,q1,20%
+21/12/2016,"41 Dakota Court, Cross Guns Bridge, Phibsboro Dublin 7",Dublin,205000.0,No,Phibsboro,Dublin 7,q2,30%
+06/01/2017,"29 Auburn St, Broadstone, Phibsboro",Dublin,346000.0,No,Phibsboro,Dublin 7,q3,70%
+03/02/2017,"9 St. Josephs Parade, Phibsboro, Dublin 7",Dublin,230000.0,No,Phibsboro,Dublin 7,q2,40%
+07/02/2017,"5 Valentia House, North Circular Road, Phibsboro",Dublin,160000.0,No,Phibsboro,Dublin 7,q1,20%
+09/02/2017,"23 Cross Guns Quay, Phibsboro, Dublin 7",Dublin,200000.0,No,Phibsboro,Dublin 7,q2,30%
+20/02/2017,"28 Kings Inns, Phibsboro, Dublin 7",Dublin,326505.0,No,Phibsboro,Dublin 7,q3,70%
+24/02/2017,"29 Charleville Road, Phibsboro, Dublin 7",Dublin,520000.0,No,Phibsboro,Dublin 7,q4,100%
+27/02/2017,"27 Goldsmith St, Phibsboro Dublin 7, Dublin",Dublin,450000.0,No,Phibsboro,Dublin 7,q4,90%
+03/03/2017,"63 Phibsborough Rd Yard At 59, Phibsboro Rd Dublin 7, Dublin 7",Dublin,96000.0,No,Phibsboro,Dublin 7,q1,10%
+23/03/2017,"23 Geraldine St, Phibsboro, Dublin 7",Dublin,355000.0,No,Phibsboro,Dublin 7,q3,80%
+14/04/2017,"11/12  Dalymount, Phibsboro, Dublin 7",Dublin,452500.0,No,Phibsboro,Dublin 7,q4,90%
+14/04/2017,"11/12  Dalymount, Phibsboro, Dublin 7",Dublin,452500.0,No,Phibsboro,Dublin 7,q4,90%
+16/05/2017,"64 Norfolk Rd, Phibsboro, Dublin 7",Dublin,414000.0,No,Phibsboro,Dublin 7,q4,90%
+06/06/2017,"2 Royse Rd Phibsboro, Dublin",Dublin,561000.0,No,Phibsboro,Dublin 7,q4,100%
+28/06/2017,"44 Norfolk Rd, Phibsboro, Dublin City",Dublin,460000.0,No,Phibsboro,Dublin 7,q4,90%
+24/07/2017,"31 Glengarriff Parade, Phibsboro, Dublin 7",Dublin,386000.0,No,Phibsboro,Dublin 7,q4,80%
+16/08/2017,"16 St Ignatius Avenue, Phibsboro, Dublin 7",Dublin,295000.0,No,Phibsboro,Dublin 7,q3,60%
+05/09/2017,"Apt 1, 22 Goldsmith Street, Phibsboro",Dublin,350000.0,No,Phibsboro,Dublin 7,q3,80%
+12/09/2017,"2 Shandon Rd, Phibsboro, Dublin 7",Dublin,500000.0,No,Phibsboro,Dublin 7,q4,100%
+14/09/2017,"32 Phibsboro Road, Phibsboro, Dublin 7",Dublin,320000.0,No,Phibsboro,Dublin 7,q3,70%
+18/09/2017,"53 Dakoto Court, Phibsboro, Dublin 7",Dublin,317000.0,No,Phibsboro,Dublin 7,q3,70%
+18/09/2017,"60 Cabra Park, Phibsboro, Dublin 7",Dublin,560000.0,No,Phibsboro,Dublin 7,q4,100%
+25/09/2017,"9 Kings Inn Court, Phibsboro, Dublin 9",Dublin,270000.0,No,Phibsboro,Dublin 7,q2,50%
+03/10/2017,"14 St Peters Sq, Phibsboro, Dublin 7",Dublin,255000.0,No,Phibsboro,Dublin 7,q2,50%
+09/10/2017,"22 Cabra Park, Phibsboro, Dublin 7",Dublin,251575.0,No,Phibsboro,Dublin 7,q2,50%
+13/10/2017,"11 Royse Rd, Phibsboro, Dublin 7",Dublin,482000.0,No,Phibsboro,Dublin 7,q4,90%
+15/10/2017,"Apt 25 First Floor, St Peters Sq, Phibsboro Dublin 7",Dublin,182000.0,No,Phibsboro,Dublin 7,q1,30%
+24/10/2017,"13 Shandon Park, Phibsboro, Dublin 7",Dublin,590000.0,No,Phibsboro,Dublin 7,q4,100%
+06/11/2017,"63 St Ignaitus Rd, Phibsboro, Dublin",Dublin,310000.0,No,Phibsboro,Dublin 7,q3,70%
+28/11/2017,"10 Arranmore Ave, Phibsboro, Dublin 9",Dublin,457000.0,No,Phibsboro,Dublin 7,q4,90%
+05/12/2017,"3 Royal Canal Terrace, Phibsboro, Dublin 7",Dublin,435000.0,No,Phibsboro,Dublin 7,q4,90%
+21/12/2017,"Unit 2, 180 Phibsboro Road, Phibsboro",Dublin,272600.0,No,Phibsboro,Dublin 7,q2,50%
+02/01/2018,"236 Phibsboro Rd, Dublin 7, Dublin",Dublin,277000.0,No,Phibsboro,Dublin 7,q3,60%
+08/01/2018,"Apt 11 St Peters Sq, Phibsboro Place, Phibsboro Dublin 7",Dublin,207500.0,No,Phibsboro,Dublin 7,q2,30%
+10/01/2018,"31 St Peters Sq, Phibsboro, Dublin 7",Dublin,198000.0,No,Phibsboro,Dublin 7,q2,30%
+16/01/2018,"86 St Ignatius Rd, Phibsboro, Dublin 7",Dublin,350000.0,No,Phibsboro,Dublin 7,q3,80%
+01/02/2018,"Apt 9 Kings Hall, 191 193 Phibsboro Rd, Dublin 7",Dublin,215000.0,No,Phibsboro,Dublin 7,q2,40%
+22/03/2018,"Apt 1 - 5, 5 Dalymount, Phibsboro",Dublin,575000.0,No,Phibsboro,Dublin 7,q4,100%
+29/03/2018,"52 Phibsboro Rd, Phibsboro, Dublin 7",Dublin,342500.0,No,Phibsboro,Dublin 7,q3,70%
+06/04/2018,"11 Everton Ave, Phibsboro, Dublin 7",Dublin,395000.0,No,Phibsboro,Dublin 7,q4,80%
+20/04/2018,"8 Glengarriff Cresent, Phibsboro, Dublin",Dublin,350000.0,No,Phibsboro,Dublin 7,q3,80%
+27/04/2018,"Apt 1, 13 Monck Place, Phibsboro",Dublin,175000.0,No,Phibsboro,Dublin 7,q1,20%
+02/05/2018,"Apt 1, 10 Cabra Road, Phibsboro",Dublin,580000.0,No,Phibsboro,Dublin 7,q4,100%
+04/05/2018,"34 Cabra Park, Phibsboro, Dublin 7",Dublin,490000.0,No,Phibsboro,Dublin 7,q4,100%
+07/06/2018,"116 Connaught St, Phibsboro, Dublin 7",Dublin,470000.0,No,Phibsboro,Dublin 7,q4,90%
+13/06/2018,"Flat 1, 89 Phibsboro Rd, Phibsboro",Dublin,327372.58,No,Phibsboro,Dublin 7,q3,70%
+19/06/2018,"Apt 29, St Peter'S Square, Phibsboro",Dublin,200000.0,No,Phibsboro,Dublin 7,q2,30%
+20/06/2018,"387A North Circular Road, Phibsboro, Dublin",Dublin,218750.0,No,Phibsboro,Dublin 7,q2,40%
+20/06/2018,"387B North Circular Road, Phibsboro, Dublin 7",Dublin,218750.0,No,Phibsboro,Dublin 7,q2,40%
+27/06/2018,"40 Glengarriff Parade, Phibsboro, Dublin 7",Dublin,510000.0,No,Phibsboro,Dublin 7,q4,100%
+13/08/2018,"2 St Michaels Place, Fontenoy Street, Phibsboro",Dublin,352000.0,No,Phibsboro,Dublin 7,q3,80%
+30/08/2018,"1 Grove Mews, Phibsboro, Dublin 7",Dublin,305000.0,No,Phibsboro,Dublin 7,q3,70%
+10/09/2018,"79 New Cabra Rd, Phibsboro, Dublin 7",Dublin,650000.0,No,Phibsboro,Dublin 7,q4,100%
+03/10/2018,"108 Cabra Park, Phibsboro, Dublin 7",Dublin,290000.0,No,Phibsboro,Dublin 7,q3,60%
+03/10/2018,"88 Cabra Park, Phibsboro, Dublin 7",Dublin,310000.0,No,Phibsboro,Dublin 7,q3,70%
+05/10/2018,"27 Crossguns Quay, Phibsboro, Dublin 7",Dublin,205000.0,No,Phibsboro,Dublin 7,q2,30%
+25/10/2018,"30 Shandon Park, Phibsboro, Dublin 7",Dublin,510000.0,No,Phibsboro,Dublin 7,q4,100%
+26/10/2018,"50 The Mill, Crossguns, Phibsboro",Dublin,265000.0,No,Phibsboro,Dublin 7,q2,50%
+02/11/2018,"56 Phibsboro Road, Phibsboro, Dublin 7",Dublin,630000.0,No,Phibsboro,Dublin 7,q4,100%
+16/11/2018,"22 Rathdown Rd, Phibsboro, Dublin 7",Dublin,800000.0,No,Phibsboro,Dublin 7,q4,100%
+04/12/2018,"26 Broadstone Ave, Phibsboro, Dublin 7",Dublin,242000.0,No,Phibsboro,Dublin 7,q2,50%
+14/12/2018,"11 Shamrock Street, Phibsboro, Dublin 7",Dublin,210000.0,No,Phibsboro,Dublin 7,q2,40%
+19/12/2018,"3 Library View Villas, Phibsboro, Dublin 7",Dublin,410000.0,No,Phibsboro,Dublin 7,q4,80%
+21/01/2019,"25 Cabra Park, Phibsboro, Dublin 7",Dublin,475000.0,No,Phibsboro,Dublin 7,q4,90%
+06/02/2019,"38 Geraldine St, Phibsboro, Dublin 7",Dublin,276000.0,No,Phibsboro,Dublin 7,q3,60%
+14/02/2019,"18 St Ignatius Rd, Phibsboro Dublin 7, Dublin",Dublin,460000.0,No,Phibsboro,Dublin 7,q4,90%
+15/03/2019,"31 Leinster St, Phibsboro, Dublin 7",Dublin,457000.0,No,Phibsboro,Dublin 7,q4,90%
+22/03/2019,"23 Glengariff Parade, Phibsboro, Dublin 7",Dublin,555000.0,No,Phibsboro,Dublin 7,q4,100%
+03/05/2019,"34 Munster St, Phibsboro, Dublin City",Dublin,560000.0,No,Phibsboro,Dublin 7,q4,100%
+07/05/2019,"12 Georges Wharf, Phibsboro, Dublin 7",Dublin,383000.0,No,Phibsboro,Dublin 7,q4,80%
+28/06/2019,"37 Leinster St North, Phibsboro, Dublin 7",Dublin,585000.0,No,Phibsboro,Dublin 7,q4,100%
+03/07/2019,"74 The Mill, Cross Guns Quay, Phibsboro Dublin 7",Dublin,298000.0,No,Phibsboro,Dublin 7,q3,60%
+11/07/2019,"18 Great Western Sq, Phibsboro, Dublin 7",Dublin,374425.0,No,Phibsboro,Dublin 7,q4,80%
+06/09/2019,"40 Glengarriff Parade, Phibsboro, Dublin 7",Dublin,510000.0,No,Phibsboro,Dublin 7,q4,100%
+10/09/2019,"3 Royal Canal Terrace, Phibsboro, Dublin 7",Dublin,850000.0,No,Phibsboro,Dublin 7,q4,100%
+02/10/2019,"11 Shamrock St, Phibsboro, Dublin 7",Dublin,400000.0,No,Phibsboro,Dublin 7,q4,80%
+03/10/2019,"21 St Peters Rd, Phibsboro, Dublin 7",Dublin,475000.0,No,Phibsboro,Dublin 7,q4,90%
+10/10/2019,"16 Gt Western Villas, Phibsboro, Dublin 7",Dublin,317500.0,No,Phibsboro,Dublin 7,q3,70%
+18/10/2019,"Unit 1, 41 Connaught St, Phibsboro",Dublin,535000.0,No,Phibsboro,Dublin 7,q4,100%
+21/10/2019,"49 New Cabra Rd, Phibsboro, Dublin 7",Dublin,615000.0,No,Phibsboro,Dublin 7,q4,100%
+23/10/2019,"1 Muckross Parade, Phibsboro, Dublin 7",Dublin,285000.0,No,Phibsboro,Dublin 7,q3,60%

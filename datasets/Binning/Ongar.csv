@@ -1,0 +1,292 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+12/02/2010,"12 Delhurst Mews, Ongar, Dublin 15",Dublin,227000.0,No,Ongar,Dublin 15,q3,70%
+08/03/2010,"19 Stralem Terrace, Ongar Park",Dublin,218000.0,No,Ongar,Dublin 15,q3,60%
+19/03/2010,"49 Lily'S Way, Ongar Green",Dublin,180000.0,No,Ongar,Dublin 15,q2,40%
+16/04/2010,"7 Barnwell Green, Hansfield, Ongar",Dublin,224669.59,Yes,Ongar,Dublin 15,q3,70%
+22/04/2010,"14 Blackwood Lawn, Ongar",Dublin,515000.0,No,Ongar,Dublin 15,q4,100%
+18/06/2010,"26 Lilds Court, Ongar Green, Dublin",Dublin,160000.0,No,Ongar,Dublin 15,q2,30%
+28/06/2010,"6 Blackwood Lawn, Ongar, Dublin 15",Dublin,500000.0,No,Ongar,Dublin 15,q4,100%
+29/06/2010,"28 Hayworth Mews, Ongar, Dublin 15",Dublin,235000.0,No,Ongar,Dublin 15,q3,70%
+02/07/2010,"43 Lilys Way, Ongar",Dublin,180000.0,No,Ongar,Dublin 15,q2,40%
+07/07/2010,"11 Delhurst Terrace, Ongar, Dublin 15",Dublin,208000.0,No,Ongar,Dublin 15,q3,60%
+07/07/2010,"28 Delhurst Terrace, Ongar, Dublin 15",Dublin,337000.0,No,Ongar,Dublin 15,q4,90%
+16/09/2010,"2 Blackwood Park, Ongar Chase, Ongar",Dublin,482000.0,No,Ongar,Dublin 15,q4,100%
+15/10/2010,"10 Blackwood Close, Ongar Chase, Ongar",Dublin,467500.0,No,Ongar,Dublin 15,q4,100%
+26/11/2010,"Apt. 32 The Crescent, Block H  Ongar Village",Dublin,120000.0,No,Ongar,Dublin 15,q1,10%
+17/12/2010,"9 Lily'S Way, Ongar Green, Ongar",Dublin,175000.0,No,Ongar,Dublin 15,q2,40%
+15/02/2011,"15 Willans Rise, Ongar, Dublin 15",Dublin,211000.0,No,Ongar,Dublin 15,q3,60%
+14/03/2011,"66 Hayworth Terrace, Ongar",Dublin,110000.0,No,Ongar,Dublin 15,q1,10%
+20/05/2011,"40 Delhurst Terrace, Ongar, Dublin 15",Dublin,165000.0,No,Ongar,Dublin 15,q2,30%
+24/05/2011,"10 Hayworth Close, Ongar",Dublin,128000.0,No,Ongar,Dublin 15,q1,20%
+17/06/2011,"13 Delhurst Mews, Ongar",Dublin,155000.0,No,Ongar,Dublin 15,q1,30%
+09/08/2011,"12 Hayworth Mews, Ongar Park, Ongar",Dublin,200000.0,No,Ongar,Dublin 15,q2,50%
+09/09/2011,"12 Annally Grove, Ongar, Dublin 15",Dublin,105000.0,No,Ongar,Dublin 15,q1,10%
+15/12/2011,"8 Blackwood Close, Ongar Chase, Dublin 15",Dublin,370000.0,No,Ongar,Dublin 15,q4,100%
+24/02/2012,"26 Stralem Terrace, Ongar Wood, Dublin 15",Dublin,132500.0,Yes,Ongar,Dublin 15,q1,20%
+04/04/2012,"10 Barnwell Way, Hansfield, Ongar",Dublin,150000.0,No,Ongar,Dublin 15,q1,30%
+04/04/2012,"3 Blackwood Mews, Ongar, Dublin 15",Dublin,321500.0,No,Ongar,Dublin 15,q4,90%
+25/05/2012,"17 Hayworth Mews, Ongar",Dublin,135000.0,No,Ongar,Dublin 15,q1,20%
+21/06/2012,"1 Willan'S Way East, Ongar",Dublin,80000.0,No,Ongar,Dublin 15,q1,10%
+21/06/2012,"6 Barnwell Avenue, Hansfield, Ongar",Dublin,110088.0,Yes,Ongar,Dublin 15,q1,10%
+13/07/2012,"19 Blackwood Drive, Ongar Chase",Dublin,315000.0,No,Ongar,Dublin 15,q4,90%
+19/07/2012,"6 Blackwood Park, Ongar Chase, Ongar",Dublin,370000.0,No,Ongar,Dublin 15,q4,100%
+21/09/2012,"4 Blackwood Lawns, Ongar",Dublin,325000.0,No,Ongar,Dublin 15,q4,90%
+27/09/2012,"13 Lily'S Court, Ongar Square, Ongar Village",Dublin,97500.0,No,Ongar,Dublin 15,q1,10%
+27/09/2012,"16 Hayworth Rise, Ongar, Dublin 15",Dublin,164000.0,No,Ongar,Dublin 15,q2,30%
+04/10/2012,"5 Blackwood Close, Ongar",Dublin,395000.0,No,Ongar,Dublin 15,q4,100%
+10/10/2012,"11 Hayworth Court, Ongar",Dublin,87000.0,No,Ongar,Dublin 15,q1,10%
+22/10/2012,"14 Delhurst Terrace Ongar D15, Ongar",Dublin,157000.0,No,Ongar,Dublin 15,q2,30%
+30/11/2012,"1 Blackwood Lawn, Ongar Chase, Ongar",Dublin,374000.0,No,Ongar,Dublin 15,q4,100%
+30/11/2012,"12 Barnwell Drive, Hansfield  Ongar, Dublin 15",Dublin,136520.0,Yes,Ongar,Dublin 15,q1,20%
+10/12/2012,"Apartment 44, The Crescent, Ongar",Dublin,67000.0,No,Ongar,Dublin 15,q1,10%
+12/12/2012,"10 Hayworth Drive, Ongar Park, Ongar",Dublin,217500.0,No,Ongar,Dublin 15,q3,60%
+20/12/2012,"2 The Avenue, Ongar",Dublin,125000.0,No,Ongar,Dublin 15,q1,10%
+20/12/2012,"40 Lily'S Way, Ongar Green, Ongar",Dublin,192000.0,No,Ongar,Dublin 15,q2,50%
+21/12/2012,"4 Hayworth Drive, Ongar, Dublin",Dublin,205000.0,No,Ongar,Dublin 15,q3,60%
+21/12/2012,"58 Hayworth Terrace, Ongar, Dublin 15",Dublin,125000.0,No,Ongar,Dublin 15,q1,10%
+21/12/2012,"Apartment 17  Block 4, 59 Annaly Grove, Ongar Lodge",Dublin,96800.0,No,Ongar,Dublin 15,q1,10%
+31/01/2013,"4 Blackwood Place, Ongar Chase, Ongar",Dublin,340000.0,No,Ongar,Dublin 15,q4,90%
+06/02/2013,"33 North St, Ongar Village",Dublin,65000.0,No,Ongar,Dublin 15,q1,10%
+22/03/2013,"21 Hayworth Close, Ongar",Dublin,72000.0,No,Ongar,Dublin 15,q1,10%
+28/05/2013,"5 Barnwell Lane  Barnwell, Hansfield, Ongar",Dublin,136520.0,Yes,Ongar,Dublin 15,q1,20%
+07/06/2013,"2 Willans Court West, Ongar, Dublin 15",Dublin,110000.0,No,Ongar,Dublin 15,q1,10%
+12/06/2013,"7 Delhurst Terrace, Ongar, Dublin 15",Dublin,122000.0,No,Ongar,Dublin 15,q1,10%
+15/08/2013,"4 Blackwood Mews, Ongar, Dublin 15",Dublin,365000.0,No,Ongar,Dublin 15,q4,100%
+19/09/2013,"9 Delhurst Court, Ongar",Dublin,100000.0,No,Ongar,Dublin 15,q1,10%
+02/10/2013,"19 Blackwood Park, Ongar Chase",Dublin,370000.0,No,Ongar,Dublin 15,q4,100%
+07/11/2013,"8 Blackwood Lawn, Ongar Close, Ongar Dublin 15",Dublin,390000.0,No,Ongar,Dublin 15,q4,100%
+10/12/2013,"19 The Mall, Ongar, Dublin 15",Dublin,93000.0,No,Ongar,Dublin 15,q1,10%
+20/12/2013,"2 Hayworth Place, Ongar, Dublin 15",Dublin,80000.0,No,Ongar,Dublin 15,q1,10%
+13/01/2014,"20 Blackwood Crescent, Ongar Chase, Ongar Dublin 15",Dublin,80000.0,No,Ongar,Dublin 15,q1,10%
+14/02/2014,"34 Annaly Terrace, Ongarwood, Dublin 15",Dublin,87000.0,No,Ongar,Dublin 15,q1,10%
+28/05/2014,"23 Manor Place, Ongar, Dublin 15",Dublin,88000.0,No,Ongar,Dublin 15,q1,10%
+13/06/2014,"10 Blackwood Park, Ongar Chase, Ongar",Dublin,387000.0,No,Ongar,Dublin 15,q4,100%
+30/06/2014,"38 Annally Grove, Ongar Lodge, Ongar",Dublin,135000.0,No,Ongar,Dublin 15,q1,20%
+15/07/2014,"2 Willans Drive, Ongar",Dublin,151900.0,No,Ongar,Dublin 15,q1,30%
+08/08/2014,"Apt 3 Block 11, Manor Square, Ongar Village",Dublin,114950.0,No,Ongar,Dublin 15,q1,10%
+26/08/2014,"25 North St, Ongar Village, Ongar",Dublin,97000.0,No,Ongar,Dublin 15,q1,10%
+09/09/2014,"46 Main St, Ongar Village, Dublin 15",Dublin,160000.0,No,Ongar,Dublin 15,q2,30%
+06/10/2014,"28 Stralem Terrace, Ongar Village, Dublin",Dublin,187500.0,No,Ongar,Dublin 15,q2,50%
+09/10/2014,"Apt 4 Block 1, Ongar Lodge, Dublin 15",Dublin,145000.0,No,Ongar,Dublin 15,q1,20%
+10/11/2014,"9 Hayworth Close, Ongar, Dublin 15",Dublin,40000.0,No,Ongar,Dublin 15,q1,10%
+15/11/2014,"Apartment 21 Block 2, Annaly Grove, Ongar Lodge",Dublin,120000.0,No,Ongar,Dublin 15,q1,10%
+25/11/2014,"13 Stralem Mews, Ongar, Dublin 15",Dublin,205000.0,No,Ongar,Dublin 15,q3,60%
+28/11/2014,"17 Blackwood Crescent, Ongar Chase, Ongar Dublin 15",Dublin,440000.0,No,Ongar,Dublin 15,q4,100%
+08/12/2014,"21 Williams Drive, Ongar, Dublin 16",Dublin,227000.0,No,Ongar,Dublin 15,q3,70%
+18/12/2014,"13 The Crescent, Ongar Village, Dublin 15",Dublin,169000.0,No,Ongar,Dublin 15,q2,40%
+22/12/2014,"12 Annaly Court, Ongar Wood",Dublin,123659.0,No,Ongar,Dublin 15,q1,10%
+22/12/2014,"46 Anally Grove, Ongar Lodge, Dublin 15",Dublin,128239.0,No,Ongar,Dublin 15,q1,20%
+03/02/2015,"7 Annaly Court, Ongar Wood, Ongar",Dublin,140000.0,No,Ongar,Dublin 15,q1,20%
+05/02/2015,"6 Delhurst Mews, Ongar Park, Dublin 15",Dublin,230000.0,No,Ongar,Dublin 15,q3,70%
+16/02/2015,"11 Stralem Court, Ongar Wood, Dublin 15",Dublin,125000.0,No,Ongar,Dublin 15,q1,10%
+23/02/2015,"2 The Stables, Ongar Village, Dublin 15",Dublin,180000.0,No,Ongar,Dublin 15,q2,40%
+26/02/2015,"Apt 2, Block 7A Annaly Close, Ongar Lodge Dublin 15",Dublin,137500.0,No,Ongar,Dublin 15,q1,20%
+27/02/2015,"4 Delhurst Mews, Ongar Park",Dublin,208000.0,No,Ongar,Dublin 15,q3,60%
+09/03/2015,"14 Manor Sq, Ongar Village Dublin 15, Dublin",Dublin,155000.0,No,Ongar,Dublin 15,q1,30%
+20/03/2015,"39 The Crescent, Ongar Village, Ongar",Dublin,165000.0,No,Ongar,Dublin 15,q2,40%
+08/05/2015,"35 North Street, Ongar, Dublin 15",Dublin,104500.0,No,Ongar,Dublin 15,q1,10%
+03/06/2015,"13 Stralem Court, Ongar Wood, Ongar Dublin 15",Dublin,145000.0,No,Ongar,Dublin 15,q1,20%
+04/06/2015,"Apt 11 Block 4 Annaly Grove, Ongar Lodge, Ongar",Dublin,120000.0,No,Ongar,Dublin 15,q1,10%
+01/07/2015,"14 The Crescent, Ongar Village, Ongar",Dublin,126000.0,No,Ongar,Dublin 15,q1,20%
+08/07/2015,"8B Willans Way, Ongar Sq, Dublin 15",Dublin,159500.0,No,Ongar,Dublin 15,q2,30%
+23/07/2015,"14 Annaly Terrace, Ongar, Dublin 15",Dublin,192000.0,No,Ongar,Dublin 15,q2,50%
+29/07/2015,"25 Lilys Way, Ongar Green, Dublin 15",Dublin,215000.0,No,Ongar,Dublin 15,q3,60%
+13/08/2015,"8 Blackwood Dr, Ongar Chase, Dublin 15",Dublin,455000.0,No,Ongar,Dublin 15,q4,100%
+18/08/2015,"21 Barnwell Lane, Hansfield, Ongar",Dublin,230000.0,Yes,Ongar,Dublin 15,q3,70%
+03/09/2015,"35 Phibblestown Wood, Ongar, Dublin 15",Dublin,125000.0,No,Ongar,Dublin 15,q1,20%
+04/09/2015,"2 Stralem Crescent, Ongar, Dublin 15",Dublin,225000.0,No,Ongar,Dublin 15,q3,70%
+11/09/2015,"21G Willans Way, Ongar, Dublin 15",Dublin,150000.0,No,Ongar,Dublin 15,q1,30%
+15/09/2015,"34 Hayworth Terrace, Ongar Park, Ongar",Dublin,119000.0,No,Ongar,Dublin 15,q1,10%
+25/09/2015,"11 Barnwell Lawn, Hansfield, Ongar",Dublin,263887.5,Yes,Ongar,Dublin 15,q4,80%
+30/09/2015,"16 Stralem Court, Ongar, Dublin 15",Dublin,146000.0,No,Ongar,Dublin 15,q1,20%
+05/11/2015,"Apt 52, Annaly Grove, Ongar Village",Dublin,153000.0,No,Ongar,Dublin 15,q1,30%
+06/11/2015,"21 Stralem Tce, Ongar Wood, Ongar Dublin 15",Dublin,235000.0,No,Ongar,Dublin 15,q3,70%
+10/12/2015,"20 Barnwell Way, Hansfield, Ongar",Dublin,265000.0,Yes,Ongar,Dublin 15,q4,90%
+17/12/2015,"18 Delhurst Mews, Ongar Park, Dublin 15",Dublin,165000.0,No,Ongar,Dublin 15,q2,40%
+18/12/2015,"11 Blackwood Crescent, Ongar Chase, Ongar",Dublin,415000.0,No,Ongar,Dublin 15,q4,100%
+18/12/2015,"18 Delhurst Ave, Ongar Village, Dublin 15",Dublin,250000.0,No,Ongar,Dublin 15,q4,80%
+21/12/2015,"9 Annaly Terrace, Ongar Rd, Dublin 15",Dublin,193000.0,No,Ongar,Dublin 15,q2,50%
+23/12/2015,"61 Hayworth Terrace, Ongar Park, Ongar Village Dublin 15",Dublin,221000.0,No,Ongar,Dublin 15,q3,60%
+15/01/2016,"8 Hayworth Court, Ongar Park, Ongar Dublin 15",Dublin,140000.0,No,Ongar,Dublin 15,q1,20%
+15/01/2016,"Apt 7, Chipping Row, Ongar Village Dublin 15",Dublin,131000.0,No,Ongar,Dublin 15,q1,20%
+27/01/2016,"33 North St, Ongar Village, Dublin 15",Dublin,130000.0,No,Ongar,Dublin 15,q1,20%
+05/02/2016,"14 Blackwood Lawn, Ongar Chase, Ongar Dublin 15",Dublin,485000.0,No,Ongar,Dublin 15,q4,100%
+09/02/2016,"27 North St, Ongar Village, Dublin 15",Dublin,130000.0,No,Ongar,Dublin 15,q1,20%
+15/02/2016,"1  Willans Grove South, Ongar Green, Ongar",Dublin,155000.0,No,Ongar,Dublin 15,q1,30%
+15/03/2016,"1 North St, Ongar Village, Dublin 15",Dublin,155000.0,No,Ongar,Dublin 15,q1,30%
+16/03/2016,"34 Annaly Terrace, Ongarwood, Dublin 15",Dublin,130000.0,No,Ongar,Dublin 15,q1,20%
+31/03/2016,"62 Annally Grove, Ongar Lodge, Ongar Dublin 15",Dublin,153000.0,No,Ongar,Dublin 15,q1,30%
+01/04/2016,"14 Hayworth Mews, Ongar Village, Dublin 15",Dublin,185000.0,No,Ongar,Dublin 15,q2,40%
+04/04/2016,"2 Sweeney Mews, Ongar, Dublin 15",Dublin,170000.0,No,Ongar,Dublin 15,q2,40%
+13/04/2016,"3 Willans Rise, Ongar Green, Ongar Dublin 15",Dublin,195000.0,No,Ongar,Dublin 15,q2,50%
+26/04/2016,"Apartment 28 Block 7B, Annaly Close, Ongar Lodge",Dublin,170000.0,No,Ongar,Dublin 15,q2,40%
+28/04/2016,"3 Blackwood Crescent, Ongar Chase, Ongar Dublin 15",Dublin,465000.0,No,Ongar,Dublin 15,q4,100%
+03/05/2016,"17 Annaly Terrace Ongar Wood Ongar, Dublin",Dublin,229000.0,No,Ongar,Dublin 15,q3,70%
+13/05/2016,"60 Lilys Way, Ongar, Dublin 15",Dublin,220000.0,No,Ongar,Dublin 15,q3,60%
+16/05/2016,"3 Chipping Row, Ongar Village, Dublin",Dublin,146000.0,No,Ongar,Dublin 15,q1,20%
+30/05/2016,"48 Ongar Crescent, Ongar Village, Dublin 15",Dublin,132000.0,No,Ongar,Dublin 15,q1,20%
+07/07/2016,"9 Delahurst Ave, Ongar Park, Dublin 15",Dublin,180000.0,No,Ongar,Dublin 15,q2,40%
+23/08/2016,"5 Hayworth Terrace, Ongar Park, Ongar Dublin 15",Dublin,230000.0,No,Ongar,Dublin 15,q3,70%
+24/08/2016,"4 Barry Lane, Ongar Village, Dublin 15",Dublin,227000.0,No,Ongar,Dublin 15,q3,70%
+26/08/2016,"7 Stralem Mews, Ongar Village, Dublin 15",Dublin,180000.0,No,Ongar,Dublin 15,q2,40%
+29/08/2016,"3 Delhurst Mews, Ongar Park, Ongar Dublin 15",Dublin,225000.0,No,Ongar,Dublin 15,q3,70%
+13/09/2016,"6 Willans Row, Ongar Green, Dublin 16",Dublin,275000.0,No,Ongar,Dublin 15,q4,90%
+13/09/2016,"72 Annaly Grove, Ongar, Dublin 15",Dublin,160000.0,No,Ongar,Dublin 15,q2,30%
+30/09/2016,"13 Blackwood Dr, Ongar Chase, Dublin 15",Dublin,435000.0,No,Ongar,Dublin 15,q4,100%
+30/09/2016,"27 Block 7B Annaly Close, Ongar Lodge, Ongar Dublin 15",Dublin,220000.0,No,Ongar,Dublin 15,q3,60%
+18/10/2016,"11 Annaly Terrace, Ongar Village, Dublin 15",Dublin,210000.0,No,Ongar,Dublin 15,q3,60%
+28/10/2016,"5 Chipping Terrace, Ongar Village, Dublin",Dublin,165000.0,No,Ongar,Dublin 15,q2,40%
+23/11/2016,"16 Annaly Court, Ongar, Dublin 15",Dublin,161000.0,No,Ongar,Dublin 15,q2,30%
+08/12/2016,"18 Blackwood Crescent, Ongar, Dublin 15",Dublin,560000.0,No,Ongar,Dublin 15,q4,100%
+20/12/2016,"Apt 27 Block 4 Annaly Grove, Ongar Lodge, Ongar",Dublin,150000.0,No,Ongar,Dublin 15,q1,30%
+22/12/2016,"19 Hayworth Close, Ongar Park, Dublin 15",Dublin,135000.0,No,Ongar,Dublin 15,q1,20%
+31/01/2017,"19 Willans Ave, Ongar Green, Dublin 15",Dublin,245000.0,No,Ongar,Dublin 15,q3,80%
+10/02/2017,"18 The Crescent, Ongar Village, Dublin 15",Dublin,140000.0,No,Ongar,Dublin 15,q1,20%
+10/02/2017,"2 Stralem Court, Ongar Wood, Ongar Dublin 15",Dublin,145000.0,No,Ongar,Dublin 15,q1,20%
+09/03/2017,"26 Willans Ave, Ongar Green Dublin 15, Dublin",Dublin,226000.0,No,Ongar,Dublin 15,q3,70%
+23/03/2017,"Apartment 8 H, Willan'S Way, Ongar",Dublin,171000.0,No,Ongar,Dublin 15,q2,40%
+24/03/2017,"31 The Lawn, Hansfield Wood, Ongar",Dublin,264273.0,Yes,Ongar,Dublin 15,q4,80%
+28/03/2017,"5 The Avenue, Ongar, Dublin 15",Dublin,221000.0,No,Ongar,Dublin 15,q3,60%
+04/04/2017,"12 The Crescent, Ongar Village, Dublin 15",Dublin,135000.0,No,Ongar,Dublin 15,q1,20%
+10/04/2017,"20 Stralem Terrace, Ongar Wood, Ongar Dublin 15",Dublin,252000.0,No,Ongar,Dublin 15,q4,80%
+12/04/2017,"9 Stralem Court, Ongar, Dublin 15",Dublin,156000.0,No,Ongar,Dublin 15,q1,30%
+19/04/2017,"23 Lilys Way, Ongar Green, Ongar Dublin 15",Dublin,125000.0,No,Ongar,Dublin 15,q1,20%
+09/05/2017,"5 Hayworth Place, Ongar Park, Dublin 15",Dublin,167500.0,No,Ongar,Dublin 15,q2,40%
+19/05/2017,"23 The Avenue, Hansfield Wood, Ongar",Dublin,334800.0,Yes,Ongar,Dublin 15,q4,90%
+30/05/2017,"28 Delhurst Mews, Ongar Park, Dublin 15",Dublin,242000.0,No,Ongar,Dublin 15,q3,80%
+09/06/2017,"6 Main St, Ongar Village, Ongar Dublin 15",Dublin,235000.0,No,Ongar,Dublin 15,q3,70%
+16/06/2017,"11 Annally Dr, Ongar Wood, Dublin",Dublin,161000.0,No,Ongar,Dublin 15,q2,30%
+23/06/2017,"17 Blackwood Crescent, Ongar Chase, Ongar Dublin 15",Dublin,540000.0,No,Ongar,Dublin 15,q4,100%
+26/06/2017,"16 Blackwood Dr, Ongar Chase, Ongar Dublin 15",Dublin,550000.0,No,Ongar,Dublin 15,q4,100%
+30/06/2017,"8A Willans Way, Ongar, Dublin 15",Dublin,178000.0,No,Ongar,Dublin 15,q2,40%
+10/07/2017,"22 Main St, Ongar Village, Dublin 15",Dublin,216000.0,No,Ongar,Dublin 15,q3,60%
+20/07/2017,"20 Hayworth Mews, Ongar Park, Dublin",Dublin,221000.0,No,Ongar,Dublin 15,q3,60%
+26/07/2017,"22 Hayworth Mews, Ongar, Dublin 15",Dublin,227000.0,No,Ongar,Dublin 15,q3,70%
+31/07/2017,"9 Blackwood Lawn, Ongar Chase, Dublin 15",Dublin,565500.0,No,Ongar,Dublin 15,q4,100%
+04/08/2017,"7 The Cresent, Ongar Village, Ongar",Dublin,220000.0,No,Ongar,Dublin 15,q3,60%
+17/08/2017,"24 Lilys Court, Ongar Dublin 15, Dublin",Dublin,175000.0,No,Ongar,Dublin 15,q2,40%
+04/09/2017,"20 Delhurst Mews, Ongar Wood Clonee, Dublin 15",Dublin,262000.0,No,Ongar,Dublin 15,q4,80%
+05/09/2017,"2 Willans Drive, Ongar Village, Dublin 15",Dublin,236000.0,No,Ongar,Dublin 15,q3,70%
+18/09/2017,"3 Annaly Dr, Ongar, Dublin 15",Dublin,241000.0,No,Ongar,Dublin 15,q3,80%
+19/09/2017,"29 The Crescent, Ongar Village, Dublin 15",Dublin,217000.0,No,Ongar,Dublin 15,q3,60%
+22/09/2017,"31 Annaly Terrace, Ongar, Dublin 15",Dublin,246000.0,No,Ongar,Dublin 15,q3,80%
+02/10/2017,"40 Delhurst Terrace, Ongar, Dublin 15",Dublin,248000.0,No,Ongar,Dublin 15,q4,80%
+05/10/2017,"5 Barnwell Terrace, Hansfield, Ongar Dublin 15",Dublin,275000.0,No,Ongar,Dublin 15,q4,90%
+31/10/2017,"3 Barnwell Close, Ongar, Dublin 15",Dublin,267000.0,No,Ongar,Dublin 15,q4,90%
+01/11/2017,"8 Barnwell Heath, Ongar, Dublin 15",Dublin,233480.18,Yes,Ongar,Dublin 15,q3,70%
+03/11/2017,"2 Willans Grove South, Ongar Green, Dublin 15",Dublin,185000.0,No,Ongar,Dublin 15,q2,40%
+03/11/2017,"58 Lilys Way, Ongar Green, Ongar Dublin 15",Dublin,161000.0,No,Ongar,Dublin 15,q2,30%
+07/11/2017,"6 Stralem Crescent, Ongar Wood, Dublin 15",Dublin,243000.0,No,Ongar,Dublin 15,q3,80%
+17/11/2017,"20 Blackwood Crescent, Ongar Chase, Ongar Dublin 15",Dublin,560000.0,No,Ongar,Dublin 15,q4,100%
+24/11/2017,"2 Manor Place, Ongar Village, Dublin 15",Dublin,202000.0,No,Ongar,Dublin 15,q2,50%
+13/12/2017,"3 Delhurst Lane, Ongar, Dublin 15",Dublin,185000.0,No,Ongar,Dublin 15,q2,50%
+14/12/2017,"8 Blackwood Park, Ongar, Dublin 15",Dublin,532000.0,No,Ongar,Dublin 15,q4,100%
+19/12/2017,"9 Barnwell Ave, Barnwell Hansfield, Ongar Dublin 15",Dublin,133750.0,No,Ongar,Dublin 15,q1,20%
+20/12/2017,"30 Stralem Mews Ongar, Dublin 15, Dublin",Dublin,180000.0,No,Ongar,Dublin 15,q2,40%
+20/12/2017,"8 The Stables, Ongar Village, Dublin 15",Dublin,247000.0,No,Ongar,Dublin 15,q4,80%
+21/12/2017,"37 The Crescent, Ongar Village, Dublin 15",Dublin,243000.0,No,Ongar,Dublin 15,q3,80%
+21/12/2017,"Apt 26 Block 4 Annaly Grove, Ongar Lodge, Ongar",Dublin,165000.0,No,Ongar,Dublin 15,q2,40%
+04/01/2018,"1 Park House, Willans Dr, Ongar Green Dublin 15",Dublin,143000.0,No,Ongar,Dublin 15,q1,20%
+15/01/2018,"4 Barnwell Green, Barnwell Hansfield, Ongar Dublin 15",Dublin,300000.0,No,Ongar,Dublin 15,q4,90%
+09/02/2018,"18 Annaly Grove, Ongar Lodge, Ongar",Dublin,190000.0,No,Ongar,Dublin 15,q2,50%
+26/02/2018,"2 Manor House, Willans Dr, Ongar Green Dublin 15",Dublin,154000.0,No,Ongar,Dublin 15,q1,30%
+27/02/2018,"26 Lilys Way, Ongar, Dublin 15",Dublin,232000.0,No,Ongar,Dublin 15,q3,70%
+06/03/2018,"12 Whatley Hall, Ongar, Dublin 15",Dublin,195000.0,No,Ongar,Dublin 15,q2,50%
+06/03/2018,"27 Annaly Terrace, Ongarwood, Ongar Dublin 15",Dublin,268000.0,No,Ongar,Dublin 15,q4,90%
+08/03/2018,"31 Hayworth Mews, Ongar, Dublin 15",Dublin,290000.0,No,Ongar,Dublin 15,q4,90%
+16/03/2018,"2 Willans Place East, Ongar Green, Ongar",Dublin,180000.0,No,Ongar,Dublin 15,q2,40%
+20/03/2018,"3 Manor Place, Ongar Village, Dublin 15",Dublin,184512.0,No,Ongar,Dublin 15,q2,40%
+28/03/2018,"4 Stralem Terrace, Ongar Wood, Dublin 15",Dublin,195000.0,No,Ongar,Dublin 15,q2,50%
+28/03/2018,"Apt 26 Block 4 Annaly Grove, Ongar Lodge, Ongar",Dublin,239000.0,No,Ongar,Dublin 15,q3,70%
+29/03/2018,"37 Barnwell Place, Barnwell Hansfield, Ongar Dublin 15",Dublin,220000.0,No,Ongar,Dublin 15,q3,60%
+05/04/2018,"29 Park Crescent, Hansfield, Ongar",Dublin,286344.0,Yes,Ongar,Dublin 15,q4,90%
+20/04/2018,"33 Annaly Tce, Ongar Wood, Dublin 15",Dublin,235000.0,No,Ongar,Dublin 15,q3,70%
+20/04/2018,"4 Annaly Terrace, Ongar Green, Ongar Dublin 15",Dublin,210000.0,No,Ongar,Dublin 15,q3,60%
+26/04/2018,"18 Hayworth Mews, Ongar Park, Dublin 15",Dublin,225000.0,No,Ongar,Dublin 15,q3,70%
+30/04/2018,"33 North St, Ongar Village, Dublin 15",Dublin,150000.0,No,Ongar,Dublin 15,q1,30%
+15/05/2018,"32 Castlegrange Park, Castaheany, Ongar Dublin 15",Dublin,270000.0,No,Ongar,Dublin 15,q4,90%
+21/05/2018,"2 Blackwood Crescent, Ongar Chase, Dublin 15",Dublin,505000.0,No,Ongar,Dublin 15,q4,100%
+22/05/2018,"38 Ongar Sq, Ongar, Dublin 15",Dublin,230000.0,No,Ongar,Dublin 15,q3,70%
+23/05/2018,"21E Willans Way, Ongar, Dublin 15",Dublin,190000.0,No,Ongar,Dublin 15,q2,50%
+01/06/2018,"9 Hayworth Close, Ongar, Dublin 15",Dublin,160000.0,No,Ongar,Dublin 15,q2,30%
+12/06/2018,"11 Stralem Crescent, Ongar Village, Dublin 15",Dublin,239000.0,No,Ongar,Dublin 15,q3,80%
+15/06/2018,"3 The Avenue, Ongar Village, Dublin 15",Dublin,225000.0,No,Ongar,Dublin 15,q3,70%
+22/06/2018,"57 Hayworth Terrace, Ongar, Dublin 15",Dublin,246000.0,No,Ongar,Dublin 15,q3,80%
+29/06/2018,"1 Barnwell Green, Ongar, Dublin 15",Dublin,280000.0,No,Ongar,Dublin 15,q4,90%
+02/07/2018,"23 Willans Dr, Ongar, Dublin 15",Dublin,268500.0,No,Ongar,Dublin 15,q4,90%
+10/07/2018,"6 Barnwell Way, Barnwell Hansfield, Ongar Dublin 15",Dublin,275000.0,No,Ongar,Dublin 15,q4,90%
+01/08/2018,"51 The Cresent, Ongar Villiage, Ongar Dublin 15",Dublin,240000.0,No,Ongar,Dublin 15,q3,80%
+03/08/2018,"20 Manor Place, Ongar, Dublin 15",Dublin,157000.0,No,Ongar,Dublin 15,q2,30%
+16/08/2018,"1 Delhurst Ave, Ongar, Dublin 15",Dublin,210000.0,No,Ongar,Dublin 15,q3,60%
+22/08/2018,"28 Annaly Terrace, Ongar, Dublin",Dublin,235000.0,No,Ongar,Dublin 15,q3,70%
+24/08/2018,"15 Blackwood Lawn, Ongar Chase, Dublin 15",Dublin,555000.0,No,Ongar,Dublin 15,q4,100%
+31/08/2018,"Apt 65, Annaly Grove, Ongar Village Dublin 15",Dublin,197000.0,No,Ongar,Dublin 15,q2,50%
+06/09/2018,"28 The Crescent, Ongar Village, Dublin 15",Dublin,160000.0,No,Ongar,Dublin 15,q2,30%
+14/09/2018,"6 Park Crescent, Hansfield Wood, Ongar",Dublin,339207.0,Yes,Ongar,Dublin 15,q4,90%
+23/10/2018,"Apt 15, Manor Place, Ongar Village Dublin 15",Dublin,185000.0,No,Ongar,Dublin 15,q2,50%
+25/10/2018,"35 Delhurst Ave, Ongar Village, Dublin 15",Dublin,224000.0,No,Ongar,Dublin 15,q3,70%
+01/11/2018,"1 The Paddocks, Ongar Village, Dublin 15",Dublin,199950.0,No,Ongar,Dublin 15,q2,50%
+02/11/2018,"23 Annaly Terrace, Ongar, Dublin 15",Dublin,230000.0,No,Ongar,Dublin 15,q3,70%
+13/11/2018,"17C, Main St, Ongar Village Dublin 15",Dublin,180000.0,No,Ongar,Dublin 15,q2,40%
+13/11/2018,"22 Delhurst Terrace, Ongar Park, Dublin 15",Dublin,237000.0,No,Ongar,Dublin 15,q3,70%
+15/11/2018,"7 Stralem Terrace, Ongar Wood, Dublin 15",Dublin,365000.0,No,Ongar,Dublin 15,q4,100%
+19/11/2018,"10 Manor Place, Ongar, Dublin 15",Dublin,199950.0,No,Ongar,Dublin 15,q2,50%
+19/11/2018,"34 Delhurst Terrace, Ongar Park, Ongar Village Dublin 15",Dublin,255000.0,No,Ongar,Dublin 15,q4,80%
+20/11/2018,"44 Delhurst Ave, Ongar Park, Dublin 15",Dublin,185000.0,No,Ongar,Dublin 15,q2,50%
+21/11/2018,"17 Hayworth Terrace, Ongar Village, Dublin 15",Dublin,203000.0,No,Ongar,Dublin 15,q2,50%
+22/11/2018,"4 Delhurst Lane, Ongar Park, Dublin",Dublin,195000.0,No,Ongar,Dublin 15,q2,50%
+27/11/2018,"10 The Mall, Ongar Village, Dublin 15",Dublin,190000.0,No,Ongar,Dublin 15,q2,50%
+27/11/2018,"30 Delhurst Mews, Ongar Park, Ongar",Dublin,217500.0,No,Ongar,Dublin 15,q3,60%
+29/11/2018,"64 Ongar Lodge, Annaly Grove, Ongar Village",Dublin,195000.0,No,Ongar,Dublin 15,q2,50%
+05/12/2018,"17 Williams Row, Ongar Green, Ongar Dublin",Dublin,275000.0,No,Ongar,Dublin 15,q4,90%
+10/12/2018,"12 Lilys Way, Ongar Green, Dublin 15",Dublin,294000.0,No,Ongar,Dublin 15,q4,90%
+10/12/2018,"9 The Stables, Ongar Village, Dublin 15",Dublin,203000.0,No,Ongar,Dublin 15,q3,60%
+04/01/2019,"5 Barnwell Close, Ongar, Dublin 15",Dublin,320000.0,No,Ongar,Dublin 15,q4,90%
+10/01/2019,"47 Delhurst Terrace, Ongar Park, Dublin 15",Dublin,275000.0,No,Ongar,Dublin 15,q4,90%
+17/01/2019,"Apartment 27, Ongar Lodge, Ongar",Dublin,248000.0,No,Ongar,Dublin 15,q4,80%
+24/01/2019,"38 Lilys Way, Ongar, Dublin 15",Dublin,246000.0,No,Ongar,Dublin 15,q3,80%
+28/01/2019,"16 Willams Ave, Ongar Green, Dublin 15",Dublin,291000.0,No,Ongar,Dublin 15,q4,90%
+28/01/2019,"30 Hayworth Terrace, Ongar, Dublin 15",Dublin,197000.0,No,Ongar,Dublin 15,q2,50%
+06/02/2019,"10B North St, Ongar, Dublin 15",Dublin,204000.0,No,Ongar,Dublin 15,q3,60%
+13/02/2019,"11 North St, Ongar Village, Dublin 15",Dublin,225000.0,No,Ongar,Dublin 15,q3,70%
+22/02/2019,"10 Phibblestown Wood, Ongar, Dublin 15",Dublin,255000.0,No,Ongar,Dublin 15,q4,80%
+25/03/2019,"26 Delhurst Ave Ongar, Ongar Park Dublin 15, Dublin",Dublin,382000.0,No,Ongar,Dublin 15,q4,100%
+27/03/2019,"12 Delhurst Court, Ongar Park, Dublin 15",Dublin,194000.0,No,Ongar,Dublin 15,q2,50%
+17/04/2019,"8 The Paddocks, Ongar Village, Ongar",Dublin,205000.0,No,Ongar,Dublin 15,q3,60%
+24/04/2019,"9 Willans Row, Ongar Green, Dublin 15",Dublin,218000.0,No,Ongar,Dublin 15,q3,60%
+26/04/2019,"18 Willans Dr, Ongar Green, Ongar Dublin 15",Dublin,245000.0,No,Ongar,Dublin 15,q3,80%
+08/05/2019,"Apt 2, Annaly Close, Ongar",Dublin,211000.0,No,Ongar,Dublin 15,q3,60%
+16/05/2019,"10 Delhurst Ave, Ongar Park, Dublin 15",Dublin,240000.0,No,Ongar,Dublin 15,q3,80%
+28/05/2019,"3 Stralem Court, Ongar Park, Dublin 15",Dublin,195000.0,No,Ongar,Dublin 15,q2,50%
+06/06/2019,"10D North St, Ongar Village, Dublin 15",Dublin,210000.0,No,Ongar,Dublin 15,q3,60%
+06/06/2019,"16 Hayworth Rise, Ongar, Dublin 15",Dublin,247000.0,No,Ongar,Dublin 15,q4,80%
+07/06/2019,"36 The Crescent, Ongar Village, Dublin 15",Dublin,153000.0,No,Ongar,Dublin 15,q1,30%
+10/06/2019,"88 Ongar Lodge, Annaly Grove, Ongar Dublin 15",Dublin,165000.0,No,Ongar,Dublin 15,q2,40%
+12/06/2019,"14 Willans Ave, Ongar Green, Dublin 15",Dublin,280000.0,No,Ongar,Dublin 15,q4,90%
+21/06/2019,"6 The Crescent, Ongar Village, Dublin 15",Dublin,171000.0,No,Ongar,Dublin 15,q2,40%
+24/06/2019,"10 Manor House, Willans Dr, Ongar Village",Dublin,170000.0,No,Ongar,Dublin 15,q2,40%
+27/06/2019,"17B Ongar Sq, Ongar, Dublin 15",Dublin,200000.0,No,Ongar,Dublin 15,q2,50%
+28/06/2019,"35 Hayworth Terrace, Ongar Park, Ongar Dublin 15",Dublin,250000.0,No,Ongar,Dublin 15,q4,80%
+05/07/2019,"30F Willians Way, Ongar Sq, Ongar",Dublin,200000.0,No,Ongar,Dublin 15,q2,50%
+17/07/2019,"21C Willans Way, Ongar, Dublin 15",Dublin,220000.0,No,Ongar,Dublin 15,q3,60%
+17/07/2019,"Apt 85, Annaly Grove, Ongar Dublin 15",Dublin,190000.0,No,Ongar,Dublin 15,q2,50%
+18/07/2019,"2 Blackwood Lawn, Ongar Chase, Dublin 15",Dublin,530000.0,No,Ongar,Dublin 15,q4,100%
+26/07/2019,"22 Delhurst Auenue, Ongar, Dublin 15",Dublin,291000.0,No,Ongar,Dublin 15,q4,90%
+29/07/2019,"14 Lilys Court, Lilys Way, Ongar Village Dublin 15",Dublin,251000.0,No,Ongar,Dublin 15,q4,80%
+29/07/2019,"5 Stralem Court, Onger Park, Ongar",Dublin,197000.0,No,Ongar,Dublin 15,q2,50%
+30/07/2019,"10 Hayworth Mews, Ongar, Dublin 15",Dublin,291000.0,No,Ongar,Dublin 15,q4,90%
+16/08/2019,"6 North St, Ongar Village, Dublin 15",Dublin,259000.0,No,Ongar,Dublin 15,q4,80%
+16/08/2019,"Apt 26  Block 7, Annally Grove, Ongar Lodge",Dublin,220000.0,No,Ongar,Dublin 15,q3,60%
+23/08/2019,"2 Willans Row, Ongar Green, Ongar Dublin 15",Dublin,160000.0,No,Ongar,Dublin 15,q2,30%
+23/08/2019,"96 Annaly Grove, Ongar Lodge, Ongar Dublin 15",Dublin,248500.0,No,Ongar,Dublin 15,q4,80%
+02/09/2019,"Apt 5, Block 1 Annaly Grove, Ongar Lodge",Dublin,179000.0,No,Ongar,Dublin 15,q2,40%
+12/09/2019,"26 Stralem Mews, Ongar, Dublin 15",Dublin,137709.0,No,Ongar,Dublin 15,q1,20%
+20/09/2019,"13 Annaly Ct, Ongar Wood, Dublin 15",Dublin,200000.0,No,Ongar,Dublin 15,q2,50%
+23/09/2019,"31 The Crescent, Ongar Village, Dublin 15",Dublin,232000.0,No,Ongar,Dublin 15,q3,70%
+24/09/2019,"26 Hayworth Terrace, Ongar Park, Dublin 15",Dublin,165000.0,No,Ongar,Dublin 15,q2,40%
+26/09/2019,"65 Hayworth Terrace, Ongar Park, Ongar Village",Dublin,157000.0,No,Ongar,Dublin 15,q2,30%
+02/10/2019,"10 Stralem Grove, Ongar, Dublin 15",Dublin,167000.0,No,Ongar,Dublin 15,q2,40%
+03/10/2019,"15 Delhurst Avenue, Ongar Village, Dublin 15",Dublin,286000.0,No,Ongar,Dublin 15,q4,90%
+07/10/2019,"29 Stralem Terrace, Ongar Village, Dublin 15",Dublin,245000.0,No,Ongar,Dublin 15,q3,80%
+09/10/2019,"44 Delhurst Ave, Ongar Park, Dublin 15",Dublin,240000.0,No,Ongar,Dublin 15,q3,80%
+11/10/2019,"13 Stralem Mews, Ongar, Dublin 15",Dublin,270000.0,No,Ongar,Dublin 15,q4,90%

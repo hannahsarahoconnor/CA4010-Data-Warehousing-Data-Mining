@@ -1,0 +1,482 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+13/06/2010,"12 Drynam Walk, Drynam Hall, Kettles Lane  Kinsealy",Dublin,279000.0,Yes,Kinsealy,Co. Dublin,q2,40%
+18/06/2010,"22 Myra Manor, Kinsealy",Dublin,1162995.59,Yes,Kinsealy,Co. Dublin,q4,100%
+09/07/2010,"20 Birchdale Close, Kinsealy",Dublin,270000.0,No,Kinsealy,Co. Dublin,q2,30%
+15/07/2010,"20 The Villa, Melrose Park, Kinsealy",Dublin,270000.0,No,Kinsealy,Co. Dublin,q2,30%
+19/07/2010,"15 Aspen Drive, Kinsealy, Dublin",Dublin,285000.0,No,Kinsealy,Co. Dublin,q2,40%
+22/07/2010,"19 Mount Drinan Grove, Kinsealy Downs, Kinsealy",Dublin,231000.0,No,Kinsealy,Co. Dublin,q1,20%
+30/07/2010,"27 Abby Well, Chapel Road, Kinsealy",Dublin,320000.0,No,Kinsealy,Co. Dublin,q3,60%
+03/09/2010,"19 Birchdale Park, Kinsealy Court, Kinsealy",Dublin,240000.0,No,Kinsealy,Co. Dublin,q1,30%
+27/09/2010,"15 Ashgrove, Baskin Lane, Kinsealy",Dublin,255000.0,No,Kinsealy,Co. Dublin,q2,30%
+27/09/2010,"37 St. Olave'S, Malahide Road, Kinsealy",Dublin,178414.1,Yes,Kinsealy,Co. Dublin,q1,10%
+30/09/2010,"24 St Olaves, Malahide Road, Kinsealy",Dublin,215000.0,Yes,Kinsealy,Co. Dublin,q1,20%
+13/12/2010,"45 St Olaves, Kinsealy, Co. Dublin",Dublin,237006.0,Yes,Kinsealy,Co. Dublin,q1,20%
+17/12/2010,"54 Abbeywell, Chapel Road, Kinsealy",Dublin,355000.0,No,Kinsealy,Co. Dublin,q3,80%
+31/01/2011,"1A Mount Drinan Grove, Kinsealy Downs, Kinsealy",Dublin,240000.0,No,Kinsealy,Co. Dublin,q1,30%
+04/02/2011,"33 St. Olave'S, Malahide Road, Kinsealy",Dublin,194000.0,Yes,Kinsealy,Co. Dublin,q1,20%
+06/04/2011,"30 The Grove, Melrose Park, Kinsealy",Dublin,235000.0,No,Kinsealy,Co. Dublin,q1,20%
+12/04/2011,"Westbrook House, Kinsealy",Dublin,1140000.0,No,Kinsealy,Co. Dublin,q4,100%
+10/05/2011,"25 Baskin Cottages, Kinsealy",Dublin,192000.0,No,Kinsealy,Co. Dublin,q1,20%
+13/05/2011,"21 The Rise, Melrose Park, Kinsealy",Dublin,245000.0,No,Kinsealy,Co. Dublin,q1,30%
+05/07/2011,"24 The Green, Melrose Park, Kinsealy",Dublin,120000.0,No,Kinsealy,Co. Dublin,q1,10%
+19/07/2011,"12 Birchdale Close, Kinsealy, County Dublin",Dublin,48544.03,No,Kinsealy,Co. Dublin,q1,10%
+29/07/2011,"4B Baskin Lane, Kinsealy",Dublin,785000.0,No,Kinsealy,Co. Dublin,q4,100%
+18/08/2011,"2, St. Olaves, Kinsealy",Dublin,190000.0,No,Kinsealy,Co. Dublin,q1,20%
+07/12/2011,"2A Mount Drinan Avenue, Kinsealy",Dublin,205000.0,No,Kinsealy,Co. Dublin,q1,20%
+16/12/2011,"5  The Drive, Melrose Park, Kinsealy",Dublin,175000.0,No,Kinsealy,Co. Dublin,q1,10%
+27/01/2012,"4 The Grove, Melrose Park, Kinsealy",Dublin,185000.0,No,Kinsealy,Co. Dublin,q1,10%
+26/03/2012,"13 The Avenue, Melrose Park, Kinsealy",Dublin,156000.0,No,Kinsealy,Co. Dublin,q1,10%
+30/03/2012,"70 Drynam Avenue, Kinsealy",Dublin,138000.0,No,Kinsealy,Co. Dublin,q1,10%
+04/05/2012,"16 Birchdale Road, Kinsealy Court",Dublin,172500.0,No,Kinsealy,Co. Dublin,q1,10%
+07/06/2012,"5 Birchdale Park, Kinsealy",Dublin,176000.0,No,Kinsealy,Co. Dublin,q1,10%
+19/06/2012,"1 Kinsealy Cottages, Kinsealy",Dublin,213000.0,No,Kinsealy,Co. Dublin,q1,20%
+30/07/2012,"30 Drynam Drive, Drynam Hall, Kinsealy",Dublin,182000.0,No,Kinsealy,Co. Dublin,q1,10%
+15/08/2012,"1 Birchdale Road, Kinsealy, County Dublin",Dublin,190000.0,No,Kinsealy,Co. Dublin,q1,20%
+16/08/2012,"24 Baskin Cottages, Kinsealy, Cloghran",Dublin,235000.0,No,Kinsealy,Co. Dublin,q1,20%
+30/08/2012,"9 Aspen Road, Kinsealy",Dublin,145000.0,No,Kinsealy,Co. Dublin,q1,10%
+05/09/2012,"51 The Heights, Melrose Park, Kinsealy",Dublin,183000.0,No,Kinsealy,Co. Dublin,q1,10%
+12/10/2012,"1 The Villa, Melrose Park, Kinsealy",Dublin,150000.0,No,Kinsealy,Co. Dublin,q1,10%
+23/10/2012,"24  The Grove, Melrose Park, Kinsealy",Dublin,163900.0,No,Kinsealy,Co. Dublin,q1,10%
+21/11/2012,"11 The Green, Melrose Park, Kinsealy",Dublin,180000.0,No,Kinsealy,Co. Dublin,q1,10%
+06/02/2013,"1A Mount Drinan Park, Kinsealy",Dublin,155000.0,No,Kinsealy,Co. Dublin,q1,10%
+26/02/2013,"18 Myra Manor, Kinsealy, Co Dublin",Dublin,975000.0,No,Kinsealy,Co. Dublin,q4,100%
+04/03/2013,"36 Abbeywell, Kinsealy, County Dublin",Dublin,250000.0,No,Kinsealy,Co. Dublin,q1,30%
+06/03/2013,"64 Drynam Drive, Drynam Hall, Kinsealy",Dublin,175000.0,No,Kinsealy,Co. Dublin,q1,10%
+08/03/2013,"64  Mount Drinan Avenue, Kinsealy",Dublin,170000.0,No,Kinsealy,Co. Dublin,q1,10%
+26/04/2013,"52 Holywell Avenue, Kinsealy, Co. Dublin",Dublin,100000.0,No,Kinsealy,Co. Dublin,q1,10%
+09/05/2013,"14 The Villa, Melrose Park, Kinsealy",Dublin,152500.0,No,Kinsealy,Co. Dublin,q1,10%
+10/05/2013,"21 Drynam Grove, Kinsealy",Dublin,206000.0,No,Kinsealy,Co. Dublin,q1,20%
+24/05/2013,"22 The Heights, Kinsealy",Dublin,170000.0,No,Kinsealy,Co. Dublin,q1,10%
+03/07/2013,"9 Mount Drinan Walk, Kinsealy",Dublin,160000.0,No,Kinsealy,Co. Dublin,q1,10%
+06/08/2013,"15 Birchdale Park, Kinsealy Cout, Kinsealy",Dublin,191000.0,No,Kinsealy,Co. Dublin,q1,20%
+06/08/2013,"Leafield, Feltrim Cross, Kinsealy",Dublin,680000.0,No,Kinsealy,Co. Dublin,q4,100%
+02/09/2013,"Four Seasons, Malahide Road, Kinsealy",Dublin,950000.0,No,Kinsealy,Co. Dublin,q4,100%
+03/09/2013,"51 Mount Drinan Avenue, Kinsealy",Dublin,139000.0,No,Kinsealy,Co. Dublin,q1,10%
+03/09/2013,"Westbrook House, Malahide Road, Kinsealy",Dublin,1050000.0,No,Kinsealy,Co. Dublin,q4,100%
+22/10/2013,"11 Connolly Avenue, Kinsealy",Dublin,315000.0,No,Kinsealy,Co. Dublin,q3,60%
+31/10/2013,"19 Sleepy Hollow, Kinsealy Lane",Dublin,386178.86,Yes,Kinsealy,Co. Dublin,q4,80%
+08/11/2013,"2 Ashgrove, Baskin Lane, Kinsealy",Dublin,350000.0,No,Kinsealy,Co. Dublin,q3,70%
+27/11/2013,"2 Mount Drinan Park, Kinsealy",Dublin,155000.0,No,Kinsealy,Co. Dublin,q1,10%
+27/11/2013,"Hillview House, Posey Row, Kinsealy",Dublin,151500.0,No,Kinsealy,Co. Dublin,q1,10%
+29/11/2013,"Ellismore House, Malahide Road, Kinsealy",Dublin,1150000.0,No,Kinsealy,Co. Dublin,q4,100%
+05/12/2013,"7 8 20 And 37 Abbeywell, Kinsealy, County Dublin",Dublin,1130000.0,No,Kinsealy,Co. Dublin,q4,100%
+16/12/2013,"23 Drynam Grove, Drynam Hall, Kinsealy",Dublin,250000.0,No,Kinsealy,Co. Dublin,q1,30%
+18/12/2013,"21 Drynam Crescent, Drynam Hall, Kinsealy",Dublin,249000.0,No,Kinsealy,Co. Dublin,q1,30%
+20/12/2013,"22 Myra Manor, Kinsealy, Co. Dublin",Dublin,900000.0,No,Kinsealy,Co. Dublin,q4,100%
+20/01/2014,"48 Holywell Ave, Kinsealy, Dublin",Dublin,115000.0,No,Kinsealy,Co. Dublin,q1,10%
+07/02/2014,"23 Abby Well, Chapel Rd, Kinsealy",Dublin,360000.0,No,Kinsealy,Co. Dublin,q3,80%
+07/02/2014,"26 The Green, Melrose Park, Kinsealy",Dublin,185000.0,No,Kinsealy,Co. Dublin,q1,10%
+12/02/2014,"22 Russell Terrace, Kettles Lane, Kinsealy",Dublin,110000.0,No,Kinsealy,Co. Dublin,q1,10%
+07/04/2014,"21 Birchdale Rd, Kinsealy Court, Kinsealy",Dublin,185000.0,No,Kinsealy,Co. Dublin,q1,10%
+10/04/2014,"40 Russell Terrace, Kettles Lane, Kinsealy",Dublin,120000.0,No,Kinsealy,Co. Dublin,q1,10%
+23/04/2014,"1A The Crescent, Melrose Park, Kinsealy",Dublin,210000.0,No,Kinsealy,Co. Dublin,q1,20%
+23/05/2014,"2 St Olaves, Malahide Rd, Kinsealy",Dublin,210000.0,No,Kinsealy,Co. Dublin,q1,20%
+23/05/2014,"30 Abby Well, Kinsealy, Dublin",Dublin,328000.0,No,Kinsealy,Co. Dublin,q3,70%
+09/06/2014,"53 Drynam Dr, Drynam Hall, Kinsealy",Dublin,207000.0,No,Kinsealy,Co. Dublin,q1,20%
+11/06/2014,"22A The Heights, Melrose Park, Kinsealy",Dublin,173000.0,No,Kinsealy,Co. Dublin,q1,10%
+20/06/2014,"55 Holywell Way, Gorsehill, Kinsealy",Dublin,157000.0,No,Kinsealy,Co. Dublin,q1,10%
+27/06/2014,"Emsworth, Kinsealy",Dublin,1425000.0,No,Kinsealy,Co. Dublin,q4,100%
+01/08/2014,"18 Myra Manor, Kinsealy",Dublin,1481500.0,No,Kinsealy,Co. Dublin,q4,100%
+14/08/2014,"4 Drynam Place, Kinsealy, Dublin",Dublin,210000.0,No,Kinsealy,Co. Dublin,q1,20%
+20/08/2014,"53 Drynham Hall, Kilmore, Kinsealy",Dublin,149000.0,No,Kinsealy,Co. Dublin,q1,10%
+21/08/2014,"45 Drynam Dr, Drynam Hall, Kinsealy",Dublin,290000.0,No,Kinsealy,Co. Dublin,q2,50%
+29/08/2014,"15 The Drive, Melrose Park, Kinsealy",Dublin,270000.0,No,Kinsealy,Co. Dublin,q2,30%
+09/09/2014,"13 Drynam Crescent Drynam Hall, Kinsealy, Dublin",Dublin,285000.0,No,Kinsealy,Co. Dublin,q2,40%
+10/09/2014,"17 Aspen Rd Kinsealy Court, Kinsealy, Dublin",Dublin,256000.0,No,Kinsealy,Co. Dublin,q2,30%
+12/09/2014,"58 The Green, Melrose Park, Kinsealy",Dublin,245000.0,No,Kinsealy,Co. Dublin,q1,30%
+03/10/2014,"34 Ashgrove, Baskin, Kinsealy",Dublin,330000.0,No,Kinsealy,Co. Dublin,q3,70%
+31/10/2014,"2 Drynam Ave, Kettles Lane, Kinsealy",Dublin,200000.0,No,Kinsealy,Co. Dublin,q1,20%
+14/11/2014,"31 St Olaves, Kinsealy, Dublin",Dublin,240000.0,No,Kinsealy,Co. Dublin,q1,30%
+21/11/2014,"32 Drynam View, Kinsealy, Dublin",Dublin,247500.0,No,Kinsealy,Co. Dublin,q1,30%
+28/11/2014,"2 Drynam Grove, Drynam Hall, Kinsealy",Dublin,300000.0,No,Kinsealy,Co. Dublin,q2,50%
+03/12/2014,"15 The Heights, Melrose Park, Kinsealy",Dublin,262500.0,No,Kinsealy,Co. Dublin,q2,30%
+11/12/2014,"1A Mount Drinan Grove, Kinsealy Downs, Dublin",Dublin,245000.0,No,Kinsealy,Co. Dublin,q1,30%
+11/12/2014,"30 The Drive, Melrose Park, Kinsealy",Dublin,295000.0,No,Kinsealy,Co. Dublin,q2,50%
+18/12/2014,"17 Drynam Close, Kinsealy, Dublin",Dublin,327500.0,No,Kinsealy,Co. Dublin,q3,70%
+18/12/2014,"Apartment 72 Drynam House, Drynam Hall, Kinsealy",Dublin,160000.0,No,Kinsealy,Co. Dublin,q1,10%
+18/12/2014,"Apt 10 St Olaves, Kinsealy",Dublin,270000.0,No,Kinsealy,Co. Dublin,q2,30%
+19/12/2014,"2 Milesian Court, Kinsealy, Dublin",Dublin,305000.0,No,Kinsealy,Co. Dublin,q3,60%
+19/12/2014,"Bramley Wood, Kinsealy Lane, Kinsealy",Dublin,900000.0,No,Kinsealy,Co. Dublin,q4,100%
+22/12/2014,"28 Birchdale Road, Kinsealy Court, Kinsealy",Dublin,210679.0,No,Kinsealy,Co. Dublin,q1,20%
+22/12/2014,"Posey Row, Kinsealy, Dublin",Dublin,540438.0,No,Kinsealy,Co. Dublin,q4,90%
+09/01/2015,"6 Sleepy Hollow, Kinsealy, County Dublin",Dublin,614977.97,Yes,Kinsealy,Co. Dublin,q4,100%
+21/01/2015,"36 Russell Terrace, Kettles Lane, Kinsealy",Dublin,160000.0,No,Kinsealy,Co. Dublin,q1,10%
+04/02/2015,"10 The Avenue, Melrose Park, Kinsealy",Dublin,260278.0,No,Kinsealy,Co. Dublin,q2,30%
+04/02/2015,"Kinsealy House, Kinsealy, Dublin",Dublin,975000.0,No,Kinsealy,Co. Dublin,q4,100%
+06/02/2015,"109 Drynam Dr, Drynam Hall, Kinsealy",Dublin,200000.0,No,Kinsealy,Co. Dublin,q1,20%
+27/02/2015,"31 The Rise, Melrose Park, Kinsealy",Dublin,282500.0,No,Kinsealy,Co. Dublin,q2,40%
+05/03/2015,"24 Holywell Crescent North, Gorse Hill, Kinsealy",Dublin,200000.0,No,Kinsealy,Co. Dublin,q1,20%
+01/05/2015,"100 Talbot House, Drynam Hall, Kinsealy",Dublin,154000.0,No,Kinsealy,Co. Dublin,q1,10%
+14/05/2015,"25 Cooperswood, Kinsealy, Co Dublin",Dublin,374449.33,Yes,Kinsealy,Co. Dublin,q3,80%
+14/05/2015,"33 The Rise, Melrose Park, Kinsealy",Dublin,285000.0,No,Kinsealy,Co. Dublin,q2,40%
+19/05/2015,"34 Abbywell, Chapel Rd, Kinsealy",Dublin,253000.0,No,Kinsealy,Co. Dublin,q1,30%
+22/05/2015,"12 Coopers Wood, Kinsealy",Dublin,392070.48,Yes,Kinsealy,Co. Dublin,q4,80%
+22/05/2015,"9 Coopers Wood, Kinsealy",Dublin,383260.0,Yes,Kinsealy,Co. Dublin,q4,80%
+26/05/2015,"10 Coopers Wood, Chapel Road, Kinsealy",Dublin,383260.0,Yes,Kinsealy,Co. Dublin,q4,80%
+27/05/2015,"11 Coopers Wood, Kinsealy",Dublin,427312.78,Yes,Kinsealy,Co. Dublin,q4,90%
+18/06/2015,"13 Coopers Wood, Kinsealy, County Dublin",Dublin,400881.05,Yes,Kinsealy,Co. Dublin,q4,90%
+26/06/2015,"17 Mount Drinan Park, Kinsealy",Dublin,322000.0,No,Kinsealy,Co. Dublin,q3,70%
+09/07/2015,"26 Cooper'S Wood, Chapel Road, Kinsealy",Dublin,410875.0,Yes,Kinsealy,Co. Dublin,q4,90%
+24/07/2015,"15 Coopers Wood, Kinsealy",Dublin,400881.05,Yes,Kinsealy,Co. Dublin,q4,90%
+30/07/2015,"14 Coopers Woods, Kinsealy",Dublin,396475.77,Yes,Kinsealy,Co. Dublin,q4,90%
+30/07/2015,"72 Drynam Lane, Kinsealy, Co Dublin",Dublin,200000.0,No,Kinsealy,Co. Dublin,q1,20%
+30/07/2015,"The Gables, Kinsealy Lane, Kinsealy",Dublin,1500000.0,No,Kinsealy,Co. Dublin,q4,100%
+16/09/2015,"10 The Rise, Melrose Park, Kinsealy",Dublin,225000.0,No,Kinsealy,Co. Dublin,q1,20%
+18/09/2015,"18 Coopers Wood, Kinsealy",Dublin,387665.19,Yes,Kinsealy,Co. Dublin,q4,80%
+18/09/2015,"20 Coopers Wood, Chapel Road, Kinsealy",Dublin,374450.0,Yes,Kinsealy,Co. Dublin,q3,80%
+25/09/2015,"22 Ashdale Close, Kinsealy, Dublin",Dublin,130000.0,No,Kinsealy,Co. Dublin,q1,10%
+09/10/2015,"3 Holywell Ave Feltrim Hall, Kinsealy, Dublin",Dublin,257500.0,No,Kinsealy,Co. Dublin,q2,30%
+15/10/2015,"16 Cooperswood, Kinsealy",Dublin,431708.0,Yes,Kinsealy,Co. Dublin,q4,90%
+20/10/2015,"4 St Olaves, Kinsealy, Dublin",Dublin,245000.0,No,Kinsealy,Co. Dublin,q1,30%
+23/10/2015,"27 Drynham View, Drynam Hall, Kinsealy",Dublin,220000.0,No,Kinsealy,Co. Dublin,q1,20%
+02/11/2015,"36 Drynam Ave, Kettles Lane, Kinsealy",Dublin,197500.0,No,Kinsealy,Co. Dublin,q1,20%
+05/11/2015,"19 Drynam Dr, Kinsealy, Dublin",Dublin,210000.0,No,Kinsealy,Co. Dublin,q1,20%
+09/11/2015,"35 Drynam View, Kinsealy, Dublin",Dublin,290000.0,No,Kinsealy,Co. Dublin,q2,50%
+20/11/2015,"34 Castleway, Kinsealy, Co. Dublin",Dublin,643172.0,Yes,Kinsealy,Co. Dublin,q4,100%
+20/11/2015,"80 Drynam House, Kinsealy, Dublin",Dublin,140000.0,No,Kinsealy,Co. Dublin,q1,10%
+25/11/2015,"31 Coopers Wood, Chapel Road, Kinsealy",Dublin,460000.0,Yes,Kinsealy,Co. Dublin,q4,90%
+01/12/2015,"23 Drynam Sq, Drynam Hall, Kinsealy",Dublin,285000.0,No,Kinsealy,Co. Dublin,q2,50%
+08/12/2015,"25 Baskin Cottages, Baskin Lane, Kinsealy",Dublin,421000.0,No,Kinsealy,Co. Dublin,q4,90%
+08/12/2015,"5 Mount Drinan Grove, Kinsealy, Dublin",Dublin,240000.0,No,Kinsealy,Co. Dublin,q1,30%
+16/12/2015,"16 Milesian Grove, Old Malahide Rd, Kinsealy",Dublin,360000.0,No,Kinsealy,Co. Dublin,q3,80%
+18/12/2015,"19 Coopers Wood, Chapel Road, Kinsealy",Dublin,377973.0,Yes,Kinsealy,Co. Dublin,q4,80%
+07/01/2016,"30 Coopers Wood, Kinsealy",Dublin,405286.0,Yes,Kinsealy,Co. Dublin,q4,90%
+11/01/2016,"3 Cooper'S Wood, Kinsealy",Dublin,541000.0,Yes,Kinsealy,Co. Dublin,q4,100%
+14/01/2016,"71 The Heights, Melrose Park, Kinsealy",Dublin,240000.0,No,Kinsealy,Co. Dublin,q1,30%
+15/01/2016,"37 Drynam View, Drynam Hall, Kinsealy",Dublin,295000.0,No,Kinsealy,Co. Dublin,q2,50%
+20/01/2016,"9 The Drive, Melrose Park, Kinsealy",Dublin,290000.0,No,Kinsealy,Co. Dublin,q2,50%
+03/02/2016,"Springfield, Chapel Road, Kinsealy",Dublin,375000.0,No,Kinsealy,Co. Dublin,q3,80%
+05/02/2016,"10 Birchdale Close, Kinsealy Court, Kinsealy",Dublin,267000.0,No,Kinsealy,Co. Dublin,q2,30%
+05/02/2016,"3 Drynam Green, Drynam Hall, Kinsealy",Dublin,225000.0,No,Kinsealy,Co. Dublin,q1,20%
+25/02/2016,"28 Coopers Wood, Kinsealy, Co. Dublin",Dublin,387665.2,Yes,Kinsealy,Co. Dublin,q4,80%
+26/02/2016,"11 Ashdaleclose, Kinsealy Court, Kinsealy",Dublin,295000.0,No,Kinsealy,Co. Dublin,q2,50%
+29/02/2016,"47 Abbey Well, Chapel Rd, Kinsealy",Dublin,193000.0,No,Kinsealy,Co. Dublin,q1,20%
+07/03/2016,"2 Coopers Wood, Chapel Road, Kinsealy",Dublin,557522.12,Yes,Kinsealy,Co. Dublin,q4,100%
+14/03/2016,"12 Holywell Row, Kinsealy, Dublin",Dublin,248000.0,No,Kinsealy,Co. Dublin,q1,30%
+16/03/2016,"37 St Olaves, Malahide Rd, Kinsealy Dublin",Dublin,235000.0,No,Kinsealy,Co. Dublin,q1,20%
+30/03/2016,"Lui Na Greine, Baskin Lane, Kinsealy",Dublin,1075400.0,No,Kinsealy,Co. Dublin,q4,100%
+04/04/2016,"100 Talbot House, Drynam Hall, Kinsealy",Dublin,215000.0,No,Kinsealy,Co. Dublin,q1,20%
+18/04/2016,"52 Holywell View, Feltrim Hall, Kinsealy",Dublin,145000.0,No,Kinsealy,Co. Dublin,q1,10%
+22/04/2016,"33 Cooperswood, Kinsealy",Dublin,398678.0,Yes,Kinsealy,Co. Dublin,q4,90%
+25/04/2016,"8 Cooperswood, Chapel Road, Kinsealy",Dublin,530396.48,Yes,Kinsealy,Co. Dublin,q4,90%
+10/05/2016,"15 Myra Manor, Kinsealy, Co Dublin",Dublin,1000000.0,No,Kinsealy,Co. Dublin,q4,100%
+11/05/2016,"5 Holywell Close Gorsehill, Kinsealy, Dublin",Dublin,220000.0,No,Kinsealy,Co. Dublin,q1,20%
+16/05/2016,"5 Emsworth Park, Kinsealy",Dublin,647577.09,Yes,Kinsealy,Co. Dublin,q4,100%
+18/05/2016,"17 Cooper Wood, Kinsealy",Dublin,387665.0,Yes,Kinsealy,Co. Dublin,q4,80%
+25/05/2016,"13, Sleepy Hollow, Kinsealy Lane",Dublin,559832.0,Yes,Kinsealy,Co. Dublin,q4,100%
+26/05/2016,"1 Cooperswood, Kinsealy, County Dublin",Dublin,561674.0,Yes,Kinsealy,Co. Dublin,q4,100%
+26/05/2016,"37 Cooperswood, Kinsealy, Co Dublin",Dublin,382378.0,No,Kinsealy,Co. Dublin,q4,80%
+03/06/2016,"4 Coopers Wood, Chapel Road, Kinsealy",Dublin,544052.86,Yes,Kinsealy,Co. Dublin,q4,100%
+07/06/2016,"19 Drynam Sq, Kinsealy, Dublin",Dublin,295000.0,No,Kinsealy,Co. Dublin,q2,50%
+15/06/2016,"34 Coopers Wood, Kinsealy Lane",Dublin,395000.0,Yes,Kinsealy,Co. Dublin,q4,90%
+17/06/2016,"3 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,674009.0,Yes,Kinsealy,Co. Dublin,q4,100%
+08/07/2016,"4 Birchdale Park, Kinsealy Court, Kinsealy",Dublin,272000.0,No,Kinsealy,Co. Dublin,q2,40%
+11/07/2016,"29 Coopers Wood, Kinsealy",Dublin,405286.0,Yes,Kinsealy,Co. Dublin,q4,90%
+11/07/2016,"8 Meleysian Avenue, Kinsealy, Dublin",Dublin,340000.0,No,Kinsealy,Co. Dublin,q3,70%
+15/07/2016,"36 Coopers Wood, Chapel Road, Kinsealy",Dublin,379735.0,Yes,Kinsealy,Co. Dublin,q4,80%
+17/08/2016,"7 Cooperswood, Kinsealy",Dublin,502203.0,Yes,Kinsealy,Co. Dublin,q4,90%
+19/08/2016,"32 Coopers Wood, Kinsealy",Dublin,392070.0,Yes,Kinsealy,Co. Dublin,q4,80%
+22/08/2016,"23 Drynam Rise, Drynam Hall, Kinsealy",Dublin,260000.0,No,Kinsealy,Co. Dublin,q2,30%
+24/08/2016,"38 Coopers Wood, Kinsealy, Co. Dublin",Dublin,339207.0,Yes,Kinsealy,Co. Dublin,q3,70%
+29/08/2016,"35 Coopers Wood, Kinsealy",Dublin,387665.0,Yes,Kinsealy,Co. Dublin,q4,80%
+05/09/2016,"1 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,680687.0,Yes,Kinsealy,Co. Dublin,q4,100%
+08/09/2016,"13 Russells Terrace, Kettles Lane, Kinsealy",Dublin,160000.0,No,Kinsealy,Co. Dublin,q1,10%
+09/09/2016,"22 Holywell Ave, Kinsealy, Dublin",Dublin,156000.0,No,Kinsealy,Co. Dublin,q1,10%
+14/09/2016,"2 Emsworth Park, Kinsealy Lane",Dublin,765000.0,Yes,Kinsealy,Co. Dublin,q4,100%
+16/09/2016,"16 The Heights, Milrose Park, Kinsealy",Dublin,295000.0,No,Kinsealy,Co. Dublin,q2,50%
+30/09/2016,"12 Holywell Park, Feltrim Rd, Kinsealy",Dublin,160000.0,No,Kinsealy,Co. Dublin,q1,10%
+06/10/2016,"45 Abbeywell, Chapel Rd, Kinsealy",Dublin,182000.0,No,Kinsealy,Co. Dublin,q1,10%
+07/10/2016,"Millstream, Baskin Lane, Kinsealy Dublin 17",Dublin,1350000.0,No,Kinsealy,Co. Dublin,q4,100%
+11/10/2016,"36 Holywell Green, Kinsealy, Dublin",Dublin,213000.0,No,Kinsealy,Co. Dublin,q1,20%
+14/10/2016,"24 Drynam Grove, Drynam Hall, Kettles Lane Kinsealy Dublin",Dublin,280500.0,No,Kinsealy,Co. Dublin,q2,40%
+27/10/2016,"62 Drynam Drive, Drynam Hall, Kinsealy",Dublin,239000.0,No,Kinsealy,Co. Dublin,q1,30%
+02/11/2016,"6 Cooperswood, Kinsealy",Dublin,502203.0,Yes,Kinsealy,Co. Dublin,q4,90%
+03/11/2016,"7 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,660793.0,Yes,Kinsealy,Co. Dublin,q4,100%
+04/11/2016,"5 Cooperswood, Kinsealy, County Dublin",Dublin,537445.0,Yes,Kinsealy,Co. Dublin,q4,90%
+08/11/2016,"35 Russell Terrace, Kettles Lane, Kinsealy",Dublin,176000.0,No,Kinsealy,Co. Dublin,q1,10%
+15/11/2016,"26 Ashgrove Baskin, Kinsealy, Dublin",Dublin,415000.0,No,Kinsealy,Co. Dublin,q4,90%
+18/11/2016,"106 Talbot House, Drynam Hall, Kinsealy",Dublin,190000.0,No,Kinsealy,Co. Dublin,q1,20%
+18/11/2016,"64 Holywell View, Feltrim Hall, Kinsealy",Dublin,237500.0,No,Kinsealy,Co. Dublin,q1,20%
+01/12/2016,"27 Aspen Rd, Kinsealy, Dublin",Dublin,260000.0,No,Kinsealy,Co. Dublin,q2,30%
+08/12/2016,"21 Coopers Wood, Chapel Road, Kinsealy",Dublin,383259.0,Yes,Kinsealy,Co. Dublin,q4,80%
+15/12/2016,"Kariba, 8A Baskin Lane, Kinsealy",Dublin,520000.0,No,Kinsealy,Co. Dublin,q4,90%
+16/12/2016,"16 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,770925.0,Yes,Kinsealy,Co. Dublin,q4,100%
+19/12/2016,"10 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,646587.0,Yes,Kinsealy,Co. Dublin,q4,100%
+19/12/2016,"22 Cooper'S Wiid, Chapel Lane, Kinsealy",Dublin,387087.0,Yes,Kinsealy,Co. Dublin,q4,80%
+19/12/2016,"39 Abby Well, Chapel Rd, Kinsealy",Dublin,394000.0,No,Kinsealy,Co. Dublin,q4,80%
+21/12/2016,"Posey Row, Kinsealy, Dublin",Dublin,569630.0,No,Kinsealy,Co. Dublin,q4,100%
+19/01/2017,"11 Drynam Glen, Kinsealy, Dublin",Dublin,175000.0,No,Kinsealy,Co. Dublin,q1,10%
+19/01/2017,"13 Ashdale Rd, Kinsealy, County Dublin",Dublin,290000.0,No,Kinsealy,Co. Dublin,q2,50%
+01/02/2017,"9 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,662995.0,Yes,Kinsealy,Co. Dublin,q4,100%
+10/02/2017,"33 Drynam Crescent, Drynam Hall, Kinsealy",Dublin,330000.0,No,Kinsealy,Co. Dublin,q3,70%
+10/03/2017,"6 The Heights, Melrose Park, Kinsealy",Dublin,281000.0,No,Kinsealy,Co. Dublin,q2,40%
+13/03/2017,"34 Drynam View, Feltrim Hall, Kinsealy",Dublin,220000.0,No,Kinsealy,Co. Dublin,q1,20%
+23/03/2017,"12 Drynam Glen, Kettles Lane, Kinsealy",Dublin,208000.0,No,Kinsealy,Co. Dublin,q1,20%
+12/04/2017,"10 Drynam Glen, Kinsealy, Dublin",Dublin,175000.0,No,Kinsealy,Co. Dublin,q1,10%
+02/05/2017,"6  Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,656388.0,Yes,Kinsealy,Co. Dublin,q4,100%
+09/05/2017,"49 Drynam Crescent, Drynam Hall, Kinsealy",Dublin,227000.0,No,Kinsealy,Co. Dublin,q1,20%
+16/05/2017,"8 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,665198.23,Yes,Kinsealy,Co. Dublin,q4,100%
+26/05/2017,"15 Aspen Rd, Kinsealy Court, Dublin",Dublin,295000.0,No,Kinsealy,Co. Dublin,q2,50%
+29/05/2017,"102 Talbot House, Drynam Hall, Kinsealy",Dublin,130000.0,No,Kinsealy,Co. Dublin,q1,10%
+07/06/2017,"9 Castleway, Kinsealy Lane, Kinsealy",Dublin,748898.62,Yes,Kinsealy,Co. Dublin,q4,100%
+15/06/2017,"11 Emsworth Park, Kinsealy, County Dublin",Dublin,724669.6,Yes,Kinsealy,Co. Dublin,q4,100%
+28/06/2017,"14 Drynam Green, Kinsealy, Dublin",Dublin,285000.0,No,Kinsealy,Co. Dublin,q2,50%
+30/06/2017,"15 The Rise Melrose, Park Kinsealy, Dublin",Dublin,285000.0,No,Kinsealy,Co. Dublin,q2,50%
+05/07/2017,"47 Drynam View, Kinsealy, Dublin",Dublin,325000.0,No,Kinsealy,Co. Dublin,q3,70%
+31/07/2017,"13 Drynam Dr, Drynam Hall, Kettles Lane Kinsealy",Dublin,270000.0,No,Kinsealy,Co. Dublin,q2,30%
+30/08/2017,"32 Hazelbrook, Kinsealy Lane",Dublin,704603.52,Yes,Kinsealy,Co. Dublin,q4,100%
+15/09/2017,"44 Drynam Rise, Kettles Lane, Kinsealy",Dublin,286000.0,No,Kinsealy,Co. Dublin,q2,50%
+20/09/2017,"54 Holywell Manor, Kinsealy, Co Dublin",Dublin,203400.0,No,Kinsealy,Co. Dublin,q1,20%
+27/09/2017,"5 Melesian Court, Kinsealy Swords, Dublin",Dublin,395000.0,No,Kinsealy,Co. Dublin,q4,90%
+28/09/2017,"106 Holywell Rise, Kinsealy, Dublin",Dublin,180000.0,No,Kinsealy,Co. Dublin,q1,10%
+28/09/2017,"7 Holynell View, Kinsealy, Dublin",Dublin,245500.0,No,Kinsealy,Co. Dublin,q1,30%
+29/09/2017,"33 The Heights, Melrose Park, Kinsealy",Dublin,295000.0,No,Kinsealy,Co. Dublin,q2,50%
+29/09/2017,"Myra Manor, Malahide Road, Kinsealy",Dublin,449339.21,Yes,Kinsealy,Co. Dublin,q4,90%
+05/10/2017,"53 Melesian Ave, Mountgorry Wood, Kinsealy",Dublin,412500.0,No,Kinsealy,Co. Dublin,q4,90%
+17/10/2017,"6 Aspen Park, Kinsealy, Dublin",Dublin,311000.0,No,Kinsealy,Co. Dublin,q3,60%
+18/10/2017,"10 The Grove, Melrose Park, Kinsealy",Dublin,285000.0,No,Kinsealy,Co. Dublin,q2,50%
+03/11/2017,"13 Holywell Dr, Kinsealy, Co Dublin",Dublin,207000.0,No,Kinsealy,Co. Dublin,q1,20%
+07/11/2017,"48 Holywell Crescent North, Kinsealy, Dublin",Dublin,229000.0,No,Kinsealy,Co. Dublin,q1,20%
+17/11/2017,"8 Muileann Drive, Kettles Lane, Kinsealy",Dublin,325991.0,Yes,Kinsealy,Co. Dublin,q3,70%
+23/11/2017,"4 Muileann Drive, Kettles Lane, Kinsealy",Dublin,255507.6,Yes,Kinsealy,Co. Dublin,q2,30%
+24/11/2017,"15 Muileann Drive, Kettles Lane, Kinsealy",Dublin,286343.61,Yes,Kinsealy,Co. Dublin,q2,50%
+24/11/2017,"2 Muileann Drive, Kettle Lane, Kinsealy",Dublin,317180.61,Yes,Kinsealy,Co. Dublin,q3,60%
+27/11/2017,"11 Muileann Drive, Kettles Lane, Kinsealy",Dublin,325000.0,Yes,Kinsealy,Co. Dublin,q3,70%
+27/11/2017,"16 Muileann Drive, Kettles Lane, Kinsealy",Dublin,315000.0,Yes,Kinsealy,Co. Dublin,q3,60%
+28/11/2017,"1 Muileann Drive, Kettles Lane, Kinsealy",Dublin,370000.0,Yes,Kinsealy,Co. Dublin,q3,80%
+28/11/2017,"12 Muileann Drive, Kettles Lane, Kinsealy",Dublin,277534.23,Yes,Kinsealy,Co. Dublin,q2,40%
+01/12/2017,"10 Muileann Drive, Kinsealy",Dublin,277533.0,Yes,Kinsealy,Co. Dublin,q2,40%
+01/12/2017,"13 Muileann Drive, Kettles Lane, Kinsealy",Dublin,287000.0,Yes,Kinsealy,Co. Dublin,q2,50%
+01/12/2017,"17 Muileann Drive, Kettles Lane, Kinsealy",Dublin,286342.81,Yes,Kinsealy,Co. Dublin,q2,50%
+01/12/2017,"18 Muileann Drive, Kettles Lane, Kinsealy",Dublin,277532.0,Yes,Kinsealy,Co. Dublin,q2,40%
+01/12/2017,"19 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,336283.19,Yes,Kinsealy,Co. Dublin,q3,70%
+08/12/2017,"14 Muileann Drive, Kettles Lane, Kinsealy",Dublin,277533.03,Yes,Kinsealy,Co. Dublin,q2,40%
+12/12/2017,"23 Muileann Drive, Kettles Lane, Kinsealy",Dublin,263435.8,Yes,Kinsealy,Co. Dublin,q2,30%
+12/12/2017,"9 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,360000.0,Yes,Kinsealy,Co. Dublin,q3,80%
+14/12/2017,"1 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,325991.18,Yes,Kinsealy,Co. Dublin,q3,70%
+14/12/2017,"25 Muileann Drive, Kinsealy",Dublin,277533.0,Yes,Kinsealy,Co. Dublin,q2,40%
+14/12/2017,"6 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,314998.8,Yes,Kinsealy,Co. Dublin,q3,60%
+14/12/2017,"7 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,277532.8,Yes,Kinsealy,Co. Dublin,q2,40%
+18/12/2017,"5 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,277532.8,Yes,Kinsealy,Co. Dublin,q2,40%
+20/12/2017,"3 Drynam Ave, Kinsealy, Co Dublin",Dublin,315000.0,Yes,Kinsealy,Co. Dublin,q3,60%
+21/12/2017,"13 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,726872.0,Yes,Kinsealy,Co. Dublin,q4,100%
+21/12/2017,"21 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,277533.0,Yes,Kinsealy,Co. Dublin,q2,40%
+21/12/2017,"8 Meleysian Avenue, Kinsealy, Dublin",Dublin,397500.0,No,Kinsealy,Co. Dublin,q4,90%
+25/01/2018,"25 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,270000.0,Yes,Kinsealy,Co. Dublin,q2,40%
+29/01/2018,"20 Drynam Green, Drynam Hall, Kinsealy",Dublin,323000.0,No,Kinsealy,Co. Dublin,q3,70%
+30/01/2018,"19 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,246696.0,Yes,Kinsealy,Co. Dublin,q1,30%
+01/02/2018,"11 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,299559.47,Yes,Kinsealy,Co. Dublin,q2,50%
+05/02/2018,"4 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,735683.0,Yes,Kinsealy,Co. Dublin,q4,100%
+07/02/2018,"29 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,277532.81,Yes,Kinsealy,Co. Dublin,q2,40%
+07/02/2018,"33 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,272475.0,Yes,Kinsealy,Co. Dublin,q2,40%
+08/02/2018,"20 Muilleann Drive, Kettles Lane, Kinsealy",Dublin,375000.0,Yes,Kinsealy,Co. Dublin,q4,80%
+08/02/2018,"31 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,277533.0,Yes,Kinsealy,Co. Dublin,q2,40%
+12/02/2018,"17 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,317180.61,Yes,Kinsealy,Co. Dublin,q3,60%
+14/02/2018,"27  Drynam Avenue, Kettles Lane, Kinsealy",Dublin,237885.0,Yes,Kinsealy,Co. Dublin,q1,20%
+16/02/2018,"11 Fottrell House, Drynam Hall, Kinsealy",Dublin,210000.0,No,Kinsealy,Co. Dublin,q1,20%
+16/02/2018,"23 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,311410.0,Yes,Kinsealy,Co. Dublin,q3,60%
+22/02/2018,"27 Wolsey House, Drynam Copse, Drynam Hall Kinsealy Dublin",Dublin,185000.0,No,Kinsealy,Co. Dublin,q1,20%
+22/02/2018,"4 Drynam Rise, Drynam Hall, Kinsealy",Dublin,295000.0,No,Kinsealy,Co. Dublin,q2,50%
+27/02/2018,"22 Drynam Green, Kettles Lane, Kinsealy",Dublin,290000.0,No,Kinsealy,Co. Dublin,q2,50%
+02/03/2018,"9 Ashdale Rd, Kinsealy Court, Kinsealy",Dublin,325000.0,No,Kinsealy,Co. Dublin,q3,70%
+05/03/2018,"15 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,263436.12,Yes,Kinsealy,Co. Dublin,q2,30%
+06/03/2018,"21 Drynam Rise, Kinsealy, Dublin",Dublin,330000.0,No,Kinsealy,Co. Dublin,q3,70%
+07/03/2018,"27 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,315726.35,Yes,Kinsealy,Co. Dublin,q3,60%
+08/03/2018,"35 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,263427.69,Yes,Kinsealy,Co. Dublin,q2,30%
+09/03/2018,"29 Ashgrove, Baskin Lane, Kinsealy",Dublin,360000.0,No,Kinsealy,Co. Dublin,q3,80%
+09/03/2018,"9 The Rise, Melrose Park, Kinsealy",Dublin,320000.0,No,Kinsealy,Co. Dublin,q3,60%
+04/04/2018,"14 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,731277.53,Yes,Kinsealy,Co. Dublin,q4,100%
+05/04/2018,"37 Muileann Drive, Kettles Lane, Kinsealy",Dublin,277533.0,Yes,Kinsealy,Co. Dublin,q2,40%
+06/04/2018,"17 The Rise, Melrose Park, Kinsealy",Dublin,260000.0,No,Kinsealy,Co. Dublin,q2,30%
+11/04/2018,"31 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,317179.8,Yes,Kinsealy,Co. Dublin,q3,60%
+17/04/2018,"21 Drynam Green, Kinsealy, Dublin",Dublin,283000.0,No,Kinsealy,Co. Dublin,q2,40%
+18/04/2018,"11 Muileann Mews, Kettles Lane, Kinsealy",Dublin,317180.61,Yes,Kinsealy,Co. Dublin,q3,60%
+19/04/2018,"26 Muileann Drive, Kettles Lane, Kinsealy",Dublin,273127.75,Yes,Kinsealy,Co. Dublin,q2,40%
+20/04/2018,"28 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,273129.0,Yes,Kinsealy,Co. Dublin,q2,40%
+20/04/2018,"29 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,359998.82,Yes,Kinsealy,Co. Dublin,q3,80%
+25/04/2018,"24 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,273127.0,Yes,Kinsealy,Co. Dublin,q2,40%
+26/04/2018,"99 Drynam Dr, Kinsealy, Dublin",Dublin,316000.0,No,Kinsealy,Co. Dublin,q3,60%
+02/05/2018,"2 Drynam View, Drynam Hall, Kinsealy",Dublin,273000.0,No,Kinsealy,Co. Dublin,q2,40%
+09/05/2018,"33 Drynam Avenue, Kinsealy",Dublin,317180.61,Yes,Kinsealy,Co. Dublin,q3,60%
+13/06/2018,"14 The Lawn, Melrose Park, Kinsealy",Dublin,280000.0,No,Kinsealy,Co. Dublin,q2,40%
+15/06/2018,"4 Drynam Dr, Kinsealy, Dublin",Dublin,340000.0,No,Kinsealy,Co. Dublin,q3,70%
+18/06/2018,"8 Mount Drinan Walk, Kinsealy, Dublin",Dublin,354000.0,No,Kinsealy,Co. Dublin,q3,80%
+20/06/2018,"21 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,360000.0,Yes,Kinsealy,Co. Dublin,q3,80%
+27/06/2018,"15 Emsworth Park, Kinsealy Lane, Kinsealy",Dublin,731277.0,Yes,Kinsealy,Co. Dublin,q4,100%
+29/06/2018,"16 Muileann Close, Kettles Lane, Kinsealy",Dublin,273127.0,Yes,Kinsealy,Co. Dublin,q2,40%
+02/07/2018,"14 Muileann Close, Kettles Lane, Kinsealy",Dublin,273127.0,Yes,Kinsealy,Co. Dublin,q2,40%
+02/07/2018,"17 Muileann Close, Kettles Lane, Kinsealy",Dublin,273127.75,Yes,Kinsealy,Co. Dublin,q2,40%
+02/07/2018,"18 Muileann Close, Kettle'S Lane, Kinsealy",Dublin,364999.0,Yes,Kinsealy,Co. Dublin,q3,80%
+02/07/2018,"19 Muileann Close, Kettles Lane, Kinsealy",Dublin,321585.0,Yes,Kinsealy,Co. Dublin,q3,60%
+06/07/2018,"22 Muileann Close, Kettles Lane, Kinsealy",Dublin,237876.35,Yes,Kinsealy,Co. Dublin,q1,20%
+06/07/2018,"39 Holywell Manor, Kinsealy, Co Dublin",Dublin,275000.0,No,Kinsealy,Co. Dublin,q2,40%
+11/07/2018,"12 Muileann Close, Kettles Lane, Kinsealy",Dublin,237886.65,Yes,Kinsealy,Co. Dublin,q1,30%
+12/07/2018,"8 Muileann Close, Kettle'S Lane, Kinsealy",Dublin,256097.0,Yes,Kinsealy,Co. Dublin,q2,30%
+13/07/2018,"12 The Villa, Melrose Park, Kinsealy",Dublin,305000.0,No,Kinsealy,Co. Dublin,q3,60%
+13/07/2018,"24 Drynam Sq, Drynam Hall, Kinsealy",Dublin,305500.0,No,Kinsealy,Co. Dublin,q3,60%
+13/07/2018,"7 Muileann Close, Kettle'S Lane, Kinsealy",Dublin,321577.09,Yes,Kinsealy,Co. Dublin,q3,60%
+16/07/2018,"23 Muileann Close, Kettles Lane, Kinsealy",Dublin,237885.5,Yes,Kinsealy,Co. Dublin,q1,30%
+18/07/2018,"21 Muileann Close, Kettles' Lane, Kinsealy",Dublin,321587.09,Yes,Kinsealy,Co. Dublin,q3,70%
+18/07/2018,"5 Drynam Grove Drynam Hall, Kinsealy, Dublin",Dublin,330000.0,No,Kinsealy,Co. Dublin,q3,70%
+19/07/2018,"24 Muileann Close, Kettles Lane, Kinsealy",Dublin,321585.0,Yes,Kinsealy,Co. Dublin,q3,60%
+19/07/2018,"9 Muileann Close, Kettle'S Lane, Kinsealy",Dublin,321585.0,Yes,Kinsealy,Co. Dublin,q3,60%
+20/07/2018,"11 Drynam Rise, Drynham Hall, Kinsealy",Dublin,275000.0,No,Kinsealy,Co. Dublin,q2,40%
+20/07/2018,"11 Muileann Close, Kettle'S Lane, Kinsealy",Dublin,270000.0,Yes,Kinsealy,Co. Dublin,q2,40%
+27/07/2018,"12 Holywell Grove, Feltrim Hall, Kinsealy",Dublin,274000.0,No,Kinsealy,Co. Dublin,q2,40%
+10/08/2018,"13 Muileann Close, Kettles Lane, Kinsealy",Dublin,317181.0,Yes,Kinsealy,Co. Dublin,q3,60%
+15/08/2018,"28 Muileann Close, Kinsealy",Dublin,281939.0,Yes,Kinsealy,Co. Dublin,q2,40%
+16/08/2018,"26 Muileann Close, Kettles Lane, Kinsealy",Dublin,251100.81,Yes,Kinsealy,Co. Dublin,q1,30%
+17/08/2018,"2 Mt Drinan Park, Kinsealy Down, Dublin",Dublin,355000.0,No,Kinsealy,Co. Dublin,q3,80%
+17/08/2018,"7 Blackthorn Place, Kettles Lane, Kinsealy",Dublin,422907.0,Yes,Kinsealy,Co. Dublin,q4,90%
+21/08/2018,"29 Muileann Close, Kettles Lane, Kinsealy",Dublin,286343.61,Yes,Kinsealy,Co. Dublin,q2,50%
+22/08/2018,"20 Muileann Close, Kettles Lane, Kinsealy",Dublin,277532.0,Yes,Kinsealy,Co. Dublin,q2,40%
+27/08/2018,"27 Muileann Close, Kettles Lane, Kinsealy",Dublin,242290.75,Yes,Kinsealy,Co. Dublin,q1,30%
+06/09/2018,"6 Muileann Close, Kettle'S Lane, Kinsealy",Dublin,321585.9,Yes,Kinsealy,Co. Dublin,q3,70%
+18/09/2018,"18 Drynam Green, Drynam Hall, Kinsealy",Dublin,345000.0,No,Kinsealy,Co. Dublin,q3,70%
+18/09/2018,"30 Muileann Close, Kettle'S Lane, Kinsealy",Dublin,330397.0,Yes,Kinsealy,Co. Dublin,q3,70%
+19/09/2018,"25 Muileann Close, Kettle'S Lane, Kinsealy",Dublin,246700.0,Yes,Kinsealy,Co. Dublin,q1,30%
+21/09/2018,"5 Muileann Close, Kettles Lane, Kinsealy",Dublin,277533.04,Yes,Kinsealy,Co. Dublin,q2,40%
+21/09/2018,"8 The Drive, Melrose Park, Kinsealy",Dublin,370000.0,No,Kinsealy,Co. Dublin,q3,80%
+26/09/2018,"4 Muileann Close, Kinsealy, Co Dublin",Dublin,308935.0,Yes,Kinsealy,Co. Dublin,q3,60%
+02/10/2018,"10 Drynam Sq, Kinsealy, Co. Dublin",Dublin,1200000.0,No,Kinsealy,Co. Dublin,q4,100%
+03/10/2018,"2 Drynam Rise, Drynam Hall, Kinsealy",Dublin,312500.0,No,Kinsealy,Co. Dublin,q3,60%
+05/10/2018,"No. 1 Blackthorn Place, Kettles Lane, Kinsealy",Dublin,405286.0,Yes,Kinsealy,Co. Dublin,q4,90%
+10/10/2018,"22A The Heights, Melrose Park, Kinsealy",Dublin,287500.0,No,Kinsealy,Co. Dublin,q2,50%
+15/10/2018,"28 Drynam Dr, Kinsealy, Dublin",Dublin,315000.0,No,Kinsealy,Co. Dublin,q3,60%
+15/10/2018,"71 Holywell Dr, Gorse Hill, Kinsealy",Dublin,187950.0,No,Kinsealy,Co. Dublin,q1,20%
+17/10/2018,"32 Muileann Close, Kettles Lane, Kinsealy",Dublin,330396.48,Yes,Kinsealy,Co. Dublin,q3,70%
+17/10/2018,"6 Drynam Grove, Drynam Hall, Kinsealy",Dublin,317000.0,No,Kinsealy,Co. Dublin,q3,60%
+19/10/2018,"3 Muileann Close, Kettle'S Lane, Kinsealy",Dublin,317180.62,Yes,Kinsealy,Co. Dublin,q3,60%
+23/10/2018,"25 Drynam Cresent, Kinsealy, Dublin",Dublin,335000.0,No,Kinsealy,Co. Dublin,q3,70%
+24/10/2018,"25 Hollywell Mannor, Kinsealy, Dublin",Dublin,210000.0,No,Kinsealy,Co. Dublin,q1,20%
+26/10/2018,"1 Muileann Close, Kettle Lane, Kinsealy",Dublin,321585.81,Yes,Kinsealy,Co. Dublin,q3,60%
+26/10/2018,"13 Hollywell Wood, Gorse Hill, Kinsealy",Dublin,288500.0,No,Kinsealy,Co. Dublin,q2,50%
+10/11/2018,"10 Muileann Court, Kettles Lane, Kinsealy",Dublin,290748.81,Yes,Kinsealy,Co. Dublin,q2,50%
+12/11/2018,"9 Muileann Court, Kettles Lane, Kinsealy",Dublin,264317.18,Yes,Kinsealy,Co. Dublin,q2,30%
+14/11/2018,"1 Drynam Dr, Kinsealy, Co. Dublin",Dublin,1000000.0,No,Kinsealy,Co. Dublin,q4,100%
+30/11/2018,"Ellismore Farm, Malahide, Kinsealy",Dublin,700000.0,No,Kinsealy,Co. Dublin,q4,100%
+30/11/2018,"Ellismore Mews, Malahide, Kinsealy",Dublin,350000.0,No,Kinsealy,Co. Dublin,q3,70%
+11/12/2018,"39 Drynam Rise, Kinsealy, Dublin",Dublin,355000.0,No,Kinsealy,Co. Dublin,q3,80%
+11/12/2018,"7 Drynam Dr, Drynam Hall, Kinsealy",Dublin,307000.0,No,Kinsealy,Co. Dublin,q3,60%
+12/12/2018,"8 Muileann Court, Kettle'S Lane, Kinsealy",Dublin,290740.0,Yes,Kinsealy,Co. Dublin,q2,50%
+13/12/2018,"3 Muileann Court, Kettles Lane, Kinsealy",Dublin,299558.79,Yes,Kinsealy,Co. Dublin,q2,50%
+13/12/2018,"7 Muileann Court, Kettles Lane, Kinsealy",Dublin,290748.9,Yes,Kinsealy,Co. Dublin,q2,50%
+14/12/2018,"36 Drynam Crescent, Drynam Hall, Kinsealy",Dublin,347000.0,No,Kinsealy,Co. Dublin,q3,70%
+17/12/2018,"2 Muileann Court, Kettles Lane, Kinsealy",Dublin,299559.47,Yes,Kinsealy,Co. Dublin,q2,50%
+17/12/2018,"4 Muileann Court, Kettle'S Lane, Kinsealy",Dublin,299559.0,Yes,Kinsealy,Co. Dublin,q2,50%
+17/12/2018,"6 Muileann Court, Kettles Lane, Kinsealy",Dublin,290748.81,Yes,Kinsealy,Co. Dublin,q2,50%
+18/12/2018,"1 Muileann Court, Kettles Lane, Kinsealy",Dublin,299550.0,Yes,Kinsealy,Co. Dublin,q2,50%
+18/12/2018,"18 The Lawns, Melrose Park, Kinsealy",Dublin,310000.0,No,Kinsealy,Co. Dublin,q3,60%
+19/12/2018,"50 Melrose Park, The Heights, Kinsealy",Dublin,290000.0,No,Kinsealy,Co. Dublin,q2,50%
+20/12/2018,"87 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,339207.0,Yes,Kinsealy,Co. Dublin,q3,70%
+21/12/2018,"5 Muileann Court, Kettle Lane, Kinsealy",Dublin,352422.0,Yes,Kinsealy,Co. Dublin,q3,70%
+21/12/2018,"59 Drynam Dr, Kettles Lane, Kinsealy",Dublin,305000.0,No,Kinsealy,Co. Dublin,q3,60%
+21/12/2018,"6 The Meadows, Holywell, Kinsealy Swords",Dublin,330000.0,No,Kinsealy,Co. Dublin,q3,70%
+22/01/2019,"9 Drynam Dr, Drynam Hall, Kinsealy",Dublin,300000.0,No,Kinsealy,Co. Dublin,q2,50%
+24/01/2019,"33 Muileann Close, Kettles Lane, Kinsealy",Dublin,339207.0,Yes,Kinsealy,Co. Dublin,q3,70%
+28/01/2019,"1A Ashdale Rd, Kinsealy Court, Kinsealy",Dublin,390000.0,No,Kinsealy,Co. Dublin,q4,80%
+06/02/2019,"12 Birchdale Rd, Kinsealy, Dublin",Dublin,320000.0,No,Kinsealy,Co. Dublin,q3,60%
+06/02/2019,"67 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,295154.2,Yes,Kinsealy,Co. Dublin,q2,50%
+08/02/2019,"71 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,268722.0,Yes,Kinsealy,Co. Dublin,q2,30%
+08/02/2019,"75 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,312926.83,Yes,Kinsealy,Co. Dublin,q3,60%
+08/02/2019,"77 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,295154.18,Yes,Kinsealy,Co. Dublin,q2,50%
+08/02/2019,"81 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,335000.0,Yes,Kinsealy,Co. Dublin,q3,70%
+08/02/2019,"85 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,352432.0,Yes,Kinsealy,Co. Dublin,q3,80%
+12/02/2019,"69 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,339207.0,Yes,Kinsealy,Co. Dublin,q3,70%
+12/02/2019,"83 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,295153.0,Yes,Kinsealy,Co. Dublin,q2,50%
+15/02/2019,"79 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,334991.0,Yes,Kinsealy,Co. Dublin,q3,70%
+18/02/2019,"63 Drynham Avenue, Kettles Lane, Kinsealy",Dublin,335000.0,Yes,Kinsealy,Co. Dublin,q3,70%
+20/02/2019,"21 Muileann Close, Kettles' Lane, Kinsealy",Dublin,378000.0,No,Kinsealy,Co. Dublin,q4,80%
+20/02/2019,"59 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,356828.19,Yes,Kinsealy,Co. Dublin,q3,80%
+20/02/2019,"7 Drynam Walk, Drynam Hall, Kinsealy",Dublin,315000.0,No,Kinsealy,Co. Dublin,q3,60%
+21/02/2019,"61 Drynam Avenu, Kettle&#039;S Lane, Kinsealy",Dublin,295154.17,Yes,Kinsealy,Co. Dublin,q2,50%
+26/02/2019,"9 Drynam Crescent, Drynam Hall, Kinsealy",Dublin,357500.0,No,Kinsealy,Co. Dublin,q3,80%
+05/03/2019,"65 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,295153.0,Yes,Kinsealy,Co. Dublin,q2,50%
+12/03/2019,"55 Drynam Avenue, Kettle Lane, Kinsealy",Dublin,268721.81,Yes,Kinsealy,Co. Dublin,q2,30%
+14/03/2019,"49 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,339206.81,Yes,Kinsealy,Co. Dublin,q3,70%
+22/03/2019,"53 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,268721.81,Yes,Kinsealy,Co. Dublin,q2,30%
+26/03/2019,"15 Drynam Rise, Drynam Hall, Kinsealy",Dublin,330000.0,No,Kinsealy,Co. Dublin,q3,70%
+26/03/2019,"7 Gandon Lane, Kinsealy Woods, Chapel Road",Dublin,406828.0,Yes,Kinsealy,Co. Dublin,q4,90%
+27/03/2019,"35 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,343612.33,Yes,Kinsealy,Co. Dublin,q3,70%
+27/03/2019,"51 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,263825.0,Yes,Kinsealy,Co. Dublin,q2,30%
+28/03/2019,"45 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,273127.75,Yes,Kinsealy,Co. Dublin,q2,40%
+29/03/2019,"47 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,385000.0,Yes,Kinsealy,Co. Dublin,q4,80%
+05/04/2019,"4 Gandon Lane, Kinsealy Wood, Chapel Road",Dublin,406828.0,Yes,Kinsealy,Co. Dublin,q4,90%
+09/04/2019,"6 Gandon Lane, Kinsealy Woods, Chapel Road",Dublin,411233.0,Yes,Kinsealy,Co. Dublin,q4,90%
+10/04/2019,"43 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,273127.75,Yes,Kinsealy,Co. Dublin,q2,40%
+12/04/2019,"5 Gandon Lane, Kinsealy Woods, Chapel Road",Dublin,411233.48,Yes,Kinsealy,Co. Dublin,q4,90%
+17/04/2019,"41 Drynam Avenue, Kettle'S Lane, Kinsealy",Dublin,273127.75,Yes,Kinsealy,Co. Dublin,q2,40%
+24/04/2019,"5 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,273127.75,Yes,Kinsealy,Co. Dublin,q2,40%
+02/05/2019,"9 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,334801.76,Yes,Kinsealy,Co. Dublin,q3,70%
+03/05/2019,"1 Gandon Lane, Kinsealy Woods, Chapel Lane",Dublin,414096.92,Yes,Kinsealy,Co. Dublin,q4,90%
+10/05/2019,"16 Holywell Rd, Feltrim Rd, Kinsealy",Dublin,297500.0,No,Kinsealy,Co. Dublin,q2,50%
+10/05/2019,"3 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,273126.81,Yes,Kinsealy,Co. Dublin,q2,40%
+14/05/2019,"57 Drynam Avenue, Kettles Lane, Kinsealy",Dublin,339207.04,Yes,Kinsealy,Co. Dublin,q3,70%
+15/05/2019,"37 Drynam Dr, Kinsealy, Dublin",Dublin,280000.0,No,Kinsealy,Co. Dublin,q2,40%
+15/05/2019,"9 Hollywell Mews, Kinsealy, Co Dublin",Dublin,185000.0,No,Kinsealy,Co. Dublin,q1,20%
+17/05/2019,"37 Drynham Avenue, Kettle'S Lane, Kinsealy",Dublin,273127.0,Yes,Kinsealy,Co. Dublin,q2,40%
+20/05/2019,"68 Drynam Ave, Kettles Lane, Kinsealy",Dublin,245500.0,No,Kinsealy,Co. Dublin,q1,30%
+24/05/2019,"1A The Crescent, Melrose Park, Kinsealy",Dublin,300000.0,No,Kinsealy,Co. Dublin,q2,50%
+31/05/2019,"23 Drynam Crescent, Drynam Hall, Kinsealy",Dublin,345000.0,No,Kinsealy,Co. Dublin,q3,70%
+06/06/2019,"11 Beechwood, Kinsealy Woods, Chapel Road",Dublin,420044.0,Yes,Kinsealy,Co. Dublin,q4,90%
+12/06/2019,"4 Muileann Mews, Kettle'S Lane, Kinsealy",Dublin,303964.76,Yes,Kinsealy,Co. Dublin,q3,60%
+13/06/2019,"11 The Heights, Melrose Park, Kinsealy",Dublin,302500.0,No,Kinsealy,Co. Dublin,q2,50%
+14/06/2019,"3 Muileann Mews, Kettle'S Lane, Kinsealy",Dublin,299559.47,Yes,Kinsealy,Co. Dublin,q2,50%
+14/06/2019,"6 Muilleann Mews, Kettle'S Lane, Kinsealy",Dublin,349998.81,Yes,Kinsealy,Co. Dublin,q3,70%
+14/06/2019,"8  Muileann Mews, Kettle'S Lane, Kinsealy",Dublin,308371.23,Yes,Kinsealy,Co. Dublin,q3,60%
+17/06/2019,"14 Beechwood, Kinsealy Woods, Chapel Road  Kinsealy",Dublin,411233.0,Yes,Kinsealy,Co. Dublin,q4,90%
+18/06/2019,"13 Beechwood, Kinsealy Woods, Chapel Road",Dublin,405286.0,Yes,Kinsealy,Co. Dublin,q4,90%
+18/06/2019,"2 Gandon Lane, Chapel Road, Kinsealy",Dublin,383260.0,Yes,Kinsealy,Co. Dublin,q4,80%
+19/06/2019,"9 Muileann Mews, Kettles Lane, Kinsealy",Dublin,308370.0,Yes,Kinsealy,Co. Dublin,q3,60%
+20/06/2019,"5  Muileann Mews, Kinsealy",Dublin,356823.0,Yes,Kinsealy,Co. Dublin,q3,80%
+20/06/2019,"7 Muileann Drive, Kettle'S Lane, Kinsealy",Dublin,383262.0,Yes,Kinsealy,Co. Dublin,q4,80%
+21/06/2019,"2 Muileann Mews, Kinsealy, Co. Dublin",Dublin,303964.0,Yes,Kinsealy,Co. Dublin,q2,50%
+24/06/2019,"45 Drynam View, Kettles Lane, Kinsealy",Dublin,326000.0,No,Kinsealy,Co. Dublin,q3,70%
+25/06/2019,"16 Beechwood, Kinsealy Woods, Kinsealy",Dublin,405286.3,Yes,Kinsealy,Co. Dublin,q4,90%
+26/06/2019,"1 Muileann Mews, Kettle'S Lane, Kinsealy",Dublin,321585.81,Yes,Kinsealy,Co. Dublin,q3,60%
+26/06/2019,"12 Beechwood, Kinsealy Woods, Kinsealy",Dublin,411233.48,Yes,Kinsealy,Co. Dublin,q4,90%
+28/06/2019,"10 Gandon Lane, Chapel Road, Kinsealy",Dublin,464096.91,Yes,Kinsealy,Co. Dublin,q4,90%
+01/07/2019,"11 Gandon Lane, Kinsealy Woods, Chapel Road",Dublin,577093.0,Yes,Kinsealy,Co. Dublin,q4,100%
+05/07/2019,"15 Beechwood, Kinsealy Woods, Kinsealy",Dublin,405286.0,Yes,Kinsealy,Co. Dublin,q4,90%
+10/07/2019,"3 Gandon Lane, Chapel Road, Kinsealy",Dublin,398018.0,Yes,Kinsealy,Co. Dublin,q4,90%
+11/07/2019,"13 Muileann Place, Kettles Lane, Kinsealy",Dublin,308369.81,Yes,Kinsealy,Co. Dublin,q3,60%
+16/07/2019,"14 Muileann Place, Kettle'S Lane, Kinsealy",Dublin,308370.0,Yes,Kinsealy,Co. Dublin,q3,60%
+17/07/2019,"16 Muileann Place, Kettles Lane, Kinsealy",Dublin,308370.04,Yes,Kinsealy,Co. Dublin,q3,60%
+24/07/2019,"18 Beechwood, Kinsealy Woods, Chapel Road",Dublin,405286.0,Yes,Kinsealy,Co. Dublin,q4,90%
+25/07/2019,"26 Cooper'S Wood, Chapel Road, Kinsealy",Dublin,475000.0,No,Kinsealy,Co. Dublin,q4,90%
+01/08/2019,"Kinsealy House, Kinsealy, Co Dublin",Dublin,700000.0,No,Kinsealy,Co. Dublin,q4,100%
+02/08/2019,"Greenwood, Baskin Lane, Kinsealy",Dublin,472000.0,No,Kinsealy,Co. Dublin,q4,90%
+08/08/2019,"3 Beechwood, Kinsealy Woods, Chapel Road",Dublin,398017.62,Yes,Kinsealy,Co. Dublin,q4,90%
+09/08/2019,"7 Drynam Square, Drynam Hall, Kinsealy",Dublin,280000.0,No,Kinsealy,Co. Dublin,q2,40%
+09/08/2019,"8 Drynam Crescent, Drynam Hall, Kinsealy",Dublin,325000.0,No,Kinsealy,Co. Dublin,q3,70%
+13/08/2019,"11 Muileann Place, Kettle'S Lane, Kinsealy",Dublin,321586.0,Yes,Kinsealy,Co. Dublin,q3,70%
+22/08/2019,"32 Drynam View, Kinsealy, Dublin",Dublin,355555.0,No,Kinsealy,Co. Dublin,q3,80%
+22/08/2019,"8 Gandon Lane, Chapel Road, Kinsealy",Dublin,392069.0,Yes,Kinsealy,Co. Dublin,q4,80%
+29/08/2019,"1 Beechwood, Kinsealy Woods, Chapel Rd  Kinsealy",Dublin,433259.0,No,Kinsealy,Co. Dublin,q4,90%
+03/09/2019,"1  Muileann Place, Kettle'S Lane, Kinsealy",Dublin,352422.81,Yes,Kinsealy,Co. Dublin,q3,70%
+03/09/2019,"17 Holywell Dr, Kinsealy, Dublin",Dublin,170500.0,No,Kinsealy,Co. Dublin,q1,10%
+05/09/2019,"10 Beechwood, Kinsealy Woods, Chapel Road",Dublin,402423.0,Yes,Kinsealy,Co. Dublin,q4,90%
+05/09/2019,"9  Beechwood, Kinsealy Woods, Chapel Road",Dublin,383259.0,Yes,Kinsealy,Co. Dublin,q4,80%
+06/09/2019,"2 Drynam Place, Drynam Hall, Kinsealy",Dublin,308000.0,No,Kinsealy,Co. Dublin,q3,60%
+06/09/2019,"8 Muileann Place, Kettle'S Lane, Kinsealy",Dublin,281940.0,Yes,Kinsealy,Co. Dublin,q2,40%
+09/09/2019,"15 Ashgrove, Baskin Lane, Kinsealy",Dublin,340000.0,No,Kinsealy,Co. Dublin,q3,70%
+10/09/2019,"2 Beechwood, Kinsealy Wood, Chapel Road",Dublin,378854.6,Yes,Kinsealy,Co. Dublin,q4,80%
+10/09/2019,"2 Muileann Place, Kettles Lane, Kinsealy",Dublin,273127.0,Yes,Kinsealy,Co. Dublin,q2,40%
+11/09/2019,"12 Muileann Place, Kettle'S Lane, Kinsealy",Dublin,361233.48,Yes,Kinsealy,Co. Dublin,q3,80%
+11/09/2019,"8 Beechwood, Chapel Road, Kinsealy",Dublin,442070.0,Yes,Kinsealy,Co. Dublin,q4,90%
+13/09/2019,"17, Beechwood, Kinsealy Woods",Dublin,405286.48,Yes,Kinsealy,Co. Dublin,q4,90%
+13/09/2019,"35 Coopers Wood, Kinsealy, Dublin",Dublin,450000.0,No,Kinsealy,Co. Dublin,q4,90%
+16/09/2019,"10 Muileann Place, Kettle'S Land, Kinsealy",Dublin,308361.23,Yes,Kinsealy,Co. Dublin,q3,60%
+17/09/2019,"1 The Crescent, Melrose Park, Kinsealy",Dublin,290000.0,No,Kinsealy,Co. Dublin,q2,50%
+17/09/2019,"20 Beechwood, Chapel Road, Kinsealy",Dublin,528634.0,Yes,Kinsealy,Co. Dublin,q4,90%
+17/09/2019,"3  Muileann Place, Kettle'S Lane, Kinsealy",Dublin,352422.91,Yes,Kinsealy,Co. Dublin,q3,80%
+19/09/2019,"4 Muileann Place, Kettles Lane, Kinsealy",Dublin,303964.76,Yes,Kinsealy,Co. Dublin,q3,60%
+19/09/2019,"9 Muileann Place, Kettle'S Lane, Kinsealy",Dublin,277533.0,Yes,Kinsealy,Co. Dublin,q2,40%
+20/09/2019,"5 Muileann Place, Kettle'S Lane, Kinsealy",Dublin,299558.0,Yes,Kinsealy,Co. Dublin,q2,50%
+07/10/2019,"15 Muileann Place, Kettle'S Lane, Kinsealy",Dublin,308371.0,Yes,Kinsealy,Co. Dublin,q3,60%
+07/10/2019,"78 Drynam Ave, Kettles Lane, Kinsealy",Dublin,225000.0,No,Kinsealy,Co. Dublin,q1,20%
+09/10/2019,"50 Abby Well Chapel Rd, Kinsealy, Dublin",Dublin,320000.0,No,Kinsealy,Co. Dublin,q3,60%
+11/10/2019,"9 Mount Drinan Grove, Kinsealy, Dublin",Dublin,320000.0,No,Kinsealy,Co. Dublin,q3,60%
+17/10/2019,"6 Muileann Place, Kettles Lane, Kinsealy",Dublin,340000.0,Yes,Kinsealy,Co. Dublin,q3,70%
+18/10/2019,"1 Drynam Glen, Drynam Hall, Kinsealy",Dublin,349000.0,No,Kinsealy,Co. Dublin,q3,70%
+21/10/2019,"17 Muileann Place, Kettle'S Lane, Kinsealy",Dublin,361233.48,Yes,Kinsealy,Co. Dublin,q3,80%

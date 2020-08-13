@@ -1,0 +1,762 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+29/01/2010,"10 Saval Park Road, Dalkey",Dublin,980000.0,No,Dalkey,Co. Dublin,q4,80%
+29/01/2010,"31 Convent Road, Dalkey",Dublin,520000.0,No,Dalkey,Co. Dublin,q2,40%
+01/02/2010,"26 Carysfort Avenue, Dalkey, County Dublin",Dublin,500000.0,No,Dalkey,Co. Dublin,q2,30%
+05/02/2010,"Sorrentoville, Vico Road, Dalkey",Dublin,2400000.0,No,Dalkey,Co. Dublin,q4,100%
+10/02/2010,"3/3A Ormeau Drive, Dalkey",Dublin,13970.0,No,Dalkey,Co. Dublin,q1,10%
+15/02/2010,"Derreen, Barnhill Road, Dalkey",Dublin,740500.0,No,Dalkey,Co. Dublin,q3,60%
+21/04/2010,"67 Hyde Park Road, Dalkey",Dublin,575000.0,No,Dalkey,Co. Dublin,q2,40%
+28/04/2010,"53 St Begnets Villas, Dalkey, Co.Dublin",Dublin,405000.0,No,Dalkey,Co. Dublin,q1,20%
+07/05/2010,"55 St. Begnets Villas, Dalkey",Dublin,370000.0,No,Dalkey,Co. Dublin,q1,20%
+14/05/2010,"52 Carysfort, Dalkey",Dublin,630000.0,No,Dalkey,Co. Dublin,q2,50%
+24/05/2010,"Gosworth, Castlepark Road, Dalkey",Dublin,1718000.0,No,Dalkey,Co. Dublin,q4,100%
+28/05/2010,"Kenard, Barnhill Road, Dalkey",Dublin,570000.0,No,Dalkey,Co. Dublin,q2,40%
+09/06/2010,"3 Dalkey Grove, Dalkey",Dublin,480000.0,No,Dalkey,Co. Dublin,q2,30%
+10/06/2010,"5 Termon, Castle Street, Dalkey",Dublin,580000.0,No,Dalkey,Co. Dublin,q2,40%
+10/06/2010,"Wynyard, Saval Park Road, Dalkey",Dublin,2250000.0,No,Dalkey,Co. Dublin,q4,100%
+12/06/2010,"47 St. Begnet'S Villas, Dalkey, Co. Dublin",Dublin,367500.0,No,Dalkey,Co. Dublin,q1,20%
+24/06/2010,"103 St Begnets Villas, Dalkey",Dublin,407000.0,No,Dalkey,Co. Dublin,q1,20%
+01/07/2010,"4 The Rise, Barnhill Road, Dalkey",Dublin,580000.0,No,Dalkey,Co. Dublin,q2,40%
+01/07/2010,"Inishowen, Knocknacree Road, Dalkey",Dublin,1450000.0,No,Dalkey,Co. Dublin,q4,90%
+05/07/2010,"6 Craiglands, Ardeevin Road, Dalkey",Dublin,417500.0,No,Dalkey,Co. Dublin,q1,20%
+09/07/2010,"14 St. Begnet'S Villas, Dalkey",Dublin,252000.0,No,Dalkey,Co. Dublin,q1,10%
+21/07/2010,"San Michele, 4  Barnhill Road, Dalkey",Dublin,875000.0,No,Dalkey,Co. Dublin,q3,70%
+30/07/2010,"6 Ullardmor, Ardeevin Road, Dalkey",Dublin,850000.0,No,Dalkey,Co. Dublin,q3,70%
+06/08/2010,"7 St. Margarets Close, Castlepark Road, Dalkey",Dublin,375000.0,No,Dalkey,Co. Dublin,q1,20%
+06/08/2010,"97  St. Begnet'S Villas, Dalkey",Dublin,325000.0,No,Dalkey,Co. Dublin,q1,10%
+11/08/2010,"97 Coliemore Road, Dalkey",Dublin,350000.0,No,Dalkey,Co. Dublin,q1,20%
+24/08/2010,"Dolphin Cottage, Coliemore Road, Dalkey",Dublin,860000.0,No,Dalkey,Co. Dublin,q3,70%
+27/08/2010,"24 Whites Villas, Dalkey, County Dublin",Dublin,360000.0,No,Dalkey,Co. Dublin,q1,20%
+31/08/2010,"The Gables, Sorrento Road  Dalkey",Dublin,950000.0,No,Dalkey,Co. Dublin,q3,80%
+03/09/2010,"25 Hyde Park, Dalkey, County Dublin",Dublin,940000.0,No,Dalkey,Co. Dublin,q3,80%
+13/09/2010,"Apartment No. 6  Block 1, Barthra Rock  Haver Road, Dalkey",Dublin,500000.0,No,Dalkey,Co. Dublin,q2,30%
+21/09/2010,"1 Glandore, Harbour Road, Dalkey",Dublin,585000.0,No,Dalkey,Co. Dublin,q2,40%
+24/09/2010,"20 Carysfort Villas, Dalkey",Dublin,301250.0,No,Dalkey,Co. Dublin,q1,10%
+27/09/2010,"2 Church Road, Dalkey",Dublin,1262500.0,No,Dalkey,Co. Dublin,q4,90%
+30/09/2010,"17 The Burgage, Dalkey, Dublin",Dublin,405000.0,No,Dalkey,Co. Dublin,q1,20%
+14/10/2010,"7 Castle Street, Dalkey",Dublin,617500.0,No,Dalkey,Co. Dublin,q2,50%
+04/11/2010,"Kwetu, 53 Sorrento Road, Dalkey",Dublin,860000.0,No,Dalkey,Co. Dublin,q3,70%
+09/12/2010,"2 The Village Gate, Dalkey Avenue, Dalkey",Dublin,340000.0,No,Dalkey,Co. Dublin,q1,20%
+20/12/2010,"18 Proby Park, Barnhill Road, Dalkey",Dublin,430000.0,No,Dalkey,Co. Dublin,q1,20%
+12/01/2011,"49 Mapas Road, Dalkey",Dublin,540000.0,No,Dalkey,Co. Dublin,q2,40%
+21/01/2011,"39 Coliemore Road, Dalkey",Dublin,940000.0,No,Dalkey,Co. Dublin,q3,80%
+14/02/2011,"73 Dalkey Avenue, Dalkey",Dublin,590000.0,No,Dalkey,Co. Dublin,q2,40%
+15/02/2011,"Prince Patrick House, Knocknacree Road, Dalkey",Dublin,980000.0,No,Dalkey,Co. Dublin,q4,80%
+08/03/2011,"Fairlawn House, Saval Park Road, Dalkey",Dublin,1600000.0,No,Dalkey,Co. Dublin,q4,90%
+28/04/2011,"48 Ulverton Road, Dalkey",Dublin,700000.0,No,Dalkey,Co. Dublin,q3,60%
+29/04/2011,"1 Ardbrugh Road, Dalkey, County Dublin",Dublin,550000.0,No,Dalkey,Co. Dublin,q2,40%
+17/05/2011,"33 Carysfort Court, St. Patricks Road, Dalkey",Dublin,250000.0,No,Dalkey,Co. Dublin,q1,10%
+20/05/2011,"11 The Cregan, Bailey View, Dalkey",Dublin,420000.0,No,Dalkey,Co. Dublin,q1,20%
+24/05/2011,"Apartment 2  Seaview, 82 Coliemore Road, Dalkey",Dublin,280000.0,No,Dalkey,Co. Dublin,q1,10%
+31/05/2011,"7 The Paddocks, Ulverton Road, Dalkey",Dublin,915000.0,No,Dalkey,Co. Dublin,q3,80%
+10/06/2011,"23 Gosworth Park, Dalkey",Dublin,710000.0,No,Dalkey,Co. Dublin,q3,60%
+10/06/2011,"Gorse Lodge, Gorse Hill, Dalkey",Dublin,850000.0,No,Dalkey,Co. Dublin,q3,70%
+04/07/2011,"4 Castle Villas, Dalkey",Dublin,375000.0,No,Dalkey,Co. Dublin,q1,20%
+07/07/2011,"5 Sorrento Drive, Dalkey",Dublin,305000.0,No,Dalkey,Co. Dublin,q1,10%
+18/07/2011,"92A Sorrento Road, Dalkey",Dublin,150000.0,No,Dalkey,Co. Dublin,q1,10%
+27/07/2011,"Mineholm, Barnhill Road, Dalkey",Dublin,555000.0,No,Dalkey,Co. Dublin,q2,40%
+29/07/2011,"Bradda, Monterella  Barnhill Road, Dalkey",Dublin,320000.0,No,Dalkey,Co. Dublin,q1,10%
+04/08/2011,"Apartment No. 6 Castle Park Court, 57 Castlepark Road, Dalkey",Dublin,259911.89,Yes,Dalkey,Co. Dublin,q1,10%
+05/08/2011,"12 Dalkey Park, Dalkey, Co. Dublin",Dublin,509500.0,No,Dalkey,Co. Dublin,q2,30%
+11/08/2011,"Atlanta, 37 Coliemore Road, Dalkey",Dublin,2600000.0,No,Dalkey,Co. Dublin,q4,100%
+11/08/2011,"The Log, 42 Sorrento Road, Dalkey",Dublin,620000.0,No,Dalkey,Co. Dublin,q2,50%
+12/08/2011,"7 Cunningham Drive, Dalkey",Dublin,565000.0,No,Dalkey,Co. Dublin,q2,40%
+24/08/2011,"Carabeg, 2 Burmah Close, Dalkey",Dublin,410000.0,No,Dalkey,Co. Dublin,q1,20%
+25/08/2011,"Apatrtment No. 9, Castle Park Court, 57 Castlepark Road Dalkey",Dublin,268722.0,Yes,Dalkey,Co. Dublin,q1,10%
+13/09/2011,"3 Ardbrugh Villas, Ardbrugh Road, Dalkey",Dublin,200000.0,No,Dalkey,Co. Dublin,q1,10%
+30/09/2011,"'Chescott', Barnhill Road, Dalkey",Dublin,350000.0,No,Dalkey,Co. Dublin,q1,20%
+30/09/2011,"Valdemar, 22 Wolverton Glen, Dalkey",Dublin,460000.0,No,Dalkey,Co. Dublin,q1,30%
+21/10/2011,"6 St Margaret'S Close, Castlepark Road, Dalkey",Dublin,375000.0,No,Dalkey,Co. Dublin,q1,20%
+03/11/2011,"Weston, Ardeevin Road, Dalkey",Dublin,1900000.0,No,Dalkey,Co. Dublin,q4,100%
+08/11/2011,"5 Craiglands, Ardeevin Road, Dalkey",Dublin,330000.0,No,Dalkey,Co. Dublin,q1,20%
+08/11/2011,"Coolbawn, Railway Road, Dalkey",Dublin,480000.0,No,Dalkey,Co. Dublin,q2,30%
+10/11/2011,"16 Whites Villas, Dalkey, Co Dublin",Dublin,335000.0,No,Dalkey,Co. Dublin,q1,20%
+10/11/2011,"Apartment Q Coliemore Apartments, Coliemore Road, Dalkey",Dublin,840000.0,No,Dalkey,Co. Dublin,q3,70%
+10/11/2011,"Prince Patrick House And Cottage, Knocknacree Road, Dalkey",Dublin,927000.0,No,Dalkey,Co. Dublin,q3,80%
+15/11/2011,"26 Knocknacree Park, Dalkey",Dublin,695000.0,No,Dalkey,Co. Dublin,q3,60%
+22/11/2011,"32 Knocknacree Park, Dalkey",Dublin,640000.0,No,Dalkey,Co. Dublin,q2,50%
+30/11/2011,"Apt 7 Castlepark Court, 57 Castlepark Road, Dalkey",Dublin,277500.0,Yes,Dalkey,Co. Dublin,q1,10%
+01/12/2011,"The White House, Beulah  Harbour Road, Dalkey",Dublin,120625.12,No,Dalkey,Co. Dublin,q1,10%
+09/12/2011,"12 Saval Park Gardens, Dalkey",Dublin,385000.0,No,Dalkey,Co. Dublin,q1,20%
+12/12/2011,"16 Ulverton Road, Dalkey, County Dublin",Dublin,725000.0,No,Dalkey,Co. Dublin,q3,60%
+19/12/2011,"'Alcove', Barnhill Road, Dalkey",Dublin,365000.0,No,Dalkey,Co. Dublin,q1,20%
+20/12/2011,"No.1 Inisbofin, Bailey View Harbour Road, Dalkey",Dublin,275000.0,No,Dalkey,Co. Dublin,q1,10%
+13/01/2012,"13 Proby Park, Barnhill Road, Dalkey",Dublin,399000.0,No,Dalkey,Co. Dublin,q1,20%
+20/01/2012,"20 Ard Mhuire Park, Dalkey, County Dublin",Dublin,855000.0,No,Dalkey,Co. Dublin,q3,70%
+27/01/2012,"21 Castlelands Grove, Hyde Road, Dalkey",Dublin,260000.0,No,Dalkey,Co. Dublin,q1,10%
+27/01/2012,"47 Castlepark, Castlepark Road, Dalkey",Dublin,395286.0,Yes,Dalkey,Co. Dublin,q1,20%
+03/02/2012,"Ravello, Vico Road, Dalkey",Dublin,2500000.0,No,Dalkey,Co. Dublin,q4,100%
+16/02/2012,"1 Ormond Terrace, Sorrento Road, Dalkey",Dublin,420000.0,No,Dalkey,Co. Dublin,q1,20%
+24/02/2012,"18 Castlelands Grove, Hyde Road, Dalkey",Dublin,276000.0,No,Dalkey,Co. Dublin,q1,10%
+27/02/2012,"Apartment 3, 1 Castle Close, Dalkey",Dublin,264317.18,Yes,Dalkey,Co. Dublin,q1,10%
+28/02/2012,"Rose Cottage, 17 Convent Road, Dalkey",Dublin,310000.0,No,Dalkey,Co. Dublin,q1,10%
+06/03/2012,"10 Proby Park, Barnhill Road, Dalkey",Dublin,270000.0,No,Dalkey,Co. Dublin,q1,10%
+07/03/2012,"Caprera, Grosvenor Terrace, Dalkey",Dublin,775000.0,No,Dalkey,Co. Dublin,q3,60%
+09/03/2012,"Apt4 Tuskar, Pilot View, Harbour Road Dalkey",Dublin,420000.0,No,Dalkey,Co. Dublin,q1,20%
+12/03/2012,"15 Wolverton Glen, Castlepark Road, Dalkey",Dublin,262000.0,No,Dalkey,Co. Dublin,q1,10%
+23/03/2012,"24 Ulverton Road, Dalkey",Dublin,825000.0,No,Dalkey,Co. Dublin,q3,70%
+30/03/2012,"Apt 10 Castlepark Court, 57 Castlepark Road, Dalkey",Dublin,431718.06,Yes,Dalkey,Co. Dublin,q1,20%
+23/04/2012,"6 Leslie Avenue, Dalkey",Dublin,483500.0,No,Dalkey,Co. Dublin,q2,30%
+25/04/2012,"16 Proby Park, Barnhill Road, Dalkey",Dublin,340000.0,No,Dalkey,Co. Dublin,q1,20%
+27/04/2012,"Linden Lodge, Castlepark Road, Dalkey",Dublin,581497.8,No,Dalkey,Co. Dublin,q2,40%
+02/05/2012,"Apartment 3, Castlepark Court, Dalkey",Dublin,233481.0,Yes,Dalkey,Co. Dublin,q1,10%
+10/05/2012,"23 Castlepark Road, Dalkey",Dublin,800000.0,No,Dalkey,Co. Dublin,q3,70%
+18/05/2012,"Apt 4 Castlepark Court, Castlepark Road, Dalkey",Dublin,305000.0,Yes,Dalkey,Co. Dublin,q1,10%
+21/05/2012,"13 Hyde Park, Dalkey",Dublin,483000.0,No,Dalkey,Co. Dublin,q2,30%
+21/05/2012,"17A Corrig Road, Dalkey",Dublin,365000.0,No,Dalkey,Co. Dublin,q1,20%
+23/05/2012,"3 Glandor, Pilot View, Harbour Road  Dalkey",Dublin,452000.0,No,Dalkey,Co. Dublin,q1,30%
+23/05/2012,"No 1 Inisbofin, Bailey View Harbour Road, Dalkey",Dublin,295000.0,No,Dalkey,Co. Dublin,q1,10%
+24/05/2012,"25 Dalkey Avenue, Dalkey",Dublin,600000.0,No,Dalkey,Co. Dublin,q2,40%
+25/05/2012,"Torca Garth, Torca Road, Dalkey",Dublin,805000.0,No,Dalkey,Co. Dublin,q3,70%
+28/05/2012,"17  The Village Gate, Dalkey",Dublin,326500.0,No,Dalkey,Co. Dublin,q1,20%
+22/06/2012,"31 Careysfort Court, Dalkey",Dublin,250000.0,No,Dalkey,Co. Dublin,q1,10%
+28/06/2012,"Ardbrugh House, Ardbrugh Road, Dalkey",Dublin,2650000.0,No,Dalkey,Co. Dublin,q4,100%
+29/06/2012,"Mount Carmel Ville, 17 Ardbrugh Road, Dalkey",Dublin,535000.0,No,Dalkey,Co. Dublin,q2,40%
+06/07/2012,"Apt. 8 Castlepark Court, Castlepark Road, Dalkey",Dublin,255175.0,Yes,Dalkey,Co. Dublin,q1,10%
+12/07/2012,"Tigin, St Patrick'S Road, Dalkey",Dublin,161500.0,No,Dalkey,Co. Dublin,q1,10%
+19/07/2012,"1 Saval Grove, Dalkey",Dublin,577500.0,No,Dalkey,Co. Dublin,q2,40%
+23/07/2012,"7 The Rise, Barnhill Road, Dalkey",Dublin,500000.0,No,Dalkey,Co. Dublin,q2,30%
+24/07/2012,"13 Castlelands, Hyde Road, Dalkey",Dublin,355000.0,No,Dalkey,Co. Dublin,q1,20%
+25/07/2012,"26 Whites Villa, Dalkey",Dublin,248000.0,No,Dalkey,Co. Dublin,q1,10%
+25/07/2012,"3 Lower Albert Road, Dalkey",Dublin,475000.0,No,Dalkey,Co. Dublin,q1,30%
+25/07/2012,"Altamont, Knocknacree Road, Dalkey",Dublin,2470001.0,No,Dalkey,Co. Dublin,q4,100%
+13/08/2012,"Emoclew, Anastasia Lane, Dalkey",Dublin,1295000.0,No,Dalkey,Co. Dublin,q4,90%
+15/08/2012,"20 Castlepark Road, Dalkey",Dublin,1000000.0,No,Dalkey,Co. Dublin,q4,80%
+17/08/2012,"1 Sorrento Mews, Sorrento Road, Dalkey",Dublin,315000.0,No,Dalkey,Co. Dublin,q1,10%
+20/08/2012,"4 Gosworth Park, Dalkey",Dublin,455000.0,No,Dalkey,Co. Dublin,q1,30%
+22/08/2012,"34 Castle Street, Dalkey",Dublin,235000.0,No,Dalkey,Co. Dublin,q1,10%
+23/08/2012,"9 Burgage, Dalkey Avenue, Dalkey",Dublin,316000.0,No,Dalkey,Co. Dublin,q1,10%
+30/08/2012,"11 Railway Road, Dalkey",Dublin,560000.0,No,Dalkey,Co. Dublin,q2,40%
+31/08/2012,"2 Sorrento Terrace, Dalkey",Dublin,2500000.0,No,Dalkey,Co. Dublin,q4,100%
+03/09/2012,"27 Knocknacree Park, Dalkey",Dublin,569000.0,No,Dalkey,Co. Dublin,q2,40%
+04/09/2012,"36 Coliemore Road, Dalkey",Dublin,2400000.0,No,Dalkey,Co. Dublin,q4,100%
+12/09/2012,"6 Tubbermore Road, Dalkey",Dublin,325000.0,No,Dalkey,Co. Dublin,q1,10%
+24/09/2012,"Apt 6 Castlepark Garden Residence, Castlepark Road, Dalkey",Dublin,568281.94,Yes,Dalkey,Co. Dublin,q2,40%
+26/09/2012,"29 Castle Park Garden Residence, Dalkey",Dublin,307075.0,Yes,Dalkey,Co. Dublin,q1,10%
+03/10/2012,"84 St Begnet'S Villas, Dalkey",Dublin,391500.0,No,Dalkey,Co. Dublin,q1,20%
+03/10/2012,"Apartment 1, 2  St. Patricks Avenue, Dalkey",Dublin,176000.0,No,Dalkey,Co. Dublin,q1,10%
+04/10/2012,"20 Vico Rock, Sorrento Road, Dalkey",Dublin,480000.0,No,Dalkey,Co. Dublin,q2,30%
+18/10/2012,"21 The Village Gate, Dalkey",Dublin,340000.0,No,Dalkey,Co. Dublin,q1,20%
+18/10/2012,"Roncalli, Dalkey Avenue, Dalkey",Dublin,862500.0,No,Dalkey,Co. Dublin,q3,70%
+19/10/2012,"3 Whites Villas, Dalkey",Dublin,250000.0,No,Dalkey,Co. Dublin,q1,10%
+19/10/2012,"Prince Patrick Cottage, Knocknacree Road, Dalkey",Dublin,450000.0,No,Dalkey,Co. Dublin,q1,30%
+31/10/2012,"'Ulysses', Ardbrugh Road, Dalkey",Dublin,575000.0,No,Dalkey,Co. Dublin,q2,40%
+05/11/2012,"6 Saval Park Gardens, Dalkey",Dublin,480000.0,No,Dalkey,Co. Dublin,q2,30%
+06/11/2012,"19 Craiglands, Ardeevin, Dalkey",Dublin,335000.0,No,Dalkey,Co. Dublin,q1,20%
+06/11/2012,"27 Ard Mhuire Park, Dalkey",Dublin,470000.0,No,Dalkey,Co. Dublin,q1,30%
+06/11/2012,"Apt 1. Castlepark Gardens, Castlepark Road, Dalkey",Dublin,229075.0,Yes,Dalkey,Co. Dublin,q1,10%
+14/11/2012,"Bartra House, Harbour Road, Dalkey",Dublin,3000000.0,No,Dalkey,Co. Dublin,q4,100%
+21/11/2012,"2 Tubbermore Avenue, Dalkey",Dublin,467500.0,No,Dalkey,Co. Dublin,q1,30%
+26/11/2012,"Laragh Mews, Ardeevin Road, Dalkey",Dublin,415000.0,No,Dalkey,Co. Dublin,q1,20%
+03/12/2012,"Laurel Lodge, 42 Barnhill Road, Dalkey",Dublin,719000.0,No,Dalkey,Co. Dublin,q3,60%
+11/12/2012,"20 Whites Villas, Dalkey, Co Dublin",Dublin,296000.0,No,Dalkey,Co. Dublin,q1,10%
+14/12/2012,"2 Helvick, Pilot View  Harbour Road, Dalkey",Dublin,410000.0,No,Dalkey,Co. Dublin,q1,20%
+14/12/2012,"Rocklands, Harbour Road, Dalkey",Dublin,2200000.0,No,Dalkey,Co. Dublin,q4,100%
+17/12/2012,"55 Hillside, Dalkey, Co. Dublin",Dublin,475000.0,No,Dalkey,Co. Dublin,q1,30%
+17/12/2012,"Moytura Lodge, Barnhill Road, Dalkey",Dublin,430000.0,No,Dalkey,Co. Dublin,q1,20%
+21/12/2012,"Apartment 2 Castlepark Court, Castlepark Road, Dalkey",Dublin,220264.0,Yes,Dalkey,Co. Dublin,q1,10%
+21/12/2012,"Apartment 5, Castlepark Cart, 57 Castlepark Road  Dalkey",Dublin,245000.0,Yes,Dalkey,Co. Dublin,q1,10%
+24/12/2012,"1 Castle Mews, Castle Street, Dalkey",Dublin,237500.0,No,Dalkey,Co. Dublin,q1,10%
+24/12/2012,"24 St Begnet'S Villas, Dalkey",Dublin,225000.0,No,Dalkey,Co. Dublin,q1,10%
+28/12/2012,"Grianan, 18 Barnhill Road, Dalkey",Dublin,235000.0,No,Dalkey,Co. Dublin,q1,10%
+11/01/2013,"Ardeevin House, Ardeevin Road, Dalkey",Dublin,12335.51,No,Dalkey,Co. Dublin,q1,10%
+22/01/2013,"56 Ulverton Road, Dalkey",Dublin,760000.0,No,Dalkey,Co. Dublin,q3,60%
+25/01/2013,"5 Coliemore Road, Dalkey",Dublin,575000.0,No,Dalkey,Co. Dublin,q2,40%
+08/02/2013,"8 Vico Rock, Sorrento Road, Dalkey",Dublin,465000.0,No,Dalkey,Co. Dublin,q1,30%
+18/02/2013,"Seaverge, 51 Coliemore Road, Dalkey",Dublin,685000.0,No,Dalkey,Co. Dublin,q2,50%
+22/02/2013,"20 Ulverton Road, Dalkey",Dublin,755000.0,No,Dalkey,Co. Dublin,q3,60%
+22/02/2013,"5 Ardbrugh Close, Dalkey",Dublin,650000.0,No,Dalkey,Co. Dublin,q2,50%
+27/02/2013,"'Sallymount', Coliemore Road, Dalkey",Dublin,770000.0,No,Dalkey,Co. Dublin,q3,60%
+01/03/2013,"61 Saval Park Road, Dalkey",Dublin,525000.0,No,Dalkey,Co. Dublin,q2,40%
+01/03/2013,"Apt 1 Castlepark Court, Castlepark Road, Dalkey",Dublin,220264.0,Yes,Dalkey,Co. Dublin,q1,10%
+07/03/2013,"45 Castlepark Road, Dalkey",Dublin,1070000.0,No,Dalkey,Co. Dublin,q4,80%
+11/03/2013,"5 The Burgage, Dalkey Avenue, Co. Dublin",Dublin,327000.0,No,Dalkey,Co. Dublin,q1,20%
+28/03/2013,"13 Gosworth Park, Dalkey",Dublin,532500.0,No,Dalkey,Co. Dublin,q2,40%
+03/04/2013,"1 Hyde Park, Dalkey",Dublin,1010000.0,No,Dalkey,Co. Dublin,q4,80%
+04/04/2013,"Topcliffe, Ardbrugh Road, Dalkey",Dublin,742100.0,No,Dalkey,Co. Dublin,q3,60%
+12/04/2013,"Graymoor House, Loreto Road, Dalkey",Dublin,550000.0,No,Dalkey,Co. Dublin,q2,40%
+12/04/2013,"Number 2 Brigadee, Sorrento Road, Dalkey",Dublin,700000.0,No,Dalkey,Co. Dublin,q3,60%
+26/04/2013,"26 Castle Street, Dalkey",Dublin,465001.0,No,Dalkey,Co. Dublin,q1,30%
+29/04/2013,"Iveragh, 21 Saval Park Road, Dalkey",Dublin,774000.0,No,Dalkey,Co. Dublin,q3,60%
+30/04/2013,"18 Whites Villas, Dalkey",Dublin,210000.0,No,Dalkey,Co. Dublin,q1,10%
+10/05/2013,"4Castle Close, Dalkey",Dublin,900000.0,No,Dalkey,Co. Dublin,q3,80%
+15/05/2013,"5 Ulverton Court, Dalkey",Dublin,230000.0,No,Dalkey,Co. Dublin,q1,10%
+21/05/2013,"Apartment 1A, Coliemore Apartments, Coliemore Road  Dalkey",Dublin,670000.0,No,Dalkey,Co. Dublin,q2,50%
+06/06/2013,"5 Montevella, Dalkey",Dublin,1200000.0,No,Dalkey,Co. Dublin,q4,90%
+14/06/2013,"Ravenswood (Otherwise St. Johns), 15 Church Wood, Dalkey",Dublin,570000.0,No,Dalkey,Co. Dublin,q2,40%
+21/06/2013,"6 Fairlawns, Saval Park Road, Dalkey",Dublin,574000.0,No,Dalkey,Co. Dublin,q2,40%
+05/07/2013,"16 Bartra Rock, Harbour Road, Dalkey",Dublin,360000.0,No,Dalkey,Co. Dublin,q1,20%
+10/07/2013,"103 Hillside, Dalkey",Dublin,440000.0,No,Dalkey,Co. Dublin,q1,30%
+18/07/2013,"1 Wolverton Glen, Dalkey",Dublin,552500.0,No,Dalkey,Co. Dublin,q2,40%
+22/07/2013,"56 Ulverton Road, Dalkey, Co. Dublin",Dublin,900000.0,No,Dalkey,Co. Dublin,q3,80%
+24/07/2013,"2 Vico Terrace, Vico Road, Dalkey",Dublin,1550000.0,No,Dalkey,Co. Dublin,q4,90%
+25/07/2013,"St. Mary'S, Victoria Road, Dalkey",Dublin,650000.0,No,Dalkey,Co. Dublin,q2,50%
+31/07/2013,"6 Barnhill Grove, Dalkey",Dublin,641000.0,No,Dalkey,Co. Dublin,q2,50%
+31/07/2013,"Termon, Barnhill Road, Dalkey",Dublin,720000.0,No,Dalkey,Co. Dublin,q3,60%
+01/08/2013,"5 Glencairn, Harbour Rd, Dalkey",Dublin,280000.0,No,Dalkey,Co. Dublin,q1,10%
+07/08/2013,"2 Tubbermore Road, Dalkey",Dublin,585000.0,No,Dalkey,Co. Dublin,q2,40%
+12/08/2013,"6 And 6A Railway Road, Dalkey",Dublin,200000.0,No,Dalkey,Co. Dublin,q1,10%
+12/08/2013,"Apt 11 Claddagh, Bailey View, Dalkey",Dublin,490000.0,No,Dalkey,Co. Dublin,q2,30%
+13/08/2013,"9 Arkendale Court, Dalkey",Dublin,315000.0,No,Dalkey,Co. Dublin,q1,10%
+19/08/2013,"48 Hillside, Dalkey",Dublin,560000.0,No,Dalkey,Co. Dublin,q2,40%
+09/09/2013,"29 Ulverton Road, Dalkey",Dublin,1000000.0,No,Dalkey,Co. Dublin,q4,80%
+10/09/2013,"6 Wolverton Glen, Dalkey",Dublin,390000.0,No,Dalkey,Co. Dublin,q1,20%
+16/09/2013,"Avalon, Cunningham Road, Dalkey",Dublin,832000.0,No,Dalkey,Co. Dublin,q3,70%
+16/09/2013,"Corcumrua, Saval Park Road, Dalkey",Dublin,660000.0,No,Dalkey,Co. Dublin,q2,50%
+19/09/2013,"6 Ardmhuire Park, Dalkey",Dublin,685000.0,No,Dalkey,Co. Dublin,q3,60%
+23/09/2013,"Walton, Castlepark Road, Dalkey",Dublin,870000.0,No,Dalkey,Co. Dublin,q3,70%
+27/09/2013,"'Spindrift', Saval Park Road, Dalkey",Dublin,1100000.0,No,Dalkey,Co. Dublin,q4,80%
+30/09/2013,"The James Gallery, 7 Railway Road, Dalkey",Dublin,150000.0,No,Dalkey,Co. Dublin,q1,10%
+01/10/2013,"5 Meany Avenue, Dalkey",Dublin,257000.0,No,Dalkey,Co. Dublin,q1,10%
+02/10/2013,"25 Mapas Road, Dalkey",Dublin,505000.0,No,Dalkey,Co. Dublin,q2,30%
+03/10/2013,"89A Sorrento Road, Dalkey",Dublin,360000.0,No,Dalkey,Co. Dublin,q1,20%
+14/10/2013,"21 Corrig Road, Dalkey, Co Dublin",Dublin,480000.0,No,Dalkey,Co. Dublin,q2,30%
+16/10/2013,"1 Summerville Terrace, Dalkey, Co Dublin",Dublin,665000.0,No,Dalkey,Co. Dublin,q2,50%
+16/10/2013,"7 Dalkey Court, Dalkey, Co Dublin",Dublin,240000.0,No,Dalkey,Co. Dublin,q1,10%
+17/10/2013,"51 Hyde Road, Dalkey",Dublin,550000.0,No,Dalkey,Co. Dublin,q2,40%
+18/10/2013,"22 Sorrento Court, Dalkey",Dublin,257500.0,No,Dalkey,Co. Dublin,q1,10%
+23/10/2013,"15 Sorrento Heights, Dalkey",Dublin,260000.0,No,Dalkey,Co. Dublin,q1,10%
+24/10/2013,"21 Craiglands, Ardeevin Road, Dalkey",Dublin,552500.0,No,Dalkey,Co. Dublin,q2,40%
+01/11/2013,"37 The Village Gate, Dalkey",Dublin,485000.0,No,Dalkey,Co. Dublin,q2,30%
+05/11/2013,"28 Barnhill Avenue, Dalkey",Dublin,625000.0,No,Dalkey,Co. Dublin,q2,50%
+08/11/2013,"4 Torca View, Dalkey, Dublin",Dublin,400000.0,No,Dalkey,Co. Dublin,q1,20%
+15/11/2013,"12 Termon, Castle Street, Dalkey",Dublin,344000.0,No,Dalkey,Co. Dublin,q1,20%
+15/11/2013,"St Ritas, Hyde Rd, Dalkey",Dublin,540000.0,No,Dalkey,Co. Dublin,q2,40%
+15/11/2013,"St. Heliers, Sorrento Road, Dalkey",Dublin,900000.0,No,Dalkey,Co. Dublin,q3,80%
+20/11/2013,"13 Gosworth Park, Dalkey, Co. Dublin",Dublin,601000.0,No,Dalkey,Co. Dublin,q2,50%
+22/11/2013,"11 Termon, 59 Castle St, Dalkey",Dublin,380000.0,No,Dalkey,Co. Dublin,q1,20%
+22/11/2013,"Apartment 3 Derrymore, Coliemore Road, Dalkey",Dublin,750000.0,No,Dalkey,Co. Dublin,q3,60%
+25/11/2013,"35 Knock Na Cree Park, Dalkey",Dublin,725000.0,No,Dalkey,Co. Dublin,q3,60%
+04/12/2013,"Gorse Hill, Knocknacree Rd, Dalkey",Dublin,1650000.0,No,Dalkey,Co. Dublin,q4,100%
+06/12/2013,"3 Seaview House, Coliemore Road, Dalkey",Dublin,290000.0,No,Dalkey,Co. Dublin,q1,10%
+06/12/2013,"Jamrud, Sorrento Rd, Dalkey",Dublin,840000.0,No,Dalkey,Co. Dublin,q3,70%
+06/12/2013,"Whiterock House, Vico Rd, Dalkey",Dublin,1100000.0,No,Dalkey,Co. Dublin,q4,80%
+11/12/2013,"10 Dalkey Park, Dalkey",Dublin,578000.0,No,Dalkey,Co. Dublin,q2,40%
+11/12/2013,"29 Castle Park Garden Residence, Dalkey",Dublin,320000.0,No,Dalkey,Co. Dublin,q1,10%
+11/12/2013,"La Scala, Vico Rd, Dalkey",Dublin,986000.0,No,Dalkey,Co. Dublin,q4,80%
+17/12/2013,"6 Hyde Park, Dalkey, Dublin",Dublin,840000.0,No,Dalkey,Co. Dublin,q3,70%
+18/12/2013,"1 Fortwans, Filliney Rd, Dalkey",Dublin,600000.0,No,Dalkey,Co. Dublin,q2,40%
+19/12/2013,"1 Dalkey Court, Barnhill Rd, Dalkey",Dublin,280000.0,No,Dalkey,Co. Dublin,q1,10%
+19/12/2013,"Apt 4, 82 Coliemore Rd, Dalkey",Dublin,310000.0,No,Dalkey,Co. Dublin,q1,10%
+20/12/2013,"3 Ulverton Court, Ulverton, Dalkey",Dublin,310000.0,No,Dalkey,Co. Dublin,q1,10%
+20/12/2013,"Alexis House, Convent Rd, Dalkey",Dublin,840000.0,No,Dalkey,Co. Dublin,q3,70%
+23/12/2013,"34 Castlepark Road, Dalkey",Dublin,348018.0,Yes,Dalkey,Co. Dublin,q1,20%
+23/12/2013,"Apt 10 Castlepark Gardens, Castlepark Road, Dalkey",Dublin,365639.0,Yes,Dalkey,Co. Dublin,q1,20%
+23/12/2013,"Apt 35 Castlepark Gardens Residence, Castlepark Road, Dalkey",Dublin,248458.0,Yes,Dalkey,Co. Dublin,q1,10%
+23/12/2013,"Apt 7 Castelpark Gardens, Castlepark Road, Dalkey",Dublin,325991.0,Yes,Dalkey,Co. Dublin,q1,10%
+23/12/2013,"Roxborough House, Colliemore Road, Dalkey",Dublin,2350000.0,No,Dalkey,Co. Dublin,q4,100%
+24/12/2013,"Kilmullen, Castle Park Rd, Dalkey",Dublin,560000.0,No,Dalkey,Co. Dublin,q2,40%
+15/01/2014,"41 Castlepark Residence, Castlepark Road, Dalkey",Dublin,375000.0,Yes,Dalkey,Co. Dublin,q1,20%
+17/01/2014,"Fernlea, Barnhill Road, Dalkey",Dublin,700000.0,No,Dalkey,Co. Dublin,q3,60%
+22/01/2014,"Capri, Ard Mhuire Park, Dalkey",Dublin,910000.0,No,Dalkey,Co. Dublin,q3,80%
+27/01/2014,"40 St Begnets Villas, Dalkey, Dublin",Dublin,420000.0,No,Dalkey,Co. Dublin,q1,20%
+28/01/2014,"5 Ormeau Dr, Dalkey, Dublin",Dublin,615000.0,No,Dalkey,Co. Dublin,q2,50%
+05/02/2014,"24 Corrig Rd, Dalkey, Dublin",Dublin,920000.0,No,Dalkey,Co. Dublin,q3,80%
+14/02/2014,"Shenandoah, Sorrento Heights, Sorrento Road Dalkey",Dublin,967500.0,No,Dalkey,Co. Dublin,q4,80%
+17/02/2014,"35 Carysfort Road, Dalkey, Co Dublin",Dublin,350000.0,No,Dalkey,Co. Dublin,q1,20%
+20/02/2014,"49 Hillside, Dalkey, Dublin",Dublin,610000.0,No,Dalkey,Co. Dublin,q2,50%
+16/04/2014,"Rock Cottage, Harbour Rd, Dalkey",Dublin,238000.0,No,Dalkey,Co. Dublin,q1,10%
+17/04/2014,"7 Vico Rock, Sorrento Court, Dalkey",Dublin,340000.0,No,Dalkey,Co. Dublin,q1,20%
+24/04/2014,"1 Helvick, Pilot View, Dalkey",Dublin,410000.0,No,Dalkey,Co. Dublin,q1,20%
+01/05/2014,"1 Barnhill Ave, Dalkey, Dublin",Dublin,830000.0,No,Dalkey,Co. Dublin,q3,70%
+01/05/2014,"53 Hillside, Dalkey, Dublin",Dublin,692000.0,No,Dalkey,Co. Dublin,q3,60%
+08/05/2014,"Kenzai, 7A Ardeevin Rd, Dalkey",Dublin,865000.0,No,Dalkey,Co. Dublin,q3,70%
+13/05/2014,"Parkville, Sorrento Rd, Dalkey",Dublin,810000.0,No,Dalkey,Co. Dublin,q3,70%
+14/05/2014,"22 Bartra Rock, Harbour Rd, Dalkey",Dublin,625000.0,No,Dalkey,Co. Dublin,q2,50%
+15/05/2014,"2 & 3 Queenstown Castle, Coliemore Road, Dalkey",Dublin,660000.0,No,Dalkey,Co. Dublin,q2,50%
+15/05/2014,"31 Knock Na Cree Park, Dalkey, Dublin",Dublin,1001100.0,No,Dalkey,Co. Dublin,q4,80%
+22/05/2014,"1 Barnhill Park, Saval Park Rd, Dalkey",Dublin,730000.0,No,Dalkey,Co. Dublin,q3,60%
+22/05/2014,"Harbourne, 11 Tubbermore Rd, Dalkey Dublin 1",Dublin,830000.0,No,Dalkey,Co. Dublin,q3,70%
+26/05/2014,"5 Berwick House, Coliemore Rd, Dalkey",Dublin,575000.0,No,Dalkey,Co. Dublin,q2,40%
+28/05/2014,"17 Sorrento Heights, Sorrento Rd, Dalkey",Dublin,627500.0,No,Dalkey,Co. Dublin,q2,50%
+29/05/2014,"14 Castlepark Residence, Castlepark Road, Dalkey",Dublin,310000.0,No,Dalkey,Co. Dublin,q1,10%
+30/05/2014,"3 Sorrento Terrace, Dalkey, Co. Dublin",Dublin,3000000.0,No,Dalkey,Co. Dublin,q4,100%
+05/06/2014,"25 The Village Gate, Dalkey, Dublin",Dublin,690000.0,No,Dalkey,Co. Dublin,q3,60%
+05/06/2014,"The Willows, Saval Park Rd, Dalkey",Dublin,895000.0,No,Dalkey,Co. Dublin,q3,80%
+12/06/2014,"4 Carysfort Court, Dalkey, Dublin",Dublin,375000.0,No,Dalkey,Co. Dublin,q1,20%
+13/06/2014,"5 Dalkey Avenue, Dalkey",Dublin,535000.0,No,Dalkey,Co. Dublin,q2,40%
+20/06/2014,"39 Castlepark Residence, Castlepark Road, Dalkey",Dublin,436123.0,Yes,Dalkey,Co. Dublin,q1,30%
+23/06/2014,"45 Hillside, Dalkey, County Dublin",Dublin,701000.0,No,Dalkey,Co. Dublin,q3,60%
+24/06/2014,"Stone Loft, Barnhill Rd, Dalkey",Dublin,175000.0,No,Dalkey,Co. Dublin,q1,10%
+26/06/2014,"11 Mapas Ave, Dalkey, Dublin",Dublin,600000.0,No,Dalkey,Co. Dublin,q2,40%
+26/06/2014,"21 Castle Park Rd, Dalkey, Dublin",Dublin,1330000.0,No,Dalkey,Co. Dublin,q4,90%
+02/07/2014,"4 Meany Ave, Dalkey, Dublin",Dublin,335000.0,No,Dalkey,Co. Dublin,q1,20%
+04/07/2014,"48 Castle St, Dalkey, Dublin",Dublin,528549.99,No,Dalkey,Co. Dublin,q2,40%
+04/07/2014,"5 Saval Park Gardens, Dalkey, Dublin",Dublin,680000.0,No,Dalkey,Co. Dublin,q2,50%
+11/07/2014,"38 Mapas Rd, Dalkey, Dublin",Dublin,580000.0,No,Dalkey,Co. Dublin,q2,40%
+17/07/2014,"2 Ullardmor, Ardeevin Rd, Dalkey",Dublin,1242500.0,No,Dalkey,Co. Dublin,q4,90%
+29/07/2014,"92A Sorrento Rd, Dalkey, Dublin",Dublin,200000.0,No,Dalkey,Co. Dublin,q1,10%
+29/07/2014,"Eastmount, Knocknacree Road, Dalkey",Dublin,1480000.0,No,Dalkey,Co. Dublin,q4,90%
+06/08/2014,"Ardeevin House, Ardeevin Road, Dalkey",Dublin,2350000.0,No,Dalkey,Co. Dublin,q4,100%
+14/08/2014,"Ardeevin, Saval Park Rd, Dalkey",Dublin,1040000.0,No,Dalkey,Co. Dublin,q4,80%
+26/08/2014,"Apt L, Coliemore Road, Dalkey",Dublin,650000.0,No,Dalkey,Co. Dublin,q2,50%
+28/08/2014,"12 Ulverton Road, Dalkey, Co Dublin",Dublin,950000.0,No,Dalkey,Co. Dublin,q3,80%
+29/08/2014,"12 Wolverton Glen, Castle Park Rd, Dalkey",Dublin,510000.0,No,Dalkey,Co. Dublin,q2,30%
+01/09/2014,"5 Rossaun, Pilot View, Dalkey",Dublin,500000.0,No,Dalkey,Co. Dublin,q2,30%
+05/09/2014,"3 Kintyre Pilot View, Harbour Rd, Dalkey",Dublin,425000.0,No,Dalkey,Co. Dublin,q1,20%
+05/09/2014,"Waterside, 34 Coliemore Road, Dalkey",Dublin,1000000.0,No,Dalkey,Co. Dublin,q4,80%
+08/09/2014,"Khyber Lodge, Nerano Rd, Dalkey",Dublin,1500000.0,No,Dalkey,Co. Dublin,q4,90%
+12/09/2014,"94 St Begnets Villas, Dalkey, Dublin",Dublin,480000.0,No,Dalkey,Co. Dublin,q2,30%
+12/09/2014,"Monagae, 41 Barnhill Rd, Dalkey",Dublin,860000.0,No,Dalkey,Co. Dublin,q3,70%
+15/09/2014,"Oaklands, Tubbermore Rd, Dalkey",Dublin,375000.0,No,Dalkey,Co. Dublin,q1,20%
+17/09/2014,"6 Berwick House, Coliemore Rd, Dalkey",Dublin,499950.0,No,Dalkey,Co. Dublin,q2,30%
+23/09/2014,"Apartment S, Coliemore Apartments, Dalkey",Dublin,1085000.0,No,Dalkey,Co. Dublin,q4,80%
+26/09/2014,"Proby Park House  Proby Park, Barnhill Road, Dalkey",Dublin,2490000.0,No,Dalkey,Co. Dublin,q4,100%
+09/10/2014,"30 Carysfort Rd, Dalkey, Dublin",Dublin,970000.0,No,Dalkey,Co. Dublin,q4,80%
+13/10/2014,"11 Barnhill Ave, Barnhill Rd, Dalkey",Dublin,642000.0,No,Dalkey,Co. Dublin,q2,50%
+13/10/2014,"12 Castlepark Residence, Castlepark Road, Dalkey",Dublin,450000.0,Yes,Dalkey,Co. Dublin,q1,30%
+15/10/2014,"5 Sorrento Mews, Sorrento Rd, Dalkey",Dublin,562500.0,No,Dalkey,Co. Dublin,q2,40%
+17/10/2014,"Ard Na Greine, Ardeevin Rd, Dalkey",Dublin,2695000.0,No,Dalkey,Co. Dublin,q4,100%
+31/10/2014,"Apt 21 Castlepark Residence, Dalkey",Dublin,427312.0,Yes,Dalkey,Co. Dublin,q1,20%
+06/11/2014,"Dalkey Manor & Dalkey Lodge, Barnhill Road, Dalkey",Dublin,5000000.0,No,Dalkey,Co. Dublin,q4,100%
+09/11/2014,"Apartment 8, Castlepark  Castlepark Road, Dalkey",Dublin,295000.0,Yes,Dalkey,Co. Dublin,q1,10%
+11/11/2014,"Damur, 37 Hyde Rd, Dalkey",Dublin,600000.0,No,Dalkey,Co. Dublin,q2,40%
+21/11/2014,"6 Cunningham Dr, Dalkey, Dublin",Dublin,760000.0,No,Dalkey,Co. Dublin,q3,60%
+21/11/2014,"Winmarleigh, 60 Ulverton Rd, Dalkey",Dublin,950000.0,No,Dalkey,Co. Dublin,q3,80%
+28/11/2014,"8 Saval Park Gardens, Dalkey, Dublin",Dublin,655000.0,No,Dalkey,Co. Dublin,q2,50%
+28/11/2014,"Roan Carraig, Harbour Rd, Dalkey",Dublin,1250000.0,No,Dalkey,Co. Dublin,q4,90%
+01/12/2014,"Mount Carmel Ville, 17 Ardbrugh Rd, Dalkey",Dublin,695000.0,No,Dalkey,Co. Dublin,q3,60%
+03/12/2014,"1 Desmond Cottages, Dalkey Hill, Dalkey",Dublin,485000.0,No,Dalkey,Co. Dublin,q2,30%
+09/12/2014,"The Gables, Barnhill Rd, Dalkey",Dublin,765000.0,No,Dalkey,Co. Dublin,q3,60%
+10/12/2014,"27 Knocknacree Park, Dalkey, Dublin",Dublin,990000.0,No,Dalkey,Co. Dublin,q4,80%
+11/12/2014,"15 Corrig Rd, Dalkey, Co. Dublin",Dublin,430000.0,No,Dalkey,Co. Dublin,q1,20%
+12/12/2014,"15 Barnhill Ave, Dalkey, Dublin",Dublin,622000.0,No,Dalkey,Co. Dublin,q2,50%
+15/12/2014,"Barta Studio, Harbour Road, Dalkey",Dublin,425000.0,No,Dalkey,Co. Dublin,q1,20%
+18/12/2014,"48 Carysfort Rd, Carraig, Dalkey",Dublin,650000.0,No,Dalkey,Co. Dublin,q2,50%
+30/12/2014,"112 Hillside, Dalkey, Dublin",Dublin,645000.0,No,Dalkey,Co. Dublin,q2,50%
+07/01/2015,"Apartment B Coliemore Apartments, Coliemore Road, Dalkey",Dublin,550000.0,No,Dalkey,Co. Dublin,q2,40%
+23/01/2015,"86 St. Begnet'S Villas, Dalkey",Dublin,550000.0,No,Dalkey,Co. Dublin,q2,40%
+28/01/2015,"10 Tubbermore Rd, Dalkey, Dublin",Dublin,1100000.0,No,Dalkey,Co. Dublin,q4,90%
+29/01/2015,"1 Sorrento Lawn, Dalkey, Dublin",Dublin,820000.0,No,Dalkey,Co. Dublin,q3,70%
+30/01/2015,"37 Castlepark Residences, Castlepark Road, Dalkey",Dublin,440485.0,Yes,Dalkey,Co. Dublin,q1,30%
+09/02/2015,"1 Saint Begnet'S Villas, Dalkey, Co. Dublin",Dublin,336000.0,No,Dalkey,Co. Dublin,q1,20%
+12/02/2015,"Lissadell, Ulverton Close, Dalkey",Dublin,950000.0,No,Dalkey,Co. Dublin,q3,80%
+22/02/2015,"2 Sorrento Heights, Sorrento Rd, Dalkey",Dublin,700000.0,No,Dalkey,Co. Dublin,q3,60%
+23/02/2015,"17 Corrig Rd, Dalkey, Dublin",Dublin,705500.0,No,Dalkey,Co. Dublin,q3,60%
+24/02/2015,"Apartment 25, Castlepark Residence, Castlepark Road  Dalkey",Dublin,246696.03,Yes,Dalkey,Co. Dublin,q1,10%
+02/03/2015,"27 Castlelands Grove, Hyde Rd, Dalkey",Dublin,444000.0,No,Dalkey,Co. Dublin,q1,30%
+03/03/2015,"19 Whites Villas, Dalkey, Dublin",Dublin,415000.0,No,Dalkey,Co. Dublin,q1,20%
+06/03/2015,"3 Tubbermore Road, Dalkey, Co Dublin",Dublin,610000.0,No,Dalkey,Co. Dublin,q2,50%
+09/03/2015,"14 Castlepark Residence, Castlepark Road, Dalkey",Dublin,310000.0,No,Dalkey,Co. Dublin,q1,10%
+16/03/2015,"40 Mapas Rd, Dalkey, Dublin",Dublin,620000.0,No,Dalkey,Co. Dublin,q2,50%
+18/03/2015,"27 Wolverton Glen, Castlepark Rd, Dalkey",Dublin,545000.0,No,Dalkey,Co. Dublin,q2,40%
+26/03/2015,"Nerano Rd, Nerano House, Dalkey",Dublin,3300000.0,No,Dalkey,Co. Dublin,q4,100%
+27/03/2015,"21 Sorrento Court, Sorrento Rd, Dalkey",Dublin,350000.0,No,Dalkey,Co. Dublin,q1,20%
+04/05/2015,"13 Termon, 59 Castle Street, Dalkey",Dublin,625000.0,No,Dalkey,Co. Dublin,q2,50%
+07/05/2015,"2 Eden Rock, Dalkey Harbour, Dalkey",Dublin,2200000.0,No,Dalkey,Co. Dublin,q4,100%
+25/05/2015,"Aisling, Barnacoille Park, Dalkey",Dublin,695000.0,No,Dalkey,Co. Dublin,q3,60%
+29/05/2015,"Rock Cottage, Harbour Rd, Dalkey",Dublin,685000.0,No,Dalkey,Co. Dublin,q3,60%
+02/06/2015,"8 Mapas Avenue, Dalkey",Dublin,595000.0,No,Dalkey,Co. Dublin,q2,40%
+05/06/2015,"5 Derrynane Terrace, Convent Rd, Dalkey",Dublin,803500.0,No,Dalkey,Co. Dublin,q3,70%
+09/06/2015,"29 Carysfort Rd, Dalkey, Dublin",Dublin,390000.0,No,Dalkey,Co. Dublin,q1,20%
+12/06/2015,"Top Floor Apartment, 5 Vico Rd, Dalkey",Dublin,588972.0,No,Dalkey,Co. Dublin,q2,40%
+25/06/2015,"Cnoc Aluinn, 92 Coliemore Rd, Dalkey",Dublin,2500000.0,No,Dalkey,Co. Dublin,q4,100%
+26/06/2015,"Stone Loft, Barnhill Rd, Dalkey",Dublin,445000.0,No,Dalkey,Co. Dublin,q1,30%
+29/06/2015,"3 Carysfort Dr, Dalkey, Dublin",Dublin,770000.0,No,Dalkey,Co. Dublin,q3,60%
+30/06/2015,"4 Bartra Rock, Harbour Road, Dalkey",Dublin,1150000.0,No,Dalkey,Co. Dublin,q4,90%
+01/07/2015,"1 Coliemore Villas, Dalkey, Dublin",Dublin,2350000.0,No,Dalkey,Co. Dublin,q4,100%
+02/07/2015,"2 Eagle Terrace Sorrento Rd, Dalkey, Dublin",Dublin,1600000.0,No,Dalkey,Co. Dublin,q4,90%
+02/07/2015,"2 Mayville Terrace, Leslie Avenue, Dalkey",Dublin,720000.0,No,Dalkey,Co. Dublin,q3,60%
+08/07/2015,"12 Glencairn, Harbour Rd, Dalkey",Dublin,452500.0,No,Dalkey,Co. Dublin,q1,30%
+10/07/2015,"Uplands, Dalkey Ave, Dalkey",Dublin,1525000.0,No,Dalkey,Co. Dublin,q4,90%
+13/07/2015,"9 Tubbermore Rd, Dalkey, Dublin",Dublin,935000.0,No,Dalkey,Co. Dublin,q3,80%
+14/07/2015,"Padua, 31 Corrig Road, Dalkey",Dublin,710000.0,No,Dalkey,Co. Dublin,q3,60%
+15/07/2015,"'The Kerries', Dalkey Avenue  Dalkey",Dublin,1125000.0,No,Dalkey,Co. Dublin,q4,90%
+16/07/2015,"9 Termon, Castle St, Dalkey",Dublin,610000.0,No,Dalkey,Co. Dublin,q2,50%
+20/07/2015,"Radharc, 5 Knocknacree Grove, Dalkey",Dublin,1015000.0,No,Dalkey,Co. Dublin,q4,80%
+28/07/2015,"4 Barnhill Lawn, Dalkey, Dublin",Dublin,725000.0,No,Dalkey,Co. Dublin,q3,60%
+28/07/2015,"Apt 5 Vico Rock, Sorrento Road, Dalkey",Dublin,365000.0,No,Dalkey,Co. Dublin,q1,20%
+29/07/2015,"Emaus, 43 Barnhill Rd, Dalkey",Dublin,800000.0,No,Dalkey,Co. Dublin,q3,70%
+31/07/2015,"Glenalmond, Dalkey Ave, Dalkey",Dublin,1067000.0,No,Dalkey,Co. Dublin,q4,80%
+05/08/2015,"Killea, Barnhill Road, Dalkey",Dublin,735000.0,No,Dalkey,Co. Dublin,q3,60%
+06/08/2015,"37 Castle Park Rd, Dalkey, Dublin",Dublin,1780000.0,No,Dalkey,Co. Dublin,q4,100%
+14/08/2015,"Braeside, Barnhill Rd, Dalkey",Dublin,1040000.0,No,Dalkey,Co. Dublin,q4,80%
+17/08/2015,"24 Dalkey Ave, Dalkey, Dublin",Dublin,870000.0,No,Dalkey,Co. Dublin,q3,70%
+18/08/2015,"Grovelands, 8 Barnhill Rd, Dalkey",Dublin,1300000.0,No,Dalkey,Co. Dublin,q4,90%
+19/08/2015,"Cnoc Bre, Hyde Rd, Dalkey",Dublin,1000000.0,No,Dalkey,Co. Dublin,q4,80%
+20/08/2015,"Oidonno, 1 Torca Road, Dalkey",Dublin,1560000.0,No,Dalkey,Co. Dublin,q4,90%
+24/08/2015,"3 The Rise, Barnhill Rd, Dalkey",Dublin,636000.0,No,Dalkey,Co. Dublin,q2,50%
+24/08/2015,"8 Leslie Ave, Dalkey, Dublin",Dublin,860000.0,No,Dalkey,Co. Dublin,q3,70%
+26/08/2015,"7 & 8 Bartra Rock, Harbour Rd, Dalkey",Dublin,735000.0,No,Dalkey,Co. Dublin,q3,60%
+26/08/2015,"Leoville, Barnhill Rd, Dalkey",Dublin,625000.0,No,Dalkey,Co. Dublin,q2,50%
+28/08/2015,"50 Carysfort Rd, Dalkey, Dublin",Dublin,735000.0,No,Dalkey,Co. Dublin,q3,60%
+28/08/2015,"91 St Begnets Villas, Dalkey, Dublin",Dublin,460000.0,No,Dalkey,Co. Dublin,q1,30%
+02/09/2015,"7 Elton Court, Sandycove, Dalkey",Dublin,725000.0,No,Dalkey,Co. Dublin,q3,60%
+08/09/2015,"36 Wolverton Glen, Dalkey, Dublin",Dublin,645000.0,No,Dalkey,Co. Dublin,q2,50%
+10/09/2015,"3 Barnhill Lawn, Dalkey, Dublin",Dublin,824000.0,No,Dalkey,Co. Dublin,q3,70%
+15/09/2015,"5 Dalkey Grove, Dalkey, Dublin",Dublin,667500.0,No,Dalkey,Co. Dublin,q2,50%
+18/09/2015,"11 Church Road, Dalkey, County Dublin",Dublin,660000.0,No,Dalkey,Co. Dublin,q2,50%
+18/09/2015,"39 The Village Gate, Dalkey Ave, Dalkey",Dublin,642500.0,No,Dalkey,Co. Dublin,q2,50%
+18/09/2015,"Kephas, 4 Corrig Road, Dalkey",Dublin,550000.0,No,Dalkey,Co. Dublin,q2,40%
+21/09/2015,"Amberley, 37 Ulverton Road, Dalkey",Dublin,1125000.0,No,Dalkey,Co. Dublin,q4,90%
+24/09/2015,"3 The Paddocks, Ulverton Road, Dalkey",Dublin,1180000.0,No,Dalkey,Co. Dublin,q4,90%
+30/09/2015,"2  The Mews, St. Patrick'S Road, Dalkey  Co. Dublin",Dublin,495000.0,No,Dalkey,Co. Dublin,q2,30%
+02/10/2015,"Wavecrest, 14 Vico Rd, Dalkey",Dublin,1650000.0,No,Dalkey,Co. Dublin,q4,100%
+13/10/2015,"8 Hyde Road, Dalkey, Co. Dublin",Dublin,525000.0,No,Dalkey,Co. Dublin,q2,40%
+14/10/2015,"Apt 1, 8 Railway Rd, Dalkey",Dublin,352000.0,No,Dalkey,Co. Dublin,q1,20%
+30/10/2015,"4 Derrynane Terrace, Convent Rd, Dalkey",Dublin,810000.0,No,Dalkey,Co. Dublin,q3,70%
+03/11/2015,"28 Carysfort Rd, Dalkey, Dublin",Dublin,675000.0,No,Dalkey,Co. Dublin,q2,50%
+05/11/2015,"12 Cunningham Dr, Dalkey, Dublin",Dublin,635000.0,No,Dalkey,Co. Dublin,q2,50%
+16/11/2015,"28 Dalkey Park, Dalkey, Dublin",Dublin,767000.0,No,Dalkey,Co. Dublin,q3,60%
+18/11/2015,"Monte Coelio, 4 Ard Mhuire Park, Dalkey",Dublin,790000.0,No,Dalkey,Co. Dublin,q3,70%
+26/11/2015,"Livorno, Sorrento Rd, Dalkey",Dublin,1050000.0,No,Dalkey,Co. Dublin,q4,80%
+26/11/2015,"Marthas Vineyard, Coliemore Road, Dalkey",Dublin,2334605.0,No,Dalkey,Co. Dublin,q4,100%
+27/11/2015,"15 Wolverton Glen, Castlepark Rd, Dalkey",Dublin,402000.0,No,Dalkey,Co. Dublin,q1,20%
+27/11/2015,"5 Sorrento Dr, Dalkey, Dublin",Dublin,795000.0,No,Dalkey,Co. Dublin,q3,70%
+04/12/2015,"7 Craiglands, Ardeevin Road, Dalkey",Dublin,559000.0,No,Dalkey,Co. Dublin,q2,40%
+08/12/2015,"Hawk Cliff, Vico Rd, Dalkey",Dublin,2699000.0,No,Dalkey,Co. Dublin,q4,100%
+15/12/2015,"Sunnyside  Vico Road, Dalkey",Dublin,4350000.0,No,Dalkey,Co. Dublin,q4,100%
+23/12/2015,"4 The Mews, St Patricks Rd, Dalkey",Dublin,475000.0,No,Dalkey,Co. Dublin,q2,30%
+23/12/2015,"9 The Creggan, Bailey View, Dalkey",Dublin,510000.0,No,Dalkey,Co. Dublin,q2,30%
+23/12/2015,"The Laurels, 9 Dalkey Avenue, Dalkey",Dublin,466960.35,No,Dalkey,Co. Dublin,q1,30%
+20/01/2016,"Melbourne Lodge, 69 Coliemore Rd, Dalkey",Dublin,525000.0,No,Dalkey,Co. Dublin,q2,40%
+27/01/2016,"Tudor House, Castle St, Dalkey",Dublin,3250000.0,No,Dalkey,Co. Dublin,q4,100%
+28/01/2016,"75 St Begnet'S Villas, Dalkey, Co Dublin",Dublin,470000.0,No,Dalkey,Co. Dublin,q1,30%
+29/01/2016,"7 Castlelands, Hyde Rd, Dalkey",Dublin,895000.0,No,Dalkey,Co. Dublin,q3,80%
+03/02/2016,"24 Colimore Road, Dalkey, Co. Dublin",Dublin,2700000.0,No,Dalkey,Co. Dublin,q4,100%
+04/02/2016,"108 Hillside, Dalkey, Dublin",Dublin,620000.0,No,Dalkey,Co. Dublin,q2,50%
+10/02/2016,"2 The Village Gate, Dalkey, Dublin",Dublin,435000.0,No,Dalkey,Co. Dublin,q1,30%
+12/02/2016,"47 Hyde Rd, Dalkey, Dublin",Dublin,688000.0,No,Dalkey,Co. Dublin,q3,60%
+12/02/2016,"Kilderry, Ulverton Rd, Dalkey",Dublin,985000.0,No,Dalkey,Co. Dublin,q4,80%
+18/02/2016,"Ellington, Dalkey Ave, Dalkey",Dublin,1277523.0,Yes,Dalkey,Co. Dublin,q4,90%
+26/02/2016,"Ard Na Carraige, Green Rd, Dalkey",Dublin,2000000.0,No,Dalkey,Co. Dublin,q4,100%
+09/03/2016,"18 Corrig Road, Dalkey, County Dublin",Dublin,615000.0,No,Dalkey,Co. Dublin,q2,50%
+10/03/2016,"9 Old Quarry, Dalkey, Quarry",Dublin,757000.0,No,Dalkey,Co. Dublin,q3,60%
+11/03/2016,"2 St Margarets Close, Castle Park Rd, Dalkey",Dublin,710000.0,No,Dalkey,Co. Dublin,q3,60%
+14/03/2016,"14 Mapas Road, Dalkey, Co Dublin",Dublin,647000.0,No,Dalkey,Co. Dublin,q2,50%
+14/03/2016,"Massabielle 15 Ulverton Rd, Dalkey, Dublin",Dublin,905000.0,No,Dalkey,Co. Dublin,q3,80%
+18/03/2016,"10 Wolverton Glen, Dalkey, Dublin",Dublin,465000.0,No,Dalkey,Co. Dublin,q1,30%
+24/03/2016,"75 Hyde Rd, Dalkey, Dublin",Dublin,886000.0,No,Dalkey,Co. Dublin,q3,80%
+31/03/2016,"5 Dalkey Rock, Ardbrugh Rd, Dalkey",Dublin,960000.0,No,Dalkey,Co. Dublin,q3,80%
+01/04/2016,"Xanadu, Sorrento Road, Dalkey",Dublin,751151.0,No,Dalkey,Co. Dublin,q3,60%
+05/04/2016,"17 Vico Rock, Sorrento Rd, Dalkey",Dublin,395000.0,No,Dalkey,Co. Dublin,q1,20%
+06/04/2016,"39 Convent Road, Dalkey, Co Dublin",Dublin,450000.0,No,Dalkey,Co. Dublin,q1,30%
+11/04/2016,"The Breakers, Coliemore Rd, Dalkey",Dublin,770000.0,No,Dalkey,Co. Dublin,q3,60%
+19/04/2016,"13 Railway Rd, Dalkey, Dublin",Dublin,1225000.0,No,Dalkey,Co. Dublin,q4,90%
+29/04/2016,"68 Ulverton Rd, Dalkey, Dublin",Dublin,695000.0,No,Dalkey,Co. Dublin,q3,60%
+03/05/2016,"2 Castle Mews, Castle St, Dalkey",Dublin,200000.0,No,Dalkey,Co. Dublin,q1,10%
+09/05/2016,"68 Castle Park Rd, Dalkey, Dublin",Dublin,710000.0,No,Dalkey,Co. Dublin,q3,60%
+19/05/2016,"St Annes, 66 Coliemore Rd, Dalkey",Dublin,2200000.0,No,Dalkey,Co. Dublin,q4,100%
+20/05/2016,"2 Proby Park, Salval Park Road, Dalkey",Dublin,450000.0,No,Dalkey,Co. Dublin,q1,30%
+27/05/2016,"14 Fairlawns, Saval Park Rd, Dalkey",Dublin,738500.0,No,Dalkey,Co. Dublin,q3,60%
+31/05/2016,"3 Gosworth Park, Dalkey, Dublin",Dublin,687000.0,No,Dalkey,Co. Dublin,q3,60%
+04/06/2016,"6 Castlepark Rd, Dalkey, Dublin",Dublin,1140000.0,No,Dalkey,Co. Dublin,q4,90%
+07/06/2016,"5 Knock Na Cree Rd, Dalkey, Dublin",Dublin,2200000.0,No,Dalkey,Co. Dublin,q4,100%
+09/06/2016,"11 Castlelands, Hyde Rd, Dalkey",Dublin,1085000.0,No,Dalkey,Co. Dublin,q4,80%
+20/06/2016,"5 Railway Road, 1/2 Sorrento Road, Dalkey",Dublin,172500.0,No,Dalkey,Co. Dublin,q1,10%
+22/06/2016,"98 Coliemore Rd, Dalkey, Dublin",Dublin,653000.0,No,Dalkey,Co. Dublin,q2,50%
+05/07/2016,"31 St Begnets Villas, Dalkey, Dublin",Dublin,427000.0,No,Dalkey,Co. Dublin,q1,20%
+06/07/2016,"7 Leslie Ave, Dalkey, Dublin",Dublin,440000.0,No,Dalkey,Co. Dublin,q1,30%
+21/07/2016,"18 Tubbermore Rd, Dalkey, Dublin",Dublin,663500.0,No,Dalkey,Co. Dublin,q2,50%
+28/07/2016,"12 The Rise, Barnhill Rd, Dalkey",Dublin,850000.0,No,Dalkey,Co. Dublin,q3,70%
+29/07/2016,"7 Knocknacree Park, Dalkey, Dublin",Dublin,1005000.0,No,Dalkey,Co. Dublin,q4,80%
+08/08/2016,"Denville, Barnhill Rd, Dalkey",Dublin,1400000.0,No,Dalkey,Co. Dublin,q4,90%
+11/08/2016,"Woodford, Saval Park Gardens, Dalkey",Dublin,900000.0,No,Dalkey,Co. Dublin,q3,80%
+19/08/2016,"10 Craiglands, Ardrevin Road, Dalkey",Dublin,475000.0,No,Dalkey,Co. Dublin,q2,30%
+22/08/2016,"Nascosto, Sorrento Rd, Dalkey",Dublin,1350000.0,No,Dalkey,Co. Dublin,q4,90%
+25/08/2016,"2 Dalkey Grove, Dalkey, Co.Dublin",Dublin,660000.0,No,Dalkey,Co. Dublin,q2,50%
+25/08/2016,"4 Claddagh Bailey View, Harbour Road, Dalkey",Dublin,450000.0,No,Dalkey,Co. Dublin,q1,30%
+26/08/2016,"2 Castlelands, Hyde Rd, Dalkey",Dublin,1075000.0,No,Dalkey,Co. Dublin,q4,80%
+26/08/2016,"22 Carysfort Villas, Carysfort Rd, Dalkey",Dublin,440000.0,No,Dalkey,Co. Dublin,q1,30%
+02/09/2016,"3 Proby Pk, Barnhill Rd, Dalkey",Dublin,472500.0,No,Dalkey,Co. Dublin,q1,30%
+02/09/2016,"Bellecote, Sorrento Rd, Dalkey",Dublin,840000.0,No,Dalkey,Co. Dublin,q3,70%
+15/09/2016,"9 Arkendale Road, Dalkey, Co Dublin",Dublin,1175000.0,No,Dalkey,Co. Dublin,q4,90%
+15/09/2016,"Beulah, Harbour Rd, Dalkey",Dublin,6000000.0,No,Dalkey,Co. Dublin,q4,100%
+16/09/2016,"Dalkey Manor, Barnhill Rd, Dalkey",Dublin,1100000.0,No,Dalkey,Co. Dublin,q4,90%
+19/09/2016,"2 St Margarets Close, Castle Park Rd, Dalkey",Dublin,710000.0,No,Dalkey,Co. Dublin,q3,60%
+21/09/2016,"3 The Vilage Gate, Dalkey Ave, Dalkey",Dublin,470000.0,No,Dalkey,Co. Dublin,q1,30%
+21/09/2016,"Granada, 46 Carysfort Rd, Dalkey",Dublin,780000.0,No,Dalkey,Co. Dublin,q3,70%
+22/09/2016,"2 Barnacoille Park, Dalkey, Dublin",Dublin,1290000.0,No,Dalkey,Co. Dublin,q4,90%
+22/09/2016,"The Orchard, Torca Road, Dalkey",Dublin,1773250.0,Yes,Dalkey,Co. Dublin,q4,100%
+23/09/2016,"17 Arkendale Rd, Dalkey, Dublin",Dublin,820000.0,No,Dalkey,Co. Dublin,q3,70%
+27/09/2016,"Valentia, 36 Castle Park Rd, Dalkey",Dublin,1612500.0,No,Dalkey,Co. Dublin,q4,90%
+06/10/2016,"Quayside, Bullock Harbour, Dalkey",Dublin,850000.0,No,Dalkey,Co. Dublin,q3,70%
+07/10/2016,"25 St Begnets Villas, Dalkey, Dublin",Dublin,560000.0,No,Dalkey,Co. Dublin,q2,40%
+11/10/2016,"74 St Begnets Villas, Dalkey, Dublin",Dublin,507200.0,No,Dalkey,Co. Dublin,q2,30%
+14/10/2016,"9 Barnhill Ave, Dalkey, Dublin",Dublin,655000.0,No,Dalkey,Co. Dublin,q2,50%
+18/10/2016,"2 Charlotte Terrace, Victoria Rd, Dalkey",Dublin,587000.0,No,Dalkey,Co. Dublin,q2,40%
+18/10/2016,"First Floor, 61 Castle Street, Dalkey",Dublin,200000.0,No,Dalkey,Co. Dublin,q1,10%
+26/10/2016,"8 Church Road, Dalkey, Co Dublin",Dublin,725000.0,No,Dalkey,Co. Dublin,q3,60%
+27/10/2016,"4 Torca View, Dalkey, Dublin",Dublin,735000.0,No,Dalkey,Co. Dublin,q3,60%
+27/10/2016,"Apt 27 Castlepark Residence, Castlepark Road, Dalkey",Dublin,400000.0,No,Dalkey,Co. Dublin,q1,20%
+28/10/2016,"The Octagon, Ardeevin Rd, Dalkey",Dublin,925000.0,No,Dalkey,Co. Dublin,q3,80%
+11/11/2016,"11 Mapas Road, Dalkey, Co Dublin",Dublin,620000.0,No,Dalkey,Co. Dublin,q2,50%
+16/11/2016,"28 Carysfort Rd, Dalkey, Dublin",Dublin,780000.0,No,Dalkey,Co. Dublin,q3,70%
+18/11/2016,"Lohengrin, Torca Rd, Dalkey",Dublin,1200000.0,No,Dalkey,Co. Dublin,q4,90%
+18/11/2016,"Martello Tower 10, Harbour Rd, Dalkey",Dublin,1780000.0,No,Dalkey,Co. Dublin,q4,100%
+25/11/2016,"Sadi, Saval Park Road, Dalkey",Dublin,810000.0,No,Dalkey,Co. Dublin,q3,70%
+25/11/2016,"The Coach House, Nerano Rd, Dalkey",Dublin,1500000.0,No,Dalkey,Co. Dublin,q4,90%
+02/12/2016,"Oaklands, Tubbermore Rd, Dalkey",Dublin,610000.0,No,Dalkey,Co. Dublin,q2,50%
+06/12/2016,"17 Dalkey Manor, Killiney Road, Dalkey",Dublin,837000.0,Yes,Dalkey,Co. Dublin,q3,70%
+07/12/2016,"Colimore Apartment P, Dalkey, Co Dublin",Dublin,1278000.0,No,Dalkey,Co. Dublin,q4,90%
+09/12/2016,"6 Glandore, Pilot View, Dalkey",Dublin,715000.0,No,Dalkey,Co. Dublin,q3,60%
+13/12/2016,"Apt 2 Berwick House, Coliemore Road, Dalkey",Dublin,675000.0,No,Dalkey,Co. Dublin,q2,50%
+15/12/2016,"Avalon, Saval Park Rd, Dalkey",Dublin,1200000.0,No,Dalkey,Co. Dublin,q4,90%
+16/12/2016,"St Brendans, Cunningham Rd, Dalkey",Dublin,1862500.0,No,Dalkey,Co. Dublin,q4,100%
+19/12/2016,"6 Dalkey Court, Barnhill Rd, Dalkey",Dublin,470000.0,No,Dalkey,Co. Dublin,q1,30%
+21/12/2016,"20 Dalkey Manor, Dalkey",Dublin,854625.0,Yes,Dalkey,Co. Dublin,q3,70%
+21/12/2016,"Rockingham Cottage, Nerano Road, Dalkey",Dublin,1045000.0,No,Dalkey,Co. Dublin,q4,80%
+06/01/2017,"Ebenezer, Sorrento Rd, Dalkey",Dublin,655000.0,No,Dalkey,Co. Dublin,q2,50%
+10/01/2017,"1 Barnacoille Park, Dalkey, Dublin",Dublin,1325000.0,No,Dalkey,Co. Dublin,q4,90%
+13/01/2017,"Apt 1, 8 Railway Rd, Dalkey",Dublin,470000.0,No,Dalkey,Co. Dublin,q1,30%
+18/01/2017,"Marantha, Sorrento Rd, Dalkey",Dublin,630000.0,No,Dalkey,Co. Dublin,q2,50%
+20/01/2017,"Lismore, Knocknacree Rd, Dalkey",Dublin,3100000.0,No,Dalkey,Co. Dublin,q4,100%
+23/01/2017,"Damur, 37 Hyde Rd, Dalkey",Dublin,725000.0,No,Dalkey,Co. Dublin,q3,60%
+26/01/2017,"16 Hyde Rd, Dalkey, Dublin",Dublin,395000.0,No,Dalkey,Co. Dublin,q1,20%
+01/02/2017,"6 Tubbermore Rd, Dalkey, Dublin",Dublin,960000.0,No,Dalkey,Co. Dublin,q3,80%
+06/02/2017,"Sorrento, Nerano Rd, Dalkey",Dublin,3600000.0,No,Dalkey,Co. Dublin,q4,100%
+09/02/2017,"4 Torca View, Dalkey, Dublin",Dublin,735000.0,No,Dalkey,Co. Dublin,q3,60%
+13/02/2017,"3 Bartra Rock, Harbour Road, Dalkey",Dublin,550000.0,No,Dalkey,Co. Dublin,q2,40%
+15/02/2017,"35 Gosworth Park, Dalkey, Dublin",Dublin,680000.0,No,Dalkey,Co. Dublin,q2,50%
+15/02/2017,"Silver Pines, Dalkey Ave, Dalkey",Dublin,1310000.0,No,Dalkey,Co. Dublin,q4,90%
+22/02/2017,"6 Glencairn, Harbour Rd, Dalkey",Dublin,457000.0,No,Dalkey,Co. Dublin,q1,30%
+23/02/2017,"18 Dalkey Manor, Killiney Road, Dalkey",Dublin,788546.0,Yes,Dalkey,Co. Dublin,q3,70%
+23/02/2017,"20 Craiglands, Ardeevin Rd, Dalkey",Dublin,620000.0,No,Dalkey,Co. Dublin,q2,50%
+27/02/2017,"2 The Paddocks, Vlverton Rd, Dalkey Dublin",Dublin,1385000.0,No,Dalkey,Co. Dublin,q4,90%
+28/02/2017,"19 Dalkey Manor, Killiney Road, Dalkey",Dublin,808775.0,Yes,Dalkey,Co. Dublin,q3,70%
+01/03/2017,"2 Dalkey Manor, Killiney Road, Dalkey",Dublin,814977.97,Yes,Dalkey,Co. Dublin,q3,70%
+03/03/2017,"11 Ulverton Court, Ulverton Rd, Dalkey",Dublin,268000.0,No,Dalkey,Co. Dublin,q1,10%
+14/03/2017,"2 Tempe Terrace, Dalkey, Dublin",Dublin,1800000.0,No,Dalkey,Co. Dublin,q4,100%
+16/03/2017,"Fairlawn House, Saval Park Rd, Dalkey",Dublin,2880000.0,No,Dalkey,Co. Dublin,q4,100%
+20/03/2017,"Bella Vista, Coliemore Rd, Dalkey",Dublin,1200000.0,No,Dalkey,Co. Dublin,q4,90%
+31/03/2017,"4 Dalkey Manor, Killiney Road, Dalkey",Dublin,770925.0,Yes,Dalkey,Co. Dublin,q3,60%
+12/04/2017,"28 Wolverton Glen, Dalkey, Dublin",Dublin,512000.0,No,Dalkey,Co. Dublin,q2,30%
+13/04/2017,"22 Convent Rd, Dalkey, Dublin",Dublin,517000.0,No,Dalkey,Co. Dublin,q2,40%
+13/04/2017,"4 The Mews, St Patricks Rd, Dalkey",Dublin,510000.0,No,Dalkey,Co. Dublin,q2,30%
+25/04/2017,"5 Ardburgh Villas, Ardburgh Road, Dalkey",Dublin,486343.61,No,Dalkey,Co. Dublin,q2,30%
+27/04/2017,"17 Craiglands, Ardeevin Rd, Dalkey",Dublin,475000.0,No,Dalkey,Co. Dublin,q2,30%
+09/05/2017,"22 Dalkey Ave, Dalkey, Dublin",Dublin,1500000.0,No,Dalkey,Co. Dublin,q4,90%
+12/05/2017,"2 Seafield Terrace, Coliemore Rd, Dalkey",Dublin,620000.0,No,Dalkey,Co. Dublin,q2,50%
+12/05/2017,"5 Craiglands, Ardeevin Rd, Dalkey",Dublin,580000.0,No,Dalkey,Co. Dublin,q2,40%
+15/05/2017,"Bramhall, 44 Castlepark Rd, Dalkey",Dublin,1180000.0,No,Dalkey,Co. Dublin,q4,90%
+17/05/2017,"3 Dalkey Manor, Killiney Road, Dalkey",Dublin,770925.11,Yes,Dalkey,Co. Dublin,q3,60%
+22/05/2017,"41 Mapas Rd, Dalkey, Co Dublin",Dublin,595000.0,No,Dalkey,Co. Dublin,q2,40%
+23/05/2017,"14 Castlelands Grove, Dalkey, Dublin",Dublin,595000.0,No,Dalkey,Co. Dublin,q2,40%
+02/06/2017,"39 Castlepark Residence, Castlepark Road, Dalkey",Dublin,725000.0,No,Dalkey,Co. Dublin,q3,60%
+08/06/2017,"Linden Lodge, Castlepark Rd, Dalkey",Dublin,1825000.0,No,Dalkey,Co. Dublin,q4,100%
+09/06/2017,"14 Ardeevin Rd, Dalkey, Dublin",Dublin,910000.0,No,Dalkey,Co. Dublin,q3,80%
+12/06/2017,"2 St Mary'S Terrace, Dalkey, Co Dublin",Dublin,485000.0,No,Dalkey,Co. Dublin,q2,30%
+12/06/2017,"33 The Village Gate, Dalkey, Dublin",Dublin,625000.0,No,Dalkey,Co. Dublin,q2,50%
+15/06/2017,"2 Montevella, Barnhill Rd, Dalkey",Dublin,775000.0,No,Dalkey,Co. Dublin,q3,60%
+15/06/2017,"3 Castle Close, Castlepark Rd, Dalkey",Dublin,1200000.0,No,Dalkey,Co. Dublin,q4,90%
+16/06/2017,"2 Knocknacree Grove, Dalkey, Dublin",Dublin,1480000.0,No,Dalkey,Co. Dublin,q4,90%
+16/06/2017,"58 St Begnets Villas, Dalkey, Dublin",Dublin,600000.0,No,Dalkey,Co. Dublin,q2,40%
+16/06/2017,"Torca Cottage, Torca Rd, Dalkey",Dublin,2225000.0,No,Dalkey,Co. Dublin,q4,100%
+20/06/2017,"Mayflower House, Tubbermore Road, Dalkey",Dublin,1250000.0,No,Dalkey,Co. Dublin,q4,90%
+23/06/2017,"29 Wolverton Glen, Castle Park Rd, Dalkey",Dublin,500000.0,No,Dalkey,Co. Dublin,q2,30%
+23/06/2017,"3 Tempe Terrace, Rockfort Avenue, Dalkey",Dublin,2850000.0,No,Dalkey,Co. Dublin,q4,100%
+26/06/2017,"Bella Vista, Coliemore Rd, Dalkey",Dublin,1400000.0,No,Dalkey,Co. Dublin,q4,90%
+27/06/2017,"Deanwater, Saval Park Gardens, Dalkey",Dublin,795000.0,No,Dalkey,Co. Dublin,q3,70%
+29/06/2017,"17 Bartra Rock Apts, Harbour Rd, Dalkey",Dublin,790000.0,No,Dalkey,Co. Dublin,q3,70%
+29/06/2017,"5 Dalkey Manor, Killiney Road, Dalkey",Dublin,814977.0,Yes,Dalkey,Co. Dublin,q3,70%
+30/06/2017,"26 Sorrento Court, Dalkey, Dublin",Dublin,450000.0,No,Dalkey,Co. Dublin,q1,30%
+05/07/2017,"7A Leslie Avenue, Dalkey, Co. Dublin",Dublin,500000.0,No,Dalkey,Co. Dublin,q2,30%
+06/07/2017,"Ellington, Dalkey Ave, Dalkey",Dublin,1495000.0,No,Dalkey,Co. Dublin,q4,90%
+10/07/2017,"Alemese, Old Quarry, Dalkey",Dublin,1079295.14,Yes,Dalkey,Co. Dublin,q4,80%
+14/07/2017,"Charleville, Harbour Road, Dalkey",Dublin,3250000.0,No,Dalkey,Co. Dublin,q4,100%
+20/07/2017,"42 Sorrento Rd, Dalkey, Dublin",Dublin,1005000.0,No,Dalkey,Co. Dublin,q4,80%
+26/07/2017,"House B, Anglesea, 25 Dalkey Avenue",Dublin,1754085.9,Yes,Dalkey,Co. Dublin,q4,100%
+28/07/2017,"19 Castlelands Grove, Hyde Rd, Dalkey",Dublin,470000.0,No,Dalkey,Co. Dublin,q1,30%
+28/07/2017,"8 Colimore Apartments, Coliemore Road, Dalkey",Dublin,320000.0,No,Dalkey,Co. Dublin,q1,10%
+28/07/2017,"Newlands, Coliemore Rd, Dalkey",Dublin,1350000.0,No,Dalkey,Co. Dublin,q4,90%
+01/08/2017,"Riva, 32 Coliemore Rd, Dalkey",Dublin,2400000.0,No,Dalkey,Co. Dublin,q4,100%
+04/08/2017,"The Eyrie, Torca Rd, Dalkey",Dublin,1090000.0,No,Dalkey,Co. Dublin,q4,80%
+09/08/2017,"16 Dalkey Manor, Killiney Road, Dalkey",Dublin,898678.42,Yes,Dalkey,Co. Dublin,q3,80%
+10/08/2017,"12 Dalkey Manor, Dalkey, County Dublin",Dublin,876652.0,Yes,Dalkey,Co. Dublin,q3,70%
+10/08/2017,"30 Sorrento Rd, Dalkey, Dublin",Dublin,2035000.0,No,Dalkey,Co. Dublin,q4,100%
+10/08/2017,"8 Sorrento Dr, Dalkey, Dublin",Dublin,750000.0,No,Dalkey,Co. Dublin,q3,60%
+10/08/2017,"Clonlost House, Killiney Road, Dalkey",Dublin,1938326.0,No,Dalkey,Co. Dublin,q4,100%
+14/08/2017,"3 Dalkey Park, Dalkey, Dublin",Dublin,625000.0,No,Dalkey,Co. Dublin,q2,50%
+14/08/2017,"Coolmanagh, 81 Coliemore Road, Dalkey",Dublin,2000000.0,No,Dalkey,Co. Dublin,q4,100%
+18/08/2017,"St Brendans, Harbour Rd, Dalkey",Dublin,999500.0,No,Dalkey,Co. Dublin,q4,80%
+26/08/2017,"Apt 2 Bartra Rock, Harbour Rd, Dalkey Dublin 1",Dublin,741000.0,No,Dalkey,Co. Dublin,q3,60%
+30/08/2017,"8 Dalkey Manor, Killiney Road, Dalkey",Dublin,801762.0,Yes,Dalkey,Co. Dublin,q3,70%
+31/08/2017,"Marabel, Knock Na Cree Rd, Dalkey",Dublin,2120000.0,No,Dalkey,Co. Dublin,q4,100%
+04/09/2017,"14 Dalkey Manor, Killiney Road, Dalkey",Dublin,837004.4,Yes,Dalkey,Co. Dublin,q3,70%
+06/09/2017,"6 Old Quarry, Dalkey Ave, Dalkey",Dublin,880000.0,No,Dalkey,Co. Dublin,q3,70%
+08/09/2017,"5 Enderly, Cunningham Drive, Dalkey",Dublin,814977.97,Yes,Dalkey,Co. Dublin,q3,70%
+08/09/2017,"Apt F, Colliemore Apts, Collemore Rd Dalkey",Dublin,380000.0,No,Dalkey,Co. Dublin,q1,20%
+18/09/2017,"1 Enderly, Cunningham Road, Dalkey",Dublin,726872.0,Yes,Dalkey,Co. Dublin,q3,60%
+20/09/2017,"12 Enderly, Cunningham Road, Dalkey",Dublin,845815.0,No,Dalkey,Co. Dublin,q3,70%
+21/09/2017,"7 Enderly, Cunningham Drive, Dalkey",Dublin,1211453.75,Yes,Dalkey,Co. Dublin,q4,90%
+22/09/2017,"23 Castlepark Rd, Dalkey, Dublin",Dublin,1200000.0,No,Dalkey,Co. Dublin,q4,90%
+25/09/2017,"St Annes, 66 Coliemore Rd, Dalkey",Dublin,2500000.0,No,Dalkey,Co. Dublin,q4,100%
+27/09/2017,"Bramber, 66 Dalkey Avenue, Dalkey",Dublin,510000.0,No,Dalkey,Co. Dublin,q2,30%
+29/09/2017,"2 Barnhill Park, Dalkey, Co Dublin",Dublin,775000.0,No,Dalkey,Co. Dublin,q3,60%
+02/10/2017,"8 Glencairn, Harbour Rd, Dalkey",Dublin,420000.0,No,Dalkey,Co. Dublin,q1,20%
+04/10/2017,"2 The Rise, Dalkey, Dublin",Dublin,795000.0,No,Dalkey,Co. Dublin,q3,70%
+11/10/2017,"6 Dalkey Manor, Killiney Road, Dalkey",Dublin,859030.83,Yes,Dalkey,Co. Dublin,q3,70%
+20/10/2017,"Stokeville, Coliemore Rd, Dalkey",Dublin,1345000.0,No,Dalkey,Co. Dublin,q4,90%
+24/10/2017,"13 Dalkey Manor, Killiney Road, Dalkey",Dublin,837004.0,Yes,Dalkey,Co. Dublin,q3,70%
+27/10/2017,"3 Lower Albert Rd, Dalkey, Dublin",Dublin,820000.0,No,Dalkey,Co. Dublin,q3,70%
+27/10/2017,"30 Wolverton Glen, Dalkey, Dublin",Dublin,517500.0,No,Dalkey,Co. Dublin,q2,40%
+27/10/2017,"56 Saval Park Rd, Dalkey, Dublin",Dublin,815000.0,No,Dalkey,Co. Dublin,q3,70%
+01/11/2017,"11 Dalkey Manor, Killiney Road, Dalkey",Dublin,969163.0,Yes,Dalkey,Co. Dublin,q4,80%
+01/11/2017,"Cliff House, Rockfort Ave, Dalkey",Dublin,2142500.0,No,Dalkey,Co. Dublin,q4,100%
+07/11/2017,"9 Dalkey Manor, Killiney Road, Dalkey",Dublin,837005.0,Yes,Dalkey,Co. Dublin,q3,70%
+08/11/2017,"7 Mapas Rd, Dalkey, Dublin",Dublin,700000.0,No,Dalkey,Co. Dublin,q3,60%
+10/11/2017,"9 Dalkey Court, Dalkey, Dublin",Dublin,450000.0,No,Dalkey,Co. Dublin,q1,30%
+10/11/2017,"Anglenook, 1 Barnhill Lawn, Dalkey",Dublin,910000.0,No,Dalkey,Co. Dublin,q3,80%
+14/11/2017,"Apt 2, 17 Railway Rd, Dalkey",Dublin,375000.0,No,Dalkey,Co. Dublin,q1,20%
+15/11/2017,"6 Sorrento Dr, Dalkey, Dublin",Dublin,905000.0,No,Dalkey,Co. Dublin,q3,80%
+17/11/2017,"8 Enderly, Cunningham Drive, Dalkey",Dublin,1900000.0,Yes,Dalkey,Co. Dublin,q4,100%
+21/11/2017,"Apt 5 Queenstown Castle, Coliemore Road, Dalkey",Dublin,490000.0,No,Dalkey,Co. Dublin,q2,30%
+24/11/2017,"3 Saval Grove, Dalkey, Dublin",Dublin,810000.0,No,Dalkey,Co. Dublin,q3,70%
+28/11/2017,"St Judes, 39 Barnhill Rd, Dalkey",Dublin,985000.0,No,Dalkey,Co. Dublin,q4,80%
+29/11/2017,"28 Castlelands Grove, Hyde Rd, Dalkey",Dublin,530000.0,No,Dalkey,Co. Dublin,q2,40%
+29/11/2017,"31 Gosworth Park, Dalkey, Dublin",Dublin,700000.0,No,Dalkey,Co. Dublin,q3,60%
+30/11/2017,"9 Mapas Rd, Dalkey, Dublin",Dublin,910000.0,No,Dalkey,Co. Dublin,q3,80%
+06/12/2017,"Apt 18, Coliemore Rd, Dalkey",Dublin,1650000.0,No,Dalkey,Co. Dublin,q4,100%
+13/12/2017,"Wilmslow, 44A Castlepark Rd, Dalkey",Dublin,1210000.0,No,Dalkey,Co. Dublin,q4,90%
+14/12/2017,"2 Vico Rock, Sorrento Court, Dalkey",Dublin,648000.0,No,Dalkey,Co. Dublin,q2,50%
+14/12/2017,"Belvedere, Harbour Rd, Dalkey",Dublin,3525000.0,No,Dalkey,Co. Dublin,q4,100%
+14/12/2017,"Gortevan, Barnhill Road, Dalkey",Dublin,869000.0,No,Dalkey,Co. Dublin,q3,70%
+15/12/2017,"9 Fairlawns, Saval Park Rd, Dalkey",Dublin,870000.0,No,Dalkey,Co. Dublin,q3,70%
+18/12/2017,"4 Enderly, Cunningham Drive, Dalkey",Dublin,775331.0,Yes,Dalkey,Co. Dublin,q3,70%
+18/12/2017,"Bagheira  Old Quarry Road, Dalkey",Dublin,1164182.82,Yes,Dalkey,Co. Dublin,q4,90%
+19/12/2017,"The Mews Grosvenor Terrace, Sorrento Rd, Dalkey",Dublin,585000.0,No,Dalkey,Co. Dublin,q2,40%
+20/12/2017,"18 Craiglands, Ardeevin Rd, Dalkey",Dublin,490000.0,No,Dalkey,Co. Dublin,q2,30%
+20/12/2017,"Marlow, Green Rd, Dalkey",Dublin,1900000.0,No,Dalkey,Co. Dublin,q4,100%
+02/01/2018,"19 Ulverton Rd, Dalkey, Dublin",Dublin,1130000.0,No,Dalkey,Co. Dublin,q4,90%
+03/01/2018,"63 St Begnets Villas, Dalkey, Dublin",Dublin,605000.0,No,Dalkey,Co. Dublin,q2,50%
+16/01/2018,"12 Proby Park, Dalkey, Dublin",Dublin,565000.0,No,Dalkey,Co. Dublin,q2,40%
+16/01/2018,"27 Saval Park Gardens, Dalkey, Dublin",Dublin,785000.0,No,Dalkey,Co. Dublin,q3,70%
+17/01/2018,"15 Dalkey Manor, Killiney Road, Dalkey",Dublin,821750.0,Yes,Dalkey,Co. Dublin,q3,70%
+19/01/2018,"Deja Vu, Torca Rd, Dalkey",Dublin,1100000.0,No,Dalkey,Co. Dublin,q4,90%
+22/01/2018,"95 Sorrento Rd, Dalkey, Dublin",Dublin,850000.0,No,Dalkey,Co. Dublin,q3,70%
+25/01/2018,"18 Gosworth Park, Dalkey, Dublin",Dublin,726518.0,No,Dalkey,Co. Dublin,q3,60%
+01/02/2018,"68 St Begnets Villas, Dalkey, Dublin",Dublin,560000.0,No,Dalkey,Co. Dublin,q2,40%
+02/02/2018,"Medway, Saval Park Rd, Dalkey",Dublin,1035000.0,No,Dalkey,Co. Dublin,q4,80%
+05/02/2018,"11 Enderly, Cunningham Road, Dalkey",Dublin,872247.0,Yes,Dalkey,Co. Dublin,q3,70%
+15/02/2018,"Lackenash, Barnhill Rd, Dalkey",Dublin,910000.0,No,Dalkey,Co. Dublin,q3,80%
+16/02/2018,"Collingwood, 21B Dalkey Ave, Dalkey",Dublin,1117886.0,Yes,Dalkey,Co. Dublin,q4,90%
+19/02/2018,"17 Castlelands Grove, Dalkey, Co Dublin",Dublin,517000.0,No,Dalkey,Co. Dublin,q2,40%
+19/02/2018,"Annaghlake, Dalkey Ave, Dalkey",Dublin,1020000.0,No,Dalkey,Co. Dublin,q4,80%
+22/02/2018,"9 Enderly, Cunningham Road, Dalkey",Dublin,907488.0,Yes,Dalkey,Co. Dublin,q3,80%
+20/03/2018,"34 Killiney Towers, Killiney Rd, Dalkey",Dublin,376000.0,No,Dalkey,Co. Dublin,q1,20%
+28/03/2018,"32 Hyde Park, Dalkey, Dublin",Dublin,975000.0,No,Dalkey,Co. Dublin,q4,80%
+29/03/2018,"5 Carysfort Rd, Dalkey, Dublin",Dublin,420000.0,No,Dalkey,Co. Dublin,q1,20%
+11/04/2018,"9 Sorrento Heights, Dalkey, Co Dublin",Dublin,405000.0,No,Dalkey,Co. Dublin,q1,20%
+17/04/2018,"44 Dalkey Park, Dalkey, Dublin",Dublin,760000.0,No,Dalkey,Co. Dublin,q3,60%
+04/05/2018,"Inniscorrig, Colimore Road, Dalkey",Dublin,7800000.0,No,Dalkey,Co. Dublin,q4,100%
+09/05/2018,"Marina Villa, 100 Coliemore Rd, Dalkey",Dublin,730000.0,No,Dalkey,Co. Dublin,q3,60%
+16/05/2018,"Red Roofs, 33A Barnhill Rd, Dalkey",Dublin,1175000.0,No,Dalkey,Co. Dublin,q4,90%
+18/05/2018,"16 Castle St, Dalkey, Dublin",Dublin,200000.0,No,Dalkey,Co. Dublin,q1,10%
+30/05/2018,"St Brendans, Harbour Rd, Dalkey",Dublin,675000.0,No,Dalkey,Co. Dublin,q2,50%
+31/05/2018,"Hillview, Ard Mhuire Park, Dalkey",Dublin,880000.0,No,Dalkey,Co. Dublin,q3,70%
+01/06/2018,"47 Malpas Rd, Dalkey, Dublin",Dublin,665000.0,No,Dalkey,Co. Dublin,q2,50%
+07/06/2018,"Chatswood, Saval Park Rd, Dalkey",Dublin,2420500.0,No,Dalkey,Co. Dublin,q4,100%
+21/06/2018,"41 Castlepark Residence, Castlepark Road, Dalkey",Dublin,610000.0,No,Dalkey,Co. Dublin,q2,50%
+29/06/2018,"7 Wolverton Glen, Castle Park Rd, Dalkey",Dublin,540000.0,No,Dalkey,Co. Dublin,q2,40%
+09/07/2018,"10 Kilmore, Bailey View, Dalkey",Dublin,615000.0,No,Dalkey,Co. Dublin,q2,50%
+11/07/2018,"17 Proby Park, Dalkey, Dublin",Dublin,492500.0,No,Dalkey,Co. Dublin,q2,30%
+12/07/2018,"3 Bartra Rock, Harbour Road, Dalkey",Dublin,638000.0,No,Dalkey,Co. Dublin,q2,50%
+16/07/2018,"15 Enderly, Cunningham Drive, Dalkey",Dublin,1321586.0,Yes,Dalkey,Co. Dublin,q4,90%
+16/07/2018,"16 Vico Rock, Sorrento Rd, Dalkey",Dublin,722000.0,No,Dalkey,Co. Dublin,q3,60%
+16/07/2018,"Maple Tree House, Bullock Harbour, Dalkey",Dublin,3170000.0,No,Dalkey,Co. Dublin,q4,100%
+25/07/2018,"45 Convent Rd, Dalkey, Dublin",Dublin,510000.0,No,Dalkey,Co. Dublin,q2,30%
+25/07/2018,"Savero, Sorrento Rd, Dalkey",Dublin,1725000.0,No,Dalkey,Co. Dublin,q4,100%
+27/07/2018,"1 Coliemore Villas, Dalkey, Dublin",Dublin,4200000.0,No,Dalkey,Co. Dublin,q4,100%
+31/07/2018,"29 Hyde Rd, Dalkey, Dublin",Dublin,610000.0,No,Dalkey,Co. Dublin,q2,50%
+08/08/2018,"39 Barnhill Ave, Dalkey, Dublin",Dublin,770000.0,No,Dalkey,Co. Dublin,q3,60%
+09/08/2018,"2 Bloyke, Bullock Harbour, Dalkey",Dublin,875000.0,No,Dalkey,Co. Dublin,q3,70%
+10/08/2018,"3 Church Hill Mews, Church Rd, Dalkey",Dublin,770000.0,No,Dalkey,Co. Dublin,q3,60%
+15/08/2018,"8 Knocknacree Park, Dalkey, Dublin",Dublin,660000.0,No,Dalkey,Co. Dublin,q2,50%
+16/08/2018,"22 Dalkey Ave, Dalkey, Dublin",Dublin,1550000.0,No,Dalkey,Co. Dublin,q4,90%
+17/08/2018,"35 St Begnets Villas, Dalkey, Dublin",Dublin,625000.0,No,Dalkey,Co. Dublin,q2,50%
+27/08/2018,"26 Coliemore Rd, Dalkey, Dublin",Dublin,7500000.0,No,Dalkey,Co. Dublin,q4,100%
+29/08/2018,"1 Dalkey Grove, Dalkey, Dublin",Dublin,910000.0,No,Dalkey,Co. Dublin,q3,80%
+29/08/2018,"44 Ulverton Rd, Dalkey, Dublin",Dublin,1085000.0,No,Dalkey,Co. Dublin,q4,80%
+04/09/2018,"28 Sorrento Rd, Dalkey, Dublin",Dublin,1360000.0,No,Dalkey,Co. Dublin,q4,90%
+05/09/2018,"6 Enderly, Cunningham Road, Dalkey",Dublin,1013216.0,Yes,Dalkey,Co. Dublin,q4,80%
+14/09/2018,"Khyber Lodge, Nerano Rd, Dalkey",Dublin,1925000.0,No,Dalkey,Co. Dublin,q4,100%
+14/09/2018,"Roseneath, Coliemore Road, Dalkey",Dublin,1775000.0,No,Dalkey,Co. Dublin,q4,100%
+17/09/2018,"Dunross, Barnhill Rd, Dalkey",Dublin,1585000.0,No,Dalkey,Co. Dublin,q4,90%
+19/09/2018,"Proby Park, Barnhill Rd, Dalkey Dublin 1",Dublin,2600000.0,No,Dalkey,Co. Dublin,q4,100%
+20/09/2018,"Eden, 40 Castlepark Rd, Dalkey",Dublin,2200000.0,No,Dalkey,Co. Dublin,q4,100%
+27/09/2018,"42 Castle Street, Dalkey, Co Dublin",Dublin,650000.0,No,Dalkey,Co. Dublin,q2,50%
+28/09/2018,"10 Barnhill Park, Dalkey, Co Dublin",Dublin,925000.0,No,Dalkey,Co. Dublin,q3,80%
+01/10/2018,"Robin Hill, 4 St Patricks Road, Dalkey",Dublin,710000.0,No,Dalkey,Co. Dublin,q3,60%
+02/10/2018,"Clanaber, Torca Rd, Dalkey",Dublin,1250000.0,No,Dalkey,Co. Dublin,q4,90%
+12/10/2018,"47 St Begnets Villas, Dalkey, Dublin",Dublin,645000.0,No,Dalkey,Co. Dublin,q2,50%
+24/10/2018,"33 Barnhill Avenue, Dalkey, Co Dublin",Dublin,732500.0,No,Dalkey,Co. Dublin,q3,60%
+26/10/2018,"3 Enderly, Cunningham Road, Dalkey",Dublin,880000.0,Yes,Dalkey,Co. Dublin,q3,70%
+26/10/2018,"Richmond, 39 Castle Park Rd, Dalkey",Dublin,2350000.0,No,Dalkey,Co. Dublin,q4,100%
+31/10/2018,"14 White'S Villas, Dalkey, Co Dublin",Dublin,545000.0,No,Dalkey,Co. Dublin,q2,40%
+05/11/2018,"Hillside Cottage, Ardbrugh Rd, Dalkey",Dublin,960000.0,No,Dalkey,Co. Dublin,q3,80%
+08/11/2018,"5 Berwick House, Coliemore Rd, Dalkey",Dublin,625000.0,No,Dalkey,Co. Dublin,q2,50%
+09/11/2018,"19 Cunningham Dr, Dalkey, Dublin",Dublin,605000.0,No,Dalkey,Co. Dublin,q2,50%
+20/11/2018,"Amalfi, Sorrento Rd, Dalkey",Dublin,1900000.0,No,Dalkey,Co. Dublin,q4,100%
+23/11/2018,"Lucca, Coliemore, Dalkey",Dublin,2500000.0,No,Dalkey,Co. Dublin,q4,100%
+27/11/2018,"91 St Begnets Villas, Dalkey, Dublin",Dublin,585000.0,No,Dalkey,Co. Dublin,q2,40%
+28/11/2018,"Rowan Lodge, Ardeevin Road, Dalkey",Dublin,630000.0,No,Dalkey,Co. Dublin,q2,50%
+07/12/2018,"2 Ardrom, Victoria Rd, Dalkey",Dublin,1600000.0,No,Dalkey,Co. Dublin,q4,90%
+07/12/2018,"Prince Patrick Cottage, Knocknacree Rd, Dalkey",Dublin,1100000.0,No,Dalkey,Co. Dublin,q4,90%
+13/12/2018,"6 The Village Gate, Dalkey, Co Dublin",Dublin,590000.0,No,Dalkey,Co. Dublin,q2,40%
+13/12/2018,"72 Dalkey Avenue, Dalkey, Co Dublin",Dublin,785000.0,No,Dalkey,Co. Dublin,q3,70%
+20/12/2018,"26 Knocknacree Park, Dalkey, Dublin",Dublin,1260000.0,No,Dalkey,Co. Dublin,q4,90%
+20/12/2018,"38 Convent Rd, Dalkey, Dublin",Dublin,650000.0,No,Dalkey,Co. Dublin,q2,50%
+20/12/2018,"4 Ullardmor, Ardeevin Road, Dalkey",Dublin,940000.0,No,Dalkey,Co. Dublin,q3,80%
+20/12/2018,"Hampton, Castlepark Road, Dalkey",Dublin,1585903.08,Yes,Dalkey,Co. Dublin,q4,90%
+18/01/2019,"2 Tower Hill, Harbour Rd, Dalkey",Dublin,1600000.0,No,Dalkey,Co. Dublin,q4,90%
+21/01/2019,"1 Carysfort Court, Dalkey, Dublin",Dublin,510000.0,No,Dalkey,Co. Dublin,q2,30%
+25/01/2019,"Praiano  Ulverton Road, Dalkey",Dublin,1496450.0,Yes,Dalkey,Co. Dublin,q4,90%
+28/01/2019,"6 Saval Park Crescent, Dalkey, Dublin",Dublin,800000.0,No,Dalkey,Co. Dublin,q3,70%
+05/02/2019,"10 Glencairn, Harbour Rd, Dalkey",Dublin,445000.0,No,Dalkey,Co. Dublin,q1,30%
+06/02/2019,"10 Mapas Ave, Dalkey, Dublin",Dublin,635000.0,No,Dalkey,Co. Dublin,q2,50%
+08/02/2019,"16 Enderly, Cunningham Drive, Dalkey",Dublin,1850220.0,Yes,Dalkey,Co. Dublin,q4,100%
+14/02/2019,"1 Bloyke, Bulloch Harbour, Dalkey",Dublin,1140000.0,No,Dalkey,Co. Dublin,q4,90%
+14/02/2019,"32 Castlepark Residence, Castelpark Road, Dalkey",Dublin,385000.0,No,Dalkey,Co. Dublin,q1,20%
+19/02/2019,"4 Ulverton Court, Ulverton Rd, Dalkey",Dublin,283000.0,No,Dalkey,Co. Dublin,q1,10%
+21/02/2019,"5 Bullock Harbour, Harbour Rd, Dalkey",Dublin,835000.0,No,Dalkey,Co. Dublin,q3,70%
+22/02/2019,"Ulverton, Ulverton Rd, Dalkey",Dublin,2800000.0,No,Dalkey,Co. Dublin,q4,100%
+26/02/2019,"5 Railway Road, 1/2 Sorrento Road, Dalkey",Dublin,172500.0,No,Dalkey,Co. Dublin,q1,10%
+04/03/2019,"Rock Edge, Knock Na Cree Rd, Dalkey",Dublin,1400000.0,No,Dalkey,Co. Dublin,q4,90%
+05/03/2019,"13 Proby Park, Barnhill Rd, Dalkey",Dublin,550000.0,No,Dalkey,Co. Dublin,q2,40%
+12/03/2019,"2 Desmond Cottages, Ardbrugh Road, Dalkey",Dublin,620000.0,No,Dalkey,Co. Dublin,q2,50%
+12/03/2019,"Villa Maria, 1 Carysford Dr, Dalkey",Dublin,800000.0,No,Dalkey,Co. Dublin,q3,70%
+26/03/2019,"5 Ullardmor, Ardeevin Rd, Dalkey",Dublin,950000.0,No,Dalkey,Co. Dublin,q3,80%
+28/03/2019,"46 Mapas Rd, Dalkey, Dublin",Dublin,665000.0,No,Dalkey,Co. Dublin,q2,50%
+29/03/2019,"2 Ulverton Place, Dalkey, Dublin",Dublin,312000.0,No,Dalkey,Co. Dublin,q1,10%
+05/04/2019,"Caldragh, Saval Park Road, Dalkey",Dublin,1908000.0,No,Dalkey,Co. Dublin,q4,100%
+08/04/2019,"2 Dalkey Grove, Dalkey, Co.Dublin",Dublin,700000.0,No,Dalkey,Co. Dublin,q3,60%
+10/04/2019,"Apt 8 Castle Mews, 62 Castle St, Dalkey Dublin",Dublin,450000.0,No,Dalkey,Co. Dublin,q1,30%
+11/04/2019,"Top Floor Apartment, 5 Vico Road, Dalkey",Dublin,700282.47,No,Dalkey,Co. Dublin,q3,60%
+12/04/2019,"Willow Brook, 2 Saval Park Saval Park Rd, Dalkey",Dublin,1950000.0,No,Dalkey,Co. Dublin,q4,100%
+16/04/2019,"18 Enderly, Cunningham Drive, Dalkey",Dublin,2070485.0,Yes,Dalkey,Co. Dublin,q4,100%
+17/04/2019,"House A, 25 Dalkey Avenue, Dalkey",Dublin,1823788.55,Yes,Dalkey,Co. Dublin,q4,100%
+01/05/2019,"Clooneva, Rockfort Ave, Dalkey",Dublin,1450000.0,No,Dalkey,Co. Dublin,q4,90%
+06/05/2019,"5 Dalkey Court, Dalkey, Dublin",Dublin,540000.0,No,Dalkey,Co. Dublin,q2,40%
+07/05/2019,"33 The Village Gate, Dalkey, Dublin",Dublin,680000.0,No,Dalkey,Co. Dublin,q2,50%
+10/05/2019,"2 St Mary'S Terrace, Dalkey, Co Dublin",Dublin,555000.0,No,Dalkey,Co. Dublin,q2,40%
+14/05/2019,"25 Bartra Rock, Harbour Rd, Dalkey",Dublin,560000.0,No,Dalkey,Co. Dublin,q2,40%
+21/05/2019,"31 Church Rd, Dalkey, Dublin",Dublin,689000.0,No,Dalkey,Co. Dublin,q3,60%
+23/05/2019,"2 Enderly, Cunningham Drive, Dalkey",Dublin,704845.0,Yes,Dalkey,Co. Dublin,q3,60%
+30/05/2019,"Oasis, 11 Knock Na Cree Park, Dalkey",Dublin,1120000.0,No,Dalkey,Co. Dublin,q4,90%
+11/06/2019,"Ashdown, Dalkey Ave, Dalkey",Dublin,1065000.0,No,Dalkey,Co. Dublin,q4,80%
+21/06/2019,"10 Enderly, Cunningham Drive, Dalkey",Dublin,845815.0,Yes,Dalkey,Co. Dublin,q3,70%
+28/06/2019,"18 Whites Villas, Dalkey, Dublin",Dublin,600000.0,No,Dalkey,Co. Dublin,q2,40%
+03/07/2019,"5 Mayville Terrace, Dalkey, Dublin",Dublin,795000.0,No,Dalkey,Co. Dublin,q3,70%
+12/07/2019,"Portland, The Green Rd, Dalkey",Dublin,1625000.0,No,Dalkey,Co. Dublin,q4,90%
+18/07/2019,"Rockingham, Nerano Rd, Dalkey",Dublin,1275000.0,No,Dalkey,Co. Dublin,q4,90%
+19/07/2019,"35 Corrig Road, Dalkey, Co Dublin",Dublin,910000.0,No,Dalkey,Co. Dublin,q3,80%
+01/08/2019,"4 Ulverton Close, Dalkey, Co Dublin",Dublin,910000.0,No,Dalkey,Co. Dublin,q3,80%
+28/08/2019,"28 Mapas Ave, Dalkey, Dublin",Dublin,645000.0,No,Dalkey,Co. Dublin,q2,50%
+30/08/2019,"1 Dalkey Court, Barnhill Rd, Dalkey",Dublin,405000.0,No,Dalkey,Co. Dublin,q1,20%
+30/08/2019,"6 Whites Villas, Dalkey, Dublin",Dublin,565000.0,No,Dalkey,Co. Dublin,q2,40%
+30/08/2019,"8 Sorrento Dr, Dalkey, Dublin",Dublin,1500000.0,No,Dalkey,Co. Dublin,q4,90%
+02/09/2019,"2 Victoria Rd, Dalkey, Dublin",Dublin,1185000.0,No,Dalkey,Co. Dublin,q4,90%
+03/09/2019,"1 Sorrento Dr, Dalkey, Dublin",Dublin,560000.0,No,Dalkey,Co. Dublin,q2,40%
+04/09/2019,"14 Sorrento Heights, Sorrento Rd, Dalkey",Dublin,690000.0,Yes,Dalkey,Co. Dublin,q3,60%
+12/09/2019,"20 Mapas Ave, Dalkey, Dublin",Dublin,650000.0,No,Dalkey,Co. Dublin,q2,50%
+17/09/2019,"Apt 1, 2 St Patricks Ave, Dalkey",Dublin,368000.0,No,Dalkey,Co. Dublin,q1,20%
+20/09/2019,"4 Edward Terrace, Sorrento Road, Dalkey",Dublin,895000.0,No,Dalkey,Co. Dublin,q3,80%
+26/09/2019,"Termon, Barnhill Rd, Dalkey",Dublin,1537500.0,No,Dalkey,Co. Dublin,q4,90%
+27/09/2019,"2 St Patricks Road, Dalkey, Co Dublin",Dublin,440000.0,No,Dalkey,Co. Dublin,q1,30%
+09/10/2019,"The Wave, Harbour Rd, Dalkey",Dublin,1490000.0,No,Dalkey,Co. Dublin,q4,90%
+14/10/2019,"44A Carysfort Road, Dalkey, Co. Dublin",Dublin,485000.0,No,Dalkey,Co. Dublin,q2,30%
+15/10/2019,"30 Hyde Park, Dalkey, Dublin",Dublin,870000.0,No,Dalkey,Co. Dublin,q3,70%
+16/10/2019,"The Flags, Dalkey Ave, Dalkey",Dublin,1300000.0,No,Dalkey,Co. Dublin,q4,90%
+17/10/2019,"Bradda, 1 Monte Vella, Barnhill Road Dalkey",Dublin,885000.0,No,Dalkey,Co. Dublin,q3,70%
+18/10/2019,"Gortevan, Barnhill Road, Dalkey",Dublin,885000.0,No,Dalkey,Co. Dublin,q3,80%
+22/10/2019,"19 The Burgage, Dalkey Ave, Dalkey",Dublin,530000.0,No,Dalkey,Co. Dublin,q2,40%

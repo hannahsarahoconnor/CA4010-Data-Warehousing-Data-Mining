@@ -1,0 +1,44 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+15/09/2010,"Apartment 511 Talbot Hall, Talbot Street, Dublin 1",Dublin,110000.0,No,Talbot St,Dublin 1,q1,20%
+21/10/2011,"Apartment 506, Talbot Hall, Talbot Steet",Dublin,70000.0,No,Talbot St,Dublin 1,q1,10%
+06/02/2012,"409 Talbot Hall, Talbot Street",Dublin,67000.0,No,Talbot St,Dublin 1,q1,10%
+27/03/2012,"46, Talbot Street, Dublin 1",Dublin,1000000.0,No,Talbot St,Dublin 1,q4,100%
+27/07/2012,"503 Talbot Hall, Talbot St",Dublin,115000.0,No,Talbot St,Dublin 1,q1,20%
+07/02/2013,"46 Talbot Street, Dublin 1",Dublin,120000.0,No,Talbot St,Dublin 1,q1,30%
+17/04/2013,"60 Talbot Street, Dublin 1",Dublin,32000.0,No,Talbot St,Dublin 1,q1,10%
+23/08/2013,"Apt 517  Fourth Floor, Talbot Hall, Talbot Street",Dublin,72000.0,No,Talbot St,Dublin 1,q1,20%
+10/10/2013,"Apt 502  Talbot Hall, Irish Life Mall, Talbot Street",Dublin,138000.0,No,Talbot St,Dublin 1,q2,40%
+23/10/2013,"514 Talbot Hall, Irish Life Centre, Talbot Street",Dublin,175000.0,No,Talbot St,Dublin 1,q2,50%
+09/12/2013,"53 Talbot St, Dublin 1, Dublin",Dublin,244919.5,No,Talbot St,Dublin 1,q3,60%
+15/05/2014,"508 Talbot Hall, Talbot Street",Dublin,160000.0,No,Talbot St,Dublin 1,q2,50%
+19/08/2014,"Apt 1 Spencer House, 70/72 Talbot Street, Dublin 1",Dublin,120000.0,No,Talbot St,Dublin 1,q2,30%
+07/11/2014,"513 Talbot Hall, Irish Life Centre, Talbot St Dublin 1",Dublin,142000.0,No,Talbot St,Dublin 1,q2,40%
+05/12/2014,"Spencer House, Talbot Street",Dublin,40000.0,No,Talbot St,Dublin 1,q1,10%
+05/12/2014,"Spencer House, Talbot Street, Dublin 1",Dublin,40000.0,No,Talbot St,Dublin 1,q1,10%
+18/02/2015,"Irish Life Centre, Apt 507, Talbot Street",Dublin,165000.0,No,Talbot St,Dublin 1,q2,50%
+27/02/2015,"509 Talbot Hall, Irish Life Centre, Talbot St Dublin 1",Dublin,112000.0,No,Talbot St,Dublin 1,q1,20%
+29/05/2015,"Apt 1, 56 Talbot St, Dublin 1",Dublin,150000.0,No,Talbot St,Dublin 1,q2,40%
+29/05/2015,"Apt 2, 56 Talbot St, Dublin 1",Dublin,150000.0,No,Talbot St,Dublin 1,q2,40%
+30/06/2015,"Apt 29, Moland House, 10 Talbot St Dublin 1",Dublin,296000.0,No,Talbot St,Dublin 1,q4,90%
+28/07/2015,"Apt. 307, Talbot Hall, Talbot Street",Dublin,116000.0,No,Talbot St,Dublin 1,q1,30%
+26/08/2015,"Apt 9, Moland House, Talbot St Dublin 1",Dublin,175000.0,No,Talbot St,Dublin 1,q2,50%
+07/10/2015,"Apt 22, Moland House, Talbot St Dublin 1",Dublin,263000.0,No,Talbot St,Dublin 1,q3,70%
+03/02/2016,"Apt 511, Talbot Hall, Talbot St",Dublin,131000.0,No,Talbot St,Dublin 1,q2,30%
+20/02/2016,"54 Talbot St, Dublin 1, Dublin",Dublin,287500.0,No,Talbot St,Dublin 1,q3,80%
+23/02/2016,"Apt 27 Moland House, Talbot Street, Dublin 1",Dublin,265000.0,No,Talbot St,Dublin 1,q3,70%
+08/07/2016,"Apt 505 Talbot Hall, Irish Life Centre, Talbot St Dublin 1",Dublin,172000.0,No,Talbot St,Dublin 1,q2,50%
+22/09/2016,"Apt 16, Moland House, Talbot St Dublin 1",Dublin,261000.0,No,Talbot St,Dublin 1,q3,60%
+04/02/2017,"23 Moland House 10A Talbot St, Dublin 1, Dublin",Dublin,260000.0,No,Talbot St,Dublin 1,q3,60%
+21/12/2017,"Apt 3, Spencer House, Talbot St Dublin 1",Dublin,287500.0,No,Talbot St,Dublin 1,q4,80%
+21/12/2017,"Apt 3, Spencer House, Talbot St Dublin 1",Dublin,287500.0,No,Talbot St,Dublin 1,q4,80%
+23/01/2018,"Apt 16, Moland House, Talbot St Dublin 1",Dublin,261000.0,No,Talbot St,Dublin 1,q3,70%
+24/01/2018,"6 Moland House, Talbot St, Dublin 1",Dublin,246050.0,No,Talbot St,Dublin 1,q3,60%
+16/05/2018,"26 Moland House, Talbot St, Dublin 1",Dublin,292500.0,No,Talbot St,Dublin 1,q4,90%
+15/06/2018,"Independent House And Brett Court, Talbot Street",Dublin,3050000.0,No,Talbot St,Dublin 1,q4,100%
+29/06/2018,"14 Moland House, Talbot St, Dublin 1",Dublin,440000.0,No,Talbot St,Dublin 1,q4,100%
+22/08/2018,"11 Moland House, Talbot St, Dublin 1",Dublin,325000.0,No,Talbot St,Dublin 1,q4,90%
+13/12/2018,"502 Talbot House, Irish Iife Centre, Talbot Street",Dublin,282000.0,No,Talbot St,Dublin 1,q3,70%
+20/12/2018,"Apartment 1, Spencer House, 70-72 Talbot St",Dublin,330000.0,No,Talbot St,Dublin 1,q4,90%
+06/03/2019,"Apartment 1, 10 Talbot Street, Dublin 1",Dublin,700000.0,No,Talbot St,Dublin 1,q4,100%
+03/05/2019,"3 Tandy Court, Talbot St, Dublin 1",Dublin,283000.0,No,Talbot St,Dublin 1,q3,80%
+12/06/2019,"24 Moland House, Talbot St, Dublin 1",Dublin,370000.0,No,Talbot St,Dublin 1,q4,100%

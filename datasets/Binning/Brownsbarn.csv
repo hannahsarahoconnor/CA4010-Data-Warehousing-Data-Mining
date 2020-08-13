@@ -1,0 +1,71 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+01/12/2010,"22 Brownsbarn Orchard, Kingswood Road",Dublin,240000.0,No,Brownsbarn,Co. Dublin,q1,20%
+18/01/2011,"8 Brownsbarn Orchard, Baldonnell, Co. Dublin",Dublin,253000.0,No,Brownsbarn,Co. Dublin,q1,20%
+19/01/2013,"42 Brownsbarn Wood, Naas Road, Dublin 24",Dublin,320000.0,Yes,Brownsbarn,Co. Dublin,q3,70%
+14/03/2013,"3 Brownsbarn Orchard, Baldonnel, Dublin 22",Dublin,150000.0,No,Brownsbarn,Co. Dublin,q1,10%
+21/06/2013,"18 Brownsbarn Orchard, Brownsbarn, Citywest",Dublin,188000.0,No,Brownsbarn,Co. Dublin,q1,10%
+11/10/2013,"6 Brownsbarn Wood, Kingswood, Dublin 22",Dublin,265000.0,No,Brownsbarn,Co. Dublin,q1,20%
+03/04/2014,"4 Brownsbarn Orchard, Baldonnell, Dublin 22",Dublin,223000.0,No,Brownsbarn,Co. Dublin,q1,10%
+29/07/2014,"Apt 6, Brownsbarn Gardens, Brownsbarn",Dublin,123000.0,No,Brownsbarn,Co. Dublin,q1,10%
+28/08/2014,"4 Brownsbarn Wood, Clondalkin, Dublin 22",Dublin,240000.0,No,Brownsbarn,Co. Dublin,q1,20%
+26/09/2014,"14 Brownsbarn Orchard, Old Naas Rd, Baldonnel",Dublin,270000.0,No,Brownsbarn,Co. Dublin,q1,20%
+14/11/2014,"13 Brownsbarn Orchard, Old Naas Rd, Baldonnell",Dublin,275000.0,No,Brownsbarn,Co. Dublin,q1,20%
+04/12/2014,"35 Brownsbarn Wood, Dublin 22, Dublin",Dublin,348000.0,No,Brownsbarn,Co. Dublin,q4,90%
+12/12/2014,"12 Brownsbarn Wood, Kingswood, Dublin 22",Dublin,350000.0,No,Brownsbarn,Co. Dublin,q4,90%
+17/12/2014,"17 Brownsbarn, Orchard Baldonnell, Dublin 22",Dublin,233000.0,No,Brownsbarn,Co. Dublin,q1,10%
+11/05/2015,"31 Brownsbarn Wood, Kingswood, Citywest",Dublin,330000.0,No,Brownsbarn,Co. Dublin,q4,90%
+06/07/2015,"21 Brownsbarn Wood, Kingswood, Dublin 22",Dublin,325000.0,No,Brownsbarn,Co. Dublin,q4,80%
+28/07/2016,"37 Brownsbarn Wood, Dublin 22, Dublin",Dublin,331000.0,No,Brownsbarn,Co. Dublin,q4,90%
+22/02/2017,"24 Brownsbarn Wood, Kingswood, Dublin 22",Dublin,355000.0,No,Brownsbarn,Co. Dublin,q4,100%
+18/08/2017,"25 Brownsbarn Orchard, Kingswood, Naas Rd Dublin 22",Dublin,300000.0,No,Brownsbarn,Co. Dublin,q2,40%
+29/01/2018,"10 The Oaks, Brownsbarn Gardens, Kingswood Dublin 24",Dublin,210000.0,No,Brownsbarn,Co. Dublin,q1,10%
+06/09/2018,"Apartment 9 - 2Nd Floor, Brownsbarn Court, Baldonnell",Dublin,95000.0,No,Brownsbarn,Co. Dublin,q1,10%
+21/09/2018,"14 Brownsbarn Orchard, Old Naas Rd, Baldonnel",Dublin,382500.0,No,Brownsbarn,Co. Dublin,q4,100%
+26/10/2018,"27 Brownsbarn Wood, Kingswood, Dublin 22",Dublin,400000.0,No,Brownsbarn,Co. Dublin,q4,100%
+23/11/2018,"12 Brownsbarn Wood, Kingswood, Dublin 22",Dublin,400000.0,No,Brownsbarn,Co. Dublin,q4,100%
+18/12/2018,"10 Brownsbarn, Orchard, Baldonnell",Dublin,345000.0,No,Brownsbarn,Co. Dublin,q4,90%
+04/01/2019,"18 Brownsbarn Orchard, Kingswood Cross, Citywest Dublin 22",Dublin,310000.0,No,Brownsbarn,Co. Dublin,q3,60%
+22/02/2019,"52 Ardsolus, Old Naas Road, Brownsbarn",Dublin,317180.0,Yes,Brownsbarn,Co. Dublin,q3,70%
+28/02/2019,"53 Ardsolas, Old Naas Road, Brownsbarn",Dublin,281938.33,Yes,Brownsbarn,Co. Dublin,q1,30%
+07/03/2019,"55 Ardsolus, Old Naas Road, Brownsbarn",Dublin,295154.0,Yes,Brownsbarn,Co. Dublin,q2,30%
+14/03/2019,"16 Ardsolus, Old Naas Road, Brownsbarn",Dublin,286344.0,Yes,Brownsbarn,Co. Dublin,q1,30%
+25/03/2019,"15 Ardsolus, Old Naas Road, Brownsbarn",Dublin,299599.0,Yes,Brownsbarn,Co. Dublin,q2,40%
+28/03/2019,"17 Ardsolus, Old Naas Road, Brownsbarn",Dublin,286343.61,Yes,Brownsbarn,Co. Dublin,q1,30%
+28/03/2019,"18 Ardsolus, Old Naas Road, Brownsbarn",Dublin,303965.0,Yes,Brownsbarn,Co. Dublin,q2,50%
+01/04/2019,"48  Ardsolus, Old Naas Road, Brownsbarn",Dublin,286344.0,Yes,Brownsbarn,Co. Dublin,q2,30%
+02/04/2019,"12 Ardsolus, Old Naas Road, Brownsbarn",Dublin,303964.75,Yes,Brownsbarn,Co. Dublin,q2,50%
+08/04/2019,"50 Ardsolus, Old Naas Road, Brownsbarn",Dublin,343612.0,Yes,Brownsbarn,Co. Dublin,q4,90%
+09/04/2019,"49 Ardsolus, Brownsbarn, Co. Dublin",Dublin,303965.0,Yes,Brownsbarn,Co. Dublin,q2,50%
+17/04/2019,"13 Ardsolus, Old Naas Road, Brownsbarn",Dublin,286343.0,Yes,Brownsbarn,Co. Dublin,q1,30%
+29/04/2019,"47 Ardsolus, Old Naas Road, Brownsbarn",Dublin,303965.0,Yes,Brownsbarn,Co. Dublin,q2,50%
+29/04/2019,"54 Ardsolus, Old Naas Road, Brownsbarn",Dublin,281938.0,Yes,Brownsbarn,Co. Dublin,q1,20%
+03/05/2019,"19 Ardsolus, Old Naas Road, Brownsbarn",Dublin,321585.9,Yes,Brownsbarn,Co. Dublin,q3,80%
+07/05/2019,"24 Ardsolus, Old Naas Road, Brownsbarn",Dublin,356828.19,Yes,Brownsbarn,Co. Dublin,q4,100%
+09/05/2019,"31 Ardsolus, Old Naas Road, Brownsbarn",Dublin,299559.47,Yes,Brownsbarn,Co. Dublin,q2,40%
+13/05/2019,"22 Ardsolus, Old Naas Road, Brownsbarn",Dublin,321585.0,Yes,Brownsbarn,Co. Dublin,q3,70%
+16/05/2019,"33 Ardsolus, Old Naas Road, Brownsbarn",Dublin,308370.0,Yes,Brownsbarn,Co. Dublin,q2,50%
+17/05/2019,"39 Ardsolus, Old Naas Road, Brownsbarn",Dublin,321585.9,Yes,Brownsbarn,Co. Dublin,q3,80%
+22/05/2019,"21 Ardsolus, Old Naas Road, Brownsbarn",Dublin,308370.0,Yes,Brownsbarn,Co. Dublin,q3,60%
+22/05/2019,"59 Ardsolus, Old Naas Road, Brownsbarn",Dublin,312775.33,Yes,Brownsbarn,Co. Dublin,q3,70%
+23/05/2019,"38 Ardsolus, Old Naas Road, Brownsbarn",Dublin,325991.0,Yes,Brownsbarn,Co. Dublin,q4,80%
+27/05/2019,"34 Ardsolus, Old Naas Road, Brownsbarn",Dublin,302750.0,Yes,Brownsbarn,Co. Dublin,q2,50%
+28/05/2019,"36 Ardsolus, Brownsbarn, Kingswood",Dublin,299650.0,Yes,Brownsbarn,Co. Dublin,q2,40%
+29/05/2019,"28 Ardsolas, Old Naas Road, Brownsbarn",Dublin,295154.19,Yes,Brownsbarn,Co. Dublin,q2,30%
+29/05/2019,"41 Ardsolus, Old Naas Road, Brownsbarn",Dublin,325991.0,Yes,Brownsbarn,Co. Dublin,q4,80%
+31/05/2019,"30 Ardsolus, Brownsbarn, Kingswood",Dublin,308370.04,Yes,Brownsbarn,Co. Dublin,q3,60%
+06/06/2019,"37 Ardsolus, Old Naas Road, Brownsbarn",Dublin,308370.0,Yes,Brownsbarn,Co. Dublin,q3,60%
+11/06/2019,"29 Ardsolus, Old Naas Road, Brownsbarn",Dublin,308370.04,Yes,Brownsbarn,Co. Dublin,q3,60%
+13/06/2019,"58 Ardsolus, Old Naas Road, Brownsbarn",Dublin,308370.0,Yes,Brownsbarn,Co. Dublin,q3,60%
+14/06/2019,"32 Ardsolus, Old Naas Road, Brownsbarn",Dublin,299559.47,Yes,Brownsbarn,Co. Dublin,q2,40%
+18/06/2019,"25 Ardsolus, Old Naasroad, Brownsbarn",Dublin,356828.0,Yes,Brownsbarn,Co. Dublin,q4,100%
+19/06/2019,"35 Ardsolus, Old Naas Road, Brownsbarn",Dublin,299559.0,Yes,Brownsbarn,Co. Dublin,q2,40%
+21/06/2019,"10 Ardsolus, Old Naas Road, Brownsbarn",Dublin,317180.0,Yes,Brownsbarn,Co. Dublin,q3,70%
+25/06/2019,"40 Ardsolus, Old Naas Road, Brownsbarn",Dublin,325991.0,Yes,Brownsbarn,Co. Dublin,q4,80%
+25/06/2019,"51 Ardsolus, Old Naas Road, Brownsbarn",Dublin,343612.0,Yes,Brownsbarn,Co. Dublin,q4,90%
+27/06/2019,"56 Ardsolus, Old Naas Road, Brownsbarn",Dublin,321585.9,Yes,Brownsbarn,Co. Dublin,q3,80%
+09/07/2019,"27 Ardsolus, Old Naas Road, Brownsbarn",Dublin,308370.04,Yes,Brownsbarn,Co. Dublin,q3,60%
+10/07/2019,"14 Ardsolus, Old Naas Road, Brownsbarn",Dublin,299559.47,Yes,Brownsbarn,Co. Dublin,q2,40%
+12/07/2019,"11 Ardsolus, Old Naas Road, Brownsbarn",Dublin,317181.0,Yes,Brownsbarn,Co. Dublin,q3,70%
+12/07/2019,"60 Ardsolus, Old Naas Road, Brownsbarn",Dublin,303964.75,Yes,Brownsbarn,Co. Dublin,q2,50%
+25/07/2019,"57 Ardsolus, Old Naas Road, Brownsbarn",Dublin,317181.0,Yes,Brownsbarn,Co. Dublin,q3,70%
+16/08/2019,"23 Ardsolus, Old Naas Road, Brownsbarn",Dublin,356828.0,Yes,Brownsbarn,Co. Dublin,q4,100%

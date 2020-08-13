@@ -1,0 +1,128 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+10/06/2010,"28 St. Brendan'S Cottages, Irishtown",Dublin,210000.0,No,Irishtown,Dublin 4,q1,20%
+15/06/2010,"6 St. Brendan'S Cottages, Irishtown Road",Dublin,310000.0,No,Irishtown,Dublin 4,q2,40%
+01/10/2010,"30 St. Brendan'S Cottages, Irishtown",Dublin,225000.0,No,Irishtown,Dublin 4,q1,20%
+06/10/2010,"46 Bremen Road, Irishtown, Dublin 4",Dublin,285000.0,No,Irishtown,Dublin 4,q2,30%
+29/10/2010,"32 Bath Street, Irishtown",Dublin,150000.0,No,Irishtown,Dublin 4,q1,10%
+30/11/2010,"76 Magdelan Terrace, Stella Gardens, Irishtown",Dublin,191000.0,No,Irishtown,Dublin 4,q1,20%
+15/12/2010,"68 Irishtown Road, Irishtown",Dublin,403000.0,No,Irishtown,Dublin 4,q3,70%
+17/12/2010,"17 Aiken Head Terrace, Stella Gardens, Irishtown",Dublin,415000.0,No,Irishtown,Dublin 4,q3,70%
+17/12/2010,"3 Pembroke Grove, Irishtown",Dublin,450000.0,No,Irishtown,Dublin 4,q4,80%
+04/04/2011,"4 Chapel Ave, Irishtown",Dublin,310000.0,No,Irishtown,Dublin 4,q2,40%
+23/06/2011,"18 Irishtown Road, Irishtown",Dublin,290000.0,No,Irishtown,Dublin 4,q2,30%
+01/07/2011,"10 St. Brendans Cottages, Irishtown, Dublin 4",Dublin,330000.0,No,Irishtown,Dublin 4,q2,50%
+25/08/2011,"13 Dermot O'Hurley Avenue, Stella Gardens, Irishtown",Dublin,91500.0,No,Irishtown,Dublin 4,q1,10%
+06/10/2011,"79 Magdalen Terrace  Stella Gardens, Irishtown, Dublin 4",Dublin,120000.0,No,Irishtown,Dublin 4,q1,10%
+25/10/2011,"2 St Mary'S Terrace, Bath St, Irishtown",Dublin,180000.0,No,Irishtown,Dublin 4,q1,20%
+14/02/2012,"Apartment 29  Block B, The Bottleworks, Dermot O'Hurley Avenue  Irishtown",Dublin,148000.0,No,Irishtown,Dublin 4,q1,10%
+05/04/2012,"78 Magdalen Terrace, Stella Gardens, Irishtown",Dublin,157000.0,No,Irishtown,Dublin 4,q1,10%
+20/04/2012,"38 Bath Street, Irishtown, Dublin 4",Dublin,328000.0,No,Irishtown,Dublin 4,q2,40%
+02/05/2012,"104 Veronica Terrace, Irishtown",Dublin,184000.0,No,Irishtown,Dublin 4,q1,20%
+20/06/2012,"46 Irishtown Road, Irishtown, Dublin 4",Dublin,130000.0,No,Irishtown,Dublin 4,q1,10%
+03/07/2012,"132 Oliver Plunkett Avenue, Irishtown",Dublin,145000.0,No,Irishtown,Dublin 4,q1,10%
+24/08/2012,"11 Bayview Terrace, Irishtown",Dublin,165000.0,No,Irishtown,Dublin 4,q1,10%
+15/10/2012,"75 Magdalen Terrace, Stella Gardens, Irishtown",Dublin,163000.0,No,Irishtown,Dublin 4,q1,10%
+02/11/2012,"2 Pembroke Street, Irishtown",Dublin,63250.0,No,Irishtown,Dublin 4,q1,10%
+02/11/2012,"4 St. Mary'S Terrace, Bath Street, Irishtown",Dublin,230000.0,No,Irishtown,Dublin 4,q1,20%
+23/11/2012,"90 Veronica Terrace, Stella Gardens, Irishtown",Dublin,185000.0,No,Irishtown,Dublin 4,q1,20%
+21/12/2012,"17 Strand Street, Irishtown",Dublin,177500.0,No,Irishtown,Dublin 4,q1,10%
+15/02/2013,"17 Strand Street, Irishtown",Dublin,220000.0,No,Irishtown,Dublin 4,q1,20%
+20/09/2013,"108 St. Philomenas Terrace, Stella Gardens, Irishtown",Dublin,225000.0,No,Irishtown,Dublin 4,q1,20%
+04/10/2013,"1 Seaview, Pembroke Road, Irishtown",Dublin,316000.0,No,Irishtown,Dublin 4,q2,40%
+13/11/2013,"33 Bath Street, Irishtown",Dublin,402500.0,No,Irishtown,Dublin 4,q3,70%
+23/12/2013,"2 Bayview, Pembroke St, Irishtown Dublin 4",Dublin,561500.0,No,Irishtown,Dublin 4,q4,100%
+12/02/2014,"40 Stella Gardens, Irishtown, Dublin 4",Dublin,260000.0,No,Irishtown,Dublin 4,q1,30%
+17/07/2014,"62 Stella Gardens, Irishtown, Dublin 4",Dublin,232500.0,No,Irishtown,Dublin 4,q1,20%
+08/08/2014,"19 Aikenhead Terrace, Irishtown, Dublin 4",Dublin,297000.0,No,Irishtown,Dublin 4,q2,40%
+28/08/2014,"17 Bath St, Irishtown, Dublin 4",Dublin,275000.0,No,Irishtown,Dublin 4,q2,30%
+16/09/2014,"76 Magdalen Terrace, Stella Gardens, Irishtown Dublin 4",Dublin,395000.0,No,Irishtown,Dublin 4,q3,60%
+24/10/2014,"Apartment 8A, Riverview Court, The Bottleworks  Irishtown",Dublin,275000.0,No,Irishtown,Dublin 4,q2,30%
+01/12/2014,"117 Stella Gardens, Irishtown, Dublin 4",Dublin,316000.0,No,Irishtown,Dublin 4,q2,40%
+11/12/2014,"21 Aikenhead Terrace, Irishtown, Dublin 4",Dublin,395000.0,No,Irishtown,Dublin 4,q3,60%
+18/12/2014,"5 Strasburg Terrace, Irishtown, Dublin",Dublin,419000.0,No,Irishtown,Dublin 4,q3,70%
+22/12/2014,"37 Stella Gardens, Irishtown, Dublin 4",Dublin,348078.0,No,Irishtown,Dublin 4,q2,50%
+31/12/2014,"20 Bath St, Irishtown, Dublin 4",Dublin,175000.0,No,Irishtown,Dublin 4,q1,10%
+19/01/2015,"33 St Brendans Cottages, Irishtown, Dublin 4",Dublin,296500.0,No,Irishtown,Dublin 4,q2,40%
+30/01/2015,"8 Dodder Terrace, Irishtown, Dublin 4",Dublin,365500.0,No,Irishtown,Dublin 4,q3,60%
+24/02/2015,"11 Bath Street, Irishtown",Dublin,183750.0,No,Irishtown,Dublin 4,q1,20%
+24/02/2015,"13 Bath Street, Irishtown",Dublin,183750.0,No,Irishtown,Dublin 4,q1,20%
+24/02/2015,"31 Aikenhead Terrace, Irishtown, Dublin 4",Dublin,427000.0,No,Irishtown,Dublin 4,q3,80%
+02/04/2015,"10 Bayview, Pembroke Street, Irishtown",Dublin,410000.0,No,Irishtown,Dublin 4,q3,70%
+25/05/2015,"25 Strand St, Irishtown, Dublin 4",Dublin,205000.0,No,Irishtown,Dublin 4,q1,20%
+16/06/2015,"155 Rosary Terrace, Stella Gardens, Irishtown Dublin 4",Dublin,305000.0,No,Irishtown,Dublin 4,q2,40%
+25/06/2015,"69 St Magdalen Terrace, Stella Gardens, Irishtown",Dublin,325000.0,No,Irishtown,Dublin 4,q2,40%
+21/07/2015,"19 St Brendans Cottages, Irishtown, Dublin 4",Dublin,360000.0,No,Irishtown,Dublin 4,q2,50%
+31/07/2015,"5 Bayview, Pembroke St, Irishtown Dublin 4",Dublin,440000.0,No,Irishtown,Dublin 4,q4,80%
+04/08/2015,"3 Rosary Terrace, Irishtown, Dublin 4",Dublin,315000.0,No,Irishtown,Dublin 4,q2,40%
+06/08/2015,"15 Kennedy Court, Irishtown, Dublin 4",Dublin,370000.0,No,Irishtown,Dublin 4,q3,60%
+07/10/2015,"137 Stella Gardens, Irishtown, Dublin 4",Dublin,265000.0,No,Irishtown,Dublin 4,q1,30%
+10/10/2015,"2 Summerfield, Irishtown Rd, Dublin 4",Dublin,295000.0,No,Irishtown,Dublin 4,q2,40%
+13/10/2015,"179 Stella Gardens, Irishtown, Dublin 4",Dublin,285000.0,No,Irishtown,Dublin 4,q2,30%
+30/10/2015,"21 Kerlogue Rd, Irishtown, Dublin 4",Dublin,380100.0,No,Irishtown,Dublin 4,q3,60%
+30/10/2015,"55 Kerlogue Rd, Irishtown Dublin 4, Dublin",Dublin,340000.0,No,Irishtown,Dublin 4,q2,50%
+30/10/2015,"Apt 7, Summerfield, Irishtown Rd Dublin 4",Dublin,357050.0,No,Irishtown,Dublin 4,q2,50%
+13/11/2015,"36 Irishtown Rd, Irishtown, Dublin",Dublin,267500.0,No,Irishtown,Dublin 4,q1,30%
+17/11/2015,"18 Block B, The Bottleworks, Dermot O'Hurley Avenue  Irishtown",Dublin,255000.0,No,Irishtown,Dublin 4,q1,30%
+23/12/2015,"178 Oliver Plunkett Ave, Irishtown, Dublin 4",Dublin,296000.0,No,Irishtown,Dublin 4,q2,40%
+12/02/2016,"5 Bath St, Irishtown, Dublin 4",Dublin,620000.0,No,Irishtown,Dublin 4,q4,100%
+17/02/2016,"38 Irishtown Road, Irishtown, Dublin 4",Dublin,330000.0,No,Irishtown,Dublin 4,q2,50%
+27/04/2016,"67 Stella Gardens, Irishtown, Dublin 4",Dublin,400000.0,No,Irishtown,Dublin 4,q3,70%
+03/06/2016,"18 Bath Street, Irishtown, Dublin 4",Dublin,350000.0,No,Irishtown,Dublin 4,q2,50%
+29/06/2016,"34 Aikenhead Terrace, Stella Gardens, Irishtown Dublin 4",Dublin,390000.0,No,Irishtown,Dublin 4,q3,60%
+01/07/2016,"3 Bayview, Irishtown, Dublin 4",Dublin,437500.0,No,Irishtown,Dublin 4,q3,80%
+29/07/2016,"41B The Bottleworks, Dermot Ohurley Ave, Irishtown Dublin 4",Dublin,335000.0,No,Irishtown,Dublin 4,q2,50%
+04/08/2016,"167 Stella Gardens, Irishtown, Dublin 4",Dublin,360500.0,No,Irishtown,Dublin 4,q3,60%
+31/08/2016,"20B The Bottleworks, Ohurley Ave, Irishtown Dublin 4",Dublin,340000.0,No,Irishtown,Dublin 4,q2,50%
+24/11/2016,"20 Stella Gardens, Irishtown, Dublin 4",Dublin,320000.0,No,Irishtown,Dublin 4,q2,40%
+24/11/2016,"85 Stella Gardens, Irishtown, Dublin 4",Dublin,360000.0,No,Irishtown,Dublin 4,q2,50%
+15/12/2016,"19B The Bottleworks, Dermot O Hurley Ave, Irishtown Dublin 4",Dublin,255000.0,No,Irishtown,Dublin 4,q1,30%
+03/01/2017,"74 St Magdalen Terrace, Stella Gardens, Irishtown Dublin 4",Dublin,452000.0,No,Irishtown,Dublin 4,q4,80%
+26/01/2017,"Apt 25A The Bottleworks, Irishtown, Dublin 4",Dublin,355000.0,No,Irishtown,Dublin 4,q2,50%
+23/02/2017,"145 Oliver Plunkett Ave, Irishtown, Dublin 4",Dublin,290000.0,No,Irishtown,Dublin 4,q2,30%
+06/03/2017,"116 Philomena Terrace, Stella Gardens, Irishtown Dublin 4",Dublin,425000.0,No,Irishtown,Dublin 4,q3,80%
+13/04/2017,"3 Irishtown Rd, Dublin 4, Dublin",Dublin,470000.0,No,Irishtown,Dublin 4,q4,90%
+15/05/2017,"8 Herbert Pl, Irishtown, Dublin 4",Dublin,380000.0,No,Irishtown,Dublin 4,q3,60%
+22/05/2017,"12 Bayview, Irishtown, Dublin 4",Dublin,625000.0,No,Irishtown,Dublin 4,q4,100%
+21/06/2017,"7 Dermot Ohurley Ave, Irishtown, Dublin",Dublin,372000.0,No,Irishtown,Dublin 4,q3,60%
+11/07/2017,"12 A Riverview Court, The Bottleworks, Irishtown Dublin 4",Dublin,361000.0,No,Irishtown,Dublin 4,q3,60%
+14/08/2017,"18 Bremen Ave, Irishtown, Dublin 4",Dublin,255000.0,No,Irishtown,Dublin 4,q1,30%
+18/08/2017,"7 St Brendan'S Cottages, Irishtown, Dublin 4",Dublin,340000.0,No,Irishtown,Dublin 4,q2,50%
+30/08/2017,"10 Ennis Grove, Off Londonridge Rd, Irishtown Dublin 4",Dublin,625000.0,No,Irishtown,Dublin 4,q4,100%
+01/09/2017,"13 Bath Street, Irishtown, Dublin 4",Dublin,720000.0,No,Irishtown,Dublin 4,q4,100%
+20/10/2017,"12 Stella Gardens, Irishtown, Dublin 4",Dublin,470000.0,No,Irishtown,Dublin 4,q4,90%
+10/11/2017,"37 Bath St, Irishtown, Dublin 4",Dublin,380000.0,No,Irishtown,Dublin 4,q3,60%
+12/12/2017,"11 Bath Street, Irishtown, Dublin 4",Dublin,594714.0,No,Irishtown,Dublin 4,q4,100%
+19/12/2017,"45 Aikenhead Terrace, Irishtown, Dublin 4",Dublin,400000.0,No,Irishtown,Dublin 4,q3,70%
+12/04/2018,"105 Stella Gardens, Irishtown, Dublin 4",Dublin,175000.0,No,Irishtown,Dublin 4,q1,10%
+20/04/2018,"29 Aikenhead Terrace, Stella Gardens, Irishtown",Dublin,455000.0,No,Irishtown,Dublin 4,q4,80%
+25/04/2018,"4 Chapel Ave, Irishtown, Dublin 4",Dublin,455000.0,No,Irishtown,Dublin 4,q4,80%
+27/04/2018,"22 Bath St, Irishtown, Dublin 4",Dublin,490000.0,No,Irishtown,Dublin 4,q4,90%
+08/05/2018,"147 Rosary Terrace, Stella Gardens, Irishtown Dublin 4",Dublin,465000.0,No,Irishtown,Dublin 4,q4,90%
+01/06/2018,"67 St Magdalen Terrace, Stella Gardens, Irishtown",Dublin,463000.0,No,Irishtown,Dublin 4,q4,90%
+15/06/2018,"5 St Joseph'S Terrace, Irishtown",Dublin,491923.64,Yes,Irishtown,Dublin 4,q4,90%
+15/06/2018,"6 St. Joseph'S Terrace, Irishtown",Dublin,491923.64,Yes,Irishtown,Dublin 4,q4,90%
+15/06/2018,"7 St. Joseph'S Terrace, Irishtown",Dublin,491923.64,Yes,Irishtown,Dublin 4,q4,90%
+15/06/2018,"8 St. Joseph'S Terrace, Irishtown",Dublin,491923.64,Yes,Irishtown,Dublin 4,q4,100%
+15/06/2018,"9 St. Joseph'S Terrace, Irishtown",Dublin,491923.64,Yes,Irishtown,Dublin 4,q4,100%
+15/06/2018,"No. 4 St. Joseph'S Terrace, Irishtown",Dublin,491923.64,Yes,Irishtown,Dublin 4,q4,100%
+21/06/2018,"62 Stella Gardens, Irishtown, Dublin 4",Dublin,535000.0,No,Irishtown,Dublin 4,q4,100%
+29/06/2018,"8 Kennedy Court, Irishtown, Dublin 4",Dublin,451000.0,No,Irishtown,Dublin 4,q4,80%
+14/09/2018,"2 Bayview, Pembroke St, Irishtown Dublin 4",Dublin,815000.0,No,Irishtown,Dublin 4,q4,100%
+21/09/2018,"12 Pembroke St, Irishtown, Dublin 4",Dublin,338000.0,No,Irishtown,Dublin 4,q2,50%
+28/09/2018,"20 The Sq, Irishtown, Dublin 4",Dublin,467750.0,No,Irishtown,Dublin 4,q4,90%
+23/10/2018,"17 Strand St, Irishtown, Dublin 4",Dublin,617717.0,No,Irishtown,Dublin 4,q4,100%
+24/10/2018,"19 Ennis Grove, Irishtown, Dublin 4",Dublin,510000.0,No,Irishtown,Dublin 4,q4,100%
+22/11/2018,"24 Irishtown Rd, Irishtown, Dublin 4",Dublin,470000.0,No,Irishtown,Dublin 4,q4,90%
+03/12/2018,"15 The Square, Irishtown, Dublin 4",Dublin,466000.0,No,Irishtown,Dublin 4,q4,90%
+21/12/2018,"171 Oliver Plunkett Ave, Stella Gardens, Irishtown Dublin 4",Dublin,410000.0,No,Irishtown,Dublin 4,q3,70%
+15/01/2019,"3 Fairview Ave, Irishtown, Dublin 4",Dublin,435000.0,No,Irishtown,Dublin 4,q3,80%
+04/02/2019,"30 Aikenhead Terrace, Stella Gardens, Irishtown Dublin 4",Dublin,408000.0,No,Irishtown,Dublin 4,q3,70%
+02/04/2019,"14 Summerfield, Irishtown Rd, Dublin 4",Dublin,420000.0,No,Irishtown,Dublin 4,q3,80%
+09/04/2019,"3 Herbert Place, Irishtown, Dublin 4",Dublin,482000.0,No,Irishtown,Dublin 4,q4,90%
+10/06/2019,"172 Stella Gardens, Irishtown, Dublin",Dublin,365000.0,No,Irishtown,Dublin 4,q3,60%
+09/07/2019,"13 Dodder Terrace, Irishtown, Dublin 4",Dublin,405000.0,No,Irishtown,Dublin 4,q3,70%
+13/09/2019,"10 Fairview Avenue, Irishtown, Dublin 4",Dublin,436000.0,No,Irishtown,Dublin 4,q3,80%
+16/09/2019,"18 Pembroke St, Irishtown, Dublin 4",Dublin,485000.0,No,Irishtown,Dublin 4,q4,90%
+20/09/2019,"19A The Bottleworks, Irishtown, Dublin 4",Dublin,400000.0,No,Irishtown,Dublin 4,q3,70%
+26/09/2019,"2 Pembroke St, Irishtown, Dublin 4",Dublin,400000.0,No,Irishtown,Dublin 4,q3,70%
+17/10/2019,"Apt 30B The Bottleworks, Dermot Ohurley Ave, Irishtown Dublin 4",Dublin,395000.0,No,Irishtown,Dublin 4,q3,70%

@@ -1,0 +1,113 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+18/02/2010,"36 Mulgrave Street, Dunlaoghaire, Dublin",Dublin,523000.0,No,Dunlaoghaire,Co. Dublin,q3,70%
+19/05/2010,"Apartment 2 The Green, Kensington Lodge, Rochestown Avenue  Dunlaoghaire",Dublin,225000.0,Yes,Dunlaoghaire,Co. Dublin,q1,20%
+10/06/2010,"Apt 124 Harbour View, Crofton Road, Dunlaoghaire",Dublin,216000.0,Yes,Dunlaoghaire,Co. Dublin,q1,20%
+07/07/2010,"18 Whitethorn Walk, Carriglea Downs, Dunlaoghaire",Dublin,379000.0,No,Dunlaoghaire,Co. Dublin,q2,40%
+04/10/2010,"Aisling, No. 7 Dalkey Grove  Dalkey, Dunlaoghaire",Dublin,595000.0,No,Dunlaoghaire,Co. Dublin,q4,80%
+29/11/2010,"24 Rory O'Connor Park, Dunlaoghaire",Dublin,230000.0,No,Dunlaoghaire,Co. Dublin,q1,20%
+28/01/2011,"43 Eaglewood, Rochestown Ave, Dunlaoghaire",Dublin,252500.0,No,Dunlaoghaire,Co. Dublin,q1,20%
+10/03/2011,"12A Tivoli Close, Woodlawn Park, Dunlaoghaire",Dublin,155000.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+14/09/2011,"14A Rochestown Park, Dunlaoghaire",Dublin,192500.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+25/01/2012,"40 Mulgrave Street, Dunlaoghaire",Dublin,300000.0,No,Dunlaoghaire,Co. Dublin,q1,30%
+02/05/2012,"6 Eaglewood House, Rochestown Avenue, Dunlaoghaire",Dublin,145700.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+04/05/2012,"27 Royal Terrace West, Dunlaoghaire",Dublin,585000.0,No,Dunlaoghaire,Co. Dublin,q4,80%
+21/05/2012,"8 Park Lane, Dunlaoghaire",Dublin,1210000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+13/07/2012,"42 Hillview Lawns, Pottery Road, Dunlaoghaire",Dublin,202000.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+21/09/2012,"26  The Green, Kensington Lodge, Rochestown Avenue  Dunlaoghaire",Dublin,185000.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+18/10/2012,"18 Orourke Park, Sallynoggin, Dunlaoghaire",Dublin,210000.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+25/10/2012,"2 Lower Georges Street, Dunlaoghaire",Dublin,48000.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+20/05/2013,"40 Clarinda Park West, Dunlaoghaire, County Dublin",Dublin,1000000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+28/05/2013,"27 Claremont Avenue, Honeypark, Dunlaoghaire",Dublin,418501.0,Yes,Dunlaoghaire,Co. Dublin,q2,50%
+14/06/2013,"5 The Ogham, Granitefield Manor, Dunlaoghaire",Dublin,157500.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+21/06/2013,"72 Granitefield, Rochestown Ave, Dunlaoghaire",Dublin,412500.0,No,Dunlaoghaire,Co. Dublin,q2,50%
+18/07/2013,"29 Harbour View, Dunlaoghaire",Dublin,215000.0,No,Dunlaoghaire,Co. Dublin,q1,20%
+03/09/2013,"9 Dargan Drive, Honeypark, Dunlaoghaire",Dublin,383259.0,Yes,Dunlaoghaire,Co. Dublin,q2,40%
+02/10/2013,"47 Rochestown Avenue, Dunlaoghaire",Dublin,415000.0,No,Dunlaoghaire,Co. Dublin,q2,50%
+02/10/2013,"67 The Pavilion, Marine Road, Dunlaoghaire",Dublin,310000.0,No,Dunlaoghaire,Co. Dublin,q2,30%
+22/11/2013,"1 Woodlands Avenue, Dunlaoghaire, Co Dublin",Dublin,512000.0,No,Dunlaoghaire,Co. Dublin,q3,70%
+17/12/2013,"6 Skipton, Honeypark, Dunlaoghaire",Dublin,449339.0,Yes,Dunlaoghaire,Co. Dublin,q3,60%
+19/12/2013,"8 Park Lane, Dunlaoghaire, Dublin",Dublin,740000.0,No,Dunlaoghaire,Co. Dublin,q4,90%
+29/01/2014,"45A Rollins Villas, Dunlaoghaire, Dublin",Dublin,300000.0,No,Dunlaoghaire,Co. Dublin,q2,30%
+02/05/2014,"34 Brickfield Drive, Honeypark, Dunlaoghaire",Dublin,515418.0,Yes,Dunlaoghaire,Co. Dublin,q3,70%
+18/06/2014,"San Fionnbarra, Crosthwaite Park South, Dunlaoghaire",Dublin,1200000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+27/06/2014,"42 Brickfield Drive, Honeypark, Dunlaoghaire",Dublin,519823.0,Yes,Dunlaoghaire,Co. Dublin,q3,70%
+04/07/2014,"152 Pearse Park, Sallynoggin, Dunlaoghaire",Dublin,325000.0,No,Dunlaoghaire,Co. Dublin,q2,40%
+26/08/2014,"26 Brickfield Drive, Honeypark Dunlaoghaire",Dublin,519823.78,Yes,Dunlaoghaire,Co. Dublin,q3,70%
+02/09/2014,"40 Highthorn Park, Dunlaoghaire, Dublin",Dublin,440000.0,No,Dunlaoghaire,Co. Dublin,q2,50%
+11/09/2014,"21 Brickfield Drive, Honeypark, Dunlaoghaire",Dublin,537444.93,Yes,Dunlaoghaire,Co. Dublin,q3,80%
+13/10/2014,"41 Brickfield Drive, Honeypark, Dunlaoghaire",Dublin,488986.0,Yes,Dunlaoghaire,Co. Dublin,q3,70%
+14/11/2014,"4 Tivoli Gardens, Tivoli Terrace East, Dunlaoghaire",Dublin,310000.0,No,Dunlaoghaire,Co. Dublin,q2,30%
+01/12/2014,"5 Sussex Street, Dunlaoghaire, Dublin",Dublin,410000.0,No,Dunlaoghaire,Co. Dublin,q2,50%
+02/12/2014,"34 Burford Drive, Honeypark, Dunlaoghaire",Dublin,635000.0,Yes,Dunlaoghaire,Co. Dublin,q4,90%
+17/12/2014,"30 Granville Close, Dunlaoghaire, Dublin",Dublin,550000.0,No,Dunlaoghaire,Co. Dublin,q3,80%
+22/12/2014,"79 Patrick Street, Dunlaoghaire, Co Dublin",Dublin,250000.0,No,Dunlaoghaire,Co. Dublin,q1,20%
+07/01/2015,"54 Rollins Villas, Sallynoggin, Dunlaoghaire",Dublin,235000.0,No,Dunlaoghaire,Co. Dublin,q1,20%
+13/02/2015,"22 Fitzgerald Park, Mounttown, Dunlaoghaire",Dublin,310000.0,No,Dunlaoghaire,Co. Dublin,q2,30%
+27/02/2015,"37 Lower Mounttown, Dunlaoghaire, Dublin",Dublin,480000.0,No,Dunlaoghaire,Co. Dublin,q3,60%
+05/06/2015,"2 Charlemont Terrace, Crofton Road, Dunlaoghaire",Dublin,900000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+08/06/2015,"8 Park Lane, Dunlaoghaire, Dublin",Dublin,870000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+19/06/2015,"58 Smyths Gardens, Dunlaoghaire, Co Dublin",Dublin,275000.0,No,Dunlaoghaire,Co. Dublin,q1,30%
+30/06/2015,"21 Carnagie Drive  Honeypark, Dunlaoghaire",Dublin,594468.0,Yes,Dunlaoghaire,Co. Dublin,q4,80%
+08/07/2015,"4 Tivoli Gardens, Tivoli Terrace East, Dunlaoghaire",Dublin,575000.0,No,Dunlaoghaire,Co. Dublin,q4,80%
+16/07/2015,"22 Carnegie Drive, Honeypark, Dunlaoghaire",Dublin,620000.0,Yes,Dunlaoghaire,Co. Dublin,q4,90%
+15/08/2015,"16 Carnegie Drive, Honeypark, Dunlaoghaire",Dublin,559471.0,Yes,Dunlaoghaire,Co. Dublin,q3,80%
+08/10/2015,"1A Auburn Ave, Dunlaoghaire, Co Dublin",Dublin,535000.0,No,Dunlaoghaire,Co. Dublin,q3,80%
+22/01/2016,"10 Borrig House, Borris Ave, Dunlaoghaire",Dublin,220500.0,No,Dunlaoghaire,Co. Dublin,q1,20%
+29/01/2016,"7 Carriglea Gardens, Dunlaoghaire, Dublin",Dublin,325000.0,No,Dunlaoghaire,Co. Dublin,q2,40%
+10/03/2016,"92 Clearwater Cove, Dunlaoghaire",Dublin,350000.0,No,Dunlaoghaire,Co. Dublin,q2,40%
+18/03/2016,"7 Dungar Terrace, Dunlaoghaire, Co Dublin",Dublin,535000.0,No,Dunlaoghaire,Co. Dublin,q3,80%
+20/04/2016,"1 Woodlands Avenue, Dunlaoghaire, Co Dublin",Dublin,680000.0,Yes,Dunlaoghaire,Co. Dublin,q4,90%
+06/05/2016,"39 Boyd Avenue, Honeypark, Dunlaoghaire",Dublin,325336.56,Yes,Dunlaoghaire,Co. Dublin,q2,40%
+06/05/2016,"73A Patrick St, Dunlaoghaire, Dublin",Dublin,410000.0,No,Dunlaoghaire,Co. Dublin,q2,50%
+27/05/2016,"5 Cabinteely Dr, Dunlaoghaire, Dublin 18",Dublin,500000.0,No,Dunlaoghaire,Co. Dublin,q3,70%
+13/07/2016,"16A Patricks St., Dunlaoghaire, Co Dublin",Dublin,140000.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+19/08/2016,"82 Roseland Avenue, Culanor, Dunlaoghaire",Dublin,638766.51,Yes,Dunlaoghaire,Co. Dublin,q4,90%
+31/08/2016,"Apt 1 4 Charlemont Terrace, Crofton Road, Dunlaoghaire",Dublin,337000.0,No,Dunlaoghaire,Co. Dublin,q2,40%
+21/09/2016,"9 Grangewood, Rochestown Ave, Dunlaoghaire",Dublin,275000.0,No,Dunlaoghaire,Co. Dublin,q1,30%
+03/11/2016,"22 Monkstown Ave, Monkstown Farm, Dunlaoghaire",Dublin,660000.0,No,Dunlaoghaire,Co. Dublin,q4,90%
+04/11/2016,"76 Highthorn Park, Dunlaoghaire, Dublin",Dublin,450000.0,No,Dunlaoghaire,Co. Dublin,q3,60%
+11/11/2016,"Epworth, Crosthwaite Park West, Dunlaoghaire",Dublin,1235000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+20/12/2016,"Apartment 10 Neptune Block, Honeypark, Dunlaoghaire",Dublin,308370.0,Yes,Dunlaoghaire,Co. Dublin,q2,30%
+06/02/2017,"Apt 4 36 Yorke Rd Dunlaoghaire, Dublin",Dublin,200000.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+09/02/2017,"17 Melifont Av, Dunlaoghaire, Dublin",Dublin,525000.0,No,Dunlaoghaire,Co. Dublin,q3,70%
+22/03/2017,"9 St Patricks Terrace, Monkstown Farm, Dunlaoghaire",Dublin,320000.0,No,Dunlaoghaire,Co. Dublin,q2,30%
+27/03/2017,"83 Adelaide Rd, Glenageary, Dunlaoghaire",Dublin,736100.0,No,Dunlaoghaire,Co. Dublin,q4,90%
+11/04/2017,"77 The Pavilion, Dunlaoghaire, Dublin",Dublin,465000.0,No,Dunlaoghaire,Co. Dublin,q3,60%
+26/04/2017,"Rock Haven, 7C Woodley Rd, Dunlaoghaire",Dublin,680000.0,No,Dunlaoghaire,Co. Dublin,q4,90%
+02/06/2017,"11 Northumberland Ave, Dunlaoghaire, Dublin",Dublin,650000.0,No,Dunlaoghaire,Co. Dublin,q4,90%
+15/06/2017,"69 Harbour View, Dunlaoghaire, Dublin",Dublin,440000.0,No,Dunlaoghaire,Co. Dublin,q2,50%
+30/06/2017,"2 Royal Terrace West, Dunlaoghaire, Dublin",Dublin,1340000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+30/06/2017,"81 Ashgrove, Kill Ave, Dunlaoghaire",Dublin,350000.0,No,Dunlaoghaire,Co. Dublin,q2,40%
+25/07/2017,"15Royalterracewest, Dunlaoghaire, Dublin",Dublin,1055000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+02/08/2017,"24 Rory O Connor Park, Abbey Rd Dunlaoghaire, Dublin",Dublin,400000.0,No,Dunlaoghaire,Co. Dublin,q2,50%
+31/08/2017,"Apt1 48 Sandycove Road, Dunlaoghaire, Co. Dublin",Dublin,212500.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+06/09/2017,"5 Library Terrace, Library Rd, Dunlaoghaire",Dublin,250000.0,No,Dunlaoghaire,Co. Dublin,q1,20%
+27/09/2017,"6 Eaglewood House, Rochestown Ave, Dunlaoghaire",Dublin,286000.0,No,Dunlaoghaire,Co. Dublin,q1,30%
+16/10/2017,"Apart 2, 53 Patrick St, Dunlaoghaire",Dublin,340000.0,No,Dunlaoghaire,Co. Dublin,q2,40%
+17/10/2017,"Apt 1 4 Charlemont Terrace, Crofton Road, Dunlaoghaire",Dublin,337000.0,No,Dunlaoghaire,Co. Dublin,q2,40%
+18/10/2017,"4 Doonsala Park, Dunlaoghaire, Dublin",Dublin,525000.0,No,Dunlaoghaire,Co. Dublin,q3,80%
+07/11/2017,"43 Cherrywood, Dunlaoghaire, Dublin",Dublin,400000.0,No,Dunlaoghaire,Co. Dublin,q2,50%
+17/11/2017,"41 Flower Grove, Off Avondale Rd, Dunlaoghaire",Dublin,500000.0,No,Dunlaoghaire,Co. Dublin,q3,70%
+14/12/2017,"76 York Rd, Dunlaoghaire, Dublin",Dublin,130000.0,No,Dunlaoghaire,Co. Dublin,q1,10%
+22/12/2017,"2 Patrick Close, Patrick St, Dunlaoghaire",Dublin,260000.0,No,Dunlaoghaire,Co. Dublin,q1,20%
+22/12/2017,"3 Patrick Close, Patrick St, Dunlaoghaire",Dublin,260000.0,No,Dunlaoghaire,Co. Dublin,q1,30%
+19/02/2018,"1 Oriel Court, 50 51 Patrick Street, Dunlaoghaire",Dublin,860000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+12/03/2018,"25 Odonnell Gardens, Glasthule, Dunlaoghaire",Dublin,445000.0,No,Dunlaoghaire,Co. Dublin,q3,60%
+16/03/2018,"1 Haigh Terrace, Dunlaoghaire, Dublin.",Dublin,1100000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+17/05/2018,"Apt 58 Eustace Court, Cualanor, Dunlaoghaire",Dublin,471366.0,Yes,Dunlaoghaire,Co. Dublin,q3,60%
+13/06/2018,"St Josephs, 14 Carriglea Ave, Dunlaoghaire",Dublin,500000.0,No,Dunlaoghaire,Co. Dublin,q3,70%
+21/06/2018,"41 Clearwater Cove, Dunlaoghaire, Co Dublin",Dublin,425000.0,No,Dunlaoghaire,Co. Dublin,q2,50%
+01/08/2018,"87 Clearwater Cove, Dunlaoghaire, Dublin",Dublin,453000.0,No,Dunlaoghaire,Co. Dublin,q3,60%
+16/08/2018,"Garden Apt, 35 Sandycove Rd, Dunlaoghaire",Dublin,1210000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+24/09/2018,"9 Rose Park, Off Kill Ave, Dunlaoghaire",Dublin,520000.0,No,Dunlaoghaire,Co. Dublin,q3,70%
+21/12/2018,"13 Eaglewood, Rochestown Ave, Dunlaoghaire",Dublin,341000.0,No,Dunlaoghaire,Co. Dublin,q2,40%
+11/01/2019,"9 St Patricks Terrace, Monkstown Farm, Dunlaoghaire",Dublin,440000.0,No,Dunlaoghaire,Co. Dublin,q2,50%
+22/01/2019,"22 Sydenham Mews, Corrig Avenue, Dunlaoghaire",Dublin,905000.0,No,Dunlaoghaire,Co. Dublin,q4,100%
+08/03/2019,"1B Lanesville Ave, Glenageary, Dunlaoghaire",Dublin,590000.0,No,Dunlaoghaire,Co. Dublin,q4,80%
+15/03/2019,"46 Oliver Plunkett Ave, Monkstown Farm, Dunlaoghaire",Dublin,462000.0,No,Dunlaoghaire,Co. Dublin,q3,60%
+30/05/2019,"4 Royal Terrace West, Dunlaoghaire, Dublin",Dublin,800000.0,No,Dunlaoghaire,Co. Dublin,q4,90%
+01/08/2019,"56 Rory Oconnor Park, Abbey Rd, Dunlaoghaire",Dublin,487500.0,No,Dunlaoghaire,Co. Dublin,q3,60%
+23/08/2019,"53 Eustace Court, Cukanor, Dunlaoghaire",Dublin,466640.0,Yes,Dunlaoghaire,Co. Dublin,q3,60%
+30/08/2019,"37 Rory O Connor Park, Abbey Rd, Dunlaoghaire",Dublin,455000.0,No,Dunlaoghaire,Co. Dublin,q3,60%
+07/10/2019,"15 Granitefield Mews, Rochestown Ave, Dunlaoghaire Dublin 18",Dublin,230000.0,No,Dunlaoghaire,Co. Dublin,q1,20%
+23/10/2019,"82 Roseland Avenue, Culanor, Dunlaoghaire",Dublin,820000.0,No,Dunlaoghaire,Co. Dublin,q4,90%

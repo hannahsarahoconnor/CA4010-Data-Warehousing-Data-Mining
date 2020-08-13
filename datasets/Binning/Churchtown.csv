@@ -1,0 +1,798 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+01/01/2010,"5 Braemor Drive, Churchtown, Co.Dublin",Dublin,343000.0,No,Churchtown,Dublin 14,q1,30%
+07/01/2010,"16 Landscape Gardens, Churchtown",Dublin,515000.0,No,Churchtown,Dublin 14,q3,70%
+18/01/2010,"24 Flemingstown, Churchtown, Dublin 14",Dublin,526000.0,No,Churchtown,Dublin 14,q3,70%
+26/01/2010,"47, Lower Churchtown Road, Churchtown",Dublin,634000.0,No,Churchtown,Dublin 14,q4,90%
+04/02/2010,"2 Braemor Avenue, Churchtown",Dublin,497250.0,No,Churchtown,Dublin 14,q3,60%
+09/02/2010,"101 Braemor Road, Churchtown, Dublin 14",Dublin,388000.0,No,Churchtown,Dublin 14,q2,30%
+25/02/2010,"84 Braemor Road, Churchtown",Dublin,405000.0,No,Churchtown,Dublin 14,q2,40%
+05/03/2010,"Ashleigh, Beaumount Avenue, Churchtown",Dublin,370000.0,No,Churchtown,Dublin 14,q2,30%
+23/03/2010,"9 Newtown Grove, Braemor Road, Churchtown",Dublin,450000.0,No,Churchtown,Dublin 14,q2,50%
+24/03/2010,"4 Barton Road East, Churchtown, Dublin 14",Dublin,385000.0,No,Churchtown,Dublin 14,q2,30%
+29/03/2010,"Appartment 3, Synge House, Braemor Road Churchtown",Dublin,315000.0,No,Churchtown,Dublin 14,q1,20%
+07/04/2010,"63 Meadow Mount, Churchtown, Dublin 14",Dublin,444000.0,No,Churchtown,Dublin 14,q2,50%
+16/04/2010,"2 Milltown Grove, Churchtown, Dublin 14",Dublin,460000.0,No,Churchtown,Dublin 14,q2,50%
+16/04/2010,"91 Meadow Park, Churchtown",Dublin,380000.0,No,Churchtown,Dublin 14,q2,30%
+24/04/2010,"55 Barton Road East, Churchtown",Dublin,370000.0,No,Churchtown,Dublin 14,q2,30%
+30/04/2010,"17 Landscape Gardens, Churchtown",Dublin,540000.0,No,Churchtown,Dublin 14,q3,70%
+21/05/2010,"No. 3 Synge Court, Newtown Villas Brameor Road, Churchtown",Dublin,417000.0,No,Churchtown,Dublin 14,q2,40%
+25/05/2010,"45 Meadow Grove, Churchtown",Dublin,410000.0,No,Churchtown,Dublin 14,q2,40%
+03/06/2010,"11 Woodlawn Grove, Upper Churchtown Road, Dublin 14",Dublin,410000.0,No,Churchtown,Dublin 14,q2,40%
+09/06/2010,"33 Camberley Oaks, Churchtown",Dublin,460000.0,No,Churchtown,Dublin 14,q2,50%
+11/06/2010,"23 Landscape Gardens, Churchtown",Dublin,488000.0,No,Churchtown,Dublin 14,q3,60%
+21/06/2010,"10 Whitehall Road, Churchtown, Dublin 14",Dublin,430000.0,No,Churchtown,Dublin 14,q2,40%
+02/07/2010,"18 Nugent Road, Churchtown, Dublin 14",Dublin,425000.0,No,Churchtown,Dublin 14,q2,40%
+02/07/2010,"68 Mountain View Park, Churchtown",Dublin,250000.0,No,Churchtown,Dublin 14,q1,10%
+09/07/2010,"10  Breamor Drive, Churchtown, Dublin 14",Dublin,365000.0,No,Churchtown,Dublin 14,q1,30%
+15/07/2010,"48 Carrickmount Drive, Churchtown, Dublin 14",Dublin,242000.0,No,Churchtown,Dublin 14,q1,10%
+22/07/2010,"3 Beaumont Drive, Churchtown, Dublin 14",Dublin,372000.0,No,Churchtown,Dublin 14,q2,30%
+22/07/2010,"Apartment 4  Ely Hall, Hazelbrook Square  Whitehall Road, Churchtown",Dublin,222004.4,Yes,Churchtown,Dublin 14,q1,10%
+30/07/2010,"21 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,275000.0,Yes,Churchtown,Dublin 14,q1,20%
+30/07/2010,"72 Barton Road East, Churchtown, Dublin 14",Dublin,373500.0,No,Churchtown,Dublin 14,q2,30%
+30/07/2010,"Apartment 20 Newtown Hall, Hazelbrook Square  Whitehall Road, Churchtown",Dublin,275000.0,Yes,Churchtown,Dublin 14,q1,20%
+30/07/2010,"Apartment 20 Newtown Hall, Hazelbrook Square  Whitehall Road, Churchtown",Dublin,275000.0,Yes,Churchtown,Dublin 14,q1,20%
+04/08/2010,"17 Mount Albion, Churchtown",Dublin,300000.0,No,Churchtown,Dublin 14,q1,20%
+04/08/2010,"410 Nutgrove Avenue, Churchtown",Dublin,285000.0,No,Churchtown,Dublin 14,q1,20%
+06/08/2010,"53 Whitebarn Road, Churchtown",Dublin,353900.0,No,Churchtown,Dublin 14,q1,30%
+12/08/2010,"14 Henley Park, Churchtown",Dublin,541453.0,No,Churchtown,Dublin 14,q3,70%
+12/08/2010,"56 Landscape Park, Churchtown",Dublin,532500.0,No,Churchtown,Dublin 14,q3,70%
+12/08/2010,"93 Whitebarn Road, Churchtown, Dublin 14",Dublin,200000.0,No,Churchtown,Dublin 14,q1,10%
+03/09/2010,"Apt 10 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,260000.0,Yes,Churchtown,Dublin 14,q1,10%
+03/09/2010,"Apt. 22 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,275000.0,Yes,Churchtown,Dublin 14,q1,20%
+06/09/2010,"7 Synge Court, Newtown Villas, Churchtown",Dublin,532000.0,No,Churchtown,Dublin 14,q3,70%
+07/09/2010,"21 Ely Hall, Hazelbrook Square  Whitehall Road, Churchtown  Dublin 14",Dublin,242291.0,Yes,Churchtown,Dublin 14,q1,10%
+07/09/2010,"Apartment 15  Newtown Hall, Hazelbrook Square  Whitehall Road, Churchtown",Dublin,233480.0,Yes,Churchtown,Dublin 14,q1,10%
+08/09/2010,"Apartment 16, Ely Hall  Hazelbrook Square, Whitehall Road  Churchtown",Dublin,237885.46,Yes,Churchtown,Dublin 14,q1,10%
+10/09/2010,"25 Ardavon Halli, Hazelbrook Square, Churchtown",Dublin,275000.0,Yes,Churchtown,Dublin 14,q1,20%
+13/09/2010,"30 Oakdown Road, Churchtown",Dublin,453000.0,No,Churchtown,Dublin 14,q2,50%
+17/09/2010,"37 Carrickmount Drive, Churchtown",Dublin,185000.0,No,Churchtown,Dublin 14,q1,10%
+24/09/2010,"38 Henley Park, Churchtown, Dublin 14",Dublin,500000.0,No,Churchtown,Dublin 14,q3,60%
+06/10/2010,"2 Finsbury Green, Churchtown, Dublin 14",Dublin,309000.0,No,Churchtown,Dublin 14,q1,20%
+06/10/2010,"Apt 16 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,237885.0,Yes,Churchtown,Dublin 14,q1,10%
+13/10/2010,"32 Weston Road, Churchtown",Dublin,395500.0,No,Churchtown,Dublin 14,q2,40%
+22/10/2010,"68 Braemor Road, Churchtown, Dublin 14",Dublin,490000.0,No,Churchtown,Dublin 14,q3,60%
+03/11/2010,"69 Braemor Road, Churchtown, Dublin 14",Dublin,467500.0,No,Churchtown,Dublin 14,q2,50%
+19/11/2010,"145 Braemor Road, Churchtown",Dublin,455000.0,No,Churchtown,Dublin 14,q2,50%
+13/12/2010,"8 Milltown Drive, Churchtown",Dublin,590000.0,No,Churchtown,Dublin 14,q4,80%
+14/12/2010,"2 Headford Grove, Off Beaumont Avenue, Churchtown",Dublin,469500.0,No,Churchtown,Dublin 14,q2,50%
+20/12/2010,"No 1 Braemor Grove, Churchtown",Dublin,350000.0,No,Churchtown,Dublin 14,q1,30%
+22/12/2010,"78 Landscape Park, Churchtown",Dublin,410500.0,No,Churchtown,Dublin 14,q2,40%
+23/12/2010,"16 Braemor Drive, Churchtown",Dublin,330000.0,No,Churchtown,Dublin 14,q1,20%
+23/12/2010,"30 Whitebarn Road, Churchtown, Dublin 14",Dublin,370000.0,No,Churchtown,Dublin 14,q2,30%
+30/12/2010,"81 Breamor Road, Churchtown, Dublin 14",Dublin,380000.0,No,Churchtown,Dublin 14,q2,30%
+27/01/2011,"17 Ely Hall, Hazelbrook Square, Churchtown",Dublin,167400.89,Yes,Churchtown,Dublin 14,q1,10%
+11/02/2011,"17 Braemor Park, Churchtown",Dublin,825000.0,No,Churchtown,Dublin 14,q4,100%
+03/03/2011,"6 Ardavon Hall, Hazelbrook Square, Whitehall Road Churchtown",Dublin,229074.89,Yes,Churchtown,Dublin 14,q1,10%
+29/03/2011,"21 Laurel Road, Churchtown",Dublin,385000.0,No,Churchtown,Dublin 14,q2,30%
+01/04/2011,"9 Churchtown Drive, Churchtown, Dublin 14",Dublin,490000.0,No,Churchtown,Dublin 14,q3,60%
+08/04/2011,"11 Churchtown Drive, Churchtown, Dublin 14",Dublin,521700.0,No,Churchtown,Dublin 14,q3,70%
+08/04/2011,"127 Barton Road East, Churchtown, Dublin 14",Dublin,340000.0,No,Churchtown,Dublin 14,q1,30%
+21/04/2011,"15 Charleville, Lower Churchtown Road, Churchtown",Dublin,720000.0,No,Churchtown,Dublin 14,q4,90%
+06/05/2011,"Apt 4 Orwell Court, Braemor Road, Churchtown Dublin 14.",Dublin,275000.0,No,Churchtown,Dublin 14,q1,20%
+20/05/2011,"Churchtown House, Weston Park, Churchtown",Dublin,2150000.0,No,Churchtown,Dublin 14,q4,100%
+23/05/2011,"108 Lower Churchtown Road, Churchtown",Dublin,495000.0,No,Churchtown,Dublin 14,q3,60%
+26/05/2011,"37 Braemor Park, Churchtown, Dublin 14",Dublin,470000.0,No,Churchtown,Dublin 14,q2,50%
+27/05/2011,"21 Upper Churchtown Road, Churchtown",Dublin,412000.0,No,Churchtown,Dublin 14,q2,40%
+31/05/2011,"106 Lr. Churchtown Rd., Churchtown",Dublin,505000.0,No,Churchtown,Dublin 14,q3,60%
+31/05/2011,"16 Upper Churchtown Road, Churchtown",Dublin,370000.0,No,Churchtown,Dublin 14,q2,30%
+03/06/2011,"82 Mountainview Park, Churchtown, Dublin 14",Dublin,210000.0,No,Churchtown,Dublin 14,q1,10%
+10/06/2011,"70 Meadow Grove, Churchtown",Dublin,305000.0,No,Churchtown,Dublin 14,q1,20%
+08/07/2011,"6 Weston Avenue, Churchtown",Dublin,315000.0,No,Churchtown,Dublin 14,q1,20%
+15/07/2011,"12 Oakdown Road, Churchtown, Dublin 14",Dublin,380000.0,No,Churchtown,Dublin 14,q2,30%
+18/07/2011,"65 Meadow Grove, Churchtown, Dublin 16",Dublin,410000.0,No,Churchtown,Dublin 14,q2,40%
+27/07/2011,"15 Barton Road East, Churchtown, Dublin 15",Dublin,525000.0,No,Churchtown,Dublin 14,q3,70%
+29/07/2011,"47 Whitehall Road, Churchtown, Dublin 14",Dublin,275000.0,No,Churchtown,Dublin 14,q1,20%
+11/08/2011,"15 Nugent Road, Churchtown, Dublin 14",Dublin,369000.0,No,Churchtown,Dublin 14,q1,30%
+22/08/2011,"33 Landscape Cresent, Churchtown, Dublin 14",Dublin,434600.0,No,Churchtown,Dublin 14,q2,50%
+30/08/2011,"12 Braemor Grove, Churchtown",Dublin,280000.0,No,Churchtown,Dublin 14,q1,20%
+30/08/2011,"7 Woodlawn Grove, Lower Churchtown Road, Churchtown",Dublin,240000.0,No,Churchtown,Dublin 14,q1,10%
+31/08/2011,"8 Churchtown Avenue, Churchtown",Dublin,320000.0,No,Churchtown,Dublin 14,q1,20%
+01/09/2011,"1 Castle Ave, Upper Churchtown Road, Dublin 14",Dublin,1155000.0,No,Churchtown,Dublin 14,q4,100%
+02/09/2011,"10 Oakdown Road, Churchtown, Dublin 14",Dublin,340000.0,No,Churchtown,Dublin 14,q1,30%
+16/09/2011,"61 Braemor Road, Churchtown",Dublin,375000.0,No,Churchtown,Dublin 14,q2,30%
+30/09/2011,"62A Meadowmount, Churchtown",Dublin,236000.0,No,Churchtown,Dublin 14,q1,10%
+03/10/2011,"19, Lower Churchtown Road",Dublin,443000.0,No,Churchtown,Dublin 14,q2,50%
+07/10/2011,"37 Landscape Avenue, Churchtown, Dublin 14",Dublin,435000.0,No,Churchtown,Dublin 14,q2,50%
+26/10/2011,"93 Braemor Road, Churchtown",Dublin,325000.0,No,Churchtown,Dublin 14,q1,20%
+15/11/2011,"10 Upper Churchtown, Road, Dublin 16",Dublin,1125000.0,No,Churchtown,Dublin 14,q4,100%
+15/11/2011,"6 Berwick Hall, Whitehall Road, Churchtown",Dublin,224000.0,No,Churchtown,Dublin 14,q1,10%
+17/11/2011,"43A Lower Churchtown Road, Churchtown, Dublin 14",Dublin,437500.0,No,Churchtown,Dublin 14,q2,50%
+18/11/2011,"12 Headford Grove, Churchtown",Dublin,315010.0,No,Churchtown,Dublin 14,q1,20%
+21/11/2011,"46 Landscape Park, Churchtown",Dublin,313500.0,No,Churchtown,Dublin 14,q1,20%
+22/11/2011,"4 Braemor Avenue, Churchtown, Dublin 6",Dublin,270000.0,No,Churchtown,Dublin 14,q1,20%
+24/11/2011,"78 Meadow Park, Churchtown, Dublin 14",Dublin,200000.0,No,Churchtown,Dublin 14,q1,10%
+28/11/2011,"108 Braemor Road, Churchtown",Dublin,310000.0,No,Churchtown,Dublin 14,q1,20%
+08/12/2011,"7 Beaumont Close, Churchtown",Dublin,325000.0,No,Churchtown,Dublin 14,q1,20%
+12/12/2011,"50 Braemor Road, Churchtown",Dublin,435000.0,No,Churchtown,Dublin 14,q2,50%
+22/12/2011,"121 Braemor Road, Churchtown, Dublin 14",Dublin,515000.0,No,Churchtown,Dublin 14,q3,70%
+22/12/2011,"28 Finsbury Park, Churchtown, Dublin 14",Dublin,470000.0,No,Churchtown,Dublin 14,q2,50%
+22/12/2011,"29 Whitebarn Road, Churchtown",Dublin,325000.0,No,Churchtown,Dublin 14,q1,20%
+22/12/2011,"31 Nugent Road, Churchtown, Dublin 14",Dublin,290000.0,No,Churchtown,Dublin 14,q1,20%
+12/01/2012,"99 Braemor Road, Churchtown",Dublin,320000.0,No,Churchtown,Dublin 14,q1,20%
+26/01/2012,"33 Braemor Road, Churchtown",Dublin,250000.0,No,Churchtown,Dublin 14,q1,10%
+16/02/2012,"7 Woodlawn Park, Churchtown",Dublin,420000.0,No,Churchtown,Dublin 14,q2,40%
+20/02/2012,"33 Weston Park, Churchtown",Dublin,315000.0,No,Churchtown,Dublin 14,q1,20%
+22/02/2012,"77 Landscape Park, Churchtown",Dublin,301500.0,No,Churchtown,Dublin 14,q1,20%
+27/02/2012,"84 Meadow Park, Churchtown, Dublin 14",Dublin,195000.0,No,Churchtown,Dublin 14,q1,10%
+08/03/2012,"38 Weston Road, Churchtown",Dublin,390000.0,No,Churchtown,Dublin 14,q2,30%
+16/03/2012,"10 Upper Churchtown Road, Churchtown",Dublin,760000.0,No,Churchtown,Dublin 14,q4,100%
+27/03/2012,"14 Weston Park, Churchtown",Dublin,360000.0,No,Churchtown,Dublin 14,q1,30%
+05/04/2012,"13 Milltown Drive, Churchtown",Dublin,300000.0,No,Churchtown,Dublin 14,q1,20%
+12/04/2012,"90  Meadow Park, Churchtown",Dublin,200000.0,No,Churchtown,Dublin 14,q1,10%
+19/04/2012,"41 Whitebarn Road, Churchtown",Dublin,286500.0,No,Churchtown,Dublin 14,q1,20%
+21/04/2012,"43 Braemor Road, Churchtown",Dublin,340000.0,No,Churchtown,Dublin 14,q1,30%
+25/04/2012,"43 Henley Park, Churchtown, Dublin 14",Dublin,375000.0,No,Churchtown,Dublin 14,q2,30%
+27/04/2012,"1 Orwell Court, Braemor Road, Churchtown",Dublin,190000.0,No,Churchtown,Dublin 14,q1,10%
+30/04/2012,"8 Weston Park, Churchtown",Dublin,321000.0,No,Churchtown,Dublin 14,q1,20%
+07/05/2012,"4 Castle Avenue, Upr Churchtown Road, Dubliln 14",Dublin,704846.0,Yes,Churchtown,Dublin 14,q4,90%
+09/05/2012,"3  Castle Avenue, Upper Churchtown Road, Churchtown",Dublin,824670.0,Yes,Churchtown,Dublin 14,q4,100%
+16/05/2012,"16 Whitebarn Road, Churchtown, Dublin 14",Dublin,250000.0,No,Churchtown,Dublin 14,q1,10%
+24/05/2012,"3 Churchtown Drive, Churchtown",Dublin,530000.0,No,Churchtown,Dublin 14,q3,70%
+01/06/2012,"126 Meadow Park, Churchtown, Dublin",Dublin,260000.0,No,Churchtown,Dublin 14,q1,10%
+01/06/2012,"4 Landscape Crescent, Churchtown, Dublin 14",Dublin,120000.0,No,Churchtown,Dublin 14,q1,10%
+08/06/2012,"122 Braemor Road, Churchtown",Dublin,305000.0,No,Churchtown,Dublin 14,q1,20%
+14/06/2012,"27 Whitebarn Road, Churchtown",Dublin,379000.0,No,Churchtown,Dublin 14,q2,30%
+15/06/2012,"75 Landscape Park, Churchtown",Dublin,340000.0,No,Churchtown,Dublin 14,q1,30%
+20/06/2012,"Slemish, 20 Woodside Drive, Churchtown",Dublin,940000.0,No,Churchtown,Dublin 14,q4,100%
+21/06/2012,"16 Orwell Court, Braemor Road, Churchtown",Dublin,222000.0,No,Churchtown,Dublin 14,q1,10%
+22/06/2012,"19 Nugent Road, Churchtown, Dublin 14",Dublin,300000.0,No,Churchtown,Dublin 14,q1,20%
+29/06/2012,"147A Braemor Road, Churchtown",Dublin,515000.0,No,Churchtown,Dublin 14,q3,70%
+06/07/2012,"13 Finsbury Green, Churchtown",Dublin,237500.0,No,Churchtown,Dublin 14,q1,10%
+06/07/2012,"47 Woodlawn Park, Churchtown, Dublin 14",Dublin,655000.0,No,Churchtown,Dublin 14,q4,90%
+25/07/2012,"8 Whitebarn Road, Churchtown",Dublin,300000.0,No,Churchtown,Dublin 14,q1,20%
+27/07/2012,"2A Braemor Avenue, Churchtown, Dublin 14",Dublin,351211.0,Yes,Churchtown,Dublin 14,q1,30%
+30/07/2012,"12 Milltown Grove, Churchtown, Dublin 14",Dublin,450000.0,No,Churchtown,Dublin 14,q2,50%
+14/08/2012,"14 Charleville, Churchtown, Dublin 14",Dublin,575000.0,No,Churchtown,Dublin 14,q3,80%
+27/08/2012,"9 Orwell Court, Braemor Road, Churchtown",Dublin,193000.0,No,Churchtown,Dublin 14,q1,10%
+28/08/2012,"102 Landscape Road, Churchtown, Dublin 14",Dublin,456000.0,No,Churchtown,Dublin 14,q2,50%
+05/09/2012,"8  Beaumont Avenue, Churchtown, Dublin 14",Dublin,430000.0,No,Churchtown,Dublin 14,q2,40%
+07/09/2012,"3 Meadow Close, Churchtown, Dublin 14",Dublin,405000.0,No,Churchtown,Dublin 14,q2,40%
+10/09/2012,"42 Camberly Oaks, Churchtown",Dublin,235000.0,No,Churchtown,Dublin 14,q1,10%
+14/09/2012,"22 Landscape Avenue, Churchtown",Dublin,420000.0,No,Churchtown,Dublin 14,q2,40%
+14/09/2012,"40 Landscape Park, Churchtown",Dublin,368000.0,No,Churchtown,Dublin 14,q1,30%
+19/09/2012,"57 Upper Churchtown Road, Churchtown",Dublin,410000.0,No,Churchtown,Dublin 14,q2,40%
+20/09/2012,"33 Braemor Avenue, Churchtown, Dublin 14",Dublin,277500.0,No,Churchtown,Dublin 14,q1,20%
+05/10/2012,"2 Castle Avenue, Upper Churchtown Road, Dublin 14",Dublin,1090000.0,No,Churchtown,Dublin 14,q4,100%
+10/10/2012,"23 Whitebarn Road, Churchtown",Dublin,375000.0,No,Churchtown,Dublin 14,q2,30%
+11/10/2012,"133 Lower Churchtown Road, Churchtown, Dublin 14",Dublin,430000.0,No,Churchtown,Dublin 14,q2,40%
+18/10/2012,"22 Weston Road, Churchtown",Dublin,512000.0,No,Churchtown,Dublin 14,q3,60%
+31/10/2012,"2 Airfield Drive, Churchtown, Dublin 14",Dublin,260000.0,No,Churchtown,Dublin 14,q1,10%
+01/11/2012,"20 Berwick Hall, Churchtown, Dublin 14",Dublin,241000.0,No,Churchtown,Dublin 14,q1,10%
+23/11/2012,"1 Landscape Crescent, Churchtown",Dublin,405000.0,No,Churchtown,Dublin 14,q2,40%
+28/11/2012,"2 Briarly Court, Churchtown, Dublin 14",Dublin,495000.0,No,Churchtown,Dublin 14,q3,60%
+07/12/2012,"23 Woodlawn Park, Churchtown",Dublin,600000.0,No,Churchtown,Dublin 14,q4,80%
+10/12/2012,"45 Mountain View Drive, Churchtown",Dublin,246000.0,No,Churchtown,Dublin 14,q1,10%
+11/12/2012,"14 Meadow Park, Churchtown",Dublin,269000.0,No,Churchtown,Dublin 14,q1,20%
+11/12/2012,"4 Annadale, Churchtown",Dublin,170000.0,No,Churchtown,Dublin 14,q1,10%
+12/12/2012,"'Bon Accord', 49 Beaumont Avenue, Churchtown",Dublin,190114.0,No,Churchtown,Dublin 14,q1,10%
+12/12/2012,"6 Weston Park, Churchtown, Dublin 14",Dublin,473000.0,No,Churchtown,Dublin 14,q3,60%
+14/12/2012,"4 Briarly Court, Churchtown",Dublin,530000.0,No,Churchtown,Dublin 14,q3,70%
+14/12/2012,"48 Braemor Road, Churchtown",Dublin,472000.0,No,Churchtown,Dublin 14,q2,50%
+14/12/2012,"5 Castle Avenue, Upper Churchtown Road, Curchtown",Dublin,616740.09,Yes,Churchtown,Dublin 14,q4,80%
+19/12/2012,"11 Newtown Grove, Braemor Road, Churchtown",Dublin,225000.0,No,Churchtown,Dublin 14,q1,10%
+20/12/2012,"1 Airfield Drive, Churchtown, Dublin 14",Dublin,265000.0,No,Churchtown,Dublin 14,q1,10%
+22/01/2013,"6 Weston Road, Churchtown",Dublin,385000.0,No,Churchtown,Dublin 14,q2,30%
+31/01/2013,"29 Braemor Park, Churchtown",Dublin,818000.0,No,Churchtown,Dublin 14,q4,100%
+08/02/2013,"24 Landscape Gardens, Churchtown",Dublin,450000.0,No,Churchtown,Dublin 14,q2,50%
+13/02/2013,"118A Meadow Park, Churchtown",Dublin,280000.0,No,Churchtown,Dublin 14,q1,20%
+06/03/2013,"43 Woodlawn Park, Churchtown",Dublin,465000.0,No,Churchtown,Dublin 14,q2,50%
+08/03/2013,"23 Braemor Avenue, Churchtown, Dublin 14",Dublin,375000.0,No,Churchtown,Dublin 14,q2,30%
+11/03/2013,"9 The Oaks, Upper Churchtown Road",Dublin,610000.0,No,Churchtown,Dublin 14,q4,80%
+13/03/2013,"84 Meadow Park, Churchtown, Dublin 14",Dublin,335000.0,No,Churchtown,Dublin 14,q1,30%
+21/03/2013,"305 Nutgrove Avenue, Churchtown",Dublin,254000.0,No,Churchtown,Dublin 14,q1,10%
+25/03/2013,"72 Meadow Mount, Churchtown",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+25/03/2013,"98 Braemor Road, Churchtown, Dublin 14",Dublin,451000.0,No,Churchtown,Dublin 14,q2,50%
+28/03/2013,"135 Lower Churchtown Road, Churchtown, Dublin 14",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+04/04/2013,"10 Berwick Hall, Churchtown",Dublin,318000.0,No,Churchtown,Dublin 14,q1,20%
+11/04/2013,"14 Churchtown Drive, Churchtown, Dublin 14",Dublin,575000.0,No,Churchtown,Dublin 14,q3,80%
+19/04/2013,"97 Lower Churchtown Road, Churchtown",Dublin,500000.0,No,Churchtown,Dublin 14,q3,60%
+22/04/2013,"9 Upper Churchtown Road, Churchtown",Dublin,535000.0,No,Churchtown,Dublin 14,q3,70%
+23/04/2013,"1-9 Landscape Court, Churchtown",Dublin,1277533.0,Yes,Churchtown,Dublin 14,q4,100%
+25/04/2013,"17 Henley Park, Churchtown",Dublin,510000.0,No,Churchtown,Dublin 14,q3,60%
+22/05/2013,"80 Braemor Road, Churchtown, Dublin 14",Dublin,708000.0,No,Churchtown,Dublin 14,q4,90%
+06/06/2013,"30 Whitehall Road, Churchtown, Dublin 14",Dublin,570000.0,No,Churchtown,Dublin 14,q3,80%
+07/06/2013,"4 Carrickmount Drive, Churchtown",Dublin,200000.0,No,Churchtown,Dublin 14,q1,10%
+10/06/2013,"Churchtown Park House, Churchtown Road Upper, Dublin 13",Dublin,730000.0,No,Churchtown,Dublin 14,q4,90%
+10/06/2013,"Hall Flat  Churchtown Park House, Dublin 14, Dublin",Dublin,50000.0,No,Churchtown,Dublin 14,q1,10%
+11/06/2013,"45 Beaumont Ave, Churchtown, Dublin 14",Dublin,300000.0,No,Churchtown,Dublin 14,q1,20%
+12/06/2013,"43 Landscape Park, Churchtown",Dublin,405000.0,No,Churchtown,Dublin 14,q2,40%
+14/06/2013,"1 Castle Court, Whitehall Road, Churchtown",Dublin,300000.0,No,Churchtown,Dublin 14,q1,20%
+14/06/2013,"37 Carrickmount Drive, Churchtown",Dublin,255000.0,No,Churchtown,Dublin 14,q1,10%
+24/06/2013,"62 Weston Road, Churchtown",Dublin,445000.0,No,Churchtown,Dublin 14,q2,50%
+26/06/2013,"28 Woodlawn Park, Churchtown, Dublin",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+04/07/2013,"92 Beaumont Avenue, Churchtown",Dublin,357500.0,No,Churchtown,Dublin 14,q1,30%
+10/07/2013,"32 Whitehall Road, Churchtown",Dublin,225000.0,No,Churchtown,Dublin 14,q1,10%
+11/07/2013,"91 Landscape Park, Churchtown",Dublin,425000.0,No,Churchtown,Dublin 14,q2,40%
+15/07/2013,"35 Braemor, Churchtown",Dublin,495000.0,No,Churchtown,Dublin 14,q3,60%
+17/07/2013,"3  Woodside Grove, Churchtown, Dublin",Dublin,582000.0,No,Churchtown,Dublin 14,q4,80%
+19/07/2013,"13 Glenbower Park, Churchtown",Dublin,600000.0,No,Churchtown,Dublin 14,q4,80%
+19/07/2013,"14A Lower Churchtown Rd, Milltown",Dublin,765000.0,No,Churchtown,Dublin 14,q4,100%
+24/07/2013,"3 Oakdown Road, Churchtown",Dublin,435000.0,No,Churchtown,Dublin 14,q2,50%
+31/07/2013,"15 Lower Churchtown Road, Churchtown, Dublin 14",Dublin,635000.0,No,Churchtown,Dublin 14,q4,90%
+31/07/2013,"Acorn Lodge, 80 Lower Churchtown Road, Churchtown",Dublin,1100000.0,No,Churchtown,Dublin 14,q4,100%
+08/08/2013,"12 Landscape Gdns, Churchtown, Dublin 14",Dublin,453000.0,No,Churchtown,Dublin 14,q2,50%
+09/08/2013,"17 Landscape Crescent, Churchtown, Dublin 14",Dublin,432500.0,No,Churchtown,Dublin 14,q2,50%
+09/08/2013,"57 Upper Churchtown Road, Churchtown, Dublin 14",Dublin,487000.0,No,Churchtown,Dublin 14,q3,60%
+12/08/2013,"26 Weston Park, Churchtown, Dublin 14",Dublin,440000.0,No,Churchtown,Dublin 14,q2,50%
+16/08/2013,"42 Beaumont Drive, Churchtown",Dublin,360000.0,No,Churchtown,Dublin 14,q1,30%
+19/08/2013,"4 Churchtown Close, Milltown",Dublin,640000.0,No,Churchtown,Dublin 14,q4,90%
+20/08/2013,"57 Meadowmount, Churchtown",Dublin,431600.0,No,Churchtown,Dublin 14,q2,40%
+29/08/2013,"63  Braemor Road, Churchtown, Dublin 14",Dublin,475000.0,No,Churchtown,Dublin 14,q3,60%
+30/08/2013,"62B Lower Churchtown Road, Churchtown, Dublin 14",Dublin,400000.0,No,Churchtown,Dublin 14,q2,40%
+18/09/2013,"55 Braemor Road, Churchtown, Dublin 14",Dublin,525000.0,No,Churchtown,Dublin 14,q3,70%
+25/09/2013,"127 Lower Churchtown Road, Churchtown",Dublin,456000.0,No,Churchtown,Dublin 14,q2,50%
+30/09/2013,"34 Western Road, Churchtown",Dublin,426000.0,No,Churchtown,Dublin 14,q2,40%
+01/10/2013,"55 Beaumont Avenue, Churchtown",Dublin,287000.0,No,Churchtown,Dublin 14,q1,20%
+24/10/2013,"157 Orwell Rd, Churchtown, Dublin 14",Dublin,552000.0,No,Churchtown,Dublin 14,q3,70%
+25/10/2013,"10 Nugent Road, Churchtown, Dublin 14",Dublin,385000.0,No,Churchtown,Dublin 14,q2,30%
+31/10/2013,"22 Braemore Avenue, Churchtown",Dublin,415000.0,No,Churchtown,Dublin 14,q2,40%
+08/11/2013,"68 Woodlawn Park, Churchtown, Dublin 14",Dublin,1020000.0,No,Churchtown,Dublin 14,q4,100%
+15/11/2013,"4 Braemor Ave, Churchtown, Dublin 14",Dublin,480000.0,No,Churchtown,Dublin 14,q3,60%
+22/11/2013,"44 Lower Churchtown Rd, Dublin 14",Dublin,555000.0,No,Churchtown,Dublin 14,q3,70%
+25/11/2013,"7 Braemor Park, Churchtown",Dublin,820000.0,No,Churchtown,Dublin 14,q4,100%
+26/11/2013,"16 Berwick Hall, Churchtown, Dublin 14",Dublin,280000.0,No,Churchtown,Dublin 14,q1,20%
+26/11/2013,"8 Briarly Court, Churchtown",Dublin,510000.0,No,Churchtown,Dublin 14,q3,60%
+02/12/2013,"Capistrano, 35 Hillside Dr, Churchtown Dublin 14",Dublin,480000.0,No,Churchtown,Dublin 14,q3,60%
+03/12/2013,"74 Lower Churchtown Road, Dublin 14",Dublin,561000.0,No,Churchtown,Dublin 14,q3,80%
+06/12/2013,"74 Weston Rd, Churchtown, Dublin 14",Dublin,495000.0,No,Churchtown,Dublin 14,q3,60%
+13/12/2013,"14 Braemor Grove, Churchtown, Dublin 14",Dublin,376000.0,No,Churchtown,Dublin 14,q2,30%
+16/12/2013,"450 Nutgrove Ave, Churchtown, Dublin 14",Dublin,335000.0,No,Churchtown,Dublin 14,q1,30%
+16/12/2013,"5 Weston Ave, Churchtown, Dublin 14",Dublin,455000.0,No,Churchtown,Dublin 14,q2,50%
+18/12/2013,"66 Churchtown Rd Lower, Dublin 14, Dublin",Dublin,490000.0,No,Churchtown,Dublin 14,q3,60%
+19/12/2013,"15 Milltown Dr, Churchtown, Dublin 14",Dublin,485000.0,No,Churchtown,Dublin 14,q3,60%
+20/12/2013,"1A Weston Terrace, Churchtown, Dublin 14",Dublin,370000.0,No,Churchtown,Dublin 14,q2,30%
+20/12/2013,"2 Flemingstown Park, Churchtown, Dublin 14",Dublin,535000.0,No,Churchtown,Dublin 14,q3,70%
+30/12/2013,"81 Mountainview Park, Churchtown, Dublin 14",Dublin,225000.0,No,Churchtown,Dublin 14,q1,10%
+30/12/2013,"9 Charleville, Churchtown Rd Lower, Churchtown",Dublin,660000.0,No,Churchtown,Dublin 14,q4,90%
+16/01/2014,"85 Carrickmount Avenue, Churchtown, Dublin 14",Dublin,58675.0,No,Churchtown,Dublin 14,q1,10%
+17/01/2014,"122 Meadow Mount, Churchtown, Dublin 16",Dublin,511000.0,No,Churchtown,Dublin 14,q3,60%
+17/01/2014,"33 Henley Park, Churchtown",Dublin,488000.0,No,Churchtown,Dublin 14,q3,60%
+27/01/2014,"56 Braemor Rd, Churchtown, Dublin 14",Dublin,685000.0,No,Churchtown,Dublin 14,q4,90%
+28/01/2014,"59 Landscape Park, Churchtown, Dublin 14",Dublin,423000.0,No,Churchtown,Dublin 14,q2,40%
+04/02/2014,"22 Meadow Park, Churchtown, Dublin 14",Dublin,426000.0,No,Churchtown,Dublin 14,q2,40%
+05/02/2014,"346 Nutgrove Ave, Churchtown, Dublin 14",Dublin,215000.0,No,Churchtown,Dublin 14,q1,10%
+12/02/2014,"6 Weston Terrace, Churchtown, Dublin 14",Dublin,399990.0,No,Churchtown,Dublin 14,q2,40%
+12/03/2014,"55 Landscape Park, Churchtown, Dublin 14",Dublin,540000.0,No,Churchtown,Dublin 14,q3,70%
+13/03/2014,"1A Churchtown Rd Upper, Dublin 14, Dublin",Dublin,630000.0,No,Churchtown,Dublin 14,q4,90%
+21/03/2014,"40 Weston Rd, Churchtown, Dublin 14",Dublin,447500.0,No,Churchtown,Dublin 14,q2,50%
+21/03/2014,"8 Woodlawn Grove, Churchtown Rd Lower, Dublin 14",Dublin,335000.0,No,Churchtown,Dublin 14,q1,30%
+09/04/2014,"4 Camberley Elms, Churchtown, Dublin 14",Dublin,342000.0,No,Churchtown,Dublin 14,q1,30%
+15/04/2014,"24 Landscape Park, Churchtown, Dublin 14",Dublin,460000.0,No,Churchtown,Dublin 14,q2,50%
+16/04/2014,"46 Landscape Ave, Churchtown, Dublin 14",Dublin,540000.0,No,Churchtown,Dublin 14,q3,70%
+24/04/2014,"Apartment 1, 119 Braemor Road, Churchtown",Dublin,115000.0,No,Churchtown,Dublin 14,q1,10%
+29/04/2014,"Braddan, Churchtown Rd Upper, Dublin 14",Dublin,845000.0,No,Churchtown,Dublin 14,q4,100%
+01/05/2014,"9 Braemor Dr, Churchtown, Dublin 14",Dublin,425000.0,No,Churchtown,Dublin 14,q2,40%
+02/05/2014,"26 Camberley Oaks, Churchtown, Dublin 14",Dublin,430000.0,No,Churchtown,Dublin 14,q2,40%
+13/05/2014,"10 Camberley Elms, Churchtown Rd Upper, Dublin 14",Dublin,355000.0,No,Churchtown,Dublin 14,q1,30%
+23/05/2014,"10 Weston Rd, Churchtown, Dublin 14",Dublin,485000.0,No,Churchtown,Dublin 14,q3,60%
+28/05/2014,"19 Whitebarn Rd, Churchtown, Dublin 14",Dublin,460000.0,No,Churchtown,Dublin 14,q2,50%
+29/05/2014,"7 Crannagh Hall, Landscape Rd, Churchtown Dublin 14",Dublin,198000.0,No,Churchtown,Dublin 14,q1,10%
+06/06/2014,"3 Orwell Court, Braemor Rd, Churchtown Dublin 14",Dublin,330000.0,No,Churchtown,Dublin 14,q1,20%
+06/06/2014,"62 Whitebarn Rd, Churchtown, Dublin 14",Dublin,435000.0,No,Churchtown,Dublin 14,q2,50%
+11/06/2014,"57 Carrickmount Ave, Churchtown, Dublin 14",Dublin,265000.0,No,Churchtown,Dublin 14,q1,10%
+16/06/2014,"18 Flemingstown Park, Churchtown, Dublin 14",Dublin,595000.0,No,Churchtown,Dublin 14,q4,80%
+19/06/2014,"46 Lower Churchtown Rd, Churchtown, Dublin 14",Dublin,680000.0,No,Churchtown,Dublin 14,q4,90%
+19/06/2014,"6 Newtown Grove, Braemor Rd, Churchtown Dublin 14",Dublin,375000.0,No,Churchtown,Dublin 14,q2,30%
+19/06/2014,"71 Weston Rd, Churchtown, Dublin 14",Dublin,535000.0,No,Churchtown,Dublin 14,q3,70%
+23/06/2014,"36 Camberley Oaks, Churchtown, Dublin 6",Dublin,415000.0,No,Churchtown,Dublin 14,q2,40%
+27/06/2014,"131 Braemor Rd, Churchtown, Dublin 14",Dublin,555000.0,No,Churchtown,Dublin 14,q3,70%
+27/06/2014,"30 Braemor Rd, Churchtown, Dublin 14",Dublin,575000.0,No,Churchtown,Dublin 14,q3,80%
+27/06/2014,"7 Laurel Ave, Churchtown, Dublin 14",Dublin,468000.0,No,Churchtown,Dublin 14,q2,50%
+30/06/2014,"5 Upper Churchtown Rd, Dublin 14, Dublin",Dublin,750000.0,No,Churchtown,Dublin 14,q4,90%
+03/07/2014,"1 Synge Court, Newtown Villas, Churchtown Dublin 14",Dublin,515000.0,No,Churchtown,Dublin 14,q3,70%
+03/07/2014,"34 Orwell Gardens, Churchtown, Dublin 14",Dublin,460000.0,No,Churchtown,Dublin 14,q2,50%
+04/07/2014,"76 Landscape Park, Churchtown, Dublin 14",Dublin,508000.0,No,Churchtown,Dublin 14,q3,60%
+07/07/2014,"60 Orwell Gardens, Churchtown, Dublin 14",Dublin,346200.0,No,Churchtown,Dublin 14,q1,30%
+11/07/2014,"41 Carrickmount Dr, Churchtown, Dublin 14",Dublin,315000.0,No,Churchtown,Dublin 14,q1,20%
+16/07/2014,"19 The Oaks, Churchtown",Dublin,805000.0,No,Churchtown,Dublin 14,q4,100%
+18/07/2014,"10 Meadow View, Churchtown, Dublin 14",Dublin,425000.0,No,Churchtown,Dublin 14,q2,40%
+24/07/2014,"114 Landscape Park, Churchtown, Dublin 14",Dublin,758000.0,No,Churchtown,Dublin 14,q4,100%
+29/07/2014,"115 Churchtown Rd Lower, Churchtown, Dublin 14",Dublin,570000.0,No,Churchtown,Dublin 14,q3,80%
+18/08/2014,"61 Barton Rd East, Churchtown, Dublin 14",Dublin,445000.0,No,Churchtown,Dublin 14,q2,50%
+22/08/2014,"Huka Lodge, 100A Churchtown Rd Lower, Dublin 14",Dublin,1225000.0,No,Churchtown,Dublin 14,q4,100%
+26/08/2014,"9 Braemor Grove, Churchtown, Dublin 14",Dublin,465000.0,No,Churchtown,Dublin 14,q2,50%
+10/09/2014,"58 Weston Rd, Churchtown, Dublin 14",Dublin,675000.0,No,Churchtown,Dublin 14,q4,90%
+11/09/2014,"50 Nutgrove Avenue, Churchtown, Dublin 14",Dublin,366000.0,No,Churchtown,Dublin 14,q1,30%
+12/09/2014,"43 Weston Road, Churchtown",Dublin,330000.0,No,Churchtown,Dublin 14,q1,20%
+16/09/2014,"26 Braemor Ave, Churchtown, Dublin 14",Dublin,462000.0,No,Churchtown,Dublin 14,q2,50%
+25/09/2014,"25 Weston Park, Churchtown, Dublin 14",Dublin,535000.0,No,Churchtown,Dublin 14,q3,70%
+25/09/2014,"Liscannor, Beaumont Ave, Churchtown Dublin 14",Dublin,800000.0,No,Churchtown,Dublin 14,q4,100%
+29/09/2014,"1 Weston Ave Churchtown, Churchtown Dublin 14, Dublin",Dublin,590000.0,No,Churchtown,Dublin 14,q4,80%
+29/09/2014,"63 Churchtown Rd Upper, Dublin 14, Dublin",Dublin,530000.0,No,Churchtown,Dublin 14,q3,70%
+01/10/2014,"4 Henley Court, Henley Villas, Churchtown Dublin 14",Dublin,895000.0,No,Churchtown,Dublin 14,q4,100%
+02/10/2014,"17 Landscape Park, Churchtown, Dublin 14",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+08/10/2014,"11A Redwood Court, Churchtown, Dublin 14",Dublin,500000.0,No,Churchtown,Dublin 14,q3,60%
+08/10/2014,"16 Headford Grove, Churchtown, Dublin 14",Dublin,472000.0,No,Churchtown,Dublin 14,q2,50%
+13/10/2014,"39 Carrickmount Dr, Churchtown, Dublin 14",Dublin,363000.0,No,Churchtown,Dublin 14,q1,30%
+17/10/2014,"70 Meadow Grove, Churchtown, Dublin 16",Dublin,550000.0,No,Churchtown,Dublin 14,q3,70%
+24/10/2014,"13 Weston Park, Churchtown",Dublin,565000.0,No,Churchtown,Dublin 14,q3,80%
+29/10/2014,"37 Meadow Mount, Churchtown, Dublin 16",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+30/10/2014,"6 Woodlawn Grove, Churchtown, Dublin 14",Dublin,357500.0,No,Churchtown,Dublin 14,q1,30%
+17/11/2014,"61 Upper Churchtown Rd, Churchtown, Dublin 14",Dublin,525000.0,No,Churchtown,Dublin 14,q3,70%
+26/11/2014,"8 Orwell Court, Braemor Rd, Churchtown Dublin 14",Dublin,305000.0,No,Churchtown,Dublin 14,q1,20%
+02/12/2014,"47 Weston Park, Churchtown, Dublin 14",Dublin,580000.0,No,Churchtown,Dublin 14,q3,80%
+04/12/2014,"67 Landscape Park, Churchtown, Dublin 14",Dublin,375000.0,No,Churchtown,Dublin 14,q2,30%
+04/12/2014,"Grange House, 60 Beaumount Avenue, Churchtown",Dublin,555000.0,No,Churchtown,Dublin 14,q3,70%
+05/12/2014,"404 Nutgrove Avenue, Churchtown, Dublin 14",Dublin,336000.0,No,Churchtown,Dublin 14,q1,30%
+10/12/2014,"58 Beaumont Ave, Churchtown, Dublin 14",Dublin,450000.0,No,Churchtown,Dublin 14,q2,50%
+12/12/2014,"51 Whitehall Rd, Churchtown, Dublin 14",Dublin,440000.0,No,Churchtown,Dublin 14,q2,50%
+18/12/2014,"146 Lr Churchtown Rd, Fairfield, Dublin 14",Dublin,637500.0,No,Churchtown,Dublin 14,q4,90%
+19/12/2014,"3 Lower Churchtown Road, Milltown, Dublin 6",Dublin,925000.0,No,Churchtown,Dublin 14,q4,100%
+22/12/2014,"29 Weston Rd, Churchtown, Dublin 14",Dublin,265000.0,No,Churchtown,Dublin 14,q1,20%
+22/12/2014,"4 Braemor Grove, Churchtown",Dublin,444258.0,No,Churchtown,Dublin 14,q2,50%
+22/12/2014,"70 Landscape Park, Churchtown, Dublin 14",Dublin,485000.0,No,Churchtown,Dublin 14,q3,60%
+30/12/2014,"76 Meadowmount, Churchtown, Dublin 16",Dublin,345000.0,No,Churchtown,Dublin 14,q1,30%
+07/01/2015,"21 Oakdown Road, Churchtown",Dublin,505000.0,No,Churchtown,Dublin 14,q3,60%
+09/01/2015,"20 Henley Villas, Churchtown, Dublin 14",Dublin,490000.0,No,Churchtown,Dublin 14,q3,60%
+13/01/2015,"14A Weston Grove, Churchtown, Dublin 14",Dublin,511013.0,No,Churchtown,Dublin 14,q3,60%
+16/01/2015,"30 Weston Rd, Churchtown, Dublin 14",Dublin,535000.0,No,Churchtown,Dublin 14,q3,70%
+19/01/2015,"1 Redwood Court, Braemor Rd, Churchtown Dublin 14",Dublin,766500.0,No,Churchtown,Dublin 14,q4,100%
+30/01/2015,"82 Meadow Park, Churchtown, Dublin 14",Dublin,398000.0,No,Churchtown,Dublin 14,q2,40%
+04/02/2015,"100A Landscape Park, Churchtown, Dublin 14",Dublin,540000.0,No,Churchtown,Dublin 14,q3,70%
+05/02/2015,"356 Nutgrove Ave, Churchtown, Dublin 14",Dublin,347000.0,No,Churchtown,Dublin 14,q1,30%
+10/02/2015,"71 Meadow Grove, Churchtown, Dublin 16",Dublin,570000.0,No,Churchtown,Dublin 14,q3,80%
+18/02/2015,"29 Meadow Park Ave, Churchtown, Dublin 14",Dublin,380000.0,No,Churchtown,Dublin 14,q2,30%
+13/03/2015,"1 Landscape Gardens, Churchtown, Dublin 14",Dublin,670000.0,No,Churchtown,Dublin 14,q4,90%
+16/03/2015,"41 Landscape Gardens, Churchtown, Dublin 14",Dublin,780000.0,No,Churchtown,Dublin 14,q4,100%
+24/03/2015,"1  The Mews, Dodder Vale, Churchtown  Dulbin 14",Dublin,371950.0,Yes,Churchtown,Dublin 14,q2,30%
+25/03/2015,"17 Landscape Ave, Churchtown, Dublin",Dublin,580000.0,No,Churchtown,Dublin 14,q3,80%
+25/03/2015,"43 Meadow Park Ave, Churchtown, Dublin 14",Dublin,370000.0,No,Churchtown,Dublin 14,q2,30%
+30/03/2015,"10 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,270000.0,No,Churchtown,Dublin 14,q1,20%
+10/04/2015,"15 Whitebarn Rd, Churchtown, Dublin 14",Dublin,815000.0,No,Churchtown,Dublin 14,q4,100%
+22/04/2015,"38 Whitebarn Rd, Churchtown, Dublin 14",Dublin,403000.0,No,Churchtown,Dublin 14,q2,40%
+23/04/2015,"74 Braemor Rd, Churchtown, Dublin 14",Dublin,380000.0,No,Churchtown,Dublin 14,q2,30%
+06/05/2015,"56 Weston Rd, Churchtown, Dublin 14",Dublin,555000.0,No,Churchtown,Dublin 14,q3,70%
+06/05/2015,"7 Camberley Oaks, Churchtown, Dublin 14",Dublin,436000.0,No,Churchtown,Dublin 14,q2,50%
+08/05/2015,"Camberley House, 78 Upr Churchtown Road, Churchtown",Dublin,767500.0,No,Churchtown,Dublin 14,q4,100%
+11/05/2015,"46 Meadow Mount, Churchtown, Dublin 16",Dublin,240000.0,No,Churchtown,Dublin 14,q1,10%
+12/05/2015,"111 Barton Rd East, Churchtown, Dublin 14",Dublin,350000.0,No,Churchtown,Dublin 14,q1,30%
+18/05/2015,"39 Landscape Park, Churchtown, Dublin 14",Dublin,500000.0,No,Churchtown,Dublin 14,q3,60%
+25/05/2015,"25 Carrickmount Ave, Churchtown, Dublin 14",Dublin,315000.0,No,Churchtown,Dublin 14,q1,20%
+28/05/2015,"Henley Cottage, Upper Churchtown Rd, Churchtown Dublin 14",Dublin,525000.0,No,Churchtown,Dublin 14,q3,70%
+02/06/2015,"14 Weston Grove, Churchtown, Dublin 14",Dublin,555000.0,No,Churchtown,Dublin 14,q3,70%
+04/06/2015,"8 Meadow Park, Churchtown, Dublin 14",Dublin,418000.0,No,Churchtown,Dublin 14,q2,40%
+09/06/2015,"Churchtown House, Weston Park, Churchtown Dublin 14",Dublin,2300000.0,No,Churchtown,Dublin 14,q4,100%
+10/06/2015,"8 Berwick Hall, Whitehall Rd, Churchtown Dublin 14",Dublin,415000.0,No,Churchtown,Dublin 14,q2,40%
+19/06/2015,"4 Wellfield, Upper Churchtown Road, Dublin 14",Dublin,700440.0,Yes,Churchtown,Dublin 14,q4,90%
+26/06/2015,"1 Wellfield, Churchtown Road Upper, Churchtown",Dublin,687225.0,Yes,Churchtown,Dublin 14,q4,90%
+26/06/2015,"57 Mountain View Park, Churchtown, Dublin 14",Dublin,335000.0,No,Churchtown,Dublin 14,q1,30%
+29/06/2015,"11 Churchtown Ave, Lower Churchtown Rd, Dublin 4",Dublin,680000.0,No,Churchtown,Dublin 14,q4,90%
+29/06/2015,"2 The Mews, Doddervale, Churchtown",Dublin,422500.0,Yes,Churchtown,Dublin 14,q2,40%
+02/07/2015,"95 Beaumont Ave, Churchtown, Dublin 14",Dublin,550000.0,No,Churchtown,Dublin 14,q3,70%
+14/07/2015,"113 Braemor Rd, Churchtown, Dublin 14",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+17/07/2015,"11 Whitebarn Rd, Churchtown, Dublin 14",Dublin,530000.0,No,Churchtown,Dublin 14,q3,70%
+28/07/2015,"2 Castlecourt, Whitehall Road, Churchtown  Dublin 14",Dublin,393000.0,No,Churchtown,Dublin 14,q2,40%
+29/07/2015,"9 Flemingstown Park, Churchtown, Dublin 14",Dublin,820000.0,No,Churchtown,Dublin 14,q4,100%
+04/08/2015,"10 Landscape Avenue, Churchtown, Dublin 14",Dublin,560000.0,No,Churchtown,Dublin 14,q3,80%
+04/08/2015,"2 Wellfield, Churchtown",Dublin,691629.27,Yes,Churchtown,Dublin 14,q4,90%
+05/08/2015,"11 Mountain View Dr, Churchtown, Dublin 14",Dublin,367000.0,No,Churchtown,Dublin 14,q1,30%
+07/08/2015,"34 Landscape Gardens, Churchtown, Dublin 14",Dublin,750000.0,No,Churchtown,Dublin 14,q4,90%
+11/08/2015,"148 Meadow Mount, Churchtown, Dublin 16",Dublin,595000.0,No,Churchtown,Dublin 14,q4,80%
+13/08/2015,"113 Meadowmount, Churchtown, Dublin 16",Dublin,460000.0,No,Churchtown,Dublin 14,q2,50%
+14/08/2015,"9 Landscape Park, Churchtown Dublin 14, Dublin",Dublin,525000.0,No,Churchtown,Dublin 14,q3,70%
+19/08/2015,"144 Mountain View Park, Churchtown, Dublin 14",Dublin,325000.0,No,Churchtown,Dublin 14,q1,20%
+20/08/2015,"58 Woodlawn Park, Churchtown, Dublin 14",Dublin,660000.0,No,Churchtown,Dublin 14,q4,90%
+26/08/2015,"1 Camberley Elms, Upper Churchtown Road, Dublin 14",Dublin,360000.0,No,Churchtown,Dublin 14,q1,30%
+27/08/2015,"98A Landscape Park, Churchtown, Dublin",Dublin,515000.0,No,Churchtown,Dublin 14,q3,70%
+28/08/2015,"28 Camberley Oaks, Churchtown, Dublin 14",Dublin,477000.0,No,Churchtown,Dublin 14,q3,60%
+03/09/2015,"57 Orwell Gardens, Churchtown, Dublin 14",Dublin,410000.0,No,Churchtown,Dublin 14,q2,40%
+10/09/2015,"65 Braemor Road, Churchtown",Dublin,390000.0,No,Churchtown,Dublin 14,q2,30%
+25/09/2015,"32 Henley Park, Churchtown, Dublin 14",Dublin,660000.0,No,Churchtown,Dublin 14,q4,90%
+29/09/2015,"30 Landscape Gardens, Churchtown, Dublin 14",Dublin,505000.0,No,Churchtown,Dublin 14,q3,60%
+01/10/2015,"13 Berwick Hall, Churchtown, Dublin 14",Dublin,10158.0,No,Churchtown,Dublin 14,q1,10%
+02/10/2015,"275 Nutgrove Ave, Churchtown, Dublin 14",Dublin,369000.0,No,Churchtown,Dublin 14,q1,30%
+07/10/2015,"52 Mountain View Park, Churchtown, Dublin",Dublin,290500.0,No,Churchtown,Dublin 14,q1,20%
+08/10/2015,"31 Landscape Gardens, Churchtown, Dublin 14",Dublin,620501.0,No,Churchtown,Dublin 14,q4,80%
+09/10/2015,"2 Churchtown Ave, Churchtown, Dublin 14",Dublin,500000.0,No,Churchtown,Dublin 14,q3,60%
+12/10/2015,"17 Finsbury Green, Churchtown",Dublin,417000.0,No,Churchtown,Dublin 14,q2,40%
+23/10/2015,"133 Braemor Rd, Churchtown, Dublin 14",Dublin,515000.0,No,Churchtown,Dublin 14,q3,70%
+23/10/2015,"5 Wellfield, Upper Churchtown Road, Churchtown",Dublin,674009.0,Yes,Churchtown,Dublin 14,q4,90%
+23/10/2015,"85 Meadow Park, Churchtown, Dublin 14",Dublin,450000.0,No,Churchtown,Dublin 14,q2,50%
+26/10/2015,"3 Wellfield, Churchtown Road",Dublin,660792.96,Yes,Churchtown,Dublin 14,q4,90%
+28/10/2015,"3 Weston Grove, Churchtown, Dublin 14",Dublin,555000.0,No,Churchtown,Dublin 14,q3,70%
+14/11/2015,"3 Mount Albion Road, Churchtown",Dublin,472500.0,No,Churchtown,Dublin 14,q3,60%
+19/11/2015,"15 Meadowpark Avenue, Churchtown, Dublin 14",Dublin,360000.0,No,Churchtown,Dublin 14,q1,30%
+27/11/2015,"4 The Oaks, Upper Churchtown Rd, Dublin 14",Dublin,832000.0,No,Churchtown,Dublin 14,q4,100%
+01/12/2015,"235 Nutgrove Ave, Churchtown, Dublin 14",Dublin,450000.0,No,Churchtown,Dublin 14,q2,50%
+08/12/2015,"6 Wellfield, Churchtown Road",Dublin,678414.1,Yes,Churchtown,Dublin 14,q4,90%
+11/12/2015,"39 Lower Churchtown Rd, Churchtown, Dublin 14",Dublin,492500.0,No,Churchtown,Dublin 14,q3,60%
+15/12/2015,"16 Braemor Park, Churchtown, Dublin 14",Dublin,1410000.0,No,Churchtown,Dublin 14,q4,100%
+17/12/2015,"3 Meadow Grove, Churchtown, Dublin 14",Dublin,470000.0,No,Churchtown,Dublin 14,q2,50%
+17/12/2015,"69 Carrickmount Ave, Churchtown, Dublin 14",Dublin,307000.0,No,Churchtown,Dublin 14,q1,20%
+21/12/2015,"1 Annadale, Churchtown Road Upper, Dublin 14",Dublin,410000.0,No,Churchtown,Dublin 14,q2,40%
+21/12/2015,"42 Nugent Rd, Churchtown, Dublin 14",Dublin,425500.0,No,Churchtown,Dublin 14,q2,40%
+22/12/2015,"98 Landscape Pk, Churchtown, Dublin D14 X654",Dublin,522200.0,No,Churchtown,Dublin 14,q3,70%
+23/12/2015,"69 Upper Churchtown Rd, Churchtown, Dublin 14",Dublin,730000.0,No,Churchtown,Dublin 14,q4,90%
+04/01/2016,"2 Moyola Mews, Lower Churchtown Road, Dublin 14",Dublin,330000.0,No,Churchtown,Dublin 14,q1,20%
+09/01/2016,"88 Meadow Mount, Churchtown, Dublin",Dublin,455000.0,No,Churchtown,Dublin 14,q2,50%
+14/01/2016,"32 Landscape Gardens, Churchtown, Dublin 14",Dublin,635000.0,No,Churchtown,Dublin 14,q4,90%
+22/01/2016,"17 Weston Park, Churchtown, Dublin 14",Dublin,556000.0,No,Churchtown,Dublin 14,q3,70%
+27/01/2016,"370 Nutgrove Ave, Churchtown, Dublin 14",Dublin,400000.0,No,Churchtown,Dublin 14,q2,40%
+02/02/2016,"13 Meadow Park, Churchtown, Dublin 14",Dublin,513000.0,No,Churchtown,Dublin 14,q3,70%
+09/02/2016,"40 Beaumont Ave, Churchtown, Dublin 14",Dublin,433500.0,No,Churchtown,Dublin 14,q2,50%
+15/02/2016,"16 Weston Rd, Churchtown, Dublin 14",Dublin,512500.0,No,Churchtown,Dublin 14,q3,60%
+25/02/2016,"39A Meadow View, Churchtown, Meadow View Dublin 14",Dublin,320000.0,No,Churchtown,Dublin 14,q1,20%
+26/02/2016,"25 Henley Park, Churchtown, Dublin 14",Dublin,595000.0,No,Churchtown,Dublin 14,q4,80%
+29/02/2016,"7 Orwell Court, Braemor Rd, Churchtown Dublin 14",Dublin,317000.0,No,Churchtown,Dublin 14,q1,20%
+11/03/2016,"Carna, Ardtona Ave, Churchtown Rd Lower",Dublin,680000.0,No,Churchtown,Dublin 14,q4,90%
+16/03/2016,"89 Meadow Mount, Churchtown, Dublin 14",Dublin,523000.0,No,Churchtown,Dublin 14,q3,70%
+21/03/2016,"5 Meadow Villas, Churchtown, Dublin 16",Dublin,495000.0,No,Churchtown,Dublin 14,q3,60%
+30/03/2016,"77 Braemor Rd, Churchtown, Dublin 14",Dublin,680000.0,No,Churchtown,Dublin 14,q4,90%
+01/04/2016,"42 Weston Rd, Churchtown, Dublin",Dublin,450000.0,No,Churchtown,Dublin 14,q2,50%
+20/04/2016,"57 Mountain View Dr, Churchtown, Dublin 14",Dublin,282000.0,No,Churchtown,Dublin 14,q1,20%
+03/05/2016,"161 Orwell Rd, Churchtown, Dublin 14",Dublin,640000.0,No,Churchtown,Dublin 14,q4,90%
+05/05/2016,"14 Woodlawn Pk, Churchtown, Dublin 14",Dublin,710000.0,No,Churchtown,Dublin 14,q4,90%
+05/05/2016,"42 Beaumont Dr, Churchtown, Dublin 14",Dublin,523000.0,No,Churchtown,Dublin 14,q3,70%
+10/05/2016,"10 Woodlawn Park, Churchtown, Dublin 14",Dublin,770000.0,No,Churchtown,Dublin 14,q4,100%
+24/05/2016,"13 Headford Grove, Churchtown, Dublin 14",Dublin,427000.0,No,Churchtown,Dublin 14,q2,40%
+27/05/2016,"36 Braemor Park, Churchtown, Dublin 14",Dublin,845000.0,No,Churchtown,Dublin 14,q4,100%
+30/05/2016,"34 Whitebarn Rd, Churchtown, Dublin 14",Dublin,675000.0,No,Churchtown,Dublin 14,q4,90%
+02/06/2016,"2 Carrickmount Drive, Churchtown, Dublin 14",Dublin,340000.0,No,Churchtown,Dublin 14,q1,30%
+24/06/2016,"47 Carrickmount Ave, Churchtown, Dublin 14",Dublin,315000.0,No,Churchtown,Dublin 14,q1,20%
+24/06/2016,"5 Nugent Road, Churchtown, Dublin 14",Dublin,435000.0,No,Churchtown,Dublin 14,q2,50%
+12/07/2016,"19 Flemingstown Park, Churchtown, Dublin 14",Dublin,980000.0,No,Churchtown,Dublin 14,q4,100%
+14/07/2016,"49 Carrickmount Avenue, Churchtown, Dublin 14",Dublin,300000.0,No,Churchtown,Dublin 14,q1,20%
+26/07/2016,"1 Berwick Hall, Churchtown Rd, Dublin 14",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+29/07/2016,"111 Nutgrove Ave, Churchtown Dublin 14, Dublin",Dublin,190000.0,No,Churchtown,Dublin 14,q1,10%
+29/07/2016,"29 Meadow Park Ave, Churchtown, Dublin 14",Dublin,418000.0,No,Churchtown,Dublin 14,q2,40%
+09/08/2016,"Cortina, 39 Woodlawn Park, Churchtown Dublin 14",Dublin,920000.0,No,Churchtown,Dublin 14,q4,100%
+11/08/2016,"299 Nutgrove Ave, Churchtown, Dublin 14",Dublin,360000.0,No,Churchtown,Dublin 14,q1,30%
+15/08/2016,"48 Beaumont Ave, Churchtown, Dublin 14",Dublin,515500.0,No,Churchtown,Dublin 14,q3,70%
+15/08/2016,"64 Landscape Park, Churchtown, Dublin 14",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+19/08/2016,"2A Braemor Ave, Braemor Rd, Churchtown Dublin 14",Dublin,575000.0,No,Churchtown,Dublin 14,q3,80%
+19/08/2016,"89 Whitebarn Rd, Churchtown, Dublin 14",Dublin,587000.0,No,Churchtown,Dublin 14,q4,80%
+25/08/2016,"43 Meadow Grove, Churchtown, Dublin 16",Dublin,451485.0,No,Churchtown,Dublin 14,q2,50%
+25/08/2016,"56 Woodlawn Park, Churchtown, Dublin 14",Dublin,795000.0,No,Churchtown,Dublin 14,q4,100%
+29/08/2016,"11 Upper Churchtown Rd, Dublin 14, Dublin",Dublin,575000.0,No,Churchtown,Dublin 14,q3,80%
+14/09/2016,"16 Henley Villas, Churchtown, Dublin 14",Dublin,515000.0,No,Churchtown,Dublin 14,q3,70%
+26/09/2016,"19 Weston Park, Churchtown, Dublin 14",Dublin,770000.0,No,Churchtown,Dublin 14,q4,100%
+26/09/2016,"48 Braemor Rd, Churchtown, Dublin 14",Dublin,665000.0,No,Churchtown,Dublin 14,q4,90%
+26/09/2016,"59 Beaumont Ave, Churchtown, Dublin 14",Dublin,740000.0,No,Churchtown,Dublin 14,q4,90%
+27/09/2016,"48 Barton Rd East, Churchtown, Dublin 14",Dublin,445000.0,No,Churchtown,Dublin 14,q2,50%
+27/09/2016,"7 Berwick Hall, Whitehall Rd, Churchtown Dublin 14",Dublin,390000.0,No,Churchtown,Dublin 14,q2,40%
+05/10/2016,"79 Beaumont Ave, Churchtown, Dublin 14",Dublin,535000.0,No,Churchtown,Dublin 14,q3,70%
+07/10/2016,"94 Woodlawn Park, Churchtown, Dublin 14",Dublin,480000.0,No,Churchtown,Dublin 14,q3,60%
+14/10/2016,"61 Meadow Park, Churchtown, Dublin 14",Dublin,415000.0,No,Churchtown,Dublin 14,q2,40%
+26/10/2016,"4 The Green, Hazelbrook Square, Churchtown",Dublin,396475.0,Yes,Churchtown,Dublin 14,q2,40%
+27/10/2016,"22 Whitehall Rd, Churchtown, Dublin 14",Dublin,500000.0,No,Churchtown,Dublin 14,q3,60%
+28/10/2016,"11 The Place, Hazelbrook Square, Churchtown",Dublin,485000.0,Yes,Churchtown,Dublin 14,q3,60%
+28/10/2016,"6 The Place, Hazelbrook Square, Churchtown",Dublin,410875.0,Yes,Churchtown,Dublin 14,q2,40%
+28/10/2016,"77 Landscape Park, Churchtown, Dublin",Dublin,580000.0,No,Churchtown,Dublin 14,q3,80%
+01/11/2016,"6 The Green, Hazelbrook Square, Churchtown",Dublin,396475.0,Yes,Churchtown,Dublin 14,q2,40%
+02/11/2016,"4  The Place, Hazelbrook Square, Churchtown",Dublin,409692.0,Yes,Churchtown,Dublin 14,q2,40%
+02/11/2016,"8 The Green, Hazelbrook Sq, Churchtown",Dublin,396476.0,Yes,Churchtown,Dublin 14,q2,40%
+03/11/2016,"5 The Place, Hazelbrook Square, Churchtown",Dublin,475000.0,Yes,Churchtown,Dublin 14,q3,60%
+10/11/2016,"2 The Green, Haxelbrook Square, Churchtown",Dublin,396475.77,Yes,Churchtown,Dublin 14,q2,40%
+10/11/2016,"6 Annadale, Upper Churchtown Rd, Churchtown Dublin 14",Dublin,360000.0,No,Churchtown,Dublin 14,q1,30%
+10/11/2016,"7 The Green, Hazelbrook Square, Churchtown",Dublin,396475.77,Yes,Churchtown,Dublin 14,q2,40%
+11/11/2016,"14 Woodlawn Grove, Lr Churchtown Rd, Dublin 14",Dublin,495000.0,No,Churchtown,Dublin 14,q3,60%
+18/11/2016,"14 The Place, Hazelbrook Square, Churchtown",Dublin,418502.0,Yes,Churchtown,Dublin 14,q2,40%
+18/11/2016,"7 The Grove, Hazelbrook Square, Churchtown",Dublin,612334.8,Yes,Churchtown,Dublin 14,q4,80%
+18/11/2016,"7 The Place, Hazelbrook Square, Churchtown",Dublin,475000.0,Yes,Churchtown,Dublin 14,q3,60%
+24/11/2016,"18 Meadow Park, Churchtown, Dublin 14",Dublin,472000.0,No,Churchtown,Dublin 14,q2,50%
+28/11/2016,"3 The Place  Hazelbrook Sq, Whitehall Road, Churchtown",Dublin,409691.62,Yes,Churchtown,Dublin 14,q2,40%
+28/11/2016,"30 Camberley Oaks, Churchtown, Dublin 14",Dublin,505000.0,No,Churchtown,Dublin 14,q3,60%
+30/11/2016,"5 The Green, Hazelbrook Square, Churchtown",Dublin,396475.0,Yes,Churchtown,Dublin 14,q2,40%
+07/12/2016,"14 Finsbury Green, Churchtown, Dublin 14",Dublin,391000.0,No,Churchtown,Dublin 14,q2,40%
+08/12/2016,"68 Meadowmount, Churchtown, Dublin 14",Dublin,510000.0,No,Churchtown,Dublin 14,q3,60%
+09/12/2016,"32 Oakdown Rd, Churchtown, Dublin 14",Dublin,590000.0,No,Churchtown,Dublin 14,q4,80%
+09/12/2016,"71 Landscape Park, Churchtown, Dublin 14",Dublin,555000.0,No,Churchtown,Dublin 14,q3,70%
+12/12/2016,"139 Braemor Road, Churchtown, Dublin 14",Dublin,602000.0,No,Churchtown,Dublin 14,q4,80%
+12/12/2016,"45 Woodlawn Park, Churchtown, Dublin 14",Dublin,820000.0,No,Churchtown,Dublin 14,q4,100%
+14/12/2016,"98 Beaumont Ave, Churchtown, Dublin 14",Dublin,451000.0,No,Churchtown,Dublin 14,q2,50%
+15/12/2016,"23 Landscape Crescent, Churchtown, Dublin 14",Dublin,540000.0,No,Churchtown,Dublin 14,q3,70%
+16/12/2016,"100 Meadow Mount, Churchtown, Dublin 16",Dublin,460000.0,No,Churchtown,Dublin 14,q2,50%
+16/12/2016,"17 Mount Albion, Churchtown, Dublin 14",Dublin,480000.0,No,Churchtown,Dublin 14,q3,60%
+21/12/2016,"80A Whitebarn Road, Churchtown Co Dublin",Dublin,475000.0,No,Churchtown,Dublin 14,q3,60%
+22/12/2016,"11 Milltown Dr, Churchtown, Dublin 14",Dublin,1200000.0,No,Churchtown,Dublin 14,q4,100%
+22/12/2016,"9 The Place, Hazelbrook Square, Churchtown",Dublin,436123.0,Yes,Churchtown,Dublin 14,q2,50%
+16/01/2017,"6 Braemor Rd, Churchtown, Dublin 14",Dublin,606000.0,No,Churchtown,Dublin 14,q4,80%
+26/01/2017,"10 Braemor Rd, Churchtown, Dublin 14",Dublin,600000.0,No,Churchtown,Dublin 14,q4,80%
+27/01/2017,"13 The Place, Hazelbrook Square, Churchtown",Dublin,418502.0,Yes,Churchtown,Dublin 14,q2,40%
+27/01/2017,"34 Barton Rd East, Churchtown, Dublin 14",Dublin,562000.0,No,Churchtown,Dublin 14,q3,80%
+03/02/2017,"127 Meadow Mount, Churchtown, Dublin 14",Dublin,750000.0,No,Churchtown,Dublin 14,q4,90%
+03/02/2017,"8  The Close, Hazelbrook Square, Churchtown",Dublin,572687.22,Yes,Churchtown,Dublin 14,q3,80%
+10/02/2017,"23 Finsbury Green, Churchtown, Dublin 14",Dublin,420000.0,No,Churchtown,Dublin 14,q2,40%
+16/02/2017,"20 Berwick Hall, Churchtown, Dublin 14",Dublin,407000.0,No,Churchtown,Dublin 14,q2,40%
+17/02/2017,"10 The Place, Hazelbrook Square, Churchtown",Dublin,427312.77,Yes,Churchtown,Dublin 14,q2,40%
+02/03/2017,"81 Meadow Mount, Churchtown, Dublin 16",Dublin,530000.0,No,Churchtown,Dublin 14,q3,70%
+10/03/2017,"114 Meadowmount, Churchtown, Dublin 14",Dublin,647000.0,No,Churchtown,Dublin 14,q4,90%
+14/03/2017,"No 5 The Close, Hazelbrook Square, Churchtown",Dublin,440528.68,Yes,Churchtown,Dublin 14,q2,50%
+15/03/2017,"4 The Close, Hazelbrook Square, Churchtown",Dublin,440528.64,Yes,Churchtown,Dublin 14,q2,50%
+16/03/2017,"10 The Close, Hazelbrook Square, Churchtown",Dublin,427312.78,Yes,Churchtown,Dublin 14,q2,40%
+28/03/2017,"53 Meadow Mount, Churchtown, Dublin 16",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+31/03/2017,"24 Braemor Dr, Churchtown, Dublin",Dublin,419000.0,No,Churchtown,Dublin 14,q2,40%
+03/04/2017,"12 The Close, Hazelbrook Square, Churchtown",Dublin,427313.0,Yes,Churchtown,Dublin 14,q2,40%
+03/04/2017,"14 The Close, Hazelbrook Square, Churchtown",Dublin,419525.0,Yes,Churchtown,Dublin 14,q2,40%
+05/04/2017,"7 The Close, Hazelbrook Square, Churchtown",Dublin,440529.0,Yes,Churchtown,Dublin 14,q2,50%
+06/04/2017,"3, Hazelbrook Square, Churchtown",Dublin,440520.0,Yes,Churchtown,Dublin 14,q2,50%
+11/04/2017,"2 Nugent Rd, Churchtown, Dublin 14",Dublin,535000.0,No,Churchtown,Dublin 14,q3,70%
+11/04/2017,"96 Beaumont Ave, Churchtown, Dublin 14",Dublin,537000.0,No,Churchtown,Dublin 14,q3,70%
+12/04/2017,"1 The Close, Hazelbrook Square, Churchtown",Dublin,572687.0,No,Churchtown,Dublin 14,q3,80%
+20/04/2017,"78A Beaumont Ave, Churchtown, Dublin 14",Dublin,415000.0,No,Churchtown,Dublin 14,q2,40%
+21/04/2017,"15 Meadow Mount, Churchtown, Dublin 14",Dublin,565000.0,No,Churchtown,Dublin 14,q3,80%
+25/04/2017,"15 Meadow Park Ave, Churchtown, Dublin 14",Dublin,102500.0,No,Churchtown,Dublin 14,q1,10%
+05/05/2017,"9 Milltown Grove, Churchtown, Dublin 14",Dublin,685000.0,No,Churchtown,Dublin 14,q4,90%
+10/05/2017,"11 The Close, Hazelbrook Square, Churchtown",Dublin,427312.77,Yes,Churchtown,Dublin 14,q2,40%
+10/05/2017,"16 The Close, Hazelbrook Square, Churchtown",Dublin,563876.0,Yes,Churchtown,Dublin 14,q3,80%
+10/05/2017,"5 Flemingstown Park, Churchtown, Dublin 14",Dublin,612652.0,No,Churchtown,Dublin 14,q4,80%
+17/05/2017,"1 Weston Terrace, Churchtown, Dublin 14",Dublin,575000.0,No,Churchtown,Dublin 14,q3,80%
+26/05/2017,"46 Meadow Grove, Churchtown, Dublin 14",Dublin,509000.0,No,Churchtown,Dublin 14,q3,60%
+29/05/2017,"13 The Close, Hazelbrook Square, Churchtown",Dublin,427312.77,Yes,Churchtown,Dublin 14,q2,40%
+30/05/2017,"58 Beaumont Ave, Churchtown, Dublin 14",Dublin,167000.0,No,Churchtown,Dublin 14,q1,10%
+30/05/2017,"58 Beaumont Ave, Churchtown, Dublin 14",Dublin,210570.0,No,Churchtown,Dublin 14,q1,10%
+31/05/2017,"50 Landscape Park, Churchtown, Dublin 14",Dublin,560000.0,No,Churchtown,Dublin 14,q3,80%
+31/05/2017,"94 Woodlawn Park, Churchtown, Dublin 14",Dublin,735000.0,No,Churchtown,Dublin 14,q4,90%
+02/06/2017,"Henley Cottage, Upper Churchtown Rd, Churchtown Dublin 14",Dublin,975000.0,No,Churchtown,Dublin 14,q4,100%
+05/06/2017,"70C Beaumont Avenue, Churchtown, Dublin 14",Dublin,475000.0,No,Churchtown,Dublin 14,q3,60%
+09/06/2017,"40 Landscape Park, Churchtown Dublin 14, Dublin",Dublin,625000.0,No,Churchtown,Dublin 14,q4,80%
+12/06/2017,"20 Landscape Gardens, Churchtown, Dublin 14",Dublin,750000.0,No,Churchtown,Dublin 14,q4,90%
+16/06/2017,"93 Orwell Gardens, Churchtown, Dublin 14",Dublin,416000.0,No,Churchtown,Dublin 14,q2,40%
+22/06/2017,"13 Berwick Hall, Churchtown, Dublin 14",Dublin,495000.0,No,Churchtown,Dublin 14,q3,60%
+23/06/2017,"146 Mountainview Park, Churchtown, Dublin 14",Dublin,377000.0,No,Churchtown,Dublin 14,q2,30%
+23/06/2017,"26 Henley Park, Churchtown, Dublin 14",Dublin,630000.0,No,Churchtown,Dublin 14,q4,90%
+27/06/2017,"80 Whitebarn Road, Churchtown Co Dublin",Dublin,475000.0,No,Churchtown,Dublin 14,q3,60%
+28/06/2017,"22 Braemor Rd, Churchtown, Dublin 14",Dublin,790000.0,No,Churchtown,Dublin 14,q4,100%
+28/06/2017,"4 Weston Rd, Churchtown, Dublin 14",Dublin,583000.0,No,Churchtown,Dublin 14,q4,80%
+29/06/2017,"66 Orwell Gardens, Churchtown, Dublin 14",Dublin,200000.0,No,Churchtown,Dublin 14,q1,10%
+30/06/2017,"5 Newtown Grove, Braemor Rd, Churchtown Dublin 14",Dublin,420000.0,No,Churchtown,Dublin 14,q2,40%
+04/07/2017,"Nook Cottage, Upper Churchtown Rd, Dublin 14",Dublin,1100000.0,No,Churchtown,Dublin 14,q4,100%
+05/07/2017,"26 Berwick Hall, Whitehall Rd, Churchtown Dublin 14",Dublin,475000.0,No,Churchtown,Dublin 14,q3,60%
+05/07/2017,"49 Meadow Grove, Churchtown, Dublin 16",Dublin,515000.0,No,Churchtown,Dublin 14,q3,70%
+06/07/2017,"2B Milltown Drive, Off Braemor Avenue, Churchtown",Dublin,592650.0,No,Churchtown,Dublin 14,q4,80%
+10/07/2017,"15 The Close, Hazelbrook Square, Churchtown",Dublin,537444.93,Yes,Churchtown,Dublin 14,q3,70%
+11/07/2017,"34 Nugent Road, Churchtown, Dublin 14",Dublin,475000.0,No,Churchtown,Dublin 14,q3,60%
+12/07/2017,"360 Nutgrove Ave, Churchtown, Dublin 14",Dublin,455000.0,No,Churchtown,Dublin 14,q2,50%
+17/07/2017,"4 The Drive  Hazelbrook Square, Churchtown, Dublin 14",Dublin,506607.93,Yes,Churchtown,Dublin 14,q3,60%
+20/07/2017,"53 Lr Churchtown Rd, Dublin 14, Dublin",Dublin,480000.0,No,Churchtown,Dublin 14,q3,60%
+21/07/2017,"31 Henley Park, Churchtown, Dublin 14",Dublin,801100.0,No,Churchtown,Dublin 14,q4,100%
+24/07/2017,"12 Camberley Oaks, Churchtown, Dublin 14",Dublin,446500.0,No,Churchtown,Dublin 14,q2,50%
+25/07/2017,"11 Meadow Mount, Churchtown, Dublin 16",Dublin,595000.0,No,Churchtown,Dublin 14,q4,80%
+26/07/2017,"51 Landscape Park, Churchtown, Dublin 14",Dublin,645000.0,No,Churchtown,Dublin 14,q4,90%
+27/07/2017,"68 White Barn Rd, Churchtown, Dublin 14",Dublin,560000.0,No,Churchtown,Dublin 14,q3,80%
+03/08/2017,"59 Weston Rd, Churchtown, Dublin 14",Dublin,640000.0,No,Churchtown,Dublin 14,q4,90%
+04/08/2017,"104 Landscape Park, Churchtown, Dublin 14",Dublin,630000.0,No,Churchtown,Dublin 14,q4,90%
+14/08/2017,"47 Meadow Park Ave, Churchtown, Dublin 14",Dublin,465000.0,No,Churchtown,Dublin 14,q2,50%
+15/08/2017,"5 The Grove, Hazelbrook Square, Churchtown",Dublin,612355.0,Yes,Churchtown,Dublin 14,q4,80%
+17/08/2017,"1 Synge House, Newtown Villas, Churchtown",Dublin,417000.0,No,Churchtown,Dublin 14,q2,40%
+22/08/2017,"1 Newtown Way, Braemor Rd, Churchtown Dublin 14",Dublin,476000.0,No,Churchtown,Dublin 14,q3,60%
+22/08/2017,"2 Newtown Way, Braemor Rd, Churchtown Dublin 14",Dublin,476000.0,No,Churchtown,Dublin 14,q3,60%
+22/08/2017,"3 Newtown Way, Braemor Rd, Churchtown Dublin 14",Dublin,476000.0,No,Churchtown,Dublin 14,q3,60%
+24/08/2017,"16 Upper Churchtown Rd, Churchtown, Dublin",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+25/08/2017,"65 Churchtown Rd Upper, Churchtown, Dublin 14",Dublin,595000.0,No,Churchtown,Dublin 14,q4,80%
+25/08/2017,"95 Beaumont Ave, Churchtown, Dublin 14",Dublin,805000.0,No,Churchtown,Dublin 14,q4,100%
+28/08/2017,"64 Woodlawn Park, Churchtown, Dublin 14",Dublin,970000.0,No,Churchtown,Dublin 14,q4,100%
+28/08/2017,"78C Beaumont Ave, Churchtown, Dublin 14",Dublin,440000.0,No,Churchtown,Dublin 14,q2,50%
+30/08/2017,"3 Finsbury Green, Finsbury Park, Churchtown Dublin 14",Dublin,400000.0,No,Churchtown,Dublin 14,q2,40%
+07/09/2017,"80 Whitebarn Rd, Churchtown, Dublin 14",Dublin,550000.0,No,Churchtown,Dublin 14,q3,70%
+08/09/2017,"5 Upper Churchtown Rd, Dublin 14, Dublin",Dublin,845000.0,No,Churchtown,Dublin 14,q4,100%
+08/09/2017,"94 Landscape Park, Churchtown, Dublin 14",Dublin,590000.0,No,Churchtown,Dublin 14,q4,80%
+15/09/2017,"72 Whitebarn Rd, Churchtown, Dublin 14",Dublin,465000.0,No,Churchtown,Dublin 14,q2,50%
+21/09/2017,"9 The Green, Hazelbrook Square, Churchtown",Dublin,563876.65,Yes,Churchtown,Dublin 14,q3,80%
+22/09/2017,"6 The Avenue, Hazelbrook Square, Churchtown",Dublin,527753.0,Yes,Churchtown,Dublin 14,q3,70%
+22/09/2017,"6 The Drive, Hazelbrook Square, Churchtown",Dublin,572687.0,Yes,Churchtown,Dublin 14,q3,80%
+26/09/2017,"2 The Grove, Hazelbrook Square, Churchtown",Dublin,682820.0,Yes,Churchtown,Dublin 14,q4,90%
+29/09/2017,"60 Landscape Pk, Churchtown, Dublin 14",Dublin,655000.0,No,Churchtown,Dublin 14,q4,90%
+03/10/2017,"3 The Avenue, Hazelbrook Square, Churchtown",Dublin,475770.92,Yes,Churchtown,Dublin 14,q3,60%
+06/10/2017,"66 Carrickmount Dr, Churchtown, Dublin 14",Dublin,427000.0,No,Churchtown,Dublin 14,q2,40%
+10/10/2017,"4 Henley Park, Churchtown, Dublin 14",Dublin,807000.0,No,Churchtown,Dublin 14,q4,100%
+10/10/2017,"95A Beaumont Avenue, Churchtown",Dublin,777777.0,Yes,Churchtown,Dublin 14,q4,100%
+18/10/2017,"10 Braemor Grove, Churchtown, Dublin 14",Dublin,550000.0,No,Churchtown,Dublin 14,q3,70%
+24/10/2017,"36 Nugent Rd, Churchtown, Dublin 14",Dublin,580000.0,No,Churchtown,Dublin 14,q3,80%
+25/10/2017,"7 Churchtown Rd Upper, Churchtown, Dublin 14",Dublin,950000.0,No,Churchtown,Dublin 14,q4,100%
+25/10/2017,"7 The Drive, Hazelbrook Square, Churchtown",Dublin,620000.0,Yes,Churchtown,Dublin 14,q4,80%
+26/10/2017,"7 Landscape Park, Churchtown, Dublin 14",Dublin,661000.0,No,Churchtown,Dublin 14,q4,90%
+26/10/2017,"7 The Avenue, Hazelbrook Square, Churchtown",Dublin,475770.92,Yes,Churchtown,Dublin 14,q3,60%
+26/10/2017,"81 Meadow Park, Churchtown, Dublin 14",Dublin,470000.0,No,Churchtown,Dublin 14,q2,50%
+01/11/2017,"64 Meadow Park, Churchtown, Dublin 14",Dublin,380000.0,No,Churchtown,Dublin 14,q2,30%
+17/11/2017,"1 The Drive, Hazelbrook Square, Churchtown",Dublin,572687.0,Yes,Churchtown,Dublin 14,q3,80%
+17/11/2017,"18 Meadow View, Churchtown, Dublin 14",Dublin,505000.0,No,Churchtown,Dublin 14,q3,60%
+17/11/2017,"4 Headford Grove, Churchtown, Dublin 14",Dublin,425000.0,No,Churchtown,Dublin 14,q2,40%
+24/11/2017,"4 The Avenue, Hazelbrook Square, Churchtown",Dublin,475771.0,Yes,Churchtown,Dublin 14,q3,60%
+29/11/2017,"2 Milltown Dr, Braemor Rd, Churchtown Dublin 14",Dublin,980000.0,No,Churchtown,Dublin 14,q4,100%
+30/11/2017,"336 Nutgrove Avenue, Churchtown, Dublin 14",Dublin,130000.0,No,Churchtown,Dublin 14,q1,10%
+04/12/2017,"45 Weston Park, Churchtown, Dublin 14",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+13/12/2017,"2 Beaumont Close, Churchtown, Dublin 14",Dublin,510000.0,No,Churchtown,Dublin 14,q3,60%
+14/12/2017,"11 Henley Park, Churchtown, Dublin 14",Dublin,800000.0,No,Churchtown,Dublin 14,q4,100%
+14/12/2017,"11 Mount Albion Rd, Churchtown, Dublin 14",Dublin,470000.0,No,Churchtown,Dublin 14,q2,50%
+20/12/2017,"150 Braemor Rd, Churchtown, Dublin 14",Dublin,752500.0,No,Churchtown,Dublin 14,q4,100%
+20/12/2017,"17 Carrickmount Dr, Churchtown, Dublin 14",Dublin,370000.0,No,Churchtown,Dublin 14,q2,30%
+20/12/2017,"70B Beaumont Ave, Churchtown, Dublin",Dublin,476000.0,No,Churchtown,Dublin 14,q3,60%
+22/12/2017,"Lisheen, Landscape Rd, Churchtown Dublin 14",Dublin,695000.0,No,Churchtown,Dublin 14,q4,90%
+08/01/2018,"36 Beaumont Ave, Churchtown, Dublin 14",Dublin,455000.0,No,Churchtown,Dublin 14,q2,50%
+15/01/2018,"358 Nutgrove Ave, Churchtown Dublin 14, Dublin",Dublin,520000.0,No,Churchtown,Dublin 14,q3,70%
+19/01/2018,"127 Meadow Mount, Churchtown, Dublin 16",Dublin,850000.0,No,Churchtown,Dublin 14,q4,100%
+24/01/2018,"4 The Grove, Hazelbrook Square, Churchtown",Dublin,670375.0,Yes,Churchtown,Dublin 14,q4,90%
+25/01/2018,"58 Mountain View Park, Churchtown, Dublin 14",Dublin,390000.0,No,Churchtown,Dublin 14,q2,40%
+01/02/2018,"38 Braemor Park, Churchtown, Dublin 14",Dublin,870000.0,No,Churchtown,Dublin 14,q4,100%
+01/02/2018,"Milltown Lodge, 26C Churchtown Road Lower, Churchtown",Dublin,400000.0,No,Churchtown,Dublin 14,q2,40%
+06/02/2018,"8 The Avenue, Hazelbrook Square, Churchtown",Dublin,475770.93,Yes,Churchtown,Dublin 14,q3,60%
+07/02/2018,"3 The Grove, Churchtown, Dublin 14",Dublin,682819.0,Yes,Churchtown,Dublin 14,q4,90%
+09/02/2018,"293 Nutgrove Ave, Churchtown, Dublin 14",Dublin,470000.0,No,Churchtown,Dublin 14,q2,50%
+09/02/2018,"9 The Avenue, Hazelbrook Square, Churchtown",Dublin,630000.0,Yes,Churchtown,Dublin 14,q4,90%
+15/02/2018,"88 Lower Churchtown Rd, Churchtown, Dublin 14",Dublin,1100000.0,No,Churchtown,Dublin 14,q4,100%
+16/02/2018,"20 Landscape Avenue, Churchtown, Dublin 14",Dublin,730000.0,No,Churchtown,Dublin 14,q4,90%
+20/02/2018,"3 Synge House, Braemor Rd, Churchtown Dublin 14",Dublin,360000.0,No,Churchtown,Dublin 14,q1,30%
+27/02/2018,"32 Meadow Grove, Churchtown, Dublin 16",Dublin,585000.0,No,Churchtown,Dublin 14,q4,80%
+05/03/2018,"Reba Lodge, Braemor Drive, Churchtown",Dublin,625000.0,No,Churchtown,Dublin 14,q4,90%
+08/03/2018,"1 The Place, Hazelbrook Square, Churchtown",Dublin,572687.22,Yes,Churchtown,Dublin 14,q3,80%
+12/03/2018,"27 Berwick Hall, Churchtown, Dublin 14",Dublin,452000.0,No,Churchtown,Dublin 14,q2,50%
+13/03/2018,"32 Whitehall Road, Churchtown, Dublin 14",Dublin,440000.0,No,Churchtown,Dublin 14,q2,50%
+14/03/2018,"10 The Grove, Hazelbrook Square, Churchtown",Dublin,696035.24,Yes,Churchtown,Dublin 14,q4,90%
+20/03/2018,"59 Carrickmount Ave, Churchtown, Dublin 14",Dublin,290000.0,No,Churchtown,Dublin 14,q1,20%
+29/03/2018,"18 Barton Rd East, Churchtown, Dublin 14",Dublin,540000.0,No,Churchtown,Dublin 14,q3,70%
+29/03/2018,"Brandon, Churchtown Rd Lower, Churchtown Dublin 14",Dublin,850000.0,No,Churchtown,Dublin 14,q4,100%
+04/04/2018,"6 Orwell Gardens, Churchtown, Dublin 14",Dublin,460000.0,No,Churchtown,Dublin 14,q2,50%
+16/04/2018,"5 Castle Park, Whitehall Road, Churchtown",Dublin,702643.16,Yes,Churchtown,Dublin 14,q4,90%
+20/04/2018,"2 Landscape Avenue, Churchtown, Dublin 14",Dublin,780000.0,No,Churchtown,Dublin 14,q4,100%
+27/04/2018,"113 Landscape Park, Churchtown, Dublin 14",Dublin,875000.0,No,Churchtown,Dublin 14,q4,100%
+27/04/2018,"28 Whitehall Rd, Churchtown, Dublin 14",Dublin,865000.0,No,Churchtown,Dublin 14,q4,100%
+04/05/2018,"61 Beaumont Ave, Churchtown, Dublin 14",Dublin,465000.0,No,Churchtown,Dublin 14,q2,50%
+21/05/2018,"1 Finsbury Green, Finsbury Park, Churchtown Dublin 14",Dublin,435000.0,No,Churchtown,Dublin 14,q2,50%
+25/05/2018,"33 Weston Park, Churchtown, Dublin 14",Dublin,735000.0,No,Churchtown,Dublin 14,q4,90%
+29/05/2018,"6 Berwick Hall, Churchtown, Dublin 14",Dublin,417500.0,No,Churchtown,Dublin 14,q2,40%
+31/05/2018,"4 Castle Park, Whitehall Road, Churchtown",Dublin,700440.53,Yes,Churchtown,Dublin 14,q4,90%
+31/05/2018,"42 Upper Churchtown Rd, Churchtown, Dublin 14",Dublin,710000.0,No,Churchtown,Dublin 14,q4,90%
+01/06/2018,"56 Whitebarn Rd, Churchtown, Dublin 14",Dublin,485000.0,No,Churchtown,Dublin 14,q3,60%
+01/06/2018,"97 Whitebarn Rd, Churchtown, Dublin 14",Dublin,495000.0,No,Churchtown,Dublin 14,q3,60%
+07/06/2018,"3 Castle Park, Whitehall Road, Churchtown",Dublin,700440.0,Yes,Churchtown,Dublin 14,q4,90%
+07/06/2018,"3 Meadow Park Ave, Churchtown, Dublin 14",Dublin,353000.0,No,Churchtown,Dublin 14,q1,30%
+08/06/2018,"29 Meadow Grove, Churchtown, Dublin",Dublin,490000.0,No,Churchtown,Dublin 14,q3,60%
+19/06/2018,"2 The Drive, Hazelbrook Square, Churchtown",Dublin,555066.0,Yes,Churchtown,Dublin 14,q3,70%
+22/06/2018,"78B Beaumont Ave, Churchtown, Dublin 14",Dublin,430000.0,No,Churchtown,Dublin 14,q2,40%
+26/06/2018,"37 Meadow Park, Churchtown, Dublin 14",Dublin,510000.0,No,Churchtown,Dublin 14,q3,60%
+02/07/2018,"23 Ardavon Hall, Hazelbrook Sq, Churchtown Dublin 14",Dublin,385000.0,No,Churchtown,Dublin 14,q2,30%
+02/07/2018,"24 Barton Rd East, Churchtown, Dublin 14",Dublin,584000.0,No,Churchtown,Dublin 14,q4,80%
+10/07/2018,"127 Braemor Rd, Churchtown, Dublin 14",Dublin,460000.0,No,Churchtown,Dublin 14,q2,50%
+12/07/2018,"110 Mountain View Park, Churchtown, Dublin 14",Dublin,370000.0,No,Churchtown,Dublin 14,q2,30%
+19/07/2018,"16 Nugent Road, Churchtown, Dublin 14",Dublin,570000.0,No,Churchtown,Dublin 14,q3,80%
+25/07/2018,"4 Synge Court, Newtown Villas, Churchtown Dublin 14",Dublin,557000.0,No,Churchtown,Dublin 14,q3,80%
+26/07/2018,"8 The Drive, Hazelbrook Square, Churchtown",Dublin,546255.0,Yes,Churchtown,Dublin 14,q3,70%
+30/07/2018,"2 Castle Park, Whitehall Road, Churchtown",Dublin,724229.0,Yes,Churchtown,Dublin 14,q4,90%
+08/08/2018,"Belfield House, Upper Churchtown Rd, Dublin 14",Dublin,675000.0,No,Churchtown,Dublin 14,q4,90%
+15/08/2018,"3 Charleville, Churchtown Rd Lower, Dublin 14",Dublin,890000.0,No,Churchtown,Dublin 14,q4,100%
+21/08/2018,"51 Meadow Park Ave, Churchtown, Dublin 14",Dublin,500000.0,No,Churchtown,Dublin 14,q3,60%
+22/08/2018,"46 Weston Park, Churchtown, Dublin 14",Dublin,680000.0,No,Churchtown,Dublin 14,q4,90%
+30/08/2018,"91 Landscape Park, Churchtown, Dublin 14",Dublin,575000.0,No,Churchtown,Dublin 14,q3,80%
+31/08/2018,"11 Upper Churchtown Rd, Dublin 14, Dublin",Dublin,720000.0,No,Churchtown,Dublin 14,q4,90%
+31/08/2018,"140 Braemor Rd, Churchtown, Dublin 14",Dublin,855000.0,No,Churchtown,Dublin 14,q4,100%
+03/09/2018,"30 Landscape Park, Churchtown, Dublin 14",Dublin,630000.0,No,Churchtown,Dublin 14,q4,90%
+13/09/2018,"5 Braemor Ave, Churchtown, Dublin 14",Dublin,676000.0,No,Churchtown,Dublin 14,q4,90%
+13/09/2018,"Chez Nous, 111D Beaumont Ave, Churchtown Dublin 14",Dublin,195000.0,No,Churchtown,Dublin 14,q1,10%
+21/09/2018,"7 Mountain View Park, Churchtown, Dublin 14",Dublin,410000.0,No,Churchtown,Dublin 14,q2,40%
+26/09/2018,"35 Woodlawn Park, Churchtown, Dublin 14",Dublin,825000.0,No,Churchtown,Dublin 14,q4,100%
+27/09/2018,"23 Beaumont Dr, Churchtown, Dublin 14",Dublin,492000.0,No,Churchtown,Dublin 14,q3,60%
+28/09/2018,"10 Weston Rd, Churchtown, Dublin 14",Dublin,645000.0,No,Churchtown,Dublin 14,q4,90%
+28/09/2018,"26 Orwell Gardens, Churchtown, Dublin 14",Dublin,455000.0,No,Churchtown,Dublin 14,q2,50%
+28/09/2018,"38 Landscape Crescent, Churchtown, Dublin 14",Dublin,640000.0,No,Churchtown,Dublin 14,q4,90%
+08/10/2018,"14 Carrickmount Dr, Churchtown, Dublin 14",Dublin,426000.0,No,Churchtown,Dublin 14,q2,40%
+10/10/2018,"28 Finsbury Green, Churchtown, Dublin 14",Dublin,670000.0,No,Churchtown,Dublin 14,q4,90%
+11/10/2018,"7 Churchtown Rd Lower, Milltown, Dublin 14",Dublin,950000.0,No,Churchtown,Dublin 14,q4,100%
+25/10/2018,"1A Weston Ave, Churchtown, Dublin 14",Dublin,660000.0,No,Churchtown,Dublin 14,q4,90%
+30/10/2018,"139 Braemor Road, Churchtown, Dublin 14",Dublin,675000.0,No,Churchtown,Dublin 14,q4,90%
+02/11/2018,"14 Landscape Park, Churchtown, Dublin 14",Dublin,660000.0,No,Churchtown,Dublin 14,q4,90%
+09/11/2018,"122 Whitebarn Road, Churchtown, Dublin 14",Dublin,525000.0,No,Churchtown,Dublin 14,q3,70%
+12/11/2018,"7 Laurel Rd, Churchtown, Dublin",Dublin,613000.0,No,Churchtown,Dublin 14,q4,80%
+23/11/2018,"11 Braemor Park, Churchtown, Dublin 14",Dublin,1285000.0,No,Churchtown,Dublin 14,q4,100%
+26/11/2018,"4 Weston Tee, Churchtown, Dublin 14",Dublin,468500.0,No,Churchtown,Dublin 14,q2,50%
+03/12/2018,"17 Churchtown Dr, Churchtown Rd Lower, Dublin 14",Dublin,812500.0,No,Churchtown,Dublin 14,q4,100%
+03/12/2018,"5 Redwood Court, Braemor Rd, Churchtown Dublin 14",Dublin,592500.0,No,Churchtown,Dublin 14,q4,80%
+04/12/2018,"30 Braemor Dr, Churchtown, Dublin 14",Dublin,615000.0,No,Churchtown,Dublin 14,q4,80%
+10/12/2018,"10 Headford Grove, Churchtown, Dublin 14",Dublin,530000.0,No,Churchtown,Dublin 14,q3,70%
+11/12/2018,"14 Berwick Hall, Churchtown, Dublin 14",Dublin,502500.0,No,Churchtown,Dublin 14,q3,60%
+12/12/2018,"1 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,377216.85,No,Churchtown,Dublin 14,q2,30%
+12/12/2018,"1 Ely Hall, Hazelbrook Square, Churchtown",Dublin,377216.85,No,Churchtown,Dublin 14,q2,30%
+12/12/2018,"1 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,377216.85,No,Churchtown,Dublin 14,q2,30%
+12/12/2018,"10 Ardovan Hall, Hazelbrook Square, Churchtown",Dublin,322153.12,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"10 Ely Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"11 Ardovan Hall, Hazelbrook Square, Churchtown",Dublin,322153.12,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"11 Ely Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"12 Ardovan Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"12 Ely Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"12 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"13 Ardovan Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"13 Ely Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"13 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"14 Ely Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"14 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"15 Ardovan Hall, Hazelbrook Square, Churchtown",Dublin,322153.12,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"15 Ely Hall Hazlebrook Sq, Whitehall Rd, Churchtown Dublin 14",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"16 Ardovan Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"17 Ardovan Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"17 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"18 Ardavon Hall, Hazelbrook Sq, Whitehall Rd Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"18 Ely Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"18 Newtown Hall, Hazelbrook Sq, Churchtown Dublin 14",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"19 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"19 Ely Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"2 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"2 Ely Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"2 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"20 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"20 Ely Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"21 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"22 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"22 Ely Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"23 Ely Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"3 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"3 Ely Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"3 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"4 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,322153.12,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"4 Newtown Hall, Hazelbrook Sq, Whitehall Rd Churchtown Dublin 14",Dublin,330963.7,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"5 Ely Hall, Hazelbrook Square, Churchtown",Dublin,322153.12,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"5 Newtownhall, Hazelbrook, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,30%
+12/12/2018,"6 Ely Hall, Hazelbrook Square, Churchtown",Dublin,322153.12,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"6 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,30%
+12/12/2018,"7 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"7 Ely Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"7 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"8 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"8 Ely Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"8 Newtown Hall, Hazelbrook Square, Churchtown",Dublin,244072.06,No,Churchtown,Dublin 14,q1,10%
+12/12/2018,"9 Ardavon Hall, Hazelbrook Square, Churchtown",Dublin,322153.12,No,Churchtown,Dublin 14,q1,20%
+12/12/2018,"9 Ely Hall, Hazelbrook Square, Churchtown",Dublin,330963.7,No,Churchtown,Dublin 14,q1,30%
+12/12/2018,"Fernbank, Churchtown Road Upper",Dublin,42036724.0,Yes,Churchtown,Dublin 14,q4,100%
+13/12/2018,"16 Woodlawn Grove, Churchtown, Dublin 14",Dublin,640000.0,No,Churchtown,Dublin 14,q4,90%
+14/12/2018,"26 Whitehall Road, Churchtown, Dublin 14",Dublin,581000.0,No,Churchtown,Dublin 14,q3,80%
+17/12/2018,"47 Meadow Mount, Churchtown, Dublin 16",Dublin,540000.0,No,Churchtown,Dublin 14,q3,70%
+20/12/2018,"1 Lower Churchtown Road, Churchtown, Dublin 14",Dublin,900000.0,No,Churchtown,Dublin 14,q4,100%
+21/12/2018,"265 Nutgrove Ave, Churchtown, Dublin 14",Dublin,525000.0,No,Churchtown,Dublin 14,q3,70%
+24/01/2019,"111 Landscape Park, Churchtown, Dublin 14",Dublin,750000.0,No,Churchtown,Dublin 14,q4,90%
+25/01/2019,"139 Barton Rd East, Churchtown, Dublin 14",Dublin,592500.0,No,Churchtown,Dublin 14,q4,80%
+25/01/2019,"66 Woodlawn Park, Churchtown, Dublin 14",Dublin,900000.0,No,Churchtown,Dublin 14,q4,100%
+31/01/2019,"7 Finsbury Green, Churchtown, Dublin 14",Dublin,423000.0,No,Churchtown,Dublin 14,q2,40%
+04/02/2019,"7 Meadow Park, Churchtown, Dublin 14",Dublin,540000.0,No,Churchtown,Dublin 14,q3,70%
+06/02/2019,"8 Braemor Ave, Churchtown, Dublin 14",Dublin,121110.0,No,Churchtown,Dublin 14,q1,10%
+11/02/2019,"16 Berwick Hall, Churchtown, Dublin 14",Dublin,380000.0,No,Churchtown,Dublin 14,q2,30%
+15/02/2019,"28 Braemor Dr, Churchtown, Dublin 14",Dublin,495000.0,No,Churchtown,Dublin 14,q3,60%
+22/02/2019,"77 Whitebarn Rd, Churchtown, Dublin 14",Dublin,560000.0,No,Churchtown,Dublin 14,q3,80%
+13/03/2019,"15 Braemor Ave, Churchtown, Dublin 14",Dublin,780000.0,No,Churchtown,Dublin 14,q4,100%
+09/04/2019,"5 Glenbower Park, Churchtown, Dublin 14",Dublin,920000.0,No,Churchtown,Dublin 14,q4,100%
+12/04/2019,"Apt. No.8, Camberley Mews, Churchtown Road Upper",Dublin,462555.0,Yes,Churchtown,Dublin 14,q2,50%
+17/04/2019,"7 Camberley Mews, Churchtown Road Upper, Churchtown",Dublin,594713.66,Yes,Churchtown,Dublin 14,q4,80%
+25/04/2019,"5 Camberley Mews, Churchtown Road Upper, Dublin 14",Dublin,660792.95,Yes,Churchtown,Dublin 14,q4,90%
+26/04/2019,"Apt. 9 Camberley Mews, Churchtown Road Upper, Churchtown",Dublin,572687.22,Yes,Churchtown,Dublin 14,q3,80%
+29/04/2019,"72 Braemor Rd, Churchtown, Dublin 14",Dublin,880000.0,No,Churchtown,Dublin 14,q4,100%
+03/05/2019,"10 Milltown Dr, Churchtown, Dublin 14",Dublin,800000.0,No,Churchtown,Dublin 14,q4,100%
+20/05/2019,"63 Weston Rd, Churchtown, Dublin 14",Dublin,513000.0,No,Churchtown,Dublin 14,q3,70%
+23/05/2019,"11 Whitebarn Rd, Churchtown, Dublin 14",Dublin,1030000.0,No,Churchtown,Dublin 14,q4,100%
+27/05/2019,"2 Berwick House, Whitehall Rd, Churchtown Dublin 14",Dublin,575000.0,No,Churchtown,Dublin 14,q3,80%
+31/05/2019,"12 Headford Grove, Churchtown, Dublin 14",Dublin,550000.0,No,Churchtown,Dublin 14,q3,70%
+31/05/2019,"32 Henley Park, Churchtown, Dublin 14",Dublin,721000.0,No,Churchtown,Dublin 14,q4,90%
+07/06/2019,"37 Camberley Oaks, Churchtown, Dublin 14",Dublin,490000.0,No,Churchtown,Dublin 14,q3,60%
+21/06/2019,"129 Braemor Rd, Churchtown, Dublin 14",Dublin,620000.0,No,Churchtown,Dublin 14,q4,80%
+21/06/2019,"2 Meadow Ave, Churchtown, Dublin 16",Dublin,590000.0,No,Churchtown,Dublin 14,q4,80%
+27/06/2019,"25A Meadow Park Ave, Churchtown, Dublin 14",Dublin,510000.0,No,Churchtown,Dublin 14,q3,60%
+27/06/2019,"62 Lower Churchtown Rd, Churchtown, Dublin 14",Dublin,522000.0,No,Churchtown,Dublin 14,q3,70%
+28/06/2019,"12 Braemor Ave, Churchtown, Dublin 14",Dublin,620000.0,No,Churchtown,Dublin 14,q4,80%
+04/07/2019,"98 Barton Rd East, Churchtown, Dublin 14",Dublin,685000.0,No,Churchtown,Dublin 14,q4,90%
+05/07/2019,"37 Landscape Park, Churchtown, Dublin 14",Dublin,735000.0,No,Churchtown,Dublin 14,q4,90%
+10/07/2019,"4 Landscape Ave, Churchtown, Dublin 14",Dublin,675000.0,No,Churchtown,Dublin 14,q4,90%
+29/07/2019,"126 Meadow Mount, Churchtown, Dublin 16",Dublin,565000.0,No,Churchtown,Dublin 14,q3,80%
+31/07/2019,"2A Meadow View, Churchtown, Dublin 14",Dublin,577092.5,Yes,Churchtown,Dublin 14,q3,80%
+08/08/2019,"90 Meadow Grove, Churchtown, Dublin 16",Dublin,475000.0,No,Churchtown,Dublin 14,q3,60%
+16/08/2019,"38 Mountainview Dr, Churchtown, Dublin 14",Dublin,370000.0,No,Churchtown,Dublin 14,q2,30%
+20/08/2019,"269 Nutgrove Ave, Churchtown, Dublin 14",Dublin,447000.0,No,Churchtown,Dublin 14,q2,50%
+20/08/2019,"Woodlawn House, The Oaks, Churchtown Rd Upper Dublin 14",Dublin,1900000.0,No,Churchtown,Dublin 14,q4,100%
+23/08/2019,"5 Milltown Dr, Churchtown, Dublin 14",Dublin,810000.0,No,Churchtown,Dublin 14,q4,100%
+23/08/2019,"65 Weston Rd, Churchtown, Dublin 14",Dublin,565000.0,No,Churchtown,Dublin 14,q3,80%
+27/08/2019,"19 Churchtown Rd Upper, Dublin 14, Dublin",Dublin,635000.0,No,Churchtown,Dublin 14,q4,90%
+27/08/2019,"79 Landscape Park, Churchtown, Dublin",Dublin,575000.0,No,Churchtown,Dublin 14,q3,80%
+28/08/2019,"8 Dromartin Close, Churchtown, Dublin 14",Dublin,650000.0,No,Churchtown,Dublin 14,q4,90%
+30/08/2019,"78 Whitebarn Rd, Churchtown, Dublin 14",Dublin,498000.0,No,Churchtown,Dublin 14,q3,60%
+03/09/2019,"38 Whitebarn Rd, Churchtown, Dublin 14",Dublin,560000.0,No,Churchtown,Dublin 14,q3,80%
+03/09/2019,"48 Weston Road, Churchtown, Dublin 14",Dublin,615000.0,No,Churchtown,Dublin 14,q4,80%
+09/09/2019,"13 Braemor Grove, Churchtown, Dublin 14",Dublin,480000.0,No,Churchtown,Dublin 14,q3,60%
+09/09/2019,"33 Woodlawn Park, Churchtown, Dublin 14",Dublin,915000.0,No,Churchtown,Dublin 14,q4,100%
+11/09/2019,"3 Flemingstown Park, Churchtown Road Lower, Churchtown",Dublin,1150000.0,No,Churchtown,Dublin 14,q4,100%
+24/09/2019,"127B Meadowmount, Churchtown, Dublin 14",Dublin,605500.0,Yes,Churchtown,Dublin 14,q4,80%
+26/09/2019,"448 Nutgrove Ave, Churchtown, Dublin 14",Dublin,467000.0,No,Churchtown,Dublin 14,q2,50%
+30/09/2019,"54 Whitebarn Rd, Churchtown, Dublin 14",Dublin,525000.0,No,Churchtown,Dublin 14,q3,70%
+30/09/2019,"6 Landscape Ave, Churchtown, Dublin 14",Dublin,200000.0,No,Churchtown,Dublin 14,q1,10%
+03/10/2019,"88 Landscape Rd, Churchtown, Dublin 14",Dublin,750000.0,No,Churchtown,Dublin 14,q4,100%
+04/10/2019,"23 Whitebarn Rd, Churchtown, Dublin City",Dublin,800000.0,No,Churchtown,Dublin 14,q4,100%
+09/10/2019,"143A Lower Churchtown Road, Churchtown, Dublin 14",Dublin,756000.0,No,Churchtown,Dublin 14,q4,100%
+11/10/2019,"172C Orwell Rd, Churchtown, Dublin 14",Dublin,810000.0,No,Churchtown,Dublin 14,q4,100%
+11/10/2019,"54 Beaumont Ave, Churchtown, Dublin 14",Dublin,850000.0,No,Churchtown,Dublin 14,q4,100%
+14/10/2019,"69 Meadow Mount, Churchtown, Dublin 16",Dublin,575000.0,No,Churchtown,Dublin 14,q3,80%
+21/10/2019,"83 Meadow Mount, Churchtown, Dublin 16",Dublin,600000.0,No,Churchtown,Dublin 14,q4,80%

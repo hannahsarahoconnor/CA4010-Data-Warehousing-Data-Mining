@@ -1,0 +1,1440 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/01/2010,"35 Charnwood Heath, Clonsilla, Dublin 15",Dublin,297000.0,No,Clonsilla,Dublin 15,q3,70%
+13/01/2010,"36 The Meadows, Grange Road, Clonsilla",Dublin,151750.0,No,Clonsilla,Dublin 15,q1,20%
+22/01/2010,"16 Mount Symon Close, Clonsilla, Dublin",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+22/01/2010,"3 Ashfield Gardens, Clonsilla, Dublin 15",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+29/01/2010,"35 Charnwood Park, Clonsilla, Dublin 15",Dublin,301000.0,No,Clonsilla,Dublin 15,q3,80%
+01/02/2010,"47 Charnwood Heath, Clonsilla, Dublin",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+03/02/2010,"6 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+04/02/2010,"20 Aspen Lawns, Clonsilla, D 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+04/02/2010,"9 Allendale Lawn, Clonsilla, Dublin 15",Dublin,272000.0,No,Clonsilla,Dublin 15,q3,70%
+15/02/2010,"11 St Mochtas Close, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q3,80%
+16/02/2010,"12 Elmwood, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+16/02/2010,"7 Portersgate Lawn, Clonsilla, Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+25/02/2010,"23 Castlefield Park, Clonsilla, Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+01/03/2010,"25 Charnwood Dale, Clonsilla",Dublin,343500.0,No,Clonsilla,Dublin 15,q4,90%
+01/03/2010,"Apt. 27, Allendale Square, Clonsilla",Dublin,168000.0,No,Clonsilla,Dublin 15,q1,20%
+26/03/2010,"53 The Courtyard, Clonsilla, Dublin 15",Dublin,172000.0,No,Clonsilla,Dublin 15,q1,20%
+31/03/2010,"21 Ravenswood Avenue, Clonsilla",Dublin,238000.0,No,Clonsilla,Dublin 15,q2,50%
+01/04/2010,"24 Sheepmoor Lawn, Clonsilla",Dublin,130000.0,No,Clonsilla,Dublin 15,q1,10%
+07/04/2010,"5 Cherryfield Walk, Hartstown, Clonsilla",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+09/04/2010,"20 Inglewood Road, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+09/04/2010,"8 Portersgate Grove, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+16/04/2010,"15 Mount Symon Lawn, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+22/04/2010,"127 Clonsilla Road, Clonsilla",Dublin,328790.0,No,Clonsilla,Dublin 15,q4,90%
+28/04/2010,"16 Allendale Elms, Clonsilla, Dublin 15",Dublin,193000.0,No,Clonsilla,Dublin 15,q1,30%
+29/04/2010,"21 St Mochtas Green, Clonsilla, Dublin 15",Dublin,233000.0,No,Clonsilla,Dublin 15,q2,50%
+30/04/2010,"23 St Mochtas Road, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+04/05/2010,"25 Ravenswood Crescent, Clonsilla",Dublin,225500.0,No,Clonsilla,Dublin 15,q2,40%
+05/05/2010,"92 Lohunda Park, Clonsilla, Dublin",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+06/05/2010,"16 Charnwood Park, Clonsilla",Dublin,311000.0,No,Clonsilla,Dublin 15,q4,80%
+07/05/2010,"16 Oak View Rise, Clonsilla",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+10/05/2010,"2 Limelawn Green, Clonsilla, Dublin 15",Dublin,326000.0,No,Clonsilla,Dublin 15,q4,80%
+11/05/2010,"13 Mount Symon Park, Clonsilla, D I5",Dublin,208000.0,No,Clonsilla,Dublin 15,q2,40%
+17/05/2010,"41  Charnwood Heath, Clonsilla",Dublin,295000.0,No,Clonsilla,Dublin 15,q3,70%
+31/05/2010,"2 Allendale Terrace, Clonsilla",Dublin,261000.0,No,Clonsilla,Dublin 15,q3,60%
+31/05/2010,"46 Windmill Terrace, Clonsilla",Dublin,185000.0,No,Clonsilla,Dublin 15,q1,30%
+03/06/2010,"102 Huntstown Wood, Clonsilla",Dublin,155000.0,No,Clonsilla,Dublin 15,q1,20%
+04/06/2010,"27 St Mochtas Avenue, Clonsilla, Dublin 15",Dublin,239000.0,No,Clonsilla,Dublin 15,q2,50%
+17/06/2010,"2 Allendale Rise, Clonsilla",Dublin,256000.0,No,Clonsilla,Dublin 15,q3,60%
+19/06/2010,"4 Lachford Terrace, Clonsilla, Dublin 15",Dublin,242290.0,Yes,Clonsilla,Dublin 15,q2,50%
+25/06/2010,"31 Meadow Drive, Clonsilla",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+29/06/2010,"58 Windermere, Clonsilla",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+01/07/2010,"10 Allendale Place, Clonsilla",Dublin,233000.0,No,Clonsilla,Dublin 15,q2,50%
+08/07/2010,"74 Briarwood Avenue, Clonsilla, Dublin 15",Dublin,177500.0,No,Clonsilla,Dublin 15,q1,20%
+09/07/2010,"1 Huntstown Wood, Clonsilla, D 15",Dublin,168000.0,No,Clonsilla,Dublin 15,q1,20%
+09/07/2010,"34 Portersgate Avenue, Clonsilla, Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+13/07/2010,"62 The Courtyard, Clonsilla",Dublin,213000.0,No,Clonsilla,Dublin 15,q2,40%
+19/07/2010,"16 Castlegrange Park, Clonsilla",Dublin,240000.0,Yes,Clonsilla,Dublin 15,q2,50%
+22/07/2010,"39 Briarwood Lawn, Clonsilla, D 15",Dublin,136000.0,No,Clonsilla,Dublin 15,q1,10%
+23/07/2010,"46 Ashfield Green, Clonsilla, Dublin 15",Dublin,194000.0,No,Clonsilla,Dublin 15,q1,30%
+27/07/2010,"13 Mount Symon Crescent, Clonsilla",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+27/07/2010,"66 Phibblestown House, Clonsilla, Dublin 15",Dublin,161000.0,No,Clonsilla,Dublin 15,q1,20%
+06/08/2010,"23 Huntstown Avenue, Clonsilla, Dublin 15",Dublin,193000.0,No,Clonsilla,Dublin 15,q1,30%
+06/08/2010,"75 Portersfield Apts, Clonsilla, Dublin 15",Dublin,165000.0,No,Clonsilla,Dublin 15,q1,20%
+11/08/2010,"27 Castlefield Court, Clonsilla",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+16/08/2010,"19 Charnwood Lawns, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+26/08/2010,"11 Hayworth Mews, Ongar Place, Clonsilla",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+01/09/2010,"7 Allendale Rise, Phibblestown, Clonsilla",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+03/09/2010,"37 Shelerin Road, Clonsilla",Dublin,280000.0,No,Clonsilla,Dublin 15,q3,70%
+06/09/2010,"3 Willow Drive, Clonsilla, Dublin 15",Dublin,194500.0,No,Clonsilla,Dublin 15,q1,30%
+07/09/2010,"15 Shelerin Road, Clonsilla",Dublin,238500.0,No,Clonsilla,Dublin 15,q2,50%
+08/09/2010,"12 St Mochtas Lawn, Coolmine Lodge, Clonsilla",Dublin,352659.0,No,Clonsilla,Dublin 15,q4,90%
+15/09/2010,"68 Willow Wood Grove, Clonsilla, Dublin 15",Dublin,183000.0,No,Clonsilla,Dublin 15,q1,30%
+17/09/2010,"162 Lohunda Downs, Clonsilla",Dublin,188000.0,No,Clonsilla,Dublin 15,q1,30%
+22/09/2010,"12 Ashfield Grove, Clonsilla",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+24/09/2010,"85 Briarwood Ave, Clonsilla, D 15",Dublin,178000.0,No,Clonsilla,Dublin 15,q1,20%
+27/09/2010,"7 Hazelwood Crescent, Clonsilla, Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+29/09/2010,"13 Briarwood Lawn, Clonsilla, Dublin 15",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+08/10/2010,"1 Elmwood Close, Clonsilla, Dublinn 15",Dublin,15000.0,No,Clonsilla,Dublin 15,q1,10%
+13/10/2010,"3 Windemere, Clonsilla",Dublin,282000.0,No,Clonsilla,Dublin 15,q3,70%
+13/10/2010,"8 Willow Wood Downs, Clonsilla",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+15/10/2010,"12 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,285000.0,No,Clonsilla,Dublin 15,q3,70%
+15/10/2010,"60 The Courtyard, Clonsilla, Dublin 15",Dublin,227500.0,No,Clonsilla,Dublin 15,q2,50%
+15/10/2010,"Arva Cottage, Clonsilla, Dublin 15",Dublin,115000.0,No,Clonsilla,Dublin 15,q1,10%
+19/10/2010,"3 Limelawn Glade, Clonsilla",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+21/10/2010,"78 Willow Wood Grove, Clonsilla",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+22/10/2010,"3 Sorrell Drive, Clonsilla",Dublin,308500.0,No,Clonsilla,Dublin 15,q3,80%
+29/10/2010,"16 Cherryfield Park, Hartstown, Clonsilla",Dublin,125000.0,No,Clonsilla,Dublin 15,q1,10%
+04/11/2010,"53 Aldemere Drive, Clonsilla, Dublin",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+05/11/2010,"6 Ravenswood Drive, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+12/11/2010,"35 Castlefield Woods, Clonsilla",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+15/11/2010,"38 Castlefield Woods, Clonsilla, Dublin 15",Dublin,295000.0,No,Clonsilla,Dublin 15,q3,70%
+17/11/2010,"96 Allendale Square, Clonsilla",Dublin,164950.0,No,Clonsilla,Dublin 15,q1,20%
+19/11/2010,"17 Allendale Grove, Clonsilla",Dublin,207000.0,No,Clonsilla,Dublin 15,q2,40%
+03/12/2010,"21 Cherryfield Court, Clonsilla",Dublin,144000.0,No,Clonsilla,Dublin 15,q1,10%
+10/12/2010,"28 Huntstown Wood, Clonsilla",Dublin,132500.0,No,Clonsilla,Dublin 15,q1,10%
+22/12/2010,"37 Elmwood, Clonsilla, Dublin",Dublin,185000.0,No,Clonsilla,Dublin 15,q1,30%
+23/12/2010,"10 Inglewood Drive, Clonsilla",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+07/01/2011,"114 Huntstown Avenue, Clonsilla",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+07/01/2011,"68 Castlefield Woods, Clonsilla",Dublin,288750.0,No,Clonsilla,Dublin 15,q3,70%
+12/01/2011,"91 Castlefield Court, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+17/01/2011,"17 St Mcchtas Close, Clonsilla, Dublin 15",Dublin,223000.0,No,Clonsilla,Dublin 15,q2,40%
+17/01/2011,"29 Sorrel Dale, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+24/01/2011,"26 Meadow Drive, Clonsilla, Dublin 15",Dublin,182000.0,No,Clonsilla,Dublin 15,q1,30%
+28/01/2011,"33 Glenealy Downs, Clonsilla, Dublin 15",Dublin,157950.0,No,Clonsilla,Dublin 15,q1,20%
+28/01/2011,"92 Castlefield Woods, Clonsilla, Dublin",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+10/02/2011,"3 Charnwood Avenue, Clonsilla",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+18/02/2011,"8 Allendale Lawn, Clonsilla",Dublin,130000.0,No,Clonsilla,Dublin 15,q1,10%
+25/02/2011,"48 Allendale Rise, Clonsilla",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+01/03/2011,"22 Pinebrook Heights, Clonsilla, Dublin 15",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+09/03/2011,"21 Allendale Close, Clonsilla",Dublin,218000.0,No,Clonsilla,Dublin 15,q2,40%
+16/03/2011,"5 St Mochta'S Avenue, Coolmine  Clonsilla",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+22/03/2011,"3 Woodvale Grove, Clonsilla, Dublin 15",Dublin,158000.0,No,Clonsilla,Dublin 15,q1,20%
+31/03/2011,"20 Whitechapel Road, Clonsilla",Dublin,132500.0,No,Clonsilla,Dublin 15,q1,10%
+11/04/2011,"15 Mount Symon Avenue, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+15/04/2011,"86 Lambourne Park, Clonsilla",Dublin,285000.0,No,Clonsilla,Dublin 15,q3,70%
+22/04/2011,"7 Glenville Grove, Clonsilla",Dublin,257000.0,No,Clonsilla,Dublin 15,q3,60%
+29/04/2011,"15 Mount Symon Dale, Clonsilla",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+06/05/2011,"31 Portersgate Court, Clonsilla, Dublin 15",Dublin,226000.0,No,Clonsilla,Dublin 15,q2,40%
+27/05/2011,"39 Castlewood, Castaheany, Clonsilla",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+31/05/2011,"79 Beechwood Downs, Clonsilla",Dublin,165000.0,No,Clonsilla,Dublin 15,q1,20%
+23/06/2011,"44 Castlefield Woods, Clonsilla",Dublin,277500.0,No,Clonsilla,Dublin 15,q3,70%
+24/06/2011,"208 Briarwood Lawns, Clonsilla",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+27/06/2011,"19 Oakview Avenue, Clonsilla",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+04/07/2011,"16 Sorell Drive, Clonsilla",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+13/07/2011,"30 Meadow Way, Clonsilla, Dublin 15",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+14/07/2011,"160 Lohunda Downs, Clonsilla, Dublin 15",Dublin,121000.0,No,Clonsilla,Dublin 15,q1,10%
+14/07/2011,"32 Lohunda Drive, Clonsilla",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+15/07/2011,"97 Portersfield, Clonsilla D 15",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+21/07/2011,"22 Limelawn Rise, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+29/07/2011,"41 Ashfield Gardens, Clonsilla, Dublin 15",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+12/08/2011,"17 Aspen Avenue, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+16/08/2011,"69 Pinebrook Vale, Clonsilla",Dublin,125000.0,No,Clonsilla,Dublin 15,q1,10%
+23/08/2011,"60 Beechwood Downs, Hartstown, Clonsilla",Dublin,85000.0,No,Clonsilla,Dublin 15,q1,10%
+01/09/2011,"3 Pinebrook Downs, Clonsilla",Dublin,60000.0,No,Clonsilla,Dublin 15,q1,10%
+02/09/2011,"4 Ravenswood Rise, Clonsilla",Dublin,197000.0,No,Clonsilla,Dublin 15,q2,30%
+09/09/2011,"31 Charnwood Grove, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+16/09/2011,"16 Delhurst Park, Ongar Park, Clonsilla",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+16/09/2011,"50 Beechwood Downs, Clonsilla",Dublin,121000.0,No,Clonsilla,Dublin 15,q1,10%
+16/09/2011,"98A Pinebrook Vale, Clonsilla",Dublin,182000.0,No,Clonsilla,Dublin 15,q1,30%
+30/09/2011,"14 Alendale, Clonsilla",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+07/10/2011,"46 Castlefield Woods, Clonsilla",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+14/10/2011,"39 Huntstown, Clonsilla",Dublin,263500.0,No,Clonsilla,Dublin 15,q3,60%
+17/10/2011,"31 Inglewood Drive, Clonsilla",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+27/10/2011,"4 Charnwood Meadows, Clonsilla",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+28/10/2011,"18 Mount Symon Avenue, Clonsilla, Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+28/10/2011,"31 Sorrel Heath, Clonsilla",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+28/10/2011,"92 Willow Wood Grove, Clonsilla, Dublin 15",Dublin,135000.0,No,Clonsilla,Dublin 15,q1,10%
+01/11/2011,"24 Sorrel Dale, Clonsilla",Dublin,250000.0,No,Clonsilla,Dublin 15,q2,50%
+04/11/2011,"12 Oakview Way, Clonsilla, Dublin 15",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+04/11/2011,"47 Oakview Avenue, Hartstown, Clonsilla",Dublin,154000.0,No,Clonsilla,Dublin 15,q1,20%
+11/11/2011,"30 Castelfield Woods, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q2,50%
+11/11/2011,"8 Larchgrove, Clonsilla Road",Dublin,80000.0,No,Clonsilla,Dublin 15,q1,10%
+16/11/2011,"102 Willow Wood Grove, Clonsilla",Dublin,185000.0,No,Clonsilla,Dublin 15,q1,30%
+17/11/2011,"5 St Mochtas Close, Clonsilla",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+23/11/2011,"5 Allendale View, Clonsilla, Dublin 15",Dublin,172000.0,No,Clonsilla,Dublin 15,q1,20%
+28/11/2011,"37 Ravenswood Avenue, Clonsilla, Dublin 15",Dublin,174000.0,No,Clonsilla,Dublin 15,q1,20%
+02/12/2011,"22 Aspen Avenue, Aspen Woods, Clonsilla",Dublin,299000.0,No,Clonsilla,Dublin 15,q3,80%
+09/12/2011,"36  Charnwood Grove, Clonsilla",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+13/12/2011,"46 Aspen Avenue, Clonsilla",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+16/12/2011,"7 Charnwood Meadows, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+19/12/2011,"5 Allendale Drive, Clonsilla, Dublin 15",Dublin,192000.0,No,Clonsilla,Dublin 15,q1,30%
+20/12/2011,"14 Sorrell Dale, Clonsilla",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+21/12/2011,"8 Allendale Drive, Clonsilla, Dublin 15",Dublin,189000.0,No,Clonsilla,Dublin 15,q1,30%
+22/12/2011,"57 Huntstown Wood, Clonsilla, Dublin 15",Dublin,129950.0,No,Clonsilla,Dublin 15,q1,10%
+23/12/2011,"33 Stonebridge Avenue, Clonsilla, Dublin",Dublin,133000.0,No,Clonsilla,Dublin 15,q1,10%
+15/01/2012,"37 Westhaven, Clonsilla, Dublin",Dublin,133000.0,No,Clonsilla,Dublin 15,q1,10%
+19/01/2012,"157 Briarwood Close, Clonsilla, Dublin 15",Dublin,125500.0,No,Clonsilla,Dublin 15,q1,10%
+26/01/2012,"28 Oakview Avenue, Clonsilla",Dublin,142000.0,No,Clonsilla,Dublin 15,q1,10%
+27/01/2012,"21 Charnwood Court, Clonsilla",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+31/01/2012,"16 Sheepmoor Way, Clonsilla",Dublin,117500.0,No,Clonsilla,Dublin 15,q1,10%
+02/02/2012,"28 Meadow Way, Clonsilla",Dublin,155000.0,No,Clonsilla,Dublin 15,q1,20%
+03/02/2012,"48 Windemere, Clonsilla",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+03/02/2012,"48 Windemere, Clonsilla",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+10/02/2012,"101 Cherryfield Lawn, Hartstown, Clonsilla",Dublin,130000.0,No,Clonsilla,Dublin 15,q1,10%
+17/02/2012,"21 Mount Symon Close, Clonsilla",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+24/02/2012,"14 Portersgate Grove, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+29/02/2012,"14 Station Court Park, Clonsilla",Dublin,144000.0,No,Clonsilla,Dublin 15,q1,10%
+29/02/2012,"20  Charnwood Gardens, Clonsilla",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+23/03/2012,"23 Charnwood Gardens, Clonsilla",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+23/03/2012,"53 Lambourn Avenue, Clonsilla, Dublin 15",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+23/03/2012,"7 Sorrel Drive, Clonsilla",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+29/03/2012,"14 Oakview Rise, Clonsilla",Dublin,159000.0,No,Clonsilla,Dublin 15,q1,20%
+02/04/2012,"8 Charnwood Meadows, Clonsilla, Dublin 15",Dublin,125000.0,No,Clonsilla,Dublin 15,q1,10%
+04/04/2012,"24 Mount Symon Green, Clonsilla, Dublin 15",Dublin,196000.0,No,Clonsilla,Dublin 15,q2,30%
+05/04/2012,"21 Portersgate Crescent, Clonsilla",Dublin,246500.0,No,Clonsilla,Dublin 15,q2,50%
+12/04/2012,"10 Allendale Glade, Clonsilla",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+25/04/2012,"21 Woodvale Garth, Clonsilla",Dublin,96000.0,No,Clonsilla,Dublin 15,q1,10%
+26/04/2012,"9 Portersgate Lawn, Clonsilla",Dublin,214000.0,No,Clonsilla,Dublin 15,q2,40%
+01/05/2012,"16 Portersgate Avenue, Clonsilla, Dublin 15",Dublin,185000.0,No,Clonsilla,Dublin 15,q1,30%
+01/05/2012,"2 Allendale Place, Clonsilla",Dublin,189000.0,No,Clonsilla,Dublin 15,q1,30%
+05/05/2012,"6 Portersgate Lawn, Clonsilla",Dublin,218000.0,No,Clonsilla,Dublin 15,q2,40%
+11/05/2012,"85 Castlefield Court, Clonsilla",Dublin,155000.0,No,Clonsilla,Dublin 15,q1,20%
+17/05/2012,"24 Castlewood, Clonsilla",Dublin,95000.0,No,Clonsilla,Dublin 15,q1,10%
+23/05/2012,"3 Lohunda Green, Parkview, Clonsilla",Dublin,115000.0,No,Clonsilla,Dublin 15,q1,10%
+24/05/2012,"24 Inglewood Drive, Clonsilla",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+05/06/2012,"18 Ashfield Way, Clonsilla",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+14/06/2012,"27 Station Court Way, Clonsilla, Dublin 12",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+15/06/2012,"18 Huntstown Road, Clonsilla, Dublin 15",Dublin,140000.0,No,Clonsilla,Dublin 15,q1,10%
+18/06/2012,"50 Huntstown Court, Clonsilla",Dublin,129000.0,No,Clonsilla,Dublin 15,q1,10%
+22/06/2012,"33 Delhurst Terrace, Ongar Park, Clonsilla",Dublin,133000.0,No,Clonsilla,Dublin 15,q1,10%
+27/06/2012,"12 Willows Road, Hartstown, Clonsilla",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+11/07/2012,"73 Inglewood Road, Clonsilla",Dublin,99000.0,No,Clonsilla,Dublin 15,q1,10%
+12/07/2012,"8 Portersgate Close, Clonsilla",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+13/07/2012,"28 Mount Symon Avenue, Clonsilla",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+20/07/2012,"47 Portersgate Court, Clonsilla, Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+20/07/2012,"8  Charnwood Dale, Clonsilla",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+24/07/2012,"14 St. Mochta'S Vale, Coolmine Lodge, Clonsilla",Dublin,178000.0,No,Clonsilla,Dublin 15,q1,20%
+27/07/2012,"13 Charnwood Park, Clonsilla",Dublin,250000.0,No,Clonsilla,Dublin 15,q2,50%
+27/07/2012,"15 Limelawn Glade, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q2,50%
+30/07/2012,"44 Glenealy Downs, Clonsilla",Dublin,165000.0,No,Clonsilla,Dublin 15,q1,20%
+31/07/2012,"2 Limelawn Glade, Clonsilla",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+03/08/2012,"36 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,188000.0,No,Clonsilla,Dublin 15,q1,30%
+03/08/2012,"70 Pinebrook Vale, Clonsilla",Dublin,120000.0,No,Clonsilla,Dublin 15,q1,10%
+10/08/2012,"10 St Mochtas Close, Clonsilla, Dublin 15",Dublin,167000.0,No,Clonsilla,Dublin 15,q1,20%
+13/08/2012,"84 Castlefield Court, Clonsilla",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+16/08/2012,"3 Blakes Court, Blakestown Rd, Clonsilla",Dublin,92500.0,No,Clonsilla,Dublin 15,q1,10%
+31/08/2012,"13 Portersgate Rise, Clonsilla",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+17/09/2012,"11 The Orchard, Clonsilla",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+20/09/2012,"3 Portersgate Close, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+20/09/2012,"31 Charnwood Park, Clonsilla, Dublin 15",Dublin,237000.0,No,Clonsilla,Dublin 15,q2,50%
+20/09/2012,"4 Kirkfield Cottages, Clonsilla",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+21/09/2012,"140 Lohunda Downs, Clonsilla",Dublin,120000.0,No,Clonsilla,Dublin 15,q1,10%
+21/09/2012,"22 Lohunda Park, Clonsilla",Dublin,205233.0,No,Clonsilla,Dublin 15,q2,40%
+21/09/2012,"27 Coolmine Park, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+24/09/2012,"11 St Mochtas Glen, Clonsilla, Dublin 15",Dublin,222000.0,No,Clonsilla,Dublin 15,q2,40%
+24/09/2012,"114 Huntstown Rise, Clonsilla",Dublin,123000.0,No,Clonsilla,Dublin 15,q1,10%
+28/09/2012,"11 Ashcroft Grove, Clonsilla, Dublin 15",Dublin,110000.0,No,Clonsilla,Dublin 15,q1,10%
+01/10/2012,"25 Charnwood Court, Clonsilla",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+02/10/2012,"9 Orchard Avenue, Clonsilla",Dublin,146000.0,No,Clonsilla,Dublin 15,q1,10%
+09/10/2012,"30 Lohunda Crescent, Clonsilla, Dublin 15",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+09/10/2012,"35 Ingewood Drive, Clonsilla",Dublin,149950.0,No,Clonsilla,Dublin 15,q1,20%
+17/10/2012,"36 Lohunda Road, Clonsilla",Dublin,174000.0,No,Clonsilla,Dublin 15,q1,20%
+22/10/2012,"4 Castlefield Woods, Clonsilla",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+24/10/2012,"8 Willows Court, Clonsilla",Dublin,144000.0,No,Clonsilla,Dublin 15,q1,10%
+26/10/2012,"23 Charnwood Dale, Clonsilla",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+30/10/2012,"12 Pinebrook Lawn, Hartstown, Clonsilla",Dublin,130000.0,No,Clonsilla,Dublin 15,q1,10%
+02/11/2012,"7 Charnwood Dale, Clonsilla",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+13/11/2012,"23 Cherryfield Walk, Clonsilla, Dublin 15",Dublin,105000.0,No,Clonsilla,Dublin 15,q1,10%
+16/11/2012,"16 Charnwood Dale, Clonsilla",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+16/11/2012,"52 Hazelwood Avenue, Clonsilla, Dublin15",Dublin,98000.0,No,Clonsilla,Dublin 15,q1,10%
+19/11/2012,"31 Clonsilla Road, Clonsilla, Dublin 15",Dublin,248000.0,No,Clonsilla,Dublin 15,q2,50%
+26/11/2012,"4 Hazelwood Avenue, Hartestown, Clonsilla",Dublin,140000.0,No,Clonsilla,Dublin 15,q1,10%
+26/11/2012,"45 Charnwood Park, Clonsilla",Dublin,241500.0,No,Clonsilla,Dublin 15,q2,50%
+28/11/2012,"2 Allendale Elms, Clonsilla, Dublin 15",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+28/11/2012,"98 Pinewood Vale, Clonsilla, Dublin 15",Dublin,115000.0,No,Clonsilla,Dublin 15,q1,10%
+29/11/2012,"30 St. Mochtas Avenue, Clonsilla",Dublin,192000.0,No,Clonsilla,Dublin 15,q1,30%
+05/12/2012,"10 Cherryfield Walk, Clonsilla",Dublin,114500.0,No,Clonsilla,Dublin 15,q1,10%
+05/12/2012,"48 Meadow Copse, Clonsilla, Dublin 15",Dublin,126000.0,No,Clonsilla,Dublin 15,q1,10%
+07/12/2012,"23 Charnwood Court, Clonsilla, Dublin 15",Dublin,219000.0,No,Clonsilla,Dublin 15,q2,40%
+07/12/2012,"69 Windermere, Clonsilla",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+10/12/2012,"38 Pinebrook View, Clonsilla, Dublin 15",Dublin,90000.0,No,Clonsilla,Dublin 15,q1,10%
+13/12/2012,"40 Lohunda Downs, Clonsilla",Dublin,120000.0,No,Clonsilla,Dublin 15,q1,10%
+14/12/2012,"1 Saint Mochta'S Green, Clonsilla",Dublin,174000.0,No,Clonsilla,Dublin 15,q1,20%
+17/12/2012,"32 Willowwood View, Clonsilla, Dublin",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+18/12/2012,"25 Charnwood Dale, Clonsilla, Dublin 15",Dublin,329000.0,No,Clonsilla,Dublin 15,q4,90%
+18/12/2012,"29 Beechwood Downs, Clonsilla",Dublin,141000.0,No,Clonsilla,Dublin 15,q1,10%
+18/12/2012,"58 Sorrel Heath, Sorrel Park, Clonsilla",Dublin,252000.0,No,Clonsilla,Dublin 15,q3,60%
+20/12/2012,"13 Cherryfield Close, Clonsilla",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+20/12/2012,"6 Cherryfield Walk, Clonsilla, Dublin 15",Dublin,90000.0,No,Clonsilla,Dublin 15,q1,10%
+21/12/2012,"2 Allendale Drive, Clonsilla",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+28/01/2013,"5 Limelawn Court, Clonsilla, Dublin 15",Dublin,277500.0,No,Clonsilla,Dublin 15,q3,70%
+01/02/2013,"22 Ashfield Way, Hartstown, Clonsilla",Dublin,117000.0,No,Clonsilla,Dublin 15,q1,10%
+05/02/2013,"24 Lohunda Downs, Clonsilla",Dublin,152000.0,No,Clonsilla,Dublin 15,q1,20%
+13/02/2013,"2 Lambourn Avenue, Clonsilla, Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+26/02/2013,"15 Charnwood Meadows, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+01/03/2013,"32 Allendale Terrace, Clonsilla",Dublin,157500.0,No,Clonsilla,Dublin 15,q1,20%
+07/03/2013,"14 Station Court Way, Clonsilla, Dublin 15",Dublin,117500.0,No,Clonsilla,Dublin 15,q1,10%
+08/03/2013,"44 Castlefield Park, Clonsilla",Dublin,125000.0,No,Clonsilla,Dublin 15,q1,10%
+14/03/2013,"25 Lohunda Park, Clonsilla",Dublin,224500.0,No,Clonsilla,Dublin 15,q2,40%
+27/03/2013,"4 Hazelwood Court, Clonsilla, Dublin 15",Dublin,130000.0,No,Clonsilla,Dublin 15,q1,10%
+27/03/2013,"5 Hazel Wood Green, Clonsilla, Dublin 15",Dublin,155000.0,No,Clonsilla,Dublin 15,q1,20%
+28/03/2013,"14 Elwood, Clonsilla",Dublin,116000.0,No,Clonsilla,Dublin 15,q1,10%
+04/04/2013,"1 Larch Grove, Clonsilla",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+10/04/2013,"6 Charnwood Dale, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+15/04/2013,"11 Huntstown Avenue, Clonsilla",Dublin,155000.0,No,Clonsilla,Dublin 15,q1,20%
+17/04/2013,"56 Aspen Avenue, Clonsilla, Dublin 13",Dublin,137500.0,No,Clonsilla,Dublin 15,q1,10%
+22/04/2013,"26 Huntstown Wood, Clonsilla",Dublin,184950.0,No,Clonsilla,Dublin 15,q1,30%
+30/04/2013,"21 Lohunda Drive, Clonsilla",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+03/05/2013,"3 Limelawn Rise, Clonsilla, Dublin 15",Dublin,283000.0,No,Clonsilla,Dublin 15,q3,70%
+07/05/2013,"24 Pinebrook Vale, Clonsilla, Dublin 15",Dublin,135000.0,No,Clonsilla,Dublin 15,q1,10%
+15/05/2013,"11 Coolmine Mews, Clonsilla, Dublin 15",Dublin,191250.0,No,Clonsilla,Dublin 15,q1,30%
+15/05/2013,"19 Ravenswood Lawn, Clonsilla",Dublin,173000.0,No,Clonsilla,Dublin 15,q1,20%
+16/05/2013,"11 Whitechapel Grove, Clonsilla, Dublin 15",Dublin,100000.0,No,Clonsilla,Dublin 15,q1,10%
+22/05/2013,"7 Charnwood Court, Clonsilla",Dublin,226000.0,No,Clonsilla,Dublin 15,q2,40%
+27/05/2013,"9 Lohunda Dale, Clonsilla, Dublin 15",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+28/05/2013,"54 Ashfield Green, Clonsilla",Dublin,120000.0,No,Clonsilla,Dublin 15,q1,10%
+31/05/2013,"24 Hunstown Green, Clonsilla",Dublin,165000.0,No,Clonsilla,Dublin 15,q1,20%
+04/06/2013,"27 Sorrel Dale, Clonsilla",Dublin,272000.0,No,Clonsilla,Dublin 15,q3,70%
+12/06/2013,"24 Westhaven, Clonsilla",Dublin,142000.0,No,Clonsilla,Dublin 15,q1,10%
+12/06/2013,"50A  Beechwood Downs, Hartstown, Clonsilla",Dublin,80000.0,No,Clonsilla,Dublin 15,q1,10%
+14/06/2013,"40A Elmwood, Clonsilla, Dublin 15",Dublin,172000.0,No,Clonsilla,Dublin 15,q1,20%
+18/06/2013,"2 Blakes Court, Clonsilla, Blakestown Road",Dublin,111000.0,No,Clonsilla,Dublin 15,q1,10%
+19/06/2013,"34 Limelawn Hill, Clonsilla, Dublin 15",Dublin,276000.0,No,Clonsilla,Dublin 15,q3,70%
+21/06/2013,"69 Portersfield, Clonsilla",Dublin,130000.0,No,Clonsilla,Dublin 15,q1,10%
+21/06/2013,"8 Castlefield Park, Clonsilla, Dublin 15",Dublin,311000.0,No,Clonsilla,Dublin 15,q4,80%
+28/06/2013,"28 Cherryfield Walk, Clonsilla",Dublin,105000.0,No,Clonsilla,Dublin 15,q1,10%
+28/06/2013,"55 Glenealy Downs, Clonsilla, Dublin 15",Dublin,176000.0,No,Clonsilla,Dublin 15,q1,20%
+01/07/2013,"19 Woodvale Grove, Clonsilla",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+05/07/2013,"4 Mount Symon Green, Clonsilla",Dublin,250000.0,No,Clonsilla,Dublin 15,q2,50%
+08/07/2013,"11 Elmwood, Clonsilla",Dublin,164000.0,No,Clonsilla,Dublin 15,q1,20%
+10/07/2013,"16 Portersfield, Clonsilla",Dublin,140000.0,No,Clonsilla,Dublin 15,q1,10%
+10/07/2013,"47 Castlefield Park, Clonsilla",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+17/07/2013,"33 Cherryfield Court, Clonsilla",Dublin,116000.0,No,Clonsilla,Dublin 15,q1,10%
+17/07/2013,"39 Lohunda Downs, Clonsilla, Dublin 15",Dublin,172000.0,No,Clonsilla,Dublin 15,q1,20%
+19/07/2013,"30 Hazelwood Crescent, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+26/07/2013,"2 Lohunda Crescent, Clonsilla",Dublin,196000.0,No,Clonsilla,Dublin 15,q2,30%
+30/07/2013,"42 Willow Wood Lawn, Clonsilla, Huntstown",Dublin,147000.0,No,Clonsilla,Dublin 15,q1,10%
+30/07/2013,"96 Portersfield, Clonsilla Road, Dublin 15",Dublin,155000.0,No,Clonsilla,Dublin 15,q1,20%
+31/07/2013,"7 St. Mochta'S Close, Clonsilla",Dublin,198000.0,No,Clonsilla,Dublin 15,q2,30%
+07/08/2013,"38, Phibblestown Wood, Clonsilla",Dublin,137000.0,No,Clonsilla,Dublin 15,q1,10%
+09/08/2013,"54 The Courtyard, Clonsilla",Dublin,125500.0,No,Clonsilla,Dublin 15,q1,10%
+15/08/2013,"42 Glenealy Downs, Clonsilla, Dublin 15",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+16/08/2013,"11 Allendale Place, Clonsilla",Dublin,145400.0,No,Clonsilla,Dublin 15,q1,10%
+16/08/2013,"21 Huntstown Green, Clonsilla",Dublin,147500.0,No,Clonsilla,Dublin 15,q1,10%
+16/08/2013,"26 Hazelwood Crescent, Clonsilla, Dublin 15",Dublin,130000.0,No,Clonsilla,Dublin 15,q1,10%
+23/08/2013,"6 Mount Symon Park, Clonsilla",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+03/09/2013,"12 Portersgate Heights, Clonsilla",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+03/09/2013,"67 Windemere, Clonsilla, Dublin 15",Dublin,214950.0,No,Clonsilla,Dublin 15,q2,40%
+04/09/2013,"39 Cherryfield Close, Clonsilla, Dublin 15",Dublin,132500.0,No,Clonsilla,Dublin 15,q1,10%
+05/09/2013,"41 Meadow Way, Clonsilla, Dublin",Dublin,125000.0,No,Clonsilla,Dublin 15,q1,10%
+06/09/2013,"2 Coolmine Lane, Coolmine, Clonsilla",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+13/09/2013,"105 Lohunda Park, Clonsilla, Dublin 15",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+24/09/2013,"4 Mount Symon Dale, Clonsilla",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+30/09/2013,"62  Allendale Rise, Clonsilla",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+01/10/2013,"20 Portersgate Green, Clonsilla",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+01/10/2013,"90 Castlefield Court, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+08/10/2013,"15 Kirkpatrick Drive, Clonsilla  Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+11/10/2013,"84 Lohunda Downs, Clonsilla",Dublin,147000.0,No,Clonsilla,Dublin 15,q1,10%
+21/10/2013,"'Pax', Weaver'S Row, Clonsilla Village",Dublin,249000.0,No,Clonsilla,Dublin 15,q2,50%
+21/10/2013,"8 Pinebrook Heights, Clonsilla",Dublin,120000.0,No,Clonsilla,Dublin 15,q1,10%
+23/10/2013,"21 Stonebridge Avenue, Clonsilla",Dublin,122000.0,No,Clonsilla,Dublin 15,q1,10%
+23/10/2013,"70 Annaly Grove, Clonsilla",Dublin,87000.0,No,Clonsilla,Dublin 15,q1,10%
+25/10/2013,"39 Windemere, Grange Road, Clonsilla",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+29/10/2013,"42 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,212000.0,No,Clonsilla,Dublin 15,q2,40%
+30/10/2013,"2 St. Mochtas Lawn, Coolmine, Clonsilla",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+30/10/2013,"47 Charnwood Park, Clonsilla, Dublin",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+30/10/2013,"70 Portersfield, Clonsilla Road",Dublin,125000.0,No,Clonsilla,Dublin 15,q1,10%
+04/11/2013,"3 Westhaven, Clonsilla, Dublin 15",Dublin,144000.0,No,Clonsilla,Dublin 15,q1,10%
+06/11/2013,"12 Stonebridge Avenue, Clonsilla, Dublin 15",Dublin,110000.0,No,Clonsilla,Dublin 15,q1,10%
+14/11/2013,"32 Meadow Drive, Hartstown, Clonsilla",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+15/11/2013,"30 Mount Symon Green, Clonsilla, Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+19/11/2013,"41B Meadow Way, Clonsilla, Dublin 15",Dublin,135000.0,No,Clonsilla,Dublin 15,q1,10%
+21/11/2013,"48 Carne Court, Clonsilla, Dublin",Dublin,151000.0,No,Clonsilla,Dublin 15,q1,20%
+22/11/2013,"1 Portersfield, Clonsilla Rd, Coolmine Dublin 15",Dublin,95000.0,No,Clonsilla,Dublin 15,q1,10%
+26/11/2013,"3  The Courtyard, Clonsilla Road",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+27/11/2013,"1 Allendale View, Clonsilla, Dublin 15",Dublin,218000.0,No,Clonsilla,Dublin 15,q2,40%
+28/11/2013,"2 Allendale Copse, Clonsilla, Dublin 15",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+28/11/2013,"5 Charnwood Dale, Clonsilla, Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+29/11/2013,"33 Limelawn Rise, Clonsilla, Dublin 15",Dublin,266000.0,No,Clonsilla,Dublin 15,q3,60%
+02/12/2013,"41A Meadow Way, Clonsilla, Dublin 15",Dublin,120000.0,No,Clonsilla,Dublin 15,q1,10%
+03/12/2013,"13 Ferndale, Clonsilla, Dublin 15",Dublin,172500.0,No,Clonsilla,Dublin 15,q1,20%
+04/12/2013,"13 Hazelwood Ave, Clonsilla, Dublin 15",Dublin,185000.0,No,Clonsilla,Dublin 15,q1,30%
+09/12/2013,"18 Allendale Close, Clonsilla, Dublin 15",Dublin,208000.0,No,Clonsilla,Dublin 15,q2,40%
+10/12/2013,"2 Stralem Mews, Ongarwood, Clonsilla Dublin 15",Dublin,182000.0,No,Clonsilla,Dublin 15,q1,30%
+10/12/2013,"46 Castlefield Park, Clonsilla, Dublin 15",Dublin,292000.0,No,Clonsilla,Dublin 15,q3,70%
+10/12/2013,"7 Portersgate Heights, Clonsilla, Dublin 15",Dublin,286000.0,No,Clonsilla,Dublin 15,q3,70%
+17/12/2013,"21 Portersgate Heights, Clonsilla, Dublin 15",Dublin,292000.0,No,Clonsilla,Dublin 15,q3,70%
+17/12/2013,"4 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,295000.0,No,Clonsilla,Dublin 15,q3,70%
+17/12/2013,"43 Westhaven, Clonsilla, Dublin 15",Dublin,152500.0,No,Clonsilla,Dublin 15,q1,20%
+18/12/2013,"1 Windmill Sq, Porterstown, Clonsilla",Dublin,117000.0,No,Clonsilla,Dublin 15,q1,10%
+18/12/2013,"30 Clonsilla Rd, Clonsilla, Dublin",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+19/12/2013,"18 Meadow Way, Hartstown, Clonsilla Dublin 15",Dublin,176000.0,No,Clonsilla,Dublin 15,q1,20%
+19/12/2013,"32 Huntstown Court, Clonsilla Dublin 15, Dublin",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+19/12/2013,"9 Charnwood Meadows, Clonsilla, Dublin 15",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+20/12/2013,"36 Pinebrook Heights, Hartstown, Clonsilla Dublin 15",Dublin,112000.0,No,Clonsilla,Dublin 15,q1,10%
+31/12/2013,"139 Allendale Square, Clonsilla, Dublin 15",Dublin,88000.0,No,Clonsilla,Dublin 15,q1,10%
+22/01/2014,"25 Charnwood Grove, Clonsilla, Dublin 15",Dublin,238000.0,No,Clonsilla,Dublin 15,q2,50%
+27/01/2014,"29 Mount Symon Lawn, Clonsilla, Dublin 15",Dublin,120000.0,No,Clonsilla,Dublin 15,q1,10%
+31/01/2014,"98 Westhaven, Clonsilla, Dublin",Dublin,165000.0,No,Clonsilla,Dublin 15,q1,20%
+03/02/2014,"16 Aspen Lawn, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+13/02/2014,"69 Whitesdown Drive, Clonsilla, Dublin 15",Dublin,83000.0,No,Clonsilla,Dublin 15,q1,10%
+14/02/2014,"6 Elmwood, Hartstown, Clonsilla",Dublin,157000.0,No,Clonsilla,Dublin 15,q1,20%
+17/02/2014,"46 Portersgate Close, Portersgate, Clonsilla",Dublin,272000.0,No,Clonsilla,Dublin 15,q3,70%
+18/02/2014,"1 Larchgrove, Clonsilla",Dublin,185022.0,Yes,Clonsilla,Dublin 15,q1,30%
+25/02/2014,"43 Windermere, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+27/02/2014,"12 St Mochtas Dr, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+27/02/2014,"42 Allendale Square, Clonsilla, Dublin 15",Dublin,127000.0,No,Clonsilla,Dublin 15,q1,10%
+06/03/2014,"18 Charnwood Court, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q2,50%
+14/03/2014,"1 Weavers Walk, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+14/03/2014,"An Oisean, Old Post Office, Clonsilla Dublin 15",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+21/03/2014,"5 Allendale Place, Phibblestown, Clonsilla Dublin 15",Dublin,154000.0,No,Clonsilla,Dublin 15,q1,20%
+25/03/2014,"50 Phillibstown House, Clonsilla, Dublin 15",Dublin,107000.0,No,Clonsilla,Dublin 15,q1,10%
+28/03/2014,"23 Stonebridge Dkiv, Clonsilla Dublin 5, Dublin",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+28/03/2014,"62 Allendale Sq, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+31/03/2014,"7 Limelawn Court, Clonsilla, Dublin 15",Dublin,307000.0,No,Clonsilla,Dublin 15,q3,80%
+03/04/2014,"13 Pinebrook Heights, Clonsilla, Dublin 15",Dublin,82750.0,No,Clonsilla,Dublin 15,q1,10%
+04/04/2014,"11 Mount Symon Close, Clonsilla, Dublin 15",Dublin,280000.0,No,Clonsilla,Dublin 15,q3,70%
+04/04/2014,"36 Castlefield Woods, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+14/04/2014,"34 Cherryfield Park, Hartstown, Clonsilla Dublin 15",Dublin,162000.0,No,Clonsilla,Dublin 15,q1,20%
+15/04/2014,"3 Allendale Glen, Allendale, Clonsilla Dublin 15",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+17/04/2014,"1 Hayworth Court, Ongar, Clonsilla",Dublin,132000.0,No,Clonsilla,Dublin 15,q1,10%
+17/04/2014,"17 Ravenswood Ave, Clonsilla, Dublin 15",Dublin,249950.0,No,Clonsilla,Dublin 15,q2,50%
+17/04/2014,"24 Charnwood Green, Clonsilla, Dublin 15",Dublin,332500.0,No,Clonsilla,Dublin 15,q4,90%
+17/04/2014,"44 Aspen Ave, Clonsilla, Dublin 15",Dublin,313000.0,No,Clonsilla,Dublin 15,q4,80%
+23/04/2014,"15 Windmill Court, Clonsilla, Dublin 15",Dublin,135000.0,No,Clonsilla,Dublin 15,q1,10%
+25/04/2014,"1 Portersgate Heights, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+25/04/2014,"18 Mount Symon Ave, Clonsilla, Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+30/04/2014,"2 Blakes Court, Blakestown Road, Clonsilla",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+30/04/2014,"21 Windmill Terrace, Clonsilla, Dublin 15",Dublin,100000.0,No,Clonsilla,Dublin 15,q1,10%
+06/05/2014,"10 Castlefield Park, Clonsilla, Dublin 15",Dublin,380000.0,No,Clonsilla,Dublin 15,q4,100%
+07/05/2014,"11 Limelawn Green, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+08/05/2014,"40 Castlefield Woods, Clonsilla, Dublin 15",Dublin,335000.0,No,Clonsilla,Dublin 15,q4,90%
+09/05/2014,"39 Portersgate, Heights Clonsilla, Dublin 15",Dublin,317000.0,No,Clonsilla,Dublin 15,q4,80%
+16/05/2014,"Apt 15, Phibblestown House, Clonsilla Dublin 15",Dublin,111111.0,No,Clonsilla,Dublin 15,q1,10%
+19/05/2014,"16 Allendale Terrace, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+19/05/2014,"26 Kirkpatrick Drive, Clonsilla, Dublin 15",Dublin,269500.0,No,Clonsilla,Dublin 15,q3,60%
+27/05/2014,"5 Cherryfield Court, Clonsilla, Dublin 15",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+28/05/2014,"13 Ravenswood Rd, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+28/05/2014,"34 Portersgate Heights, Clonsilla, Dublin 15",Dublin,269000.0,No,Clonsilla,Dublin 15,q3,60%
+03/06/2014,"18 Inglewood Close, Clonsilla",Dublin,252000.0,No,Clonsilla,Dublin 15,q3,60%
+09/06/2014,"1 Annaly Dr, Ongar Park, Clonsilla Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+09/06/2014,"11 Summerfield Ave, Clonsilla Rd, Dublin 15",Dublin,272500.0,No,Clonsilla,Dublin 15,q3,70%
+11/06/2014,"74 Castlefield Court, Clonsilla, Dublin 15",Dublin,272000.0,No,Clonsilla,Dublin 15,q3,70%
+16/06/2014,"7 Aldemere Close, Clonsilla, Dublin 15",Dublin,313000.0,No,Clonsilla,Dublin 15,q4,80%
+17/06/2014,"3 Cedar Gr, Clonsilla, Dublin 15",Dublin,216000.0,No,Clonsilla,Dublin 15,q2,40%
+18/06/2014,"17 Stationcourt Way, Clonsilla, Dublin 15",Dublin,105000.0,No,Clonsilla,Dublin 15,q1,10%
+23/06/2014,"16 Porters Gate Heights, Clonsilla Dublin 15, Dublin",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+23/06/2014,"16 Portersgate Close, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+24/06/2014,"The Gables, Luttrellstown, Clonsilla",Dublin,902500.0,No,Clonsilla,Dublin 15,q4,100%
+27/06/2014,"52 Lohunda Park, Clonsilla, Dublin",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+30/06/2014,"24 Castlefield Woods, Clonsilla",Dublin,341000.0,No,Clonsilla,Dublin 15,q4,90%
+30/06/2014,"28 Windmill Terrace Porterstown, Clonsilla Dublin 1, Dublin",Dublin,176000.0,No,Clonsilla,Dublin 15,q1,20%
+03/07/2014,"10 Pinebrook Heights, Clonsilla, Dublin 15",Dublin,161000.0,No,Clonsilla,Dublin 15,q1,20%
+04/07/2014,"19 Elmwood Close, Clonsilla",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+11/07/2014,"30 Whitestown Park, Clonsilla, Dublin 15",Dublin,144000.0,No,Clonsilla,Dublin 15,q1,10%
+11/07/2014,"46 Windermere, Clonsilla, Dublin 15",Dublin,312000.0,No,Clonsilla,Dublin 15,q4,80%
+14/07/2014,"4 Ravenswood Crescent, Clonsilla, Dublin 15",Dublin,224950.0,No,Clonsilla,Dublin 15,q2,40%
+14/07/2014,"88 Castlefield Woods, Clonsilla, Dublin 15",Dublin,346000.0,No,Clonsilla,Dublin 15,q4,90%
+15/07/2014,"11 Ashmount, Clonsilla",Dublin,151900.0,No,Clonsilla,Dublin 15,q1,20%
+15/07/2014,"9 Allendale Court, Clonsilla",Dublin,141800.0,No,Clonsilla,Dublin 15,q1,10%
+18/07/2014,"45 Portersfield, Coolmine, Clonsilla Dublin 15",Dublin,211000.0,No,Clonsilla,Dublin 15,q2,40%
+18/07/2014,"Patsys, Westmanstown, Clonsilla Dublin 15",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+21/07/2014,"19 Woodlands, Blakestown Rd, Clonsilla Dublin 15",Dublin,80000.0,No,Clonsilla,Dublin 15,q1,10%
+21/07/2014,"63 Oakview Ave, Hartstown, Clonsilla",Dublin,227500.0,No,Clonsilla,Dublin 15,q2,50%
+23/07/2014,"56 Castlefield Court, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+25/07/2014,"18 Shelerin Rd, Clonsilla, Dublin 16",Dublin,298000.0,No,Clonsilla,Dublin 15,q3,70%
+25/07/2014,"20 Mount Symon Park, Clonsilla, Dublin 15",Dublin,287000.0,No,Clonsilla,Dublin 15,q3,70%
+30/07/2014,"15 The Meadows, Grange Road, Clonsilla",Dublin,121100.0,Yes,Clonsilla,Dublin 15,q1,10%
+30/07/2014,"26 Oakview Ave, Clonsilla, Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+30/07/2014,"40 Meadow Copse, Clonsilla, Dublin 15",Dublin,140000.0,No,Clonsilla,Dublin 15,q1,10%
+30/07/2014,"47 Elmwood, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+31/07/2014,"25 Phibblestown House, Phibblestown Ave, Clonsilla Dublin 15",Dublin,102000.0,No,Clonsilla,Dublin 15,q1,10%
+04/08/2014,"4 Castlefield Court, Clonsilla, Dublin 15",Dublin,327000.0,No,Clonsilla,Dublin 15,q4,90%
+08/08/2014,"20 Windermere, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+08/08/2014,"25 Ashfield Grove, Clonsilla, Dublin 15",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+08/08/2014,"7 Woodvale Park, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q2,50%
+11/08/2014,"4 The Meadows, Grange Road, Clonsilla",Dublin,125425.0,Yes,Clonsilla,Dublin 15,q1,10%
+14/08/2014,"56 Allendale Sq, Clonsilla, Dublin 15",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+18/08/2014,"54 Castlefield Court, Clonsilla, Dublin 15",Dublin,257500.0,No,Clonsilla,Dublin 15,q3,60%
+19/08/2014,"34 Inglewood Dr, Clonsilla, Dublin 15",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+19/08/2014,"79 Ravenswood Crescent, Clonsilla, Dublin 15",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+20/08/2014,"22 St Mochtas Green, Clonsilla, Dublin 15",Dublin,257000.0,No,Clonsilla,Dublin 15,q3,60%
+21/08/2014,"58 St Mochtas Green, Clonsilla Dublin 15, Dublin",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+22/08/2014,"50 Allendale Rise, Clonsilla, Dublin 15",Dublin,242000.0,No,Clonsilla,Dublin 15,q2,50%
+25/08/2014,"3 Pinebrook Heights, Clonsilla, Dublin 15",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+26/08/2014,"15 Lohunda Green, Clonsilla, Dublin 15",Dublin,203000.0,No,Clonsilla,Dublin 15,q2,30%
+01/09/2014,"30 Portersfield, Clonsilla Rd, Clonsilla Dublin 15",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+04/09/2014,"10 Mount Symon Lawn, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+04/09/2014,"18 The Meadows, Grange Road, Clonsilla",Dublin,100000.0,No,Clonsilla,Dublin 15,q1,10%
+04/09/2014,"4 Coolmine Woods, Clonsilla, Dublin 15",Dublin,390000.0,No,Clonsilla,Dublin 15,q4,100%
+05/09/2014,"13 Lohunda Crescent, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+08/09/2014,"16 St Mochtas Vale, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+08/09/2014,"61 Carne Court, Huntstown, Clonsilla Dublin 15",Dublin,222000.0,No,Clonsilla,Dublin 15,q2,40%
+09/09/2014,"14 Cherryfield Lawn, Hartstown, Clonsilla Dublin 15",Dublin,199950.0,No,Clonsilla,Dublin 15,q2,30%
+09/09/2014,"5 Delhurst Mews, Ongar Park, Clonsilla Dublin 15",Dublin,211000.0,No,Clonsilla,Dublin 15,q2,40%
+09/09/2014,"92 Westhaven, Clonsilla, Dublin",Dublin,197000.0,No,Clonsilla,Dublin 15,q2,30%
+11/09/2014,"22 Delhurst Mews, Ongar Park, Clonsilla",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+12/09/2014,"1 St Mochtas Chase, Clonsilla, Dublin",Dublin,276800.0,No,Clonsilla,Dublin 15,q3,70%
+12/09/2014,"1A Larch Grove, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+15/09/2014,"11 Porters Gate Rise, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+16/09/2014,"23 Kirkpatrick Ave, Coolmine Rd, Clonsilla Dublin 15",Dublin,390000.0,No,Clonsilla,Dublin 15,q4,100%
+19/09/2014,"23 Meadow Copse, Hartstown, Clonsilla Dublin 15",Dublin,199950.0,No,Clonsilla,Dublin 15,q2,30%
+19/09/2014,"24 The Meadows, Grange Road, Clonsilla",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+19/09/2014,"70 Windermere, Clonsilla, Dublin 15",Dublin,222000.0,No,Clonsilla,Dublin 15,q2,40%
+22/09/2014,"16 The Meadows, Grange Road, Clonsilla",Dublin,100000.0,No,Clonsilla,Dublin 15,q1,10%
+23/09/2014,"5 Latchford Dr, Clonsilla, Dublin 15",Dublin,236000.0,No,Clonsilla,Dublin 15,q2,50%
+24/09/2014,"17 Portersgate Avenue, Clonsilla",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+25/09/2014,"48 Portersgate Heights, Clonsilla, Dublin 15",Dublin,285000.0,No,Clonsilla,Dublin 15,q3,70%
+26/09/2014,"1 Willow Wood Green, Hartstown, Clonsilla Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+26/09/2014,"113 Fortlawn Park, Clonsilla, Dublin 15",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+02/10/2014,"26 Lohunda Crescent, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q2,50%
+02/10/2014,"3 Barberstown, Clonsilla, Dublin 15",Dublin,430000.0,No,Clonsilla,Dublin 15,q4,100%
+03/10/2014,"22 The Meadows, Grange Road, Clonsilla",Dublin,135000.0,No,Clonsilla,Dublin 15,q1,10%
+03/10/2014,"28 Limelawn Hill, Clonsilla, Dublin 15",Dublin,268000.0,No,Clonsilla,Dublin 15,q3,60%
+06/10/2014,"14 Ashfield Green, Huntstown, Clonsilla Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+08/10/2014,"21 Huntstown Dr, Clonsilla, Dublin 15",Dublin,182500.0,No,Clonsilla,Dublin 15,q1,30%
+09/10/2014,"7 The Cottages, Blakestown, Clonsilla",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+10/10/2014,"14 Mount Symon Close, Clonsilla, Dublin 15",Dublin,342000.0,No,Clonsilla,Dublin 15,q4,90%
+10/10/2014,"14 Mount Symon Close, Clonsilla, Dublin 15",Dublin,342000.0,No,Clonsilla,Dublin 15,q4,90%
+10/10/2014,"7 Stationcourt Way, Clonsilla Rd, Coolmine Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+15/10/2014,"26 Charnwood Grove, Clonsilla, Dublin 15",Dublin,296000.0,No,Clonsilla,Dublin 15,q3,70%
+16/10/2014,"55 Pinebrook Vale, Huntstown, Clonsilla Dublin 15",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+16/10/2014,"88 Portersfield, Clonsilla, Dublin 15",Dublin,185000.0,No,Clonsilla,Dublin 15,q1,30%
+17/10/2014,"13 Charnwood Lawns, Clonsilla, Dublin 15",Dublin,353000.0,No,Clonsilla,Dublin 15,q4,90%
+22/10/2014,"44 Castlewood, Huntstown, Clonsilla Dublin 15",Dublin,80000.0,No,Clonsilla,Dublin 15,q1,10%
+22/10/2014,"87 Lohunda Park, Clonsilla, Dublin",Dublin,188000.0,No,Clonsilla,Dublin 15,q1,30%
+23/10/2014,"22 Meadow Dr, Hartstown, Clonsilla Dublin 15",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+24/10/2014,"11 Lambourn Court, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+24/10/2014,"6 Inglewood Close, Clonsilla, Dublin 15",Dublin,231000.0,No,Clonsilla,Dublin 15,q2,50%
+31/10/2014,"12 Hunstown Avenue, Clonsilla, Dublin",Dublin,206000.0,No,Clonsilla,Dublin 15,q2,40%
+31/10/2014,"3 Allendale Green, Phibblestown, Clonsilla Dublin 15",Dublin,302000.0,No,Clonsilla,Dublin 15,q3,80%
+31/10/2014,"4 Springlawn Heights, Clonsilla, Dublin 15",Dublin,356000.0,No,Clonsilla,Dublin 15,q4,90%
+31/10/2014,"56 Allendale Dr, Clonsilla, Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+04/11/2014,"31 Woodvale Dr, Clonsilla, Dublin 15",Dublin,253000.0,No,Clonsilla,Dublin 15,q3,60%
+05/11/2014,"10 Charnwood Green, Clonsilla, Dublin 15",Dublin,351000.0,No,Clonsilla,Dublin 15,q4,90%
+07/11/2014,"3 Limelawn Wood, Limelawn Park, Clonsilla Dublin 15",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+07/11/2014,"71 Windermere, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+07/11/2014,"8 St Mochtas Chase, Clonsilla, Dublin 15",Dublin,248000.0,No,Clonsilla,Dublin 15,q2,50%
+12/11/2014,"13 Lohunda Downs, Clonsilla, Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+12/11/2014,"9 Oakview Grove, Hartstown, Clonsilla Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q2,50%
+13/11/2014,"116 The Village, Porterstown, Clonsilla Dublin 15",Dublin,242000.0,No,Clonsilla,Dublin 15,q2,50%
+14/11/2014,"9 Willows Green, Hartstown Rd, Clonsilla Dublin 15",Dublin,189000.0,No,Clonsilla,Dublin 15,q1,30%
+15/11/2014,"38 Aspen Ave, Clonsilla, Dublin 15",Dublin,355000.0,No,Clonsilla,Dublin 15,q4,90%
+18/11/2014,"70 The Village, Porterstown Rd, Clonsilla Dublin 15",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+18/11/2014,"9 Charnwood Gardens, Clonsilla, Dublin 15",Dublin,340000.0,No,Clonsilla,Dublin 15,q4,90%
+20/11/2014,"150 Briorwood Ave, Clonsilla, Dublin 15",Dublin,199000.0,No,Clonsilla,Dublin 15,q2,30%
+21/11/2014,"9 Pinbrook Vale, Clonsilla, Dublin 15",Dublin,188000.0,No,Clonsilla,Dublin 15,q1,30%
+26/11/2014,"21 Lohunda Downs, Clonsilla, Dublin 15",Dublin,225000.0,No,Clonsilla,Dublin 15,q2,40%
+26/11/2014,"45 Phibblestown House, Clonsilla, Dublin 15",Dublin,149000.0,No,Clonsilla,Dublin 15,q1,20%
+27/11/2014,"31 Lime Lawn, Clonsilla, Dublin 15",Dublin,355000.0,No,Clonsilla,Dublin 15,q4,90%
+28/11/2014,"27 Lime Lawn Rise, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+28/11/2014,"83 Fortlawn Dr, Mountview, Clonsilla Dublin 15",Dublin,120031.0,No,Clonsilla,Dublin 15,q1,10%
+30/11/2014,"1A Elmwood Close, Clonsilla, Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+01/12/2014,"6 Mount Symon Lawn, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+09/12/2014,"17 Lohunda Rd, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q2,50%
+10/12/2014,"20 Windermere, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+11/12/2014,"64 Woodvale Ave, Clonsilla, Dublin",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+12/12/2014,"10 Castlefield Court, Clonsilla",Dublin,352500.0,No,Clonsilla,Dublin 15,q4,90%
+12/12/2014,"11 Pinebrook Heights, Hartstown, Clonsilla Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+15/12/2014,"12 Ravenswood Green, Hansfield Rd, Clonsilla Dublin 15",Dublin,310500.0,No,Clonsilla,Dublin 15,q4,80%
+15/12/2014,"60 St Mochtas Green, Clonsilla Dublin 15, Dublin",Dublin,252500.0,No,Clonsilla,Dublin 15,q3,60%
+16/12/2014,"122 Portersfield, Clonsilla",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+17/12/2014,"34 Beechwood Downs, Hartstown, Clonsilla Dublin 15",Dublin,125000.0,No,Clonsilla,Dublin 15,q1,10%
+17/12/2014,"44 Stonebridge Ave, Clonsilla, Dublin 15",Dublin,209950.0,No,Clonsilla,Dublin 15,q2,40%
+19/12/2014,"13 Kirkpatrick Dr, Clonsilla, Dublin 15",Dublin,365000.0,No,Clonsilla,Dublin 15,q4,90%
+19/12/2014,"23 St Mochtas Chase, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+22/12/2014,"1 Station View, Clonsilla, Dublin 15",Dublin,219839.0,No,Clonsilla,Dublin 15,q2,40%
+22/12/2014,"18 Pinebrook Vale, Clonsilla, Dublin 15",Dublin,169459.0,No,Clonsilla,Dublin 15,q1,20%
+22/12/2014,"2 Station View, Clonsilla, Dublin 15",Dublin,210679.0,No,Clonsilla,Dublin 15,q2,40%
+22/12/2014,"20 Allendale Elms, Clonsilla, Dublin 15",Dublin,246000.0,No,Clonsilla,Dublin 15,q2,50%
+22/12/2014,"21 Mount Symon Lawn, Clonsilla, Dublin 15",Dublin,265639.0,No,Clonsilla,Dublin 15,q3,60%
+22/12/2014,"23 Ravenswood View, Ongar, Clonsilla",Dublin,224419.0,No,Clonsilla,Dublin 15,q2,40%
+22/12/2014,"3 Station View, Clonsilla, Dublin 15",Dublin,210679.0,No,Clonsilla,Dublin 15,q2,40%
+22/12/2014,"31 Huntstown Drive, Clonsilla",Dublin,174039.0,No,Clonsilla,Dublin 15,q1,20%
+22/12/2014,"5 Station View, Clonsilla, Dublin 15",Dublin,174039.0,No,Clonsilla,Dublin 15,q1,20%
+22/12/2014,"55 Castlefield Court, Clonsilla, Dublin 15",Dublin,337000.0,No,Clonsilla,Dublin 15,q4,90%
+22/12/2014,"56 Huntstown Dr, Clonsilla, Dublin 15",Dublin,151139.0,No,Clonsilla,Dublin 15,q1,20%
+23/12/2014,"26 St Mochtas Rd, Clonsilla, Dublin 15",Dublin,294000.0,No,Clonsilla,Dublin 15,q3,70%
+05/01/2015,"42 The Courtyard, Clonsilla",Dublin,140000.0,No,Clonsilla,Dublin 15,q1,10%
+09/01/2015,"44 Charnwood Grove, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+13/01/2015,"26 Windermere, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+16/01/2015,"28 Portersgate Way, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+16/01/2015,"38 Lohunda Dr, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,60%
+16/01/2015,"44 Castlefield Park, Clonsilla, Dublin 15",Dublin,410000.0,No,Clonsilla,Dublin 15,q4,100%
+19/01/2015,"20 Mount Symon Close, Clonsilla",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+19/01/2015,"60 Allendale Rise, Clonsilla, Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+22/01/2015,"2 The Meadows, Grange Rd, Clonsilla Dublin 15",Dublin,130500.0,No,Clonsilla,Dublin 15,q1,10%
+23/01/2015,"26 Huntstown Ave, Clonsilla, Dublin 15",Dublin,152000.0,No,Clonsilla,Dublin 15,q1,20%
+23/01/2015,"9 Oakview Way, Hartstown, Clonsilla Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+28/01/2015,"17 Allendale Glen, Clonsilla, Dublin 15",Dublin,217000.0,No,Clonsilla,Dublin 15,q2,40%
+30/01/2015,"36 Hazelwood Cresent, Clonsilla, Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+30/01/2015,"62 Huntstown Wood, Clonsilla, Dublin 15",Dublin,157500.0,No,Clonsilla,Dublin 15,q1,20%
+02/02/2015,"15 The Courtyard, Clonsilla, Dublin 15",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+05/02/2015,"11 Charnwood Green, Clonsilla, Dublin 15",Dublin,390000.0,No,Clonsilla,Dublin 15,q4,100%
+09/02/2015,"75 Lambourne Park, Clonsilla, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+10/02/2015,"41 Portersfield, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+12/02/2015,"26 Charnwood Court, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+13/02/2015,"12 Charnwood Court, Clonsilla, Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+13/02/2015,"66 Castlefield Court, Clonsilla, Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+16/02/2015,"11 Weavers Hall, Clonsilla, Dublin 15",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+16/02/2015,"9 St Mochtas Green, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+19/02/2015,"30 Aspen Ave, Aspen Wood, Clonsilla Dublin 15",Dublin,370000.0,No,Clonsilla,Dublin 15,q4,100%
+19/02/2015,"5 Weavers Walk, Clonsilla",Dublin,264316.0,Yes,Clonsilla,Dublin 15,q3,60%
+19/02/2015,"98A Pinebrook Vale, Clonsilla, Dublin",Dublin,229000.0,No,Clonsilla,Dublin 15,q2,50%
+27/02/2015,"11 Delhurst Mews, Ongar Park, Clonsilla Dublin 15",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+27/02/2015,"35 Manorfields Walk, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+04/03/2015,"11 St Mochtas Avenue, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+04/03/2015,"27 Oakview Avenue, Hartstown, Clonsilla",Dublin,237000.0,No,Clonsilla,Dublin 15,q2,50%
+04/03/2015,"34 Allendale Drive, Clonsilla, Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+06/03/2015,"15 Willow Wood Downs, Clonsilla, Dublin",Dublin,147500.0,No,Clonsilla,Dublin 15,q1,10%
+09/03/2015,"10 The Meadows, Clonsilla, Dublin 15",Dublin,140000.0,No,Clonsilla,Dublin 15,q1,10%
+12/03/2015,"8 Allendale Terrace, Clonsilla, Dublin 15",Dublin,135000.0,No,Clonsilla,Dublin 15,q1,10%
+16/03/2015,"17 Cherryfield View, Hartstown, Clonsilla",Dublin,186000.0,No,Clonsilla,Dublin 15,q1,30%
+18/03/2015,"13 Allendale Rise, Clonsilla, Dublin 15",Dublin,207500.0,No,Clonsilla,Dublin 15,q2,40%
+18/03/2015,"30 Allendale Terrace, Clonsilla, Dublin 15",Dublin,185000.0,No,Clonsilla,Dublin 15,q1,30%
+19/03/2015,"22 Charnwood Dale, Clonsilla, Dublin 15",Dublin,339000.0,No,Clonsilla,Dublin 15,q4,90%
+24/03/2015,"1 Woodsland, Blakestown Rd, Clonsilla Dublin 15",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+31/03/2015,"35 Delhurst Terrace, Ongar Park, Clonsilla Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+01/04/2015,"13 Portersgate Crescent, Portersgate, Clonsilla Dublin 15",Dublin,184000.0,No,Clonsilla,Dublin 15,q1,30%
+01/04/2015,"66 The Village, Porterstown, Clonsilla",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+10/04/2015,"10 Willow Wood View, Hartstown Rd, Clonsilla Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+10/04/2015,"5 Lohunda Close, Clonsilla, Dublin 15",Dublin,207000.0,No,Clonsilla,Dublin 15,q2,40%
+10/04/2015,"5 Sorrel Dale, Clonsilla, Dublin 15",Dublin,355000.0,No,Clonsilla,Dublin 15,q4,90%
+10/04/2015,"58 Castlefield Court, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+10/04/2015,"7 St Mochtas Glen, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,70%
+13/04/2015,"3 Phibblestown House, Clonsilla",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+14/04/2015,"99 Huntstown Wood, Clonsilla, Dublin 15",Dublin,141000.0,No,Clonsilla,Dublin 15,q1,10%
+15/04/2015,"23 Allendale View, Phibblestown, Clonsilla",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+21/04/2015,"54 Allendale Dr, Clonsilla, Dublin 15",Dublin,229000.0,No,Clonsilla,Dublin 15,q2,50%
+21/04/2015,"The Lodge, Orchard Ave, Clonsilla",Dublin,304000.0,No,Clonsilla,Dublin 15,q3,80%
+22/04/2015,"11 Sorrel Dale, Sorrel Park, Clonsilla",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+22/04/2015,"11 Wooovale Crescent, Clonsilla Dublin 15, Dublin",Dublin,252000.0,No,Clonsilla,Dublin 15,q3,60%
+28/04/2015,"48 The Courtyard, Clonsilla, Dublin 15",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+30/04/2015,"18A Inglewood Rd, Clonsilla, Dublin",Dublin,192500.0,No,Clonsilla,Dublin 15,q1,30%
+30/04/2015,"27 Windermere, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+30/04/2015,"67 Willow Wood View, Hartstown, Clonsilla",Dublin,217000.0,No,Clonsilla,Dublin 15,q2,40%
+05/05/2015,"61 Carne Court, Huntstown, Clonsilla Dublin 15",Dublin,252000.0,No,Clonsilla,Dublin 15,q3,60%
+13/05/2015,"Apt 6, The Meadows, Clonsilla Dublin 15",Dublin,166000.0,No,Clonsilla,Dublin 15,q1,20%
+14/05/2015,"1 Mount Symon Lawn, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+14/05/2015,"13 Windermere, Grange Rd, Clonsilla Dublin 15",Dublin,280000.0,No,Clonsilla,Dublin 15,q3,70%
+14/05/2015,"23 Meadow Way, Hartstown, Clonsilla Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+15/05/2015,"26 Charnwood Heath, Clonsilla, Dublin 15",Dublin,345000.0,No,Clonsilla,Dublin 15,q4,90%
+15/05/2015,"52 Carne Court, Huntstown, Clonsilla Dublin 15",Dublin,127000.0,No,Clonsilla,Dublin 15,q1,10%
+18/05/2015,"4 Mount Symon Green, Portersgate, Clonsilla",Dublin,318000.0,No,Clonsilla,Dublin 15,q4,80%
+19/05/2015,"22 Portersfield, Clonsilla Rd, Dublin 15",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+20/05/2015,"41A Huntstown Drive, Clonsilla",Dublin,189000.0,No,Clonsilla,Dublin 15,q1,30%
+20/05/2015,"Apt 11 Ongar Lodge, Clonsilla, Dublin 15",Dublin,219000.0,No,Clonsilla,Dublin 15,q2,40%
+21/05/2015,"15 Delhurst Mews, Ongar Park, Clonsilla Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+25/05/2015,"8 Cherryfield Court, Clonsilla, Dublin 15",Dublin,181000.0,No,Clonsilla,Dublin 15,q1,30%
+26/05/2015,"16 The Meadows, Grange Road, Clonsilla",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+26/05/2015,"2A Huntstown Green, Clonsilla, Dublin 15",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+28/05/2015,"1 Windemere, Grange Road, Clonsilla",Dublin,29500.0,No,Clonsilla,Dublin 15,q1,10%
+29/05/2015,"11 Limelawn Row, Clonsilla Rd, Clonsilla Dublin 15",Dublin,309000.0,No,Clonsilla,Dublin 15,q3,80%
+29/05/2015,"64 Carne Court, Clonsilla Dublin 15, Dublin",Dublin,213000.0,No,Clonsilla,Dublin 15,q2,40%
+02/06/2015,"1 Meadow Dale Hartstown, Clonsilla Dublin 15, Dublin",Dublin,234000.0,No,Clonsilla,Dublin 15,q2,50%
+04/06/2015,"1 St. Mochtas Avenue, Coolmine, Clonsilla",Dublin,267500.0,No,Clonsilla,Dublin 15,q3,60%
+04/06/2015,"16 Portersgate Close, Clonsilla, Dublin 15",Dublin,15000.0,No,Clonsilla,Dublin 15,q1,10%
+04/06/2015,"174 Huntstown Wood, Clonsilla, Dublin 15",Dublin,155000.0,No,Clonsilla,Dublin 15,q1,20%
+04/06/2015,"23 Allendale Close, Clonsilla, Dublin 15",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+05/06/2015,"18 Charnwood Grove, Clonsilla, Dublin 15",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+05/06/2015,"35 Allendale Dr, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+10/06/2015,"20 Lohunda Downs, Clonsilla, Dublin 15",Dublin,212000.0,No,Clonsilla,Dublin 15,q2,40%
+12/06/2015,"152 Lohunda Downs, Clonsilla, Dublin 15",Dublin,177000.0,No,Clonsilla,Dublin 15,q1,20%
+12/06/2015,"26 Shelerin Rd, Clonsilla, Dublin",Dublin,298413.0,No,Clonsilla,Dublin 15,q3,80%
+12/06/2015,"32 Willow Wood Park, Clonsilla, Dublin 15",Dublin,215500.0,No,Clonsilla,Dublin 15,q2,40%
+12/06/2015,"6 Weavers Walk, Clonsilla, Dublin 15",Dublin,252048.45,Yes,Clonsilla,Dublin 15,q3,60%
+18/06/2015,"25 Meadow Copse, Hartstown, Clonsilla Dublin 15",Dublin,199000.0,No,Clonsilla,Dublin 15,q2,30%
+18/06/2015,"40 Sorrell Heath, Clonsilla",Dublin,365000.0,No,Clonsilla,Dublin 15,q4,90%
+19/06/2015,"21 Castlefield Woods, Clonsilla, Dublin 15",Dublin,391000.0,No,Clonsilla,Dublin 15,q4,100%
+19/06/2015,"3 Allendale View, Clonsilla, Dublin 15",Dublin,242000.0,No,Clonsilla,Dublin 15,q2,50%
+24/06/2015,"4 Castlefield Park, Clonsilla, Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+29/06/2015,"44 Lohunda Dr, Clonsilla, Dublin",Dublin,282500.0,No,Clonsilla,Dublin 15,q3,70%
+30/06/2015,"35 Aldemere Dr, Clonsilla, Dublin 15",Dublin,324000.0,No,Clonsilla,Dublin 15,q4,80%
+02/07/2015,"64 Willow Wood Grove, Clonsilla, Dublin",Dublin,216000.0,No,Clonsilla,Dublin 15,q2,40%
+03/07/2015,"13 Charnwood Dale, Clonsilla, Dublin 3",Dublin,352000.0,No,Clonsilla,Dublin 15,q4,90%
+03/07/2015,"43 Elmwood, Hartstown, Clonsilla",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+03/07/2015,"5 St Mochtas Vale, Clonsilla, Dublin 15",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+07/07/2015,"61 Lambourn Ave, Clonsilla, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+09/07/2015,"10A Oakview Lawn, Clonsilla, Dublin 15",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+09/07/2015,"51 Inglewood Road, Clonsilla, Dublin 15",Dublin,183000.0,No,Clonsilla,Dublin 15,q1,30%
+09/07/2015,"8 St Mochtas Lawn, Clonsilla, Dublin 15",Dublin,283000.0,No,Clonsilla,Dublin 15,q3,70%
+10/07/2015,"21 Pinebrook Lawn, Huntstown, Clonsilla Dublin 15",Dublin,227000.0,No,Clonsilla,Dublin 15,q2,40%
+13/07/2015,"114 Portersfield, Clonsilla, Dublin 15",Dublin,185000.0,No,Clonsilla,Dublin 15,q1,30%
+16/07/2015,"11 Willow Wood Lawn, Hartstown, Clonsilla",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+16/07/2015,"76 Pinebrook Vale, Clonsilla, Dublin 15",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+20/07/2015,"7 St. Mochtas Vale, Clonsilla",Dublin,285000.0,No,Clonsilla,Dublin 15,q3,70%
+21/07/2015,"5 Cherryfield Walk, Hartstown, Clonsilla",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+24/07/2015,"29 Glenville Green, Clonsilla, Dublin 15",Dublin,366000.0,No,Clonsilla,Dublin 15,q4,100%
+24/07/2015,"66 Lohunda Downs, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+24/07/2015,"90 Stonebridge Rd, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+29/07/2015,"10 Willows Drive, Clonsilla",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+29/07/2015,"15 Allendale Grove, Clonsilla, Dublin 15",Dublin,257000.0,No,Clonsilla,Dublin 15,q3,60%
+05/08/2015,"41 Inglewood Drive, Clonsilla",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+05/08/2015,"46 Carne Court, Huntstown, Clonsilla Dublin 15",Dublin,283000.0,No,Clonsilla,Dublin 15,q3,70%
+05/08/2015,"9 Limelawn Wood, Clonsilla, Dublin 15",Dublin,363000.0,No,Clonsilla,Dublin 15,q4,90%
+06/08/2015,"24 Cherryfield Walk, Clonsilla Dublin 15, Dublin",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+10/08/2015,"24 Allendale Terace, Phibblestown, Clonsilla Dublin 15",Dublin,247000.0,No,Clonsilla,Dublin 15,q2,50%
+10/08/2015,"58 Stonebridge Rd, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+14/08/2015,"15 Portersfield, Clonsilla, Dublin 15",Dublin,217000.0,No,Clonsilla,Dublin 15,q2,40%
+14/08/2015,"5 Beechwood Downs, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+17/08/2015,"13 Charnwood Court, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q3,80%
+17/08/2015,"19 Limelawn Rise, Clonsilla, Dublin 15",Dublin,335000.0,No,Clonsilla,Dublin 15,q4,90%
+17/08/2015,"35 Glenville Rd, Clonsilla Dublin 15, Dublin",Dublin,250000.0,No,Clonsilla,Dublin 15,q3,60%
+18/08/2015,"3 Windermere, Clonsilla, Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+18/08/2015,"34 St. Mochta'S Green, Clonsilla",Dublin,279000.0,No,Clonsilla,Dublin 15,q3,70%
+26/08/2015,"3 Barnwell Mews, Hansfield, Clonsilla",Dublin,232940.0,Yes,Clonsilla,Dublin 15,q2,50%
+27/08/2015,"37 Delhurst Ave, Ongar Village, Clonsilla Dublin 15",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+27/08/2015,"8 Oakview Grove, Hartstown, Clonsilla Dublin 15",Dublin,220500.0,No,Clonsilla,Dublin 15,q2,40%
+28/08/2015,"15 Inglewood Close, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+28/08/2015,"44 Phibblestown House, Clonsilla, Dublin 15",Dublin,171000.0,No,Clonsilla,Dublin 15,q1,20%
+28/08/2015,"64 Glenville Ave, Clonsilla, Dublin 15",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+28/08/2015,"82 Castlefield Court, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+08/09/2015,"10A Oakview Lawn, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+10/09/2015,"18 Limelawn Rise, Clonsilla, Dublin 15",Dublin,340000.0,No,Clonsilla,Dublin 15,q4,90%
+14/09/2015,"1 Limelaw Glade, Limelawn Park, Clonsilla",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+14/09/2015,"10 St Mochtas Close, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q3,60%
+15/09/2015,"4 Lohunda Downs, Clonsilla, Dublin 15",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+23/09/2015,"Allandale, Clonsilla, Dublin",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+25/09/2015,"30 Allendale Close, Clonsilla, Dublin 15",Dublin,248500.0,No,Clonsilla,Dublin 15,q2,50%
+28/09/2015,"17 Limelawn Rise, Clonsilla, Dublin 15",Dublin,335000.0,No,Clonsilla,Dublin 15,q4,90%
+30/09/2015,"5 Limelawn Glade, Clonsilla, Dublin 15",Dublin,335000.0,No,Clonsilla,Dublin 15,q4,90%
+01/10/2015,"39 The Meadows, Grange Rd, Clonsilla Dublin 15",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+01/10/2015,"7 Hazelwood Green, Clonsilla, Dublin 15",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,20%
+02/10/2015,"11 Lohunda Downs, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+02/10/2015,"12 Beechwood Close, Clonsilla, Dublin 15",Dublin,191000.0,No,Clonsilla,Dublin 15,q1,30%
+02/10/2015,"Apt 14 Allendale Court, Clonsilla, Dublin 15",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+07/10/2015,"17 Ferndale Huntstown Glen, Clonsilla Dublin 15, Dublin",Dublin,183000.0,No,Clonsilla,Dublin 15,q1,30%
+08/10/2015,"2 Huntstown Rise, Clonsilla, Dublin 15",Dublin,543975.0,No,Clonsilla,Dublin 15,q4,100%
+22/10/2015,"49 Willow Wood Grove, Clonsilla, Dublin 15",Dublin,191000.0,No,Clonsilla,Dublin 15,q1,30%
+23/10/2015,"1 Oak View Rise, Clonsilla, Dublin 15",Dublin,327000.0,No,Clonsilla,Dublin 15,q4,90%
+23/10/2015,"15 Sorrel Dale, Clonsilla, Dublin 15",Dublin,340000.0,No,Clonsilla,Dublin 15,q4,90%
+28/10/2015,"13 Glenville Garth, Clonsilla, Dublin 15",Dublin,380000.0,No,Clonsilla,Dublin 15,q4,100%
+28/10/2015,"16 Willowwood Lawn, Heartstown, Clonsilla Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+03/11/2015,"28 Willow Wood Park, Clonsillaa, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+04/11/2015,"40 Stonebridge Rd, Clonsilla, Dublin 15",Dublin,227000.0,No,Clonsilla,Dublin 15,q2,50%
+05/11/2015,"11 Portersgate Heights, Clonsilla, Dublin 15",Dublin,380000.0,No,Clonsilla,Dublin 15,q4,100%
+05/11/2015,"20 Lohunda Dale, Clonsilla, Dublin 15",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+06/11/2015,"21 Allendale Glade, Clonsilla, Dublin 15",Dublin,251000.0,No,Clonsilla,Dublin 15,q3,60%
+06/11/2015,"6 Huntstown Park, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+09/11/2015,"Barnhill, Clonsilla, Dublin 15",Dublin,349950.0,No,Clonsilla,Dublin 15,q4,90%
+20/11/2015,"44 Windermere, Clonsilla, Dublin 15",Dublin,263000.0,No,Clonsilla,Dublin 15,q3,60%
+20/11/2015,"51 Allendale Dr, Clonsilla, Dublin 15",Dublin,243500.0,No,Clonsilla,Dublin 15,q2,50%
+25/11/2015,"33 Charnwood Heath, Clonsilla, Dublin 15",Dublin,340000.0,No,Clonsilla,Dublin 15,q4,90%
+27/11/2015,"26 Portersgate Heights, Clonsilla, Dublin 15",Dublin,280000.0,No,Clonsilla,Dublin 15,q3,70%
+01/12/2015,"3 Aspen Ave, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+03/12/2015,"7 Lohunda Dale, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+14/12/2015,"18 Willow Wood Lawn, Hartstown, Clonsilla",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+14/12/2015,"18 Willow Wood Rise, Hartstown, Clonsilla",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+15/12/2015,"67 Lohunda Park, Clonsilla, Dublin 15",Dublin,271000.0,No,Clonsilla,Dublin 15,q3,70%
+16/12/2015,"19 Cherryfield View, Clonsilla, Dublin 15",Dublin,212000.0,No,Clonsilla,Dublin 15,q2,40%
+16/12/2015,"3 Hazelwood Ave, Hartstown, Clonsilla Dublin 15",Dublin,197000.0,No,Clonsilla,Dublin 15,q2,30%
+17/12/2015,"14 The Courtyard, Clonsilla, Dublin 15",Dublin,172000.0,No,Clonsilla,Dublin 15,q1,20%
+17/12/2015,"24 Hayworth Mews, Ongar Park, Clonsilla Dublin 15",Dublin,201000.0,No,Clonsilla,Dublin 15,q2,30%
+18/12/2015,"83 Fortlawn Dr, Mountview, Clonsilla Dublin 15",Dublin,182000.0,No,Clonsilla,Dublin 15,q1,30%
+18/12/2015,"9 Oakview Dr, Clonsilla, Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+23/12/2015,"Tall Trees, Rugged Lane, Clonsilla Dublin 15",Dublin,654000.0,No,Clonsilla,Dublin 15,q4,100%
+07/01/2016,"2 Lohunda Dale, Clonsilla, Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+11/01/2016,"16 The Court, Porters Gate, Clonsilla Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+15/01/2016,"2 Mount Symon Dale, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+19/01/2016,"34 Portersfield, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+20/01/2016,"23 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,278000.0,No,Clonsilla,Dublin 15,q3,70%
+21/01/2016,"16 Mount Symon Cls, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+28/01/2016,"17 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,273500.0,No,Clonsilla,Dublin 15,q3,70%
+29/01/2016,"25 The Meadows, Clonsilla, Dublin 15",Dublin,113039.64,No,Clonsilla,Dublin 15,q1,10%
+01/02/2016,"71 Huntstown Wood, Clonsilla, Dublin 15",Dublin,151000.0,No,Clonsilla,Dublin 15,q1,20%
+08/02/2016,"18 Allendale Elms, Clonsilla, Dublin 15",Dublin,262000.0,No,Clonsilla,Dublin 15,q3,60%
+10/02/2016,"6 Allendale Elms, Clonsilla, Dublin 15",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+10/02/2016,"6 St Mochtas Vale, Clonsilla, Dublin 15",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+12/02/2016,"2 Woodvale Park, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+18/02/2016,"11 Lohunda Crescent, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+18/02/2016,"35 Charnwood Park, Clonsilla",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+29/02/2016,"8 Charnwood Court, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+03/03/2016,"203 Briarwood Lawn, Clonsilla, Dublin 15",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+07/03/2016,"16 Limelawn Court, Clonsilla, Dublin 15",Dublin,345000.0,No,Clonsilla,Dublin 15,q4,90%
+10/03/2016,"202 Briarwood Lawn, Clonsilla, Dublin 15",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+21/03/2016,"53 Castlefield Court, Clonsilla, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+22/03/2016,"2 St Mochtas Chase, Clonsilla Rd, Dublin",Dublin,258000.0,No,Clonsilla,Dublin 15,q3,60%
+23/03/2016,"31 Delhurst Avenue, Clonsilla, Dublin",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+23/03/2016,"53 Castlefield Woods, Clonsilla, Dublin 15",Dublin,362000.0,No,Clonsilla,Dublin 15,q4,90%
+24/03/2016,"2 Cedar Grove, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+24/03/2016,"65 Windermere, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+31/03/2016,"39 Charnwood Heath, Clonsilla, Dublin 15",Dublin,347500.0,No,Clonsilla,Dublin 15,q4,90%
+01/04/2016,"31 Portersgate Ave, Clonsilla, Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+05/04/2016,"54 Woodvale Crescent, Clonsilla, Dublin 15",Dublin,228000.0,No,Clonsilla,Dublin 15,q2,50%
+06/04/2016,"31 Elmwood, Clonsilla, Dublin",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+07/04/2016,"59 Willow Wood Grove, Hartstown, Clonsilla Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+11/04/2016,"2 Kirkfield Cottages, Clonsilla Rd, Clonsilla Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+14/04/2016,"12 Oakview Close, Clonsilla, Dublin 15",Dublin,216000.0,No,Clonsilla,Dublin 15,q2,40%
+14/04/2016,"23 Castlewood, Clonsilla, Dublin 15",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+15/04/2016,"19 Charnwood Meadows, Clonsilla, Dublin 15",Dublin,358000.0,No,Clonsilla,Dublin 15,q4,90%
+18/04/2016,"1 Porters Gate Lawn, Clonsilla, Dublin 15",Dublin,411000.0,No,Clonsilla,Dublin 15,q4,100%
+26/04/2016,"119 Huntstown Wood, Clonsilla, Dublin 15",Dublin,130000.0,No,Clonsilla,Dublin 15,q1,10%
+29/04/2016,"28 Allendale Close, Clonsilla, Dublin 15",Dublin,173000.0,No,Clonsilla,Dublin 15,q1,20%
+29/04/2016,"29 Limelawn Rise, Clonsilla, Dublin 15",Dublin,347500.0,No,Clonsilla,Dublin 15,q4,90%
+29/04/2016,"35 Woodvale Crescent, Clonsilla, Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+03/05/2016,"5 The Courtyard, Clonsilla Dublin 15, Dublin",Dublin,150000.0,No,Clonsilla,Dublin 15,q1,20%
+12/05/2016,"80 Meadow Copse, Clonsilla, Dublin 15",Dublin,187000.0,No,Clonsilla,Dublin 15,q1,30%
+17/05/2016,"107 Allendale Sq, Clonsilla, Dublin 15",Dublin,225000.0,No,Clonsilla,Dublin 15,q2,40%
+17/05/2016,"27 Fortlawn Dr, Clonsilla, Dublin 15",Dublin,145000.0,No,Clonsilla,Dublin 15,q1,10%
+18/05/2016,"25 Mount Symon Rise, Mount Symon, Clonsilla",Dublin,285000.0,No,Clonsilla,Dublin 15,q3,70%
+18/05/2016,"No 30 Castlegrange Avenue, Castaheaney, Clonsilla",Dublin,295000.0,Yes,Clonsilla,Dublin 15,q3,70%
+18/05/2016,"No 32 Castlegrange Avenue, Castaheaney, Clonsilla",Dublin,240000.0,Yes,Clonsilla,Dublin 15,q2,50%
+18/05/2016,"No 34 Castlegrange Avenue, Castaheaney, Clonsilla",Dublin,240000.0,Yes,Clonsilla,Dublin 15,q2,50%
+18/05/2016,"No 36 Castlegrange Avenue, Castaheaney, Clonsilla",Dublin,240000.0,Yes,Clonsilla,Dublin 15,q2,50%
+18/05/2016,"No 38 Castlegrange Avenue, Castaheaney, Clonsilla",Dublin,295000.0,Yes,Clonsilla,Dublin 15,q3,70%
+20/05/2016,"4 Sorrell Heath, Clonsilla, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+24/05/2016,"Kirkfield, Coolmine, Clonsilla Dublin 15",Dublin,72500.0,No,Clonsilla,Dublin 15,q1,10%
+26/05/2016,"3 Meadow Way, Hartstown, Clonsilla Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+27/05/2016,"16 Huntstown Glen, Clonsilla, Dublin 15",Dublin,332000.0,No,Clonsilla,Dublin 15,q4,90%
+30/05/2016,"58 Woodvale Cresent, Clonsilla, Dublin 15",Dublin,232000.0,No,Clonsilla,Dublin 15,q2,50%
+31/05/2016,"9 The Courtyard, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+03/06/2016,"17 Hunstown Dr, Clonsilla, Dublin 15",Dublin,226000.0,No,Clonsilla,Dublin 15,q2,40%
+03/06/2016,"18 Inglewood Rd, Clonsilla, Dublin",Dublin,208000.0,No,Clonsilla,Dublin 15,q2,40%
+09/06/2016,"120 Whitestown Ave, Clonsilla, Dublin 15",Dublin,100000.0,No,Clonsilla,Dublin 15,q1,10%
+10/06/2016,"13 Allendale Terrace, Clonsilla, Dublin 15",Dublin,243000.0,No,Clonsilla,Dublin 15,q2,50%
+10/06/2016,"2A Beechwood Downs, Clonsilla, Dublin 15",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+10/06/2016,"84 Fortlawn Ave, Clonsilla, Dublin 15",Dublin,131000.0,No,Clonsilla,Dublin 15,q1,10%
+14/06/2016,"17 Latchford Green, Clonsilla, Dublin 15",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,30%
+23/06/2016,"66 Pinebrook Vale, Clonsilla, Dublin 15",Dublin,172000.0,No,Clonsilla,Dublin 15,q1,20%
+24/06/2016,"43 Westhaven, Clonsilla, Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+24/06/2016,"69 Cherryfield Lawn, Clonsilla, Dublin 15",Dublin,219000.0,No,Clonsilla,Dublin 15,q2,40%
+27/06/2016,"4 Limelawn Hill Clonsilla Rd, Dublin 15, Dublin",Dublin,345000.0,No,Clonsilla,Dublin 15,q4,90%
+28/06/2016,"22 Pinebrook View, Clonsilla, Dublin 15",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+29/06/2016,"26 Stationcourt Hall, Clonsilla, Dublin 15",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+29/06/2016,"7 Allendale Elms, Clonsilla, Dublin 15",Dublin,263000.0,No,Clonsilla,Dublin 15,q3,60%
+29/06/2016,"8 Portersgate Court, Clonsilla, Dublin 15",Dublin,392000.0,No,Clonsilla,Dublin 15,q4,100%
+30/06/2016,"24 Cherryfield Park, Hartstown, Clonsilla Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+01/07/2016,"11 Rockfield Dr, Off Clonsilla Rd, Clonsilla Dublin 15",Dublin,380000.0,No,Clonsilla,Dublin 15,q4,100%
+01/07/2016,"17 Allendale Grove, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q3,60%
+01/07/2016,"6 Lohunda Dale, Clonsilla Dublin 15, Dublin",Dublin,268000.0,No,Clonsilla,Dublin 15,q3,60%
+04/07/2016,"32 Oakview Ave, Clonsilla, Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+04/07/2016,"37 St Mochtas Rd, Clonsilla, Dublin 15",Dublin,298000.0,No,Clonsilla,Dublin 15,q3,80%
+04/07/2016,"70 Lohunda Park, Clonsilla, Dublin 15",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+08/07/2016,"28 Portersgate Green, Clonsilla, Dublin",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+08/07/2016,"87 Lambourn Rd, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+14/07/2016,"9 Allendale Glen, Phibblestown, Clonsilla",Dublin,248000.0,No,Clonsilla,Dublin 15,q2,50%
+15/07/2016,"7 Hayworth Terrace, Ongar Village, Clonsilla Dublin 15",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+18/07/2016,"31 Aspen Ave, Clonsilla, Dublin 15",Dublin,370000.0,No,Clonsilla,Dublin 15,q4,100%
+19/07/2016,"34 Woodvale Crescent, Clonsilla, Dublin 15",Dublin,222000.0,No,Clonsilla,Dublin 15,q2,40%
+20/07/2016,"14 Huntstown Rise, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+21/07/2016,"7 Charnwood Gardens, Clonsilla, Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+22/07/2016,"68 Woodvale Ave, Clonsilla, Dublin 15",Dublin,252000.0,No,Clonsilla,Dublin 15,q3,60%
+27/07/2016,"22 Charnwood Court, Clonsilla, Dublin 15",Dublin,285000.0,No,Clonsilla,Dublin 15,q3,70%
+29/07/2016,"16 Woodvale Crescent, Clonsilla, Dublin 15",Dublin,217000.0,No,Clonsilla,Dublin 15,q2,40%
+29/07/2016,"18 Hazelwood Ave, Clonsilla, Dublin 15",Dublin,252000.0,No,Clonsilla,Dublin 15,q3,60%
+29/07/2016,"18 Mount Symon Ave, Clonsilla, Dublin 15",Dublin,335000.0,No,Clonsilla,Dublin 15,q4,90%
+29/07/2016,"39 St Mochtas Green, Clonsilla Rd, Dublin 15",Dublin,263000.0,No,Clonsilla,Dublin 15,q3,60%
+29/07/2016,"44 Castlefield Woods, Clonsilla, Dublin 15",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+29/07/2016,"81 Portersfield, Clonsilla Rd, Coolmine Dublin 15",Dublin,147000.0,No,Clonsilla,Dublin 15,q1,10%
+04/08/2016,"68 The Courtyard, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+05/08/2016,"13 Portersgate Ave, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q3,80%
+05/08/2016,"39 Latchford Close, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+10/08/2016,"2A Huntstown Ave, Clonsilla, Dublin 15",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+11/08/2016,"14 Glenville Court, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+11/08/2016,"24 Portersgate Way, Clonsilla, Dublin 15",Dublin,297000.0,No,Clonsilla,Dublin 15,q3,70%
+15/08/2016,"5 Windemere, Clonsilla, Dublin 15",Dublin,302500.0,No,Clonsilla,Dublin 15,q3,80%
+16/08/2016,"16 Mount Symon Rise, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q3,80%
+19/08/2016,"19 Portersgate Way, Clonsilla Dublin 15, Dublin",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+22/08/2016,"12 Allendale Place, Clonsilla, Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+26/08/2016,"6 The Courtyard, Clonsilla, Dublin  15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+29/08/2016,"26 Sorrel Heath, Clonsilla, Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+02/09/2016,"73 Huntstown Rise, Clonsilla, Dublin",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+02/09/2016,"75 Whitestown Ave, Clonsilla, Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,30%
+05/09/2016,"59 Castlefield Court, Clonsilla, Dublin 15",Dublin,332500.0,No,Clonsilla,Dublin 15,q4,90%
+06/09/2016,"11 Allendale Walk, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+06/09/2016,"33 Castlegrange Park, Castaheany, Clonsilla Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+09/09/2016,"13 Whitechapel Green, Coolmine, Clonsilla Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+09/09/2016,"33 Fortlawn Ave, Clonsilla, Dublin 15",Dublin,179000.0,No,Clonsilla,Dublin 15,q1,20%
+13/09/2016,"39 The Courtyard, Clonsilla Dublin 15, Dublin",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+14/09/2016,"8 Elmwood, Clonsilla, Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+16/09/2016,"60 Castlefield Court, Clonsilla, Dublin 15",Dublin,172500.0,No,Clonsilla,Dublin 15,q1,20%
+19/09/2016,"34 Lambourn Rd, Clonsilla, Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+21/09/2016,"10 Castlefield Woods, Clonsilla, Dublin 15",Dublin,345000.0,No,Clonsilla,Dublin 15,q4,90%
+23/09/2016,"24 Elmwood Close, Clonsilla, Dublin 15",Dublin,225000.0,No,Clonsilla,Dublin 15,q2,40%
+23/09/2016,"5 Coolmine Close, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+27/09/2016,"46 Willowood View, Hartstown, Clonsilla Dublin 15",Dublin,223000.0,No,Clonsilla,Dublin 15,q2,40%
+29/09/2016,"139 Allendale Square, Clonsilla, Dublin 15",Dublin,177000.0,No,Clonsilla,Dublin 15,q1,20%
+30/09/2016,"21 Mount Symon Dale, Clonsilla, Dublin 15",Dublin,279000.0,No,Clonsilla,Dublin 15,q3,70%
+30/09/2016,"4 Allendale Glade, Clonsilla, Dublin 15",Dublin,262000.0,No,Clonsilla,Dublin 15,q3,60%
+06/10/2016,"15 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+06/10/2016,"77 Annaly Grove, Ongar Lodge, Clonsilla",Dublin,171000.0,No,Clonsilla,Dublin 15,q1,20%
+13/10/2016,"3 Mount Symon Close, Clonsilla, Dublin 15",Dublin,311000.0,No,Clonsilla,Dublin 15,q4,80%
+21/10/2016,"26 Huntstown Rise, Clonsilla, Dublin 15",Dublin,161000.0,No,Clonsilla,Dublin 15,q1,20%
+25/10/2016,"13 Cherryfield Park, Clonsilla, Dublin 15",Dublin,222000.0,No,Clonsilla,Dublin 15,q2,40%
+25/10/2016,"41 Woodvale Avenue, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+27/10/2016,"23 Sheepmoor Way, Blakestown, Clonsilla Dublin 15",Dublin,147111.0,No,Clonsilla,Dublin 15,q1,10%
+27/10/2016,"24 Charnwood Green, Clonsilla, Dublin 15",Dublin,395000.0,No,Clonsilla,Dublin 15,q4,100%
+27/10/2016,"9 Mount Symon Ave, Clonsilla, Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+28/10/2016,"57 Oakview Ave, Hartstown, Clonsilla Dublin 15",Dublin,238000.0,No,Clonsilla,Dublin 15,q2,50%
+01/11/2016,"29 Lambourn Rd, Clonsilla, Dublin 15",Dublin,440000.0,No,Clonsilla,Dublin 15,q4,100%
+03/11/2016,"24 Allendale Dr, Clonsilla, Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+03/11/2016,"4 Allendale Rise, Clonsilla, Dublin 15",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+07/11/2016,"29A Lambourn Rd, Clonsilla, Dublin 15",Dublin,430000.0,No,Clonsilla,Dublin 15,q4,100%
+08/11/2016,"1 Blakestown Rd, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+08/11/2016,"29 Portersgate Ave, Clonsilla, Dublin 15",Dublin,311000.0,No,Clonsilla,Dublin 15,q4,80%
+09/11/2016,"35 Cherryfield Close, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+10/11/2016,"93 Latchford Green, Castaheany, Clonsilla Dublin 15",Dublin,222000.0,No,Clonsilla,Dublin 15,q2,40%
+14/11/2016,"11 Mount Symon Ave, Clonsilla, Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+16/11/2016,"14 Shelerin Rd, Clonsilla, Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+17/11/2016,"5 Hazelwood Ave, Hartstown, Clonsilla Dublin 15",Dublin,232000.0,No,Clonsilla,Dublin 15,q2,50%
+23/11/2016,"43 Mount Symon Dale, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+25/11/2016,"19 Limelawn Glade, Clonsilla, Dublin 15",Dublin,342500.0,No,Clonsilla,Dublin 15,q4,90%
+28/11/2016,"7 Limelawn Court, Clonsilla, Dublin 15",Dublin,345000.0,No,Clonsilla,Dublin 15,q4,90%
+30/11/2016,"16 St Mochtas Chase, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+01/12/2016,"18 Mount Symon Close, Clonsilla, Dublin",Dublin,323000.0,No,Clonsilla,Dublin 15,q4,80%
+02/12/2016,"3 Charnwood Heath, Clonsilla Dublin 15, Dublin",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+02/12/2016,"70 Pinebrook Vale, Clonsilla, Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,40%
+07/12/2016,"19 St Mochtas Vale, Coolmine Lodge, Clonsilla",Dublin,280000.0,No,Clonsilla,Dublin 15,q3,70%
+07/12/2016,"3 Windmill Sq, Clonsilla, Dublin 15",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+09/12/2016,"14 Glenville Lawn, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+09/12/2016,"26 Mount Symon Ave, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+09/12/2016,"5 Oakview Close, Hartstown, Clonsilla Dublin 15",Dublin,238000.0,No,Clonsilla,Dublin 15,q2,50%
+14/12/2016,"43 Lohunda Downs, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,70%
+14/12/2016,"93 Portersfield, Clonsilla Rd, Dublin 15",Dublin,261000.0,No,Clonsilla,Dublin 15,q3,60%
+15/12/2016,"4 Glenville Court, Clonsilla, Dublin 15",Dublin,400000.0,No,Clonsilla,Dublin 15,q4,100%
+16/12/2016,"21 The Lawn, Hansfield Wood, Hansfield  Clonsilla",Dublin,242246.0,Yes,Clonsilla,Dublin 15,q2,50%
+19/12/2016,"48 Castlefield Court, Clonsilla, Dublin 15",Dublin,435000.0,No,Clonsilla,Dublin 15,q4,100%
+20/12/2016,"15 The Lawn, Hansfield Wood, Clonsilla",Dublin,259911.89,Yes,Clonsilla,Dublin 15,q3,60%
+20/12/2016,"20 Portersgate Heights, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+21/12/2016,"29 Portersfield, Clonsilla Rd, Coolmine Dublin 15",Dublin,197000.0,No,Clonsilla,Dublin 15,q2,30%
+21/12/2016,"40 Inglewood Rd, Clonsilla, Dublin 15",Dublin,217500.0,No,Clonsilla,Dublin 15,q2,40%
+05/01/2017,"13 Allendale Elms, Clonsilla, Dublin 15",Dublin,214000.0,No,Clonsilla,Dublin 15,q2,40%
+06/01/2017,"118 Portersfield, Clonsilla Rd, Dublin 15",Dublin,292500.0,No,Clonsilla,Dublin 15,q3,70%
+13/01/2017,"112 Castlefield Court, Clonsilla, Dublin 15",Dublin,450000.0,No,Clonsilla,Dublin 15,q4,100%
+16/01/2017,"4 Elmwood, Clonsilla, Dublin 15",Dublin,110000.0,No,Clonsilla,Dublin 15,q1,10%
+16/01/2017,"4 Elmwood, Clonsilla, Dublin 15",Dublin,110000.0,No,Clonsilla,Dublin 15,q1,10%
+19/01/2017,"5 Limelawn Row, Clonsilla Rd, Clonsilla Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+23/01/2017,"37 Portersgate Court, Clonsilla, Dublin 15",Dublin,327000.0,No,Clonsilla,Dublin 15,q4,90%
+24/01/2017,"14 Ferndale, Huntstown Glen, Clonsilla Dublin 15",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+26/01/2017,"130 Allendale Sq, Clonsilla, Dublin 15",Dublin,187000.0,No,Clonsilla,Dublin 15,q1,30%
+01/02/2017,"13 Cherryfield Court, Clonsilla, Dublin 15",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+01/02/2017,"22 Castlefield Park, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+01/02/2017,"42 Latchford Sq, Clonsilla, Dublin 15",Dublin,191000.0,No,Clonsilla,Dublin 15,q1,30%
+02/02/2017,"5 Hayworth Court, Ongar Park, Clonsilla",Dublin,189000.0,No,Clonsilla,Dublin 15,q1,30%
+03/02/2017,"86A Lambourne Pk, Clonsilla, Dublin 15",Dublin,279000.0,No,Clonsilla,Dublin 15,q3,70%
+06/02/2017,"19 Mount Symon Park, Clonsilla, Dublin 15",Dublin,304000.0,No,Clonsilla,Dublin 15,q3,80%
+06/02/2017,"7 Limelawn Glade, Clonsilla, Dublin 15",Dublin,364500.0,No,Clonsilla,Dublin 15,q4,90%
+06/02/2017,"70 Castlewood, Clonsilla, Dublin 15",Dublin,256000.0,No,Clonsilla,Dublin 15,q3,60%
+07/02/2017,"22 Mount Symon Lawn, Clonsilla, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+07/02/2017,"30 Huntstown Lawn, Clonsilla, Dublin 15",Dublin,251000.0,No,Clonsilla,Dublin 15,q3,60%
+08/02/2017,"3 Woodvale Crescent, Clonsilla, Dublin 15",Dublin,227000.0,No,Clonsilla,Dublin 15,q2,50%
+08/02/2017,"9 Delhurst Mews, Ongar Park, Clonsilla Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,40%
+09/02/2017,"5 Oakview Lawn, Hartstown, Clonsilla Dublin 15",Dublin,256000.0,No,Clonsilla,Dublin 15,q3,60%
+13/02/2017,"3 Allendale Close, Clonsilla, Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+17/02/2017,"36A Lanbourne Rd, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+21/02/2017,"17 Castlegrange, Clonsilla",Dublin,273128.0,Yes,Clonsilla,Dublin 15,q3,70%
+22/02/2017,"25 Allendale Place, Clonsilla, Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+23/02/2017,"13 Stonebridge Ave, Hartstown, Clonsilla Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+23/02/2017,"25 Manor Place, Ongar, Clonsilla Dublin 15",Dublin,130000.0,No,Clonsilla,Dublin 15,q1,10%
+28/02/2017,"10 Annaly Terrace, Ongar Park, Clonsilla Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+03/03/2017,"4 Pinebrook Heights, Clonsilla, Dublin 15",Dublin,152000.0,No,Clonsilla,Dublin 15,q1,20%
+06/03/2017,"99 Lohunda Park, Clonsilla, Dublin 15",Dublin,269000.0,No,Clonsilla,Dublin 15,q3,60%
+07/03/2017,"59 Pinebrook Vale, Clonsilla, Dublin 15",Dublin,165211.0,No,Clonsilla,Dublin 15,q1,20%
+09/03/2017,"5 Limelawn Hill, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q4,80%
+15/03/2017,"13 Lambourn Court, Clonsilla, Dublin 15",Dublin,340000.0,No,Clonsilla,Dublin 15,q4,90%
+15/03/2017,"21 Lohunda Park, Clonsilla, Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+15/03/2017,"41 Delhurst Terrace, Ongar Park, Clonsilla Dublin 15",Dublin,223000.0,No,Clonsilla,Dublin 15,q2,40%
+16/03/2017,"5 Delhurst Terrace, Ongar Park, Clonsilla",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+16/03/2017,"5 St Mochtas Chase, Clonsilla, Dublin 15",Dublin,273000.0,No,Clonsilla,Dublin 15,q3,70%
+20/03/2017,"27 Coolmine Blvd, Clonsilla, Dublin 15",Dublin,362000.0,No,Clonsilla,Dublin 15,q4,90%
+30/03/2017,"32 Aldemere Dr, Clonsilla, Dublin 15",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+31/03/2017,"18 Allendale View, Clonsilla, Dublin 15",Dublin,273000.0,No,Clonsilla,Dublin 15,q3,70%
+03/04/2017,"31 Willows Dr, Clonsilla, Dublin 15",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+05/04/2017,"40 The Meadows, Clonsilla, Dublin 15",Dublin,201000.0,No,Clonsilla,Dublin 15,q2,30%
+10/04/2017,"33 Mount Symon Ave, Clonsilla, Dublin 15",Dublin,336000.0,No,Clonsilla,Dublin 15,q4,90%
+10/04/2017,"41 Meadow Dr, Clonsilla, Dublin 15",Dublin,197000.0,No,Clonsilla,Dublin 15,q2,30%
+12/04/2017,"12 Charnwood Heath, Clonsilla, Dublin 15",Dublin,367000.0,No,Clonsilla,Dublin 15,q4,100%
+13/04/2017,"40 Portersgate Court, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+21/04/2017,"5 St Mochtas Dr, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+27/04/2017,"43 Willow Wood View, Hartstown Road, Clonsilla",Dublin,182000.0,No,Clonsilla,Dublin 15,q1,30%
+28/04/2017,"20 Whitestown Dr, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+28/04/2017,"6 Limelawn Hill, Clonsilla, Dublin 15",Dublin,326000.0,No,Clonsilla,Dublin 15,q4,80%
+04/05/2017,"14 Mount Symon Lawn, Clonsilla, Dublin",Dublin,335000.0,No,Clonsilla,Dublin 15,q4,90%
+09/05/2017,"4 Hazelwood Court, Hartstown, Clonsilla Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+12/05/2017,"19 Weavers Hall, Clonsilla Rd, Clonsilla",Dublin,172000.0,No,Clonsilla,Dublin 15,q1,20%
+12/05/2017,"25 Charnwood Heath, Clonsilla, Dublin 15",Dublin,395000.0,No,Clonsilla,Dublin 15,q4,100%
+18/05/2017,"19 Mount Symon Close, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+19/05/2017,"1 Woodsland, Blakestown Rd, Clonsilla Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,40%
+19/05/2017,"25 Allendale Dr, Clonsilla, Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+19/05/2017,"6 Willow Wood Walk, Clonsilla Dublin 15, Dublin",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+19/05/2017,"87 Annaly Grove, Block 6 Ongar Lodge, Clonsilla",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+24/05/2017,"14 Willowwood Close, Hartstown, Clonsilla",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+26/05/2017,"7 Mount Symon Lawn, Clonsilla, Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+26/05/2017,"78 Castlewood, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+28/05/2017,"57 Pinebrook Vale, Clonsilla, Dublin 15",Dublin,222000.0,No,Clonsilla,Dublin 15,q2,40%
+29/05/2017,"10 Pinebrook Downs, Clonsilla Dublin 15, Dublin",Dublin,225000.0,No,Clonsilla,Dublin 15,q2,40%
+01/06/2017,"15 Allendale View, Clonsilla, Dublin 15",Dublin,281000.0,No,Clonsilla,Dublin 15,q3,70%
+09/06/2017,"29 Lohunda Downs, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+12/06/2017,"11 St Mochtas Grove, Clonsilla, Dublin 15",Dublin,352000.0,No,Clonsilla,Dublin 15,q4,90%
+16/06/2017,"35 Portersgate Court, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+20/06/2017,"1 Woodvale Grove, Clonsilla, Dublin 15",Dublin,286000.0,No,Clonsilla,Dublin 15,q3,70%
+21/06/2017,"56 Castlefield Park, Clonsilla, Dublin 15",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+23/06/2017,"17 Allendale Sq, Clonsilla, Dublin 15",Dublin,207000.0,No,Clonsilla,Dublin 15,q2,40%
+23/06/2017,"82 Meadow Copse, Hartstown, Clonsilla Dublin 15",Dublin,234000.0,No,Clonsilla,Dublin 15,q2,50%
+26/06/2017,"10 Woodvale Ave, Clonsilla, Dublin 15",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+27/06/2017,"34 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+28/06/2017,"11 Latchford Sq, Clonsilla, Dublin 15",Dublin,227000.0,No,Clonsilla,Dublin 15,q2,50%
+28/06/2017,"13 Glenville Way, Clonsilla, Dublin 15",Dublin,435000.0,No,Clonsilla,Dublin 15,q4,100%
+29/06/2017,"30 Charnwood Grove, Clonsilla, Dublin 15",Dublin,357000.0,No,Clonsilla,Dublin 15,q4,90%
+30/06/2017,"56 The Courtyard, Clonsilla Rd, Clonsilla Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+30/06/2017,"61 The Courtyard, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+30/06/2017,"Apt 3, 9 Weavers Row, Clonsilla",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+04/07/2017,"2 Kirkfield Cottages, Clonsilla Rd, Clonsilla Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+05/07/2017,"34 Carne Court, Clonsilla, Dublin 15",Dublin,238000.0,No,Clonsilla,Dublin 15,q2,50%
+07/07/2017,"61 Willow Wood View, Hartstown, Clonsilla Dublin 15",Dublin,262000.0,No,Clonsilla,Dublin 15,q3,60%
+10/07/2017,"30 The Courtyard, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+11/07/2017,"57 Castlefield Woods, Clonsilla, Dublin 15",Dublin,412500.0,No,Clonsilla,Dublin 15,q4,100%
+12/07/2017,"11 Ravenswood Rd, Ravenswood, Clonsilla Dublin 15",Dublin,335000.0,No,Clonsilla,Dublin 15,q4,90%
+12/07/2017,"19 Stationcourt Hall, Coolmine, Clonsilla Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+19/07/2017,"24 Huntstown Ave, Huntstown, Clonsilla Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+21/07/2017,"65 Castlefield Woods, Clonsilla, Dublin 15",Dublin,380000.0,No,Clonsilla,Dublin 15,q4,100%
+24/07/2017,"33 Lohunda Crescent, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+25/07/2017,"17 Ravenswood Crescent, Clonsilla, Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+27/07/2017,"10 Portersgate Grove, Clonsilla, Dublin 15",Dublin,317000.0,No,Clonsilla,Dublin 15,q4,80%
+28/07/2017,"30 Glenville Rd, Clonsilla, Dublin 15",Dublin,400000.0,No,Clonsilla,Dublin 15,q4,100%
+31/07/2017,"10 Limelawn Rise, Aspen Wood, Clonsilla Dublin 15",Dublin,450000.0,No,Clonsilla,Dublin 15,q4,100%
+31/07/2017,"52 Aldemere Dr, Clonsilla, Dublin 15",Dublin,670000.0,No,Clonsilla,Dublin 15,q4,100%
+31/07/2017,"9 Willow Rd, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,70%
+01/08/2017,"15 Allendale Close, Clonsilla, Dublin 15",Dublin,292000.0,No,Clonsilla,Dublin 15,q3,70%
+02/08/2017,"22 Coolmine Woods, Clonsilla, Dublin 15",Dublin,482000.0,No,Clonsilla,Dublin 15,q4,100%
+03/08/2017,"45 Annaly Grove, Ongar Lodge, Clonsilla Dublin 15",Dublin,189000.0,No,Clonsilla,Dublin 15,q1,30%
+04/08/2017,"Astagob House, Porterstown, Clonsilla Dublin 15",Dublin,1000000.0,No,Clonsilla,Dublin 15,q4,100%
+06/08/2017,"24 Charnwood Meadows, Clonsilla, Dublin 15",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+08/08/2017,"Apt 41 Block 5, Allendale Sq, Clonsilla Dublin 15",Dublin,185000.0,No,Clonsilla,Dublin 15,q1,30%
+11/08/2017,"9 Limelawn Glade, Clonsilla, Dublin 15",Dublin,390000.0,No,Clonsilla,Dublin 15,q4,100%
+22/08/2017,"42 Willow Wood Grove, Clonsilla, Dublin 15",Dublin,287500.0,No,Clonsilla,Dublin 15,q3,70%
+23/08/2017,"13 Lohunda Park, Clonsilla, Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+23/08/2017,"9 Inglewood Close, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+25/08/2017,"37 Windmill Sq, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+28/08/2017,"14 Lohunda Crescent, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+28/08/2017,"18 Portersgate Ave, Clonsilla, Dublin 15",Dublin,340000.0,No,Clonsilla,Dublin 15,q4,90%
+31/08/2017,"2 Allendale Glade, Clonsilla, Dublin 15",Dublin,292000.0,No,Clonsilla,Dublin 15,q3,70%
+31/08/2017,"37 St Mochts Green, Coolmine Lodge, Clonsilla Dublin 15",Dublin,311500.0,No,Clonsilla,Dublin 15,q4,80%
+01/09/2017,"16 Orchard Grv, Clonsilla, Dublin 15",Dublin,378000.0,No,Clonsilla,Dublin 15,q4,100%
+04/09/2017,"8 Limelawn Hill, Clonsilla Village, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+05/09/2017,"1 Whitechapel Road, Coolmine, Clonsilla",Dublin,172000.0,No,Clonsilla,Dublin 15,q1,20%
+05/09/2017,"61 Castlefield Court, Clonsilla, Dublin 15",Dublin,370000.0,No,Clonsilla,Dublin 15,q4,100%
+06/09/2017,"Apt 106, Allendale Sq, Clonsilla",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+07/09/2017,"13 Manor Square, Ongar Village, Clonsilla",Dublin,190000.0,No,Clonsilla,Dublin 15,q1,30%
+08/09/2017,"2 Woodvale Ave, Clonsilla, Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+08/09/2017,"57 Meadow Copse, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+11/09/2017,"64 Castlewood, Huntstown, Clonsilla",Dublin,310000.0,No,Clonsilla,Dublin 15,q4,80%
+12/09/2017,"22 Allendale Court, Clonsilla, Dublin 15",Dublin,155937.0,No,Clonsilla,Dublin 15,q1,20%
+13/09/2017,"56 Sorrel Heath, Clonsilla, Dublin 15",Dublin,385000.0,No,Clonsilla,Dublin 15,q4,100%
+15/09/2017,"12 Allendale Close, Clonsilla, Dublin 15",Dublin,236000.0,No,Clonsilla,Dublin 15,q2,50%
+15/09/2017,"8 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,359000.0,No,Clonsilla,Dublin 15,q4,90%
+18/09/2017,"12 The Park, The Paddock, Clonsilla",Dublin,233480.0,Yes,Clonsilla,Dublin 15,q2,50%
+21/09/2017,"25 Mount Symon Dale, Clonsilla Dublin 15, Dublin",Dublin,338000.0,No,Clonsilla,Dublin 15,q4,90%
+21/09/2017,"40 Woodvale Ave, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+22/09/2017,"65 Castlefield Court, Clonsilla, Dublin 15",Dublin,345000.0,No,Clonsilla,Dublin 15,q4,90%
+26/09/2017,"4 Hazelwood Crescent, Clonsilla, Dublin 15",Dublin,191000.0,No,Clonsilla,Dublin 15,q1,30%
+29/09/2017,"26 Stonebridge Ave, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+29/09/2017,"66 Meadow Copse, Clonsilla, Dublin 15",Dublin,249000.0,No,Clonsilla,Dublin 15,q2,50%
+02/10/2017,"10 Limelawn Hill, Clonsilla, Dublin 15",Dublin,371000.0,No,Clonsilla,Dublin 15,q4,100%
+02/10/2017,"3 Portersfield, Clonsilla Rd, Coolmine Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+02/10/2017,"78 Glenville Rd, Clonsilla, Dublin 15",Dublin,470000.0,No,Clonsilla,Dublin 15,q4,100%
+03/10/2017,"103 Lambourn Rd, Clonsilla, Dublin 15",Dublin,421255.0,No,Clonsilla,Dublin 15,q4,100%
+03/10/2017,"20 Castlegrange Dr, Castaheany, Clonsilla Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+03/10/2017,"28 Woodvale Crescent, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+03/10/2017,"4 St Mochtas Green, Clonsilla, Dublin 15",Dublin,390000.0,No,Clonsilla,Dublin 15,q4,100%
+04/10/2017,"7 Lohunda Close, Clonsilla, Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+10/10/2017,"35 Delhurst Mews, Ongar Park, Clonsilla Dublin 15",Dublin,259000.0,No,Clonsilla,Dublin 15,q3,60%
+12/10/2017,"13 St Mochta'S Glen, Coolmine Lodge, Clonsilla",Dublin,292000.0,No,Clonsilla,Dublin 15,q3,70%
+12/10/2017,"142 Briarwood Gardens, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+12/10/2017,"7 Charnwood Meadows, Clonsilla, Dublin 15",Dublin,368000.0,No,Clonsilla,Dublin 15,q4,100%
+13/10/2017,"1C Rosevale Court, Blakestown Rd, Clonsilla Dublin 15",Dublin,269000.0,No,Clonsilla,Dublin 15,q3,60%
+13/10/2017,"38 Glenville Green, Clonsilla, Dublin 15",Dublin,460000.0,No,Clonsilla,Dublin 15,q4,100%
+19/10/2017,"2 Limelawn Hill, Clonsilla, Dublin 15",Dublin,374000.0,No,Clonsilla,Dublin 15,q4,100%
+19/10/2017,"34 Sorrel Heath, Clonsilla, Dublin 15",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+19/10/2017,"44 Allendale Close, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+25/10/2017,"4 Rockfield Close, Clonsilla, Dublin 15",Dublin,493000.0,No,Clonsilla,Dublin 15,q4,100%
+26/10/2017,"14 Portersgate Ave, Clonsilla, Dublin 15",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+26/10/2017,"15 Willans Dr, Ongar Green, Clonsilla Dublin 15",Dublin,252500.0,No,Clonsilla,Dublin 15,q3,60%
+26/10/2017,"42 Castlefield Court, Clonsilla, Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+27/10/2017,"16 Weavers Hall, Clonsilla Dublin 15, Dublin",Dublin,227000.0,No,Clonsilla,Dublin 15,q2,50%
+27/10/2017,"2 Oakview Close, Hartstown, Clonsilla Dublin 15",Dublin,405000.0,No,Clonsilla,Dublin 15,q4,100%
+27/10/2017,"30 Sorrel Dale, Clonsilla, Dublin",Dublin,341000.0,No,Clonsilla,Dublin 15,q4,90%
+31/10/2017,"110 Lambourn Park, Clonsilla, Dublin 15",Dublin,385000.0,No,Clonsilla,Dublin 15,q4,100%
+31/10/2017,"36 Hayworth Terrace, Ongar, Clonsilla Dublin 15",Dublin,162000.0,No,Clonsilla,Dublin 15,q1,20%
+31/10/2017,"89 Westhaven, Clonsilla, Dublin 15",Dublin,282000.0,No,Clonsilla,Dublin 15,q3,70%
+02/11/2017,"13 Charnwood Lawns, Clonsilla, Dublin 15",Dublin,378500.0,No,Clonsilla,Dublin 15,q4,100%
+03/11/2017,"10 Allendale Court, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+03/11/2017,"4 Oakview Dr, Hartstown Rd, Clonsilla Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+03/11/2017,"5 Aspen Lawn, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+08/11/2017,"83 Castlefield Woods, Clonsilla, Dublin 15",Dublin,435000.0,No,Clonsilla,Dublin 15,q4,100%
+09/11/2017,"19 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+10/11/2017,"24 Woodvale Crescent, Clonsilla, Dublin 15",Dublin,266000.0,No,Clonsilla,Dublin 15,q3,60%
+10/11/2017,"6 Delhurst Close, Clonsilla, Dublin 15",Dublin,195500.0,No,Clonsilla,Dublin 15,q2,30%
+15/11/2017,"20 The Park, The Paddocks, Clonsilla",Dublin,343600.0,Yes,Clonsilla,Dublin 15,q4,90%
+15/11/2017,"33 Woodvale Crescent, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+15/11/2017,"63 The Courtyard, Clonsilla Road, Clonsilla",Dublin,199000.0,No,Clonsilla,Dublin 15,q2,30%
+17/11/2017,"11 Mount Symon Lawn, Clonsilla, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+20/11/2017,"10 Charnwood Gardens, Clonsilla, Dublin 15",Dublin,410000.0,No,Clonsilla,Dublin 15,q4,100%
+23/11/2017,"2 Larch Grove, Clonsilla, Dublin",Dublin,322500.0,No,Clonsilla,Dublin 15,q4,80%
+24/11/2017,"18 Aspen Ave, Clonsilla, Dublin 15",Dublin,371000.0,No,Clonsilla,Dublin 15,q4,100%
+24/11/2017,"4 Charnwood Green, Clonsilla, Dublin 15",Dublin,368000.0,No,Clonsilla,Dublin 15,q4,100%
+24/11/2017,"48 Pinebrook Vale, Huntstown, Clonsilla Dublin 15",Dublin,239000.0,No,Clonsilla,Dublin 15,q2,50%
+28/11/2017,"17 Sorrel Heath, Clonsilla Dublin 15, Dublin",Dublin,380500.0,No,Clonsilla,Dublin 15,q4,100%
+29/11/2017,"17 St Mochtas Chase, Clonsilla, Dublin 15",Dublin,254000.0,No,Clonsilla,Dublin 15,q3,60%
+01/12/2017,"33 Limelawn Court, Clonsilla, Dublin 15",Dublin,340000.0,No,Clonsilla,Dublin 15,q4,90%
+07/12/2017,"30 Huntstown Road, Clonsilla, Dublin 15",Dublin,241000.0,No,Clonsilla,Dublin 15,q2,50%
+08/12/2017,"31 Portersgate Crescent, Clonsilla, Dublin 15",Dublin,425000.0,No,Clonsilla,Dublin 15,q4,100%
+11/12/2017,"21 Hayworth Mews, Ongar Park, Clonsilla Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+14/12/2017,"62 The Courtyard, Clonsilla, Dublin 15",Dublin,257000.0,No,Clonsilla,Dublin 15,q3,60%
+18/12/2017,"15 Charnwood Heath, Clonsilla, Dublin 15",Dublin,345000.0,No,Clonsilla,Dublin 15,q4,90%
+18/12/2017,"72 The Courtyard, Clonsilla Rd, Clonsilla Dublin 15",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+19/12/2017,"30 Portersfield, Clonsilla Rd, Clonsilla Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+20/12/2017,"101 Huntstown Rise, Clonsilla, Dublin 15",Dublin,260500.0,No,Clonsilla,Dublin 15,q3,60%
+21/12/2017,"47 Lohunda Crescent, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q3,60%
+22/12/2017,"71 Allendale Sq, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,70%
+04/01/2018,"28 Hazelwood Court, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q3,60%
+05/01/2018,"21 Castlegrange Dr, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+10/01/2018,"3 Coolmine Mews, Clonsilla, Dublin 15",Dublin,365000.0,No,Clonsilla,Dublin 15,q4,90%
+12/01/2018,"74 The Village, Porterstown Rd, Clonsilla Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+12/01/2018,"9 Meadow Dr, Hartstown Clonsilla, Dublin 15",Dublin,242000.0,No,Clonsilla,Dublin 15,q2,50%
+22/01/2018,"1 St Mochtas Glen, Clonsilla, Dublin 15",Dublin,368000.0,No,Clonsilla,Dublin 15,q4,100%
+25/01/2018,"11 Willow Wood Grove, Clonsilla, Dublin 15",Dublin,280000.0,No,Clonsilla,Dublin 15,q3,70%
+26/01/2018,"2 Pinebrook Downs, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+26/01/2018,"3 Castlegrange Lawn, Castlegrange, Clonsilla",Dublin,289775.0,Yes,Clonsilla,Dublin 15,q3,70%
+31/01/2018,"58 Glenville Ave, Clonsilla, Dublin 15",Dublin,445000.0,No,Clonsilla,Dublin 15,q4,100%
+01/02/2018,"9A Castlewood, Clonsilla, Castlewood Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+09/02/2018,"29 Woodvale Garth, Clonsilla, Dublin 15",Dublin,271000.0,No,Clonsilla,Dublin 15,q3,70%
+20/02/2018,"11 Lohunda Close, Clonsilla, Dublin 15",Dublin,281000.0,No,Clonsilla,Dublin 15,q3,70%
+26/02/2018,"58 Willow Wood Grv, Clonsilla, Dublin 15",Dublin,295000.0,No,Clonsilla,Dublin 15,q3,70%
+07/03/2018,"8 Orchard Terrace, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+08/03/2018,"11 Allendale Grove, Clonsilla, Dublin 15",Dublin,305550.0,No,Clonsilla,Dublin 15,q3,80%
+08/03/2018,"12 St Mochtas Green, Clonsilla, Dublin 15",Dublin,288847.0,No,Clonsilla,Dublin 15,q3,70%
+08/03/2018,"13 Cherryfield Court, Clonsilla, Dublin 15",Dublin,198613.68,No,Clonsilla,Dublin 15,q2,30%
+08/03/2018,"52 Aldemere Dr, Clonsilla, Dublin 15",Dublin,358813.0,No,Clonsilla,Dublin 15,q4,90%
+09/03/2018,"2 St Mochtas Vale, Clonsilla, Dublin 15",Dublin,293000.0,No,Clonsilla,Dublin 15,q3,70%
+13/03/2018,"1 Coolmine Rd, Clonsilla, Dublin 15",Dublin,440000.0,No,Clonsilla,Dublin 15,q4,100%
+14/03/2018,"30 Portersgate Court, Clonsilla, Dublin 15",Dublin,392000.0,No,Clonsilla,Dublin 15,q4,100%
+20/03/2018,"68 Phibblestown House, Phibblestown Ave, Clonsilla Dublin 15",Dublin,185000.0,No,Clonsilla,Dublin 15,q1,30%
+22/03/2018,"23 Park Crescent, Hansfield, Clonsilla",Dublin,295154.18,Yes,Clonsilla,Dublin 15,q3,70%
+26/03/2018,"72 Pinebrook Vale, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q4,80%
+28/03/2018,"22 Lohunda Park, Clonsilla, Dublin 15",Dublin,303500.0,No,Clonsilla,Dublin 15,q3,80%
+29/03/2018,"20 Beechfield Meadows, Clonsilla, Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+04/04/2018,"69 Castlefield Court, Clonsilla Dublin 15, Dublin",Dublin,170000.0,No,Clonsilla,Dublin 15,q1,20%
+05/04/2018,"3 Blakes Court, Blakestown Rd, Clonsilla",Dublin,254000.0,No,Clonsilla,Dublin 15,q3,60%
+05/04/2018,"64 Beechwood Gate, Hansfield, Clonsilla",Dublin,299559.47,Yes,Clonsilla,Dublin 15,q3,80%
+06/04/2018,"37 Allendale Close, Allendale, Clonsilla Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,40%
+11/04/2018,"14 St Mochtas Ave, Clonsilla, Dublin 15",Dublin,416000.0,No,Clonsilla,Dublin 15,q4,100%
+12/04/2018,"3 Mount Symon Dr, Clonsilla, Dublin 15",Dublin,356000.0,No,Clonsilla,Dublin 15,q4,90%
+13/04/2018,"27 Castlefield Woods, Clonsilla, Dublin 15",Dublin,483266.14,No,Clonsilla,Dublin 15,q4,100%
+13/04/2018,"38 Meadow Copse, Hartstown, Clonsilla",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+13/04/2018,"55 Castlefield Woods, Clonsilla, Dublin 15",Dublin,440000.0,No,Clonsilla,Dublin 15,q4,100%
+16/04/2018,"4 Cedar Grove, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+17/04/2018,"9 Portersfield, Clonsilla Rd, Dublin 15",Dublin,181000.0,No,Clonsilla,Dublin 15,q1,30%
+20/04/2018,"3 Allendale Copse, Phibblestown, Clonsilla Dublin 15",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+26/04/2018,"117 Portersfield, Clonsilla, Dublin 15",Dublin,268000.0,No,Clonsilla,Dublin 15,q3,60%
+26/04/2018,"71 Huntstown Wood, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+27/04/2018,"Apt 26 Lilys Court, Ongar, Clonsilla Dublin 15",Dublin,199000.0,No,Clonsilla,Dublin 15,q2,30%
+02/05/2018,"77 Castlefield Woods, Clonsilla, Dublin 15",Dublin,380000.0,No,Clonsilla,Dublin 15,q4,100%
+11/05/2018,"5 Charnwood Grove, Clonsilla, Dublin 15",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+11/05/2018,"64 Allendale Sq, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,70%
+16/05/2018,"11 St Mochtas Vale, Clonsilla, Dublin 15",Dublin,296000.0,No,Clonsilla,Dublin 15,q3,70%
+18/05/2018,"19 Castlefield Woods, Clonsilla, Dublin",Dublin,384000.0,No,Clonsilla,Dublin 15,q4,100%
+23/05/2018,"21 Ashmount, Clonsilla, Dublin 15",Dublin,263000.0,No,Clonsilla,Dublin 15,q3,60%
+24/05/2018,"141 Briarwood Gardens, Clonsilla, Dublin 15",Dublin,252000.0,No,Clonsilla,Dublin 15,q3,60%
+28/05/2018,"20 Woodvale Dr, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+30/05/2018,"10 Allendale Green, Clonsilla, Dublin 15",Dublin,338000.0,No,Clonsilla,Dublin 15,q4,90%
+01/06/2018,"24 Limelawn Hill, Clonsilla, Dublin 15",Dublin,475000.0,No,Clonsilla,Dublin 15,q4,100%
+04/06/2018,"6 Portersfield, Clonsilla, Dublin 15",Dublin,186000.0,No,Clonsilla,Dublin 15,q1,30%
+07/06/2018,"14 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,326000.0,No,Clonsilla,Dublin 15,q4,80%
+07/06/2018,"39 Shelerin Rd, Clonsilla, Dublin 15",Dublin,390000.0,No,Clonsilla,Dublin 15,q4,100%
+08/06/2018,"55 Hayworth Terrace, Ongar Park, Clonsilla",Dublin,228000.0,No,Clonsilla,Dublin 15,q2,50%
+11/06/2018,"11 Allendale Court, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+14/06/2018,"18 Barnwell Grove, Clonsilla, Dublin 15",Dublin,323249.0,Yes,Clonsilla,Dublin 15,q4,80%
+15/06/2018,"11 Stralem Mews, Ongar Park, Clonsilla Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+15/06/2018,"33 Hazelwood Ave, Hartstown, Clonsilla Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+19/06/2018,"16 Limelawn Rise, Clonsilla, Dublin 15",Dublin,112500.0,No,Clonsilla,Dublin 15,q1,10%
+20/06/2018,"11 Allendale Elms, Clonsilla, Dublin 15",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+20/06/2018,"4 Haynorth Court, Ongar Park, Clonsilla Dublin 15",Dublin,198000.0,No,Clonsilla,Dublin 15,q2,30%
+20/06/2018,"9 Allendale Elms, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q4,80%
+20/06/2018,"93 Allendale Sq, Clonsilla, Dublin 15",Dublin,187000.0,No,Clonsilla,Dublin 15,q1,30%
+22/06/2018,"20 Porters Fiels, Clonsilla Rd, Dublin 15",Dublin,247500.0,No,Clonsilla,Dublin 15,q2,50%
+22/06/2018,"51 Westhaven, Clonsilla, Dublin 15",Dublin,301000.0,No,Clonsilla,Dublin 15,q3,80%
+26/06/2018,"St Laurence, Orchard Ave, Clonsilla Dublin 15",Dublin,410000.0,No,Clonsilla,Dublin 15,q4,100%
+27/06/2018,"41 Meadow Way, Clonsilla, Dublin 15",Dublin,268000.0,No,Clonsilla,Dublin 15,q3,60%
+28/06/2018,"38 Latchford Green, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+02/07/2018,"46 Portersgate Heights, Porterstown, Clonsilla Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+04/07/2018,"12 Sorrel Dr, Sorrel Park, Clonsilla Dublin 15",Dublin,354000.0,No,Clonsilla,Dublin 15,q4,90%
+06/07/2018,"10 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,355000.0,No,Clonsilla,Dublin 15,q4,90%
+09/07/2018,"66 Castlefield Court, Clonsilla, Dublin 15",Dublin,340000.0,No,Clonsilla,Dublin 15,q4,90%
+09/07/2018,"75 Cherryfield Lawn, Clonsilla, Dublin 15",Dublin,240000.0,No,Clonsilla,Dublin 15,q2,50%
+10/07/2018,"11 Ravenswood Ave, Clonsilla, Dublin 15",Dublin,307500.0,No,Clonsilla,Dublin 15,q3,80%
+12/07/2018,"24 Castlefield Park, Clonsilla, Dublin",Dublin,390000.0,No,Clonsilla,Dublin 15,q4,100%
+13/07/2018,"18 Limelawn Court, Aspen Wood, Clonsilla Dublin 15",Dublin,453530.0,No,Clonsilla,Dublin 15,q4,100%
+16/07/2018,"36 Windermere, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q4,80%
+18/07/2018,"15 Ravenswood Road, Clonsilla",Dublin,392000.0,No,Clonsilla,Dublin 15,q4,100%
+18/07/2018,"32 Barnwell Grove, Hansfield, Clonsilla",Dublin,343612.33,Yes,Clonsilla,Dublin 15,q4,90%
+23/07/2018,"1 Weavers Wood, Clonsilla",Dublin,375000.0,Yes,Clonsilla,Dublin 15,q4,100%
+23/07/2018,"10 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,90%
+23/07/2018,"11 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,90%
+23/07/2018,"12 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,90%
+23/07/2018,"13 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,90%
+23/07/2018,"15 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,90%
+23/07/2018,"16 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,90%
+23/07/2018,"17 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,90%
+23/07/2018,"17 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,90%
+23/07/2018,"18 Weavers Wood, Clonsilla",Dublin,236000.0,Yes,Clonsilla,Dublin 15,q2,50%
+23/07/2018,"19 Weavers Wood, Clonsilla",Dublin,236000.0,Yes,Clonsilla,Dublin 15,q2,50%
+23/07/2018,"2 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,90%
+23/07/2018,"20 Weavers Wood, Clonsilla",Dublin,290000.0,Yes,Clonsilla,Dublin 15,q3,70%
+23/07/2018,"21 Weavers Wood, Clonsilla",Dublin,240000.0,Yes,Clonsilla,Dublin 15,q2,50%
+23/07/2018,"22 Weavers Wood, Clonsilla",Dublin,240000.0,Yes,Clonsilla,Dublin 15,q2,50%
+23/07/2018,"23 Weavers Wood, Clonsilla",Dublin,300000.0,Yes,Clonsilla,Dublin 15,q3,80%
+23/07/2018,"24 Weavers Wood, Clonsilla",Dublin,240000.0,Yes,Clonsilla,Dublin 15,q2,50%
+23/07/2018,"25 Weavers Wood, Clonsilla",Dublin,300000.0,Yes,Clonsilla,Dublin 15,q3,80%
+23/07/2018,"26 Weavers Wood, Clonsilla",Dublin,236000.0,Yes,Clonsilla,Dublin 15,q2,50%
+23/07/2018,"27 Weavers Wood, Clonsilla",Dublin,236000.0,Yes,Clonsilla,Dublin 15,q2,50%
+23/07/2018,"28 Weavers Wood, Clonsilla",Dublin,290000.0,Yes,Clonsilla,Dublin 15,q3,70%
+23/07/2018,"29 Weavers Wood, Clonsilla",Dublin,240000.0,Yes,Clonsilla,Dublin 15,q2,50%
+23/07/2018,"3 Weavers Wood, Clonsilla",Dublin,375000.0,Yes,Clonsilla,Dublin 15,q4,100%
+23/07/2018,"30 Weavers Wood 31 Weavers Wood, 32 Weavers Wood 33 Weavers Wood, Clonsilla",Dublin,1080123.0,Yes,Clonsilla,Dublin 15,q4,100%
+23/07/2018,"4 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,100%
+23/07/2018,"5 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,100%
+23/07/2018,"6 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,100%
+23/07/2018,"7 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,100%
+23/07/2018,"8 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,100%
+23/07/2018,"9 Weavers Wood, Clonsilla",Dublin,365000.0,Yes,Clonsilla,Dublin 15,q4,100%
+25/07/2018,"16 Allendale Place, Clonsilla, Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+26/07/2018,"33 Oakview Ave, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+26/07/2018,"34 Portersfield, Clonsilla, Dublin 15",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+30/07/2018,"3 Lohunda Close, Clonsilla, Dublin 15",Dublin,302500.0,No,Clonsilla,Dublin 15,q3,80%
+31/07/2018,"27 Charnwood Grove, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+01/08/2018,"22 Charnwood Gardens, Clonsilla, Dublin 15",Dublin,427000.0,No,Clonsilla,Dublin 15,q4,100%
+10/08/2018,"113 Fortlawn Ave, Clonsilla, Dublin 15",Dublin,225000.0,No,Clonsilla,Dublin 15,q2,40%
+16/08/2018,"10 Manor Court, Clonsilla, Dublin",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,40%
+16/08/2018,"115 Clonsilla Rd, Dublin 15, Dublin",Dublin,385000.0,No,Clonsilla,Dublin 15,q4,100%
+16/08/2018,"52 Castlefield Court, Clonsilla, Dublin 15",Dublin,445000.0,No,Clonsilla,Dublin 15,q4,100%
+17/08/2018,"21 Mount Symon Rise, Clonsilla, Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+20/08/2018,"5 Stralem Grove, Ongar, Clonsilla Dublin 15",Dublin,258000.0,No,Clonsilla,Dublin 15,q3,60%
+23/08/2018,"22 Castlegrange Dale, Clonsilla, Dublin 15",Dublin,285000.0,No,Clonsilla,Dublin 15,q3,70%
+24/08/2018,"43 Meadow Dr, Clonsilla, Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+28/08/2018,"34A Willow Wood Grove, Clonsilla, Dublin",Dublin,287000.0,No,Clonsilla,Dublin 15,q3,70%
+28/08/2018,"9 Hayworth Mews, Ongar Park, Clonsilla Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+29/08/2018,"21 Oakview Way, Clonsilla, Dublin 15",Dublin,201000.0,No,Clonsilla,Dublin 15,q2,30%
+31/08/2018,"17 Woodvale Garth, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+31/08/2018,"20 Allendale Court, Clonsilla, Dublin 15",Dublin,175000.0,No,Clonsilla,Dublin 15,q1,20%
+05/09/2018,"4 Allendale Elms, Clonsilla, Dublin 15",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+07/09/2018,"1 Barberstown Cottages, Barberstown, Clonsilla Dublin 15",Dublin,625000.0,No,Clonsilla,Dublin 15,q4,100%
+07/09/2018,"37 Woodvale Crescent, Clonsilla, Dublin 15",Dublin,301000.0,No,Clonsilla,Dublin 15,q3,80%
+14/09/2018,"20 Allendale Sq, Clonsilla, Dublin 15",Dublin,285000.0,No,Clonsilla,Dublin 15,q3,70%
+14/09/2018,"57 The Courtyard, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+17/09/2018,"28 St Mochtas Rd, Coolmine Lodge, Clonsilla",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+18/09/2018,"21 St Mochtas Green, Clonsilla, Dublin 15",Dublin,355000.0,No,Clonsilla,Dublin 15,q4,90%
+20/09/2018,"24 Charnwood Heath, Clonsilla, Dublin 15",Dublin,390000.0,No,Clonsilla,Dublin 15,q4,100%
+21/09/2018,"2 Allendale Sq, Clonsilla, Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+21/09/2018,"45 Pinebrook Vale, Clonsilla, Dublin 15",Dublin,256000.0,No,Clonsilla,Dublin 15,q3,60%
+26/09/2018,"1 Allendale Place, Phibblestown, Clonsilla Dublin 15",Dublin,295000.0,No,Clonsilla,Dublin 15,q3,70%
+26/09/2018,"12 Portersgate Court, Clonsilla, Dublin 15",Dublin,394000.0,No,Clonsilla,Dublin 15,q4,100%
+26/09/2018,"2 Limelawn Wood, Clonsilla, Dublin 15",Dublin,366300.0,No,Clonsilla,Dublin 15,q4,100%
+28/09/2018,"119 Portersfield, Clonsilla, Dublin 15",Dublin,318000.0,No,Clonsilla,Dublin 15,q4,80%
+28/09/2018,"2 Woodvale Grove, Clonsilla, Dublin 15",Dublin,280000.0,No,Clonsilla,Dublin 15,q3,70%
+28/09/2018,"42 Mount Symon Green, Clonsilla, Dublin 15",Dublin,300000.0,No,Clonsilla,Dublin 15,q3,80%
+02/10/2018,"46 Portersgate Close, Portersgate, Clonsilla",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+03/10/2018,"Apt 67 Block 4 Annaly Grove, Ongar Lodge, Clonsilla",Dublin,229000.0,No,Clonsilla,Dublin 15,q2,50%
+05/10/2018,"38 Aldemere Dr, Clonsilla, Dublin 15",Dublin,430000.0,No,Clonsilla,Dublin 15,q4,100%
+12/10/2018,"18 Cherryfield Court, Clonsilla, Dublin 15",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+12/10/2018,"5 Oakview Park, Hartstown, Clonsilla Dublin 15",Dublin,292500.0,No,Clonsilla,Dublin 15,q3,70%
+12/10/2018,"95 Portersfield, Clonsilla, Dublin 15",Dublin,295000.0,No,Clonsilla,Dublin 15,q3,70%
+15/10/2018,"36 Lambourne Rd, Clonsilla, Dublin 15",Dublin,345000.0,No,Clonsilla,Dublin 15,q4,90%
+18/10/2018,"18 Meadow Way, Hartstown, Clonsilla Dublin 15",Dublin,358000.0,No,Clonsilla,Dublin 15,q4,90%
+19/10/2018,"66 Allendale Sq, Clonsilla, Dublin 15",Dublin,280000.0,No,Clonsilla,Dublin 15,q3,70%
+19/10/2018,"Apt 2, Allendale Court, Clonsilla Dublin 15",Dublin,180000.0,No,Clonsilla,Dublin 15,q1,30%
+24/10/2018,"5 Allendale Walk, Clonsilla, Dublin 15",Dublin,236000.0,No,Clonsilla,Dublin 15,q2,50%
+26/10/2018,"27 Huntstown Dr, Clonsilla, Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+26/10/2018,"Apt 10, Phibblestown House, Clonsilla Dublin 15",Dublin,195000.0,No,Clonsilla,Dublin 15,q2,30%
+30/10/2018,"4 Whitechapel Court, Clonsilla, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+02/11/2018,"1 Oak View Rise, Clonsilla, Dublin 15",Dublin,460000.0,No,Clonsilla,Dublin 15,q4,100%
+06/11/2018,"16 Stonebridge Ave, Clonsilla, Dublin 15",Dublin,295000.0,No,Clonsilla,Dublin 15,q3,70%
+12/11/2018,"21A Huntstown Court, Clonsilla, Dublin 15",Dublin,250000.0,Yes,Clonsilla,Dublin 15,q3,60%
+14/11/2018,"11 St Mochtas Glen, Clonsilla, Dublin 15",Dublin,355000.0,No,Clonsilla,Dublin 15,q4,90%
+19/11/2018,"4 Stationcourt Way, Clonsilla, Dublin",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+21/11/2018,"87 Portersfield, Clonsilla Rd, Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+22/11/2018,"40 Willow Wood View, Clonsilla, Dublin 15",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+22/11/2018,"58 St Mochtas Green, Clonsilla Dublin 15, Dublin",Dublin,283500.0,No,Clonsilla,Dublin 15,q3,70%
+23/11/2018,"28 Glenville Green, Clonsilla, Dublin 15",Dublin,355510.0,No,Clonsilla,Dublin 15,q4,90%
+23/11/2018,"46 Clonsilla Rd, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q4,80%
+23/11/2018,"78 Allendale Sq, Clonsilla, Dublin 15",Dublin,226000.0,No,Clonsilla,Dublin 15,q2,40%
+26/11/2018,"19 Lohunda Downs, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q4,80%
+26/11/2018,"4 Elmwood, Clonsilla, Dublin 15",Dublin,265000.0,No,Clonsilla,Dublin 15,q3,60%
+27/11/2018,"4A Lohunda Close, Clonsilla, Dublin",Dublin,289000.0,No,Clonsilla,Dublin 15,q3,70%
+27/11/2018,"6 Elmwood Close, Clonsilla, Dublin 15",Dublin,266000.0,No,Clonsilla,Dublin 15,q3,60%
+28/11/2018,"31 Lohunda Park, Clonsilla, Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+28/11/2018,"Barnhill, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+29/11/2018,"32 Sorrel Heath, Clonsilla, Dublin",Dublin,382000.0,No,Clonsilla,Dublin 15,q4,100%
+30/11/2018,"33 The Meadows, Grange Road, Clonsilla",Dublin,140000.0,No,Clonsilla,Dublin 15,q1,10%
+04/12/2018,"41 Mount Symon Green, Clonsilla, Dublin 15",Dublin,413000.0,No,Clonsilla,Dublin 15,q4,100%
+04/12/2018,"48 Lohunda Park, Clonsilla, Dublin",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+04/12/2018,"65 Briarwood Road, Clonsilla, Dublin 15",Dublin,294000.0,No,Clonsilla,Dublin 15,q3,70%
+05/12/2018,"5 Rockfield Dr, Clonsilla, Dublin 15",Dublin,425000.0,No,Clonsilla,Dublin 15,q4,100%
+06/12/2018,"3 Allendale View, Clonsilla, Dublin 15",Dublin,276000.0,No,Clonsilla,Dublin 15,q3,70%
+11/12/2018,"4 The Courtyard, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+12/12/2018,"10 Inglewood Close, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q3,60%
+12/12/2018,"30 Huntstown Lawn, Clonsilla, Dublin 15",Dublin,322000.0,No,Clonsilla,Dublin 15,q4,80%
+12/12/2018,"7 Huntstown Park, Clonsilla Dublin 15, Dublin",Dublin,292000.0,No,Clonsilla,Dublin 15,q3,70%
+13/12/2018,"72 Huntstown Rise, Clonsilla, Dublin 15",Dublin,253500.0,No,Clonsilla,Dublin 15,q3,60%
+13/12/2018,"8 Mount Symon Dale, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%
+14/12/2018,"4 Springlawn Heights, Clonsilla, Dublin 15",Dublin,390000.0,No,Clonsilla,Dublin 15,q4,100%
+14/12/2018,"71 The Courtyard, Clonsilla Rd, Clonsilla Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+17/12/2018,"24 Castlefield Court, Clonsilla, Dublin 15",Dublin,382500.0,No,Clonsilla,Dublin 15,q4,100%
+19/12/2018,"15 Allendale Glen, Phibblestown, Clonsilla Dublin 15",Dublin,268000.0,No,Clonsilla,Dublin 15,q3,60%
+19/12/2018,"35 Ashfield Gardens, Huntstown, Clonsilla Dublin 15",Dublin,262000.0,No,Clonsilla,Dublin 15,q3,60%
+20/12/2018,"2 Willow Wood Rise, Clonsilla, Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+20/12/2018,"28 Aspen Avenue, Aspen Wood, Clonsilla",Dublin,380000.0,No,Clonsilla,Dublin 15,q4,100%
+20/12/2018,"29 Limelawn Court, Clonsilla, Dublin 15",Dublin,395000.0,No,Clonsilla,Dublin 15,q4,100%
+02/01/2019,"40 The Courtyard, Clonsilla, Dublin 15",Dublin,221500.0,No,Clonsilla,Dublin 15,q2,40%
+04/01/2019,"13 Inglewood Close, Clonsilla, Dublin 15",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+04/01/2019,"39 Lambourn Ave, Clonsilla, Dublin 15",Dublin,365000.0,No,Clonsilla,Dublin 15,q4,100%
+10/01/2019,"23 Allendale Dr, Clonsilla, Dublin 15",Dublin,445000.0,No,Clonsilla,Dublin 15,q4,100%
+10/01/2019,"50 Portersfield, Clonsilla, Dublin 15",Dublin,266500.0,No,Clonsilla,Dublin 15,q3,60%
+15/01/2019,"23 Beechwood Downs, Hartstown Clonsilla, Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+15/01/2019,"46 Charnwood Grove, Clonsilla, Dublin 15",Dublin,335000.0,No,Clonsilla,Dublin 15,q4,90%
+16/01/2019,"113 Allendale Sq, Clonsilla, Dublin 15",Dublin,232000.0,No,Clonsilla,Dublin 15,q2,50%
+21/01/2019,"15 Portersgate Ave, Clonsilla, Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+24/01/2019,"41 Ravenswood Rise, Clonsilla, Dublin 15",Dublin,246000.0,No,Clonsilla,Dublin 15,q2,50%
+28/01/2019,"28 Stonebridge Ave, Hartstown, Clonsilla Dublin 15",Dublin,290000.0,No,Clonsilla,Dublin 15,q3,70%
+29/01/2019,"55 Latchford Close, Clonsilla, Dublin 15",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+29/01/2019,"69 Inglewood Rd, Clonsilla, Dublin 15",Dublin,254000.0,No,Clonsilla,Dublin 15,q3,60%
+29/01/2019,"9 Allendale Court, Clonsilla, Dublin 15",Dublin,207000.0,No,Clonsilla,Dublin 15,q2,40%
+30/01/2019,"48 Stonebridge Rd, Clonsilla Dublin 15, Dublin",Dublin,280000.0,No,Clonsilla,Dublin 15,q3,70%
+31/01/2019,"55 Allendale Sq, Clonsilla, Dublin 15",Dublin,297500.0,No,Clonsilla,Dublin 15,q3,70%
+04/02/2019,"3 Sorrel Dr, Sorrel Park, Clonsilla Dublin 15",Dublin,370000.0,No,Clonsilla,Dublin 15,q4,100%
+06/02/2019,"75 Ferndale, Huntstown, Clonsilla Dublin 15",Dublin,285000.0,No,Clonsilla,Dublin 15,q3,70%
+18/02/2019,"37 Lohunda Dr, Clonsilla, Dublin 15",Dublin,304000.0,No,Clonsilla,Dublin 15,q3,80%
+18/02/2019,"38 Woodvale Crescent, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,70%
+22/02/2019,"3 Charnwood Dale, Clonsilla, Dublin 15",Dublin,385000.0,No,Clonsilla,Dublin 15,q4,100%
+26/02/2019,"6 Sorrel Dale, Clonsilla, Dublin 15",Dublin,352500.0,No,Clonsilla,Dublin 15,q4,90%
+27/02/2019,"11 Allendale Place, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+28/02/2019,"50 Portersgate Heights, Clonsilla, Dublin 15",Dublin,368000.0,No,Clonsilla,Dublin 15,q4,100%
+28/02/2019,"69 Pinebrook Vale, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q3,60%
+04/03/2019,"7 Portersgate Court, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q4,80%
+06/03/2019,"128 Huntstown Wood, Clonsilla, Dublin 15",Dublin,216500.0,No,Clonsilla,Dublin 15,q2,40%
+06/03/2019,"66 Meadow Copse, Clonsilla, Dublin 15",Dublin,271000.0,No,Clonsilla,Dublin 15,q3,70%
+08/03/2019,"21 Hazelwood Ave, Hartstown, Clonsilla Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+11/03/2019,"19 Charnwood Lawns, Clonsilla, Dublin 15",Dublin,416000.0,No,Clonsilla,Dublin 15,q4,100%
+11/03/2019,"8 Limelawn Rise, Clonsilla, Dublin 15",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+11/03/2019,"95 Castlefield Woods, Clonsilla, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+14/03/2019,"25 Phibblestown House, Phibblestown Ave, Clonsilla Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+15/03/2019,"2 Ferndale, Huntstown Glen, Clonsilla Dublin 15",Dublin,285000.0,No,Clonsilla,Dublin 15,q3,70%
+22/03/2019,"29 Huntstown Lawn, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+22/03/2019,"7 Allendale Dr, Clonsilla, Dublin 15",Dublin,295000.0,No,Clonsilla,Dublin 15,q3,70%
+26/03/2019,"5 Castlefield Hall, Clonsilla, Dublin 15",Dublin,343612.33,Yes,Clonsilla,Dublin 15,q4,90%
+27/03/2019,"44 Pinebrook View, Clonsilla, Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+27/03/2019,"7 Castlefield Hall, Clonsilla, Dublin 15",Dublin,405286.34,Yes,Clonsilla,Dublin 15,q4,100%
+27/03/2019,"7 Portersgate View, Clonsilla, Dublin 15",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+29/03/2019,"66 The Courtyard, Clonsilla Rd, Clonsilla Dublin 15",Dublin,239000.0,No,Clonsilla,Dublin 15,q2,50%
+02/04/2019,"5 Allendale Place, Phibblestown, Clonsilla Dublin 15",Dublin,247000.0,No,Clonsilla,Dublin 15,q2,50%
+03/04/2019,"31 Ravenswood Crescent, Clonsilla, Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+05/04/2019,"22 Ashmount, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+05/04/2019,"9 Castlefield Hall, Clonsilla, Dublin 15",Dublin,405286.34,Yes,Clonsilla,Dublin 15,q4,100%
+10/04/2019,"52 Phibblestown House, Phibblestown Ave, Clonsilla Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+12/04/2019,"10 Allendale Elms, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+12/04/2019,"14 Willow Wood Rise, Hartstown, Clonsilla Dublin 15",Dublin,275000.0,No,Clonsilla,Dublin 15,q3,70%
+16/04/2019,"32 Phibbelstown House, Clonsilla, Dublin 15",Dublin,225000.0,No,Clonsilla,Dublin 15,q2,40%
+16/04/2019,"37 Inglewood Rd, Clonsilla, Dublin 15",Dublin,235000.0,No,Clonsilla,Dublin 15,q2,50%
+16/04/2019,"38 Allendale Rise, Clonsilla, Dublin 15",Dublin,294000.0,No,Clonsilla,Dublin 15,q3,70%
+17/04/2019,"10 Castlefield Hall, Clonsilla, Dublin 15",Dublin,409691.63,Yes,Clonsilla,Dublin 15,q4,100%
+17/04/2019,"20 Lohunda Downs, Clonsilla, Dublin 15",Dublin,260000.0,No,Clonsilla,Dublin 15,q3,60%
+18/04/2019,"15 Castlefield Hall, Clonsilla, Dublin 15",Dublin,405286.34,Yes,Clonsilla,Dublin 15,q4,100%
+18/04/2019,"68 Stonebridge Ave, Clonsilla, Dublin 15",Dublin,200000.0,No,Clonsilla,Dublin 15,q2,30%
+18/04/2019,"Astagob House, Porterstown, Clonsilla Dublin 15",Dublin,1200000.0,No,Clonsilla,Dublin 15,q4,100%
+24/04/2019,"38 Mount Symon Crescent, Clonsilla, Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+25/04/2019,"42 Beechwood Downs, Clonsilla, Dublin 15",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+25/04/2019,"47 Castlefield Park, Clonsilla, Dublin 15",Dublin,392000.0,No,Clonsilla,Dublin 15,q4,100%
+26/04/2019,"5 Woodvale Garth, Clonsilla, Dublin 15",Dublin,271000.0,No,Clonsilla,Dublin 15,q3,70%
+29/04/2019,"40  Barnwell Woods, Hansfield, Clonsilla",Dublin,330396.0,Yes,Clonsilla,Dublin 15,q4,90%
+29/04/2019,"6 Aldemere View, Clonsilla, Dublin 15",Dublin,385000.0,No,Clonsilla,Dublin 15,q4,100%
+29/04/2019,"85 Castlefield Woods, Clonsilla, Dublin 15",Dublin,391000.0,No,Clonsilla,Dublin 15,q4,100%
+29/04/2019,"89 Cherryfield Lawn, Clonsilla, Dublin 15",Dublin,248000.0,No,Clonsilla,Dublin 15,q2,50%
+02/05/2019,"1 Westhaven, Huntstown Rd, Clonsilla Dublin 15",Dublin,273000.0,No,Clonsilla,Dublin 15,q3,70%
+02/05/2019,"12 Limelawn Row, Clonsilla, Dublin 15",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+07/05/2019,"82 Castlewood, Huntstown, Clonsilla Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+10/05/2019,"4 Windmill Park, Porterstown, Clonsilla Dublin 15",Dublin,172500.0,No,Clonsilla,Dublin 15,q1,20%
+10/05/2019,"4 Windmill Park, Porterstown, Clonsilla Dublin 15",Dublin,172500.0,No,Clonsilla,Dublin 15,q1,20%
+13/05/2019,"4 Charnwood Green, Clonsilla, Dublin 15",Dublin,368000.0,No,Clonsilla,Dublin 15,q4,100%
+16/05/2019,"6 Castlefield Hall, Clonsilla, Dublin 15",Dublin,361233.0,Yes,Clonsilla,Dublin 15,q4,90%
+17/05/2019,"4 Ard Eadrad, Blakestown Rd, Clonsilla Dublin 15",Dublin,120000.0,No,Clonsilla,Dublin 15,q1,10%
+17/05/2019,"9 Willows Dr, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q4,80%
+23/05/2019,"50 Portersgate Close, Clonsilla, Dublin 15",Dublin,192500.0,No,Clonsilla,Dublin 15,q1,30%
+24/05/2019,"13 Castlefield Hall, Clonsilla, Dublin 15",Dublin,460000.0,Yes,Clonsilla,Dublin 15,q4,100%
+24/05/2019,"38 Elmwood, Clonsilla, Dublin 15",Dublin,259000.0,No,Clonsilla,Dublin 15,q3,60%
+24/05/2019,"7 Beechwood Heath, Hansfield, Clonsilla",Dublin,393600.0,Yes,Clonsilla,Dublin 15,q4,100%
+29/05/2019,"1A Lambourn Ave, Clonsilla, Dublin 15",Dublin,375000.0,No,Clonsilla,Dublin 15,q4,100%
+30/05/2019,"15 Mount Symon Ave, Clonsilla, Dublin 15",Dublin,362000.0,No,Clonsilla,Dublin 15,q4,90%
+30/05/2019,"17 Castlefield Hall, Clonsilla",Dublin,405286.0,Yes,Clonsilla,Dublin 15,q4,100%
+31/05/2019,"18 The Courtyard, Clonsilla Rd, Clonsilla Dublin 15",Dublin,261500.0,No,Clonsilla,Dublin 15,q3,60%
+31/05/2019,"22 Portersfield, Clonsilla Rd, Dublin 15",Dublin,186000.0,No,Clonsilla,Dublin 15,q1,30%
+05/06/2019,"19 St Mochtas Lawn, Clonsilla, Dublin 15",Dublin,370000.0,No,Clonsilla,Dublin 15,q4,100%
+06/06/2019,"16 Mount Symon Dale, Clonsilla, Dublin 15",Dublin,340000.0,No,Clonsilla,Dublin 15,q4,90%
+06/06/2019,"30 Portersfield, Clonsilla Rd, Clonsilla Dublin 15",Dublin,232000.0,No,Clonsilla,Dublin 15,q2,50%
+06/06/2019,"Apt 28 The Meadows, Grange Rd, Clonsilla Dublin 15",Dublin,225000.0,No,Clonsilla,Dublin 15,q2,40%
+07/06/2019,"18 Castlefield Hall, Clonsilla, Dublin 15",Dublin,418502.0,Yes,Clonsilla,Dublin 15,q4,100%
+10/06/2019,"30 Pinebrook Glen, Clonsilla, Dublin",Dublin,250000.0,No,Clonsilla,Dublin 15,q3,60%
+11/06/2019,"16 The Courtyard, Clonsilla, Dublin 15",Dublin,215000.0,No,Clonsilla,Dublin 15,q2,40%
+12/06/2019,"14 Castlefield Hall, Clonsilla",Dublin,405286.0,Yes,Clonsilla,Dublin 15,q4,100%
+12/06/2019,"27 Hayworth Terrace, Ongar Park, Clonsilla Dublin 15",Dublin,264000.0,No,Clonsilla,Dublin 15,q3,60%
+14/06/2019,"78 Anally Grove Ongar, Clonsilla Dublin 15, Dublin",Dublin,166200.0,No,Clonsilla,Dublin 15,q1,20%
+21/06/2019,"4 Beechwood Gate, Hansfield, Clonsilla",Dublin,405286.0,Yes,Clonsilla,Dublin 15,q4,100%
+21/06/2019,"7 Inglewood Close, Clonsilla, Dublin 15",Dublin,326000.0,No,Clonsilla,Dublin 15,q4,90%
+21/06/2019,"9 Ashmount, Blakestown Rd, Clonsilla Dublin 15",Dublin,280500.0,No,Clonsilla,Dublin 15,q3,70%
+24/06/2019,"31 The Courtyard, Clonsilla Rd, Clonsilla Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,70%
+25/06/2019,"114 Castlefield Hall, Clonsilla, Dublin 15",Dublin,348017.0,Yes,Clonsilla,Dublin 15,q4,90%
+26/06/2019,"86 Castlefield Court, Clonsilla, Dublin 15",Dublin,320000.0,No,Clonsilla,Dublin 15,q4,80%
+27/06/2019,"113 Castlefield Hall, Clonsilla  Dublin 15",Dublin,348017.62,Yes,Clonsilla,Dublin 15,q4,90%
+27/06/2019,"36 Portersfield, Clonsilla Rd, Dublin 15",Dublin,197000.0,No,Clonsilla,Dublin 15,q2,30%
+28/06/2019,"109 Portersfield, Clonsilla, Dublin 15",Dublin,295000.0,No,Clonsilla,Dublin 15,q3,70%
+28/06/2019,"11 Lohunda Crescent, Clonsilla, Dublin 15",Dublin,345000.0,No,Clonsilla,Dublin 15,q4,90%
+28/06/2019,"24 Glenville Dr, Clonsilla, Dublin 15",Dublin,388000.0,No,Clonsilla,Dublin 15,q4,100%
+28/06/2019,"27 Aldemere Dr, Clonsilla, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+28/06/2019,"32 Lohunda Crescent, Clonsilla, Dublin 15",Dublin,322500.0,No,Clonsilla,Dublin 15,q4,80%
+28/06/2019,"7 Charnwood Lawns, Clonsilla, Dublin 15",Dublin,187500.0,No,Clonsilla,Dublin 15,q1,30%
+01/07/2019,"22 Ingleswood Rd, Clonsilla, Dublin",Dublin,280000.0,No,Clonsilla,Dublin 15,q3,70%
+02/07/2019,"26 Blakestown Dr, Clonsilla, Dublin 15",Dublin,267000.0,No,Clonsilla,Dublin 15,q3,60%
+02/07/2019,"73 Lambourn Park, Clonsilla, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+10/07/2019,"16 Annaly Grove, Clonsilla, Dublin 15",Dublin,205000.0,No,Clonsilla,Dublin 15,q2,40%
+10/07/2019,"39 Aldemere Dr, Clonsilla, Dublin 15",Dublin,410000.0,No,Clonsilla,Dublin 15,q4,100%
+10/07/2019,"43 Mount Symon Dale, Clonsilla, Dublin 15",Dublin,360000.0,No,Clonsilla,Dublin 15,q4,90%
+15/07/2019,"7 Woodvale Garth, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,70%
+16/07/2019,"115 Castlefield Hall, Clonsilla, Dublin 15",Dublin,321138.21,Yes,Clonsilla,Dublin 15,q4,80%
+16/07/2019,"36 Hazelwood Cresent, Clonsilla, Dublin 15",Dublin,277000.0,No,Clonsilla,Dublin 15,q3,70%
+18/07/2019,"28 The Courtyard, Clonsilla Rd, Clonsilla Dublin 15",Dublin,220000.0,No,Clonsilla,Dublin 15,q2,40%
+22/07/2019,"10 St Mochtas Close, Clonsilla, Dublin 15",Dublin,342500.0,No,Clonsilla,Dublin 15,q4,90%
+23/07/2019,"88 Allendale Sq, Clonsilla, Dublin 15",Dublin,273000.0,No,Clonsilla,Dublin 15,q3,70%
+24/07/2019,"45 Barnwell Woods, Hansfield, Clonsilla",Dublin,292952.0,Yes,Clonsilla,Dublin 15,q3,70%
+29/07/2019,"10 St Mochtas Rd, Clonsilla, Dublin",Dublin,339500.0,No,Clonsilla,Dublin 15,q4,90%
+30/07/2019,"11 Portersgate Crescent, Clonsilla, Dublin 15",Dublin,426000.0,No,Clonsilla,Dublin 15,q4,100%
+30/07/2019,"28 Allendale Elms, Clonsilla Dublin 15, Dublin",Dublin,312000.0,No,Clonsilla,Dublin 15,q4,80%
+01/08/2019,"The Oaks, Porterstown Rd, Clonsilla Dublin 15",Dublin,3946000.0,No,Clonsilla,Dublin 15,q4,100%
+02/08/2019,"26 Willowwood Rise, Hartstown Clonsilla, Dublin 15",Dublin,268000.0,No,Clonsilla,Dublin 15,q3,60%
+06/08/2019,"20 Glenville Green, Clonsilla, Dublin 15",Dublin,467000.0,No,Clonsilla,Dublin 15,q4,100%
+06/08/2019,"8 Hayworth Close, Ongar, Clonsilla Dublin 15",Dublin,210000.0,No,Clonsilla,Dublin 15,q2,40%
+07/08/2019,"13 Shelerin Rd, Clonsilla, Dublin 15",Dublin,425000.0,No,Clonsilla,Dublin 15,q4,100%
+08/08/2019,"24 Oakview Way, Hartstown Rd, Clonsilla Dublin 15",Dublin,306000.0,No,Clonsilla,Dublin 15,q3,80%
+08/08/2019,"29 Stonebridge Dr, Clonsilla, Dublin 15",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,70%
+09/08/2019,"12 Castlefield Hall, Clonsilla, Dublin 15",Dublin,405286.0,Yes,Clonsilla,Dublin 15,q4,100%
+09/08/2019,"123 Castlefield Hall, Clonsilla, Dublin 15",Dublin,414096.91,Yes,Clonsilla,Dublin 15,q4,100%
+12/08/2019,"16 Castlefield Hall, Clonsilla, Dublin 15",Dublin,405286.0,Yes,Clonsilla,Dublin 15,q4,100%
+13/08/2019,"87 Latchford Green, Clonsilla, Dublin 15",Dublin,35000.0,No,Clonsilla,Dublin 15,q1,10%
+14/08/2019,"4 Aldemere View, Clonsilla, Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+15/08/2019,"50 Phillibstown House, Clonsilla, Dublin 15",Dublin,225000.0,No,Clonsilla,Dublin 15,q2,40%
+16/08/2019,"28 Cherryfield View, Hartstown, Clonsilla Dublin 15",Dublin,330000.0,No,Clonsilla,Dublin 15,q4,90%
+20/08/2019,"18 Latchford Court, Hansfield Rd, Clonsilla Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+21/08/2019,"3 Oakview Dr, Clonsilla, Dublin 15",Dublin,295000.0,No,Clonsilla,Dublin 15,q3,70%
+21/08/2019,"57 Cherryfield Lawn, Clonsilla, Dublin 15",Dublin,262500.0,No,Clonsilla,Dublin 15,q3,60%
+22/08/2019,"48 Huntstown Dr, Clonsilla, Dublin 15",Dublin,241000.0,No,Clonsilla,Dublin 15,q2,50%
+23/08/2019,"1 Castlefield Hall, Clonsilla",Dublin,348017.0,Yes,Clonsilla,Dublin 15,q4,90%
+29/08/2019,"69 Phibblestown House, Clonsilla, Dublin 15",Dublin,233000.0,No,Clonsilla,Dublin 15,q2,50%
+30/08/2019,"10 Allendale Grove, Clonsilla, Dublin 15",Dublin,291000.0,No,Clonsilla,Dublin 15,q3,70%
+30/08/2019,"120 Portersfield, Clonsilla, Dublin 15",Dublin,315000.0,No,Clonsilla,Dublin 15,q4,80%
+30/08/2019,"18 Weavers Hall, Clonsilla Rd, Clonsilla Dublin 15",Dublin,222000.0,No,Clonsilla,Dublin 15,q2,40%
+04/09/2019,"4 Castlefield Hall, Clonsilla, Dublin 15",Dublin,339207.5,Yes,Clonsilla,Dublin 15,q4,90%
+05/09/2019,"12 Castlefield Woods, Clonsilla, Dublin 15",Dublin,407500.0,No,Clonsilla,Dublin 15,q4,100%
+05/09/2019,"120 Castlefield Hall, Clonsilla, Dublin 15",Dublin,414096.0,Yes,Clonsilla,Dublin 15,q4,100%
+06/09/2019,"2  Castlefield Hall, Clonsilla",Dublin,339207.0,Yes,Clonsilla,Dublin 15,q4,90%
+10/09/2019,"35 Beechwood Heath, Clonsilla",Dublin,387665.0,Yes,Clonsilla,Dublin 15,q4,100%
+10/09/2019,"4 The Meadows, Grange Road, Clonsilla",Dublin,245000.0,No,Clonsilla,Dublin 15,q2,50%
+11/09/2019,"25 Woodvale Park, Clonsilla, Dublin 15",Dublin,255000.0,No,Clonsilla,Dublin 15,q3,60%
+11/09/2019,"34 Allendale Sq, Block 3, Clonsilla Dublin 15",Dublin,227000.0,No,Clonsilla,Dublin 15,q2,50%
+11/09/2019,"7 Hayworth Mews, Ongar Park, Clonsilla Dublin 15",Dublin,277500.0,No,Clonsilla,Dublin 15,q3,70%
+12/09/2019,"41 Charnwood Heath, Clonsilla, Dublin 15",Dublin,385000.0,No,Clonsilla,Dublin 15,q4,100%
+16/09/2019,"76 Lohunda Downs, Clonsilla, Dublin 15",Dublin,262000.0,No,Clonsilla,Dublin 15,q3,60%
+17/09/2019,"92 Huntstown Wood, Clonsilla, Dublin 15",Dublin,160000.0,No,Clonsilla,Dublin 15,q1,20%
+20/09/2019,"11 Castlefield Hall, Clonsilla, Dublin 15",Dublin,405286.34,Yes,Clonsilla,Dublin 15,q4,100%
+23/09/2019,"9 St Mochtas Ave, Coolmine, Clonsilla Dublin 15",Dublin,350000.0,No,Clonsilla,Dublin 15,q4,90%
+24/09/2019,"16 Willowwood Lawn, Hartstown, Clonsilla",Dublin,270000.0,No,Clonsilla,Dublin 15,q3,70%
+24/09/2019,"22 St Mochtas Green, Clonsilla, Dublin 15",Dublin,324000.0,No,Clonsilla,Dublin 15,q4,80%
+25/09/2019,"21 Huntstown Court, Clonsilla, Dublin 15",Dublin,250000.0,No,Clonsilla,Dublin 15,q3,60%
+27/09/2019,"4 Beachwood Close, Hartstown, Clonsilla",Dublin,227000.0,No,Clonsilla,Dublin 15,q2,50%
+03/10/2019,"16 Cherryfield Walk, Clonsilla, Dublin 15",Dublin,230000.0,No,Clonsilla,Dublin 15,q2,50%
+10/10/2019,"52A Lohunda Downs, Clonsilla, Dublin 15",Dublin,310000.0,No,Clonsilla,Dublin 15,q4,80%
+11/10/2019,"44 Windermere, Clonsilla, Dublin 15",Dublin,348000.0,No,Clonsilla,Dublin 15,q4,90%
+14/10/2019,"79 Ravenswood Crescent, Clonsilla, Dublin 15",Dublin,228000.0,No,Clonsilla,Dublin 15,q2,50%
+15/10/2019,"33 Ravenswood Crescent, Castaheany, Clonsilla Dublin 15",Dublin,305000.0,No,Clonsilla,Dublin 15,q3,80%
+16/10/2019,"71 Latchford Close, Clonsilla, Dublin 15",Dublin,317000.0,No,Clonsilla,Dublin 15,q4,80%
+18/10/2019,"34 Portersgate Green, Clonsilla, Dublin 15",Dublin,393000.0,No,Clonsilla,Dublin 15,q4,100%
+24/10/2019,"5 Allendale Close, Clonsilla, Dublin 15",Dublin,325000.0,No,Clonsilla,Dublin 15,q4,80%

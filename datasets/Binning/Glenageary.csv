@@ -1,0 +1,660 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+22/01/2010,"36 Glenageary Court, Glenageary",Dublin,345000.0,No,Glenageary,Co. Dublin,q1,20%
+08/03/2010,"Falcondip, 23 Sion Road, Glenageary",Dublin,580000.0,No,Glenageary,Co. Dublin,q2,50%
+03/05/2010,"Avalon, 64 Upper Albert Road, Glenageary",Dublin,475000.0,No,Glenageary,Co. Dublin,q2,30%
+07/05/2010,"6 Kilcolman Court, Upper Glenageary Road, Glenageary",Dublin,300000.0,No,Glenageary,Co. Dublin,q1,10%
+19/05/2010,"79 Glenageary Park, Glenageary, County Dublin",Dublin,450000.0,No,Glenageary,Co. Dublin,q2,30%
+27/05/2010,"17 Hillcourt Road, Glenageary",Dublin,835000.0,No,Glenageary,Co. Dublin,q4,90%
+21/06/2010,"13 Arnold Grove, Glenageary",Dublin,466129.0,No,Glenageary,Co. Dublin,q2,30%
+30/06/2010,"94 Glenageary Avenue, Glenageary, Dublin",Dublin,422000.0,No,Glenageary,Co. Dublin,q1,30%
+02/07/2010,"13 The Lodge, Glenageary Road Lower, Glenageary",Dublin,345000.0,No,Glenageary,Co. Dublin,q1,20%
+09/07/2010,"31 Villarea Park, Glenageary, County Dublin",Dublin,645000.0,No,Glenageary,Co. Dublin,q3,60%
+02/09/2010,"12 St. Catherines Road, Glenageary, Co. Dublin",Dublin,950000.0,No,Glenageary,Co. Dublin,q4,100%
+06/09/2010,"29 Sion Road, Glenageary, Co. Dublin",Dublin,580000.0,No,Glenageary,Co. Dublin,q2,50%
+09/09/2010,"142 Silchester Park, Glenageary",Dublin,705500.0,No,Glenageary,Co. Dublin,q3,80%
+10/09/2010,"9 Glengara Park, Glenageary, .",Dublin,475000.0,No,Glenageary,Co. Dublin,q2,30%
+13/09/2010,"31 Hillcourt Park, Glenageary, Co. Dublin",Dublin,565000.0,No,Glenageary,Co. Dublin,q2,50%
+17/09/2010,"13 Greythorn Park, Glenageary",Dublin,465000.0,No,Glenageary,Co. Dublin,q2,30%
+17/09/2010,"Number 3, Marlborough Road, Glenageary",Dublin,1960000.0,No,Glenageary,Co. Dublin,q4,100%
+20/09/2010,"7 Glenageary Lodge, Glenageary",Dublin,511000.0,No,Glenageary,Co. Dublin,q2,40%
+14/10/2010,"15 Glenageary Court, Glenageary, County Dublin",Dublin,320000.0,No,Glenageary,Co. Dublin,q1,10%
+15/10/2010,"95 Glenageary Park, Glenageary, Co. Dublin",Dublin,452000.0,No,Glenageary,Co. Dublin,q2,30%
+21/10/2010,"3 Sharavogue, Glenageary, Co Dublin",Dublin,570000.0,No,Glenageary,Co. Dublin,q2,50%
+05/11/2010,"35 Bellevue Road, Glenageary",Dublin,489000.0,No,Glenageary,Co. Dublin,q2,40%
+07/12/2010,"Redbridge, 204 Glenageary Road, Glenageary",Dublin,845000.0,No,Glenageary,Co. Dublin,q4,90%
+09/12/2010,"14 Traverslea Wood, Glenageary",Dublin,392071.0,Yes,Glenageary,Co. Dublin,q1,20%
+10/12/2010,"2 Claremont Villas, Adelaide Road, Glenageary",Dublin,610000.0,No,Glenageary,Co. Dublin,q2,50%
+15/12/2010,"Ferndown, Marlborough Road, Glenageary",Dublin,1600000.0,No,Glenageary,Co. Dublin,q4,100%
+20/12/2010,"30  Silchester Park, Glenageary",Dublin,535000.0,No,Glenageary,Co. Dublin,q2,40%
+24/01/2011,"128 Glenageary Avenue, Glenageary",Dublin,412500.0,No,Glenageary,Co. Dublin,q1,30%
+24/01/2011,"130 Glenageary Avenue, Glenageary",Dublin,465000.0,No,Glenageary,Co. Dublin,q2,30%
+25/02/2011,"15 Upper Albert Road, Glenageary",Dublin,780000.0,No,Glenageary,Co. Dublin,q4,90%
+04/05/2011,"18 Haddington Park, Glenageary",Dublin,405000.0,No,Glenageary,Co. Dublin,q1,20%
+26/05/2011,"50 Glengara Park, Glenageary, County Dublin",Dublin,360000.0,No,Glenageary,Co. Dublin,q1,20%
+26/05/2011,"82 Adelaide Road, Glenageary, Co. Dublin",Dublin,25000.0,No,Glenageary,Co. Dublin,q1,10%
+27/05/2011,"10 St. Catherines Park, Glenageary",Dublin,620000.0,No,Glenageary,Co. Dublin,q2,50%
+03/06/2011,"122 Silchester Park, Glenageary",Dublin,570000.0,No,Glenageary,Co. Dublin,q2,50%
+22/07/2011,"179 Glenageary Park, Glenageary",Dublin,424000.0,No,Glenageary,Co. Dublin,q1,30%
+04/08/2011,"2 Glenageary Hall, Glenageary",Dublin,610000.0,No,Glenageary,Co. Dublin,q2,50%
+05/08/2011,"8 St Catherines Park, Glenageary",Dublin,629200.0,No,Glenageary,Co. Dublin,q3,60%
+12/08/2011,"41 Glenageary Woods, Glenageary",Dublin,480000.0,No,Glenageary,Co. Dublin,q2,40%
+29/08/2011,"146 Upper Glenageary Road, Glenageary, County Dublin",Dublin,391000.0,No,Glenageary,Co. Dublin,q1,20%
+01/09/2011,"94 Silchester Park, Glenageary",Dublin,650000.0,No,Glenageary,Co. Dublin,q3,60%
+01/09/2011,"Ashley, Adelaide Road  Glenageary, Co. Dublin",Dublin,1890000.0,No,Glenageary,Co. Dublin,q4,100%
+23/09/2011,"59 Flower Grove, Glenageary",Dublin,465000.0,No,Glenageary,Co. Dublin,q2,30%
+27/09/2011,"Strathdoon, 24 Marlborough Road, Glenageary",Dublin,1510000.0,No,Glenageary,Co. Dublin,q4,100%
+17/11/2011,"5 Station Road, Glenageary",Dublin,500000.0,No,Glenageary,Co. Dublin,q2,40%
+15/12/2011,"132 Silchester Park, Glenageary, Co. Dublin",Dublin,425000.0,No,Glenageary,Co. Dublin,q1,30%
+16/12/2011,"21 Silchester Park, Glenageary",Dublin,425000.0,No,Glenageary,Co. Dublin,q1,30%
+16/12/2011,"3 Claremont Villas, Glenageary",Dublin,650000.0,No,Glenageary,Co. Dublin,q3,60%
+27/01/2012,"Salruck, Upper Glenageary Road, Glenageary",Dublin,568000.0,No,Glenageary,Co. Dublin,q2,50%
+24/02/2012,"27 Lower Glenageary Road, Glenageary",Dublin,930000.0,No,Glenageary,Co. Dublin,q4,100%
+24/02/2012,"7 Gowrie Park, Glenageary",Dublin,330000.0,No,Glenageary,Co. Dublin,q1,10%
+12/03/2012,"83 Silchester Park, Glenageary",Dublin,579000.0,No,Glenageary,Co. Dublin,q2,50%
+26/03/2012,"19 Arkendale Wood, Glenageary",Dublin,240000.0,No,Glenageary,Co. Dublin,q1,10%
+30/03/2012,"32 Glenageary Lodge, Glenageary",Dublin,414000.0,No,Glenageary,Co. Dublin,q1,30%
+13/04/2012,"20B  Park Road, Glenageary",Dublin,240000.0,No,Glenageary,Co. Dublin,q1,10%
+03/05/2012,"Lauriston, Glenageary Road, Glenageary",Dublin,490000.0,No,Glenageary,Co. Dublin,q2,40%
+04/05/2012,"1 St. Catherines Park, Glenageary",Dublin,700000.0,No,Glenageary,Co. Dublin,q3,70%
+15/05/2012,"134 Upper Glenageary Road, Glenageary",Dublin,400000.0,No,Glenageary,Co. Dublin,q1,20%
+24/05/2012,"48 Thomastown Road, Glenageary",Dublin,299000.0,No,Glenageary,Co. Dublin,q1,10%
+07/06/2012,"The Laurels, 50 Upper Albert Road, Glenageary",Dublin,930000.0,No,Glenageary,Co. Dublin,q4,100%
+08/06/2012,"6 Traverslea Wood, Lower Glenageary Road, County Dublin",Dublin,375000.0,Yes,Glenageary,Co. Dublin,q1,20%
+18/06/2012,"No. 16, Glenageary Lodge, Glenageary",Dublin,385000.0,No,Glenageary,Co. Dublin,q1,20%
+06/07/2012,"25 Spencer Villas, Glenageary, County Dublin",Dublin,710000.0,No,Glenageary,Co. Dublin,q3,80%
+12/07/2012,"26 Villarea Park, Glenageary",Dublin,665000.0,No,Glenageary,Co. Dublin,q3,70%
+13/07/2012,"135  Silchester Park, Glenageary, Co. Dublin",Dublin,520000.0,No,Glenageary,Co. Dublin,q2,40%
+20/07/2012,"4 Park Close, Glenageary Heights, Glenageary",Dublin,220000.0,No,Glenageary,Co. Dublin,q1,10%
+26/07/2012,"13 Arkendale Woods, Arkendale Road, Glenageary",Dublin,208000.0,No,Glenageary,Co. Dublin,q1,10%
+27/07/2012,"118 Silchester Park, Glenageary, County Dublin",Dublin,502500.0,No,Glenageary,Co. Dublin,q2,40%
+27/07/2012,"12 Chester Square, Villarea Park, Glenageary",Dublin,260000.0,No,Glenageary,Co. Dublin,q1,10%
+01/08/2012,"58 Arnold Park, Glenageary",Dublin,400000.0,No,Glenageary,Co. Dublin,q1,20%
+02/08/2012,"5 St Catherines, Glenageary",Dublin,650000.0,No,Glenageary,Co. Dublin,q3,60%
+10/08/2012,"7 Claremont Court, Claremont Villas, Glenageary",Dublin,160000.0,No,Glenageary,Co. Dublin,q1,10%
+15/08/2012,"128 Silchester Park, Glenageary",Dublin,480000.0,No,Glenageary,Co. Dublin,q2,40%
+17/08/2012,"52 Lower Albert Road, Glenageary, Co. Dublin",Dublin,480000.0,No,Glenageary,Co. Dublin,q2,40%
+17/08/2012,"60 Bellevie Road, Glenageary, Co. Dublin",Dublin,471000.0,No,Glenageary,Co. Dublin,q2,30%
+22/08/2012,"6 St Pauls Terrace, Glenageary, County Dublin",Dublin,27000.0,No,Glenageary,Co. Dublin,q1,10%
+28/09/2012,"12 Glengara Park, Glenageary",Dublin,300000.0,No,Glenageary,Co. Dublin,q1,10%
+28/09/2012,"14 Sion Road, Glenageary, Co Dublin",Dublin,320000.0,No,Glenageary,Co. Dublin,q1,10%
+01/10/2012,"24 Traverslea Wood, Lower Glenageary Road",Dublin,326537.5,Yes,Glenageary,Co. Dublin,q1,10%
+04/10/2012,"1 Hillcourt Road, Glenageary, Co. Dublin",Dublin,515000.0,Yes,Glenageary,Co. Dublin,q2,40%
+05/10/2012,"23 Silchester Park, Glenageary",Dublin,560000.0,No,Glenageary,Co. Dublin,q2,40%
+05/10/2012,"58 Albert Road, Glenageary",Dublin,522600.0,No,Glenageary,Co. Dublin,q2,40%
+02/11/2012,"72 Arnold Park, Glenageary",Dublin,399000.0,No,Glenageary,Co. Dublin,q1,20%
+22/11/2012,"33  Glenageary Park, Glenageary",Dublin,370000.0,No,Glenageary,Co. Dublin,q1,20%
+26/11/2012,"20 Spencer Villas, Glenageary",Dublin,720000.0,No,Glenageary,Co. Dublin,q3,80%
+30/11/2012,"50 Hillcourt Road, Glenageary",Dublin,435000.0,No,Glenageary,Co. Dublin,q1,30%
+05/12/2012,"The Granite Bungalow, Lower Glenageary Road, Glenageary",Dublin,900000.0,No,Glenageary,Co. Dublin,q4,90%
+07/12/2012,"39  Silchester Park, Glenageary",Dublin,490000.0,No,Glenageary,Co. Dublin,q2,40%
+12/12/2012,"56 Glenageary Park, Glenageary",Dublin,395000.0,No,Glenageary,Co. Dublin,q1,20%
+18/12/2012,"6 Arkendale Woods, Glenageary",Dublin,255000.0,No,Glenageary,Co. Dublin,q1,10%
+19/12/2012,"12 Arkendale Woods, Glenageary",Dublin,200000.0,No,Glenageary,Co. Dublin,q1,10%
+19/12/2012,"5 Crostwaithe Hall, Lower Glenageary Road, Glenageary",Dublin,550000.0,No,Glenageary,Co. Dublin,q2,40%
+19/12/2012,"5 Crostwaithe Hall, Lower Glenageary Road, Glenageary",Dublin,550000.0,No,Glenageary,Co. Dublin,q2,40%
+20/12/2012,"24 St. Catherines Park, Glenageary",Dublin,822500.0,No,Glenageary,Co. Dublin,q4,90%
+21/12/2012,"41 Arnold Park, Glenageary, Co Dublin",Dublin,520000.0,No,Glenageary,Co. Dublin,q2,40%
+30/01/2013,"15 Arkendale Woods, Glenageary",Dublin,330000.0,No,Glenageary,Co. Dublin,q1,10%
+06/02/2013,"39 Hillcourt Road, Glenageary, Co. Dublin",Dublin,296000.0,No,Glenageary,Co. Dublin,q1,10%
+14/02/2013,"11 Gowrie Park, Glenageary",Dublin,407500.0,No,Glenageary,Co. Dublin,q1,20%
+20/02/2013,"4 Silchester Court, Glenageary",Dublin,410000.0,No,Glenageary,Co. Dublin,q1,20%
+28/02/2013,"13A Hillcourt Road, Glenageary",Dublin,487500.0,No,Glenageary,Co. Dublin,q2,40%
+22/03/2013,"8 Flower Grove, Glenageary, County Dublin",Dublin,410000.0,No,Glenageary,Co. Dublin,q1,30%
+08/04/2013,"9 Kilcolman Court, Glenageary Road, Glenageary",Dublin,263000.0,No,Glenageary,Co. Dublin,q1,10%
+23/04/2013,"Springfield House, Lower Albert Road, Glenageary",Dublin,725000.0,No,Glenageary,Co. Dublin,q4,80%
+13/05/2013,"55 Silchester Park, Glenageary",Dublin,465000.0,No,Glenageary,Co. Dublin,q2,30%
+22/05/2013,"49 Glenageary Park, Glenageary",Dublin,455000.0,No,Glenageary,Co. Dublin,q2,30%
+05/06/2013,"6 Glenageary Woods, Glenageary",Dublin,562500.0,No,Glenageary,Co. Dublin,q2,50%
+07/06/2013,"19 St. Kevin'S Villas, Upper Glenageary Road, Glenageary",Dublin,265000.0,No,Glenageary,Co. Dublin,q1,10%
+18/06/2013,"Meenagown, Spencer Villas, Glenageary",Dublin,1050000.0,No,Glenageary,Co. Dublin,q4,100%
+21/06/2013,"97 Silchester Park, Glenageary",Dublin,530000.0,No,Glenageary,Co. Dublin,q2,40%
+11/07/2013,"23 St Catherines Park, Glenageary, Co Dublin",Dublin,635000.0,No,Glenageary,Co. Dublin,q3,60%
+25/07/2013,"1 Marlborough Court, Glenageary",Dublin,470000.0,No,Glenageary,Co. Dublin,q2,30%
+02/08/2013,"61 Park Road, Glenageary Heights, Glenageary",Dublin,315000.0,No,Glenageary,Co. Dublin,q1,10%
+08/08/2013,"75 Adelaide Road, Glenageary",Dublin,570000.0,No,Glenageary,Co. Dublin,q2,50%
+14/08/2013,"87 Adelaide Road, Glenageary, Co Dublin",Dublin,630000.0,No,Glenageary,Co. Dublin,q3,60%
+20/08/2013,"111 Glenageary Avenue, Glenageary",Dublin,510000.0,No,Glenageary,Co. Dublin,q2,40%
+20/08/2013,"Glenville, 10 St. Catherine'S Road, Glenageary",Dublin,670000.0,No,Glenageary,Co. Dublin,q3,70%
+26/08/2013,"114  Silchester Park, Glenageary, County Dublin",Dublin,680000.0,No,Glenageary,Co. Dublin,q3,70%
+30/08/2013,"The Bungalow, Spencer Villas, Glenageary",Dublin,640000.0,No,Glenageary,Co. Dublin,q3,60%
+02/09/2013,"13 Adelaide Road, Glenageary",Dublin,413245.0,No,Glenageary,Co. Dublin,q1,30%
+05/09/2013,"Edel, Adelaide Road, Glenageary",Dublin,468000.0,No,Glenageary,Co. Dublin,q2,30%
+12/09/2013,"120 Silchester Park, Glenageary",Dublin,725000.0,No,Glenageary,Co. Dublin,q4,80%
+18/09/2013,"55A Silchester Park, Glenageary, Co Dublin",Dublin,450000.0,No,Glenageary,Co. Dublin,q2,30%
+23/09/2013,"Apt. 21 Traverslea Wood, Lower Glenageary Road, Glenageary",Dublin,525000.0,Yes,Glenageary,Co. Dublin,q2,40%
+30/09/2013,"202 Upper Glenageary Road, Glenageary",Dublin,925000.0,No,Glenageary,Co. Dublin,q4,100%
+07/10/2013,"33 Glengara Park, Glenageary, Co. Dublin",Dublin,542500.0,No,Glenageary,Co. Dublin,q2,40%
+10/10/2013,"36 Silchester Park, Glenageary",Dublin,565000.0,No,Glenageary,Co. Dublin,q2,50%
+25/10/2013,"20 Arnold Grove, Glenageary",Dublin,536000.0,No,Glenageary,Co. Dublin,q2,40%
+04/11/2013,"14 Haddington Park, Glenageary",Dublin,510000.0,No,Glenageary,Co. Dublin,q2,40%
+08/11/2013,"12 Arkendale Road, Glenageary",Dublin,655000.0,No,Glenageary,Co. Dublin,q3,60%
+12/11/2013,"20 Marlborough Road, Glenageary, Co. Dublin",Dublin,1700000.0,No,Glenageary,Co. Dublin,q4,100%
+15/11/2013,"19 Bellevue Rd, Glenageary",Dublin,565000.0,No,Glenageary,Co. Dublin,q2,50%
+21/11/2013,"Whiteoak, 210 Glenageary Rd Upper, Glenageary",Dublin,920000.0,No,Glenageary,Co. Dublin,q4,90%
+26/11/2013,"10 Traverslea Wood, Glenageary Road",Dublin,462555.0,Yes,Glenageary,Co. Dublin,q2,30%
+05/12/2013,"22 Traverslea Wood, Lower Glenageary Road, County Dublin",Dublin,400000.0,Yes,Glenageary,Co. Dublin,q1,20%
+12/12/2013,"70 Hillcourt Rd, Glenageary, Dublin",Dublin,627500.0,No,Glenageary,Co. Dublin,q3,60%
+18/12/2013,"14 Park Rd, Glenageary Heights, Glenageary",Dublin,313000.0,No,Glenageary,Co. Dublin,q1,10%
+19/12/2013,"21 Hillcourt Park, Glenageary, Dublin",Dublin,605000.0,No,Glenageary,Co. Dublin,q2,50%
+19/12/2013,"21A Bellevue Rd, Glenageary, Dublin",Dublin,510000.0,No,Glenageary,Co. Dublin,q2,40%
+19/12/2013,"53 Arnold Grove, Glenageary, Dublin",Dublin,546000.0,No,Glenageary,Co. Dublin,q2,40%
+22/01/2014,"19 Spencer Villas, Glenageary, Co. Dublin",Dublin,680000.0,No,Glenageary,Co. Dublin,q3,70%
+29/01/2014,"34 Hillcourt Road, Glenageary, Co. Dublin",Dublin,533000.0,No,Glenageary,Co. Dublin,q2,40%
+13/02/2014,"26 Traverslea Wood, Lr. Glenageary Road",Dublin,506608.0,Yes,Glenageary,Co. Dublin,q2,40%
+20/02/2014,"13 Hillcourt Rd, Glenageary, Dublin",Dublin,565000.0,No,Glenageary,Co. Dublin,q2,50%
+21/02/2014,"2 The Glen, Glenageary Rd Lower, Glenageary",Dublin,936500.0,No,Glenageary,Co. Dublin,q4,100%
+24/02/2014,"4 Hillcourt Park, Glenageary, Co Dublin",Dublin,624000.0,No,Glenageary,Co. Dublin,q2,50%
+04/03/2014,"24 Park Court, Glenageary Heights, Glenageary",Dublin,332500.0,No,Glenageary,Co. Dublin,q1,10%
+06/03/2014,"16 Traverslea Wood, Lower Glenageary Road, Glenageary",Dublin,361233.0,Yes,Glenageary,Co. Dublin,q1,20%
+13/03/2014,"14 Villarea Park, Glenageary",Dublin,690000.0,No,Glenageary,Co. Dublin,q3,70%
+14/03/2014,"12 Gowrie Park, Glenageary, Dublin",Dublin,425000.0,No,Glenageary,Co. Dublin,q1,30%
+21/03/2014,"26Glenageary Court, Glenageary, Dublin",Dublin,320000.0,No,Glenageary,Co. Dublin,q1,10%
+16/04/2014,"68 Silchester Park, Glenageary, Dublin",Dublin,685000.0,No,Glenageary,Co. Dublin,q3,70%
+02/05/2014,"61 Arnold Grove, Glenageary, Dublin",Dublin,565000.0,No,Glenageary,Co. Dublin,q2,50%
+16/05/2014,"12 Traverslea Wood, Lower Glenageary Road",Dublin,378854.0,Yes,Glenageary,Co. Dublin,q1,20%
+28/05/2014,"7 Park Rd, Glenageary Heights, Glenageary",Dublin,371500.0,No,Glenageary,Co. Dublin,q1,20%
+06/06/2014,"6 Glengara Park, Glenageary, Dublin",Dublin,685000.0,No,Glenageary,Co. Dublin,q3,70%
+24/06/2014,"26 Haddington Park, Glenageary, Dublin",Dublin,406000.0,No,Glenageary,Co. Dublin,q1,20%
+27/06/2014,"Byways, Adelaide Road, Glenageary",Dublin,1010000.0,No,Glenageary,Co. Dublin,q4,100%
+01/07/2014,"52 Adelaide Road, Glenageary, Co. Dublin",Dublin,628000.0,No,Glenageary,Co. Dublin,q3,60%
+04/07/2014,"36Glenageary Court, Glenageary, Dublin",Dublin,390000.0,No,Glenageary,Co. Dublin,q1,20%
+04/07/2014,"61 Glenageary Park, Glenageary, Dublin",Dublin,505000.0,No,Glenageary,Co. Dublin,q2,40%
+09/07/2014,"Brandon, Station Rd, Glenageary",Dublin,1075000.0,No,Glenageary,Co. Dublin,q4,100%
+31/07/2014,"18 Bellevue Avenue, Glenageary",Dublin,457000.0,No,Glenageary,Co. Dublin,q2,30%
+18/08/2014,"101 Silchester Park, Glenageary, Dublin",Dublin,707000.0,No,Glenageary,Co. Dublin,q3,80%
+19/08/2014,"20 Traverslea Woods, Lower Glenageary Rd, Dublin",Dublin,442000.0,No,Glenageary,Co. Dublin,q2,30%
+19/08/2014,"Crofton Villa, 19 Adelaide Rd, Glenageary",Dublin,680000.0,No,Glenageary,Co. Dublin,q3,70%
+27/08/2014,"48 Bellevue Rd, Glenageary, Dublin",Dublin,615000.0,No,Glenageary,Co. Dublin,q2,50%
+02/09/2014,"101 Upper Glenageary Rd, Glenageary, Dublin",Dublin,1032999.0,No,Glenageary,Co. Dublin,q4,100%
+03/09/2014,"141 Silchester Park, Glenageary, Dublin",Dublin,720000.0,No,Glenageary,Co. Dublin,q3,80%
+11/09/2014,"181 Glenageary Park, Glenageary, Dublin",Dublin,585000.0,No,Glenageary,Co. Dublin,q2,50%
+12/09/2014,"16 Silchester Court, Glenageary, Dublin",Dublin,470000.0,No,Glenageary,Co. Dublin,q2,30%
+15/09/2014,"Santon, Upper Albert Rd, Glenageary",Dublin,735000.0,No,Glenageary,Co. Dublin,q4,80%
+18/09/2014,"11 Traverslea Wood, Lr Glenageary Road, Glenageary",Dublin,374449.33,Yes,Glenageary,Co. Dublin,q1,20%
+18/09/2014,"Avalon, 64 Upper Albert Road, Glenageary",Dublin,998000.0,No,Glenageary,Co. Dublin,q4,100%
+03/10/2014,"5 Park Court, Glenageary Heights, Glenageary",Dublin,395000.0,No,Glenageary,Co. Dublin,q1,20%
+09/10/2014,"Greengates, Adelaide Road, Glenageary",Dublin,605000.0,No,Glenageary,Co. Dublin,q2,50%
+17/10/2014,"103 Silchester Park, Glenageary, Dublin",Dublin,840000.0,No,Glenageary,Co. Dublin,q4,90%
+23/10/2014,"23 Sharavogue, Upper Glenageary Road, Glenageary",Dublin,685000.0,No,Glenageary,Co. Dublin,q3,70%
+24/10/2014,"Limasol, 6 Marlborough Road, Glenageary",Dublin,2435000.0,No,Glenageary,Co. Dublin,q4,100%
+30/10/2014,"Willowholme, Upper Albert Rd, Glenageary",Dublin,650000.0,No,Glenageary,Co. Dublin,q3,60%
+31/10/2014,"Rathmore, Adelaide Rd, Glenageary",Dublin,2750000.0,No,Glenageary,Co. Dublin,q4,100%
+11/11/2014,"49 Lower Albert Rd, Glenageary, Dublin",Dublin,755000.0,No,Glenageary,Co. Dublin,q4,90%
+19/11/2014,"27 Traverslea Wood, Lower Glenageary Road",Dublin,360000.0,Yes,Glenageary,Co. Dublin,q1,20%
+28/11/2014,"29 Park Rd, Glenageary Heights, Glenageary",Dublin,360000.0,No,Glenageary,Co. Dublin,q1,20%
+15/12/2014,"15 Glenageary Lodge, Glenageary, Dublin",Dublin,541000.0,No,Glenageary,Co. Dublin,q2,40%
+15/12/2014,"28 Sion Road, Glenageary, Co. Dublin",Dublin,815000.0,No,Glenageary,Co. Dublin,q4,90%
+17/12/2014,"1 Traverslea Close, Lower Glenageary Road, Co Dublin",Dublin,1023000.0,No,Glenageary,Co. Dublin,q4,100%
+19/12/2014,"San Miguel, 59 Upper Albert Rd, Glenageary",Dublin,655000.0,No,Glenageary,Co. Dublin,q3,60%
+23/12/2014,"Glenfin, 3 The Seven Cottages, Lower Glenageary Rd",Dublin,550000.0,No,Glenageary,Co. Dublin,q2,40%
+27/01/2015,"28 Traverslea Wood, Lower Glenageary Road, Co. Dublin",Dublin,318000.0,Yes,Glenageary,Co. Dublin,q1,10%
+26/02/2015,"27 Flower Grove, Glenageary, Dublin",Dublin,605000.0,No,Glenageary,Co. Dublin,q2,50%
+05/03/2015,"29 Traverslea Wood, Lower Glenageary Road",Dublin,317180.0,Yes,Glenageary,Co. Dublin,q1,10%
+06/03/2015,"22 Bellevue Ave, Glenageary, Dublin",Dublin,663500.0,No,Glenageary,Co. Dublin,q3,70%
+25/03/2015,"32 Thomastown Road, Glenageary, County Dublin",Dublin,630000.0,No,Glenageary,Co. Dublin,q3,60%
+26/03/2015,"50 Glenageary Park, Glenageary, Dublin",Dublin,540000.0,No,Glenageary,Co. Dublin,q2,40%
+21/04/2015,"12 Streamville Court, Killiney Hill Rd, Glenageary",Dublin,333000.0,No,Glenageary,Co. Dublin,q1,10%
+15/05/2015,"11 Silchester Rd, Glenageary, Dublin",Dublin,20000.0,No,Glenageary,Co. Dublin,q1,10%
+15/05/2015,"39 Glenageary Lodge, Glenageary, Dublin",Dublin,580000.0,No,Glenageary,Co. Dublin,q2,50%
+22/05/2015,"Monkswell, Upper Glenageary Rd, Glenageary",Dublin,2000000.0,No,Glenageary,Co. Dublin,q4,100%
+22/06/2015,"230 Upper Glenageary Road, Glenageary",Dublin,685000.0,No,Glenageary,Co. Dublin,q3,70%
+30/06/2015,"7 Glenageary Lodge, Glenageary, Dublin",Dublin,620000.0,No,Glenageary,Co. Dublin,q2,50%
+07/07/2015,"119 Glenageary Ave, Dunlaoighaire, Dublin 18",Dublin,535000.0,No,Glenageary,Co. Dublin,q2,40%
+08/07/2015,"10 Mounttown Villas, Mounttown Lower, Glenageary",Dublin,340000.0,No,Glenageary,Co. Dublin,q1,20%
+09/07/2015,"7 Glenageary Terrace, Co Dublin",Dublin,456500.0,No,Glenageary,Co. Dublin,q2,30%
+17/07/2015,"1 Haddington Park, Albert Rd Upper, Glenageary",Dublin,675000.0,No,Glenageary,Co. Dublin,q3,70%
+24/07/2015,"133 St Patricks Crescent, Glenageary, Dublin",Dublin,260000.0,No,Glenageary,Co. Dublin,q1,10%
+29/07/2015,"150 Upper Albert Rd, Glenageary, Dublin",Dublin,675000.0,No,Glenageary,Co. Dublin,q3,70%
+10/08/2015,"30 Killiney Towers, Glenageary, Dublin",Dublin,415000.0,No,Glenageary,Co. Dublin,q1,30%
+10/08/2015,"Lyre Na Grena, 4 Station Rd, Glenageary",Dublin,827000.0,No,Glenageary,Co. Dublin,q4,90%
+11/08/2015,"27 Glengara Park, Glenageary, Co. Dublin",Dublin,625000.0,No,Glenageary,Co. Dublin,q2,50%
+31/08/2015,"Coneyglen, 6 Station Rd, Glenageary",Dublin,1117500.0,No,Glenageary,Co. Dublin,q4,100%
+04/09/2015,"13 Silchester Park, Glenageary, Co. Dublin",Dublin,680000.0,No,Glenageary,Co. Dublin,q3,70%
+09/09/2015,"42 Silchester Park, Glenageary, Dublin",Dublin,635000.0,No,Glenageary,Co. Dublin,q3,60%
+21/09/2015,"5 Sevenhouses, Glenageary Rd Lower, Dublin",Dublin,425000.0,No,Glenageary,Co. Dublin,q1,30%
+01/10/2015,"2 Silchester Wood, Glenageary, Dublin",Dublin,1000000.0,No,Glenageary,Co. Dublin,q4,100%
+13/10/2015,"10 Carnegie Drive, Honeypark, Glenageary Road Upper",Dublin,594714.0,Yes,Glenageary,Co. Dublin,q2,50%
+16/10/2015,"62 Glenageary Park, Glenageary, Dublin",Dublin,565000.0,No,Glenageary,Co. Dublin,q2,50%
+27/10/2015,"5 Thomastown Rd, Glenageary, Dublin",Dublin,485000.0,No,Glenageary,Co. Dublin,q2,40%
+28/10/2015,"16 Silchester Park, Glenageary",Dublin,755000.0,No,Glenageary,Co. Dublin,q4,90%
+09/11/2015,"53 Bellvue Rd, Glenageary, Dublin",Dublin,595000.0,No,Glenageary,Co. Dublin,q2,50%
+03/12/2015,"13 Bellevue Ave, Glenageary, Dublin",Dublin,656000.0,No,Glenageary,Co. Dublin,q3,60%
+03/12/2015,"Tinnamaddy, Lower Glenageary Rd, Glenageary",Dublin,750000.0,No,Glenageary,Co. Dublin,q4,80%
+04/12/2015,"11 Hillcourt Rd, Glenageary, Dublin",Dublin,582000.0,No,Glenageary,Co. Dublin,q2,50%
+09/12/2015,"Aylesbury, Adelaide Road, Glenageary",Dublin,3100000.0,No,Glenageary,Co. Dublin,q4,100%
+10/12/2015,"11 Silchester Crescent, Glenageary",Dublin,1100000.0,Yes,Glenageary,Co. Dublin,q4,100%
+14/12/2015,"53 Silchester Park, Glenageary, Dublin",Dublin,654500.0,No,Glenageary,Co. Dublin,q3,60%
+18/12/2015,"28 Glenageary Lodge, Glenageary, Dublin",Dublin,555000.0,No,Glenageary,Co. Dublin,q2,40%
+18/12/2015,"85 Silchester Park, Glenageary, Dublin",Dublin,750000.0,No,Glenageary,Co. Dublin,q4,80%
+05/01/2016,"1 Villarea Park, Adelaide Rd, Glenageary",Dublin,600000.0,No,Glenageary,Co. Dublin,q2,50%
+19/01/2016,"2 Haddington Park, Albert Rd Upper, Glenageary",Dublin,670000.0,No,Glenageary,Co. Dublin,q3,70%
+25/01/2016,"29 Carnegie Drive, Honeypark, Upper Glenageary Road",Dublin,603500.0,Yes,Glenageary,Co. Dublin,q2,50%
+24/02/2016,"25 Traverslea Woods, Lower Glenageary Rd, Dublin",Dublin,480000.0,No,Glenageary,Co. Dublin,q2,40%
+25/02/2016,"11 Arkendale Woods, Glenageary, Dublin",Dublin,320000.0,No,Glenageary,Co. Dublin,q1,10%
+02/03/2016,"62 Silchester Park, Glenageary, Dublin",Dublin,675000.0,No,Glenageary,Co. Dublin,q3,70%
+04/03/2016,"33 Boyd Avenue, Honeypark, Glenageary",Dublin,634361.22,Yes,Glenageary,Co. Dublin,q3,60%
+04/03/2016,"4 Haddington Park, Glenageary, Dublin",Dublin,620000.0,No,Glenageary,Co. Dublin,q2,50%
+08/03/2016,"29 Silchester Park, Glenageary, Dublin",Dublin,700000.0,No,Glenageary,Co. Dublin,q3,70%
+22/04/2016,"28 Arnold Pk, Glenageary, Dublin",Dublin,620000.0,No,Glenageary,Co. Dublin,q2,50%
+27/04/2016,"12 Claremont Court, Adelaide Rd, Glenageary",Dublin,255000.0,No,Glenageary,Co. Dublin,q1,10%
+03/05/2016,"89 Silchester Park, Glenageary, Dublin",Dublin,740000.0,No,Glenageary,Co. Dublin,q4,80%
+04/05/2016,"120 Silchester Park, Glenageary, Dublin",Dublin,775000.0,No,Glenageary,Co. Dublin,q4,90%
+10/05/2016,"3 Drumkeen Manor, Glenageary, Dublin",Dublin,430000.0,No,Glenageary,Co. Dublin,q1,30%
+18/05/2016,"7 Traverslea Woods, Lower Glenageary Road, A96 Pw30",Dublin,462775.0,Yes,Glenageary,Co. Dublin,q2,30%
+27/05/2016,"Menapia, Silchester Park, Glenageary",Dublin,860000.0,No,Glenageary,Co. Dublin,q4,90%
+30/05/2016,"4 Traverslea Wood, Lower Glenageary Road",Dublin,436123.0,Yes,Glenageary,Co. Dublin,q1,30%
+07/06/2016,"144 Coolevin, Ballybrack, Glenageary",Dublin,330000.0,No,Glenageary,Co. Dublin,q1,10%
+07/06/2016,"33 Flower Grove, Glenageary, Dublin",Dublin,605000.0,No,Glenageary,Co. Dublin,q2,50%
+09/06/2016,"Linden, Silchester Rd, Glenageary",Dublin,1475000.0,No,Glenageary,Co. Dublin,q4,100%
+17/06/2016,"50 Glenageary Lodge, Glenageary, Dublin",Dublin,625000.0,No,Glenageary,Co. Dublin,q2,50%
+23/06/2016,"36 Hillcourt Park, Glenageary, Dublin",Dublin,840000.0,No,Glenageary,Co. Dublin,q4,90%
+27/06/2016,"31 Hillcourt Rd, Glenageary, Dublin",Dublin,570000.0,No,Glenageary,Co. Dublin,q2,50%
+29/06/2016,"11 Upper Albert Rd, Glenageary, Dublin",Dublin,1255000.0,No,Glenageary,Co. Dublin,q4,100%
+29/06/2016,"Feldburg, Upper Glenageary Road, Glenageary",Dublin,1800000.0,No,Glenageary,Co. Dublin,q4,100%
+30/06/2016,"15 Traverslea Woods, Lower Glenageary Rd, Dublin",Dublin,356828.19,Yes,Glenageary,Co. Dublin,q1,20%
+06/07/2016,"15 Glengara Park, Glenageary, Dublin",Dublin,615000.0,No,Glenageary,Co. Dublin,q2,50%
+08/07/2016,"6 Silchester Court, Silchester Rd, Glenageary",Dublin,417000.0,No,Glenageary,Co. Dublin,q1,30%
+08/07/2016,"Hughendon, Silchester Rd, Glenageary",Dublin,2100000.0,No,Glenageary,Co. Dublin,q4,100%
+11/07/2016,"2 St Catherines Rd, Glenageary, Dublin",Dublin,840000.0,No,Glenageary,Co. Dublin,q4,90%
+11/07/2016,"31 Glengara Park, Glenageary, Dublin",Dublin,620000.0,No,Glenageary,Co. Dublin,q2,50%
+14/07/2016,"51 Glengara Park, Glenageary, Dublin",Dublin,448000.0,No,Glenageary,Co. Dublin,q2,30%
+28/07/2016,"Avalon, 64 Upper Albert Rd, Glenageary",Dublin,1100000.0,No,Glenageary,Co. Dublin,q4,100%
+29/07/2016,"33 Silchester Rd, Glenageary, Dublin",Dublin,2175000.0,No,Glenageary,Co. Dublin,q4,100%
+02/08/2016,"2 St Peters Terrace, Glenageary, Dublin",Dublin,706000.0,No,Glenageary,Co. Dublin,q3,80%
+12/08/2016,"21 Hillcourt Rd, Glenageary, Dublin",Dublin,575000.0,No,Glenageary,Co. Dublin,q2,50%
+18/08/2016,"1 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,687224.67,Yes,Glenageary,Co. Dublin,q3,70%
+24/08/2016,"9 Hillcourt Park, Glenageary, Dublin",Dublin,747500.0,No,Glenageary,Co. Dublin,q4,80%
+25/08/2016,"15 Upper Eden Rd, Glenageary, Dublin",Dublin,490000.0,No,Glenageary,Co. Dublin,q2,40%
+26/08/2016,"1 Arnold Grove, Glenageary, Dublin",Dublin,400000.0,No,Glenageary,Co. Dublin,q1,20%
+29/08/2016,"80 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,651982.0,Yes,Glenageary,Co. Dublin,q3,60%
+29/08/2016,"88 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,638766.53,Yes,Glenageary,Co. Dublin,q3,60%
+31/08/2016,"74 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,679768.33,Yes,Glenageary,Co. Dublin,q3,70%
+31/08/2016,"93 Silchester Park, Glenageary, Dublin",Dublin,1015000.0,No,Glenageary,Co. Dublin,q4,100%
+01/09/2016,"74 Arnold Park, Glenageary, Dublin",Dublin,642500.0,No,Glenageary,Co. Dublin,q3,60%
+02/09/2016,"79 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,651982.0,Yes,Glenageary,Co. Dublin,q3,60%
+09/09/2016,"78 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,638766.51,Yes,Glenageary,Co. Dublin,q3,60%
+09/09/2016,"98 Wyattville Park, Loughlinstown, Glenageary",Dublin,410000.0,No,Glenageary,Co. Dublin,q1,30%
+15/09/2016,"71 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,651982.38,Yes,Glenageary,Co. Dublin,q3,60%
+20/09/2016,"56 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,643172.0,Yes,Glenageary,Co. Dublin,q3,60%
+23/09/2016,"10 Spencer Villas, Glenageary, Dublin",Dublin,1015000.0,No,Glenageary,Co. Dublin,q4,100%
+23/09/2016,"Cullyvore, 7 St Catherines Rd, Glenageary",Dublin,876100.0,No,Glenageary,Co. Dublin,q4,90%
+29/09/2016,"12 Marlborough Rd, Glenageary, Dublin",Dublin,1550000.0,No,Glenageary,Co. Dublin,q4,100%
+30/09/2016,"52 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,674008.8,Yes,Glenageary,Co. Dublin,q3,70%
+05/10/2016,"48 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,674008.8,Yes,Glenageary,Co. Dublin,q3,70%
+07/10/2016,"Coolarne, Silchester Rd, Glenageary",Dublin,2750000.0,No,Glenageary,Co. Dublin,q4,100%
+14/10/2016,"83 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,651982.0,Yes,Glenageary,Co. Dublin,q3,60%
+21/10/2016,"7 Cualanor Crescent, Cualanor, Upper Glenageary Road",Dublin,669603.0,Yes,Glenageary,Co. Dublin,q3,70%
+25/10/2016,"10 Cualanor Crescent, Cualanor, Upper Glenageary Road",Dublin,726872.25,Yes,Glenageary,Co. Dublin,q4,80%
+25/10/2016,"8 Silchester Wood, Glenageary, Dublin",Dublin,1010000.0,No,Glenageary,Co. Dublin,q4,100%
+26/10/2016,"55 Roseland Avenue, Culanor, Glenageary Road Upper",Dublin,735682.0,Yes,Glenageary,Co. Dublin,q4,80%
+28/10/2016,"12 St Peters Terrace, Glenageary, Dublin",Dublin,670000.0,No,Glenageary,Co. Dublin,q3,70%
+28/10/2016,"47 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,735682.81,Yes,Glenageary,Co. Dublin,q4,80%
+28/10/2016,"73 Roseland Avenue, Cualanor, Upr Glenageary Road",Dublin,638766.0,Yes,Glenageary,Co. Dublin,q3,60%
+03/11/2016,"4 Cualanor Crescent, Cualanor, Upper Glenageary Road",Dublin,656387.0,Yes,Glenageary,Co. Dublin,q3,60%
+03/11/2016,"50 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,678413.0,Yes,Glenageary,Co. Dublin,q3,70%
+04/11/2016,"5 Sharavogur, Glenageary, Dublin",Dublin,805000.0,No,Glenageary,Co. Dublin,q4,90%
+07/11/2016,"8 Silchester Court, Glenageary, Dublin",Dublin,730000.0,No,Glenageary,Co. Dublin,q4,80%
+09/11/2016,"46 Glengara Park, Glenageary, Co Dublin",Dublin,545000.0,No,Glenageary,Co. Dublin,q2,40%
+10/11/2016,"53 Roseland Avenue, Cualanor, Glenageary",Dublin,674008.81,Yes,Glenageary,Co. Dublin,q3,70%
+18/11/2016,"18 Silchester Park, Glenageary, Dublin",Dublin,655000.0,No,Glenageary,Co. Dublin,q3,60%
+22/11/2016,"89 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,735682.57,Yes,Glenageary,Co. Dublin,q4,80%
+24/11/2016,"No.84, Roseland Avenue, Cualanor Upper Glenageary Road",Dublin,651982.0,Yes,Glenageary,Co. Dublin,q3,60%
+01/12/2016,"16 St Catherines Park, Glenageary, Dublin",Dublin,870000.0,No,Glenageary,Co. Dublin,q4,90%
+01/12/2016,"46 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,651982.0,Yes,Glenageary,Co. Dublin,q3,60%
+02/12/2016,"15 Adelaide Rd, Glenageary, Dublin",Dublin,666500.0,No,Glenageary,Co. Dublin,q3,70%
+09/12/2016,"10 Glenageary Lodge, Glenageary, Dublin",Dublin,610000.0,No,Glenageary,Co. Dublin,q2,50%
+09/12/2016,"51 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,728998.18,Yes,Glenageary,Co. Dublin,q4,80%
+09/12/2016,"86 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,725000.0,Yes,Glenageary,Co. Dublin,q4,80%
+13/12/2016,"53 Hillcourt Rd, Glenageary, Dublin",Dublin,586500.0,No,Glenageary,Co. Dublin,q2,50%
+15/12/2016,"23 Marlborough Rd, Glenageary, Dublin",Dublin,1750000.0,No,Glenageary,Co. Dublin,q4,100%
+15/12/2016,"Springfield House, Lower Albert Rd, Glenageary",Dublin,995000.0,No,Glenageary,Co. Dublin,q4,100%
+16/12/2016,"52 Glengara Park, Glenageary, Dublin",Dublin,750000.0,No,Glenageary,Co. Dublin,q4,80%
+22/12/2016,"2 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,753304.0,Yes,Glenageary,Co. Dublin,q4,90%
+23/12/2016,"33 Upper Glenageary Rd, Glenageary, Dublin",Dublin,500000.0,No,Glenageary,Co. Dublin,q2,40%
+23/12/2016,"5 Cualanor Crescent, Cualanor, Upper Glenageary Road",Dublin,656417.0,Yes,Glenageary,Co. Dublin,q3,60%
+13/01/2017,"24 Bellevue Ave, Glenageary, Dublin",Dublin,675000.0,No,Glenageary,Co. Dublin,q3,70%
+20/01/2017,"72 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,638766.0,Yes,Glenageary,Co. Dublin,q3,60%
+26/01/2017,"40 Hillcourt Rd, Glenageary, Dublin",Dublin,750000.0,No,Glenageary,Co. Dublin,q4,80%
+27/01/2017,"75 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,651982.0,Yes,Glenageary,Co. Dublin,q3,60%
+07/02/2017,"7 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,622800.0,Yes,Glenageary,Co. Dublin,q2,50%
+09/02/2017,"5 Crosthwaite Hall, Glenageary Rd Lower, Glenageary",Dublin,812500.0,No,Glenageary,Co. Dublin,q4,90%
+10/02/2017,"68 Silchester Park, Glenageary, Dublin",Dublin,775000.0,No,Glenageary,Co. Dublin,q4,90%
+16/02/2017,"Apt44 Abbot Court  Cualanor, Upper Glenageary Road, Dun  Laoghaire",Dublin,121757.6,Yes,Glenageary,Co. Dublin,q1,10%
+01/03/2017,"114 Oliver Plunkett Rd, Dun Laoghaire, Glenageary",Dublin,325000.0,No,Glenageary,Co. Dublin,q1,10%
+03/03/2017,"Minoa, 10 Glenageary Woods, Glenageary",Dublin,890000.0,No,Glenageary,Co. Dublin,q4,90%
+10/03/2017,"19 Spencer Villas, Glenageary, Co. Dublin",Dublin,1550000.0,No,Glenageary,Co. Dublin,q4,100%
+10/03/2017,"3 Arnold Park, Glenageary, Dublin",Dublin,590000.0,No,Glenageary,Co. Dublin,q2,50%
+10/03/2017,"Aisling, 28 Upper Glenageary Rd, Glenageary",Dublin,560000.0,No,Glenageary,Co. Dublin,q2,50%
+16/03/2017,"27 St Catherines Park, Glenageary, Dublin",Dublin,860000.0,No,Glenageary,Co. Dublin,q4,90%
+16/03/2017,"6 Roasland Avenue, Cualanor, Upper Glenageary Road",Dublin,698998.18,Yes,Glenageary,Co. Dublin,q3,70%
+16/03/2017,"64 Bellevue Rd, Glenageary, Dublin",Dublin,700000.0,No,Glenageary,Co. Dublin,q3,70%
+16/03/2017,"9 St Catherines Park, Glenageary, Dublin",Dublin,960000.0,No,Glenageary,Co. Dublin,q4,100%
+22/03/2017,"83 St Patricks Crescent, Monkstown Farm, Glenageary",Dublin,475000.0,No,Glenageary,Co. Dublin,q2,30%
+24/03/2017,"4 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,673462.94,Yes,Glenageary,Co. Dublin,q3,70%
+28/03/2017,"68 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,688998.0,Yes,Glenageary,Co. Dublin,q3,70%
+30/03/2017,"38 Park Rd, Glenageary Heights, Glenageary",Dublin,405000.0,No,Glenageary,Co. Dublin,q1,20%
+31/03/2017,"5 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,735682.81,Yes,Glenageary,Co. Dublin,q4,80%
+04/04/2017,"10 Haddington Lawn, Glenageary, Dublin",Dublin,725000.0,No,Glenageary,Co. Dublin,q4,80%
+13/04/2017,"59 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,688998.18,Yes,Glenageary,Co. Dublin,q3,70%
+26/04/2017,"3 Bellevue Rd, Glenageary, Dublin",Dublin,895000.0,No,Glenageary,Co. Dublin,q4,90%
+27/04/2017,"The Old Vicarage, Silchester Rd, Glenageary",Dublin,3105000.0,No,Glenageary,Co. Dublin,q4,100%
+05/05/2017,"17 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,713998.0,Yes,Glenageary,Co. Dublin,q3,80%
+09/05/2017,"45 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,638766.51,Yes,Glenageary,Co. Dublin,q3,60%
+09/05/2017,"9 Roseland Avenue, Upper Glenageary Road",Dublin,693998.18,Yes,Glenageary,Co. Dublin,q3,70%
+18/05/2017,"15 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,665198.23,Yes,Glenageary,Co. Dublin,q3,70%
+19/05/2017,"41 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,698998.18,Yes,Glenageary,Co. Dublin,q3,70%
+24/05/2017,"16 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,651982.37,Yes,Glenageary,Co. Dublin,q3,60%
+26/05/2017,"20 Glenageary Court, Glenageary, Dublin",Dublin,405000.0,No,Glenageary,Co. Dublin,q1,20%
+26/05/2017,"8 Bellevue Rd, Glenageary, Dublin",Dublin,650000.0,No,Glenageary,Co. Dublin,q3,60%
+30/05/2017,"65 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,643171.81,Yes,Glenageary,Co. Dublin,q3,60%
+31/05/2017,"13 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,651982.38,Yes,Glenageary,Co. Dublin,q3,60%
+31/05/2017,"33 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,704845.81,Yes,Glenageary,Co. Dublin,q3,70%
+31/05/2017,"34 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,638766.51,Yes,Glenageary,Co. Dublin,q3,60%
+02/06/2017,"4 Sion Rd, Glenageary, Dublin",Dublin,680000.0,No,Glenageary,Co. Dublin,q3,70%
+16/06/2017,"11 Bellevue Rd, Glenageary, Dublin",Dublin,935000.0,No,Glenageary,Co. Dublin,q4,100%
+22/06/2017,"44 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,638766.51,Yes,Glenageary,Co. Dublin,q3,60%
+30/06/2017,"51 Arnold Park, Glenageary, Dublin",Dublin,641000.0,No,Glenageary,Co. Dublin,q3,60%
+04/07/2017,"3 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,665198.23,Yes,Glenageary,Co. Dublin,q3,70%
+05/07/2017,"172 Glenageary Park, Glenageary, Co Dublin",Dublin,700000.0,No,Glenageary,Co. Dublin,q3,70%
+07/07/2017,"61 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,629956.0,Yes,Glenageary,Co. Dublin,q3,60%
+11/07/2017,"87 Silchester Park, Glenageary, Co Dublin",Dublin,735000.0,No,Glenageary,Co. Dublin,q4,80%
+17/07/2017,"64 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,643171.81,Yes,Glenageary,Co. Dublin,q3,60%
+20/07/2017,"20 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,704845.81,Yes,Glenageary,Co. Dublin,q3,70%
+20/07/2017,"26 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,643172.0,Yes,Glenageary,Co. Dublin,q3,60%
+20/07/2017,"38 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,683998.0,Yes,Glenageary,Co. Dublin,q3,70%
+26/07/2017,"2 Chester Sq, Glenageary, Dublin",Dublin,436120.0,No,Glenageary,Co. Dublin,q1,30%
+01/08/2017,"5 Bellevue Ave, Glenageary, Dublin",Dublin,679950.0,No,Glenageary,Co. Dublin,q3,70%
+02/08/2017,"1 Glenageary Hall, Glenageary, Dun Laoire",Dublin,900000.0,No,Glenageary,Co. Dublin,q4,90%
+02/08/2017,"45 Silchester Rd, Glenageary, Dublin",Dublin,1205000.0,No,Glenageary,Co. Dublin,q4,100%
+02/08/2017,"Valentia, 16 Adelaide Rd, Glenageary",Dublin,715000.0,No,Glenageary,Co. Dublin,q3,80%
+14/08/2017,"1 Arnold Park, Glenageary, Dublin",Dublin,590000.0,No,Glenageary,Co. Dublin,q2,50%
+18/08/2017,"Cill Aodain, 71 Adelaide Road, Glenageary",Dublin,816100.0,No,Glenageary,Co. Dublin,q4,90%
+22/08/2017,"6 Glengara Park, Glenageary, Dublin",Dublin,690000.0,No,Glenageary,Co. Dublin,q3,70%
+22/08/2017,"8 Glengara Close, Glenageary, Dublin",Dublin,460000.0,No,Glenageary,Co. Dublin,q2,30%
+23/08/2017,"12 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,739576.0,Yes,Glenageary,Co. Dublin,q4,80%
+24/08/2017,"25 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,704845.81,Yes,Glenageary,Co. Dublin,q3,70%
+25/08/2017,"6 Glenageary Lodge, Glenageary, Dublin",Dublin,635000.0,No,Glenageary,Co. Dublin,q3,60%
+29/08/2017,"10 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,339500.0,Yes,Glenageary,Co. Dublin,q1,20%
+30/08/2017,"20 Upper Eden Rd, Glenageary, Dublin",Dublin,790000.0,No,Glenageary,Co. Dublin,q4,90%
+31/08/2017,"19 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,665199.0,Yes,Glenageary,Co. Dublin,q3,70%
+31/08/2017,"25 St Catherines Park, Glenageary, Dublin",Dublin,752000.0,No,Glenageary,Co. Dublin,q4,90%
+31/08/2017,"57 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,673998.18,Yes,Glenageary,Co. Dublin,q3,70%
+21/09/2017,"58 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,650540.0,Yes,Glenageary,Co. Dublin,q3,60%
+22/09/2017,"139 Glenageary Avenue, Glenageary",Dublin,550660.0,Yes,Glenageary,Co. Dublin,q2,40%
+25/09/2017,"1 Marlborough Court, Glenageary, Dublin",Dublin,595000.0,No,Glenageary,Co. Dublin,q2,50%
+26/09/2017,"137 Glenageary Avenue, Thomastown, Glenageary",Dublin,572687.0,Yes,Glenageary,Co. Dublin,q2,50%
+28/09/2017,"138 Glenageary Avenue, Glenageary",Dublin,550661.0,Yes,Glenageary,Co. Dublin,q2,40%
+04/10/2017,"11 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,656387.66,Yes,Glenageary,Co. Dublin,q3,60%
+05/10/2017,"32 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,707964.6,Yes,Glenageary,Co. Dublin,q3,80%
+10/10/2017,"8 Cualanor Crescent, Cualanor, Upper Glenageary Road",Dublin,656387.66,Yes,Glenageary,Co. Dublin,q3,60%
+13/10/2017,"30 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,748898.0,Yes,Glenageary,Co. Dublin,q4,80%
+16/10/2017,"No. 67 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,638766.52,Yes,Glenageary,Co. Dublin,q3,60%
+18/10/2017,"63 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,683999.0,Yes,Glenageary,Co. Dublin,q3,70%
+31/10/2017,"20 St Patricks Crescent, Glenageary, Dublin",Dublin,425000.0,No,Glenageary,Co. Dublin,q1,30%
+03/11/2017,"22 Roslenad Avenue, Cualanor, Upper Glenageary Road",Dublin,647577.0,Yes,Glenageary,Co. Dublin,q3,60%
+03/11/2017,"23 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,647576.0,Yes,Glenageary,Co. Dublin,q3,60%
+03/11/2017,"66 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,638766.51,Yes,Glenageary,Co. Dublin,q3,60%
+03/11/2017,"67 Hillcourt Rd, Glenageary, Dublin",Dublin,849000.0,No,Glenageary,Co. Dublin,q4,90%
+07/11/2017,"Roebuck, 2 Silchester Rd, Glenageary",Dublin,16000.0,No,Glenageary,Co. Dublin,q1,10%
+10/11/2017,"5 Arkendale Court, Glenageary, Dublin",Dublin,425000.0,No,Glenageary,Co. Dublin,q1,30%
+20/11/2017,"Apt 29 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,286343.6,Yes,Glenageary,Co. Dublin,q1,10%
+21/11/2017,"29 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,638766.0,Yes,Glenageary,Co. Dublin,q3,60%
+21/11/2017,"Roebuck, 2 Silchester Rd, Glenageary",Dublin,1390000.0,No,Glenageary,Co. Dublin,q4,100%
+24/11/2017,"49 Elmgrove, Ballybrack, Glenageary",Dublin,400000.0,No,Glenageary,Co. Dublin,q1,20%
+01/12/2017,"39 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,638767.0,Yes,Glenageary,Co. Dublin,q3,60%
+04/12/2017,"16 Greythorn Park, Glenageary, Dublin",Dublin,700000.0,No,Glenageary,Co. Dublin,q3,70%
+04/12/2017,"Apartment 90, Eustace Court, Glenageary Road",Dublin,330396.0,Yes,Glenageary,Co. Dublin,q1,10%
+04/12/2017,"Apt 77 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,431718.05,Yes,Glenageary,Co. Dublin,q1,30%
+05/12/2017,"Alderly, Upper Glenageary Road, Dunlaoire",Dublin,800000.0,No,Glenageary,Co. Dublin,q4,90%
+05/12/2017,"Apt 9 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,330396.0,Yes,Glenageary,Co. Dublin,q1,10%
+08/12/2017,"27 Roseland Avenue, Culanor, Upper Glenageary :Road",Dublin,647576.0,Yes,Glenageary,Co. Dublin,q3,60%
+08/12/2017,"41 Glenageary Lodge, Glenageary, Dublin",Dublin,650000.0,No,Glenageary,Co. Dublin,q3,60%
+11/12/2017,"11 Arnold Grove, Glenageary, Dublin",Dublin,725000.0,No,Glenageary,Co. Dublin,q4,80%
+11/12/2017,"144 Silchester Park, Glenageary, Dublin",Dublin,2000000.0,No,Glenageary,Co. Dublin,q4,100%
+15/12/2017,"19 Lanesville, Monkstown, Glenageary",Dublin,780000.0,No,Glenageary,Co. Dublin,q4,90%
+15/12/2017,"4 Arkendale Rd, Glenageary, Dublin",Dublin,2350000.0,No,Glenageary,Co. Dublin,q4,100%
+19/12/2017,"Apt 8 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,308370.04,Yes,Glenageary,Co. Dublin,q1,10%
+20/12/2017,"1 Park Close, Glenageary Heights, Glenageary",Dublin,575000.0,No,Glenageary,Co. Dublin,q2,50%
+20/12/2017,"21 St Catherines Park, Glenageary, Dublin",Dublin,930000.0,No,Glenageary,Co. Dublin,q4,100%
+20/12/2017,"34 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,365638.76,Yes,Glenageary,Co. Dublin,q1,20%
+21/12/2017,"20 Glengara Park, Glenageary, Dublin",Dublin,665000.0,No,Glenageary,Co. Dublin,q3,70%
+03/01/2018,"20  Greenbank House, Cualanor, Upper Glenageary Road",Dublin,273488.0,Yes,Glenageary,Co. Dublin,q1,10%
+04/01/2018,"43 Silchester Park, Glenageary, Dublin",Dublin,700000.0,No,Glenageary,Co. Dublin,q3,70%
+04/01/2018,"Apt 89 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,422907.49,Yes,Glenageary,Co. Dublin,q1,30%
+05/01/2018,"Apt. No. 12 Greenbank House, Cualanor  Uppr. Glenageary Road",Dublin,268721.0,Yes,Glenageary,Co. Dublin,q1,10%
+05/01/2018,"Apt. No. 14 Greenbank House, Cualanor  Uppr. Glenageary Road",Dublin,268721.0,Yes,Glenageary,Co. Dublin,q1,10%
+15/01/2018,"64 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,616740.0,Yes,Glenageary,Co. Dublin,q2,50%
+16/01/2018,"Apartment 91 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,431718.0,Yes,Glenageary,Co. Dublin,q1,30%
+16/01/2018,"Apartment No 65, Eustace Court, Upper Glenageary Road",Dublin,396396.0,Yes,Glenageary,Co. Dublin,q1,20%
+26/01/2018,"18 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,334801.75,Yes,Glenageary,Co. Dublin,q1,10%
+26/01/2018,"Apt 93 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,431717.0,Yes,Glenageary,Co. Dublin,q1,30%
+01/02/2018,"3 Park Rd, Glenageary Heights, Glenageary",Dublin,485000.0,No,Glenageary,Co. Dublin,q2,40%
+01/02/2018,"Apt 35 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,295154.19,Yes,Glenageary,Co. Dublin,q1,10%
+01/02/2018,"Apt 48 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,616740.09,Yes,Glenageary,Co. Dublin,q2,50%
+07/02/2018,"73 Eustace Court, Cualanor, Glenageary Road",Dublin,418503.0,Yes,Glenageary,Co. Dublin,q1,30%
+09/02/2018,"4 The Lodge, Glenageary Rd Lower, Glenageary",Dublin,488000.0,No,Glenageary,Co. Dublin,q2,40%
+14/02/2018,"Apt 30 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,286344.0,Yes,Glenageary,Co. Dublin,q1,10%
+16/02/2018,"Couleen, Glenageary Rd Lower, Glenageary",Dublin,1087500.0,No,Glenageary,Co. Dublin,q4,100%
+17/02/2018,"11 Silchester Rd, Glenageary, Dublin",Dublin,1370000.0,No,Glenageary,Co. Dublin,q4,100%
+20/02/2018,"23 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,273126.0,Yes,Glenageary,Co. Dublin,q1,10%
+21/02/2018,"49 Park Rd, Glenageary Heights, Glenageary",Dublin,495000.0,No,Glenageary,Co. Dublin,q2,40%
+22/02/2018,"28 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,660792.06,Yes,Glenageary,Co. Dublin,q3,70%
+23/02/2018,"8 Arkendale Court, Arkendale Rd, Glenageary",Dublin,470000.0,No,Glenageary,Co. Dublin,q2,30%
+28/02/2018,"Apartment 42, Eustace Court, Upr Glenageary Road",Dublin,471366.0,Yes,Glenageary,Co. Dublin,q2,30%
+28/02/2018,"Apt 80 Eustace Court, Cualanor, Upr Glenageary Road",Dublin,550660.0,Yes,Glenageary,Co. Dublin,q2,40%
+08/03/2018,"81 Eustace Court, Cualanor, Upr Glenageary Road",Dublin,612334.0,Yes,Glenageary,Co. Dublin,q2,50%
+14/03/2018,"Apt. 17 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,324375.0,Yes,Glenageary,Co. Dublin,q1,10%
+15/03/2018,"25 Bayview Dr, Killiney, Glenageary",Dublin,560000.0,No,Glenageary,Co. Dublin,q2,50%
+15/03/2018,"7 Rathdown Hall, Glenageary, Dublin",Dublin,200000.0,No,Glenageary,Co. Dublin,q1,10%
+16/03/2018,"1 Station Rd, Glenageary, Dublin",Dublin,905000.0,No,Glenageary,Co. Dublin,q4,90%
+16/03/2018,"121 St Patricks Crescent, Dun Laoghaire, Glenageary",Dublin,480000.0,No,Glenageary,Co. Dublin,q2,40%
+22/03/2018,"Apt 34 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,400881.06,Yes,Glenageary,Co. Dublin,q1,20%
+27/03/2018,"90 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,1541850.0,Yes,Glenageary,Co. Dublin,q4,100%
+05/04/2018,"46  Eustace Court, Cualanor, Upper Glenageary Road",Dublin,484581.0,Yes,Glenageary,Co. Dublin,q2,40%
+06/04/2018,"1 Arkendale Court, Glenageary, Dublin",Dublin,692000.0,No,Glenageary,Co. Dublin,q3,70%
+06/04/2018,"44 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,418502.0,Yes,Glenageary,Co. Dublin,q1,30%
+06/04/2018,"Apartment 92, Eustace Court, Upper Glenageary Rod",Dublin,409691.62,Yes,Glenageary,Co. Dublin,q1,20%
+09/04/2018,"59 Glenageary Park, Glenageary, Dublin",Dublin,665000.0,No,Glenageary,Co. Dublin,q3,70%
+10/04/2018,"6 Claremont Court, Claremont Villas, Glenageary",Dublin,318000.0,No,Glenageary,Co. Dublin,q1,10%
+10/04/2018,"70 Wyattville Park, Loughlinstown, Glenageary",Dublin,520000.0,No,Glenageary,Co. Dublin,q2,40%
+11/04/2018,"72 Hillcourt Rd, Glenageary, Dublin",Dublin,577500.0,No,Glenageary,Co. Dublin,q2,50%
+13/04/2018,"Apartment 96 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,583875.0,Yes,Glenageary,Co. Dublin,q2,50%
+17/04/2018,"Apartment 19  Core 2, Eustace Court  Cualanor, Upper Glenageary Road",Dublin,393575.0,Yes,Glenageary,Co. Dublin,q1,20%
+19/04/2018,"Apartment No 13, Greenbank House  Cualanor, Upper Glenageary Road",Dublin,273128.0,Yes,Glenageary,Co. Dublin,q1,10%
+20/04/2018,"95 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,612333.0,Yes,Glenageary,Co. Dublin,q2,50%
+24/04/2018,"Dunluce, 173 Upper Glenageary Rd, Glenageary",Dublin,1650000.0,No,Glenageary,Co. Dublin,q4,100%
+25/04/2018,"Apartment 16 Greenbank House, Cualanor  Upper Glenageary Road, Dun Loaghaire",Dublin,272098.0,Yes,Glenageary,Co. Dublin,q1,10%
+27/04/2018,"Apartment 10, Eustace Court, Upper Glenageary Road",Dublin,409691.0,Yes,Glenageary,Co. Dublin,q1,20%
+30/04/2018,"22 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,277533.0,Yes,Glenageary,Co. Dublin,q1,10%
+03/05/2018,"25 St Catherines Park, Glenageary, Dublin",Dublin,752000.0,No,Glenageary,Co. Dublin,q4,90%
+04/05/2018,"32 Traverslea Wood, Lower Glenageary Road, Glenageary",Dublin,334802.0,Yes,Glenageary,Co. Dublin,q1,20%
+08/05/2018,"63 Flower Grove, Glenageary, Dublin",Dublin,585000.0,No,Glenageary,Co. Dublin,q2,50%
+09/05/2018,"27 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,594713.0,Yes,Glenageary,Co. Dublin,q2,50%
+14/05/2018,"35 Traverslea Wood, Lower Glenageary Road, Glenageary",Dublin,343612.0,Yes,Glenageary,Co. Dublin,q1,20%
+16/05/2018,"Apartment 43 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,519824.0,Yes,Glenageary,Co. Dublin,q2,40%
+17/05/2018,"21 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,409691.62,Yes,Glenageary,Co. Dublin,q1,20%
+24/05/2018,"10 Arkendale Rd, Glenageary, Dublin",Dublin,980000.0,No,Glenageary,Co. Dublin,q4,100%
+24/05/2018,"4B  St Catherine'S Road, Glenageary, Co Dublin",Dublin,710000.0,No,Glenageary,Co. Dublin,q3,80%
+25/05/2018,"55 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,462554.0,Yes,Glenageary,Co. Dublin,q2,30%
+30/05/2018,"Apt 39 Eustace Court, Cualanor, Upper Glenageary Rd",Dublin,409691.0,Yes,Glenageary,Co. Dublin,q1,20%
+31/05/2018,"24 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,418502.0,Yes,Glenageary,Co. Dublin,q1,30%
+01/06/2018,"16 Eustace Court, Cualanor, Upper Glenageary",Dublin,383260.0,Yes,Glenageary,Co. Dublin,q1,20%
+01/06/2018,"60A Albert Close, Glenageary, Dublin",Dublin,850000.0,No,Glenageary,Co. Dublin,q4,90%
+01/06/2018,"82 Glenageary Ave, Glenageary, Dublin",Dublin,615000.0,No,Glenageary,Co. Dublin,q2,50%
+01/06/2018,"Apt. 8 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,414097.0,Yes,Glenageary,Co. Dublin,q1,30%
+06/06/2018,"Apt 4, Eustace Court, Cualanor  Upper Glenageary Road",Dublin,405286.33,Yes,Glenageary,Co. Dublin,q1,20%
+08/06/2018,"Apt  33  Block A, Traverslea Wood, Glenageary",Dublin,344493.0,Yes,Glenageary,Co. Dublin,q1,20%
+14/06/2018,"Apt. 1 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,380600.0,Yes,Glenageary,Co. Dublin,q1,20%
+18/06/2018,"Apartment 9 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,414096.91,Yes,Glenageary,Co. Dublin,q1,30%
+19/06/2018,"19 Haddington Park, Glenageary, Dublin",Dublin,870000.0,No,Glenageary,Co. Dublin,q4,90%
+20/06/2018,"Apt 36 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,462554.0,Yes,Glenageary,Co. Dublin,q2,30%
+22/06/2018,"17  Eustace Court, Cualanor, Upper Glenageary Road",Dublin,400881.06,Yes,Glenageary,Co. Dublin,q1,20%
+22/06/2018,"7 Park Rd, Glenageary Heights, Glenageary",Dublin,460000.0,No,Glenageary,Co. Dublin,q2,30%
+28/06/2018,"44 Villarea Park, Glenageary, Dublin",Dublin,850000.0,No,Glenageary,Co. Dublin,q4,90%
+05/07/2018,"Apartment 34, Traverslea Wood, Lower Glenageary Road",Dublin,343612.0,Yes,Glenageary,Co. Dublin,q1,20%
+10/07/2018,"15 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,289264.83,Yes,Glenageary,Co. Dublin,q1,10%
+12/07/2018,"Clovelly 3 St Catherines Park, Glenageary, Dublin",Dublin,1300000.0,No,Glenageary,Co. Dublin,q4,100%
+19/07/2018,"4 Traverslea Close, Glenageary, Dublin",Dublin,1350000.0,No,Glenageary,Co. Dublin,q4,100%
+19/07/2018,"Rosenberg, Silchester Rd, Glenageary",Dublin,2700000.0,No,Glenageary,Co. Dublin,q4,100%
+26/07/2018,"15 Eustace, Cualanor, Upper Glenageary Road",Dublin,330395.0,Yes,Glenageary,Co. Dublin,q1,10%
+27/07/2018,"Apt 28 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,286342.0,Yes,Glenageary,Co. Dublin,q1,10%
+27/07/2018,"Syrges Gate, Adelaide Rd, Glenageary",Dublin,100000.0,No,Glenageary,Co. Dublin,q1,10%
+31/07/2018,"Apartment 3 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,280630.11,Yes,Glenageary,Co. Dublin,q1,10%
+01/08/2018,"14 Park Court, Glenageary Heights, Glenageary",Dublin,443200.0,No,Glenageary,Co. Dublin,q2,30%
+13/08/2018,"38 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,709250.0,Yes,Glenageary,Co. Dublin,q3,80%
+15/08/2018,"20 Arkendale Road, Glenageary, Co Dublin",Dublin,810000.0,No,Glenageary,Co. Dublin,q4,90%
+16/08/2018,"16 Beechwood Park, Glenageary, Dublin",Dublin,890000.0,No,Glenageary,Co. Dublin,q4,90%
+17/08/2018,"4 Beeches Park, Glenageary, Dublin",Dublin,865000.0,No,Glenageary,Co. Dublin,q4,90%
+20/08/2018,"40 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,810572.0,Yes,Glenageary,Co. Dublin,q4,90%
+21/08/2018,"11 Spencer Villas, Glenageary, Dublin",Dublin,1370000.0,No,Glenageary,Co. Dublin,q4,100%
+23/08/2018,"Ivy Lodge, Lower Glenageary Rd, Glenageary",Dublin,1312500.0,No,Glenageary,Co. Dublin,q4,100%
+24/08/2018,"22 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,722466.96,Yes,Glenageary,Co. Dublin,q3,80%
+27/08/2018,"Apartment 5 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,264317.17,Yes,Glenageary,Co. Dublin,q1,10%
+28/08/2018,"37 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,722467.0,Yes,Glenageary,Co. Dublin,q3,80%
+31/08/2018,"38 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,511012.0,Yes,Glenageary,Co. Dublin,q2,40%
+31/08/2018,"95 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,710000.0,No,Glenageary,Co. Dublin,q3,80%
+05/09/2018,"24  Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,709251.0,Yes,Glenageary,Co. Dublin,q3,80%
+07/09/2018,"38 Glengara Park, Glenageary, Dublin",Dublin,770000.0,No,Glenageary,Co. Dublin,q4,90%
+10/09/2018,"68 Flower Grove, Glenageary, Dublin",Dublin,625000.0,No,Glenageary,Co. Dublin,q3,60%
+13/09/2018,"31 Traverslea Wood, Lower Glenageary Road, Glenageary",Dublin,343613.0,Yes,Glenageary,Co. Dublin,q1,20%
+13/09/2018,"Lisadell, 212 Upper Glenageary Rd, Glenageary",Dublin,1100000.0,No,Glenageary,Co. Dublin,q4,100%
+14/09/2018,"Apartment No. 22, Eustace Court  Cualanor, Upper Glenageary Road",Dublin,409691.63,Yes,Glenageary,Co. Dublin,q1,20%
+14/09/2018,"Knockgarey, Bellevue Road, Glenageary",Dublin,830000.0,No,Glenageary,Co. Dublin,q4,90%
+17/09/2018,"Apartment 29 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,383259.0,Yes,Glenageary,Co. Dublin,q1,20%
+21/09/2018,"28 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,709250.0,Yes,Glenageary,Co. Dublin,q3,80%
+21/09/2018,"Apartment 2 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,387665.2,Yes,Glenageary,Co. Dublin,q1,20%
+26/09/2018,"130 Silchester Park, Glenageary, Dublin",Dublin,700000.0,No,Glenageary,Co. Dublin,q3,70%
+26/09/2018,"76 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,533039.64,Yes,Glenageary,Co. Dublin,q2,40%
+27/09/2018,"4 Altadore, Glenageary Rd Upper, Glenageary",Dublin,970000.0,No,Glenageary,Co. Dublin,q4,100%
+27/09/2018,"Apt 74 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,409691.0,Yes,Glenageary,Co. Dublin,q1,20%
+28/09/2018,"5 The Glen, Glenageary Rd Lower, Glenageary",Dublin,1050000.0,No,Glenageary,Co. Dublin,q4,100%
+01/10/2018,"Apt.7  Greenbank House, Cualanor, Upper Glenageary Road",Dublin,264317.0,Yes,Glenageary,Co. Dublin,q1,10%
+03/10/2018,"23 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,418503.0,Yes,Glenageary,Co. Dublin,q1,30%
+05/10/2018,"Apt 84 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,387665.0,Yes,Glenageary,Co. Dublin,q1,20%
+11/10/2018,"Apt 13  Eustace Court, Cualanor, Upper Glenageary Road",Dublin,638766.52,Yes,Glenageary,Co. Dublin,q3,60%
+12/10/2018,"No. 14 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,383260.0,Yes,Glenageary,Co. Dublin,q1,20%
+15/10/2018,"5 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,405286.34,Yes,Glenageary,Co. Dublin,q1,20%
+18/10/2018,"Knocknagarm House, Park Court, Glenageary Heights",Dublin,1213000.0,No,Glenageary,Co. Dublin,q4,100%
+23/10/2018,"20 Park Rd, Glenageary Heights, Glenageary",Dublin,380000.0,No,Glenageary,Co. Dublin,q1,20%
+23/10/2018,"Apt 12 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,612335.0,Yes,Glenageary,Co. Dublin,q2,50%
+25/10/2018,"25 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,722466.96,Yes,Glenageary,Co. Dublin,q3,80%
+25/10/2018,"34 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,709250.0,Yes,Glenageary,Co. Dublin,q3,80%
+26/10/2018,"No 16 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,700440.52,Yes,Glenageary,Co. Dublin,q3,70%
+30/10/2018,"78 Glenageary Park, Glenageary, Dublin",Dublin,617000.0,No,Glenageary,Co. Dublin,q2,50%
+31/10/2018,"24 St Catherines Park, Glenageary, Dublin",Dublin,1350000.0,No,Glenageary,Co. Dublin,q4,100%
+01/11/2018,"12 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,709251.09,Yes,Glenageary,Co. Dublin,q3,80%
+01/11/2018,"2 Silchester Park, Glenageary, Dublin",Dublin,860000.0,No,Glenageary,Co. Dublin,q4,90%
+02/11/2018,"Apartment 33, Eustace Court  Cualanor, Upper Glenageary Road",Dublin,502202.64,Yes,Glenageary,Co. Dublin,q2,40%
+07/11/2018,"9 Bellevue Rd, Glenageary, Dublin",Dublin,625000.0,No,Glenageary,Co. Dublin,q3,60%
+09/11/2018,"8 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,722467.0,Yes,Glenageary,Co. Dublin,q3,80%
+13/11/2018,"11 Fairwaydrive, Cualanor, Upper Glenageary Road",Dublin,709250.0,Yes,Glenageary,Co. Dublin,q3,80%
+13/11/2018,"36 Hillcourt Road, Glenageary, Co Dublin",Dublin,750000.0,No,Glenageary,Co. Dublin,q4,90%
+14/11/2018,"47 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,484581.0,Yes,Glenageary,Co. Dublin,q2,40%
+15/11/2018,"9 Fairway Drive, Cualanor, Upper Glenageary",Dublin,709251.0,Yes,Glenageary,Co. Dublin,q3,80%
+22/11/2018,"27 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,709251.0,Yes,Glenageary,Co. Dublin,q3,80%
+22/11/2018,"Apartment 30, Traverslea Wood, Lower Glenageary Road",Dublin,337444.93,Yes,Glenageary,Co. Dublin,q1,20%
+28/11/2018,"7 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,722466.96,Yes,Glenageary,Co. Dublin,q3,80%
+28/11/2018,"Apt 38 Packenham, The Sloperton Rd, Glenageary",Dublin,390000.0,No,Glenageary,Co. Dublin,q1,20%
+30/11/2018,"5 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,709251.09,Yes,Glenageary,Co. Dublin,q3,80%
+30/11/2018,"6 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,709251.09,Yes,Glenageary,Co. Dublin,q3,80%
+06/12/2018,"18 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,400881.0,Yes,Glenageary,Co. Dublin,q1,20%
+06/12/2018,"27 Abbot Drive, Cualanor, Upper Glenageary Road",Dublin,740088.0,Yes,Glenageary,Co. Dublin,q4,80%
+10/12/2018,"68 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,506607.0,Yes,Glenageary,Co. Dublin,q2,40%
+10/12/2018,"Apartment 25 Greenbank House, Cualanor, Glenageary Road Upper",Dublin,277533.0,Yes,Glenageary,Co. Dublin,q1,10%
+11/12/2018,"10 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,709250.75,Yes,Glenageary,Co. Dublin,q3,80%
+13/12/2018,"3 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,713656.38,Yes,Glenageary,Co. Dublin,q3,80%
+14/12/2018,"12 Park Rd, Glenageary Heights, Glenageary",Dublin,380000.0,No,Glenageary,Co. Dublin,q1,20%
+14/12/2018,"Apartment 11 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,402225.0,Yes,Glenageary,Co. Dublin,q1,20%
+18/12/2018,"136 Upper Glenageary Rd, Glenageary, Dublin",Dublin,660000.0,No,Glenageary,Co. Dublin,q3,60%
+18/12/2018,"24 Abbott Drive, Cualanor, Upper Glenageary Road",Dublin,825000.0,Yes,Glenageary,Co. Dublin,q4,90%
+18/12/2018,"Apartment 20 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,409691.62,Yes,Glenageary,Co. Dublin,q1,20%
+18/12/2018,"Apt 7 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,400881.05,Yes,Glenageary,Co. Dublin,q1,20%
+20/12/2018,"15 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,700440.0,Yes,Glenageary,Co. Dublin,q3,70%
+20/12/2018,"20 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,700440.0,Yes,Glenageary,Co. Dublin,q3,70%
+20/12/2018,"Apt. 10 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,290748.0,Yes,Glenageary,Co. Dublin,q1,10%
+21/12/2018,"Harwen, Adelaide Road, Glenageary",Dublin,862000.0,No,Glenageary,Co. Dublin,q4,90%
+04/01/2019,"17 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,713656.0,Yes,Glenageary,Co. Dublin,q3,80%
+16/01/2019,"1 Kilcolman Court, Glenageary Rd Upper, Glenageary",Dublin,475000.0,No,Glenageary,Co. Dublin,q2,30%
+18/01/2019,"41 Eustace Court, Cualanor, Upper Glenageary",Dublin,471365.0,Yes,Glenageary,Co. Dublin,q2,30%
+22/01/2019,"25 Abbott Drive, Cualanor, Upper Glenageary Road",Dublin,726634.0,Yes,Glenageary,Co. Dublin,q4,80%
+28/01/2019,"8 Arnold Park, Glenageary, Dublin",Dublin,649000.0,No,Glenageary,Co. Dublin,q3,60%
+29/01/2019,"Apt. 33 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,290749.0,Yes,Glenageary,Co. Dublin,q1,10%
+04/02/2019,"14 Sion Rd, Glenageary, Dublin",Dublin,610000.0,No,Glenageary,Co. Dublin,q2,50%
+13/02/2019,"Langford House, Glenageary Woods, Glenageary",Dublin,950000.0,No,Glenageary,Co. Dublin,q4,100%
+15/02/2019,"1 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,762286.0,Yes,Glenageary,Co. Dublin,q4,90%
+20/02/2019,"18 Glenageary Hall, Glenageary Road Upper, Glenageary",Dublin,815000.0,No,Glenageary,Co. Dublin,q4,90%
+20/02/2019,"32 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,735683.0,Yes,Glenageary,Co. Dublin,q4,80%
+22/02/2019,"31 Fairway Drive, Cualanor Upper, Upper Glenageary Road",Dublin,801762.0,Yes,Glenageary,Co. Dublin,q4,90%
+01/03/2019,"29 Abbot Drive, Cualanor, Upper Glenageary Road",Dublin,825000.0,Yes,Glenageary,Co. Dublin,q4,90%
+13/03/2019,"Apt. 60 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,486725.0,Yes,Glenageary,Co. Dublin,q2,40%
+14/03/2019,"Apt 26 Eustace Court, Cualanor, Upr Glenageary Rd",Dublin,612334.0,Yes,Glenageary,Co. Dublin,q2,50%
+15/03/2019,"22 Bellevue Rd, Glenageary, Dublin",Dublin,785000.0,No,Glenageary,Co. Dublin,q4,90%
+15/03/2019,"Apt. 6  Eustace Court, Cualanor, Upper Glenageary Road",Dublin,400881.0,Yes,Glenageary,Co. Dublin,q1,20%
+28/03/2019,"7 Traverslea Woods, Lower Glenageary Rd, Dublin",Dublin,655000.0,No,Glenageary,Co. Dublin,q3,60%
+29/03/2019,"2 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,700440.53,Yes,Glenageary,Co. Dublin,q3,70%
+08/04/2019,"No.4 Abbot Drive, Cualanor, Upper Glenageary Road",Dublin,696326.0,Yes,Glenageary,Co. Dublin,q3,70%
+11/04/2019,"19 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,700440.0,Yes,Glenageary,Co. Dublin,q3,70%
+11/04/2019,"88 Oliver Plunkett Rd, Monkstown Farm, Glenageary",Dublin,412000.0,No,Glenageary,Co. Dublin,q1,30%
+16/04/2019,"3 Haddington Park, Glenageary, Dublin",Dublin,850000.0,No,Glenageary,Co. Dublin,q4,90%
+30/04/2019,"27 Marlborough Rd, Glenageary, Dublin",Dublin,1975000.0,No,Glenageary,Co. Dublin,q4,100%
+10/05/2019,"7 Arkendale Woods, Glenageary, Dublin",Dublin,320000.0,No,Glenageary,Co. Dublin,q1,10%
+14/05/2019,"32 Hilcourt Park, Glenageary, Dublin",Dublin,695000.0,No,Glenageary,Co. Dublin,q3,70%
+16/05/2019,"26 Abbot Drive, Cualanor, Upper Glenageary Road",Dublin,740088.09,Yes,Glenageary,Co. Dublin,q4,80%
+16/05/2019,"Apartment 71 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,511013.0,Yes,Glenageary,Co. Dublin,q2,40%
+16/05/2019,"Apt 32 Greenbank House, Cualanor, Upper Glenageary Road",Dublin,290748.89,Yes,Glenageary,Co. Dublin,q1,10%
+17/05/2019,"82 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,678414.0,Yes,Glenageary,Co. Dublin,q3,70%
+22/05/2019,"Apt 35 Eustace Court, Cualonor, Upper Glenageary Road",Dublin,365669.0,Yes,Glenageary,Co. Dublin,q1,20%
+23/05/2019,"33 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,788546.0,Yes,Glenageary,Co. Dublin,q4,90%
+24/05/2019,"4 Park Ave, Glenageary, Dublin",Dublin,475000.0,No,Glenageary,Co. Dublin,q2,40%
+27/05/2019,"18 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,713656.37,Yes,Glenageary,Co. Dublin,q3,80%
+27/05/2019,"Apartments 1-164 Fairwary Court, & 1-50 Fairway Hall, Cualanor  Upper Glenageary Road",Dublin,95242291.0,Yes,Glenageary,Co. Dublin,q4,100%
+27/05/2019,"Apt 32 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,444933.92,Yes,Glenageary,Co. Dublin,q2,30%
+31/05/2019,"54 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,820000.0,Yes,Glenageary,Co. Dublin,q4,90%
+07/06/2019,"28 Arnold Grove, Glenageary, Dublin",Dublin,785000.0,No,Glenageary,Co. Dublin,q4,90%
+10/06/2019,"Rear Of 76 Lower Albert Road, Glenageary, Co Dublin",Dublin,1120000.0,No,Glenageary,Co. Dublin,q4,100%
+12/06/2019,"13 Sallynoggin Villas, Glenageary, Dublin",Dublin,470000.0,No,Glenageary,Co. Dublin,q2,30%
+12/06/2019,"67 Eustace Court, Cualanor, Glenageary Road Upper",Dublin,440528.0,Yes,Glenageary,Co. Dublin,q1,30%
+20/06/2019,"3 Roseland Avenue, Cualanor, Upper Glenageary Road",Dublin,855000.0,No,Glenageary,Co. Dublin,q4,90%
+21/06/2019,"86 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,488986.78,Yes,Glenageary,Co. Dublin,q2,40%
+25/06/2019,"46 Bellevue Rd, Glenageary, Dublin",Dublin,617000.0,No,Glenageary,Co. Dublin,q2,50%
+08/07/2019,"21 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,779735.67,Yes,Glenageary,Co. Dublin,q4,90%
+09/07/2019,"49 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,572687.22,Yes,Glenageary,Co. Dublin,q2,50%
+11/07/2019,"15 Abbot Drive, Cualanor, Upper Glenageary Road",Dublin,722466.0,Yes,Glenageary,Co. Dublin,q3,80%
+11/07/2019,"3 Abbot Drive, Cualanor, Upper Glenageary Road",Dublin,722466.95,Yes,Glenageary,Co. Dublin,q3,80%
+12/07/2019,"31 Arkendale Woods, Arkendale Rd, Glenageary",Dublin,287500.0,No,Glenageary,Co. Dublin,q1,10%
+15/07/2019,"32 Hillcourt Road, Glenageary, Co Dublin",Dublin,700000.0,No,Glenageary,Co. Dublin,q3,70%
+18/07/2019,"48 Arnold Park, Glenageary, Dublin",Dublin,605000.0,No,Glenageary,Co. Dublin,q2,50%
+24/07/2019,"6 Abbott Drive, Culanor, Upper Glenageary Road",Dublin,725663.0,Yes,Glenageary,Co. Dublin,q4,80%
+29/07/2019,"33 Arnold Grove, Glenageary, Dublin",Dublin,795000.0,No,Glenageary,Co. Dublin,q4,90%
+01/08/2019,"20 Arkendale Woods, Glenageary, Dublin",Dublin,428000.0,No,Glenageary,Co. Dublin,q1,30%
+01/08/2019,"21 Glenageary Woods, Glenageary, Dublin",Dublin,910000.0,No,Glenageary,Co. Dublin,q4,90%
+01/08/2019,"69 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,431718.06,Yes,Glenageary,Co. Dublin,q1,30%
+12/08/2019,"Coolamber, 23 Glenadeary Lodge, Glenageary",Dublin,525000.0,No,Glenageary,Co. Dublin,q2,40%
+15/08/2019,"Glendalough House, Adelaide Road, Glenageary",Dublin,1400000.0,No,Glenageary,Co. Dublin,q4,100%
+16/08/2019,"41 Bellevue Rd, Glenageary, Dublin",Dublin,720000.0,No,Glenageary,Co. Dublin,q3,80%
+16/08/2019,"5 Cualanor Avenue, Cualanor  Upper Glenageary Road, Upper Glenageary Road",Dublin,726872.25,Yes,Glenageary,Co. Dublin,q4,80%
+21/08/2019,"1 Upper Glenageary Rd, Glenageary, Dublin",Dublin,520000.0,No,Glenageary,Co. Dublin,q2,40%
+23/08/2019,"6 Greythorn Park, Glenageary, Dublin",Dublin,735000.0,No,Glenageary,Co. Dublin,q4,80%
+30/08/2019,"1 Albert Mews, Albert Close, Glenageary",Dublin,515000.0,No,Glenageary,Co. Dublin,q2,40%
+30/08/2019,"26 Flower Grove, Glenageary, Dublin",Dublin,630000.0,No,Glenageary,Co. Dublin,q3,60%
+30/08/2019,"Portmagee, 32 Bellevue Road, Glenageary",Dublin,680000.0,No,Glenageary,Co. Dublin,q3,70%
+02/09/2019,"30 Abbot Drive, Cualanor, Upper Glenageary Road",Dublin,801761.0,Yes,Glenageary,Co. Dublin,q4,90%
+02/09/2019,"7 Sharavogue, Glenageary, Dublin",Dublin,740000.0,No,Glenageary,Co. Dublin,q4,80%
+03/09/2019,"33 Bellevue Rd, Glenageary, Dublin",Dublin,647000.0,No,Glenageary,Co. Dublin,q3,60%
+10/09/2019,"22 Abbot Drive, Cualanor, Upper Glenageary Road",Dublin,839050.0,Yes,Glenageary,Co. Dublin,q4,90%
+11/09/2019,"15 Haddington Park, Glenageary, Dublin",Dublin,785000.0,No,Glenageary,Co. Dublin,q4,90%
+11/09/2019,"Belmont, Cluain Mhuire, Glenageary Rd Upper",Dublin,535500.0,No,Glenageary,Co. Dublin,q2,40%
+12/09/2019,"23 Abbott Drive, Cualanor, Upper Glenageary Road",Dublin,854625.55,Yes,Glenageary,Co. Dublin,q4,90%
+13/09/2019,"Eagle Lodge, Adelaide Rd, Glenageary",Dublin,1215000.0,No,Glenageary,Co. Dublin,q4,100%
+16/09/2019,"20 Abbot Drive, Cualanor, Upper Glenageary Road",Dublin,748898.0,Yes,Glenageary,Co. Dublin,q4,80%
+17/09/2019,"13 Fairway Drive, Cualanor, Upper Glenageary Road",Dublin,837004.4,Yes,Glenageary,Co. Dublin,q4,90%
+24/09/2019,"28 Abbott Drive, Cualanor, Upper Glenageary Road",Dublin,726872.0,Yes,Glenageary,Co. Dublin,q4,80%
+25/09/2019,"1 St Catherines Rd, Glenageary, Dublin",Dublin,865000.0,No,Glenageary,Co. Dublin,q4,90%
+26/09/2019,"4 Edwin Court, Albert Rd Upper, Glenageary",Dublin,890000.0,No,Glenageary,Co. Dublin,q4,90%
+01/10/2019,"16 Sharavogue, Upper Glenageary Road, Co Dublin",Dublin,675000.0,No,Glenageary,Co. Dublin,q3,70%
+03/10/2019,"18 Feldberg, Upper Glenageary Road, Glengeary",Dublin,563876.0,Yes,Glenageary,Co. Dublin,q2,50%
+04/10/2019,"No.16, Feldberg, Upper Glenageary Road",Dublin,537500.0,Yes,Glenageary,Co. Dublin,q2,40%
+10/10/2019,"19 Abbot Drive, Cualanor, Upper Glenageary Road",Dublin,748898.0,Yes,Glenageary,Co. Dublin,q4,80%
+14/10/2019,"9 Feldberg, Upper Glenageary Road, Glenageary",Dublin,537445.0,Yes,Glenageary,Co. Dublin,q2,40%
+21/10/2019,"Apt.28 Eustace Court, Cualonor, Upper Glenageary Road",Dublin,484581.0,Yes,Glenageary,Co. Dublin,q2,40%
+23/10/2019,"83 Eustace Court, Cualanor, Upper Glenageary Road",Dublin,524229.0,Yes,Glenageary,Co. Dublin,q2,40%

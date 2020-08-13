@@ -1,0 +1,585 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/02/2010,"4 Tyrells Row, Lusk Village, Lusk",Dublin,190000.0,No,Lusk,Co. Dublin,q1,30%
+13/04/2010,"2 Scribes Court, Lusk",Dublin,170000.0,No,Lusk,Co. Dublin,q1,20%
+14/04/2010,"5 Great Commons, Lusk Village, Lusk",Dublin,240000.0,No,Lusk,Co. Dublin,q3,60%
+15/04/2010,"32 Dun Emer Walk, Lusk",Dublin,195000.0,No,Lusk,Co. Dublin,q2,30%
+29/04/2010,"29 Joyce Road, Lusk Village, Lusk",Dublin,185022.0,Yes,Lusk,Co. Dublin,q1,30%
+06/05/2010,"34 Chapel Farm Drive, Lusk",Dublin,25000.0,No,Lusk,Co. Dublin,q1,10%
+17/05/2010,"10 Windward Way, Lusk Village, Lusk",Dublin,270000.0,No,Lusk,Co. Dublin,q3,70%
+25/05/2010,"4 Abbeylands, Lusk, Lusk",Dublin,236000.0,No,Lusk,Co. Dublin,q2,50%
+21/06/2010,"54 Dun Emer Avenue, Dun Emer, Lusk",Dublin,285000.0,No,Lusk,Co. Dublin,q3,80%
+30/06/2010,"5 Dun Emer Road, Lusk",Dublin,291000.0,No,Lusk,Co. Dublin,q4,80%
+01/07/2010,"21 The Park, Orlynn Park, Lusk",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+05/07/2010,"15 Gleann Ribh, Lusk",Dublin,170000.0,No,Lusk,Co. Dublin,q1,20%
+14/07/2010,"9 Dun Emer Avenue, Lusk, Dublin",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+19/07/2010,"21 Forge Avenue, Lusk",Dublin,254950.0,Yes,Lusk,Co. Dublin,q3,60%
+21/07/2010,"19 Forge Avenue, The Forge, Lusk",Dublin,224625.55,Yes,Lusk,Co. Dublin,q2,50%
+06/08/2010,"10 Chapel Farm Avenue, Lusk",Dublin,228000.0,No,Lusk,Co. Dublin,q2,50%
+06/08/2010,"2 Coopers Walk, Lusk Village, Lusk",Dublin,221000.0,No,Lusk,Co. Dublin,q2,40%
+16/08/2010,"Tirnanog, Rogerstown Lane, Lusk",Dublin,350000.0,No,Lusk,Co. Dublin,q4,100%
+18/08/2010,"8 Stonemasons Road, Lusk",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+26/08/2010,"16 Chapel Farm Grove, Lusk",Dublin,240000.0,No,Lusk,Co. Dublin,q3,60%
+01/09/2010,"5 The Forge Avenue, Lusk",Dublin,245950.0,Yes,Lusk,Co. Dublin,q3,60%
+08/09/2010,"32 Dun Emer Avenue, Lusk.",Dublin,240000.0,No,Lusk,Co. Dublin,q3,60%
+15/09/2010,"3  The Forge Avenue, The Forge, Lusk",Dublin,220531.74,Yes,Lusk,Co. Dublin,q2,40%
+24/09/2010,"Ferrier House, Ballaghstown Lane, Lusk",Dublin,365000.0,Yes,Lusk,Co. Dublin,q4,100%
+29/09/2010,"11 Forge Avenue, The Forge  Lusk",Dublin,228404.46,Yes,Lusk,Co. Dublin,q2,50%
+05/10/2010,"15 Dun Emer Crescent, Lusk",Dublin,287000.0,No,Lusk,Co. Dublin,q3,80%
+05/10/2010,"15 Dun Emer Crescent, Lusk, County Dublin",Dublin,287000.0,No,Lusk,Co. Dublin,q3,80%
+07/10/2010,"31 Forge Avenue, The Forge  Lusk",Dublin,315000.0,Yes,Lusk,Co. Dublin,q4,90%
+15/10/2010,"Rosewood, Station Road, Lusk",Dublin,465000.0,No,Lusk,Co. Dublin,q4,100%
+28/10/2010,"15 Ministers Road, Lusk",Dublin,110000.0,No,Lusk,Co. Dublin,q1,10%
+05/11/2010,"29 The Forge Avenue, Lusk, Co Dublin",Dublin,224625.55,Yes,Lusk,Co. Dublin,q2,50%
+26/11/2010,"21 Chapel Farm Road, Lusk",Dublin,200000.0,No,Lusk,Co. Dublin,q2,30%
+01/12/2010,"13 Theforge Avenue, The Forge, Lusk",Dublin,250000.0,Yes,Lusk,Co. Dublin,q3,60%
+20/12/2010,"22 Dun Emer Glade, Dun Emer, Lusk",Dublin,145374.0,Yes,Lusk,Co. Dublin,q1,10%
+07/01/2011,"3 Great Commons, Lusk Village, Lusk",Dublin,195000.0,No,Lusk,Co. Dublin,q2,30%
+28/01/2011,"15 Dun Emer Avenue, Lusk",Dublin,225000.0,No,Lusk,Co. Dublin,q2,50%
+31/01/2011,"23 Forge Avenue, The Forge, Lusk",Dublin,280176.0,Yes,Lusk,Co. Dublin,q3,80%
+17/02/2011,"San Antonio, The Commons, Lusk",Dublin,215000.0,No,Lusk,Co. Dublin,q2,40%
+28/02/2011,"45 Dun Emer Drive, Lusk",Dublin,225000.0,No,Lusk,Co. Dublin,q2,50%
+04/03/2011,"The Nevitt, Lusk",Dublin,178500.0,No,Lusk,Co. Dublin,q1,20%
+15/03/2011,"35 The Close, Orlynn Park, Lusk",Dublin,203000.0,No,Lusk,Co. Dublin,q2,30%
+01/04/2011,"An Tearmann, Rogerstown, Lusk",Dublin,410000.0,No,Lusk,Co. Dublin,q4,100%
+30/05/2011,"154 Orlynn Park, Lusk",Dublin,167000.0,No,Lusk,Co. Dublin,q1,20%
+30/05/2011,"Holmen Kolen, Station Road, Lusk",Dublin,319000.0,No,Lusk,Co. Dublin,q4,90%
+01/06/2011,"1 The Park, Orlynn Park, Lusk",Dublin,280000.0,No,Lusk,Co. Dublin,q3,80%
+15/07/2011,"Maple Lodge, Skerries Road, Lusk",Dublin,497500.0,No,Lusk,Co. Dublin,q4,100%
+17/07/2011,"8 The Avenue, Orlynn Park, Lusk",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+08/08/2011,"13 Wendy Walsh Close, Lusk",Dublin,211453.0,No,Lusk,Co. Dublin,q2,40%
+18/08/2011,"3 Treen Hill, Lusk",Dublin,350000.0,No,Lusk,Co. Dublin,q4,100%
+18/08/2011,"Rockery Gardens, Skerries Road, Lusk",Dublin,420000.0,No,Lusk,Co. Dublin,q4,100%
+15/09/2011,"15 Dun Emer Gardens, Lusk",Dublin,160000.0,No,Lusk,Co. Dublin,q1,20%
+16/09/2011,"Broad Acres, Collinstown, Lusk",Dublin,520000.0,No,Lusk,Co. Dublin,q4,100%
+30/09/2011,"1 Stone Mason Road, Lusk",Dublin,242500.0,No,Lusk,Co. Dublin,q3,60%
+02/11/2011,"24 Dun Emer Gardens, Dun Emer, Lusk",Dublin,170044.05,Yes,Lusk,Co. Dublin,q1,20%
+30/11/2011,"23 Dun Emer Walk, Lusk",Dublin,170000.0,No,Lusk,Co. Dublin,q1,20%
+21/12/2011,"15 The Avenue, Orlynn Park, Lusk",Dublin,190000.0,No,Lusk,Co. Dublin,q1,30%
+31/01/2012,"24  The Close, Orlynn Park, Lusk",Dublin,210000.0,No,Lusk,Co. Dublin,q2,40%
+02/02/2012,"3 Dun Emer Green, Lusk, Co Dublin",Dublin,135000.0,No,Lusk,Co. Dublin,q1,10%
+02/02/2012,"6 Dun Emer Walk, Lusk, Co Dublin",Dublin,112000.0,No,Lusk,Co. Dublin,q1,10%
+03/02/2012,"Raheny, Station Road, Lusk",Dublin,150000.0,No,Lusk,Co. Dublin,q1,10%
+03/02/2012,"Stone Cottage, Corduff, Lusk",Dublin,120000.0,No,Lusk,Co. Dublin,q1,10%
+28/02/2012,"46 Chapel Farm Road, Lusk",Dublin,159000.0,No,Lusk,Co. Dublin,q1,20%
+01/03/2012,"56 Dun Emer Avenue, Lusk",Dublin,215000.0,No,Lusk,Co. Dublin,q2,40%
+24/04/2012,"39 Dun Emer Green, Lusk",Dublin,175000.0,No,Lusk,Co. Dublin,q1,20%
+04/05/2012,"16 Dun Emer, Lusk, County Dublin",Dublin,210000.0,No,Lusk,Co. Dublin,q2,40%
+11/05/2012,"5 Dum Emer Drive, Lusk",Dublin,185000.0,No,Lusk,Co. Dublin,q1,30%
+25/05/2012,"2  The Avenue, Orlynn Park, Lusk",Dublin,165000.0,No,Lusk,Co. Dublin,q1,20%
+15/06/2012,"10 Millers Square, Lusk Village, Lusk",Dublin,133000.0,No,Lusk,Co. Dublin,q1,10%
+26/06/2012,"The Green, Regles, Lusk",Dublin,335000.0,No,Lusk,Co. Dublin,q4,90%
+28/06/2012,"29 Chapel Farm Road, Lusk",Dublin,173500.0,No,Lusk,Co. Dublin,q1,20%
+26/07/2012,"29 Dun Emer Walk, Lusk",Dublin,115000.0,No,Lusk,Co. Dublin,q1,10%
+03/09/2012,"5 The Drive, Orlynn Park, Lusk",Dublin,110000.0,No,Lusk,Co. Dublin,q1,10%
+21/09/2012,"38 Chapel Farm Avenue, Lusk, County Dublin",Dublin,137000.0,No,Lusk,Co. Dublin,q1,10%
+28/09/2012,"6 Tower View, Ministers Road, Lusk",Dublin,257000.0,No,Lusk,Co. Dublin,q3,70%
+11/10/2012,"23 Chapel Farm Road, Lusk",Dublin,183000.0,No,Lusk,Co. Dublin,q1,30%
+12/10/2012,"35 Dun Emer Green, Lusk, Co Dublin",Dublin,132500.0,No,Lusk,Co. Dublin,q1,10%
+12/10/2012,"Inishfree, Racecouse Common, Lusk",Dublin,285000.0,No,Lusk,Co. Dublin,q3,80%
+18/10/2012,"129 Orlynn Park, Lusk",Dublin,200000.0,No,Lusk,Co. Dublin,q2,30%
+24/10/2012,"Whitepiers, Rogerstown, Lusk",Dublin,400000.0,No,Lusk,Co. Dublin,q4,100%
+31/10/2012,"Ashanti, Woodpark, Lusk",Dublin,400000.0,No,Lusk,Co. Dublin,q4,100%
+09/11/2012,"42  The Close, Orlynn Park, Lusk",Dublin,150000.0,No,Lusk,Co. Dublin,q1,10%
+09/11/2012,"9 Chapel Farm Wood, Lusk",Dublin,67500.0,No,Lusk,Co. Dublin,q1,10%
+12/11/2012,"39 The Close, Orlynn Park, Lusk",Dublin,173250.0,No,Lusk,Co. Dublin,q1,20%
+15/11/2012,"24 Baker'S Close, Lusk Village, Co. Dublin",Dublin,145000.0,No,Lusk,Co. Dublin,q1,10%
+28/11/2012,"14 Dun Emer Way, Lusk",Dublin,85000.0,No,Lusk,Co. Dublin,q1,10%
+07/12/2012,"19 Chapel Farm Row, Chapel Farm, Lusk",Dublin,170000.0,No,Lusk,Co. Dublin,q1,20%
+18/12/2012,"9 The Forge, Lusk",Dublin,190000.0,Yes,Lusk,Co. Dublin,q1,30%
+19/12/2012,"3 Danes Court, Lusk",Dublin,165000.0,No,Lusk,Co. Dublin,q1,20%
+20/12/2012,"Post Office Road, Lusk",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+21/12/2012,"4 Dun Emer Park, Lusk",Dublin,195000.0,No,Lusk,Co. Dublin,q2,30%
+21/12/2012,"51 The Close, Orlynn Park, Lusk",Dublin,120000.0,No,Lusk,Co. Dublin,q1,10%
+23/01/2013,"Walshestown, Lusk",Dublin,140000.0,No,Lusk,Co. Dublin,q1,10%
+15/02/2013,"Corduff, Lusk, Co Dublin",Dublin,110000.0,No,Lusk,Co. Dublin,q1,10%
+07/03/2013,"141 Orlynn Park, Lusk, Co. Dublin",Dublin,212000.0,No,Lusk,Co. Dublin,q2,40%
+22/03/2013,"15 Forge Avenue, The Forge, Lusk Village",Dublin,212000.0,Yes,Lusk,Co. Dublin,q2,40%
+22/03/2013,"16 The Grove, Orlynn Park, Lusk",Dublin,195000.0,No,Lusk,Co. Dublin,q2,30%
+22/03/2013,"3 Station Road, Lusk",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+24/04/2013,"29 The Avenue, Orlynn Park, Lusk  Co Dublin",Dublin,191000.0,No,Lusk,Co. Dublin,q1,30%
+03/05/2013,"17 Forge Avenue, The Forge, Lusk",Dublin,215000.0,Yes,Lusk,Co. Dublin,q2,40%
+21/05/2013,"60 The Close, Orlynn Park, Lusk",Dublin,140000.0,No,Lusk,Co. Dublin,q1,10%
+07/06/2013,"18 Millers Square, Lusk",Dublin,170000.0,No,Lusk,Co. Dublin,q1,20%
+24/06/2013,"18 Dun Emer Avenue, Lusk, Co. Dublin",Dublin,192000.0,No,Lusk,Co. Dublin,q2,30%
+26/06/2013,"33 The Avenue, Orlynn Park, Lusk",Dublin,187500.0,No,Lusk,Co. Dublin,q1,30%
+05/07/2013,"2 Huntsman Way, Lusk Village, Lusk",Dublin,210000.0,No,Lusk,Co. Dublin,q2,40%
+19/07/2013,"41 Dun Emer Walk, Lusk",Dublin,129000.0,No,Lusk,Co. Dublin,q1,10%
+12/08/2013,"28 Dun Emer Green, Lusk, Co. Dublin",Dublin,141000.0,No,Lusk,Co. Dublin,q1,10%
+04/09/2013,"No. 1 Forge Avenue, The Forge, Lusk",Dublin,193832.0,Yes,Lusk,Co. Dublin,q2,30%
+05/09/2013,"Chapel Green, Lusk, Co. Dublin",Dublin,330000.0,No,Lusk,Co. Dublin,q4,90%
+26/09/2013,"2 Forge View, The Forge, Lusk",Dublin,260000.0,No,Lusk,Co. Dublin,q3,70%
+27/09/2013,"Racecourse Commons, Lusk",Dublin,342500.0,No,Lusk,Co. Dublin,q4,90%
+30/09/2013,"44 Orlynn Park, Lusk, Dublin",Dublin,204000.0,No,Lusk,Co. Dublin,q2,30%
+03/10/2013,"11 Forge View, The Forge, Lusk",Dublin,209000.0,Yes,Lusk,Co. Dublin,q2,40%
+09/10/2013,"17 Orlynn Park, Lusk, Co. Dublin",Dublin,235000.0,No,Lusk,Co. Dublin,q2,50%
+15/10/2013,"1 Forge View, The Forge, Lusk",Dublin,227500.0,Yes,Lusk,Co. Dublin,q2,50%
+18/10/2013,"19 Forge View, The Forge, Lusk",Dublin,195490.0,Yes,Lusk,Co. Dublin,q2,30%
+25/10/2013,"31 The Park, Orlynn Park, Lusk",Dublin,188000.0,No,Lusk,Co. Dublin,q1,30%
+07/11/2013,"35 Dun Emer Drive, Lusk",Dublin,189000.0,No,Lusk,Co. Dublin,q1,30%
+07/11/2013,"53 Gleann Ribh, Lusk",Dublin,105000.0,No,Lusk,Co. Dublin,q1,10%
+12/11/2013,"19 Gleann Ribh, Lusk",Dublin,119000.0,No,Lusk,Co. Dublin,q1,10%
+14/11/2013,"2 Dun Emer Gardens, Lusk",Dublin,177000.0,No,Lusk,Co. Dublin,q1,20%
+05/12/2013,"5 Forge View, The Forge, Lusk",Dublin,180616.0,Yes,Lusk,Co. Dublin,q1,20%
+12/12/2013,"19 Dun Emer Park, Lusk",Dublin,181000.0,No,Lusk,Co. Dublin,q1,20%
+12/12/2013,"49 Kelly Park, Lusk",Dublin,196000.0,No,Lusk,Co. Dublin,q2,30%
+18/12/2013,"18 Dun Emer Walk, Lusk, Dublin",Dublin,115000.0,No,Lusk,Co. Dublin,q1,10%
+17/01/2014,"43 Gleann Ribh, Lusk, Dublin",Dublin,170000.0,No,Lusk,Co. Dublin,q1,20%
+22/01/2014,"15 Dun Emer Rise, Lusk, Dublin",Dublin,110000.0,No,Lusk,Co. Dublin,q1,10%
+23/01/2014,"No. 8 The Forge View, The Forge, Lusk Village",Dublin,185023.0,Yes,Lusk,Co. Dublin,q1,30%
+31/01/2014,"11 Dun Emer Park, Lusk",Dublin,245000.0,No,Lusk,Co. Dublin,q3,60%
+31/01/2014,"48 The Close, Orlynn Park, Lusk",Dublin,177000.0,No,Lusk,Co. Dublin,q1,20%
+31/01/2014,"The Commons, Lusk",Dublin,340000.0,No,Lusk,Co. Dublin,q4,90%
+06/02/2014,"The Brambles, Baldongan, Lusk",Dublin,465000.0,No,Lusk,Co. Dublin,q4,100%
+13/02/2014,"19 Dun Emer Walk, Lusk, Dublin",Dublin,160000.0,No,Lusk,Co. Dublin,q1,20%
+07/03/2014,"3 Chapel Farm Walk, Chapel Farm, Lusk",Dublin,145000.0,No,Lusk,Co. Dublin,q1,10%
+14/03/2014,"161 Orlynn Park, Lusk, Dublin",Dublin,175000.0,No,Lusk,Co. Dublin,q1,20%
+01/04/2014,"15 Forge View, The Forge, Lusk",Dublin,180617.0,Yes,Lusk,Co. Dublin,q1,20%
+03/04/2014,"16 Dun Emer Glade, Lusk, Dublin",Dublin,138000.0,No,Lusk,Co. Dublin,q1,10%
+04/04/2014,"19 Whitethorn Walk, Lusk Village, Lusk",Dublin,71000.0,No,Lusk,Co. Dublin,q1,10%
+10/04/2014,"30 Bakers Close, Lusk, Dublin",Dublin,160000.0,No,Lusk,Co. Dublin,q1,20%
+14/04/2014,"3 Forge View, Lusk Village, Lusk",Dublin,180617.0,Yes,Lusk,Co. Dublin,q1,20%
+17/04/2014,"6 Forge View, The Forge, Lusk",Dublin,185022.0,Yes,Lusk,Co. Dublin,q1,30%
+28/04/2014,"2A Racecourse Commons, Lusk",Dublin,252000.0,No,Lusk,Co. Dublin,q3,60%
+01/05/2014,"4 Forge Avenue, The Forge, Lusk",Dublin,219824.0,Yes,Lusk,Co. Dublin,q2,40%
+09/05/2014,"14 Forge View, The Forge, Lusk",Dublin,189427.0,Yes,Lusk,Co. Dublin,q1,30%
+13/05/2014,"38 Seabrook, Lusk",Dublin,209950.0,Yes,Lusk,Co. Dublin,q2,40%
+21/05/2014,"12 Wendy Walsh Close, Lusk Village, Dublin",Dublin,145000.0,No,Lusk,Co. Dublin,q1,10%
+22/05/2014,"17 Forge View, Lusk",Dublin,180616.74,Yes,Lusk,Co. Dublin,q1,20%
+11/06/2014,"16 Forge View, The Forge, Lusk",Dublin,191189.86,Yes,Lusk,Co. Dublin,q2,30%
+12/06/2014,"12 The Forge View, Lusk",Dublin,270000.0,Yes,Lusk,Co. Dublin,q3,70%
+16/06/2014,"Lands At Lusk, Co Dublin",Dublin,150000.0,No,Lusk,Co. Dublin,q1,10%
+27/06/2014,"5 Millers Square, Lusk",Dublin,175000.0,No,Lusk,Co. Dublin,q1,20%
+02/07/2014,"21 Dun Emer Park, Lusk, Dublin",Dublin,212000.0,No,Lusk,Co. Dublin,q2,40%
+10/07/2014,"Remount Farm, Racecourse Commons, Lusk",Dublin,315000.0,No,Lusk,Co. Dublin,q4,90%
+11/07/2014,"The Square, Lusk, Dublin",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+17/07/2014,"21 Dun Emer Way, Lusk",Dublin,220000.0,No,Lusk,Co. Dublin,q2,40%
+17/07/2014,"26 Forge View, The Forge, Lusk",Dublin,211013.0,Yes,Lusk,Co. Dublin,q2,40%
+22/07/2014,"22 Forge View, The Forge, Lusk",Dublin,244933.92,Yes,Lusk,Co. Dublin,q3,60%
+25/07/2014,"123 Orlynn Park, Lusk, Dublin",Dublin,255000.0,No,Lusk,Co. Dublin,q3,60%
+28/07/2014,"38 Forge View, The Forge, Lusk",Dublin,210025.0,Yes,Lusk,Co. Dublin,q2,40%
+15/08/2014,"24 Forge View, The Forge, Lusk",Dublin,247000.0,Yes,Lusk,Co. Dublin,q3,60%
+15/08/2014,"9 Forge View, The Forge, Lusk",Dublin,217000.0,Yes,Lusk,Co. Dublin,q2,40%
+22/08/2014,"4 Forge View, Lusk, Co. Dublin",Dublin,220000.0,Yes,Lusk,Co. Dublin,q2,40%
+22/08/2014,"Green Acre, Racecourse Commons, Lusk",Dublin,460000.0,No,Lusk,Co. Dublin,q4,100%
+28/08/2014,"20 Forge View, Lusk, Dublin",Dublin,207048.0,No,Lusk,Co. Dublin,q2,40%
+29/08/2014,"20 The Park, Orlynn Park, Lusk",Dublin,217000.0,No,Lusk,Co. Dublin,q2,40%
+01/09/2014,"5 Gleann Ribh, Lusk, Dublin",Dublin,130000.0,No,Lusk,Co. Dublin,q1,10%
+10/09/2014,"30 Forge View, The Forge, Lusk",Dublin,211014.0,Yes,Lusk,Co. Dublin,q2,40%
+12/09/2014,"No. 28 Forge View, The Forge, Lusk",Dublin,207049.0,Yes,Lusk,Co. Dublin,q2,40%
+18/09/2014,"25 Kelly Park, Lusk",Dublin,140000.0,No,Lusk,Co. Dublin,q1,10%
+19/09/2014,"2 Dunemer Crescent, Lusk, Dublin",Dublin,220000.0,No,Lusk,Co. Dublin,q2,40%
+19/09/2014,"34 Forge View, The Forge Lusk, County Dublin",Dublin,211012.0,Yes,Lusk,Co. Dublin,q2,40%
+30/09/2014,"36 Forge View, The Forge, Lusk",Dublin,212775.32,Yes,Lusk,Co. Dublin,q2,40%
+30/09/2014,"Wheatfield, Greatcommon, Lusk",Dublin,420000.0,No,Lusk,Co. Dublin,q4,100%
+10/10/2014,"10 Forge View, The Forge, Lusk",Dublin,217400.0,Yes,Lusk,Co. Dublin,q2,40%
+16/10/2014,"32 Forge View, The Forge, Lusk",Dublin,212775.33,Yes,Lusk,Co. Dublin,q2,40%
+28/10/2014,"18 Forge View, The Forge, Lusk",Dublin,184750.0,Yes,Lusk,Co. Dublin,q1,30%
+30/10/2014,"7 Dun Emer Grove, Lusk, Dublin",Dublin,165000.0,No,Lusk,Co. Dublin,q1,20%
+04/11/2014,"14 Danes Ct, Lusk Village, Lusk",Dublin,263000.0,No,Lusk,Co. Dublin,q3,70%
+07/11/2014,"33 Forge Avenue, The Forge, Lusk",Dublin,299559.46,Yes,Lusk,Co. Dublin,q4,90%
+13/11/2014,"41 Forge Avenue, The Forge, Lusk",Dublin,219823.0,Yes,Lusk,Co. Dublin,q2,40%
+14/11/2014,"The Green, Lusk, County Dublin",Dublin,395000.0,No,Lusk,Co. Dublin,q4,100%
+14/11/2014,"The Square, Lusk",Dublin,175000.0,No,Lusk,Co. Dublin,q1,20%
+20/11/2014,"1 Norsemans Walk, Lusk Village, Lusk",Dublin,137000.0,No,Lusk,Co. Dublin,q1,10%
+20/11/2014,"18 Forge Avenue, The Forge, Lusk",Dublin,215858.0,Yes,Lusk,Co. Dublin,q2,40%
+20/11/2014,"Apt 6 Synod Place, Lusk Village, Lusk",Dublin,147500.0,No,Lusk,Co. Dublin,q1,10%
+21/11/2014,"Tooman, Lusk, Co Dublin",Dublin,150000.0,No,Lusk,Co. Dublin,q1,10%
+28/11/2014,"19 Dun Emer Way, Lusk, Dublin",Dublin,222000.0,No,Lusk,Co. Dublin,q2,40%
+01/12/2014,"45 Forge Avenue, The Forge, Lusk",Dublin,218675.0,Yes,Lusk,Co. Dublin,q2,40%
+01/12/2014,"61 The Close, Orlynn Park, Lusk",Dublin,210000.0,No,Lusk,Co. Dublin,q2,40%
+09/12/2014,"39 Forge Avenue, The Forge, Lusk",Dublin,225700.0,Yes,Lusk,Co. Dublin,q2,50%
+11/12/2014,"35 Forge Avenue, The Forge, Lusk",Dublin,221585.9,Yes,Lusk,Co. Dublin,q2,40%
+12/12/2014,"4 Chapel Farm Close, Chapel Farm, Lusk",Dublin,165000.0,No,Lusk,Co. Dublin,q1,20%
+17/12/2014,"2 Rogerstown Lane, Lusk",Dublin,180000.0,No,Lusk,Co. Dublin,q1,20%
+19/12/2014,"22 Glen Ribh, Lusk, Dublin",Dublin,130000.0,No,Lusk,Co. Dublin,q1,10%
+19/12/2014,"25 Dun Emer Walk Lusk, Dublin",Dublin,172000.0,No,Lusk,Co. Dublin,q1,20%
+19/12/2014,"No 8 Forge Avenue, The Forge, Lusk",Dublin,300000.0,Yes,Lusk,Co. Dublin,q4,90%
+19/12/2014,"Unit 1 Main Street, Lusk, Co Dublin",Dublin,100000.0,No,Lusk,Co. Dublin,q1,10%
+20/12/2014,"24 Chapel Farm Green, Chapel Farm, Lusk",Dublin,221000.0,No,Lusk,Co. Dublin,q2,40%
+22/12/2014,"19 Chapel Farm Green, Lusk, Dublin",Dublin,155719.0,No,Lusk,Co. Dublin,q1,20%
+22/12/2014,"6 Tanners Way, Lusk Village, Lusk",Dublin,316000.0,No,Lusk,Co. Dublin,q4,90%
+13/01/2015,"19 Dun Emer Court, Lusk, Dublin",Dublin,192000.0,No,Lusk,Co. Dublin,q2,30%
+15/01/2015,"11 Kelly Park, Lusk",Dublin,200000.0,No,Lusk,Co. Dublin,q2,30%
+15/01/2015,"8 Huntsmans Way, Lusk Village, Dublin",Dublin,217500.0,No,Lusk,Co. Dublin,q2,40%
+16/01/2015,"Cardiff House, Skerries Rd, Lusk",Dublin,410000.0,No,Lusk,Co. Dublin,q4,100%
+16/01/2015,"Hollywood Rd, The Toomay, Lusk",Dublin,425000.0,No,Lusk,Co. Dublin,q4,100%
+30/01/2015,"37 Forge Avenue, The Forge, Lusk Village",Dublin,250000.0,Yes,Lusk,Co. Dublin,q3,60%
+06/02/2015,"10 Forge Avenue, The Forge, Lusk",Dublin,251101.45,Yes,Lusk,Co. Dublin,q3,60%
+11/02/2015,"6 Gleann Ribh, Lusk, Dublin",Dublin,120000.0,No,Lusk,Co. Dublin,q1,10%
+17/02/2015,"Cademuir, Collinstown, Lusk",Dublin,405000.0,No,Lusk,Co. Dublin,q4,100%
+23/02/2015,"8 Newhaggard, Lusk, Dublin",Dublin,260000.0,No,Lusk,Co. Dublin,q3,70%
+11/03/2015,"22 Dun Emer Green, Lusk, Dublin",Dublin,180000.0,No,Lusk,Co. Dublin,q1,20%
+18/03/2015,"Maypotter Cottage, Ballough, Lusk",Dublin,362000.0,No,Lusk,Co. Dublin,q4,100%
+19/03/2015,"33 Scholars Walk, Lusk, Dublin",Dublin,175000.0,No,Lusk,Co. Dublin,q1,20%
+26/03/2015,"15 Coopers Walk, Lusk Village, Lusk",Dublin,132000.0,No,Lusk,Co. Dublin,q1,10%
+27/03/2015,"26 Ministers Road, Lusk",Dublin,190000.0,No,Lusk,Co. Dublin,q1,30%
+31/03/2015,"17 Forge Close, The Forge, Lusk",Dublin,230837.0,Yes,Lusk,Co. Dublin,q2,50%
+01/04/2015,"34 Kelly Pk, Lusk, Dublin",Dublin,185000.0,No,Lusk,Co. Dublin,q1,30%
+02/04/2015,"3 Forge Close, Lusk",Dublin,237885.0,Yes,Lusk,Co. Dublin,q2,50%
+03/04/2015,"1  Forge Close, The Forge, Lusk",Dublin,314317.0,Yes,Lusk,Co. Dublin,q4,90%
+07/04/2015,"11 The Forge Close, Lusk, Co Dublin",Dublin,260000.0,Yes,Lusk,Co. Dublin,q3,70%
+10/04/2015,"22 Forge Avenue, The Forge, Lusk",Dublin,198238.0,Yes,Lusk,Co. Dublin,q2,30%
+10/04/2015,"No. 5 Forge Close, The Forge  Lusk Village, County Dublin",Dublin,270000.0,Yes,Lusk,Co. Dublin,q3,70%
+14/04/2015,"17 Synod Place, Lusk Village, Dublin",Dublin,148000.0,No,Lusk,Co. Dublin,q1,10%
+17/04/2015,"20 Dun Emer Walk Lusk, Dublin",Dublin,177000.0,No,Lusk,Co. Dublin,q1,20%
+17/04/2015,"7 Forge Close, The Forge, Lusk",Dublin,240707.95,Yes,Lusk,Co. Dublin,q3,60%
+21/04/2015,"15 Forge Close, The Forge, Lusk",Dublin,229074.88,Yes,Lusk,Co. Dublin,q2,50%
+21/04/2015,"6 Dun Emer Court, Lusk, Dublin",Dublin,243000.0,No,Lusk,Co. Dublin,q3,60%
+24/04/2015,"20 Forge Avenue, The Forge, Lusk",Dublin,215858.0,Yes,Lusk,Co. Dublin,q2,40%
+08/05/2015,"23 Colmans Crescent, Lusk, Dublin",Dublin,155000.0,No,Lusk,Co. Dublin,q1,20%
+11/05/2015,"9 Forge Close, The Forge, Lusk",Dublin,243833.0,Yes,Lusk,Co. Dublin,q3,60%
+18/05/2015,"Old Post Office Road, Lusk, Co. Dublin",Dublin,315000.0,No,Lusk,Co. Dublin,q4,90%
+28/05/2015,"Sobenkel, Jordanstown, Lusk",Dublin,385000.0,No,Lusk,Co. Dublin,q4,100%
+04/06/2015,"38 Dun Emer Walk, Lusk, Dublin",Dublin,138000.0,No,Lusk,Co. Dublin,q1,10%
+10/06/2015,"3 Chapel Farm Crescent, Lusk, Dublin",Dublin,183000.0,No,Lusk,Co. Dublin,q1,30%
+12/06/2015,"The Cottage, Rogerstown Lane, Lusk",Dublin,157059.0,No,Lusk,Co. Dublin,q1,20%
+26/06/2015,"16 Forge Avenue, The Forge, Lusk Village",Dublin,224900.0,Yes,Lusk,Co. Dublin,q2,50%
+29/06/2015,"4 Dun Emer Green, Lusk, Dublin",Dublin,186000.0,No,Lusk,Co. Dublin,q1,30%
+10/07/2015,"27 Gleannribh Lusk, Dublin",Dublin,185000.0,No,Lusk,Co. Dublin,q1,30%
+10/07/2015,"4 Dun Emer Court, Lusk, Dublin",Dublin,153500.0,No,Lusk,Co. Dublin,q1,20%
+13/07/2015,"No. 43 Forge Avenue, The Forge, Lusk",Dublin,259911.89,Yes,Lusk,Co. Dublin,q3,70%
+15/07/2015,"Holmen Kollen, Station Road, Lusk",Dublin,319000.0,No,Lusk,Co. Dublin,q4,90%
+23/07/2015,"11 Chapel Farm Ave, Lusk, Dublin",Dublin,220000.0,No,Lusk,Co. Dublin,q2,40%
+29/07/2015,"The Nevitt, Lusk, Dublin",Dublin,270000.0,No,Lusk,Co. Dublin,q3,70%
+31/07/2015,"32 Chapel Farm Ave, Chapel Farm, Lusk",Dublin,193000.0,No,Lusk,Co. Dublin,q2,30%
+12/08/2015,"2 Chapel Farm Wood Lusk, Dublin",Dublin,206500.0,No,Lusk,Co. Dublin,q2,40%
+12/08/2015,"2 The Road, Dunemer, Lusk",Dublin,255000.0,No,Lusk,Co. Dublin,q3,60%
+21/08/2015,"11 Dun Emer Close, Lusk, Dublin",Dublin,202000.0,No,Lusk,Co. Dublin,q2,30%
+21/08/2015,"4 The Close, Orlynn Park, Lusk",Dublin,167000.0,No,Lusk,Co. Dublin,q1,20%
+28/08/2015,"32 Scholar'S Walk, Lusk",Dublin,150000.0,No,Lusk,Co. Dublin,q1,10%
+28/08/2015,"36 Dun Emer Green, Lusk, Dublin",Dublin,185000.0,No,Lusk,Co. Dublin,q1,30%
+02/09/2015,"12 The Grove, Orlynn Park, Lusk",Dublin,245000.0,No,Lusk,Co. Dublin,q3,60%
+02/09/2015,"33 Chapel Farm Ave Chapel Farm Lusk, Dublin",Dublin,220000.0,No,Lusk,Co. Dublin,q2,40%
+16/09/2015,"17 Dun Emer Court, Lusk, Dublin",Dublin,188000.0,No,Lusk,Co. Dublin,q1,30%
+17/09/2015,"2 Orlynn Park, Lusk, Dublin",Dublin,290000.0,No,Lusk,Co. Dublin,q4,80%
+22/09/2015,"47 Dun Emer Dr, Lusk, Dublin",Dublin,259000.0,No,Lusk,Co. Dublin,q3,70%
+23/09/2015,"14 Chapel Farm Green, Lusk, Dublin",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+25/09/2015,"11 Dun Emer View Lusk, Dublin",Dublin,215000.0,No,Lusk,Co. Dublin,q2,40%
+14/10/2015,"2 Chapel Farm Avenue, Lusk",Dublin,195000.0,No,Lusk,Co. Dublin,q2,30%
+14/10/2015,"Kilhedge Lane, Corduff, Lusk",Dublin,475000.0,No,Lusk,Co. Dublin,q4,100%
+28/10/2015,"1 Dun Emer Creascent, Lusk, Dublin",Dublin,296000.0,No,Lusk,Co. Dublin,q4,80%
+28/10/2015,"49 Forge Avenue, The Forge, Lusk",Dublin,295000.0,Yes,Lusk,Co. Dublin,q4,80%
+06/11/2015,"2 Forge Close, The Forge, Lusk Village",Dublin,323128.0,Yes,Lusk,Co. Dublin,q4,90%
+13/11/2015,"59 Kelly Park, Lusk, Dublin",Dublin,176000.0,No,Lusk,Co. Dublin,q1,20%
+16/11/2015,"18 Dun Emer Court, Lusk, Dublin",Dublin,182500.0,No,Lusk,Co. Dublin,q1,20%
+16/11/2015,"65 Orlynn Park, Lusk Dublin, Dublin",Dublin,320000.0,No,Lusk,Co. Dublin,q4,90%
+19/11/2015,"41 Dun Emer Green, Lusk, Dublin",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+24/11/2015,"19 The Forge Close, Lusk",Dublin,350000.0,Yes,Lusk,Co. Dublin,q4,100%
+25/11/2015,"13 Norsemans Walk, Lusk, Co Dublin",Dublin,164000.0,No,Lusk,Co. Dublin,q1,20%
+03/12/2015,"25 Chapel Farm Dr, Chapel Farm, Lusk",Dublin,210000.0,No,Lusk,Co. Dublin,q2,40%
+10/12/2015,"51 Forge Avenue, The Forge, Lusk",Dublin,295000.0,Yes,Lusk,Co. Dublin,q4,80%
+10/12/2015,"Five Roads, Lusk, Co Dublin",Dublin,231000.0,No,Lusk,Co. Dublin,q2,50%
+11/12/2015,"13 Dun Emer Way Lusk, Dublin",Dublin,226000.0,No,Lusk,Co. Dublin,q2,50%
+11/12/2015,"16 Dun Emer Close, Lusk, Dublin",Dublin,245000.0,No,Lusk,Co. Dublin,q3,60%
+15/12/2015,"31 Chapel Farm Dr, Lusk, Co Dublin",Dublin,152000.0,No,Lusk,Co. Dublin,q1,10%
+16/12/2015,"36 Dun Emer Walk, Lusk, Dublin",Dublin,145000.0,No,Lusk,Co. Dublin,q1,10%
+17/12/2015,"5 Stonemasons Close, Lusk Village, Dublin",Dublin,100000.0,No,Lusk,Co. Dublin,q1,10%
+17/12/2015,"51 Dun Emer Way, Lusk",Dublin,147250.0,No,Lusk,Co. Dublin,q1,10%
+18/12/2015,"St Judes The Green, Lusk Dublin, The Green",Dublin,267800.0,No,Lusk,Co. Dublin,q3,70%
+23/12/2015,"1 Dublin Rd, Lusk, Dublin",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+07/01/2016,"14 Chapel Farm Copse, Lusk, Dublin",Dublin,225000.0,No,Lusk,Co. Dublin,q2,50%
+07/01/2016,"33 Forge Avenue, The Forge, Lusk",Dublin,355000.0,No,Lusk,Co. Dublin,q4,100%
+08/01/2016,"30 Chapel Farm Avenue, Lusk",Dublin,176000.0,No,Lusk,Co. Dublin,q1,20%
+20/01/2016,"5 Chapel Farm Close, Lusk, Co Dublin",Dublin,120000.0,No,Lusk,Co. Dublin,q1,10%
+20/01/2016,"6 The Drive, Orlynn Park, Lusk",Dublin,186500.0,No,Lusk,Co. Dublin,q1,30%
+26/01/2016,"59 Dun Emer Way, Lusk, Dublin",Dublin,222000.0,No,Lusk,Co. Dublin,q2,40%
+28/01/2016,"46 The Avenue, Orlynn Park, Lusk",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+05/02/2016,"108 Orlynn Park, Lusk, Dublin",Dublin,299000.0,No,Lusk,Co. Dublin,q4,80%
+23/02/2016,"2 Dunemer Dale, Lusk, Dublin",Dublin,242000.0,No,Lusk,Co. Dublin,q3,60%
+23/02/2016,"35 Dun Emer Green, Lusk, Dublin",Dublin,240000.0,No,Lusk,Co. Dublin,q3,60%
+03/03/2016,"154 Orlynn Park, Lusk, Dublin",Dublin,220000.0,No,Lusk,Co. Dublin,q2,40%
+01/04/2016,"2 Dun Emer Way, Dun Emer, Lusk",Dublin,260000.0,No,Lusk,Co. Dublin,q3,70%
+01/04/2016,"3 Skerries Road, Lusk, Co Dublin",Dublin,223000.0,No,Lusk,Co. Dublin,q2,50%
+04/04/2016,"12 Dun Emer Way, Lusk, Dublin",Dublin,141000.0,No,Lusk,Co. Dublin,q1,10%
+15/04/2016,"18 Chapel Farm Row, Lusk, Fingal",Dublin,232000.0,No,Lusk,Co. Dublin,q2,50%
+15/04/2016,"Leaca Ban, Tooman, Lusk",Dublin,602500.0,No,Lusk,Co. Dublin,q4,100%
+20/04/2016,"39 The Close, Orlynn Park, Lusk",Dublin,220000.0,No,Lusk,Co. Dublin,q2,40%
+29/04/2016,"47 Forge Avenue, The Forge, Lusk",Dublin,360000.0,Yes,Lusk,Co. Dublin,q4,100%
+29/04/2016,"The Cottage, Rogerstown Lane, Lusk",Dublin,180000.0,No,Lusk,Co. Dublin,q1,20%
+13/05/2016,"23 Dun Emer Park, Lusk, Dublin",Dublin,188000.0,No,Lusk,Co. Dublin,q1,30%
+24/05/2016,"49 Gleann Ribh, Lusk, Dublin",Dublin,245000.0,No,Lusk,Co. Dublin,q3,60%
+24/05/2016,"55 Glenn Ribh, Lusk, Co Dublin",Dublin,178000.0,No,Lusk,Co. Dublin,q1,20%
+08/06/2016,"20 Dun Emer Way, Lusk, Dublin",Dublin,167500.0,No,Lusk,Co. Dublin,q1,20%
+17/06/2016,"Iona, Ministers Rd, Lusk",Dublin,400000.0,No,Lusk,Co. Dublin,q4,100%
+23/06/2016,"14 Dun Emer Gardens, Lusk, Dublin",Dublin,240000.0,No,Lusk,Co. Dublin,q3,60%
+07/07/2016,"35 Dun Emer Walk, Lusk, Dublin",Dublin,177000.0,No,Lusk,Co. Dublin,q1,20%
+07/07/2016,"No. 15 Forge Green, The Forge, Lusk",Dublin,290749.0,Yes,Lusk,Co. Dublin,q4,80%
+20/07/2016,"1 The Forge Green, The Forge, Lusk",Dublin,281938.0,Yes,Lusk,Co. Dublin,q3,80%
+20/07/2016,"11 The Grove, Orlynn Park Lusk, Dublin",Dublin,315000.0,No,Lusk,Co. Dublin,q4,90%
+20/07/2016,"14 Dun Emer Place, Dun Emer, Lusk",Dublin,245000.0,No,Lusk,Co. Dublin,q3,60%
+20/07/2016,"15 Dun Emer Park, Dun Emer, Lusk",Dublin,195000.0,No,Lusk,Co. Dublin,q2,30%
+20/07/2016,"25 Dun Emer Park, Dun Emer, Lusk",Dublin,195000.0,No,Lusk,Co. Dublin,q2,30%
+28/07/2016,"10 Dun Emer Green, Lusk, Dublin",Dublin,225000.0,No,Lusk,Co. Dublin,q2,50%
+03/08/2016,"16 Dun Emer Gardens, Lusk, Dublin",Dublin,266000.0,No,Lusk,Co. Dublin,q3,70%
+03/08/2016,"2 Dun Emer Close, Lusk, Dublin",Dublin,189000.0,No,Lusk,Co. Dublin,q1,30%
+05/08/2016,"4 Dun Emer Gdns, Dun Emer, Lusk",Dublin,225000.0,No,Lusk,Co. Dublin,q2,50%
+09/08/2016,"6 Dun Emer Close, Lusk, Dublin",Dublin,194000.0,No,Lusk,Co. Dublin,q2,30%
+10/08/2016,"3 Forge Green, The Forge, Lusk",Dublin,290748.0,Yes,Lusk,Co. Dublin,q4,80%
+16/08/2016,"Dun Nera, Corduff, Lusk",Dublin,733000.0,No,Lusk,Co. Dublin,q4,100%
+22/08/2016,"15 Chapel Farm Ave, Lusk, Dublin",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+26/08/2016,"10 Dun Emer Ave, Lusk, Dublin",Dublin,285000.0,No,Lusk,Co. Dublin,q3,80%
+01/09/2016,"7 Chapel Farm Grove, Lusk, County Dublin",Dublin,216000.0,No,Lusk,Co. Dublin,q2,40%
+02/09/2016,"40 Dun Emer Way, Lusk, Dublin",Dublin,184000.0,No,Lusk,Co. Dublin,q1,30%
+07/09/2016,"45 The Park, Orlynn Park, Lusk",Dublin,223000.0,No,Lusk,Co. Dublin,q2,50%
+08/09/2016,"3 Chapel Farm Wood, Lusk, Dublin",Dublin,210000.0,No,Lusk,Co. Dublin,q2,40%
+12/09/2016,"1 Forge, The Forge, Lusk",Dublin,280000.0,No,Lusk,Co. Dublin,q3,80%
+05/10/2016,"59 The Close, Orlynn Park, Lusk",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+11/10/2016,"19 Dun Emer Court, Lusk, Dublin",Dublin,203000.0,No,Lusk,Co. Dublin,q2,30%
+19/10/2016,"52 Chapel Farm Dr, Lusk, Dublin",Dublin,219000.0,No,Lusk,Co. Dublin,q2,40%
+21/10/2016,"1 Dun Emer Park, Lusk, Dublin",Dublin,305000.0,No,Lusk,Co. Dublin,q4,90%
+21/10/2016,"14 Dun Emer Walk, Lusk, Dublin",Dublin,145000.0,No,Lusk,Co. Dublin,q1,10%
+28/10/2016,"32 Dun Emer Ave, Lusk, Dublin",Dublin,265000.0,No,Lusk,Co. Dublin,q3,70%
+11/11/2016,"Hillcrest, Rogerstown Lane, Lusk",Dublin,372000.0,No,Lusk,Co. Dublin,q4,100%
+24/11/2016,"34 Dun Emer Green, Lusk, Dublin",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+28/11/2016,"10 Dun Emer Rd, Lusk, Dublin",Dublin,310000.0,No,Lusk,Co. Dublin,q4,90%
+29/11/2016,"10 Colecot, Lusk, County Dublin",Dublin,150000.0,No,Lusk,Co. Dublin,q1,10%
+30/11/2016,"60 Kelly Park, Lusk, Dublin",Dublin,192000.0,No,Lusk,Co. Dublin,q2,30%
+05/12/2016,"97 Orlynn Park, Lusk, Dublin",Dublin,328000.0,No,Lusk,Co. Dublin,q4,90%
+07/12/2016,"34 The Avenue, Orlynn Park, Lusk",Dublin,228000.0,No,Lusk,Co. Dublin,q2,50%
+08/12/2016,"Bungalow 3, Rowans, Lusk",Dublin,210000.0,No,Lusk,Co. Dublin,q2,40%
+09/12/2016,"11 Forge Green, Lusk",Dublin,320000.0,Yes,Lusk,Co. Dublin,q4,90%
+09/12/2016,"7 Forge Green, Lusk",Dublin,320000.0,Yes,Lusk,Co. Dublin,q4,90%
+19/12/2016,"18 Dun Emer Avenue, Lusk, Co Dublin",Dublin,270000.0,No,Lusk,Co. Dublin,q3,70%
+21/12/2016,"136 Orlynn Pk, Lusk, Dublin",Dublin,238000.0,No,Lusk,Co. Dublin,q2,50%
+12/01/2017,"91 Orlynn Park, Lusk, Dublin",Dublin,300000.0,No,Lusk,Co. Dublin,q4,90%
+20/01/2017,"9 Dun Emer Green, Lusk, Dublin",Dublin,202000.0,No,Lusk,Co. Dublin,q2,30%
+03/02/2017,"The Green, Regles, Lusk",Dublin,409000.0,No,Lusk,Co. Dublin,q4,100%
+10/02/2017,"6 Chapel Farm Close, Lusk, Dublin",Dublin,200000.0,No,Lusk,Co. Dublin,q2,30%
+15/02/2017,"2 Dun Emer Grove Lusk, Dublin",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+17/02/2017,"5 Dun Emer View, Lusk, Dublin",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+23/02/2017,"4 Chapel Farm Terrace, Lusk, County Dublin",Dublin,125000.0,No,Lusk,Co. Dublin,q1,10%
+10/03/2017,"26 Forge Lane, Lusk Village, Co Dublin",Dublin,225000.0,No,Lusk,Co. Dublin,q2,50%
+24/03/2017,"9 The Close, Orlynn Park, Lusk",Dublin,165000.0,No,Lusk,Co. Dublin,q1,20%
+15/04/2017,"Cardiff House, Skerries Rd, Lusk",Dublin,410000.0,No,Lusk,Co. Dublin,q4,100%
+21/04/2017,"11 Cobblers Walk, Lusk Village, Lusk",Dublin,142000.0,No,Lusk,Co. Dublin,q1,10%
+28/04/2017,"1 Belfry Place, Lusk Village, Lusk",Dublin,200000.0,No,Lusk,Co. Dublin,q2,30%
+08/05/2017,"20 Chapel Farm Grove, Lusk, Dublin",Dublin,274000.0,No,Lusk,Co. Dublin,q3,70%
+01/06/2017,"Knockeen, Rogerstown Lane, Lusk",Dublin,560000.0,No,Lusk,Co. Dublin,q4,100%
+09/06/2017,"12 Chapel Farm Ave, Lusk, Dublin",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+14/06/2017,"18 Ministers Park, Lusk, Dublin",Dublin,260000.0,No,Lusk,Co. Dublin,q3,70%
+16/06/2017,"33 Joyce Road, Lusk Village, Lusk",Dublin,140000.0,No,Lusk,Co. Dublin,q1,10%
+26/06/2017,"16 Huntsmans Rd, Lusk Village, Dublin",Dublin,190000.0,No,Lusk,Co. Dublin,q1,30%
+01/08/2017,"Bernried, Corduff, Lusk",Dublin,430000.0,No,Lusk,Co. Dublin,q4,100%
+08/08/2017,"8 Thatchers Way, Lusk Village, Dublin",Dublin,248000.0,No,Lusk,Co. Dublin,q3,60%
+14/08/2017,"Little Acre Cottage, Walshestown, Lusk",Dublin,400000.0,No,Lusk,Co. Dublin,q4,100%
+16/08/2017,"19 Chapel Farm Green, Lusk, Dublin",Dublin,170000.0,No,Lusk,Co. Dublin,q1,20%
+18/08/2017,"1 Chapel Farm Mews, Lusk, Dublin",Dublin,227000.0,No,Lusk,Co. Dublin,q2,50%
+24/08/2017,"Bungalow 1, Rowans, Lusk",Dublin,175000.0,No,Lusk,Co. Dublin,q1,20%
+24/08/2017,"Bungalow 3, Rowans, Lusk",Dublin,200000.0,No,Lusk,Co. Dublin,q2,30%
+24/08/2017,"Bungalow 4, Rowans, Lusk",Dublin,225000.0,No,Lusk,Co. Dublin,q2,50%
+25/08/2017,"5 Forge Green, Lusk, Co. Dublin",Dublin,285450.0,Yes,Lusk,Co. Dublin,q3,80%
+31/08/2017,"14 Chapel Farm Crescent, Lusk, Dublin",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+06/09/2017,"13 Forge Green, The Forge, Lusk",Dublin,296696.0,Yes,Lusk,Co. Dublin,q4,80%
+07/09/2017,"4 Bramble Lane, Lusk Village, Lusk",Dublin,272000.0,No,Lusk,Co. Dublin,q3,70%
+11/09/2017,"Church Rd, Lusk, Dublin",Dublin,415000.0,No,Lusk,Co. Dublin,q4,100%
+12/09/2017,"2 Dun Emer Walk, Lusk, Dublin",Dublin,145000.0,No,Lusk,Co. Dublin,q1,10%
+15/09/2017,"5 Bramble Lane, Lusk Village, Llusk",Dublin,256000.0,No,Lusk,Co. Dublin,q3,60%
+15/09/2017,"6 Dun Emer Place, Lusk, Co Dublin",Dublin,264000.0,No,Lusk,Co. Dublin,q3,70%
+21/09/2017,"5 Dun Emer Dale, Lusk, Dublin",Dublin,282000.0,No,Lusk,Co. Dublin,q3,80%
+28/09/2017,"3 Thatchers Way, Lusk Village Estate, Lusk",Dublin,245000.0,No,Lusk,Co. Dublin,q3,60%
+29/09/2017,"17 The Close, Orlynn Park, Lusk",Dublin,290000.0,No,Lusk,Co. Dublin,q4,80%
+02/10/2017,"Corduff, Lusk, County Dublin",Dublin,255000.0,No,Lusk,Co. Dublin,q3,60%
+04/10/2017,"6 Bramble Lane, Lusk Village, Dublin",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+12/10/2017,"2 Chapel Farm Mews, Lusk, Dublin",Dublin,215000.0,No,Lusk,Co. Dublin,q2,40%
+20/10/2017,"10 Chapel Farm, Lusk, Dublin",Dublin,259000.0,No,Lusk,Co. Dublin,q3,70%
+20/10/2017,"35 Dun Emer Dr, Lusk, Dublin",Dublin,322000.0,No,Lusk,Co. Dublin,q4,90%
+23/10/2017,"5 Kilhedge Lane, Chapel Farm, Lusk",Dublin,246000.0,No,Lusk,Co. Dublin,q3,60%
+27/10/2017,"19 Abbeylands, Lusk Village, Dublin",Dublin,310000.0,No,Lusk,Co. Dublin,q4,90%
+27/10/2017,"47 Kelly Park, Lusk, Dublin",Dublin,229000.0,No,Lusk,Co. Dublin,q2,50%
+03/11/2017,"25 Chapel Farm Ave, Lusk, Co.Dublin",Dublin,127500.0,No,Lusk,Co. Dublin,q1,10%
+15/11/2017,"Apt 1, Lusk Commercial Centre, Post Office Rd",Dublin,280000.0,No,Lusk,Co. Dublin,q3,80%
+21/11/2017,"49 Gleann Ribh, Lusk, Dublin",Dublin,260000.0,No,Lusk,Co. Dublin,q3,70%
+22/11/2017,"22 The Park, Orlynn Park, Lusk",Dublin,290000.0,No,Lusk,Co. Dublin,q4,80%
+23/11/2017,"13 Dun Emer Place, Lusk, Dublin",Dublin,245000.0,No,Lusk,Co. Dublin,q3,60%
+28/11/2017,"Brooklea, Ballykea, Lusk",Dublin,240000.0,No,Lusk,Co. Dublin,q3,60%
+04/12/2017,"Regles, Lusk, Dublin",Dublin,490000.0,No,Lusk,Co. Dublin,q4,100%
+06/12/2017,"24 Chapel Farm Rd, Chapel Farm, Lusk",Dublin,170000.0,No,Lusk,Co. Dublin,q1,20%
+08/12/2017,"Lissbeg, Station Rd, Lusk",Dublin,640000.0,No,Lusk,Co. Dublin,q4,100%
+15/12/2017,"Sobenkel, Jordanstown, Lusk",Dublin,480000.0,No,Lusk,Co. Dublin,q4,100%
+18/12/2017,"6 Chapel Farm Rd, Lusk, Dublin",Dublin,236000.0,No,Lusk,Co. Dublin,q2,50%
+20/12/2017,"3 Forge Lane Lusk Village, Lusk Village, Dublin",Dublin,215000.0,No,Lusk,Co. Dublin,q2,40%
+05/01/2018,"46 Dun Emer Way Lusk, Dublin",Dublin,193000.0,No,Lusk,Co. Dublin,q2,30%
+05/01/2018,"8 Great Commons, Lusk Village, Lusk",Dublin,231000.0,No,Lusk,Co. Dublin,q2,50%
+22/01/2018,"19 Dun Emer Gardens, Lusk, Dublin",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+26/01/2018,"1 Dun Emer Grove, Dun Emer, Lusk",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+29/01/2018,"27 Whitethorn Walk, Lusk Village Est, Lusk",Dublin,235000.0,No,Lusk,Co. Dublin,q2,50%
+09/02/2018,"10 The Regals, Lusk, Co Dublin",Dublin,1879295.0,No,Lusk,Co. Dublin,q4,100%
+05/03/2018,"8 Chapel Farm Row, Chapel Farm, Lusk",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+09/03/2018,"13 Chapel Farm Grove, Lusk, Dublin",Dublin,272000.0,No,Lusk,Co. Dublin,q3,70%
+14/03/2018,"San Antonio, The Commons, Lusk",Dublin,522000.0,No,Lusk,Co. Dublin,q4,100%
+29/03/2018,"1 Dun Emer Dr, Lusk, Dublin",Dublin,268000.0,No,Lusk,Co. Dublin,q3,70%
+29/03/2018,"34 Gleann Ribh, Lusk, Dublin",Dublin,212000.0,No,Lusk,Co. Dublin,q2,40%
+29/03/2018,"6 Tower View, Ministers Rd, Lusk",Dublin,360000.0,No,Lusk,Co. Dublin,q4,100%
+06/04/2018,"5 Joyce Rd Lusk Village, Lusk Village, Dublin",Dublin,186000.0,No,Lusk,Co. Dublin,q1,30%
+09/04/2018,"12 Dun Emer Gardens, Lusk, Dublin",Dublin,226000.0,No,Lusk,Co. Dublin,q2,50%
+18/04/2018,"Corduff Hall, Lusk, Co. Dublin",Dublin,136000.0,No,Lusk,Co. Dublin,q1,10%
+20/04/2018,"2 Dun Emer View, Lusk, Dublin",Dublin,340000.0,No,Lusk,Co. Dublin,q4,90%
+25/04/2018,"1 Chapelfarm Row, Chapel Farm, Lusk",Dublin,258000.0,No,Lusk,Co. Dublin,q3,70%
+26/04/2018,"35 Kilhedge Lane, Chapel Farm, Lusk",Dublin,225000.0,No,Lusk,Co. Dublin,q2,50%
+03/05/2018,"11 Dun Emer Court, Lusk, Dublin",Dublin,261000.0,No,Lusk,Co. Dublin,q3,70%
+04/05/2018,"20 Little Commons, Lusk, County Dublin",Dublin,137000.0,No,Lusk,Co. Dublin,q1,10%
+04/05/2018,"22 Minister'S Road, Lusk, Co Dublin",Dublin,248000.0,No,Lusk,Co. Dublin,q3,60%
+22/05/2018,"9 Colecot, Lusk, Dublin",Dublin,367500.0,No,Lusk,Co. Dublin,q4,100%
+24/05/2018,"11 Dun Emer Crescent, Lusk, Dublin",Dublin,347500.0,No,Lusk,Co. Dublin,q4,100%
+25/05/2018,"11 Clonrath Park, Lusk",Dublin,295154.0,Yes,Lusk,Co. Dublin,q4,80%
+25/05/2018,"12 Clonrath Park, Clonrath, Lusk",Dublin,299559.0,Yes,Lusk,Co. Dublin,q4,90%
+25/05/2018,"6 Clonrath Park, Lusk",Dublin,295154.0,Yes,Lusk,Co. Dublin,q4,80%
+25/05/2018,"7 Clonrath Park, Lusk",Dublin,330396.0,Yes,Lusk,Co. Dublin,q4,90%
+28/05/2018,"35 Forge Avenue, The Forge, Lusk",Dublin,305000.0,No,Lusk,Co. Dublin,q4,90%
+28/05/2018,"8  Clon Rath Park, Lusk",Dublin,414097.0,Yes,Lusk,Co. Dublin,q4,100%
+29/05/2018,"4 Chapel Farm Green, Lusk, Dublin",Dublin,190000.0,No,Lusk,Co. Dublin,q1,30%
+29/05/2018,"5 Clonrath Park, Lusk",Dublin,436123.34,Yes,Lusk,Co. Dublin,q4,100%
+30/05/2018,"4 Clonrath Park, Skerries Road, Lusk",Dublin,378854.62,Yes,Lusk,Co. Dublin,q4,100%
+05/06/2018,"154 Orlynn Park, Lusk, Dublin",Dublin,269000.0,No,Lusk,Co. Dublin,q3,70%
+11/06/2018,"26 Dun Emer Walk Lusk, Dublin",Dublin,153000.0,No,Lusk,Co. Dublin,q1,20%
+11/06/2018,"4 Clonrath Green, Lusk",Dublin,295154.0,Yes,Lusk,Co. Dublin,q4,80%
+11/06/2018,"9 Clonrath Park, Clonrath, Lusk",Dublin,396475.77,Yes,Lusk,Co. Dublin,q4,100%
+14/06/2018,"Lands At Lusk, Co Dublin",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+22/06/2018,"6 Clonrath Green, Skerries Road, Lusk",Dublin,321585.0,Yes,Lusk,Co. Dublin,q4,90%
+02/07/2018,"2 Newhaggard Cottages, Dublin Road, Lusk",Dublin,260000.0,No,Lusk,Co. Dublin,q3,70%
+06/07/2018,"30 Minister Park, Lusk, Dublin",Dublin,242000.0,No,Lusk,Co. Dublin,q3,60%
+09/07/2018,"15 Dun Emer Gardens, Lusk, Dublin",Dublin,295000.0,No,Lusk,Co. Dublin,q4,80%
+16/07/2018,"5 Clonrath Green, Lusk",Dublin,268722.47,Yes,Lusk,Co. Dublin,q3,70%
+18/07/2018,"56 Chapel Farm Ave, Chapel Farm, Lusk",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+20/07/2018,"1 Dun Emer Place, Lusk, Dublin",Dublin,290000.0,No,Lusk,Co. Dublin,q4,80%
+24/07/2018,"21 Chapel Farm Ave, Lusk, Dublin",Dublin,279000.0,No,Lusk,Co. Dublin,q3,80%
+27/07/2018,"22 Little Commons Lusk Village Lusk, Dublin",Dublin,272000.0,No,Lusk,Co. Dublin,q3,70%
+27/07/2018,"3 Dun Emer Dale, Dun Emer, Lusk",Dublin,282000.0,No,Lusk,Co. Dublin,q3,80%
+30/07/2018,"The Den, Rowans, Lusk",Dublin,637500.0,No,Lusk,Co. Dublin,q4,100%
+08/08/2018,"11 Clonrath Green, Lusk",Dublin,277534.0,Yes,Lusk,Co. Dublin,q3,70%
+10/08/2018,"9 Chapel Farm Square, Lusk, Co Dublin",Dublin,180000.0,No,Lusk,Co. Dublin,q1,20%
+17/08/2018,"23 Little Commons, Lusk Village, Commons",Dublin,308000.0,No,Lusk,Co. Dublin,q4,90%
+23/08/2018,"10 Clonrath Green, Skerries Road, Lusk",Dublin,383259.0,Yes,Lusk,Co. Dublin,q4,100%
+23/08/2018,"9 Clonrath Green, Skerries Road, Lusk",Dublin,290748.0,Yes,Lusk,Co. Dublin,q4,80%
+24/08/2018,"Apt 40 Gleann Ribh, Lusk, Dublin",Dublin,225000.0,No,Lusk,Co. Dublin,q2,50%
+28/08/2018,"3 Chapel Farm Mews, Lusk, Dublin",Dublin,228000.0,No,Lusk,Co. Dublin,q2,50%
+30/08/2018,"17 Chapel Farm Walk, Lusk, Dublin",Dublin,227500.0,No,Lusk,Co. Dublin,q2,50%
+30/08/2018,"9 Clonrath Avenue, Lusk",Dublin,255175.0,Yes,Lusk,Co. Dublin,q3,60%
+31/08/2018,"12 Clonrath Green, Clonrath, Lusk",Dublin,376275.0,Yes,Lusk,Co. Dublin,q4,100%
+31/08/2018,"14 Stonemasons Rd, Lusk Village, Lusk",Dublin,305000.0,No,Lusk,Co. Dublin,q4,90%
+31/08/2018,"9 Dun Emer Grove, Lusk, Dublin",Dublin,299000.0,No,Lusk,Co. Dublin,q4,80%
+04/09/2018,"14 Dun Emer Way, Lusk, Dublin",Dublin,208000.0,No,Lusk,Co. Dublin,q2,40%
+06/09/2018,"3 Clonrath Avenue, Clonrath, Lusk",Dublin,367841.0,Yes,Lusk,Co. Dublin,q4,100%
+06/09/2018,"33 Kilhedge Lane, Lusk, Dublin",Dublin,235000.0,No,Lusk,Co. Dublin,q2,50%
+07/09/2018,"27 Dun Emer Place, Lusk, Co Dublin",Dublin,290000.0,No,Lusk,Co. Dublin,q4,80%
+07/09/2018,"44 Chapel Farm Rd, Lusk, Dublin",Dublin,210000.0,No,Lusk,Co. Dublin,q2,40%
+07/09/2018,"9 Cobblers Walk, Lusk Village, Dublin",Dublin,255000.0,No,Lusk,Co. Dublin,q3,60%
+14/09/2018,"18 Clonrath Green, Clonrath, Lusk",Dublin,273127.75,Yes,Lusk,Co. Dublin,q3,70%
+14/09/2018,"29 Joyce Rd, Lusk Village, Lusk",Dublin,220000.0,No,Lusk,Co. Dublin,q2,40%
+18/09/2018,"17 Dunemer Park, Lusk, Dublin",Dublin,228500.0,No,Lusk,Co. Dublin,q2,50%
+21/09/2018,"11 Clonrath Avenue, Skerries Road, Lusk",Dublin,317180.62,Yes,Lusk,Co. Dublin,q4,90%
+21/09/2018,"7 Thatchers Way, Lusk, Dublin",Dublin,255000.0,No,Lusk,Co. Dublin,q3,60%
+25/09/2018,"13 Clonrath Green, Skerries, Lusk",Dublin,321585.9,Yes,Lusk,Co. Dublin,q4,90%
+26/09/2018,"17 Clonrath Green, Skerries Road, Lusk",Dublin,268300.0,Yes,Lusk,Co. Dublin,q3,70%
+03/10/2018,"61 The Close, Orlynn Park, Lusk",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+08/10/2018,"15 Clonrath Avenue, Clonrath, Lusk",Dublin,348017.0,Yes,Lusk,Co. Dublin,q4,100%
+09/10/2018,"Newhaggard, Lusk, Dublin",Dublin,730000.0,No,Lusk,Co. Dublin,q4,100%
+12/10/2018,"3 Chapel Farm Walk, Chapel Farm, Lusk",Dublin,170000.0,No,Lusk,Co. Dublin,q1,20%
+22/10/2018,"10 Forge Green, The Forge, Lusk",Dublin,312775.0,Yes,Lusk,Co. Dublin,q4,90%
+23/10/2018,"16 Clonrath Green, Clonrath, Lusk",Dublin,325991.0,Yes,Lusk,Co. Dublin,q4,90%
+23/10/2018,"31 Forge Ave, The Forge, Lusk",Dublin,317000.0,No,Lusk,Co. Dublin,q4,90%
+23/10/2018,"Tigin, Station Rd, Lusk",Dublin,385000.0,No,Lusk,Co. Dublin,q4,100%
+06/11/2018,"20 Joyce Rd, Lusk Village, Lusk",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+06/11/2018,"6 Dun Emer Green, Lusk, Dublin",Dublin,265000.0,No,Lusk,Co. Dublin,q3,70%
+07/11/2018,"9 Dun Emer Court, Lusk, Dublin",Dublin,227000.0,No,Lusk,Co. Dublin,q2,50%
+12/11/2018,"15 Chapel Farm Row, Lusk, Dublin",Dublin,250000.0,No,Lusk,Co. Dublin,q3,60%
+14/11/2018,"Corduff, Lusk, County Dublin",Dublin,160000.0,No,Lusk,Co. Dublin,q1,20%
+15/11/2018,"32 Forge Avenue, Lusk",Dublin,295154.19,Yes,Lusk,Co. Dublin,q4,80%
+16/11/2018,"4 Forge Lane, Lusk Village, Co Dublin",Dublin,232500.0,No,Lusk,Co. Dublin,q2,50%
+20/11/2018,"24 Forge View, The Forge, Lusk",Dublin,320000.0,No,Lusk,Co. Dublin,q4,90%
+22/11/2018,"14 Clonrath Green, Skerries Road, Lusk",Dublin,303964.75,Yes,Lusk,Co. Dublin,q4,90%
+22/11/2018,"26 The Forge Avenue, Lusk, County Dublin",Dublin,299559.47,Yes,Lusk,Co. Dublin,q4,90%
+26/11/2018,"22 The Close, Orlynn Park, Lusk",Dublin,278000.0,No,Lusk,Co. Dublin,q3,70%
+29/11/2018,"59 Kelly Park, Lusk, Dublin",Dublin,220000.0,No,Lusk,Co. Dublin,q2,40%
+30/11/2018,"Oberstown, Lusk, Dublin",Dublin,325000.0,No,Lusk,Co. Dublin,q4,90%
+05/12/2018,"49 Dun Emer Drive, Lusk, Co Dublin",Dublin,289000.0,No,Lusk,Co. Dublin,q3,80%
+05/12/2018,"7 Blackraven Court, Lusk Village, Dublin",Dublin,285000.0,No,Lusk,Co. Dublin,q3,80%
+06/12/2018,"4 Chapel Farm Terrace, Lusk, County Dublin",Dublin,165000.0,No,Lusk,Co. Dublin,q1,20%
+10/12/2018,"14 Chapel Farm Ave, Lusk, Dublin",Dublin,242500.0,No,Lusk,Co. Dublin,q3,60%
+11/12/2018,"17 Dun Emer Glade, Lusk, Dublin",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+11/12/2018,"19 Dun Emer Glade, Lusk, Dublin",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+11/12/2018,"21 Dun Emer Glade, Lusk, Dublin",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+11/12/2018,"23 Dun Emer Glade, Lusk, Dublin",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+11/12/2018,"25 Dun Emer Glade, Lusk, Dublin",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+11/12/2018,"26 Dun Emer Park, Lusk, Dublin",Dublin,222500.0,No,Lusk,Co. Dublin,q2,50%
+13/12/2018,"28 Forge Avenue, The Forge, Lusk",Dublin,281938.0,Yes,Lusk,Co. Dublin,q3,80%
+13/12/2018,"34 Forge Avenue, Lusk, County Dublin",Dublin,281938.0,Yes,Lusk,Co. Dublin,q3,80%
+14/12/2018,"7 Clonrath Avenue, Clonrath, Lusk",Dublin,277533.03,Yes,Lusk,Co. Dublin,q3,70%
+19/12/2018,"11 Thatchers Way Lusk Village Lusk, Dublin",Dublin,272000.0,No,Lusk,Co. Dublin,q3,70%
+19/12/2018,"20 Village Rd, Lusk, Dublin",Dublin,290000.0,No,Lusk,Co. Dublin,q4,80%
+20/12/2018,"12 Raheny Lane, Lusk Village, Dublin",Dublin,268000.0,No,Lusk,Co. Dublin,q3,70%
+20/12/2018,"32 Dun Emer Walk, Lusk, Dublin",Dublin,255000.0,No,Lusk,Co. Dublin,q3,60%
+21/12/2018,"30 Forge Court, The Forge, Lusk",Dublin,329074.88,Yes,Lusk,Co. Dublin,q4,90%
+11/01/2019,"11 Chapel Farm Sq, Lusk, Dublin",Dublin,284000.0,No,Lusk,Co. Dublin,q3,80%
+18/01/2019,"7 Forge Mews, The Forge, Lusk",Dublin,318942.0,Yes,Lusk,Co. Dublin,q4,90%
+29/01/2019,"21 Dun Emer Court, Lusk, Co. Dublin",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+07/02/2019,"2 Clonrath Park, Skerries Road, Lusk",Dublin,334802.0,Yes,Lusk,Co. Dublin,q4,90%
+15/02/2019,"28 Forge Court, The Forge, Lusk",Dublin,286353.6,Yes,Lusk,Co. Dublin,q3,80%
+15/02/2019,"55 Glenn Ribh, Lusk, Co Dublin",Dublin,232000.0,No,Lusk,Co. Dublin,q2,50%
+18/02/2019,"15 Scholars Walk, Lusk Village, Lusk",Dublin,244000.0,No,Lusk,Co. Dublin,q3,60%
+25/02/2019,"5 Synod Place, Norsemans Walk, Lusk Village",Dublin,190000.0,No,Lusk,Co. Dublin,q1,30%
+26/02/2019,"6 Coopers Walk, Lusk Village, Lusk",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+27/02/2019,"19 Clonrath Green, Skerries Road, Lusk",Dublin,325991.0,Yes,Lusk,Co. Dublin,q4,90%
+04/03/2019,"14 Abbeylands, Lusk Village, Dublin",Dublin,260000.0,No,Lusk,Co. Dublin,q3,70%
+07/03/2019,"5 Scribes Court, Lusk Village, Dublin",Dublin,260000.0,No,Lusk,Co. Dublin,q3,70%
+08/03/2019,"22 Dun Emer View, Lusk, Co Dublin",Dublin,350000.0,No,Lusk,Co. Dublin,q4,100%
+11/03/2019,"26 Whitethorn Walk, Lusk, Dublin",Dublin,338000.0,No,Lusk,Co. Dublin,q4,90%
+14/03/2019,"Baldrumman View, Baldrumman, Lusk",Dublin,520000.0,No,Lusk,Co. Dublin,q4,100%
+22/03/2019,"9 Chapel Farm Square, Lusk, Co Dublin",Dublin,280000.0,No,Lusk,Co. Dublin,q3,80%
+01/04/2019,"32 The Avenue, Orlynn Park, Lusk",Dublin,221064.0,No,Lusk,Co. Dublin,q2,40%
+01/04/2019,"9 Scribes Court, Lusk Village, Lusk",Dublin,245000.0,No,Lusk,Co. Dublin,q3,60%
+04/04/2019,"31 Abbeylands, Lusk Village, Lusk",Dublin,247000.0,No,Lusk,Co. Dublin,q3,60%
+08/04/2019,"30 Forge Avenue, The Forge, Lusk",Dublin,281938.0,Yes,Lusk,Co. Dublin,q3,80%
+11/04/2019,"51 Scholars Walk Lusk Village Lusk, Dublin",Dublin,262000.0,No,Lusk,Co. Dublin,q3,70%
+12/04/2019,"42 Chapel Farm Dr, Lusk, Dublin",Dublin,267000.0,No,Lusk,Co. Dublin,q3,70%
+18/04/2019,"3 Forge Court, The Forge, Lusk",Dublin,290748.0,Yes,Lusk,Co. Dublin,q4,80%
+29/04/2019,"1 Dun Emer Rd, Lusk, Dublin",Dublin,302000.0,No,Lusk,Co. Dublin,q4,90%
+02/05/2019,"42 Dun Emer Walk, Lusk, Dublin",Dublin,253000.0,No,Lusk,Co. Dublin,q3,60%
+02/05/2019,"Nevitt, Lusk, Co Dublin",Dublin,400000.0,No,Lusk,Co. Dublin,q4,100%
+08/05/2019,"13 Kilhedge Lane, Chapel Farm, Lusk",Dublin,285000.0,No,Lusk,Co. Dublin,q3,80%
+10/05/2019,"11 Dun Emer Glade, Lusk, Dublin",Dublin,230000.0,No,Lusk,Co. Dublin,q2,50%
+10/05/2019,"30 Dun Emer Gardens Lusk, Dublin",Dublin,290000.0,No,Lusk,Co. Dublin,q4,80%
+10/05/2019,"5 Clonrath Avenue, Skerries Road, Lusk",Dublin,365638.76,Yes,Lusk,Co. Dublin,q4,100%
+17/05/2019,"14 Ministers Rd, Lusk, Dublin",Dublin,268000.0,No,Lusk,Co. Dublin,q3,70%
+24/05/2019,"14 Forge Green, The Forge, Lusk",Dublin,290748.0,Yes,Lusk,Co. Dublin,q4,80%
+29/05/2019,"1 Clonrath Green, Skerries Road, Lusk",Dublin,365639.0,Yes,Lusk,Co. Dublin,q4,100%
+31/05/2019,"45 Dun Emer Way Lusk, Dublin",Dublin,270000.0,No,Lusk,Co. Dublin,q3,70%
+31/05/2019,"8 Forge Green, The Forge, Lusk",Dublin,251101.32,Yes,Lusk,Co. Dublin,q3,60%
+07/06/2019,"33 Kelly Park, Lusk, Dublin",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+19/06/2019,"21 Dun Emer Dr, Lusk, Dublin",Dublin,295000.0,No,Lusk,Co. Dublin,q4,80%
+19/06/2019,"7 Kelly Park, Lusk, Dublin",Dublin,260000.0,No,Lusk,Co. Dublin,q3,70%
+21/06/2019,"18 Forge Court, The Forge, Lusk",Dublin,286343.0,Yes,Lusk,Co. Dublin,q3,80%
+25/06/2019,"23 Chapel Farm Wood, Chapel Farm, Lusk",Dublin,275000.0,No,Lusk,Co. Dublin,q3,70%
+01/07/2019,"Station Rd, Lusk, Dublin",Dublin,100000.0,No,Lusk,Co. Dublin,q1,10%
+04/07/2019,"4 Dublin Rd Chapel Farm Lusk, Dublin",Dublin,346000.0,No,Lusk,Co. Dublin,q4,90%
+04/07/2019,"4 The Forge Green, The Forge, Lusk",Dublin,255506.6,Yes,Lusk,Co. Dublin,q3,60%
+05/07/2019,"Chapel Lane, Chapel Rd, Lusk",Dublin,266000.0,No,Lusk,Co. Dublin,q3,70%
+08/07/2019,"36 Dun Emer Way, Dun Emer, Lusk",Dublin,289000.0,No,Lusk,Co. Dublin,q4,80%
+08/07/2019,"Brooklands, Skerries Rd, Lusk",Dublin,558750.0,No,Lusk,Co. Dublin,q4,100%
+09/07/2019,"14 The Forge Court, Lusk, Co Dublin",Dublin,312775.0,Yes,Lusk,Co. Dublin,q4,90%
+11/07/2019,"2 Forge Court, The Forge, Lusk",Dublin,312775.0,Yes,Lusk,Co. Dublin,q4,90%
+16/07/2019,"7 Forge Couty, The Forge, Lusk",Dublin,405286.34,Yes,Lusk,Co. Dublin,q4,100%
+17/07/2019,"41 Gleann Ribh, Lusk, Co Dublin",Dublin,227500.0,No,Lusk,Co. Dublin,q2,50%
+29/07/2019,"8 Wend Walsh Close, Lusk Village, Lusk",Dublin,285000.0,No,Lusk,Co. Dublin,q3,80%
+01/08/2019,"15 Dun Emer Close Lusk, Dublin",Dublin,295000.0,No,Lusk,Co. Dublin,q4,80%
+06/08/2019,"6 Forge Court, The Forge, Lusk",Dublin,317180.0,Yes,Lusk,Co. Dublin,q4,90%
+07/08/2019,"10 Forge View, The Forge, Lusk",Dublin,316000.0,No,Lusk,Co. Dublin,q4,90%
+15/08/2019,"16 Chapel Farm Copse Lusk, Dublin",Dublin,235550.0,No,Lusk,Co. Dublin,q2,50%
+19/08/2019,"4 Forge Court, The Forge, Lusk",Dublin,290748.99,Yes,Lusk,Co. Dublin,q4,80%
+30/08/2019,"10 Forge Court, The Forge, Lusk",Dublin,308370.04,Yes,Lusk,Co. Dublin,q4,90%
+03/09/2019,"63 Orlynn Park, Lusk, Dublin",Dublin,330000.0,No,Lusk,Co. Dublin,q4,90%
+03/09/2019,"8 Foge Court, The Forge, Lusk",Dublin,308370.0,Yes,Lusk,Co. Dublin,q4,90%
+10/09/2019,"5 Forge Mews, Lusk",Dublin,308400.0,Yes,Lusk,Co. Dublin,q4,90%
+13/09/2019,"17 Chapel Farm Ave Lusk, Dublin",Dublin,175000.0,No,Lusk,Co. Dublin,q1,20%
+19/09/2019,"36 The Forge Avenue, Lusk",Dublin,303965.0,Yes,Lusk,Co. Dublin,q4,90%
+25/09/2019,"5  Forge Court, The Forge, Lusk",Dublin,312775.0,Yes,Lusk,Co. Dublin,q4,90%
+26/09/2019,"14 Cooperswalk, Lusk Village, Lusk",Dublin,270000.0,No,Lusk,Co. Dublin,q3,70%
+26/09/2019,"19 The Forge Court, Lusk",Dublin,317180.0,Yes,Lusk,Co. Dublin,q4,90%
+03/10/2019,"13 Huntsmans Rd, Lusk Village, Lusk",Dublin,286000.0,No,Lusk,Co. Dublin,q3,80%
+03/10/2019,"17 Forge Court, The Forge, Lusk",Dublin,290748.9,Yes,Lusk,Co. Dublin,q4,80%
+04/10/2019,"Corduff, Lusk, Co Dublin",Dublin,210000.0,No,Lusk,Co. Dublin,q2,40%
+16/10/2019,"1 Cooper'S Walk, Lusk Village, Co Dublin",Dublin,285000.0,No,Lusk,Co. Dublin,q3,80%
+16/10/2019,"2 Weavers Crescent, Lusk Village, Dublin",Dublin,260000.0,No,Lusk,Co. Dublin,q3,70%
+18/10/2019,"25 Dun Emer Walk Lusk, Dublin",Dublin,245000.0,No,Lusk,Co. Dublin,q3,60%
+21/10/2019,"26 Forge Court, The Forge, Lusk",Dublin,286343.61,Yes,Lusk,Co. Dublin,q3,80%
+25/10/2019,"20 Forge Court, The Forge, Lusk",Dublin,281940.0,Yes,Lusk,Co. Dublin,q3,80%

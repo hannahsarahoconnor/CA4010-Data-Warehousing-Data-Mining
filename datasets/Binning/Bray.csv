@@ -1,0 +1,267 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+26/02/2010,"Apt.11  Watermint, Old Bray Road, Cabinteeley",Dublin,348237.0,Yes,Bray,Co. Dublin,q3,60%
+05/03/2010,"62A Corke Abbey, Bray",Dublin,312000.0,No,Bray,Co. Dublin,q2,40%
+16/04/2010,"Whiteways, Dublin Road, Bray",Dublin,428000.0,No,Bray,Co. Dublin,q4,90%
+07/05/2010,"141 Corke Abbey, Bray",Dublin,265000.0,No,Bray,Co. Dublin,q1,30%
+25/05/2010,"10 Connawood Drive, Old Connaught Avenue, Bray",Dublin,292000.0,No,Bray,Co. Dublin,q2,40%
+11/06/2010,"4 Connawood Drive, Old Connaught Ave, Bray",Dublin,287500.0,No,Bray,Co. Dublin,q2,30%
+09/07/2010,"50 Corke Abbey, Bray",Dublin,277000.0,No,Bray,Co. Dublin,q2,30%
+14/10/2010,"78 Corke Abbey, Bray",Dublin,270500.0,No,Bray,Co. Dublin,q1,30%
+23/12/2010,"Unit 10 Second Floor, Watermint  Old Bray Road, Cabinteely",Dublin,410000.0,Yes,Bray,Co. Dublin,q4,80%
+08/02/2011,"Apartment 13  Watermint, Old Bray Road, Cabinteely",Dublin,171806.16,Yes,Bray,Co. Dublin,q1,10%
+08/02/2011,"Apartment 3  Watermint, Old Bray Road, Cabinteely",Dublin,176211.44,Yes,Bray,Co. Dublin,q1,10%
+08/02/2011,"Apartment 7 Watermint, Old Bray Road, Cabinteely",Dublin,176211.44,Yes,Bray,Co. Dublin,q1,10%
+05/04/2011,"Cormac, Bray Road, Foxrock",Dublin,400000.0,No,Bray,Co. Dublin,q4,80%
+31/05/2011,"11 Fernbrook, Old Connaught Avenue, Bray",Dublin,291000.0,No,Bray,Co. Dublin,q2,40%
+13/06/2011,"32 The Lawn, Woodbrook Glen, Bray",Dublin,235000.0,No,Bray,Co. Dublin,q1,20%
+24/06/2011,"34 The Lawn, Woodbrook Glen, Bray",Dublin,185000.0,No,Bray,Co. Dublin,q1,10%
+24/06/2011,"St Anthonys, Old Bray Road, Cabinteely",Dublin,365000.0,No,Bray,Co. Dublin,q3,70%
+01/07/2011,"1 Wilford Court, Croke Abbey, Bray",Dublin,154000.0,No,Bray,Co. Dublin,q1,10%
+03/10/2011,"Apartment 7 Watermint, Old Bray Road, Cabinteely",Dublin,260000.0,No,Bray,Co. Dublin,q1,20%
+13/10/2011,"132 Corke Abbey, Woodbrook, Bray",Dublin,207000.0,No,Bray,Co. Dublin,q1,20%
+30/11/2011,"3  Westminster Grove, Old Bray Road, Foxrock",Dublin,599119.0,No,Bray,Co. Dublin,q4,90%
+06/01/2012,"15 Connawood Green, Old Connaught Avenue, Bray",Dublin,255000.0,No,Bray,Co. Dublin,q1,20%
+06/01/2012,"Wayside, Old Bray Road, Foxrock",Dublin,475000.0,No,Bray,Co. Dublin,q4,90%
+27/01/2012,"2  Westminster Grove, Old Bray Road, Foxrock",Dublin,572687.22,Yes,Bray,Co. Dublin,q4,90%
+16/03/2012,"23 The Drive, Woodbrook Glen, Bray",Dublin,210000.0,No,Bray,Co. Dublin,q1,20%
+20/03/2012,"1 Westminster Grove, Old Bray Road, Foxrock",Dublin,650000.0,No,Bray,Co. Dublin,q4,100%
+26/03/2012,"3 Scott Park, Boghall Road, Bray",Dublin,160000.0,No,Bray,Co. Dublin,q1,10%
+03/04/2012,"67 The Green, Woodbrook Glen, Bray",Dublin,180000.0,No,Bray,Co. Dublin,q1,10%
+14/05/2012,"32 Rathmichael Park, Bray Road, Shankill",Dublin,285000.0,No,Bray,Co. Dublin,q2,30%
+23/05/2012,"24 The Fairways, Woodbrook Glen, Bray",Dublin,170000.0,No,Bray,Co. Dublin,q1,10%
+08/06/2012,"66 The Fairways, Woodbrook Glen, Bray",Dublin,175000.0,No,Bray,Co. Dublin,q1,10%
+29/06/2012,"118 Corke Abbey, Bray",Dublin,220000.0,No,Bray,Co. Dublin,q1,20%
+04/07/2012,"48 The Grove, Woodbrook Glen, Bray",Dublin,150000.0,No,Bray,Co. Dublin,q1,10%
+02/08/2012,"27  Connawood Green, Connaught Avenue, Bray",Dublin,230000.0,No,Bray,Co. Dublin,q1,20%
+08/11/2012,"1 The Drive, Woodbrook Glen, Bray",Dublin,280000.0,No,Bray,Co. Dublin,q2,30%
+30/11/2012,"Westminister Lodge & Mews, Westminister Grove, Old Bray Road",Dublin,605000.0,No,Bray,Co. Dublin,q4,90%
+10/12/2012,"61 The Grove, Woodbrook Glen, Bray",Dublin,207500.0,No,Bray,Co. Dublin,q1,20%
+21/12/2012,"10 Rathmichael Wood, Old Bray Road, Shankill  County Dublin",Dublin,471000.0,No,Bray,Co. Dublin,q4,90%
+29/01/2013,"10 Connawood Lawn, Old Connawood, Bray",Dublin,287000.0,No,Bray,Co. Dublin,q2,30%
+18/02/2013,"Edenmore, Old Bray Road, Cabinteely",Dublin,527500.0,No,Bray,Co. Dublin,q4,90%
+22/03/2013,"37 Connawood Green, Old Connaught Avenue, Bray",Dublin,259000.0,No,Bray,Co. Dublin,q1,20%
+12/04/2013,"Apartment 27 The Printworks, Lower Dargle Road, Bray",Dublin,120000.0,No,Bray,Co. Dublin,q1,10%
+26/04/2013,"Apartment 29 Wilford Court, Bray, County Wicklow",Dublin,143879.0,No,Bray,Co. Dublin,q1,10%
+05/06/2013,"67 The Green, Woodbrook Glen, Bray",Dublin,187000.0,No,Bray,Co. Dublin,q1,10%
+21/06/2013,"Alverstoke, Bray Road, Foxrock",Dublin,795000.0,No,Bray,Co. Dublin,q4,100%
+22/11/2013,"Dunamase, Corke Abbey, Bray",Dublin,377000.0,No,Bray,Co. Dublin,q3,80%
+05/12/2013,"Trust Cottage, Bray Rd Old, Cabinteely",Dublin,430000.0,No,Bray,Co. Dublin,q4,90%
+20/12/2013,"Rathmore, Dublin Rd, Bray",Dublin,450000.0,No,Bray,Co. Dublin,q4,90%
+23/12/2013,"5 Cabinteely Wood, Old Bray Rd, Cabinteely Dublin 18",Dublin,490000.0,No,Bray,Co. Dublin,q4,90%
+23/12/2013,"74 The Ramparts, Bray Rd, Cabinteely",Dublin,232000.0,No,Bray,Co. Dublin,q1,20%
+06/02/2014,"9 The Grove, Woodbrook Glen, Bray",Dublin,200000.0,No,Bray,Co. Dublin,q1,10%
+11/02/2014,"6 Connawood Crescent, Old Conna Wood, Bray",Dublin,218000.0,No,Bray,Co. Dublin,q1,20%
+12/03/2014,"4 Cornelscourt Cottages, Old Bray Road, Cornelscourt",Dublin,345000.0,No,Bray,Co. Dublin,q3,60%
+10/04/2014,"No 6 St Gabriels Court, Old Bray Road, Cabinteely",Dublin,700000.0,No,Bray,Co. Dublin,q4,100%
+15/04/2014,"Apt 2, The Mart, Bray Rd",Dublin,50000.0,No,Bray,Co. Dublin,q1,10%
+16/04/2014,"24 Wilford Court, Corke Abbey Ave, Bray",Dublin,295000.0,No,Bray,Co. Dublin,q2,40%
+06/05/2014,"2 Rockbrook, Bray Road, Foxrock",Dublin,845000.0,Yes,Bray,Co. Dublin,q4,100%
+15/05/2014,"4 Rathmichael Lawns, Old Bray Rd, Shankill",Dublin,765000.0,No,Bray,Co. Dublin,q4,100%
+23/05/2014,"36 Connawood Dr, Old Connaught Ave, Bray",Dublin,370000.0,No,Bray,Co. Dublin,q3,70%
+30/05/2014,"5 The Fairways, Woodbrook Glen, Bray",Dublin,275000.0,No,Bray,Co. Dublin,q1,30%
+03/06/2014,"10 A Corke Abbey, Bray, Wicklow",Dublin,232000.0,No,Bray,Co. Dublin,q1,20%
+10/06/2014,"Apt 12 Watermint, Old Bray Rd, Cabinteely",Dublin,375000.0,No,Bray,Co. Dublin,q3,80%
+12/06/2014,"1 Old Connaught Cottages, Old Connaught, Bray",Dublin,245000.0,No,Bray,Co. Dublin,q1,20%
+18/06/2014,"9 Cabinteely Wood, Old Bray Rd, Cabinteely Dublin 18",Dublin,530000.0,No,Bray,Co. Dublin,q4,90%
+04/07/2014,"13 The Green, Woodbrook Glen, Bray",Dublin,236000.0,No,Bray,Co. Dublin,q1,20%
+09/07/2014,"10 Fernbrook, Old Connaught Ave, Bray",Dublin,307000.0,No,Bray,Co. Dublin,q2,40%
+11/07/2014,"60 The Green, Woodbrook Glen, Bray",Dublin,260000.0,No,Bray,Co. Dublin,q1,20%
+29/07/2014,"11 Connawood Crescent, Old Connaught Rd, Bray",Dublin,425000.0,No,Bray,Co. Dublin,q4,90%
+11/08/2014,"7 Cornelscourt Cottages, Bray Rd, Foxrock Dublin 18",Dublin,230000.0,No,Bray,Co. Dublin,q1,20%
+21/08/2014,"Rose Cottage, Old Bray Road, Loughlinstown",Dublin,100000.0,No,Bray,Co. Dublin,q1,10%
+26/08/2014,"14 Connawood Copse, Bray, Wicklow",Dublin,345000.0,No,Bray,Co. Dublin,q3,60%
+08/09/2014,"21 Connawood Copse, Old Connaught Ave, Bray",Dublin,330000.0,No,Bray,Co. Dublin,q2,50%
+11/09/2014,"32 Garrison Mews, Bray Rd, Loughlinstown Dublin 18",Dublin,260000.0,No,Bray,Co. Dublin,q1,20%
+12/09/2014,"12 Ferndale Court Allies River Rd, Rathmichael, Bray",Dublin,190000.0,No,Bray,Co. Dublin,q1,10%
+19/09/2014,"11 The Drive, Woodbrook Glen, Bray",Dublin,301000.0,No,Bray,Co. Dublin,q2,40%
+24/09/2014,"No. 3 Wingfield, Corke Abbey, Bray",Dublin,425000.0,Yes,Bray,Co. Dublin,q4,90%
+25/09/2014,"53 The Grove, Woodbrook Glen, Bray",Dublin,285000.0,No,Bray,Co. Dublin,q2,30%
+13/10/2014,"4 Wingfield, Croke Abbey, Bray",Dublin,420000.0,Yes,Bray,Co. Dublin,q4,80%
+14/10/2014,"52A The Green, Woodbrook Glen, Bray",Dublin,286000.0,No,Bray,Co. Dublin,q2,30%
+15/10/2014,"Apt 11 Watermint, Old Bray Rd, Cabinteely",Dublin,415000.0,No,Bray,Co. Dublin,q4,80%
+24/10/2014,"5 Wingifeld, Corke Abbey, Bray",Dublin,370044.0,Yes,Bray,Co. Dublin,q3,70%
+28/10/2014,"Marian, Corke Abbey, Bray",Dublin,307000.0,No,Bray,Co. Dublin,q2,40%
+30/10/2014,"19 The Drive, Woodbrook Glen, Bray",Dublin,333000.0,No,Bray,Co. Dublin,q3,60%
+30/10/2014,"26 The Lawn, Woodbrook Glen, Bray",Dublin,325000.0,No,Bray,Co. Dublin,q2,50%
+11/11/2014,"6 Wingfield, Corke Abbey, Bray",Dublin,363300.0,Yes,Bray,Co. Dublin,q3,70%
+14/11/2014,"10 Connawood Dr, Bray, Wicklow",Dublin,370000.0,No,Bray,Co. Dublin,q3,70%
+12/12/2014,"11 Wingfield, Corke Abbey, Bray",Dublin,150260.0,Yes,Bray,Co. Dublin,q1,10%
+15/12/2014,"17 Wingfield, Corke Abbey, Bray",Dublin,425000.0,Yes,Bray,Co. Dublin,q4,90%
+22/12/2014,"11 Houses, Beech Park, Old Bray Road  Cabinteely",Dublin,12400000.0,No,Bray,Co. Dublin,q4,100%
+22/12/2014,"Denton, Bray Road, Cabinteely",Dublin,343498.0,No,Bray,Co. Dublin,q3,60%
+16/01/2015,"Jukazo Bray Rd, Foxrock, Dublin 18",Dublin,875000.0,No,Bray,Co. Dublin,q4,100%
+21/01/2015,"2 Kentfield, Old Bray Rd, Shankill",Dublin,575000.0,No,Bray,Co. Dublin,q4,90%
+30/01/2015,"36 The Fairways, Woodbrook Glen, Bray",Dublin,335000.0,No,Bray,Co. Dublin,q3,60%
+30/01/2015,"9 Wingfield, Corke Abbey, Bray",Dublin,361233.0,Yes,Bray,Co. Dublin,q3,70%
+19/02/2015,"16 Wingfield, Corke Abbey, Bray",Dublin,370044.0,Yes,Bray,Co. Dublin,q3,70%
+20/02/2015,"Riversdale Lodge, Old Bray Rd, Loughlinstown",Dublin,254500.0,No,Bray,Co. Dublin,q1,20%
+04/03/2015,"22 The Lawn, Woodbrook Glen, Bray",Dublin,320000.0,No,Bray,Co. Dublin,q2,50%
+06/03/2015,"30 Corke Abbey, Bray, Wicklow",Dublin,274950.0,No,Bray,Co. Dublin,q1,30%
+18/03/2015,"10 Connawood Crescent, Old Connaught Ave, Bray",Dublin,395000.0,No,Bray,Co. Dublin,q4,80%
+24/03/2015,"Old Priests House, Old Bray Rd, Loughlinstown",Dublin,270000.0,No,Bray,Co. Dublin,q1,30%
+27/03/2015,"15 Wingfield  Corke Abbey, Bray",Dublin,365638.76,Yes,Bray,Co. Dublin,q3,70%
+19/05/2015,"60 Corke Abbey, Bray, Dublin",Dublin,289000.0,No,Bray,Co. Dublin,q2,40%
+19/05/2015,"81 The Ramparts, Bray Rd, Cabinteely",Dublin,175000.0,No,Bray,Co. Dublin,q1,10%
+28/05/2015,"5 Connawood Lawn, Old Connaught Ave, Bray",Dublin,401000.0,No,Bray,Co. Dublin,q4,80%
+03/06/2015,"12 Wingfield, Corke Abbey, Bray",Dublin,370044.05,Yes,Bray,Co. Dublin,q3,70%
+11/06/2015,"'Ards', Old Bray Road, Cabinteely",Dublin,700000.0,No,Bray,Co. Dublin,q4,100%
+11/06/2015,"'Cartref', Old Bray Road, Cabinteely",Dublin,1100000.0,No,Bray,Co. Dublin,q4,100%
+11/06/2015,"'Foxley', Old Bray Road, Cabinteely",Dublin,700000.0,No,Bray,Co. Dublin,q4,100%
+12/06/2015,"4 The Green, Woodbrook Glen, Bray",Dublin,300000.0,No,Bray,Co. Dublin,q2,40%
+17/06/2015,"7 Wingfield, Corke Abbey, Bray",Dublin,387666.0,Yes,Bray,Co. Dublin,q3,80%
+19/06/2015,"3 Cornelscourt Cottages, Bray Rd, Cornelscourt Dublin 18",Dublin,294000.0,No,Bray,Co. Dublin,q2,40%
+22/06/2015,"8 Wilford Court, Corke Abbey Ave, Bray",Dublin,234000.0,No,Bray,Co. Dublin,q1,20%
+30/06/2015,"Roselawn, Bray Rd, Foxrock Dublin 18",Dublin,1750000.0,No,Bray,Co. Dublin,q4,100%
+06/07/2015,"1 Cabinteely Wood, Old Bray Rd, Cabinteely Dublin 18",Dublin,635000.0,No,Bray,Co. Dublin,q4,90%
+22/07/2015,"Apt 4 Northlands, Rathmichael Park, Bray Rd",Dublin,290000.0,No,Bray,Co. Dublin,q2,40%
+24/07/2015,"80 Corke Abbey, Bray, Wicklow",Dublin,322500.0,No,Bray,Co. Dublin,q2,50%
+31/07/2015,"Old Bray Road, Foxrock, Dublin 18",Dublin,1025000.0,No,Bray,Co. Dublin,q4,100%
+25/08/2015,"14 Rathmichael Park, Bray Road, Shankill",Dublin,350000.0,No,Bray,Co. Dublin,q3,60%
+25/08/2015,"67 The Ramparts, Bray Rd, Cabinteely Dublin 18",Dublin,230000.0,No,Bray,Co. Dublin,q1,20%
+01/09/2015,"Gweedore, Bray Rd, Foxrock Dublin 18",Dublin,1100000.0,No,Bray,Co. Dublin,q4,100%
+02/09/2015,"12 The Green, Woodbrook Glen, Bray",Dublin,220000.0,No,Bray,Co. Dublin,q1,20%
+24/09/2015,"8 Wingfield, Cork Abbey, Bray",Dublin,396476.0,Yes,Bray,Co. Dublin,q4,80%
+06/10/2015,"14 Wingfield, Corke Abbey, Bray",Dublin,364317.18,Yes,Bray,Co. Dublin,q3,70%
+06/10/2015,"2 Fairways Park, Bray Rd, Foxrock",Dublin,500000.0,No,Bray,Co. Dublin,q4,90%
+15/10/2015,"Apt 4 Watermint, Old Bray Rd, Cabinteeely",Dublin,241000.0,No,Bray,Co. Dublin,q1,20%
+11/11/2015,"40 Connawood Dr, Bray, Wicklow",Dublin,349000.0,No,Bray,Co. Dublin,q3,60%
+20/11/2015,"Apt 3 Watermint, Old Bray Rd, Cabinteely",Dublin,320000.0,No,Bray,Co. Dublin,q2,50%
+18/12/2015,"2 Cabinteely Wood, Bray Rd, Cabinteely Dublin 18",Dublin,492000.0,No,Bray,Co. Dublin,q4,90%
+12/01/2016,"5 Connawood Drive, Bray",Dublin,345000.0,No,Bray,Co. Dublin,q3,60%
+14/01/2016,"Ballytrain, Bray Rd, Foxrock Dublin 18",Dublin,1100000.0,No,Bray,Co. Dublin,q4,100%
+29/01/2016,"33 The Fairways, Woodbrook Glen, Bray",Dublin,292500.0,No,Bray,Co. Dublin,q2,40%
+04/02/2016,"16 Connawood Copse, Old Connawood, Bray",Dublin,330000.0,No,Bray,Co. Dublin,q2,50%
+08/02/2016,"7 Woodbrook Downs, Bray, Wicklow",Dublin,1100000.0,No,Bray,Co. Dublin,q4,100%
+16/02/2016,"8 Watermint Apts, Old Bray Rd, Dublin",Dublin,395000.0,No,Bray,Co. Dublin,q4,80%
+24/02/2016,"Apt 7 Northlands, Rathmichael Park, Bray Rd",Dublin,325000.0,No,Bray,Co. Dublin,q2,50%
+07/04/2016,"19 The Fairways, Woodbrook Glen, Bray",Dublin,321000.0,No,Bray,Co. Dublin,q2,50%
+07/04/2016,"63 The Fairways, Woodbrook Glen, Bray",Dublin,315000.0,No,Bray,Co. Dublin,q2,50%
+25/04/2016,"45 The Drive, Woodbrook Glen, Bray",Dublin,275000.0,No,Bray,Co. Dublin,q1,30%
+27/04/2016,"2 Wingfield, Corke Abbey, Bray",Dublin,374449.33,Yes,Bray,Co. Dublin,q3,80%
+29/04/2016,"Apt 29, Wilford Court, Bray",Dublin,250000.0,No,Bray,Co. Dublin,q1,20%
+04/05/2016,"106 Corke Abbey, Bray, Wicklow",Dublin,317500.0,No,Bray,Co. Dublin,q2,50%
+04/05/2016,"9 The Fairways, Woodbrook Glen, Bray",Dublin,322000.0,No,Bray,Co. Dublin,q2,50%
+24/05/2016,"30 Rathmichael Park, Shankill, Bray",Dublin,365000.0,No,Bray,Co. Dublin,q3,70%
+30/05/2016,"St Jarlath, Old Bray Rd, Cabinteely",Dublin,765000.0,No,Bray,Co. Dublin,q4,100%
+24/08/2016,"2C Sunnybank Court, Upper Dargle Rd, Bray",Dublin,215000.0,No,Bray,Co. Dublin,q1,20%
+31/08/2016,"157 Corke Abbey, Bray, Wicklow",Dublin,315000.0,No,Bray,Co. Dublin,q2,50%
+31/08/2016,"29 The Drive, Woodbrookglen, Bray",Dublin,278500.0,No,Bray,Co. Dublin,q2,30%
+23/09/2016,"6 Old Connawood Dr, Bray, Dublin",Dublin,350000.0,No,Bray,Co. Dublin,q3,60%
+14/10/2016,"2 Conna Wood Crescent, Old Connaught Ave, Bray",Dublin,265000.0,No,Bray,Co. Dublin,q1,30%
+21/10/2016,"33 Corke Abbey, Bray, Wicklow",Dublin,276000.0,No,Bray,Co. Dublin,q2,30%
+21/10/2016,"71 The Ramparts, Bray Rd, Cabinteely",Dublin,266555.0,No,Bray,Co. Dublin,q1,30%
+21/10/2016,"Roselawn, Bray Rd, Foxrock Dublin 18",Dublin,1750000.0,No,Bray,Co. Dublin,q4,100%
+21/10/2016,"Ruwenzori, Ballyman Lane, Bray",Dublin,840000.0,No,Bray,Co. Dublin,q4,100%
+02/11/2016,"47 The Drive, Woodbrook Glen, Bray",Dublin,300000.0,No,Bray,Co. Dublin,q2,40%
+07/11/2016,"89 Corke Abbey, Dublin Rd, Bray",Dublin,275000.0,No,Bray,Co. Dublin,q1,30%
+08/11/2016,"3 Rockbrook, Old Bray Road, Foxrock",Dublin,935000.0,No,Bray,Co. Dublin,q4,100%
+10/11/2016,"11 The Fairways, Woodbrook Glen, Bray",Dublin,367500.0,No,Bray,Co. Dublin,q3,70%
+14/11/2016,"76 The Fairways, Woodbrook Glen, Bray",Dublin,300000.0,No,Bray,Co. Dublin,q2,40%
+24/11/2016,"Apt 5 Watermint, Old Bray Rd, Cabinteely",Dublin,302000.0,Yes,Bray,Co. Dublin,q2,40%
+25/11/2016,"50 The Drive, Woodbrook Glen, Bray",Dublin,312000.0,No,Bray,Co. Dublin,q2,40%
+22/12/2016,"28 The Green, Woodbrook Glen, Bray",Dublin,325000.0,No,Bray,Co. Dublin,q2,50%
+22/12/2016,"Apt 13 Watermint, Old Bray Rd, Cabinteely",Dublin,320000.0,No,Bray,Co. Dublin,q2,50%
+05/01/2017,"65 Wilford Court, Corke Abbey Ave, Bray",Dublin,320000.0,No,Bray,Co. Dublin,q2,50%
+19/01/2017,"Apt 8 Northlands, Rathmichael Park, Bray Rd",Dublin,327500.0,No,Bray,Co. Dublin,q2,50%
+20/01/2017,"41 The Green, Woodbrook Glen, Bray",Dublin,330000.0,No,Bray,Co. Dublin,q3,60%
+27/01/2017,"64 The Green, Woodbrook Glen, Bray",Dublin,170000.0,No,Bray,Co. Dublin,q1,10%
+13/02/2017,"11 Connawood Green, Old Connawood, Bray",Dublin,352500.0,No,Bray,Co. Dublin,q3,70%
+17/02/2017,"51 Woodbank, Old Bray Road, Shankill",Dublin,295154.0,Yes,Bray,Co. Dublin,q2,40%
+22/02/2017,"101 Corke Abbey, Bray, Wicklow",Dublin,320000.0,No,Bray,Co. Dublin,q2,50%
+27/02/2017,"Apt 2 Northlands, Rathmichael Park, Bray Rd",Dublin,325000.0,No,Bray,Co. Dublin,q2,50%
+28/02/2017,"3 Cabinteely Wood, Old Bray Rd, Cabinteely Dublin 18",Dublin,525000.0,No,Bray,Co. Dublin,q4,90%
+03/03/2017,"144 Corke Abbey, Bray, Wicklow",Dublin,330000.0,No,Bray,Co. Dublin,q3,60%
+10/03/2017,"The Aske, Dublin Rd, Bray",Dublin,880000.0,No,Bray,Co. Dublin,q4,100%
+12/04/2017,"72 The Ramparts, Bray Rd, Cabinteely",Dublin,285000.0,No,Bray,Co. Dublin,q2,30%
+29/05/2017,"3 The Lawn, Woodbrook Glen, Bray",Dublin,346000.0,No,Bray,Co. Dublin,q3,60%
+16/06/2017,"5 Cabinteely Wood, Old Bray Rd, Cabinteely Dublin 18",Dublin,635000.0,No,Bray,Co. Dublin,q4,90%
+16/06/2017,"Strathy Lodge, Ballyman Rd, Bray",Dublin,895000.0,No,Bray,Co. Dublin,q4,100%
+21/06/2017,"The Mews, 2 Corke Abbey Avenue, Bray",Dublin,410000.0,Yes,Bray,Co. Dublin,q4,80%
+29/06/2017,"143 Corke Abbey, Bray, Dublin",Dublin,335000.0,No,Bray,Co. Dublin,q3,60%
+04/07/2017,"Apt 9 Southlands, Rathmichael Park, Bray Rd",Dublin,335000.0,No,Bray,Co. Dublin,q3,60%
+25/07/2017,"1 The Green, Woodbrook Glen, Bray",Dublin,370000.0,No,Bray,Co. Dublin,q3,70%
+02/08/2017,"88 Corke Abbey, Bray, Wicklow",Dublin,400000.0,No,Bray,Co. Dublin,q4,80%
+09/08/2017,"40 Old Connaught House, Ferndale Rd, Bray",Dublin,142500.0,No,Bray,Co. Dublin,q1,10%
+30/08/2017,"Sayjip, Old Bray Rd, Cabinteely Dublin 18",Dublin,695000.0,No,Bray,Co. Dublin,q4,100%
+08/09/2017,"20 Connawood Copse, Bray, County Dublin",Dublin,387000.0,No,Bray,Co. Dublin,q3,80%
+22/09/2017,"21 Connawood Grove, Bray, Dublin",Dublin,45000.0,No,Bray,Co. Dublin,q1,10%
+05/10/2017,"Roselawn, Bray Rd, Foxrock Dublin 18",Dublin,1750000.0,No,Bray,Co. Dublin,q4,100%
+11/10/2017,"5 Wilford Court, Corke Abbey Ave, Bray",Dublin,300000.0,No,Bray,Co. Dublin,q2,40%
+18/10/2017,"75 The Ramparts, Bray Rd, Cabinteely Dublin 18",Dublin,335000.0,No,Bray,Co. Dublin,q3,60%
+19/10/2017,"Denton, Bray Road, Cabinteely",Dublin,325000.0,No,Bray,Co. Dublin,q2,50%
+20/10/2017,"18 The Drive, Woodbrook Glen, Bray",Dublin,374000.0,No,Bray,Co. Dublin,q3,80%
+03/11/2017,"151A Corke Abbey, Bray, Co Wicklow",Dublin,370000.0,No,Bray,Co. Dublin,q3,70%
+06/11/2017,"39 Wilford Court, Cork Abbey, Bray",Dublin,265000.0,No,Bray,Co. Dublin,q1,30%
+23/11/2017,"7 The Grove Woodbrook Glen, Bray, Woodbrook Glen",Dublin,360000.0,No,Bray,Co. Dublin,q3,70%
+30/11/2017,"9 Watermint Apts, Old Bray Rd, Dublin",Dublin,421000.0,No,Bray,Co. Dublin,q4,80%
+13/12/2017,"Apt 13 Northlands, Rathmichael Park, Bray Rd",Dublin,290000.0,No,Bray,Co. Dublin,q2,40%
+21/12/2017,"24 Monalow, Old Bray Rd, Roxrock Dublin 18",Dublin,452000.0,No,Bray,Co. Dublin,q4,90%
+16/01/2018,"6 Wingfield, Corke Abbey, Bray",Dublin,485000.0,No,Bray,Co. Dublin,q4,90%
+26/01/2018,"56 The Ramparts, Bray Road, Cabinteely",Dublin,316000.0,No,Bray,Co. Dublin,q2,50%
+26/01/2018,"7 The Watermint, Old Bray Rd, Cabinteely",Dublin,395000.0,No,Bray,Co. Dublin,q4,80%
+31/01/2018,"48 The Ramparts, Bray Rd, Cabinteely",Dublin,290000.0,No,Bray,Co. Dublin,q2,40%
+02/02/2018,"15 Rochfort House, Brennenstown, Old Bray Rd Cabinteely",Dublin,372000.0,No,Bray,Co. Dublin,q3,80%
+09/02/2018,"16 Connawood Green, Old Connaught Ave, Bray",Dublin,390000.0,No,Bray,Co. Dublin,q3,80%
+14/02/2018,"9 Conna Wood Green, Old Conna Wood, Bray",Dublin,432000.0,No,Bray,Co. Dublin,q4,90%
+20/03/2018,"116 Corke Abbey, Woodbrook, Bray",Dublin,350000.0,No,Bray,Co. Dublin,q3,70%
+20/03/2018,"23 Wilford Court, Corke Abbey Ave, Bray",Dublin,295385.0,No,Bray,Co. Dublin,q2,40%
+20/03/2018,"52 Wilford Court, Corke Abbey, Bray Rd",Dublin,295385.0,No,Bray,Co. Dublin,q2,40%
+20/03/2018,"Apt 55, Wilford Court Corke Abbey, Bray",Dublin,189091.0,No,Bray,Co. Dublin,q1,10%
+20/03/2018,"Apt 56 Wilford Court, Corke Abbey Avenue, Bray",Dublin,243985.0,No,Bray,Co. Dublin,q1,20%
+20/03/2018,"Apt 57 Wilford Court, Corke Abbey Avenue, Bray",Dublin,243985.0,No,Bray,Co. Dublin,q1,20%
+20/03/2018,"Apt 59 Wilford Court, Corke Abbey Ave, Bray",Dublin,184615.0,No,Bray,Co. Dublin,q1,10%
+20/03/2018,"Apt 61 Wilford Court, Corke Abbey Avenue, Bray",Dublin,260250.0,No,Bray,Co. Dublin,q1,30%
+20/03/2018,"Apt 62 Wilford Court, Corke Abbey Avenue, Bray",Dublin,184615.0,No,Bray,Co. Dublin,q1,10%
+20/03/2018,"Apt 64 Wilford Court, Corke Abbey Avenue, Bray",Dublin,272308.0,No,Bray,Co. Dublin,q1,30%
+18/05/2018,"37 The Green, Woodbrook Glen, Bray",Dublin,430000.0,No,Bray,Co. Dublin,q4,90%
+31/05/2018,"18 The Lawn, Woodbrook Glen, Bray",Dublin,372000.0,No,Bray,Co. Dublin,q3,80%
+14/06/2018,"59 The Ramparts, Bray Rd, Cabinteely Dublin 18",Dublin,316000.0,No,Bray,Co. Dublin,q2,50%
+29/06/2018,"122 Corke Abbey, Bray, Wicklow",Dublin,362500.0,No,Bray,Co. Dublin,q3,70%
+11/07/2018,"2 Olcovar, Bray Rd, Shankill",Dublin,390000.0,No,Bray,Co. Dublin,q3,80%
+26/07/2018,"15 Old Connawood Way, Old Connaght Ave, Bray",Dublin,485000.0,No,Bray,Co. Dublin,q4,90%
+26/07/2018,"Roselawn, Bray Rd, Foxrock Dublin 18",Dublin,2000000.0,No,Bray,Co. Dublin,q4,100%
+27/08/2018,"1 Wingfield, Cork Abbey, Bray",Dublin,374449.34,Yes,Bray,Co. Dublin,q3,80%
+30/08/2018,"28 The Lawn, Woodbrook Glen, Bray",Dublin,355000.0,No,Bray,Co. Dublin,q3,70%
+06/09/2018,"Apt 3, Claremount, Old Bray Rd",Dublin,305000.0,No,Bray,Co. Dublin,q2,40%
+10/09/2018,"120 Corke Abbey, Bray, Wicklow",Dublin,395000.0,No,Bray,Co. Dublin,q4,80%
+19/09/2018,"99 The Ramparts, Bray Rd, Cabinteely Dublin 18",Dublin,342500.0,No,Bray,Co. Dublin,q3,60%
+03/10/2018,"44 The Ramparts, Bray Rd, Cabinteely",Dublin,294000.0,No,Bray,Co. Dublin,q2,40%
+31/10/2018,"2 Wingfield, Corke Abbey, Bray",Dublin,8810.57,Yes,Bray,Co. Dublin,q1,10%
+01/11/2018,"25 The Drive, Woodbrook Glen, Bray",Dublin,385000.0,No,Bray,Co. Dublin,q3,80%
+01/11/2018,"40 Wilford Court, Corke Abbey Ave, Bray",Dublin,203333.0,No,Bray,Co. Dublin,q1,20%
+20/11/2018,"14 Wilford Court, Corke Abbey Ave, Bray",Dublin,298000.0,No,Bray,Co. Dublin,q2,40%
+27/11/2018,"10 Southlands, Rathmichael Park, Bray Rd",Dublin,325000.0,No,Bray,Co. Dublin,q2,50%
+27/11/2018,"Apt 11 Southlands, Rathmichael Park, Bray Rd",Dublin,325000.0,No,Bray,Co. Dublin,q2,50%
+27/11/2018,"Apt 13 Southlands, Rathmichael Park, Bray Rd",Dublin,335000.0,No,Bray,Co. Dublin,q3,60%
+27/11/2018,"Apt 14 Southlands, Rathmichael Park, Bray Rd",Dublin,335000.0,No,Bray,Co. Dublin,q3,60%
+27/11/2018,"Apt 3 Northlands, Rathmichael Park, Bray Rd",Dublin,315000.0,No,Bray,Co. Dublin,q2,50%
+10/12/2018,"54 Connawood Lawn, Old Connaught Ave, Bray",Dublin,337500.0,No,Bray,Co. Dublin,q3,60%
+14/12/2018,"19 Le Hunt House, Brennanstown Sq, Old Bray Rd Dublin 18",Dublin,370000.0,No,Bray,Co. Dublin,q3,70%
+19/12/2018,"20 The Green, Woodbrook Glen, Bray",Dublin,290000.0,No,Bray,Co. Dublin,q2,40%
+19/12/2018,"9 The Lawn, Woodbrook Glen, Bray",Dublin,360000.0,No,Bray,Co. Dublin,q3,70%
+30/01/2019,"1 The Ramparts, Bray Rd, Cabinteely Dublin 18",Dublin,277500.0,No,Bray,Co. Dublin,q2,30%
+18/02/2019,"66 Old Conna Wood, Bray, Dublin",Dublin,370000.0,No,Bray,Co. Dublin,q3,70%
+06/03/2019,"32 The Ramparts, Bray Rd, Cabinteely Dublin 18",Dublin,285000.0,No,Bray,Co. Dublin,q2,30%
+14/03/2019,"Laurel Bank, Thornhill Rd, Bray",Dublin,330000.0,No,Bray,Co. Dublin,q3,60%
+29/03/2019,"3 The Grove, Woodbrook Glen, Bray",Dublin,320000.0,No,Bray,Co. Dublin,q2,50%
+09/04/2019,"66 Wilford Court, Corke Abbey Ave, Bray",Dublin,335000.0,No,Bray,Co. Dublin,q3,60%
+09/04/2019,"St Goretti, Dublin Rd, Bray",Dublin,527000.0,No,Bray,Co. Dublin,q4,90%
+10/04/2019,"31 The Drive, Woodbrook Glen, Bray",Dublin,330000.0,No,Bray,Co. Dublin,q3,60%
+12/04/2019,"22 Connawood Lawn, Old Connaught Ave, Bray",Dublin,370000.0,No,Bray,Co. Dublin,q3,70%
+18/06/2019,"5 Corke Abbey Ave, Bray, Wicklow",Dublin,355000.0,No,Bray,Co. Dublin,q3,70%
+28/06/2019,"62 Connawood Lawn, Bray, Wicklow",Dublin,370000.0,No,Bray,Co. Dublin,q3,70%
+05/07/2019,"Westminister Lodge Mews, Westminister Grove, Old Bray Rd",Dublin,1900000.0,No,Bray,Co. Dublin,q4,100%
+15/07/2019,"9 The Green, Woodbrook Glen, Bray",Dublin,295000.0,No,Bray,Co. Dublin,q2,40%
+16/07/2019,"Brooklands, Ferndale Rd, Bray",Dublin,915000.0,No,Bray,Co. Dublin,q4,100%
+17/07/2019,"Apt 4 Watermint, Old Bray Rd, Cabinteeely",Dublin,260000.0,No,Bray,Co. Dublin,q1,30%
+26/07/2019,"11 The Drive, Woodbrook Glen, Bray",Dublin,368000.0,No,Bray,Co. Dublin,q3,70%
+16/08/2019,"53 Corke Abbey, Bray, Dublin",Dublin,382000.0,No,Bray,Co. Dublin,q3,80%
+09/09/2019,"4 Connawood Lawn, Bray, Wicklow",Dublin,400000.0,No,Bray,Co. Dublin,q4,80%
+12/09/2019,"95 The Ramparts, Bray Rd, Cabinteely Dublin 18",Dublin,155000.0,No,Bray,Co. Dublin,q1,10%
+17/09/2019,"64 Connawood Lawn, Connawood Ave, Bray",Dublin,330000.0,No,Bray,Co. Dublin,q3,60%
+17/09/2019,"Cuilin, Allies River Rd, Rathmichael Bray",Dublin,1666150.0,No,Bray,Co. Dublin,q4,100%
+27/09/2019,"St Vincents, Dublin Rd, Bray",Dublin,320000.0,No,Bray,Co. Dublin,q2,50%
+03/10/2019,"67 The Green, Woodbrook Glen, Bray",Dublin,333000.0,No,Bray,Co. Dublin,q3,60%
+04/10/2019,"St Philomenas, Dublin Rd, Bray",Dublin,340000.0,No,Bray,Co. Dublin,q3,60%
+11/10/2019,"55 The Ramparts, Bray Rd, Cabinteely",Dublin,285000.0,No,Bray,Co. Dublin,q2,30%
+14/10/2019,"29 The Grove, Woodbrook Glen, Bray",Dublin,330000.0,No,Bray,Co. Dublin,q3,60%

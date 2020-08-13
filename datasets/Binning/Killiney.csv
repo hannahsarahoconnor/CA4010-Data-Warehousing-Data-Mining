@@ -1,0 +1,841 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+07/01/2010,"37 Castle Court, Killiney Hill Road, Killiney",Dublin,272500.0,No,Killiney,Co. Dublin,q1,10%
+08/01/2010,"62 Watson Road, Killiney",Dublin,525000.0,No,Killiney,Co. Dublin,q2,50%
+14/01/2010,"Melrose, 13 Killiney Road, Killiney",Dublin,490000.0,No,Killiney,Co. Dublin,q2,50%
+19/01/2010,"182 Ballinclea Heights, Killiney",Dublin,610000.0,No,Killiney,Co. Dublin,q3,60%
+28/01/2010,"St. Columba'S Lodge, Killiney Hill Road, Killiney",Dublin,325000.0,No,Killiney,Co. Dublin,q1,20%
+03/02/2010,"108 Churchview Road, Killiney",Dublin,410000.0,No,Killiney,Co. Dublin,q2,30%
+12/02/2010,"4 Glenalua Heights, Glenalua Road, Killiney",Dublin,660000.0,No,Killiney,Co. Dublin,q3,70%
+12/02/2010,"8 Domville Grove, Killiney Hill, Killiney",Dublin,374500.0,No,Killiney,Co. Dublin,q1,30%
+11/03/2010,"Apt 38 Deane, Station Road, Killiney",Dublin,415935.0,Yes,Killiney,Co. Dublin,q2,30%
+18/03/2010,"38A Thomastown Road, Killiney",Dublin,470000.0,No,Killiney,Co. Dublin,q2,40%
+31/03/2010,"184 Ballinclea Heights, Killiney, County Dublin",Dublin,590000.0,No,Killiney,Co. Dublin,q3,60%
+06/04/2010,"1 Hollymount, Glenalua Road, Killiney",Dublin,290000.0,No,Killiney,Co. Dublin,q1,20%
+09/04/2010,"5 Ballinclea Wood, Ballinclea Road, Killiney",Dublin,570000.0,No,Killiney,Co. Dublin,q3,60%
+09/04/2010,"Kinvarra, Military Road, Killiney",Dublin,885000.0,No,Killiney,Co. Dublin,q4,90%
+13/04/2010,"63 Bayview Drive, Killiney, County Dublin",Dublin,355000.0,No,Killiney,Co. Dublin,q1,20%
+19/04/2010,"27 Auburn Drive, Killiney, Dublin",Dublin,400000.0,No,Killiney,Co. Dublin,q2,30%
+20/04/2010,"7 Avondale Park, Killiney, County Dublin",Dublin,464000.0,No,Killiney,Co. Dublin,q2,40%
+23/04/2010,"10 Watson Park, Killiney",Dublin,385000.0,No,Killiney,Co. Dublin,q1,30%
+30/04/2010,"2 Bayview Grove, Killiney",Dublin,350000.0,No,Killiney,Co. Dublin,q1,20%
+06/05/2010,"93 Avondale Road, Killiney",Dublin,645000.0,No,Killiney,Co. Dublin,q3,70%
+15/05/2010,"Marine Lodge, Seafield Road, Killiney",Dublin,460000.0,No,Killiney,Co. Dublin,q2,40%
+31/05/2010,"124 Churchview Road, Killiney",Dublin,320000.0,No,Killiney,Co. Dublin,q1,20%
+17/06/2010,"3 Mount Auburn, Killiney",Dublin,850000.0,No,Killiney,Co. Dublin,q4,90%
+18/06/2010,"42 Watson Drive, Killiney",Dublin,416000.0,No,Killiney,Co. Dublin,q2,40%
+25/06/2010,"17 Avondale Road, Killiney",Dublin,650000.0,No,Killiney,Co. Dublin,q3,70%
+01/07/2010,"Apartment 10 The Court, Station Road, Killiney",Dublin,264317.0,Yes,Killiney,Co. Dublin,q1,10%
+12/07/2010,"11 Abberley, Killiney",Dublin,285000.0,No,Killiney,Co. Dublin,q1,20%
+12/07/2010,"24 Watson Road, Killiney",Dublin,690000.0,No,Killiney,Co. Dublin,q3,70%
+22/07/2010,"65 Avondale Road, Killiney, Co. Dublin",Dublin,640000.0,No,Killiney,Co. Dublin,q3,70%
+27/07/2010,"126A Ballinclea Heights, Killiney",Dublin,630000.0,No,Killiney,Co. Dublin,q3,70%
+06/08/2010,"22 Killiney Grove, Killiney",Dublin,460000.0,No,Killiney,Co. Dublin,q2,40%
+06/08/2010,"3 Bayview Drive, Killiney",Dublin,385000.0,No,Killiney,Co. Dublin,q1,30%
+13/08/2010,"12 Granville Close, Killiney",Dublin,380000.0,No,Killiney,Co. Dublin,q1,30%
+02/09/2010,"48 Castle Court, Killiney, Hill Rd",Dublin,265000.0,No,Killiney,Co. Dublin,q1,10%
+10/09/2010,"37 Oakdene, Killiney, Co. Dublin",Dublin,680000.0,No,Killiney,Co. Dublin,q3,70%
+17/09/2010,"19 Norwood, Shanganagh Road, Killiney",Dublin,335000.0,No,Killiney,Co. Dublin,q1,20%
+24/09/2010,"1 Ballinclea Wood, Ballinclea Road, Killiney",Dublin,547800.0,No,Killiney,Co. Dublin,q2,50%
+24/09/2010,"116 Ballinclea Heights, Killiney",Dublin,565000.0,No,Killiney,Co. Dublin,q3,60%
+04/10/2010,"60 Seafield Court, Killiney",Dublin,360000.0,No,Killiney,Co. Dublin,q1,30%
+15/10/2010,"1 Streamville Court, Killiney Hill Road, Killiney",Dublin,285000.0,No,Killiney,Co. Dublin,q1,20%
+22/10/2010,"28 Auburn Drive, Killiney",Dublin,590000.0,No,Killiney,Co. Dublin,q3,60%
+28/10/2010,"Apartment 38, Killiney Towers, Killiney",Dublin,381000.0,No,Killiney,Co. Dublin,q1,30%
+29/10/2010,"35 Watson Road, Killiney, Co. Dublin",Dublin,625000.0,No,Killiney,Co. Dublin,q3,60%
+05/11/2010,"7 Cluny Grove, Killiney",Dublin,540000.0,No,Killiney,Co. Dublin,q2,50%
+12/11/2010,"32 Seafield Court, Killiney",Dublin,377500.0,No,Killiney,Co. Dublin,q1,30%
+12/11/2010,"Serenity  Violet Hill, Church Road, Killiney",Dublin,1321585.0,Yes,Killiney,Co. Dublin,q4,100%
+17/11/2010,"13 Coundon Court, Killiney",Dublin,700000.0,No,Killiney,Co. Dublin,q3,70%
+26/11/2010,"11 Glenalua Terrace, Killiney",Dublin,445000.0,No,Killiney,Co. Dublin,q2,40%
+09/12/2010,"6  Ballinclea Heights, Killiney",Dublin,425000.0,No,Killiney,Co. Dublin,q2,40%
+17/12/2010,"Kildimo Lodge, Killiney Hill Road, Killiney",Dublin,567500.0,No,Killiney,Co. Dublin,q3,60%
+21/01/2011,"Apt 2 Killiney Court, Seafield Road, Killiney",Dublin,160000.0,No,Killiney,Co. Dublin,q1,10%
+28/01/2011,"22Bayview Lawns, Killiney, County Dublin",Dublin,313450.0,No,Killiney,Co. Dublin,q1,20%
+01/02/2011,"40 Watson Avenue, Killiney",Dublin,378100.0,No,Killiney,Co. Dublin,q1,30%
+02/02/2011,"Violet Hill House, Church Road, Killiney",Dublin,890000.0,No,Killiney,Co. Dublin,q4,90%
+08/02/2011,"5  Laragh, Killiney Avenue, Killiney",Dublin,460600.0,No,Killiney,Co. Dublin,q2,40%
+08/02/2011,"Lucca, Marino Avenue West, Killiney",Dublin,865000.0,No,Killiney,Co. Dublin,q4,90%
+10/02/2011,"Denecroft, Ballinclea Road, Killiney",Dublin,1600000.0,No,Killiney,Co. Dublin,q4,100%
+04/03/2011,"Victoria House, Victoria Road, Killiney",Dublin,2175000.0,No,Killiney,Co. Dublin,q4,100%
+07/03/2011,"15 Avondale Road, Killiney",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+09/03/2011,"27 Beechcourt, Killiney",Dublin,710000.0,No,Killiney,Co. Dublin,q3,80%
+11/03/2011,"9 Albany Woods, Shanganagh Road, Killiney",Dublin,335000.0,No,Killiney,Co. Dublin,q1,20%
+25/03/2011,"Miramar, Marino Avenue East, Killiney",Dublin,3000000.0,No,Killiney,Co. Dublin,q4,100%
+31/03/2011,"Valparaiso, Marino Avenue West, Killiney",Dublin,1850000.0,No,Killiney,Co. Dublin,q4,100%
+01/04/2011,"Apt 40  Block B, Killiney Towers, Killiney",Dublin,306000.0,No,Killiney,Co. Dublin,q1,20%
+11/04/2011,"Sans Souci, Killiney Hill Road, Killiney",Dublin,650000.0,No,Killiney,Co. Dublin,q3,70%
+08/06/2011,"Alpha, 24 Bayview Bungalows Killiney Hill, Killiney",Dublin,280000.0,No,Killiney,Co. Dublin,q1,10%
+15/06/2011,"4 Killiney Hill Cottages, Killiney Hill Road, Killiney",Dublin,320000.0,No,Killiney,Co. Dublin,q1,20%
+23/06/2011,"16 Beechcourt, Killiney",Dublin,605000.0,No,Killiney,Co. Dublin,q3,60%
+24/06/2011,"5 Firgrove, Millitary Road, Killiney",Dublin,230000.0,No,Killiney,Co. Dublin,q1,10%
+12/07/2011,"10 Wyvern, Killiney",Dublin,515000.0,No,Killiney,Co. Dublin,q2,50%
+27/07/2011,"39 Auburn Drive, Killiney",Dublin,380000.0,No,Killiney,Co. Dublin,q1,30%
+29/07/2011,"'Knockatana', 14 Killiney Heath, Killiney",Dublin,833400.0,No,Killiney,Co. Dublin,q4,90%
+05/08/2011,"6 Beech Court, Killiney, County Dublin",Dublin,545000.0,No,Killiney,Co. Dublin,q2,50%
+08/08/2011,"14  Glenalua Road, Killiney, Co Dublin",Dublin,255000.0,No,Killiney,Co. Dublin,q1,10%
+12/08/2011,"10 Ballinclea Wood, Killiney",Dublin,425000.0,No,Killiney,Co. Dublin,q2,40%
+16/08/2011,"29 Seafield Court, Off Seafield Road, Killiney",Dublin,306000.0,No,Killiney,Co. Dublin,q1,20%
+29/08/2011,"77 Ballinclea Heights, Killiney",Dublin,530000.0,No,Killiney,Co. Dublin,q2,50%
+01/09/2011,"187 Ballinclea Heights, Killiney",Dublin,300000.0,No,Killiney,Co. Dublin,q1,20%
+01/09/2011,"41 Bayview Drive, Killiney",Dublin,270000.0,No,Killiney,Co. Dublin,q1,10%
+02/09/2011,"12 Cluny Grove, Killiney",Dublin,395000.0,No,Killiney,Co. Dublin,q2,30%
+02/09/2011,"151 Ballinclea Heights, Killiney",Dublin,300000.0,No,Killiney,Co. Dublin,q1,20%
+08/09/2011,"Eagle House, Killiney Village, Killiney",Dublin,325000.0,No,Killiney,Co. Dublin,q1,20%
+08/09/2011,"Marino Lodge, Killiney",Dublin,900000.0,No,Killiney,Co. Dublin,q4,90%
+13/09/2011,"12 Albany Court, Shanganagh Road, Killiney",Dublin,415000.0,No,Killiney,Co. Dublin,q2,30%
+14/09/2011,"St. Arnaud, Killiney Avenue, Killiney",Dublin,1100000.0,No,Killiney,Co. Dublin,q4,100%
+19/09/2011,"10 Streamville Court, Killiney Hill Road, Killiney",Dublin,222500.0,No,Killiney,Co. Dublin,q1,10%
+19/10/2011,"102 Seafield Court, Killiney",Dublin,270000.0,No,Killiney,Co. Dublin,q1,10%
+24/10/2011,"12 Bayview, Killiney Hill Rd, Killiney",Dublin,277000.0,No,Killiney,Co. Dublin,q1,10%
+27/10/2011,"Hideaway, Church Road, Killiney",Dublin,1200000.0,No,Killiney,Co. Dublin,q4,100%
+11/11/2011,"23 Oakdene, Ballinclea Road, Killiney",Dublin,430000.0,No,Killiney,Co. Dublin,q2,40%
+15/11/2011,"Apartment 41, Killiney Towers, Killiney",Dublin,199000.0,No,Killiney,Co. Dublin,q1,10%
+18/11/2011,"36 Oakdene, Killiney",Dublin,525000.0,No,Killiney,Co. Dublin,q2,50%
+28/11/2011,"29 Rock Lodge, Killiney",Dublin,470000.0,No,Killiney,Co. Dublin,q2,40%
+06/12/2011,"50 Castle Court, Killiney Hill Road, Killiney",Dublin,175000.0,No,Killiney,Co. Dublin,q1,10%
+16/12/2011,"1 The Nurseries, Avondale Road, Killiney",Dublin,779000.0,No,Killiney,Co. Dublin,q4,80%
+16/12/2011,"98 Watson Drive, Killiney",Dublin,290000.0,No,Killiney,Co. Dublin,q1,20%
+20/12/2011,"23 Watson Road, Killiney",Dublin,480000.0,No,Killiney,Co. Dublin,q2,40%
+21/12/2011,"40 Bayview Drive, Killiney",Dublin,265000.0,No,Killiney,Co. Dublin,q1,10%
+21/12/2011,"5 Albany Court, Shanganagh Road, Killiney",Dublin,410000.0,No,Killiney,Co. Dublin,q2,30%
+22/12/2011,"18 Domville Grove, Killiney",Dublin,280000.0,No,Killiney,Co. Dublin,q1,10%
+09/01/2012,"57 The Larches, Abberley, Killiney",Dublin,360000.0,No,Killiney,Co. Dublin,q1,30%
+18/01/2012,"Coundon House, Killiney Avenue, Killiney",Dublin,1175000.0,No,Killiney,Co. Dublin,q4,100%
+23/01/2012,"37 Killiney Rd, Killiney",Dublin,385000.0,No,Killiney,Co. Dublin,q2,30%
+25/01/2012,"Apt 54A Killiney Towers, Killiney",Dublin,242500.0,No,Killiney,Co. Dublin,q1,10%
+26/01/2012,"145 Ballinclea Heights, Killiney",Dublin,353000.0,No,Killiney,Co. Dublin,q1,20%
+27/01/2012,"24 Avondale Road, Killiney, Co Dublin",Dublin,400000.0,No,Killiney,Co. Dublin,q2,30%
+03/02/2012,"186 Ballinclea Heights, Killiney",Dublin,340000.0,No,Killiney,Co. Dublin,q1,20%
+03/02/2012,"24  Castle Court, Killiney Hill Road, Killiney",Dublin,182000.0,No,Killiney,Co. Dublin,q1,10%
+08/02/2012,"18 Auburn Drive, Killiney",Dublin,273000.0,No,Killiney,Co. Dublin,q1,10%
+21/02/2012,"7 Rock Lodge, Killiney, Co. Dublin",Dublin,400000.0,No,Killiney,Co. Dublin,q2,30%
+21/02/2012,"97 Ridge Hall, Ballybrack, Killiney",Dublin,165000.0,No,Killiney,Co. Dublin,q1,10%
+22/02/2012,"Harvard, Church Road, Killiney",Dublin,505000.0,No,Killiney,Co. Dublin,q2,50%
+02/03/2012,"27 Watson Road, Killiney",Dublin,435000.0,No,Killiney,Co. Dublin,q2,40%
+02/03/2012,"45 Brackenbush Park, Killiney",Dublin,370000.0,No,Killiney,Co. Dublin,q1,30%
+07/03/2012,"Apartment 1, Killiney Hill Park, Killiney Hill Road",Dublin,175000.0,No,Killiney,Co. Dublin,q1,10%
+14/03/2012,"14A Denville Court, Killiney",Dublin,185000.0,No,Killiney,Co. Dublin,q1,10%
+16/03/2012,"169 Ballinclea Heights, Killiney, Co. Dublin",Dublin,335000.0,No,Killiney,Co. Dublin,q1,20%
+27/03/2012,"Victoria Lodge, Victoria Road, Killiney",Dublin,1775000.0,No,Killiney,Co. Dublin,q4,100%
+28/03/2012,"30 Churchview Road, Killiney, Co. Dublin",Dublin,337783.15,No,Killiney,Co. Dublin,q1,20%
+27/04/2012,"31 Killiney Towers, Killiney",Dublin,200000.0,No,Killiney,Co. Dublin,q1,10%
+01/05/2012,"2 Hill Cottages, Killiney Hill Road, Killiney",Dublin,312000.0,No,Killiney,Co. Dublin,q1,20%
+10/05/2012,"31 Cluny Grove, Killiney",Dublin,590000.0,No,Killiney,Co. Dublin,q3,60%
+11/05/2012,"Rosalgo, Church Road, Killiney",Dublin,425000.0,No,Killiney,Co. Dublin,q2,40%
+18/05/2012,"29 Brookedene, Killiney",Dublin,230000.0,No,Killiney,Co. Dublin,q1,10%
+18/05/2012,"Derriana, Church Road, Killiney",Dublin,425622.0,No,Killiney,Co. Dublin,q2,40%
+28/05/2012,"20 Wyvern, Killiney",Dublin,385000.0,No,Killiney,Co. Dublin,q2,30%
+01/06/2012,"33 Seafield Court, Killiney",Dublin,212000.0,No,Killiney,Co. Dublin,q1,10%
+08/06/2012,"59 Watson Drive, Killiney",Dublin,280000.0,No,Killiney,Co. Dublin,q1,10%
+11/06/2012,"84 Avondale Road, Killiney",Dublin,450000.0,No,Killiney,Co. Dublin,q2,40%
+20/06/2012,"76 Ballinclea Heights, Killiney, County Dublin",Dublin,450000.0,No,Killiney,Co. Dublin,q2,40%
+25/06/2012,"Lyndon, 22 Killiney Road, Killiney",Dublin,630000.0,No,Killiney,Co. Dublin,q3,70%
+28/06/2012,"24A Springhill Park, Killiney",Dublin,442500.0,No,Killiney,Co. Dublin,q2,40%
+29/06/2012,"25 Churchview Drive, Killiney",Dublin,430000.0,No,Killiney,Co. Dublin,q2,40%
+29/06/2012,"9 Anglesey Park, Killiney, Co. Dublin",Dublin,620000.0,No,Killiney,Co. Dublin,q3,60%
+04/07/2012,"1 Willmount Cottages, Glenalua Rd, Killiney",Dublin,345000.0,No,Killiney,Co. Dublin,q1,20%
+05/07/2012,"2 Willmount Cottages, Glenalua Road, Killiney",Dublin,475000.0,No,Killiney,Co. Dublin,q2,40%
+12/07/2012,"Apartment 5, Wyvern House, Killiney",Dublin,300000.0,No,Killiney,Co. Dublin,q1,20%
+17/07/2012,"17 Bayview Park, Killiney",Dublin,251000.0,No,Killiney,Co. Dublin,q1,10%
+20/07/2012,"61 Castlecourt, Killiney",Dublin,240000.0,No,Killiney,Co. Dublin,q1,10%
+23/07/2012,"10 Bayview Crescent, Killiney, Co Dublin",Dublin,207500.0,No,Killiney,Co. Dublin,q1,10%
+24/07/2012,"40 Baywiew Lawns, Killiney",Dublin,210000.0,No,Killiney,Co. Dublin,q1,10%
+30/07/2012,"103 Avondale Road, Killiney",Dublin,440000.0,No,Killiney,Co. Dublin,q2,40%
+13/08/2012,"Heatherly, 18 Killiney Heath, Killiney",Dublin,920000.0,No,Killiney,Co. Dublin,q4,90%
+17/08/2012,"15 Bayview Close, Killiney, Co. Dublin",Dublin,230000.0,No,Killiney,Co. Dublin,q1,10%
+20/08/2012,"1 Albany Court, Killiney",Dublin,521500.0,No,Killiney,Co. Dublin,q2,50%
+21/08/2012,"1 Bayview Crescent, Killiney",Dublin,197500.0,No,Killiney,Co. Dublin,q1,10%
+24/08/2012,"27 Wyvern, Killiney",Dublin,545000.0,No,Killiney,Co. Dublin,q2,50%
+30/08/2012,"10 Carraig Grennane, Killney Avenue, Killiney",Dublin,730000.0,No,Killiney,Co. Dublin,q3,80%
+31/08/2012,"2 Watson Park, Killiney, Co Dublin",Dublin,350000.0,No,Killiney,Co. Dublin,q1,20%
+31/08/2012,"9 Killiney Gate, Killiney",Dublin,515000.0,No,Killiney,Co. Dublin,q2,50%
+04/09/2012,"Eirene, Marino Avenue East, Killiney",Dublin,1350000.0,No,Killiney,Co. Dublin,q4,100%
+05/09/2012,"65 Watson Park, Killiney, Co. Dublin",Dublin,340000.0,No,Killiney,Co. Dublin,q1,20%
+05/09/2012,"Kildoon, Miliatary Road, Killiney",Dublin,1625000.0,No,Killiney,Co. Dublin,q4,100%
+07/09/2012,"1 Wyattville Hill, Killiney",Dublin,260000.0,No,Killiney,Co. Dublin,q1,10%
+10/09/2012,"6 Bayview Lawns, Killiney, Co. Dublin",Dublin,222000.0,No,Killiney,Co. Dublin,q1,10%
+14/09/2012,"22 Firgrove, Off Military Rod, Killiney",Dublin,180000.0,No,Killiney,Co. Dublin,q1,10%
+14/09/2012,"Porziuncola, Ballinclea Road, Killiney",Dublin,550000.0,No,Killiney,Co. Dublin,q2,50%
+20/09/2012,"34 Killiney Heath, Killiney",Dublin,1300000.0,No,Killiney,Co. Dublin,q4,100%
+21/09/2012,"Cuil Aluinn, Killiney Hill Road, Killiney",Dublin,705000.0,No,Killiney,Co. Dublin,q3,80%
+27/09/2012,"24 Bayview Crescent, Killiney",Dublin,240000.0,No,Killiney,Co. Dublin,q1,10%
+27/09/2012,"3 Ballinclea Wood, Killiney, Co Dublin",Dublin,355000.0,No,Killiney,Co. Dublin,q1,30%
+05/10/2012,"26 Auburn Drive, Killiney",Dublin,266500.0,No,Killiney,Co. Dublin,q1,10%
+11/10/2012,"32 Churchview Road, Killiney, County Dublin",Dublin,350000.0,No,Killiney,Co. Dublin,q1,20%
+17/10/2012,"7A Avondale Park, Killiney",Dublin,315000.0,No,Killiney,Co. Dublin,q1,20%
+19/10/2012,"13 Streamville Court, Killiney",Dublin,245000.0,No,Killiney,Co. Dublin,q1,10%
+19/10/2012,"Gorsefield, Glenalua Road, Killiney",Dublin,740000.0,No,Killiney,Co. Dublin,q3,80%
+22/10/2012,"Ivy Cottage, Killiney Hill Road, Killiney",Dublin,380000.0,No,Killiney,Co. Dublin,q1,30%
+26/10/2012,"Brugh Na Carraige, Glenalua Road, Killiney",Dublin,1050000.0,No,Killiney,Co. Dublin,q4,90%
+06/11/2012,"6 Bayview Drive, Killiney",Dublin,280000.0,No,Killiney,Co. Dublin,q1,10%
+09/11/2012,"183 Ballinclea Heights, Killiney",Dublin,453000.0,No,Killiney,Co. Dublin,q2,40%
+09/11/2012,"9A Springhill Park, Killiney, Dublin",Dublin,573062.0,Yes,Killiney,Co. Dublin,q3,60%
+16/11/2012,"29 Watson Road, Killiney, County Dublin",Dublin,442000.0,No,Killiney,Co. Dublin,q2,40%
+16/11/2012,"Susquehanna Mews, Killiney Avenue, Killiney",Dublin,816500.0,No,Killiney,Co. Dublin,q4,90%
+19/11/2012,"5 Coundon Court, Killiney, County Dublin",Dublin,623000.0,No,Killiney,Co. Dublin,q3,60%
+23/11/2012,"21 Killiney Towers, Killiney",Dublin,200000.0,No,Killiney,Co. Dublin,q1,10%
+30/11/2012,"27 Bayview Drive, Killiney",Dublin,335000.0,No,Killiney,Co. Dublin,q1,20%
+30/11/2012,"7 Killiney Oaks, Seafield Road, Killiney",Dublin,310000.0,No,Killiney,Co. Dublin,q1,20%
+30/11/2012,"Cill Aodhan, Seafield Road, Killiney",Dublin,750000.0,No,Killiney,Co. Dublin,q3,80%
+05/12/2012,"66  Thomastown Road, Killiney",Dublin,335000.0,No,Killiney,Co. Dublin,q1,20%
+07/12/2012,"12 Brookdene, Shanaganagh Road, Killiney",Dublin,227500.0,No,Killiney,Co. Dublin,q1,10%
+19/12/2012,"1 Mariposa Cottage, Killiney Hill Road, Killiney",Dublin,210000.0,No,Killiney,Co. Dublin,q1,10%
+21/12/2012,"75 Watson Park, Killiney",Dublin,365000.0,No,Killiney,Co. Dublin,q1,30%
+21/12/2012,"Talbot Mews, Talbot Lane, Killiney",Dublin,502500.0,No,Killiney,Co. Dublin,q2,50%
+11/01/2013,"27 Killiney Towers, Killiney",Dublin,203000.0,No,Killiney,Co. Dublin,q1,10%
+15/01/2013,"31 Killiney Road, Killiney",Dublin,623000.0,No,Killiney,Co. Dublin,q3,60%
+23/01/2013,"34 Oakdene, Killiney, Co Dublin",Dublin,630000.0,No,Killiney,Co. Dublin,q3,70%
+25/01/2013,"Gayfield, Killiney Hill Road, Killiney",Dublin,620000.0,No,Killiney,Co. Dublin,q3,60%
+06/02/2013,"Grianan, Ballinclea Road, Killiney",Dublin,530000.0,No,Killiney,Co. Dublin,q2,50%
+11/02/2013,"1 Cluny Park, Killiney",Dublin,374000.0,No,Killiney,Co. Dublin,q1,30%
+11/02/2013,"5 Bayview Green, Killiney",Dublin,305000.0,No,Killiney,Co. Dublin,q1,20%
+19/02/2013,"1 Emerald Lodge, Shanganagh Road, Killiney",Dublin,220000.0,No,Killiney,Co. Dublin,q1,10%
+19/02/2013,"6 Streamville Court, Killiney",Dublin,227000.0,No,Killiney,Co. Dublin,q1,10%
+25/02/2013,"' Bedford', Killiney Ave, Killiney",Dublin,800000.0,No,Killiney,Co. Dublin,q4,90%
+08/03/2013,"34 Ballinclea Heights, Killiney",Dublin,410000.0,No,Killiney,Co. Dublin,q2,30%
+11/03/2013,"2  Norwood, Shanganagh Road, Killiney",Dublin,225000.0,No,Killiney,Co. Dublin,q1,10%
+19/03/2013,"Apartment 12 Killiney Hill Park, Killiney, Co. Dublin",Dublin,282000.0,No,Killiney,Co. Dublin,q1,20%
+28/03/2013,"1 Brackenbush Park, Killiney",Dublin,355000.0,No,Killiney,Co. Dublin,q1,30%
+22/04/2013,"1 Stoneleigh, St George'S Avenue, Killiney",Dublin,647500.0,No,Killiney,Co. Dublin,q3,70%
+25/04/2013,"Apartment 8  The Court, Station Road, Killiney",Dublin,575000.0,No,Killiney,Co. Dublin,q3,60%
+26/04/2013,"17 Seafield Court, Killiney",Dublin,235000.0,No,Killiney,Co. Dublin,q1,10%
+29/04/2013,"Apartment 5, The Court  Killiney Bay, Killiney",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+27/05/2013,"5 Watson Avenue, Killiney",Dublin,355000.0,No,Killiney,Co. Dublin,q1,30%
+29/05/2013,"28 Beech Court, Killiney, County Dublin",Dublin,570000.0,No,Killiney,Co. Dublin,q3,60%
+31/05/2013,"4 St Matthias Wood, Killiney, Co. Dublin",Dublin,1040000.0,No,Killiney,Co. Dublin,q4,90%
+07/06/2013,"Apartment No. 29, Killiney Towers, Killiney",Dublin,234500.0,No,Killiney,Co. Dublin,q1,10%
+11/06/2013,"20 Firgrove, Military Road, Killiney",Dublin,188000.0,No,Killiney,Co. Dublin,q1,10%
+17/06/2013,"3 Albany Court, Shanganagh Road, Killiney",Dublin,520000.0,No,Killiney,Co. Dublin,q2,50%
+17/06/2013,"6 Bayview Rise, Killiney",Dublin,287000.0,No,Killiney,Co. Dublin,q1,20%
+18/06/2013,"14 Brackenbush Road, Killiney",Dublin,392000.0,No,Killiney,Co. Dublin,q2,30%
+25/06/2013,"7 Denville Court, Killiney",Dublin,215000.0,No,Killiney,Co. Dublin,q1,10%
+26/06/2013,"70 Watson Drive, Killiney",Dublin,425000.0,No,Killiney,Co. Dublin,q2,40%
+28/06/2013,"2 Mount Auburn Ave, Killiney",Dublin,750000.0,No,Killiney,Co. Dublin,q3,80%
+08/07/2013,"70 Watson Park, Killiney, Co Dublin",Dublin,357750.0,No,Killiney,Co. Dublin,q1,30%
+10/07/2013,"18 Killiney Avenue, Killiney",Dublin,628000.0,No,Killiney,Co. Dublin,q3,70%
+16/07/2013,"26 St. Aubyn'S Court, Killiney",Dublin,184500.0,No,Killiney,Co. Dublin,q1,10%
+17/07/2013,"117B Ballinclea Heights, Killiney, Co Dublin",Dublin,320000.0,No,Killiney,Co. Dublin,q1,20%
+22/07/2013,"19 Oak Dene, Ballinclea Road, Killiney",Dublin,500000.0,No,Killiney,Co. Dublin,q2,50%
+23/07/2013,"16 Domville Grove, Killiney",Dublin,175000.0,No,Killiney,Co. Dublin,q1,10%
+25/07/2013,"19 Killiney Heath, Killiney, Co Dublin",Dublin,920000.0,No,Killiney,Co. Dublin,q4,90%
+29/07/2013,"59 Castle Court, Killiney",Dublin,280000.0,No,Killiney,Co. Dublin,q1,10%
+31/07/2013,"San Clemente, Killiney Road, Killiney",Dublin,520000.0,No,Killiney,Co. Dublin,q2,50%
+08/08/2013,"58 Wyvern, Killiney, Co Dublin",Dublin,605000.0,No,Killiney,Co. Dublin,q3,60%
+09/08/2013,"114 The Elms, Abberley  Shanganagh Road, Killiney",Dublin,230000.0,No,Killiney,Co. Dublin,q1,10%
+09/08/2013,"Colhugh, Kilmore Avenue, Killiney",Dublin,975000.0,No,Killiney,Co. Dublin,q4,90%
+23/08/2013,"13 Beech Court, Killiney",Dublin,720000.0,No,Killiney,Co. Dublin,q3,80%
+26/08/2013,"50 Bayview Drive, Killiney",Dublin,353657.0,No,Killiney,Co. Dublin,q1,20%
+26/08/2013,"Cloneevin, Killiney Avenue, Killiney",Dublin,2900000.0,No,Killiney,Co. Dublin,q4,100%
+29/08/2013,"Greensleeves, Seafield Road, Killiney",Dublin,480000.0,No,Killiney,Co. Dublin,q2,40%
+30/08/2013,"3 Killiney Heath, Killiney, County Dublin",Dublin,1250000.0,No,Killiney,Co. Dublin,q4,100%
+17/09/2013,"2 Glenview, Rochestown Avenue, Killiney",Dublin,560000.0,No,Killiney,Co. Dublin,q3,60%
+19/09/2013,"16 The Aspens, Abberley, Killiney",Dublin,230000.0,No,Killiney,Co. Dublin,q1,10%
+26/09/2013,"30 Avondale Crescent, Killiney",Dublin,570000.0,No,Killiney,Co. Dublin,q3,60%
+30/09/2013,"2 Cluny Grove, Killiney",Dublin,695000.0,No,Killiney,Co. Dublin,q3,70%
+02/10/2013,"18 Castle Court, Killiney",Dublin,322000.0,No,Killiney,Co. Dublin,q1,20%
+02/10/2013,"23 Bayview Drive, Killiney",Dublin,405000.0,No,Killiney,Co. Dublin,q2,30%
+11/10/2013,"Gorsefield, Glenalua Road, Killiney",Dublin,1085000.0,No,Killiney,Co. Dublin,q4,90%
+17/10/2013,"9 Beech Court, Killiney",Dublin,700000.0,No,Killiney,Co. Dublin,q3,70%
+18/10/2013,"19 Beech Court, Killiney, County Dublin",Dublin,772000.0,No,Killiney,Co. Dublin,q4,80%
+18/10/2013,"3 Mountainview Road, Killiney",Dublin,298000.0,No,Killiney,Co. Dublin,q1,20%
+18/10/2013,"Laragh Lodge, Killiney Avenue, Killiney",Dublin,735000.0,No,Killiney,Co. Dublin,q3,80%
+25/10/2013,"172 Ballinclea Heights, Killiney, County Dublin",Dublin,490000.0,No,Killiney,Co. Dublin,q2,50%
+31/10/2013,"9 Wyvern, Killiney",Dublin,700000.0,No,Killiney,Co. Dublin,q3,70%
+08/11/2013,"7 Denville Court, Killiney, County Dublin",Dublin,338000.0,No,Killiney,Co. Dublin,q1,20%
+13/11/2013,"Fernside, Killiney Hill Rd, Killiney",Dublin,2075000.0,No,Killiney,Co. Dublin,q4,100%
+14/11/2013,"4 Seafield Court, Killiney",Dublin,452000.0,No,Killiney,Co. Dublin,q2,40%
+26/11/2013,"38 Granitefield Manor, Rochestown Avenue, Killiney",Dublin,250000.0,No,Killiney,Co. Dublin,q1,10%
+02/12/2013,"The Little Peak, Glenalua Rd, Killiney",Dublin,615000.0,No,Killiney,Co. Dublin,q3,60%
+06/12/2013,"Buena Vista, Killiney Hill Road, Killiney",Dublin,1101321.5,No,Killiney,Co. Dublin,q4,100%
+06/12/2013,"Woodfield, Church Road, Killiney",Dublin,525050.0,No,Killiney,Co. Dublin,q2,50%
+09/12/2013,"14 Killiney Towers, Killiney",Dublin,275000.0,No,Killiney,Co. Dublin,q1,10%
+09/12/2013,"5 Brookdene, Killiney",Dublin,285000.0,No,Killiney,Co. Dublin,q1,20%
+10/12/2013,"94 Avondale Rd, Killiney, Dublin",Dublin,548000.0,No,Killiney,Co. Dublin,q2,50%
+10/12/2013,"Hendre, St Georges Avenue, Killiney",Dublin,2200000.0,No,Killiney,Co. Dublin,q4,100%
+12/12/2013,"56 Watson Rd, Killiney",Dublin,511000.0,No,Killiney,Co. Dublin,q2,50%
+13/12/2013,"19 Watson Rd, Killiney, Dublin",Dublin,400000.0,No,Killiney,Co. Dublin,q2,30%
+13/12/2013,"43 Watson Road, Killiney, Co. Dublin",Dublin,345000.0,No,Killiney,Co. Dublin,q1,20%
+13/12/2013,"6 Emerald Lodge, Shanganagh Rd, Killiney",Dublin,230000.0,No,Killiney,Co. Dublin,q1,10%
+13/12/2013,"Arranmore, Church Road, Killiney Dublin",Dublin,480000.0,No,Killiney,Co. Dublin,q2,40%
+13/12/2013,"San Michall, Church Rd, Killiney",Dublin,605000.0,No,Killiney,Co. Dublin,q3,60%
+13/12/2013,"Smallacre, Church Rd, Killiney",Dublin,485000.0,No,Killiney,Co. Dublin,q2,50%
+16/12/2013,"10 Killiney Hill Apartments, Killiney Hill Road, Co. Dublin",Dublin,235000.0,No,Killiney,Co. Dublin,q1,10%
+16/12/2013,"56 Avondale Road, Killiney, Dublin",Dublin,550000.0,No,Killiney,Co. Dublin,q2,50%
+17/12/2013,"191 Ballinclea Heights, Killiney, Dublin",Dublin,540000.0,No,Killiney,Co. Dublin,q2,50%
+17/12/2013,"Aoibhgreine, 37A Ballinclea Heights, Killiney",Dublin,425000.0,No,Killiney,Co. Dublin,q2,40%
+18/12/2013,"29 Bayview Dr, Killiney, Dublin",Dublin,338000.0,No,Killiney,Co. Dublin,q1,20%
+18/12/2013,"Dromeen, Saintbury Avenue, Killiney",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+18/12/2013,"Paddock Wood, Killiney Hill Road, Killiney",Dublin,4000000.0,No,Killiney,Co. Dublin,q4,100%
+20/12/2013,"44 The Hawthorns, Abberley, Killiney",Dublin,255000.0,No,Killiney,Co. Dublin,q1,10%
+20/12/2013,"Middle Abbeylands, Military Rd, Killiney",Dublin,1660000.0,No,Killiney,Co. Dublin,q4,100%
+23/12/2013,"Ashurst, Military Road, Killiney",Dublin,4065000.0,No,Killiney,Co. Dublin,q4,100%
+30/12/2013,"31 Cherrywood, Loughlinstown Dr, Killiney",Dublin,227000.0,No,Killiney,Co. Dublin,q1,10%
+15/01/2014,"20 Rock Lodge, Killiney, Dublin",Dublin,495000.0,No,Killiney,Co. Dublin,q2,50%
+21/01/2014,"31 Watson Ave, Killiney, Dublin",Dublin,417500.0,No,Killiney,Co. Dublin,q2,40%
+21/01/2014,"Harrow House, Balure Lane, Killiney",Dublin,1700000.0,No,Killiney,Co. Dublin,q4,100%
+22/01/2014,"Apartment 14 Newman Block, The Court  Station Road, Killiney",Dublin,625000.0,No,Killiney,Co. Dublin,q3,60%
+24/01/2014,"5 Wanford Close, Killiney, Dublin",Dublin,480000.0,No,Killiney,Co. Dublin,q2,40%
+29/01/2014,"Kaikoura, 11 Strand Rd, Killiney",Dublin,1300000.0,No,Killiney,Co. Dublin,q4,100%
+31/01/2014,"5 Avondale Rd, Killiney, Dublin",Dublin,532500.0,No,Killiney,Co. Dublin,q2,50%
+10/02/2014,"Apt 35 The Court, Station Road, Killiney",Dublin,661674.0,Yes,Killiney,Co. Dublin,q3,70%
+11/02/2014,"61 Seafield Court, Killiney, Dublin",Dublin,350000.0,No,Killiney,Co. Dublin,q1,20%
+13/02/2014,"Bantry, Killiney Ave, Killiney",Dublin,1030000.0,No,Killiney,Co. Dublin,q4,90%
+28/02/2014,"81 The Rowans, Abberley, Killiney",Dublin,265000.0,No,Killiney,Co. Dublin,q1,10%
+11/03/2014,"9 St Aubyns Court, Shanganagh Road, Killiney",Dublin,182000.0,No,Killiney,Co. Dublin,q1,10%
+14/03/2014,"5 Auburn Close, Killiney, Dublin",Dublin,445000.0,No,Killiney,Co. Dublin,q2,40%
+20/03/2014,"40 Abberley, Killiney, Dublin",Dublin,246000.0,No,Killiney,Co. Dublin,q1,10%
+20/03/2014,"7 The Aspens, Shanganagh Rd, Killiney",Dublin,250000.0,No,Killiney,Co. Dublin,q1,10%
+21/03/2014,"112 The Elms, Shanganagh Road, Killiney",Dublin,345000.0,No,Killiney,Co. Dublin,q1,20%
+03/04/2014,"Apartment 8  The Court, Killiney Bay, Killiney",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+11/04/2014,"106 Watson Drive, Killiney",Dublin,407000.0,No,Killiney,Co. Dublin,q2,30%
+11/04/2014,"Knockbrack, Glenalua Rd, Killiney",Dublin,900000.0,No,Killiney,Co. Dublin,q4,90%
+16/04/2014,"25 Killiney Hill Park, Killiney Hill Rd, Killiney",Dublin,390000.0,No,Killiney,Co. Dublin,q2,30%
+25/04/2014,"68 Watson Park, Killiney, Dublin",Dublin,490000.0,No,Killiney,Co. Dublin,q2,50%
+29/04/2014,"Ardan, Vico Rd, Killiney",Dublin,650000.0,No,Killiney,Co. Dublin,q3,70%
+01/05/2014,"Apt 39 The Newman, Killiney Court Apts, Station Rd",Dublin,537478.0,Yes,Killiney,Co. Dublin,q2,50%
+06/05/2014,"80 Churchview Rd, Killiney, Dublin",Dublin,390000.0,No,Killiney,Co. Dublin,q2,30%
+07/05/2014,"63 Watson Rd, Killiney, Dublin",Dublin,565000.0,No,Killiney,Co. Dublin,q3,60%
+14/05/2014,"1 Killiney Hill Cottages, Killiney Hill Rd, Killiney",Dublin,455000.0,No,Killiney,Co. Dublin,q2,40%
+16/05/2014,"Amberley, 2 Killiney Meath, Killiney",Dublin,1000000.0,No,Killiney,Co. Dublin,q4,90%
+19/05/2014,"13 Killiney Court Bay, Station Road, Killiney",Dublin,720000.0,No,Killiney,Co. Dublin,q3,80%
+20/05/2014,"44 Wyvern, Killiney, Dublin",Dublin,750000.0,No,Killiney,Co. Dublin,q3,80%
+21/05/2014,"16 Cluny Grove, Killiney, Dublin",Dublin,830000.0,No,Killiney,Co. Dublin,q4,90%
+21/05/2014,"27 Killiney Rd, Killine, Dublin",Dublin,570000.0,No,Killiney,Co. Dublin,q3,60%
+23/05/2014,"23 Killiney Heath, Killiney",Dublin,250000.0,No,Killiney,Co. Dublin,q1,10%
+23/05/2014,"23 Killiney Heath, Killiney",Dublin,750000.0,No,Killiney,Co. Dublin,q3,80%
+29/05/2014,"Culgrenagh, Rochestown Avenue, Killiney",Dublin,2310000.0,No,Killiney,Co. Dublin,q4,100%
+05/06/2014,"34 Springhill Park, Killiney",Dublin,491000.0,No,Killiney,Co. Dublin,q2,50%
+12/06/2014,"1 Cluny Grove, Killiney, Dublin",Dublin,750000.0,No,Killiney,Co. Dublin,q4,80%
+13/06/2014,"115 Seafield Ct, Seafield Rd, Killiney",Dublin,430000.0,No,Killiney,Co. Dublin,q2,40%
+18/06/2014,"40 Bayview Lawns, Killiney, Dublin",Dublin,385000.0,No,Killiney,Co. Dublin,q2,30%
+20/06/2014,"15 The Aspens, Abberley, Killiney",Dublin,275000.0,No,Killiney,Co. Dublin,q1,10%
+27/06/2014,"22 Glenalua Rd, Killiney, Dublin",Dublin,365000.0,No,Killiney,Co. Dublin,q1,30%
+27/06/2014,"3 Proby Hall, Killiney Rd, Killiney",Dublin,360000.0,No,Killiney,Co. Dublin,q1,30%
+30/06/2014,"162 Ballinclea Heights, Killiney",Dublin,545000.0,No,Killiney,Co. Dublin,q2,50%
+01/07/2014,"Iniscealtra, Killiney Road, Killiney",Dublin,1030000.0,No,Killiney,Co. Dublin,q4,90%
+01/07/2014,"The Chalet, 16 Killiney Rd, Killiney",Dublin,560000.0,No,Killiney,Co. Dublin,q3,60%
+03/07/2014,"18 Ballinclea Heights, Killiney, Dublin",Dublin,485000.0,No,Killiney,Co. Dublin,q2,50%
+07/07/2014,"8 Stoneleigh, St Georges Ave, Killiney",Dublin,575000.0,No,Killiney,Co. Dublin,q3,60%
+15/07/2014,"7 Streamville Court, Killiney Hill Rd, Killiney",Dublin,335000.0,No,Killiney,Co. Dublin,q1,20%
+30/07/2014,"12 Wyattville Park, Loughlinstown, Killiney",Dublin,420000.0,No,Killiney,Co. Dublin,q2,40%
+30/07/2014,"Apt 42 The Newman, Killiney Court Apts, Station Rd",Dublin,720000.0,No,Killiney,Co. Dublin,q3,80%
+31/07/2014,"4 Mount Auburn, Killiney, Auburn",Dublin,840000.0,No,Killiney,Co. Dublin,q4,90%
+01/08/2014,"Rotherwood, 130 Avondale Rd, Killiney Dublin 18",Dublin,645000.0,No,Killiney,Co. Dublin,q3,70%
+01/08/2014,"Springview, Springhill Pk, Killiney",Dublin,659000.0,No,Killiney,Co. Dublin,q3,70%
+11/08/2014,"Buena Vista, Killiney Hill Road, Killiney",Dublin,903854.0,No,Killiney,Co. Dublin,q4,90%
+15/08/2014,"Sans Souci, Killiney Hill Road, Killiney",Dublin,665000.0,No,Killiney,Co. Dublin,q3,70%
+15/08/2014,"Woodfield, Dalkey Ave, Killiney",Dublin,1385000.0,No,Killiney,Co. Dublin,q4,100%
+20/08/2014,"152 Ballinclea Heights, Killiney, Dublin",Dublin,560000.0,No,Killiney,Co. Dublin,q3,60%
+28/08/2014,"Dorset Lodge, Killiney Hill Rd, Killiney",Dublin,3000000.0,No,Killiney,Co. Dublin,q4,100%
+29/08/2014,"49 Wyattville Park, Loughlinstown, Killiney",Dublin,355000.0,No,Killiney,Co. Dublin,q1,30%
+04/09/2014,"Galleen, Marino Ave East, Killiney",Dublin,2200000.0,No,Killiney,Co. Dublin,q4,100%
+05/09/2014,"70 Watson Rd, Killiney, Dublin",Dublin,675000.0,No,Killiney,Co. Dublin,q3,70%
+05/09/2014,"82 The Rowans, Abberley, Killiney",Dublin,237000.0,No,Killiney,Co. Dublin,q1,10%
+18/09/2014,"Glenavon, 4 Avondale Crescent, Killiney",Dublin,711000.0,No,Killiney,Co. Dublin,q3,80%
+19/09/2014,"Apt 4, Killiney Hill Park, Killiney",Dublin,340000.0,No,Killiney,Co. Dublin,q1,20%
+22/09/2014,"83 Watson Dr, Killiney, Dublin",Dublin,473000.0,No,Killiney,Co. Dublin,q2,40%
+03/10/2014,"98 Watson Park, Killiney, Dublin",Dublin,470000.0,No,Killiney,Co. Dublin,q2,40%
+06/10/2014,"Tree Tops, Killiney Hill Rd, Killiney",Dublin,890000.0,No,Killiney,Co. Dublin,q4,90%
+07/10/2014,"52 Bayview Dr, Killiney, Dublin",Dublin,435000.0,No,Killiney,Co. Dublin,q2,40%
+07/10/2014,"8 Ash Hurst, Military Rd, Killiney",Dublin,1500000.0,No,Killiney,Co. Dublin,q4,100%
+07/10/2014,"Woodley, Killiney Ave, Killiney",Dublin,1090000.0,No,Killiney,Co. Dublin,q4,90%
+10/10/2014,"39 Bayview Dr, Killiney, Dublin",Dublin,390000.0,No,Killiney,Co. Dublin,q2,30%
+10/10/2014,"Apartment 34 The Court, Station Road, Killiney",Dublin,616740.0,Yes,Killiney,Co. Dublin,q3,60%
+14/10/2014,"26 Springhill Park, Killiney, Dublin",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+22/10/2014,"27 Wyvern, Killiney, Dublin",Dublin,660000.0,No,Killiney,Co. Dublin,q3,70%
+23/10/2014,"Albany Lodge, Shanganagh Rd, Killiney",Dublin,620000.0,No,Killiney,Co. Dublin,q3,60%
+29/10/2014,"11 Angelsey Park, Killiney, Dublin",Dublin,795000.0,No,Killiney,Co. Dublin,q4,90%
+31/10/2014,"8 Beechwood Lawn, Killiney, Dublin",Dublin,499999.0,No,Killiney,Co. Dublin,q2,50%
+03/11/2014,"14 Mount Auburn, Killiney, Auburn",Dublin,700000.0,No,Killiney,Co. Dublin,q3,70%
+10/11/2014,"Crofton, Killiney Rd, Killiney",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+13/11/2014,"5 Beech Court, Killiney, Dublin",Dublin,725000.0,No,Killiney,Co. Dublin,q3,80%
+14/11/2014,"12 Killiney Towers, Killiney, Dublin",Dublin,340000.0,No,Killiney,Co. Dublin,q1,20%
+14/11/2014,"3 Stoneleigh, St Georges Ave, Killiney",Dublin,660000.0,No,Killiney,Co. Dublin,q3,70%
+21/11/2014,"8 Streamville Court, Killiney Hill Rd, Killiney",Dublin,400000.0,No,Killiney,Co. Dublin,q2,30%
+24/11/2014,"23 Bayview, Killiney, Co Dublin",Dublin,370000.0,No,Killiney,Co. Dublin,q1,30%
+27/11/2014,"Lauriston, Cenacle Grove, Killiney Hill Rd",Dublin,1195000.0,No,Killiney,Co. Dublin,q4,100%
+28/11/2014,"100 Churchview Rd, Killiney, Dublin",Dublin,431000.0,No,Killiney,Co. Dublin,q2,40%
+28/11/2014,"88 Springhill Park, Killiney, Dublin",Dublin,633000.0,No,Killiney,Co. Dublin,q3,70%
+28/11/2014,"9 Bayview Park, Killiney, Dublin",Dublin,411000.0,No,Killiney,Co. Dublin,q2,30%
+01/12/2014,"66 Castle Ct, Killiney Hill Rd, Killiney",Dublin,308500.0,No,Killiney,Co. Dublin,q1,20%
+03/12/2014,"10 Killiney Towers, Killiney, Dublin",Dublin,305000.0,No,Killiney,Co. Dublin,q1,20%
+03/12/2014,"2 Killiney Hill Cottages, Killiney Hill Road, Killiney",Dublin,525000.0,No,Killiney,Co. Dublin,q2,50%
+05/12/2014,"153A Ballinclea Heights, Killiney, Dublin",Dublin,602000.0,No,Killiney,Co. Dublin,q3,60%
+05/12/2014,"Buena Vista, Killiney, Co. Dublin",Dublin,902543.0,No,Killiney,Co. Dublin,q4,90%
+10/12/2014,"12 Avondale Crescent, Killiney, Dublin",Dublin,822800.0,No,Killiney,Co. Dublin,q4,90%
+17/12/2014,"8 Bayview Court, Killiney Hill Rd, Killiney",Dublin,383000.0,No,Killiney,Co. Dublin,q1,30%
+18/12/2014,"19 Seafield Court, Killiney, Dublin",Dublin,430000.0,No,Killiney,Co. Dublin,q2,40%
+18/12/2014,"9 Bayview Cresent, Killiney, Dublin",Dublin,362000.0,No,Killiney,Co. Dublin,q1,30%
+19/12/2014,"47 Churchview Ave, Killiney, Dublin",Dublin,482500.0,No,Killiney,Co. Dublin,q2,50%
+19/12/2014,"Apt 23, The Court, Killiney",Dublin,600300.0,Yes,Killiney,Co. Dublin,q3,60%
+23/12/2014,"6 Cluny Park, Ballinclea Rd, Killiney",Dublin,400000.0,No,Killiney,Co. Dublin,q2,30%
+16/01/2015,"16 Flower Grove, Killiney, Dublin",Dublin,508000.0,No,Killiney,Co. Dublin,q2,50%
+16/01/2015,"19 Domville Grove, Killiney Hill Rd, Killiney",Dublin,345000.0,No,Killiney,Co. Dublin,q1,20%
+20/01/2015,"Apt 49, Killiney Hill Park, Killiney",Dublin,315000.0,No,Killiney,Co. Dublin,q1,20%
+26/01/2015,"11 Bayview Bungalows, Killiney Hill Rd, Killiney",Dublin,555000.0,No,Killiney,Co. Dublin,q3,60%
+26/01/2015,"26 Coundon Court, Killiney",Dublin,700000.0,No,Killiney,Co. Dublin,q3,70%
+26/01/2015,"Rockwinds, Church Rd, Killiney",Dublin,1010000.0,No,Killiney,Co. Dublin,q4,90%
+29/01/2015,"Belmont Lodge, Ballinclea Road, Killiney",Dublin,625000.0,No,Killiney,Co. Dublin,q3,60%
+04/02/2015,"Strathmore House And Gate Lodge, Strathmore Road, Killiney  Co. Dublin",Dublin,7500000.0,No,Killiney,Co. Dublin,q4,100%
+17/02/2015,"52 Watson Park, Killiney, Co Dublin",Dublin,482500.0,No,Killiney,Co. Dublin,q2,50%
+18/02/2015,"20 Rock Lodge, Killiney",Dublin,835000.0,No,Killiney,Co. Dublin,q4,90%
+19/02/2015,"28 Thomastown Road, Killiney",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+19/02/2015,"The Chalet, 16 Killiney Rd, Killiney",Dublin,830000.0,No,Killiney,Co. Dublin,q4,90%
+20/02/2015,"10 Killiney Court, Seafield Road, Killiney",Dublin,190000.0,No,Killiney,Co. Dublin,q1,10%
+20/02/2015,"3 Seafield Court, Killiney, Dublin",Dublin,520000.0,No,Killiney,Co. Dublin,q2,50%
+26/02/2015,"63 Castle Court, Killiney Hill Rd, Killiney",Dublin,320000.0,No,Killiney,Co. Dublin,q1,20%
+02/03/2015,"6 Auburn Dr, Killiney, Dublin",Dublin,512500.0,No,Killiney,Co. Dublin,q2,50%
+04/03/2015,"12 Watson Ave, Killiney, Dublin",Dublin,492500.0,No,Killiney,Co. Dublin,q2,50%
+11/03/2015,"10 Seafield Rd, Killiney, Dublin",Dublin,750000.0,No,Killiney,Co. Dublin,q4,80%
+19/03/2015,"53 Bayview Dr, Killiney, Dublin",Dublin,400000.0,No,Killiney,Co. Dublin,q2,30%
+27/03/2015,"10 Churchview Rd, Killiney, Dublin",Dublin,700000.0,No,Killiney,Co. Dublin,q3,70%
+01/04/2015,"4 Killiney Towers, Killiney Rd, Killiney",Dublin,310000.0,No,Killiney,Co. Dublin,q1,20%
+17/04/2015,"64 Churchview Rd, Killiney, Dublin",Dublin,495000.0,No,Killiney,Co. Dublin,q2,50%
+17/04/2015,"76 Churchview Rd, Killiney, Dublin",Dublin,430000.0,No,Killiney,Co. Dublin,q2,40%
+21/04/2015,"Bramley, Killiney Hill Road, Killiney",Dublin,700000.0,No,Killiney,Co. Dublin,q3,70%
+23/04/2015,"Heathcrest, Glenalua Rd, Killiney",Dublin,970000.0,No,Killiney,Co. Dublin,q4,90%
+30/04/2015,"119 The Sycamores, Shanganagh Rd, Killiney",Dublin,303000.0,No,Killiney,Co. Dublin,q1,20%
+01/05/2015,"10 Bayview Grove, Killiney, Dublin",Dublin,386000.0,No,Killiney,Co. Dublin,q2,30%
+01/05/2015,"4 Oakdene, Ballinclea Rd, Killiney",Dublin,683000.0,No,Killiney,Co. Dublin,q3,70%
+14/05/2015,"8 Bayview Crescent, Killiney, Co Dublin",Dublin,387000.0,No,Killiney,Co. Dublin,q2,30%
+14/05/2015,"Apt 6 The Court Killiney Bay, Station Rd, Killiney",Dublin,400000.0,No,Killiney,Co. Dublin,q2,30%
+22/05/2015,"3 Mountainview Road, Killiney, Co Dublin",Dublin,357500.0,No,Killiney,Co. Dublin,q1,30%
+25/05/2015,"57 Churchview Ave, Killiney, Dublin",Dublin,480000.0,No,Killiney,Co. Dublin,q2,40%
+27/05/2015,"12 Bayview Crescent, Killiney, Dublin",Dublin,380000.0,No,Killiney,Co. Dublin,q1,30%
+05/06/2015,"Nirvana, Ballinclea Rd, Killiney",Dublin,850000.0,No,Killiney,Co. Dublin,q4,90%
+08/06/2015,"10 Cluny Grove, Killiney, Dublin",Dublin,186000.0,No,Killiney,Co. Dublin,q1,10%
+16/06/2015,"69 Ballinclea Heights, Killiney, Dublin",Dublin,696000.0,No,Killiney,Co. Dublin,q3,70%
+19/06/2015,"4 Thomastown Rd, Killiney, Dublin",Dublin,475000.0,No,Killiney,Co. Dublin,q2,40%
+22/06/2015,"31 Churchview Park, Killiney, Co Dublin",Dublin,575000.0,No,Killiney,Co. Dublin,q3,60%
+29/06/2015,"15 Beech Court, Ballinclea Rd, Killiney",Dublin,905000.0,No,Killiney,Co. Dublin,q4,90%
+29/06/2015,"59 Seafield Court, Killiney, Dublin",Dublin,410000.0,No,Killiney,Co. Dublin,q2,30%
+03/07/2015,"3 Nurney Lodge, Shanganagh Rd, Killiney",Dublin,422000.0,No,Killiney,Co. Dublin,q2,40%
+06/07/2015,"Abberley 105 The Willows, Shanganah Rd, Killiney",Dublin,277000.0,No,Killiney,Co. Dublin,q1,10%
+10/07/2015,"3 Churchview Park, Killiney, Dublin",Dublin,585000.0,No,Killiney,Co. Dublin,q3,60%
+15/07/2015,"3 Montclair, Claremont Road, Killiney",Dublin,1123348.0,Yes,Killiney,Co. Dublin,q4,100%
+16/07/2015,"16 Bayview Court, Killiney Hill Rd, Killiney",Dublin,393000.0,No,Killiney,Co. Dublin,q2,30%
+23/07/2015,"3 Avondale Rd, Killiney, Dublin",Dublin,605000.0,No,Killiney,Co. Dublin,q3,60%
+29/07/2015,"13 Coundon Court, Killiney",Dublin,900000.0,No,Killiney,Co. Dublin,q4,90%
+29/07/2015,"Mayfield, 66 Killiney Rd, Killiney",Dublin,597000.0,No,Killiney,Co. Dublin,q3,60%
+30/07/2015,"Tenerife, Glenalua Rd, Killiney",Dublin,1100000.0,No,Killiney,Co. Dublin,q4,100%
+31/07/2015,"Stone Cottage, 6A Glenalua Rd, Killiney",Dublin,295000.0,No,Killiney,Co. Dublin,q1,20%
+07/08/2015,"7 Cluny Grove, Killiney, Dublin",Dublin,795000.0,No,Killiney,Co. Dublin,q4,90%
+11/08/2015,"97 Avondale Rd, Killiney, Co Dublin",Dublin,737500.0,No,Killiney,Co. Dublin,q3,80%
+14/08/2015,"10 Brackenbush Park, Killiney, Dublin",Dublin,470000.0,No,Killiney,Co. Dublin,q2,40%
+17/08/2015,"46A Seafield Court, Killiney, Dublin",Dublin,505000.0,No,Killiney,Co. Dublin,q2,50%
+02/09/2015,"Hillside, 60 Watson Dr, Killiney",Dublin,480000.0,No,Killiney,Co. Dublin,q2,40%
+04/09/2015,"7A Avondale Park, Killiney, Dublin",Dublin,560000.0,No,Killiney,Co. Dublin,q3,60%
+04/09/2015,"9 Carraig Grennane, Killiney Ave, Killiney",Dublin,810000.0,No,Killiney,Co. Dublin,q4,90%
+11/09/2015,"Abbeylands, Marino Avenue West, Killiney",Dublin,2490000.0,No,Killiney,Co. Dublin,q4,100%
+16/09/2015,"73 Springhill Park, Killiney, Dublin",Dublin,684000.0,No,Killiney,Co. Dublin,q3,70%
+18/09/2015,"55 Seafield Court, Killiney, Dublin",Dublin,403000.0,No,Killiney,Co. Dublin,q2,30%
+23/09/2015,"Salerno, Military Rd, Killiney",Dublin,30000.0,No,Killiney,Co. Dublin,q1,10%
+24/09/2015,"Abbey Lodge, Marino Ave West, Killiney",Dublin,1280000.0,No,Killiney,Co. Dublin,q4,100%
+25/09/2015,"140 Seafield Court, Killiney, Dublin",Dublin,542500.0,No,Killiney,Co. Dublin,q2,50%
+25/09/2015,"Lissadell, 35 Killiney Meath, Killiney",Dublin,960000.0,No,Killiney,Co. Dublin,q4,90%
+30/09/2015,"19 Killiney Court, Seafield Rd, Killiney",Dublin,200000.0,No,Killiney,Co. Dublin,q1,10%
+30/09/2015,"Apt 43, Killiney Court, Killiney",Dublin,760000.0,No,Killiney,Co. Dublin,q4,80%
+02/10/2015,"18 Beech Court, Killiney, Dublin",Dublin,845000.0,No,Killiney,Co. Dublin,q4,90%
+02/10/2015,"69 Watson Dr, Killiney, Dublin",Dublin,537500.0,No,Killiney,Co. Dublin,q2,50%
+07/10/2015,"6 Watson Ave, Killiney, Dublin",Dublin,455000.0,No,Killiney,Co. Dublin,q2,40%
+09/10/2015,"72 Springhill Park, Killiney, Dublin",Dublin,640000.0,No,Killiney,Co. Dublin,q3,70%
+15/10/2015,"Briar Hill, Church Rd, Killiney",Dublin,1350000.0,No,Killiney,Co. Dublin,q4,100%
+19/10/2015,"22 Springhill Park, Killiney",Dublin,570000.0,No,Killiney,Co. Dublin,q3,60%
+19/10/2015,"96 Watson Drive, Killiney, Co Dublin",Dublin,470000.0,No,Killiney,Co. Dublin,q2,40%
+23/10/2015,"23 Seafield Court, Killiney, Dublin",Dublin,425000.0,No,Killiney,Co. Dublin,q2,40%
+23/10/2015,"Salerno, Military Road, Killiney",Dublin,2200000.0,No,Killiney,Co. Dublin,q4,100%
+02/11/2015,"6 St Aubyns Court, Shanganagh Rd, Killiney",Dublin,280000.0,No,Killiney,Co. Dublin,q1,20%
+09/11/2015,"Lotherien, Military Rd, Killiney",Dublin,1685000.0,No,Killiney,Co. Dublin,q4,100%
+20/11/2015,"4 Cluny Manor, Avondale Road, Killiney",Dublin,759911.89,Yes,Killiney,Co. Dublin,q4,80%
+27/11/2015,"Kenah Hill, St Georges Avenue, Killiney",Dublin,9000000.0,No,Killiney,Co. Dublin,q4,100%
+08/12/2015,"63 Watson Drive, Killiney, Co. Dublin",Dublin,462500.0,No,Killiney,Co. Dublin,q2,40%
+10/12/2015,"8 Shanganagh Terrace, Killiney",Dublin,740000.0,No,Killiney,Co. Dublin,q3,80%
+11/12/2015,"101 Wyattville Park, Ballybrack, Killiney",Dublin,425000.0,No,Killiney,Co. Dublin,q2,40%
+11/12/2015,"23 Ballinclea Heights, Killiney, Co Dublin",Dublin,535000.0,No,Killiney,Co. Dublin,q2,50%
+18/12/2015,"19 Oakdene, Ballinclea Rd, Killiney",Dublin,557000.0,No,Killiney,Co. Dublin,q3,60%
+18/12/2015,"3 Shanganagh Terrace, Killiney Hill Road, Killiney",Dublin,710000.0,No,Killiney,Co. Dublin,q3,80%
+22/12/2015,"1 Eagle House, Killiney Village, Killiney",Dublin,750000.0,No,Killiney,Co. Dublin,q4,80%
+22/12/2015,"1 Whitethorn, Balure Lane, Killiney",Dublin,1555000.0,No,Killiney,Co. Dublin,q4,100%
+23/12/2015,"40 Killiney Hill Park, Killiney, Dublin",Dublin,200000.0,No,Killiney,Co. Dublin,q1,10%
+25/01/2016,"Cromlech Lodge, 17 Shanganagh Rd, Killiney",Dublin,395000.0,No,Killiney,Co. Dublin,q2,30%
+27/01/2016,"12 Avondale Rd, Killiney, Dublin",Dublin,642635.0,No,Killiney,Co. Dublin,q3,70%
+28/01/2016,"Mount Prospect, Killiney Hill Road, Killiney",Dublin,1925000.0,No,Killiney,Co. Dublin,q4,100%
+29/01/2016,"60 Avondale Rd, Killiney, Dublin",Dublin,695000.0,No,Killiney,Co. Dublin,q3,70%
+29/01/2016,"Enneirda, Killiney Road",Dublin,680000.0,No,Killiney,Co. Dublin,q3,70%
+01/02/2016,"12 Coundon Court, Killiney Ave, Killiney",Dublin,900000.0,No,Killiney,Co. Dublin,q4,90%
+01/02/2016,"Springhill House, Springhill Park, Killiney",Dublin,999000.0,No,Killiney,Co. Dublin,q4,90%
+05/02/2016,"5A Albany Court, Killiney, Dublin",Dublin,550000.0,No,Killiney,Co. Dublin,q2,50%
+18/02/2016,"101 The Willows, Abberley, Killiney",Dublin,330000.0,No,Killiney,Co. Dublin,q1,20%
+26/02/2016,"2 Druids Wood, Ballinclea Heights, Killiney",Dublin,710000.0,No,Killiney,Co. Dublin,q3,80%
+29/02/2016,"60 Thomastown Rd, Killiney, Dublin",Dublin,615000.0,No,Killiney,Co. Dublin,q3,60%
+01/03/2016,"2 Cluny Park, Killiney, Dublin",Dublin,352500.0,No,Killiney,Co. Dublin,q1,20%
+03/03/2016,"4 Albany Lodge, Shanganagh Road, Killiney",Dublin,488986.0,Yes,Killiney,Co. Dublin,q2,50%
+22/03/2016,"40 Oak Dene, Killiney, Dublin",Dublin,695000.0,No,Killiney,Co. Dublin,q3,70%
+30/03/2016,"11 Cluny Grove, Killiney, Co Dublin",Dublin,620000.0,No,Killiney,Co. Dublin,q3,60%
+01/04/2016,"34 Oakdene, Ballinclea Rd, Killiney",Dublin,695000.0,No,Killiney,Co. Dublin,q3,70%
+27/04/2016,"68 Seafield Court, Killiney, Dublin",Dublin,371000.0,No,Killiney,Co. Dublin,q1,30%
+29/04/2016,"60 Auburn Road, Killiney, Co Dublin",Dublin,403000.0,No,Killiney,Co. Dublin,q2,30%
+29/04/2016,"Percy Lodge, Killiney Hill Rd, Killiney",Dublin,2400000.0,No,Killiney,Co. Dublin,q4,100%
+04/05/2016,"5A Ashurst, Killiney, Co. Dublin",Dublin,1395000.0,Yes,Killiney,Co. Dublin,q4,100%
+04/05/2016,"Santon, 39 Killiney Rd, Killiney",Dublin,735000.0,No,Killiney,Co. Dublin,q3,80%
+09/05/2016,"12 Watson Rd, Killiney, Dublin",Dublin,620000.0,No,Killiney,Co. Dublin,q3,60%
+11/05/2016,"25 Avondale Rd, Killiney, Dublin",Dublin,700000.0,No,Killiney,Co. Dublin,q3,70%
+11/05/2016,"52 Hawthorns, Abberley, Killiney",Dublin,299000.0,No,Killiney,Co. Dublin,q1,20%
+12/05/2016,"29A Bayview Glade, Killiney, Dublin",Dublin,385000.0,No,Killiney,Co. Dublin,q2,30%
+13/05/2016,"50 Springhill Park, Killiney, Dublin",Dublin,550000.0,No,Killiney,Co. Dublin,q2,50%
+20/05/2016,"2 Mont Clare, Clarmount Road, Killiney",Dublin,1350000.0,No,Killiney,Co. Dublin,q4,100%
+20/05/2016,"92 Seafield Court, Seafield Rd, Killiney",Dublin,483000.0,No,Killiney,Co. Dublin,q2,50%
+24/05/2016,"130 Seafield Court, Killiney, Dublin 6",Dublin,432500.0,No,Killiney,Co. Dublin,q2,40%
+24/05/2016,"3 Claremont Grove, Killiney, Dublin",Dublin,625000.0,No,Killiney,Co. Dublin,q3,70%
+25/05/2016,"Bremac, St Georges Ave, Killiney",Dublin,2200000.0,No,Killiney,Co. Dublin,q4,100%
+03/06/2016,"5 Talbot Rd, Killiney, Dublin",Dublin,301000.0,No,Killiney,Co. Dublin,q1,20%
+09/06/2016,"20 Domville Grove, Killiney Hill Rd, Killiney",Dublin,323000.0,No,Killiney,Co. Dublin,q1,20%
+23/06/2016,"27 Castle Court, Killiney Hill Rd, Killiney",Dublin,300000.0,No,Killiney,Co. Dublin,q1,20%
+23/06/2016,"33 The Court, Station Rd, Killiney",Dublin,875000.0,No,Killiney,Co. Dublin,q4,90%
+24/06/2016,"1 Domville Grove, Killiney Hill Rd, Killiney",Dublin,485000.0,No,Killiney,Co. Dublin,q2,50%
+04/07/2016,"28 Watson Ave, Killiney, Dublin",Dublin,555000.0,No,Killiney,Co. Dublin,q3,60%
+05/07/2016,"1 Firgrove, Military Rd, Killiney",Dublin,385000.0,No,Killiney,Co. Dublin,q2,30%
+05/07/2016,"12 Mount Auburn, Killiney Rd, Killiney",Dublin,750000.0,No,Killiney,Co. Dublin,q4,80%
+06/07/2016,"24A Beech Court, Killiney, Dublin",Dublin,745000.0,No,Killiney,Co. Dublin,q3,80%
+14/07/2016,"10 Cluny Manor, Avondale Road, Killiney",Dublin,627753.3,Yes,Killiney,Co. Dublin,q3,70%
+15/07/2016,"1 Killiney Hill Cottages, Killiney Hill Rd, Killiney",Dublin,495000.0,No,Killiney,Co. Dublin,q2,50%
+15/07/2016,"113 Ballinclea Heights, Killiney, Dublin",Dublin,610000.0,No,Killiney,Co. Dublin,q3,60%
+18/07/2016,"Apt 7 Killiney Court, Station Rd, Dublin",Dublin,650000.0,No,Killiney,Co. Dublin,q3,70%
+22/07/2016,"17 Bayview Close, Killiney, Dublin",Dublin,375000.0,No,Killiney,Co. Dublin,q1,30%
+27/07/2016,"65 Avondale Rd, Killiney, Dublin",Dublin,765000.0,No,Killiney,Co. Dublin,q4,80%
+29/07/2016,"24 Bayview Dr, Killiney, Dublin",Dublin,370000.0,No,Killiney,Co. Dublin,q1,30%
+02/08/2016,"3 Nurney Lodge, Shanganagh Rd, Killiney",Dublin,460000.0,No,Killiney,Co. Dublin,q2,40%
+04/08/2016,"31 Flower Grove, Killiney, Dublin",Dublin,625000.0,No,Killiney,Co. Dublin,q3,70%
+05/08/2016,"41 Ballinclea Heights, Killiney, Dublin",Dublin,627500.0,No,Killiney,Co. Dublin,q3,70%
+05/08/2016,"6 Streamville Court, Killiney Hill Rd, Killiney",Dublin,309000.0,No,Killiney,Co. Dublin,q1,20%
+08/08/2016,"10 Streamville Court, Killiney Hill Rd, Killiney",Dublin,320000.0,No,Killiney,Co. Dublin,q1,20%
+08/08/2016,"86 Ballinclea Heights, Killiney, Dublin",Dublin,735000.0,No,Killiney,Co. Dublin,q3,80%
+19/08/2016,"91 Seafield Court, Killiney, Dublin",Dublin,445000.0,No,Killiney,Co. Dublin,q2,40%
+23/08/2016,"22 Rock Lodge, Killiney, Dublin",Dublin,570000.0,No,Killiney,Co. Dublin,q3,60%
+25/08/2016,"Ama Lur 6 Ash Hurst, Military Rd, Killiney",Dublin,1270000.0,No,Killiney,Co. Dublin,q4,100%
+30/08/2016,"19 Killiney Ave, Killiney, Dublin",Dublin,925000.0,No,Killiney,Co. Dublin,q4,90%
+07/09/2016,"58 Castle Court, Killiney, Dublin",Dublin,290000.0,No,Killiney,Co. Dublin,q1,20%
+07/09/2016,"6 Cluny Manor, Avondale Road, Killiney",Dublin,660793.0,Yes,Killiney,Co. Dublin,q3,70%
+07/09/2016,"6 Killiney Court, Seafield Rd, Killiney",Dublin,205000.0,No,Killiney,Co. Dublin,q1,10%
+08/09/2016,"2 Albany Lodge, Shanganagh Road, Killiney",Dublin,506608.0,Yes,Killiney,Co. Dublin,q2,50%
+16/09/2016,"22 Watson Dr, Killiney, Dublin",Dublin,525000.0,No,Killiney,Co. Dublin,q2,50%
+16/09/2016,"37 Castle Court, Killiney Hill Rd, Killiney",Dublin,305000.0,No,Killiney,Co. Dublin,q1,20%
+22/09/2016,"2 Balure  Balure Lane, Church Road, Killiney",Dublin,1330396.0,Yes,Killiney,Co. Dublin,q4,100%
+23/09/2016,"51 Killiney Towers, Killiney Rd, Killiney",Dublin,347000.0,No,Killiney,Co. Dublin,q1,20%
+30/09/2016,"12 Bayview Lawns, Killiney, Dublin",Dublin,380000.0,No,Killiney,Co. Dublin,q1,30%
+30/09/2016,"5 Cluny Manor, Avondale Road, Killiney",Dublin,660792.95,Yes,Killiney,Co. Dublin,q3,70%
+30/09/2016,"66 Watson Dr, Killiney, Dublin",Dublin,750000.0,No,Killiney,Co. Dublin,q4,80%
+07/10/2016,"14 Beech Court, Killiney, Dublin",Dublin,790000.0,No,Killiney,Co. Dublin,q4,80%
+14/10/2016,"67 Ralahine, Killiney, Dublin",Dublin,355000.0,No,Killiney,Co. Dublin,q1,30%
+21/10/2016,"25 Castle Court, Killiney Hill Rd, Killiney",Dublin,340000.0,No,Killiney,Co. Dublin,q1,20%
+21/10/2016,"Woodbine Cottage, Glenalua Rd, Killiney",Dublin,570000.0,No,Killiney,Co. Dublin,q3,60%
+27/10/2016,"3 Albany Lodge, Shanganagh Road, Killiney",Dublin,495595.0,Yes,Killiney,Co. Dublin,q2,50%
+27/10/2016,"37 Springhill Park, Killiney, Dublin",Dublin,705000.0,No,Killiney,Co. Dublin,q3,80%
+04/11/2016,"15 Laragh, Killiney Ave, Killiney",Dublin,480000.0,No,Killiney,Co. Dublin,q2,40%
+18/11/2016,"Woodbank, St Georges Ave, Killiney",Dublin,1675000.0,No,Killiney,Co. Dublin,q4,100%
+24/11/2016,"9 Killiney Heath, Killiney, Co Dublin",Dublin,1400000.0,No,Killiney,Co. Dublin,q4,100%
+28/11/2016,"15 Norwood, Ballybrack, Killiney",Dublin,340000.0,No,Killiney,Co. Dublin,q1,20%
+29/11/2016,"63 Brackenbush Park, Killiney, Dublin",Dublin,495000.0,No,Killiney,Co. Dublin,q2,50%
+01/12/2016,"35 Ballinclea Heights, Killiney, Dublin",Dublin,655000.0,No,Killiney,Co. Dublin,q3,70%
+02/12/2016,"9 Cluny Manor, Avondale Road, Killiney",Dublin,750000.0,Yes,Killiney,Co. Dublin,q4,80%
+05/12/2016,"88 Ballinclea Heights, Killiney, Dublin",Dublin,740000.0,No,Killiney,Co. Dublin,q3,80%
+06/12/2016,"28 Killiney Towers, Killiney Rd, Killiney",Dublin,350000.0,No,Killiney,Co. Dublin,q1,20%
+07/12/2016,"10 Killiney Ave, Killiney, Dublin",Dublin,810000.0,No,Killiney,Co. Dublin,q4,90%
+07/12/2016,"15 Firgrove, Military Rd, Killiney",Dublin,255000.0,No,Killiney,Co. Dublin,q1,10%
+08/12/2016,"3 Killiney Ave, Killiney, Dublin",Dublin,810000.0,No,Killiney,Co. Dublin,q4,90%
+08/12/2016,"32 Bayview Lawns, Killiney, Dublin",Dublin,370000.0,No,Killiney,Co. Dublin,q1,30%
+08/12/2016,"Mews No2, Dalkey Manor, Killiney Road",Dublin,625000.0,Yes,Killiney,Co. Dublin,q3,70%
+09/12/2016,"Dunloe, Killiney Gove, Killiney",Dublin,680000.0,No,Killiney,Co. Dublin,q3,70%
+13/12/2016,"7 Cluny Manor, Avondale Road, Killiney",Dublin,660792.95,Yes,Killiney,Co. Dublin,q3,70%
+16/12/2016,"73 Watson Park, Killiney, Dublin",Dublin,480000.0,No,Killiney,Co. Dublin,q2,40%
+16/12/2016,"Apt 2 Killiney Hill Plaza, Killiney Hill Road, Killiney",Dublin,410000.0,No,Killiney,Co. Dublin,q2,30%
+19/12/2016,"1 Cluny Manor, Avondale Road, Killiney",Dublin,792900.0,Yes,Killiney,Co. Dublin,q4,80%
+19/12/2016,"Killiney Lodge, Seafield Rd, Killiney",Dublin,1850000.0,No,Killiney,Co. Dublin,q4,100%
+22/12/2016,"3 Cluny Manor, Avondale Road, Killiney",Dublin,748898.67,Yes,Killiney,Co. Dublin,q3,80%
+22/12/2016,"35 Wyvern, Killiney Rd, Killiney",Dublin,812000.0,No,Killiney,Co. Dublin,q4,90%
+22/12/2016,"6 Glenalua Terrace, Glenalua Rd, Killiney",Dublin,620000.0,No,Killiney,Co. Dublin,q3,60%
+30/12/2016,"Carillon, Church Rd, Killiney",Dublin,975000.0,No,Killiney,Co. Dublin,q4,90%
+16/01/2017,"Carraig Mews, Strand Rd, Killiney",Dublin,780000.0,No,Killiney,Co. Dublin,q4,80%
+19/01/2017,"21 Churchview Ave, Killiney, Dublin",Dublin,625000.0,No,Killiney,Co. Dublin,q3,70%
+20/01/2017,"58 Auburn Rd, Killiney, Dublin",Dublin,665000.0,No,Killiney,Co. Dublin,q3,70%
+27/01/2017,"2 Mountain Villa, Church Rd, Killiney",Dublin,567500.0,No,Killiney,Co. Dublin,q3,60%
+31/01/2017,"Glenaire, 3 Coundon Court, Killiney Ave",Dublin,800000.0,No,Killiney,Co. Dublin,q4,90%
+01/02/2017,"Mews No. 1, Dalkey Manor, Killiney Road",Dublin,528634.0,Yes,Killiney,Co. Dublin,q2,50%
+03/02/2017,"64 Watson Dr, Killiney, Dublin",Dublin,500000.0,No,Killiney,Co. Dublin,q2,50%
+08/02/2017,"Laragh, Ballinclea Rd, Killiney",Dublin,700000.0,No,Killiney,Co. Dublin,q3,70%
+16/02/2017,"2 Cluny Manor, Avondale Road, Killiney",Dublin,749899.0,Yes,Killiney,Co. Dublin,q3,80%
+17/02/2017,"75 Avondale Rd, Killiney, Dublin",Dublin,650000.0,No,Killiney,Co. Dublin,q3,70%
+17/02/2017,"The Yellow House, Strand Rd, Killiney",Dublin,1900000.0,No,Killiney,Co. Dublin,q4,100%
+24/02/2017,"1 Carraig Grennane, Killiney Avenue, Killiney",Dublin,905000.0,No,Killiney,Co. Dublin,q4,90%
+03/03/2017,"Battleford, Church Rd, Killiney",Dublin,1370000.0,No,Killiney,Co. Dublin,q4,100%
+07/03/2017,"5 Killiney Gate, Church Rd, Killiney",Dublin,650000.0,No,Killiney,Co. Dublin,q3,70%
+10/03/2017,"7 Proby Hall, Killiney Rd, Killiney",Dublin,350000.0,No,Killiney,Co. Dublin,q1,20%
+30/03/2017,"47 Killiney Hill Park, Killiney, Dublin",Dublin,425000.0,No,Killiney,Co. Dublin,q2,40%
+06/04/2017,"100 Seafield Court, Killiney, Dublin",Dublin,426000.0,No,Killiney,Co. Dublin,q2,40%
+19/04/2017,"126 Avondale Rd, Killiney, Dublin",Dublin,765000.0,No,Killiney,Co. Dublin,q4,80%
+24/04/2017,"79 Seafield Court, Killiney, Co Dublin",Dublin,431000.0,No,Killiney,Co. Dublin,q2,40%
+25/04/2017,"26 The Beeches, Abberley, Killiney",Dublin,375000.0,No,Killiney,Co. Dublin,q1,30%
+26/04/2017,"29 Bayview Glade, Killiney, Dublin",Dublin,415000.0,No,Killiney,Co. Dublin,q2,30%
+26/04/2017,"4 Bayview Dr, Killiney Hill Rd, Killiney",Dublin,505000.0,No,Killiney,Co. Dublin,q2,50%
+08/05/2017,"32 Glenavon Park, Killiney, Dublin",Dublin,263000.0,No,Killiney,Co. Dublin,q1,10%
+26/05/2017,"1 Albany Lodge, Killiney Hill Road, Killiney",Dublin,907489.0,Yes,Killiney,Co. Dublin,q4,90%
+26/05/2017,"10 Killiney Court, Seafield Road, Killiney",Dublin,220000.0,No,Killiney,Co. Dublin,q1,10%
+02/06/2017,"49 Castle Court, Killiney Hill Rd, Killiney",Dublin,387000.0,No,Killiney,Co. Dublin,q2,30%
+06/06/2017,"20 Killiney Gate, Church Rd, Killiney",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+06/06/2017,"29 St Aubyns Court, Shanganagh Rd, Killiney",Dublin,387500.0,No,Killiney,Co. Dublin,q2,30%
+07/06/2017,"Steeplewood, Killiney Ave, Killiney",Dublin,2825000.0,No,Killiney,Co. Dublin,q4,100%
+09/06/2017,"Waterdale, Kilmore Abbey, Killiney",Dublin,625000.0,No,Killiney,Co. Dublin,q3,70%
+15/06/2017,"Edernish, Military Rd, Killiney",Dublin,915000.0,No,Killiney,Co. Dublin,q4,90%
+19/06/2017,"40 Wyvern, Killiney, Dublin",Dublin,830000.0,No,Killiney,Co. Dublin,q4,90%
+19/06/2017,"Secrora, Killiney Hill Rd, Killiney",Dublin,1750000.0,No,Killiney,Co. Dublin,q4,100%
+23/06/2017,"2 Emerald Lodge, Shanganagh Rd, Killiney",Dublin,326000.0,No,Killiney,Co. Dublin,q1,20%
+30/06/2017,"21 Rock Lodge, Killiney, Dublin",Dublin,690000.0,No,Killiney,Co. Dublin,q3,70%
+30/06/2017,"71 Auburn Dr, Killiney, Dublin",Dublin,645000.0,No,Killiney,Co. Dublin,q3,70%
+30/06/2017,"The Beach House, Strathmore Road, Killiney",Dublin,1400000.0,No,Killiney,Co. Dublin,q4,100%
+04/07/2017,"59 Wyvern, Killiney Rd, Killiney",Dublin,750000.0,No,Killiney,Co. Dublin,q4,80%
+07/07/2017,"3 Broadlands, Ballinclea Road, Killiney",Dublin,740087.0,Yes,Killiney,Co. Dublin,q3,80%
+07/07/2017,"5A Springhill Park, Killiney",Dublin,748898.0,Yes,Killiney,Co. Dublin,q3,80%
+07/07/2017,"5B Springhill Park, Killiney",Dublin,726873.0,Yes,Killiney,Co. Dublin,q3,80%
+10/07/2017,"Gorse Hill, Vico Rd, Killiney",Dublin,9500000.0,No,Killiney,Co. Dublin,q4,100%
+13/07/2017,"11 Cluny Manor, Avondale Road, Killiney",Dublin,682820.0,Yes,Killiney,Co. Dublin,q3,70%
+20/07/2017,"7 Brackenbush Rd, Killiney, Dublin",Dublin,542000.0,No,Killiney,Co. Dublin,q2,50%
+26/07/2017,"18 Bayview Court, Killiney, Dublin",Dublin,394000.0,No,Killiney,Co. Dublin,q2,30%
+28/07/2017,"123 Ballinclea Heights, Killiney, Dublin",Dublin,580000.0,No,Killiney,Co. Dublin,q3,60%
+28/07/2017,"Springhill House, Springhill Park, Killiney",Dublin,735682.82,Yes,Killiney,Co. Dublin,q3,80%
+01/08/2017,"110 Churchview Rd, Killiney, Dublin",Dublin,465000.0,No,Killiney,Co. Dublin,q2,40%
+01/08/2017,"6 Mount Auburn, Killiney Rd, Killiney",Dublin,740000.0,No,Killiney,Co. Dublin,q3,80%
+01/08/2017,"67 Watson Rd, Killiney, Dublin",Dublin,695000.0,No,Killiney,Co. Dublin,q3,70%
+01/08/2017,"8 Glenalua Terrace, Glenalua Rd, Killiney",Dublin,477500.0,No,Killiney,Co. Dublin,q2,40%
+03/08/2017,"5 Laragh, Killiney Ave, Killiney",Dublin,495000.0,No,Killiney,Co. Dublin,q2,50%
+03/08/2017,"82 Church View Rd, Killiney, Dublin",Dublin,466000.0,No,Killiney,Co. Dublin,q2,40%
+04/08/2017,"14 Brackenbush Park, Killiney, Dublin",Dublin,518000.0,No,Killiney,Co. Dublin,q2,50%
+04/08/2017,"61 Auburn Dr, Killiney, Dublin",Dublin,140000.0,No,Killiney,Co. Dublin,q1,10%
+04/08/2017,"Garrison Cottage, Strand Road, Killiney",Dublin,750000.0,No,Killiney,Co. Dublin,q4,80%
+04/08/2017,"Garrison Cottage, Strand Road, Killiney",Dublin,50000.0,No,Killiney,Co. Dublin,q1,10%
+11/08/2017,"12 Glenalua Rd, Killiney, Dublin",Dublin,405000.0,No,Killiney,Co. Dublin,q2,30%
+16/08/2017,"Chalfont, Glenalua Rd, Killiney",Dublin,520000.0,No,Killiney,Co. Dublin,q2,50%
+17/08/2017,"17 Brackenbush Rd, Killiney, Dublin",Dublin,528000.0,No,Killiney,Co. Dublin,q2,50%
+17/08/2017,"84 Springhill Park, Killiney, Co Dublin",Dublin,625000.0,No,Killiney,Co. Dublin,q3,70%
+18/08/2017,"15 Churchview Park, Killiney, Co Dublin",Dublin,595000.0,No,Killiney,Co. Dublin,q3,60%
+22/08/2017,"188 Ballinclea Heights, Killiney, Dublin",Dublin,640000.0,No,Killiney,Co. Dublin,q3,70%
+24/08/2017,"45B Killiney Hill Rd, Killiney, Dublin",Dublin,1120000.0,No,Killiney,Co. Dublin,q4,100%
+28/08/2017,"7B Coundon Court, Killiney Ave, Killiney",Dublin,685000.0,No,Killiney,Co. Dublin,q3,70%
+01/09/2017,"3 Ashurst, Military Rd, Killiney",Dublin,1090000.0,No,Killiney,Co. Dublin,q4,90%
+06/09/2017,"5D  Springhill Park, Killiney, Co. Dublin",Dublin,788546.25,Yes,Killiney,Co. Dublin,q4,80%
+07/09/2017,"Laragh House Killiney Ave, Killiney, Dublin",Dublin,1850000.0,No,Killiney,Co. Dublin,q4,100%
+26/09/2017,"45A Killiney Hill Rd, Killiney, Dublin",Dublin,1168000.0,No,Killiney,Co. Dublin,q4,100%
+29/09/2017,"8 Broadlands, Ballinclea Road, Killiney",Dublin,777547.36,Yes,Killiney,Co. Dublin,q4,80%
+04/10/2017,"10 Norwood, Killiney, Dublin",Dublin,360000.0,No,Killiney,Co. Dublin,q1,30%
+04/10/2017,"11 The Aspens, Abberley, Killiney",Dublin,345000.0,No,Killiney,Co. Dublin,q1,20%
+10/10/2017,"Tall Trees, Killiney Ave, Dublin",Dublin,950000.0,No,Killiney,Co. Dublin,q4,90%
+18/10/2017,"Kilda Lodge, St Georges Avenue, Killiney",Dublin,805000.0,No,Killiney,Co. Dublin,q4,90%
+24/10/2017,"11 Bayview Crescent, Killiney, Dublin",Dublin,435000.0,No,Killiney,Co. Dublin,q2,40%
+24/10/2017,"4 Anglesea Park, Killiney, Dublin",Dublin,770000.0,No,Killiney,Co. Dublin,q4,80%
+26/10/2017,"1 Bayview Glen, Killiney, Dublin",Dublin,440000.0,No,Killiney,Co. Dublin,q2,40%
+31/10/2017,"5 Balure, Church Road, Killiney",Dublin,1409691.6,Yes,Killiney,Co. Dublin,q4,100%
+01/11/2017,"85 Ballinclea Hts, Killiney, Dublin",Dublin,700000.0,No,Killiney,Co. Dublin,q3,80%
+02/11/2017,"21 Seafield Court, Killiney, Dublin",Dublin,460000.0,No,Killiney,Co. Dublin,q2,40%
+08/11/2017,"10 Dalkey Manor, Killiney Road, Killiney",Dublin,903084.0,Yes,Killiney,Co. Dublin,q4,90%
+10/11/2017,"9 Broadlands, Ballinclea Rd, Killiney",Dublin,748898.67,Yes,Killiney,Co. Dublin,q3,80%
+13/11/2017,"10 Cluny Manor, Avondale Road, Killiney",Dublin,765000.0,Yes,Killiney,Co. Dublin,q4,80%
+14/11/2017,"120 Seafield Court, Killiney, Dublin",Dublin,420000.0,No,Killiney,Co. Dublin,q2,40%
+17/11/2017,"14 St Aubyns Court, Shanganagh Rd, Killiney",Dublin,367500.0,No,Killiney,Co. Dublin,q1,30%
+17/11/2017,"69 Bayview Dr, Killiney, Dublin",Dublin,440000.0,No,Killiney,Co. Dublin,q2,40%
+21/11/2017,"40 Wyattville Park, Killiney, Dublin",Dublin,470000.0,No,Killiney,Co. Dublin,q2,40%
+21/11/2017,"Maple Lodge, Killiney Rd, Killiney",Dublin,1450000.0,No,Killiney,Co. Dublin,q4,100%
+22/11/2017,"10 Broadlands, Ballinclea Road, Killiney",Dublin,740088.0,Yes,Killiney,Co. Dublin,q3,80%
+28/11/2017,"St Catherines, 42 Killiney Rd, Killiney",Dublin,975000.0,No,Killiney,Co. Dublin,q4,90%
+29/11/2017,"6 Broadlands, Ballinclea Road, Killiney",Dublin,764689.97,Yes,Killiney,Co. Dublin,q4,80%
+29/11/2017,"Tedburn, Claremont Rd, Killiney",Dublin,1300000.0,No,Killiney,Co. Dublin,q4,100%
+04/12/2017,"15 The Court Killiney Bay, Station Rd, Killiney",Dublin,840000.0,No,Killiney,Co. Dublin,q4,90%
+04/12/2017,"9 Avondale Crescent, Killiney, Dublin",Dublin,855000.0,No,Killiney,Co. Dublin,q4,90%
+05/12/2017,"Hillside House, Killiney Hill Rd, Killiney",Dublin,2000000.0,No,Killiney,Co. Dublin,q4,100%
+07/12/2017,"9A Springhill Park, Killiney, Dublin",Dublin,850000.0,No,Killiney,Co. Dublin,q4,90%
+08/12/2017,"7  Dalky Manor, Killiney   Road, Dalky",Dublin,819383.0,Yes,Killiney,Co. Dublin,q4,90%
+08/12/2017,"Ballybrack House, Military Rd, Killiney",Dublin,1350000.0,No,Killiney,Co. Dublin,q4,100%
+11/12/2017,"106 Seafield Court, Killiney, Dublin",Dublin,485000.0,No,Killiney,Co. Dublin,q2,50%
+12/12/2017,"14 Granville Close, Killiney, Dublin",Dublin,594000.0,No,Killiney,Co. Dublin,q3,60%
+13/12/2017,"Latton, 21 Killiney Ave, Killiney",Dublin,1850000.0,No,Killiney,Co. Dublin,q4,100%
+14/12/2017,"Noel Lodge, Church Rd, Killiney",Dublin,1200000.0,No,Killiney,Co. Dublin,q4,100%
+19/12/2017,"4 Proby Hall, Killiney Rd, Killiney",Dublin,416000.0,No,Killiney,Co. Dublin,q2,40%
+20/12/2017,"2 Bayview Lawns, Killiney, Dublin",Dublin,566500.0,No,Killiney,Co. Dublin,q3,60%
+21/12/2017,"Killiney House And Other, Killiney Hill Rd, Killiney",Dublin,3900000.0,No,Killiney,Co. Dublin,q4,100%
+15/01/2018,"3 Denville Court, Killiney, Dublin",Dublin,453400.0,No,Killiney,Co. Dublin,q2,40%
+19/01/2018,"4 Bayview Rise, Killiney, Dublin",Dublin,513000.0,No,Killiney,Co. Dublin,q2,50%
+19/01/2018,"Southway, 23 Avondale Rd, Killiney",Dublin,690000.0,No,Killiney,Co. Dublin,q3,70%
+25/01/2018,"1 Churchview Dr, Killiney, Dublin",Dublin,695000.0,No,Killiney,Co. Dublin,q3,70%
+26/01/2018,"1  Broadlands, Ballinclea Road, Killiney",Dublin,872247.0,Yes,Killiney,Co. Dublin,q4,90%
+26/01/2018,"12 Wyvern, Killiney, Dublin",Dublin,612000.0,No,Killiney,Co. Dublin,q3,60%
+30/01/2018,"41 Bayview Dr, Killiney, Dublin",Dublin,500000.0,No,Killiney,Co. Dublin,q2,50%
+30/01/2018,"90 Watson Dr, Killiney, Dublin",Dublin,525000.0,No,Killiney,Co. Dublin,q2,50%
+31/01/2018,"2 Broadlands, Ballinclea Road, Killiney",Dublin,837004.4,Yes,Killiney,Co. Dublin,q4,90%
+01/02/2018,"8 Killiney Towers, Killiney, Dublin",Dublin,390000.0,No,Killiney,Co. Dublin,q2,30%
+02/02/2018,"99 Watson Dr, Killiney, Dublin",Dublin,540000.0,No,Killiney,Co. Dublin,q2,50%
+09/02/2018,"22 Drumkeen Manor, Rochestown Ave, Killiney",Dublin,475000.0,No,Killiney,Co. Dublin,q2,40%
+13/02/2018,"4 Broadlands, Killiney, Co. Dublin",Dublin,776888.47,Yes,Killiney,Co. Dublin,q4,80%
+14/02/2018,"The Moorings, Glenalua Rd, Killiney",Dublin,1200000.0,No,Killiney,Co. Dublin,q4,100%
+19/02/2018,"104 Seafield Court, Seafield Rd, Killiney",Dublin,450000.0,No,Killiney,Co. Dublin,q2,40%
+20/02/2018,"44 Bayview Dr, Killiney Hill Rd, Killiney",Dublin,450000.0,No,Killiney,Co. Dublin,q2,40%
+07/03/2018,"7 Broadlands, Ballinclea Road, Killiney",Dublin,762115.0,Yes,Killiney,Co. Dublin,q4,80%
+08/03/2018,"10 Laragh, Killiney Ave, Killiney",Dublin,450000.0,No,Killiney,Co. Dublin,q2,40%
+15/03/2018,"12 Brookdene, Shanaganagh Rd, Killiney",Dublin,440000.0,No,Killiney,Co. Dublin,q2,40%
+23/03/2018,"11 St Aubyns Court, Shanganagh Rd, Killiney",Dublin,297500.0,No,Killiney,Co. Dublin,q1,20%
+26/03/2018,"32 Rock Lodge, Killiney Hill Rd Killiney, Dublin",Dublin,896500.0,No,Killiney,Co. Dublin,q4,90%
+05/04/2018,"68A Avondale Rd, Killiney, Dublin",Dublin,675000.0,No,Killiney,Co. Dublin,q3,70%
+13/04/2018,"Hayfield, Church Rd, Killiney",Dublin,1500000.0,No,Killiney,Co. Dublin,q4,100%
+16/04/2018,"33 Rock Lodge, Killiney, Dublin",Dublin,780000.0,No,Killiney,Co. Dublin,q4,80%
+24/04/2018,"114 Church View Rd, Killiney, Dublin",Dublin,550000.0,No,Killiney,Co. Dublin,q2,50%
+27/04/2018,"20 Oak Dene, Ballinclea Rd, Killiney",Dublin,635000.0,No,Killiney,Co. Dublin,q3,70%
+15/05/2018,"Rockall, Glenalua Heights, Killiney",Dublin,730000.0,No,Killiney,Co. Dublin,q3,80%
+17/05/2018,"20 Broadlands, Ballinclea Road, Killiney",Dublin,788546.0,Yes,Killiney,Co. Dublin,q4,80%
+22/05/2018,"6 Killiney Gate, Church Rd, Killiney",Dublin,675000.0,No,Killiney,Co. Dublin,q3,70%
+23/05/2018,"18 Broadlands, Ballinclea Road, Killiney",Dublin,674174.0,Yes,Killiney,Co. Dublin,q3,70%
+28/05/2018,"81 Avondale Rd, Killiney, Dublin",Dublin,700000.0,No,Killiney,Co. Dublin,q3,80%
+29/05/2018,"66 Ennel Court, Ballybrack, Killiney",Dublin,325000.0,No,Killiney,Co. Dublin,q1,20%
+01/06/2018,"107 Watson Dr, Killiney, Dublin",Dublin,118750.0,No,Killiney,Co. Dublin,q1,10%
+07/06/2018,"12 Albany, Killiney Hill Road, Killney",Dublin,1038000.0,Yes,Killiney,Co. Dublin,q4,90%
+07/06/2018,"19 Bayview Park, Killiney, Dublin",Dublin,555000.0,No,Killiney,Co. Dublin,q3,60%
+08/06/2018,"17 Glenalua Rd, Killiney, Dublin",Dublin,450000.0,No,Killiney,Co. Dublin,q2,40%
+12/06/2018,"19 Broadlands, Ballinclea Road, Killiney",Dublin,660793.0,Yes,Killiney,Co. Dublin,q3,70%
+12/06/2018,"Glenomra, Killiney Grove, Killiney",Dublin,810000.0,No,Killiney,Co. Dublin,q4,90%
+15/06/2018,"15 Broadlands, Killiney, Co. Dublin",Dublin,647577.08,Yes,Killiney,Co. Dublin,q3,70%
+15/06/2018,"Apartment 2, Verona Seafield Road, Killiney",Dublin,787500.0,No,Killiney,Co. Dublin,q4,80%
+18/06/2018,"Apt 21 The Newman, Killiney Court Apts, Station Rd",Dublin,840000.0,No,Killiney,Co. Dublin,q4,90%
+21/06/2018,"1 Seafield Court, Killiney, Dublin",Dublin,535000.0,No,Killiney,Co. Dublin,q2,50%
+21/06/2018,"5 Ballinclea Heights, Killiney, Co Dublin",Dublin,485000.0,No,Killiney,Co. Dublin,q2,50%
+21/06/2018,"77 Watson Dr, Killiney, Dublin",Dublin,532000.0,No,Killiney,Co. Dublin,q2,50%
+21/06/2018,"Fernside Mews, Killiney Hill Rd, Killiney",Dublin,907500.0,No,Killiney,Co. Dublin,q4,90%
+25/06/2018,"17 Broadlands, Ballinclea Road, Killiney",Dublin,660792.94,Yes,Killiney,Co. Dublin,q3,70%
+25/06/2018,"4 Watson Drive, Killiney, Co Dublin",Dublin,492500.0,No,Killiney,Co. Dublin,q2,50%
+02/07/2018,"16 Broadlands  Ballinclea Road, Killiney",Dublin,660792.0,Yes,Killiney,Co. Dublin,q3,70%
+05/07/2018,"59 Watson Rd, Killiney, Dublin",Dublin,730000.0,No,Killiney,Co. Dublin,q3,80%
+10/07/2018,"24 St Aubyns Court, Shanganagh Rd, Killiney",Dublin,345000.0,No,Killiney,Co. Dublin,q1,20%
+11/07/2018,"14 Broadlands, Ballinclea Road, Killiney",Dublin,801762.11,Yes,Killiney,Co. Dublin,q4,90%
+12/07/2018,"46 Avondale Rd, Killiney, Dublin",Dublin,725000.0,No,Killiney,Co. Dublin,q3,80%
+16/07/2018,"26 Cromlech Fields, Ballybrack, Killiney",Dublin,307500.0,No,Killiney,Co. Dublin,q1,20%
+24/07/2018,"2 Denville Ct, Church Rd, Killiney",Dublin,116667.0,No,Killiney,Co. Dublin,q1,10%
+24/07/2018,"2 Denville Ct, Church Rd, Killiney",Dublin,116667.0,No,Killiney,Co. Dublin,q1,10%
+24/07/2018,"Hendre, St Georges Avenue, Killiney",Dublin,3707700.0,No,Killiney,Co. Dublin,q4,100%
+26/07/2018,"138 Ballinclea Height, Killiney, Co Dublin",Dublin,545000.0,No,Killiney,Co. Dublin,q2,50%
+26/07/2018,"Giverny, Marino Ave East, Killiney",Dublin,2810000.0,No,Killiney,Co. Dublin,q4,100%
+27/07/2018,"Apt 4, Wyvern House, Killiney",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+30/07/2018,"12 Broadlands, Ballinclea Road, Killiney",Dublin,757709.0,Yes,Killiney,Co. Dublin,q4,80%
+03/08/2018,"55 Watson Park, Killiney, Dublin",Dublin,590000.0,No,Killiney,Co. Dublin,q3,60%
+03/08/2018,"9 Springhill Park, Killiney, Co Dublin",Dublin,935005.0,No,Killiney,Co. Dublin,q4,90%
+15/08/2018,"11 Watson Park, Killiney, Dublin",Dublin,565000.0,No,Killiney,Co. Dublin,q3,60%
+17/08/2018,"11 Broadlands, Ballinclea Road, Killiney",Dublin,829137.88,Yes,Killiney,Co. Dublin,q4,90%
+18/08/2018,"42 Killiney Hill Park, Killiney, Co Dublin",Dublin,353000.0,No,Killiney,Co. Dublin,q1,20%
+22/08/2018,"59 Castle Court, Killiney, Dublin",Dublin,345000.0,No,Killiney,Co. Dublin,q1,20%
+22/08/2018,"Denecroft, Ballinclea Road, Killiney",Dublin,965000.0,No,Killiney,Co. Dublin,q4,90%
+27/08/2018,"13 Broadlands, Ballinclea Road, Killiney",Dublin,762114.53,Yes,Killiney,Co. Dublin,q4,80%
+31/08/2018,"51 Churchview Ave, Killiney, Dublin",Dublin,608000.0,No,Killiney,Co. Dublin,q3,60%
+03/09/2018,"24A Springhill Park, Killiney, Co Dublin",Dublin,800000.0,No,Killiney,Co. Dublin,q4,90%
+03/09/2018,"6 Killiney Ave, Killiney, Dublin",Dublin,740000.0,No,Killiney,Co. Dublin,q3,80%
+06/09/2018,"97 Ballinclea Heights, Killiney, Dublin",Dublin,780000.0,No,Killiney,Co. Dublin,q4,80%
+14/09/2018,"117 The Sycamores, Abberley, Killiney",Dublin,339000.0,No,Killiney,Co. Dublin,q1,20%
+19/09/2018,"61 Castle Court, Killiney",Dublin,400000.0,No,Killiney,Co. Dublin,q2,30%
+19/09/2018,"Apt 40 The Deane, Killiney Court Apts, Station Rd",Dublin,1100000.0,Yes,Killiney,Co. Dublin,q4,100%
+01/10/2018,"69 Watson Dr, Killiney, Dublin",Dublin,590000.0,No,Killiney,Co. Dublin,q3,60%
+01/10/2018,"7 Seafield Court, Killiney, Co Dublin",Dublin,515000.0,No,Killiney,Co. Dublin,q2,50%
+02/10/2018,"9 Wanford Close, Killiney, Dublin",Dublin,550000.0,No,Killiney,Co. Dublin,q2,50%
+05/10/2018,"9 Killiney Towers, Killiney, Dublin",Dublin,365000.0,No,Killiney,Co. Dublin,q1,30%
+11/10/2018,"24 Beech Court, Ballinclea Rd, Killiney",Dublin,775000.0,No,Killiney,Co. Dublin,q4,80%
+12/10/2018,"The Neale, Killiney Hill Rd, Killiney",Dublin,1000000.0,No,Killiney,Co. Dublin,q4,90%
+15/10/2018,"Tanglewood, Military Rd, Killiney",Dublin,2200000.0,No,Killiney,Co. Dublin,q4,100%
+18/10/2018,"9 Albany Lodge, Killiney Hill Road, Killiney",Dublin,801762.0,Yes,Killiney,Co. Dublin,q4,90%
+22/10/2018,"Helm Crag, Killiney Rd, Killiney",Dublin,760000.0,No,Killiney,Co. Dublin,q4,80%
+08/11/2018,"61 Watson Rd, Killiney, Dublin",Dublin,765000.0,No,Killiney,Co. Dublin,q4,80%
+09/11/2018,"6 The Nurseries, Avondale Rd, Killiney",Dublin,920000.0,No,Killiney,Co. Dublin,q4,90%
+12/11/2018,"112 Seafield Court, Killiney, Dublin",Dublin,546000.0,No,Killiney,Co. Dublin,q2,50%
+22/11/2018,"2 Killiney Hill Cottages, Killiney Hill Road, Killiney",Dublin,675000.0,No,Killiney,Co. Dublin,q3,70%
+22/11/2018,"9 Killiney Gate, Church Rd, Killiney",Dublin,660000.0,No,Killiney,Co. Dublin,q3,70%
+22/11/2018,"Apt 32 Killiney Towers, Killiney Rd, Killiney",Dublin,463000.0,No,Killiney,Co. Dublin,q2,40%
+28/11/2018,"21 Broadlands, Ballinclea Road, Killiney",Dublin,788546.0,Yes,Killiney,Co. Dublin,q4,80%
+30/11/2018,"23 Broadlands, Ballinclea Road, Killiney",Dublin,762115.0,Yes,Killiney,Co. Dublin,q4,80%
+30/11/2018,"26 Broadlands, Ballinclea Road, Killiney",Dublin,568281.0,Yes,Killiney,Co. Dublin,q3,60%
+30/11/2018,"5 Albany Lodge, Killiney Hill Road, Killiney",Dublin,788546.0,Yes,Killiney,Co. Dublin,q4,80%
+03/12/2018,"Greenoge, Killiney Rd, Killiney",Dublin,1080000.0,No,Killiney,Co. Dublin,q4,90%
+04/12/2018,"24 Broadlands, Ballinclea Road, Killiney",Dublin,634361.24,Yes,Killiney,Co. Dublin,q3,70%
+05/12/2018,"22 Broadlands, Ballinclea Road, Killiney",Dublin,643171.81,Yes,Killiney,Co. Dublin,q3,70%
+10/12/2018,"5 Broadlands, Killiney",Dublin,656387.66,Yes,Killiney,Co. Dublin,q3,70%
+10/12/2018,"Apt 7 Killiney Hill Park, Killiney Hill Road, Killiney",Dublin,435000.0,No,Killiney,Co. Dublin,q2,40%
+14/12/2018,"Briar Hill, Church Rd, Killiney",Dublin,2300000.0,No,Killiney,Co. Dublin,q4,100%
+18/12/2018,"46 Bayview Dr, Killiney, Dublin",Dublin,434000.0,No,Killiney,Co. Dublin,q2,40%
+19/12/2018,"11 Domville Grove, Killiney Hill Rd, Killiney Dublin",Dublin,530000.0,No,Killiney,Co. Dublin,q2,50%
+19/12/2018,"25 Broadlands, Ballinclea Road, Killiney",Dublin,782042.0,Yes,Killiney,Co. Dublin,q4,80%
+20/12/2018,"27 Broadlands, Ballinclea Road, Killiney",Dublin,559471.3,Yes,Killiney,Co. Dublin,q3,60%
+20/12/2018,"Ballybrack House, Military Rd, Killiney",Dublin,220000.0,No,Killiney,Co. Dublin,q1,10%
+28/01/2019,"104 Avondale Road, Killiney, Co Dublin",Dublin,605000.0,No,Killiney,Co. Dublin,q3,60%
+01/02/2019,"60 Seafield Court, Killiney, Dublin",Dublin,510000.0,No,Killiney,Co. Dublin,q2,50%
+01/02/2019,"Apartment 25, Block D Killiney Towers, Killiney",Dublin,359500.0,No,Killiney,Co. Dublin,q1,30%
+05/02/2019,"Cromlech Cottage, Killiney Hill Road, Killiney",Dublin,1450000.0,No,Killiney,Co. Dublin,q4,100%
+11/02/2019,"2 Coundon Court, Killiney Ave, Killiney",Dublin,780000.0,No,Killiney,Co. Dublin,q4,80%
+12/02/2019,"Amberley, 2 Killiney Meath, Killiney",Dublin,1300000.0,No,Killiney,Co. Dublin,q4,100%
+21/02/2019,"29 Castlecourt, Killiney, Dublin",Dublin,350000.0,No,Killiney,Co. Dublin,q1,20%
+25/02/2019,"28 Broadlands, Ballinclea Road, Killiney",Dublin,577093.0,Yes,Killiney,Co. Dublin,q3,60%
+26/02/2019,"2 The Aspens, Abberley, Killiney",Dublin,395000.0,No,Killiney,Co. Dublin,q2,30%
+05/03/2019,"Saintbury, Saintbury Ave, Killiney",Dublin,2275000.0,No,Killiney,Co. Dublin,q4,100%
+12/03/2019,"35 Bayview Dr, Killiney, Dublin",Dublin,425000.0,No,Killiney,Co. Dublin,q2,40%
+22/03/2019,"49 Avondale Rd, Killiney, Dublin",Dublin,640000.0,No,Killiney,Co. Dublin,q3,70%
+22/03/2019,"Lynbank, Killiney Hill Rd, Killiney",Dublin,1850000.0,No,Killiney,Co. Dublin,q4,100%
+27/03/2019,"10 Denville Court, Killiney, Dublin",Dublin,360000.0,No,Killiney,Co. Dublin,q1,30%
+27/03/2019,"1A Seafield Rd, Killiney, Dublin",Dublin,862500.0,No,Killiney,Co. Dublin,q4,90%
+01/04/2019,"22 Oakdene, Ballinclea Rd, Killiney",Dublin,615000.0,No,Killiney,Co. Dublin,q3,60%
+05/04/2019,"Desmar, 15 Wyvern Estate, Killiney",Dublin,615000.0,No,Killiney,Co. Dublin,q3,60%
+10/04/2019,"25 Killiney Court, Seafield Rd, Killiney",Dublin,245000.0,No,Killiney,Co. Dublin,q1,10%
+17/04/2019,"7 Balure, Church Road, Killiney",Dublin,1431718.0,Yes,Killiney,Co. Dublin,q4,100%
+18/04/2019,"4 Ashurst, Military Rd, Killiney",Dublin,1345000.0,No,Killiney,Co. Dublin,q4,100%
+24/04/2019,"2 Brackenbush Rd, Killiney, Dublin",Dublin,612000.0,No,Killiney,Co. Dublin,q3,60%
+25/04/2019,"26 Beechcourt, Killiney, Dublin",Dublin,770000.0,No,Killiney,Co. Dublin,q4,80%
+25/04/2019,"Apt 27 The Newman, Killiney Court Apts, Station Rd",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+29/04/2019,"22 Coundon Court, Killiney, Dublin",Dublin,1390000.0,No,Killiney,Co. Dublin,q4,100%
+01/05/2019,"2 Castle Court, Killiney Hill Road, Killiney",Dublin,370000.0,No,Killiney,Co. Dublin,q1,30%
+03/05/2019,"26 Killiney Towers, Killiney Rd, Killiney",Dublin,370000.0,No,Killiney,Co. Dublin,q1,30%
+08/05/2019,"16 Bayview Court, Killiney Hill Rd, Killiney",Dublin,470000.0,No,Killiney,Co. Dublin,q2,40%
+10/05/2019,"7 Carraig Grennane, Killiney Ave, Killiney",Dublin,815000.0,No,Killiney,Co. Dublin,q4,90%
+17/05/2019,"46 Brackenbush Rd, Killiney, Dublin",Dublin,562000.0,No,Killiney,Co. Dublin,q3,60%
+23/05/2019,"3 Bayview Rise, Killiney, Dublin",Dublin,425000.0,No,Killiney,Co. Dublin,q2,40%
+31/05/2019,"Bayview, Killiney Hill Road, Killiney",Dublin,325000.0,No,Killiney,Co. Dublin,q1,20%
+06/06/2019,"16 Brackenbush Park, Killiney, Dublin",Dublin,550000.0,No,Killiney,Co. Dublin,q3,60%
+12/06/2019,"44 Springhill Park, Killiney, Dublin",Dublin,712500.0,No,Killiney,Co. Dublin,q3,80%
+17/06/2019,"158 Ballinclea Heights, Killiney, Dublin",Dublin,610000.0,No,Killiney,Co. Dublin,q3,60%
+01/07/2019,"Balcraggan, Ballinclea Road, Killiney",Dublin,775000.0,No,Killiney,Co. Dublin,q4,80%
+03/07/2019,"3 Cluny Park, Killiney, Co Dublin",Dublin,565000.0,No,Killiney,Co. Dublin,q3,60%
+05/07/2019,"13 Glenalua Terrace, Killiney, Co Dublin",Dublin,350000.0,No,Killiney,Co. Dublin,q1,20%
+05/07/2019,"25 Firgrove, Military Rd, Killiney",Dublin,462500.0,No,Killiney,Co. Dublin,q2,40%
+06/07/2019,"7 Oakdene, Ballinclea Road, Killiney",Dublin,785000.0,No,Killiney,Co. Dublin,q4,80%
+09/07/2019,"Willow Lodge, Denacle Grove, Killiney",Dublin,1300000.0,No,Killiney,Co. Dublin,q4,100%
+10/07/2019,"7 Killiney Avenue, Killiney, Co Dublin",Dublin,880000.0,No,Killiney,Co. Dublin,q4,90%
+15/07/2019,"35 Rock Lodge, Killiney Hill Road, Killiney",Dublin,755000.0,No,Killiney,Co. Dublin,q4,80%
+16/07/2019,"Ondina, 55 Springhill Park, Killiney",Dublin,648000.0,No,Killiney,Co. Dublin,q3,70%
+17/07/2019,"5 Carraig Grennane, Killiney Ave, Killiney",Dublin,845000.0,No,Killiney,Co. Dublin,q4,90%
+22/07/2019,"86 Springhill Park, Killiney, Dublin",Dublin,600000.0,No,Killiney,Co. Dublin,q3,60%
+23/07/2019,"58 Brackenbush Rd, Killiney, Dublin",Dublin,480000.0,No,Killiney,Co. Dublin,q2,50%
+29/07/2019,"Palermo, Killiney Hill Rd, Killiney",Dublin,2825000.0,No,Killiney,Co. Dublin,q4,100%
+31/07/2019,"122 Churchview Rd, Killiney, Dublin",Dublin,482000.0,No,Killiney,Co. Dublin,q2,50%
+31/07/2019,"64 Castle Court, Killiney Hill Rd, Killiney",Dublin,320000.0,No,Killiney,Co. Dublin,q1,20%
+01/08/2019,"2 Watson Ave, Killiney, Dublin",Dublin,680000.0,No,Killiney,Co. Dublin,q3,70%
+02/08/2019,"61 Seafield Court, Killiney, Dublin",Dublin,550501.0,No,Killiney,Co. Dublin,q3,60%
+07/08/2019,"Abingdon, Killiney Rd, Killiney",Dublin,630000.0,No,Killiney,Co. Dublin,q3,70%
+07/08/2019,"Mentone, Military Rd, Killiney",Dublin,3230000.0,No,Killiney,Co. Dublin,q4,100%
+08/08/2019,"1 Avondale Rd, Killiney, Dublin",Dublin,890000.0,No,Killiney,Co. Dublin,q4,90%
+14/08/2019,"4 Mount Auburn, Killiney, Auburn",Dublin,841000.0,No,Killiney,Co. Dublin,q4,90%
+16/08/2019,"19 Wyvern, Killiney Rd, Killiney",Dublin,711000.0,No,Killiney,Co. Dublin,q3,80%
+16/08/2019,"99 The Willows, Abberley, Killiney",Dublin,366000.0,No,Killiney,Co. Dublin,q1,30%
+20/08/2019,"11 Killiney Heath, Killiney, Dublin",Dublin,1275000.0,No,Killiney,Co. Dublin,q4,100%
+22/08/2019,"Silverbeech, 29 Cluny Grove, Killiney",Dublin,870000.0,No,Killiney,Co. Dublin,q4,90%
+26/08/2019,"Field Lodge, Killiney Meath, Killiney",Dublin,1425000.0,No,Killiney,Co. Dublin,q4,100%
+28/08/2019,"7 Cluny Park, Killiney, Dublin",Dublin,595000.0,No,Killiney,Co. Dublin,q3,60%
+30/08/2019,"50 Watson Ave, Killiney, Dublin",Dublin,582500.0,No,Killiney,Co. Dublin,q3,60%
+30/08/2019,"87 Seafield Court, Killiney, Dublin",Dublin,510000.0,No,Killiney,Co. Dublin,q2,50%
+10/09/2019,"82 Dale View Park, Killiney, Dublin",Dublin,375000.0,No,Killiney,Co. Dublin,q1,30%
+12/09/2019,"9 Bayview Park, Killiney, Dublin",Dublin,450000.0,No,Killiney,Co. Dublin,q2,40%
+12/09/2019,"9 Bayview Park, Killiney, Dublin",Dublin,450000.0,No,Killiney,Co. Dublin,q2,40%
+19/09/2019,"17 Cluny Grove, Killiney, Co Dublin",Dublin,855000.0,No,Killiney,Co. Dublin,q4,90%
+20/09/2019,"3 Killiney Hill Plaza, Killiney Villlage, Killiney",Dublin,715000.0,No,Killiney,Co. Dublin,q3,80%
+24/09/2019,"123 Seafield Court, Killiney, Dublin",Dublin,509000.0,No,Killiney,Co. Dublin,q2,50%
+25/09/2019,"38 Wyvern, Killiney Rd, Killiney",Dublin,799890.0,No,Killiney,Co. Dublin,q4,90%
+26/09/2019,"Borrigo, Lower Killiney Road, Killiney",Dublin,655000.0,No,Killiney,Co. Dublin,q3,70%
+01/10/2019,"10A Wyvern, Killiney, Dublin",Dublin,720000.0,No,Killiney,Co. Dublin,q3,80%
+04/10/2019,"7 Brackenbush Park, Killiney, Dublin",Dublin,525000.0,No,Killiney,Co. Dublin,q2,50%
+15/10/2019,"28 Rock Lodge, Killiney, Dublin",Dublin,638000.0,No,Killiney,Co. Dublin,q3,70%

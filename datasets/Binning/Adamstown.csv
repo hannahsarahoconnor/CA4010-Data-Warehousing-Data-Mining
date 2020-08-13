@@ -1,0 +1,654 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/01/2010,"2 Castlegate House, Adamstown",Dublin,195000.0,Yes,Adamstown,Co. Dublin,q2,50%
+13/01/2010,"3 Castlegate House, Adamstown, Dublin 15",Dublin,124669.0,Yes,Adamstown,Co. Dublin,q1,20%
+13/01/2010,"3 Castlegate House, Castlegate, Adamstown",Dublin,124669.6,Yes,Adamstown,Co. Dublin,q1,20%
+14/01/2010,"5 Castlegate House, Castlegate, Adamstown",Dublin,167400.88,Yes,Adamstown,Co. Dublin,q2,30%
+14/01/2010,"7  Castlegate Drive, Adamstown Castle, Adamstown",Dublin,216750.0,Yes,Adamstown,Co. Dublin,q2,50%
+15/01/2010,"1 Castlegate View, Adamstown Castle, Adamstown",Dublin,172956.0,Yes,Adamstown,Co. Dublin,q2,40%
+18/01/2010,"11 The Paddocks Walk, Adamstown, Co. Dublin",Dublin,231388.0,Yes,Adamstown,Co. Dublin,q3,60%
+22/01/2010,"35 Castle Park, Adamstown Castle, Adamstown",Dublin,148030.91,Yes,Adamstown,Co. Dublin,q1,30%
+29/01/2010,"14 Castlegate Downs, Adamstown",Dublin,224669.6,Yes,Adamstown,Co. Dublin,q2,50%
+11/02/2010,"8 Castlegate Copse, Adamstown Castle, Adamstown",Dublin,193832.59,Yes,Adamstown,Co. Dublin,q2,40%
+11/02/2010,"8 Castlegate Copse, Adamstown Castle, Adamstown",Dublin,193832.59,Yes,Adamstown,Co. Dublin,q2,40%
+12/02/2010,"16 The Paddocks View, The Paddocks, Adamstown",Dublin,206186.0,Yes,Adamstown,Co. Dublin,q2,50%
+12/02/2010,"31 The Paddocks Grove, Adamstown",Dublin,281938.33,Yes,Adamstown,Co. Dublin,q4,90%
+14/02/2010,"4 Castlegate House, Adamstown",Dublin,168675.0,Yes,Adamstown,Co. Dublin,q2,30%
+15/02/2010,"12 Castlegate Grange, Adamstown Castle  Lucan",Dublin,193832.6,Yes,Adamstown,Co. Dublin,q2,40%
+15/02/2010,"33 Castle Park, Adamstown Castle, Adamstown",Dublin,146247.28,Yes,Adamstown,Co. Dublin,q1,30%
+19/02/2010,"31 The Paddocks View, Adamstown",Dublin,229950.0,Yes,Adamstown,Co. Dublin,q3,60%
+09/03/2010,"46 Stratton Grove, Adamstown Square, Adamstown",Dublin,139879.0,Yes,Adamstown,Co. Dublin,q1,20%
+10/03/2010,"36 Stratton Grove, Adamstown Square, Adamstown",Dublin,136245.81,Yes,Adamstown,Co. Dublin,q1,20%
+11/03/2010,"58 Stratton Walk, Adamstown Square, Adamstown",Dublin,260000.0,Yes,Adamstown,Co. Dublin,q4,80%
+12/03/2010,"28 The Paddocks Crescent, Adamstown",Dublin,277533.03,Yes,Adamstown,Co. Dublin,q4,90%
+24/03/2010,"43 Castlegate Park, Adamstown Castle, Adamstown",Dublin,171134.0,Yes,Adamstown,Co. Dublin,q2,30%
+29/03/2010,"3 Castlegate Vale, Adamstown Castle, Adamstown",Dublin,1481111.1,Yes,Adamstown,Co. Dublin,q4,100%
+07/04/2010,"38 Castlegate Park, Adamstown Castle, Dublin",Dublin,202643.17,Yes,Adamstown,Co. Dublin,q2,50%
+13/04/2010,"22 The Paddocks View, The Paddocks, Adamstown",Dublin,267000.0,Yes,Adamstown,Co. Dublin,q4,90%
+14/04/2010,"42 The Paddocks View, Adamstown, Co. Dublin",Dublin,280000.0,Yes,Adamstown,Co. Dublin,q4,90%
+22/04/2010,"3 Castlegate Copse, Adamstown",Dublin,198237.88,Yes,Adamstown,Co. Dublin,q2,50%
+23/04/2010,"44 The Paddocks Grove, Adamstown, Co. Dublin",Dublin,231404.95,Yes,Adamstown,Co. Dublin,q3,60%
+27/04/2010,"12 The Paddocks Crescent, Adamstown",Dublin,285000.0,Yes,Adamstown,Co. Dublin,q4,90%
+27/04/2010,"57 Castlegate Park, Adamstown Castle, Adamstown",Dublin,171134.0,Yes,Adamstown,Co. Dublin,q2,30%
+30/04/2010,"11 The Paddocks Crescent, Adamstown, County Dublin",Dublin,275000.0,Yes,Adamstown,Co. Dublin,q4,90%
+30/04/2010,"129 Adamstown Avenue, Adamstown Castle, Adamstown",Dublin,198237.88,Yes,Adamstown,Co. Dublin,q2,50%
+30/04/2010,"67 Adamstown Way, Adamstown Square, Adamstown",Dublin,181818.0,Yes,Adamstown,Co. Dublin,q2,40%
+06/05/2010,"4 The Paddocks View, Adamstown",Dublin,206186.0,Yes,Adamstown,Co. Dublin,q2,50%
+07/05/2010,"33 The Paddocks Grove, Adamstown, Co. Dublin",Dublin,315000.0,Yes,Adamstown,Co. Dublin,q4,100%
+07/05/2010,"Apt 8  The Paddocks Cresent, Adamstown",Dublin,149779.73,Yes,Adamstown,Co. Dublin,q1,30%
+10/05/2010,"31 Adamstown Way, Adamstown Square, Adamstown",Dublin,190000.0,Yes,Adamstown,Co. Dublin,q2,40%
+13/05/2010,"13 Stratton Walk, Adamstown Square, Adamstown",Dublin,230000.0,Yes,Adamstown,Co. Dublin,q3,60%
+14/05/2010,"9 Castlegate Drive, Adamstown",Dublin,232500.0,No,Adamstown,Co. Dublin,q3,60%
+20/05/2010,"27 Adamstown Way, Adamsstown, Dublin",Dublin,157550.0,Yes,Adamstown,Co. Dublin,q1,30%
+22/05/2010,"61 Castlegate Park, Adamstown, County Dublin",Dublin,148962.11,Yes,Adamstown,Co. Dublin,q1,30%
+26/05/2010,"41 Castlegate Park, Adamstown, Co. Dublin",Dublin,148960.35,Yes,Adamstown,Co. Dublin,q1,30%
+27/05/2010,"13 Adamstown Way, Adamstown Square, Adamstown",Dublin,199950.0,Yes,Adamstown,Co. Dublin,q2,50%
+27/05/2010,"40 The Paddocks Grove, Adamstown, Co. Dublin",Dublin,257500.0,Yes,Adamstown,Co. Dublin,q3,80%
+04/06/2010,"80 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,178414.1,Yes,Adamstown,Co. Dublin,q2,40%
+08/06/2010,"10 Stratton Grove, Adamstown Square, Adamstown",Dublin,156701.0,Yes,Adamstown,Co. Dublin,q1,30%
+10/06/2010,"7 Castlegate Park, Adamstown Castle, Adamstown",Dublin,273127.0,Yes,Adamstown,Co. Dublin,q4,90%
+11/06/2010,"36 The Paddocks Drive, Adamstown",Dublin,174009.0,Yes,Adamstown,Co. Dublin,q2,40%
+16/06/2010,"17 Stratton Walk, Adamstown Square, Adamstown",Dublin,199950.0,Yes,Adamstown,Co. Dublin,q2,50%
+16/06/2010,"17 Stratton Walk, Adamstown Square, Adamstown",Dublin,176167.4,Yes,Adamstown,Co. Dublin,q2,40%
+17/06/2010,"19 Adamstown Way, Adamstown Square, Adamstown",Dublin,225000.0,Yes,Adamstown,Co. Dublin,q2,50%
+21/06/2010,"21 Adamstown Way, Adamstown Square, Adamstown",Dublin,176167.4,Yes,Adamstown,Co. Dublin,q2,40%
+24/06/2010,"69 Adamstown Way, Adamstown Square, Adamstown",Dublin,198237.88,Yes,Adamstown,Co. Dublin,q2,50%
+28/06/2010,"69 Castlegate Way, Adamstown Castle, Adamstown",Dublin,145000.0,Yes,Adamstown,Co. Dublin,q1,20%
+01/07/2010,"2 Paddocks Place, Adamstown, Co Dublin",Dublin,176167.4,Yes,Adamstown,Co. Dublin,q2,40%
+06/07/2010,"45 Castlegate Way, Adamstown Castle, Adamstown",Dublin,114537.5,Yes,Adamstown,Co. Dublin,q1,20%
+07/07/2010,"50 Dodsboro Road, Adamstown",Dublin,162995.0,Yes,Adamstown,Co. Dublin,q2,30%
+15/07/2010,"25 The Crescent, The Paddocks, Adamstown",Dublin,257268.0,Yes,Adamstown,Co. Dublin,q3,80%
+21/07/2010,"153 Adamstown Avenue, Adamstown Castle, Adamstown",Dublin,228875.0,Yes,Adamstown,Co. Dublin,q3,60%
+22/07/2010,"47 Doddsboro Road, Adamstown",Dublin,162995.59,Yes,Adamstown,Co. Dublin,q2,30%
+23/07/2010,"46 Dodsboro Road, Adamstown",Dublin,170000.0,Yes,Adamstown,Co. Dublin,q2,30%
+30/07/2010,"2 The Paddocks Rise, Adamstown, Co Dublin",Dublin,225000.0,Yes,Adamstown,Co. Dublin,q2,50%
+05/08/2010,"41 Adamstown Way, Adamstown Square, Adamstown",Dublin,176167.0,Yes,Adamstown,Co. Dublin,q2,40%
+05/08/2010,"63 Castlegate Park, Adamstown, Co Dublin",Dublin,171134.0,Yes,Adamstown,Co. Dublin,q2,30%
+13/08/2010,"141 Adamstown Ave., Adamstown Castle, Adamstown",Dublin,190000.0,No,Adamstown,Co. Dublin,q2,40%
+18/08/2010,"22 Castlegate Elms, Adamstown Castle, Adamstown",Dublin,230000.0,Yes,Adamstown,Co. Dublin,q3,60%
+19/08/2010,"5 Adamstown Way, Adamstown Square, Adamstown",Dublin,180000.0,Yes,Adamstown,Co. Dublin,q2,40%
+03/09/2010,"49 Dodsboro Road, Adamstown",Dublin,153304.0,Yes,Adamstown,Co. Dublin,q1,30%
+10/09/2010,"21 The Paddocks Crescent, Adamstown",Dublin,264317.18,Yes,Adamstown,Co. Dublin,q4,80%
+15/09/2010,"48Dodsboro Road, Adamstown",Dublin,168141.59,Yes,Adamstown,Co. Dublin,q2,30%
+15/09/2010,"90 Adamstwon Avenue, Adamstown Road, Lican",Dublin,183259.91,Yes,Adamstown,Co. Dublin,q2,40%
+23/09/2010,"105 Castlegate Way, Adamstown Castle, Adamstown",Dublin,245000.0,Yes,Adamstown,Co. Dublin,q3,70%
+23/09/2010,"45 Castlegate Park, Adamstown Castle, Adamstown",Dublin,152596.0,Yes,Adamstown,Co. Dublin,q1,30%
+25/09/2010,"26 Straffan Grove, Adamstown, Co Dublin",Dublin,176167.4,Yes,Adamstown,Co. Dublin,q2,40%
+05/10/2010,"11 Adamstown Way, Adamstown Square",Dublin,199950.0,Yes,Adamstown,Co. Dublin,q2,50%
+08/10/2010,"45 Dodsboro Road, Adamstown",Dublin,149779.73,Yes,Adamstown,Co. Dublin,q1,30%
+14/10/2010,"6 Stratton Grove, Adamstown Square, Adamstown",Dublin,136246.0,Yes,Adamstown,Co. Dublin,q1,20%
+21/10/2010,"94 Adamstown Avenue, Adamstown",Dublin,205000.0,Yes,Adamstown,Co. Dublin,q2,50%
+22/10/2010,"6 The Paddocks Rise, Adamstown",Dublin,246651.98,Yes,Adamstown,Co. Dublin,q3,70%
+29/10/2010,"108 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,176167.0,Yes,Adamstown,Co. Dublin,q2,40%
+03/11/2010,"116 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,176167.4,Yes,Adamstown,Co. Dublin,q2,40%
+05/11/2010,"19 Stratton Walk, Adamstown Square, Adamstown",Dublin,167400.0,Yes,Adamstown,Co. Dublin,q2,30%
+05/11/2010,"44 Paddocks View, Adamstown",Dublin,226872.24,Yes,Adamstown,Co. Dublin,q3,60%
+12/11/2010,"46 The Paddocks View, Adamstown, Co Dublin",Dublin,229100.0,Yes,Adamstown,Co. Dublin,q3,60%
+19/11/2010,"36 Adamstown Park, Adamstown Square, Adamstown",Dublin,275000.0,Yes,Adamstown,Co. Dublin,q4,90%
+19/11/2010,"48 The Paddocks View, Adamstown",Dublin,222907.48,Yes,Adamstown,Co. Dublin,q2,50%
+23/11/2010,"Apartment 23  Adamstown Way, Adamstown Square, Adamstown",Dublin,185022.02,Yes,Adamstown,Co. Dublin,q2,40%
+25/11/2010,"9 Adamstown Way, Adamstown Square, Adamstown",Dublin,149780.0,Yes,Adamstown,Co. Dublin,q1,30%
+26/11/2010,"44 Adamstown Park, Adamstown Square, Adamstown",Dublin,237875.0,Yes,Adamstown,Co. Dublin,q3,60%
+07/12/2010,"Apartment 11, The Paddocks View, Adamstown",Dublin,185000.0,Yes,Adamstown,Co. Dublin,q2,40%
+09/12/2010,"27 The Crescent, The Paddocks, Adamstown",Dublin,237885.0,Yes,Adamstown,Co. Dublin,q3,60%
+20/12/2010,"21 Stratton Walk, Adamstown Square, Adamstown",Dublin,198237.88,Yes,Adamstown,Co. Dublin,q2,50%
+20/12/2010,"24 Stratton Grove, Adamstown",Dublin,172993.25,Yes,Adamstown,Co. Dublin,q2,40%
+21/12/2010,"2 Stratton Walk, Adamstown Square, Adamstown",Dublin,172500.0,Yes,Adamstown,Co. Dublin,q2,30%
+14/02/2011,"35 Stratton Walk, Adamstown Square",Dublin,167400.0,Yes,Adamstown,Co. Dublin,q2,30%
+15/04/2011,"53 The Paddocks View, Adamstown, Co. Dublin",Dublin,215000.0,Yes,Adamstown,Co. Dublin,q2,50%
+09/05/2011,"No 29 The Paddocks Crescent, The Paddocks, Adamstown",Dublin,220264.32,Yes,Adamstown,Co. Dublin,q2,50%
+11/05/2011,"64 Stratton Grove, Adamstown Square, Adamstown",Dublin,148000.0,Yes,Adamstown,Co. Dublin,q1,30%
+25/05/2011,"1 The Paddocks Road, Adamstown, Co. Dublin",Dublin,145000.0,Yes,Adamstown,Co. Dublin,q1,20%
+02/06/2011,"27 The Paddocks Grove, Adamstown",Dublin,270000.0,Yes,Adamstown,Co. Dublin,q4,90%
+02/06/2011,"Apt 79 Adamstown Way, Adamstown Square, Adamstown",Dublin,132159.0,Yes,Adamstown,Co. Dublin,q1,20%
+10/06/2011,"29 Stratton Walk, Adamstown Square",Dublin,171806.0,Yes,Adamstown,Co. Dublin,q2,30%
+16/06/2011,"102 Adamstown Avenue, Adamstwon Square, Adamstown",Dublin,145374.0,Yes,Adamstown,Co. Dublin,q1,30%
+29/06/2011,"43 Castlegate Way, Adamstown",Dublin,93750.0,Yes,Adamstown,Co. Dublin,q1,10%
+30/06/2011,"13 The Paddocks Crescent, Adamstown",Dublin,260000.0,Yes,Adamstown,Co. Dublin,q4,80%
+08/07/2011,"71 Adamstown Way, Adamstown Square, Adamstown",Dublin,132159.0,Yes,Adamstown,Co. Dublin,q1,20%
+19/07/2011,"43 The Paddocks Grove, Adamstown",Dublin,218061.67,Yes,Adamstown,Co. Dublin,q2,50%
+20/07/2011,"23 Stratton Walk, Adamstown Square, Adamstown",Dublin,185000.0,Yes,Adamstown,Co. Dublin,q2,40%
+29/07/2011,"50 Stratton Walk, Adamstown Square, Adamstown",Dublin,225000.0,Yes,Adamstown,Co. Dublin,q2,50%
+05/08/2011,"50 Castlegate Grove, Adamstown Castle, Adadmstown",Dublin,245000.0,Yes,Adamstown,Co. Dublin,q3,70%
+08/08/2011,"37 The Paddocks Grove, Adamstown, Co. Dublin",Dublin,250000.0,Yes,Adamstown,Co. Dublin,q3,70%
+22/08/2011,"18 The Heath, Adamstown Castle, Adamstow",Dublin,189427.0,Yes,Adamstown,Co. Dublin,q2,40%
+26/08/2011,"10 The Paddocks Rise, Adamstown",Dublin,198237.89,Yes,Adamstown,Co. Dublin,q2,50%
+26/08/2011,"6 Castlegate Terrace, Adamstown Castle, Adamstown",Dublin,155000.0,Yes,Adamstown,Co. Dublin,q1,30%
+28/09/2011,"64 The Paddocks Grove, Adamstown",Dublin,195555.0,Yes,Adamstown,Co. Dublin,q2,50%
+29/09/2011,"2 Stratton Grove, Adamstown",Dublin,118942.0,Yes,Adamstown,Co. Dublin,q1,20%
+30/09/2011,"22 Stratton Grove, Adamstown Square, Adamstown",Dublin,185000.0,Yes,Adamstown,Co. Dublin,q2,40%
+07/10/2011,"62 Stratton Grove, Adamstown Square, Adamstown",Dublin,118943.0,Yes,Adamstown,Co. Dublin,q1,20%
+10/10/2011,"92 Adamstown Avenue, Adamstown Square, Adamstown  Co.Dublin",Dublin,142725.0,Yes,Adamstown,Co. Dublin,q1,20%
+19/10/2011,"38 The Paddocks View, Adamstown, County Dublin",Dublin,176446.28,Yes,Adamstown,Co. Dublin,q2,40%
+07/11/2011,"3 Stratton Walk, Adamstown Square, Adamstown",Dublin,116775.0,Yes,Adamstown,Co. Dublin,q1,20%
+16/11/2011,"56 The Paddocks Grove, Adamstown",Dublin,210000.0,No,Adamstown,Co. Dublin,q2,50%
+18/11/2011,"No 40 The Paddocks View, Adamstown",Dublin,215000.0,Yes,Adamstown,Co. Dublin,q2,50%
+25/11/2011,"12 Stratton Grove, Adamstown Square, Adamstown",Dublin,118942.73,Yes,Adamstown,Co. Dublin,q1,20%
+07/12/2011,"10 The Paddocks Crescent, Adamstown",Dublin,220000.0,Yes,Adamstown,Co. Dublin,q2,50%
+08/12/2011,"52 The Paddocks View, Adamstown",Dublin,147500.0,Yes,Adamstown,Co. Dublin,q1,30%
+15/12/2011,"118 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,136563.88,Yes,Adamstown,Co. Dublin,q1,20%
+16/12/2011,"5 The Paddocks View, Adamstown",Dublin,135000.0,Yes,Adamstown,Co. Dublin,q1,20%
+21/12/2011,"34 Adamstown Park, Adamstown Square, Adamstown",Dublin,176211.0,Yes,Adamstown,Co. Dublin,q2,40%
+21/12/2011,"4 Castlegate Heath, Adamstown, County Dublin",Dublin,200000.0,Yes,Adamstown,Co. Dublin,q2,50%
+05/01/2012,"46 The Paddocks Drive, Adamstown",Dublin,150000.0,Yes,Adamstown,Co. Dublin,q1,30%
+14/02/2012,"42 Castlegate Grove, Adamstown",Dublin,210000.0,Yes,Adamstown,Co. Dublin,q2,50%
+14/02/2012,"99 Adamstown Avenue, Adamstown Castle, Adamstown",Dublin,167400.0,Yes,Adamstown,Co. Dublin,q2,30%
+16/02/2012,"4 Castlegate Green, Adamstown Castle, Adamstown",Dublin,118943.0,Yes,Adamstown,Co. Dublin,q1,20%
+22/02/2012,"42 Stratton Grove, Adamstown",Dublin,130000.0,Yes,Adamstown,Co. Dublin,q1,20%
+24/02/2012,"44 Stratton Grove, Adamstown Square, Adamstown",Dublin,160000.0,Yes,Adamstown,Co. Dublin,q1,30%
+05/03/2012,"10 Castlegate Lawns, Adamstown Castle, Adamstown",Dublin,175000.0,Yes,Adamstown,Co. Dublin,q2,40%
+15/03/2012,"32 Adamstown Park, Adamstown Square, Adamstown",Dublin,189427.0,Yes,Adamstown,Co. Dublin,q2,40%
+16/03/2012,"52 Adamstown Park, Adanstown Square, Adamstown",Dublin,176211.45,Yes,Adamstown,Co. Dublin,q2,40%
+16/03/2012,"54 Adamstown Park, Adamstown Square, Adamstown",Dublin,182819.38,Yes,Adamstown,Co. Dublin,q2,40%
+23/03/2012,"42 Adamstown Park, Adamstown",Dublin,215000.0,Yes,Adamstown,Co. Dublin,q2,50%
+29/03/2012,"7 Castlegate Copse, Adamstown Castle, Adamstown",Dublin,140969.16,Yes,Adamstown,Co. Dublin,q1,20%
+02/04/2012,"46 Adamstown Park, Adamstown Square, Adamstown",Dublin,215000.0,Yes,Adamstown,Co. Dublin,q2,50%
+05/04/2012,"48 Stratton Walk, Adamstown Square, Adamstown",Dublin,185000.0,Yes,Adamstown,Co. Dublin,q2,40%
+13/04/2012,"8 Stratton Walk, Adamstown Square, Adamstown",Dublin,136564.0,Yes,Adamstown,Co. Dublin,q1,20%
+19/04/2012,"20 The Paddocks Drive, Adamstown",Dublin,162996.0,Yes,Adamstown,Co. Dublin,q2,30%
+19/04/2012,"31 Statton Walk, Adamstown, Co Dublin",Dublin,170000.0,Yes,Adamstown,Co. Dublin,q2,30%
+01/05/2012,"10 Stratton Walk, Adamstown Square, Adamstown",Dublin,132159.0,Yes,Adamstown,Co. Dublin,q1,20%
+03/05/2012,"26 Stratton Walk, Adamstown",Dublin,157500.0,Yes,Adamstown,Co. Dublin,q1,30%
+14/05/2012,"38 Adamstown Park, Adamstown Square, Adamstown",Dublin,215000.0,Yes,Adamstown,Co. Dublin,q2,50%
+21/05/2012,"50 Adamstown Park, Adamstown Square, Adamstown",Dublin,176211.45,Yes,Adamstown,Co. Dublin,q2,40%
+30/05/2012,"77 Adamstown Ave, Adamstown, Co. Dublin",Dublin,165000.0,Yes,Adamstown,Co. Dublin,q2,30%
+31/05/2012,"96 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,134802.0,Yes,Adamstown,Co. Dublin,q1,20%
+05/06/2012,"95 Castlegate Way, Adamstown Square, Adamstown",Dublin,162996.0,Yes,Adamstown,Co. Dublin,q2,30%
+12/06/2012,"9 Castlegate Row, Adamstown Castle, Adamstown",Dublin,185000.0,Yes,Adamstown,Co. Dublin,q2,40%
+19/06/2012,"19 Castlegate Copse, Adamstown Castle, Adamstown",Dublin,170000.0,Yes,Adamstown,Co. Dublin,q2,30%
+22/06/2012,"1 Adamstown Way, Adamstown Square, Adamstown",Dublin,105726.87,Yes,Adamstown,Co. Dublin,q1,10%
+22/06/2012,"No 25 The Paddocks Grove, Adamstown",Dublin,280000.0,Yes,Adamstown,Co. Dublin,q4,90%
+27/06/2012,"16 Castlegate Downs, Adamstown Castle, Adamstown",Dublin,180000.0,Yes,Adamstown,Co. Dublin,q2,40%
+02/07/2012,"56 Adamstown Park, Adamstown",Dublin,200000.0,Yes,Adamstown,Co. Dublin,q2,50%
+05/07/2012,"18 Stratton Grove, Adamstown Square, Adamstown",Dublin,110132.0,Yes,Adamstown,Co. Dublin,q1,10%
+06/07/2012,"38 Stratton Grove, Adamstown Square, Adamstown",Dublin,110132.0,Yes,Adamstown,Co. Dublin,q1,10%
+06/07/2012,"60 Adamstown Park, Adamstown",Dublin,210000.0,Yes,Adamstown,Co. Dublin,q2,50%
+10/07/2012,"62 Adamstown Park, Adamstown",Dublin,176211.45,Yes,Adamstown,Co. Dublin,q2,40%
+16/07/2012,"8 Stratton Grove, Adamstown Square, Adamstown",Dublin,118943.0,Yes,Adamstown,Co. Dublin,q1,20%
+18/07/2012,"56 Stratton Walk, Adamstown Square, Adamstown",Dublin,162996.0,Yes,Adamstown,Co. Dublin,q2,30%
+24/07/2012,"104 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,145000.0,Yes,Adamstown,Co. Dublin,q1,30%
+23/08/2012,"7 Castlegate Court, Adamstown Castle, Adamstown",Dublin,145374.0,Yes,Adamstown,Co. Dublin,q1,30%
+23/08/2012,"78 Castlegate Way, Adamstown",Dublin,110000.0,No,Adamstown,Co. Dublin,q1,10%
+05/09/2012,"7 Stratton Walk, Adamstown Square, Adamstown",Dublin,105726.87,Yes,Adamstown,Co. Dublin,q1,10%
+06/09/2012,"11 Stratton Walk, Adamstown Square, Adamstown",Dublin,125000.0,Yes,Adamstown,Co. Dublin,q1,20%
+07/09/2012,"33 Stratton Walk, Adamstown Square, Adamstown",Dublin,132159.0,Yes,Adamstown,Co. Dublin,q1,20%
+21/09/2012,"59 Adamstown Avenue, Adamstown Castle, Adamstown",Dublin,118943.0,Yes,Adamstown,Co. Dublin,q1,20%
+01/10/2012,"1  The Paddocks View, Adamstown",Dublin,116740.0,Yes,Adamstown,Co. Dublin,q1,20%
+08/10/2012,"40 Adamstown Park, Adamstown Square, Adamstown",Dublin,200000.0,No,Adamstown,Co. Dublin,q2,50%
+12/10/2012,"41 The Paddocks Grove, Adamstown, Co. Dublin",Dublin,193760.0,Yes,Adamstown,Co. Dublin,q2,40%
+17/10/2012,"50 Newcastle Boulevard, Adamstown, Dublin",Dublin,135000.0,No,Adamstown,Co. Dublin,q1,20%
+17/10/2012,"9 The Paddocks Grove, Adamstown",Dublin,195595.0,Yes,Adamstown,Co. Dublin,q2,50%
+23/10/2012,"26 The Paddocks Crescent, Adamstown",Dublin,185022.0,Yes,Adamstown,Co. Dublin,q2,40%
+26/10/2012,"5 Stratton Walk, Adamstown Square, Adamstown",Dublin,136564.0,Yes,Adamstown,Co. Dublin,q1,20%
+02/11/2012,"22 The Paddocks Crescent, Adamstown",Dublin,215000.0,No,Adamstown,Co. Dublin,q2,50%
+02/11/2012,"25 The Paddocks View, Adamstown, Co. Dublin",Dublin,180000.0,Yes,Adamstown,Co. Dublin,q2,40%
+22/11/2012,"48 Adamstown Park, Adamstown Square, Adamstown",Dublin,176211.0,Yes,Adamstown,Co. Dublin,q2,40%
+22/11/2012,"9 The Paddocks Rise, Adamstown",Dublin,175000.0,Yes,Adamstown,Co. Dublin,q2,40%
+29/11/2012,"117 Adamstown Avenue, Adamstown Castle, Adamstown",Dublin,127753.0,Yes,Adamstown,Co. Dublin,q1,20%
+29/11/2012,"39 The Paddocks Grove, Adamstown",Dublin,191630.0,Yes,Adamstown,Co. Dublin,q2,40%
+12/12/2012,"26 Adamstown Park, Adamstown Square, Adamstown",Dublin,136563.88,Yes,Adamstown,Co. Dublin,q1,20%
+12/12/2012,"8 The Paddocks Rise, Adamstown",Dublin,149780.0,Yes,Adamstown,Co. Dublin,q1,30%
+13/12/2012,"20 Adamstown Park, Adamstown Square, Adamstown",Dublin,170000.0,No,Adamstown,Co. Dublin,q2,30%
+14/12/2012,"55 Stratton Walk, Adamstown Square, Adamstown",Dublin,148898.67,Yes,Adamstown,Co. Dublin,q1,30%
+14/12/2012,"71 Stratton Walk, Adamstown Square, Adamstown",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+14/12/2012,"8 Adamstown Park, Adamstown Square, Adamstown",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+14/12/2012,"83 Adamstown Avenue, Adamstown",Dublin,136564.0,Yes,Adamstown,Co. Dublin,q1,20%
+14/12/2012,"Apartment 148 Adamstown Avenue, Adamstown, County Dublin",Dublin,155000.0,Yes,Adamstown,Co. Dublin,q1,30%
+17/12/2012,"12 Adamstown Park, Adamstown Square, Adamstown",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+18/12/2012,"77 Stratton Walk, Adamstown Square, Adamstown",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+19/12/2012,"18 Adamstown Park, Adamstown Square, Adamstown",Dublin,104340.0,Yes,Adamstown,Co. Dublin,q1,10%
+19/12/2012,"7 Castlegate Way, Adamstown Castle, Adamstown",Dublin,110132.0,Yes,Adamstown,Co. Dublin,q1,10%
+20/12/2012,"11 The Paddocks Rise, Adamstown",Dublin,153303.96,Yes,Adamstown,Co. Dublin,q1,30%
+20/12/2012,"22 Adamstown Park, Adamstown Square, Adamstown",Dublin,154185.0,Yes,Adamstown,Co. Dublin,q1,30%
+20/12/2012,"24 Adamstown Park, Adamstown",Dublin,132200.0,Yes,Adamstown,Co. Dublin,q1,20%
+04/01/2013,"6 The Paddocks Crescent, Adamstown",Dublin,176211.45,Yes,Adamstown,Co. Dublin,q2,40%
+30/01/2013,"Apt 85, Gastlegate Way, Adamstown",Dublin,85000.0,No,Adamstown,Co. Dublin,q1,10%
+01/02/2013,"58 Adamstown Park, Adamstown Square, Adamstown",Dublin,176211.0,Yes,Adamstown,Co. Dublin,q2,40%
+05/02/2013,"31 Adamstown Avenue, Adamstown",Dublin,154185.0,Yes,Adamstown,Co. Dublin,q1,30%
+07/02/2013,"16 Stratton Grove, Adamstown Square, Adamstown",Dublin,120000.0,No,Adamstown,Co. Dublin,q1,20%
+08/02/2013,"14 Stratton Walk, Adamstown, County Dublin",Dublin,170000.0,Yes,Adamstown,Co. Dublin,q2,30%
+08/02/2013,"48 Stratton Grove, Adamstown Square, Adamstown",Dublin,125000.0,No,Adamstown,Co. Dublin,q1,20%
+22/02/2013,"4 Stratton Walk, Adamstown Square, Adamstown",Dublin,135000.0,No,Adamstown,Co. Dublin,q1,20%
+28/02/2013,"66 The Paddocks View, Adamstown, Co. Dublin",Dublin,140969.0,Yes,Adamstown,Co. Dublin,q1,20%
+08/03/2013,"3 The Paddocks Drive, Adamstown",Dublin,255507.0,Yes,Adamstown,Co. Dublin,q3,80%
+13/03/2013,"6 Adamstown Park, Adamstown Square, Adamstown",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+15/03/2013,"67 Stratton Walk, Adamstown Square, Adamstown",Dublin,114537.0,Yes,Adamstown,Co. Dublin,q1,20%
+19/03/2013,"3 Stratton Heath, Adamstown Square, Adamstown",Dublin,135000.0,Yes,Adamstown,Co. Dublin,q1,20%
+20/03/2013,"35 Adamstown Way, Adamstown Square, Adamstown",Dublin,170000.0,Yes,Adamstown,Co. Dublin,q2,30%
+26/03/2013,"Apt 69 Stratton Walk, Adamstown Square, Adamstown Lucan",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+27/03/2013,"16 Adamstown Park, Adamstown Square, Adamstown",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+27/03/2013,"40 Stratton Grove, Adamstown Square, Adamstown",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+30/03/2013,"32 Castlegate Park, Adamstown Castle, Adamstown",Dublin,149780.0,Yes,Adamstown,Co. Dublin,q1,30%
+05/04/2013,"2 Castlegate Grove, Adamstown Castle, Adamstown",Dublin,100000.0,No,Adamstown,Co. Dublin,q1,10%
+09/04/2013,"75 Adamstown Way, Adamstown Square, Adamstown",Dublin,110100.0,Yes,Adamstown,Co. Dublin,q1,10%
+15/04/2013,"41 The Paddocks View, Adamstown",Dublin,160000.0,Yes,Adamstown,Co. Dublin,q2,30%
+17/04/2013,"75 Stratton Walk, Adamstown",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+29/04/2013,"32 Castlegate Copse, Adamstown Castle, Adamstown",Dublin,132158.0,Yes,Adamstown,Co. Dublin,q1,20%
+30/04/2013,"146 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,132100.0,Yes,Adamstown,Co. Dublin,q1,20%
+08/05/2013,"5 Stratton Heath, Adamstown Square, Adamstown",Dublin,118942.73,Yes,Adamstown,Co. Dublin,q1,20%
+17/05/2013,"Apartment 118, Castlegate Way, Adamstown",Dublin,133000.0,No,Adamstown,Co. Dublin,q1,20%
+24/05/2013,"39 The Paddocks View, Adamstown",Dublin,138766.52,Yes,Adamstown,Co. Dublin,q1,20%
+28/05/2013,"6 Stratton Walk, Adamstown Square, Adamstown",Dublin,132159.0,Yes,Adamstown,Co. Dublin,q1,20%
+06/06/2013,"24 Castlegate, Adamstown",Dublin,140000.0,No,Adamstown,Co. Dublin,q1,20%
+07/06/2013,"10 Adamstown Park, Adamstown Square, Adamstown",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+07/06/2013,"6 Castlegate Grange, Adamstown Castle, Adamstown",Dublin,158590.0,Yes,Adamstown,Co. Dublin,q1,30%
+18/06/2013,"63 Stratton Walk, Adamstown Square, Adamstown",Dublin,105727.0,Yes,Adamstown,Co. Dublin,q1,10%
+24/06/2013,"14 Adamstown Park, Adamstown",Dublin,150000.0,Yes,Adamstown,Co. Dublin,q1,30%
+26/06/2013,"57 Stratton Walk, Adamstown Square, Adamstown",Dublin,136563.87,Yes,Adamstown,Co. Dublin,q1,20%
+03/07/2013,"65 Stratton Walk, Adamstown Square, Adamstown",Dublin,98859.0,Yes,Adamstown,Co. Dublin,q1,10%
+10/07/2013,"61 Stratton Walk, Adamstown Square, Adamstown",Dublin,111014.0,Yes,Adamstown,Co. Dublin,q1,20%
+12/07/2013,"55 The Paddocks View, Adamstown, Co. Dublin",Dublin,164317.18,Yes,Adamstown,Co. Dublin,q2,30%
+16/07/2013,"1 Stratton Walk, Adamstown, County Dublin",Dublin,110132.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/07/2013,"15 Adamstown Way, Adamstown Square, Adamstown",Dublin,114537.44,Yes,Adamstown,Co. Dublin,q1,20%
+31/07/2013,"30 Adamstown Avenue, Adamstown Castle, Adamstown  County Dublin",Dublin,140500.0,No,Adamstown,Co. Dublin,q1,20%
+29/08/2013,"53 Stratton Walk, Adamstown Square, Adamstown",Dublin,136563.87,Yes,Adamstown,Co. Dublin,q1,20%
+10/09/2013,"51 Stratton Walk, Adamstown Square, Adamstown",Dublin,154185.0,Yes,Adamstown,Co. Dublin,q1,30%
+16/09/2013,"142 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,242500.0,Yes,Adamstown,Co. Dublin,q3,60%
+17/09/2013,"140 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,235000.0,Yes,Adamstown,Co. Dublin,q3,60%
+19/09/2013,"144 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,185022.0,Yes,Adamstown,Co. Dublin,q2,40%
+19/09/2013,"60 Stratton Grove, Adamstown Square, Adamstown",Dublin,108125.0,Yes,Adamstown,Co. Dublin,q1,10%
+18/10/2013,"51 Castlegate Way, Adamstown Castle, Adamstown",Dublin,132159.0,Yes,Adamstown,Co. Dublin,q1,20%
+04/11/2013,"67 Adamstown Avenue, Adamstown Castle, Adamstown",Dublin,149780.0,Yes,Adamstown,Co. Dublin,q1,30%
+08/11/2013,"66 Adamstown PK, Adamstown Square, Adamstown",Dublin,235000.0,Yes,Adamstown,Co. Dublin,q3,60%
+08/11/2013,"95 Adamstown Avenue, Adamstown Castle, Adamstown",Dublin,132159.0,Yes,Adamstown,Co. Dublin,q1,20%
+28/11/2013,"136 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,215000.0,Yes,Adamstown,Co. Dublin,q2,50%
+29/11/2013,"73  Adamstown Way, Adamstown Square, Adamstwon",Dublin,140000.0,Yes,Adamstown,Co. Dublin,q1,20%
+03/12/2013,"134 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,196035.0,Yes,Adamstown,Co. Dublin,q2,50%
+12/12/2013,"138 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,225000.0,Yes,Adamstown,Co. Dublin,q2,50%
+17/12/2013,"Apartment 1 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 10 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 11 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 12 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 13 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 14 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 15 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 16 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 17 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 18 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 19 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 2 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 20 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 21 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 22 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 23 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 24 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 25 Castlegate Avenue, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 26 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 27 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 28 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 29 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 3 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 30 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 31 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96691.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 32 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 33 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 34 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 35 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 36 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 37 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 39 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 4 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 40 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 5 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 6 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 7 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 8 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+17/12/2013,"Apartment 9 Castlegate Hall, The Sentinel Building, Adamstown  Lucan",Dublin,96916.0,Yes,Adamstown,Co. Dublin,q1,10%
+19/12/2013,"98 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,136564.0,Yes,Adamstown,Co. Dublin,q1,20%
+20/12/2013,"18 Castlegate Grove, Adamstown, Dublin",Dublin,220000.0,No,Adamstown,Co. Dublin,q2,50%
+23/12/2013,"124 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,198237.89,Yes,Adamstown,Co. Dublin,q2,50%
+09/01/2014,"33 Castlegate Green, Adamstown Castle, Adamstown",Dublin,193000.0,No,Adamstown,Co. Dublin,q2,40%
+29/01/2014,"3 Castlegate Mews, Adamstown Castle, Adamstown",Dublin,224000.0,No,Adamstown,Co. Dublin,q2,50%
+11/02/2014,"55 Stratton Grove, Adamstown Square, Adamstown",Dublin,114537.0,Yes,Adamstown,Co. Dublin,q1,20%
+11/02/2014,"57 Stratton Grove, Adamstown Square, Adamstown",Dublin,125000.0,Yes,Adamstown,Co. Dublin,q1,20%
+12/02/2014,"2 Castlegate Rise, Adamnstown Square, Adamstown",Dublin,189427.0,Yes,Adamstown,Co. Dublin,q2,40%
+18/02/2014,"5 Stratton Grove, Adamstown Square, Adamstown",Dublin,180616.74,Yes,Adamstown,Co. Dublin,q2,40%
+04/03/2014,"40 Stratton Walk, Adamstown Square, Adamstown",Dublin,114537.44,Yes,Adamstown,Co. Dublin,q1,20%
+04/03/2014,"42 Strattan Walk, Adamstown Square, Adamstown",Dublin,114537.0,Yes,Adamstown,Co. Dublin,q1,20%
+05/03/2014,"59 Stratton Grove, Adamstown Square, Adamstown",Dublin,110132.0,Yes,Adamstown,Co. Dublin,q1,10%
+14/03/2014,"53 Stratton Grove, Adamstown",Dublin,130000.0,Yes,Adamstown,Co. Dublin,q1,20%
+21/03/2014,"51 Stratton Grove, Adamstown Square, Adamstown",Dublin,110132.0,Yes,Adamstown,Co. Dublin,q1,20%
+01/04/2014,"3 Castlegate Rise, Castlegate Rise, Adamstown",Dublin,184245.0,Yes,Adamstown,Co. Dublin,q2,40%
+03/04/2014,"Apt 36, The Paddocks Dr, Adamstown",Dublin,165000.0,No,Adamstown,Co. Dublin,q2,30%
+07/04/2014,"120 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,180617.0,Yes,Adamstown,Co. Dublin,q2,40%
+07/04/2014,"43 Stratton Walk, Adamstown Square, Adamstown",Dublin,200000.0,Yes,Adamstown,Co. Dublin,q2,50%
+08/04/2014,"8 Castlegate Rise, The Sentinel, Adamstown",Dublin,198237.88,Yes,Adamstown,Co. Dublin,q2,50%
+08/04/2014,"9  Castlegate Rise, Castlegate, Adamstown",Dublin,191629.95,Yes,Adamstown,Co. Dublin,q2,40%
+09/04/2014,"28 Adamstown Park, Adamstown Square, Adamstown",Dublin,160792.0,Yes,Adamstown,Co. Dublin,q2,30%
+10/04/2014,"41 Stratton Walk, Adamstown Square, Adamstown",Dublin,176211.0,Yes,Adamstown,Co. Dublin,q2,40%
+11/04/2014,"49 Stratton Walk, Adamstown Square, Adamstown",Dublin,175162.5,Yes,Adamstown,Co. Dublin,q2,40%
+11/04/2014,"64 Adamstown Park, Adamstown Square, Adamstown",Dublin,176211.0,Yes,Adamstown,Co. Dublin,q2,40%
+16/04/2014,"1 Castlegate Rise, Castlegate Rise, Adamstown",Dublin,235000.0,Yes,Adamstown,Co. Dublin,q3,60%
+23/04/2014,"122 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,176211.45,Yes,Adamstown,Co. Dublin,q2,40%
+28/04/2014,"129 Adamstown Ave, Adamstown Castle, Adamstown",Dublin,197000.0,No,Adamstown,Co. Dublin,q2,50%
+02/05/2014,"No. 47 Stratton Walk, Adamstown Square, Adamstown",Dublin,182819.0,Yes,Adamstown,Co. Dublin,q2,40%
+07/05/2014,"49 Stratton Walk, Adamstown Square, Adamstown",Dublin,198950.0,Yes,Adamstown,Co. Dublin,q2,50%
+16/05/2014,"10 Castlegate Rise, Castlegate, Adamstown",Dublin,189427.0,Yes,Adamstown,Co. Dublin,q2,40%
+21/05/2014,"130 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,205000.0,Yes,Adamstown,Co. Dublin,q2,50%
+28/05/2014,"7 Castlegate Rise, Adamstown, Co. Dublin",Dublin,214000.0,Yes,Adamstown,Co. Dublin,q2,50%
+29/05/2014,"17 Adamstown Way, Adamstown Square, Adamnstown",Dublin,154185.0,Yes,Adamstown,Co. Dublin,q1,30%
+04/06/2014,"6 Castlegate Rise, Castlegate, Adamstown",Dublin,193833.0,Yes,Adamstown,Co. Dublin,q2,40%
+12/06/2014,"45 Stratton Walk, Adamstown, Co Dublin",Dublin,180616.74,Yes,Adamstown,Co. Dublin,q2,40%
+16/06/2014,"11 Castlegate Rose, Adamstown",Dublin,198200.0,Yes,Adamstown,Co. Dublin,q2,50%
+25/06/2014,"4 Castlegate Rise, Adamstown",Dublin,193834.0,Yes,Adamstown,Co. Dublin,q2,40%
+10/07/2014,"49  Stratton Grove, Adamstown Square, Adamstown",Dublin,110132.0,Yes,Adamstown,Co. Dublin,q1,20%
+07/08/2014,"52 Castlegate Grove, Adamstown, Dublin",Dublin,165000.0,No,Adamstown,Co. Dublin,q2,30%
+22/08/2014,"35 Adamstown Avenue, Adamstown, Co Dublin",Dublin,190500.0,No,Adamstown,Co. Dublin,q2,40%
+01/09/2014,"19 Castlegate Green, Adamstown, Co Dublin",Dublin,220000.0,No,Adamstown,Co. Dublin,q2,50%
+05/09/2014,"7 The Paddocks Dr, Adamstown, Dublin",Dublin,285000.0,No,Adamstown,Co. Dublin,q4,90%
+15/09/2014,"1 Stratton Grove, Adamstown Square, Adamstown",Dublin,198238.0,Yes,Adamstown,Co. Dublin,q2,50%
+15/09/2014,"39 Stratton Walk, Adamstown Square, Adamstown",Dublin,198238.0,Yes,Adamstown,Co. Dublin,q2,50%
+15/10/2014,"35 Gastlegate Way, Adamstown, Dublin",Dublin,217500.0,No,Adamstown,Co. Dublin,q2,50%
+13/11/2014,"67 The Paddocks View, Adamstown",Dublin,233480.0,Yes,Adamstown,Co. Dublin,q3,60%
+14/11/2014,"3 Stratton Grove, Adamstown Square, Adamstown",Dublin,176211.0,Yes,Adamstown,Co. Dublin,q2,40%
+17/11/2014,"65 Strattan Walk, Adamstown Square, Adamstown",Dublin,160000.0,No,Adamstown,Co. Dublin,q2,30%
+05/12/2014,"59 The Paddocks View, Adamstown",Dublin,218465.56,Yes,Adamstown,Co. Dublin,q2,50%
+08/12/2014,"14 Castlegate Chase, Adamstown, Co Dublin",Dublin,240000.0,No,Adamstown,Co. Dublin,q3,60%
+17/12/2014,"93 Adamstown Ave, Castle Gate, Adamstown",Dublin,220000.0,No,Adamstown,Co. Dublin,q2,50%
+22/12/2014,"44 Castlegate Crescent, Adamstown, Dublin",Dublin,240000.0,No,Adamstown,Co. Dublin,q3,60%
+12/01/2015,"12 The Paddocks Place, The Paddocks Rd, Adamstown",Dublin,219000.0,No,Adamstown,Co. Dublin,q2,50%
+19/02/2015,"1 Castlegate Court, Adamstown Castle, Adamstown",Dublin,260000.0,No,Adamstown,Co. Dublin,q4,80%
+04/03/2015,"61 The Paddocks View, Adamstown, Co. Dublin",Dublin,235000.0,Yes,Adamstown,Co. Dublin,q3,60%
+10/06/2015,"32 The Paddocks Crescent, Adamstown  Lucan, Co. Dublin",Dublin,318000.0,Yes,Adamstown,Co. Dublin,q4,100%
+15/06/2015,"36 The Paddocks Crescent, Adamstown",Dublin,271366.0,Yes,Adamstown,Co. Dublin,q4,90%
+07/08/2015,"26 Castlrgate Sq, Adamstown, Dublin",Dublin,230000.0,No,Adamstown,Co. Dublin,q3,60%
+19/08/2015,"35, The Paddocks Crescent, Adamstown",Dublin,280176.0,Yes,Adamstown,Co. Dublin,q4,90%
+25/08/2015,"1 Adamstown Way, Adamstown Sq, Adamstown",Dublin,174000.0,No,Adamstown,Co. Dublin,q2,40%
+08/09/2015,"36 Paddocks View, Lucan, Adamstown",Dublin,268000.0,No,Adamstown,Co. Dublin,q4,90%
+24/09/2015,"40 Castlegate Way, Adamstown Castle, Adamstown",Dublin,229000.0,No,Adamstown,Co. Dublin,q3,60%
+30/09/2015,"74 Castlegate Grove, Adamstown, Dublin",Dublin,310000.0,No,Adamstown,Co. Dublin,q4,100%
+16/10/2015,"16 The Paddocks Dr, Adamstown, Dublin",Dublin,243500.0,No,Adamstown,Co. Dublin,q3,60%
+03/11/2015,"9 Stratton Walk, Adamstown Sq, Adamstown",Dublin,225000.0,No,Adamstown,Co. Dublin,q3,60%
+20/11/2015,"2 Stratton Walk, Adamstown Sq, Adamstown",Dublin,220000.0,No,Adamstown,Co. Dublin,q2,50%
+21/12/2015,"8 Adamstown Park, Adamstown Sq, Adamstown",Dublin,193000.0,No,Adamstown,Co. Dublin,q2,40%
+22/02/2016,"76 The Paddocks Drive West, The Paddocks, Adamstown  Lucan",Dublin,233480.17,Yes,Adamstown,Co. Dublin,q3,60%
+14/03/2016,"76 Castlegate Grove, Adamstown Castle, Adamstown",Dublin,297000.0,No,Adamstown,Co. Dublin,q4,100%
+26/04/2016,"20 Castlegate Copse, Adamstown Castle, Adamstown",Dublin,240000.0,No,Adamstown,Co. Dublin,q3,60%
+28/04/2016,"10 The Paddocks Crescent, Adamstown, Dublin",Dublin,120000.0,No,Adamstown,Co. Dublin,q1,20%
+09/06/2016,"16 Castlegate Park, Adamstown, Dublin",Dublin,169000.0,No,Adamstown,Co. Dublin,q2,30%
+18/07/2016,"28 Adamstown Park, Adamstown Square, Adamstown",Dublin,200000.0,No,Adamstown,Co. Dublin,q2,50%
+10/08/2016,"46 Stratton Grove, Adamstown, Dublin",Dublin,183000.0,No,Adamstown,Co. Dublin,q2,40%
+11/08/2016,"11 The Paddocks Crescent, The Paddocks, Adamstown",Dublin,320000.0,No,Adamstown,Co. Dublin,q4,100%
+22/08/2016,"62 The Paddocks Drive, The Paddocks, Adamstown",Dublin,210000.0,Yes,Adamstown,Co. Dublin,q2,50%
+23/09/2016,"50 Dodsboro Rd, The Paddocks, Adamstown",Dublin,200000.0,No,Adamstown,Co. Dublin,q2,50%
+04/10/2016,"51 Dodsboro, Adamstown",Dublin,268722.0,Yes,Adamstown,Co. Dublin,q4,90%
+14/10/2016,"3 Castlegate House, Adamstown Ave, Adamstown",Dublin,165000.0,No,Adamstown,Co. Dublin,q2,30%
+10/11/2016,"92 The Paddocks Drive West, The Paddocks, Adamstown",Dublin,196653.27,Yes,Adamstown,Co. Dublin,q2,50%
+05/12/2016,"3 Castlegate Vale, Adamstown Castle, Adamstown",Dublin,215000.0,No,Adamstown,Co. Dublin,q2,50%
+19/01/2017,"48 Castlegate Dene, Adamstown Castle, Dublin",Dublin,155000.0,No,Adamstown,Co. Dublin,q1,30%
+26/01/2017,"5 Castlegate Court, Adamstown, Dublin",Dublin,255000.0,No,Adamstown,Co. Dublin,q3,80%
+28/02/2017,"36 The Paddocks Square, Adamstown, County Dublin",Dublin,230000.0,No,Adamstown,Co. Dublin,q3,60%
+06/04/2017,"60 Castlegate Grove, Adamstown, Dublin",Dublin,326000.0,No,Adamstown,Co. Dublin,q4,100%
+25/04/2017,"129 Adamstown Ave, Adamstown Castle, Adamstown",Dublin,261000.0,No,Adamstown,Co. Dublin,q4,80%
+05/05/2017,"7 Stratton Lawn, Adamstown Square, Adamstown",Dublin,237886.0,Yes,Adamstown,Co. Dublin,q3,60%
+05/05/2017,"No 2 Stratton Lawn, Adamstown Square, Adamstown",Dublin,262962.0,Yes,Adamstown,Co. Dublin,q4,80%
+05/05/2017,"No 6 Stratton Lawn, Adamstown Square, Adamstown",Dublin,303964.0,Yes,Adamstown,Co. Dublin,q4,100%
+05/05/2017,"No 8 Stratton Drive, Adamstown Square, Ldamstown",Dublin,290748.0,Yes,Adamstown,Co. Dublin,q4,90%
+08/05/2017,"9 Adamstown Park, Adamstown Square, Adamstown",Dublin,264318.0,Yes,Adamstown,Co. Dublin,q4,90%
+09/05/2017,"1 Stratton Lawn Alderile, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+09/05/2017,"5 Adamstown Park, Adamstown Square, Adamstown",Dublin,220264.32,Yes,Adamstown,Co. Dublin,q2,50%
+10/05/2017,"7 Adamstown Park, Adamstown Square, Adamstown",Dublin,268722.0,Yes,Adamstown,Co. Dublin,q4,90%
+11/05/2017,"3 Adamstown Park, Adamstown Square, Adamstown",Dublin,224669.6,Yes,Adamstown,Co. Dublin,q2,50%
+11/05/2017,"4 Stratton Lawn, Adamstown Square, Adamstown",Dublin,303964.75,Yes,Adamstown,Co. Dublin,q4,100%
+12/05/2017,"10 Stratton Drive, Adamstown Sauare, Adamstown",Dublin,290748.89,Yes,Adamstown,Co. Dublin,q4,90%
+16/05/2017,"11 Adamstown Park, Adamstown Square, Adamstown",Dublin,255506.6,Yes,Adamstown,Co. Dublin,q3,80%
+16/05/2017,"13 Adamstown Park, Adamstown Square, Adamstown",Dublin,251101.0,Yes,Adamstown,Co. Dublin,q3,70%
+18/05/2017,"5 Stratton Lawn, Adamstown Square, Adamstown",Dublin,237885.46,Yes,Adamstown,Co. Dublin,q3,60%
+22/05/2017,"3 Stratton Lawn, Adamstown Square, Adamstown",Dublin,237885.46,Yes,Adamstown,Co. Dublin,q3,60%
+22/05/2017,"9 Stratton Lawn, Adamstown Square, Adamstown",Dublin,244695.0,Yes,Adamstown,Co. Dublin,q3,60%
+25/05/2017,"2 Castlegate Lawn Adamstown Lucan, Dublin",Dublin,262000.0,No,Adamstown,Co. Dublin,q4,80%
+02/06/2017,"8 Stratton Lawn, Adamstown Square, Adamstown",Dublin,242290.74,Yes,Adamstown,Co. Dublin,q3,60%
+12/06/2017,"10 Stratton Lawn, Adamstown Square, Adamstown",Dublin,246525.0,Yes,Adamstown,Co. Dublin,q3,70%
+13/06/2017,"16 Stratton Drive, Adamstown Square, Adamstown",Dublin,251100.0,Yes,Adamstown,Co. Dublin,q3,70%
+16/06/2017,"7 Stratton Vale, Adamstown Square, Admstown",Dublin,237885.46,Yes,Adamstown,Co. Dublin,q3,60%
+22/06/2017,"10 Stratton Vale, Adamstown Square, Adamstown",Dublin,312775.33,Yes,Adamstown,Co. Dublin,q4,100%
+22/06/2017,"17 Adamstown Park, Adamstown",Dublin,264317.18,Yes,Adamstown,Co. Dublin,q4,80%
+22/06/2017,"8 Stratton Vale, Adamstown Square, Adamstown",Dublin,303965.0,Yes,Adamstown,Co. Dublin,q4,100%
+23/06/2017,"3 Stratton Vale, Adamstown Square, Adamstown",Dublin,237885.0,Yes,Adamstown,Co. Dublin,q3,60%
+26/06/2017,"12 Stratton Drive, Adamstown Square, Adamstown",Dublin,251101.0,Yes,Adamstown,Co. Dublin,q3,70%
+28/06/2017,"12 The Paddocks Rise, The Paddocks, Adamstown",Dublin,259500.0,Yes,Adamstown,Co. Dublin,q4,80%
+29/06/2017,"5 Stratton Vale, Adamstown",Dublin,237885.0,Yes,Adamstown,Co. Dublin,q3,60%
+30/06/2017,"1 Stratton Vale, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+30/06/2017,"4 Stratton Vale, Adamstown Square, Adamstown",Dublin,303964.0,Yes,Adamstown,Co. Dublin,q4,100%
+30/06/2017,"6 Stratton Vale, Adamstown Square, Adamstown",Dublin,303965.0,Yes,Adamstown,Co. Dublin,q4,100%
+04/07/2017,"2 Stratton Vale, Adamstown Square, Adamstown",Dublin,312775.33,Yes,Adamstown,Co. Dublin,q4,100%
+04/07/2017,"20  Stratton Drive, Adamstown Square, Adamstown",Dublin,325000.0,Yes,Adamstown,Co. Dublin,q4,100%
+06/07/2017,"15 Adamstown Park, Adamstown Square, Adamstown",Dublin,273127.0,Yes,Adamstown,Co. Dublin,q4,90%
+10/07/2017,"9 Stratton Vale, Adamstown Square, Adamstown",Dublin,233550.0,Yes,Adamstown,Co. Dublin,q3,60%
+27/07/2017,"26 The Paddocks Place, Adamstown, Dublin",Dublin,265000.0,No,Adamstown,Co. Dublin,q4,90%
+31/07/2017,"14 Stratton Drive, Adamstown Square, Adamstown",Dublin,242291.0,Yes,Adamstown,Co. Dublin,q3,60%
+02/08/2017,"192 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,246696.0,Yes,Adamstown,Co. Dublin,q3,70%
+03/08/2017,"194 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,242290.75,Yes,Adamstown,Co. Dublin,q3,60%
+03/08/2017,"196 Adamstown Avenue, Adamstown",Dublin,242290.0,Yes,Adamstown,Co. Dublin,q3,60%
+04/08/2017,"200 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,237885.46,Yes,Adamstown,Co. Dublin,q3,60%
+08/08/2017,"7 Stratton Way, Adamstown Square, Adamstown",Dublin,251650.0,Yes,Adamstown,Co. Dublin,q3,70%
+09/08/2017,"198 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,242290.0,Yes,Adamstown,Co. Dublin,q3,60%
+10/08/2017,"3 Stratton Grove, Adamstown Square, Adamstown",Dublin,317000.0,No,Adamstown,Co. Dublin,q4,100%
+10/08/2017,"3 Stratton Way, Adamstown Square, Adamstown",Dublin,242290.0,Yes,Adamstown,Co. Dublin,q3,60%
+11/08/2017,"202 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,237885.46,Yes,Adamstown,Co. Dublin,q3,60%
+17/08/2017,"5 Strattan Drive, Adamstown Square, Adamstown",Dublin,273127.75,Yes,Adamstown,Co. Dublin,q4,90%
+31/08/2017,"41 The Paddocks View, Adamstown, Dublin",Dublin,272500.0,No,Adamstown,Co. Dublin,q4,90%
+01/09/2017,"52 The Paddocks View, Adamstown, Dublin",Dublin,252000.0,No,Adamstown,Co. Dublin,q3,80%
+04/09/2017,"12 Stratton Way, Adamstown Square, Adamstown",Dublin,242291.0,Yes,Adamstown,Co. Dublin,q3,60%
+05/09/2017,"7 Stratton Drive, Adamstown Square, Adamstown",Dublin,251101.0,Yes,Adamstown,Co. Dublin,q3,70%
+06/09/2017,"1 Stratton Square, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+06/09/2017,"3 Stratton Court, Adamstown Square, Adamstown",Dublin,264317.18,Yes,Adamstown,Co. Dublin,q4,90%
+06/09/2017,"4 Stratton Court, Adamstown Square, Adamstown",Dublin,264317.18,Yes,Adamstown,Co. Dublin,q4,90%
+06/09/2017,"5 Stratton Court, Alderlie, Adamstown",Dublin,264317.0,Yes,Adamstown,Co. Dublin,q4,80%
+06/09/2017,"6 Stratton Drive, Adamstown Square, Adamstown",Dublin,246696.0,Yes,Adamstown,Co. Dublin,q3,70%
+07/09/2017,"13 Stratton Square, Adamstown Square, Adamstown",Dublin,247850.0,Yes,Adamstown,Co. Dublin,q3,70%
+07/09/2017,"4 Stratton Way, Adamstown Square, Adamstown",Dublin,246696.0,Yes,Adamstown,Co. Dublin,q3,70%
+08/09/2017,"5 Stratton Square, Adamstown Square, Adamstown",Dublin,246696.0,Yes,Adamstown,Co. Dublin,q3,70%
+11/09/2017,"8 Stratton Way, Adamstown Square, Adamstown",Dublin,242291.0,Yes,Adamstown,Co. Dublin,q3,60%
+12/09/2017,"15 Strattan Square, Adamstown, Co Dublin",Dublin,246696.04,Yes,Adamstown,Co. Dublin,q3,70%
+12/09/2017,"2 Stratton Court, Adamstown Square, Adamstown",Dublin,330396.0,Yes,Adamstown,Co. Dublin,q4,100%
+18/09/2017,"11  Stratton Squre, Adamonstown Square, Adamstown",Dublin,246696.0,Yes,Adamstown,Co. Dublin,q3,70%
+18/09/2017,"19 Stratton Square, Adamstown Square, Adamstown",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+21/09/2017,"3 Stratton Square, Adamstown Square, Adamstown",Dublin,280000.0,Yes,Adamstown,Co. Dublin,q4,90%
+22/09/2017,"4 Stratton Drive, Adamstown Square, Adamstown",Dublin,264317.18,Yes,Adamstown,Co. Dublin,q4,90%
+25/09/2017,"18 Stratton Way, Adamstown Square, Adamstown",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+26/09/2017,"6 Stratton Way, Adamstown Square, Adamstown",Dublin,242290.0,Yes,Adamstown,Co. Dublin,q3,60%
+27/09/2017,"1 Stratton Court, Adamstown Square, Adamstown",Dublin,325991.18,Yes,Adamstown,Co. Dublin,q4,100%
+27/09/2017,"9 Stratton Drive, Adamstown Square, Adamstown",Dublin,273127.75,Yes,Adamstown,Co. Dublin,q4,90%
+29/09/2017,"16 Stratton Way, Adamstown Square, Adamstown",Dublin,251101.0,Yes,Adamstown,Co. Dublin,q3,70%
+29/09/2017,"17 Stratton Square, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+02/10/2017,"12 Stratton Square, Adamstown Square, Adamstown",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+02/10/2017,"5 Stratton Way, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+02/10/2017,"6 Stratton Square, Adamstown Square, Adamstown",Dublin,237885.46,Yes,Adamstown,Co. Dublin,q3,60%
+10/10/2017,"4 Stratton Square, Adamstown Square, Adamstown",Dublin,242290.74,Yes,Adamstown,Co. Dublin,q3,60%
+12/10/2017,"11 Stratton Drive, Adamstown Square, Adamstown",Dublin,251100.0,Yes,Adamstown,Co. Dublin,q3,70%
+18/10/2017,"10 Stratton Way, Adamstown Square, Adamstown",Dublin,242290.74,Yes,Adamstown,Co. Dublin,q3,60%
+01/11/2017,"55 Stratton Walk, Adamstown Sq, Adamstown",Dublin,272000.0,No,Adamstown,Co. Dublin,q4,90%
+01/11/2017,"Apt. 52 The Paddocks Drive West, The Paddocks, Adamstown",Dublin,233480.0,Yes,Adamstown,Co. Dublin,q3,60%
+02/11/2017,"114 Castlegateway, Adamstown, Dublin",Dublin,262000.0,No,Adamstown,Co. Dublin,q4,80%
+02/11/2017,"14 Stratton Way, Adamstown Square, Adamstown",Dublin,242290.74,Yes,Adamstown,Co. Dublin,q3,60%
+07/11/2017,"1  Adamstown Park, Adamstown Square, Adamstown",Dublin,273127.75,Yes,Adamstown,Co. Dublin,q4,90%
+14/11/2017,"13 Stratton Drive, Adamstown Square, Adamstown",Dublin,277533.03,Yes,Adamstown,Co. Dublin,q4,90%
+14/11/2017,"3 Stratton Close, Adamstown Sqaure, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+14/11/2017,"9 Stratton Close, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+20/11/2017,"13, Stratton Close, Adamstown Square",Dublin,246696.04,Yes,Adamstown,Co. Dublin,q3,70%
+21/11/2017,"11 Stratton Close, Adamstown Square, Adamstown",Dublin,246696.0,Yes,Adamstown,Co. Dublin,q3,70%
+22/11/2017,"14 Stratton Square, Adamstown Square, Adamstown",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+23/11/2017,"117 Adamstown Way, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+23/11/2017,"4 Stratton Close, Adamstown Square, Adamstown",Dublin,237885.0,Yes,Adamstown,Co. Dublin,q3,60%
+24/11/2017,"5 Stratton Close, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+24/11/2017,"7 Stratton Close, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+24/11/2017,"9 Stratton Way, Adamstown Square, Adamstown",Dublin,259911.89,Yes,Adamstown,Co. Dublin,q4,80%
+27/11/2017,"1 Stratton Close, Adamstown Square, Adamstown",Dublin,246669.0,Yes,Adamstown,Co. Dublin,q3,70%
+27/11/2017,"17 Stratton Close, Adamstown Square, Adamstown",Dublin,273127.75,Yes,Adamstown,Co. Dublin,q4,90%
+27/11/2017,"2 Stratton Close, Adamstown Square, Adamstown",Dublin,242300.0,Yes,Adamstown,Co. Dublin,q3,60%
+28/11/2017,"121 Adamstown Way, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+28/11/2017,"16 Stratton Square, Adamstown Square, Adamstown",Dublin,255506.61,Yes,Adamstown,Co. Dublin,q3,80%
+30/11/2017,"8 Stratton Close, Adamstown Square, Adamstown",Dublin,277533.03,Yes,Adamstown,Co. Dublin,q4,90%
+01/12/2017,"115 Adamstown Way, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+04/12/2017,"11 Stratton Way, Adamstown Square, Adamstown",Dublin,237885.0,Yes,Adamstown,Co. Dublin,q3,60%
+05/12/2017,"19 Stratton Close, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+06/12/2017,"1 Stratton Way, Adamstown Square, Adamstown",Dublin,255506.6,Yes,Adamstown,Co. Dublin,q3,80%
+06/12/2017,"10 Stratton Close, Adamstown Square, Adamstown",Dublin,246697.0,Yes,Adamstown,Co. Dublin,q3,70%
+08/12/2017,"20 Stratton Square, Adamstown Square, Adamstown",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+11/12/2017,"Apartment 54, The Paddocks Drive West, Adamstown",Dublin,229075.0,Yes,Adamstown,Co. Dublin,q3,60%
+12/12/2017,"119 Adamstown Way, Adamstown Square, Adamstown",Dublin,246696.0,Yes,Adamstown,Co. Dublin,q3,70%
+13/12/2017,"123 Adamstown Way, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+14/12/2017,"24 Strattton Square, Adamstown Square, Adamstown",Dublin,233480.17,Yes,Adamstown,Co. Dublin,q3,60%
+18/12/2017,"127 Adamstown Way, Adamstown Square, Adamstown",Dublin,246696.0,Yes,Adamstown,Co. Dublin,q3,70%
+18/12/2017,"22 Stratton Square, Adamstown Square, Adamstown",Dublin,255506.6,Yes,Adamstown,Co. Dublin,q3,80%
+19/12/2017,"135 Adamstown Way, Adamstown Square, Adamstown",Dublin,246696.0,Yes,Adamstown,Co. Dublin,q3,70%
+19/12/2017,"20 Adamstown Park, Adamstown Sq, Adamstown",Dublin,276000.0,No,Adamstown,Co. Dublin,q4,90%
+20/12/2017,"129 Adamstown Way, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+04/01/2018,"24 Stratton Drive, Adamstown Square, Adamstown",Dublin,255506.6,Yes,Adamstown,Co. Dublin,q3,80%
+10/01/2018,"12 Stratton Close, Adamstown Square, Adamstown",Dublin,281938.32,Yes,Adamstown,Co. Dublin,q4,90%
+22/01/2018,"116 Castlegate Way, Adamstown, Dublin",Dublin,37500.0,No,Adamstown,Co. Dublin,q1,10%
+22/01/2018,"22 Stratton Drive, Adamstown Square, Adamstown",Dublin,290000.0,Yes,Adamstown,Co. Dublin,q4,90%
+23/01/2018,"131 Adamstown Way, Adamstown Square, Adamstown",Dublin,246696.0,Yes,Adamstown,Co. Dublin,q3,70%
+24/01/2018,"13 Adamstown Boulevard, Adamstown Square, Adamstown",Dublin,295154.18,Yes,Adamstown,Co. Dublin,q4,90%
+24/01/2018,"18 Stratton Square, Adamstown Square, Adamstown",Dublin,255506.6,Yes,Adamstown,Co. Dublin,q3,80%
+30/01/2018,"17 Adamstown Boulevard, Adamstown Square, Adamstown",Dublin,295154.0,Yes,Adamstown,Co. Dublin,q4,90%
+31/01/2018,"19 Adamstown Boulevard, Adamstown Square, Adamstown",Dublin,295154.19,Yes,Adamstown,Co. Dublin,q4,100%
+01/02/2018,"11 Adamstown Boulevard, Adamstown Square, Adamstown",Dublin,295154.0,Yes,Adamstown,Co. Dublin,q4,90%
+07/02/2018,"25 Adamstown Boulevard, Adamstown Square, Adamstown",Dublin,308370.04,Yes,Adamstown,Co. Dublin,q4,100%
+14/02/2018,"23 Stratton Close, Adamstown Square, Adamstown",Dublin,281938.0,Yes,Adamstown,Co. Dublin,q4,90%
+15/02/2018,"7 Adamstown Boulevard, Adamstown Square, Adamstown",Dublin,295154.0,Yes,Adamstown,Co. Dublin,q4,90%
+20/02/2018,"33 Castlegate Green, Adamstown Castle, Adamstown",Dublin,270000.0,No,Adamstown,Co. Dublin,q4,90%
+26/02/2018,"125 Adamstown Way, Adamstown Square, Adamstown",Dublin,246696.03,Yes,Adamstown,Co. Dublin,q3,70%
+26/02/2018,"21 Adamstown Boulevard, Adamstown Square, Adamstown",Dublin,295154.18,Yes,Adamstown,Co. Dublin,q4,90%
+06/03/2018,"15 Adamstown Boulevard, Adamstown Square, Adanstown",Dublin,295154.0,Yes,Adamstown,Co. Dublin,q4,90%
+08/03/2018,"15 Stratton Drive, Adamstown Square, Adamstown",Dublin,268723.0,Yes,Adamstown,Co. Dublin,q4,90%
+04/05/2018,"13 Castlegate Downs, Adamstown, Dublin",Dublin,215494.0,No,Adamstown,Co. Dublin,q2,50%
+10/05/2018,"3 Adamstown Boulevard, Adamstown Square, Adamstown",Dublin,295154.18,Yes,Adamstown,Co. Dublin,q4,90%
+14/05/2018,"13 Stratton Way, Adamstown Square, Adamstown",Dublin,237885.46,Yes,Adamstown,Co. Dublin,q3,60%
+04/07/2018,"5 Adamstown Boulevard, Adamstown Square, Adamstown",Dublin,295154.18,Yes,Adamstown,Co. Dublin,q4,90%
+09/07/2018,"133 Adamstown Way, Adamstown Square, Adamstown",Dublin,264317.18,Yes,Adamstown,Co. Dublin,q4,90%
+17/07/2018,"27 The Crescent, The Paddocks, Adamstown",Dublin,343000.0,No,Adamstown,Co. Dublin,q4,100%
+31/07/2018,"5 The Paddocks Walk, Adamstown, Dublin",Dublin,280000.0,No,Adamstown,Co. Dublin,q4,90%
+03/08/2018,"33 Adamstown Park, St Helen&#039;S, Adamstown",Dublin,335000.0,Yes,Adamstown,Co. Dublin,q4,100%
+03/08/2018,"37 Adamstown Park, St Helens, Adamstown",Dublin,295154.18,Yes,Adamstown,Co. Dublin,q4,100%
+09/08/2018,"22 St. Helen'S Drive, St. Helen'S, Adamstown",Dublin,255507.0,Yes,Adamstown,Co. Dublin,q3,80%
+09/08/2018,"27 Adamstown Park, St. Helens, Adamstown",Dublin,303964.41,Yes,Adamstown,Co. Dublin,q4,100%
+10/08/2018,"35 Adamstown Park, St Helens, Adamstown",Dublin,299558.81,Yes,Adamstown,Co. Dublin,q4,100%
+13/08/2018,"2 St. Helen'S Grove, St. Helen'S, Adamstown",Dublin,259912.0,Yes,Adamstown,Co. Dublin,q4,80%
+14/08/2018,"26 St. Helen'S Drive, St. Helen'S, Adamstown",Dublin,255506.0,Yes,Adamstown,Co. Dublin,q3,80%
+14/08/2018,"30 St. Helen'S Drive, St. Helen'S, Adamstown",Dublin,325991.18,Yes,Adamstown,Co. Dublin,q4,100%
+14/08/2018,"6  St. Helen'S Grove, St. Helens, Adamstown",Dublin,259911.89,Yes,Adamstown,Co. Dublin,q4,80%
+15/08/2018,"31 Adamstown Park, St Helen'S, Adamstown",Dublin,295154.18,Yes,Adamstown,Co. Dublin,q4,100%
+21/08/2018,"12 Paddocks Way, Adamstown, Co Dublin",Dublin,250000.0,No,Adamstown,Co. Dublin,q3,70%
+21/08/2018,"39 Adamstown Park, St Helen'S, Adamstown",Dublin,301762.11,Yes,Adamstown,Co. Dublin,q4,100%
+24/08/2018,"4 St Helen'S Grove, St Helen'S, Adamstown",Dublin,285000.0,Yes,Adamstown,Co. Dublin,q4,90%
+29/08/2018,"1 St Helen'S Chase, St. Helen'S, Adamstown",Dublin,325991.08,Yes,Adamstown,Co. Dublin,q4,100%
+29/08/2018,"24 St Helens Drive, St Helens, Adamstown",Dublin,255506.6,Yes,Adamstown,Co. Dublin,q3,80%
+04/09/2018,"22 Castlegate Grove, Adamstown, Dublin",Dublin,315000.0,No,Adamstown,Co. Dublin,q4,100%
+04/09/2018,"28 St. Helen'S Drive, St. Helen'S, Adamstown",Dublin,255507.0,Yes,Adamstown,Co. Dublin,q3,80%
+05/09/2018,"9 St. Helen'S Avenue, St. Helen'S, Adamstown",Dublin,251101.31,Yes,Adamstown,Co. Dublin,q3,70%
+07/09/2018,"27 St. Helen'S Drive, St Helen'S, Adamstown",Dublin,251093.51,Yes,Adamstown,Co. Dublin,q3,70%
+07/09/2018,"29 St. Helen'S Drive, St. Helen'S, Adamstown",Dublin,251100.0,Yes,Adamstown,Co. Dublin,q3,70%
+10/09/2018,"14 St Helens Grove, St Helens, Adamstown",Dublin,251102.0,Yes,Adamstown,Co. Dublin,q3,70%
+10/09/2018,"16 St. Helen'S Grove, St. Helen'S, Adamstown",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+11/09/2018,"25 St. Helen'S Drive, St. Helen'S, Adamstown",Dublin,251102.0,Yes,Adamstown,Co. Dublin,q3,70%
+13/09/2018,"30 The Paddocks Crescent, Adamstown Lucan, Dublin",Dublin,347000.0,No,Adamstown,Co. Dublin,q4,100%
+17/09/2018,"11 St Helen'S Avenue, St Helen'S, Adamstown",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+17/09/2018,"21 St. Helen'S Drive, St. Helen'S, Adamstown",Dublin,251102.0,Yes,Adamstown,Co. Dublin,q3,70%
+18/09/2018,"23 St. Helen'S Drive, St. Helen'S, Adamstown",Dublin,251102.0,Yes,Adamstown,Co. Dublin,q3,70%
+24/09/2018,"22 St. Helen'S Walk, St. Helen'S, Adamstown",Dublin,306167.4,Yes,Adamstown,Co. Dublin,q4,100%
+26/09/2018,"7 St Helen'S Avenue, St Helen'S, Adamstown",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+28/09/2018,"40 St Helen'S Avenue, St Helen'S, Adamstown",Dublin,259911.0,Yes,Adamstown,Co. Dublin,q4,80%
+02/10/2018,"52 St. Helen'S Avenue, St. Helen'S, Adamstown",Dublin,321585.9,Yes,Adamstown,Co. Dublin,q4,100%
+04/10/2018,"34 St. Helen'S Avenue, St. Helens, Adamstown",Dublin,255506.0,Yes,Adamstown,Co. Dublin,q3,80%
+04/10/2018,"36 St  Helen'S Avenue, St Helen'S, Adamstown",Dublin,255506.6,Yes,Adamstown,Co. Dublin,q3,80%
+04/10/2018,"56 St Helen'S Avenue, St Helen'S, Adamstown",Dublin,264317.18,Yes,Adamstown,Co. Dublin,q4,90%
+08/10/2018,"16 St. Helen'S Walk, St. Helen'S, Adamstown",Dublin,259912.0,Yes,Adamstown,Co. Dublin,q4,80%
+10/10/2018,"16 St.Helen'S Chase, St.Helen'S, Adamstown",Dublin,255507.0,Yes,Adamstown,Co. Dublin,q3,80%
+10/10/2018,"18 St Helen'S Walk, St Helens, Adamstown",Dublin,259911.89,Yes,Adamstown,Co. Dublin,q4,80%
+11/10/2018,"3 St. Helen'S Avenue, St. Helen'S, Adamstown",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+12/10/2018,"14 St. Helens Walsk, St. Helens, Adamstown",Dublin,307500.0,Yes,Adamstown,Co. Dublin,q4,100%
+12/10/2018,"2 Castlegate Mews, Adamstown, Dublin",Dublin,297802.25,No,Adamstown,Co. Dublin,q4,100%
+13/10/2018,"31 St Helen'S Drive, St Helen'S, Adamstown",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+15/10/2018,"48 St Helen'S Avenue, St Helens, Adamstown",Dublin,259911.81,Yes,Adamstown,Co. Dublin,q4,80%
+24/10/2018,"26 Adamstown Park, Adamstown Sq, Adamstown",Dublin,275000.0,No,Adamstown,Co. Dublin,q4,90%
+25/10/2018,"20 St Helen'S Walk, St. Helen'S, Adamstown",Dublin,270925.0,Yes,Adamstown,Co. Dublin,q4,90%
+25/10/2018,"Adamstown, Garristown, Dublin",Dublin,142500.0,No,Adamstown,Co. Dublin,q1,20%
+31/10/2018,"119 Adamstown Ave, Adamstown, Dublin",Dublin,285000.0,No,Adamstown,Co. Dublin,q4,90%
+01/11/2018,"15 St. Helen'S Walk, St. Helen'S, Adamstown",Dublin,330397.0,Yes,Adamstown,Co. Dublin,q4,100%
+05/11/2018,"12 The Paddocks Rise, The Paddocks, Adamstown",Dublin,325000.0,No,Adamstown,Co. Dublin,q4,100%
+05/11/2018,"50 St. Helen'S Avenue, St. Helen'S, Adamstown",Dublin,259911.0,Yes,Adamstown,Co. Dublin,q4,80%
+07/11/2018,"22 St. Helen'S Grove, St. Helen'S, Adamstown",Dublin,259913.0,Yes,Adamstown,Co. Dublin,q4,80%
+07/11/2018,"28 St Helens Avenue, St Helens, Adamstown",Dublin,255506.61,Yes,Adamstown,Co. Dublin,q3,80%
+07/11/2018,"9 St Helen'S Walk, St Helen'S, Adamstown",Dublin,299558.81,Yes,Adamstown,Co. Dublin,q4,100%
+12/11/2018,"13 St. Helen'S Chase, St. Helen'S, Adamstown",Dublin,250850.0,Yes,Adamstown,Co. Dublin,q3,70%
+13/11/2018,"26 Saint Helens Avenue, Adamstown Lucan",Dublin,255500.0,Yes,Adamstown,Co. Dublin,q3,80%
+20/11/2018,"18 St. Helen'S Chase, St. Helen'S, Adamstown",Dublin,255506.0,No,Adamstown,Co. Dublin,q3,80%
+22/11/2018,"17 St. Helen'S Chase, St. Helen'S, Adamstown",Dublin,264317.0,Yes,Adamstown,Co. Dublin,q4,80%
+22/11/2018,"30 St. Helen'S Avenue, St. Helen'S, Adamstown",Dublin,255507.0,Yes,Adamstown,Co. Dublin,q3,80%
+23/11/2018,"18 St. Helens Grove, St. Helen'S, Adamstown Lucan",Dublin,251101.32,Yes,Adamstown,Co. Dublin,q3,70%
+23/11/2018,"3 St. Helen'S Downs, St. Helen'S, Adamstown",Dublin,255506.6,Yes,Adamstown,Co. Dublin,q3,80%
+26/11/2018,"13 St Helen'S Downs, St Helen'S, Adamstown",Dublin,257337.5,Yes,Adamstown,Co. Dublin,q3,80%
+26/11/2018,"56 Castlegale Dene, Adamstown Lucan, Dublin",Dublin,171000.0,No,Adamstown,Co. Dublin,q2,30%
+28/11/2018,"9 St Helens Downs, St Helens, Adamstown",Dublin,255507.0,Yes,Adamstown,Co. Dublin,q3,80%
+29/11/2018,"24 St. Helen'S Grove, St. Helen'S, Adamstown",Dublin,290749.0,Yes,Adamstown,Co. Dublin,q4,90%
+30/11/2018,"4 St. Helen'S Chase, St. Helen'S, Adamstown",Dublin,255506.6,Yes,Adamstown,Co. Dublin,q3,80%
+03/12/2018,"12 St. Helen'S Chase, St. Helen'S, Adamstown",Dublin,299559.47,Yes,Adamstown,Co. Dublin,q4,100%
+03/12/2018,"Number 9 St. Helen'S Chase, St. Helen'S, Adamstown",Dublin,255506.82,Yes,Adamstown,Co. Dublin,q3,80%
+04/12/2018,"17 St. Helen'S Downs, St. Helen'S, Adamstown",Dublin,270925.11,Yes,Adamstown,Co. Dublin,q4,90%
+05/12/2018,"6 The Paddocks Place, The Paddocks, Adamstown Lucan",Dublin,240000.0,No,Adamstown,Co. Dublin,q3,60%
+11/12/2018,"6 St. Helen'S Chase, St. Helen'S, Adamstown",Dublin,255507.0,Yes,Adamstown,Co. Dublin,q3,80%
+12/12/2018,"11 St Helen'S Chase, St. Helen'S, Adamstown",Dublin,255506.61,Yes,Adamstown,Co. Dublin,q3,80%
+13/12/2018,"11 St. Helen'S Downs, St. Helen'S, Adamstown",Dublin,255506.6,Yes,Adamstown,Co. Dublin,q3,80%
+13/12/2018,"3 Castlegate House, Adamstown Ave, Adamstown",Dublin,180000.0,No,Adamstown,Co. Dublin,q2,40%
+17/12/2018,"32 St. Helen'S Avenue, St. Helen'S, Adamstown",Dublin,255507.0,Yes,Adamstown,Co. Dublin,q3,80%
+18/12/2018,"12 St Helens Walk, Adamstown",Dublin,301762.0,Yes,Adamstown,Co. Dublin,q4,100%
+18/12/2018,"3 The Rise, The Padocks, Adamstown",Dublin,235000.0,No,Adamstown,Co. Dublin,q3,60%
+08/01/2019,"57 Adamstown Park, St. Helen'S, Adamstown",Dublin,308370.04,Yes,Adamstown,Co. Dublin,q4,100%
+09/01/2019,"11 St. Helen'S Walk, St. Helen'S, Adamstown",Dublin,330396.0,Yes,Adamstown,Co. Dublin,q4,100%
+10/01/2019,"8 St. Helen'S Chase, St. Helen'S, Adamstown",Dublin,264317.0,Yes,Adamstown,Co. Dublin,q4,80%
+11/01/2019,"43 Adamstown Park, St Helens, Adamstown",Dublin,308371.23,Yes,Adamstown,Co. Dublin,q4,100%
+14/01/2019,"110 Adamstown Ave, Adamstown Lucan, Dublin",Dublin,240000.0,No,Adamstown,Co. Dublin,q3,60%
+14/01/2019,"7 St. Helen'S Downs, St. Helen'S, Adamstown",Dublin,255506.0,Yes,Adamstown,Co. Dublin,q3,80%
+15/01/2019,"59 Adamstown Park, St. Helens, Adamstown",Dublin,310572.68,Yes,Adamstown,Co. Dublin,q4,100%
+16/01/2019,"53 Adamstown Park, St. Helen'S, Adamstown",Dublin,299559.47,Yes,Adamstown,Co. Dublin,q4,100%
+16/01/2019,"55 Adamstown Park, St. Helen'S, Adamstown",Dublin,299560.0,Yes,Adamstown,Co. Dublin,q4,100%
+17/01/2019,"45 Adamstown Park, St. Helen'S, Adamstown",Dublin,299559.0,Yes,Adamstown,Co. Dublin,q4,100%
+17/01/2019,"63 Adamstown Park, St. Helen'S, Adamstown",Dublin,301762.0,Yes,Adamstown,Co. Dublin,q4,100%
+23/01/2019,"29 Adamstown Park, St Helen'S, Adamstown",Dublin,303964.76,Yes,Adamstown,Co. Dublin,q4,100%
+28/01/2019,"51 Adamstown Park, St. Helens, Adamstown",Dublin,299559.47,Yes,Adamstown,Co. Dublin,q4,100%
+01/02/2019,"49 Adamstown Park, St. Helens, Adamstown",Dublin,299559.0,Yes,Adamstown,Co. Dublin,q4,100%
+06/02/2019,"5 St. Helen'S Walk, St. Helens, Adamstown",Dublin,259911.89,Yes,Adamstown,Co. Dublin,q4,80%
+12/02/2019,"7 Adamstown Way, Adamstown, Dublin",Dublin,227500.0,No,Adamstown,Co. Dublin,q3,60%
+18/02/2019,"10 St. Helen'S Chase, St. Helen'S, Adamstown",Dublin,303964.0,Yes,Adamstown,Co. Dublin,q4,100%
+19/02/2019,"Adamstown, Garristown, Co. Dublin",Dublin,218000.0,No,Adamstown,Co. Dublin,q2,50%
+22/02/2019,"20 St. Helen'S Downs, St. Helen'S, Adamstown",Dublin,273127.75,Yes,Adamstown,Co. Dublin,q4,90%
+25/02/2019,"6 St. Helen'S Walk, St. Helen'S, Adamstown",Dublin,259900.0,Yes,Adamstown,Co. Dublin,q4,80%
+27/02/2019,"14 St. Helen'S Downs, St. Helen'S, Adamstown",Dublin,321586.0,Yes,Adamstown,Co. Dublin,q4,100%
+28/02/2019,"1 St. Helen'S Walk, St. Helen'S, Adamstown",Dublin,325991.0,Yes,Adamstown,Co. Dublin,q4,100%
+28/02/2019,"16 St. Helen'S Downs, St. Helen'S, Adamstown",Dublin,264317.18,Yes,Adamstown,Co. Dublin,q4,90%
+28/02/2019,"2 St. Helens Walk, St. Helens, Adamstown",Dublin,270925.1,Yes,Adamstown,Co. Dublin,q4,90%
+04/03/2019,"4 St. Helen;S Downs, St. Helen'S, Adamstown Lucan",Dublin,259911.89,Yes,Adamstown,Co. Dublin,q4,80%
+05/03/2019,"18 St Helens Downs, St Helens, Adamstown",Dublin,264317.0,Yes,Adamstown,Co. Dublin,q4,80%
+05/03/2019,"8 St. Helen'S Walk, St. Helens, Adamstown",Dublin,270925.1,Yes,Adamstown,Co. Dublin,q4,90%
+08/03/2019,"10 St. Helen'S Walk, St. Helen'S, Adamstown",Dublin,306167.0,Yes,Adamstown,Co. Dublin,q4,100%
+08/03/2019,"5 St Helen'S Downs, St Helen'S, Adamstown",Dublin,255506.0,Yes,Adamstown,Co. Dublin,q3,80%
+08/03/2019,"51 Adamstown Ave, Adamstown, Dublin",Dublin,270000.0,No,Adamstown,Co. Dublin,q4,90%
+08/03/2019,"8 St. Helen'S Downs, St. Helen'S, Adamstown",Dublin,259911.89,Yes,Adamstown,Co. Dublin,q4,80%
+13/03/2019,"3 St. Helen'S Walk, St. Helen'S, Adamstown",Dublin,259911.89,Yes,Adamstown,Co. Dublin,q4,80%
+27/03/2019,"6 St. Helen'S Downs, St. Helen'S, Adamstown",Dublin,259912.0,Yes,Adamstown,Co. Dublin,q4,80%
+02/04/2019,"47 Adamstown Park, St. Helen'S, Adamstown",Dublin,299559.47,Yes,Adamstown,Co. Dublin,q4,100%
+03/04/2019,"19 Adamstown Park, Adamstown Square, Adamstown",Dublin,334801.76,Yes,Adamstown,Co. Dublin,q4,100%
+04/04/2019,"26 Stratton Drive, Adamstown Square, Adamstown",Dublin,361233.0,Yes,Adamstown,Co. Dublin,q4,100%
+05/04/2019,"101 Adamstown Way, Adamstown Square, Adamstown",Dublin,295154.18,Yes,Adamstown,Co. Dublin,q4,100%
+05/04/2019,"111  Adamstown Way, Adamstwn Square, Adamstown",Dublin,295154.18,Yes,Adamstown,Co. Dublin,q4,100%
+08/04/2019,"44 St. Helen'S Avenue, St. Helen'S, Adamstown",Dublin,259911.89,Yes,Adamstown,Co. Dublin,q4,80%
+25/04/2019,"28 The Paddocks Sq, Adamstown, Dublin",Dublin,275000.0,No,Adamstown,Co. Dublin,q4,90%
+26/04/2019,"107 Adamstown Way, Adamstown Square, Adamstown",Dublin,303964.75,Yes,Adamstown,Co. Dublin,q4,100%
+29/05/2019,"7 Castlegate Court, Adamstown Castle, Adamstown",Dublin,250000.0,No,Adamstown,Co. Dublin,q3,70%
+30/05/2019,"103 Adamstown Way, Adamstown Square, Adamstown",Dublin,321585.9,Yes,Adamstown,Co. Dublin,q4,100%
+07/06/2019,"22 Adamstown Park, Adamstown Square, Adamstown",Dublin,290000.0,No,Adamstown,Co. Dublin,q4,90%
+17/06/2019,"48 Stratton Walk, Adamstown Square, Adamstown",Dublin,310000.0,No,Adamstown,Co. Dublin,q4,100%
+21/06/2019,"105 Adamstown Way, Adamstown Square, Adamstown",Dublin,281938.32,Yes,Adamstown,Co. Dublin,q4,90%
+11/07/2019,"2 The Paddocks Court, Adamstown, Dublin",Dublin,240000.0,No,Adamstown,Co. Dublin,q3,60%
+25/07/2019,"109 Adamstown Way, Adamstown Square, Adamstown",Dublin,343612.0,Yes,Adamstown,Co. Dublin,q4,100%
+25/07/2019,"206 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,229074.88,Yes,Adamstown,Co. Dublin,q3,60%
+31/07/2019,"210 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,237885.46,Yes,Adamstown,Co. Dublin,q3,60%
+31/07/2019,"212 Adamstown Avenue, Adamstown Square, Adamstown",Dublin,237885.0,Yes,Adamstown,Co. Dublin,q3,60%
+08/08/2019,"42 Strattan Walk, Adamstown Square, Adamstown",Dublin,259000.0,No,Adamstown,Co. Dublin,q4,80%
+09/08/2019,"208 Adamsstown Avenue, Adamstown Square, Adamstown",Dublin,233480.17,Yes,Adamstown,Co. Dublin,q3,60%
+09/09/2019,"22 The Paddocks Sq, Adamstown, Dublin",Dublin,251000.0,No,Adamstown,Co. Dublin,q3,70%
+12/09/2019,"17 The Paddocks Sq, The Paddocks Rd, Adamstown",Dublin,258000.0,No,Adamstown,Co. Dublin,q4,80%
+20/09/2019,"49 Adamstown Park, St. Helens, Adamstown",Dublin,354000.0,No,Adamstown,Co. Dublin,q4,100%
+24/09/2019,"36 Castlegate Copse, Adamstown, Dublin",Dublin,271000.0,No,Adamstown,Co. Dublin,q4,90%
+10/10/2019,"47 The Paddocks View, Adamstown, Dublin",Dublin,320000.0,No,Adamstown,Co. Dublin,q4,100%

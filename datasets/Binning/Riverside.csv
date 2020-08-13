@@ -1,0 +1,75 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+25/05/2010,"Apartment 26, Hanover Riverside, Sir Rogersons Quay",Dublin,450000.0,No,Riverside,Dublin 17,q2,50%
+22/10/2010,"1 Riverside, Frankfort Park, Dundrum",Dublin,500000.0,No,Riverside,Dublin 17,q3,60%
+22/11/2010,"5 Riverside, Milltown Road, Milltown",Dublin,220000.0,No,Riverside,Dublin 17,q1,20%
+06/01/2011,"15A Riverside Drive, Rathfarnham, Dublin 14",Dublin,610000.0,No,Riverside,Dublin 17,q3,70%
+31/05/2011,"5 Riverside Drive, Rathfarnham, Dublin 16",Dublin,740000.0,No,Riverside,Dublin 17,q4,90%
+12/08/2011,"Apt 43 Block K, Hanover, Riverside",Dublin,320000.0,No,Riverside,Dublin 17,q2,30%
+24/08/2011,"Apartment 12, Riverside, Milltown Road Milltown",Dublin,183000.0,No,Riverside,Dublin 17,q1,10%
+26/09/2011,"Apartment 31, Hanover Riverside, Hanover Quay",Dublin,350000.0,No,Riverside,Dublin 17,q2,40%
+08/11/2011,"Apartment 12, Forbes Quay, Riverside Ii Grand Canal Harbour",Dublin,185000.0,No,Riverside,Dublin 17,q1,10%
+12/01/2012,"8 Riverside Drive, Castlepark, Rathfarnham",Dublin,700000.0,No,Riverside,Dublin 17,q4,90%
+28/03/2012,"34  Riverside Grove, Coolock",Dublin,166000.0,No,Riverside,Dublin 17,q1,10%
+28/05/2012,"42 Riverside Drive, Rathfarnham",Dublin,546000.0,No,Riverside,Dublin 17,q3,60%
+30/08/2012,"Apt 35 Hanover Riverside, Sir John Rogersons Qua, Dublin 2",Dublin,310000.0,No,Riverside,Dublin 17,q2,30%
+01/02/2013,"23 Riverside Drive, Castle Park, Rathfarnham",Dublin,650000.0,No,Riverside,Dublin 17,q4,80%
+20/06/2013,"1 Riverside Drive, Coolock, Dublin 17",Dublin,130420.0,No,Riverside,Dublin 17,q1,10%
+09/10/2013,"12 Riverside Crescent, Coolock",Dublin,210000.0,No,Riverside,Dublin 17,q1,20%
+20/12/2013,"39 Riverside Dr, Rathfarnham, Dublin 14",Dublin,665000.0,No,Riverside,Dublin 17,q4,80%
+24/01/2014,"25 Riverside Dr, Rathfarnham, Dublin 14",Dublin,665000.0,No,Riverside,Dublin 17,q4,80%
+30/05/2014,"3 Riverside Walk, Clonskeagh Road, Dublin 6",Dublin,198000.0,No,Riverside,Dublin 17,q1,20%
+22/07/2014,"15 Riverside Walk, Clonskeagh Rd, Clonskeagh Dublin 14",Dublin,290000.0,No,Riverside,Dublin 17,q1,30%
+29/07/2014,"Apt 51 Block L, Hanover Riverside, Hanover Quay Sir John Rogersons Q",Dublin,305000.0,No,Riverside,Dublin 17,q1,30%
+09/10/2014,"123 Riverside Park, Dublin 17",Dublin,188000.0,No,Riverside,Dublin 17,q1,10%
+12/12/2014,"49 Hanover Riverside, Sir John Rogersons Quay, Riverside Dublin 2",Dublin,620000.0,No,Riverside,Dublin 17,q3,70%
+15/12/2014,"14 Riverside Dr, Coolock, Dublin 17",Dublin,280000.0,No,Riverside,Dublin 17,q1,30%
+22/12/2014,"Apt 10, Hanover Riverside, Sir John Rogersons Quay",Dublin,412198.0,No,Riverside,Dublin 17,q2,50%
+14/01/2015,"68 Riverside Dr, Churchtown, Dublin 14",Dublin,620000.0,No,Riverside,Dublin 17,q3,70%
+16/01/2015,"52 Hanover Riverside, Block L, Sir John Rogerson'S Quay",Dublin,520000.0,No,Riverside,Dublin 17,q3,60%
+20/05/2015,"Apt 4 Hanover, Hanover Quay, Riverside Dublin 2",Dublin,425000.0,No,Riverside,Dublin 17,q2,50%
+15/06/2015,"51 Riverside Pk, Coolock, Dublin 17",Dublin,270000.0,No,Riverside,Dublin 17,q1,20%
+30/06/2015,"91 Hanover Riverside, Hanover Quay, Dublin 2",Dublin,350000.0,No,Riverside,Dublin 17,q2,40%
+16/09/2015,"68 Hanover Quay Hanover, Sir John Rogersons Quay, Riverside Dublin 2",Dublin,512000.0,No,Riverside,Dublin 17,q3,60%
+27/11/2015,"95 Riversidehanover, Quay Dublin 2, Dublin",Dublin,452000.0,No,Riverside,Dublin 17,q2,50%
+14/12/2015,"7 Riverside, Poddle Park, Kimmage Dublin 12",Dublin,176000.0,No,Riverside,Dublin 17,q1,10%
+25/01/2016,"16 Riverside Cottages, Templeogue, Dublin 16",Dublin,350000.0,No,Riverside,Dublin 17,q2,40%
+26/01/2016,"9A, Riverside Cottages, Templeogue Villare",Dublin,792951.54,Yes,Riverside,Dublin 17,q4,100%
+11/04/2016,"74 Clonshaugh Rd, Riverside, Coolock Dublin 17",Dublin,25200.0,No,Riverside,Dublin 17,q1,10%
+13/04/2016,"Apt.79 - Block M, Hanover Riverside, Hanover Quay",Dublin,258000.0,No,Riverside,Dublin 17,q1,20%
+22/04/2016,"9B Riverside Cottages, Templeogue, Dublin 6W",Dublin,793000.0,Yes,Riverside,Dublin 17,q4,100%
+18/05/2016,"74 Clonshaugh Rd, Riverside, Coolock Dublin 17",Dublin,245000.0,No,Riverside,Dublin 17,q1,20%
+26/05/2016,"50 Hanover Riverside, Sir John Rogersons Quay, Riverside Dublin 2",Dublin,785000.0,No,Riverside,Dublin 17,q4,90%
+11/07/2016,"115 Forbes Quay, Riverside Ii, Lazer Lane Dublin 2",Dublin,430000.0,No,Riverside,Dublin 17,q2,50%
+11/08/2016,"11 Riverside Dr, Castlepark, Rathfarnham Dublin 14",Dublin,1600000.0,No,Riverside,Dublin 17,q4,100%
+09/09/2016,"Apt 48 Block K, Hanover Riverside, Dublin 2",Dublin,890000.0,No,Riverside,Dublin 17,q4,100%
+13/10/2016,"5 The Riverside, Poddle Park, Kimmage Dublin 12",Dublin,160000.0,No,Riverside,Dublin 17,q1,10%
+14/10/2016,"5 Riverside, Ballyboughal, Dublin",Dublin,402000.0,No,Riverside,Dublin 17,q2,50%
+16/02/2017,"Apt 56, Hanover Riverside, Hanover Quay Dublin 2",Dublin,370000.0,No,Riverside,Dublin 17,q2,40%
+28/02/2017,"Apt 12 Block J, Hanover Riverside, Hanover Quay Apts Dublin 2",Dublin,550000.0,No,Riverside,Dublin 17,q3,60%
+23/03/2017,"21 Riverside Dr, Rathfarnham, Dublin 14",Dublin,875000.0,No,Riverside,Dublin 17,q4,100%
+15/05/2017,"17 Riverside Walk, Clonskeagh Rd, Clonskeagh Dublin 6",Dublin,335000.0,No,Riverside,Dublin 17,q2,40%
+16/05/2017,"43 Hanover Riverside, St John Rogerson'S Quay, Dublin 2",Dublin,580000.0,No,Riverside,Dublin 17,q3,70%
+01/06/2017,"Apt 21, Block J, Hanover Riverside",Dublin,705000.0,No,Riverside,Dublin 17,q4,90%
+30/06/2017,"2 Riverside Aprartment, Milltown Rd, Milltown Dublin 6",Dublin,400000.0,No,Riverside,Dublin 17,q2,40%
+03/08/2017,"Apartment 13, Hanover Riverside, Forbes Street",Dublin,570000.0,No,Riverside,Dublin 17,q3,60%
+21/09/2017,"Riverside, Cruagh Road, Rockbrook",Dublin,650000.0,No,Riverside,Dublin 17,q4,80%
+22/09/2017,"Riverside Lodge, Ballyboughal, Dublin",Dublin,605000.0,No,Riverside,Dublin 17,q3,70%
+30/11/2017,"Hanover Riverside Apt 1, Hanover Quay, Forbes St Dublin 2",Dublin,570000.0,No,Riverside,Dublin 17,q3,60%
+29/01/2018,"Apt 33 Block K, Hanover Riverside, Hanover Quay",Dublin,630000.0,No,Riverside,Dublin 17,q3,80%
+30/04/2018,"27 Riverside Dr, Rathfarnham, Dublin 14",Dublin,870000.0,No,Riverside,Dublin 17,q4,100%
+15/06/2018,"38 Hanover Riverside, Hanover Quay Apts, Hanover Quay Dublin 2",Dublin,640000.0,No,Riverside,Dublin 17,q3,80%
+22/06/2018,"66 Block L, Hanover Quay, Hanover Riverside Dublin 2",Dublin,430000.0,No,Riverside,Dublin 17,q2,50%
+03/07/2018,"2 Riverside Dr, Dublin 14, Dublin",Dublin,1135000.0,No,Riverside,Dublin 17,q4,100%
+04/07/2018,"Apt 2, Riverside Walk, Clonskeagh Rd Dublin 14",Dublin,290000.0,No,Riverside,Dublin 17,q1,30%
+27/07/2018,"36 Clonshaugh Rd, Riverside Estate, Coolock Dublin 17",Dublin,325000.0,No,Riverside,Dublin 17,q2,40%
+23/08/2018,"70 Hanover Riverside, Sir John Rogersons Quay, Dublin 2",Dublin,670000.0,No,Riverside,Dublin 17,q4,90%
+07/09/2018,"5 Hanover Riverside, Forbes St, Dublin 2",Dublin,615000.0,No,Riverside,Dublin 17,q3,70%
+18/10/2018,"9 Riverside Apartments, Milltown Road, Dublin 6",Dublin,320000.0,No,Riverside,Dublin 17,q2,30%
+31/10/2018,"57 Hanover Riverside, Hanover Quay Appartments, Hanover Quay Dublin 2",Dublin,635000.0,No,Riverside,Dublin 17,q3,80%
+02/11/2018,"18 Hanover Riverside, Forbes St, Riverside Dublin 2",Dublin,600000.0,No,Riverside,Dublin 17,q3,70%
+28/11/2018,"14 Riverside Apts, Milltown Rd, Dublin 6",Dublin,680000.0,No,Riverside,Dublin 17,q4,90%
+21/02/2019,"10 Riverside, Poddle Park, Dublin 12",Dublin,222000.0,No,Riverside,Dublin 17,q1,20%
+11/04/2019,"Apt 10, Hanover Riverside, Sir John Rogersons Quay",Dublin,583568.73,No,Riverside,Dublin 17,q3,70%
+02/05/2019,"15B Riverside Dr, Castle Park, Rathfarnham Dublin 14",Dublin,770000.0,No,Riverside,Dublin 17,q4,90%
+30/05/2019,"8 Riverside Apts, Milltown Rd, Milltown Dublin 6",Dublin,330000.0,No,Riverside,Dublin 17,q2,40%
+09/10/2019,"37 Riverside Dr, Churchtown, Dublin 14",Dublin,787000.0,No,Riverside,Dublin 17,q4,100%

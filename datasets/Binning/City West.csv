@@ -1,0 +1,57 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+15/06/2010,"219 Citywest Plaza, City West Drive",Dublin,127709.25,Yes,City West,Dublin 24,q1,10%
+16/06/2010,"28 Belfry Crescent, City West Road",Dublin,180000.0,No,City West,Dublin 24,q2,40%
+29/06/2010,"7 Belfry Court, City West",Dublin,177500.0,No,City West,Dublin 24,q2,30%
+25/08/2010,"Apartment 140  Block B3, Fortune'S Lane, City West",Dublin,182334.8,Yes,City West,Dublin 24,q2,40%
+25/01/2011,"107 Fortune'S Lawn, City West, Co Dublin",Dublin,185000.0,Yes,City West,Dublin 24,q2,40%
+25/01/2011,"109 Fortune'S Lawn, City West, Co Dublin",Dublin,160025.0,Yes,City West,Dublin 24,q1,20%
+25/01/2011,"110 Fortune'S Lawm, City West, Co Dublin",Dublin,160025.0,Yes,City West,Dublin 24,q1,20%
+25/01/2011,"111 Fortune'S Lawn, City West, Co Dublin",Dublin,160025.0,Yes,City West,Dublin 24,q1,30%
+25/01/2011,"111 Fortunes Lawn, City West, Co Dublin",Dublin,160025.0,Yes,City West,Dublin 24,q1,30%
+25/01/2011,"116 Fortune'S Lawn, City West, Co Dublin",Dublin,140021.88,Yes,City West,Dublin 24,q1,20%
+25/01/2011,"125 Fortune'S Lawn, City West, Co Dublin",Dublin,185000.0,Yes,City West,Dublin 24,q2,40%
+25/01/2011,"40 Fortune'S Walk, City West, Co Dublin",Dublin,188029.0,Yes,City West,Dublin 24,q2,40%
+25/01/2011,"43 Fortune'S Walk, City West, Co Dublin",Dublin,160025.0,Yes,City West,Dublin 24,q2,30%
+12/02/2013,"28 Belfry Downs, City West, Dublin 24",Dublin,129000.0,No,City West,Dublin 24,q1,10%
+01/05/2013,"42 Carrigmore Terrace, City West",Dublin,135000.0,No,City West,Dublin 24,q1,10%
+17/09/2013,"Apt 35 Belfry Hall, City West",Dublin,70000.0,No,City West,Dublin 24,q1,10%
+11/10/2013,"65 Carrigmore Lawn, City West, County Dublin",Dublin,150000.0,No,City West,Dublin 24,q1,20%
+29/04/2014,"28 Belfry Manor City West, Dublin 24, Dublin",Dublin,135000.0,No,City West,Dublin 24,q1,10%
+28/05/2014,"4 Belfry Gardens, City West Rd, Dublin 24",Dublin,151000.0,No,City West,Dublin 24,q1,20%
+09/10/2014,"12 Belfry Way, City West Rd, Dublin 24",Dublin,236000.0,No,City West,Dublin 24,q3,60%
+22/10/2014,"18 Belfry Grove, City West Rd, Dublin 24",Dublin,200000.0,No,City West,Dublin 24,q2,50%
+27/03/2015,"Apt 100 Block B2, Fortunes Lawn, City West Dublin",Dublin,175000.0,No,City West,Dublin 24,q2,30%
+28/08/2015,"24 Fortunes Walk, Citypark City West, Dublin 24",Dublin,221000.0,No,City West,Dublin 24,q2,50%
+01/03/2016,"Apt 36 Block B1, Fortunes Lawn, City West Dublin",Dublin,160000.0,No,City West,Dublin 24,q1,20%
+24/03/2016,"19 Belfry Downs City West, Dublin 24, Dublin",Dublin,230000.0,No,City West,Dublin 24,q2,50%
+04/08/2017,"8 The Way, City West",Dublin,312775.32,Yes,City West,Dublin 24,q4,100%
+09/10/2017,"58 Silken Park Avenue, City West",Dublin,229030.0,Yes,City West,Dublin 24,q2,50%
+05/12/2017,"Apt 14 Block B1, Fortunes Lawn, City West Dublin",Dublin,234000.0,No,City West,Dublin 24,q3,60%
+20/12/2017,"12 Cuil Duin Row, City West",Dublin,277533.0,Yes,City West,Dublin 24,q4,80%
+08/01/2018,"8 Cuil Duin Row, Cuil Duin, City West",Dublin,246696.0,Yes,City West,Dublin 24,q3,70%
+22/01/2018,"28 Block 1, Fortunestown Lane, City West",Dublin,232500.0,No,City West,Dublin 24,q3,60%
+28/03/2018,"12 Belfry Way, City West Rd, Dublin 24",Dublin,300000.0,No,City West,Dublin 24,q4,90%
+13/04/2018,"14 Cuil Duin Avenue, Cuil Duin, City West",Dublin,264317.0,Yes,City West,Dublin 24,q4,80%
+09/07/2018,"46 Cuil Duin Walk, City West, Dublin 24",Dublin,244522.5,Yes,City West,Dublin 24,q3,60%
+13/07/2018,"30 Cuil Duin Walk, Cuil Duin, City West",Dublin,277533.04,Yes,City West,Dublin 24,q4,90%
+14/09/2018,"21 The Close, City West Village, City West",Dublin,328703.0,Yes,City West,Dublin 24,q4,100%
+19/10/2018,"30 Carriagmore Crescent, Fortunestown Lane, City West",Dublin,243000.0,No,City West,Dublin 24,q3,60%
+20/11/2018,"39 Belfry Dr, City West, Dublin 24",Dublin,75000.0,No,City West,Dublin 24,q1,10%
+07/12/2018,"18 City West Village Green South, City West Village, Citwest",Dublin,307938.0,Yes,City West,Dublin 24,q4,90%
+21/12/2018,"22 Carrigmore Terrace, City West, Dublin",Dublin,255000.0,No,City West,Dublin 24,q3,80%
+01/02/2019,"13 Belfry Green, City West, Dublin",Dublin,250000.0,No,City West,Dublin 24,q3,80%
+06/03/2019,"18 The Hil 1, City West Village, City West",Dublin,310572.0,Yes,City West,Dublin 24,q4,90%
+21/03/2019,"Apt 53, The Belfry Cresent, City West",Dublin,197000.0,No,City West,Dublin 24,q2,40%
+30/04/2019,"Apt 65 James Harold Suite, West Park, City West",Dublin,246428.57,No,City West,Dublin 24,q3,60%
+30/04/2019,"Apt 69 James Harold Block, West Park, City West",Dublin,246528.57,No,City West,Dublin 24,q3,70%
+30/04/2019,"Apt 70 James Harold Block, West Park, City West",Dublin,246428.57,No,City West,Dublin 24,q3,70%
+30/04/2019,"Apt 71 James Harold Block, West Park, City West",Dublin,246428.57,No,City West,Dublin 24,q3,70%
+30/04/2019,"Apt 73 James Harold Block, West Park, City West",Dublin,246428.57,No,City West,Dublin 24,q3,70%
+15/05/2019,"Apt 46 Belfrey Hall, City West, Dublin",Dublin,204000.0,No,City West,Dublin 24,q2,50%
+17/06/2019,"11 Stone Masons Court, Fortunestown Lane, City West",Dublin,357145.27,Yes,City West,Dublin 24,q4,100%
+17/06/2019,"12 Stone Masons Court, Fortunestown Lane, City West",Dublin,351945.27,Yes,City West,Dublin 24,q4,100%
+28/06/2019,"3 Cuil Duin Lawn, Cuil Duin, City West",Dublin,277533.04,Yes,City West,Dublin 24,q4,90%
+15/08/2019,"Apartment 74 Fortunes Lawn, City Park, City West",Dublin,265000.0,No,City West,Dublin 24,q4,80%
+27/09/2019,"8 Silken Park Avenue, City West Business Park, Dublin 24",Dublin,335000.0,No,City West,Dublin 24,q4,100%
+30/09/2019,"39 City West Avenue, Cuil Duin, City West",Dublin,317180.62,Yes,City West,Dublin 24,q4,100%
+03/10/2019,"55 Belfry Crescent, City West, Dublin 24",Dublin,260000.0,No,City West,Dublin 24,q3,80%

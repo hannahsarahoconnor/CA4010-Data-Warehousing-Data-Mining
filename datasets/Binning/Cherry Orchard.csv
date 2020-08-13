@@ -1,0 +1,72 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+28/10/2011,"39 Cedar Brook Way, Cherry Orchard, Dublin 10",Dublin,94000.0,No,Cherry Orchard,Dublin 10,q1,10%
+25/11/2013,"26 Cedar Brook Place, Cherry Orchard, Dublin 10",Dublin,105000.0,No,Cherry Orchard,Dublin 10,q1,20%
+28/03/2014,"4 Cedar Brook Place, Cherry Orchard",Dublin,75500.0,No,Cherry Orchard,Dublin 10,q1,10%
+02/05/2014,"109 Cedar Brook Walk Cherry Orchard, Dublin 10, Dublin",Dublin,86000.0,No,Cherry Orchard,Dublin 10,q1,10%
+16/05/2014,"55 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,99500.0,No,Cherry Orchard,Dublin 10,q1,20%
+24/09/2014,"31 Cedarbrook Place, Cherry Orchard, Dublin 10",Dublin,112000.0,No,Cherry Orchard,Dublin 10,q1,20%
+12/12/2014,"21 Croftwood Park, Cherry Orchard, Dublin 10",Dublin,140000.0,No,Cherry Orchard,Dublin 10,q2,40%
+17/12/2014,"68 Cederbrook Ave, Cherry Orchard, Dublin 10",Dublin,125000.0,No,Cherry Orchard,Dublin 10,q2,30%
+23/01/2015,"80 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,175000.0,No,Cherry Orchard,Dublin 10,q3,70%
+10/02/2015,"125 Cedar Brook Avenue, Cherry Orchard, Dublin 10",Dublin,122000.0,No,Cherry Orchard,Dublin 10,q1,30%
+20/02/2015,"13 Cedarbrook Way Cherry Orchard, Dublin 10, Dublin",Dublin,102000.0,No,Cherry Orchard,Dublin 10,q1,20%
+27/02/2015,"1 Cedar Brook Place, Cherry Orchard, Dublin 10",Dublin,97000.0,No,Cherry Orchard,Dublin 10,q1,10%
+24/04/2015,"54 Cherry Orchard Ave, Dublin 10, Dublin",Dublin,135000.0,No,Cherry Orchard,Dublin 10,q2,30%
+05/06/2015,"85 Cedar Brook Avenue, Cherry Orchard, Dublin 10",Dublin,95000.0,No,Cherry Orchard,Dublin 10,q1,10%
+23/06/2015,"23 Cedar Brook Ave, Cherry Orchard, Dublin 10",Dublin,137000.0,No,Cherry Orchard,Dublin 10,q2,30%
+22/07/2015,"56 Cedarbrook Way, Cherry Orchard, Dublin 10",Dublin,93000.0,No,Cherry Orchard,Dublin 10,q1,10%
+30/07/2015,"101 Cedar Brook Avenuie, Cedar Brook, Cherry Orchard",Dublin,124000.0,No,Cherry Orchard,Dublin 10,q2,30%
+02/12/2015,"51 Cedarbrook Ave Cherry Orchard, Dublin 10, Dublin",Dublin,116000.0,No,Cherry Orchard,Dublin 10,q1,30%
+14/12/2015,"16 Cedarbrook Place, Cherry Orchard, Dublin",Dublin,91000.0,No,Cherry Orchard,Dublin 10,q1,10%
+22/01/2016,"17 Cedarbrook Walk, Cherry Orchard, Dublin 10",Dublin,110000.0,No,Cherry Orchard,Dublin 10,q1,20%
+01/03/2016,"123 Cedarbrook Ave Apts, Cherry Orchard, Dublin 1",Dublin,140000.0,No,Cherry Orchard,Dublin 10,q2,40%
+01/03/2016,"37 Cedarbrook Way Cherry Orchard, Dublin 10, Dublin",Dublin,138000.0,No,Cherry Orchard,Dublin 10,q2,40%
+06/05/2016,"36 Cedarbrook Place Cherry Orchard, Dublin 10, Dublin",Dublin,62500.0,No,Cherry Orchard,Dublin 10,q1,10%
+13/06/2016,"1 Cedar Brook Place, Cherry Orchard, Dublin 10",Dublin,120000.0,No,Cherry Orchard,Dublin 10,q1,30%
+08/07/2016,"8 Croftwood Park, Cherry Orchard, Dublin 10",Dublin,152000.0,No,Cherry Orchard,Dublin 10,q2,50%
+19/07/2016,"46 Cedarbrook Walk, Cherry Orchard, Dublin 20",Dublin,106000.0,No,Cherry Orchard,Dublin 10,q1,20%
+25/08/2016,"17 Croftwood Park, Cherry Orchard, Dublin 10",Dublin,152000.0,No,Cherry Orchard,Dublin 10,q2,50%
+04/10/2016,"95 Cedar Brook Ave, Cherry Orchard, Dublin 10",Dublin,140000.0,No,Cherry Orchard,Dublin 10,q2,40%
+04/10/2016,"Apt 110 Cedarbrook Ave, Cherry Orchard, Dublin 10",Dublin,150000.0,No,Cherry Orchard,Dublin 10,q2,50%
+20/10/2016,"51 Cedarbrook Walk, Cherry Orchard, Dublin 10",Dublin,105000.0,No,Cherry Orchard,Dublin 10,q1,20%
+08/11/2016,"98 Cedar Brook Ave, Cherry Orchard, Dublin 10",Dublin,167500.0,No,Cherry Orchard,Dublin 10,q3,70%
+21/11/2016,"16 Cedar Brook Ave, Cherry Orchard, Dublin 10",Dublin,140000.0,No,Cherry Orchard,Dublin 10,q2,40%
+05/12/2016,"103 Cedarbrook Ave Cherry Orchard, Dublin 10, Dublin",Dublin,167000.0,No,Cherry Orchard,Dublin 10,q3,70%
+21/12/2016,"16 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,142500.0,No,Cherry Orchard,Dublin 10,q2,40%
+22/12/2016,"36 Cedar Brook Way, Cherry Orchard, Dublin 10",Dublin,160000.0,No,Cherry Orchard,Dublin 10,q3,60%
+28/02/2017,"10 Cedarbrook Way, Cherry Orchard, Dublin 10",Dublin,151000.0,No,Cherry Orchard,Dublin 10,q2,50%
+11/04/2017,"21, Croftwood Drive, Cherry Orchard Dublin 10",Dublin,169000.0,No,Cherry Orchard,Dublin 10,q3,70%
+22/09/2017,"13 Cedarbrook Way Cherry Orchard, Dublin 10, Dublin",Dublin,175000.0,No,Cherry Orchard,Dublin 10,q3,70%
+13/10/2017,"57 Cedar Brook Way, Cherry Orchard, Dublin 10",Dublin,190000.0,No,Cherry Orchard,Dublin 10,q4,80%
+20/10/2017,"92 Cedar Brook Ave, Cherry Orchard, Dublin 10",Dublin,144000.0,No,Cherry Orchard,Dublin 10,q2,50%
+18/12/2017,"38 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,175000.0,No,Cherry Orchard,Dublin 10,q3,70%
+05/02/2018,"56 Cedarbrook Way, Cherry Orchard, Dublin 10",Dublin,165000.0,No,Cherry Orchard,Dublin 10,q3,60%
+12/04/2018,"114 Cedarbrook Ave, Cedarbrook, Cherry Orchard Dublin 10",Dublin,221000.0,No,Cherry Orchard,Dublin 10,q4,100%
+19/06/2018,"68 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,162000.0,No,Cherry Orchard,Dublin 10,q3,60%
+09/07/2018,"32 Cedar Brook Way, Cherry Orchard, Dublin 10",Dublin,195000.0,No,Cherry Orchard,Dublin 10,q4,90%
+16/08/2018,"102 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,200000.0,No,Cherry Orchard,Dublin 10,q4,90%
+18/09/2018,"21, Croftwood Drive, Cherry Orchard Dublin 10",Dublin,220000.0,No,Cherry Orchard,Dublin 10,q4,100%
+05/10/2018,"58 Cedar Brook Way, Cherry Orchard, Dublin 10",Dublin,140000.0,No,Cherry Orchard,Dublin 10,q2,40%
+05/10/2018,"90 Cedarbrook Walk, Cherry Orchard, Dublin 10",Dublin,160000.0,No,Cherry Orchard,Dublin 10,q3,60%
+16/10/2018,"44 Cedar Brook Way, Cherry Orchard, Dublin 10",Dublin,195000.0,No,Cherry Orchard,Dublin 10,q4,90%
+19/11/2018,"6 Cedar Brook Way, Cherry Orchard, Dublin 10",Dublin,198000.0,No,Cherry Orchard,Dublin 10,q4,90%
+22/11/2018,"42 Cedar Brook Place, Cherry Orchard, Dublin 10",Dublin,230000.0,No,Cherry Orchard,Dublin 10,q4,100%
+04/12/2018,"24 Cedarbrook Ave, Cherry Orchard, Dublin 10",Dublin,210000.0,No,Cherry Orchard,Dublin 10,q4,100%
+08/02/2019,"7 Cedarbrook Ave, Cherry Orchard, Dublin 10",Dublin,196500.0,No,Cherry Orchard,Dublin 10,q4,90%
+08/04/2019,"107 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,190000.0,No,Cherry Orchard,Dublin 10,q4,80%
+10/04/2019,"55 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,225000.0,No,Cherry Orchard,Dublin 10,q4,100%
+12/04/2019,"94 Cedarbrook Avenue, Cherry Orchard, Dublin 10",Dublin,160000.0,No,Cherry Orchard,Dublin 10,q3,60%
+17/05/2019,"135 Cedarbrook Ave, Cherry Orchard, Dublin 10",Dublin,149000.0,No,Cherry Orchard,Dublin 10,q2,50%
+30/05/2019,"113 Cedarbrook Walk, Cherry Orchard, Dublin 10",Dublin,158500.0,No,Cherry Orchard,Dublin 10,q3,60%
+14/06/2019,"54 Cedar Brook Avenue, Cherry Orchard, Dublin 10",Dublin,230000.0,No,Cherry Orchard,Dublin 10,q4,100%
+26/06/2019,"51 Cedar Brook Way, Cherry Orchard, Dublin 10",Dublin,157000.0,No,Cherry Orchard,Dublin 10,q3,60%
+10/07/2019,"97 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,185000.0,No,Cherry Orchard,Dublin 10,q3,80%
+02/08/2019,"138 Cedar Brook Ave, Cherry Orchard, Dublin 10",Dublin,200000.0,No,Cherry Orchard,Dublin 10,q4,90%
+26/08/2019,"27 Cedarbrook Way, Cherry Orchard, Dublin 10",Dublin,185000.0,No,Cherry Orchard,Dublin 10,q3,80%
+06/09/2019,"23 Cedarbrook Way, Cherry Orchard, Dublin 10",Dublin,189950.0,No,Cherry Orchard,Dublin 10,q4,80%
+13/09/2019,"31 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,205000.0,No,Cherry Orchard,Dublin 10,q4,100%
+27/09/2019,"38 Cedarbrook Way, Cherry Orchard, Dublin 10",Dublin,170500.0,No,Cherry Orchard,Dublin 10,q3,70%
+30/09/2019,"46 Cedarbrook Ave, Cherry Orchard, Dublin 10",Dublin,155000.0,No,Cherry Orchard,Dublin 10,q2,50%
+03/10/2019,"14 Cedar Brook Walk, Cherry Orchard, Dublin 10",Dublin,196000.0,No,Cherry Orchard,Dublin 10,q4,90%
+04/10/2019,"121 Cedar Brook Ave, Cherry Orchard, Dublin 10",Dublin,185000.0,No,Cherry Orchard,Dublin 10,q4,80%
+04/10/2019,"128 Cedarbrook Ave, Cherry Orchard, Dublin 10",Dublin,180000.0,No,Cherry Orchard,Dublin 10,q3,80%

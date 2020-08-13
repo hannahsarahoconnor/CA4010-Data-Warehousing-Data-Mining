@@ -1,0 +1,786 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+13/01/2010,"47 Dalriada, Knocklyon, Dublin 16",Dublin,70000.0,No,Knocklyon,Dublin 16,q1,10%
+14/01/2010,"13 Ros Mor View, Scholarstown Road, Knocklyon",Dublin,270000.0,No,Knocklyon,Dublin 16,q1,10%
+20/01/2010,"215 Glenvara Park, Knocklyon",Dublin,282000.0,No,Knocklyon,Dublin 16,q1,20%
+22/01/2010,"11 Dalriada Square, Knocklyon",Dublin,257665.0,Yes,Knocklyon,Dublin 16,q1,10%
+25/01/2010,"22 Idrone Drive, Knocklyon",Dublin,325000.0,No,Knocklyon,Dublin 16,q1,30%
+08/02/2010,"3 Woodstown Drive, Knocklyon, Dublin 16",Dublin,409500.0,No,Knocklyon,Dublin 16,q3,60%
+10/02/2010,"2 Dalriada Hall, Knocklyon",Dublin,293000.0,Yes,Knocklyon,Dublin 16,q1,20%
+11/02/2010,"2 Woodstown Dale, Knocklyon, Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+16/02/2010,"Site No. 40 Dalriada, Knocklyon",Dublin,328149.78,Yes,Knocklyon,Dublin 16,q2,30%
+19/02/2010,"32 Beverly Heights, Knocklyon",Dublin,360000.0,No,Knocklyon,Dublin 16,q2,40%
+19/03/2010,"97 Coolamber Park, Knocklyon",Dublin,440000.0,No,Knocklyon,Dublin 16,q3,70%
+24/03/2010,"25 Glenvara Park, Knocklyon",Dublin,415000.0,No,Knocklyon,Dublin 16,q3,60%
+01/04/2010,"27 Woodstown Parade, Knocklyon",Dublin,377000.0,No,Knocklyon,Dublin 16,q2,50%
+09/04/2010,"4 Woodstown Parade, Knocklyon",Dublin,345000.0,No,Knocklyon,Dublin 16,q2,40%
+21/04/2010,"18 Delwood Grove, Knocklyon, Dublin 16",Dublin,440000.0,No,Knocklyon,Dublin 16,q3,70%
+26/04/2010,"11 Castlefield Way, Knocklyon",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+28/04/2010,"19 Beverly Grove, Knocklyon, Dublin 16",Dublin,318000.0,No,Knocklyon,Dublin 16,q1,30%
+30/04/2010,"16Woodstown Parade, Knocklyon, Dublin 16",Dublin,365000.0,No,Knocklyon,Dublin 16,q2,40%
+30/04/2010,"21 Delaford Park, Knocklyon Woods, Dublin 16",Dublin,350000.0,No,Knocklyon,Dublin 16,q2,40%
+07/05/2010,"13 Ashton Close, Knocklyon, Dublin 16",Dublin,398000.0,No,Knocklyon,Dublin 16,q3,60%
+14/05/2010,"16 Woodstown Park, Knocklyon, Dublin 16",Dublin,397500.0,No,Knocklyon,Dublin 16,q3,60%
+19/05/2010,"3 Prospect Lodge, Knocklyon, Dublin 16",Dublin,265008.7,No,Knocklyon,Dublin 16,q1,10%
+31/05/2010,"12 Knocklyon Court, Knocklyon",Dublin,300000.0,No,Knocklyon,Dublin 16,q1,20%
+08/06/2010,"14 Aston Avenue, Knocklyon, Dublin 16",Dublin,365000.0,No,Knocklyon,Dublin 16,q2,40%
+10/06/2010,"24 Wooddale Crescent, Knocklyon, Dublin 24",Dublin,300000.0,No,Knocklyon,Dublin 16,q1,20%
+15/06/2010,"39 Woodstown Heath, Knocklyon",Dublin,333000.0,No,Knocklyon,Dublin 16,q2,30%
+23/06/2010,"2 Woodstown Heath, Knocklyon",Dublin,355000.0,No,Knocklyon,Dublin 16,q2,40%
+30/06/2010,"28 Woodstown Vale, Knocklyon, Dublin 16",Dublin,335000.0,No,Knocklyon,Dublin 16,q2,30%
+30/06/2010,"35 Beverly Downs, Knocklyon, Dublin 16",Dublin,365000.0,No,Knocklyon,Dublin 16,q2,40%
+01/07/2010,"4 Orlagh Lawn, Orlagh Grove, Knocklyon",Dublin,560000.0,No,Knocklyon,Dublin 16,q4,100%
+02/07/2010,"14 Beverly Avenue, Knocklyon, Dublin 16",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+09/07/2010,"7 Dalriada Court, Knocklyon",Dublin,285859.0,Yes,Knocklyon,Dublin 16,q1,20%
+09/07/2010,"7 Orlagh View, Knocklyon",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+13/07/2010,"9 Dalriada Square, Knocklyon",Dublin,255000.0,Yes,Knocklyon,Dublin 16,q1,10%
+19/07/2010,"10 Dalriada Square, Knocklyon, Dublin 16",Dublin,250000.0,Yes,Knocklyon,Dublin 16,q1,10%
+20/07/2010,"28 Woodstown Abbey, Knocklyon, Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+28/07/2010,"17 Orlagh View, Knocklyon",Dublin,345000.0,No,Knocklyon,Dublin 16,q2,40%
+06/08/2010,"17 Orlagh Avenue, Knocklyon, Dublin 16",Dublin,360000.0,No,Knocklyon,Dublin 16,q2,40%
+11/08/2010,"12 Orlagh Green, Knocklyon, Dublin 16",Dublin,460000.0,No,Knocklyon,Dublin 16,q3,80%
+14/08/2010,"20 Knockfield Manor, Knocklyon, Dublin 16",Dublin,460000.0,No,Knocklyon,Dublin 16,q3,80%
+17/08/2010,"15 Dalriada Avenue, Knocklyon, Dublin 16",Dublin,294670.0,Yes,Knocklyon,Dublin 16,q1,20%
+20/08/2010,"61 Cremorne, Knocklyon",Dublin,515000.0,No,Knocklyon,Dublin 16,q4,90%
+23/08/2010,"4 Dalriada Square, Knocklyon",Dublin,215000.0,Yes,Knocklyon,Dublin 16,q1,10%
+25/08/2010,"72 Lansdown Park, Knocklyon, Dublin 16",Dublin,460000.0,No,Knocklyon,Dublin 16,q3,80%
+30/08/2010,"23 Woodstown Abbey, Knocklyon",Dublin,343000.0,No,Knocklyon,Dublin 16,q2,40%
+01/09/2010,"2 Orlagh Downs, Scholarstown Road, Knocklyon",Dublin,435000.0,No,Knocklyon,Dublin 16,q3,70%
+15/09/2010,"17 Knocklyon Close, Knocklyon, Dublin 16",Dublin,352000.0,No,Knocklyon,Dublin 16,q2,40%
+15/09/2010,"49 Dalriada, Knocklyon",Dublin,295000.0,Yes,Knocklyon,Dublin 16,q1,20%
+21/09/2010,"Apartment 27, Rosmor View, Knocklyon",Dublin,245000.0,No,Knocklyon,Dublin 16,q1,10%
+24/09/2010,"23 Landsowne Park, Knocklyon Road, Templeogue",Dublin,545000.0,No,Knocklyon,Dublin 16,q4,90%
+01/10/2010,"59 Knocklyon Gate, Knocklyon",Dublin,191000.0,No,Knocklyon,Dublin 16,q1,10%
+01/10/2010,"98 Darglewood, Knocklyon",Dublin,320000.0,No,Knocklyon,Dublin 16,q1,30%
+11/10/2010,"19 Woodstown Place, Knocklyon, Dubin 16",Dublin,355000.0,No,Knocklyon,Dublin 16,q2,40%
+13/10/2010,"3 Dalriada, Knocklyon",Dublin,228590.3,Yes,Knocklyon,Dublin 16,q1,10%
+18/10/2010,"7 Woodstown Hill, Woodstown Village, Knocklyon",Dublin,380000.0,No,Knocklyon,Dublin 16,q2,50%
+29/10/2010,"54 Coolamber Park, Knocklyon Road, Knocklyon",Dublin,474000.0,No,Knocklyon,Dublin 16,q4,80%
+08/11/2010,"29 Beverly Drive, Knocklyon, Dublin",Dublin,370000.0,No,Knocklyon,Dublin 16,q2,40%
+12/11/2010,"29 Delaford Avenue, Knocklyon",Dublin,380000.0,No,Knocklyon,Dublin 16,q2,50%
+17/11/2010,"11 Knocklyon Court, Templeogue",Dublin,343500.0,No,Knocklyon,Dublin 16,q2,40%
+15/12/2010,"22 Dargle Wood, Knocklyon",Dublin,480000.0,No,Knocklyon,Dublin 16,q4,80%
+07/01/2011,"2 Woodstown Way, Knocklyon",Dublin,325000.0,No,Knocklyon,Dublin 16,q1,30%
+18/01/2011,"16 Knocklyon Park, Knocklyon",Dublin,342000.0,No,Knocklyon,Dublin 16,q2,30%
+19/01/2011,"83 Coolamber Park, Knocklyon, Dublin 16",Dublin,420000.0,No,Knocklyon,Dublin 16,q3,60%
+09/02/2011,"139 Dalriada, Knocklyon",Dublin,224185.02,Yes,Knocklyon,Dublin 16,q1,10%
+18/02/2011,"67 Templeroan Avenue, Knocklyon",Dublin,425000.0,No,Knocklyon,Dublin 16,q3,70%
+03/03/2011,"9 Orlagh View, Knocklyon, Dublin 16",Dublin,322000.0,No,Knocklyon,Dublin 16,q1,30%
+21/03/2011,"5 Ashton Grove, Knocklyon",Dublin,340000.0,No,Knocklyon,Dublin 16,q2,30%
+30/03/2011,"13 Templeroan Close, Knocklyon, Dublin 16",Dublin,350000.0,No,Knocklyon,Dublin 16,q2,40%
+04/04/2011,"206 Glenvara Park, Knocklyon, Dublin 16",Dublin,261000.0,No,Knocklyon,Dublin 16,q1,10%
+20/04/2011,"17 Woodstown Hill, Knocklyon",Dublin,320000.0,No,Knocklyon,Dublin 16,q1,30%
+20/04/2011,"23  Idrone Park, Knocklyon",Dublin,330000.0,No,Knocklyon,Dublin 16,q2,30%
+20/04/2011,"24 Templeroan Close, Knocklyon",Dublin,320000.0,No,Knocklyon,Dublin 16,q1,30%
+01/06/2011,"12  Oakdale Road, Bayycullen Park, Knocklyon",Dublin,270000.0,No,Knocklyon,Dublin 16,q1,10%
+01/06/2011,"13 Orlagh Wood, Knocklyon",Dublin,335000.0,No,Knocklyon,Dublin 16,q2,30%
+10/06/2011,"16 Woodstown Road, Knocklyon",Dublin,525000.0,No,Knocklyon,Dublin 16,q4,90%
+17/06/2011,"46 Beverly Avenue, Knocklyon",Dublin,314500.0,No,Knocklyon,Dublin 16,q1,20%
+27/06/2011,"22 Woodstown Way, Knocklyon",Dublin,319500.0,No,Knocklyon,Dublin 16,q1,30%
+05/07/2011,"15 Idrone Park, Knocklyon",Dublin,305000.0,No,Knocklyon,Dublin 16,q1,20%
+08/07/2011,"34 Beverly Downs, Knocklyon, Dublin 16",Dublin,269800.0,No,Knocklyon,Dublin 16,q1,10%
+15/07/2011,"32 Woodfield, Knocklyon",Dublin,240000.0,No,Knocklyon,Dublin 16,q1,10%
+02/08/2011,"7 Templeroan Meadows, Knocklyon, Dublin 16",Dublin,318000.0,No,Knocklyon,Dublin 16,q1,30%
+05/08/2011,"25 Woodstown Park, Knocklyon",Dublin,555000.0,No,Knocklyon,Dublin 16,q4,100%
+31/08/2011,"8 Knockfield Manor, Knocklyon",Dublin,447000.0,No,Knocklyon,Dublin 16,q3,70%
+07/09/2011,"25 Orlagh Avenue, Knocklyon",Dublin,310000.0,No,Knocklyon,Dublin 16,q1,20%
+12/09/2011,"5 Woodstock Park, Knocklyon Road, Dublin 16",Dublin,259000.0,No,Knocklyon,Dublin 16,q1,10%
+15/09/2011,"1 Castlefield Green, Knocklyon",Dublin,227000.0,No,Knocklyon,Dublin 16,q1,10%
+23/09/2011,"39 Woodstown Way, Knocklyon, Dublin16",Dublin,255000.0,No,Knocklyon,Dublin 16,q1,10%
+23/09/2011,"74 Templeroan Avenue, Knocklyon",Dublin,335000.0,No,Knocklyon,Dublin 16,q2,30%
+26/09/2011,"1 Woodstown Dale, Woodstown Village, Knocklyon",Dublin,320000.0,No,Knocklyon,Dublin 16,q1,30%
+05/10/2011,"24 Orlagh Downs, Knocklyon",Dublin,390000.0,No,Knocklyon,Dublin 16,q2,50%
+07/10/2011,"6 Mount Alton Court, Knocklyon Road, Templeogue",Dublin,785000.0,No,Knocklyon,Dublin 16,q4,100%
+03/11/2011,"11 Knocklyon Close, Templeogue",Dublin,315000.0,No,Knocklyon,Dublin 16,q1,20%
+03/11/2011,"5  Woodstown Lane, Woodstown Village, Knocklyon",Dublin,260500.0,No,Knocklyon,Dublin 16,q1,10%
+04/11/2011,"10 Knocklyon Grove, Knocklyon",Dublin,270000.0,No,Knocklyon,Dublin 16,q1,10%
+04/11/2011,"140 Woodfield, Scholarstown Road, Knocklyon",Dublin,357000.0,No,Knocklyon,Dublin 16,q2,40%
+30/11/2011,"12 Knocklyon Avenue, Knocklyon",Dublin,385000.0,No,Knocklyon,Dublin 16,q2,50%
+15/12/2011,"29 Idrone Drive, Knocklyon",Dublin,364000.0,No,Knocklyon,Dublin 16,q2,40%
+16/12/2011,"23 Orlagh Wood  Orlagh Grove, Knocklyon  Dublin 16",Dublin,405000.0,No,Knocklyon,Dublin 16,q3,60%
+22/12/2011,"3 Woodstown Heath, Knocklyon",Dublin,282000.0,No,Knocklyon,Dublin 16,q1,20%
+30/12/2011,"28 Ros Mor View, Scholarstown Road, Knocklyon",Dublin,173000.0,No,Knocklyon,Dublin 16,q1,10%
+20/01/2012,"87  Idrone Park, Knocklyon, Templeogue",Dublin,240000.0,No,Knocklyon,Dublin 16,q1,10%
+25/01/2012,"77 Idrone Drive, Knocklyon",Dublin,315000.0,No,Knocklyon,Dublin 16,q1,20%
+03/02/2012,"38 Templeroan Park, Knocklyon",Dublin,395000.0,No,Knocklyon,Dublin 16,q2,50%
+14/02/2012,"29 Coolamber Court, Knocklyon, Dublin 16",Dublin,350000.0,No,Knocklyon,Dublin 16,q2,40%
+24/02/2012,"29 Castlefield Park, Knocklyon",Dublin,320000.0,No,Knocklyon,Dublin 16,q1,30%
+05/03/2012,"28 Templeroan Court, Knocklyon",Dublin,389000.0,No,Knocklyon,Dublin 16,q2,50%
+07/03/2012,"46 Knocklyon Gate, Knocklyon",Dublin,120000.0,No,Knocklyon,Dublin 16,q1,10%
+15/03/2012,"19 Glenlyon Crescent, Knocklyon",Dublin,349000.0,No,Knocklyon,Dublin 16,q2,40%
+28/03/2012,"32 Mount Alton, Knocklyon, Dublin 16",Dublin,335000.0,No,Knocklyon,Dublin 16,q2,30%
+13/04/2012,"8 Glenlyon Grove, Knocklyon, Dublin 16",Dublin,310000.0,No,Knocklyon,Dublin 16,q1,20%
+04/05/2012,"1 Knocklyon Park, Knocklyon Woods",Dublin,305000.0,No,Knocklyon,Dublin 16,q1,20%
+20/06/2012,"18 Delaford Lawn, Knocklyon",Dublin,280000.0,No,Knocklyon,Dublin 16,q1,20%
+22/06/2012,"10 Knocklyon Drive, Kocklyon, Dublin 16",Dublin,290000.0,No,Knocklyon,Dublin 16,q1,20%
+26/06/2012,"44 Woodstown Heath, Knocklyon, Dublin 16",Dublin,295000.0,No,Knocklyon,Dublin 16,q1,20%
+03/07/2012,"5 Knockaire, Knocklyon",Dublin,420000.0,No,Knocklyon,Dublin 16,q3,60%
+06/07/2012,"34 Delaford Park, Knocklyon, Dublin 16",Dublin,265000.0,No,Knocklyon,Dublin 16,q1,10%
+11/07/2012,"32 Orlagh Downs, Orlagh Grove, Knocklyon",Dublin,363500.0,No,Knocklyon,Dublin 16,q2,40%
+13/07/2012,"27 Woodstown Way, Knocklyon",Dublin,255000.0,No,Knocklyon,Dublin 16,q1,10%
+25/07/2012,"7 Orlagh Rise, Knocklyon",Dublin,371000.0,No,Knocklyon,Dublin 16,q2,50%
+08/08/2012,"33 Mount Alton, Knocklyon",Dublin,330000.0,No,Knocklyon,Dublin 16,q2,30%
+31/08/2012,"15 Orlagh Downs, Knocklyon",Dublin,346000.0,No,Knocklyon,Dublin 16,q2,40%
+07/09/2012,"5 Knoclyon Road, Knocklyon, Dublin",Dublin,300000.0,No,Knocklyon,Dublin 16,q1,20%
+11/09/2012,"37 Orlagh Wood, Knocklyon, Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+13/09/2012,"58 Beverley Avenue, Knocklyon, Dublin 16",Dublin,365000.0,No,Knocklyon,Dublin 16,q2,40%
+28/09/2012,"7 Idrone Close, Knocklyon, Dublin 16",Dublin,325000.0,No,Knocklyon,Dublin 16,q1,30%
+03/10/2012,"Apt. 9 Garthy Wood, Knocklyon",Dublin,110000.0,No,Knocklyon,Dublin 16,q1,10%
+05/10/2012,"37 Lansdowne Pk, Knocklyon, Dublin 16",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+12/10/2012,"18 Orlagh Grove, Knocklyon",Dublin,395000.0,No,Knocklyon,Dublin 16,q2,50%
+12/10/2012,"28 Coolamber Court, Knocklyon",Dublin,420000.0,No,Knocklyon,Dublin 16,q3,60%
+19/10/2012,"37 Beverly Downs, Knocklyon",Dublin,278000.0,No,Knocklyon,Dublin 16,q1,20%
+26/10/2012,"8 Ballyroan Close, Knocklyon",Dublin,361500.0,No,Knocklyon,Dublin 16,q2,40%
+05/11/2012,"126 Glenvara Park, Knocklyon",Dublin,300000.0,No,Knocklyon,Dublin 16,q1,20%
+26/11/2012,"85 Lansdowne Park, Knocklyon",Dublin,385000.0,No,Knocklyon,Dublin 16,q2,50%
+29/11/2012,"14 Woodstown Gardens, Knocklyon, Dublin 16",Dublin,290000.0,No,Knocklyon,Dublin 16,q1,20%
+07/12/2012,"6 Templeroan Grove, Knocklyon",Dublin,314000.0,No,Knocklyon,Dublin 16,q1,20%
+12/12/2012,"20 Idrone Drive, Knocklyon, Dublin 16",Dublin,385000.0,No,Knocklyon,Dublin 16,q2,50%
+14/12/2012,"136 Glenvara Park, Knocklyon",Dublin,240000.0,No,Knocklyon,Dublin 16,q1,10%
+17/12/2012,"33 Orlagh Wood, Knocklyon, Dublin 16",Dublin,401000.0,No,Knocklyon,Dublin 16,q3,60%
+18/12/2012,"25 Idrone Drive, Knocklyon",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+19/12/2012,"77 Idrone Drive, Knocklyon, Dublin 16",Dublin,290000.0,No,Knocklyon,Dublin 16,q1,20%
+28/12/2012,"62 Beverley Avenue, Beverley Court, Knocklyon",Dublin,425000.0,No,Knocklyon,Dublin 16,q3,70%
+08/02/2013,"27 Coolamber Park, Knocklyon, Dublin 16",Dublin,335000.0,No,Knocklyon,Dublin 16,q2,30%
+25/02/2013,"17 Woodstown Place, Knocklyon",Dublin,295000.0,No,Knocklyon,Dublin 16,q1,20%
+26/02/2013,"13 Templeroan Green, Knocklyon",Dublin,270000.0,No,Knocklyon,Dublin 16,q1,10%
+22/03/2013,"3 Ballycragh, Old Knocklyon Road, Knocklyon",Dublin,427313.0,Yes,Knocklyon,Dublin 16,q3,70%
+09/04/2013,"2 Ballycragh, Old Knocklyon Road, Knocklyon",Dublin,389250.0,Yes,Knocklyon,Dublin 16,q2,50%
+22/04/2013,"4 Ballycragh, Old Knocklyon Road, Knocklyon",Dublin,418502.2,Yes,Knocklyon,Dublin 16,q3,60%
+24/04/2013,"26 Mount Alton, Knocklyon, Dublin16",Dublin,307000.0,No,Knocklyon,Dublin 16,q1,20%
+26/04/2013,"1 Ballycragh, Old Knocklyon Road, Knocklyon",Dublin,485000.0,No,Knocklyon,Dublin 16,q4,80%
+26/04/2013,"118 Dargle Wood, Knocklyon, Dublin 16",Dublin,350000.0,No,Knocklyon,Dublin 16,q2,40%
+01/05/2013,"11 Beverley Court, Knocklyon",Dublin,300000.0,No,Knocklyon,Dublin 16,q1,20%
+09/05/2013,"21 Beverly Crescent, Knocklyon",Dublin,295000.0,No,Knocklyon,Dublin 16,q1,20%
+29/05/2013,"12 Woodstown Lane, Knocklyon",Dublin,316000.0,No,Knocklyon,Dublin 16,q1,20%
+17/06/2013,"22 Woodstown Rise, Knocklyon, Dublin 16",Dublin,373000.0,No,Knocklyon,Dublin 16,q2,50%
+18/06/2013,"20 Woodstown Rise, Knocklyon, Dublin 16",Dublin,360000.0,No,Knocklyon,Dublin 16,q2,40%
+21/06/2013,"14 Castlefield Way, Knocklyon, Dublin 16",Dublin,271000.0,No,Knocklyon,Dublin 16,q1,10%
+26/06/2013,"103, Coolamber Park, Knocklyon",Dublin,386000.0,No,Knocklyon,Dublin 16,q2,50%
+01/07/2013,"2 Orlagh Lawn, Knocklyon",Dublin,474000.0,No,Knocklyon,Dublin 16,q4,80%
+03/07/2013,"28 Orlagh Grove, Knocklyon",Dublin,495000.0,No,Knocklyon,Dublin 16,q4,90%
+03/07/2013,"8 Ros Mor View, Knocklyon",Dublin,170000.0,No,Knocklyon,Dublin 16,q1,10%
+03/07/2013,"Apt 4 Ros Mor View, Knocklyon, Dublin 16",Dublin,175000.0,No,Knocklyon,Dublin 16,q1,10%
+05/07/2013,"22 Woodstown Close, Knocklyon",Dublin,350000.0,No,Knocklyon,Dublin 16,q2,40%
+05/07/2013,"44 Wooddale View, Knocklyon, Dublin 16",Dublin,245000.0,No,Knocklyon,Dublin 16,q1,10%
+09/07/2013,"4 Castlefield Grove, Castlefield Manor, Knocklyon",Dublin,330000.0,No,Knocklyon,Dublin 16,q2,30%
+19/07/2013,"1 Castlefield Grove, Castlefield Manor, Knocklyon",Dublin,360000.0,No,Knocklyon,Dublin 16,q2,40%
+19/07/2013,"18 Idrone Close, Knocklyon",Dublin,367000.0,No,Knocklyon,Dublin 16,q2,40%
+19/07/2013,"28, Delaford Grove, Knocklyon",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+19/07/2013,"9 Beverley Crescent, Knocklyon",Dublin,295000.0,No,Knocklyon,Dublin 16,q1,20%
+25/07/2013,"32 Orlagh Court, Knocklyon",Dublin,483000.0,No,Knocklyon,Dublin 16,q4,80%
+25/07/2013,"Landys Estate, Knocklyon Road, Templeogue",Dublin,500000.0,No,Knocklyon,Dublin 16,q4,90%
+30/07/2013,"15 Woodstown Park, Woodstown Village, Knocklyon",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+12/08/2013,"114 Coolamber Park, Knocklyon",Dublin,399950.0,No,Knocklyon,Dublin 16,q3,60%
+13/08/2013,"15 Beverly Drive, Knocklyon, Dublin 16",Dublin,285000.0,No,Knocklyon,Dublin 16,q1,20%
+22/08/2013,"5 Knocklyon Close, Knocklyon",Dublin,420000.0,No,Knocklyon,Dublin 16,q3,60%
+23/08/2013,"4  Orlagh Park, Knocklyon",Dublin,395000.0,No,Knocklyon,Dublin 16,q2,50%
+28/08/2013,"1 Cherbury Mews, Knocklyon",Dublin,466960.0,Yes,Knocklyon,Dublin 16,q3,80%
+28/08/2013,"89 Coolamber Park, Knocklyon, Dublin 16",Dublin,386000.0,No,Knocklyon,Dublin 16,q2,50%
+30/08/2013,"27 Knocklyon Park, Knocklyon, Dublin 16",Dublin,365000.0,No,Knocklyon,Dublin 16,q2,40%
+10/09/2013,"9 Knocklyon Close, Knocklyon",Dublin,370000.0,No,Knocklyon,Dublin 16,q2,40%
+13/09/2013,"2 Cherbury Mews, Knocklyon",Dublin,484581.0,Yes,Knocklyon,Dublin 16,q4,80%
+16/09/2013,"21 Delaford Drive, Knocklyon",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,70%
+19/09/2013,"21 Castlefield Drive, Castlefield Manor, Knocklyon",Dublin,365000.0,No,Knocklyon,Dublin 16,q2,40%
+19/09/2013,"5 Cherbury Mews, Knocklyon",Dublin,577500.0,Yes,Knocklyon,Dublin 16,q4,100%
+27/09/2013,"32 Woodstown Vale, Knocklyon, Dublin 16",Dublin,320000.0,No,Knocklyon,Dublin 16,q1,30%
+15/10/2013,"5 Castlefield Court, Knocklyon",Dublin,343000.0,No,Knocklyon,Dublin 16,q2,40%
+25/10/2013,"149 Darglewood, Knocklyon",Dublin,340000.0,No,Knocklyon,Dublin 16,q2,30%
+01/11/2013,"17 Beverly Drive, Knocklyon",Dublin,282000.0,No,Knocklyon,Dublin 16,q1,20%
+15/11/2013,"8 Dalriada Close, Knocklyon, Dublin 16",Dublin,315000.0,No,Knocklyon,Dublin 16,q1,20%
+21/11/2013,"3 Orlagh Downs, Knocklyon, Dublin",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+09/12/2013,"14 Woodstown Park, Woodstown Village, Knocklyon Dublin 16",Dublin,441000.0,No,Knocklyon,Dublin 16,q3,70%
+11/12/2013,"4 Cherbury Mews, Knocklyon, Dublin 16",Dublin,576500.0,Yes,Knocklyon,Dublin 16,q4,100%
+12/12/2013,"6 Beverly Grove, Knocklyon, Dublin 16",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+16/12/2013,"161 Glenvara Park, Knocklyon, Dublin 16",Dublin,348000.0,No,Knocklyon,Dublin 16,q2,40%
+19/12/2013,"12 Woodstown Crescent, Knocklyon, Dublin 16",Dublin,327500.0,No,Knocklyon,Dublin 16,q2,30%
+19/12/2013,"39 Templeroan Way, Knocklyon, Dublin 16",Dublin,510500.0,No,Knocklyon,Dublin 16,q4,90%
+19/12/2013,"67 Idrone Drive, Knocklyon, Templeogue",Dublin,399950.0,No,Knocklyon,Dublin 16,q3,60%
+17/01/2014,"41 Woodstown Heights, Knocklyon, Dublin 16",Dublin,350000.0,No,Knocklyon,Dublin 16,q2,40%
+24/01/2014,"18 Woodstown Meadow, Knocklyon, Dublin 16",Dublin,347000.0,No,Knocklyon,Dublin 16,q2,40%
+27/01/2014,"1 Templeroan Meadows, Knocklyon, Dublin 16",Dublin,467000.0,No,Knocklyon,Dublin 16,q3,80%
+31/01/2014,"33 Coolamber Court, Knocklyon, Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+20/02/2014,"26  Templeroan Meadows, Knocklyon",Dublin,462000.0,No,Knocklyon,Dublin 16,q3,80%
+28/02/2014,"12 Orlagh Park, Knocklyon, Dublin 16",Dublin,455000.0,No,Knocklyon,Dublin 16,q3,80%
+12/03/2014,"13 Castlefield Dr, Castlefield Manor, Knocklyon Dublin 16",Dublin,371000.0,No,Knocklyon,Dublin 16,q2,50%
+12/03/2014,"22 Dargle Wood, Knocklyon, Dublin 16",Dublin,486000.0,No,Knocklyon,Dublin 16,q4,80%
+14/03/2014,"3 Knocklyon Road, Templeogue, Dublin 16",Dublin,260000.0,No,Knocklyon,Dublin 16,q1,10%
+24/03/2014,"5 Taobh Na Coille, Old Knocklyon Rd, Knocklyon",Dublin,220000.0,No,Knocklyon,Dublin 16,q1,10%
+04/04/2014,"3 Cherbury Mews, Knocklyon",Dublin,513215.0,Yes,Knocklyon,Dublin 16,q4,90%
+23/04/2014,"5 Delaford Dr, Knocklyon, Dublin 16",Dublin,442000.0,No,Knocklyon,Dublin 16,q3,70%
+23/04/2014,"92 Scholarstown Park, Knocklyon, Dublin",Dublin,372500.0,No,Knocklyon,Dublin 16,q2,50%
+25/04/2014,"42 Knockaire, Knocklyon, Dublin 16",Dublin,520000.0,No,Knocklyon,Dublin 16,q4,90%
+09/05/2014,"39 Idrone Dr, Knocklyon Woods, Templeogue Dublin 16",Dublin,405000.0,No,Knocklyon,Dublin 16,q3,60%
+14/05/2014,"24 Hunters Lane, Hunters Wood, Knocklyon Dublin 24",Dublin,285000.0,No,Knocklyon,Dublin 16,q1,20%
+15/05/2014,"5 Woodstown Heath, Knocklyon, Dublin 16",Dublin,420000.0,No,Knocklyon,Dublin 16,q3,60%
+28/05/2014,"19 Knocklyon Park, Templeogue, Dublin 16",Dublin,435000.0,No,Knocklyon,Dublin 16,q3,70%
+29/05/2014,"22 Ashton Close, Knocklyon, Dublin 16",Dublin,512500.0,No,Knocklyon,Dublin 16,q4,90%
+09/06/2014,"26 Woodstown Vale, Knocklyon, Dublin 16",Dublin,382000.0,No,Knocklyon,Dublin 16,q2,50%
+13/06/2014,"10 Ashton Grove, Knocklyon, Dublin 16",Dublin,453000.0,No,Knocklyon,Dublin 16,q3,80%
+17/06/2014,"22 Knocklyon Gate, Knocklyon, Dublin 16",Dublin,200000.0,No,Knocklyon,Dublin 16,q1,10%
+20/06/2014,"23 Woodstown Park, Knocklyon, Dublin 16",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+25/06/2014,"145 Coolamber Park, Knocklyon, Dublin 16",Dublin,385000.0,No,Knocklyon,Dublin 16,q2,50%
+03/07/2014,"60 Ashton Ave, Knocklyon, Dublin 16",Dublin,440000.0,No,Knocklyon,Dublin 16,q3,70%
+04/07/2014,"6 Castlefield Court, Castlefield Manor, Knocklyon Dublin 16",Dublin,380000.0,No,Knocklyon,Dublin 16,q2,50%
+04/07/2014,"9 Glenvara Park, Knocklyon, Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+07/07/2014,"5 Delaford Lawn, Knocklyon Woods, Templeogue Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+14/07/2014,"37 Idrone Dr, Knocklyon, Dublin 16",Dublin,455000.0,No,Knocklyon,Dublin 16,q3,80%
+14/07/2014,"64 Landsdowne Park, Knocklyon, Dublin 16",Dublin,520000.0,No,Knocklyon,Dublin 16,q4,90%
+15/07/2014,"15 Beverley Grove, Knocklyon",Dublin,303800.0,No,Knocklyon,Dublin 16,q1,20%
+15/07/2014,"22 Templeroan Green, Knocklyon",Dublin,283500.0,No,Knocklyon,Dublin 16,q1,20%
+15/07/2014,"223 Glenvara Park, Knocklyon, Dublin 16",Dublin,345000.0,No,Knocklyon,Dublin 16,q2,40%
+16/07/2014,"17 Woodstown Way, Woodstown Village, Knocklyon Dublin 16",Dublin,437000.0,No,Knocklyon,Dublin 16,q3,70%
+18/07/2014,"14 Woodstown Rd, Knocklyon, Dublin 16",Dublin,490000.0,No,Knocklyon,Dublin 16,q4,80%
+11/08/2014,"55 Templeroan Ave, Knocklyon, Dublin 16",Dublin,497000.0,No,Knocklyon,Dublin 16,q4,90%
+11/08/2014,"6 Woodstown Heights, Knocklyon, Dublin 16",Dublin,372500.0,No,Knocklyon,Dublin 16,q2,50%
+14/08/2014,"3 Knocklyon Drive, Rathfrnham, Dublin",Dublin,488675.0,No,Knocklyon,Dublin 16,q4,80%
+18/08/2014,"8 Ashton Close, Knocklyon",Dublin,525000.0,No,Knocklyon,Dublin 16,q4,90%
+22/08/2014,"32 Beverly Lawns, Knocklyon",Dublin,417000.0,No,Knocklyon,Dublin 16,q3,60%
+26/08/2014,"63 Landsdowne Park, Knocklyon",Dublin,498000.0,No,Knocklyon,Dublin 16,q4,90%
+29/08/2014,"34 Woodstown Vale, Woodstown Village, Knocklyon",Dublin,351000.0,No,Knocklyon,Dublin 16,q2,40%
+04/09/2014,"43 Knocklyon Gate, Knocklyon, Dublin 16",Dublin,209000.0,No,Knocklyon,Dublin 16,q1,10%
+04/09/2014,"9 Castlefield Park, Knocklyon, Dublin 16",Dublin,360000.0,No,Knocklyon,Dublin 16,q2,40%
+08/09/2014,"23 Templeroan Way, Knocklyon, Dublin 16",Dublin,455000.0,No,Knocklyon,Dublin 16,q3,80%
+16/09/2014,"18 Woodstown Crescent, Knocklyon, Dublin 16",Dublin,40962.66,No,Knocklyon,Dublin 16,q1,10%
+16/09/2014,"19 Orlagh Wood, Orlagh Grove, Knocklyon Dublin 16",Dublin,421000.0,No,Knocklyon,Dublin 16,q3,70%
+19/09/2014,"19 Templeroan Downs, Knocklyon, Dublin 16",Dublin,454000.0,No,Knocklyon,Dublin 16,q3,80%
+26/09/2014,"102 Coolamber Park, Knocklyon, Dublin 16",Dublin,533000.0,No,Knocklyon,Dublin 16,q4,90%
+01/10/2014,"41 Idrone Park, Knocklyon, Templeogue Dublin 16",Dublin,440000.0,No,Knocklyon,Dublin 16,q3,70%
+03/10/2014,"13 Woodstown Heights, Knocklyon Dublin 16, Dublin",Dublin,422000.0,No,Knocklyon,Dublin 16,q3,70%
+09/10/2014,"23 Knockfield Manor, Knocklyon, Templeogue Dublin 16",Dublin,405000.0,No,Knocklyon,Dublin 16,q3,60%
+21/10/2014,"9 Delaford Dr, Knocklyon, Dublin 16",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,70%
+22/10/2014,"6A Castlefield Way, Knocklyon, Dublin 16",Dublin,285000.0,No,Knocklyon,Dublin 16,q1,20%
+23/10/2014,"12 Woodstown Crescent, Knocklyon, Dublin 16",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+24/10/2014,"25 Templeroan Downs, Knocklyon, Dublin 16",Dublin,453000.0,No,Knocklyon,Dublin 16,q3,80%
+30/10/2014,"19 Templeroan Crescent, Knocklyon, Dublin 16",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,70%
+26/11/2014,"31 Glenvara Park, Knocklyon, Templeogue Dublin 16",Dublin,370000.0,No,Knocklyon,Dublin 16,q2,40%
+05/12/2014,"6 Ashton Close, Knocklyon, Dublin 16",Dublin,501000.0,No,Knocklyon,Dublin 16,q4,90%
+10/12/2014,"25 Woodstown Heights, Knocklyon Dublin 16, Dublin",Dublin,440000.0,No,Knocklyon,Dublin 16,q3,70%
+10/12/2014,"6 Knocklyon Cottages, Knocklyon Rd, Templeogue Dublin 16",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,70%
+12/12/2014,"13 Pine Grove, Knocklyon, Dublin 16",Dublin,320000.0,No,Knocklyon,Dublin 16,q1,30%
+12/12/2014,"3 Templeroan Dr, Knocklyon, Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+15/12/2014,"22 Cremorne, Knocklyon, Templeogue Dublin 16",Dublin,552500.0,No,Knocklyon,Dublin 16,q4,100%
+18/12/2014,"30 Woodstown Dr, Knocklyon, Dublin 16",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+19/12/2014,"21 Woodstown Meadow, Knocklyon, Dublin 16",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+19/12/2014,"7 Knocklyon Green, Knocklyon, Dublin 16",Dublin,417000.0,No,Knocklyon,Dublin 16,q3,60%
+12/01/2015,"1 Templeroan Downs, Knocklyon",Dublin,480000.0,No,Knocklyon,Dublin 16,q4,80%
+27/01/2015,"3 The Rookery, Scholarstown Rd, Knocklyon Dublin 16",Dublin,805000.0,No,Knocklyon,Dublin 16,q4,100%
+13/02/2015,"21 Templeroan Grove, Knocklyon, Dublin 16",Dublin,380000.0,No,Knocklyon,Dublin 16,q2,50%
+24/02/2015,"16 Castlefield Park, Knocklyon, Dublin 16",Dublin,395000.0,No,Knocklyon,Dublin 16,q2,50%
+10/03/2015,"4 Woodstown Place, Woodstown Village, Knocklyon Dublin 16",Dublin,435000.0,No,Knocklyon,Dublin 16,q3,70%
+31/03/2015,"10 Woodstown Dale, Knocklyon, Dublin 16",Dublin,437000.0,No,Knocklyon,Dublin 16,q3,70%
+01/04/2015,"2 Templeroan Grove, Knocklyon, Dublin 16",Dublin,390000.0,No,Knocklyon,Dublin 16,q2,50%
+01/04/2015,"39A Templeroan Way, Knocklyon",Dublin,610000.0,Yes,Knocklyon,Dublin 16,q4,100%
+02/04/2015,"10 Woodstown Rise, Woodstown Village, Knocklyon Dublin 16",Dublin,505000.0,No,Knocklyon,Dublin 16,q4,90%
+02/04/2015,"6 Woodstown Walk, Knocklyon, Dublin 16",Dublin,373000.0,No,Knocklyon,Dublin 16,q2,50%
+20/04/2015,"11 Beverly Downs, Knocklyon, Dublin 16",Dublin,420000.0,No,Knocklyon,Dublin 16,q3,60%
+24/04/2015,"26 Ashton Ave, Knocklyon, Dublin 16",Dublin,411000.0,No,Knocklyon,Dublin 16,q3,60%
+24/04/2015,"36 Woodstown Dr, Woodstown Village, Knocklyon Dublin 16",Dublin,383000.0,No,Knocklyon,Dublin 16,q2,50%
+30/04/2015,"16 Knocklyon Gate, Knocklyon Dublin 16, Dublin",Dublin,190000.0,No,Knocklyon,Dublin 16,q1,10%
+07/05/2015,"26 Ashton Close, Knocklyon, Templeogue Dublin 16",Dublin,520000.0,No,Knocklyon,Dublin 16,q4,90%
+18/05/2015,"1 Knocklyon Cottages, Dublin 16, Dublin",Dublin,391000.0,No,Knocklyon,Dublin 16,q2,50%
+20/05/2015,"31 Woodstown Heath, Knocklyon, Dublin 16",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+20/05/2015,"33 Ros Mor View, Old Scholarstown Rd, Knocklyon Dublin 16",Dublin,260000.0,No,Knocklyon,Dublin 16,q1,10%
+22/05/2015,"16A Templeroon Green Templeroon, Knocklyon, Dublin",Dublin,480000.0,No,Knocklyon,Dublin 16,q4,80%
+22/05/2015,"39 Knocklyon Gate, Knocklyon, Dublin 16",Dublin,237500.0,No,Knocklyon,Dublin 16,q1,10%
+27/05/2015,"4 Orlagh Downs, Knocklyon, Dublin 16",Dublin,365000.0,No,Knocklyon,Dublin 16,q2,40%
+10/06/2015,"81 Glenvara Park, Knocklyon, Dublin 16",Dublin,475000.0,No,Knocklyon,Dublin 16,q4,80%
+12/06/2015,"16 Woodstown Hill, Woodstown Village, Knocklyon Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+17/06/2015,"16 Delaford Avenue, Knocklyon",Dublin,425000.0,No,Knocklyon,Dublin 16,q3,70%
+19/06/2015,"174 Glenvara Park, Knocklyon, Dublin 16",Dublin,315000.0,No,Knocklyon,Dublin 16,q1,20%
+19/06/2015,"28 Orlagh Downs, Orlagh Grove, Knocklyon Dublin 16",Dublin,485000.0,No,Knocklyon,Dublin 16,q4,80%
+26/06/2015,"1 Beverly Green, Knocklyon Rd, Dublin 16",Dublin,440000.0,No,Knocklyon,Dublin 16,q3,70%
+29/06/2015,"211 Glenvara Park, Knocklyon, Dublin 16",Dublin,350000.0,No,Knocklyon,Dublin 16,q2,40%
+30/06/2015,"38 Knockfield Manor, Knocklyon, Dublin 16",Dublin,545000.0,No,Knocklyon,Dublin 16,q4,90%
+02/07/2015,"14 Woodstock Park, Knocklyon Rd, Dublin 16",Dublin,360000.0,No,Knocklyon,Dublin 16,q2,40%
+02/07/2015,"26 Woodstown Heath, Knocklyon, Dublin 16",Dublin,370000.0,No,Knocklyon,Dublin 16,q2,50%
+06/07/2015,"33 Greenfield Pk, Knocklyon, Dublin 24",Dublin,357750.0,No,Knocklyon,Dublin 16,q2,40%
+14/07/2015,"34A Dargle Wood, Knocklyon, Dublin 16",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+16/07/2015,"13 Beverly Heights, Knocklyon, Dublin 16",Dublin,375500.0,No,Knocklyon,Dublin 16,q2,50%
+24/07/2015,"13 Woodstown Abbey, Knocklyon, Dublin 16",Dublin,650000.0,No,Knocklyon,Dublin 16,q4,100%
+29/07/2015,"15 Dalriada Ave, Knocklyon, Dublin 16",Dublin,355000.0,No,Knocklyon,Dublin 16,q2,40%
+29/07/2015,"32 Dargle Wood, Knocklyon, Dublin 16",Dublin,360000.0,No,Knocklyon,Dublin 16,q2,40%
+31/07/2015,"1 Woodstown Place, Knocklyon, Dublin 16",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,70%
+31/07/2015,"28 Dalriada Court, Knocklyon, Dublin 16",Dublin,213990.0,Yes,Knocklyon,Dublin 16,q1,10%
+31/07/2015,"29 Dalriada Court, Knocklyon, Dublin 16",Dublin,214185.0,Yes,Knocklyon,Dublin 16,q1,10%
+31/07/2015,"55 Westbourne Lodge, Knocklyon, Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+12/08/2015,"11 Idrone Dr, Knocklyon, Dublin 16",Dublin,465000.0,No,Knocklyon,Dublin 16,q3,80%
+13/08/2015,"23 Hersil Wood, Knocklyon, Dublin 16",Dublin,559471.0,Yes,Knocklyon,Dublin 16,q4,100%
+13/08/2015,"24 Hersil Wood, Knocklyon, Dublin 16",Dublin,515418.0,Yes,Knocklyon,Dublin 16,q4,90%
+17/08/2015,"12 Dalriada Park, Dalriada, Knocklyon",Dublin,295154.19,Yes,Knocklyon,Dublin 16,q1,20%
+17/08/2015,"14 Ashton Ave, Knocklyon, Dublin 16",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+24/08/2015,"139 Dargle Wood, Knocklyon, Dublin 16",Dublin,485000.0,No,Knocklyon,Dublin 16,q4,80%
+28/08/2015,"23 Dalriada Court, Knocklyon, Dublin 16",Dublin,205374.15,Yes,Knocklyon,Dublin 16,q1,10%
+01/09/2015,"13 Castlefield Green, Knocklyon",Dublin,314000.0,No,Knocklyon,Dublin 16,q1,20%
+04/09/2015,"21 Hersil Wood, Knocklyon",Dublin,484582.0,Yes,Knocklyon,Dublin 16,q4,80%
+09/09/2015,"26 Dal Riada Court, Knocklyon",Dublin,211453.75,Yes,Knocklyon,Dublin 16,q1,10%
+11/09/2015,"21 Lansdowne Park, Knocklyon, Dublin 16",Dublin,650000.0,No,Knocklyon,Dublin 16,q4,100%
+15/09/2015,"16 Dalriada Court, Knocklyon",Dublin,324316.86,Yes,Knocklyon,Dublin 16,q1,30%
+16/09/2015,"30 Castlefield Court, Castlefield Manor, Knocklyon",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+17/09/2015,"13 Dalriada Park, Knocklyon, Dublin 16",Dublin,295154.0,Yes,Knocklyon,Dublin 16,q1,20%
+17/09/2015,"Apt 24 Dalriada Court, Knocklyon",Dublin,209780.0,Yes,Knocklyon,Dublin 16,q1,10%
+18/09/2015,"2 Dalriada Hall, Dalriada Court, Knocklyon Dublin 16",Dublin,335000.0,No,Knocklyon,Dublin 16,q2,30%
+18/09/2015,"3 Castlefield Court, Knocklyon, Dublin 16",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+21/09/2015,"129 Coolamber Park, Knocklyon, Dublin 16",Dublin,445000.0,No,Knocklyon,Dublin 16,q3,70%
+23/09/2015,"23 Dalriada Sq, Knocklyon, Dublin 16",Dublin,235500.0,No,Knocklyon,Dublin 16,q1,10%
+24/09/2015,"24 Dalriada Ave, Knocklyon, Dublin 16",Dublin,295000.0,No,Knocklyon,Dublin 16,q1,20%
+24/09/2015,"5 Templeroan Dr, Knocklyon, Templeogue Dublin 16",Dublin,445000.0,No,Knocklyon,Dublin 16,q3,70%
+28/09/2015,"4 Knocklyon Grove, Templeogue, Dublin",Dublin,510000.0,No,Knocklyon,Dublin 16,q4,90%
+29/09/2015,"31 Woodstown Abbey, Knocklyon, Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+30/09/2015,"17 Dalriada Court, Knocklyon, Dublin 16",Dublin,334802.0,Yes,Knocklyon,Dublin 16,q2,30%
+02/10/2015,"153 Dargle Wood, Knocklyon, Templeogue",Dublin,385000.0,No,Knocklyon,Dublin 16,q2,50%
+07/10/2015,"32 Idrone Dr, Knocklyon, Dublin 16",Dublin,435000.0,No,Knocklyon,Dublin 16,q3,70%
+09/10/2015,"18 Beverly Downs, Knocklyon, Dublin 16",Dublin,359000.0,No,Knocklyon,Dublin 16,q2,40%
+21/10/2015,"16 Dalriada Sq, Knocklyon, Dublin 16",Dublin,330000.0,No,Knocklyon,Dublin 16,q2,30%
+22/10/2015,"20 Hersil Wood, Knocklyon",Dublin,550660.8,Yes,Knocklyon,Dublin 16,q4,100%
+23/10/2015,"17 Dalriada Sq, Knocklyon, Dublin 16",Dublin,290000.0,No,Knocklyon,Dublin 16,q1,20%
+29/10/2015,"1 Ros Mor View, Scholarstown Rd, Knocklyon Dublin 16",Dublin,245000.0,No,Knocklyon,Dublin 16,q1,10%
+30/10/2015,"13 Delafort Lawn, Knocklyon Woods, Templeogue",Dublin,396000.0,No,Knocklyon,Dublin 16,q3,60%
+30/10/2015,"18 Dalriada Court, Knocklyon",Dublin,315506.0,Yes,Knocklyon,Dublin 16,q1,20%
+30/10/2015,"25 Castlefield Dr, Castlefield Manor, Knocklyon Dublin 16",Dublin,365000.0,No,Knocklyon,Dublin 16,q2,40%
+02/11/2015,"21 Dargle Wood, Knocklyon, Dublin 16",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+02/11/2015,"24 Ashton Ave, Knocklyon, Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+03/11/2015,"24 Woodstown Lane, Knocklyon, Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+09/11/2015,"19 Woodstown Vale, Knocklyon, Dublin 16",Dublin,376000.0,No,Knocklyon,Dublin 16,q2,50%
+20/11/2015,"17 Dalriada Park, Knocklyon",Dublin,351541.85,Yes,Knocklyon,Dublin 16,q2,40%
+27/11/2015,"16 Ashton Close, Knocklyon, Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+27/11/2015,"4 Orlagh Crescent, Scholarstown Rd, Knocklyon Dublin 16",Dublin,650000.0,No,Knocklyon,Dublin 16,q4,100%
+30/11/2015,"31 Idrone Dr, Knocklyon, Dublin 16",Dublin,200000.0,No,Knocklyon,Dublin 16,q1,10%
+04/12/2015,"64 Westbourne Lodge, Knocklyon, Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+07/12/2015,"69 Idrone Park, Knocklyon, Dublin 16",Dublin,426500.0,No,Knocklyon,Dublin 16,q3,70%
+11/12/2015,"68 Dargle Wood, Knocklyon, Dublin 16",Dublin,395000.0,No,Knocklyon,Dublin 16,q2,50%
+14/12/2015,"2 Greenacres Lodge, Knocklyon",Dublin,550000.0,Yes,Knocklyon,Dublin 16,q4,90%
+14/12/2015,"78 Woodfield, Scholarstown Rd, Knocklyon Dublin 16",Dublin,510000.0,No,Knocklyon,Dublin 16,q4,90%
+16/12/2015,"20 Dalriada Park, Knocklyon, Dublin 16",Dublin,313744.18,Yes,Knocklyon,Dublin 16,q1,20%
+18/12/2015,"25 Templeroan Close, Knocklyon, Dublin 16",Dublin,510000.0,No,Knocklyon,Dublin 16,q4,90%
+18/12/2015,"28 Beverly Ave, Beverly Court, Knocklyon",Dublin,366000.0,No,Knocklyon,Dublin 16,q2,40%
+18/12/2015,"30 Delaford Park, Knocklyon Woods, Templeogue",Dublin,527500.0,No,Knocklyon,Dublin 16,q4,90%
+21/12/2015,"2 Delaford Dr, Knocklyon, Dublin 16",Dublin,428500.0,No,Knocklyon,Dublin 16,q3,70%
+22/12/2015,"No. 35 Greenacres Court, Knocklyon, Templeogue",Dublin,460000.0,Yes,Knocklyon,Dublin 16,q3,80%
+23/12/2015,"27 Dalriada Court, Knocklyon",Dublin,321500.0,Yes,Knocklyon,Dublin 16,q1,30%
+24/12/2015,"1 Woodstown Park, Woodstown Village, Knocklyon Dublin 16",Dublin,515000.0,No,Knocklyon,Dublin 16,q4,90%
+04/01/2016,"24 Woodstown Meadow, Knocklyon, Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+21/01/2016,"31 Scholarstown Park, Knocklyon, Dublin",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+29/01/2016,"14 Dalriada Court, Knocklyon, Dublin",Dublin,317180.6,Yes,Knocklyon,Dublin 16,q1,30%
+08/02/2016,"36 Beverly Downs, Knocklyon, Dublin 16",Dublin,390000.0,No,Knocklyon,Dublin 16,q2,50%
+12/02/2016,"12 Beverly Lawns, Knocklyon, Dublin 16",Dublin,392500.0,No,Knocklyon,Dublin 16,q2,50%
+15/02/2016,"11 Homeville Court, Knocklyon, Dublin 16",Dublin,175000.0,No,Knocklyon,Dublin 16,q1,10%
+17/02/2016,"13 Hersil Wood, Knocklyon",Dublin,502202.64,Yes,Knocklyon,Dublin 16,q4,90%
+17/02/2016,"32 Greenacres Court, Knocklyon, Dublin 16",Dublin,414097.0,Yes,Knocklyon,Dublin 16,q3,60%
+17/02/2016,"33 Greenacres Court, Knocklyon, Dublin 16",Dublin,414097.0,Yes,Knocklyon,Dublin 16,q3,60%
+18/02/2016,"5 Woodstown Walk, Woodstown Village, Knocklyon Dublin 16",Dublin,503000.0,No,Knocklyon,Dublin 16,q4,90%
+23/02/2016,"12 Knocklyon Close, Templeogue, Dublin 16",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,70%
+29/02/2016,"1 Templeroan Park, Knocklyon, Dublin 16",Dublin,750000.0,No,Knocklyon,Dublin 16,q4,100%
+10/03/2016,"12 Hersil Wood, Knocklyon Road, Knocklyon",Dublin,524229.07,Yes,Knocklyon,Dublin 16,q4,90%
+10/03/2016,"4 Dalriada Park, Knocklyon",Dublin,319911.58,Yes,Knocklyon,Dublin 16,q1,30%
+21/03/2016,"8A Delaford Ave, Knocklyon Woods, Templeogue Dublin 16",Dublin,485000.0,No,Knocklyon,Dublin 16,q4,80%
+23/03/2016,"3 Dalriada Park, Knocklyon",Dublin,302290.46,Yes,Knocklyon,Dublin 16,q1,20%
+24/03/2016,"27 Templeroan Close, Knocklyon, Dublin 16",Dublin,495000.0,No,Knocklyon,Dublin 16,q4,90%
+31/03/2016,"31 Greenacres Court, Knocklyon",Dublin,460000.0,Yes,Knocklyon,Dublin 16,q3,80%
+01/04/2016,"3 Dalriada Green, Knocklyon, Dublin 16",Dublin,312775.0,Yes,Knocklyon,Dublin 16,q1,20%
+08/04/2016,"2 Dalriada Green, Knocklyon",Dublin,324229.06,Yes,Knocklyon,Dublin 16,q1,30%
+15/04/2016,"18 Dalriada Park, Knocklyon, Dublin 16",Dublin,339207.04,Yes,Knocklyon,Dublin 16,q2,30%
+15/04/2016,"30 Greenacres Court, Knocklyon, Templeogue",Dublin,470000.0,Yes,Knocklyon,Dublin 16,q3,80%
+20/04/2016,"27 Knocklyon Green, Templeogue, Dublin 16",Dublin,455000.0,No,Knocklyon,Dublin 16,q3,80%
+22/04/2016,"14 Dalriada Park, Knocklyon, Dublin 16",Dublin,303991.0,Yes,Knocklyon,Dublin 16,q1,20%
+22/04/2016,"9 Glenlyon Park, Knocklyon, Dublin 16",Dublin,485000.0,No,Knocklyon,Dublin 16,q4,80%
+25/04/2016,"2 Woodstown Close, Knocklyon Dublin 16, Dublin",Dublin,380000.0,No,Knocklyon,Dublin 16,q2,50%
+26/04/2016,"16 Dalriada Park, Knocklyon, Dublin 16",Dublin,339207.04,Yes,Knocklyon,Dublin 16,q2,30%
+26/04/2016,"19 Dalriada Park, Knocklyon, Dublin 16",Dublin,339207.0,Yes,Knocklyon,Dublin 16,q2,30%
+29/04/2016,"2 Dal Riada Park, Knocklyon",Dublin,345000.0,Yes,Knocklyon,Dublin 16,q2,40%
+04/05/2016,"23 Rathlyon Park, Knocklyon, Dublin 16",Dublin,390000.0,No,Knocklyon,Dublin 16,q2,50%
+06/05/2016,"29 Greenacres Court, Knocklyon, Templeogue",Dublin,405286.0,Yes,Knocklyon,Dublin 16,q3,60%
+10/05/2016,"No  17 Hersil Wood, Knocklyon",Dublin,559471.0,Yes,Knocklyon,Dublin 16,q4,100%
+12/05/2016,"19 Dalriada Court, Knocklyon, Dublin 16",Dublin,262115.0,Yes,Knocklyon,Dublin 16,q1,10%
+12/05/2016,"57 Knockcullen Dr, Knocklyon, Rathfarnham Dublin 16",Dublin,480000.0,No,Knocklyon,Dublin 16,q4,80%
+31/05/2016,"11 Knockcullen Rise, Knocklyon, Templeogue Dublin 16",Dublin,420000.0,No,Knocklyon,Dublin 16,q3,60%
+31/05/2016,"24 Woodstown Dr, Woodstown Village, Knocklyon Dublin 16",Dublin,395000.0,No,Knocklyon,Dublin 16,q3,60%
+02/06/2016,"34 Greenacres Court, Knocklyon, Dublin",Dublin,418502.0,Yes,Knocklyon,Dublin 16,q3,60%
+03/06/2016,"Prospect Lodge, Knocklyon Rd, Templeogue Dublin 16",Dublin,370000.0,No,Knocklyon,Dublin 16,q2,50%
+08/06/2016,"38 Mount Alton, Knocklyon Rd, Dublin 16",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+10/06/2016,"19 Dalriada Walk, Knocklyonne, Dublin 16",Dublin,339977.83,Yes,Knocklyon,Dublin 16,q2,30%
+10/06/2016,"5 Dalriada Green, Knocklyon",Dublin,317180.62,Yes,Knocklyon,Dublin 16,q1,30%
+13/06/2016,"15 Dalriada Park, Knocklyon, Dublin 16",Dublin,343611.0,Yes,Knocklyon,Dublin 16,q2,40%
+16/06/2016,"15 Dalriada Court, Dalriada, Knocklyon",Dublin,303964.76,Yes,Knocklyon,Dublin 16,q1,20%
+17/06/2016,"13 Greenacres Court, Knocklyon, Dublin 16",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,70%
+17/06/2016,"37 Woodstown Heath, Knocklyon, Dublin 16",Dublin,386000.0,No,Knocklyon,Dublin 16,q2,50%
+23/06/2016,"131 Woodfield, Scholarstown Rd, Knocklyon Dublin 16",Dublin,452000.0,No,Knocklyon,Dublin 16,q3,80%
+23/06/2016,"15 Hersil Wood, Knocklyon, Dublin 16",Dublin,550661.0,Yes,Knocklyon,Dublin 16,q4,100%
+23/06/2016,"16 Knocklyon Ave, Knocklyon, Dublin 16",Dublin,595000.0,No,Knocklyon,Dublin 16,q4,100%
+23/06/2016,"55 Templeroan Dr, Knocklyon, Dublin 16",Dublin,505000.0,No,Knocklyon,Dublin 16,q4,90%
+24/06/2016,"39 Templeroan Way, Knocklyon, Dublin 16",Dublin,442000.0,No,Knocklyon,Dublin 16,q3,70%
+28/06/2016,"192 Woodfield, Scholarstown, Knocklyon Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+28/06/2016,"22 Dalriada Court, Knocklyon, Dublin 16",Dublin,262115.0,Yes,Knocklyon,Dublin 16,q1,10%
+30/06/2016,"1 Ashton Lawn, Knocklyon Rd, Dublin 16",Dublin,550000.0,No,Knocklyon,Dublin 16,q4,90%
+30/06/2016,"6 Dalriada Green, Dalriada, Knocklyon",Dublin,337568.0,Yes,Knocklyon,Dublin 16,q2,30%
+11/07/2016,"1 Dalriada Green, Knocklyon, Dublin 16",Dublin,306167.0,Yes,Knocklyon,Dublin 16,q1,20%
+14/07/2016,"14 Hersil Wood, Knocklyon Road, Dublin 16",Dublin,550660.0,Yes,Knocklyon,Dublin 16,q4,90%
+18/07/2016,"18 Dalriada Walk, Knocklyon, Dublin 16",Dublin,321586.0,Yes,Knocklyon,Dublin 16,q1,30%
+20/07/2016,"20 Dalriada Walk, Knocklyon",Dublin,360000.0,Yes,Knocklyon,Dublin 16,q2,40%
+20/07/2016,"4 Dalriada Green, Knocklyon, Dublin 16",Dublin,306167.0,Yes,Knocklyon,Dublin 16,q1,20%
+21/07/2016,"4 Woodstown Close, Knocklyon, Dublin",Dublin,405000.0,No,Knocklyon,Dublin 16,q3,60%
+22/07/2016,"21 Dalriada Court, Knocklyon, Dublin 16",Dublin,262114.53,Yes,Knocklyon,Dublin 16,q1,10%
+26/07/2016,"46 Woodstown Heath, Knocklyon, Dublin 16",Dublin,455000.0,No,Knocklyon,Dublin 16,q3,80%
+28/07/2016,"3 Knocklyon Ave, Templeogue, Dublin 16",Dublin,562000.0,No,Knocklyon,Dublin 16,q4,100%
+28/07/2016,"7 Dalriada Green, Knocklyon, Dublin 16",Dublin,303965.0,Yes,Knocklyon,Dublin 16,q1,20%
+29/07/2016,"8  Dalriada Green, Knocklyon, Dublin 16",Dublin,317180.62,Yes,Knocklyon,Dublin 16,q1,30%
+03/08/2016,"21 Dalriada Walk, Knocklyon",Dublin,315724.0,Yes,Knocklyon,Dublin 16,q1,20%
+08/08/2016,"14 Dalriada Walk, Knocklyon",Dublin,317180.0,Yes,Knocklyon,Dublin 16,q1,20%
+26/08/2016,"192 Woodfield, Scholarstown, Knocklyon Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+30/08/2016,"20 Dalrianda Court, Knocklyon, Dublin 16",Dublin,262598.81,Yes,Knocklyon,Dublin 16,q1,10%
+31/08/2016,"White Willow, Knocklyon Rd, Dublin 16",Dublin,803000.0,No,Knocklyon,Dublin 16,q4,100%
+07/09/2016,"13 Woodstown Heath, Knocklyon, Dublin 16",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+07/09/2016,"15 Dalriada Walk, Knocklyon, Dublin 16",Dublin,280487.0,Yes,Knocklyon,Dublin 16,q1,20%
+07/09/2016,"3 Knocklyon Court, Templeogue, Dublin 16",Dublin,455000.0,No,Knocklyon,Dublin 16,q3,80%
+09/09/2016,"5 Woodstown Court, Woodstown Village, Knocklyon Dublin 16",Dublin,615000.0,No,Knocklyon,Dublin 16,q4,100%
+14/09/2016,"18 Hersil Wood, Knocklyon, Dublin 16",Dublin,550660.79,Yes,Knocklyon,Dublin 16,q4,90%
+16/09/2016,"9 Dalriada Walk, Knocklyon, Dublin 16",Dublin,321586.0,Yes,Knocklyon,Dublin 16,q1,30%
+19/09/2016,"12 Dalriada Walk, Knocklyon, Dublin 16",Dublin,309094.15,Yes,Knocklyon,Dublin 16,q1,20%
+20/09/2016,"9 Hersil Wood, Knocklyon, Dublin 16",Dublin,497798.0,Yes,Knocklyon,Dublin 16,q4,90%
+23/09/2016,"16 Hersil Wood, Knocklyon",Dublin,648750.0,Yes,Knocklyon,Dublin 16,q4,100%
+28/09/2016,"11 Dairiada Walk, Knocklyon, Dublin 16.",Dublin,345000.0,Yes,Knocklyon,Dublin 16,q2,40%
+29/09/2016,"2 Ashton Close, Knocklyon, Dublin 24",Dublin,6500.0,No,Knocklyon,Dublin 16,q1,10%
+29/09/2016,"2A Ashton Close, Knocklyon, Dublin 16",Dublin,6500.0,No,Knocklyon,Dublin 16,q1,10%
+30/09/2016,"10 Dalriada  Walkk, Knocklyon",Dublin,303964.0,Yes,Knocklyon,Dublin 16,q1,20%
+30/09/2016,"10 Hersil Wood, Knocklyon, Dublin 16",Dublin,497797.0,Yes,Knocklyon,Dublin 16,q4,90%
+03/10/2016,"8 Beverly Avenue, Knocklyon, Dublin 16",Dublin,470000.0,No,Knocklyon,Dublin 16,q3,80%
+04/10/2016,"36 Glenvara Park, Knocklyon, Dublin 16",Dublin,393000.0,No,Knocklyon,Dublin 16,q2,50%
+06/10/2016,"16 Dalriada Walk, Knocklyon",Dublin,306404.0,Yes,Knocklyon,Dublin 16,q1,20%
+06/10/2016,"17 Orlagh Downs, Orlagh Grove, Knocklyon Dublin 16",Dublin,446000.0,No,Knocklyon,Dublin 16,q3,70%
+06/10/2016,"64 Ashton Ave, Knocklyon, Dublin 16",Dublin,536000.0,No,Knocklyon,Dublin 16,q4,90%
+07/10/2016,"8 Dalriada Walk, Knocklyon",Dublin,321586.0,Yes,Knocklyon,Dublin 16,q1,30%
+13/10/2016,"26 Woodstown Meadow, Woodstown Village, Knocklyon Dublin 16",Dublin,491000.0,No,Knocklyon,Dublin 16,q4,90%
+14/10/2016,"4 Dalriada Walk, Knocklyon",Dublin,317180.0,Yes,Knocklyon,Dublin 16,q1,30%
+14/10/2016,"Apt 55 Knocklyon Gate, Knocklyon, Dublin 16",Dublin,202500.0,No,Knocklyon,Dublin 16,q1,10%
+17/10/2016,"5 Dalriada Walk, Knocklyon",Dublin,303964.75,Yes,Knocklyon,Dublin 16,q1,20%
+17/10/2016,"6 Beverly Heights, Knocklyon, Dublin 16",Dublin,415000.0,No,Knocklyon,Dublin 16,q3,60%
+17/10/2016,"8 Hersil Wood, Knocklyon, Dublin 16",Dublin,497797.0,Yes,Knocklyon,Dublin 16,q4,90%
+24/10/2016,"18 Dalriada Sq, Knocklyon, Dublin 16",Dublin,300000.0,No,Knocklyon,Dublin 16,q1,20%
+28/10/2016,"13 Dalriada Walk, Knocklyon, Dublin 16",Dublin,344383.12,Yes,Knocklyon,Dublin 16,q2,40%
+28/10/2016,"18 Glenlyon Crescent, Knocklyon, Dublin",Dublin,380000.0,No,Knocklyon,Dublin 16,q2,50%
+04/11/2016,"1 Dalriada Park, Knocklyon, Dublin 16",Dublin,317181.0,Yes,Knocklyon,Dublin 16,q1,30%
+07/11/2016,"11 Beverly Park, Beverly Court, Knocklyon",Dublin,490000.0,No,Knocklyon,Dublin 16,q4,80%
+07/11/2016,"12 Knockaire, Knocklyon, Dublin 16",Dublin,575000.0,No,Knocklyon,Dublin 16,q4,100%
+15/11/2016,"5 Dalriada Park, Knocklyon, Dublin 16",Dublin,303964.0,Yes,Knocklyon,Dublin 16,q1,20%
+25/11/2016,"2 Dalriada Walk, Knocklyon",Dublin,330397.0,Yes,Knocklyon,Dublin 16,q2,30%
+28/11/2016,"25 Dalriada Avenue, Knocklyon, Dublin 16",Dublin,339207.04,Yes,Knocklyon,Dublin 16,q2,30%
+02/12/2016,"22 Hersil Wood, Knocklyon, Dublin 16",Dublin,550661.0,Yes,Knocklyon,Dublin 16,q4,100%
+02/12/2016,"3 Woodstown Lane, Woodstown Village, Knocklyon Dublin 16",Dublin,432000.0,No,Knocklyon,Dublin 16,q3,70%
+05/12/2016,"5 Delaford Ave, Knocklyon, Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+07/12/2016,"11 Castlefield Way, Castlefield Manor, Knocklyon Dublin 16",Dublin,392000.0,No,Knocklyon,Dublin 16,q2,50%
+07/12/2016,"14 Woodstown Abbey, Knocklyon, Dublin 16",Dublin,625000.0,No,Knocklyon,Dublin 16,q4,100%
+08/12/2016,"3 Dalriada Walk, Knocklyon, Dublin 16",Dublin,339207.0,Yes,Knocklyon,Dublin 16,q2,30%
+09/12/2016,"4 Woodstown Heights, Woodstown, Knocklyon Dublin 16",Dublin,407000.0,No,Knocklyon,Dublin 16,q3,60%
+14/12/2016,"41 Castlefield Park, Knocklyon, Dublin 16",Dublin,435000.0,No,Knocklyon,Dublin 16,q3,70%
+16/12/2016,"1 Hersil Wood, Knocklyon",Dublin,550660.79,Yes,Knocklyon,Dublin 16,q4,90%
+20/12/2016,"2 Hersil Wood, Knocklyon, Dublin 16",Dublin,550660.0,Yes,Knocklyon,Dublin 16,q4,90%
+20/12/2016,"61 Knockcullen Dr, Knocklyon, Dublin 16",Dublin,550000.0,No,Knocklyon,Dublin 16,q4,90%
+20/12/2016,"7 Hersil Wood, Knocklyon, Dublin 16",Dublin,176211.0,Yes,Knocklyon,Dublin 16,q1,10%
+20/12/2016,"Apt 38, Knocklyon Gate, Knocklyon",Dublin,100000.0,No,Knocklyon,Dublin 16,q1,10%
+21/12/2016,"2 Knocklyon Close, Knocklyon, Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+21/12/2016,"38 Orlagh Park, Knocklyon, Dublin 16",Dublin,465000.0,No,Knocklyon,Dublin 16,q3,80%
+22/12/2016,"14 Dalriada Sq, Knocklyon, Dublin",Dublin,365000.0,No,Knocklyon,Dublin 16,q2,40%
+05/01/2017,"30 Abbot'S Grove, Knocklyon, Dublin 16",Dublin,394000.0,Yes,Knocklyon,Dublin 16,q2,50%
+05/01/2017,"9 Knocklyon Close, Knocklyon Woods, Dublin 16",Dublin,456000.0,No,Knocklyon,Dublin 16,q3,80%
+11/01/2017,"205 Woodfield, Knocklyon, Dublin 16",Dublin,435000.0,No,Knocklyon,Dublin 16,q3,70%
+17/01/2017,"7 Dalriada Walk, Knocklyon, Dublin 16",Dublin,306607.0,Yes,Knocklyon,Dublin 16,q1,20%
+18/01/2017,"1 The Lodge, Hersil Wood, Knocklyon",Dublin,612335.0,Yes,Knocklyon,Dublin 16,q4,100%
+20/01/2017,"1 Castlefield Dr, Castlefield Manor, Knocklyon Dublin 16",Dublin,565000.0,No,Knocklyon,Dublin 16,q4,100%
+20/01/2017,"6 Castlefield Grove, Knocklyon, Dublin 16",Dublin,440000.0,No,Knocklyon,Dublin 16,q3,70%
+26/01/2017,"9 Abbotts Grove Avenue, Knocklyon",Dublin,325109.0,Yes,Knocklyon,Dublin 16,q1,30%
+27/01/2017,"7 Abbot'S Grove Avenue, Knocklyon, Dublin 16",Dublin,347137.0,Yes,Knocklyon,Dublin 16,q2,40%
+02/02/2017,"1 Dalriada Walk, Knocklyon",Dublin,345000.0,Yes,Knocklyon,Dublin 16,q2,40%
+02/02/2017,"10 Abbot'S Grove, Knocklyon, Dublin 16",Dublin,325110.13,Yes,Knocklyon,Dublin 16,q1,30%
+03/02/2017,"11 Abbot'S Grove Avenue, Knocklyon",Dublin,347136.56,Yes,Knocklyon,Dublin 16,q2,40%
+07/02/2017,"3 Woodstown Meadows, Knocklyon, Dublin 16",Dublin,455000.0,No,Knocklyon,Dublin 16,q3,80%
+09/02/2017,"8  Abbots Grove Avenue, Abbots Grove, Knocklyon",Dublin,325110.13,Yes,Knocklyon,Dublin 16,q1,30%
+21/02/2017,"19 Abbot'S Grove Avenue, Abbot'S Grove, Knocklyon",Dublin,299559.47,Yes,Knocklyon,Dublin 16,q1,20%
+22/02/2017,"17 Abbot'S Grove Avenue, Knocklyon",Dublin,332160.01,Yes,Knocklyon,Dublin 16,q2,30%
+24/02/2017,"22 Dalriada Sq, Knocklyon, Dublin 16",Dublin,250000.0,No,Knocklyon,Dublin 16,q1,10%
+28/02/2017,"26 Woodstown Rise, Knocklyon, Dublin 16",Dublin,491000.0,No,Knocklyon,Dublin 16,q4,90%
+01/03/2017,"15 Abbots Grove Avenue, Knocklyon, Dublin 16",Dublin,338325.98,Yes,Knocklyon,Dublin 16,q2,30%
+06/03/2017,"20 Abbots Grove Avenue, Knocklyon, Dublin",Dublin,384000.0,Yes,Knocklyon,Dublin 16,q2,50%
+10/03/2017,"5 Abbots Grove Avenue, Knocklyon, Dublin 16",Dublin,268177.74,Yes,Knocklyon,Dublin 16,q1,10%
+15/03/2017,"14 Woodstown Lane, Knocklyon, Dublin 16",Dublin,390000.0,No,Knocklyon,Dublin 16,q2,50%
+16/03/2017,"6 Dalriada Walk, Knocklyon, Dublin 16",Dublin,303964.75,Yes,Knocklyon,Dublin 16,q1,20%
+21/03/2017,"18 Abbot'S Grove Avenue, Knocklyon, Dublin 16",Dublin,338325.99,Yes,Knocklyon,Dublin 16,q2,30%
+22/03/2017,"17 Dal Riada Walk, Knocklyon, Dublin 16",Dublin,303965.0,Yes,Knocklyon,Dublin 16,q1,20%
+28/03/2017,"35 Orlagh Wood, Orlagh Grove, Knocklyon Dublin 16",Dublin,630000.0,No,Knocklyon,Dublin 16,q4,100%
+31/03/2017,"23 Abbots Grove Avenue, Knocklyon, Dublin 16",Dublin,338325.0,Yes,Knocklyon,Dublin 16,q2,30%
+05/04/2017,"24 Abbot'S Grove Avenue, Knocklyon, Dublin 16",Dublin,325110.13,Yes,Knocklyon,Dublin 16,q2,30%
+06/04/2017,"25 Abbot'S Grove, Knocklyon, Dublin 16",Dublin,325110.13,Yes,Knocklyon,Dublin 16,q2,30%
+06/04/2017,"25 Knocklyon Grove, Dublin 16, Dublin",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+10/04/2017,"3  Hersil Wood, Knocklyon, Dublin 16",Dublin,550660.79,Yes,Knocklyon,Dublin 16,q4,90%
+11/04/2017,"22 Abbots Grove Ave, Knocklyon",Dublin,425000.0,Yes,Knocklyon,Dublin 16,q3,70%
+12/04/2017,"21 Abbots Grove Avenue, Abbots Grove, Knocklyon",Dublin,425000.0,Yes,Knocklyon,Dublin 16,q3,70%
+24/04/2017,"6 Abbot'S Grove Avenue, Abbot'S Grove, Knocklyon",Dublin,299559.0,Yes,Knocklyon,Dublin 16,q1,20%
+25/04/2017,"15 Beverly Grove, Knocklyon, Dublin 16",Dublin,385000.0,No,Knocklyon,Dublin 16,q2,50%
+25/04/2017,"27 Abbots Grove Avenue, Abbots Grove, Knocklyon",Dublin,338326.0,Yes,Knocklyon,Dublin 16,q2,30%
+01/05/2017,"31 Glenvara Park, Knocklyon, Templeogue Dublin 16",Dublin,400000.0,No,Knocklyon,Dublin 16,q3,60%
+02/05/2017,"2 Abbotts Grove Avenue, Knocklyon",Dublin,325110.0,Yes,Knocklyon,Dublin 16,q1,30%
+02/05/2017,"26 Abbots Grove Avenue, Knocklyon",Dublin,324110.0,Yes,Knocklyon,Dublin 16,q1,30%
+04/05/2017,"12 Abbot'S Grove Avenue, Abbot'S Grove, Knocklyon",Dublin,299559.47,Yes,Knocklyon,Dublin 16,q1,20%
+09/05/2017,"41 Glenvara Park, Knocklyon, Dublin 16",Dublin,490000.0,No,Knocklyon,Dublin 16,q4,80%
+11/05/2017,"1 Abbot'S Grove Avenue, Knocklyon, Dublin 16",Dublin,343612.33,Yes,Knocklyon,Dublin 16,q2,40%
+11/05/2017,"13 Abbots Grove Avenue, Knocklyon",Dublin,273129.0,Yes,Knocklyon,Dublin 16,q1,20%
+12/05/2017,"10 Templeroan Park, Knocklyon Rd, Dublin 16",Dublin,602000.0,No,Knocklyon,Dublin 16,q4,100%
+16/05/2017,"26 Wood Dale Close, Knocklyon, Dublin 24",Dublin,372000.0,No,Knocklyon,Dublin 16,q2,50%
+17/05/2017,"4 Hersil Wood, Knocklyon",Dublin,550661.0,Yes,Knocklyon,Dublin 16,q4,100%
+18/05/2017,"32 Abbots Grove Avenue, Abbots Grove, Knocklyon",Dublin,356827.0,Yes,Knocklyon,Dublin 16,q2,40%
+19/05/2017,"16 Abbot Grove Avenue, Knocklyon, Dublin 16",Dublin,319188.01,Yes,Knocklyon,Dublin 16,q1,30%
+19/05/2017,"5 Hersil Wood, Knocklyon, Dublin 16",Dublin,550661.0,Yes,Knocklyon,Dublin 16,q4,100%
+23/05/2017,"34 Abbots Grove Avenue, Abbots Grove, Knocklyon",Dublin,325110.13,Yes,Knocklyon,Dublin 16,q2,30%
+24/05/2017,"14 Abbot'S Grove Avenue, Abbot'S Grove, Knocklyon",Dublin,374449.0,Yes,Knocklyon,Dublin 16,q2,50%
+24/05/2017,"31 Glenvara Park, Knocklyon, Templeogue Dublin 16",Dublin,355000.0,No,Knocklyon,Dublin 16,q2,40%
+25/05/2017,"29 Abbots Grove Avenue, Knocklyon, Dublin 16",Dublin,365638.77,Yes,Knocklyon,Dublin 16,q2,40%
+25/05/2017,"32 Orlagh Downs, Orlagh Grove, Knocklyon",Dublin,535000.0,No,Knocklyon,Dublin 16,q4,90%
+25/05/2017,"33 Abbots Grove Avenue, Knocklyon, Dublin 16",Dublin,356828.18,Yes,Knocklyon,Dublin 16,q2,40%
+26/05/2017,"26 Knocklyon Gate, Knocklyon, Dublin 16",Dublin,240000.0,No,Knocklyon,Dublin 16,q1,10%
+31/05/2017,"15 Woodstown Vale, Knocklyon, Dublin 16",Dublin,395000.0,No,Knocklyon,Dublin 16,q3,60%
+31/05/2017,"31 Abbot'S Grove Avenue, Knocklyon, Dublin 16",Dublin,325110.13,Yes,Knocklyon,Dublin 16,q2,30%
+02/06/2017,"28 Abbot'S Grove Ave, Abbot'S Grove, Knocklyon",Dublin,365639.0,Yes,Knocklyon,Dublin 16,q2,40%
+02/06/2017,"40 Abbot'S Grove Avenue, Abbot'S Grove, Knocklyon",Dublin,392070.48,Yes,Knocklyon,Dublin 16,q2,50%
+06/06/2017,"38 Abbot'S Grove Avenue, Abbots Grove, Knocklyon",Dublin,325110.0,Yes,Knocklyon,Dublin 16,q1,30%
+07/06/2017,"39 Abbots Grove Avenue, Knocklyon",Dublin,347136.0,Yes,Knocklyon,Dublin 16,q2,40%
+08/06/2017,"37 Abbot'S Grove, Knocklyon",Dublin,410000.0,Yes,Knocklyon,Dublin 16,q3,60%
+09/06/2017,"35 Abbots Grove Avenue, Knocklyon",Dublin,325110.0,Yes,Knocklyon,Dublin 16,q1,30%
+09/06/2017,"36 Abbot'S Grove Avenue, Knocklyon, Dublin 16",Dublin,410000.0,Yes,Knocklyon,Dublin 16,q3,60%
+09/06/2017,"43 Abbots Grove Avenue, Knocklyon, Dublin 16",Dublin,347136.0,Yes,Knocklyon,Dublin 16,q2,40%
+09/06/2017,"70 Dargle Wood, Knocklyon Rd, Knocklyon Dublin 16",Dublin,475000.0,No,Knocklyon,Dublin 16,q4,80%
+14/06/2017,"18 Beverly Crescent, Knocklyon, Dublin 16",Dublin,460000.0,No,Knocklyon,Dublin 16,q3,80%
+14/06/2017,"5 Knocklyon Ave, Knocklyon Woods, Dublin 16",Dublin,600000.0,No,Knocklyon,Dublin 16,q4,100%
+14/06/2017,"9 Castlefield Way, Knocklyon, Dublin 16",Dublin,380000.0,No,Knocklyon,Dublin 16,q2,50%
+15/06/2017,"15 Ashton Close, Knocklyon Rd, Dublin 16",Dublin,550000.0,No,Knocklyon,Dublin 16,q4,90%
+21/06/2017,"44 Abbotts Grove Avenue, Knocklyon, Dublin",Dublin,340858.71,Yes,Knocklyon,Dublin 16,q2,30%
+21/06/2017,"45 Abbots Grove Avenue, Knocklyon",Dublin,325110.0,Yes,Knocklyon,Dublin 16,q1,30%
+28/06/2017,"3 Knocklyon Grove, Templeogue, Dublin 16",Dublin,550000.0,No,Knocklyon,Dublin 16,q4,90%
+29/06/2017,"No 2 The Lodge, Hersil Wood, Knocklyon",Dublin,581498.0,Yes,Knocklyon,Dublin 16,q4,100%
+30/06/2017,"6 Hersil Wood, Knocklyon, Dublin 16",Dublin,550660.79,Yes,Knocklyon,Dublin 16,q4,90%
+03/07/2017,"12 Ashton Grove, Knocklyon Road, Dublin 16",Dublin,525000.0,No,Knocklyon,Dublin 16,q4,90%
+05/07/2017,"46 Abbotts Grove Avenue, Knocklyon, Dublin 16",Dublin,394000.0,Yes,Knocklyon,Dublin 16,q2,50%
+10/07/2017,"3 Prospect Lodge, Knocklyon Rd, Knocklyon Dublin 16",Dublin,245000.0,No,Knocklyon,Dublin 16,q1,10%
+10/07/2017,"47  Abbots Grove Avenue, Knocklyon, Dublin 16",Dublin,340000.0,Yes,Knocklyon,Dublin 16,q2,30%
+12/07/2017,"20 Woodstown Crescent, Woodstown Village, Knocklyon Dublin 16",Dublin,420000.0,No,Knocklyon,Dublin 16,q3,60%
+14/07/2017,"14 Woodstown Park, Woodstown Village, Knocklyon Dublin 16",Dublin,567000.0,No,Knocklyon,Dublin 16,q4,100%
+14/07/2017,"3 The Lodge, Hersil Wood, Knocklyon",Dublin,550660.79,Yes,Knocklyon,Dublin 16,q4,90%
+18/07/2017,"Apt 42 Abbots Grove Avenue, Knocklyon",Dublin,299560.0,Yes,Knocklyon,Dublin 16,q1,20%
+19/07/2017,"105 Coolamber Park, Knocklyon, Dublin 16",Dublin,548000.0,No,Knocklyon,Dublin 16,q4,90%
+20/07/2017,"1 Abbot'S Grove Park, Knocklyon, Dublin 16",Dublin,361233.0,Yes,Knocklyon,Dublin 16,q2,40%
+21/07/2017,"2 Homeville Court, Knocklyon Dublin 16",Dublin,226000.0,No,Knocklyon,Dublin 16,q1,10%
+25/07/2017,"Apt 41 Abbots Grove Avenue, Knocklyon",Dublin,273128.0,Yes,Knocklyon,Dublin 16,q1,20%
+27/07/2017,"4 Abbots Grove Park, Knocklyon, Dublin 16",Dublin,361233.48,Yes,Knocklyon,Dublin 16,q2,40%
+27/07/2017,"Hazel Grange, 15 Westbourne Lodge, Knocklyon Dublin 16",Dublin,570000.0,No,Knocklyon,Dublin 16,q4,100%
+28/07/2017,"3 Abbots Grove Park, Knocklyon",Dublin,361233.48,Yes,Knocklyon,Dublin 16,q2,40%
+02/08/2017,"33 Knocklyon Dr, Templeogue, Dublin 16",Dublin,487500.0,No,Knocklyon,Dublin 16,q4,80%
+03/08/2017,"5 Abbots Grove Park, Knocklyon",Dublin,361233.0,Yes,Knocklyon,Dublin 16,q2,40%
+04/08/2017,"6 Abbots Grove Park, Knocklyon, Dublin 16",Dublin,410000.0,Yes,Knocklyon,Dublin 16,q3,60%
+08/08/2017,"13 Woodstown Way, Knocklyon, Dublin 16",Dublin,415000.0,No,Knocklyon,Dublin 16,q3,60%
+09/08/2017,"48 Abbot'S Grove Avenue, Knocklyon, Dublin 16",Dublin,273127.0,Yes,Knocklyon,Dublin 16,q1,20%
+10/08/2017,"47 Woodstown Heath, Knocklyon, Dublin 16",Dublin,446000.0,No,Knocklyon,Dublin 16,q3,70%
+10/08/2017,"7 Abbots Grove Park, Abbots Grove, Knocklyon",Dublin,361233.0,Yes,Knocklyon,Dublin 16,q2,40%
+11/08/2017,"4 Castlefield Orchard, Knocklyon, Dublin 16",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+11/08/2017,"6 Glenlyon Crescent, Knocklyon Dublin 16, Dublin",Dublin,415000.0,No,Knocklyon,Dublin 16,q3,60%
+14/08/2017,"11 Woodstown Way, Knocklyon, Dublin 16",Dublin,415000.0,No,Knocklyon,Dublin 16,q3,60%
+16/08/2017,"8 Abbots Grove Park, Knocklyon, Dublin 16",Dublin,362831.85,Yes,Knocklyon,Dublin 16,q2,40%
+17/08/2017,"7 Coolamber Park, Knocklyon, Templeogue Dublin 16",Dublin,575000.0,No,Knocklyon,Dublin 16,q4,100%
+18/08/2017,"24 Glenvara Park, Knocklyon, Dublin 16",Dublin,608500.0,No,Knocklyon,Dublin 16,q4,100%
+23/08/2017,"9 Abbots Grove Park, Abbots Grove, Knocklyon",Dublin,420353.97,Yes,Knocklyon,Dublin 16,q3,70%
+24/08/2017,"11 Garthy Wood, Knocklyon, Dublin 16",Dublin,235000.0,No,Knocklyon,Dublin 16,q1,10%
+29/08/2017,"10 Abbots Grove Park, Knocklyon, Dublin 16",Dublin,361233.48,Yes,Knocklyon,Dublin 16,q2,40%
+29/08/2017,"11 Abbots Grove Park, Abbots Grove, Knocklyon",Dublin,365600.0,Yes,Knocklyon,Dublin 16,q2,40%
+31/08/2017,"22 Woodstown Abbey, Knocklyon, Dublin 16",Dublin,460000.0,No,Knocklyon,Dublin 16,q3,80%
+01/09/2017,"19 Templeroan Dr, Knocklyon, Dublin 16",Dublin,460000.0,No,Knocklyon,Dublin 16,q3,80%
+01/09/2017,"4 The Lodge, Hersil Wood, Knocklyon",Dublin,550660.0,Yes,Knocklyon,Dublin 16,q4,90%
+04/09/2017,"12 Abbot'S Grove Park, Abbot'S Grove, Knocklyon",Dublin,396475.77,Yes,Knocklyon,Dublin 16,q3,60%
+04/09/2017,"123 Glenvara Park, Knocklyon, Dublin 16",Dublin,525000.0,No,Knocklyon,Dublin 16,q4,90%
+12/09/2017,"13 Abbot'S Grove Park, Knocklyon",Dublin,418502.0,Yes,Knocklyon,Dublin 16,q3,60%
+12/09/2017,"1B Coolamber Park, Knocklyon Rd, Dublin 16",Dublin,250000.0,No,Knocklyon,Dublin 16,q1,10%
+15/09/2017,"4Knocklyon Close, Knocklyon Woods, Dublin 16",Dublin,510000.0,No,Knocklyon,Dublin 16,q4,90%
+20/09/2017,"11 Knockcullen Rise, Knocklyon, Templeogue Dublin 16",Dublin,475000.0,No,Knocklyon,Dublin 16,q4,80%
+21/09/2017,"4 Abbot'S Grove, Knocklyon, Dublin 16",Dublin,400881.05,Yes,Knocklyon,Dublin 16,q3,60%
+22/09/2017,"3 Abbot'S Grove Avenue, Abbot'S Grove, Knocklyon",Dublin,400900.0,Yes,Knocklyon,Dublin 16,q3,60%
+22/09/2017,"3 Orlagh Court, Knocklyon, Dublin 16",Dublin,540000.0,No,Knocklyon,Dublin 16,q4,90%
+22/09/2017,"9 Dalriada Court, Knocklyon, Dublin 16",Dublin,406000.0,No,Knocklyon,Dublin 16,q3,60%
+27/09/2017,"143 Coolamber Park, Knocklyon, Dublin 16",Dublin,567500.0,No,Knocklyon,Dublin 16,q4,100%
+28/09/2017,"19 Dalriada Close, Knocklyon, Dublin 16",Dublin,385000.0,No,Knocklyon,Dublin 16,q2,50%
+29/09/2017,"50 Knocklyon Green, Dublin 16, Dublin",Dublin,505000.0,No,Knocklyon,Dublin 16,q4,90%
+02/10/2017,"11 Knocklyon Gate, Knocklyon, Dublin 16",Dublin,250000.0,No,Knocklyon,Dublin 16,q1,10%
+13/10/2017,"14 Abbot'S Grove Park, Abbot'S Grove, Knocklyon",Dublin,400882.0,Yes,Knocklyon,Dublin 16,q3,60%
+17/10/2017,"39 Woodstown Heights, Knocklyon, Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+18/10/2017,"12 Garthy Wood, Knocklyon, Dublin 16",Dublin,256200.0,No,Knocklyon,Dublin 16,q1,10%
+18/10/2017,"13 Garthy Wood, Knocklyon, Dublin 16",Dublin,256200.0,No,Knocklyon,Dublin 16,q1,10%
+18/10/2017,"15 Garthy Wood, Knocklyon Road, Dublin 16",Dublin,256200.0,No,Knocklyon,Dublin 16,q1,10%
+18/10/2017,"4 Gavthy Wood, Knocklyon, Dublin 16",Dublin,256200.0,No,Knocklyon,Dublin 16,q1,10%
+18/10/2017,"8 Garthy Wood, Knocklyon, Dublin 16",Dublin,256200.0,No,Knocklyon,Dublin 16,q1,10%
+19/10/2017,"31 Abbot'S Grove Park, Knocklyon",Dublin,405459.84,Yes,Knocklyon,Dublin 16,q3,60%
+20/10/2017,"15 Abbot'S Grove Park, Knocklyon, Dublin 16",Dublin,405286.0,Yes,Knocklyon,Dublin 16,q3,60%
+20/10/2017,"6 Woodstown Rd, Knocklyon, Dublin 16",Dublin,478000.0,No,Knocklyon,Dublin 16,q4,80%
+23/10/2017,"26 Dalriada Sq, Knocklyon, Dublin 16",Dublin,305000.0,No,Knocklyon,Dublin 16,q1,20%
+24/10/2017,"2 Abbot'S Grove Park, Knocklyon, Dublin 16",Dublin,383260.0,Yes,Knocklyon,Dublin 16,q2,50%
+24/10/2017,"29 Templeroan Way, Knocklyon, Dublin 16",Dublin,550000.0,No,Knocklyon,Dublin 16,q4,90%
+25/10/2017,"30 Abbots Grove Park, Knocklyon, Dublin 16",Dublin,383260.0,Yes,Knocklyon,Dublin 16,q2,50%
+27/10/2017,"Site 83 (35 Abbot'S Grove Park, Knocklyon, Dublin 16",Dublin,383260.0,Yes,Knocklyon,Dublin 16,q2,50%
+01/11/2017,"19 Knocklyon Court, Dublin 16, Dublin",Dublin,480000.0,No,Knocklyon,Dublin 16,q4,80%
+01/11/2017,"33 Abbot'S Grove Park, Abbot'S Grove, Knocklyon",Dublin,396475.0,Yes,Knocklyon,Dublin 16,q3,60%
+02/11/2017,"32 Abbots Grove Park, Knocklyon",Dublin,383260.0,Yes,Knocklyon,Dublin 16,q2,50%
+02/11/2017,"37 Abbot'S Grove Park, Knocklyon",Dublin,383695.71,Yes,Knocklyon,Dublin 16,q2,50%
+03/11/2017,"42 Orlagh Downs, Knocklyon, Dublin 16",Dublin,480000.0,No,Knocklyon,Dublin 16,q4,80%
+06/11/2017,"28 Abbots Grove Park, Abbots Grove, Knocklyon",Dublin,438053.1,Yes,Knocklyon,Dublin 16,q3,70%
+07/11/2017,"17 Idrone Close, Knocklyon, Dublin 16",Dublin,472000.0,No,Knocklyon,Dublin 16,q4,80%
+07/11/2017,"36 Abbots Grove Park, Abbots Grove, Knocklyon",Dublin,405460.0,Yes,Knocklyon,Dublin 16,q3,60%
+09/11/2017,"1 Coolamber Court, Knocklyon Dublin 16, Dublin",Dublin,595000.0,No,Knocklyon,Dublin 16,q4,100%
+09/11/2017,"22 Abbot'S Grove Park, Knocklyon, Dublin 16",Dublin,383259.9,Yes,Knocklyon,Dublin 16,q2,50%
+09/11/2017,"34 Abbots Grove Park, Knocklyon, Dublin 16",Dublin,383260.0,Yes,Knocklyon,Dublin 16,q2,50%
+14/11/2017,"26 Abbots Grove Park, Knocklyon",Dublin,414096.92,Yes,Knocklyon,Dublin 16,q3,60%
+22/11/2017,"24 Abotts Grove Park, Knocklyon",Dublin,383260.0,Yes,Knocklyon,Dublin 16,q2,50%
+23/11/2017,"Site No.73, 25 Abbot'S Grove Park, Knocklyon",Dublin,361233.48,Yes,Knocklyon,Dublin 16,q2,40%
+24/11/2017,"21 Ashton Close, Knocklyon, Dublin 16",Dublin,536000.0,No,Knocklyon,Dublin 16,q4,90%
+24/11/2017,"23 Abbots Grove Park, Stocking Avenue, Knocklyon",Dublin,383260.0,Yes,Knocklyon,Dublin 16,q2,50%
+24/11/2017,"38 Abbotts Grove Park, Knocklyon",Dublin,383260.0,Yes,Knocklyon,Dublin 16,q2,50%
+27/11/2017,"1 Woodstown Lawn, Knocklyon, Dublin 16",Dublin,561050.0,No,Knocklyon,Dublin 16,q4,100%
+29/11/2017,"11 Woodstown Lawn, Woodstown Village, Knocklyon Dublin 16",Dublin,620000.0,No,Knocklyon,Dublin 16,q4,100%
+29/11/2017,"18 Abbot'S Grove Park, Knocklyon, Dublin 16",Dublin,414097.0,Yes,Knocklyon,Dublin 16,q3,60%
+29/11/2017,"7 Woodstown Court, Knocklyon, Dublin 16",Dublin,481000.0,No,Knocklyon,Dublin 16,q4,80%
+30/11/2017,"139 Coolamber Park, Knocklyon, Dublin 16",Dublin,625000.0,No,Knocklyon,Dublin 16,q4,100%
+30/11/2017,"20 Abbot'S Grove Park, Abbot'S Grove, Knocklyon",Dublin,427313.0,Yes,Knocklyon,Dublin 16,q3,70%
+01/12/2017,"41 Orlagh Park, Knocklyon, Dublin 16",Dublin,550000.0,No,Knocklyon,Dublin 16,q4,90%
+04/12/2017,"16 Abbot'S Grove, Knocklyon, Dublin 16",Dublin,422907.0,Yes,Knocklyon,Dublin 16,q3,70%
+05/12/2017,"12 Woodfield Scholarstown Rd, Knocklyon Dublin 16, Dublin",Dublin,554500.0,No,Knocklyon,Dublin 16,q4,100%
+05/12/2017,"17 Abbot'S Grove Park, Knocklyon, Dublin 16",Dublin,422907.48,Yes,Knocklyon,Dublin 16,q3,70%
+07/12/2017,"138 Glenvara Park, Knocklyon, Dublin 16",Dublin,440000.0,No,Knocklyon,Dublin 16,q3,70%
+08/12/2017,"10 Knocklyon Dr, Rathfarnham, Dublin 16",Dublin,525000.0,No,Knocklyon,Dublin 16,q4,90%
+08/12/2017,"194 Woodfield, Scholarstown Rd, Knocklyon Dublin 16",Dublin,640000.0,No,Knocklyon,Dublin 16,q4,100%
+13/12/2017,"21 Abbots Grove Park, Knocklyon, Dublin 16",Dublin,427311.0,Yes,Knocklyon,Dublin 16,q3,70%
+13/12/2017,"40 Abbots Grove Park, Knocklyon, Dublin 16",Dublin,436124.0,Yes,Knocklyon,Dublin 16,q3,70%
+14/12/2017,"39 Abbots Grove Park, Knocklyon, Dublin 15",Dublin,427311.0,Yes,Knocklyon,Dublin 16,q3,70%
+18/12/2017,"Site No. 67, ( Otherwise 19 Abbot'S Grove Park, Knocklyon",Dublin,378854.63,Yes,Knocklyon,Dublin 16,q2,50%
+20/12/2017,"60 Beverly Ave, Knocklyon, Dublin 16",Dublin,452000.0,No,Knocklyon,Dublin 16,q3,80%
+03/01/2018,"17 Woodstown Lane, Knocklyon, Dublin 16",Dublin,456000.0,No,Knocklyon,Dublin 16,q3,80%
+17/01/2018,"27 Abbots Grove Park, Knocklyon, Dublin 16",Dublin,431718.06,Yes,Knocklyon,Dublin 16,q3,70%
+19/01/2018,"124 Woodfield, Knocklyon, Dublin 16",Dublin,485000.0,No,Knocklyon,Dublin 16,q4,80%
+25/01/2018,"8 Knocklyon Gate, Knocklyon, Dublin 16",Dublin,267500.0,No,Knocklyon,Dublin 16,q1,10%
+31/01/2018,"26 Woodstown Close, Knocklyon, Dublin 16",Dublin,530000.0,No,Knocklyon,Dublin 16,q4,90%
+31/01/2018,"7 Knockcullen Rise, Knocklyon Rd, Dublin 16",Dublin,560000.0,No,Knocklyon,Dublin 16,q4,100%
+09/02/2018,"138 Dargle Wood, Knocklyon Rd, Knocklyon Dublin 16",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,80%
+08/03/2018,"58 Orlagh Park, Knocklyon, Dublin 16",Dublin,520000.0,No,Knocklyon,Dublin 16,q4,90%
+13/03/2018,"7 Templeroan View, Knocklyon, Dublin 16",Dublin,490000.0,No,Knocklyon,Dublin 16,q4,80%
+26/03/2018,"21 Orlagh Way, Knocklyon Dublin 16, Dublin",Dublin,495000.0,No,Knocklyon,Dublin 16,q4,90%
+04/04/2018,"113 Coolamber Park, Knocklyon, Dublin 16",Dublin,582000.0,No,Knocklyon,Dublin 16,q4,100%
+04/04/2018,"19 Orlagh Wood, Orlagh Grove, Knocklyon Dublin 16",Dublin,470000.0,No,Knocklyon,Dublin 16,q3,80%
+06/04/2018,"43 Hunters Walk, Hunters Wood, Knocklyon",Dublin,305000.0,Yes,Knocklyon,Dublin 16,q1,20%
+20/04/2018,"18 Ros Mor View, Scholarstown Rd, Knocklyon",Dublin,260000.0,No,Knocklyon,Dublin 16,q1,10%
+20/04/2018,"20 Ros Mor View, Scholarstown Rd, Knocklyon",Dublin,320000.0,No,Knocklyon,Dublin 16,q1,30%
+20/04/2018,"34 Ros Mor View, Scholarstown Rd, Knocklyon",Dublin,375000.0,No,Knocklyon,Dublin 16,q2,50%
+23/04/2018,"13 Templeroan Close, Knocklyon Rd, Templeogue Dublin 16",Dublin,505000.0,No,Knocklyon,Dublin 16,q4,90%
+27/04/2018,"19 Woodstown Park, Woodstown Village, Knocklyon Dublin 16",Dublin,690000.0,No,Knocklyon,Dublin 16,q4,100%
+30/04/2018,"16 Woodstown Parade, Knocklyon, Dublin 16",Dublin,435000.0,No,Knocklyon,Dublin 16,q3,70%
+03/05/2018,"32 Glenvara Park, Knocklyon, Dublin 16",Dublin,318750.0,No,Knocklyon,Dublin 16,q1,30%
+11/05/2018,"66 Cremorne, Knocklyon, Templeogue Dublin 16",Dublin,610000.0,No,Knocklyon,Dublin 16,q4,100%
+14/05/2018,"26 Dal Riada Court, Knocklyon, Dublin16",Dublin,325000.0,No,Knocklyon,Dublin 16,q1,30%
+16/05/2018,"32 Woodstown Meadow, Knocklyon, Dublin 16",Dublin,645000.0,No,Knocklyon,Dublin 16,q4,100%
+23/05/2018,"21 Idrone Drive, Knocklyon, Dublin 16",Dublin,570000.0,No,Knocklyon,Dublin 16,q4,100%
+25/05/2018,"18 Idrone Close, Knocklyon, Dublin 16",Dublin,607000.0,No,Knocklyon,Dublin 16,q4,100%
+25/05/2018,"52 Cremorne, Knocklyon, Dublin 16",Dublin,615000.0,No,Knocklyon,Dublin 16,q4,100%
+30/05/2018,"65 Darglewood, Knocklyon, Dublin 16",Dublin,517000.0,No,Knocklyon,Dublin 16,q4,90%
+31/05/2018,"8 Knockfield Manor, Knocklyon, Dublin 16",Dublin,609000.0,No,Knocklyon,Dublin 16,q4,100%
+13/06/2018,"2 Dalriada Close, Knocklyon, Dublin 16",Dublin,298000.0,No,Knocklyon,Dublin 16,q1,20%
+15/06/2018,"12 Knocklyon Gate, Knocklyon, Dublin 16",Dublin,237000.0,No,Knocklyon,Dublin 16,q1,10%
+15/06/2018,"13 Dalriada Close, Stocking Ave, Knocklyon Dublin 16",Dublin,427500.0,No,Knocklyon,Dublin 16,q3,70%
+19/06/2018,"2 Knocklyon Mews, Templelogue, Dublin 16",Dublin,700000.0,No,Knocklyon,Dublin 16,q4,100%
+26/06/2018,"21 Dalriada Sq, Knocklyon, Dublin 16",Dublin,310000.0,No,Knocklyon,Dublin 16,q1,20%
+27/06/2018,"11 Glenlyon Grove, Knocklyon, Dublin 16",Dublin,485000.0,No,Knocklyon,Dublin 16,q4,80%
+04/07/2018,"58 Darglewood, Knocklyon Rd, Templeogue Dublin 16",Dublin,332666.66,No,Knocklyon,Dublin 16,q2,30%
+06/07/2018,"23 Delaford Lawn, Knocklyon, Templeogue Dublin 16",Dublin,470000.0,No,Knocklyon,Dublin 16,q3,80%
+09/07/2018,"Kerryville, 67 Idrone Park, Knocklyon Dublin 16",Dublin,495000.0,No,Knocklyon,Dublin 16,q4,90%
+10/07/2018,"19 Dalriada Ave, Knocklyon, Dublin 16",Dublin,420000.0,No,Knocklyon,Dublin 16,q3,70%
+12/07/2018,"30 Ros Mor View, Knocklyon, Dublin 16",Dublin,325000.0,No,Knocklyon,Dublin 16,q1,30%
+13/07/2018,"1B Castlefield Green, Knocklyon, Dublin 16",Dublin,365000.0,No,Knocklyon,Dublin 16,q2,40%
+19/07/2018,"30 Woodstown Heights, Knocklyon, Dublin 16",Dublin,445000.0,No,Knocklyon,Dublin 16,q3,70%
+19/07/2018,"48 Templeroan Ave, Knocklyon, Dublin 16",Dublin,735005.0,No,Knocklyon,Dublin 16,q4,100%
+20/07/2018,"20 Templeroan Close, Knocklyon, Dublin 16",Dublin,553000.0,No,Knocklyon,Dublin 16,q4,100%
+26/07/2018,"2 Ashton Close, Knocklyon, Dublin 24",Dublin,530000.0,No,Knocklyon,Dublin 16,q4,90%
+26/07/2018,"40 Woodstown Abbey, Knocklyon, Dublin 16",Dublin,590000.0,No,Knocklyon,Dublin 16,q4,100%
+15/08/2018,"15 Pine Grove, Knocklyon, Dublin",Dublin,342000.0,No,Knocklyon,Dublin 16,q2,30%
+15/08/2018,"Apt 45, Knocklyon Gate, Knocklyon Dublin 16",Dublin,295000.0,No,Knocklyon,Dublin 16,q1,20%
+22/08/2018,"12 Woodstown Heights, Knocklyon, Dublin 16",Dublin,435000.0,No,Knocklyon,Dublin 16,q3,70%
+29/08/2018,"Hersil, Knocklyon Road",Dublin,969162.0,Yes,Knocklyon,Dublin 16,q4,100%
+31/08/2018,"24 Coolamber Park, Knocklyon, Dublin 16",Dublin,642000.0,No,Knocklyon,Dublin 16,q4,100%
+10/09/2018,"15 Templeroan Court, Knocklyon, Dublin 16",Dublin,194500.0,No,Knocklyon,Dublin 16,q1,10%
+12/09/2018,"13 Woodstown Dale, Knocklyon, Dublin 16",Dublin,435000.0,No,Knocklyon,Dublin 16,q3,70%
+13/09/2018,"15 Orlagh View, Knocklyon, Dublin 16",Dublin,480000.0,No,Knocklyon,Dublin 16,q4,80%
+19/09/2018,"76 Coolamber Park, Knocklyon, Dublin 16",Dublin,593000.0,No,Knocklyon,Dublin 16,q4,100%
+24/09/2018,"35 Beverly Downs, Knocklyon, Dublin 16",Dublin,500000.0,No,Knocklyon,Dublin 16,q4,90%
+05/10/2018,"22 Woodstown Heath, Knocklyon, Dublin 16",Dublin,422500.0,No,Knocklyon,Dublin 16,q3,70%
+09/10/2018,"28 Templeroan Close, Knocklyon, Dublin",Dublin,510000.0,No,Knocklyon,Dublin 16,q4,90%
+10/10/2018,"6 Glenvara Park, Knocklyon, Dublin 16",Dublin,760000.0,No,Knocklyon,Dublin 16,q4,100%
+12/10/2018,"36  Orlagh  Grange, Knocklyon, Dublin  16",Dublin,590000.0,No,Knocklyon,Dublin 16,q4,100%
+15/10/2018,"3 Dalriada Court, Knocklyon, Dublin 16",Dublin,412000.0,No,Knocklyon,Dublin 16,q3,60%
+18/10/2018,"4 Knocklyon Heights, Knocklyon, Dublin 16",Dublin,771000.0,No,Knocklyon,Dublin 16,q4,100%
+19/10/2018,"10 Green Acre Court, Knocklyon, Dublin 16",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,80%
+19/10/2018,"123 Coolamber Park, Knocklyon, Dublin 16",Dublin,588000.0,No,Knocklyon,Dublin 16,q4,100%
+22/10/2018,"19 Hersil Wood, Knocklyon",Dublin,550660.79,Yes,Knocklyon,Dublin 16,q4,90%
+26/10/2018,"28 Coolamber Court, Knocklyon, Dublin 16",Dublin,625000.0,No,Knocklyon,Dublin 16,q4,100%
+30/10/2018,"5 Templeroan Crescent, Knocklyon, Dublin 16",Dublin,535000.0,No,Knocklyon,Dublin 16,q4,90%
+12/11/2018,"5 Castlefield Park, Castlefield Manor, Knocklyon",Dublin,475000.0,No,Knocklyon,Dublin 16,q4,80%
+14/11/2018,"7 Dalriada Court, Knocklyon, Dublin 16",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+16/11/2018,"16 Beverly Lawns, Knocklyon, Templeogue Dublin 6W",Dublin,209000.0,No,Knocklyon,Dublin 16,q1,10%
+23/11/2018,"3 Templeroan Green, Knocklyon, Dublin 16",Dublin,355000.0,No,Knocklyon,Dublin 16,q2,40%
+12/12/2018,"23 Delaford Ave, Knocklyon Woods, Knocklyon Dublin 16",Dublin,455000.0,No,Knocklyon,Dublin 16,q3,80%
+17/12/2018,"87 Scholarstown Park, Knocklyon, Dublin 16",Dublin,415000.0,No,Knocklyon,Dublin 16,q3,60%
+11/01/2019,"27 Landsdowne Park, Knocklyon, Dublin 16",Dublin,154700.0,No,Knocklyon,Dublin 16,q1,10%
+17/01/2019,"31A Coolamber Court, Knocklyon, Dublin 16",Dublin,485000.0,No,Knocklyon,Dublin 16,q4,80%
+17/01/2019,"5 Beverly Rise, Knocklyon, Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+18/01/2019,"22 Landsdowne Park, Knocklyon, Dublin 16",Dublin,595000.0,No,Knocklyon,Dublin 16,q4,100%
+31/01/2019,"31 Beverly Dr, Knocklyon, Temlpeouge Dublin 16",Dublin,500000.0,No,Knocklyon,Dublin 16,q4,90%
+14/02/2019,"7 Castlefield Way, Knocklyon, Dublin 16",Dublin,340000.0,No,Knocklyon,Dublin 16,q2,30%
+14/02/2019,"9 Knocklyon Dr, Dublin 16, Dublin",Dublin,500000.0,No,Knocklyon,Dublin 16,q4,90%
+18/02/2019,"5 Ashton Close, Knocklyon, Dublin 16",Dublin,490000.0,No,Knocklyon,Dublin 16,q4,80%
+22/02/2019,"13 Templeroanave, Knocklyon, Dublin 16",Dublin,635000.0,No,Knocklyon,Dublin 16,q4,100%
+27/02/2019,"4 Dargle Lodge, Knocklyon, Dublin 16",Dublin,435430.0,No,Knocklyon,Dublin 16,q3,70%
+15/03/2019,"57 Knocklyon Rd, Templeogue, Dublin 16",Dublin,562500.0,No,Knocklyon,Dublin 16,q4,100%
+15/03/2019,"6 Homeville Court, Knocklyon Dublin 16, Dublin",Dublin,296000.0,No,Knocklyon,Dublin 16,q1,20%
+22/03/2019,"23 Dargle Wood, Knocklyon, Templeogue Dublin 16",Dublin,442000.0,No,Knocklyon,Dublin 16,q3,70%
+22/03/2019,"25 Rossmore View, Scholarstown Road, Knocklyon",Dublin,235000.0,No,Knocklyon,Dublin 16,q1,10%
+25/03/2019,"129 Coolamber Park, Knocklyon, Dublin 16",Dublin,500000.0,No,Knocklyon,Dublin 16,q4,90%
+27/03/2019,"8 Templeroan Court, Knocklyon, Templeogue Dublin 16",Dublin,555000.0,No,Knocklyon,Dublin 16,q4,100%
+01/04/2019,"174 Glenvara Park, Knocklyon, Dublin 16",Dublin,380000.0,No,Knocklyon,Dublin 16,q2,50%
+02/04/2019,"13 Westbourne Lodge, Knocklyon, Dublin 16",Dublin,550000.0,No,Knocklyon,Dublin 16,q4,90%
+12/04/2019,"47 Woodstown Heights, Knocklyon",Dublin,470000.0,No,Knocklyon,Dublin 16,q3,80%
+25/04/2019,"14 Woodstown Heights, Knocklyon, Dublin 16",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,80%
+26/04/2019,"71 Woodfield, Knocklyon, Dublin 16",Dublin,225000.0,No,Knocklyon,Dublin 16,q1,10%
+07/05/2019,"13 Woodstown Place, Knocklyon, Dublin 16",Dublin,447000.0,No,Knocklyon,Dublin 16,q3,70%
+10/05/2019,"4 Templeroan Ave, Knocklyon, Dublin 16",Dublin,595000.0,No,Knocklyon,Dublin 16,q4,100%
+15/05/2019,"35 Knocklyon Gate, Knocklyon, Dublin 16",Dublin,281000.0,No,Knocklyon,Dublin 16,q1,20%
+16/05/2019,"35 Castlefield Park, Castlefield Manor, Knocklyon",Dublin,442000.0,No,Knocklyon,Dublin 16,q3,70%
+17/05/2019,"15 Castlefield Green, Knocklyon, Dublin 16",Dublin,417000.0,No,Knocklyon,Dublin 16,q3,60%
+20/05/2019,"24 Delaford Dr, Knocklyon, Templeogue Dublin 16",Dublin,515000.0,No,Knocklyon,Dublin 16,q4,90%
+23/05/2019,"Hillside, Old Knocklyon Rd, Knocklyon Dublin 16",Dublin,475000.0,No,Knocklyon,Dublin 16,q4,80%
+24/05/2019,"22 Beverly Ave, Knocklyon, Dublin 16",Dublin,420000.0,No,Knocklyon,Dublin 16,q3,70%
+28/05/2019,"24 Glenlyon Crescent, Knocklyon, Dublin 16",Dublin,410000.0,No,Knocklyon,Dublin 16,q3,60%
+14/06/2019,"Glencree, 60 Knocklyon Road, Dublin 16",Dublin,575000.0,No,Knocklyon,Dublin 16,q4,100%
+19/06/2019,"23 Orlagh Wood, Orlagh Grove, Knocklyon",Dublin,580000.0,No,Knocklyon,Dublin 16,q4,100%
+19/06/2019,"5 Dargle Wood, Knocklyon Rd, Dublin 16",Dublin,462000.0,No,Knocklyon,Dublin 16,q3,80%
+20/06/2019,"14 Ashton Ave, Knocklyon, Dublin 16",Dublin,480000.0,No,Knocklyon,Dublin 16,q4,80%
+25/06/2019,"29 Woodstown Lane, Woodstown Village, Knocklyon Dublin 16",Dublin,480000.0,No,Knocklyon,Dublin 16,q4,80%
+27/06/2019,"11 Dalriada Park, Dalriada, Knocklyon",Dublin,367000.0,No,Knocklyon,Dublin 16,q2,40%
+27/06/2019,"4 Knocklyon Mews, Knocklyon, Dublin 16",Dublin,675000.0,No,Knocklyon,Dublin 16,q4,100%
+02/07/2019,"5 Knockfield Manor, Knocklyon Rd, Dublin 16",Dublin,700000.0,No,Knocklyon,Dublin 16,q4,100%
+08/07/2019,"65 Cremorne, Knocklyon, Dublin 16",Dublin,653000.0,No,Knocklyon,Dublin 16,q4,100%
+12/07/2019,"17 Woodstown Way, Woodstown Village, Knocklyon",Dublin,557500.0,No,Knocklyon,Dublin 16,q4,100%
+18/07/2019,"4 Orlagh Grange, Knocklyon, Dublin 16",Dublin,450000.0,No,Knocklyon,Dublin 16,q3,80%
+18/07/2019,"53 Delaford Avenue, Knocklyon Woods, Templeogue",Dublin,390000.0,No,Knocklyon,Dublin 16,q2,50%
+19/07/2019,"3 Glenlyon Crescent, Knocklyon, Templeogue Dublin 16",Dublin,461000.0,No,Knocklyon,Dublin 16,q3,80%
+26/07/2019,"190 Woodfield, Knocklyon, Dublin 16",Dublin,461500.0,No,Knocklyon,Dublin 16,q3,80%
+01/08/2019,"6 Castlefield Way, Castlefield Manor, Knocklyon Dublin 16",Dublin,320000.0,No,Knocklyon,Dublin 16,q1,30%
+07/08/2019,"12 Knocklyon Close, Templeogue, Dublin 16",Dublin,540000.0,No,Knocklyon,Dublin 16,q4,90%
+13/08/2019,"7 Castlefield Green, Knocklyon, Dublin 16",Dublin,399950.0,No,Knocklyon,Dublin 16,q3,60%
+23/08/2019,"21 Coolamber Park, Knocklyon Rd, Templeogue Dublin 16",Dublin,620000.0,No,Knocklyon,Dublin 16,q4,100%
+03/09/2019,"17 Templeroan Green, Knocklyon, Dublin 16",Dublin,425000.0,No,Knocklyon,Dublin 16,q3,70%
+05/09/2019,"16 Knocklyon Park, Knocklyon, Dublin 16",Dublin,600000.0,No,Knocklyon,Dublin 16,q4,100%
+05/09/2019,"21 Glenlyon Park, Knocklyon, Dublin 16",Dublin,396000.0,No,Knocklyon,Dublin 16,q3,60%
+12/09/2019,"11 Knocklyon Ave, Knocklyon, Dublin 16",Dublin,570000.0,No,Knocklyon,Dublin 16,q4,100%
+27/09/2019,"24 Orlagh Lodge, Knocklyon, Dublin 16",Dublin,470000.0,No,Knocklyon,Dublin 16,q4,80%
+04/10/2019,"121 Dargle Wood, Knocklyon Rd, Dublin 16",Dublin,430000.0,No,Knocklyon,Dublin 16,q3,70%
+10/10/2019,"133 Dargle Wood, Knocklyon Rd, Templeogue Dublin 16",Dublin,440000.0,No,Knocklyon,Dublin 16,q3,70%
+15/10/2019,"113 Glenvara Park, Knocklyon, Dublin 16",Dublin,500000.0,No,Knocklyon,Dublin 16,q4,90%
+21/10/2019,"31 Idrone Dr, Knocklyon, Dublin 16",Dublin,512500.0,No,Knocklyon,Dublin 16,q4,90%
+21/10/2019,"43 Mount Alton, Knocklyon, Dublin 16",Dublin,1060000.0,No,Knocklyon,Dublin 16,q4,100%

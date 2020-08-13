@@ -1,0 +1,30 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/04/2012,"26 Hammond Street, Blackpitts, Dublin 8",Dublin,135000.0,No,Blackpitts,Dublin 8,q1,10%
+24/09/2012,"22 Warrenmount Place, Blackpitts, Dublin 8",Dublin,100000.0,No,Blackpitts,Dublin 8,q1,10%
+12/12/2012,"29 Blackpitts, Dublin 8",Dublin,150000.0,No,Blackpitts,Dublin 8,q1,20%
+04/04/2013,"1 Warrenmount Place, Blackpitts, Dublin 8",Dublin,149000.0,No,Blackpitts,Dublin 8,q1,20%
+07/06/2013,"29 Blackpitts, Dublin 8.",Dublin,140000.0,No,Blackpitts,Dublin 8,q1,20%
+20/12/2013,"8 Hammond St Blackpitts, Dublin 8, Dublin",Dublin,285000.0,No,Blackpitts,Dublin 8,q2,50%
+17/02/2014,"16 Saint John St, Blackpitts, Dublin 8",Dublin,195000.0,No,Blackpitts,Dublin 8,q2,30%
+12/03/2014,"31 Hammond Street, Blackpitts, Dublin 8",Dublin,181000.0,No,Blackpitts,Dublin 8,q1,30%
+11/04/2014,"18 Hammond Street, Blackpitts, Dublin 8",Dublin,284000.0,No,Blackpitts,Dublin 8,q2,50%
+01/05/2014,"23 St Michaels Terrace, Blackpitts, Circular Rd South Dublin 8",Dublin,215000.0,No,Blackpitts,Dublin 8,q2,40%
+22/08/2014,"39 Hammond Street, Blackpitts, Dublin 8",Dublin,180000.0,No,Blackpitts,Dublin 8,q1,30%
+13/11/2014,"16 Hammond St, Blackpitts, Circular Rd South Dublin 8",Dublin,240000.0,No,Blackpitts,Dublin 8,q2,40%
+23/04/2015,"12 Blackpitts, Dublin 8, Dublin",Dublin,130000.0,No,Blackpitts,Dublin 8,q1,10%
+07/05/2015,"19 Hammond Street, Blackpitts, Dublin 8",Dublin,306000.0,No,Blackpitts,Dublin 8,q3,70%
+04/06/2015,"17 St Michaels Terrace, Blackpitts, Dublin 8",Dublin,320000.0,No,Blackpitts,Dublin 8,q3,70%
+17/06/2016,"25 St Michaels Terrace, Blackpitts, Dublin 8",Dublin,298000.0,No,Blackpitts,Dublin 8,q3,60%
+12/08/2016,"21 Warrenmount Place, Blackpitts, Dublin 8",Dublin,305000.0,No,Blackpitts,Dublin 8,q3,70%
+30/08/2016,"16 Hammond St, Blackpitts, Circular Rd South Dublin 8",Dublin,365000.0,No,Blackpitts,Dublin 8,q4,80%
+04/10/2016,"35 Hammond St, Blackpitts, Dublin 8",Dublin,245000.0,No,Blackpitts,Dublin 8,q2,40%
+20/01/2017,"10 St John St, Blackpitts, Dublin 8",Dublin,320000.0,No,Blackpitts,Dublin 8,q3,80%
+04/01/2018,"11 Warrenmount Place, Blackpitts, Dublin 8",Dublin,365000.0,No,Blackpitts,Dublin 8,q4,90%
+16/03/2018,"38 Liberty Court, Blackpitts, Dublin 8",Dublin,260000.0,No,Blackpitts,Dublin 8,q2,50%
+19/09/2018,"4 Greenville Parade, Blackpitts, Dublin 8",Dublin,375000.0,No,Blackpitts,Dublin 8,q4,90%
+24/01/2019,"1 Hammond Villas, Blackpitts, Dublin 8",Dublin,445000.0,No,Blackpitts,Dublin 8,q4,100%
+31/05/2019,"22 St John Street, Blackpitts, Dublin 8",Dublin,288000.0,No,Blackpitts,Dublin 8,q3,60%
+13/08/2019,"64 Liberty Ct, Blackpitts, Dublin 8",Dublin,360000.0,No,Blackpitts,Dublin 8,q3,80%
+02/09/2019,"9 Hammond St, Blackpitts, Dublin 8",Dublin,465000.0,No,Blackpitts,Dublin 8,q4,100%
+11/09/2019,"19 Warrenmount Place, Blackpitts, Dublin 8",Dublin,404000.0,No,Blackpitts,Dublin 8,q4,100%
+20/09/2019,"3 St Johns St, Blackpitts, Dublin 8",Dublin,383000.0,No,Blackpitts,Dublin 8,q4,90%

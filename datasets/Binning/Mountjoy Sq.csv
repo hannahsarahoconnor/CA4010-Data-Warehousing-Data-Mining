@@ -1,0 +1,142 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+09/03/2010,"Apartment 1, 55 Mountjoy Square",Dublin,170000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+26/03/2010,"Apt 35 Stapleton House, 33 Mountjoy Square, Dublin 1",Dublin,125000.0,No,Mountjoy Sq,Dublin 1,q2,30%
+16/06/2010,"Apt 40, Number 47-52 Mountjoy Square, Dublin 1",Dublin,180000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+30/06/2010,"Apartment 2, 64  Mountjoy Square",Dublin,112000.0,No,Mountjoy Sq,Dublin 1,q1,30%
+23/07/2010,"Apartment 53, 52 Mountjoy Square",Dublin,179000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+10/11/2010,"Apt 51 No. 55, Mountjoy Square, Dublin 1.",Dublin,110000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+16/08/2011,"Apartment 39, 55 Mountjoy Square, Dublin 1",Dublin,100000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+16/12/2011,"52 Mountjoy Square, Dublin 1",Dublin,75000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+28/02/2012,"Apartment 14, 52 Mountjoy Square",Dublin,90000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+04/05/2012,"Apt. 16, 55 Mountjoy Square",Dublin,135000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+11/05/2012,"Apt. 39  Stapleton House, 33 Mountjoy Sq., Dublin 1",Dublin,69000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+29/06/2012,"Apt.10 Mountjoy Square, Dublin 1",Dublin,91000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+13/07/2012,"Apt. 108, 35 Mountjoy Square, Dublin 1",Dublin,100000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+02/08/2012,"Apartment 3, 33 Mountjoy Square",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+02/10/2012,"33 Stapleton House, Mountjoy Square",Dublin,70000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+09/10/2012,"Apartment No. 50, Block A 35 Mountjoy Square, Dublin City",Dublin,100000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+30/11/2012,"Apartment 26, 35 Mountjoy Square, Dublin1",Dublin,90000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+12/03/2013,"Apt 17  64 Mountjoy Square, Mountjoy Square, Dublin 1",Dublin,134000.0,No,Mountjoy Sq,Dublin 1,q2,30%
+09/04/2013,"37 No 52 Mountjoy Square, Dublin 1",Dublin,99500.0,No,Mountjoy Sq,Dublin 1,q1,20%
+03/05/2013,"No. 35  52 Mountjoy Square, Dublin 1",Dublin,82500.0,No,Mountjoy Sq,Dublin 1,q1,10%
+14/06/2013,"Apartment 49, 35 Mountjoy Square, Dublin 1",Dublin,84000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+09/07/2013,"Apt 19, 64 Mountjoy Sq.",Dublin,95000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+26/08/2013,"Apt. 18, 52 Mountjoy Square",Dublin,120000.0,No,Mountjoy Sq,Dublin 1,q1,30%
+29/08/2013,"67A  Mountjoy Square Rear To 67, Otherwise 27 Grenville Lane, Dublin 1",Dublin,35000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+11/11/2013,"Apt 6, 52 Mountjoy Sq, Dublin 1",Dublin,83000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+20/11/2013,"55  No. 52 Mountjoy Square, Dublin 1",Dublin,123000.0,No,Mountjoy Sq,Dublin 1,q1,30%
+20/11/2013,"Apartment 44, 33 Mountjoy Sqaure, Dublin 1",Dublin,82000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+06/12/2013,"Apartment 29, 52 Mountjoy Sq, Dublin 1",Dublin,78000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+19/12/2013,"Apt 95, 33 Mountjoy Sq, Dublin 1",Dublin,107000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+23/12/2013,"16 Mountjoy Square, Dublin 1",Dublin,200000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+16/01/2014,"Apartment 4, 6 Mountjoy Square, Dublin 1",Dublin,95000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+17/01/2014,"Apt 73 Russel House, 33 Mountjoy Sq, Dublin 1",Dublin,160000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+20/02/2014,"Apartment 107, 35 Mountjoy Square, Dublin 1",Dublin,138000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+25/02/2014,"39 Stapleton House, 33 Mountjoy Square, Dublin",Dublin,110000.0,No,Mountjoy Sq,Dublin 1,q1,30%
+25/02/2014,"Apartment 30, 52 Mountjoy Square, Dublin 1",Dublin,130000.0,No,Mountjoy Sq,Dublin 1,q2,30%
+12/03/2014,"24 Stapleton House, 33 Mountjoy Sq, Dublin 1",Dublin,88000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+26/05/2014,"Basement Apartment, 5 Mountjoy Square, Dublin 1",Dublin,100000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+10/06/2014,"13 Mountjoy Square, Dublin 1",Dublin,650000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+10/06/2014,"Apt 36, 55 Mountjoy Sq, Dublin 1",Dublin,90000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+13/06/2014,"Apartment 27, 35 Mountjoy Square, Dublin 1",Dublin,145000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+18/07/2014,"Apartment 3, 52 Mountjoy Square, Dublin",Dublin,140000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+29/07/2014,"Apartment 3, 6 Mountjoy Square, Dublin 1",Dublin,100000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+26/08/2014,"Apt 81 Russell House, 33 Mountjoy Sq, Dublin 1",Dublin,175000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+11/09/2014,"Apt 33, 55 Mountjoy Sq, Dublin",Dublin,60000.0,No,Mountjoy Sq,Dublin 1,q1,10%
+15/09/2014,"Apartment 7, 6 Mountjoy Square, Dublin 1",Dublin,97000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+19/09/2014,"Ground Floor Apt 7, 7 Mountjoy Square, Dublin 1",Dublin,144000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+25/09/2014,"Apartment 8, 6 Mountjoy Square, Dublin 1",Dublin,101000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+21/11/2014,"Apartment 5, 6 Mountjoy Square, Dublin 1",Dublin,141000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+16/12/2014,"Apt 14, 63 64 Mountjoy Sq, Dublin 1",Dublin,130000.0,No,Mountjoy Sq,Dublin 1,q2,30%
+18/12/2014,"Ground Floor Apartment, 5 Mountjoy Square, Dublin 1",Dublin,146000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+19/12/2014,"Apt. 2, 64 Mountjoy Square",Dublin,155000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+19/01/2015,"14 Russell House, Mountjoy Square",Dublin,135000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+22/01/2015,"Apartment 1, 6 Mountjoy Square, Dublin 1",Dublin,140000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+30/01/2015,"Apt 6, 6 Mountjoy Sq, Dublin 1",Dublin,117000.0,No,Mountjoy Sq,Dublin 1,q1,30%
+11/03/2015,"Apartment 2, 6 Mountjoy Square, Dublin 1",Dublin,225000.0,No,Mountjoy Sq,Dublin 1,q4,80%
+10/04/2015,"Aparatment 4, 4 Mountjoy Square, Dublin 1",Dublin,140000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+10/04/2015,"Apartment 1, 4 Mountjoy Square, Dublin 1",Dublin,160000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+10/04/2015,"Apartment 2, 4 Mountjoy Square, Dublin 1",Dublin,120000.0,No,Mountjoy Sq,Dublin 1,q1,30%
+10/04/2015,"Apartment 3, 4 Mountjoy Square, Dublin 1",Dublin,140000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+10/04/2015,"Apartment 5, 4 Mountjoy Square, Dublin 1",Dublin,180000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+01/05/2015,"48 Mountjoy Sq, Dublin 1, Dublin",Dublin,225000.0,No,Mountjoy Sq,Dublin 1,q4,80%
+28/05/2015,"Apartment 14, 6 Mountjoy Square, Dublin 1",Dublin,106000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+12/06/2015,"17 Mountjoy Square, Dublin 1",Dublin,452500.0,No,Mountjoy Sq,Dublin 1,q4,100%
+17/07/2015,"Apartment 15, 33 Mountjoy Square",Dublin,110000.0,No,Mountjoy Sq,Dublin 1,q1,30%
+17/07/2015,"Apt 34, 33 Mountjoy Sq, Dublin 1",Dublin,128300.0,No,Mountjoy Sq,Dublin 1,q2,30%
+27/08/2015,"Apartment 20, 35 Mountjoy Square, Dublin 1",Dublin,135000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+08/09/2015,"Apartment 20, 64 Mountjoy Square, Dublin 1",Dublin,105000.0,No,Mountjoy Sq,Dublin 1,q1,20%
+25/09/2015,"Apt 2, 55 Mountjoy Square, Dublin 1",Dublin,160000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+30/10/2015,"Apt 59, 55 Mountjoy Square, Dublin 1",Dublin,276600.0,No,Mountjoy Sq,Dublin 1,q4,90%
+18/12/2015,"Apartment 56, 55 Mountjoy Square",Dublin,240668.0,No,Mountjoy Sq,Dublin 1,q4,90%
+18/12/2015,"Apt1, 61 Mountjoy Sq, Dublin 1",Dublin,1800000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+21/12/2015,"75 Russell House, Mountjoy Sq Apts, Charles St Great Dublin 1",Dublin,222000.0,No,Mountjoy Sq,Dublin 1,q3,80%
+31/12/2015,"Apt 7 60 Mountjoy Sq, Dublin 2, Dublin",Dublin,375000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+01/02/2016,"Apt 18, 33 Mountjoy Sq, Dublin 1",Dublin,162000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+03/02/2016,"20 Stapleton House, 33 Mountjoy Sq East, Dublin 1",Dublin,164000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+11/02/2016,"Apartment 3, 35 Mountjoy Square, Dublin 1",Dublin,156000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+02/03/2016,"Apartment 51, 52 Mountjoy Square, Dublin",Dublin,182000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+11/03/2016,"Apt 14, 52 Mountjoy Sq, Dublin",Dublin,195000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+07/04/2016,"Apt 31, 55 Mountjoy Square, Dublin 1",Dublin,148000.0,No,Mountjoy Sq,Dublin 1,q2,40%
+17/05/2016,"49 Mountjoy Sq, Dublin 1, Dublin",Dublin,277000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+27/06/2016,"7 Mountjoy Square, Dublin 1",Dublin,200000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+28/06/2016,"Apt 54, Mountjoy Sq South, Dublin 1",Dublin,195000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+21/10/2016,"Apt 91 Pemberton, 33 Mountjoy Square, Dublin 1",Dublin,130000.0,No,Mountjoy Sq,Dublin 1,q2,30%
+02/12/2016,"Apt 46, 55 Mountjoy Sq West, Dublin",Dublin,130000.0,No,Mountjoy Sq,Dublin 1,q2,30%
+13/12/2016,"Apt 27, Stapleton House, 33 Mountjoy Sq",Dublin,163000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+21/12/2016,"Apartment 55, No 35 Mountjoy Square, Dublin 1",Dublin,202800.0,No,Mountjoy Sq,Dublin 1,q3,70%
+12/01/2017,"Apt 47, 52 Mountjoy Square, Dublin 1",Dublin,275000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+26/01/2017,"Apt 30, 55 Mountjoy Sq West, Dublin 1",Dublin,160000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+13/02/2017,"17 Mountjoy Sq, Dublin 1",Dublin,452500.0,No,Mountjoy Sq,Dublin 1,q4,100%
+28/02/2017,"Apt 88 Pemberton House, 33 Mountjoy Sq, Dublin 1",Dublin,170350.0,No,Mountjoy Sq,Dublin 1,q2,50%
+03/04/2017,"50 Mountjoy Sq, Dublin 1, Dublin",Dublin,258000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+05/04/2017,"Apt 26, 55 Mountjoy Sq West, Dublin 1",Dublin,170000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+07/04/2017,"Apt 15, 6 Mountjoy Sq North, Dublin 1",Dublin,232000.0,No,Mountjoy Sq,Dublin 1,q4,80%
+19/05/2017,"20 Mountjoy Square, Dublin 1",Dublin,375000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+18/08/2017,"Apt 37, 52 Mountjoy Sq, Dublin 1",Dublin,235000.0,No,Mountjoy Sq,Dublin 1,q4,80%
+05/10/2017,"Apt 7 60 Mountjoy Sq, Dublin 1, Dublin",Dublin,750000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+13/10/2017,"Apt 1, 52 Mountjoy Sq South, Dublin 1",Dublin,160000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+06/12/2017,"Apt 1, 31 Mountjoy Sq East, Dublin 1",Dublin,830000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+08/12/2017,"Apartment 3, 52 Mountjoy Square, Dublin",Dublin,200000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+13/12/2017,"16 64 Mountjoy Sq, Mountjoy Sq, Dublin 1",Dublin,300000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+13/12/2017,"18 64 Mountjoy Sq, Mountjoy Sq, Dublin 1",Dublin,295000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+09/03/2018,"Apt 17 64 Mountjoy Sq, Dublin 1, Dublin",Dublin,272000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+14/03/2018,"Apartment 23, 35 Mountjoy Sq, Dublin 1",Dublin,212000.0,No,Mountjoy Sq,Dublin 1,q3,80%
+16/03/2018,"Apt 36 & 43   52 Mountjoy Square, Apt 48  55 Mountjoy Square, Dublin 1",Dublin,408000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+30/03/2018,"16 Mountjoy Square, Dublin1",Dublin,438000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+03/05/2018,"Apt 1 62 Mountjoy Square West, Dublin 1",Dublin,775000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+08/06/2018,"Apt 1, 60 Mountjoy Sq, Dublin 1",Dublin,750000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+10/07/2018,"Apt 35, Stapleton House, 33 Mountjoy Sq Dublin 1",Dublin,215000.0,No,Mountjoy Sq,Dublin 1,q3,80%
+27/07/2018,"Apt 46, 33 Mountjoy Square, Dublin 1",Dublin,200000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+27/07/2018,"Apt 8, 33 Mountjoy Sq, Dublin 15",Dublin,206000.0,No,Mountjoy Sq,Dublin 1,q3,80%
+07/09/2018,"Apt 46, 52 Mountjoy Sq, Dublin 1",Dublin,193000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+07/09/2018,"Apt 5, 52 Mountjoy Sq, Dublin 1",Dublin,235000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+14/09/2018,"36B Fitzgibbon St, Mountjoy Sq, Dublin 1",Dublin,299400.0,No,Mountjoy Sq,Dublin 1,q4,90%
+01/11/2018,"Apt 16, 55 Mountjoy Sq, Dublin City",Dublin,230000.0,No,Mountjoy Sq,Dublin 1,q4,80%
+19/12/2018,"Apartment 111, 35 Mountjoy Square, Dublin 1",Dublin,225000.0,No,Mountjoy Sq,Dublin 1,q4,80%
+21/02/2019,"Apt 15, 6 Mountjoy Sq North, Dublin 1",Dublin,236000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+21/02/2019,"Apt 21, 55 Mountjoy Sq West, Dublin",Dublin,220000.0,No,Mountjoy Sq,Dublin 1,q3,80%
+28/02/2019,"Apt 25 - Mountjoy Square, 47 - 52 Mount Joy Square, Dublin 1",Dublin,172000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+05/03/2019,"Apt 3, 33 Mountjoy Sq, Dublin",Dublin,230000.0,No,Mountjoy Sq,Dublin 1,q4,80%
+28/03/2019,"Apt 44, 52 Mountjoy Sq South, Dublin",Dublin,260000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+01/04/2019,"Apartment 5, 6 Mountjoy Square, Dublin 1",Dublin,335000.0,No,Mountjoy Sq,Dublin 1,q4,100%
+14/05/2019,"Apt 83, Pemberton House, 33 Mountjoy Sq Dublin 1",Dublin,173000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+13/06/2019,"Apt 32, 52 Mountjoy Sq South, Dublin 1",Dublin,160000.0,No,Mountjoy Sq,Dublin 1,q2,50%
+14/06/2019,"Apt 10, 33 Mountjoy Sq, Dublin 1",Dublin,206000.0,No,Mountjoy Sq,Dublin 1,q3,80%
+17/06/2019,"7 Mountjoy Square, Dublin 1",Dublin,302500.0,No,Mountjoy Sq,Dublin 1,q4,100%
+12/07/2019,"Apt 43, 33 Mountjoy Square, Dublin 1",Dublin,205000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+17/07/2019,"Apt 33 Stapleton House, 33 Mountjoy Square, Dublin 1",Dublin,210000.0,No,Mountjoy Sq,Dublin 1,q3,80%
+16/08/2019,"Apartment 38, 52 Mountjoy Square South, Dublin 1",Dublin,240000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+21/08/2019,"10 Belvedere Sq, Mountjoy Sq, Dublin 1",Dublin,276000.0,No,Mountjoy Sq,Dublin 1,q4,90%
+25/09/2019,"Apt 34, 52 Mountjoy Sq, Dublin 1",Dublin,185000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+22/10/2019,"Apt 2, 67 Mountjoy Sq West, Dublin 1",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+22/10/2019,"Apt 4, 67 Mountjoy Square, Dublin 1",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+22/10/2019,"Apt10, 67 Mountjoy Square West, Dublin",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+22/10/2019,"Apt11, 67 Mountjoy Square West, Dublin 1",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+22/10/2019,"Apt1, 67 Mountjoy Square West, Dublin 1",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+22/10/2019,"Apt3, 67 Mountjoy Square West, Dublin 1",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,60%
+22/10/2019,"Apt5, 67 Mountjoy Square West, Dublin 1",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+22/10/2019,"Apt6, 67 Mountjoy Square West, Dublin 1",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+22/10/2019,"Apt7, 67 Mountjoy Square West, Dublin 1",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+22/10/2019,"Apt8, 67 Mountjoy Square West, Dublin 1",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,70%
+22/10/2019,"Apt9, 67 Mountjoy Square West, Dublin 1",Dublin,190000.0,No,Mountjoy Sq,Dublin 1,q3,70%

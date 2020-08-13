@@ -1,0 +1,195 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+26/03/2010,"Hollywood Little, Ballyboughal",Dublin,475000.0,No,Ballybough,Dublin 3,q4,90%
+20/05/2010,"35 Tolka Road, Ballybough, Dublin 3",Dublin,169400.0,No,Ballybough,Dublin 3,q1,20%
+25/05/2010,"158 Tolka Rd, Ballybough",Dublin,175000.0,No,Ballybough,Dublin 3,q1,20%
+26/05/2010,"Knightstown, Ballyboughal",Dublin,265000.0,No,Ballybough,Dublin 3,q2,40%
+15/06/2010,"Bettyville, Ballyboughal",Dublin,545000.0,No,Ballybough,Dublin 3,q4,90%
+17/06/2010,"137 Clonliffe Avenue, Ballybough, Dublin 3",Dublin,210000.0,No,Ballybough,Dublin 3,q1,30%
+18/06/2010,"47 Forster Terrace, Ballybough",Dublin,140000.0,No,Ballybough,Dublin 3,q1,20%
+28/09/2010,"Hollywood, Ballyboughal, Co. Dublin",Dublin,225000.0,No,Ballybough,Dublin 3,q2,30%
+07/10/2010,"43 Clonliffe Avenue, Ballybough",Dublin,160000.0,No,Ballybough,Dublin 3,q1,20%
+29/10/2010,"7 Cnoc Dubh, Ballyboughal",Dublin,155000.0,Yes,Ballybough,Dublin 3,q1,20%
+29/10/2010,"Broomfield View, Mains Court, Ballyboughal",Dublin,237000.0,No,Ballybough,Dublin 3,q2,40%
+02/11/2010,"15 Ballybough Road, Dublin 3",Dublin,267500.0,No,Ballybough,Dublin 3,q2,50%
+24/11/2010,"36 Kings Avenue, Ballybough, Dublin 3",Dublin,5715.0,No,Ballybough,Dublin 3,q1,10%
+18/04/2011,"5 Cnoc Dubh, Ballyboughal, County Dublin",Dublin,225000.0,Yes,Ballybough,Dublin 3,q2,30%
+01/07/2011,"87 Clonliffe Avenue, Ballybough",Dublin,138000.0,No,Ballybough,Dublin 3,q1,20%
+26/07/2011,"The Grange, Ballyboughal",Dublin,440000.0,No,Ballybough,Dublin 3,q4,80%
+03/10/2011,"31 Ballybough Road, Ballybough, Dublin 3",Dublin,128000.0,No,Ballybough,Dublin 3,q1,20%
+21/12/2011,"The Paddocks, Ballyboughal, Co Dublin",Dublin,335000.0,No,Ballybough,Dublin 3,q3,60%
+10/01/2012,"Clonswords, Ballyboughal",Dublin,495000.0,No,Ballybough,Dublin 3,q4,90%
+31/01/2012,"2  Clonmore Villas, Ballybough Road, Dublin 3",Dublin,226000.0,No,Ballybough,Dublin 3,q2,40%
+16/04/2012,"154 Tolka Road, Ballybough",Dublin,75000.0,No,Ballybough,Dublin 3,q1,10%
+23/05/2012,"6 Cnoc Dubh, Ballyboughal",Dublin,160000.0,Yes,Ballybough,Dublin 3,q1,20%
+19/06/2012,"9 Foster Tce, Ballybough",Dublin,95000.0,No,Ballybough,Dublin 3,q1,10%
+03/08/2012,"Waterside House, Bettyville, Ballyboughal",Dublin,450000.0,No,Ballybough,Dublin 3,q4,80%
+26/09/2012,"28 Charleville Avenue, Ballybough, Dublin 1",Dublin,86000.0,No,Ballybough,Dublin 3,q1,10%
+07/11/2012,"30 Ballybough Road, Ballybough, Dublin 3",Dublin,160000.0,No,Ballybough,Dublin 3,q1,20%
+29/11/2012,"27 Ballybough Road, Dublin 3",Dublin,30000.0,No,Ballybough,Dublin 3,q1,10%
+14/01/2013,"15 The Grange, Ballyboughal, Co Dublin",Dublin,195000.0,Yes,Ballybough,Dublin 3,q1,30%
+14/01/2013,"2 Austin Cottages, Ballybough, Dublin 3",Dublin,47000.0,No,Ballybough,Dublin 3,q1,10%
+12/02/2013,"2 The Grange, Ballyboughal, County Dublin",Dublin,350000.0,Yes,Ballybough,Dublin 3,q3,70%
+08/03/2013,"13 The Grange, Ballyboughal, County Dublin",Dublin,256519.82,Yes,Ballybough,Dublin 3,q2,40%
+15/03/2013,"The Moores, Ballyboughal",Dublin,360000.0,No,Ballybough,Dublin 3,q3,70%
+20/03/2013,"11 The Grange, Ballyboughal",Dublin,272246.0,Yes,Ballybough,Dublin 3,q2,50%
+22/03/2013,"18 Ballybough Road, Ballybough",Dublin,155000.0,No,Ballybough,Dublin 3,q1,20%
+02/05/2013,"6 The Grange, Ballyboughal",Dublin,349000.0,Yes,Ballybough,Dublin 3,q3,60%
+07/05/2013,"14 The Grange, Ballyboughal, Co. Dublin",Dublin,243658.0,Yes,Ballybough,Dublin 3,q2,40%
+10/05/2013,"12 The Grange, Ballyboughal, County Dublin",Dublin,254625.0,Yes,Ballybough,Dublin 3,q2,40%
+08/08/2013,"8 The Grange, Ballyboughal",Dublin,309383.25,Yes,Ballybough,Dublin 3,q3,60%
+30/08/2013,"3 Foster Terrace, Ballybough, Dublin 3",Dublin,210000.0,No,Ballybough,Dublin 3,q1,30%
+30/08/2013,"3 Gerrardstown, Ballyboughall",Dublin,155000.0,No,Ballybough,Dublin 3,q1,20%
+20/09/2013,"18 The Grange, Ballyboughal",Dublin,118942.0,Yes,Ballybough,Dublin 3,q1,10%
+23/09/2013,"10 The Grange, Ballyboughal, Co Dublin",Dublin,404000.0,Yes,Ballybough,Dublin 3,q3,80%
+02/10/2013,"Woodleigh Lodge, Woodpark, Ballyboughal",Dublin,492500.0,No,Ballybough,Dublin 3,q4,90%
+25/10/2013,"17 The Grange, Ballyboughal",Dublin,175000.0,Yes,Ballybough,Dublin 3,q1,20%
+01/11/2013,"12 O'Sullivan Avenue, Ballybough",Dublin,121000.0,No,Ballybough,Dublin 3,q1,10%
+08/11/2013,"7 The Grange, Ballyboughal",Dublin,312775.0,Yes,Ballybough,Dublin 3,q3,60%
+14/11/2013,"Mainscourt, Ballyboughal",Dublin,180000.0,No,Ballybough,Dublin 3,q1,30%
+19/11/2013,"36 Kings Ave, Ballybough, Dublin 3",Dublin,42000.0,No,Ballybough,Dublin 3,q1,10%
+29/11/2013,"Coldwinters, Ballyboughal",Dublin,416000.0,No,Ballybough,Dublin 3,q3,80%
+02/12/2013,"Wimbletown, Ballyboughal",Dublin,275000.0,No,Ballybough,Dublin 3,q2,50%
+04/12/2013,"9 The Grange, Ballyboughal",Dublin,318193.0,Yes,Ballybough,Dublin 3,q3,60%
+06/12/2013,"Shancoole House, Grace Dieu, Ballyboughal",Dublin,373000.0,No,Ballybough,Dublin 3,q3,70%
+21/01/2014,"2 Barley Hill, Ballyboughal, Dublin",Dublin,400000.0,No,Ballybough,Dublin 3,q3,80%
+23/01/2014,"16 The Grange, Ballyboughal, County Dublin",Dublin,290308.0,Yes,Ballybough,Dublin 3,q2,50%
+24/01/2014,"7 Cnoc Dubh, Ballyboughal, Dublin",Dublin,130000.0,No,Ballybough,Dublin 3,q1,20%
+27/01/2014,"11 Tolka Rd, Ballybough, Dublin 3",Dublin,110000.0,No,Ballybough,Dublin 3,q1,10%
+30/01/2014,"16A The Grange, Ballyboughal",Dublin,309400.0,Yes,Ballybough,Dublin 3,q3,60%
+03/02/2014,"Richardstown, Ballyboughal, Dublin",Dublin,391500.0,No,Ballybough,Dublin 3,q3,70%
+27/02/2014,"138 Clonliffe Ave, Ballybough, Dublin 3",Dublin,221100.0,No,Ballybough,Dublin 3,q2,30%
+21/03/2014,"Skidoo, Ballyboughal, Co. Dublin",Dublin,211000.0,No,Ballybough,Dublin 3,q2,30%
+28/03/2014,"Skidoo Lodge, Ballyboughal, Dublin",Dublin,110000.0,No,Ballybough,Dublin 3,q1,10%
+01/04/2014,"27 Kings Ave, Ballybough, Dublin 3",Dublin,106000.0,No,Ballybough,Dublin 3,q1,10%
+06/06/2014,"133 Clonliffe Avenue, Ballybough Road, Dublin 3",Dublin,175000.0,No,Ballybough,Dublin 3,q1,20%
+12/06/2014,"Stables, Hollywood, Ballyboughal",Dublin,440000.0,No,Ballybough,Dublin 3,q4,80%
+24/06/2014,"Ellistown, Ballyboughal, Dublin",Dublin,380000.0,No,Ballybough,Dublin 3,q3,70%
+10/07/2014,"27 Osullivan Ave, Ballybough Rd, Dublin 3",Dublin,165000.0,No,Ballybough,Dublin 3,q1,20%
+18/07/2014,"11 Conmore Terrace, Ballybough",Dublin,256000.0,No,Ballybough,Dublin 3,q2,40%
+11/08/2014,"Edgewell, Richardstown, Ballyboughal",Dublin,329000.0,No,Ballybough,Dublin 3,q3,60%
+02/10/2014,"28 Ballybough Rd, Dublin 3, Dublin",Dublin,175000.0,No,Ballybough,Dublin 3,q1,20%
+08/10/2014,"23 St James Ave, Ballybough, Dublin 3",Dublin,225000.0,No,Ballybough,Dublin 3,q2,30%
+17/10/2014,"33 Kings Ave, Ballybough, Dublin 3",Dublin,60000.0,No,Ballybough,Dublin 3,q1,10%
+05/12/2014,"Clonswords, Ballyboughal, Dublin",Dublin,450000.0,No,Ballybough,Dublin 3,q4,80%
+17/12/2014,"4 Lynnwood, Ballyboughal",Dublin,237885.46,Yes,Ballybough,Dublin 3,q2,40%
+02/02/2015,"108 Clonliffe Avenue, Ballybough, Dublin 3",Dublin,250000.0,No,Ballybough,Dublin 3,q2,40%
+02/02/2015,"Coldwinters, Ballyboughal, Dublin",Dublin,250000.0,No,Ballybough,Dublin 3,q2,40%
+13/02/2015,"10 Ballybough Rd, Dublin 3",Dublin,180000.0,No,Ballybough,Dublin 3,q1,30%
+23/02/2015,"1 Osullivan Ave, Ballybough, Dublin 3",Dublin,190000.0,No,Ballybough,Dublin 3,q1,30%
+26/02/2015,"9 Ballybough Ave, Ballybough, Dublin 3",Dublin,210000.0,No,Ballybough,Dublin 3,q1,30%
+17/04/2015,"33 Kings Avenue, Ballybough, Dublin 3",Dublin,100000.0,No,Ballybough,Dublin 3,q1,10%
+29/04/2015,"21 O'Sullivans Ave, Ballybough Road, Dublin 3",Dublin,170000.0,No,Ballybough,Dublin 3,q1,20%
+30/04/2015,"22 Foster Terrace, Ballybough, Dublin 3",Dublin,225000.0,No,Ballybough,Dublin 3,q2,30%
+21/05/2015,"1 Gerrardstown, Ballyboughal, Dublin",Dublin,250000.0,No,Ballybough,Dublin 3,q2,40%
+03/07/2015,"85 Tolka Road, Ballybough, Dublin 3",Dublin,185000.0,No,Ballybough,Dublin 3,q1,30%
+23/07/2015,"4 Lynnwood, Ballyboughal",Dublin,450000.0,Yes,Ballybough,Dublin 3,q4,80%
+18/08/2015,"The Raheens, Ballyboughal",Dublin,225000.0,No,Ballybough,Dublin 3,q2,40%
+24/09/2015,"1 Sackville Gardens, Ballybough, Dublin 3",Dublin,265000.0,No,Ballybough,Dublin 3,q2,40%
+30/09/2015,"1 Crawford Tce, Ballybough, Dublin 3",Dublin,60000.0,No,Ballybough,Dublin 3,q1,10%
+10/11/2015,"4 O'Sullivan Avenue, Ballybough, Dublin 3",Dublin,160000.0,No,Ballybough,Dublin 3,q1,20%
+18/12/2015,"28 Osullivan Ave, Ballybough, Dublin 3",Dublin,460000.0,No,Ballybough,Dublin 3,q4,80%
+18/12/2015,"3 Crawford Terrace, Ballybough, Dublin 9",Dublin,100000.0,No,Ballybough,Dublin 3,q1,10%
+13/01/2016,"Apt 1 61 A Ballybough Rd, Dublin 3, Dublin",Dublin,120000.0,No,Ballybough,Dublin 3,q1,10%
+18/02/2016,"17 Summer St North, Ballybough, Dublin 1",Dublin,302000.0,No,Ballybough,Dublin 3,q2,50%
+26/02/2016,"28 Dooroge Woods, Ballyboughal",Dublin,378854.63,Yes,Ballybough,Dublin 3,q3,70%
+16/03/2016,"15 Clonmore Terrace, Ballybough, Dublin 3",Dublin,300000.0,No,Ballybough,Dublin 3,q2,50%
+21/03/2016,"No 1, The Grange, Ballyboughal",Dublin,515000.0,No,Ballybough,Dublin 3,q4,90%
+23/03/2016,"Lia Fail, Belinstown, Ballyboughal",Dublin,558000.0,No,Ballybough,Dublin 3,q4,90%
+09/05/2016,"13 Clonmore Road, Ballybough, Dublin 3",Dublin,227000.0,No,Ballybough,Dublin 3,q2,40%
+11/05/2016,"13 Clonliffe Rd, Ballybough, Dublin 3",Dublin,257000.0,No,Ballybough,Dublin 3,q2,40%
+13/05/2016,"76 Ballybough Rd, Dublin 3, Dublin",Dublin,260000.0,No,Ballybough,Dublin 3,q2,40%
+24/05/2016,"40 Foster Terrace, Ballybough, Dublin 3",Dublin,337000.0,No,Ballybough,Dublin 3,q3,60%
+04/07/2016,"31 Dooroge Woods, Ballyboughal",Dublin,405396.47,Yes,Ballybough,Dublin 3,q3,80%
+29/07/2016,"32 Dooroge Woods, Dooroge Woods, Ballyboughal",Dublin,463000.0,Yes,Ballybough,Dublin 3,q4,90%
+26/08/2016,"18 The Grange, Ballyboughal, Dublin",Dublin,335000.0,No,Ballybough,Dublin 3,q3,60%
+21/10/2016,"12 The Grange, Ballyboughal, Co. Dublin",Dublin,428000.0,No,Ballybough,Dublin 3,q4,80%
+04/11/2016,"Mainscourt, Ballyboughal, Dublin",Dublin,695000.0,No,Ballybough,Dublin 3,q4,100%
+25/11/2016,"35 Dooroge Woods, Ballyboughal",Dublin,350325.0,Yes,Ballybough,Dublin 3,q3,70%
+02/12/2016,"87 Clonliffe Ave, Ballybough, Dublin 3",Dublin,250000.0,No,Ballybough,Dublin 3,q2,40%
+20/12/2016,"85 Ballybough Road, Ballybough, Dublin 3",Dublin,120000.0,No,Ballybough,Dublin 3,q1,10%
+22/12/2016,"16 Clonmore Terrace, Ballybough Road, Dublin 3",Dublin,230000.0,No,Ballybough,Dublin 3,q2,40%
+11/01/2017,"(Main Hse), Gracedieu, Ballyboughal",Dublin,665000.0,No,Ballybough,Dublin 3,q4,100%
+03/02/2017,"Richardstown, Ballyboughal, Dublin",Dublin,705000.0,No,Ballybough,Dublin 3,q4,100%
+14/02/2017,"110 Clonliffe Ave, Ballybough, Dublin 3",Dublin,315000.0,No,Ballybough,Dublin 3,q3,60%
+27/02/2017,"5 Cnoc Dubh, Ballyboughal, Dublin",Dublin,290000.0,No,Ballybough,Dublin 3,q2,50%
+10/03/2017,"5 Tolka Road, Ballybough, Dublin 3",Dublin,220000.0,No,Ballybough,Dublin 3,q2,30%
+14/03/2017,"Grange House, Ballyboughal, County Dublin",Dublin,600000.0,No,Ballybough,Dublin 3,q4,100%
+22/03/2017,"(Main Hse), Gracedieu, Ballyboughal",Dublin,665000.0,No,Ballybough,Dublin 3,q4,100%
+07/04/2017,"6 Dooroge Woods, Ballyboughal",Dublin,563876.0,Yes,Ballybough,Dublin 3,q4,100%
+13/04/2017,"Doorogue House, Ballyboughal, Dublin",Dublin,450000.0,No,Ballybough,Dublin 3,q4,80%
+15/05/2017,"85 Tolka Road, Ballybough, Dublin 3",Dublin,350000.0,No,Ballybough,Dublin 3,q3,70%
+25/05/2017,"26 Dooroge Woods, Ballyboughal",Dublin,352423.0,Yes,Ballybough,Dublin 3,q3,70%
+15/06/2017,"25 Richmond Ave Apt 1, Ballybough, Dublin 3",Dublin,380000.0,No,Ballybough,Dublin 3,q3,70%
+23/06/2017,"Briarfields, Belinstown, Ballyboughal",Dublin,665000.0,No,Ballybough,Dublin 3,q4,100%
+27/06/2017,"Hollywood, Ballyboughal, Dublin",Dublin,1000000.0,No,Ballybough,Dublin 3,q4,100%
+07/07/2017,"21 Doorogue Woods, Ballyboughal, County Dublin.",Dublin,440528.63,Yes,Ballybough,Dublin 3,q4,80%
+17/07/2017,"Kilronan, Ballyboughal, Dublin",Dublin,672500.0,No,Ballybough,Dublin 3,q4,100%
+05/09/2017,"3 Clonliffe Ave, Ballybough, Dublin 3",Dublin,262500.0,No,Ballybough,Dublin 3,q2,40%
+18/09/2017,"37 Clonliffe Ave, Ballybough, Dublin 3",Dublin,285000.0,No,Ballybough,Dublin 3,q2,50%
+09/10/2017,"14 C Poplar Row, Ballybough, Dublin 3",Dublin,298000.0,No,Ballybough,Dublin 3,q2,50%
+11/10/2017,"25 Doorage Woods, Ballyboughal",Dublin,603524.23,Yes,Ballybough,Dublin 3,q4,100%
+01/12/2017,"109 Clonliffe Ave, Ballybough, Dublin 3",Dublin,267000.0,No,Ballybough,Dublin 3,q2,40%
+05/12/2017,"28 St Jamess Ave, Clonliffe Rd, Ballybough Dublin 3",Dublin,355000.0,No,Ballybough,Dublin 3,q3,70%
+07/12/2017,"14 Clonliffe Ave, Ballybough, Dublin 3",Dublin,286000.0,No,Ballybough,Dublin 3,q2,50%
+08/12/2017,"15 Dooroge Woods, Ballyboughal, Co. Dublin",Dublin,765000.0,No,Ballybough,Dublin 3,q4,100%
+13/12/2017,"5 Enaville Avenue, Ballybough, Dublin 3",Dublin,120000.0,No,Ballybough,Dublin 3,q1,10%
+08/01/2018,"Woodville, Belinstown, Ballyboughal",Dublin,500000.0,No,Ballybough,Dublin 3,q4,90%
+09/01/2018,"1 Orchard Rd, Off Cloniff Rd, Ballybough",Dublin,210000.0,No,Ballybough,Dublin 3,q2,30%
+30/01/2018,"43 St Jamess Ave, Ballybough, Dublin 3",Dublin,305000.0,No,Ballybough,Dublin 3,q2,50%
+05/03/2018,"14 Clonliffe Gardens, Ballybough, Dublin 3",Dublin,336000.0,No,Ballybough,Dublin 3,q3,60%
+05/03/2018,"8 Tolka Rd, Ballybough, Dublin 3",Dublin,292500.0,No,Ballybough,Dublin 3,q2,50%
+20/03/2018,"31 Kings Ave, Ballybough, Dublin 3",Dublin,155000.0,No,Ballybough,Dublin 3,q1,20%
+23/03/2018,"23 Doorogue Woods, Ballyboughal",Dublin,592070.48,Yes,Ballybough,Dublin 3,q4,100%
+14/05/2018,"10 Tolka Rd, Ballybough, Dublin 3",Dublin,300000.0,No,Ballybough,Dublin 3,q2,50%
+26/06/2018,"Grange House, Grange, Ballyboughal",Dublin,3500000.0,No,Ballybough,Dublin 3,q4,100%
+29/06/2018,"Verona, Dooroge, Ballyboughal",Dublin,585000.0,No,Ballybough,Dublin 3,q4,100%
+01/08/2018,"42 Ballybough Road, Ballybough, Dublin 3",Dublin,187500.0,No,Ballybough,Dublin 3,q1,30%
+01/08/2018,"42A Ballybough Road, Ballybough, Dublin 3",Dublin,187500.0,No,Ballybough,Dublin 3,q1,30%
+10/08/2018,"25 Clonmore Rd, Ballybough, Dublin 3",Dublin,391000.0,No,Ballybough,Dublin 3,q3,70%
+17/09/2018,"13 The Grange, Ballyboughal, Co. Dublin",Dublin,569000.0,No,Ballybough,Dublin 3,q4,100%
+27/11/2018,"15 Cnoc Dubh Green, Cnoc Dubh, Ballyboughal",Dublin,308370.04,Yes,Ballybough,Dublin 3,q3,60%
+19/12/2018,"14 Cnoc Dubh Green, Ballyboughal, County Dublin",Dublin,299559.0,Yes,Ballybough,Dublin 3,q2,50%
+31/01/2019,"Gracedieu, Ballyboughal, Dublin",Dublin,560000.0,No,Ballybough,Dublin 3,q4,90%
+06/02/2019,"Wimbletown House, Wimbletown, Ballyboughal",Dublin,535000.0,No,Ballybough,Dublin 3,q4,90%
+06/03/2019,"Flat 1, 2 Clonmore Villas, Ballybough",Dublin,550000.0,No,Ballybough,Dublin 3,q4,90%
+26/03/2019,"2 St Marys Terrace, Ballybough Rd, Dublin 3",Dublin,339000.0,No,Ballybough,Dublin 3,q3,60%
+28/03/2019,"12 Cnoc Dubh Green, Ballyboughal",Dublin,374449.33,Yes,Ballybough,Dublin 3,q3,70%
+29/03/2019,"2 The Square, Cnoc Dubh, Ballyboughal",Dublin,308370.0,Yes,Ballybough,Dublin 3,q2,50%
+08/04/2019,"Ellistown, Ballyboughal, Dublin",Dublin,695000.0,No,Ballybough,Dublin 3,q4,100%
+09/04/2019,"2 Cnoc Dubh Walk, Ballyboughal, Co Dublin",Dublin,378855.0,Yes,Ballybough,Dublin 3,q3,70%
+12/04/2019,"The Gables, 14 Ballybough Rd, Dublin 3",Dublin,400000.0,No,Ballybough,Dublin 3,q3,80%
+26/04/2019,"4 Cnoc Dubh Walk, Cnoc Dubh, Ballyboughal",Dublin,286343.61,Yes,Ballybough,Dublin 3,q2,50%
+09/05/2019,"2 Cnoc Dubh Lawn, Ballyboughal",Dublin,405286.0,Yes,Ballybough,Dublin 3,q3,80%
+15/05/2019,"1 Cnoc Dubh View, Ballyboughal, County Dublin",Dublin,392070.48,Yes,Ballybough,Dublin 3,q3,70%
+17/05/2019,"9 Cnock Dubh Green, Ballyboughal, County Dublin",Dublin,383259.0,Yes,Ballybough,Dublin 3,q3,70%
+17/05/2019,"Holybrook House, Ballyboughal, Dublin",Dublin,920000.0,No,Ballybough,Dublin 3,q4,100%
+28/05/2019,"16 Clonliffe Avenue, Ballybough, Dublin 3",Dublin,213000.0,No,Ballybough,Dublin 3,q2,30%
+31/05/2019,"13 The Green, Cnoc Dubh, Ballyboughal",Dublin,312755.33,Yes,Ballybough,Dublin 3,q3,60%
+31/05/2019,"4 The Lawn, Cnoc Dubh, Ballyboughal",Dublin,361233.0,Yes,Ballybough,Dublin 3,q3,70%
+31/05/2019,"8 Cnoc Dubh Lawn, Ballyboughal, County Dublin",Dublin,524229.07,Yes,Ballybough,Dublin 3,q4,90%
+31/05/2019,"Garthowen, Bealinstown, Ballyboughal",Dublin,510000.0,No,Ballybough,Dublin 3,q4,90%
+04/06/2019,"9 Cnoc Dubh Lawn, Cnoc Dubh, Ballyboughal",Dublin,400881.05,Yes,Ballybough,Dublin 3,q3,80%
+11/06/2019,"2 Cnoc Dubh Crescent, Ballyboughal, Co. Dublin",Dublin,383260.0,Yes,Ballybough,Dublin 3,q3,70%
+14/06/2019,"1 Cnoc Dubh Crescent, Ballyboughal, County Dublin",Dublin,317180.0,Yes,Ballybough,Dublin 3,q3,60%
+17/06/2019,"12 Cnoc Dubh Lawn, Ballyboughal",Dublin,524229.0,Yes,Ballybough,Dublin 3,q4,90%
+17/06/2019,"5 Cnoc Dubh Lawn, Ballyboughal, Co Dublin",Dublin,462555.0,Yes,Ballybough,Dublin 3,q4,90%
+21/06/2019,"3 The View, Cnoc Dubh, Ballyboughal",Dublin,312775.0,Yes,Ballybough,Dublin 3,q3,60%
+24/06/2019,"2 Cnoc Dubh View, Ballyboughal",Dublin,312775.0,Yes,Ballybough,Dublin 3,q3,60%
+28/06/2019,"11 Cnoc Dubh Green, Ballyboughal, County Dublin",Dublin,466960.35,Yes,Ballybough,Dublin 3,q4,90%
+28/06/2019,"4 Cnoc Dubh View, Ballyboughal",Dublin,400881.05,Yes,Ballybough,Dublin 3,q3,80%
+28/06/2019,"Flat 2, 43 St Marys Terrace, Ballybough Rd",Dublin,100000.0,No,Ballybough,Dublin 3,q1,10%
+01/07/2019,"54 Foster Tce, Ballybough, Dublin 3",Dublin,485000.0,No,Ballybough,Dublin 3,q4,90%
+09/07/2019,"3 Cnoc Dubh Crescent, Ballyboughal, Co. Dublin",Dublin,352423.0,Yes,Ballybough,Dublin 3,q3,70%
+19/07/2019,"Alegria, Grange, Ballyboughal",Dublin,585000.0,No,Ballybough,Dublin 3,q4,100%
+31/07/2019,"10 Cnoc Dubh Green, Ballyboughal",Dublin,466960.35,Yes,Ballybough,Dublin 3,q4,90%
+16/08/2019,"28 Clonmore Rd, Ballybough, Dublin 3",Dublin,305000.0,No,Ballybough,Dublin 3,q2,50%
+23/08/2019,"Skidoo, Ballyboughal, Dublin",Dublin,275000.0,No,Ballybough,Dublin 3,q2,50%
+30/08/2019,"1 Cnoc Dubh Green, Ballyboughal",Dublin,440485.0,Yes,Ballybough,Dublin 3,q4,80%
+12/09/2019,"7 Cnoc Dubh Lawn, Cnoc Dubh, Ballyboughal",Dublin,519823.0,Yes,Ballybough,Dublin 3,q4,90%
+16/09/2019,"3 The Square, Cnoc Dubh, Ballyboughal",Dublin,396475.0,Yes,Ballybough,Dublin 3,q3,80%
+16/09/2019,"Ashbrook House, Ballyboughal, Dublin",Dublin,745000.0,No,Ballybough,Dublin 3,q4,100%
+20/09/2019,"Grace Dieu, Ballyboughal, Co Dublin",Dublin,375000.0,No,Ballybough,Dublin 3,q3,70%
+23/09/2019,"9 Cnoc Dubh Walk, Cnoc Dubh, Ballyboughal",Dublin,348017.62,Yes,Ballybough,Dublin 3,q3,60%
+01/10/2019,"31 Clonliffe Ave, Ballybough, Dublin 3",Dublin,290000.0,No,Ballybough,Dublin 3,q2,50%
+02/10/2019,"66 Clonliffe Ave, Ballybough, Dublin 3",Dublin,331000.0,No,Ballybough,Dublin 3,q3,60%
+25/10/2019,"Dooroge, Ballyboughal, Co Dublin",Dublin,565000.0,No,Ballybough,Dublin 3,q4,100%

@@ -1,0 +1,372 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+28/01/2010,"39 Merrion Strand, Strand Road, Dublin",Dublin,360000.0,No,Merrion,Dublin 4,q3,70%
+27/10/2010,"Apt 30 Block B, Merrion Court, Ailesbury Rd",Dublin,310000.0,No,Merrion,Dublin 4,q3,60%
+15/12/2010,"Apt 12 Dunloe Hall, Upper Merrion Street, Dublin 2",Dublin,665000.0,No,Merrion,Dublin 4,q4,90%
+21/04/2011,"Apartment 14, Dunloe Hall  Merrion Street",Dublin,695000.0,No,Merrion,Dublin 4,q4,90%
+16/05/2011,"Apartment 3 Merrion Hotel, 21/24 Upper Merrion Street",Dublin,2650000.0,No,Merrion,Dublin 4,q4,100%
+28/06/2011,"Flat No 148 Fourth Floor, Merrion Village, Merrion Road",Dublin,250000.0,No,Merrion,Dublin 4,q2,50%
+10/08/2011,"1 Merrion Village, Merrion Road",Dublin,330000.0,No,Merrion,Dublin 4,q3,60%
+28/11/2011,"95 Merrion Square, Dublin",Dublin,111766.0,No,Merrion,Dublin 4,q1,10%
+29/11/2011,"8 Lynton Court, Merrion Road",Dublin,420000.0,No,Merrion,Dublin 4,q3,80%
+21/03/2012,"137 Merrion Village, Merrion Road",Dublin,215000.0,No,Merrion,Dublin 4,q2,50%
+03/08/2012,"47 The Bay, Merrion Road, Dublin 4",Dublin,299000.0,No,Merrion,Dublin 4,q3,60%
+16/10/2012,"86 The Rise, Nount Merrion",Dublin,780000.0,No,Merrion,Dublin 4,q4,90%
+18/01/2013,"30 Elm Park, Merrion Road, Dublin 4",Dublin,158000.0,No,Merrion,Dublin 4,q1,30%
+22/02/2013,"86 Shrewsbury, Shrewsbury Park, Merrion Road",Dublin,273000.0,No,Merrion,Dublin 4,q2,50%
+07/03/2013,"20 The Bay, Elm Park, Merrion Road",Dublin,295000.0,No,Merrion,Dublin 4,q3,60%
+05/04/2013,"41 Merrion Village, Merrion",Dublin,350000.0,No,Merrion,Dublin 4,q3,70%
+09/05/2013,"Apt 13  Merrion Court, Ailesbury Road, Dublin 4",Dublin,340000.0,No,Merrion,Dublin 4,q3,70%
+17/05/2013,"24 Merrion Village, Merrion Road",Dublin,402312.0,No,Merrion,Dublin 4,q3,80%
+10/09/2013,"19 Merrion Village, Merrion Road, Dublin 4",Dublin,666000.0,No,Merrion,Dublin 4,q4,90%
+20/11/2013,"12 Malton, 31 33 Merrion Rd, Merrion Road",Dublin,319780.0,No,Merrion,Dublin 4,q3,60%
+20/11/2013,"2 Linden, 31 33 Merrion Rd, Merrion Rd Dublin 4",Dublin,246280.0,No,Merrion,Dublin 4,q2,50%
+20/11/2013,"2 Malton, 31 33 Merrion Rd, Merrion Road",Dublin,246280.0,No,Merrion,Dublin 4,q2,50%
+20/11/2013,"20 Malton, 31 33 Merrion Rd, Merrion Road",Dublin,260470.0,No,Merrion,Dublin 4,q2,50%
+20/11/2013,"3 Grafton, 31 33 Merrion Rd, Merrion Rd Dublin 4",Dublin,322360.0,No,Merrion,Dublin 4,q3,60%
+20/11/2013,"4 Malton, 31 33 Merrion Rd, Merrion Road",Dublin,299150.0,No,Merrion,Dublin 4,q3,60%
+20/11/2013,"6 Linden, 31 33 Merrion Rd, Merrion Road",Dublin,246020.0,No,Merrion,Dublin 4,q2,50%
+20/11/2013,"8 Malton, 31 33 Merrion Rd, Merrion Road",Dublin,306880.0,No,Merrion,Dublin 4,q3,60%
+04/12/2013,"30 Trimleston Ave, Merrion Rd, Dublin 4",Dublin,681500.0,No,Merrion,Dublin 4,q4,90%
+06/12/2013,"Apt 211 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,361000.0,No,Merrion,Dublin 4,q3,70%
+17/12/2013,"43 Merrion Court, Ailesbury Rd, Dublin 4",Dublin,137500.0,No,Merrion,Dublin 4,q1,20%
+19/12/2013,"51 Shrewsbury, Merrion Rd, Dublin 4",Dublin,500000.0,No,Merrion,Dublin 4,q4,80%
+10/01/2014,"129 The Links, Elmpark, Merrion Rd Dublin 4",Dublin,235000.0,No,Merrion,Dublin 4,q2,50%
+10/01/2014,"130 The Links, Elmpark, Merrion Rd Dublin 4",Dublin,345000.0,No,Merrion,Dublin 4,q3,70%
+27/02/2014,"6 Bellevue Park Ave, Merrion Rd, Dublin 4",Dublin,358000.0,No,Merrion,Dublin 4,q3,70%
+08/04/2014,"12 Fortlands, Herbert Ave, Merrion Rd Dublin 4",Dublin,425000.0,No,Merrion,Dublin 4,q3,80%
+29/04/2014,"Apt 10, Elm Court, Merrion Rd Dublin 4",Dublin,150000.0,No,Merrion,Dublin 4,q1,30%
+19/05/2014,"Elm Cottage, 13 Estate Ave, Merrion Dublin 4",Dublin,410000.0,No,Merrion,Dublin 4,q3,80%
+29/05/2014,"Apt 116, Merrion Village, Merrion Rd Dublin 4",Dublin,285000.0,No,Merrion,Dublin 4,q3,60%
+03/06/2014,"17 Merrion Street Upper, Dublin 2",Dublin,500000.0,No,Merrion,Dublin 4,q4,80%
+09/06/2014,"31 Merrion Square, Dublin 2",Dublin,1735000.0,No,Merrion,Dublin 4,q4,100%
+24/06/2014,"Flat 1 Top Floor, 6 Merrion Square, Dublin 2",Dublin,300000.0,No,Merrion,Dublin 4,q3,60%
+15/07/2014,"3 Merrion Plaza, Fenian Street",Dublin,253100.0,No,Merrion,Dublin 4,q2,50%
+15/07/2014,"4 Merrion Plaza, Fenian Street",Dublin,253100.0,No,Merrion,Dublin 4,q2,50%
+15/07/2014,"5 Merrion Plaza, Fenian Street",Dublin,253100.0,No,Merrion,Dublin 4,q2,50%
+18/07/2014,"135 Merrion Village, Merrion Rd, Merrion Dublin 4",Dublin,500000.0,No,Merrion,Dublin 4,q4,80%
+03/09/2014,"43 Shrewsbury, Merrion Rd, Dublin 4",Dublin,651510.0,No,Merrion,Dublin 4,q4,90%
+04/12/2014,"201 Strand Rd, Merrion, Dublin 4",Dublin,985000.0,No,Merrion,Dublin 4,q4,100%
+10/12/2014,"175 Strand Rd, Merrion, Dublin 4",Dublin,1700000.0,No,Merrion,Dublin 4,q4,100%
+18/02/2015,"16 Dunloe Hall, Merrion St Upper, Dublin 2",Dublin,330000.0,No,Merrion,Dublin 4,q3,60%
+05/03/2015,"Apt 2, 12B Merrion Court, Merrion Row",Dublin,178000.0,No,Merrion,Dublin 4,q2,50%
+05/03/2015,"Apt 3, 12B Merrion Court, Merrion Row",Dublin,178000.0,No,Merrion,Dublin 4,q2,50%
+05/03/2015,"Apt 4, 12B Merrion Court, Merrion Row",Dublin,178000.0,No,Merrion,Dublin 4,q2,50%
+05/03/2015,"Apt 5, 12B Merrion Court, Merrion Row",Dublin,178000.0,No,Merrion,Dublin 4,q2,50%
+10/03/2015,"Apt 2, Merrion Plaza, Fenian St Dublin 2",Dublin,305000.0,No,Merrion,Dublin 4,q3,60%
+13/03/2015,"272 Merrion Rd, Dublin 4, Dublin",Dublin,500000.0,No,Merrion,Dublin 4,q4,80%
+20/03/2015,"1 Merrion Plaza, Fenian St, Dublin 2",Dublin,325000.0,No,Merrion,Dublin 4,q3,60%
+26/03/2015,"52 Merrion Square, Dublin 2",Dublin,2900000.0,No,Merrion,Dublin 4,q4,100%
+24/04/2015,"78 Merrion Road, Dublin 4",Dublin,1315000.0,No,Merrion,Dublin 4,q4,100%
+24/04/2015,"80 Merrion Road, Dublin 2",Dublin,1315000.0,No,Merrion,Dublin 4,q4,100%
+08/05/2015,"13 Merrion Square, Dublin 2",Dublin,760000.0,No,Merrion,Dublin 4,q4,90%
+05/06/2015,"4 Merrion Square, Dublin 2",Dublin,400000.0,No,Merrion,Dublin 4,q3,80%
+11/06/2015,"14 Merrion Court, Ailesbury Road, Dublin 4",Dublin,525000.0,No,Merrion,Dublin 4,q4,80%
+16/06/2015,"Apartment No 6, The Malton, 31-33 Merrion Road",Dublin,630000.0,No,Merrion,Dublin 4,q4,90%
+31/07/2015,"60 Shrewsbury, Shrewsbury Park, Merrion Road Ballsbridge",Dublin,605000.0,No,Merrion,Dublin 4,q4,90%
+21/08/2015,"The Links, Elm Park, Merrion",Dublin,350000.0,No,Merrion,Dublin 4,q3,70%
+03/09/2015,"Apartment 13  The Linden, 31-33 Merrion Road, Dublin 4",Dublin,725000.0,No,Merrion,Dublin 4,q4,90%
+14/09/2015,"3 Merrion Plaza, Fenian Street, Dublin 2",Dublin,333000.0,No,Merrion,Dublin 4,q3,60%
+14/09/2015,"4 Merrion Plaza, Fenian Street, Dublin 2",Dublin,333000.0,No,Merrion,Dublin 4,q3,70%
+14/09/2015,"5 Merrion Plaza, Fenian Street, Dublin 2",Dublin,334000.0,No,Merrion,Dublin 4,q3,70%
+25/09/2015,"88 Shrewsbury Park, Merrion Road, Dublin 4",Dublin,535000.0,No,Merrion,Dublin 4,q4,80%
+18/12/2015,"2  Dunloe Hall, Upper Merrion Street, Dublin 2",Dublin,450000.0,No,Merrion,Dublin 4,q3,80%
+17/02/2016,"10 The Bay, Elm Park, Merrion Road",Dublin,462656.0,No,Merrion,Dublin 4,q4,80%
+17/02/2016,"10 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"100 The Bay, Elm Park, Merrion Road",Dublin,141481.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"100 The Links, Elm Park, Merrion Road",Dublin,125036.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"101 The Bay, Elm Park, Merrion Road",Dublin,139546.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"101 The Links, Elm Park, Merrion Road",Dublin,209199.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"102 The Bay, Elm Park, Merrion Road",Dublin,141239.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"103 The Bay, Elm Park, Merrion Road",Dublin,142690.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"103 The Links, Elm Park, Merrion Road",Dublin,125036.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"104 The Bay, Elm Park, Merrion Road",Dublin,141723.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"105 The Bay, Elm Park, Merrion Road",Dublin,139788.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"105 The Links, Elm Park, Merrion Road",Dublin,217422.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"106 The Bay, Elm Park, Merrion Road",Dublin,141723.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"107 The Bay, Elm Park, Merrion Road",Dublin,142932.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"107 The Links, Elm Park, Merrion Road",Dublin,209199.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"108 The Bay, Elm Park, Merrion Road",Dublin,141723.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"108 The Links, Elm Park, Merrion Road",Dublin,217422.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"109 The Bay, Elm Park, Merrion Road",Dublin,139788.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"109 The Links, Elm Park, Merrion Road",Dublin,125036.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"11 The Links, Elm Park, Merrion Road",Dublin,9173500.0,No,Merrion,Dublin 4,q4,100%
+17/02/2016,"110 The Bay, Elm Park, Merrion Road",Dublin,141481.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"110 The Links, Elm Park, Merrion Road",Dublin,209199.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"111 The Bay, Elm Park, Merrion Road",Dublin,142690.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"111 The Links, Elm Park, Merrion Road",Dublin,1048828.69,No,Merrion,Dublin 4,q4,100%
+17/02/2016,"112 The Links, Elm Park, Merrion Road",Dublin,1020009.06,No,Merrion,Dublin 4,q4,100%
+17/02/2016,"115 The Links, Elm Park, Merrion Road",Dublin,317305.0,No,Merrion,Dublin 4,q3,60%
+17/02/2016,"117 The Links, Elm Park, Merrion Road",Dublin,125036.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"122 The Links, Elm Park, Merrion Road",Dublin,209682.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"123 The Links, Elm Park, Merrion Road",Dublin,125036.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"124 The Links, Elm Park, Merrion Road",Dublin,217663.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"125 The Links, Elm Park, Merrion Road",Dublin,209682.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"127 The Links, Elm Park, Merrion Road",Dublin,217663.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"132 The Links, Elm Park, Merrion Road",Dublin,1048828.69,No,Merrion,Dublin 4,q4,100%
+17/02/2016,"133 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"134 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"135 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"136 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"137 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"138 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"139 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"14 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"141 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"142 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"143 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"144 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"145 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"149 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"151 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"152 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"153 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"154 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"155 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"156 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"157 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"158 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"159 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"16 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"161 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"17 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,30%
+17/02/2016,"170 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"174 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"175 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"176 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"178 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"19 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"197 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"198 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"199 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"200 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"201 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"202 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"203 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"204 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"205 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"207 Llandaff Terrace, Merrion Road",Dublin,570030.0,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"209 Llandaff Terrace, Merrion Road",Dublin,362180.0,No,Merrion,Dublin 4,q3,70%
+17/02/2016,"209 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"210 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"211 Llandaff Terrace, Merrion Road",Dublin,301390.0,No,Merrion,Dublin 4,q3,60%
+17/02/2016,"212 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"213 Llandaff Terrace, Merrion Road",Dublin,310431.0,No,Merrion,Dublin 4,q3,60%
+17/02/2016,"215 Llandaff Terrace, Merrion Road",Dublin,316459.0,No,Merrion,Dublin 4,q3,60%
+17/02/2016,"216 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"217 Llandaff Terrace, Merrion Road",Dublin,370709.0,No,Merrion,Dublin 4,q3,70%
+17/02/2016,"218 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"219 Llandaff Terrace, Merrion Road",Dublin,398157.0,No,Merrion,Dublin 4,q3,80%
+17/02/2016,"219 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"220 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"221 Llandaff Terrace, Merrion Road",Dublin,340570.0,No,Merrion,Dublin 4,q3,70%
+17/02/2016,"222 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"224 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"225 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"23 The Bay, Elm Park, Merrion Road",Dublin,142932.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"24 The Bay, Elm Park, Merrion Road",Dublin,130356.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"24 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"25 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"26 The Bay, Elm Park, Merrion Road",Dublin,274014.0,No,Merrion,Dublin 4,q3,60%
+17/02/2016,"26 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"27 The Bay, Elm Park, Merrion Road",Dublin,461688.0,No,Merrion,Dublin 4,q4,80%
+17/02/2016,"27 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"28 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"29 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"3 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"30 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"31 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"32 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"33 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"34 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"35 The Bay, Elm Park, Merrion Road",Dublin,140998.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"35 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"36 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"37 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"38 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"39 The Bay, Elm Park, Merrion Road",Dublin,130114.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"39 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"40 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"41 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"42 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"43 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"44 The Bay, Elm Park, Merrion Road",Dublin,273530.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"44 The Links, Elm Park, Merrion Road",Dublin,111008.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"45 The Bay, Elm Park, Merrion Road",Dublin,457819.0,No,Merrion,Dublin 4,q3,80%
+17/02/2016,"46 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"47 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"51 The Bay, Elm Park, Merrion Road",Dublin,129873.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"53 The Bay, Elm Park, Merrion Road",Dublin,130114.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"54 The Bay, Elm Park, Merrion Road",Dublin,272321.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"55 The Bay, Elm Park, Merrion Road",Dublin,130114.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"56 The Bay, Elm Park, Merrion Road",Dublin,141481.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"56 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"57 The Bay, Elm Park, Merrion Road",Dublin,143174.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"58 The Bay, Elm Park, Merrion Road",Dublin,130598.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"59 The Bay, Elm Park, Merrion Road",Dublin,141481.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"60 The Bay, Elm Park, Merrion Road",Dublin,143174.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"60 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"61 The Bay, Elm Park, Merrion Road",Dublin,145109.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"62 The Bay, Elm Park, Merrion Road",Dublin,148011.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"62 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"63 The Bay, Elm Park, Merrion Road",Dublin,147769.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"63 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"64 The Bay, Elm Park, Merrion Road",Dublin,149462.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"65 The Bay, Elm Park, Merrion Road",Dublin,148011.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"66 The Bay, Elm Park, Merrion Road",Dublin,130114.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"66 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"67 The Bay, Elm Park, Merrion Road",Dublin,272321.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"68 The Bay, Elm Park, Merrion Road",Dublin,129873.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"68 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"69 The Bay, Elm Park, Merrion Road",Dublin,141481.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"69 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"7 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"70 The Bay, Elm Park, Merrion Road",Dublin,142690.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"71 The Bay, Elm Park, Merrion Road",Dublin,130356.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"72 The Bay, Elm Park, Merrion Road",Dublin,141239.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"73 The Bay, Elm Park, Merrion Road",Dublin,144867.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"74 The Bay, Elm Park, Merrion Road",Dublin,130114.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"74 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"75 The Bay, Elm Park, Merrion Road",Dublin,141239.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"76 The Bay, Elm Park, Merrion Road",Dublin,143900.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"77 The Bay, Elm Park, Merrion Road",Dublin,129873.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"78 The Bay, Elm Park, Merrion Road",Dublin,141239.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"79 The Bay, Elm Park, Merrion Road",Dublin,142932.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"80 The Bay, Elm Park, Merrion Road",Dublin,130114.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"81 The Bay, Elm Park, Merrion Road",Dublin,141481.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"82 The Bay, Elm Park, Merrion Road",Dublin,142690.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"83 The Bay, Elm Park, Merrion Road",Dublin,130114.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"84 The Bay, Elm Park, Merrion Road",Dublin,141481.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"85 The Bay, Elm Park, Merrion Road",Dublin,142690.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"85 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"86 The Bay, Elm Park, Merrion Road",Dublin,269903.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"87 The Bay, Elm Park, Merrion Road",Dublin,272805.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"88 The Bay, Elm Park, Merrion Road",Dublin,140756.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"88 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"89 The Bay, Elm Park, Merrion Road",Dublin,139063.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"9 The Bay, Elm Park, Merrion Road",Dublin,478860.0,No,Merrion,Dublin 4,q4,80%
+17/02/2016,"9 The Links, Elm Park, Merrion Road",Dublin,167117.0,No,Merrion,Dublin 4,q2,40%
+17/02/2016,"90 The Bay, Elm Park, Merrion Road",Dublin,141239.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"91 The Bay, Elm Park, Merrion Road",Dublin,142690.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"92 The Bay, Elm Park, Merrion Road",Dublin,141965.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"92 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"93 The Bay, Elm Park, Merrion Road",Dublin,139546.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"93 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,90%
+17/02/2016,"94 The Bay, Elm Park, Merrion Road",Dublin,141481.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"94 The Links, Elm Park, Merrion Road",Dublin,316096.0,No,Merrion,Dublin 4,q3,60%
+17/02/2016,"95 The Bay, Elm Park, Merrion Road",Dublin,142932.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"95 The Links, Elm Park, Merrion Road",Dublin,316096.0,No,Merrion,Dublin 4,q3,60%
+17/02/2016,"96 The Bay, Elm Park, Merrion Road",Dublin,141965.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"96 The Links, Elm Park, Merrion Road",Dublin,217422.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"97 The Bay, Elm Park, Merrion Road",Dublin,139546.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"97 The Links, Elm Park, Merrion Road",Dublin,125036.0,No,Merrion,Dublin 4,q1,10%
+17/02/2016,"98 The Bay, Elm Park, Merrion Road",Dublin,141481.0,No,Merrion,Dublin 4,q1,20%
+17/02/2016,"98 The Links, Elm Park, Merrion Road",Dublin,209199.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"99 The Bay, Elm Park, Merrion Road",Dublin,142932.0,No,Merrion,Dublin 4,q1,30%
+17/02/2016,"99 The Links, Elm Park, Merrion Road",Dublin,217422.0,No,Merrion,Dublin 4,q2,50%
+17/02/2016,"Apartment 23 The Links, Elm Park, Merrion Road",Dublin,815698.46,No,Merrion,Dublin 4,q4,100%
+23/02/2016,"18 Elm Court, Merrion Rd, Dublin 4",Dublin,320000.0,No,Merrion,Dublin 4,q3,60%
+04/03/2016,"25 Elm Court, Merrion Rd, Dublin",Dublin,277000.0,No,Merrion,Dublin 4,q3,60%
+24/03/2016,"3 Merrion Mews, Dublin 4",Dublin,575000.0,No,Merrion,Dublin 4,q4,90%
+13/04/2016,"179 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,350000.0,No,Merrion,Dublin 4,q3,70%
+13/04/2016,"181 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,350000.0,Yes,Merrion,Dublin 4,q3,70%
+15/04/2016,"10 Merrion Village, Merrion Rd, Dublin 4",Dublin,225000.0,No,Merrion,Dublin 4,q2,50%
+29/04/2016,"155 Merrion Road, Dublin 4",Dublin,650000.0,No,Merrion,Dublin 4,q4,90%
+29/04/2016,"157 Merrion Road, Dublin 4",Dublin,600000.0,No,Merrion,Dublin 4,q4,90%
+25/05/2016,"3 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,49315625.0,No,Merrion,Dublin 4,q4,100%
+25/05/2016,"Apt 11 Block 1 The Links, Elm Park, Merrion Road",Dublin,9684375.0,No,Merrion,Dublin 4,q4,100%
+27/07/2016,"86 Trees Rd, Mt Merrion, Dublin",Dublin,875000.0,No,Merrion,Dublin 4,q4,100%
+28/07/2016,"7 Merrion Village, Merrion Rd, Dublin 4",Dublin,410000.0,No,Merrion,Dublin 4,q3,80%
+04/08/2016,"16 Dunloe Hall, Merrion St Upper, Dublin 2",Dublin,408080.0,No,Merrion,Dublin 4,q3,80%
+05/08/2016,"123 Merrion Village, Merrion Rd, Dublin 4",Dublin,450000.0,No,Merrion,Dublin 4,q3,80%
+10/08/2016,"19 Block A, Merrion Court, Merrion Road",Dublin,500000.0,No,Merrion,Dublin 4,q4,80%
+16/08/2016,"177 Strand Road, Merrion, Dublin 4",Dublin,1380000.0,No,Merrion,Dublin 4,q4,100%
+23/08/2016,"Apt 33 Block B, Merrion Court, Ailesbury Rd Dublin 4",Dublin,375000.0,No,Merrion,Dublin 4,q3,70%
+29/08/2016,"25 Glen Abbey Rd, Mt Merrion, Dublin",Dublin,860000.0,No,Merrion,Dublin 4,q4,100%
+26/09/2016,"14 Merrion Square, Dublin 2",Dublin,1350000.0,No,Merrion,Dublin 4,q4,100%
+05/10/2016,"21 Merrion View Ave, Merrion Rd, Dublin 4",Dublin,990000.0,No,Merrion,Dublin 4,q4,100%
+11/11/2016,"5 Bellevue Court, Merrion Rd, Dublin 4",Dublin,262000.0,No,Merrion,Dublin 4,q2,50%
+30/11/2016,"Apt 182 The Links, Elm Park, Merrion Road",Dublin,360000.0,No,Merrion,Dublin 4,q3,70%
+09/12/2016,"70 Shrewsbury, Merrion Rd, Dublin 4",Dublin,350000.0,No,Merrion,Dublin 4,q3,70%
+14/12/2016,"22 Merrion Court, Ailesbury Rd, Dublin 4",Dublin,535000.0,No,Merrion,Dublin 4,q4,80%
+15/12/2016,"183 The Links, Elmpark, Merrion Rd Dublin 4",Dublin,297500.0,No,Merrion,Dublin 4,q3,60%
+03/01/2017,"180 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,292000.0,No,Merrion,Dublin 4,q3,60%
+04/01/2017,"129 The Links, Elmpark, Merrion Rd Dublin 4",Dublin,100000.0,No,Merrion,Dublin 4,q1,10%
+04/01/2017,"130 The Links, Elmpark, Merrion Rd Dublin 4",Dublin,100000.0,No,Merrion,Dublin 4,q1,10%
+06/01/2017,"120 Merrion Rd, Dublin 4, Dublin",Dublin,2325000.0,No,Merrion,Dublin 4,q4,100%
+20/03/2017,"Apt 22, Dunloe Hall, Upper Merrion St Dublin 2",Dublin,340000.0,No,Merrion,Dublin 4,q3,70%
+22/03/2017,"Top Floor Apt, 17 Merrion Sq, Dublin 2",Dublin,350000.0,No,Merrion,Dublin 4,q3,70%
+23/03/2017,"155 Merrion Road, Dublin 4",Dublin,1350000.0,No,Merrion,Dublin 4,q4,100%
+27/03/2017,"8 Dunloe Hall, Merrion St, Dublin 2",Dublin,299000.0,No,Merrion,Dublin 4,q3,60%
+31/03/2017,"30 Bellevue Court, Merrion Rd, Dublin 4",Dublin,285000.0,No,Merrion,Dublin 4,q3,60%
+04/04/2017,"14 Merrion Court, Ailesbury Rd, Dublin 4",Dublin,450000.0,No,Merrion,Dublin 4,q3,80%
+02/05/2017,"Apt 2 Block 1, Merrion Village, Merrion Rd Dublin 4",Dublin,430000.0,No,Merrion,Dublin 4,q3,80%
+09/05/2017,"Top Floor Apartment, 9 Merrion Square, Dublin 2",Dublin,610000.0,No,Merrion,Dublin 4,q4,90%
+31/05/2017,"31 The Bay, Elm Park, Merrion Road",Dublin,297000.0,Yes,Merrion,Dublin 4,q3,60%
+15/08/2017,"280 Merrion Rd, Dublin 4, Dublin",Dublin,233333.33,No,Merrion,Dublin 4,q2,50%
+25/08/2017,"203 Strand Rd, Merrion Gates, Dublin 4",Dublin,930000.0,No,Merrion,Dublin 4,q4,100%
+15/09/2017,"134 Merrion Village, Merrion Rd, Dublin 4",Dublin,510000.0,No,Merrion,Dublin 4,q4,80%
+28/09/2017,"12B Merrion Row, Dublin 2",Dublin,631550.0,No,Merrion,Dublin 4,q4,90%
+16/10/2017,"29 The Bay, Elm Park, Merrion Rd Dublin 4",Dublin,350000.0,No,Merrion,Dublin 4,q3,70%
+18/10/2017,"157 Merrion Road, Dublin 4",Dublin,1400000.0,No,Merrion,Dublin 4,q4,100%
+06/11/2017,"126 The Links, Elmpark, Merrion Rd Dublin 4",Dublin,355000.0,No,Merrion,Dublin 4,q3,70%
+23/11/2017,"Apt 64 The Sweepstakes, Ballsbridge Park, Merrion Road",Dublin,465000.0,No,Merrion,Dublin 4,q4,80%
+05/12/2017,"31 Merrion Sq, Dublin 2, Dublin",Dublin,2200000.0,No,Merrion,Dublin 4,q4,100%
+15/12/2017,"128 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,354000.0,No,Merrion,Dublin 4,q3,70%
+15/12/2017,"177 The Links, Elm Park Green, Merrion Road",Dublin,680000.0,Yes,Merrion,Dublin 4,q4,90%
+20/12/2017,"Apartment 5 &Amp; 6, Dunloe Hall, 25-29 Upper Merrion Street",Dublin,1600000.0,No,Merrion,Dublin 4,q4,100%
+24/01/2018,"Apt 3, The Merrion Hotel, Upper Merrion St Dublin 2",Dublin,2900000.0,No,Merrion,Dublin 4,q4,100%
+02/02/2018,"30 Elm Court, Merrion Road, Dublin 4",Dublin,405000.0,No,Merrion,Dublin 4,q3,80%
+02/02/2018,"5 Merrion Residences, 8-11 And 11A Lower Baggot Street",Dublin,2076000.0,Yes,Merrion,Dublin 4,q4,100%
+02/02/2018,"7 Merrion Residences, 8-11 And 11A Lower Baggot Street",Dublin,1730000.0,Yes,Merrion,Dublin 4,q4,100%
+07/02/2018,"Residence 3, Merrion Extension, 21/24 Upper Merrion Street",Dublin,1145374.4,Yes,Merrion,Dublin 4,q4,100%
+21/02/2018,"15 Merrion Village, Merrion Rd, Dublin 4",Dublin,550000.0,No,Merrion,Dublin 4,q4,80%
+20/03/2018,"2 Hyde House, Clonfadda Wood, Merrion Avenue",Dublin,402000.0,No,Merrion,Dublin 4,q3,80%
+23/03/2018,"Apt 214 (3Rd Floor )The Links, Elm Park, Merrion Rd",Dublin,440000.0,No,Merrion,Dublin 4,q3,80%
+26/04/2018,"169  175  177 Merrion Rd, Dublin 4, Dublin",Dublin,1335000.0,No,Merrion,Dublin 4,q4,100%
+04/05/2018,"Apt 1 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,361000.0,No,Merrion,Dublin 4,q3,70%
+04/05/2018,"Apt 15 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,295000.0,No,Merrion,Dublin 4,q3,60%
+04/05/2018,"Apt 18 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,295000.0,No,Merrion,Dublin 4,q3,60%
+04/05/2018,"Apt 2 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,295000.0,No,Merrion,Dublin 4,q3,60%
+04/05/2018,"Apt 20 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,361000.0,No,Merrion,Dublin 4,q3,70%
+04/05/2018,"Apt 21 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,295000.0,No,Merrion,Dublin 4,q3,60%
+04/05/2018,"Apt 22 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,361000.0,No,Merrion,Dublin 4,q3,70%
+04/05/2018,"Apt 4 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,361000.0,No,Merrion,Dublin 4,q3,70%
+04/05/2018,"Apt 5 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,295000.0,No,Merrion,Dublin 4,q3,60%
+04/05/2018,"Apt 6 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,361000.0,No,Merrion,Dublin 4,q3,70%
+04/05/2018,"Apt 8 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,295000.0,No,Merrion,Dublin 4,q3,60%
+10/05/2018,"Merrion Hotel Residence 4, 8-11 And 11A, Lower Baggot Street",Dublin,969162.99,Yes,Merrion,Dublin 4,q4,100%
+31/05/2018,"43 The Bay, Elm Park, Merrion Road",Dublin,350000.0,No,Merrion,Dublin 4,q3,70%
+06/06/2018,"Apt 41 The Bay, Elmpark Apts, Merrion Rd Dublin 4",Dublin,352000.0,No,Merrion,Dublin 4,q3,70%
+29/06/2018,"Residence 6, The Merrion, Lower Baggott Street",Dublin,2202643.0,Yes,Merrion,Dublin 4,q4,100%
+04/07/2018,"Merrion Hotel Residences 8  9 & 10, 8-11 And, 11A Lower Baggot Street",Dublin,6255506.61,Yes,Merrion,Dublin 4,q4,100%
+24/07/2018,"217 Merrion Rd, Dublin 4, Dublin",Dublin,655000.0,No,Merrion,Dublin 4,q4,90%
+24/07/2018,"Apt 15 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,350000.0,No,Merrion,Dublin 4,q3,70%
+25/07/2018,"213 Merrion Rd, Dublin 4, Dublin",Dublin,655000.0,No,Merrion,Dublin 4,q4,90%
+26/07/2018,"209 Merrion Rd, Dublin 4, Dublin",Dublin,680000.0,No,Merrion,Dublin 4,q4,90%
+27/07/2018,"Apt 17, Dunloe Hall, Merrion St",Dublin,1790000.0,No,Merrion,Dublin 4,q4,100%
+31/07/2018,"215 Merrion Rd, Dublin 4, Dublin",Dublin,670000.0,No,Merrion,Dublin 4,q4,90%
+01/08/2018,"6 Est Ave, Merrion, Dublin 4",Dublin,475000.0,No,Merrion,Dublin 4,q4,80%
+17/09/2018,"Apt 6 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,450000.0,No,Merrion,Dublin 4,q3,80%
+03/10/2018,"207 Llanduff Terrace, Merrion Road, Elm Park",Dublin,918000.0,No,Merrion,Dublin 4,q4,100%
+12/12/2018,"Apt 5 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,362500.0,No,Merrion,Dublin 4,q3,70%
+12/12/2018,"Apt 8 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,362500.0,No,Merrion,Dublin 4,q3,70%
+18/12/2018,"Apt 18 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,365000.0,No,Merrion,Dublin 4,q3,70%
+18/12/2018,"Apt 21 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,395000.0,No,Merrion,Dublin 4,q3,70%
+22/01/2019,"11 Merrion Village, Merrion Rd, Dublin 4",Dublin,280000.0,No,Merrion,Dublin 4,q3,60%
+25/01/2019,"6 Merrion Sq, Dublin 2, Dublin",Dublin,266666.0,No,Merrion,Dublin 4,q2,50%
+25/01/2019,"Apartment, Rear Ground Floor Return, 6 Merrion Square",Dublin,533333.0,No,Merrion,Dublin 4,q4,80%
+01/02/2019,"211 Merrion Rd, Dublin 4, Dublin",Dublin,650000.0,No,Merrion,Dublin 4,q4,90%
+11/02/2019,"Glenbeg, St Thomas Rd, Mt Merrion",Dublin,1350000.0,No,Merrion,Dublin 4,q4,100%
+27/03/2019,"219 Llandaff Terrace, Merrion Road, Dublin 4",Dublin,740000.0,Yes,Merrion,Dublin 4,q4,90%
+29/03/2019,"12A Strand Road, Merrion Gates, Dublin 4",Dublin,370000.0,No,Merrion,Dublin 4,q3,70%
+23/04/2019,"8 Elm Court, Merrion Rd, Dublin 4",Dublin,230000.0,No,Merrion,Dublin 4,q2,50%
+27/05/2019,"2 The Bay, Elm Park, Merrion Rd Dublin 4",Dublin,325000.0,No,Merrion,Dublin 4,q3,60%
+14/06/2019,"86 Shrewsbury, Shrewbury Park, Merrion Road Ballsbridge",Dublin,530000.0,No,Merrion,Dublin 4,q4,80%
+17/07/2019,"150 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,450000.0,No,Merrion,Dublin 4,q3,80%
+02/08/2019,"42 The Bay, Elm Park, Merrion Rd Dublin 4",Dublin,333000.0,No,Merrion,Dublin 4,q3,70%
+12/09/2019,"30 The Bay, Elm Park, Merrion Road",Dublin,365000.0,No,Merrion,Dublin 4,q3,70%
+20/09/2019,"12 Est Ave, Merrion Rd, Dublin 4",Dublin,511000.0,No,Merrion,Dublin 4,q4,80%
+26/09/2019,"Apt 13 Dunloe Hall, 27 Upper Merrion St, Dublin 2",Dublin,935000.0,No,Merrion,Dublin 4,q4,100%
+01/10/2019,"Apt 2 The Links, Elm Park, Merrion Rd Dublin 4",Dublin,325000.0,No,Merrion,Dublin 4,q3,60%
+04/10/2019,"132 Merrion Village, Merrion Rd, Dublin 4",Dublin,555000.0,No,Merrion,Dublin 4,q4,80%
+11/10/2019,"39 Callary Rd, Mt Merrion, Dublin",Dublin,756000.0,No,Merrion,Dublin 4,q4,90%

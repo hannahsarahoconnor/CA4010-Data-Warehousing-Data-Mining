@@ -1,0 +1,894 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+19/01/2010,"8 Gracefield Court, Artane",Dublin,282000.0,No,Artane,Dublin 5,q2,50%
+25/01/2010,"98 St. Davids, Artane",Dublin,318000.0,No,Artane,Dublin 5,q3,60%
+28/01/2010,"1 Ennel Park, Artane",Dublin,270000.0,No,Artane,Dublin 5,q2,40%
+28/01/2010,"10 Brookwood Lawn, Artane, Dublin 5",Dublin,410000.0,No,Artane,Dublin 5,q4,90%
+01/02/2010,"33 Brookwood Lawn, Artane",Dublin,470000.0,No,Artane,Dublin 5,q4,100%
+10/02/2010,"191 Timbermill, Kilmore Road, Artane",Dublin,193832.7,Yes,Artane,Dublin 5,q1,20%
+12/02/2010,"128, Ardmore Drive, Artane",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+12/02/2010,"164  Beauvale Park, Artane, Dublin",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+19/02/2010,"19 Maryfield Drive, Artane",Dublin,296000.0,No,Artane,Dublin 5,q3,60%
+24/02/2010,"3 The Mews  Brookwood Crescent, Artane, Dublin 5",Dublin,370000.0,Yes,Artane,Dublin 5,q4,80%
+25/02/2010,"1 Ardmore Grove, Artane, Dublin",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+26/02/2010,"19  Ardmore Close, Artane, Dublin  5",Dublin,280000.0,No,Artane,Dublin 5,q2,50%
+01/03/2010,"84 Ardcollum Avenue, Artane, Dublin 5",Dublin,252000.0,No,Artane,Dublin 5,q2,40%
+05/03/2010,"98 Hazelwood Park, Artane",Dublin,93750.0,No,Artane,Dublin 5,q1,10%
+10/03/2010,"17 Whitethorn Grove, Artane",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+22/03/2010,"2 Brookwood Mews, Artane",Dublin,372500.0,Yes,Artane,Dublin 5,q4,80%
+25/03/2010,"87 Brookwood Avenue, Artane, Dublin 5",Dublin,370000.0,No,Artane,Dublin 5,q4,80%
+26/03/2010,"130 Brookwood Avenue, Artane, Dublin 5",Dublin,405000.0,No,Artane,Dublin 5,q4,90%
+26/03/2010,"64 Brookwood Rise, Artane, Dublin 5",Dublin,277500.0,No,Artane,Dublin 5,q2,50%
+26/03/2010,"65 Rosemount Avenue, Artane, Dublin 5",Dublin,315000.0,No,Artane,Dublin 5,q3,60%
+29/03/2010,"30 Kilmore Avenue, Artane",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+01/04/2010,"45 Kilmore Avenue, Artane",Dublin,315000.0,No,Artane,Dublin 5,q3,60%
+16/04/2010,"101 Brookwood Avenue, Artane",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+20/04/2010,"58 Brookwood Heights, Artane",Dublin,335000.0,No,Artane,Dublin 5,q3,70%
+05/05/2010,"34  Brookwood Lawn, Artane",Dublin,360000.0,No,Artane,Dublin 5,q3,80%
+07/05/2010,"11  Danielli Drive, Artane, Dublin",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+14/05/2010,"27 Gracefield Avenue, Artane",Dublin,393000.0,No,Artane,Dublin 5,q4,90%
+25/05/2010,"62 Gracefield Avenue, Artane",Dublin,220000.0,No,Artane,Dublin 5,q1,20%
+27/05/2010,"39 Chanel Avenue, Artane",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+02/06/2010,"11  St. Brigids Lawn, Artane",Dublin,385000.0,No,Artane,Dublin 5,q4,80%
+04/06/2010,"9 Brookwood Crescent, Artane",Dublin,396000.0,No,Artane,Dublin 5,q4,90%
+10/06/2010,"3 Mount Dillon Cottages, Artane, Dublin",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+21/06/2010,"97 St. Davids, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+28/06/2010,"50 Brookwood Avenue, Artane, Dublin 5.",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+05/07/2010,"63 Gracefield Avenue, Artane",Dublin,277000.0,No,Artane,Dublin 5,q2,50%
+08/07/2010,"32 Whitethorn Grove, Artane",Dublin,375000.0,No,Artane,Dublin 5,q4,80%
+12/07/2010,"7 Thorndale Park, Artane, Dublin 5",Dublin,326000.0,No,Artane,Dublin 5,q3,70%
+15/07/2010,"22 Castleview, Artane, Dublin 5",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+21/07/2010,"11 Beechlawn Green, Artane",Dublin,295000.0,No,Artane,Dublin 5,q2,50%
+27/07/2010,"12 Castleview, Artane",Dublin,115000.0,No,Artane,Dublin 5,q1,10%
+30/07/2010,"11  Mask Crescent, Artane",Dublin,215000.0,No,Artane,Dublin 5,q1,20%
+30/07/2010,"11A Measc Crescent, Artane",Dublin,220000.0,No,Artane,Dublin 5,q1,20%
+03/08/2010,"56 Gracefield Road, Artane",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+09/08/2010,"27 Ardmore Park, Artane, Dublin 5",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+30/08/2010,"32 Gracefield Ave, Artane",Dublin,373000.0,No,Artane,Dublin 5,q4,80%
+31/08/2010,"2 Measc Green, Artane, Dublin 5",Dublin,210000.0,No,Artane,Dublin 5,q1,20%
+06/09/2010,"49 Beauvale Park, Artane",Dublin,207000.0,No,Artane,Dublin 5,q1,20%
+07/09/2010,"24 Maryfield Drive, Artane",Dublin,262000.0,No,Artane,Dublin 5,q2,40%
+08/09/2010,"54 Maryfield Crescent, Artane, Dublin 5",Dublin,290000.0,No,Artane,Dublin 5,q2,50%
+16/09/2010,"120 Ardlea Road, Artane, Dublin 5",Dublin,270000.0,No,Artane,Dublin 5,q2,40%
+21/09/2010,"64 Brookfield, Artane, Dublin 5",Dublin,225000.0,No,Artane,Dublin 5,q1,30%
+22/10/2010,"11 Gracefield Avenue, Artane",Dublin,360500.0,No,Artane,Dublin 5,q4,80%
+29/10/2010,"186 Ardmore Drive, Artane",Dublin,255000.0,No,Artane,Dublin 5,q2,40%
+12/11/2010,"50 Ardlea Road, Artane",Dublin,218500.0,No,Artane,Dublin 5,q1,20%
+23/11/2010,"8 Brookwood Road, Artane",Dublin,355000.0,No,Artane,Dublin 5,q3,80%
+29/11/2010,"69 Ard Beg Park, Artane",Dublin,288000.0,No,Artane,Dublin 5,q2,50%
+07/12/2010,"182 Ardlea Road, Artane, Dublin 5",Dublin,260000.0,No,Artane,Dublin 5,q2,40%
+13/12/2010,"43 St Johns Court, Artane",Dublin,295000.0,No,Artane,Dublin 5,q2,50%
+15/12/2010,"13 Brookwood Lawn, Artane",Dublin,273000.0,No,Artane,Dublin 5,q2,40%
+22/12/2010,"26 Brookwood Crescent, Artane",Dublin,295000.0,No,Artane,Dublin 5,q2,50%
+07/01/2011,"21 Moatfield Park, Artane, Dublin 5",Dublin,272000.0,No,Artane,Dublin 5,q2,40%
+12/01/2011,"26 Castle View, Artane",Dublin,277000.0,No,Artane,Dublin 5,q2,50%
+19/01/2011,"19 Ardmore Close, Artane",Dublin,306750.0,No,Artane,Dublin 5,q3,60%
+19/01/2011,"64 St. Davids Park, Artane, Dublin  5",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+21/01/2011,"22  Danieli Drive, Artane",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+07/02/2011,"42 Lein Park, Artane",Dublin,119747.9,No,Artane,Dublin 5,q1,10%
+11/02/2011,"100 Pinebrook Grove, Artane",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+15/02/2011,"27  Kilbarron Road, Kilmore West, Artane",Dublin,145000.0,No,Artane,Dublin 5,q1,10%
+21/02/2011,"324 Ardmore Drive, Artane, Dublin 5",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+23/02/2011,"7 St. Brigid'S Road, Artane, Dublin 5",Dublin,270000.0,No,Artane,Dublin 5,q2,40%
+24/02/2011,"12 St. David'S, Artane",Dublin,385000.0,No,Artane,Dublin 5,q4,80%
+04/03/2011,"97 Maryfield Crescent, Artane",Dublin,193000.0,No,Artane,Dublin 5,q1,20%
+08/03/2011,"22 Mcauley Park, Artane",Dublin,180000.0,No,Artane,Dublin 5,q1,10%
+10/03/2011,"57 Gracefield Avenue, Artane",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+14/03/2011,"37 Mcauley Road, Artane",Dublin,213000.0,No,Artane,Dublin 5,q1,20%
+31/03/2011,"26 Mcauley Avenue, Artane, Dublin 5",Dublin,175000.0,No,Artane,Dublin 5,q1,10%
+05/04/2011,"20 Danieli Drive, Artane",Dublin,260000.0,No,Artane,Dublin 5,q2,40%
+14/04/2011,"186 Beauvale Park, Artane",Dublin,305000.0,No,Artane,Dublin 5,q3,60%
+06/05/2011,"63 St Brendan'S Avenue, Artane",Dublin,290000.0,No,Artane,Dublin 5,q2,50%
+10/05/2011,"51 Brookwood Crescent, Artane",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+10/05/2011,"69 Chanel Road, Artane",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+09/06/2011,"56 Ardbeg Park, Artane",Dublin,208000.0,No,Artane,Dublin 5,q1,20%
+16/06/2011,"74 Ardcollum Avenue, Artane, Dublin 5",Dublin,210000.0,No,Artane,Dublin 5,q1,20%
+17/06/2011,"3 Craigford Drive, Artane",Dublin,181000.0,No,Artane,Dublin 5,q1,10%
+21/06/2011,"70 Ardcollum Avenue, Artane, Dublin",Dublin,175000.0,No,Artane,Dublin 5,q1,10%
+06/07/2011,"49 Rosemount Avenue, Artane, Dublin 5",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+06/07/2011,"8 Brookwood Drive, Artane, Dublin 5",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+07/07/2011,"4 Thorndale Park, Artane, Dublin 5",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+11/07/2011,"29 Ardlea Road, Artane",Dublin,180000.0,No,Artane,Dublin 5,q1,10%
+20/07/2011,"111 Harmonstown Road, Artane, Dublin 5",Dublin,170000.0,No,Artane,Dublin 5,q1,10%
+25/07/2011,"47A Harmonstown Road, Artane, Dublin 5",Dublin,220000.0,No,Artane,Dublin 5,q1,20%
+26/07/2011,"105 Rosemount Avenue, Artane, Dublin 5",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+26/07/2011,"13 Maryfield Drive, Artane, Dublin 5",Dublin,155000.0,No,Artane,Dublin 5,q1,10%
+26/07/2011,"5 St. Brigids Crescent, Artane, Dublin 5",Dublin,296000.0,No,Artane,Dublin 5,q3,60%
+27/07/2011,"43 Brookwood Avenue, Artane, Dublin 5",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+27/07/2011,"71 Kilmore Road, Artane",Dublin,222500.0,No,Artane,Dublin 5,q1,30%
+04/08/2011,"16 Gracefield Road, Artane",Dublin,223000.0,No,Artane,Dublin 5,q1,30%
+05/08/2011,"77 Harmonstown Road, Artane",Dublin,160000.0,No,Artane,Dublin 5,q1,10%
+30/08/2011,"20 Ribh Avenue, Artane, Dublin 5",Dublin,140000.0,No,Artane,Dublin 5,q1,10%
+30/08/2011,"57  Rosemount Avenue, Artane",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+05/09/2011,"29 Maryfield Crescent, Artane, Dublin 5",Dublin,187000.0,No,Artane,Dublin 5,q1,20%
+13/09/2011,"17 St. Brigid'S Road, Artane, Dublin 5",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+19/09/2011,"129 Kilmore Road, Artane",Dublin,273000.0,No,Artane,Dublin 5,q2,40%
+27/09/2011,"7 Brookwood Lawn, Artane",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+30/09/2011,"37 Chanel Avenue, Artane",Dublin,190000.0,No,Artane,Dublin 5,q1,20%
+04/10/2011,"11 Measc Road, Artane",Dublin,135000.0,No,Artane,Dublin 5,q1,10%
+19/10/2011,"44 St. John'S Court, Kilmore Road, Artane",Dublin,195000.0,No,Artane,Dublin 5,q1,20%
+21/10/2011,"1 Brookwood Avenue, Artane, Dublin 5",Dublin,270000.0,No,Artane,Dublin 5,q2,40%
+21/10/2011,"6 Brookwood Heights, Artane, Dublin 5",Dublin,238400.0,No,Artane,Dublin 5,q2,30%
+26/10/2011,"12, Beechlawn Ave, Artane",Dublin,210000.0,No,Artane,Dublin 5,q1,20%
+27/10/2011,"13 Montrose Croescent, Artane, Dublin",Dublin,195000.0,No,Artane,Dublin 5,q1,20%
+08/11/2011,"17 Brookwood Road, Artane",Dublin,334000.0,No,Artane,Dublin 5,q3,70%
+09/11/2011,"88 Maryfield Crescent, Artane, Dublin 5",Dublin,210000.0,No,Artane,Dublin 5,q1,20%
+11/11/2011,"38 Ardmore Drive, Artane, Dublin 5",Dublin,215000.0,No,Artane,Dublin 5,q1,20%
+16/11/2011,"81 Kilmore Road, Artane, Dublin 5",Dublin,195000.0,No,Artane,Dublin 5,q1,20%
+18/11/2011,"2 Brookfield Estate, Artane",Dublin,185000.0,No,Artane,Dublin 5,q1,10%
+21/11/2011,"155 Harmonstown Road, Artane",Dublin,195000.0,No,Artane,Dublin 5,q1,20%
+21/11/2011,"37 Ennel Drive, Artane, Dublin 5",Dublin,120000.0,No,Artane,Dublin 5,q1,10%
+21/11/2011,"85  Ardlea Road, Artane, Dublin 5",Dublin,180000.0,No,Artane,Dublin 5,q1,10%
+25/11/2011,"34 Brookwood Crescent, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+25/11/2011,"41 Gracefield Avenue, Artane, Dublin 5",Dublin,267500.0,No,Artane,Dublin 5,q2,40%
+25/11/2011,"88 St Davids, Artane",Dublin,190000.0,No,Artane,Dublin 5,q1,20%
+06/12/2011,"142 Beauvale Park, Artane, Dublin 5",Dublin,170000.0,No,Artane,Dublin 5,q1,10%
+06/12/2011,"8 Ardbeg Road, Artane, Dublin 5",Dublin,161000.0,No,Artane,Dublin 5,q1,10%
+08/12/2011,"15  Brookwood Park, Artane, Dublin  5",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+12/12/2011,"151 Beauvale Park, Artane, Dublin 5",Dublin,185000.0,No,Artane,Dublin 5,q1,10%
+16/12/2011,"37 Kilmore Crescent, Artane",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+21/12/2011,"12 Whitethorn Crescent, Artane, Dublin 5",Dublin,220000.0,No,Artane,Dublin 5,q1,20%
+21/12/2011,"9 St. Brigid'S Grove, Artane, Dublin 5",Dublin,347750.0,No,Artane,Dublin 5,q3,80%
+22/12/2011,"32 Bothar Lein, Artane",Dublin,140000.0,No,Artane,Dublin 5,q1,10%
+03/01/2012,"12 Brookwood Crescent, Artane, Dublin 5",Dublin,90000.0,No,Artane,Dublin 5,q1,10%
+12/01/2012,"34 Ennel Park, Artane",Dublin,152000.0,No,Artane,Dublin 5,q1,10%
+20/01/2012,"191 Beauvale Park, Artane",Dublin,199000.0,No,Artane,Dublin 5,q1,20%
+25/01/2012,"60 Gracefield Road, Artane",Dublin,305000.0,No,Artane,Dublin 5,q3,60%
+09/02/2012,"143 Brookwood Avenue, Artane, Dublin",Dublin,205000.0,No,Artane,Dublin 5,q1,20%
+10/02/2012,"29 Kilmore Close, Artane",Dublin,185500.0,No,Artane,Dublin 5,q1,20%
+10/02/2012,"74 Gracefield Road, Artane, Dublin 5",Dublin,135000.0,No,Artane,Dublin 5,q1,10%
+24/02/2012,"41  Measc Avenue, Artane, Dublin 5",Dublin,132000.0,No,Artane,Dublin 5,q1,10%
+01/03/2012,"47 Ardlea Road, Artane, Dublin 5",Dublin,140000.0,No,Artane,Dublin 5,q1,10%
+05/03/2012,"90 Ardbeg Park, Artane",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+12/03/2012,"94 St David'S, Artane",Dublin,258000.0,No,Artane,Dublin 5,q2,40%
+14/03/2012,"Rockfield, Mornington Grove, Artane",Dublin,190000.0,No,Artane,Dublin 5,q1,20%
+15/03/2012,"8 Measc Drive, Artane",Dublin,170000.0,No,Artane,Dublin 5,q1,10%
+16/03/2012,"20 Brookwood Avenue, Artane, Dublin 5",Dublin,270000.0,No,Artane,Dublin 5,q2,40%
+20/03/2012,"15A Ardlea Road, Artane, Dublin 5",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+20/03/2012,"3 Kilmore Drive, Artane",Dublin,170000.0,No,Artane,Dublin 5,q1,10%
+20/03/2012,"38A Ennel Drive, Artane",Dublin,235000.0,No,Artane,Dublin 5,q1,30%
+22/03/2012,"32 Maryfield Crescent, Artane, Dublin 5",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+23/03/2012,"70 Rosemount Avenue, Artane",Dublin,198000.0,No,Artane,Dublin 5,q1,20%
+30/03/2012,"24 Whitethorn Road, Artane",Dublin,212000.0,No,Artane,Dublin 5,q1,20%
+17/04/2012,"50 Bothar Lein (Orse Lein Rd), Artane",Dublin,155000.0,No,Artane,Dublin 5,q1,10%
+25/04/2012,"1A Montrose Drive, Artane",Dublin,220000.0,No,Artane,Dublin 5,q1,20%
+26/04/2012,"28 Ennell Park, Artane",Dublin,168500.0,No,Artane,Dublin 5,q1,10%
+27/04/2012,"18 Thorndale Avenue, Artane",Dublin,266000.0,No,Artane,Dublin 5,q2,40%
+27/04/2012,"24 Brookwood Park, Artane",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+02/05/2012,"55 Brookwood Avenue, Artane, Dublin 5",Dublin,175000.0,No,Artane,Dublin 5,q1,10%
+17/05/2012,"47 Mcauley Park, Artane, Dublin 5",Dublin,120000.0,No,Artane,Dublin 5,q1,10%
+29/05/2012,"57 Ardmore Drive, Artane",Dublin,186875.0,No,Artane,Dublin 5,q1,20%
+30/05/2012,"88 St. David'S Park, Artane",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+31/05/2012,"40 Ardbeg Park, Artane, Dublin 5",Dublin,205000.0,No,Artane,Dublin 5,q1,20%
+31/05/2012,"5 St. David'S Wood, Artane",Dublin,290000.0,No,Artane,Dublin 5,q2,50%
+05/06/2012,"64 St Davids Park, Artane",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+13/06/2012,"30 Ardmore Crescent, Artane, Dublin 5",Dublin,245000.0,No,Artane,Dublin 5,q2,30%
+18/06/2012,"21 Mask Crescent, Artane",Dublin,122500.0,No,Artane,Dublin 5,q1,10%
+25/06/2012,"24 Mask Ave, Artane, Dublin 5",Dublin,138000.0,No,Artane,Dublin 5,q1,10%
+27/06/2012,"58 Brookwood Rise, Artane",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+29/06/2012,"170 Beauvale Park, Artane",Dublin,185000.0,No,Artane,Dublin 5,q1,10%
+29/06/2012,"7 Brookwood Drive, Artane, Dublin",Dublin,218000.0,No,Artane,Dublin 5,q1,20%
+30/06/2012,"36 Ard Collum Avenue, Artane, Dublin 5",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+04/07/2012,"12 Ardmore Grove, Artane, Dublin 5",Dublin,210000.0,No,Artane,Dublin 5,q1,20%
+10/07/2012,"38 Beauvale Park, Artane",Dublin,141000.0,No,Artane,Dublin 5,q1,10%
+24/07/2012,"5 Kilmore Crescent, Artane, Dublin 5",Dublin,207000.0,No,Artane,Dublin 5,q1,20%
+25/07/2012,"104 St. Brendans Avenue, Artane",Dublin,210000.0,No,Artane,Dublin 5,q1,20%
+31/07/2012,"1 Brookwood Road, Artane",Dublin,191000.0,No,Artane,Dublin 5,q1,20%
+01/08/2012,"35 Brookwood Crescent, Artane",Dublin,262000.0,No,Artane,Dublin 5,q2,40%
+02/08/2012,"56 Brookwood Road, Artane",Dublin,195000.0,No,Artane,Dublin 5,q1,20%
+03/08/2012,"18 Brookwood Drive, Artane, Dublin 5",Dublin,255000.0,No,Artane,Dublin 5,q2,40%
+03/08/2012,"22 Craigford Avenue, Artane, Dublin 5",Dublin,150000.0,No,Artane,Dublin 5,q1,10%
+03/08/2012,"28 Chanel Road, Artane",Dublin,276000.0,No,Artane,Dublin 5,q2,50%
+03/08/2012,"37 Chanel Road, Artane, Dublin 5",Dublin,220000.0,No,Artane,Dublin 5,q1,20%
+03/08/2012,"61 Whitethorn Road, Artane, Dublin 5",Dublin,265000.0,No,Artane,Dublin 5,q2,40%
+07/08/2012,"3  Gracefield Avenue, Artane, Dublin 5",Dublin,277000.0,No,Artane,Dublin 5,q2,50%
+28/08/2012,"31 Brookwood Crescent, Artane, Dublin 5",Dublin,80000.0,No,Artane,Dublin 5,q1,10%
+30/08/2012,"47 Craigford Avenue, Artane",Dublin,224000.0,No,Artane,Dublin 5,q1,30%
+31/08/2012,"36 Brookwood Crescent, Artane",Dublin,285000.0,No,Artane,Dublin 5,q2,50%
+31/08/2012,"8 Mcauley Avenue, Artane, Dublin 5",Dublin,279697.5,No,Artane,Dublin 5,q2,50%
+03/09/2012,"2 Brookville Park, Artane",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+03/09/2012,"2 Brookwood Road, Artane",Dublin,199000.0,No,Artane,Dublin 5,q1,20%
+12/09/2012,"21 Montrose Drive, Artane",Dublin,205000.0,No,Artane,Dublin 5,q1,20%
+14/09/2012,"46 Gracefield Road, Artane, Dublin 5",Dublin,280000.0,No,Artane,Dublin 5,q2,50%
+14/09/2012,"8 Ardbeg Crescent, Artane",Dublin,217500.0,No,Artane,Dublin 5,q1,20%
+19/09/2012,"5 Thorndale Avenue, Artane",Dublin,258000.0,No,Artane,Dublin 5,q2,40%
+28/09/2012,"10 Brookwood Heights, Artane, Dublin 5",Dublin,245000.0,No,Artane,Dublin 5,q2,30%
+28/09/2012,"16 Danieli Drive, Artane",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+02/10/2012,"87 Harmonstown Road, Artane",Dublin,165000.0,No,Artane,Dublin 5,q1,10%
+05/10/2012,"36 Whitethorn Grove, Artane, Dublin 5",Dublin,273000.0,No,Artane,Dublin 5,q2,40%
+08/10/2012,"17 Measc Green, Artane, Dublin 5",Dublin,172000.0,No,Artane,Dublin 5,q1,10%
+12/10/2012,"34 Kilmore Crescent, Artane, Dublin 5",Dublin,195000.0,No,Artane,Dublin 5,q1,20%
+19/10/2012,"115 St Brigid'S Grove, Artane, Dublin 5",Dublin,220000.0,No,Artane,Dublin 5,q1,30%
+30/10/2012,"88 Ardmore Drive, Artane",Dublin,228000.0,No,Artane,Dublin 5,q1,30%
+02/11/2012,"2 Brookwood Park, Artane, Dublin 5",Dublin,277500.0,No,Artane,Dublin 5,q2,50%
+02/11/2012,"59 Beauvale Park, Artane",Dublin,205000.0,No,Artane,Dublin 5,q1,20%
+08/11/2012,"29 Mcauley Drive, Artane",Dublin,168000.0,No,Artane,Dublin 5,q1,10%
+09/11/2012,"45 Ardlea Road, Artane, Dublin 5",Dublin,185000.0,No,Artane,Dublin 5,q1,10%
+09/11/2012,"7 Hazelwood Grove, Artane",Dublin,356000.0,No,Artane,Dublin 5,q3,80%
+14/11/2012,"1 Ennel Avenue, Artane",Dublin,157000.0,No,Artane,Dublin 5,q1,10%
+19/11/2012,"14 Corran Measc, Artane",Dublin,150000.0,No,Artane,Dublin 5,q1,10%
+21/11/2012,"42 Kilmore Road, Artane, Dublin 5",Dublin,227000.0,No,Artane,Dublin 5,q1,30%
+27/11/2012,"1 St. Brigids Grove, Artane",Dublin,365000.0,No,Artane,Dublin 5,q4,80%
+29/11/2012,"97 Ardmore Drive, Artane",Dublin,212000.0,No,Artane,Dublin 5,q1,20%
+30/11/2012,"20 Brookwood Crescent, Artane",Dublin,255000.0,No,Artane,Dublin 5,q2,40%
+30/11/2012,"6 St David'S Wood, Artane, Dublin 5",Dublin,380000.0,No,Artane,Dublin 5,q4,80%
+05/12/2012,"66 Brookwood Road, Artane",Dublin,288500.0,No,Artane,Dublin 5,q2,50%
+05/12/2012,"7 Measc Crecent, Artane",Dublin,154000.0,No,Artane,Dublin 5,q1,10%
+07/12/2012,"1 Brookwood Crescent, Artane, Dublin 5",Dublin,375000.0,No,Artane,Dublin 5,q4,80%
+07/12/2012,"8 Gracefield Avenue, Artane, Dublin 5",Dublin,408000.0,No,Artane,Dublin 5,q4,90%
+10/12/2012,"24 St. Brigid'S Road, Artane",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+17/12/2012,"114 Chanel Road, Artane, Dublin 5",Dublin,198000.0,No,Artane,Dublin 5,q1,20%
+17/12/2012,"37 Measc Avenue, Artane",Dublin,165000.0,No,Artane,Dublin 5,q1,10%
+17/12/2012,"48 Lein Gardens, Artane",Dublin,178000.0,No,Artane,Dublin 5,q1,10%
+18/12/2012,"34 Gracefield Avenue, Artane, Dublin 5",Dublin,266000.0,No,Artane,Dublin 5,q2,40%
+19/12/2012,"6 Hazelwood Court, Artane, Dublin 5",Dublin,220000.0,No,Artane,Dublin 5,q1,30%
+20/12/2012,"23 Ardlea Road, Artane",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+21/12/2012,"33 Ardmore Crescent, Artane",Dublin,295000.0,No,Artane,Dublin 5,q2,50%
+21/12/2012,"69 Ardlea Road, Artane",Dublin,150000.0,No,Artane,Dublin 5,q1,10%
+24/12/2012,"28 Mayfield Crescent, Artane",Dublin,277000.0,No,Artane,Dublin 5,q2,50%
+07/01/2013,"8 Beechlawn Close, Artane",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+18/01/2013,"6 Artane Cottages, Artane",Dublin,175000.0,No,Artane,Dublin 5,q1,10%
+25/02/2013,"8 Brookwood Lawn, Artane, Dublin 5",Dublin,360000.0,No,Artane,Dublin 5,q3,80%
+05/03/2013,"72 Pinebrook Rise, Artane, Dublin 5",Dublin,271500.0,No,Artane,Dublin 5,q2,40%
+06/03/2013,"90 Chanel Road, Artane",Dublin,175000.0,No,Artane,Dublin 5,q1,10%
+28/03/2013,"46 Kilmore Road, Artane, Dublin 5",Dublin,177500.0,No,Artane,Dublin 5,q1,10%
+15/04/2013,"53 Brookwood Avenue, Artane, Dublin 5",Dublin,247000.0,No,Artane,Dublin 5,q2,40%
+19/04/2013,"33 Ardmore Drive, Artane",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+23/04/2013,"109 Ardlea Road, Artane",Dublin,245000.0,No,Artane,Dublin 5,q2,30%
+29/04/2013,"5 Maryfield Crescent, Artane",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+30/04/2013,"2 Brookwood Avenue, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+30/04/2013,"20 Whitethorn Avenue, Artane",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+09/05/2013,"49 Gracefield Road, Artane",Dublin,276000.0,No,Artane,Dublin 5,q2,50%
+13/05/2013,"8 Ennel Park, Artane, Dublin 5",Dublin,110000.0,No,Artane,Dublin 5,q1,10%
+30/05/2013,"2 Mcauley Park, Artane",Dublin,180000.0,No,Artane,Dublin 5,q1,10%
+31/05/2013,"31 Kilmore Drive, Artane",Dublin,185000.0,No,Artane,Dublin 5,q1,10%
+05/06/2013,"18 Whitethorn Close, Artane",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+07/06/2013,"22 Montrose Avenue, Artane",Dublin,260000.0,No,Artane,Dublin 5,q2,40%
+07/06/2013,"7 Hazelwood Park, Artane",Dublin,276000.0,No,Artane,Dublin 5,q2,50%
+10/06/2013,"4 Whitethorn Close, Artane",Dublin,270000.0,No,Artane,Dublin 5,q2,40%
+13/06/2013,"23 Brookwood Crescent, Artane, Dublin 5",Dublin,307500.0,No,Artane,Dublin 5,q3,60%
+14/06/2013,"11 St. Brigids Crescent, Artane, Dublin 5",Dublin,317000.0,No,Artane,Dublin 5,q3,60%
+17/06/2013,"45 Kilmore Drive, Artane, Dublin 5",Dublin,190000.0,No,Artane,Dublin 5,q1,20%
+20/06/2013,"29 Brookwood Heights, Artane",Dublin,281000.0,No,Artane,Dublin 5,q2,50%
+27/06/2013,"13 Maryfield Drive, Artane",Dublin,213000.0,No,Artane,Dublin 5,q1,20%
+28/06/2013,"40 Brookwood Road, Artane",Dublin,263000.0,No,Artane,Dublin 5,q2,40%
+03/07/2013,"30 Ardmore Crescent, Artane",Dublin,268500.0,No,Artane,Dublin 5,q2,40%
+17/07/2013,"248 Ardmore Drive, Artane",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+17/07/2013,"34 St. Brigid'S Road, Artane",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+23/07/2013,"46 Ardlea Road, Artane, Dublin 5",Dublin,225000.0,No,Artane,Dublin 5,q1,30%
+26/07/2013,"44 St. Brendan'S Avenue, Artane, Dublin 5",Dublin,363000.0,No,Artane,Dublin 5,q4,80%
+26/07/2013,"5 Ardmore Park, Artane",Dublin,236000.0,No,Artane,Dublin 5,q2,30%
+30/07/2013,"21 Kilmore Avenue, Artane, Dublin 5",Dublin,218000.0,No,Artane,Dublin 5,q1,20%
+08/08/2013,"34 Thorndale Avenue, Artane",Dublin,287000.0,No,Artane,Dublin 5,q2,50%
+15/08/2013,"34 Ardmore Grove, Artane",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+20/08/2013,"39 St Brendan'S Drive, Artane",Dublin,355000.0,No,Artane,Dublin 5,q3,80%
+23/08/2013,"57 Ardlea Road, Artane",Dublin,205000.0,No,Artane,Dublin 5,q1,20%
+26/08/2013,"2 St. John'S Court, Artane",Dublin,150000.0,No,Artane,Dublin 5,q1,10%
+26/08/2013,"68 Rosemount Avenue, Artane, Dublin 5",Dublin,260000.0,No,Artane,Dublin 5,q2,40%
+29/08/2013,"32 Rosemount Avenue, Artane",Dublin,290000.0,No,Artane,Dublin 5,q2,50%
+30/08/2013,"11 Beauvale Park, Artane",Dublin,189500.0,No,Artane,Dublin 5,q1,20%
+19/09/2013,"11 Ardbeg Crescent, Artane",Dublin,290650.0,No,Artane,Dublin 5,q2,50%
+03/10/2013,"88 Ardbeg Park, Artane",Dublin,208000.0,No,Artane,Dublin 5,q1,20%
+08/10/2013,"14 Measc Avenue, Artane",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+09/10/2013,"150 Beauvale Park, Artane",Dublin,241100.0,No,Artane,Dublin 5,q2,30%
+10/10/2013,"17 Measc Road, Artane, Dublin 5",Dublin,175449.0,No,Artane,Dublin 5,q1,10%
+11/10/2013,"5 Measc Crescent, Artane",Dublin,215000.0,No,Artane,Dublin 5,q1,20%
+25/10/2013,"106 Ardlea Rd, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+31/10/2013,"5 Brookwood Hall, Artane, Dublin 5",Dublin,445000.0,No,Artane,Dublin 5,q4,100%
+15/11/2013,"17 Ardbeg Road, Artane",Dublin,204825.0,No,Artane,Dublin 5,q1,20%
+27/11/2013,"19 Kilmore Drive, Artane, Dublin 5",Dublin,161000.0,No,Artane,Dublin 5,q1,10%
+02/12/2013,"67 Beauvale Park, Artane, Dublin 5",Dublin,225000.0,No,Artane,Dublin 5,q1,30%
+13/12/2013,"9 Montrose Court, Artane, Dublin 5",Dublin,246000.0,No,Artane,Dublin 5,q2,30%
+18/12/2013,"27 Ascal Ribh, Artane, Dublin 5",Dublin,168000.0,No,Artane,Dublin 5,q1,10%
+19/12/2013,"58 Brookwood Rd, Artane, Dublin 5",Dublin,357000.0,No,Artane,Dublin 5,q3,80%
+20/12/2013,"15 St Brigids Crescent, Artane, Dublin 5",Dublin,290500.0,No,Artane,Dublin 5,q2,50%
+20/12/2013,"3 Whitethorn Close, Artane, Dublin 5",Dublin,225000.0,No,Artane,Dublin 5,q1,30%
+13/01/2014,"35 Pinebrook Ave, Artane, Dublin 5",Dublin,276500.0,No,Artane,Dublin 5,q2,50%
+21/01/2014,"294 Ardmore Dr, Artane, Dublin 5",Dublin,245000.0,No,Artane,Dublin 5,q2,30%
+21/01/2014,"6 Beauvale Park, Artane, Dublin 5",Dublin,245000.0,No,Artane,Dublin 5,q2,30%
+28/01/2014,"60 Ardcollum Ave, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q2,50%
+05/02/2014,"13 Mcauley Drive, Artane, Dublin 5",Dublin,140000.0,No,Artane,Dublin 5,q1,10%
+12/02/2014,"27 Gracefield Rd, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+14/02/2014,"1 Mask Ave, Artane Dublin 5, Dublin",Dublin,272000.0,No,Artane,Dublin 5,q2,40%
+18/02/2014,"19 Rosemount Ave, Artane, Dublin 5",Dublin,370000.0,No,Artane,Dublin 5,q4,80%
+21/02/2014,"45 Both Ribh, Artane, Dublin 5",Dublin,182000.0,No,Artane,Dublin 5,q1,10%
+13/03/2014,"14 Ardcollum Avenue, Artane, Dublin 5",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+13/03/2014,"24 Rosemount Avenue, Artane, Dublin 5",Dublin,380000.0,No,Artane,Dublin 5,q4,80%
+18/03/2014,"15 Ardcollum Avenue, Artane, Dublin 5",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+24/03/2014,"92 Pinebrook Dr, Artane, Dublin 5",Dublin,284000.0,No,Artane,Dublin 5,q2,50%
+26/03/2014,"36 Whitethorn Close, Artane, Dublin 5",Dublin,270000.0,No,Artane,Dublin 5,q2,40%
+28/03/2014,"49 Ardlea Rd, Artane, Dublin 5",Dublin,252000.0,No,Artane,Dublin 5,q2,40%
+31/03/2014,"88 Brookfield, Artane",Dublin,100000.0,No,Artane,Dublin 5,q1,10%
+16/04/2014,"266 Ardmore Drive, Artane",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+16/04/2014,"40 Mcauley Ave, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q2,50%
+21/04/2014,"23 Craigford Ave, Artane, Dublin 5",Dublin,115000.0,No,Artane,Dublin 5,q1,10%
+28/04/2014,"63 Beauvale Park, Artane, Dublin 5",Dublin,170000.0,No,Artane,Dublin 5,q1,10%
+02/05/2014,"12 Brookwood Crescent, Artane, Dublin 5",Dublin,340000.0,No,Artane,Dublin 5,q3,70%
+15/05/2014,"32 Ennel Park, Artane, Dublin 5",Dublin,185000.0,No,Artane,Dublin 5,q1,10%
+16/05/2014,"24 Gracefield Ave, Artane, Dublin 5",Dublin,481000.0,No,Artane,Dublin 5,q4,100%
+16/05/2014,"4 Ribh Road, Artane",Dublin,167000.0,No,Artane,Dublin 5,q1,10%
+19/05/2014,"20 Whitethorn Close, Artane, Dublin 5",Dublin,180000.0,No,Artane,Dublin 5,q1,10%
+22/05/2014,"13 Gracefield Rd, Artane, Dublin 5",Dublin,380000.0,No,Artane,Dublin 5,q4,80%
+23/05/2014,"139 Beauvale Park, Artane, Dublin 5",Dublin,246000.0,No,Artane,Dublin 5,q2,30%
+23/05/2014,"74 Kilmore Ave, Artane, Dublin 5",Dublin,292000.0,No,Artane,Dublin 5,q2,50%
+26/05/2014,"153 Brookwood Avenue, Artane, Dublin 5",Dublin,333333.0,No,Artane,Dublin 5,q3,70%
+27/05/2014,"47 Maryfield Crescent, Artane Dublin 5, Dublin",Dublin,260000.0,No,Artane,Dublin 5,q2,40%
+03/06/2014,"34 Ribh Ave, Artane, Dublin 5",Dublin,161000.0,No,Artane,Dublin 5,q1,10%
+05/06/2014,"3 Whitethorn Rise, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+10/06/2014,"31 Ardbeg Park, Artane, Dublin 5",Dublin,242000.0,No,Artane,Dublin 5,q2,30%
+10/06/2014,"6 Brookwood Road, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+11/06/2014,"144 Beauvale Park, Artane",Dublin,257500.0,No,Artane,Dublin 5,q2,40%
+13/06/2014,"11 Rosemount Ave, Artane, Dublin 5",Dublin,420000.0,No,Artane,Dublin 5,q4,90%
+23/06/2014,"6 Ennell Ave, Artane, Dublin 5",Dublin,195000.0,No,Artane,Dublin 5,q1,20%
+25/06/2014,"22 St Brigids Rd, Artane, Dublin 5",Dublin,284000.0,No,Artane,Dublin 5,q2,50%
+27/06/2014,"43 Whitethorn Rd, Artane, Dublin 5",Dublin,332000.0,No,Artane,Dublin 5,q3,70%
+02/07/2014,"15 Ardbeg Rd, Artane, Dublin 5",Dublin,249000.0,No,Artane,Dublin 5,q2,40%
+03/07/2014,"24 Brookwood Grove, Artane, Dublin 5",Dublin,168000.0,No,Artane,Dublin 5,q1,10%
+04/07/2014,"3 The Mews, Brookwood Crescent, Artane",Dublin,405000.0,No,Artane,Dublin 5,q4,90%
+04/07/2014,"96 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,149779.73,No,Artane,Dublin 5,q1,10%
+08/07/2014,"6 Thorndale Park, Artane, Dublin 5",Dublin,220000.0,No,Artane,Dublin 5,q1,30%
+14/07/2014,"37 Gracefield Ave, Artane, Dublin 5",Dublin,280000.0,No,Artane,Dublin 5,q2,50%
+15/07/2014,"37 St John'S Court, Kilmore Road, Artane",Dublin,277000.0,No,Artane,Dublin 5,q2,50%
+15/07/2014,"5 Measc Avenue, Artane",Dublin,202500.0,No,Artane,Dublin 5,q1,20%
+17/07/2014,"118 Chanel Rd, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q2,50%
+17/07/2014,"38 Ardbeg Park, Artane, Dublin 5",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+18/07/2014,"34 Westpark Est, Artane, Dublin 5",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+18/07/2014,"50 Ardmore Drive, Artane, Dublin 5",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+23/07/2014,"73 Chanel Road, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+25/07/2014,"12 St. Davids Wood, Artane",Dublin,380000.0,No,Artane,Dublin 5,q4,80%
+25/07/2014,"142 Ardlea Rd, Artane, Dublin 5",Dublin,265000.0,No,Artane,Dublin 5,q2,40%
+30/07/2014,"2A Ardbeg Park, Artane, Dublin 5",Dublin,175000.0,No,Artane,Dublin 5,q1,10%
+01/08/2014,"75 Mcauley Dr, Artane, Dublin 5",Dublin,221000.0,No,Artane,Dublin 5,q1,30%
+07/08/2014,"152 Timbermills, Kilmore Road, Artane",Dublin,100000.0,No,Artane,Dublin 5,q1,10%
+18/08/2014,"201 Killester Ave, Artane, Dublin 5",Dublin,380000.0,No,Artane,Dublin 5,q4,80%
+19/08/2014,"105 Maryfield Crescent, Artane, Dublin 5",Dublin,260000.0,No,Artane,Dublin 5,q2,40%
+20/08/2014,"154 Ardbeg Park, Artane, Dublin 5",Dublin,274250.0,No,Artane,Dublin 5,q2,50%
+26/08/2014,"44 Beauvale Park, Artane, Dublin 5",Dublin,254000.0,No,Artane,Dublin 5,q2,40%
+29/08/2014,"129 Brookwood Avenue, Artane",Dublin,375000.0,No,Artane,Dublin 5,q4,80%
+29/08/2014,"9 Rosemount Avenue, Artane, Dublin 5",Dublin,390000.0,No,Artane,Dublin 5,q4,90%
+04/09/2014,"54 Kilmore Avenue, Artane, Dublin 5",Dublin,315000.0,No,Artane,Dublin 5,q3,60%
+16/09/2014,"16 Mask Road, Artane, Dublin 5",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+16/09/2014,"26 Brookwood Ave, Artane, Dublin 5",Dublin,373000.0,No,Artane,Dublin 5,q4,80%
+16/09/2014,"4 Danieli Rd, Artane, Dublin 5",Dublin,525000.0,No,Artane,Dublin 5,q4,100%
+24/09/2014,"140 Brookwood Ave, Artane, Dublin City",Dublin,537000.0,No,Artane,Dublin 5,q4,100%
+26/09/2014,"101 Harmonstown Rd, Artane, Dublin 5",Dublin,243000.0,No,Artane,Dublin 5,q2,30%
+26/09/2014,"190 Ardmore Dr, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+03/10/2014,"22 Ribh Rd, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+17/10/2014,"125 Beauvale Park, Artane, Dublin 5",Dublin,260000.0,No,Artane,Dublin 5,q2,40%
+17/10/2014,"2 Ennel Ave, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+22/10/2014,"12 Lein Gardens, Harmondstown, Artane Dublin 5",Dublin,246000.0,No,Artane,Dublin 5,q2,30%
+22/10/2014,"19 Whitethorn Grove, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+28/10/2014,"184 Ardlea Rd, Artane, Dublin 5",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+30/10/2014,"17 Ribh Road, Artane",Dublin,150000.0,No,Artane,Dublin 5,q1,10%
+30/10/2014,"47 Whitethorn Grove, Artane, Dublin 5",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+31/10/2014,"44 Whitethorn Road, Artane, Dublin 5",Dublin,355000.0,No,Artane,Dublin 5,q3,80%
+31/10/2014,"45 Whitethorn Grove, Artane, Dublin 5",Dublin,403000.0,No,Artane,Dublin 5,q4,90%
+11/11/2014,"34  Gracefield Road, Artane, Dublin 5",Dublin,360000.0,No,Artane,Dublin 5,q3,80%
+13/11/2014,"65 St. David'S Park, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+21/11/2014,"12 Maryfield Woods, Artane, Dublin 5",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+21/11/2014,"First Floor Apt, 89 Rosemount Ave, Artane Dublin 5",Dublin,65000.0,No,Artane,Dublin 5,q1,10%
+24/11/2014,"19 Ennel Park, Artane Dublin 5, Dublin",Dublin,195000.0,No,Artane,Dublin 5,q1,20%
+27/11/2014,"40 St. Brigid'S Road, Artane",Dublin,340000.0,No,Artane,Dublin 5,q3,70%
+28/11/2014,"78 Ardlea Road, Artane",Dublin,337000.0,No,Artane,Dublin 5,q3,70%
+05/12/2014,"46 Maryfield Crescent, Artane",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+08/12/2014,"31 Chanel Ave, Artane, Dublin 5",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+09/12/2014,"1 Brookwood Grove, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+09/12/2014,"5 Brookwood Meadow, Artane, Dublin",Dublin,507000.0,No,Artane,Dublin 5,q4,100%
+11/12/2014,"27 Mask Avenue, Artane",Dublin,270000.0,No,Artane,Dublin 5,q2,40%
+19/12/2014,"24 St David'S Avenue, Artane, Dublin 5",Dublin,460000.0,No,Artane,Dublin 5,q4,100%
+22/12/2014,"25 Brookwood Heights, Artane, Dublin 5",Dublin,410000.0,No,Artane,Dublin 5,q4,90%
+22/12/2014,"4 Chanel Ave, Artane, Dublin 5",Dublin,268000.0,No,Artane,Dublin 5,q2,40%
+16/01/2015,"36 Whitethorn Close, Artane, Dublin 5",Dublin,335000.0,No,Artane,Dublin 5,q3,70%
+19/01/2015,"6 Kilmore Dr, Artane, Dublin 5",Dublin,286000.0,No,Artane,Dublin 5,q2,50%
+20/01/2015,"47A Harmonstown Rd, Harmonstown, Artane",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+22/01/2015,"35 Measc Ave, Artane, Dublin 5",Dublin,260000.0,No,Artane,Dublin 5,q2,40%
+23/01/2015,"29 Measc Rd, Artane, Dublin 5",Dublin,215000.0,No,Artane,Dublin 5,q1,20%
+23/01/2015,"42 Whitethorn Park, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+30/01/2015,"34 Mask Rd, Artane, Dublin 5",Dublin,255000.0,No,Artane,Dublin 5,q2,40%
+02/02/2015,"8 Ardbeg Crescent, Artane, Dublin 5",Dublin,335700.0,No,Artane,Dublin 5,q3,70%
+12/02/2015,"50 Gracefield Rd, Artane, Dublin 5",Dublin,370000.0,No,Artane,Dublin 5,q4,80%
+13/02/2015,"8 Hazelwood Dr, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q3,60%
+17/02/2015,"42 Brookwood Rd, Artane, Dublin 5",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+20/02/2015,"4 Brookwood Heights, Artane, Dublin 5",Dublin,375000.0,No,Artane,Dublin 5,q4,80%
+24/02/2015,"9 Ardbeg Rd, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q3,60%
+26/02/2015,"36 Hazelwood Park, Artane, Dublin 5",Dublin,390000.0,No,Artane,Dublin 5,q4,90%
+04/03/2015,"138 Timbermills, Kilmore Road, Artane",Dublin,155700.0,Yes,Artane,Dublin 5,q1,10%
+04/03/2015,"5 Timber Mills, Artane, Dublin 5",Dublin,185000.0,No,Artane,Dublin 5,q1,20%
+16/03/2015,"125 Pinebrook Rd, Artane, Dublin 5",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+20/03/2015,"24 Montrose Ave, Artane, Dublin 5",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+31/03/2015,"No 1 The Mews, Brookwood Cresent, Artane",Dublin,405000.0,No,Artane,Dublin 5,q4,90%
+09/04/2015,"19 Ardmore Dr, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+13/04/2015,"56 Brookwood Heights, Artane, Dublin 5",Dublin,430000.0,No,Artane,Dublin 5,q4,100%
+13/04/2015,"Apartment 97 Timber Mill, Kilmore Road, Artane",Dublin,154185.0,Yes,Artane,Dublin 5,q1,10%
+21/04/2015,"130 Kilmore Rd, Artane, Dublin",Dublin,370000.0,No,Artane,Dublin 5,q4,80%
+01/05/2015,"31 Whitethorn Grove, Artane, Dublin 5",Dublin,333000.0,No,Artane,Dublin 5,q3,70%
+21/05/2015,"186 Ardmore Drive, Artane, Dublin",Dublin,280000.0,No,Artane,Dublin 5,q2,50%
+25/05/2015,"11 Ascail Ribh, Artane, Dublin 5",Dublin,207000.0,No,Artane,Dublin 5,q1,20%
+30/05/2015,"75 Ardlea Road, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q3,60%
+09/06/2015,"St Annes, 83 Brookwood Ave, Artane Dublin 5",Dublin,360000.0,No,Artane,Dublin 5,q3,80%
+10/06/2015,"10 Ardcollulm Avenue, Artane",Dublin,254000.0,No,Artane,Dublin 5,q2,40%
+10/06/2015,"27 Brookwood Heights, Artane, Dublin 5",Dublin,378000.0,No,Artane,Dublin 5,q4,80%
+15/06/2015,"16 Beauvale Park, Artane, Dublin 5",Dublin,351000.0,No,Artane,Dublin 5,q3,80%
+18/06/2015,"15A Ennel Park, Artane",Dublin,305000.0,No,Artane,Dublin 5,q3,60%
+19/06/2015,"13 Westpark, Artane, Dublin 5",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+19/06/2015,"44 Ribh Ave, Artane, Dublin 5",Dublin,220000.0,No,Artane,Dublin 5,q1,30%
+26/06/2015,"49 Ardbeg Park, Artane, Dublin 5",Dublin,285000.0,No,Artane,Dublin 5,q2,50%
+15/07/2015,"13 Ardmore Crescent, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+15/07/2015,"81 Pinebrook Dr, Artane, Dublin 5",Dublin,49000.0,No,Artane,Dublin 5,q1,10%
+16/07/2015,"36 Chanel Avenue, Artane, Dublin 5",Dublin,297000.0,No,Artane,Dublin 5,q3,60%
+16/07/2015,"37A Brookwood Ave, Artane, Dublin 5",Dublin,440000.0,No,Artane,Dublin 5,q4,100%
+17/07/2015,"68 Kilmore Rd, Artane, Dublin 5",Dublin,282000.0,No,Artane,Dublin 5,q2,50%
+20/07/2015,"21 Craigford Dr, Artane, Dublin 5",Dublin,323000.0,No,Artane,Dublin 5,q3,70%
+20/07/2015,"4 Brookwood Rise, Artane, Dublin 5",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+24/07/2015,"9 Gracefield Ave, Artane, Dublin 5",Dublin,420000.0,No,Artane,Dublin 5,q4,90%
+27/07/2015,"36 Ardbeg Dr, Artane, Dublin 5",Dublin,305000.0,No,Artane,Dublin 5,q3,60%
+27/07/2015,"47 Ardlea Rd, Artane, Dublin 5",Dublin,312600.0,No,Artane,Dublin 5,q3,60%
+29/07/2015,"9 Measc Green, Artane, Dublin 5",Dublin,238000.0,No,Artane,Dublin 5,q2,30%
+07/08/2015,"96 Brookwood Ave, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+10/08/2015,"13 Danieli Rd, Artane, Dublin",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+13/08/2015,"1 Newlands Court, Artane, Dublin 5",Dublin,227000.0,No,Artane,Dublin 5,q1,30%
+13/08/2015,"39 Castleview, Artane, Dublin 5",Dublin,252000.0,No,Artane,Dublin 5,q2,40%
+13/08/2015,"42 St Johns Court, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q3,60%
+19/08/2015,"183 The Timbermill, Artane, Dublin 5",Dublin,180000.0,No,Artane,Dublin 5,q1,10%
+19/08/2015,"98 Maryfield Crescent, Artane, Dublin 5",Dublin,297000.0,No,Artane,Dublin 5,q3,60%
+20/08/2015,"31 Mc Auley Rd, Artane, Dublin 5",Dublin,244000.0,No,Artane,Dublin 5,q2,30%
+26/08/2015,"134 Beauvale Park, Artane, Dublin 5",Dublin,243000.0,No,Artane,Dublin 5,q2,30%
+31/08/2015,"10 Measc Drive, Artane, Dublin 5",Dublin,246000.0,No,Artane,Dublin 5,q2,30%
+08/09/2015,"88 Ardmore Dr, Artane, Dublin 5",Dublin,323000.0,No,Artane,Dublin 5,q3,70%
+11/09/2015,"32 Ardbeg Park, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+11/09/2015,"7 Gracefield Court, Artane",Dublin,332000.0,No,Artane,Dublin 5,q3,70%
+24/09/2015,"8 Brookwood Crescent, Artane, Dublin 5",Dublin,326000.0,No,Artane,Dublin 5,q3,70%
+28/09/2015,"55 Kilmore Rd, Artane, Dublin 5",Dublin,280000.0,No,Artane,Dublin 5,q2,50%
+02/10/2015,"3 Ardmore Close, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+07/10/2015,"62 Ardmore Drive, Artane, Dublin 5",Dublin,285000.0,No,Artane,Dublin 5,q2,50%
+13/10/2015,"43A Ribh Road, Artane, Dublin 5",Dublin,225000.0,No,Artane,Dublin 5,q1,30%
+20/10/2015,"16 Lein Rd, Artane, Dublin 5",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+20/10/2015,"4 The Mews, Brookwood Crescent, Artane",Dublin,430000.0,No,Artane,Dublin 5,q4,100%
+20/10/2015,"67 Timbermill, Artane, Dublin",Dublin,205000.0,No,Artane,Dublin 5,q1,20%
+23/10/2015,"21 Ennel Dr, Artane, Dublin 5",Dublin,217500.0,No,Artane,Dublin 5,q1,20%
+27/10/2015,"78 Mountrose Crescent, Artane, Dublin 5",Dublin,150000.0,No,Artane,Dublin 5,q1,10%
+02/11/2015,"54 Ardcollum Avenue, Artane",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+09/11/2015,"53 Kilmore Rd, Artane, Dublin 5",Dublin,25000.0,No,Artane,Dublin 5,q1,10%
+10/11/2015,"91 Pinebrook Dr, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q3,60%
+16/11/2015,"103 Brookwood Ave, Artane, Dublin 5",Dublin,457000.0,No,Artane,Dublin 5,q4,100%
+16/11/2015,"145 Ardlea Rd, Artane, Dublin 5",Dublin,290000.0,No,Artane,Dublin 5,q2,50%
+18/11/2015,"45 Ribh Avenue, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+25/11/2015,"14 Montrose Ave, Artane, Dublin 5",Dublin,280000.0,No,Artane,Dublin 5,q2,50%
+01/12/2015,"30 Maryfield Crescent, Artane, Dublin 5",Dublin,325714.0,No,Artane,Dublin 5,q3,70%
+01/12/2015,"7 Kilmore Road, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+03/12/2015,"39 Mcauley Rd, Artane, Dublin 5",Dublin,301000.0,No,Artane,Dublin 5,q3,60%
+04/12/2015,"17 St Brigids Crescent, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+04/12/2015,"35 Brookwood Road, Artane, Dublin 5",Dublin,385000.0,No,Artane,Dublin 5,q4,80%
+18/12/2015,"5 Castleview Walk, Artane, Dublin 5",Dublin,345000.0,Yes,Artane,Dublin 5,q3,70%
+18/12/2015,"79 Brookwood Ave, Artane, Dublin 5",Dublin,410000.0,No,Artane,Dublin 5,q4,90%
+23/12/2015,"1 Castleview Walk, Castleview, Artane",Dublin,220000.0,Yes,Artane,Dublin 5,q1,30%
+23/12/2015,"13 Maryfield Crescent, Artane, Dublin 5",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+23/12/2015,"2 Castleview Walk, Castleview, Artane",Dublin,220000.0,Yes,Artane,Dublin 5,q1,30%
+05/01/2016,"3 Castleview Walk, Artane",Dublin,348017.62,Yes,Artane,Dublin 5,q3,80%
+11/01/2016,"13 Kilmore Rd, Artane, Dublin 5",Dublin,290000.0,No,Artane,Dublin 5,q2,50%
+11/01/2016,"59 Ribh Ave, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+15/01/2016,"47 Ardbeg Park, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+21/01/2016,"55 St Brigids Grove, Artane, Dublin 5",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+22/01/2016,"32 Montrose Grove, Artane, Dublin 5",Dublin,291250.0,No,Artane,Dublin 5,q2,50%
+19/02/2016,"181 Timbermills, Block D, Artane Dublin 5",Dublin,165000.0,No,Artane,Dublin 5,q1,10%
+29/02/2016,"21 Brookwood Lawn, Artane, Dublin 5",Dublin,430000.0,No,Artane,Dublin 5,q4,100%
+02/03/2016,"128 Ardbeg Park, Artane, Dublin 5",Dublin,310000.0,No,Artane,Dublin 5,q3,60%
+03/03/2016,"53 Kilmore Dr, Artane, Dublin 5",Dublin,352000.0,No,Artane,Dublin 5,q3,80%
+09/03/2016,"5 St. Brendans Park, Artane, Dublin 5",Dublin,290000.0,No,Artane,Dublin 5,q2,50%
+15/03/2016,"4 Castleview Walk, Artane",Dublin,343600.0,Yes,Artane,Dublin 5,q3,70%
+16/03/2016,"89 Brookwood Ave, Artane, Dublin 5",Dublin,355000.0,No,Artane,Dublin 5,q3,80%
+21/03/2016,"11 Mornington Grove, Artane, Dublin 5",Dublin,280000.0,No,Artane,Dublin 5,q2,50%
+22/03/2016,"28 Whitethorn Rd, Artane, Dublin 5",Dublin,321000.0,No,Artane,Dublin 5,q3,60%
+23/03/2016,"12 Kilmore Crescent, Artane, Dublin 5",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+29/03/2016,"19 Hazelwood Park, Artane, Dublin 5",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+31/03/2016,"4 Ardmore Crescent, Artane, Dublin 5",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+31/03/2016,"48 St Davids Wood, Artane, Dublin 5",Dublin,335000.0,No,Artane,Dublin 5,q3,70%
+01/04/2016,"6 Castleview Walk, Castleview, Artane",Dublin,303965.0,Yes,Artane,Dublin 5,q3,60%
+15/04/2016,"52 Maryfield Crescent, Artane, Dublin 5",Dublin,267000.0,No,Artane,Dublin 5,q2,40%
+28/04/2016,"22 Brookwood Rd, Artane, Dublin 5",Dublin,430000.0,No,Artane,Dublin 5,q4,100%
+29/04/2016,"71 Ennel Dr, Artane, Dublin 5",Dublin,253000.0,No,Artane,Dublin 5,q2,40%
+06/05/2016,"143 Ardlea Rd, Artane, Dublin 5",Dublin,353000.0,No,Artane,Dublin 5,q3,80%
+13/05/2016,"49 Ardmore Drive, Artane, Dublin 5",Dublin,317500.0,No,Artane,Dublin 5,q3,60%
+18/05/2016,"22 St Johns Court, Artane, Dublin",Dublin,237500.0,No,Artane,Dublin 5,q2,30%
+18/05/2016,"63 Chanel Rd, Artane, Dublin 5",Dublin,292000.0,No,Artane,Dublin 5,q2,50%
+20/05/2016,"14 Brookwood Heights, Artane, Dublin 5",Dublin,354000.0,No,Artane,Dublin 5,q3,80%
+31/05/2016,"10 Danieli Dr, Artane, Dublin 5",Dublin,401200.0,No,Artane,Dublin 5,q4,90%
+07/06/2016,"142 Pinebrook Rd, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+07/06/2016,"51 Kilmore Rd, Artane, Dublin 5",Dublin,296000.0,No,Artane,Dublin 5,q3,60%
+17/06/2016,"17 Mcauley Ave, Artane, Dublin 5",Dublin,228500.0,No,Artane,Dublin 5,q1,30%
+17/06/2016,"3 Whitethorn Ave, Artane, Dublin 5",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+24/06/2016,"14 Whitethorn Crescent, Artane, Dublin 5",Dublin,335000.0,No,Artane,Dublin 5,q3,70%
+28/06/2016,"21 Brookwood Rd, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+30/06/2016,"61 Ennel Dr, Artane, Dublin 5",Dublin,292000.0,No,Artane,Dublin 5,q2,50%
+08/07/2016,"7 Brookwood Glen, Artane, Dublin 5",Dublin,387000.0,No,Artane,Dublin 5,q4,90%
+08/07/2016,"8 Brookwood Rd, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+08/07/2016,"Apt 4, Ardcollum Ave, Artane Dublin 5",Dublin,90100.0,No,Artane,Dublin 5,q1,10%
+15/07/2016,"84 Kilmore Rd, Artane, Dublin 5",Dublin,110000.0,No,Artane,Dublin 5,q1,10%
+21/07/2016,"43 Ribh Road, Artane, Dublin 5",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+26/07/2016,"42 Ardlea Rd, Artane, Dublin 5",Dublin,285000.0,No,Artane,Dublin 5,q2,50%
+26/07/2016,"52 Brookwood Crescent, Artane, Dublin 5",Dublin,445000.0,No,Artane,Dublin 5,q4,100%
+03/08/2016,"63 Harmonstown Rd, Artane, Dublin 5",Dublin,215000.0,No,Artane,Dublin 5,q1,20%
+05/08/2016,"9 Lein Gardens, Artane, Dublin 5",Dublin,202000.0,No,Artane,Dublin 5,q1,20%
+08/08/2016,"22 Chanel Ave, Artane, Dublin 5",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+12/08/2016,"75 Pinebrook Rise, Artane, Dublin 5",Dublin,340000.0,Yes,Artane,Dublin 5,q3,70%
+18/08/2016,"17 Gracefield Rd, Artane, Dublin 5",Dublin,376000.0,No,Artane,Dublin 5,q4,80%
+19/08/2016,"7 Ardmore Park, Artane, Dublin 5",Dublin,321000.0,No,Artane,Dublin 5,q3,60%
+23/08/2016,"24 Kilmore Crescent, Artane, Dublin 5",Dublin,290000.0,No,Artane,Dublin 5,q2,50%
+26/08/2016,"11 Beechlawn Green, Artane, Dublin 5",Dublin,303500.0,No,Artane,Dublin 5,q3,60%
+26/08/2016,"15 Rosemount Ave, Artane, Dublin 5",Dublin,380000.0,No,Artane,Dublin 5,q4,80%
+26/08/2016,"42 Kilmore Close, Artane, Dublin 5",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+29/08/2016,"8 Mask Ave, Artane, Dublin 5",Dublin,373000.0,No,Artane,Dublin 5,q4,80%
+31/08/2016,"69 St Davids Park, Artane, Dublin 5",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+05/09/2016,"43 Ardcullum Ave, Artane, Dublin 5",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+11/09/2016,"77 Ennel Dr, Artane, Dublin 5",Dublin,125000.0,No,Artane,Dublin 5,q1,10%
+13/09/2016,"31 Mask Rd, Artane, Dublin 5",Dublin,255000.0,No,Artane,Dublin 5,q2,40%
+15/09/2016,"98 Chanel Rd, Artane, Dublin 5",Dublin,285000.0,No,Artane,Dublin 5,q2,50%
+20/09/2016,"14 Lein Rd, Artane, Dublin 5",Dublin,204000.0,No,Artane,Dublin 5,q1,20%
+23/09/2016,"13 Castleview, Artane, Dublin",Dublin,285000.0,No,Artane,Dublin 5,q2,50%
+28/09/2016,"35 Chanel Ave, Artane, Dublin 5",Dublin,335000.0,No,Artane,Dublin 5,q3,70%
+29/09/2016,"31 Maryfield Dr, Artane, Dublin 5",Dublin,326000.0,No,Artane,Dublin 5,q3,70%
+05/10/2016,"34 Kilmore Ave, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+06/10/2016,"20 Mcauley Dr, Artane, Dublin 5",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+10/10/2016,"8 Kilmore Road, Artane, Dublin 5",Dublin,312000.0,No,Artane,Dublin 5,q3,60%
+11/10/2016,"31 Craigford Avenue, Artane, Dublin 5",Dublin,367000.0,No,Artane,Dublin 5,q4,80%
+12/10/2016,"2A Brookwood Avenue, Artane",Dublin,390000.0,Yes,Artane,Dublin 5,q4,90%
+14/10/2016,"47 Brookwood Heights, Artane, Dublin 5",Dublin,445000.0,No,Artane,Dublin 5,q4,100%
+20/10/2016,"34 Brookwood Crescent, Artane, Dublin 5",Dublin,401000.0,No,Artane,Dublin 5,q4,90%
+25/10/2016,"64 Brookfield, Artane, Dublin 5",Dublin,215000.0,No,Artane,Dublin 5,q1,20%
+26/10/2016,"18 Beauvale Park, Artane, Dublin 5",Dublin,270000.0,No,Artane,Dublin 5,q2,40%
+28/10/2016,"2 Mcauley Ave, Artane, Dublin 5",Dublin,306000.0,No,Artane,Dublin 5,q3,60%
+28/10/2016,"3 St. David'S Court, Artane, Dublin 5",Dublin,440528.63,Yes,Artane,Dublin 5,q4,100%
+28/10/2016,"41 Danieli Road, Artane, Dublin 5",Dublin,307000.0,No,Artane,Dublin 5,q3,60%
+28/10/2016,"74 Ardmore Dr, Artane, Dublin 5",Dublin,310000.0,No,Artane,Dublin 5,q3,60%
+28/10/2016,"8 St Davids Court, Artane, Dublin 5",Dublin,506607.92,Yes,Artane,Dublin 5,q4,100%
+02/11/2016,"20 Castleview, Artane, Dublin 5",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+09/11/2016,"5 Mask Avenue, Artane, Dublin 5",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+10/11/2016,"36 Thorndale Dr, Artane, Dublin 5",Dublin,410000.0,No,Artane,Dublin 5,q4,90%
+10/11/2016,"6 Brookwood Park, Artane Dublin 5, Dublin",Dublin,520000.0,No,Artane,Dublin 5,q4,100%
+15/11/2016,"1Oa Westpark Est, Artane, Dublin 5",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+18/11/2016,"20 Ardmore Park, Artane, Dublin 5",Dublin,5400.0,No,Artane,Dublin 5,q1,10%
+21/11/2016,"Unit 1, St David'S Court, Artane",Dublin,497797.36,Yes,Artane,Dublin 5,q4,100%
+22/11/2016,"10 Whitethorn Rd, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q3,60%
+22/11/2016,"142 Ardmore Dr, Artane, Dublin 5",Dublin,357500.0,No,Artane,Dublin 5,q3,80%
+22/11/2016,"7 Saint Davids Court, Artane, Dublin 5",Dublin,506608.0,Yes,Artane,Dublin 5,q4,100%
+24/11/2016,"22 Maryfield Dr, Artane, Dublin 5",Dublin,342000.0,No,Artane,Dublin 5,q3,70%
+25/11/2016,"40 Whitethorn Crescent, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+29/11/2016,"2 St. David'S Court, Artane",Dublin,524229.07,Yes,Artane,Dublin 5,q4,100%
+30/11/2016,"6 Brookwood Lawn, Artane, Dublin 5",Dublin,490000.0,No,Artane,Dublin 5,q4,100%
+02/12/2016,"28 Hazelwood Park, Artane, Dublin 5",Dublin,420000.0,No,Artane,Dublin 5,q4,90%
+02/12/2016,"47 Danieli Rd, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+07/12/2016,"185 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,173348.0,Yes,Artane,Dublin 5,q1,10%
+09/12/2016,"12 Ardmore Grove, Artane, Dublin 5",Dublin,352000.0,No,Artane,Dublin 5,q3,80%
+12/12/2016,"15 Whitehorn Park, Artane, Dublin 5",Dublin,372000.0,No,Artane,Dublin 5,q4,80%
+12/12/2016,"6 St David'S Court, Artane",Dublin,440528.63,Yes,Artane,Dublin 5,q4,100%
+13/12/2016,"20 Ardmore Park, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+14/12/2016,"12 Montrose Ave, Artane, Dublin 5",Dublin,210000.0,No,Artane,Dublin 5,q1,20%
+14/12/2016,"29 Ardmore Close, Artane, Dublin 5",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+16/12/2016,"Apt 10 Newlands Court, Kilmore Road, Artane",Dublin,225000.0,No,Artane,Dublin 5,q1,30%
+19/12/2016,"128 Ardlea Rd, Artane, Dublin 5",Dublin,340000.0,No,Artane,Dublin 5,q3,70%
+20/12/2016,"27 Whitethorn Crescent, Artane, Dublin",Dublin,340000.0,No,Artane,Dublin 5,q3,70%
+21/12/2016,"25 Ardlea Rd, Artane, Dublin 5",Dublin,135000.0,No,Artane,Dublin 5,q1,10%
+22/12/2016,"100 Ardbeg Park, Artane, Dublin 5",Dublin,315000.0,No,Artane,Dublin 5,q3,60%
+05/01/2017,"No. 5, St Davids Court, Artane",Dublin,444933.92,Yes,Artane,Dublin 5,q4,100%
+13/01/2017,"23 Montrose Grove, Artane, Dublin 5",Dublin,265000.0,No,Artane,Dublin 5,q2,40%
+18/01/2017,"13 Whitethorn Crescent, Artane, Dublin 5",Dublin,342000.0,No,Artane,Dublin 5,q3,70%
+20/01/2017,"116 St Brendans Ave, Artane Dublin 9, Dublin",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+20/01/2017,"23 Brookwood Lawn, Artane, Dublin 5",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+26/01/2017,"57 Thornville Ave, Artane, Dublin 5",Dublin,235000.0,No,Artane,Dublin 5,q1,30%
+27/01/2017,"77 Mask Ave, Artane, Dublin 5",Dublin,347500.0,No,Artane,Dublin 5,q3,70%
+30/01/2017,"20 Timber Mills, Artane, Dublin 5",Dublin,177000.0,No,Artane,Dublin 5,q1,10%
+30/01/2017,"3 Whitethorn Rd, Artane, Dublin 5",Dublin,417000.0,No,Artane,Dublin 5,q4,90%
+30/01/2017,"4 St. David'S Court, Artane, Dublin 5",Dublin,444933.0,Yes,Artane,Dublin 5,q4,100%
+02/02/2017,"17 Mcauley Park Ireland, Artane Dublin 5, Dublin",Dublin,315000.0,No,Artane,Dublin 5,q3,60%
+03/02/2017,"20 Bothar Lein, Artane, Dublin 5",Dublin,235000.0,No,Artane,Dublin 5,q2,30%
+08/02/2017,"38 Timber Mill, Artane, Dublin 5",Dublin,242000.0,No,Artane,Dublin 5,q2,30%
+14/02/2017,"27 Brookwood Lawn, Artane, Dublin 5",Dublin,412000.0,No,Artane,Dublin 5,q4,90%
+15/02/2017,"42 Ardcollum Ave, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+17/02/2017,"108 Brookwood Ave, Artane, Dublin 5",Dublin,420000.0,No,Artane,Dublin 5,q4,90%
+27/02/2017,"7 Craigford Dr, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+01/03/2017,"13 Lein Park, Artane, Dublin 5",Dublin,265000.0,No,Artane,Dublin 5,q2,40%
+08/03/2017,"108 Ardbeg Park, Artane, Dublin 5",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+10/03/2017,"151 Brookwood Ave, Artane, Dublin 5",Dublin,495000.0,No,Artane,Dublin 5,q4,100%
+23/03/2017,"7 Whitethorn Ave, Artane, Dublin 5",Dublin,430000.0,No,Artane,Dublin 5,q4,100%
+05/04/2017,"93 St Davids, Artane, Dublin 5",Dublin,405000.0,No,Artane,Dublin 5,q4,90%
+11/04/2017,"76 Ardcollum Ave, Artane, Dublin 5",Dublin,300000.0,No,Artane,Dublin 5,q3,60%
+26/04/2017,"21 Mc Auley Ave, Artane, Dublin 5",Dublin,265000.0,No,Artane,Dublin 5,q2,40%
+27/04/2017,"12 Kilmore Rd, Artane, Dublin City",Dublin,349500.0,No,Artane,Dublin 5,q3,80%
+28/04/2017,"11 Mcauley Rd, Artane, Dublin 5",Dublin,265000.0,No,Artane,Dublin 5,q2,40%
+28/04/2017,"64 Ardcollum Ave, Artane, Dublin 5",Dublin,352000.0,No,Artane,Dublin 5,q3,80%
+03/05/2017,"39 Beechlawn Ave, Artane, Dublin 5",Dublin,317000.0,No,Artane,Dublin 5,q3,60%
+10/05/2017,"1 Kilmore Court, Kilmore Rd, Artane Dublin 5",Dublin,175000.0,No,Artane,Dublin 5,q1,10%
+10/05/2017,"23 Measc Cresent, Artane, Dublin 5",Dublin,298500.0,No,Artane,Dublin 5,q3,60%
+16/05/2017,"76 Chanel Rd, Artane, Dublin 5",Dublin,310000.0,No,Artane,Dublin 5,q3,60%
+19/05/2017,"136 Beauvale Park, Artane, Dublin 5",Dublin,316000.0,No,Artane,Dublin 5,q3,60%
+19/05/2017,"26 Lein Rd, Artane, Dublin 5",Dublin,214000.0,No,Artane,Dublin 5,q1,20%
+19/05/2017,"61 Hazelwood Park, Artane, Dublin 5",Dublin,425000.0,No,Artane,Dublin 5,q4,90%
+31/05/2017,"36 Craigford Dr, Artane, Dublin 5",Dublin,470000.0,No,Artane,Dublin 5,q4,100%
+01/06/2017,"68 Brookwood Rise, Artane, Dublin 5",Dublin,482000.0,No,Artane,Dublin 5,q4,100%
+02/06/2017,"28 Mc Auley Dr, Artane Dublin 5, Dublin",Dublin,269000.0,No,Artane,Dublin 5,q2,40%
+05/06/2017,"51 Ardlea Rd, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q3,60%
+13/06/2017,"10 Brookwood Hall, Artane, Dublin 5",Dublin,555000.0,No,Artane,Dublin 5,q4,100%
+13/06/2017,"3 St Brendans Ave, Artane, Dublin 5",Dublin,406000.0,No,Artane,Dublin 5,q4,90%
+15/06/2017,"173 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,189207.0,Yes,Artane,Dublin 5,q1,20%
+16/06/2017,"9 St Brigid'S Road, Artane, Dublin 5",Dublin,426000.0,No,Artane,Dublin 5,q4,90%
+20/06/2017,"50 Rosemount Ave, Artane, Dublin 5",Dublin,430000.0,No,Artane,Dublin 5,q4,100%
+21/06/2017,"1 Castleview Walk, Castleview, Artane",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+27/06/2017,"189 Timbermill, Kylemore Road, Artane",Dublin,195000.0,No,Artane,Dublin 5,q1,20%
+29/06/2017,"71 Mask Ave, Artane, Dublin 5",Dublin,305000.0,No,Artane,Dublin 5,q3,60%
+30/06/2017,"117 Brookwood Avenue, Artane, Dublin 5",Dublin,463000.0,No,Artane,Dublin 5,q4,100%
+30/06/2017,"57 Kilmore Dr, Artane, Dublin 5",Dublin,355000.0,No,Artane,Dublin 5,q3,80%
+03/07/2017,"56 Whitethorn Rd, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+05/07/2017,"1 Ceide Ainninn, Artane, Dublin",Dublin,311500.0,No,Artane,Dublin 5,q3,60%
+07/07/2017,"12 Chanel Ave, Artane, Dublin 5",Dublin,388000.0,No,Artane,Dublin 5,q4,90%
+10/07/2017,"2A Gracefield Ave, Artane, Dublin 5",Dublin,266666.0,No,Artane,Dublin 5,q2,40%
+12/07/2017,"7A Whitethorn Ave, Artane, Dublin 5",Dublin,407000.0,No,Artane,Dublin 5,q4,90%
+13/07/2017,"64 Bothar Lein, Artane, Dublin 5",Dublin,244000.0,No,Artane,Dublin 5,q2,30%
+18/07/2017,"45 St Johns Court, Artane, Dublin 5",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+19/07/2017,"193 Timbermill, Kylemore Road, Artane",Dublin,195000.0,Yes,Artane,Dublin 5,q1,20%
+19/07/2017,"24 Ardcollum Ave, Artane, Dublin 5",Dublin,310000.0,No,Artane,Dublin 5,q3,60%
+21/07/2017,"41 Brookwood Heights, Artane, Dublin 5",Dublin,481000.0,No,Artane,Dublin 5,q4,100%
+24/07/2017,"25 Brookwood Lawn, Artane, Dublin 5",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+28/07/2017,"68 Brookwood Ave, Artane, Dublin 5",Dublin,445000.0,No,Artane,Dublin 5,q4,100%
+01/08/2017,"75 Whitethorn Rise, Artane, Dublin 5",Dublin,415000.0,No,Artane,Dublin 5,q4,90%
+02/08/2017,"168 Harmonstown Rd, Artane, Dublin 5",Dublin,293000.0,No,Artane,Dublin 5,q2,50%
+02/08/2017,"27 Ascal Ribh, Artane, Dublin 5",Dublin,305000.0,No,Artane,Dublin 5,q3,60%
+03/08/2017,"270 Ardmore Dr, Artane, Dublin 5",Dublin,382505.0,No,Artane,Dublin 5,q4,80%
+04/08/2017,"59 Rosemount Ave, Artane, Dublin 5",Dublin,475000.0,No,Artane,Dublin 5,q4,100%
+10/08/2017,"16 Thorndale Crescent, Artane, Dublin 5",Dublin,420000.0,No,Artane,Dublin 5,q4,90%
+10/08/2017,"52 Ardmore Dr, Artane, Dublin 5",Dublin,342000.0,No,Artane,Dublin 5,q3,70%
+11/08/2017,"21 Maryfield Dr, Artane, Dublin 5",Dublin,370000.0,No,Artane,Dublin 5,q4,80%
+14/08/2017,"8 Ardlea Rd, Artane, Dublin 5",Dublin,390000.0,No,Artane,Dublin 5,q4,90%
+16/08/2017,"46 Rosemount Ave, Artane, Dublin 5",Dublin,402000.0,No,Artane,Dublin 5,q4,90%
+23/08/2017,"58 Brookwood Heights, Artane, Dublin City",Dublin,505000.0,No,Artane,Dublin 5,q4,100%
+25/08/2017,"15 Brookville Park, Artane, Dublin 5",Dublin,455000.0,No,Artane,Dublin 5,q4,100%
+25/08/2017,"208 Ardmore Dr, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+30/08/2017,"17A Whitethorn Ave, Artane, Dublin 5",Dublin,420000.0,No,Artane,Dublin 5,q4,90%
+01/09/2017,"117 Timber Mills, Kilmore Rd, Artane Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+06/09/2017,"54 Bothar Ribh, Artane, Dublin",Dublin,303000.0,No,Artane,Dublin 5,q3,60%
+08/09/2017,"37 Mcauley Rd, Artane, Dublin City",Dublin,287000.0,No,Artane,Dublin 5,q2,50%
+08/09/2017,"4 Gracefield Court, Artane, Dublin 5",Dublin,317000.0,No,Artane,Dublin 5,q3,60%
+08/09/2017,"70 Beauvale Park, Artane, Dublin",Dublin,83641.0,No,Artane,Dublin 5,q1,10%
+13/09/2017,"8 Ennel Avenue, Artane, Dublin 5",Dublin,282000.0,No,Artane,Dublin 5,q2,50%
+21/09/2017,"65 Hazelwood Pk, Artane, Dublin 5",Dublin,467000.0,No,Artane,Dublin 5,q4,100%
+28/09/2017,"236 Ardmore Dr, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+28/09/2017,"80 Ardlea Rd, Artane, Dublin 5",Dublin,375000.0,No,Artane,Dublin 5,q4,80%
+13/10/2017,"39 Chanel Ave, Artane, Dublin 5",Dublin,405000.0,No,Artane,Dublin 5,q4,90%
+18/10/2017,"109 Timber Mills, Artane, Dublin 5",Dublin,216000.0,No,Artane,Dublin 5,q1,20%
+18/10/2017,"137 Brookwood Ave, Artane, Dublin 5",Dublin,493000.0,No,Artane,Dublin 5,q4,100%
+18/10/2017,"342 Ardmore Dr, Artane, Dublin 5",Dublin,385000.0,No,Artane,Dublin 5,q4,90%
+18/10/2017,"6 Mask Dr, Artane, Dublin 5",Dublin,310000.0,No,Artane,Dublin 5,q3,60%
+25/10/2017,"125 Brookwood Ave, Artane, Dublin 5",Dublin,485000.0,No,Artane,Dublin 5,q4,100%
+25/10/2017,"59 Kilmore Rd, Artane, Dublin 5",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+31/10/2017,"58 Gracefield Avenue, Artane, Dublin 5",Dublin,343000.0,No,Artane,Dublin 5,q3,70%
+09/11/2017,"1 Thorndale Park, Artane, Dublin 5",Dublin,445000.0,No,Artane,Dublin 5,q4,100%
+09/11/2017,"85 Ribh Rd, Artane, Dublin 5",Dublin,328000.0,No,Artane,Dublin 5,q3,70%
+28/11/2017,"17A Mcauley Dr, Artane, Dublin 17",Dublin,285000.0,No,Artane,Dublin 5,q2,50%
+01/12/2017,"Apt 2  Block C, Timber Mills, Artane",Dublin,190000.0,No,Artane,Dublin 5,q1,20%
+05/12/2017,"6 St David'S Grove, Artane, Dublin 5",Dublin,600000.0,Yes,Artane,Dublin 5,q4,100%
+06/12/2017,"7 St. David'S Grove, Artane",Dublin,537445.0,Yes,Artane,Dublin 5,q4,100%
+07/12/2017,"70 Ardlea Rd, Artane, Dublin 5",Dublin,375000.0,No,Artane,Dublin 5,q4,80%
+08/12/2017,"5 Ardmore Dr, Artane, Dublin 5",Dublin,375000.0,No,Artane,Dublin 5,q4,80%
+15/12/2017,"144 Beauvale Park, Artane, Dublin 5",Dublin,315000.0,No,Artane,Dublin 5,q3,60%
+15/12/2017,"31 St Davids Wood, Artane, Dublin 5",Dublin,500000.0,No,Artane,Dublin 5,q4,100%
+18/12/2017,"24A Pairc Lein, Artane Dublin 5, Dublin",Dublin,387000.0,No,Artane,Dublin 5,q4,90%
+21/12/2017,"4 St. David'S Grove, Artane, Dublin 5",Dublin,586000.0,Yes,Artane,Dublin 5,q4,100%
+22/12/2017,"2 Castleview Walk, Castleview, Artane",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+04/01/2018,"180 Beauvale Park, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+04/01/2018,"Apt 9 Ground Floor, Timber Mill, Artane Dublin 5",Dublin,249000.0,No,Artane,Dublin 5,q2,40%
+10/01/2018,"153 Ardmore Dr, Artane, Dublin 5",Dublin,420000.0,No,Artane,Dublin 5,q4,90%
+10/01/2018,"72 Montrose Crescent, Artane, Dublin 5",Dublin,414000.0,No,Artane,Dublin 5,q4,90%
+11/01/2018,"14 Gracefield Ave, Artane, Dublin 5",Dublin,475000.0,No,Artane,Dublin 5,q4,100%
+22/01/2018,"3 Saint Davids Grove, Artane, Dublin 5",Dublin,700000.0,No,Artane,Dublin 5,q4,100%
+25/01/2018,"74 Ardcollum Ave, Artane, Dublin 5",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+29/01/2018,"25 Gracefield Rd, Artane, Dublin 5",Dublin,425000.0,No,Artane,Dublin 5,q4,90%
+31/01/2018,"138 Pinebrook Rd, Artane, Dublin 5",Dublin,465000.0,No,Artane,Dublin 5,q4,100%
+02/02/2018,"17 St Davids, Whitethorn, Artane Dublin 5",Dublin,520000.0,No,Artane,Dublin 5,q4,100%
+07/02/2018,"60 St Davids Park, Artane, Dublin 5",Dublin,445000.0,No,Artane,Dublin 5,q4,100%
+09/02/2018,"145 Ardmore Dr, Artane, Dublin 5",Dublin,370000.0,No,Artane,Dublin 5,q4,80%
+21/02/2018,"190 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+23/02/2018,"54 Brookwood Ave, Artane, Dublin 5",Dublin,550000.0,No,Artane,Dublin 5,q4,100%
+26/02/2018,"7 Montrose Ave, Artane, Dublin 5",Dublin,332000.0,No,Artane,Dublin 5,q3,70%
+27/02/2018,"St John Of God Convent, Kilmore Rd, Artane",Dublin,545000.0,No,Artane,Dublin 5,q4,100%
+28/02/2018,"35 Lein Park, Artane, Dublin 5",Dublin,256000.0,No,Artane,Dublin 5,q2,40%
+13/03/2018,"5 Ardlea Rd, Artane, Dublin 5",Dublin,340000.0,No,Artane,Dublin 5,q3,70%
+14/03/2018,"31 Brookewood Abbey, Brookwood Grove, Artane",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+16/03/2018,"20 Mask Road, Artane, Dublin 5",Dublin,387000.0,No,Artane,Dublin 5,q4,90%
+19/03/2018,"Highfield, Mornington Park Artane, Dublin 5",Dublin,425000.0,No,Artane,Dublin 5,q4,90%
+23/03/2018,"55 Rioh Rd, Artane, Dublin 5",Dublin,450000.0,No,Artane,Dublin 5,q4,100%
+23/03/2018,"81 Brookfield, Artane, Dublin 15",Dublin,310000.0,Yes,Artane,Dublin 5,q3,60%
+27/03/2018,"116 Pinebrook Rd, Artane, Dublin 5",Dublin,425000.0,No,Artane,Dublin 5,q4,90%
+27/03/2018,"23 Brookwood Abbey, Brookwood Grove, Artane Dublin 5",Dublin,273000.0,No,Artane,Dublin 5,q2,40%
+28/03/2018,"1A Montrose Crescent, Artane, Dublin 5",Dublin,455000.0,No,Artane,Dublin 5,q4,100%
+28/03/2018,"6 Brookwood Grove, Artane, Dublin 5",Dublin,430000.0,No,Artane,Dublin 5,q4,100%
+06/04/2018,"5 Maryfield Ave, Artane, Dublin 5",Dublin,227000.0,No,Artane,Dublin 5,q1,30%
+10/04/2018,"182 Timber Mill, Kilmore Road, Artane",Dublin,229000.0,No,Artane,Dublin 5,q1,30%
+11/04/2018,"18 Brookwood Abbey, Brookwood Grove, Artane Dublin 5",Dublin,200000.0,No,Artane,Dublin 5,q1,20%
+16/04/2018,"28 Kilmore Dr, Artane, Dublin 5",Dublin,347500.0,No,Artane,Dublin 5,q3,70%
+18/04/2018,"37 Pinebrook Ave, Artane, Dublin 5",Dublin,340000.0,No,Artane,Dublin 5,q3,70%
+18/04/2018,"5 St. David'S Grove, Artane, Dublin 5",Dublin,594713.66,Yes,Artane,Dublin 5,q4,100%
+19/04/2018,"45 Kilmore Ave, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+27/04/2018,"43 Gracefield Ave, Artane, Dublin 5",Dublin,550000.0,No,Artane,Dublin 5,q4,100%
+30/04/2018,"12 Mc Auley Avenue, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+01/05/2018,"51 Brookwood Crescent, Artane, Dublin 5",Dublin,470000.0,No,Artane,Dublin 5,q4,100%
+03/05/2018,"2 Whitehorn Rd, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+03/05/2018,"27 Hazelwood Park, Artane, Dublin 5",Dublin,440000.0,No,Artane,Dublin 5,q4,100%
+04/05/2018,"35 Brookwood Ave, Artane, Dublin 5",Dublin,380000.0,No,Artane,Dublin 5,q4,80%
+04/05/2018,"7 Maryfield Woods, Artane, Dublin",Dublin,318000.0,No,Artane,Dublin 5,q3,60%
+14/05/2018,"177 Killester Ave, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+18/05/2018,"13 Brookwood Ave, Artane, Dublin 5",Dublin,507777.0,No,Artane,Dublin 5,q4,100%
+18/05/2018,"140 Block B, Timbermills, Artane",Dublin,226000.0,No,Artane,Dublin 5,q1,30%
+18/05/2018,"31 Mask Ave, Artane, Dublin 5",Dublin,321000.0,No,Artane,Dublin 5,q3,70%
+23/05/2018,"26 Mcauley Park, Artane, Dublin 5",Dublin,335000.0,No,Artane,Dublin 5,q3,70%
+23/05/2018,"98 Chanel Rd, Artane, Dublin 5",Dublin,385000.0,No,Artane,Dublin 5,q4,90%
+23/05/2018,"Apt 170 Timbermill, Kilmore Road, Artane",Dublin,201762.0,No,Artane,Dublin 5,q1,20%
+12/06/2018,"43 Kilmore Close, Artane, Dublin 5",Dublin,355000.0,No,Artane,Dublin 5,q3,80%
+18/06/2018,"12 Brookwood Hall, Brookwood Ave, Artane Dublin 5",Dublin,565000.0,No,Artane,Dublin 5,q4,100%
+18/06/2018,"13 Hazelwood Park, Artane, Dublin 5",Dublin,425000.0,No,Artane,Dublin 5,q4,90%
+22/06/2018,"2 Rosemount Ave, Artane, Dublin 5",Dublin,476000.0,No,Artane,Dublin 5,q4,100%
+22/06/2018,"39 Ardcollum Ave, Artane, Dublin 5",Dublin,414000.0,No,Artane,Dublin 5,q4,90%
+28/06/2018,"90 Beauvale Park, Artane, Dublin 5",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+04/07/2018,"134 Beauvale Park, Artane, Dublin 5",Dublin,310000.0,No,Artane,Dublin 5,q3,60%
+04/07/2018,"6 Mc Cauley Park, Artane, Dublin 5",Dublin,310000.0,No,Artane,Dublin 5,q3,60%
+11/07/2018,"31 Kilmore Close, Artane, Dublin 5",Dublin,422000.0,No,Artane,Dublin 5,q4,90%
+13/07/2018,"1 Mask Ave, Artane Dublin 5, Dublin",Dublin,425000.0,No,Artane,Dublin 5,q4,90%
+16/07/2018,"184 Ardlea Rd, Artane, Dublin 5",Dublin,315000.0,No,Artane,Dublin 5,q3,60%
+27/07/2018,"13 Gairdinilein, Artane, Dublin 5",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+01/08/2018,"42 Brookwood Ave, Artane, Dublin 5",Dublin,530000.0,No,Artane,Dublin 5,q4,100%
+03/08/2018,"119 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,259000.0,No,Artane,Dublin 5,q2,40%
+03/08/2018,"153 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,259000.0,No,Artane,Dublin 5,q2,40%
+03/08/2018,"158 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,259000.0,No,Artane,Dublin 5,q2,40%
+03/08/2018,"162 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,259000.0,No,Artane,Dublin 5,q2,40%
+03/08/2018,"165 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,259000.0,No,Artane,Dublin 5,q2,40%
+03/08/2018,"169 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,259000.0,No,Artane,Dublin 5,q2,40%
+03/08/2018,"172 Timbermill, Kylemore Road, Artane",Dublin,259000.0,No,Artane,Dublin 5,q2,40%
+03/08/2018,"175 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,259000.0,No,Artane,Dublin 5,q2,40%
+03/08/2018,"42 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,259000.0,No,Artane,Dublin 5,q2,40%
+03/08/2018,"48 Kilmore Ave, Artane, Dublin 5",Dublin,291666.0,No,Artane,Dublin 5,q2,50%
+08/08/2018,"43 Maryfield Crescent, Artane, Dublin 5",Dublin,360000.0,No,Artane,Dublin 5,q3,80%
+14/08/2018,"18 Danieli Dr, Artane, Dublin 5",Dublin,378000.0,No,Artane,Dublin 5,q4,80%
+16/08/2018,"111 Ardlea Rd, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+17/08/2018,"Apt 4, Ardcollum Ave, Artane Dublin 5",Dublin,95000.0,No,Artane,Dublin 5,q1,10%
+24/08/2018,"3 Ennel Avenue, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q3,60%
+24/08/2018,"37 Ennel Dr, Artane, Dublin 5",Dublin,360000.0,No,Artane,Dublin 5,q4,80%
+28/08/2018,"1 Timber Mills, Kilmore Road, Artane",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+29/08/2018,"217 Killester Ave, Artane, Dublin 5",Dublin,371000.0,No,Artane,Dublin 5,q4,80%
+31/08/2018,"135 Timber Mills, Kilmore Rd, Artane Dublin 5",Dublin,238000.0,No,Artane,Dublin 5,q2,30%
+03/09/2018,"61 Ardlea Rd, Artane, Dublin 5",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+04/09/2018,"42 Ascal Ribh, Artane, Dublin 5",Dublin,321000.0,No,Artane,Dublin 5,q3,70%
+07/09/2018,"86 Brookwood Ave, Artane, Dublin 5",Dublin,725000.0,No,Artane,Dublin 5,q4,100%
+14/09/2018,"21 Block C, Timbermills, Artane",Dublin,237500.0,No,Artane,Dublin 5,q2,30%
+21/09/2018,"20 Maryfield Crescent, Artane, Dublin 5",Dublin,416000.0,No,Artane,Dublin 5,q4,90%
+21/09/2018,"49 Ardbeg Park, Artane, Dublin 5",Dublin,385000.0,No,Artane,Dublin 5,q4,90%
+24/09/2018,"46 Ardmore Dr, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+26/09/2018,"3 Ardmore Close, Artane, Dublin 5",Dublin,390000.0,No,Artane,Dublin 5,q4,90%
+26/09/2018,"61 Timber Mills, Kilmore Rd, Artane",Dublin,201000.0,No,Artane,Dublin 5,q1,20%
+28/09/2018,"35 Craigford Ave, Artane, Dublin 5",Dublin,427000.0,No,Artane,Dublin 5,q4,90%
+05/10/2018,"2 Maryfield Ave, Artane, Dublin 5",Dublin,385000.0,No,Artane,Dublin 5,q4,90%
+05/10/2018,"57 Mc Auley Dr, Artane Dublin 5, Dublin",Dublin,285000.0,No,Artane,Dublin 5,q2,50%
+19/10/2018,"11 Maryfield Crescent, Artane, Dublin 5",Dublin,340000.0,No,Artane,Dublin 5,q3,70%
+23/10/2018,"7 Ardmore Crescent, Artane, Dublin 5",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+26/10/2018,"18 Mask Dr, Artane, Dublin 5",Dublin,340000.0,No,Artane,Dublin 5,q3,70%
+01/11/2018,"1 Hazelwood Park, Artane, Dublin 5",Dublin,440000.0,No,Artane,Dublin 5,q4,100%
+07/11/2018,"32 Ennel Park, Artane, Dublin 5",Dublin,302540.0,No,Artane,Dublin 5,q3,60%
+15/11/2018,"75 Ennel Drive, Artane, Dublin 5",Dublin,307000.0,No,Artane,Dublin 5,q3,60%
+22/11/2018,"4 Gracefield Ave, Artane, Dublin 5",Dublin,480100.0,No,Artane,Dublin 5,q4,100%
+26/11/2018,"21 Mask Crescent, Artane, Dublin City",Dublin,298000.0,No,Artane,Dublin 5,q3,60%
+29/11/2018,"120A Pinebrook Rd, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+29/11/2018,"14 Brookwood Park, Artane, Dublin 5",Dublin,594000.0,No,Artane,Dublin 5,q4,100%
+30/11/2018,"60 Timber Mills, Kilmore Rd, Artane Dublin 5",Dublin,242500.0,No,Artane,Dublin 5,q2,30%
+03/12/2018,"49 Mcauley Dr, Artane, Dublin 5",Dublin,250000.0,No,Artane,Dublin 5,q2,40%
+04/12/2018,"4 Timber Mills, Kilmore Rd, Artane Dublin 5",Dublin,232000.0,No,Artane,Dublin 5,q1,30%
+06/12/2018,"16 Craigford Ave, Artane, Dublin 5",Dublin,355000.0,No,Artane,Dublin 5,q3,80%
+10/12/2018,"65 Ardmore Dr, Artane, Dublin 5",Dublin,422000.0,No,Artane,Dublin 5,q4,90%
+12/12/2018,"107 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,40%
+12/12/2018,"120 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,40%
+12/12/2018,"149 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,40%
+12/12/2018,"154 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,40%
+12/12/2018,"155 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,40%
+12/12/2018,"156 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,50%
+12/12/2018,"157 Timbermill, Kylemore Road, Artane",Dublin,273500.0,No,Artane,Dublin 5,q2,50%
+12/12/2018,"161 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,50%
+12/12/2018,"176 Timber Mills, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,50%
+12/12/2018,"178 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,50%
+12/12/2018,"179 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,50%
+12/12/2018,"184 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,50%
+12/12/2018,"187 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,50%
+12/12/2018,"3 Mcauley Park, Artane, Dublin 5",Dublin,328000.0,No,Artane,Dublin 5,q3,70%
+12/12/2018,"73 Timber Mill, Kilmore Rd, Artane Dublin 5",Dublin,273500.0,No,Artane,Dublin 5,q2,50%
+13/12/2018,"21 Brookwood Abbey, Artane, Dublin 5",Dublin,245000.0,No,Artane,Dublin 5,q2,30%
+13/12/2018,"244 Ardmore Dr, Artane, Dublin 5",Dublin,338000.0,No,Artane,Dublin 5,q3,70%
+13/12/2018,"25 Brookwood Abbey, Brookwood Grove, Artane",Dublin,190000.0,No,Artane,Dublin 5,q1,20%
+13/12/2018,"26 Brookwood Abbey, Brookwood Grove, Artane Dublin 5",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+13/12/2018,"28 Brookwood Abbey, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+13/12/2018,"29 Brookwood Abbey, Brookwood Grove, Artane",Dublin,275000.0,No,Artane,Dublin 5,q2,50%
+13/12/2018,"32 Brookwood Abbey, Brookwood Grove, Artane Dublin 5",Dublin,260000.0,No,Artane,Dublin 5,q2,40%
+13/12/2018,"33 Brookwood Abbey, Artane, Dublin 5",Dublin,245000.0,No,Artane,Dublin 5,q2,30%
+13/12/2018,"34 Brookwood Abbey, Artane, Dublin 5",Dublin,260000.0,No,Artane,Dublin 5,q2,40%
+13/12/2018,"35 Brookwood Abbey, Artane, Dublin 5",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+13/12/2018,"37 Brookwood Abbey, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+13/12/2018,"38 Brookwood Abbey, Brookwood Grove, Artane",Dublin,240000.0,No,Artane,Dublin 5,q2,30%
+13/12/2018,"39 Brookwood Abbey, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+13/12/2018,"40 Brookwood Abbey, Artane, Dublin 5",Dublin,230000.0,No,Artane,Dublin 5,q1,30%
+14/12/2018,"49 Beauvale Park, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+14/12/2018,"86 Ardmore Dr, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+17/12/2018,"13 Mask Green, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+18/12/2018,"19 Chanel Rd, Artane, Dublin 5",Dublin,412000.0,No,Artane,Dublin 5,q4,90%
+18/12/2018,"5 Gracefield Ave, Artane, Dublin 5",Dublin,510000.0,No,Artane,Dublin 5,q4,100%
+20/12/2018,"17 Maryfield Dr, Artane, Dublin 5",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+21/12/2018,"6 Brookwood Road, Artane, Dublin 5",Dublin,475000.0,No,Artane,Dublin 5,q4,100%
+14/01/2019,"11 Brookwood Heights, Artane, Dublin 5",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+17/01/2019,"12 Ardmore Dr, Artane, Dublin 5",Dublin,351000.0,No,Artane,Dublin 5,q3,80%
+17/01/2019,"34 Marysfield Cresant, Artane, Dublin 5",Dublin,327500.0,No,Artane,Dublin 5,q3,70%
+18/01/2019,"17 Montrose Grove, Artane, Dublin 5",Dublin,370000.0,No,Artane,Dublin 5,q4,80%
+18/01/2019,"44 Beauvale Park, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+18/01/2019,"9 St Davids, Artane, Dublin 5",Dublin,485000.0,No,Artane,Dublin 5,q4,100%
+21/01/2019,"10 Ennel Ave, Artane, Dublin 5",Dublin,287000.0,No,Artane,Dublin 5,q2,50%
+22/01/2019,"10 Mcauley Ave, Artane, Dublin 5",Dublin,306500.0,No,Artane,Dublin 5,q3,60%
+25/01/2019,"96 Ardcollum Ave, Artane, Dublin 5",Dublin,340000.0,No,Artane,Dublin 5,q3,70%
+04/02/2019,"17 Whitethorn Rd, Artane, Dublin 5",Dublin,453000.0,No,Artane,Dublin 5,q4,100%
+04/02/2019,"27 Brookwood Rise, Artane, Dublin 5",Dublin,475000.0,No,Artane,Dublin 5,q4,100%
+08/02/2019,"156 Harmonstown Rd, Artane, Dublin 5",Dublin,330000.0,No,Artane,Dublin 5,q3,70%
+08/02/2019,"190 Ardmore Dr, Artane, Dublin 5",Dublin,390000.0,No,Artane,Dublin 5,q4,90%
+13/02/2019,"51 Beauvale Park, Artane, Dublin 5",Dublin,265000.0,No,Artane,Dublin 5,q2,40%
+21/02/2019,"116 Chanel Rd, Artane, Dublin 5",Dublin,370000.0,No,Artane,Dublin 5,q4,80%
+22/02/2019,"2 St Davids Grove, Artane, Dublin 5",Dublin,710000.0,No,Artane,Dublin 5,q4,100%
+27/02/2019,"27 Mask Dr, Artane, Dublin 5",Dublin,318000.0,No,Artane,Dublin 5,q3,60%
+27/02/2019,"33 Ardcollum Ave, Artane, Dublin 5",Dublin,317500.0,No,Artane,Dublin 5,q3,60%
+01/03/2019,"15 Westpark, Artane, Dublin 5",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+08/03/2019,"Apt 12 Newlands Court, Artane, Dublin 5",Dublin,230509.88,No,Artane,Dublin 5,q1,30%
+11/03/2019,"12 Whitethorn Crescent, Artane, Dublin 5",Dublin,441000.0,No,Artane,Dublin 5,q4,100%
+12/03/2019,"9 Eagle Park, Artane, Dublin 5",Dublin,392000.0,No,Artane,Dublin 5,q4,90%
+13/03/2019,"27 Ardcollum Ave, Artane, Dublin 5",Dublin,370000.0,No,Artane,Dublin 5,q4,80%
+13/03/2019,"27 Mc Avley Rd, Artane, Dublin 5",Dublin,287500.0,No,Artane,Dublin 5,q2,50%
+13/03/2019,"56 Ardlea Rd, Artane, Dublin",Dublin,326000.0,No,Artane,Dublin 5,q3,70%
+15/03/2019,"7 Ardbeg Rd, Artane, Dublin 5",Dublin,320000.0,No,Artane,Dublin 5,q3,60%
+25/03/2019,"12 Ardbeg Rd, Artane, Dublin 5",Dublin,315000.0,No,Artane,Dublin 5,q3,60%
+25/03/2019,"44 Montrose Crescent, Artane, Dublin 5",Dublin,357500.0,No,Artane,Dublin 5,q3,80%
+26/03/2019,"74 Ardbeg Park, Artane, Dublin 5",Dublin,420000.0,No,Artane,Dublin 5,q4,90%
+27/03/2019,"122 Pinebrook Rd, Artane, Dublin 5",Dublin,415000.0,No,Artane,Dublin 5,q4,90%
+28/03/2019,"10A Mcauley Dr, Artane, Dublin",Dublin,315000.0,No,Artane,Dublin 5,q3,60%
+29/03/2019,"74 Ardlea Rd, Artane, Dublin 5",Dublin,550000.0,No,Artane,Dublin 5,q4,100%
+05/04/2019,"35 Harmonstown Rd, Artane, Dublin 5",Dublin,321000.0,No,Artane,Dublin 5,q3,70%
+05/04/2019,"8 Measc Dr, Artane, Dublin",Dublin,302000.0,No,Artane,Dublin 5,q3,60%
+11/04/2019,"21 Brookwood Rise, Artane, Dublin 5",Dublin,437500.0,No,Artane,Dublin 5,q4,100%
+24/04/2019,"98A Pinebrook Dr, Artane, Dublin 5",Dublin,282000.0,No,Artane,Dublin 5,q2,50%
+25/04/2019,"93 Chanel Rd, Artane, Dublin 5",Dublin,403000.0,No,Artane,Dublin 5,q4,90%
+29/04/2019,"14 Mcauley Ave, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+01/05/2019,"1 Beechlawn Close, Artane, Dublin 5",Dublin,350000.0,No,Artane,Dublin 5,q3,80%
+02/05/2019,"47 Kilmore Close, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+03/05/2019,"24 Mcauley Dr, Artane, Dublin 5",Dublin,295000.0,No,Artane,Dublin 5,q3,60%
+09/05/2019,"52 Timbermills, Artane, Dublin 5",Dublin,278000.0,No,Artane,Dublin 5,q2,50%
+17/05/2019,"53 Whitethorn Rd, Artane, Dublin 5",Dublin,452000.0,No,Artane,Dublin 5,q4,100%
+17/05/2019,"7A Danieli Dr, Artane, Dublin 5",Dublin,505000.0,No,Artane,Dublin 5,q4,100%
+21/05/2019,"12 Whitethorn Rd, Artane Dublin 5, Dublin",Dublin,322000.0,No,Artane,Dublin 5,q3,70%
+05/06/2019,"7 Chanel Rd, Artane, Dublin 5",Dublin,460000.0,No,Artane,Dublin 5,q4,100%
+06/06/2019,"62A Castlekevin Rd, Artane, Dublin 5",Dublin,282000.0,No,Artane,Dublin 5,q2,50%
+07/06/2019,"1 Brookwood Crescent, Artane, Dublin 5",Dublin,535000.0,No,Artane,Dublin 5,q4,100%
+14/06/2019,"15A Beechlawn Green, Artane, Dublin 5",Dublin,392000.0,No,Artane,Dublin 5,q4,90%
+14/06/2019,"19 Maryfield Crescent, Artane, Dublin 5",Dublin,400000.0,No,Artane,Dublin 5,q4,90%
+24/06/2019,"75 Chanel Road, Artane, Dublin 5",Dublin,365000.0,No,Artane,Dublin 5,q4,80%
+27/06/2019,"64 Ardlea Rd, Artane, Dublin 5",Dublin,326000.0,No,Artane,Dublin 5,q3,70%
+28/06/2019,"71 Brookwood Ave, Artane, Dublin 5",Dublin,390000.0,No,Artane,Dublin 5,q4,90%
+05/07/2019,"59 Pinebrook Rise, Artane, Dublin 5",Dublin,465000.0,No,Artane,Dublin 5,q4,100%
+05/07/2019,"95 Pinebrook Dr, Artane, Dublin 5",Dublin,395000.0,No,Artane,Dublin 5,q4,90%
+09/07/2019,"14 Brookwood Crescent, Artane, Dublin 5",Dublin,450000.0,No,Artane,Dublin 5,q4,100%
+09/07/2019,"49 Brookwood Heights, Artane, Dublin 5",Dublin,495000.0,No,Artane,Dublin 5,q4,100%
+12/07/2019,"106 Pinebrook Grove, Artane, Dublin 5",Dublin,442000.0,No,Artane,Dublin 5,q4,100%
+18/07/2019,"1 St Brendans Park, Artane, Dublin 5",Dublin,333000.0,No,Artane,Dublin 5,q3,70%
+19/07/2019,"30 St Brigid'S Grove, Artane, Dublin 5",Dublin,488000.0,No,Artane,Dublin 5,q4,100%
+22/07/2019,"30 Ardmore Crescent, Artane, Dublin 5",Dublin,385000.0,No,Artane,Dublin 5,q4,90%
+23/07/2019,"1 Ardlea Rd, Artane, Dublin 5",Dublin,348000.0,No,Artane,Dublin 5,q3,80%
+26/07/2019,"47 Chanel Rd, Artane, Dublin 5",Dublin,345000.0,No,Artane,Dublin 5,q3,70%
+01/08/2019,"80 Gracefield Ave, Artane, Dublin 5",Dublin,480000.0,No,Artane,Dublin 5,q4,100%
+08/08/2019,"33 St Johns Court, Artane, Dublin 5",Dublin,335000.0,No,Artane,Dublin 5,q3,70%
+16/08/2019,"14 Danieli Rd, Artane, Dublin 5",Dublin,572000.0,No,Artane,Dublin 5,q4,100%
+20/08/2019,"9 Brookwood Abbey, Brookwood Grove, Artane Dublin 5",Dublin,210000.0,No,Artane,Dublin 5,q1,20%
+22/08/2019,"39 Whitethorn Park, Artane, Dublin 5",Dublin,428000.0,No,Artane,Dublin 5,q4,100%
+23/08/2019,"11 Ardmore Crescent, Artane, Dublin 5",Dublin,385000.0,No,Artane,Dublin 5,q4,90%
+02/09/2019,"48 Bothar Lein, Artane, Dublin 5",Dublin,374950.0,No,Artane,Dublin 5,q4,80%
+04/09/2019,"2 The Mews, Brookwood Crescent, Artane Dublin 5",Dublin,520000.0,No,Artane,Dublin 5,q4,100%
+12/09/2019,"100 Kilmore Rd, Artane, Dublin 5",Dublin,405000.0,No,Artane,Dublin 5,q4,90%
+12/09/2019,"44 Ardlea Rd, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+18/09/2019,"31 Gracefield Rd, Artane, Dublin 5",Dublin,425000.0,No,Artane,Dublin 5,q4,90%
+18/09/2019,"45 Ribh Avenue, Artane, Dublin 5",Dublin,325000.0,No,Artane,Dublin 5,q3,70%
+07/10/2019,"75 Rosemount Ave, Artane, Dublin 5",Dublin,501000.0,No,Artane,Dublin 5,q4,100%
+21/10/2019,"137 Harmonstown Rd, Artane, Dublin 5",Dublin,353000.0,No,Artane,Dublin 5,q3,80%

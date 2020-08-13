@@ -1,0 +1,567 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+25/01/2010,"45 Harolds Cross Cottages, Harolds Cross",Dublin,266000.0,No,Harolds Cross,Dublin 6W,q2,30%
+28/01/2010,"12 Clareville Road, Harolds Cross, Dublin 6W",Dublin,710000.0,No,Harolds Cross,Dublin 6W,q4,100%
+28/01/2010,"16 Larkfield Park, Harolds Cross, Dublin 6W",Dublin,325000.0,No,Harolds Cross,Dublin 6W,q2,50%
+04/02/2010,"11 Fitzgerald Street, Harolds Cross",Dublin,323000.0,No,Harolds Cross,Dublin 6W,q2,50%
+05/02/2010,"116 Harolds Cross Cottages, Dublin 6",Dublin,230000.0,No,Harolds Cross,Dublin 6W,q1,30%
+23/02/2010,"8 Mount Argus Green, Harolds Cross",Dublin,346000.0,No,Harolds Cross,Dublin 6W,q3,60%
+04/03/2010,"17 Harolds Cross Road, Harolds Cross",Dublin,205000.0,No,Harolds Cross,Dublin 6W,q1,20%
+18/03/2010,"6 Parnell Avenue, Harolds Cross, Dublin 12",Dublin,265000.0,No,Harolds Cross,Dublin 6W,q2,30%
+19/03/2010,"15 Leinster Park, Harolds Cross",Dublin,490000.0,No,Harolds Cross,Dublin 6W,q4,80%
+31/03/2010,"56 Harolds Cross Cottages, Harolds Cross",Dublin,245000.0,No,Harolds Cross,Dublin 6W,q1,30%
+15/04/2010,"20 Mount Drummond Avenue, Harolds Cross",Dublin,270000.0,No,Harolds Cross,Dublin 6W,q2,30%
+23/04/2010,"37 Laurence Court, Mount Argos, Harolds Cross",Dublin,235000.0,No,Harolds Cross,Dublin 6W,q1,30%
+05/05/2010,"173 Harolds Cross Road, Dublin 6W",Dublin,325000.0,No,Harolds Cross,Dublin 6W,q2,50%
+14/05/2010,"23 Harolds Cross Cottages, Harolds Cross",Dublin,231000.0,No,Harolds Cross,Dublin 6W,q1,30%
+10/06/2010,"21 Larkfield Grove, Harolds Cross",Dublin,315000.0,No,Harolds Cross,Dublin 6W,q2,50%
+11/06/2010,"13 Adrian Avenue, Harolds Cross, Dublin 6W",Dublin,448000.0,No,Harolds Cross,Dublin 6W,q3,80%
+15/06/2010,"57 Mount Drummond Square, Harolds Cross, Dublin 6W",Dublin,288500.0,No,Harolds Cross,Dublin 6W,q2,40%
+21/06/2010,"50 Larkfield Gardens, Harolds Cross, Dublin 6W",Dublin,410000.0,No,Harolds Cross,Dublin 6W,q3,70%
+24/06/2010,"37 Larkfield Avenue, Harolds Cross",Dublin,330000.0,No,Harolds Cross,Dublin 6W,q2,50%
+29/06/2010,"25 Ashworth Place, Harolds Cross, Dublin",Dublin,307500.0,No,Harolds Cross,Dublin 6W,q2,50%
+22/07/2010,"25  Kenilworth Lane, Harolds Cross, Dublin 6",Dublin,462000.0,No,Harolds Cross,Dublin 6W,q3,80%
+13/08/2010,"32 Larkfield Grove, Harolds Cross",Dublin,368000.0,No,Harolds Cross,Dublin 6W,q3,60%
+19/08/2010,"9 Arbutus Avenue, Harolds Cross",Dublin,370000.0,No,Harolds Cross,Dublin 6W,q3,60%
+30/08/2010,"8 Westfield Road, Harolds Cross",Dublin,640000.0,No,Harolds Cross,Dublin 6W,q4,90%
+09/09/2010,"19 Fitzgerald Street, Harolds Cross",Dublin,300000.0,No,Harolds Cross,Dublin 6W,q2,50%
+28/09/2010,"8 Ashworth Place, Harolds Cross, Dublin 6",Dublin,320000.0,No,Harolds Cross,Dublin 6W,q2,50%
+04/10/2010,"6 Casimir Road, Harolds Cross",Dublin,640000.0,No,Harolds Cross,Dublin 6W,q4,90%
+29/10/2010,"50 A Larkfield Avenue, Harolds Cross, Dublin 6W",Dublin,555000.0,No,Harolds Cross,Dublin 6W,q4,90%
+29/11/2010,"50 Gandon Close, Harolds Cross",Dublin,62500.0,No,Harolds Cross,Dublin 6W,q1,10%
+03/12/2010,"16 Arbutus Avenue, Harolds Cross",Dublin,320000.0,No,Harolds Cross,Dublin 6W,q2,50%
+23/12/2010,"13 Mount Argus Square, Harolds Cross",Dublin,270000.0,No,Harolds Cross,Dublin 6W,q2,30%
+11/01/2011,"17 Fitzgearld Street, Harolds Cross, Dublin 8",Dublin,217000.0,No,Harolds Cross,Dublin 6W,q1,20%
+21/02/2011,"6 Mountain View Court, Harolds Cross",Dublin,110000.0,No,Harolds Cross,Dublin 6W,q1,10%
+04/03/2011,"14 Priory Road, Harolds Cross",Dublin,220000.0,No,Harolds Cross,Dublin 6W,q1,20%
+31/05/2011,"16 Casimir Road, Harolds Cross",Dublin,650000.0,No,Harolds Cross,Dublin 6W,q4,90%
+27/06/2011,"204 Harolds Cross Rd, Dublin 6",Dublin,125000.0,No,Harolds Cross,Dublin 6W,q1,10%
+20/07/2011,"7 Parnell Road, Harolds Cross, Dublin",Dublin,205000.0,No,Harolds Cross,Dublin 6W,q1,20%
+28/07/2011,"38 Priory Road, Harolds Cross",Dublin,330000.0,No,Harolds Cross,Dublin 6W,q2,50%
+02/08/2011,"27 Priory Road, Harolds Cross",Dublin,330000.0,No,Harolds Cross,Dublin 6W,q2,50%
+30/08/2011,"23 Casimir Avenue, Harolds Cross",Dublin,590000.0,No,Harolds Cross,Dublin 6W,q4,90%
+02/09/2011,"5 Emmet Street, Harolds Cross, Dublin 6",Dublin,165000.0,No,Harolds Cross,Dublin 6W,q1,20%
+29/09/2011,"Apartment 104, Gandon Close, Harolds Cross",Dublin,88000.0,No,Harolds Cross,Dublin 6W,q1,10%
+04/10/2011,"14 Swanward Court, Harolds Cross, Dublin 12",Dublin,230000.0,No,Harolds Cross,Dublin 6W,q1,30%
+16/11/2011,"3 Waverley Terrace, Harolds Cross, Dublin 6",Dublin,439000.0,No,Harolds Cross,Dublin 6W,q3,80%
+16/11/2011,"8 Casimir Avenue, Harolds Cross, Dublin 6",Dublin,560000.0,No,Harolds Cross,Dublin 6W,q4,90%
+16/11/2011,"Number 74 Leinster Park, Harolds Cross",Dublin,430000.0,No,Harolds Cross,Dublin 6W,q3,70%
+17/11/2011,"35 Harolds Cross Road, Dublin6W, Dublin",Dublin,173000.0,No,Harolds Cross,Dublin 6W,q1,20%
+24/11/2011,"4 Ashworth Place, Harolds Cross, Dublin 6",Dublin,60000.0,No,Harolds Cross,Dublin 6W,q1,10%
+25/11/2011,"The 'Inn On The Park', & 174 -180 Harolds Cross Road",Dublin,225000.0,No,Harolds Cross,Dublin 6W,q1,30%
+02/12/2011,"27 Larkfield Rd, Harolds Cross, Dublin",Dublin,280000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/12/2011,"5 Ashworth Place, Harolds Cross",Dublin,192000.0,No,Harolds Cross,Dublin 6W,q1,20%
+08/12/2011,"6 Mount Argus Close, Harolds Cross, Dublin 6W",Dublin,294500.0,No,Harolds Cross,Dublin 6W,q2,50%
+17/02/2012,"The Bungalow, Sion Hill Ave, Harolds Cross",Dublin,365000.0,No,Harolds Cross,Dublin 6W,q3,60%
+13/03/2012,"33 Darley Street, Harolds Cross, Dublin 6",Dublin,225000.0,No,Harolds Cross,Dublin 6W,q1,30%
+30/03/2012,"76 Larkfield Garden, Harolds Cross, Dublin 6",Dublin,180000.0,No,Harolds Cross,Dublin 6W,q1,20%
+16/04/2012,"276-278 Harolds Cross Road, Dublin 6",Dublin,735000.0,No,Harolds Cross,Dublin 6W,q4,100%
+19/04/2012,"27 Kimmage Road Lower, Harolds Cross",Dublin,286000.0,No,Harolds Cross,Dublin 6W,q2,40%
+03/05/2012,"47 Clareville Road, Harolds Cross",Dublin,311000.0,No,Harolds Cross,Dublin 6W,q2,50%
+11/06/2012,"27 Lawerence Court, Mount Argus Road, Harolds Cross",Dublin,208500.0,No,Harolds Cross,Dublin 6W,q1,20%
+15/06/2012,"1 Mount Argus View, Harolds Cross",Dublin,310000.0,No,Harolds Cross,Dublin 6W,q2,50%
+18/06/2012,"24 Mount Drummond Avenue, Harolds Cross",Dublin,195000.0,No,Harolds Cross,Dublin 6W,q1,20%
+13/07/2012,"11 Parnell Court, Parnell Avenue, Harolds Cross",Dublin,225000.0,No,Harolds Cross,Dublin 6W,q1,30%
+16/07/2012,"13 Larkfield Grove, Harolds Cross",Dublin,245000.0,No,Harolds Cross,Dublin 6W,q1,30%
+31/07/2012,"Saint Clares Terrace, Harolds Cross, Dublin 6W",Dublin,275000.0,No,Harolds Cross,Dublin 6W,q2,30%
+15/08/2012,"10 Parkview Avenue, Harolds Cross",Dublin,385000.0,No,Harolds Cross,Dublin 6W,q3,70%
+06/09/2012,"3 Laurence Court, Harolds Cross",Dublin,165000.0,No,Harolds Cross,Dublin 6W,q1,20%
+06/09/2012,"4 Casimir Court, Harolds Cross",Dublin,195000.0,No,Harolds Cross,Dublin 6W,q1,20%
+14/09/2012,"51 Lower Kimmage Road, Harolds Cross",Dublin,695000.0,No,Harolds Cross,Dublin 6W,q4,100%
+17/09/2012,"13 Larkfield Gardens, Harolds Cross",Dublin,190000.0,No,Harolds Cross,Dublin 6W,q1,20%
+05/11/2012,"No.7, Armstrong Street, Harolds Cross",Dublin,162500.0,No,Harolds Cross,Dublin 6W,q1,20%
+07/11/2012,"23 Kenilworth Park, Harolds Cross",Dublin,335000.0,No,Harolds Cross,Dublin 6W,q2,50%
+21/11/2012,"46 Westfield Road, Harolds Cross",Dublin,580000.0,No,Harolds Cross,Dublin 6W,q4,90%
+27/11/2012,"11 Armstrong Street, Harolds Cross",Dublin,179000.0,No,Harolds Cross,Dublin 6W,q1,20%
+29/11/2012,"1 Armstrong Street, Harolds Cross, Dublin 6",Dublin,149000.0,No,Harolds Cross,Dublin 6W,q1,10%
+07/12/2012,"No. 10 Maple Drive, The Cloisters  Mount Tallant Avenue, Harolds Cross",Dublin,336000.0,No,Harolds Cross,Dublin 6W,q3,60%
+17/12/2012,"15 Harold'S Court Flats, Mountainview Avenue, Harolds Cross",Dublin,95000.0,No,Harolds Cross,Dublin 6W,q1,10%
+18/12/2012,"19 Gandon Close, Harolds Cross, Dublin 6",Dublin,91000.0,No,Harolds Cross,Dublin 6W,q1,10%
+18/12/2012,"50 Larkfield Grove, Harolds Cross, Dublin 6W",Dublin,377000.0,No,Harolds Cross,Dublin 6W,q3,60%
+04/01/2013,"23 Mount Drummond Square, Harolds Cross, Dublin 6W",Dublin,150000.0,No,Harolds Cross,Dublin 6W,q1,10%
+07/01/2013,"90 Harolds Cross Road, Harolds Cross, Dublin 6",Dublin,185000.0,No,Harolds Cross,Dublin 6W,q1,20%
+14/02/2013,"41 Leinster Park, Harolds Cross",Dublin,440000.0,No,Harolds Cross,Dublin 6W,q3,80%
+08/03/2013,"32A Clareville Road, Harolds Cross, Dublin 6W",Dublin,225000.0,No,Harolds Cross,Dublin 6W,q1,30%
+22/03/2013,"90 Harold'S Cross Cottages, Harolds Cross",Dublin,102000.0,No,Harolds Cross,Dublin 6W,q1,10%
+10/04/2013,"37 Kenilworth Park, Harolds Cross",Dublin,435000.0,No,Harolds Cross,Dublin 6W,q3,70%
+16/04/2013,"4 Greenmount Avenue, Harolds Cross",Dublin,250000.0,No,Harolds Cross,Dublin 6W,q1,30%
+18/04/2013,"16 Westfield Road, Harolds Cross, Dublin6W",Dublin,555000.0,No,Harolds Cross,Dublin 6W,q4,90%
+24/04/2013,"1 Larkfield Grove, Harolds Cross",Dublin,252000.0,No,Harolds Cross,Dublin 6W,q2,30%
+03/05/2013,"19 Harolds Cross, Harolds Cross, Dublin 6",Dublin,110000.0,No,Harolds Cross,Dublin 6W,q1,10%
+16/05/2013,"67 Leinster Park, Harolds Cross, Dublin 6W",Dublin,467000.0,No,Harolds Cross,Dublin 6W,q3,80%
+21/05/2013,"48 Harold'S Cross Cottages, Harolds Cross, Dublin 6.",Dublin,160000.0,No,Harolds Cross,Dublin 6W,q1,10%
+21/06/2013,"11 Greenmount Lane, Harolds Cross",Dublin,195000.0,No,Harolds Cross,Dublin 6W,q1,20%
+25/06/2013,"164 Lower Kimmage Road, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/07/2013,"50 Shanid Road, Harolds Cross, Dublin 6W",Dublin,365000.0,No,Harolds Cross,Dublin 6W,q3,60%
+11/07/2013,"27 Kenilworth Lane West, Harolds Cross, Dublin 6W",Dublin,407500.0,No,Harolds Cross,Dublin 6W,q3,70%
+17/07/2013,"29 Mount Argus Crescent, Harolds Cross, Dublin 6W",Dublin,195000.0,No,Harolds Cross,Dublin 6W,q1,20%
+18/07/2013,"7 Leinster Park, Harolds Cross Road",Dublin,515000.0,No,Harolds Cross,Dublin 6W,q4,80%
+23/07/2013,"60 Clareville Road, Harolds Cross, Dublin 6W",Dublin,328000.0,No,Harolds Cross,Dublin 6W,q2,50%
+02/08/2013,"44 Kenilworth Park, Harolds Cross",Dublin,465000.0,No,Harolds Cross,Dublin 6W,q3,80%
+07/08/2013,"7 Wilfred Terrace, Wilfred Road, Harolds Cross",Dublin,405000.0,No,Harolds Cross,Dublin 6W,q3,70%
+21/08/2013,"7 Mount Drummond Square, Harolds Cross",Dublin,210000.0,No,Harolds Cross,Dublin 6W,q1,20%
+03/09/2013,"39 Mount  Drummond Street, Harolds Cross",Dublin,228000.0,No,Harolds Cross,Dublin 6W,q1,30%
+05/09/2013,"18 Parnell Road, Harolds Cross",Dublin,375000.0,No,Harolds Cross,Dublin 6W,q3,60%
+06/09/2013,"13 Mount Argus Green, Harolds Cross, Dublin 6W",Dublin,343000.0,No,Harolds Cross,Dublin 6W,q3,60%
+27/09/2013,"14 Darley Street, Harolds Cross, Dublin",Dublin,185000.0,No,Harolds Cross,Dublin 6W,q1,20%
+21/10/2013,"257 Harolds Cross Road, Dublin 6 W",Dublin,695000.0,No,Harolds Cross,Dublin 6W,q4,100%
+22/10/2013,"7  Parnell Road, Harolds Cross",Dublin,470000.0,No,Harolds Cross,Dublin 6W,q3,80%
+23/10/2013,"2 Boyne Court, Harolds Cross",Dublin,112000.0,No,Harolds Cross,Dublin 6W,q1,10%
+25/10/2013,"13 Fitzgerald Street, Harolds Cross",Dublin,226000.0,No,Harolds Cross,Dublin 6W,q1,30%
+25/10/2013,"73 Leinster Park, Harolds Cross, Dublin 6 W",Dublin,475000.0,No,Harolds Cross,Dublin 6W,q4,80%
+18/11/2013,"315 Harolds Cross Road, Harolds Cross, Dublin 6",Dublin,415000.0,No,Harolds Cross,Dublin 6W,q3,70%
+20/11/2013,"7 Mount Argus Close, Harolds Cross",Dublin,322000.0,No,Harolds Cross,Dublin 6W,q2,50%
+22/11/2013,"38 Parnell Road, Harolds Cross",Dublin,282250.0,No,Harolds Cross,Dublin 6W,q2,40%
+04/12/2013,"8 Fitzpatrick Cottages, Harolds Cross, Dublin 6W",Dublin,118000.0,No,Harolds Cross,Dublin 6W,q1,10%
+04/12/2013,"90 Harolds Cross Cottages, Dublin 6W",Dublin,225000.0,No,Harolds Cross,Dublin 6W,q1,30%
+06/12/2013,"105 Larkfield Grove, Harolds Cross, Dublin 6W",Dublin,273000.0,No,Harolds Cross,Dublin 6W,q2,30%
+09/12/2013,"68 Larkfield Gardens, Harolds Cross, Dublin 6W",Dublin,325000.0,No,Harolds Cross,Dublin 6W,q2,50%
+10/12/2013,"370 Harolds Cross Rd, Harolds Cross, Dublin 6W",Dublin,870000.0,No,Harolds Cross,Dublin 6W,q4,100%
+10/01/2014,"7 Boyne Court, Harolds Cross, Dublin 6W",Dublin,112000.0,No,Harolds Cross,Dublin 6W,q1,10%
+17/01/2014,"Apartment 1, 300 Harold'S Cross Road, Harolds Cross",Dublin,158333.0,No,Harolds Cross,Dublin 6W,q1,10%
+17/01/2014,"Apartment 2, 300 Harolds Cross Road, Harolds Cross",Dublin,158333.0,No,Harolds Cross,Dublin 6W,q1,10%
+17/01/2014,"Apartment 3, 300 Harolds Cross Road, Harolds Cross",Dublin,158333.0,No,Harolds Cross,Dublin 6W,q1,10%
+22/01/2014,"12 Armstrong St, Harolds Cross, Dublin 6",Dublin,135000.0,No,Harolds Cross,Dublin 6W,q1,10%
+29/01/2014,"104 Larkfield Gdns, Harolds Cross, Dublin 6W",Dublin,320000.0,No,Harolds Cross,Dublin 6W,q2,50%
+11/02/2014,"3 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,147000.0,No,Harolds Cross,Dublin 6W,q1,10%
+27/02/2014,"74 Shanid Rd, Harolds Cross, Dublin 6W",Dublin,655000.0,No,Harolds Cross,Dublin 6W,q4,100%
+28/02/2014,"15 Mount Argus Grove, Harolds Cross, Dublin 6W",Dublin,352000.0,No,Harolds Cross,Dublin 6W,q3,60%
+28/02/2014,"22 Casimir Ave, Harolds Cross, Dublin 6W",Dublin,775000.0,No,Harolds Cross,Dublin 6W,q4,100%
+05/03/2014,"17 Priory Rd, Harolds Cross, Dublin 6",Dublin,292500.0,No,Harolds Cross,Dublin 6W,q2,50%
+06/03/2014,"14 Shanid Rd, Harolds Cross, Dublin 6W",Dublin,425000.0,No,Harolds Cross,Dublin 6W,q3,70%
+11/03/2014,"2 Mountain View Ave, Harolds Cross, Dublin 6W",Dublin,270000.0,No,Harolds Cross,Dublin 6W,q2,30%
+12/03/2014,"20 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,523000.0,No,Harolds Cross,Dublin 6W,q4,80%
+12/03/2014,"9 Mount Argus Crescent, Harolds Cross, Dublin 6",Dublin,305000.0,No,Harolds Cross,Dublin 6W,q2,50%
+21/03/2014,"376 Harolds Cross Rd, Dublin 6W, Dublin",Dublin,600000.0,No,Harolds Cross,Dublin 6W,q4,90%
+03/04/2014,"38 Larkfield Park, Harolds Cross, Dublin 6W",Dublin,302000.0,No,Harolds Cross,Dublin 6W,q2,50%
+28/04/2014,"410 Harolds Cross Rd, Harolds Cross, Dublin 6W",Dublin,405000.0,No,Harolds Cross,Dublin 6W,q3,70%
+15/05/2014,"19 Drummond Place, Harolds Cross, Dublin",Dublin,261000.0,No,Harolds Cross,Dublin 6W,q2,30%
+16/05/2014,"6 Church Park Court, Harolds Cross, Dublin 6W",Dublin,260000.0,No,Harolds Cross,Dublin 6W,q2,30%
+19/05/2014,"20 Armstrong St, Harolds Cross, Dublin 6",Dublin,226000.0,No,Harolds Cross,Dublin 6W,q1,30%
+30/05/2014,"1 Smiths Cottage, Harolds Cross Rd, Dublin 6",Dublin,87500.0,No,Harolds Cross,Dublin 6W,q1,10%
+30/05/2014,"1 Smiths Cottage, Harolds Cross Rd, Dublin 6",Dublin,45000.0,No,Harolds Cross,Dublin 6W,q1,10%
+30/05/2014,"6 Greenfield Place, Harolds Cross, Dublin 6",Dublin,280000.0,No,Harolds Cross,Dublin 6W,q2,40%
+11/06/2014,"22 Parkview Mansions, Harolds Cross, Dublin 6W",Dublin,120000.0,No,Harolds Cross,Dublin 6W,q1,10%
+11/06/2014,"28 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,385000.0,No,Harolds Cross,Dublin 6W,q3,70%
+23/06/2014,"20 Adrian Ave, Harolds Cross, Dublin 6W",Dublin,465000.0,No,Harolds Cross,Dublin 6W,q3,80%
+23/06/2014,"63 Mount Drummond Square, Harolds Cross, Dublin 6",Dublin,335000.0,No,Harolds Cross,Dublin 6W,q3,60%
+26/06/2014,"378 Harolds Cross Rd, Dublin 6W, Dublin 6",Dublin,630000.0,No,Harolds Cross,Dublin 6W,q4,90%
+27/06/2014,"64 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,307000.0,No,Harolds Cross,Dublin 6W,q2,50%
+04/07/2014,"4 Greenmount Sq, Harolds Cross, Dublin 12",Dublin,160000.0,No,Harolds Cross,Dublin 6W,q1,20%
+07/07/2014,"7 Greenfield Plsce, Harolds Cross, Dublin",Dublin,400000.0,No,Harolds Cross,Dublin 6W,q3,70%
+10/07/2014,"78 Lower Kimmage Rd, Harolds Cross, Dublin 6W",Dublin,705000.0,No,Harolds Cross,Dublin 6W,q4,100%
+15/07/2014,"17 Mountain View Avenue, Harolds Cross, Dublin 6",Dublin,218000.0,No,Harolds Cross,Dublin 6W,q1,20%
+01/08/2014,"72 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,345000.0,No,Harolds Cross,Dublin 6W,q3,60%
+08/08/2014,"91 Harolds Cross Road, Dublin 6W",Dublin,770000.0,No,Harolds Cross,Dublin 6W,q4,100%
+11/08/2014,"13 Priory Rd, Harolds Cross, Dublin 6W",Dublin,340000.0,No,Harolds Cross,Dublin 6W,q3,60%
+15/08/2014,"58 Shanid Rd, Harolds Cross, Dublin 6W",Dublin,515000.0,No,Harolds Cross,Dublin 6W,q4,80%
+29/08/2014,"2 Claireville Road, Harolds Cross, Dublin 6W",Dublin,687000.0,No,Harolds Cross,Dublin 6W,q4,100%
+04/09/2014,"4 Greenmount Court, Harolds Cross, Dublin 6",Dublin,232000.0,No,Harolds Cross,Dublin 6W,q1,30%
+09/09/2014,"18  Drummond Place, Harolds Cross",Dublin,331000.0,No,Harolds Cross,Dublin 6W,q2,50%
+12/09/2014,"30 Laurence Court, Mount Argus Rd, Harolds Cross Dublin 6W",Dublin,188000.0,No,Harolds Cross,Dublin 6W,q1,20%
+15/09/2014,"8 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,435000.0,No,Harolds Cross,Dublin 6W,q3,70%
+16/09/2014,"3 Larkfield Park, Harolds Cross, Dublin 6W",Dublin,295000.0,No,Harolds Cross,Dublin 6W,q2,50%
+01/10/2014,"6 Kenilworth Manor, Harolds Cross, Dublin 6",Dublin,310000.0,No,Harolds Cross,Dublin 6W,q2,50%
+03/10/2014,"31 Gandon Close, Harolds Cross, Dublin 6W",Dublin,171000.0,No,Harolds Cross,Dublin 6W,q1,20%
+10/10/2014,"4 Kimmage Rd Lower, Harolds Cross, Dublin 6W",Dublin,380000.0,No,Harolds Cross,Dublin 6W,q3,60%
+24/10/2014,"16 Mount Argus Park, Harolds Cross, Dublin 6",Dublin,345000.0,No,Harolds Cross,Dublin 6W,q3,60%
+24/10/2014,"40 Harolds Cross Cottages, Dublin 6, Dublin",Dublin,320000.0,No,Harolds Cross,Dublin 6W,q2,50%
+24/10/2014,"6 Tivoli Ave, Harolds Cross, Dublin 6W",Dublin,456666.0,No,Harolds Cross,Dublin 6W,q3,80%
+29/10/2014,"5 Shramrock Villas, Harolds Cross",Dublin,375000.0,No,Harolds Cross,Dublin 6W,q3,60%
+03/11/2014,"394 Harolds Cross Rd, Dublin 6W, Dublin",Dublin,300000.0,No,Harolds Cross,Dublin 6W,q2,50%
+11/11/2014,"52 Casimir Rd, Harolds Cross, Dublin 6W",Dublin,670000.0,No,Harolds Cross,Dublin 6W,q4,100%
+13/11/2014,"70 Gandon Close, Harolds Cross, Dublin 6W",Dublin,145000.0,No,Harolds Cross,Dublin 6W,q1,10%
+14/11/2014,"14 Manor Villas, Mount Argus Grove, Harolds Cross Dublin 6W",Dublin,140000.0,No,Harolds Cross,Dublin 6W,q1,10%
+25/11/2014,"10 Mount Argus Green, Harolds Cross",Dublin,385000.0,No,Harolds Cross,Dublin 6W,q3,70%
+27/11/2014,"25 Mount Argus Crescent, Harolds Cross, Dublin 6W",Dublin,250000.0,No,Harolds Cross,Dublin 6W,q1,30%
+27/11/2014,"6 Mount Argus Green, Harolds Cross, Dublin 6W",Dublin,338000.0,No,Harolds Cross,Dublin 6W,q3,60%
+28/11/2014,"4 Laurence Court, Harolds Cross, Dublin 6W",Dublin,195000.0,No,Harolds Cross,Dublin 6W,q1,20%
+28/11/2014,"Apt 92, Gandon Close, Harolds Cross Dublin 6W",Dublin,150000.0,No,Harolds Cross,Dublin 6W,q1,10%
+11/12/2014,"19 Casimir Avenue, Harolds Cross, Dublin 6W",Dublin,567500.0,No,Harolds Cross,Dublin 6W,q4,90%
+11/12/2014,"Apt 1, 294 298, Harolds Cross Rd Dublin 6",Dublin,1150000.0,No,Harolds Cross,Dublin 6W,q4,100%
+12/12/2014,"210 Harolds Cross Rd, Harolds Cross, Dublin",Dublin,110000.0,No,Harolds Cross,Dublin 6W,q1,10%
+22/12/2014,"9 Mountain View Avenue, Harolds Cross, Dublin 6 West",Dublin,140000.0,No,Harolds Cross,Dublin 6W,q1,10%
+07/01/2015,"42 Gandon Close, Harolds Cross Rd, Harolds Cross Dublin 6",Dublin,140000.0,No,Harolds Cross,Dublin 6W,q1,10%
+20/01/2015,"60 Leinster Park, Harolds Cross, Dublin 6W",Dublin,550000.0,No,Harolds Cross,Dublin 6W,q4,90%
+26/01/2015,"14 Arbutus Ave, Harolds Cross, Dublin 12",Dublin,100000.0,No,Harolds Cross,Dublin 6W,q1,10%
+04/02/2015,"117 Harolds Cross Rd, Harolds Cross, Dublin 6",Dublin,150000.0,No,Harolds Cross,Dublin 6W,q1,10%
+09/02/2015,"62 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,263000.0,No,Harolds Cross,Dublin 6W,q2,30%
+10/02/2015,"8 Church Park Court, Harolds Cross, Dublin 6W",Dublin,268500.0,No,Harolds Cross,Dublin 6W,q2,30%
+17/02/2015,"16 Larkfield Park, Harolds Cross, Dublin 6W",Dublin,525000.0,No,Harolds Cross,Dublin 6W,q4,90%
+18/02/2015,"26 Boyne Court, Harolds Cross, Dublin 6",Dublin,170000.0,No,Harolds Cross,Dublin 6W,q1,20%
+23/02/2015,"28 Kenilworth Manor, Harolds Cross Rd, Dublin 6W",Dublin,320000.0,No,Harolds Cross,Dublin 6W,q2,50%
+26/02/2015,"28 Priory Rd, Harolds Cross, Dublin 6W",Dublin,725000.0,No,Harolds Cross,Dublin 6W,q4,100%
+02/03/2015,"Apt 12, 113 Park View, Harolds Cross Road",Dublin,178000.0,No,Harolds Cross,Dublin 6W,q1,20%
+06/03/2015,"4 Greenmount Lane, Harolds Cross, Dublin 12",Dublin,221700.0,No,Harolds Cross,Dublin 6W,q1,20%
+19/03/2015,"166 Harolds Cross Rd, Harolds Cross, Dublin 6",Dublin,251500.0,No,Harolds Cross,Dublin 6W,q2,30%
+25/03/2015,"25 Casimir Rd, Harolds Cross, Dublin 6W",Dublin,775000.0,No,Harolds Cross,Dublin 6W,q4,100%
+30/03/2015,"74 Gandon Close, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,138000.0,No,Harolds Cross,Dublin 6W,q1,10%
+02/04/2015,"9 Parnell Court, Parnell Ave, Harolds Cross Dublin 12",Dublin,365000.0,No,Harolds Cross,Dublin 6W,q3,60%
+17/04/2015,"42 Larkfield Gardens, Harolds Cross, Dublin 6",Dublin,420000.0,No,Harolds Cross,Dublin 6W,q3,70%
+21/04/2015,"13 Harolds Cross Rd, Dublin 6W, Dublin",Dublin,108633.0,No,Harolds Cross,Dublin 6W,q1,10%
+30/04/2015,"59 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,388000.0,No,Harolds Cross,Dublin 6W,q3,70%
+21/05/2015,"10 Fitzpatrick Cottages, Harolds Cross, Dublin 6",Dublin,130000.0,No,Harolds Cross,Dublin 6W,q1,10%
+21/05/2015,"9 Fitzpatrick Cottages, Harolds Cross, Dublin 6",Dublin,130000.0,No,Harolds Cross,Dublin 6W,q1,10%
+08/06/2015,"1 Clare Villas, Harolds Cross Bridge",Dublin,375000.0,No,Harolds Cross,Dublin 6W,q3,60%
+08/06/2015,"10 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"11 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"13 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"14 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"15 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"16 Greenmount Lane, Harolds Cross, Dublin City",Dublin,254000.0,No,Harolds Cross,Dublin 6W,q2,30%
+08/06/2015,"16 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"17 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"18 Greenmount Lane, Harolds Cross, Dublin",Dublin,254000.0,No,Harolds Cross,Dublin 6W,q2,30%
+08/06/2015,"18 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"19 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"2 Clare Villas, Harolds Cross Bridge",Dublin,375000.0,No,Harolds Cross,Dublin 6W,q3,60%
+08/06/2015,"2 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"20 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"21 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"22 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"23 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"24 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"25 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"26 Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"27 Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"28Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"29 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"3 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"30 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"31 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"32 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"33 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"35 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"36 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"37 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"38 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"39 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"4 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"40 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"41 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"42 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"43 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"44 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"45 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"46 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"47 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"48 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"5 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"6 Harold Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"7 Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+08/06/2015,"I Harolds Bridge Court, Harolds Cross",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+11/06/2015,"27 Darley St, Harolds Cross, Dublin 6",Dublin,360000.0,No,Harolds Cross,Dublin 6W,q3,60%
+12/06/2015,"9 St Clare Terrace, Harolds Cross, Dublin 6",Dublin,507500.0,No,Harolds Cross,Dublin 6W,q4,80%
+16/06/2015,"85 Gandon Close, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,145000.0,No,Harolds Cross,Dublin 6W,q1,10%
+29/06/2015,"55 Gandon Close, Harolds Cross, Dublin 6W",Dublin,172000.0,No,Harolds Cross,Dublin 6W,q1,20%
+01/07/2015,"26 Kenilworth Park, Harolds Cross, Dublin 6W",Dublin,695000.0,No,Harolds Cross,Dublin 6W,q4,100%
+08/07/2015,"31 Mount Argus Park, Harolds Cross, Dublin 6W",Dublin,405000.0,No,Harolds Cross,Dublin 6W,q3,70%
+14/07/2015,"30 Fitzgerald St, Harolds Cross, Dublin 6W",Dublin,372000.0,No,Harolds Cross,Dublin 6W,q3,60%
+16/07/2015,"107 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,173000.0,No,Harolds Cross,Dublin 6W,q1,20%
+17/07/2015,"8 Grove Ave, Harolds Cross, Dublin 6",Dublin,485000.0,No,Harolds Cross,Dublin 6W,q4,80%
+24/07/2015,"18 Mountain View Court, Harolds Cross, Dublin 6",Dublin,183000.0,No,Harolds Cross,Dublin 6W,q1,20%
+24/07/2015,"49 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,402510.0,No,Harolds Cross,Dublin 6W,q3,70%
+24/07/2015,"62 Shanid Rd, Harolds Cross, Dublin 6W",Dublin,810000.0,No,Harolds Cross,Dublin 6W,q4,100%
+31/07/2015,"1 Laurence Court, Mount Argus Road, Harolds Cross",Dublin,325000.0,No,Harolds Cross,Dublin 6W,q2,50%
+31/07/2015,"243255 Harolds Cross Road, 51-53 Rathgar Avenue",Dublin,350000.0,No,Harolds Cross,Dublin 6W,q3,60%
+31/07/2015,"6 Ashworth Place, Harolds Cross, Dublin 6",Dublin,380000.0,No,Harolds Cross,Dublin 6W,q3,60%
+31/07/2015,"9 Casimir Ave, Harolds Cross, Dublin 6W",Dublin,630000.0,No,Harolds Cross,Dublin 6W,q4,90%
+07/08/2015,"14 Mount Argus Park, Harolds Cross, Dublin 6W",Dublin,382500.0,No,Harolds Cross,Dublin 6W,q3,70%
+13/08/2015,"89 Harolds Cross Rd, Dublin 6W, Dublin",Dublin,282000.0,No,Harolds Cross,Dublin 6W,q2,40%
+13/08/2015,"Apt 8, Park View Court, Harolds Cross Rd Dublin 6W",Dublin,184000.0,No,Harolds Cross,Dublin 6W,q1,20%
+17/08/2015,"41 Westfield Rd, Harolds Cross, Dublin 6",Dublin,725000.0,No,Harolds Cross,Dublin 6W,q4,100%
+21/08/2015,"28 Boyne Court, Harolds Cross, Dublin 6",Dublin,160500.0,No,Harolds Cross,Dublin 6W,q1,20%
+26/08/2015,"88 Harolds Cross Rd, Harolds Cross, Dublin 6",Dublin,380000.0,No,Harolds Cross,Dublin 6W,q3,60%
+28/08/2015,"45 Priory Rd, Harolds Cross, Dublin 6W",Dublin,665000.0,No,Harolds Cross,Dublin 6W,q4,100%
+31/08/2015,"2 Larkfield Park, Harolds Cross, Dublin 6W",Dublin,391000.0,No,Harolds Cross,Dublin 6W,q3,70%
+31/08/2015,"58 Larkfield Gardens, Harolds Cross, Dublin 6W",Dublin,356000.0,No,Harolds Cross,Dublin 6W,q3,60%
+02/09/2015,"3 Armstrong St, Harolds Cross, Dublin 6W",Dublin,170000.0,No,Harolds Cross,Dublin 6W,q1,20%
+10/09/2015,"33 Mount Drummond Ave, Harolds Cross, Dublin 6",Dublin,370000.0,No,Harolds Cross,Dublin 6W,q3,60%
+17/09/2015,"334 Harolds Cross Rd, Dublin 6W, Dublin",Dublin,710000.0,No,Harolds Cross,Dublin 6W,q4,100%
+18/09/2015,"Apartment 11  2Nd Floor  Block B, Boyne Court  Greenmount Avenue, Harolds Cross",Dublin,165500.0,No,Harolds Cross,Dublin 6W,q1,20%
+25/09/2015,"8 Kenilworth Park, Harolds Cross, Dublin 6W",Dublin,555000.0,No,Harolds Cross,Dublin 6W,q4,90%
+28/09/2015,"32 Larkfield Ave, Harolds Cross, Dublin 6W",Dublin,430000.0,No,Harolds Cross,Dublin 6W,q3,70%
+09/10/2015,"38 Casimir Rd, Harolds Cross, Dublin 6W",Dublin,825000.0,No,Harolds Cross,Dublin 6W,q4,100%
+09/10/2015,"49 Leinster Park, Harolds Cross, Dublin 6W",Dublin,530000.0,No,Harolds Cross,Dublin 6W,q4,90%
+22/10/2015,"13 Manor Villas, Mount Argus Grove, Harolds Cross",Dublin,180000.0,No,Harolds Cross,Dublin 6W,q1,20%
+23/10/2015,"21 St Clares Ave, Harolds Cross, Dublin 6W",Dublin,430000.0,No,Harolds Cross,Dublin 6W,q3,70%
+23/10/2015,"5 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,675000.0,No,Harolds Cross,Dublin 6W,q4,100%
+05/11/2015,"11 Mount Argus Close, Harolds Cross",Dublin,360000.0,No,Harolds Cross,Dublin 6W,q3,60%
+06/11/2015,"46 Larkfield Ave, Harolds Cross, Dublin 6W",Dublin,440000.0,No,Harolds Cross,Dublin 6W,q3,80%
+12/11/2015,"19 Boyne Court, Harolds Cross, Dublin 6W",Dublin,165000.0,No,Harolds Cross,Dublin 6W,q1,20%
+12/11/2015,"39 Mount Drummond Ave, Harolds Cross, Dublin 6",Dublin,385000.0,No,Harolds Cross,Dublin 6W,q3,70%
+18/11/2015,"108 Gandon Close, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,158000.0,No,Harolds Cross,Dublin 6W,q1,10%
+19/11/2015,"Apt 1A, 69 Harolds Cross Rd, Dublin",Dublin,75000.0,No,Harolds Cross,Dublin 6W,q1,10%
+19/11/2015,"Apt 1B, 69 Harolds Cross Rd, Dublin",Dublin,75000.0,No,Harolds Cross,Dublin 6W,q1,10%
+19/11/2015,"Apt 1C, 69 Harolds Cross Rd, Dublin",Dublin,75000.0,No,Harolds Cross,Dublin 6W,q1,10%
+20/11/2015,"337 Harolds Cross Rd, Dublin 6W, Dublin 6",Dublin,580000.0,No,Harolds Cross,Dublin 6W,q4,90%
+20/11/2015,"6 Grove Ave, Harolds Cross, Dublin 6",Dublin,425000.0,No,Harolds Cross,Dublin 6W,q3,70%
+25/11/2015,"12 Mount Argus Terrace, Harolds Cross, Dublin 6",Dublin,362500.0,No,Harolds Cross,Dublin 6W,q3,60%
+09/12/2015,"44 Casimir Rd, Harolds Cross, Dublin 6W",Dublin,670500.0,No,Harolds Cross,Dublin 6W,q4,100%
+11/12/2015,"17 Emmett St, Harolds Cross",Dublin,295000.0,No,Harolds Cross,Dublin 6W,q2,50%
+17/12/2015,"8 Larkfield Park, Harolds Cross, Dublin 6W",Dublin,328000.0,No,Harolds Cross,Dublin 6W,q2,50%
+21/12/2015,"103 Larkfield Gardens, Harolds Cross, Dublin 6",Dublin,391000.0,No,Harolds Cross,Dublin 6W,q3,70%
+22/12/2015,"1 Limekiln Lane, Harolds Cross",Dublin,274000.0,No,Harolds Cross,Dublin 6W,q2,30%
+22/12/2015,"1 Limekiln Lane, Harolds Cross",Dublin,274000.0,No,Harolds Cross,Dublin 6W,q2,30%
+22/12/2015,"15 Mount Argus Terrace, Harolds Cross, Dublin 6W",Dublin,430000.0,No,Harolds Cross,Dublin 6W,q3,70%
+22/12/2015,"3 Clare Villas, Harolds Cross",Dublin,275000.0,No,Harolds Cross,Dublin 6W,q2,30%
+23/12/2015,"4 Parnell Road, Harolds Cross",Dublin,535000.0,No,Harolds Cross,Dublin 6W,q4,90%
+04/01/2016,"5 Mount Argus Terrace, Harolds Cross, Dublin 6",Dublin,375000.0,No,Harolds Cross,Dublin 6W,q3,60%
+08/01/2016,"41 Priory Road, Harolds Cross Road, Dublin 6W",Dublin,750000.0,No,Harolds Cross,Dublin 6W,q4,100%
+22/01/2016,"44 Priory Rd, Harolds Cross, Dublin 6W",Dublin,430000.0,No,Harolds Cross,Dublin 6W,q3,70%
+25/01/2016,"20 Shanid Road, Harolds Cross, Dublin 6",Dublin,495000.0,No,Harolds Cross,Dublin 6W,q4,80%
+31/01/2016,"27 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,375000.0,No,Harolds Cross,Dublin 6W,q3,60%
+01/02/2016,"113 Parkview Mansion, Apt 8, Harolds Cross Dublin 6W",Dublin,145000.0,No,Harolds Cross,Dublin 6W,q1,10%
+09/02/2016,"2 Mount Argus Green, Harolds Cross, Dublin 6W",Dublin,150000.0,No,Harolds Cross,Dublin 6W,q1,10%
+12/02/2016,"89 Larkfield Grove, Harolds Cross, Dublin 6W",Dublin,340000.0,No,Harolds Cross,Dublin 6W,q3,60%
+16/02/2016,"24 Church Pk Ct, Harolds Cross, Dublin 6",Dublin,275000.0,No,Harolds Cross,Dublin 6W,q2,30%
+17/02/2016,"73 Kenilworth Park, Harolds Cross, Dublin 6",Dublin,640000.0,No,Harolds Cross,Dublin 6W,q4,90%
+18/02/2016,"8 Mount Argus Court, Harolds Cross, Dublin 6W",Dublin,346000.0,No,Harolds Cross,Dublin 6W,q3,60%
+19/02/2016,"8A Parnall Rd, Harolds Cross, Dublin 12",Dublin,372000.0,No,Harolds Cross,Dublin 6W,q3,60%
+22/02/2016,"46 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,350000.0,No,Harolds Cross,Dublin 6W,q3,60%
+23/02/2016,"6 Drummond Place, Harolds Cross, Dublin 6",Dublin,280000.0,No,Harolds Cross,Dublin 6W,q2,40%
+04/03/2016,"74 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,290000.0,No,Harolds Cross,Dublin 6W,q2,50%
+14/03/2016,"4 Mount Argus View, Harolds Cross, Dublin 6W",Dublin,465000.0,No,Harolds Cross,Dublin 6W,q3,80%
+21/03/2016,"3 Kenilworth Manor, Harolds Cross Rd, Dublin 6W",Dublin,187000.0,No,Harolds Cross,Dublin 6W,q1,20%
+23/03/2016,"16 Mountain View Ave, Harolds Cross Dublin 6W, Dublin",Dublin,265000.0,No,Harolds Cross,Dublin 6W,q2,30%
+23/03/2016,"21 Kenilworth Manor, Harolds Cross Rd, Dublin 6W",Dublin,235000.0,No,Harolds Cross,Dublin 6W,q1,30%
+23/03/2016,"6 Casimir Rd, Harolds Cross, Dublin 6",Dublin,810000.0,No,Harolds Cross,Dublin 6W,q4,100%
+24/03/2016,"34 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,475000.0,No,Harolds Cross,Dublin 6W,q4,80%
+05/04/2016,"15 Shanid Rd, Harolds Cross, Dublin 6W",Dublin,567500.0,No,Harolds Cross,Dublin 6W,q4,90%
+12/04/2016,"16 Mt Drummond Ave, Harolds Cross, Dublin 6",Dublin,317000.0,No,Harolds Cross,Dublin 6W,q2,50%
+20/04/2016,"28 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,315500.0,No,Harolds Cross,Dublin 6W,q2,50%
+25/04/2016,"1 Cedar Court, Mount Tallant Ave, Harolds Cross Dublin 6W",Dublin,395000.0,No,Harolds Cross,Dublin 6W,q3,70%
+29/04/2016,"404 Harolds Cross Rd, Dublin 6W, Dublin",Dublin,636000.0,No,Harolds Cross,Dublin 6W,q4,90%
+29/04/2016,"58 Kenilworth Park, Harolds Cross, Dublin 6W",Dublin,750000.0,No,Harolds Cross,Dublin 6W,q4,100%
+12/05/2016,"72 Shanid Rd, Harolds Cross, Dublin 6W",Dublin,810000.0,No,Harolds Cross,Dublin 6W,q4,100%
+16/05/2016,"72 Gandon Close, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,190000.0,No,Harolds Cross,Dublin 6W,q1,20%
+17/05/2016,"1 Wilfrid Rd, Harolds Cross, Dublin 6W",Dublin,734000.0,No,Harolds Cross,Dublin 6W,q4,100%
+17/05/2016,"6 Greenfield Place, Harolds Cross, Dublin 6",Dublin,480000.0,No,Harolds Cross,Dublin 6W,q4,80%
+01/06/2016,"8 Mount Argus Way, Harolds Cross, Dublin 6W",Dublin,475000.0,No,Harolds Cross,Dublin 6W,q4,80%
+02/06/2016,"1 Greenfield Place, Harolds Place, Harolds Cross Dublin 6",Dublin,438000.0,No,Harolds Cross,Dublin 6W,q3,80%
+15/06/2016,"39 Boyne Court, Greenmount Rd, Harolds Cross",Dublin,205000.0,No,Harolds Cross,Dublin 6W,q1,20%
+28/06/2016,"5 Leinster Park, Harolds Cross, Dublin 6",Dublin,575000.0,No,Harolds Cross,Dublin 6W,q4,90%
+01/07/2016,"1 Mount Argus View, Harolds Cross, Dublin",Dublin,530000.0,No,Harolds Cross,Dublin 6W,q4,90%
+02/07/2016,"1 Church Park Court, Mount Argus Rd, Harolds Cross Dublin 6W",Dublin,281000.0,No,Harolds Cross,Dublin 6W,q2,40%
+04/07/2016,"156 Lower Kimmage Rd, Harolds Cross, Dublin 6",Dublin,395000.0,No,Harolds Cross,Dublin 6W,q3,70%
+07/07/2016,"17 Arbutus Ave, Harolds Cross, Dublin 12",Dublin,525000.0,No,Harolds Cross,Dublin 6W,q4,90%
+12/07/2016,"15 Mountain View Ave, Harolds Cross, Dublin 6",Dublin,275000.0,No,Harolds Cross,Dublin 6W,q2,30%
+20/07/2016,"5 Parnell Rd, Harolds Cross, Dublin 12",Dublin,605000.0,No,Harolds Cross,Dublin 6W,q4,90%
+22/07/2016,"14 Laurence Court, Mount Argus Rd, Harolds Cross Dublin 6W",Dublin,197000.0,No,Harolds Cross,Dublin 6W,q1,20%
+29/07/2016,"50 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,300000.0,No,Harolds Cross,Dublin 6W,q2,50%
+09/08/2016,"13 Larkfield Ave, Harolds Cross, Dublin 6W",Dublin,240000.0,No,Harolds Cross,Dublin 6W,q1,30%
+11/08/2016,"68 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,316000.0,No,Harolds Cross,Dublin 6W,q2,50%
+19/08/2016,"13 Emmet St, Harolds Cross, Dublin 6",Dublin,250000.0,No,Harolds Cross,Dublin 6W,q1,30%
+22/08/2016,"30 Larkfield Park, Harolds Cross Dublin 6W, Dublin",Dublin,324250.0,No,Harolds Cross,Dublin 6W,q2,50%
+13/09/2016,"29 Darley St, Harolds Cross, Dublin 6W",Dublin,320000.0,No,Harolds Cross,Dublin 6W,q2,50%
+13/09/2016,"70 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,423000.0,No,Harolds Cross,Dublin 6W,q3,70%
+26/09/2016,"4 Church Park Dr, Harolds Cross, Dublin 6W",Dublin,406000.0,No,Harolds Cross,Dublin 6W,q3,70%
+29/09/2016,"23 Parkview Mansions, 113 Harolds Cross Rd, Dublin 6",Dublin,157000.0,No,Harolds Cross,Dublin 6W,q1,10%
+29/09/2016,"49 Larkfield Grove, Harolds Cross, Dublin 6W",Dublin,440000.0,No,Harolds Cross,Dublin 6W,q3,80%
+05/10/2016,"54 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,335000.0,No,Harolds Cross,Dublin 6W,q3,60%
+19/10/2016,"29 Casimir Rd, Harolds Cross, Dublin 6W",Dublin,560000.0,No,Harolds Cross,Dublin 6W,q4,90%
+20/10/2016,"11 Casimir Rd, Harolds Cross, Dublin 6W",Dublin,740000.0,No,Harolds Cross,Dublin 6W,q4,100%
+03/11/2016,"19 Fitzgerald St, Harolds Cross, Dublin 6",Dublin,352000.0,No,Harolds Cross,Dublin 6W,q3,60%
+04/11/2016,"Apt 1, 68 Kimmage Rd Lower, Harolds Cross Dublin 6",Dublin,755000.0,No,Harolds Cross,Dublin 6W,q4,100%
+08/11/2016,"57 Leinster Park, Harolds Cross, Dublin 6W",Dublin,580000.0,No,Harolds Cross,Dublin 6W,q4,90%
+11/11/2016,"Kirribilli, 32 Clareville Rd, Harolds Cross Dublin 6W",Dublin,524000.0,No,Harolds Cross,Dublin 6W,q4,80%
+23/11/2016,"15 Mount Argus Park, Harolds Cross, Dublin 6W",Dublin,310000.0,No,Harolds Cross,Dublin 6W,q2,50%
+28/11/2016,"32A Clareville Rd, Harolds Cross, Dublin 6W",Dublin,375000.0,No,Harolds Cross,Dublin 6W,q3,60%
+02/12/2016,"10 Grove Village, Grove Road, Harolds Cross",Dublin,400000.0,No,Harolds Cross,Dublin 6W,q3,70%
+07/12/2016,"16A Arbutus Ave, Harolds Cross, Dublin 12",Dublin,330000.0,No,Harolds Cross,Dublin 6W,q2,50%
+07/12/2016,"5 Grove Village, Grove Rd, Harolds Cross Dublin 6",Dublin,182000.0,No,Harolds Cross,Dublin 6W,q1,20%
+09/12/2016,"8A Greenmount Lane, Harolds Cross, Dublin 12",Dublin,268000.0,No,Harolds Cross,Dublin 6W,q2,30%
+13/12/2016,"150 Kimmage Rd Lower, Harolds Cross, Dublin",Dublin,583000.0,No,Harolds Cross,Dublin 6W,q4,90%
+14/12/2016,"37 Parnell Rd, Harolds Cross, Dublin 6W",Dublin,500000.0,No,Harolds Cross,Dublin 6W,q4,80%
+14/12/2016,"6 Mount Argus Terrace, Harolds Cross, Dublin 6",Dublin,395000.0,No,Harolds Cross,Dublin 6W,q3,70%
+20/12/2016,"139A Harolds Cross Rd, Dublin 6W, Dublin",Dublin,214500.0,No,Harolds Cross,Dublin 6W,q1,20%
+30/12/2016,"8 Grove Village, Grove Rd, Harolds Cross Dublin 6",Dublin,155066.0,Yes,Harolds Cross,Dublin 6W,q1,10%
+12/01/2017,"3 Ohara Ave, Harolds Cross, Dublin",Dublin,427500.0,No,Harolds Cross,Dublin 6W,q3,70%
+13/01/2017,"22 Kenilworth Manor, Harolds Cross Rd, Harolds Cross Dublin 6",Dublin,361000.0,No,Harolds Cross,Dublin 6W,q3,60%
+13/01/2017,"4 Casimir Rd, Harolds Cross, Dublin 6",Dublin,630000.0,No,Harolds Cross,Dublin 6W,q4,90%
+16/01/2017,"Kincora, 106 Lower Kimmage Road, Harolds Cross",Dublin,505000.0,No,Harolds Cross,Dublin 6W,q4,80%
+25/01/2017,"21 Church Park Dr, Harolds Cross, Dublin 6W",Dublin,430000.0,No,Harolds Cross,Dublin 6W,q3,70%
+27/01/2017,"33 Parnell Rd, Harolds Cross, Dublin 12",Dublin,468000.0,No,Harolds Cross,Dublin 6W,q3,80%
+31/01/2017,"66 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,327000.0,No,Harolds Cross,Dublin 6W,q2,50%
+03/02/2017,"76 Harolds Cross Rd, Harolds Cross, Dublin 6W",Dublin,710000.0,No,Harolds Cross,Dublin 6W,q4,100%
+28/02/2017,"Auburn House, 266 Harolds Cross Rd, Dublin 6",Dublin,370000.0,No,Harolds Cross,Dublin 6W,q3,60%
+01/03/2017,"8 Arbutus Ave, Harolds Cross, Dublin 12",Dublin,610000.0,No,Harolds Cross,Dublin 6W,q4,90%
+02/03/2017,"20 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,547000.0,No,Harolds Cross,Dublin 6W,q4,90%
+02/03/2017,"311 Harolds Cross Rd, Harolds Cross, Dublin 6W",Dublin,580000.0,No,Harolds Cross,Dublin 6W,q4,90%
+02/03/2017,"84 Mt Drummond Sq, Harolds Cross, Dublin 6",Dublin,140000.0,No,Harolds Cross,Dublin 6W,q1,10%
+21/03/2017,"27 Parnell Court, Harolds Cross, Dublin 12",Dublin,325000.0,No,Harolds Cross,Dublin 6W,q2,50%
+10/04/2017,"5 La Vere Terrace, Harolds Cross, Dublin 6",Dublin,287000.0,No,Harolds Cross,Dublin 6W,q2,40%
+10/04/2017,"7 Church Park Court, Harolds Cross, Dublin 6W",Dublin,315000.0,No,Harolds Cross,Dublin 6W,q2,50%
+28/04/2017,"2 Drummond Place, Harolds Cross, Dublin 6",Dublin,430000.0,No,Harolds Cross,Dublin 6W,q3,70%
+28/04/2017,"54 Gandon Close, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,190000.0,No,Harolds Cross,Dublin 6W,q1,20%
+03/05/2017,"47 Gandon Close, Harolds Cross, Dublin 6",Dublin,181000.0,No,Harolds Cross,Dublin 6W,q1,20%
+05/05/2017,"68 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,450000.0,No,Harolds Cross,Dublin 6W,q3,80%
+12/05/2017,"6 Fitzpatricks Cottages, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,375000.0,No,Harolds Cross,Dublin 6W,q3,60%
+18/05/2017,"2 Casimir Court, Harolds Cross, Dublin 6W",Dublin,387000.0,No,Harolds Cross,Dublin 6W,q3,70%
+26/05/2017,"10 Parnell Court, Harolds Cross, Dublin 12",Dublin,475000.0,No,Harolds Cross,Dublin 6W,q4,80%
+02/06/2017,"1A Mount Argus View, Harolds Cross, Dublin 6W",Dublin,770000.0,Yes,Harolds Cross,Dublin 6W,q4,100%
+07/06/2017,"90 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,501121.0,No,Harolds Cross,Dublin 6W,q4,80%
+09/06/2017,"14 Mount Argus Terrace, Harolds Cross, Dublin 6W",Dublin,457000.0,No,Harolds Cross,Dublin 6W,q3,80%
+09/06/2017,"4 Mount Argus Close, Harolds Cross, Dublin 6W",Dublin,510000.0,No,Harolds Cross,Dublin 6W,q4,80%
+09/06/2017,"9 Armstrong St, Harolds Cross, Dublin 6",Dublin,350000.0,No,Harolds Cross,Dublin 6W,q3,60%
+12/06/2017,"37 Harolds Cross Rd, Dublin 6W, Dublin",Dublin,435000.0,No,Harolds Cross,Dublin 6W,q3,70%
+20/06/2017,"4 Limekiln Lane, Harolds Cross, Dublin 8",Dublin,205500.0,No,Harolds Cross,Dublin 6W,q1,20%
+29/06/2017,"21 Parkview, Harolds Cross Rd, Dublin 6W",Dublin,195000.0,No,Harolds Cross,Dublin 6W,q1,20%
+30/06/2017,"19 Parkview Ave, Harolds Cross, Dublin 6",Dublin,780000.0,No,Harolds Cross,Dublin 6W,q4,100%
+06/07/2017,"14 Swanward Court, Parnell Rd, Harolds Cross",Dublin,415000.0,No,Harolds Cross,Dublin 6W,q3,70%
+11/07/2017,"8 Greenmount Sq, Harolds Cross, Dublin 12",Dublin,202000.0,No,Harolds Cross,Dublin 6W,q1,20%
+19/07/2017,"91 Gandon Close, Harolds Cross Rd, Harolds Cross",Dublin,223000.0,No,Harolds Cross,Dublin 6W,q1,20%
+21/07/2017,"116 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,275000.0,No,Harolds Cross,Dublin 6W,q2,30%
+21/07/2017,"46 Larkfield Ave, Harolds Cross, Dublin 6W",Dublin,505000.0,No,Harolds Cross,Dublin 6W,q4,80%
+24/07/2017,"125 Mount Tallant Ave, Harolds Cross, Dublin",Dublin,465000.0,No,Harolds Cross,Dublin 6W,q3,80%
+27/07/2017,"99 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,277000.0,No,Harolds Cross,Dublin 6W,q2,40%
+03/08/2017,"Apt 198A, Harolds Cross Rd, Dublin 6W",Dublin,230000.0,No,Harolds Cross,Dublin 6W,q1,30%
+04/08/2017,"2 Carlisle Court, 351 Harolds Cross Rd, Dublin 6W",Dublin,310000.0,No,Harolds Cross,Dublin 6W,q2,50%
+25/08/2017,"13 Boyne Court, Harolds Cross, Dublin 6",Dublin,205000.0,No,Harolds Cross,Dublin 6W,q1,20%
+04/09/2017,"Apt 2, Parkview Court, Harolds Cross Rd Dublin 6W",Dublin,223000.0,No,Harolds Cross,Dublin 6W,q1,20%
+06/09/2017,"Apt 8, Clareville House, 344 Harolds Cross Rd Dublin 6W",Dublin,224500.0,No,Harolds Cross,Dublin 6W,q1,20%
+12/09/2017,"29 Ashworth Place, Harolds Cross, Dublin 6",Dublin,375000.0,No,Harolds Cross,Dublin 6W,q3,60%
+14/09/2017,"16 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,540000.0,No,Harolds Cross,Dublin 6W,q4,90%
+15/09/2017,"5 Ashworth Place, Harolds Cross Dublin 6, Dublin",Dublin,410000.0,No,Harolds Cross,Dublin 6W,q3,70%
+09/10/2017,"272 Harolds Cross Road, Harold'S Cross, Dublin 6W",Dublin,150000.0,No,Harolds Cross,Dublin 6W,q1,10%
+10/10/2017,"Apt 1  No. 71, Harolds Cross Rd, Dublin 6W",Dublin,504000.0,No,Harolds Cross,Dublin 6W,q4,80%
+17/10/2017,"4 Armstrong St, Harolds Cross, Dublin 6",Dublin,340000.0,No,Harolds Cross,Dublin 6W,q3,60%
+24/10/2017,"46 Leinster Park, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,650000.0,No,Harolds Cross,Dublin 6W,q4,90%
+25/10/2017,"26 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,415000.0,No,Harolds Cross,Dublin 6W,q3,70%
+26/10/2017,"35 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,588000.0,No,Harolds Cross,Dublin 6W,q4,90%
+31/10/2017,"29 Kenilworth Park, Harolds Cross, Dublin 6",Dublin,650000.0,No,Harolds Cross,Dublin 6W,q4,90%
+08/11/2017,"24 Larkfield Gardens, Harolds Cross, Dublin 6W",Dublin,485000.0,No,Harolds Cross,Dublin 6W,q4,80%
+08/11/2017,"50A Larkfield Ave, Harolds Cross, Dublin 6W",Dublin,653000.0,No,Harolds Cross,Dublin 6W,q4,90%
+22/11/2017,"Apt 4, Clareville House, 344 Harolds Cross Road",Dublin,185000.0,No,Harolds Cross,Dublin 6W,q1,20%
+23/11/2017,"78 Gandon Close, Harolds Cross, Dublin",Dublin,246500.0,No,Harolds Cross,Dublin 6W,q1,30%
+30/11/2017,"50 Clareville Rd, Harolds Cross, Dublin 6 West",Dublin,485000.0,No,Harolds Cross,Dublin 6W,q4,80%
+01/12/2017,"30 Mount Argus Crescent, Harolds Cross, Dublin 6W",Dublin,338000.0,No,Harolds Cross,Dublin 6W,q3,60%
+01/12/2017,"71 Kenilworth Park, Harolds Cross, Dublin 6W",Dublin,785000.0,No,Harolds Cross,Dublin 6W,q4,100%
+05/12/2017,"8 Greenmount Sq, Harolds Cross, Dublin 12",Dublin,300000.0,No,Harolds Cross,Dublin 6W,q2,50%
+05/12/2017,"Apt 3, 56 Casimir Rd, Harolds Cross Dublin 6W",Dublin,765000.0,No,Harolds Cross,Dublin 6W,q4,100%
+14/12/2017,"54 Casimir Rd, Harolds Cross, Dublin 6W",Dublin,980000.0,No,Harolds Cross,Dublin 6W,q4,100%
+15/12/2017,"7 Wilfrid Terrace, Harolds Cross, Dublin 6W",Dublin,595000.0,No,Harolds Cross,Dublin 6W,q4,90%
+19/12/2017,"Apt 1, 192 194 Harolds Cross Rd, Dublin",Dublin,440000.0,No,Harolds Cross,Dublin 6W,q3,80%
+21/12/2017,"135 Harolds Cross Rd, Harolds Cross, Dublin 6",Dublin,530000.0,No,Harolds Cross,Dublin 6W,q4,90%
+21/12/2017,"137 Harolds Cross Rd, Harolds Cross, Dublin",Dublin,530000.0,No,Harolds Cross,Dublin 6W,q4,90%
+09/01/2018,"57 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,482000.0,No,Harolds Cross,Dublin 6W,q4,80%
+12/01/2018,"24 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,490000.0,No,Harolds Cross,Dublin 6W,q4,80%
+16/01/2018,"40 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,425000.0,No,Harolds Cross,Dublin 6W,q3,70%
+18/01/2018,"333 Harolds Cross Rd, Dublin 6W, Dublin",Dublin,867000.0,No,Harolds Cross,Dublin 6W,q4,100%
+26/01/2018,"11 Leinster Park, Harolds Cross, Dublin 6 W",Dublin,660000.0,No,Harolds Cross,Dublin 6W,q4,100%
+29/01/2018,"14 Manor Villas, Mount Argus Grove, Harolds Cross Dublin 6W",Dublin,275000.0,No,Harolds Cross,Dublin 6W,q2,30%
+02/02/2018,"12 Tivoli Ave, Harolds Cross, Dublin 6W",Dublin,612990.0,No,Harolds Cross,Dublin 6W,q4,90%
+06/02/2018,"4 Darley St, Harolds Cross, Dublin 6",Dublin,432000.0,No,Harolds Cross,Dublin 6W,q3,70%
+06/02/2018,"8 St Clares Tce, Mount Drummond Ave, Harolds Cross Dublin 6W",Dublin,515000.0,No,Harolds Cross,Dublin 6W,q4,80%
+19/02/2018,"27 Leinster Park, Harolds Cross, Dublin 6W",Dublin,250000.0,No,Harolds Cross,Dublin 6W,q1,30%
+20/02/2018,"66 Harolds Cross Rd, Harolds Cross, Dublin 6",Dublin,800000.0,No,Harolds Cross,Dublin 6W,q4,100%
+22/02/2018,"27 Shanid Rd, Harolds Cross, Dublin 6W",Dublin,503050.0,No,Harolds Cross,Dublin 6W,q4,80%
+23/02/2018,"58 Cedar Court, Harolds Cross, Dublin 6W",Dublin,288750.0,No,Harolds Cross,Dublin 6W,q2,50%
+26/02/2018,"1 Adrian Ave, Harolds Cross, Dublin 6W",Dublin,730000.0,No,Harolds Cross,Dublin 6W,q4,100%
+28/02/2018,"73 Leinster Park, Harolds Cross, Dublin 6W",Dublin,685000.0,No,Harolds Cross,Dublin 6W,q4,100%
+08/03/2018,"81 Larkfield Grove, Harolds Cross, Dublin 6W",Dublin,600000.0,No,Harolds Cross,Dublin 6W,q4,90%
+09/03/2018,"11 Laurence Court, Harolds Cross, Dublin 6W",Dublin,405000.0,No,Harolds Cross,Dublin 6W,q3,70%
+09/03/2018,"16 Drummond Place, Harolds Cross, Dublin 6",Dublin,365000.0,No,Harolds Cross,Dublin 6W,q3,60%
+20/03/2018,"75 Gandon Close, Harolds Cross Dublin 6W, Dublin",Dublin,190000.0,No,Harolds Cross,Dublin 6W,q1,20%
+21/03/2018,"2 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,415000.0,No,Harolds Cross,Dublin 6W,q3,70%
+23/03/2018,"76 Leinster Park, Harolds Cross, Dublin 6W",Dublin,672500.0,No,Harolds Cross,Dublin 6W,q4,100%
+09/04/2018,"Apt 8 Eyrecourt, 181 Harolds Cross Rd, Eyrecourt Dublin 6W",Dublin,325000.0,No,Harolds Cross,Dublin 6W,q2,50%
+20/04/2018,"2 Gandon Close, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,251000.0,No,Harolds Cross,Dublin 6W,q2,30%
+11/05/2018,"20 Ashworth Place, Harolds Cross, Dublin 6",Dublin,440000.0,No,Harolds Cross,Dublin 6W,q3,80%
+11/05/2018,"24 Drummond Place, Harolds Cross, Dublin 6",Dublin,330000.0,No,Harolds Cross,Dublin 6W,q2,50%
+21/05/2018,"35 Gandon Close, Harolds Cross, Dublin 6",Dublin,225000.0,No,Harolds Cross,Dublin 6W,q1,30%
+07/06/2018,"15 Mount Argus Court, Kimmage Rd Lower, Harolds Cross Dublin 6W",Dublin,450000.0,No,Harolds Cross,Dublin 6W,q3,80%
+11/06/2018,"40 Fitzgerald St, Harolds Cross, Dublin 6",Dublin,466000.0,No,Harolds Cross,Dublin 6W,q3,80%
+27/06/2018,"6 Grove Ave, Harolds Cross, Dublin 6",Dublin,700000.0,No,Harolds Cross,Dublin 6W,q4,100%
+03/07/2018,"29 Parnell Court, Harolds Cross, Dublin 6W",Dublin,377000.0,No,Harolds Cross,Dublin 6W,q3,60%
+13/07/2018,"66 Leinster Park, Harolds Cross, Dublin 6W",Dublin,695000.0,No,Harolds Cross,Dublin 6W,q4,100%
+19/07/2018,"48 Mount Drummond Ave, Harolds Cross, Dublin 6W",Dublin,285000.0,No,Harolds Cross,Dublin 6W,q2,40%
+23/07/2018,"374 Harolds Cross Rd, Harolds Cross, Dublin 6",Dublin,55000.0,No,Harolds Cross,Dublin 6W,q1,10%
+25/07/2018,"49 Leinster Park, Harolds Cross, Dublin 6W",Dublin,695000.0,No,Harolds Cross,Dublin 6W,q4,100%
+27/07/2018,"60 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,372500.0,No,Harolds Cross,Dublin 6W,q3,60%
+31/07/2018,"201 Top 201A Harolds Cross Rd, Harold Cross, Dublin 6W",Dublin,515000.0,No,Harolds Cross,Dublin 6W,q4,80%
+01/08/2018,"7 Priory Rd, Harolds Cross, Dublin 6W",Dublin,645000.0,No,Harolds Cross,Dublin 6W,q4,90%
+10/08/2018,"8 Greenmount Court, Harolds Cross, Dublin 12",Dublin,460000.0,No,Harolds Cross,Dublin 6W,q3,80%
+13/08/2018,"Apt 4, 57 Casimir Rd, Harolds Cross Dublin 6W",Dublin,750000.0,No,Harolds Cross,Dublin 6W,q4,100%
+14/08/2018,"2 Mount Argus Sq, Harolds Cross, Dublin 6W",Dublin,245000.0,No,Harolds Cross,Dublin 6W,q1,30%
+23/08/2018,"6 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,435000.0,No,Harolds Cross,Dublin 6W,q3,70%
+23/08/2018,"98 Gandon Close, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,235000.0,No,Harolds Cross,Dublin 6W,q1,30%
+27/08/2018,"45 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,588000.0,No,Harolds Cross,Dublin 6W,q4,90%
+06/09/2018,"25 Fitzgerald St, Harolds Cross, Dublin 6",Dublin,175000.0,No,Harolds Cross,Dublin 6W,q1,20%
+12/09/2018,"17 Mount Argus Sq, Mount Argus Way, Harolds Cross Dublin 6W",Dublin,422500.0,No,Harolds Cross,Dublin 6W,q3,70%
+14/09/2018,"16 Kimmage Rd Lower, Harolds Cross, Dublin 6W",Dublin,565000.0,No,Harolds Cross,Dublin 6W,q4,90%
+21/09/2018,"4 Kenilworth Manor, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,421000.0,No,Harolds Cross,Dublin 6W,q3,70%
+25/09/2018,"229 Harolds Cross Rd, Dublin 6W",Dublin,575000.0,No,Harolds Cross,Dublin 6W,q4,90%
+25/09/2018,"4 Casimir Court, Harolds Cross, Dublin City",Dublin,432000.0,No,Harolds Cross,Dublin 6W,q3,70%
+28/09/2018,"67 8 Casimir Ave, Harolds Cross, Dublin 6W",Dublin,800000.0,No,Harolds Cross,Dublin 6W,q4,100%
+02/10/2018,"2A Greenmount Lane, Harolds Cross, Dublin 12",Dublin,150000.0,No,Harolds Cross,Dublin 6W,q1,10%
+02/10/2018,"41 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,373000.0,No,Harolds Cross,Dublin 6W,q3,60%
+04/10/2018,"22 Ashworth Place, Harolds Cross, Dublin 6",Dublin,330000.0,No,Harolds Cross,Dublin 6W,q2,50%
+10/10/2018,"32 Mount Argus Rd, Harolds Cross, Dublin 6W",Dublin,915000.0,No,Harolds Cross,Dublin 6W,q4,100%
+26/10/2018,"42 Kimmage Rd Lower, Harolds Cross, Dublin 6W",Dublin,825000.0,No,Harolds Cross,Dublin 6W,q4,100%
+30/10/2018,"6 Mount Argus Court, Harolds Cross, Dublin 6W",Dublin,435000.0,No,Harolds Cross,Dublin 6W,q3,70%
+06/11/2018,"54 Priory Rd, Harolds Cross, Dublin 6W",Dublin,600000.0,No,Harolds Cross,Dublin 6W,q4,90%
+09/11/2018,"89 Harolds Cross Rd, Dublin 6W, Dublin",Dublin,595000.0,No,Harolds Cross,Dublin 6W,q4,90%
+14/11/2018,"2 Sion Hill Ave, Harolds Cross, Dublin 6W",Dublin,695000.0,No,Harolds Cross,Dublin 6W,q4,100%
+16/11/2018,"11 Limekiln Lane, Harolds Cross Dublin 6, Dublin",Dublin,350000.0,No,Harolds Cross,Dublin 6W,q3,60%
+29/11/2018,"26 Parnell Court, Harolds Cross, Dublin 6",Dublin,400000.0,No,Harolds Cross,Dublin 6W,q3,70%
+30/11/2018,"18 Laurence Court, Mount Argus Rd, Harolds Cross Dublin 6W",Dublin,255000.0,No,Harolds Cross,Dublin 6W,q2,30%
+30/11/2018,"64 Larkfield Gardens, Harolds Cross, Dublin 6W",Dublin,497000.0,No,Harolds Cross,Dublin 6W,q4,80%
+10/12/2018,"16 Kenilworth Sq, Harolds Cross, Dublin 6",Dublin,1125000.0,No,Harolds Cross,Dublin 6W,q4,100%
+17/12/2018,"99 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,295000.0,No,Harolds Cross,Dublin 6W,q2,50%
+19/12/2018,"Apt 4, Clareville House, 344 Harolds Cross Road",Dublin,196046.68,No,Harolds Cross,Dublin 6W,q1,20%
+20/12/2018,"14 Mountain View Court, Mountain View Ave, Harolds Cross Dublin 6W",Dublin,220000.0,No,Harolds Cross,Dublin 6W,q1,20%
+20/12/2018,"59 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,101672.0,No,Harolds Cross,Dublin 6W,q1,10%
+11/01/2019,"The Monastery, Mount Argus, Harolds Cross",Dublin,4100000.0,No,Harolds Cross,Dublin 6W,q4,100%
+17/01/2019,"60 Leinster Park, Harolds Cross, Dublin 6W",Dublin,695000.0,No,Harolds Cross,Dublin 6W,q4,100%
+21/01/2019,"11 Greenmount Sq, Harolds Cross, Dublin 12",Dublin,277500.0,No,Harolds Cross,Dublin 6W,q2,40%
+21/01/2019,"28 Drummond Place, Harolds Cross, Dublin 6W",Dublin,410000.0,No,Harolds Cross,Dublin 6W,q3,70%
+22/01/2019,"4Parnell Court, Parnell Rd, Harolds Cross Dublin 12",Dublin,455000.0,No,Harolds Cross,Dublin 6W,q3,80%
+25/01/2019,"10 Church Park Lawn, Harolds Cross, Dublin 6W",Dublin,345000.0,No,Harolds Cross,Dublin 6W,q3,60%
+29/01/2019,"225 Harolds Cross Rd, Harolds Cross, Dublin 6W",Dublin,660000.0,No,Harolds Cross,Dublin 6W,q4,100%
+30/01/2019,"16 Mount Argus Court, Harolds Cross, Dublin 6W",Dublin,405000.0,No,Harolds Cross,Dublin 6W,q3,70%
+30/01/2019,"Flat 1 261 Harolds Cross Rd, Harolds Cross, Dublin 6W",Dublin,127750.0,No,Harolds Cross,Dublin 6W,q1,10%
+30/01/2019,"Flat 2 261 Harolds Cross Road, Dublin 6W",Dublin,127750.0,No,Harolds Cross,Dublin 6W,q1,10%
+30/01/2019,"Flat 3 261 Harolds Cross Road, Dublin 6W",Dublin,127750.0,No,Harolds Cross,Dublin 6W,q1,10%
+30/01/2019,"Flat 4 261 Harolds Cross Road, Dublin 6W",Dublin,127750.0,No,Harolds Cross,Dublin 6W,q1,10%
+30/01/2019,"Flat 5 261 Harolds Cross Road, Dublin 6W",Dublin,127750.0,No,Harolds Cross,Dublin 6W,q1,10%
+30/01/2019,"Flat 6 261 Harolds Cross Road, Dublin 6W",Dublin,127750.0,No,Harolds Cross,Dublin 6W,q1,10%
+30/01/2019,"Flat 7 261 Harolds Cross Road, Dublin 6W",Dublin,127750.0,No,Harolds Cross,Dublin 6W,q1,10%
+30/01/2019,"Flat 8 261 Harolds Cross Road, Dublin 6W",Dublin,127750.0,No,Harolds Cross,Dublin 6W,q1,10%
+31/01/2019,"9 Kenilworth Lane West, Harolds Cross, Dublin 6",Dublin,635000.0,No,Harolds Cross,Dublin 6W,q4,90%
+08/02/2019,"120 Larkfield Gardens, Harolds Cross, Dublin 6W",Dublin,430000.0,No,Harolds Cross,Dublin 6W,q3,70%
+13/03/2019,"34 Clareville Rd, Harolds Cross, Dublin 6W",Dublin,601000.0,No,Harolds Cross,Dublin 6W,q4,90%
+14/03/2019,"95 Larkfield Grove, Harolds Cross, Dublin 6W",Dublin,425000.0,No,Harolds Cross,Dublin 6W,q3,70%
+25/03/2019,"37 Mount Drummond Sq, Harolds Cross, Dublin 6",Dublin,375000.0,No,Harolds Cross,Dublin 6W,q3,60%
+29/03/2019,"1 Zuma Terrace, Harolds Cross Dublin 6, Dublin",Dublin,550000.0,No,Harolds Cross,Dublin 6W,q4,90%
+01/04/2019,"17 Larkfield Park, Harolds Cross, Dublin 6W",Dublin,614000.0,No,Harolds Cross,Dublin 6W,q4,90%
+02/04/2019,"39 Gandon Close, Harolds Cross Rd, Harolds Cross Dublin 6W",Dublin,240000.0,No,Harolds Cross,Dublin 6W,q1,30%
+10/04/2019,"6 Laurence Court, Mount Argus Road, Harolds Cross",Dublin,270000.0,No,Harolds Cross,Dublin 6W,q2,30%
+07/05/2019,"166 Harolds Cross Rd, Harolds Cross, Dublin 6",Dublin,545000.0,No,Harolds Cross,Dublin 6W,q4,90%
+09/05/2019,"14 Mountain View Court, Mountain View Ave, Harolds Cross Dublin 6W",Dublin,306000.0,No,Harolds Cross,Dublin 6W,q2,50%
+09/05/2019,"26 Mount Argus Crescent, Harolds Cross, Dublin 6",Dublin,443000.0,No,Harolds Cross,Dublin 6W,q3,80%
+16/05/2019,"10 Mount Argus Crescent, Harolds Cross, Dublin 6W",Dublin,435000.0,No,Harolds Cross,Dublin 6W,q3,70%
+17/05/2019,"18 Armstrong St, Harolds Cross, Dublin 6",Dublin,370000.0,No,Harolds Cross,Dublin 6W,q3,60%
+27/05/2019,"29 Westfield Rd, Harolds Cross, Dublin 6W",Dublin,850000.0,No,Harolds Cross,Dublin 6W,q4,100%
+31/05/2019,"79 Leinster Park, Harolds Cross, Dublin 6W",Dublin,625000.0,No,Harolds Cross,Dublin 6W,q4,90%
+05/06/2019,"3 Mountain View Court, Mountain View Ave, Harolds Cross Dublin 6W",Dublin,240000.0,No,Harolds Cross,Dublin 6W,q1,30%
+07/06/2019,"38 Harolds Cross Cottages, Harolds Cross, Dublin 6",Dublin,360000.0,No,Harolds Cross,Dublin 6W,q3,60%
+24/06/2019,"26 Church Park Dr, Mount Argus, Harolds Cross Dublin 6W",Dublin,320000.0,No,Harolds Cross,Dublin 6W,q2,50%
+28/06/2019,"8 Parkview Ave, Harolds Cross, Dublin 6",Dublin,675000.0,No,Harolds Cross,Dublin 6W,q4,100%
+12/07/2019,"7 Mount Argus Sq, Kimmage Rd Lower, Harolds Cross Dublin 6W",Dublin,400000.0,No,Harolds Cross,Dublin 6W,q3,70%
+18/07/2019,"6 Harolds Cross Cottages, Harolds Cross, Dublin 6W",Dublin,295000.0,No,Harolds Cross,Dublin 6W,q2,50%
+24/07/2019,"29 Mount Argus Crescent, Harolds Cross, Dublin 6W",Dublin,338000.0,No,Harolds Cross,Dublin 6W,q3,60%
+01/08/2019,"2 Greenmount Court, Harolds Cross, Dublin 6W",Dublin,315000.0,No,Harolds Cross,Dublin 6W,q2,50%
+08/08/2019,"36 Larkfield Park, Harolds Cross, Dublin 6",Dublin,465000.0,No,Harolds Cross,Dublin 6W,q3,80%
+12/08/2019,"27 Larkfield Grove, Harolds Cross, Dublin 6W",Dublin,470000.0,No,Harolds Cross,Dublin 6W,q4,80%
+15/08/2019,"4 Cherry Court, Mount Tallant Ave, Harolds Cross Dublin 6W",Dublin,250000.0,No,Harolds Cross,Dublin 6W,q2,30%
+20/08/2019,"20 Parkview Ave, Harolds Cross, Dublin 6W",Dublin,675000.0,No,Harolds Cross,Dublin 6W,q4,100%
+23/08/2019,"10 St Clares Ave, Harolds Cross, Dublin 6",Dublin,541000.0,No,Harolds Cross,Dublin 6W,q4,90%
+28/08/2019,"52C Mount Argus Rd, Harolds Cross, Dublin 6W",Dublin,505000.0,No,Harolds Cross,Dublin 6W,q4,80%
+30/08/2019,"2 Mount Argus Ave, Harolds Cross, Dublin 6W",Dublin,335000.0,No,Harolds Cross,Dublin 6W,q3,60%
+13/09/2019,"9 Mount Argus Terrace, Harolds Cross, Dublin 6W",Dublin,440000.0,No,Harolds Cross,Dublin 6W,q3,80%
+16/09/2019,"9 Mt Argus Green, Harolds Cross, Dublin 6",Dublin,461000.0,No,Harolds Cross,Dublin 6W,q3,80%
+20/09/2019,"275 Harolds Cross Rd, Harolds Cross, Dublin 6W",Dublin,450000.0,No,Harolds Cross,Dublin 6W,q3,80%
+20/09/2019,"7 Green Mount Lane, Harolds Cross, Dublin 12",Dublin,318000.0,No,Harolds Cross,Dublin 6W,q2,50%
+26/09/2019,"12 Armstrong St, Harolds Cross, Dublin 6",Dublin,366000.0,No,Harolds Cross,Dublin 6W,q3,60%
+27/09/2019,"5 Casimir Ave, Harolds Cross, Dublin 6W",Dublin,730000.0,No,Harolds Cross,Dublin 6W,q4,100%
+18/10/2019,"12 Arbutus Ave, Harolds Cross, Dublin 12",Dublin,590000.0,No,Harolds Cross,Dublin 6W,q4,90%

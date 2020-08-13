@@ -1,0 +1,42 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+26/02/2010,"18 Abbey Court, Lower Abbey Street",Dublin,210000.0,No,Abbey St,Dublin 1,q3,70%
+06/09/2010,"3 Jervis Place, Abbey Street, Dublin 1",Dublin,137000.0,No,Abbey St,Dublin 1,q2,30%
+08/10/2010,"84 Middle Abbey Street, Dublin 1",Dublin,600000.0,No,Abbey St,Dublin 1,q4,100%
+22/10/2010,"Apartment 126, Jervis Place, Lwr Abbey Street",Dublin,162000.0,No,Abbey St,Dublin 1,q2,50%
+08/08/2012,"139 Jervis Place, Abbey Steet, Dublin 1",Dublin,135000.0,No,Abbey St,Dublin 1,q1,30%
+04/12/2012,"Apartment 10, Abbey Court, Lower Abbey Street",Dublin,116000.0,No,Abbey St,Dublin 1,q1,10%
+01/03/2013,"Apartment 25 Jervis Place, Abbey Street, Dublin 1",Dublin,140000.0,No,Abbey St,Dublin 1,q2,30%
+24/05/2013,"I Abbey Court, Lr Abbey Street, Dublin 1",Dublin,110000.0,No,Abbey St,Dublin 1,q1,10%
+16/12/2013,"19 Jervis Place, Abbey St, Dublin 1",Dublin,153000.0,No,Abbey St,Dublin 1,q2,40%
+19/12/2013,"Apt 1, Chapter House, Abbey Street Upper",Dublin,134116.96,No,Abbey St,Dublin 1,q1,10%
+19/12/2013,"Apt 2, Chapter House, Abbey Street Upper",Dublin,134116.96,No,Abbey St,Dublin 1,q1,10%
+19/12/2013,"Apt 3, Chapter House, Abbey Street Upper",Dublin,134116.96,No,Abbey St,Dublin 1,q1,20%
+19/12/2013,"Apt 4, Chapter House, Abbey Street Upper",Dublin,134116.96,No,Abbey St,Dublin 1,q1,20%
+19/12/2013,"Apt 5, Chapter House, Abbey Street Upper",Dublin,134116.96,No,Abbey St,Dublin 1,q1,20%
+19/12/2013,"Apt 6, Chapter House, Abbey Street Upper",Dublin,134116.96,No,Abbey St,Dublin 1,q1,20%
+19/12/2013,"Apt 7, Chapter House, Abbey Street Upper",Dublin,134116.96,No,Abbey St,Dublin 1,q1,30%
+19/12/2013,"Apt 9, Chapter House, Abbey Street Upper",Dublin,168060.13,No,Abbey St,Dublin 1,q2,50%
+27/02/2014,"Apt 20, Jervis Place, Abbey St Dublin 1",Dublin,152500.0,No,Abbey St,Dublin 1,q2,40%
+17/04/2014,"Apt 9, Jervis Place, Upper Abbey St Dublin 1",Dublin,120000.0,No,Abbey St,Dublin 1,q1,10%
+15/07/2014,"Apt 100 Jervis Place, Middle Abbey Street",Dublin,202500.0,No,Abbey St,Dublin 1,q3,60%
+14/08/2014,"Apt 34, 46 Middle Abbey St, Dublin 1",Dublin,220000.0,No,Abbey St,Dublin 1,q3,70%
+03/09/2014,"54 Jervis Place, Abbey St, Dublin 1",Dublin,203000.0,No,Abbey St,Dublin 1,q3,60%
+31/10/2014,"Apt 6 Abbey Court, Abbey St, Dublin 1",Dublin,155000.0,No,Abbey St,Dublin 1,q2,40%
+12/12/2014,"83 Jervis Place, Upper Abbey Street, Dublin 1",Dublin,165000.0,No,Abbey St,Dublin 1,q2,50%
+21/01/2015,"Apartment 35, 46 Middle Abbey Street, Dublin 1",Dublin,240000.0,No,Abbey St,Dublin 1,q3,80%
+20/11/2015,"Apartment 47, Jervis Place, Abbey Street",Dublin,175000.0,No,Abbey St,Dublin 1,q3,60%
+11/08/2016,"61 Jervis Place, Upper Abbey St, Dublin 1",Dublin,166000.0,No,Abbey St,Dublin 1,q2,50%
+16/09/2016,"Apartment 48, Jervis Place, Abbey Street",Dublin,158000.0,No,Abbey St,Dublin 1,q2,40%
+07/12/2016,"Apt 3 Abbey Court Apts, Irish Life Centre, Abbey St Lower Dublin 1",Dublin,216500.0,No,Abbey St,Dublin 1,q3,70%
+15/02/2017,"Apt 1  58/59 Middle Abbey Street, Dublin 1",Dublin,1200000.0,No,Abbey St,Dublin 1,q4,100%
+31/03/2017,"Apt 1, 42 Middle Abbey St, Dublin 1",Dublin,585000.0,No,Abbey St,Dublin 1,q4,90%
+30/05/2017,"77 Jervis Place, Upper Abbey St, Dublin 1",Dublin,225000.0,No,Abbey St,Dublin 1,q3,70%
+17/10/2017,"Apt 1, 94 Middle Abbey St, Dublin 1",Dublin,1200000.0,No,Abbey St,Dublin 1,q4,100%
+01/12/2017,"Apt 2, 42 Middle Abbey St, Dublin 1",Dublin,585000.0,No,Abbey St,Dublin 1,q4,100%
+22/02/2018,"Apt 76 Jervis Place, Upper Abbey St, Dublin 1",Dublin,270000.0,No,Abbey St,Dublin 1,q4,80%
+27/06/2018,"51 Jervis Place, Upper Abbey St, Dublin 1",Dublin,193333.0,No,Abbey St,Dublin 1,q3,60%
+20/06/2019,"19 Jervis Place, Abbey St, Dublin 1",Dublin,255000.0,No,Abbey St,Dublin 1,q3,80%
+05/07/2019,"Apt 6 Abbey Court, Irish Life Centre, Abbey Street",Dublin,300000.0,No,Abbey St,Dublin 1,q4,90%
+30/08/2019,"The Old College, Abbey St, Dublin",Dublin,520000.0,No,Abbey St,Dublin 1,q4,90%
+12/09/2019,"Apartment 17, Abbey Court Apartments, Lower Abbey Street",Dublin,300000.0,No,Abbey St,Dublin 1,q4,90%
+18/10/2019,"Apt 75 Jervis Place, Upper Abbey St, Dublin 1",Dublin,270000.0,No,Abbey St,Dublin 1,q4,80%

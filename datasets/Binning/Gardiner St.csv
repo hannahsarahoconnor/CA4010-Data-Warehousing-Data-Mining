@@ -1,0 +1,131 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+29/01/2010,"Apartment 40, Gandon Hall, Lower Gardiner Street",Dublin,150000.0,No,Gardiner St,Dublin 1,q2,40%
+11/06/2010,"14 Upper Gardiner Stree, Dublin 1",Dublin,200000.0,No,Gardiner St,Dublin 1,q3,60%
+26/08/2010,"Apartment 58 Custom Hall, Gardiner Street, Dublin 1",Dublin,196000.0,No,Gardiner St,Dublin 1,q3,60%
+24/02/2011,"99  Custom Hall, Lower Gardiner Street, Dublin 1",Dublin,190000.0,No,Gardiner St,Dublin 1,q3,60%
+02/09/2011,"148, Custom Hall, Lower Gardiner Street",Dublin,120000.0,No,Gardiner St,Dublin 1,q1,20%
+11/10/2011,"65 Custom Hall, Lower Gardiner Street",Dublin,130000.0,No,Gardiner St,Dublin 1,q1,20%
+08/12/2011,"37, Upper Gardiner Street",Dublin,280000.0,No,Gardiner St,Dublin 1,q4,80%
+17/04/2012,"Apartment 47, Gandon Hall, Lr Gardiner Street",Dublin,54715.0,No,Gardiner St,Dublin 1,q1,10%
+02/11/2012,"36 Upper Gardiner Street, Dublin 1",Dublin,590000.0,No,Gardiner St,Dublin 1,q4,100%
+10/01/2013,"4 Upper Gardiner Street, Dublin 1",Dublin,335000.0,No,Gardiner St,Dublin 1,q4,90%
+29/04/2013,"Apt. 49  Belmont Hall., Middle Gardiner St., Dublin 1",Dublin,130000.0,Yes,Gardiner St,Dublin 1,q1,20%
+17/07/2013,"90 Custom Hall, Lower Gardiner Street",Dublin,94000.0,No,Gardiner St,Dublin 1,q1,10%
+08/08/2013,"88 Custom Hall, Gardiner Street, Dublin 1",Dublin,95000.0,No,Gardiner St,Dublin 1,q1,10%
+10/09/2013,"116 Custom Hall, Lower Gardiner Street, Dublin 1",Dublin,84850.0,No,Gardiner St,Dublin 1,q1,10%
+18/09/2013,"Apartment 32, Gandon Hall, Gardiner Street",Dublin,95000.0,No,Gardiner St,Dublin 1,q1,10%
+27/09/2013,"Apartment 27 Dorset Square, Upper Gardiner Street",Dublin,164000.0,No,Gardiner St,Dublin 1,q2,50%
+07/11/2013,"Apartment 21  Belmont, Middle Gardiner Street",Dublin,85000.0,Yes,Gardiner St,Dublin 1,q1,10%
+13/11/2013,"37 Dorset Square, Upper Gardiner Street, Dublin 1",Dublin,139000.0,No,Gardiner St,Dublin 1,q2,30%
+18/12/2013,"Apartment 20, Belmont, Middle Gardiner Street",Dublin,73525.0,Yes,Gardiner St,Dublin 1,q1,10%
+19/12/2013,"102 Custom Hall, Lr Gardiner St, Dublin 1",Dublin,120000.0,No,Gardiner St,Dublin 1,q1,20%
+24/01/2014,"58 Gandon Hall, Lower Gardiner Street, Dublin 1",Dublin,100000.0,No,Gardiner St,Dublin 1,q1,10%
+01/04/2014,"5 Gardiner Street Upper, Dublin 1",Dublin,450000.0,No,Gardiner St,Dublin 1,q4,90%
+15/04/2014,"Apt 6, 32-33 Upper Gardiner Street, Dublin 1",Dublin,175000.0,No,Gardiner St,Dublin 1,q2,50%
+15/05/2014,"No 14, Upper Gardiner Street, Dublin 1",Dublin,380000.0,No,Gardiner St,Dublin 1,q4,90%
+11/06/2014,"63 Belmont Hall, Middle Gardiner St, Dublin 1",Dublin,125000.0,No,Gardiner St,Dublin 1,q1,20%
+26/06/2014,"42 Custom Hall, Gardiner St, Dublin 1",Dublin,118000.0,No,Gardiner St,Dublin 1,q1,20%
+18/07/2014,"17 Custom Hall, Deverell Place, Gardiner St Lower Dublin 1",Dublin,149000.0,No,Gardiner St,Dublin 1,q2,40%
+29/07/2014,"49 Custom Hall, Gardiner St Lower, Dublin 1",Dublin,115000.0,No,Gardiner St,Dublin 1,q1,20%
+19/08/2014,"12 Belmont Hall, Gardiner St, Dublin 1",Dublin,142000.0,No,Gardiner St,Dublin 1,q2,30%
+25/08/2014,"31 Dorset Square, 31 Upper Gardiner Street, Dublin 1",Dublin,164500.0,No,Gardiner St,Dublin 1,q2,50%
+08/09/2014,"152 Custom Hall, Lower Gardiner St, Dublin 1",Dublin,147000.0,No,Gardiner St,Dublin 1,q2,40%
+12/09/2014,"29 Belmont Hall, Gardiner St Lower, Dublin 1",Dublin,161000.0,No,Gardiner St,Dublin 1,q2,40%
+23/09/2014,"171 Custom Hall, Lower Gardiner St, Dublin 1",Dublin,120000.0,No,Gardiner St,Dublin 1,q1,20%
+23/09/2014,"25 Upper Gardiner Street, Dublin",Dublin,340000.0,No,Gardiner St,Dublin 1,q4,90%
+13/12/2014,"22 Belmont Hall, Gardiner St Lower, Dublin 1",Dublin,131000.0,No,Gardiner St,Dublin 1,q1,20%
+22/12/2014,"34 Dorset Square, Upper Gardiner Street",Dublin,178619.0,No,Gardiner St,Dublin 1,q2,50%
+23/12/2014,"33 Dorset Square, Gardiner St Upper, Dublin 1",Dublin,148000.0,No,Gardiner St,Dublin 1,q2,40%
+23/12/2014,"85 Gandon Hall, Lower Gardiner Street, Dublin 1",Dublin,115000.0,No,Gardiner St,Dublin 1,q1,20%
+19/02/2015,"26 Gandon Hall, Gardiner St Lower, Dublin",Dublin,107500.0,No,Gardiner St,Dublin 1,q1,20%
+04/06/2015,"Apt 117, Block 4 Custom Hall, Lower Gardiner St Dublin 1",Dublin,88000.0,No,Gardiner St,Dublin 1,q1,10%
+05/06/2015,"20 Dorset Sq, Gardiner St, Dublin 1",Dublin,145000.0,No,Gardiner St,Dublin 1,q2,40%
+01/09/2015,"6 Gardiner St Upper, Dublin 1",Dublin,860000.0,No,Gardiner St,Dublin 1,q4,100%
+11/09/2015,"78 Custom Hall, Lower Gardiner St, Dublin 1",Dublin,228000.0,No,Gardiner St,Dublin 1,q3,70%
+30/11/2015,"89 Gandon Hall, Lower Gardiner Street, Dublin 1",Dublin,105000.0,No,Gardiner St,Dublin 1,q1,10%
+08/12/2015,"38 Dorset Sq, Gardiner St Upper, Dublin 1",Dublin,140000.0,No,Gardiner St,Dublin 1,q2,30%
+22/01/2016,"59 Gandon Hall, Gardiner Street Lower, Dublin 1",Dublin,126000.0,No,Gardiner St,Dublin 1,q1,20%
+25/02/2016,"55 Custom Hall, Gardiner St, Dublin 1",Dublin,167500.0,No,Gardiner St,Dublin 1,q2,50%
+08/03/2016,"27 Gandon Hall, Gardiner St, Dublin 1",Dublin,100000.0,No,Gardiner St,Dublin 1,q1,10%
+08/03/2016,"3 Gandon Hall, Gardiner St, Dublin 1",Dublin,100000.0,No,Gardiner St,Dublin 1,q1,10%
+01/04/2016,"Apt A, Mabbot House, 91 Lower Gardiner Street Rear",Dublin,132500.0,No,Gardiner St,Dublin 1,q1,20%
+01/04/2016,"Apt B, Mabbot House, 91 Lower Gardiner Street Rear",Dublin,132500.0,No,Gardiner St,Dublin 1,q1,30%
+01/04/2016,"Apt C, Mabbot House, 91 Lower Gardiner Street Rear",Dublin,132500.0,No,Gardiner St,Dublin 1,q1,30%
+01/04/2016,"Apt D, Mabbot House, 91 Lower Gardiner Street Rear",Dublin,132500.0,No,Gardiner St,Dublin 1,q1,30%
+01/04/2016,"Apt E, Mabbot House, 91 Lower Gardiner Street Rear",Dublin,132500.0,No,Gardiner St,Dublin 1,q1,30%
+01/04/2016,"Apt F, Mabbot House, 91 Lower Gardiner Street Rear",Dublin,132500.0,No,Gardiner St,Dublin 1,q1,30%
+01/04/2016,"Apt G, Mabbot House, 91 Lower Gardiner Street Rear",Dublin,132500.0,No,Gardiner St,Dublin 1,q1,30%
+01/04/2016,"Apt H, Mabbot House, 91 Lower Gardiner Street Rear",Dublin,132500.0,No,Gardiner St,Dublin 1,q1,30%
+01/04/2016,"Apt I, Mabbot House, 91 Lower Gardiner Street Rear",Dublin,132500.0,No,Gardiner St,Dublin 1,q2,30%
+01/04/2016,"Apt J, Mabbot House, 91 Lower Gardiner Street Rear",Dublin,132500.0,No,Gardiner St,Dublin 1,q2,30%
+06/04/2016,"155 Custom Hall, Lower Gardiner St, Dublin",Dublin,207000.0,No,Gardiner St,Dublin 1,q3,70%
+06/04/2016,"2 Belmont, Gardiner St, Dublin 1",Dublin,2815000.0,No,Gardiner St,Dublin 1,q4,100%
+06/04/2016,"Apt 6, Belmont, Gardiner St Middle Dublin 1",Dublin,3061000.0,No,Gardiner St,Dublin 1,q4,100%
+19/05/2016,"Apt 4 Belmont Hall, Middle Gardiner Street, Dublin 1",Dublin,144000.0,No,Gardiner St,Dublin 1,q2,30%
+24/05/2016,"167 Custom Hall, Gardiner St, Dublin 1",Dublin,165000.0,No,Gardiner St,Dublin 1,q2,50%
+16/06/2016,"28 Dorset Sq, Gardiner St, Dublin 1",Dublin,220000.0,No,Gardiner St,Dublin 1,q3,70%
+04/07/2016,"No 79A Talbot Street  And, 43 Lower Gardiner Street, Dublin1",Dublin,400000.0,No,Gardiner St,Dublin 1,q4,90%
+06/07/2016,"13 Belmont Hall, Gardiner Street, Dublin 1",Dublin,185000.0,No,Gardiner St,Dublin 1,q2,50%
+08/07/2016,"143 Custom Hall, Gardiner St, Dublin 1",Dublin,195000.0,No,Gardiner St,Dublin 1,q3,60%
+14/07/2016,"Apartment 7, 32-33 Gardiner Street, Dublin 1",Dublin,152000.0,No,Gardiner St,Dublin 1,q2,40%
+21/07/2016,"35 Custom Hall, Gardiner St, Dublin 1",Dublin,155000.0,No,Gardiner St,Dublin 1,q2,40%
+15/09/2016,"16 Dorset Sq, Upper Gardiner St, Dublin 1",Dublin,224000.0,No,Gardiner St,Dublin 1,q3,70%
+28/09/2016,"76 Upper Gardiner St, Dublin 1",Dublin,1650000.0,No,Gardiner St,Dublin 1,q4,100%
+21/10/2016,"Flat 1, 52 Upper Gardiner Street, Dublin 1",Dublin,320000.0,No,Gardiner St,Dublin 1,q4,90%
+01/11/2016,"33 Belmont Hall, Middle Gardiner St, Dublin 1",Dublin,190000.0,No,Gardiner St,Dublin 1,q3,60%
+11/11/2016,"118 Custom Hall, Lower Gardiner St, Dublin 1",Dublin,160500.0,No,Gardiner St,Dublin 1,q2,40%
+23/11/2016,"37 Belmont Hall, Gardiner St, Dublin 1",Dublin,200000.0,No,Gardiner St,Dublin 1,q3,60%
+24/11/2016,"90 Gandon Hall, Gardiner St, Dublin 1",Dublin,145000.0,No,Gardiner St,Dublin 1,q2,40%
+06/12/2016,"140 Custom Hall, Lower Gardiner St, Dublin 1",Dublin,180000.0,No,Gardiner St,Dublin 1,q2,50%
+19/12/2016,"Apt 32, Gandon Hall, Gardiner St",Dublin,207000.0,No,Gardiner St,Dublin 1,q3,70%
+22/12/2016,"72 Gloucester Sq, Gardiner St, Dublin 1",Dublin,187000.0,No,Gardiner St,Dublin 1,q2,50%
+22/12/2016,"80 Gandon Hall, Lower Gardiner St, Dublin 1",Dublin,144000.0,No,Gardiner St,Dublin 1,q2,40%
+01/03/2017,"24 Gardiner St Upper, Dublin 1, Dublin",Dublin,540000.0,No,Gardiner St,Dublin 1,q4,100%
+11/03/2017,"53 Gandon Hall, Lower Gardiner Street, Dublin 1",Dublin,148000.0,No,Gardiner St,Dublin 1,q2,40%
+16/03/2017,"63 Belmont Hall, Middle Gardiner St, Dublin 1",Dublin,205000.0,No,Gardiner St,Dublin 1,q3,70%
+13/04/2017,"79 Custom Hall, Gardiner Str, Dublin 1",Dublin,299000.0,No,Gardiner St,Dublin 1,q4,90%
+21/04/2017,"29 Dorset Sq, Gardiner St Upper, Dublin 1",Dublin,225000.0,No,Gardiner St,Dublin 1,q3,70%
+24/05/2017,"18 Custom Hall, Gardiner St Lower, Dublin 1",Dublin,212000.0,No,Gardiner St,Dublin 1,q3,70%
+23/06/2017,"8 Belmont Hall, Gardiner St, Dublin",Dublin,190000.0,No,Gardiner St,Dublin 1,q3,60%
+07/07/2017,"46 Belmont Hall, Middle Gardiner St, Dublin 1",Dublin,200000.0,No,Gardiner St,Dublin 1,q3,60%
+19/07/2017,"24 Belmont Hall, Middle Gardiner St, Dublin 1",Dublin,215000.0,No,Gardiner St,Dublin 1,q3,70%
+26/07/2017,"173 Custom Hall, Gardiner St Lower, Dublin 1",Dublin,205000.0,No,Gardiner St,Dublin 1,q3,70%
+28/09/2017,"7 Gandon Hall, Gardiner St, Dublin 1",Dublin,185000.0,No,Gardiner St,Dublin 1,q2,50%
+13/10/2017,"Apt 1, 40 Upper Gardiner Street, Dublin 1",Dublin,710000.0,No,Gardiner St,Dublin 1,q4,100%
+10/11/2017,"Block 5, 158 Custom Hall, Lower Gardiner St",Dublin,192000.0,No,Gardiner St,Dublin 1,q3,60%
+15/11/2017,"Apartments 1-15, 31 35 Middle Gardiner St, Dublin 1",Dublin,2331000.0,No,Gardiner St,Dublin 1,q4,100%
+16/11/2017,"3 Belmont Hall, Middle Gardiner St, Dublin 1",Dublin,195000.0,No,Gardiner St,Dublin 1,q3,60%
+30/11/2017,"55 Gandon Hall, Gardiner Street, Dublin 1",Dublin,175000.0,No,Gardiner St,Dublin 1,q2,50%
+05/12/2017,"28A Dorset Sq, Upper Gardiner St, Dublin 1",Dublin,280000.0,No,Gardiner St,Dublin 1,q4,80%
+06/12/2017,"Apt 1, 40 Upper Gardiner Street, Dublin 1",Dublin,710000.0,No,Gardiner St,Dublin 1,q4,100%
+13/12/2017,"Apt 72, Gandon Hall, Gardiner St Dublin 1",Dublin,175000.0,No,Gardiner St,Dublin 1,q2,50%
+15/12/2017,"102 Custom Hall, Lower Gardiner Street, Dublin 1",Dublin,230000.0,No,Gardiner St,Dublin 1,q3,80%
+08/02/2018,"Apartment 36, Belmont Hall, Gardiner Street",Dublin,190000.0,No,Gardiner St,Dublin 1,q3,60%
+12/02/2018,"29 Custom Hall, Gardiner St, Dublin 1",Dublin,326000.0,No,Gardiner St,Dublin 1,q4,90%
+06/03/2018,"63 Gandon Hall, Gardiner St Lower, Dublin 1",Dublin,199950.0,No,Gardiner St,Dublin 1,q3,60%
+20/03/2018,"24 Gandon Hall, Lower Gardiner St, Dublin 1",Dublin,170000.0,No,Gardiner St,Dublin 1,q2,50%
+20/03/2018,"Rear Of 34/35 Upper Gardiner Street, Dublin 1",Dublin,925000.0,Yes,Gardiner St,Dublin 1,q4,100%
+22/03/2018,"21 Gardiner Street Upper, Dublin 1",Dublin,430000.0,No,Gardiner St,Dublin 1,q4,90%
+23/03/2018,"Apt 21, Dorset Sq, Gardiner St Dublin 1",Dublin,270000.0,No,Gardiner St,Dublin 1,q4,80%
+20/04/2018,"46 Custom Hall, Lower Gardiner St, Dublin 1",Dublin,235500.0,No,Gardiner St,Dublin 1,q3,80%
+17/05/2018,"Apt 49, 55 Mountjoy Sq, Gardiner St Dublin 1",Dublin,280200.0,No,Gardiner St,Dublin 1,q4,80%
+08/06/2018,"Apt 6, 32-33 Upper Gardiner Street, Dublin 1",Dublin,260000.0,No,Gardiner St,Dublin 1,q4,80%
+12/06/2018,"54 Belmont Hall, Gardiner St Middle, Dublin 1",Dublin,160000.0,No,Gardiner St,Dublin 1,q2,40%
+26/07/2018,"55 Custom Hall, Gardiner St, Dublin 1",Dublin,250000.0,No,Gardiner St,Dublin 1,q4,80%
+30/08/2018,"59 Dorset Sq, Upper Gardiner St, Dublin 1",Dublin,195100.0,No,Gardiner St,Dublin 1,q3,60%
+31/08/2018,"Apt 110, Custom Hall, Lower Gardiner St Dublin 1",Dublin,230000.0,No,Gardiner St,Dublin 1,q3,80%
+17/10/2018,"Apt 1, 4 Upper Gardiner Street, Dublin 1",Dublin,1150000.0,No,Gardiner St,Dublin 1,q4,100%
+19/10/2018,"Apt 2, 47 Upper Gardiner St, Dublin 1",Dublin,245000.0,No,Gardiner St,Dublin 1,q3,80%
+27/11/2018,"77 Gandon Hall, Gardiner St, Dublin 1",Dublin,213000.0,No,Gardiner St,Dublin 1,q3,70%
+19/12/2018,"66 Gandon Hall, Gardiner St, Dublin 1",Dublin,200000.0,No,Gardiner St,Dublin 1,q3,70%
+20/12/2018,"12A Belmont Hall, Middle Gardiner St, Dublin City",Dublin,100000.0,No,Gardiner St,Dublin 1,q1,10%
+21/12/2018,"15 Upper Gardiner Street, Dublin 1",Dublin,300000.0,No,Gardiner St,Dublin 1,q4,90%
+21/12/2018,"16 Upper Gardiner Street, Dublin 1",Dublin,300000.0,No,Gardiner St,Dublin 1,q4,90%
+28/02/2019,"70, Gardiner Street Lower",Dublin,487200.0,No,Gardiner St,Dublin 1,q4,100%
+01/04/2019,"1 Belmont Hall, Gardiner St Middle, Dublin 1",Dublin,253000.0,No,Gardiner St,Dublin 1,q4,80%
+11/04/2019,"34 Dorset Square, Upper Gardiner Street, Dublin 1",Dublin,233427.49,No,Gardiner St,Dublin 1,q3,80%
+21/05/2019,"73 Gandon Hall, Lower Gardiner St, Dublin 1",Dublin,206000.0,No,Gardiner St,Dublin 1,q3,70%
+25/06/2019,"107 Custom Hall, Lower Gardiner St, Dublin 1",Dublin,305000.0,No,Gardiner St,Dublin 1,q4,90%
+08/08/2019,"70 Gandon Hall, Lower Gardiner St, Dublin 1",Dublin,240000.0,No,Gardiner St,Dublin 1,q3,80%
+12/08/2019,"Apt 1, 81 Lower Gardiner St, Dublin 1",Dublin,1625000.0,No,Gardiner St,Dublin 1,q4,100%
+13/09/2019,"9 Custom Hall, Gardiner St, Dublin 1",Dublin,296000.0,No,Gardiner St,Dublin 1,q4,90%

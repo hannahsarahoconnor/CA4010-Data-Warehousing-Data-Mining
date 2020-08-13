@@ -1,0 +1,578 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+15/01/2010,"48 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,163000.0,Yes,Ashtown,Dublin 15,q1,30%
+21/01/2010,"Apartment 72 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,147136.5,Yes,Ashtown,Dublin 15,q1,20%
+21/01/2010,"No 42 Royal Canal Court, Ashtown, Dublin 15",Dublin,263665.19,Yes,Ashtown,Dublin 15,q2,50%
+27/01/2010,"3 The Waxworks, Ashtown Square, Ashtown",Dublin,255507.0,Yes,Ashtown,Dublin 15,q2,50%
+27/01/2010,"59 The Waxworks, Ashtown Square, Ashtown",Dublin,255507.0,Yes,Ashtown,Dublin 15,q2,50%
+02/02/2010,"20 Royal Canal Court, Ashtown, Dublin 15",Dublin,17666.67,Yes,Ashtown,Dublin 15,q1,10%
+05/02/2010,"104 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,150660.0,Yes,Ashtown,Dublin 15,q1,20%
+09/02/2010,"44 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,143612.33,Yes,Ashtown,Dublin 15,q1,20%
+10/02/2010,"Apt 130 Royal Canal Court, Ashtown, Dublin 15",Dublin,163225.0,Yes,Ashtown,Dublin 15,q1,30%
+10/02/2010,"No. 130 Royal Canal Court, Ashtown, Dublin 15",Dublin,163224.67,Yes,Ashtown,Dublin 15,q1,30%
+12/02/2010,"102  Royal Canal Court, Royal Canal Way, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/02/2010,"46 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,143612.33,Yes,Ashtown,Dublin 15,q1,20%
+01/03/2010,"106 Royal Canal Court, Ashtown",Dublin,285000.0,Yes,Ashtown,Dublin 15,q3,60%
+03/03/2010,"134 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,295000.0,Yes,Ashtown,Dublin 15,q3,70%
+05/03/2010,"Unit 128 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,37843.75,Yes,Ashtown,Dublin 15,q1,10%
+11/03/2010,"Apartment 5  Ashbrook, Ashtown",Dublin,105000.0,No,Ashtown,Dublin 15,q1,10%
+12/03/2010,"76 Royal Canal Court, Ashtown",Dublin,145374.45,Yes,Ashtown,Dublin 15,q1,20%
+12/03/2010,"Unit 100 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+01/04/2010,"132 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,140969.16,Yes,Ashtown,Dublin 15,q1,20%
+07/04/2010,"98 Royal Canal Court, Ashtown, Dublin 15",Dublin,278000.0,Yes,Ashtown,Dublin 15,q3,60%
+09/04/2010,"16 Royal Canal Court, Ashtown",Dublin,140088.1,Yes,Ashtown,Dublin 15,q1,20%
+09/04/2010,"Unit 78  Royal Canal Court, Royal Canal Way  Ashtown, Dublin 15",Dublin,252863.44,Yes,Ashtown,Dublin 15,q2,50%
+13/04/2010,"126 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,246696.0,Yes,Ashtown,Dublin 15,q2,50%
+13/04/2010,"152 Royal Canal Court, Ashtown, Dublin 15",Dublin,290748.89,Yes,Ashtown,Dublin 15,q3,60%
+16/04/2010,"52 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,254000.0,Yes,Ashtown,Dublin 15,q2,50%
+30/04/2010,"5 Rathborne Close, Ashtown",Dublin,370000.0,No,Ashtown,Dublin 15,q4,100%
+18/05/2010,"152 Rathborne Court, Earlswood  Ashtown, Dublin 15",Dublin,208444.0,Yes,Ashtown,Dublin 15,q2,40%
+16/06/2010,"68 The Chandler Building, Rathborne Village, Ashtown",Dublin,203540.0,Yes,Ashtown,Dublin 15,q2,40%
+24/06/2010,"53 The Chandler Building, Rathborne Village, Ashtown",Dublin,217500.0,Yes,Ashtown,Dublin 15,q2,40%
+03/08/2010,"No 3 Parkview, Rathbourne, Ashtown",Dublin,305000.0,No,Ashtown,Dublin 15,q3,70%
+20/08/2010,"116 Royal Canal Court, Royal Canal Way, Ashtown  Dublin 15",Dublin,214375.0,Yes,Ashtown,Dublin 15,q2,40%
+30/08/2010,"17 Discovery Building, Royal Canal Park, Ashtown",Dublin,248000.0,Yes,Ashtown,Dublin 15,q2,50%
+10/09/2010,"138 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,195000.0,Yes,Ashtown,Dublin 15,q2,40%
+11/10/2010,"136 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,195000.0,Yes,Ashtown,Dublin 15,q2,40%
+22/10/2010,"1 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"10 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"11 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"12 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"2 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"3 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"4 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"5 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"6 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"7 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"8 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+22/10/2010,"9 Rathborne View, Rathborne Avenue, Ashtown",Dublin,76000.0,Yes,Ashtown,Dublin 15,q1,10%
+27/10/2010,"180 Rathborne Court, Earlswood, Ashtown",Dublin,352423.0,Yes,Ashtown,Dublin 15,q4,90%
+03/11/2010,"110 Royal Canal Court, Ashtown",Dublin,190000.0,Yes,Ashtown,Dublin 15,q2,30%
+12/11/2010,"112 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,180845.81,Yes,Ashtown,Dublin 15,q2,30%
+10/12/2010,"82 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,171806.0,Yes,Ashtown,Dublin 15,q1,30%
+20/12/2010,"110 Rathborne Court, Ashtown",Dublin,171806.17,Yes,Ashtown,Dublin 15,q2,30%
+20/12/2010,"116 Rathborne Court, Ashtown",Dublin,171806.17,Yes,Ashtown,Dublin 15,q2,30%
+20/12/2010,"146 Rathborne Court, Ashtown",Dublin,171806.17,Yes,Ashtown,Dublin 15,q2,30%
+20/12/2010,"38 Rathborne Court, Ashtown",Dublin,171806.17,Yes,Ashtown,Dublin 15,q2,30%
+20/12/2010,"40 Rathborne Court, Ashtown",Dublin,171806.17,Yes,Ashtown,Dublin 15,q2,30%
+20/12/2010,"42 Rathborne Court, Ashtown",Dublin,171806.17,Yes,Ashtown,Dublin 15,q2,30%
+20/12/2010,"44 Rathborne Court, Ashtown",Dublin,171806.17,Yes,Ashtown,Dublin 15,q2,30%
+20/12/2010,"74 Rathborne Court, Ashtown",Dublin,171806.17,Yes,Ashtown,Dublin 15,q2,30%
+18/04/2011,"140 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,190000.0,Yes,Ashtown,Dublin 15,q2,30%
+23/06/2011,"No.84 Royal Canal Court, Ashtown",Dublin,171806.16,Yes,Ashtown,Dublin 15,q2,30%
+04/07/2012,"166 Meridian Court, Royal Canal Park, Ashtown",Dublin,112000.0,No,Ashtown,Dublin 15,q1,20%
+05/07/2012,"39 Compass Court South, Royal Canal Park, Ashtown",Dublin,262000.0,Yes,Ashtown,Dublin 15,q2,50%
+17/07/2012,"12 Park View, Ashtown",Dublin,166000.0,No,Ashtown,Dublin 15,q1,30%
+30/07/2012,"Apt 79  Meridan Court, Magellan Crescent, Ratoath Road  Ashtown",Dublin,80000.0,No,Ashtown,Dublin 15,q1,10%
+09/08/2012,"57 Rathbourne Drive, Ashtown",Dublin,139000.0,No,Ashtown,Dublin 15,q1,20%
+09/08/2012,"Apartment 108 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,158590.3,Yes,Ashtown,Dublin 15,q1,30%
+09/08/2012,"Apartment 2 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,158590.3,Yes,Ashtown,Dublin 15,q1,30%
+09/08/2012,"Apartment 24 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,158590.3,Yes,Ashtown,Dublin 15,q1,30%
+09/08/2012,"Apartment 26 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,158590.3,Yes,Ashtown,Dublin 15,q1,30%
+09/08/2012,"Apartment 28 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,158590.3,Yes,Ashtown,Dublin 15,q1,30%
+09/08/2012,"Apartment 54 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,158590.3,Yes,Ashtown,Dublin 15,q1,30%
+09/08/2012,"Apartment 80 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,158590.3,Yes,Ashtown,Dublin 15,q1,30%
+29/08/2012,"18  Beacon Court, Royal Canal Bank, Ashtown",Dublin,165000.0,Yes,Ashtown,Dublin 15,q1,30%
+28/09/2012,"11 Cassian Court South, Royal Canal Park, Ashtown",Dublin,110000.0,No,Ashtown,Dublin 15,q1,10%
+02/11/2012,"23 Rathborne Drive, Earlswood, Ashtown",Dublin,250000.0,No,Ashtown,Dublin 15,q2,50%
+27/11/2012,"130 Rathbourne Court, Earlswood, Rathbourne Ashtown",Dublin,155000.0,No,Ashtown,Dublin 15,q1,30%
+06/12/2012,"22 Pellettstown Manor, Ashtown",Dublin,90000.0,No,Ashtown,Dublin 15,q1,10%
+14/12/2012,"100 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,148000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"101 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,112000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"106 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,112000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"109 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,130000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"112 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,115000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"114 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,115000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"122 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,125000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"127 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,115000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"128 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,160000.0,Yes,Ashtown,Dublin 15,q1,30%
+14/12/2012,"129 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,157000.0,Yes,Ashtown,Dublin 15,q1,30%
+14/12/2012,"17 Beacon Building Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,120000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"1Cassian Court North, Royal Canal Park, Ratoath Road  Ashtown",Dublin,110000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"22 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,125000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"24 Beacon Building Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,148000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"40 Beacon Building Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,100000.0,Yes,Ashtown,Dublin 15,q1,10%
+14/12/2012,"51 Discovery Building Magellan, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,150000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"74 Horizon Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,120000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"76 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,110000.0,Yes,Ashtown,Dublin 15,q1,20%
+14/12/2012,"81 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,160000.0,Yes,Ashtown,Dublin 15,q1,30%
+14/12/2012,"82 Meridian Court Magellan Cresent, Spindrift Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,157000.0,Yes,Ashtown,Dublin 15,q1,30%
+21/12/2012,"3 Rathborne Close, Ashtown",Dublin,270000.0,No,Ashtown,Dublin 15,q3,60%
+21/12/2012,"Apartment 32 Watermint Court, Pelletstown Avenue, Royal Canal Park  Ashtown",Dublin,120000.0,No,Ashtown,Dublin 15,q1,20%
+11/02/2013,"150 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,190000.0,No,Ashtown,Dublin 15,q2,30%
+13/03/2013,"23 The Birches, Pelletstown Manor, Ashtown",Dublin,145000.0,No,Ashtown,Dublin 15,q1,20%
+25/04/2013,"30 Ashtown Grove, Navan Road, Dublin 7",Dublin,263000.0,No,Ashtown,Dublin 15,q2,50%
+30/04/2013,"68 Royal Canal Court, The Waterways, Ashtown",Dublin,213000.0,No,Ashtown,Dublin 15,q2,40%
+15/07/2013,"30 Cassincourt North, Royal Canal Park, Ashtown",Dublin,125000.0,No,Ashtown,Dublin 15,q1,20%
+18/10/2013,"69 Rathborne Court, Ashtown",Dublin,177500.0,No,Ashtown,Dublin 15,q2,30%
+28/11/2013,"92 Royal Canal Way, The Waterways, Ashtown Dublin 15",Dublin,137000.0,No,Ashtown,Dublin 15,q1,20%
+11/12/2013,"22 Ashtown Grove, Navan Road, Dublin 7",Dublin,341000.0,No,Ashtown,Dublin 15,q4,90%
+08/01/2014,"208 Rathborne Court, Ashtown, Dublin 15",Dublin,200000.0,No,Ashtown,Dublin 15,q2,40%
+11/02/2014,"31 Rathborne Ave, Ashtown, Dublin 15",Dublin,215000.0,No,Ashtown,Dublin 15,q2,40%
+20/02/2014,"Apt 54 Park View, Rathbourne, Ashtown Dublin 15",Dublin,161000.0,No,Ashtown,Dublin 15,q1,30%
+13/03/2014,"10 Cassian Court East, Royal Canal Park Ashtown, Dublin 15",Dublin,154000.0,No,Ashtown,Dublin 15,q1,20%
+23/04/2014,"108 Waxworks, The Village Court, Ashtown",Dublin,191000.0,No,Ashtown,Dublin 15,q2,30%
+23/04/2014,"76 The Waxworks, Rathbourne Village, Ashtown Dublin 15",Dublin,235000.0,No,Ashtown,Dublin 15,q2,50%
+09/05/2014,"10 The Chandler, The Village Centre, Ashtown Rd",Dublin,185000.0,No,Ashtown,Dublin 15,q2,30%
+22/05/2014,"49 Parkview Rathborne, Ashtown, Rathborne Dublin 15",Dublin,175000.0,No,Ashtown,Dublin 15,q2,30%
+18/07/2014,"3 The Paddock, Ashtown Gate, Phoenix Park Dublin 15",Dublin,350000.0,No,Ashtown,Dublin 15,q4,90%
+25/07/2014,"99 Rathborne Ave, Earlswood, Ashtown Dublin 15",Dublin,200000.0,No,Ashtown,Dublin 15,q2,40%
+27/07/2014,"50 St Martin Savage Park, Ashtown, Dublin 15",Dublin,370000.0,No,Ashtown,Dublin 15,q4,100%
+31/07/2014,"33 Rathbourne Court, Ashtown, Dublin 15",Dublin,210000.0,No,Ashtown,Dublin 15,q2,40%
+15/08/2014,"148 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,305000.0,No,Ashtown,Dublin 15,q3,70%
+03/09/2014,"43 Compass Court South, Royal Canal Bank, Ashtown",Dublin,190000.0,No,Ashtown,Dublin 15,q2,30%
+04/09/2014,"30 The Birches, Pelletstown Manor, Ashtown Dublin 15",Dublin,200000.0,No,Ashtown,Dublin 15,q2,40%
+05/09/2014,"77 Park View, Rathborne, Ashtown Dublin 15",Dublin,150000.0,No,Ashtown,Dublin 15,q1,20%
+24/09/2014,"52 Compass Court North, Royal Canal Park, Ratoath Road  Ashtown",Dublin,160000.0,No,Ashtown,Dublin 15,q1,30%
+09/10/2014,"67 Parkview, Rathborne, Ashtown Dublin 15",Dublin,184950.0,No,Ashtown,Dublin 15,q2,30%
+10/10/2014,"60 Clearwater Court, North Ashtown, Dublin 15",Dublin,185000.0,No,Ashtown,Dublin 15,q2,30%
+24/10/2014,"Apt 10 Clearwater Court North, Royal Canal Park, Ashtown Dublin 15",Dublin,152000.0,No,Ashtown,Dublin 15,q1,20%
+11/11/2014,"61 The Chandler, The Village Centre, Ashtown Rd Dublin 15",Dublin,245000.0,No,Ashtown,Dublin 15,q2,50%
+13/11/2014,"50 Discovery Building, Royal Canal Park, Ashtown Dublin 15",Dublin,155000.0,No,Ashtown,Dublin 15,q1,30%
+14/11/2014,"4 Lock Keepers Walk, Royal Canal Park, Rathoath Rd  Ashtown",Dublin,202500.0,No,Ashtown,Dublin 15,q2,40%
+20/11/2014,"140 Rathborne Court, Ashtown, Dublin 15",Dublin,250000.0,No,Ashtown,Dublin 15,q2,50%
+17/12/2014,"24 Units At The Waterways, Rathborne, Ashtown",Dublin,2460000.0,Yes,Ashtown,Dublin 15,q4,100%
+17/12/2014,"Unit 22  Block B  The Waterways, Rathborne, Ashtown",Dublin,109792.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 24  Block B  The Waterways, Rathborne, Ashtown",Dublin,78955.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 26  Block B  The Waterways, Rathborne, Ashtown",Dublin,74550.54,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 28  Block B  The Waterways, Rathborne, Ashtown",Dublin,74550.54,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 30  Block B  The Waterways, Rathborne, Ashtown",Dublin,78955.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 32  Block B  The Waterways, Rathborne, Ashtown",Dublin,109792.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 34  Block B  The Waterways, Rathborne, Ashtown",Dublin,109792.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 36  Block B  The Waterways, Rathborne, Ashtown",Dublin,78955.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 38  Block B  The Waterways, Rathborne, Ashtown",Dublin,74550.54,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 40  Block B  Waterways, Rathborne, Ashtown",Dublin,74550.54,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 42  Block B Waterways, Rathborne, Ashtown",Dublin,78955.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 44  Block B Waterways, Rathborne, Ashtown",Dublin,109792.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 46  Block B Waterways, Rathborne, Ashtown",Dublin,114198.12,Yes,Ashtown,Dublin 15,q1,20%
+17/12/2014,"Unit 48  Block B Waterways, Rathborne, Ashtown",Dublin,83361.11,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 50  Block B Waterways, Rathborne, Ashtown",Dublin,78955.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 52  Block B Waterways, Rathborne, Ashtown",Dublin,78955.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 54 Block B Waterways, Rathborne, Ashtown",Dublin,83361.11,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 56  Block B Waterways, Rathborne, Ashtown",Dublin,114198.12,Yes,Ashtown,Dublin 15,q1,20%
+17/12/2014,"Unit 58  Block B Waterways, Rathborne, Ashtown",Dublin,114198.12,Yes,Ashtown,Dublin 15,q1,20%
+17/12/2014,"Unit 60  Block B Waterways, Rathborne, Ashtown",Dublin,83361.11,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 62  Block B Waterways, Rathborne, Ashtown",Dublin,78955.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 64  Block B Waterways, Rathborne, Ashtown",Dublin,78955.83,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 66  Block B Waterways, Rathborne, Ashtown",Dublin,83361.11,Yes,Ashtown,Dublin 15,q1,10%
+17/12/2014,"Unit 68  Block B Waterways, Rathborne, Ashtown",Dublin,114198.12,Yes,Ashtown,Dublin 15,q1,20%
+19/12/2014,"1 Ashtown Villas, Blackhorse Ave, Dublin 7",Dublin,310000.0,No,Ashtown,Dublin 15,q3,70%
+19/12/2014,"29 Watermint Court, Royal Canal Park, Ashtown Dublin 15",Dublin,189000.0,No,Ashtown,Dublin 15,q2,30%
+19/12/2014,"31 Martin Savage Park, Ashtown, Dublin 15",Dublin,300000.0,No,Ashtown,Dublin 15,q3,70%
+22/12/2014,"81 Rathbourne Avenue, Earlswood, Ashtown",Dublin,212000.0,No,Ashtown,Dublin 15,q2,40%
+19/01/2015,"10 Rathborne Close, Ashtown, Dublin 15",Dublin,395000.0,No,Ashtown,Dublin 15,q4,100%
+23/01/2015,"20D Rathborne Way, Ashtown, Dublin 15",Dublin,245000.0,No,Ashtown,Dublin 15,q2,50%
+04/02/2015,"36 Units At The Waterways (Phase 3), Rathborne, Ashtown",Dublin,4254885.0,Yes,Ashtown,Dublin 15,q4,100%
+04/02/2015,"Unit 1  Block C Waterways, Rathborne, Ashtown",Dublin,105403.67,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 11  Block C Waterways, Rathborne, Ashtown",Dublin,131835.39,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 13  Block C Waterways, Rathborne, Ashtown",Dublin,105403.67,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 15  Block C Waterways, Rathborne, Ashtown",Dublin,105403.67,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 17  Block C Waterways, Rathborne, Ashtown",Dublin,105403.67,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 19  Block C Waterways, Rathborne, Ashtown",Dublin,105403.67,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 21  Block C Waterways, Rathborne, Ashtown",Dublin,131835.39,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 23  Block C Waterways, Rathborne, Ashtown",Dublin,74566.67,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 25  Block C Waterways, Rathborne, Ashtown",Dublin,131835.39,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 27  Block C Waterways, Rathborne, Ashtown",Dublin,131835.39,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 29  Block C  Waterways, Rathborne, Ashtown",Dublin,105403.67,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 3  Block C Waterways, Rathborne, Ashtown",Dublin,105403.67,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 31  Block C Waterways, Rathborne, Ashtown",Dublin,107606.31,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 33  Block C Waterways, Rathborne, Ashtown",Dublin,118619.53,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 35  Block C Waterways, Rathborne, Ashtown",Dublin,109808.96,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 37  Block C Waterways, Rathborne, Ashtown",Dublin,136240.68,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 39  Block C Waterways, Rathborne, Ashtown",Dublin,78971.95,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 41  Block C Waterways, Rathborne, Ashtown",Dublin,136240.68,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 43  Block C Waterways, Rathborne, Ashtown",Dublin,136240.68,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 45  Block C Waterways, Rathborne, Ashtown",Dublin,109808.96,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 47  Block C Waterways, Rathborne, Ashtown",Dublin,118619.53,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 49  Block C Waterways, Rathborne, Ashtown",Dublin,118619.53,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 5  Block C Waterways, Rathborne, Ashtown",Dublin,131835.39,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 51  Block C Waterways, Rathborne, Ashtown",Dublin,109808.96,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 53  Block C Waterways, Rathborne, Ashtown",Dublin,136240.68,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 55  Block C Waterways, Rathborne, Ashtown",Dublin,78971.95,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 57  Block C Waterways, Rathborne, Ashtown",Dublin,136240.68,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 59  Block C Waterways, Rathborne, Ashtown",Dublin,136240.68,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 61  Block C Waterways, Rathborne, Ashtown",Dublin,109808.96,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 63  Block C Waterways, Rathborne, Ashtown",Dublin,109808.96,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 65  Block C Waterways, Rathborne, Ashtown",Dublin,140645.96,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 67  Block C Waterways, Rathborne, Ashtown",Dublin,149456.53,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 69  Block C Waterways, Rathborne, Ashtown",Dublin,149456.53,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 7  Block C Waterways, Rathborne, Ashtown",Dublin,74566.67,Yes,Ashtown,Dublin 15,q1,10%
+04/02/2015,"Unit 71  Block C Waterways, Rathborne, Ashtown",Dublin,149456.53,Yes,Ashtown,Dublin 15,q1,20%
+04/02/2015,"Unit 9  Block C Waterways, Rathborne, Ashtown",Dublin,131835.39,Yes,Ashtown,Dublin 15,q1,20%
+12/02/2015,"Apt 1 B Rathborne Ave, Ashtown, Dublin 15",Dublin,225000.0,No,Ashtown,Dublin 15,q2,40%
+20/02/2015,"17 The Tallow, Rathborne, Ashtown",Dublin,202000.0,No,Ashtown,Dublin 15,q2,40%
+10/03/2015,"39 Ashtown Grove, Navan Road, Dublin 7",Dublin,400000.0,No,Ashtown,Dublin 15,q4,100%
+24/03/2015,"2 The Oaks, Pelletstown Manor, Ashtown",Dublin,238000.0,No,Ashtown,Dublin 15,q2,50%
+26/03/2015,"71 Park View, Ashtown, Dublin",Dublin,250000.0,No,Ashtown,Dublin 15,q2,50%
+30/03/2015,"15 Park View, Rathborne, Ashtown Dublin 15",Dublin,266000.0,No,Ashtown,Dublin 15,q3,60%
+02/04/2015,"33 Parkview, Rathbourne, Ashtown",Dublin,280000.0,No,Ashtown,Dublin 15,q3,60%
+05/05/2015,"13 Cassian Court North, Royal Canal Park, Ashtown",Dublin,165000.0,No,Ashtown,Dublin 15,q1,30%
+11/06/2015,"2D Rathborne Way, Ashtown, Dublin 15",Dublin,225000.0,No,Ashtown,Dublin 15,q2,40%
+24/06/2015,"19 Ashbrook Apartments, Navan Road, Ashtown",Dublin,200000.0,No,Ashtown,Dublin 15,q2,40%
+30/06/2015,"68 The Chandler, The Village Centre, Ashtown Rd Dublin 15",Dublin,232500.0,No,Ashtown,Dublin 15,q2,50%
+03/07/2015,"12A Rathbourne Close Earlswood, Ashtown Dublin 15, Dublin",Dublin,147000.0,No,Ashtown,Dublin 15,q1,20%
+08/07/2015,"63 Rathborne Court, Ashtown, Dublin 15",Dublin,256000.0,No,Ashtown,Dublin 15,q2,50%
+18/08/2015,"Apt 60 Rathborne Court, Earlswood, Ashtown Dublin 15",Dublin,250000.0,No,Ashtown,Dublin 15,q2,50%
+19/08/2015,"27 Compass Court South, Royal Canal Park, Ashtown",Dublin,160000.0,No,Ashtown,Dublin 15,q1,30%
+27/08/2015,"9 Park View, Rathborne, Ashtown Dublin 15",Dublin,250000.0,No,Ashtown,Dublin 15,q2,50%
+24/09/2015,"16 Royal Canal Court, The Waterways, Ashtown Dublin 15",Dublin,165000.0,No,Ashtown,Dublin 15,q1,30%
+23/10/2015,"186 Rathborne Court, Ashtown, Dublin 15",Dublin,246500.0,No,Ashtown,Dublin 15,q2,50%
+30/10/2015,"Apt 35 Tallow Rathborne Village, Ashtown Dublin 15, Dublin",Dublin,117500.0,No,Ashtown,Dublin 15,q1,20%
+03/11/2015,"34 Discovery Building, Royal Canal Park, Ashtown Dublin 15",Dublin,147000.0,No,Ashtown,Dublin 15,q1,20%
+10/11/2015,"41 The Wax Works, Rathbourne, Ashtown Dublin 15",Dublin,223000.0,No,Ashtown,Dublin 15,q2,40%
+04/12/2015,"27 Rathborne Dr, Ashtown, Dublin 15",Dublin,385000.0,No,Ashtown,Dublin 15,q4,100%
+15/12/2015,"146 Royal Canal Court, Ashtown, Dublin 15",Dublin,169000.0,No,Ashtown,Dublin 15,q1,30%
+22/12/2015,"10 Rathborne Place, Ashtown, Dublin 15",Dublin,280000.0,No,Ashtown,Dublin 15,q3,60%
+22/12/2015,"79 Chandler, Rathbourne, Ashtown Dublin 15",Dublin,275000.0,No,Ashtown,Dublin 15,q3,60%
+18/01/2016,"12 Parkview, Rathbourne, Ashtown Dublin 15",Dublin,270000.0,No,Ashtown,Dublin 15,q3,60%
+05/02/2016,"37 Compass Court North, Royak Canal Park, Ashtown",Dublin,171000.0,No,Ashtown,Dublin 15,q1,30%
+09/02/2016,"Apt 4 The Tallow, Rathborne Village, Ashtown Dublin 15",Dublin,225000.0,No,Ashtown,Dublin 15,q2,40%
+22/02/2016,"34 Ashbrook, Ashtown, Dublin 7",Dublin,185000.0,No,Ashtown,Dublin 15,q2,30%
+24/02/2016,"17  Meridian Court, Royal Canal Park, Ashtown",Dublin,207048.0,Yes,Ashtown,Dublin 15,q2,40%
+24/02/2016,"6 Rathborne Dr, Earlswood, Ashtown Dublin 15",Dublin,227000.0,No,Ashtown,Dublin 15,q2,40%
+29/02/2016,"63 The Chandler Bldg, Rathborne Village, Ashtown Dublin 15",Dublin,295000.0,No,Ashtown,Dublin 15,q3,70%
+11/03/2016,"100 Ashington Rise, Ashtown",Dublin,315000.0,No,Ashtown,Dublin 15,q3,80%
+18/03/2016,"15 Phelan Avenue, Royal Canal Park, Ashtown",Dublin,321585.9,Yes,Ashtown,Dublin 15,q3,80%
+18/03/2016,"16 Phelan Avenue, Royal Canal Park, Ashtown",Dublin,317180.0,Yes,Ashtown,Dublin 15,q3,80%
+24/03/2016,"17 Phelan Avenue, Royal Canal Park, Ratoath Rd  Ashtown",Dublin,308370.0,Yes,Ashtown,Dublin 15,q3,70%
+24/03/2016,"19 Phelan Avenue, Royal Canal Park, Ashtown",Dublin,308370.0,Yes,Ashtown,Dublin 15,q3,70%
+24/03/2016,"21 Phelan Avenue  Royal Canal Park, Ratoath Road  Ashtown",Dublin,308370.04,Yes,Ashtown,Dublin 15,q3,70%
+01/04/2016,"18 Phelan Avenue, Royal Canal Park, Ratoath Rd  Ashtown",Dublin,317180.0,Yes,Ashtown,Dublin 15,q3,80%
+22/04/2016,"50 Discovery Building, Royal Canal Park, Ashtown Dublin 15",Dublin,217000.0,No,Ashtown,Dublin 15,q2,40%
+26/04/2016,"74 The Waxwork Building, The Village Centre, Ashtown Rd Dublin 15",Dublin,170000.0,No,Ashtown,Dublin 15,q1,30%
+05/05/2016,"64 Rathborne Court, Ashtown, Dublin 15",Dublin,255000.0,No,Ashtown,Dublin 15,q2,50%
+11/05/2016,"1 River Drive, Royal Canal Park, Ashtown",Dublin,281938.0,Yes,Ashtown,Dublin 15,q3,60%
+12/05/2016,"120 Royal Canal Park, Ashtown, Dublin 15",Dublin,140000.0,No,Ashtown,Dublin 15,q1,20%
+12/05/2016,"9 Phelan Drive West, Royal Canal Park, Ashtown",Dublin,273127.0,Yes,Ashtown,Dublin 15,q3,60%
+03/06/2016,"67 The Tallow, Rathborne Village, Ashtown",Dublin,160000.0,No,Ashtown,Dublin 15,q1,30%
+10/06/2016,"108 Waxworks, The Village Court, Ashtown",Dublin,252000.0,No,Ashtown,Dublin 15,q2,50%
+14/06/2016,"16 Cassian Court North, Royal Canal Park, Ashtown Dublin 15",Dublin,230000.0,No,Ashtown,Dublin 15,q2,40%
+20/06/2016,"13 Phelan Avenue, Rathoath Road, Ashtown",Dublin,308370.0,Yes,Ashtown,Dublin 15,q3,70%
+24/06/2016,"3 Phelan Drive West, Royal Canal Park, Ashtown",Dublin,259911.89,Yes,Ashtown,Dublin 15,q2,50%
+29/06/2016,"1 Phelan Drive West, Royal Canal Park  Rathoath Rd., Ashtown  Co Dublin",Dublin,317180.61,Yes,Ashtown,Dublin 15,q3,80%
+30/06/2016,"82 Royal Canal, Court Royal Canal, Way Ashtown Dublin 15",Dublin,243000.0,No,Ashtown,Dublin 15,q2,50%
+07/07/2016,"12 Phelan Avenue, Royal Canal Park, Ashtown",Dublin,317180.61,Yes,Ashtown,Dublin 15,q3,80%
+31/08/2016,"7 Phelan Park, Royal Canal Park, Ashtown",Dublin,277533.04,Yes,Ashtown,Dublin 15,q3,60%
+09/09/2016,"141 Meridian Court, Royal Canal Park, Ashtown Dublin 15",Dublin,230000.0,No,Ashtown,Dublin 15,q2,40%
+17/09/2016,"36 The Mak Works, Rathbourne, Ashtown Dublin 15",Dublin,220000.0,No,Ashtown,Dublin 15,q2,40%
+26/09/2016,"1B Rathborne Way, Rathborne, Ashtown Dublin 15",Dublin,220000.0,No,Ashtown,Dublin 15,q2,40%
+27/09/2016,"152 Rathborne Court, The Crescent, Ashtown Dublin 15",Dublin,240000.0,No,Ashtown,Dublin 15,q2,50%
+27/09/2016,"3 Phelan Avenue, Royal Canal Park, Ashtown",Dublin,308400.0,Yes,Ashtown,Dublin 15,q3,70%
+29/09/2016,"3 Phelan Park, Royal Canal Park, Ashtown",Dublin,277500.0,Yes,Ashtown,Dublin 15,q3,60%
+03/10/2016,"144 Royal Canal Court, Ashtown, Dublin 15",Dublin,195000.0,No,Ashtown,Dublin 15,q2,40%
+04/10/2016,"54 The Chandler, The Village Centre, Ashtown Rd Dublin 15",Dublin,190000.0,No,Ashtown,Dublin 15,q2,30%
+07/10/2016,"15 The Birches, Pelletstown Manor, Ashtown Dublin 15",Dublin,195000.0,No,Ashtown,Dublin 15,q2,40%
+21/10/2016,"16 Rathborne Place, Rathborne, Ashtown",Dublin,225000.0,No,Ashtown,Dublin 15,q2,40%
+10/11/2016,"1 Royal Canal Avenue, Ashtown",Dublin,339207.0,Yes,Ashtown,Dublin 15,q4,90%
+11/11/2016,"Royal Canal Park, Ashtown, Dublin",Dublin,175000.0,No,Ashtown,Dublin 15,q2,30%
+23/11/2016,"13 Royal Canal Ave, Ratoath Rd, Ashtown",Dublin,339207.0,Yes,Ashtown,Dublin 15,q4,90%
+28/11/2016,"71 The Paddock, Ashtown Gate Dublin 7, Dublin",Dublin,360000.0,No,Ashtown,Dublin 15,q4,90%
+30/11/2016,"12 Rathborne Way, Ashtown, Dublin 15",Dublin,319000.0,No,Ashtown,Dublin 15,q3,80%
+02/12/2016,"3 Rathborne Dr, Ashtown, Dublin 15",Dublin,239000.0,No,Ashtown,Dublin 15,q2,50%
+13/12/2016,"10 Clearwater Court South, Royal Canal Park, Ashtown Dublin 15",Dublin,161000.0,No,Ashtown,Dublin 15,q1,30%
+13/12/2016,"No. 12  Royal Canal Avenue, Royal Canal Park, Ratoath Rd  Ashtown",Dublin,370000.0,Yes,Ashtown,Dublin 15,q4,100%
+14/12/2016,"122 Royal Canal Court, Royal Canal Way, Ashtown Dublin 15",Dublin,194500.0,No,Ashtown,Dublin 15,q2,30%
+20/12/2016,"34 Rathborne Court, Ashtown, Dublin 15",Dublin,370000.0,No,Ashtown,Dublin 15,q4,100%
+20/12/2016,"36 Rathborne Court, Ashtown, Dublin 15",Dublin,350000.0,No,Ashtown,Dublin 15,q4,90%
+22/12/2016,"46 Belleville, Ashtown, Dublin 7",Dublin,357500.0,No,Ashtown,Dublin 15,q4,90%
+22/12/2016,"7 Bridge Avenue, Royal Canal Park, Ratoath Road  Ashtown",Dublin,354650.0,Yes,Ashtown,Dublin 15,q4,90%
+12/01/2017,"7 Rathborne Close, Ashtown, Dublin 15",Dublin,395000.0,No,Ashtown,Dublin 15,q4,100%
+16/01/2017,"50 Cedarhurst Rd, Phoenix Park Racecourse, Ashtown Dublin 15",Dublin,342000.0,No,Ashtown,Dublin 15,q4,90%
+20/01/2017,"56 Meridian Court, Royal Canal Park, Ashtown",Dublin,212000.0,No,Ashtown,Dublin 15,q2,40%
+25/01/2017,"2F Rathborne Close, Ashtown, Dublin 15",Dublin,260000.0,No,Ashtown,Dublin 15,q2,50%
+26/01/2017,"63 The Tallow, Rathborne Village, Ashtown",Dublin,250000.0,No,Ashtown,Dublin 15,q2,50%
+27/01/2017,"53 Rathborne Dr, Earlswood, Ashtown Dublin 15",Dublin,250000.0,No,Ashtown,Dublin 15,q2,50%
+30/01/2017,"13  Bridge Avenue, Royal Canal Park, Ashtown",Dublin,334802.0,Yes,Ashtown,Dublin 15,q4,90%
+30/01/2017,"2 Phelan Drive East, Royal Canal Park, Ashtown",Dublin,330396.0,Yes,Ashtown,Dublin 15,q4,80%
+03/02/2017,"1 Kempton View, Ashtown, Dublin 7",Dublin,550000.0,No,Ashtown,Dublin 15,q4,100%
+06/02/2017,"3 Clearwater Court North, Royal Canal Park, Ashtown Dublin 15",Dublin,255000.0,No,Ashtown,Dublin 15,q2,50%
+09/02/2017,"8 Ashtown Grove, Navan Rd, Dublin 7",Dublin,425000.0,No,Ashtown,Dublin 15,q4,100%
+21/02/2017,"17 Bridge Avenue, Royal Canal Park, Ashtown",Dublin,334801.77,Yes,Ashtown,Dublin 15,q4,90%
+23/02/2017,"25 Bridge Avenue, Royal Canal Park, Ashtown",Dublin,334800.0,Yes,Ashtown,Dublin 15,q4,80%
+24/02/2017,"4 Phelan Drive East, Royal Canal Park, Ashtown",Dublin,339207.04,Yes,Ashtown,Dublin 15,q4,90%
+27/02/2017,"2 Rathbourne Court, The Crescent, Ashtown Dublin 15",Dublin,229000.0,No,Ashtown,Dublin 15,q2,40%
+09/03/2017,"134 Royal Canal Court, Ashtown, Dublin 15",Dublin,290000.0,No,Ashtown,Dublin 15,q3,60%
+16/03/2017,"40 The Waxworks, Rathbourne, Ashtown Dublin 15",Dublin,187000.0,No,Ashtown,Dublin 15,q2,30%
+30/03/2017,"22 The Birches, Pelletstown Manor, Ashtown Dublin 15",Dublin,255000.0,No,Ashtown,Dublin 15,q2,50%
+19/04/2017,"2E Rathborne Way, Ashtown, Dublin 15",Dublin,212000.0,No,Ashtown,Dublin 15,q2,40%
+24/04/2017,"8 Bridge Avenue, Royal Canal Park, Ashtown",Dublin,352422.9,Yes,Ashtown,Dublin 15,q4,90%
+25/04/2017,"12 Bridge Avenue, Royal Canal Park Ratoath Rd, Ashtown",Dublin,352422.9,Yes,Ashtown,Dublin 15,q4,90%
+28/04/2017,"No. 46 Ashbrook, Ashtown, Dublin 7",Dublin,242000.0,No,Ashtown,Dublin 15,q2,50%
+16/05/2017,"20 Bridge Avenue Royal, Canal Park Ratoath Rd, Ashtown",Dublin,356828.19,Yes,Ashtown,Dublin 15,q4,90%
+17/05/2017,"24 Bridge Avenue, Royal Canal Park, Ashtown",Dublin,352422.9,Yes,Ashtown,Dublin 15,q4,90%
+30/05/2017,"37 Ashtown Grove, Navan Rd, Dublin 7",Dublin,481000.0,No,Ashtown,Dublin 15,q4,100%
+02/06/2017,"18 Bridge Avenue, Royal Canal Park Ratoath Rd, Ashtown",Dublin,348017.6,Yes,Ashtown,Dublin 15,q4,90%
+06/06/2017,"36 Park View, Rathborne, Ashtown Dublin 15",Dublin,263000.0,No,Ashtown,Dublin 15,q2,50%
+09/06/2017,"104 The Crescent, Rathborne Court, Ashtown Dublin 15",Dublin,300000.0,No,Ashtown,Dublin 15,q3,70%
+16/06/2017,"3 Hamilton Way, Royal Canal Park, Rathoath Road  Ashtown",Dublin,299559.48,Yes,Ashtown,Dublin 15,q3,70%
+19/06/2017,"35 Riverdale, Ashtown, Dublin",Dublin,231000.0,No,Ashtown,Dublin 15,q2,50%
+26/06/2017,"6 The Tallow, Rathborne Village, Ashtown Dublin 15",Dublin,260000.0,No,Ashtown,Dublin 15,q2,50%
+27/06/2017,"3 Rathborne Place, Ashtown, Dublin 15",Dublin,430000.0,No,Ashtown,Dublin 15,q4,100%
+30/06/2017,"31 Rathborne Dr, Ashtown, Dublin 15",Dublin,415000.0,No,Ashtown,Dublin 15,q4,100%
+11/07/2017,"7 Hamilton Way, Royal Canal Park, Ashtown",Dublin,299559.0,Yes,Ashtown,Dublin 15,q3,70%
+18/07/2017,"2 Surehaven Lawn, Phoenix Park Racecourse, Ashtown Dublin 15",Dublin,340000.0,No,Ashtown,Dublin 15,q4,90%
+21/07/2017,"69 Rathborne Court, Ashtown, Dublin 15",Dublin,280000.0,No,Ashtown,Dublin 15,q3,60%
+25/07/2017,"15 Royal Canal Avenue, Royal Canal Park, Ashtown",Dublin,370044.0,Yes,Ashtown,Dublin 15,q4,100%
+28/07/2017,"4 Bridge Avenue, Royal Canal Park Ratoath Rd, Ashtown",Dublin,361233.48,Yes,Ashtown,Dublin 15,q4,90%
+31/07/2017,"17 Compass Court West, Royal Canal Park, Ashtown Dublin 15",Dublin,250000.0,No,Ashtown,Dublin 15,q2,50%
+08/08/2017,"14 Royal Canal Avenue, Royal Canal Park Ratoath Rd, Ashtown",Dublin,370044.05,Yes,Ashtown,Dublin 15,q4,100%
+25/08/2017,"31 Bridge Av Enue, Royal Canal Park, Ashtown",Dublin,361233.0,Yes,Ashtown,Dublin 15,q4,90%
+31/08/2017,"35 Meridan Court, Royal Canal Park, Ashtown",Dublin,272000.0,No,Ashtown,Dublin 15,q3,60%
+01/09/2017,"89 The Waxwork Building, The Village Centre, Ashtown Rd Dublin 15",Dublin,240000.0,No,Ashtown,Dublin 15,q2,50%
+20/09/2017,"Ashtown Lodge, River Rd, Ashtown Dublin 15",Dublin,3100000.0,No,Ashtown,Dublin 15,q4,100%
+02/10/2017,"2 Ashbrook, Ashtown, Navan Rd Dublin 7",Dublin,230000.0,No,Ashtown,Dublin 15,q2,40%
+02/10/2017,"Apt 1D, Rathborne Ave, Ashtown Dublin 15",Dublin,295000.0,No,Ashtown,Dublin 15,q3,70%
+10/10/2017,"72 Royal Canal Court, Ashtown Dublin 15, Dublin",Dublin,219000.0,No,Ashtown,Dublin 15,q2,40%
+18/10/2017,"27 Royal Canal Avenue, Royal Canal Park, Ashtown",Dublin,392070.48,Yes,Ashtown,Dublin 15,q4,100%
+26/10/2017,"85 The Waxworks Rathborne Rd, Ashtown, Dublin 15",Dublin,283000.0,No,Ashtown,Dublin 15,q3,60%
+27/10/2017,"136 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,275000.0,No,Ashtown,Dublin 15,q3,60%
+27/10/2017,"22 Martin Savage Park, Ashtown, Dublin 7",Dublin,420000.0,No,Ashtown,Dublin 15,q4,100%
+27/10/2017,"45 Beacon, Royal Canal Park, Rathoath Road Ashtown",Dublin,237000.0,No,Ashtown,Dublin 15,q2,50%
+09/11/2017,"32 Royal Canal Avenue, Ashtown, Dublin 15",Dublin,400881.06,Yes,Ashtown,Dublin 15,q4,100%
+10/11/2017,"76 The Chandler, The Village Centre, Ashtown Rd Dublin 15",Dublin,220000.0,No,Ashtown,Dublin 15,q2,40%
+20/11/2017,"5 Hamilton Walk, Royal Canal Park Ratoath Rd, Ashtown",Dublin,303964.76,Yes,Ashtown,Dublin 15,q3,70%
+12/12/2017,"42 Cassian Court, Royal Canal Park, Ashtown Dublin 15",Dublin,271000.0,No,Ashtown,Dublin 15,q3,60%
+15/12/2017,"Apt 59 The Waxworks, Main St, Ashtown Dublin 15",Dublin,345000.0,No,Ashtown,Dublin 15,q4,90%
+21/12/2017,"69 Rathborne Dr, Earlswood, Ashtown Dublin 15",Dublin,259000.0,No,Ashtown,Dublin 15,q2,50%
+11/01/2018,"6 Rathborne Place, Ashtown, Dublin 15",Dublin,330000.0,No,Ashtown,Dublin 15,q4,80%
+16/01/2018,"50 Rivervale, Ashtown, Dublin 15",Dublin,285000.0,No,Ashtown,Dublin 15,q3,60%
+19/01/2018,"Apt 116 Royal Canal Court, Ashtown, Dublin 15",Dublin,323000.0,No,Ashtown,Dublin 15,q4,80%
+25/01/2018,"57 Watermint Court, Royal Canal Park, Ashtown Dublin 15",Dublin,260000.0,No,Ashtown,Dublin 15,q2,50%
+31/01/2018,"3 The Waxworks, Ashtown Sq, Ashtown",Dublin,320000.0,No,Ashtown,Dublin 15,q3,80%
+12/02/2018,"Apt 132 Royal Canal, Court, Ashtown Dublin 15",Dublin,220000.0,No,Ashtown,Dublin 15,q2,40%
+21/02/2018,"35 Rathborne Dr, Ashtown, Dublin 15",Dublin,430000.0,No,Ashtown,Dublin 15,q4,100%
+06/03/2018,"34 Martin Savage Park, Ashtown, Dublin",Dublin,355000.0,No,Ashtown,Dublin 15,q4,90%
+13/03/2018,"No 1 Hamilton View, Royal Canal Park, Ashtown",Dublin,321586.0,Yes,Ashtown,Dublin 15,q4,80%
+20/03/2018,"1 Compass Court South, Royal Canal Park, Ashtown Dublin 15",Dublin,189888.0,No,Ashtown,Dublin 15,q2,30%
+20/03/2018,"18 Cassian Court South, Royal Canal Park, Ashtown",Dublin,202105.0,No,Ashtown,Dublin 15,q2,40%
+20/03/2018,"20 Cassian Court South, Royal Canal Park, Ashtown",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+20/03/2018,"28 Cassian Court South, Royal Canal Park, Ashtown",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+20/03/2018,"30 Cassian Court South, Royal Canal Park, Ashtown",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+20/03/2018,"31 Cassian Court South, Royal Canal Park, Ashtown",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+20/03/2018,"31 River Vale, Ashtown, Dublin",Dublin,295220.0,No,Ashtown,Dublin 15,q3,70%
+20/03/2018,"34 Cassian Court South, Royal Canal Park, Ashtown",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+20/03/2018,"36 Cassian Court South, Royal Canal Park, Ashtown",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+20/03/2018,"39 Cassian Court South, Royal Canal Park, Ashtown",Dublin,233333.0,No,Ashtown,Dublin 15,q2,50%
+20/03/2018,"47 Cassian Court South, Royal Canal Park, Ashtown",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+20/03/2018,"51 Cassian Court South, Royal Canal Park, Ashtown",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+28/03/2018,"14 The Tallow Building, The Village Centre, Ashtown Rd",Dublin,295100.0,No,Ashtown,Dublin 15,q3,70%
+28/03/2018,"33 Rathbourne Drive, Earlswood, Ashtown River Rd",Dublin,438000.0,No,Ashtown,Dublin 15,q4,100%
+05/04/2018,"12 Hamilton Walk Royal Canal Park, Ratoath Road, Ashtown",Dublin,317180.62,Yes,Ashtown,Dublin 15,q3,80%
+05/04/2018,"8 Rathborne Dr, Ashtown, Dublin 15",Dublin,356000.0,No,Ashtown,Dublin 15,q4,90%
+06/04/2018,"11 Hamilton Walk, Rcp, Ashtown",Dublin,330396.47,Yes,Ashtown,Dublin 15,q4,80%
+23/04/2018,"1H Rathborne Close, Ashtown, Dublin 15",Dublin,280000.0,No,Ashtown,Dublin 15,q3,60%
+27/04/2018,"5 Park View, Rathborne, Ashtown Dublin 15",Dublin,330000.0,No,Ashtown,Dublin 15,q4,80%
+04/05/2018,"73 Park View, Rathborne, Ashtown Dublin 15",Dublin,200000.0,No,Ashtown,Dublin 15,q2,40%
+17/05/2018,"Apt 45, Rathborne Court, Ashtown Dublin 15",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+18/05/2018,"10 Cassian Square East, Ashtown, Dublin 15",Dublin,292000.0,No,Ashtown,Dublin 15,q3,70%
+25/05/2018,"170 Rathbourne, Court Earlswood, Ashtown Dublin 15",Dublin,300000.0,No,Ashtown,Dublin 15,q3,70%
+28/05/2018,"2 Rathborne Place, Ashtown, Dublin 15",Dublin,395000.0,No,Ashtown,Dublin 15,q4,100%
+29/05/2018,"2D Rathborne Close, Ashtown, Dublin 15",Dublin,295000.0,No,Ashtown,Dublin 15,q3,70%
+29/05/2018,"71 The Waxworks, Rathborne Village, Ashtown Dublin 15",Dublin,232500.0,No,Ashtown,Dublin 15,q2,50%
+01/06/2018,"2A Rathborne Dr, Ashtown, Dublin 9",Dublin,195000.0,No,Ashtown,Dublin 15,q2,40%
+01/06/2018,"41 Rathborne Court, Ashtown, Dublin 15",Dublin,265000.0,No,Ashtown,Dublin 15,q2,50%
+19/06/2018,"Apt 126, Rathborne Court, Ashtown Dublin 15",Dublin,280000.0,No,Ashtown,Dublin 15,q3,60%
+26/06/2018,"39 The Paddock, Ashtown, Dublin 7",Dublin,485000.0,No,Ashtown,Dublin 15,q4,100%
+05/07/2018,"132 Rathborne Court, Ashtown, Dublin 15",Dublin,297000.0,No,Ashtown,Dublin 15,q3,70%
+10/07/2018,"8 Clearwater Court North, Royal Canal Park, Ashtown",Dublin,266000.0,No,Ashtown,Dublin 15,q3,60%
+18/07/2018,"62 Park View, Rathborne, Ashtown Dublin 15",Dublin,295000.0,No,Ashtown,Dublin 15,q3,70%
+03/08/2018,"131 Le Meridien, Royal Canal Park, Ashtown",Dublin,218000.0,No,Ashtown,Dublin 15,q2,40%
+04/08/2018,"86 Royal Canal, Court Ashtown, Dublin 15",Dublin,295000.0,No,Ashtown,Dublin 15,q3,70%
+10/08/2018,"35 The Chandler Building, Rathbourne Village, Ashtown Dublin 15",Dublin,280000.0,No,Ashtown,Dublin 15,q3,60%
+24/08/2018,"168 Meridian Court, Royal Canal Park Ratoath Rd, Ashtown",Dublin,281938.32,Yes,Ashtown,Dublin 15,q3,60%
+05/09/2018,"6 River Drive, Royal Canal Park, Ratoath Road  Ashtown",Dublin,400881.06,Yes,Ashtown,Dublin 15,q4,100%
+27/09/2018,"120 The Waxworks, Ashtown Sq, Rathbourne Village Dublin 15",Dublin,346000.0,No,Ashtown,Dublin 15,q4,90%
+27/09/2018,"48 The Discovery Royal Canal Park, Rathoath Rd, Ashtown",Dublin,250000.0,No,Ashtown,Dublin 15,q2,50%
+28/09/2018,"20B Rathborne Way, Ashtown, Dublin 15",Dublin,270000.0,No,Ashtown,Dublin 15,q3,60%
+28/09/2018,"Apt 9 Clearwater Court South, Royal Canal Park, Ratoath Road  Ashtown",Dublin,245000.0,No,Ashtown,Dublin 15,q2,50%
+02/10/2018,"49 Parkview Rathborne, Ashtown, Rathborne Dublin 15",Dublin,287000.0,No,Ashtown,Dublin 15,q3,60%
+12/10/2018,"19 Compass Court North, Pelletstown Ave Royal Canal Park, Ratoath Rd Ashtown",Dublin,239445.83,No,Ashtown,Dublin 15,q2,50%
+16/10/2018,"Apt 50 Clearwater Court South, Royal Canal Park, Ratoath Road  Ashtown",Dublin,245000.0,No,Ashtown,Dublin 15,q2,50%
+17/10/2018,"130 Royal Canal Court, Ashtown, Dublin 15",Dublin,225000.0,No,Ashtown,Dublin 15,q2,40%
+19/10/2018,"9 Rathbourne Park, Ashtown, Dublin 15",Dublin,281938.32,Yes,Ashtown,Dublin 15,q3,60%
+22/10/2018,"11 Rathborne Park, Rathborne, Ashtown",Dublin,281939.0,Yes,Ashtown,Dublin 15,q3,60%
+22/10/2018,"13 Rathborne Park, Rathborne, Ashtown",Dublin,286343.61,Yes,Ashtown,Dublin 15,q3,60%
+22/10/2018,"73 The Chandler, The Village, Ashtown",Dublin,233000.0,No,Ashtown,Dublin 15,q2,50%
+23/10/2018,"10 Rathborne Park, Rathborne, Ashtown",Dublin,281938.32,Yes,Ashtown,Dublin 15,q3,60%
+24/10/2018,"94 Rathborne Court, Ashtown, Dublin",Dublin,295000.0,No,Ashtown,Dublin 15,q3,70%
+25/10/2018,"13 Rathborne Walk, Rathborne, Ashtown",Dublin,290749.0,Yes,Ashtown,Dublin 15,q3,70%
+26/10/2018,"11 Rathborne Walk, Rathborne, Ashtown",Dublin,317200.0,Yes,Ashtown,Dublin 15,q3,80%
+31/10/2018,"15 Camden Avenue, Royal Canal Park Ratoath Rd, Ashtown",Dublin,392070.48,Yes,Ashtown,Dublin 15,q4,100%
+31/10/2018,"8 Rathborne Park, Rathborne, Ashtown",Dublin,365638.77,Yes,Ashtown,Dublin 15,q4,100%
+01/11/2018,"383 Navan Road, Ashtown, Dublin 7",Dublin,755000.0,No,Ashtown,Dublin 15,q4,100%
+01/11/2018,"53 Rathborne, Earlswood  Ashtown, Dublin 15",Dublin,280000.0,No,Ashtown,Dublin 15,q3,60%
+02/11/2018,"90 Rathbourne Court, Earlswood, Ashtown Dublin 15",Dublin,296500.0,No,Ashtown,Dublin 15,q3,70%
+06/11/2018,"23 Camden Avenue, Royal Canal Park, Ashtown",Dublin,392070.48,Yes,Ashtown,Dublin 15,q4,100%
+07/11/2018,"18 Pelletstown Avenue, Rathborne Park, Ashtown",Dublin,295154.0,Yes,Ashtown,Dublin 15,q3,70%
+08/11/2018,"14 Pelletstown Avenue, Rathborne, Ashtown",Dublin,335000.0,Yes,Ashtown,Dublin 15,q4,90%
+08/11/2018,"17 Camden Avenue, Royal Canal Park, Ashtown",Dublin,392070.0,Yes,Ashtown,Dublin 15,q4,100%
+08/11/2018,"4 Pelletstown Avenue, Rathborne, Ashtown",Dublin,295154.0,Yes,Ashtown,Dublin 15,q3,70%
+09/11/2018,"10 Pelletstown Avenue, Rathborne, Ashtown",Dublin,295154.18,Yes,Ashtown,Dublin 15,q3,70%
+09/11/2018,"20 Pelletstown Avenue, Rathborne, Ashtown",Dublin,295154.18,Yes,Ashtown,Dublin 15,q3,70%
+09/11/2018,"22 Camden Avenue, Royal Canal Park, Ashtown",Dublin,400881.06,Yes,Ashtown,Dublin 15,q4,100%
+09/11/2018,"53 Compass Court North, Pelletstown Ave Royal Canal Park, Ratoath Rd Ashtown",Dublin,256500.0,No,Ashtown,Dublin 15,q2,50%
+14/11/2018,"1 Rathborne Park, Rathborne, Ashtown",Dublin,321585.9,Yes,Ashtown,Dublin 15,q3,80%
+14/11/2018,"22 Pelletstown Avenue, Rathborne, Ashtown",Dublin,340000.0,Yes,Ashtown,Dublin 15,q4,90%
+15/11/2018,"18 Camden Avenue, Royal Canal Park, Ashtown",Dublin,400882.0,Yes,Ashtown,Dublin 15,q4,100%
+15/11/2018,"Apt 1G, Rathborne Close, Ashtown Dublin 15",Dublin,215000.0,No,Ashtown,Dublin 15,q2,40%
+19/11/2018,"15 Rathborne Walk Rathborne Park, Ashtown, Dublin 15",Dublin,365638.76,Yes,Ashtown,Dublin 15,q4,90%
+22/11/2018,"16 Pelletstown Avenue, Rathborne, Ashtown",Dublin,295154.18,Yes,Ashtown,Dublin 15,q3,70%
+23/11/2018,"Apt.103 - Rathborne Drive, Rathborne, Ashtown",Dublin,290000.0,No,Ashtown,Dublin 15,q3,60%
+27/11/2018,"83 The Waxworks, Rathborne Village, Ashtown Dublin 15",Dublin,246000.0,No,Ashtown,Dublin 15,q2,50%
+29/11/2018,"6 Pelletstown Avenue, Rathborne, Ashtown",Dublin,295154.0,Yes,Ashtown,Dublin 15,q3,70%
+04/12/2018,"14 Ashtown Grove, Navan Rd, Dublin 7",Dublin,590000.0,No,Ashtown,Dublin 15,q4,100%
+05/12/2018,"56 Rathborne Court, Ashtown, Dublin 15",Dublin,310100.0,No,Ashtown,Dublin 15,q3,70%
+06/12/2018,"17 Pelletstown Avenue, Rathborne, Ashtown",Dublin,281932.32,Yes,Ashtown,Dublin 15,q3,60%
+06/12/2018,"19 Rathborne Walk, Ashtown",Dublin,290749.0,Yes,Ashtown,Dublin 15,q3,70%
+06/12/2018,"9 Pelletstown Avenue, Rathborne Park, Ashtown",Dublin,361233.0,Yes,Ashtown,Dublin 15,q4,90%
+07/12/2018,"19 Pelletstown Avenue, Rathborne, Ashtown",Dublin,286343.61,Yes,Ashtown,Dublin 15,q3,60%
+10/12/2018,"17 Rathborne Walk, Ashtown",Dublin,317180.62,Yes,Ashtown,Dublin 15,q3,80%
+11/12/2018,"11 Pelletstown Avenue, Rathborne, Ashtown",Dublin,286343.61,Yes,Ashtown,Dublin 15,q3,60%
+11/12/2018,"42 Rathborne Walk, Royal Canal Park Ratoath Rd, Ashtown",Dublin,339207.04,Yes,Ashtown,Dublin 15,q4,90%
+12/12/2018,"12 Pelletstown Avenue, Rathbourne, Ashtown",Dublin,295154.0,Yes,Ashtown,Dublin 15,q3,70%
+12/12/2018,"21 Rathborne Walk, Rathborne, Ashtown",Dublin,365638.76,Yes,Ashtown,Dublin 15,q4,100%
+12/12/2018,"27 Rathborne Square, Ashtown",Dublin,335000.0,Yes,Ashtown,Dublin 15,q4,90%
+13/12/2018,"13 Pelletstown Avenue, Rathborne, Ashtown",Dublin,281938.32,Yes,Ashtown,Dublin 15,q3,60%
+13/12/2018,"15 Pelletstown Avenue, Rathborne, Ashtown",Dublin,281938.32,Yes,Ashtown,Dublin 15,q3,60%
+14/12/2018,"23 Rathbourne Square, Ashtown, Dublin 15",Dublin,295154.18,Yes,Ashtown,Dublin 15,q3,70%
+14/12/2018,"69 Park View, Rathbourne, Ashtown Dublin 7",Dublin,210000.0,No,Ashtown,Dublin 15,q2,40%
+17/12/2018,"20 Rathborne Square, Rathborne, Ashtown",Dublin,299559.47,Yes,Ashtown,Dublin 15,q3,70%
+17/12/2018,"24 Rathborne Square, Rathborne, Ashtown",Dublin,295154.18,Yes,Ashtown,Dublin 15,q3,70%
+18/12/2018,"25 Rathborne Square, Rathborne, Ashtown",Dublin,295154.0,Yes,Ashtown,Dublin 15,q3,70%
+19/12/2018,"100 Royal Canal Court, Royal Canal Way, Ashtown Dublin 15",Dublin,247000.0,No,Ashtown,Dublin 15,q2,50%
+19/12/2018,"Apt 4 The Tallow, Rathborne Village, Ashtown Dublin 15",Dublin,300000.0,No,Ashtown,Dublin 15,q3,70%
+20/12/2018,"26 Rathborne Square, Ashtown",Dublin,295155.0,Yes,Ashtown,Dublin 15,q3,70%
+20/12/2018,"34 The Paddock, Ashtown, Dublin 7",Dublin,455000.0,No,Ashtown,Dublin 15,q4,100%
+20/12/2018,"Unit 28 Rathborne Square, Rathborne, Ashtown",Dublin,295154.18,Yes,Ashtown,Dublin 15,q3,70%
+21/12/2018,"21 Rathborne Square, Rathborne, Ashtown",Dublin,295154.0,Yes,Ashtown,Dublin 15,q3,70%
+21/12/2018,"41 The Wax Works, Rathbourne, Ashtown Dublin 15",Dublin,300000.0,No,Ashtown,Dublin 15,q3,70%
+21/12/2018,"72 Rathborne Court, Ashtown, Dublin 15",Dublin,430000.0,No,Ashtown,Dublin 15,q4,100%
+03/01/2019,"22 Rathbourne Square, Ashtown, Dublin 15",Dublin,335000.0,Yes,Ashtown,Dublin 15,q4,90%
+09/01/2019,"30 Rathborne Square, Rathborne, Ashtown",Dublin,321585.9,Yes,Ashtown,Dublin 15,q3,80%
+11/01/2019,"15 Park View, Rathborne, Ashtown Dublin 15",Dublin,310000.0,No,Ashtown,Dublin 15,q3,70%
+11/01/2019,"2H Rathborne Dr, Ashtown, Dublin 15",Dublin,287000.0,No,Ashtown,Dublin 15,q3,60%
+15/01/2019,"29 Rathborne Square, Rathborne, Ashtown",Dublin,343612.0,Yes,Ashtown,Dublin 15,q4,90%
+16/01/2019,"26 Rathborne Walk, Rathborne, Ashtown",Dublin,339200.0,Yes,Ashtown,Dublin 15,q4,90%
+23/01/2019,"30 Rathborne Walk, Royal Canal Park, Ratoath Road  Ashtown",Dublin,339207.0,Yes,Ashtown,Dublin 15,q4,90%
+07/02/2019,"154 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,420000.0,No,Ashtown,Dublin 15,q4,100%
+11/02/2019,"114 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,251101.0,Yes,Ashtown,Dublin 15,q2,50%
+13/02/2019,"Apt 22, Royal Canal Court, The Waterways Ashtown Dublin 15",Dublin,320000.0,Yes,Ashtown,Dublin 15,q3,80%
+14/02/2019,"59 Meridian Court, Royal Canal Park, Ashtown",Dublin,200000.0,No,Ashtown,Dublin 15,q2,40%
+15/02/2019,"56 Royal Canal Court, Rathbourne Dr, Ashtown Dublin 15",Dublin,251101.0,No,Ashtown,Dublin 15,q2,50%
+19/02/2019,"18 Rathborne Square, Ashtown",Dublin,330000.0,Yes,Ashtown,Dublin 15,q4,80%
+19/02/2019,"27 Rathborne Walk, Rathborne, Ashtown",Dublin,295154.0,Yes,Ashtown,Dublin 15,q3,70%
+20/02/2019,"70 Royal Canal Court, Ashtown, Dublin 15",Dublin,331000.0,No,Ashtown,Dublin 15,q4,80%
+20/02/2019,"Unit 29  Rathborne Walk, Rathborne, Ashtown",Dublin,334801.76,Yes,Ashtown,Dublin 15,q4,80%
+21/02/2019,"31 Rathborne Walk, Rathborne, Ashtown",Dublin,295154.0,Yes,Ashtown,Dublin 15,q3,70%
+22/02/2019,"23 Rathborne Walk, Rathborne, Ashtown",Dublin,295154.18,Yes,Ashtown,Dublin 15,q3,70%
+25/02/2019,"3 Clearwater Court South, Royal Canal Park, Ashtown",Dublin,275000.0,No,Ashtown,Dublin 15,q3,60%
+28/02/2019,"33 Rathborne Walk, Rathborne, Ashtown",Dublin,295154.19,Yes,Ashtown,Dublin 15,q3,70%
+01/03/2019,"17 Rathborne Square, Rathborne, Ashtown",Dublin,272400.0,Yes,Ashtown,Dublin 15,q3,60%
+05/03/2019,"78 The Water Ways, Royal Canal Court, Ashtown Dublin 15",Dublin,330000.0,No,Ashtown,Dublin 15,q4,80%
+07/03/2019,"25 Rathborne Vale, Rathborne, Ashtown",Dublin,286344.0,Yes,Ashtown,Dublin 15,q3,60%
+08/03/2019,"26 Rathborne Vale, Ashtown",Dublin,286343.6,Yes,Ashtown,Dublin 15,q3,60%
+08/03/2019,"2D Rathborne Way, Ashtown, Dublin 15",Dublin,290000.0,No,Ashtown,Dublin 15,q3,60%
+11/03/2019,"13 Rathborne Square, Rathborne, Ashtown",Dublin,308370.04,Yes,Ashtown,Dublin 15,q3,70%
+11/03/2019,"15 Rathborne Square, Rathborne, Ashtown",Dublin,290749.0,Yes,Ashtown,Dublin 15,q3,70%
+12/03/2019,"35 Rathborne Walk, Ashtown, Dublin 15",Dublin,299556.0,Yes,Ashtown,Dublin 15,q3,70%
+13/03/2019,"11 Rathborne Square, Rathborne, Ashtown",Dublin,295154.0,Yes,Ashtown,Dublin 15,q3,70%
+13/03/2019,"14 Rathborne Square, Ashtown, Dublin 15",Dublin,290749.0,Yes,Ashtown,Dublin 15,q3,70%
+13/03/2019,"16 Rathborne Square, Rathborne, Ashtown",Dublin,295154.0,Yes,Ashtown,Dublin 15,q3,70%
+13/03/2019,"69 The Paddock, Ashtown Gate, Phoenix Park",Dublin,375000.0,No,Ashtown,Dublin 15,q4,100%
+14/03/2019,"180 Rathborne Court, Earlswood, Ashtown",Dublin,468500.0,No,Ashtown,Dublin 15,q4,100%
+15/03/2019,"12 Rathborne Square, Rathborne, Ashtown",Dublin,290748.9,Yes,Ashtown,Dublin 15,q3,60%
+15/03/2019,"17 Park View, Rathborne, Ashtown Dublin 15",Dublin,316000.0,No,Ashtown,Dublin 15,q3,80%
+20/03/2019,"24 Rathborne Vale, Rathborne, Ashtown",Dublin,317181.0,Yes,Ashtown,Dublin 15,q3,80%
+22/03/2019,"18 Rathborne Walk, Royal Canal Park, Ashtown",Dublin,348017.62,Yes,Ashtown,Dublin 15,q4,90%
+22/03/2019,"Apt 57, Rathborne Dr, Ashtown",Dublin,280000.0,No,Ashtown,Dublin 15,q3,60%
+26/03/2019,"16 Rathbourne Walk, Royal Canal Park Ratoath Rd, Ashtown",Dublin,356828.19,Yes,Ashtown,Dublin 15,q4,90%
+29/03/2019,"70 Rathborne Court, Ashtown, Dublin 15",Dublin,435000.0,No,Ashtown,Dublin 15,q4,100%
+02/04/2019,"27 Rathborne Vale, Rathborne, Ashtown",Dublin,360000.0,Yes,Ashtown,Dublin 15,q4,90%
+03/04/2019,"10 Rathborne Walk, Royal Canal Park, Ashtown",Dublin,348017.62,Yes,Ashtown,Dublin 15,q4,90%
+04/04/2019,"4 Rathborne Walk, Royal Canal Park, Ratoath Rd Ashtown",Dublin,356828.19,Yes,Ashtown,Dublin 15,q4,90%
+16/04/2019,"12 Rathborne Walk, Royal Canal Park, Ratoath Rd Ashtown",Dublin,356828.19,Yes,Ashtown,Dublin 15,q4,90%
+17/04/2019,"36 Cassian Court South, Royal Canal Park, Ashtown",Dublin,270000.0,No,Ashtown,Dublin 15,q3,60%
+18/04/2019,"82 Parkview, Ashtown, Rathborne Dublin 15",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+18/04/2019,"83 Parkview, Ashtown, Dublin 15",Dublin,205000.0,No,Ashtown,Dublin 15,q2,40%
+26/04/2019,"22 Rathbourne Vale, Rathbourne, Ashtown",Dublin,321585.9,Yes,Ashtown,Dublin 15,q3,80%
+26/04/2019,"26 Compass Court North, Royal Canal Park, Ashtown Dublin 15",Dublin,286500.0,No,Ashtown,Dublin 15,q3,60%
+29/04/2019,"15 Rathborne Vale, Rathborne, Ashtown",Dublin,334802.0,Yes,Ashtown,Dublin 15,q4,90%
+30/04/2019,"71 Park View, Ashtown, Dublin",Dublin,312000.0,No,Ashtown,Dublin 15,q3,70%
+01/05/2019,"12 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,320000.0,No,Ashtown,Dublin 15,q3,80%
+02/05/2019,"21 Rathborne Vale, Rathborne, Ashtown",Dublin,321585.9,Yes,Ashtown,Dublin 15,q3,80%
+02/05/2019,"No 10 Rathborne Square, Rathborne, Ashtown",Dublin,352422.9,Yes,Ashtown,Dublin 15,q4,90%
+03/05/2019,"19 Rathborne Vale, Ashtown",Dublin,321585.9,Yes,Ashtown,Dublin 15,q3,80%
+03/05/2019,"20 Rathborne Vale, Rathborne, Ashtown",Dublin,321585.9,Yes,Ashtown,Dublin 15,q3,80%
+07/05/2019,"16 Rathboirne Vale, Rathborne, Ashtown",Dublin,325991.19,Yes,Ashtown,Dublin 15,q4,80%
+07/05/2019,"18 Rathborne Vale, Rathborne, Ashtown",Dublin,325991.19,Yes,Ashtown,Dublin 15,q4,80%
+08/05/2019,"48 Royal Canal Bank Avenue, Ashtown",Dublin,422907.0,Yes,Ashtown,Dublin 15,q4,100%
+09/05/2019,"6 Rathborne Square, Rathborne, Ashtown",Dublin,312775.0,Yes,Ashtown,Dublin 15,q3,80%
+10/05/2019,"23 Rathborne Vale, Rathborne Park, Ashtown",Dublin,321586.0,Yes,Ashtown,Dublin 15,q4,80%
+10/05/2019,"8 Rathborne Square, Ashtown",Dublin,312775.0,Yes,Ashtown,Dublin 15,q3,80%
+14/05/2019,"5  Rathborne Square, Ashtown, Dublin 15",Dublin,321585.0,Yes,Ashtown,Dublin 15,q3,80%
+17/05/2019,"12 The Elms, Pelletstown Manor, Ashtown Dublin 15",Dublin,245000.0,No,Ashtown,Dublin 15,q2,50%
+21/05/2019,"33 Camden Avenue, Ashtown, Dublin 15",Dublin,409691.62,Yes,Ashtown,Dublin 15,q4,100%
+23/05/2019,"55 Rathbourne Ave, Ashtown, Dublin 15",Dublin,315000.0,No,Ashtown,Dublin 15,q3,80%
+23/05/2019,"9 Rathborne Square, Rathborne, Ashtown",Dublin,321585.0,Yes,Ashtown,Dublin 15,q3,80%
+27/05/2019,"31 Camden Avenue, Royal Canal Park Ratoath Rd, Ashtown",Dublin,409691.62,Yes,Ashtown,Dublin 15,q4,100%
+27/05/2019,"78 The Chandler, The Village, Ashtown",Dublin,395000.0,No,Ashtown,Dublin 15,q4,100%
+29/05/2019,"54 The Waxworks, Ashtown, Dublin 15",Dublin,246000.0,No,Ashtown,Dublin 15,q2,50%
+30/05/2019,"18 The Oaks Pelletstown Manor, Ashtown Dublin 15, Dublin",Dublin,265000.0,No,Ashtown,Dublin 15,q2,50%
+30/05/2019,"77 Shandler Building, Ashtown, Dublin",Dublin,290000.0,No,Ashtown,Dublin 15,q3,60%
+31/05/2019,"7 Rathborne Square, Rathborne, Ashtown",Dublin,312775.0,Yes,Ashtown,Dublin 15,q3,80%
+07/06/2019,"152 Royal Canal Court, Ashtown, Dublin 15",Dublin,330000.0,No,Ashtown,Dublin 15,q4,80%
+07/06/2019,"156 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,325991.18,Yes,Ashtown,Dublin 15,q4,80%
+14/06/2019,"2 Rathborne Square, Rathborne, Ashtown",Dublin,330396.47,Yes,Ashtown,Dublin 15,q4,80%
+14/06/2019,"48 Chandler Building, The Village, Rathborne Ashtown Dublin 15",Dublin,364000.0,No,Ashtown,Dublin 15,q4,90%
+17/06/2019,"88 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,281938.32,No,Ashtown,Dublin 15,q3,60%
+20/06/2019,"14 Rathborne Vale, Rathborne, Ashtown",Dublin,330396.0,Yes,Ashtown,Dublin 15,q4,80%
+20/06/2019,"30 Camden Avenue, Royal Canal Park, Ashtown",Dublin,400881.06,Yes,Ashtown,Dublin 15,q4,100%
+24/06/2019,"13 Rathbourne Vale, Rathborne, Ashtown",Dublin,321586.0,Yes,Ashtown,Dublin 15,q4,80%
+24/06/2019,"40 Royal Canal Court, Royal Canal Way, Ashtown Dublin 15",Dublin,343000.0,No,Ashtown,Dublin 15,q4,90%
+26/06/2019,"10 Rathborne Vale, Rathborne, Ashtown",Dublin,325991.0,Yes,Ashtown,Dublin 15,q4,80%
+26/06/2019,"4 Rathborne Square, Rathborne, Ashtown",Dublin,409691.63,Yes,Ashtown,Dublin 15,q4,100%
+28/06/2019,"17 The Tallow, Rathborne, Ashtown",Dublin,290000.0,No,Ashtown,Dublin 15,q3,60%
+01/07/2019,"3 Rathborne Square, Rathborne, Ashtown",Dublin,339207.05,Yes,Ashtown,Dublin 15,q4,90%
+01/07/2019,"52 The Waxworks, Ashtown Square, Ashtown",Dublin,289000.0,No,Ashtown,Dublin 15,q3,60%
+03/07/2019,"12 Rathbourne Vale, Rathbourne, Ashtown Dublin 15",Dublin,321585.9,Yes,Ashtown,Dublin 15,q4,80%
+03/07/2019,"46 Park View, Rathborne, Ashtown Dublin 15",Dublin,297500.0,No,Ashtown,Dublin 15,q3,70%
+05/07/2019,"11 Rathborne Vale, Ashtown",Dublin,334801.76,Yes,Ashtown,Dublin 15,q4,80%
+05/07/2019,"37 Rathborne Square, Rathborne, Ashtown",Dublin,321585.9,Yes,Ashtown,Dublin 15,q4,80%
+05/07/2019,"7 Rathborne Vale, Rathborne, Ashtown",Dublin,330396.47,Yes,Ashtown,Dublin 15,q4,80%
+11/07/2019,"20G Rathborne Dr, Ashtown, Dublin 15",Dublin,222000.0,No,Ashtown,Dublin 15,q2,40%
+12/07/2019,"2 Rathbourne Court, Ashtown",Dublin,288000.0,No,Ashtown,Dublin 15,q3,60%
+18/07/2019,"1 Rathborne Square, Rathborne, Ashtown",Dublin,356828.19,Yes,Ashtown,Dublin 15,q4,90%
+18/07/2019,"32 Rathborne Square, Rathborne, Ashtown",Dublin,321586.0,Yes,Ashtown,Dublin 15,q4,80%
+18/07/2019,"34 Rathborne Square, Rathborne, Ashtown",Dublin,325991.18,Yes,Ashtown,Dublin 15,q4,80%
+18/07/2019,"36 Rathborne Square, Rathborne, Ashtown",Dublin,321585.0,Yes,Ashtown,Dublin 15,q3,80%
+24/07/2019,"32 Clearwater Court North, Royal Canal Park, Ashtown Dublin 15",Dublin,278000.0,No,Ashtown,Dublin 15,q3,60%
+25/07/2019,"4 Lock Keepers Walk, Royal Canal Park, Rathoath Rd  Ashtown",Dublin,346500.0,No,Ashtown,Dublin 15,q4,90%
+26/07/2019,"60 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,281938.32,Yes,Ashtown,Dublin 15,q3,60%
+29/07/2019,"4 Rathborne Way, Ashtown, Dublin 15",Dublin,392000.0,No,Ashtown,Dublin 15,q4,100%
+15/08/2019,"25 Ashtown Grove, Navan Road, Dublin 7",Dublin,175000.0,No,Ashtown,Dublin 15,q2,30%
+19/08/2019,"45 The Paddocks, Ashtown Gate, Dublin 7",Dublin,360000.0,No,Ashtown,Dublin 15,q4,90%
+21/08/2019,"38 Pelletstown Avenue, Royal Canal Park Ratoath Rd, Ashtown",Dublin,409691.62,Yes,Ashtown,Dublin 15,q4,100%
+21/08/2019,"56 The Paddock, Ashtown Gate, Phoenix Park Dublin 7",Dublin,475000.0,No,Ashtown,Dublin 15,q4,100%
+21/08/2019,"7 Pelletstown Avenue, Rathbourne, Ashtown",Dublin,348017.0,Yes,Ashtown,Dublin 15,q4,90%
+22/08/2019,"15 Rathbourne Park, Rathbourne, Ashtown",Dublin,365638.77,Yes,Ashtown,Dublin 15,q4,100%
+23/08/2019,"22 Rathbourne Walk, Royal Canal Park Ratoath Rd, Ashtown",Dublin,458149.77,Yes,Ashtown,Dublin 15,q4,100%
+23/08/2019,"65 Compass Court North, Royal Canal Park, Ashtown",Dublin,275000.0,No,Ashtown,Dublin 15,q3,60%
+28/08/2019,"3 Pelletstown Avenue, Rathborne, Ashtown",Dublin,330396.47,Yes,Ashtown,Dublin 15,q4,80%
+29/08/2019,"33A Ashtown Grove, Navan Rd, Dublin 7",Dublin,545000.0,No,Ashtown,Dublin 15,q4,100%
+03/09/2019,"17 Rathborne Park, Rathborne, Ashtown",Dublin,356828.0,Yes,Ashtown,Dublin 15,q4,90%
+05/09/2019,"1 Pelletstown Avenue, Rathborne, Ashtown",Dublin,405286.34,Yes,Ashtown,Dublin 15,q4,100%
+05/09/2019,"14 The Elms, Pelletstown Manor, Ashtown Dublin 15",Dublin,265000.0,No,Ashtown,Dublin 15,q2,50%
+06/09/2019,"1 Rathborne Dale, Rathborne, Ashtown",Dublin,414097.0,Yes,Ashtown,Dublin 15,q4,100%
+06/09/2019,"14 Rathborne Park, Rathborne, Ashtown",Dublin,383259.91,Yes,Ashtown,Dublin 15,q4,100%
+10/09/2019,"5 Pelletstown Avenue, Rathborne, Ashtown",Dublin,334801.76,Yes,Ashtown,Dublin 15,q4,80%
+11/09/2019,"2 Pelletstown Avenue, Rathborne, Ashtown",Dublin,367256.64,Yes,Ashtown,Dublin 15,q4,100%
+11/09/2019,"4 Rathborne Park, Ashtown, Dublin 15",Dublin,334801.76,Yes,Ashtown,Dublin 15,q4,90%
+12/09/2019,"3 Rathborne Park, Rathborne, Ashtown",Dublin,334803.0,Yes,Ashtown,Dublin 15,q4,90%
+13/09/2019,"2 Rathborne Park, Rathborne, Ashtown",Dublin,334801.76,Yes,Ashtown,Dublin 15,q4,90%
+16/09/2019,"16 Rathborne Park, Rathborne, Ashtown",Dublin,356828.19,Yes,Ashtown,Dublin 15,q4,90%
+16/09/2019,"7 Rathborne Park, Rathborne, Ashtown",Dublin,352422.9,Yes,Ashtown,Dublin 15,q4,90%
+17/09/2019,"5 Rathborne Park, Rathborne, Ashtown",Dublin,334801.76,Yes,Ashtown,Dublin 15,q4,90%
+20/09/2019,"14 Royal Canal Court, Royal Canal Way, Ashtown",Dublin,320000.0,No,Ashtown,Dublin 15,q3,80%
+23/09/2019,"9 Cassian Court South, Royal Canal Park, Ashtown Dublin 15",Dublin,220000.0,No,Ashtown,Dublin 15,q2,40%
+07/10/2019,"17 Rathborne Court, Earlswood, Ashtown Dublin 15",Dublin,282500.0,No,Ashtown,Dublin 15,q3,60%
+22/10/2019,"12 Kempton Park, Ashtown, Dublin 7",Dublin,575000.0,No,Ashtown,Dublin 15,q4,100%
+23/10/2019,"5 Rathborne Dale, Rathborne, Ashtown",Dublin,343612.33,Yes,Ashtown,Dublin 15,q4,90%

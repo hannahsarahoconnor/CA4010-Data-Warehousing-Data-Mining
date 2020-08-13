@@ -1,0 +1,48 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+25/01/2012,"42 Upper Dominick Street, Dublin 7",Dublin,90000.0,No,Dominick St,Dublin 7,q1,10%
+10/06/2013,"23, Lower Dominick Street",Dublin,280000.0,No,Dominick St,Dublin 7,q4,100%
+19/06/2013,"42 Dominick Street Lower, Dublin 1",Dublin,370000.0,No,Dominick St,Dublin 7,q4,100%
+21/02/2014,"Apt 19, Bolton Sq, Dominick St Dublin 1",Dublin,105000.0,No,Dominick St,Dublin 7,q1,20%
+25/07/2014,"Apt 3, 33 Bolton Square, Lower Dominick Street",Dublin,108000.0,No,Dominick St,Dublin 7,q1,20%
+20/08/2014,"Apartment 54, Temple Court, Dominick Street",Dublin,96000.0,No,Dominick St,Dublin 7,q1,10%
+03/12/2014,"56 Temple Court, Upper Dominick Street, Dublin 7",Dublin,90000.0,No,Dominick St,Dublin 7,q1,10%
+19/12/2014,"57 Bolton Sq, Dominick St Lower, Dublin 1",Dublin,150000.0,No,Dominick St,Dublin 7,q1,30%
+19/12/2014,"Apt 1 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q2,40%
+19/12/2014,"Apt 10 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q2,40%
+19/12/2014,"Apt 12 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q2,40%
+19/12/2014,"Apt 13 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q2,40%
+19/12/2014,"Apt 14 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q2,40%
+19/12/2014,"Apt 15 Sartini Court, 16 18 Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q2,50%
+19/12/2014,"Apt 16 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q2,50%
+19/12/2014,"Apt 17 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q2,50%
+19/12/2014,"Apt 18 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q2,50%
+19/12/2014,"Apt 19 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q2,50%
+19/12/2014,"Apt 2 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,60%
+19/12/2014,"Apt 20 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,60%
+19/12/2014,"Apt 21 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,60%
+19/12/2014,"Apt 22 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,60%
+19/12/2014,"Apt 23 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,70%
+19/12/2014,"Apt 24 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,70%
+19/12/2014,"Apt 25 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,70%
+19/12/2014,"Apt 26 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,70%
+19/12/2014,"Apt 27 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,70%
+19/12/2014,"Apt 28 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,80%
+19/12/2014,"Apt 3 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,119000.0,No,Dominick St,Dublin 7,q1,20%
+19/12/2014,"Apt 4 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q3,80%
+19/12/2014,"Apt 5 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q4,80%
+19/12/2014,"Apt 6 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q4,80%
+19/12/2014,"Apt 7 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q4,90%
+19/12/2014,"Apt 8 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q4,90%
+19/12/2014,"Apt 9 Sartini Court, 16 18 Upper Dominick St, Dublin 1",Dublin,180000.0,No,Dominick St,Dublin 7,q4,90%
+13/01/2015,"Apt 41 Temple Court, Dominick Street, Dublin 1",Dublin,100000.0,No,Dominick St,Dublin 7,q1,10%
+11/06/2015,"Apt 15, Bolton Sq, Lower Dominick St Dublin 1",Dublin,130000.0,No,Dominick St,Dublin 7,q1,30%
+14/01/2016,"Apartment 49, Temple Court, Dominick Street",Dublin,100000.0,No,Dominick St,Dublin 7,q1,20%
+14/01/2016,"Apartment 50, Temple Court, Dominick Street",Dublin,100000.0,No,Dominick St,Dublin 7,q1,20%
+25/05/2016,"Apt 55, Temple Court, Dominick Street",Dublin,87000.0,No,Dominick St,Dublin 7,q1,10%
+29/09/2017,"2 Palmerston Hall, Upper Dominick St, Dublin 7",Dublin,180000.0,No,Dominick St,Dublin 7,q4,90%
+05/12/2017,"Apt 44, Bolton Sq, Dominick St Dublin 1",Dublin,170000.0,No,Dominick St,Dublin 7,q2,30%
+14/12/2018,"45 Temple Court, Dominick St Upper, Dublin 7",Dublin,220000.0,No,Dominick St,Dublin 7,q4,100%
+15/03/2019,"Apt 20 Bolton Square, 33 Lower Dominick Street, Dublin 1",Dublin,185000.0,No,Dominick St,Dublin 7,q4,90%
+12/04/2019,"31 Temple Court, Dominick St Upper, Dublin 7",Dublin,173000.0,No,Dominick St,Dublin 7,q2,30%
+22/08/2019,"23 Temple Court, Dominick St, Dublin 7",Dublin,225000.0,No,Dominick St,Dublin 7,q4,100%
+22/08/2019,"Apt 44, Bolton Sq, Dominick St Dublin 1",Dublin,188500.0,No,Dominick St,Dublin 7,q4,100%

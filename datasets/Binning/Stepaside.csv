@@ -1,0 +1,932 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+14/01/2010,"2 Belarmine Hall, Newtownlittle  Stepaside, Dublin 18",Dublin,214097.0,Yes,Stepaside,Dublin 18,q1,20%
+20/01/2010,"Apt 22  Belarmine Hall, Belarmine Avenue, Stepaside",Dublin,171806.16,Yes,Stepaside,Dublin 18,q1,10%
+22/01/2010,"147 Stepaside Park, Stepaside, Dublin",Dublin,625000.0,No,Stepaside,Dublin 18,q4,100%
+22/01/2010,"18 Belarmine Hall, Newtownlittle, Stepaside",Dublin,229074.88,Yes,Stepaside,Dublin 18,q1,20%
+01/02/2010,"9 Kilgobbin Lawn, Stepaside",Dublin,925000.0,No,Stepaside,Dublin 18,q4,100%
+04/02/2010,"85 Wingfield, Enniskerry Road, Stepaside",Dublin,430000.0,No,Stepaside,Dublin 18,q3,80%
+10/02/2010,"106 Stepaside Park, Stepaside",Dublin,580000.0,No,Stepaside,Dublin 18,q4,90%
+10/02/2010,"21  Belarmine Hall, Belarmine Avenue, Stepaside",Dublin,185000.0,Yes,Stepaside,Dublin 18,q1,10%
+12/02/2010,"25 Belarmine Close, Stepaside",Dublin,400000.0,No,Stepaside,Dublin 18,q3,70%
+18/02/2010,"10 The Cedar, Parkview, Enniskerry Road  Stepaside",Dublin,225000.0,Yes,Stepaside,Dublin 18,q1,20%
+20/02/2010,"75 Stepaside Park, Stepaside",Dublin,590000.0,No,Stepaside,Dublin 18,q4,90%
+25/02/2010,"8 Cruagh Rise, Cruagh Manor, Stepaside",Dublin,350000.0,No,Stepaside,Dublin 18,q2,50%
+01/03/2010,"Apt 18 The Oak, Parkview, Stepaside",Dublin,348017.0,Yes,Stepaside,Dublin 18,q2,50%
+01/03/2010,"Apt 36 The Sycamore, Park View, Enniskerry Road  Stepaside",Dublin,286343.61,Yes,Stepaside,Dublin 18,q2,30%
+19/03/2010,"42 Heather Court, Stepaside Park, Stepaside",Dublin,250000.0,No,Stepaside,Dublin 18,q1,20%
+22/03/2010,"23  Belarmine Hall, Stepaside",Dublin,211453.0,Yes,Stepaside,Dublin 18,q1,20%
+30/03/2010,"109 Stepaside Park, Stepaside",Dublin,595000.0,No,Stepaside,Dublin 18,q4,90%
+14/04/2010,"Apt 33, The Village, Stepaside",Dublin,198347.0,Yes,Stepaside,Dublin 18,q1,20%
+15/04/2010,"3 Belarmine Grange, Stepaside",Dublin,455000.0,No,Stepaside,Dublin 18,q4,80%
+16/04/2010,"Apartment No. 3, The Village, Stepaside",Dublin,151541.85,Yes,Stepaside,Dublin 18,q1,10%
+21/04/2010,"Apt 8 Belarmine Hall, Stepaside, Dublin 18",Dublin,240000.0,Yes,Stepaside,Dublin 18,q1,20%
+29/04/2010,"100 Belarmine Plaza, Enniskerry Road, Stepaside",Dublin,140000.0,No,Stepaside,Dublin 18,q1,10%
+04/05/2010,"13 Belarmine Hall, Belarmine, Stepaside",Dublin,220000.0,Yes,Stepaside,Dublin 18,q1,20%
+10/05/2010,"60 Belarmine Place, Stepaside",Dublin,350000.0,No,Stepaside,Dublin 18,q3,60%
+21/05/2010,"12 Belarmine Hall, Belarmine Avenue, Stepaside",Dublin,223788.54,Yes,Stepaside,Dublin 18,q1,20%
+26/05/2010,"Apartment 2, The Village, Stepaside",Dublin,79895.0,Yes,Stepaside,Dublin 18,q1,10%
+29/05/2010,"22 Belarmine Way, Stepaside",Dublin,427000.0,No,Stepaside,Dublin 18,q3,80%
+03/06/2010,"Apartment 39  Littlewood, Stepaside",Dublin,243000.0,No,Stepaside,Dublin 18,q1,20%
+04/06/2010,"34 Belarmine Hall, Belarmine Avenue, Stepaside",Dublin,145374.0,Yes,Stepaside,Dublin 18,q1,10%
+15/06/2010,"87 Ballyedmonduff Road, Stepaside",Dublin,360000.0,No,Stepaside,Dublin 18,q3,60%
+18/06/2010,"79 Stepaside Park, Stepaside",Dublin,575000.0,No,Stepaside,Dublin 18,q4,90%
+22/06/2010,"80 Belarmine Plaza, Newtownlittle, Stepaside",Dublin,204000.0,Yes,Stepaside,Dublin 18,q1,20%
+23/06/2010,"11 Belarmine Hall, Stepaside",Dublin,145374.44,Yes,Stepaside,Dublin 18,q1,10%
+24/06/2010,"9 Belarmine Hall, Belarmine Avenue, Stepaside",Dublin,215859.03,Yes,Stepaside,Dublin 18,q1,20%
+25/06/2010,"104 Belarmine Plaza, Enniskerry Road, Stepaside",Dublin,188000.0,Yes,Stepaside,Dublin 18,q1,10%
+30/06/2010,"3 Belarmine Close, Stepaside, Dublin 18",Dublin,405000.0,No,Stepaside,Dublin 18,q3,70%
+15/07/2010,"14 Belarmine Square, Newtownlittle, Stepaside",Dublin,378000.0,No,Stepaside,Dublin 18,q3,70%
+21/07/2010,"31 Belarmine Hall, Belarmine Avenue, Stepaside",Dublin,155000.0,Yes,Stepaside,Dublin 18,q1,10%
+28/07/2010,"Apt 130, The Belfry, Enniskerry Road  Stepaside",Dublin,188000.0,No,Stepaside,Dublin 18,q1,10%
+10/08/2010,"16 Belarmine Square, Stepaside",Dublin,235000.0,No,Stepaside,Dublin 18,q1,20%
+11/08/2010,"Apt 40, Block 2  The Belfry, Stepaside",Dublin,212000.0,No,Stepaside,Dublin 18,q1,20%
+13/08/2010,"Apt. 99  Belarmine Plaza, Enniskerry Road, Stepaside",Dublin,172000.0,Yes,Stepaside,Dublin 18,q1,10%
+20/08/2010,"Apt. 16  The Belfry, Stepaside",Dublin,160000.0,No,Stepaside,Dublin 18,q1,10%
+26/08/2010,"22 The Belfry, Enniskerry Road, Stepaside  Co. Dublin.",Dublin,164000.0,No,Stepaside,Dublin 18,q1,10%
+09/09/2010,"Apartment 27 Belarmine Hall, Newtownlittle, Stepaside",Dublin,202643.17,Yes,Stepaside,Dublin 18,q1,20%
+09/09/2010,"Apt 32 The Cedar, Parkview  Enniskerry Road, Stepaside",Dublin,242500.0,Yes,Stepaside,Dublin 18,q1,20%
+13/09/2010,"Apartment 24 The Belfry, Enniskerry Road, Stepaside",Dublin,184000.0,No,Stepaside,Dublin 18,q1,10%
+16/09/2010,"Apartment No. 39 The Willow, Parkview, Stepaside",Dublin,260000.0,Yes,Stepaside,Dublin 18,q1,30%
+28/09/2010,"Ardacha, Kilgobbin Road, Stepaside",Dublin,785000.0,No,Stepaside,Dublin 18,q4,100%
+01/10/2010,"32 Cruagh Avenue, Cruagh Manor, Stepaside",Dublin,295000.0,No,Stepaside,Dublin 18,q2,40%
+04/10/2010,"15 Cruagh Avenue, Stepaside",Dublin,345000.0,No,Stepaside,Dublin 18,q2,50%
+04/10/2010,"No. 36 The Cedar, Parkview, Stepaside",Dublin,340000.0,Yes,Stepaside,Dublin 18,q2,50%
+08/10/2010,"Apt 56 The Belfry, Enniskerry Road, Stepaside",Dublin,220000.0,No,Stepaside,Dublin 18,q1,20%
+12/10/2010,"Apartmemt 58 Belarmine Plaza, Belarmine, Stepaside",Dublin,196000.0,No,Stepaside,Dublin 18,q1,20%
+15/10/2010,"2 Belarmine Park, Stepaside, Dublin 18",Dublin,710000.0,No,Stepaside,Dublin 18,q4,100%
+18/10/2010,"64 Belarmine Place, Stepaside",Dublin,325000.0,No,Stepaside,Dublin 18,q2,50%
+12/11/2010,"Apt. 1 The Belfry, Enniskerry Road, Stepaside",Dublin,152000.0,No,Stepaside,Dublin 18,q1,10%
+15/11/2010,"21 Belarmine Way, Stepaside",Dublin,395000.0,No,Stepaside,Dublin 18,q3,70%
+30/11/2010,"26 The Ash, Stepaside, Dublin 18",Dublin,75000.0,No,Stepaside,Dublin 18,q1,10%
+30/11/2010,"34 The Sycamores, Park View, Enniskerry Road  Stepaside",Dublin,150000.0,No,Stepaside,Dublin 18,q1,10%
+01/12/2010,"5  Belarmine Hall, Newtownlittle, Stepaside",Dublin,185022.02,Yes,Stepaside,Dublin 18,q1,10%
+08/12/2010,"118 Stepaside Park, Stepaside, County Dublin",Dublin,645000.0,No,Stepaside,Dublin 18,q4,100%
+09/12/2010,"16 Belarmine Hall, Stepaside, Dublin 18",Dublin,136564.0,Yes,Stepaside,Dublin 18,q1,10%
+13/12/2010,"10 Cruagh Close, Stepaside, Co. Dublin",Dublin,307000.0,No,Stepaside,Dublin 18,q2,40%
+16/12/2010,"Apt 38 The Sycamore, Parkview, Stepaside",Dublin,285000.0,Yes,Stepaside,Dublin 18,q2,30%
+17/12/2010,"33 The Elms, Parkside, Enniskerry Road Stepaside",Dublin,270000.0,No,Stepaside,Dublin 18,q1,30%
+20/12/2010,"36 The Oak, Park View, Stepaside",Dublin,315000.0,Yes,Stepaside,Dublin 18,q2,40%
+20/12/2010,"Apartment 27, The Village, Stepaside",Dublin,172000.0,No,Stepaside,Dublin 18,q1,10%
+17/01/2011,"Apt.25  The Ash, Parkview, Enniskerry Road  Stepaside",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+02/02/2011,"48 Kilgobbin Heights, Stepaside",Dublin,580000.0,No,Stepaside,Dublin 18,q4,90%
+11/02/2011,"20 Belarmine Hall, Newtownlittle, Stepaside",Dublin,199118.94,Yes,Stepaside,Dublin 18,q1,20%
+29/04/2011,"14 Cairnfort, Enniskerry Road, Stepaside",Dublin,750000.0,No,Stepaside,Dublin 18,q4,100%
+27/05/2011,"25 The Sycamore, Parkview, Stepaside",Dublin,211014.0,Yes,Stepaside,Dublin 18,q1,20%
+03/06/2011,"30 Stepaside Park, Stepaside, Dublin 18",Dublin,595000.0,No,Stepaside,Dublin 18,q4,90%
+07/06/2011,"17  Kilgobbin Heights, Stepaside",Dublin,625000.0,No,Stepaside,Dublin 18,q4,100%
+14/07/2011,"26 Cruagh Avenue, Stepaside",Dublin,242000.0,No,Stepaside,Dublin 18,q1,20%
+05/08/2011,"47 Stepaside Park, Enniskerry Road, Stepaside",Dublin,560000.0,No,Stepaside,Dublin 18,q4,90%
+17/08/2011,"19 Belarmine Hall, Newtownlittle, Stepaside",Dublin,114493.39,Yes,Stepaside,Dublin 18,q1,10%
+26/08/2011,"2 Stepaside Villas, Stepaside, Kilbgoblin",Dublin,146000.0,No,Stepaside,Dublin 18,q1,10%
+05/09/2011,"23 Belarmine Court, Stepaside, Dublin 18",Dublin,290000.0,No,Stepaside,Dublin 18,q2,30%
+09/09/2011,"70 Belarmine Place, Stepaside",Dublin,165000.0,No,Stepaside,Dublin 18,q1,10%
+21/09/2011,"78 Stepaside Park, Stepaside, Dublin 18",Dublin,590000.0,No,Stepaside,Dublin 18,q4,90%
+28/09/2011,"35 Cairnfort, Stepaside",Dublin,590000.0,No,Stepaside,Dublin 18,q4,90%
+04/10/2011,"11 Cruagh Green, Stepaside",Dublin,153500.0,No,Stepaside,Dublin 18,q1,10%
+12/10/2011,"18 Glen Court, Stepaside",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+02/11/2011,"1 Stepaside Villas, Kilgobbin",Dublin,153000.0,No,Stepaside,Dublin 18,q1,10%
+25/11/2011,"21 Belarmine Vale, Stepaside",Dublin,210000.0,No,Stepaside,Dublin 18,q1,20%
+25/11/2011,"4  Kilgobbin Road, Stepaside",Dublin,450000.0,No,Stepaside,Dublin 18,q4,80%
+02/12/2011,"27 Stepaside Park, Enniskerry",Dublin,500000.0,No,Stepaside,Dublin 18,q4,90%
+09/12/2011,"Apartment 96, Belarmine Plaza, Newtownlittle  Stepaside",Dublin,176167.4,Yes,Stepaside,Dublin 18,q1,10%
+20/12/2011,"94 The Rectory, Stepaside",Dublin,144000.0,No,Stepaside,Dublin 18,q1,10%
+22/12/2011,"17 The Willow, Stepaside",Dublin,168281.94,Yes,Stepaside,Dublin 18,q1,10%
+22/12/2011,"Apartment 3, Belarmine Hall, Stepaside",Dublin,155000.0,Yes,Stepaside,Dublin 18,q1,10%
+23/12/2011,"1 Belarmine Hall, Belarmine Avenue, Stepaside",Dublin,115000.0,Yes,Stepaside,Dublin 18,q1,10%
+20/01/2012,"49 Belarmine Heath, Stepaside",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+24/01/2012,"14 Belarmine Hall, Belarmine Avenue, Stepaside",Dublin,100440.52,Yes,Stepaside,Dublin 18,q1,10%
+27/01/2012,"Apartment 29 The Belfry, Enniskerry Road, Stepaside",Dublin,105000.0,No,Stepaside,Dublin 18,q1,10%
+01/02/2012,"13 The Rectory, Enniskerry Road, Stepaside",Dublin,230000.0,No,Stepaside,Dublin 18,q1,20%
+06/02/2012,"137 The Rectory, Stepaside",Dublin,190000.0,No,Stepaside,Dublin 18,q1,20%
+08/02/2012,"Apt 4 Belarmine Hall, Belarmine, Stepaside  Co Dublin",Dublin,98678.0,Yes,Stepaside,Dublin 18,q1,10%
+24/02/2012,"135 The Rectory, Stepaside, Co. Dublin",Dublin,132000.0,No,Stepaside,Dublin 18,q1,10%
+09/03/2012,"37 St. Patrick'S Park, Stepaside",Dublin,220000.0,No,Stepaside,Dublin 18,q1,20%
+05/04/2012,"12 Belmarine Drive, Stepaside",Dublin,330000.0,No,Stepaside,Dublin 18,q2,50%
+11/05/2012,"34 The Rectory, Stepaside, Dublin 18",Dublin,145000.0,No,Stepaside,Dublin 18,q1,10%
+11/05/2012,"7 Belarmine Hall, Newtownlittle, Stepaside",Dublin,130000.0,Yes,Stepaside,Dublin 18,q1,10%
+15/05/2012,"30 Belarmine Drive, Stepaside, Dublin 18",Dublin,345000.0,No,Stepaside,Dublin 18,q2,50%
+28/05/2012,"Gleanndun, Kilgobbin Lane, Stepaside",Dublin,834000.0,No,Stepaside,Dublin 18,q4,100%
+01/06/2012,"Apartment 38 Vale, Stepaside, Dublin 18",Dublin,150000.0,No,Stepaside,Dublin 18,q1,10%
+08/06/2012,"76 Belarmine Plaza, Stepaside",Dublin,175000.0,Yes,Stepaside,Dublin 18,q1,10%
+29/06/2012,"8 Belarmine Heath, Stepaside, Dublin 18",Dublin,267000.0,No,Stepaside,Dublin 18,q1,30%
+18/07/2012,"86 Belarmine Plaza, Newtownlittle, Stepaside",Dublin,167400.88,Yes,Stepaside,Dublin 18,q1,10%
+23/07/2012,"Apartment 37, The Cedars, Stepaside",Dublin,310000.0,No,Stepaside,Dublin 18,q2,40%
+30/07/2012,"95 Belarmine Plaza, Stepaside",Dublin,96916.3,Yes,Stepaside,Dublin 18,q1,10%
+31/07/2012,"1 Stepaside Park, Stepaside, Co. Dublin",Dublin,492500.0,No,Stepaside,Dublin 18,q4,90%
+31/07/2012,"18 Cruagh Close, Cruagh Manor, Stepaside",Dublin,272000.0,No,Stepaside,Dublin 18,q2,30%
+23/08/2012,"Apt. 24 Belarmine Hall, Newtownlittle, Stepaside",Dublin,156828.0,Yes,Stepaside,Dublin 18,q1,10%
+24/08/2012,"27 Belarmine Vale, Stepaside, Co. Dublin",Dublin,225000.0,No,Stepaside,Dublin 18,q1,20%
+27/08/2012,"25, Cairnfort, Stepaside",Dublin,540000.0,No,Stepaside,Dublin 18,q4,90%
+28/08/2012,"40 The Ash, Stepaside, Parkview",Dublin,187000.0,No,Stepaside,Dublin 18,q1,10%
+12/09/2012,"82 Belarmine Plaza, Newtownlittle, Stepaside",Dublin,162995.0,Yes,Stepaside,Dublin 18,q1,10%
+18/09/2012,"18 Belarmine Close, Stepaside, Co. Dublin",Dublin,300000.0,No,Stepaside,Dublin 18,q2,40%
+20/09/2012,"25 Belarmine Place, Stepaside",Dublin,208000.0,No,Stepaside,Dublin 18,q1,20%
+03/10/2012,"1 Cairnsfort, Enniskerry Road, Stepaside",Dublin,775000.0,No,Stepaside,Dublin 18,q4,100%
+05/10/2012,"2 Belarmine Place, Newtownlittle, Stepaside",Dublin,283500.0,No,Stepaside,Dublin 18,q2,30%
+11/10/2012,"74 Stepaside Park, Stepaside",Dublin,532000.0,No,Stepaside,Dublin 18,q4,90%
+16/10/2012,"3 Belarmine Vale, Stepaside",Dublin,274200.0,No,Stepaside,Dublin 18,q2,30%
+16/10/2012,"80 Stepaside Park, Stepaside",Dublin,490000.0,No,Stepaside,Dublin 18,q4,90%
+22/10/2012,"92 Belarmine Plaza, Newtownlittle, Stepaside",Dublin,167400.88,Yes,Stepaside,Dublin 18,q1,10%
+07/11/2012,"20 Cairnsfort, Stepaside",Dublin,535000.0,No,Stepaside,Dublin 18,q4,90%
+09/11/2012,"32 The Rectory, Stepaside",Dublin,155000.0,No,Stepaside,Dublin 18,q1,10%
+23/11/2012,"Apartment 16 The Rectory, Stepaside, Co Dublin",Dublin,195000.0,No,Stepaside,Dublin 18,q1,20%
+29/11/2012,"37 The Rectory, Stepaside",Dublin,147000.0,No,Stepaside,Dublin 18,q1,10%
+07/12/2012,"Apt 45 Littlewood, Stepaside",Dublin,174000.0,No,Stepaside,Dublin 18,q1,10%
+10/12/2012,"Apt. 4 The Larch, Cruagh Wood, Stepaside",Dublin,135000.0,No,Stepaside,Dublin 18,q1,10%
+14/12/2012,"Sark, 16 Belarmine Park, Stepaside",Dublin,650000.0,No,Stepaside,Dublin 18,q4,100%
+18/12/2012,"Apartment 39  The Cedar, Parkview, Stepaside",Dublin,215000.0,No,Stepaside,Dublin 18,q1,20%
+19/12/2012,"19 Belarmine Hall, Stepaside",Dublin,114500.0,No,Stepaside,Dublin 18,q1,10%
+20/12/2012,"34 The Elm, Parkview  Enniskerry Road, Stepaside",Dublin,190000.0,Yes,Stepaside,Dublin 18,q1,20%
+10/01/2013,"Apt 24 The Willow, Parkview, Stepaside",Dublin,167400.0,Yes,Stepaside,Dublin 18,q1,10%
+18/01/2013,"Apartment 11 Wingfield, Enniskerry Road, Stepaside",Dublin,195000.0,No,Stepaside,Dublin 18,q1,20%
+06/02/2013,"21 Cruagh Court, Stepaside",Dublin,130000.0,No,Stepaside,Dublin 18,q1,10%
+28/02/2013,"Siofra, Burrow Road, Stepaside",Dublin,730000.0,No,Stepaside,Dublin 18,q4,100%
+17/04/2013,"2 Belarmine Square, Stepaside",Dublin,250000.0,No,Stepaside,Dublin 18,q1,30%
+29/04/2013,"63 Enniskerry Road, Stepaside",Dublin,225000.0,No,Stepaside,Dublin 18,q1,20%
+01/05/2013,"24 Littlewood, Belarmine Avenue, Stepaside",Dublin,220000.0,No,Stepaside,Dublin 18,q1,20%
+21/05/2013,"39 The Rectory, Enniskerry Road, Stepaside",Dublin,185000.0,No,Stepaside,Dublin 18,q1,10%
+23/05/2013,"29 Belarmine Place, Stepaside",Dublin,332000.0,No,Stepaside,Dublin 18,q2,50%
+10/06/2013,"5 The Courtyard, Stepaside Park, Stepaside",Dublin,341720.0,No,Stepaside,Dublin 18,q2,50%
+29/07/2013,"29 Belarmine Vale, Newtownlittle, Stepaside",Dublin,294000.0,No,Stepaside,Dublin 18,q2,40%
+07/08/2013,"30 Wingfileld, Enniskerry Road, Stepaside",Dublin,212000.0,No,Stepaside,Dublin 18,q1,20%
+14/08/2013,"11 Heather Court, Stepaside Park, Stepaside",Dublin,187000.0,No,Stepaside,Dublin 18,q1,10%
+30/08/2013,"20 Belarmine Court, Stepaside",Dublin,285000.0,No,Stepaside,Dublin 18,q2,30%
+16/09/2013,"31 Belarmine Hall, Stepaside",Dublin,123000.0,No,Stepaside,Dublin 18,q1,10%
+20/09/2013,"1 Stepaside Villas, Stepaside",Dublin,335000.0,No,Stepaside,Dublin 18,q2,50%
+26/09/2013,"28 Belarmine Place, Stepaside",Dublin,165000.0,No,Stepaside,Dublin 18,q1,10%
+01/10/2013,"26 The Village, Stepaside, Dublin 18",Dublin,127753.0,Yes,Stepaside,Dublin 18,q1,10%
+03/10/2013,"25 The Village, Stepaside",Dublin,110132.16,Yes,Stepaside,Dublin 18,q1,10%
+04/10/2013,"Apartment 46, Belarmine Place, Stepaside",Dublin,297000.0,No,Stepaside,Dublin 18,q2,40%
+10/10/2013,"22 The Village, Stepaside, Dublin 18",Dublin,141000.0,No,Stepaside,Dublin 18,q1,10%
+17/10/2013,"Apt 9 The Village, Stepaside, Co Dublin",Dublin,150000.0,Yes,Stepaside,Dublin 18,q1,10%
+18/10/2013,"17 Cruagh Rise, Cruagh Manor, Stepaside",Dublin,295000.0,No,Stepaside,Dublin 18,q2,40%
+18/10/2013,"18 St Patricks Park, Stepaside, Dublin 18",Dublin,202000.0,No,Stepaside,Dublin 18,q1,20%
+23/10/2013,"11 Glen Court, Stepaside",Dublin,195000.0,No,Stepaside,Dublin 18,q1,20%
+31/10/2013,"59 Wingfield, Stepaside",Dublin,185000.0,No,Stepaside,Dublin 18,q1,10%
+01/11/2013,"11 Cruagh Court, Stepaside",Dublin,247500.0,No,Stepaside,Dublin 18,q1,20%
+12/11/2013,"14 The Village, Stepaside",Dublin,152000.0,Yes,Stepaside,Dublin 18,q1,10%
+15/11/2013,"30 Heather Court, Stepaside Park, Stepaside Dublin 18",Dublin,180000.0,No,Stepaside,Dublin 18,q1,10%
+22/11/2013,"Apartment 34, The Village, Stepaside",Dublin,150660.79,Yes,Stepaside,Dublin 18,q1,10%
+25/11/2013,"79 Wingfield, Enniskerry Rd, Stepaside Dublin 18",Dublin,360000.0,No,Stepaside,Dublin 18,q3,60%
+27/11/2013,"21 The Village, Stepaside, Dublin 18",Dublin,128634.0,Yes,Stepaside,Dublin 18,q1,10%
+28/11/2013,"28 The Village, Stepaside, Dublin 18",Dublin,110132.0,Yes,Stepaside,Dublin 18,q1,10%
+28/11/2013,"8 Fern Court, Stepaside Park, Stepaside Dublin 18",Dublin,215500.0,No,Stepaside,Dublin 18,q1,20%
+28/11/2013,"Apt 25 Stepaside Village, Stepaside, Enniskerry Road",Dublin,129515.0,Yes,Stepaside,Dublin 18,q1,10%
+29/11/2013,"7 Belarmine Crescent, Stepaside, Dublin 18",Dublin,293000.0,No,Stepaside,Dublin 18,q2,40%
+29/11/2013,"Apartment 19, Mountainview House, Stepaside",Dublin,125110.0,Yes,Stepaside,Dublin 18,q1,10%
+03/12/2013,"Apt 17 The Village, Stepaside",Dublin,127753.0,Yes,Stepaside,Dublin 18,q1,10%
+04/12/2013,"4 Loftus Lane, Belmont, Aikens Village Stepaside",Dublin,237886.0,Yes,Stepaside,Dublin 18,q1,20%
+05/12/2013,"3 Loftus Lane  Belmont, Aiken'S Village, Stepaside",Dublin,233480.17,Yes,Stepaside,Dublin 18,q1,20%
+05/12/2013,"6 Loftus Lane, Belmont, Stepaside",Dublin,289775.0,Yes,Stepaside,Dublin 18,q2,30%
+05/12/2013,"77 Wingfield, Enniskerry Rd, Stepaside Dublin 18",Dublin,420000.0,No,Stepaside,Dublin 18,q3,70%
+05/12/2013,"Kilgobbin Lane, Stepaside, Dublin 18",Dublin,810000.0,No,Stepaside,Dublin 18,q4,100%
+06/12/2013,"2 Loftus Lane, Belmont, Stepaside",Dublin,233480.0,Yes,Stepaside,Dublin 18,q1,20%
+09/12/2013,"10  Loftus Close, Belmont  Aiken'S Village, Stepaside",Dublin,334802.0,Yes,Stepaside,Dublin 18,q2,50%
+09/12/2013,"8 Loftus Lane, Belmont, Aikens Village Stepaside",Dublin,272358.0,Yes,Stepaside,Dublin 18,q2,30%
+09/12/2013,"Apartment 5  The Village, Stepaside, Dublin 18",Dublin,140969.16,Yes,Stepaside,Dublin 18,q1,10%
+12/12/2013,"1 Loftus Close, Belmont, Aikens Village  Stepaside",Dublin,299559.47,Yes,Stepaside,Dublin 18,q2,40%
+13/12/2013,"6 Loftus Close, Belmont, Aikens Village  Stepaside",Dublin,348018.0,Yes,Stepaside,Dublin 18,q2,50%
+13/12/2013,"Apartment 16, The Village, Stepaside",Dublin,127753.0,No,Stepaside,Dublin 18,q1,10%
+13/12/2013,"Apartment 6, The Village, Stepaside",Dublin,155000.0,No,Stepaside,Dublin 18,q1,10%
+17/12/2013,"20 The Ash, Parkview, Stepaside",Dublin,127500.0,No,Stepaside,Dublin 18,q1,10%
+19/12/2013,"13 Loftus Lane, Belmont  Aikens Village, Stepaside  Dublin",Dublin,325991.19,Yes,Stepaside,Dublin 18,q2,50%
+08/01/2014,"Apartment 32 Belarmine Hall, Belarmine Avenue, Stepaside",Dublin,185000.0,No,Stepaside,Dublin 18,q1,10%
+09/01/2014,"9 Loftus Close, Belmont, Stepaside",Dublin,334802.0,Yes,Stepaside,Dublin 18,q2,50%
+17/01/2014,"10 Loftus Lane, Belmont, Atkins Village  Stepaside",Dublin,303964.75,Yes,Stepaside,Dublin 18,q2,40%
+21/01/2014,"15 The Village, Stepaside, Co Dublin",Dublin,147000.0,Yes,Stepaside,Dublin 18,q1,10%
+28/01/2014,"4 Loftus Close   Belmont, Aitkens Village, Stepaside",Dublin,325991.0,Yes,Stepaside,Dublin 18,q2,50%
+31/01/2014,"Stepaside House, Stepaside",Dublin,1525000.0,No,Stepaside,Dublin 18,q4,100%
+04/02/2014,"37 Stepaside Park, Stepaside, Dublin",Dublin,605000.0,No,Stepaside,Dublin 18,q4,90%
+18/02/2014,"Twayblade, Ballyedmonduff Road, Stepaside",Dublin,280000.0,No,Stepaside,Dublin 18,q2,30%
+19/02/2014,"12 Loftus Lane, Belkmont, Aiken'S Village  Stepaside",Dublin,323008.0,Yes,Stepaside,Dublin 18,q2,50%
+20/02/2014,"3 Loftus Close, Belmont Aitkens Village, Stepaside",Dublin,325991.0,Yes,Stepaside,Dublin 18,q2,50%
+20/02/2014,"No. 9 Loftus Lane  Belmont, Aikens Village, Stepaside",Dublin,299599.47,Yes,Stepaside,Dublin 18,q2,40%
+26/02/2014,"148 The Rectory, Stepaside, Dublin 18",Dublin,365000.0,No,Stepaside,Dublin 18,q3,60%
+26/02/2014,"15 Belarmine Place Newtown Little, Stepaside, Dublin",Dublin,315000.0,No,Stepaside,Dublin 18,q2,40%
+27/02/2014,"Apartment 12, Mountainview House, Stepaside",Dublin,160000.0,No,Stepaside,Dublin 18,q1,10%
+04/03/2014,"Apt 47, Heather Court, Stepaside Park Dublin 18",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+06/03/2014,"15 Littlewood, Belarmine Ave, Stepaside",Dublin,212500.0,No,Stepaside,Dublin 18,q1,20%
+14/03/2014,"1 Belmont Drive, Belmont  Aitkens Village, Stepaside",Dublin,317180.0,Yes,Stepaside,Dublin 18,q2,40%
+18/03/2014,"6 Belarmine Park, Stepaside",Dublin,654342.0,No,Stepaside,Dublin 18,q4,100%
+20/03/2014,"29 Belarmine Close, Enniskerry Road, Stepaside",Dublin,426000.0,No,Stepaside,Dublin 18,q3,80%
+21/03/2014,"13 Belarmine Park, Belarmine, Stepaside",Dublin,615000.0,No,Stepaside,Dublin 18,q4,90%
+21/03/2014,"3 Belmont Drive, Aikens Village, Stepaside",Dublin,312775.33,Yes,Stepaside,Dublin 18,q2,40%
+25/03/2014,"1 Loftus Lane, Aikens Village, Stepaside",Dublin,265000.0,Yes,Stepaside,Dublin 18,q1,30%
+26/03/2014,"7 Loftus Close, Belmont, Aiken'S Village  Stepaside",Dublin,375000.0,Yes,Stepaside,Dublin 18,q3,70%
+28/03/2014,"11 The Village, Stepaside",Dublin,127753.3,Yes,Stepaside,Dublin 18,q1,10%
+28/03/2014,"Apt 8 Mountainview House, Stepaside, Co Dublin",Dublin,205000.0,No,Stepaside,Dublin 18,q1,20%
+01/04/2014,"4 Belmont Drive, Belmont  Aikens Village, Stepaside",Dublin,312775.33,Yes,Stepaside,Dublin 18,q2,40%
+04/04/2014,"6 Fernhill Road, Aikens Village, Stepaside",Dublin,299599.47,Yes,Stepaside,Dublin 18,q2,40%
+07/04/2014,"4 Cruagh Ave, Stepaside, Dublin",Dublin,312000.0,No,Stepaside,Dublin 18,q2,40%
+11/04/2014,"8 Fernhill Road, Belmont  Aiken Village, Stepaside",Dublin,374449.39,Yes,Stepaside,Dublin 18,q3,60%
+17/04/2014,"4  Fernhill Road, Belmont  Aikens Village, Stepaside",Dublin,312775.33,Yes,Stepaside,Dublin 18,q2,40%
+28/04/2014,"Apartment 24, Mountainview House, Stepaside",Dublin,160000.0,No,Stepaside,Dublin 18,q1,10%
+02/05/2014,"5 Fernhill Road, Belmont  Aikens Village, Stepaside",Dublin,299559.0,Yes,Stepaside,Dublin 18,q2,40%
+07/05/2014,"6 Verner Lane, Aikens Village, Stepaside",Dublin,378854.62,Yes,Stepaside,Dublin 18,q3,70%
+09/05/2014,"3 Fernhill Road, Stepaside, Dublin 18",Dublin,312775.0,Yes,Stepaside,Dublin 18,q2,40%
+09/05/2014,"8 Stepaside Park, Stepaside, Dublin 18",Dublin,670000.0,No,Stepaside,Dublin 18,q4,100%
+12/05/2014,"160 The Rectory, Stepaside, Dublin",Dublin,490000.0,No,Stepaside,Dublin 18,q4,90%
+12/05/2014,"9 Fernhill Road, Belmont  Aikens Village, Stepaside",Dublin,295154.18,Yes,Stepaside,Dublin 18,q2,40%
+14/05/2014,"7 Fernhill Road, Belmont  Aikens Village, Stepaside",Dublin,387666.0,Yes,Stepaside,Dublin 18,q3,70%
+15/05/2014,"3 Verner Lane, Belmont  Aikens Village, Stepaside",Dublin,312775.33,Yes,Stepaside,Dublin 18,q2,40%
+15/05/2014,"5 Verner Lane, Aikens Village, Stepaside",Dublin,355000.0,Yes,Stepaside,Dublin 18,q3,60%
+16/05/2014,"60 Stepaside Park, Stepaside, Dublin 18",Dublin,615000.0,No,Stepaside,Dublin 18,q4,90%
+16/05/2014,"8 Belmont Drive, Aikens Village, Stepaside",Dublin,348017.62,Yes,Stepaside,Dublin 18,q2,50%
+19/05/2014,"31The Village, Stepaside, Dublin",Dublin,160000.0,No,Stepaside,Dublin 18,q1,10%
+20/05/2014,"2  Verner Lane, Aikens Village  Belmont, Stepaside",Dublin,378855.0,Yes,Stepaside,Dublin 18,q3,70%
+21/05/2014,"Harvieston, Ballyedmonduff Road, Stepaside",Dublin,657000.0,No,Stepaside,Dublin 18,q4,100%
+22/05/2014,"10 Belmont Drive, Aikens Village, Stepaside",Dublin,400881.0,Yes,Stepaside,Dublin 18,q3,70%
+23/05/2014,"7 Belmont Drive, Aikens Village, Stepaside",Dublin,348018.0,Yes,Stepaside,Dublin 18,q2,50%
+23/05/2014,"9  Belmont Drive  Belmont, Aikens Village  Stepaside, County Dublin",Dublin,348017.62,Yes,Stepaside,Dublin 18,q2,50%
+28/05/2014,"Apartment 20, The Village, Stepaside",Dublin,160000.0,No,Stepaside,Dublin 18,q1,10%
+05/06/2014,"2 Kilgobbin Lawn, Stepaside, Dublin 18",Dublin,741000.0,No,Stepaside,Dublin 18,q4,100%
+06/06/2014,"126 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,235000.0,No,Stepaside,Dublin 18,q1,20%
+11/06/2014,"106 Grianan Fidh, Aikens Village, Stepaside Dublin 18",Dublin,370000.0,No,Stepaside,Dublin 18,q3,60%
+11/06/2014,"Apartment 4, The Village, Stepaside",Dublin,120000.0,No,Stepaside,Dublin 18,q1,10%
+11/06/2014,"No. 7 Verner Lane, Aikens Village, Stepaside",Dublin,315725.0,Yes,Stepaside,Dublin 18,q2,40%
+23/06/2014,"58 The Belfry, Belarmine Copse, Stepaside",Dublin,250000.0,No,Stepaside,Dublin 18,q1,30%
+01/07/2014,"4 Verner Lane, Belmont, Aiken'S Vollage  Stepaside",Dublin,365000.0,Yes,Stepaside,Dublin 18,q3,60%
+04/07/2014,"16 Belermine Hall, Stepaside, Dublin 18",Dublin,186500.0,No,Stepaside,Dublin 18,q1,10%
+04/07/2014,"24 Grianan Fidh, Aikens Village, Stepaside Dublin 18",Dublin,455000.0,No,Stepaside,Dublin 18,q4,80%
+25/07/2014,"20 The Oak, Park View, Stepaside Dublin 18",Dublin,132500.0,No,Stepaside,Dublin 18,q1,10%
+29/07/2014,"11 Belarmine Court, Enniskerry Rd, Stepaside",Dublin,295000.0,No,Stepaside,Dublin 18,q2,40%
+29/07/2014,"Apartment 1C, Belarmine Drive, Stepaside",Dublin,167000.0,No,Stepaside,Dublin 18,q1,10%
+31/07/2014,"11 Loftus Lane, Belmont, Stepaside",Dublin,339207.0,Yes,Stepaside,Dublin 18,q2,50%
+06/08/2014,"71 St. Patrick'S Park, Stepaside, Co. Dublin",Dublin,335000.0,No,Stepaside,Dublin 18,q2,50%
+07/08/2014,"10 Fernhill Road, Belmont   Aikens Village, Stepaside",Dublin,308370.0,Yes,Stepaside,Dublin 18,q2,40%
+15/08/2014,"141 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,266000.0,No,Stepaside,Dublin 18,q1,30%
+28/08/2014,"75 Stepaside Park, Stepaside, Dublin 18",Dublin,659000.0,No,Stepaside,Dublin 18,q4,100%
+29/08/2014,"21 Belarmine Place, Stepaside, Dublin 18",Dublin,435000.0,No,Stepaside,Dublin 18,q3,80%
+01/09/2014,"10 Blackglen Heath, Belmont, Aikens Village  Stepaside",Dublin,312775.33,Yes,Stepaside,Dublin 18,q2,40%
+01/09/2014,"8 Blackglen Heath, Aikens Village, Stepaside",Dublin,274796.0,Yes,Stepaside,Dublin 18,q2,30%
+02/09/2014,"13 Belmont Drive, Aikens Village, Stepaside",Dublin,350660.0,Yes,Stepaside,Dublin 18,q3,60%
+03/09/2014,"31 Belarmine Sq, Stepaside, Dublin 18",Dublin,375000.0,No,Stepaside,Dublin 18,q3,70%
+03/09/2014,"No 11 Belmont Drive, Belmont, Aikens Village  Stepaside",Dublin,400882.0,Yes,Stepaside,Dublin 18,q3,70%
+04/09/2014,"Apartment 90, Belarmine Plaza, Stepaside",Dublin,243500.0,No,Stepaside,Dublin 18,q1,20%
+05/09/2014,"16 Littlewood, Belarmine, Stepaside Dublin 18",Dublin,262000.0,No,Stepaside,Dublin 18,q1,30%
+09/09/2014,"No. 13 Blackglen Heath, Aikens Village, Stepaside",Dublin,325991.0,Yes,Stepaside,Dublin 18,q2,50%
+10/09/2014,"6 Blackglen Heath, Belmont  Aiken'S Village, Stepaside",Dublin,303964.0,Yes,Stepaside,Dublin 18,q2,40%
+15/09/2014,"5 Blackglen Heath, Aikens Village, Stepaside",Dublin,303695.0,Yes,Stepaside,Dublin 18,q2,40%
+16/09/2014,"11 Blackglen Heath, Belmont, Aikens Village  Stepaside",Dublin,308370.0,Yes,Stepaside,Dublin 18,q2,40%
+18/09/2014,"4 Blackheath Glen, Belmont, Stepaside",Dublin,378855.0,Yes,Stepaside,Dublin 18,q3,70%
+22/09/2014,"19 Kilgobbin Heights, Stepaside, Dublin 18",Dublin,780012.0,No,Stepaside,Dublin 18,q4,100%
+23/09/2014,"9 Blackglen Heath, Belmont Aikens Village, Stepaside",Dublin,312775.0,Yes,Stepaside,Dublin 18,q2,40%
+25/09/2014,"7 Blackglen Heath, Stepaside",Dublin,345000.0,Yes,Stepaside,Dublin 18,q2,50%
+26/09/2014,"1 Blackglen Heath, Belmont  Aikens Village, Stepaside",Dublin,317181.0,Yes,Stepaside,Dublin 18,q2,40%
+26/09/2014,"150 The Rectory, Enniskerry Rd, Stepaside",Dublin,417000.0,No,Stepaside,Dublin 18,q3,70%
+30/09/2014,"76 Stepaside Park, Stepaside",Dublin,660000.0,No,Stepaside,Dublin 18,q4,100%
+07/10/2014,"3 Blackglen Heath, Aikens Village, Stepaside",Dublin,380600.0,Yes,Stepaside,Dublin 18,q3,70%
+07/10/2014,"33B Wingfield, Enniskerry Road, Stepaside",Dublin,277000.0,No,Stepaside,Dublin 18,q2,30%
+07/10/2014,"73 St Patrick'S Park, Stepaside, Co Dublin",Dublin,257000.0,No,Stepaside,Dublin 18,q1,30%
+13/10/2014,"12 Belmont Drive, Aikens Village, Stepaside",Dublin,350660.79,Yes,Stepaside,Dublin 18,q3,60%
+13/10/2014,"54 The Rectory, Stepaside, Dublin 18",Dublin,256000.0,No,Stepaside,Dublin 18,q1,30%
+22/10/2014,"14 Bellmont Drive, Aikens Village, Stepaside",Dublin,398000.0,Yes,Stepaside,Dublin 18,q3,70%
+31/10/2014,"6 Belarmine Place, Belarmine, Stepaside Dublin 18",Dublin,395000.0,No,Stepaside,Dublin 18,q3,70%
+03/11/2014,"11 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,365000.0,No,Stepaside,Dublin 18,q3,60%
+04/11/2014,"2 Blackglen Heath, Aikens Village, Stepaside",Dublin,306607.93,Yes,Stepaside,Dublin 18,q2,40%
+07/11/2014,"61 The Rectory, Stepaside, Dublin 18",Dublin,240500.0,No,Stepaside,Dublin 18,q1,20%
+07/11/2014,"Apartment 54  Block C, Wingfield, Stepaside  Dublin 18",Dublin,318500.0,No,Stepaside,Dublin 18,q2,40%
+14/11/2014,"131 The Rectory, Stepaside, Dublin",Dublin,252000.0,No,Stepaside,Dublin 18,q1,30%
+21/11/2014,"43 Littlewood, Belarmine, Stepaside",Dublin,251000.0,No,Stepaside,Dublin 18,q1,30%
+24/11/2014,"Apt. 6 The Maple, Cruagh Wood, Stepaside",Dublin,185000.0,No,Stepaside,Dublin 18,q1,10%
+26/11/2014,"1 The Elm, Parkview, Stepaside Dublin 18",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+27/11/2014,"1 Alderman Road, Belmont  Aikens Village, Stepaside  Co Dublin",Dublin,306607.0,Yes,Stepaside,Dublin 18,q2,40%
+27/11/2014,"123 Stepaside Park, Stepaside, Dublin 18",Dublin,659000.0,No,Stepaside,Dublin 18,q4,100%
+27/11/2014,"9 Alderman Road, Aitkens Village, Stepaside",Dublin,315418.0,Yes,Stepaside,Dublin 18,q2,40%
+28/11/2014,"10 Alderman Road, Aiken'S Village, Stepaside",Dublin,312775.0,Yes,Stepaside,Dublin 18,q2,40%
+28/11/2014,"Apt 6 Block 1, The Belfry, Stepaside Dublin 18",Dublin,235000.0,No,Stepaside,Dublin 18,q1,20%
+04/12/2014,"16 Belmont Drive, Aiken'S Village, Stepaside",Dublin,353778.0,Yes,Stepaside,Dublin 18,q3,60%
+04/12/2014,"2 Alderman Road, Aikens Village, Stepaside",Dublin,306607.92,Yes,Stepaside,Dublin 18,q2,40%
+09/12/2014,"15 Belarmine Close, Stepaside, Dublin 18",Dublin,450000.0,No,Stepaside,Dublin 18,q4,80%
+10/12/2014,"153 Stepaside Park, Stepaside, Dublin 18",Dublin,590000.0,No,Stepaside,Dublin 18,q4,90%
+10/12/2014,"Sans Souci, Kilgobbin Road, Stepaside",Dublin,650000.0,No,Stepaside,Dublin 18,q4,100%
+11/12/2014,"53 The Ash, Parkview, Stepaside",Dublin,305000.0,No,Stepaside,Dublin 18,q2,40%
+11/12/2014,"8 Alderman Road, Aikens Village, Stepaside",Dublin,315418.5,Yes,Stepaside,Dublin 18,q2,40%
+12/12/2014,"18 Belmont Drive, Aikens Village, Stepaside",Dublin,350660.79,Yes,Stepaside,Dublin 18,q3,60%
+15/12/2014,"27 The Cedar, Curragh Wood, Stepaside",Dublin,210500.0,No,Stepaside,Dublin 18,q1,20%
+16/12/2014,"161 Stepaside Park, Stepaside, Dublin 18",Dublin,650000.0,No,Stepaside,Dublin 18,q4,100%
+18/12/2014,"12 Cruagh Close, Stepaside, Dublin 18",Dublin,283000.0,No,Stepaside,Dublin 18,q2,30%
+18/12/2014,"17 Belmont Drive, Belmont Estate, Stepaside",Dublin,350660.79,Yes,Stepaside,Dublin 18,q3,60%
+18/12/2014,"3 Alderman Road, Aikens Village, Stepaside",Dublin,306608.0,Yes,Stepaside,Dublin 18,q2,40%
+18/12/2014,"6 Alderman Road, Belmont, Stepaside",Dublin,387665.19,Yes,Stepaside,Dublin 18,q3,70%
+18/12/2014,"7 Alderman Road, Aikens Village, Stepaside",Dublin,392070.0,Yes,Stepaside,Dublin 18,q3,70%
+22/12/2014,"34 Stepaside Park, Stepaside, Dublin 18",Dublin,640000.0,No,Stepaside,Dublin 18,q4,100%
+22/12/2014,"42 Belarmine Hall, Stepaside, Dublin 18",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+23/12/2014,"11 Alderman Road, Aiken'S Village, Stepaside",Dublin,312775.33,Yes,Stepaside,Dublin 18,q2,40%
+16/01/2015,"14 Belarmine Court, Newtownlittle, Stepaside Dublin 18",Dublin,240000.0,No,Stepaside,Dublin 18,q1,20%
+16/01/2015,"4 Belarmine Crescent, Stepaside, Dublin 18",Dublin,230000.0,No,Stepaside,Dublin 18,q1,20%
+19/01/2015,"94 Belarmine Place, Stepaside, Dublin 18",Dublin,227000.0,No,Stepaside,Dublin 18,q1,20%
+20/01/2015,"7 Cairnfort, Enniskerry Rd, Stepaside Dublin 18",Dublin,672500.0,No,Stepaside,Dublin 18,q4,100%
+22/01/2015,"16 Belarmine Dr, Stepaside, Dublin 18",Dublin,416000.0,No,Stepaside,Dublin 18,q3,70%
+30/01/2015,"15 Belmont Drive, Aikens Village, Stepaside",Dublin,398000.0,Yes,Stepaside,Dublin 18,q3,70%
+02/02/2015,"126 Castlecourt, Kilgobbin Woods, Stepaside",Dublin,267000.0,No,Stepaside,Dublin 18,q1,30%
+12/02/2015,"8 Kilgobbin Heights, Stepaside, Dublin 18",Dublin,850000.0,No,Stepaside,Dublin 18,q4,100%
+17/02/2015,"14 Blackglen Heath, Belmont  Aikens Village, Stepaside",Dublin,368000.0,Yes,Stepaside,Dublin 18,q3,60%
+17/02/2015,"23 Cruagh Court, Stepaside, Co. Dublin",Dublin,215000.0,No,Stepaside,Dublin 18,q1,20%
+26/02/2015,"6 Belarmine Vale, Stepaside, Dublin 18",Dublin,230000.0,No,Stepaside,Dublin 18,q1,20%
+27/02/2015,"147 The Rectory, Stepaside, Dublin",Dublin,257000.0,No,Stepaside,Dublin 18,q1,30%
+12/03/2015,"49 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,240000.0,No,Stepaside,Dublin 18,q1,20%
+13/03/2015,"54 The Oak, Park View, Stepaside",Dublin,210000.0,No,Stepaside,Dublin 18,q1,20%
+20/03/2015,"127 The Rectory, Stepaside, Dublin",Dublin,240000.0,No,Stepaside,Dublin 18,q1,20%
+23/03/2015,"2 Cotter Close  Belmont, Aikens Village, Stepaside",Dublin,325991.0,Yes,Stepaside,Dublin 18,q2,50%
+24/03/2015,"42 Belarmine, Place, Stepaside Dublin 18",Dublin,362000.0,No,Stepaside,Dublin 18,q3,60%
+25/03/2015,"8 Cotter Close, Belmont  Aikens Village, Stepaside",Dublin,317000.0,Yes,Stepaside,Dublin 18,q2,40%
+27/03/2015,"6 Cotter Close, Belmont  Aiken'S Village, Stepaside",Dublin,317180.62,Yes,Stepaside,Dublin 18,q2,40%
+02/04/2015,"4 Cotter Close, Belmont, Stepaside",Dublin,390000.0,Yes,Stepaside,Dublin 18,q3,70%
+06/04/2015,"21 Belmont Drive, Belmont  Aikens Village, Stepaside",Dublin,330396.47,Yes,Stepaside,Dublin 18,q2,50%
+15/04/2015,"23 Wingfield, Stepaside, Dublin 18",Dublin,310000.0,No,Stepaside,Dublin 18,q2,40%
+21/04/2015,"22 Belmont Drive  Belmont, Aiken'S Village  Stepaside",Dublin,325991.0,Yes,Stepaside,Dublin 18,q2,50%
+24/04/2015,"34 The Belfry, Enniskerry Road, Stepaside",Dublin,136000.0,No,Stepaside,Dublin 18,q1,10%
+28/04/2015,"128 The Rectory, Enniskerry Rd, Stepaside",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+29/04/2015,"19  Belmont Drive, Aiken'S Village, Stepaside",Dublin,400881.0,Yes,Stepaside,Dublin 18,q3,70%
+29/04/2015,"34 Heather Court, Stepaside Park, Stepaside",Dublin,259950.0,No,Stepaside,Dublin 18,q1,30%
+30/04/2015,"63 Belarmine Plaza, Enniskerry Road, Stepaside",Dublin,165000.0,No,Stepaside,Dublin 18,q1,10%
+01/05/2015,"3 Cotter Close, Belmont, Stepaside",Dublin,325991.2,Yes,Stepaside,Dublin 18,q2,50%
+05/05/2015,"7 Cotter Close, Belmont, Stepaside",Dublin,321585.9,Yes,Stepaside,Dublin 18,q2,50%
+20/05/2015,"Hillside Lodge, Enniskerry Rd, Stepaside Dublin 18",Dublin,840000.0,No,Stepaside,Dublin 18,q4,100%
+20/05/2015,"No. 5 Alderman Road, Belmont  Aiken'S Village, Stepaside",Dublin,405286.0,Yes,Stepaside,Dublin 18,q3,70%
+21/05/2015,"78 Belarmine Plaza, Stepaside, Dublin 18",Dublin,245000.0,No,Stepaside,Dublin 18,q1,20%
+22/05/2015,"83 Wingfield, Stepaside, Dublin 18",Dublin,495000.0,No,Stepaside,Dublin 18,q4,90%
+28/05/2015,"102 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,225000.0,No,Stepaside,Dublin 18,q1,20%
+28/05/2015,"23 Belmont Drive, Aikens Village, Stepaside",Dublin,325991.0,Yes,Stepaside,Dublin 18,q2,50%
+28/05/2015,"24 Belmont Drive, Belmont Aikens Village, Stepaside",Dublin,330396.47,Yes,Stepaside,Dublin 18,q2,50%
+08/06/2015,"No. 1 Cotter Close, Belmont, Aiken'S Village  Stepaside",Dublin,330397.0,Yes,Stepaside,Dublin 18,q2,50%
+12/06/2015,"56 The Rectory, Stepaside, Dublin",Dublin,262000.0,No,Stepaside,Dublin 18,q1,30%
+18/06/2015,"3 Belarmine Park, Stepaside, Dublin 18",Dublin,822000.0,No,Stepaside,Dublin 18,q4,100%
+24/06/2015,"45 The Rectory, Enniskerry Road, Stepaside",Dublin,230000.0,No,Stepaside,Dublin 18,q1,20%
+26/06/2015,"2 Woodside Demense, Belmont  Aikens Village, Stepaside",Dublin,405286.34,Yes,Stepaside,Dublin 18,q3,70%
+03/07/2015,"28 Cuagh Ave, Cruagh Manor, Stepaside Dublin 18",Dublin,178000.0,No,Stepaside,Dublin 18,q1,10%
+03/07/2015,"7 St Patricks Park, Stepaside, Dublin 18",Dublin,345000.0,No,Stepaside,Dublin 18,q2,50%
+03/07/2015,"No 1 Woodside Demesne, Belmont, Aikens Village  Stepaside",Dublin,405287.0,Yes,Stepaside,Dublin 18,q3,70%
+09/07/2015,"2 The Beech, Cruagh Wood, Stepaside Dublin 18",Dublin,222500.0,No,Stepaside,Dublin 18,q1,20%
+24/07/2015,"10 Cruagh Rise, Cruagh Manor, Stepaside",Dublin,320000.0,No,Stepaside,Dublin 18,q2,40%
+24/07/2015,"165 The Rectory, Stepaside, Dublin 18",Dublin,525000.0,No,Stepaside,Dublin 18,q4,90%
+07/08/2015,"16 Cruagh Rise, Cruagh Manor, Stepaside Dublin 18",Dublin,300000.0,No,Stepaside,Dublin 18,q2,40%
+07/08/2015,"35 Belarmine Court, Newtownlittle, Stepaside Dublin 18",Dublin,490000.0,No,Stepaside,Dublin 18,q4,90%
+07/08/2015,"45 Kilgobbin Heights, Stepaside",Dublin,670000.0,No,Stepaside,Dublin 18,q4,100%
+13/08/2015,"20 Belarmine Square, Stepaside, Dublin 18",Dublin,227500.0,No,Stepaside,Dublin 18,q1,20%
+14/08/2015,"18 Glen Court, Stepaside Park, Stepaside Dublin 18",Dublin,350000.0,No,Stepaside,Dublin 18,q3,60%
+26/08/2015,"1B Belarmine Way, Stepaside, Dublin 18",Dublin,175500.0,No,Stepaside,Dublin 18,q1,10%
+26/08/2015,"7 Belarmine Way, Stepaside, Dublin 18",Dublin,428500.0,No,Stepaside,Dublin 18,q3,80%
+27/08/2015,"13 Belarmine Vale, Stepaside, Dublin 18",Dublin,375000.0,No,Stepaside,Dublin 18,q3,70%
+18/09/2015,"7 Loftus Lane, Belmont, Stepaside",Dublin,370100.0,Yes,Stepaside,Dublin 18,q3,60%
+24/09/2015,"43 Belarmine Hall, Stepaside, Dublin 18",Dublin,250000.0,No,Stepaside,Dublin 18,q1,30%
+29/09/2015,"7 The Cedar Parkview, Stepaside Dublin 18, Dublin",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+01/10/2015,"18 Belarmine Place, Stepaside, Dublin 18",Dublin,380000.0,No,Stepaside,Dublin 18,q3,70%
+13/10/2015,"151 The Rectory, Stepaside",Dublin,425000.0,No,Stepaside,Dublin 18,q3,80%
+19/10/2015,"58 The Rectory, Stepaside, Co Dublin",Dublin,240000.0,No,Stepaside,Dublin 18,q1,20%
+23/10/2015,"48 Wingfield, Stepaside, Dublin 18",Dublin,351000.0,No,Stepaside,Dublin 18,q3,60%
+28/10/2015,"6 Atkinson Drive, Aikens Village, Stepaside",Dublin,436123.0,Yes,Stepaside,Dublin 18,q3,80%
+29/10/2015,"23 Cruagh Ave, Cruagh Manor, Stepaside Dublin 18",Dublin,380000.0,No,Stepaside,Dublin 18,q3,70%
+29/10/2015,"3 The Sycamore, Park View, Stepaside Dublin 18",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+30/10/2015,"6 Cruagh Court, Stepaside, Dublin 18",Dublin,320000.0,No,Stepaside,Dublin 18,q2,40%
+03/11/2015,"8 Belarmine Grange, Stepaside, Dublin 18",Dublin,393650.0,No,Stepaside,Dublin 18,q3,70%
+04/11/2015,"86 Belarmine Place, Stepaside Dublin 18, Dublin",Dublin,225000.0,No,Stepaside,Dublin 18,q1,20%
+09/11/2015,"10 Atkinson Drive, Belmont, Stepaside",Dublin,439648.0,Yes,Stepaside,Dublin 18,q3,80%
+12/11/2015,"14 Loftus Lane, Belmont, Stepaside",Dublin,414000.0,Yes,Stepaside,Dublin 18,q3,70%
+04/12/2015,"Cooleen, Stepaside Hill, Stepaside",Dublin,820000.0,No,Stepaside,Dublin 18,q4,100%
+04/12/2015,"No. 13 Blackglen Heath, Aikens Village, Stepaside",Dublin,455000.0,No,Stepaside,Dublin 18,q4,80%
+07/12/2015,"11 Atkinson Drive  Belmont, Aiken'S Village, Stepaside",Dublin,439647.0,Yes,Stepaside,Dublin 18,q3,80%
+07/12/2015,"4 Atkinson Drive, Belmont, Aiken'S Village  Stepaside",Dublin,439522.01,Yes,Stepaside,Dublin 18,q3,80%
+08/12/2015,"17 Belarmine Court, Enniskerry Road, Stepaside",Dublin,450000.0,No,Stepaside,Dublin 18,q4,80%
+11/12/2015,"62 Belarmine Place, Stepaside, Dublin 18",Dublin,225000.0,No,Stepaside,Dublin 18,q1,20%
+14/12/2015,"27 The Cedar, Park View, Stepaside Dublin 18",Dublin,227500.0,No,Stepaside,Dublin 18,q1,20%
+18/12/2015,"4 Woodside Demense, Aikens Village, Stepaside",Dublin,325991.18,Yes,Stepaside,Dublin 18,q2,50%
+23/12/2015,"15 Cruagh Court, Cruagh Manor, Stepaside Dublin 18",Dublin,250000.0,No,Stepaside,Dublin 18,q1,30%
+23/12/2015,"5 Woodside Demesne, Belmont, Stepaside",Dublin,321585.9,Yes,Stepaside,Dublin 18,q2,50%
+07/01/2016,"4 Belarmine Walk, Stepaside, Dublin 18",Dublin,462555.06,Yes,Stepaside,Dublin 18,q4,80%
+08/01/2016,"12 Belarmine Walk, Stepaside, Dublin 18",Dublin,462555.0,Yes,Stepaside,Dublin 18,q4,80%
+11/01/2016,"37 Belarmine Court, Belarmine, Stepaside Dublin 18",Dublin,430000.0,No,Stepaside,Dublin 18,q3,80%
+14/01/2016,"10 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,462555.0,Yes,Stepaside,Dublin 18,q4,80%
+15/01/2016,"11 Stepaside Park, Stepaside, Dublin 18",Dublin,655000.0,No,Stepaside,Dublin 18,q4,100%
+15/01/2016,"18 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,454125.0,Yes,Stepaside,Dublin 18,q4,80%
+18/01/2016,"34 Belarmine Sq, Stepaside, Dublin 18",Dublin,428500.0,No,Stepaside,Dublin 18,q3,80%
+22/01/2016,"140 The Rectory, Stepaside, Dublin 18",Dublin,250000.0,No,Stepaside,Dublin 18,q1,30%
+22/01/2016,"24 Belarmine Way, Stepaside, Dublin 18",Dublin,480000.0,No,Stepaside,Dublin 18,q4,90%
+08/02/2016,"15 Atkinson Drive, Aikins Village, Stepaside",Dublin,352422.9,Yes,Stepaside,Dublin 18,q3,60%
+08/02/2016,"17 Atkinson Drive, Aiken'S Village, Stepaside",Dublin,436123.0,Yes,Stepaside,Dublin 18,q3,80%
+10/02/2016,"1 Darley Drive, Belmont  Aiken'S Village, Stepaside",Dublin,361233.0,Yes,Stepaside,Dublin 18,q3,60%
+12/02/2016,"Apartment 17 Littlewood, Belarmine Avenue, Stepaside",Dublin,256500.0,No,Stepaside,Dublin 18,q1,30%
+17/02/2016,"7 Woodside Demense, Aikens Village, Stepaside",Dublin,348017.0,Yes,Stepaside,Dublin 18,q2,50%
+19/02/2016,"54 The Elms, Parkview, Stepaside",Dublin,205000.0,No,Stepaside,Dublin 18,q1,20%
+22/02/2016,"8 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,462555.07,Yes,Stepaside,Dublin 18,q4,80%
+26/02/2016,"20 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,462555.0,Yes,Stepaside,Dublin 18,q4,80%
+02/03/2016,"2 Darley Drive, Aikens Village, Stepaside",Dublin,361234.0,Yes,Stepaside,Dublin 18,q3,60%
+02/03/2016,"5 Atkinson Drive, Atkins Village, Stepaside",Dublin,436123.0,Yes,Stepaside,Dublin 18,q3,80%
+03/03/2016,"29 Littlewood, Stepaside, Dublin",Dublin,272000.0,No,Stepaside,Dublin 18,q2,30%
+03/03/2016,"3 Woodside Demense, Aikens Village, Stepaside",Dublin,436123.0,Yes,Stepaside,Dublin 18,q3,80%
+04/03/2016,"3 Darley Drive, Aikens Village, Stepaside",Dublin,378854.0,Yes,Stepaside,Dublin 18,q3,70%
+07/03/2016,"3 Atkinson Drive, Aikens Village, Stepaside",Dublin,439647.0,Yes,Stepaside,Dublin 18,q3,80%
+10/03/2016,"18 Atkinson Drive, Belmont, Stepaside",Dublin,439647.57,Yes,Stepaside,Dublin 18,q3,80%
+10/03/2016,"43E Belarmine Vale, Stepaside, Dublin 18",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+11/03/2016,"6 Belarmine Walk, Stepaside, Dublin 18",Dublin,462500.0,Yes,Stepaside,Dublin 18,q4,80%
+14/03/2016,"145 The Rectory, Stepaside, Dublin 18",Dublin,228000.0,No,Stepaside,Dublin 18,q1,20%
+14/03/2016,"20 Belarmine Dr, Stepaside, Dublin 18",Dublin,415000.0,No,Stepaside,Dublin 18,q3,70%
+18/03/2016,"1 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,348018.0,Yes,Stepaside,Dublin 18,q2,50%
+18/03/2016,"16 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,462555.0,Yes,Stepaside,Dublin 18,q4,80%
+18/03/2016,"Apt 64, Wingfield, Stepaside Dublin 18",Dublin,495000.0,No,Stepaside,Dublin 18,q4,90%
+21/03/2016,"11 Belarmine Vale, Stepaside, Dublin 18",Dublin,360000.0,No,Stepaside,Dublin 18,q3,60%
+21/03/2016,"2 Belmont Drive  Belmont, Aikens Village, Stepaside",Dublin,394273.0,Yes,Stepaside,Dublin 18,q3,70%
+24/03/2016,"11 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,299559.47,Yes,Stepaside,Dublin 18,q2,40%
+24/03/2016,"3 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,330397.0,Yes,Stepaside,Dublin 18,q2,50%
+24/03/2016,"5 Darley Drive, Belmont  Aikens Village, Stepaside",Dublin,365639.0,Yes,Stepaside,Dublin 18,q3,60%
+24/03/2016,"7 Belarmine Walk, Belarmine Woods, Stepaside  Dublin 18",Dublin,348010.0,Yes,Stepaside,Dublin 18,q2,50%
+05/04/2016,"5 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,375000.0,Yes,Stepaside,Dublin 18,q3,70%
+07/04/2016,"27 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,330396.4,Yes,Stepaside,Dublin 18,q2,50%
+08/04/2016,"4 Darley Drive, Belmont, Stepaside",Dublin,365639.0,Yes,Stepaside,Dublin 18,q3,60%
+11/04/2016,"23 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,334802.0,Yes,Stepaside,Dublin 18,q2,50%
+11/04/2016,"5 Wingfield, Enniskerry Rd, Stepaside",Dublin,295000.0,No,Stepaside,Dublin 18,q2,40%
+19/04/2016,"35A Belarmine Sq, Stepaside, Dublin",Dublin,265000.0,No,Stepaside,Dublin 18,q1,30%
+22/04/2016,"14 Belarmine Walk, Belarmine, Stepaside",Dublin,462555.0,Yes,Stepaside,Dublin 18,q4,80%
+26/04/2016,"9 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,348017.62,Yes,Stepaside,Dublin 18,q2,50%
+28/04/2016,"29 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,352423.0,Yes,Stepaside,Dublin 18,q3,60%
+29/04/2016,"17 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,365637.0,Yes,Stepaside,Dublin 18,q3,60%
+29/04/2016,"8 Fern Court, Stepaside Park, Stepaside Dublin 18",Dublin,279000.0,No,Stepaside,Dublin 18,q2,30%
+06/05/2016,"15 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,348018.0,Yes,Stepaside,Dublin 18,q2,50%
+13/05/2016,"19 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,374449.0,Yes,Stepaside,Dublin 18,q3,60%
+20/05/2016,"12 Granite Court, Stepaside Park, Stepaside Dublin 18",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+23/05/2016,"29 Belarmine Hall, Stepaside, Dublin 18",Dublin,280000.0,No,Stepaside,Dublin 18,q2,30%
+30/05/2016,"21 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,352400.0,Yes,Stepaside,Dublin 18,q3,60%
+30/05/2016,"6 Belmont Drive, Aikens Village, Stepaside",Dublin,489557.0,Yes,Stepaside,Dublin 18,q4,90%
+01/06/2016,"13 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,299560.0,Yes,Stepaside,Dublin 18,q2,40%
+01/06/2016,"26 Heather Court, Stepaside Park, Stepaside Dublin 18",Dublin,256000.0,No,Stepaside,Dublin 18,q1,30%
+03/06/2016,"36 Belarmine Place, Belarmine, Stepaside Dublin 18",Dublin,245000.0,No,Stepaside,Dublin 18,q1,20%
+09/06/2016,"10 Belarmine Grange, Stepaside, Dublin 18",Dublin,456000.0,No,Stepaside,Dublin 18,q4,80%
+10/06/2016,"24 Thornberry Close, Stepaside, Dublin 18",Dublin,374449.0,Yes,Stepaside,Dublin 18,q3,60%
+23/06/2016,"21 Thornberry Close, Aikens Village, Stepaside",Dublin,356828.19,Yes,Stepaside,Dublin 18,q3,60%
+24/06/2016,"60 The Rectory, Stepaside, Do Dublin",Dublin,249000.0,No,Stepaside,Dublin 18,q1,20%
+24/06/2016,"9 Alderman Road, Aitkens Village, Stepaside",Dublin,450000.0,No,Stepaside,Dublin 18,q4,80%
+29/06/2016,"30 Belarmine Close, Stepaside, Dublin",Dublin,390500.0,No,Stepaside,Dublin 18,q3,70%
+07/07/2016,"25 Belarmine Walk, Stepaside",Dublin,330396.0,Yes,Stepaside,Dublin 18,q2,50%
+08/07/2016,"30 Cruagh Close, Stepaside, Dublin",Dublin,293000.0,No,Stepaside,Dublin 18,q2,40%
+11/07/2016,"9 Littlewood, Belamine, Stepaside Dublin 18",Dublin,245000.0,No,Stepaside,Dublin 18,q1,20%
+28/07/2016,"10 Belarmine Crescent, Belarmine, Stepaside",Dublin,242000.0,No,Stepaside,Dublin 18,q1,20%
+28/07/2016,"6 Thornberry Close, Belmont  Aikens Village, Stepaside",Dublin,387665.0,Yes,Stepaside,Dublin 18,q3,70%
+09/08/2016,"12 Belarmine Close, Stepaside, Dublin 18",Dublin,406500.0,No,Stepaside,Dublin 18,q3,70%
+09/08/2016,"16 Atkinson Drive, Aikens Village, Stepaside",Dublin,405000.0,Yes,Stepaside,Dublin 18,q3,70%
+15/08/2016,"14 The Rectory, Enniskerry Road, Stepaside",Dublin,395000.0,No,Stepaside,Dublin 18,q3,70%
+19/08/2016,"9 Belarmine Sq, Stepaside, Dublin 18",Dublin,440000.0,No,Stepaside,Dublin 18,q3,80%
+23/08/2016,"9 Belarmine Close, Stepaside, Dublin 18",Dublin,386000.0,No,Stepaside,Dublin 18,q3,70%
+24/08/2016,"51 Belarmine Heath, Enniskerry Rd, Stepaside Dublin 18",Dublin,230000.0,No,Stepaside,Dublin 18,q1,20%
+26/08/2016,"1 Meadow Court, Stepaside Park, Dublin 18",Dublin,240000.0,No,Stepaside,Dublin 18,q1,20%
+26/08/2016,"6 Fern Court, Stepaside Park, Dublin 18",Dublin,240000.0,No,Stepaside,Dublin 18,q1,20%
+29/08/2016,"50 The Elm, Park View, Stepaside Dublin 18",Dublin,300000.0,No,Stepaside,Dublin 18,q2,40%
+31/08/2016,"41 Heather Court, Stepaside Park, Stepaside",Dublin,255000.0,No,Stepaside,Dublin 18,q1,30%
+31/08/2016,"Apt 11 Wingfield, Enniskerry Road, Stepaside",Dublin,378000.0,No,Stepaside,Dublin 18,q3,70%
+02/09/2016,"120 The Belfry, Enniskerry Rd, Stepaside",Dublin,235000.0,No,Stepaside,Dublin 18,q1,20%
+06/09/2016,"1 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,462555.07,Yes,Stepaside,Dublin 18,q4,80%
+08/09/2016,"18 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,313009.0,Yes,Stepaside,Dublin 18,q2,40%
+16/09/2016,"16 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,356828.0,Yes,Stepaside,Dublin 18,q3,60%
+16/09/2016,"26 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,356828.0,Yes,Stepaside,Dublin 18,q3,60%
+20/09/2016,"20 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,356828.19,Yes,Stepaside,Dublin 18,q3,60%
+20/09/2016,"3 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,361234.0,Yes,Stepaside,Dublin 18,q3,60%
+06/10/2016,"5 Belarmine Grove, Belarmine Wood, Stepaside",Dublin,343612.0,Yes,Stepaside,Dublin 18,q2,50%
+07/10/2016,"18 Belarmine Dr, Stepaside, Dublin 18",Dublin,416000.0,No,Stepaside,Dublin 18,q3,70%
+14/10/2016,"24 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,339207.0,Yes,Stepaside,Dublin 18,q2,50%
+17/10/2016,"7 Cruagh Rise, Stepaside, Dublin",Dublin,329500.0,No,Stepaside,Dublin 18,q2,50%
+18/10/2016,"6 Woodside Demesne, Aikens Village, Stepaside",Dublin,343612.0,Yes,Stepaside,Dublin 18,q2,50%
+26/10/2016,"24 Littlewood, Belairmaine, Stepaside",Dublin,300000.0,No,Stepaside,Dublin 18,q2,40%
+26/10/2016,"8 Belmont Drive, Aikens Village, Stepaside",Dublin,520000.0,No,Stepaside,Dublin 18,q4,90%
+28/10/2016,"34 The Cedar, Cruagh Wood, Stepaside Dublin 18",Dublin,245000.0,No,Stepaside,Dublin 18,q1,20%
+02/11/2016,"19 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,343613.0,Yes,Stepaside,Dublin 18,q2,50%
+02/11/2016,"7 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,343612.33,Yes,Stepaside,Dublin 18,q2,50%
+04/11/2016,"1  Thornberry Drive, Belmont  Aikens Village, Stepaside",Dublin,378855.0,Yes,Stepaside,Dublin 18,q3,70%
+04/11/2016,"23 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,361233.0,Yes,Stepaside,Dublin 18,q3,60%
+10/11/2016,"19 Meadow Court, Stepaside Park, Stepaside Dublin 18",Dublin,366000.0,No,Stepaside,Dublin 18,q3,60%
+10/11/2016,"34 Belarmine Grove, Stepaside, Dublin 18",Dublin,365638.0,Yes,Stepaside,Dublin 18,q3,60%
+11/11/2016,"13 Belermine Grove, Belermine Woods, Stepaside",Dublin,419525.0,Yes,Stepaside,Dublin 18,q3,70%
+11/11/2016,"17 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,348018.0,Yes,Stepaside,Dublin 18,q2,50%
+11/11/2016,"2 Thornberry Drive, Belmont Aiken'S Village, Stepaside",Dublin,350325.0,Yes,Stepaside,Dublin 18,q3,60%
+11/11/2016,"24 The Cedars, Cruagh Wood, Stepaside",Dublin,199000.0,No,Stepaside,Dublin 18,q1,20%
+11/11/2016,"Fernhill Cottage, Kilgobbin Lane, Stepaside Dublin 18",Dublin,665000.0,No,Stepaside,Dublin 18,q4,100%
+14/11/2016,"38 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,395000.0,Yes,Stepaside,Dublin 18,q3,70%
+16/11/2016,"7 Thornberry Drive, Belmont  Aiken'S Village, Stepaside",Dublin,365638.76,Yes,Stepaside,Dublin 18,q3,60%
+17/11/2016,"9 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,361233.0,Yes,Stepaside,Dublin 18,q3,60%
+18/11/2016,"5 Thornberry Drive, Aikens Village, Stepaside",Dublin,365639.0,Yes,Stepaside,Dublin 18,q3,60%
+21/11/2016,"42 Belarmine Grove, Belarmaine Woods, Stepaside",Dublin,365639.0,Yes,Stepaside,Dublin 18,q3,60%
+21/11/2016,"Apt 2C, Belarmine Way, Stepaside",Dublin,241500.0,No,Stepaside,Dublin 18,q1,20%
+22/11/2016,"45 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,365640.0,Yes,Stepaside,Dublin 18,q3,60%
+23/11/2016,"21 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,343612.33,Yes,Stepaside,Dublin 18,q2,50%
+23/11/2016,"44 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,348017.62,Yes,Stepaside,Dublin 18,q2,50%
+23/11/2016,"49 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,356828.19,Yes,Stepaside,Dublin 18,q3,60%
+25/11/2016,"4 Thornberry Drive, Belmont, Aiken'S Village Stepaside",Dublin,356828.19,Yes,Stepaside,Dublin 18,q3,60%
+29/11/2016,"47 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,370044.0,Yes,Stepaside,Dublin 18,q3,60%
+30/11/2016,"15 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,361233.48,Yes,Stepaside,Dublin 18,q3,60%
+01/12/2016,"1 Fernhill, Kilgobbin Lane, Stepaside",Dublin,792951.54,Yes,Stepaside,Dublin 18,q4,100%
+01/12/2016,"36 Belarmine Grove, Belarmine Woods Stepaside, Dublin 18",Dublin,395000.0,Yes,Stepaside,Dublin 18,q3,70%
+02/12/2016,"55 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,352423.0,Yes,Stepaside,Dublin 18,q3,60%
+05/12/2016,"1B Belarmine Dr, Stepaside, Dublin 18",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+05/12/2016,"37 Belarmine Place, Stepaside, Dublin 18",Dublin,425000.0,No,Stepaside,Dublin 18,q3,80%
+06/12/2016,"35 The Belfry, Enniskerry Road, Stepaside",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+07/12/2016,"1B Belarmine Way, Stepaside, Dublin 18",Dublin,206500.0,No,Stepaside,Dublin 18,q1,20%
+07/12/2016,"51 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,356828.19,Yes,Stepaside,Dublin 18,q3,60%
+07/12/2016,"53 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,334802.0,Yes,Stepaside,Dublin 18,q2,50%
+12/12/2016,"10 Thornberry Close, Aikens Village, Stepaside",Dublin,361233.48,Yes,Stepaside,Dublin 18,q3,60%
+13/12/2016,"1H Belarmine Dr, Stepaside, Dublin 18",Dublin,265000.0,No,Stepaside,Dublin 18,q1,30%
+13/12/2016,"43 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,348018.0,Yes,Stepaside,Dublin 18,q2,50%
+14/12/2016,"11 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,440529.0,Yes,Stepaside,Dublin 18,q3,80%
+16/12/2016,"10 Heather Court, Stepaside Park, Stepaside",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+16/12/2016,"2  Thornberry Road, Belmont, Stepaside",Dublin,418500.0,Yes,Stepaside,Dublin 18,q3,70%
+16/12/2016,"25 Belarmine Grove, Stepaside, Dublin 18",Dublin,427300.0,Yes,Stepaside,Dublin 18,q3,80%
+19/12/2016,"33 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,348018.0,No,Stepaside,Dublin 18,q2,50%
+20/12/2016,"97 Belarmine Plaza, Stepaside, Dublin 18",Dublin,175000.0,No,Stepaside,Dublin 18,q1,10%
+21/12/2016,"39 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,349557.52,Yes,Stepaside,Dublin 18,q2,50%
+22/12/2016,"41 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,303965.0,Yes,Stepaside,Dublin 18,q2,40%
+22/12/2016,"Cois Cnoic, Stepaside Lane, Stepaside Dublin 18",Dublin,1600000.0,No,Stepaside,Dublin 18,q4,100%
+23/12/2016,"37 Belarmine Close, Belarmine Woods, Stepaside",Dublin,348017.0,Yes,Stepaside,Dublin 18,q2,50%
+10/01/2017,"27 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,419525.0,Yes,Stepaside,Dublin 18,q3,70%
+19/01/2017,"30 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,352422.9,Yes,Stepaside,Dublin 18,q3,60%
+24/01/2017,"28 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,352422.91,Yes,Stepaside,Dublin 18,q3,60%
+24/01/2017,"87 Belarmine Plaza, Stepaside Dublin 18, Dublin",Dublin,197000.0,No,Stepaside,Dublin 18,q1,20%
+03/02/2017,"13 Belmont Drive, Aikens Village, Stepaside",Dublin,515000.0,No,Stepaside,Dublin 18,q4,90%
+07/02/2017,"35 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,340000.0,Yes,Stepaside,Dublin 18,q2,50%
+08/02/2017,"92 Belarmine Plaza, Stepaside, Dublin 18",Dublin,308500.0,No,Stepaside,Dublin 18,q2,40%
+14/02/2017,"48 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,383259.0,Yes,Stepaside,Dublin 18,q3,70%
+15/02/2017,"50 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,378854.62,Yes,Stepaside,Dublin 18,q3,70%
+16/02/2017,"House 8 Atkinson Drive, Belmont  Aiken'S Village, Stepaside",Dublin,410000.0,Yes,Stepaside,Dublin 18,q3,70%
+20/02/2017,"Harvieston, Ballyedmonduff Road, Stepaside",Dublin,800000.0,No,Stepaside,Dublin 18,q4,100%
+28/02/2017,"18 Meadow Court, Stepaside Park, Stepaside Dublin 18",Dublin,395000.0,No,Stepaside,Dublin 18,q3,70%
+09/03/2017,"4 Meadow Court Stepaside Park, Stepaside, Dublin",Dublin,270000.0,No,Stepaside,Dublin 18,q1,30%
+16/03/2017,"10 Alderman Road, Aiken'S Village, Stepaside",Dublin,457000.0,No,Stepaside,Dublin 18,q4,80%
+20/03/2017,"7 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,374500.0,Yes,Stepaside,Dublin 18,q3,60%
+21/03/2017,"29 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,378855.0,Yes,Stepaside,Dublin 18,q3,70%
+22/03/2017,"11 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,374450.0,Yes,Stepaside,Dublin 18,q3,60%
+22/03/2017,"161 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,525000.0,No,Stepaside,Dublin 18,q4,90%
+22/03/2017,"2 Belarmine Heath, Stepaside, Dublin 18",Dublin,429000.0,No,Stepaside,Dublin 18,q3,80%
+22/03/2017,"63 Belarmine Plaza, Enniskerry Road, Stepaside",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+23/03/2017,"No 13 Atkinson Drive, Belmont, Aikens Village  Stepaside",Dublin,409691.62,Yes,Stepaside,Dublin 18,q3,70%
+24/03/2017,"84 Stepaside Park, Stepaside",Dublin,634362.0,Yes,Stepaside,Dublin 18,q4,100%
+24/03/2017,"No 19 Atkinson Drive, Belmont Aikens Village, Stepaside",Dublin,370045.0,Yes,Stepaside,Dublin 18,q3,60%
+27/03/2017,"21 Atkinson Drive, Aitkens Village, Stepaside",Dublin,374450.0,Yes,Stepaside,Dublin 18,q3,60%
+28/03/2017,"18 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,378855.0,Yes,Stepaside,Dublin 18,q3,70%
+28/03/2017,"95 Belarmine Plaza, Stepaside, Dublin",Dublin,211500.0,No,Stepaside,Dublin 18,q1,20%
+29/03/2017,"26 Belarmine Dr, Stepaside Dublin 18, Dublin",Dublin,405000.0,No,Stepaside,Dublin 18,q3,70%
+30/03/2017,"3 Granite Court, Stepaside Park, Stepaside Dublin 18",Dublin,311000.0,No,Stepaside,Dublin 18,q2,40%
+31/03/2017,"21 Fern Court, Stepaside Park, Stepaside Dublin 18",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+04/04/2017,"48 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,455000.0,Yes,Stepaside,Dublin 18,q4,80%
+04/04/2017,"7 Cruagh Court, Cruagh Manor, Stepaside Dublin 18",Dublin,410300.0,No,Stepaside,Dublin 18,q3,70%
+06/04/2017,"86 Stepaside Park, Stepaside, Dublin 18",Dublin,638766.52,Yes,Stepaside,Dublin 18,q4,100%
+07/04/2017,"24 Belarmine Lawns, Stepaside",Dublin,374449.0,Yes,Stepaside,Dublin 18,q3,60%
+07/04/2017,"26 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,374500.0,Yes,Stepaside,Dublin 18,q3,70%
+07/04/2017,"30 Belarmine Lawns, Belermine Woods, Stepaside",Dublin,387665.0,Yes,Stepaside,Dublin 18,q3,70%
+07/04/2017,"37 Kilgobbin Heights, Stepaside, Dublin 18",Dublin,725000.0,No,Stepaside,Dublin 18,q4,100%
+10/04/2017,"28 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,387665.19,Yes,Stepaside,Dublin 18,q3,70%
+10/04/2017,"5 Thornberry Road, Belmont, Stepaside",Dublin,444934.0,Yes,Stepaside,Dublin 18,q4,80%
+11/04/2017,"32 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,387665.0,Yes,Stepaside,Dublin 18,q3,70%
+12/04/2017,"134 The Belfry, Enniskerry Road, Stepaside",Dublin,282500.0,No,Stepaside,Dublin 18,q2,30%
+13/04/2017,"87 Stepaside Park, Stepaside",Dublin,725000.0,Yes,Stepaside,Dublin 18,q4,100%
+20/04/2017,"22 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,387665.0,Yes,Stepaside,Dublin 18,q3,70%
+21/04/2017,"14 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,436123.35,Yes,Stepaside,Dublin 18,q3,80%
+21/04/2017,"16 Glen Court, Stepaside Park, Stepaside",Dublin,360000.0,No,Stepaside,Dublin 18,q3,60%
+28/04/2017,"39 Bellarmine Woods, Stepaside, Dublin 18",Dublin,396476.0,Yes,Stepaside,Dublin 18,q3,70%
+02/05/2017,"16 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,428175.0,Yes,Stepaside,Dublin 18,q3,80%
+02/05/2017,"37 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,365639.0,Yes,Stepaside,Dublin 18,q3,60%
+03/05/2017,"3 Thornberry Close, Belmont, Stepaside",Dublin,414096.92,Yes,Stepaside,Dublin 18,q3,70%
+10/05/2017,"27 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,380600.0,Yes,Stepaside,Dublin 18,q3,70%
+15/05/2017,"31 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,361233.0,Yes,Stepaside,Dublin 18,q3,60%
+16/05/2017,"33 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,348017.62,Yes,Stepaside,Dublin 18,q2,50%
+23/05/2017,"23 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,365638.0,Yes,Stepaside,Dublin 18,q3,60%
+25/05/2017,"12 Belarmine Place, Newtownlittle, Stepaside",Dublin,235000.0,No,Stepaside,Dublin 18,q1,20%
+26/05/2017,"1 Cruagh Court, Stepaside, Dublin 18",Dublin,432000.0,No,Stepaside,Dublin 18,q3,80%
+26/05/2017,"15 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,321138.21,Yes,Stepaside,Dublin 18,q2,50%
+26/05/2017,"25 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,374450.0,Yes,Stepaside,Dublin 18,q3,60%
+29/05/2017,"20 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,361233.5,Yes,Stepaside,Dublin 18,q3,60%
+30/05/2017,"31 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,361233.0,Yes,Stepaside,Dublin 18,q3,60%
+01/06/2017,"1 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,374449.0,Yes,Stepaside,Dublin 18,q3,60%
+01/06/2017,"Brackloon House, Ballyedmonduff Rd, Stepaside",Dublin,800000.0,No,Stepaside,Dublin 18,q4,100%
+02/06/2017,"21 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,348000.0,Yes,Stepaside,Dublin 18,q2,50%
+06/06/2017,"17 Belarmine Lawns, Belarmine Woods, Stepaside  Dublin 18",Dublin,345000.0,Yes,Stepaside,Dublin 18,q2,50%
+07/06/2017,"8 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,361234.0,Yes,Stepaside,Dublin 18,q3,60%
+09/06/2017,"10 Cruagh Green, Stepaside, Dublin",Dublin,265000.0,No,Stepaside,Dublin 18,q1,30%
+09/06/2017,"50 Belarmine Place, Stepaside, Dublin",Dublin,403000.0,No,Stepaside,Dublin 18,q3,70%
+12/06/2017,"18 Belarmine Vale, Stepaside, Dublin 18",Dublin,126000.0,No,Stepaside,Dublin 18,q1,10%
+12/06/2017,"4 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,371950.0,Yes,Stepaside,Dublin 18,q3,60%
+15/06/2017,"10 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,361233.0,Yes,Stepaside,Dublin 18,q3,60%
+16/06/2017,"25 Cruagh Court, Stepaside, Dublin 18",Dublin,268000.0,No,Stepaside,Dublin 18,q1,30%
+16/06/2017,"6 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,361233.48,Yes,Stepaside,Dublin 18,q3,60%
+22/06/2017,"110 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,310000.0,No,Stepaside,Dublin 18,q2,40%
+23/06/2017,"11 Belarmine Woods, Stepaside, Dublin 18",Dublin,480176.21,Yes,Stepaside,Dublin 18,q4,90%
+23/06/2017,"50 Kilgobbin Heights, Stepaside, Dublin 18",Dublin,585000.0,No,Stepaside,Dublin 18,q4,90%
+26/06/2017,"5 Darley Lane, Belmont  Aitkens Village, Stepaside",Dublin,444933.0,Yes,Stepaside,Dublin 18,q4,80%
+26/06/2017,"7 Belarmine Sq, Stepaside, Dublin 18",Dublin,500000.0,No,Stepaside,Dublin 18,q4,90%
+27/06/2017,"10 Belarmine Woods, Belarmine Woods, Stepaside",Dublin,475771.0,Yes,Stepaside,Dublin 18,q4,90%
+27/06/2017,"17 Belarmine Place, Stepaside, Dublin 18",Dublin,349000.0,No,Stepaside,Dublin 18,q2,50%
+27/06/2017,"28 Heather Court, Stepaside Park, Stepaside Dublin 18",Dublin,330000.0,No,Stepaside,Dublin 18,q2,50%
+28/06/2017,"5 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,374449.34,Yes,Stepaside,Dublin 18,q3,60%
+29/06/2017,"12 Belarmine Woods, Belarmine Woods, Stepaside",Dublin,524229.0,Yes,Stepaside,Dublin 18,q4,90%
+30/06/2017,"8 Belarmine Woods, Stepaside",Dublin,475771.0,Yes,Stepaside,Dublin 18,q4,90%
+03/07/2017,"69 Wingfield, Enniskerry Rd, Stepaside Dublin 18",Dublin,390000.0,No,Stepaside,Dublin 18,q3,70%
+03/07/2017,"9 Belarmine Woods, Stepaside, Dubln 18",Dublin,467100.0,Yes,Stepaside,Dublin 18,q4,80%
+05/07/2017,"3 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,356828.0,Yes,Stepaside,Dublin 18,q3,60%
+05/07/2017,"3 Stepaside Villas, Stepaside, Dublin 18",Dublin,352000.0,No,Stepaside,Dublin 18,q3,60%
+05/07/2017,"6 Belarmine Woods, Belarmine Woods, Stepaside",Dublin,457770.0,Yes,Stepaside,Dublin 18,q4,80%
+06/07/2017,"7 Belarmine Woods, Enniskerry Road, Stepaside",Dublin,475771.0,Yes,Stepaside,Dublin 18,q4,90%
+06/07/2017,"8 The Courtyard, Stepaside Park, Stepaside",Dublin,490000.0,No,Stepaside,Dublin 18,q4,90%
+13/07/2017,"9 Cruagh Green, Stepaside, Dublin 18",Dublin,398000.0,No,Stepaside,Dublin 18,q3,70%
+14/07/2017,"4 Belarmine Woods, Stepaside, Dublin  18",Dublin,475770.0,Yes,Stepaside,Dublin 18,q4,80%
+17/07/2017,"3 Belarmine Woods, Belarmine Woods, Stepaside",Dublin,475770.0,Yes,Stepaside,Dublin 18,q4,80%
+17/07/2017,"5 Belarmine Park, Stepaside, Dublin 18",Dublin,825000.0,No,Stepaside,Dublin 18,q4,100%
+18/07/2017,"29 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,365600.0,Yes,Stepaside,Dublin 18,q3,60%
+20/07/2017,"6 Loftus Lane, Belmont  Aikens Village, Stepaside",Dublin,520000.0,No,Stepaside,Dublin 18,q4,90%
+21/07/2017,"2 Belarmaine Lawns, Stepaside, Co Dublin",Dublin,524229.07,Yes,Stepaside,Dublin 18,q4,90%
+21/07/2017,"91 Stepaside Park, Stepaside, Dublin 18",Dublin,651101.0,Yes,Stepaside,Dublin 18,q4,100%
+21/07/2017,"93 Stepaside Park, Stepaside",Dublin,638766.52,Yes,Stepaside,Dublin 18,q4,100%
+26/07/2017,"137 Stepaside Park, Stepaside, Dublin 18",Dublin,750000.0,No,Stepaside,Dublin 18,q4,100%
+26/07/2017,"6 Glen Court, Stepaside Park, Stepaside Dublin 18",Dublin,330000.0,No,Stepaside,Dublin 18,q2,50%
+26/07/2017,"89 New Stepaside Park, Stepaside, Dublin 18",Dublin,643171.0,Yes,Stepaside,Dublin 18,q4,100%
+27/07/2017,"2 Belarmine Woods, Stepaside, Dublin 18",Dublin,475771.0,Yes,Stepaside,Dublin 18,q4,90%
+04/08/2017,"11 The Cedars, Cruagh Wood, Stepaside Dublin 18",Dublin,250000.0,No,Stepaside,Dublin 18,q1,30%
+10/08/2017,"23 Atkinson Drive, Belmont  Aikens Village, Stepaside",Dublin,418502.0,Yes,Stepaside,Dublin 18,q3,70%
+11/08/2017,"15 Belarmine Vale, Stepaside, Dublin 18",Dublin,185000.0,No,Stepaside,Dublin 18,q1,10%
+15/08/2017,"Apt 8 Block A, Wingfield, Stepaside Dublin 18",Dublin,377500.0,No,Stepaside,Dublin 18,q3,70%
+17/08/2017,"Apt 2H, Belarmine Way, Stepaside",Dublin,365000.0,No,Stepaside,Dublin 18,q3,60%
+18/08/2017,"1 Darley Lane, Belmont, Aikens Village Stepaside",Dublin,430000.0,Yes,Stepaside,Dublin 18,q3,80%
+22/08/2017,"54 The Rectory, Stepaside, Dublin 18",Dublin,295000.0,No,Stepaside,Dublin 18,q2,40%
+23/08/2017,"29 Stepaside Park, Stepaside, Dublin 18",Dublin,765000.0,No,Stepaside,Dublin 18,q4,100%
+23/08/2017,"90 Stepaside Park, Stepaside, Dublin 18",Dublin,635775.0,Yes,Stepaside,Dublin 18,q4,100%
+24/08/2017,"24 Belarmine Close, Off Enniskerry Rd, Stepaside Dublin 18",Dublin,495000.0,No,Stepaside,Dublin 18,q4,90%
+28/08/2017,"25 Cairnfort, Stepaside, Dublin City",Dublin,720000.0,No,Stepaside,Dublin 18,q4,100%
+31/08/2017,"47 Kilgobbin Heights, Stepaside, Dublin 18",Dublin,650000.0,No,Stepaside,Dublin 18,q4,100%
+06/09/2017,"10 Cruagh Ave, Cruagh Manor, Stepaside Dublin 18",Dublin,361000.0,No,Stepaside,Dublin 18,q3,60%
+06/09/2017,"13 Belarmine Lawn, Stepaside",Dublin,365638.0,Yes,Stepaside,Dublin 18,q3,60%
+06/09/2017,"Pine Trees, Kilgobbin Road, Stepaside",Dublin,805000.0,No,Stepaside,Dublin 18,q4,100%
+08/09/2017,"19 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,303964.0,Yes,Stepaside,Dublin 18,q2,40%
+14/09/2017,"27 Cruagh Ave, Stepaside, Dublin 18",Dublin,443000.0,No,Stepaside,Dublin 18,q4,80%
+15/09/2017,"4 Hyde Road, Belmont, Stepaside",Dublin,405287.0,Yes,Stepaside,Dublin 18,q3,70%
+19/09/2017,"11 The Elms, Parkview Apts, Stepaside",Dublin,320000.0,No,Stepaside,Dublin 18,q2,40%
+21/09/2017,"7 Belarmine Dr, Stepaside Dublin 18, Dublin",Dublin,455000.0,No,Stepaside,Dublin 18,q4,80%
+28/09/2017,"44 The Ash, Park View, Stepaside Dublin 18",Dublin,210000.0,No,Stepaside,Dublin 18,q1,20%
+02/10/2017,"1 Belarmine Woods, Stepaside, Dublin 18",Dublin,497797.0,Yes,Stepaside,Dublin 18,q4,90%
+02/10/2017,"19 Belarmine Court, Stepaside, Dublin 18",Dublin,342500.0,No,Stepaside,Dublin 18,q2,50%
+06/10/2017,"13 Heather Court, Stepaside Park, Stepaside Village",Dublin,125000.0,No,Stepaside,Dublin 18,q1,10%
+13/10/2017,"94 Stepaside Park, Stepaside, Dublin 18",Dublin,638766.51,Yes,Stepaside,Dublin 18,q4,100%
+19/10/2017,"12 Belarmine Court, Stepaside, Dublin 18",Dublin,330000.0,No,Stepaside,Dublin 18,q2,50%
+24/10/2017,"7 Belarmine Place, Newtown Little, Stepaside Dublin 18",Dublin,536000.0,No,Stepaside,Dublin 18,q4,90%
+27/10/2017,"3 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,475000.0,No,Stepaside,Dublin 18,q4,80%
+31/10/2017,"88 The Rectory, Stepaside, Dublin 18",Dublin,278000.0,No,Stepaside,Dublin 18,q2,30%
+02/11/2017,"17 Belarmine Close, Stepaside, Dublin",Dublin,517500.0,No,Stepaside,Dublin 18,q4,90%
+08/11/2017,"13 Belarmine Place, Stepaside, Dublin 18",Dublin,505000.0,No,Stepaside,Dublin 18,q4,90%
+15/11/2017,"103 The Rectory Enniskerry Rd, Stepaside, Dublin",Dublin,298000.0,No,Stepaside,Dublin 18,q2,40%
+16/11/2017,"9 Belarmine Dr, Enniskerry Rd, Stepaside Dublin 18",Dublin,530000.0,No,Stepaside,Dublin 18,q4,90%
+17/11/2017,"1 Stepaside Lane, Stepaside, Dublin 18",Dublin,823788.0,Yes,Stepaside,Dublin 18,q4,100%
+17/11/2017,"1E Belarmine Way, Stepaside, Dublin 18",Dublin,230000.0,No,Stepaside,Dublin 18,q1,20%
+17/11/2017,"2 Stepaside Lane, Stepaside, Dublin 18",Dublin,770925.11,Yes,Stepaside,Dublin 18,q4,100%
+22/11/2017,"Apt 40, Heather Court, Stepaside Park",Dublin,321500.0,No,Stepaside,Dublin 18,q2,50%
+23/11/2017,"26 Belarmine Place, Stepaside, Dublin 18",Dublin,383000.0,No,Stepaside,Dublin 18,q3,70%
+24/11/2017,"8 Cruagh Green, Cruagh Manor, Stepaside",Dublin,335000.0,No,Stepaside,Dublin 18,q2,50%
+29/11/2017,"18 Thornberry Close, Aikens Village, Stepaside",Dublin,378855.0,Yes,Stepaside,Dublin 18,q3,70%
+30/11/2017,"11 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,402000.0,No,Stepaside,Dublin 18,q3,70%
+01/12/2017,"7 Belarmine Park, Stepaside, Dublin 18",Dublin,710000.0,No,Stepaside,Dublin 18,q4,100%
+04/12/2017,"Apt 2G, Belarmine Dr, Stepaside Dublin 18",Dublin,312000.0,No,Stepaside,Dublin 18,q2,40%
+04/12/2017,"Carrowbeg, 7 Kilgobbin Lawn, Stepaside Dublin 18",Dublin,685000.0,No,Stepaside,Dublin 18,q4,100%
+08/12/2017,"8 Belarmine Place, Stepaside, Dublin 18",Dublin,265000.0,No,Stepaside,Dublin 18,q1,30%
+12/12/2017,"5 Belarmine Hall, Enniskerry Rd, Stepaside Dublin 18",Dublin,290000.0,No,Stepaside,Dublin 18,q2,40%
+15/12/2017,"42 Heather Court, Stepaside Park, Stepaside Dublin 18",Dublin,330000.0,No,Stepaside,Dublin 18,q2,50%
+15/12/2017,"Doforus, Kilgobbin Lane, Stepaside Dublin 18",Dublin,735000.0,No,Stepaside,Dublin 18,q4,100%
+18/12/2017,"97 Stepaside Park, Stepaside, Dublin 18",Dublin,696035.0,Yes,Stepaside,Dublin 18,q4,100%
+19/12/2017,"61 The Rectory, Stepaside, Dublin 18",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+20/12/2017,"90 The Rectory, Stepaside, Dublin 18",Dublin,286000.0,No,Stepaside,Dublin 18,q2,30%
+21/12/2017,"12 Hyde Road, Belmont, Stepaside",Dublin,462555.07,Yes,Stepaside,Dublin 18,q4,80%
+21/12/2017,"5 Belarmine Way, Stepaside, Dublin 18",Dublin,505000.0,No,Stepaside,Dublin 18,q4,90%
+21/12/2017,"6 Belermine Crescent, Stepaside, Dublin 18",Dublin,256000.0,No,Stepaside,Dublin 18,q1,30%
+17/01/2018,"77 Wingfield, Enniskerry Rd, Stepaside Dublin 18",Dublin,510000.0,No,Stepaside,Dublin 18,q4,90%
+23/01/2018,"25 The Ash, Park View, Stepaside Dublin 18",Dublin,280000.0,No,Stepaside,Dublin 18,q2,30%
+08/02/2018,"35 The Oak, Park View, Stepaside Dublin 18",Dublin,255000.0,No,Stepaside,Dublin 18,q1,30%
+22/02/2018,"14 Hyde Road, Belmont, Stepaside",Dublin,499950.0,Yes,Stepaside,Dublin 18,q4,90%
+13/03/2018,"9 The Cedars, Cruagh Wood, Stepaside Dublin 18",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+13/03/2018,"Apt 13 Fern Court, Stepaside Park, Stepaside",Dublin,340000.0,No,Stepaside,Dublin 18,q2,50%
+16/03/2018,"16 Hyde Road, Aikens Village, Stepaside",Dublin,396431.0,Yes,Stepaside,Dublin 18,q3,70%
+22/03/2018,"21 Belarmine Court, Stepaside, Dublin 18",Dublin,385000.0,No,Stepaside,Dublin 18,q3,70%
+23/03/2018,"1 El Pinar, Kilgobbin Rd, Stepaside Dublin 18",Dublin,385000.0,No,Stepaside,Dublin 18,q3,70%
+23/03/2018,"178 Stepaside Park, Stepaside, Dublin 18",Dublin,656387.67,Yes,Stepaside,Dublin 18,q4,100%
+23/03/2018,"179  Stepaside Park, Stepaside",Dublin,656388.0,Yes,Stepaside,Dublin 18,q4,100%
+23/03/2018,"180 Stepaside Park, Stepaside, Dublin 18",Dublin,656387.66,Yes,Stepaside,Dublin 18,q4,100%
+28/03/2018,"5 El Pinar, Kilgobbin Rd, Stepaside Dublin 18",Dublin,350000.0,No,Stepaside,Dublin 18,q3,60%
+29/03/2018,"7 El Pinar, Kilgobbin Rd, Stepaside Dublin 18",Dublin,390000.0,No,Stepaside,Dublin 18,q3,70%
+29/03/2018,"8 Thornberry Road, Aikens Village, Stepaside",Dublin,462555.0,Yes,Stepaside,Dublin 18,q4,80%
+29/03/2018,"96 Stepaside Park, Stepaside, Dublin 18",Dublin,691629.0,Yes,Stepaside,Dublin 18,q4,100%
+04/04/2018,"15 Belarmine Crescent, Stepaside, Dublin 18",Dublin,442000.0,No,Stepaside,Dublin 18,q4,80%
+06/04/2018,"181 Stepaside Park, Stepaside, Dublin 18",Dublin,656387.66,Yes,Stepaside,Dublin 18,q4,100%
+12/04/2018,"30 Belarmine Sq, Stepaside, Dublin 18",Dublin,276000.0,No,Stepaside,Dublin 18,q2,30%
+13/04/2018,"46C Wingfield, Stepaside, Dublin",Dublin,330000.0,No,Stepaside,Dublin 18,q2,50%
+16/04/2018,"166 Stepaside Park, Stepaside, Dublin 18",Dublin,850000.0,Yes,Stepaside,Dublin 18,q4,100%
+16/04/2018,"5 Belarmine Woods, Belarmine Woods, Stepaside",Dublin,563877.0,Yes,Stepaside,Dublin 18,q4,90%
+17/04/2018,"28 Belarmine Sq, Stepaside, Dublin 18",Dublin,399000.0,No,Stepaside,Dublin 18,q3,70%
+17/04/2018,"4 El Pinar, Kilgobbin Rd, Stepaside Dublin 18",Dublin,280000.0,No,Stepaside,Dublin 18,q2,30%
+18/04/2018,"18 Wingfield, Stepaside, Dublin 18",Dublin,350000.0,No,Stepaside,Dublin 18,q3,60%
+20/04/2018,"17 Cruagh Court, Stepaside, Dublin",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+24/04/2018,"47 Belarmine Heath, Stepaside, Dublin",Dublin,270000.0,No,Stepaside,Dublin 18,q2,30%
+30/04/2018,"Apt 6 El Pinar, Kilgobbin Rd, Stepaside Dublin 18",Dublin,430000.0,No,Stepaside,Dublin 18,q3,80%
+01/05/2018,"Apartment 16, Mountain View House, Stepaside",Dublin,301000.0,No,Stepaside,Dublin 18,q2,40%
+04/05/2018,"135 The Rectory, Stepaside, Dublin",Dublin,311000.0,No,Stepaside,Dublin 18,q2,40%
+11/05/2018,"18 Cruagh Rise, Stepaside, Dublin 18",Dublin,273000.0,No,Stepaside,Dublin 18,q2,30%
+18/05/2018,"3 El Pinar, Kilgobbin Rd, Stepaside Dublin 18",Dublin,370000.0,No,Stepaside,Dublin 18,q3,60%
+22/05/2018,"2 El Pinar, Kilgobbin Rd, Stepaside Dublin 18",Dublin,385000.0,Yes,Stepaside,Dublin 18,q3,70%
+24/05/2018,"27 Belarmine Close, Stepaside, Dublin 18",Dublin,537500.0,No,Stepaside,Dublin 18,q4,90%
+24/05/2018,"4 Belarmine Place, Stepaside, Dublin 18",Dublin,281000.0,No,Stepaside,Dublin 18,q2,30%
+28/05/2018,"12 The Rectory, Kilgobbin, Stepaside Dublin 18",Dublin,454750.0,No,Stepaside,Dublin 18,q4,80%
+07/06/2018,"23 Belarmine Sq, Stepaside, Dublin 18",Dublin,450000.0,No,Stepaside,Dublin 18,q4,80%
+08/06/2018,"132 The Belfry, Parkview, Stepaside",Dublin,301000.0,No,Stepaside,Dublin 18,q2,40%
+12/06/2018,"85 Stepaside Park, Stepaside",Dublin,691629.0,Yes,Stepaside,Dublin 18,q4,100%
+14/06/2018,"9 Glen Court, Stepaside Park, Stepaside Dublin 18",Dublin,332200.0,No,Stepaside,Dublin 18,q2,50%
+15/06/2018,"17 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,298000.0,No,Stepaside,Dublin 18,q2,40%
+15/06/2018,"24 Belarmine Way, Stepaside, Dublin 18",Dublin,510000.0,No,Stepaside,Dublin 18,q4,90%
+18/06/2018,"12 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,356828.19,Yes,Stepaside,Dublin 18,q3,60%
+19/06/2018,"Apt 3, Fern Court, Stepaside Park Dublin 18",Dublin,341000.0,No,Stepaside,Dublin 18,q2,50%
+20/06/2018,"2  Verner Lane, Aikens Village  Belmont, Stepaside",Dublin,595000.0,No,Stepaside,Dublin 18,q4,90%
+21/06/2018,"2 Cruagh Close, Stepaside, Enniskerry Rd Dublin 18",Dublin,270000.0,No,Stepaside,Dublin 18,q2,30%
+26/06/2018,"17 Belarmine Hall, Belarmine Ave, Stepaside Dublin 18",Dublin,285000.0,No,Stepaside,Dublin 18,q2,30%
+28/06/2018,"73 Stepaside Park, Stepaside, Dublin 18",Dublin,646000.0,No,Stepaside,Dublin 18,q4,100%
+04/07/2018,"25 Belarmine Vale, Stepaside, Dublin",Dublin,390000.0,No,Stepaside,Dublin 18,q3,70%
+06/07/2018,"2 Belarmine Vale, Stepaside, Dublin 18",Dublin,342000.0,No,Stepaside,Dublin 18,q2,50%
+13/07/2018,"167 Stepaside Park, Stepaside, Dublin 18",Dublin,748899.0,Yes,Stepaside,Dublin 18,q4,100%
+17/07/2018,"58 Stepaside Park, Stepaside, Dublin 18",Dublin,701027.5,No,Stepaside,Dublin 18,q4,100%
+18/07/2018,"59 St Patricks Park, Stepaside, Dublin 18",Dublin,495000.0,No,Stepaside,Dublin 18,q4,90%
+19/07/2018,"92 Stepaside Park, Stepaside, Dublin 18",Dublin,731278.0,Yes,Stepaside,Dublin 18,q4,100%
+20/07/2018,"15 Littlewood, Belarmine Ave, Stepaside",Dublin,347000.0,No,Stepaside,Dublin 18,q2,50%
+20/07/2018,"Apt 25 The Village, Enniskerry Road, Stepaside",Dublin,305000.0,No,Stepaside,Dublin 18,q2,40%
+24/07/2018,"10 Stepaside Park, Stepaside, Dublin 18",Dublin,855000.0,No,Stepaside,Dublin 18,q4,100%
+25/07/2018,"177 Stepaside Park, Stepaside, Dublin 18",Dublin,559472.0,Yes,Stepaside,Dublin 18,q4,90%
+25/07/2018,"4 The Cedar, Cruagh Wood, Stepaside",Dublin,262500.0,No,Stepaside,Dublin 18,q1,30%
+26/07/2018,"148 The Rectory, Stepaside, Dublin 18",Dublin,492000.0,No,Stepaside,Dublin 18,q4,90%
+27/07/2018,"Apt 19 Belarmine Hall, Block B, Stepaside",Dublin,246000.0,No,Stepaside,Dublin 18,q1,20%
+31/07/2018,"138 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,285000.0,No,Stepaside,Dublin 18,q2,30%
+10/08/2018,"2 Cruagh Ave, Stepaside, Dublin 18",Dublin,356000.0,No,Stepaside,Dublin 18,q3,60%
+20/08/2018,"157 Kilgobbin Road, Stepaside, Dublin 18",Dublin,423000.0,No,Stepaside,Dublin 18,q3,80%
+22/08/2018,"19 Heather Court Stepaside Park, Stepaside, Dublin",Dublin,340000.0,No,Stepaside,Dublin 18,q2,50%
+22/08/2018,"3 Belarmine Heath, Stepaside, Dublin 18",Dublin,360000.0,No,Stepaside,Dublin 18,q3,60%
+31/08/2018,"4 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,453745.0,Yes,Stepaside,Dublin 18,q4,80%
+05/09/2018,"Apt 13, The Village Apts, Stepaside Dublin 18",Dublin,260000.0,No,Stepaside,Dublin 18,q1,30%
+07/09/2018,"1 Meadowbrook, Kilgobbin Road, Stepaside",Dublin,956828.0,Yes,Stepaside,Dublin 18,q4,100%
+07/09/2018,"162 The Rectory, Stepaside, Dublin 18",Dublin,545000.0,No,Stepaside,Dublin 18,q4,90%
+13/09/2018,"182 Stepaside Park, Stepaside, Dublin 18",Dublin,740088.0,Yes,Stepaside,Dublin 18,q4,100%
+21/09/2018,"176 Stepaside Park, Stepaside, Dublin 18",Dublin,559471.0,Yes,Stepaside,Dublin 18,q4,90%
+21/09/2018,"33 Belarmine Heath, Stepaside, Dublin 18",Dublin,380000.0,No,Stepaside,Dublin 18,q3,70%
+25/09/2018,"170 Stepaside Park, Stepaside, Dublin 18",Dublin,581497.0,Yes,Stepaside,Dublin 18,q4,90%
+26/09/2018,"12 Wingfield, Enniskerry Rd, Stepaside",Dublin,361000.0,No,Stepaside,Dublin 18,q3,60%
+27/09/2018,"40 The Oak, Parkview, Stepaside",Dublin,197500.0,No,Stepaside,Dublin 18,q1,20%
+02/10/2018,"11 The Village, Stepaside, Dublin",Dublin,322000.0,No,Stepaside,Dublin 18,q2,50%
+03/10/2018,"Apt 12 El Pinar, Kilgobbin Rd, Stepaside",Dublin,387000.0,No,Stepaside,Dublin 18,q3,70%
+10/10/2018,"185 Stepaside Park, Stepaside, Dublin 18",Dublin,572687.0,Yes,Stepaside,Dublin 18,q4,90%
+12/10/2018,"25 Belarmine Hall, Stepaside, Dublin 18",Dublin,222500.0,No,Stepaside,Dublin 18,q1,20%
+17/10/2018,"12 Cruagh Close, Stepaside, Dublin 18",Dublin,362000.0,No,Stepaside,Dublin 18,q3,60%
+23/10/2018,"22 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,356828.19,Yes,Stepaside,Dublin 18,q3,60%
+25/10/2018,"2E Belarmine Court, Stepaside, Dublin 18",Dublin,302000.0,No,Stepaside,Dublin 18,q2,40%
+31/10/2018,"18 Belarmine Sq, Stepaside, Dublin 18",Dublin,279000.0,No,Stepaside,Dublin 18,q2,30%
+31/10/2018,"22 The Cedar, Parkview, Stepaside Dublin 18",Dublin,315000.0,No,Stepaside,Dublin 18,q2,40%
+31/10/2018,"77 Stepaside Park, Stepaside, Dublin 18",Dublin,777000.0,No,Stepaside,Dublin 18,q4,100%
+06/11/2018,"72 Stepaside Park, Stepaside, Dublin",Dublin,772500.0,No,Stepaside,Dublin 18,q4,100%
+07/11/2018,"3 Meadowbrook, Kilgobbin Road, Stepaside",Dublin,925110.13,Yes,Stepaside,Dublin 18,q4,100%
+16/11/2018,"10 Cruagh Rise, Cruagh Manor, Stepaside",Dublin,350000.0,No,Stepaside,Dublin 18,q3,60%
+16/11/2018,"41 Littlewood Apts, Belarmine, Stepaside Dublin 18",Dublin,355000.0,No,Stepaside,Dublin 18,q3,60%
+19/11/2018,"4  Fernhill Road, Belmont  Aikens Village, Stepaside",Dublin,465000.0,No,Stepaside,Dublin 18,q4,80%
+21/11/2018,"187 Stepaside Park, Stepaside, Dublin 18",Dublin,524229.07,Yes,Stepaside,Dublin 18,q4,90%
+21/11/2018,"1C Belarmine Way, Stepaside, Dublin 18",Dublin,314000.0,No,Stepaside,Dublin 18,q2,40%
+22/11/2018,"1G Belarmine Way, Stepaside, Dublin 18",Dublin,300000.0,No,Stepaside,Dublin 18,q2,40%
+22/11/2018,"27 Belarmine Heath, Stepaside, Dublin 18",Dublin,268000.0,No,Stepaside,Dublin 18,q1,30%
+23/11/2018,"10 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,449399.0,Yes,Stepaside,Dublin 18,q4,80%
+23/11/2018,"45 The Ash, Parkview, Stepaside Dublin 18",Dublin,335000.0,No,Stepaside,Dublin 18,q2,50%
+27/11/2018,"11 Fern Court, Stepaside Park, Dublin 18",Dublin,320000.0,No,Stepaside,Dublin 18,q2,40%
+27/11/2018,"32 The Belfrey, Belarmine, Stepaside Dublin 18",Dublin,291000.0,No,Stepaside,Dublin 18,q2,40%
+29/11/2018,"8 The Willow, Stepaside, Parkview Appartments Dublin 18",Dublin,25000.0,No,Stepaside,Dublin 18,q1,10%
+03/12/2018,"183 Stepaside Park, Stepaside, Dublin 18",Dublin,792951.0,Yes,Stepaside,Dublin 18,q4,100%
+06/12/2018,"18 Cruagh Green, Stepaside, Dublin",Dublin,352000.0,No,Stepaside,Dublin 18,q3,60%
+06/12/2018,"69 Littlewood, Enniskerry Rd, Stepaside",Dublin,294000.0,No,Stepaside,Dublin 18,q2,40%
+07/12/2018,"2 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,449339.2,Yes,Stepaside,Dublin 18,q4,80%
+12/12/2018,"23 Bellermine Hall, Stepaside, Dublin 18",Dublin,296000.0,No,Stepaside,Dublin 18,q2,40%
+14/12/2018,"22 Heather Court, Stepaside Park, Stepaside Dublin 18",Dublin,335000.0,No,Stepaside,Dublin 18,q2,50%
+15/12/2018,"13 Belarmine Crescent, Stepaside, Dublin 18",Dublin,380000.0,No,Stepaside,Dublin 18,q3,70%
+19/12/2018,"1 Belarmine Court, Enniskerry Rd, Stepaside Dublin 18",Dublin,472500.0,No,Stepaside,Dublin 18,q4,80%
+19/12/2018,"174 Stepaside Park, Stepaside",Dublin,563877.0,Yes,Stepaside,Dublin 18,q4,90%
+19/12/2018,"50 Wingfield, Enniskerry Road, Stepaside",Dublin,322000.0,No,Stepaside,Dublin 18,q2,50%
+19/12/2018,"94 Belarmine Place, Stepaside, Dublin 18",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+20/12/2018,"14 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,440528.0,Yes,Stepaside,Dublin 18,q3,80%
+20/12/2018,"17 Cruagh Court, Stepaside, Dublin",Dublin,290000.0,No,Stepaside,Dublin 18,q2,40%
+08/01/2019,"6 Belarmine Park, Enniskerry Rd, Stepaside Dublin 18",Dublin,825000.0,No,Stepaside,Dublin 18,q4,100%
+11/01/2019,"3 Stepaside Lane, Stepaside, Dublin 18",Dublin,727643.0,Yes,Stepaside,Dublin 18,q4,100%
+11/01/2019,"8 The Willow, Stepaside, Parkview Appartments Dublin 18",Dublin,25000.0,No,Stepaside,Dublin 18,q1,10%
+14/01/2019,"145 The Rectory, Stepaside, Dublin 18",Dublin,290000.0,No,Stepaside,Dublin 18,q2,40%
+18/01/2019,"17 Stepaside Park, Stepaside, Dublin 18",Dublin,760000.0,No,Stepaside,Dublin 18,q4,100%
+18/01/2019,"4 Belarmine Close, Stepaside, Dublin 18",Dublin,535000.0,No,Stepaside,Dublin 18,q4,90%
+21/01/2019,"2J Bellarmine Drive, Stepaside, Dublin 18",Dublin,372000.0,No,Stepaside,Dublin 18,q3,60%
+29/01/2019,"21 Belarmine Close, Stepaside, Dublin 18",Dublin,510000.0,No,Stepaside,Dublin 18,q4,90%
+29/01/2019,"41 Belarmine Vale, Stepaside, Dublin 18",Dublin,395000.0,No,Stepaside,Dublin 18,q3,70%
+01/02/2019,"Claragh, Ballyedmonduff Rd, Stepaside Dublin 18",Dublin,494413.0,No,Stepaside,Dublin 18,q4,90%
+04/02/2019,"175 Stepaside Park, Stepaside, Dublin 18",Dublin,625550.0,Yes,Stepaside,Dublin 18,q4,100%
+13/02/2019,"65 Belarmine Plaza, Ennisekerry Rd, Stepaside Dublin 18",Dublin,325000.0,No,Stepaside,Dublin 18,q2,50%
+15/02/2019,"37 Belarmine Vale, Enniskerry Rd, Stepaside Dublin 18",Dublin,415000.0,No,Stepaside,Dublin 18,q3,70%
+18/02/2019,"7 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,535000.0,No,Stepaside,Dublin 18,q4,90%
+20/02/2019,"13 Loftus Lane, Belmont  Aikens Village, Stepaside  Dublin",Dublin,593000.0,No,Stepaside,Dublin 18,q4,90%
+25/02/2019,"23 Belarmine Vale, Stepaside, Dublin 18",Dublin,420000.0,No,Stepaside,Dublin 18,q3,70%
+28/02/2019,"42 Littlewood, Belarmine Ave, Stepaside Dublin 18",Dublin,345000.0,No,Stepaside,Dublin 18,q2,50%
+05/03/2019,"Ballyedmonduff Lodge, Stepaside, Dublin 18",Dublin,760000.0,No,Stepaside,Dublin 18,q4,100%
+14/03/2019,"53C Wingfields, Enniskerry Road, Stepaside",Dublin,355000.0,No,Stepaside,Dublin 18,q3,60%
+15/03/2019,"1 Belarmine Vale, Stepaside, Dublin",Dublin,415000.0,No,Stepaside,Dublin 18,q3,70%
+15/03/2019,"14 Belarmine Way, Stepaside, Dublin 18",Dublin,270000.0,No,Stepaside,Dublin 18,q2,30%
+20/03/2019,"22 Belarmine Vale, Stepaside, Dublin",Dublin,287500.0,No,Stepaside,Dublin 18,q2,30%
+20/03/2019,"49 Belarmine Heath, Stepaside, Dublin 18",Dublin,424000.0,No,Stepaside,Dublin 18,q3,80%
+29/03/2019,"188 Stepaside Park, Stepaside, Dublin 18",Dublin,766519.82,Yes,Stepaside,Dublin 18,q4,100%
+01/04/2019,"42 Belarmine Vale, Stepaside, Dublin 18",Dublin,290000.0,No,Stepaside,Dublin 18,q2,40%
+08/04/2019,"96 The Rectory, Enniskerry Rd, Stepaside",Dublin,285000.0,No,Stepaside,Dublin 18,q2,30%
+15/04/2019,"44 Belarmine Court, Stepaside, Dublin 18",Dublin,500000.0,No,Stepaside,Dublin 18,q4,90%
+17/04/2019,"58D Belarmine Place, Stepaside Dublin 18, Dublin",Dublin,331000.0,No,Stepaside,Dublin 18,q2,50%
+18/04/2019,"6 Meadow Court, Stepaside Park, Stepaside Dublin 18",Dublin,315000.0,No,Stepaside,Dublin 18,q2,40%
+18/04/2019,"Garavhan, Burrow Road, Stepaside",Dublin,1118000.0,No,Stepaside,Dublin 18,q4,100%
+25/04/2019,"13 Belarmine Walk, Belarmine Woods, Enniskerry Road    Stepaside",Dublin,426000.0,No,Stepaside,Dublin 18,q3,80%
+25/04/2019,"7 The Maple, Cruagh Wood, Stepaside",Dublin,250000.0,No,Stepaside,Dublin 18,q1,30%
+25/04/2019,"9 Belarmine Way, Stepaside, Dublin 18",Dublin,470000.0,No,Stepaside,Dublin 18,q4,80%
+26/04/2019,"107 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,282000.0,No,Stepaside,Dublin 18,q2,30%
+03/05/2019,"4 Thornberry Road, Belmont, Stepaside",Dublin,462555.07,Yes,Stepaside,Dublin 18,q4,80%
+08/05/2019,"4 Loftus Close   Belmont, Aitkens Village, Stepaside",Dublin,540000.0,No,Stepaside,Dublin 18,q4,90%
+10/05/2019,"21 Cruagh Green, Cruagh Manor, Stepaside Dublin 18",Dublin,276000.0,No,Stepaside,Dublin 18,q2,30%
+10/05/2019,"9 Alderman Road, Aitkens Village, Stepaside",Dublin,520000.0,No,Stepaside,Dublin 18,q4,90%
+15/05/2019,"159 The Rectory, Stepaside, Dublin",Dublin,560000.0,No,Stepaside,Dublin 18,q4,90%
+15/05/2019,"171 Stepaside Park, Stepaside, Dublin 18",Dublin,568281.93,Yes,Stepaside,Dublin 18,q4,90%
+17/05/2019,"13 A Wingfield, Enniskerry Rd, Stepaside",Dublin,400000.0,No,Stepaside,Dublin 18,q3,70%
+17/05/2019,"28 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,535000.0,No,Stepaside,Dublin 18,q4,90%
+21/05/2019,"11 Belarmine Vale, Stepaside, Dublin 18",Dublin,420000.0,No,Stepaside,Dublin 18,q3,80%
+21/05/2019,"5 The Belfry, Enniskerry Road, Stepaside",Dublin,290000.0,No,Stepaside,Dublin 18,q2,40%
+22/05/2019,"2 Cruagh Green, Cruagh Manor, Stepaside",Dublin,340000.0,No,Stepaside,Dublin 18,q2,50%
+22/05/2019,"30 Cruagh Ave, Enniskerry Rd, Stepaside Dublin 18",Dublin,280000.0,No,Stepaside,Dublin 18,q2,30%
+24/05/2019,"51 Wingfield, Enniskerry Rd, Stepaside",Dublin,345000.0,No,Stepaside,Dublin 18,q2,50%
+24/05/2019,"6 Blackglen Heath, Belmont  Aiken'S Village, Stepaside",Dublin,491000.0,No,Stepaside,Dublin 18,q4,90%
+27/05/2019,"12 Stepaside Park, Stepaside, Dublin 18",Dublin,740000.0,No,Stepaside,Dublin 18,q4,100%
+28/05/2019,"45 Belarmine Vale, Stepaside, Dublin 18",Dublin,300000.0,No,Stepaside,Dublin 18,q2,40%
+30/05/2019,"47 Wingfield, Enniskerry Rd, Stepaside Dublin 18",Dublin,365000.0,No,Stepaside,Dublin 18,q3,60%
+31/05/2019,"Kulika, 16 Kilgobbin Lawn, Stepaside Dublin 18",Dublin,920000.0,No,Stepaside,Dublin 18,q4,100%
+05/06/2019,"88 The Rectory, Stepaside, Dublin 18",Dublin,311000.0,No,Stepaside,Dublin 18,q2,40%
+11/06/2019,"22 Cruagh Green, Cruagh Manor, Stepaside Dublin 18",Dublin,275000.0,No,Stepaside,Dublin 18,q2,30%
+12/06/2019,"168 Stepaside Park, Stepaside",Dublin,830000.0,Yes,Stepaside,Dublin 18,q4,100%
+12/06/2019,"6 The Cedar, Parkview, Stepaside",Dublin,210000.0,No,Stepaside,Dublin 18,q1,20%
+13/06/2019,"12 Belarmine Crescent, Stepaside, Dublin 18",Dublin,310000.0,No,Stepaside,Dublin 18,q2,40%
+13/06/2019,"93 Belarmine Plaza, Stepaside, Dublin 18",Dublin,220000.0,No,Stepaside,Dublin 18,q1,20%
+14/06/2019,"11 Blackglen Heath, Belmont, Aikens Village  Stepaside",Dublin,469000.0,No,Stepaside,Dublin 18,q4,80%
+14/06/2019,"36 Littlewood, Stepaside, Dublin",Dublin,320000.0,No,Stepaside,Dublin 18,q2,50%
+14/06/2019,"7 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,487500.0,No,Stepaside,Dublin 18,q4,90%
+14/06/2019,"8 The Willow, Stepaside, Parkview Appartments Dublin 18",Dublin,320000.0,No,Stepaside,Dublin 18,q2,50%
+14/06/2019,"Twayblade, Ballyedmonduff Road, Stepaside",Dublin,820000.0,No,Stepaside,Dublin 18,q4,100%
+20/06/2019,"11 Belarmine Park, Stepaside, Dublin 18",Dublin,310000.0,No,Stepaside,Dublin 18,q2,40%
+24/06/2019,"28 Belarmine Lawns, Belarmine Woods, Stepaside",Dublin,520000.0,No,Stepaside,Dublin 18,q4,90%
+01/07/2019,"9 Cruagh Rise, Cruagh Manor, Stepaside Dublin 18",Dublin,503000.0,No,Stepaside,Dublin 18,q4,90%
+02/07/2019,"15 Stepaside Park, Stepaside, Dublin 18",Dublin,796000.0,No,Stepaside,Dublin 18,q4,100%
+02/07/2019,"17 Belarmine Dr, Stepaside, Dublin 18",Dublin,454000.0,No,Stepaside,Dublin 18,q4,80%
+03/07/2019,"35 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,300000.0,No,Stepaside,Dublin 18,q2,40%
+10/07/2019,"51 The Rectory, Enniskerry Rd, Stepaside Dublin 18",Dublin,305000.0,No,Stepaside,Dublin 18,q2,40%
+10/07/2019,"88 Wingfield, Stepaside, Dublin",Dublin,556000.0,No,Stepaside,Dublin 18,q4,90%
+11/07/2019,"57 Stepaside Park, Stepaside, Dublin 18",Dublin,762500.0,No,Stepaside,Dublin 18,q4,100%
+12/07/2019,"137 Stepaside Park, Stepaside, Dublin 18",Dublin,770000.0,No,Stepaside,Dublin 18,q4,100%
+12/07/2019,"172 Stepaside Park, Stepaside",Dublin,585903.08,Yes,Stepaside,Dublin 18,q4,90%
+15/07/2019,"165 Stepaside Park, Stepaside",Dublin,748898.68,Yes,Stepaside,Dublin 18,q4,100%
+15/07/2019,"42 The Elm, Parkview, Stepaside",Dublin,293000.0,No,Stepaside,Dublin 18,q2,40%
+15/07/2019,"52 Kilgobbin Heights, Stepaside, Dublin 18",Dublin,660000.0,No,Stepaside,Dublin 18,q4,100%
+17/07/2019,"15 Belarmine Way, Stepaside, Dublin",Dublin,500000.0,No,Stepaside,Dublin 18,q4,90%
+18/07/2019,"6 Belarmine Grove, Belarmine Woods, Stepaside",Dublin,555066.0,Yes,Stepaside,Dublin 18,q4,90%
+19/07/2019,"47 Belarmine Drive, Belarmine Woods, Stepaside",Dublin,555066.0,Yes,Stepaside,Dublin 18,q4,90%
+19/07/2019,"48 Belarmine Drive, Belarmine Woods, Stepaside",Dublin,555066.08,Yes,Stepaside,Dublin 18,q4,90%
+19/07/2019,"50 Belarmine Drive, Belarmine Woods, Stepaside",Dublin,555066.0,Yes,Stepaside,Dublin 18,q4,90%
+23/07/2019,"13 Belarmine View, Belarmine Woods, Stepaside",Dublin,432500.0,Yes,Stepaside,Dublin 18,q3,80%
+24/07/2019,"15 Belarmine Hall, Stepaside, Dublin",Dublin,320000.0,No,Stepaside,Dublin 18,q2,50%
+24/07/2019,"9 Belarmine View, Belarmine Woods, Stepaside",Dublin,440528.0,Yes,Stepaside,Dublin 18,q3,80%
+24/07/2019,"No. 5 Alderman Road, Belmont  Aiken'S Village, Stepaside",Dublin,560000.0,No,Stepaside,Dublin 18,q4,90%
+25/07/2019,"11 Belarmine View, Stepaside, Dublin 18",Dublin,440528.0,Yes,Stepaside,Dublin 18,q3,80%
+25/07/2019,"5 The Courtyard, Stepaside Park, Stepaside Dublin 18",Dublin,460000.0,No,Stepaside,Dublin 18,q4,80%
+26/07/2019,"3 Woodside Demense, Aikens Village, Stepaside",Dublin,590000.0,No,Stepaside,Dublin 18,q4,90%
+26/07/2019,"59 The Ash, Park View, Stepaside Dublin 18",Dublin,225000.0,No,Stepaside,Dublin 18,q1,20%
+31/07/2019,"13 St Patricks Pk, Stepaside, Dublin 18",Dublin,430000.0,No,Stepaside,Dublin 18,q3,80%
+31/07/2019,"16 Meadow Court, Stepaside Park, Stepaside Dublin 18",Dublin,200000.0,No,Stepaside,Dublin 18,q1,20%
+31/07/2019,"49 Belarmine Drive, Belarmine Woods, Stepaside",Dublin,555066.08,Yes,Stepaside,Dublin 18,q4,90%
+31/07/2019,"7 Belarmine View, Belarmine Woods, Stepaside",Dublin,440528.0,Yes,Stepaside,Dublin 18,q3,80%
+06/08/2019,"2 Alderman Road, Aikens Village, Stepaside",Dublin,565000.0,No,Stepaside,Dublin 18,q4,90%
+08/08/2019,"17 Belarmine Crescent, Stepaside, Dublin 18",Dublin,421000.0,No,Stepaside,Dublin 18,q3,80%
+09/08/2019,"35F Belarmine Sq, Stepaside, Dublin",Dublin,251000.0,No,Stepaside,Dublin 18,q1,30%
+15/08/2019,"9 Belarmine Walk, Belarmine Woods, Stepaside",Dublin,500000.0,No,Stepaside,Dublin 18,q4,90%
+16/08/2019,"51 Belarmine Drive, Belarmine Woods, Stepaside",Dublin,579550.0,Yes,Stepaside,Dublin 18,q4,90%
+20/08/2019,"70 Littlewood, Belarmine, Stepaside",Dublin,330000.0,No,Stepaside,Dublin 18,q2,50%
+22/08/2019,"17 Glen Court, Stepaside Park, Stepaside Dublin 18",Dublin,430000.0,No,Stepaside,Dublin 18,q3,80%
+23/08/2019,"17 Belamarine View, Belamarine Woodsq, Stepaside",Dublin,427312.77,Yes,Stepaside,Dublin 18,q3,80%
+26/08/2019,"2G Belarmine Court, Stepaside, Dublin 18",Dublin,315000.0,No,Stepaside,Dublin 18,q2,40%
+28/08/2019,"21 Cruagh Court, Cruagh Manor, Stepaside Dublin 18",Dublin,285000.0,No,Stepaside,Dublin 18,q2,30%
+28/08/2019,"23 Belarmine View, Belermine Woods, Stepaside",Dublin,440528.0,Yes,Stepaside,Dublin 18,q3,80%
+29/08/2019,"27Belarmine View, Belarmine Woods, Stepaside",Dublin,440528.0,Yes,Stepaside,Dublin 18,q3,80%
+29/08/2019,"6 Cruagh Rise, Cruagh Manor, Stepaside Dublin 18",Dublin,350000.0,No,Stepaside,Dublin 18,q3,60%
+30/08/2019,"19 Belamine View, Belarmine Woods, Stepaside",Dublin,396500.0,Yes,Stepaside,Dublin 18,q3,70%
+05/09/2019,"1 Belamine View, Belarmine Woods, Stepaside",Dublin,546256.0,Yes,Stepaside,Dublin 18,q4,90%
+09/09/2019,"17 Fern Court, Stepaside Park, Dublin 18",Dublin,222000.0,No,Stepaside,Dublin 18,q1,20%
+09/09/2019,"3 Glen Court, Stepaside Park, Stepaside",Dublin,342500.0,No,Stepaside,Dublin 18,q2,50%
+10/09/2019,"34B Littlewood, Belarmine, Stepaside",Dublin,324500.0,No,Stepaside,Dublin 18,q2,50%
+10/09/2019,"87 Belarmine Plaza, Stepaside Dublin 18, Dublin",Dublin,245000.0,No,Stepaside,Dublin 18,q1,20%
+11/09/2019,"11 Belarmine Square, Enniskerry Road, Stepaside",Dublin,465000.0,No,Stepaside,Dublin 18,q4,80%
+12/09/2019,"31 Belarmine View, Belarmine Woods, Stepaside",Dublin,405286.0,Yes,Stepaside,Dublin 18,q3,70%
+16/09/2019,"3 The Elm, Parkview, Stepaside Dublin 18",Dublin,290000.0,No,Stepaside,Dublin 18,q2,40%
+18/09/2019,"1 St Patricks Park, Stepaside, Dublin 18",Dublin,460000.0,No,Stepaside,Dublin 18,q4,80%
+20/09/2019,"12 Belarmine Way, Stepaside, Dublin",Dublin,414000.0,No,Stepaside,Dublin 18,q3,70%
+20/09/2019,"29 Belarmine View, Belarmine Woods, Stepaside",Dublin,431700.0,Yes,Stepaside,Dublin 18,q3,80%
+20/09/2019,"Sark, 16 Belarmine Park, Stepaside",Dublin,915000.0,No,Stepaside,Dublin 18,q4,100%
+30/09/2019,"12 The Courtyard, Stepaside Park, Stepaside Dublin 18",Dublin,490000.0,No,Stepaside,Dublin 18,q4,90%
+30/09/2019,"14 Belarmine View, Belarmine Woods, Stepaside",Dublin,427312.77,Yes,Stepaside,Dublin 18,q3,80%
+30/09/2019,"35 Belarmine View, Belarmine Woods, Stepaside",Dublin,440529.0,Yes,Stepaside,Dublin 18,q3,80%
+01/10/2019,"21 Belarmine View, Belarmine Woods, Stepaside",Dublin,431718.06,Yes,Stepaside,Dublin 18,q3,80%
+03/10/2019,"18 Belarmine View, Belarmine Woods, Stepaside",Dublin,440529.0,Yes,Stepaside,Dublin 18,q4,80%
+04/10/2019,"Bracken Dale, Ballyedmonduff Rd, Stepaside Dublin 18",Dublin,1108000.0,No,Stepaside,Dublin 18,q4,100%
+09/10/2019,"12 Belarmine Vale, Stepaside, Dublin 18",Dublin,292000.0,No,Stepaside,Dublin 18,q2,40%
+14/10/2019,"13 Belarmine Close, Stepaside, Dublin 18",Dublin,525000.0,No,Stepaside,Dublin 18,q4,90%

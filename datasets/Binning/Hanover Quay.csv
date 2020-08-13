@@ -1,0 +1,117 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+26/02/2010,"Apartment 20, The Waterfront, Hanover Quay",Dublin,285000.0,Yes,Hanover Quay,Dublin 2,q1,30%
+01/03/2010,"Apartment 10, The Waterfront, Hanover Quay",Dublin,436366.0,Yes,Hanover Quay,Dublin 2,q2,40%
+15/03/2010,"Apartment 415, Longboat Quay South, Hanover Quay",Dublin,210000.0,No,Hanover Quay,Dublin 2,q1,20%
+23/04/2010,"Apartment 21, The Waterfront, Hanover Quay",Dublin,212000.0,No,Hanover Quay,Dublin 2,q1,20%
+30/04/2010,"Apartment 8 The Waterfront, Hanover Quay, Dublin 2",Dublin,250000.0,No,Hanover Quay,Dublin 2,q1,30%
+10/06/2010,"15 The Waterfront, Hanover Quay",Dublin,440000.0,Yes,Hanover Quay,Dublin 2,q2,40%
+18/06/2010,"Apartment 2, The Waterfront, Hanover Quay  Dublin 2",Dublin,205000.0,No,Hanover Quay,Dublin 2,q1,20%
+02/07/2010,"Unit 64  The Waterfront, Hanover Quay",Dublin,24050.65,Yes,Hanover Quay,Dublin 2,q1,10%
+23/07/2010,"Apartment 4  Ground Floor, Block 1  The Waterfront, Hanover Quay",Dublin,220000.0,Yes,Hanover Quay,Dublin 2,q1,20%
+31/08/2010,"Apartment 19, The Waterfront, Hanover Quay",Dublin,195000.0,No,Hanover Quay,Dublin 2,q1,20%
+17/09/2010,"55 The Waterfront, Hanover Quay",Dublin,249000.0,Yes,Hanover Quay,Dublin 2,q1,30%
+03/12/2010,"12  Block F Hanover Wharf, Hanover Quay",Dublin,100000.0,No,Hanover Quay,Dublin 2,q1,10%
+27/05/2011,"32 The Waterfront, Hanover Quay, Dublin 2",Dublin,185022.0,Yes,Hanover Quay,Dublin 2,q1,20%
+30/06/2011,"Apartment 133 Longboat Quay North, Hanover Quay",Dublin,225000.0,No,Hanover Quay,Dublin 2,q1,20%
+30/09/2011,"86 Grand Canal Residencies, Grand Canal Square, Hanover Quay",Dublin,160000.0,Yes,Hanover Quay,Dublin 2,q1,10%
+28/10/2011,"100 Grand Canal Residence, Grand Canal Square, Hanover Quay",Dublin,115000.0,No,Hanover Quay,Dublin 2,q1,10%
+11/11/2011,"Apt. 401 Longboat Quay South, Hanover Quay",Dublin,125000.0,No,Hanover Quay,Dublin 2,q1,10%
+20/12/2011,"96  Grand Canal Residences, Grand Canal Square, Hanover Quay",Dublin,107000.0,No,Hanover Quay,Dublin 2,q1,10%
+21/12/2011,"85 Grand Canal Residence, Grand Cancal Square, Hanover Quay",Dublin,145000.0,No,Hanover Quay,Dublin 2,q1,10%
+23/12/2011,"89  Grand Canal Residence, Grand Canal Sq, Hanover Quay",Dublin,155000.0,No,Hanover Quay,Dublin 2,q1,10%
+03/01/2012,"No. 91 Grand Canal Residences, Grand Canal Harbour, Hanover Quay",Dublin,160000.0,Yes,Hanover Quay,Dublin 2,q1,10%
+15/03/2012,"105 Grand Canal Residences, Grand Canal Sq, Hanover Quay",Dublin,220000.0,No,Hanover Quay,Dublin 2,q1,20%
+04/08/2012,"Apartment 24, The Waterfront, Hanover Quay",Dublin,229448.0,Yes,Hanover Quay,Dublin 2,q1,20%
+04/08/2012,"Apartment 48, The Waterfront, Hanover Quay",Dublin,236733.0,Yes,Hanover Quay,Dublin 2,q1,20%
+04/08/2012,"Apartment 59, The Waterfront, Hanover Quay",Dublin,244018.0,Yes,Hanover Quay,Dublin 2,q1,30%
+27/08/2012,"95 Grand Canal, Residence  Grand Canal Square, Hanover Quay",Dublin,190000.0,No,Hanover Quay,Dublin 2,q1,20%
+23/11/2012,"Apartment 1, The Waterfront, Hanover Quay",Dublin,89000.0,No,Hanover Quay,Dublin 2,q1,10%
+19/12/2012,"Apartment 6  Block F, Hanover Wharf, Hanover Quay",Dublin,275000.0,No,Hanover Quay,Dublin 2,q1,30%
+25/01/2013,"Apartment 1, Hanover Dock, Hanover Quay",Dublin,350000.0,No,Hanover Quay,Dublin 2,q2,40%
+09/07/2013,"Apartment 47, Hanover Dock, Hanover Quay",Dublin,288000.0,No,Hanover Quay,Dublin 2,q2,30%
+10/09/2013,"Apartment 62, The Waterfront, Hanover Quay",Dublin,492780.0,No,Hanover Quay,Dublin 2,q2,50%
+16/09/2013,"22 Block H, Hanover Quarter, Hanover Quay",Dublin,297100.0,No,Hanover Quay,Dublin 2,q2,30%
+24/04/2014,"44 Hanover Dock, Hanover Quay, Dublin 2",Dublin,496200.0,No,Hanover Quay,Dublin 2,q2,50%
+14/05/2014,"34 Block C Hanover Dock, Hanover Quay, Dublin 2",Dublin,510000.0,No,Hanover Quay,Dublin 2,q2,50%
+24/06/2014,"68 Hanover Dock, Hanover Quay, Dublin 2",Dublin,165000.0,No,Hanover Quay,Dublin 2,q1,20%
+30/06/2014,"Apt 27 Block B, Hanover Dock, Hanover Quay Dublin 2",Dublin,1100000.0,No,Hanover Quay,Dublin 2,q4,100%
+24/07/2014,"Apartments 1-12 Marker Residences, Grand Canal Square, Hanover Quay",Dublin,5752466.4,No,Hanover Quay,Dublin 2,q4,100%
+24/07/2014,"Apartments 13-24 Marker Residences, Grand Canal Square, Hanover Quay",Dublin,5752466.4,No,Hanover Quay,Dublin 2,q4,100%
+24/07/2014,"Apartments 25-36 Marker Residences, Grand Canal Square, Hanover Quay",Dublin,5752466.4,No,Hanover Quay,Dublin 2,q4,100%
+24/07/2014,"Apartments 37-48 Marker Residences, Grand Canal Square, Hanover Quay",Dublin,5752466.4,No,Hanover Quay,Dublin 2,q4,100%
+24/07/2014,"Apartments 49-60 Marker Residences, Grand Canal Square, Hanover Quay",Dublin,5752466.4,No,Hanover Quay,Dublin 2,q4,100%
+24/07/2014,"Apartments 61-72 Marker Residences, Grand Canal Square, Hanover Quay",Dublin,5752466.4,No,Hanover Quay,Dublin 2,q4,100%
+24/07/2014,"Apartments 73-84 Marker Residences, Grand Canal Square, Hanover Quay",Dublin,5752466.4,No,Hanover Quay,Dublin 2,q4,100%
+14/08/2014,"4 Hanover Dock, Hanover Quay",Dublin,525000.0,No,Hanover Quay,Dublin 2,q3,60%
+13/11/2014,"9 Hanover Quay, Dublin 2",Dublin,110000.0,No,Hanover Quay,Dublin 2,q1,10%
+09/12/2014,"22 Hanover Wharf, Hanover Quay, Dublin 2",Dublin,352000.0,No,Hanover Quay,Dublin 2,q2,40%
+10/12/2014,"30 The Waterfront, Hanover Quay, Dublin 2",Dublin,455000.0,No,Hanover Quay,Dublin 2,q2,50%
+15/12/2014,"12 Hanover Quarter, Hanover Quay, Dublin 2",Dublin,460000.0,No,Hanover Quay,Dublin 2,q2,50%
+16/12/2014,"Apartment 7  Block A, Hanover Dock, Hanover Quay",Dublin,572000.0,No,Hanover Quay,Dublin 2,q3,70%
+20/01/2015,"83 Hanover Dock, Hanover Quay, Dublin 2",Dublin,530000.0,No,Hanover Quay,Dublin 2,q3,60%
+10/03/2015,"49 Hanover Dock Hanover Quay, Dublin 2, Dublin",Dublin,533500.0,No,Hanover Quay,Dublin 2,q3,60%
+13/03/2015,"19 Hanover Dock, Hanover Quay, Dublin 2",Dublin,330000.0,No,Hanover Quay,Dublin 2,q2,30%
+03/06/2015,"104 Longboat Quay South, Hanover Quay, Dublin 2",Dublin,400000.0,No,Hanover Quay,Dublin 2,q2,40%
+09/06/2015,"40 Hanover Dock, Hanover Quay, Dublin 2",Dublin,567000.0,No,Hanover Quay,Dublin 2,q3,70%
+30/06/2015,"8 Hanover Wharf, Hanover Quay, Dublin 2",Dublin,450000.0,No,Hanover Quay,Dublin 2,q2,50%
+30/06/2015,"Unit 64 The Waterfront, Hanover Quay, Dublin City",Dublin,680000.0,No,Hanover Quay,Dublin 2,q4,90%
+10/07/2015,"47 The Waterfront, Hanover Quay, Dublin 2",Dublin,560000.0,No,Hanover Quay,Dublin 2,q3,60%
+23/07/2015,"99 Hanover Dock, Hanover Quay, Dublin 2",Dublin,725000.0,No,Hanover Quay,Dublin 2,q4,90%
+12/08/2015,"64 Hanover Dock, Hanover Quay",Dublin,292500.0,No,Hanover Quay,Dublin 2,q2,30%
+23/10/2015,"59 Block D, Hanover Quay, Dublin 2",Dublin,445000.0,No,Hanover Quay,Dublin 2,q2,50%
+23/10/2015,"Apt. 26 The Waterfront, Hanover Quay, Dublin 2",Dublin,600000.0,No,Hanover Quay,Dublin 2,q3,70%
+20/11/2015,"13 Hanover Dock, Hanover Quay, Dublin 2",Dublin,1361550.0,No,Hanover Quay,Dublin 2,q4,100%
+27/11/2015,"19H Hanover Quarter, Hanover Quay, Asgard Rd Dublin 2",Dublin,477000.0,No,Hanover Quay,Dublin 2,q2,50%
+24/12/2015,"Apt 15 Block B, Hanover Dock, Hanover Quay",Dublin,550000.0,No,Hanover Quay,Dublin 2,q3,60%
+24/12/2015,"Apt 3 Block A, Hanover Dock, Hanover Quay",Dublin,550000.0,No,Hanover Quay,Dublin 2,q3,60%
+16/06/2016,"61 Hanover Dock, Hanover Quay, Dublin 2",Dublin,515000.0,No,Hanover Quay,Dublin 2,q2,50%
+06/09/2016,"Apt 20, Hanover Quarter, Hanover Quay Dublin 2",Dublin,485000.0,No,Hanover Quay,Dublin 2,q2,50%
+21/10/2016,"25 The Waterfront, 5 7 Hanover Quay, Dublin 2",Dublin,625000.0,No,Hanover Quay,Dublin 2,q3,80%
+19/12/2016,"Apt 66 Block D, Hanover Dock, Hanover Quay Dublin 2",Dublin,530000.0,No,Hanover Quay,Dublin 2,q3,60%
+12/04/2017,"Apt 28 Building K, Hanover Quay, Dublin 2",Dublin,550000.0,No,Hanover Quay,Dublin 2,q3,60%
+28/04/2017,"Apt 67  Block D, Hanover Quay, Dublin 2",Dublin,565000.0,No,Hanover Quay,Dublin 2,q3,60%
+04/07/2017,"39 Hanover Dock, Hanover Quay, Dublin 2",Dublin,667000.0,No,Hanover Quay,Dublin 2,q4,80%
+14/07/2017,"49 The Waterfront, 5 7 Hanover Quay, Dublin 2",Dublin,721300.0,No,Hanover Quay,Dublin 2,q4,90%
+28/07/2017,"Apt 51, The Waterfront, Hanover Quay",Dublin,707500.0,No,Hanover Quay,Dublin 2,q4,90%
+15/09/2017,"10 Hanover Quarter, Hanover Quay, Dublin 2",Dublin,415000.0,No,Hanover Quay,Dublin 2,q2,40%
+13/10/2017,"Apt 81, Block M, Hanover Quay Dublin 2",Dublin,385000.0,No,Hanover Quay,Dublin 2,q2,40%
+27/10/2017,"70 Hanover Dock, Hanover Quay, Dublin 2",Dublin,565000.0,No,Hanover Quay,Dublin 2,q3,70%
+27/10/2017,"Apt 58 Block D, Hanover Quay, Forbes St",Dublin,575000.0,No,Hanover Quay,Dublin 2,q3,70%
+31/10/2017,"2 Hanover Dock, Hanover Quay, Dublin 1",Dublin,500000.0,No,Hanover Quay,Dublin 2,q2,50%
+22/12/2017,"30 The Waterfront, Hanover Quay, Dublin 2",Dublin,540000.0,No,Hanover Quay,Dublin 2,q3,60%
+26/01/2018,"S419 Longboat Quay South, Hanover Quay, Dublin 2",Dublin,431000.0,No,Hanover Quay,Dublin 2,q2,40%
+01/02/2018,"28 Hanover Dock, Hanover Quay, Dublin 2",Dublin,1500000.0,No,Hanover Quay,Dublin 2,q4,100%
+06/04/2018,"53 Hanover Dock, Hanover Quay, Forbes St Dublin 2",Dublin,530000.0,No,Hanover Quay,Dublin 2,q3,60%
+17/04/2018,"Apt 9 The Waterfront, Hanover Quay, Dublin 2",Dublin,655000.0,No,Hanover Quay,Dublin 2,q4,80%
+31/05/2018,"Apt 204, Longboat Quay South, Hanover Quay Dublin 2",Dublin,317000.0,No,Hanover Quay,Dublin 2,q2,30%
+17/07/2018,"31 Hanover Dock, Hanover Quay, Dublin 2",Dublin,600000.0,No,Hanover Quay,Dublin 2,q3,70%
+17/07/2018,"42 The Waterfront, Hanover Quay, Dublin 2",Dublin,85000.0,No,Hanover Quay,Dublin 2,q1,10%
+20/07/2018,"1 The Waterfront, Hanover Quay, Dublin 2",Dublin,360000.0,No,Hanover Quay,Dublin 2,q2,40%
+21/09/2018,"11 Hanover Wharf, Hanover Quay, Dublin 2",Dublin,670000.0,No,Hanover Quay,Dublin 2,q4,80%
+28/09/2018,"Apt 17 Hanover Quarter, Asgard Rd, Hanover Quay Dublin 2",Dublin,710000.0,No,Hanover Quay,Dublin 2,q4,90%
+16/10/2018,"94 Hanover Dock, Hanover Quay, Dublin 2",Dublin,600000.0,No,Hanover Quay,Dublin 2,q3,70%
+18/10/2018,"Apt 38, The Waterfront, Hanover Quay",Dublin,736000.0,No,Hanover Quay,Dublin 2,q4,90%
+23/11/2018,"Apt 29 Hanover Quay, Hanover Dock, Dublin 2",Dublin,675000.0,No,Hanover Quay,Dublin 2,q4,90%
+19/12/2018,"Apt 48, The Waterfront, Hanover Quay",Dublin,740000.0,No,Hanover Quay,Dublin 2,q4,90%
+20/12/2018,"26 Hanover Dock, Hanover Quay, Dublin 2",Dublin,660000.0,No,Hanover Quay,Dublin 2,q4,80%
+21/12/2018,"68 Hanover Quay, Dublin 2",Dublin,415000.0,No,Hanover Quay,Dublin 2,q2,40%
+20/02/2019,"Apt 23 The Water Front, Hanover Quay, Dublin 2",Dublin,690000.0,No,Hanover Quay,Dublin 2,q4,90%
+26/04/2019,"15 Hanover Quarter, Hanover Quay, Dublin 2",Dublin,595000.0,No,Hanover Quay,Dublin 2,q3,70%
+01/05/2019,"91 Hanover Dock, Hanover Quay, Dublin 2",Dublin,680000.0,No,Hanover Quay,Dublin 2,q4,90%
+17/06/2019,"Apt 46, Hanover Dock, Hanover Quay Dublin 2",Dublin,590000.0,No,Hanover Quay,Dublin 2,q3,70%
+24/06/2019,"Apt 3, Forbes St, Hanover Quay Dublin 2",Dublin,620000.0,No,Hanover Quay,Dublin 2,q3,80%
+28/06/2019,"6 Hanover Quay, Dublin 2",Dublin,84420800.0,Yes,Hanover Quay,Dublin 2,q4,100%
+17/07/2019,"59 The Water Front, 5-7 Hanover Quay, Dublin 2",Dublin,720000.0,No,Hanover Quay,Dublin 2,q4,90%
+19/07/2019,"65 Hanover Dock, Hanover Quay, Dublin 2",Dublin,580000.0,No,Hanover Quay,Dublin 2,q3,70%
+13/08/2019,"Apt 517 Longboat Quay South, Hanover Quay, Dublin 2",Dublin,550000.0,No,Hanover Quay,Dublin 2,q3,60%
+15/08/2019,"Apt S416 Longboat Quay South, Hanover Quay, Dublin 2",Dublin,338500.0,No,Hanover Quay,Dublin 2,q2,30%
+29/08/2019,"Apt 66 Block D, Hanover Dock, Hanover Quay Dublin 2",Dublin,590000.0,No,Hanover Quay,Dublin 2,q3,70%
+04/09/2019,"Apt 33 Hanover Court, Hanover Quay",Dublin,629900.0,Yes,Hanover Quay,Dublin 2,q3,80%
+05/09/2019,"40 Hanover Court, Hanover Quay",Dublin,775000.0,Yes,Hanover Quay,Dublin 2,q4,100%
+05/09/2019,"Apartment 39 Hanover Court, Hanover Quay",Dublin,660792.0,Yes,Hanover Quay,Dublin 2,q4,80%
+12/09/2019,"10 Hanover Court, Hanover Quay",Dublin,621145.0,Yes,Hanover Quay,Dublin 2,q3,80%
+17/09/2019,"Apt 2 Hanover Court, Hanover Quay, Dublin 2",Dublin,603524.0,Yes,Hanover Quay,Dublin 2,q3,80%
+19/09/2019,"5 Hanover Court, Hanover Quay, Dublin 2",Dublin,427313.0,Yes,Hanover Quay,Dublin 2,q2,40%
+24/09/2019,"12 Hanover Court, Hanover Quay",Dublin,629996.0,Yes,Hanover Quay,Dublin 2,q3,80%
+01/10/2019,"Apt 35 Hanover Court, Hanover Quay",Dublin,643171.81,Yes,Hanover Quay,Dublin 2,q4,80%
+09/10/2019,"3 Hanover Court, Hanover Quay, Dublin 2",Dublin,436123.0,Yes,Hanover Quay,Dublin 2,q2,40%

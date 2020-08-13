@@ -1,0 +1,1422 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+14/01/2010,"Apt 348 Carrington Park, Northwood, Santry",Dublin,356827.0,Yes,Santry,Dublin 9,q4,90%
+27/01/2010,"38 Shanowen Avenue, Santry",Dublin,285000.0,No,Santry,Dublin 9,q3,80%
+29/01/2010,"30  Oaklawn, Santry, Dublin",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+29/01/2010,"37 Heywood Court, Santry",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+29/01/2010,"52 Shanglas Road, Brookville Estate, Santry",Dublin,335000.0,No,Santry,Dublin 9,q4,90%
+03/02/2010,"7 Shanowen Drive, Santry, Dublin",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+05/02/2010,"38 Aulden Grange, Santry",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+12/02/2010,"57 Geraldstown Wood, Santry, Dublin",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+16/02/2010,"28 Shanvarna Road, Santry",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+26/02/2010,"30 Santry Court, Santry",Dublin,280000.0,No,Santry,Dublin 9,q3,70%
+09/03/2010,"177 Parklands, Northwood, Santry",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+11/03/2010,"206 Shanliss, Santry",Dublin,420000.0,No,Santry,Dublin 9,q4,100%
+11/03/2010,"Apartment No. 127 Carrington Park, Northwood, Santry  Dublin 9",Dublin,280000.0,Yes,Santry,Dublin 9,q3,70%
+08/04/2010,"77 Shanliss Road, Santry",Dublin,255000.0,No,Santry,Dublin 9,q3,70%
+14/04/2010,"50 Shanowen Grove, Santry",Dublin,310000.0,No,Santry,Dublin 9,q4,80%
+28/04/2010,"Apartment 12, Carrington Park  Northwood, Santry",Dublin,210000.0,Yes,Santry,Dublin 9,q2,50%
+29/04/2010,"171 Aulden Grange, Santry, Dublin 9",Dublin,255000.0,No,Santry,Dublin 9,q3,70%
+29/04/2010,"9 Oak Park Grove, Santry, Dublin 9",Dublin,175500.0,No,Santry,Dublin 9,q2,40%
+14/05/2010,"Apt. 50 Lymewood Mews, Northwood, Santry",Dublin,10000.0,No,Santry,Dublin 9,q1,10%
+18/05/2010,"49 Shanliss Road, Santry",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+21/05/2010,"2 Oakpark Avenue, Santry",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+27/05/2010,"15, Shanowen Avenue, Santry",Dublin,262500.0,No,Santry,Dublin 9,q3,70%
+27/05/2010,"Apartment 190 Block E, Carrington Park, Northwood  Santry",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+28/05/2010,"113 Shanard Road, Santry, Dublin 9",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+08/06/2010,"14 Lorcan Avenue, Santry",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+09/06/2010,"11 Shanliss Road, Santry",Dublin,223000.0,No,Santry,Dublin 9,q3,60%
+11/06/2010,"32 Shanrath Road, Santry",Dublin,367500.0,No,Santry,Dublin 9,q4,100%
+24/06/2010,"118 Aulden Grange, Santry",Dublin,270000.0,No,Santry,Dublin 9,q3,70%
+25/06/2010,"50 Shanvarna Road, Santry",Dublin,243500.0,No,Santry,Dublin 9,q3,60%
+28/06/2010,"66 Shanliss Way, Santry, Dublin 9",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+29/06/2010,"30 Shanard Avenue, Santry",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+09/07/2010,"41 Santry Court, Santry",Dublin,307000.0,No,Santry,Dublin 9,q4,80%
+09/07/2010,"69 Lorcan Avenue, Santry",Dublin,222000.0,No,Santry,Dublin 9,q3,60%
+13/07/2010,"8 Shanowen Grove, Santry",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+21/07/2010,"31 Turnapin Cottages, Santry, Dublin 9",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+27/07/2010,"52 Lorcan Grove, Santry, Dublin 9",Dublin,255000.0,No,Santry,Dublin 9,q3,70%
+04/08/2010,"101 The Cedars, Carrington Park, Northwood Santry",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+07/08/2010,"109 Auden Grange, Santry",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+13/08/2010,"21 Lorcan Avenue, Santry",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+25/08/2010,"16 Shanowen Avenue, Santry, Dublin 9",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+25/08/2010,"Apt 169 Block C, Lymewood Mews, Northwood Santry",Dublin,140000.0,No,Santry,Dublin 9,q1,20%
+26/08/2010,"6 Woodlawn Close, Santry",Dublin,312000.0,No,Santry,Dublin 9,q4,80%
+27/08/2010,"46 Domville Woods, Santry, Dublin 9",Dublin,172000.0,No,Santry,Dublin 9,q2,40%
+06/09/2010,"53 Santry Close, Santry",Dublin,316000.0,No,Santry,Dublin 9,q4,80%
+06/09/2010,"67 Temple Gardens, Santry, Dublin 9",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+10/09/2010,"23 Lorcan Green, Santry",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+10/09/2010,"51 Domville Woods, Santry Demesne",Dublin,152000.0,Yes,Santry,Dublin 9,q1,30%
+21/09/2010,"43 Lorcan Anenue, Santry",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+21/09/2010,"80 Shanliss Road, Santry",Dublin,280000.0,No,Santry,Dublin 9,q3,70%
+24/09/2010,"1 Santry Court, Santry",Dublin,328000.0,No,Santry,Dublin 9,q4,90%
+24/09/2010,"114 Limewood Mews, Northwood, Santry",Dublin,220000.0,No,Santry,Dublin 9,q2,50%
+28/09/2010,"17 Woodlawn Green, Santry",Dublin,2930000.0,No,Santry,Dublin 9,q4,100%
+01/10/2010,"21 Shanliss Road, Santry",Dublin,242500.0,No,Santry,Dublin 9,q3,60%
+06/10/2010,"70 Kilkee House, Clare Village, Santry",Dublin,147000.0,No,Santry,Dublin 9,q1,20%
+15/10/2010,"67 Domville Woods, Santry Demesne, .",Dublin,160000.0,Yes,Santry,Dublin 9,q2,30%
+29/10/2010,"17  Shanliss Avenue, Santry",Dublin,267000.0,No,Santry,Dublin 9,q3,70%
+05/11/2010,"41  Lorcan Park, Santry, Dublin 9",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+19/11/2010,"135 Shanliss Avenue, Santry",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+10/12/2010,"255 Parklands, Northwood, Santry",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+15/12/2010,"20 Shanard Avenue, Santry",Dublin,255000.0,No,Santry,Dublin 9,q3,70%
+31/01/2011,"31 Lorcan Park, Santry",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+07/02/2011,"Apartment 194  Parklands, Northwood, Santry",Dublin,157500.0,No,Santry,Dublin 9,q2,30%
+21/02/2011,"20  Oak Lawns, Santry",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+21/02/2011,"6 Shanowen Park, Santry",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+24/02/2011,"Apartment 29  Block F, Milner'S Square, Shanowen Road  Santry",Dublin,125475.28,Yes,Santry,Dublin 9,q1,20%
+01/03/2011,"1 Shanliss Way, Santry, Dublin 9",Dublin,297500.0,No,Santry,Dublin 9,q3,80%
+04/03/2011,"22 Milners Square, Santry",Dublin,189427.31,Yes,Santry,Dublin 9,q2,40%
+04/03/2011,"83 Block B Parklands, Northwood, Santry",Dublin,250000.0,No,Santry,Dublin 9,q3,60%
+07/03/2011,"Apartment 31 Block F, Milners Square, Shanowen Road Santry",Dublin,195000.0,Yes,Santry,Dublin 9,q2,40%
+08/03/2011,"Apartment 52  Block F, Milners Square, Shanowen Road  Santry",Dublin,149818.5,Yes,Santry,Dublin 9,q1,30%
+09/03/2011,"32  Magenta Crescent, Santry",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+21/03/2011,"10 Crestfield Park, Santry, Dublin",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+23/03/2011,"15 Shanowen Drive, Santry, Dublin 9",Dublin,248000.0,No,Santry,Dublin 9,q3,60%
+13/04/2011,"Apt 39 Block F, Milner'S Square, Santry",Dublin,165000.0,Yes,Santry,Dublin 9,q2,30%
+14/04/2011,"15 Santry Villas, Santry",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+21/04/2011,"45 Shanard Road, Santry",Dublin,220000.0,No,Santry,Dublin 9,q2,50%
+21/04/2011,"Apt 27 Block F, Milners Square, Santry",Dublin,166519.82,Yes,Santry,Dublin 9,q2,30%
+09/05/2011,"Apartment 40 Block F, Milners Square, Shanowen Road  Santry",Dublin,169000.0,Yes,Santry,Dublin 9,q2,30%
+17/05/2011,"37 Shanrath Road, Santry",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+19/05/2011,"15 Lorcan Park, Santry, Dublin 9",Dublin,248000.0,No,Santry,Dublin 9,q3,60%
+19/05/2011,"29 Shanliss Drive, Santry, Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+20/05/2011,"42 Shanowen Road, Santry",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+20/05/2011,"Apartment 19 Block Fmilners Square, Shanowen Road, Santry",Dublin,164462.82,Yes,Santry,Dublin 9,q2,30%
+03/06/2011,"24 Shanowne Drive, Santry",Dublin,264000.0,No,Santry,Dublin 9,q3,70%
+20/06/2011,"18 Temple Lawns, Northwood, Santry",Dublin,140000.0,No,Santry,Dublin 9,q1,20%
+27/06/2011,"60 Shanard Avenue, Santry",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+30/06/2011,"167 Aulden Grange, Santry, Dublin 9",Dublin,262500.0,No,Santry,Dublin 9,q3,70%
+01/07/2011,"138 Aulden Grange, Santry, Dublin 9",Dublin,223500.0,No,Santry,Dublin 9,q3,60%
+01/07/2011,"63 Aulden Grange, Santry",Dublin,270000.0,No,Santry,Dublin 9,q3,70%
+05/07/2011,"75 Aulden Grange, Santry, Dublin",Dublin,285000.0,No,Santry,Dublin 9,q3,80%
+08/07/2011,"34 Milner Square, Shanowen Road, Santry",Dublin,173577.09,Yes,Santry,Dublin 9,q2,40%
+14/07/2011,"49 Shanliss Road, Santry, Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+03/08/2011,"88 Shanliss Way, Santry",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+09/08/2011,"128 Shanliss Avenue, Santry",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+12/08/2011,"Apt 34  The Green, Larchill, Santry",Dublin,120000.0,No,Santry,Dublin 9,q1,10%
+24/08/2011,"19B Santry Villas, Santry, Dublin 9",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+05/09/2011,"164 Shanliss Road, Santry",Dublin,217500.0,No,Santry,Dublin 9,q2,50%
+07/09/2011,"Apartment 43  Blockf, Millners Square  Santry, Dublin 9",Dublin,180000.0,Yes,Santry,Dublin 9,q2,40%
+28/09/2011,"31 Shanowen Grove, Santry",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+05/10/2011,"11 Magents Crescent, Santry, Dublin",Dublin,60000.0,No,Santry,Dublin 9,q1,10%
+12/10/2011,"10 Shanliss Walk, Santry",Dublin,131000.0,No,Santry,Dublin 9,q1,20%
+14/10/2011,"30 Shanowen Park, Santry",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+14/10/2011,"9 Shanliss Road, Santry",Dublin,198000.0,No,Santry,Dublin 9,q2,40%
+14/10/2011,"Apartment 60, Geraldstown Woods, Santry Avenue  Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+17/10/2011,"1 Shanowen Avenue, Santry, Dublin",Dublin,187500.0,No,Santry,Dublin 9,q2,40%
+19/10/2011,"27 Shantalla Drive, Santry",Dublin,185000.0,No,Santry,Dublin 9,q2,40%
+20/10/2011,"Apartment 53, Geraldstown Woods, Santry Avenue",Dublin,75000.0,No,Santry,Dublin 9,q1,10%
+21/10/2011,"14 The Green, Larch Hill, Santry",Dublin,114000.0,No,Santry,Dublin 9,q1,10%
+28/10/2011,"112 Aulden Grange, Santry",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+28/10/2011,"74 Santry Close, Santry",Dublin,223000.0,No,Santry,Dublin 9,q3,60%
+11/11/2011,"73 Shanowen Grove, Santry, Dublin",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+15/11/2011,"276 Parklands, Santry",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+16/11/2011,"23 Old Town Avenue, Santry, Dublin 9",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+16/11/2011,"259 Collins Avenue, Santry",Dublin,360000.0,No,Santry,Dublin 9,q4,90%
+16/11/2011,"6 Shanowen Avenue, Santry",Dublin,165000.0,No,Santry,Dublin 9,q2,30%
+01/12/2011,"8 Oak Park Grove, Santry, Dublin 9",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+02/12/2011,"3 Woodlawn Grove, Santry",Dublin,217000.0,No,Santry,Dublin 9,q2,50%
+02/12/2011,"30 Oak Court, Santry",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+07/12/2011,"42 Lorcan Crescent, Santry, Dublin 9",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+14/12/2011,"6 The Green, Larch Hill, Santry",Dublin,120000.0,No,Santry,Dublin 9,q1,10%
+15/12/2011,"1 Ailesbury, Shanowen Road, Santry",Dublin,255000.0,No,Santry,Dublin 9,q3,70%
+16/12/2011,"49 Santry Close, Santry",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+16/12/2011,"Apartment 42 The Court, Larchill, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+20/12/2011,"29 Lorcan Park, Santry",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+22/12/2011,"1 Oak Green, Royal Oaks, Santry",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+03/01/2012,"182 Santry Close, Santry",Dublin,360000.0,No,Santry,Dublin 9,q4,90%
+13/01/2012,"138 Santry Close, Santry",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+13/01/2012,"21 Aulden Grange, Santry, Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+18/01/2012,"6 Templecourt, Northwood, Santry",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+23/01/2012,"Milner'S Square, Shanowen Road, Santry",Dublin,8000000.0,Yes,Santry,Dublin 9,q4,100%
+14/02/2012,"83 Shanliss Road, Santry, Dublin 9",Dublin,170000.0,No,Santry,Dublin 9,q2,30%
+29/02/2012,"15 Burnside, Magenta Crescent, Santry",Dublin,179950.0,No,Santry,Dublin 9,q2,40%
+14/03/2012,"27  Shanliss Walk, Santry",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+04/04/2012,"27 Shanowen, Avenue, Santry",Dublin,185000.0,No,Santry,Dublin 9,q2,40%
+04/04/2012,"96 Shantalla Road, Santry, Dublin 9",Dublin,185000.0,No,Santry,Dublin 9,q2,40%
+18/04/2012,"90, Shanard Road, Santry",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+23/04/2012,"14  Shanowen Road, Santry",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+03/05/2012,"17 Woodlawn Walk, Santry, Dublin 9",Dublin,263000.0,No,Santry,Dublin 9,q3,70%
+04/05/2012,"Apt 63 Block D, Hazelwood, Northwood Santry",Dublin,76000.0,No,Santry,Dublin 9,q1,10%
+11/05/2012,"Apartment 18, Block F  Milners Square, Shanowen Road  Santry",Dublin,183000.0,No,Santry,Dublin 9,q2,40%
+14/05/2012,"19 Oak Grove, Santry",Dublin,185000.0,No,Santry,Dublin 9,q2,40%
+21/05/2012,"46 Oakpark Avenue, Santry",Dublin,150000.0,No,Santry,Dublin 9,q1,30%
+08/06/2012,"3 Shanliss Drive, Santry, Dublin 9",Dublin,216500.0,No,Santry,Dublin 9,q2,50%
+13/06/2012,"192 Larkhill Road, Santry, Dublin 9",Dublin,105102.0,No,Santry,Dublin 9,q1,10%
+14/06/2012,"33 Shanglas Road, Santry",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+14/06/2012,"63 Lorcan Road, Santry",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+19/06/2012,"29 Shanowen Crescent, Santry",Dublin,166000.0,No,Santry,Dublin 9,q2,30%
+22/06/2012,"99 Shanliss Avenue, Santry",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+29/06/2012,"15 Shanowen Crescent, Santry, Dublin",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+06/07/2012,"14  The Claremont, Santry Cross, Dublin 9",Dublin,196181.64,No,Santry,Dublin 9,q2,40%
+11/07/2012,"31 Shanard Avenue, Santry, Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+26/07/2012,"135 Shantalla Road, Santry, Dublin 9",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+27/07/2012,"18 Shanglass Road, Santry",Dublin,249000.0,No,Santry,Dublin 9,q3,60%
+27/07/2012,"25 Shanliss Drive, Santry",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+01/08/2012,"40 Shanliss Road, Santry",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+01/08/2012,"55 Oak Rise, Royal Oak, Santry",Dublin,227000.0,No,Santry,Dublin 9,q3,60%
+08/08/2012,"Apt 37  Milners Square, Shanowen Road, Santry",Dublin,145375.0,Yes,Santry,Dublin 9,q1,20%
+16/08/2012,"79 Heywood Court, Santry",Dublin,122000.0,No,Santry,Dublin 9,q1,20%
+12/09/2012,"Apt 27, Lymewood Mews, Northwood  Santry",Dublin,125000.0,No,Santry,Dublin 9,q1,20%
+19/09/2012,"42, Shanard Avenue, Santry",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+24/09/2012,"26 Woodlawn Park, Santry, Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+26/09/2012,"141 Aulden Grange, Santry",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+10/10/2012,"33 Oak Rise, Royal Oak, Santry",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+12/10/2012,"102 Lorcan Crescent, Santry",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+25/10/2012,"6 Oak Lawn, Royal Oak, Santry",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+02/11/2012,"15 Oak Rise, Santry, Dublin 9",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+13/11/2012,"3 Oak Park Grove, Santry, Dublin 9",Dublin,170000.0,No,Santry,Dublin 9,q2,30%
+16/11/2012,"Apartment 80, Block 3 Parklands, Santry",Dublin,82500.0,No,Santry,Dublin 9,q1,10%
+27/11/2012,"47 Shanrath Road, Santry, Dublin 9",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+28/11/2012,"22 Woodlawn Court, Santry",Dublin,256000.0,No,Santry,Dublin 9,q3,70%
+30/11/2012,"47 Santry Close, Santry",Dublin,360000.0,No,Santry,Dublin 9,q4,90%
+03/12/2012,"5 Lorcan Road, Santry",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+04/12/2012,"Apt 124 Temple Gardens, Santry",Dublin,135000.0,No,Santry,Dublin 9,q1,20%
+05/12/2012,"50, Coultry Avenue, Santry",Dublin,82000.0,No,Santry,Dublin 9,q1,10%
+05/12/2012,"658 Collins Avenue, Santry",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+07/12/2012,"12 Oak Park Drive, Santry, Dublin 9",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+10/12/2012,"19 Temple Gardens, Northwood, Santry",Dublin,166000.0,No,Santry,Dublin 9,q2,30%
+12/12/2012,"133 Lorcan Avenue, Santry, Dublin 9",Dublin,85724.0,No,Santry,Dublin 9,q1,10%
+13/12/2012,"10 The Park, Larchill, Santry",Dublin,115000.0,No,Santry,Dublin 9,q1,10%
+14/12/2012,"2 Old Town Avenue, Santry, Dublin 9",Dublin,165000.0,No,Santry,Dublin 9,q2,30%
+14/12/2012,"308 Carrington Park, Santry",Dublin,120000.0,No,Santry,Dublin 9,q1,10%
+14/12/2012,"85 Carrington Park, Northwood, Santry",Dublin,150000.0,No,Santry,Dublin 9,q1,30%
+17/12/2012,"145 Shanliss Avenue, Santry",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+18/12/2012,"6 Lorcan Avenue, Santry",Dublin,254000.0,No,Santry,Dublin 9,q3,70%
+19/12/2012,"45 Shanowen Avenue, Santry",Dublin,194500.0,No,Santry,Dublin 9,q2,40%
+20/12/2012,"32 Woodlawn Walk, Santry",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+21/12/2012,"Apartment 23  Block 2, Parklands  Northwood, Santry",Dublin,110000.0,No,Santry,Dublin 9,q1,10%
+14/01/2013,"Apartment 306, Carrington, Northwood  Santry",Dublin,125000.0,No,Santry,Dublin 9,q1,20%
+15/01/2013,"26 Shanliss Park, Santry",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+24/01/2013,"13 Oakpark Drive, Santry",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+30/01/2013,"9 Shanliss Walk, Santry, Dublin",Dublin,216500.0,No,Santry,Dublin 9,q2,50%
+04/02/2013,"74 Lorcan Ave, Santry",Dublin,238000.0,No,Santry,Dublin 9,q3,60%
+06/02/2013,"Apartment 305  Block H, Carrington  Northwood  Santry, Dublin 9",Dublin,120000.0,No,Santry,Dublin 9,q1,10%
+21/02/2013,"75 Geraldstown Woods, Santry, Dublin 9",Dublin,67000.0,No,Santry,Dublin 9,q1,10%
+27/02/2013,"6 Oakview, Santry, Dublin 9",Dublin,166000.0,No,Santry,Dublin 9,q2,30%
+07/03/2013,"1.5 The Belfry, 365 Collins Avenue, Santry",Dublin,140000.0,No,Santry,Dublin 9,q1,20%
+08/03/2013,"Apt 45 Temple Court, Northwood, Santry",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+25/03/2013,"4 Oak View, Santry",Dublin,165000.0,No,Santry,Dublin 9,q2,30%
+28/03/2013,"Apt. 36  Parklands, Northwood, Santry",Dublin,150000.0,No,Santry,Dublin 9,q1,30%
+12/04/2013,"35 Shanowen Park, Santry",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+19/04/2013,"162 Shantalla Road, Santry",Dublin,264000.0,No,Santry,Dublin 9,q3,70%
+26/04/2013,"53 Lorcan Drive, Santry",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+03/05/2013,"29 Lorcan Grove, Santry, Dublin 9",Dublin,272000.0,No,Santry,Dublin 9,q3,70%
+09/05/2013,"187 Parklands, Northwood, Santry",Dublin,95000.0,No,Santry,Dublin 9,q1,10%
+16/05/2013,"32 Shanliss Park, Santry, Dublin 9",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+17/05/2013,"173 Shanliss Road, Santry",Dublin,170000.0,No,Santry,Dublin 9,q2,30%
+20/05/2013,"6 Shanard Road, Santry",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+06/06/2013,"6 Oak Park Grove, Santry, Dublin",Dublin,121000.0,No,Santry,Dublin 9,q1,10%
+07/06/2013,"6 Woodlawn View, Santry",Dublin,255000.0,No,Santry,Dublin 9,q3,70%
+11/06/2013,"61 Heywood Court, Northwood, Santry",Dublin,119000.0,No,Santry,Dublin 9,q1,10%
+13/06/2013,"11 Oak Avenue, Royal Oak, Santry",Dublin,208000.0,No,Santry,Dublin 9,q2,50%
+24/06/2013,"173 Parklands, Northwood, Santry",Dublin,88000.0,No,Santry,Dublin 9,q1,10%
+02/07/2013,"38B Shanowen Hall, Santry",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+10/07/2013,"172 Temple Gardens, Northwood, Santry",Dublin,133000.0,No,Santry,Dublin 9,q1,20%
+17/07/2013,"90 The Beeches  Carrington Park, Northwood, Santry",Dublin,125000.0,No,Santry,Dublin 9,q1,20%
+21/07/2013,"13  Lymewood Mews, Santry",Dublin,148000.0,No,Santry,Dublin 9,q1,30%
+29/07/2013,"Immal, Schoolhouse Lane, Santry",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+30/07/2013,"28 Shanliss Grove, Santry",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+31/07/2013,"9 Woodlawn Walk, Santry",Dublin,268000.0,No,Santry,Dublin 9,q3,70%
+12/08/2013,"30 Lorcan Grove, Santry",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+19/08/2013,"22 Shanard Road, Santry",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+19/08/2013,"39 Lordan Park, Santry, Dublin 9",Dublin,252000.0,No,Santry,Dublin 9,q3,70%
+28/08/2013,"Apartment 46, Temple Lawns, Santry",Dublin,97750.0,No,Santry,Dublin 9,q1,10%
+30/08/2013,"31 Shanliss Avenue, Santry, Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+30/08/2013,"31 Shanvarna Road, Santry, Dublin 9",Dublin,277500.0,No,Santry,Dublin 9,q3,70%
+04/09/2013,"18 Temple Gardens, Northwood, Santry",Dublin,136000.0,No,Santry,Dublin 9,q1,20%
+05/09/2013,"97 Shanliss Avenue, Santry",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+06/09/2013,"Bungalow 1, Row 13-35  Aulden Grange, Santry",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+17/09/2013,"35 Temple Lawns, Santry, Dublin 9",Dublin,155000.0,No,Santry,Dublin 9,q2,30%
+17/09/2013,"772 Collins Avenue, Santry, Dublin 9",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+25/09/2013,"15 Woodlawn View, Santry, Dublin 9",Dublin,262000.0,No,Santry,Dublin 9,q3,70%
+25/09/2013,"37 Shanard Road, Santry",Dublin,100000.0,No,Santry,Dublin 9,q1,10%
+26/09/2013,"75 Shanowen Grove, Santry",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+30/09/2013,"1 Burnside, Magenta  Crescent, Santry",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+30/09/2013,"15 Woodlawn Green, Santry, Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+02/10/2013,"190  Shanowen Road, Santry, Dublin 9",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+04/10/2013,"119 Shanard Road, Santry, Dublin 9",Dublin,208000.0,No,Santry,Dublin 9,q2,50%
+14/10/2013,"165 Aulden Grange, Santry",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+14/10/2013,"Dalgoner, Coolock Lane, Santry",Dublin,253500.0,No,Santry,Dublin 9,q3,70%
+15/10/2013,"Apt 4 Temple Gardens, Northwood, Santry",Dublin,131500.0,No,Santry,Dublin 9,q1,20%
+17/10/2013,"17 Shanliss Road, Santry",Dublin,198000.0,No,Santry,Dublin 9,q2,40%
+17/10/2013,"20 The Square, Larch Hill, Santry",Dublin,105000.0,No,Santry,Dublin 9,q1,10%
+21/10/2013,"70 Shanvarna Road, Santry",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+28/10/2013,"23 The Park, Larch Hill, Santry",Dublin,100000.0,No,Santry,Dublin 9,q1,10%
+08/11/2013,"744 Collins Avenue Extension, Santry",Dublin,228500.0,No,Santry,Dublin 9,q3,60%
+18/11/2013,"31 Shanvarna Road, Santry, Dublin 9",Dublin,277500.0,No,Santry,Dublin 9,q3,70%
+18/11/2013,"38 Parklands, Northwood, Santry",Dublin,145000.0,No,Santry,Dublin 9,q1,20%
+19/11/2013,"97 Shanard Road, Santry, Dublin 9",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+22/11/2013,"14 The Square, Larch Hill, Santry",Dublin,97000.0,No,Santry,Dublin 9,q1,10%
+29/11/2013,"140 Lorcan Ave, Santry, Dublin 9",Dublin,232000.0,No,Santry,Dublin 9,q3,60%
+05/12/2013,"33 Shanliss Rd, Santry, Dublin 9",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+09/12/2013,"15 Woodlawn Close, Santry",Dublin,267000.0,No,Santry,Dublin 9,q3,70%
+10/12/2013,"5 Temple Gardens, Northwood, Santry Dublin 9",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+12/12/2013,"22 Heywood Court, Northwood Estate, Santry Dublin 9",Dublin,148000.0,No,Santry,Dublin 9,q1,30%
+13/12/2013,"27 Shanowen Park, Santry, Dublin 9",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+18/12/2013,"117 Shantalla Rd, Santry, Dublin 9",Dublin,213500.0,No,Santry,Dublin 9,q2,50%
+20/12/2013,"150 Temple Gardens, Northwood, Santry",Dublin,125000.0,No,Santry,Dublin 9,q1,20%
+20/12/2013,"17 The Maieston, Santry Cross, Dublin",Dublin,55000.0,No,Santry,Dublin 9,q1,10%
+20/12/2013,"8 Oak Grove, Royal Oak, Santry Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+23/12/2013,"14 Geraldstown Wood, Santry Avenue, Dublin 9",Dublin,1034302.0,No,Santry,Dublin 9,q4,100%
+23/12/2013,"28 Geraldstown Wood, Santry",Dublin,1034302.0,No,Santry,Dublin 9,q4,100%
+23/12/2013,"56 Shanowen Hall, Shanowen Rd, Santry",Dublin,140000.0,No,Santry,Dublin 9,q1,20%
+23/12/2013,"Apt 37 Shanowen Hall, Shanowen Rd, Santry Dublin 9",Dublin,140000.0,No,Santry,Dublin 9,q1,20%
+24/12/2013,"Apt 12 Shanowen Hall, Shanowen Rd, Santry Dublin 9",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+31/12/2013,"Apartment 191, Lymewood Mews, Santry",Dublin,130000.0,Yes,Santry,Dublin 9,q1,20%
+07/01/2014,"70 Temple Lawns, Santry, Dublin 9",Dublin,99000.0,No,Santry,Dublin 9,q1,10%
+13/01/2014,"31 Shanowen Crescent, Santry, Dublin 9",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+24/01/2014,"4 Temple Lawns, Northwood, Santry Dublin 9",Dublin,151000.0,No,Santry,Dublin 9,q1,30%
+03/02/2014,"14 Oak View, Santry, Dublin 9",Dublin,187000.0,No,Santry,Dublin 9,q2,40%
+04/02/2014,"10 Shanliss Park, Santry, Dublin 9",Dublin,216000.0,No,Santry,Dublin 9,q2,50%
+04/02/2014,"45 Shanowen Hall, Shanowen Rd, Santry",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+17/02/2014,"15 Temple Gardens, Northwood, Santry Dublin 9",Dublin,170000.0,No,Santry,Dublin 9,q2,30%
+24/02/2014,"20 Temple Gardens, Northwood, Santry",Dublin,195500.0,No,Santry,Dublin 9,q2,40%
+28/02/2014,"35 Oak Green, Royal Oak, Santry Dublin 9",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+04/03/2014,"Coill Mhuire, Santry Avenue, Santry",Dublin,250000.0,No,Santry,Dublin 9,q3,60%
+12/03/2014,"69 Hazelwood, Santry Woods, Santry",Dublin,85000.0,No,Santry,Dublin 9,q1,10%
+12/03/2014,"Apt. 70 Hazelwood, Northwood, Santry",Dublin,85000.0,No,Santry,Dublin 9,q1,10%
+21/03/2014,"38 Temple Gardens, Santry, Dublin 9",Dublin,155000.0,No,Santry,Dublin 9,q2,30%
+27/03/2014,"2 Oak Court, Royal Oak, Santry Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+27/03/2014,"4 Shanowen Grove, Santry, Dublin 9",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+31/03/2014,"66 Shanard Ave, Santry, Dublin 9",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+01/04/2014,"25 Shanliss Rd, Santry, Dublin 9",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+02/04/2014,"31 Shanowen Rd, Santry, Dublin 9",Dublin,221500.0,No,Santry,Dublin 9,q3,60%
+07/04/2014,"106 Shanard Rd, Santry, Dublin 9",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+11/04/2014,"10 Temple Gardens, Northwood, Santry Dublin 9",Dublin,147000.0,No,Santry,Dublin 9,q1,20%
+17/04/2014,"55 Oak Avenue, Royal Oak, Santry",Dublin,249000.0,No,Santry,Dublin 9,q3,60%
+23/04/2014,"71 Shanliss Rd, Santry, Dublin 9",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+23/04/2014,"Apartment 87 Lymewood Mews, Block A  Northwood, Santry",Dublin,157000.0,No,Santry,Dublin 9,q2,30%
+28/04/2014,"Apt 41 Temple Gardens, Northwood, Santry Dublin 19",Dublin,128000.0,No,Santry,Dublin 9,q1,20%
+30/04/2014,"50 Shanowen Ave, Santry, Dublin 9",Dublin,251000.0,No,Santry,Dublin 9,q3,70%
+30/04/2014,"81 Shanliss Rd, Santry, Dublin 9",Dublin,262000.0,No,Santry,Dublin 9,q3,70%
+02/05/2014,"46 Santry Close, Santry, Dublin",Dublin,389000.0,No,Santry,Dublin 9,q4,100%
+06/05/2014,"145 Temple Court, Wood, Santry Dublin 9",Dublin,88000.0,No,Santry,Dublin 9,q1,10%
+28/05/2014,"106 Lorcan Ave, Santry, Dublin 9",Dublin,297000.0,No,Santry,Dublin 9,q3,80%
+10/06/2014,"61 Shanowen Dr, Santry, Dublin 9",Dublin,285000.0,No,Santry,Dublin 9,q3,80%
+12/06/2014,"147 Temple Gardens, Northwood, Santry",Dublin,150000.0,No,Santry,Dublin 9,q1,30%
+13/06/2014,"139 Aulden Grange, Santry, Dublin 9",Dublin,266500.0,No,Santry,Dublin 9,q3,70%
+18/06/2014,"Apt 38, Temple Lawns, Santry",Dublin,169500.0,No,Santry,Dublin 9,q2,30%
+26/06/2014,"1 Shanboley Road, Santry, Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+26/06/2014,"61 Oak Rise, Royal Oak, Santry Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+27/06/2014,"11 Oak Green, Royal Oak, Santry Dublin 9",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+27/06/2014,"St Malachys, 44A Lorcan Crescent, Santry Dublin 9",Dublin,268000.0,No,Santry,Dublin 9,q3,70%
+03/07/2014,"38 Lorcan Grove, Santry, Dublin 9",Dublin,326000.0,No,Santry,Dublin 9,q4,80%
+07/07/2014,"16 Temple Gardens, Northwood, Santry Dublin 9",Dublin,181000.0,No,Santry,Dublin 9,q2,40%
+09/07/2014,"117 Parklands, Northwood, Santry Dublin 9",Dublin,165500.0,No,Santry,Dublin 9,q2,30%
+11/07/2014,"50A Shanliss Way, Santry, Dublin 9",Dublin,275000.0,Yes,Santry,Dublin 9,q3,70%
+14/07/2014,"52 Shanowen Hall, Shanowen Road, Santry",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+15/07/2014,"22 The Goulding, Santry Cross",Dublin,75900.0,No,Santry,Dublin 9,q1,10%
+16/07/2014,"28 Burnside, Magenta Crescent, Santry Dublin 9",Dublin,110000.0,No,Santry,Dublin 9,q1,10%
+31/07/2014,"3 Aulden Grange, Santry, Dublin 9",Dublin,269500.0,No,Santry,Dublin 9,q3,70%
+01/08/2014,"34 The Crescent, Larch Hill, Santry Dublin 9",Dublin,138000.0,No,Santry,Dublin 9,q1,20%
+01/08/2014,"Apt 6 Shanowen Hall, Shanowen Rd, Santry Dublin 9",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+08/08/2014,"45 Shanard Ave, Santry, Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+11/08/2014,"Apt 119 Carrington, Northwood, Santry",Dublin,143500.0,No,Santry,Dublin 9,q1,20%
+15/08/2014,"60 Parklands, Northwood, Santry",Dublin,135000.0,No,Santry,Dublin 9,q1,20%
+21/08/2014,"78 Temple Gardens, Santry, Dublin 9",Dublin,194000.0,No,Santry,Dublin 9,q2,40%
+22/08/2014,"31 Lorcan Avenue, Santry, Dublin 9",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+22/08/2014,"45 Oak Rise Royal Oak, Santry, Royal Oak Dublin 9",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+02/09/2014,"65 Temple Gardens, Northwood, Santry Dublin 9",Dublin,182000.0,No,Santry,Dublin 9,q2,40%
+05/09/2014,"204 Shanowen Rd, Santry, Dublin 9",Dublin,325000.0,No,Santry,Dublin 9,q4,80%
+08/09/2014,"73 Shanard Rd, Santry, Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+09/09/2014,"126 Shanliss Road, Santry",Dublin,316000.0,No,Santry,Dublin 9,q4,80%
+12/09/2014,"57 Parklands, Northwood, Santry Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+12/09/2014,"7 Larch Hill, Santry, Dublin 17",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+19/09/2014,"21B Shanowen Hall, Santry",Dublin,208500.0,No,Santry,Dublin 9,q2,50%
+26/09/2014,"2 The Court, Larch Hill, Santry",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+26/09/2014,"28 Lorcan Grove, Santry, Dublin 9",Dublin,323000.0,No,Santry,Dublin 9,q4,80%
+30/09/2014,"11 Temple Gardens, Northwood, Santry Dublin 9",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+02/10/2014,"15 Lorcan Ave, Santry, Dublin 9",Dublin,282000.0,No,Santry,Dublin 9,q3,80%
+03/10/2014,"13 Temple Gardens, Northwood, Santry Dublin 9",Dublin,133500.0,No,Santry,Dublin 9,q1,20%
+03/10/2014,"Apt 229 Northwood, Parklands, Santry Dublin 9",Dublin,196000.0,No,Santry,Dublin 9,q2,40%
+07/10/2014,"15 Shanowen Park, Santry, Dublin 9",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+09/10/2014,"92 Lorcan Dr, Santry, Dublin 9",Dublin,291000.0,No,Santry,Dublin 9,q3,80%
+17/10/2014,"25 Woodlawn Rise, Santry, Dublin",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+23/10/2014,"Apt. 49 Parklands, Northwood, Santry",Dublin,176000.0,No,Santry,Dublin 9,q2,40%
+24/10/2014,"37 Geraldstown Woods, Santry",Dublin,116000.0,No,Santry,Dublin 9,q1,10%
+24/10/2014,"54 Shanliss Rd, Santry, Dublin 9",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+29/10/2014,"Santry, Dublin 9, Dublin",Dublin,170000.0,No,Santry,Dublin 9,q2,30%
+03/11/2014,"14 Sallowood View, Santry, Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+04/11/2014,"Apt 53 Hazelwood, Northwood, Santry",Dublin,85000.0,No,Santry,Dublin 9,q1,10%
+04/11/2014,"Apt 74 Hazelwood, Northwood, Santry",Dublin,85000.0,No,Santry,Dublin 9,q1,10%
+04/11/2014,"Apt 77 Hazelwood, Northwood, Santry",Dublin,85000.0,No,Santry,Dublin 9,q1,10%
+07/11/2014,"18 Turnapin Grove, Santry, Dublin 17",Dublin,202000.0,No,Santry,Dublin 9,q2,50%
+12/11/2014,"33 Lorcan Green, Santry, Dublin 9",Dublin,162000.0,No,Santry,Dublin 9,q2,30%
+12/11/2014,"95 Parklands, Northwood, Santry",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+14/11/2014,"77 Aulden Grange, Santry, Dublin 17",Dublin,256000.0,No,Santry,Dublin 9,q3,70%
+17/11/2014,"18 Lorcan Green, Santry, Dublin 9",Dublin,370000.0,No,Santry,Dublin 9,q4,100%
+19/11/2014,"23 Shanowen Pk, Santry, Dublin 9",Dublin,292000.0,No,Santry,Dublin 9,q3,80%
+20/11/2014,"1 Geraldstown Woods, Santry Ave, Santry Dublin 9",Dublin,106000.0,No,Santry,Dublin 9,q1,10%
+26/11/2014,"53 Parklands, Santry, Dublin 9",Dublin,185000.0,No,Santry,Dublin 9,q2,40%
+27/11/2014,"21 Temple Gardens, Northwood, Santry",Dublin,198500.0,Yes,Santry,Dublin 9,q2,50%
+02/12/2014,"130 Temple Gardens, Northwood, Santry Dublin 9",Dublin,137500.0,No,Santry,Dublin 9,q1,20%
+02/12/2014,"66 Temple Court, Northwood, Santry",Dublin,162000.0,No,Santry,Dublin 9,q2,30%
+03/12/2014,"14 Shanard Rd, Santry, Dublin 9",Dublin,370000.0,No,Santry,Dublin 9,q4,100%
+04/12/2014,"26 Oak Rise, Royal Oak, Santry Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+04/12/2014,"38 Woodlawn Rise, Santry, Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+04/12/2014,"7 Temple Gardens, Northwood, Santry",Dublin,136000.0,No,Santry,Dublin 9,q1,20%
+05/12/2014,"14 Shanliss Way, Santry, Dublin 9",Dublin,313000.0,No,Santry,Dublin 9,q4,80%
+05/12/2014,"89 Shanliss Rd, Santry, Dublin 9",Dublin,298000.0,No,Santry,Dublin 9,q3,80%
+10/12/2014,"194 Shanliss Rd, Santry, Dublin 9",Dublin,258117.0,No,Santry,Dublin 9,q3,70%
+10/12/2014,"79 Temple Gardens, Northwood, Santry",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+11/12/2014,"57 Temple Gardens, Santry, Dublin",Dublin,178000.0,No,Santry,Dublin 9,q2,40%
+11/12/2014,"Apt 37 The Crescent, Larkhill, Santry",Dublin,108000.0,No,Santry,Dublin 9,q1,10%
+12/12/2014,"1 Coolock Lane, Santry, Dublin 17",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+12/12/2014,"73 The Square, Larch Hill, Santry",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+15/12/2014,"Apt 95 Geraldstown Woods, Santry, Dublin 9",Dublin,123348.01,Yes,Santry,Dublin 9,q1,20%
+16/12/2014,"12 Lorcan Park, Santry, Dublin",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+16/12/2014,"17 Temple Gardens, Northwood, Santry Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+16/12/2014,"21 The Court, Larch Hill, Santry Dublin 9",Dublin,155000.0,No,Santry,Dublin 9,q2,30%
+17/12/2014,"Apartment 8 The Square, Larch Hill, Off Oscar Traynor Road  Santry",Dublin,136000.0,No,Santry,Dublin 9,q1,20%
+18/12/2014,"36 Temple Gradens, Northwood, Santry",Dublin,186000.0,No,Santry,Dublin 9,q2,40%
+18/12/2014,"38 Oak Rise, Royal Oak Santry, Dublin 9",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+18/12/2014,"404A Coultry Road, Santry Avenue",Dublin,123500.0,No,Santry,Dublin 9,q1,20%
+19/12/2014,"105 Temple Court, Santry, Dublin 9",Dublin,191500.0,No,Santry,Dublin 9,q2,40%
+19/12/2014,"69 Parklands, Northwood, Santry Dublin 9",Dublin,167500.0,No,Santry,Dublin 9,q2,30%
+22/12/2014,"10 Geraldstown Woods, Santry Avenue",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"11 Geraldstown Woods, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"12 Geraldstown Woods, Santry",Dublin,118000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"13 Geraldstown Woods, Santry",Dublin,118000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"14 Temple Gardens, Northwood, Santry Dublin 9",Dublin,182000.0,No,Santry,Dublin 9,q2,40%
+22/12/2014,"18 Geraldstown Woods, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"19 Geraldstown Woods, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"20 Geraldstown Woods, Santry",Dublin,118000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"21 Geraldstown Woods, Santry",Dublin,118000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"27 Geraldstown Woods, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"275 Parklands, Northwood, Santry Dublin 9",Dublin,135000.0,No,Santry,Dublin 9,q1,20%
+22/12/2014,"29 Geraldstown Woods, Santry",Dublin,118000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"40 Temple Gardens, Northwood, Santry Dublin 9",Dublin,123659.0,No,Santry,Dublin 9,q1,20%
+22/12/2014,"86 Shanliss Way, Santry, Dublin 9",Dublin,256479.0,No,Santry,Dublin 9,q3,70%
+22/12/2014,"Apt 23, The Claremont, Santry Cross Dublin 9",Dublin,95000.0,No,Santry,Dublin 9,q1,10%
+22/12/2014,"Apt 4 The Hampton, Santry Cross, Ballumun Dublin 11",Dublin,122500.0,No,Santry,Dublin 9,q1,20%
+23/12/2014,"4 Schoolhouse Lane, Santry",Dublin,229500.0,No,Santry,Dublin 9,q3,60%
+16/01/2015,"34B Shanowen Hall, Shanowen Rd, Santry Dublin 9",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+21/01/2015,"7 Lorcan Rd, Santry, Dublin 9",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+26/01/2015,"17 Shanowen Hall, Shanowen Rd, Santry",Dublin,202000.0,No,Santry,Dublin 9,q2,50%
+26/01/2015,"35 Shanowen Hall, Shanowen Rd, Santry",Dublin,202000.0,No,Santry,Dublin 9,q2,50%
+26/01/2015,"Unit 49, Shanowen Hall, Santry",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+27/01/2015,"1 Oak Dr, Royal Oak, Santry Dublin 9",Dublin,322000.0,No,Santry,Dublin 9,q4,80%
+27/01/2015,"17 Shanard Road, Santry",Dublin,302000.0,No,Santry,Dublin 9,q4,80%
+27/01/2015,"40 Lorcan Villas, Santry, Dublin 9",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+29/01/2015,"202 Temple Court, Northwood, Santry Dublin 9",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+29/01/2015,"31 Oak Green, Royal Oak, Santry Dublin 9",Dublin,306000.0,No,Santry,Dublin 9,q4,80%
+02/02/2015,"31 The Crescent, Larch Hill, Santry",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+03/02/2015,"74 Parklands, Santry, Dublin 9",Dublin,170000.0,No,Santry,Dublin 9,q2,30%
+04/02/2015,"184 Santry Close, Santry, Dublin 9",Dublin,500000.0,No,Santry,Dublin 9,q4,100%
+13/02/2015,"12 Temple Gardens, North Wood, Santry",Dublin,171000.0,No,Santry,Dublin 9,q2,40%
+17/02/2015,"113 Temple Court, Santry, Dublin 9",Dublin,150000.0,No,Santry,Dublin 9,q1,30%
+17/02/2015,"67 Aulden Grange, Santry, Dublin 9",Dublin,365000.0,No,Santry,Dublin 9,q4,90%
+19/02/2015,"148 Parklands, Northwood, Santry Dublin 9",Dublin,194000.0,No,Santry,Dublin 9,q2,40%
+20/02/2015,"104 Temple Court, Santry, Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+20/02/2015,"6 Temple Gardens, Northwood, Santry Dublin 9",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+27/02/2015,"83 Temple Court, Wood, Santry Dublin 9",Dublin,120000.0,No,Santry,Dublin 9,q1,10%
+02/03/2015,"5 Shanliss Road, Santry, Dublin 9",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+13/03/2015,"35 The Square, Larchill, Santry",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+16/03/2015,"272 Parklands, Northwood, Santry",Dublin,186000.0,No,Santry,Dublin 9,q2,40%
+19/03/2015,"20 Oak Grove, Royal Oak Estate, Santry",Dublin,311000.0,No,Santry,Dublin 9,q4,80%
+20/03/2015,"27 Oak Court, Royal Oak, Santry Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+20/03/2015,"Apt 112 Block 3, Parklands, Northwood Santry",Dublin,192000.0,No,Santry,Dublin 9,q2,40%
+25/03/2015,"102 Temple Court, Santry, Dublin 9",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+25/03/2015,"103 Temple Court, Santry, Dublin 9",Dublin,140000.0,No,Santry,Dublin 9,q1,20%
+31/03/2015,"12 The Square, Larch Hill, Santry",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+31/03/2015,"15 Shanliss Walk, Santry, Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+01/04/2015,"Apt 8 Block A, Shanowen Hall, Shanowen Rd Santry Dublin",Dublin,202000.0,No,Santry,Dublin 9,q2,50%
+02/04/2015,"50 Shanliss Way, Santry, Dublin 9",Dublin,288000.0,No,Santry,Dublin 9,q3,80%
+10/04/2015,"Apt 60, Geraldstown Woods, Santry Ave Santry",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+13/04/2015,"Apartment 32 The Square, Larch Hill, Santry",Dublin,129000.0,No,Santry,Dublin 9,q1,20%
+15/04/2015,"10A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"11A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"12 Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"13A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"14A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"15A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"16A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"17A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"18A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"19A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"1A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"20A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"2A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"3A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"4A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"5A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"6A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"7 Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"8A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+15/04/2015,"9A Hazelwood Apts, Northwood, Santry",Dublin,103524.23,No,Santry,Dublin 9,q1,10%
+17/04/2015,"49 Shanard Rd, Santry, Dublin 9",Dublin,267000.0,No,Santry,Dublin 9,q3,70%
+28/04/2015,"10 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"102 The Cedars, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"103 The Cedars, Block C  Santry, Carrington",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"104 The Cedars, Block C  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"11 The Alders, Carrington, Santry  Dubllin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"111 The Cedars, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"112 The Cedars, Block C  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"114 The Cedars, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"116 The Cedars, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"117 The Cedars, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"118 The Cedars, Carrington, Santry  Dublin 2",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"120 The Cedars, Block C  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"123 The Cedars, Block C  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"125 The Cedars, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"13 The Alders, Block A  Santry, Carrington",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"132 The Cedars, Block C  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"133 The Cedars, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"134 The Cedars, Block C  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"136 The Cedars, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"137 The Cedars, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"138 The Cedars, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"141 The Cedars, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"142 The Cedars, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"143 The Oaks, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"144 The Oaks, Block D  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"145 The Oaks, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"151 The Oaks, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"158 The Oaks, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"159 The Oaks, Block D  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"162 The Oaks, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"163 The Oaks, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"164 The Oaks, Carrington, Santry  Dublin 7",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"165 The Oaks, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"167 The Oaks, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"171 The Oaks, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"175 The Oaks, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"177 The Oaks, Block D  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"178 The Oaks, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"179 The Oaks, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"18 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"180 The Oaks, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"181 The Oaks, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"182 The Oaks, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"183 The Oaks, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"184 The Oaks, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"185 The Oaks, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"186 The Oaks, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"187 The Oaks, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"188 The Oaks, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"19 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"191 The Elms, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"195 The Elms, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"197 The Elms, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"199 The Elms, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"201 The Elms, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"206 The Elms, Carrington, Santry  Dublin 7",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"207 The Elms, Block E  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"21 The Alders, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"211 The Elms, Block E  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"216 The Elms, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"22 The Alders, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"220 The Elms, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"221 The Elms, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"223 The Elms, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"224 The Elms, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"226 The Elms, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"239 The Willows, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"240 The Willows, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"241 The Willows, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,20%
+28/04/2015,"25 The Alders, Block A  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"250 The Willows, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"253 The Willows, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"255 The Willows, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"256 The Willows, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"267 The Sycamores, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"273 The Sycamores, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"275 The Sycamores, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"277 The Sycamores, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"278 The Sycamores, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"279 The Sycamores, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"284 The Sycamores, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"285 The Sycamores, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"289 The Sycamores, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"293 The Sycamores, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"296 The Sycamores, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"297 The Sycamores, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"3 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"30 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"300 The Sycamores, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"301 The Sycamores, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"302 The Sycamores, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"303 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"307 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"31 The Alders, Block A  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"311 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"312 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"313 The Hawthorns, Block H Carrington, Santry",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"314 The Hawthorns, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"315 The Hawthorns, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"316 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"323 The Hawthorns, Block H  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"324 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"327 The Hawthorns, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"334 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"335 The Hawthorns, Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"336 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"337 The Hawthorns, Block H  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"338 The Hawthorns, Carrington, Santry",Dublin,116157.0,Yes,Santry,Dublin 9,q1,10%
+28/04/2015,"339 The Hawthorns, Block H  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"34 Shanliss Road, Santry",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+28/04/2015,"34 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"344 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"345 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"346 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"347 The Hawthorns, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"36 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"38 The Alders, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"4 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"42 The Alders, Block A  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"43 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"44 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"47 The Alders, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"54 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"56 The Alders, Block A  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"57 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"59 The Beeches, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"6 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"7 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"72 The Beeches, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"75 The Beeches, Carrington, Santry  Dublin 7",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"76 The Beeches, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"78 The Beeches, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"8 The Alders, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"80 The Beeches, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"81 The Beeches, Block B  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"84 The Beeches, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"86 The Beeches, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"88 The Beeches, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"93 The Beeches, Carrington, Santry  Dublin 9",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"94 The Beeches, Block B  Santry, Carrington",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+28/04/2015,"95 The Beeches, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"96 The Beeches, Carrington, Santry  Dublin 9",Dublin,193595.0,Yes,Santry,Dublin 9,q2,40%
+28/04/2015,"97 The Cedars, Carrington, Santry",Dublin,147132.0,Yes,Santry,Dublin 9,q1,30%
+06/05/2015,"19 Heywood Court, Northwood, Santry",Dublin,99972.0,Yes,Santry,Dublin 9,q1,10%
+06/05/2015,"20 Heywood Court, Northwood, Santry",Dublin,99972.0,Yes,Santry,Dublin 9,q1,10%
+06/05/2015,"23 Heywood Court, Northwood, Santry",Dublin,99972.0,Yes,Santry,Dublin 9,q1,10%
+06/05/2015,"24 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"26 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"29 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"30 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"33 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"34 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"36 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"38 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"41 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"42 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"43 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"44 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"45 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"47 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"48 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"49 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"51 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"53 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"54 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"57 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"58 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"59 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"60 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"62 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"66 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"68 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"7 Heywood Court, Northwood, Santry",Dublin,99972.0,Yes,Santry,Dublin 9,q1,10%
+06/05/2015,"72 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"73 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"77 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"80 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"85 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"87 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"88 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"89 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+06/05/2015,"90 Heywood Court, Northwood, Santry",Dublin,134578.0,Yes,Santry,Dublin 9,q1,20%
+08/05/2015,"50 Hazelwood, Northwood, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+08/05/2015,"51 Hazelwood, Northwood, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+08/05/2015,"52 Hazelwood, Northwood, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+08/05/2015,"65 Hazelwood, Northwood, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+08/05/2015,"67 Hazelwood, Northwood, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+08/05/2015,"68 Hazelwood, Northwood, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+08/05/2015,"72 Hazelwood, Northwood, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+08/05/2015,"73 Hazelwood, Northwood, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+08/05/2015,"75 Hazelwood, Northwood, Santry",Dublin,80000.0,No,Santry,Dublin 9,q1,10%
+12/05/2015,"157 Shanliss Rd, Santry, Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+14/05/2015,"158 Temple Court, Santry, Dublin 9",Dublin,110000.0,No,Santry,Dublin 9,q1,10%
+15/05/2015,"75 Temple Gardens, North Wood, Santry",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+20/05/2015,"9A Shanowen, Santry, Dublin 9",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+28/05/2015,"39 Oak Ave, Royal Oak, Santry Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+03/06/2015,"18 The Court, Larchill, Santry",Dublin,143000.0,No,Santry,Dublin 9,q1,20%
+08/06/2015,"3 Temple Gardens, Northwood, Santry Dublin 9",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+09/06/2015,"189 Shanowen Rd, Santry, Dublin 9",Dublin,311000.0,No,Santry,Dublin 9,q4,80%
+09/06/2015,"7 Santry Court, Santry, Dublin 9",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+19/06/2015,"169 Temple Court, Santry",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+19/06/2015,"2 Temple Gdns, Northwood, Santry",Dublin,181000.0,No,Santry,Dublin 9,q2,40%
+19/06/2015,"26 The Park, Larch Hill, Santry",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+24/06/2015,"100 Temple Court, Santry",Dublin,153648.64,No,Santry,Dublin 9,q1,30%
+24/06/2015,"101 Temple Court, Santry",Dublin,153648.64,No,Santry,Dublin 9,q1,30%
+24/06/2015,"106 Temple Court, Santry",Dublin,153648.64,No,Santry,Dublin 9,q1,30%
+24/06/2015,"114 Temple Court, Santry, Dublin 9",Dublin,143405.41,No,Santry,Dublin 9,q1,20%
+24/06/2015,"115 Temple Court, Santry",Dublin,153648.64,No,Santry,Dublin 9,q2,30%
+24/06/2015,"294 Parklands, Northwood, Santry",Dublin,141000.0,No,Santry,Dublin 9,q1,20%
+24/06/2015,"7 Shanliss Road, Santry, Dublin 9",Dublin,100000.0,No,Santry,Dublin 9,q1,10%
+30/06/2015,"52 Temple Lawns, Santry, Dublin 9",Dublin,183000.0,No,Santry,Dublin 9,q2,40%
+01/07/2015,"51 Shanard Road, Santry, County Dublin",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+02/07/2015,"86A Lorcan Avenue, Santry, Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+03/07/2015,"1 Temple Gardens, Northwood, Santry Dublin 9",Dublin,144000.0,No,Santry,Dublin 9,q1,20%
+03/07/2015,"9 The Court, Larch Hill, Santry Dublin 17",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+10/07/2015,"13 Shanvarna Rd, Santry, Dublin 9",Dublin,307500.0,No,Santry,Dublin 9,q4,80%
+10/07/2015,"202 Carrington, Northwood, Santry Demense Dublin 9",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+16/07/2015,"Metro Hotel, Block C  Santry Cross",Dublin,3000000.0,No,Santry,Dublin 9,q4,100%
+17/07/2015,"33 Oakpark Ave, Santry, Dublin 9",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+20/07/2015,"33 Oak Drive, Royal Oak, Santry",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+29/07/2015,"14 Temple Lawns, Santry, Dublin 9",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+31/07/2015,"79 Aulden Grange, Santry, Dublin 9",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+07/08/2015,"27 Block B Hazelwood, Northwood, Santry Demense",Dublin,1054286.0,No,Santry,Dublin 9,q4,100%
+07/08/2015,"30 Block B Hazelwood, Northwood, Santry Demense",Dublin,790715.0,No,Santry,Dublin 9,q4,100%
+07/08/2015,"40 Oak Green, Royal Oak, Santry Dublin 9",Dublin,298000.0,No,Santry,Dublin 9,q3,80%
+11/08/2015,"4 Knightswood, Santry, Dublin 9",Dublin,269000.0,No,Santry,Dublin 9,q3,70%
+13/08/2015,"14 Shanboley Rd, Santry, Dublin 9",Dublin,270000.0,No,Santry,Dublin 9,q3,70%
+14/08/2015,"10 Lorcan Dr, Santry, Dublin 9",Dublin,288000.0,No,Santry,Dublin 9,q3,80%
+14/08/2015,"69 Majenta Hall, Santry, Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+17/08/2015,"51 Lymewood Mews, North Wood, Santry",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+20/08/2015,"2 Shanliss Dr, Santry, Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+21/08/2015,"11 Lorcan Crescent, Santry, Dublin 9",Dublin,315000.0,No,Santry,Dublin 9,q4,80%
+24/08/2015,"150 Santry Close, Santry, Dublin 9",Dublin,392000.0,No,Santry,Dublin 9,q4,100%
+24/08/2015,"42 Geraldstown Woods, Santry Ave, Dublin 9",Dublin,115000.0,No,Santry,Dublin 9,q1,10%
+25/08/2015,"32 Shanliss Way, Santry, Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+27/08/2015,"Apartment 8, The Turnpike, Santry Cross",Dublin,92000.0,No,Santry,Dublin 9,q1,10%
+27/08/2015,"Apartment No. 7, The Turnpike, Santry Cross",Dublin,94000.0,No,Santry,Dublin 9,q1,10%
+31/08/2015,"43 Shanowen Grove, Santry, Dublin 9",Dublin,280000.0,No,Santry,Dublin 9,q3,70%
+01/09/2015,"235 Carrington Park, North Wood, Santry Dublin 9",Dublin,218000.0,No,Santry,Dublin 9,q2,50%
+04/09/2015,"9 Shanowen Park, Santry, Dublin 9",Dublin,355000.0,No,Santry,Dublin 9,q4,90%
+10/09/2015,"7 18 19 30 And 42, The Hampton, Santry Cross",Dublin,269230.76,No,Santry,Dublin 9,q3,70%
+15/09/2015,"142 Aulden Grange, Santry, Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+22/09/2015,"Apt 145B Lymewood Mews, Santry, Dublin 9",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+24/09/2015,"34 Temple Gardens, Northwood, Santry Dublin 9",Dublin,208000.0,No,Santry,Dublin 9,q2,50%
+25/09/2015,"73 Parklands, Northwood, Santry",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+28/09/2015,"3 Geraldstown Woods, Santry Ave, Santry Dublin 9",Dublin,123000.0,No,Santry,Dublin 9,q1,20%
+30/09/2015,"4 Shanrath Road, Santry, Dublin 9",Dublin,352000.0,No,Santry,Dublin 9,q4,90%
+30/09/2015,"8 Temple Gardens, Northwood, Santry Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+09/10/2015,"31 Temple Gardens, Santry, Dublin 9",Dublin,206000.0,No,Santry,Dublin 9,q2,50%
+14/10/2015,"86 Shanard Rd, Santry, Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+15/10/2015,"60 Magenta Hall, Santry, Dublin 9",Dublin,428000.0,No,Santry,Dublin 9,q4,100%
+16/10/2015,"153 Aulden Grange, Santry, Dublin 17",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+16/10/2015,"30 Oak Park Dr, Santry, Dublin 9",Dublin,280000.0,No,Santry,Dublin 9,q3,70%
+16/10/2015,"43 Temple Gardens, Northwood, Santry",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+22/10/2015,"48C Shanowen Hall, Santry, Dublin 9",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+23/10/2015,"1 Woodlawn Grove, Santry, Dublin 9",Dublin,390000.0,No,Santry,Dublin 9,q4,100%
+23/10/2015,"27 Shanard Rd, Santry, Dublin 9",Dublin,285000.0,No,Santry,Dublin 9,q3,80%
+29/10/2015,"24 Lymewood Mews, Wood, Santry Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+29/10/2015,"54 Geraldstown Woods, Santry Ave, Santry Dublin 9",Dublin,67769.5,No,Santry,Dublin 9,q1,10%
+04/11/2015,"19 Turnapin Cottages, Santry, Dublin 9",Dublin,255000.0,No,Santry,Dublin 9,q3,70%
+06/11/2015,"20 Shanowen Rd, Santry, Dublin",Dublin,355000.0,No,Santry,Dublin 9,q4,90%
+06/11/2015,"86A Lorcan Avenue, Santry, Dublin 9",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+06/11/2015,"9 Temple Gardens, Northwood, Santry Dublin 9",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+12/11/2015,"13 Shanard Road, Santry, Dublin 9",Dublin,293000.0,No,Santry,Dublin 9,q3,80%
+17/11/2015,"119 Temple Gardens, Santry",Dublin,208000.0,No,Santry,Dublin 9,q2,50%
+26/11/2015,"41 The Crescent, Larchhill, Santry Dublin 9",Dublin,170000.0,No,Santry,Dublin 9,q2,30%
+27/11/2015,"175 Block C Lymewood, Santry, Dublin 9",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+30/11/2015,"9 Shanliss Ave, Santry, Dublin 9",Dublin,352000.0,No,Santry,Dublin 9,q4,90%
+02/12/2015,"33 Lorcan Grove, Santry, Dublin 9",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+03/12/2015,"46 Geraldstown Woods, Santry Ave, Santry Dublin 9",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+04/12/2015,"18 Lorcan Crescent, Santry",Dublin,360000.0,No,Santry,Dublin 9,q4,90%
+04/12/2015,"25 Shantalla Ave, Santry, Dublin 9",Dublin,372000.0,No,Santry,Dublin 9,q4,100%
+07/12/2015,"164 Temple Court, Northwood, Santry",Dublin,182000.0,No,Santry,Dublin 9,q2,40%
+07/12/2015,"37 The Court, Larch Hill, Santry Dublin 17",Dublin,135000.0,No,Santry,Dublin 9,q1,20%
+10/12/2015,"3 Oak Rise, Royal Oak Santry, Dublin 9",Dublin,270000.0,No,Santry,Dublin 9,q3,70%
+11/12/2015,"107 Shanard Rd, Santry, Dublin 9",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+11/12/2015,"38 Oak Drive, Santry",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+15/12/2015,"12 Shanvarna Rd, Santry, Dublin",Dublin,150000.0,No,Santry,Dublin 9,q1,30%
+16/12/2015,"1 Shanowen Park, Santry, Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+17/12/2015,"19 Coultry Neighbour, Hood Centre Coltry Way, Santry Dublin 11",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+17/12/2015,"23 Shanowen Avenue, Santry, Dublin 9",Dublin,339000.0,No,Santry,Dublin 9,q4,90%
+17/12/2015,"Apt 124 Block C, Northwood, Santry Dublin 9",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+18/12/2015,"18 Parklands, Northwood Ave, Santry Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+18/12/2015,"290 Parklands, Northwood, Santry Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+23/12/2015,"21 Haywood Court, Northwood, Santry Dublin 9",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+08/01/2016,"25 Shanard Rd, Santry, Dublin 9",Dublin,302000.0,No,Santry,Dublin 9,q4,80%
+08/01/2016,"285 Parklands, Santry, Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+11/01/2016,"16 Oak Lawns, Royal Oak Santry, Dublin 9",Dublin,289000.0,No,Santry,Dublin 9,q3,80%
+15/01/2016,"15B Block B, Shanowen Hall, Santry Dublin 9",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+15/01/2016,"41 Shanboley Rd, Santry, Dublin 9",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+22/01/2016,"58 Temple Gardens, Northwood, Santry Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+25/01/2016,"24 Shanowen Hall, Shanowen Rd, Santry Dublin 9",Dublin,268000.0,No,Santry,Dublin 9,q3,70%
+28/01/2016,"36 Shanard Rd, Santry, Dublin 9",Dublin,291500.0,No,Santry,Dublin 9,q3,80%
+01/02/2016,"41 Oak Park Ave, Santry, Dublin 9",Dublin,218000.0,No,Santry,Dublin 9,q2,50%
+10/02/2016,"166 Aulden Grange, Santry, Dublin 9",Dublin,232000.0,No,Santry,Dublin 9,q3,60%
+11/02/2016,"96 Aulden Grange, Santry, Dublin 9",Dublin,276000.0,No,Santry,Dublin 9,q3,70%
+15/02/2016,"87 Shantalla Rd, Santry, Dublin 9",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+17/02/2016,"33 Shanliss Park, Santry, Dublin 9",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+20/02/2016,"Apartment 18, Temple Lawns, Northwood  Santry",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+22/02/2016,"21 Shanliss Park, Santry",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+22/02/2016,"46 The Court Larch Hill, Santry Dublin 9, Dublin",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+02/03/2016,"42 The Park, Larch Hill Santry, Dublin 9",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+09/03/2016,"127 Parklands, Santry, Dublin 9",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+09/03/2016,"90 Shanliss Rd, Santry, Dublin 9",Dublin,291000.0,No,Santry,Dublin 9,q3,80%
+14/03/2016,"14 The Green, Larchill, Santry",Dublin,169000.0,No,Santry,Dublin 9,q2,30%
+14/03/2016,"18 The Goulding, Santry Cross, Dublin 9",Dublin,105000.0,No,Santry,Dublin 9,q1,10%
+16/03/2016,"111 Geraldstown Woods, Santry Ave, Santry Dublin 9",Dublin,122000.0,No,Santry,Dublin 9,q1,20%
+16/03/2016,"150 Lymewood Mews, Santry, Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+21/03/2016,"125 Temple Gardens, Santry, Dublin 9",Dublin,246000.0,No,Santry,Dublin 9,q3,60%
+22/03/2016,"190 Templecourt, Santry, Dublin 9",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+23/03/2016,"4  The Turnpike, Santry Cross, Ballymum",Dublin,125000.0,No,Santry,Dublin 9,q1,20%
+24/03/2016,"108 Shanliss Rd, Santry, Dublin 9",Dublin,293000.0,No,Santry,Dublin 9,q3,80%
+05/04/2016,"106 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+13/04/2016,"61 Hazelwood, Santry, Dublin",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+14/04/2016,"44 Magenta Crescent, Santry Dublin 9, Dublin",Dublin,280000.0,No,Santry,Dublin 9,q3,70%
+15/04/2016,"13 The Green, Larch Hill, Santry",Dublin,155000.0,No,Santry,Dublin 9,q2,30%
+15/04/2016,"45 Temple Lawns, Santry, Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+15/04/2016,"7 Shanboley Rd, Santry, Dublin 9",Dublin,305000.0,No,Santry,Dublin 9,q4,80%
+25/04/2016,"20 Shanliss Rd, Santry, Dublin 9",Dublin,330000.0,No,Santry,Dublin 9,q4,90%
+26/04/2016,"63 The Square, Larchill, Santry",Dublin,152000.0,No,Santry,Dublin 9,q1,30%
+28/04/2016,"23 Shanglas Rd, Santry, Dublin 9",Dublin,337000.0,No,Santry,Dublin 9,q4,90%
+04/05/2016,"42 Shanowen Grove, Santry, Dublin 9",Dublin,340000.0,No,Santry,Dublin 9,q4,90%
+05/05/2016,"15 The Maiston, Santry Cross, Dublin",Dublin,100000.0,No,Santry,Dublin 9,q1,10%
+09/05/2016,"149 Temple Court, Northwood, Santry Dublin 9",Dublin,175500.0,No,Santry,Dublin 9,q2,40%
+16/05/2016,"41 Magenta Hall, Santry, Dublin 9",Dublin,334000.0,No,Santry,Dublin 9,q4,90%
+16/05/2016,"9 Woodlawn Rise, Santry, Dublin 9",Dublin,315000.0,No,Santry,Dublin 9,q4,80%
+19/05/2016,"5 Temple Gardens, Northwood, Santry Dublin 9",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+20/05/2016,"28 Santry Court, Santry, Dublin 9",Dublin,325000.0,No,Santry,Dublin 9,q4,80%
+20/05/2016,"29 Shanowen Grove, Santry, Dublin 9",Dublin,301000.0,No,Santry,Dublin 9,q3,80%
+26/05/2016,"146 Parklands, Northwood, Santry Dublin 9",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+26/05/2016,"Apt 45, The Hampton, Santry Cross Dublin 11",Dublin,140000.0,No,Santry,Dublin 9,q1,20%
+27/05/2016,"92 Aulden Grange, Santry, Dublin 17",Dublin,315000.0,No,Santry,Dublin 9,q4,80%
+07/06/2016,"64 Shanard Ave, Santry, Dublin 9",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+14/06/2016,"4 The Crescent, Larch Hill, Santry",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+16/06/2016,"6 The Turnpike, Santry Cross, Dublin 11",Dublin,95000.0,No,Santry,Dublin 9,q1,10%
+27/06/2016,"18 Oak Court, Royal Oak, Santry Dublin 9",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+01/07/2016,"129 Shanliss Ave, Santry, Dublin 9",Dublin,270000.0,No,Santry,Dublin 9,q3,70%
+04/07/2016,"5 Lorcan Grove, Santry, Dublin 9",Dublin,311000.0,No,Santry,Dublin 9,q4,80%
+05/07/2016,"103 Temple Gardens, Northwood, Santry Dublin 9",Dublin,183000.0,No,Santry,Dublin 9,q2,40%
+07/07/2016,"43 Shanowen Grove, Santry, Dublin 9",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+11/07/2016,"131 Parklands, Santry, Dublin 9",Dublin,187500.0,No,Santry,Dublin 9,q2,40%
+12/07/2016,"53 Temple Lawns, Santry, Dublin 9",Dublin,199000.0,No,Santry,Dublin 9,q2,50%
+12/07/2016,"57 Temple Lawns, Santry, Dublin 9",Dublin,211000.0,No,Santry,Dublin 9,q2,50%
+15/07/2016,"18 Woodlawn Rise, Santry, Dublin 17",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+18/07/2016,"43 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+21/07/2016,"46 Shanboley Rd, Santry, Dublin 9",Dublin,307500.0,No,Santry,Dublin 9,q4,80%
+03/08/2016,"34 The Crescent, Larch Hill, Santry Dublin 9",Dublin,163000.0,No,Santry,Dublin 9,q2,30%
+04/08/2016,"178 Parklands, Northwood, Santry",Dublin,191000.0,No,Santry,Dublin 9,q2,40%
+05/08/2016,"25 The Kilmore, Santry Cross, Santry Dublin 9",Dublin,156000.0,No,Santry,Dublin 9,q2,30%
+09/08/2016,"177 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+10/08/2016,"5 Lorcan Drive, Santry, Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+12/08/2016,"23 Lorcan Park, Santry, Dublin",Dublin,280000.0,No,Santry,Dublin 9,q3,70%
+12/08/2016,"62 Aulden Grange, Santry, Dublin 9",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+16/08/2016,"14 The Maiston, Santry Cross, Dublin",Dublin,105000.0,No,Santry,Dublin 9,q1,10%
+19/08/2016,"152 Aulden Grange, Santry, Dublin 9",Dublin,292500.0,No,Santry,Dublin 9,q3,80%
+19/08/2016,"4 Temple Gardens, Northwood, Santry Dublin 9",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+19/08/2016,"83 Temple Lawns, Santry, Dublin 9",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+26/08/2016,"36 Woodlawn Dr, Santry, Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+29/08/2016,"36 Oak Dr, Royal Oak, Santry Dublin 9",Dublin,273000.0,No,Santry,Dublin 9,q3,70%
+30/08/2016,"16 Oak Rise, Royal Oak, Santry Dublin 9",Dublin,315000.0,No,Santry,Dublin 9,q4,80%
+02/09/2016,"110 Shanliss Rd, Santry, Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+02/09/2016,"46 Magenta Crescent, Santry, Dublin 9",Dublin,349000.0,No,Santry,Dublin 9,q4,90%
+02/09/2016,"69 Lorcan Grove, Santry, Dublin 9",Dublin,345000.0,No,Santry,Dublin 9,q4,90%
+08/09/2016,"29 Lymewood Mews, Santry, Dublin 9",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+08/09/2016,"80 Shantallla Road, Santry, Dublin 9",Dublin,105000.0,No,Santry,Dublin 9,q1,10%
+13/09/2016,"43 Geraldstown Woods, Santry Ave, Santry Dublin 9",Dublin,135000.0,No,Santry,Dublin 9,q1,20%
+15/09/2016,"156 Temple Gardens, North Wood, Santry Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+22/09/2016,"20 Knightswood, Santry, Dublin 9",Dublin,310000.0,No,Santry,Dublin 9,q4,80%
+28/09/2016,"2 Shanliss Park, Santry, Dublin 9",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+30/09/2016,"1 Shanard Road, Santry, Dublin 9",Dublin,307000.0,No,Santry,Dublin 9,q4,80%
+30/09/2016,"30 Oak Grove, Royal Oak, Santry Dublin 9",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+04/10/2016,"19 Woodlawn Rise, Santry, Dublin 17",Dublin,310000.0,No,Santry,Dublin 9,q4,80%
+05/10/2016,"8 Oak Lawn, Royal Oak, Santry Dublin 9",Dublin,287000.0,No,Santry,Dublin 9,q3,80%
+06/10/2016,"29 Shanowen Dr, Santry, Dublin 9",Dublin,330000.0,No,Santry,Dublin 9,q4,90%
+11/10/2016,"110 Temple Gardens, Northwood, Santry Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+12/10/2016,"165 Temple Gardens, Santry, Dublin 5",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+12/10/2016,"88 Shanard Rd, Santry, Dublin 9",Dublin,298000.0,No,Santry,Dublin 9,q3,80%
+13/10/2016,"225 Parklands, Northwood, Santry Dublin 9",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+14/10/2016,"19 Lorcan Road, Santry, Dublin 9",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+17/10/2016,"5 Shanboley Rd, Santry, Dublin 9",Dublin,356000.0,No,Santry,Dublin 9,q4,90%
+18/10/2016,"5 Temple Lawns, Santry, Dublin",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+19/10/2016,"43 Aulden Grange, Santry, Dublin 17",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+21/10/2016,"1 Magenta Hall, Santry, Dublin 9",Dublin,330000.0,No,Santry,Dublin 9,q4,90%
+25/10/2016,"70 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,217000.0,No,Santry,Dublin 9,q2,50%
+27/10/2016,"123 Block C, Parklands, Santry",Dublin,221000.0,No,Santry,Dublin 9,q3,60%
+01/11/2016,"11 Temple Gardens, Northwood, Santry Dublin 9",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+03/11/2016,"40 Temple Lawns, Santry, Dublin 9",Dublin,227000.0,No,Santry,Dublin 9,q3,60%
+04/11/2016,"11 Knightswood, Santry, Dublin 9",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+04/11/2016,"143A Aulden Grange, Santry, Dublin 9",Dublin,340000.0,No,Santry,Dublin 9,q4,90%
+04/11/2016,"3 Parklands, Northwood Ave, Santry Dublin 9",Dublin,174900.0,No,Santry,Dublin 9,q2,40%
+04/11/2016,"9 Shanliss Grove, Santry, Dublin 9",Dublin,283000.0,No,Santry,Dublin 9,q3,80%
+07/11/2016,"14 Oak View, Santry, Dublin 9",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+10/11/2016,"19 The View, Larch Hill, Santry",Dublin,195500.0,No,Santry,Dublin 9,q2,40%
+11/11/2016,"43 Shanliss Way, Santry, Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+16/11/2016,"48 Parklands, Santry, Dublin 9",Dublin,188000.0,No,Santry,Dublin 9,q2,40%
+16/11/2016,"Brook Lawn, 40 Shanglas Road, Santry",Dublin,333000.0,No,Santry,Dublin 9,q4,90%
+23/11/2016,"18 Magenta Crescent, Santry",Dublin,295000.0,Yes,Santry,Dublin 9,q3,80%
+29/11/2016,"198 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+29/11/2016,"5 Shanard Ave, Santry, Dublin 9",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+02/12/2016,"The Bungalow, 2A Santry Close, Dublin 9",Dublin,406000.0,No,Santry,Dublin 9,q4,100%
+07/12/2016,"47 Lymewood Mews, Wood, Santry Dublin 9",Dublin,189000.0,No,Santry,Dublin 9,q2,40%
+08/12/2016,"64 Temple Court, Northwood, Santry",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+08/12/2016,"9A Shanvarna Rd, Santry, Dublin 9",Dublin,101000.0,No,Santry,Dublin 9,q1,10%
+09/12/2016,"Apt 6, The Charter, Santry Cross Dublin 11",Dublin,140000.0,No,Santry,Dublin 9,q1,20%
+12/12/2016,"29 Shanowen Hall, Shanowen Rd, Santry Dublin 9",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+12/12/2016,"7 Lorcan Ave, Santry, Dublin 9",Dublin,401000.0,No,Santry,Dublin 9,q4,100%
+15/12/2016,"27 Shanliss Walk, Santry, Dublin",Dublin,285000.0,No,Santry,Dublin 9,q3,80%
+19/12/2016,"38 Temple Gardens, Santry, Dublin 9",Dublin,208000.0,No,Santry,Dublin 9,q2,50%
+19/12/2016,"Santry Cottage, 3 Santry Villas, Santry Dublin 9",Dublin,385000.0,No,Santry,Dublin 9,q4,100%
+20/12/2016,"Apt 4, Lymewood Mews, Santry Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+21/12/2016,"10 Oakview, Santry, Dublin 9",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+04/01/2017,"4 Lorcan Dr, Santry, Dublin 9",Dublin,337500.0,No,Santry,Dublin 9,q4,90%
+13/01/2017,"2 Temple Court, Northwood, Santry",Dublin,211000.0,No,Santry,Dublin 9,q2,50%
+13/01/2017,"29 Linnbla Apts, Santry Cross, Dublin 11",Dublin,185000.0,No,Santry,Dublin 9,q2,40%
+18/01/2017,"Apt 52, The Hampton, Santry Cross Dublin 11",Dublin,102202.64,No,Santry,Dublin 9,q1,10%
+20/01/2017,"82 Temple Gardens, Santry, Dublin 9",Dublin,219000.0,No,Santry,Dublin 9,q2,50%
+24/01/2017,"177 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,217000.0,No,Santry,Dublin 9,q2,50%
+26/01/2017,"175 Block C Lymewood, Santry, Dublin 9",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+26/01/2017,"28 Shanowen Dr, Santry, Dublin 9",Dublin,317000.0,No,Santry,Dublin 9,q4,80%
+31/01/2017,"49 Lorcan Rd, Santry, Dublin 9",Dublin,395000.0,No,Santry,Dublin 9,q4,100%
+02/02/2017,"33 Woodlawn Green, Santry, Dublin 9",Dublin,153000.0,No,Santry,Dublin 9,q1,30%
+03/02/2017,"117 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,216000.0,No,Santry,Dublin 9,q2,50%
+16/02/2017,"170 Block D Carrington, Northwood Santry Dublin 9, Dublin",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+20/02/2017,"14 Shanglas Rd, Santry, Dublin 9",Dublin,221250.0,No,Santry,Dublin 9,q3,60%
+21/02/2017,"22 Shanliss Ave, Santry, Dublin 9",Dublin,310000.0,No,Santry,Dublin 9,q4,80%
+27/02/2017,"3 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,206000.0,No,Santry,Dublin 9,q2,50%
+01/03/2017,"159 Temple Gardens, Northwood, Santry Dublin 9",Dublin,270000.0,No,Santry,Dublin 9,q3,70%
+03/03/2017,"22 Shanliss Dr, Santry, Dublin 9",Dublin,310000.0,No,Santry,Dublin 9,q4,80%
+07/03/2017,"4 Oakpark Dr, Santry Dublin 9, Dublin",Dublin,278000.0,No,Santry,Dublin 9,q3,70%
+09/03/2017,"37 The Square, Larchill, Santry Dublin 9",Dublin,176000.0,No,Santry,Dublin 9,q2,40%
+10/03/2017,"Apartment 30 Shanowen Hall, Shanowen Road, Santry",Dublin,212000.0,No,Santry,Dublin 9,q2,50%
+16/03/2017,"48 Oak Park Ave, Santry, Dublin 9",Dublin,262000.0,No,Santry,Dublin 9,q3,70%
+21/03/2017,"32 Woodlawn Park, Santry, Dublin 9",Dublin,321000.0,No,Santry,Dublin 9,q4,80%
+27/03/2017,"31 The View, Larch Hill, Santry Dublin 9",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+28/03/2017,"56 The Square, Larch Hill, Santry Dublin 9",Dublin,162000.0,No,Santry,Dublin 9,q2,30%
+28/03/2017,"58 Temple Lawns, Northwood, Santry Dublin 9",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+31/03/2017,"39 The View, Larch Hill, Santry Dublin 17",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+31/03/2017,"71 Hazelwood, Santry, Co Dublin",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+05/04/2017,"3 Oak View, Santry, Dublin 9",Dublin,276000.0,No,Santry,Dublin 9,q3,70%
+06/04/2017,"18 Shanliss Rd, Santry, Dublin 9",Dublin,367000.0,No,Santry,Dublin 9,q4,100%
+12/04/2017,"14 Shanowen Dr, Santry, Dublin 9",Dublin,385000.0,No,Santry,Dublin 9,q4,100%
+13/04/2017,"23 Parklands, Northwood, Santry Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+13/04/2017,"Apt 239 Block 5, Parklands, Northwood  Santry",Dublin,206000.0,No,Santry,Dublin 9,q2,50%
+21/04/2017,"14 Shanowen Crescent, Santry, Dublin 9",Dublin,320180.0,No,Santry,Dublin 9,q4,80%
+28/04/2017,"35 Oak Court, Santry, Dublin 9",Dublin,327000.0,No,Santry,Dublin 9,q4,90%
+28/04/2017,"38 Shanard Rd, Santry, Dublin 9",Dublin,305000.0,No,Santry,Dublin 9,q4,80%
+08/05/2017,"36 Shanowen Hall, Shanowen Rd, Santry Dublin 9",Dublin,267000.0,No,Santry,Dublin 9,q3,70%
+09/05/2017,"53 Shanowen Grove, Santry, Dublin 9",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+10/05/2017,"226 Parklands, Northwood, Santry Dublin 9",Dublin,160000.0,No,Santry,Dublin 9,q2,30%
+11/05/2017,"16 The Turnpike, Santry Cross, Turnpike Dublin 9",Dublin,101000.0,No,Santry,Dublin 9,q1,10%
+12/05/2017,"192 Carrington Park, Northwood, Santry",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+19/05/2017,"19 The Crescent, Larch Hill, Santry",Dublin,242000.0,No,Santry,Dublin 9,q3,60%
+22/05/2017,"14 Lymewood Mews North Wood, Santry Dublin 9, Dublin",Dublin,187500.0,No,Santry,Dublin 9,q2,40%
+23/05/2017,"26 Oak Park Dr, Santry, Dublin 9",Dublin,280000.0,No,Santry,Dublin 9,q3,70%
+29/05/2017,"7 Oak Dr, Royal Oak, Santry Dublin 9",Dublin,335000.0,No,Santry,Dublin 9,q4,90%
+30/05/2017,"10 Woodlawn Close, Santry, Dublin 9",Dublin,391000.0,No,Santry,Dublin 9,q4,100%
+30/05/2017,"20 The Goulding, Santry Cross, Santry Ave",Dublin,178000.0,No,Santry,Dublin 9,q2,40%
+30/05/2017,"5 Magenta Hall, Santry, Dublin 9",Dublin,388000.0,No,Santry,Dublin 9,q4,100%
+01/06/2017,"4 Burnside, Santry, Dublin 9",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+06/06/2017,"22 The Goulding, Santry Cross, Santry Aveiue",Dublin,125000.0,No,Santry,Dublin 9,q1,20%
+07/06/2017,"11 Santry Villas, Santry, Dublin 9",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+09/06/2017,"28 The View, Larch Hill, Santry",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+09/06/2017,"60 Santry Close, Dublin 9, Dublin",Dublin,460000.0,No,Santry,Dublin 9,q4,100%
+14/06/2017,"1 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"17 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"21 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"22 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"25 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"27 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"30 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"34 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"36 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"49 The Hampton, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"50 The Hampton, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+14/06/2017,"54 The Hampton, Santry Cross, Santry Dublin 9",Dublin,93568.31,No,Santry,Dublin 9,q1,10%
+15/06/2017,"22 Temple Lawns, Northwood, Santry",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+15/06/2017,"3 Schoolhouse Lane, Santry, Dublin 9",Dublin,305000.0,No,Santry,Dublin 9,q4,80%
+23/06/2017,"208 Temple Court, Northwood, Santry Dublin 9",Dublin,223000.0,No,Santry,Dublin 9,q3,60%
+28/06/2017,"171 Lymewood Mews, North Wood, Santry Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+30/06/2017,"46 Shanowen Pk, Santry, Dublin 9",Dublin,360000.0,No,Santry,Dublin 9,q4,90%
+30/06/2017,"Apt 188 Templecourt Northwood, Santry, Dublin",Dublin,242000.0,No,Santry,Dublin 9,q3,60%
+03/07/2017,"135 Lymewood Mews, Santry, Dublin 9",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+04/07/2017,"11 The Court Larchill, Santry Dublin 17, Dublin",Dublin,165000.0,No,Santry,Dublin 9,q2,30%
+05/07/2017,"3 The View, Larch Hill, Santry",Dublin,244000.0,No,Santry,Dublin 9,q3,60%
+07/07/2017,"100 Shanard Road, Santry, Dublin 9",Dublin,376000.0,No,Santry,Dublin 9,q4,100%
+14/07/2017,"140 Parklands, Santry, Dublin 9",Dublin,233000.0,No,Santry,Dublin 9,q3,60%
+18/07/2017,"54 Temple Court, Wood, Santry Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+20/07/2017,"40 The Court, Larch Hill, Santry Dublin 9",Dublin,170000.0,No,Santry,Dublin 9,q2,30%
+21/07/2017,"276 Parklands, Northwood, Santry Dublin 9",Dublin,239000.0,No,Santry,Dublin 9,q3,60%
+25/07/2017,"1A Hazelwood Apts, Northwood, Santry",Dublin,6415000.0,No,Santry,Dublin 9,q4,100%
+25/07/2017,"21 Hazelwood, Northwood, Santry",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+25/07/2017,"30 The Court Larch Hill, Santry Dublin 9, Dublin",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+25/07/2017,"Apt 36 Block C, Hazlewood, Santry",Dublin,2750000.0,No,Santry,Dublin 9,q4,100%
+26/07/2017,"90 Shanard Rd, Santry, Dublin",Dublin,368000.0,No,Santry,Dublin 9,q4,100%
+31/07/2017,"256 Parklands, Northwood, Santry Dublin 9",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+01/08/2017,"116 Geraldstown Woods, Santry Ave, Santry Dublin 9",Dublin,140000.0,No,Santry,Dublin 9,q1,20%
+01/08/2017,"201 Temple Court, Northwood, Santry Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+01/08/2017,"404 Coultry Rd Ave, Santry Dublin 9, Dublin",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+03/08/2017,"186 Temple Court, Northwood, Santry",Dublin,217000.0,No,Santry,Dublin 9,q2,50%
+04/08/2017,"158 Aulden Grange, Santry, Dublin 17",Dublin,310000.0,No,Santry,Dublin 9,q4,80%
+09/08/2017,"88 Temple Court, Northwood, Santry",Dublin,253000.0,No,Santry,Dublin 9,q3,70%
+11/08/2017,"St Josephs, Coolock Lane, Santry Dublin 9",Dublin,510000.0,No,Santry,Dublin 9,q4,100%
+14/08/2017,"98 Forest Wood Avenue, Santry, Dublin 9",Dublin,271000.0,No,Santry,Dublin 9,q3,70%
+17/08/2017,"57 Shanard Rd, Santry, Dublin 9",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+18/08/2017,"132 Lorcan Ave, Santry, Dublin 9",Dublin,370000.0,No,Santry,Dublin 9,q4,100%
+25/08/2017,"168 Shanliss Road, Santry, Dublin 9",Dublin,276000.0,No,Santry,Dublin 9,q3,70%
+25/08/2017,"44 Shanard Rd, Santry, Dublin 9",Dublin,352000.0,No,Santry,Dublin 9,q4,90%
+25/08/2017,"64 Temple Lawns, Santry, Dublin 9",Dublin,246500.0,No,Santry,Dublin 9,q3,60%
+29/08/2017,"117 Shanard Rd, Santry, Dublin 9",Dublin,332000.0,No,Santry,Dublin 9,q4,90%
+29/08/2017,"163 Temple Court, North Wood, Santry Dublin 9",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+30/08/2017,"36 Temple Lawns, North Wood, Santry Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+31/08/2017,"42 The Crescent, Larch Hill, Santry",Dublin,155000.0,No,Santry,Dublin 9,q2,30%
+31/08/2017,"96 Temple Court, Santry, Dublin 9",Dublin,158000.0,No,Santry,Dublin 9,q2,30%
+04/09/2017,"6 Shanliss Rd, Santry, Dublin 9",Dublin,367000.0,No,Santry,Dublin 9,q4,100%
+05/09/2017,"25 Shanowen Dr, Santry, Dublin 9",Dublin,435000.0,No,Santry,Dublin 9,q4,100%
+05/09/2017,"99 Temple Court, Wood, Santry Dublin 9",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+06/09/2017,"15 Temple Lawns, Northwood Ave, Santry Dublin 9",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+14/09/2017,"Apt. 4A - Shanowen Hall, Shanowen Road, Santry",Dublin,292000.0,No,Santry,Dublin 9,q3,80%
+14/09/2017,"Apt.87 - Block 3, Parklands, Northwood  Santry",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+15/09/2017,"1 Shanowen Ave, Santry, Dublin 9",Dublin,396751.0,No,Santry,Dublin 9,q4,100%
+15/09/2017,"15 The Turnpike, Santry Cross, Santry",Dublin,100000.0,No,Santry,Dublin 9,q1,10%
+15/09/2017,"8 Santry Court, Off Coolock Lane, Santry Dublin 9",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+15/09/2017,"Apt 55 Parklands, Northwood, Santry Dublin 9",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+18/09/2017,"35 The Square, Larchill, Santry",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+19/09/2017,"Apt 3 Block F, Milners Sq, Santry Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+21/09/2017,"20 Shanowen Ave, Santry, Dublin 9",Dublin,372000.0,No,Santry,Dublin 9,q4,100%
+26/09/2017,"104 Shanliss Rd, Santry, Dublin 9",Dublin,357000.0,No,Santry,Dublin 9,q4,90%
+26/09/2017,"21 Woodlawn Way, Santry, Dublin 17",Dublin,425000.0,No,Santry,Dublin 9,q4,100%
+26/09/2017,"Apt 52, The Hampton, Santry Cross Dublin 11",Dublin,111500.0,No,Santry,Dublin 9,q1,10%
+29/09/2017,"168 Blockd Carraing, Northwood, Santry Dublin 9",Dublin,97500.0,No,Santry,Dublin 9,q1,10%
+02/10/2017,"9 Shanliss Road, Santry, Dublin 9",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+03/10/2017,"Apt 137 Parklands, Northwood, Santry Dublin 9",Dublin,201000.0,No,Santry,Dublin 9,q2,50%
+06/10/2017,"16 Schoolhouse Court, Schoolhouse Lane, Santry",Dublin,165000.0,No,Santry,Dublin 9,q2,30%
+06/10/2017,"No 66 First Floor, Block B Carrington Park, Northwood Santry",Dublin,233000.0,No,Santry,Dublin 9,q3,60%
+10/10/2017,"39 Shanliss Rd, Santry, Dublin 9",Dublin,331000.0,No,Santry,Dublin 9,q4,90%
+18/10/2017,"37 Shanowen Ave, Santry, Dublin 9",Dublin,400000.0,No,Santry,Dublin 9,q4,100%
+18/10/2017,"90 Lorcan Ave, Santry, Dublin 9",Dublin,415000.0,No,Santry,Dublin 9,q4,100%
+19/10/2017,"40 Shanowen Ave, Santry, Dublin 9",Dublin,410000.0,No,Santry,Dublin 9,q4,100%
+20/10/2017,"11 Knightswood, Santry, Dublin 9",Dublin,407500.0,No,Santry,Dublin 9,q4,100%
+20/10/2017,"13 Burnside, Santry, Dublin 9",Dublin,337000.0,No,Santry,Dublin 9,q4,90%
+20/10/2017,"31 Woodlawn View, Santry, Dublin 9",Dublin,325000.0,No,Santry,Dublin 9,q4,80%
+26/10/2017,"28 Oak Green, Royal Oak, Santry Dublin 9",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+01/11/2017,"84 Temple Lawns, Santry, Dublin 9",Dublin,255000.0,No,Santry,Dublin 9,q3,70%
+02/11/2017,"3 Lorcan Dr, Santry, Dublin 9",Dublin,405000.0,No,Santry,Dublin 9,q4,100%
+02/11/2017,"30 Woodlawn Rise, Santry Dublin 9, Dublin",Dublin,357000.0,No,Santry,Dublin 9,q4,90%
+10/11/2017,"13 Lorcan Crescent, Santry, Dublin 9",Dublin,363000.0,No,Santry,Dublin 9,q4,90%
+10/11/2017,"158 Shantalla Rd, Santry, Dublin 9",Dublin,412000.0,No,Santry,Dublin 9,q4,100%
+16/11/2017,"194 Shanliss Rd, Santry, Dublin 9",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+17/11/2017,"19 Shanliss Park, Santry, Dublin 9",Dublin,460000.0,No,Santry,Dublin 9,q4,100%
+17/11/2017,"78 Shanliss Rd, Santry, Dublin",Dublin,388000.0,No,Santry,Dublin 9,q4,100%
+20/11/2017,"29 The Charter, Santry Cross, Co Dublin",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+23/11/2017,"22 Block B  And Others   Hazlewood, Northwood, Santry Demense",Dublin,1457142.86,No,Santry,Dublin 9,q4,100%
+23/11/2017,"30 And Others Block B Hazelwood, Northwood, Santry Demense",Dublin,1092857.14,No,Santry,Dublin 9,q4,100%
+23/11/2017,"59 Hazelwood, Northwood, Santry Demesne Dublin 9",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+28/11/2017,"80 Shanliss Rd, Santry, Dublin 9",Dublin,415000.0,No,Santry,Dublin 9,q4,100%
+01/12/2017,"1 The Court, Larch Hill  Oscar Traynor Road, Santry",Dublin,256000.0,No,Santry,Dublin 9,q3,70%
+01/12/2017,"20 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,150000.0,No,Santry,Dublin 9,q1,30%
+04/12/2017,"34 Lorcan Park, Santry, Dublin 9",Dublin,375000.0,No,Santry,Dublin 9,q4,100%
+04/12/2017,"67 Lorcan Rd, Santry, Dublin 9",Dublin,410000.0,No,Santry,Dublin 9,q4,100%
+07/12/2017,"61 Shanliss Rd, Santry, Dublin 9",Dublin,403000.0,No,Santry,Dublin 9,q4,100%
+13/12/2017,"16A Magenta Hall, Santry, Dublin 9",Dublin,500000.0,Yes,Santry,Dublin 9,q4,100%
+13/12/2017,"2 Royal Oak Green, Santry, Dublin 9",Dublin,325000.0,No,Santry,Dublin 9,q4,80%
+13/12/2017,"2 Shanowen Grove, Santry, Dublin 9",Dublin,413000.0,No,Santry,Dublin 9,q4,100%
+13/12/2017,"98 Shanliss Rd, Santry, Dublin 9",Dublin,366000.0,No,Santry,Dublin 9,q4,90%
+18/12/2017,"46 Shanliss Rd, Santry, Dublin 9",Dublin,360000.0,No,Santry,Dublin 9,q4,90%
+19/12/2017,"261 Carrington, Northwood, Santry",Dublin,263000.0,No,Santry,Dublin 9,q3,70%
+19/12/2017,"59 The Green Larchill, Santry, Dublin 9",Dublin,213000.0,No,Santry,Dublin 9,q2,50%
+19/12/2017,"87 Temple Gardens, Santry, Dublin 9",Dublin,395500.0,No,Santry,Dublin 9,q4,100%
+03/01/2018,"28 Lymewoods Mews, Northwood, Santry",Dublin,269000.0,No,Santry,Dublin 9,q3,70%
+12/01/2018,"21 Lymewood Mews, Santry, Dublin 9",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+17/01/2018,"25 Shanliss Walk, Santry, Dublin 9",Dublin,345000.0,No,Santry,Dublin 9,q4,90%
+19/01/2018,"55 Temple Lawns, Northwood, Santry Dublin 9",Dublin,302000.0,No,Santry,Dublin 9,q4,80%
+23/01/2018,"25 Magenta Crescent, Santry, Dublin 9",Dublin,296000.0,No,Santry,Dublin 9,q3,80%
+29/01/2018,"12 The Claremont, Santry Cross, Dublin 9",Dublin,162000.0,No,Santry,Dublin 9,q2,30%
+09/02/2018,"205 Temple Court, Northwood, Santry",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+09/02/2018,"36 Lorcan Rd, Santry, Dublin 9",Dublin,425000.0,No,Santry,Dublin 9,q4,100%
+13/02/2018,"61 Temple Lawns, Northwood, Santry Dublin 9",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+14/02/2018,"53 The Square, Larch Hill, Santry Dublin 17",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+19/02/2018,"3 Parklands, Northwood Ave, Santry Dublin 9",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+22/02/2018,"79 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+27/02/2018,"110 Geraldstown Woods, Santry Ave, Dublin 9",Dublin,162000.0,No,Santry,Dublin 9,q2,30%
+06/03/2018,"105 Church Ave, Santry, Dublin 9",Dublin,639000.0,No,Santry,Dublin 9,q4,100%
+14/03/2018,"14 Burnside, Santry, Dublin 9",Dublin,332000.0,No,Santry,Dublin 9,q4,90%
+14/03/2018,"74 Temple Court, Northwood, Santry Dublin 9",Dublin,253000.0,No,Santry,Dublin 9,q3,70%
+15/03/2018,"210 Temple Court, Northwood Santry, Dublin 9",Dublin,257000.0,No,Santry,Dublin 9,q3,70%
+21/03/2018,"38 Shanglas Rd, Santry, Dublin 9",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+21/03/2018,"9 Woodlawn Walk, Santry, Dublin 9",Dublin,360000.0,No,Santry,Dublin 9,q4,90%
+23/03/2018,"49 The Court, Larch Hill, Oscartraynor Rd Santry",Dublin,305000.0,No,Santry,Dublin 9,q4,80%
+28/03/2018,"8 Woodlawn Dr, Santry, Dublin 9",Dublin,382000.0,No,Santry,Dublin 9,q4,100%
+29/03/2018,"36 Shanliss Rd, Santry, Dublin 9",Dublin,490000.0,No,Santry,Dublin 9,q4,100%
+29/03/2018,"50 The Square, Larch Hill, Santry Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+12/04/2018,"12 Shanowen Rd, Santry, Dublin 9",Dublin,357000.0,No,Santry,Dublin 9,q4,90%
+16/04/2018,"135A Shanliss Road, Santry, Dublin 9",Dublin,400000.0,Yes,Santry,Dublin 9,q4,100%
+16/04/2018,"77 Carrington Park, Santry, Dublin",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+19/04/2018,"113 Carrington, Santry, Dublin 9",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+20/04/2018,"213 Carrington Park, North Wood, Santry Dublin 9",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+20/04/2018,"52 Temple Gardens, Santry Dublin 9, Dublin",Dublin,252500.0,No,Santry,Dublin 9,q3,70%
+24/04/2018,"98 Geralds Town Wood, Santry, Dublin 9",Dublin,190000.0,No,Santry,Dublin 9,q2,40%
+30/04/2018,"44 Magenta Hall, Santry, Dublin 9",Dublin,650000.0,No,Santry,Dublin 9,q4,100%
+03/05/2018,"129 Temple Gardens, Northwood, Santry Dublin 9",Dublin,272000.0,No,Santry,Dublin 9,q3,70%
+03/05/2018,"47 Shanrath Rd, Santry, Dublin 9",Dublin,442000.0,No,Santry,Dublin 9,q4,100%
+14/05/2018,"40 Oak Dr, Royal Oak, Santry Dublin 9",Dublin,365000.0,No,Santry,Dublin 9,q4,90%
+15/05/2018,"1 Schoolhouse Court, Schoolhouse Lane, Santry",Dublin,164428.0,No,Santry,Dublin 9,q2,30%
+15/05/2018,"117 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,280000.0,No,Santry,Dublin 9,q3,70%
+15/05/2018,"173 Temple Gardens, Northwood, Santry Dublin 9",Dublin,280000.0,No,Santry,Dublin 9,q3,70%
+15/05/2018,"2 Schoolhouse Court, Schoolhouse Lane, Santry",Dublin,164428.0,No,Santry,Dublin 9,q2,30%
+15/05/2018,"3 Schoolhouse Court, Schoolhouse Lane, Santry",Dublin,164428.0,No,Santry,Dublin 9,q2,30%
+15/05/2018,"4 Schoolhouse Court, Schoolhouse Lane, Santry",Dublin,164428.0,No,Santry,Dublin 9,q2,30%
+15/05/2018,"5 Schoolhouse Court, Schoolhouse Lane, Santry",Dublin,164428.0,No,Santry,Dublin 9,q2,30%
+15/05/2018,"6 Schoolhouse Court, Schoolhouse Lane, Santry",Dublin,164428.0,No,Santry,Dublin 9,q2,30%
+15/05/2018,"7 Schoolhouse Court, Schoolhouse Lane, Santry",Dublin,164428.0,No,Santry,Dublin 9,q2,30%
+17/05/2018,"16 Northwood Green, Santry",Dublin,339206.0,Yes,Santry,Dublin 9,q4,90%
+17/05/2018,"34 Woodlawn Rise, Santry, Dublin 9",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+18/05/2018,"80 Lymewood Mews, Santry, Dublin 9",Dublin,291000.0,No,Santry,Dublin 9,q3,80%
+21/05/2018,"22 Knightswood, Santry, Dublin 9",Dublin,305000.0,No,Santry,Dublin 9,q4,80%
+31/05/2018,"3 Northwood, Green, Santry",Dublin,330396.0,Yes,Santry,Dublin 9,q4,90%
+31/05/2018,"32 Lorcan Rd, Santry, Dublin 9",Dublin,390000.0,No,Santry,Dublin 9,q4,100%
+01/06/2018,"6 Oakpark Close, Santry Dublin 9, Dublin",Dublin,333000.0,No,Santry,Dublin 9,q4,90%
+06/06/2018,"65 Temple Court, North Wood, Santry",Dublin,241000.0,No,Santry,Dublin 9,q3,60%
+07/06/2018,"49 Magenta Hall, Santry, Dublin 9",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+11/06/2018,"27 Woodlawn Close, Santry, Dublin 9",Dublin,335000.0,No,Santry,Dublin 9,q4,90%
+13/06/2018,"7 Shanliss Dr, Santry, Dublin 9",Dublin,420000.0,No,Santry,Dublin 9,q4,100%
+15/06/2018,"24 Shanowen Ave, Santry, Dublin 9",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+19/06/2018,"17 Northwood Green, Santry",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+19/06/2018,"5 Shanliss Way, Santry, Dublin 9",Dublin,405000.0,No,Santry,Dublin 9,q4,100%
+21/06/2018,"143 Temple Court, Northwood Estate, Santry",Dublin,237500.0,No,Santry,Dublin 9,q3,60%
+21/06/2018,"82 Shanliss Way, Santry, Dublin 9",Dublin,366000.0,No,Santry,Dublin 9,q4,90%
+22/06/2018,"121 Temple Gardens, Santry, Dublin 9",Dublin,246000.0,No,Santry,Dublin 9,q3,60%
+22/06/2018,"5 Lorcan Crescent, Santry, Dublin 9",Dublin,415000.0,No,Santry,Dublin 9,q4,100%
+27/06/2018,"164 Block D, Parklands  Northwood, Santry",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+28/06/2018,"52 Shanliss Ave, Santry, Dublin 9",Dublin,348000.0,No,Santry,Dublin 9,q4,90%
+28/06/2018,"93 Lymewood Mews, North Wood, Santry Dublin 9",Dublin,280000.0,No,Santry,Dublin 9,q3,70%
+02/07/2018,"229 The Willows, Carrington, Northwood Santry Dublin 9",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+02/07/2018,"93 Shanard Rd, Santry, Dublin 9",Dublin,317000.0,No,Santry,Dublin 9,q4,80%
+03/07/2018,"Apt 90 Templecourt, Northwood, Santry",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+04/07/2018,"21 The Goulding, Santry Cross, Dublin 9",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+12/07/2018,"9 Woodlawn Rise, Santry, Dublin 9",Dublin,360000.0,No,Santry,Dublin 9,q4,90%
+13/07/2018,"255 Parklands, Northwood Santry, Dublin 9",Dublin,255000.0,No,Santry,Dublin 9,q3,70%
+17/07/2018,"19 Northwood Green, Santry Avenue, Santry",Dublin,339206.0,Yes,Santry,Dublin 9,q4,90%
+18/07/2018,"11 Shanowen Crescent, Santry, Dublin",Dublin,190333.33,No,Santry,Dublin 9,q2,40%
+18/07/2018,"11A Shanowen Crescent, Santry, Co Dublin",Dublin,190333.33,No,Santry,Dublin 9,q2,40%
+18/07/2018,"11B Shanowen Crescent, Santry, Co Dublin",Dublin,190333.33,No,Santry,Dublin 9,q2,40%
+25/07/2018,"191 Parklands, Santry, Dublin 9",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+25/07/2018,"5 Northwood Green, Santry",Dublin,343612.33,Yes,Santry,Dublin 9,q4,90%
+26/07/2018,"44 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,282500.0,No,Santry,Dublin 9,q3,80%
+27/07/2018,"148 Santry Close, Santry, Dublin 9",Dublin,450000.0,No,Santry,Dublin 9,q4,100%
+27/07/2018,"20 Northwood Green, Santry, Dublin 9",Dublin,339207.04,Yes,Santry,Dublin 9,q4,90%
+30/07/2018,"9 Temple Court, Northwood, Santry Dublin 9",Dublin,280000.0,No,Santry,Dublin 9,q3,80%
+01/08/2018,"20 Burnside, Magenta Crescent, Santry Dublin 9",Dublin,325000.0,No,Santry,Dublin 9,q4,80%
+02/08/2018,"189 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,285000.0,No,Santry,Dublin 9,q3,80%
+02/08/2018,"20 Shanboley Rd, Santry, Dublin 9",Dublin,357000.0,No,Santry,Dublin 9,q4,90%
+03/08/2018,"15 Northwood Green, Santry",Dublin,339206.0,Yes,Santry,Dublin 9,q4,90%
+03/08/2018,"22 Lymewood Mews, Santry, Dublin 9",Dublin,222500.0,No,Santry,Dublin 9,q3,60%
+10/08/2018,"120 Shanliss Ave, Santry, Dublin 9",Dublin,335000.0,No,Santry,Dublin 9,q4,90%
+14/08/2018,"196 Lymewood Mews, Santry Woods, Dublin 9",Dublin,305000.0,No,Santry,Dublin 9,q4,80%
+15/08/2018,"85 Lymewood Mews, Santry, Dublin 9",Dublin,279000.0,No,Santry,Dublin 9,q3,70%
+17/08/2018,"1 Shanard Road, Santry, Dublin 9",Dublin,385000.0,No,Santry,Dublin 9,q4,100%
+22/08/2018,"143 Shanliss Rd, Santry, Dublin 9",Dublin,365000.0,No,Santry,Dublin 9,q4,90%
+22/08/2018,"49 Oak Ave, Royal Oak, Santry Dublin 9",Dublin,330000.0,No,Santry,Dublin 9,q4,90%
+23/08/2018,"121 Lymewood Meuse, Northwood, Santry",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+23/08/2018,"21  Northwood Green, Santry",Dublin,374449.37,Yes,Santry,Dublin 9,q4,100%
+24/08/2018,"10 Lorcan Grove, Santry, Dublin 9",Dublin,420000.0,No,Santry,Dublin 9,q4,100%
+24/08/2018,"4 Northwood Green, Santry, Dublin 9",Dublin,330396.47,Yes,Santry,Dublin 9,q4,90%
+28/08/2018,"181 Parklands, Santry Dublin 9, Dublin",Dublin,196277.0,No,Santry,Dublin 9,q2,40%
+30/08/2018,"32 The Crescent, Larch Hill, Santry Dublin 17",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+31/08/2018,"5 Shanowen Ave, Santry, Dublin 9",Dublin,356000.0,No,Santry,Dublin 9,q4,90%
+03/09/2018,"31 The Turnpike, Santry Cross, Turnpike",Dublin,148400.0,No,Santry,Dublin 9,q1,30%
+03/09/2018,"32 Temple Court, Northwood, Santry",Dublin,226000.0,No,Santry,Dublin 9,q3,60%
+06/09/2018,"18 Northwood Green, Santry",Dublin,313008.12,Yes,Santry,Dublin 9,q4,80%
+07/09/2018,"57 Lorcan Avenue, Santry, Dublin 9",Dublin,370000.0,No,Santry,Dublin 9,q4,100%
+07/09/2018,"58 Temple Court Northwood, Santry Dublin 9, Dublin",Dublin,248000.0,No,Santry,Dublin 9,q3,60%
+14/09/2018,"72 Santry Close, Santry, Dublin 9",Dublin,445000.0,No,Santry,Dublin 9,q4,100%
+14/09/2018,"98 Santry Close, Santry, Dublin 9",Dublin,415000.0,No,Santry,Dublin 9,q4,100%
+17/09/2018,"134 Temple Court, North Wood, Santry Dublin 9",Dublin,241000.0,No,Santry,Dublin 9,q3,60%
+17/09/2018,"147 Parklands, Northwood, Santry Dublin 9",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+17/09/2018,"50 Milners Sq, Shanowen Rd, Santry Dublin 9",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+18/09/2018,"32 Oak Grove, Royal Oak, Santry Dublin 9",Dublin,344000.0,No,Santry,Dublin 9,q4,90%
+18/09/2018,"7 The Claremont, Santry Cross, Dublin 9",Dublin,140000.0,No,Santry,Dublin 9,q1,20%
+18/09/2018,"77 Magenta Hall, Santry, Dublin 9",Dublin,450000.0,No,Santry,Dublin 9,q4,100%
+21/09/2018,"18 Woodlawn Court, Santry, Dublin 5",Dublin,375500.0,No,Santry,Dublin 9,q4,100%
+25/09/2018,"146 Parklands, Northwood, Santry Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+28/09/2018,"29 Temple Court Northwood, Santry Dublin 9, Dublin",Dublin,257000.0,No,Santry,Dublin 9,q3,70%
+05/10/2018,"169 Shanliss Rd, Santry, Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+05/10/2018,"31 Geraldstown Woods Santry Ave, Santry Dublin 9, Dublin",Dublin,165000.0,No,Santry,Dublin 9,q2,30%
+05/10/2018,"56 Heywood Court, Northwood, Santry Dublin 9",Dublin,272000.0,No,Santry,Dublin 9,q3,70%
+08/10/2018,"77 Shanliss Rd, Santry, Dublin 9",Dublin,270000.0,No,Santry,Dublin 9,q3,70%
+09/10/2018,"25 Shanrath Rd, Santry, Dublin 9",Dublin,339000.0,No,Santry,Dublin 9,q4,90%
+11/10/2018,"Unit 42 Block 2 Temple Court, Northwood, Santry Dublin 9",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+12/10/2018,"96 Shanliss Ave, Santry, Dublin 9",Dublin,162500.0,No,Santry,Dublin 9,q2,30%
+15/10/2018,"206 Parklands, Northwood, Santry Dublin 9",Dublin,280000.0,No,Santry,Dublin 9,q3,80%
+15/10/2018,"42 Temple Lawns, Northwood Estate, Santry Dublin 9",Dublin,256500.0,No,Santry,Dublin 9,q3,70%
+19/10/2018,"147 Temple Court, Northwood, Santry Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+23/10/2018,"Apt 27 Block B Shanowen Hall, Shanowen Road, Santry",Dublin,330000.0,No,Santry,Dublin 9,q4,90%
+26/10/2018,"35 Lymewood Mews, Block C, Santry Woods Dublin 9",Dublin,276000.0,No,Santry,Dublin 9,q3,70%
+31/10/2018,"21 Shanard Ave, Santry, Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+31/10/2018,"48 Shanard Rd, Santry, Dublin 9",Dublin,355000.0,No,Santry,Dublin 9,q4,90%
+01/11/2018,"13 Oak Crescent, Royal Oak, Santry Dublin 9",Dublin,355000.0,No,Santry,Dublin 9,q4,90%
+02/11/2018,"12 The Kilmore, Santry Cross, Santry Avenue",Dublin,243000.0,No,Santry,Dublin 9,q3,60%
+06/11/2018,"Apt 1, 146A Aulden Grange, Santry Dublin 9",Dublin,227500.0,No,Santry,Dublin 9,q3,60%
+06/11/2018,"Apt 2, 146A Aulden Grange, Santry Dublin 9",Dublin,227500.0,No,Santry,Dublin 9,q3,60%
+06/11/2018,"Apt 3, 146A Aulden Grange, Santry Dublin 9",Dublin,227500.0,No,Santry,Dublin 9,q3,60%
+06/11/2018,"Apt 4, 146A Aulden Grange, Santry Dublin 9",Dublin,227500.0,No,Santry,Dublin 9,q3,60%
+13/11/2018,"1 The Court, Larch Hill  Oscar Traynor Road, Santry",Dublin,13000.0,No,Santry,Dublin 9,q1,10%
+13/11/2018,"25 Northwood Green, Santry",Dublin,339207.04,Yes,Santry,Dublin 9,q4,90%
+15/11/2018,"14 Shanvarna Rd, Santry, Dublin 9",Dublin,550000.0,No,Santry,Dublin 9,q4,100%
+15/11/2018,"24 Northwood Green, Santry, Dublin 9",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+15/11/2018,"29 Northwood Green, Santry, Dublin 9",Dublin,337004.0,Yes,Santry,Dublin 9,q4,90%
+19/11/2018,"164 Shanliss Rd, Santry, Dublin 9",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+19/11/2018,"59 Shanowen Park, Santry, Dublin 9",Dublin,340000.0,No,Santry,Dublin 9,q4,90%
+19/11/2018,"63 The Square, Larchill, Santry",Dublin,223500.0,No,Santry,Dublin 9,q3,60%
+20/11/2018,"244 Parklands, Northwood, Santry Dublin 9",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+23/11/2018,"17 The Turnpike, Santry Cross, Santry Dublin 9",Dublin,1095000.0,No,Santry,Dublin 9,q4,100%
+23/11/2018,"3 Shanowen Crescent, Santry, Dublin 9",Dublin,340000.0,No,Santry,Dublin 9,q4,90%
+26/11/2018,"61 Lymewood Mews, Santry, Dublin",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+27/11/2018,"29 Lorcan Ave, Santry, Dublin 9",Dublin,373000.0,No,Santry,Dublin 9,q4,100%
+27/11/2018,"Apt 1 60 Hazelwood, Northwood, Santry Dublin 9",Dublin,302000.0,No,Santry,Dublin 9,q4,80%
+29/11/2018,"3 Shanowen Drive, Santry, Dublin 9",Dublin,340000.0,No,Santry,Dublin 9,q4,90%
+29/11/2018,"44 The Green, Larch Hill Santry, Dublin 17",Dublin,207500.0,No,Santry,Dublin 9,q2,50%
+30/11/2018,"1A Shanliss Rd, Santry, Dublin",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+30/11/2018,"22 Shanvarna Rd, Santry, Dublin 9",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+30/11/2018,"26 Northwood Green, Santry",Dublin,339206.0,Yes,Santry,Dublin 9,q4,90%
+30/11/2018,"36 Geraldstown Woods, Santry Ave, Dublin 9",Dublin,165000.0,No,Santry,Dublin 9,q2,30%
+12/12/2018,"123 Block C, Parklands, Santry",Dublin,255000.0,No,Santry,Dublin 9,q3,70%
+12/12/2018,"71 Temple Gardens, Northwood, Santry Dublin 9",Dublin,242500.0,No,Santry,Dublin 9,q3,60%
+13/12/2018,"Apt 240 Block 5, Parklands Northwood, Santry Dublin 9",Dublin,270000.0,No,Santry,Dublin 9,q3,70%
+14/12/2018,"51 Shanowen Dr, Santry, Dublin 9",Dublin,497000.0,No,Santry,Dublin 9,q4,100%
+14/12/2018,"7 Cedarview, Northwood, Santry Demesne",Dublin,436122.0,Yes,Santry,Dublin 9,q4,100%
+17/12/2018,"13 Oak View, Santry, Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+17/12/2018,"31 Cedarview, Northwood, Santry Demesne",Dublin,475824.92,Yes,Santry,Dublin 9,q4,100%
+17/12/2018,"39 Cedarview, Northwood, Santry Demesne",Dublin,422906.0,Yes,Santry,Dublin 9,q4,100%
+19/12/2018,"23 Temple Lawns, Northwood, Santry Dublin 9",Dublin,217000.0,No,Santry,Dublin 9,q2,50%
+19/12/2018,"4 Cedarview, Northwood, Santry",Dublin,418502.19,Yes,Santry,Dublin 9,q4,100%
+19/12/2018,"5 Cedarview Northwood, Santry, Dublin 9",Dublin,475770.0,Yes,Santry,Dublin 9,q4,100%
+19/12/2018,"No 25 Cedarview, Northwood, Santry Demesne",Dublin,466433.64,Yes,Santry,Dublin 9,q4,100%
+20/12/2018,"48 Parklands, Santry, Dublin 9",Dublin,252000.0,No,Santry,Dublin 9,q3,70%
+20/12/2018,"93 Temple Gardens, Santry Demense, Santry",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+21/12/2018,"149 Shanliss Rd, Santry, Dublin 9",Dublin,335000.0,No,Santry,Dublin 9,q4,90%
+21/12/2018,"29 Cedarview, Northwood, Santry Demesne",Dublin,422907.0,Yes,Santry,Dublin 9,q4,100%
+21/12/2018,"3 Cedarview, Northwood, Santry",Dublin,415859.0,Yes,Santry,Dublin 9,q4,100%
+21/12/2018,"53 Geraldstown Wood, Santry Ave, Santry Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+07/01/2019,"40 Geraldstown Woods, Santry, Dublin 9",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+11/01/2019,"3A Shanowen Crescent, Santry, Dublin 9",Dublin,355000.0,No,Santry,Dublin 9,q4,90%
+11/01/2019,"4 Temple Court, Northwood Estate, Santry",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+21/01/2019,"66 Lorcan Ave, Santry, Dublin 9",Dublin,368000.0,No,Santry,Dublin 9,q4,100%
+23/01/2019,"6 Cedarview, Northwood, Santry Demesne",Dublin,480175.0,Yes,Santry,Dublin 9,q4,100%
+24/01/2019,"187 Parklands, North Wood, Santry Dublin 9",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+25/01/2019,"27 Cedarview, Northwood, Santry Demesne",Dublin,436124.0,Yes,Santry,Dublin 9,q4,100%
+28/01/2019,"5 Lymewood Mews, North Wood, Santry Dublin 9",Dublin,215000.0,No,Santry,Dublin 9,q2,50%
+30/01/2019,"248 Block 5 Parklands, Northwood, Santry",Dublin,121500.0,No,Santry,Dublin 9,q1,10%
+31/01/2019,"9 Lorcan Grove, Santry, Dublin 9",Dublin,395000.0,No,Santry,Dublin 9,q4,100%
+01/02/2019,"8 Old Town Park, Santry, Dublin 9",Dublin,330000.0,No,Santry,Dublin 9,q4,90%
+04/02/2019,"139 Aulden Grange, Santry, Dublin 17",Dublin,345000.0,No,Santry,Dublin 9,q4,90%
+05/02/2019,"81 Shanliss Way, Santry, Dublin 9",Dublin,177000.0,No,Santry,Dublin 9,q2,40%
+05/02/2019,"88 Shanliss Rd, Santry, Dublin 9",Dublin,347500.0,No,Santry,Dublin 9,q4,90%
+06/02/2019,"8 Shanboley Rd, Santry, Dublin 9",Dublin,375000.0,No,Santry,Dublin 9,q4,100%
+08/02/2019,"26 Shanvarna Rd, Santry, Dublin 9",Dublin,244000.0,No,Santry,Dublin 9,q3,60%
+08/02/2019,"27 Oak Drive, Royal Oak, Santry",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+11/02/2019,"33 Northwood Green, Santry",Dublin,205035.24,Yes,Santry,Dublin 9,q2,50%
+11/02/2019,"34 Northwood Green, Santry",Dublin,142632.6,Yes,Santry,Dublin 9,q1,20%
+11/02/2019,"35 Northwood Green, Santry",Dublin,205035.24,Yes,Santry,Dublin 9,q2,50%
+11/02/2019,"36 Northwood Green, Santry",Dublin,205035.24,Yes,Santry,Dublin 9,q2,50%
+11/02/2019,"37 Northwood Green, Santry",Dublin,142632.6,Yes,Santry,Dublin 9,q1,20%
+11/02/2019,"38 Northwood Green, Santry",Dublin,205035.24,Yes,Santry,Dublin 9,q2,50%
+11/02/2019,"8 Cedarview, Northwood, Santry Demense",Dublin,485000.0,Yes,Santry,Dublin 9,q4,100%
+11/02/2019,"Apt 132 Temple Court, Northwood, Santry",Dublin,270000.0,No,Santry,Dublin 9,q3,70%
+13/02/2019,"28 Cedarview, Northwood, Santry",Dublin,436122.0,Yes,Santry,Dublin 9,q4,100%
+14/02/2019,"6 Northwood Green, Santry, Dublin 9",Dublin,365638.0,Yes,Santry,Dublin 9,q4,90%
+18/02/2019,"165 Aulden Grange, Santry, Dublin 9",Dublin,333000.0,No,Santry,Dublin 9,q4,90%
+18/02/2019,"8 Ailesbury, Shanowen Rd, Santry Dublin 9",Dublin,355000.0,No,Santry,Dublin 9,q4,90%
+20/02/2019,"21 Cedarview, Northwood, Santry Demesne",Dublin,418502.19,Yes,Santry,Dublin 9,q4,100%
+20/02/2019,"27A Shanliss Walk, Santry, Dublin 9",Dublin,330000.0,No,Santry,Dublin 9,q4,90%
+21/02/2019,"25 Santry Way, Santry, Dublin 9",Dublin,165000.0,No,Santry,Dublin 9,q2,30%
+21/02/2019,"9 Schoolhouse Court, Schoolhouse Lane, Santry Dublin 9",Dublin,190500.0,No,Santry,Dublin 9,q2,40%
+22/02/2019,"20 Cedarview, Northwood, Santry Demesne",Dublin,431718.05,Yes,Santry,Dublin 9,q4,100%
+25/02/2019,"168 Temple Court, Northwood, Santry Dublin 9",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+26/02/2019,"19 Cedarview, Northwood, Santry Demesne",Dublin,436123.0,Yes,Santry,Dublin 9,q4,100%
+28/02/2019,"31 Shanliss Dr, Santry, Dublin 9",Dublin,325000.0,No,Santry,Dublin 9,q4,80%
+01/03/2019,"135 Temple Court, Northwood, Santry",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+01/03/2019,"23 Cedarview, Northwood, Santry Demesne",Dublin,436123.0,Yes,Santry,Dublin 9,q4,100%
+05/03/2019,"62 Shanliss Rd, Santry, Dublin 9",Dublin,365000.0,No,Santry,Dublin 9,q4,90%
+05/03/2019,"81 Parklands, Northwood, Santry Dublin 9",Dublin,227000.0,No,Santry,Dublin 9,q3,60%
+07/03/2019,"5 Woodlawn View, Santry, Dublin 9",Dublin,385000.0,No,Santry,Dublin 9,q4,100%
+08/03/2019,"194 Temple Court, Northwood, Santry Dublin 9",Dublin,247000.0,No,Santry,Dublin 9,q3,60%
+11/03/2019,"17 Cedarview, Northwod, Santry Demesne",Dublin,488986.0,Yes,Santry,Dublin 9,q4,100%
+15/03/2019,"12 Cedarview, Northwood, Santry Demesne",Dublin,436124.0,Yes,Santry,Dublin 9,q4,100%
+15/03/2019,"64 Hazelwood, Santry, Dublin",Dublin,395000.0,No,Santry,Dublin 9,q4,100%
+15/03/2019,"Appartment 66   Block E, Hazelwood Northwood, Santry",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+15/03/2019,"Apt  60 Hazelwood, Northwood, Santry",Dublin,312000.0,No,Santry,Dublin 9,q4,80%
+15/03/2019,"Apt 1 62 Hazelwood, Northwood, Santry Dublin 9",Dublin,301500.0,No,Santry,Dublin 9,q4,80%
+15/03/2019,"Apt 63 Block D, Hazelwood, Northwood Santry",Dublin,395000.0,No,Santry,Dublin 9,q4,100%
+20/03/2019,"27 Shanliss Avenue, Santry, Dublin 9",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+27/03/2019,"27B Shanliss Walk, Santry, Dublin 9",Dublin,327000.0,No,Santry,Dublin 9,q4,90%
+27/03/2019,"Apt 21, The Charter, Santry Cross Dublin 11",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+01/04/2019,"20 Shanliss Rd, Santry, Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+01/04/2019,"245 Parklands, Northwood Ave, Santry Dublin 9",Dublin,245000.0,No,Santry,Dublin 9,q3,60%
+03/04/2019,"22 Cedarview, Northwood, Santry Demense",Dublin,418502.19,Yes,Santry,Dublin 9,q4,100%
+03/04/2019,"69A Lymewood Mews, Santry Demense, Northwood",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+05/04/2019,"16 Temple Lawns, North Wood, Santry Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+05/04/2019,"26 Cedarview, Northwood, Santry Demesne",Dublin,422906.0,Yes,Santry,Dublin 9,q4,100%
+08/04/2019,"66 Shanard Ave, Santry, Dublin 9",Dublin,370000.0,No,Santry,Dublin 9,q4,100%
+11/04/2019,"24 Cedarview, Northwood, Santry Demnse",Dublin,431718.0,Yes,Santry,Dublin 9,q4,100%
+11/04/2019,"86 Shanliss Way, Santry, Dublin 9",Dublin,326798.49,No,Santry,Dublin 9,q4,90%
+12/04/2019,"127 Temple Court, Northwood, Santry",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+15/04/2019,"35 Cedarview, Northwood, Santry",Dublin,462554.76,Yes,Santry,Dublin 9,q4,100%
+17/04/2019,"137 Aulden Grange, Old Coolock Lane, Santry Dublin 9",Dublin,325000.0,No,Santry,Dublin 9,q4,80%
+17/04/2019,"Apt 71, Geraldstown Woods, Santry Ave",Dublin,235000.0,No,Santry,Dublin 9,q3,60%
+24/04/2019,"174 Aulden Grange, Santry, Dublin 9",Dublin,346000.0,No,Santry,Dublin 9,q4,90%
+25/04/2019,"177 Aulden Grange, Santry, Dublin 17",Dublin,355000.0,No,Santry,Dublin 9,q4,90%
+26/04/2019,"68 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,270000.0,No,Santry,Dublin 9,q3,70%
+01/05/2019,"Apt 44, The Charter, Santry Cross Dublin 11",Dublin,118000.0,No,Santry,Dublin 9,q1,10%
+03/05/2019,"38 Shanowen Road, Santry, Dublin 9",Dublin,170000.0,No,Santry,Dublin 9,q2,30%
+03/05/2019,"90 Shanliss Way, Santry, Dublin 9",Dublin,390000.0,No,Santry,Dublin 9,q4,100%
+07/05/2019,"Apt 65 Block C, Geraldstown Woods, Santry",Dublin,130000.0,No,Santry,Dublin 9,q1,20%
+08/05/2019,"10 Temple Court, Northwood, Santry Dublin 9",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+08/05/2019,"122 Temple Gardens, North Wood, Santry",Dublin,205000.0,No,Santry,Dublin 9,q2,50%
+13/05/2019,"4 Royal Oak Cottages, Santry, Dublin 17",Dublin,170000.0,No,Santry,Dublin 9,q2,30%
+14/05/2019,"134 Aulden Grange, Santry, Dublin 17",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+16/05/2019,"12 Burnside, Santry, Dublin 9",Dublin,320000.0,No,Santry,Dublin 9,q4,80%
+20/05/2019,"Apt 132 Lymewood Mews, Northwood, Santry",Dublin,290000.0,No,Santry,Dublin 9,q3,80%
+24/05/2019,"15 Cedarview, Northwood, Santry",Dublin,414096.91,Yes,Santry,Dublin 9,q4,100%
+24/05/2019,"71 Block 2, Temple Court, Santry",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+27/05/2019,"94 Temple Gardens, Northwood, Santry",Dublin,269000.0,No,Santry,Dublin 9,q3,70%
+29/05/2019,"202 Carrington, Northwood, Santry Demense Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+29/05/2019,"90 Lymewood Mews, North Wood, Santry Dublin 9",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+04/06/2019,"31 Lorcan Rd, Santry, Dublin 9",Dublin,405000.0,No,Santry,Dublin 9,q4,100%
+07/06/2019,"177 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,390000.0,No,Santry,Dublin 9,q4,100%
+07/06/2019,"Apt 11, The Kilmore, Santry Cross Dublin 11",Dublin,195000.0,No,Santry,Dublin 9,q2,40%
+07/06/2019,"Apt 1, Parklands, Santry Dublin 9",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+08/06/2019,"11 Oak Ave, Royal Oak, Santry Dublin 9",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+10/06/2019,"156 Lymewood Mews, Northwood, Santry Dublin 9",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+10/06/2019,"70 Shanard Rd, Santry, Dublin 9",Dublin,345000.0,No,Santry,Dublin 9,q4,90%
+13/06/2019,"25 The Park, Larch Hill, Santry",Dublin,213000.0,No,Santry,Dublin 9,q2,50%
+14/06/2019,"14 Cedarview, Northwood, Santry",Dublin,409691.0,Yes,Santry,Dublin 9,q4,100%
+14/06/2019,"35 Temple Lawns, Northwood Park, Santry Dublin 9",Dublin,306000.0,No,Santry,Dublin 9,q4,80%
+17/06/2019,"Apt 107, Geraldstown Woods, Santry Ave Dublin 9",Dublin,200000.0,No,Santry,Dublin 9,q2,50%
+19/06/2019,"37 Shanowen Grove, Santry, Dublin 9",Dublin,355000.0,No,Santry,Dublin 9,q4,90%
+21/06/2019,"34 Cedarview, Northwood, Santry Demesne",Dublin,409691.62,Yes,Santry,Dublin 9,q4,100%
+21/06/2019,"92 Aulden Grange, Santry, Dublin 17",Dublin,377500.0,No,Santry,Dublin 9,q4,100%
+25/06/2019,"111 Shanard Rd, Santry, Dublin",Dublin,430000.0,No,Santry,Dublin 9,q4,100%
+27/06/2019,"247 Block 5 Parklands, Northwood, Santry",Dublin,250000.0,No,Santry,Dublin 9,q3,70%
+03/07/2019,"20 Oak Court, Royal Oak, Santry Dublin 9",Dublin,335000.0,No,Santry,Dublin 9,q4,90%
+03/07/2019,"4 Shanowen Rd, Santry, Dublin 9",Dublin,370000.0,No,Santry,Dublin 9,q4,100%
+05/07/2019,"108 Shanliss Rd, Santry, Dublin 9",Dublin,435000.0,No,Santry,Dublin 9,q4,100%
+05/07/2019,"31 Coultry Ave, Santry Ave, Dublin 9",Dublin,117500.0,No,Santry,Dublin 9,q1,10%
+09/07/2019,"265 Parklands, Northwood, Santry Dublin 9",Dublin,249000.0,No,Santry,Dublin 9,q3,60%
+11/07/2019,"No 16 Cedarview, Northwood, Santry Demesne",Dublin,475770.0,Yes,Santry,Dublin 9,q4,100%
+13/07/2019,"58 Temple Gardens, Northwood, Santry",Dublin,241500.0,No,Santry,Dublin 9,q3,60%
+16/07/2019,"135 Lymewood Mews, Santry, Dublin 9",Dublin,280000.0,No,Santry,Dublin 9,q3,80%
+18/07/2019,"Apt 95 Geraldstown Woods, Santry, Dublin 9",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+19/07/2019,"17 Shanowen Park, Santry, Dublin 9",Dublin,330000.0,No,Santry,Dublin 9,q4,90%
+22/07/2019,"11 Schoolhouse Lane, Santry, Dublin 9",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+24/07/2019,"47 Oak Ave, Santry, Dublin 9",Dublin,345000.0,No,Santry,Dublin 9,q4,90%
+26/07/2019,"Apt 21 Block 2 Parklands, Santry Dublin 9, Dublin",Dublin,225000.0,No,Santry,Dublin 9,q3,60%
+29/07/2019,"17 Lorcan Green, Santry, Dublin 9",Dublin,370000.0,No,Santry,Dublin 9,q4,100%
+30/07/2019,"48 Aulden Grange, Santry, Dublin 17",Dublin,346000.0,No,Santry,Dublin 9,q4,90%
+31/07/2019,"12 Schoolhouse Court, Santry, Dublin",Dublin,198000.0,No,Santry,Dublin 9,q2,50%
+01/08/2019,"142 Apartments At Carrington Park, Northwood, Santry",Dublin,48324000.0,No,Santry,Dublin 9,q4,100%
+01/08/2019,"39 Apartments At  Heywood Court, Northwood, Santry",Dublin,12069000.0,No,Santry,Dublin 9,q4,100%
+01/08/2019,"76 Geraldstown Woods, Santry Ave, Santry Dublin 9",Dublin,193000.0,No,Santry,Dublin 9,q2,40%
+01/08/2019,"Apt 1 Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 10  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 11  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 12  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 13  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 14  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 15  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 16 Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 17  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 18 Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 19 Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 2  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 20  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 21 Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 22 Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 23 Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 24 Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 25 Bridgefield, Northwood, Santry Demesne",Dublin,352423.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 26 Bridgefield, Northwood, Santry Demesne",Dublin,352423.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 27 Bridgefield, Northwood, Santry Demesne",Dublin,352423.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 28 Bridgefield, Northwood, Santry Demesne",Dublin,352423.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 29 Bridgefield, Northwood, Santry Demesne",Dublin,352423.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 3  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 30 Bridgefield, Northwood, Santry Demesne",Dublin,352423.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 4  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 5  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 6  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 7  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 8  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+01/08/2019,"Apt 9  Bridgefield, Northwood, Santry Demesne",Dublin,339207.0,Yes,Santry,Dublin 9,q4,90%
+06/08/2019,"15 Temple Gardens, Northwood, Santry Dublin 9",Dublin,265000.0,No,Santry,Dublin 9,q3,70%
+08/08/2019,"8 Oak Green Royal, Oak Santry, Dublin 9",Dublin,359950.0,No,Santry,Dublin 9,q4,90%
+09/08/2019,"42 Shanowen Ave, Santry, Dublin 9",Dublin,365000.0,No,Santry,Dublin 9,q4,90%
+12/08/2019,"46 The Square, Larch Hill, Santry Dublin 9",Dublin,216000.0,No,Santry,Dublin 9,q2,50%
+13/08/2019,"165 Shanliss Ave, Santry Dublin 9, Dublin",Dublin,455000.0,No,Santry,Dublin 9,q4,100%
+14/08/2019,"32 The Hampton, Santry, Dublin",Dublin,180000.0,No,Santry,Dublin 9,q2,40%
+15/08/2019,"12 Santry Villas, Santry, Dublin 9",Dublin,325000.0,No,Santry,Dublin 9,q4,80%
+16/08/2019,"5 Temple Lawns, Santry, Dublin",Dublin,240000.0,No,Santry,Dublin 9,q3,60%
+19/08/2019,"15 Woodlawn Court, Coolock Lane, Santry Dublin 9",Dublin,330000.0,No,Santry,Dublin 9,q4,90%
+19/08/2019,"184 Temple Court, Northwood, Santry Dublin 9",Dublin,175000.0,No,Santry,Dublin 9,q2,40%
+19/08/2019,"191 Shanowen Rd, Santry, Dublin 9",Dublin,346000.0,No,Santry,Dublin 9,q4,90%
+20/08/2019,"8 Schoolhouse Lane, Santry, Dublin 9",Dublin,310000.0,No,Santry,Dublin 9,q4,80%
+20/08/2019,"Apt 1 Pappan Grove, Northwood, Santry Demesne",Dublin,215859.04,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 10  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 11  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 12  Pappan Grove, Northwood, Santry Demesne",Dublin,154185.03,Yes,Santry,Dublin 9,q2,30%
+20/08/2019,"Apt 13  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 14  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 15  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.04,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 16  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 17  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 18  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 19  Pappan Grove, Northwood, Santry Demesne",Dublin,154185.03,Yes,Santry,Dublin 9,q2,30%
+20/08/2019,"Apt 2  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 20  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 21  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 22  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.04,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 23  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 24  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 25  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 26  Pappan Grove, Northwood, Santry Demesne",Dublin,154185.03,Yes,Santry,Dublin 9,q2,30%
+20/08/2019,"Apt 27  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 28  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 29  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.04,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 3  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 30  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 31  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 32  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 33  Pappan Grove, Northwood, Santry Demesne",Dublin,154185.03,Yes,Santry,Dublin 9,q2,30%
+20/08/2019,"Apt 34  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 35  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 4  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 5  Pappan Grove, Northwood, Santry Demesne",Dublin,154185.03,Yes,Santry,Dublin 9,q2,30%
+20/08/2019,"Apt 6  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 7  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 8  Pappan Grove, Northwood, Santry Demesne",Dublin,215859.04,Yes,Santry,Dublin 9,q2,50%
+20/08/2019,"Apt 9  Pappan Road, Northwood, Santry Demesne",Dublin,215859.03,Yes,Santry,Dublin 9,q2,50%
+26/08/2019,"46 Temple Lawns, Northwood, Santry",Dublin,190500.0,No,Santry,Dublin 9,q2,40%
+30/08/2019,"11 Cedarview, Northwood, Santry Demesne",Dublin,436123.34,Yes,Santry,Dublin 9,q4,100%
+30/08/2019,"12 Magenta Hall, Santry, Dublin 9",Dublin,283333.33,No,Santry,Dublin 9,q3,80%
+30/08/2019,"16 The Court, Larch Hill, Santry",Dublin,275000.0,No,Santry,Dublin 9,q3,70%
+02/09/2019,"51 Lymewood Mews, North Wood, Santry",Dublin,295000.0,No,Santry,Dublin 9,q3,80%
+03/09/2019,"33 Cedarview, Northwood, Santry",Dublin,409691.0,Yes,Santry,Dublin 9,q4,100%
+05/09/2019,"75 Shanliss Way, Santry, Dublin 9",Dublin,330000.0,No,Santry,Dublin 9,q4,90%
+09/09/2019,"Apt. 24  Block 2 Parklands, Northwood, Santry",Dublin,247000.0,No,Santry,Dublin 9,q3,60%
+10/09/2019,"29 Shanowen Park, Santry, Dublin 9",Dublin,390000.0,No,Santry,Dublin 9,q4,100%
+11/09/2019,"108 Temple Court, Northwood, Santry Dublin 9",Dublin,272000.0,No,Santry,Dublin 9,q3,70%
+11/09/2019,"144 Temple Gardens, Santry, Dublin 9",Dublin,238000.0,No,Santry,Dublin 9,q3,60%
+12/09/2019,"52 The Square, Larch Hill, Santry Dublin 17",Dublin,230000.0,No,Santry,Dublin 9,q3,60%
+13/09/2019,"118 Temple Gardens, Northwood, Santry",Dublin,247000.0,No,Santry,Dublin 9,q3,60%
+18/09/2019,"127 Lymewood Mews, North Wood, Santry Dublin 9",Dublin,269000.0,No,Santry,Dublin 9,q3,70%
+18/09/2019,"33 Oak Park Dr, Santry, Dublin 9",Dublin,300000.0,No,Santry,Dublin 9,q3,80%
+18/09/2019,"44 Geraldstown Woods, Santry Ave, Dublin 9",Dublin,170000.0,No,Santry,Dublin 9,q2,40%
+19/09/2019,"21 Shanvarna Rd, Santry, Dublin 9",Dublin,370000.0,No,Santry,Dublin 9,q4,100%
+19/09/2019,"7 Santry Court, Santry, Dublin 9",Dublin,356000.0,No,Santry,Dublin 9,q4,90%
+20/09/2019,"18 Shanliss Way, Santry, Dublin",Dublin,352000.0,No,Santry,Dublin 9,q4,90%
+20/09/2019,"3 Lorcan Green, Santry, Dublin 9",Dublin,405000.0,No,Santry,Dublin 9,q4,100%
+24/09/2019,"Apartments 31 - 216 Bridgefield, Northwood, Santry Demesne",Dublin,63973567.0,Yes,Santry,Dublin 9,q4,100%
+25/09/2019,"50 Carrington Park, Northwood, Santry",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+30/09/2019,"25 The Kilmore, Santry Cross, Santry Dublin 9",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+30/09/2019,"54 Lorcan Grove, Santry, Dublin 9",Dublin,410250.0,No,Santry,Dublin 9,q4,100%
+30/09/2019,"71 Heywood Court, Block B Northwood, Santry Dublin 9",Dublin,258000.0,No,Santry,Dublin 9,q3,70%
+01/10/2019,"143 Aulden Grange, Santry, Dublin 9",Dublin,310000.0,No,Santry,Dublin 9,q4,80%
+01/10/2019,"32 Heywood Court, North Wood, Santry",Dublin,269000.0,No,Santry,Dublin 9,q3,70%
+02/10/2019,"18 Old Town Rd, Santry, Dublin 10",Dublin,310000.0,No,Santry,Dublin 9,q4,80%
+02/10/2019,"2 The Hampton, Santry, Dublin",Dublin,141000.0,No,Santry,Dublin 9,q1,20%
+02/10/2019,"3 The Hampton, Santry, Dublin",Dublin,141000.0,No,Santry,Dublin 9,q1,20%
+07/10/2019,"50 Geraldstown Woods, Santry Ave, Santry",Dublin,220000.0,No,Santry,Dublin 9,q3,60%
+09/10/2019,"133A Shanliss Road, Santry",Dublin,380000.0,Yes,Santry,Dublin 9,q4,100%
+09/10/2019,"77 Temple Lawns, Santry, Dublin 9",Dublin,260000.0,No,Santry,Dublin 9,q3,70%
+11/10/2019,"82 Shanliss Way, Santry, Dublin 9",Dublin,350000.0,No,Santry,Dublin 9,q4,90%
+16/10/2019,"57 Hazelwood, Santry Ave",Dublin,380000.0,No,Santry,Dublin 9,q4,100%
+18/10/2019,"121 Geraldstown Woods, Santry, Dublin City",Dublin,207500.0,No,Santry,Dublin 9,q2,50%
+18/10/2019,"24 Carrington Park, Northwood, Santry",Dublin,210000.0,No,Santry,Dublin 9,q2,50%
+22/10/2019,"14 Linnbhla, Santry Cross, Dublin 11",Dublin,200000.0,No,Santry,Dublin 9,q2,50%

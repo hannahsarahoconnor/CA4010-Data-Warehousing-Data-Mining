@@ -1,0 +1,603 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+29/01/2010,"8 Rockville Drive, Glenamuck Road, Carrickmines",Dublin,305000.0,No,Carrickmines,Dublin 18,q2,40%
+22/02/2010,"Rosewarne, Glenamuck Road, Carrickmines",Dublin,2150000.0,No,Carrickmines,Dublin 18,q4,100%
+12/03/2010,"12 Ballyogan Green, Carrickmines, Dublin 18",Dublin,202000.0,No,Carrickmines,Dublin 18,q1,30%
+25/03/2010,"2 Carrickmines Dale, Carrickmines Wood, Dublin 18",Dublin,1000000.0,No,Carrickmines,Dublin 18,q4,100%
+16/04/2010,"60 Carrickmine Avenuer, Carrickmines Wood, Carrickmines",Dublin,1072000.0,No,Carrickmines,Dublin 18,q4,100%
+16/04/2010,"9 Carrickmines Chase, Carrickmines Wood, Carrickmones",Dublin,585000.0,No,Carrickmines,Dublin 18,q3,80%
+21/05/2010,"15 Clarmount, Carrickmines",Dublin,907488.0,Yes,Carrickmines,Dublin 18,q4,100%
+29/06/2010,"44 Carrickmines Avenue, Carrickmines Wood, Brennanstown Road",Dublin,490000.0,No,Carrickmines,Dublin 18,q3,70%
+21/07/2010,"29 Glenamuck Cottages, Carrickmines, Dublin 18",Dublin,312000.0,No,Carrickmines,Dublin 18,q2,50%
+23/07/2010,"4 Claremount, Carrickmines, Co. Dublin",Dublin,792951.53,Yes,Carrickmines,Dublin 18,q4,90%
+06/08/2010,"Apt 59 Cairnwood Avenue, Carrickmines",Dublin,333348.02,Yes,Carrickmines,Dublin 18,q2,50%
+12/08/2010,"3 The Garth, Carrickmines Wood, Brennanstown Wood",Dublin,1025000.0,No,Carrickmines,Dublin 18,q4,100%
+20/08/2010,"Site Number 14 Claremount, Carrickmines, Dublin 18",Dublin,725000.0,Yes,Carrickmines,Dublin 18,q4,90%
+10/09/2010,"2 The Court, Brennanstown Vale, Carrickmines",Dublin,1550000.0,No,Carrickmines,Dublin 18,q4,100%
+15/09/2010,"29 Laurel House  Carrickmines Green, Glenamuck Road, Carrikmines",Dublin,205000.0,Yes,Carrickmines,Dublin 18,q1,30%
+15/09/2010,"33 Laurel House  Carrickmines Green, Glenamuck Road, Carrickmines",Dublin,190000.0,Yes,Carrickmines,Dublin 18,q1,20%
+15/09/2010,"9 The Walk, Carrickmines Green, Carrickmines",Dublin,300000.0,Yes,Carrickmines,Dublin 18,q2,40%
+17/09/2010,"32 Laurel House, Carickmines Green, Carrickmines",Dublin,155000.0,Yes,Carrickmines,Dublin 18,q1,10%
+20/09/2010,"4 Laurel House, Carrickmines Green, Carrickmines",Dublin,137500.0,Yes,Carrickmines,Dublin 18,q1,10%
+21/09/2010,"Apartment 15  Laurel House, Carrickmines Green, Glenamuck Road  Carrickmines",Dublin,185022.02,Yes,Carrickmines,Dublin 18,q1,20%
+22/09/2010,"1 Laurel House, Carrickmines Green, Glenamuck Road",Dublin,180000.0,Yes,Carrickmines,Dublin 18,q1,20%
+22/09/2010,"41 Laurel House, Carrickmines Green, Glenamuck Road",Dublin,150000.0,Yes,Carrickmines,Dublin 18,q1,10%
+24/09/2010,"16 The Walk, Carrickmines Green, Glenamuck Road",Dublin,190000.0,Yes,Carrickmines,Dublin 18,q1,20%
+24/09/2010,"2 Beech House, Carrickmines Green, Carrickmines",Dublin,150000.0,Yes,Carrickmines,Dublin 18,q1,10%
+24/09/2010,"26 Laurel House, Carrickmines Green, Glenamuck Road  Carrickmines",Dublin,135000.0,Yes,Carrickmines,Dublin 18,q1,10%
+28/09/2010,"27 Laurel House, Carrickmines Green, Glenamuck Road",Dublin,127753.3,Yes,Carrickmines,Dublin 18,q1,10%
+28/09/2010,"35 Beech House, Carrickmines Green, Glenamuck Road",Dublin,134361.23,Yes,Carrickmines,Dublin 18,q1,10%
+30/09/2010,"Apt 2 Cairnbrook, Carrickmines, Dublin 18",Dublin,250000.0,Yes,Carrickmines,Dublin 18,q2,30%
+01/10/2010,"13 The Walk, Carrickmines Green, Carrickmines",Dublin,350000.0,Yes,Carrickmines,Dublin 18,q2,50%
+05/10/2010,"Lisheens, Brennanstown Road, Carrickmines",Dublin,2300000.0,No,Carrickmines,Dublin 18,q4,100%
+06/10/2010,"33 Beech House, Carrickmines Green, Gelenamuck Road",Dublin,167400.0,Yes,Carrickmines,Dublin 18,q1,20%
+07/10/2010,"12 Beech House, Carrickmines Green, Glenamuck Road",Dublin,160000.0,Yes,Carrickmines,Dublin 18,q1,20%
+08/10/2010,"Apartment 9 Beech House, Carrickmines Green  Glenamuck Road, Carrickmines  Dublin 18",Dublin,131277.53,Yes,Carrickmines,Dublin 18,q1,10%
+18/10/2010,"Unit 46 Laurel House, Carrickmines Green  Glenamuck Road, Carrickmines",Dublin,275000.0,Yes,Carrickmines,Dublin 18,q2,40%
+22/10/2010,"Apt 36 Laurel House, Carrickmines Green, Glenamuck Road",Dublin,150000.0,Yes,Carrickmines,Dublin 18,q1,10%
+22/10/2010,"Apt. 3 Laurel House, Carrickmines Green, Glenamuck Carrickmines",Dublin,140000.0,Yes,Carrickmines,Dublin 18,q1,10%
+22/10/2010,"Apt.42 Beech House, Carrickmines Green, Glenamuck Road",Dublin,142725.0,Yes,Carrickmines,Dublin 18,q1,10%
+27/10/2010,"9A Glenamuck Cottages, Carrickmines",Dublin,574000.0,No,Carrickmines,Dublin 18,q3,80%
+29/10/2010,"12 The Walk, Carrickmines Green, Carrickmines",Dublin,164350.0,Yes,Carrickmines,Dublin 18,q1,20%
+01/11/2010,"Apartment 27 Beech House, Carrickmines Green, Glenamuck Road",Dublin,150000.0,Yes,Carrickmines,Dublin 18,q1,10%
+03/11/2010,"2 Laurel House, Carrickmines Green, Glenamuck Road  Carrickmines",Dublin,127754.0,Yes,Carrickmines,Dublin 18,q1,10%
+04/11/2010,"7 Beech House, Carrickmines Green, Glenamuck Rd.  Carrickmines",Dublin,164000.0,Yes,Carrickmines,Dublin 18,q1,20%
+04/11/2010,"Apt 10 Oak House, Carrickmines Green, Glenamuck Road",Dublin,210000.0,Yes,Carrickmines,Dublin 18,q1,30%
+09/11/2010,"12 The Crescent, Carrickmines Green, Glenamuck Road",Dublin,308370.04,Yes,Carrickmines,Dublin 18,q2,50%
+10/11/2010,"6 Beech House, Carrickmines Green  Glenamuck Road, Dublin 18",Dublin,167400.0,Yes,Carrickmines,Dublin 18,q1,20%
+10/11/2010,"Unit 10 The Walk, Carrickmines Green, Glenamuck Road  Carrickmines",Dublin,167400.0,Yes,Carrickmines,Dublin 18,q1,20%
+11/11/2010,"Apartment 10 Laurel House, Carrickmines Green  Glenamuck Road, Carrickmines",Dublin,180616.74,Yes,Carrickmines,Dublin 18,q1,20%
+11/11/2010,"Apartment 26 Beech House, Carrickmines Green  Glenamuck Road, Carrickmines",Dublin,123348.01,Yes,Carrickmines,Dublin 18,q1,10%
+12/11/2010,"Apt 6 The Walk, Carrickmines Green, Glenamuck Road",Dublin,167400.0,Yes,Carrickmines,Dublin 18,q1,20%
+15/11/2010,"25 Oak House, Carrickmines Green, Glenamuck  Carrickimines  D18",Dublin,125550.66,Yes,Carrickmines,Dublin 18,q1,10%
+22/11/2010,"25 Laurel House, Carrickmines Green, Glenamuck Road  Carrickmines",Dublin,121145.37,Yes,Carrickmines,Dublin 18,q1,10%
+26/11/2010,"Apt 24 Beech House, Carrickmines Green, Glenamuck Road",Dublin,205000.0,Yes,Carrickmines,Dublin 18,q1,30%
+02/12/2010,"38 Beech House, Carrickmines Green, Glenamuck Road  Carrickmines",Dublin,168675.0,Yes,Carrickmines,Dublin 18,q1,20%
+06/12/2010,"20 Laurel House, Carrickmines Green, Carrickmines",Dublin,189427.0,Yes,Carrickmines,Dublin 18,q1,20%
+16/12/2010,"10 Claremount, Claremount Road, Carrickmines",Dublin,894273.12,Yes,Carrickmines,Dublin 18,q4,90%
+16/12/2010,"Rosbeg, Claremont Road, Carrickmines",Dublin,1030000.0,No,Carrickmines,Dublin 18,q4,100%
+24/01/2011,"11  Cairnbrook Avenue, Carrickmines, Dublin  18.",Dublin,880000.0,Yes,Carrickmines,Dublin 18,q4,90%
+01/02/2011,"No 4  The Crescent, Carrickmines Geen, Glenamuck Road",Dublin,277533.04,Yes,Carrickmines,Dublin 18,q2,40%
+04/02/2011,"Apt 28 Laurel House, Carrickmines Green, Glenamuck Road",Dublin,162996.0,Yes,Carrickmines,Dublin 18,q1,20%
+11/02/2011,"51 Cairnbrick Avenue, Glenamuck Rd, Carrickmines",Dublin,616740.0,Yes,Carrickmines,Dublin 18,q4,80%
+11/02/2011,"Apartment 15  Beech House, Carrickmines Green  Glenamuck Road, Carrickmines",Dublin,215000.0,Yes,Carrickmines,Dublin 18,q1,30%
+22/02/2011,"Apt 32 Beech House, Carrickmines Green, Glenamuck Road",Dublin,136564.0,Yes,Carrickmines,Dublin 18,q1,10%
+25/02/2011,"Unit 14, Laurel House, Carrickmines Green",Dublin,152500.0,Yes,Carrickmines,Dublin 18,q1,10%
+02/03/2011,"14 The Walk, Carrickmines Green, Glenamuck Road",Dublin,308370.0,Yes,Carrickmines,Dublin 18,q2,50%
+16/03/2011,"13 The Crescent, Carrickmines Green, Carrickmines",Dublin,307489.0,Yes,Carrickmines,Dublin 18,q2,50%
+01/04/2011,"No 5 Swift Hall Carrickmines Wood, Brennanstown Road Dubiln 18",Dublin,380000.0,No,Carrickmines,Dublin 18,q2,50%
+07/04/2011,"Apartment 37 Beech House, Carrickmines Green, Glenamuck Road",Dublin,160000.0,Yes,Carrickmines,Dublin 18,q1,20%
+15/04/2011,"Apartment 24 Laurel House, Carrickmines Green, Glenamuck Road",Dublin,175330.4,Yes,Carrickmines,Dublin 18,q1,20%
+28/04/2011,"Coolgreen, Brennanstown Road, Carrickmines",Dublin,750000.0,No,Carrickmines,Dublin 18,q4,90%
+19/05/2011,"Unit 27 Oak House, Carrickmines Green, Glenamuck Road  Carrickmines",Dublin,132159.0,Yes,Carrickmines,Dublin 18,q1,10%
+25/05/2011,"13  Beech House, Carrickmines",Dublin,150000.0,Yes,Carrickmines,Dublin 18,q1,10%
+26/05/2011,"7 Laurel House, Carrickmines Green, Glenamuck Road",Dublin,136563.88,Yes,Carrickmines,Dublin 18,q1,10%
+08/06/2011,"25 Beech House, Carrickmines Green, Carrickmines",Dublin,137000.0,Yes,Carrickmines,Dublin 18,q1,10%
+10/06/2011,"Apt 1 The Walk, Carrickmines Green, Glenamuck Road",Dublin,266520.0,Yes,Carrickmines,Dublin 18,q2,40%
+14/07/2011,"Apartment 10 Beech House, Carrickmines Green, Glenamuck Road",Dublin,194713.65,Yes,Carrickmines,Dublin 18,q1,20%
+29/07/2011,"18 Beech House, Carrickmines Green, Glenamuck Road",Dublin,133920.0,Yes,Carrickmines,Dublin 18,q1,10%
+18/08/2011,"Oakwood, Claremont Pines, Carrickmines",Dublin,965000.0,No,Carrickmines,Dublin 18,q4,100%
+26/08/2011,"22 Cairnbrook Avenue, Carrickmines, Dublin 18",Dublin,285000.0,No,Carrickmines,Dublin 18,q2,40%
+23/09/2011,"32 Glenamuck Road, Carrickmines, Dublin 18",Dublin,590000.0,No,Carrickmines,Dublin 18,q3,80%
+05/10/2011,"20 Beech House, Carrickmines Green, Glenamuck Road",Dublin,217500.0,Yes,Carrickmines,Dublin 18,q1,30%
+27/10/2011,"Apartment 1  Beckett Hall, Carrickmines Wood, Brennanstown Road",Dublin,320000.0,No,Carrickmines,Dublin 18,q2,50%
+21/12/2011,"14 Beech House, Carrickmines Green, Glenamuck Road  Carrickmines",Dublin,152500.0,Yes,Carrickmines,Dublin 18,q1,10%
+23/12/2011,"5 Yeats Hall, Carrickmines Wood, Brennanstown Road",Dublin,345000.0,No,Carrickmines,Dublin 18,q2,50%
+24/01/2012,"Apt 6 Beckett Hall, Carrickmines Wood, Brennanstoen Road",Dublin,560000.0,No,Carrickmines,Dublin 18,q3,80%
+04/05/2012,"Apartment 60 Cairnbrook Avenue, Carrickmines",Dublin,215859.02,Yes,Carrickmines,Dublin 18,q1,30%
+11/05/2012,"85 The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,300000.0,Yes,Carrickmines,Dublin 18,q2,40%
+15/05/2012,"28 The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,170000.0,Yes,Carrickmines,Dublin 18,q1,20%
+15/05/2012,"No. 36  The Cresent, Carrickmines Manor, Glenamuck Road",Dublin,147577.09,Yes,Carrickmines,Dublin 18,q1,10%
+21/05/2012,"Apartment 64  The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,165000.0,Yes,Carrickmines,Dublin 18,q1,20%
+25/05/2012,"13 The View, Carrickmines Manor, Glenamuck Road",Dublin,175000.0,No,Carrickmines,Dublin 18,q1,20%
+28/05/2012,"11 Carrickmines Chase, Carrickmines Wood, Brennanstown Road",Dublin,400000.0,No,Carrickmines,Dublin 18,q3,60%
+30/05/2012,"1 Rockville Drive, Glenamuck Road, Carrickmines",Dublin,250000.0,No,Carrickmines,Dublin 18,q2,30%
+31/05/2012,"7 The Oaks, Carrickmines Wood, Carrickmines",Dublin,860000.0,No,Carrickmines,Dublin 18,q4,90%
+06/06/2012,"No. 15 View, Carrickmines Manor",Dublin,127500.0,No,Carrickmines,Dublin 18,q1,10%
+06/06/2012,"No. 16 The View, Carrickmines Manor",Dublin,122500.0,No,Carrickmines,Dublin 18,q1,10%
+07/06/2012,"19 The View, Carrickmines Manor, Glenamuck Road",Dublin,149780.0,Yes,Carrickmines,Dublin 18,q1,10%
+08/06/2012,"Apt 56  The Crescent, Carrickmines Manor, Glenamuck Rd",Dublin,154185.0,Yes,Carrickmines,Dublin 18,q1,10%
+08/06/2012,"Tir Na Nog, Glenamuck Road, Carrickmines",Dublin,480000.0,No,Carrickmines,Dublin 18,q3,70%
+15/06/2012,"37 The View, Carrickmines Manor, Dublin 18",Dublin,158590.0,Yes,Carrickmines,Dublin 18,q1,20%
+01/07/2012,"Saol Nua, Ballyogan Road, Carrickmines",Dublin,440000.0,No,Carrickmines,Dublin 18,q3,60%
+04/07/2012,"11 Claremont, Carrickmines",Dublin,638745.0,Yes,Carrickmines,Dublin 18,q4,90%
+01/08/2012,"11, Ballyogan Ave, Carrickmines",Dublin,148000.0,No,Carrickmines,Dublin 18,q1,10%
+01/08/2012,"36, Cairnbrook Avenue, Carrickmines",Dublin,208171.0,Yes,Carrickmines,Dublin 18,q1,30%
+02/08/2012,"7 Laurel House, Carrickmines Green, Glenamuck Road  Carrickmines",Dublin,155000.0,No,Carrickmines,Dublin 18,q1,10%
+07/08/2012,"68 Cairnbrook Avenue, Carrickmines",Dublin,155000.0,No,Carrickmines,Dublin 18,q1,10%
+22/08/2012,"28 The View, Carrickmines Manor, Carrickmines",Dublin,180000.0,Yes,Carrickmines,Dublin 18,q1,20%
+27/08/2012,"87 The Crescent, Carrickmines Manor, Glenamuck Road  Carrickmines",Dublin,295000.0,Yes,Carrickmines,Dublin 18,q2,40%
+03/09/2012,"11 Joyce Hall, Carrickmines Wood, Brennanstown Road",Dublin,329500.0,No,Carrickmines,Dublin 18,q2,50%
+05/09/2012,"Knockcree, Glenamuck Road, Carrickmines",Dublin,700000.0,No,Carrickmines,Dublin 18,q4,90%
+07/09/2012,"Dunluce, Glenamuck Road, Carrickmines",Dublin,1071000.0,No,Carrickmines,Dublin 18,q4,100%
+21/09/2012,"18 The Gardens, Carrickmines Manor, Glenamuck Road  Dublin 18",Dublin,239648.0,Yes,Carrickmines,Dublin 18,q2,30%
+24/09/2012,"73 The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,145374.45,Yes,Carrickmines,Dublin 18,q1,10%
+05/10/2012,"86 The Crescent, Carrickmines Manor, Glenamuck Road  Dublin 18",Dublin,295000.0,Yes,Carrickmines,Dublin 18,q2,40%
+10/10/2012,"1 The Avenue, Carrickmines Manor, Glenamuck Road",Dublin,273128.0,Yes,Carrickmines,Dublin 18,q2,40%
+10/10/2012,"6 Yeats Hall, Carrickmines Wood, Brennanstown Rd",Dublin,526950.0,No,Carrickmines,Dublin 18,q3,70%
+18/10/2012,"18 The View, Carrickmines Manor, Glenamuck Road",Dublin,167400.0,Yes,Carrickmines,Dublin 18,q1,20%
+01/11/2012,"2 Claremont, Carrickmines",Dublin,700000.0,Yes,Carrickmines,Dublin 18,q4,90%
+07/11/2012,"Apt. 67 Cairnbrook, Glenamuck Road, Carrickmines",Dublin,158500.0,No,Carrickmines,Dublin 18,q1,10%
+07/11/2012,"Apt.40Cairn Brook Avenue, Cairn Brook, Carrickmines",Dublin,157150.0,Yes,Carrickmines,Dublin 18,q1,10%
+19/11/2012,"Unit 83 The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,176250.0,No,Carrickmines,Dublin 18,q1,20%
+20/11/2012,"Apt. 28 Beech House, Carrickmines Green, Carrickmines",Dublin,115000.0,No,Carrickmines,Dublin 18,q1,10%
+21/11/2012,"No. 24 The View, Carrickmines Manor, Glenamuck Road",Dublin,197500.0,Yes,Carrickmines,Dublin 18,q1,20%
+23/11/2012,"12 The View, Carrickmines Manor, Glenamuck Road",Dublin,149779.0,No,Carrickmines,Dublin 18,q1,10%
+28/11/2012,"21 Ballyogan Avenue, Carrickmines, Dublin 18",Dublin,177500.0,No,Carrickmines,Dublin 18,q1,20%
+05/12/2012,"1 The Rise, Carrickmines, Glenamuch Road",Dublin,330000.0,No,Carrickmines,Dublin 18,q2,50%
+07/12/2012,"14 The Oaks, Carrickmines, Dublin 18",Dublin,1215000.0,No,Carrickmines,Dublin 18,q4,100%
+12/12/2012,"36 The View, Carrickmines Manor, Glenamuck Road",Dublin,177500.0,Yes,Carrickmines,Dublin 18,q1,20%
+13/12/2012,"91 The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,310000.0,Yes,Carrickmines,Dublin 18,q2,50%
+18/12/2012,"Unit 23 The View, Carrickmines Manor, Glenamuck Road",Dublin,122000.0,No,Carrickmines,Dublin 18,q1,10%
+18/12/2012,"Unit 29 The View, Carrickmines Manor, Glenamuck Road",Dublin,122000.0,No,Carrickmines,Dublin 18,q1,10%
+18/12/2012,"Unit 38 The View, Carrickmines Manor, Glenamuck Road",Dublin,122000.0,No,Carrickmines,Dublin 18,q1,10%
+18/12/2012,"Unit 6 The View, Carrickmines Manor, Glenamuck Road",Dublin,122000.0,No,Carrickmines,Dublin 18,q1,10%
+19/12/2012,"21 The Gardens, Carrickmines Manor, Glenamuck Road",Dublin,264350.0,Yes,Carrickmines,Dublin 18,q2,40%
+19/12/2012,"Kilooneen, Clairmont Pines, Carrickmines",Dublin,850000.0,No,Carrickmines,Dublin 18,q4,90%
+20/12/2012,"1 The Terrace, Carrickmines Manor, Glenamuck Road",Dublin,140969.0,Yes,Carrickmines,Dublin 18,q1,10%
+20/12/2012,"13 Swift Hall, Carrickmines Wood, Carrickmines",Dublin,310000.0,No,Carrickmines,Dublin 18,q2,50%
+20/12/2012,"15 The Gardens, Carrickmines Manor, Glenamuck Road Dublin 18",Dublin,300000.0,Yes,Carrickmines,Dublin 18,q2,40%
+20/12/2012,"23 The Terrace, Carrickmines Manor, Glenamuck Road",Dublin,264317.0,Yes,Carrickmines,Dublin 18,q2,40%
+21/12/2012,"25 The Gardens, Carrickmines Manor, Carrickmines",Dublin,273127.75,Yes,Carrickmines,Dublin 18,q2,40%
+21/12/2012,"Apartment 8, The Terrace, Carrickmines Manor",Dublin,255000.0,Yes,Carrickmines,Dublin 18,q2,40%
+28/12/2012,"5 The Avenue, Carrickmines Manor, Glenamuck Road  Carrickmines",Dublin,259500.0,Yes,Carrickmines,Dublin 18,q2,40%
+10/01/2013,"55 Cairnbrook Avenue, Glenamuck Road, Carrickmines",Dublin,250000.0,No,Carrickmines,Dublin 18,q2,30%
+14/01/2013,"26 The Cresent, Carrickmines Manor, Glenamuck Road",Dublin,175000.0,No,Carrickmines,Dublin 18,q1,20%
+14/01/2013,"81 The Cresent, Carrickmines Manor, Glenamuck Road",Dublin,175000.0,No,Carrickmines,Dublin 18,q1,20%
+07/02/2013,"Apartment No 25, The View  Carrickmines Manor, Glenamuck Road",Dublin,185022.0,No,Carrickmines,Dublin 18,q1,20%
+20/02/2013,"17 The Terrace, Carrickmines Manor, Glenamuck Road",Dublin,259912.0,Yes,Carrickmines,Dublin 18,q2,40%
+08/03/2013,"22 Claremont, Carrickmines, Dublin 18",Dublin,647577.09,Yes,Carrickmines,Dublin 18,q4,90%
+12/03/2013,"9 Cairnbrook View, Carrickmines, Dublin 18",Dublin,250000.0,No,Carrickmines,Dublin 18,q2,30%
+14/03/2013,"22 The Gardens, Carrickmines Manor, Glenamuck Road",Dublin,251101.32,Yes,Carrickmines,Dublin 18,q2,40%
+27/03/2013,"9 The View, Carrickmines Manor, Glenamuck",Dublin,200000.0,No,Carrickmines,Dublin 18,q1,30%
+05/04/2013,"18 Claremont, Carrickmines",Dublin,603524.0,Yes,Carrickmines,Dublin 18,q3,80%
+12/04/2013,"40 The View, Carrickmines Manor, Carrickmines",Dublin,156828.19,Yes,Carrickmines,Dublin 18,q1,10%
+16/04/2013,"23  Cairnbrook Avenue, Carrickmines",Dublin,249000.0,No,Carrickmines,Dublin 18,q2,30%
+02/05/2013,"24 Claremount, Carrickmines",Dublin,730000.0,Yes,Carrickmines,Dublin 18,q4,90%
+08/05/2013,"21 Claremont, Carrickmines",Dublin,631450.0,Yes,Carrickmines,Dublin 18,q4,90%
+23/05/2013,"14 Carrickmines Avenue, Carrickmines Wood, Brennanstown Rd",Dublin,900000.0,No,Carrickmines,Dublin 18,q4,90%
+24/05/2013,"Unit No. 4 The Terrace, Carrickmines Manor, Glenamuck Road",Dublin,265000.0,Yes,Carrickmines,Dublin 18,q2,40%
+29/05/2013,"17 Ballyogan Green, Carrickmines",Dublin,175000.0,No,Carrickmines,Dublin 18,q1,20%
+31/05/2013,"26 The View, Carrickmines Manor, Glenamuck Road",Dublin,165198.0,No,Carrickmines,Dublin 18,q1,20%
+31/05/2013,"79 The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,160000.0,No,Carrickmines,Dublin 18,q1,20%
+14/06/2013,"15 Ballyogan Lawn, Carrickmines, Dublin 18",Dublin,160000.0,No,Carrickmines,Dublin 18,q1,20%
+20/06/2013,"19 Beech House  Carrickmines Green, Glenamuck Road, Carrickmines",Dublin,141000.0,No,Carrickmines,Dublin 18,q1,10%
+20/06/2013,"41 Beech House  Carrickmines Green, Glenamuck Road, Carrickmines",Dublin,141000.0,No,Carrickmines,Dublin 18,q1,10%
+26/06/2013,"2 The Crescent, Carrickmines Manor, Carrickmines",Dublin,150000.0,No,Carrickmines,Dublin 18,q1,10%
+28/06/2013,"19 Carrickmines Chase, Brennanstown Road",Dublin,420000.0,No,Carrickmines,Dublin 18,q3,60%
+24/07/2013,"39 The Cresent, Carrickmines Manor, Glenamuck Road",Dublin,170000.0,No,Carrickmines,Dublin 18,q1,20%
+25/07/2013,"53 The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,152423.0,Yes,Carrickmines,Dublin 18,q1,10%
+01/08/2013,"82 The Crescent, Carrickmines Manor, Glenamuck Road  Carrickmines",Dublin,149779.73,Yes,Carrickmines,Dublin 18,q1,10%
+09/08/2013,"Unit No 27 The View, Carrickmines Manor, Glenamuck Road",Dublin,185022.0,Yes,Carrickmines,Dublin 18,q1,20%
+16/08/2013,"2 The Walk, Carrickmines Manor, Glenamuck Road",Dublin,251101.0,Yes,Carrickmines,Dublin 18,q2,30%
+16/08/2013,"33 The View, Carrickmines Manor, Glenamuck Road",Dublin,163436.0,Yes,Carrickmines,Dublin 18,q1,20%
+19/08/2013,"Oakwood, Claremount Pines, Carrickmines",Dublin,1020000.0,No,Carrickmines,Dublin 18,q4,100%
+03/09/2013,"51 Cairnbrook Avenue, Carrickmines",Dublin,355000.0,No,Carrickmines,Dublin 18,q2,50%
+06/09/2013,"3 Knockcree, Glenamuck Road, Carrickmines",Dublin,429075.0,Yes,Carrickmines,Dublin 18,q3,60%
+17/09/2013,"Apartment 20  The View, Carrickmines Manor, Dublin 18",Dublin,175000.0,No,Carrickmines,Dublin 18,q1,20%
+20/09/2013,"1 Knockcree, Old Glenamuck Road, Carrickmines",Dublin,484581.0,Yes,Carrickmines,Dublin 18,q3,70%
+07/10/2013,"5 Cairnbrook Avenue, Carrickmines",Dublin,830000.0,Yes,Carrickmines,Dublin 18,q4,90%
+18/10/2013,"39 Cairnbrook Avenue, Cairnbrook, Carrickmines",Dublin,242868.0,Yes,Carrickmines,Dublin 18,q2,30%
+21/10/2013,"Apt 39 The View, Carrickmines Manor, Glenamuck Road",Dublin,177000.0,Yes,Carrickmines,Dublin 18,q1,20%
+22/10/2013,"1 Carrickmines Dale, Carrickmines Wood, Brennanstown Road",Dublin,725000.0,No,Carrickmines,Dublin 18,q4,90%
+24/10/2013,"2 Knockcree, Glenamuck Road, Carrickmines",Dublin,426784.0,Yes,Carrickmines,Dublin 18,q3,60%
+25/10/2013,"4 Knockcree, Glenamuck Road, Carrickmines",Dublin,595000.0,Yes,Carrickmines,Dublin 18,q3,80%
+25/10/2013,"Unit 6 The Terrace, Carrickmines Manor, Glenamuck Road",Dublin,270000.0,Yes,Carrickmines,Dublin 18,q2,40%
+29/10/2013,"Apartment 25  The Crescent, Carrickmines Manor  Glenamuck Road, Carrickmines",Dublin,178000.0,Yes,Carrickmines,Dublin 18,q1,20%
+01/11/2013,"4 Cairnbrook Avenue, Carrickmines",Dublin,735683.0,Yes,Carrickmines,Dublin 18,q4,90%
+04/11/2013,"67 The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,175000.0,No,Carrickmines,Dublin 18,q1,20%
+08/11/2013,"25 Claremount, Carrickmines",Dublin,718061.66,Yes,Carrickmines,Dublin 18,q4,90%
+20/11/2013,"17 The View, Carrickmines Manor, Glenamuck Rd",Dublin,195000.0,No,Carrickmines,Dublin 18,q1,20%
+29/11/2013,"Chigwell, Carrickmines",Dublin,1097210.0,No,Carrickmines,Dublin 18,q4,100%
+02/12/2013,"5 Knockcree, Glenamuck Road, Carrickmines",Dublin,414335.0,Yes,Carrickmines,Dublin 18,q3,60%
+12/12/2013,"2 The Terrace, Carrickmines Manor, Glenamuck Road",Dublin,279295.0,Yes,Carrickmines,Dublin 18,q2,40%
+13/12/2013,"8 The View, Carrickmines Manor, Glenamuck Road",Dublin,169540.0,Yes,Carrickmines,Dublin 18,q1,20%
+13/12/2013,"Winterbrook, Brennanstown Rd, Carrickmines Dublin 18",Dublin,900000.0,No,Carrickmines,Dublin 18,q4,100%
+17/12/2013,"14 Cairnsford Hall, Carrickmines, Co Dublin",Dublin,205000.0,No,Carrickmines,Dublin 18,q1,30%
+17/12/2013,"8 Joyce Hall, Carrickmines Ave, Carrickmines Dublin 18",Dublin,290000.0,No,Carrickmines,Dublin 18,q2,40%
+19/12/2013,"7 Ballyogan Court, Carrickmines, Dublin 18",Dublin,180000.0,No,Carrickmines,Dublin 18,q1,20%
+19/12/2013,"Donard, 9 Claremont Pines, Carrickmines Dublin 18",Dublin,1125000.0,No,Carrickmines,Dublin 18,q4,100%
+19/12/2013,"Jamilah, Brennanstown Vale, Carrickmines Dublin 18",Dublin,1890000.0,No,Carrickmines,Dublin 18,q4,100%
+19/12/2013,"Tullybeg, Glenamuck Road, Carrickmines",Dublin,775000.0,No,Carrickmines,Dublin 18,q4,90%
+20/12/2013,"3 Cairnbrook Ave, Carrickmines",Dublin,828195.0,Yes,Carrickmines,Dublin 18,q4,90%
+20/12/2013,"6 Knockree, Old Glenamuck Road, Carrickmines",Dublin,466960.0,Yes,Carrickmines,Dublin 18,q3,70%
+20/12/2013,"Knockcree, Glenamuck Road, Carrickmines",Dublin,414335.0,Yes,Carrickmines,Dublin 18,q3,60%
+23/12/2013,"10 Carrickmines Avenue, Carrickmines Wood, Brennanstown Road",Dublin,885000.0,No,Carrickmines,Dublin 18,q4,90%
+08/01/2014,"6 The Walk, Carrickmines Manor, Glenamuck Rd",Dublin,295000.0,No,Carrickmines,Dublin 18,q2,40%
+16/01/2014,"Chaceley, Claremont Pines, Carrickmines",Dublin,1270000.0,No,Carrickmines,Dublin 18,q4,100%
+04/02/2014,"Benalough House, Glenamuck Road, Carrickmines",Dublin,1000000.0,No,Carrickmines,Dublin 18,q4,100%
+05/02/2014,"63 Cairnbrook Ave, Cairn Brook, Carrickmines",Dublin,192000.0,No,Carrickmines,Dublin 18,q1,20%
+07/02/2014,"7 Knockree, Carrickmines",Dublin,422126.0,Yes,Carrickmines,Dublin 18,q3,60%
+14/02/2014,"10 Cairnbrook, Carrickmines, Dublin 18",Dublin,757709.0,No,Carrickmines,Dublin 18,q4,90%
+27/02/2014,"18 The Terrace, Carrickmines Manor, Carrickmines Dublin 18",Dublin,292000.0,No,Carrickmines,Dublin 18,q2,40%
+04/03/2014,"10 Knockcree, Glenamuck Road, Carrickmines",Dublin,466961.0,Yes,Carrickmines,Dublin 18,q3,70%
+12/03/2014,"4 Cairnbrook Way, Carrickmines, Dublin 18",Dublin,285000.0,No,Carrickmines,Dublin 18,q2,40%
+14/03/2014,"36 The Avenue, Carrickmines Wood, Carrickmines Dublin 18",Dublin,450000.0,No,Carrickmines,Dublin 18,q3,60%
+21/03/2014,"23 The Gardens, Carrickmines Green, Glenamuck Rd",Dublin,310000.0,No,Carrickmines,Dublin 18,q2,50%
+03/04/2014,"Kilkeerin, 24B Brennanstown Vale, Carrickmines Dublin 18",Dublin,1550000.0,No,Carrickmines,Dublin 18,q4,100%
+11/04/2014,"8 Cairnbrook Avenue, Carrickmines, Dublin 18",Dublin,651418.0,Yes,Carrickmines,Dublin 18,q4,90%
+29/04/2014,"89 Carrickmines Manor, Glenamuck Road, Carrickmines",Dublin,305000.0,No,Carrickmines,Dublin 18,q2,40%
+02/05/2014,"9 Knockree, Glenamuck Road, Carrickmines",Dublin,430837.0,Yes,Carrickmines,Dublin 18,q3,60%
+21/05/2014,"25 Beech House, Carrickmines Green, Dublin 18",Dublin,176000.0,No,Carrickmines,Dublin 18,q1,20%
+26/05/2014,"2 Swift Hall, Carrickmines Ave, Carrickmines Wood Dublin 18",Dublin,375000.0,No,Carrickmines,Dublin 18,q2,50%
+28/05/2014,"9 Ballyogan Lawn, Carrickmines, Dublin 18",Dublin,224000.0,No,Carrickmines,Dublin 18,q1,30%
+23/06/2014,"4 The Crescent, Carrickmines Manor, Carrickmines Dublin 18",Dublin,189000.0,No,Carrickmines,Dublin 18,q1,20%
+02/07/2014,"11 Knockcree, Glenamuck Road, Carrickmines  Dublin 18",Dublin,439647.57,Yes,Carrickmines,Dublin 18,q3,60%
+15/07/2014,"38 The Crescent, Carrickmines",Dublin,192400.0,No,Carrickmines,Dublin 18,q1,20%
+18/07/2014,"Apartment 54, The Crescent, Carrickmines Manor",Dublin,185000.0,No,Carrickmines,Dublin 18,q1,20%
+23/07/2014,"Apt 56 The Crescent, Carrickmines Manor, Glenamuck Rd",Dublin,290000.0,No,Carrickmines,Dublin 18,q2,40%
+25/07/2014,"Unit 4 The Walk, Carrickmines Manor, Glenamuck Road",Dublin,352000.0,No,Carrickmines,Dublin 18,q2,50%
+07/08/2014,"3 The Walk, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,255100.0,No,Carrickmines,Dublin 18,q2,40%
+18/08/2014,"10 The Rise, Carrickmines Manor, Carrickmines Dublin 18",Dublin,340000.0,No,Carrickmines,Dublin 18,q2,50%
+22/08/2014,"Cortannell, Brennanstown Rd, Carrickmines Dublin 18",Dublin,745000.0,No,Carrickmines,Dublin 18,q4,90%
+05/09/2014,"Glenfruin, Brennanstown Road, Carrickmines",Dublin,1250000.0,No,Carrickmines,Dublin 18,q4,100%
+06/10/2014,"Cloghernagh, Glenamuck Rd, Carrickmines Dublin 18",Dublin,1550000.0,No,Carrickmines,Dublin 18,q4,100%
+08/10/2014,"14 Beckett Hall, Carrickmines Wood, Carrickmines",Dublin,332500.0,No,Carrickmines,Dublin 18,q2,50%
+08/10/2014,"4 Beckett Hall, Carrickmines Avenue, Carrickmines Wood",Dublin,332500.0,No,Carrickmines,Dublin 18,q2,50%
+08/10/2014,"46 Carrickmines Avenue, Carrickmines Wood, Brennanstown Road",Dublin,1377500.0,No,Carrickmines,Dublin 18,q4,100%
+08/10/2014,"5 Carrickmines Dale, Carrickmines Wood, Brennanstown Road",Dublin,855000.0,No,Carrickmines,Dublin 18,q4,90%
+08/10/2014,"Site 12 Knockree, Glenamuck Road, Carrickmines",Dublin,449340.0,Yes,Carrickmines,Dublin 18,q3,60%
+13/10/2014,"34 Carrickmines Ave, Carrickmines Wood, Brennanstown Rd Dublin 18",Dublin,580000.0,No,Carrickmines,Dublin 18,q3,80%
+20/10/2014,"Apt 15 Cairnbrook Hall, Carrickmines, Dublin 18",Dublin,235000.0,No,Carrickmines,Dublin 18,q2,30%
+23/10/2014,"23 Claremount, Carrickmines",Dublin,801762.11,Yes,Carrickmines,Dublin 18,q4,90%
+04/11/2014,"22 The View, Carrickmines Manor, Glenamuck Road",Dublin,209692.0,Yes,Carrickmines,Dublin 18,q1,30%
+14/11/2014,"19 Cairnbrook Manor, Glenamuck Rd, Carrickmines Dublin 18",Dublin,417500.0,No,Carrickmines,Dublin 18,q3,60%
+21/11/2014,"7 Laurel House, Carrickmines Green, Glenamuck Rd Carrickmines",Dublin,175000.0,No,Carrickmines,Dublin 18,q1,20%
+24/11/2014,"5 The Walk, Carrickmines Manor, Glenamuck Road",Dublin,210000.0,No,Carrickmines,Dublin 18,q1,30%
+01/12/2014,"1 Cairnbrook Avenue, Cairnbrook, Carrickmines",Dublin,616740.0,Yes,Carrickmines,Dublin 18,q4,80%
+04/12/2014,"13 Knockcree, Glenamuck Road, Carrickmines",Dublin,330396.0,Yes,Carrickmines,Dublin 18,q2,50%
+10/12/2014,"20 Laurel House, Carrickmines Green, Carrickmines",Dublin,258000.0,No,Carrickmines,Dublin 18,q2,40%
+10/12/2014,"5 Joyce Hall, Carrickmines Wood Apts, Brennanstown Rd Dublin 8",Dublin,500000.0,No,Carrickmines,Dublin 18,q3,70%
+17/12/2014,"14 Knockree, Carrickmines, Dublin 18",Dublin,462500.0,Yes,Carrickmines,Dublin 18,q3,70%
+19/12/2014,"15 Ballyogan Ave, Carrickmines, Dublin 18",Dublin,240000.0,No,Carrickmines,Dublin 18,q2,30%
+19/12/2014,"19 Knockcree, Glenamuck Road, Carrickmines",Dublin,331476.8,Yes,Carrickmines,Dublin 18,q2,50%
+22/12/2014,"9 The Crescent, Carrickmines Manor, Carrickmines",Dublin,209450.0,No,Carrickmines,Dublin 18,q1,30%
+31/12/2014,"65 Cairnbrook Ave, Glenamuck Rd, Carrickmines Dublin 18",Dublin,242000.0,No,Carrickmines,Dublin 18,q2,30%
+09/01/2015,"15 Knockcree, Glenamuck Road, Carrickmines",Dublin,440087.0,Yes,Carrickmines,Dublin 18,q3,60%
+21/01/2015,"9 Cairnbrook Avenue, Cairnbrook, Carrickmines",Dublin,634361.23,Yes,Carrickmines,Dublin 18,q4,90%
+29/01/2015,"10 Cairnbrook Avenue, Carrickmines",Dublin,837004.4,Yes,Carrickmines,Dublin 18,q4,90%
+30/01/2015,"12 Cairnbrook Avenue, Carrickmines",Dublin,752422.9,Yes,Carrickmines,Dublin 18,q4,90%
+27/02/2015,"4 The Green, Carrickmines Manor, Carrickmines Dublin 18",Dublin,402000.0,No,Carrickmines,Dublin 18,q3,60%
+16/03/2015,"59 Cairnbrook Ave, Glenamuck Rd, Carrickmines Dublin 18",Dublin,350000.0,No,Carrickmines,Dublin 18,q2,50%
+20/03/2015,"17 Knockcree  Glenamuck Road, Carrickmines",Dublin,471365.64,Yes,Carrickmines,Dublin 18,q3,70%
+02/04/2015,"14 The Garens, Carrickmines Manor, Carrickmines",Dublin,350000.0,No,Carrickmines,Dublin 18,q2,50%
+09/04/2015,"12 Beckett Hall, Carrickmines Ave, Carrickmines Wood Dublin 18",Dublin,800000.0,No,Carrickmines,Dublin 18,q4,90%
+23/04/2015,"2 Claremont, Carrickmines, Dublin",Dublin,960000.0,No,Carrickmines,Dublin 18,q4,100%
+28/04/2015,"4 Swift Hall, Carrickmines Wood, Dublin 18",Dublin,450000.0,No,Carrickmines,Dublin 18,q3,60%
+29/04/2015,"11 Glenamuck Cottages, Carrickmines, Dublin 18",Dublin,425000.0,No,Carrickmines,Dublin 18,q3,60%
+27/05/2015,"15 Ballogan Lawn, Carrickmines, Dublin 18",Dublin,72234.2,No,Carrickmines,Dublin 18,q1,10%
+12/06/2015,"Carricail, Carrickmines, Dublin",Dublin,942355.0,No,Carrickmines,Dublin 18,q4,100%
+17/06/2015,"5 The Garth, Carrickmines Wood, Carrickbrennan Road",Dublin,985000.0,No,Carrickmines,Dublin 18,q4,100%
+13/07/2015,"48 Carrickmines Ave, Carrickmines Wood, Brennanstown Rd Dublin 18",Dublin,1205557.0,No,Carrickmines,Dublin 18,q4,100%
+13/07/2015,"8 Ballyogan Wood, Carrickmines, Dublin 18",Dublin,304000.0,No,Carrickmines,Dublin 18,q2,40%
+20/07/2015,"18 Beckett Hall, Carrickmines Wood, Brennanstown Road",Dublin,825000.0,No,Carrickmines,Dublin 18,q4,90%
+07/08/2015,"12 Claremount  Carrickmines, Dublin 18",Dublin,955000.0,Yes,Carrickmines,Dublin 18,q4,100%
+10/08/2015,"Roncalli, Claremont Pines, Carrickmines Dublin 18",Dublin,1225000.0,No,Carrickmines,Dublin 18,q4,100%
+28/08/2015,"12 Carrickmines Oaks, Brennanstown Rd, Dublin 18",Dublin,1950000.0,No,Carrickmines,Dublin 18,q4,100%
+08/09/2015,"14 Glenamuck Cottages, Carrickmines, Dublin 18",Dublin,260000.0,No,Carrickmines,Dublin 18,q2,40%
+11/09/2015,"Belvoir  21 Brennanstown Vale, Carrickmines",Dublin,1550000.0,No,Carrickmines,Dublin 18,q4,100%
+18/09/2015,"Apartment 26 The View, Carrickmines Manor, Glenamuck Road",Dublin,300000.0,No,Carrickmines,Dublin 18,q2,40%
+05/10/2015,"17 Cairnbrook Manor, Carrickmines, Dublin",Dublin,395000.0,No,Carrickmines,Dublin 18,q3,60%
+05/10/2015,"18 Knockree, Glenamuck Road, Carrickmines",Dublin,440088.3,Yes,Carrickmines,Dublin 18,q3,60%
+14/10/2015,"30 Carrickmines Ave, Carrickmines Wood, Brennanstown Rd Dublin 18",Dublin,520000.0,No,Carrickmines,Dublin 18,q3,70%
+21/10/2015,"19 Claremount, Carrickmines, Dublin 18",Dublin,940000.0,Yes,Carrickmines,Dublin 18,q4,100%
+22/10/2015,"9 Swift Hall, Carrickmines Ave, Carrickmines Wood Dublin 18",Dublin,482500.0,No,Carrickmines,Dublin 18,q3,70%
+27/10/2015,"18 The Walk, Carrickmines Green, Carrickmines",Dublin,265000.0,No,Carrickmines,Dublin 18,q2,40%
+29/10/2015,"Apt 27, Beech House, Carrickmines Green Dublin 18",Dublin,195000.0,No,Carrickmines,Dublin 18,q1,20%
+06/11/2015,"27 Leopardstown Abbey, Carrickmines, Dublin 18",Dublin,360000.0,No,Carrickmines,Dublin 18,q2,50%
+07/12/2015,"26 Laurel House, Carrickmines Green, Carrickmines Dublin 18",Dublin,190000.0,No,Carrickmines,Dublin 18,q1,20%
+15/12/2015,"Villa Atina, 1 Cairnbrook, Carrickmines Dublin 18",Dublin,995000.0,No,Carrickmines,Dublin 18,q4,100%
+17/12/2015,"30 The View Carrickmines, Manor Glenamuck Rd, Carrickmines",Dublin,225000.0,No,Carrickmines,Dublin 18,q1,30%
+18/12/2015,"The Leys, Glenamuck Rd, Carrickmines Dublin 18",Dublin,2000000.0,No,Carrickmines,Dublin 18,q4,100%
+21/12/2015,"27 Laurel House, Carrickmines",Dublin,201000.0,No,Carrickmines,Dublin 18,q1,30%
+21/12/2015,"3 Swift Hall, Carrickmines Wood, Brennanstown Rd Dublin 18",Dublin,465000.0,No,Carrickmines,Dublin 18,q3,70%
+19/01/2016,"Brambledown, Glenamuck Rd, Carrickmines",Dublin,1525000.0,No,Carrickmines,Dublin 18,q4,100%
+29/01/2016,"7 Claremount, Carrickmines",Dublin,969163.0,Yes,Carrickmines,Dublin 18,q4,100%
+12/02/2016,"8 Claremont, Carrickmines",Dublin,1035243.29,Yes,Carrickmines,Dublin 18,q4,100%
+26/02/2016,"26 Laurel House, Carrickmines Green, Carrickmines Dublin 18",Dublin,190000.0,No,Carrickmines,Dublin 18,q1,20%
+29/02/2016,"5 Claremont, Claremont Road, Carrickmines",Dublin,960352.0,Yes,Carrickmines,Dublin 18,q4,100%
+07/03/2016,"5 Brennanstown Vale, Carrickmines, Dublin 18",Dublin,1550000.0,No,Carrickmines,Dublin 18,q4,100%
+11/03/2016,"4 Ballyogan Wood, Carrickmines, Dublin 18",Dublin,320000.0,No,Carrickmines,Dublin 18,q2,50%
+31/03/2016,"25 The Terrace, Carrickmines Manor, Dublin 18",Dublin,365000.0,No,Carrickmines,Dublin 18,q2,50%
+04/04/2016,"13 Cairnbrook Hall, Cairnbrook, Carrickmines Dublin 18",Dublin,225000.0,No,Carrickmines,Dublin 18,q1,30%
+11/04/2016,"4 Laurel House, Carrickmines Green, Carrickmines Dublin 18",Dublin,190000.0,No,Carrickmines,Dublin 18,q1,20%
+22/04/2016,"Tall Trees, Claremont Rd, Carrickmines Dublin 18",Dublin,1750000.0,No,Carrickmines,Dublin 18,q4,100%
+24/04/2016,"4 The Crescent, Carrickmines Green, Carrickmines Dublin 18",Dublin,375000.0,No,Carrickmines,Dublin 18,q2,50%
+16/05/2016,"6 Claremont, Carrickmines, Dublin18",Dublin,1100000.0,Yes,Carrickmines,Dublin 18,q4,100%
+25/05/2016,"1 The Crescent, Carrickmines Green, Glenamuck Rd",Dublin,370000.0,No,Carrickmines,Dublin 18,q2,50%
+20/06/2016,"38 Laurel House, Carrickmines Green, Carrickmines",Dublin,202643.0,No,Carrickmines,Dublin 18,q1,30%
+22/06/2016,"3 Pavillion Gate, Carrickmines, Dublin",Dublin,1060000.0,No,Carrickmines,Dublin 18,q4,100%
+22/06/2016,"5 Beech House, Carrickmines Green, Glenamuck Rd",Dublin,265000.0,Yes,Carrickmines,Dublin 18,q2,40%
+24/06/2016,"Apt 10 Beckett Hall, Carrickmines Wood, Carrickmines Dublin 18",Dublin,435000.0,No,Carrickmines,Dublin 18,q3,60%
+28/06/2016,"1 The Rise, Carrickmines, Glenamuch Rd",Dublin,400000.0,No,Carrickmines,Dublin 18,q3,60%
+30/06/2016,"12 Cairnbrook Hall, Carrickmines, Dublin 18",Dublin,305000.0,No,Carrickmines,Dublin 18,q2,40%
+06/07/2016,"27A Glenamuck Cottages, Glenamuck Rd, Carrickmines",Dublin,510000.0,No,Carrickmines,Dublin 18,q3,70%
+07/07/2016,"17 The Gardens, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,387000.0,No,Carrickmines,Dublin 18,q2,50%
+08/07/2016,"8 Beech House, Carrickmines Green, Glenamuck Rd Dublin 18",Dublin,195000.0,No,Carrickmines,Dublin 18,q1,20%
+13/07/2016,"18 Laurel House, Carrickmines Green, Glenamuck Rd Dublin 18",Dublin,200000.0,No,Carrickmines,Dublin 18,q1,30%
+13/07/2016,"5 The Walk, Carrickmines Manor, Glenamuck Road",Dublin,245000.0,No,Carrickmines,Dublin 18,q2,30%
+14/07/2016,"2 The Walk, Carrickmines Green, Carrickmines",Dublin,250000.0,Yes,Carrickmines,Dublin 18,q2,30%
+14/07/2016,"8 The Crescent, Carrickmines Green, Glenamuck Rd",Dublin,360000.0,No,Carrickmines,Dublin 18,q2,50%
+15/07/2016,"3 Thornberry Road, Carrickmines Manor, Carrickmines",Dublin,418502.2,Yes,Carrickmines,Dublin 18,q3,60%
+15/07/2016,"51 Cairnbrook Ave, Glenamuck Rd, Carrickmines Dublin 18",Dublin,460000.0,No,Carrickmines,Dublin 18,q3,70%
+15/07/2016,"Ridgeview House, 4A Brennanstown Vale, Carrickmines Dublin 18",Dublin,1025000.0,No,Carrickmines,Dublin 18,q4,100%
+20/07/2016,"21 Oak House, Carrickmines Green, Glenamuck Rd",Dublin,242290.75,Yes,Carrickmines,Dublin 18,q2,30%
+26/07/2016,"10 The Crescent, Carrickmines Green, Carrickmines",Dublin,355000.0,No,Carrickmines,Dublin 18,q2,50%
+28/07/2016,"3 The Crescent, Carrickmines Green, Carrickmines",Dublin,215860.0,Yes,Carrickmines,Dublin 18,q1,30%
+29/07/2016,"16 Beech House, Carrickmines Green, Glenamuck Rd",Dublin,230000.0,Yes,Carrickmines,Dublin 18,q1,30%
+04/08/2016,"Apartment 21 Beech House, Glenamuck Road, Carrickmines",Dublin,242290.74,Yes,Carrickmines,Dublin 18,q2,30%
+04/08/2016,"Apartment 23 Beech House, Carrickmines Green, Glenamuck Road",Dublin,310000.0,Yes,Carrickmines,Dublin 18,q2,50%
+05/08/2016,"3 The Rise, Carrickmines Manor, Carrickmines",Dublin,400000.0,No,Carrickmines,Dublin 18,q3,60%
+05/08/2016,"9 Carrickmines Chase, Carrickmines Wood, Dublin 18",Dublin,595000.0,No,Carrickmines,Dublin 18,q3,80%
+11/08/2016,"46 Beech House, Carrickmines Green, Carrickmines",Dublin,310000.0,No,Carrickmines,Dublin 18,q2,50%
+11/08/2016,"Unit 12 The Terrace, Carrickmines Manor, Glenamuck Road",Dublin,206035.24,Yes,Carrickmines,Dublin 18,q1,30%
+11/08/2016,"Unit 14 The Terrace, Carrickmines Manor, Glenamuck Road",Dublin,214845.81,Yes,Carrickmines,Dublin 18,q1,30%
+11/08/2016,"Unit 4 The Gardens, Carrickmines Manor, Glenamuck Road",Dublin,206035.24,Yes,Carrickmines,Dublin 18,q1,30%
+11/08/2016,"Unit 6 The Gardens, Carrickmines Manor, Glenamuck Road",Dublin,206035.24,Yes,Carrickmines,Dublin 18,q1,30%
+11/08/2016,"Unit 8 The Gardens, Carrickmines Manor, Glenamuck Road",Dublin,206035.24,Yes,Carrickmines,Dublin 18,q1,30%
+15/08/2016,"34 Beech House, Carrickmines Green, Carrickmines",Dublin,265000.0,No,Carrickmines,Dublin 18,q2,40%
+16/08/2016,"2 Beech House Apt, Carrickmines Green, Glenaumuck Rd Dublin 18",Dublin,195000.0,No,Carrickmines,Dublin 18,q1,20%
+19/08/2016,"Apt 5, The Crescent, Carrickmines Manor Dublin 18",Dublin,260000.0,No,Carrickmines,Dublin 18,q2,40%
+22/08/2016,"Apt 22 Beech House, Carrickmines Green, Glenamuck Road",Dublin,275000.0,Yes,Carrickmines,Dublin 18,q2,40%
+23/08/2016,"22 Laurel House, Carrickmines Green, Carrickmines",Dublin,242291.0,Yes,Carrickmines,Dublin 18,q2,30%
+25/08/2016,"9 The Crescent, Carrickmines Green, Carrickmines",Dublin,250000.0,No,Carrickmines,Dublin 18,q2,30%
+06/09/2016,"43 Laurel House, Carrickmines Green, Carrickmines",Dublin,230000.0,No,Carrickmines,Dublin 18,q2,30%
+15/09/2016,"23 Laurel House, Carrickmines Green, Carrickmines",Dublin,310000.0,No,Carrickmines,Dublin 18,q2,50%
+15/09/2016,"Apt 10, Cairnbrook View, Carrickmines Dublin 18",Dublin,345000.0,No,Carrickmines,Dublin 18,q2,50%
+16/09/2016,"38 Oak House, Carrickmines Green, Carrickmines",Dublin,230000.0,Yes,Carrickmines,Dublin 18,q2,30%
+22/09/2016,"31 Oak House, Carrickmines Green, Glenamuck Rd",Dublin,190000.0,No,Carrickmines,Dublin 18,q1,20%
+23/09/2016,"10 Yeats Hall, Carrickmines Wood, Carrickmines",Dublin,490000.0,No,Carrickmines,Dublin 18,q3,70%
+23/09/2016,"43 Beech House, Carrickmines Green, Glenamuck Rd",Dublin,230000.0,Yes,Carrickmines,Dublin 18,q2,30%
+03/10/2016,"Apt 39 Beech House, Carrickmines Green, Glenamuck Road",Dublin,233480.0,Yes,Carrickmines,Dublin 18,q2,30%
+13/10/2016,"15 Blackberry Hill, Carrickmines",Dublin,524229.08,Yes,Carrickmines,Dublin 18,q3,70%
+13/10/2016,"2 The View, Carrickmines Manor, Glenamuck Rd",Dublin,102511.01,No,Carrickmines,Dublin 18,q1,10%
+13/10/2016,"24 The Crescent, Carrickmines Manor, Glenamuck Rd",Dublin,139955.95,No,Carrickmines,Dublin 18,q1,10%
+13/10/2016,"27 The Crescent, Carrickmines Manor, Glenamuck Rd",Dublin,144361.23,No,Carrickmines,Dublin 18,q1,10%
+13/10/2016,"4 The View, Carrickmines Manor, Glenamuck Rd",Dublin,102511.01,No,Carrickmines,Dublin 18,q1,10%
+13/10/2016,"55 The Crescent, Carrickmines Manor, Glenamuck Rd",Dublin,144361.23,No,Carrickmines,Dublin 18,q1,10%
+13/10/2016,"72 The Crescent, Carrickmines Manor, Glenamuck Rd",Dublin,139955.95,No,Carrickmines,Dublin 18,q1,10%
+18/10/2016,"21 Laurel House, Carrickmines Green, Carrickmines",Dublin,275000.0,Yes,Carrickmines,Dublin 18,q2,40%
+24/10/2016,"6 Laurel House, Carrickmines Green, Carrickmines",Dublin,230000.0,No,Carrickmines,Dublin 18,q2,30%
+09/11/2016,"23 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q3,80%
+15/11/2016,"42 Cairnbrook Ave, Glenamuck Rd, Carrickmines Dublin 18",Dublin,500000.0,No,Carrickmines,Dublin 18,q3,70%
+15/11/2016,"Unit 9 Blackberry Hill, Carrickmines, County Dublin",Dublin,572687.22,Yes,Carrickmines,Dublin 18,q3,80%
+21/11/2016,"10 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,572687.22,Yes,Carrickmines,Dublin 18,q3,80%
+25/11/2016,"35 Ballyogan Crescent, Carrickmines, Dublin 18",Dublin,258888.0,No,Carrickmines,Dublin 18,q2,40%
+19/12/2016,"Carricail, Carrickmines, Dublin",Dublin,1140596.0,No,Carrickmines,Dublin 18,q4,100%
+21/12/2016,"5 Ballyogan Ave, Carrickmines, Dublin 18",Dublin,285000.0,No,Carrickmines,Dublin 18,q2,40%
+17/01/2017,"12 Blackberry Hill, Carrickmines, Dublin 18",Dublin,528634.36,Yes,Carrickmines,Dublin 18,q3,70%
+17/01/2017,"36 The View, Carrickmines Manor, Glenamuck Rd",Dublin,300000.0,No,Carrickmines,Dublin 18,q2,40%
+17/01/2017,"8 Blackberry Hill, Carrickmines, Dublin 18",Dublin,528634.36,Yes,Carrickmines,Dublin 18,q3,70%
+25/01/2017,"24 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q3,80%
+30/01/2017,"4 Blackberry Hill, Carrickmines",Dublin,572687.0,Yes,Carrickmines,Dublin 18,q3,80%
+02/02/2017,"9 Cairnbrook, Glenamuck Rd, Carrickmines Dublin 18",Dublin,870000.0,No,Carrickmines,Dublin 18,q4,90%
+08/02/2017,"7 Swift Hall, Carrickmines Ave, Carrickmines Wood Dublin 18",Dublin,480000.0,No,Carrickmines,Dublin 18,q3,70%
+22/02/2017,"Winterbrook, Brennanstown Road, Carrickmines",Dublin,600000.0,No,Carrickmines,Dublin 18,q3,80%
+27/02/2017,"5 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,453744.5,Yes,Carrickmines,Dublin 18,q3,60%
+28/02/2017,"Apt 1 Joyce Hall, Carrickmines Wood, Dublin 18",Dublin,495000.0,No,Carrickmines,Dublin 18,q3,70%
+02/03/2017,"18 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q3,80%
+16/03/2017,"12 The Avenue, Carrickmines Green, Dublin",Dublin,484581.5,Yes,Carrickmines,Dublin 18,q3,70%
+24/03/2017,"1 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,471365.64,Yes,Carrickmines,Dublin 18,q3,70%
+28/03/2017,"4 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,466960.35,Yes,Carrickmines,Dublin 18,q3,70%
+04/04/2017,"6 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,458150.0,Yes,Carrickmines,Dublin 18,q3,70%
+06/04/2017,"1 The Walk, Carrickmines Manor, Glenamuck Rd",Dublin,135550.66,No,Carrickmines,Dublin 18,q1,10%
+06/04/2017,"10 The Gardens, Carrickmines Manor, Glenamuck Rd",Dublin,206035.24,No,Carrickmines,Dublin 18,q1,30%
+06/04/2017,"10 The View, Carrickmines Manor, Glenamuck Rd",Dublin,144361.23,No,Carrickmines,Dublin 18,q1,10%
+06/04/2017,"12 The Gardens, Carrickmines Manor, Glenamuck Rd",Dublin,206035.24,No,Carrickmines,Dublin 18,q1,30%
+06/04/2017,"21 The View, Carrickmines Manor, Glenamuck Rd",Dublin,146563.88,No,Carrickmines,Dublin 18,q1,10%
+06/04/2017,"34 The Crescent, Carrickmines Manor, Glenamuck Rd",Dublin,137753.3,No,Carrickmines,Dublin 18,q1,10%
+06/04/2017,"46 The Crescent, Carrickmines Manor, Glenamuck Rd",Dublin,139955.95,No,Carrickmines,Dublin 18,q1,10%
+06/04/2017,"7 The Walk, Carrickmines Manor, Glenamuck Rd",Dublin,135550.66,No,Carrickmines,Dublin 18,q1,10%
+10/04/2017,"28 The Avenue, Glenside, Carrickmines",Dublin,405286.34,Yes,Carrickmines,Dublin 18,q3,60%
+13/04/2017,"27 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,405286.34,Yes,Carrickmines,Dublin 18,q3,60%
+20/04/2017,"2 Beckett Hall, Carrickmines, Dublin 18",Dublin,420000.0,No,Carrickmines,Dublin 18,q3,60%
+20/04/2017,"29 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,458150.0,Yes,Carrickmines,Dublin 18,q3,70%
+21/04/2017,"11 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,506025.0,Yes,Carrickmines,Dublin 18,q3,70%
+25/04/2017,"26 The Avenue, Carrickmines Green, Carrickmines",Dublin,462555.0,Yes,Carrickmines,Dublin 18,q3,70%
+03/05/2017,"2 Pavillion Gate, Glenamuck Rd, Carrickmines",Dublin,995000.0,No,Carrickmines,Dublin 18,q4,100%
+08/05/2017,"The Leys, Glenamuck Rd, Carrickmines Dublin 18",Dublin,3000000.0,No,Carrickmines,Dublin 18,q4,100%
+10/05/2017,"7 Blackberry Hill, Carrickmines, Dublin 18",Dublin,572687.22,Yes,Carrickmines,Dublin 18,q3,80%
+16/05/2017,"32 Blackberry Hill, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+19/05/2017,"20 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,621334.8,Yes,Carrickmines,Dublin 18,q4,90%
+19/05/2017,"30 The Avenue, Carrickmines Green, Glenmaluck Road",Dublin,462555.0,Yes,Carrickmines,Dublin 18,q3,70%
+26/05/2017,"7 Ballyogan Court, Carrickmines, Dublin 18",Dublin,295000.0,No,Carrickmines,Dublin 18,q2,40%
+29/05/2017,"46 Ballyogan Ave, Carrickmines, Dublin 18",Dublin,232000.0,No,Carrickmines,Dublin 18,q2,30%
+30/05/2017,"1 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,577092.51,Yes,Carrickmines,Dublin 18,q3,80%
+01/06/2017,"9 Joyce Hall, Carrickmines Woods, Brennanstown Rd",Dublin,450000.0,No,Carrickmines,Dublin 18,q3,60%
+06/06/2017,"30 Blackberry Hill, Carrickmines, Dublin 18",Dublin,612334.0,Yes,Carrickmines,Dublin 18,q3,80%
+07/06/2017,"3 The Walk, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,290000.0,No,Carrickmines,Dublin 18,q2,40%
+08/06/2017,"2 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,458149.0,Yes,Carrickmines,Dublin 18,q3,70%
+09/06/2017,"49 Cairnbrook Ave, Glenamuck Rd, Carrickmines",Dublin,520000.0,No,Carrickmines,Dublin 18,q3,70%
+16/06/2017,"31 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,612334.18,Yes,Carrickmines,Dublin 18,q3,80%
+23/06/2017,"6 Blacnkberrry Hill, Glenamuck Road, Carrickmines",Dublin,572687.22,Yes,Carrickmines,Dublin 18,q3,80%
+27/06/2017,"19 Blackberry Hill, Carrickmines, Co Dublin",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+27/06/2017,"36 Blackberry Hill, Carrickmines, Dublin",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+30/06/2017,"10 The Avenue, Glenside, Carrickmines Green",Dublin,471400.0,Yes,Carrickmines,Dublin 18,q3,70%
+30/06/2017,"11 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,515000.0,Yes,Carrickmines,Dublin 18,q3,70%
+30/06/2017,"17 Carrickmines, Glenamuck Rd, Dublin 18",Dublin,293000.0,No,Carrickmines,Dublin 18,q2,40%
+30/06/2017,"Bridgefield House, 4 Brennanstown Vale, Carrickmines Dublin 18",Dublin,1700000.0,No,Carrickmines,Dublin 18,q4,100%
+06/07/2017,"21 Cairnbrook Ave, Glenamuck Rd, Carrickmines Dublin 18",Dublin,535000.0,No,Carrickmines,Dublin 18,q3,70%
+07/07/2017,"21 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+10/07/2017,"2 Blackberry Hill, Carrickmines, Dublin 18",Dublin,572687.22,Yes,Carrickmines,Dublin 18,q3,80%
+11/07/2017,"6 Cairnbrooke Hall, Cairnbrooke, Carrickmines Dublin 18",Dublin,415000.0,No,Carrickmines,Dublin 18,q3,60%
+12/07/2017,"13 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,471365.64,Yes,Carrickmines,Dublin 18,q3,70%
+14/07/2017,"10 Carrickmines Oaks, Carrickmines Wood, Dublin 18",Dublin,2075000.0,No,Carrickmines,Dublin 18,q4,100%
+14/07/2017,"17 The Avenue, Carrickmines Green, Carrickmines",Dublin,462775.0,Yes,Carrickmines,Dublin 18,q3,70%
+25/07/2017,"Druid Hill, Brennanstown Rd, Carrickmines Dublin 18",Dublin,995000.0,No,Carrickmines,Dublin 18,q4,100%
+26/07/2017,"13 Glenamuck Cottages, Carrickmines, Dublin 18",Dublin,455000.0,No,Carrickmines,Dublin 18,q3,60%
+28/07/2017,"85 The Crescent, Carrickmines Manor, Dublin 18",Dublin,450000.0,No,Carrickmines,Dublin 18,q3,60%
+01/08/2017,"73 The Crescent, Carrickmines Manor, Glenamuck Rd   Carrickmines",Dublin,331000.0,No,Carrickmines,Dublin 18,q2,50%
+04/08/2017,"27 Cairnbrook Ave, Glenamuck Rd, Carrickmines Dublin 18",Dublin,520000.0,No,Carrickmines,Dublin 18,q3,70%
+10/08/2017,"5 Brambledown, Glenamuck Road, Carrickmines",Dublin,691629.0,Yes,Carrickmines,Dublin 18,q4,90%
+18/08/2017,"9 The Gardens, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,275000.0,No,Carrickmines,Dublin 18,q2,40%
+30/08/2017,"11 Cairnbrook View, Cairnbrook, Carrickmines Dublin 18",Dublin,370000.0,No,Carrickmines,Dublin 18,q2,50%
+31/08/2017,"12 The View, Carrickmines Manor, Glenamuck Rd",Dublin,295000.0,No,Carrickmines,Dublin 18,q2,40%
+31/08/2017,"21 The Terrace, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,412000.0,No,Carrickmines,Dublin 18,q3,60%
+31/08/2017,"3 Cairnbrook View, Cairnbrook, Carrickmines Dublin 18",Dublin,310000.0,No,Carrickmines,Dublin 18,q2,50%
+08/09/2017,"9 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,471365.0,Yes,Carrickmines,Dublin 18,q3,70%
+11/09/2017,"25 Blackberry Hill, Carrickmines",Dublin,612335.0,Yes,Carrickmines,Dublin 18,q4,80%
+13/09/2017,"6 Joyce Hall, Carrickmines Wood, Dublin 18",Dublin,850000.0,No,Carrickmines,Dublin 18,q4,90%
+14/09/2017,"38 The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,263000.0,No,Carrickmines,Dublin 18,q2,40%
+15/09/2017,"Inglenook, Glenamuck Rd, Carrickmines Dublin 18",Dublin,700000.0,No,Carrickmines,Dublin 18,q4,90%
+15/09/2017,"Saxaroon, Glenamuck Rd, Carrickmines Dublin 18",Dublin,3525000.0,No,Carrickmines,Dublin 18,q4,100%
+19/09/2017,"14 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,466960.0,Yes,Carrickmines,Dublin 18,q3,70%
+29/09/2017,"5 Blackberry Hill, Carrickmines, Dublin 18",Dublin,572687.0,Yes,Carrickmines,Dublin 18,q3,80%
+02/10/2017,"21 The Crescent, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,235000.0,No,Carrickmines,Dublin 18,q2,30%
+02/10/2017,"28 Blackberry Hill, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+26/10/2017,"22 Blackberry Hill, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+08/11/2017,"Apt 13 The Crescent, Carrickmines Manor, Glenamuck Road",Dublin,286000.0,No,Carrickmines,Dublin 18,q2,40%
+15/11/2017,"8 Ballyogan Wood, Carrickmines, Dublin 18",Dublin,394000.0,No,Carrickmines,Dublin 18,q3,60%
+06/12/2017,"15 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,466960.0,Yes,Carrickmines,Dublin 18,q3,70%
+06/12/2017,"16 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,466960.35,Yes,Carrickmines,Dublin 18,q3,70%
+13/12/2017,"13 Blackberry Hill, Carrickmines",Dublin,612344.0,Yes,Carrickmines,Dublin 18,q4,80%
+13/12/2017,"8 Knockcree, Old Glenamuck Road, Carrickmines Road",Dublin,695000.0,Yes,Carrickmines,Dublin 18,q4,90%
+15/12/2017,"5 The Dale, Carrickmines Wood, Carrickmines Dublin 18",Dublin,885000.0,No,Carrickmines,Dublin 18,q4,90%
+15/12/2017,"7 Blackberry Hill, Carrickmines, Co. Dublin",Dublin,645000.0,Yes,Carrickmines,Dublin 18,q4,90%
+19/12/2017,"20 The View, Carrickmines Manor, Glenamuck Rd",Dublin,308000.0,No,Carrickmines,Dublin 18,q2,50%
+19/12/2017,"40 Blackberry Hill, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+20/12/2017,"17 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,612335.0,Yes,Carrickmines,Dublin 18,q4,80%
+21/12/2017,"14 Oakhouse, Glenamuck Rd, Carrickmines Dublin 18",Dublin,200000.0,No,Carrickmines,Dublin 18,q1,30%
+08/01/2018,"Brookwood Lodge, Glenamuck Road South, Carrickmines",Dublin,792951.54,Yes,Carrickmines,Dublin 18,q4,90%
+25/01/2018,"7 The Rise, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,437000.0,No,Carrickmines,Dublin 18,q3,60%
+02/02/2018,"28 Leopardstown Abbey, Carrickmines, Dublin 18",Dublin,445000.0,No,Carrickmines,Dublin 18,q3,60%
+06/02/2018,"29 Blackberry Hill, Golf Lane, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+08/02/2018,"15 Brennanstown Vale, Carrickmines, Dublin 18",Dublin,1550000.0,No,Carrickmines,Dublin 18,q4,100%
+09/02/2018,"12 The Rise, Carrickmines Manor, Dublin 18",Dublin,420000.0,No,Carrickmines,Dublin 18,q3,60%
+13/02/2018,"10 Cairnbrook, Carrickmines, Dublin 18",Dublin,940000.0,No,Carrickmines,Dublin 18,q4,100%
+15/02/2018,"42 Blackberry Hill, Carrickmines, Dublin 18",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+06/03/2018,"16 The Walk, Carrickmines Green, Carrickmines Dublin 18",Dublin,280000.0,No,Carrickmines,Dublin 18,q2,40%
+15/03/2018,"7 The Avenue, Carrickmines Green, Carrickmines",Dublin,484581.49,Yes,Carrickmines,Dublin 18,q3,70%
+22/03/2018,"21 The Walk, Carrickmines Green, Carrickmines",Dublin,422907.0,Yes,Carrickmines,Dublin 18,q3,60%
+23/03/2018,"19 The Walk, Carrickmines Green, Carrickmines",Dublin,431718.06,Yes,Carrickmines,Dublin 18,q3,60%
+27/03/2018,"13 Carrickmines Chase, Carrickmines Wood, Brennanstown Rd Dublin 18",Dublin,565000.0,No,Carrickmines,Dublin 18,q3,80%
+28/03/2018,"4 Brambledown, Glenamuck Road, Carrickmines",Dublin,610951.0,Yes,Carrickmines,Dublin 18,q3,80%
+04/04/2018,"22 The Avenue, Carrickmines Greeen, Glenamuck Road",Dublin,471366.0,Yes,Carrickmines,Dublin 18,q3,70%
+06/04/2018,"8 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,493392.0,Yes,Carrickmines,Dublin 18,q3,70%
+10/04/2018,"39  Blackberry  Hill, Carrickmines, Dublin  18",Dublin,601175.0,Yes,Carrickmines,Dublin 18,q3,80%
+11/04/2018,"24 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,471365.0,Yes,Carrickmines,Dublin 18,q3,70%
+24/04/2018,"20 The Avenue, Carrickmines Green, Carrickmines",Dublin,475770.92,Yes,Carrickmines,Dublin 18,q3,70%
+27/04/2018,"19 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,488986.78,Yes,Carrickmines,Dublin 18,q3,70%
+30/04/2018,"8 The Garth, Carrickmines Wood, Carrickmines Dublin 18",Dublin,1000000.0,No,Carrickmines,Dublin 18,q4,100%
+04/05/2018,"23 The Walk, Carrickmines Green, Glenamuck Road",Dublin,422907.0,Yes,Carrickmines,Dublin 18,q3,60%
+08/05/2018,"7 Brambledown, Glenamuck Road, Carrickmines",Dublin,616740.0,Yes,Carrickmines,Dublin 18,q4,80%
+08/05/2018,"Apt 4 Cairnbrook Hall, Cairnbrook, Carrickmines Dublin 18",Dublin,435000.0,No,Carrickmines,Dublin 18,q3,60%
+18/05/2018,"24 The Walk, Carrickmines Green, Glenamuck Road",Dublin,422907.0,Yes,Carrickmines,Dublin 18,q3,60%
+18/05/2018,"34 Blackberry Hill, Carrickmines",Dublin,612335.0,Yes,Carrickmines,Dublin 18,q4,80%
+21/05/2018,"33 Blackberry Hill, Carrickmines, Dublin 18",Dublin,612334.0,Yes,Carrickmines,Dublin 18,q3,80%
+25/05/2018,"44 Carrickmines Ave, Carrickmines Wood, Dublin 18",Dublin,670000.0,No,Carrickmines,Dublin 18,q4,90%
+28/05/2018,"3 Brambledown, Glenamuck Road, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+06/06/2018,"41 Blackberry Hill, Carrickmines",Dublin,612335.0,Yes,Carrickmines,Dublin 18,q4,80%
+12/06/2018,"18 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,471365.0,Yes,Carrickmines,Dublin 18,q3,70%
+13/06/2018,"16 Claremont Pines, Carrickmines, Dublin 18",Dublin,1281000.0,No,Carrickmines,Dublin 18,q4,100%
+29/06/2018,"38 Blackberry Hill, Carrickmines",Dublin,625550.0,Yes,Carrickmines,Dublin 18,q4,90%
+29/06/2018,"5 Cairnbrook, Carrickmines, Dublin",Dublin,1100000.0,No,Carrickmines,Dublin 18,q4,100%
+06/07/2018,"10 Brambledown, Glenamuck Road, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+06/07/2018,"27 Blackberry Hill, Carrickmines",Dublin,629955.94,Yes,Carrickmines,Dublin 18,q4,90%
+09/07/2018,"2 Cairnbrook Manor, Glenamuck Rd, Carrickmines Dublin 18",Dublin,360000.0,No,Carrickmines,Dublin 18,q2,50%
+10/07/2018,"9 Glenamuck Cottages, Carrickmines, Dublin 18",Dublin,560000.0,No,Carrickmines,Dublin 18,q3,80%
+18/07/2018,"16 Blackberry Hill, Glenamuck Road, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+18/07/2018,"62 Cairnbrook Ave, Carrickmines, Dublin 18",Dublin,480000.0,No,Carrickmines,Dublin 18,q3,70%
+27/07/2018,"1 The Dale, Carrickmines Wood, Carrickmines Dublin 18",Dublin,1350000.0,No,Carrickmines,Dublin 18,q4,100%
+10/08/2018,"Shirburn, Brennanstown Rd, Carrickmines Dublin 18",Dublin,1550000.0,No,Carrickmines,Dublin 18,q4,100%
+13/08/2018,"23 The Avenue, Glenside, Carrickmines Green",Dublin,434959.0,Yes,Carrickmines,Dublin 18,q3,60%
+14/08/2018,"25 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,471365.63,Yes,Carrickmines,Dublin 18,q3,70%
+22/08/2018,"Waterville, Glenamuck Rd South, Carrickmines Dublin 18",Dublin,850000.0,No,Carrickmines,Dublin 18,q4,90%
+24/08/2018,"11Brambledown, Glenamuck Road, Carrickmines",Dublin,674000.0,Yes,Carrickmines,Dublin 18,q4,90%
+30/08/2018,"1 Brambedown, Glenamuck Road, Carrickmines",Dublin,612335.0,Yes,Carrickmines,Dublin 18,q4,80%
+03/09/2018,"1 The Oaks, Carrickmines Wood, Carrickmines Dublin 18",Dublin,1350000.0,No,Carrickmines,Dublin 18,q4,100%
+07/09/2018,"62 The Crescent, Carrickmines Manor, Carrickmines Dublin 18",Dublin,300000.0,No,Carrickmines,Dublin 18,q2,40%
+14/09/2018,"14 Claremount, Carrickmines, Dublin 18",Dublin,890000.0,No,Carrickmines,Dublin 18,q4,90%
+20/09/2018,"8 Brambledown, Glenamuck Road, Carrickmines",Dublin,616740.0,Yes,Carrickmines,Dublin 18,q4,80%
+04/10/2018,"26 Blackberry Hill, Carrickmines, Dublin 18",Dublin,629955.0,Yes,Carrickmines,Dublin 18,q4,90%
+09/10/2018,"8 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,675000.0,Yes,Carrickmines,Dublin 18,q4,90%
+11/10/2018,"14 Blackberry Hill, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+11/10/2018,"5 Inglenook Wood, Carrickmines, Dublin 18",Dublin,652422.91,Yes,Carrickmines,Dublin 18,q4,90%
+22/10/2018,"6 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,695000.0,Yes,Carrickmines,Dublin 18,q4,90%
+24/10/2018,"8 The View, Carrickmines Manor, Glenamuck Road",Dublin,325000.0,No,Carrickmines,Dublin 18,q2,50%
+25/10/2018,"7 Laurel House, Carrickmines Green, Glenamuck Rd Carrickmines",Dublin,204000.0,No,Carrickmines,Dublin 18,q1,30%
+26/10/2018,"22 The Walk, Carrickmines Green, Glenamuck Road",Dublin,422908.0,Yes,Carrickmines,Dublin 18,q3,60%
+01/11/2018,"16 Ballyogan Ave, Carrickmines, Dublin 18",Dublin,370000.0,No,Carrickmines,Dublin 18,q2,50%
+02/11/2018,"7 Inglenook Wood, Carrickmines, Dublin 18",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+14/11/2018,"Apartment 1 Inglenook Wood, Carrickmines, Dublin 18",Dublin,308370.0,Yes,Carrickmines,Dublin 18,q2,50%
+14/11/2018,"Apartment 2 Inglenook Wood, Carrickmines, Dublin 18",Dublin,308370.04,Yes,Carrickmines,Dublin 18,q2,50%
+14/11/2018,"Apt 3 Inglenook Wood, Carrickmines, Dublin 18",Dublin,317180.61,Yes,Carrickmines,Dublin 18,q2,50%
+20/11/2018,"Apt 15 The Crescent, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,261500.0,No,Carrickmines,Dublin 18,q2,40%
+23/11/2018,"37 Blackberry Hill, Carrickmines",Dublin,616740.09,Yes,Carrickmines,Dublin 18,q4,80%
+26/11/2018,"10 Inglenood Wood, Glenamuck Road, Carrickmines",Dublin,621145.37,Yes,Carrickmines,Dublin 18,q4,80%
+26/11/2018,"11 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+27/11/2018,"9 Inglenook, Carrickmines, Dublin 18",Dublin,594713.65,Yes,Carrickmines,Dublin 18,q3,80%
+28/11/2018,"8 The Green, Carrickmines Manor, Carrickmines Dublin 18",Dublin,665000.0,No,Carrickmines,Dublin 18,q4,90%
+20/12/2018,"25 Leopardstown Abbey, Ballyogan Rd, Carrickmines Dublin 18",Dublin,455000.0,No,Carrickmines,Dublin 18,q3,70%
+21/12/2018,"35 Blackberry Hill, Carrickmines, Dublin 18",Dublin,612334.8,Yes,Carrickmines,Dublin 18,q4,80%
+31/12/2018,"Ridgeview House, 4A Brennanstown Vale, Carrickmines Dublin 18",Dublin,1075000.0,No,Carrickmines,Dublin 18,q4,100%
+04/01/2019,"15 Glenamuck Cottages, Carrickmines, Dublin 18",Dublin,440000.0,No,Carrickmines,Dublin 18,q3,60%
+17/01/2019,"9 Brambledown, Glenamuck Road, Carrickmines",Dublin,616740.0,Yes,Carrickmines,Dublin 18,q4,80%
+21/01/2019,"4 The Avenue, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,442000.0,No,Carrickmines,Dublin 18,q3,60%
+24/01/2019,"2 Brambledown, Glenamuck Road, Carrickmines",Dublin,616800.0,Yes,Carrickmines,Dublin 18,q4,80%
+24/01/2019,"42 The Cresent, Carrickmines Manor, Glenamick Rd Dublin 18",Dublin,292500.0,No,Carrickmines,Dublin 18,q2,40%
+25/01/2019,"25 The Gardens, Carrickmines Manor, Glenamuck Rd",Dublin,449000.0,No,Carrickmines,Dublin 18,q3,60%
+05/02/2019,"11 The View, Carrickmines Manor, Glenamuck Rd",Dublin,315000.0,No,Carrickmines,Dublin 18,q2,50%
+15/02/2019,"5 Carrickmines Chase, Carrickmines Wood, Dublin 18",Dublin,635000.0,No,Carrickmines,Dublin 18,q4,90%
+27/02/2019,"Apt. 12 Hawthorn House, Carrickmines Green, Glenamuck Road",Dublin,295154.0,Yes,Carrickmines,Dublin 18,q2,40%
+11/03/2019,"15 Willow Glen, Glenamuck Road, Carrickmines",Dublin,325990.0,Yes,Carrickmines,Dublin 18,q2,50%
+12/03/2019,"Willowlodge, Brennanstown Rd, Carrickmines Dublin 18",Dublin,1080000.0,No,Carrickmines,Dublin 18,q4,100%
+13/03/2019,"Apt 14 Hawthorn House, Carrickmines Green, Glenamuck Road",Dublin,299559.47,Yes,Carrickmines,Dublin 18,q2,40%
+15/03/2019,"23 Willow Glen, Glenamuck Road, Carrickmines",Dublin,237885.0,Yes,Carrickmines,Dublin 18,q2,30%
+19/03/2019,"19 Willow Glen, Glenamuck Road, Carrickmines",Dublin,237885.0,Yes,Carrickmines,Dublin 18,q2,30%
+20/03/2019,"5 Hawthorn House, Carrickmines Green",Dublin,251101.32,Yes,Carrickmines,Dublin 18,q2,40%
+25/03/2019,"1 Willow Glen, Glenamuck Road, Carrickmines",Dublin,550660.78,Yes,Carrickmines,Dublin 18,q3,70%
+25/03/2019,"24 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,405286.0,Yes,Carrickmines,Dublin 18,q3,60%
+25/03/2019,"25 Willow Glen, Glenamuck Road, Carrickmines",Dublin,378853.0,Yes,Carrickmines,Dublin 18,q2,50%
+27/03/2019,"27 Willow Glen, Glenamuck Road, Carrickmines",Dublin,422907.0,Yes,Carrickmines,Dublin 18,q3,60%
+28/03/2019,"17 Willow Glen, Glenamuck Road, Carrickmines",Dublin,378854.63,Yes,Carrickmines,Dublin 18,q2,50%
+01/04/2019,"7 Willow Glen, Glenamuck Road, Carrickmines",Dublin,506607.0,Yes,Carrickmines,Dublin 18,q3,70%
+04/04/2019,"25 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,445475.0,Yes,Carrickmines,Dublin 18,q3,60%
+08/04/2019,"20 Willow Glen, Glenamuck Road, Carrickmines",Dublin,391640.97,Yes,Carrickmines,Dublin 18,q3,60%
+10/04/2019,"16 Willow Glen, Glenamuck Road, Carrickmines",Dublin,387664.0,Yes,Carrickmines,Dublin 18,q2,50%
+10/04/2019,"31 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,172500.0,Yes,Carrickmines,Dublin 18,q1,20%
+10/04/2019,"32 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,238297.0,Yes,Carrickmines,Dublin 18,q2,30%
+10/04/2019,"33 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,238297.0,Yes,Carrickmines,Dublin 18,q2,30%
+10/04/2019,"34 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,238297.0,Yes,Carrickmines,Dublin 18,q2,30%
+10/04/2019,"35 The Avenue, Carrickmines Green, Glenamuck Road",Dublin,172500.0,Yes,Carrickmines,Dublin 18,q1,20%
+10/04/2019,"Apt 7 Hawthorn House, Carrickmines Green, Glenamuck Road",Dublin,312775.33,Yes,Carrickmines,Dublin 18,q2,50%
+11/04/2019,"6 Brambledown, Glenamuck Road, Carrickmines",Dublin,665198.24,Yes,Carrickmines,Dublin 18,q4,90%
+15/04/2019,"4 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,647577.0,Yes,Carrickmines,Dublin 18,q4,90%
+16/04/2019,"14 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,638766.5,Yes,Carrickmines,Dublin 18,q4,90%
+18/04/2019,"24 Willow Glen, Glenamuck Road, Carrickmines",Dublin,391640.95,Yes,Carrickmines,Dublin 18,q2,50%
+25/04/2019,"27 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,418502.0,Yes,Carrickmines,Dublin 18,q3,60%
+26/04/2019,"13 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,669603.0,Yes,Carrickmines,Dublin 18,q4,90%
+26/04/2019,"2 Willow Glen, Glenamuck Road, Carrickmines",Dublin,541646.0,Yes,Carrickmines,Dublin 18,q3,70%
+02/05/2019,"13 Joyce Hall, Carrickmines Ave, Carrickmines Wood Dublin 18",Dublin,477000.0,No,Carrickmines,Dublin 18,q3,70%
+02/05/2019,"18 Willow Glen, Glenamuck Road, Carrickmines",Dublin,237885.46,Yes,Carrickmines,Dublin 18,q2,30%
+03/05/2019,"17 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,621145.37,Yes,Carrickmines,Dublin 18,q4,90%
+07/05/2019,"18 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,638766.0,Yes,Carrickmines,Dublin 18,q4,90%
+07/05/2019,"8 Yeats Hall, Carrickmines Wood, Brennanstown Rd Dublin 18",Dublin,417500.0,No,Carrickmines,Dublin 18,q3,60%
+10/05/2019,"26 Willow Glen, Glenamuck Road, Carrickmines",Dublin,325991.0,Yes,Carrickmines,Dublin 18,q2,50%
+13/05/2019,"3 Rockville Avenue, Glenamuck Road, Carrickmines",Dublin,524229.0,Yes,Carrickmines,Dublin 18,q3,70%
+14/05/2019,"6 Leopardstown Abbey, Carrickmines, Dublin 18",Dublin,415000.0,No,Carrickmines,Dublin 18,q3,60%
+17/05/2019,"1 Rockville Woods, Glenamuck Road, Carrickmines",Dublin,440529.0,Yes,Carrickmines,Dublin 18,q3,60%
+21/05/2019,"11 Willow Glen, Glenamuck Road, Carrickmines",Dublin,524229.0,Yes,Carrickmines,Dublin 18,q3,70%
+23/05/2019,"6 The Walk, Carrickmines Manor, Glenamuck Rd",Dublin,396000.0,No,Carrickmines,Dublin 18,q3,60%
+27/05/2019,"3 Willow Glen  Glenamuck Road, Carrickmines",Dublin,519823.79,Yes,Carrickmines,Dublin 18,q3,70%
+30/05/2019,"28 Willow Glen, Glenamuck Road, Carrickmines",Dublin,339207.05,Yes,Carrickmines,Dublin 18,q2,50%
+06/06/2019,"1 Carrickmines Chase, Carrickmines Wood, Carrickmines Dublin 18",Dublin,607500.0,No,Carrickmines,Dublin 18,q3,80%
+06/06/2019,"16 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,621145.37,Yes,Carrickmines,Dublin 18,q4,90%
+07/06/2019,"52 The Crescent, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,310000.0,No,Carrickmines,Dublin 18,q2,50%
+12/06/2019,"6 Willow Glen, Glenamuck Road, Carrickmines",Dublin,497375.0,Yes,Carrickmines,Dublin 18,q3,70%
+18/06/2019,"Apt 34 The View, Carrickmines Manor, Carrickmines Dublin 18",Dublin,270000.0,No,Carrickmines,Dublin 18,q2,40%
+20/06/2019,"19 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,638766.51,Yes,Carrickmines,Dublin 18,q4,90%
+27/06/2019,"Apartment 11  Hawthorn House, The Walk, Carrickmines Green",Dublin,290748.0,Yes,Carrickmines,Dublin 18,q2,40%
+28/06/2019,"78 The Crescent, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,305000.0,No,Carrickmines,Dublin 18,q2,50%
+04/07/2019,"58 Carrickmines Ave, Carrickmines Wood, Brennanstown Rd Dublin 18",Dublin,1150000.0,No,Carrickmines,Dublin 18,q4,100%
+05/07/2019,"51 The Crescent, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,310000.0,No,Carrickmines,Dublin 18,q2,50%
+12/07/2019,"2 Cairnbrook Way, Carrickmines, Dublin 18",Dublin,435000.0,No,Carrickmines,Dublin 18,q3,60%
+25/07/2019,"22 Inglenook Wood, Glenamuck Road, Carrickmines",Dublin,427313.0,Yes,Carrickmines,Dublin 18,q3,60%
+31/07/2019,"24 Carrickmines Ave, Carrickmines Wood, Brennanstown Rd Dublin 18",Dublin,585000.0,No,Carrickmines,Dublin 18,q3,80%
+07/08/2019,"61 The Crescent, Carrickmines, Dublin",Dublin,310000.0,No,Carrickmines,Dublin 18,q2,50%
+16/08/2019,"13 The Gardens, Carrickmines Manor, Carrickmines Dublin 18",Dublin,300000.0,No,Carrickmines,Dublin 18,q2,40%
+02/09/2019,"33 Glenamuck Rd, Carrickmines, Dublin",Dublin,440000.0,No,Carrickmines,Dublin 18,q3,60%
+04/09/2019,"Apt 7 The View, Carrickmines Manor, Carrickmines Dublin 18",Dublin,270000.0,No,Carrickmines,Dublin 18,q2,40%
+05/09/2019,"5 The Green, Carrickmines Manor, Glenamuck Rd Dublin 18",Dublin,430000.0,No,Carrickmines,Dublin 18,q3,60%
+13/09/2019,"7 Yeats Hall, Carrickmines Ave, Carrickmines Wood Dublin 18",Dublin,450000.0,No,Carrickmines,Dublin 18,q3,60%
+20/09/2019,"Apt 3, Hawthorn House, Carrickmines Green",Dublin,325991.18,Yes,Carrickmines,Dublin 18,q2,50%
+02/10/2019,"1 Leopardstown Abbey, Carrickmines, Dublin 18",Dublin,520000.0,No,Carrickmines,Dublin 18,q3,70%
+02/10/2019,"Claremount House, Claremont Rd, Carrickmines Dublin 18",Dublin,1305000.0,No,Carrickmines,Dublin 18,q4,100%

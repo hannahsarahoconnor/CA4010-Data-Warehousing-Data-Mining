@@ -1,0 +1,319 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+01/02/2010,"62 Kings Hall, Chapelizod",Dublin,225000.0,No,Chapelizod,Dublin 20,q2,50%
+11/02/2010,"12 Chapelizod Court, Chapelizod, Chapelizod",Dublin,215000.0,No,Chapelizod,Dublin 20,q2,40%
+01/03/2010,"31 New Row, Chapelizod",Dublin,381000.0,No,Chapelizod,Dublin 20,q4,90%
+19/04/2010,"4 Glenaulin Drive, Chapelizod, Dublin 20",Dublin,410000.0,No,Chapelizod,Dublin 20,q4,90%
+14/06/2010,"26  St Laurences Road, Chapelizod, Dublin 20",Dublin,300000.0,No,Chapelizod,Dublin 20,q3,80%
+14/06/2010,"2A Park Lane, Chapelizod",Dublin,255000.0,No,Chapelizod,Dublin 20,q3,60%
+01/07/2010,"1 Chapelizod Court, Chapelizod",Dublin,200000.0,No,Chapelizod,Dublin 20,q2,40%
+27/08/2010,"10 Belgrove Lawn, Chapelizod",Dublin,212500.0,No,Chapelizod,Dublin 20,q2,40%
+02/09/2010,"Apartment 50 Northcliffe, Chapelizod, Dublin 20",Dublin,155000.0,No,Chapelizod,Dublin 20,q1,20%
+27/09/2010,"9 Phoenix View, Chapelizod",Dublin,159000.0,No,Chapelizod,Dublin 20,q1,20%
+12/11/2010,"3 Chapel Manor, Chapelizod, Dublin 20",Dublin,271000.0,No,Chapelizod,Dublin 20,q3,70%
+31/03/2011,"2 Glenaulin Drive, Chapelizod",Dublin,440000.0,No,Chapelizod,Dublin 20,q4,90%
+27/05/2011,"35 Kings Hall  Chapelizod, Dublin 20",Dublin,177000.0,No,Chapelizod,Dublin 20,q2,30%
+15/06/2011,"52 St Laurence'S Road, Chapelizod",Dublin,375000.0,No,Chapelizod,Dublin 20,q4,90%
+05/07/2011,"14 Belgrove Park, Chapelizod, Dublin 20",Dublin,460000.0,No,Chapelizod,Dublin 20,q4,90%
+14/07/2011,"65 The Steeples, Chapelizod, Dublin 20",Dublin,113500.0,No,Chapelizod,Dublin 20,q1,10%
+03/08/2011,"10 Laurence Brook, Chapelizod",Dublin,250000.0,No,Chapelizod,Dublin 20,q2,50%
+26/08/2011,"Appartment 4, Block A  The Steeples, Chapelizod",Dublin,157000.0,No,Chapelizod,Dublin 20,q1,20%
+21/09/2011,"1 St. Mary'S Terrace, Chapelizod",Dublin,290000.0,No,Chapelizod,Dublin 20,q3,70%
+21/09/2011,"15 New Row, Chapelizod, Dublin 20",Dublin,195000.0,No,Chapelizod,Dublin 20,q2,40%
+03/10/2011,"77  Martin'S Row, Chapelizod, Dublin 20",Dublin,65000.0,No,Chapelizod,Dublin 20,q1,10%
+03/11/2011,"Apartment 14, The Mill Race, Chapelizod",Dublin,87000.0,No,Chapelizod,Dublin 20,q1,10%
+17/11/2011,"7 Glenaulin Drive, Chapelizod",Dublin,260000.0,No,Chapelizod,Dublin 20,q3,60%
+15/03/2012,"49 The Steeples, Chapelizod, Dublin 5",Dublin,80000.0,No,Chapelizod,Dublin 20,q1,10%
+16/03/2012,"Apartment 150, The Island, Chapelizod",Dublin,175000.0,No,Chapelizod,Dublin 20,q2,30%
+19/04/2012,"10 New Row, Chapelizod",Dublin,95000.0,No,Chapelizod,Dublin 20,q1,10%
+17/07/2012,"17 Belgrove  Park, Chapelizod",Dublin,480000.0,No,Chapelizod,Dublin 20,q4,100%
+19/07/2012,"'Sunnybank', Martin'S Row, Chapelizod",Dublin,815000.0,No,Chapelizod,Dublin 20,q4,100%
+27/07/2012,"37 Maidens Row, Chapelizod, Dublin 20",Dublin,110000.0,No,Chapelizod,Dublin 20,q1,10%
+14/08/2012,"48 Saint Laurence'S Road, Chapelizod, Dublin 20",Dublin,440000.0,No,Chapelizod,Dublin 20,q4,90%
+19/08/2012,"Glen House, Strawberry Beds, Chapelizod",Dublin,230000.0,No,Chapelizod,Dublin 20,q2,50%
+21/08/2012,"35 St. Laurence'S Groves, Chapelizod, Dublin 20",Dublin,221000.0,No,Chapelizod,Dublin 20,q2,50%
+28/08/2012,"19  The Mill Race, St. Martin'S Road, Chapelizod",Dublin,120000.0,No,Chapelizod,Dublin 20,q1,10%
+28/08/2012,"51  Block D, Knockmaree, St Laurence Road  Chapelizod",Dublin,132000.0,No,Chapelizod,Dublin 20,q1,20%
+12/09/2012,"21 Northcliffe, Chapelizod, Dublin 20",Dublin,115000.0,No,Chapelizod,Dublin 20,q1,10%
+21/09/2012,"42 St Laurence'S Road, Chapelizod",Dublin,315000.0,No,Chapelizod,Dublin 20,q4,80%
+24/09/2012,"61 Belgrove Lawn, Chapelizod",Dublin,347500.0,No,Chapelizod,Dublin 20,q4,90%
+28/09/2012,"15 Belgrove Lawn, Chapelizod, Dublin 20",Dublin,385000.0,No,Chapelizod,Dublin 20,q4,90%
+19/10/2012,"32 Glenaulin, Chapelizod, Dublin 20",Dublin,220000.0,No,Chapelizod,Dublin 20,q2,50%
+15/11/2012,"4 St. Martin;S Row, Chapelizod, Dublin 20",Dublin,90000.0,No,Chapelizod,Dublin 20,q1,10%
+28/11/2012,"9 The Steeples, St Laurence'S Road, Chapelizod",Dublin,225000.0,No,Chapelizod,Dublin 20,q2,50%
+14/12/2012,"26 Knockmaree, Chapelizod",Dublin,200000.0,No,Chapelizod,Dublin 20,q2,40%
+20/12/2012,"19 Chapelhill, Chapelizod",Dublin,151375.0,Yes,Chapelizod,Dublin 20,q1,20%
+20/12/2012,"Apartment 13, Chapel Hill, Chapelizod",Dublin,145375.0,Yes,Chapelizod,Dublin 20,q1,20%
+20/12/2012,"Renvyle, Chapelizod",Dublin,225500.0,No,Chapelizod,Dublin 20,q2,50%
+24/12/2012,"16 Chapelhill, Chapelizod",Dublin,167401.0,Yes,Chapelizod,Dublin 20,q1,30%
+02/01/2013,"Apt 18, Chapelhill, Chapelizod",Dublin,175000.0,Yes,Chapelizod,Dublin 20,q2,30%
+04/01/2013,"Apartment 15 Chapelhill, Chapelizod, Dublin 20",Dublin,200000.0,Yes,Chapelizod,Dublin 20,q2,40%
+30/01/2013,"16 Kings Hall, Chapelizod",Dublin,92500.0,No,Chapelizod,Dublin 20,q1,10%
+05/03/2013,"Apartment 8, Chapelhill, Chapelizod",Dublin,101322.0,Yes,Chapelizod,Dublin 20,q1,10%
+27/03/2013,"6 Chapelhill, Chapelizod",Dublin,135000.0,No,Chapelizod,Dublin 20,q1,20%
+15/04/2013,"Apartment No. 4, Chapelhill, Chapelizod",Dublin,105000.0,Yes,Chapelizod,Dublin 20,q1,10%
+26/04/2013,"Apartment 10 Chapelhill, Chapelizod",Dublin,110132.15,Yes,Chapelizod,Dublin 20,q1,10%
+07/05/2013,"20 Chapel Hill, Chapelizod",Dublin,190000.0,Yes,Chapelizod,Dublin 20,q2,40%
+31/05/2013,"17 Chapelhill, Chapelizod, Dublin 20",Dublin,154185.0,Yes,Chapelizod,Dublin 20,q1,20%
+17/06/2013,"15 Chapelizod Court, Chapelizop, Dublin 20",Dublin,123500.0,No,Chapelizod,Dublin 20,q1,10%
+18/06/2013,"33 Main Street, Chapelizod, Dublin",Dublin,160000.0,No,Chapelizod,Dublin 20,q1,20%
+21/06/2013,"27 Northcliffe, Chapelizod",Dublin,92000.0,No,Chapelizod,Dublin 20,q1,10%
+01/07/2013,"Apartment 9, Chapelhill, Chapelizod",Dublin,101322.0,Yes,Chapelizod,Dublin 20,q1,10%
+08/07/2013,"209 The Island, Chapelizod, Dublin 20",Dublin,197641.0,No,Chapelizod,Dublin 20,q2,40%
+18/07/2013,"2 Salmon Pool, Old Chapelizod Road, Dublin 8",Dublin,282000.0,No,Chapelizod,Dublin 20,q3,70%
+19/07/2013,"53 Northcliffe, Chapelizod",Dublin,99000.0,No,Chapelizod,Dublin 20,q1,10%
+22/07/2013,"Apt. 7 Chapelhill, Chapelizod",Dublin,101321.58,Yes,Chapelizod,Dublin 20,q1,10%
+02/08/2013,"17 The Weir, Chapelizod, Dublin 20",Dublin,164000.0,No,Chapelizod,Dublin 20,q1,30%
+04/09/2013,"7 Liffey Terrace, St. Laurence Road, Chapelizod",Dublin,155000.0,No,Chapelizod,Dublin 20,q1,20%
+11/09/2013,"9 Glenaulin Park, Chapelizod",Dublin,385000.0,No,Chapelizod,Dublin 20,q4,90%
+26/09/2013,"4 New Row, Chapelizod, Dublin 20",Dublin,125000.0,No,Chapelizod,Dublin 20,q1,10%
+27/09/2013,"65 The Island, Chapelizod",Dublin,170000.0,No,Chapelizod,Dublin 20,q1,30%
+04/10/2013,"9 Weirview, Chapelizod",Dublin,149000.0,No,Chapelizod,Dublin 20,q1,20%
+11/10/2013,"14 Chapelhill, Chapelizod",Dublin,165000.0,Yes,Chapelizod,Dublin 20,q1,30%
+21/10/2013,"30 Northcliff, Chapelizod",Dublin,160000.0,No,Chapelizod,Dublin 20,q1,20%
+13/12/2013,"16 Chapel View, Chapelizod, Dublin",Dublin,141000.0,No,Chapelizod,Dublin 20,q1,20%
+16/12/2013,"21 The Steeples, Chapelizod",Dublin,120000.0,No,Chapelizod,Dublin 20,q1,10%
+18/12/2013,"63 The Steeples, Chapelizod, Dublin 20",Dublin,89000.0,No,Chapelizod,Dublin 20,q1,10%
+13/01/2014,"234 The Island, Chapelizod, Dublin 20",Dublin,170000.0,No,Chapelizod,Dublin 20,q1,30%
+16/01/2014,"80 Knockmaree, St Laurences Rd, Chapelizod Rd Dublin 20",Dublin,160000.0,No,Chapelizod,Dublin 20,q1,20%
+22/01/2014,"57 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,169000.0,No,Chapelizod,Dublin 20,q1,30%
+06/03/2014,"111 The Island, Chapelizod",Dublin,227000.0,No,Chapelizod,Dublin 20,q2,50%
+18/03/2014,"12 St Laurences Grove, Chapelizod, Dublin 20",Dublin,292000.0,No,Chapelizod,Dublin 20,q3,80%
+07/04/2014,"Apartment 3, Chapelhill, Chapelizod",Dublin,100000.0,Yes,Chapelizod,Dublin 20,q1,10%
+14/04/2014,"17 The Island, Chapelizod, Dublin 20",Dublin,155000.0,No,Chapelizod,Dublin 20,q1,20%
+14/04/2014,"93 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,180000.0,No,Chapelizod,Dublin 20,q2,30%
+26/05/2014,"38 Belgrove Lawn, Chapelizod, Dublin 20",Dublin,380000.0,No,Chapelizod,Dublin 20,q4,90%
+05/06/2014,"29/30 Main Street, Chapelizod, Dublin 20",Dublin,180600.0,No,Chapelizod,Dublin 20,q2,30%
+09/06/2014,"25 Main Street, Chapelizod, Dublin 20",Dublin,200000.0,No,Chapelizod,Dublin 20,q2,40%
+30/06/2014,"No 1 Drummond House, Chapelizod, Dublin",Dublin,300000.0,No,Chapelizod,Dublin 20,q3,80%
+04/07/2014,"16 Park Place, Chapelizod Rd, Islandbridge Dublin 8",Dublin,362500.0,No,Chapelizod,Dublin 20,q4,90%
+15/07/2014,"17 Chapelizod Court, Chapelizod",Dublin,141800.0,No,Chapelizod,Dublin 20,q1,20%
+15/07/2014,"24 Chapelizod Court, Chapelizod",Dublin,141800.0,No,Chapelizod,Dublin 20,q1,20%
+15/07/2014,"3 Chapelizod Court, Chapelizod",Dublin,141800.0,No,Chapelizod,Dublin 20,q1,20%
+05/08/2014,"36 Clayton Terrace, St Laurences Rd, Chapelizod Dublin 20",Dublin,495000.0,No,Chapelizod,Dublin 20,q4,100%
+11/08/2014,"28 Northcliffe Apts, Chapelizod, Dublin 20",Dublin,185000.0,No,Chapelizod,Dublin 20,q2,40%
+15/08/2014,"15 Chapelview, Maidens Row, Chapelizod Dublin 20",Dublin,156000.0,No,Chapelizod,Dublin 20,q1,20%
+20/08/2014,"Apt 85, Knockmaree, Chapelizod Dublin 20",Dublin,180000.0,No,Chapelizod,Dublin 20,q2,30%
+20/08/2014,"Huntsmans House, Strawberry Beds, Chapelizod",Dublin,375000.0,No,Chapelizod,Dublin 20,q4,90%
+12/09/2014,"24 Phoenix View, St Laurence Rd, Chapelizod",Dublin,186000.0,No,Chapelizod,Dublin 20,q2,40%
+12/09/2014,"40 Knockmaree, Chapelizod, Dublin 20",Dublin,151000.0,No,Chapelizod,Dublin 20,q1,20%
+14/10/2014,"13 St Laurences Grove, Chapelizod, Dublin 20",Dublin,280000.0,No,Chapelizod,Dublin 20,q3,70%
+16/10/2014,"16 Glenaulin Park, Chapelizod, Dublin 20",Dublin,660000.0,No,Chapelizod,Dublin 20,q4,100%
+16/12/2014,"27 The Millrace, St. Martin'S Row, Chapelizod",Dublin,140000.0,No,Chapelizod,Dublin 20,q1,20%
+19/12/2014,"40 St Lawrences Rd, Chapelizod, Dublin 20",Dublin,492501.0,No,Chapelizod,Dublin 20,q4,100%
+09/01/2015,"Cedar House, Glenaulin Park, Chapelizod Dublin 20",Dublin,967000.0,No,Chapelizod,Dublin 20,q4,100%
+02/02/2015,"32 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,277500.0,No,Chapelizod,Dublin 20,q3,70%
+26/02/2015,"135 Knockmaree, St Lawrence Road, Chapelizod",Dublin,180000.0,No,Chapelizod,Dublin 20,q2,30%
+26/02/2015,"Car Parking Space 24, The Weir, Chapelizod",Dublin,5675.0,No,Chapelizod,Dublin 20,q1,10%
+13/03/2015,"3 Laurence Brook, Chapelizod, Dublin 20",Dublin,275000.0,No,Chapelizod,Dublin 20,q3,70%
+14/04/2015,"6 St Laurence Rd, Chapelizod, Dublin 20",Dublin,400000.0,No,Chapelizod,Dublin 20,q4,90%
+24/04/2015,"15 Liffey Terrace, St Laurences Rd, Chapelizod Dublin 20",Dublin,375000.0,No,Chapelizod,Dublin 20,q4,90%
+07/05/2015,"Apartment 233 The Island, Chapelizod",Dublin,165639.0,Yes,Chapelizod,Dublin 20,q1,30%
+12/05/2015,"113 The Island, Chapelizod, Dublin 20",Dublin,225000.0,No,Chapelizod,Dublin 20,q2,50%
+13/05/2015,"5 Mullingar Terrace, Chapelizod Rd, Chapelizod Dublin 20",Dublin,308034.0,No,Chapelizod,Dublin 20,q3,80%
+27/05/2015,"236 The Island, Chapelizod Village, Dublin 20",Dublin,220000.0,No,Chapelizod,Dublin 20,q2,50%
+03/06/2015,"18 The Millrace, Chapelizod, Dublin 20",Dublin,175000.0,No,Chapelizod,Dublin 20,q2,30%
+10/06/2015,"81 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,240000.0,No,Chapelizod,Dublin 20,q2,50%
+18/06/2015,"Apt 13 The Millrace, Chapelizod, Dublin 20",Dublin,135000.0,No,Chapelizod,Dublin 20,q1,20%
+19/06/2015,"40 Kings Hall, Chapelizod, Dublin 20",Dublin,221000.0,No,Chapelizod,Dublin 20,q2,50%
+26/06/2015,"11 Chapel Hill, Chapelizod, Dublin 20",Dublin,306537.74,Yes,Chapelizod,Dublin 20,q3,80%
+14/07/2015,"23 Main St, Chapelizod, Dublin",Dublin,125000.0,No,Chapelizod,Dublin 20,q1,10%
+14/07/2015,"7 Glenaulin Park, Chapelizod, Dublin 20",Dublin,480000.0,No,Chapelizod,Dublin 20,q4,100%
+17/07/2015,"3 New Row, Chapelizod, Dublin 20",Dublin,270000.0,No,Chapelizod,Dublin 20,q3,60%
+20/07/2015,"78 Knockmaree, Chapelizod, Dublin 20",Dublin,182500.0,No,Chapelizod,Dublin 20,q2,30%
+24/07/2015,"157 The Island, Chapelizod, Dublin 20",Dublin,275000.0,No,Chapelizod,Dublin 20,q3,70%
+29/07/2015,"107 Knockmaree, Chapelizod, Dublin 20",Dublin,220000.0,No,Chapelizod,Dublin 20,q2,50%
+06/08/2015,"21 Kingshall, Chapelizod, Dublin 20",Dublin,154000.0,No,Chapelizod,Dublin 20,q1,20%
+21/08/2015,"30 Kingshall Chapelizod, Dublin 20, Dublin",Dublin,256500.0,No,Chapelizod,Dublin 20,q3,60%
+25/08/2015,"Bridge Inn Pub Apartment, 1 St Laurence'S Rd, Chapelizod",Dublin,90000.0,No,Chapelizod,Dublin 20,q1,10%
+03/09/2015,"8 Belgrove Park, Chapelizod, Dublin 20",Dublin,710000.0,No,Chapelizod,Dublin 20,q4,100%
+09/09/2015,"21 New Row, Chapelizod, Dublin 20",Dublin,156100.0,No,Chapelizod,Dublin 20,q1,20%
+10/09/2015,"8 The Millrace, St Martins Row, Chapelizod Dublin 20",Dublin,151000.0,No,Chapelizod,Dublin 20,q1,20%
+17/09/2015,"97 Martins Row, Chapelizod",Dublin,280000.0,No,Chapelizod,Dublin 20,q3,70%
+29/09/2015,"41 The Millrace, Chapelizod, Dublin 20",Dublin,140000.0,No,Chapelizod,Dublin 20,q1,20%
+01/10/2015,"12 Chapel Hill, Chapelizod",Dublin,317054.0,Yes,Chapelizod,Dublin 20,q4,80%
+01/10/2015,"6 Belgrove Park, Chapelizod, Dublin 20",Dublin,524000.0,No,Chapelizod,Dublin 20,q4,100%
+08/10/2015,"167 The Island, Chapelizod, Dublin 20",Dublin,175000.0,No,Chapelizod,Dublin 20,q2,30%
+09/10/2015,"1 Chapelizod Hill Road, Ballyfermot, Dublin 10",Dublin,8890.0,No,Chapelizod,Dublin 20,q1,10%
+13/10/2015,"7 Mullingar Tce, Chapelizod, Dublin 20",Dublin,165000.0,No,Chapelizod,Dublin 20,q1,30%
+13/10/2015,"8 Mullingar Terrace, Chapelizod Rd, Chapelizod Dublin 20",Dublin,300000.0,No,Chapelizod,Dublin 20,q3,80%
+13/10/2015,"Mull Lodge, Mullingar House, Chapelizod Dublin 20",Dublin,120000.0,No,Chapelizod,Dublin 20,q1,10%
+13/10/2015,"Rose Cottage, Mullingar House, Chapelizod Dublin 20",Dublin,100000.0,No,Chapelizod,Dublin 20,q1,10%
+19/10/2015,"31 Mill Race, St Martins Row, Chapelizod Dublin 20",Dublin,165000.0,No,Chapelizod,Dublin 20,q1,30%
+06/11/2015,"16 St Laurence Glen, Chapelizod, Dublin 20",Dublin,135000.0,No,Chapelizod,Dublin 20,q1,20%
+23/11/2015,"146 The Island, Chapelizod, Dublin",Dublin,200000.0,No,Chapelizod,Dublin 20,q2,40%
+08/12/2015,"89 The Lsland, Chapelizod, Dublin 20",Dublin,285462.0,No,Chapelizod,Dublin 20,q3,70%
+09/12/2015,"20 Glenaulin, Chapelizod, Dublin 20",Dublin,477650.0,No,Chapelizod,Dublin 20,q4,100%
+10/12/2015,"13 St Laurence Glen, St Laurences Rd, Chapelizod Dublin 20",Dublin,161370.0,No,Chapelizod,Dublin 20,q1,30%
+14/12/2015,"20 Belgrove Park, Chapelizod, Dublin",Dublin,400000.0,No,Chapelizod,Dublin 20,q4,90%
+18/12/2015,"1 Chapel Hill, Chapelizod",Dublin,158590.3,Yes,Chapelizod,Dublin 20,q1,20%
+18/12/2015,"59 The Island, Martins Row, Chapelizod Dublin 20",Dublin,311000.0,No,Chapelizod,Dublin 20,q4,80%
+21/12/2015,"Apt 11, Salmon Pool, Chapelizod Rd Dublin 8",Dublin,441000.0,No,Chapelizod,Dublin 20,q4,90%
+22/01/2016,"Apartment 228 The Island, Chapelizod, Dublin 20",Dublin,200000.0,No,Chapelizod,Dublin 20,q2,40%
+22/01/2016,"Apt 54 Block D, Knockmaree, Chapelizod",Dublin,280100.0,No,Chapelizod,Dublin 20,q3,70%
+28/01/2016,"2 Chapel Hill, Chapelizod",Dublin,169774.0,Yes,Chapelizod,Dublin 20,q1,30%
+10/02/2016,"131 The Island, Chapelizod, Dublin 20",Dublin,183500.0,No,Chapelizod,Dublin 20,q2,30%
+12/02/2016,"34 Glenaulin, Chapelizod, Dublin 20",Dublin,255000.0,No,Chapelizod,Dublin 20,q3,60%
+15/02/2016,"6 The Steeples, St Laurences Rd, Chapelizod",Dublin,176666.0,No,Chapelizod,Dublin 20,q2,30%
+15/02/2016,"8 The Weir, Chapelizod, Dublin",Dublin,197000.0,No,Chapelizod,Dublin 20,q2,40%
+04/03/2016,"8 The Salmon Pool, Chapelizod Rd, Dublin 8",Dublin,435250.0,No,Chapelizod,Dublin 20,q4,90%
+14/03/2016,"15 Phoenix View, Chapelizod, Dublin 20",Dublin,122000.0,No,Chapelizod,Dublin 20,q1,10%
+14/03/2016,"30 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,266000.0,No,Chapelizod,Dublin 20,q3,60%
+05/04/2016,"224 The Island, Chapelizod, Dublin 20",Dublin,129575.0,No,Chapelizod,Dublin 20,q1,20%
+11/04/2016,"154 The Island, Chapelizod, Dublin 20",Dublin,150000.0,No,Chapelizod,Dublin 20,q1,20%
+20/04/2016,"35 The Steeples Block C, Chapelizod, Dublin 22",Dublin,170000.0,No,Chapelizod,Dublin 20,q1,30%
+26/04/2016,"76 The Steeples, Chapelizod, Dublin 20",Dublin,170000.0,No,Chapelizod,Dublin 20,q1,30%
+29/04/2016,"32 The Mill Race, Chapelizod, Dublin 20",Dublin,295000.0,No,Chapelizod,Dublin 20,q3,80%
+16/05/2016,"7 Glenaulin, Chapelizod, Dublin 20",Dublin,282767.0,No,Chapelizod,Dublin 20,q3,70%
+18/05/2016,"1 The Steeples, Chapelizod, Dublin 20",Dublin,275000.0,No,Chapelizod,Dublin 20,q3,70%
+20/05/2016,"7 Knockmaree, St Laurence Rd, Chapelizod Dublin 20",Dublin,331000.0,No,Chapelizod,Dublin 20,q4,80%
+01/06/2016,"Fatima Chapelizod Rd, Island Bridge, Dublin 8",Dublin,210000.0,No,Chapelizod,Dublin 20,q2,40%
+01/06/2016,"Park Cottage Chapelizod Road, Island Bridge, Dublin 8",Dublin,210000.0,No,Chapelizod,Dublin 20,q2,40%
+30/06/2016,"28 The Steeples, Chapelizod, Dublin 20",Dublin,155000.0,No,Chapelizod,Dublin 20,q1,20%
+30/06/2016,"65 The Steeples, St Laurences Rd, Chapelizod Dublin 20",Dublin,160000.0,No,Chapelizod,Dublin 20,q1,30%
+05/07/2016,"17 St Laurence Glen, Chapelizod, Dublin 20",Dublin,165000.0,No,Chapelizod,Dublin 20,q1,30%
+08/07/2016,"9 Mulberry Cottages, Chapelizod, Dublin 20",Dublin,260000.0,No,Chapelizod,Dublin 20,q3,60%
+26/07/2016,"41 Main St, Chapelizod, Dublin 12",Dublin,275000.0,No,Chapelizod,Dublin 20,q3,70%
+12/08/2016,"21 St Laurence Grove, Chapelizod, Dublin 20",Dublin,325000.0,No,Chapelizod,Dublin 20,q4,80%
+24/08/2016,"54 Kings Hall, Chapelizod Rd, Chapelizod Dublin 20",Dublin,240000.0,No,Chapelizod,Dublin 20,q2,50%
+25/08/2016,"104 The Island, Martins Row, Chapelizod Dublin 20",Dublin,180000.0,No,Chapelizod,Dublin 20,q2,30%
+08/09/2016,"33 The Weir Chapelizod, Dublin",Dublin,280000.0,No,Chapelizod,Dublin 20,q3,70%
+15/09/2016,"8 New Row, Chapelizod, Dublin 20",Dublin,210000.0,No,Chapelizod,Dublin 20,q2,40%
+23/09/2016,"5 Laurence Brook, Chapelizod, Dublin 20",Dublin,276000.0,No,Chapelizod,Dublin 20,q3,70%
+30/09/2016,"Hibernian House, 28 Main St, Chapelizod Dublin 20",Dublin,495000.0,No,Chapelizod,Dublin 20,q4,100%
+10/10/2016,"2 Weirview, Glenaulin, Chapelizod Dublin 20",Dublin,204000.0,No,Chapelizod,Dublin 20,q2,40%
+10/11/2016,"Fatima Chapelizod Rd, Island Bridge, Dublin 8",Dublin,420000.0,No,Chapelizod,Dublin 20,q4,90%
+15/11/2016,"189 The Island, Chapelizod, Dublin 20",Dublin,185000.0,No,Chapelizod,Dublin 20,q2,40%
+21/11/2016,"14 Chapelizod Moorings, Chapelizod, Dublin 20",Dublin,245000.0,No,Chapelizod,Dublin 20,q2,50%
+29/11/2016,"135 Knockmaree, St Lawrence Road, Chapelizod",Dublin,280000.0,No,Chapelizod,Dublin 20,q3,70%
+01/12/2016,"12 Chapelizod Court, Chapelizod, Dublin 20",Dublin,235000.0,No,Chapelizod,Dublin 20,q2,50%
+09/12/2016,"200 The Island, Chapelizod, Dublin 20",Dublin,231500.0,No,Chapelizod,Dublin 20,q2,50%
+14/12/2016,"Beann, Chapelizod Hill Road, Chapelizod",Dublin,295000.0,No,Chapelizod,Dublin 20,q3,80%
+15/12/2016,"Apt 214H, The Island, Chapelizod",Dublin,212000.0,No,Chapelizod,Dublin 20,q2,40%
+06/01/2017,"117 Knockmaree, St Lawrence Rd, Chapelizod Dublin 20",Dublin,237000.0,No,Chapelizod,Dublin 20,q2,50%
+24/01/2017,"58 Northcliffe, Martins Row, Chapelizod",Dublin,215000.0,No,Chapelizod,Dublin 20,q2,40%
+24/01/2017,"6 Glenaulin Park, Chapelizod, Dublin 20",Dublin,550000.0,No,Chapelizod,Dublin 20,q4,100%
+30/01/2017,"8 Belgrove Lawn, Chapelizod, Dublin 20",Dublin,520000.0,No,Chapelizod,Dublin 20,q4,100%
+01/02/2017,"House No 3, The Steeples, Chapelizod",Dublin,265000.0,No,Chapelizod,Dublin 20,q3,60%
+15/02/2017,"70 The Steeples, St Laurences Rd, Chapelizod Dublin 20",Dublin,165000.0,No,Chapelizod,Dublin 20,q1,30%
+17/02/2017,"18 Laurence Brook, Chapelizod, Dublin 20",Dublin,302000.0,No,Chapelizod,Dublin 20,q3,80%
+01/03/2017,"Apt 14 Westpark House, Chapelizod, Dublin 20",Dublin,140000.0,No,Chapelizod,Dublin 20,q1,20%
+03/03/2017,"23 The Mill Race, Martins Row, Chapelizod Dublin 20",Dublin,250000.0,No,Chapelizod,Dublin 20,q3,60%
+22/03/2017,"42 Knockmaree Apt, St Laurence Road, Chapelizod",Dublin,295000.0,No,Chapelizod,Dublin 20,q3,80%
+29/03/2017,"242 The Island, Chapelizod, Dublin 20",Dublin,203000.0,No,Chapelizod,Dublin 20,q2,40%
+31/03/2017,"Clareville, Chapelizod Hill, Dublin 20",Dublin,332500.0,No,Chapelizod,Dublin 20,q4,80%
+31/03/2017,"Leitrim Lodge, Martins Row, Chapelizod Dublin 20",Dublin,1300000.0,No,Chapelizod,Dublin 20,q4,100%
+07/04/2017,"17 St Laurence Grove, Chapelizod, Dublin 20",Dublin,355000.0,No,Chapelizod,Dublin 20,q4,90%
+12/04/2017,"148 Block F, The Island, Chapelizod Dublin 20",Dublin,285000.0,No,Chapelizod,Dublin 20,q3,70%
+19/05/2017,"3 Drummond House, Martins Row, Chapelizod Dublin 20",Dublin,420000.0,No,Chapelizod,Dublin 20,q4,90%
+31/05/2017,"118 Knockmaree, Chapelizod, Dublin 20",Dublin,302000.0,No,Chapelizod,Dublin 20,q3,80%
+31/05/2017,"13 Glenaulin, Chapelizod, Dublin",Dublin,300000.0,No,Chapelizod,Dublin 20,q3,80%
+08/06/2017,"3 Chapelizod Court, Chapelizod, Dublin 20",Dublin,255000.0,No,Chapelizod,Dublin 20,q3,60%
+09/06/2017,"50 Kings Hall, Chapelizod Rd, Chapelizod Dublin 20",Dublin,287500.0,No,Chapelizod,Dublin 20,q3,70%
+09/06/2017,"Apt 88, Knockmaree, Chapelizod Dublin 20",Dublin,265000.0,No,Chapelizod,Dublin 20,q3,60%
+11/07/2017,"13 Liffey Terrace, St Laurence Road, Chapelizod",Dublin,340000.0,No,Chapelizod,Dublin 20,q4,80%
+03/08/2017,"81 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,311000.0,No,Chapelizod,Dublin 20,q4,80%
+15/08/2017,"1 Glenaulin Park, Chapelizod, Dublin 20",Dublin,520000.0,No,Chapelizod,Dublin 20,q4,100%
+15/08/2017,"Apt 5 St Laurences Glen, St Laurences Rd, Chapelizod Dublin 20",Dublin,200000.0,No,Chapelizod,Dublin 20,q2,40%
+16/08/2017,"34 The Weir, Chapelizod, Dublin 20",Dublin,272500.0,No,Chapelizod,Dublin 20,q3,70%
+18/08/2017,"47 Kings Hall, Chapelizod, Dublin 20",Dublin,220000.0,No,Chapelizod,Dublin 20,q2,50%
+18/08/2017,"5 The Moorings, Chapelizod, Dublin 20",Dublin,265000.0,No,Chapelizod,Dublin 20,q3,60%
+18/08/2017,"77 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,265000.0,No,Chapelizod,Dublin 20,q3,60%
+24/08/2017,"152 The Island, Chapelizod, Dublin 20",Dublin,80000.0,No,Chapelizod,Dublin 20,q1,10%
+29/08/2017,"23 Phoenix View, St Laurences Rd, Chapelizod",Dublin,257000.0,No,Chapelizod,Dublin 20,q3,60%
+30/08/2017,"1A Swanlake, Chapelizod Road, Inchicore",Dublin,721000.0,No,Chapelizod,Dublin 20,q4,100%
+31/08/2017,"75A Martins Row, Chapelizod, Dublin 20",Dublin,340000.0,No,Chapelizod,Dublin 20,q4,90%
+12/09/2017,"203 The Island, Martins Row, Chapelizod Dublin 20",Dublin,255000.0,No,Chapelizod,Dublin 20,q3,60%
+13/09/2017,"Bower Lodge St. Louise'S Centre, Glenmaroon, Chapelizod  Dublin 20",Dublin,450000.0,No,Chapelizod,Dublin 20,q4,90%
+15/09/2017,"Apt 4, Mill Race, Chapelizod Dublin 20",Dublin,212000.0,No,Chapelizod,Dublin 20,q2,40%
+22/09/2017,"Apt 2 Block G Phoenix Vie, St Laurences, Chapelizod",Dublin,255000.0,No,Chapelizod,Dublin 20,q3,60%
+28/09/2017,"103 The Island, Chapelizod, Dublin 20",Dublin,220000.0,No,Chapelizod,Dublin 20,q2,50%
+05/10/2017,"32 New Row, Chapelizod, Dublin 20",Dublin,240000.0,No,Chapelizod,Dublin 20,q2,50%
+06/10/2017,"Iseult, 1 St Laurence Grove, Chapelizod Dublin 20",Dublin,320000.0,No,Chapelizod,Dublin 20,q4,80%
+17/10/2017,"151 The Island, Maidens Row, Chapelizod Dublin 20",Dublin,358000.0,No,Chapelizod,Dublin 20,q4,90%
+19/10/2017,"4 Mulberry Cottages, Chapelizod, Dublin 20",Dublin,180000.0,No,Chapelizod,Dublin 20,q2,30%
+24/10/2017,"17 Chapelizod Court, Chapelizod, Dublin 20",Dublin,250000.0,No,Chapelizod,Dublin 20,q3,60%
+26/10/2017,"81 The Steeples, St Laurences Rd, Chapelizod Dublin 20",Dublin,178000.0,No,Chapelizod,Dublin 20,q2,30%
+27/10/2017,"18 Kings Hall, Chapelizod, Dublin 20",Dublin,282000.0,No,Chapelizod,Dublin 20,q3,70%
+27/10/2017,"20 The Steeples, Chapelizod, Dublin 20",Dublin,177000.0,No,Chapelizod,Dublin 20,q2,30%
+01/11/2017,"15 Kings Hall, Chapelizod, Dublin 20",Dublin,290000.0,No,Chapelizod,Dublin 20,q3,70%
+10/11/2017,"22 The Island, Martins Row, Chapelizod Dublin 20",Dublin,265000.0,No,Chapelizod,Dublin 20,q3,60%
+15/11/2017,"24 Chapelizod Court, Chapelizod, Dublin 20",Dublin,265000.0,No,Chapelizod,Dublin 20,q3,60%
+23/11/2017,"170 The Island, Chapelizod, Dublin",Dublin,200000.0,No,Chapelizod,Dublin 20,q2,40%
+28/11/2017,"Huntsmans House, Strawberry Beds, Chapelizod",Dublin,466000.0,No,Chapelizod,Dublin 20,q4,100%
+06/12/2017,"99 Knockmaree, St Laurence Rd, Chapelizod Dublin 20",Dublin,265501.0,No,Chapelizod,Dublin 20,q3,60%
+07/12/2017,"6 Belgrove Park, Chapelizod, Dublin 20",Dublin,600000.0,No,Chapelizod,Dublin 20,q4,100%
+12/12/2017,"69 The Steeples Block E, Saint Laurences Road, Chapelizod",Dublin,206000.0,No,Chapelizod,Dublin 20,q2,40%
+15/12/2017,"167 The Island, Chapelizod, Dublin 20",Dublin,266000.0,No,Chapelizod,Dublin 20,q3,60%
+15/12/2017,"Apt 75 Knockmaree, St. Laurences Road, Chapelizod",Dublin,300000.0,No,Chapelizod,Dublin 20,q3,80%
+21/12/2017,"65 The Steeples, St Laurences Rd, Chapelizod Dublin 20",Dublin,200000.0,No,Chapelizod,Dublin 20,q2,40%
+22/12/2017,"113 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,265000.0,No,Chapelizod,Dublin 20,q3,60%
+22/12/2017,"177 The Island, Martins Row, Chapelizod Dublin 20",Dublin,275000.0,No,Chapelizod,Dublin 20,q3,70%
+10/01/2018,"45 Belgrove Lawn, Chapelizod, Dublin 20",Dublin,545000.0,No,Chapelizod,Dublin 20,q4,100%
+26/01/2018,"25 Knockmaree St Laurences Rd, Chapelizod, Dublin 20",Dublin,330000.0,No,Chapelizod,Dublin 20,q4,80%
+02/02/2018,"27 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,341000.0,No,Chapelizod,Dublin 20,q4,90%
+19/02/2018,"24 Northcliffe, Chapelizod, Dublin 20",Dublin,235000.0,No,Chapelizod,Dublin 20,q2,50%
+22/02/2018,"23 Northcliffe Apts, Chapelizod, Dublin 20",Dublin,242000.0,No,Chapelizod,Dublin 20,q2,50%
+22/02/2018,"76B Martinsrow, Chapelizod, Dublin 20",Dublin,765000.0,No,Chapelizod,Dublin 20,q4,100%
+30/04/2018,"29 Millrace, Chapelizod, Dublin 20",Dublin,233000.0,No,Chapelizod,Dublin 20,q2,50%
+11/05/2018,"6 Northcliffe, Chapelizod, Dublin 20",Dublin,191000.0,No,Chapelizod,Dublin 20,q2,40%
+22/05/2018,"4 Weir View, Glenaulin, Chapelizod Dublin 20",Dublin,265000.0,No,Chapelizod,Dublin 20,q3,60%
+25/05/2018,"34 St Laurence Rd, Chapelizod, Dublin 20",Dublin,555000.0,No,Chapelizod,Dublin 20,q4,100%
+05/06/2018,"Apt 197 Block G, The Island, Chapelizod Dublin 20",Dublin,337000.0,No,Chapelizod,Dublin 20,q4,80%
+05/06/2018,"Apt 80  Block D, The Island, Chapelizod",Dublin,345000.0,No,Chapelizod,Dublin 20,q4,90%
+11/06/2018,"44 St Laurence Rd Chapelizod, Dublin 20, Dublin",Dublin,650000.0,No,Chapelizod,Dublin 20,q4,100%
+13/06/2018,"5 Martins Row, Chapelizod, Dublin 20",Dublin,820000.0,No,Chapelizod,Dublin 20,q4,100%
+26/06/2018,"Apt 10 Block A The Steeples, St Laurence Rd, Chapelizod Dublin 20",Dublin,246000.0,No,Chapelizod,Dublin 20,q2,50%
+02/07/2018,"16 Phoenix View, The Steeples, Chapelizod Dublin 20",Dublin,230000.0,No,Chapelizod,Dublin 20,q2,50%
+06/07/2018,"22 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,350000.0,No,Chapelizod,Dublin 20,q4,90%
+06/07/2018,"5 Weirview, Glenaulin, Chapelizod Dublin 20",Dublin,255000.0,No,Chapelizod,Dublin 20,q3,60%
+11/07/2018,"Apt 172, Block G The Island, Chapelizod Dublin 20",Dublin,285000.0,No,Chapelizod,Dublin 20,q3,70%
+23/07/2018,"43 Belgrove Lawn, Chapelizod, Dublin 20",Dublin,545000.0,No,Chapelizod,Dublin 20,q4,100%
+26/07/2018,"11 Northcliffe, Martins Row, Chapelizod Dublin 20",Dublin,261000.0,No,Chapelizod,Dublin 20,q3,60%
+09/08/2018,"129 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,275000.0,No,Chapelizod,Dublin 20,q3,70%
+15/08/2018,"3 Laurence Brook, Chapelizod, Dublin 20",Dublin,324000.0,No,Chapelizod,Dublin 20,q4,80%
+23/08/2018,"78 Knockmaree, St Laurences Rd, Chapelizod",Dublin,280000.0,No,Chapelizod,Dublin 20,q3,70%
+28/08/2018,"236 The Island, Chapelizod Village, Dublin 20",Dublin,310000.0,No,Chapelizod,Dublin 20,q3,80%
+03/09/2018,"Block F 138 The Island, Chapelizod, Dublin 20",Dublin,250000.0,No,Chapelizod,Dublin 20,q3,60%
+14/09/2018,"21 Glenaulin, Chapelizod, Dublin 20",Dublin,382500.0,No,Chapelizod,Dublin 20,q4,90%
+17/09/2018,"26 Knockmaree, Chapelizod, Dublin City",Dublin,378000.0,No,Chapelizod,Dublin 20,q4,90%
+19/10/2018,"9 Mulberry Cottages, Chapelizod, Dublin 20",Dublin,333000.0,No,Chapelizod,Dublin 20,q4,80%
+30/10/2018,"10 Belgrove Park, Chapelizod, Dublin 20",Dublin,590500.0,No,Chapelizod,Dublin 20,q4,100%
+08/11/2018,"22 St Laurence Glen, Chapelizod, Dublin 20",Dublin,230000.0,No,Chapelizod,Dublin 20,q2,50%
+19/11/2018,"206 The Island, Chapelizod, Dublin 20",Dublin,275000.0,No,Chapelizod,Dublin 20,q3,70%
+03/12/2018,"No 1 Drummond House, Chapelizod, Dublin",Dublin,700000.0,No,Chapelizod,Dublin 20,q4,100%
+05/12/2018,"13 Belgrove Park, Chapelizod, Dublin 20",Dublin,562000.0,No,Chapelizod,Dublin 20,q4,100%
+11/12/2018,"64 The Island, Martins Row, Chapelizod Dublin 20",Dublin,362000.0,No,Chapelizod,Dublin 20,q4,90%
+13/12/2018,"Shirley, Martins Row, Chapelizod",Dublin,920000.0,No,Chapelizod,Dublin 20,q4,100%
+19/12/2018,"15 The Millrace, Chapelizod, Dublin 20",Dublin,250000.0,No,Chapelizod,Dublin 20,q3,60%
+18/01/2019,"7 Kingshall, Chapelizod, Dublin 20",Dublin,260000.0,No,Chapelizod,Dublin 20,q3,60%
+25/01/2019,"24 Belgrove Lawn, Chapelizod, Dublin 20",Dublin,585000.0,No,Chapelizod,Dublin 20,q4,100%
+31/01/2019,"10 Knockmaree, St Laurences Rd, Chapelizod",Dublin,350000.0,No,Chapelizod,Dublin 20,q4,90%
+11/02/2019,"5 New Row, Chapelizod, Dublin 20",Dublin,310000.0,No,Chapelizod,Dublin 20,q3,80%
+19/02/2019,"49 St Laurences Rd, Chapelizod, Dublin 20",Dublin,620000.0,No,Chapelizod,Dublin 20,q4,100%
+06/03/2019,"29 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,346000.0,No,Chapelizod,Dublin 20,q4,90%
+11/03/2019,"1 The Mill Race, Martins Row, Chapelizod Dublin 20",Dublin,197500.0,No,Chapelizod,Dublin 20,q2,40%
+18/04/2019,"35 The Steeples Block C, Chapelizod, Dublin 22",Dublin,238000.0,No,Chapelizod,Dublin 20,q2,50%
+18/04/2019,"48 The Millrace, Chapelizod, Dublin 20",Dublin,280000.0,No,Chapelizod,Dublin 20,q3,70%
+29/04/2019,"45 Knockmaree, St Laurences Rd, Chapelizod Dublin 20",Dublin,250000.0,No,Chapelizod,Dublin 20,q3,60%
+30/04/2019,"2 Knockmaree, St Laurences Rd, Chapelizod",Dublin,330000.0,No,Chapelizod,Dublin 20,q4,80%
+10/05/2019,"8 Chapelizod Court, Chapelizod, Dublin 20",Dublin,265000.0,No,Chapelizod,Dublin 20,q3,60%
+31/05/2019,"30 The Millrace, Chapelizod, Dublin 20",Dublin,275000.0,No,Chapelizod,Dublin 20,q3,70%
+18/06/2019,"23 The Steeples, St Laurences Rd, Chapelizod Dublin 20",Dublin,230000.0,No,Chapelizod,Dublin 20,q2,50%
+20/06/2019,"111 Knockmaree, Chapelizod, Dublin 20",Dublin,290000.0,No,Chapelizod,Dublin 20,q3,70%
+20/06/2019,"21 Laurence Brook, Chapelizod, Dublin 20",Dublin,325000.0,No,Chapelizod,Dublin 20,q4,80%
+28/06/2019,"2 Hibernian Gardens, Chapelizod Road",Dublin,20000.0,No,Chapelizod,Dublin 20,q1,10%
+01/07/2019,"9 Phoenix View, St Laurences Rd, Chapelizod Dublin 20",Dublin,220000.0,No,Chapelizod,Dublin 20,q2,50%
+04/07/2019,"9 Chapelview, Chapelizod, Dublin 20",Dublin,185000.0,No,Chapelizod,Dublin 20,q2,40%
+12/07/2019,"13 Chapel Hill, Martin'S Raw, Chapelizod",Dublin,390000.0,No,Chapelizod,Dublin 20,q4,90%
+18/07/2019,"223 The Island, Martins Row, Chapelizod Dublin 20",Dublin,270000.0,No,Chapelizod,Dublin 20,q3,60%
+22/07/2019,"24 Phoenix View, St Laurence Rd, Chapelizod",Dublin,255000.0,No,Chapelizod,Dublin 20,q3,60%
+08/08/2019,"95 The Island, Martins Row, Chapelizod Dublin 20",Dublin,201500.0,No,Chapelizod,Dublin 20,q2,40%
+15/08/2019,"45 The Island, Chapelizod, Dublin 20",Dublin,295000.0,No,Chapelizod,Dublin 20,q3,80%
+23/08/2019,"34 The Weir, Chapelizod, Dublin 20",Dublin,312500.0,No,Chapelizod,Dublin 20,q4,80%
+05/09/2019,"204 The Island, Martins Row, Chapelizod",Dublin,273000.0,No,Chapelizod,Dublin 20,q3,70%
+11/09/2019,"26 St Laurence Glen, Chapelizod, Dublin 20",Dublin,226000.0,No,Chapelizod,Dublin 20,q2,50%
+13/09/2019,"20 Chapelview, Maidens Row, Chapelizod Dublin 20",Dublin,245000.0,No,Chapelizod,Dublin 20,q2,50%
+18/09/2019,"64 The Island, Martins Row, Chapelizod Dublin 20",Dublin,6000.0,No,Chapelizod,Dublin 20,q1,10%
+19/09/2019,"Hibernian House, 28 Main St, Chapelizod Dublin 20",Dublin,675000.0,No,Chapelizod,Dublin 20,q4,100%
+20/09/2019,"26 Kingshall, Chapelizod, Dublin 20",Dublin,279000.0,No,Chapelizod,Dublin 20,q3,70%
+03/10/2019,"5 Park Lane, Chapelizod, Dublin 20",Dublin,475000.0,No,Chapelizod,Dublin 20,q4,100%

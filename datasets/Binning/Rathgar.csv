@@ -1,0 +1,841 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+26/02/2010,"Riversdale House, Riversdale Ave  Bushy Park Road, Rathgar",Dublin,2250000.0,No,Rathgar,Dublin 6,q4,100%
+12/03/2010,"4 Tower Villas, Tower Avenue, Rathgar",Dublin,520000.0,No,Rathgar,Dublin 6,q2,40%
+26/03/2010,"36  Kenilworthsquare, Rathgar, Dublin 6",Dublin,1175000.0,No,Rathgar,Dublin 6,q4,80%
+21/04/2010,"37 Garville Lane, Rathgar, Dublin 6",Dublin,500000.0,No,Rathgar,Dublin 6,q2,40%
+23/04/2010,"Flat No. 20 Block B, Hillcourt, Highfield Road  Rathgar",Dublin,211750.0,No,Rathgar,Dublin 6,q1,10%
+04/05/2010,"'Allendale', 66 Highfield Road, Rathgar",Dublin,2150000.0,No,Rathgar,Dublin 6,q4,100%
+18/05/2010,"16 Vernon Grove, Rathgar",Dublin,760000.0,No,Rathgar,Dublin 6,q3,60%
+18/05/2010,"28 Oakapple Green, Rathgar",Dublin,350000.0,No,Rathgar,Dublin 6,q1,20%
+21/05/2010,"33 Garville Lane, Rathgar",Dublin,490000.0,No,Rathgar,Dublin 6,q2,40%
+11/06/2010,"444 Cowper Downs, Rathgar",Dublin,307500.0,No,Rathgar,Dublin 6,q1,20%
+25/06/2010,"32 Kenilworth Road, Rathgar, Dublin",Dublin,715000.0,No,Rathgar,Dublin 6,q3,60%
+30/06/2010,"73 Meadowbank, Bushy Park Road, Rathgar",Dublin,381000.0,No,Rathgar,Dublin 6,q1,30%
+06/07/2010,"17 Garville Avenue, Rathgar",Dublin,1500000.0,No,Rathgar,Dublin 6,q4,90%
+06/08/2010,"20 Rathgar Avenue, Rathgar",Dublin,615000.0,No,Rathgar,Dublin 6,q2,50%
+20/08/2010,"4 Brighton Square, Rathgar",Dublin,670000.0,No,Rathgar,Dublin 6,q3,60%
+07/09/2010,"10 Templemore Ave, Rathgar",Dublin,650000.0,No,Rathgar,Dublin 6,q2,50%
+10/09/2010,"14 Newtown Court, Eaton Brae, Rathgar",Dublin,205000.0,No,Rathgar,Dublin 6,q1,10%
+16/09/2010,"5 Frankfort Avenue, Rathgar, Dublin 6",Dublin,1150000.0,No,Rathgar,Dublin 6,q4,80%
+30/11/2010,"7 Newtown Court, Eaton Brae  Orwell Road, Rathgar",Dublin,210000.0,No,Rathgar,Dublin 6,q1,10%
+01/12/2010,"22 Wesley Road, Rathgar",Dublin,433000.0,No,Rathgar,Dublin 6,q2,30%
+12/01/2011,"176 Orwell Road, Rathgar",Dublin,1200000.0,No,Rathgar,Dublin 6,q4,90%
+28/01/2011,"19 Eaton Brae, Rathgar",Dublin,800000.0,No,Rathgar,Dublin 6,q3,70%
+04/03/2011,"Apartment 31  Hillcourt, Highfield Road, Rathgar",Dublin,190000.0,No,Rathgar,Dublin 6,q1,10%
+09/03/2011,"38 Templemore Avenue, Rathgar, Dublin 6",Dublin,562500.0,No,Rathgar,Dublin 6,q2,50%
+14/03/2011,"5 Brighton Road, Rathgar",Dublin,595000.0,No,Rathgar,Dublin 6,q2,50%
+21/03/2011,"36 Frankfort Court, Rathgar",Dublin,150000.0,No,Rathgar,Dublin 6,q1,10%
+07/04/2011,"3 Orwell Mews, Orwell Road, Rathgar",Dublin,348335.0,No,Rathgar,Dublin 6,q1,20%
+11/04/2011,"1 Coulson Avenue, Rathgar, Dublin 6",Dublin,350000.0,No,Rathgar,Dublin 6,q1,20%
+14/04/2011,"14 Frankfort Avenue, Rathgar, Dublin 6",Dublin,485000.0,No,Rathgar,Dublin 6,q2,40%
+15/04/2011,"71 Highfield Road, Rathgar",Dublin,1950000.0,No,Rathgar,Dublin 6,q4,100%
+15/04/2011,"Apartment 19 Grenville, 110/111 Rathgar Road, Dublin 6",Dublin,250000.0,No,Rathgar,Dublin 6,q1,10%
+23/05/2011,"52 Orwell Road, Rathgar, Dublin 6",Dublin,460000.0,No,Rathgar,Dublin 6,q2,30%
+31/05/2011,"1 Neville Road, Rathgar, Dublin",Dublin,1350000.0,No,Rathgar,Dublin 6,q4,90%
+31/05/2011,"Padua, 1 Oaklands Drive, Rathgar",Dublin,850000.0,No,Rathgar,Dublin 6,q3,70%
+10/06/2011,"59 Rathgar Road, Rathgar",Dublin,680000.0,No,Rathgar,Dublin 6,q3,60%
+16/06/2011,"30 Meadowbank, Bushy Park Road, Rathgar",Dublin,342000.0,No,Rathgar,Dublin 6,q1,20%
+24/06/2011,"14 Orwell Gardens, Rathgar, Dublin 14",Dublin,290000.0,No,Rathgar,Dublin 6,q1,20%
+24/06/2011,"17 Orwell Park, Rathgar, Dublin 6",Dublin,1580000.0,No,Rathgar,Dublin 6,q4,100%
+24/06/2011,"21 Coulson Avenue, Rathgar",Dublin,625000.0,No,Rathgar,Dublin 6,q2,50%
+01/07/2011,"15 Vernon Grove, Rathgar",Dublin,560000.0,No,Rathgar,Dublin 6,q2,50%
+15/07/2011,"12 Neville Road, Rathgar, Dublin 6",Dublin,1373000.0,No,Rathgar,Dublin 6,q4,90%
+22/07/2011,"28 Neville Road, Rathgar",Dublin,545000.0,No,Rathgar,Dublin 6,q2,50%
+27/07/2011,"103  103A & 103B, Rathgar Road, Rathgar",Dublin,40000.0,No,Rathgar,Dublin 6,q1,10%
+27/07/2011,"32 Villiers Road, Rathgar, Dublin6",Dublin,450000.0,No,Rathgar,Dublin 6,q2,30%
+10/08/2011,"Broomfield, 15 Kenilworth Lane, Rathgar",Dublin,276250.0,No,Rathgar,Dublin 6,q1,20%
+15/08/2011,"47 Meadowbank, Bushy Park Road, Rathgar",Dublin,411500.0,No,Rathgar,Dublin 6,q1,30%
+17/08/2011,"31 Oaklands Drive, Rathgar, Dublin 6",Dublin,680000.0,No,Rathgar,Dublin 6,q3,60%
+19/08/2011,"5 Frankfort Court, Rathgar, Dublin 6",Dublin,190000.0,No,Rathgar,Dublin 6,q1,10%
+23/08/2011,"69  Brighton Square, Rathgar, Dublin",Dublin,1195000.0,No,Rathgar,Dublin 6,q4,90%
+30/08/2011,"Milverton, 8 Green Road, Rathgar",Dublin,1150000.0,No,Rathgar,Dublin 6,q4,80%
+06/09/2011,"30 Brighton Gardens, Rathgar",Dublin,250000.0,No,Rathgar,Dublin 6,q1,10%
+09/09/2011,"No. 9  Victoria Road, Rathgar, Dublin 6",Dublin,690000.0,No,Rathgar,Dublin 6,q3,60%
+12/09/2011,"11 Meadowbank, Bushy Park Road, Rathgar",Dublin,326000.0,No,Rathgar,Dublin 6,q1,20%
+21/09/2011,"2 Rathgar Villas, Rathgar Ave",Dublin,344400.0,No,Rathgar,Dublin 6,q1,20%
+29/09/2011,"23 Green Park, Orwell Road, Rathgar",Dublin,696332.0,No,Rathgar,Dublin 6,q3,60%
+29/09/2011,"38 Brighton Road, Rathgar, Dublin 6",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+07/10/2011,"13A Kenilworth Lane, Rathgar",Dublin,220000.0,No,Rathgar,Dublin 6,q1,10%
+07/10/2011,"19 Orwell Gardens, Rathgar",Dublin,347500.0,No,Rathgar,Dublin 6,q1,20%
+10/10/2011,"46 Hillcourt, Highfield, Rathgar",Dublin,207500.0,No,Rathgar,Dublin 6,q1,10%
+13/10/2011,"10  Winton Ave, Rathgar",Dublin,905000.0,No,Rathgar,Dublin 6,q3,70%
+19/10/2011,"Apartment 13 Sherbourne, 96-97 Rathgar Road, Rathgar",Dublin,285000.0,No,Rathgar,Dublin 6,q1,20%
+21/10/2011,"4 Harrison Row, Rathgar",Dublin,400000.0,No,Rathgar,Dublin 6,q1,30%
+28/10/2011,"2 Waverley Terrace, Rathgar, Dublin 6",Dublin,310000.0,No,Rathgar,Dublin 6,q1,20%
+14/11/2011,"67Rathgar Road, Rathgar Road",Dublin,485000.0,No,Rathgar,Dublin 6,q2,40%
+18/11/2011,"17 Victoria Road, Rathgar",Dublin,865000.0,No,Rathgar,Dublin 6,q3,70%
+18/11/2011,"85 Rathgar Road, Rathgar, Dublin 6",Dublin,250000.0,No,Rathgar,Dublin 6,q1,10%
+24/11/2011,"27 Eaton Brae, Orwell Road, Rathgar",Dublin,440000.0,No,Rathgar,Dublin 6,q2,30%
+25/11/2011,"79 Rathgar Road, Rathgar",Dublin,775000.0,No,Rathgar,Dublin 6,q3,60%
+25/11/2011,"Ashgrove House, Highfield Road, Rathgar",Dublin,3351100.0,No,Rathgar,Dublin 6,q4,100%
+02/12/2011,"11 Eastmore, Bushy Park, Rathgar",Dublin,275000.0,No,Rathgar,Dublin 6,q1,20%
+07/12/2011,"10 Kenilworth Road, Rathgar",Dublin,710000.0,No,Rathgar,Dublin 6,q3,60%
+21/12/2011,"75 Garville Avenue, Rathgar, Dublin",Dublin,424000.0,No,Rathgar,Dublin 6,q2,30%
+23/12/2011,"5 Rathgar Court, Rathgar Road",Dublin,171000.0,No,Rathgar,Dublin 6,q1,10%
+12/01/2012,"24 Brighton Road, Rathgar, Dublin 6",Dublin,715000.0,No,Rathgar,Dublin 6,q3,60%
+17/01/2012,"13 Garvillw Road, Rathgar, Dublin 6",Dublin,435000.0,No,Rathgar,Dublin 6,q2,30%
+26/01/2012,"8  Villiers Road, Rathgar, Dublin 6",Dublin,730000.0,No,Rathgar,Dublin 6,q3,60%
+30/01/2012,"2 Spireview Court, Rathgar",Dublin,252000.0,No,Rathgar,Dublin 6,q1,10%
+06/02/2012,"13 Brighton Square, Rathgar, Dublin 6",Dublin,697338.0,No,Rathgar,Dublin 6,q3,60%
+06/02/2012,"14 Airfield Road, Rathgar",Dublin,330000.0,No,Rathgar,Dublin 6,q1,20%
+14/02/2012,"12 Orwell Gardens, Rathgar",Dublin,300000.0,No,Rathgar,Dublin 6,q1,20%
+17/02/2012,"51-53 Orwell Park, Rathgar",Dublin,3251144.74,Yes,Rathgar,Dublin 6,q4,100%
+21/02/2012,"56 Meadowbank, Bushy Park Road, Rathgar",Dublin,296000.0,No,Rathgar,Dublin 6,q1,20%
+01/03/2012,"2 Meadowbank Road, Bushy Park Road, Rathgar",Dublin,316500.0,No,Rathgar,Dublin 6,q1,20%
+09/03/2012,"36 Orwell Gardens, Rathgar, Dublin 14",Dublin,200500.0,No,Rathgar,Dublin 6,q1,10%
+15/03/2012,"No. 2 Brighton View, Harrison Row, Rathgar",Dublin,770000.0,No,Rathgar,Dublin 6,q3,60%
+16/03/2012,"34 Templemore Avenue, Rathgar",Dublin,470000.0,No,Rathgar,Dublin 6,q2,40%
+16/03/2012,"Grasia, 77A Orwell Road, Rathgar",Dublin,1050000.0,Yes,Rathgar,Dublin 6,q4,80%
+21/03/2012,"77C Orwell Road, Rathgar",Dublin,350000.0,No,Rathgar,Dublin 6,q1,20%
+23/03/2012,"25 Oaklands Crescent, Rathgar, Dublin 6",Dublin,195000.0,No,Rathgar,Dublin 6,q1,10%
+30/03/2012,"13 Thorncliffe Park, Orwell Road, Rathgar",Dublin,615000.0,No,Rathgar,Dublin 6,q2,50%
+02/04/2012,"32 Grosvenor Road, Rathgar",Dublin,780000.0,No,Rathgar,Dublin 6,q3,60%
+20/04/2012,"6 Orwell Bank, Orwell Park, Rathgar",Dublin,420000.0,No,Rathgar,Dublin 6,q2,30%
+03/05/2012,"11 Auburn Villas, Rathgar, Dublin 6",Dublin,200000.0,No,Rathgar,Dublin 6,q1,10%
+03/05/2012,"Apt 3  20  Highfield Road, Rathgar, Dublin 6",Dublin,74000.0,No,Rathgar,Dublin 6,q1,10%
+04/05/2012,"68 Orwell Park, Rathgar, Dublin 6",Dublin,1550000.0,No,Rathgar,Dublin 6,q4,90%
+16/05/2012,"36 Brighton Gardens, Rathgar",Dublin,300000.0,No,Rathgar,Dublin 6,q1,20%
+17/05/2012,"4 Spire View Court, Spire View Lane, Rathgar",Dublin,245000.0,No,Rathgar,Dublin 6,q1,10%
+21/05/2012,"8 Wesley Road, Rathgar",Dublin,416250.0,No,Rathgar,Dublin 6,q2,30%
+25/05/2012,"15 Oaklands Drive, Rathgar",Dublin,690000.0,No,Rathgar,Dublin 6,q3,60%
+25/05/2012,"35 Meadowbank, Bushy Park Road, Rathgar",Dublin,322500.0,No,Rathgar,Dublin 6,q1,20%
+28/05/2012,"40 Hillcourt, Highfield Road, Rathgar",Dublin,105000.0,No,Rathgar,Dublin 6,q1,10%
+30/05/2012,"25 Orwell Park, Rathgar",Dublin,1375000.0,No,Rathgar,Dublin 6,q4,90%
+30/05/2012,"60 Garville Avenue, Rathgar, Dublin 6",Dublin,755000.0,No,Rathgar,Dublin 6,q3,60%
+01/06/2012,"45 Hillcourt, Highfield Road, Rathgar",Dublin,227000.0,No,Rathgar,Dublin 6,q1,10%
+15/06/2012,"3 Vernon Grove, Rathgar, Dublin 6",Dublin,625000.0,No,Rathgar,Dublin 6,q2,50%
+29/06/2012,"66 Brighton Road, Rathgar",Dublin,625000.0,No,Rathgar,Dublin 6,q2,50%
+02/07/2012,"Tailteann, 20 Orwell Park, Rathgar",Dublin,1350000.0,No,Rathgar,Dublin 6,q4,90%
+03/07/2012,"4 Garville Avenue, Rathgar, Dublin 6",Dublin,400000.0,No,Rathgar,Dublin 6,q1,30%
+05/07/2012,"31 Frankfort Avenue, Rathgar, Dublin 6",Dublin,646000.0,No,Rathgar,Dublin 6,q2,50%
+06/07/2012,"2 Villiers Road, Rathgar",Dublin,750000.0,No,Rathgar,Dublin 6,q3,60%
+06/07/2012,"44 Garville Avenue, Rathgar",Dublin,775000.0,No,Rathgar,Dublin 6,q3,60%
+06/07/2012,"Abercorn House, Brighton Square, Rathgar",Dublin,336000.0,No,Rathgar,Dublin 6,q1,20%
+13/07/2012,"9 Orwell Park, Rathgar",Dublin,1850000.0,No,Rathgar,Dublin 6,q4,100%
+13/07/2012,"Fairfiled House, 3A Rathgar Avenue, Rathgar",Dublin,925000.0,No,Rathgar,Dublin 6,q3,70%
+17/07/2012,"3 Tower Avenue, Rathgar, Dublin 6",Dublin,340000.0,No,Rathgar,Dublin 6,q1,20%
+23/07/2012,"18 Rathgar Park, Rathgar",Dublin,675900.0,No,Rathgar,Dublin 6,q3,60%
+25/07/2012,"18 Garville Mews, Rathgar",Dublin,330000.0,No,Rathgar,Dublin 6,q1,20%
+26/07/2012,"17 Templemore Avenue, Rathgar",Dublin,171666.0,No,Rathgar,Dublin 6,q1,10%
+27/07/2012,"13 Orwell Gardens, Rathgar, Dublin 6",Dublin,300000.0,No,Rathgar,Dublin 6,q1,20%
+27/07/2012,"14 Highfield Road, Rathgar, Dublin 6",Dublin,1600000.0,No,Rathgar,Dublin 6,q4,100%
+27/07/2012,"26 Oaklands Drive, Rathgar, Dublin 6",Dublin,262500.0,No,Rathgar,Dublin 6,q1,10%
+27/07/2012,"79 Kenilworth Square East, Rathgar",Dublin,575000.0,No,Rathgar,Dublin 6,q2,50%
+02/08/2012,"17 Garville Mews, Rathgar, Dublin 6",Dublin,327750.0,No,Rathgar,Dublin 6,q1,20%
+03/08/2012,"28 Orwell Park (Otherwise, 30/31 Orwell Park), Rathgar",Dublin,1549050.0,No,Rathgar,Dublin 6,q4,90%
+13/08/2012,"18 Highfield Road, Rathgar",Dublin,835000.0,No,Rathgar,Dublin 6,q3,70%
+17/08/2012,"Malakoff Villas, 184 Rathgar Road",Dublin,1230450.0,No,Rathgar,Dublin 6,q4,90%
+23/08/2012,"1 Spireview Court, Rathgar",Dublin,264000.0,No,Rathgar,Dublin 6,q1,10%
+23/08/2012,"3  Spireview Court, Rathgar",Dublin,254000.0,No,Rathgar,Dublin 6,q1,10%
+27/08/2012,"172 Rathgar Road, Rathgar",Dublin,825000.0,No,Rathgar,Dublin 6,q3,70%
+30/08/2012,"13 Frankfort Avenue, Rathgar, Dublin 6",Dublin,350000.0,No,Rathgar,Dublin 6,q1,20%
+30/08/2012,"47 Orwell Gardens, Rathgar",Dublin,235000.0,No,Rathgar,Dublin 6,q1,10%
+31/08/2012,"30 Kenilworth Road, Rathgar, Dublin 6",Dublin,440000.0,No,Rathgar,Dublin 6,q2,30%
+31/08/2012,"80 Garville Avenue, Rathgar, Dublin 6",Dublin,900000.0,No,Rathgar,Dublin 6,q3,70%
+07/09/2012,"22 Stratford Haven, Rathgar",Dublin,248000.0,No,Rathgar,Dublin 6,q1,10%
+18/09/2012,"29 Oak Apple Green, Rathgar  Dublin 6",Dublin,260000.0,No,Rathgar,Dublin 6,q1,10%
+19/09/2012,"15 Laurelton, Bushy Park Road, Rathgar",Dublin,540000.0,No,Rathgar,Dublin 6,q2,40%
+01/10/2012,"20  The Haven, Stratford  Orwell Road, Rathgar  Dublin",Dublin,263000.0,No,Rathgar,Dublin 6,q1,10%
+15/10/2012,"100 Orwell Road, Rathgar",Dublin,830000.0,No,Rathgar,Dublin 6,q3,70%
+17/10/2012,"54 Orwell Woods, Orwell Road, Rathgar",Dublin,345000.0,No,Rathgar,Dublin 6,q1,20%
+22/10/2012,"20 Brighton Gardens, Rathgar, Dublin 6",Dublin,327500.0,No,Rathgar,Dublin 6,q1,20%
+25/10/2012,"9 Brighton Road, Rathgar",Dublin,425000.0,No,Rathgar,Dublin 6,q2,30%
+26/10/2012,"108 And 110 Orwell Road, Rathgar",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+06/11/2012,"Flat 7 Block A, Hillcourt Road, Rathgar",Dublin,195000.0,No,Rathgar,Dublin 6,q1,10%
+09/11/2012,"Carrick Hall, 69 Orwell Road, Rathgar",Dublin,1050000.0,No,Rathgar,Dublin 6,q4,80%
+20/11/2012,"12 Brighton Square, Rathgar",Dublin,835000.0,No,Rathgar,Dublin 6,q3,70%
+20/11/2012,"16 Rathgar Park, Rathgar",Dublin,400000.0,No,Rathgar,Dublin 6,q1,30%
+27/11/2012,"18 Orwell Gardens, Rathgar",Dublin,290000.0,No,Rathgar,Dublin 6,q1,20%
+04/12/2012,"3 Brighton View, Harrison Row, Rathgar",Dublin,1025000.0,No,Rathgar,Dublin 6,q3,80%
+05/12/2012,"10 Zion Road, Rathgar, Dublin 6",Dublin,700000.0,No,Rathgar,Dublin 6,q3,60%
+06/12/2012,"162 Rathgar Road, Rathgar",Dublin,880000.0,No,Rathgar,Dublin 6,q3,70%
+06/12/2012,"4 Auburn Villas, Rathgar",Dublin,905000.0,No,Rathgar,Dublin 6,q3,70%
+06/12/2012,"71 Garville Lane, Rathgar, Dublin 6",Dublin,460000.0,No,Rathgar,Dublin 6,q2,30%
+07/12/2012,"213 Upper Rathmines Road, Rathgar, Dublin 6",Dublin,560000.0,No,Rathgar,Dublin 6,q2,50%
+13/12/2012,"36 Garville Lane, Rathgar, Dublin 6",Dublin,325000.0,No,Rathgar,Dublin 6,q1,20%
+14/12/2012,"11 Zion Road, Rathgar",Dublin,730000.0,No,Rathgar,Dublin 6,q3,60%
+14/12/2012,"24 Neville Road, Rathgar",Dublin,712000.0,No,Rathgar,Dublin 6,q3,60%
+14/12/2012,"6 Rathgar Court, Rathgar, Dublin 6",Dublin,195000.0,No,Rathgar,Dublin 6,q1,10%
+17/12/2012,"31 Brighton Gardens, Rathgar",Dublin,446500.0,No,Rathgar,Dublin 6,q2,30%
+19/12/2012,"14 Rostrevor Terrace, Rathgar",Dublin,2006557.0,No,Rathgar,Dublin 6,q4,100%
+21/12/2012,"1 Brighton View, Harrison Row, Rathgar",Dublin,1095000.0,No,Rathgar,Dublin 6,q4,80%
+21/12/2012,"40 Rathgar Road, Rathgar, Dublin 6",Dublin,550000.0,No,Rathgar,Dublin 6,q2,50%
+21/12/2012,"Sycamore Court, 75 Rathgar Road, Rathgar",Dublin,2300000.0,No,Rathgar,Dublin 6,q4,100%
+23/12/2012,"69 Garville Lane, Rathgar",Dublin,460000.0,No,Rathgar,Dublin 6,q2,30%
+28/12/2012,"42 Garville Lane, Rathgar",Dublin,325000.0,No,Rathgar,Dublin 6,q1,20%
+17/01/2013,"27  Orwell Park, Rathgar, Dublin 6",Dublin,2150000.0,No,Rathgar,Dublin 6,q4,100%
+18/01/2013,"37 Brighton Square, Rathgar, Dublin 6",Dublin,820000.0,No,Rathgar,Dublin 6,q3,70%
+29/01/2013,"44 Meadowbank, Bushy Park Road, Rathgar",Dublin,365000.0,No,Rathgar,Dublin 6,q1,30%
+30/01/2013,"Lisnoe, 58 Orwell Park, Rathgar",Dublin,1750000.0,No,Rathgar,Dublin 6,q4,100%
+12/02/2013,"Garden Flat, 117 Rathgar Road, Rathgar",Dublin,175000.0,No,Rathgar,Dublin 6,q1,10%
+15/02/2013,"5 Oaklands Crescent, Rathgar",Dublin,215000.0,No,Rathgar,Dublin 6,q1,10%
+19/02/2013,"11 Harmac Court, Brighton Avenue, Rathgar",Dublin,135000.0,No,Rathgar,Dublin 6,q1,10%
+22/02/2013,"74C Rathgar Road, Rathgar",Dublin,350000.0,No,Rathgar,Dublin 6,q1,20%
+27/02/2013,"1 Wesley Road, Rathgar",Dublin,430000.0,No,Rathgar,Dublin 6,q2,30%
+28/02/2013,"77 Brighton Square, Rathgar, Dublin 6",Dublin,390000.0,No,Rathgar,Dublin 6,q1,30%
+01/03/2013,"165 Rathgar Road, Rathgar",Dublin,780000.0,No,Rathgar,Dublin 6,q3,60%
+08/03/2013,"60  Brighton Square, Rathgar, Dublin 6",Dublin,550000.0,No,Rathgar,Dublin 6,q2,50%
+15/03/2013,"182 Rathgar Road, Rathgar",Dublin,335000.0,No,Rathgar,Dublin 6,q1,20%
+22/03/2013,"54 Brighton Road, Rathgar, Dublin 6",Dublin,960000.0,No,Rathgar,Dublin 6,q3,80%
+26/03/2013,"2 Belleville Avenue, Rathgar",Dublin,795000.0,No,Rathgar,Dublin 6,q3,70%
+05/04/2013,"2 The Haven Stratford, Orwell Road, Rathgar",Dublin,252000.0,No,Rathgar,Dublin 6,q1,10%
+17/04/2013,"31 Brighton Road, Rathgar",Dublin,1025000.0,No,Rathgar,Dublin 6,q3,80%
+18/04/2013,"51 Orwell Park, Rathgar",Dublin,2400000.0,Yes,Rathgar,Dublin 6,q4,100%
+23/04/2013,"1 Garville Avenue, Rathgar, Dublin 6",Dublin,326000.0,No,Rathgar,Dublin 6,q1,20%
+10/05/2013,"12 Victoria Road, Rathgar",Dublin,556000.0,No,Rathgar,Dublin 6,q2,50%
+16/05/2013,"23 Garville Lane, Rathgar, Dublin 6",Dublin,514000.0,No,Rathgar,Dublin 6,q2,40%
+24/05/2013,"34 Kenilworth Square, Rathgar, Dublin 6",Dublin,905000.0,No,Rathgar,Dublin 6,q3,70%
+30/05/2013,"13 Brighton Road, Rathgar, Dublin 6",Dublin,750000.0,No,Rathgar,Dublin 6,q3,60%
+07/06/2013,"19 Highfield Road, Rathgar",Dublin,1550000.0,No,Rathgar,Dublin 6,q4,90%
+14/06/2013,"87 Kenilworth Square East, Rathgar, Dulbin",Dublin,818500.0,No,Rathgar,Dublin 6,q3,70%
+17/06/2013,"44 Thorncliffe Park, Orwell Road, Rathgar",Dublin,550000.0,No,Rathgar,Dublin 6,q2,50%
+19/06/2013,"172 Orwell Road, Rathgar",Dublin,585000.0,No,Rathgar,Dublin 6,q2,50%
+20/06/2013,"30 Victoria Rd, Rathgar, Dublin 6",Dublin,805000.0,No,Rathgar,Dublin 6,q3,70%
+08/07/2013,"Apartment 28  Block 2, Highfield Court, Rathgar",Dublin,165000.0,No,Rathgar,Dublin 6,q1,10%
+09/07/2013,"Linden Court, 115 And Part Rear 116 Rathgar Road, Rathgar",Dublin,800000.0,No,Rathgar,Dublin 6,q3,70%
+10/07/2013,"67 Orwell Gardens, Rathgar",Dublin,355000.0,No,Rathgar,Dublin 6,q1,20%
+12/07/2013,"10 Hillcrest, 94/95 Rathgar Road, Rathgar",Dublin,110000.0,No,Rathgar,Dublin 6,q1,10%
+12/07/2013,"33 Garville Avenue, Rathgar, Dublin 6",Dublin,1700000.0,No,Rathgar,Dublin 6,q4,100%
+13/07/2013,"10 Victoria Villas, Rathgar, Dublin 6",Dublin,345000.0,No,Rathgar,Dublin 6,q1,20%
+26/07/2013,"23 Frankfort Avenue, Rathgar",Dublin,660000.0,No,Rathgar,Dublin 6,q2,50%
+26/07/2013,"48 Orwell Park, Rathgar, Dublin 6",Dublin,925000.0,Yes,Rathgar,Dublin 6,q3,70%
+26/07/2013,"54 Orwell Park, Rathgar",Dublin,1660000.0,No,Rathgar,Dublin 6,q4,100%
+06/08/2013,"10 Stratford Haven, Rathgar",Dublin,380000.0,No,Rathgar,Dublin 6,q1,30%
+06/08/2013,"38 Orwell Woods, Rathgar",Dublin,416000.0,No,Rathgar,Dublin 6,q2,30%
+07/08/2013,"19C Garville Road, Rathgar, Dublin",Dublin,350000.0,No,Rathgar,Dublin 6,q1,20%
+08/08/2013,"4 Orwell Woods, Orwell Park, Rathgar",Dublin,365000.0,No,Rathgar,Dublin 6,q1,30%
+12/08/2013,"11 Eaton Brae, Orwell Road, Rathgar",Dublin,810000.0,No,Rathgar,Dublin 6,q3,70%
+14/08/2013,"19 Victoria Road, Rathgar",Dublin,770000.0,No,Rathgar,Dublin 6,q3,60%
+20/08/2013,"22 Orwell Park, Rathgar",Dublin,1750000.0,No,Rathgar,Dublin 6,q4,100%
+21/08/2013,"36 Victoria Road, Rathgar",Dublin,712500.0,No,Rathgar,Dublin 6,q3,60%
+21/08/2013,"49A Orwell Park, Rathgar",Dublin,807401.0,Yes,Rathgar,Dublin 6,q3,70%
+21/08/2013,"50 A Orwell Park, Rathgar",Dublin,792952.0,Yes,Rathgar,Dublin 6,q3,60%
+22/08/2013,"48 Thorncliffe Park, Rathgar",Dublin,650000.0,No,Rathgar,Dublin 6,q2,50%
+30/08/2013,"2 Brighton Cross, Brighton Road, Rathgar",Dublin,303000.0,No,Rathgar,Dublin 6,q1,20%
+30/08/2013,"24 Frankfort Court, Rathgar Avenue, Dublin 6",Dublin,145000.0,No,Rathgar,Dublin 6,q1,10%
+30/08/2013,"36 Orwell Woods, Rathgar",Dublin,385000.0,No,Rathgar,Dublin 6,q1,30%
+02/09/2013,"38 Rathgar Avenue, Rathgar, Dublin 6",Dublin,625000.0,No,Rathgar,Dublin 6,q2,50%
+03/09/2013,"48A Orwell Park, Rathgar",Dublin,814977.37,Yes,Rathgar,Dublin 6,q3,70%
+09/09/2013,"'Harvard', Bushes Lane, Rathgar",Dublin,395000.0,No,Rathgar,Dublin 6,q1,30%
+12/09/2013,"1 Oak Apple Green, Rathgar, Dublin 6",Dublin,422500.0,No,Rathgar,Dublin 6,q2,30%
+13/09/2013,"28 Orwell Park, Rathgar",Dublin,2365000.0,No,Rathgar,Dublin 6,q4,100%
+17/09/2013,"11 Wesley Road, Rathgar",Dublin,515000.0,No,Rathgar,Dublin 6,q2,40%
+20/09/2013,"10 Victoria Road, Rathgar",Dublin,825000.0,No,Rathgar,Dublin 6,q3,70%
+20/09/2013,"64 Brighton Square, Rathgar",Dublin,1010000.0,No,Rathgar,Dublin 6,q3,80%
+26/09/2013,"15 Stratford Haven, Rathgar, Dublin 6",Dublin,280000.0,No,Rathgar,Dublin 6,q1,20%
+26/09/2013,"9 Highfield Manor, Rathgar",Dublin,150000.0,No,Rathgar,Dublin 6,q1,10%
+27/09/2013,"25 Vernon Grove, Rathgar, Dublin 6",Dublin,545000.0,No,Rathgar,Dublin 6,q2,50%
+02/10/2013,"77 Rathgar Road, Rathgar",Dublin,867500.0,No,Rathgar,Dublin 6,q3,70%
+04/10/2013,"8 Winton Avenue, Rathgar",Dublin,1230000.0,No,Rathgar,Dublin 6,q4,90%
+11/10/2013,"47A Orwell Park, Rathgar, Dublin 6",Dublin,828194.0,Yes,Rathgar,Dublin 6,q3,70%
+16/10/2013,"47 Rathgar Road, Dublin 6",Dublin,950000.0,No,Rathgar,Dublin 6,q3,80%
+24/10/2013,"Apartment No. 22, Woodleigh Oak, Rathgar",Dublin,275000.0,No,Rathgar,Dublin 6,q1,20%
+30/10/2013,"2 Frankfort Avenue, Rathgar, Dublin 6",Dublin,610000.0,No,Rathgar,Dublin 6,q2,50%
+31/10/2013,"84 Garville Avenue Upper, Rathgar, Dublin 6",Dublin,471000.0,No,Rathgar,Dublin 6,q2,40%
+01/11/2013,"Apt.9 Hillcrest House, 94/95 Rathgar Road",Dublin,165000.0,No,Rathgar,Dublin 6,q1,10%
+08/11/2013,"3 Meadowbank, Rathgar, Dublin 6",Dublin,395000.0,No,Rathgar,Dublin 6,q1,30%
+08/11/2013,"69 Brighton Road, Rathgar",Dublin,741000.0,No,Rathgar,Dublin 6,q3,60%
+15/11/2013,"Apt. 13  Newton Court, Eaton Brae, Orwell Road  Rathgar",Dublin,187500.0,No,Rathgar,Dublin 6,q1,10%
+22/11/2013,"40 Highfield Road, Rathgar, Dublin 6",Dublin,1565000.0,No,Rathgar,Dublin 6,q4,100%
+26/11/2013,"35 Garville Lane, Rathgar, Dublin 6",Dublin,440000.0,No,Rathgar,Dublin 6,q2,30%
+28/11/2013,"2 Rostrevor Terrace, Rathgar, Dublin 6",Dublin,1400000.0,No,Rathgar,Dublin 6,q4,90%
+29/11/2013,"57 Brighton Rd, Rathgar, Dublin 6",Dublin,1182500.0,No,Rathgar,Dublin 6,q4,80%
+16/12/2013,"27 Frankfort Ave, Rathgar, Dublin 6",Dublin,625000.0,No,Rathgar,Dublin 6,q2,50%
+17/12/2013,"65 Orwell Park, Rathgar",Dublin,2601412.0,No,Rathgar,Dublin 6,q4,100%
+19/12/2013,"45 Rathgar Ave, Dublin 6, Dublin",Dublin,700000.0,No,Rathgar,Dublin 6,q3,60%
+20/12/2013,"181 Rathgar Road, Dublin 6",Dublin,355100.0,No,Rathgar,Dublin 6,q1,20%
+20/12/2013,"3 Orwell Mews, Rathgar, Dublin 6",Dublin,330000.0,No,Rathgar,Dublin 6,q1,20%
+20/12/2013,"6 Brighton Cross, Brighton Rd, Rathgar Dublin 6",Dublin,450000.0,No,Rathgar,Dublin 6,q2,30%
+20/12/2013,"68 Brighton Rd, Rathgar, Dublin 6",Dublin,825000.0,No,Rathgar,Dublin 6,q3,70%
+23/12/2013,"173 Orwell Rd, Rathgar, Dublin 14",Dublin,800000.0,No,Rathgar,Dublin 6,q3,70%
+10/01/2014,"Annmount, Orwell Road, Rathgar",Dublin,680000.0,No,Rathgar,Dublin 6,q3,60%
+24/01/2014,"72 Meadowbank, Rathgar",Dublin,410000.0,No,Rathgar,Dublin 6,q1,30%
+31/01/2014,"6 Oak Apple Green, Rathgar, Dublin 6",Dublin,307500.0,No,Rathgar,Dublin 6,q1,20%
+03/02/2014,"23A Rostrevor Rd, Rathgar, Dublin 6",Dublin,1060000.0,No,Rathgar,Dublin 6,q4,80%
+04/02/2014,"Apt 1  Sherborne, 96/97 Rathgar Road  Rathgar, Dublin 6",Dublin,246000.0,No,Rathgar,Dublin 6,q1,10%
+06/02/2014,"13 Rostrevor Terrace, Rathgar, Dublin 6",Dublin,2485000.0,No,Rathgar,Dublin 6,q4,100%
+07/02/2014,"8 Harmac Court, Brighton Ave, Rathgar Dublin 6",Dublin,188000.0,No,Rathgar,Dublin 6,q1,10%
+18/02/2014,"23 Airfield Road, Rathgar, Dublin 6",Dublin,500001.0,Yes,Rathgar,Dublin 6,q2,40%
+18/02/2014,"24 Airfield Road, Rathgar, Dublin 6",Dublin,750001.0,Yes,Rathgar,Dublin 6,q3,60%
+18/02/2014,"25 Airfield Road, Rathgar, Dublin 6",Dublin,750001.0,Yes,Rathgar,Dublin 6,q3,60%
+28/02/2014,"60 Rathgar Rd, Dublin, Dublin",Dublin,222896.0,No,Rathgar,Dublin 6,q1,10%
+05/03/2014,"137 Rathgar Rd, Dublin 6, Dublin",Dublin,902002.0,No,Rathgar,Dublin 6,q3,70%
+06/03/2014,"45 Rathgar Rd, Rathgar, Dublin 6",Dublin,1065000.0,No,Rathgar,Dublin 6,q4,80%
+06/03/2014,"49 Orwell Park, Rathgar",Dublin,1097200.0,Yes,Rathgar,Dublin 6,q4,80%
+07/03/2014,"54C Rathgar Avenue, Rathgar",Dublin,531000.0,No,Rathgar,Dublin 6,q2,40%
+11/03/2014,"64 Rathgar Rd, Dublin 6W, Dublin",Dublin,888000.0,No,Rathgar,Dublin 6,q3,70%
+20/03/2014,"28 Oak Apple Green, Rathgar",Dublin,325000.0,No,Rathgar,Dublin 6,q1,20%
+27/03/2014,"77 Highfield Rd, Rathgar, Dublin 6",Dublin,1955000.0,No,Rathgar,Dublin 6,q4,100%
+28/03/2014,"64 Kenilworth Sq, Rathgar, Dublin 6",Dublin,725000.0,No,Rathgar,Dublin 6,q3,60%
+31/03/2014,"139 Rathgar Rd, Dublin 6, Dublin",Dublin,1150000.0,No,Rathgar,Dublin 6,q4,80%
+03/04/2014,"101 Garville Lane, Rathgar",Dublin,455000.0,No,Rathgar,Dublin 6,q2,30%
+11/04/2014,"121 Rathgar Rd, Rathgar, Dublin 6",Dublin,1020000.0,No,Rathgar,Dublin 6,q3,80%
+17/04/2014,"53 Garville Ave Upper, Rathgar, Dublin 6",Dublin,865000.0,No,Rathgar,Dublin 6,q3,70%
+24/04/2014,"34 Zion Road, Rathgar",Dublin,1605000.0,No,Rathgar,Dublin 6,q4,100%
+29/04/2014,"24 Highfield Grove, Rathgar, Dublin 6",Dublin,375000.0,No,Rathgar,Dublin 6,q1,30%
+29/04/2014,"4 Kenilworth Lane, Rathgar, Dublin 6",Dublin,450000.0,No,Rathgar,Dublin 6,q2,30%
+12/05/2014,"168 Orwell Rd, Rathgar, Dublin 14",Dublin,1010000.0,No,Rathgar,Dublin 6,q3,80%
+20/05/2014,"79 Highfield Rd, Rathgar, Dublin 6",Dublin,1800000.0,No,Rathgar,Dublin 6,q4,100%
+22/05/2014,"13 Brighton Green, Rathgar, Dublin",Dublin,375000.0,No,Rathgar,Dublin 6,q1,30%
+23/05/2014,"123 Rathgar Rd, Dublin 6, Dublin",Dublin,415000.0,No,Rathgar,Dublin 6,q2,30%
+03/06/2014,"28 Rathgar Ave, Rathgar, Dublin 6",Dublin,825000.0,No,Rathgar,Dublin 6,q3,70%
+11/06/2014,"Sunnyside, 15 Bushy Park Rd, Rathgar Dublin 6",Dublin,1621000.0,No,Rathgar,Dublin 6,q4,100%
+12/06/2014,"14 Woodleigh Ash, Highfield Rd, Rathgar Dublin 6",Dublin,223000.0,No,Rathgar,Dublin 6,q1,10%
+17/06/2014,"6 The Ramparts, Victoria Rd, Rathgar Dublin 6",Dublin,325000.0,No,Rathgar,Dublin 6,q1,20%
+23/06/2014,"189 Rathgar Road, Rathgar",Dublin,575000.0,No,Rathgar,Dublin 6,q2,50%
+23/06/2014,"190 Rathgar Rd, Dublin 6, Dublin",Dublin,675000.0,No,Rathgar,Dublin 6,q3,60%
+30/06/2014,"Ard Coilte, 77B Orwell Road, Rathgar",Dublin,1340000.0,No,Rathgar,Dublin 6,q4,90%
+01/07/2014,"56 Rathgar Rd, Rathgar, Dublin 6",Dublin,1150000.0,No,Rathgar,Dublin 6,q4,80%
+04/07/2014,"18 Wesley Road, Rathgar, Dublin 6",Dublin,665000.0,No,Rathgar,Dublin 6,q3,60%
+07/07/2014,"18 Garville Rd, Rathgar, Dublin 6",Dublin,635000.0,No,Rathgar,Dublin 6,q2,50%
+10/07/2014,"48 Garville Ave, Rathgar, Dublin 6",Dublin,625000.0,No,Rathgar,Dublin 6,q2,50%
+15/07/2014,"47 Orwell Park, Rathgar",Dublin,1321585.9,Yes,Rathgar,Dublin 6,q4,90%
+16/07/2014,"80 Frankfort Ave, Rathgar, Dublin 6",Dublin,900000.0,No,Rathgar,Dublin 6,q3,70%
+18/07/2014,"Riversdale House, 75 Bushy Park Rd, Rathgar Dublin 6",Dublin,2150000.0,No,Rathgar,Dublin 6,q4,100%
+29/07/2014,"28 Garville Ave, Rathgar, Dublin 6",Dublin,1625000.0,No,Rathgar,Dublin 6,q4,100%
+31/07/2014,"40 Frankfort Avenue, Rathgar",Dublin,732500.0,No,Rathgar,Dublin 6,q3,60%
+31/07/2014,"9 Kenilworth Square North, Rathgar, Dublin 6",Dublin,970000.0,No,Rathgar,Dublin 6,q3,80%
+01/08/2014,"33 Oaklands Dr, Rathgar, Dublin 6",Dublin,960000.0,No,Rathgar,Dublin 6,q3,80%
+08/08/2014,"8 Orwell Park Square, Rathgar",Dublin,823788.0,Yes,Rathgar,Dublin 6,q3,70%
+11/08/2014,"2 Fairfield Park, Highfield Rd, Rathgar Dublin 6",Dublin,1500000.0,No,Rathgar,Dublin 6,q4,90%
+14/08/2014,"1B Garville Rd, Rathgar, Dublin 6",Dublin,845000.0,No,Rathgar,Dublin 6,q3,70%
+15/08/2014,"Malakoff House, Rathgar Road, Rathgar",Dublin,1350000.0,No,Rathgar,Dublin 6,q4,90%
+19/08/2014,"52 Frankfort Court, Rathgar, Dublin 6",Dublin,177000.0,No,Rathgar,Dublin 6,q1,10%
+20/08/2014,"14 Orwell Park, Rathgar, Dublin 6",Dublin,3795000.0,No,Rathgar,Dublin 6,q4,100%
+20/08/2014,"29 Highfield Court, Rathgar",Dublin,193500.0,No,Rathgar,Dublin 6,q1,10%
+21/08/2014,"32 Highfield Rd, Rathgar, Dublin 6",Dublin,1525000.0,No,Rathgar,Dublin 6,q4,90%
+04/09/2014,"20 Rostrevor Rd, Rathgar, Dublin 6",Dublin,1475000.0,No,Rathgar,Dublin 6,q4,90%
+10/09/2014,"7 Orwell Park Square, Orwell Park, Rathgar",Dublin,927200.0,Yes,Rathgar,Dublin 6,q3,70%
+10/09/2014,"Thornville, 13 Zion Road, Rathgar",Dublin,1375000.0,No,Rathgar,Dublin 6,q4,90%
+11/09/2014,"18 Highfield Road, Rathgar",Dublin,3300000.0,No,Rathgar,Dublin 6,q4,100%
+12/09/2014,"8 The Ramparts, Victoria Rd, Rathgar Dublin 6",Dublin,337500.0,No,Rathgar,Dublin 6,q1,20%
+12/09/2014,"No. 6, Orwell Park Square, Rathgar",Dublin,850220.0,Yes,Rathgar,Dublin 6,q3,70%
+16/09/2014,"25 Brighton Rd, Rathgar, Dublin 6",Dublin,1200000.0,No,Rathgar,Dublin 6,q4,90%
+16/09/2014,"3 Brighton Mews, Harrison Row, Rathgar Dublin 6",Dublin,520000.0,No,Rathgar,Dublin 6,q2,40%
+19/09/2014,"22 Thorncliffe Park, Orwell Rd, Rathgar Dublin 14",Dublin,800000.0,No,Rathgar,Dublin 6,q3,70%
+19/09/2014,"5 Orwell Park Square, Rathgar",Dublin,850221.0,Yes,Rathgar,Dublin 6,q3,70%
+19/09/2014,"9  Orwell Park Square, Rathgar, Dublin 6",Dublin,828194.0,Yes,Rathgar,Dublin 6,q3,70%
+02/10/2014,"54 Stratford Haven, Rathgar, Dublin 6",Dublin,390000.0,No,Rathgar,Dublin 6,q1,30%
+03/10/2014,"4A Belleville Avenue, Rathgar, Dublin 6",Dublin,495000.0,No,Rathgar,Dublin 6,q2,40%
+16/10/2014,"96 Bushy Park Rd, Rathgar, Dublin 6",Dublin,1260000.0,No,Rathgar,Dublin 6,q4,90%
+16/10/2014,"No.3 Orwell Park Square, Rathgar, Dublin 6",Dublin,965000.0,Yes,Rathgar,Dublin 6,q3,80%
+20/10/2014,"54B Rathgar Ave, Rathgar, Dublin 6",Dublin,575000.0,No,Rathgar,Dublin 6,q2,50%
+28/10/2014,"11 Harmac Court, Brighton Ave, Rathgar Dublin 6",Dublin,222500.0,No,Rathgar,Dublin 6,q1,10%
+30/10/2014,"Minerva, 33 Brighton Sq, Rathgar Dublin 6",Dublin,1600000.0,No,Rathgar,Dublin 6,q4,100%
+10/11/2014,"48 Brighton Road, Rathgar, Dublin 6",Dublin,856000.0,No,Rathgar,Dublin 6,q3,70%
+10/11/2014,"5 Belleville Ave, Rathgar, Dublin 6",Dublin,1350000.0,No,Rathgar,Dublin 6,q4,90%
+11/11/2014,"4 Orwell Park Square, Rathgar, Dublin 6",Dublin,965000.0,Yes,Rathgar,Dublin 6,q3,80%
+14/11/2014,"2 Orwell Park Square, Rathgar",Dublin,850220.0,Yes,Rathgar,Dublin 6,q3,70%
+20/11/2014,"8 Highfield Manor, Highfield Rd, Rathgar Dublin 6",Dublin,205000.0,No,Rathgar,Dublin 6,q1,10%
+28/11/2014,"3 Oaklands Crescent, Rathgar, Dublin 6",Dublin,310000.0,No,Rathgar,Dublin 6,q1,20%
+01/12/2014,"11 Laurelton, Bushy Park Rd, Rathgar Dublin 6",Dublin,720000.0,No,Rathgar,Dublin 6,q3,60%
+03/12/2014,"28 Meadowbank, Bushy Park Rd, Rathgar",Dublin,425000.0,No,Rathgar,Dublin 6,q2,30%
+04/12/2014,"12A And 12B Kenilworth Lane West, Rathgar, Dublin 6",Dublin,1050000.0,No,Rathgar,Dublin 6,q4,80%
+09/12/2014,"104 Rathgar Road, Rathgar, Dublin 6",Dublin,220000.0,No,Rathgar,Dublin 6,q1,10%
+09/12/2014,"72 Kenilworth Sq, Rathgar, Dublin 6",Dublin,1050000.0,No,Rathgar,Dublin 6,q4,80%
+11/12/2014,"1 Coulson Ave, Rathgar, Dublin 6",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+11/12/2014,"18 Woodleigh Oak, Highfield Rd, Rathgar Dublin 6",Dublin,245000.0,No,Rathgar,Dublin 6,q1,10%
+12/12/2014,"29 Oak Apple Green, Rathgar Dublin 6, Dublin",Dublin,350000.0,No,Rathgar,Dublin 6,q1,20%
+15/12/2014,"12 Orwell Park, Rathgar, Dublin 6",Dublin,1977500.0,No,Rathgar,Dublin 6,q4,100%
+19/12/2014,"16 Grosvenor Road, Rathgar",Dublin,1450000.0,No,Rathgar,Dublin 6,q4,90%
+22/12/2014,"133 Rathgar Rd, Dublin 6, Dublin",Dublin,940000.0,No,Rathgar,Dublin 6,q3,80%
+23/12/2014,"42 Rathgar Ave, Rathgar, Dublin 6",Dublin,860000.0,No,Rathgar,Dublin 6,q3,70%
+07/01/2015,"7 Brighton Ave, Rathgar, Dublin 6",Dublin,600000.0,No,Rathgar,Dublin 6,q2,50%
+08/01/2015,"2 Kenilworth Square, Rathgar, Dublin 6",Dublin,1385000.0,No,Rathgar,Dublin 6,q4,90%
+15/01/2015,"54 York Rd, Rathgar, Dublin 6",Dublin,555000.0,No,Rathgar,Dublin 6,q2,50%
+23/01/2015,"24 Garville Lane, Rathgar, Dublin 6",Dublin,850000.0,No,Rathgar,Dublin 6,q3,70%
+27/01/2015,"11 Oaklands Crescent, Rathgar",Dublin,280000.0,No,Rathgar,Dublin 6,q1,20%
+29/01/2015,"56 Thorncliffe Park, Rathgar, Dublin 6",Dublin,675000.0,No,Rathgar,Dublin 6,q3,60%
+30/01/2015,"15 Woodleigh Ash, Highfield Rd, Rathgar Dublin 6",Dublin,221000.0,No,Rathgar,Dublin 6,q1,10%
+30/01/2015,"41 Villiers Road, Rathgar, Dublin 6",Dublin,927100.0,No,Rathgar,Dublin 6,q3,70%
+06/02/2015,"1 Brighton Sq, Rathgar, Dublin 6",Dublin,1200000.0,No,Rathgar,Dublin 6,q4,90%
+12/02/2015,"4 Orwell Bank, Orwell Park, Rathgar Dublin 6",Dublin,525000.0,No,Rathgar,Dublin 6,q2,40%
+13/02/2015,"4 Orwell Gardens, Rathgar, Dublin 6",Dublin,310000.0,No,Rathgar,Dublin 6,q1,20%
+18/02/2015,"25 Garville Avenue, Rathgar",Dublin,1575000.0,No,Rathgar,Dublin 6,q4,100%
+20/02/2015,"105 Garville Lane, Rathgar, Dublin 6",Dublin,485000.0,No,Rathgar,Dublin 6,q2,40%
+20/02/2015,"20 Hillcrest, 94 95 Rathgar Rd, Rathgar Dublin 6",Dublin,252000.0,No,Rathgar,Dublin 6,q1,10%
+26/02/2015,"1 Bushy Park Gardens, Rathgar, Dublin 6",Dublin,1810000.0,No,Rathgar,Dublin 6,q4,100%
+26/02/2015,"7 Laurelton, Bushy Park Rd, Rathgar Dublin 6",Dublin,825000.0,No,Rathgar,Dublin 6,q3,70%
+27/02/2015,"28A Highfield Grove, Rathgar, Dublin 6",Dublin,615000.0,No,Rathgar,Dublin 6,q2,50%
+06/03/2015,"52 Highfield Court, Highfield Rd, Rathgar Dublin 6",Dublin,228200.0,No,Rathgar,Dublin 6,q1,10%
+11/03/2015,"Apartment 3, Orwell Lodge, Orwell Road  Rathgar",Dublin,580000.0,Yes,Rathgar,Dublin 6,q2,50%
+12/03/2015,"Apartment 4, Orwell Lodge, Rathgar",Dublin,540000.0,Yes,Rathgar,Dublin 6,q2,40%
+13/03/2015,"2 Orwell Lodge, Orwell Road, Rathgar",Dublin,444444.44,Yes,Rathgar,Dublin 6,q2,30%
+16/03/2015,"1 Orwell Park Square, Orwell Park, Rathgar",Dublin,1457200.0,Yes,Rathgar,Dublin 6,q4,90%
+16/03/2015,"2 Orwell Bank, Orwell Rd, Rathgar Dublin 6",Dublin,510000.0,No,Rathgar,Dublin 6,q2,40%
+19/03/2015,"157 Rathgar Rd, Dublin 6, Dublin",Dublin,1176000.0,No,Rathgar,Dublin 6,q4,80%
+20/03/2015,"12 Neville Road, Rathgar, Dublin 6",Dublin,1900000.0,No,Rathgar,Dublin 6,q4,100%
+27/03/2015,"8 Victoria Rd, Rathgar, Dublin 6",Dublin,1125000.0,No,Rathgar,Dublin 6,q4,80%
+31/03/2015,"11A And 11B Kenilworth Lane, Rathgar, Dublin 6",Dublin,900000.0,No,Rathgar,Dublin 6,q3,70%
+31/03/2015,"20 Garville Court, Garville Rd, Rathgar Dublin 6",Dublin,200000.0,No,Rathgar,Dublin 6,q1,10%
+01/04/2015,"The Mews, Fairfield Park, Rathgar Dublin 6",Dublin,470000.0,No,Rathgar,Dublin 6,q2,40%
+27/04/2015,"16 Sherbourne, 96/97 Rathgar Road, Dublin 6",Dublin,395000.0,No,Rathgar,Dublin 6,q1,30%
+28/04/2015,"61 Brighton Sq, Rathgar, Dublin 6",Dublin,775000.0,No,Rathgar,Dublin 6,q3,60%
+30/04/2015,"25 Stratford Haven, Orwell Rd, Rathgar Dublin 6",Dublin,430000.0,No,Rathgar,Dublin 6,q2,30%
+30/04/2015,"Riversdale, 75A Bush Park Road, Rathgar",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+06/05/2015,"The Barn -  Riversdale Ave, Bushy Park Rd, Rathgar",Dublin,1000000.0,No,Rathgar,Dublin 6,q3,80%
+14/05/2015,"40 Frankfort Ave, Rathgar, Dublin 6",Dublin,775000.0,No,Rathgar,Dublin 6,q3,60%
+26/05/2015,"1 Orwell Lodge, Rathgar, Dublin 6",Dublin,594714.0,Yes,Rathgar,Dublin 6,q2,50%
+04/06/2015,"32 Rathgar Ave, Rathgar, Dublin 6",Dublin,900000.0,No,Rathgar,Dublin 6,q3,70%
+08/06/2015,"39 Highfield Court, Highfield Rd, Rathgar Dublin 6",Dublin,210000.0,No,Rathgar,Dublin 6,q1,10%
+12/06/2015,"3 Garville Mews, Rathgar, Dublin 6",Dublin,485000.0,No,Rathgar,Dublin 6,q2,40%
+19/06/2015,"5 Mayfield, Zion Road, Rathgar",Dublin,1400000.0,No,Rathgar,Dublin 6,q4,90%
+08/07/2015,"5 Orwell Lodge, Orwell Road, Rathgar",Dublin,883000.0,Yes,Rathgar,Dublin 6,q3,70%
+14/07/2015,"168 Orwell Road, Rathgar, Dublin 6",Dublin,1065000.0,No,Rathgar,Dublin 6,q4,80%
+16/07/2015,"68 Brighton Sq, Rathgar, Dublin 6",Dublin,965000.0,No,Rathgar,Dublin 6,q3,80%
+17/07/2015,"51 Stratford Haven, Orwell Rd, Rathgar Dublin 6",Dublin,390000.0,No,Rathgar,Dublin 6,q1,30%
+17/07/2015,"6  Orwell Woods, Rathgar, Dublin 6",Dublin,500000.0,No,Rathgar,Dublin 6,q2,40%
+24/07/2015,"23 Coulson Ave, Rathgar, Dublin 6",Dublin,687500.0,No,Rathgar,Dublin 6,q3,60%
+31/07/2015,"26 Frankfourt Court, Rathgar Ave, Dublin 6",Dublin,225000.0,No,Rathgar,Dublin 6,q1,10%
+31/07/2015,"75 Brighton Rd, Rathgar, Dublin 6",Dublin,815000.0,No,Rathgar,Dublin 6,q3,70%
+10/08/2015,"7 Wesley Rd, Rathgar, Dublin 6",Dublin,677000.0,No,Rathgar,Dublin 6,q3,60%
+01/09/2015,"1 Garville Terrace, Rathgar, Dublin 6",Dublin,770000.0,No,Rathgar,Dublin 6,q3,60%
+09/09/2015,"47 Templemore Ave, Rathgar, Dublin 6",Dublin,740000.0,No,Rathgar,Dublin 6,q3,60%
+18/09/2015,"1 Roland Court, 188 Rathgar Road, Dublin 6",Dublin,390000.0,No,Rathgar,Dublin 6,q1,30%
+30/09/2015,"15 Meadowbank, Bushy Park Rd, Rathgar Dublin 6",Dublin,460000.0,No,Rathgar,Dublin 6,q2,30%
+13/10/2015,"34 Brighton Rd, Rathgar, Dublin 6",Dublin,1130000.0,No,Rathgar,Dublin 6,q4,80%
+14/10/2015,"76 Frankfort Ave, Rathgar, Dublin 6",Dublin,709150.0,No,Rathgar,Dublin 6,q3,60%
+16/10/2015,"18 Hillcrest House, Rathgar Rd, Rathgar Dublin 6",Dublin,250000.0,No,Rathgar,Dublin 6,q1,10%
+23/10/2015,"40 Brighton Sq, Rathgar, Dublin 6",Dublin,825000.0,No,Rathgar,Dublin 6,q3,70%
+23/10/2015,"40 Villiers Road, Rathgar",Dublin,975000.0,No,Rathgar,Dublin 6,q3,80%
+28/10/2015,"6 Frankfort Court, Rathgar Ave, Rathgar Dublin 6",Dublin,307000.0,No,Rathgar,Dublin 6,q1,20%
+30/10/2015,"18 Orwell Bank, Rathgar, Dublin 6",Dublin,500000.0,No,Rathgar,Dublin 6,q2,40%
+30/10/2015,"3 Orwell Gardens, Orwell Rd, Rathgar Dublin 6",Dublin,369000.0,No,Rathgar,Dublin 6,q1,30%
+06/11/2015,"42 Orwell Woods, Orwell Rd, Rathgar Dublin 6",Dublin,430000.0,No,Rathgar,Dublin 6,q2,30%
+06/11/2015,"6 Auburn Villas, Rathgar Rd, Dublin 6",Dublin,983000.0,No,Rathgar,Dublin 6,q3,80%
+10/11/2015,"56 Orwell Rd, Rathgar, Dublin 6",Dublin,641760.0,No,Rathgar,Dublin 6,q2,50%
+16/11/2015,"11 Victoria Road, Rathgar, Dublin 6",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+16/11/2015,"17 Rostrevor Rd, Rathgar, Dublin 6",Dublin,2225000.0,No,Rathgar,Dublin 6,q4,100%
+27/11/2015,"3 The Ramparts, Victoria Road, Rathgar",Dublin,237000.0,No,Rathgar,Dublin 6,q1,10%
+09/12/2015,"58 Stratford Haven, Orwell Road, Rathgar",Dublin,345000.0,No,Rathgar,Dublin 6,q1,20%
+10/12/2015,"24 Orwell Woods, Rathgar, Dublin 6",Dublin,440000.0,No,Rathgar,Dublin 6,q2,30%
+11/12/2015,"10 Winton Avenue, Rathgar, Dublin 6",Dublin,1625000.0,No,Rathgar,Dublin 6,q4,100%
+11/12/2015,"Apartment 4 Leicester Court, Leicester Avenue, Rathgar",Dublin,215000.0,No,Rathgar,Dublin 6,q1,10%
+15/12/2015,"43 Orwell Gardens, Rathgar, Dublin 14",Dublin,402000.0,No,Rathgar,Dublin 6,q1,30%
+17/12/2015,"46 Meadowbank, Rathgar, Dublin 6",Dublin,495000.0,No,Rathgar,Dublin 6,q2,40%
+18/12/2015,"20 Kenilworth Rd, Rathgar, Dublin 6",Dublin,1224550.0,No,Rathgar,Dublin 6,q4,90%
+18/12/2015,"26 Spire View Lane, Rathgar, Dublin 6",Dublin,515000.0,No,Rathgar,Dublin 6,q2,40%
+18/12/2015,"54 Garville Ave Upper, Rathgar, Dublin 6",Dublin,995000.0,No,Rathgar,Dublin 6,q3,80%
+21/12/2015,"5 Garville Mews, Rathgar Rd, Rathgar Dublin 6",Dublin,340000.0,No,Rathgar,Dublin 6,q1,20%
+22/12/2015,"1 Garville Drive, Rathgar, Dublin 6",Dublin,435000.0,No,Rathgar,Dublin 6,q2,30%
+22/12/2015,"119 Rathgar Road, Rathgar",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+06/01/2016,"1 Auburn Villas, Rathgar Rd, Dublin 6",Dublin,940000.0,No,Rathgar,Dublin 6,q3,80%
+12/01/2016,"9 Villiers Rd, Rathgar, Dublin 6",Dublin,1087000.0,No,Rathgar,Dublin 6,q4,80%
+28/01/2016,"2 Maxwell Road, Rathgar, Dublin 6",Dublin,802000.0,No,Rathgar,Dublin 6,q3,70%
+08/02/2016,"13 Neville Road, Rathgar, Dublin 6",Dublin,930000.0,No,Rathgar,Dublin 6,q3,70%
+12/02/2016,"71 Frankfort Ave, Rathgar, Dublin 6",Dublin,790000.0,No,Rathgar,Dublin 6,q3,60%
+15/02/2016,"9 Oaklands Crescent, Rathgar",Dublin,294000.0,No,Rathgar,Dublin 6,q1,20%
+19/02/2016,"11 Rostrevor Terrace, Rathgar, Dublin 6",Dublin,2527000.0,No,Rathgar,Dublin 6,q4,100%
+25/02/2016,"46 Kenilworth Square, Rathgar",Dublin,10000.0,No,Rathgar,Dublin 6,q1,10%
+25/02/2016,"46 Kenilworth Square, Rathgar",Dublin,865000.0,No,Rathgar,Dublin 6,q3,70%
+11/03/2016,"21A Highfield Grove, Rathgar, Dublin 6",Dublin,650000.0,No,Rathgar,Dublin 6,q2,50%
+30/03/2016,"13 Orwell Woods, Rathgar, Dublin 6",Dublin,499990.0,No,Rathgar,Dublin 6,q2,40%
+05/04/2016,"5 Coulson Ave, Rathgar, Dublin 6",Dublin,600000.0,No,Rathgar,Dublin 6,q2,50%
+05/04/2016,"6 Dartry Rd, Rathgar, Dublin 6",Dublin,1300000.0,No,Rathgar,Dublin 6,q4,90%
+20/04/2016,"Apt 1 154, Rathgar Rd, Dublin 6",Dublin,130000.0,No,Rathgar,Dublin 6,q1,10%
+22/04/2016,"17 Stratfordhaven, Or Well Rd, Rathgar Dublin 6",Dublin,385000.0,No,Rathgar,Dublin 6,q1,30%
+29/04/2016,"4 Orwell Woods, Orwell Park, Rathgar Dublin 6",Dublin,565000.0,No,Rathgar,Dublin 6,q2,50%
+04/05/2016,"27 Rathgar Rd, Dublin 6, Dublin",Dublin,709000.0,No,Rathgar,Dublin 6,q3,60%
+12/05/2016,"11 Meadowbank, Bushy Park Rd, Rathgar Dublin 6",Dublin,510000.0,No,Rathgar,Dublin 6,q2,40%
+13/05/2016,"9 Eaton Brae, Orwell Rd, Rathgar Dublin 14",Dublin,145429.36,No,Rathgar,Dublin 6,q1,10%
+17/05/2016,"62 Bushy Park Rd, Rathgar, Dublin 6",Dublin,775000.0,No,Rathgar,Dublin 6,q3,60%
+24/05/2016,"8A Spireview Lane, Rathgar, Dublin 6",Dublin,410000.0,No,Rathgar,Dublin 6,q1,30%
+27/05/2016,"4 Orwell Gardens, Rathgar, Dublin 14",Dublin,508000.0,No,Rathgar,Dublin 6,q2,40%
+30/05/2016,"18 Brighton Sq, Rathgar, Dublin 6",Dublin,970000.0,No,Rathgar,Dublin 6,q3,80%
+01/06/2016,"77 Brighton Square, Rathgar, Dublin 6",Dublin,600000.0,No,Rathgar,Dublin 6,q2,50%
+13/06/2016,"16 Highfield Grove, Rathgar, Dublin 6",Dublin,365000.0,No,Rathgar,Dublin 6,q1,30%
+27/06/2016,"53 Frankfort Ave, Rathgar, Dublin 6",Dublin,910000.0,No,Rathgar,Dublin 6,q3,70%
+30/06/2016,"50 Grosvenor Rd, Rathgar, Dublin 6",Dublin,1685000.0,No,Rathgar,Dublin 6,q4,100%
+14/07/2016,"8 Fairfield Park, Rathgar, Dublin 6",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+22/07/2016,"19 Green Park, Orwell Road, Rathgar",Dublin,2850000.0,No,Rathgar,Dublin 6,q4,100%
+26/07/2016,"Apt 17, Hillcrest House, Rathgar Rd Dublin 6",Dublin,245000.0,No,Rathgar,Dublin 6,q1,10%
+28/07/2016,"24 Kenilworth Lane West, Rathgar, Dublin 6",Dublin,562000.0,No,Rathgar,Dublin 6,q2,50%
+29/07/2016,"15 Brighton Green, Rathgar, Dublin 6",Dublin,455000.0,No,Rathgar,Dublin 6,q2,30%
+19/08/2016,"1 Villiers Rd, Rathgar, Dublin 6",Dublin,1315000.0,No,Rathgar,Dublin 6,q4,90%
+19/08/2016,"5 Bushy Park Gardens, Rathgar, Dublin 6",Dublin,1500000.0,No,Rathgar,Dublin 6,q4,90%
+26/08/2016,"Apartment 2 Madison House, 112 Rathgar Road, Rathgar",Dublin,226000.0,No,Rathgar,Dublin 6,q1,10%
+01/09/2016,"85 Rathgar Rd, Rathgar, Dublin 6",Dublin,1200000.0,No,Rathgar,Dublin 6,q4,90%
+02/09/2016,"9 Garville Drive, Off Garville Avenue, Rathgar",Dublin,565000.0,Yes,Rathgar,Dublin 6,q2,50%
+07/09/2016,"23 Highfield Court, Highfield Rd, Rathgar Dublin 6",Dublin,221500.0,No,Rathgar,Dublin 6,q1,10%
+08/09/2016,"9 Glenayr Rd, Rathgar, Dublin 6",Dublin,855000.0,No,Rathgar,Dublin 6,q3,70%
+16/09/2016,"78 Meadowbank, Bushy Park Rd, Rathgar Dublin 6",Dublin,637000.0,No,Rathgar,Dublin 6,q2,50%
+19/09/2016,"16 Airfield Rd, Rathgar, Dublin 6",Dublin,660000.0,No,Rathgar,Dublin 6,q3,60%
+20/09/2016,"53 Brighton Road, Rathgar, Dublin 6",Dublin,1160000.0,No,Rathgar,Dublin 6,q4,80%
+21/09/2016,"47 Brighton Sq, Rathgar, Dublin 6",Dublin,1012500.0,No,Rathgar,Dublin 6,q3,80%
+26/09/2016,"4 Frankfort Court, Rathgar Ave, Dublin 6",Dublin,351000.0,No,Rathgar,Dublin 6,q1,20%
+26/09/2016,"62 Orwell Gardens, Rathgar, Dublin 14",Dublin,380000.0,No,Rathgar,Dublin 6,q1,30%
+29/09/2016,"21 Brighton Gardens, Rathgar, Dublin 6",Dublin,560000.0,No,Rathgar,Dublin 6,q2,50%
+29/09/2016,"32 Rathgar Road, Rathgar, Dublin 6",Dublin,2000000.0,No,Rathgar,Dublin 6,q4,100%
+30/09/2016,"15 Zion Rd, Rathgar, Dublin 6",Dublin,1145000.0,No,Rathgar,Dublin 6,q4,80%
+30/09/2016,"17 Villiers Rd, Rathgar, Dublin 6",Dublin,1375000.0,No,Rathgar,Dublin 6,q4,90%
+21/10/2016,"52 Brighton Square, 52 Brighton Square, Rathgar",Dublin,675000.0,No,Rathgar,Dublin 6,q3,60%
+28/10/2016,"14 Coulson Ave, Rathgar, Dublin 6",Dublin,725000.0,No,Rathgar,Dublin 6,q3,60%
+28/10/2016,"9 Woodleigh Oak, Highfield Rd, Rathgar",Dublin,215000.0,No,Rathgar,Dublin 6,q1,10%
+04/11/2016,"15 Victoria Rd, Rathgar, Dublin 6",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+17/11/2016,"81 Cremorne, Greenmount Rd, Rathgar",Dublin,345000.0,No,Rathgar,Dublin 6,q1,20%
+21/11/2016,"12A Auburn Villas, Rathgar, Dublin",Dublin,280000.0,No,Rathgar,Dublin 6,q1,20%
+25/11/2016,"50 Rathgar Ave, Rathgar, Dublin 6",Dublin,436000.0,No,Rathgar,Dublin 6,q2,30%
+06/12/2016,"13 Bushy Park Rd, Rathgar, Dublin 6",Dublin,1700000.0,No,Rathgar,Dublin 6,q4,100%
+09/12/2016,"13 Harrison Row, Rathgar, Dublin 6",Dublin,620000.0,No,Rathgar,Dublin 6,q2,50%
+09/12/2016,"29 Templemore Ave, Rathgar, Dublin 6",Dublin,800000.0,No,Rathgar,Dublin 6,q3,70%
+14/12/2016,"19 Garville Lane, Rathgar, Dublin 6",Dublin,1200000.0,No,Rathgar,Dublin 6,q4,90%
+14/12/2016,"48 Kenilworth Sq, Rathgar, Dublin 6",Dublin,1600000.0,No,Rathgar,Dublin 6,q4,100%
+16/12/2016,"4 Orwell Park Gardens, Rathgar, Dublin 6",Dublin,774175.0,Yes,Rathgar,Dublin 6,q3,60%
+21/12/2016,"1 Orwell Park Gardens, Rathgar, Dublin 6",Dublin,837000.0,Yes,Rathgar,Dublin 6,q3,70%
+22/12/2016,"2 The Ramparts, Victoria Rd, Rathgar Dublin 6",Dublin,352000.0,No,Rathgar,Dublin 6,q1,20%
+22/12/2016,"74 Garville Ave, Rathgar",Dublin,795000.0,No,Rathgar,Dublin 6,q3,70%
+23/12/2016,"3 Orwell Park Gardens, Rathgar",Dublin,788546.0,Yes,Rathgar,Dublin 6,q3,60%
+04/01/2017,"23 Oaklands Dr, Rathgar, Dublin 6",Dublin,915000.0,No,Rathgar,Dublin 6,q3,70%
+06/01/2017,"32 Oaklands Terrace, Rathgar, Dublin 6",Dublin,647000.0,No,Rathgar,Dublin 6,q2,50%
+18/01/2017,"2  Orwell Park Gardens, Rathgar, Dublin 6",Dublin,895000.0,Yes,Rathgar,Dublin 6,q3,70%
+23/01/2017,"1 Garville Mews, Rathgar, Dublin 6",Dublin,607500.0,No,Rathgar,Dublin 6,q2,50%
+26/01/2017,"2 Orwell Mews, Rathgar, Dublin 6",Dublin,437000.0,No,Rathgar,Dublin 6,q2,30%
+27/01/2017,"St Annes, 20 Templemore Ave, Rathgar Dublin 6",Dublin,830000.0,No,Rathgar,Dublin 6,q3,70%
+30/01/2017,"30 Brighton Sq, Rathgar, Dublin 6",Dublin,1015000.0,No,Rathgar,Dublin 6,q3,80%
+30/01/2017,"51 Meadowbank, Bushy Park Rd, Rathgar Dublin 6",Dublin,415000.0,No,Rathgar,Dublin 6,q2,30%
+01/02/2017,"12 Bushy Park Rd, Rathgar, Dublin 6",Dublin,1870000.0,No,Rathgar,Dublin 6,q4,100%
+02/02/2017,"18 Kenilworth Sq, Rathgar, Dublin 6",Dublin,2350000.0,No,Rathgar,Dublin 6,q4,100%
+10/02/2017,"2 Highfield Manor, Rathgar, Dublin 6",Dublin,350000.0,No,Rathgar,Dublin 6,q1,20%
+10/02/2017,"Back Basement Flat, 68 Rathgar Road, Rathgar",Dublin,650000.0,No,Rathgar,Dublin 6,q2,50%
+10/02/2017,"Front Basement Flat, 69 Rathgar Road, Rathgar",Dublin,750000.0,No,Rathgar,Dublin 6,q3,60%
+13/02/2017,"68 Orwell Rd, Rathgar, Dublin 6",Dublin,2350000.0,No,Rathgar,Dublin 6,q4,100%
+15/02/2017,"Malakoff Villas, 184 Rathgar Rd, Dublin City",Dublin,1850000.0,No,Rathgar,Dublin 6,q4,100%
+17/02/2017,"31 Rathgar Ave, Dublin 6, Dublin",Dublin,695000.0,No,Rathgar,Dublin 6,q3,60%
+17/02/2017,"4 Rathgar Court, Dublin 6, Dublin",Dublin,330316.0,No,Rathgar,Dublin 6,q1,20%
+22/02/2017,"The Lodge Marianella, 75 Orwell Rd, Rathgar Dublin 6",Dublin,250000.0,No,Rathgar,Dublin 6,q1,10%
+02/03/2017,"41 Kenilworth Sq, Rathgar, Dublin 6",Dublin,1380000.0,No,Rathgar,Dublin 6,q4,90%
+10/03/2017,"14 Fairfield Park, Rathgar, Dublin 6",Dublin,1030000.0,No,Rathgar,Dublin 6,q3,80%
+14/03/2017,"54 Highfield Rd, Rathgar, Dublin 6",Dublin,1290000.0,No,Rathgar,Dublin 6,q4,90%
+16/03/2017,"3 Victoria Village, Rathgar, Dublin 6",Dublin,580000.0,No,Rathgar,Dublin 6,q2,50%
+22/03/2017,"31 Orwell Road, Rathgar, Dublin 6",Dublin,395000.0,No,Rathgar,Dublin 6,q1,30%
+27/03/2017,"Flat 1, 64 Rathgar Ave, Rathgar",Dublin,890000.0,No,Rathgar,Dublin 6,q3,70%
+31/03/2017,"12 Leicester Ave, Rathgar, Dublin 6",Dublin,882000.0,No,Rathgar,Dublin 6,q3,70%
+03/04/2017,"44/ 45 Highfield Road, And Orwell Road, Rathgar",Dublin,3200820.0,No,Rathgar,Dublin 6,q4,100%
+06/04/2017,"29 Highfield Rd, Rathgar, Dublin 6",Dublin,3400000.0,No,Rathgar,Dublin 6,q4,100%
+07/04/2017,"7 Garville Drive, Garville Avenue, Rathgar",Dublin,933920.0,Yes,Rathgar,Dublin 6,q3,70%
+07/04/2017,"Apt 3 Hillcrest, Rathgar Rd, Hillcrest",Dublin,213000.0,No,Rathgar,Dublin 6,q1,10%
+11/04/2017,"18 Rathgar Ave, Dublin 6, Dublin",Dublin,925000.0,No,Rathgar,Dublin 6,q3,70%
+13/04/2017,"13 Woodleigh Oak, Highfield Rd, Rathgar Dublin 6",Dublin,290000.0,No,Rathgar,Dublin 6,q1,20%
+13/04/2017,"20 Oaklands Dr, Rathgar, Dublin 6",Dublin,760000.0,No,Rathgar,Dublin 6,q3,60%
+19/04/2017,"Apt 1, 57 Rathgar Road, Rathgar",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+27/04/2017,"57 Garville Ave, Rathgar, Dublin 6",Dublin,1085000.0,No,Rathgar,Dublin 6,q4,80%
+08/05/2017,"Apt 12, 30 Kenilworth Sq West, Rathgar",Dublin,335000.0,No,Rathgar,Dublin 6,q1,20%
+10/05/2017,"12 Orwell Woods, Orwell Park, Rathgar Dublin 6",Dublin,497000.0,No,Rathgar,Dublin 6,q2,40%
+19/05/2017,"Apt 7, 20 Higfield Rd, Rathgar Dublin 6",Dublin,230000.0,No,Rathgar,Dublin 6,q1,10%
+25/05/2017,"9 Glenayr Rd, Rathgar, Dublin 6",Dublin,890000.0,No,Rathgar,Dublin 6,q3,70%
+26/05/2017,"4 Oaklands Crescent, Highfield Rd, Rathgar Dublin 6",Dublin,398600.0,No,Rathgar,Dublin 6,q1,30%
+26/05/2017,"67 Brighton Rd, Unit 1, Rathgar",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+30/05/2017,"15 Garville Mews, Rathgar, Dublin 6",Dublin,475000.0,No,Rathgar,Dublin 6,q2,40%
+02/06/2017,"2 Winton Mews, Winton Ave, Rathgar Dublin 6",Dublin,525000.0,No,Rathgar,Dublin 6,q2,40%
+07/06/2017,"10 Garville Drive, Rathgar, Dublin  6",Dublin,1013215.8,Yes,Rathgar,Dublin 6,q3,80%
+15/06/2017,"54 Orwell Gardens, Rathgar, Dublin 6",Dublin,410000.0,No,Rathgar,Dublin 6,q1,30%
+16/06/2017,"32 Grosvenor Rd, Rathgar, Dublin 6",Dublin,1230000.0,No,Rathgar,Dublin 6,q4,90%
+20/06/2017,"118 Rathgar Rd, Rathgar, Dublin 6",Dublin,1220000.0,No,Rathgar,Dublin 6,q4,90%
+23/06/2017,"125 Rathgar Rd, Rathgar, Dublin 6",Dublin,2150000.0,No,Rathgar,Dublin 6,q4,100%
+23/06/2017,"Flat 1, 87 Rathgar Road, Rathgar",Dublin,875000.0,No,Rathgar,Dublin 6,q3,70%
+30/06/2017,"54A Rathgar Ave, Rathgar, Dublin 6",Dublin,655000.0,No,Rathgar,Dublin 6,q2,50%
+06/07/2017,"39 Brighton Road, Rathgar, Dublin 6",Dublin,1275000.0,No,Rathgar,Dublin 6,q4,90%
+07/07/2017,"7 Stratford Haven, Rathgar, Dublin 6",Dublin,395507.0,No,Rathgar,Dublin 6,q1,30%
+11/07/2017,"15 Wesley Rd, Rathgar, Dublin 6",Dublin,605000.0,No,Rathgar,Dublin 6,q2,50%
+13/07/2017,"35 Villiers Road, Rathgar, Dublin 6",Dublin,965000.0,No,Rathgar,Dublin 6,q3,80%
+27/07/2017,"3 Frankfort Court, Rathgar Ave, Rathgar Dublin 6",Dublin,400000.0,No,Rathgar,Dublin 6,q1,30%
+28/07/2017,"3 Brighton Green, Rathgar, Dublin",Dublin,510000.0,No,Rathgar,Dublin 6,q2,40%
+28/07/2017,"32 Orwell Park, Rathgar, Dublin 6",Dublin,2350000.0,No,Rathgar,Dublin 6,q4,100%
+31/07/2017,"50 Rathgar Rd, Rathgar, Dublin 6",Dublin,1000000.0,No,Rathgar,Dublin 6,q3,80%
+01/08/2017,"6 Spire View Lane, Rathgar, Dublin",Dublin,530000.0,No,Rathgar,Dublin 6,q2,40%
+01/08/2017,"Minerva, 33 Brighton Sq, Rathgar Dublin 6",Dublin,1250000.0,No,Rathgar,Dublin 6,q4,90%
+02/08/2017,"17 Victoria Rd, Rathgar, Dublin 6",Dublin,1265000.0,No,Rathgar,Dublin 6,q4,90%
+03/08/2017,"18 Orwell Woods, Rathgar, Dublin 6",Dublin,525000.0,No,Rathgar,Dublin 6,q2,40%
+08/08/2017,"68 Grosvenor Rd, Rathgar, Dublin",Dublin,1650000.0,No,Rathgar,Dublin 6,q4,100%
+09/08/2017,"23 Stratford Haven, Orwell Rd, Rathgar Dublin 6",Dublin,470000.0,No,Rathgar,Dublin 6,q2,40%
+15/08/2017,"45 Garville Ave Upper, Rathgar, Dublin 6",Dublin,1555000.0,No,Rathgar,Dublin 6,q4,100%
+22/08/2017,"31 Brighton Gardens, Rathgar, Dublin 6",Dublin,681000.0,No,Rathgar,Dublin 6,q3,60%
+22/08/2017,"6 Garville Drive, Rathgar",Dublin,947136.56,Yes,Rathgar,Dublin 6,q3,80%
+25/08/2017,"4 The Ramparts, Victoria Rd, Rathgar Dublin 6",Dublin,358000.0,No,Rathgar,Dublin 6,q1,20%
+28/08/2017,"18 Brighton Gardens, Rathgar, Dublin 6",Dublin,525000.0,No,Rathgar,Dublin 6,q2,40%
+31/08/2017,"13 Laurelton, Rathgar, Dublin 6",Dublin,840000.0,No,Rathgar,Dublin 6,q3,70%
+01/09/2017,"11 Garville Drive, Garville Avenue, Rathgar",Dublin,796296.3,Yes,Rathgar,Dublin 6,q3,70%
+01/09/2017,"4 Frankfort Ave, Rathgar, Dublin 6",Dublin,1230442.0,No,Rathgar,Dublin 6,q4,90%
+06/09/2017,"57 Orwell Park, Rathgar, Dublin 6",Dublin,2400000.0,No,Rathgar,Dublin 6,q4,100%
+07/09/2017,"1 Winton Ave, Rathgar, Dublin 6",Dublin,1500000.0,No,Rathgar,Dublin 6,q4,90%
+15/09/2017,"35 Kenilworth Sq West, Rathgar, Dublin 6",Dublin,1080000.0,No,Rathgar,Dublin 6,q4,80%
+18/09/2017,"12 Victoria Village, Rathgar, Dublin 6",Dublin,295000.0,No,Rathgar,Dublin 6,q1,20%
+21/09/2017,"33 Orwell Woods, Rathgar, Dublin 6",Dublin,505000.0,No,Rathgar,Dublin 6,q2,40%
+27/09/2017,"63 Orwell Road, Rathgar, Dublin 6",Dublin,1525000.0,No,Rathgar,Dublin 6,q4,90%
+28/09/2017,"66 Brighton Rd, Rathgar, Dublin",Dublin,1525000.0,No,Rathgar,Dublin 6,q4,90%
+02/10/2017,"103A/B Rathgar Road, Dublin 6",Dublin,300000.0,No,Rathgar,Dublin 6,q1,20%
+03/10/2017,"23 Frankfort Ave, Rathgar, Dublin 6",Dublin,1385000.0,No,Rathgar,Dublin 6,q4,90%
+05/10/2017,"48 Garville Lane, Rathgar, Dublin 6",Dublin,744494.0,Yes,Rathgar,Dublin 6,q3,60%
+11/10/2017,"Apt 1, 92 Rathgar Rd, Dublin 6",Dublin,1170000.0,No,Rathgar,Dublin 6,q4,80%
+12/10/2017,"104 Orwell Rd, Rathgar, Dublin 6",Dublin,975000.0,No,Rathgar,Dublin 6,q3,80%
+12/10/2017,"17A Kenilworth Lane West, Rathgar, Dublin 6",Dublin,720000.0,No,Rathgar,Dublin 6,q3,60%
+12/10/2017,"50 Garville Lane, Rathgar, Dublin 6",Dublin,744494.0,Yes,Rathgar,Dublin 6,q3,60%
+19/10/2017,"19 Coulson Ave, Rathgar, Dublin 6",Dublin,895000.0,No,Rathgar,Dublin 6,q3,70%
+27/10/2017,"54 Kenilworth Sq South, Rathgar, Dublin 6",Dublin,2400000.0,No,Rathgar,Dublin 6,q4,100%
+01/11/2017,"36 Rathgar Ave, Rathgar, Dublin 16",Dublin,1410000.0,No,Rathgar,Dublin 6,q4,90%
+06/11/2017,"1 Orwell Gate  Block A, Marianella, Rathgar",Dublin,622466.95,Yes,Rathgar,Dublin 6,q2,50%
+13/11/2017,"46 Frankfort Court, Rathgar Ave, Rathgar Dublin 6",Dublin,258000.0,No,Rathgar,Dublin 6,q1,10%
+15/11/2017,"17 Orwell Gate, Marianella, Rathgar",Dublin,352422.9,Yes,Rathgar,Dublin 6,q1,20%
+17/11/2017,"Apartment 2 Orwell Gate, Block A Marianella, Rathgar",Dublin,616740.08,Yes,Rathgar,Dublin 6,q2,50%
+28/11/2017,"44 Stratford Haven, Orwell Road, Rathgar",Dublin,455000.0,No,Rathgar,Dublin 6,q2,30%
+30/11/2017,"166 Rathgar Rd, Rathgar, Dublin 6",Dublin,1200000.0,No,Rathgar,Dublin 6,q4,90%
+04/12/2017,"Apartment 21, Orwell Gate  Block A, Marianella  Rathgar",Dublin,515418.5,Yes,Rathgar,Dublin 6,q2,40%
+05/12/2017,"Unit 11 Orwell Gate, Block A Marianella, Rathgar",Dublin,690895.0,Yes,Rathgar,Dublin 6,q3,60%
+08/12/2017,"13 Wesley Rd, Rathgar, Dublin 6",Dublin,845000.0,No,Rathgar,Dublin 6,q3,70%
+08/12/2017,"Apartment No. 50 Orwell Gate, Block A  Marianella  Rathgar",Dublin,461232.0,Yes,Rathgar,Dublin 6,q2,30%
+12/12/2017,"7 Garville Drive, Rathgar, Dublin 6",Dublin,175287.0,No,Rathgar,Dublin 6,q1,10%
+13/12/2017,"5 Orwell Gate, Marianella, Rathgar",Dublin,688600.0,Yes,Rathgar,Dublin 6,q3,60%
+13/12/2017,"7 Orwell Gate, Marianella, Rathgar",Dublin,704900.0,Yes,Rathgar,Dublin 6,q3,60%
+14/12/2017,"1 Fairfield Park, Rathgar, Dublin 6",Dublin,1715000.0,No,Rathgar,Dublin 6,q4,100%
+14/12/2017,"12 The Avenue, Marianella, Rathgar",Dublin,1387665.19,Yes,Rathgar,Dublin 6,q4,90%
+14/12/2017,"43 Orwell Gate, Marianella, Rathgar",Dublin,480176.0,Yes,Rathgar,Dublin 6,q2,40%
+15/12/2017,"28A Garville Lane, Rathgar, Dublin 6",Dublin,565000.0,No,Rathgar,Dublin 6,q2,50%
+15/12/2017,"51 Frankfort Court, Rathgar Ave, Dublin 6",Dublin,280000.0,No,Rathgar,Dublin 6,q1,20%
+15/12/2017,"Apartment 30, Marianella, Rathgar",Dublin,461233.48,Yes,Rathgar,Dublin 6,q2,40%
+15/12/2017,"Apt 52  Orwell Gate  Block A, Marianella, Rathgar",Dublin,506608.0,Yes,Rathgar,Dublin 6,q2,40%
+18/12/2017,"12 Garville Drive, Garville Avenue, Rathgar",Dublin,1175000.0,Yes,Rathgar,Dublin 6,q4,80%
+18/12/2017,"Apt 1  59 Rathgar Avenue, Rathgar, Dublin 6",Dublin,854000.0,No,Rathgar,Dublin 6,q3,70%
+20/12/2017,"128 Rathgar Road, Rathgar",Dublin,1908220.0,Yes,Rathgar,Dublin 6,q4,100%
+20/12/2017,"20 Wesley Rd, Rathgar, Dublin 6",Dublin,680000.0,No,Rathgar,Dublin 6,q3,60%
+20/12/2017,"57 Orwell Gate, Marianella, Rathgar",Dublin,612334.0,Yes,Rathgar,Dublin 6,q2,50%
+20/12/2017,"82 Highfield Rd, Rathgar, Dublin 6",Dublin,2000000.0,No,Rathgar,Dublin 6,q4,100%
+21/12/2017,"10  Orwell Park Gardens, Rathgar, Dublin 6",Dublin,969163.0,Yes,Rathgar,Dublin 6,q3,80%
+21/12/2017,"Apartment 35 Orwell Gate, Marianella, Rathgar",Dublin,524229.0,Yes,Rathgar,Dublin 6,q2,40%
+10/01/2018,"45 Orwell Gate, Marianella, Rathgar",Dublin,533039.64,Yes,Rathgar,Dublin 6,q2,40%
+12/01/2018,"2 Green Park, Orwell Rd, Rathgar Dublin 14",Dublin,1650000.0,No,Rathgar,Dublin 6,q4,100%
+18/01/2018,"1 Wesley Rd, Rathgar, Dublin 6",Dublin,722000.0,No,Rathgar,Dublin 6,q3,60%
+19/01/2018,"3 Roland Court, Rathgar Rd, Dublin 6",Dublin,476000.0,No,Rathgar,Dublin 6,q2,40%
+22/01/2018,"59 Stratford Haven, Rathgar, Dublin 6",Dublin,340000.0,No,Rathgar,Dublin 6,q1,20%
+24/01/2018,"46 Villiers Rd, Rathgar, Dublin 6",Dublin,1425000.0,No,Rathgar,Dublin 6,q4,90%
+29/01/2018,"5 Orwell Bank, Rathgar, Dublin 6",Dublin,700000.0,No,Rathgar,Dublin 6,q3,60%
+30/01/2018,"26 Orwell Gate, Marianella, Rathgar",Dublin,418502.0,Yes,Rathgar,Dublin 6,q2,30%
+30/01/2018,"66 Orwell Gate, Block A  Marianella, Rathgar",Dublin,522907.48,Yes,Rathgar,Dublin 6,q2,40%
+30/01/2018,"7 Highfield Manor, Highfield Rd, Rathgar Dublin 6",Dublin,375000.0,No,Rathgar,Dublin 6,q1,30%
+02/02/2018,"29 Brighton Rd, Rathgar, Dublin 6",Dublin,1350000.0,No,Rathgar,Dublin 6,q4,90%
+14/02/2018,"7 Fairfield Park, Rathgar, Dublin 6",Dublin,1265000.0,No,Rathgar,Dublin 6,q4,90%
+16/02/2018,"8 Orwell Park Gardens, Rathgar, Dublin6",Dublin,969163.0,Yes,Rathgar,Dublin 6,q3,80%
+28/02/2018,"55 Garville Ave Upper, Rathgar, Dublin 6",Dublin,945000.0,No,Rathgar,Dublin 6,q3,80%
+28/02/2018,"56 Orwell Park, Rathgar, Dublin 6",Dublin,2515000.0,No,Rathgar,Dublin 6,q4,100%
+01/03/2018,"Apt 26 Hillcourt, 30 Highfield Rd, Rathgar Dublin 6",Dublin,325000.0,No,Rathgar,Dublin 6,q1,20%
+06/03/2018,"8 Brighton Gardens, Rathgar, Dublin 6",Dublin,539000.0,No,Rathgar,Dublin 6,q2,40%
+07/03/2018,"34 Orwell Gate, Marianella, Rathgar",Dublin,537444.92,Yes,Rathgar,Dublin 6,q2,40%
+09/03/2018,"7 Brighton Green, Rathgar, Dublin 6",Dublin,557000.0,No,Rathgar,Dublin 6,q2,50%
+13/03/2018,"Apartment 2, Sherbourne, 96/97 Rathgar Road",Dublin,350000.0,No,Rathgar,Dublin 6,q1,20%
+14/03/2018,"10 Garville Ave, Rathgar, Dublin",Dublin,325000.0,No,Rathgar,Dublin 6,q1,20%
+15/03/2018,"65 Orwell Gate  Block A, Marianella, Rathgar",Dublin,660792.95,Yes,Rathgar,Dublin 6,q3,60%
+15/03/2018,"Apt. 29 Orwell Gate, Marianella, Rathgar",Dublin,414096.0,Yes,Rathgar,Dublin 6,q2,30%
+16/03/2018,"16 Vernon Grove, Rathgar, Dublin 6",Dublin,1025000.0,No,Rathgar,Dublin 6,q3,80%
+16/03/2018,"2 Brighton Ave, Rathgar, Dublin 6",Dublin,700000.0,No,Rathgar,Dublin 6,q3,60%
+16/03/2018,"Apartment 8 Orwell Place, Block B Marianella, Rathgar",Dublin,652863.43,Yes,Rathgar,Dublin 6,q2,50%
+21/03/2018,"4 Orwell Place  Block B, Marianella, Rathgar",Dublin,621145.0,Yes,Rathgar,Dublin 6,q2,50%
+23/03/2018,"18 Parkside Crescent, Marianella, Rathgar",Dublin,361234.0,Yes,Rathgar,Dublin 6,q1,20%
+23/03/2018,"66 Frankfurt Ave, Rathgar, Dublin 6",Dublin,970000.0,No,Rathgar,Dublin 6,q3,80%
+23/03/2018,"The Paddocks, 59 Bushy Park Rd  Rathgar, Dublin 6",Dublin,2500000.0,No,Rathgar,Dublin 6,q4,100%
+27/03/2018,"19 Zion Rd, Rathgar, Dublin 6",Dublin,2050000.0,No,Rathgar,Dublin 6,q4,100%
+27/03/2018,"29 Orwell Place, Marianella, Rathgar",Dublin,502230.0,Yes,Rathgar,Dublin 6,q2,40%
+27/03/2018,"48A Orwell Park, Rathgar, Dublin 6",Dublin,1525000.0,No,Rathgar,Dublin 6,q4,90%
+28/03/2018,"5 Orwell Place, Marianella, Rathgar",Dublin,621145.0,Yes,Rathgar,Dublin 6,q2,50%
+29/03/2018,"28 Victoria Rd, Rathgar, Dublin 6",Dublin,1200000.0,No,Rathgar,Dublin 6,q4,90%
+29/03/2018,"3 Orwell Place, Marianella, Rathgar",Dublin,462555.06,Yes,Rathgar,Dublin 6,q2,40%
+29/03/2018,"9 Orwell Bank, Orwell Park, Rathgar Dublin 6",Dublin,550000.0,No,Rathgar,Dublin 6,q2,50%
+04/04/2018,"4 Woodleigh Oak, Highfield Rd, Rathgar Dublin 6",Dublin,268500.0,No,Rathgar,Dublin 6,q1,10%
+06/04/2018,"18 Orwell Place, Marianella, Rathgar",Dublin,496270.0,Yes,Rathgar,Dublin 6,q2,40%
+06/04/2018,"5 Garville Drive, Garville Avenue, Rathgar",Dublin,1048500.0,Yes,Rathgar,Dublin 6,q4,80%
+09/04/2018,"24 Orwell Place, Marianella, Rathgar",Dublin,638766.51,Yes,Rathgar,Dublin 6,q2,50%
+10/04/2018,"21 Orwell Place, Marianella, Rathgar",Dublin,528634.35,Yes,Rathgar,Dublin 6,q2,40%
+10/04/2018,"6 Fairfield Park, Rathgar, Dublin 6",Dublin,1375000.0,No,Rathgar,Dublin 6,q4,90%
+10/04/2018,"8 Orwell Gate, Marianella, Rathgar",Dublin,766519.0,Yes,Rathgar,Dublin 6,q3,60%
+11/04/2018,"Apartment 36 Block B, Marianella, Rathgar",Dublin,514538.0,Yes,Rathgar,Dublin 6,q2,40%
+12/04/2018,"39 Orwell Gate, Rathgar, Dublin 6",Dublin,484581.49,Yes,Rathgar,Dublin 6,q2,40%
+13/04/2018,"25 Orwell Place, Marianella, Rathgar",Dublin,436123.34,Yes,Rathgar,Dublin 6,q2,30%
+13/04/2018,"37 Orwell Place, Marianella, Rathgar",Dublin,520282.0,Yes,Rathgar,Dublin 6,q2,40%
+17/04/2018,"17 Orwell Place  Marianella, Rathgar, Dublin 6",Dublin,488986.77,Yes,Rathgar,Dublin 6,q2,40%
+17/04/2018,"Apartment 15 Orwell Place, Block B Marianella, Rathgar",Dublin,453744.49,Yes,Rathgar,Dublin 6,q2,30%
+19/04/2018,"Apartment 26 Orwell Place, Block B Marianella, Rathgar",Dublin,449339.07,Yes,Rathgar,Dublin 6,q2,30%
+25/04/2018,"1 Orwell Place  Marianella, Orwell Road, Rathgar",Dublin,682819.0,Yes,Rathgar,Dublin 6,q3,60%
+27/04/2018,"1 Orwell Park, Rathgar, Dublin 6",Dublin,1940000.0,No,Rathgar,Dublin 6,q4,100%
+27/04/2018,"6 Garville Rd, Rathgar, Dublin 6",Dublin,1925000.0,No,Rathgar,Dublin 6,q4,100%
+01/05/2018,"38 Orwell Place  Block B, Marianella, Rathgar",Dublin,536300.0,Yes,Rathgar,Dublin 6,q2,40%
+01/05/2018,"88 Kenilworth Sq, Rathgar, Dublin 6",Dublin,1280000.0,No,Rathgar,Dublin 6,q4,90%
+01/05/2018,"Apts 1-8, 74 Frankfort Avenue, Rathgar",Dublin,1500000.0,No,Rathgar,Dublin 6,q4,90%
+04/05/2018,"9 Orwell Park Gardens, Orwell Park, Rathgar",Dublin,969163.0,Yes,Rathgar,Dublin 6,q3,80%
+10/05/2018,"Apt. No. 7 Orwell Place, Block B  Marianella, Rathgar",Dublin,647573.39,Yes,Rathgar,Dublin 6,q2,50%
+11/05/2018,"6 Victoria Villas, Rathgar, Dublin 6",Dublin,525000.0,No,Rathgar,Dublin 6,q2,40%
+11/05/2018,"Unit 20 Orwell Place, Marianella, Rathgar",Dublin,506607.0,Yes,Rathgar,Dublin 6,q2,40%
+14/05/2018,"33 Orwell Place, Marianella, Rathgar",Dublin,638765.0,Yes,Rathgar,Dublin 6,q2,50%
+14/05/2018,"7 Orwell Gardens, Rathgar, Dublin 14",Dublin,557000.0,No,Rathgar,Dublin 6,q2,50%
+17/05/2018,"110Meadowbank, Rathgar, Dublin 6",Dublin,690000.0,No,Rathgar,Dublin 6,q3,60%
+18/05/2018,"35 Orwell Place, Marianella, Rathgar",Dublin,483986.0,Yes,Rathgar,Dublin 6,q2,40%
+22/05/2018,"32 Orwell Place, Orwell Woods, Rathgar",Dublin,546255.51,Yes,Rathgar,Dublin 6,q2,50%
+23/05/2018,"8 Garville Drive, Rathgar, Dublin 6",Dublin,1035242.29,Yes,Rathgar,Dublin 6,q3,80%
+25/05/2018,"24 Airfield Road, Rathgar, Dublin 6",Dublin,760000.0,No,Rathgar,Dublin 6,q3,60%
+29/05/2018,"49 Garville Lane, Rathgar, Dublin 6",Dublin,522500.0,No,Rathgar,Dublin 6,q2,40%
+01/06/2018,"3 Highfield Grove, Rathgar, Dublin 6",Dublin,360000.0,No,Rathgar,Dublin 6,q1,20%
+01/06/2018,"Apt 1 Orwell Hall Block C, Marianella, Rathgar",Dublin,775331.0,Yes,Rathgar,Dublin 6,q3,60%
+14/06/2018,"40 Frankfort Ave, Rathgar, Dublin 6",Dublin,1050000.0,No,Rathgar,Dublin 6,q4,80%
+14/06/2018,"86 Rathgar Rd, Rathgar, Dublin 6",Dublin,1185000.0,No,Rathgar,Dublin 6,q4,90%
+15/06/2018,"25 Frankfort Court, Rathgar Ave, Dublin 6",Dublin,245000.0,No,Rathgar,Dublin 6,q1,10%
+19/06/2018,"39 Orwell Place, Marianella, Rathgar",Dublin,533039.0,Yes,Rathgar,Dublin 6,q2,40%
+20/06/2018,"25 Orwell Gate, Marianella, Rathgar",Dublin,713656.38,Yes,Rathgar,Dublin 6,q3,60%
+20/06/2018,"Apt 3 Orwell Hall Block C, Marianella, Rathgar",Dublin,484582.0,Yes,Rathgar,Dublin 6,q2,40%
+22/06/2018,"118 Orwell Rd, Rathgar, Dublin 6",Dublin,400000.0,No,Rathgar,Dublin 6,q1,30%
+22/06/2018,"49 Orwell Place  Block B, Marianella  Rathgar  Dublin 6, Dublin",Dublin,580000.0,Yes,Rathgar,Dublin 6,q2,50%
+22/06/2018,"8 The Avenue, Marianella, Rathgar",Dublin,1321586.0,Yes,Rathgar,Dublin 6,q4,90%
+22/06/2018,"Apt 1, 93 Rathgar Road, Rathgar",Dublin,1387500.0,No,Rathgar,Dublin 6,q4,90%
+25/06/2018,"16 Highfield Grove, Rathgar, Dublin 6",Dublin,475000.0,No,Rathgar,Dublin 6,q2,40%
+26/06/2018,"10 Orwell Hall, Marianella, Rathgar",Dublin,837000.0,Yes,Rathgar,Dublin 6,q3,70%
+27/06/2018,"Unit 7 Orwell Hall, Marianella, Rathgar",Dublin,810572.0,Yes,Rathgar,Dublin 6,q3,70%
+28/06/2018,"Apartment 2 Orwell Hall, Block C Marianella, Rathgar",Dublin,506607.92,Yes,Rathgar,Dublin 6,q2,40%
+28/06/2018,"Apt 45 Orwell Place, Block B Marianella, Rathgar",Dublin,484582.0,No,Rathgar,Dublin 6,q2,40%
+29/06/2018,"13 Orwell Place, Marianella, Rathgar",Dublin,1255507.0,Yes,Rathgar,Dublin 6,q4,90%
+29/06/2018,"17 Orwell Hall, Block C  Marianella, Rathgar",Dublin,572686.0,Yes,Rathgar,Dublin 6,q2,50%
+29/06/2018,"3 The Avenue, Marianella, Rathgar",Dublin,1321585.0,Yes,Rathgar,Dublin 6,q4,90%
+02/07/2018,"20 Orwell Hall Block C, Marianella, Rathgar",Dublin,590766.0,Yes,Rathgar,Dublin 6,q2,50%
+02/07/2018,"66 Brighton Sq, Rathgar, Dublin 6",Dublin,1240000.0,No,Rathgar,Dublin 6,q4,90%
+03/07/2018,"35 Highfield Rd, Rathgar, Dublin 6",Dublin,1202000.0,No,Rathgar,Dublin 6,q4,90%
+04/07/2018,"9 The Avenue, Marianella, Rathgar",Dublin,1382603.52,Yes,Rathgar,Dublin 6,q4,90%
+05/07/2018,"19 Orwell Hall, Marianella, Rathgar",Dublin,519824.0,Yes,Rathgar,Dublin 6,q2,40%
+05/07/2018,"47 Orwell Place, Block B  Marianella, Rathgar",Dublin,466959.0,Yes,Rathgar,Dublin 6,q2,40%
+12/07/2018,"13 Spireview Lane, Rathgar, Dublin 6",Dublin,580000.0,No,Rathgar,Dublin 6,q2,50%
+12/07/2018,"32 Kenilworth Square, Rathgar",Dublin,2700000.0,No,Rathgar,Dublin 6,q4,100%
+13/07/2018,"55 Hillcourt, Highfield Rd, Rathgar Dublin 6",Dublin,267500.0,No,Rathgar,Dublin 6,q1,10%
+13/07/2018,"58 Orwell Rd, Rathgar, Dublin 6",Dublin,655000.0,No,Rathgar,Dublin 6,q2,50%
+19/07/2018,"5 Villiers Rd, Rathgar, Dublin 6",Dublin,1227890.0,No,Rathgar,Dublin 6,q4,90%
+19/07/2018,"Apt 1, 30 Kenilworth Square, Rathgar",Dublin,310000.0,No,Rathgar,Dublin 6,q1,20%
+20/07/2018,"31 Oaklands Drive, Rathgar, Dublin 6",Dublin,1400000.0,No,Rathgar,Dublin 6,q4,90%
+27/07/2018,"10 Oaklands Dr, Rathgar, Dublin 6",Dublin,975000.0,No,Rathgar,Dublin 6,q3,80%
+31/07/2018,"Apartments 1 To 18, Sycamore Court, 75 Rathgar Road",Dublin,6025000.0,No,Rathgar,Dublin 6,q4,100%
+02/08/2018,"22 Green Park, Orwell Rd, Rathgar Dublin 14",Dublin,1800000.0,No,Rathgar,Dublin 6,q4,100%
+10/08/2018,"24 Orwell Park, Rathgar, Dublin 6",Dublin,3025000.0,No,Rathgar,Dublin 6,q4,100%
+10/08/2018,"3 Orwell Park, Rathgar, Dublin 6",Dublin,1300000.0,No,Rathgar,Dublin 6,q4,90%
+13/08/2018,"Apartment 15  Orwell Hall, Block C  Marianella, Orwell Road  Rathgar",Dublin,396475.77,Yes,Rathgar,Dublin 6,q1,30%
+15/08/2018,"28 Orwell Hall, Marianella, Rathgar",Dublin,506607.92,Yes,Rathgar,Dublin 6,q2,40%
+16/08/2018,"11 Kenilworth Square, Rathgar, Dublin 6",Dublin,930000.0,No,Rathgar,Dublin 6,q3,70%
+16/08/2018,"Apt. No. 40 Orwell Hall  Block C, Marianela  Rathgar",Dublin,502202.0,Yes,Rathgar,Dublin 6,q2,40%
+17/08/2018,"29 Rostrevor Rd, Rathgar, Dublin 6",Dublin,1250000.0,No,Rathgar,Dublin 6,q4,90%
+20/08/2018,"33  Orwell Hall, Marinella, Rathgar",Dublin,537444.0,Yes,Rathgar,Dublin 6,q2,40%
+23/08/2018,"32 Orwell Hall, Marinella, Rathgar",Dublin,356827.0,Yes,Rathgar,Dublin 6,q1,20%
+28/08/2018,"11 The Avenue, Marianella, Rathgar",Dublin,1382603.52,Yes,Rathgar,Dublin 6,q4,90%
+28/08/2018,"50 Orwell Hall, Marianella, Rathgar",Dublin,361232.0,Yes,Rathgar,Dublin 6,q1,20%
+28/08/2018,"Unit 35 Orwell Hall, Marianella, Rathgar",Dublin,361234.0,Yes,Rathgar,Dublin 6,q1,30%
+30/08/2018,"27 Orwell Hall  Block C, Marianella  Rathgar",Dublin,528634.0,Yes,Rathgar,Dublin 6,q2,40%
+31/08/2018,"4 Rathgar Villas, Rathgar, Dublin 5",Dublin,540000.0,No,Rathgar,Dublin 6,q2,40%
+04/09/2018,"1 Frankfort Ave, Rathgar, Dublin",Dublin,1700000.0,No,Rathgar,Dublin 6,q4,100%
+04/09/2018,"31 Orwell Hall, Marianella, Rathgar",Dublin,555524.0,Yes,Rathgar,Dublin 6,q2,50%
+05/09/2018,"25 Leinster Rd West, Rathgar, Dublin 6",Dublin,1040000.0,No,Rathgar,Dublin 6,q3,80%
+06/09/2018,"6 Brighton Cross, Brighton Rd, Rathgar Dublin 6",Dublin,700000.0,No,Rathgar,Dublin 6,q3,60%
+10/09/2018,"Apartment No. 30 Orwell Hall, Marianella, Rathgar",Dublin,508850.0,Yes,Rathgar,Dublin 6,q2,40%
+13/09/2018,"10 Orwell Park, Rathgar, Dublin 6",Dublin,2350000.0,No,Rathgar,Dublin 6,q4,100%
+13/09/2018,"32 Brighton Sq, Rathgar, Dublin 6",Dublin,1370000.0,No,Rathgar,Dublin 6,q4,90%
+18/09/2018,"25 Airfield Road, Rathgar, Dublin 6",Dublin,760000.0,No,Rathgar,Dublin 6,q3,60%
+18/09/2018,"Apt 5 Sherborne Apts, 96 97 Rathgar Rd, Rathgar Dublin 6",Dublin,410000.0,No,Rathgar,Dublin 6,q1,30%
+19/09/2018,"1 Mews, Orwell Gate, Rathgar",Dublin,799252.0,Yes,Rathgar,Dublin 6,q3,70%
+19/09/2018,"24 Orwell Hall, Marianella, Rathgar",Dublin,638766.51,Yes,Rathgar,Dublin 6,q2,50%
+20/09/2018,"9 Orwell Hall, Marianella, Rathgar",Dublin,572686.0,Yes,Rathgar,Dublin 6,q2,50%
+28/09/2018,"8 Oakapple Green, Highfield Rd, Rathgar Dublin 6",Dublin,460000.0,No,Rathgar,Dublin 6,q2,30%
+01/10/2018,"29 Orwell Hall, Orwell Road, Rathgar",Dublin,348017.0,Yes,Rathgar,Dublin 6,q1,20%
+05/10/2018,"Apt.36 Orwell Hall, Block C  Marianella, Rathgar",Dublin,546255.5,Yes,Rathgar,Dublin 6,q2,50%
+08/10/2018,"14 Wesley Rd, Rathgar, Dublin 6",Dublin,800000.0,No,Rathgar,Dublin 6,q3,70%
+09/10/2018,"1 Waverley Terrace, Kenilworth Sq North, Rathgar Dublin 6",Dublin,1070000.0,No,Rathgar,Dublin 6,q4,80%
+12/10/2018,"45 Orwell Hall, Block C, Marianella  Rathgar",Dublin,511014.0,Yes,Rathgar,Dublin 6,q2,40%
+15/10/2018,"10 Madison House, Rathgar Rd, Dublin 6",Dublin,275000.0,No,Rathgar,Dublin 6,q1,20%
+16/10/2018,"51 Brighton Rd, Rathgar Dublin 6, Dublin",Dublin,1300000.0,No,Rathgar,Dublin 6,q4,90%
+25/10/2018,"51 Stratford Haven, Orwell Rd, Rathgar Dublin 6",Dublin,445000.0,No,Rathgar,Dublin 6,q2,30%
+26/10/2018,"22 Orwell Hall, Block C  Marianella, Rathgar",Dublin,572687.0,Yes,Rathgar,Dublin 6,q2,50%
+26/10/2018,"67 Brighton Rd, Rathgar",Dublin,2699236.0,No,Rathgar,Dublin 6,q4,100%
+26/10/2018,"69 Rathgar Road, Rathgar",Dublin,2057494.0,No,Rathgar,Dublin 6,q4,100%
+26/10/2018,"8 Vernon Grove, Rathgar, Dublin 6",Dublin,1000000.0,No,Rathgar,Dublin 6,q3,80%
+26/10/2018,"8 Vernon Grove, Rathgar, Dublin 6",Dublin,1090000.0,No,Rathgar,Dublin 6,q4,80%
+26/10/2018,"87 Rathgar Road, Rathgar",Dublin,2253445.0,No,Rathgar,Dublin 6,q4,100%
+31/10/2018,"72 Highfield Rd, Rathgar, Dublin 6",Dublin,2250000.0,No,Rathgar,Dublin 6,q4,100%
+31/10/2018,"Apt1, 6 Grosvenor Place, Rathgar",Dublin,707143.0,No,Rathgar,Dublin 6,q3,60%
+31/10/2018,"Garranstan, 46 Rathgar Ave, Rathgar Dublin 6",Dublin,1225000.0,No,Rathgar,Dublin 6,q4,90%
+06/11/2018,"23 Orwell Place, Marianella, Rathgar",Dublin,627125.0,Yes,Rathgar,Dublin 6,q2,50%
+06/11/2018,"3 Oaklands Dr, Rathgar, Dublin 6",Dublin,1330000.0,No,Rathgar,Dublin 6,q4,90%
+15/11/2018,"42 Orwell Hall, Block C Marianella, Rathgar",Dublin,528634.36,Yes,Rathgar,Dublin 6,q2,40%
+15/11/2018,"59 Frankfort Ave, Rathgar, Dublin 6",Dublin,735000.0,No,Rathgar,Dublin 6,q3,60%
+16/11/2018,"25 Orwell Hall, Marianella, Rathgar",Dublin,550000.0,Yes,Rathgar,Dublin 6,q2,50%
+20/11/2018,"13 Hillcourt, Highfield Rd, Rathgar Dublin 6",Dublin,295000.0,No,Rathgar,Dublin 6,q1,20%
+21/11/2018,"49 Hillcourt, Highfield Rd, Rathgar Dublin 6",Dublin,385000.0,No,Rathgar,Dublin 6,q1,30%
+23/11/2018,"38 Stratford Haven, Rathgar, Dublin 6",Dublin,462500.0,No,Rathgar,Dublin 6,q2,40%
+23/11/2018,"6 Orwell Park Gardens, Rathgar",Dublin,837004.0,Yes,Rathgar,Dublin 6,q3,70%
+23/11/2018,"8 Orwell Bank, Orwell Park, Rathgar Dublin 6",Dublin,495000.0,No,Rathgar,Dublin 6,q2,40%
+26/11/2018,"2 Garville Terrace, Rathgar Rd, Dublin 6",Dublin,882000.0,No,Rathgar,Dublin 6,q3,70%
+27/11/2018,"95 Meadowbank, Rathgar, Dublin 6",Dublin,495000.0,No,Rathgar,Dublin 6,q2,40%
+30/11/2018,"26 Villiers Rd, Rathgar, Dublin 6",Dublin,1020000.0,No,Rathgar,Dublin 6,q3,80%
+30/11/2018,"7 Orwell Park Gardens, Orwell Park, Rathgar",Dublin,881058.0,Yes,Rathgar,Dublin 6,q3,70%
+30/11/2018,"Ardlathan, 68 Frankfort Ave, Rathgar",Dublin,920000.0,No,Rathgar,Dublin 6,q3,70%
+30/11/2018,"Malakoff Villas, 184 Rathgar Rd, Dublin City",Dublin,1900000.0,No,Rathgar,Dublin 6,q4,100%
+04/12/2018,"16 Orwell Hall, Marianella, Rathgar",Dublin,484582.0,Yes,Rathgar,Dublin 6,q2,40%
+06/12/2018,"14 Orwell Gate, Rathgar, Dublin 6",Dublin,1497798.0,Yes,Rathgar,Dublin 6,q4,90%
+14/12/2018,"70 Orwell Rd, Rathgar, Dublin 6",Dublin,2150000.0,No,Rathgar,Dublin 6,q4,100%
+19/12/2018,"34 Orwell Hall, Block C Marianella, Rathgar",Dublin,555065.0,Yes,Rathgar,Dublin 6,q2,50%
+19/12/2018,"Apt 1, 16 Brighton Avenue, Rathgar",Dublin,630000.0,No,Rathgar,Dublin 6,q2,50%
+21/12/2018,"2 Ard Na Greine, Orwell Rd, Rathgar Dublin 6",Dublin,280000.0,No,Rathgar,Dublin 6,q1,20%
+21/12/2018,"Tower Mews, Tower Ave, Rathgar Dublin 6",Dublin,735000.0,No,Rathgar,Dublin 6,q3,60%
+11/01/2019,"17 Frankfort Ave, Rathgar, Dublin 6",Dublin,951000.0,No,Rathgar,Dublin 6,q3,80%
+16/01/2019,"40 Templemore Avenue, Rathgar, Dublin 6",Dublin,832000.0,No,Rathgar,Dublin 6,q3,70%
+18/01/2019,"32 Villiers Rd, Rathgar, Dublin 6",Dublin,1430000.0,No,Rathgar,Dublin 6,q4,90%
+18/01/2019,"66 Meadowbank, Off Bushy Park Rd, Rathgar Dublin 6",Dublin,503000.0,No,Rathgar,Dublin 6,q2,40%
+18/01/2019,"84 Rathgar Road, Rathgar, Dublin 6",Dublin,980000.0,No,Rathgar,Dublin 6,q3,80%
+21/01/2019,"73 Highfield Rd, Rathgar, Dublin 6",Dublin,1580000.0,No,Rathgar,Dublin 6,q4,100%
+24/01/2019,"16 Rathgar Villas, Rathgar, Dublin",Dublin,585000.0,No,Rathgar,Dublin 6,q2,50%
+24/01/2019,"66 Orwell Road, Rathgar, Dublin 6",Dublin,2625000.0,No,Rathgar,Dublin 6,q4,100%
+07/02/2019,"49A Orwell Park, Rathgar, Dublin 6",Dublin,1500000.0,No,Rathgar,Dublin 6,q4,90%
+08/02/2019,"29 Frankfort Ave, Rathgar, Dublin 6",Dublin,850000.0,No,Rathgar,Dublin 6,q3,70%
+01/03/2019,"Cintra, 14A Garville Rd, Rathgar Dublin 6",Dublin,1550000.0,No,Rathgar,Dublin 6,q4,90%
+05/03/2019,"108 Rathgar Rd, Apt 4, Rathgar Dublin 6",Dublin,382500.0,No,Rathgar,Dublin 6,q1,30%
+05/03/2019,"Apt 1, 108 Rathgar Rd, Rathgar Dublin 6",Dublin,382500.0,No,Rathgar,Dublin 6,q1,30%
+05/03/2019,"Apt 2, 108 Rathgar Road, Dublin 6",Dublin,382500.0,No,Rathgar,Dublin 6,q1,30%
+05/03/2019,"Apt 3, 108 Rathgar Rd, Rathgar Dublin 6",Dublin,382500.0,No,Rathgar,Dublin 6,q1,30%
+25/03/2019,"17 Brighton Avenue, Rathgar, Dublin 6",Dublin,755000.0,No,Rathgar,Dublin 6,q3,60%
+26/03/2019,"3 Victoria Rd, Rathgar, Dublin 6",Dublin,1262000.0,No,Rathgar,Dublin 6,q4,90%
+27/03/2019,"25 Oaklands Crescent, Rathgar, Dublin 6",Dublin,352000.0,No,Rathgar,Dublin 6,q1,20%
+29/03/2019,"10 The Avenue, Marianella  Rathgar, Dublin 6",Dublin,1409691.62,Yes,Rathgar,Dublin 6,q4,90%
+17/04/2019,"96 Orwell Rd, Rathgar, Dublin 6",Dublin,1050000.0,No,Rathgar,Dublin 6,q4,80%
+26/04/2019,"10A Kenilworth Lane East, Rathgar",Dublin,660793.0,Yes,Rathgar,Dublin 6,q3,60%
+13/05/2019,"5 Tower Ave, Rathgar, Dublin 6",Dublin,760000.0,No,Rathgar,Dublin 6,q3,60%
+28/05/2019,"Apt 1, 11 Graville Rd, Rathgar Dublin 6",Dublin,128574.0,No,Rathgar,Dublin 6,q1,10%
+28/05/2019,"Apt 2, 11 Graville Rd, Rathgar Dublin 6",Dublin,128571.0,No,Rathgar,Dublin 6,q1,10%
+28/05/2019,"Apt 3, 11 Graville Rd, Rathgar Dublin 6",Dublin,128571.0,No,Rathgar,Dublin 6,q1,10%
+28/05/2019,"Apt 4, 11 Graville Rd, Rathgar Dublin 6",Dublin,128571.0,No,Rathgar,Dublin 6,q1,10%
+28/05/2019,"Apt 5, 11 Graville Rd, Rathgar Dublin 6",Dublin,128571.0,No,Rathgar,Dublin 6,q1,10%
+28/05/2019,"Apt 6, 11 Graville Rd, Rathgar Dublin 6",Dublin,128571.0,No,Rathgar,Dublin 6,q1,10%
+28/05/2019,"Apt 7, 11 Graville Rd, Rathgar Dublin 6",Dublin,129071.0,No,Rathgar,Dublin 6,q1,10%
+30/05/2019,"116 Meadowbank, Rathgar, Dublin 6",Dublin,570000.0,No,Rathgar,Dublin 6,q2,50%
+30/05/2019,"37 Hillcourt Highfield Rd, Rathgar, Dublin 6",Dublin,80000.0,No,Rathgar,Dublin 6,q1,10%
+05/06/2019,"5 Airfield Road, Rathgar, Dublin 6",Dublin,730000.0,No,Rathgar,Dublin 6,q3,60%
+07/06/2019,"10B Kenilworth Lane East, Rathgar, Dublin 6",Dublin,643171.0,Yes,Rathgar,Dublin 6,q2,50%
+14/06/2019,"29 Coulson Avenue, Rathgar, Dublin 6",Dublin,462500.0,No,Rathgar,Dublin 6,q2,40%
+18/06/2019,"79 Rathgar Rd, Rathgar, Dublin 6",Dublin,1610000.0,No,Rathgar,Dublin 6,q4,100%
+25/06/2019,"6 Orwell Woods, Rathgar, Dublin 6",Dublin,535000.0,No,Rathgar,Dublin 6,q2,40%
+26/06/2019,"Flat 7, 68 Rathgar Road, Dublin 6",Dublin,1910000.0,No,Rathgar,Dublin 6,q4,100%
+01/07/2019,"16 Rostrevor Rd, Rathgar, Dublin 6",Dublin,1875000.0,No,Rathgar,Dublin 6,q4,100%
+03/07/2019,"68 Orwell Gate, Block A Marianella, Rathgar",Dublin,1038000.0,Yes,Rathgar,Dublin 6,q3,80%
+09/07/2019,"114 Meadowbank, Rathgar, Dublin 6",Dublin,450000.0,No,Rathgar,Dublin 6,q2,30%
+10/07/2019,"11 Bushy Park Rd, Rathgar, Dublin 6",Dublin,1937500.0,No,Rathgar,Dublin 6,q4,100%
+10/07/2019,"36 Orwell Gardens, Rathgar, Dublin 14",Dublin,536000.0,No,Rathgar,Dublin 6,q2,40%
+16/07/2019,"12 Rathgar Park, Rathgar, Dublin 6",Dublin,600000.0,No,Rathgar,Dublin 6,q2,50%
+18/07/2019,"6 Orwell Bank, Orwell Park, Rathgar",Dublin,810000.0,No,Rathgar,Dublin 6,q3,70%
+25/07/2019,"4 Maxwell House, Maxwell Rd, Rathgar Dublin 6",Dublin,330000.0,No,Rathgar,Dublin 6,q1,20%
+25/07/2019,"Fairfiled House, 3A Rathgar Ave, Rathgar",Dublin,1940000.0,No,Rathgar,Dublin 6,q4,100%
+31/07/2019,"1 Kenilworth Road, Rathgar, Dublin 6",Dublin,2400000.0,No,Rathgar,Dublin 6,q4,100%
+31/07/2019,"40 Hillcourt, Highfield Rd, Rathgar",Dublin,231500.0,No,Rathgar,Dublin 6,q1,10%
+08/08/2019,"175 Orwell Rd, Rathgar, Dublin 14",Dublin,1550000.0,No,Rathgar,Dublin 6,q4,100%
+23/08/2019,"14 Brighton Gardens, Rathgar, Dublin 6",Dublin,625000.0,No,Rathgar,Dublin 6,q2,50%
+27/08/2019,"Rhodes, Spire View Lane, Rathgar Dublin 6",Dublin,480000.0,No,Rathgar,Dublin 6,q2,40%
+28/08/2019,"22 Brighton Rd, Rathgar, Dublin 6",Dublin,1000000.0,No,Rathgar,Dublin 6,q3,80%
+30/08/2019,"17 Orwell Park, Rathgar, Dublin 6",Dublin,2280000.0,No,Rathgar,Dublin 6,q4,100%
+04/09/2019,"1 Frankfort Court, Rathgar Ave, Dublin 6",Dublin,375000.0,No,Rathgar,Dublin 6,q1,30%
+04/09/2019,"36 Orwell Road, Rathgar, Dublin 6",Dublin,550000.0,No,Rathgar,Dublin 6,q2,50%
+06/09/2019,"13 Frankfort Ave, Rathgar, Dublin 6",Dublin,1125000.0,No,Rathgar,Dublin 6,q4,80%
+06/09/2019,"25 Hillcourt, 30 Highfield Rd, Rathgar Dublin 6",Dublin,375000.0,No,Rathgar,Dublin 6,q1,30%
+12/09/2019,"Apt 20 Block B, Hillcourt, Highfield Rd Rathgar",Dublin,300000.0,No,Rathgar,Dublin 6,q1,20%
+14/09/2019,"60 Highfield Rd, Rathgar, Dublin 6",Dublin,1100000.0,No,Rathgar,Dublin 6,q4,80%
+18/09/2019,"6 The Avenue, Marianella, Rathgar",Dublin,1321586.0,Yes,Rathgar,Dublin 6,q4,90%
+24/09/2019,"4 Spire View Court, Spire View Lane, Rathgar",Dublin,475000.0,No,Rathgar,Dublin 6,q2,40%
+25/09/2019,"1 Rathgar Villas, Rathgar, Dublin",Dublin,540000.0,No,Rathgar,Dublin 6,q2,50%
+01/10/2019,"4 Hillcourt, Highfield Rd, Rathgar Dublin 6",Dublin,345000.0,No,Rathgar,Dublin 6,q1,20%
+03/10/2019,"119 Rathgar Rd, Rathgar, Dublin 6",Dublin,1300000.0,No,Rathgar,Dublin 6,q4,90%
+16/10/2019,"4 Wesley Rd, Rathgar, Dublin 6",Dublin,680000.0,No,Rathgar,Dublin 6,q3,60%
+17/10/2019,"2 Rostrevor Rd, Rathgar, Dublin 6",Dublin,1300000.0,No,Rathgar,Dublin 6,q4,90%

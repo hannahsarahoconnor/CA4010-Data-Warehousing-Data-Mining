@@ -1,0 +1,474 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+29/01/2010,"13 Seafield Crescent, Booterstown",Dublin,520000.0,No,Booterstown,Co. Dublin,q3,70%
+04/02/2010,"30 Booterstown Avenue, Booterstown",Dublin,720000.0,No,Booterstown,Co. Dublin,q4,90%
+13/04/2010,"43 Seafield Crescent, Booterstown",Dublin,435000.0,No,Booterstown,Co. Dublin,q3,60%
+27/04/2010,"13 Mccabe Villas, Booterstown",Dublin,220000.0,No,Booterstown,Co. Dublin,q1,10%
+30/04/2010,"34 Mccabe Villas, Booterstown",Dublin,235000.0,No,Booterstown,Co. Dublin,q1,20%
+28/05/2010,"Saremo  Grotto Avenue, Booterstown, Co. Dublin",Dublin,710000.0,No,Booterstown,Co. Dublin,q4,90%
+31/05/2010,"2 Grotto Place, Booterstown",Dublin,592000.0,No,Booterstown,Co. Dublin,q4,80%
+02/06/2010,"79 Trimleston Park, Booterstown",Dublin,445000.0,No,Booterstown,Co. Dublin,q3,60%
+16/06/2010,"1 Trimleston Road, Booterstown",Dublin,452000.0,No,Booterstown,Co. Dublin,q3,70%
+24/06/2010,"55 Mccabe Villas, Booterstown",Dublin,398500.0,No,Booterstown,Co. Dublin,q2,50%
+02/07/2010,"3 Cherbury Court, Booterstown Avenue",Dublin,250000.0,No,Booterstown,Co. Dublin,q1,20%
+12/07/2010,"5 Cherbury Mews, Booterstown Avenue",Dublin,370000.0,No,Booterstown,Co. Dublin,q2,50%
+14/07/2010,"17 Beech Grove, Booterstown Avenue, Booterstown",Dublin,215000.0,No,Booterstown,Co. Dublin,q1,10%
+16/07/2010,"23 Trimleston Avenue, Booterstown, County Dublin",Dublin,801208.0,No,Booterstown,Co. Dublin,q4,100%
+03/08/2010,"1 Rosemount Terrace, Booterstown",Dublin,392800.0,No,Booterstown,Co. Dublin,q2,50%
+13/08/2010,"18 The Lapwing, Thornwood, Booterstown Avenue",Dublin,222500.0,No,Booterstown,Co. Dublin,q1,10%
+13/08/2010,"23 Beech Grove, Booterstown",Dublin,282000.0,No,Booterstown,Co. Dublin,q2,30%
+16/08/2010,"45 Trimleston Gardens, Booterstown, Co. Dublin",Dublin,438000.0,No,Booterstown,Co. Dublin,q3,60%
+31/08/2010,"129 Booterstown Avenue, Booterstown",Dublin,720000.0,No,Booterstown,Co. Dublin,q4,90%
+08/10/2010,"14 Cherbury Court, Booterstown",Dublin,260000.0,No,Booterstown,Co. Dublin,q1,20%
+28/10/2010,"80 Trimleston Gardens, Booterstown, Co. Dublin.",Dublin,540000.0,No,Booterstown,Co. Dublin,q3,80%
+15/12/2010,"Apartment 41, Booterstown Wood, Bootrstown Avenue",Dublin,268722.47,Yes,Booterstown,Co. Dublin,q1,30%
+15/12/2010,"Apartment 42, Booterstown Wood, Booterstown Avenue",Dublin,193832.0,Yes,Booterstown,Co. Dublin,q1,10%
+15/12/2010,"Apartment 49, Booterstown Wood, Booterstown Avenue",Dublin,285000.0,Yes,Booterstown,Co. Dublin,q2,30%
+16/12/2010,"40 Glenomena Park, Booterstown",Dublin,534150.0,No,Booterstown,Co. Dublin,q3,80%
+17/12/2010,"Apartment 15, Booterstown Wood, Booterstown Avenue  Booterstown",Dublin,272475.0,Yes,Booterstown,Co. Dublin,q1,30%
+20/12/2010,"36 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,305506.0,Yes,Booterstown,Co. Dublin,q2,40%
+21/12/2010,"21 Seafield Crescent, Booterstown",Dublin,590000.0,No,Booterstown,Co. Dublin,q4,80%
+21/12/2010,"32 Booterstown Wood, Booterstown Ave  Booterstown",Dublin,321586.0,Yes,Booterstown,Co. Dublin,q2,40%
+22/12/2010,"12 Seafield Crescent, Booterstown",Dublin,475000.0,No,Booterstown,Co. Dublin,q3,70%
+23/12/2010,"27 Glenoma Park, Stillorgan Road, Booterstown",Dublin,515000.0,No,Booterstown,Co. Dublin,q3,70%
+07/01/2011,"13 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,259911.0,Yes,Booterstown,Co. Dublin,q1,20%
+18/01/2011,"Apartment 40, Booterstown Wood, Booterstown Avenue",Dublin,264317.19,Yes,Booterstown,Co. Dublin,q1,20%
+25/01/2011,"59 Trimlestown Gardens, Booterstown, Co Dublin",Dublin,800000.0,No,Booterstown,Co. Dublin,q4,100%
+28/01/2011,"35 Booterstown Wood, Booterstown Avenue",Dublin,350000.0,Yes,Booterstown,Co. Dublin,q2,40%
+01/02/2011,"14 Bellevue Court, Booterstown",Dublin,195000.0,No,Booterstown,Co. Dublin,q1,10%
+01/02/2011,"14 Bellevue Court, Booterstown",Dublin,195000.0,No,Booterstown,Co. Dublin,q1,10%
+01/02/2011,"Apt. 76 Seamount, Booterstown",Dublin,250000.0,No,Booterstown,Co. Dublin,q1,20%
+08/02/2011,"34 Booterstown Wood, Booterstown Avenue",Dublin,321586.0,Yes,Booterstown,Co. Dublin,q2,40%
+14/02/2011,"1 Booterstown Wood, Booterstown Avenue, Booterstown Co Dublin",Dublin,173554.0,Yes,Booterstown,Co. Dublin,q1,10%
+16/02/2011,"Apt 54, Booterstown Wood, Booterstown",Dublin,202643.0,Yes,Booterstown,Co. Dublin,q1,10%
+22/02/2011,"20 Trimleston Gardens, Booterstown",Dublin,225000.0,No,Booterstown,Co. Dublin,q1,10%
+25/02/2011,"53 Booterstown Woods, Booterstown",Dublin,274889.0,Yes,Booterstown,Co. Dublin,q1,30%
+25/02/2011,"Apartment 38 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,285450.0,Yes,Booterstown,Co. Dublin,q2,30%
+04/03/2011,"7 Hampton Crescent, Saint Helen'S Wood, Booterstown Avenue  Booterstown",Dublin,475000.0,No,Booterstown,Co. Dublin,q3,70%
+09/03/2011,"19 Bellevue Park, Booterstown",Dublin,440000.0,No,Booterstown,Co. Dublin,q3,60%
+10/03/2011,"Apartment 47, Booterstown Wood, Booterstown Avenue",Dublin,264317.0,Yes,Booterstown,Co. Dublin,q1,20%
+11/03/2011,"25 Fosterbrook, Booterstown",Dublin,451000.0,No,Booterstown,Co. Dublin,q3,60%
+15/03/2011,"Apartment No 26, Booterstown Wood, Booterstown",Dublin,281938.32,Yes,Booterstown,Co. Dublin,q1,30%
+21/03/2011,"29 Seafield Road, Booterstown",Dublin,380000.0,No,Booterstown,Co. Dublin,q2,50%
+22/03/2011,"Apt 31 Booterstown Wood, South Hill Park, Booterstown",Dublin,292400.0,Yes,Booterstown,Co. Dublin,q2,30%
+25/03/2011,"16 Mccabe Villas, Booterstown, County Dublin",Dublin,282000.0,No,Booterstown,Co. Dublin,q2,30%
+25/03/2011,"Apartment 3 Booterstown, Wood Booterstown Avenue",Dublin,265000.0,Yes,Booterstown,Co. Dublin,q1,30%
+25/03/2011,"Apartment 58, Booterstown Wood, Booterstown Avenue",Dublin,273127.75,Yes,Booterstown,Co. Dublin,q1,30%
+25/03/2011,"Apartment 8 Booterstown Wood, Booterstown, Co. Dublin",Dublin,264317.0,Yes,Booterstown,Co. Dublin,q1,20%
+30/03/2011,"Apartment 30, Booterstown Wood, Booterstown",Dublin,335000.0,Yes,Booterstown,Co. Dublin,q2,40%
+04/04/2011,"43 Woodbine Road, Booterstown",Dublin,570000.0,No,Booterstown,Co. Dublin,q3,80%
+11/04/2011,"Apartment 11, Booterstown Wood, Booterstown",Dublin,304000.0,Yes,Booterstown,Co. Dublin,q2,30%
+28/04/2011,"12  Booterstown Wood, Booterstown Avenue",Dublin,254625.55,Yes,Booterstown,Co. Dublin,q1,20%
+05/05/2011,"48 Trimleston Gardens, Booterstown",Dublin,425000.0,No,Booterstown,Co. Dublin,q3,60%
+06/05/2011,"12 Trimleston Road, Booterstown, Co. Dublin",Dublin,420000.0,No,Booterstown,Co. Dublin,q3,60%
+16/05/2011,"21 Booterstown Wd, Booterstown Ave",Dublin,202643.0,Yes,Booterstown,Co. Dublin,q1,10%
+24/05/2011,"6 St. Helen'S Road, Booterstown, Co. Dublin",Dublin,625000.0,No,Booterstown,Co. Dublin,q4,80%
+01/06/2011,"55 Booterstown Wood, Booterstown Ave",Dublin,264300.0,Yes,Booterstown,Co. Dublin,q1,20%
+13/06/2011,"33 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,293338.43,Yes,Booterstown,Co. Dublin,q2,30%
+21/06/2011,"Apt 61 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,198950.0,Yes,Booterstown,Co. Dublin,q1,10%
+23/06/2011,"12 Booterstown Avenue, Booterstown",Dublin,755000.0,No,Booterstown,Co. Dublin,q4,90%
+01/07/2011,"6 Grotto Place, Booterstown",Dublin,215000.0,No,Booterstown,Co. Dublin,q1,10%
+01/07/2011,"75 Booterstown Ave, Booterstown",Dublin,365000.0,No,Booterstown,Co. Dublin,q2,50%
+01/08/2011,"Apt 25 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,300000.0,Yes,Booterstown,Co. Dublin,q2,30%
+04/08/2011,"13 Turnstone, Thornwood, Booterstown",Dublin,190000.0,No,Booterstown,Co. Dublin,q1,10%
+12/08/2011,"10 Pembroke Cottages, Booterstown, County Dublin",Dublin,370000.0,No,Booterstown,Co. Dublin,q2,50%
+05/09/2011,"42 Bellevue Park Avenue, Booterstown",Dublin,358000.0,No,Booterstown,Co. Dublin,q2,50%
+14/09/2011,"15 Lapwing, Thornwood, Booterstown",Dublin,460000.0,No,Booterstown,Co. Dublin,q3,70%
+14/09/2011,"21 Heron, Thornwood, Booterstown",Dublin,280000.0,No,Booterstown,Co. Dublin,q1,30%
+14/09/2011,"22 Heron, Thornwood, Booterstown",Dublin,280000.0,No,Booterstown,Co. Dublin,q1,30%
+14/09/2011,"23 Heron, Thornwood, Booterstown",Dublin,280000.0,No,Booterstown,Co. Dublin,q1,30%
+14/09/2011,"24 Heron, Thornwood, Booterstown",Dublin,280000.0,No,Booterstown,Co. Dublin,q1,30%
+14/09/2011,"25 Heron, Thornwood, Booterstown",Dublin,290000.0,No,Booterstown,Co. Dublin,q2,30%
+14/09/2011,"27 Heron, Thornwood, Booterstown",Dublin,280000.0,No,Booterstown,Co. Dublin,q1,30%
+14/09/2011,"28 Heron, Thornwood, Booterstown",Dublin,280000.0,No,Booterstown,Co. Dublin,q1,30%
+14/09/2011,"29 Heron, Thornwood, Booterstown",Dublin,280000.0,No,Booterstown,Co. Dublin,q1,30%
+14/09/2011,"31 Heron, Thornwood, Booterstown",Dublin,475000.0,No,Booterstown,Co. Dublin,q3,70%
+14/09/2011,"33 Heron, Thornwood, Booterstown",Dublin,450000.0,No,Booterstown,Co. Dublin,q3,60%
+14/09/2011,"34 Heron, Thornwood, Booterstown",Dublin,290000.0,No,Booterstown,Co. Dublin,q2,30%
+14/09/2011,"38 Heron, Thornwood, Booterstown",Dublin,290000.0,No,Booterstown,Co. Dublin,q2,30%
+14/09/2011,"40 Turnstone, Thornwood, Booterstown",Dublin,450000.0,No,Booterstown,Co. Dublin,q3,60%
+14/09/2011,"45 Sanderling, Thornwood, Booterstown",Dublin,290000.0,No,Booterstown,Co. Dublin,q2,30%
+14/09/2011,"House 1, Thornwood, Booterstown",Dublin,495000.0,No,Booterstown,Co. Dublin,q3,70%
+14/09/2011,"House 3, Thornwood, Booterstown",Dublin,495000.0,No,Booterstown,Co. Dublin,q3,70%
+14/09/2011,"House 4, Thornwood, Booterstown",Dublin,495000.0,No,Booterstown,Co. Dublin,q3,70%
+30/09/2011,"93 Trimleston Gardens, Booterstown",Dublin,455000.0,No,Booterstown,Co. Dublin,q3,70%
+07/10/2011,"59 Seafield Crescent, Booterstown, County Dublin",Dublin,421000.0,No,Booterstown,Co. Dublin,q3,60%
+14/10/2011,"5 Willow Place, Booterstown",Dublin,268001.0,No,Booterstown,Co. Dublin,q1,30%
+27/10/2011,"3 Woodbine Avenue, Booterstown, Co. Dublin",Dublin,440000.0,No,Booterstown,Co. Dublin,q3,60%
+28/10/2011,"14 Booterstown Park, Booterstown",Dublin,880000.0,No,Booterstown,Co. Dublin,q4,100%
+03/11/2011,"20 Trimleston Drive, Booterstown, Dublin",Dublin,375000.0,No,Booterstown,Co. Dublin,q2,50%
+03/11/2011,"Apartment 17, The Lapwing Building  Thornwood, Booterstown",Dublin,364317.0,Yes,Booterstown,Co. Dublin,q2,50%
+18/11/2011,"5 Woodbine Road, Booterstown",Dublin,855000.0,No,Booterstown,Co. Dublin,q4,100%
+25/11/2011,"56 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,251101.32,Yes,Booterstown,Co. Dublin,q1,20%
+28/11/2011,"59 Trimleston Park, Booterstown",Dublin,370000.0,No,Booterstown,Co. Dublin,q2,50%
+13/12/2011,"6 Bellevue Court, Booterstown, County Dublin",Dublin,73645.0,No,Booterstown,Co. Dublin,q1,10%
+01/02/2012,"8 Grotto Place, Booterstown",Dublin,215000.0,No,Booterstown,Co. Dublin,q1,10%
+02/02/2012,"25 Bellevue Park, Booterstown",Dublin,350000.0,No,Booterstown,Co. Dublin,q2,40%
+03/02/2012,"29 Booterstown Avenue, Booterstown",Dublin,570000.0,No,Booterstown,Co. Dublin,q3,80%
+07/02/2012,"10 St Helen'S Road, Booterstown",Dublin,555000.0,No,Booterstown,Co. Dublin,q3,80%
+13/02/2012,"26 Mccabe Villas, Booterstown",Dublin,233000.0,No,Booterstown,Co. Dublin,q1,20%
+24/02/2012,"27Booterstown  Wood, Booterstown Avenue",Dublin,237885.0,Yes,Booterstown,Co. Dublin,q1,20%
+01/03/2012,"30 Seafield Crescent, Booterstown",Dublin,345000.0,No,Booterstown,Co. Dublin,q2,40%
+23/03/2012,"77 Saint Helen'S Road, Booterstown, County Dublin",Dublin,550000.0,No,Booterstown,Co. Dublin,q3,80%
+27/04/2012,"17 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,242290.74,Yes,Booterstown,Co. Dublin,q1,20%
+30/04/2012,"3A Trimleston Road, Booterstown",Dublin,343000.0,No,Booterstown,Co. Dublin,q2,40%
+03/05/2012,"12 Hampton Park, St Helen'S Wood, Booterstown",Dublin,475000.0,No,Booterstown,Co. Dublin,q3,70%
+09/05/2012,"25 Mccabe Villas, Booterstown, Co. Dublin",Dublin,177500.0,No,Booterstown,Co. Dublin,q1,10%
+11/05/2012,"52  Booterstown Wood, Booterstown Avenue",Dublin,224669.0,Yes,Booterstown,Co. Dublin,q1,10%
+16/05/2012,"Apt 18, Booterstown Wood, Booterstown Avenue",Dublin,270000.0,Yes,Booterstown,Co. Dublin,q1,30%
+17/05/2012,"23 Hampton Crescent, Booterstown",Dublin,157500.0,No,Booterstown,Co. Dublin,q1,10%
+24/05/2012,"13 Trimleston Road, Booterstown, County Dublin",Dublin,338000.0,No,Booterstown,Co. Dublin,q2,40%
+30/05/2012,"60 Booterstown Wood, Booterstown Ave, Booterstown",Dublin,154185.0,Yes,Booterstown,Co. Dublin,q1,10%
+01/06/2012,"Apartment 48, Booterstown Wood, Booterstown Avenue Booterstown",Dublin,152423.0,Yes,Booterstown,Co. Dublin,q1,10%
+22/06/2012,"49 Mccabes Villas, Booterstown",Dublin,262000.0,No,Booterstown,Co. Dublin,q1,20%
+05/07/2012,"Apt 35  The Heron Building, Thornwood, Booterstown Avenue",Dublin,320000.0,No,Booterstown,Co. Dublin,q2,40%
+18/07/2012,"Apartment 20, Booterstown Wood, Booterstown Avenue",Dublin,229074.88,Yes,Booterstown,Co. Dublin,q1,20%
+24/07/2012,"10A Grotto Place, Booterstown",Dublin,200000.0,Yes,Booterstown,Co. Dublin,q1,10%
+24/07/2012,"10B Grotto Place, Booterstown",Dublin,200000.0,Yes,Booterstown,Co. Dublin,q1,10%
+27/07/2012,"2 Castle Court, Booterstown",Dublin,525000.0,No,Booterstown,Co. Dublin,q3,70%
+27/07/2012,"85 St. Helen'S Road, Booterstown",Dublin,520000.0,No,Booterstown,Co. Dublin,q3,70%
+21/08/2012,"34 Hampton Crescent, Booterstown, County Dublin",Dublin,367500.0,No,Booterstown,Co. Dublin,q2,50%
+28/08/2012,"127 Booterstown Avenue, Booterstown",Dublin,815000.0,No,Booterstown,Co. Dublin,q4,100%
+11/09/2012,"52 Cherbury Court, Booterstown Avenue, Booterstown",Dublin,175000.0,No,Booterstown,Co. Dublin,q1,10%
+14/09/2012,"19 Booterstown Wood, Booterstown Road, Booterstown",Dublin,242290.0,Yes,Booterstown,Co. Dublin,q1,20%
+19/09/2012,"14 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,151375.0,Yes,Booterstown,Co. Dublin,q1,10%
+25/09/2012,"45 Booterstown Wood, Booterstown Avenue",Dublin,148017.0,Yes,Booterstown,Co. Dublin,q1,10%
+03/10/2012,"8 Booterstown Avenue, Booterstown, Co Dublin",Dublin,435000.0,No,Booterstown,Co. Dublin,q3,60%
+08/10/2012,"Bellevue Lodge, Bellevue Avenue, Booterstown",Dublin,635000.0,No,Booterstown,Co. Dublin,q4,80%
+12/10/2012,"Apartment 4, Booterstown Wood, Booterstown Avenue",Dublin,220264.0,Yes,Booterstown,Co. Dublin,q1,10%
+15/10/2012,"31 Rosemount Terrace, Booterstown, County Dublin",Dublin,196000.0,No,Booterstown,Co. Dublin,q1,10%
+19/10/2012,"23 Hampton Crescent, St. Helens Wood, Booterstown",Dublin,370000.0,No,Booterstown,Co. Dublin,q2,50%
+19/10/2012,"Apt 46 Booterstown Wood, Booterstown Ave, County Dublin",Dublin,255000.0,Yes,Booterstown,Co. Dublin,q1,20%
+26/10/2012,"1 Sans Souci Park, Booterstown, County Dublin",Dublin,810000.0,No,Booterstown,Co. Dublin,q4,100%
+27/10/2012,"62 Booterstown Wood, Booterstown Avenue",Dublin,295154.0,No,Booterstown,Co. Dublin,q2,30%
+06/11/2012,"21 Bellevue Park, Booterstown",Dublin,370000.0,No,Booterstown,Co. Dublin,q2,50%
+12/11/2012,"4 Rosemount Court, Booterstown, Co. Dublin",Dublin,210000.0,No,Booterstown,Co. Dublin,q1,10%
+12/11/2012,"6 Grotto Place, Booterstown, Co. Dublin",Dublin,342000.0,No,Booterstown,Co. Dublin,q2,40%
+13/11/2012,"4 Hampton Park, St Helen'S Wood, Booterstown Avenue  Blackrock",Dublin,237000.0,No,Booterstown,Co. Dublin,q1,20%
+14/11/2012,"1  Seafield Close, Booterstown",Dublin,455000.0,No,Booterstown,Co. Dublin,q3,70%
+15/11/2012,"1A Trimleston Road, Booterstown",Dublin,450000.0,No,Booterstown,Co. Dublin,q3,60%
+22/11/2012,"37 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,246696.04,Yes,Booterstown,Co. Dublin,q1,20%
+23/11/2012,"54 Hampton Park, St Helens Woods, Booterstown",Dublin,630000.0,No,Booterstown,Co. Dublin,q4,80%
+28/11/2012,"Apartment 10, Booterstown Wood, Booterstown Ave",Dublin,238766.0,Yes,Booterstown,Co. Dublin,q1,20%
+11/12/2012,"34 Glenomena Park, Booterstown",Dublin,425000.0,No,Booterstown,Co. Dublin,q3,60%
+11/12/2012,"No. 2 Seafield Drive, Booterstown",Dublin,550000.0,No,Booterstown,Co. Dublin,q3,80%
+18/12/2012,"24 Hampton Park, St Helen'S Wood, Booterstown",Dublin,535000.0,No,Booterstown,Co. Dublin,q3,80%
+18/12/2012,"Apt 110 Seamount, Booterstown, Co. Dublin",Dublin,164000.0,No,Booterstown,Co. Dublin,q1,10%
+18/12/2012,"Spring House, 124 Rock Road, Booterstown",Dublin,535000.0,No,Booterstown,Co. Dublin,q3,80%
+19/12/2012,"22 St Helens Road, Booterstown",Dublin,670000.0,No,Booterstown,Co. Dublin,q4,90%
+20/12/2012,"16 Booterstown Hall Apartment, Booterstown",Dublin,385000.0,No,Booterstown,Co. Dublin,q2,50%
+20/12/2012,"3  Trimleston Drive, Booterstown",Dublin,414000.0,No,Booterstown,Co. Dublin,q3,60%
+20/12/2012,"Apartment 39, Booterstown Wood, Booterstown Avenue  Booterstown",Dublin,281938.32,Yes,Booterstown,Co. Dublin,q2,30%
+22/01/2013,"29 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,246696.0,Yes,Booterstown,Co. Dublin,q1,20%
+31/01/2013,"3 Rosemount Court, Booterstown, Dublin",Dublin,250000.0,No,Booterstown,Co. Dublin,q1,20%
+28/03/2013,"80 Trimleston Park, Booterstown",Dublin,435000.0,No,Booterstown,Co. Dublin,q3,60%
+04/04/2013,"The Steward'S House, St Helen'S Wood, Booterstown Avenue",Dublin,565000.0,No,Booterstown,Co. Dublin,q3,80%
+09/04/2013,"18 Trimleston Gardens, Booterstown",Dublin,442000.0,No,Booterstown,Co. Dublin,q3,60%
+11/04/2013,"25 St. Helens Road, Booterstown, County Dublin",Dublin,642000.0,No,Booterstown,Co. Dublin,q4,90%
+15/04/2013,"Apartment 75, Cherbury Court, Booterstown",Dublin,225000.0,No,Booterstown,Co. Dublin,q1,10%
+18/04/2013,"Apartment 26, The Heron Building, Booterstown",Dublin,195000.0,No,Booterstown,Co. Dublin,q1,10%
+24/04/2013,"22 Glenomena Grove, Booterstown",Dublin,587500.0,No,Booterstown,Co. Dublin,q4,80%
+20/05/2013,"40 Hampton Park, St Helen'S Wood, Booterstown",Dublin,571000.0,No,Booterstown,Co. Dublin,q4,80%
+17/06/2013,"4 Rosemount Terrace, Booterstown Avenue, Booterstown",Dublin,425000.0,No,Booterstown,Co. Dublin,q3,60%
+20/06/2013,"30 Merrion Park, Booterstown",Dublin,720000.0,No,Booterstown,Co. Dublin,q4,90%
+25/06/2013,"25 Belfield Park, Stillorgan Road, Booterstown",Dublin,220000.0,No,Booterstown,Co. Dublin,q1,10%
+28/06/2013,"101 Booterstown Avenue, Booterstown",Dublin,780000.0,No,Booterstown,Co. Dublin,q4,90%
+02/07/2013,"1 Woodbine Road, Booterstown",Dublin,720000.0,No,Booterstown,Co. Dublin,q4,90%
+05/07/2013,"2 Trimleston Drive, Booterstown",Dublin,565000.0,No,Booterstown,Co. Dublin,q3,80%
+12/07/2013,"2 Pembroke Cottages, Booterstown",Dublin,392000.0,No,Booterstown,Co. Dublin,q2,50%
+30/07/2013,"4 St Helen'S Villa, Rock Road, Booterstown",Dublin,720000.0,No,Booterstown,Co. Dublin,q4,90%
+01/08/2013,"27 The Lapwing, Thornwood, Booterstown",Dublin,287000.0,No,Booterstown,Co. Dublin,q2,30%
+01/08/2013,"62 Cherbury Court, Booterstown, Co. Dublin",Dublin,225000.0,No,Booterstown,Co. Dublin,q1,10%
+02/08/2013,"2 Booterstown Grove, Booterstown, County Dublin",Dublin,305000.0,No,Booterstown,Co. Dublin,q2,30%
+09/08/2013,"92 Fosterbrook, Booterstown",Dublin,550000.0,No,Booterstown,Co. Dublin,q3,80%
+13/08/2013,"89 St Helens Road, Booterstown, Co Dublin",Dublin,181250.0,No,Booterstown,Co. Dublin,q1,10%
+20/08/2013,"35 Woodbinepark, Booterstown",Dublin,570000.0,No,Booterstown,Co. Dublin,q4,80%
+23/08/2013,"16 Bellevue Park Avenue, Booterstown",Dublin,342000.0,No,Booterstown,Co. Dublin,q2,40%
+28/08/2013,"3 Booterstown Park, Booterstown Avenue, Booterstown",Dublin,925000.0,No,Booterstown,Co. Dublin,q4,100%
+30/08/2013,"Apt 80 Cherbury Court, Booterstown Avenue",Dublin,255000.0,No,Booterstown,Co. Dublin,q1,20%
+06/09/2013,"11 Bellevue Court, Booterstown, Co.Dublin",Dublin,175000.0,No,Booterstown,Co. Dublin,q1,10%
+27/09/2013,"31 Rosemount Court, Booterstown",Dublin,263000.0,No,Booterstown,Co. Dublin,q1,20%
+07/10/2013,"113 Seamount, Booterstown",Dublin,300000.0,No,Booterstown,Co. Dublin,q2,30%
+14/10/2013,"71 Booterstown Avenue, Booterstown",Dublin,350000.0,No,Booterstown,Co. Dublin,q2,40%
+16/10/2013,"32 The Heron Building, Thornwood, Booterstown",Dublin,625000.0,No,Booterstown,Co. Dublin,q4,80%
+18/10/2013,"13 Beech Grove, Booterstown",Dublin,191000.0,No,Booterstown,Co. Dublin,q1,10%
+24/10/2013,"8 Cross Avenue, Booterstown",Dublin,780000.0,No,Booterstown,Co. Dublin,q4,90%
+30/10/2013,"Apt 50 Booterstown Wood, Booterstown Avenue",Dublin,220264.0,Yes,Booterstown,Co. Dublin,q1,10%
+30/10/2013,"Apt 51, Booterstown Wood, Booterstown",Dublin,152522.0,Yes,Booterstown,Co. Dublin,q1,10%
+01/11/2013,"No 7 Booterstown Wood, Booterstown Avenue",Dublin,149779.0,Yes,Booterstown,Co. Dublin,q1,10%
+11/11/2013,"32 Trimleston Avenue, Booterstown, County Dublin",Dublin,460000.0,No,Booterstown,Co. Dublin,q3,70%
+15/11/2013,"6 Bellevue Court, Booterstown",Dublin,155000.0,No,Booterstown,Co. Dublin,q1,10%
+15/11/2013,"89 Trimleston Gardens, Booterstown",Dublin,490000.0,No,Booterstown,Co. Dublin,q3,70%
+21/11/2013,"20 Mountbrook, Booterstown, County Dublin",Dublin,250000.0,No,Booterstown,Co. Dublin,q1,20%
+21/11/2013,"Apt. 44 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,260000.0,Yes,Booterstown,Co. Dublin,q1,20%
+22/11/2013,"Apartment 16  Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,237900.0,Yes,Booterstown,Co. Dublin,q1,20%
+26/11/2013,"Apartment 57 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,145375.0,Yes,Booterstown,Co. Dublin,q1,10%
+27/11/2013,"95 Hampton Park, St Helens Wood, Booterstown",Dublin,560000.0,No,Booterstown,Co. Dublin,q3,80%
+28/11/2013,"23 Mccabe Villas, Booterstown",Dublin,175000.0,No,Booterstown,Co. Dublin,q1,10%
+28/11/2013,"Apt 6  The Heron Building, Thornwood, Booterstown Avenue",Dublin,255000.0,No,Booterstown,Co. Dublin,q1,20%
+02/12/2013,"4 Cherbury Court, Booterstown",Dublin,236000.0,No,Booterstown,Co. Dublin,q1,20%
+06/12/2013,"22 Booterstown Wood, Booterstown Avenue",Dublin,224669.0,Yes,Booterstown,Co. Dublin,q1,10%
+06/12/2013,"6 Booterstown Wood, Booterstown Avenue",Dublin,211453.0,Yes,Booterstown,Co. Dublin,q1,10%
+11/12/2013,"Apt 1, Leader Hall, Booterstown Ave",Dublin,265000.0,No,Booterstown,Co. Dublin,q1,30%
+16/12/2013,"Apt 43 Booterstown Wood, Booterstown, Co. Dublin",Dublin,260000.0,No,Booterstown,Co. Dublin,q1,20%
+17/12/2013,"Apartment 5, Booterstown Wood, Booterstown Avenue",Dublin,233480.18,Yes,Booterstown,Co. Dublin,q1,20%
+18/12/2013,"25 Bellevue Court, Dornden Park, Booterstown",Dublin,187500.0,No,Booterstown,Co. Dublin,q1,10%
+18/12/2013,"50 The Sanderling Thornwood, Booterstown Ave, Booterstown",Dublin,501000.0,No,Booterstown,Co. Dublin,q3,70%
+19/12/2013,"Apartment 28, Booterstown Wood, Booterstown Avenue  Booterstown",Dublin,160353.0,Yes,Booterstown,Co. Dublin,q1,10%
+19/12/2013,"Apartment 2, Booterstown Wood, Booterstown Avenue",Dublin,237875.0,Yes,Booterstown,Co. Dublin,q1,20%
+19/12/2013,"Apt. 8, Leader Hall, 167 Booterstown Avenue",Dublin,235683.0,Yes,Booterstown,Co. Dublin,q1,20%
+20/12/2013,"10 Trimleston Dr, Booterstown, Dublin",Dublin,465000.0,No,Booterstown,Co. Dublin,q3,70%
+20/12/2013,"49 Sanderling Building, Thornwood, Booterstown Ave",Dublin,595000.0,No,Booterstown,Co. Dublin,q4,80%
+20/12/2013,"59 Trimbleston Gardens, Booterstown",Dublin,570000.0,No,Booterstown,Co. Dublin,q4,80%
+23/12/2013,"Apartment 9 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,270000.0,Yes,Booterstown,Co. Dublin,q1,30%
+10/01/2014,"23 Booterstown Wood, Booterstown, Dublin 4",Dublin,260000.0,No,Booterstown,Co. Dublin,q1,20%
+24/01/2014,"40A Hampton Pk, St Helens Wood, Booterstown Dublin",Dublin,610000.0,No,Booterstown,Co. Dublin,q4,80%
+14/02/2014,"3 The Stables, St Helens Wood, Booterstown",Dublin,305000.0,No,Booterstown,Co. Dublin,q2,40%
+28/02/2014,"18 Hampton Park, St Helens Wood, Booterstown",Dublin,558000.0,No,Booterstown,Co. Dublin,q3,80%
+13/03/2014,"Apt 7, Leader Hall, Booterstown Ave",Dublin,305000.0,No,Booterstown,Co. Dublin,q2,40%
+01/04/2014,"2 Booterstown Avenue, Booterstown",Dublin,295000.0,No,Booterstown,Co. Dublin,q2,30%
+11/04/2014,"4 Pembroke Cottages, Booterstown, Dublin",Dublin,357500.0,No,Booterstown,Co. Dublin,q2,50%
+16/04/2014,"11 Merrion Woods, Stillorgan Rd, Booterstown",Dublin,310000.0,No,Booterstown,Co. Dublin,q2,40%
+23/05/2014,"25 Merrion Grove, Booterstown, Dublin",Dublin,240000.0,No,Booterstown,Co. Dublin,q1,20%
+28/05/2014,"Apt 6, Leader Hall, Booterstown Ave",Dublin,320000.0,No,Booterstown,Co. Dublin,q2,40%
+09/06/2014,"24 Merrion Park, South Hill Ave, Booterstown",Dublin,620000.0,No,Booterstown,Co. Dublin,q4,80%
+12/06/2014,"50 Woodbine Avenue, Booterstown, County Dublin",Dublin,605000.0,No,Booterstown,Co. Dublin,q4,80%
+16/06/2014,"30 The Turnstone, Thorn Wood, Booterstown Ave",Dublin,375000.0,No,Booterstown,Co. Dublin,q2,50%
+02/07/2014,"3 Sanderling, Thornwood, Booterstown",Dublin,240000.0,No,Booterstown,Co. Dublin,q1,20%
+03/07/2014,"29 Castle Court, Booterstown, Dublin",Dublin,690000.0,No,Booterstown,Co. Dublin,q4,90%
+18/07/2014,"35 St. Helen'S Road, Booterstown",Dublin,750000.0,No,Booterstown,Co. Dublin,q4,90%
+22/07/2014,"5 Willow Place, Booterstown, Dublin",Dublin,625000.0,No,Booterstown,Co. Dublin,q4,80%
+13/08/2014,"10 Trimleston Gardens, Booterstown",Dublin,725000.0,No,Booterstown,Co. Dublin,q4,90%
+18/08/2014,"15 Turnstone, Thorn Wood, Booterstown Ave",Dublin,420000.0,No,Booterstown,Co. Dublin,q3,60%
+21/08/2014,"60 St Helens Rd, Booterstown, Dublin",Dublin,832000.0,No,Booterstown,Co. Dublin,q4,100%
+22/08/2014,"40 Hampton Park St Helens Wood, Booterstown, Dublin",Dublin,656100.0,No,Booterstown,Co. Dublin,q4,90%
+26/08/2014,"20 Bellevue Park Ave, Booterstown, Dublin",Dublin,425000.0,No,Booterstown,Co. Dublin,q3,60%
+27/08/2014,"45 Rosemount Court, Rosemount Terrace, Booterstown",Dublin,410000.0,No,Booterstown,Co. Dublin,q2,50%
+28/08/2014,"49 St Helens Rd, Booterstown, Dublin",Dublin,1145000.0,No,Booterstown,Co. Dublin,q4,100%
+29/08/2014,"6 Merrion Crescent, Booterstown",Dublin,570000.0,No,Booterstown,Co. Dublin,q4,80%
+01/09/2014,"1 Rosemount Terrace, Booterstown, Dublin",Dublin,505000.0,No,Booterstown,Co. Dublin,q3,70%
+02/09/2014,"52 Hampton Park, St Helens Wood, Booterstown Ave",Dublin,650000.0,No,Booterstown,Co. Dublin,q4,90%
+12/09/2014,"63 Mc Cabe Villas, Booterstown, Dublin",Dublin,320000.0,No,Booterstown,Co. Dublin,q2,40%
+10/10/2014,"9 Hampton Park, St Helens Wood, Booterstown Ave",Dublin,642500.0,No,Booterstown,Co. Dublin,q4,90%
+16/10/2014,"20 Bellevue Court, Dornden Park, Booterstown",Dublin,275550.0,No,Booterstown,Co. Dublin,q1,30%
+30/10/2014,"6 Rosemount Terrace, Booterstown, Dublin",Dublin,500000.0,No,Booterstown,Co. Dublin,q3,70%
+31/10/2014,"27 Hampton Crescent, St Helens Wood Booterstown, Dublin",Dublin,450000.0,No,Booterstown,Co. Dublin,q3,60%
+13/11/2014,"6 The Stables, St Helens Wood, Booterstown Ave",Dublin,435000.0,No,Booterstown,Co. Dublin,q3,60%
+19/11/2014,"24 Bellevue Court, Booterstown, Dublin",Dublin,270000.0,No,Booterstown,Co. Dublin,q1,30%
+15/12/2014,"Apt 5, Leader Hall, Booterstown Ave",Dublin,330000.0,No,Booterstown,Co. Dublin,q2,40%
+16/12/2014,"5 Trimleston Ave, Booterstown, Dublin",Dublin,825000.0,No,Booterstown,Co. Dublin,q4,100%
+14/01/2015,"82 Trimleston Gardens, Booterstown, Dublin",Dublin,680000.0,No,Booterstown,Co. Dublin,q4,90%
+19/01/2015,"19 The Turnstone Building, Booterstown Avenue, Booterstown",Dublin,245000.0,No,Booterstown,Co. Dublin,q1,20%
+22/01/2015,"25 Merrion Grove, Booterstown, Dublin",Dublin,265000.0,No,Booterstown,Co. Dublin,q1,30%
+06/02/2015,"11 Cherbury Court, Booterstown Avenue, Co Dublin",Dublin,308000.0,No,Booterstown,Co. Dublin,q2,40%
+16/02/2015,"11-13 Booterstown Avenue, Booterstown",Dublin,250000.0,No,Booterstown,Co. Dublin,q1,20%
+16/02/2015,"Dornden House, Bellevue Ave, Booterstown",Dublin,650000.0,No,Booterstown,Co. Dublin,q4,90%
+25/03/2015,"20 The Lapwing, Thornwood  Booterstown Avenue, Booterstown",Dublin,316019.0,No,Booterstown,Co. Dublin,q2,40%
+31/03/2015,"6 Hampton Court, St Helenswood, Booterstown",Dublin,500000.0,No,Booterstown,Co. Dublin,q3,70%
+31/03/2015,"Apt 3, Leader Hall, Booterstown Ave",Dublin,430000.0,No,Booterstown,Co. Dublin,q3,60%
+26/04/2015,"78 Trimleston Park, Booterstown, Dublin",Dublin,670000.0,No,Booterstown,Co. Dublin,q4,90%
+30/04/2015,"1 Willow Mount, Booterstown Avenue, Co. Dublin",Dublin,885000.0,No,Booterstown,Co. Dublin,q4,100%
+14/05/2015,"35 Seamount, Booterstown",Dublin,315000.0,No,Booterstown,Co. Dublin,q2,40%
+08/06/2015,"4 Trimleston Gardens, Booterstown",Dublin,782000.0,No,Booterstown,Co. Dublin,q4,90%
+26/06/2015,"7 Rosemount Court, Off Booterstown Ave, Booterstown",Dublin,370000.0,No,Booterstown,Co. Dublin,q2,50%
+29/06/2015,"39 Cherbury Court, Booterstown",Dublin,328000.0,No,Booterstown,Co. Dublin,q2,40%
+07/07/2015,"6 Pembroke Cottages, Booterstown, Dublin",Dublin,377000.0,No,Booterstown,Co. Dublin,q2,50%
+21/07/2015,"78 Booterstown Ave, Merrion Rd, Dublin 4",Dublin,992000.0,No,Booterstown,Co. Dublin,q4,100%
+22/07/2015,"76 Trimleston Gardens, Booterstown, Dublin",Dublin,790000.0,No,Booterstown,Co. Dublin,q4,100%
+31/07/2015,"11 Bellevue Court, Rock Rd, Booterstown",Dublin,238000.0,No,Booterstown,Co. Dublin,q1,20%
+06/08/2015,"24 Mccabe Villas, Booterstown, Dun Laoighre",Dublin,305000.0,No,Booterstown,Co. Dublin,q2,40%
+07/08/2015,"41 Booterstown Ave, Booterstown, Dublin",Dublin,740000.0,No,Booterstown,Co. Dublin,q4,90%
+12/08/2015,"38 St Helens Road, Booterstown",Dublin,1000000.0,No,Booterstown,Co. Dublin,q4,100%
+12/08/2015,"6 Trimleston Road, Booterstown",Dublin,655000.0,No,Booterstown,Co. Dublin,q4,90%
+27/08/2015,"34 Sanderling, Thorn Wood, Booterstown Ave",Dublin,420000.0,No,Booterstown,Co. Dublin,q3,60%
+31/08/2015,"21 Rosemount Court, Booterstown, Dublin",Dublin,361000.0,No,Booterstown,Co. Dublin,q2,50%
+01/09/2015,"110 Seamount Apts, Stillorgan Rd, Booterstown",Dublin,265000.0,No,Booterstown,Co. Dublin,q1,30%
+02/09/2015,"108 Rock Road, Booterstown, Co Dublin",Dublin,475000.0,No,Booterstown,Co. Dublin,q3,70%
+02/09/2015,"81 Booterstown Avenue, Booterstown, Co Dublin",Dublin,334000.0,No,Booterstown,Co. Dublin,q2,40%
+04/09/2015,"14 Booterstown Hall, Booterstown, Dublin",Dublin,286000.0,No,Booterstown,Co. Dublin,q2,30%
+07/09/2015,"Apartment 9, Booterstown Hall, Booterstown",Dublin,440000.0,No,Booterstown,Co. Dublin,q3,60%
+08/09/2015,"32 Turnstone, Thornwood, Booterstown",Dublin,237775.0,No,Booterstown,Co. Dublin,q1,20%
+11/09/2015,"Apartment 29 The Sanderling, Thornwood, Booterstown",Dublin,415000.0,No,Booterstown,Co. Dublin,q3,60%
+16/09/2015,"7 The Stables, St Helens Wood, Booterstown",Dublin,710000.0,No,Booterstown,Co. Dublin,q4,90%
+18/09/2015,"1 Beechlawn, South Hill Ave, Booterstown",Dublin,396000.0,No,Booterstown,Co. Dublin,q2,50%
+21/09/2015,"23 Trimleston Gardens, Booterstown, Dublin",Dublin,619000.0,No,Booterstown,Co. Dublin,q4,80%
+25/09/2015,"137 Booterstown Avenue, Booterstown, County Dublin",Dublin,875000.0,No,Booterstown,Co. Dublin,q4,100%
+01/10/2015,"90 Belfield Park, Stillorgan Rd, Booterstown",Dublin,375000.0,No,Booterstown,Co. Dublin,q2,50%
+13/10/2015,"21 Merrion Grove, Booterstown, Co Dublin",Dublin,370000.0,No,Booterstown,Co. Dublin,q2,50%
+16/10/2015,"65 Seamount, St Helens, Booterstown",Dublin,175000.0,No,Booterstown,Co. Dublin,q1,10%
+19/10/2015,"9 Rosemount Court, Rosemount Terrace, Booterstown",Dublin,355000.0,No,Booterstown,Co. Dublin,q2,50%
+26/10/2015,"Apt 3, The Heron Building Thornwood, Booterstown",Dublin,270000.0,No,Booterstown,Co. Dublin,q1,30%
+30/10/2015,"3A Trimleston Road, Booterstown",Dublin,630000.0,No,Booterstown,Co. Dublin,q4,80%
+13/11/2015,"22 Mccabe Villas, Booterstown Ave, Dublin",Dublin,315000.0,No,Booterstown,Co. Dublin,q2,40%
+13/11/2015,"24 Cherbury Court, Booterstown Ave, Booterstown",Dublin,330500.0,No,Booterstown,Co. Dublin,q2,40%
+26/11/2015,"25 Trimlestown Avenue, Booterstown, Co Dublin",Dublin,737500.0,No,Booterstown,Co. Dublin,q4,90%
+27/11/2015,"8 Hampton Crescent, St Helens Wood, Booterstown",Dublin,470000.0,No,Booterstown,Co. Dublin,q3,70%
+03/12/2015,"Saremo, Grotto Ave, Booterstown",Dublin,799000.0,No,Booterstown,Co. Dublin,q4,100%
+11/12/2015,"5 Trimleston Gardens, Booterstown, Dublin",Dublin,610000.0,No,Booterstown,Co. Dublin,q4,80%
+11/12/2015,"66 Merrion Park, Booterstown, Dublin",Dublin,550000.0,No,Booterstown,Co. Dublin,q3,80%
+16/12/2015,"45 Hampton Park, St Helens Wood, Booterstown",Dublin,750000.0,No,Booterstown,Co. Dublin,q4,90%
+21/12/2015,"24 The Turnstone, Thornwood, Booterstown Ave",Dublin,259000.0,No,Booterstown,Co. Dublin,q1,20%
+21/12/2015,"9 Woodbine Pak, Booterstown",Dublin,700000.0,No,Booterstown,Co. Dublin,q4,90%
+18/01/2016,"88 Hampton Park, St Helens Wood, Booterstown",Dublin,650000.0,No,Booterstown,Co. Dublin,q4,90%
+21/01/2016,"26 Trimleston Gardens, Booterstown, Dublin",Dublin,465000.0,No,Booterstown,Co. Dublin,q3,70%
+27/01/2016,"31 Seafield Crescent, Booterstown",Dublin,550000.0,No,Booterstown,Co. Dublin,q3,80%
+07/03/2016,"16 Beech Grove, Booterstown",Dublin,321000.0,No,Booterstown,Co. Dublin,q2,40%
+16/03/2016,"17 Beech Grove, Booterstown, Dublin",Dublin,520000.0,No,Booterstown,Co. Dublin,q3,70%
+14/04/2016,"3 Bellevue Park Ave, Booterstown, Dublin",Dublin,455000.0,No,Booterstown,Co. Dublin,q3,70%
+15/04/2016,"47 Hampton Park, Booterstown Ave, Dublin",Dublin,636000.0,No,Booterstown,Co. Dublin,q4,90%
+18/04/2016,"168 Seamount Apts, Stillorgan Rd, Booterstown",Dublin,455000.0,No,Booterstown,Co. Dublin,q3,70%
+13/05/2016,"114 Merrion Grove, Booterstown, Dublin",Dublin,285000.0,No,Booterstown,Co. Dublin,q2,30%
+17/06/2016,"5 Castle Court, Booterstown, Dublin",Dublin,770000.0,No,Booterstown,Co. Dublin,q4,90%
+29/06/2016,"3 Rosemount Terrace, Booterstown, Dublin 6",Dublin,483000.0,No,Booterstown,Co. Dublin,q3,70%
+08/07/2016,"37 Booterstown Wood, Booterstown Ave, Booterstown",Dublin,325000.0,No,Booterstown,Co. Dublin,q2,40%
+15/07/2016,"2 The Heron, Thornwood, Booterstown Ave",Dublin,245000.0,No,Booterstown,Co. Dublin,q1,20%
+19/07/2016,"Apt 32 Bellevue Court, Booterstown, Dublin 4",Dublin,280000.0,No,Booterstown,Co. Dublin,q1,30%
+26/07/2016,"109 St Helens Rd, Booterstown, Dublin",Dublin,925000.0,No,Booterstown,Co. Dublin,q4,100%
+29/07/2016,"77 Seamount, Stillorgan Rd, Booterstown",Dublin,388000.0,No,Booterstown,Co. Dublin,q2,50%
+02/08/2016,"69 Hampton Park, St Helens Wood, Booterstown Ave",Dublin,700000.0,No,Booterstown,Co. Dublin,q4,90%
+12/08/2016,"5 Willow Place, Booterstown, Dublin",Dublin,750000.0,No,Booterstown,Co. Dublin,q4,90%
+31/08/2016,"31 Castle Court, Booterstown, Dublin",Dublin,956500.0,No,Booterstown,Co. Dublin,q4,100%
+31/08/2016,"No 21 Heron, Thornwood, Booterstown Avenue",Dublin,365000.0,No,Booterstown,Co. Dublin,q2,50%
+02/09/2016,"Apt 21, Stillorgan Rd, Booterstown",Dublin,338000.0,No,Booterstown,Co. Dublin,q2,40%
+06/09/2016,"29 Hampton Park, Booterstown, Dublin",Dublin,1275000.0,No,Booterstown,Co. Dublin,q4,100%
+08/09/2016,"34 Hampton Park, St Helens Wood, Booterstown",Dublin,2075000.0,No,Booterstown,Co. Dublin,q4,100%
+16/09/2016,"11 The Sanderling, Thornwood, Booterstown Ave",Dublin,287000.0,No,Booterstown,Co. Dublin,q2,30%
+16/09/2016,"13 The Sanderling, Thornwood, Booterstown Ave",Dublin,293000.0,No,Booterstown,Co. Dublin,q2,30%
+16/09/2016,"22 Rosemount Court, Booterstown, Dublin",Dublin,350000.0,No,Booterstown,Co. Dublin,q2,50%
+16/09/2016,"8 The Sanderling, Thornwood, Booterstown Ave",Dublin,280000.0,No,Booterstown,Co. Dublin,q1,30%
+26/09/2016,"38 Trimleston Gardens, Booterstown, Dublin",Dublin,765000.0,No,Booterstown,Co. Dublin,q4,90%
+29/09/2016,"68 Seamount, Stillorgan Road, Booterstown",Dublin,345000.0,No,Booterstown,Co. Dublin,q2,40%
+12/10/2016,"Ashley, 17 A Booterstown Ave, Booterstown",Dublin,365000.0,No,Booterstown,Co. Dublin,q2,50%
+17/10/2016,"58 Cherbury Court, Booterstown, Co. Dublin",Dublin,325000.0,No,Booterstown,Co. Dublin,q2,40%
+20/10/2016,"1 Rosemount Court, Rosemount Terrace, Booterstown",Dublin,502500.0,No,Booterstown,Co. Dublin,q3,70%
+07/11/2016,"No 24 Heron, Thornwood, Booterstown Avenue",Dublin,395000.0,No,Booterstown,Co. Dublin,q2,50%
+11/11/2016,"8 Lapwing, Thorn Wood, Booterstown Ave",Dublin,395000.0,No,Booterstown,Co. Dublin,q2,50%
+21/11/2016,"5 Merrion Crescent, Booterstown, Dublin",Dublin,470000.0,No,Booterstown,Co. Dublin,q3,70%
+22/11/2016,"9 St Helens Rd, Booterstown, Dublin",Dublin,880000.0,No,Booterstown,Co. Dublin,q4,100%
+06/12/2016,"28 Merrion Woods, Booterstown, Dublin",Dublin,405000.0,No,Booterstown,Co. Dublin,q2,50%
+15/12/2016,"9 Seamount, Stillorgan Rd, Booterstown",Dublin,388000.0,No,Booterstown,Co. Dublin,q2,50%
+21/12/2016,"62 Mccabe Villas, Booterstown, Co Dublin",Dublin,335000.0,No,Booterstown,Co. Dublin,q2,40%
+24/01/2017,"3 Booterstown Wood, Booterstown Ave, Booterstown",Dublin,430000.0,No,Booterstown,Co. Dublin,q3,60%
+25/01/2017,"2 Pembroke Cottages, Booterstown, Dublin",Dublin,565000.0,No,Booterstown,Co. Dublin,q3,80%
+30/01/2017,"3 Oak Lodge, Grotto Ave, Booterstown",Dublin,410000.0,No,Booterstown,Co. Dublin,q3,60%
+31/01/2017,"5 South Hill Park, Booterstown, Dublin",Dublin,888000.0,No,Booterstown,Co. Dublin,q4,100%
+10/02/2017,"16 Trimleston Rd, Booterstown, Dublin",Dublin,790000.0,No,Booterstown,Co. Dublin,q4,100%
+10/02/2017,"Apt.38 - Sanderling, Block A - Thorn Wood Apts, Booterstown",Dublin,328500.0,No,Booterstown,Co. Dublin,q2,40%
+13/02/2017,"5 Woodbine Park, Booterstown, Co Dublin",Dublin,230000.0,No,Booterstown,Co. Dublin,q1,20%
+13/02/2017,"73 St Helens Rd, Booterstown, Dublin",Dublin,1000000.0,No,Booterstown,Co. Dublin,q4,100%
+10/03/2017,"48 St Helens Rd, Booterstown, Dublin",Dublin,885000.0,No,Booterstown,Co. Dublin,q4,100%
+23/03/2017,"1 Grotto Ave, Booterstown, Dublin",Dublin,640000.0,No,Booterstown,Co. Dublin,q4,90%
+23/03/2017,"18 Trimleston Rd, Booterstown, Dublin",Dublin,705000.0,No,Booterstown,Co. Dublin,q4,90%
+28/03/2017,"3 The Turnstone, Thornwood, Booterstown Ave",Dublin,335000.0,No,Booterstown,Co. Dublin,q2,40%
+19/04/2017,"3 Merrion Crescent, Booterstown, Dublin",Dublin,225000.0,No,Booterstown,Co. Dublin,q1,20%
+25/04/2017,"9 Cherbury Court, Booterstown, Co Dublin",Dublin,321500.0,No,Booterstown,Co. Dublin,q2,40%
+15/05/2017,"75 Booterstown Ave, Booterstown, Dublin",Dublin,560000.0,No,Booterstown,Co. Dublin,q3,80%
+18/05/2017,"33 Turnstone, Thorn Wood, Booterstown Ave",Dublin,495000.0,No,Booterstown,Co. Dublin,q3,70%
+19/05/2017,"20 The Heron, Thornwood, Booterstown Ave",Dublin,350000.0,No,Booterstown,Co. Dublin,q2,50%
+22/05/2017,"Apt 4, Booterstown Wood, Booterstown Ave",Dublin,475000.0,No,Booterstown,Co. Dublin,q3,70%
+23/05/2017,"Apt 22 The Lapwing, Thornwood, Booterstown Ave",Dublin,325000.0,No,Booterstown,Co. Dublin,q2,40%
+26/05/2017,"96 St Helens Rd, Booterstown, Dublin",Dublin,875000.0,No,Booterstown,Co. Dublin,q4,100%
+01/06/2017,"50 Rosemount Court, Rosemount Terrace, Booterstown",Dublin,340000.0,No,Booterstown,Co. Dublin,q2,40%
+06/06/2017,"4 Seafield Crescent, Booterstown, Dublin",Dublin,975000.0,No,Booterstown,Co. Dublin,q4,100%
+08/06/2017,"39 Turnstone, Thorn Wood, Booterstown Ave",Dublin,360000.0,No,Booterstown,Co. Dublin,q2,50%
+14/06/2017,"7 Fosterbrook, Stillorgan Rd, Booterstown",Dublin,810000.0,No,Booterstown,Co. Dublin,q4,100%
+28/06/2017,"37 Trimleston Gardens, Booterstown, Co Dublin",Dublin,560000.0,No,Booterstown,Co. Dublin,q3,80%
+30/06/2017,"8 Rosemount Court, Rosemount Terrace, Booterstown",Dublin,415000.0,No,Booterstown,Co. Dublin,q3,60%
+06/07/2017,"85 Booterstown Ave, Booterstown, Dublin",Dublin,505000.0,No,Booterstown,Co. Dublin,q3,70%
+13/07/2017,"No 23 Heron, Thornwood, Booterstown Avenue",Dublin,365000.0,No,Booterstown,Co. Dublin,q2,50%
+17/07/2017,"8 Pembroke Cottages, Booterstown, Dublin",Dublin,425000.0,No,Booterstown,Co. Dublin,q3,60%
+27/07/2017,"12 Trimleston Ave, Booterstown, Dublin",Dublin,1050000.0,No,Booterstown,Co. Dublin,q4,100%
+01/08/2017,"26 The Turnstone, Thorn Wood, Booterstown Ave",Dublin,540000.0,No,Booterstown,Co. Dublin,q3,80%
+04/08/2017,"74 Cherbury Court, Booterstown, Dublin",Dublin,388100.0,No,Booterstown,Co. Dublin,q2,50%
+16/08/2017,"45 Cherbury Court, Booterstown Ave, Dublin",Dublin,335000.0,No,Booterstown,Co. Dublin,q2,40%
+30/08/2017,"122A Rock Road, Booterstown, Co Dublin",Dublin,250000.0,No,Booterstown,Co. Dublin,q1,20%
+08/09/2017,"6 Rosemount Court, Rosemount Terrace, Booterstown",Dublin,511000.0,No,Booterstown,Co. Dublin,q3,70%
+22/09/2017,"5 St Helens Rd, Booterstown, Dublin",Dublin,955000.0,No,Booterstown,Co. Dublin,q4,100%
+27/09/2017,"Apt 44, Merrion Woods, Booterstown",Dublin,560000.0,No,Booterstown,Co. Dublin,q3,80%
+28/09/2017,"15 Fosterbrook, Booterstown, Dublin",Dublin,815000.0,No,Booterstown,Co. Dublin,q4,100%
+11/10/2017,"20 Bellevue Copse, Booterstown, Dublin",Dublin,350000.0,No,Booterstown,Co. Dublin,q2,50%
+12/10/2017,"37 Merrion Grove, Booterstown, Dublin",Dublin,340000.0,No,Booterstown,Co. Dublin,q2,40%
+13/10/2017,"41 The Sanderling, Thornwood, Booterstown Ave",Dublin,283000.0,No,Booterstown,Co. Dublin,q2,30%
+19/10/2017,"Apt 31, Booterstown Wood, Booterstown Ave",Dublin,555000.0,No,Booterstown,Co. Dublin,q3,80%
+03/11/2017,"No 22 Heron, Thornwood, Booterstown Avenue",Dublin,372500.0,No,Booterstown,Co. Dublin,q2,50%
+10/11/2017,"19 Booterstown Ave, Booterstown, Dublin",Dublin,470000.0,No,Booterstown,Co. Dublin,q3,70%
+15/11/2017,"4 Trimleston Rd, Booterstown, Dublin",Dublin,550000.0,No,Booterstown,Co. Dublin,q3,80%
+24/11/2017,"90 Belfield Park, Stillorgan Rd, Booterstown",Dublin,395000.0,No,Booterstown,Co. Dublin,q2,50%
+29/11/2017,"12 The Turnstone, Thornwood, Booterstown Ave",Dublin,481000.0,No,Booterstown,Co. Dublin,q3,70%
+30/11/2017,"168 Seamount Apts, Stillorgan Rd, Booterstown",Dublin,478000.0,No,Booterstown,Co. Dublin,q3,70%
+04/12/2017,"22 Cherbury Gardens, Booterstown, Dublin",Dublin,1170000.0,No,Booterstown,Co. Dublin,q4,100%
+21/12/2017,"27 Belleview Park Ave, Booterstown, Dublin",Dublin,480000.0,No,Booterstown,Co. Dublin,q3,70%
+05/01/2018,"14 Mccabe Villas, Booterstown, Co Dublin",Dublin,403000.0,No,Booterstown,Co. Dublin,q2,50%
+02/02/2018,"64 Trimleston Park, Booterstown, Dublin",Dublin,650000.0,No,Booterstown,Co. Dublin,q4,90%
+02/02/2018,"94 Trimleston Gardens, Booterstown, Dublin",Dublin,705000.0,No,Booterstown,Co. Dublin,q4,90%
+06/02/2018,"8 St Helens Villas, Rock Rd, Booterstown",Dublin,1400000.0,No,Booterstown,Co. Dublin,q4,100%
+20/02/2018,"50 Mccabe Villas, Booterstown, Co Dublin",Dublin,385000.0,No,Booterstown,Co. Dublin,q2,50%
+26/02/2018,"11 Cherbury Gardens, Booterstown, Dublin",Dublin,910000.0,No,Booterstown,Co. Dublin,q4,100%
+07/03/2018,"14 The Hern, Thorn Wood, Booterstown Ave",Dublin,345000.0,No,Booterstown,Co. Dublin,q2,40%
+09/03/2018,"38 Turnstone, Thorn Wood, Booterstown Ave",Dublin,560000.0,No,Booterstown,Co. Dublin,q3,80%
+12/03/2018,"Apt 30 The Sanderling, Thornwood, Booterstown Ave",Dublin,490000.0,No,Booterstown,Co. Dublin,q3,70%
+14/03/2018,"34 Mccabe Villas, Booterstown, Dublin",Dublin,430000.0,No,Booterstown,Co. Dublin,q3,60%
+26/03/2018,"30 The Heron Building, Thornwood, Booterstown",Dublin,477000.0,No,Booterstown,Co. Dublin,q3,70%
+28/03/2018,"10 Merrion Woods, Stillorgan Rd, Booterstown",Dublin,415000.0,No,Booterstown,Co. Dublin,q3,60%
+28/03/2018,"19 Trimleston Dr, Booterstown, Dublin",Dublin,685000.0,No,Booterstown,Co. Dublin,q4,90%
+29/03/2018,"48 Sanderling, Thorn Wood, Booterstown Ave",Dublin,375000.0,No,Booterstown,Co. Dublin,q2,50%
+29/03/2018,"52 St Helens Rd, Booterstown, Dublin",Dublin,1150000.0,No,Booterstown,Co. Dublin,q4,100%
+04/04/2018,"11 Hampton Cresent, St Helens Wood, Booterstown",Dublin,600000.0,No,Booterstown,Co. Dublin,q4,80%
+05/04/2018,"1 Hampton Park, St Helens Wood, Booterstown",Dublin,1625000.0,No,Booterstown,Co. Dublin,q4,100%
+06/04/2018,"2 Trimleston Rd, Booterstown, Dublin",Dublin,625000.0,No,Booterstown,Co. Dublin,q4,80%
+20/04/2018,"87 Trimleston Gardens, Booterstown, Dublin",Dublin,858000.0,No,Booterstown,Co. Dublin,q4,100%
+01/05/2018,"Apt 16, Booterstown Wood, Booterstown Ave",Dublin,428000.0,No,Booterstown,Co. Dublin,q3,60%
+02/05/2018,"48 Hampton Park, Booterstown, Dublin",Dublin,750000.0,No,Booterstown,Co. Dublin,q4,90%
+23/05/2018,"25 Sanderling, Thornwood, Booterstown Ave",Dublin,450000.0,No,Booterstown,Co. Dublin,q3,60%
+24/05/2018,"29 St Helens Rd, Booterstown, Dublin",Dublin,935000.0,No,Booterstown,Co. Dublin,q4,100%
+28/05/2018,"1 Rosemount Terrace, Booterstown, Dublin",Dublin,600000.0,No,Booterstown,Co. Dublin,q4,80%
+30/05/2018,"7 St Helens Villas, Rock Rd, Booterstown",Dublin,1250000.0,No,Booterstown,Co. Dublin,q4,100%
+15/06/2018,"Glena, Rock Rd, Booterstown",Dublin,2235000.0,No,Booterstown,Co. Dublin,q4,100%
+22/06/2018,"6 Turnstone, Thornwood, Booterstown Avenue",Dublin,510000.0,No,Booterstown,Co. Dublin,q3,70%
+06/07/2018,"75 St Helens Rd, Booterstown, Dublin",Dublin,1010000.0,No,Booterstown,Co. Dublin,q4,100%
+18/07/2018,"4 Booterstown Hall, Booterstown Ave, Dublin",Dublin,435000.0,No,Booterstown,Co. Dublin,q3,60%
+27/07/2018,"11 Grotto Place, Booterstown, Dublin",Dublin,349000.0,No,Booterstown,Co. Dublin,q2,40%
+03/08/2018,"1 Pembroke Cottages, Boterstown Ave, Booterstown",Dublin,502500.0,No,Booterstown,Co. Dublin,q3,70%
+09/08/2018,"27 Bellevue Court, Booterstown, Dublin",Dublin,332500.0,No,Booterstown,Co. Dublin,q2,40%
+23/08/2018,"9 Willowmount, Booterstown, Dublin",Dublin,930000.0,No,Booterstown,Co. Dublin,q4,100%
+27/08/2018,"54 St Helens Rd, Booterstown, Dublin",Dublin,930000.0,No,Booterstown,Co. Dublin,q4,100%
+14/09/2018,"50 Seamount, Booterstown, Dublin",Dublin,405000.0,No,Booterstown,Co. Dublin,q2,50%
+28/09/2018,"67 Trimleston Park, Booterstown, Dublin",Dublin,675000.0,No,Booterstown,Co. Dublin,q4,90%
+03/10/2018,"Apt 6, Leader Hall, Booterstown Ave",Dublin,490000.0,No,Booterstown,Co. Dublin,q3,70%
+08/10/2018,"117 Fosterbrook, Booterstown, Dublin",Dublin,820000.0,No,Booterstown,Co. Dublin,q4,100%
+27/10/2018,"28 Merrion Woods, Booterstown, Dublin",Dublin,450000.0,No,Booterstown,Co. Dublin,q3,60%
+01/11/2018,"34 Dornden Park, Booterstown, Co Dublin",Dublin,922000.0,No,Booterstown,Co. Dublin,q4,100%
+07/11/2018,"31 Mccabe Villas, Booterstown, Dublin",Dublin,580000.0,No,Booterstown,Co. Dublin,q4,80%
+05/12/2018,"Apt 32 Bellevue Court, Booterstown, Dublin 4",Dublin,320000.0,No,Booterstown,Co. Dublin,q2,40%
+07/12/2018,"117 Seamount Apts, Stillorgan Rd, Booterstown",Dublin,310000.0,No,Booterstown,Co. Dublin,q2,40%
+07/12/2018,"39 Merrion Grove, Stillorgan Rd, Booterstown",Dublin,340000.0,No,Booterstown,Co. Dublin,q2,40%
+13/12/2018,"Apt 8 Booterstown Wood, Booterstown, Dublin",Dublin,440000.0,No,Booterstown,Co. Dublin,q3,60%
+14/12/2018,"32 Bellevue Park Ave, Booterstown, Dublin",Dublin,515000.0,No,Booterstown,Co. Dublin,q3,70%
+01/02/2019,"73 Trimleston Gardens, Booterstown, Co Dublin",Dublin,675000.0,No,Booterstown,Co. Dublin,q4,90%
+15/03/2019,"84 Cherbury Court, Booterstown Ave, Booterstown",Dublin,407500.0,No,Booterstown,Co. Dublin,q2,50%
+20/03/2019,"16 Hampton Crescent, St Helens Wood, Booterstown",Dublin,450000.0,No,Booterstown,Co. Dublin,q3,60%
+26/03/2019,"73 Seafield Crecent, Booterstown, Dublin",Dublin,650000.0,No,Booterstown,Co. Dublin,q4,90%
+29/03/2019,"14 Beech Grove, Booterstown, Dublin",Dublin,40000.0,No,Booterstown,Co. Dublin,q1,10%
+12/04/2019,"15 Booterstown Wood, Booterstown Ave, Co. Dublin",Dublin,435000.0,No,Booterstown,Co. Dublin,q3,60%
+15/05/2019,"4 Merrion Crescent, Booterstown, Co Dublin",Dublin,440000.0,No,Booterstown,Co. Dublin,q3,60%
+22/05/2019,"Apt 1, Booterstown Hall, Booterstown",Dublin,445000.0,No,Booterstown,Co. Dublin,q3,60%
+23/05/2019,"8 Castle Court, Booterstown, Dublin",Dublin,375000.0,No,Booterstown,Co. Dublin,q2,50%
+14/06/2019,"11 Trimleston Ave, Booterstown, Dublin",Dublin,740000.0,No,Booterstown,Co. Dublin,q4,90%
+14/06/2019,"56 Hampton Park, St Helens Wood, Booterstown",Dublin,800000.0,No,Booterstown,Co. Dublin,q4,100%
+20/06/2019,"62 Mccabe Villas, Booterstown, Co Dublin",Dublin,440000.0,No,Booterstown,Co. Dublin,q3,60%
+04/07/2019,"9 Hampton Park, St Helens Wood, Booterstown Ave",Dublin,787500.0,No,Booterstown,Co. Dublin,q4,90%
+09/07/2019,"5 Mc Cabe Villas, Booterstown, Dublin",Dublin,425000.0,No,Booterstown,Co. Dublin,q3,60%
+10/07/2019,"20 St Helen'S Road, Booterstown, Co Dublin",Dublin,425000.0,No,Booterstown,Co. Dublin,q3,60%
+15/07/2019,"75 Trimleston Gardens, Booterstown, Dublin",Dublin,755000.0,No,Booterstown,Co. Dublin,q4,90%
+22/07/2019,"2 The Stables, St Helens Wood, Booterstown",Dublin,450000.0,No,Booterstown,Co. Dublin,q3,60%
+23/07/2019,"7 Trimleston Dr, Booterstown, Dublin",Dublin,710000.0,No,Booterstown,Co. Dublin,q4,90%
+02/08/2019,"11 Grotto Place, Booterstown, Dublin",Dublin,410000.0,No,Booterstown,Co. Dublin,q3,60%
+02/08/2019,"17 Cherbury Court, Booterstown Ave, Booterstown",Dublin,370000.0,No,Booterstown,Co. Dublin,q2,50%
+02/08/2019,"32 Hampton Cresent, St Helens Wood, Booterstown",Dublin,1100000.0,No,Booterstown,Co. Dublin,q4,100%
+23/08/2019,"40 Merrion Grove, Booterstown, Dublin",Dublin,310000.0,No,Booterstown,Co. Dublin,q2,40%
+29/08/2019,"26 Cherbury Court, Booterstown, Dublin",Dublin,365000.0,No,Booterstown,Co. Dublin,q2,50%
+29/08/2019,"Apt 7, Leader Hall, Booterstown Ave",Dublin,470000.0,No,Booterstown,Co. Dublin,q3,70%
+18/09/2019,"73 Hampton Park, St Helens Wood, Booterstown",Dublin,810000.0,No,Booterstown,Co. Dublin,q4,100%
+30/09/2019,"16 Rosemount Court, Rosemount Terrace, Booterstown",Dublin,416005.0,No,Booterstown,Co. Dublin,q3,60%
+10/10/2019,"8 Trimleston Dr, Booterstown, Dublin",Dublin,675000.0,No,Booterstown,Co. Dublin,q4,90%
+14/10/2019,"63 Cherbury Court, Booterstown Ave, Dublin",Dublin,246666.0,No,Booterstown,Co. Dublin,q1,20%
+18/10/2019,"30 The Turnstone, Thorn Wood, Booterstown Ave",Dublin,477500.0,No,Booterstown,Co. Dublin,q3,70%

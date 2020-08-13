@@ -1,0 +1,713 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+12/01/2010,"Glendower, Old Station Road, Portmarnock",Dublin,1475000.0,No,Portmarnock,Co. Dublin,q4,100%
+19/01/2010,"62 Torcail, Portmarnock, County Dublin",Dublin,560000.0,No,Portmarnock,Co. Dublin,q4,80%
+27/01/2010,"39 Drumnigh Wood, Portmarnock",Dublin,555000.0,No,Portmarnock,Co. Dublin,q4,80%
+30/01/2010,"12 Carrikhill Close, Portmarnock",Dublin,460000.0,No,Portmarnock,Co. Dublin,q3,60%
+11/02/2010,"St. Columba'S Cottage, Strand Road, Portmarnock",Dublin,710000.0,No,Portmarnock,Co. Dublin,q4,100%
+19/02/2010,"9 Carrickhill Walk, Portmarnock",Dublin,382000.0,No,Portmarnock,Co. Dublin,q2,40%
+26/03/2010,"30 Carrickhill Drive, Portmarnock, Co. Dublin",Dublin,345000.0,No,Portmarnock,Co. Dublin,q2,40%
+22/04/2010,"14 Station House, Seabrook Manor, Portmarnock",Dublin,337500.0,No,Portmarnock,Co. Dublin,q2,40%
+26/04/2010,"1 Millstream The Links, New Road Portmarnock",Dublin,255000.0,No,Portmarnock,Co. Dublin,q1,20%
+30/04/2010,"32 Portmarnock Drive, Poermarnock",Dublin,425000.0,No,Portmarnock,Co. Dublin,q2,50%
+30/04/2010,"83 Greenview  Seabrook Manor, Portmarnock",Dublin,245000.0,No,Portmarnock,Co. Dublin,q1,20%
+30/04/2010,"Apt 77  The Kilns, Station Road, Portmarnock",Dublin,295000.0,No,Portmarnock,Co. Dublin,q1,30%
+10/05/2010,"58 Greenview, Seabrook Manor, Station Road Portmarnock",Dublin,230000.0,No,Portmarnock,Co. Dublin,q1,10%
+21/05/2010,"71 The Kilns, Station Road, Portmarnock",Dublin,27065.0,No,Portmarnock,Co. Dublin,q1,10%
+21/05/2010,"Apt 6 The Fairways, Seabrook Manor, Portmarnock",Dublin,265000.0,No,Portmarnock,Co. Dublin,q1,20%
+04/06/2010,"12 Wheatfield, Portmarnock",Dublin,460000.0,No,Portmarnock,Co. Dublin,q3,60%
+14/06/2010,"39 Martello Court, Portmarnock",Dublin,585000.0,No,Portmarnock,Co. Dublin,q4,90%
+15/06/2010,"10  Blackberry Rise, Portmarnock",Dublin,422000.0,No,Portmarnock,Co. Dublin,q2,50%
+16/06/2010,"24 Port Crescent, Portmarnock",Dublin,475000.0,No,Portmarnock,Co. Dublin,q3,60%
+18/06/2010,"Palm Court, 9 Portmarnock Grove, Portmarnock",Dublin,525000.0,No,Portmarnock,Co. Dublin,q3,80%
+23/06/2010,"37 Segrave, The Links, Portmarnock",Dublin,245000.0,No,Portmarnock,Co. Dublin,q1,20%
+23/06/2010,"Gleniff, Coast Road, Portmarnock",Dublin,965000.0,No,Portmarnock,Co. Dublin,q4,100%
+29/06/2010,"36 The Kilns, Station Road, Portmarnock",Dublin,245000.0,No,Portmarnock,Co. Dublin,q1,20%
+29/06/2010,"58 The Dunes, Portmarnock, Co. Dublin",Dublin,610000.0,No,Portmarnock,Co. Dublin,q4,90%
+02/07/2010,"14 Strandmill Avenue, Portmarnock",Dublin,287000.0,No,Portmarnock,Co. Dublin,q1,30%
+13/07/2010,"68 The Kilns, Portmarnock, County Dublin",Dublin,222000.0,No,Portmarnock,Co. Dublin,q1,10%
+20/07/2010,"78 Greenview, Seabrook Manor, Portmarnock",Dublin,250000.0,No,Portmarnock,Co. Dublin,q1,20%
+03/08/2010,"26 The Fairways, Seabrook Manor, Portmarnock",Dublin,245000.0,No,Portmarnock,Co. Dublin,q1,20%
+12/08/2010,"17 Millfield, Portmarnock",Dublin,198000.0,No,Portmarnock,Co. Dublin,q1,10%
+12/08/2010,"187 Ardilaun, Portmarnock, Co. Dublin",Dublin,485000.0,No,Portmarnock,Co. Dublin,q3,70%
+13/08/2010,"62 Millfield, The Links, Portmarnock",Dublin,298000.0,No,Portmarnock,Co. Dublin,q2,30%
+24/08/2010,"11 Carrickhill Drive, Portmarnock, Co.Dublin",Dublin,390000.0,No,Portmarnock,Co. Dublin,q2,40%
+06/09/2010,"60  St. Laurence O'Toole Avenue, Portmarnock",Dublin,295000.0,No,Portmarnock,Co. Dublin,q1,30%
+10/09/2010,"20 Strand Road, Portmarnock",Dublin,570000.0,No,Portmarnock,Co. Dublin,q4,80%
+10/09/2010,"73 The Dunes, Portmarnock",Dublin,560000.0,No,Portmarnock,Co. Dublin,q4,80%
+24/09/2010,"3 Waterside Crescent, Portmarnock",Dublin,500000.0,No,Portmarnock,Co. Dublin,q3,70%
+28/09/2010,"5 Portmarnock Walk, Portmarnock",Dublin,335000.0,No,Portmarnock,Co. Dublin,q2,40%
+04/10/2010,"163 Briar Walk, Portmarnock, Co. Dublin",Dublin,505000.0,No,Portmarnock,Co. Dublin,q3,70%
+13/10/2010,"294 Elner Court, Portmarnock",Dublin,530000.0,No,Portmarnock,Co. Dublin,q3,80%
+05/11/2010,"St.Marnock'S Cottage, Strand Road, Portmarnock",Dublin,330000.0,No,Portmarnock,Co. Dublin,q2,40%
+23/11/2010,"32 Caddell, The Links  New Road, Portmarnock",Dublin,280000.0,No,Portmarnock,Co. Dublin,q1,30%
+25/11/2010,"Apt 6  Seagrave, The Links, Portmarnock",Dublin,234500.0,No,Portmarnock,Co. Dublin,q1,20%
+29/11/2010,"84 Torcaill, Portmarnock, Co Dublin",Dublin,365000.0,No,Portmarnock,Co. Dublin,q2,40%
+21/12/2010,"13 Station House, Seabrook, Portmarnock",Dublin,295000.0,No,Portmarnock,Co. Dublin,q1,30%
+07/01/2011,"1 Heather Gardens, Portmarnock",Dublin,710000.0,No,Portmarnock,Co. Dublin,q4,100%
+21/03/2011,"48 Carrickhill Walk, Portmarnock",Dublin,355000.0,No,Portmarnock,Co. Dublin,q2,40%
+21/03/2011,"49 Millbank, The Links, Portmarnock",Dublin,190000.0,No,Portmarnock,Co. Dublin,q1,10%
+21/03/2011,"5 Burrow Court, Portmarnock",Dublin,500000.0,No,Portmarnock,Co. Dublin,q3,70%
+19/04/2011,"5 Wheatfield Road, Portmarnock",Dublin,422000.0,No,Portmarnock,Co. Dublin,q2,50%
+03/05/2011,"23 Portmarnock Grove, Portmarnock",Dublin,360000.0,No,Portmarnock,Co. Dublin,q2,40%
+10/05/2011,"20 Torcaill, Portmarnock",Dublin,630000.0,No,Portmarnock,Co. Dublin,q4,90%
+16/05/2011,"1 Wendell Avenue, Portmarnock",Dublin,408000.0,No,Portmarnock,Co. Dublin,q2,50%
+17/05/2011,"35 Drumnigh Wood, Drumnigh Road, Portmarnock",Dublin,481000.0,No,Portmarnock,Co. Dublin,q3,60%
+20/05/2011,"23 Woodlands, Portmarnock, County Dublin",Dublin,377000.0,No,Portmarnock,Co. Dublin,q2,40%
+17/06/2011,"4 Torcaill, Portmarnock",Dublin,520000.0,No,Portmarnock,Co. Dublin,q3,70%
+24/06/2011,"118 Torcaill, Portmarnock",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+05/07/2011,"41 St. Anne'S Square, Portmarnock",Dublin,388000.0,No,Portmarnock,Co. Dublin,q2,40%
+15/07/2011,"46 Carrickhill Heights, Portmarnock",Dublin,447500.0,No,Portmarnock,Co. Dublin,q3,60%
+18/07/2011,"134 Strand Road, Portmarnock",Dublin,495000.0,No,Portmarnock,Co. Dublin,q3,70%
+19/07/2011,"Mimosa, Station Road, Portmarnock",Dublin,240000.0,No,Portmarnock,Co. Dublin,q1,20%
+03/08/2011,"16 Drumnigh Wood, Drumnigh Road, Portmarnock",Dublin,1000000.0,No,Portmarnock,Co. Dublin,q4,100%
+09/08/2011,"3 Millfield The Links, Station Road, Portmarnock",Dublin,220000.0,No,Portmarnock,Co. Dublin,q1,10%
+16/08/2011,"9 Dal Riada, Portmarnock",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+30/08/2011,"15 Wendell Avenue, Portmarnock",Dublin,355000.0,No,Portmarnock,Co. Dublin,q2,40%
+12/09/2011,"16 Martello Court, Portmarnock",Dublin,480000.0,No,Portmarnock,Co. Dublin,q3,60%
+13/09/2011,"179 Bracken Drive, Portmarnock",Dublin,375000.0,No,Portmarnock,Co. Dublin,q2,40%
+21/09/2011,"6 The Burrows, Strand Road, Portmarnock",Dublin,210000.0,No,Portmarnock,Co. Dublin,q1,10%
+27/09/2011,"Gortmore, Old Portmarnock Road, Portmarnock",Dublin,765000.0,No,Portmarnock,Co. Dublin,q4,100%
+30/09/2011,"62 Carrickhill Road, Portmarnock",Dublin,390000.0,No,Portmarnock,Co. Dublin,q2,40%
+12/10/2011,"66 The Dunes, Portmarnock",Dublin,530000.0,No,Portmarnock,Co. Dublin,q3,80%
+14/10/2011,"10 Dal Riada, Lime Tree Avenue, Portmarnock",Dublin,535000.0,No,Portmarnock,Co. Dublin,q3,80%
+28/10/2011,"14 Blackberry Rise, Portmarnock",Dublin,400000.0,No,Portmarnock,Co. Dublin,q2,50%
+28/11/2011,"52 Blackthorn Close, Portmarnock, County Dublin",Dublin,390000.0,No,Portmarnock,Co. Dublin,q2,50%
+15/12/2011,"Nurse'S Cottage, 1 The Burrows, Strand Road  Portmarnock",Dublin,120500.0,No,Portmarnock,Co. Dublin,q1,10%
+20/12/2011,"80 The Fairways, Seabrook Manor, Portmarnock",Dublin,212000.0,No,Portmarnock,Co. Dublin,q1,10%
+20/12/2011,"Little Monks Meadow, Portmarnock, Co. Dublin",Dublin,182000.0,No,Portmarnock,Co. Dublin,q1,10%
+21/12/2011,"23  Burrow Court, Portmarnock",Dublin,410000.0,No,Portmarnock,Co. Dublin,q2,50%
+14/02/2012,"15 Upper Carrickhill Road, Portmarnock, County Dublin",Dublin,580000.0,No,Portmarnock,Co. Dublin,q4,90%
+24/02/2012,"38 Drumnigh Wood, Portmarnock",Dublin,450000.0,No,Portmarnock,Co. Dublin,q3,60%
+09/03/2012,"Seaview House, Strand Road, Portmarnock",Dublin,405000.0,No,Portmarnock,Co. Dublin,q2,50%
+22/03/2012,"60 Martello Court, Portmarnock, Co Dublin",Dublin,530000.0,No,Portmarnock,Co. Dublin,q3,80%
+02/04/2012,"42 Carrickhill Heights, Portmarnock",Dublin,470000.0,No,Portmarnock,Co. Dublin,q3,60%
+11/04/2012,"22 Millbank, The Links  New Road, Portmarnock",Dublin,169000.0,No,Portmarnock,Co. Dublin,q1,10%
+20/04/2012,"25  Woodlands, Portmarnock",Dublin,290000.0,No,Portmarnock,Co. Dublin,q1,30%
+20/04/2012,"4 Wheatfield Road, Portmarnock, Co. Dublni",Dublin,380000.0,No,Portmarnock,Co. Dublin,q2,40%
+27/04/2012,"146 Heatherwalk, Portmarnock",Dublin,600000.0,No,Portmarnock,Co. Dublin,q4,90%
+03/05/2012,"95 Drumnigh Wood, Portmarnock",Dublin,500000.0,No,Portmarnock,Co. Dublin,q3,70%
+10/05/2012,"18 Cadell The Links, Portmarnock",Dublin,180000.0,No,Portmarnock,Co. Dublin,q1,10%
+11/05/2012,"47 Woodlands, Portmarnock",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+14/05/2012,"1  Carrickhill Heights, Portmarnock",Dublin,420000.0,No,Portmarnock,Co. Dublin,q2,50%
+24/05/2012,"2 Waterside Crescent, Portmarnock",Dublin,402500.0,No,Portmarnock,Co. Dublin,q2,50%
+06/06/2012,"Apt.17 Seagrave, The Links, Portmarnock",Dublin,160000.0,No,Portmarnock,Co. Dublin,q1,10%
+15/06/2012,"Apt 46 Millbank, The Links, Portmarnock",Dublin,123000.0,No,Portmarnock,Co. Dublin,q1,10%
+05/07/2012,"25 The Quarry, Portmarnock",Dublin,300000.0,No,Portmarnock,Co. Dublin,q2,30%
+10/07/2012,"1A Portmarnock Park, Portmarnock",Dublin,310000.0,No,Portmarnock,Co. Dublin,q2,30%
+13/07/2012,"Apartment No. 28, The Links, Portmarnock",Dublin,158000.0,No,Portmarnock,Co. Dublin,q1,10%
+17/07/2012,"104 Ardilaun, Portmarnock",Dublin,405000.0,No,Portmarnock,Co. Dublin,q2,50%
+25/07/2012,"126 Drumnigh Wood, Portmarnock",Dublin,495000.0,No,Portmarnock,Co. Dublin,q3,70%
+30/07/2012,"55 Greenview, Seabrook Manor, Station Road Portmarnock",Dublin,157500.0,No,Portmarnock,Co. Dublin,q1,10%
+15/08/2012,"16 The Kilns, Station Road, Portmarnock",Dublin,230000.0,No,Portmarnock,Co. Dublin,q1,10%
+15/08/2012,"38 Martello Court, Portmarnock",Dublin,435000.0,No,Portmarnock,Co. Dublin,q3,60%
+27/08/2012,"8 Carrickhill Drive, Portmarnock, County Dublin",Dublin,285000.0,No,Portmarnock,Co. Dublin,q1,30%
+31/08/2012,"13 Martello Court, Portmarnock",Dublin,400000.0,No,Portmarnock,Co. Dublin,q2,50%
+11/09/2012,"14 Carrickhill Rise, Portmarnock, Co Dublin",Dublin,290000.0,No,Portmarnock,Co. Dublin,q1,30%
+12/09/2012,"Apartment 7, Block B Station Court, Seabrook Manor  Portmarnock",Dublin,120000.0,No,Portmarnock,Co. Dublin,q1,10%
+21/09/2012,"30 Beachpark, Portmarnock",Dublin,515000.0,No,Portmarnock,Co. Dublin,q3,70%
+21/09/2012,"8 Station House, Seabrook Manor, Portmarnock",Dublin,185000.0,No,Portmarnock,Co. Dublin,q1,10%
+05/10/2012,"213 Limetree Avenue, Portmarnock",Dublin,380000.0,No,Portmarnock,Co. Dublin,q2,40%
+05/10/2012,"Apartment 82, The Kilns  Station Road, Portmarnock",Dublin,150000.0,No,Portmarnock,Co. Dublin,q1,10%
+09/10/2012,"90 Blackberry Rise, Portmarnock",Dublin,360000.0,No,Portmarnock,Co. Dublin,q2,40%
+12/10/2012,"23, Carrickhill Drive, Portmarnock",Dublin,327000.0,No,Portmarnock,Co. Dublin,q2,40%
+12/10/2012,"86 The Fairways, Seabrook Manor, Portmarnock",Dublin,252000.0,No,Portmarnock,Co. Dublin,q1,20%
+18/10/2012,"41 Martello Court, Portmarnock, Co Dublin",Dublin,460000.0,No,Portmarnock,Co. Dublin,q3,60%
+31/10/2012,"65 Martello Court, Portmarnock",Dublin,370000.0,No,Portmarnock,Co. Dublin,q2,40%
+02/11/2012,"31 Carrick Court, Portmarnock",Dublin,390000.0,No,Portmarnock,Co. Dublin,q2,50%
+02/11/2012,"40 Dal Riada, Portmarnock",Dublin,510000.0,No,Portmarnock,Co. Dublin,q3,70%
+26/11/2012,"22  Strandmill Road, Portmarnock",Dublin,231000.0,No,Portmarnock,Co. Dublin,q1,10%
+26/11/2012,"36 Carrickhill Drive, Portmarnock",Dublin,417000.0,No,Portmarnock,Co. Dublin,q2,50%
+30/11/2012,"43 Carrickhill Walk, Portmarnock, Co Dublin",Dublin,312000.0,No,Portmarnock,Co. Dublin,q2,30%
+30/11/2012,"73 Carrick Court, Carrick Hill, Portmarnock",Dublin,364900.0,No,Portmarnock,Co. Dublin,q2,40%
+05/12/2012,"36 Wheatfield Road, Portmarnock",Dublin,412000.0,No,Portmarnock,Co. Dublin,q2,50%
+07/12/2012,"44 Beach Park, Portmarnock",Dublin,407500.0,No,Portmarnock,Co. Dublin,q2,50%
+13/12/2012,"63 Dal Riada, Portmarnock, Co Dublin",Dublin,510000.0,No,Portmarnock,Co. Dublin,q3,70%
+19/12/2012,"25 The Lodge, Seabrook Manor, Portmarnock",Dublin,168000.0,No,Portmarnock,Co. Dublin,q1,10%
+21/12/2012,"1A St. Marnocks Avenue, Portmarnock, Co. Dublin",Dublin,213500.0,No,Portmarnock,Co. Dublin,q1,10%
+25/02/2013,"94 The Dunes, Portmarnock",Dublin,497000.0,No,Portmarnock,Co. Dublin,q3,70%
+04/03/2013,"15 Onward Close, Portmarnock",Dublin,385000.0,No,Portmarnock,Co. Dublin,q2,40%
+12/03/2013,"9 Carrick Court, Portmarnock",Dublin,317000.0,No,Portmarnock,Co. Dublin,q2,30%
+12/03/2013,"Apt 11 Green View, Seabrook Manor, Portmarnock",Dublin,212500.0,No,Portmarnock,Co. Dublin,q1,10%
+15/03/2013,"18 Millfield, The Links, Portmarnock",Dublin,157000.0,No,Portmarnock,Co. Dublin,q1,10%
+26/03/2013,"28 Strand Road, Portmarnock, County Dublin",Dublin,530000.0,No,Portmarnock,Co. Dublin,q3,80%
+28/03/2013,"78 Portmarnock Drive, Portmarnock",Dublin,308000.0,No,Portmarnock,Co. Dublin,q2,30%
+05/04/2013,"241A Limetree Avenue, Portmarnock",Dublin,360000.0,No,Portmarnock,Co. Dublin,q2,40%
+17/04/2013,"49  St. Annes Square, Portmarnock",Dublin,213000.0,No,Portmarnock,Co. Dublin,q1,10%
+26/04/2013,"37 The Dunes, Portmarnock",Dublin,425000.0,No,Portmarnock,Co. Dublin,q2,50%
+03/05/2013,"70 Wendell Avenue, Portmarnock",Dublin,392000.0,No,Portmarnock,Co. Dublin,q2,50%
+31/05/2013,"212 Ardilaun, Portmarnock",Dublin,390000.0,No,Portmarnock,Co. Dublin,q2,50%
+06/06/2013,"9 The Fairways, Seabrook Manor, Portmarnock",Dublin,200000.0,No,Portmarnock,Co. Dublin,q1,10%
+13/06/2013,"51 Wendell Avenue, Portmarnock, Co Dublin",Dublin,385000.0,No,Portmarnock,Co. Dublin,q2,40%
+19/06/2013,"23A Portmarnock Drive, Portmarnock, County Dublin",Dublin,305000.0,No,Portmarnock,Co. Dublin,q2,30%
+21/06/2013,"53 Carrickhill Heights, Portmarnock",Dublin,505000.0,No,Portmarnock,Co. Dublin,q3,70%
+28/06/2013,"13 Torcaill, Portmarnock, Co Dublin",Dublin,471000.0,No,Portmarnock,Co. Dublin,q3,60%
+28/06/2013,"Apartment 86 The Kilns, Station Road, Portmarnock",Dublin,153000.0,No,Portmarnock,Co. Dublin,q1,10%
+10/07/2013,"Apartment 26 Green View, Seabrook Manor, Station Road Portmarnock",Dublin,195000.0,No,Portmarnock,Co. Dublin,q1,10%
+12/07/2013,"32 Torcail, Portmarnock",Dublin,300000.0,No,Portmarnock,Co. Dublin,q2,30%
+19/07/2013,"47 The Kilns, Station Road, Portmarnock",Dublin,195000.0,No,Portmarnock,Co. Dublin,q1,10%
+30/07/2013,"37 Martello Court, Portmarnock, Dublin",Dublin,450000.0,No,Portmarnock,Co. Dublin,q3,60%
+31/07/2013,"6 Torcaill Court, Blackwood Lane, Portmarnock",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+08/08/2013,"68 The Dunes, Portmarnock",Dublin,475000.0,No,Portmarnock,Co. Dublin,q3,60%
+09/08/2013,"6 Millbank, The Links, Portmarnock",Dublin,206000.0,No,Portmarnock,Co. Dublin,q1,10%
+15/08/2013,"97 Drumnigh Woods, Portmarnock, Co. Dublin",Dublin,432500.0,No,Portmarnock,Co. Dublin,q3,60%
+16/08/2013,"6 Cadell, The Links, Portmarnock",Dublin,230000.0,No,Portmarnock,Co. Dublin,q1,10%
+23/08/2013,"47 Dal Riada, Lime Tree Avenue, Portmarnock",Dublin,530000.0,No,Portmarnock,Co. Dublin,q3,80%
+02/09/2013,"77 Wendell Avenue, Martello, Portmarnock",Dublin,360000.0,No,Portmarnock,Co. Dublin,q2,40%
+04/09/2013,"20 Limetree Avenue, Portmarnock, County Dublin",Dublin,445000.0,No,Portmarnock,Co. Dublin,q3,60%
+06/09/2013,"453 Strand Road, Portmarnock",Dublin,655000.0,No,Portmarnock,Co. Dublin,q4,100%
+13/09/2013,"1A Carrickhill Close, Portmarnock",Dublin,365000.0,No,Portmarnock,Co. Dublin,q2,40%
+18/09/2013,"35 Woodlands, Portmarnock",Dublin,365000.0,No,Portmarnock,Co. Dublin,q2,40%
+20/09/2013,"3 Portmarnock Park, Portmarnock, Co Dublin",Dublin,347500.0,No,Portmarnock,Co. Dublin,q2,40%
+23/09/2013,"36 Dal Riada, Portmarnock",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+27/09/2013,"78 Carrickhill Rise, Portmarnock",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+04/10/2013,"97 Carricl Court, Portmarnock",Dublin,532000.0,No,Portmarnock,Co. Dublin,q3,80%
+14/10/2013,"Lismara, Church Avenue, Portmarnock",Dublin,268000.0,No,Portmarnock,Co. Dublin,q1,20%
+18/10/2013,"120 Ashley Rise, Portmarnock, Co. Dublin",Dublin,490000.0,No,Portmarnock,Co. Dublin,q3,70%
+24/10/2013,"91  Torcaill, Portmarnock, County Dublin",Dublin,355000.0,No,Portmarnock,Co. Dublin,q2,40%
+25/10/2013,"1 Upper Carrickhill Road, Portmarnock, Co. Dublin",Dublin,520000.0,No,Portmarnock,Co. Dublin,q3,70%
+08/11/2013,"3 Beach Park, Portmarnock, Co Dublin",Dublin,485000.0,No,Portmarnock,Co. Dublin,q3,70%
+13/11/2013,"Carlton, Church Avenue, Portmarnock",Dublin,285000.0,No,Portmarnock,Co. Dublin,q1,30%
+21/11/2013,"63 Torcaill, Portmarnock",Dublin,336000.0,No,Portmarnock,Co. Dublin,q2,40%
+29/11/2013,"27 Wendell Ave, Portmarnock, Dublin",Dublin,460000.0,No,Portmarnock,Co. Dublin,q3,60%
+04/12/2013,"67 Greenview Seabrook Manor, Portmarnock, Portmarnock",Dublin,258500.0,No,Portmarnock,Co. Dublin,q1,20%
+06/12/2013,"31 Martello Court, Portmarnock",Dublin,500000.0,No,Portmarnock,Co. Dublin,q3,70%
+06/12/2013,"95 Carrick Court, Portmarnock",Dublin,565000.0,No,Portmarnock,Co. Dublin,q4,80%
+11/12/2013,"46 Carrickhill Rd, Portmarnock, Dublin",Dublin,430000.0,No,Portmarnock,Co. Dublin,q3,60%
+17/12/2013,"15 The Quarry, Carrickhill Rd Upper, Portmarnock",Dublin,165000.0,No,Portmarnock,Co. Dublin,q1,10%
+17/12/2013,"3 Strandmill Park, Portmarnock, Dublin",Dublin,236500.0,No,Portmarnock,Co. Dublin,q1,20%
+17/12/2013,"Seahaven, Coast Rd, Portmarnock",Dublin,910000.0,No,Portmarnock,Co. Dublin,q4,100%
+19/12/2013,"Apt 80 The Kilns, Station Rd, Portmarnock",Dublin,120000.0,No,Portmarnock,Co. Dublin,q1,10%
+20/12/2013,"11 Martello Court, Portmarnock, Dublin",Dublin,470000.0,No,Portmarnock,Co. Dublin,q3,60%
+20/12/2013,"34 Millstream, Station Rd, Portmarnock",Dublin,197500.0,No,Portmarnock,Co. Dublin,q1,10%
+20/12/2013,"459 Strand Rd, Portmarnock, Dublin",Dublin,585000.0,No,Portmarnock,Co. Dublin,q4,90%
+09/01/2014,"Drumella, Church Avenue, Portmarnock",Dublin,495000.0,No,Portmarnock,Co. Dublin,q3,70%
+24/01/2014,"156 Briar Walk, Portmarnock, Dublin",Dublin,455000.0,No,Portmarnock,Co. Dublin,q3,60%
+28/01/2014,"46 Carrickhill Rise, Portmarnock, Dublin",Dublin,381000.0,No,Portmarnock,Co. Dublin,q2,40%
+30/01/2014,"7 Carrickhill Walk, Portmarnock, Dublin",Dublin,475000.0,No,Portmarnock,Co. Dublin,q3,60%
+10/02/2014,"No. 49 The Kilns, Station Road, Portmarnock",Dublin,228968.75,Yes,Portmarnock,Co. Dublin,q1,10%
+21/02/2014,"8 Strandmill Park, Portmarnock, Dublin",Dublin,237500.0,No,Portmarnock,Co. Dublin,q1,20%
+03/03/2014,"15 Torcailli, Portmarnock, Co Dublin",Dublin,485000.0,No,Portmarnock,Co. Dublin,q3,70%
+05/03/2014,"180 Bracken Dr, Portmarnock, Dublin",Dublin,450000.0,No,Portmarnock,Co. Dublin,q3,60%
+05/03/2014,"19 Portmarnock Crescent, Portmarnock, Dublin",Dublin,225000.0,No,Portmarnock,Co. Dublin,q1,10%
+28/03/2014,"111A Torcaill, Blackwood Lane, Portmarnock",Dublin,370000.0,No,Portmarnock,Co. Dublin,q2,40%
+03/04/2014,"649 Blackberry Lane, Portmarnock, Dublin",Dublin,522000.0,No,Portmarnock,Co. Dublin,q3,80%
+04/04/2014,"69 The Dunes, Portmarnock, Dublin",Dublin,585000.0,No,Portmarnock,Co. Dublin,q4,90%
+07/04/2014,"1 The Fairways, Station Rd, Portmarnock",Dublin,220000.0,No,Portmarnock,Co. Dublin,q1,10%
+11/04/2014,"5 Monks Meadow, Portmarnock",Dublin,651982.37,Yes,Portmarnock,Co. Dublin,q4,100%
+25/04/2014,"99 The Kilns, Portmarnock, Dublin",Dublin,225000.0,No,Portmarnock,Co. Dublin,q1,10%
+01/05/2014,"4B Strand Road, Portmarnock, Co Dublin",Dublin,700000.0,No,Portmarnock,Co. Dublin,q4,100%
+13/05/2014,"Glyndebourne, 13 Strand Road, Portmarnock",Dublin,470000.0,No,Portmarnock,Co. Dublin,q3,60%
+23/05/2014,"17 Millfield, The Links, Portmarnock",Dublin,185000.0,No,Portmarnock,Co. Dublin,q1,10%
+04/06/2014,"118 The Kilns, Station Rd, Portmarnock",Dublin,210000.0,No,Portmarnock,Co. Dublin,q1,10%
+19/06/2014,"1 Millstream, Apartment D The Links, New Rad Portmarnock",Dublin,285000.0,No,Portmarnock,Co. Dublin,q1,30%
+17/07/2014,"3 The Lodge, Seabrook Manor, Portmarnock",Dublin,239000.0,No,Portmarnock,Co. Dublin,q1,20%
+18/07/2014,"114 Carrick Hill Rise, Portmarnock, Dublin",Dublin,425000.0,No,Portmarnock,Co. Dublin,q2,50%
+22/07/2014,"'Lima', Station Road, Portmarnock",Dublin,400000.0,No,Portmarnock,Co. Dublin,q2,50%
+30/07/2014,"51 Carrickhill Road, Portmarnock",Dublin,440000.0,No,Portmarnock,Co. Dublin,q3,60%
+31/07/2014,"219 Ardilaun, Portmarnock, Dublin",Dublin,485000.0,No,Portmarnock,Co. Dublin,q3,70%
+31/07/2014,"6 The Fairways Seabrook Manor, Station Rd, Portmarnock",Dublin,295000.0,No,Portmarnock,Co. Dublin,q1,30%
+01/08/2014,"17 Comersford Cross, Portmarnock",Dublin,246691.62,Yes,Portmarnock,Co. Dublin,q1,20%
+01/08/2014,"Val Y Mar, Strand Rd, Portmarnock",Dublin,250000.0,No,Portmarnock,Co. Dublin,q1,20%
+05/08/2014,"34 Torcaill, Portmarnock, Co Dublin",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+05/08/2014,"42 Beach Park, Portmarnock, Dublin",Dublin,560000.0,No,Portmarnock,Co. Dublin,q4,80%
+05/08/2014,"9 Blackberry Rise, Portmarnock, Dublin",Dublin,520000.0,No,Portmarnock,Co. Dublin,q3,70%
+06/08/2014,"18 Carrickhill Walk, Portmarnock, Dublin",Dublin,487000.0,No,Portmarnock,Co. Dublin,q3,70%
+07/08/2014,"67 Wendell Ave, Portmarnock, Dublin",Dublin,505000.0,No,Portmarnock,Co. Dublin,q3,70%
+08/08/2014,"100 Kelvin Close, Portmarnock, Dublin",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+12/08/2014,"226 Ardilaun, Portmarnock, Dublin",Dublin,467000.0,No,Portmarnock,Co. Dublin,q3,60%
+28/08/2014,"75 Torcaill, Portmarnock, Dublin",Dublin,476000.0,No,Portmarnock,Co. Dublin,q3,60%
+28/08/2014,"No. 56  Block 6  The Kilns, Station Road, Portmarnock",Dublin,211453.74,Yes,Portmarnock,Co. Dublin,q1,10%
+29/08/2014,"5 Beechwood Apartments, Carrick Road, Portmarnock",Dublin,218000.0,No,Portmarnock,Co. Dublin,q1,10%
+29/08/2014,"Apt 22 Millbank, The Links, Portmarnock",Dublin,245000.0,No,Portmarnock,Co. Dublin,q1,20%
+01/09/2014,"45 Carraig Hill Heights, Portmarnock, Dublin",Dublin,515000.0,No,Portmarnock,Co. Dublin,q3,70%
+02/09/2014,"48 Drumnigh Wood, Portmarnock, Dublin",Dublin,620000.0,No,Portmarnock,Co. Dublin,q4,90%
+05/09/2014,"73 The Kilns Station Rd, Portmarnock, Dublin",Dublin,285000.0,No,Portmarnock,Co. Dublin,q1,30%
+05/09/2014,"96 Carrickhill Rise, Portmarnock, Dublin",Dublin,450000.0,No,Portmarnock,Co. Dublin,q3,60%
+08/09/2014,"75 Millbank, The Links, Portmarnock",Dublin,175000.0,No,Portmarnock,Co. Dublin,q1,10%
+23/09/2014,"31 Carrickhill Dr, Portmarnock, Dublin",Dublin,470000.0,No,Portmarnock,Co. Dublin,q3,60%
+23/09/2014,"71 The Kilns, Station Rd, Portmarnock",Dublin,319000.0,No,Portmarnock,Co. Dublin,q2,30%
+23/09/2014,"Hartcliffe, Strand Rd, Portmarnock",Dublin,710000.0,No,Portmarnock,Co. Dublin,q4,100%
+26/09/2014,"105 Comerfords Cross, Portmarnock",Dublin,334797.35,Yes,Portmarnock,Co. Dublin,q2,40%
+26/09/2014,"2 Lissadell House, Strand Road, Portmarnock",Dublin,900000.0,No,Portmarnock,Co. Dublin,q4,100%
+01/10/2014,"12 Comerfords Cross, Portmarnock",Dublin,171802.0,Yes,Portmarnock,Co. Dublin,q1,10%
+02/10/2014,"16  Comerfords Cross, Portmarnock, County Dublin",Dublin,246669.62,Yes,Portmarnock,Co. Dublin,q1,20%
+03/10/2014,"28 Comerfords Cross, Strand Road, Portmarnock",Dublin,279995.0,Yes,Portmarnock,Co. Dublin,q1,30%
+17/10/2014,"214 Ardilaun, Portmarnock, Dublin",Dublin,445000.0,No,Portmarnock,Co. Dublin,q3,60%
+20/10/2014,"78 Carrick Court, Portmarnock, Dublin",Dublin,530000.0,No,Portmarnock,Co. Dublin,q3,80%
+20/10/2014,"Seawinds, Station Road, Portmarnock",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+31/10/2014,"26 Carrickhill Dr, Portmarnock, Dublin",Dublin,398000.0,No,Portmarnock,Co. Dublin,q2,50%
+04/11/2014,"4 Strandmill Ave, Portmarnock, Dublin",Dublin,296000.0,No,Portmarnock,Co. Dublin,q2,30%
+12/11/2014,"St Helens, Portmarnock",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+14/11/2014,"15 Drumnigh Wood, Old Portmarnock, Dublin",Dublin,865000.0,No,Portmarnock,Co. Dublin,q4,100%
+14/11/2014,"24A Portmarnock Crescent, Portmarnock",Dublin,495000.0,Yes,Portmarnock,Co. Dublin,q3,70%
+14/11/2014,"4 Beechwood Apartments, Carrick Road, Portmarnock",Dublin,220000.0,No,Portmarnock,Co. Dublin,q1,10%
+14/11/2014,"42 The Dunes, Portmarnock, Dublin",Dublin,702000.0,No,Portmarnock,Co. Dublin,q4,100%
+18/11/2014,"63 Millfield, The Links, Portmarnock",Dublin,235000.0,No,Portmarnock,Co. Dublin,q1,20%
+20/11/2014,"25 Comerfords Cross, Portmarnock",Dublin,289995.0,Yes,Portmarnock,Co. Dublin,q1,30%
+21/11/2014,"13 Portmarnock Walk, Portmarnock, Dublin",Dublin,626500.0,No,Portmarnock,Co. Dublin,q4,90%
+25/11/2014,"17 Millbank, The Links, Portmarnock",Dublin,265000.0,No,Portmarnock,Co. Dublin,q1,20%
+26/11/2014,"82 Carrickhill Rd, Portmarnock, Dublin",Dublin,535000.0,No,Portmarnock,Co. Dublin,q3,80%
+27/11/2014,"4 Hillcrest, Blackwood Lane, Portmarnock",Dublin,1185000.0,No,Portmarnock,Co. Dublin,q4,100%
+27/11/2014,"46 Carrickhill Dr, Portmarnock, Dublin",Dublin,456500.0,No,Portmarnock,Co. Dublin,q3,60%
+03/12/2014,"1A Wheatfield Grove, Portmarnock, Dublin",Dublin,470000.0,No,Portmarnock,Co. Dublin,q3,60%
+03/12/2014,"31 Comerfords Cross, Portmarnock",Dublin,325000.0,Yes,Portmarnock,Co. Dublin,q2,30%
+09/12/2014,"20 Seagrave, The Links, Portmarnock",Dublin,170000.0,No,Portmarnock,Co. Dublin,q1,10%
+12/12/2014,"133 Strand Rd, Portmarnock, Dublin",Dublin,565000.0,No,Portmarnock,Co. Dublin,q4,80%
+12/12/2014,"18 Burrow Court, Portmarnock, Dublin",Dublin,700000.0,No,Portmarnock,Co. Dublin,q4,100%
+12/12/2014,"53 Portmarnock Cresent, Portmarnock, Dublin",Dublin,513000.0,No,Portmarnock,Co. Dublin,q3,70%
+12/12/2014,"7 The Kilns, Station Rd, Portmarnock",Dublin,625000.0,No,Portmarnock,Co. Dublin,q4,90%
+12/12/2014,"Station Road, Portmarnock",Dublin,800000.0,No,Portmarnock,Co. Dublin,q4,100%
+16/12/2014,"110 Ashley Rise, Portmarnock",Dublin,533000.0,No,Portmarnock,Co. Dublin,q3,80%
+17/12/2014,"14 Millbank, The Links, Portmarnock",Dublin,175000.0,No,Portmarnock,Co. Dublin,q1,10%
+17/12/2014,"21 Seagrave, The Links, Portmarnock",Dublin,260000.0,No,Portmarnock,Co. Dublin,q1,20%
+19/12/2014,"27 Millbank, Station Rd, Portmarnock",Dublin,265000.0,No,Portmarnock,Co. Dublin,q1,20%
+19/12/2014,"36 The Kilns, Station Rd, Portmarnock",Dublin,242000.0,No,Portmarnock,Co. Dublin,q1,20%
+19/12/2014,"Apt 13 Comerfords Cross, Portmarnock",Dublin,255502.0,Yes,Portmarnock,Co. Dublin,q1,20%
+22/12/2014,"Apartment 16  The Lodge, Seabrook Manor  Station Road, Portmarnock  Co. Dublin",Dublin,240000.0,No,Portmarnock,Co. Dublin,q1,20%
+23/12/2014,"23 Comerfords Cross, Portmarnock",Dublin,180617.0,Yes,Portmarnock,Co. Dublin,q1,10%
+09/01/2015,"2 Greenview Seabrook Manor, Station Rd, Portmarnock",Dublin,245000.0,No,Portmarnock,Co. Dublin,q1,20%
+09/01/2015,"6 Beechwood Apts, Portmarnock, Co Dublin",Dublin,198000.0,No,Portmarnock,Co. Dublin,q1,10%
+13/01/2015,"Santa Ynez, Old Portmarnock, Dublin",Dublin,950000.0,No,Portmarnock,Co. Dublin,q4,100%
+14/01/2015,"Apartment 28 Seagrave, The Links, Portmarnock",Dublin,159000.0,No,Portmarnock,Co. Dublin,q1,10%
+19/01/2015,"216 Ardilaun, Portmarnock, Dublin",Dublin,418000.0,No,Portmarnock,Co. Dublin,q2,50%
+21/01/2015,"15 Seagrave, The Links, Portmarnock",Dublin,140000.0,No,Portmarnock,Co. Dublin,q1,10%
+26/01/2015,"31A Burrow Court, Portmarnock, Dublin",Dublin,575000.0,No,Portmarnock,Co. Dublin,q4,90%
+28/01/2015,"Apartment 34, Comerfords Cross, Portmarnock",Dublin,361233.48,Yes,Portmarnock,Co. Dublin,q2,40%
+03/02/2015,"Apartment 11, Comerford'S Cross, Portmarnock",Dublin,274995.0,Yes,Portmarnock,Co. Dublin,q1,20%
+04/02/2015,"98 The Kilns, Portmarnock, Dublin",Dublin,240000.0,No,Portmarnock,Co. Dublin,q1,20%
+13/02/2015,"Apartment 24, Comerfords Cross, Portmarnock",Dublin,255502.0,Yes,Portmarnock,Co. Dublin,q1,20%
+13/02/2015,"Ard Aulin, Carrickhill Road Upper, Portmarnock",Dublin,600000.0,No,Portmarnock,Co. Dublin,q4,90%
+27/02/2015,"11 Waterside Crescent, Portmarnock, Dublin",Dublin,535000.0,No,Portmarnock,Co. Dublin,q3,80%
+27/02/2015,"Apartment No. 14, Comerford Cross, Portmarnock",Dublin,255502.2,Yes,Portmarnock,Co. Dublin,q1,20%
+03/03/2015,"92A Stannes Est, Portmarnock, Dublin",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+04/03/2015,"111A Torcaill, Blackwood Lane, Portmarnock",Dublin,405000.0,No,Portmarnock,Co. Dublin,q2,50%
+09/03/2015,"27 Comerfords Cross, Portmarnock",Dublin,250846.0,Yes,Portmarnock,Co. Dublin,q1,20%
+19/03/2015,"21 Blackberry Rise, Portmarnock, Dublin",Dublin,605000.0,No,Portmarnock,Co. Dublin,q4,90%
+20/03/2015,"23 Onward Close, Portmarnock, Dublin",Dublin,485000.0,No,Portmarnock,Co. Dublin,q3,70%
+20/03/2015,"Apartment No. 15, Comerfords Cross, Portmarnock",Dublin,255502.2,Yes,Portmarnock,Co. Dublin,q1,20%
+10/04/2015,"34 Carrickhill Rd, Portmarnock, Dublin",Dublin,520000.0,No,Portmarnock,Co. Dublin,q3,70%
+28/04/2015,"54 The Kilns, Station Rd, Portmarnock",Dublin,250000.0,No,Portmarnock,Co. Dublin,q1,20%
+08/05/2015,"106 Woodford Lane, Strand Road, Portmarnock",Dublin,415000.0,No,Portmarnock,Co. Dublin,q2,50%
+13/05/2015,"Apartment 22, Comerfords Cross, Portmarnock",Dublin,220260.0,Yes,Portmarnock,Co. Dublin,q1,10%
+25/05/2015,"49 The Kilns, Station Rd, Portmarnock",Dublin,271500.0,No,Portmarnock,Co. Dublin,q1,20%
+28/05/2015,"10 The Quarry, Carrickhill Rd, Portmarnock",Dublin,197000.0,No,Portmarnock,Co. Dublin,q1,10%
+29/05/2015,"24 Carrickhill Dr, Portmarnock, Dublin",Dublin,200000.0,No,Portmarnock,Co. Dublin,q1,10%
+19/06/2015,"101 The Kilns, Portmarnock, Dublin",Dublin,233000.0,No,Portmarnock,Co. Dublin,q1,20%
+23/06/2015,"28 Dal Riada, Portmarnock, Dublin",Dublin,710000.0,No,Portmarnock,Co. Dublin,q4,100%
+23/06/2015,"5 Wheatfield Rd, Portmarnock, Dublin",Dublin,542000.0,No,Portmarnock,Co. Dublin,q4,80%
+30/06/2015,"13 Waterside Crescent, Portmarnock, Dublin",Dublin,505000.0,No,Portmarnock,Co. Dublin,q3,70%
+08/07/2015,"21  Comerford Cross, Portmarnock",Dublin,290748.89,Yes,Portmarnock,Co. Dublin,q1,30%
+17/07/2015,"127 Drumnigh Wood, Portmarnock, Dublin",Dublin,515000.0,No,Portmarnock,Co. Dublin,q3,70%
+20/07/2015,"18 Caddell, The Links, Station Rd   Portmarnock",Dublin,275000.0,No,Portmarnock,Co. Dublin,q1,20%
+21/07/2015,"14 Martello Court, Portmarnock, Dublin",Dublin,586000.0,No,Portmarnock,Co. Dublin,q4,90%
+22/07/2015,"41 The Kilns, Station Rd, Portmarnock",Dublin,338000.0,No,Portmarnock,Co. Dublin,q2,40%
+23/07/2015,"2A Portmarnock Cresent, Portmarnock, Dublin",Dublin,410000.0,No,Portmarnock,Co. Dublin,q2,50%
+24/07/2015,"13 The Quarry, Carrickhill Rd, Portmarnock",Dublin,210000.0,No,Portmarnock,Co. Dublin,q1,10%
+24/07/2015,"3 Wheatfield Rd, Portmarnock, Dublin",Dublin,555000.0,No,Portmarnock,Co. Dublin,q4,80%
+24/07/2015,"453 Strand Rd, Portmarnock, Dublin",Dublin,730000.0,No,Portmarnock,Co. Dublin,q4,100%
+06/08/2015,"6 Portmarnock Park, Carrick Hill, Portmarnock",Dublin,405000.0,No,Portmarnock,Co. Dublin,q2,50%
+17/08/2015,"4 Beach Park, Portmarnock, Dublin",Dublin,565000.0,No,Portmarnock,Co. Dublin,q4,80%
+28/08/2015,"Apt 20 The Lodge, Seabrook Manor, Portmarnock",Dublin,265000.0,No,Portmarnock,Co. Dublin,q1,20%
+28/08/2015,"Zephyr, Woodlands, Portmarnock",Dublin,570000.0,No,Portmarnock,Co. Dublin,q4,80%
+11/09/2015,"18 Waterside Crescent, Portmarnock, Dublin",Dublin,545000.0,No,Portmarnock,Co. Dublin,q4,80%
+11/09/2015,"56 Dal Riada, Portmarnock, Dublin",Dublin,665000.0,No,Portmarnock,Co. Dublin,q4,100%
+15/09/2015,"233 Ashley Rise, Martello, Portmarnock",Dublin,495000.0,No,Portmarnock,Co. Dublin,q3,70%
+01/10/2015,"13 Martello Court, Portmarnock, Co. Dublin",Dublin,570000.0,No,Portmarnock,Co. Dublin,q4,80%
+05/10/2015,"60 The Fairways, Seabrook, Portmarnock",Dublin,287500.0,No,Portmarnock,Co. Dublin,q1,30%
+08/10/2015,"38 Torcaill, Portmarnock, Dublin",Dublin,388000.0,No,Portmarnock,Co. Dublin,q2,40%
+08/10/2015,"57 Portmarnock Crescent, Portmarnock, Dublin",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+10/10/2015,"96 Martello Court, Portmarnock, Dublin",Dublin,485000.0,No,Portmarnock,Co. Dublin,q3,70%
+13/10/2015,"Sandown, 19A The Dunes, Portmarnock",Dublin,670000.0,No,Portmarnock,Co. Dublin,q4,100%
+27/10/2015,"125Drumnigh Wood, Portmarnock, Dublin",Dublin,400000.0,No,Portmarnock,Co. Dublin,q2,50%
+06/11/2015,"62 Millfield, The Links, Portmarnock",Dublin,310000.0,No,Portmarnock,Co. Dublin,q2,30%
+04/12/2015,"17 Dal Riada, Portmarnock, Dublin",Dublin,610000.0,No,Portmarnock,Co. Dublin,q4,90%
+04/12/2015,"27 Caddell, The Links, Portmarnock",Dublin,305000.0,No,Portmarnock,Co. Dublin,q2,30%
+10/12/2015,"10 Torcaill Court, Portmarnock, Dublin",Dublin,552000.0,No,Portmarnock,Co. Dublin,q4,80%
+11/12/2015,"184 Ardilaun, Portmarnock, Co Dublin",Dublin,485000.0,No,Portmarnock,Co. Dublin,q3,70%
+17/12/2015,"33 Comerford'S Cross, Portmarnock",Dublin,271365.0,Yes,Portmarnock,Co. Dublin,q1,20%
+17/12/2015,"35 Portmarnock Dr, Portmarnock, Dublin",Dublin,408000.0,No,Portmarnock,Co. Dublin,q2,50%
+18/12/2015,"80 St Annes Sq, Portmarnock, Dublin",Dublin,375000.0,No,Portmarnock,Co. Dublin,q2,40%
+21/12/2015,"18 The Kilns, Station Road, Portmarnock",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+23/12/2015,"23 Comerfords  Cross, Portmarnock, County Dublin",Dublin,277533.0,Yes,Portmarnock,Co. Dublin,q1,30%
+06/01/2016,"104 The Kilns, Portmarnock",Dublin,266000.0,No,Portmarnock,Co. Dublin,q1,20%
+06/01/2016,"21 Carrickhill Walk, Portmarnock, Dublin",Dublin,512000.0,No,Portmarnock,Co. Dublin,q3,70%
+06/01/2016,"Navicula, Old Portmarnock, Dublin",Dublin,815000.0,No,Portmarnock,Co. Dublin,q4,100%
+08/01/2016,"55 Church Ave, Portmarnock",Dublin,370000.0,No,Portmarnock,Co. Dublin,q2,40%
+11/01/2016,"88 Torcaill, Blackwood Lane, Portmarnock",Dublin,420000.0,No,Portmarnock,Co. Dublin,q2,50%
+15/01/2016,"17 The Lodge, Seabrook Manor, Portmarnock",Dublin,190000.0,No,Portmarnock,Co. Dublin,q1,10%
+15/01/2016,"18 Portmarnock Crescent, Portmarnock, Dublin",Dublin,590000.0,No,Portmarnock,Co. Dublin,q4,90%
+15/01/2016,"93 Torcaill, Portmarnock, Dublin",Dublin,365000.0,No,Portmarnock,Co. Dublin,q2,40%
+26/01/2016,"37 St Ann'S Square, Portmarnock, Co Dublin",Dublin,275000.0,No,Portmarnock,Co. Dublin,q1,20%
+08/02/2016,"98 Carrick Court, Portmarnock, Dublin",Dublin,585000.0,No,Portmarnock,Co. Dublin,q4,90%
+12/02/2016,"62 Martello Court, Portmarnock, Dublin",Dublin,505000.0,No,Portmarnock,Co. Dublin,q3,70%
+18/02/2016,"39 The Kilns, Station Rd, Portmarnock",Dublin,335000.0,No,Portmarnock,Co. Dublin,q2,40%
+02/03/2016,"2 Limekiln, Carrickhill Rd Upper, Portmarnock",Dublin,706000.0,No,Portmarnock,Co. Dublin,q4,100%
+02/03/2016,"Ashfield, The Old Rd, Portmarnock",Dublin,710000.0,No,Portmarnock,Co. Dublin,q4,100%
+03/03/2016,"238 Ardilaun, Portmarnock, Co Dublin",Dublin,420000.0,No,Portmarnock,Co. Dublin,q2,50%
+14/03/2016,"9 The Rathmore Apts, The Links, Portmarnock",Dublin,232000.0,No,Portmarnock,Co. Dublin,q1,20%
+24/03/2016,"Apt 32  Comerfords Cross, Portmarnock, Dublin",Dublin,317181.0,Yes,Portmarnock,Co. Dublin,q2,30%
+08/04/2016,"145 Ardilaun, Portmarnock, Dublin",Dublin,525000.0,No,Portmarnock,Co. Dublin,q3,80%
+11/04/2016,"71 The Dunes, Portmarnock, Dublin",Dublin,530000.0,No,Portmarnock,Co. Dublin,q3,80%
+19/04/2016,"102, Comerfords Cross, Portmarnock",Dublin,325990.0,Yes,Portmarnock,Co. Dublin,q2,40%
+26/04/2016,"242 Limetree Ave, Portmarnock, Dublin 16",Dublin,570000.0,No,Portmarnock,Co. Dublin,q4,80%
+03/05/2016,"157 Ardilaun, Portmarnock, Dublin",Dublin,478000.0,No,Portmarnock,Co. Dublin,q3,60%
+06/05/2016,"104 Carrick Court, Portmarnock, Dublin",Dublin,516000.0,No,Portmarnock,Co. Dublin,q3,70%
+09/05/2016,"83 Briar Walk, Portmarnock, Dublin",Dublin,523000.0,No,Portmarnock,Co. Dublin,q3,80%
+23/05/2016,"46 Green View, Seabrook Manor, Portmarnock",Dublin,290000.0,No,Portmarnock,Co. Dublin,q1,30%
+30/05/2016,"190 Ashley Rise, Portmarnock, Dublin",Dublin,510000.0,No,Portmarnock,Co. Dublin,q3,70%
+02/06/2016,"2 Millfield, The Links, Portmarnock",Dublin,235000.0,No,Portmarnock,Co. Dublin,q1,20%
+02/06/2016,"24 The Kilns, Station Rd, Portmarnock",Dublin,360000.0,No,Portmarnock,Co. Dublin,q2,40%
+03/06/2016,"Apt 80 The Kilns, Station Rd, Portmarnock",Dublin,180000.0,No,Portmarnock,Co. Dublin,q1,10%
+10/06/2016,"32 Carrickhill Dr, Portmarnock, Dublin",Dublin,510000.0,No,Portmarnock,Co. Dublin,q3,70%
+17/06/2016,"9 Beach Park, Portmarnock, Dublin",Dublin,700000.0,No,Portmarnock,Co. Dublin,q4,100%
+17/06/2016,"99 Drumnigh Wood, Drumnigh Rd, Portmarnock",Dublin,625000.0,No,Portmarnock,Co. Dublin,q4,90%
+17/06/2016,"Apt 20 The, Portmarnock, Quarry",Dublin,200000.0,No,Portmarnock,Co. Dublin,q1,10%
+08/07/2016,"104 Comerfords Cross, Portmarnock",Dublin,321585.91,Yes,Portmarnock,Co. Dublin,q2,30%
+11/07/2016,"35 Carrickhill Heights, Portmarnock, Dublin",Dublin,721500.0,No,Portmarnock,Co. Dublin,q4,100%
+11/07/2016,"82 Wendell Ave, Portmarnock, Dublin",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+15/07/2016,"4 Hazel Court, Strand Road, Portmarnock",Dublin,295000.0,No,Portmarnock,Co. Dublin,q2,30%
+15/07/2016,"55 Millstream, The Links, Portmarnock",Dublin,205000.0,No,Portmarnock,Co. Dublin,q1,10%
+18/07/2016,"44 The Fairways, Seabrook Manor, Portmarnock",Dublin,265000.0,No,Portmarnock,Co. Dublin,q1,20%
+21/07/2016,"17 Burrow Court, Portmarnock, Dublin",Dublin,640000.0,No,Portmarnock,Co. Dublin,q4,90%
+22/07/2016,"108 Torchill, Portmarnock, Dublin",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+25/07/2016,"2 Wendell Ave, Portmarnock, Dublin",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+29/07/2016,"3 Hazel Court, Portmarnock, County Dublin",Dublin,300000.0,No,Portmarnock,Co. Dublin,q2,30%
+04/08/2016,"Santorini, 15 Strand Rd, Portmarnock",Dublin,602000.0,No,Portmarnock,Co. Dublin,q4,90%
+05/08/2016,"294A Elner Court, Portmarnock, Dublin",Dublin,630000.0,No,Portmarnock,Co. Dublin,q4,90%
+09/08/2016,"66 Millbank, The Links, Portmarnock",Dublin,257000.0,No,Portmarnock,Co. Dublin,q1,20%
+10/08/2016,"32 The Kilns, Station Rd, Portmarnock",Dublin,250000.0,No,Portmarnock,Co. Dublin,q1,20%
+12/08/2016,"5 Hazel Court, Strand Road, Portmarnock",Dublin,290000.0,No,Portmarnock,Co. Dublin,q1,30%
+15/08/2016,"31 Wheatfield Rd, Portmarnock, Dublin",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+24/08/2016,"45 Beach Park, Portmarnock, Dublin",Dublin,590000.0,No,Portmarnock,Co. Dublin,q4,90%
+29/08/2016,"61 Green View, Seabrook Manor, Portmarnock",Dublin,265000.0,No,Portmarnock,Co. Dublin,q1,20%
+31/08/2016,"2 Hazel Court, Strand Road, Portmarnock",Dublin,365000.0,No,Portmarnock,Co. Dublin,q2,40%
+01/09/2016,"83 Torcaill, Blackwood Lane, Portmarnock Dublin 13",Dublin,390000.0,No,Portmarnock,Co. Dublin,q2,50%
+02/09/2016,"25 St. Annes Square, Portmarnock, Co. Dublin",Dublin,275000.0,No,Portmarnock,Co. Dublin,q1,20%
+02/09/2016,"35 Torcaill, Portmarnock, Dublin",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+06/09/2016,"32 Carrickhill Walk, Portmarnock, Dublin",Dublin,449000.0,No,Portmarnock,Co. Dublin,q3,60%
+08/09/2016,"120 Ardilaun, Carrickhill Rd, Portmarnock",Dublin,500000.0,No,Portmarnock,Co. Dublin,q3,70%
+13/09/2016,"35 Portmarnock Crescent, Pormarnock, Co Dublin",Dublin,425000.0,No,Portmarnock,Co. Dublin,q2,50%
+23/09/2016,"2 Parkview, Portmarnock, Dublin",Dublin,560000.0,No,Portmarnock,Co. Dublin,q4,80%
+26/09/2016,"Apt.6 - The Millstream, The Links, Portmarnock",Dublin,249000.0,No,Portmarnock,Co. Dublin,q1,20%
+30/09/2016,"68 Greenview Apts, Seabrook Manor, Portmarnock",Dublin,310000.0,No,Portmarnock,Co. Dublin,q2,30%
+05/10/2016,"70 Drumnigh Wood, Portmarnock, Dublin",Dublin,650000.0,No,Portmarnock,Co. Dublin,q4,100%
+20/10/2016,"Airt House, Carrickhill Rd, Portmarnock",Dublin,490000.0,No,Portmarnock,Co. Dublin,q3,70%
+25/10/2016,"77 Martello Court, Portmarnock, Dublin",Dublin,492000.0,No,Portmarnock,Co. Dublin,q3,70%
+04/11/2016,"8 Caddell The Links, Station Road, Portmarnock",Dublin,325000.0,No,Portmarnock,Co. Dublin,q2,40%
+11/11/2016,"10 Carrick Hill Rise, Portmarnock, Co Dublin",Dublin,412000.0,No,Portmarnock,Co. Dublin,q2,50%
+15/11/2016,"211 Ardilavn, Portmarnock, Dublin",Dublin,520000.0,No,Portmarnock,Co. Dublin,q3,70%
+18/11/2016,"26 Portmarnock Dr, Portmarnock, Dublin",Dublin,470000.0,No,Portmarnock,Co. Dublin,q3,60%
+22/11/2016,"34 Beach Park, Portmarnock, Co Dublin",Dublin,640000.0,No,Portmarnock,Co. Dublin,q4,90%
+25/11/2016,"11 Portmarnock Walk, Portmarnock, Dublin",Dublin,460000.0,No,Portmarnock,Co. Dublin,q3,60%
+29/11/2016,"53 The Kilns, Station Rd, Portmarnock",Dublin,277500.0,No,Portmarnock,Co. Dublin,q1,30%
+30/11/2016,"87 The Dunes, Portmarnock, Dublin",Dublin,645000.0,No,Portmarnock,Co. Dublin,q4,100%
+30/11/2016,"9 The Quarry, Carrickhill Rd, Portmarnock",Dublin,210000.0,No,Portmarnock,Co. Dublin,q1,10%
+15/12/2016,"20 St Annes Sq, Portmarnock, Dublin",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+16/12/2016,"36 Beach Park, Portmarnock, Dublin",Dublin,685000.0,No,Portmarnock,Co. Dublin,q4,100%
+20/12/2016,"Owls Rest, Airt House Carrickhill Rd, Portmarnock",Dublin,245000.0,No,Portmarnock,Co. Dublin,q1,20%
+21/12/2016,"1 Station House, Seabrook Manor, Portmarnock",Dublin,265000.0,No,Portmarnock,Co. Dublin,q1,20%
+24/12/2016,"39A Carrickhill Walk, Portmarnock, Co Dublin",Dublin,357000.0,No,Portmarnock,Co. Dublin,q2,40%
+09/01/2017,"82 Portmarnock Drive, Portmarnock, Co Dublin",Dublin,450000.0,No,Portmarnock,Co. Dublin,q3,60%
+16/01/2017,"101 Comerfords Cross, Portmarnock, County Dublin",Dublin,375000.0,Yes,Portmarnock,Co. Dublin,q2,40%
+16/01/2017,"32 Wheatfield Rd, Portmarnock, Dublin",Dublin,572000.0,No,Portmarnock,Co. Dublin,q4,90%
+17/01/2017,"13 Torcaill, Portmarnock, Dublin",Dublin,525000.0,No,Portmarnock,Co. Dublin,q3,80%
+27/01/2017,"Apt 17 Seagrave, The Links, Portmarnock",Dublin,270000.0,No,Portmarnock,Co. Dublin,q1,20%
+30/01/2017,"45 Millstream, The Links, Portmarnock",Dublin,187000.0,No,Portmarnock,Co. Dublin,q1,10%
+31/01/2017,"68 The Kilns, Station Rd, Portmarnock",Dublin,222000.0,Yes,Portmarnock,Co. Dublin,q1,10%
+01/02/2017,"142 Ardilun, Portmarnock, Dublin",Dublin,465000.0,No,Portmarnock,Co. Dublin,q3,60%
+01/02/2017,"Slemish, Coast Rd, Portmarnock",Dublin,550000.0,No,Portmarnock,Co. Dublin,q4,80%
+13/02/2017,"64 Carrickhill Rise, Portmarnock, Co Dublin",Dublin,470000.0,No,Portmarnock,Co. Dublin,q3,60%
+01/03/2017,"33 Beach Park, Portmarnock, Dublin",Dublin,620000.0,No,Portmarnock,Co. Dublin,q4,90%
+02/03/2017,"17 Caddell, The Links Station Road, Portmarnock",Dublin,270000.0,No,Portmarnock,Co. Dublin,q1,20%
+10/03/2017,"16 Carrick Court, Portmarnock, Co Dublin",Dublin,508000.0,No,Portmarnock,Co. Dublin,q3,70%
+10/03/2017,"77 Millbank, The Links, Portmarnock",Dublin,300000.0,No,Portmarnock,Co. Dublin,q2,30%
+15/03/2017,"10 Martello Court, Portmarnock, Dublin",Dublin,562000.0,No,Portmarnock,Co. Dublin,q4,80%
+30/03/2017,"19 Carrickhill Close, Portmarnock, Dublin",Dublin,390000.0,No,Portmarnock,Co. Dublin,q2,50%
+05/04/2017,"6 The Quarry, Carrickhill Rd Upper, Portmarnock",Dublin,236000.0,No,Portmarnock,Co. Dublin,q1,20%
+07/04/2017,"47 St Annes Sq, Portmarnock, Dublin",Dublin,397000.0,No,Portmarnock,Co. Dublin,q2,50%
+27/04/2017,"23 Portmarnock Walk, Portmarnock, Dublin",Dublin,471000.0,No,Portmarnock,Co. Dublin,q3,60%
+15/05/2017,"21 Portmarnock Crescent, Portmarnock, Dublin",Dublin,510000.0,No,Portmarnock,Co. Dublin,q3,70%
+24/05/2017,"3 The Rise, St Marnocks Bay, Portmarnock",Dublin,383259.9,Yes,Portmarnock,Co. Dublin,q2,40%
+25/05/2017,"12 Wendell Ave, Portmarnock, Dublin",Dublin,585000.0,No,Portmarnock,Co. Dublin,q4,90%
+25/05/2017,"18 The Rise, Marnock'S Bay, Portmarnock",Dublin,453743.0,Yes,Portmarnock,Co. Dublin,q3,60%
+25/05/2017,"4 The Rise, St. Marnock'S Bay, Portmarnock",Dublin,383259.91,Yes,Portmarnock,Co. Dublin,q2,40%
+26/05/2017,"1  The Rise, St. Marnock'S Bay, Portmarnock",Dublin,387665.0,Yes,Portmarnock,Co. Dublin,q2,40%
+26/05/2017,"1 Hazel Court, Strand Road, Portmarnock",Dublin,385000.0,No,Portmarnock,Co. Dublin,q2,40%
+30/05/2017,"27 St Annes Sq, Portmarnock, Dublin",Dublin,300000.0,No,Portmarnock,Co. Dublin,q2,30%
+30/05/2017,"8 The Rise, St. Marnock'S Bay, Portmarnock",Dublin,383260.0,Yes,Portmarnock,Co. Dublin,q2,40%
+31/05/2017,"19 The Rise, St. Marnock'S Bay, Portmarnock",Dublin,453745.0,Yes,Portmarnock,Co. Dublin,q3,60%
+31/05/2017,"5 The Rise, St. Marnock'S Bay, Portmarnock",Dublin,400881.0,Yes,Portmarnock,Co. Dublin,q2,50%
+31/05/2017,"7 The Rise, St.Marnocks Bay, Portmarnock",Dublin,383261.1,Yes,Portmarnock,Co. Dublin,q2,40%
+12/06/2017,"40 St Ann Square, Portmarnock, Co Dublin",Dublin,132500.0,No,Portmarnock,Co. Dublin,q1,10%
+13/06/2017,"22 Strandmill Rd, Portmarnock, Dublin",Dublin,415000.0,No,Portmarnock,Co. Dublin,q2,50%
+15/06/2017,"103 Comerfords Cross, Portmarnock, Co. Dublin",Dublin,327753.3,Yes,Portmarnock,Co. Dublin,q2,40%
+20/06/2017,"46 The Kilns Station Rd, Portmarnock, Dublin",Dublin,260000.0,No,Portmarnock,Co. Dublin,q1,20%
+21/06/2017,"145 Ardilaun, Portmarnock, Dublin",Dublin,590000.0,No,Portmarnock,Co. Dublin,q4,90%
+27/06/2017,"38 Greenview, Seabrook Manor, Portmarnock",Dublin,270000.0,No,Portmarnock,Co. Dublin,q1,20%
+30/06/2017,"2 The Avenue, St Marnock'S Bay, Portmarnock",Dublin,635000.0,Yes,Portmarnock,Co. Dublin,q4,90%
+05/07/2017,"Apartment 21 Greenview, Seabrook Manor Station Road, Portmarnock",Dublin,295000.0,No,Portmarnock,Co. Dublin,q2,30%
+10/07/2017,"214 Ardilaun, Portmarnock, Dublin",Dublin,535000.0,No,Portmarnock,Co. Dublin,q3,80%
+11/07/2017,"8 Martello Ct, Portmarnock, Dublin",Dublin,555000.0,No,Portmarnock,Co. Dublin,q4,80%
+17/07/2017,"132 Kelvin Close, Portmarnock, Dublin",Dublin,590000.0,No,Portmarnock,Co. Dublin,q4,90%
+20/07/2017,"16 Rathmore, The Links, Portmarnock",Dublin,279000.0,No,Portmarnock,Co. Dublin,q1,30%
+21/07/2017,"2 The Walk, St. Marnock'S Bay, Portmarnock",Dublin,535000.0,Yes,Portmarnock,Co. Dublin,q3,80%
+21/07/2017,"24 Wheatfield Rd, Martello, Portmarnock",Dublin,575000.0,No,Portmarnock,Co. Dublin,q4,90%
+24/07/2017,"3 The Walk, St Marnocks Bay, Portmarnock",Dublin,193832.6,Yes,Portmarnock,Co. Dublin,q1,10%
+24/07/2017,"Annamoe, Station Rd, Portmarnock",Dublin,50000.0,No,Portmarnock,Co. Dublin,q1,10%
+25/07/2017,"1 The Walk, St Marnock'S Bay, Portmarnock",Dublin,462554.81,Yes,Portmarnock,Co. Dublin,q3,60%
+26/07/2017,"3 The Fairways, Seabrook Manor, Portmarnock",Dublin,255000.0,No,Portmarnock,Co. Dublin,q1,20%
+27/07/2017,"2 Millfield, The Links, Portmarnock",Dublin,282000.0,No,Portmarnock,Co. Dublin,q1,30%
+03/08/2017,"22 Carrickhill Walk, Portmarnock, Dublin",Dublin,516000.0,No,Portmarnock,Co. Dublin,q3,70%
+04/08/2017,"17 Portmarnock Crescent, Portmarnock, Dublin",Dublin,490000.0,No,Portmarnock,Co. Dublin,q3,70%
+09/08/2017,"Val Y Mar, Strand Rd, Portmarnock",Dublin,256000.0,No,Portmarnock,Co. Dublin,q1,20%
+11/08/2017,"6 The Lawn St Marnock'S Bay, Station Road, Portmarnock",Dublin,396477.0,Yes,Portmarnock,Co. Dublin,q2,50%
+21/08/2017,"42 Dal Riada, Portmarnock, Dublin",Dublin,665000.0,No,Portmarnock,Co. Dublin,q4,100%
+21/08/2017,"5 The Walk, St. Marnock'S Bay, Portmarnock",Dublin,454127.0,Yes,Portmarnock,Co. Dublin,q3,60%
+21/08/2017,"92 Drumnigh Rd, Portmarnock, Dublin",Dublin,525000.0,No,Portmarnock,Co. Dublin,q3,80%
+25/08/2017,"7  The Lawn, St Marnocks Bay, Portmarnock",Dublin,450000.0,Yes,Portmarnock,Co. Dublin,q3,60%
+08/09/2017,"45 Seagrave, The Links, Portmarnock",Dublin,212000.0,No,Portmarnock,Co. Dublin,q1,10%
+08/09/2017,"El Dorado, Suncroft Avenue, Portmarnock",Dublin,595000.0,No,Portmarnock,Co. Dublin,q4,90%
+15/09/2017,"7 The Walk, St Marnock'S Bay, Portmarnock",Dublin,449338.81,Yes,Portmarnock,Co. Dublin,q3,60%
+20/09/2017,"84 Portmarnock Dr, Portmarnock, Dublin",Dublin,495000.0,No,Portmarnock,Co. Dublin,q3,70%
+27/09/2017,"3 The Avenue, St Marnock'S Bay, Portmarnock",Dublin,555067.0,Yes,Portmarnock,Co. Dublin,q4,80%
+27/09/2017,"62 Torcail, Portmarnock, Dublin",Dublin,557500.0,No,Portmarnock,Co. Dublin,q4,80%
+27/09/2017,"No 9 The Lawn, St Marnocks Bay, Portmarnock",Dublin,450000.0,Yes,Portmarnock,Co. Dublin,q3,60%
+29/09/2017,"11 The Lawn, St Marnocks Bay, Portmarnock",Dublin,396475.77,Yes,Portmarnock,Co. Dublin,q2,50%
+02/10/2017,"10 The Lawn, St Marnock'S Bay, Portmarnock",Dublin,396475.77,Yes,Portmarnock,Co. Dublin,q2,50%
+02/10/2017,"13 The Walk, St Marnocks Bay, Portmarnock",Dublin,440528.63,Yes,Portmarnock,Co. Dublin,q3,60%
+06/10/2017,"39 Wheatfield Road, Portmarnock, Co Dublin",Dublin,605000.0,No,Portmarnock,Co. Dublin,q4,90%
+06/10/2017,"Eagles View, Wendell Ave, Portmarnock",Dublin,925000.0,No,Portmarnock,Co. Dublin,q4,100%
+06/10/2017,"Tweenweys, Coast Rd, Portmarnock",Dublin,1500000.0,No,Portmarnock,Co. Dublin,q4,100%
+13/10/2017,"320 Limetree Ave, Portmarnock, Dublin",Dublin,555000.0,No,Portmarnock,Co. Dublin,q4,80%
+17/10/2017,"112 Drumnigh Wood, Portmarnock, Dublin",Dublin,590000.0,No,Portmarnock,Co. Dublin,q4,90%
+17/10/2017,"158 Ardilaun, Portmarnock, Dublin",Dublin,575000.0,No,Portmarnock,Co. Dublin,q4,90%
+20/10/2017,"103 The Kilns, Portmarnock, Dublin",Dublin,200000.0,No,Portmarnock,Co. Dublin,q1,10%
+20/10/2017,"8 The Walk, St Marnocks Bay, Portmarnock",Dublin,515000.0,Yes,Portmarnock,Co. Dublin,q3,70%
+23/10/2017,"13 The Lawn, St Marnock'S Bay, Portmarnock",Dublin,396475.77,Yes,Portmarnock,Co. Dublin,q2,50%
+24/10/2017,"102 Carrickhill Rise, Portmarnock, Dublin",Dublin,565000.0,No,Portmarnock,Co. Dublin,q4,80%
+24/10/2017,"12 The Lawn, St. Marnock'S Bay, Portmarnock",Dublin,396476.0,Yes,Portmarnock,Co. Dublin,q2,50%
+26/10/2017,"9 The Walk, St Marnock'S Bay, Portmarnock",Dublin,453744.49,Yes,Portmarnock,Co. Dublin,q3,60%
+01/11/2017,"10 Millstream, The Links, Portmarnock",Dublin,285000.0,No,Portmarnock,Co. Dublin,q1,30%
+02/11/2017,"10 The Walk, St Marnock'S Bay, Portmarnock",Dublin,458151.0,Yes,Portmarnock,Co. Dublin,q3,60%
+03/11/2017,"58 Beach Park, Portmarnock, Dublin",Dublin,690000.0,No,Portmarnock,Co. Dublin,q4,100%
+03/11/2017,"89 Torcaill, Portmarnock, Dublin",Dublin,370000.0,No,Portmarnock,Co. Dublin,q2,40%
+06/11/2017,"18 The Lawn, St Marnocks Bay, Portmarnock",Dublin,449339.21,Yes,Portmarnock,Co. Dublin,q3,60%
+08/11/2017,"28 Strandmill Road, Portmarnock, Co Dublin",Dublin,315000.0,No,Portmarnock,Co. Dublin,q2,30%
+14/11/2017,"15 The Lawn, St Marnock'S Bay, Portmarnock",Dublin,396475.77,Yes,Portmarnock,Co. Dublin,q2,50%
+15/11/2017,"4 Millfield, The Links, Portmarnock",Dublin,290000.0,No,Portmarnock,Co. Dublin,q1,30%
+20/11/2017,"Sea Crest Lodge, Moyne Rd, Portmarnock",Dublin,570000.0,No,Portmarnock,Co. Dublin,q4,90%
+21/11/2017,"54 Church Ave, Portmarnock, Dublin",Dublin,390000.0,No,Portmarnock,Co. Dublin,q2,50%
+29/11/2017,"7 Portmarnock Walk, Portmarnock, Dublin",Dublin,550000.0,No,Portmarnock,Co. Dublin,q4,80%
+01/12/2017,"14 The Walk, St Marnocks Bay, Portmarnock",Dublin,555066.08,Yes,Portmarnock,Co. Dublin,q4,80%
+01/12/2017,"19 The Lawn, St Marnocks Bay, Portmarnock",Dublin,484581.5,Yes,Portmarnock,Co. Dublin,q3,60%
+01/12/2017,"54 The Kilns, Station Rd, Portmarnock",Dublin,315000.0,No,Portmarnock,Co. Dublin,q2,30%
+04/12/2017,"14 Station House, Seabrook Manor, Station Road  Portmarnock",Dublin,380000.0,No,Portmarnock,Co. Dublin,q2,40%
+04/12/2017,"22 The Lawn, St Marnocks Bay, Portmarnock",Dublin,484581.5,Yes,Portmarnock,Co. Dublin,q3,60%
+05/12/2017,"12 The Walk, St. Marnocks Bay, Portmarnock",Dublin,462556.0,Yes,Portmarnock,Co. Dublin,q3,60%
+06/12/2017,"21 Millfield, The Links, Portmarnock",Dublin,285000.0,No,Portmarnock,Co. Dublin,q1,30%
+08/12/2017,"114 Drumnigh Wood, Portmarnock, Dublin",Dublin,596500.0,No,Portmarnock,Co. Dublin,q4,90%
+11/12/2017,"20  The Lawn, St Marnock'S Bay, Portmarnock",Dublin,488987.0,Yes,Portmarnock,Co. Dublin,q3,70%
+11/12/2017,"28 The Lawn, St. Marnocks Bay, Portmarnock",Dublin,484581.0,Yes,Portmarnock,Co. Dublin,q3,60%
+14/12/2017,"27 The Lawn, St Marnocks Bay, Portmarnock",Dublin,488986.78,Yes,Portmarnock,Co. Dublin,q3,70%
+15/12/2017,"26 The Lawn, St Marnocks Bay, Portmarnock",Dublin,488986.78,Yes,Portmarnock,Co. Dublin,q3,70%
+15/12/2017,"319 Limetree Ave, Carrickhill, Portmarnock",Dublin,560000.0,No,Portmarnock,Co. Dublin,q4,80%
+20/12/2017,"23 The Drive, St Marnock'S Bay, Portmarnock",Dublin,414088.0,Yes,Portmarnock,Co. Dublin,q2,50%
+20/12/2017,"24 The Drive, St. Marnock'S Bay, Portmarnock",Dublin,414098.0,Yes,Portmarnock,Co. Dublin,q2,50%
+20/12/2017,"25 The Drive, St Marnock'S Bay, Portmarnock",Dublin,409692.0,Yes,Portmarnock,Co. Dublin,q2,50%
+20/12/2017,"3 The View, St Marnock'S Bay, Portmarnock",Dublin,409693.0,Yes,Portmarnock,Co. Dublin,q2,50%
+20/12/2017,"30 Carrickhill Heights, Portmarnock, Co Dublin",Dublin,690000.0,No,Portmarnock,Co. Dublin,q4,100%
+20/12/2017,"Killanure, Strand Rd, Portmarnock",Dublin,685000.0,No,Portmarnock,Co. Dublin,q4,100%
+21/12/2017,"29 The Lawn, St Marnocks Bay, Portmarnock",Dublin,453744.49,Yes,Portmarnock,Co. Dublin,q3,60%
+18/01/2018,"23 The Lawn, St. Marnocks Bay, Portmarnock",Dublin,484582.0,Yes,Portmarnock,Co. Dublin,q3,60%
+18/01/2018,"58 St Anns Sq, Portmarnock, Dublin",Dublin,382000.0,No,Portmarnock,Co. Dublin,q2,40%
+19/01/2018,"1 Drumnigh Wood, Portmarnock, Co. Dublin",Dublin,1050000.0,No,Portmarnock,Co. Dublin,q4,100%
+19/01/2018,"14 Parkview, Portmarnock, Dublin",Dublin,565000.0,No,Portmarnock,Co. Dublin,q4,80%
+19/01/2018,"4 Carrickhill Heights, Portmarnock, Dublin",Dublin,625000.0,No,Portmarnock,Co. Dublin,q4,90%
+23/01/2018,"99 St Annes Sq, Portmarnock, Dublin",Dublin,470000.0,No,Portmarnock,Co. Dublin,q3,60%
+25/01/2018,"1 Station House, Seabrook Manor, Portmarnock",Dublin,285000.0,No,Portmarnock,Co. Dublin,q1,30%
+26/01/2018,"243 Limetree Ave, Portmarnock, Dublin",Dublin,675000.0,No,Portmarnock,Co. Dublin,q4,100%
+29/01/2018,"1  The View, St. Marnock'S Bay, Portmarnock",Dublin,405286.0,Yes,Portmarnock,Co. Dublin,q2,50%
+01/02/2018,"36 Portmarnock Dr, Portmarnock, Dublin",Dublin,595000.0,No,Portmarnock,Co. Dublin,q4,90%
+08/02/2018,"2 Strandmill Ave, Portmarnock, Dublin",Dublin,350000.0,No,Portmarnock,Co. Dublin,q2,40%
+08/02/2018,"70A Wendell Avenue, Portmarnock, Co Dublin",Dublin,610000.0,No,Portmarnock,Co. Dublin,q4,90%
+12/02/2018,"22 The Drive, St Marnocks Bay, Portmarnock",Dublin,414096.92,Yes,Portmarnock,Co. Dublin,q2,50%
+14/02/2018,"81 Greenview, Seabrook Manor, Portmarnock",Dublin,330000.0,No,Portmarnock,Co. Dublin,q2,40%
+14/02/2018,"Apart 1 Over Spar, Strand Road, Portmarnock",Dublin,250000.0,No,Portmarnock,Co. Dublin,q1,20%
+20/02/2018,"19 Carrickhill Dr, Portmarnock, Dublin",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+20/02/2018,"19 The Drive, St Marnocks Bay, Portmarnock",Dublin,422907.5,Yes,Portmarnock,Co. Dublin,q2,50%
+21/02/2018,"100 Portmarnock Dr, Portmarnock, Dublin",Dublin,507000.0,No,Portmarnock,Co. Dublin,q3,70%
+21/02/2018,"20 The Drive, St Marnock'S Bay, Portmarnock",Dublin,414096.92,Yes,Portmarnock,Co. Dublin,q2,50%
+22/02/2018,"17 The Rise, St. Marnocks Bay, Portmarnock",Dublin,495000.0,Yes,Portmarnock,Co. Dublin,q3,70%
+23/02/2018,"243 Limetree Ave, Portmarnock, Dublin",Dublin,200000.0,No,Portmarnock,Co. Dublin,q1,10%
+26/02/2018,"18 The Drive, St Marnock'S Bay, Portmarnock",Dublin,422907.49,Yes,Portmarnock,Co. Dublin,q2,50%
+27/02/2018,"1 The Avenue, Marnock'S Bay, Portmarnock",Dublin,559471.37,Yes,Portmarnock,Co. Dublin,q4,80%
+28/02/2018,"21 The Drive, St Marnocks Bay, Portmarnock",Dublin,414096.9,Yes,Portmarnock,Co. Dublin,q2,50%
+08/03/2018,"24 The Lawn, St Marnock'S Bay, Portmarnock",Dublin,484572.68,Yes,Portmarnock,Co. Dublin,q3,60%
+09/03/2018,"4 Strand Rd, Portmarnock, Dublin",Dublin,660000.0,No,Portmarnock,Co. Dublin,q4,100%
+12/03/2018,"15 The Drive, St. Marnock'S Bay, Portmarnock",Dublin,422906.8,Yes,Portmarnock,Co. Dublin,q2,50%
+15/03/2018,"Lodge, Strand Rd, Portmarnock",Dublin,1150000.0,No,Portmarnock,Co. Dublin,q4,100%
+16/03/2018,"10 The Drive, St Marnocks Bay, Portmarnock",Dublin,414096.92,Yes,Portmarnock,Co. Dublin,q2,50%
+16/03/2018,"8 Drumnigh Wood, Portmarnock, Dublin 13",Dublin,1200000.0,No,Portmarnock,Co. Dublin,q4,100%
+21/03/2018,"Hillside Cottage, Old Portmarnock, Co Dublin",Dublin,460000.0,No,Portmarnock,Co. Dublin,q3,60%
+23/03/2018,"16  Comerfords Cross, Portmarnock, County Dublin",Dublin,410000.0,No,Portmarnock,Co. Dublin,q2,50%
+26/03/2018,"1 Lissadell House, Strand Rd, Portmarnock",Dublin,1400000.0,No,Portmarnock,Co. Dublin,q4,100%
+27/03/2018,"8 The Drive, St Marnock'S Bay, Portmarnock",Dublin,418502.2,Yes,Portmarnock,Co. Dublin,q2,50%
+29/03/2018,"12 The Quarry, Carrickhill Rd, Upper Portmarnock Dublin 8",Dublin,275000.0,No,Portmarnock,Co. Dublin,q1,20%
+29/03/2018,"14 The Rise, St Marnocks Bay, Portmarnock",Dublin,506599.0,Yes,Portmarnock,Co. Dublin,q3,70%
+29/03/2018,"3 The Drive, St Marnock'S Bay, Portmarnock",Dublin,540000.0,Yes,Portmarnock,Co. Dublin,q3,80%
+04/04/2018,"14 The Drive, St Marnocks Bay, Portmarnock",Dublin,422907.5,Yes,Portmarnock,Co. Dublin,q2,50%
+04/04/2018,"36 Dal Riada, Portmarnock, Dublin",Dublin,715000.0,No,Portmarnock,Co. Dublin,q4,100%
+06/04/2018,"4 The Drive, Saint Marnock'S Bay, Portmarnock",Dublin,475770.81,Yes,Portmarnock,Co. Dublin,q3,60%
+06/04/2018,"5 The Drive, St. Marnock'S Bay, Portmarnock",Dublin,418495.0,Yes,Portmarnock,Co. Dublin,q2,50%
+09/04/2018,"8 Millfield, The Links, Portmarnock",Dublin,295000.0,No,Portmarnock,Co. Dublin,q2,30%
+11/04/2018,"2 The Drive, St Marnock'S Bay, Portmarnock",Dublin,449800.0,Yes,Portmarnock,Co. Dublin,q3,60%
+12/04/2018,"Four Seasons, Carrickhill Road Upper, Portmarnock",Dublin,735000.0,No,Portmarnock,Co. Dublin,q4,100%
+13/04/2018,"68 St Marnocks Ave, Portmarnock, Dublin",Dublin,410000.0,No,Portmarnock,Co. Dublin,q2,50%
+16/04/2018,"44 Beach Park, Portmarnock, Dublin",Dublin,770000.0,No,Portmarnock,Co. Dublin,q4,100%
+25/04/2018,"60 Carrickhill Rise, Portmarnock, Dublin",Dublin,520000.0,No,Portmarnock,Co. Dublin,q3,80%
+26/04/2018,"108 Ardilaun, Portmarnock, Co Dublin",Dublin,595000.0,No,Portmarnock,Co. Dublin,q4,90%
+26/04/2018,"24 The Kilns, Station Rd, Portmarnock",Dublin,415000.0,No,Portmarnock,Co. Dublin,q2,50%
+02/05/2018,"17 The Walk, St Marnocks Bay, Portmarnock",Dublin,622000.0,Yes,Portmarnock,Co. Dublin,q4,90%
+02/05/2018,"No.1 The Drive, St. Marnocks Bay, Portmarnock",Dublin,585903.08,Yes,Portmarnock,Co. Dublin,q4,90%
+10/05/2018,"13 The Drive, St. Marnock'S Bay, Portmarnock",Dublin,427305.0,Yes,Portmarnock,Co. Dublin,q2,50%
+14/05/2018,"21 Burrow Ct, Portmarnock, Dublin",Dublin,640000.0,No,Portmarnock,Co. Dublin,q4,90%
+17/05/2018,"123 Drumnigh Wood, Portmarnock, Dublin",Dublin,623000.0,No,Portmarnock,Co. Dublin,q4,90%
+17/05/2018,"15  The Rise, St. Marnock'S Bay, Portmarnock",Dublin,488985.81,Yes,Portmarnock,Co. Dublin,q3,70%
+07/06/2018,"6 The Avenue, St Marnocks Bay, Portmarnock",Dublin,585903.1,Yes,Portmarnock,Co. Dublin,q4,90%
+20/06/2018,"5 The Fairways, Seabrook Manor, Station Rd Portmarnock",Dublin,295000.0,No,Portmarnock,Co. Dublin,q2,30%
+21/06/2018,"25 Portmarnock Cresent, Portmarnock, Dublin",Dublin,590000.0,No,Portmarnock,Co. Dublin,q4,90%
+26/06/2018,"El Dorado, Suncroft Avenue, Portmarnock",Dublin,978700.0,No,Portmarnock,Co. Dublin,q4,100%
+27/06/2018,"7 Carrick Court, Portmarnock, Co Dublin",Dublin,500000.0,No,Portmarnock,Co. Dublin,q3,70%
+28/06/2018,"29 Carrickhill Rd, Portmarnock, Dublin",Dublin,510000.0,No,Portmarnock,Co. Dublin,q3,70%
+03/07/2018,"36 Carrick Court, Portmarnock, Dublin",Dublin,587500.0,No,Portmarnock,Co. Dublin,q4,90%
+05/07/2018,"6 Woodlands, Portmarnock, Dublin",Dublin,545000.0,No,Portmarnock,Co. Dublin,q4,80%
+09/07/2018,"12 Comerfords Cross, Portmarnock, Dublin",Dublin,330000.0,No,Portmarnock,Co. Dublin,q2,40%
+26/07/2018,"21 The Dunes, Portmarnock, Dublin",Dublin,850000.0,No,Portmarnock,Co. Dublin,q4,100%
+27/07/2018,"22 St Anns Sq, Portmarnock, Dublin",Dublin,385000.0,No,Portmarnock,Co. Dublin,q2,40%
+08/08/2018,"39 The Kilns, Station Rd, Portmarnock",Dublin,395000.0,No,Portmarnock,Co. Dublin,q2,50%
+16/08/2018,"1 The Kilns, Station Road, Portmarnock",Dublin,372000.0,No,Portmarnock,Co. Dublin,q2,40%
+16/08/2018,"47 Greenview, Seabrook Manor, Portmarnock",Dublin,310000.0,No,Portmarnock,Co. Dublin,q2,30%
+22/08/2018,"15 Station Court, Seabrook Manor, Portmarnock",Dublin,282000.0,No,Portmarnock,Co. Dublin,q1,30%
+05/09/2018,"70 Carrick Court, Portmarnock, Dublin",Dublin,541000.0,No,Portmarnock,Co. Dublin,q4,80%
+07/09/2018,"5 Onward Walk, Portmarnock, Dublin",Dublin,815000.0,No,Portmarnock,Co. Dublin,q4,100%
+07/09/2018,"65 Dal Riada, Portmarnock, Dublin",Dublin,730000.0,No,Portmarnock,Co. Dublin,q4,100%
+10/09/2018,"59 Drumnigh Wood, Drumnigh Rd, Portmarnock",Dublin,925000.0,No,Portmarnock,Co. Dublin,q4,100%
+21/09/2018,"17 Woodlands, Portmarnock, Dublin",Dublin,692000.0,No,Portmarnock,Co. Dublin,q4,100%
+02/10/2018,"7 The Green  Station Manor, Station Road, Portmarnock",Dublin,427312.0,Yes,Portmarnock,Co. Dublin,q2,50%
+05/10/2018,"129 Drumnigh Wood, Drumnigh Rd, Portmarnock",Dublin,600000.0,No,Portmarnock,Co. Dublin,q4,90%
+05/10/2018,"137 Drumnigh Wood, Portmarnock, Dublin",Dublin,785000.0,No,Portmarnock,Co. Dublin,q4,100%
+05/10/2018,"19 Carrickhill Heights, Portmarnock, Dublin",Dublin,750000.0,No,Portmarnock,Co. Dublin,q4,100%
+12/10/2018,"25 The Kilns, Portmarnock, Dublin",Dublin,215304.38,No,Portmarnock,Co. Dublin,q1,10%
+12/10/2018,"321 Limetree Ave, Portmarnock, Dublin",Dublin,615000.0,No,Portmarnock,Co. Dublin,q4,90%
+18/10/2018,"14 Waterside Crescent, Portmarnock, Dublin",Dublin,610000.0,No,Portmarnock,Co. Dublin,q4,90%
+18/10/2018,"15 The Walk, St Marnocks Bay, Station Road Portmarnock",Dublin,555076.07,Yes,Portmarnock,Co. Dublin,q4,80%
+19/10/2018,"59 The Kilns, Station Rd, Portmarnock",Dublin,288000.0,No,Portmarnock,Co. Dublin,q1,30%
+23/10/2018,"L23 The Links, Portmarnock, Co. Dublin",Dublin,209000.0,No,Portmarnock,Co. Dublin,q1,10%
+25/10/2018,"6 The Green, Station Manor, Portmarnock",Dublin,524229.0,Yes,Portmarnock,Co. Dublin,q3,80%
+26/10/2018,"28 Millbank, The Links, Station Rd   Portmarnock",Dublin,290000.0,No,Portmarnock,Co. Dublin,q1,30%
+01/11/2018,"69 Millbank, The Links, Portmarnock",Dublin,230000.0,No,Portmarnock,Co. Dublin,q1,10%
+02/11/2018,"14 The Kilns, Station Rd, Portmarnock Dublin 13",Dublin,395000.0,No,Portmarnock,Co. Dublin,q2,50%
+07/11/2018,"Ritaville, Strand Rd, Portmarnock",Dublin,840000.0,No,Portmarnock,Co. Dublin,q4,100%
+12/11/2018,"11 Redfern Ave, Portmarnock, Dublin 13",Dublin,595000.0,No,Portmarnock,Co. Dublin,q4,90%
+12/11/2018,"7 The Avenue, Station Manor, Portmarnock",Dublin,493392.0,Yes,Portmarnock,Co. Dublin,q3,70%
+14/11/2018,"113 Ardilaun, Portmarnock, Dublin",Dublin,575000.0,No,Portmarnock,Co. Dublin,q4,90%
+15/11/2018,"23 Wendell Ave, Portmarnock, Dublin",Dublin,615000.0,No,Portmarnock,Co. Dublin,q4,90%
+16/11/2018,"243 Limetree Ave, Portmarnock, Dublin",Dublin,542500.0,No,Portmarnock,Co. Dublin,q4,80%
+16/11/2018,"70 Martello Court, Portmarnock, Dublin",Dublin,590000.0,No,Portmarnock,Co. Dublin,q4,90%
+19/11/2018,"212 Ardilaun, Portmarnock, Dublin",Dublin,601000.0,No,Portmarnock,Co. Dublin,q4,90%
+19/11/2018,"30 Caddell, The Links, Portmarnock",Dublin,390000.0,No,Portmarnock,Co. Dublin,q2,50%
+21/11/2018,"Tir Na Nog, Church Avenue, Portmarnock",Dublin,590000.0,No,Portmarnock,Co. Dublin,q4,90%
+22/11/2018,"56 Portmarnock Dr, Portmarnock, Dublin",Dublin,575000.0,No,Portmarnock,Co. Dublin,q4,90%
+23/11/2018,"1 Carrickhill Rise, Portmarnock, Dublin",Dublin,420000.0,No,Portmarnock,Co. Dublin,q2,50%
+23/11/2018,"18 Wheatfield Rd, Portmarnock, Dublin",Dublin,585000.0,No,Portmarnock,Co. Dublin,q4,90%
+23/11/2018,"2 Portmarnock Crescent, Portmarnock, Dublin",Dublin,700000.0,No,Portmarnock,Co. Dublin,q4,100%
+23/11/2018,"29 Torcaill, Portmarnock, Dublin",Dublin,585000.0,No,Portmarnock,Co. Dublin,q4,90%
+06/12/2018,"5 Carrickhill Close, Portmarnock, Dublin",Dublin,236000.0,No,Portmarnock,Co. Dublin,q1,20%
+17/12/2018,"16 Strand Rd, Portmarnock, Dublin",Dublin,735000.0,No,Portmarnock,Co. Dublin,q4,100%
+17/12/2018,"4 The Dunes, Portmarnock, Dublin",Dublin,760000.0,No,Portmarnock,Co. Dublin,q4,100%
+17/12/2018,"Beechlawn, Old Portmarnock, Portmarnock",Dublin,1300000.0,No,Portmarnock,Co. Dublin,q4,100%
+19/12/2018,"34 Wheatfield Rd, Portmarnock, Dublin",Dublin,580000.0,No,Portmarnock,Co. Dublin,q4,90%
+19/12/2018,"Brickfield House, Station Rd, Portmarnock",Dublin,1225000.0,No,Portmarnock,Co. Dublin,q4,100%
+07/01/2019,"23 The Kilns, Station Rd, Portmarnock",Dublin,243000.0,No,Portmarnock,Co. Dublin,q1,20%
+09/01/2019,"3 The Kilns, Station Rd, Portmarnock",Dublin,580000.0,No,Portmarnock,Co. Dublin,q4,90%
+11/01/2019,"33 The Lodge, Seabrook Manor, Portmarnock",Dublin,310000.0,No,Portmarnock,Co. Dublin,q2,30%
+15/01/2019,"190 Ardilaun, Portmarnock, Dublin",Dublin,485000.0,No,Portmarnock,Co. Dublin,q3,70%
+16/01/2019,"7 The Lodge, Seabrook Manor, Portmarnock",Dublin,275000.0,No,Portmarnock,Co. Dublin,q1,30%
+17/01/2019,"1A Wheatfield Grove, Portmarnock, Dublin",Dublin,530000.0,No,Portmarnock,Co. Dublin,q3,80%
+17/01/2019,"4 Woodlands, Portmarnock, Dublin",Dublin,505000.0,No,Portmarnock,Co. Dublin,q3,70%
+21/01/2019,"18 The Quarry Apts, Carrickhill Rd, Portmarnock",Dublin,237000.0,No,Portmarnock,Co. Dublin,q1,20%
+21/01/2019,"64 Wendell Ave, Portmarnock, Dublin",Dublin,570000.0,No,Portmarnock,Co. Dublin,q4,90%
+23/01/2019,"37 Millbank, Portmarnock, Dublin",Dublin,250000.0,No,Portmarnock,Co. Dublin,q1,20%
+23/01/2019,"79 St Anns Sq, Portmarnock, Dublin",Dublin,427500.0,No,Portmarnock,Co. Dublin,q3,60%
+25/01/2019,"4 The Way, Station Manor, Portmarnock",Dublin,555066.0,Yes,Portmarnock,Co. Dublin,q4,80%
+31/01/2019,"6 The Avenue, Station Manor, Portmarnock",Dublin,519823.78,Yes,Portmarnock,Co. Dublin,q3,70%
+01/02/2019,"1 Hazel Manor, Strand Road, Portmarnock",Dublin,638766.52,Yes,Portmarnock,Co. Dublin,q4,90%
+05/02/2019,"26 Millstream, The Links, Portmarnock",Dublin,298000.0,No,Portmarnock,Co. Dublin,q2,30%
+19/02/2019,"32 Millbank, The Links, Portmarnock",Dublin,295000.0,No,Portmarnock,Co. Dublin,q2,30%
+22/02/2019,"15 Strandmill Park, Portmarnock, Dublin",Dublin,400000.0,No,Portmarnock,Co. Dublin,q2,50%
+25/02/2019,"Alsa Craig, Carrickhill Road Upper, Portmarnock",Dublin,750000.0,No,Portmarnock,Co. Dublin,q4,100%
+28/02/2019,"36 Martello Court, Portmarnock, Dublin",Dublin,702500.0,No,Portmarnock,Co. Dublin,q4,100%
+28/02/2019,"60 Greenview Seabrook Manor, Portmarnock, Dublin",Dublin,310000.0,No,Portmarnock,Co. Dublin,q2,30%
+04/03/2019,"53 Millbank, The Links, Portmarnock",Dublin,240000.0,No,Portmarnock,Co. Dublin,q1,20%
+20/03/2019,"Val Y Mar, Strand Rd, Portmarnock",Dublin,830000.0,No,Portmarnock,Co. Dublin,q4,100%
+21/03/2019,"69 Drumnigh Wood, Old Portmarnock, Dublin",Dublin,850000.0,No,Portmarnock,Co. Dublin,q4,100%
+01/04/2019,"7 Caddell, The Links, Portmarnock",Dublin,300000.0,No,Portmarnock,Co. Dublin,q2,30%
+09/04/2019,"12 Onward Close, Portmarnock, Dublin",Dublin,540000.0,No,Portmarnock,Co. Dublin,q3,80%
+17/04/2019,"105 The Kilns, Station Rd, Portmarnock",Dublin,290000.0,No,Portmarnock,Co. Dublin,q1,30%
+26/04/2019,"16 Green View, Seabrook Manor, Portmarnock",Dublin,302000.0,No,Portmarnock,Co. Dublin,q2,30%
+07/05/2019,"24 Carrickhill Heights, Portmarnock, Co Dublin",Dublin,670000.0,No,Portmarnock,Co. Dublin,q4,100%
+13/05/2019,"18 Millstream, The Links, Portmarnock",Dublin,255000.0,No,Portmarnock,Co. Dublin,q1,20%
+14/05/2019,"34 The Kilns, Station Rd, Portmarnock",Dublin,262000.0,No,Portmarnock,Co. Dublin,q1,20%
+14/05/2019,"6 The Drive, Station Manor, Portmarnock",Dublin,431718.1,Yes,Portmarnock,Co. Dublin,q3,60%
+15/05/2019,"13 Portmarnock Dr, Portmarnock, Dublin",Dublin,465000.0,No,Portmarnock,Co. Dublin,q3,60%
+15/05/2019,"9 Redfern Ave, Portmarnock, Dublin",Dublin,515000.0,No,Portmarnock,Co. Dublin,q3,70%
+23/05/2019,"4 The Drive Station Manor, Station Road, Portmarnock",Dublin,418500.0,Yes,Portmarnock,Co. Dublin,q2,50%
+24/05/2019,"21 Portmarnock Walk, Portmarnock, Co Dublin",Dublin,580000.0,No,Portmarnock,Co. Dublin,q4,90%
+29/05/2019,"76 Carrick Court, Portmarnock, Dublin",Dublin,595000.0,No,Portmarnock,Co. Dublin,q4,90%
+31/05/2019,"3 The Way, Station Manor, Portmarnock",Dublin,519824.0,Yes,Portmarnock,Co. Dublin,q3,70%
+05/06/2019,"22 The Lodge, Seabrook Manor, Portmarnock",Dublin,300000.0,No,Portmarnock,Co. Dublin,q2,30%
+06/06/2019,"10 The Drive  Station Manor, Station Road  Portmarnock",Dublin,234189.38,Yes,Portmarnock,Co. Dublin,q1,20%
+06/06/2019,"3 The Drive  Station Manor, Station Road  Portmarnock",Dublin,234189.38,Yes,Portmarnock,Co. Dublin,q1,20%
+06/06/2019,"9 The Drive  Station Manor, Station Road  Portmarnock",Dublin,234189.38,Yes,Portmarnock,Co. Dublin,q1,20%
+17/06/2019,"4 Seagrave, The Links, Portmarnock",Dublin,275000.0,No,Portmarnock,Co. Dublin,q1,30%
+21/06/2019,"5 Carrick Court Close, Portmarnock",Dublin,718061.7,Yes,Portmarnock,Co. Dublin,q4,100%
+26/06/2019,"90 Drumnigh Wood, Portmarnock, Dublin",Dublin,810000.0,No,Portmarnock,Co. Dublin,q4,100%
+27/06/2019,"3 Carrick Court Close, Portmarnock",Dublin,718061.0,Yes,Portmarnock,Co. Dublin,q4,100%
+28/06/2019,"Apt 1  Beechwood, Upper Carrickhill Road, Portmarnock",Dublin,275000.0,No,Portmarnock,Co. Dublin,q1,30%
+01/07/2019,"Strandville, Strand Rd, Portmarnock",Dublin,525000.0,No,Portmarnock,Co. Dublin,q3,80%
+05/07/2019,"57 Carrickhill Walk, Portmarnock, Dublin",Dublin,557000.0,No,Portmarnock,Co. Dublin,q4,80%
+10/07/2019,"67 The Crescent, Portmarnock, Dublin",Dublin,498000.0,No,Portmarnock,Co. Dublin,q3,70%
+11/07/2019,"22 Drumnigh Wood, Portmarnock, Dublin 13",Dublin,825000.0,No,Portmarnock,Co. Dublin,q4,100%
+19/07/2019,"16 Portmarnock Dr, Portmarnock, Dublin",Dublin,480000.0,No,Portmarnock,Co. Dublin,q3,60%
+23/07/2019,"40 Millfield, The Links, Portmarnock",Dublin,285000.0,No,Portmarnock,Co. Dublin,q1,30%
+24/07/2019,"26 The Kilns, Station Rd, Portmarnock",Dublin,290000.0,No,Portmarnock,Co. Dublin,q1,30%
+24/07/2019,"8 The Quarry, Carrickhill Road, Portmarnock",Dublin,250000.0,No,Portmarnock,Co. Dublin,q1,20%
+31/07/2019,"1 Carrick Court Close, Portmarnock",Dublin,726872.7,Yes,Portmarnock,Co. Dublin,q4,100%
+02/08/2019,"5 Drumnigh Manor, Portmarnock",Dublin,462555.0,Yes,Portmarnock,Co. Dublin,q3,60%
+12/08/2019,"Slemish, Coast Rd, Portmarnock",Dublin,550000.0,No,Portmarnock,Co. Dublin,q4,80%
+20/08/2019,"1 Drumnigh Manor, Portmarnock, Co. Dublin",Dublin,506608.0,Yes,Portmarnock,Co. Dublin,q3,70%
+22/08/2019,"1 The Crescent, St Marnock'S Bay, Portmarnock",Dublin,440529.82,Yes,Portmarnock,Co. Dublin,q3,60%
+23/08/2019,"16 Drumnigh Manor, Portmarnock",Dublin,507182.0,Yes,Portmarnock,Co. Dublin,q3,70%
+27/08/2019,"Apt 54 Millstream, The Links, Portmarnock",Dublin,299000.0,No,Portmarnock,Co. Dublin,q2,30%
+28/08/2019,"22 Drumnigh Manor, Portmarnock, Co Dublin",Dublin,488987.0,Yes,Portmarnock,Co. Dublin,q3,70%
+04/09/2019,"20 Drumingh Manor, Portmarnock",Dublin,502202.64,Yes,Portmarnock,Co. Dublin,q3,70%
+06/09/2019,"2 Carrick Court Close, Portmarnock",Dublin,696035.2,Yes,Portmarnock,Co. Dublin,q4,100%
+06/09/2019,"87 The Kilns, Station Rd, Portmarnock",Dublin,296000.0,No,Portmarnock,Co. Dublin,q2,30%
+09/09/2019,"52 The Avenue, St. Marnock'S Bay  Station Road, Portmarnock",Dublin,440527.81,Yes,Portmarnock,Co. Dublin,q3,60%
+09/09/2019,"61 The Fairways, Seabrook Manor, Portmarnock",Dublin,322500.0,No,Portmarnock,Co. Dublin,q2,30%
+13/09/2019,"2 Purley Park, Portmarnock, Dublin",Dublin,620000.0,No,Portmarnock,Co. Dublin,q4,90%
+13/09/2019,"36 Onward Walk, Portmarnock, Dublin",Dublin,590000.0,No,Portmarnock,Co. Dublin,q4,90%
+13/09/2019,"53 The Avenue, St. Marnocks Bay, Portmarnock",Dublin,440528.63,Yes,Portmarnock,Co. Dublin,q3,60%
+20/09/2019,"101 Ardilaun, Portmarnock, Dublin",Dublin,580000.0,No,Portmarnock,Co. Dublin,q4,90%
+20/09/2019,"8 Drumnigh Manor, Portmarnock, Co. Dublin",Dublin,572687.22,Yes,Portmarnock,Co. Dublin,q4,90%
+23/09/2019,"11 Drumnigh Manor, Portmarnock",Dublin,493392.0,Yes,Portmarnock,Co. Dublin,q3,70%
+24/09/2019,"49 The Avenue, St Marnock'S Bay, Portmarnock",Dublin,440528.0,Yes,Portmarnock,Co. Dublin,q3,60%
+25/09/2019,"14 Drumnigh Manor, Portmarnock",Dublin,502202.0,Yes,Portmarnock,Co. Dublin,q3,70%
+26/09/2019,"97 Torcaill, Portmarnock, Dublin",Dublin,450000.0,No,Portmarnock,Co. Dublin,q3,60%
+02/10/2019,"1 The Mews, Station M Anor, Portmarnock",Dublin,616740.1,Yes,Portmarnock,Co. Dublin,q4,90%
+04/10/2019,"5 Woodlands Court, Portmarnock, Dublin 13",Dublin,695000.0,No,Portmarnock,Co. Dublin,q4,100%
+04/10/2019,"Rathmullen House, Station Rd, Portmarnock",Dublin,760000.0,No,Portmarnock,Co. Dublin,q4,100%
+07/10/2019,"15 Drumnigh Manor, Portmarnock, County Dublin",Dublin,502202.0,Yes,Portmarnock,Co. Dublin,q3,70%
+09/10/2019,"42 Drumnigh Manor, Portmarnock",Dublin,572687.22,Yes,Portmarnock,Co. Dublin,q4,90%
+09/10/2019,"Caddell 24, The Links, Portmarnock",Dublin,380000.0,No,Portmarnock,Co. Dublin,q2,40%
+16/10/2019,"2 The Crescent, St Marnocks Bay, Portmarnock",Dublin,431718.1,Yes,Portmarnock,Co. Dublin,q3,60%

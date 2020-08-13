@@ -1,0 +1,78 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+27/05/2010,"14 Swift Hall, The Coombe, Dublin 8",Dublin,184000.0,No,The Coombe,Dublin 8,q2,50%
+25/06/2010,"18 Park Terrace, The Coombe",Dublin,135000.0,No,The Coombe,Dublin 8,q1,20%
+02/07/2010,"51 The Coombe, Dubliln 8",Dublin,180000.0,No,The Coombe,Dublin 8,q2,40%
+17/09/2010,"12 Pimlico, The Coombe, Dublin 8",Dublin,168000.0,No,The Coombe,Dublin 8,q2,40%
+09/12/2010,"20 Watkins Square, Ardee Street, The Coombe",Dublin,167500.0,No,The Coombe,Dublin 8,q2,40%
+21/01/2011,"17 Swift Hall, The Coombe, Dublin 8",Dublin,170000.0,No,The Coombe,Dublin 8,q2,40%
+31/01/2011,"29  30 & 31, The Coombe",Dublin,140000.0,No,The Coombe,Dublin 8,q1,20%
+06/07/2011,"17 Ash Street, The Coombe",Dublin,118000.0,No,The Coombe,Dublin 8,q1,10%
+12/10/2011,"3 Swift Hall, The Coombe, Dublin 8",Dublin,162500.0,No,The Coombe,Dublin 8,q2,30%
+25/01/2012,"45 Eugene Street, The Coombe",Dublin,50000.0,No,The Coombe,Dublin 8,q1,10%
+25/04/2012,"46 Eugene Street, The Coombe",Dublin,40000.0,No,The Coombe,Dublin 8,q1,10%
+10/08/2012,"14 Reginald Square, The Coombe",Dublin,115000.0,No,The Coombe,Dublin 8,q1,10%
+04/10/2012,"Apartment 21, New Row Place, The Coombe",Dublin,100000.0,No,The Coombe,Dublin 8,q1,10%
+24/03/2013,"49 Pimlico, The Coombe",Dublin,100000.0,No,The Coombe,Dublin 8,q1,10%
+19/07/2013,"Apartment 35 Swifthall, The Coombe, Dublin 8",Dublin,127000.0,No,The Coombe,Dublin 8,q1,20%
+12/08/2013,"30 Gray Street, The Coombe",Dublin,130500.0,No,The Coombe,Dublin 8,q1,20%
+30/09/2013,"2 Vintage Court, Cork Street, The Coombe",Dublin,57000.0,No,The Coombe,Dublin 8,q1,10%
+06/11/2013,"22 Ash Street, The Coombe",Dublin,146000.0,No,The Coombe,Dublin 8,q1,30%
+12/11/2013,"18 Emerald Square, The Coombe",Dublin,170700.0,No,The Coombe,Dublin 8,q2,40%
+04/12/2013,"2 Swift Hall Apts, The Coombe, Dublin 8",Dublin,135000.0,No,The Coombe,Dublin 8,q1,20%
+18/12/2013,"46 Reginald St, The Coombe, Dublin 8",Dublin,129000.0,No,The Coombe,Dublin 8,q1,20%
+18/12/2013,"60 The Coombe, Dublin 8",Dublin,200000.0,No,The Coombe,Dublin 8,q2,50%
+05/02/2014,"25 Newmarket Square, Blackpitts, The Coombe",Dublin,133000.0,No,The Coombe,Dublin 8,q1,20%
+08/05/2014,"62 The Coombe, Dublin 8",Dublin,162000.0,No,The Coombe,Dublin 8,q1,30%
+03/06/2014,"2 Watkins Buildings, The Coombe, Dublin 8",Dublin,225000.0,No,The Coombe,Dublin 8,q3,60%
+10/06/2014,"5 Gray Square, The Coombe, Dublin 8",Dublin,255000.0,No,The Coombe,Dublin 8,q3,70%
+10/09/2014,"2 Brabazon St, The Coombe, Dublin",Dublin,200000.0,No,The Coombe,Dublin 8,q2,50%
+24/09/2014,"53 The Coombe, Dublin 8, Dublin",Dublin,207500.0,No,The Coombe,Dublin 8,q2,50%
+26/09/2014,"12 Swift Hall Apts, The Coombe, Dublin 8",Dublin,216101.0,No,The Coombe,Dublin 8,q3,60%
+17/10/2014,"18A Ardee Street, The Coombe, Dublin 8",Dublin,182000.0,No,The Coombe,Dublin 8,q2,40%
+29/10/2014,"17 Ash St, The Coombe, Dublin",Dublin,305000.0,No,The Coombe,Dublin 8,q4,80%
+04/11/2014,"41 Reginald St, The Coombe, Dublin 8",Dublin,238000.0,No,The Coombe,Dublin 8,q3,70%
+23/12/2014,"71 The Coombe, Dublin 8, Dublin",Dublin,265000.0,No,The Coombe,Dublin 8,q3,70%
+10/07/2015,"28 The Coombe, Dublin 8, Dublin",Dublin,208000.0,No,The Coombe,Dublin 8,q2,50%
+15/07/2015,"5 Brabazon Square, The Coombe",Dublin,163000.0,No,The Coombe,Dublin 8,q2,30%
+18/09/2015,"Apt 36 Swift Hall, The Coombe, Dublin 8",Dublin,185000.0,No,The Coombe,Dublin 8,q2,50%
+30/09/2015,"5 Weaver Street, The Coombe, Dublin 8",Dublin,233000.0,No,The Coombe,Dublin 8,q3,60%
+03/11/2015,"20 Swift Hall Apts, The Coombe, Dublin 8",Dublin,230000.0,No,The Coombe,Dublin 8,q3,60%
+13/11/2015,"103 The Coombe, Dublin 8, Dublin",Dublin,263000.0,No,The Coombe,Dublin 8,q3,70%
+19/02/2016,"10 Eugene St, The Coombe, Dublin 8",Dublin,125000.0,No,The Coombe,Dublin 8,q1,20%
+19/02/2016,"19 St Lukes Gate, The Coombe, Dublin 8",Dublin,167000.0,No,The Coombe,Dublin 8,q2,30%
+25/02/2016,"20 St Lukes Gate, The Coombe, Dublin",Dublin,140000.0,No,The Coombe,Dublin 8,q1,30%
+17/06/2016,"4 St Lukes Gate, The Coombe, Dublin 8",Dublin,247000.0,No,The Coombe,Dublin 8,q3,70%
+08/07/2016,"24 Swift Hall, The Coombe, Dublin 8",Dublin,150000.0,No,The Coombe,Dublin 8,q1,30%
+07/09/2016,"2 Meath Terrace, Meath Place, The Coombe Dublin 8",Dublin,358000.0,No,The Coombe,Dublin 8,q4,90%
+27/09/2016,"57A The Coombe, Dublin 8, Dublin",Dublin,205000.0,No,The Coombe,Dublin 8,q2,50%
+30/11/2016,"68 The Coombe, Dublin 8",Dublin,320000.0,No,The Coombe,Dublin 8,q4,90%
+20/12/2016,"69 The Coombe, Dublin 8, Dublin",Dublin,246000.0,No,The Coombe,Dublin 8,q3,70%
+05/01/2017,"28 Maxwell St, The Coombe, Dublin 8",Dublin,184500.0,No,The Coombe,Dublin 8,q2,50%
+07/03/2017,"1 Pimlico, The Coombe, Dublin 8",Dublin,305000.0,No,The Coombe,Dublin 8,q4,80%
+28/04/2017,"104 The Coombe, Dublin 8, Dublin",Dublin,295000.0,No,The Coombe,Dublin 8,q3,80%
+19/05/2017,"33 St Lukes Gate, The Coombe, Dublin 8",Dublin,295000.0,No,The Coombe,Dublin 8,q3,80%
+02/06/2017,"4 Chamber Street, The Coombe, Dublin 8",Dublin,295000.0,No,The Coombe,Dublin 8,q4,80%
+22/06/2017,"18 St Lukes Gate, The Coombe, Dublin 8",Dublin,312000.0,No,The Coombe,Dublin 8,q4,90%
+29/06/2017,"28 St Lukes Gate, The Coombe, Dublin 8",Dublin,575000.0,No,The Coombe,Dublin 8,q4,100%
+31/07/2017,"Apartment 6, 4/7 The Coombe, Dublin 8",Dublin,786607.0,No,The Coombe,Dublin 8,q4,100%
+09/08/2017,"Apt 40, St Lukes Gate, The Coombe",Dublin,420000.0,No,The Coombe,Dublin 8,q4,100%
+20/10/2017,"16 Watkins Buildings, The Coombe, Dublin 8",Dublin,235000.0,No,The Coombe,Dublin 8,q3,70%
+27/10/2017,"5 Reuben Sq, Reuben St, The Coombe",Dublin,180000.0,No,The Coombe,Dublin 8,q2,40%
+31/10/2017,"33 St Lukes Gate, The Coombe, Dublin 8",Dublin,310000.0,No,The Coombe,Dublin 8,q4,90%
+15/11/2017,"14 Park Terrace, The Coombe, Dublin 8",Dublin,410000.0,No,The Coombe,Dublin 8,q4,100%
+17/11/2017,"63 Newmarket Sq, The Coombe, Dublin 8",Dublin,275000.0,No,The Coombe,Dublin 8,q3,80%
+15/12/2017,"37 St Lukes Gate, 105 109 The Coombe, Dublin 8",Dublin,450000.0,No,The Coombe,Dublin 8,q4,100%
+12/01/2018,"Apt 39, St Lukes Gate, The Coombe",Dublin,225000.0,No,The Coombe,Dublin 8,q3,60%
+29/03/2018,"The Old Brewers Club, 32 The Coombe",Dublin,351225.87,No,The Coombe,Dublin 8,q4,90%
+11/05/2018,"2 Pimlico Cottages, The Coombe, Dublin 8",Dublin,220000.0,No,The Coombe,Dublin 8,q3,60%
+03/07/2018,"70 The Coombe, Pimlico, Dublin 8",Dublin,100000.0,No,The Coombe,Dublin 8,q1,10%
+17/08/2018,"17 St Lukes Gate, The Coombe, Dublin 8",Dublin,275000.0,No,The Coombe,Dublin 8,q3,80%
+23/08/2018,"62 The Coombe, Dublin 8",Dublin,392000.0,No,The Coombe,Dublin 8,q4,100%
+30/08/2018,"34 St Lukes Gate, 105 109 The Coombe, Dublin 8",Dublin,375000.0,No,The Coombe,Dublin 8,q4,90%
+21/12/2018,"50 The Coombe, Dublin 8",Dublin,178610.0,No,The Coombe,Dublin 8,q2,40%
+14/01/2019,"45 Reginald St, The Coombe, Dublin 8",Dublin,395000.0,No,The Coombe,Dublin 8,q4,100%
+28/02/2019,"43 Reginald St The Coombe, Dublin 8, Dublin",Dublin,410000.0,No,The Coombe,Dublin 8,q4,100%
+29/05/2019,"26 Swift Hall, The Coombe Dublin 8, Dublin",Dublin,228000.0,No,The Coombe,Dublin 8,q3,60%
+28/06/2019,"Apt 27, St Lukes Gate, The Coombe Dublin 8",Dublin,271000.0,No,The Coombe,Dublin 8,q3,70%
+15/07/2019,"Apt 36 Swift Hall, The Coombe, Dublin 8",Dublin,354200.0,No,The Coombe,Dublin 8,q4,90%
+30/07/2019,"5 Cameron St, The Coombe, Dublin 8",Dublin,314000.0,No,The Coombe,Dublin 8,q4,90%

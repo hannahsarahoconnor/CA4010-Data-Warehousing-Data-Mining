@@ -1,0 +1,30 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+20/12/2012,"14 Gardiner Place, Dublin 1",Dublin,280000.0,No,Gardiner Place,Dublin 1,q2,40%
+14/02/2013,"30 Gardiner Place, Dublin 1",Dublin,109500.0,No,Gardiner Place,Dublin 1,q2,30%
+14/01/2014,"Basement Apt, 6 Gardiner Place, Dublin 1",Dublin,110000.0,No,Gardiner Place,Dublin 1,q2,40%
+13/02/2015,"10 11 Gardiner Place, Dublin 1",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q3,70%
+31/12/2015,"20 Gardiner Place, Dublin 1, Dublin",Dublin,800000.0,No,Gardiner Place,Dublin 1,q2,50%
+05/02/2016,"Apt 10, 2 Gardiner Place, Dublin 1",Dublin,23572.0,No,Gardiner Place,Dublin 1,q1,10%
+05/02/2016,"Apt 11, 2 Gardiner Place, Dublin 1",Dublin,23572.0,No,Gardiner Place,Dublin 1,q1,10%
+05/02/2016,"Apt 12, 2 Gardiner Place, Dublin 1",Dublin,23572.0,No,Gardiner Place,Dublin 1,q1,10%
+05/02/2016,"Apt 13, 2 Gardiner Place, Dublin 1",Dublin,23572.0,No,Gardiner Place,Dublin 1,q1,20%
+05/02/2016,"Apt 3, 2 Gardiner Place, Dublin 1",Dublin,23572.0,No,Gardiner Place,Dublin 1,q1,20%
+05/02/2016,"Apt 4, Gardiner Place, Dublin 1",Dublin,23572.0,No,Gardiner Place,Dublin 1,q1,20%
+05/02/2016,"Apt 5, Gardiner Place, Dublin 1",Dublin,23572.0,No,Gardiner Place,Dublin 1,q1,30%
+05/02/2016,"Apt 7, 2 Gardiner Place, Dublin 1",Dublin,23572.0,No,Gardiner Place,Dublin 1,q1,30%
+11/03/2016,"Apt 10, 16 Gardiner Place, Dublin 11",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q3,70%
+11/03/2016,"Apt 1, 16 Gardiner Place, Dublin 1",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q3,80%
+11/03/2016,"Apt 2, 16 Gardiner Place, Dublin 11",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q3,80%
+11/03/2016,"Apt 3, 16 Gardiner Place, Dublin 11",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q4,80%
+11/03/2016,"Apt 4, 16 Gardiner Place, Dublin 11",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q4,90%
+11/03/2016,"Apt 5, 16 Gardiner Place, Dublin 11",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q4,90%
+11/03/2016,"Apt 6, 16 Gardiner Place, Dublin 11",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q4,90%
+11/03/2016,"Apt 7, 16 Gardiner Place, Dublin 11",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q4,100%
+11/03/2016,"Apt 8, 16 Gardiner Place, Dublin 11",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q4,100%
+11/03/2016,"Apt 9, 16 Gardiner Place, Dublin 11",Dublin,1300000.0,No,Gardiner Place,Dublin 1,q4,100%
+25/07/2017,"17 Gardiner Place, Dublin 1, Dublin",Dublin,881000.0,No,Gardiner Place,Dublin 1,q2,50%
+25/07/2017,"Flat 1 & 2, 12/13 Gardiner Place, Dublin 1",Dublin,315000.0,No,Gardiner Place,Dublin 1,q2,50%
+15/11/2017,"Apt 1, 7 Gardiner Place, Dublin 1",Dublin,1190000.0,No,Gardiner Place,Dublin 1,q3,60%
+08/06/2018,"Flat 1, 17 Gardiner Place, Dublin 1",Dublin,881000.0,No,Gardiner Place,Dublin 1,q3,60%
+18/10/2019,"25 Gardiner Place, Apt 1, Dublin 1",Dublin,1220000.0,No,Gardiner Place,Dublin 1,q3,70%
+22/10/2019,"22 Gardiner Place, Dublin 1, Dublin",Dublin,190000.0,No,Gardiner Place,Dublin 1,q2,40%

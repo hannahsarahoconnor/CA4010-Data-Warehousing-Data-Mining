@@ -1,0 +1,136 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+20/01/2010,"8 Clonshaugh Drive, Clonshaugh",Dublin,250000.0,No,Clonshaugh,Dublin 17,q3,70%
+24/02/2010,"17 Clonshaugh Lawn, Clonshaugh, Dublin 17",Dublin,230000.0,No,Clonshaugh,Dublin 17,q3,60%
+25/05/2010,"44 Clonshaugh Close, Clonshaugh, Dublin 17",Dublin,235000.0,No,Clonshaugh,Dublin 17,q3,70%
+06/08/2010,"4 Clonshaugh Court, Clonshaugh",Dublin,210000.0,No,Clonshaugh,Dublin 17,q2,50%
+08/11/2010,"80 Clonshaugh Avenue, Coolock, Dublin 17",Dublin,115000.0,No,Clonshaugh,Dublin 17,q1,10%
+12/11/2010,"71 Riverside Park, Clonshaugh",Dublin,240000.0,No,Clonshaugh,Dublin 17,q3,70%
+31/03/2011,"33 Clonshaugh Glen, Clonshaugh, Dublin 17",Dublin,200000.0,No,Clonshaugh,Dublin 17,q2,50%
+16/06/2011,"Apartment 6, The Beech, Clonshaugh Woods",Dublin,130000.0,No,Clonshaugh,Dublin 17,q1,10%
+15/07/2011,"21 Newbury Park, Clonshaugh",Dublin,185000.0,No,Clonshaugh,Dublin 17,q2,40%
+30/09/2011,"27 Riverside Avenue, Clonshaugh, Dublin 17",Dublin,170000.0,No,Clonshaugh,Dublin 17,q2,30%
+23/03/2012,"69  Riverside Park, Clonshaugh",Dublin,180000.0,No,Clonshaugh,Dublin 17,q2,40%
+29/03/2012,"24  Riverside Park, Clonshaugh",Dublin,148000.0,No,Clonshaugh,Dublin 17,q1,20%
+29/08/2012,"42  Clonshaugh Avenue, Clonshaugh, Dublin 17",Dublin,145000.0,No,Clonshaugh,Dublin 17,q1,20%
+11/10/2012,"90 Riverside Park, Clonshaugh",Dublin,181000.0,No,Clonshaugh,Dublin 17,q2,40%
+16/10/2012,"6 Newbury Heights, Clonshaugh",Dublin,165000.0,No,Clonshaugh,Dublin 17,q2,30%
+19/10/2012,"53 Newbury Avenue, Clonshaugh, Dublin 17",Dublin,175000.0,No,Clonshaugh,Dublin 17,q2,30%
+07/12/2012,"9 Newbury Lawns, Clonshaugh",Dublin,145000.0,No,Clonshaugh,Dublin 17,q1,20%
+19/12/2012,"10 Newbury Avenue, Clonshaugh",Dublin,193500.0,No,Clonshaugh,Dublin 17,q2,40%
+20/03/2013,"10 The Maples, Clonshaugh Woods",Dublin,81000.0,No,Clonshaugh,Dublin 17,q1,10%
+12/04/2013,"149 Riverside Park, Clonshaugh",Dublin,210000.0,No,Clonshaugh,Dublin 17,q2,50%
+31/05/2013,"29 Riverside Avenue, Clonshaugh, Dublin 17",Dublin,233000.0,No,Clonshaugh,Dublin 17,q3,60%
+19/07/2013,"1 Riverside Drive, Clonshaugh, Dublin 7",Dublin,230000.0,No,Clonshaugh,Dublin 17,q3,60%
+25/07/2013,"3 Willsborough, Clonshaugh Road, Dublin 17",Dublin,68500.0,No,Clonshaugh,Dublin 17,q1,10%
+26/07/2013,"31 Clonshaugh Park, Clonshaugh, Co Dublin",Dublin,225000.0,No,Clonshaugh,Dublin 17,q3,60%
+06/09/2013,"71 Clonshaugh Avenue, Clonshaugh",Dublin,193500.0,No,Clonshaugh,Dublin 17,q2,40%
+21/10/2013,"14 Clonshaugh Avenue, Clonshaugh, Dublin 17",Dublin,233500.0,No,Clonshaugh,Dublin 17,q3,70%
+12/12/2013,"26 Clonshaugh Crescent, Clonshaugh, Dublin 17",Dublin,186000.0,No,Clonshaugh,Dublin 17,q2,40%
+20/12/2013,"32 Clonshaugh Crescent, Clonshaugh, Dublin 17",Dublin,140000.0,No,Clonshaugh,Dublin 17,q1,20%
+19/03/2014,"22 Newbury Grove, Clonshaugh Dublin 17, Dublin",Dublin,170000.0,No,Clonshaugh,Dublin 17,q2,30%
+03/04/2014,"24 Newbury Grove, Clonshaugh, Dublin 17",Dublin,205000.0,No,Clonshaugh,Dublin 17,q2,50%
+16/05/2014,"1 Newbury Lawns, Clonshaugh, Dublin 17",Dublin,130000.0,No,Clonshaugh,Dublin 17,q1,10%
+16/05/2014,"21 Newbury Dr, Clonshaugh, Dublin 17",Dublin,180000.0,No,Clonshaugh,Dublin 17,q2,40%
+19/05/2014,"10 Clonshaugh Lawn, Coolock, Dublin 17",Dublin,202000.0,No,Clonshaugh,Dublin 17,q2,50%
+27/06/2014,"54 Riverside Park, Clonshaugh, Dublin",Dublin,236000.0,No,Clonshaugh,Dublin 17,q3,70%
+08/07/2014,"12 Swifts Grove, Clonshaugh, Dublin 17",Dublin,180000.0,No,Clonshaugh,Dublin 17,q2,40%
+25/07/2014,"2A Clonshaugh Grove, Coolock, Dublin 17",Dublin,100000.0,No,Clonshaugh,Dublin 17,q1,10%
+07/08/2014,"4 Clonshaugh Glen, Clonshaugh, Dublin 17",Dublin,115000.0,No,Clonshaugh,Dublin 17,q1,10%
+15/08/2014,"40 Clonshaugh Medow, Coolock, Dublin 5",Dublin,220000.0,No,Clonshaugh,Dublin 17,q3,60%
+20/08/2014,"16 Clonshaugh Drive, Clonshaugh, Dublin 17",Dublin,180000.0,No,Clonshaugh,Dublin 17,q2,40%
+12/09/2014,"7 Newbury Heights, Clonshaugh Road, Dublin 17",Dublin,165000.0,No,Clonshaugh,Dublin 17,q2,30%
+24/09/2014,"14 The Beech, Clonshaugh Woods Apts, Clonshaugh Dublin 17",Dublin,125000.0,No,Clonshaugh,Dublin 17,q1,10%
+26/09/2014,"32 Newbury Park, Clonshaugh, Dublin 5",Dublin,220000.0,No,Clonshaugh,Dublin 17,q3,60%
+03/10/2014,"16 Willsborough, Clonshaugh Road, Dublin 17",Dublin,100000.0,No,Clonshaugh,Dublin 17,q1,10%
+03/10/2014,"21 Willsborough, Clonshaugh Road, Dublin 17",Dublin,65000.0,No,Clonshaugh,Dublin 17,q1,10%
+08/10/2014,"10 Clonshaugh Glen, Clonshaugh, Dublin 17",Dublin,115000.0,No,Clonshaugh,Dublin 17,q1,10%
+01/12/2014,"11 Larch Wood, Woodlawn Ave, Clonshaugh Dublin 17",Dublin,105000.0,No,Clonshaugh,Dublin 17,q1,10%
+02/12/2014,"2 Newbury Park, Clonshaugh, Dublin 17",Dublin,150000.0,No,Clonshaugh,Dublin 17,q1,20%
+02/12/2014,"2A Newbury Park, Clonshaugh, Dublin 17",Dublin,160000.0,No,Clonshaugh,Dublin 17,q1,30%
+11/12/2014,"12 The Beeches, Clonshaugh Woods, Clonshaugh Rd Dublin 17",Dublin,155000.0,No,Clonshaugh,Dublin 17,q1,30%
+22/01/2015,"21A Newbury Dr, Clonshaugh, Coolock Dublin 17",Dublin,145000.0,No,Clonshaugh,Dublin 17,q1,20%
+23/01/2015,"2 Clonshaugh Glen, Clonshaugh, Dublin 17",Dublin,205000.0,No,Clonshaugh,Dublin 17,q2,50%
+03/02/2015,"9 Clonshaugh Green, Clonshaugh, Dublin 17",Dublin,195000.0,No,Clonshaugh,Dublin 17,q2,40%
+09/02/2015,"68 Riverside Park, Clonshaugh, Dublin 17",Dublin,248000.0,No,Clonshaugh,Dublin 17,q3,70%
+08/04/2015,"22 Riverside Grove, Clonshaugh, Dublin 17",Dublin,280000.0,No,Clonshaugh,Dublin 17,q4,80%
+02/06/2015,"2 Newbury Park, Clonshaugh",Dublin,195000.0,No,Clonshaugh,Dublin 17,q2,50%
+24/06/2015,"2A Newbury Park, Clonshaugh, Dublin 17",Dublin,255000.0,No,Clonshaugh,Dublin 17,q3,70%
+17/07/2015,"28 Riverside Dr, Clonshaugh, Coolock Dublin 17",Dublin,210000.0,No,Clonshaugh,Dublin 17,q2,50%
+27/07/2015,"93 Newbury Ave, Clonshaugh, Dublin 17",Dublin,179000.0,No,Clonshaugh,Dublin 17,q2,40%
+16/09/2015,"Priorswood Lodge, Clonshaugh, Dublin 17",Dublin,285000.0,No,Clonshaugh,Dublin 17,q4,80%
+30/09/2015,"1 Clonshaugh Rise, Clonshaugh, Dublin 17",Dublin,212000.0,No,Clonshaugh,Dublin 17,q3,60%
+07/10/2015,"27 Riverside Drive, Clonshaugh, Dublin 17",Dublin,245000.0,No,Clonshaugh,Dublin 17,q3,70%
+06/11/2015,"77 Newbury Ave, Clonshaugh, Dublin 17",Dublin,201000.0,No,Clonshaugh,Dublin 17,q2,50%
+16/11/2015,"18 Clonshaugh Grove, Clonshaugh, Dublin",Dublin,240000.0,No,Clonshaugh,Dublin 17,q3,70%
+27/11/2015,"18 Clonshaugh Meadows, Clonshaugh, Dublin 17",Dublin,275000.0,No,Clonshaugh,Dublin 17,q4,80%
+11/01/2016,"92 Clonshaugh Avenue, Clonshaugh, Dublin 17",Dublin,231000.0,No,Clonshaugh,Dublin 17,q3,60%
+16/02/2016,"16 Clonshaugh Glen, Dublin 17, Dublin",Dublin,170000.0,No,Clonshaugh,Dublin 17,q2,30%
+23/03/2016,"36A Clonshaugh Close, Clonshaugh, Dublin 17",Dublin,232000.0,No,Clonshaugh,Dublin 17,q3,60%
+24/03/2016,"96 Riverside Park, Clonshaugh, Dublin 17",Dublin,237500.0,No,Clonshaugh,Dublin 17,q3,70%
+13/05/2016,"34 Clonshaugh Walk, Clonshaugh, Dublin 17",Dublin,272500.0,No,Clonshaugh,Dublin 17,q3,80%
+20/06/2016,"36 Clonshaugh Drive, Clonshaugh, Dublin 17",Dublin,224950.0,No,Clonshaugh,Dublin 17,q3,60%
+28/06/2016,"4 Clonshaugh Ave, Coolock, Dublin 17",Dublin,155400.0,No,Clonshaugh,Dublin 17,q1,30%
+15/07/2016,"43 Clonshaugh Drive, Clonshaugh, Dublin 17",Dublin,225000.0,No,Clonshaugh,Dublin 17,q3,60%
+20/07/2016,"11 The Beech, Clonshaugh Woods, Clonshaugh Dublin 17",Dublin,150000.0,No,Clonshaugh,Dublin 17,q1,30%
+13/09/2016,"Apt 6, The Beech, Clonshaugh Woods",Dublin,145000.0,No,Clonshaugh,Dublin 17,q1,20%
+23/09/2016,"36 Riverside Ave, Clonshaugh, Dublin 17",Dublin,270000.0,No,Clonshaugh,Dublin 17,q3,80%
+28/10/2016,"19 Riverside Park, Clonshaugh, Dublin 17",Dublin,280000.0,No,Clonshaugh,Dublin 17,q4,80%
+19/12/2016,"28 Newbury Wood, Clonshaugh, Coolock Dublin 17",Dublin,105000.0,No,Clonshaugh,Dublin 17,q1,10%
+21/12/2016,"21 Willsborough, Clonshaugh Road, Dublin 17",Dublin,133000.0,No,Clonshaugh,Dublin 17,q1,20%
+20/01/2017,"2 Priorswood Lodge, Clonshaugh, Dublin 17",Dublin,242290.0,Yes,Clonshaugh,Dublin 17,q3,70%
+09/03/2017,"1 Priorswood Lodge, Clonshaugh Road, Clonshaugh",Dublin,280000.0,No,Clonshaugh,Dublin 17,q4,80%
+09/03/2017,"3 Priorswood Lodge, Clonshaugh Road, Clonshaugh",Dublin,285000.0,No,Clonshaugh,Dublin 17,q4,90%
+29/03/2017,"18 Clonshaugh Park, Clonshaugh, Dublin 17",Dublin,308000.0,No,Clonshaugh,Dublin 17,q4,100%
+29/03/2017,"19 Newbury Grove, Clonshaugh, Dublin 17",Dublin,255000.0,No,Clonshaugh,Dublin 17,q3,80%
+05/05/2017,"Farrya, Clonshaugh Road, Dublin 17",Dublin,200000.0,No,Clonshaugh,Dublin 17,q2,50%
+08/05/2017,"12A Riverside Park, Clonshaugh, Dublin 17",Dublin,295250.0,No,Clonshaugh,Dublin 17,q4,90%
+01/06/2017,"4 Priorswood Lodge, Clonshaugh, Dublin 17",Dublin,285000.0,Yes,Clonshaugh,Dublin 17,q4,90%
+19/06/2017,"The Orchard, Clonshaugh Rd, Clonshaugh Dublin 17",Dublin,270000.0,No,Clonshaugh,Dublin 17,q3,80%
+06/07/2017,"24 Newbury Park, Clonshaugh, Dublin 17",Dublin,287000.0,No,Clonshaugh,Dublin 17,q4,90%
+11/07/2017,"50 Clonshaugh Walk, Coolock, Dublin",Dublin,262000.0,No,Clonshaugh,Dublin 17,q3,80%
+09/08/2017,"13 The Beech, Clonshaugh Woods, Clonshaugh",Dublin,180000.0,No,Clonshaugh,Dublin 17,q2,40%
+14/08/2017,"34 Clonshaugh Park, Clonshaugh, Dublin 17",Dublin,290000.0,No,Clonshaugh,Dublin 17,q4,90%
+15/08/2017,"6 Willborough, Clonshaugh Road, Dublin 17",Dublin,195000.0,No,Clonshaugh,Dublin 17,q2,50%
+13/09/2017,"11 Sycamores Clonshaugh Woods, Clonshaugh Dublin 17, Dublin",Dublin,175000.0,Yes,Clonshaugh,Dublin 17,q2,30%
+19/09/2017,"24 Clonshaugh Ave, Clonshaugh, Dublin 17",Dublin,300000.0,No,Clonshaugh,Dublin 17,q4,90%
+26/09/2017,"1 The Oaks, Clonshaugh Woods, Clonshaugh Rd Dublin 17",Dublin,175000.0,No,Clonshaugh,Dublin 17,q2,40%
+28/09/2017,"81 Clonshaugh Avenue, Clonshaugh, Dublin 17",Dublin,287000.0,No,Clonshaugh,Dublin 17,q4,90%
+27/11/2017,"17 Clonshaugh Glen, Clonshaugh, Dublin 17",Dublin,240000.0,No,Clonshaugh,Dublin 17,q3,70%
+30/11/2017,"35 Clonshaugh Glen, Clonshaugh, Dublin 17",Dublin,235000.0,No,Clonshaugh,Dublin 17,q3,70%
+04/12/2017,"60 Riverside Park, Clonshaugh, Dublin 17",Dublin,296000.0,No,Clonshaugh,Dublin 17,q4,90%
+12/12/2017,"21A Newbury Drive, Clonshaugh, Coolock",Dublin,195000.0,No,Clonshaugh,Dublin 17,q2,50%
+13/12/2017,"13 The Sycamore, Clonshaugh Woods, Coolock Dublin 17",Dublin,140000.0,No,Clonshaugh,Dublin 17,q1,20%
+13/12/2017,"14 Sycamore, Clonshaugh Woods, Clonshaugh Dublin 17",Dublin,140000.0,No,Clonshaugh,Dublin 17,q1,20%
+13/12/2017,"16 The Sycamore, Clonshaugh Woods, Clonshaugh Dublin 17",Dublin,140000.0,No,Clonshaugh,Dublin 17,q1,20%
+13/12/2017,"Apt 15, The Sycamore, Clonshaugh Woods Dublin 17",Dublin,140000.0,No,Clonshaugh,Dublin 17,q1,20%
+20/12/2017,"42 Clonshaugh Walk, Coolock, Dublin 17",Dublin,300000.0,No,Clonshaugh,Dublin 17,q4,90%
+21/12/2017,"10 Clonshaugh Lawn, Coolock, Dublin 17",Dublin,308000.0,No,Clonshaugh,Dublin 17,q4,100%
+21/12/2017,"35 Clonshaugh Heights, Dublin 17, Dublin",Dublin,325000.0,No,Clonshaugh,Dublin 17,q4,100%
+08/02/2018,"7 Clonshaugh Glen, Clonshaugh, Dublin 17",Dublin,275000.0,No,Clonshaugh,Dublin 17,q4,80%
+09/03/2018,"4 Priorswood Lodge, Clonshaugh, Dublin 17",Dublin,287994.3,No,Clonshaugh,Dublin 17,q4,90%
+09/03/2018,"93 Newbury Ave, Clonshaugh, Dublin 17",Dublin,370000.0,No,Clonshaugh,Dublin 17,q4,100%
+29/03/2018,"22 Clonshaugh Close, Clonshaugh, Dublin",Dublin,285000.0,No,Clonshaugh,Dublin 17,q4,90%
+11/04/2018,"3 The Beech Apartments, Clonshaugh Woods, Dublin 17",Dublin,9521.96,No,Clonshaugh,Dublin 17,q1,10%
+20/04/2018,"12 Sycamore, Clonshaugh Woods, Dublin 17",Dublin,160000.0,No,Clonshaugh,Dublin 17,q1,30%
+07/06/2018,"19 Riverside Rd, Clonshaugh, Dublin 17",Dublin,325000.0,No,Clonshaugh,Dublin 17,q4,100%
+15/06/2018,"92 Riverside Park, Clonshaugh, Dublin 17",Dublin,335000.0,No,Clonshaugh,Dublin 17,q4,100%
+17/07/2018,"20 Clonshaugh Grove, Coolock, Dublin 17",Dublin,275000.0,No,Clonshaugh,Dublin 17,q4,80%
+17/09/2018,"18A Clonshaugh Crescent, Clonshaugh, Coolock Dublin 17",Dublin,270000.0,No,Clonshaugh,Dublin 17,q3,80%
+19/09/2018,"14 The Beech, Clonshaugh Woods Apts, Clonshaugh Dublin 17",Dublin,200000.0,No,Clonshaugh,Dublin 17,q2,50%
+02/10/2018,"17 Clonshaugh Meadows, Clonshaugh Dublin 17, Dublin",Dublin,320000.0,No,Clonshaugh,Dublin 17,q4,100%
+04/10/2018,"23 Willsborough Apts, Clonshaugh Rd, Dublin 17",Dublin,141000.0,No,Clonshaugh,Dublin 17,q1,20%
+08/11/2018,"73 Riverside Dr, Clonshaugh, Dublin 17",Dublin,310000.0,No,Clonshaugh,Dublin 17,q4,100%
+27/11/2018,"15 Willsborough Apts, Clonshaugh Road, Coolock",Dublin,164000.0,No,Clonshaugh,Dublin 17,q1,30%
+07/12/2018,"17 Willsborough Apts, Clonshaugh Road, Coolock",Dublin,164000.0,No,Clonshaugh,Dublin 17,q1,30%
+19/12/2018,"16 Willsborough, Clonshaugh Road, Dublin 17",Dublin,218000.0,No,Clonshaugh,Dublin 17,q3,60%
+31/12/2018,"9 The Sycamores, Clonshaugh Woods, Clonshaugh",Dublin,200000.0,No,Clonshaugh,Dublin 17,q2,50%
+18/01/2019,"12 Newbury Ave, Clonshaugh, Dublin 17",Dublin,320000.0,No,Clonshaugh,Dublin 17,q4,100%
+01/03/2019,"29 Moatview Drive, Priorswood, Clonshaugh",Dublin,255000.0,No,Clonshaugh,Dublin 17,q3,80%
+29/03/2019,"32 Clonshaugh Glen, Clonshaugh, Dublin 17",Dublin,210000.0,No,Clonshaugh,Dublin 17,q3,60%
+23/05/2019,"47 Riverside Rd, Clonshaugh, Dublin 17",Dublin,328000.0,No,Clonshaugh,Dublin 17,q4,100%
+24/05/2019,"5 Clonshaugh Road, Clonshaugh, Dublin 17",Dublin,294000.0,No,Clonshaugh,Dublin 17,q4,90%
+06/08/2019,"42 Clonshaugh Ave, Clonshaugh, Dublin 17",Dublin,340000.0,No,Clonshaugh,Dublin 17,q4,100%
+14/08/2019,"13 Newbury Grove, Newbury Est, Clonshaugh",Dublin,305000.0,No,Clonshaugh,Dublin 17,q4,90%
+29/08/2019,"20 Clonshaugh Crescent, Clonshaugh, Dublin 17",Dublin,347000.0,No,Clonshaugh,Dublin 17,q4,100%
+02/09/2019,"23 Swifts Grove, Clonshaugh, Dublin",Dublin,325000.0,No,Clonshaugh,Dublin 17,q4,100%
+20/09/2019,"118 Aulden Grange, Clonshaugh, Dublin 17",Dublin,365000.0,No,Clonshaugh,Dublin 17,q4,100%

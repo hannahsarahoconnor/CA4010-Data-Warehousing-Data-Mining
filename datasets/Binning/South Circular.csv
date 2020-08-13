@@ -1,0 +1,203 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+29/04/2010,"Appt 8, Hyde Sq, South Circular Rd",Dublin,152000.0,No,South Circular,Dublin 8,q1,10%
+11/10/2010,"Apt. 90 Hybreasal, South Circular Rd",Dublin,155000.0,No,South Circular,Dublin 8,q1,10%
+04/02/2011,"3 Oakfield Place, Off Lombard Street West, South Circular Rd",Dublin,343275.0,No,South Circular,Dublin 8,q2,40%
+12/04/2011,"21 Sandford Avenue, South Circular Rd, Dublin 8",Dublin,282400.0,No,South Circular,Dublin 8,q2,30%
+06/01/2012,"78/78A Hyde Square Apts., 646A 666 South Circular Rd., Dublin 8",Dublin,185000.0,Yes,South Circular,Dublin 8,q1,10%
+29/08/2012,"Apt 42 Hybreasil House, South Circular Raod",Dublin,90000.0,No,South Circular,Dublin 8,q1,10%
+16/04/2013,"4 The Paddocks, South Circular",Dublin,235000.0,No,South Circular,Dublin 8,q1,20%
+30/10/2013,"630 South Circular Rd, Dublin 8, Dublin",Dublin,410000.0,No,South Circular,Dublin 8,q3,60%
+15/11/2013,"Apt 1, 243 South Circular Rd, Dublin 8",Dublin,47750.0,No,South Circular,Dublin 8,q1,10%
+15/11/2013,"Apt 2, 243 South Circular Rd, Dublin 8",Dublin,47750.0,No,South Circular,Dublin 8,q1,10%
+15/11/2013,"Apt 4, 243 South Circular Rd, Dublin 8",Dublin,47750.0,No,South Circular,Dublin 8,q1,10%
+02/12/2013,"11 The Laundry, Hybreasal, South Circular Rd",Dublin,250000.0,No,South Circular,Dublin 8,q1,20%
+12/12/2013,"4 Ovoca Rd, South Circular Rd, Dublin 8",Dublin,420000.0,No,South Circular,Dublin 8,q3,60%
+17/12/2013,"598 South Circular Rd, Dublin 8, Dublin",Dublin,470000.0,No,South Circular,Dublin 8,q3,70%
+31/01/2014,"138 South Circular Rd, Dublin 8, Dublin",Dublin,300000.0,No,South Circular,Dublin 8,q2,40%
+07/02/2014,"424 South Circular Rd, Dublin 8",Dublin,235000.0,No,South Circular,Dublin 8,q1,20%
+26/02/2014,"27 Hyde Sq, South Circular Rd, Dublin 8",Dublin,195000.0,No,South Circular,Dublin 8,q1,20%
+28/02/2014,"Candos, 584 South Circular Rd, Dublin 8",Dublin,650000.0,No,South Circular,Dublin 8,q4,90%
+14/03/2014,"109 St James Wood, South Circular Rd, Dublin",Dublin,190000.0,No,South Circular,Dublin 8,q1,10%
+02/04/2014,"28 Hyde Sq, South Circular Rd, Dublin 8",Dublin,171100.0,No,South Circular,Dublin 8,q1,10%
+18/04/2014,"Apt 81, Hyde Sq, South Circular Rd Dublin 8",Dublin,255000.0,No,South Circular,Dublin 8,q1,20%
+25/04/2014,"531 South Circular Rd, Dublin 8, Dublin",Dublin,500000.0,No,South Circular,Dublin 8,q3,70%
+01/05/2014,"49 St Albans Rd, South Circular Rd, Dublin 8",Dublin,285000.0,No,South Circular,Dublin 8,q2,30%
+29/05/2014,"6 Church Ave South, South Circular Rd, Dublin 8",Dublin,255000.0,No,South Circular,Dublin 8,q1,30%
+19/06/2014,"38 St Kevins Parade, South Circular Rd, Dublin 8",Dublin,570000.0,No,South Circular,Dublin 8,q3,80%
+19/06/2014,"5 Emoville Ave, South Circular Rd, Dublin 8",Dublin,525000.0,No,South Circular,Dublin 8,q3,70%
+20/06/2014,"15 Grantham Place, South Circular Rd, Dublin 8",Dublin,440000.0,No,South Circular,Dublin 8,q3,60%
+21/07/2014,"2 Brainboro Terrace, South Circular Rd, Dublin 8",Dublin,445000.0,No,South Circular,Dublin 8,q3,70%
+28/07/2014,"37 Hybreasal House, South Circular Rd, Dublin 8",Dublin,223500.0,No,South Circular,Dublin 8,q1,20%
+04/09/2014,"9 The Farmyard, Hybreasal, South Circular Rd Dublin 8",Dublin,360000.0,No,South Circular,Dublin 8,q2,50%
+05/09/2014,"76 South Circular Rd, Dublin 6, Dublin",Dublin,400000.0,No,South Circular,Dublin 8,q3,60%
+18/09/2014,"62 South Circular Rd, Dublin 8, Dublin",Dublin,620000.0,No,South Circular,Dublin 8,q4,90%
+19/09/2014,"13 Gilbert Rd, South Circular Rd, Dublin 8",Dublin,400000.0,No,South Circular,Dublin 8,q3,60%
+09/10/2014,"32 St James Wood, South Circular Rd, Dublin 8",Dublin,215000.0,No,South Circular,Dublin 8,q1,20%
+03/11/2014,"16 Hybreasal House, South Circular Rd, Dublin",Dublin,104000.0,No,South Circular,Dublin 8,q1,10%
+10/11/2014,"1 Emorville Ave, South Circular Rd, Dublin 8",Dublin,840000.0,No,South Circular,Dublin 8,q4,100%
+12/11/2014,"322 South Circular Rd, Dublin 8",Dublin,380000.0,No,South Circular,Dublin 8,q2,50%
+02/12/2014,"9 Clarance Mangan Rd, Off South Circular Rd, Dublin 8",Dublin,354000.0,No,South Circular,Dublin 8,q2,50%
+09/12/2014,"23 Vernon St, South Circular Rd, Dublin 8",Dublin,485000.0,No,South Circular,Dublin 8,q3,70%
+10/12/2014,"142 South Circular Rd, Dublin 8, Dublin",Dublin,441000.0,No,South Circular,Dublin 8,q3,60%
+15/12/2014,"259 South Circular Rd, Dublin 8, Dublin",Dublin,400000.0,No,South Circular,Dublin 8,q3,60%
+22/12/2014,"Apt 1, 397 South Circular Rd, Dublin 8",Dublin,233579.0,No,South Circular,Dublin 8,q1,20%
+23/12/2014,"384 South Circular Rd, Dublin 8, Dublin",Dublin,366399.0,No,South Circular,Dublin 8,q2,50%
+23/12/2014,"4 Hammond St, South Circular Rd, Dublin 8",Dublin,300000.0,No,South Circular,Dublin 8,q2,40%
+23/12/2014,"94 Hybreasal, South Circular Rd, Dublin 8",Dublin,165000.0,No,South Circular,Dublin 8,q1,10%
+07/01/2015,"Apt 1, 82 South Circular Rd, Dublin 8",Dublin,147000.0,No,South Circular,Dublin 8,q1,10%
+09/01/2015,"6 Mcmahon St, South Circular Rd, Dublin 6",Dublin,690000.0,No,South Circular,Dublin 8,q4,90%
+29/01/2015,"65 Hyde Sq, South Circular Rd, Dublin 8",Dublin,305000.0,No,South Circular,Dublin 8,q2,40%
+30/01/2015,"1 Hybreasal, South Circular Rd, Dublin City",Dublin,129000.0,No,South Circular,Dublin 8,q1,10%
+05/02/2015,"171 South Circular Rd, Dublin 8",Dublin,400000.0,No,South Circular,Dublin 8,q3,60%
+27/02/2015,"2 The Laundry, Hybreasal, South Circular Rd Dublin 8",Dublin,350000.0,No,South Circular,Dublin 8,q2,50%
+11/03/2015,"76 Hyde Sq, South Circular Dublin, Dublin 8",Dublin,265000.0,No,South Circular,Dublin 8,q1,30%
+18/03/2015,"18 Vernon St, South Circular Rd, Dublin 8",Dublin,570000.0,No,South Circular,Dublin 8,q3,80%
+20/03/2015,"219 South Circular Rd, Dublin 8, Dublin",Dublin,620000.0,No,South Circular,Dublin 8,q4,90%
+16/04/2015,"195 South Circular Rd, Dublin 8, Dublin",Dublin,484000.0,No,South Circular,Dublin 8,q3,70%
+26/05/2015,"19 Ovoca Rd, South Circular Rd, Dublin 8",Dublin,515000.0,No,South Circular,Dublin 8,q3,70%
+05/06/2015,"4 St Kevins, Bloomfield Ave, South Circular Rd Dublin 8",Dublin,197000.0,No,South Circular,Dublin 8,q1,20%
+11/06/2015,"17 Ocurry Rd, South Circular Rd, Dublin 8",Dublin,304000.0,No,South Circular,Dublin 8,q2,40%
+03/07/2015,"19 Hybreasal House, South Circular Rd, Dublin",Dublin,190000.0,No,South Circular,Dublin 8,q1,10%
+21/07/2015,"19 Donore Rd, South Circular Rd, Dublin 8",Dublin,466000.0,No,South Circular,Dublin 8,q3,70%
+05/08/2015,"86 Elford Terrace, South Circular Rd, Dublin 8",Dublin,597500.0,No,South Circular,Dublin 8,q4,80%
+28/08/2015,"Apt 17, Hyde Sq, South Circular Rd Dublin 8",Dublin,270000.0,No,South Circular,Dublin 8,q1,30%
+08/10/2015,"Apt 92, St Jamess Woods, South Circular Rd Dublin 8",Dublin,240000.0,No,South Circular,Dublin 8,q1,20%
+09/10/2015,"7 Clarence Mangan Rd, South Circular Rd, Dublin 8",Dublin,277000.0,No,South Circular,Dublin 8,q2,30%
+16/10/2015,"7 Vernon St, South Circular Rd, Dublin 8",Dublin,550000.0,No,South Circular,Dublin 8,q3,80%
+19/10/2015,"13 St Catherines Ave, South Circular Rd, Dublin 8",Dublin,540000.0,No,South Circular,Dublin 8,q3,70%
+20/10/2015,"5 Ovoca Rd, South Circular Rd, Dublin 8",Dublin,760000.0,No,South Circular,Dublin 8,q4,100%
+06/11/2015,"62 Hyde Sq, South Circular Rd, Dublin 8",Dublin,195000.0,No,South Circular,Dublin 8,q1,20%
+18/11/2015,"43 Hyde Sq, South Circular Rd, Dublin 8",Dublin,192000.0,No,South Circular,Dublin 8,q1,10%
+19/11/2015,"21 Donore Rd, South Circular Rd, Dublin 8",Dublin,216666.0,No,South Circular,Dublin 8,q1,20%
+19/11/2015,"441 South Circular Rd, Dublin 8, Dublin",Dublin,280000.0,No,South Circular,Dublin 8,q2,30%
+04/12/2015,"1 Southfield, South Circular Rd, Dublin 8",Dublin,282000.0,No,South Circular,Dublin 8,q2,30%
+21/12/2015,"3 Rothe Abbey, South Circular Rd, Dublin 8",Dublin,280000.0,No,South Circular,Dublin 8,q2,30%
+05/01/2016,"75 Hyde Sq, South Circular Rd, Dublin 8",Dublin,265000.0,No,South Circular,Dublin 8,q1,30%
+12/02/2016,"120 South Circular Rd, Dublin 8, Dublin",Dublin,425000.0,No,South Circular,Dublin 8,q3,60%
+19/02/2016,"29 Ocurry Rd, South Circular Rd, Dublin 8",Dublin,255000.0,No,South Circular,Dublin 8,q1,30%
+19/02/2016,"5 Curzon St, South Circular Rd, Dublin 8",Dublin,745000.0,No,South Circular,Dublin 8,q4,100%
+22/02/2016,"53 Rueben St, South Circular Rd, Dublin 8",Dublin,285000.0,No,South Circular,Dublin 8,q2,30%
+01/03/2016,"41 Odonovan Rd, Off South Circular Rd, Dublin 8",Dublin,350000.0,No,South Circular,Dublin 8,q2,50%
+16/03/2016,"49 Donore Ave, South Circular Rd, Dublin 8",Dublin,349500.0,No,South Circular,Dublin 8,q2,50%
+01/04/2016,"49 Reuben Sq, South Circular Rd, Dublin 8",Dublin,200000.0,No,South Circular,Dublin 8,q1,20%
+01/04/2016,"7 South Circular Rd, Dublin 8, Dublin",Dublin,865000.0,No,South Circular,Dublin 8,q4,100%
+11/04/2016,"19 O' Curry Rd, South Circular Rd, Dublin 8",Dublin,280000.0,No,South Circular,Dublin 8,q2,30%
+22/04/2016,"4 Southfield, South Circular Rd, Dublin",Dublin,385000.0,No,South Circular,Dublin 8,q2,50%
+02/06/2016,"203A South Circular Rd, Dublin 8, Dublin",Dublin,205000.0,No,South Circular,Dublin 8,q1,20%
+22/06/2016,"Apt 104, Hybreasal House, South Circular Rd Dublin 8",Dublin,285000.0,No,South Circular,Dublin 8,q2,30%
+30/06/2016,"16 Rehoboth Place, South Circular Rd, Dublin 8",Dublin,405000.0,No,South Circular,Dublin 8,q3,60%
+30/06/2016,"72 Hyde Sq, South Circular Rd, Dublin 8",Dublin,310000.0,No,South Circular,Dublin 8,q2,40%
+12/07/2016,"148 South Circular Rd, Dublin 8, Dublin",Dublin,632500.0,No,South Circular,Dublin 8,q4,90%
+10/08/2016,"93 South Circular Rd, Dublin 8, Dublin",Dublin,995000.0,No,South Circular,Dublin 8,q4,100%
+16/08/2016,"Apt.2, 397 South Circular Rd, Dublin 8",Dublin,275000.0,No,South Circular,Dublin 8,q1,30%
+22/08/2016,"55 St Jameswood, South Circular Rd, Dublin 8",Dublin,340000.0,No,South Circular,Dublin 8,q2,40%
+08/09/2016,"10 Sandford Park, South Circular Rd, Dublin 8",Dublin,425000.0,No,South Circular,Dublin 8,q3,60%
+13/09/2016,"32 Greenville Terrace, South Circular Rd, Dublin 8",Dublin,500000.0,No,South Circular,Dublin 8,q3,70%
+23/09/2016,"126 South Circular Rd, Dublin 8, Dublin",Dublin,615000.0,No,South Circular,Dublin 8,q4,80%
+07/10/2016,"102 St Jamess Wood, South Circular Rd, Dublin 8",Dublin,260000.0,No,South Circular,Dublin 8,q1,30%
+07/10/2016,"29 Reubens Sq, South Circular Rd, Dublin 9",Dublin,146000.0,No,South Circular,Dublin 8,q1,10%
+10/10/2016,"196 South Circular Rd, Dublin 8, Dublin",Dublin,595000.0,No,South Circular,Dublin 8,q4,80%
+02/11/2016,"384 South Circular Rd, Dublin 8, Dublin",Dublin,405000.0,No,South Circular,Dublin 8,q3,60%
+04/11/2016,"63 Hyde Sq, Off South Circular Rd, Dublin 8",Dublin,301000.0,No,South Circular,Dublin 8,q2,40%
+23/11/2016,"42 Hyde Sq, South Circular Rd, Dublin 8",Dublin,264000.0,No,South Circular,Dublin 8,q1,30%
+25/11/2016,"367 South Circular Rd, Dublin 8, Dublin",Dublin,285000.0,No,South Circular,Dublin 8,q2,40%
+30/11/2016,"14 Rehoboth Place, South Circular Rd, Dublin 8",Dublin,300000.0,No,South Circular,Dublin 8,q2,40%
+07/12/2016,"10 St. James'S Terrace, Dolphins Barn, South Circular Rd",Dublin,220000.0,No,South Circular,Dublin 8,q1,20%
+10/01/2017,"35 Emmorville Ave, South Circular Rd, Dublin 8",Dublin,675000.0,No,South Circular,Dublin 8,q4,90%
+18/01/2017,"12 Washington St, South Circular Rd, Dublin 8",Dublin,530000.0,No,South Circular,Dublin 8,q3,70%
+03/02/2017,"402 South Circular Rd, Dublin 8, Dublin",Dublin,144000.0,No,South Circular,Dublin 8,q1,10%
+03/02/2017,"404 South Circular Rd, Dublin 8, Dublin",Dublin,144000.0,No,South Circular,Dublin 8,q1,10%
+03/02/2017,"406 South Circular Rd, Dublin 8, Dublin",Dublin,192000.0,No,South Circular,Dublin 8,q1,10%
+03/02/2017,"410 412 South Circular Rd, Dublin 8, Dublin",Dublin,144000.0,No,South Circular,Dublin 8,q1,10%
+03/02/2017,"56 Hyde Sq, South Circular Rd, Dublin 8",Dublin,307000.0,No,South Circular,Dublin 8,q2,40%
+14/02/2017,"77 77A Hyde Sq, South Circular Rd, Dublin 8",Dublin,330000.0,No,South Circular,Dublin 8,q2,40%
+28/02/2017,"15 Church Ave, South Circular Rd, Dublin",Dublin,332000.0,No,South Circular,Dublin 8,q2,40%
+07/03/2017,"241 South Circular Rd, Dublin 8, Dublin",Dublin,616000.0,No,South Circular,Dublin 8,q4,90%
+10/03/2017,"1 Curzon St, South Circular Rd, Dublin 8",Dublin,660000.0,No,South Circular,Dublin 8,q4,90%
+10/03/2017,"52 Rialto Court, South Circular Rd, Dublin 8",Dublin,90000.0,No,South Circular,Dublin 8,q1,10%
+16/03/2017,"22 Merton Ave, South Circular Rd, Dublin 8",Dublin,505000.0,No,South Circular,Dublin 8,q3,70%
+16/03/2017,"50 Dufferin Ave, South Circular Rd, Dublin 8",Dublin,750000.0,No,South Circular,Dublin 8,q4,100%
+20/03/2017,"Apartment 1, 19 Victoria St, South Circular Rd",Dublin,750000.0,No,South Circular,Dublin 8,q4,100%
+27/03/2017,"Apt 1, 625 South Circular Rd, Dublin 8",Dublin,350000.0,No,South Circular,Dublin 8,q2,50%
+27/03/2017,"Apt 1, 629 South Circular Rd, Dublin 8",Dublin,250000.0,No,South Circular,Dublin 8,q1,20%
+27/03/2017,"Apt 2, 625 South Circular Rd, Dublin 8",Dublin,350000.0,No,South Circular,Dublin 8,q2,50%
+27/03/2017,"Apt 2, 629 South Circular Rd, Dublin 8",Dublin,250000.0,No,South Circular,Dublin 8,q1,20%
+08/05/2017,"15 Merton Ave, South Circular Rd, Dublin 8",Dublin,622000.0,No,South Circular,Dublin 8,q4,90%
+16/06/2017,"24 Ocarolan Rd, South Circular Rd, Dublin 8",Dublin,425000.0,No,South Circular,Dublin 8,q3,60%
+23/06/2017,"10 Washington St, South Circular Rd, Dublin 8",Dublin,790000.0,No,South Circular,Dublin 8,q4,100%
+23/06/2017,"Apt 1, 380 South Circular Rd, Dublin 8",Dublin,288514.0,No,South Circular,Dublin 8,q2,40%
+29/06/2017,"403 South Circular Rd, Dublin 8, Dublin",Dublin,357000.0,No,South Circular,Dublin 8,q2,50%
+07/07/2017,"Apt 9, Brookfield Court, South Circular Rd Dublin 8",Dublin,250000.0,No,South Circular,Dublin 8,q1,20%
+25/07/2017,"65 St Albans Rd, South Circular Rd, Dublin 8",Dublin,687500.0,No,South Circular,Dublin 8,q4,90%
+23/08/2017,"38 St Thomas Road, South Circular  Road, Dublin 8",Dublin,393000.0,No,South Circular,Dublin 8,q2,50%
+12/10/2017,"71 Hybreasal House, South Circular Rd, Dublin 8",Dublin,280000.0,No,South Circular,Dublin 8,q2,30%
+18/10/2017,"42 Martin St, South Circular Rd, Dublin 8",Dublin,400000.0,No,South Circular,Dublin 8,q3,60%
+18/10/2017,"Candos, 584 South Circular Rd, Dublin 8",Dublin,655000.0,No,South Circular,Dublin 8,q4,90%
+20/10/2017,"642 South Circular Rd, Dublin 8, Dublin",Dublin,550000.0,No,South Circular,Dublin 8,q3,80%
+20/10/2017,"644 South Circular Rd, Dublin 8, Dublin",Dublin,550000.0,No,South Circular,Dublin 8,q3,80%
+23/10/2017,"59 The Paddocks, Hyabereasal, South Circular Rd",Dublin,310000.0,No,South Circular,Dublin 8,q2,40%
+27/10/2017,"494 South Circular Rd, Dublin 8, Dublin",Dublin,402000.0,No,South Circular,Dublin 8,q3,60%
+31/10/2017,"Apt 1, 21 Emor St, South Circular Rd",Dublin,1150000.0,No,South Circular,Dublin 8,q4,100%
+14/11/2017,"44 St James Wood, South Circular Rd, Dublin 8",Dublin,265000.0,No,South Circular,Dublin 8,q1,30%
+24/11/2017,"61 Clarence Mangan Rd, South Circular Rd, Dublin 8",Dublin,615000.0,No,South Circular,Dublin 8,q4,80%
+01/12/2017,"Apt 1, 104 South Circular Rd, Dublin",Dublin,399000.0,No,South Circular,Dublin 8,q3,60%
+06/12/2017,"216 South Circular Rd, Dublin 8, Dublin",Dublin,720000.0,No,South Circular,Dublin 8,q4,100%
+06/12/2017,"59 St Jamess Wood, South Circular Rd, Dublin 8",Dublin,329000.0,No,South Circular,Dublin 8,q2,40%
+19/12/2017,"3 Grantham St, South Circular Rd, Dublin 8",Dublin,1010000.0,No,South Circular,Dublin 8,q4,100%
+22/12/2017,"35 Reuben Ave, South Circular Rd, Dublin 8",Dublin,350000.0,No,South Circular,Dublin 8,q2,50%
+10/01/2018,"16 Mc Mahon St, South Circular Rd, Dublin 8",Dublin,525000.0,No,South Circular,Dublin 8,q3,70%
+12/01/2018,"118 South Circular Rd, Dublin 8, Dublin",Dublin,330000.0,No,South Circular,Dublin 8,q2,40%
+18/01/2018,"6 The Orchard, 645 South Circular Rd, Dublin 8",Dublin,250000.0,No,South Circular,Dublin 8,q1,20%
+08/02/2018,"19 Carrick Terrace, South Circular Rd, Dublin 8",Dublin,335000.0,No,South Circular,Dublin 8,q2,40%
+05/03/2018,"29 St Albansroad, South Circular Rd, Dublin 8",Dublin,470000.0,No,South Circular,Dublin 8,q3,70%
+08/03/2018,"63 Dufferin Ave, South Circular Rd, Dublin 8",Dublin,590000.0,No,South Circular,Dublin 8,q4,80%
+14/03/2018,"5 Greenville Terrace, South Circular Rd, Dublin 8",Dublin,498000.0,No,South Circular,Dublin 8,q3,70%
+29/03/2018,"170 South Circular Rd, Dublin 8, Dublin",Dublin,700000.0,No,South Circular,Dublin 8,q4,90%
+29/03/2018,"Apt 1 - 8, 318 South Circular Rd, Dublin 8",Dublin,600000.0,No,South Circular,Dublin 8,q4,80%
+30/04/2018,"3 Rothe Abbey, South Circular Rd, Dublin 8",Dublin,325000.0,No,South Circular,Dublin 8,q2,40%
+08/05/2018,"86 Heytesbury St, South Circular Rd, Dublin 8",Dublin,700000.0,No,South Circular,Dublin 8,q4,90%
+11/05/2018,"10 Merton Ave, South Circular Rd, Dublin 8",Dublin,480000.0,No,South Circular,Dublin 8,q3,70%
+15/05/2018,"26 Merton Ave, South Circular Rd, Dublin 8",Dublin,625000.0,No,South Circular,Dublin 8,q4,90%
+17/05/2018,"14 Dufferin Ave, South Circular Rd, Dublin 8",Dublin,645000.0,No,South Circular,Dublin 8,q4,90%
+30/05/2018,"376 South Circular Rd, Dublin 8, Dublin",Dublin,576000.0,No,South Circular,Dublin 8,q3,80%
+13/07/2018,"609 South Circular Rd, Dublin 8",Dublin,565000.0,No,South Circular,Dublin 8,q3,80%
+24/08/2018,"56 Raymond St, South Circular Rd, Dublin 8",Dublin,620000.0,No,South Circular,Dublin 8,q4,90%
+12/10/2018,"17 Merton Ave, South Circular Rd, Dublin 8",Dublin,555000.0,No,South Circular,Dublin 8,q3,80%
+26/10/2018,"19 Victoria St, South Circular Rd",Dublin,2067291.0,No,South Circular,Dublin 8,q4,100%
+31/10/2018,"138 South Circular Rd, Dublin 8, Dublin",Dublin,568000.0,No,South Circular,Dublin 8,q3,80%
+08/11/2018,"20 St Thomas Rd, South Circular Rd, Dublin 8",Dublin,490000.0,No,South Circular,Dublin 8,q3,70%
+16/11/2018,"11 St Albans Rd, South Circular Rd, Dublin 8",Dublin,580000.0,No,South Circular,Dublin 8,q3,80%
+29/11/2018,"74 Hyde Sq, South Circular Rd, Dublin 8",Dublin,350000.0,No,South Circular,Dublin 8,q2,50%
+07/12/2018,"9 St Thomas Rd, South Circular Rd, Dublin 8",Dublin,375000.0,No,South Circular,Dublin 8,q2,50%
+21/12/2018,"Apts 1-8, 38 South Circular Rd, Dublin",Dublin,585000.0,No,South Circular,Dublin 8,q4,80%
+16/01/2019,"13 Gilbert Rd, South Circular Rd, Dublin 8",Dublin,427500.0,No,South Circular,Dublin 8,q3,60%
+17/01/2019,"20 Geoffrey Keating Rd, South Circular Rd, Dublin 8",Dublin,395000.0,No,South Circular,Dublin 8,q2,50%
+23/01/2019,"16 Emorville Ave, South Circular Rd, Dublin 8",Dublin,650000.0,No,South Circular,Dublin 8,q4,90%
+06/03/2019,"73 Hyde Sq, South Circular Rd, Dublin 8",Dublin,350000.0,No,South Circular,Dublin 8,q2,50%
+07/03/2019,"16 Odonovan Rd, South Circular Rd, Dublin 8",Dublin,400000.0,No,South Circular,Dublin 8,q3,60%
+08/03/2019,"7 Rehoboth Place, South Circular Rd, Dublin 8",Dublin,410000.0,No,South Circular,Dublin 8,q3,60%
+03/04/2019,"51 Clanbrassil St Upper, South Circular Rd, Dublin 8",Dublin,650000.0,No,South Circular,Dublin 8,q4,90%
+09/04/2019,"19 Greenville Ave, South Circular Rd, Dublin 8",Dublin,450000.0,No,South Circular,Dublin 8,q3,70%
+12/04/2019,"15 Church Ave, South Circular Rd, Dublin",Dublin,435000.0,No,South Circular,Dublin 8,q3,60%
+29/04/2019,"2 Oscar Sq, South Circular Rd, Dublin 8",Dublin,385000.0,No,South Circular,Dublin 8,q2,50%
+02/05/2019,"9 The Orchard 645 South Circular Rd, Dublin 8, Dublin",Dublin,275000.0,No,South Circular,Dublin 8,q1,30%
+16/05/2019,"22 Kingsland Parade, South Circular Rd, Dublin 8",Dublin,350000.0,No,South Circular,Dublin 8,q2,50%
+14/06/2019,"18 Greenville Ave, The Tenters, South Circular Rd",Dublin,470000.0,No,South Circular,Dublin 8,q3,70%
+28/06/2019,"2A Longwood Ave, South Circular Rd, Dublin 8",Dublin,589000.0,No,South Circular,Dublin 8,q4,80%
+05/07/2019,"14 Arnott St, The South Circular Rd, Dublin 8",Dublin,745000.0,No,South Circular,Dublin 8,q4,100%
+08/07/2019,"43 St Albans Rd, South Circular Rd, Dublin 8",Dublin,500000.0,No,South Circular,Dublin 8,q3,70%
+12/07/2019,"45 Donore Ave, South Circular Rd, Dublin 8",Dublin,684000.0,No,South Circular,Dublin 8,q4,90%
+29/07/2019,"12 Victoriast, South Circular Rd, Dublin 8",Dublin,1400000.0,No,South Circular,Dublin 8,q4,100%
+01/08/2019,"744 South Circular Rd, Dublin 8, Dublin",Dublin,585000.0,No,South Circular,Dublin 8,q4,80%
+02/08/2019,"29 St Albansroad, South Circular Rd, Dublin 8",Dublin,760000.0,No,South Circular,Dublin 8,q4,100%
+07/08/2019,"7 Vernon St, South Circular Rd, Dublin 8",Dublin,615000.0,No,South Circular,Dublin 8,q4,80%
+12/08/2019,"531 South Circular Rd, Dublin 8, Dublin",Dublin,790000.0,No,South Circular,Dublin 8,q4,100%
+13/08/2019,"24 Lombard St West, South Circular Rd, Dublin 8",Dublin,715000.0,No,South Circular,Dublin 8,q4,100%
+21/08/2019,"51 The Paddocks, Hibreasal, South Circular Rd Dublin 8",Dublin,340000.0,No,South Circular,Dublin 8,q2,40%
+22/08/2019,"13 Dufferin Ave, South Circular Rd, Dublin 8",Dublin,952500.0,No,South Circular,Dublin 8,q4,100%
+26/08/2019,"38 St Kevins Parade, South Circular Rd, Dublin 8",Dublin,810000.0,No,South Circular,Dublin 8,q4,100%
+23/09/2019,"35 Rehoboth Place, South Circular Rd, Dublin 8",Dublin,630000.0,No,South Circular,Dublin 8,q4,90%
+26/09/2019,"44 Reuben Ave, South Circular Rd, Dublin 8",Dublin,380000.0,No,South Circular,Dublin 8,q2,50%
+03/10/2019,"Apt 1, 54 South Circular Rd, Dublin 8",Dublin,900000.0,No,South Circular,Dublin 8,q4,100%
+10/10/2019,"9 Arnott St, South Circular Rd, Dublin 8",Dublin,895000.0,No,South Circular,Dublin 8,q4,100%
+11/10/2019,"12 Harty Place, Off South Circular Rd, Dublin 8",Dublin,225000.0,No,South Circular,Dublin 8,q1,20%

@@ -1,0 +1,838 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/01/2010,"9 Temple Manor Drive, Walkinstown, Dublin 12",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,60%
+08/01/2010,"109 Dowland Road, Walkinstown",Dublin,251000.0,No,Walkinstown,Dublin 12,q2,50%
+18/01/2010,"8 Kilmashogue Grove, Greenpark, Walkinstown",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+28/01/2010,"5  Walkinstown Crescent, Walkinstown, Dublin 12",Dublin,220000.0,No,Walkinstown,Dublin 12,q2,40%
+29/01/2010,"120 Walkinstown Road, Walkinstown, Dublin 12",Dublin,305000.0,No,Walkinstown,Dublin 12,q3,70%
+01/02/2010,"46 Thomas Moore Road, Walkinstown, Dublin 12",Dublin,215000.0,No,Walkinstown,Dublin 12,q2,30%
+10/02/2010,"85 Walkinstown Avenue, Walkinstown",Dublin,192500.0,No,Walkinstown,Dublin 12,q1,30%
+15/02/2010,"4 Stanford Green, Walkinstown",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+16/02/2010,"33A, Walkinstown Green, Walkinstown",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+26/02/2010,"35 St Mary'S Park, Walkinstown, Dublin 12",Dublin,265000.0,No,Walkinstown,Dublin 12,q2,50%
+26/02/2010,"53 O'Brien Road, Walkinstown",Dublin,167000.0,No,Walkinstown,Dublin 12,q1,20%
+02/03/2010,"83 Beechfield Road, Walkinstown, Dublin 12",Dublin,295000.0,No,Walkinstown,Dublin 12,q3,60%
+30/03/2010,"16 Limekiln Avenue, Walkinstown",Dublin,246000.0,No,Walkinstown,Dublin 12,q2,40%
+30/03/2010,"20 Cherryfield Drive, Walkinstown",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,60%
+31/03/2010,"61 Limekiln Road, Walkinstown",Dublin,268000.0,No,Walkinstown,Dublin 12,q2,50%
+09/04/2010,"5 Cherry Grove, Walkinstown, .",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+16/04/2010,"4B Keadeen Avenue, Greenpark, Walkinstown",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+19/04/2010,"6 Tonduff Close, Greenpark, Walkinstown",Dublin,340000.0,No,Walkinstown,Dublin 12,q3,80%
+29/04/2010,"14 Wallace Road, Walkinstown",Dublin,245000.0,No,Walkinstown,Dublin 12,q2,40%
+05/05/2010,"60 Walkinstown Road, Walkinstown",Dublin,330000.0,No,Walkinstown,Dublin 12,q3,80%
+13/05/2010,"2 Percy French Road, Walkinstown, Dublin 12",Dublin,255000.0,No,Walkinstown,Dublin 12,q2,50%
+18/05/2010,"46 Beechfield Road, Walkinstown, Dublin 12",Dublin,322500.0,No,Walkinstown,Dublin 12,q3,70%
+19/05/2010,"58  Beechfield Road, Walkinstown, Dublin 12",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,60%
+21/05/2010,"1 St Conleth'S Road, Walkinstown, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+21/05/2010,"139 Limekiln Road, Walkinstown",Dublin,238500.0,No,Walkinstown,Dublin 12,q2,40%
+02/06/2010,"149 Walkinstown Avenue, Walkinstown",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+04/06/2010,"105 Thomas Moore Road, Walkinstown",Dublin,172500.0,No,Walkinstown,Dublin 12,q1,20%
+09/06/2010,"41 Cromwellsfort  Road, Walkinstown, Dublin",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,60%
+11/06/2010,"24 Hardebeck Avenue, Walkinstown, Dublin 12",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+18/06/2010,"5 O'Brien Road, Walkinstown, Dublin 12",Dublin,245000.0,No,Walkinstown,Dublin 12,q2,40%
+01/07/2010,"39 Hughes Road South, Walkinstown, Dublin 12",Dublin,245000.0,No,Walkinstown,Dublin 12,q2,40%
+09/07/2010,"134 Cherryfield Road, Walkinstown, Dublin",Dublin,265000.0,No,Walkinstown,Dublin 12,q2,50%
+12/07/2010,"63 Cheffyfield Avenue, Walkinstown, Dublin 12",Dublin,315000.0,No,Walkinstown,Dublin 12,q3,70%
+16/07/2010,"1 Stanford Green, Walkinstown, Dublin 12",Dublin,265000.0,No,Walkinstown,Dublin 12,q2,50%
+16/07/2010,"35  Limekiln Road, Walkinstown, Dublin 12",Dublin,248000.0,No,Walkinstown,Dublin 12,q2,50%
+22/07/2010,"2 Thoms Moore Road, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+23/07/2010,"24 Thomas Moore Road, Walkinstown, Dublin 12",Dublin,285000.0,No,Walkinstown,Dublin 12,q3,60%
+23/07/2010,"85 Beechfield Avenue, Walkinstown",Dublin,302000.0,No,Walkinstown,Dublin 12,q3,70%
+26/07/2010,"15 St Mary'S Crescent, Walkinstown",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+26/07/2010,"21 Walkinstown Park, Walkinstown, Diblin 12",Dublin,217500.0,No,Walkinstown,Dublin 12,q2,30%
+28/07/2010,"25 Crotty Avenue, Walkinstown, Dublin 12",Dublin,248000.0,No,Walkinstown,Dublin 12,q2,50%
+28/07/2010,"3 Limekiln Park, Walkinstown",Dublin,315000.0,No,Walkinstown,Dublin 12,q3,70%
+10/08/2010,"13 Hughes Road East, Walkinstown",Dublin,260000.0,No,Walkinstown,Dublin 12,q2,50%
+17/08/2010,"8 Walkinstown Green, Walkinstown, Dublin 12",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+26/08/2010,"89 Walkinstown Park, Walkinstown, Dublin 12",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+13/09/2010,"18 Beachfield Close, Walkinstown",Dublin,330000.0,No,Walkinstown,Dublin 12,q3,80%
+21/09/2010,"193 Cherryfield Road, Walkinstown, Dublin 12",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,60%
+23/09/2010,"150 Cherryfield Road, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+01/10/2010,"168 St Peters Road, Walkinstown",Dublin,257000.0,No,Walkinstown,Dublin 12,q2,50%
+22/10/2010,"39 Walkinstown Park, Walkinstown, Dublin 15",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,60%
+26/10/2010,"24A Temple Manor Way, Walkinstown, Dublin 12",Dublin,370000.0,No,Walkinstown,Dublin 12,q4,90%
+27/10/2010,"1 St. Columbas Road, Walkinstown, Dublin 12",Dublin,190000.0,No,Walkinstown,Dublin 12,q1,30%
+29/10/2010,"39B Walkinstown Drive, Walkinstown, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+03/11/2010,"16 Crotty Avenue, Walkinstown, Dublin 12",Dublin,222500.0,No,Walkinstown,Dublin 12,q2,40%
+10/11/2010,"13 Walkinstown Crescent, Walkinstown",Dublin,190000.0,No,Walkinstown,Dublin 12,q1,30%
+12/11/2010,"29 Kilmashogue Drive, Green Lane, Walkinstown",Dublin,365000.0,No,Walkinstown,Dublin 12,q4,90%
+16/11/2010,"45  St Brendans Crescent, Walkinstown",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,60%
+16/11/2010,"45 St. Brendans Crescent, Walkinstown",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,60%
+22/11/2010,"54 Cherryfield Road, Walkinstown, .",Dublin,220000.0,No,Walkinstown,Dublin 12,q2,40%
+07/12/2010,"24 St Patricks Road, Greenhills, Walkinstown",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+17/12/2010,"12 Harty Court, Harty Avenue, Walkinstown",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+17/12/2010,"31 Walkinstown Parade, Walkinstown, Dublin 12",Dublin,205000.0,No,Walkinstown,Dublin 12,q2,30%
+17/12/2010,"42 John Mccormack Avenue, Walkinstown",Dublin,222500.0,No,Walkinstown,Dublin 12,q2,40%
+17/12/2010,"80 St Patricks Road, Walkinstown, Dublin 12",Dublin,255000.0,No,Walkinstown,Dublin 12,q2,50%
+20/12/2010,"145 Walkinstown Drive, Walkinstown",Dublin,195000.0,No,Walkinstown,Dublin 12,q1,30%
+07/01/2011,"61 Walkinstown Park, Walkinstown",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+26/01/2011,"4 O'Brien Road, Walkinstown, Dublin 12",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+26/01/2011,"84 Walkinstown Drive, Walkinstown",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+26/01/2011,"84 Walkinstown Drive, Walkinstown, Dublin 12",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+22/02/2011,"1A Walkinstown Drive, Walkinstown",Dublin,243000.0,No,Walkinstown,Dublin 12,q2,40%
+23/02/2011,"27 Walkinstown Crescent, Walkinstown",Dublin,206000.0,No,Walkinstown,Dublin 12,q2,30%
+25/02/2011,"1 Balfe Road, Walkinstown",Dublin,177500.0,No,Walkinstown,Dublin 12,q1,20%
+11/03/2011,"99 Walkinstown Drive, Walkinstown",Dublin,170000.0,No,Walkinstown,Dublin 12,q1,20%
+22/03/2011,"11 Moeran Road, Walkinstown, Dublin 12",Dublin,260000.0,No,Walkinstown,Dublin 12,q2,50%
+28/03/2011,"92  St Peters Crescent, Walkinstown",Dublin,245000.0,No,Walkinstown,Dublin 12,q2,40%
+29/03/2011,"24 Dt Patricks Road, Greenhills, Walkinstown",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+30/03/2011,"18 Walkinstown Drive, Walkinstown",Dublin,255000.0,No,Walkinstown,Dublin 12,q2,50%
+30/03/2011,"63 Bunting Road, Walkinstown, Dublin 12",Dublin,175000.0,No,Walkinstown,Dublin 12,q1,20%
+12/04/2011,"36 St. Peter'S Road, Walkinstown",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+29/04/2011,"12 Bunting Road, Walkinstown, Dublin 12",Dublin,219000.0,No,Walkinstown,Dublin 12,q2,30%
+06/05/2011,"3  Esposito Road, Walkinstown",Dublin,215000.0,No,Walkinstown,Dublin 12,q2,30%
+12/05/2011,"30 Stanford Green, Walkinstown",Dublin,185000.0,No,Walkinstown,Dublin 12,q1,20%
+25/05/2011,"128 Cromwellsfort Road, Walkinstown",Dublin,131000.0,No,Walkinstown,Dublin 12,q1,10%
+26/05/2011,"36 Bunting Road, Walkinstown",Dublin,202000.0,No,Walkinstown,Dublin 12,q2,30%
+26/05/2011,"69 Moeran Road, Walkinstown, Dublin 12",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+10/06/2011,"46 Cherryfield Avenue, Walkinstown",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+10/06/2011,"68 St Anthonys Crescent, Walkinstown, Dublin 12",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+16/06/2011,"106 Walkinstown Road, Walkinstown",Dublin,170000.0,No,Walkinstown,Dublin 12,q1,20%
+04/07/2011,"15 Hughes Road East, Walkinstown",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+21/07/2011,"68, Walkinstown Road, Walkinstown",Dublin,130000.0,No,Walkinstown,Dublin 12,q1,10%
+02/08/2011,"16 Balfe Road, Walkinstown",Dublin,125000.0,No,Walkinstown,Dublin 12,q1,10%
+11/08/2011,"6 Walkinstown Crescent, Walkinstown",Dublin,130000.0,No,Walkinstown,Dublin 12,q1,10%
+16/08/2011,"16 Percy French Road, Walkinstown",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+16/08/2011,"18 Balfe Road, Walkinstown",Dublin,132500.0,No,Walkinstown,Dublin 12,q1,10%
+19/08/2011,"32 St. Mary'S Park, Walkinstown, Dublin 12",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+29/08/2011,"43 Beechfield Road, Walkinstown",Dublin,252500.0,No,Walkinstown,Dublin 12,q2,50%
+07/09/2011,"114  Walkinstown Road, Walkinstown, Dublin 12",Dublin,240000.0,No,Walkinstown,Dublin 12,q2,40%
+09/09/2011,"93 Beechfield Road, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+23/09/2011,"45 Balfe Road, Walkinstown",Dublin,158000.0,No,Walkinstown,Dublin 12,q1,20%
+26/09/2011,"14 Kippure Avenue, Walkinstown",Dublin,208000.0,No,Walkinstown,Dublin 12,q2,30%
+27/09/2011,"46  Balfe Road East, Walkinstown, Dublin 12",Dublin,106000.0,No,Walkinstown,Dublin 12,q1,10%
+29/09/2011,"30 St Mary'S Drive, Walkinstown",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+29/09/2011,"60 St Patrick'S Road, Walkinstown",Dublin,208000.0,No,Walkinstown,Dublin 12,q2,30%
+28/10/2011,"155 Walkinstown Avenue, Dublin 15",Dublin,195000.0,No,Walkinstown,Dublin 12,q1,30%
+28/10/2011,"19 Hardebeck Avenue, Walkinstown, Dublin 12",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+03/11/2011,"39 St. Marys Park, Walkinstown, Dublin 12",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+04/11/2011,"7 Tibradden Close, Walkinstown",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+08/11/2011,"18 Greenhills Road, Walkinstown",Dublin,165000.0,No,Walkinstown,Dublin 12,q1,20%
+09/11/2011,"26 Balfe Avenue, Walkinstown",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+09/11/2011,"8 St. Peter'S Drive, Walkinstown, Dublin 12",Dublin,148000.0,No,Walkinstown,Dublin 12,q1,10%
+22/11/2011,"20 St. Patrick'S Road, Walkinstown, Dublin 12",Dublin,198000.0,No,Walkinstown,Dublin 12,q1,30%
+24/11/2011,"21 Crotty Avenue, Walkinstown",Dublin,160000.0,No,Walkinstown,Dublin 12,q1,20%
+25/11/2011,"42 Walkinstown Avenue, Dublin 12",Dublin,235000.0,No,Walkinstown,Dublin 12,q2,40%
+28/11/2011,"8 Cherry Grove, Walkinstown, Dublin 12",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+30/11/2011,"48 Balfe Road East, Walkinstown, Dublin 12",Dublin,119000.0,No,Walkinstown,Dublin 12,q1,10%
+16/12/2011,"31 St. Anthony'S Crescent, Walkinstown",Dublin,193000.0,No,Walkinstown,Dublin 12,q1,30%
+20/12/2011,"16 Greenhills Road, Walkinstown, Dublin 12",Dublin,162000.0,No,Walkinstown,Dublin 12,q1,20%
+21/12/2011,"11 Corrig Close, Greenpark, Walkinstown",Dublin,235000.0,No,Walkinstown,Dublin 12,q2,40%
+17/01/2012,"7 Dowland Road, Walkinstown, Dublin 12",Dublin,185000.0,No,Walkinstown,Dublin 12,q1,20%
+02/02/2012,"79 Walkinstown Drive, Walkinstown, Dublin 12",Dublin,111000.0,No,Walkinstown,Dublin 12,q1,10%
+10/02/2012,"95 Cromwellsfort Road, Walkinstown, Dublin 12",Dublin,253500.0,No,Walkinstown,Dublin 12,q2,50%
+13/02/2012,"150 St James Road, Greenhills, Walkinstown",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+17/02/2012,"15 Bigger Road, Walkinstown, Dublin 12",Dublin,175000.0,No,Walkinstown,Dublin 12,q1,20%
+24/02/2012,"7 Cherryfield Road, Walkinstown",Dublin,146000.0,No,Walkinstown,Dublin 12,q1,10%
+07/03/2012,"16 Walkinstown Green, Walkinstown",Dublin,240000.0,No,Walkinstown,Dublin 12,q2,40%
+12/03/2012,"20 Greenhills Road, Walkinstown, Dubln 12",Dublin,152000.0,No,Walkinstown,Dublin 12,q1,10%
+15/03/2012,"51 Bunting Road, Walkinstown",Dublin,135000.0,No,Walkinstown,Dublin 12,q1,10%
+16/03/2012,"50 St. Mary'S Drive, Walkinstown",Dublin,185000.0,No,Walkinstown,Dublin 12,q1,20%
+16/03/2012,"74 Drimnagh Road, Walkinstown",Dublin,190000.0,No,Walkinstown,Dublin 12,q1,30%
+20/03/2012,"120 Walkinstown Avenue, Walkinstown",Dublin,120000.0,No,Walkinstown,Dublin 12,q1,10%
+20/03/2012,"22 Moeran Road, Walkinstown, Dublin 12",Dublin,120000.0,No,Walkinstown,Dublin 12,q1,10%
+21/03/2012,"39 Bunting Road, Walkinstown",Dublin,110000.0,No,Walkinstown,Dublin 12,q1,10%
+22/03/2012,"15 Walkinstown Parade, Dublin 12",Dublin,155000.0,No,Walkinstown,Dublin 12,q1,10%
+26/03/2012,"26 Thomas Moore Road, Walkinstown",Dublin,197000.0,No,Walkinstown,Dublin 12,q1,30%
+29/03/2012,"12 St James Road, Walkinstown, Dublin 12",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+30/03/2012,"37 Walkinstown Park, Walkinstown",Dublin,235000.0,No,Walkinstown,Dublin 12,q2,40%
+03/04/2012,"74 Bunting Road, Walkinstown",Dublin,171000.0,No,Walkinstown,Dublin 12,q1,20%
+25/04/2012,"40 Thomas Moore Road, Walkinstown",Dublin,120000.0,No,Walkinstown,Dublin 12,q1,10%
+02/05/2012,"121 Walkinstown Drive, Walkinstown",Dublin,219500.0,No,Walkinstown,Dublin 12,q2,40%
+03/05/2012,"112 Bunting Road, Walkinstown",Dublin,85000.0,No,Walkinstown,Dublin 12,q1,10%
+09/05/2012,"26  Glendoo Close, Greenpark, Walkinstown",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+17/05/2012,"9 Thomas Moore Road, Walkinstown",Dublin,120000.0,No,Walkinstown,Dublin 12,q1,10%
+17/05/2012,"99 Cherryfield Road, Walkinstown",Dublin,160000.0,No,Walkinstown,Dublin 12,q1,20%
+18/05/2012,"18 Bigger Road, Walkinstown, Dublin 12",Dublin,170000.0,No,Walkinstown,Dublin 12,q1,20%
+22/05/2012,"70 St. Peter'S Crescent, Walkinstown",Dublin,177000.0,No,Walkinstown,Dublin 12,q1,20%
+25/05/2012,"3 Field Avenue, Walkinstown, Dublin 12",Dublin,130000.0,No,Walkinstown,Dublin 12,q1,10%
+31/05/2012,"8 St. Brendan'S Crescent, Walkinstown, Dublin 12",Dublin,176000.0,No,Walkinstown,Dublin 12,q1,20%
+08/06/2012,"9 St Peters Drive, Walkinstown",Dublin,202000.0,No,Walkinstown,Dublin 12,q2,30%
+12/06/2012,"89 St Anthony'S Crescent, Walkinstown",Dublin,152000.0,No,Walkinstown,Dublin 12,q1,10%
+19/06/2012,"113 Bunting Road, Walkinstown, Dublin 12",Dublin,145000.0,No,Walkinstown,Dublin 12,q1,10%
+29/06/2012,"55 St Peters Road, Walkinstown, Dublin 12",Dublin,175000.0,No,Walkinstown,Dublin 12,q1,20%
+01/07/2012,"17 Beechfield Close, Walkinstown",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+04/07/2012,"6 Percy French Road, Walkinstown",Dublin,145000.0,No,Walkinstown,Dublin 12,q1,10%
+06/07/2012,"34 St. Peters Road, Walkinstown, Dublin 12",Dublin,188000.0,No,Walkinstown,Dublin 12,q1,20%
+11/07/2012,"29 Crotty Avenue, Walkinstown",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+12/07/2012,"16 Bigger Road, Walkinstown, Dublin",Dublin,177500.0,No,Walkinstown,Dublin 12,q1,20%
+16/07/2012,"25 Hughes Road South, Walkinstown",Dublin,145000.0,No,Walkinstown,Dublin 12,q1,10%
+20/07/2012,"62 St Columbas Road, Walkinstown",Dublin,150000.0,No,Walkinstown,Dublin 12,q1,10%
+25/07/2012,"148 Dowland Road, Walkinstown, Dublin 12",Dublin,128000.0,No,Walkinstown,Dublin 12,q1,10%
+01/08/2012,"18  Tonduff Close, Greenpark, Walkinstown",Dublin,192500.0,No,Walkinstown,Dublin 12,q1,30%
+03/08/2012,"5A Ballymount Square, Walkinstown",Dublin,105000.0,No,Walkinstown,Dublin 12,q1,10%
+10/08/2012,"173 St. James Road, Greenhills, Walkinstown",Dublin,190000.0,No,Walkinstown,Dublin 12,q1,30%
+10/08/2012,"92 Beechfield Road, Walkinstown, Dublin 12",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+21/08/2012,"98  Whitehall Road West, Walkinstown",Dublin,195000.0,No,Walkinstown,Dublin 12,q1,30%
+22/08/2012,"284 St James Road, Walkinstown, Dublin 12",Dublin,155000.0,No,Walkinstown,Dublin 12,q1,10%
+29/08/2012,"21 Templemanor Grove, Walkinstown",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+29/08/2012,"40 Walkinstown Crescent, Walkinstown",Dublin,95000.0,No,Walkinstown,Dublin 12,q1,10%
+30/08/2012,"127 Limekiln Green, Walkinstown",Dublin,105000.0,No,Walkinstown,Dublin 12,q1,10%
+30/08/2012,"253 Kildare Road, Walkinstown",Dublin,126000.0,No,Walkinstown,Dublin 12,q1,10%
+31/08/2012,"114 Dowland Road, Walkinstown",Dublin,165000.0,No,Walkinstown,Dublin 12,q1,20%
+31/08/2012,"83A, Cherryfield Road, Walkinstown",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,60%
+11/09/2012,"7 Kippure Avenue, Greenpark, Walkinstown",Dublin,190000.0,No,Walkinstown,Dublin 12,q1,30%
+21/09/2012,"97 Walkinstown Park, Walkinstown",Dublin,172000.0,No,Walkinstown,Dublin 12,q1,20%
+27/09/2012,"50 Cherryfield Road, Walkinstown, Dublin 12",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+02/10/2012,"21 St. Peter'S Road, Walkinstown",Dublin,225000.0,No,Walkinstown,Dublin 12,q2,40%
+04/10/2012,"122 Walkinstown Rd, Dublin 12",Dublin,272500.0,No,Walkinstown,Dublin 12,q2,50%
+09/10/2012,"59 St. Peter'S Road, Walkinstown-",Dublin,195000.0,No,Walkinstown,Dublin 12,q1,30%
+17/10/2012,"31 Kilmashogue Drive, Greenpark, Walkinstown",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+26/10/2012,"14 Hughes Road North, Walkinstown",Dublin,150000.0,No,Walkinstown,Dublin 12,q1,10%
+31/10/2012,"45 Walkinstown Drive, Walkinstown",Dublin,211000.0,No,Walkinstown,Dublin 12,q2,30%
+31/10/2012,"77 Thomas Moore Road, Walkinstown, Dublin 12",Dublin,145000.0,No,Walkinstown,Dublin 12,q1,10%
+02/11/2012,"81 Bunting Road, Walkinstown",Dublin,185000.0,No,Walkinstown,Dublin 12,q1,20%
+02/11/2012,"82 John Mc Cormack Avenue, Walkinstown",Dublin,160000.0,No,Walkinstown,Dublin 12,q1,20%
+15/11/2012,"7 Kilakee Close, Walkinstown",Dublin,196000.0,No,Walkinstown,Dublin 12,q1,30%
+16/11/2012,"31 Moeran Road, Walkinstown",Dublin,165000.0,No,Walkinstown,Dublin 12,q1,20%
+23/11/2012,"65 Moeran Road, Walkinstown",Dublin,231000.0,No,Walkinstown,Dublin 12,q2,40%
+27/11/2012,"23 Walkinstown Avenue, Dublin 12",Dublin,130000.0,No,Walkinstown,Dublin 12,q1,10%
+28/11/2012,"6 Field Avenue, Walkinstown, Dublin 12",Dublin,165000.0,No,Walkinstown,Dublin 12,q1,20%
+29/11/2012,"14 St Peters Drive, Walkinstown",Dublin,163000.0,No,Walkinstown,Dublin 12,q1,20%
+30/11/2012,"14A St Josephs Road, Walkinstown",Dublin,220000.0,No,Walkinstown,Dublin 12,q2,40%
+04/12/2012,"3 Greenhills Road, Walkinstown",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+04/12/2012,"5 Greenhills Road, Walkinstown",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+04/12/2012,"7 Greenhills Road, Walkinstown",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+04/12/2012,"9 Greenhills Road, Walkinstown",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+06/12/2012,"1 Biggar Road, Walkinstown, Dublin 12",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+06/12/2012,"6 Tibradden Close, Walkinstown",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+13/12/2012,"2 Kippure Avenue, Greenpark Walkinstown, Dublin 12",Dublin,207500.0,No,Walkinstown,Dublin 12,q2,30%
+14/12/2012,"19 John Mccormack Avenue, Walkinstown",Dublin,172500.0,No,Walkinstown,Dublin 12,q1,20%
+14/12/2012,"33 Temple Manor Grove, Walkinstown",Dublin,257500.0,No,Walkinstown,Dublin 12,q2,50%
+14/12/2012,"83 Walkinstown Drive, Walkinstown, Dublin",Dublin,176500.0,No,Walkinstown,Dublin 12,q1,20%
+18/12/2012,"14 John Mccormack Avenue, Walkinstown, Dublin 12",Dublin,170000.0,No,Walkinstown,Dublin 12,q1,20%
+18/12/2012,"65 Walkinstown Drive, Walkinstown",Dublin,105000.0,No,Walkinstown,Dublin 12,q1,10%
+19/12/2012,"37 Walkinstown Park, Walkinstown",Dublin,155000.0,No,Walkinstown,Dublin 12,q1,10%
+19/12/2012,"62 Walkinstown Avenue, Walkinsotwn",Dublin,165000.0,No,Walkinstown,Dublin 12,q1,20%
+20/12/2012,"88 Dowland Road, Walkinstown",Dublin,197000.0,No,Walkinstown,Dublin 12,q1,30%
+21/12/2012,"128 Walkinstown Road, Walkinstown",Dublin,175000.0,No,Walkinstown,Dublin 12,q1,20%
+21/12/2012,"156 Walkinstown Road, Walkinstown, Dublin 12",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+21/12/2012,"86 Bunting Road, Walkinstown",Dublin,135000.0,No,Walkinstown,Dublin 12,q1,10%
+03/01/2013,"82 St Peters Crescent, Walkinstown",Dublin,194800.0,No,Walkinstown,Dublin 12,q1,30%
+16/01/2013,"27 Hughes Road, Walkinstown",Dublin,50000.0,No,Walkinstown,Dublin 12,q1,10%
+18/01/2013,"119 Bunting Road, Walkinstown",Dublin,170000.0,No,Walkinstown,Dublin 12,q1,20%
+18/01/2013,"31A Walkinstown Green, Walkinstown, Dublin 12.",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+25/01/2013,"2 Harty Court, Harty Avenue, Walkinstown",Dublin,120000.0,No,Walkinstown,Dublin 12,q1,10%
+08/02/2013,"105 St. James'S Road, Walkinstown",Dublin,225000.0,No,Walkinstown,Dublin 12,q2,40%
+08/02/2013,"6 Esposito Road, Walkinstown, Dublin 12",Dublin,195000.0,No,Walkinstown,Dublin 12,q1,30%
+08/02/2013,"74 Cromwellsfort Road, Walkinstown",Dublin,240000.0,No,Walkinstown,Dublin 12,q2,40%
+15/02/2013,"111 Hardebeck Avenue, Walkinstown",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+15/02/2013,"19 Greenhills Road, Walkinstown, Dublin 12",Dublin,175000.0,No,Walkinstown,Dublin 12,q1,20%
+15/02/2013,"21 Greenhills Road, Walkinstown",Dublin,185000.0,No,Walkinstown,Dublin 12,q1,20%
+18/02/2013,"15 Greenhills Road, Walkinstown, Dublin 12",Dublin,151000.0,No,Walkinstown,Dublin 12,q1,10%
+21/02/2013,"11A Greenhills Road, Walkinstown, Dublin 12",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+22/02/2013,"46 Walkinstown Park, Walkinstown",Dublin,125000.0,No,Walkinstown,Dublin 12,q1,10%
+28/02/2013,"96 Walkinstown Drive, Walkinstown",Dublin,157500.0,No,Walkinstown,Dublin 12,q1,20%
+01/03/2013,"6 Hughes Road South, Walkinstown, Dublin 12",Dublin,108000.0,No,Walkinstown,Dublin 12,q1,10%
+05/03/2013,"31, Hughes Road East, Walkinstown",Dublin,167500.0,No,Walkinstown,Dublin 12,q1,20%
+08/03/2013,"33A Balfe Road East, Walkinstown, Dublin",Dublin,222000.0,No,Walkinstown,Dublin 12,q2,40%
+20/03/2013,"17 Greenhills Road, Walkinstown, Dublin 12",Dublin,165000.0,No,Walkinstown,Dublin 12,q1,20%
+22/03/2013,"39 Hardebeck Avenue, Walkinstown",Dublin,156000.0,No,Walkinstown,Dublin 12,q1,20%
+27/03/2013,"29A Biggar Rd, Walkinstown",Dublin,305000.0,No,Walkinstown,Dublin 12,q3,70%
+28/03/2013,"10 Moeran Road, Walkinstown, Dublin 12",Dublin,225750.0,No,Walkinstown,Dublin 12,q2,40%
+28/03/2013,"117 Bunting Road, Walkinstown",Dublin,183000.0,No,Walkinstown,Dublin 12,q1,20%
+05/04/2013,"95 Walkinstown Road, Walkinstown, Dublin 12",Dublin,160000.0,No,Walkinstown,Dublin 12,q1,20%
+12/04/2013,"55 Limekiln Green, Walkinstown",Dublin,130000.0,No,Walkinstown,Dublin 12,q1,10%
+14/04/2013,"21 Hughes Road South, Walkinstown",Dublin,175000.0,No,Walkinstown,Dublin 12,q1,20%
+24/04/2013,"36  Balfe Road East, Walkinstown, Dublin 12",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+25/04/2013,"18 Balfe Road, Walkinstown",Dublin,235000.0,No,Walkinstown,Dublin 12,q2,40%
+25/04/2013,"21 St Peters Crescent, Walkinstown, Dublin 12",Dublin,205000.0,No,Walkinstown,Dublin 12,q2,30%
+08/05/2013,"9 Harty Avenue, Walkinstown",Dublin,150000.0,No,Walkinstown,Dublin 12,q1,10%
+09/05/2013,"7 Cherryfield Drive, Walkinstown",Dublin,260000.0,No,Walkinstown,Dublin 12,q2,50%
+10/05/2013,"12 Temple Manor Avenue, Walkinstown",Dublin,292500.0,No,Walkinstown,Dublin 12,q3,60%
+10/05/2013,"6 St. Mels Avenue, Walkinstown",Dublin,215000.0,No,Walkinstown,Dublin 12,q2,30%
+16/05/2013,"72 John Mccormack Avenue, Walkinstown",Dublin,177500.0,No,Walkinstown,Dublin 12,q1,20%
+20/05/2013,"27 Hughes Road East, Walkinstown, Dublin 12",Dublin,50000.0,No,Walkinstown,Dublin 12,q1,10%
+23/05/2013,"2 Hardebeck Avenue, Walkinstown, Dublin 12",Dublin,190000.0,No,Walkinstown,Dublin 12,q1,30%
+24/05/2013,"5 Greenhills Road, Walkinstown",Dublin,185000.0,No,Walkinstown,Dublin 12,q1,20%
+24/05/2013,"63 Walkinstown Drive, Walkinstown",Dublin,156000.0,No,Walkinstown,Dublin 12,q1,20%
+27/05/2013,"32 Hardebeck Avenue, Walkinstown",Dublin,134000.0,No,Walkinstown,Dublin 12,q1,10%
+28/05/2013,"46 St. Joseph'S Road, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+30/05/2013,"7 Greenhills Road, Walkinstown",Dublin,190000.0,No,Walkinstown,Dublin 12,q1,30%
+04/06/2013,"11 Slievebloom Park, Walkinstown, Dublin 12",Dublin,152000.0,No,Walkinstown,Dublin 12,q1,10%
+07/06/2013,"67 Walkinstown Park, Walkinstown",Dublin,125000.0,No,Walkinstown,Dublin 12,q1,10%
+24/06/2013,"169 Cherryfield Road, Walkinstown",Dublin,260000.0,No,Walkinstown,Dublin 12,q2,50%
+25/06/2013,"116 Cromwellsfort Road, Walkinstown",Dublin,307500.0,No,Walkinstown,Dublin 12,q3,70%
+25/06/2013,"43 Hughes Road North, Walkinstown, Dublin",Dublin,170000.0,No,Walkinstown,Dublin 12,q1,20%
+05/07/2013,"12 St. Mary'S Crescent, Walkinstown",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+05/07/2013,"20 Kilakee Close, Greenpart Estate, Walkinstown",Dublin,196000.0,No,Walkinstown,Dublin 12,q1,30%
+10/07/2013,"46 Walkinstown Parade, Walkinstown",Dublin,170000.0,No,Walkinstown,Dublin 12,q1,20%
+19/07/2013,"116 St. Peters Road, Walkinstown",Dublin,197000.0,No,Walkinstown,Dublin 12,q1,30%
+19/07/2013,"26 Walkinstown Avenue, Walkinstown",Dublin,100000.0,No,Walkinstown,Dublin 12,q1,10%
+19/07/2013,"68 Cherryfield Road, Walkinstown",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+23/07/2013,"45 Saint Coleths Road, Walkinstown",Dublin,206000.0,No,Walkinstown,Dublin 12,q2,30%
+08/08/2013,"21 Cherryfield Avenue, Walkinstown, Dublin 12",Dublin,305000.0,No,Walkinstown,Dublin 12,q3,70%
+12/08/2013,"3 Walkinstown Green, Walkinstown",Dublin,208000.0,No,Walkinstown,Dublin 12,q2,30%
+12/08/2013,"65 Bunting Road, Walkinstown",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+22/08/2013,"3 Harty Court, Walkinstown, Dublin 12",Dublin,138000.0,No,Walkinstown,Dublin 12,q1,10%
+23/08/2013,"3 Greenhills Road, Walkinstown",Dublin,185000.0,No,Walkinstown,Dublin 12,q1,20%
+26/08/2013,"105 Beechfield Road, Walkinstown",Dublin,275000.0,No,Walkinstown,Dublin 12,q2,50%
+28/08/2013,"82 Walkinstown Avenue, Dublin 12",Dublin,163300.0,No,Walkinstown,Dublin 12,q1,20%
+16/09/2013,"16 Dowland Road, Walkinstown",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+16/09/2013,"29 Cherryfield Road, Walkinstown",Dublin,305000.0,No,Walkinstown,Dublin 12,q3,70%
+17/09/2013,"51 St. Brendan'S Crescent, Walkinstown",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+19/09/2013,"53 St Peters Road, Walkinstown",Dublin,205000.0,No,Walkinstown,Dublin 12,q2,30%
+20/09/2013,"11 Greenhills Road, Walkinstown",Dublin,120000.0,No,Walkinstown,Dublin 12,q1,10%
+20/09/2013,"51 St. Patrick'S Road, Walkinstown",Dublin,252000.0,No,Walkinstown,Dublin 12,q2,50%
+20/09/2013,"70 Walkinstown Avenue, Dublin 12",Dublin,150000.0,No,Walkinstown,Dublin 12,q1,10%
+25/09/2013,"20 Greenhills Road, Walkinstown",Dublin,235000.0,No,Walkinstown,Dublin 12,q2,40%
+26/09/2013,"15 Walkinstown Avenue, Dublin 12",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+27/09/2013,"1 St Peter'S Road, Walkinstown",Dublin,235000.0,No,Walkinstown,Dublin 12,q2,40%
+30/09/2013,"26 Hughes Road North, Walkinstown, Dublin 12",Dublin,222000.0,No,Walkinstown,Dublin 12,q2,40%
+02/10/2013,"250 St. James Road, Walkinstown",Dublin,150000.0,No,Walkinstown,Dublin 12,q1,10%
+03/10/2013,"124 Cromwellsfort Road, Walkinstown",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+09/10/2013,"2 Walkinstown Crescent, Dublin 12",Dublin,130000.0,No,Walkinstown,Dublin 12,q1,10%
+09/10/2013,"27 Hughes Road East, Walkinstown",Dublin,185000.0,No,Walkinstown,Dublin 12,q1,20%
+14/10/2013,"74 Walkinstown Drive, Walkinstown",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+23/10/2013,"5 Bigger Road, Walkinstown",Dublin,155000.0,No,Walkinstown,Dublin 12,q1,20%
+05/11/2013,"11 St. Patricks Road, Walkinstown, Dublin 12",Dublin,253000.0,No,Walkinstown,Dublin 12,q2,50%
+07/11/2013,"46 Cherryfield Road, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+08/11/2013,"82 Walkinstown Drive, Walkinstown",Dublin,170000.0,No,Walkinstown,Dublin 12,q1,20%
+14/11/2013,"167 St Peters Road, Walkinstown, Dublin 12",Dublin,220000.0,No,Walkinstown,Dublin 12,q2,40%
+15/11/2013,"28 Walkinstown Green, Dublin 12",Dublin,150000.0,No,Walkinstown,Dublin 12,q1,10%
+20/11/2013,"152 Walkinstown Rd, Walkinstown, Dublin 12",Dublin,375000.0,No,Walkinstown,Dublin 12,q4,90%
+22/11/2013,"20 Crotty Avenue, Walkinstown",Dublin,307000.0,No,Walkinstown,Dublin 12,q3,70%
+28/11/2013,"1  Limekiln Avenue, Walkinstown",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+28/11/2013,"157 Cromwellsfort Road, Walkinstown",Dublin,130000.0,No,Walkinstown,Dublin 12,q1,10%
+02/12/2013,"113 St James Rd, Walkinstown, Dublin 12",Dublin,260000.0,No,Walkinstown,Dublin 12,q2,50%
+05/12/2013,"101 Dowland Rd, Walkinstown, Dublin 12",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+10/12/2013,"3 Crotty Ave, Walkinstown, Dublin 12",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+12/12/2013,"11A Ballymount Sq, Lower Ballymount Rd, Walkinstown",Dublin,140000.0,No,Walkinstown,Dublin 12,q1,10%
+13/12/2013,"24 Crotty Avenue, Walkinstown",Dublin,261500.0,No,Walkinstown,Dublin 12,q2,50%
+17/12/2013,"11 Wallace Road, Walkinstown, Dublin 12",Dublin,175000.0,No,Walkinstown,Dublin 12,q1,20%
+17/12/2013,"143 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,205000.0,No,Walkinstown,Dublin 12,q2,30%
+17/12/2013,"4 St Anthonys Crescent, Walkinstown, Dublin 12",Dublin,236000.0,No,Walkinstown,Dublin 12,q2,40%
+18/12/2013,"8 St Peters Terrace, Walkinstown, Dublin 12",Dublin,212000.0,No,Walkinstown,Dublin 12,q2,30%
+20/12/2013,"101 Bunting Rd, Walkinstown, Dublin",Dublin,160000.0,No,Walkinstown,Dublin 12,q1,20%
+20/12/2013,"Springwell, Lower Bally Mount Rd, Walkinstown",Dublin,160000.0,No,Walkinstown,Dublin 12,q1,20%
+02/01/2014,"28 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,95000.0,No,Walkinstown,Dublin 12,q1,10%
+08/01/2014,"11 Beechfield Close, Walkinstown",Dublin,242500.0,No,Walkinstown,Dublin 12,q2,40%
+28/01/2014,"36 Glendoo Close, Greenpark, Walkinstown Dublin 12",Dublin,215000.0,No,Walkinstown,Dublin 12,q2,30%
+31/01/2014,"38 St Peters Crescent, Walkinstown, Dublin 12",Dublin,232000.0,No,Walkinstown,Dublin 12,q2,40%
+07/02/2014,"44 Walkinstown Ave, Dublin 12, Dublin",Dublin,90000.0,No,Walkinstown,Dublin 12,q1,10%
+18/02/2014,"44 Moeran Rd, Walkinstown, Dublin 12",Dublin,195000.0,No,Walkinstown,Dublin 12,q1,30%
+19/02/2014,"61 St Conleths Rd, Walkinstown, Dublin 12",Dublin,205000.0,No,Walkinstown,Dublin 12,q2,30%
+27/02/2014,"6 Ballymount Road, Walkinstown, Dublin 12",Dublin,170000.0,No,Walkinstown,Dublin 12,q1,20%
+10/03/2014,"135 Cromwellsfort, Walkinstown, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+21/03/2014,"19 Dowland Rd, Walkinstown, Dublin 12",Dublin,295000.0,No,Walkinstown,Dublin 12,q3,60%
+02/04/2014,"Glengarrif, 22 Greenhills Road, Walkinstown",Dublin,100000.0,No,Walkinstown,Dublin 12,q1,10%
+04/04/2014,"2 Walkinstown Park, Walkinstown, Dublin 12",Dublin,175000.0,No,Walkinstown,Dublin 12,q1,20%
+07/04/2014,"22 Walkinstown Drive, Walkinstown, Dublin 12",Dublin,235000.0,No,Walkinstown,Dublin 12,q2,40%
+08/04/2014,"27 St Jamess Rd, Walkinstown, Dublin 12",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+11/04/2014,"12 St Patricks Rd, Walkinstown, Dublin 12",Dublin,246000.0,No,Walkinstown,Dublin 12,q2,40%
+14/04/2014,"34 Bigger Rd, Walkinstown, Dublin 12",Dublin,225000.0,No,Walkinstown,Dublin 12,q2,40%
+14/04/2014,"78A Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+17/04/2014,"45 St. Peters Drive, Walkinstown",Dublin,315000.0,No,Walkinstown,Dublin 12,q3,70%
+23/04/2014,"1 Lower Ballymount, Walkinstown, Dublin 12",Dublin,91000.0,No,Walkinstown,Dublin 12,q1,10%
+23/04/2014,"1A Lower Ballymount, Walkinstown, Dublin 12",Dublin,91000.0,No,Walkinstown,Dublin 12,q1,10%
+23/04/2014,"2 Lower Ballymount, Walkinstown, Dublin 12",Dublin,91000.0,No,Walkinstown,Dublin 12,q1,10%
+23/04/2014,"3 Lower Ballymount, Walkinstown, Dublin 12",Dublin,91000.0,No,Walkinstown,Dublin 12,q1,10%
+23/04/2014,"4 Lower Ballymount, Walkinstown, Dublin 12",Dublin,91000.0,No,Walkinstown,Dublin 12,q1,10%
+23/04/2014,"55 Cromwells Fort Rd, Walkinstown, Dublin",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+29/04/2014,"43 Walkinstown Green, Walkinstown",Dublin,227000.0,No,Walkinstown,Dublin 12,q2,40%
+30/04/2014,"50 John Mccormack Ave, Walkinstown Dublin 12, Dublin",Dublin,231000.0,No,Walkinstown,Dublin 12,q2,40%
+30/04/2014,"55 A Cromwellsfort Rd, Walkinstown, Dublin",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+02/05/2014,"43 B Stanford Green, Walkinstown, Dublin 12",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+02/05/2014,"75 Cromwelsfort Rd, Walkinstown, Dublin 12",Dublin,299000.0,No,Walkinstown,Dublin 12,q3,60%
+06/05/2014,"15 St Columbas Rd, Walkinstown, Dublin 12",Dublin,247500.0,No,Walkinstown,Dublin 12,q2,40%
+09/05/2014,"65 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,252500.0,No,Walkinstown,Dublin 12,q2,50%
+12/05/2014,"75 Moeran Rd, Walkinstown, Dublin 12",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+14/05/2014,"43 Walkinstown Ave, Walkinstown, Dublin 12",Dublin,185000.0,No,Walkinstown,Dublin 12,q1,20%
+09/06/2014,"25 Cromwellsfort Road, Walkinstown",Dublin,282000.0,No,Walkinstown,Dublin 12,q3,60%
+10/06/2014,"2 Limekiln Grove, Walkinstown",Dublin,277000.0,No,Walkinstown,Dublin 12,q3,60%
+11/06/2014,"1A Walkinstown Green, Walkinstown, Dublin 12",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+11/06/2014,"43 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+12/06/2014,"14A Ballymount Sq, Walkinstown, Dublin 12",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+13/06/2014,"29 Cromwellsfort Road, Walkinstown, Dublin 12",Dublin,198000.0,No,Walkinstown,Dublin 12,q1,30%
+16/06/2014,"56 Obrien Rd, Walkinstown, Dublin 12",Dublin,308000.0,No,Walkinstown,Dublin 12,q3,70%
+17/06/2014,"31 Bunting Rd, Walkinstown, Dublin 12",Dublin,241000.0,No,Walkinstown,Dublin 12,q2,40%
+18/06/2014,"144 Cromwellsfort Road, Walkinstown, Dublin 12",Dublin,305000.0,No,Walkinstown,Dublin 12,q3,70%
+19/06/2014,"149 Walkinstown Ave, Walkinstown, Dublin 12",Dublin,245000.0,No,Walkinstown,Dublin 12,q2,40%
+19/06/2014,"19 Walkinstown Rd, Walkinstown, Dublin 12",Dublin,275000.0,No,Walkinstown,Dublin 12,q2,50%
+27/06/2014,"115 St James Rd, Walkinstown, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+30/06/2014,"2 Tibradden Drive, Green Park, Walkinstown",Dublin,167000.0,No,Walkinstown,Dublin 12,q1,20%
+07/07/2014,"3 Crotty Ave, Walkinstown, Dublin 12",Dublin,303000.0,No,Walkinstown,Dublin 12,q3,70%
+08/07/2014,"7 Percy French Rd, Walkinstown, Dublin 12",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+10/07/2014,"20 Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,390000.0,No,Walkinstown,Dublin 12,q4,90%
+17/07/2014,"459 Ballymount Rd, Walkinstown, Dublin 12",Dublin,235000.0,No,Walkinstown,Dublin 12,q2,40%
+21/07/2014,"66 Moeran Rd, Walkinstown, Dublin 12",Dublin,274000.0,No,Walkinstown,Dublin 12,q2,50%
+21/07/2014,"99 John Mccormack Ave, Walkinstown, Dublin 12",Dublin,420000.0,No,Walkinstown,Dublin 12,q4,100%
+25/07/2014,"28 Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,382000.0,No,Walkinstown,Dublin 12,q4,90%
+01/08/2014,"55 Bunting Rd, Walkinstown, Dublin 12",Dublin,276000.0,No,Walkinstown,Dublin 12,q3,60%
+08/08/2014,"85 Dowland Rd, Walkinstown, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+15/08/2014,"15 A Ballymount Sq, Walkinstown, Dublin 12",Dublin,220000.0,No,Walkinstown,Dublin 12,q2,40%
+25/08/2014,"90 Walkinstown Ave, Walkinstown, Dublin 12",Dublin,215000.0,No,Walkinstown,Dublin 12,q2,30%
+27/08/2014,"17 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+02/09/2014,"18 Somerville Dr, Walkinstown, Dublin 12",Dublin,225000.0,No,Walkinstown,Dublin 12,q2,40%
+03/09/2014,"46 St Josephs Road, Walkinstown",Dublin,340000.0,No,Walkinstown,Dublin 12,q3,80%
+05/09/2014,"14 Balfe Rd East, Walkinstown Dublin 12, Dublin",Dublin,265000.0,No,Walkinstown,Dublin 12,q2,50%
+12/09/2014,"29 Balfe Ave, Walkinstown, Dublin",Dublin,285000.0,No,Walkinstown,Dublin 12,q3,60%
+16/09/2014,"1 Walkinstown Green, Dublin 12, Dublin",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+23/09/2014,"135 Walkinstown Avenue, Dublin 12",Dublin,220000.0,No,Walkinstown,Dublin 12,q2,40%
+23/09/2014,"82 Bunting Rd, Walkinstown, Dublin 12",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+26/09/2014,"132 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,340000.0,No,Walkinstown,Dublin 12,q3,80%
+03/10/2014,"40 St Brendans Cresent, Walkinstown, Dublin 12",Dublin,315000.0,No,Walkinstown,Dublin 12,q3,70%
+06/10/2014,"26 Glendoo Close, Greenpark, Walkinstown",Dublin,325000.0,No,Walkinstown,Dublin 12,q3,70%
+10/10/2014,"96 Walkinstown Rd, Walkinstown, Dublin 12",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+13/10/2014,"57 Beechfield Rd, Walkinstown, Dublin 12",Dublin,405000.0,No,Walkinstown,Dublin 12,q4,100%
+14/10/2014,"62 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+15/10/2014,"57 Walkinstown Park, Walkinstown, Dublin 12",Dublin,205000.0,No,Walkinstown,Dublin 12,q2,30%
+16/10/2014,"7A Wellington Court, Off Whitehall Road West, Walkinstown",Dublin,160000.0,No,Walkinstown,Dublin 12,q1,20%
+17/10/2014,"55 Moeran Rd, Walkinstown, Dublin 12",Dublin,275000.0,No,Walkinstown,Dublin 12,q3,60%
+22/10/2014,"7A Ballymount Sq, Ballymount Rd, Walkinstown Dublin 12",Dublin,145000.0,No,Walkinstown,Dublin 12,q1,10%
+29/10/2014,"58 Obrien Rd, Walkinstown, Dublin 12",Dublin,370000.0,No,Walkinstown,Dublin 12,q4,90%
+31/10/2014,"137 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,365000.0,No,Walkinstown,Dublin 12,q4,90%
+06/11/2014,"3 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,370000.0,No,Walkinstown,Dublin 12,q4,90%
+07/11/2014,"30 Balfe Rd East, Walkinstown, Dublin 12",Dublin,302000.0,No,Walkinstown,Dublin 12,q3,70%
+18/11/2014,"104 Walkinstown Rd, Dublin 12, Dublin",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+20/11/2014,"Apt 1A, Ballymount Sq, Walkinstown Dublin 12",Dublin,165000.0,No,Walkinstown,Dublin 12,q1,20%
+21/11/2014,"78 Walkinstown Ave, Dublin 12, Dublin",Dublin,215000.0,No,Walkinstown,Dublin 12,q2,30%
+27/11/2014,"75 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,125000.0,No,Walkinstown,Dublin 12,q1,10%
+28/11/2014,"47 St Peters Rd, Walkinstown, Dublin 12",Dublin,315000.0,No,Walkinstown,Dublin 12,q3,70%
+03/12/2014,"43 Walkinstown Drive, Walkinstown",Dublin,296000.0,No,Walkinstown,Dublin 12,q3,60%
+11/12/2014,"25 Kilmashogue Drive, Greenpark, Walkinstown",Dublin,345000.0,No,Walkinstown,Dublin 12,q4,80%
+15/12/2014,"91 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,347500.0,No,Walkinstown,Dublin 12,q4,80%
+18/12/2014,"5 Field Ave, Walkinstown, Dublin 12",Dublin,269950.0,No,Walkinstown,Dublin 12,q2,50%
+19/12/2014,"13 Dowland Rd, Walkinstown, Dublin 12",Dublin,285000.0,No,Walkinstown,Dublin 12,q3,60%
+19/12/2014,"1A St Peters Terrace, St Peters Rd, Walkinstown Dublin 12",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+19/12/2014,"30 Somerville Ave, Walkinstown, Dublin 12",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+19/01/2015,"91 St Brendans Crescent, Walkinstown, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+20/01/2015,"23 Glendoo Close, Greenpark, Walkinstown Dublin 12",Dublin,392000.0,No,Walkinstown,Dublin 12,q4,90%
+20/01/2015,"31 St Anthonys Crescent, Walkinstown, Dublin",Dublin,313000.0,No,Walkinstown,Dublin 12,q3,70%
+21/01/2015,"10 St Peters Drive, Walkinstown, Dublin 12",Dublin,327000.0,No,Walkinstown,Dublin 12,q3,80%
+23/01/2015,"118 Dowland Rd, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+30/01/2015,"5 Balfe Rd East, Walkinstown, Dublin 12",Dublin,260000.0,No,Walkinstown,Dublin 12,q2,50%
+18/02/2015,"11A Ballymount Sq, Lower Ballymount Rd, Walkinstown",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+24/02/2015,"6 Percy French Rd, Walkinstown, Dublin",Dublin,295000.0,No,Walkinstown,Dublin 12,q3,60%
+13/03/2015,"13 Bigger Rd, Walkinstown, Dublin 12",Dublin,275000.0,No,Walkinstown,Dublin 12,q3,60%
+31/03/2015,"36 Stanford Green, Walkinstown, Dublin 12",Dublin,340000.0,No,Walkinstown,Dublin 12,q3,80%
+31/03/2015,"60 St Josephs Rd, Walkinstown, Dublin 12",Dublin,237500.0,No,Walkinstown,Dublin 12,q2,40%
+02/04/2015,"16 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,410000.0,No,Walkinstown,Dublin 12,q4,100%
+08/04/2015,"131 Bunting Rd, Walkinstown, Dublin",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+08/04/2015,"23 Beechfield Close, Walkinstown, Dublin 12",Dublin,410000.0,No,Walkinstown,Dublin 12,q4,100%
+08/04/2015,"30 Crotty Ave, Walkinstown, Dublin 12",Dublin,263000.0,No,Walkinstown,Dublin 12,q2,50%
+17/04/2015,"15 St Joseph'S Road, Walkinstown, Dublin 12",Dublin,315000.0,No,Walkinstown,Dublin 12,q3,70%
+24/04/2015,"44 Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,340000.0,No,Walkinstown,Dublin 12,q4,80%
+27/04/2015,"123 Walkinstown Ave, Walkinstown, Dublin 12",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+30/04/2015,"123 St Peters Rd, Walkinstown, Dublin 12",Dublin,265000.0,No,Walkinstown,Dublin 12,q2,50%
+01/05/2015,"12 St Mels Ave, Greenhills, Walkinstown Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+12/05/2015,"52 Walkinstown Road, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+15/05/2015,"30 Bigger Rd, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+26/05/2015,"29 Mountdown Park, Walkinstown, Dublin 12",Dublin,145000.0,No,Walkinstown,Dublin 12,q1,10%
+03/06/2015,"28 Esposito Rd, Walkinstown, Dublin 12",Dublin,287000.0,No,Walkinstown,Dublin 12,q3,60%
+05/06/2015,"21 Beechfield Close, Walkinstown, Dublin 12",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+11/06/2015,"24A Balfe Ave, Walkinstown, Dublin 12",Dublin,299250.0,No,Walkinstown,Dublin 12,q3,60%
+12/06/2015,"1 Field Ave, Walkinstown, Dublin 12",Dublin,267000.0,No,Walkinstown,Dublin 12,q2,50%
+18/06/2015,"140 St James Road, Walkinstown",Dublin,265500.0,No,Walkinstown,Dublin 12,q2,50%
+22/06/2015,"22 Hardebeck Ave, Walkinstown, Dublin 12",Dublin,234950.0,No,Walkinstown,Dublin 12,q2,40%
+01/07/2015,"43 St Patricks Rd, Walkinstown, Dublin 12",Dublin,296000.0,No,Walkinstown,Dublin 12,q3,60%
+03/07/2015,"3 Temple Manor Way, Walkinstown, Dublin 12",Dublin,322000.0,No,Walkinstown,Dublin 12,q3,70%
+03/07/2015,"70 Obrien Rd, Walkinstown, Dublin 12",Dublin,285000.0,No,Walkinstown,Dublin 12,q3,60%
+14/07/2015,"55 A Cromwellsfort Rd, Walkinstown, Dublin",Dublin,352000.0,No,Walkinstown,Dublin 12,q4,90%
+24/07/2015,"42 Bunting Rd, Walkinstown, Dublin 12",Dublin,275000.0,No,Walkinstown,Dublin 12,q3,60%
+30/07/2015,"29 Walkinstown Drive, Walkinstown",Dublin,365000.0,No,Walkinstown,Dublin 12,q4,90%
+31/07/2015,"3 Limekiln Close, Walkinstown, Dublin 12",Dublin,480000.0,No,Walkinstown,Dublin 12,q4,100%
+24/08/2015,"204 St Peters Rd, Walkinstown, Dublin 12",Dublin,180000.0,No,Walkinstown,Dublin 12,q1,20%
+27/08/2015,"36 Crotty Ave, Walkinstown, Dublin 12",Dublin,269000.0,No,Walkinstown,Dublin 12,q2,50%
+28/08/2015,"105 Walkinstown Park, Walkinstown, Dublin 12",Dublin,217500.0,No,Walkinstown,Dublin 12,q2,30%
+28/08/2015,"22 Limekiln Rd, Walkinstown, Dublin 12",Dublin,491000.0,No,Walkinstown,Dublin 12,q4,100%
+28/08/2015,"44 Dowland Rd, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+31/08/2015,"62 Cromwells Fort Rd, Walkinstown, Dublin 12",Dublin,370000.0,No,Walkinstown,Dublin 12,q4,90%
+02/09/2015,"21 Walkinstown Crescent, Walkinstown, Dublin 12",Dublin,260000.0,No,Walkinstown,Dublin 12,q2,50%
+04/09/2015,"1 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+04/09/2015,"31 St Peters Rd, Walkinstown, Dublin 12",Dublin,305000.0,No,Walkinstown,Dublin 12,q3,70%
+04/09/2015,"38 Crotty Ave, Walkinstown, Dublin 12",Dublin,268000.0,No,Walkinstown,Dublin 12,q2,50%
+28/09/2015,"31 Cromswellfort Road, Walkinstown",Dublin,318000.0,No,Walkinstown,Dublin 12,q3,70%
+29/09/2015,"6 St Peters Rd, Walkinstown, Dublin 12",Dublin,272000.0,No,Walkinstown,Dublin 12,q2,50%
+02/10/2015,"8 St Peters Rd, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+06/10/2015,"91 Beechfield Rd, Walkinstown, Dublin 12",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+19/10/2015,"61 Limekiln Rd, Walkinstown, Dublin 12",Dublin,282000.0,No,Walkinstown,Dublin 12,q3,60%
+23/10/2015,"51 Moeran Rd, Walkinstown, Dublin 12",Dublin,285000.0,No,Walkinstown,Dublin 12,q3,60%
+28/10/2015,"44 St Marys Park, Walkinstown, Dublin 12",Dublin,292000.0,No,Walkinstown,Dublin 12,q3,60%
+30/10/2015,"18 Thomas Moore Road, Walkinstown",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+02/11/2015,"4 Limekiln Court, Walkinstown, Dublin 12",Dublin,160000.0,No,Walkinstown,Dublin 12,q1,20%
+02/11/2015,"5 Limekiln Court, Limekiln Green, Walkinstown",Dublin,175000.0,No,Walkinstown,Dublin 12,q1,20%
+02/11/2015,"6 Limekiln Court, Walkinstown, Dublin 12",Dublin,160000.0,No,Walkinstown,Dublin 12,q1,20%
+02/11/2015,"8 Limekiln Court, Walkinstown, Dublin 12",Dublin,175000.0,No,Walkinstown,Dublin 12,q1,20%
+06/11/2015,"88 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,170000.0,No,Walkinstown,Dublin 12,q1,20%
+20/11/2015,"11A Corrig Close, Green Park, Walkinstown",Dublin,380000.0,Yes,Walkinstown,Dublin 12,q4,90%
+20/11/2015,"14 St Marys Crescent, Walkinstown, Dublin 12",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+20/11/2015,"7 Percy French Rd, Walkinstown, Dublin 12",Dublin,326000.0,No,Walkinstown,Dublin 12,q3,80%
+23/11/2015,"23 Mountdown Park, Manor Estate, Walkinstown Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+26/11/2015,"2 Hughes Rd East, Walkinstown, Dublin 12",Dublin,240000.0,No,Walkinstown,Dublin 12,q2,40%
+04/12/2015,"26 St. Finbars Close, Walkinstown, Dublin 12",Dublin,302000.0,No,Walkinstown,Dublin 12,q3,70%
+04/12/2015,"7 Tibradden Close, Greenpark, Walkinstown Dublin 12",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,70%
+04/12/2015,"87 John Mccormack Ave, Walkinstown, Dublin 12",Dublin,278000.0,No,Walkinstown,Dublin 12,q3,60%
+07/12/2015,"11 Bigger Rd, Walkinstown, Dublin 12",Dublin,205000.0,No,Walkinstown,Dublin 12,q2,30%
+08/12/2015,"3 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,305000.0,No,Walkinstown,Dublin 12,q3,70%
+15/12/2015,"165 Limekiln Rd, Walkinstown, Dublin 12",Dublin,255000.0,No,Walkinstown,Dublin 12,q2,50%
+18/12/2015,"81 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,261000.0,No,Walkinstown,Dublin 12,q2,50%
+21/12/2015,"119 St Brendans Crescent, Walkinstown, Dublin 12",Dublin,328000.0,No,Walkinstown,Dublin 12,q3,80%
+21/12/2015,"90 Beechfield Road, Walkinstown, Dublin 12",Dublin,345000.0,No,Walkinstown,Dublin 12,q4,80%
+05/01/2016,"38 Stanford Green, Walkinstown, Dublin 12",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+08/01/2016,"19 Crotty Ave, Walkinstown, Dublin 12",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+14/01/2016,"18 Harty Ave, Walkinstown, Dublin 12",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+15/01/2016,"213 Bunting Rd, Walkinstown, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+15/01/2016,"45 Balfe Ave, Walkinstown, Dublin 12",Dublin,240000.0,No,Walkinstown,Dublin 12,q2,40%
+25/01/2016,"4 Limekiln Court, Walkinstown, Dublin 12",Dublin,237500.0,No,Walkinstown,Dublin 12,q2,40%
+25/01/2016,"6 Limekiln Court, Walkinstown, Dublin 12",Dublin,237500.0,No,Walkinstown,Dublin 12,q2,40%
+26/01/2016,"4 Limekiln Court, Walkinstown, Dublin 12",Dublin,181456.0,No,Walkinstown,Dublin 12,q1,20%
+26/01/2016,"6 Limekiln Court, Walkinstown, Dublin 12",Dublin,181456.0,No,Walkinstown,Dublin 12,q1,20%
+29/01/2016,"105 Bunting Rd, Walkinstown, Dublin 12",Dublin,242000.0,No,Walkinstown,Dublin 12,q2,40%
+29/01/2016,"37 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,355500.0,No,Walkinstown,Dublin 12,q4,90%
+04/02/2016,"85 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,360000.0,No,Walkinstown,Dublin 12,q4,90%
+05/02/2016,"68 St Patricks Rd, Greenhills, Walkinstown Dublin 12",Dublin,285000.0,No,Walkinstown,Dublin 12,q3,60%
+10/02/2016,"5 Limekiln Court, Limekiln Green, Walkinstown",Dublin,220000.0,No,Walkinstown,Dublin 12,q2,40%
+10/02/2016,"8 Limekiln Court, Walkinstown, Dublin 12",Dublin,220000.0,No,Walkinstown,Dublin 12,q2,40%
+12/02/2016,"5 Limekiln Court, Limekiln Green, Walkinstown",Dublin,237500.0,No,Walkinstown,Dublin 12,q2,40%
+12/02/2016,"8 Limekiln Court, Walkinstown, Dublin 12",Dublin,237500.0,No,Walkinstown,Dublin 12,q2,40%
+18/02/2016,"31 Dowland Rd, Walkinstown, Dublin 12",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+19/02/2016,"76 Walkinstown Avenue, Dublin 12",Dublin,205000.0,No,Walkinstown,Dublin 12,q2,30%
+23/02/2016,"3 Crotty Ave, Walkinstown, Dublin 12",Dublin,315000.0,No,Walkinstown,Dublin 12,q3,70%
+24/02/2016,"47 St Marys Park, Walkinstown, Dublin 12",Dublin,265000.0,No,Walkinstown,Dublin 12,q2,50%
+25/02/2016,"26 Walkinstown Green, Walkinstown, Dublin 12",Dublin,230000.0,No,Walkinstown,Dublin 12,q2,40%
+29/02/2016,"233 Bunting Rd, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+03/03/2016,"26 A Glendoo Close, Greenpark, Walkinstown",Dublin,367000.0,No,Walkinstown,Dublin 12,q4,90%
+09/03/2016,"13 Beechfield Rd, Walkinstown, Dublin 12",Dublin,346000.0,No,Walkinstown,Dublin 12,q4,80%
+18/03/2016,"12 Dowland Road, Walkinstown, Dublin 12",Dublin,262000.0,No,Walkinstown,Dublin 12,q2,50%
+30/03/2016,"96 St Josephs Rd, Walkinstown, Dublin",Dublin,285000.0,No,Walkinstown,Dublin 12,q3,60%
+05/04/2016,"27 Walkinstown Park, Walkinstown, Dublin 12",Dublin,275000.0,No,Walkinstown,Dublin 12,q3,60%
+07/04/2016,"101 Walkinstown Rd, Walkinstown, Dublin 12",Dublin,275000.0,No,Walkinstown,Dublin 12,q3,60%
+20/04/2016,"28 Beechfield Rd, Walkinstown, Dublin 12",Dublin,367500.0,No,Walkinstown,Dublin 12,q4,90%
+21/04/2016,"107 St Peters Rd, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+22/04/2016,"23 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,340000.0,No,Walkinstown,Dublin 12,q4,80%
+25/04/2016,"22 Balfe Rd East, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+28/04/2016,"127 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+13/05/2016,"48 St Marys Park, Walkinstown, Dublin 12",Dublin,239000.0,No,Walkinstown,Dublin 12,q2,40%
+20/05/2016,"3 St Malachy'S Drive, Greenhills Estate, Walkinstown",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,70%
+20/05/2016,"52 Balfe Ave, Walkinstown, Dublin 12",Dublin,242500.0,No,Walkinstown,Dublin 12,q2,40%
+23/05/2016,"11 Harty Court, Walkinstown, Dublin 12",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+31/05/2016,"115 Walkinstown Park, Walkinstown, Dublin 12",Dublin,225000.0,No,Walkinstown,Dublin 12,q2,40%
+01/06/2016,"40 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,339000.0,No,Walkinstown,Dublin 12,q3,80%
+02/06/2016,"40 Walkinstown Crescent, Walkinstown, Dublin",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+13/06/2016,"18 Walkinstown Ave, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+22/06/2016,"12 Esposito Rd, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+24/06/2016,"19 St Marys Park, Walkinstown, Dublin 12",Dublin,295000.0,No,Walkinstown,Dublin 12,q3,60%
+29/06/2016,"84 Walkinstown Ave, Dublin 12, Dublin",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+01/07/2016,"41 Walkinstown Dr, Walkinstown, Dublin 12",Dublin,344000.0,No,Walkinstown,Dublin 12,q4,80%
+12/07/2016,"58 St Marys Park, Walkinstown, Dublin 12",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+15/07/2016,"57 Cromwellsfort Rd, Walkinstown, Dublin",Dublin,335000.0,No,Walkinstown,Dublin 12,q3,80%
+02/08/2016,"126 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,450000.0,No,Walkinstown,Dublin 12,q4,100%
+03/08/2016,"3 Walkinstown Avenue, Walkinstown, Dublin 12",Dublin,219000.0,No,Walkinstown,Dublin 12,q2,40%
+08/08/2016,"37 Hughes Road North, Walkinstown, Dublin 12",Dublin,261500.0,No,Walkinstown,Dublin 12,q2,50%
+12/08/2016,"38 Balfe Ave, Walkinstown, Dublin 12",Dublin,327000.0,No,Walkinstown,Dublin 12,q3,80%
+23/08/2016,"40 Walkinstown Dr, Dublin 12, Dublin",Dublin,125000.0,No,Walkinstown,Dublin 12,q1,10%
+24/08/2016,"49 John Mccormack Ave, Walkinstown, Dublin 12",Dublin,275000.0,No,Walkinstown,Dublin 12,q3,60%
+01/09/2016,"3 Stanford Green, Walkinstown, Dublin 12",Dublin,286000.0,No,Walkinstown,Dublin 12,q3,60%
+01/09/2016,"51 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,390500.0,No,Walkinstown,Dublin 12,q4,90%
+02/09/2016,"214 Bunting Rd, Walkinstown, Dublin 12",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+07/09/2016,"139 Bunting Road, Walkinstown, Dublin 12",Dublin,125000.0,No,Walkinstown,Dublin 12,q1,10%
+14/09/2016,"23 Hughes Road North, Walkinstown, Dublin 12",Dublin,236000.0,No,Walkinstown,Dublin 12,q2,40%
+16/09/2016,"50 St Peter'S Road, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+16/09/2016,"76 Bunting Road, Walkinstown, Dublin 12",Dublin,297000.0,No,Walkinstown,Dublin 12,q3,60%
+26/09/2016,"152 Cromwells Fort Rd, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+27/09/2016,"97 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,372000.0,No,Walkinstown,Dublin 12,q4,90%
+28/09/2016,"75 Dowland Rd, Walkinstown, Dublin 12",Dublin,251000.0,No,Walkinstown,Dublin 12,q2,50%
+29/09/2016,"89 Dowland Rd, Walkinstown, Dublin 12",Dublin,332500.0,No,Walkinstown,Dublin 12,q3,80%
+03/10/2016,"34 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,420000.0,No,Walkinstown,Dublin 12,q4,100%
+05/10/2016,"59 Limekiln Rd, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+07/10/2016,"68 Obrien Rd, Walkinstown, Dublin 12",Dublin,336500.0,No,Walkinstown,Dublin 12,q3,80%
+07/10/2016,"69 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,322500.0,No,Walkinstown,Dublin 12,q3,70%
+11/10/2016,"19 Beechfield Close, Walkinstown, Dublin 12",Dublin,332000.0,No,Walkinstown,Dublin 12,q3,80%
+14/10/2016,"4 Walkinstown Green, Walkinstown, Dublin 12",Dublin,235000.0,No,Walkinstown,Dublin 12,q2,40%
+14/10/2016,"89 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,327500.0,No,Walkinstown,Dublin 12,q3,80%
+24/10/2016,"9 Esposito Rd, Walkinstown, Dublin 12",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,70%
+25/10/2016,"69 St Marys Park, Walkinstown, Dublin 12",Dublin,272000.0,No,Walkinstown,Dublin 12,q2,50%
+28/10/2016,"16 Hughes Rd South, Walkinstown, Dublin 12",Dublin,275000.0,No,Walkinstown,Dublin 12,q3,60%
+28/10/2016,"38 Beechfield Rd, Walkinstown, Dublin 12",Dublin,398550.0,No,Walkinstown,Dublin 12,q4,90%
+01/11/2016,"39 John Mccormack Ave, Walkinstown, Dublin 12",Dublin,316000.0,No,Walkinstown,Dublin 12,q3,70%
+01/11/2016,"61 Beechfield Rd, Walkinstown, Dublin 12",Dublin,386000.0,No,Walkinstown,Dublin 12,q4,90%
+03/11/2016,"49 Crotty Ave, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+04/11/2016,"154 Cherryfield Road, Walkinstown, Dublin 12",Dublin,387000.0,No,Walkinstown,Dublin 12,q4,90%
+04/11/2016,"17 Beechfield Rd, Walkinstown, Dublin 12",Dublin,345000.0,No,Walkinstown,Dublin 12,q4,80%
+15/11/2016,"45 Walkinstown Parade, Walkinstown, Dublin 12",Dublin,232000.0,No,Walkinstown,Dublin 12,q2,40%
+16/11/2016,"217 Bunting Rd, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+18/11/2016,"2 John Mccormack Ave, Walkinstown, Dublin 12",Dublin,326500.0,No,Walkinstown,Dublin 12,q3,80%
+24/11/2016,"21 Hughes Rd South, Walkinstown, Dublin 12",Dublin,226692.0,No,Walkinstown,Dublin 12,q2,40%
+30/11/2016,"4 Wilkins View, Greenhills, Walkinstown",Dublin,475770.93,Yes,Walkinstown,Dublin 12,q4,100%
+02/12/2016,"3A Cherryfield Ave, Walkinstown, Dublin 12",Dublin,415000.0,No,Walkinstown,Dublin 12,q4,100%
+02/12/2016,"6 Wilkins View, Greenhills, Walkinstown",Dublin,395538.0,Yes,Walkinstown,Dublin 12,q4,90%
+06/12/2016,"11 Bunting Rd, Walkinstown, Dublin 12",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+06/12/2016,"9 Beechfield Close, Walkinstown, Dublin 12",Dublin,307500.0,No,Walkinstown,Dublin 12,q3,70%
+07/12/2016,"94 Bunting Rd, Walkinstown, Dublin 12",Dublin,431000.0,No,Walkinstown,Dublin 12,q4,100%
+09/12/2016,"18 Moeran Rd, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+13/12/2016,"35A Balfe Ave, Walkinstown, Dublin 12",Dublin,325500.0,No,Walkinstown,Dublin 12,q3,70%
+14/12/2016,"38 Walkinstown Rd, Dublin 12, Dublin",Dublin,335000.0,No,Walkinstown,Dublin 12,q3,80%
+14/12/2016,"83 Dowland Road, Walkinstown, Dublin 12",Dublin,295000.0,No,Walkinstown,Dublin 12,q3,60%
+16/12/2016,"12 Hughes Rd South, Walkinstown, Dublin 12",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+17/01/2017,"26 St Conleths Rd, Walkinstown Dublin 12, Dublin",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,70%
+18/01/2017,"39 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,405000.0,No,Walkinstown,Dublin 12,q4,100%
+20/01/2017,"21 Killakee Dr, Walkinstown, Dublin 12",Dublin,330000.0,No,Walkinstown,Dublin 12,q3,80%
+23/01/2017,"101 Walkinstown Rd, Walkinstown, Dublin 12",Dublin,371000.0,No,Walkinstown,Dublin 12,q4,90%
+23/01/2017,"45 Walkinstown Ave, Dublin 12, Dublin",Dublin,275000.0,No,Walkinstown,Dublin 12,q3,60%
+27/01/2017,"22 Hughes Rd South, Walkinstown, Dublin 12",Dublin,276000.0,No,Walkinstown,Dublin 12,q3,60%
+03/02/2017,"28 Wilkin'S View, Walkinstown, Dublin 12",Dublin,494215.0,Yes,Walkinstown,Dublin 12,q4,100%
+21/02/2017,"132 St James Rd, Walkinstown, Dublin 12",Dublin,296500.0,No,Walkinstown,Dublin 12,q3,60%
+23/02/2017,"142 St Peters Rd, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+03/03/2017,"49A John Mccormack Avenue, Walkinstown, Dublin 12",Dublin,240000.0,Yes,Walkinstown,Dublin 12,q2,40%
+10/03/2017,"28 Moeran Rd, Walkinstown, Dublin 12",Dublin,200000.0,No,Walkinstown,Dublin 12,q1,30%
+10/03/2017,"67 Moeran Rd, Walkinstown, Dublin 12",Dublin,340000.0,No,Walkinstown,Dublin 12,q4,80%
+14/03/2017,"19 Esposito Rd, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+17/03/2017,"143 Cromwellsfort Road, Walkinstown, Dublin 12",Dublin,405000.0,No,Walkinstown,Dublin 12,q4,100%
+22/03/2017,"114 Walkinstown Ave, Walkinstown, Dublin 12",Dublin,236000.0,No,Walkinstown,Dublin 12,q2,40%
+23/03/2017,"110 Walkinstown Ave, Walkinstown, Dublin 12",Dublin,248000.0,No,Walkinstown,Dublin 12,q2,50%
+24/03/2017,"24 St Marys Park, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+31/03/2017,"1 O'Brien Road, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+12/04/2017,"32 Wilkins View, Templemanor Drive, Walkinstown",Dublin,396480.0,Yes,Walkinstown,Dublin 12,q4,90%
+12/04/2017,"4 Walkinstown Mews, Walkinstown Close, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+26/04/2017,"2A Walkinstown Green, Walkinstown, Dublin 12",Dublin,240000.0,No,Walkinstown,Dublin 12,q2,40%
+28/04/2017,"34 Wilkins View, Greenhill, Walkinstown",Dublin,387664.0,Yes,Walkinstown,Dublin 12,q4,90%
+28/04/2017,"93 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+10/05/2017,"125 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,327500.0,No,Walkinstown,Dublin 12,q3,80%
+17/05/2017,"123 Walkinstown Park, Walkinstown, Dublin 12",Dublin,186666.0,No,Walkinstown,Dublin 12,q1,20%
+18/05/2017,"89 Naas Rd, Walkinstown, Dublin 12",Dublin,296000.0,No,Walkinstown,Dublin 12,q3,60%
+25/05/2017,"36 Moeran Rd, Walkinstown, Dublin 12",Dublin,150000.0,No,Walkinstown,Dublin 12,q1,10%
+30/05/2017,"53 Thomas Moore Road, Walkinstown, Dublin 12",Dublin,287000.0,No,Walkinstown,Dublin 12,q3,60%
+01/06/2017,"65 Walkinstown Dr, Walkinstown, Dublin 12",Dublin,299950.0,No,Walkinstown,Dublin 12,q3,60%
+01/06/2017,"91 Walkinstown Rd, Dublin 12, Dublin",Dublin,390000.0,No,Walkinstown,Dublin 12,q4,90%
+02/06/2017,"8 Beechfield Close, Walkinstown, Dublin 12",Dublin,345000.0,No,Walkinstown,Dublin 12,q4,80%
+02/06/2017,"St Josephs Road, Walkinstown, Dublin 12",Dublin,310500.0,No,Walkinstown,Dublin 12,q3,70%
+14/06/2017,"10 Esposito Rd, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+19/06/2017,"54 Wilkins View, Temple Manor Drive, Walkinstown",Dublin,409691.63,Yes,Walkinstown,Dublin 12,q4,100%
+21/06/2017,"7 Balfe Rd, Walkinstown, Dublin 12",Dublin,295000.0,No,Walkinstown,Dublin 12,q3,60%
+29/06/2017,"25 St Marys Dr, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+30/06/2017,"10 St Conleths Rd, Greenhills, Walkinstown Dublin 12",Dublin,250000.0,No,Walkinstown,Dublin 12,q2,50%
+10/07/2017,"78 Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+11/07/2017,"68 Beechfield Rd, Walkinstown, Dublin 12",Dublin,425000.0,No,Walkinstown,Dublin 12,q4,100%
+14/07/2017,"16 St Peters Terrace, St Peters Rd, Walkinstown",Dublin,205000.0,No,Walkinstown,Dublin 12,q2,30%
+20/07/2017,"125 Walkinstown Ave, Walkinstown, Dublin 12",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+27/07/2017,"124 Limekiln Green, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+28/07/2017,"55 Crotty Ave, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+02/08/2017,"98 Walkinstown Ave, Dublin 12, Dublin",Dublin,265000.0,No,Walkinstown,Dublin 12,q2,50%
+03/08/2017,"70 Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,480000.0,No,Walkinstown,Dublin 12,q4,100%
+04/08/2017,"38 Dowland Rd, Walkinstown, Dublin 12",Dublin,331000.0,No,Walkinstown,Dublin 12,q3,80%
+10/08/2017,"St Judes, 7 Hardeback Ave, Walkinstown Dublin 12",Dublin,370000.0,No,Walkinstown,Dublin 12,q4,90%
+14/08/2017,"16 Odwyer Rd, Walkinstown, Dublin 12",Dublin,325000.0,No,Walkinstown,Dublin 12,q3,70%
+21/08/2017,"9 Wallace Rd, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+23/08/2017,"74 St Anthonys Cresc, Walkinstown, Dublin 12",Dublin,341000.0,No,Walkinstown,Dublin 12,q4,80%
+25/08/2017,"136 St Peters Rd, Walkinstown, Dublin 12",Dublin,315000.0,No,Walkinstown,Dublin 12,q3,70%
+28/08/2017,"22 Bigger Rd, Walkinstown, Dublin 12",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,70%
+29/08/2017,"234 St Peters Rd, Walkinstown, Dublin 12",Dublin,345000.0,No,Walkinstown,Dublin 12,q4,80%
+01/09/2017,"113 Walkinstown Park, Walkinstown, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+06/09/2017,"58 Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,505000.0,No,Walkinstown,Dublin 12,q4,100%
+08/09/2017,"30 Bunting Rd, Walkinstownn, Dublin 12",Dublin,365000.0,No,Walkinstown,Dublin 12,q4,90%
+11/09/2017,"72 Kilnamagh Rd, Walkinstown, Dublin 12",Dublin,327000.0,No,Walkinstown,Dublin 12,q3,80%
+12/09/2017,"64 St Columbas Rd, Greenhill Estate, Walkinstown Dublin 12",Dublin,340000.0,No,Walkinstown,Dublin 12,q4,80%
+15/09/2017,"143 Walkinstown Rd, Dublin 12, Dublin",Dublin,365000.0,No,Walkinstown,Dublin 12,q4,90%
+15/09/2017,"46 St Peters Rd, Walkinstown, Dublin 12",Dublin,436000.0,No,Walkinstown,Dublin 12,q4,100%
+18/09/2017,"29  Wilkins View, Greenhill, Walkinstown",Dublin,409691.63,Yes,Walkinstown,Dublin 12,q4,100%
+20/09/2017,"61 St Conleths Rd, Walkinstown, Dublin 12",Dublin,365000.0,No,Walkinstown,Dublin 12,q4,90%
+20/09/2017,"98 Walkinstown Dr, Walkinstown, Dublin 12",Dublin,246000.0,No,Walkinstown,Dublin 12,q2,40%
+21/09/2017,"10 Hardybeck Ave, Walkinstown, Dublin 12",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,70%
+21/09/2017,"46 Wilkins Park, Limkiln Avenue, Walkinstown",Dublin,497797.36,Yes,Walkinstown,Dublin 12,q4,100%
+25/09/2017,"223 Bunting Rd, Walkinstown, Dublin 12",Dublin,360000.0,No,Walkinstown,Dublin 12,q4,90%
+29/09/2017,"23 Wilkins View, Walkinstown",Dublin,409691.62,Yes,Walkinstown,Dublin 12,q4,100%
+03/10/2017,"1 Ballymount Road Lower, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+03/10/2017,"5A Beechfield Court, Beechfield Close, Walkinstown Dublin 12",Dublin,215000.0,No,Walkinstown,Dublin 12,q2,30%
+06/10/2017,"17 Dowland Rd, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+06/10/2017,"17 Wilkins View, Greenhill, Walkinstown",Dublin,484581.0,Yes,Walkinstown,Dublin 12,q4,100%
+06/10/2017,"22 Stanford Green, Walkinstown, Dublin 12",Dublin,340650.0,No,Walkinstown,Dublin 12,q4,80%
+10/10/2017,"5 Wilkins View, Templemanor, Walkinstown",Dublin,498621.15,Yes,Walkinstown,Dublin 12,q4,100%
+10/10/2017,"9 Balfe Rd East, Walkinstown, Dublin 12",Dublin,364000.0,No,Walkinstown,Dublin 12,q4,90%
+11/10/2017,"19 Wilkins View, Greenhills, Walkinstown",Dublin,484582.0,Yes,Walkinstown,Dublin 12,q4,100%
+13/10/2017,"140 Dowland Rd, Walkinstown, Dublin 12",Dublin,325000.0,No,Walkinstown,Dublin 12,q3,70%
+19/10/2017,"9 Harty Court, Harty Avenue, Walkinstown",Dublin,255000.0,No,Walkinstown,Dublin 12,q2,50%
+20/10/2017,"138 Dowland Rd, Walkinstown, Dublin 12",Dublin,351000.0,No,Walkinstown,Dublin 12,q4,80%
+20/10/2017,"29 Hughes Rd East, Walkinstown, Dublin 12",Dublin,285000.0,No,Walkinstown,Dublin 12,q3,60%
+01/11/2017,"108 Cromwells Fort Rd, Walkinstown, Dublin 12",Dublin,370000.0,No,Walkinstown,Dublin 12,q4,90%
+02/11/2017,"1 Hughes Rd South, Walkinstown, Dublin 12",Dublin,375000.0,No,Walkinstown,Dublin 12,q4,90%
+03/11/2017,"12 St James Rd, Walkinstown, Dublin 12",Dublin,415000.0,No,Walkinstown,Dublin 12,q4,100%
+03/11/2017,"25 Lisle Rd, Walkinstown, Dublin 12",Dublin,325000.0,No,Walkinstown,Dublin 12,q3,70%
+03/11/2017,"82 St Conleths Rd, Walkinstown, Dublin 12",Dublin,333000.0,No,Walkinstown,Dublin 12,q3,80%
+06/11/2017,"29 Balfe Road, Walkinstown, Dublin 12",Dublin,263000.0,No,Walkinstown,Dublin 12,q2,50%
+07/11/2017,"3 Wilkins View, Greenhills, Walkinstown",Dublin,405285.7,Yes,Walkinstown,Dublin 12,q4,100%
+14/11/2017,"25 Moeran Rd, Walkinstown, Dublin 12",Dublin,308000.0,No,Walkinstown,Dublin 12,q3,70%
+17/11/2017,"72 Walkinstown Crescent, Walkinstown, Dublin 12",Dublin,305000.0,No,Walkinstown,Dublin 12,q3,70%
+20/11/2017,"19 Walkinstown Crescent, Dublin",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,70%
+22/11/2017,"38 Moeran Rd, Walkinstown, Dublin 12",Dublin,351000.0,No,Walkinstown,Dublin 12,q4,90%
+23/11/2017,"1 Wilkins View, Greenhills, Walkinstown",Dublin,488986.0,Yes,Walkinstown,Dublin 12,q4,100%
+27/11/2017,"42 Walkinstown Rd, Walkinstown, Dublin 12",Dublin,480000.0,No,Walkinstown,Dublin 12,q4,100%
+29/11/2017,"40 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,405000.0,No,Walkinstown,Dublin 12,q4,100%
+11/12/2017,"52 Walkinstown Ave, Walkinstown, Dublin 12",Dublin,335000.0,No,Walkinstown,Dublin 12,q3,80%
+12/12/2017,"46 St Josephs Rd, Walkinstown, Dublin 12",Dublin,285000.0,No,Walkinstown,Dublin 12,q3,60%
+18/12/2017,"86 St Peter'S Road, Walkinstown, Dublin 12",Dublin,337000.0,No,Walkinstown,Dublin 12,q3,80%
+19/12/2017,"2 Hughes Rd North, Walkinstown, Dublin 12",Dublin,380000.0,No,Walkinstown,Dublin 12,q4,90%
+19/12/2017,"3A Cherryfield Rd, Walkinstown, Dublin 12",Dublin,343000.0,No,Walkinstown,Dublin 12,q4,80%
+22/12/2017,"67 St Conleths Rd, Walkinstown, Dublin 12",Dublin,336000.0,No,Walkinstown,Dublin 12,q3,80%
+02/01/2018,"89 Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+04/01/2018,"120 Dowland Rd, Walkinstown, Dublin 12",Dublin,307000.0,No,Walkinstown,Dublin 12,q3,70%
+11/01/2018,"64 St Conleths Rd, Walkinstown Dublin 12, Dublin",Dublin,336000.0,No,Walkinstown,Dublin 12,q3,80%
+25/01/2018,"11A Ballymount Sq, Lower Ballymount Rd, Walkinstown",Dublin,227500.0,No,Walkinstown,Dublin 12,q2,40%
+26/01/2018,"136 Cromwells Fort Rd, Walkinstown, Dublin 12",Dublin,375000.0,No,Walkinstown,Dublin 12,q4,90%
+02/02/2018,"141 Walkinstown Park, Walkinstown, Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+02/02/2018,"99 Dowland Road, Walkinstown, Dublin 12",Dublin,327000.0,No,Walkinstown,Dublin 12,q3,80%
+05/02/2018,"9 Balfe Rd, Walkinstown, Dublin 12",Dublin,244500.0,No,Walkinstown,Dublin 12,q2,40%
+08/02/2018,"25 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,399000.0,No,Walkinstown,Dublin 12,q4,90%
+08/02/2018,"25 Whitehall Sq, Quarry Dr, Walkinstown Dublin 12",Dublin,235000.0,No,Walkinstown,Dublin 12,q2,40%
+09/02/2018,"21 Moeran Road, Walkinstown, Dublin 12",Dublin,332500.0,No,Walkinstown,Dublin 12,q3,80%
+09/02/2018,"23 St Marys Crescent, Walkinstown, Dublin 12",Dublin,370000.0,No,Walkinstown,Dublin 12,q4,90%
+09/02/2018,"24 Greentrees Rd, Walkinstown, Dublin",Dublin,482500.0,No,Walkinstown,Dublin 12,q4,100%
+23/02/2018,"29 Walkinstown Road, Walkinstown, Dublin 12",Dublin,315000.0,No,Walkinstown,Dublin 12,q3,70%
+07/03/2018,"14 Cherry Grove, Walkinstown, Dublin 12",Dublin,465001.0,No,Walkinstown,Dublin 12,q4,100%
+14/03/2018,"164 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,445000.0,No,Walkinstown,Dublin 12,q4,100%
+16/03/2018,"17 Tibradden Grove, Greenpark, Walkinstown Dublin 12",Dublin,365000.0,No,Walkinstown,Dublin 12,q4,90%
+16/03/2018,"6 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,461000.0,No,Walkinstown,Dublin 12,q4,100%
+27/03/2018,"37 Hardenbeck Ave, Walkinstown, Dublin 12",Dublin,352000.0,No,Walkinstown,Dublin 12,q4,90%
+27/03/2018,"40 St Marys Dr, Walkinstown, Dublin 12",Dublin,416000.0,No,Walkinstown,Dublin 12,q4,100%
+28/03/2018,"13 Bigger Rd, Walkinstown, Dublin 12",Dublin,30000.0,No,Walkinstown,Dublin 12,q1,10%
+05/04/2018,"127 Limkiln Green, Greenhills, Walkinstown",Dublin,340000.0,No,Walkinstown,Dublin 12,q4,80%
+06/04/2018,"3A Ballymount Sq, Walkinstown, Dublin 12",Dublin,210000.0,No,Walkinstown,Dublin 12,q2,30%
+10/04/2018,"2 Old Tymon Lane, Greenhills Road, Walkinstown",Dublin,440000.0,No,Walkinstown,Dublin 12,q4,100%
+23/04/2018,"8 Crotty Ave, Walkinstown, Dublin 12",Dublin,317000.0,No,Walkinstown,Dublin 12,q3,70%
+27/04/2018,"15 Wilkins View, Walkinstown",Dublin,484581.49,Yes,Walkinstown,Dublin 12,q4,100%
+01/05/2018,"123 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,355000.0,No,Walkinstown,Dublin 12,q4,90%
+04/05/2018,"6 Harty Court, Harty Ave, Walkinstown Dublin 12",Dublin,278000.0,No,Walkinstown,Dublin 12,q3,60%
+10/05/2018,"127 Walkinstown Ave, Dublin 12, Dublin",Dublin,272500.0,No,Walkinstown,Dublin 12,q2,50%
+11/05/2018,"24 Lisle Rd, Walkinstown, Dublin 12",Dublin,380000.0,No,Walkinstown,Dublin 12,q4,90%
+15/05/2018,"36 Cherryfield Ave, Walkinstown, Dublin 12",Dublin,416000.0,No,Walkinstown,Dublin 12,q4,100%
+28/05/2018,"13 Crotty Avenue, Walkinstown, Dublin 12",Dublin,365000.0,No,Walkinstown,Dublin 12,q4,90%
+01/06/2018,"145 Limekiln Green, Walkinstown, Dublin 12",Dublin,275000.0,No,Walkinstown,Dublin 12,q3,60%
+08/06/2018,"76 Walkinstown Avenue, Dublin 12",Dublin,295000.0,No,Walkinstown,Dublin 12,q3,60%
+14/06/2018,"11 Dowland Ro, Walkinstown, Dublin 12",Dublin,387000.0,No,Walkinstown,Dublin 12,q4,90%
+14/06/2018,"27 Obrien Rd, Walkinstown, Dublin 12",Dublin,407000.0,No,Walkinstown,Dublin 12,q4,100%
+15/06/2018,"12 Walkinstown Crescent, Walkinstown, Dublin 12",Dublin,295000.0,No,Walkinstown,Dublin 12,q3,60%
+21/06/2018,"22 Balfe Rd, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+22/06/2018,"116 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,425000.0,No,Walkinstown,Dublin 12,q4,100%
+28/06/2018,"15 Esposito Rd, Walkinstown, Dublin 12",Dublin,360000.0,No,Walkinstown,Dublin 12,q4,90%
+28/06/2018,"87 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,401070.0,No,Walkinstown,Dublin 12,q4,100%
+02/07/2018,"14 Crotty Ave, Walkinstown, Dublin 12",Dublin,370000.0,No,Walkinstown,Dublin 12,q4,90%
+02/07/2018,"23 St Patricks Rd, Walkinstown, Dublin 12",Dublin,373500.0,No,Walkinstown,Dublin 12,q4,90%
+03/07/2018,"77 Walkinstown Rd, Walkinstown, Dublin 12",Dublin,378000.0,No,Walkinstown,Dublin 12,q4,90%
+06/07/2018,"44 Bunting Rd, Walkinstown, Dublin 12",Dublin,395000.0,No,Walkinstown,Dublin 12,q4,90%
+12/07/2018,"Chetwynds, Greenhills Road, Walkinstown",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+17/07/2018,"26 Crotty Ave, Walkinstown, Dublin 12",Dublin,340000.0,No,Walkinstown,Dublin 12,q4,80%
+18/07/2018,"18 Beechfield Close, Walkinstown, Dublin 12",Dublin,422000.0,No,Walkinstown,Dublin 12,q4,100%
+18/07/2018,"75 Cromwelsfort Rd, Walkinstown, Dublin 12",Dublin,415000.0,No,Walkinstown,Dublin 12,q4,100%
+23/07/2018,"96 Cromwellsfort Road, Walkinstown, Dublin 12",Dublin,436000.0,No,Walkinstown,Dublin 12,q4,100%
+24/07/2018,"7 Moeran Rd, Walkinstown, Dublin 12",Dublin,380000.0,No,Walkinstown,Dublin 12,q4,90%
+25/07/2018,"95 Dowland Road, Walkinstown, Dublin 12",Dublin,375000.0,No,Walkinstown,Dublin 12,q4,90%
+26/07/2018,"71 St Peter'S Road, Walkinstown, Dublin 12",Dublin,363000.0,No,Walkinstown,Dublin 12,q4,90%
+31/07/2018,"113 Walkinstown Ave, Walkinstown, Dublin 12",Dublin,332000.0,No,Walkinstown,Dublin 12,q3,80%
+31/07/2018,"26 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,420000.0,No,Walkinstown,Dublin 12,q4,100%
+01/08/2018,"26 Limekiln Green, Greenhills, Walkinstown Dublin 12",Dublin,260000.0,No,Walkinstown,Dublin 12,q2,50%
+10/08/2018,"69 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,442000.0,No,Walkinstown,Dublin 12,q4,100%
+17/08/2018,"16 Obrien Rd, Walkinstown, Dublin 12",Dublin,345000.0,No,Walkinstown,Dublin 12,q4,80%
+23/08/2018,"119 St Brendans Crescent, Walkinstown, Dublin 12",Dublin,385000.0,No,Walkinstown,Dublin 12,q4,90%
+23/08/2018,"36 Walkinstown Park, Walkinstown, Dublin 12",Dublin,280000.0,No,Walkinstown,Dublin 12,q3,60%
+29/08/2018,"43 Wilkins Court, Walkinstown",Dublin,402225.0,Yes,Walkinstown,Dublin 12,q4,100%
+29/08/2018,"48 Wilkins Court, Limekiln Lane, Walkinstown",Dublin,427313.0,Yes,Walkinstown,Dublin 12,q4,100%
+29/08/2018,"75 Walkinstown Dr, Walkinstown Dublin 12, Dublin",Dublin,400000.0,No,Walkinstown,Dublin 12,q4,90%
+04/09/2018,"43 St Patricks Rd, Walkinstown, Dublin 12",Dublin,462000.0,No,Walkinstown,Dublin 12,q4,100%
+10/09/2018,"42 Stanford Green, Walkinstown, Dublin 12",Dublin,355000.0,No,Walkinstown,Dublin 12,q4,90%
+20/09/2018,"1 Stanford Green, Walkinstown, Dublin 12",Dublin,380000.0,No,Walkinstown,Dublin 12,q4,90%
+20/09/2018,"28 Balfe Ave, Walkinstown, Dublin 12",Dublin,412000.0,No,Walkinstown,Dublin 12,q4,100%
+28/09/2018,"49 Dowland Rd, Walkinstown, Dublin 12",Dublin,392500.0,No,Walkinstown,Dublin 12,q4,90%
+04/10/2018,"13 Walkinstown Drive, Walkinstown, Dublin 12",Dublin,420000.0,No,Walkinstown,Dublin 12,q4,100%
+04/10/2018,"55 St Peters Rd, Walkinstown, Dublin 12",Dublin,360000.0,No,Walkinstown,Dublin 12,q4,90%
+08/10/2018,"91 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,333000.0,No,Walkinstown,Dublin 12,q3,80%
+09/10/2018,"43 Walkinstown Parade, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+19/10/2018,"129 St James Road, Walkinstown, Dublin 12",Dublin,330000.0,No,Walkinstown,Dublin 12,q3,80%
+23/10/2018,"28 St Columba'S Road, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+26/10/2018,"13 Hughes Rd South, Walkinstown, Dublin 12",Dublin,345000.0,No,Walkinstown,Dublin 12,q4,80%
+26/10/2018,"145 Walkinstown Rd, Walkinstown, Dublin",Dublin,380000.0,No,Walkinstown,Dublin 12,q4,90%
+31/10/2018,"33 Dowland Rd, Walkinstown, Dublin 12",Dublin,378000.0,No,Walkinstown,Dublin 12,q4,90%
+05/11/2018,"14 Stanford Green, Walkinstown, Dublin 12",Dublin,345000.0,No,Walkinstown,Dublin 12,q4,80%
+06/11/2018,"49 Obrien Rd, Walkinstown, Dublin 12",Dublin,362000.0,No,Walkinstown,Dublin 12,q4,90%
+07/11/2018,"24 Esposito Rd, Walkinstown, Dublin 12",Dublin,351000.0,No,Walkinstown,Dublin 12,q4,90%
+13/11/2018,"28 Balfe Rd East, Walkinstown, Dublin 12",Dublin,420000.0,No,Walkinstown,Dublin 12,q4,100%
+13/11/2018,"56 Wilkins Court, Limekiln Lane, Walkinstown",Dublin,431719.0,Yes,Walkinstown,Dublin 12,q4,100%
+15/11/2018,"107 Limekiln Green, Walkinstown, Dublin 12",Dublin,355000.0,No,Walkinstown,Dublin 12,q4,90%
+28/11/2018,"5 Somerville Park, Walkinstown, Dublin 12",Dublin,505505.0,No,Walkinstown,Dublin 12,q4,100%
+29/11/2018,"2 Corrig Close, Green Park, Walkinstown Dublin 12",Dublin,425000.0,No,Walkinstown,Dublin 12,q4,100%
+04/12/2018,"17 Walkinstown Green, Dublin 12, Dublin",Dublin,330000.0,No,Walkinstown,Dublin 12,q3,80%
+06/12/2018,"43 Walkinstown Rd, Walkinstown, Dublin 12",Dublin,500000.0,No,Walkinstown,Dublin 12,q4,100%
+07/12/2018,"7 Temple Manor Way, Walkinstown, Dublin 12",Dublin,382000.0,No,Walkinstown,Dublin 12,q4,90%
+10/12/2018,"2 Bigger Rd, Walkinstown, Dublin 12",Dublin,380000.0,No,Walkinstown,Dublin 12,q4,90%
+11/12/2018,"1 Wilkins Court, Greenhills, Walkinstown",Dublin,511013.0,Yes,Walkinstown,Dublin 12,q4,100%
+11/12/2018,"26 Esposito Roade, Walkinstown, Dublin 12",Dublin,370500.0,No,Walkinstown,Dublin 12,q4,90%
+11/12/2018,"64 St Anthony'S Crescent, Walkinstown, Dublin 12",Dublin,285000.0,No,Walkinstown,Dublin 12,q3,60%
+12/12/2018,"51 Walkinstown Dr, Walkinstown, Dublin 12",Dublin,340000.0,No,Walkinstown,Dublin 12,q4,80%
+18/12/2018,"111 Walkinstown Rd, Walkinstown, Dublin 12",Dublin,300000.0,No,Walkinstown,Dublin 12,q3,70%
+19/12/2018,"12 Cherryfield Dr, Walkinstown, Dublin 12",Dublin,425000.0,No,Walkinstown,Dublin 12,q4,100%
+15/01/2019,"43 John Mccormack Ave, Walkinstown, Dublin 12",Dublin,365000.0,No,Walkinstown,Dublin 12,q4,90%
+18/01/2019,"106 Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,485000.0,No,Walkinstown,Dublin 12,q4,100%
+23/01/2019,"33 Walkinstown Parade, Walkinstown, Dublin 12",Dublin,290000.0,No,Walkinstown,Dublin 12,q3,60%
+25/01/2019,"60 Dowland Rd, Walkinstown, Dublin 12",Dublin,345000.0,No,Walkinstown,Dublin 12,q4,80%
+29/01/2019,"6 Dowland Road, Walkinstown, Dublin 12",Dublin,375000.0,No,Walkinstown,Dublin 12,q4,90%
+30/01/2019,"90 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,440000.0,No,Walkinstown,Dublin 12,q4,100%
+04/02/2019,"19 Balfe Rd, Walkinstown, Dublin 12",Dublin,301000.0,No,Walkinstown,Dublin 12,q3,70%
+06/02/2019,"52 Wilkins Court, Walkinstown",Dublin,427312.0,Yes,Walkinstown,Dublin 12,q4,100%
+11/02/2019,"12 Walkinstown Parade, Dublin 12, Dublin",Dublin,325000.0,No,Walkinstown,Dublin 12,q3,70%
+14/02/2019,"157 St James Rd, Walkinstown, Dublin 12",Dublin,422000.0,No,Walkinstown,Dublin 12,q4,100%
+14/02/2019,"77 Limekiln Ave, Walkinstown, Dublin 12",Dublin,410000.0,No,Walkinstown,Dublin 12,q4,100%
+22/02/2019,"6 Greenhills Road, Walkinstown, Dublin 12",Dublin,450000.0,No,Walkinstown,Dublin 12,q4,100%
+28/02/2019,"42 Balfe Rd East, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+08/03/2019,"4 Bigger Rd, Walkinstown, Dublin 12",Dublin,380000.0,No,Walkinstown,Dublin 12,q4,90%
+14/03/2019,"3  Wilkins View, Limekiln Lane, Walkinstown",Dublin,500000.0,No,Walkinstown,Dublin 12,q4,100%
+15/03/2019,"51 John Mccormack Ave, Walkinstown, Dublin 12",Dublin,327500.0,No,Walkinstown,Dublin 12,q3,80%
+19/03/2019,"12 Wilkins Court, Walkinstown, Dublin 12",Dublin,325991.0,Yes,Walkinstown,Dublin 12,q3,80%
+22/03/2019,"57 Walkinstown Park, Walkinstown, Dublin 12",Dublin,165000.0,No,Walkinstown,Dublin 12,q1,20%
+29/03/2019,"14 Tibradden Close, Walkinstown, Dublin 12",Dublin,349000.0,No,Walkinstown,Dublin 12,q4,80%
+29/03/2019,"22 Percy French Rd, Walkinstown, Dublin 12",Dublin,380000.0,No,Walkinstown,Dublin 12,q4,90%
+05/04/2019,"157 Limekiln Rd, Walkinstown, Dublin 12",Dublin,325000.0,No,Walkinstown,Dublin 12,q3,70%
+12/04/2019,"99 Beechfield Rd, Walkinstown, Dublin 12",Dublin,411500.0,No,Walkinstown,Dublin 12,q4,100%
+18/04/2019,"154 St Peters Rd, Walkinstown, Dublin 12",Dublin,329500.0,No,Walkinstown,Dublin 12,q3,80%
+03/05/2019,"114 Cherryfield Rd, Walkinstown, Dublin",Dublin,380000.0,No,Walkinstown,Dublin 12,q4,90%
+14/05/2019,"36 Esposito Rd, Walkinstown, Dublin 12",Dublin,322000.0,No,Walkinstown,Dublin 12,q3,70%
+28/05/2019,"32 St Columbas Rd, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+29/05/2019,"47 John Mc Cormack Avenue, Walkinstown, Dublin 12",Dublin,380000.0,No,Walkinstown,Dublin 12,q4,90%
+30/05/2019,"63 St Conleths Rd, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+14/06/2019,"124 Dowland Rd, Walkinstown, Dublin 12",Dublin,335000.0,No,Walkinstown,Dublin 12,q3,80%
+14/06/2019,"132 Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,412000.0,No,Walkinstown,Dublin 12,q4,100%
+14/06/2019,"40 Crotty Ave, Walkinstown, Dublin 12",Dublin,330000.0,No,Walkinstown,Dublin 12,q3,80%
+18/06/2019,"33 Balfe Rd, Walkinstown, Dublin",Dublin,265000.0,No,Walkinstown,Dublin 12,q2,50%
+21/06/2019,"28 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,450000.0,No,Walkinstown,Dublin 12,q4,100%
+27/06/2019,"99 Longmile Rd, Walkinstown, Dublin 12",Dublin,347000.0,No,Walkinstown,Dublin 12,q4,80%
+28/06/2019,"27 John Mc Cormack Ave, Walkinstown, Dublin 12",Dublin,382500.0,No,Walkinstown,Dublin 12,q4,90%
+01/07/2019,"69 Moeran Rd, Walkinstown Dublin 12, Dublin",Dublin,433000.0,No,Walkinstown,Dublin 12,q4,100%
+05/07/2019,"23 Moeran Rd, Walkinstown, Dublin 12",Dublin,385000.0,No,Walkinstown,Dublin 12,q4,90%
+05/07/2019,"5 St Marys Dr, Walkinstown, Dublin 12",Dublin,422500.0,No,Walkinstown,Dublin 12,q4,100%
+09/07/2019,"106 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,425000.0,No,Walkinstown,Dublin 12,q4,100%
+12/07/2019,"54 Thomas Moore Rd, Walkinstown, Dublin 12",Dublin,333000.0,No,Walkinstown,Dublin 12,q3,80%
+12/07/2019,"8 Muckross Ave, Perrystown, Walkinstown Dublin 12",Dublin,555000.0,No,Walkinstown,Dublin 12,q4,100%
+17/07/2019,"73 St Peters Rd, Walkinstown, Dublin 12",Dublin,374000.0,No,Walkinstown,Dublin 12,q4,90%
+30/07/2019,"101 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,556200.0,No,Walkinstown,Dublin 12,q4,100%
+30/07/2019,"153 Limekiln Rd, Walkinstown Dublin 12, Dublin",Dublin,330000.0,No,Walkinstown,Dublin 12,q3,80%
+30/07/2019,"7 St Marys Park, Walkinstown, Dublin 12",Dublin,325000.0,No,Walkinstown,Dublin 12,q3,70%
+31/07/2019,"34 Obrien Rd, Walkinstown, Dublin 12",Dublin,410000.0,No,Walkinstown,Dublin 12,q4,100%
+31/07/2019,"Apt 1 75B Thomas Moore Road, Walkinstown, Dublin 12",Dublin,126800.0,No,Walkinstown,Dublin 12,q1,10%
+08/08/2019,"18 Balfe Road East, Walkinstown, Dublin 12",Dublin,352000.0,No,Walkinstown,Dublin 12,q4,90%
+16/08/2019,"40 St Marys Road, Walkinstown, Dublin 12",Dublin,349750.0,No,Walkinstown,Dublin 12,q4,80%
+20/08/2019,"102 Limekiln Green, Walkinstown, Dublin 12",Dublin,308000.0,No,Walkinstown,Dublin 12,q3,70%
+21/08/2019,"45 Walkinstown Road, Walkinstown, Dublin 12",Dublin,580000.0,No,Walkinstown,Dublin 12,q4,100%
+28/08/2019,"46 St Jamess Rd, Walkinstown, Dublin 12",Dublin,303000.0,No,Walkinstown,Dublin 12,q3,70%
+04/09/2019,"1 Limekiln Manor, Limekiln Road, Walkinstown",Dublin,546255.51,Yes,Walkinstown,Dublin 12,q4,100%
+04/09/2019,"1 Walkinstown Dr, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+04/09/2019,"23 Bigger Rd, Walkinstown, Dublin 12",Dublin,342500.0,No,Walkinstown,Dublin 12,q4,80%
+04/09/2019,"6 Limekiln Court, Walkinstown, Dublin 12",Dublin,1850000.0,No,Walkinstown,Dublin 12,q4,100%
+04/09/2019,"Knockaderry, 69 Bunting Rd, Walkinstown Dublin 12",Dublin,270000.0,No,Walkinstown,Dublin 12,q2,50%
+05/09/2019,"9 Cherryfield Rd, Walkinstown, Dublin 12",Dublin,365000.0,No,Walkinstown,Dublin 12,q4,90%
+09/09/2019,"8, Limekiln Road, Walkinstown",Dublin,599118.94,Yes,Walkinstown,Dublin 12,q4,100%
+10/09/2019,"100 Bunting Rd, Walkinstown, Dublin 12",Dublin,327000.0,No,Walkinstown,Dublin 12,q3,80%
+10/09/2019,"111 St Peters Rd, Walkinstown, Dublin 12",Dublin,370000.0,No,Walkinstown,Dublin 12,q4,90%
+13/09/2019,"35 Walkinstown Park, Walkinstown, Walkinstown",Dublin,310000.0,No,Walkinstown,Dublin 12,q3,70%
+16/09/2019,"5 Moeran Rd, Walkinstown, Dublin 12",Dublin,432000.0,No,Walkinstown,Dublin 12,q4,100%
+17/09/2019,"16 Hardebeck Ave, Walkinstown, Dublin 12",Dublin,320000.0,No,Walkinstown,Dublin 12,q3,70%
+19/09/2019,"31 St Conleths Rd, Walkinstown, Dublin 12",Dublin,336000.0,No,Walkinstown,Dublin 12,q3,80%
+20/09/2019,"98 Walkinstown Ave, Dublin 12, Dublin",Dublin,367500.0,No,Walkinstown,Dublin 12,q4,90%
+24/09/2019,"55A Walkinstown Parade, Walkinstown, Dublin 12",Dublin,400000.0,No,Walkinstown,Dublin 12,q4,90%
+27/09/2019,"12 Beechfield Ave, Walkinstown, Dublin 12",Dublin,445000.0,No,Walkinstown,Dublin 12,q4,100%
+27/09/2019,"91 St Peters Rd, Walkinstown, Dublin 12",Dublin,350000.0,No,Walkinstown,Dublin 12,q4,80%
+30/09/2019,"55 Obrien Rd, Walkinstown, Dublin 12",Dublin,399950.0,No,Walkinstown,Dublin 12,q4,90%
+04/10/2019,"27 Bunting Rd, Walkinstown, Dublin 12",Dublin,315100.0,No,Walkinstown,Dublin 12,q3,70%
+04/10/2019,"7 Limekiln Road, Walkinstown, Dublin 12",Dublin,577092.51,Yes,Walkinstown,Dublin 12,q4,100%
+04/10/2019,"82 Cromwellsfort Rd, Walkinstown, Dublin 12",Dublin,560000.0,No,Walkinstown,Dublin 12,q4,100%
+07/10/2019,"18 Hughes Rd South, Walkinstown, Dublin 12",Dublin,356000.0,No,Walkinstown,Dublin 12,q4,90%
+09/10/2019,"172 St James Road, Walkinstown, Dublin 12",Dublin,299000.0,No,Walkinstown,Dublin 12,q3,60%
+09/10/2019,"18 Millgate Dr, Walkinstown, Dublin 12",Dublin,505000.0,No,Walkinstown,Dublin 12,q4,100%
+14/10/2019,"21 John Mccormack Ave, Walkinstown, Dublin 12",Dublin,340000.0,No,Walkinstown,Dublin 12,q4,80%
+15/10/2019,"20 St Patricks Rd, Walkinstown, Dublin 12",Dublin,470000.0,No,Walkinstown,Dublin 12,q4,100%

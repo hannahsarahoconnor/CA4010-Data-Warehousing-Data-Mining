@@ -1,0 +1,452 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+14/01/2010,"22  4 Herberton Street, Rialto, Dublin 8",Dublin,182000.0,Yes,Rialto,Dublin 8,q3,60%
+12/02/2010,"Apartment 10, 86 Reuben Street, Rialto",Dublin,215000.0,Yes,Rialto,Dublin 8,q3,70%
+19/02/2010,"Apartment 11, 86 Reuben Street, Rialto",Dublin,140970.0,Yes,Rialto,Dublin 8,q2,40%
+22/02/2010,"Apt. No. 15  86 Reuben Street, Rialto, Dublin 8",Dublin,224900.0,Yes,Rialto,Dublin 8,q3,70%
+05/03/2010,"Apartment 3, 29 James'S Walk, Rialto",Dublin,187000.0,Yes,Rialto,Dublin 8,q3,60%
+11/03/2010,"9 Upper Cross Road, Rialto",Dublin,200000.0,No,Rialto,Dublin 8,q3,60%
+12/03/2010,"Apt 6  29 James' Walk, Rialto, Dublin 8",Dublin,188000.0,Yes,Rialto,Dublin 8,q3,60%
+15/03/2010,"8 Haroldville Avenue, Rialto, Dublin 8",Dublin,330000.0,No,Rialto,Dublin 8,q4,90%
+16/03/2010,"Apt 14 Herberton 86 Reuben Street, St James'S Walk, Rialto",Dublin,172000.0,Yes,Rialto,Dublin 8,q2,50%
+16/03/2010,"Apt 21 29 St James'S Walk, Rialto, Dublin 8",Dublin,183000.0,Yes,Rialto,Dublin 8,q3,60%
+19/03/2010,"19 Rialto Cottages, Rialto",Dublin,127500.0,No,Rialto,Dublin 8,q2,40%
+19/03/2010,"Apartment 5, 13  Clarke'S Terrace, Rialto",Dublin,187000.0,Yes,Rialto,Dublin 8,q3,60%
+26/03/2010,"45 Herberton Drive, Rialto",Dublin,270000.0,No,Rialto,Dublin 8,q4,80%
+01/04/2010,"Apt 43 St. Anthony'S Walk, Rialto, Dublin8",Dublin,191250.0,Yes,Rialto,Dublin 8,q3,60%
+15/04/2010,"90 Rialto Cottages, Rialto, .",Dublin,142000.0,No,Rialto,Dublin 8,q2,40%
+21/04/2010,"96  Rialto Court, Rialto, Dublin 8",Dublin,145000.0,No,Rialto,Dublin 8,q2,40%
+27/04/2010,"Apartment 10, 26 St. James'S Walk, Rialto",Dublin,200440.52,Yes,Rialto,Dublin 8,q3,60%
+28/04/2010,"Apartment 13, 86 Reuben Street, Rialto",Dublin,222026.43,Yes,Rialto,Dublin 8,q3,70%
+29/04/2010,"Apt. 3, James'S Walk, Rialto",Dublin,202643.17,Yes,Rialto,Dublin 8,q3,60%
+30/04/2010,"35 Herberton Drive, Rialto",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+30/04/2010,"38 Church Avenue South, Rialto, Dublin 8",Dublin,285000.0,Yes,Rialto,Dublin 8,q4,80%
+11/05/2010,"Apartment 19, No.2 Reuben Plaza, Rialto",Dublin,199815.0,Yes,Rialto,Dublin 8,q3,60%
+19/05/2010,"Apartment 10, 82 Reuben Street, Rialto",Dublin,184250.0,Yes,Rialto,Dublin 8,q3,60%
+20/05/2010,"36 Church Avenue South, Rialto",Dublin,255507.0,Yes,Rialto,Dublin 8,q3,80%
+24/05/2010,"42 Church Avenue South, Rialto",Dublin,251101.0,Yes,Rialto,Dublin 8,q3,80%
+28/05/2010,"Apartment 6, 26 James'S Walk, Rialto",Dublin,175000.0,Yes,Rialto,Dublin 8,q2,50%
+04/06/2010,"34 Church Avenue South, Rialto",Dublin,303000.0,Yes,Rialto,Dublin 8,q4,90%
+04/06/2010,"46 Church Avenue South, Rialto, Dublin 8",Dublin,280000.0,Yes,Rialto,Dublin 8,q4,80%
+16/06/2010,"Apartment 1, 2 Reuben Plaza, Rialto",Dublin,164757.7,Yes,Rialto,Dublin 8,q2,50%
+21/06/2010,"4 Herbrton Street, Rialto, Dublin",Dublin,190000.0,No,Rialto,Dublin 8,q3,60%
+23/06/2010,"Apartment 11, 82 Reuben Street, Rialto",Dublin,218250.0,Yes,Rialto,Dublin 8,q3,70%
+16/07/2010,"Apartment 3, 43 St. Anthony'S Road, Rialto",Dublin,176211.45,Yes,Rialto,Dublin 8,q3,60%
+21/07/2010,"10 Glenmalure Park, Rialto",Dublin,280000.0,No,Rialto,Dublin 8,q4,80%
+27/07/2010,"7 Herberton Walk, Rialto",Dublin,208250.0,Yes,Rialto,Dublin 8,q3,70%
+28/07/2010,"Apt 13, 43 St. Anthony'S Road  Rialto, Dublin 8",Dublin,195500.0,No,Rialto,Dublin 8,q3,60%
+10/08/2010,"20 Rialto Court, Rialto, Dublin 8",Dublin,105000.0,No,Rialto,Dublin 8,q1,20%
+12/08/2010,"11 Herberton Walk, Rialto, Dublin 8",Dublin,183480.17,Yes,Rialto,Dublin 8,q3,60%
+24/09/2010,"44  Church Avenue South, Rialto",Dublin,251101.32,Yes,Rialto,Dublin 8,q3,80%
+07/10/2010,"17 Reuben Street, Rialto, Dublin 8",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+08/10/2010,"Apt 19, 2 Herberton St, Rialto  Dublin 8",Dublin,132159.0,Yes,Rialto,Dublin 8,q2,40%
+15/10/2010,"142  Rialto Cottages, Dublin 8",Dublin,95000.0,No,Rialto,Dublin 8,q1,20%
+15/10/2010,"48 Church Avenue South, Rialto, Dublin 8",Dublin,258149.0,Yes,Rialto,Dublin 8,q4,80%
+15/10/2010,"Apt 23  31 St. James Walk, Rialto",Dublin,220000.0,Yes,Rialto,Dublin 8,q3,70%
+22/10/2010,"38A New Ireland Road, Rialto, Dublin 8",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+15/11/2010,"Apartment 9, 13 Clarke'S Terrace, Rialto",Dublin,202643.0,Yes,Rialto,Dublin 8,q3,60%
+09/12/2010,"37 Rialto Street, Rialto, Dublin 8",Dublin,175000.0,No,Rialto,Dublin 8,q2,50%
+13/12/2010,"Apartment 6, 80 Reuben Street, Rialto",Dublin,153744.49,Yes,Rialto,Dublin 8,q2,50%
+23/12/2010,"106 New Ireland Road, Rialto, Dublin 6",Dublin,200000.0,No,Rialto,Dublin 8,q3,60%
+08/02/2011,"43 -45 Rialto Buildings, Rialto Street",Dublin,80000.0,No,Rialto,Dublin 8,q1,10%
+01/03/2011,"Thistle House, Heberton Road, Rialto",Dublin,195000.0,No,Rialto,Dublin 8,q3,60%
+08/03/2011,"Apartment 25, 29 James'S Walk, Rialto",Dublin,145375.0,Yes,Rialto,Dublin 8,q2,40%
+10/03/2011,"15 Reuben Avenue, Rialto, Dublin 8",Dublin,130000.0,No,Rialto,Dublin 8,q2,40%
+15/03/2011,"27 Herberton Park, Rialto, Dublin 8",Dublin,145000.0,No,Rialto,Dublin 8,q2,40%
+25/03/2011,"40  Rialto Cottages, Rialto, Dublin 8",Dublin,193000.0,No,Rialto,Dublin 8,q3,60%
+15/04/2011,"Apartment 12, 2 Reuben Plaza  Rialto",Dublin,233550.0,Yes,Rialto,Dublin 8,q3,70%
+17/05/2011,"126 Rialto Cottages, Rialto, Dublin 8",Dublin,37500.0,No,Rialto,Dublin 8,q1,10%
+19/05/2011,"15 Rialto Cottages, Rialto, Dublin 8",Dublin,150000.0,No,Rialto,Dublin 8,q2,40%
+07/06/2011,"30  Reuben Street, Rialto",Dublin,218000.0,No,Rialto,Dublin 8,q3,70%
+08/07/2011,"21 Herberton Walk, Rialto",Dublin,161157.0,Yes,Rialto,Dublin 8,q2,50%
+08/07/2011,"23 Herberton Walk, Rialto, Dublin 8",Dublin,195000.0,Yes,Rialto,Dublin 8,q3,60%
+14/07/2011,"Apartment 8, 86 Reuben Street, Rialto",Dublin,103083.0,Yes,Rialto,Dublin 8,q1,20%
+21/07/2011,"2 Our Lady Of Fatima Close, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,20%
+26/07/2011,"19 Herberton Walk, Rialto, Dublin 8",Dublin,162996.0,Yes,Rialto,Dublin 8,q2,50%
+03/08/2011,"Apt. 9, 86 Reuben St., Rialto",Dublin,140925.0,Yes,Rialto,Dublin 8,q2,40%
+09/08/2011,"Apartment 7, 6 Reuben Plaza, Rialto",Dublin,157950.0,Yes,Rialto,Dublin 8,q2,50%
+12/08/2011,"Apartment 12 Reuben Street, Rialto",Dublin,147050.0,Yes,Rialto,Dublin 8,q2,40%
+17/08/2011,"Apartment 8, 2 Reuben Plaza, Rialto",Dublin,136564.0,Yes,Rialto,Dublin 8,q2,40%
+24/08/2011,"Apartment 13, 2 Reuben Plaza, Rialto",Dublin,159950.0,Yes,Rialto,Dublin 8,q2,50%
+26/08/2011,"53 Reuben Avenue, Rialto",Dublin,90000.0,No,Rialto,Dublin 8,q1,20%
+01/09/2011,"17 Herberton Drive, Rialto, Dublin 12",Dublin,135000.0,No,Rialto,Dublin 8,q2,40%
+20/09/2011,"Apt 15, 49 St. Anthony'S Rd, Rialto",Dublin,102202.62,Yes,Rialto,Dublin 8,q1,20%
+03/11/2011,"Apartment 7, 86 Reuben Street  Rialto, Dublin 8",Dublin,165000.0,Yes,Rialto,Dublin 8,q2,50%
+07/11/2011,"Apt 5, 6 Reuben Plaza, Rialto",Dublin,92511.0,Yes,Rialto,Dublin 8,q1,20%
+11/11/2011,"63  Reuben Avenue, Rialto",Dublin,225000.0,No,Rialto,Dublin 8,q3,70%
+23/11/2011,"8 St Anthonys Crescent, Rialto",Dublin,110000.0,No,Rialto,Dublin 8,q1,20%
+25/11/2011,"Apt 9, 2 Reuben Plaza, Rialto",Dublin,132114.53,Yes,Rialto,Dublin 8,q2,40%
+01/12/2011,"Apartment 21, Block A  31 James'S Walk, Rialto  Dublin 8",Dublin,105726.87,Yes,Rialto,Dublin 8,q1,20%
+07/12/2011,"Apartment 14, 43 St. Anthony'S Road, Rialto",Dublin,123966.94,Yes,Rialto,Dublin 8,q2,30%
+16/12/2011,"59 New Ireland Road, Rialto, Dublin 8",Dublin,165000.0,No,Rialto,Dublin 8,q2,50%
+12/01/2012,"144 Rialto Cottages, Rialto, Dublin 8",Dublin,76500.0,No,Rialto,Dublin 8,q1,10%
+17/01/2012,"Apartment 22, 31  James'S Walk, Rialto",Dublin,205000.0,Yes,Rialto,Dublin 8,q3,60%
+27/01/2012,"17 Rialto Court, Rialto",Dublin,55000.0,No,Rialto,Dublin 8,q1,10%
+07/02/2012,"Apt. 5  45 St. Anthony'S Road, Rialto, Dublin 8",Dublin,83700.44,Yes,Rialto,Dublin 8,q1,20%
+10/02/2012,"16 Church Avenue South, Rialto",Dublin,82000.0,No,Rialto,Dublin 8,q1,20%
+10/02/2012,"25 Church Avenue South, Rialto",Dublin,73000.0,No,Rialto,Dublin 8,q1,10%
+22/02/2012,"98 Herberton Road, Rialto, Dublin 8",Dublin,163000.0,No,Rialto,Dublin 8,q2,50%
+23/02/2012,"Apartment 23, 29 St. James Walk, Rialto",Dublin,246696.03,Yes,Rialto,Dublin 8,q3,80%
+02/03/2012,"530 South Circular Road, Rialto",Dublin,255000.0,No,Rialto,Dublin 8,q3,80%
+05/03/2012,"120 New Ireland Road, Rialto",Dublin,10000.0,No,Rialto,Dublin 8,q1,10%
+09/03/2012,"64 Herberton Road, Rialto, Dublin 8",Dublin,156000.0,No,Rialto,Dublin 8,q2,50%
+29/03/2012,"55 Mountshannon Road, Rialto, Dublin8",Dublin,225000.0,No,Rialto,Dublin 8,q3,70%
+04/05/2012,"88 Rialto Court, Rialto, Dublin 8",Dublin,71000.0,No,Rialto,Dublin 8,q1,10%
+15/05/2012,"1 Glenmalure Villas, South Circular Road, Rialto",Dublin,106666.67,No,Rialto,Dublin 8,q1,20%
+15/05/2012,"17 Herberton Walk, Rialto, Dublin 8",Dublin,160352.0,Yes,Rialto,Dublin 8,q2,50%
+24/05/2012,"25 Herberton Walk, Rialto",Dublin,180000.0,Yes,Rialto,Dublin 8,q3,60%
+25/05/2012,"Apt 16 Rueben Plaza, Rialto",Dublin,145000.0,Yes,Rialto,Dublin 8,q2,40%
+14/06/2012,"50 Reuben Avenue, Rialto",Dublin,200000.0,No,Rialto,Dublin 8,q3,60%
+28/06/2012,"43 New Ireland Road, Rialto, Dublin 8",Dublin,150000.0,No,Rialto,Dublin 8,q2,40%
+28/06/2012,"5 St. James' Terrace, Dolphin'S Barn, Rialto",Dublin,121000.0,No,Rialto,Dublin 8,q2,30%
+02/08/2012,"29 Herberton Walk, Rialto, Dublin 8",Dublin,185000.0,Yes,Rialto,Dublin 8,q3,60%
+03/08/2012,"2 Herberton Park, South Circular Road, Rialto",Dublin,133160.0,No,Rialto,Dublin 8,q2,40%
+07/08/2012,"27 Herbeton Walk, Rialto",Dublin,158590.0,Yes,Rialto,Dublin 8,q2,50%
+07/08/2012,"8 Rialto Park, Dublin 8",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+03/09/2012,"19 Rialto Street, Rialto",Dublin,43000.0,No,Rialto,Dublin 8,q1,10%
+12/09/2012,"149 Herberton Road, Rialto, Dublin 8",Dublin,150000.0,No,Rialto,Dublin 8,q2,40%
+11/10/2012,"30 Rialto Cottages, Rialto",Dublin,75000.0,No,Rialto,Dublin 8,q1,10%
+22/10/2012,"79 St James Walk, Rialto",Dublin,220000.0,No,Rialto,Dublin 8,q3,70%
+26/10/2012,"61 New Ireland Road, Rialto",Dublin,181500.0,No,Rialto,Dublin 8,q3,60%
+02/11/2012,"14 Rialto Court, Rialto, Dublin 8",Dublin,87000.0,No,Rialto,Dublin 8,q1,20%
+27/11/2012,"23 Rialto Cottages, Rialto",Dublin,128000.0,No,Rialto,Dublin 8,q2,40%
+06/12/2012,"Apartment 16 Grand Canal Court, Herberton Road, Rialto",Dublin,170000.0,No,Rialto,Dublin 8,q2,50%
+19/12/2012,"Apt 1 Herberton, 49 St Anthony'S Rd, Rialto",Dublin,81938.0,Yes,Rialto,Dublin 8,q1,20%
+20/12/2012,"75 New Ireland Road, Rialto",Dublin,215000.0,No,Rialto,Dublin 8,q3,70%
+21/12/2012,"15 Apartments In Block F, Herberton  Rialto",Dublin,89445.0,No,Rialto,Dublin 8,q1,20%
+21/12/2012,"18 Glenmalure Court, St. James Walk, Rialto",Dublin,76000.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"36 Apartments In Block B, Herberton  Rialto",Dublin,214668.0,No,Rialto,Dublin 8,q3,70%
+21/12/2012,"40 Apartments In Block A, Herberton  Rialto",Dublin,238520.0,No,Rialto,Dublin 8,q3,70%
+21/12/2012,"97 Apartments In Block C, Herberton  Rialto",Dublin,578411.0,No,Rialto,Dublin 8,q4,100%
+21/12/2012,"Apartment 10, 78 Reuban Street, Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 10, 80 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 11, 78 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 11, 80 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 12, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 13, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 14, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 15, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 16, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 17, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 2, 78 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 2, 80 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 2, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 4, 78 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 4, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 5, 78 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 5, 80 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 7, 80 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 7, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 8, 78 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 8, 80 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 8, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 9, 78 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apartment 9, 82 Reuban Street, Herberton  Rialto",Dublin,5963.0,No,Rialto,Dublin 8,q1,10%
+21/12/2012,"Apt 15, 30 James' Walk, Rialto",Dublin,102202.0,Yes,Rialto,Dublin 8,q1,20%
+18/01/2013,"18 Mallin Avenue, Rialto",Dublin,20000.0,No,Rialto,Dublin 8,q1,10%
+25/02/2013,"18 Church Avenue South, Rialto",Dublin,263000.0,No,Rialto,Dublin 8,q4,80%
+28/02/2013,"22 Reuben Avenue, Rialto",Dublin,150000.0,No,Rialto,Dublin 8,q2,50%
+28/02/2013,"6 Carrick Terrace, Rialto",Dublin,230000.0,No,Rialto,Dublin 8,q3,70%
+28/03/2013,"Apartment 6, 30 James' Walk, Rialto",Dublin,121586.0,Yes,Rialto,Dublin 8,q2,30%
+19/04/2013,"Apt 14, 30 St James Walk, Rialto",Dublin,110000.0,Yes,Rialto,Dublin 8,q1,20%
+01/05/2013,"76 New Ireland Road, Rialto, Dublin 8",Dublin,48000.0,No,Rialto,Dublin 8,q1,10%
+02/05/2013,"105 Rialto Cottages, Rialto, Dublin 8.",Dublin,90500.0,No,Rialto,Dublin 8,q1,20%
+17/05/2013,"Apartment 19, 29 James'S Walk, Rialto",Dublin,120235.0,Yes,Rialto,Dublin 8,q2,30%
+27/05/2013,"2/4+4A, Brookfield Road, Rialto",Dublin,80000.0,No,Rialto,Dublin 8,q1,10%
+29/05/2013,"5/6 Pim Street, Rialto",Dublin,922000.0,No,Rialto,Dublin 8,q4,100%
+30/05/2013,"75 Rialto Court, Dublin 8",Dublin,60000.0,No,Rialto,Dublin 8,q1,10%
+01/07/2013,"445 South Circular Road, Rialto",Dublin,106000.0,No,Rialto,Dublin 8,q1,20%
+12/07/2013,"Apt 9  30 James Walk, Rialto",Dublin,120705.0,Yes,Rialto,Dublin 8,q2,30%
+16/07/2013,"24 Haroldville Avenue, Rialto, Dublin 6",Dublin,235000.0,No,Rialto,Dublin 8,q3,70%
+17/07/2013,"70 Rialto Cottages, Rialto",Dublin,75000.0,No,Rialto,Dublin 8,q1,10%
+26/07/2013,"Apartment 13, 30 James'S Walk, Rialto",Dublin,104845.0,Yes,Rialto,Dublin 8,q1,20%
+04/09/2013,"3 Church Avenue, Rialto, Dublin 8",Dublin,260300.0,No,Rialto,Dublin 8,q4,80%
+12/09/2013,"Apartment 2, 29 James' Walk, Rialto",Dublin,118942.73,Yes,Rialto,Dublin 8,q1,20%
+18/09/2013,"24 Apartments  Block F, Herberton, Rialto",Dublin,143112.0,No,Rialto,Dublin 8,q2,40%
+24/09/2013,"Apartment 8, 29 James Walk, Rialto",Dublin,133039.64,Yes,Rialto,Dublin 8,q2,40%
+26/09/2013,"8  Herberton Drive, Rialto",Dublin,218000.0,No,Rialto,Dublin 8,q3,70%
+04/10/2013,"Apartment 13, 29 James'S Walk, Herberton  Rialto",Dublin,127753.3,Yes,Rialto,Dublin 8,q2,40%
+17/10/2013,"14 Portmahon Drive, Rialto",Dublin,205000.0,No,Rialto,Dublin 8,q3,60%
+18/10/2013,"119 New Ireland Road, Rialto",Dublin,219000.0,No,Rialto,Dublin 8,q3,70%
+24/10/2013,"104  Dolphin Road, Rialto",Dublin,135000.0,No,Rialto,Dublin 8,q2,40%
+24/10/2013,"25 Herberton Drive, Rialto, Dublin 8",Dublin,207500.0,No,Rialto,Dublin 8,q3,70%
+31/10/2013,"19 Longs Place, Rialto",Dublin,51000.0,No,Rialto,Dublin 8,q1,10%
+05/11/2013,"Apartment 21  Grand Canal Court, Herberton Road, Rialto",Dublin,141000.0,No,Rialto,Dublin 8,q2,40%
+07/11/2013,"51 Upper Cross Road, Rialto",Dublin,255000.0,No,Rialto,Dublin 8,q3,80%
+11/11/2013,"12 Rialto St, Rialto",Dublin,92500.0,No,Rialto,Dublin 8,q1,20%
+12/11/2013,"93 Rialto Court, Rialto, Dublin 8",Dublin,84000.0,No,Rialto,Dublin 8,q1,20%
+12/11/2013,"99 New Ireland Road, Rialto",Dublin,241000.0,No,Rialto,Dublin 8,q3,80%
+04/12/2013,"Apt 1   6 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,20%
+04/12/2013,"Apt 1 86 Reuben Street, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,20%
+04/12/2013,"Apt 10   2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,20%
+04/12/2013,"Apt 10   49 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 11   2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 11   49 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 12   49 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 12 31 James'S Walk, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 14   2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 14   49 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 15   2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 16 31 James'S Walk, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 17   2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 19 31 James'S Walk, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 2   43 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 20 31 James'S Walk, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 3   2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 3   45 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 3   49 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 4   43 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 4   45 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 4   49 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 4  2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 5   2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 5   43 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q1,30%
+04/12/2013,"Apt 5 31 James'S Walk, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 6   2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 6   43 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 6 86 Reuben Street, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 7   2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 7   43 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 7   45 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 7   49 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 7 31 James'S Walk, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 8   45 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 9   43 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 9   45 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt 9   49 St. Anthony'S Road, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt. 2   2 Reuben Plaza, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+04/12/2013,"Apt. 2 31 James'S Walk, Herberton, Rialto",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+12/12/2013,"13 Grand Canal Court, Rialto, Dublin 8",Dublin,166500.0,No,Rialto,Dublin 8,q2,50%
+18/12/2013,"73 Rialto Court, Rialto, Dublin",Dublin,60000.0,No,Rialto,Dublin 8,q1,10%
+18/12/2013,"80 Rialto Cottages, Dublin 8, Dublin",Dublin,85000.0,No,Rialto,Dublin 8,q1,20%
+20/12/2013,"81 New Ireland Rd, Rialto, Dublin 8",Dublin,230000.0,No,Rialto,Dublin 8,q3,70%
+20/12/2013,"Apt 13 26, James Walk, Rialto",Dublin,138000.0,No,Rialto,Dublin 8,q2,40%
+23/12/2013,"21 Haroldville Ave, Rialto, Dublin 8",Dublin,240000.0,No,Rialto,Dublin 8,q3,70%
+23/12/2013,"Apartment 20, 26 James'S Walk  Block B, Herberton  Rialto",Dublin,154185.02,Yes,Rialto,Dublin 8,q2,50%
+10/01/2014,"24 Mallin Avenue, Rialto",Dublin,88000.0,No,Rialto,Dublin 8,q1,20%
+17/01/2014,"14 Grand Canal Court, Rialto, Dublin 8",Dublin,160000.0,No,Rialto,Dublin 8,q2,50%
+04/03/2014,"Apartment 1, 30 James Walk, Rialto",Dublin,140000.0,Yes,Rialto,Dublin 8,q2,40%
+11/03/2014,"Apartment 21, 31 St. James'S Walk, Rialto",Dublin,134000.0,No,Rialto,Dublin 8,q2,40%
+14/03/2014,"16 Carrick Terrace, Rialto, Dublin 8",Dublin,183000.0,No,Rialto,Dublin 8,q3,60%
+28/03/2014,"90 Eugene St, Rialto, Dublin 8",Dublin,86000.0,No,Rialto,Dublin 8,q1,20%
+07/04/2014,"5 Glenmalure Park, Rialto, Dublin 8",Dublin,220000.0,No,Rialto,Dublin 8,q3,70%
+17/04/2014,"20 Grand Canal Court, Herberton Road, Rialto",Dublin,140000.0,Yes,Rialto,Dublin 8,q2,40%
+17/04/2014,"27 Grand Canal Court, Herberton Road, Rialto",Dublin,140000.0,Yes,Rialto,Dublin 8,q2,40%
+01/05/2014,"Apartment 18, 29 James'S Walk Herberton, Rialto",Dublin,153303.96,Yes,Rialto,Dublin 8,q2,50%
+06/05/2014,"19 Rialto St, Rialto, Dublin",Dublin,167000.0,No,Rialto,Dublin 8,q2,50%
+09/05/2014,"31 Herberton Dr, Rialto, Dublin 12",Dublin,277001.0,No,Rialto,Dublin 8,q4,80%
+14/05/2014,"11 Eugene St, Rialto, Dublin 8",Dublin,103000.0,No,Rialto,Dublin 8,q1,20%
+22/05/2014,"70 Herberton Rd, Rialto, Dublin 12",Dublin,228000.0,No,Rialto,Dublin 8,q3,70%
+26/05/2014,"Apt 3  86 Reuben Street, Herberton, Rialto",Dublin,143612.0,Yes,Rialto,Dublin 8,q2,40%
+28/05/2014,"31 Rialto Strete, Rialto",Dublin,152000.0,No,Rialto,Dublin 8,q2,50%
+29/05/2014,"13 Glenmalure Court, Jamess Walk, Rialto Dublin 8",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+09/06/2014,"52 Rialto Cottages, Dublin 8, Dublin",Dublin,110000.0,No,Rialto,Dublin 8,q1,20%
+10/06/2014,"10 Church Ave South, Circular Rd South, Rialto Dublin 8",Dublin,270000.0,No,Rialto,Dublin 8,q4,80%
+10/06/2014,"122 Rialto Cottages, Rialto, Dublin 8",Dublin,80000.0,No,Rialto,Dublin 8,q1,20%
+10/06/2014,"26 New Ireland Rd, Rialto, Dublin 8",Dublin,210000.0,No,Rialto,Dublin 8,q3,70%
+12/06/2014,"86 New Ireland Road, Rialto",Dublin,220000.0,No,Rialto,Dublin 8,q3,70%
+19/06/2014,"Rialto Lodge, 36 Rialto Street, Rialto",Dublin,133000.0,No,Rialto,Dublin 8,q2,40%
+27/06/2014,"46 Reuben Ave, Rialto, Dublin 8",Dublin,245000.0,No,Rialto,Dublin 8,q3,80%
+01/07/2014,"14A St Anthonys Rd, Rialto, Dublin 8",Dublin,57000.0,No,Rialto,Dublin 8,q1,10%
+01/07/2014,"4 St Anthonys Rd, Rialto, Dublin 8",Dublin,88000.0,No,Rialto,Dublin 8,q1,20%
+01/07/2014,"9 St Anthonys Rd, Rialto, Dublin 8",Dublin,70000.0,No,Rialto,Dublin 8,q1,10%
+04/07/2014,"22 Rialto Court, Rialto, Dublin 8",Dublin,105000.0,No,Rialto,Dublin 8,q1,20%
+10/07/2014,"16 Mallin Ave, Rialto, Dublin 8",Dublin,187000.0,No,Rialto,Dublin 8,q3,60%
+17/07/2014,"100 Herberton Rd, Rialto, Dublin 8",Dublin,405500.0,No,Rialto,Dublin 8,q4,100%
+22/07/2014,"47 Reuben Avenue, Rialto",Dublin,80300.0,No,Rialto,Dublin 8,q1,20%
+22/07/2014,"48  49 & 48A Reuben Avene, Rialto",Dublin,240901.32,No,Rialto,Dublin 8,q3,80%
+31/07/2014,"Carrick Lodge, 13 Carrick Terrace, Rialto",Dublin,197000.0,No,Rialto,Dublin 8,q3,60%
+18/08/2014,"8 Carrick Terrace, Rialto, Dublin 8",Dublin,328000.0,No,Rialto,Dublin 8,q4,90%
+05/09/2014,"2 St Anthonys Rd, Rialto, Dublin 8",Dublin,130000.0,No,Rialto,Dublin 8,q2,40%
+22/09/2014,"18 Grand Canal Court, Rialto, Dublin 8",Dublin,215550.0,No,Rialto,Dublin 8,q3,70%
+23/09/2014,"1 Mallin Ave, St Jamess Walk, Rialto Dublin 8",Dublin,100000.0,No,Rialto,Dublin 8,q1,20%
+23/09/2014,"97 Rialto Court, Rialto, Dublin 8",Dublin,80000.0,No,Rialto,Dublin 8,q1,20%
+29/09/2014,"20 Grand Canal Court, Herberton Road, Rialto",Dublin,182000.0,No,Rialto,Dublin 8,q3,60%
+01/10/2014,"27 Grand Canal Court, Rialto, Dublin 8",Dublin,174000.0,No,Rialto,Dublin 8,q2,50%
+06/10/2014,"Church Lodge, 29 Church Avenue South, Rialto",Dublin,220000.0,No,Rialto,Dublin 8,q3,70%
+06/10/2014,"Reuben Lodge, 31 Reuben Avenue, Rialto",Dublin,230000.0,No,Rialto,Dublin 8,q3,70%
+17/10/2014,"22 Herberton Rd, Rialto, Dublin 8",Dublin,330000.0,No,Rialto,Dublin 8,q4,90%
+22/10/2014,"5 Glenmalure Park, Rialto, Dublin 8",Dublin,280000.0,No,Rialto,Dublin 8,q4,80%
+29/10/2014,"131 Rialto Cottages, Rialto St, Dublin 8",Dublin,170000.0,No,Rialto,Dublin 8,q2,50%
+31/10/2014,"171 Herberton Rd, Rialto Dublin 8, Dublin",Dublin,280000.0,No,Rialto,Dublin 8,q4,80%
+18/11/2014,"Apartment 6, 2 Herberton Street, Herberton  Rialto",Dublin,165000.0,Yes,Rialto,Dublin 8,q2,50%
+19/11/2014,"1 Mallin Ave, St Jamess Walk, Rialto Dublin 8",Dublin,135000.0,No,Rialto,Dublin 8,q2,40%
+28/11/2014,"177A Jamess St, Rialto, Dublin 8",Dublin,150000.0,No,Rialto,Dublin 8,q2,50%
+28/11/2014,"178A Jamess St, Rialto, Dublin 8",Dublin,80000.0,No,Rialto,Dublin 8,q1,20%
+28/11/2014,"178B Jamess St, Rialto, Dublin 8",Dublin,80000.0,No,Rialto,Dublin 8,q1,20%
+28/11/2014,"Apt 15, 4 Herberton St, Rialto",Dublin,118942.73,Yes,Rialto,Dublin 8,q1,20%
+17/12/2014,"5 Glenmalure Park, Rialto, Dublin 8",Dublin,323000.0,No,Rialto,Dublin 8,q4,90%
+22/12/2014,"33 Upper Cross Rd, Rialto, Dublin 8",Dublin,278000.0,No,Rialto,Dublin 8,q4,80%
+23/12/2014,"14A St Anthonys Rd, Rialto, Dublin 8",Dublin,135000.0,No,Rialto,Dublin 8,q2,40%
+09/01/2015,"40 Reuben St, Rialto, Dublin 8",Dublin,270000.0,No,Rialto,Dublin 8,q4,80%
+23/01/2015,"63 New Ireland Road, Rialto",Dublin,310000.0,No,Rialto,Dublin 8,q4,90%
+30/01/2015,"169 New Ireland Rd, Rialto, Dublin 8",Dublin,280000.0,No,Rialto,Dublin 8,q4,80%
+30/01/2015,"385 South Circular Road, Rialto, Dublin 8",Dublin,317150.0,No,Rialto,Dublin 8,q4,90%
+06/02/2015,"5 Clarkes Terrace, Rialto, Dublin 8",Dublin,160000.0,No,Rialto,Dublin 8,q2,50%
+17/02/2015,"2 Glenmalure Villas, Jame'S Walk, Rialto",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+18/02/2015,"Apt 2, 12 St Anthonys Rd, Rialto Dublin 8",Dublin,72000.0,No,Rialto,Dublin 8,q1,10%
+28/03/2015,"4 Grand Canal Court, Rialto, Dublin 8",Dublin,143200.0,No,Rialto,Dublin 8,q2,40%
+28/03/2015,"5 Grand Canal Court, Rialto, Dublin 8",Dublin,143200.0,No,Rialto,Dublin 8,q2,40%
+28/03/2015,"6 Grand Canal Court, Rialto, Dublin 8",Dublin,143200.0,No,Rialto,Dublin 8,q2,40%
+28/03/2015,"7 Grand Canal Court, Rialto, Dublin 8",Dublin,143200.0,No,Rialto,Dublin 8,q2,40%
+28/03/2015,"8 Grand Canal Court, Rialto, Dublin 8",Dublin,143200.0,No,Rialto,Dublin 8,q2,40%
+07/04/2015,"71 Rialto Cottages, Rialto, Dublin 8",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+13/04/2015,"57 Herberton Park, Rialto",Dublin,340000.0,No,Rialto,Dublin 8,q4,90%
+14/04/2015,"154 Dolphin Road, Rialto, Dublin 12",Dublin,201000.0,No,Rialto,Dublin 8,q3,60%
+07/05/2015,"36 Rialto Street, Rialto",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+08/05/2015,"115 New Ireland Rd, Rialto, Dublin 8",Dublin,295000.0,No,Rialto,Dublin 8,q4,90%
+11/06/2015,"16 Rialto Cottages, Rialto, Dublin 8",Dublin,156000.0,No,Rialto,Dublin 8,q2,50%
+01/07/2015,"8 O'Donovan Road, Rialto, Dublin 8",Dublin,297750.0,No,Rialto,Dublin 8,q4,90%
+13/07/2015,"30 Dolphin Rd, Rialto, Dublin",Dublin,265000.0,No,Rialto,Dublin 8,q4,80%
+17/07/2015,"38 Herberton Road, Rialto, Dublin 8",Dublin,258000.0,No,Rialto,Dublin 8,q4,80%
+27/07/2015,"149 Rialto Cottages, Rialto, Dublin 8",Dublin,197000.0,No,Rialto,Dublin 8,q3,60%
+27/07/2015,"Apartment 3, 4 Hereberton Street, Rialto",Dublin,140000.0,Yes,Rialto,Dublin 8,q2,40%
+29/07/2015,"8 Rialto Street, Dublin 8",Dublin,175000.0,No,Rialto,Dublin 8,q2,50%
+04/08/2015,"128 Rialto Cottages, Rialto, Dublin 8",Dublin,137000.0,No,Rialto,Dublin 8,q2,40%
+26/08/2015,"18 Glenmalure Court, St James Walk, Rialto",Dublin,145000.0,No,Rialto,Dublin 8,q2,40%
+03/09/2015,"70 Jamess Walk, Rialto, Dublin",Dublin,50000.0,No,Rialto,Dublin 8,q1,10%
+04/09/2015,"22 Glenmalure Park, Rialto, Dublin",Dublin,420000.0,No,Rialto,Dublin 8,q4,100%
+07/09/2015,"71 James Walk, Rialto, Dublin 8",Dublin,50000.0,No,Rialto,Dublin 8,q1,10%
+09/09/2015,"34 Reuben St, Rialto, Dublin 8",Dublin,333000.0,No,Rialto,Dublin 8,q4,90%
+25/09/2015,"147 Rialto Cottages, Rialto, Dublin 8",Dublin,165000.0,No,Rialto,Dublin 8,q2,50%
+29/09/2015,"85 Rialto Court, Rialto St, Rialto Dublin 8",Dublin,153000.0,No,Rialto,Dublin 8,q2,50%
+01/10/2015,"158 Rialto Cottages, Rialto, Dublin 8",Dublin,165000.0,No,Rialto,Dublin 8,q2,50%
+02/10/2015,"Apt. 26  2 Herberton Street, Rialto",Dublin,180616.74,Yes,Rialto,Dublin 8,q3,60%
+15/10/2015,"65  New Ireland Road, Rialto, Dublin 8.",Dublin,291000.0,No,Rialto,Dublin 8,q4,90%
+21/10/2015,"137 New Ireland Rd, Rialto, Dublin 8",Dublin,298500.0,No,Rialto,Dublin 8,q4,90%
+22/10/2015,"6 Rialto St, Dublin 8, Dublin",Dublin,80000.0,No,Rialto,Dublin 8,q1,20%
+06/11/2015,"10 Grand Canal Court, Rialto, Dublin 8",Dublin,237540.0,No,Rialto,Dublin 8,q3,70%
+12/11/2015,"53 Upper Cross Rd, Rialto, Dublin 8",Dublin,165000.0,No,Rialto,Dublin 8,q2,50%
+20/11/2015,"4 St Anthonys Rd, Rialto, Dublin 8",Dublin,278500.0,No,Rialto,Dublin 8,q4,80%
+25/11/2015,"52 New Ireland Road, Rialto",Dublin,280000.0,No,Rialto,Dublin 8,q4,80%
+18/12/2015,"119 Rialto Cottages, Rialto, Dublin 8",Dublin,95000.0,No,Rialto,Dublin 8,q1,20%
+07/01/2016,"18 Glenmalure Park, Circular Rd South, Rialto",Dublin,330000.0,No,Rialto,Dublin 8,q4,90%
+29/01/2016,"48 Rialto Court, Rialto, Dublin 8",Dublin,90000.0,No,Rialto,Dublin 8,q1,20%
+31/03/2016,"Apartment No. 5, 4 Herberton Road, Rialto",Dublin,190000.0,No,Rialto,Dublin 8,q3,60%
+08/04/2016,"89 Rialto Cottages, Rialto, Dublin 8",Dublin,215000.0,No,Rialto,Dublin 8,q3,70%
+12/04/2016,"24 Rialto St, Dublin 8, Dublin",Dublin,350000.0,No,Rialto,Dublin 8,q4,90%
+13/05/2016,"Apt 1   9 St Anthonys Rd, Rialto, Dublin 8",Dublin,230000.0,No,Rialto,Dublin 8,q3,70%
+17/05/2016,"46 Church Ave South, Rialto, Dublin 8",Dublin,350000.0,No,Rialto,Dublin 8,q4,90%
+19/05/2016,"4 Church Ave South, Rialto, Dublin 8",Dublin,330000.0,No,Rialto,Dublin 8,q4,90%
+31/05/2016,"101 Rialto Cotts, South C Rd, Dublin 8",Dublin,171000.0,No,Rialto,Dublin 8,q2,50%
+31/05/2016,"26 Reuben St, Rialto, Dublin 8",Dublin,350000.0,No,Rialto,Dublin 8,q4,90%
+09/06/2016,"3 New Ireland Court, New Ireland Road, Rialto",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+24/06/2016,"395 South Circular Rd, Rialto, Dublin 8",Dublin,276601.0,No,Rialto,Dublin 8,q4,80%
+14/07/2016,"65, Saint James Walk, Rialto Dublin 8",Dublin,140000.0,No,Rialto,Dublin 8,q2,40%
+15/07/2016,"78 Rialto Court, Rialto, Dublin 8",Dublin,130000.0,No,Rialto,Dublin 8,q2,40%
+09/08/2016,"100 New Ireland Rd, Rialto, Dublin 8",Dublin,299950.0,No,Rialto,Dublin 8,q4,90%
+22/08/2016,"18 Rialto Court, Dublin 8, Dublin",Dublin,161000.0,No,Rialto,Dublin 8,q2,50%
+25/08/2016,"54 Reuben Ave, Rialto, Dublin 8",Dublin,251000.0,No,Rialto,Dublin 8,q3,80%
+26/08/2016,"5 Church Ave South, Rialto, Dublin 8",Dublin,361000.0,No,Rialto,Dublin 8,q4,90%
+01/09/2016,"108 Rialto Court, Rialto, Dublin 8",Dublin,97500.0,No,Rialto,Dublin 8,q1,20%
+07/09/2016,"57 Rialto Cottages, Rialto, Dublin 8",Dublin,173000.0,No,Rialto,Dublin 8,q2,50%
+21/10/2016,"Unit 6 6 St.Anthony'S Road, Rialto, Dublin 8",Dublin,235000.0,No,Rialto,Dublin 8,q3,70%
+28/10/2016,"11 St Anthonys Road, Rialto, Dublin 8",Dublin,230000.0,No,Rialto,Dublin 8,q3,70%
+04/11/2016,"11 Church Ave, Rialto, Dublin 8",Dublin,298000.0,No,Rialto,Dublin 8,q4,90%
+08/11/2016,"38 Herberton Dr, Rialto, Dublin",Dublin,325000.0,No,Rialto,Dublin 8,q4,90%
+25/11/2016,"129 Rialto Cottages, Dublin 8, Dublin",Dublin,165000.0,No,Rialto,Dublin 8,q2,50%
+25/11/2016,"47 Reuben Avenue, Rialto, Dublin 8",Dublin,735000.0,No,Rialto,Dublin 8,q4,100%
+06/12/2016,"Apt 3 82 Reuben St Rialto, Dublin 8, Dublin",Dublin,172000.0,No,Rialto,Dublin 8,q2,50%
+19/12/2016,"3 Rialto St, Rialto, Dublin 8",Dublin,165000.0,No,Rialto,Dublin 8,q2,50%
+21/12/2016,"51 Rialto Court, Rialto St, Rialto Dublin 8",Dublin,153000.0,No,Rialto,Dublin 8,q2,50%
+12/01/2017,"123 New Ireland Rd, Rialto, Dublin 8",Dublin,359000.0,No,Rialto,Dublin 8,q4,90%
+20/02/2017,"496 South Circular Rd, Rialto, Dublin 8",Dublin,428000.0,No,Rialto,Dublin 8,q4,100%
+02/03/2017,"No 43 Rialto Cottages, Rialto, Dublin 8",Dublin,211500.0,No,Rialto,Dublin 8,q3,70%
+09/03/2017,"12 Portmahon Dr, Rialto, Dublin 8",Dublin,324000.0,No,Rialto,Dublin 8,q4,90%
+31/03/2017,"Apt 8 31 St Jamess Walk, Rialto, Dublin 8",Dublin,200000.0,No,Rialto,Dublin 8,q3,60%
+26/04/2017,"36 Church Ave South, Rialto, Dublin 8",Dublin,400000.0,No,Rialto,Dublin 8,q4,100%
+27/04/2017,"2 Colberts Fort, Rialto, Dublin 8",Dublin,205000.0,No,Rialto,Dublin 8,q3,60%
+10/05/2017,"101 Rialto Cotts, South C Rd, Dublin 8",Dublin,305000.0,No,Rialto,Dublin 8,q4,90%
+19/05/2017,"108 Rialto Cottages, Dublin 8, Dublin",Dublin,213000.0,No,Rialto,Dublin 8,q3,70%
+19/05/2017,"3 Rialto St, Rialto, Dublin 8",Dublin,172500.0,No,Rialto,Dublin 8,q2,50%
+02/06/2017,"135 Rialto Cottages, Rialto, Dublin 8",Dublin,257500.0,No,Rialto,Dublin 8,q4,80%
+13/06/2017,"29 Rialto Cottages, Rialto, Dublin 8",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+22/06/2017,"Carrick Lodge, 13 Carrick Terrace, Rialto",Dublin,372500.0,No,Rialto,Dublin 8,q4,100%
+28/06/2017,"28 Rialto Court, Dublin 8, Dublin",Dublin,197000.0,No,Rialto,Dublin 8,q3,60%
+28/07/2017,"Apt 6, 6 Reuben Plaza, Rialto Dublin 8",Dublin,315000.0,No,Rialto,Dublin 8,q4,90%
+02/08/2017,"20 Glenmalure Court, Rialto, Dublin 8",Dublin,175000.0,No,Rialto,Dublin 8,q3,60%
+04/08/2017,"12 Rialto Court, Rialto, Dublin",Dublin,127500.0,No,Rialto,Dublin 8,q2,40%
+28/08/2017,"121 New Ireland Rd, Rialto, Dublin 8",Dublin,475000.0,No,Rialto,Dublin 8,q4,100%
+30/08/2017,"Apt 4, 31 St James Walk, Rialto",Dublin,285000.0,No,Rialto,Dublin 8,q4,90%
+05/09/2017,"55 New Ireland Rd, Rialto, Dublin 8",Dublin,385000.0,No,Rialto,Dublin 8,q4,100%
+21/09/2017,"3 Brookfield Court, Rialto Dublin 8, Dublin",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+02/10/2017,"29 Reuben Street, Rialto, Dublin 8",Dublin,388000.0,No,Rialto,Dublin 8,q4,100%
+06/10/2017,"131 Herberton Rd, Rialto, Dublin 8",Dublin,440000.0,No,Rialto,Dublin 8,q4,100%
+23/10/2017,"38 Rialto Court, Rialto, Dublin 8",Dublin,180000.0,No,Rialto,Dublin 8,q3,60%
+24/10/2017,"79 New Ireland Rd, Rialto, Dublin 8",Dublin,450000.0,No,Rialto,Dublin 8,q4,100%
+26/10/2017,"3 New Ireland Rd, Rialto, Dublin 8",Dublin,396000.0,No,Rialto,Dublin 8,q4,100%
+09/11/2017,"77 Rialto Buildings, Rialto, Dublin 8",Dublin,115000.0,No,Rialto,Dublin 8,q1,20%
+15/11/2017,"157 New Ireland Rd, Rialto, Dublin 8",Dublin,455000.0,No,Rialto,Dublin 8,q4,100%
+06/12/2017,"Top Floor 14 Haroldville Ave, Dolphins Barn, Rialto Dublin 8",Dublin,388000.0,No,Rialto,Dublin 8,q4,100%
+08/12/2017,"5 Upper Cross Rd, Rialto, Dublin 8",Dublin,555000.0,No,Rialto,Dublin 8,q4,100%
+08/12/2017,"93A New Ireland Road, Rialto, Dublin 8",Dublin,485000.0,No,Rialto,Dublin 8,q4,100%
+13/12/2017,"Apt 5, 29 Jamess Walk, Rialto Dublin 8",Dublin,310000.0,No,Rialto,Dublin 8,q4,90%
+18/12/2017,"Apt 9 Block D, 80 Reuben Street, Rialto",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+22/12/2017,"Apt 6, 45 St Anthony Rd, Rialto Dublin 8",Dublin,300000.0,No,Rialto,Dublin 8,q4,90%
+29/12/2017,"14 St Anthony'S Road, Rialto, Dublin 8",Dublin,215000.0,No,Rialto,Dublin 8,q3,70%
+29/12/2017,"8 St Anthonys Rd, Rialto, Dublin 8",Dublin,215000.0,No,Rialto,Dublin 8,q3,70%
+18/01/2018,"49 Herberton Dr, Rialto, Dublin 8",Dublin,430000.0,No,Rialto,Dublin 8,q4,100%
+31/01/2018,"30 Reuben St, Rialto, Dublin 8",Dublin,380000.0,No,Rialto,Dublin 8,q4,100%
+07/02/2018,"66 Rialto Cottages, Dublin 8, Dublin",Dublin,120000.0,No,Rialto,Dublin 8,q2,30%
+06/03/2018,"13 Herberton Drive, Rialto, Dublin 12",Dublin,505000.0,No,Rialto,Dublin 8,q4,100%
+07/03/2018,"110 New Ireland Rd, Rialto, Dublin 8",Dublin,375000.0,No,Rialto,Dublin 8,q4,100%
+21/03/2018,"99 Rialto Buildings, Rialto, Dublin",Dublin,156750.0,No,Rialto,Dublin 8,q2,50%
+22/03/2018,"Apt 25, 29 Jamess Walk, Rialto Dublin 8",Dublin,238000.0,No,Rialto,Dublin 8,q3,70%
+29/03/2018,"90 Eugene St, Rialto, Dublin 8",Dublin,266000.0,No,Rialto,Dublin 8,q4,80%
+10/04/2018,"37 Rialto Court, Dublin 8",Dublin,200000.0,No,Rialto,Dublin 8,q3,60%
+17/05/2018,"39 Rueben Ave, Rialto, Dublin 8",Dublin,360000.0,No,Rialto,Dublin 8,q4,90%
+18/05/2018,"Apt 10 4 Herberton St, Rialto, Dublin 8",Dublin,295000.0,No,Rialto,Dublin 8,q4,90%
+18/05/2018,"Unit 11 Apt 11, Herberton, 26James Walk Rialto",Dublin,238000.0,No,Rialto,Dublin 8,q3,70%
+25/05/2018,"114 Rialto Cottages, Rialto, Dublin 8",Dublin,316000.0,No,Rialto,Dublin 8,q4,90%
+25/05/2018,"44 Reuben St, Rialto, Dublin 8",Dublin,466000.0,No,Rialto,Dublin 8,q4,100%
+06/06/2018,"44 Rialto Cottages, South Circular Road, Rialto",Dublin,240000.0,No,Rialto,Dublin 8,q3,80%
+18/06/2018,"36 New Ireland Rd, Rialto, Dublin 8",Dublin,515000.0,No,Rialto,Dublin 8,q4,100%
+16/07/2018,"40 Reuben St, Rialto, Dublin 8",Dublin,510000.0,No,Rialto,Dublin 8,q4,100%
+18/07/2018,"19 Herberton Walk, Rialto, Dublin 8",Dublin,370000.0,No,Rialto,Dublin 8,q4,90%
+24/07/2018,"3 Haroldville Ave, Circular Rd South, Rialto Dublin 8",Dublin,380000.0,No,Rialto,Dublin 8,q4,100%
+13/08/2018,"19 Mallin Ave, Rialto, Dublin",Dublin,175000.0,No,Rialto,Dublin 8,q3,60%
+13/08/2018,"41 Rialto Court, Rialto St, Rialto Dublin 8",Dublin,226000.0,No,Rialto,Dublin 8,q3,70%
+16/08/2018,"106 Rialto Cottages, Rialto, Dublin 8",Dublin,287000.0,No,Rialto,Dublin 8,q4,90%
+27/08/2018,"115 New Ireland Rd, Rialto, Dublin 8",Dublin,505000.0,No,Rialto,Dublin 8,q4,100%
+06/09/2018,"86 Jamess Walk, Rialto, Dublin 8",Dublin,460000.0,No,Rialto,Dublin 8,q4,100%
+11/09/2018,"116 New Ireland Rd, Rialto, Dublin 8",Dublin,495000.0,No,Rialto,Dublin 8,q4,100%
+12/09/2018,"60 Rialto Cottages, Rialto, Dublin 8",Dublin,223000.0,No,Rialto,Dublin 8,q3,70%
+21/09/2018,"Apt 16, 4 Herberton St, Rialto Dublin 8",Dublin,300000.0,No,Rialto,Dublin 8,q4,90%
+24/09/2018,"39 Rialto Cottages, Rialto, Dublin8",Dublin,275000.0,No,Rialto,Dublin 8,q4,80%
+03/10/2018,"51 Upper Cross Rd, Rialto, Dublin 8",Dublin,542000.0,No,Rialto,Dublin 8,q4,100%
+04/10/2018,"Unit 3 3 Carrick Terrace, South Circular Rd, Rialto Dublin 8",Dublin,420000.0,No,Rialto,Dublin 8,q4,100%
+09/10/2018,"25 Church Ave, South Rialto, Dublin City",Dublin,420000.0,No,Rialto,Dublin 8,q4,100%
+12/10/2018,"39 Herberton Dr, Rialto, Dublin 12",Dublin,420000.0,No,Rialto,Dublin 8,q4,100%
+19/10/2018,"Apt 11, 86 Reuben St, Rialto Dublin 8",Dublin,238800.0,No,Rialto,Dublin 8,q3,70%
+25/10/2018,"117 New Ireland Rd, Rialto, Dublin 8",Dublin,455000.0,No,Rialto,Dublin 8,q4,100%
+30/10/2018,"19 Herberton Dr, Rialto, Dublin 12",Dublin,480000.0,No,Rialto,Dublin 8,q4,100%
+12/11/2018,"5 Herberton Park, Rialto, Dublin 8",Dublin,527500.0,No,Rialto,Dublin 8,q4,100%
+29/11/2018,"2 Colberts Fort, Rialto, Dublin 8",Dublin,375000.0,No,Rialto,Dublin 8,q4,100%
+13/12/2018,"135 Herberton Rd, Rialto, Dublin 8",Dublin,320000.0,No,Rialto,Dublin 8,q4,90%
+20/12/2018,"18 Grand Canal Court, Rialto, Dublin 8",Dublin,370000.0,No,Rialto,Dublin 8,q4,90%
+07/02/2019,"46 Rialto Court, Rialto St, Rialto Dublin 8",Dublin,170000.0,No,Rialto,Dublin 8,q2,50%
+12/02/2019,"47 Herberton Dr, Rialto, Dublin 8",Dublin,443000.0,No,Rialto,Dublin 8,q4,100%
+14/02/2019,"24 Church Ave, Rialto, Dublin 8",Dublin,425000.0,No,Rialto,Dublin 8,q4,100%
+15/02/2019,"97 Rialto Court, Rialto, Dublin 8",Dublin,185000.0,No,Rialto,Dublin 8,q3,60%
+18/02/2019,"54 Rialto Cottages, Rialto, Dublin 8",Dublin,257000.0,No,Rialto,Dublin 8,q4,80%
+21/02/2019,"24 Rialto Court, Rialto St, Dublin 8",Dublin,195000.0,No,Rialto,Dublin 8,q3,60%
+07/03/2019,"12 Rialto Cottages, Rialto, Dublin 8",Dublin,347500.0,No,Rialto,Dublin 8,q4,90%
+20/03/2019,"127 Rialto Cottages, Circular Rd South, Dublin 8",Dublin,225000.0,No,Rialto,Dublin 8,q3,70%
+10/04/2019,"55 Rialto Court, Dublin 8",Dublin,180000.0,No,Rialto,Dublin 8,q3,60%
+16/04/2019,"24 Tandy Court, Rialto, Dublin 8",Dublin,200000.0,No,Rialto,Dublin 8,q3,60%
+10/05/2019,"47 Rialto Cottages, Rialto, Dublin 8",Dublin,302000.0,No,Rialto,Dublin 8,q4,90%
+31/05/2019,"30 Rialto St, Rialto, Dublin 8",Dublin,286000.0,No,Rialto,Dublin 8,q4,90%
+06/06/2019,"33 Haroldville Ave, Rialto, Dublin 8",Dublin,450000.0,No,Rialto,Dublin 8,q4,100%
+19/06/2019,"10 Grand Canal Court, Rialto, Dublin 8",Dublin,370000.0,No,Rialto,Dublin 8,q4,100%
+20/06/2019,"Units 1  2 & 3 Carrick Terrace, South Circular Road, Rialto",Dublin,600000.0,Yes,Rialto,Dublin 8,q4,100%
+28/06/2019,"15 Mallin Ave, Rialto, Dublin",Dublin,347500.0,No,Rialto,Dublin 8,q4,90%
+12/07/2019,"16 Grand Canal Court, Herberton Rd, Rialto Dublin 8",Dublin,310000.0,No,Rialto,Dublin 8,q4,90%
+16/07/2019,"25 Saint James Walk, Rialto, Dublin 8",Dublin,235000.0,No,Rialto,Dublin 8,q3,70%
+26/07/2019,"13 Rialto Cottages, Rialto, Dublin 8",Dublin,285000.0,No,Rialto,Dublin 8,q4,90%
+01/08/2019,"59 Rialto Court, Rialto, Dublin 8",Dublin,207000.0,No,Rialto,Dublin 8,q3,70%
+22/08/2019,"26 Herberton Rd, Rialto, Dublin 8",Dublin,450000.0,No,Rialto,Dublin 8,q4,100%
+30/08/2019,"1 Brookfield Court, Rialto, Dublin 8",Dublin,250000.0,No,Rialto,Dublin 8,q3,80%
+06/09/2019,"31 Herberton Dr, Rialto, Dublin 12",Dublin,447000.0,No,Rialto,Dublin 8,q4,100%
+12/09/2019,"3 Haroldville Ave, Circular Rd South, Rialto Dublin 8",Dublin,430000.0,No,Rialto,Dublin 8,q4,100%
+17/09/2019,"58 Rialto Cottages, Rialto, Dublin 8",Dublin,308000.0,No,Rialto,Dublin 8,q4,90%
+17/09/2019,"62 Rialto Court, Rialto St, Dublin 8",Dublin,160000.0,No,Rialto,Dublin 8,q2,50%
+23/09/2019,"9 Rialto St, Dublin 8, Dublin",Dublin,355000.0,No,Rialto,Dublin 8,q4,90%

@@ -1,0 +1,133 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+21/01/2010,"193 Holywell, Upper Kilmacud Road",Dublin,455000.0,No,Kilmacud,Dublin 14,q2,50%
+23/03/2010,"6 Rathmore Avenue, Kilmacud",Dublin,395000.0,No,Kilmacud,Dublin 14,q2,30%
+01/04/2010,"37 Hazelbrook, Upper Kilmacud Road, Dublin 14",Dublin,250000.0,Yes,Kilmacud,Dublin 14,q1,20%
+20/04/2010,"Apartment No. 5 Hazelbrook, Kilmacud Road Upper, Dublin",Dublin,259911.89,Yes,Kilmacud,Dublin 14,q1,20%
+02/07/2010,"19 Hazelbrook, Upper Kilmacud Park",Dublin,264317.18,Yes,Kilmacud,Dublin 14,q1,20%
+30/07/2010,"208 Holywell, Upper Kilmacud Road",Dublin,1090000.0,No,Kilmacud,Dublin 14,q4,100%
+30/07/2010,"Apt 29, Hazelbrook, Upper Kilmacud Rd.",Dublin,400000.0,No,Kilmacud,Dublin 14,q2,40%
+19/08/2010,"36 Hazelbrook, Upper Kilmacud Road, Co. Dublin",Dublin,308370.04,Yes,Kilmacud,Dublin 14,q1,20%
+20/08/2010,"146 Holywell, Upper Kilmacud Road, Dublin 14",Dublin,530000.0,No,Kilmacud,Dublin 14,q3,60%
+28/09/2010,"53 Holywell, Upper Kilmacud Road",Dublin,530000.0,No,Kilmacud,Dublin 14,q3,60%
+03/12/2010,"1 Sweetbriar Lane, Kilmacud",Dublin,505000.0,No,Kilmacud,Dublin 14,q3,60%
+16/12/2010,"44B  The Beeches, Holywell, Upper Kilmacud Road",Dublin,540625.0,Yes,Kilmacud,Dublin 14,q3,70%
+17/12/2010,"9 Drumahill, Kilmacud Road Upper",Dublin,955000.0,No,Kilmacud,Dublin 14,q4,100%
+07/01/2011,"46 Woodley Park, Kilmacud, Dublin",Dublin,523000.0,No,Kilmacud,Dublin 14,q3,60%
+07/01/2011,"46 Woodley Park, Kilmacud, Dublin",Dublin,523000.0,No,Kilmacud,Dublin 14,q3,60%
+03/02/2011,"55 Lakelands Close, Kilmacud",Dublin,380000.0,No,Kilmacud,Dublin 14,q2,30%
+21/02/2011,"30 Woodley Park, Kilmacud",Dublin,455000.0,No,Kilmacud,Dublin 14,q2,50%
+03/03/2011,"25 Holywell, Upper Kilmacud Road, Dublin 14",Dublin,500000.0,No,Kilmacud,Dublin 14,q2,50%
+22/03/2011,"43B Holywell, Upper Kilmacud Road, Kilmacud",Dublin,585903.08,Yes,Kilmacud,Dublin 14,q3,80%
+01/06/2011,"12 Sweetbriar Lane, Kilmacud, Dublin 14",Dublin,445000.0,No,Kilmacud,Dublin 14,q2,40%
+16/06/2011,"44 Holywell, Upper Kilmacud Road, Kilmacud",Dublin,480000.0,No,Kilmacud,Dublin 14,q2,50%
+04/07/2011,"201 Holywell, Kilmacud Road Upper",Dublin,375000.0,No,Kilmacud,Dublin 14,q2,30%
+24/08/2011,"171 Holywell, Upper Kilmacud Road, Dublin 14",Dublin,462500.0,No,Kilmacud,Dublin 14,q2,50%
+25/08/2011,"90 Marsham Court, Kilmacud, County Dublin",Dublin,350000.0,No,Kilmacud,Dublin 14,q1,30%
+01/09/2011,"15 Annville Drive, Kilmacud",Dublin,380000.0,No,Kilmacud,Dublin 14,q2,30%
+03/10/2011,"2 Drummartin Road, Kilmacud, D",Dublin,390000.0,No,Kilmacud,Dublin 14,q2,30%
+05/03/2012,"Apartment 6, Hazelbrook, Upper Kilmacud Road",Dublin,215859.0,Yes,Kilmacud,Dublin 14,q1,10%
+09/03/2012,"31 Hazelbrook, Upper Kilmacud Road, Dublin 14",Dublin,185975.0,Yes,Kilmacud,Dublin 14,q1,10%
+04/04/2012,"29 Woodley Park, Kilmacud",Dublin,416500.0,No,Kilmacud,Dublin 14,q2,40%
+04/04/2012,"51 Hazelbrook, Upper Kilmacud Road",Dublin,225000.0,No,Kilmacud,Dublin 14,q1,10%
+09/05/2012,"199 Holywell, Upper Kilmacud Road",Dublin,450000.0,No,Kilmacud,Dublin 14,q2,40%
+10/05/2012,"44 Holywell, Kilmacud",Dublin,525000.0,No,Kilmacud,Dublin 14,q3,60%
+18/05/2012,"91 Woodley Park, Kilmacud, Dublin 14",Dublin,343000.0,No,Kilmacud,Dublin 14,q1,30%
+20/07/2012,"101 Holywell, Upper Kilmacud Road, Dublin 14",Dublin,485000.0,No,Kilmacud,Dublin 14,q2,50%
+10/08/2012,"Apt 8, Dromartin Castle, Kilmacud Road",Dublin,235000.0,No,Kilmacud,Dublin 14,q1,10%
+24/08/2012,"70 Holywell, Upper Kilmacud Road, Dundum",Dublin,440000.0,No,Kilmacud,Dublin 14,q2,40%
+29/08/2012,"10 Hazelbrook, Upper Kilmacud Road",Dublin,230000.0,No,Kilmacud,Dublin 14,q1,10%
+10/10/2012,"82 Slieve Rua Drive, Kilmacud",Dublin,150000.0,No,Kilmacud,Dublin 14,q1,10%
+19/10/2012,"Apt 26 Hazelbrook, Upper Kilmacud Road",Dublin,240750.0,No,Kilmacud,Dublin 14,q1,10%
+24/10/2012,"75 Holywell, Upper Kilmacud Road, Kilmacud",Dublin,396000.0,No,Kilmacud,Dublin 14,q2,40%
+19/11/2012,"Apartment No. 27, Hazelbrook Uppr Kilmacud Road, Co. Dublin",Dublin,234000.0,No,Kilmacud,Dublin 14,q1,10%
+05/12/2012,"63A Holywell, Upper Kilmacud Road",Dublin,875000.0,No,Kilmacud,Dublin 14,q4,100%
+06/12/2012,"34 Hazel Avenue, Kilmacud",Dublin,358000.0,No,Kilmacud,Dublin 14,q1,30%
+14/12/2012,"38 Hazelbrook, Upper Kilmacud Road, Kilmacud",Dublin,240000.0,No,Kilmacud,Dublin 14,q1,10%
+25/02/2013,"61 Woodley Park, Kilmacud",Dublin,308000.0,No,Kilmacud,Dublin 14,q1,20%
+12/08/2013,"56 Woodley Park, Kilmacud, Dublin 14",Dublin,395500.0,No,Kilmacud,Dublin 14,q2,40%
+30/08/2013,"44A Holywell, Upper Kilmacud Road",Dublin,710000.0,No,Kilmacud,Dublin 14,q4,100%
+02/09/2013,"96 Holywell, Upper Kilmacud Road",Dublin,495000.0,No,Kilmacud,Dublin 14,q2,50%
+30/09/2013,"Apt. 40 Hazelbrook, Upper Kilmacud Road",Dublin,247000.0,No,Kilmacud,Dublin 14,q1,20%
+11/10/2013,"43A The Beeches, Holywell, Upper Kilmacud Road",Dublin,705000.0,No,Kilmacud,Dublin 14,q4,100%
+25/10/2013,"3 Woodley Park, Kilmacud, Dublin 14",Dublin,439000.0,No,Kilmacud,Dublin 14,q2,40%
+20/11/2013,"37 Hazelbrook, Upper Kilmacud Road",Dublin,195000.0,No,Kilmacud,Dublin 14,q1,10%
+12/12/2013,"15 Hazelbrook, Upper Kilmacud Rd, Dublin 14",Dublin,275000.0,No,Kilmacud,Dublin 14,q1,20%
+19/12/2013,"172 Holywell, Kilmacud Rd Upper, Dublin 14",Dublin,465000.0,No,Kilmacud,Dublin 14,q2,50%
+19/12/2013,"36 Woodley Park, Kilmacud, Dublin 14",Dublin,370000.0,No,Kilmacud,Dublin 14,q1,30%
+27/01/2014,"Elmville, Upper Kilmacud Road, Dublin 14",Dublin,335000.0,No,Kilmacud,Dublin 14,q1,20%
+12/03/2014,"3 Hazelbrook, Upper Kilmacud Rd, Dublin 14",Dublin,253500.0,No,Kilmacud,Dublin 14,q1,20%
+12/05/2014,"85 Mount Anville Wood, Lower Kilmacud Road, Kilmacud",Dublin,550000.0,No,Kilmacud,Dublin 14,q3,70%
+16/05/2014,"45 Holywell, Kilmacud Rd Upper, Dublin 14",Dublin,500000.0,No,Kilmacud,Dublin 14,q3,60%
+04/06/2014,"28 Hazelbrook, Upper Kilmacud Rd, Dublin 14",Dublin,300000.0,No,Kilmacud,Dublin 14,q1,20%
+10/09/2014,"40 Drummartin Park, Kilmacud, Dublin 14",Dublin,480000.0,No,Kilmacud,Dublin 14,q2,50%
+23/09/2014,"19 Drummartin Park, Kilmacud, Dublin 14",Dublin,608000.0,No,Kilmacud,Dublin 14,q4,80%
+29/09/2014,"40 Sweet Briar Lane, Kilmacud, Dublin 14",Dublin,565000.0,No,Kilmacud,Dublin 14,q3,70%
+03/10/2014,"164 Holywell, Kilmacud Rd Upper, Dublin 14",Dublin,640000.0,No,Kilmacud,Dublin 14,q4,90%
+15/10/2014,"1 The Beeches, Holywell, Kilmacud Rd Upper Dublin 14",Dublin,860000.0,No,Kilmacud,Dublin 14,q4,100%
+24/10/2014,"40 Whateley Place, Upper Kilmacud Rd, Stilorgan",Dublin,322000.0,No,Kilmacud,Dublin 14,q1,20%
+28/11/2014,"25 Hazelbrook, Kilmacud Road, Dublin 14",Dublin,230000.0,No,Kilmacud,Dublin 14,q1,10%
+17/12/2014,"33 Holywell, Kilmacud Rd Upper, Dublin 14",Dublin,588000.0,No,Kilmacud,Dublin 14,q3,80%
+22/12/2014,"119 Lower Kilmacud Road, Kilmacud, County Dublin",Dublin,576500.0,No,Kilmacud,Dublin 14,q3,70%
+03/01/2015,"46 Holywell, Upr Kilmacud Rd, Dublin 14",Dublin,592000.0,No,Kilmacud,Dublin 14,q3,80%
+27/03/2015,"24 Mount Anville Wood, Lower Kilmacud Rd, Dublin 14",Dublin,500000.0,No,Kilmacud,Dublin 14,q3,60%
+09/04/2015,"61 Woodley Park, Kilmacud, Dublin 14",Dublin,450000.0,No,Kilmacud,Dublin 14,q2,40%
+24/04/2015,"25 Hazel Avenue, Kilmacud, Stillorglin",Dublin,463000.0,No,Kilmacud,Dublin 14,q2,50%
+11/05/2015,"54 Whatley Place, Kilmacud Road Upper, Sillorgan",Dublin,300000.0,No,Kilmacud,Dublin 14,q1,20%
+26/05/2015,"Apt 1, Allenpark Lane, Kilmacud Rd",Dublin,225000.0,No,Kilmacud,Dublin 14,q1,10%
+22/06/2015,"37 Whately Place, Upr. Kilmacud Road",Dublin,400000.0,No,Kilmacud,Dublin 14,q2,40%
+24/07/2015,"34 Woodley Park, Kilmacud, Dublin 14",Dublin,525000.0,No,Kilmacud,Dublin 14,q3,60%
+22/10/2015,"1 Drumahill, Kilmacud Rd Upper, Dublin 14",Dublin,438000.0,No,Kilmacud,Dublin 14,q2,40%
+13/11/2015,"11 Mount Anville Wood, Kilmacud, Dublin 14",Dublin,682500.0,No,Kilmacud,Dublin 14,q4,90%
+11/01/2016,"23 Lakelands Dr, Kilmacud Rd Upper, Dublin",Dublin,540000.0,No,Kilmacud,Dublin 14,q3,70%
+21/01/2016,"19 Hazelbrook, Upper Kilmacud Park, Dublin",Dublin,340000.0,No,Kilmacud,Dublin 14,q1,30%
+25/01/2016,"180 Lower Kilmacud Road, Dublin 14",Dublin,530000.0,No,Kilmacud,Dublin 14,q3,70%
+27/01/2016,"47 Holywell, Kilmacud Rd Upper, Dublin 14",Dublin,500000.0,No,Kilmacud,Dublin 14,q3,60%
+26/05/2016,"91 Holywell, Upper Kilmacud Road, Dublin 14",Dublin,585000.0,No,Kilmacud,Dublin 14,q3,70%
+13/06/2016,"18 Woodthorpe, Coolnevaun, Kilmacud Rd Upper",Dublin,200000.0,No,Kilmacud,Dublin 14,q1,10%
+22/07/2016,"49 Hazelbrook, Kilmacud Rd Upper, Stilorgan Dublin 14",Dublin,320000.0,No,Kilmacud,Dublin 14,q1,20%
+29/07/2016,"18 Mount Anville Wood, Lr Kilmacud Rd, Dublin 14",Dublin,620000.0,No,Kilmacud,Dublin 14,q4,80%
+29/07/2016,"19 Sweetbriar Lane, Lower Kilmacud Rd, Dublin 14",Dublin,653000.0,No,Kilmacud,Dublin 14,q4,90%
+29/07/2016,"192 Holywell, Kilmacud Rd Upper, Kilmacud",Dublin,610000.0,No,Kilmacud,Dublin 14,q4,80%
+09/08/2016,"49 Hazel Ave, Kilmacud, Dublin 14",Dublin,450000.0,No,Kilmacud,Dublin 14,q2,50%
+16/08/2016,"29 Sweet Briar Lane, Kilmacud, Dublin 14",Dublin,485000.0,No,Kilmacud,Dublin 14,q2,50%
+29/08/2016,"31 Drummartin Park, Kilmacud, Dublin 14",Dublin,455000.0,No,Kilmacud,Dublin 14,q2,50%
+31/08/2016,"34A Holywell, Kilmacud, Dublin 14",Dublin,1000000.0,No,Kilmacud,Dublin 14,q4,100%
+07/10/2016,"48 Hazelbrook, Upper Kilmacud Rd, Dublin 14",Dublin,340000.0,No,Kilmacud,Dublin 14,q1,30%
+05/12/2016,"62 Whatley Place, Kilmacud Rd Upper, Kilmacud",Dublin,565000.0,No,Kilmacud,Dublin 14,q3,70%
+23/12/2016,"43 Hazelbrook, Upper Kilmacud Rd, Co Dublin",Dublin,560000.0,No,Kilmacud,Dublin 14,q3,70%
+17/02/2017,"35 Hazelbrook, Upper Kilmacud Rd, Kilmacud Dublin 14",Dublin,400000.0,No,Kilmacud,Dublin 14,q2,40%
+06/03/2017,"76 Mount Anville Wood, Lower Kilmacud Rd, Dublin 14",Dublin,600000.0,No,Kilmacud,Dublin 14,q3,80%
+10/03/2017,"42 Hazelbrook, Upper Kilmacud Road, Co Dublin",Dublin,800000.0,No,Kilmacud,Dublin 14,q4,100%
+04/04/2017,"29 Hazelbrook, Upper Kilmacud Rd, Dublin 14",Dublin,650000.0,No,Kilmacud,Dublin 14,q4,90%
+10/04/2017,"62 Woodley Park, Kilmacud, Dublin 14",Dublin,557000.0,No,Kilmacud,Dublin 14,q3,70%
+17/05/2017,"2 The Beeches, Holywell, Kilmacud Rd Upper Dublin 14",Dublin,710000.0,No,Kilmacud,Dublin 14,q4,100%
+03/08/2017,"5 Sweet Briar Lane, Kilmacud, Dublin 14",Dublin,550000.0,No,Kilmacud,Dublin 14,q3,70%
+16/08/2017,"147 Holywell, Kilmacud Rd Upper, Dublin 14",Dublin,660000.0,No,Kilmacud,Dublin 14,q4,90%
+18/08/2017,"5 The Beeches, Holywell, Kilmacud Rd Upper Dublin 14",Dublin,890000.0,No,Kilmacud,Dublin 14,q4,100%
+24/08/2017,"13 Sweet Briar Lane, Kilmacud, Dublin 14",Dublin,597000.0,No,Kilmacud,Dublin 14,q3,80%
+28/08/2017,"5 The Orchard, Whatley Place, Kilmacud Rd Upper",Dublin,510000.0,No,Kilmacud,Dublin 14,q3,60%
+06/09/2017,"87 Woodley Park, Kilmacud, Dublin 14",Dublin,722000.0,No,Kilmacud,Dublin 14,q4,100%
+17/10/2017,"74 Dale Road, Kilmacud, Co Dublin",Dublin,595000.0,No,Kilmacud,Dublin 14,q3,80%
+13/12/2017,"Apt 13, Hazelbrook, Kilmacud Rd Upper",Dublin,395000.0,No,Kilmacud,Dublin 14,q2,30%
+21/12/2017,"8 The Beeches, Holywell, Kilmacud Rd Upper Dublin 14",Dublin,865000.0,No,Kilmacud,Dublin 14,q4,100%
+22/12/2017,"42 Sweetbriar Lane, Kilmacud, Dublin",Dublin,500000.0,No,Kilmacud,Dublin 14,q3,60%
+22/12/2017,"66 Holywell, Kilmacud Rd Upper, Dublin 16",Dublin,615000.0,No,Kilmacud,Dublin 14,q4,80%
+22/12/2017,"76 Holywell, Upr Kilmacud Rd, Dublin 14",Dublin,630000.0,No,Kilmacud,Dublin 14,q4,90%
+31/01/2018,"32 Hazelbrook Apts, Upper Kilmacud Rd, Dublin 14",Dublin,400000.0,No,Kilmacud,Dublin 14,q2,40%
+27/03/2018,"117 Holywell, Kilmacud Rd Upper, Dublin 14",Dublin,635000.0,No,Kilmacud,Dublin 14,q4,90%
+08/08/2018,"206 Lower Kilmacud Rd, Dublin 14, Dublin",Dublin,640000.0,No,Kilmacud,Dublin 14,q4,90%
+10/08/2018,"8 Woodley Park, Kilmacud, Dublin 14",Dublin,650000.0,No,Kilmacud,Dublin 14,q4,90%
+10/09/2018,"25 Woodley Park, Kilmacud, Dublin 14",Dublin,660000.0,No,Kilmacud,Dublin 14,q4,90%
+20/09/2018,"12 Sweet Briar Lane, Kilmacud, Dublin 14",Dublin,640000.0,No,Kilmacud,Dublin 14,q4,90%
+25/09/2018,"194 Holywell, Upr Kilmacud Rd, Dublin 14",Dublin,685000.0,No,Kilmacud,Dublin 14,q4,100%
+09/11/2018,"20 Sweet Briar Lane, Kilmacud, Dublin 14",Dublin,550000.0,No,Kilmacud,Dublin 14,q3,70%
+11/12/2018,"35 Sillorgan Gate, Upper Kilmacud Road, Dublin",Dublin,207705.0,Yes,Kilmacud,Dublin 14,q1,10%
+17/12/2018,"133 Holywell, Kilmacud Rd Upper, Dublin 14",Dublin,627000.0,No,Kilmacud,Dublin 14,q4,80%
+28/02/2019,"173 Holywell, Kilmacud Rd Upper, Dublin",Dublin,645000.0,No,Kilmacud,Dublin 14,q4,90%
+02/05/2019,"Apt 53 Hazelbrook, Lower Kilmacud Rd, Hazelbrook Dublin 14",Dublin,392500.0,No,Kilmacud,Dublin 14,q2,30%
+29/05/2019,"26 Lakelands Close, Kilmacud, Dublin",Dublin,600000.0,No,Kilmacud,Dublin 14,q4,80%
+05/07/2019,"136 Holywell, Kilmacud, Dublin 14",Dublin,635000.0,No,Kilmacud,Dublin 14,q4,90%
+10/07/2019,"2 Holywell, Kilmacud Rd Upper, Dublin 14",Dublin,570000.0,No,Kilmacud,Dublin 14,q3,70%
+02/08/2019,"7 The Beeches, Holywell, Upper Kilmacud Road",Dublin,840000.0,No,Kilmacud,Dublin 14,q4,100%
+13/08/2019,"17 Eden Park Ave, Kilmacud, Dublin 14",Dublin,525000.0,No,Kilmacud,Dublin 14,q3,60%
+22/08/2019,"1 Dale Road, Kilmacud, Stilorgan",Dublin,593000.0,No,Kilmacud,Dublin 14,q3,80%

@@ -1,0 +1,582 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/01/2010,"Apt 8  1 Grange Lodge Avenue, Clongriffin",Dublin,177685.95,Yes,Clongriffin,Dublin 13,q1,20%
+10/02/2010,"Apt 17, 37 Main Street, Clongriffin",Dublin,210000.0,Yes,Clongriffin,Dublin 13,q1,30%
+26/03/2010,"Apt. 11., 5 Beaupark Avenue, Clongriffin",Dublin,147000.0,Yes,Clongriffin,Dublin 13,q1,20%
+17/05/2010,"21 Beaupark Street, Clongriffin",Dublin,164350.0,Yes,Clongriffin,Dublin 13,q1,20%
+21/05/2010,"14 Beau Park Square, Clongriffin",Dublin,261000.0,No,Clongriffin,Dublin 13,q2,50%
+25/06/2010,"66 Railway Road, Clongriffin, Dublin 13",Dublin,307000.0,Yes,Clongriffin,Dublin 13,q3,80%
+01/07/2010,"Apt 14  23 Main Street, Clongriffin, Dublin 13",Dublin,82846.43,Yes,Clongriffin,Dublin 13,q1,10%
+27/07/2010,"Apartment 5, 36 Marrsfield Avenue, Clongriffin",Dublin,327200.0,Yes,Clongriffin,Dublin 13,q4,90%
+29/10/2010,"9 Friars Lane, Clongriffin",Dublin,275330.39,Yes,Clongriffin,Dublin 13,q3,60%
+07/12/2010,"8  29 Main Street, Clongriffin",Dublin,82846.43,Yes,Clongriffin,Dublin 13,q1,10%
+18/02/2011,"11  33 Main Street, Clongriffin",Dublin,86500.0,Yes,Clongriffin,Dublin 13,q1,10%
+05/07/2011,"24 Beaupark Street, Clongriffin",Dublin,199950.0,No,Clongriffin,Dublin 13,q1,30%
+16/09/2011,"Apartment 5, Block 12 Station Way, Clongriffin",Dublin,120000.0,No,Clongriffin,Dublin 13,q1,20%
+11/06/2012,"Apt 11, Block 23  67 Main Street, Station Point. Clongriffin",Dublin,162995.59,Yes,Clongriffin,Dublin 13,q1,20%
+27/03/2013,"Apartment 7, 43 Main Street, Clongriffin",Dublin,196000.0,No,Clongriffin,Dublin 13,q1,30%
+18/04/2013,"11 Beaupark Square, Clongriffin",Dublin,190000.0,No,Clongriffin,Dublin 13,q1,20%
+03/05/2013,"8 Hoey Place, Clongriffin",Dublin,180000.0,No,Clongriffin,Dublin 13,q1,20%
+30/05/2013,"Apt. 13 Beaupark, 29 Main Street, Clongriffin",Dublin,82000.0,No,Clongriffin,Dublin 13,q1,10%
+01/07/2013,"32 Railway Road, Clongriffin, Dublin",Dublin,135000.0,No,Clongriffin,Dublin 13,q1,20%
+29/07/2013,"2 Station Way, Clongriffin",Dublin,180000.0,No,Clongriffin,Dublin 13,q1,20%
+20/09/2013,"22 Beaupark Crescent, Clongriffin, Dublin 13",Dublin,170000.0,No,Clongriffin,Dublin 13,q1,20%
+23/09/2013,"Apt 13, 19 Main Street, Clongriffin",Dublin,160000.0,No,Clongriffin,Dublin 13,q1,20%
+10/10/2013,"63 Railway Road, Clongriffin, Dublin",Dublin,200000.0,No,Clongriffin,Dublin 13,q1,30%
+20/12/2013,"17 Beau Park Terrace, Clongriffin, Dublin 13",Dublin,206000.0,No,Clongriffin,Dublin 13,q1,30%
+22/01/2014,"35 Railway Rd, Clongriffin, Dublin 13",Dublin,222000.0,No,Clongriffin,Dublin 13,q2,30%
+03/02/2014,"5 Priory Street, Clongriffin",Dublin,230000.0,Yes,Clongriffin,Dublin 13,q2,30%
+07/02/2014,"7 Priory Street, Clongriffin",Dublin,205000.0,Yes,Clongriffin,Dublin 13,q1,30%
+14/02/2014,"12 King Street, Clongriffin",Dublin,185022.0,Yes,Clongriffin,Dublin 13,q1,20%
+14/02/2014,"6 King Street, Clongriffin, Dublin 13",Dublin,185000.0,Yes,Clongriffin,Dublin 13,q1,20%
+17/02/2014,"11 Priory Street, Clongriffin, Dublin 13",Dublin,205000.0,Yes,Clongriffin,Dublin 13,q1,30%
+03/03/2014,"No. 4 King Street, Park Edge, Clongriffin",Dublin,198237.89,Yes,Clongriffin,Dublin 13,q1,30%
+05/03/2014,"9 Priory Street, Clongriffin, Dublin 13",Dublin,205000.0,Yes,Clongriffin,Dublin 13,q1,30%
+07/03/2014,"14 King Street, Clongriffin",Dublin,198237.89,Yes,Clongriffin,Dublin 13,q1,30%
+24/03/2014,"21 Beaupark St, Clongriffin, Dublin 13",Dublin,195000.0,No,Clongriffin,Dublin 13,q1,20%
+25/03/2014,"1 Beaupark Road, Clongriffin, Dublin 13",Dublin,140000.0,No,Clongriffin,Dublin 13,q1,20%
+03/04/2014,"Apartment 5  10 Railway Road, Clongriffin, Dublin 13",Dublin,86500.0,No,Clongriffin,Dublin 13,q1,10%
+17/04/2014,"29 Dermot Street, Clongriffin, Dublin 13",Dublin,204312.89,Yes,Clongriffin,Dublin 13,q1,30%
+23/04/2014,"15 Priory Street, Clongriffin, Dublin 13",Dublin,239555.0,Yes,Clongriffin,Dublin 13,q2,40%
+24/04/2014,"Apt 3, 23 Main St, Clongriffin Dublin 13",Dublin,125000.0,No,Clongriffin,Dublin 13,q1,20%
+28/04/2014,"17 Beau Park Row, Clongriffin, Dublin 13",Dublin,241500.0,No,Clongriffin,Dublin 13,q2,40%
+06/05/2014,"13 Priory Street, Clongriffin",Dublin,220000.0,Yes,Clongriffin,Dublin 13,q2,30%
+08/05/2014,"25 Dermot Street, Parkedge, Clongriffin",Dublin,191097.0,Yes,Clongriffin,Dublin 13,q1,20%
+09/05/2014,"House 4 Apartment 4, Grange Lodge Avenue, Clongriffin",Dublin,165000.0,Yes,Clongriffin,Dublin 13,q1,20%
+15/05/2014,"21 Dermot Street, Clongriffin, Dublin 13",Dublin,185022.03,Yes,Clongriffin,Dublin 13,q1,20%
+16/05/2014,"Apt 4  Block 14, Marsfield Avenue, Clongriffin",Dublin,140000.0,No,Clongriffin,Dublin 13,q1,20%
+22/05/2014,"27 Dermot Street, Clongriffin",Dublin,193832.6,Yes,Clongriffin,Dublin 13,q1,20%
+23/05/2014,"12 Beau Park, Clongriffin, Dublin13",Dublin,250000.0,No,Clongriffin,Dublin 13,q2,40%
+06/06/2014,"3 Priory Street, Clongriffin",Dublin,198237.0,Yes,Clongriffin,Dublin 13,q1,30%
+10/06/2014,"23 Dermot Street, Clongriffin",Dublin,191097.0,Yes,Clongriffin,Dublin 13,q1,20%
+13/06/2014,"18 Grange Lodge Court, Clongriffin, Dublin 13",Dublin,225000.0,No,Clongriffin,Dublin 13,q2,30%
+19/06/2014,"11 Beau Park Place, Clongriffin, Park Place",Dublin,265000.0,No,Clongriffin,Dublin 13,q2,50%
+23/06/2014,"16 Block 24 Marrsfield Ave, Clongriffin, Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"17 Block 22 Marrsfield Ave, Clongriffin, Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"17 Block 28 Marrsfield Ave, Clongriffin, Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"18 Block 32 Marrsfield Ave, Clongriffin, Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"2 Block 14 Marrsfield Ave, Clongriffin, Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"21 Block 32 Marrsfield Ave, Clongriffin, Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"3 Block 18 Marrsfield Ave, Clongriffin, Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"3 Block 34 Marrsfield Ave, Clongriffin, Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"5 Block 24 Marrsfield Ave, Clongriffin, Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"9 Block 32 Marrsfield Ave, Clongriffin, Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 13 Block 18, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 18 Block 22, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 18 Block 36, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 2 Block 18, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 2 Block 26, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 2 Block 30, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 2 Block 32, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 2 Block 34, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 20 Block 32, Marrsfield Avenue, Clongriffin Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 3 Block 36, Marrsfield  Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 3, Block 22, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 5 Block 32, Marsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apartment 9 Block 18, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 13 Block 14, Marrsfield Ave, Clongriffin Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 13 Block 22, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 13 Block 24, Marrsfield Ave, Clongriffin Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 13 Block 28, Marrsfield Ave, Clongriffin Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 13 Block 36, Marrsfield Ave, Clongriffin Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 16 Block 28, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 17 Block 14, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 17 Block 18, Marrsfield Ave, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 17 Block 24, Marrsfield Ave, Clongriffin Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 17 Block 36, Marrfield Ave, Clongriffin Dublin 13",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 2 Block 16, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 2 Block 28, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 3 Block 16, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 3 Block 20, Marrsfield Ave, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt 3 Block 30, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt.16 Block 14, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt.16 Block 18, Marrsfield  Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt.2 Block 20, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Apt.5 Block 14, Marrsfield Avenue, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Marrsfield Avenue Apartment 2, Block 36, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Marrsfield Avenue, Apartment 2 Block 22, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Marrsfield Avenue, Apartment 3 Block 28, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Marrsfield Avenue, Apartment 3 Block 32, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Marrsfield Avenue, Apartment 5 Block 28, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Marrsfield Avenue, Apartment 9    Block 36, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Marrsfield Avenue, Apartment 9 Block 28, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Marrsfield Avenue, Apt 13  Block 32, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+23/06/2014,"Marrsfield Ave, Apartment 3  Block 26, Clongriffin",Dublin,101923.07,No,Clongriffin,Dublin 13,q1,10%
+25/06/2014,"Block 23  Apartment 6, 67 Main Street  Station Point, Clongriffin",Dublin,176167.4,Yes,Clongriffin,Dublin 13,q1,20%
+27/06/2014,"15 Railway Rd, Clongriffin, Dublin 13",Dublin,265000.0,No,Clongriffin,Dublin 13,q2,50%
+30/06/2014,"12 Beaupark Mews, Clongriffin, Dublin 13",Dublin,143000.0,No,Clongriffin,Dublin 13,q1,20%
+17/07/2014,"Unit 13  Block 23, 67 Main Street, Clongriffin",Dublin,162995.6,Yes,Clongriffin,Dublin 13,q1,20%
+24/07/2014,"4 - 67, Main St, Clongriffin",Dublin,205000.0,No,Clongriffin,Dublin 13,q1,30%
+05/08/2014,"2 Hoey Place, Clongriffin, Dublin 13",Dublin,250000.0,No,Clongriffin,Dublin 13,q2,40%
+20/08/2014,"71 Grange Lodge Avenue, Clongriffin, Dublin 13",Dublin,255000.0,No,Clongriffin,Dublin 13,q2,50%
+17/09/2014,"Apt 5, 3 Dermot St, Clongriffin Dublin 13",Dublin,195000.0,No,Clongriffin,Dublin 13,q1,20%
+13/10/2014,"Apt 4, 1 Railway Rd, Beaupark Clongriffin",Dublin,135000.0,No,Clongriffin,Dublin 13,q1,20%
+19/11/2014,"Apt 14, 3 Main St, Clongriffin Dublin 13",Dublin,275000.0,No,Clongriffin,Dublin 13,q3,60%
+04/12/2014,"15 Railway Mews, Beaupark, Clongriffin",Dublin,235000.0,No,Clongriffin,Dublin 13,q2,30%
+10/12/2014,"15 Park Avenue, Clongriffin",Dublin,237885.46,Yes,Clongriffin,Dublin 13,q2,40%
+11/12/2014,"16 Park Avenue, Clongriffin",Dublin,237885.46,Yes,Clongriffin,Dublin 13,q2,40%
+11/12/2014,"17 Park Avenue, Clongriffin",Dublin,237885.46,Yes,Clongriffin,Dublin 13,q2,40%
+12/12/2014,"13 Park Avenue, Clongriffin, Dublin 13",Dublin,237885.46,Yes,Clongriffin,Dublin 13,q2,40%
+16/12/2014,"14 Park Avenue, Clongriffin",Dublin,242290.75,Yes,Clongriffin,Dublin 13,q2,40%
+17/12/2014,"16 King Street, Clongriffin, Dublin 13",Dublin,237875.0,Yes,Clongriffin,Dublin 13,q2,40%
+18/12/2014,"22 Beau Park St, Clongriffin, Dublin 13",Dublin,200000.0,No,Clongriffin,Dublin 13,q1,30%
+19/12/2014,"1 Priory Street, Clongriffin",Dublin,259911.89,Yes,Clongriffin,Dublin 13,q2,50%
+19/12/2014,"12 Park Avenue, Clongriffin, Dublin 13",Dublin,237885.0,Yes,Clongriffin,Dublin 13,q2,40%
+19/12/2014,"19 Park Avenue, Clongriffin",Dublin,243285.0,Yes,Clongriffin,Dublin 13,q2,40%
+22/12/2014,"Apartment 11, 11 Main Street, Beaupark   Clongriffin",Dublin,160299.0,No,Clongriffin,Dublin 13,q1,20%
+23/12/2014,"17 The Green, Millers Glen, Clongriffin",Dublin,283608.0,Yes,Clongriffin,Dublin 13,q3,60%
+09/01/2015,"18 Park Avenue, Clongriffin",Dublin,237885.46,Yes,Clongriffin,Dublin 13,q2,40%
+27/01/2015,"2 King Street, Clongriffin",Dublin,265312.0,Yes,Clongriffin,Dublin 13,q3,60%
+29/01/2015,"Apt 8, 37 Main St, Clongriffin Dublin 13",Dublin,150000.0,No,Clongriffin,Dublin 13,q1,20%
+11/02/2015,"13 Longview Avenue, Clongriffin, Dublin",Dublin,252726.98,Yes,Clongriffin,Dublin 13,q2,50%
+20/02/2015,"7 Hoey Close, Clongriffin, Dublin 13",Dublin,215000.0,No,Clongriffin,Dublin 13,q1,30%
+27/02/2015,"Apt 1  Block 8, Station Way  Clongriffin, Dublin 13",Dublin,152000.0,No,Clongriffin,Dublin 13,q1,20%
+04/03/2015,"2 Beau Park Terrace, Clongriffin, Dublin 13",Dublin,185000.0,No,Clongriffin,Dublin 13,q1,20%
+06/03/2015,"3 The Green, Millers Glen, Clongriffin",Dublin,274797.0,Yes,Clongriffin,Dublin 13,q3,60%
+13/03/2015,"31 Dermot Street, Clongriffin, Dublin 13",Dublin,242290.0,Yes,Clongriffin,Dublin 13,q2,40%
+30/03/2015,"Apt 3, 66 Main St, Clongriffin Dublin 13",Dublin,137000.0,No,Clongriffin,Dublin 13,q1,20%
+01/04/2015,"148 Grange Lodge Ave, Clongriffin, Dublin 13",Dublin,215000.0,No,Clongriffin,Dublin 13,q1,30%
+08/04/2015,"Apartment 3, 6 Station Way, Clongriffin",Dublin,170000.0,No,Clongriffin,Dublin 13,q1,20%
+16/06/2015,"17 Park Street, Clongriffin",Dublin,269717.18,Yes,Clongriffin,Dublin 13,q3,60%
+19/06/2015,"22 Park Avenue, Clongriffin, Dublin 13",Dublin,251101.0,Yes,Clongriffin,Dublin 13,q2,50%
+22/06/2015,"22 Dermot Street, Clongriffin",Dublin,275000.0,Yes,Clongriffin,Dublin 13,q3,60%
+24/06/2015,"30 Dermot Street, Clongriffin",Dublin,242290.75,Yes,Clongriffin,Dublin 13,q2,40%
+26/06/2015,"18 King Street, Clongriffin, Dublin 13",Dublin,264317.19,Yes,Clongriffin,Dublin 13,q2,50%
+26/06/2015,"26 Dermot Street, Clongriffin, Dublin 13",Dublin,242290.0,Yes,Clongriffin,Dublin 13,q2,40%
+30/06/2015,"11 Park Ave, Clongriffin, Dublin",Dublin,310000.0,No,Clongriffin,Dublin 13,q3,80%
+10/07/2015,"3 King Street, Clongriffin",Dublin,251101.0,Yes,Clongriffin,Dublin 13,q2,50%
+15/07/2015,"8 Park Row, Clongriffin",Dublin,285000.0,Yes,Clongriffin,Dublin 13,q3,70%
+16/07/2015,"4 Park Row, Clongriffin",Dublin,241396.0,Yes,Clongriffin,Dublin 13,q2,40%
+17/07/2015,"10 Park Row, Clongriffin",Dublin,251101.0,Yes,Clongriffin,Dublin 13,q2,50%
+21/07/2015,"12 Park Row, Clongriffin",Dublin,254611.0,Yes,Clongriffin,Dublin 13,q2,50%
+24/07/2015,"23 Park Avenue, Clongriffin",Dublin,251101.32,Yes,Clongriffin,Dublin 13,q2,50%
+24/07/2015,"No1 King Street, Clongriffin",Dublin,246525.0,Yes,Clongriffin,Dublin 13,q2,40%
+27/07/2015,"17 Grange Lodge Crt, Clongriffin, Dublin 13",Dublin,245000.0,No,Clongriffin,Dublin 13,q2,40%
+27/07/2015,"6 Park Row, Clongriffin",Dublin,241395.5,Yes,Clongriffin,Dublin 13,q2,40%
+27/07/2015,"7 King Street, Park Edge, Clongriffin",Dublin,251101.32,Yes,Clongriffin,Dublin 13,q2,50%
+28/07/2015,"Block 1 Apartment 9, Beaupark Avenue, Clongriffin",Dublin,174000.0,No,Clongriffin,Dublin 13,q1,20%
+29/07/2015,"25 Park Avenue, Parkedge, Clongriffin",Dublin,251101.32,Yes,Clongriffin,Dublin 13,q2,50%
+30/07/2015,"26 Park Avenue, Clongriffin, Dublin 13",Dublin,251101.0,Yes,Clongriffin,Dublin 13,q2,50%
+05/08/2015,"5 King Street, Clongriffin, Dublin 13",Dublin,249093.0,Yes,Clongriffin,Dublin 13,q2,40%
+07/08/2015,"24 Park Avenue, Clongriffin, Co Dublin",Dublin,251101.0,Yes,Clongriffin,Dublin 13,q2,50%
+07/08/2015,"27  Park Avenue, Clongriffin, Dublin 13",Dublin,246525.0,Yes,Clongriffin,Dublin 13,q2,40%
+07/08/2015,"Apt 9, 20 Railway Road, Clongriffin",Dublin,137000.0,No,Clongriffin,Dublin 13,q1,20%
+14/08/2015,"51 Grange Lodge Ave, Clongriffin, Dublin 13",Dublin,245000.0,No,Clongriffin,Dublin 13,q2,40%
+14/08/2015,"Apt 9, 12 Railway Rd, Clongriffin Dublin 13",Dublin,140000.0,No,Clongriffin,Dublin 13,q1,20%
+17/08/2015,"24 Dermot Street, Clongriffin",Dublin,242290.0,Yes,Clongriffin,Dublin 13,q2,40%
+19/08/2015,"48 Railway Rd, Beaupark, Clongriffin Dublin 13",Dublin,275000.0,No,Clongriffin,Dublin 13,q3,60%
+26/08/2015,"Apt 5, 43 Main St, Clongriffin Dublin 13",Dublin,118338.5,No,Clongriffin,Dublin 13,q1,20%
+28/08/2015,"20 Dermot Street, Clongriffin",Dublin,275000.0,Yes,Clongriffin,Dublin 13,q3,60%
+28/08/2015,"21 Park Avenue, Clongriffin, Dublin 13",Dublin,267828.0,Yes,Clongriffin,Dublin 13,q3,60%
+28/08/2015,"4 Park Ave, Clongriffin, Dublin 13",Dublin,270000.0,No,Clongriffin,Dublin 13,q3,60%
+31/08/2015,"No 29 Park Avenue, Clongriffin, Dublin 13",Dublin,300000.0,Yes,Clongriffin,Dublin 13,q3,70%
+07/09/2015,"75 Railway Road, Beaupark, Clongriffin",Dublin,257000.0,No,Clongriffin,Dublin 13,q2,50%
+14/09/2015,"20 Park Avenue, Clongriffin Avenue, Dublin 13",Dublin,237885.0,Yes,Clongriffin,Dublin 13,q2,40%
+14/09/2015,"4 59 Main St, Station Point, Clongriffin",Dublin,230000.0,No,Clongriffin,Dublin 13,q2,30%
+16/09/2015,"15 Beau Park St, Clongriffin, Dublin 13",Dublin,229000.0,No,Clongriffin,Dublin 13,q2,30%
+18/09/2015,"28 Dermot Street, Clongriffin",Dublin,242290.0,Yes,Clongriffin,Dublin 13,q2,40%
+22/09/2015,"Apt 6, 3 Main St, Clongriffin Dublin 13",Dublin,182500.0,No,Clongriffin,Dublin 13,q1,20%
+24/09/2015,"21 Beau Park Mews, Clongriffin, Dublin 13",Dublin,210000.0,No,Clongriffin,Dublin 13,q1,30%
+25/09/2015,"7 Hoey Place, Clongriffin, Dublin 13",Dublin,230000.0,No,Clongriffin,Dublin 13,q2,30%
+21/10/2015,"28 Park Avenue, Clongriffin",Dublin,251101.32,Yes,Clongriffin,Dublin 13,q2,50%
+27/10/2015,"7 67 Main St, Station Point, Clongriffin",Dublin,221000.0,No,Clongriffin,Dublin 13,q2,30%
+12/11/2015,"Apt 8, 54 Main St, Clongriffin Dublin 13",Dublin,193000.0,No,Clongriffin,Dublin 13,q1,20%
+25/11/2015,"Apt 9, 4 Beaupark Avenue, Clongriffin",Dublin,90000.0,No,Clongriffin,Dublin 13,q1,10%
+08/01/2016,"15 Beau Park Close, Clongriffin, Dublin 13",Dublin,221000.0,No,Clongriffin,Dublin 13,q2,30%
+12/01/2016,"2 Station Way, Clongriffin, Dublin 13",Dublin,265000.0,No,Clongriffin,Dublin 13,q2,50%
+25/01/2016,"65 Railway Road, Clongriffin, Dublin 13",Dublin,280000.0,No,Clongriffin,Dublin 13,q3,60%
+24/02/2016,"Apt 5, 54 Main Street, Clongriffin",Dublin,180000.0,No,Clongriffin,Dublin 13,q1,20%
+26/02/2016,"Apt 1, 2 Beau Park Ave, Clongriffin Dublin 13",Dublin,166000.0,No,Clongriffin,Dublin 13,q1,20%
+03/03/2016,"32 Beau Park Crescent, Clongriffin, Dublin 13",Dublin,222500.0,No,Clongriffin,Dublin 13,q2,30%
+29/04/2016,"9 Friars Lane, Clongriffin, Dublin 13",Dublin,325000.0,No,Clongriffin,Dublin 13,q4,90%
+29/04/2016,"9 King Street, Clongriffin",Dublin,277533.0,Yes,Clongriffin,Dublin 13,q3,60%
+19/05/2016,"2 Park Terrace North, Belltree, Clongriffin",Dublin,243006.93,Yes,Clongriffin,Dublin 13,q2,40%
+19/05/2016,"9 Park Terrace North, Belltree, Clongriffin",Dublin,242290.74,Yes,Clongriffin,Dublin 13,q2,40%
+20/05/2016,"6 Park Terrace North, Belltree, Clongriffin",Dublin,233800.0,Yes,Clongriffin,Dublin 13,q2,30%
+23/05/2016,"No. 4  Park Terrace North, Belltree, Clongriffin",Dublin,233799.88,Yes,Clongriffin,Dublin 13,q2,30%
+25/05/2016,"3 Park Terrace North, Belltree, Clongriffin",Dublin,229075.0,Yes,Clongriffin,Dublin 13,q2,30%
+26/05/2016,"8 Park Terrace North, Belltree, Clongriffin",Dublin,233480.0,Yes,Clongriffin,Dublin 13,q2,30%
+01/06/2016,"5 Park Terrace North, Beltree, Clongriffin",Dublin,238205.17,Yes,Clongriffin,Dublin 13,q2,40%
+03/06/2016,"80 Belmayne Park South, Clongriffin, Park South Dublin 13",Dublin,190000.0,No,Clongriffin,Dublin 13,q1,20%
+03/06/2016,"Apt 1 61 Main St, Clongriffin, Main St Dublin 13",Dublin,160000.0,No,Clongriffin,Dublin 13,q1,20%
+08/06/2016,"Apt 14, 29 Main St, Beau Park Clongriffin",Dublin,210000.0,No,Clongriffin,Dublin 13,q1,30%
+10/06/2016,"7 Park Terrace North, Belltree, Clongriffin",Dublin,229074.89,Yes,Clongriffin,Dublin 13,q2,30%
+13/06/2016,"44 Park Avenue, Belltree, Clongriffin",Dublin,273127.75,Yes,Clongriffin,Dublin 13,q3,60%
+13/06/2016,"46 Park Avenue, Belltree, Clongriffin",Dublin,273127.75,Yes,Clongriffin,Dublin 13,q3,60%
+16/06/2016,"43 Park Avenue, Beltree, Clongriffin",Dublin,277852.0,Yes,Clongriffin,Dublin 13,q3,60%
+23/06/2016,"7 Beau Park St, Clongriffin, Dublin 13",Dublin,240000.0,No,Clongriffin,Dublin 13,q2,40%
+24/06/2016,"45 Park Avenue, Belltree, Clongriffin",Dublin,273100.0,Yes,Clongriffin,Dublin 13,q3,60%
+28/06/2016,"11 Beau Park Crescent, Clongriffin, Dublin 13",Dublin,234000.0,No,Clongriffin,Dublin 13,q2,30%
+28/06/2016,"2 Beltree Avenue, Clongriffin, Dublin 13",Dublin,290748.0,Yes,Clongriffin,Dublin 13,q3,70%
+29/06/2016,"47 Park Avenue, Belltree, Clongriffin",Dublin,275852.75,Yes,Clongriffin,Dublin 13,q3,60%
+05/07/2016,"14 Belltree Avenue, Clongriffin",Dublin,237885.46,Yes,Clongriffin,Dublin 13,q2,40%
+06/07/2016,"42 Park Avenue, Belltree, Clongriffin",Dublin,273127.0,Yes,Clongriffin,Dublin 13,q3,60%
+07/07/2016,"10 Belltree Avenue, Clongriffin, Dublin 13",Dublin,270000.0,Yes,Clongriffin,Dublin 13,q3,60%
+07/07/2016,"12 Belltree Avenue, Clongriffin, Dublin 13",Dublin,270000.0,Yes,Clongriffin,Dublin 13,q3,60%
+07/07/2016,"6 Belltree Avenue, Belltree, Clongriffin",Dublin,260231.0,Yes,Clongriffin,Dublin 13,q2,50%
+12/07/2016,"4 Belltree Avenue, Clongriffin, Dublin 13",Dublin,264636.89,Yes,Clongriffin,Dublin 13,q2,50%
+14/07/2016,"16 Belltree Avenue, Belltree, Clongriffin",Dublin,247015.0,Yes,Clongriffin,Dublin 13,q2,40%
+26/07/2016,"18 Belltree Avenue, Clongriffin",Dublin,246696.04,Yes,Clongriffin,Dublin 13,q2,40%
+27/07/2016,"11 Beltree Walk, Clongriffin, Dublin 13",Dublin,242290.74,Yes,Clongriffin,Dublin 13,q2,40%
+28/07/2016,"20 Belltree Avenue, Belltree, Clongriffin",Dublin,292034.0,Yes,Clongriffin,Dublin 13,q3,70%
+28/07/2016,"7 Belltree Walk, Belltree, Clongriffin",Dublin,255826.0,Yes,Clongriffin,Dublin 13,q2,50%
+28/07/2016,"9 Belltree Walk, Belltree, Clongriffin",Dublin,242290.74,Yes,Clongriffin,Dublin 13,q2,40%
+29/07/2016,"23 Beltree Walk, Clongriffin, Dublin 13",Dublin,275000.0,Yes,Clongriffin,Dublin 13,q3,60%
+29/07/2016,"8 Belltree Avenue, Belltree, Clongriffin",Dublin,251101.32,Yes,Clongriffin,Dublin 13,q2,50%
+04/08/2016,"19 Belltree Walk, Belltree, Clongriffin",Dublin,255826.0,Yes,Clongriffin,Dublin 13,q2,50%
+08/08/2016,"17 Belltree Walk, Belltree, Clongriffin",Dublin,251101.32,Yes,Clongriffin,Dublin 13,q2,50%
+12/08/2016,"Apt 4, 2 Beaupark Ave, Clongriffin Dublin 13",Dublin,168000.0,No,Clongriffin,Dublin 13,q1,20%
+30/08/2016,"52 Railway Rd, Clongriffin, Dublin 13",Dublin,280000.0,No,Clongriffin,Dublin 13,q3,60%
+13/09/2016,"2 Grange Lodge Avenue, Clongriffin, Dublin 13",Dublin,163000.0,Yes,Clongriffin,Dublin 13,q1,20%
+14/09/2016,"1 67 Main St, Clongriffin, Dublin 13",Dublin,150000.0,No,Clongriffin,Dublin 13,q1,20%
+16/09/2016,"15 Belltree Walk, Clongriffin",Dublin,242291.0,Yes,Clongriffin,Dublin 13,q2,40%
+16/09/2016,"4 65 Main St, Station Point, Clongriffin",Dublin,207048.0,No,Clongriffin,Dublin 13,q1,30%
+16/09/2016,"7 Dermot St, Clongriffin, Dublin 13",Dublin,275000.0,No,Clongriffin,Dublin 13,q3,60%
+30/09/2016,"71 Railway Rd, Clongriffin, Dublin 13",Dublin,198800.0,No,Clongriffin,Dublin 13,q1,30%
+28/10/2016,"22 Belltree Avenue, Clongriffin",Dublin,264317.0,Yes,Clongriffin,Dublin 13,q2,50%
+04/11/2016,"3 Hoey Court, Clongriffin, Dublin 13",Dublin,220000.0,No,Clongriffin,Dublin 13,q2,30%
+04/11/2016,"Apt 1, Grange Lodge Ave, Clongriffin Dublin 13",Dublin,185000.0,No,Clongriffin,Dublin 13,q1,20%
+07/11/2016,"1 Hoey Close, Clongriffin, Dublin 13",Dublin,254000.0,No,Clongriffin,Dublin 13,q2,50%
+10/11/2016,"4 Beaupark Road, Clongriffin, Dublin 13",Dublin,225000.0,No,Clongriffin,Dublin 13,q2,30%
+22/11/2016,"9 Belltree Avenue, Belltree, Clongriffin",Dublin,242290.0,Yes,Clongriffin,Dublin 13,q2,40%
+25/11/2016,"11 Belltree Place, Clongriffin, Dublin 13",Dublin,215600.0,Yes,Clongriffin,Dublin 13,q2,30%
+25/11/2016,"5 Belltree Avenue, Belltree, Clongriffin",Dublin,256212.88,Yes,Clongriffin,Dublin 13,q2,50%
+25/11/2016,"7 Railway Mews, Clongriffin, Dublin 13",Dublin,286000.0,No,Clongriffin,Dublin 13,q3,70%
+28/11/2016,"3 Belltree Avenue, Clongriffin, Dublin 13",Dublin,251888.0,Yes,Clongriffin,Dublin 13,q2,50%
+30/11/2016,"15 Belltree Avenue, Belltree, Clongriffin",Dublin,269042.0,Yes,Clongriffin,Dublin 13,q3,60%
+06/12/2016,"21 Belltree Walk, Clongriffin, Dublin 13",Dublin,260231.6,Yes,Clongriffin,Dublin 13,q2,50%
+06/12/2016,"48 Park Avenue, Belltree, Clongriffin",Dublin,299559.0,Yes,Clongriffin,Dublin 13,q3,70%
+06/12/2016,"7 Belltree Place, Belltree, Clongriffin",Dublin,246696.03,Yes,Clongriffin,Dublin 13,q2,40%
+07/12/2016,"1 Belltree Place, Belltree, Clongriffin",Dublin,246698.0,Yes,Clongriffin,Dublin 13,q2,40%
+07/12/2016,"13 Belltree Place, Belltree, Clongriffin",Dublin,264637.0,Yes,Clongriffin,Dublin 13,q2,50%
+08/12/2016,"8  Park Lane, Belltree, Clongriffin",Dublin,295000.0,Yes,Clongriffin,Dublin 13,q3,70%
+12/12/2016,"5 Belltree Place, Clongriffin",Dublin,237885.0,Yes,Clongriffin,Dublin 13,q2,40%
+12/12/2016,"6 Park Lane, Belltree, Clongriffin",Dublin,242290.74,Yes,Clongriffin,Dublin 13,q2,40%
+13/12/2016,"11 Belltree Avenue, Clongriffin, Dublin 13",Dublin,280000.0,Yes,Clongriffin,Dublin 13,q3,60%
+13/12/2016,"56 Park Avenue, Belltree, Clongriffin",Dublin,290748.89,Yes,Clongriffin,Dublin 13,q3,70%
+13/12/2016,"75 Grange Abbey Rd, Clongriffin, Dublin 13",Dublin,250000.0,No,Clongriffin,Dublin 13,q2,40%
+14/12/2016,"10 Park Lane, Belltree, Clongriffin",Dublin,255232.0,Yes,Clongriffin,Dublin 13,q2,50%
+14/12/2016,"14 Park Lane, Belltree, Clongriffin",Dublin,242200.0,Yes,Clongriffin,Dublin 13,q2,40%
+14/12/2016,"22 Park Lane, Belltree, Clongriffin",Dublin,251421.0,Yes,Clongriffin,Dublin 13,q2,50%
+14/12/2016,"24 Park Lane, Belltree, Clongriffin",Dublin,264637.0,Yes,Clongriffin,Dublin 13,q2,50%
+14/12/2016,"9 Belltree Place, Belltree, Clongriffin",Dublin,255826.0,Yes,Clongriffin,Dublin 13,q2,50%
+15/12/2016,"52 Park Avenue, Clongriffin",Dublin,290748.89,Yes,Clongriffin,Dublin 13,q3,70%
+15/12/2016,"55 Park Avenue, Belltree, Clongriffin",Dublin,290748.9,Yes,Clongriffin,Dublin 13,q3,70%
+15/12/2016,"7 Belltree Avenue, Belltree, Clongriffin",Dublin,260231.0,Yes,Clongriffin,Dublin 13,q2,50%
+16/12/2016,"1 Belltree Avenue, Belltree, Clongriffin",Dublin,303964.76,Yes,Clongriffin,Dublin 13,q3,80%
+16/12/2016,"2 Park Lane, Belltree, Clongriffin",Dublin,308689.75,Yes,Clongriffin,Dublin 13,q3,80%
+16/12/2016,"20 Park Lane, Belltree, Clongriffin",Dublin,251421.0,Yes,Clongriffin,Dublin 13,q2,50%
+19/12/2016,"12 Park Lane, Belltree, Clongriffin",Dublin,242291.0,Yes,Clongriffin,Dublin 13,q2,40%
+20/12/2016,"49 Park Avenue, Beltree, Clongriffin",Dublin,290749.0,Yes,Clongriffin,Dublin 13,q3,70%
+20/12/2016,"53 Park Avenue, Beltree, Clongriffin",Dublin,290749.0,Yes,Clongriffin,Dublin 13,q3,70%
+20/12/2016,"5O Park Avenue, Beltree, Clongriffin",Dublin,290748.9,Yes,Clongriffin,Dublin 13,q3,70%
+21/12/2016,"18 Park Lane, Belltree, Clongriffin",Dublin,255507.0,Yes,Clongriffin,Dublin 13,q2,50%
+21/12/2016,"3 Belltree Place, Clongriffin",Dublin,246696.0,Yes,Clongriffin,Dublin 13,q2,40%
+21/12/2016,"Apt 6  3 Dermot Street, Beaupark Road, Clongriffin",Dublin,187000.0,No,Clongriffin,Dublin 13,q1,20%
+22/12/2016,"1 Beaupark Mews, Donaghmede, Clongriffin Dublin 15",Dublin,282500.0,No,Clongriffin,Dublin 13,q3,60%
+22/12/2016,"51 Park Avenue, Clongriffin",Dublin,295473.89,Yes,Clongriffin,Dublin 13,q3,70%
+22/12/2016,"Apt 10, Marsfield Ave, Clongriffin Dublin 13",Dublin,235500.0,No,Clongriffin,Dublin 13,q2,40%
+04/01/2017,"No. 13 Belltree Avenue, Clongriffin, Dublin 13",Dublin,290000.0,Yes,Clongriffin,Dublin 13,q3,70%
+11/01/2017,"Apt 3, 47 Main St, Clongriffin",Dublin,211453.74,No,Clongriffin,Dublin 13,q1,30%
+13/01/2017,"Apt 10, Marsfield Ave, Clongriffin",Dublin,192000.0,No,Clongriffin,Dublin 13,q1,20%
+27/01/2017,"54 Park Avenue, Clongriffin",Dublin,303964.76,Yes,Clongriffin,Dublin 13,q3,80%
+07/02/2017,"16 Park Lane, Belltree, Clongriffin",Dublin,255506.0,Yes,Clongriffin,Dublin 13,q2,50%
+15/02/2017,"17 Railway Mews, Clongriffin, Dublin 13",Dublin,345000.0,No,Clongriffin,Dublin 13,q4,100%
+16/02/2017,"Apt 1, 59 Main St, Clongriffin",Dublin,140969.16,Yes,Clongriffin,Dublin 13,q1,20%
+15/03/2017,"12 King Street, Clongriffin, Dublin 13",Dublin,288000.0,No,Clongriffin,Dublin 13,q3,70%
+28/03/2017,"5 Park Lane, Belltree, Clongriffin",Dublin,246696.0,Yes,Clongriffin,Dublin 13,q2,40%
+06/04/2017,"13 Park Lane, Belltree, Clongriffin",Dublin,249599.0,Yes,Clongriffin,Dublin 13,q2,40%
+10/04/2017,"7 Park Lane, Clongriffin, Dublin 13",Dublin,257268.72,Yes,Clongriffin,Dublin 13,q2,50%
+11/04/2017,"15 Park Lane, Beltree, Clongriffin",Dublin,257269.0,Yes,Clongriffin,Dublin 13,q2,50%
+12/04/2017,"11 Park Lane, Belltree, Clongriffin",Dublin,249598.53,Yes,Clongriffin,Dublin 13,q2,40%
+20/04/2017,"Apt 3, 1 Railway Rd, Clongriffin Dublin 13",Dublin,165000.0,No,Clongriffin,Dublin 13,q1,20%
+21/04/2017,"Apartment 10, 12 Railway Road, Clongriffin",Dublin,167500.0,No,Clongriffin,Dublin 13,q1,20%
+25/04/2017,"3 Park Lane, Belltree, Clongriffin",Dublin,259911.89,Yes,Clongriffin,Dublin 13,q2,50%
+26/04/2017,"10 Hoey Place, Beaupark, Clongriffin Dublin 13",Dublin,300000.0,No,Clongriffin,Dublin 13,q3,70%
+04/05/2017,"Apt 6, 3 Grange Lodge Ave, Clongriffin Dublin 13",Dublin,231000.0,No,Clongriffin,Dublin 13,q2,30%
+05/05/2017,"59 Park Avenue, Clongriffin, Dublin 13",Dublin,299559.47,Yes,Clongriffin,Dublin 13,q3,70%
+08/05/2017,"1 Park Lane, Belltree, Clongriffin",Dublin,315677.38,Yes,Clongriffin,Dublin 13,q4,80%
+10/05/2017,"60 Park Avenue, Belltree, Clongriffin",Dublin,303965.0,Yes,Clongriffin,Dublin 13,q3,80%
+10/05/2017,"9 Park Lane, Clongriffin, Dublin 13",Dublin,257683.85,Yes,Clongriffin,Dublin 13,q2,50%
+12/05/2017,"37 Marrsfield Avenue, Belltree, Clongriffin",Dublin,273128.0,Yes,Clongriffin,Dublin 13,q3,60%
+15/05/2017,"58 Park Avenue, Belltree, Clongriffin",Dublin,299559.0,Yes,Clongriffin,Dublin 13,q3,70%
+16/05/2017,"17 Belltree Place, Belltree, Clongriffin",Dublin,247787.61,Yes,Clongriffin,Dublin 13,q2,40%
+16/05/2017,"65 Marrsfield Avenue, Belltree, Clongriffin",Dublin,315669.0,Yes,Clongriffin,Dublin 13,q4,80%
+17/05/2017,"19 Belltree Place, Belltree, Clongriffin",Dublin,268722.0,Yes,Clongriffin,Dublin 13,q3,60%
+19/05/2017,"15 Belltree Place, Clongriffin, Dublin 13",Dublin,295000.0,Yes,Clongriffin,Dublin 13,q3,70%
+19/05/2017,"23 Belltree Place, Belltree, Clongriffin",Dublin,246696.04,Yes,Clongriffin,Dublin 13,q2,40%
+19/05/2017,"61 Park Avenue, Clongriffin",Dublin,306867.25,Yes,Clongriffin,Dublin 13,q3,80%
+01/06/2017,"25 Belltree Place, Belltree, Clongriffin",Dublin,246696.0,Yes,Clongriffin,Dublin 13,q2,40%
+01/06/2017,"27 Belltree Place, Belltree, Clongriffin",Dublin,281938.32,Yes,Clongriffin,Dublin 13,q3,60%
+19/06/2017,"57 Park Avenue, Belltree Clongriffin, Dublin 13",Dublin,299559.0,Yes,Clongriffin,Dublin 13,q3,70%
+05/07/2017,"4 - 67, Main St, Clongriffin",Dublin,255000.0,No,Clongriffin,Dublin 13,q2,50%
+06/07/2017,"67 Railway Rd, Clongriffin, Dublin 13",Dublin,250000.0,No,Clongriffin,Dublin 13,q2,50%
+19/07/2017,"7 Parkside, Clongriffin",Dublin,350000.0,Yes,Clongriffin,Dublin 13,q4,100%
+21/07/2017,"2 Beau Park Terrace, Clongriffin, Dublin 13",Dublin,227500.0,No,Clongriffin,Dublin 13,q2,30%
+03/08/2017,"6 Beau Park Rd, Clongriffin, Dublin 13",Dublin,290000.0,No,Clongriffin,Dublin 13,q3,70%
+08/08/2017,"21 Belltree Place, Clongriffin, Dublin 13",Dublin,249598.0,Yes,Clongriffin,Dublin 13,q2,40%
+31/08/2017,"21 King Street, Clongriffin",Dublin,285970.53,Yes,Clongriffin,Dublin 13,q3,70%
+05/09/2017,"15 King Street, Belltree, Clongriffin",Dublin,312775.0,Yes,Clongriffin,Dublin 13,q3,80%
+05/09/2017,"29 King Street, Belltree, Clongriffin",Dublin,316651.57,Yes,Clongriffin,Dublin 13,q4,80%
+08/09/2017,"25 King Street, Belltree, Clongriffin",Dublin,285972.5,Yes,Clongriffin,Dublin 13,q3,70%
+18/09/2017,"27 King St, Beltree, Clongriffin",Dublin,299204.0,Yes,Clongriffin,Dublin 13,q3,70%
+19/09/2017,"19 King Street, Belltree, Clongriffin",Dublin,281583.0,Yes,Clongriffin,Dublin 13,q3,60%
+22/09/2017,"17  King Street, Clongriffin, Dublin 13",Dublin,286344.0,Yes,Clongriffin,Dublin 13,q3,70%
+03/10/2017,"18 Belltree Walk, Belltree Park, Clongriffin",Dublin,303609.0,Yes,Clongriffin,Dublin 13,q3,70%
+03/10/2017,"24 Belltree Avenue, Clongriffin",Dublin,281583.0,Yes,Clongriffin,Dublin 13,q3,60%
+04/10/2017,"28 Belltree Avenue, Belltree Park, Clongriffin",Dublin,281583.0,Yes,Clongriffin,Dublin 13,q3,60%
+04/10/2017,"44 Beltree Avenue, Clongriffin",Dublin,277533.0,Yes,Clongriffin,Dublin 13,q3,60%
+06/10/2017,"46 Belltree Avenue, Clongriffin, Dublin 13",Dublin,277533.0,Yes,Clongriffin,Dublin 13,q3,60%
+10/10/2017,"38 Belltree Avenue, Belltree, Clongriffin",Dublin,247533.0,Yes,Clongriffin,Dublin 13,q2,40%
+11/10/2017,"26 Belltree Avenue, Belltree, Clongriffin",Dublin,277533.03,Yes,Clongriffin,Dublin 13,q3,60%
+11/10/2017,"42 Belltree Avenue, Belltree, Clongriffin",Dublin,277533.0,Yes,Clongriffin,Dublin 13,q3,60%
+12/10/2017,"Apt 5, 20 Railway Rd, Clongriffin Dublin 13",Dublin,195000.0,No,Clongriffin,Dublin 13,q1,20%
+17/10/2017,"32 Belltree Avenue, Belltree, Clongriffin",Dublin,277533.0,Yes,Clongriffin,Dublin 13,q3,60%
+17/10/2017,"36 Belltree Avenue, Belltree Clongriffin",Dublin,295154.19,Yes,Clongriffin,Dublin 13,q3,70%
+18/10/2017,"30 Belltree Avenue, Clongriffin",Dublin,281583.03,Yes,Clongriffin,Dublin 13,q3,60%
+19/10/2017,"16 Belltree Walk, Belltree Park, Clongriffin",Dublin,285988.0,Yes,Clongriffin,Dublin 13,q3,70%
+20/10/2017,"1 Hogy Place Beaupark, Clongriffin Dublin 13, Dublin",Dublin,315000.0,No,Clongriffin,Dublin 13,q4,80%
+20/10/2017,"23 King Street, Belltree Park, Clongriffin",Dublin,278748.0,Yes,Clongriffin,Dublin 13,q3,60%
+20/10/2017,"Apt 2, 37 Main St, Clongriffin Dublin 13",Dublin,205000.0,No,Clongriffin,Dublin 13,q1,30%
+23/10/2017,"17 Beau Park St, Clongriffin, Dublin 13",Dublin,279500.0,No,Clongriffin,Dublin 13,q3,60%
+24/10/2017,"10 Beltree Walk, Clongriffin, Dublin 13",Dublin,268722.46,Yes,Clongriffin,Dublin 13,q3,60%
+24/10/2017,"14 Belltree Walk, Belltree Park, Clongriffin",Dublin,268722.0,Yes,Clongriffin,Dublin 13,q3,60%
+24/10/2017,"4 Belltree Walk, Belltree, Clongriffin",Dublin,281938.33,Yes,Clongriffin,Dublin 13,q3,60%
+24/10/2017,"59 Grange Lodge Ave, Clongriffin, Dublin 13",Dublin,301000.0,No,Clongriffin,Dublin 13,q3,70%
+24/10/2017,"Apt 2 24 Marrsfield, Clongriffin, Dublin 13",Dublin,240000.0,No,Clongriffin,Dublin 13,q2,40%
+26/10/2017,"12 Belltree Walk, Belltree, Clongriffin  Dublin 13",Dublin,268722.47,Yes,Clongriffin,Dublin 13,q3,60%
+26/10/2017,"Apt 6, 37 Main St, Clongriffin Dublin 13",Dublin,206000.0,No,Clongriffin,Dublin 13,q1,30%
+02/11/2017,"34 Belltree Avenue, Belltree Park, Clongriffin",Dublin,295153.0,Yes,Clongriffin,Dublin 13,q3,70%
+06/11/2017,"9 Hoey Place, Clongriffin, Dublin 13",Dublin,295000.0,No,Clongriffin,Dublin 13,q3,70%
+06/11/2017,"Apt.12  No.32, Marrsfield Ave, Clongriffin",Dublin,195000.0,No,Clongriffin,Dublin 13,q1,30%
+08/11/2017,"40 Belltree Avenue, Clongriffin, Dublin 13",Dublin,277533.0,Yes,Clongriffin,Dublin 13,q3,60%
+13/11/2017,"19 Park Terrace, Beltree, Clongriffin",Dublin,259912.0,Yes,Clongriffin,Dublin 13,q2,50%
+15/11/2017,"15 Park Terrace, North Clongriffin",Dublin,268722.47,Yes,Clongriffin,Dublin 13,q3,60%
+16/11/2017,"11 Park Terrace North, Clongriffin, Dublin 13",Dublin,263961.0,Yes,Clongriffin,Dublin 13,q2,50%
+20/11/2017,"2 Belltree Walk, Belltree, Clongriffin",Dublin,330023.4,Yes,Clongriffin,Dublin 13,q4,90%
+20/11/2017,"Apt 4, 61 Main St, Clongriffin Dublin 13",Dublin,301000.0,No,Clongriffin,Dublin 13,q3,70%
+21/11/2017,"13 Park Terrace North, Beltree, Clongriffin",Dublin,259911.0,Yes,Clongriffin,Dublin 13,q2,50%
+22/11/2017,"12  Park Terrace North, Belltree, Clongriffin",Dublin,259900.0,Yes,Clongriffin,Dublin 13,q2,50%
+22/11/2017,"16 Park Terrace North, Belltree, Clongriffin",Dublin,272772.0,Yes,Clongriffin,Dublin 13,q3,60%
+23/11/2017,"17 Park Terrace North, Belltree, Clongriffin",Dublin,263961.0,Yes,Clongriffin,Dublin 13,q2,50%
+30/11/2017,"18 Park Terrace North, Belltree, Clongriffin",Dublin,259912.0,Yes,Clongriffin,Dublin 13,q2,50%
+01/12/2017,"8 Belltree Walk, Belltree, Clongriffin",Dublin,277160.0,Yes,Clongriffin,Dublin 13,q3,60%
+07/12/2017,"14 Park Terrace North, Belltree, Clongriffin",Dublin,263961.0,Yes,Clongriffin,Dublin 13,q2,50%
+07/12/2017,"43 Marrsfield Avenue, Belltree, Clongriffin",Dublin,295156.0,Yes,Clongriffin,Dublin 13,q3,70%
+08/12/2017,"47 Marrsfield Avenue, Belltree, Clongriffin",Dublin,295154.18,Yes,Clongriffin,Dublin 13,q3,70%
+08/12/2017,"57 Marrsfield Avenue, Belltree, Clongriffin",Dublin,301026.68,Yes,Clongriffin,Dublin 13,q3,70%
+08/12/2017,"59 Marrsfield Avenue, Belltree, Clongriffin",Dublin,295154.19,Yes,Clongriffin,Dublin 13,q3,70%
+14/12/2017,"2 Beltree Avenue, Clongriffin, Dublin 13",Dublin,375000.0,No,Clongriffin,Dublin 13,q4,100%
+14/12/2017,"20 Park Terrace North, Belltree, Clongriffin",Dublin,259911.89,Yes,Clongriffin,Dublin 13,q2,50%
+14/12/2017,"61  Marrsfield Avenue, Belltrtee, Clongriffin",Dublin,295154.19,Yes,Clongriffin,Dublin 13,q3,70%
+18/12/2017,"41 Marrsfiled Avenue, Belltree Clongriffin, Dublin 13",Dublin,301026.69,Yes,Clongriffin,Dublin 13,q3,70%
+18/12/2017,"45 Marsfield Avenue, Clongriffin, Dublin 13",Dublin,295200.0,Yes,Clongriffin,Dublin 13,q3,70%
+18/12/2017,"53 Marrsfield Avenue, Belltree, Clongriffin",Dublin,299599.0,Yes,Clongriffin,Dublin 13,q3,70%
+18/12/2017,"55 Marrsfield Avenue, Belltree, Clongriffin",Dublin,295154.0,Yes,Clongriffin,Dublin 13,q3,70%
+20/12/2017,"51 Marsfield Avenue, Belltree, Clongriffin",Dublin,303966.0,Yes,Clongriffin,Dublin 13,q3,80%
+22/12/2017,"19 Beau Park St, Clongriffin, Dublin 13",Dublin,295000.0,No,Clongriffin,Dublin 13,q3,70%
+17/01/2018,"Apt 9, 1 Beau Park St, Clongriffin Dublin 13",Dublin,265000.0,No,Clongriffin,Dublin 13,q3,60%
+18/01/2018,"2 Railway Close, Clongriffin, Dublin 13",Dublin,234000.0,No,Clongriffin,Dublin 13,q2,30%
+23/01/2018,"39 Marrsfield Avenue, Belltree, Clongriffin",Dublin,305309.74,Yes,Clongriffin,Dublin 13,q3,80%
+24/01/2018,"49 Marrsfield Avenue, Belltree, Clongriffin",Dublin,295154.18,Yes,Clongriffin,Dublin 13,q3,70%
+31/01/2018,"1 Priory Street, Clongriffin, Dublin13",Dublin,378000.0,No,Clongriffin,Dublin 13,q4,100%
+09/03/2018,"6 Beau Park Row, Clongriffin, Dublin 13",Dublin,331000.0,No,Clongriffin,Dublin 13,q4,90%
+12/03/2018,"Apt 9, 3 Main St, Clongriffin Dublin 13",Dublin,215000.0,No,Clongriffin,Dublin 13,q1,30%
+22/03/2018,"48 Belltree Avenue, Belltree, Clongriffin",Dublin,290748.0,Yes,Clongriffin,Dublin 13,q3,70%
+29/03/2018,"11 Kings Walk, Belltree, Clongriffin",Dublin,303965.0,Yes,Clongriffin,Dublin 13,q3,80%
+05/04/2018,"Apt 7, 4 Beau Park Ave, Clongriffin Dublin 13",Dublin,230000.0,No,Clongriffin,Dublin 13,q2,30%
+10/04/2018,"44 King Street, Belltree, Clongriffin",Dublin,303964.0,Yes,Clongriffin,Dublin 13,q3,70%
+10/04/2018,"54 Belltree Avenue, Belltree, Clongriffin",Dublin,301229.18,Yes,Clongriffin,Dublin 13,q3,70%
+10/04/2018,"58 Belltree Avenue, Belltree Park, Clongriffin",Dublin,290748.89,Yes,Clongriffin,Dublin 13,q3,70%
+10/04/2018,"63  Marrsfield Avenue, Belltree, Clongriffin",Dublin,303965.0,Yes,Clongriffin,Dublin 13,q3,80%
+16/04/2018,"19 Beau Park Mews, Clongriffin, Dublin 13",Dublin,315001.0,No,Clongriffin,Dublin 13,q4,80%
+17/04/2018,"50 Belltree Avenue, Clongriffin, Dublin 13",Dublin,308690.0,Yes,Clongriffin,Dublin 13,q3,80%
+27/04/2018,"28 King Street, Belltree, Clongriffin",Dublin,317181.0,Yes,Clongriffin,Dublin 13,q4,80%
+03/05/2018,"24 Park Terrace North, Clongriffin",Dublin,321585.9,Yes,Clongriffin,Dublin 13,q4,90%
+03/05/2018,"36 King Street, Belltree Park, Clongriffin",Dublin,283608.04,Yes,Clongriffin,Dublin 13,q3,70%
+03/05/2018,"56 Belltree Avenue, Clongriffin, Dublin 13",Dublin,296823.0,Yes,Clongriffin,Dublin 13,q3,70%
+03/05/2018,"Apt 4, Block 1, Beaupark St Clongriffin Dublin 13",Dublin,192000.0,No,Clongriffin,Dublin 13,q1,20%
+04/05/2018,"42 King Street, Belltree, Clongriffin",Dublin,305634.0,Yes,Clongriffin,Dublin 13,q3,80%
+08/05/2018,"52 Belltree Avenue, Belltree, Clongriffin",Dublin,295154.0,Yes,Clongriffin,Dublin 13,q3,70%
+09/05/2018,"34 King Street, Belltree, Clongriffin",Dublin,277533.0,Yes,Clongriffin,Dublin 13,q3,60%
+11/05/2018,"38 King Street, Belltree, Clongriffin",Dublin,277533.0,Yes,Clongriffin,Dublin 13,q3,60%
+15/05/2018,"6 Parkside Court, Parkside, Clongriffin",Dublin,330396.47,Yes,Clongriffin,Dublin 13,q4,90%
+16/05/2018,"22 Park Terrace North, Belltree, Clongriffin",Dublin,308370.0,Yes,Clongriffin,Dublin 13,q3,80%
+16/05/2018,"25 Park Terrace North, Belltree Park, Clongriffin",Dublin,339207.05,Yes,Clongriffin,Dublin 13,q4,100%
+18/05/2018,"27 Park Terrace North, Belltree, Clongriffin",Dublin,312775.33,Yes,Clongriffin,Dublin 13,q3,80%
+23/05/2018,"26 Park Terrace North, Beltree Park, Clongriffin",Dublin,308370.04,Yes,Clongriffin,Dublin 13,q3,80%
+25/05/2018,"26 King Street, Belltree, Clongriffin",Dublin,321586.0,Yes,Clongriffin,Dublin 13,q4,90%
+28/05/2018,"1 Kings Walk, Belltree, Clongriffin",Dublin,322620.0,Yes,Clongriffin,Dublin 13,q4,90%
+29/05/2018,"5 Kings Walk, Belltree, Clongriffin",Dublin,370000.0,Yes,Clongriffin,Dublin 13,q4,100%
+31/05/2018,"30 King Street, Belltree, Clongriffin",Dublin,250440.0,Yes,Clongriffin,Dublin 13,q2,50%
+01/06/2018,"1 Park Terrace South, Belltree, Clongriffin",Dublin,308689.75,Yes,Clongriffin,Dublin 13,q3,80%
+01/06/2018,"5 Park Terrace South, Belltree, Clongriffin",Dublin,317180.62,Yes,Clongriffin,Dublin 13,q4,80%
+07/06/2018,"22 Park Row, Belltree, Clongriffin",Dublin,339207.0,Yes,Clongriffin,Dublin 13,q4,90%
+07/06/2018,"28 Dermot Street, Clongriffin, Dublin13",Dublin,345000.0,No,Clongriffin,Dublin 13,q4,100%
+11/06/2018,"24 Park Row, Clongriffin, Dublin 13",Dublin,330418.0,Yes,Clongriffin,Dublin 13,q4,90%
+11/06/2018,"9 Park Terrace South, Belltree, Clongriffin",Dublin,303965.0,Yes,Clongriffin,Dublin 13,q3,80%
+12/06/2018,"30 Beaupark Street, Clongriffin, Dublin 13",Dublin,10000.0,No,Clongriffin,Dublin 13,q1,10%
+13/06/2018,"21 Park Terrace North, Belltree, Clongriffin",Dublin,308370.0,Yes,Clongriffin,Dublin 13,q3,80%
+13/06/2018,"7 Park Terrace South, Belltree, Clongriffin",Dublin,345000.0,Yes,Clongriffin,Dublin 13,q4,100%
+14/06/2018,"18 Park Row, Belltree, Clongriffin",Dublin,317180.61,Yes,Clongriffin,Dublin 13,q4,80%
+15/06/2018,"2 Park Terrace South, Belltree, Clongriffin",Dublin,308690.0,Yes,Clongriffin,Dublin 13,q3,80%
+21/06/2018,"11 King Street, Belltree Park, Clongriffin",Dublin,309585.0,Yes,Clongriffin,Dublin 13,q3,80%
+22/06/2018,"23 Park Terrace North, Belltree, Clongriffin",Dublin,330396.48,Yes,Clongriffin,Dublin 13,q4,90%
+22/06/2018,"4 Park Terrace South, Belltree, Clongriffin",Dublin,303964.75,Yes,Clongriffin,Dublin 13,q3,80%
+22/06/2018,"6 Park Terrace South, Belltree, Clongriffin",Dublin,321906.0,Yes,Clongriffin,Dublin 13,q4,90%
+25/06/2018,"10 Park Terrace South, Belltree, Clongriffin",Dublin,303964.0,Yes,Clongriffin,Dublin 13,q3,70%
+25/06/2018,"16 Park Row, Belltree, Clongriffin",Dublin,317180.0,Yes,Clongriffin,Dublin 13,q4,80%
+28/06/2018,"20 Park Row, Belltree, Clongriffin",Dublin,317180.61,Yes,Clongriffin,Dublin 13,q4,80%
+28/06/2018,"3 Kings Walk, Clongriffin, Dublin 13",Dublin,305524.0,Yes,Clongriffin,Dublin 13,q3,80%
+03/07/2018,"30 Beaupark Street, Clongriffin, Dublin 13",Dublin,30000.0,No,Clongriffin,Dublin 13,q1,10%
+03/07/2018,"8 Kings Walk, Beltree, Clongriffin",Dublin,325991.18,Yes,Clongriffin,Dublin 13,q4,90%
+04/07/2018,"3 Park Terrace South, Belltree, Clongriffin",Dublin,308689.76,Yes,Clongriffin,Dublin 13,q3,80%
+06/07/2018,"4 Kings Walk, Belltree Park, Clongriffin",Dublin,335121.0,Yes,Clongriffin,Dublin 13,q4,90%
+09/07/2018,"31 Park Terrace North, Clongriffin",Dublin,348018.0,Yes,Clongriffin,Dublin 13,q4,100%
+11/07/2018,"2 Kings Walk, Belltree Park, Clongriffin",Dublin,352422.91,Yes,Clongriffin,Dublin 13,q4,100%
+11/07/2018,"6 Kings Walk, Belltree, Clongriffin",Dublin,330716.0,Yes,Clongriffin,Dublin 13,q4,90%
+16/07/2018,"28 Park Terrace North, Belltree, Clongriffin",Dublin,339207.0,Yes,Clongriffin,Dublin 13,q4,90%
+17/07/2018,"9 Beau Park Mews, Clongriffin, Dublin 13",Dublin,228000.0,No,Clongriffin,Dublin 13,q2,30%
+19/07/2018,"29 Park Terrace North, Belltree, Clongriffin",Dublin,339207.04,Yes,Clongriffin,Dublin 13,q4,100%
+19/07/2018,"9 Kings Walk, Belltree Park, Clongriffin",Dublin,350000.0,Yes,Clongriffin,Dublin 13,q4,100%
+20/07/2018,"14 Park Row, Belltree, Clongriffin",Dublin,317180.62,Yes,Clongriffin,Dublin 13,q4,80%
+23/07/2018,"14 Kings Walk, Clongriffin, Dublin 13",Dublin,334802.0,Yes,Clongriffin,Dublin 13,q4,90%
+27/07/2018,"3 Grangelodge Court, Clongriffin, Dublin 13",Dublin,190500.0,No,Clongriffin,Dublin 13,q1,20%
+08/08/2018,"62 Belltree Avenue, Clongriffin",Dublin,317180.6,Yes,Clongriffin,Dublin 13,q4,80%
+10/08/2018,"60 Belltree Avenue, Belltree, Clongriffin",Dublin,317180.62,Yes,Clongriffin,Dublin 13,q4,80%
+12/08/2018,"21 Dermot Street, Clongriffin, Dublin 13",Dublin,340000.0,No,Clongriffin,Dublin 13,q4,100%
+13/08/2018,"8  Park Terrace South, Belltree, Clongriffin",Dublin,303965.0,Yes,Clongriffin,Dublin 13,q3,80%
+15/08/2018,"7 Kings Walk, Belltree, Clongriffin",Dublin,290748.89,Yes,Clongriffin,Dublin 13,q3,70%
+15/08/2018,"Apt 11, 3 Main St, Clongriffin Dublin 13",Dublin,260000.0,No,Clongriffin,Dublin 13,q2,50%
+16/08/2018,"61 Park Street, Beltree, Clongriffin",Dublin,352422.9,Yes,Clongriffin,Dublin 13,q4,100%
+17/08/2018,"68 Belltree Avenue, Belltree, Clongriffin",Dublin,317181.0,Yes,Clongriffin,Dublin 13,q4,80%
+22/08/2018,"10 Kings Walk, Belltree, Clongriffin",Dublin,308370.0,Yes,Clongriffin,Dublin 13,q3,80%
+24/08/2018,"47 Park Street, Belltree, Clongriffin",Dublin,317500.0,Yes,Clongriffin,Dublin 13,q4,80%
+28/08/2018,"12 Kings Walk, Belltree, Clongriffin",Dublin,330716.0,Yes,Clongriffin,Dublin 13,q4,90%
+29/08/2018,"57 Park Street, Beltree Park, Clongriffin",Dublin,355000.0,Yes,Clongriffin,Dublin 13,q4,100%
+30/08/2018,"51 The Park, Belltree, Clongriffin",Dublin,321905.61,Yes,Clongriffin,Dublin 13,q4,90%
+31/08/2018,"43 Park Street, Belltree, Clongriffin",Dublin,352422.91,Yes,Clongriffin,Dublin 13,q4,100%
+31/08/2018,"49 Park Street, Belltree, Clongriffin",Dublin,321905.0,Yes,Clongriffin,Dublin 13,q4,90%
+03/09/2018,"30 Park Terrace North, Belltree, Clongriffin",Dublin,343932.0,Yes,Clongriffin,Dublin 13,q4,100%
+04/09/2018,"59 Park Street, Belltree, Clongriffin",Dublin,317500.0,Yes,Clongriffin,Dublin 13,q4,80%
+06/09/2018,"53 Park Street, Belltree, Clongriffin",Dublin,317180.61,Yes,Clongriffin,Dublin 13,q4,80%
+06/09/2018,"66 Belltree Avenue, Belltree, Clongriffin",Dublin,321586.0,Yes,Clongriffin,Dublin 13,q4,90%
+07/09/2018,"70 Belltree Avenue, Belltree, Clongriffin",Dublin,317180.61,Yes,Clongriffin,Dublin 13,q4,80%
+11/09/2018,"55 Park Street, Belltree Park, Clongriffin",Dublin,317180.0,Yes,Clongriffin,Dublin 13,q4,80%
+12/09/2018,"5 Parkside Glen, Clongriffin",Dublin,376645.37,Yes,Clongriffin,Dublin 13,q4,100%
+20/09/2018,"2 Friars Lane, Clongriffin, Dublin 13",Dublin,294000.0,No,Clongriffin,Dublin 13,q3,70%
+20/09/2018,"Apt 11, 3 Railway Rd, Clongriffin",Dublin,239000.0,No,Clongriffin,Dublin 13,q2,40%
+28/09/2018,"64 Belltree Avenue, Belltree, Clongriffin",Dublin,321600.0,Yes,Clongriffin,Dublin 13,q4,90%
+01/10/2018,"45 Park Street, Beltree, Clongriffin",Dublin,312775.33,Yes,Clongriffin,Dublin 13,q4,80%
+10/10/2018,"2 Belltree Place, Clongriffin, Dublin 13",Dublin,321585.0,Yes,Clongriffin,Dublin 13,q4,90%
+18/10/2018,"17 Belltree Avenue, Belltree, Clongriffin",Dublin,330396.0,Yes,Clongriffin,Dublin 13,q4,90%
+18/10/2018,"6 Beltree Place, Beltree, Clongriffin",Dublin,312775.33,Yes,Clongriffin,Dublin 13,q4,80%
+19/10/2018,"14 Belltree Row, Belltree, Clongriffin",Dublin,330396.0,Yes,Clongriffin,Dublin 13,q4,90%
+22/10/2018,"Apt 9, 16 Railway Road, Clongriffin",Dublin,195000.0,No,Clongriffin,Dublin 13,q1,30%
+24/10/2018,"4 Belltree Place, Belltree, Clongriffin",Dublin,355000.0,Yes,Clongriffin,Dublin 13,q4,100%
+25/10/2018,"10 Belltree Place, Belltree, Clongriffin",Dublin,312775.33,Yes,Clongriffin,Dublin 13,q4,80%
+02/11/2018,"Apt 4 12 Railway Rd, Clongriffin, Dublin",Dublin,185000.0,No,Clongriffin,Dublin 13,q1,20%
+07/11/2018,"6 Belltree Row, Clongriffin",Dublin,325991.0,Yes,Clongriffin,Dublin 13,q4,90%
+08/11/2018,"12 Belltree Place, Belltree, Clongriffin",Dublin,325618.11,Yes,Clongriffin,Dublin 13,q4,90%
+08/11/2018,"5 Park Lane, Belltree, Clongriffin",Dublin,356000.0,No,Clongriffin,Dublin 13,q4,100%
+09/11/2018,"21 Belltree Green, Belltree, Clongriffin",Dublin,325618.11,Yes,Clongriffin,Dublin 13,q4,90%
+13/11/2018,"18 Belltree Place, Belltree, Clongriffin",Dublin,317180.61,Yes,Clongriffin,Dublin 13,q4,80%
+13/11/2018,"Apt 5, 3 Grange Lodge Ave, Clongriffin",Dublin,185000.0,No,Clongriffin,Dublin 13,q1,20%
+14/11/2018,"11 Belltree Green, Belltree, Clongriffin",Dublin,338833.0,Yes,Clongriffin,Dublin 13,q4,90%
+14/11/2018,"19 Belltree Avenue, Clongriffin, Dublin 13",Dublin,333025.07,Yes,Clongriffin,Dublin 13,q4,90%
+19/11/2018,"10 Belltree Row, Belltree, Clongriffin",Dublin,325991.19,Yes,Clongriffin,Dublin 13,q4,90%
+21/11/2018,"13 Belltree Green, Clongriffin, Dublin",Dublin,326000.0,Yes,Clongriffin,Dublin 13,q4,90%
+22/11/2018,"4 Priory St, Clongriffin, Dublin 13",Dublin,311500.0,No,Clongriffin,Dublin 13,q3,80%
+22/11/2018,"Apt 10, 18 Railway Road, Clongriffin",Dublin,192000.0,No,Clongriffin,Dublin 13,q1,20%
+23/11/2018,"23 Belltree Avenue, Belltree, Clongriffin",Dublin,339207.05,Yes,Clongriffin,Dublin 13,q4,100%
+23/11/2018,"3 Belltree Row, Belltree, Clongriffin",Dublin,339207.0,Yes,Clongriffin,Dublin 13,q4,90%
+26/11/2018,"17 Belltree Green, Belltree, Clongriffin",Dublin,325991.0,Yes,Clongriffin,Dublin 13,q4,90%
+27/11/2018,"12 Belltree Row, Belltree, Clongriffin",Dublin,347644.5,Yes,Clongriffin,Dublin 13,q4,100%
+27/11/2018,"16 Belltree Place, Belltree, Clongriffin",Dublin,317180.0,Yes,Clongriffin,Dublin 13,q4,80%
+27/11/2018,"19 Belltree Green, Clongriffin, Dublin 13",Dublin,325991.19,Yes,Clongriffin,Dublin 13,q4,90%
+28/11/2018,"21 Belltree Avenue, Belltree, Clongriffin",Dublin,339207.04,Yes,Clongriffin,Dublin 13,q4,100%
+29/11/2018,"5 Belltree Row, Belltree, Clongriffin",Dublin,339207.0,Yes,Clongriffin,Dublin 13,q4,90%
+29/11/2018,"Apt 9, 3 Beau Park St, Clongriffin Dublin 13",Dublin,297000.0,No,Clongriffin,Dublin 13,q3,70%
+04/12/2018,"15 Belltree Green, Belltree, Clongriffin",Dublin,325991.0,Yes,Clongriffin,Dublin 13,q4,90%
+06/12/2018,"35 Marrsfield Avenue, Belltree, Clongriffin",Dublin,338833.98,Yes,Clongriffin,Dublin 13,q4,90%
+10/12/2018,"5 Belltree Green, Belltree, Clongriffin",Dublin,348018.0,Yes,Clongriffin,Dublin 13,q4,100%
+12/12/2018,"2 Belltree Row, Belltree, Clongriffin",Dublin,339207.0,Yes,Clongriffin,Dublin 13,q4,90%
+12/12/2018,"23 Marrsfield Avenue, Belltree, Clongriffin",Dublin,369670.98,Yes,Clongriffin,Dublin 13,q4,100%
+13/12/2018,"7 Belltree Row, Belltree  Clongriffin",Dublin,338833.97,Yes,Clongriffin,Dublin 13,q4,90%
+18/12/2018,"1 Belltree Green, Belltree, Clongriffin",Dublin,348017.62,Yes,Clongriffin,Dublin 13,q4,100%
+18/12/2018,"14 Belltree Place, Belltree, Clongriffin",Dublin,317180.62,Yes,Clongriffin,Dublin 13,q4,80%
+18/12/2018,"18 Belltree Green, Clongriffin, Dublin 17",Dublin,316704.0,Yes,Clongriffin,Dublin 13,q4,80%
+19/12/2018,"22 Belltree Green, Belltree, Clongriffin",Dublin,321586.9,Yes,Clongriffin,Dublin 13,q4,90%
+19/12/2018,"7 Belltree Green, Belltree, Clongriffin",Dublin,348017.62,Yes,Clongriffin,Dublin 13,q4,100%
+19/12/2018,"9 Belltree Green, Belltree, Clongriffin",Dublin,352422.9,Yes,Clongriffin,Dublin 13,q4,100%
+19/12/2018,"No. 20 Belltree Green, Belltree, Clongriffin",Dublin,317180.61,Yes,Clongriffin,Dublin 13,q4,80%
+20/12/2018,"56 Railway Rd, Clongriffin, Dublin 13",Dublin,320000.0,No,Clongriffin,Dublin 13,q4,80%
+20/12/2018,"8 Belltree Place, Clongriffin",Dublin,312775.33,Yes,Clongriffin,Dublin 13,q4,80%
+21/12/2018,"26 Railway Rd, Clongriffin, Dublin 13",Dublin,283000.0,No,Clongriffin,Dublin 13,q3,60%
+10/01/2019,"25 Marrsfield Avenue, Belltree, Clongriffin",Dublin,352422.9,Yes,Clongriffin,Dublin 13,q4,100%
+22/01/2019,"Apt 1, 1 Beau Park St, Clongriffin",Dublin,215000.0,No,Clongriffin,Dublin 13,q2,30%
+25/01/2019,"31 Marrsfield Avenue, Belltree, Clongriffin",Dublin,343612.0,Yes,Clongriffin,Dublin 13,q4,100%
+25/01/2019,"33 Marrsfield Avenue, Belltree, Clongriffin",Dublin,352422.82,Yes,Clongriffin,Dublin 13,q4,100%
+30/01/2019,"16 Belltree Green, Clongriffin, Dublin 13",Dublin,330023.4,Yes,Clongriffin,Dublin 13,q4,90%
+04/02/2019,"8 Belltree Row, Clongriffin",Dublin,325991.0,Yes,Clongriffin,Dublin 13,q4,90%
+08/02/2019,"25 Beltree Avenue, Beltree, Clongriffin",Dublin,338834.0,Yes,Clongriffin,Dublin 13,q4,90%
+13/02/2019,"Apt 1 5 Railway Rd, Beaupark, Clongriffin Dublin 13",Dublin,272500.0,No,Clongriffin,Dublin 13,q3,60%
+15/02/2019,"14 Belltree Green, Belltree, Clongriffin",Dublin,321585.0,Yes,Clongriffin,Dublin 13,q4,90%
+15/02/2019,"3 Belltree Green, Belltree, Clongriffin",Dublin,352422.0,Yes,Clongriffin,Dublin 13,q4,100%
+01/03/2019,"4 Belltree Row, Beltree, Clongriffin",Dublin,339207.0,Yes,Clongriffin,Dublin 13,q4,100%
+07/03/2019,"27 Marrsfield Avenue, Clongriffin",Dublin,343700.0,Yes,Clongriffin,Dublin 13,q4,100%
+08/03/2019,"22 Belltree Place, Clongriffin",Dublin,330023.4,Yes,Clongriffin,Dublin 13,q4,90%
+12/03/2019,"29 Marrsfield Avenue, Belltree, Clongriffin",Dublin,352049.5,Yes,Clongriffin,Dublin 13,q4,100%
+03/04/2019,"2 Belltree Lane, Belltree, Clongriffin",Dublin,330396.0,Yes,Clongriffin,Dublin 13,q4,90%
+11/04/2019,"Apartment 11, 11 Main Street, Beaupark   Clongriffin",Dublin,210084.74,No,Clongriffin,Dublin 13,q1,30%
+18/04/2019,"26 Beau Park Sq, Clongriffin, Dublin 13",Dublin,320000.0,No,Clongriffin,Dublin 13,q4,90%
+24/04/2019,"Apt 7, 19 Main St, Clongriffin Dublin 13",Dublin,210000.0,No,Clongriffin,Dublin 13,q1,30%
+26/04/2019,"Apt 3, 5 Railway Rd, Clongriffin Dublin 13",Dublin,260000.0,No,Clongriffin,Dublin 13,q2,50%
+10/05/2019,"Apt 4, 5 Railway Rd, Clongriffin Dublin 13",Dublin,260000.0,No,Clongriffin,Dublin 13,q2,50%
+22/05/2019,"2 Beau Park Mews, Clongriffin Dublin 13, Dublin",Dublin,275000.0,No,Clongriffin,Dublin 13,q3,60%
+31/05/2019,"3 Parkside Gardens, Parkside, Clongriffin",Dublin,455000.0,Yes,Clongriffin,Dublin 13,q4,100%
+10/06/2019,"Apt 1, 36 Railway Road, Clongriffin",Dublin,205000.0,No,Clongriffin,Dublin 13,q1,30%
+10/06/2019,"Apt 3, 36 Railway Court, Clongriffin",Dublin,240000.0,No,Clongriffin,Dublin 13,q2,40%
+12/06/2019,"12 Beaupark Terrace, Clongriffin Dublin 13, Dublin",Dublin,330000.0,No,Clongriffin,Dublin 13,q4,90%
+02/07/2019,"162 Grange Lodge Ave, Clongriffin, Dublin 13",Dublin,275000.0,No,Clongriffin,Dublin 13,q3,60%
+04/07/2019,"24 King Street, Belltree, Clongriffin",Dublin,373029.79,Yes,Clongriffin,Dublin 13,q4,100%
+05/07/2019,"Apt 8, 5 Railway Rd, Clongriffin Dublin 13",Dublin,216000.0,No,Clongriffin,Dublin 13,q2,30%
+10/07/2019,"22 King Street, Belltree, Clongriffin",Dublin,348018.0,Yes,Clongriffin,Dublin 13,q4,100%
+12/07/2019,"Apt 1 Block 3, Beaupark St, Clongriffin Dublin 13",Dublin,225000.0,No,Clongriffin,Dublin 13,q2,30%
+18/07/2019,"11 Park Terrace South, Belltree, Clongriffin",Dublin,356827.75,Yes,Clongriffin,Dublin 13,q4,100%
+25/07/2019,"21 Park Terrace South, Belltree, Clongriffin",Dublin,356828.2,Yes,Clongriffin,Dublin 13,q4,100%
+25/07/2019,"24 Park Terrace South, Belltree, Clongriffin",Dublin,365638.77,Yes,Clongriffin,Dublin 13,q4,100%
+26/07/2019,"13 Park Terrace South, Beltree, Clongriffin",Dublin,356828.19,Yes,Clongriffin,Dublin 13,q4,100%
+26/07/2019,"17 Park Terrace South, Belltree, Clongriffin",Dublin,365639.0,Yes,Clongriffin,Dublin 13,q4,100%
+29/07/2019,"No 29 Park Avenue, Clongriffin, Dublin 13",Dublin,425000.0,No,Clongriffin,Dublin 13,q4,100%
+30/07/2019,"2 Beau Park Crescent, Clongriffin, Dublin 13",Dublin,402000.0,No,Clongriffin,Dublin 13,q4,100%
+30/07/2019,"Apt 11, 23 Main St, Clongriffin Dublin 13",Dublin,295000.0,No,Clongriffin,Dublin 13,q3,70%
+31/07/2019,"16 Park Terrace South, Belltree, Clongriffin",Dublin,356828.0,Yes,Clongriffin,Dublin 13,q4,100%
+02/08/2019,"8 Beau Park Terrace, Clongriffin, Dublin 13",Dublin,252000.0,No,Clongriffin,Dublin 13,q2,50%
+07/08/2019,"15 Park Terrace South, Belltree, Clongriffin",Dublin,356828.0,Yes,Clongriffin,Dublin 13,q4,100%
+07/08/2019,"18 Park Terrace South, Bellree, Clongriffin",Dublin,365638.77,Yes,Clongriffin,Dublin 13,q4,100%
+07/08/2019,"23 Park Terrace South, Belltree, Clongriffin",Dublin,356828.2,Yes,Clongriffin,Dublin 13,q4,100%
+13/08/2019,"19 Park Terrace South, Beltree, Clongriffin",Dublin,356828.0,Yes,Clongriffin,Dublin 13,q4,100%
+16/08/2019,"Apt 1, 3 Dermot St, Clongriffin Dublin 13",Dublin,215000.0,No,Clongriffin,Dublin 13,q2,30%
+20/08/2019,"1 Park Mews, Belltree, Clongriffin",Dublin,370044.1,Yes,Clongriffin,Dublin 13,q4,100%
+22/08/2019,"22 Park Terrace South, Beltree, Clongriffin",Dublin,352422.9,Yes,Clongriffin,Dublin 13,q4,100%
+23/08/2019,"3 Park Mews, Belltree, Clongriffin",Dublin,343612.3,Yes,Clongriffin,Dublin 13,q4,100%
+30/08/2019,"Block 2, Main Street, Clongriffin",Dublin,20925110.0,Yes,Clongriffin,Dublin 13,q4,100%
+02/09/2019,"160 Grange Lodge Ave, Clongriffin, Dublin 13",Dublin,285000.0,No,Clongriffin,Dublin 13,q3,70%
+02/09/2019,"2 Park Mews, Clongriffin, Dublin 13",Dublin,352422.9,Yes,Clongriffin,Dublin 13,q4,100%
+04/09/2019,"17 Beau Park St, Clongriffin, Dublin 13",Dublin,307000.0,No,Clongriffin,Dublin 13,q3,80%
+04/09/2019,"23 Park Street, Belltree, Clongriffin",Dublin,325991.0,Yes,Clongriffin,Dublin 13,q4,90%
+06/09/2019,"29 Park Street, Beltree, Clongriffin",Dublin,321586.0,Yes,Clongriffin,Dublin 13,q4,90%
+09/09/2019,"25 Park Street, Belltree, Clongriffin",Dublin,334801.0,Yes,Clongriffin,Dublin 13,q4,90%
+09/09/2019,"Apt 4, 55 Main St, Clongriffin Dublin 13",Dublin,285000.0,No,Clongriffin,Dublin 13,q3,70%
+11/09/2019,"35 Park Street, Belltree, Clongriffin",Dublin,334802.0,Yes,Clongriffin,Dublin 13,q4,90%
+12/09/2019,"27 Park Street, Clongriffin, Dublin",Dublin,325900.0,Yes,Clongriffin,Dublin 13,q4,90%
+12/09/2019,"4 Park Mews, Belltree, Clongriffin",Dublin,347779.0,Yes,Clongriffin,Dublin 13,q4,100%
+13/09/2019,"1 Station Way Road, Clongriffin, Dublin 13",Dublin,320000.0,No,Clongriffin,Dublin 13,q4,90%
+13/09/2019,"19 Park Street, Belltree, Clongriffin",Dublin,334801.76,Yes,Clongriffin,Dublin 13,q4,90%
+17/09/2019,"21 Park Street, Belltree, Clongriffin",Dublin,325991.18,Yes,Clongriffin,Dublin 13,q4,90%
+22/09/2019,"12 Park Terrace South, Belltree, Clongriffin",Dublin,361233.48,Yes,Clongriffin,Dublin 13,q4,100%
+25/09/2019,"14 Park Terrace South, Beltree, Clongriffin",Dublin,361234.0,Yes,Clongriffin,Dublin 13,q4,100%
+07/10/2019,"Apt 7, No 3 Main Street, Clongriffin",Dublin,247000.0,No,Clongriffin,Dublin 13,q2,40%
+10/10/2019,"33 Park Street, Clongriffin",Dublin,325991.2,Yes,Clongriffin,Dublin 13,q4,90%
+10/10/2019,"Apt 5, 1 Dermot St, Clongriffin Dublin 13",Dublin,265000.0,No,Clongriffin,Dublin 13,q3,60%
+15/10/2019,"Apt 9, 5 Beau Park St, Clongriffin Dublin 13",Dublin,276000.0,No,Clongriffin,Dublin 13,q3,60%

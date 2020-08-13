@@ -1,0 +1,17 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+03/09/2010,"Apartment 7, 66/67 South Great Georges Street, Dublin 2",Dublin,300000.0,No,South Great Georges St,Dublin 2,q4,100%
+11/12/2012,"10 Wicklow Court, South Great Georges Street, Dublin 2",Dublin,190000.0,No,South Great Georges St,Dublin 2,q1,20%
+18/06/2014,"Apt 7, 66 South Great Georges Street, Dublin 2",Dublin,278000.0,No,South Great Georges St,Dublin 2,q4,90%
+27/11/2014,"18 Wicklow Court, South Great Georges Stree",Dublin,272500.0,No,South Great Georges St,Dublin 2,q4,80%
+22/12/2014,"14 Wicklow Court, South Great Georges St, Dublin 2",Dublin,135000.0,No,South Great Georges St,Dublin 2,q1,10%
+20/02/2015,"Apt 39 Wicklow Court, 38 40 South Great Georges St, Dublin 2",Dublin,187000.0,No,South Great Georges St,Dublin 2,q1,20%
+31/07/2015,"Apt 20 Wicklow Court, 38 40 South Great Georges St, Dublin 2",Dublin,192000.0,No,South Great Georges St,Dublin 2,q3,60%
+21/03/2016,"Apt 1, 24 South Great Georges St, Dublin 2",Dublin,270850.0,No,South Great Georges St,Dublin 2,q3,60%
+21/03/2016,"Apt 2, 24 South Great Georges St, Dublin 2",Dublin,270850.0,No,South Great Georges St,Dublin 2,q3,70%
+21/03/2016,"Apt 3, 24 South Great Georges St, Dublin 2",Dublin,270850.0,No,South Great Georges St,Dublin 2,q3,80%
+04/10/2016,"Apt 16 Wicklow Court, 38 40 South Great Georges St, Dublin 2",Dublin,190000.0,No,South Great Georges St,Dublin 2,q2,30%
+04/10/2016,"Apt 22 Wicklow Court, 38 40 South Great Georges St, Dublin 2",Dublin,190000.0,No,South Great Georges St,Dublin 2,q2,40%
+04/10/2016,"Apt 31 Wicklow Court, 38 40 South Great Georges St, Dublin 2",Dublin,190000.0,No,South Great Georges St,Dublin 2,q2,40%
+11/11/2016,"Apt 27 Wicklow Court, 38 40 South Great Georges St, Dublin 2",Dublin,190000.0,No,South Great Georges St,Dublin 2,q2,50%
+07/03/2018,"46 Wicklow Court, South Great Georges St, Dublin 2",Dublin,142000.0,No,South Great Georges St,Dublin 2,q1,10%
+11/12/2018,"23 Wicklow Court, 38/40 South Great Georges St, Dublin 2",Dublin,281000.0,No,South Great Georges St,Dublin 2,q4,100%

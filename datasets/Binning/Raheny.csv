@@ -1,0 +1,1089 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+04/02/2010,"171 Belmont Park, Raheny",Dublin,282000.0,No,Raheny,Dublin 5,q2,30%
+11/02/2010,"48 Foxfield Park, Raheny, Dublin 5",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+24/02/2010,"Apartment 90, The Watermill, Raheny",Dublin,375000.0,No,Raheny,Dublin 5,q3,60%
+04/03/2010,"1A, Sybil Hill Road, Raheny",Dublin,1119300.0,No,Raheny,Dublin 5,q4,100%
+19/03/2010,"2 Grange Hall, Raheny",Dublin,221145.0,Yes,Raheny,Dublin 5,q1,20%
+23/03/2010,"92  Ashcroft, Raheny",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+25/03/2010,"90 Tonlegee Rd, Raheny",Dublin,385000.0,No,Raheny,Dublin 5,q3,70%
+13/04/2010,"25 St. Annes Avenue, Raheny, Dublin 5",Dublin,302000.0,No,Raheny,Dublin 5,q2,40%
+30/04/2010,"23 The Grove, Bettyglen, Raheny",Dublin,367000.0,No,Raheny,Dublin 5,q3,60%
+30/04/2010,"9 Watermill Avenue, Raheny",Dublin,315000.0,No,Raheny,Dublin 5,q2,40%
+30/04/2010,"90  Foxfield Grove, Raheny, Dublin",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+05/05/2010,"19 Kilbarrack Road, Raheny",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+07/05/2010,"57A Ennafort Road, Raheny, Dublin 5",Dublin,445000.0,Yes,Raheny,Dublin 5,q4,80%
+14/05/2010,"46 St. Annes Avenue, Raheny",Dublin,265000.0,No,Raheny,Dublin 5,q1,30%
+17/05/2010,"2 Edenmore Park, Raheny, Dublin 5",Dublin,230000.0,No,Raheny,Dublin 5,q1,20%
+31/05/2010,"145 Bettyglen, Raheny",Dublin,570000.0,No,Raheny,Dublin 5,q4,100%
+04/06/2010,"22 Belmont Square, Raheny",Dublin,228500.0,No,Raheny,Dublin 5,q1,20%
+04/06/2010,"34 Ennafort Park, Raheny, Dublin 5",Dublin,585000.0,No,Raheny,Dublin 5,q4,100%
+08/06/2010,"34 Maywood Crescent, Raheny",Dublin,490000.0,No,Raheny,Dublin 5,q4,90%
+18/06/2010,"15 Tuscany Downs, Raheny",Dublin,291000.0,No,Raheny,Dublin 5,q2,40%
+25/06/2010,"7A The Glen, Bettyglen, Raheny",Dublin,160000.0,No,Raheny,Dublin 5,q1,10%
+26/06/2010,"48 Cill Eanna, Ennisfort, Raheny",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+01/07/2010,"14 The Village, Bettyglen, Raheny  Dublin 5",Dublin,327500.0,No,Raheny,Dublin 5,q2,50%
+07/07/2010,"24A The Glen, Bettyglen, Raheny",Dublin,145000.0,No,Raheny,Dublin 5,q1,10%
+09/07/2010,"21A The Glen, Bettyglen, Raheny",Dublin,145000.0,No,Raheny,Dublin 5,q1,10%
+15/07/2010,"235 Kilbarrack, Raheny, Dublin",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+23/07/2010,"21 All Saints Park, Raheny",Dublin,124850.0,Yes,Raheny,Dublin 5,q1,10%
+23/07/2010,"217 Tonlegee Road, Raheny, Dublin 5",Dublin,280000.0,No,Raheny,Dublin 5,q2,30%
+23/07/2010,"34 The Village, Bettyglen, Raheny",Dublin,322000.0,No,Raheny,Dublin 5,q2,50%
+23/07/2010,"96 Belmont Park, Raheny, Dublin 5",Dublin,322000.0,No,Raheny,Dublin 5,q2,50%
+04/08/2010,"4 Gardini Lein, Raheny",Dublin,222000.0,No,Raheny,Dublin 5,q1,20%
+05/08/2010,"33 St. Assams Park, Raheny, Dublin 5",Dublin,234000.0,No,Raheny,Dublin 5,q1,20%
+11/08/2010,"219A Tonlagee Road, Raheny",Dublin,336500.0,No,Raheny,Dublin 5,q2,50%
+17/08/2010,"60 Belmont Park, Raheny",Dublin,330000.0,No,Raheny,Dublin 5,q2,50%
+30/08/2010,"1 Tonlegee Drive, Raheny",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+02/09/2010,"62 Millbrook Avenue, Raheny",Dublin,220000.0,No,Raheny,Dublin 5,q1,20%
+08/09/2010,"15 Avondale Park, Raheny, Dublin 5",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+08/09/2010,"46 Edenmore Grove, Raheny, Dublin 5",Dublin,173000.0,No,Raheny,Dublin 5,q1,10%
+09/09/2010,"28 The Court, Bettyglen, Raheny",Dublin,260000.0,No,Raheny,Dublin 5,q1,30%
+23/09/2010,"54 St Assams Park, Raheny, Dublin 13",Dublin,417500.0,No,Raheny,Dublin 5,q3,70%
+27/09/2010,"8 Grange Hall, Raheny",Dublin,252000.0,Yes,Raheny,Dublin 5,q1,30%
+30/09/2010,"83 Ennafort Park, Raheny",Dublin,420000.0,No,Raheny,Dublin 5,q3,70%
+05/10/2010,"20 Block B, The Glen  Bettyglen, Raheny",Dublin,155000.0,No,Raheny,Dublin 5,q1,10%
+11/10/2010,"124 Ashcroft, Raheny, Dublin 5",Dublin,267000.0,No,Raheny,Dublin 5,q1,30%
+12/10/2010,"10 Grange Park Rise, Raheny",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+12/10/2010,"22 All Saints Road, Raheny",Dublin,280000.0,No,Raheny,Dublin 5,q2,30%
+12/10/2010,"5 Foxfield Grove, Raheny",Dublin,350000.0,No,Raheny,Dublin 5,q2,50%
+14/10/2010,"25 St. Assam'S Avenue, Raheny",Dublin,410000.0,No,Raheny,Dublin 5,q3,70%
+15/10/2010,"10 Grange Park Grove, Raheny, Dublin 5",Dublin,305000.0,No,Raheny,Dublin 5,q2,40%
+22/10/2010,"117 Edenmore Crescent, Raheny",Dublin,180000.0,No,Raheny,Dublin 5,q1,10%
+29/10/2010,"104 Edenmore Crescent, Raheny, Dublin 5",Dublin,190000.0,No,Raheny,Dublin 5,q1,10%
+01/11/2010,"22 Grange Park Grove, Raheny",Dublin,317000.0,No,Raheny,Dublin 5,q2,50%
+08/11/2010,"29 Grange Park Road, Raheny",Dublin,330000.0,No,Raheny,Dublin 5,q2,50%
+12/11/2010,"26 Tuscany Downs, Raheny",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+16/11/2010,"72 The Village, Bettyglen, Raheny",Dublin,310000.0,No,Raheny,Dublin 5,q2,40%
+22/11/2010,"89 Block 2B, Watermill Raheny, Dublin 5",Dublin,285001.0,Yes,Raheny,Dublin 5,q2,40%
+01/12/2010,"52 Grange Park View, Raheny, Dublin",Dublin,286000.0,No,Raheny,Dublin 5,q2,40%
+10/12/2010,"16 Watermill Avenue, Raheny, Dublin 5",Dublin,140000.0,No,Raheny,Dublin 5,q1,10%
+15/12/2010,"5 Woodbine Road, Raheny, Dublin 5",Dublin,275500.0,No,Raheny,Dublin 5,q2,30%
+17/12/2010,"20 Edenmore Cresent, Raheny, Dublin 5",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+20/12/2010,"25 Maywood Park, Raheny, Dublin 5",Dublin,415000.0,No,Raheny,Dublin 5,q3,70%
+12/01/2011,"30  St. Assam'S Road West, Raheny, Dublin 5",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+14/01/2011,"17 Fox'S Lane, Raheny",Dublin,610000.0,No,Raheny,Dublin 5,q4,100%
+18/01/2011,"10 Bettystown Avenue, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+19/01/2011,"207 Raheny Road, Raheny, Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+31/01/2011,"132 Foxfield Park, Raheny",Dublin,375000.0,No,Raheny,Dublin 5,q3,60%
+18/02/2011,"51 All Saints Road, Raheny",Dublin,320500.0,No,Raheny,Dublin 5,q2,50%
+04/03/2011,"3 Island View, Raheny",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+09/03/2011,"12 Cill Eanna, Raheny",Dublin,375000.0,No,Raheny,Dublin 5,q3,60%
+14/03/2011,"1 St Annes Avenue, Raheny, Dublin 5",Dublin,245000.0,No,Raheny,Dublin 5,q1,20%
+04/04/2011,"135 Tonlegee Road, Raheny",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+07/04/2011,"Apartment 7, Grange Hall, Raheny",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+27/04/2011,"15 Grange Park Crescent, Raheny, Dublin 5",Dublin,207500.0,No,Raheny,Dublin 5,q1,20%
+28/04/2011,"138 Bettyglen, Raheny, Dublin 5",Dublin,402000.0,No,Raheny,Dublin 5,q3,70%
+29/04/2011,"117 St Assams Avenue, Raheny",Dublin,420000.0,No,Raheny,Dublin 5,q3,70%
+09/05/2011,"42 Grange Park Road, Raheny, Dublin 5",Dublin,336000.0,No,Raheny,Dublin 5,q2,50%
+11/05/2011,"29 Limewood Avenue, Raheny",Dublin,261000.0,No,Raheny,Dublin 5,q1,30%
+20/05/2011,"2 Foxfield Grove, Raheny, Dublin 5",Dublin,312500.0,No,Raheny,Dublin 5,q2,40%
+26/05/2011,"7, Ennafort Park, Raheny",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+09/06/2011,"27 St. Annes Avenue, Raheny",Dublin,213000.0,No,Raheny,Dublin 5,q1,20%
+16/06/2011,"29 Maryville Road, Raheny, Dublin 5",Dublin,203000.0,No,Raheny,Dublin 5,q1,20%
+23/06/2011,"24 Maywood Avenue, Raheny",Dublin,305000.0,No,Raheny,Dublin 5,q2,40%
+29/06/2011,"11 Woodbine Close, Raheny, Dublin 5",Dublin,260000.0,No,Raheny,Dublin 5,q1,30%
+30/06/2011,"30 Edenmore Grove, Raheny, Dublin 5",Dublin,172000.0,No,Raheny,Dublin 5,q1,10%
+01/07/2011,"2 The Grove, Bettyglen, Raheny",Dublin,305000.0,No,Raheny,Dublin 5,q2,40%
+07/07/2011,"10 Bettystown Ave, Raheny, Dublin 5",Dublin,286500.0,No,Raheny,Dublin 5,q2,40%
+07/07/2011,"32 Lough Derg Road, Raheny",Dublin,221000.0,No,Raheny,Dublin 5,q1,20%
+11/07/2011,"78 Glenwood Road, Raheny",Dublin,220000.0,No,Raheny,Dublin 5,q1,20%
+26/07/2011,"92 The Village, Bettyglen, Raheny",Dublin,246000.0,No,Raheny,Dublin 5,q1,30%
+29/07/2011,"7 Island View, Kilbarrack Road, Raheny",Dublin,272000.0,No,Raheny,Dublin 5,q2,30%
+05/08/2011,"91A Belmont Park, Raheny",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+09/08/2011,"30 Woodbine Drive, Raheny, Dublin 5",Dublin,235000.0,No,Raheny,Dublin 5,q1,20%
+15/08/2011,"21 Edenmore Drive, Raheny",Dublin,195000.0,No,Raheny,Dublin 5,q1,10%
+24/08/2011,"101 Maryvile Road, St. Anne'S, Raheny",Dublin,235000.0,No,Raheny,Dublin 5,q1,20%
+24/08/2011,"15 All Saints Road, Raheny, Dublin5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+26/08/2011,"69 Ennafort Road, Raheny",Dublin,382000.0,No,Raheny,Dublin 5,q3,60%
+29/08/2011,"4 All Saints Road, Raheny",Dublin,230000.0,No,Raheny,Dublin 5,q1,20%
+01/09/2011,"54 St Annes Avenue, Raheny, Dublin 5",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+02/09/2011,"15 Maywood Lawn, Raheny, Dublin 5",Dublin,590000.0,No,Raheny,Dublin 5,q4,100%
+16/09/2011,"118, Foxfield Park, Raheny",Dublin,307500.0,No,Raheny,Dublin 5,q2,40%
+16/09/2011,"56 Gairdini Lein, Raheny",Dublin,181000.0,No,Raheny,Dublin 5,q1,10%
+21/09/2011,"47A The Village, Raheny, Dublin 5",Dublin,535000.0,No,Raheny,Dublin 5,q4,90%
+27/09/2011,"67 Grange Park Crescent, Raheny, Dublin 5",Dublin,225000.0,No,Raheny,Dublin 5,q1,20%
+27/09/2011,"68 Woodbine Rd, Raheny, Dublin 5",Dublin,230000.0,No,Raheny,Dublin 5,q1,20%
+03/10/2011,"50 Foxfield Park, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+04/10/2011,"2 St. Assams Park, Raheny",Dublin,315000.0,No,Raheny,Dublin 5,q2,40%
+06/10/2011,"25 Cilleanna, Raheny",Dublin,570000.0,No,Raheny,Dublin 5,q4,100%
+07/10/2011,"46A All Saints Road, Raheny",Dublin,310000.0,No,Raheny,Dublin 5,q2,40%
+13/10/2011,"3 The Court Bettyglen, Watermill Road, Raheny",Dublin,110000.0,No,Raheny,Dublin 5,q1,10%
+19/10/2011,"1B Edenmore Grove, Raheny, Dublin 5",Dublin,192500.0,Yes,Raheny,Dublin 5,q1,10%
+20/10/2011,"18 Bettystown Avenue, Raheny, Dublin 5",Dublin,166666.67,No,Raheny,Dublin 5,q1,10%
+27/10/2011,"48 Chanel Avenue, Raheny",Dublin,115000.0,No,Raheny,Dublin 5,q1,10%
+28/10/2011,"7  The Grove, Bettyglen, Raheny",Dublin,310000.0,No,Raheny,Dublin 5,q2,40%
+01/11/2011,"22 Avondale Park, Raheny",Dublin,243000.0,No,Raheny,Dublin 5,q1,20%
+01/11/2011,"5 Sybil Hill Avenue, Raheny",Dublin,150000.0,No,Raheny,Dublin 5,q1,10%
+04/11/2011,"139 Belmont Park, Raheny, Dublin5",Dublin,215000.0,No,Raheny,Dublin 5,q1,20%
+04/11/2011,"29 Cill Eanna, Raheny",Dublin,365000.0,No,Raheny,Dublin 5,q3,60%
+07/11/2011,"14 Maywood Crescent, Raheny",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+11/11/2011,"107 St Assam'S Avenue, Raheny, Dublin 5",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+14/11/2011,"17 Wades Avenue, Raheny, Dublin 5",Dublin,218000.0,No,Raheny,Dublin 5,q1,20%
+23/11/2011,"74 St. Anne'S Avenue, Raheny",Dublin,220000.0,No,Raheny,Dublin 5,q1,20%
+25/11/2011,"14 Edenmore Crescent, Raheny, Dublin 5",Dublin,154000.0,No,Raheny,Dublin 5,q1,10%
+30/11/2011,"44 Grange Park Road, Raheny",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+05/12/2011,"13 All Saints Park, Raheny, Dublin 5",Dublin,198000.0,No,Raheny,Dublin 5,q1,10%
+05/12/2011,"83A Ashcroft, Raheny, Dublin 5",Dublin,323000.0,No,Raheny,Dublin 5,q2,50%
+09/12/2011,"141 Bettyglen, Raheny",Dublin,362500.0,No,Raheny,Dublin 5,q3,60%
+09/12/2011,"24 Waterfall Road, Raheny",Dublin,325000.0,No,Raheny,Dublin 5,q2,50%
+15/12/2011,"120 Tonlegee Road, Raheny",Dublin,190000.0,No,Raheny,Dublin 5,q1,10%
+15/12/2011,"77 Grange Park Road, Raheny",Dublin,307000.0,No,Raheny,Dublin 5,q2,40%
+12/01/2012,"25 Maywood Avenue, Raheny",Dublin,365000.0,No,Raheny,Dublin 5,q3,60%
+20/01/2012,"40 Watermill Avenue, Raheny, Dublin",Dublin,195000.0,No,Raheny,Dublin 5,q1,10%
+23/01/2012,"18 Watermill Avenue, Raheny, Dublin 5",Dublin,200000.0,No,Raheny,Dublin 5,q1,20%
+06/02/2012,"14 Glenfarne Road, Raheny",Dublin,216000.0,No,Raheny,Dublin 5,q1,20%
+09/02/2012,"54  Maryville Road, Raheny",Dublin,240000.0,No,Raheny,Dublin 5,q1,20%
+17/02/2012,"34 Limewood Road, Raheny",Dublin,240000.0,No,Raheny,Dublin 5,q1,20%
+21/02/2012,"146 Springdale Road, Raheny, Dublin 5",Dublin,148000.0,No,Raheny,Dublin 5,q1,10%
+24/02/2012,"121 Belmont Park, Raheny",Dublin,250000.0,No,Raheny,Dublin 5,q1,30%
+24/02/2012,"33 St. Assams Park, Raheny, Dublin 5",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+26/02/2012,"125 St. Assam'S Avenue, Raheny",Dublin,341000.0,No,Raheny,Dublin 5,q2,50%
+28/02/2012,"7 Tuscany Downs, Raheny",Dublin,273000.0,No,Raheny,Dublin 5,q2,30%
+01/03/2012,"25 Maryville Road, Raheny, Dublin 5",Dublin,216000.0,No,Raheny,Dublin 5,q1,20%
+02/03/2012,"2  Foxfield Drive, Raheny, Dublin 5",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+05/03/2012,"118 Springdale Road, Raheny",Dublin,137500.0,No,Raheny,Dublin 5,q1,10%
+08/03/2012,"171 Tonlegee Road, Raheny",Dublin,202500.0,No,Raheny,Dublin 5,q1,20%
+08/03/2012,"18 Cill Eanna, Raheny",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+15/03/2012,"14 Grange Park Walk, Raheny, Dublin 5",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+20/03/2012,"87 Grange Park Crescent, Raheny",Dublin,127500.0,No,Raheny,Dublin 5,q1,10%
+21/03/2012,"30 Station Road, Raheny",Dublin,200000.0,No,Raheny,Dublin 5,q1,20%
+21/03/2012,"31 Greendale Avenue, Raheny, Dublin 5",Dublin,245000.0,No,Raheny,Dublin 5,q1,20%
+23/03/2012,"54 Ennafort Road, Raheny",Dublin,272500.0,No,Raheny,Dublin 5,q2,30%
+26/03/2012,"7 Ennafort Avenue, Raheny",Dublin,280000.0,No,Raheny,Dublin 5,q2,30%
+30/03/2012,"10 Grange Park Grove, Raheny, Dublin 5",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+12/04/2012,"4 St Assam'S Park, Raheny, Dublin 5",Dublin,250000.0,No,Raheny,Dublin 5,q1,30%
+12/04/2012,"43, Edenmore Grove, Raheny",Dublin,145000.0,No,Raheny,Dublin 5,q1,10%
+13/04/2012,"Apartment 13, Grange Hall, Raheny",Dublin,155000.0,No,Raheny,Dublin 5,q1,10%
+13/04/2012,"Apartment 14, Grange Hall, Raheny",Dublin,150000.0,No,Raheny,Dublin 5,q1,10%
+13/04/2012,"Apartment 9, Grange Hall, Raheny",Dublin,155000.0,No,Raheny,Dublin 5,q1,10%
+27/04/2012,"15A Maywood Lawn, Raheny",Dublin,465000.0,No,Raheny,Dublin 5,q4,80%
+27/04/2012,"89 Avondale Park, Raheny",Dublin,273000.0,No,Raheny,Dublin 5,q2,30%
+01/05/2012,"53 Foxfield Avenue, Raheny",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+04/05/2012,"96 Bettyglen, Raheny, Dublin 5",Dublin,420000.0,No,Raheny,Dublin 5,q3,70%
+11/05/2012,"124 Edenmore Avenue, Raheny, Dublin 5",Dublin,120000.0,No,Raheny,Dublin 5,q1,10%
+15/05/2012,"92A Foxfield Grove, Raheny",Dublin,245000.0,Yes,Raheny,Dublin 5,q1,20%
+17/05/2012,"17 Maryville Road, Raheny, Dublin 5",Dublin,225000.0,No,Raheny,Dublin 5,q1,20%
+25/05/2012,"2 Sybil Hill Avenue, Raheny",Dublin,217000.0,No,Raheny,Dublin 5,q1,20%
+29/05/2012,"39 Edenmore Park, Raheny",Dublin,112000.0,No,Raheny,Dublin 5,q1,10%
+30/05/2012,"59 Tonlegee Drive, Raheny",Dublin,220000.0,No,Raheny,Dublin 5,q1,20%
+01/06/2012,"46 Ennafort Road, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+15/06/2012,"106 Foxfield Grove, Raheny, Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+21/06/2012,"136 Ashcroft, Raheny, Dublin 5",Dublin,175000.0,No,Raheny,Dublin 5,q1,10%
+27/06/2012,"85 The Village, Bettysglen, Raheny",Dublin,234000.0,No,Raheny,Dublin 5,q1,20%
+13/07/2012,"5 Foxfield Heights, Raheny, Dublin 5",Dublin,409000.0,No,Raheny,Dublin 5,q3,70%
+18/07/2012,"21 Watermill Park, Raheny, Dublin 5",Dublin,190000.0,No,Raheny,Dublin 5,q1,10%
+03/08/2012,"8 All Saints Road, Raheny, Dublin 5",Dublin,227000.0,No,Raheny,Dublin 5,q1,20%
+14/08/2012,"92 Foxfield Grove, Raheny",Dublin,330000.0,No,Raheny,Dublin 5,q2,50%
+15/08/2012,"26 St. Assams Road West, Raheny, Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+16/08/2012,"36 St. Anne'S Avenue, Raheny",Dublin,325000.0,No,Raheny,Dublin 5,q2,50%
+27/08/2012,"185 Ashcroft  Raheny, Dublin 5",Dublin,228000.0,No,Raheny,Dublin 5,q1,20%
+27/08/2012,"26 Foxfield Avenue, Raheny, Dublin 5",Dublin,419963.0,No,Raheny,Dublin 5,q3,70%
+27/08/2012,"54 The Village, Bettyglen, Raheny",Dublin,250000.0,No,Raheny,Dublin 5,q1,30%
+03/09/2012,"163 Bettyglen, Raheny",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+10/09/2012,"59 Ennafort Road, Raheny, Dublin 5",Dublin,245000.0,No,Raheny,Dublin 5,q1,20%
+11/09/2012,"6 Foxfield Park, Raheny, Dublin 5",Dublin,268000.0,No,Raheny,Dublin 5,q1,30%
+14/09/2012,"40 Edenmore Avenue, Raheny",Dublin,155000.0,No,Raheny,Dublin 5,q1,10%
+14/09/2012,"58 Roseglen, Raheny",Dublin,233000.0,No,Raheny,Dublin 5,q1,20%
+18/09/2012,"38 St. Annes Avenue, Raheny, Dublin 5",Dublin,292000.0,No,Raheny,Dublin 5,q2,40%
+21/09/2012,"123 Raheny Road, Dublin",Dublin,225000.0,No,Raheny,Dublin 5,q1,20%
+26/09/2012,"6 Millwood Villas, Raheny, Dublin 5",Dublin,160000.0,No,Raheny,Dublin 5,q1,10%
+03/10/2012,"23 Watermill Drive, Raheny",Dublin,243000.0,No,Raheny,Dublin 5,q1,20%
+11/10/2012,"4 Ennafort Mews, Raheny, Dublin 5",Dublin,265000.0,No,Raheny,Dublin 5,q1,30%
+18/10/2012,"55 Cill Eanna, Raheny",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+22/10/2012,"Wildmuir, Foxes Lane, Raheny",Dublin,642500.0,No,Raheny,Dublin 5,q4,100%
+05/11/2012,"11 Foxfield, St. John, Raheny  Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+06/11/2012,"83 Foxfield Grove, Raheny",Dublin,235000.0,No,Raheny,Dublin 5,q1,20%
+07/11/2012,"16 Maryville Road, Raheny",Dublin,236000.0,No,Raheny,Dublin 5,q1,20%
+09/11/2012,"104 Grange Park Road, Raheny, Dublin 5",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+13/11/2012,"Apartment 2, Rosevale Mansions, Raheny",Dublin,135000.0,No,Raheny,Dublin 5,q1,10%
+16/11/2012,"14 Wades Avenue, Raheny, Dublin 5",Dublin,248000.0,No,Raheny,Dublin 5,q1,30%
+21/11/2012,"71 The Village, Bettyglen, Raheny",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+22/11/2012,"2 Maryville Road, St. Anne'S Estate, Raheny",Dublin,150000.0,No,Raheny,Dublin 5,q1,10%
+23/11/2012,"14 Waterfall Road, Raheny, Dublin 5",Dublin,250000.0,No,Raheny,Dublin 5,q1,30%
+30/11/2012,"38 St. Assam'S Road West, Raheny",Dublin,276000.0,No,Raheny,Dublin 5,q2,30%
+30/11/2012,"44 Belmont Park, Raheny, Dublin 5",Dublin,230000.0,No,Raheny,Dublin 5,q1,20%
+03/12/2012,"146 Tonlegee Road, Raheny",Dublin,170000.0,No,Raheny,Dublin 5,q1,10%
+06/12/2012,"312  Tonlegee Road, Raheny, Dublin",Dublin,215000.0,No,Raheny,Dublin 5,q1,20%
+07/12/2012,"1  Grangepark Walk, Raheny, Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+10/12/2012,"61 Raheny Park, Raheny, Dublin 5",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+10/12/2012,"Unit 21, Block 6  Belmont Square, Raheny",Dublin,168000.0,No,Raheny,Dublin 5,q1,10%
+12/12/2012,"'Knocharee', 87 Raheny Road, Raheny",Dublin,71030.0,No,Raheny,Dublin 5,q1,10%
+12/12/2012,"15 And 16 Grangemore Park, Raheny, Dublin 5",Dublin,23787.0,No,Raheny,Dublin 5,q1,10%
+12/12/2012,"16  Maywood Park, Raheny",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+12/12/2012,"23 Saint Margarets Avenue, Raheny",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+12/12/2012,"51 Edenmore Gardens, Raheny",Dublin,120000.0,No,Raheny,Dublin 5,q1,10%
+12/12/2012,"Adult Day Care Centre, Grange Park Grove, Raheny",Dublin,61526.0,No,Raheny,Dublin 5,q1,10%
+14/12/2012,"1 Watermill Drive, Raheny",Dublin,245000.0,No,Raheny,Dublin 5,q1,20%
+19/12/2012,"25 Main Street, Raheny, Dublin 5",Dublin,135000.0,No,Raheny,Dublin 5,q1,10%
+20/12/2012,"110 Foxfield Park, Raheny, Dublin 5",Dublin,316000.0,No,Raheny,Dublin 5,q2,50%
+20/12/2012,"172 Ashcroft, Raheny, Dublin 5",Dublin,220000.0,No,Raheny,Dublin 5,q1,20%
+20/12/2012,"22 Maywood Lawn, Raheny",Dublin,412000.0,No,Raheny,Dublin 5,q3,70%
+20/12/2012,"47 Grange Park Crescent, Raheny, Dublin 5",Dublin,240000.0,No,Raheny,Dublin 5,q1,20%
+28/12/2012,"18 Edenmore Crescent, Raheny, Dublin 5",Dublin,159000.0,No,Raheny,Dublin 5,q1,10%
+07/01/2013,"33A Ashcroft, Raheny, Dublin 5",Dublin,245000.0,Yes,Raheny,Dublin 5,q1,20%
+11/01/2013,"116 Raheny Road, Raheny",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+17/01/2013,"95 Raheny Road, Raheny",Dublin,80000.0,No,Raheny,Dublin 5,q1,10%
+19/02/2013,"129 Belmont Park, Raheny, Dublin  5",Dublin,280000.0,No,Raheny,Dublin 5,q2,30%
+19/02/2013,"20  Tonlagee Road, Raheny, Dublin 5",Dublin,205500.0,No,Raheny,Dublin 5,q1,20%
+20/02/2013,"46 Cill Eanna, Raheny",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+22/02/2013,"3 Watermill Drive, Raheny, Dublin 5.",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+28/02/2013,"1A Edenmore Grove, Raheny, Dublin 5",Dublin,140000.0,No,Raheny,Dublin 5,q1,10%
+08/03/2013,"4A All Saints Road, Raheny",Dublin,435000.0,No,Raheny,Dublin 5,q3,80%
+13/03/2013,"119 Edenmore Crescent, Raheny",Dublin,136500.0,No,Raheny,Dublin 5,q1,10%
+13/03/2013,"36 Edenmore Gardens, Raheny, Dublin 5",Dublin,135000.0,No,Raheny,Dublin 5,q1,10%
+15/03/2013,"28 The Village, Bettyglen, Raheny",Dublin,207000.0,No,Raheny,Dublin 5,q1,20%
+22/03/2013,"9 Maywood Crescent, Raheny",Dublin,510000.0,No,Raheny,Dublin 5,q4,90%
+25/03/2013,"19 Watermill Drive, Raheny, Dublin 5",Dublin,180000.0,No,Raheny,Dublin 5,q1,10%
+28/03/2013,"31 Belmont Square, Raheny, Dublin",Dublin,165000.0,No,Raheny,Dublin 5,q1,10%
+02/04/2013,"80 Avondale Park, Raheny",Dublin,292000.0,No,Raheny,Dublin 5,q2,40%
+04/04/2013,"47 The Grove, Bettyglen, Raheny",Dublin,235000.0,No,Raheny,Dublin 5,q1,20%
+04/04/2013,"81 Maryville Road, Raheny, Dublin 5",Dublin,256000.0,No,Raheny,Dublin 5,q1,30%
+05/04/2013,"45 Saint Assam'S Avenue, Raheny",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+09/04/2013,"33 Glenwood Road, Raheny",Dublin,165000.0,No,Raheny,Dublin 5,q1,10%
+12/04/2013,"11 St. Assam'S Avenue, Raheny, Dublin 5",Dublin,293333.33,No,Raheny,Dublin 5,q2,40%
+19/04/2013,"3 St. Assams Road West, Raheny, Dublin 5",Dublin,436000.0,No,Raheny,Dublin 5,q3,80%
+22/04/2013,"59 Rathmore Park, Raheny, Dublin 4",Dublin,330000.0,No,Raheny,Dublin 5,q2,50%
+23/04/2013,"46 The Grove, Bettyglen, Raheny",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+30/04/2013,"104 Foxfield Road, Raheny, Dublin 5",Dublin,382000.0,No,Raheny,Dublin 5,q3,60%
+30/04/2013,"30 Foxfield Crescent, Raheny, Dublin 5",Dublin,345000.0,No,Raheny,Dublin 5,q2,50%
+30/04/2013,"90 Ennafort Road, Raheny",Dublin,363000.0,No,Raheny,Dublin 5,q3,60%
+09/05/2013,"78 Foxfield Grove, Raheny, Dublin 5",Dublin,285000.0,No,Raheny,Dublin 5,q2,30%
+28/05/2013,"106  Grange Road, Raheny, Dublin 5",Dublin,330000.0,No,Raheny,Dublin 5,q2,50%
+12/06/2013,"71 Ennafort Road, Raheny, Dublin 5",Dublin,248000.0,No,Raheny,Dublin 5,q1,30%
+14/06/2013,"140 Tonlegee Road, Raheny, Dublin 5",Dublin,277000.0,No,Raheny,Dublin 5,q2,30%
+14/06/2013,"6 Rathmore Park, Raheny",Dublin,298000.0,No,Raheny,Dublin 5,q2,40%
+18/06/2013,"34 Foxfield Avenue, Raheny",Dublin,436000.0,No,Raheny,Dublin 5,q3,80%
+19/06/2013,"53 Maywood Avenue, Raheny",Dublin,429000.0,No,Raheny,Dublin 5,q3,80%
+27/06/2013,"25 Belmont Square, Raheny, Dublin 5",Dublin,232000.0,No,Raheny,Dublin 5,q1,20%
+30/06/2013,"28 Maryvill Road, Raheny, Dublin 5",Dublin,260000.0,No,Raheny,Dublin 5,q1,30%
+01/07/2013,"54 St. Margarets Avenue, Raheny",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+03/07/2013,"78 Grange Park View, Raheny",Dublin,215000.0,No,Raheny,Dublin 5,q1,20%
+18/07/2013,"48 Springdale Road, Raheny, Dublin 5",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+23/07/2013,"11 Belmont Square, Raheny",Dublin,296000.0,No,Raheny,Dublin 5,q2,40%
+23/07/2013,"11 Grange Park Drive, Raheny",Dublin,200000.0,No,Raheny,Dublin 5,q1,20%
+31/07/2013,"10 St Assam'S Road West, Raheny, Dublin 5",Dublin,326990.0,No,Raheny,Dublin 5,q2,50%
+06/08/2013,"116  Bettyglen, Raheny, Dublin 5",Dublin,595000.0,No,Raheny,Dublin 5,q4,100%
+07/08/2013,"47 Raheny Park, Raheny",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+09/08/2013,"120 Belmont Park, Raheny",Dublin,278000.0,No,Raheny,Dublin 5,q2,30%
+09/08/2013,"140 Bettyglen, Raheny",Dublin,436000.0,No,Raheny,Dublin 5,q3,80%
+14/08/2013,"86 Grange Park Crescent, Raheny",Dublin,235000.0,No,Raheny,Dublin 5,q1,20%
+16/08/2013,"98 Edenmore Grove, Raheny, Dublin 5",Dublin,148000.0,No,Raheny,Dublin 5,q1,10%
+20/08/2013,"Apt.4  Raheny Wood, Raheny, Dublin 5",Dublin,215000.0,No,Raheny,Dublin 5,q1,20%
+21/08/2013,"26 Station Road, Raheny",Dublin,244000.0,No,Raheny,Dublin 5,q1,20%
+22/08/2013,"29 St Assams Park, Raheny",Dublin,390500.0,No,Raheny,Dublin 5,q3,70%
+30/08/2013,"78 St. Assams Road West, Raheny",Dublin,307000.0,No,Raheny,Dublin 5,q2,40%
+01/09/2013,"2 Ennafort Grove, Raheny, Dublin 5",Dublin,382000.0,No,Raheny,Dublin 5,q3,60%
+02/09/2013,"3 Grange Park Drive, Raheny",Dublin,230000.0,No,Raheny,Dublin 5,q1,20%
+03/09/2013,"28  Woodbine Drive, Raheny, Dublin 5",Dublin,230000.0,No,Raheny,Dublin 5,q1,20%
+10/09/2013,"22 Ashcroft, Raheny, Dublin 5",Dublin,267000.0,No,Raheny,Dublin 5,q1,30%
+10/09/2013,"35 Watermill Avenue  Raheny, Dublin 5",Dublin,372000.0,No,Raheny,Dublin 5,q3,60%
+12/09/2013,"50 Edenmore Gardens, Raheny",Dublin,117500.0,No,Raheny,Dublin 5,q1,10%
+13/09/2013,"59 Maywood Avenue, Raheny",Dublin,87500.0,No,Raheny,Dublin 5,q1,10%
+19/09/2013,"83 Grange Park Road, Raheny",Dublin,309000.0,No,Raheny,Dublin 5,q2,40%
+20/09/2013,"6A The Glen, Bettyglen, Raheny",Dublin,90000.0,No,Raheny,Dublin 5,q1,10%
+23/09/2013,"186 Springdale Road, Raheny, Dublin 5",Dublin,235000.0,No,Raheny,Dublin 5,q1,20%
+27/09/2013,"Apartment 10  Block A, The Glen  Bettyglen, Raheny",Dublin,101000.0,No,Raheny,Dublin 5,q1,10%
+02/10/2013,"15 Woodbine Road, Raheny",Dublin,302000.0,No,Raheny,Dublin 5,q2,40%
+02/10/2013,"42 Limewood Road, Raheny",Dublin,160000.0,No,Raheny,Dublin 5,q1,10%
+04/10/2013,"27 Limewood Park, Raheny, Dublin 5",Dublin,265000.0,No,Raheny,Dublin 5,q1,30%
+07/10/2013,"166A Ashcroft, Raheny, Dublin 5",Dublin,327000.0,No,Raheny,Dublin 5,q2,50%
+07/10/2013,"21 St Annes Avenue, Raheny",Dublin,307500.0,No,Raheny,Dublin 5,q2,40%
+10/10/2013,"4 Watermill Drive, Raheny, Dublin 5",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+14/10/2013,"24 Foxfield Avenue, Raheny",Dublin,452000.0,No,Raheny,Dublin 5,q4,80%
+15/10/2013,"12 St. Assams Avenue, Raheny, Dublin 5",Dublin,408000.0,No,Raheny,Dublin 5,q3,70%
+18/10/2013,"14 Saint Anne'S Terrace, Raheny",Dublin,240000.0,No,Raheny,Dublin 5,q1,20%
+22/10/2013,"52 Avondale Park, Raheny",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+23/10/2013,"11 Bettystown Avenue, Raheny, Dublin 5",Dublin,299000.0,No,Raheny,Dublin 5,q2,40%
+23/10/2013,"Bettyglen House, Raheny, Dublin 5",Dublin,735000.0,No,Raheny,Dublin 5,q4,100%
+25/10/2013,"Apt 139 Block 1, The Watermill, Raheny",Dublin,247500.0,No,Raheny,Dublin 5,q1,30%
+31/10/2013,"191 Tonlagee Road, Raheny, Dublin 5",Dublin,230000.0,No,Raheny,Dublin 5,q1,20%
+01/11/2013,"12 Edenmore Gardens, Raheny",Dublin,153000.0,No,Raheny,Dublin 5,q1,10%
+04/11/2013,"143 Edenmore Crescent, Raheny",Dublin,138000.0,No,Raheny,Dublin 5,q1,10%
+07/11/2013,"36 St Assam'S Road West, Raheny, Dublin",Dublin,350000.0,No,Raheny,Dublin 5,q2,50%
+08/11/2013,"31 Edenmore Grove, Raheny",Dublin,140000.0,No,Raheny,Dublin 5,q1,10%
+11/11/2013,"58 St. Anne'S Avenue, Raheny, Dublin 5",Dublin,326000.0,No,Raheny,Dublin 5,q2,50%
+14/11/2013,"6 Foxfield Avenue, Raheny",Dublin,312000.0,No,Raheny,Dublin 5,q2,40%
+15/11/2013,"14 Cill Eanna, Raheny",Dublin,435000.0,No,Raheny,Dublin 5,q3,80%
+15/11/2013,"70 Foxfield Avenue, Raheny",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+18/11/2013,"84 Grange Park Road, Raheny",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+19/11/2013,"219A Tonlagee Rd, Raheny, Dublin City",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+19/11/2013,"38 St. Assams Avenue, Raheny",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+19/11/2013,"44 St Annes Avenue, Raheny",Dublin,362500.0,No,Raheny,Dublin 5,q3,60%
+29/11/2013,"107 Belmont Park, Raheny, Dublin 5",Dublin,305000.0,No,Raheny,Dublin 5,q2,40%
+02/12/2013,"103 The Watermill, Bettyglen, Raheny Dublin 5",Dublin,168000.0,No,Raheny,Dublin 5,q1,10%
+05/12/2013,"56 Maywood Ave, Raheny, Dublin 5",Dublin,372000.0,No,Raheny,Dublin 5,q3,60%
+11/12/2013,"8 Kilbarrack Gardens, Raheny, Dublin 5",Dublin,415000.0,No,Raheny,Dublin 5,q3,70%
+12/12/2013,"32 Glenfarne Rd, Raheny, Dublin 5",Dublin,247000.0,No,Raheny,Dublin 5,q1,30%
+16/12/2013,"3 The Beeches, Grange Rd, Raheny Dublin 13",Dublin,228000.0,No,Raheny,Dublin 5,q1,20%
+17/12/2013,"19 Avondale Park, Raheny, Dublin 5",Dublin,310000.0,No,Raheny,Dublin 5,q2,40%
+19/12/2013,"1 The Gables, Raheny, Dublin 5",Dublin,190000.0,No,Raheny,Dublin 5,q1,10%
+19/12/2013,"Apt 25  The Glen  Oakwood, Bettyglen, Raheny  Dublin 5",Dublin,135000.0,No,Raheny,Dublin 5,q1,10%
+23/12/2013,"104 Tonlegee Rd, Raheny, Dublin 5",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+23/12/2013,"50 All Saints Rd, Raheny, Dublin",Dublin,391283.0,No,Raheny,Dublin 5,q3,70%
+23/12/2013,"89A Ennafort Park, Raheny, Dublin 5",Dublin,420000.0,No,Raheny,Dublin 5,q3,80%
+02/01/2014,"70 Edenmore Avenue, Raheny, Dublin 5",Dublin,141000.0,No,Raheny,Dublin 5,q1,10%
+22/01/2014,"23 St Annes Terrace, Raheny, Dublin 5",Dublin,362000.0,No,Raheny,Dublin 5,q3,60%
+22/01/2014,"96 Tonlegee Rd, Raheny, Dublin 5",Dublin,260000.0,No,Raheny,Dublin 5,q1,30%
+25/01/2014,"63 Foxfield Road, Raheny, Dublin 5",Dublin,420000.0,No,Raheny,Dublin 5,q3,80%
+29/01/2014,"9 Ennafort Rd, Raheny, Dublin 5",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+31/01/2014,"36 Roseglen Rd, Raheny, Dublin 5",Dublin,249000.0,No,Raheny,Dublin 5,q1,30%
+06/02/2014,"36 St Margarets Ave, Raheny, Dublin 5",Dublin,405000.0,No,Raheny,Dublin 5,q3,70%
+06/02/2014,"41A Cill Eanna, Raheny",Dublin,415000.0,No,Raheny,Dublin 5,q3,70%
+10/02/2014,"9 Maywood Dr, Raheny, Dublin 5",Dublin,426000.0,No,Raheny,Dublin 5,q3,80%
+14/02/2014,"43 All Saints Rd, Raheny, Dublin 5",Dublin,215000.0,No,Raheny,Dublin 5,q1,20%
+17/02/2014,"261 Kilbarrack Road, Raheny, Dublin 5",Dublin,247000.0,No,Raheny,Dublin 5,q1,30%
+21/02/2014,"17 The Gables, Tonlegee Rd, Raheny Dublin 5",Dublin,145000.0,No,Raheny,Dublin 5,q1,10%
+05/03/2014,"13 St Assams Rd West, Raheny, Dublin 5",Dublin,456000.0,No,Raheny,Dublin 5,q4,80%
+07/03/2014,"32 Tuscany Downs, Raheny Rd, Raheny Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+21/03/2014,"249 Raheny Rd, Raheny, Dublin 5",Dublin,220000.0,No,Raheny,Dublin 5,q1,20%
+27/03/2014,"Apt 4, 153 154 Parnell St, Raheny Dublin 5",Dublin,65000.0,No,Raheny,Dublin 5,q1,10%
+27/03/2014,"Apt 5, 153 155 Parnell St, Raheny Dublin 5",Dublin,65000.0,No,Raheny,Dublin 5,q1,10%
+03/04/2014,"38 Watermill Road, Raheny, Dublin 5",Dublin,412000.0,No,Raheny,Dublin 5,q3,70%
+07/04/2014,"Apt 2, Raheny Wood, Raheny Rd Dublin 5",Dublin,207000.0,No,Raheny,Dublin 5,q1,20%
+15/04/2014,"7 Lough Derg Rd, Raheny Dublin 5, Dublin",Dublin,235000.0,No,Raheny,Dublin 5,q1,20%
+30/04/2014,"31 Watermill Ave, Raheny, Dublin 5",Dublin,460000.0,No,Raheny,Dublin 5,q4,80%
+02/05/2014,"112 Betyglen, Raheny, Dublin 5",Dublin,530000.0,No,Raheny,Dublin 5,q4,90%
+06/05/2014,"38 Bettyglen, Raheny",Dublin,565000.0,No,Raheny,Dublin 5,q4,100%
+09/05/2014,"6 Limewood Rd, Raheny, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+12/05/2014,"38 Avondale Park, Raheny, Dublin 5",Dublin,348000.0,No,Raheny,Dublin 5,q2,50%
+19/05/2014,"58 Ennafort Park, Raheny",Dublin,530000.0,No,Raheny,Dublin 5,q4,90%
+20/05/2014,"17A Edenmore Green, Raheny, Dublin 5",Dublin,166250.0,No,Raheny,Dublin 5,q1,10%
+21/05/2014,"43 Edenmore Crescent, Raheny, Dublin 5",Dublin,180000.0,No,Raheny,Dublin 5,q1,10%
+28/05/2014,"26 Edenmore Crescent, Raheny, Dublin 5",Dublin,219000.0,No,Raheny,Dublin 5,q1,20%
+29/05/2014,"28 Woodbine Rd, Raheny, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+30/05/2014,"70 Foxfield Park, Raheny",Dublin,415000.0,No,Raheny,Dublin 5,q3,70%
+03/06/2014,"40 Edenmore Gardens, Raheny, Dublin 5",Dublin,179000.0,No,Raheny,Dublin 5,q1,10%
+04/06/2014,"11 St Annes Ave, Raheny, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+06/06/2014,"41 Cill Eanna, Raheny, Dublin 5",Dublin,383000.0,No,Raheny,Dublin 5,q3,70%
+11/06/2014,"36 Grange Park Rd, Raheny, Dublin 5",Dublin,395000.0,No,Raheny,Dublin 5,q3,70%
+12/06/2014,"22 The Court, Bettyglen, Raheny Dublin 5",Dublin,283000.0,No,Raheny,Dublin 5,q2,30%
+17/06/2014,"12 Belmont Sq, Raheny, Dublin 5",Dublin,293000.0,No,Raheny,Dublin 5,q2,40%
+17/06/2014,"181 Kilbarrack Rd, Raheny, Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+18/06/2014,"115 Edenmore Crescent, Raheny, Dublin 5",Dublin,161500.0,No,Raheny,Dublin 5,q1,10%
+19/06/2014,"26 The Court, Bettyglen, Raheny Dublin 5",Dublin,283000.0,No,Raheny,Dublin 5,q2,30%
+19/06/2014,"68 All Saint'S Road, Raheny, Dublin 5",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+19/06/2014,"95 Foxfield Road, Raheny, Dublin 5",Dublin,600000.0,No,Raheny,Dublin 5,q4,100%
+20/06/2014,"15 Foxfield Lawn, Raheny, Dublin 5",Dublin,490000.0,No,Raheny,Dublin 5,q4,90%
+27/06/2014,"26 Foxfield Park, Raheny, Dublin 5",Dublin,560000.0,No,Raheny,Dublin 5,q4,90%
+04/07/2014,"35 Edenmore Ave, Raheny, Dublin 5",Dublin,200360.0,No,Raheny,Dublin 5,q1,20%
+17/07/2014,"65 Tonlegee Drive, Raheny, Dublin 5",Dublin,297000.0,No,Raheny,Dublin 5,q2,40%
+17/07/2014,"8 The Village, Bettyglen Raheny, Dublin 5",Dublin,330000.0,No,Raheny,Dublin 5,q2,50%
+24/07/2014,"156 Tonlegee Road, Raheny",Dublin,265000.0,No,Raheny,Dublin 5,q1,30%
+25/07/2014,"59 All Saints Rd, Raheny, Dublin 5",Dublin,442500.0,No,Raheny,Dublin 5,q4,80%
+29/07/2014,"113 Woodbine Park, Raheny",Dublin,351000.0,No,Raheny,Dublin 5,q3,60%
+29/07/2014,"189 Ashcroft, Raheny",Dublin,267000.0,No,Raheny,Dublin 5,q1,30%
+31/07/2014,"35 Bettystown Ave, Raheny, Dublin 5",Dublin,385000.0,No,Raheny,Dublin 5,q3,70%
+31/07/2014,"43 Maywood Park, Raheny, Dublin 5",Dublin,600000.0,No,Raheny,Dublin 5,q4,100%
+01/08/2014,"1 Grange Park Dr, Raheny, Dublin 5",Dublin,310000.0,No,Raheny,Dublin 5,q2,40%
+01/08/2014,"28 Watermill Park, Raheny, Dublin",Dublin,346000.0,No,Raheny,Dublin 5,q2,50%
+07/08/2014,"147 Woodbine Park, Raheny, Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+08/08/2014,"1 Edenmore Grove, Raheny, Dublin 5",Dublin,173000.0,No,Raheny,Dublin 5,q1,10%
+13/08/2014,"40 Edenmore Green, Raheny, Dublin 5",Dublin,155000.0,No,Raheny,Dublin 5,q1,10%
+19/08/2014,"44 Avondale Park, Raheny",Dublin,352000.0,No,Raheny,Dublin 5,q3,60%
+21/08/2014,"163A Raheny Rd, Raheny, Dublin 5",Dublin,463000.0,No,Raheny,Dublin 5,q4,80%
+29/08/2014,"1A Edenmore Gardens, Raheny, Dublin 5",Dublin,175000.0,Yes,Raheny,Dublin 5,q1,10%
+04/09/2014,"6 Watermill Lawn, Raheny, Dublin 5",Dublin,625000.0,No,Raheny,Dublin 5,q4,100%
+05/09/2014,"39 Grange Park Crescent, Raheny, Dublin 5",Dublin,408000.0,No,Raheny,Dublin 5,q3,70%
+05/09/2014,"82 The Watermill, Watermill Rd, Raheny",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+09/09/2014,"166 Harmonstown Rd, Raheny, Dublin 5",Dublin,238000.0,No,Raheny,Dublin 5,q1,20%
+10/09/2014,"Jaina, 17 Woodbine Dr, Raheny Dublin 5",Dublin,258500.0,No,Raheny,Dublin 5,q1,30%
+12/09/2014,"172 Belmont Park, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+12/09/2014,"30 Lough Derg Road, Raheny, Dublin 5",Dublin,288000.0,No,Raheny,Dublin 5,q2,40%
+12/09/2014,"30 Maryville Road, Raheny, Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+12/09/2014,"69 Ashcroft, Raheny, Dublin 5",Dublin,343000.0,No,Raheny,Dublin 5,q2,50%
+16/09/2014,"Apt 7 Raheny Wood, 73 Raheny Rd, Raheny Dublin 5",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+17/09/2014,"19 Woodbine Rd, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+17/09/2014,"34 Watermill Park, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q2,50%
+18/09/2014,"1 Foxfield St John, Raheny, Dublin 5",Dublin,399000.0,No,Raheny,Dublin 5,q3,70%
+19/09/2014,"Apartment 3 Springdale Court, Springdale Road, Raheny",Dublin,100000.0,No,Raheny,Dublin 5,q1,10%
+25/09/2014,"67 Foxfield Park, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q2,50%
+25/09/2014,"77 Tonlegee Rd, Raheny, Dublin 5",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+26/09/2014,"10 Kilbarrack Gardens, Raheny",Dublin,496000.0,No,Raheny,Dublin 5,q4,90%
+26/09/2014,"13 Edenmore Crescent, Raheny, Dublin 5",Dublin,281000.0,No,Raheny,Dublin 5,q2,30%
+30/09/2014,"20 St Margarets Ave, Raheny, Dublin 5",Dublin,548000.0,No,Raheny,Dublin 5,q4,90%
+07/10/2014,"4 All Saints Road, Raheny",Dublin,300000.0,Yes,Raheny,Dublin 5,q2,40%
+08/10/2014,"10 Wades Ave, St Annes, Raheny Dublin 5",Dublin,435000.0,No,Raheny,Dublin 5,q3,80%
+08/10/2014,"140 Belmont Park, Raheny, Dublin 5",Dublin,416000.0,No,Raheny,Dublin 5,q3,70%
+09/10/2014,"4 Springdale Rd, Raheny, Dublin 5",Dublin,440000.0,No,Raheny,Dublin 5,q3,80%
+10/10/2014,"95 Raheny Road, Raheny, Dublin 5",Dublin,325000.0,No,Raheny,Dublin 5,q2,50%
+15/10/2014,"11 Watermill Court, Raheny, Dublin 5",Dublin,180000.0,No,Raheny,Dublin 5,q1,10%
+17/10/2014,"28 Springdale Road, Raheny, Dublin 5",Dublin,961123.1,No,Raheny,Dublin 5,q4,100%
+20/10/2014,"4 Ennafort Grove, Ennafort Park, Raheny Dublin 5",Dublin,344000.0,No,Raheny,Dublin 5,q2,50%
+24/10/2014,"5 The Gables, Tonlegee Rd, Raheny Dublin 5",Dublin,168000.0,No,Raheny,Dublin 5,q1,10%
+24/10/2014,"7 Swans Nest Rd, Raheny, Dublin 5",Dublin,190000.0,No,Raheny,Dublin 5,q1,10%
+24/10/2014,"Apt 1, Raheny Wood, Raheny Rd Dublin 5",Dublin,235000.0,No,Raheny,Dublin 5,q1,20%
+07/11/2014,"24 Maywood Ave, Raheny, Dublin 5",Dublin,630000.0,No,Raheny,Dublin 5,q4,100%
+07/11/2014,"79 Foxfield Rd, Raheny, Dublin 5",Dublin,550000.0,No,Raheny,Dublin 5,q4,90%
+10/11/2014,"9 St Annes Dr, Raheny, Dublin 5",Dublin,425000.0,No,Raheny,Dublin 5,q3,80%
+14/11/2014,"180 Springdale Rd, Raheny, Dublin 5",Dublin,73000.0,No,Raheny,Dublin 5,q1,10%
+14/11/2014,"The Bunglow, Greendale Ave, Raheny Dublin 5",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+18/11/2014,"8 The Gables, Tonlegee Road, Raheny",Dublin,173500.0,No,Raheny,Dublin 5,q1,10%
+20/11/2014,"185B Ashcroft, Raheny, Dublin 5",Dublin,325000.0,No,Raheny,Dublin 5,q2,50%
+28/11/2014,"19 Foxfield Rd, Raheny, Dublin 5",Dublin,472000.0,No,Raheny,Dublin 5,q4,80%
+01/12/2014,"38 Edenmore Ave, Raheny, Dublin 5",Dublin,201000.0,No,Raheny,Dublin 5,q1,20%
+02/12/2014,"8 Edenmore Dr, Raheny, Dublin 5",Dublin,205000.0,No,Raheny,Dublin 5,q1,20%
+02/12/2014,"99 Ashcroft, Raheny, Dublin 5",Dublin,420000.0,No,Raheny,Dublin 5,q3,80%
+05/12/2014,"18 The Gables, Tonlagee Rd, Raheny Dublin 5",Dublin,150000.0,No,Raheny,Dublin 5,q1,10%
+09/12/2014,"41 Raheny Park, Raheny, Dublin 5",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+09/12/2014,"53 Tonlegee Dr, Raheny, Dublin 5",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+09/12/2014,"82 Ashcroft, Raheny, Dublin 5",Dublin,478000.0,No,Raheny,Dublin 5,q4,90%
+10/12/2014,"57 Rathmore Park, Raheny, Dublin 5",Dublin,424000.0,No,Raheny,Dublin 5,q3,80%
+12/12/2014,"13 Cill Eanna, Raheny, Dublin 5",Dublin,481000.0,No,Raheny,Dublin 5,q4,90%
+12/12/2014,"18 Belmont Park, Raheny, Dublin 5",Dublin,409500.0,No,Raheny,Dublin 5,q3,70%
+12/12/2014,"30 The Watermill, Bettyglen, Raheny Dublin 7",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+12/12/2014,"7 Maywood Dr, Raheny, Dublin 5",Dublin,559000.0,No,Raheny,Dublin 5,q4,90%
+18/12/2014,"37 Rathvale Park, Raheny, Dublin 13",Dublin,285000.0,No,Raheny,Dublin 5,q2,30%
+18/12/2014,"86 Edenmore Avenue, Raheny, Dublin 5",Dublin,199000.0,No,Raheny,Dublin 5,q1,20%
+19/12/2014,"37 Lough Derg Road, Raheny",Dublin,260000.0,No,Raheny,Dublin 5,q1,30%
+19/12/2014,"72 St Assams Park, Raheny, Dublin 5",Dublin,480000.0,No,Raheny,Dublin 5,q4,90%
+22/12/2014,"16 Tuscany Downs, Raheny",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+22/12/2014,"78 The Watermill, Watermill Rd, Raheny Dublin 5",Dublin,200000.0,No,Raheny,Dublin 5,q1,20%
+23/12/2014,"50 Belmont Park, Raheny",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+23/12/2014,"Watermill Road, Raheny, Dublin 5",Dublin,800000.0,No,Raheny,Dublin 5,q4,100%
+30/12/2014,"6A The Glen, Bettyglen, Raheny Dublin 5",Dublin,180000.0,No,Raheny,Dublin 5,q1,10%
+06/01/2015,"24 Grange Park Crescent, Raheny, Dublin",Dublin,310000.0,No,Raheny,Dublin 5,q2,40%
+12/01/2015,"27 Woodbine Close, Raheny, Dublin 5",Dublin,371000.0,No,Raheny,Dublin 5,q3,60%
+21/01/2015,"106 Grange Abbey Crescent, Raheny, Dublin 13",Dublin,309000.0,No,Raheny,Dublin 5,q2,40%
+28/01/2015,"50 Ashcroft, Raheny, Dublin 5",Dublin,422500.0,No,Raheny,Dublin 5,q3,80%
+28/01/2015,"51 The Watermill, Watermill Rd, Raheny Dublin 5",Dublin,250000.0,No,Raheny,Dublin 5,q1,30%
+30/01/2015,"3 Limewood Court, Raheny, Dublin 5",Dublin,292000.0,No,Raheny,Dublin 5,q2,40%
+30/01/2015,"4 Ennafort Ave, Raheny, Dublin 5",Dublin,535000.0,No,Raheny,Dublin 5,q4,90%
+02/02/2015,"27 Edenmore Grove, Raheny, Dublin 5",Dublin,200000.0,No,Raheny,Dublin 5,q1,20%
+03/02/2015,"131 Tonlegee Rd, Raheny, Dublin 5",Dublin,315000.0,No,Raheny,Dublin 5,q2,40%
+03/02/2015,"2 Greendale Ave, Raheny, Dublin 5",Dublin,475000.0,No,Raheny,Dublin 5,q4,80%
+03/02/2015,"39 The Grove, Bettyglen, Raheny Dublin 5",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+13/02/2015,"6 Springdale Square, Springdale Road, Raheny",Dublin,135000.0,No,Raheny,Dublin 5,q1,10%
+18/02/2015,"3 Eannafort Park, Raheny, Dublin 5",Dublin,525000.0,No,Raheny,Dublin 5,q4,90%
+27/02/2015,"31 Ashcroft, Raheny, Dublin 5",Dublin,369000.0,No,Raheny,Dublin 5,q3,60%
+27/02/2015,"31 Woodbine Rd, Raheny, Dublin 5",Dublin,375000.0,No,Raheny,Dublin 5,q3,60%
+02/03/2015,"136 Edenmore Ave, Raheny, Dublin 5",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+05/03/2015,"212 Tonlegee Rd, Cameron Park, Raheny Dublin 5",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+09/03/2015,"46 St Assams Ave, Raheny, Dublin 5",Dublin,486000.0,No,Raheny,Dublin 5,q4,90%
+10/03/2015,"71 Ennafort Park, Raheny, Dublin 5",Dublin,535000.0,No,Raheny,Dublin 5,q4,90%
+13/03/2015,"44 Edenmore Pk, Raheny, Dublin 5",Dublin,190000.0,No,Raheny,Dublin 5,q1,10%
+18/03/2015,"50 St Assams Park, Raheny, Dublin 5",Dublin,465000.0,No,Raheny,Dublin 5,q4,80%
+24/03/2015,"3 Foxfield Green, Raheny, Dublin City",Dublin,442000.0,No,Raheny,Dublin 5,q4,80%
+24/03/2015,"Apt 10, Raheny Wood, Raheny Rd Dublin 5",Dublin,237000.0,No,Raheny,Dublin 5,q1,20%
+25/03/2015,"165 Edenmore Crescent, Raheny, Dublin 5",Dublin,260000.0,No,Raheny,Dublin 5,q1,30%
+09/04/2015,"72 Belmont Park, Raheny, Dublin 5",Dublin,366000.0,No,Raheny,Dublin 5,q3,60%
+10/04/2015,"85 The Watermill, Raheny, Dublin 5",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+14/04/2015,"25 The Grove, Bettyglen, Raheny",Dublin,355000.0,No,Raheny,Dublin 5,q3,60%
+17/04/2015,"112 Ennafort Rd, Raheny, Dublin 5",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+17/04/2015,"188 Tonlegee Rd, Raheny, Dublin 5",Dublin,220350.0,No,Raheny,Dublin 5,q1,20%
+17/04/2015,"23 The Mills, Edenmore Park, Raheny Dublin 5",Dublin,137000.0,No,Raheny,Dublin 5,q1,10%
+21/04/2015,"340 Tonlegee Rd, Raheny, Dublin 5",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+23/04/2015,"99 Edenmore Crescent, Raheny, Dublin 5",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+24/04/2015,"20 Lough Derg Rd, Raheny, Dublin 5",Dublin,254000.0,No,Raheny,Dublin 5,q1,30%
+24/04/2015,"24 Waterfall Rd, Raheny, Dublin 5",Dublin,525000.0,No,Raheny,Dublin 5,q4,90%
+28/04/2015,"33 Glenayle Road, Raheny",Dublin,285000.0,No,Raheny,Dublin 5,q2,30%
+11/05/2015,"86 The Watermill, Raheny, Dublin 5",Dublin,233480.0,Yes,Raheny,Dublin 5,q1,20%
+14/05/2015,"138 Foxfield Park, Raheny, Dublin 5",Dublin,470000.0,No,Raheny,Dublin 5,q4,80%
+15/05/2015,"65 Belmont Park, Raheny, Dublin 5",Dublin,352500.0,No,Raheny,Dublin 5,q3,60%
+18/05/2015,"1 Nanikin Ave, St Annes, Raheny Dublin 5",Dublin,445000.0,No,Raheny,Dublin 5,q4,80%
+22/05/2015,"61 Edenmore Ave, Raheny, Dublin 5",Dublin,215000.0,No,Raheny,Dublin 5,q1,20%
+25/05/2015,"1 Millwood Villas, Off Tonglegee Rd, Raheny Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+28/05/2015,"83 Belmont Park, Raheny, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+29/05/2015,"2 Kilbarrack Gardens, Raheny, Dublin 5",Dublin,675000.0,No,Raheny,Dublin 5,q4,100%
+02/06/2015,"132 Ashcroft, Station Rd, Raheny Dublin 5",Dublin,305000.0,No,Raheny,Dublin 5,q2,40%
+05/06/2015,"44 Edenmore Gardens, Raheny, Dublin 5",Dublin,217000.0,No,Raheny,Dublin 5,q1,20%
+11/06/2015,"31 Woodbine Dr, Raheny, Dublin 5",Dublin,330000.0,No,Raheny,Dublin 5,q2,50%
+12/06/2015,"360 Tonylegee Rd, Raheny Dublin 5, Dublin",Dublin,280000.0,No,Raheny,Dublin 5,q2,30%
+15/06/2015,"15 Watermill Rd, Raheny, Dublin 5",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+18/06/2015,"27 Bettystown Ave, St Annes Estate, Raheny Dublin 5",Dublin,445000.0,No,Raheny,Dublin 5,q4,80%
+22/06/2015,"9 All Saints Park, Raheny",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+25/06/2015,"166 Ashcroft, Raheny, Dublin 5",Dublin,382000.0,No,Raheny,Dublin 5,q3,60%
+03/07/2015,"1 The Village, New Bettyglen, Watermill Road Raheny",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+06/07/2015,"49 Ennafort Rd, Raheny, Dublin 5",Dublin,428700.0,No,Raheny,Dublin 5,q3,80%
+08/07/2015,"4 Maryville Road, Raheny",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+15/07/2015,"18 Maywood Crescent, Raheny, Dublin 5",Dublin,460000.0,No,Raheny,Dublin 5,q4,80%
+15/07/2015,"35A Bettystown Ave, Raheny, Dublin 5",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+27/07/2015,"25 All Saints Road, Raheny, Dublin 5",Dublin,385000.0,No,Raheny,Dublin 5,q3,70%
+30/07/2015,"16 Grange Park Rise, Raheny, Dublin 5",Dublin,310000.0,No,Raheny,Dublin 5,q2,40%
+30/07/2015,"40 Maywood Ave, Raheny, Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+31/07/2015,"16 All Saints Rd, Raheny, Dublin 5",Dublin,415000.0,No,Raheny,Dublin 5,q3,70%
+04/08/2015,"10 Bettystown Ave, Raheny, Dublin 5",Dublin,420000.0,No,Raheny,Dublin 5,q3,80%
+04/08/2015,"104 Belmont Park, Raheny, Dublin 5",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+05/08/2015,"24 All Saints Rd, Raheny, Dublin 5",Dublin,386000.0,No,Raheny,Dublin 5,q3,70%
+05/08/2015,"85 Avondale Park, Raheny, Dublin 5",Dublin,375000.0,No,Raheny,Dublin 5,q3,60%
+06/08/2015,"126 Watermill, Raheny, Dublin 5",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+06/08/2015,"2 Glenwood Rd, Raheny, Dublin 5",Dublin,250000.0,No,Raheny,Dublin 5,q1,30%
+07/08/2015,"2A Roseglen Rd, Raheny, Dublin 5",Dublin,364000.0,No,Raheny,Dublin 5,q3,60%
+12/08/2015,"124 Bettyglen, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+21/08/2015,"43 Belmont Park, Raheny, Dublin 5",Dublin,344000.0,No,Raheny,Dublin 5,q2,50%
+01/09/2015,"26 Maywood Lawn, Raheny, Dublin 5",Dublin,650000.0,No,Raheny,Dublin 5,q4,100%
+01/09/2015,"7 Edenmore Ave, Raheny, Dublin 5",Dublin,211000.0,No,Raheny,Dublin 5,q1,20%
+03/09/2015,"75 Edenmore Crescent, Raheny, Dublin 5",Dublin,245000.0,No,Raheny,Dublin 5,q1,30%
+04/09/2015,"14 Edenmore Gardens, Raheny, Dublin 5",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+04/09/2015,"54 Edenmore Crescent, Raheny Dublin 5, Dublin",Dublin,256000.0,No,Raheny,Dublin 5,q1,30%
+07/09/2015,"2 Orchard Rd, Raheny, Dublin 5",Dublin,630000.0,No,Raheny,Dublin 5,q4,100%
+08/09/2015,"1 Roseglen Rd, Raheny, Dublin 5",Dublin,235000.0,No,Raheny,Dublin 5,q1,20%
+09/09/2015,"5 Grange Hall, Raheny Rd, Raheny Dublin 5",Dublin,260000.0,No,Raheny,Dublin 5,q1,30%
+09/09/2015,"91 The Watermill, Raheny, Dublin 5",Dublin,345000.0,No,Raheny,Dublin 5,q2,50%
+10/09/2015,"37 Glenayle Rd, Raheny, Dublin 5",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+14/09/2015,"42 The Grove, Bettyglen, Raheny Dublin 5",Dublin,525000.0,No,Raheny,Dublin 5,q4,90%
+16/09/2015,"68 St Assams Ave, Raheny, Dublin 5",Dublin,460000.0,No,Raheny,Dublin 5,q4,80%
+22/09/2015,"13 Foxfield Ave, Raheny, Dublin 5",Dublin,477000.0,No,Raheny,Dublin 5,q4,90%
+28/09/2015,"17 Cill Eanna, Raheny, Dublin 5",Dublin,550000.0,No,Raheny,Dublin 5,q4,90%
+30/09/2015,"23 Kilbarrack Ave, Raheny, Dublin 5",Dublin,525000.0,No,Raheny,Dublin 5,q4,90%
+30/09/2015,"29 The Meadows, Raheny, Dublin 5",Dublin,560000.0,No,Raheny,Dublin 5,q4,90%
+30/09/2015,"37 Cill Eanna, Raheny, Dublin 5",Dublin,480000.0,No,Raheny,Dublin 5,q4,90%
+30/09/2015,"39 The Watermill, Raheny, Dublin 5",Dublin,250000.0,No,Raheny,Dublin 5,q1,30%
+30/09/2015,"79 The Village, Bettyglen, Raheny Dublin 5",Dublin,375000.0,No,Raheny,Dublin 5,q3,60%
+05/10/2015,"291 Tonlegee Rd, Raheny, Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+05/10/2015,"4 Nanikin Ave, Raheny, Dublin 5",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+12/10/2015,"74 Avondale Park, Raheny, Dublin 5",Dublin,398000.0,No,Raheny,Dublin 5,q3,70%
+12/10/2015,"8 Woodbine Park, Raheny, Dublin 5",Dublin,366000.0,No,Raheny,Dublin 5,q3,60%
+15/10/2015,"8 Bettystown Ave, Raheny, Dublin 5",Dublin,432000.0,No,Raheny,Dublin 5,q3,80%
+21/10/2015,"4 The Grove, Bettyglen, Raheny Dublin 5",Dublin,325000.0,No,Raheny,Dublin 5,q2,50%
+22/10/2015,"39 Maywood Crescent, Raheny, Dublin 5",Dublin,555000.0,No,Raheny,Dublin 5,q4,90%
+22/10/2015,"The Court, Bettyglen, Raheny Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q2,50%
+23/10/2015,"109 Ashcroft, Raheny, Dublin 5",Dublin,347500.0,No,Raheny,Dublin 5,q2,50%
+03/11/2015,"3 Kilbarrack Road, Raheny, Dublin 5",Dublin,850000.0,Yes,Raheny,Dublin 5,q4,100%
+04/11/2015,"127 Belmont Park, Raheny",Dublin,359250.0,No,Raheny,Dublin 5,q3,60%
+11/11/2015,"13A Foxfield Park, Raheny, Dublin 5",Dublin,750000.0,No,Raheny,Dublin 5,q4,100%
+12/11/2015,"36 Ennafort Park, Raheny, Dublin 5",Dublin,405000.0,No,Raheny,Dublin 5,q3,70%
+13/11/2015,"86 Grange Park View, Raheny, Dublin 5",Dublin,272500.0,No,Raheny,Dublin 5,q2,30%
+18/11/2015,"70 Grange Park Road, Raheny, Dublin 5",Dublin,420000.0,No,Raheny,Dublin 5,q3,80%
+19/11/2015,"70 St Assams Park, Raheny, Dublin 5",Dublin,467000.0,No,Raheny,Dublin 5,q4,80%
+20/11/2015,"1A Belmont Park, Raheny, Belmont Park Dublin 5",Dublin,388000.0,No,Raheny,Dublin 5,q3,70%
+20/11/2015,"57 St Assams Ave, Raheny, Dublin 5",Dublin,545000.0,No,Raheny,Dublin 5,q4,90%
+24/11/2015,"61 Ennafort Rd, Raheny, Dublin 5",Dublin,420000.0,No,Raheny,Dublin 5,q3,80%
+02/12/2015,"32 Foxfield Ave, Raheny, Dublin 5",Dublin,512000.0,No,Raheny,Dublin 5,q4,90%
+04/12/2015,"24 Foxfield Park, Raheny, Dublin 5",Dublin,487000.0,No,Raheny,Dublin 5,q4,90%
+07/12/2015,"65 The Village, Bettyglen, Raheny",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+10/12/2015,"20 Maryville Rd, Raheny, Dublin 5",Dublin,395000.0,No,Raheny,Dublin 5,q3,70%
+11/12/2015,"11 St Annes Terrace, Raheny, Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+11/12/2015,"38 Maywood Crescent, Raheny",Dublin,480038.0,No,Raheny,Dublin 5,q4,90%
+14/12/2015,"16 Watermill Lawn, Raheny, Dublin 5",Dublin,750000.0,No,Raheny,Dublin 5,q4,100%
+15/12/2015,"25 Edenmore Crescent, Raheny, Dublin 5",Dublin,190000.0,No,Raheny,Dublin 5,q1,10%
+15/12/2015,"49 Edenmore Gardens, Raheny, Dublin 5",Dublin,180000.0,No,Raheny,Dublin 5,q1,10%
+16/12/2015,"29 St Assams Ave, Raheny, Dublin 5",Dublin,490000.0,No,Raheny,Dublin 5,q4,90%
+16/12/2015,"72 Ennafort Park, Raheny, Dublin 5",Dublin,482000.0,No,Raheny,Dublin 5,q4,90%
+17/12/2015,"9 Grange Park Dr, Raheny, Dublin 5",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+18/12/2015,"10 Belmont Sq, Raheny, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+18/12/2015,"9 Lough Derg Road, Raheny, Dublin 5",Dublin,258000.0,No,Raheny,Dublin 5,q1,30%
+21/12/2015,"201 Raheny Rd, Raheny, Dublin 5",Dublin,310000.0,No,Raheny,Dublin 5,q2,40%
+22/12/2015,"29 Avondale Park, Raheny, Dublin",Dublin,363000.0,No,Raheny,Dublin 5,q3,60%
+06/01/2016,"19 The Mills, Edenmore Park, Raheny Dublin 5",Dublin,132000.0,No,Raheny,Dublin 5,q1,10%
+22/01/2016,"3 Ennafort Mews, Ennafort Park, Raheny Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q2,50%
+27/01/2016,"2 Watermill Court, Raheny, Dublin 5",Dublin,160000.0,No,Raheny,Dublin 5,q1,10%
+03/02/2016,"88 Foxfield Park, Raheny, Dublin 5",Dublin,410000.0,No,Raheny,Dublin 5,q3,70%
+10/02/2016,"Apt 12, Raheny Wood, Raheny Rd Dublin 5",Dublin,234000.0,No,Raheny,Dublin 5,q1,20%
+11/02/2016,"49 Ashcroft, Raheny, Dublin",Dublin,385000.0,No,Raheny,Dublin 5,q3,70%
+15/02/2016,"Apartment 133, The Watermill, Raheny",Dublin,202000.0,No,Raheny,Dublin 5,q1,20%
+22/02/2016,"53 Edenmore Park, Raheny, Dublin 5",Dublin,190000.0,No,Raheny,Dublin 5,q1,10%
+24/02/2016,"54 Edenmore Avenue, Raheny, Dublin 5",Dublin,167000.0,No,Raheny,Dublin 5,q1,10%
+29/02/2016,"19 St Anne'S Avenue, Raheny, Dublin 5",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+29/02/2016,"34 Edenmore Crescent, Raheny, Dublin 5",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+16/03/2016,"170 Belmont Park, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q2,50%
+24/03/2016,"65 Ennafort Road, Raheny, Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+30/03/2016,"140 Foxfield Grove, Raheny, Dublin 5",Dublin,612000.0,No,Raheny,Dublin 5,q4,100%
+31/03/2016,"10 Foxs Lane, Raheny, Dublin 5",Dublin,675000.0,No,Raheny,Dublin 5,q4,100%
+31/03/2016,"10A Cedar Walk, Raheny, Dublin 5",Dublin,355000.0,No,Raheny,Dublin 5,q3,60%
+01/04/2016,"129 The Watermill, Watermill Rd, Raheny",Dublin,299000.0,No,Raheny,Dublin 5,q2,40%
+01/04/2016,"58 Maywood Ave, Raheny, Dublin 5",Dublin,515000.0,No,Raheny,Dublin 5,q4,90%
+05/04/2016,"57 Raheny Park, Raheny, Dublin 5",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+05/04/2016,"62 Grange Park Crescent, Raheny, Dublin 5",Dublin,261000.0,No,Raheny,Dublin 5,q1,30%
+07/04/2016,"Apt 62  The Watermill Apts., Watermill Road, Raheny",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+07/04/2016,"Apt 6, Raheny Wood, Raheny Rd Dublin 5",Dublin,162000.0,No,Raheny,Dublin 5,q1,10%
+11/04/2016,"37 Edenmore Crescent, Raheny, Dublin 5",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+13/04/2016,"52 Maryville Rd, Raheny, Dublin 5",Dublin,366000.0,No,Raheny,Dublin 5,q3,60%
+14/04/2016,"27 Cill Eanna, Raheny, Dublin 5",Dublin,562000.0,No,Raheny,Dublin 5,q4,100%
+15/04/2016,"131 Raheny Rd, Rahney, Dublin 5",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+20/04/2016,"7 Cill Eanna, Raheny, Dublin 5",Dublin,439000.0,No,Raheny,Dublin 5,q3,80%
+29/04/2016,"33 Bettystown Ave, St Annes Estate, Raheny Dublin 5",Dublin,365000.0,No,Raheny,Dublin 5,q3,60%
+03/05/2016,"93A Tonlegee Rd, Raheny, Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+05/05/2016,"62 Springdale Rd, Raheny, Dublin 5",Dublin,277000.0,No,Raheny,Dublin 5,q2,30%
+06/05/2016,"30 St Annes Ave, Raheny, Dublin 5",Dublin,210000.0,No,Raheny,Dublin 5,q1,20%
+06/05/2016,"33 Maryville Rd, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q2,50%
+11/05/2016,"7 Foxfield Lawn, Raheny, Dublin 5",Dublin,480000.0,No,Raheny,Dublin 5,q4,90%
+13/05/2016,"21 Woodbine Close, Raheny, Dublin 5",Dublin,421000.0,No,Raheny,Dublin 5,q3,80%
+13/05/2016,"3 Grange Park Rise, Raheny, Dublin",Dublin,306000.0,No,Raheny,Dublin 5,q2,40%
+17/05/2016,"73 Belmont Park, Raheny, Dublin 5",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+24/05/2016,"18 Main Street, Raheny, Dublin 5",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+24/05/2016,"18 Waterfall Road, St Anne'S St, Raheny",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+27/05/2016,"17 Watermill Dr, Raheny, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+14/06/2016,"22 Ennafort Rd, Raheny, Dublin 5",Dublin,580000.0,No,Raheny,Dublin 5,q4,100%
+14/06/2016,"6 The Grove, Bettyglen, Raheny Dublin 5",Dublin,385000.0,No,Raheny,Dublin 5,q3,70%
+17/06/2016,"20 Watermill Ave, Raheny, Dublin 5",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+20/06/2016,"160 Springdale Rd, Raheny, Dublin 5",Dublin,227700.0,No,Raheny,Dublin 5,q1,20%
+22/06/2016,"20 Wades Ave, St Annes, Raheny Dublin 5",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+24/06/2016,"52 Edenmore Dr, Raheny, Dublin 5",Dublin,230000.0,No,Raheny,Dublin 5,q1,20%
+27/06/2016,"165 Tonlegee Rd, Raheny, Dublin 5",Dublin,285000.0,No,Raheny,Dublin 5,q2,40%
+30/06/2016,"47 Belmont Sq, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+01/07/2016,"34 The Village, Bettyglen, Raheny",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+08/07/2016,"251 Tonlegee Rd, Raheny, Dublin 5",Dublin,262000.0,No,Raheny,Dublin 5,q1,30%
+08/07/2016,"83 St Assams Ave, Raheny, Dublin 5",Dublin,430000.0,No,Raheny,Dublin 5,q3,80%
+12/07/2016,"19 Watermill Lawn, Raheny, Dublin 5",Dublin,660000.0,No,Raheny,Dublin 5,q4,100%
+22/07/2016,"27 Lough Derg Rd, Raheny, Dublin 5",Dublin,284000.0,No,Raheny,Dublin 5,q2,30%
+26/07/2016,"1 St Margarets Avenue, Raheny, Dublin 5",Dublin,667500.0,No,Raheny,Dublin 5,q4,100%
+28/07/2016,"102 Edenmore Ave, Raheny, Dublin 5",Dublin,200000.0,No,Raheny,Dublin 5,q1,20%
+28/07/2016,"92 Grange Park Rd, Raheny, Dublin 5",Dublin,465000.0,No,Raheny,Dublin 5,q4,80%
+29/07/2016,"14 St Annes Dr, Raheny, Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+29/07/2016,"15 Kilbarrack Ave, Raheny, Dublin 5",Dublin,580000.0,No,Raheny,Dublin 5,q4,100%
+29/07/2016,"40 All Saints Rd, Raheny, Dublin 5",Dublin,375000.0,No,Raheny,Dublin 5,q3,60%
+29/07/2016,"58 Tonlegee Dr, Raheny, Dublin 5",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+02/08/2016,"30 Grange Park Ave, Raheny, Dublin",Dublin,280000.0,No,Raheny,Dublin 5,q2,30%
+11/08/2016,"14 Grange Park Close, Raheny, Dublin 5",Dublin,286000.0,No,Raheny,Dublin 5,q2,40%
+12/08/2016,"29 Grange Park Crescent, Raheny, Dublin 5",Dublin,345000.0,No,Raheny,Dublin 5,q2,50%
+16/08/2016,"1 Grange Park Green, Raheny, Dublin 5",Dublin,315000.0,No,Raheny,Dublin 5,q2,40%
+16/08/2016,"192 Springdale Rd, Raheny, Dublin 5",Dublin,286000.0,No,Raheny,Dublin 5,q2,40%
+16/08/2016,"247 Raheny Rd, Raheny, Dublin 5",Dublin,315000.0,No,Raheny,Dublin 5,q2,40%
+16/08/2016,"32 Maryville Rd, Raheny, Dublin 5",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+19/08/2016,"115 The Watermill, Bettyglen, Raheny Dublin 5",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+22/08/2016,"37 Ashcroft, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q2,50%
+24/08/2016,"100 Tonlegee Road, Raheny, Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+25/08/2016,"53 Raheny Park, Raheny, Dublin 5",Dublin,545000.0,No,Raheny,Dublin 5,q4,90%
+30/08/2016,"18 St Assams Park, Raheny, Dublin 5",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+30/08/2016,"48 Foxfield Park, Raheny, Dublin 5",Dublin,502000.0,No,Raheny,Dublin 5,q4,90%
+31/08/2016,"36 St Assams Ave, Raheny, Dublin 5",Dublin,537500.0,No,Raheny,Dublin 5,q4,90%
+05/09/2016,"85 Raheny Rd, Raheny, Dublin 5",Dublin,215000.0,No,Raheny,Dublin 5,q1,20%
+06/09/2016,"8 Glenwood Rd, Raheny, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+07/09/2016,"17A Belmont Park, Raheny, Belmont Park",Dublin,398000.0,No,Raheny,Dublin 5,q3,70%
+08/09/2016,"Apt 53, The Watermill, Raheny Dublin 5",Dublin,285000.0,No,Raheny,Dublin 5,q2,40%
+09/09/2016,"143 Raheny Rd, Raheny, Dublin 5",Dublin,325000.0,No,Raheny,Dublin 5,q2,50%
+09/09/2016,"89 The Watermill, Block 2B, Raheny Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+12/09/2016,"3 Ennafort Grove, Raheny, Dublin 5",Dublin,475000.0,No,Raheny,Dublin 5,q4,90%
+20/09/2016,"9 Watermill Court, Watermill Rd, Raheny Dublin 5",Dublin,187000.0,No,Raheny,Dublin 5,q1,10%
+21/09/2016,"67 St Margarets Ave, Raheny, Dublin 5",Dublin,515000.0,No,Raheny,Dublin 5,q4,90%
+22/09/2016,"17 Belmont Park, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+23/09/2016,"24 St Annes Terrace, Raheny, Dublin 5",Dublin,440000.0,No,Raheny,Dublin 5,q3,80%
+23/09/2016,"97 Foxfield Grove, Raheny, Dublin 5",Dublin,467000.0,No,Raheny,Dublin 5,q4,80%
+30/09/2016,"28 Station Rd, Raheny, Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+12/10/2016,"39 Limewood Ave, Raheny, Dublin 5",Dublin,330050.0,No,Raheny,Dublin 5,q2,50%
+14/10/2016,"33 Avondale Park, Raheny, Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+17/10/2016,"120 The Watermill, Watermill Rd, Raheny Dublin 5",Dublin,355000.0,No,Raheny,Dublin 5,q3,60%
+19/10/2016,"13 Foxfield Rd, Raheny, Dublin 5",Dublin,475000.0,No,Raheny,Dublin 5,q4,90%
+19/10/2016,"28 Roseglen Rd, Raheny, Dublin 5",Dublin,287000.0,No,Raheny,Dublin 5,q2,40%
+20/10/2016,"95 All Saints Rd, Raheny, Dublin 5",Dublin,395000.0,No,Raheny,Dublin 5,q3,70%
+21/10/2016,"2 Grange Park Close, Raheny Dublin 5, Dublin",Dublin,327000.0,No,Raheny,Dublin 5,q2,50%
+21/10/2016,"23 Watermill Park, Raheny, Dublin 5",Dublin,341000.0,No,Raheny,Dublin 5,q2,50%
+25/10/2016,"19 Stassams Park, Raheny, Dublin 5",Dublin,578000.0,No,Raheny,Dublin 5,q4,100%
+25/10/2016,"372 Tonlegee Rd, Raheny, Dublin 5",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+27/10/2016,"34 Millwood Villas, Raheny, Dublin",Dublin,240000.0,No,Raheny,Dublin 5,q1,20%
+28/10/2016,"273 Kilbarrack Rd, Raheny, Dublin 5",Dublin,254000.0,No,Raheny,Dublin 5,q1,30%
+01/11/2016,"243 Tonlegee Rd, Raheny, Dublin 5",Dublin,122500.0,No,Raheny,Dublin 5,q1,10%
+08/11/2016,"11 Foxfield Lawn, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+10/11/2016,"20 Avondale Park, Raheny, Dublin 5",Dublin,418500.0,No,Raheny,Dublin 5,q3,70%
+16/11/2016,"30 Avondale Park, Raheny, Dublin 5",Dublin,437000.0,No,Raheny,Dublin 5,q3,80%
+18/11/2016,"204 Tonlegee Rd, Raheny, Dublin 5",Dublin,345000.0,No,Raheny,Dublin 5,q2,50%
+23/11/2016,"99 Grange Park Crescent, Raheny, Dublin 5",Dublin,255000.0,No,Raheny,Dublin 5,q1,30%
+25/11/2016,"18 All Saints Rd, Raheny, Dublin 5",Dublin,567893.0,No,Raheny,Dublin 5,q4,100%
+29/11/2016,"62 Foxfield Ave, Raheny, Dublin 5",Dublin,510000.0,No,Raheny,Dublin 5,q4,90%
+30/11/2016,"20 All Saints Rd, Raheny, Dublin",Dublin,382500.0,No,Raheny,Dublin 5,q3,70%
+02/12/2016,"69 Kilbarrack Rd, Raheny, Dublin 5",Dublin,545000.0,No,Raheny,Dublin 5,q4,90%
+02/12/2016,"92 All Saints Road, Raheny, Dublin 5",Dublin,432000.0,No,Raheny,Dublin 5,q3,80%
+06/12/2016,"29 Foxfield Park, Raheny, Dublin 5",Dublin,600000.0,No,Raheny,Dublin 5,q4,100%
+07/12/2016,"7 Manor Dr, The Donahies, Raheny Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+09/12/2016,"40 St Assams Park, Raheny, Dublin 5",Dublin,610000.0,No,Raheny,Dublin 5,q4,100%
+12/12/2016,"26 St Assams Ave, Raheny, Dublin 5",Dublin,512000.0,No,Raheny,Dublin 5,q4,90%
+16/12/2016,"Apt 1, Unit 2 Edenmore Shopping Centre, Raheny",Dublin,100000.0,No,Raheny,Dublin 5,q1,10%
+19/12/2016,"3 Kilbarrack Ave, Raheny, Dublin 5",Dublin,610000.0,No,Raheny,Dublin 5,q4,100%
+21/12/2016,"14 Millwood Park, Raheny Dublin 5, Dublin",Dublin,195000.0,No,Raheny,Dublin 5,q1,10%
+21/12/2016,"Apt 18 Block 4, Watermill Apt, Raheny Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+22/12/2016,"13 Berach Lodge, Kilbarrack Rd, Raheny Dublin 5",Dublin,345000.0,No,Raheny,Dublin 5,q2,50%
+13/01/2017,"10 St Annes Ave, Raheny, Dublin 5",Dublin,495000.0,No,Raheny,Dublin 5,q4,90%
+19/01/2017,"88 Watermill, Bettyglen, Raheny Dublin 5",Dublin,401000.0,No,Raheny,Dublin 5,q3,70%
+26/01/2017,"10 St Annes Terrace, Raheny Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+27/01/2017,"43 Watermill Rd, Raheny, Dublin 5",Dublin,505000.0,No,Raheny,Dublin 5,q4,90%
+27/01/2017,"Apt 19 Block A, Bettyglen, Raheny",Dublin,145000.0,No,Raheny,Dublin 5,q1,10%
+01/02/2017,"Apt 8, Raheny Wood, Raheny Rd Dublin 5",Dublin,245000.0,No,Raheny,Dublin 5,q1,30%
+06/02/2017,"32 Maywood Lawn, Raheny, Dublin 5",Dublin,520000.0,No,Raheny,Dublin 5,q4,90%
+07/02/2017,"1 Sybill Hill Avenue, Raheny, Dublin 5",Dublin,68500.0,Yes,Raheny,Dublin 5,q1,10%
+07/02/2017,"14 Belmont Park, Raheny, Dublin 5",Dublin,395000.0,No,Raheny,Dublin 5,q3,70%
+07/02/2017,"60 Cill Eanna, Raheny, Dublin 5",Dublin,535000.0,No,Raheny,Dublin 5,q4,90%
+15/02/2017,"3 Foxfield Ave, Raheny, Dublin 5",Dublin,560000.0,No,Raheny,Dublin 5,q4,90%
+16/02/2017,"81 Avondale Park, Raheny, Dublin 5",Dublin,395000.0,No,Raheny,Dublin 5,q3,70%
+20/02/2017,"7 St Annes Ave, Raheny, Dublin 5",Dublin,439100.0,No,Raheny,Dublin 5,q3,80%
+28/02/2017,"10 Watermill Court, Watermill Rd, Raheny Dublin 5",Dublin,200000.0,No,Raheny,Dublin 5,q1,20%
+03/03/2017,"5 Avondale Park, Raheny, Dublin 5",Dublin,385000.0,No,Raheny,Dublin 5,q3,70%
+03/03/2017,"5 The Village, Bettyglen, Raheny",Dublin,395000.0,No,Raheny,Dublin 5,q3,70%
+09/03/2017,"38 Grange Park View, Raheny, Dublin 5",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+10/03/2017,"156 Springdale Rd, Raheny, Dublin 5",Dublin,257000.0,No,Raheny,Dublin 5,q1,30%
+16/03/2017,"171 Springdale Road, Raheny, Dublin 5",Dublin,290000.0,No,Raheny,Dublin 5,q2,40%
+20/03/2017,"12 Grange Park View, Raheny, Dublin",Dublin,315000.0,No,Raheny,Dublin 5,q2,40%
+22/03/2017,"48 Foxfield Rd, Raheny, Dublin 5",Dublin,525000.0,No,Raheny,Dublin 5,q4,90%
+23/03/2017,"50 The Grove, Bettyglen, Raheny Dublin 5",Dublin,375000.0,No,Raheny,Dublin 5,q3,60%
+28/03/2017,"46 Springdale Rd, Raheny, Dublin 5",Dublin,305000.0,No,Raheny,Dublin 5,q2,40%
+29/03/2017,"155 Raheny Rd, Raheny, Dublin 5",Dublin,323000.0,No,Raheny,Dublin 5,q2,50%
+31/03/2017,"129 Edenmore Crescent, Raheny, Dublin 5",Dublin,250000.0,No,Raheny,Dublin 5,q1,30%
+31/03/2017,"58 Foxfield St John, Raheny, Dublin 5",Dublin,495000.0,No,Raheny,Dublin 5,q4,90%
+31/03/2017,"5B The Glen, Bettyglen, Raheny Dublin 5",Dublin,155000.0,No,Raheny,Dublin 5,q1,10%
+13/04/2017,"24 Waterfall Rd, Raheny, Dublin 5",Dublin,568750.0,No,Raheny,Dublin 5,q4,100%
+04/05/2017,"27 Edenmore Grove, Raheny, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+04/05/2017,"5 Waterfall Rd, St Annes Estate, Raheny Dublin 5",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+05/05/2017,"Apt 104 Block I, Watermill Apts, Raheny",Dublin,265000.0,No,Raheny,Dublin 5,q1,30%
+11/05/2017,"15 Foxs Lane, Raheny, Dublin 5",Dublin,682500.0,No,Raheny,Dublin 5,q4,100%
+12/05/2017,"179 Foxfield Grove, Raheny, Dublin 5",Dublin,470000.0,No,Raheny,Dublin 5,q4,80%
+26/05/2017,"15 Watermill Dr, Raheny, Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+29/05/2017,"62 Maryville Rd, St Annes Estate, Raheny Dublin 5",Dublin,405000.0,No,Raheny,Dublin 5,q3,70%
+01/06/2017,"3 St Anne'S Avenue, St Anne'S Estate, Raheny",Dublin,415000.0,No,Raheny,Dublin 5,q3,70%
+02/06/2017,"30A All Saints Rd, Raheny, Dublin 5",Dublin,612000.0,No,Raheny,Dublin 5,q4,100%
+02/06/2017,"37 Foxfield Grove, Raheny, Dublin 5",Dublin,475000.0,No,Raheny,Dublin 5,q4,90%
+02/06/2017,"Apt 46 The Watermill, Watermill Rd, Bettyglen Raheny",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+07/06/2017,"8 Grange Park View, Raheny, Dublin 5",Dublin,160000.0,No,Raheny,Dublin 5,q1,10%
+08/06/2017,"12 Belmont Sq, Raheny, Dublin 5",Dublin,395000.0,No,Raheny,Dublin 5,q3,70%
+08/06/2017,"23 Edenmore Grove, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+12/06/2017,"40 The Grove Bettyglen, Raheny Dublin 5, Dublin",Dublin,536000.0,No,Raheny,Dublin 5,q4,90%
+13/06/2017,"140 The Watermill, Bettyglen, Raheny Dublin 5",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+14/06/2017,"51 The Village, Bettyglen, Raheny Dublin 5",Dublin,441000.0,No,Raheny,Dublin 5,q3,80%
+15/06/2017,"12 Rathmore Park, Raheny, Dublin 5",Dublin,437000.0,No,Raheny,Dublin 5,q3,80%
+15/06/2017,"38 Watermill Road, Raheny, Dublin 5",Dublin,660000.0,No,Raheny,Dublin 5,q4,100%
+19/06/2017,"91A Belmont Park, Raheny, Belmont Park",Dublin,510000.0,No,Raheny,Dublin 5,q4,90%
+21/06/2017,"44 Springdale Rd, Raheny, Dublin 5",Dublin,316000.0,No,Raheny,Dublin 5,q2,50%
+22/06/2017,"17 Kilbarrack Ave, Raheny, Dublin 5",Dublin,562000.0,No,Raheny,Dublin 5,q4,100%
+22/06/2017,"172 Springdale Rd, Raheny, Dublin 5",Dublin,265000.0,No,Raheny,Dublin 5,q1,30%
+22/06/2017,"184 Ashcroft, Raheny, Dublin 5",Dublin,365000.0,No,Raheny,Dublin 5,q3,60%
+26/06/2017,"66 All Saints Road, Raheny, Dublin 5",Dublin,460000.0,No,Raheny,Dublin 5,q4,80%
+29/06/2017,"102 Belmont Park, Raheny, Dublin 5",Dublin,434000.0,No,Raheny,Dublin 5,q3,80%
+03/07/2017,"132 Foxfield Grove, Raheny, Dublin 5",Dublin,645000.0,No,Raheny,Dublin 5,q4,100%
+04/07/2017,"6 Edenmore Park, Raheny, Dublin 5",Dublin,176570.0,No,Raheny,Dublin 5,q1,10%
+05/07/2017,"23 Woodbine Drive, Raheny, Dublin 5",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+07/07/2017,"46 Rathmore Park, Raheny, Dublin 5",Dublin,572000.0,No,Raheny,Dublin 5,q4,100%
+11/07/2017,"50 Edenmore Crescent, Raheny, Dublin 5",Dublin,296000.0,No,Raheny,Dublin 5,q2,40%
+14/07/2017,"40B Maryville, Raheny, Maryville Dublin 5",Dublin,570000.0,No,Raheny,Dublin 5,q4,100%
+19/07/2017,"1A Foxfield Ave, Raheny, Dublin 5",Dublin,520000.0,No,Raheny,Dublin 5,q4,90%
+20/07/2017,"12 Edenmore Gardens, Raheny, Dublin 5",Dublin,299500.0,No,Raheny,Dublin 5,q2,40%
+24/07/2017,"18 Limewood Ave, Raheny, Dublin 5",Dublin,352000.0,No,Raheny,Dublin 5,q3,60%
+28/07/2017,"8 Maywood Dr, Raheny, Dublin",Dublin,445000.0,No,Raheny,Dublin 5,q4,80%
+31/07/2017,"9 The Beeches, Grange Rd, Raheny",Dublin,354000.0,No,Raheny,Dublin 5,q3,60%
+01/08/2017,"14 Rathmore Park, Raheny, Dublin 5",Dublin,465000.0,No,Raheny,Dublin 5,q4,80%
+01/08/2017,"144 Ashcroft, Raheny, Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+02/08/2017,"2 Grangemore Grove, Raheny, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+03/08/2017,"81 The Village, Bettyglen, Raheny Dublin 5",Dublin,410000.0,No,Raheny,Dublin 5,q3,70%
+04/08/2017,"25 All Saints Road, Raheny, Dublin 5",Dublin,450250.0,No,Raheny,Dublin 5,q4,80%
+04/08/2017,"42 Kilbarrack Rd, Raheny, Dublin 5",Dublin,560000.0,No,Raheny,Dublin 5,q4,100%
+11/08/2017,"1 Avondale Pk, Raheny, Dublin 5",Dublin,446000.0,No,Raheny,Dublin 5,q4,80%
+17/08/2017,"110 Belmont Park, Raheny, Dublin 5",Dublin,460000.0,No,Raheny,Dublin 5,q4,80%
+17/08/2017,"20 Glenwood Rd, Raheny, Dublin 5",Dublin,376000.0,No,Raheny,Dublin 5,q3,60%
+17/08/2017,"40A Maryville Rd, Raheny, Dublin 5",Dublin,560000.0,No,Raheny,Dublin 5,q4,100%
+18/08/2017,"124 Foxfield Park, Raheny, Dublin 5",Dublin,485000.0,No,Raheny,Dublin 5,q4,90%
+23/08/2017,"44 Roseglen Rd, Raheny, Dublin 5",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+24/08/2017,"217 Tonlegee Rd, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+29/08/2017,"26 Grange Park Ave, Raheny, Dublin 5",Dublin,388000.0,No,Raheny,Dublin 5,q3,70%
+30/08/2017,"37 Grange Park Dr, Raheny, Dublin 5",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+31/08/2017,"3 Kilbarrack Gardens, Raheny, Dublin 5",Dublin,600000.0,No,Raheny,Dublin 5,q4,100%
+31/08/2017,"39 Belmont Sq, Raheny, Dublin 5",Dublin,262555.0,No,Raheny,Dublin 5,q1,30%
+07/09/2017,"98 Ennafort Rd, Raheny Dublin 5, Dublin 5",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+11/09/2017,"31 All Saints Rd, Raheny, Dublin 5",Dublin,440000.0,No,Raheny,Dublin 5,q3,80%
+12/09/2017,"29 All Saints Rd, Raheny, Dublin 5",Dublin,410000.0,No,Raheny,Dublin 5,q3,70%
+13/09/2017,"1 Glenayle Rd, Raheny, Dublin 5",Dublin,426000.0,No,Raheny,Dublin 5,q3,80%
+13/09/2017,"22 St Assams Ave, Raheny, Dublin 5",Dublin,575000.0,No,Raheny,Dublin 5,q4,100%
+13/09/2017,"73 Edenmore Crescent, Raheny, Dublin 5",Dublin,317000.0,No,Raheny,Dublin 5,q2,50%
+14/09/2017,"51 Raheny Park, Raheny, Dublin 5",Dublin,635000.0,No,Raheny,Dublin 5,q4,100%
+19/09/2017,"8 Kilmoroney Close, Raheny, Dublin 13",Dublin,328000.0,No,Raheny,Dublin 5,q2,50%
+28/09/2017,"4 Waterfall Rd, Raheny, Dublin 5",Dublin,480000.0,No,Raheny,Dublin 5,q4,90%
+28/09/2017,"Iniscarra, 5 Wades Ave, Raheny Dublin 5",Dublin,656149.0,No,Raheny,Dublin 5,q4,100%
+03/10/2017,"133 Ashcroft, Raheny Dublin 5, Dublin",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+06/10/2017,"57 Ennafort Road, Raheny, Dublin 5",Dublin,575000.0,No,Raheny,Dublin 5,q4,100%
+18/10/2017,"11 Watermill Lawn, Raheny, Dublin 5",Dublin,780000.0,No,Raheny,Dublin 5,q4,100%
+20/10/2017,"354 Tonlegee Road, Raheny, Dublin 5",Dublin,330000.0,No,Raheny,Dublin 5,q2,50%
+23/10/2017,"12 All Saints Road, Raheny, Dublin 5",Dublin,555000.0,No,Raheny,Dublin 5,q4,90%
+23/10/2017,"78 Grange Park Cresent, Raheny Dublin 5, Dublin",Dublin,367500.0,No,Raheny,Dublin 5,q3,60%
+24/10/2017,"89 The Village, Bettyglen, Raheny Dublin 5",Dublin,420000.0,No,Raheny,Dublin 5,q3,80%
+27/10/2017,"56 St Assams Park, Raheny, Dublin 5",Dublin,600000.0,No,Raheny,Dublin 5,q4,100%
+27/10/2017,"72 Ashcroft, Raheny, Dublin 5",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+31/10/2017,"11 Grange Hall, Raheny, Dublin 5",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+01/11/2017,"62 Ennafort Rd, Raheny, Dublin 5",Dublin,487000.0,No,Raheny,Dublin 5,q4,90%
+03/11/2017,"16 Belmont Park, Raheny, Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+08/11/2017,"50 Edenmore Gardens, Raheny, Dublin 5",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+10/11/2017,"28 Grange Park Crescent, Raheny, Dublin 5",Dublin,373000.0,No,Raheny,Dublin 5,q3,60%
+14/11/2017,"15 Edenmore Grove, Raheny, Dublin 5",Dublin,280000.0,No,Raheny,Dublin 5,q2,30%
+16/11/2017,"13 Raheny Wood, Raheny Rd, Raheny Dublin 5",Dublin,160000.0,No,Raheny,Dublin 5,q1,10%
+17/11/2017,"Apt 1A The Glen, Bettyglen, Raheny",Dublin,137000.0,No,Raheny,Dublin 5,q1,10%
+23/11/2017,"79 Tonlegee Dr, Raheny, Dublin 5",Dublin,420000.0,No,Raheny,Dublin 5,q3,80%
+23/11/2017,"79 Watermill, Bettyglen, Raheny",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+30/11/2017,"17 All Saints Parks, Raheny, Dublin 5",Dublin,403500.0,No,Raheny,Dublin 5,q3,70%
+04/12/2017,"5 Ennafort Ave, Raheny, Dublin 5",Dublin,610000.0,No,Raheny,Dublin 5,q4,100%
+05/12/2017,"80 St Assams Ave, Raheny, Dublin 5",Dublin,601000.0,No,Raheny,Dublin 5,q4,100%
+06/12/2017,"59 St Assams Ave, Raheny, Dublin 5",Dublin,573500.0,No,Raheny,Dublin 5,q4,100%
+07/12/2017,"90A Belmont Park, Raheny, Belmont Park Dublin 5",Dublin,603000.0,No,Raheny,Dublin 5,q4,100%
+12/12/2017,"13 St Annes Avenue, St Annes Estate, Raheny",Dublin,463000.0,No,Raheny,Dublin 5,q4,80%
+12/12/2017,"Apt 62  The Watermill Apts., Watermill Road, Raheny",Dublin,345000.0,No,Raheny,Dublin 5,q2,50%
+14/12/2017,"169 Foxfield Grove, Raheny, Dublin 5",Dublin,650000.0,No,Raheny,Dublin 5,q4,100%
+14/12/2017,"40 Avondale Park, Raheny, Dublin 5",Dublin,437000.0,No,Raheny,Dublin 5,q3,80%
+15/12/2017,"12 Millwood Villas, Raheny, Dublin 5",Dublin,250000.0,No,Raheny,Dublin 5,q1,30%
+15/12/2017,"13 Edenmore Grove, Raheny, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+15/12/2017,"132 Springdale Rd, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+15/12/2017,"39 Edenmore Gardens, Raheny, Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+18/12/2017,"90 Foxfield Park, Raheny, Dublin 5",Dublin,500000.0,No,Raheny,Dublin 5,q4,90%
+19/12/2017,"16 Maywood Lawn, Raheny, Dublin 5",Dublin,595000.0,No,Raheny,Dublin 5,q4,100%
+19/12/2017,"41 The Village, Bettyglen, Raheny Dublin 5",Dublin,410000.0,No,Raheny,Dublin 5,q3,70%
+19/12/2017,"7 Edenmore Crescent, Raheny, Dublin 5",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+20/12/2017,"24 Maywood Crescent, Raheny, Dublin 5",Dublin,565000.0,No,Raheny,Dublin 5,q4,100%
+21/12/2017,"9 Woodbine Rd, Raheny, Dublin 5",Dublin,445000.0,No,Raheny,Dublin 5,q4,80%
+17/01/2018,"36 Millwood Park, Raheny, Dublin 5",Dublin,185000.0,No,Raheny,Dublin 5,q1,10%
+18/01/2018,"Watermill Road, Raheny, Dublin 5",Dublin,1500000.0,No,Raheny,Dublin 5,q4,100%
+23/01/2018,"4A All Saints Road, Raheny, Dublin 5",Dublin,610000.0,No,Raheny,Dublin 5,q4,100%
+26/01/2018,"12 Limewood Park, Raheny, Dublin 5",Dublin,345000.0,No,Raheny,Dublin 5,q2,50%
+31/01/2018,"27 Glenwood Rd, Cameron Park, Raheny Dublin 5",Dublin,330000.0,No,Raheny,Dublin 5,q2,50%
+01/02/2018,"99 Raheny Rd, Dublin 5, Dublin",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+09/02/2018,"8 Grange Park Rise, Raheny, Dublin 5",Dublin,375000.0,No,Raheny,Dublin 5,q3,60%
+16/02/2018,"127 Edenmore Ave, Raheny, Dublin 5",Dublin,275777.0,No,Raheny,Dublin 5,q2,30%
+16/02/2018,"175 Belmont Pk, Raheny, Dublin 5",Dublin,415000.0,No,Raheny,Dublin 5,q3,70%
+19/02/2018,"20 Kilbarrack Rd, Raheny, Dublin 5",Dublin,665000.0,No,Raheny,Dublin 5,q4,100%
+19/02/2018,"43 St Annes Ave, Raheny, Dublin 5",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+22/02/2018,"20 Watermill Lawn, Raheny, Dublin 5",Dublin,765000.0,No,Raheny,Dublin 5,q4,100%
+27/02/2018,"76 St Assams Rd West, Raheny, Dublin 5",Dublin,540000.0,No,Raheny,Dublin 5,q4,90%
+09/03/2018,"76 Foxfield Rd, Raheny, Dublin 5",Dublin,680000.0,No,Raheny,Dublin 5,q4,100%
+15/03/2018,"55 Ennafort Park, Raheny, Dublin 5",Dublin,592000.0,No,Raheny,Dublin 5,q4,100%
+28/03/2018,"39 St Assams Park, Raheny, Dublin 5",Dublin,640000.0,No,Raheny,Dublin 5,q4,100%
+29/03/2018,"1 Glenwood Rd, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+04/04/2018,"6 Edenmore Grove, Raheny, Dublin 5",Dublin,280000.0,No,Raheny,Dublin 5,q2,30%
+05/04/2018,"48 Edenmore Dr, Raheny, Dublin",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+12/04/2018,"20 St Assams Ave, Raheny, Dublin 5",Dublin,300000.0,No,Raheny,Dublin 5,q2,40%
+16/04/2018,"15 Waterfall Rd, St Annes Estate, Raheny Dublin 5",Dublin,490000.0,No,Raheny,Dublin 5,q4,90%
+20/04/2018,"12 Glenfarne Rd, Raheny, Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+23/04/2018,"147 Belmont Park, Raheny, Dublin 5",Dublin,385000.0,No,Raheny,Dublin 5,q3,70%
+27/04/2018,"96 The Watermill, Bettyglen, Raheny Dublin 5",Dublin,385000.0,No,Raheny,Dublin 5,q3,70%
+30/04/2018,"25 St Annes Ave, Raheny, Dublin 5",Dublin,472000.0,No,Raheny,Dublin 5,q4,80%
+30/04/2018,"93 Ashcroft, Raheny, Dublin 5",Dublin,368000.0,No,Raheny,Dublin 5,q3,60%
+02/05/2018,"48 St Anne'S Avenue, Raheny, Dublin 5",Dublin,430000.0,No,Raheny,Dublin 5,q3,80%
+04/05/2018,"63 Bettyglen, Raheny, Dublin 5",Dublin,580000.0,No,Raheny,Dublin 5,q4,100%
+14/05/2018,"13 Glenayle Rd, Cameron Park, Raheny Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+17/05/2018,"56 Edenmore Grove, Raheny, Dublin 5",Dublin,295000.0,Yes,Raheny,Dublin 5,q2,40%
+18/05/2018,"102 Ennafort Park, Raheny, Dublin 5",Dublin,550000.0,No,Raheny,Dublin 5,q4,90%
+21/05/2018,"18 Watermill Ave, Raheny, Dublin 5",Dublin,479000.0,No,Raheny,Dublin 5,q4,90%
+21/05/2018,"25 Grange Park Grove, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+22/05/2018,"46 Roseglen Rd, Raheny, Dublin 5",Dublin,410000.0,No,Raheny,Dublin 5,q3,70%
+22/05/2018,"5 Maywood Grove, Raheny, Dublin 5",Dublin,835000.0,No,Raheny,Dublin 5,q4,100%
+25/05/2018,"25 Bettystown Ave, St Annes, Raheny",Dublin,604000.0,No,Raheny,Dublin 5,q4,100%
+25/05/2018,"3 Foxhill Way, Raheny, Dublin 13",Dublin,313000.0,No,Raheny,Dublin 5,q2,40%
+30/05/2018,"21 Ennafort Park, Raheny, Dublin 5",Dublin,575000.0,No,Raheny,Dublin 5,q4,100%
+01/06/2018,"28 Foxfield Rd, Raheny, Dublin 5",Dublin,550000.0,No,Raheny,Dublin 5,q4,90%
+01/06/2018,"35 Edenmore Green, Raheny, Dublin 5",Dublin,345000.0,No,Raheny,Dublin 5,q2,50%
+07/06/2018,"38 Foxfield Road, Raheny, Dublin 5",Dublin,560000.0,No,Raheny,Dublin 5,q4,100%
+12/06/2018,"18 Maywood Park, Raheny, Dublin 5",Dublin,531000.0,No,Raheny,Dublin 5,q4,90%
+13/06/2018,"5 Lough Derg Rd, Raheny Dublin 5, Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+18/06/2018,"63 Tonlegee Drive, Raheny, Dublin 5",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+20/06/2018,"44 Woodbine Park, Raheny, Dublin 5",Dublin,520000.0,No,Raheny,Dublin 5,q4,90%
+22/06/2018,"1 Sybil Hill Ave, St Annes Estate, Raheny Dublin 5",Dublin,410000.0,No,Raheny,Dublin 5,q3,70%
+27/06/2018,"65 Bettyglen, Raheny, Dublin 5",Dublin,631000.0,No,Raheny,Dublin 5,q4,100%
+29/06/2018,"18 St Annes Ave, Raheny, Dublin 5",Dublin,440000.0,No,Raheny,Dublin 5,q3,80%
+02/07/2018,"17 Edenmore Green, Raheny, Dublin 5",Dublin,267000.0,No,Raheny,Dublin 5,q1,30%
+03/07/2018,"43 Belmont Sq, Raheny, Dublin 5",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+10/07/2018,"110 Springdale Rd, Raheny, Dublin 5",Dublin,365000.0,No,Raheny,Dublin 5,q3,60%
+10/07/2018,"Apt 65 Block 3, The Watermill, Raheny Dublin 5",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+13/07/2018,"4 Wades Ave, Raheny, Dublin",Dublin,580000.0,No,Raheny,Dublin 5,q4,100%
+13/07/2018,"97 All Saints Rd, Raheny, Dublin 5",Dublin,518000.0,No,Raheny,Dublin 5,q4,90%
+17/07/2018,"12 Watermill Rd, Raheny, Dublin 5",Dublin,587500.0,No,Raheny,Dublin 5,q4,100%
+23/07/2018,"3 St Annes Terrace, Raheny, Dublin 5",Dublin,410000.0,No,Raheny,Dublin 5,q3,70%
+24/07/2018,"143 Edenmore Avenue, Raheny, Dublin 5",Dublin,265000.0,No,Raheny,Dublin 5,q1,30%
+27/07/2018,"16 Kilbarrack Ave, Raheny, Dublin 5",Dublin,600000.0,No,Raheny,Dublin 5,q4,100%
+31/07/2018,"362 Tonlegee Rd, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+01/08/2018,"94 Foxfield Rd, Raheny, Dublin 5",Dublin,595000.0,No,Raheny,Dublin 5,q4,100%
+02/08/2018,"15 Woodbine Park, Raheny, Dublin 5",Dublin,481000.0,No,Raheny,Dublin 5,q4,90%
+03/08/2018,"38 Tonlegee Dr, Raheny, Dublin",Dublin,436000.0,No,Raheny,Dublin 5,q3,80%
+03/08/2018,"4 Watermill Court, Watermill Rd, Raheny Dublin 5",Dublin,265000.0,No,Raheny,Dublin 5,q1,30%
+07/08/2018,"26 Edenmore Grove, Edenmore, Raheny Dublin 5",Dublin,310000.0,No,Raheny,Dublin 5,q2,40%
+10/08/2018,"43 Foxfield Rd, Raheny, Dublin 5",Dublin,574000.0,No,Raheny,Dublin 5,q4,100%
+14/08/2018,"3 Foxfield Grove, Raheny, Dublin 5",Dublin,531000.0,No,Raheny,Dublin 5,q4,90%
+15/08/2018,"23 The Belfry, Kilbarrack Rd, Raheny Dublin 5",Dublin,268500.0,No,Raheny,Dublin 5,q1,30%
+20/08/2018,"102 Springdale Rd, Raheny, Dublin 5",Dublin,297000.0,No,Raheny,Dublin 5,q2,40%
+22/08/2018,"36 Springdale Rd, Raheny, Dublin 5",Dublin,354800.0,No,Raheny,Dublin 5,q3,60%
+23/08/2018,"21 Maryville Rd, Raheny, Dublin 5",Dublin,416000.0,No,Raheny,Dublin 5,q3,70%
+24/08/2018,"133 Woodbine Park, Raheny, Dublin 5",Dublin,520000.0,No,Raheny,Dublin 5,q4,90%
+24/08/2018,"3 Watermill Pk, St Annes Raheny, Dublin 5",Dublin,410000.0,No,Raheny,Dublin 5,q3,70%
+31/08/2018,"171 Belmont Park, Raheny, Dublin 5",Dublin,410000.0,No,Raheny,Dublin 5,q3,70%
+31/08/2018,"5 Sybil Hill Ave, Raheny, Dublin 5",Dublin,495000.0,No,Raheny,Dublin 5,q4,90%
+07/09/2018,"76 Ashcroft, Raheny, Dublin 5",Dublin,318000.0,No,Raheny,Dublin 5,q2,50%
+17/09/2018,"77 The Village, Bettyglen, Raheny Dublin 5",Dublin,395000.0,No,Raheny,Dublin 5,q3,70%
+18/09/2018,"43 Watermill Park, St Annes Estate, Raheny Dublin 5",Dublin,470000.0,No,Raheny,Dublin 5,q4,80%
+19/09/2018,"47 All Saints Rd, Raheny, Dublin 5",Dublin,475000.0,No,Raheny,Dublin 5,q4,90%
+20/09/2018,"11 Edenmore Grove, Raheny, Dublin 5",Dublin,285000.0,No,Raheny,Dublin 5,q2,40%
+20/09/2018,"70 Foxfield Rd, Raheny, Dublin 5",Dublin,672000.0,No,Raheny,Dublin 5,q4,100%
+28/09/2018,"3 All Saints Close, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+05/10/2018,"169 Edenmore Crescent, Raheny, Dublin 5",Dublin,328000.0,No,Raheny,Dublin 5,q2,50%
+08/10/2018,"2A Limewood Park, Raheny",Dublin,512500.0,Yes,Raheny,Dublin 5,q4,90%
+08/10/2018,"53 Grangemore Crescent, Raheny, Dublin 13",Dublin,330000.0,No,Raheny,Dublin 5,q2,50%
+08/10/2018,"9A Foxfield Green, Raheny, Dublin 5",Dublin,460000.0,No,Raheny,Dublin 5,q4,80%
+11/10/2018,"119 St Assams Ave, Raheny, Dublin 5",Dublin,652500.0,No,Raheny,Dublin 5,q4,100%
+15/10/2018,"45 The Village, Bettyglen Village, Raheny Dublin 5",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+17/10/2018,"127 The Watermill, Bettyglen, Raheny Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+17/10/2018,"25A All Saints Rd, Raheny, Dublin 5",Dublin,715000.0,No,Raheny,Dublin 5,q4,100%
+19/10/2018,"35 Edenmore Park, Raheny, Dublin 5",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+25/10/2018,"42 Edenmore Park, Raheny, Dublin 5",Dublin,286000.0,No,Raheny,Dublin 5,q2,40%
+30/10/2018,"14 Grange Park Ave, Raheny, Dublin 5",Dublin,475000.0,No,Raheny,Dublin 5,q4,90%
+30/10/2018,"4 Belmont Sq, Raheny, Dublin 5",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+31/10/2018,"28 Rathmore Park, Raheny, Dublin 5",Dublin,535000.0,No,Raheny,Dublin 5,q4,90%
+02/11/2018,"54 Cill Eanna, Raheny, Dublin 5",Dublin,555000.0,No,Raheny,Dublin 5,q4,90%
+05/11/2018,"155 Edenmore Crescent, Raheny, Dublin 5",Dublin,338000.0,No,Raheny,Dublin 5,q2,50%
+08/11/2018,"2A Glenwood Rd, Raheny, Dublin 5",Dublin,220000.0,No,Raheny,Dublin 5,q1,20%
+12/11/2018,"Block 4, 8 Watermill Apts, Raheny Dublin 5",Dublin,225000.0,No,Raheny,Dublin 5,q1,20%
+15/11/2018,"24 The Grove, Bettyglen, Raheny",Dublin,550000.0,No,Raheny,Dublin 5,q4,90%
+16/11/2018,"157 Edenmore Crescent, Raheny, Dublin 5",Dublin,331000.0,No,Raheny,Dublin 5,q2,50%
+16/11/2018,"3 Laragh Grove, The Donaghies, Raheny Dublin 13",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+16/11/2018,"3 St Margarets Ave, Raheny, Dublin 5",Dublin,855000.0,No,Raheny,Dublin 5,q4,100%
+16/11/2018,"38 Lough Derg Road, Raheny, Dublin 5",Dublin,315000.0,No,Raheny,Dublin 5,q2,40%
+16/11/2018,"5 St Annes Dr, Raheny, Dublin 5",Dublin,440000.0,No,Raheny,Dublin 5,q3,80%
+16/11/2018,"86 Avondale Park, Raheny, Dublin 5",Dublin,430000.0,No,Raheny,Dublin 5,q3,80%
+21/11/2018,"35 Belmont Sq, Raheny, Dublin 5",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+23/11/2018,"2 Rathmore Park, Raheny, Dublin 5",Dublin,490000.0,No,Raheny,Dublin 5,q4,90%
+23/11/2018,"3 Limewood Court, Raheny, Dublin 5",Dublin,382000.0,No,Raheny,Dublin 5,q3,60%
+23/11/2018,"55A And 55B Roseglen Rd, Raheny, Dublin",Dublin,625000.0,No,Raheny,Dublin 5,q4,100%
+23/11/2018,"7 The Gables, Tonelegee Road, Raheny",Dublin,232000.0,No,Raheny,Dublin 5,q1,20%
+27/11/2018,"Apt 1 Block 4, Watermill, Raheny Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+28/11/2018,"29 St Annes Ave, Raheny, Dublin 5",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+28/11/2018,"34 Watermill Ave, St Annes Estate, Raheny Dublin 5",Dublin,435000.0,No,Raheny,Dublin 5,q3,80%
+28/11/2018,"Apt At 5 Edenmore Shopping Centre, Raheny, Dublin 5",Dublin,75000.0,No,Raheny,Dublin 5,q1,10%
+30/11/2018,"30 All Saints Rd, St Annes Estate, Raheny Dublin 5",Dublin,490000.0,No,Raheny,Dublin 5,q4,90%
+30/11/2018,"7 The Grove, Bettyglen, Raheny Dublin 5",Dublin,469000.0,No,Raheny,Dublin 5,q4,80%
+05/12/2018,"5 St Assams Dr, Raheny, Dublin 5",Dublin,640000.0,No,Raheny,Dublin 5,q4,100%
+10/12/2018,"25 The Watermill, Bettyglen, Raheny Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+12/12/2018,"30 Lough Derg Road, Raheny, Dublin 5",Dublin,325000.0,No,Raheny,Dublin 5,q2,50%
+13/12/2018,"249 Tonlegee Rd, Raheny, Dublin 5",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+14/12/2018,"60 Ennafort Rd, Raheny, Dublin 5",Dublin,480000.0,No,Raheny,Dublin 5,q4,90%
+17/12/2018,"6 Ennafort Ave, Raheny, Dublin",Dublin,625000.0,No,Raheny,Dublin 5,q4,100%
+18/12/2018,"13 Grangemore Grove, Raheny, Dublin 13",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+18/12/2018,"5 Watermill Lawn, Raheny, Dublin 5",Dublin,870000.0,No,Raheny,Dublin 5,q4,100%
+19/12/2018,"139 Raheny Rd, Raheny, Dublin 5",Dublin,395000.0,No,Raheny,Dublin 5,q3,70%
+19/12/2018,"60 Springdale Rd, Raheny, Dublin 5",Dublin,356000.0,No,Raheny,Dublin 5,q3,60%
+20/12/2018,"27 Tuscany Downs, Raheny, Dublin 5",Dublin,382500.0,No,Raheny,Dublin 5,q3,70%
+20/12/2018,"31 Lough Derg Rd, Raheny, Dublin 5",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+20/12/2018,"63 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,440500.0,Yes,Raheny,Dublin 5,q3,80%
+20/12/2018,"Apartment 8  Ardilaun Court, Sybil Hill Road, Raheny",Dublin,405286.0,Yes,Raheny,Dublin 5,q3,70%
+02/01/2019,"31 All Saints Park, Raheny, Dublin 5",Dublin,460000.0,No,Raheny,Dublin 5,q4,80%
+03/01/2019,"1 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,414097.0,Yes,Raheny,Dublin 5,q3,70%
+07/01/2019,"88 Foxfield Rd, Raheny, Dublin 5",Dublin,577500.0,No,Raheny,Dublin 5,q4,100%
+09/01/2019,"70 Ennafort Rd, Raheny, Dublin 5",Dublin,587000.0,No,Raheny,Dublin 5,q4,100%
+10/01/2019,"Apartment 18 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,431718.0,Yes,Raheny,Dublin 5,q3,80%
+11/01/2019,"10 St Annes Terrace, Raheny Dublin 5",Dublin,620000.0,No,Raheny,Dublin 5,q4,100%
+11/01/2019,"2 Ennafort Ave, Raheny, Dublin 5",Dublin,646000.0,No,Raheny,Dublin 5,q4,100%
+11/01/2019,"74 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,585903.0,Yes,Raheny,Dublin 5,q4,100%
+15/01/2019,"165 Edenmore Crescent, Raheny, Dublin 5",Dublin,325000.0,No,Raheny,Dublin 5,q2,50%
+16/01/2019,"16 Tuscany Downs, Raheny, Dublin 5",Dublin,375000.0,No,Raheny,Dublin 5,q3,60%
+16/01/2019,"57 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,356828.0,Yes,Raheny,Dublin 5,q3,60%
+18/01/2019,"8 Limewood Ave, Raheny, Dublin 5",Dublin,335000.0,No,Raheny,Dublin 5,q2,50%
+21/01/2019,"16 Maryville Rd, Raheny, Dublin 5",Dublin,475000.0,No,Raheny,Dublin 5,q4,90%
+22/01/2019,"15 Carndonagh Lawn, Raheny, Dublin 13",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+22/01/2019,"2 Limewood Ave, Off Tonlegee Rd, Raheny Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+22/01/2019,"Apartment 68  Ardilaun Court, Sybil Hill Road, Raheny",Dublin,480176.0,Yes,Raheny,Dublin 5,q4,90%
+24/01/2019,"13 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,440529.0,Yes,Raheny,Dublin 5,q3,80%
+24/01/2019,"7 Watermill Court, Watermill Rd, Raheny Dublin 5",Dublin,267000.0,No,Raheny,Dublin 5,q1,30%
+31/01/2019,"36 Foxfield St John, Raheny, Dublin 5",Dublin,495000.0,No,Raheny,Dublin 5,q4,90%
+01/02/2019,"73 Avondale Park, Raheny, Dublin 5",Dublin,510000.0,No,Raheny,Dublin 5,q4,90%
+04/02/2019,"194 Ashcroft, Raheny, Dublin 5",Dublin,365000.0,No,Raheny,Dublin 5,q3,60%
+06/02/2019,"17 Ardilaun Court, Sybill Hill Road, Raheny",Dublin,414097.0,Yes,Raheny,Dublin 5,q3,70%
+08/02/2019,"55 Edenmore Crescent, Raheny, Dublin 5",Dublin,302000.0,No,Raheny,Dublin 5,q2,40%
+08/02/2019,"Apartment 1, 17 Main St, Raheny",Dublin,550000.0,No,Raheny,Dublin 5,q4,90%
+11/02/2019,"26 Maywood Crescent, Raheny, Dublin 5",Dublin,585000.0,No,Raheny,Dublin 5,q4,100%
+11/02/2019,"Apartment 20 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,427113.13,Yes,Raheny,Dublin 5,q3,80%
+12/02/2019,"222A Millbrook Ave, Raheny, Dublin 13",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+12/02/2019,"67 Grange Park Rd, Raheny, Dublin 5",Dublin,8000.0,No,Raheny,Dublin 5,q1,10%
+14/02/2019,"16 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,405286.34,Yes,Raheny,Dublin 5,q3,70%
+14/02/2019,"2 Ennafort Grove, Raheny, Dublin 5",Dublin,721550.0,No,Raheny,Dublin 5,q4,100%
+18/02/2019,"157 Belmont Park, Raheny, Dublin 5",Dublin,421000.0,No,Raheny,Dublin 5,q3,80%
+20/02/2019,"14 Maywood Lawns, Raheny, Dublin 5",Dublin,650000.0,No,Raheny,Dublin 5,q4,100%
+20/02/2019,"26 Woodbine Close, Raheny, Dublin 5",Dublin,398000.0,No,Raheny,Dublin 5,q3,70%
+21/02/2019,"53 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,444933.92,Yes,Raheny,Dublin 5,q4,80%
+25/02/2019,"1-4 The Walk  Edenmore Ave, & 32 Edenmore Ave, Raheny",Dublin,713039.64,No,Raheny,Dublin 5,q4,100%
+27/02/2019,"2 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,396476.0,Yes,Raheny,Dublin 5,q3,70%
+01/03/2019,"1 The Mills, Edenmore Park, Raheny Dublin 5",Dublin,215000.0,No,Raheny,Dublin 5,q1,20%
+01/03/2019,"29 St Assams Rd West, Raheny, Dublin 5",Dublin,518000.0,No,Raheny,Dublin 5,q4,90%
+11/03/2019,"22 Kilbarrack Ave, Raheny, Dublin 5",Dublin,550000.0,No,Raheny,Dublin 5,q4,90%
+13/03/2019,"1 Roseglen Terrace, Raheny, Dublin 5",Dublin,270000.0,No,Raheny,Dublin 5,q2,30%
+14/03/2019,"120 Ennafort Rd, Raheny, Dublin 5",Dublin,445000.0,No,Raheny,Dublin 5,q4,80%
+15/03/2019,"35 St Assams Rd West, Raheny, Dublin 5",Dublin,595000.0,No,Raheny,Dublin 5,q4,100%
+15/03/2019,"74 St Assams Park, Raheny, Dublin 5",Dublin,525000.0,No,Raheny,Dublin 5,q4,90%
+20/03/2019,"65 Ardilaun Ct, Raheny",Dublin,444933.0,Yes,Raheny,Dublin 5,q4,80%
+20/03/2019,"75 Ardilaun Court, Sybill Hill Road, Raheny",Dublin,638766.51,Yes,Raheny,Dublin 5,q4,100%
+21/03/2019,"Apartment 66  Ardilaun Court, Sybil Hill Road, Raheny",Dublin,475771.0,Yes,Raheny,Dublin 5,q4,90%
+22/03/2019,"8 Edenmore Crescent, Raheny, Dublin 5",Dublin,345000.0,No,Raheny,Dublin 5,q2,50%
+27/03/2019,"57 Grange Park Rise, Raheny, Dublin 5",Dublin,370000.0,No,Raheny,Dublin 5,q3,60%
+29/03/2019,"25 The Mills, Edenmore Park, Raheny Dublin 5",Dublin,177500.0,No,Raheny,Dublin 5,q1,10%
+29/03/2019,"33A Ashcroft, Raheny, Dublin 5",Dublin,383000.0,No,Raheny,Dublin 5,q3,70%
+29/03/2019,"35 Ennafort Park, Raheny, Dublin 5",Dublin,565000.0,No,Raheny,Dublin 5,q4,100%
+29/03/2019,"69 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,638766.51,Yes,Raheny,Dublin 5,q4,100%
+29/03/2019,"Apt 2 Block 4, Watermill Bettyglen, Raheny",Dublin,341000.0,No,Raheny,Dublin 5,q2,50%
+03/04/2019,"141 Woodbine Park, Raheny, Dublin 5",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+05/04/2019,"68 Edenmore Crescent, Raheny, Dublin 5",Dublin,269000.0,No,Raheny,Dublin 5,q2,30%
+08/04/2019,"24A All Saints Road, Raheny, Dublin 5",Dublin,550000.0,No,Raheny,Dublin 5,q4,90%
+08/04/2019,"24A All Saints Road, Raheny, Dublin 5",Dublin,550000.0,No,Raheny,Dublin 5,q4,90%
+09/04/2019,"Apt 9 Raheny Wood, 73 Raheny Rd, Dublin 5",Dublin,320000.0,No,Raheny,Dublin 5,q2,50%
+12/04/2019,"236 Tonlegee Rd, Raheny, Dublin 5",Dublin,360000.0,No,Raheny,Dublin 5,q3,60%
+12/04/2019,"4 Watermill Park, Raheny, Dublin 5",Dublin,111680.0,No,Raheny,Dublin 5,q1,10%
+12/04/2019,"78 The Watermill, Watermill Rd, Raheny Dublin 5",Dublin,225000.0,No,Raheny,Dublin 5,q1,20%
+12/04/2019,"Apt. 61 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,330396.0,Yes,Raheny,Dublin 5,q2,50%
+15/04/2019,"28 The Meadows, Raheny, Dublin 5",Dublin,635000.0,No,Raheny,Dublin 5,q4,100%
+15/04/2019,"52 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,414097.0,Yes,Raheny,Dublin 5,q3,70%
+15/04/2019,"91 Foxfield Grove, Raheny, Dublin 5",Dublin,585000.0,No,Raheny,Dublin 5,q4,100%
+17/04/2019,"Apt 105 The Watermills, Watermill Road, Raheny",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+18/04/2019,"46 Grangemore Rd, The Donahies, Raheny Dublin 13",Dublin,313000.0,No,Raheny,Dublin 5,q2,40%
+25/04/2019,"45 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,462555.0,Yes,Raheny,Dublin 5,q4,80%
+25/04/2019,"9 St Assams Rd West, Raheny, Dublin 5",Dublin,626000.0,No,Raheny,Dublin 5,q4,100%
+29/04/2019,"42 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,422907.48,Yes,Raheny,Dublin 5,q3,80%
+02/05/2019,"67 Tonlegee Dr, Raheny, Dublin 5",Dublin,371500.0,No,Raheny,Dublin 5,q3,60%
+03/05/2019,"48 St Assams Rd West, Raheny, Dublin 5",Dublin,465000.0,No,Raheny,Dublin 5,q4,80%
+08/05/2019,"19 St Margarets Ave, Raheny, Dublin 5",Dublin,515000.0,No,Raheny,Dublin 5,q4,90%
+09/05/2019,"2 Edenmore Grove, Raheny Dublin 5, Dublin",Dublin,185482.0,No,Raheny,Dublin 5,q1,10%
+10/05/2019,"8 Woodbine Park, Raheny, Dublin 5",Dublin,420000.0,No,Raheny,Dublin 5,q3,80%
+10/05/2019,"The Bunglow, Greendale Ave, Raheny Dublin 5",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+15/05/2019,"312 Tonlegee Rd, Raheny, Dublin 5",Dublin,396000.0,No,Raheny,Dublin 5,q3,70%
+21/05/2019,"71 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,585903.08,Yes,Raheny,Dublin 5,q4,100%
+23/05/2019,"127 Belmont Park, Raheny, Dublin 5",Dublin,380000.0,No,Raheny,Dublin 5,q3,60%
+23/05/2019,"44 Ardilaun Court, Sybill Hill Road, Raheny",Dublin,480616.74,Yes,Raheny,Dublin 5,q4,90%
+29/05/2019,"4 The Belfry, Kilbarrack Road, Raheny",Dublin,315000.0,No,Raheny,Dublin 5,q2,40%
+29/05/2019,"41 Ardilaun Court, Raheny, Dublin 5",Dublin,440528.63,Yes,Raheny,Dublin 5,q3,80%
+31/05/2019,"25 Maywood Ave, Raheny, Dublin 5",Dublin,585000.0,No,Raheny,Dublin 5,q4,100%
+04/06/2019,"153 Raheny Rd, Raheny, Dublin 5",Dublin,394000.0,No,Raheny,Dublin 5,q3,70%
+07/06/2019,"21 Limewood Rd, Raheny, Dublin 5",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+07/06/2019,"72 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,585903.0,Yes,Raheny,Dublin 5,q4,100%
+07/06/2019,"81 Maryville Rd, Raheny, Dublin 5",Dublin,427169.54,No,Raheny,Dublin 5,q3,80%
+13/06/2019,"21 Foxfield Grove, Raheny, Dublin 5",Dublin,500000.0,No,Raheny,Dublin 5,q4,90%
+14/06/2019,"1 The Village, New Bettyglen, Watermill Road Raheny",Dublin,423000.0,No,Raheny,Dublin 5,q3,80%
+17/06/2019,"21 Cill Eanna, Raheny, Dublin 5",Dublin,545000.0,No,Raheny,Dublin 5,q4,90%
+20/06/2019,"10 Island View, Kilbarrack Rd, Raheny Dublin 5",Dublin,500000.0,No,Raheny,Dublin 5,q4,90%
+21/06/2019,"21 Bettystown Ave, Raheny, Dublin 5",Dublin,770000.0,No,Raheny,Dublin 5,q4,100%
+21/06/2019,"24B All Saints Rd, Raheny, Dublin 5",Dublin,547500.0,No,Raheny,Dublin 5,q4,90%
+03/07/2019,"55 Ardilaun, Sybill Hill Road, Raheny",Dublin,431123.0,Yes,Raheny,Dublin 5,q3,80%
+05/07/2019,"34 Watermill Park, Raheny, Dublin 5",Dublin,456000.0,No,Raheny,Dublin 5,q4,80%
+09/07/2019,"93 Maryville Rd, Raheny, Dublin 5",Dublin,460000.0,No,Raheny,Dublin 5,q4,80%
+10/07/2019,"44 Edenmore Dr, Raheny, Dublin 5",Dublin,273000.0,No,Raheny,Dublin 5,q2,30%
+11/07/2019,"37 Ashcroft, Raheny, Dublin 5",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+11/07/2019,"85 St Assams Ave, Raheny, Dublin 5",Dublin,470000.0,No,Raheny,Dublin 5,q4,80%
+12/07/2019,"308 Tonlegge Rd, Raheny, Dublin 5",Dublin,350000.0,No,Raheny,Dublin 5,q3,60%
+12/07/2019,"32 The Village, Bettyglen, Raheny Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+16/07/2019,"36 Tuscany Downs, Raheny, Dublin 5",Dublin,486250.0,No,Raheny,Dublin 5,q4,90%
+19/07/2019,"135 Edenmore Crescent, Raheny, Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+23/07/2019,"9 St Assams Ave, Raheny, Dublin 5",Dublin,597500.0,No,Raheny,Dublin 5,q4,100%
+24/07/2019,"59A Ardilaun Court, Sybil Hill Road, Raheny",Dublin,528634.0,Yes,Raheny,Dublin 5,q4,90%
+25/07/2019,"60 Grange Park Grove, Raheny, Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+29/07/2019,"4 St Assams Rd West, Raheny, Dublin 5",Dublin,485000.0,No,Raheny,Dublin 5,q4,90%
+30/07/2019,"4 Woodbine Rd, Raheny, Dublin 5",Dublin,450000.0,No,Raheny,Dublin 5,q4,80%
+01/08/2019,"3 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,387665.2,Yes,Raheny,Dublin 5,q3,70%
+01/08/2019,"6 Cill Eanna, Raheny, Dublin 5",Dublin,440000.0,No,Raheny,Dublin 5,q3,80%
+07/08/2019,"14 Maywood Avenue, Raheny, Dublin 5",Dublin,557000.0,No,Raheny,Dublin 5,q4,90%
+08/08/2019,"39  Ardilaun Court, Sybil Hill Road, Raheny",Dublin,405286.34,Yes,Raheny,Dublin 5,q3,70%
+08/08/2019,"Seabreeze, 82 Bettyglen, Raheny",Dublin,970000.0,No,Raheny,Dublin 5,q4,100%
+12/08/2019,"118 Foxfield Park, Raheny, Dublin 5",Dublin,505000.0,No,Raheny,Dublin 5,q4,90%
+12/08/2019,"42 Springdale Road, Raheny, Dublin 5",Dublin,340000.0,No,Raheny,Dublin 5,q2,50%
+13/08/2019,"103 Woodbine Rd, Raheny, Dublin 5",Dublin,295000.0,No,Raheny,Dublin 5,q2,40%
+13/08/2019,"5 Ardilaun, Raheny, Dublin 5",Dublin,396475.77,Yes,Raheny,Dublin 5,q3,70%
+13/08/2019,"50 Millwood Villas, Raheny, Dublin 5",Dublin,260000.0,No,Raheny,Dublin 5,q1,30%
+15/08/2019,"23Edenmore Ave, Raheny, Dublin 5",Dublin,295500.0,No,Raheny,Dublin 5,q2,40%
+20/08/2019,"20 Limewood Ave, Raheny, Dublin 5",Dublin,379000.0,No,Raheny,Dublin 5,q3,60%
+20/08/2019,"5 Edenmore Grove, Raheny, Dublin 5",Dublin,275000.0,No,Raheny,Dublin 5,q2,30%
+20/08/2019,"82 The Village, Bettyglen, Raheny Dublin 5",Dublin,613000.0,No,Raheny,Dublin 5,q4,100%
+21/08/2019,"26 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,409491.98,Yes,Raheny,Dublin 5,q3,70%
+23/08/2019,"36 The Watermill, Raheny, Dublin 5",Dublin,430000.0,No,Raheny,Dublin 5,q3,80%
+26/08/2019,"15 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,405286.0,Yes,Raheny,Dublin 5,q3,70%
+30/08/2019,"122 Foxfield Grove, Raheny, Dublin 5",Dublin,648000.0,No,Raheny,Dublin 5,q4,100%
+30/08/2019,"8 Woodbine Dr, Raheny, Dublin 5",Dublin,480000.0,No,Raheny,Dublin 5,q4,90%
+30/08/2019,"Apt 33 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,493192.42,Yes,Raheny,Dublin 5,q4,90%
+03/09/2019,"12 Belmont Sq, Raheny, Dublin 5",Dublin,415000.0,No,Raheny,Dublin 5,q3,70%
+04/09/2019,"63 All Saints Rd, Raheny, Dublin 5",Dublin,480000.0,No,Raheny,Dublin 5,q4,90%
+05/09/2019,"30 Ardilaun Ct, Raheny",Dublin,475771.0,Yes,Raheny,Dublin 5,q4,90%
+06/09/2019,"10 Waterfall Rd, St Annes Est, Raheny Dublin 5",Dublin,476000.0,No,Raheny,Dublin 5,q4,90%
+12/09/2019,"17 Grange Park Close, Raheny, Dublin 5",Dublin,400000.0,No,Raheny,Dublin 5,q3,70%
+17/09/2019,"6 Watermill Court, Watermill Rd, Raheny Dublin 5",Dublin,240000.0,Yes,Raheny,Dublin 5,q1,20%
+19/09/2019,"127 Raheny Rd, Raheny, Dublin 5",Dublin,390000.0,No,Raheny,Dublin 5,q3,70%
+19/09/2019,"24B The Glen, Bettyglen, Raheny",Dublin,235000.0,No,Raheny,Dublin 5,q1,20%
+20/09/2019,"27 Ardilaun Court, Sybill Hill Road, Raheny",Dublin,449339.2,Yes,Raheny,Dublin 5,q4,80%
+24/09/2019,"38 Grange Park Ave, Raheny, Dublin 5",Dublin,395000.0,No,Raheny,Dublin 5,q3,70%
+24/09/2019,"8 The Grove, Bettyglen, Raheny Dublin 5",Dublin,440000.0,No,Raheny,Dublin 5,q3,80%
+24/09/2019,"94 Ennafort Park, Raheny, Dublin 5",Dublin,650000.0,No,Raheny,Dublin 5,q4,100%
+26/09/2019,"47 Ardilaun Court, Sybil Hill Road, Raheny",Dublin,502202.6,Yes,Raheny,Dublin 5,q4,90%
+03/10/2019,"Apartment 20 Block 4, Watermill Apartments, Raheny",Dublin,352000.0,No,Raheny,Dublin 5,q3,60%
+08/10/2019,"99 Tonlegee Rd, Raheny, Dublin 5",Dublin,367000.0,No,Raheny,Dublin 5,q3,60%
+11/10/2019,"14 Rathmore Park, Raheny, Dublin 5",Dublin,480000.0,No,Raheny,Dublin 5,q4,90%
+22/10/2019,"34 St Annes Ave, Raheny, Dublin 5",Dublin,405000.0,No,Raheny,Dublin 5,q3,70%

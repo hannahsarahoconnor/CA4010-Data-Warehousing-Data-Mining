@@ -1,0 +1,308 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+08/01/2010,"24 Abbey Park, Killester Avenue",Dublin,275000.0,No,Killester,Dublin 3,q1,30%
+18/02/2010,"133 St Bridget'S Grove, Killester",Dublin,330000.0,No,Killester,Dublin 3,q2,40%
+19/02/2010,"52 Furry Park Road, Killester",Dublin,530000.0,No,Killester,Dublin 3,q4,100%
+25/03/2010,"15 The Bramblings, Killester",Dublin,325000.0,No,Killester,Dublin 3,q2,40%
+31/03/2010,"60 Furry Park Road, Killester, Dublin 5",Dublin,375000.0,No,Killester,Dublin 3,q3,60%
+24/06/2010,"13 Killester Park, Killester, Dublin",Dublin,280000.0,No,Killester,Dublin 3,q2,30%
+25/06/2010,"22 Kilbride Road, Killester, Dublin 5",Dublin,235000.0,No,Killester,Dublin 3,q1,20%
+14/07/2010,"21 St. Brigid'S Grove, Killester",Dublin,375000.0,No,Killester,Dublin 3,q3,60%
+28/07/2010,"30 The Bramblings, Killester, Dublin 5",Dublin,350000.0,No,Killester,Dublin 3,q2,50%
+03/08/2010,"63 Furry Park, Killester, Dublin 3",Dublin,340000.0,No,Killester,Dublin 3,q2,50%
+09/08/2010,"28 Middle Third, Killester",Dublin,350000.0,No,Killester,Dublin 3,q2,50%
+13/08/2010,"141 Killester Avenue, Killester",Dublin,205000.0,No,Killester,Dublin 3,q1,20%
+13/10/2010,"43 The Demesne, Killester",Dublin,522000.0,No,Killester,Dublin 3,q4,90%
+12/11/2010,"7 Killester Park, Killester, Dublin 5",Dublin,226000.0,No,Killester,Dublin 3,q1,20%
+14/12/2010,"72 Collins Avenue East, Killester",Dublin,320000.0,No,Killester,Dublin 3,q2,40%
+15/12/2010,"29 Middle Third, Killester",Dublin,415000.0,No,Killester,Dublin 3,q3,70%
+16/12/2010,"16 Craigford Avenue, Killester, Dublin 3",Dublin,220000.0,No,Killester,Dublin 3,q1,20%
+17/12/2010,"105 Abbeyfield, Killester",Dublin,327000.0,No,Killester,Dublin 3,q2,40%
+24/12/2010,"42 Furry Park Court, Killester, Dublin 5",Dublin,405000.0,No,Killester,Dublin 3,q3,70%
+24/02/2011,"4 Killester Avenue, Killester, Dublin 5",Dublin,300000.0,No,Killester,Dublin 3,q2,30%
+03/03/2011,"43 The Bramblings, Killester, Dublin 6",Dublin,297000.0,No,Killester,Dublin 3,q2,30%
+11/03/2011,"30 Abbey Court, Killester",Dublin,247000.0,No,Killester,Dublin 3,q1,20%
+01/04/2011,"43 The Bramblings, Killester, Dublin 5",Dublin,300000.0,No,Killester,Dublin 3,q2,40%
+04/05/2011,"8 Abbey Park, Killester, Dublin 3",Dublin,220000.0,No,Killester,Dublin 3,q1,20%
+13/05/2011,"41 Craigford Drive, Killester, Dublin 5",Dublin,232000.0,No,Killester,Dublin 3,q1,20%
+30/05/2011,"186 Collins Avenue, East, Killester",Dublin,230000.0,No,Killester,Dublin 3,q1,20%
+03/06/2011,"42  Middle Third, Killester",Dublin,431500.0,No,Killester,Dublin 3,q3,80%
+28/07/2011,"1 The Pines, Killester, Dublin 5",Dublin,211000.0,No,Killester,Dublin 3,q1,20%
+16/09/2011,"20 Kilbride Road, Killester",Dublin,187000.0,No,Killester,Dublin 3,q1,10%
+16/09/2011,"4 St. Brogid'S Drive, Killester, Dublin 5",Dublin,225000.0,No,Killester,Dublin 3,q1,20%
+13/10/2011,"2. St. Brigids Drive, Killester, Dublin 5",Dublin,235000.0,No,Killester,Dublin 3,q1,20%
+14/10/2011,"116 Furry Park Road, Killester, Dublin 5",Dublin,305000.0,No,Killester,Dublin 3,q2,40%
+24/10/2011,"49 Killester Park, Killester, Dublin 5",Dublin,202000.0,No,Killester,Dublin 3,q1,20%
+13/12/2011,"Apt 94, Venetian Hall, Killester",Dublin,110000.0,No,Killester,Dublin 3,q1,10%
+24/01/2012,"180 Killester Avenue, Killester",Dublin,154950.0,No,Killester,Dublin 3,q1,10%
+27/01/2012,"77 Abbeyfield, Killester, Dublin 5",Dublin,345000.0,No,Killester,Dublin 3,q2,50%
+31/01/2012,"96 Collins Avenue East, Killester",Dublin,127000.0,No,Killester,Dublin 3,q1,10%
+07/02/2012,"2 Abbeyfield Lawns, Killester, Dublin 5",Dublin,232500.0,No,Killester,Dublin 3,q1,20%
+22/02/2012,"27 Craigford Avenue, Killester",Dublin,160000.0,No,Killester,Dublin 3,q1,10%
+28/02/2012,"23 Middle Third, Killester",Dublin,258000.0,No,Killester,Dublin 3,q1,30%
+14/03/2012,"75 Collins Avenue East, Killester",Dublin,155000.0,No,Killester,Dublin 3,q1,10%
+22/03/2012,"110 Collins Avenue East, Killester",Dublin,134000.0,No,Killester,Dublin 3,q1,10%
+23/03/2012,"53 Furry Park Road, Killester",Dublin,295000.0,No,Killester,Dublin 3,q2,30%
+30/03/2012,"175 Killester Avenue, Killester",Dublin,160000.0,No,Killester,Dublin 3,q1,10%
+25/04/2012,"Apartment 54, Venetian Hall, Killester",Dublin,160000.0,No,Killester,Dublin 3,q1,10%
+01/05/2012,"124 Abbeyfield, Killester",Dublin,371000.0,No,Killester,Dublin 3,q3,60%
+10/05/2012,"79 Collins Avenue East, Killester",Dublin,193000.0,No,Killester,Dublin 3,q1,10%
+16/05/2012,"9 Abbey Court, Killester",Dublin,185000.0,No,Killester,Dublin 3,q1,10%
+18/05/2012,"46 Venetian Hall, Killester",Dublin,170000.0,No,Killester,Dublin 3,q1,10%
+30/05/2012,"111 Venetian Hall, Killester, Dublin 5",Dublin,135000.0,No,Killester,Dublin 3,q1,10%
+20/06/2012,"32 Furry Park Road, Killester, Dublin",Dublin,325000.0,No,Killester,Dublin 3,q2,40%
+16/07/2012,"169 Killester Avenue, Killester",Dublin,80000.0,No,Killester,Dublin 3,q1,10%
+18/07/2012,"6 Abbey Court, Killester, Dublin 3",Dublin,165000.0,No,Killester,Dublin 3,q1,10%
+20/07/2012,"43 Killester Park, Killester",Dublin,213000.0,No,Killester,Dublin 3,q1,20%
+03/09/2012,"102 Abbeyfield, Killester, Dublin 5",Dublin,395000.0,No,Killester,Dublin 3,q3,60%
+14/09/2012,"'Garnish', 5 Killester Avenue, Killester",Dublin,152000.0,No,Killester,Dublin 3,q1,10%
+18/09/2012,"3 Killester Park, Killester",Dublin,140000.0,No,Killester,Dublin 3,q1,10%
+27/09/2012,"55 Abbeyfield, Killester",Dublin,255000.0,No,Killester,Dublin 3,q1,30%
+04/10/2012,"21 The Bramblings, Killester",Dublin,252000.0,No,Killester,Dublin 3,q1,30%
+10/10/2012,"25 Abbeyfield, Killester, Dublin 3",Dublin,389000.0,No,Killester,Dublin 3,q3,60%
+24/10/2012,"60 The Pines, Killester, Dublin 3",Dublin,240000.0,No,Killester,Dublin 3,q1,20%
+25/10/2012,"32 Killester Park, Killester, Dublin 5",Dublin,307000.0,No,Killester,Dublin 3,q2,40%
+31/10/2012,"85 Furry Park Road, Killester, Dublin 5",Dublin,386000.0,No,Killester,Dublin 3,q3,60%
+09/11/2012,"42 Killester Park, Killester, Dublin 5",Dublin,145000.0,No,Killester,Dublin 3,q1,10%
+14/11/2012,"22 Craigford Drive, Killester",Dublin,227000.0,No,Killester,Dublin 3,q1,20%
+13/12/2012,"44 St Brigid'S Road, Killester, Dublin 5",Dublin,250000.0,No,Killester,Dublin 3,q1,20%
+14/12/2012,"52 The Demense, Killester, Dublin 5",Dublin,290000.0,No,Killester,Dublin 3,q2,30%
+14/12/2012,"73 Killester Park, Killester",Dublin,270000.0,No,Killester,Dublin 3,q1,30%
+17/12/2012,"86 Abbeyfield, Killester",Dublin,440000.0,No,Killester,Dublin 3,q3,80%
+19/12/2012,"19 Kilbride Road, Killester, Dublin 5",Dublin,315000.0,No,Killester,Dublin 3,q2,40%
+28/12/2012,"2 St. Esra Close, Killester Avenue, Killester",Dublin,251101.33,Yes,Killester,Dublin 3,q1,20%
+18/01/2013,"39 St Brigid'S Grove, Killester, Dublin 5",Dublin,370000.0,No,Killester,Dublin 3,q2,50%
+18/01/2013,"49 St. Brigid'S Grove, Killester, Dublin 5",Dublin,330000.0,No,Killester,Dublin 3,q2,40%
+21/01/2013,"38 Craigford Drive, Killester",Dublin,240000.0,No,Killester,Dublin 3,q1,20%
+01/02/2013,"21 Furry Park Court, Killester, Dublin 3",Dublin,150000.0,No,Killester,Dublin 3,q1,10%
+12/02/2013,"4 St Esra Close, Killester Avenue, Killester",Dublin,325000.0,Yes,Killester,Dublin 3,q2,40%
+18/02/2013,"9  The  Pines, Killester, Dublin",Dublin,277500.0,No,Killester,Dublin 3,q2,30%
+26/02/2013,"5 St Esra Close, Killester Avenue, Dublin 5",Dublin,286343.0,Yes,Killester,Dublin 3,q2,30%
+06/03/2013,"63 Killester Park, Killester",Dublin,113334.0,No,Killester,Dublin 3,q1,10%
+26/03/2013,"94 Killester Park, Killester",Dublin,251000.0,No,Killester,Dublin 3,q1,20%
+03/04/2013,"129 St Brigid'S Grove, Killester",Dublin,220000.0,No,Killester,Dublin 3,q1,20%
+05/04/2013,"128 Killester Park, Killester",Dublin,275000.0,No,Killester,Dublin 3,q1,30%
+12/04/2013,"3 St Esra Close, Killester Avenue, Killester",Dublin,315000.0,Yes,Killester,Dublin 3,q2,40%
+12/04/2013,"30 The Orchard, Killester",Dublin,143500.0,No,Killester,Dublin 3,q1,10%
+17/04/2013,"78 Killester Park, Dublin 5",Dublin,245000.0,No,Killester,Dublin 3,q1,20%
+19/04/2013,"11 The Bramblings, Killester",Dublin,282000.0,No,Killester,Dublin 3,q2,30%
+16/05/2013,"5 Quarry Cottages, Killester",Dublin,298000.0,No,Killester,Dublin 3,q2,30%
+31/05/2013,"3 St. Brigids Grove, Killester, Dublin 3",Dublin,365000.0,No,Killester,Dublin 3,q2,50%
+11/06/2013,"Apartment 107 Venetian Hall, Killester",Dublin,120000.0,No,Killester,Dublin 3,q1,10%
+12/06/2013,"3 Middle Third Terrace, Killester, Dublin 5",Dublin,370000.0,No,Killester,Dublin 3,q2,50%
+14/06/2013,"7 St. Esra Close, Killester Avenue, Dublin 5",Dublin,325000.0,Yes,Killester,Dublin 3,q2,40%
+20/06/2013,"10 St. Esra Close, Killester Avenue, Killester",Dublin,308370.0,Yes,Killester,Dublin 3,q2,40%
+25/06/2013,"24 Abbeyfield, Killester",Dublin,347000.0,No,Killester,Dublin 3,q2,50%
+12/07/2013,"3 The Orchard, Killester",Dublin,197500.0,No,Killester,Dublin 3,q1,20%
+26/07/2013,"1 St Esra Close, Killester Avenue, Dublin 5",Dublin,259912.0,Yes,Killester,Dublin 3,q1,30%
+20/08/2013,"6  St. Esra Close, Killester Avenue, Killester",Dublin,274889.87,Yes,Killester,Dublin 3,q1,30%
+30/08/2013,"26 The Bramblings, Killester, Dublin 5",Dublin,280000.0,No,Killester,Dublin 3,q2,30%
+03/09/2013,"59 Killester Park, Killester",Dublin,270000.0,No,Killester,Dublin 3,q1,30%
+03/09/2013,"8 Furry Park Road, Killester, Dublin 5",Dublin,372500.0,No,Killester,Dublin 3,q3,60%
+23/09/2013,"74 Furry Park, Killester, Dublin 5",Dublin,370000.0,No,Killester,Dublin 3,q2,50%
+03/10/2013,"47 Abbeyfield, Killester, Dublin 5",Dublin,550000.0,No,Killester,Dublin 3,q4,100%
+04/10/2013,"9 St Esra Close, Killester, Dublin 5",Dublin,207049.0,Yes,Killester,Dublin 3,q1,20%
+25/10/2013,"24 Middle Third Street, Killester, Dublin",Dublin,326000.0,No,Killester,Dublin 3,q2,40%
+18/12/2013,"145 Killester Park, Killester, Dublin 5",Dublin,278000.0,No,Killester,Dublin 3,q2,30%
+26/03/2014,"67 Collins Ave East, Killester, Dublin 5",Dublin,100000.0,No,Killester,Dublin 3,q1,10%
+27/03/2014,"108 Collins Ave East, Killester, Dublin 5",Dublin,195000.0,No,Killester,Dublin 3,q1,10%
+08/04/2014,"8 St Esra Close, Killester Avenue, Killester",Dublin,215859.0,Yes,Killester,Dublin 3,q1,20%
+12/05/2014,"82 Furry Park Road, Killester",Dublin,180000.0,No,Killester,Dublin 3,q1,10%
+27/05/2014,"5 The Orchard, Killester, Dublin 5",Dublin,215000.0,No,Killester,Dublin 3,q1,20%
+29/05/2014,"18 Middlethird, Killester, Dublin 5",Dublin,437000.0,No,Killester,Dublin 3,q3,80%
+03/06/2014,"11 St Brigids Close, Killester, Dublin 5",Dublin,375000.0,No,Killester,Dublin 3,q3,60%
+06/06/2014,"Apt 108 Venetian Hall, Killester, Dublin 5",Dublin,177000.0,No,Killester,Dublin 3,q1,10%
+23/06/2014,"2 Furry Park Court, Killester, Dublin 5",Dublin,256000.0,No,Killester,Dublin 3,q1,30%
+08/07/2014,"77 Venetian Hall, Killester, Dublin 5",Dublin,155000.0,No,Killester,Dublin 3,q1,10%
+21/07/2014,"5 Furry Park Rd, Killester, Dublin 5",Dublin,450000.0,No,Killester,Dublin 3,q4,80%
+25/08/2014,"74 Collins Ave East, Killester, Dublin 5",Dublin,345000.0,No,Killester,Dublin 3,q2,50%
+05/09/2014,"119A Abbeyfield, Killester, Dublin 5",Dublin,452500.0,No,Killester,Dublin 3,q4,80%
+05/09/2014,"85 Collins Avenue East, Killester, Dublin 5",Dublin,390000.0,No,Killester,Dublin 3,q3,60%
+13/09/2014,"69 Abbeyfield, Killester, Dublin 5",Dublin,505000.0,No,Killester,Dublin 3,q4,90%
+25/09/2014,"10 St Brigids Close, Killester, Dublin 5",Dublin,368000.0,No,Killester,Dublin 3,q2,50%
+03/10/2014,"92 Abbeyfield, Killester, Dublin 5",Dublin,310000.0,No,Killester,Dublin 3,q2,40%
+31/10/2014,"29 Craigford Dr, Killester, Dublin 5",Dublin,395000.0,No,Killester,Dublin 3,q3,60%
+11/12/2014,"46 Killester Park, Killester, Dublin 5",Dublin,368850.0,No,Killester,Dublin 3,q2,50%
+12/12/2014,"24 Killester Avenue, Killester, Dublin 5",Dublin,471000.0,No,Killester,Dublin 3,q4,90%
+22/12/2014,"57 Killester Park, Killester, Dublin 5",Dublin,431000.0,No,Killester,Dublin 3,q3,80%
+23/01/2015,"36 Middle Third, Killester",Dublin,515000.0,No,Killester,Dublin 3,q4,90%
+02/02/2015,"37 Killester Park, Killester, Dublin 5",Dublin,350000.0,No,Killester,Dublin 3,q2,50%
+27/02/2015,"1 School Ave, Killester, Dublin 5",Dublin,320000.0,No,Killester,Dublin 3,q2,40%
+09/03/2015,"139 Killester Park, Killester, Dublin 5",Dublin,345000.0,No,Killester,Dublin 3,q2,50%
+16/04/2015,"149 Killester Park, Killester Dublin 5, Dublin",Dublin,281000.0,No,Killester,Dublin 3,q2,30%
+16/04/2015,"7 St. Brigids Close, Killester, Dublin 5",Dublin,380000.0,No,Killester,Dublin 3,q3,60%
+15/05/2015,"11 Abbey Court, Killester, Dublin 5",Dublin,272000.0,No,Killester,Dublin 3,q1,30%
+29/05/2015,"29 Craagford Ave, Killester, Dublin 5",Dublin,290000.0,No,Killester,Dublin 3,q2,30%
+02/06/2015,"11 St Brigids Lawn, Killester, Dublin 5",Dublin,460000.0,No,Killester,Dublin 3,q4,80%
+12/06/2015,"30 The Bramblings, Killester, Dublin 5",Dublin,380000.0,No,Killester,Dublin 3,q3,60%
+15/06/2015,"18 Kilbride Rd, Killester, Dublin 5",Dublin,315000.0,No,Killester,Dublin 3,q2,40%
+30/06/2015,"21 Abbeyfield, Killester, Dublin 5",Dublin,408000.0,No,Killester,Dublin 3,q3,70%
+03/07/2015,"30 The Pines, Killester, Dublin 3",Dublin,330500.0,No,Killester,Dublin 3,q2,40%
+13/07/2015,"232 Collins Ave East, Killester, Dublin 5",Dublin,333000.0,No,Killester,Dublin 3,q2,40%
+14/07/2015,"12 Abbey Court, Killester, Dublin 5",Dublin,275000.0,No,Killester,Dublin 3,q1,30%
+17/07/2015,"40 Middle Third, Killester, Dublin 5",Dublin,502000.0,No,Killester,Dublin 3,q4,90%
+29/07/2015,"41A Middle Third, Killester, Middle Third Dublin 5",Dublin,603000.0,No,Killester,Dublin 3,q4,100%
+29/07/2015,"55 Demense, Killester, Dublin 5",Dublin,405000.0,No,Killester,Dublin 3,q3,70%
+31/07/2015,"151 Killester Avenue, Killester",Dublin,150000.0,No,Killester,Dublin 3,q1,10%
+04/08/2015,"15 St. Brigid'S Lawn, Killester",Dublin,410000.0,No,Killester,Dublin 3,q3,70%
+07/08/2015,"21 The Bramblings, Killester, Dublin 5",Dublin,455000.0,No,Killester,Dublin 3,q4,80%
+07/08/2015,"74 Abbeyfield, Killester, Dublin 5",Dublin,475000.0,No,Killester,Dublin 3,q4,90%
+21/08/2015,"Apt 73 Block 4, Venetian Hall, Killester Dublin 5",Dublin,230000.0,No,Killester,Dublin 3,q1,20%
+25/08/2015,"7 St Brigids Lawn, Killester, Dublin 5",Dublin,445000.0,No,Killester,Dublin 3,q3,80%
+28/08/2015,"9 Killester Park, Killester, Dublin 5",Dublin,430000.0,No,Killester,Dublin 3,q3,70%
+31/08/2015,"32 Furry Park Rd, Killester, Dublin 5",Dublin,493000.0,No,Killester,Dublin 3,q4,90%
+03/09/2015,"2 St. Brigid'S Close, Killester, Dublin 5",Dublin,395000.0,No,Killester,Dublin 3,q3,60%
+08/09/2015,"42, The Bramblings, Killester",Dublin,412000.0,No,Killester,Dublin 3,q3,70%
+16/09/2015,"212 Collins Avenue East, Killester, Dublin 5",Dublin,320000.0,No,Killester,Dublin 3,q2,40%
+02/10/2015,"9 The Orchard, Killester, Dublin 5",Dublin,140000.0,No,Killester,Dublin 3,q1,10%
+13/10/2015,"29 The Orchard, Killester, Dublin 5",Dublin,262000.0,No,Killester,Dublin 3,q1,30%
+14/10/2015,"23 St Brigids Rd, Killester, Dublin 5",Dublin,445000.0,No,Killester,Dublin 3,q3,80%
+04/12/2015,"54 Killester Park, Killester, Dublin 5",Dublin,355000.0,No,Killester,Dublin 3,q2,50%
+17/12/2015,"90 Killester Avenue, Killester, Dublin 5",Dublin,350000.0,No,Killester,Dublin 3,q2,50%
+08/01/2016,"139 St Brigids Grove, Killester, Dublin 5",Dublin,340000.0,No,Killester,Dublin 3,q2,50%
+11/01/2016,"124 Furry Park Rd, Killester, Dublin 5",Dublin,425000.0,No,Killester,Dublin 3,q3,70%
+26/01/2016,"112 Collins Avenue East, Killester",Dublin,392000.0,No,Killester,Dublin 3,q3,60%
+29/01/2016,"129 Killester Park, Killester",Dublin,500000.0,No,Killester,Dublin 3,q4,90%
+19/02/2016,"54 Abbeyfield, Killester, Dublin 5",Dublin,460000.0,No,Killester,Dublin 3,q4,80%
+03/03/2016,"80 Killester Ave, Killester, Dublin 5",Dublin,500000.0,No,Killester,Dublin 3,q4,90%
+07/03/2016,"31 The Bramblings, Killester, Dublin 5",Dublin,342000.0,No,Killester,Dublin 3,q2,50%
+22/03/2016,"13 St Brigids Rd, Killester, Dublin 5",Dublin,377000.0,No,Killester,Dublin 3,q3,60%
+25/03/2016,"49 Abbeyfield, Killester, Dublin 5",Dublin,435000.0,No,Killester,Dublin 3,q3,80%
+01/04/2016,"31 The Orchard, Killester, Dublin 5",Dublin,370000.0,No,Killester,Dublin 3,q2,50%
+27/04/2016,"102 Collins Ave East, Killester, Dublin 5",Dublin,315000.0,No,Killester,Dublin 3,q2,40%
+28/04/2016,"2 Furry Park Rd, Killester, Dublin 5",Dublin,591000.0,No,Killester,Dublin 3,q4,100%
+28/04/2016,"5 Abbeyfield, Killester, Dublin 5",Dublin,680000.0,No,Killester,Dublin 3,q4,100%
+16/05/2016,"24 Abbeyfield, Killester, Dublin 5",Dublin,480000.0,No,Killester,Dublin 3,q4,90%
+01/06/2016,"4 St Brigids Close, Killester, Dublin 5",Dublin,376000.0,No,Killester,Dublin 3,q3,60%
+03/06/2016,"32 Middle Third, Killester, Dublin 5",Dublin,450000.0,No,Killester,Dublin 3,q4,80%
+13/06/2016,"62 Middlethird, Killester, Dublin 5",Dublin,500000.0,No,Killester,Dublin 3,q4,90%
+14/06/2016,"Site 2, Middle Third, Killester",Dublin,486000.0,No,Killester,Dublin 3,q4,90%
+24/06/2016,"49 Abbeyfield, Killester, Dublin 5",Dublin,434000.0,No,Killester,Dublin 3,q3,80%
+30/06/2016,"73 Furry Park Road, Killester, Dublin 3",Dublin,456000.0,No,Killester,Dublin 3,q4,80%
+19/07/2016,"117 Furry Park Road, Killester, Dublin 5",Dublin,476000.0,No,Killester,Dublin 3,q4,90%
+16/08/2016,"53 Demesne, Killester, Dublin 5",Dublin,432000.0,No,Killester,Dublin 3,q3,80%
+31/08/2016,"115 Collins Ave East, Killester, Dublin 5",Dublin,375000.0,No,Killester,Dublin 3,q3,60%
+16/09/2016,"9 St Brigids Lawn, Killester, Dublin 5",Dublin,415000.0,No,Killester,Dublin 3,q3,70%
+22/09/2016,"98 Collins Avenue East, Killester, Dublin 5",Dublin,300000.0,No,Killester,Dublin 3,q2,40%
+03/10/2016,"97 Furry Park Rd, Killester, Dublin 5",Dublin,583000.0,No,Killester,Dublin 3,q4,100%
+07/10/2016,"87 St Brigids Grove, Killester, Dublin 5",Dublin,472000.0,No,Killester,Dublin 3,q4,90%
+21/10/2016,"126 Killester Park, Killester, Dublin 5",Dublin,410000.0,No,Killester,Dublin 3,q3,70%
+04/11/2016,"208 Killester Ave, Killester, Dublin 5",Dublin,292000.0,No,Killester,Dublin 3,q2,30%
+15/11/2016,"24 Brookwood Rise, Killester, Dublin 5",Dublin,418000.0,No,Killester,Dublin 3,q3,70%
+17/11/2016,"109 Furry Park Rd, Killester, Dublin 5",Dublin,500000.0,No,Killester,Dublin 3,q4,90%
+21/11/2016,"2 St Brigids Close, Killester, Dublin 5",Dublin,400000.0,No,Killester,Dublin 3,q3,70%
+25/11/2016,"73 Killester Park, Killester, Dublin 5",Dublin,400000.0,No,Killester,Dublin 3,q3,70%
+28/11/2016,"18 Clanawley Rd, Killester, Dublin 5",Dublin,250000.0,No,Killester,Dublin 3,q1,20%
+28/11/2016,"20 St Brigids Crescent, Killester, Dublin 5",Dublin,395000.0,No,Killester,Dublin 3,q3,60%
+07/12/2016,"117 St Brigids Grove, Killester, Dublin 5",Dublin,405000.0,No,Killester,Dublin 3,q3,70%
+09/12/2016,"31 Furry Park Court, Killester, Dublin 5",Dublin,267000.0,No,Killester,Dublin 3,q1,30%
+14/12/2016,"102 Furry Park Rd, Killester, Dublin 5",Dublin,640000.0,No,Killester,Dublin 3,q4,100%
+19/12/2016,"43A Abbeyfield, Killester, Dublin 5",Dublin,395000.0,No,Killester,Dublin 3,q3,60%
+22/12/2016,"5 St Brigids Close, Killester, Dublin 5",Dublin,410000.0,No,Killester,Dublin 3,q3,70%
+06/01/2017,"34 Clanawley Rd, Killester, Dublin 5",Dublin,315000.0,No,Killester,Dublin 3,q2,40%
+02/02/2017,"22 The Orchard, Killester Dublin 5, Dublin",Dublin,421000.0,No,Killester,Dublin 3,q3,70%
+02/02/2017,"74 Killester Ave, Killester, Dublin 3",Dublin,300000.0,No,Killester,Dublin 3,q2,40%
+08/02/2017,"59 Abbeyfield, Killester, Dublin 5",Dublin,485000.0,No,Killester,Dublin 3,q4,90%
+17/02/2017,"17 The Bramblings, Killester, Dublin 5",Dublin,416000.0,No,Killester,Dublin 3,q3,70%
+20/02/2017,"2 The Pines, Killester, Dublin 5",Dublin,147500.0,No,Killester,Dublin 3,q1,10%
+21/02/2017,"3 Abbeyfield Lawns, Killester, Dublin 5",Dublin,415000.0,No,Killester,Dublin 3,q3,70%
+28/02/2017,"59 Furry Park Rd, Killester, Dublin 5",Dublin,568000.0,No,Killester,Dublin 3,q4,100%
+01/03/2017,"9 The Bramblings, Killester, Dublin 5",Dublin,445000.0,No,Killester,Dublin 3,q3,80%
+14/03/2017,"128 Abbeyfield, Killester, Dublin 5",Dublin,388000.0,No,Killester,Dublin 3,q3,60%
+15/03/2017,"24 Abbeyfield, Killester, Dublin 5",Dublin,480000.0,No,Killester,Dublin 3,q4,90%
+16/03/2017,"12 Furry Park Court, Killester, Dublin 5",Dublin,430000.0,No,Killester,Dublin 3,q3,70%
+28/03/2017,"28 The Bramblings, Killester, Dublin 5",Dublin,415000.0,No,Killester,Dublin 3,q3,70%
+30/03/2017,"27 Abbeyfield, Killester, Dublin 15",Dublin,410000.0,No,Killester,Dublin 3,q3,70%
+03/04/2017,"143 Killester Park, Killester, Dublin 5",Dublin,390000.0,No,Killester,Dublin 3,q3,60%
+05/04/2017,"38 Furry Park Rd, Killester, Dublin 5",Dublin,525000.0,No,Killester,Dublin 3,q4,100%
+27/04/2017,"50 Demesne, Killester, Dublin 5",Dublin,471000.0,No,Killester,Dublin 3,q4,90%
+24/05/2017,"26 The Orchard, Killester, Dublin 5",Dublin,173333.0,No,Killester,Dublin 3,q1,10%
+26/05/2017,"15A Middle Third, Killester",Dublin,396475.0,Yes,Killester,Dublin 3,q3,70%
+30/05/2017,"1A School Ave, Killester, Dublin 5",Dublin,460000.0,No,Killester,Dublin 3,q4,80%
+15/06/2017,"28 Killester Park, Killester, Dublin 5",Dublin,375000.0,No,Killester,Dublin 3,q3,60%
+16/06/2017,"26 Demesne, Killester, Dublin 5",Dublin,430000.0,No,Killester,Dublin 3,q3,70%
+26/06/2017,"17 Kilbride Rd, Killester, Dublin 5",Dublin,635000.0,No,Killester,Dublin 3,q4,100%
+26/06/2017,"61 The Pines, Venetian Hall, Killester Dublin 5",Dublin,310000.0,No,Killester,Dublin 3,q2,40%
+28/06/2017,"88 Killester Park, Killester, Dublin 5",Dublin,490000.0,No,Killester,Dublin 3,q4,90%
+14/07/2017,"213 Killester Ave, Killester Dublin 5, Dublin",Dublin,377000.0,No,Killester,Dublin 3,q3,60%
+19/07/2017,"47 Demesne, Killester, Dublin 5",Dublin,555000.0,No,Killester,Dublin 3,q4,100%
+25/07/2017,"56 Clanawley Rd, Killester, Dublin 5",Dublin,315000.0,No,Killester,Dublin 3,q2,40%
+31/07/2017,"75 St Brigids Grove, Killester, Dublin 5",Dublin,460000.0,No,Killester,Dublin 3,q4,80%
+01/08/2017,"72 Collins Ave East, Killester, Dublin 5",Dublin,435000.0,No,Killester,Dublin 3,q3,80%
+11/08/2017,"1 Killester Park, Killester, Dublin 5",Dublin,240000.0,No,Killester,Dublin 3,q1,20%
+15/09/2017,"129 Killester Park, Killester, Dublin 5",Dublin,530000.0,No,Killester,Dublin 3,q4,100%
+22/09/2017,"4 Abbey Park, Killester, Dublin 5",Dublin,421000.0,No,Killester,Dublin 3,q3,70%
+12/10/2017,"139 Collins Avenue  East, Killester, Dublin 5",Dublin,300000.0,No,Killester,Dublin 3,q2,40%
+12/10/2017,"147 Collins Ave East, Killester, Dublin 5",Dublin,219000.0,No,Killester,Dublin 3,q1,20%
+24/10/2017,"38 The Bramblings, Killester, Dublin 5",Dublin,470000.0,No,Killester,Dublin 3,q4,90%
+25/10/2017,"40 Collins Ave East, Killester, Dublin 5",Dublin,400000.0,No,Killester,Dublin 3,q3,70%
+31/10/2017,"20 The Bramblings, Killester, Dublin 5",Dublin,370000.0,No,Killester,Dublin 3,q3,60%
+01/11/2017,"30 The Bramblings, Killester, Dublin 5",Dublin,405000.0,No,Killester,Dublin 3,q3,70%
+10/11/2017,"5 Middle Third Terrace, Killester, Dublin 5",Dublin,480000.0,No,Killester,Dublin 3,q4,90%
+15/11/2017,"9 Venetian Hall, Killester, Dublin 5",Dublin,310000.0,No,Killester,Dublin 3,q2,40%
+23/11/2017,"54 Middle Third, Killester, Dublin 5",Dublin,415000.0,No,Killester,Dublin 3,q3,70%
+08/12/2017,"No. 9, Craigford Drive, Killester",Dublin,365000.0,No,Killester,Dublin 3,q2,50%
+12/12/2017,"16 Clanawley Rd, Killester, Dublin 5",Dublin,370000.0,No,Killester,Dublin 3,q3,60%
+04/01/2018,"32 Abbey Park, Killester, Dublin 5",Dublin,400000.0,No,Killester,Dublin 3,q3,70%
+12/01/2018,"147 Collins Ave East, Killester, Dublin 5",Dublin,290000.0,No,Killester,Dublin 3,q2,30%
+18/01/2018,"8 Clanboy Rd, Killester, Dublin",Dublin,341000.0,No,Killester,Dublin 3,q2,50%
+30/01/2018,"90 Abbeyfield, Killester, Dublin 5",Dublin,540000.0,No,Killester,Dublin 3,q4,100%
+02/02/2018,"107 St Brigids Grove, Killester, Dublin 5",Dublin,351500.0,No,Killester,Dublin 3,q2,50%
+22/02/2018,"Holy Faith Convent, St Brigid'S Road, Killester",Dublin,1754155.0,No,Killester,Dublin 3,q4,100%
+29/03/2018,"10 Brookwood Park, Killester, Dublin 5",Dublin,545000.0,No,Killester,Dublin 3,q4,100%
+03/04/2018,"27 Middle Third, Killester, Dublin 5",Dublin,495000.0,No,Killester,Dublin 3,q4,90%
+06/04/2018,"62 Venetian Hall, Killester, Dublin 5",Dublin,325000.0,No,Killester,Dublin 3,q2,40%
+10/04/2018,"12 Craigford Drive, Killester, Dublin 5",Dublin,372000.0,No,Killester,Dublin 3,q3,60%
+13/04/2018,"6 St Brigids Close, Killester, Dublin 5",Dublin,442000.0,No,Killester,Dublin 3,q3,80%
+20/04/2018,"24 The Bramblings, Killester Avenue, Dublin 5",Dublin,465000.0,No,Killester,Dublin 3,q4,80%
+10/05/2018,"9 La Vista Ave, Killester, Dublin 5",Dublin,495000.0,No,Killester,Dublin 3,q4,90%
+11/06/2018,"49 B Abbeyfield, Killester, Dublin 5",Dublin,650000.0,Yes,Killester,Dublin 3,q4,100%
+14/06/2018,"46 Furry Park Rd, Killester, Dublin 5",Dublin,360000.0,No,Killester,Dublin 3,q2,50%
+17/07/2018,"6 Kilbride Rd, Killester, Dublin 5",Dublin,665000.0,No,Killester,Dublin 3,q4,100%
+18/07/2018,"No. 1, Abbey Park, Killester",Dublin,341000.0,No,Killester,Dublin 3,q2,50%
+20/08/2018,"49 Venetian Hall, Killester, Dublin 5",Dublin,335000.0,No,Killester,Dublin 3,q2,50%
+14/09/2018,"74 Killester Ave, Killester, Dublin 3",Dublin,380000.0,No,Killester,Dublin 3,q3,60%
+20/09/2018,"20 Furry Park Court, Killester, Dublin 5",Dublin,460000.0,No,Killester,Dublin 3,q4,80%
+20/09/2018,"94 Furry Park Rd, Killester, Dublin 5",Dublin,885000.0,No,Killester,Dublin 3,q4,100%
+21/09/2018,"127 Abbeyfield, Killester, Dublin 5",Dublin,500000.0,No,Killester,Dublin 3,q4,90%
+25/09/2018,"47 Furry Park Rd, Killester, Dublin 5",Dublin,580000.0,No,Killester,Dublin 3,q4,100%
+19/10/2018,"16 Abbey Park, Killester, Dublin 5",Dublin,477000.0,No,Killester,Dublin 3,q4,90%
+24/10/2018,"1 Nuns Walk, Killester, Dublin 5",Dublin,535000.0,No,Killester,Dublin 3,q4,100%
+02/11/2018,"9 The Orchard, Killester, Dublin 5",Dublin,465000.0,No,Killester,Dublin 3,q4,90%
+23/11/2018,"33 St Brigids Grove, Killester, Dublin 5",Dublin,510000.0,No,Killester,Dublin 3,q4,90%
+18/12/2018,"144 Killester Ave, Killester, Dublin 5",Dublin,350000.0,No,Killester,Dublin 3,q2,50%
+18/12/2018,"61 Killester Park, Dublin 5, Dublin",Dublin,380000.0,No,Killester,Dublin 3,q3,60%
+15/01/2019,"27 The Orchard, Killester Dublin 5, Dublin",Dublin,380000.0,No,Killester,Dublin 3,q3,60%
+21/01/2019,"180 Killester Ave, Killester, Dublin 5",Dublin,317000.0,No,Killester,Dublin 3,q2,40%
+31/01/2019,"84 Furry Park Rd, Killester, Dublin 5",Dublin,702500.0,No,Killester,Dublin 3,q4,100%
+06/02/2019,"20 B Middle Third, Killester, Dublin 5",Dublin,570000.0,No,Killester,Dublin 3,q4,100%
+01/03/2019,"15 Craigford Dr, Killester, Dublin 5",Dublin,355000.0,No,Killester,Dublin 3,q2,50%
+08/03/2019,"4 Brookwood Glen, Killester, Dublin 5",Dublin,580000.0,No,Killester,Dublin 3,q4,100%
+15/03/2019,"43 The Bramblings, Killester, Dublin 5",Dublin,590000.0,No,Killester,Dublin 3,q4,100%
+19/03/2019,"Apt 94, Venetian Hall, Killester",Dublin,240000.0,No,Killester,Dublin 3,q1,20%
+28/03/2019,"1 Abbeyfield, Killester, Dublin 5",Dublin,605000.0,No,Killester,Dublin 3,q4,100%
+11/04/2019,"11 St Brigids Rd, Killester, Dublin 5",Dublin,460000.0,No,Killester,Dublin 3,q4,80%
+25/04/2019,"1A Killester Park, Killester",Dublin,462555.06,Yes,Killester,Dublin 3,q4,80%
+26/04/2019,"128 Killester Park, Killester, Dublin 5",Dublin,449500.0,No,Killester,Dublin 3,q3,80%
+26/04/2019,"3 School Ave, Killester, Dublin 5",Dublin,470000.0,No,Killester,Dublin 3,q4,90%
+03/05/2019,"1B Killester Park, Killester, Dublin 5",Dublin,458151.0,Yes,Killester,Dublin 3,q4,80%
+23/05/2019,"38 Collins Ave East, Killester, Dublin 5",Dublin,350000.0,No,Killester,Dublin 3,q2,50%
+04/06/2019,"48 Furry Park Rd, Killester, Dublin 5",Dublin,520000.0,No,Killester,Dublin 3,q4,90%
+07/06/2019,"37 The Bramblings, Killester, Dublin 5",Dublin,460000.0,No,Killester,Dublin 3,q4,80%
+17/06/2019,"14 Craigford Ave, Killester, Dublin 5",Dublin,427000.0,No,Killester,Dublin 3,q3,70%
+19/06/2019,"124 Killester Park, Dublin 5, Dublin",Dublin,446000.0,No,Killester,Dublin 3,q3,80%
+21/06/2019,"136 Collins Ave East, Killester, Dublin 5",Dublin,275000.0,No,Killester,Dublin 3,q1,30%
+12/07/2019,"19 Kilbride Rd, Killester, Dublin 5",Dublin,672000.0,No,Killester,Dublin 3,q4,100%
+01/08/2019,"31 Clanawley Rd, Killester, Dublin 5",Dublin,351000.0,No,Killester,Dublin 3,q2,50%
+09/08/2019,"34 Furry Park Rd, Killester, Dublin 5",Dublin,500000.0,No,Killester,Dublin 3,q4,90%
+19/08/2019,"27 The Demesne, Killester, Dublin 5",Dublin,626000.0,No,Killester,Dublin 3,q4,100%
+19/08/2019,"8 Kilbride Rd, Killester, Dublin 5",Dublin,605000.0,No,Killester,Dublin 3,q4,100%
+20/08/2019,"44 St Brigids Rd, Killester, Dublin 5",Dublin,420000.0,No,Killester,Dublin 3,q3,70%
+29/08/2019,"22 Abbeyfield, Killester, Dublin 5",Dublin,570000.0,No,Killester,Dublin 3,q4,100%
+29/08/2019,"3 St Brigids Close, Killester, Dublin 5",Dublin,440000.0,No,Killester,Dublin 3,q3,80%
+30/08/2019,"12 Abbey Court, Killester, Dublin 5",Dublin,375000.0,No,Killester,Dublin 3,q3,60%
+06/09/2019,"13 Abbey Court, Killester, Dublin 5",Dublin,351000.0,No,Killester,Dublin 3,q2,50%
+12/09/2019,"23 Abbey Park, Killester, Dublin 5",Dublin,395000.0,No,Killester,Dublin 3,q3,70%
+13/09/2019,"54 Middle Third, Killester, Dublin 5",Dublin,568000.0,No,Killester,Dublin 3,q4,100%
+19/09/2019,"28 Brookwood Park, Killester, Dublin 5",Dublin,610000.0,No,Killester,Dublin 3,q4,100%
+20/09/2019,"30 The Orchard, Killester, Dublin 5",Dublin,342500.0,No,Killester,Dublin 3,q2,50%
+25/09/2019,"10 St Brigids Lawn, Killester, Dublin 5",Dublin,465000.0,No,Killester,Dublin 3,q4,90%

@@ -1,0 +1,54 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+18/10/2010,"Sandy Dell, The Burrow, Portrane",Dublin,175000.0,No,Portrane,Co. Dublin,q1,30%
+26/11/2010,"Sandpiper House, Beach Road, Portrane",Dublin,357500.0,No,Portrane,Co. Dublin,q4,90%
+03/12/2010,"Number 60, Grey Square, Portrane",Dublin,260000.0,No,Portrane,Co. Dublin,q3,60%
+29/03/2011,"The Burrows, Portrane",Dublin,50000.0,No,Portrane,Co. Dublin,q1,10%
+07/09/2011,"Corsha, Burrow Road, Portrane",Dublin,100000.0,No,Portrane,Co. Dublin,q1,10%
+26/10/2011,"49 Grey Square, Portrane",Dublin,220000.0,No,Portrane,Co. Dublin,q2,40%
+24/02/2012,"18 Tower View Heights, Portrane",Dublin,225000.0,No,Portrane,Co. Dublin,q2,40%
+28/02/2012,"10 Seaview Park, Portrane",Dublin,120000.0,No,Portrane,Co. Dublin,q1,10%
+16/03/2012,"79 Seaview Park, Portrane, County Dublin",Dublin,120000.0,No,Portrane,Co. Dublin,q1,20%
+08/11/2012,"Porters Lane, The Burrow, Portrane",Dublin,530000.0,No,Portrane,Co. Dublin,q4,100%
+12/12/2012,"St. Michael'S House, Children'S Respite Unit, Portrane Road  Donabate",Dublin,887233.0,No,Portrane,Co. Dublin,q4,100%
+15/07/2013,"62 St Catherines, Portrane",Dublin,240000.0,No,Portrane,Co. Dublin,q2,50%
+19/09/2013,"Fern Meadows, The Burrow, Portrane",Dublin,357000.0,No,Portrane,Co. Dublin,q4,80%
+08/10/2013,"19 The Quay, Portrane",Dublin,345000.0,No,Portrane,Co. Dublin,q4,80%
+19/12/2013,"Middlefield, Portrane, Dublin",Dublin,340000.0,No,Portrane,Co. Dublin,q3,80%
+20/12/2013,"42 Red Sq, Portrane, Dublin",Dublin,165000.0,No,Portrane,Co. Dublin,q1,20%
+20/12/2013,"Seaverge, Burrow Rd, Portrane",Dublin,330000.0,No,Portrane,Co. Dublin,q3,80%
+16/07/2014,"35 Red Sq, Portrane, Dublin",Dublin,163000.0,No,Portrane,Co. Dublin,q1,20%
+11/11/2014,"37 Red Sq, Portrane, Dublin",Dublin,158000.0,No,Portrane,Co. Dublin,q1,20%
+27/11/2014,"29 Seaview Park, Portrane, Co Dublin",Dublin,197500.0,No,Portrane,Co. Dublin,q2,30%
+10/02/2015,"29 Longstone Park, Portrane, County Dublin",Dublin,185000.0,No,Portrane,Co. Dublin,q1,30%
+21/05/2015,"Castlepark, Burrow Road, Portrane",Dublin,475000.0,No,Portrane,Co. Dublin,q4,100%
+11/06/2015,"Longacres House, Porters Lane, Portrane",Dublin,1400000.0,No,Portrane,Co. Dublin,q4,100%
+28/08/2015,"Knocknamore, The Burrow, Portrane",Dublin,240000.0,No,Portrane,Co. Dublin,q2,50%
+02/06/2016,"Ambleside, Burrow Rd, Portrane",Dublin,420000.0,No,Portrane,Co. Dublin,q4,90%
+06/07/2016,"Burrow Rd, Portrane, Dublin",Dublin,300000.0,No,Portrane,Co. Dublin,q3,70%
+27/07/2016,"50 The Grey Square, Portrane, Co Dublin",Dublin,230000.0,No,Portrane,Co. Dublin,q2,40%
+20/10/2016,"Moyvilla, Burrow Rd, Portrane",Dublin,185000.0,No,Portrane,Co. Dublin,q1,30%
+27/10/2016,"Brook Cottage, Burrow Rd, Portrane",Dublin,160000.0,No,Portrane,Co. Dublin,q1,20%
+10/11/2016,"Burrow Rd, Portrane, Dublin",Dublin,260000.0,No,Portrane,Co. Dublin,q3,60%
+04/01/2017,"26 Longstown Park, Portrane, Dublin",Dublin,210000.0,No,Portrane,Co. Dublin,q2,40%
+05/07/2017,"64 Seaview Park, Portrane, Dublin",Dublin,254000.0,No,Portrane,Co. Dublin,q3,60%
+12/07/2017,"28 Seaview Park, Portrane, Dublin",Dublin,245000.0,No,Portrane,Co. Dublin,q2,50%
+18/08/2017,"92 Seaview Park, Portrane, Dublin",Dublin,290000.0,No,Portrane,Co. Dublin,q3,60%
+29/08/2017,"16 Longstone Park, Portrane, Dublin",Dublin,247000.0,No,Portrane,Co. Dublin,q3,60%
+07/12/2017,"St Anthonys, Burrow, Portrane",Dublin,246000.0,No,Portrane,Co. Dublin,q2,50%
+22/05/2018,"54 Longstone Park, Portrane, Dublin",Dublin,246000.0,No,Portrane,Co. Dublin,q2,50%
+24/05/2018,"3 Tower Bay, Portrane, Dublin",Dublin,200000.0,No,Portrane,Co. Dublin,q2,30%
+24/05/2018,"4 Towerbay, Portrane, Dublin",Dublin,200000.0,No,Portrane,Co. Dublin,q2,40%
+29/06/2018,"Ferndale, The Burrow Rd, Portrane",Dublin,465000.0,No,Portrane,Co. Dublin,q4,90%
+10/08/2018,"12 Glaslinn, Portrane Road",Dublin,414097.0,Yes,Portrane,Co. Dublin,q4,90%
+31/08/2018,"13 Rahillion Crescent, Portrane, Co Dublin",Dublin,493392.07,Yes,Portrane,Co. Dublin,q4,100%
+04/09/2018,"62 Seaview Park, Portrane, Dublin",Dublin,325000.0,No,Portrane,Co. Dublin,q3,80%
+20/09/2018,"92 Seaview Park, Portrane, Dublin",Dublin,317500.0,No,Portrane,Co. Dublin,q3,70%
+27/09/2018,"55 The Grey Sq, Portrane, Dublin",Dublin,310000.0,No,Portrane,Co. Dublin,q3,70%
+12/11/2018,"50 Longstone Park, Portrane, Dublin",Dublin,230000.0,No,Portrane,Co. Dublin,q2,50%
+18/01/2019,"Sea Meadows, Burrow Rd, Portrane",Dublin,450000.0,No,Portrane,Co. Dublin,q4,90%
+23/01/2019,"52 Grey Sq, Portrane, Dublin",Dublin,317500.0,No,Portrane,Co. Dublin,q3,70%
+04/03/2019,"Moyvilla, Burrow Road, Portrane",Dublin,550000.0,No,Portrane,Co. Dublin,q4,100%
+21/03/2019,"Silver Cosy, The Burrow Beach Lane, Portrane",Dublin,40000.0,No,Portrane,Co. Dublin,q1,10%
+03/07/2019,"2 The Coastguards, Tower Bay, Portrane",Dublin,54000.0,No,Portrane,Co. Dublin,q1,10%
+16/07/2019,"53 The Grey Sq, Portrane, Dublin",Dublin,310000.0,No,Portrane,Co. Dublin,q3,70%
+12/09/2019,"Nethercross, The Borrow Road, Portrane",Dublin,119000.0,No,Portrane,Co. Dublin,q1,10%

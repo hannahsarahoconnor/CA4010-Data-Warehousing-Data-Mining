@@ -1,0 +1,275 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+25/03/2010,"Apt 138, Ivy Exchange, Parnell Street",Dublin,135000.0,No,Parnell St,Dublin 1,q2,30%
+07/05/2010,"Apartment 25 Stewart Hall, Parnell Street",Dublin,166200.0,No,Parnell St,Dublin 1,q2,50%
+02/07/2010,"3 Parnell Street, Dublin 1",Dublin,300000.0,No,Parnell St,Dublin 1,q4,90%
+02/07/2010,"4 Parnell Street, Dublin 1",Dublin,150000.0,No,Parnell St,Dublin 1,q2,40%
+02/07/2010,"5 Parnell Street, Dublin 1",Dublin,150000.0,No,Parnell St,Dublin 1,q2,40%
+02/07/2010,"6 Parnell Street, Dublin 1",Dublin,150000.0,No,Parnell St,Dublin 1,q2,40%
+02/07/2010,"Apartment 119, 109  Parnell Street",Dublin,85000.0,No,Parnell St,Dublin 1,q1,10%
+29/09/2010,"Apartment 139, 109 Parnell Street, Dublin 1.",Dublin,105000.0,No,Parnell St,Dublin 1,q1,20%
+21/12/2010,"Apartment 45, 109 Parnell Street, Dublin 1",Dublin,80000.0,No,Parnell St,Dublin 1,q1,10%
+25/05/2011,"Apartment 32, Kingscourt, Parnell Street",Dublin,140000.0,No,Parnell St,Dublin 1,q2,30%
+27/05/2011,"Apartment 157, Kingscourt, Parnell Street",Dublin,113000.0,No,Parnell St,Dublin 1,q1,30%
+21/10/2011,"Apartment 152, Kings Court, Parnell Street",Dublin,148000.0,No,Parnell St,Dublin 1,q2,40%
+17/11/2011,"15 Stewart Hall, Parnell Street",Dublin,107500.0,No,Parnell St,Dublin 1,q1,20%
+08/12/2011,"84 Greeg Court, Parnell Street",Dublin,335000.0,Yes,Parnell St,Dublin 1,q4,100%
+14/02/2012,"56 Stewart Hall, Parnell Street, Dublin",Dublin,110000.0,No,Parnell St,Dublin 1,q1,20%
+25/05/2012,"136 Ivy Exchange, Parnell Street",Dublin,105000.0,No,Parnell St,Dublin 1,q1,20%
+28/09/2012,"96, Ivy Exchange, Parnell Street",Dublin,185000.0,No,Parnell St,Dublin 1,q3,60%
+21/11/2012,"4 Loftus Court, 7/11 Parnell Street",Dublin,150000.0,No,Parnell St,Dublin 1,q2,40%
+21/11/2012,"5 Loftus Court, 7/11 Parnell Street",Dublin,150000.0,No,Parnell St,Dublin 1,q2,40%
+21/11/2012,"89 Stewart Hall, Parnell Street, Dublin 1",Dublin,115000.0,No,Parnell St,Dublin 1,q1,30%
+03/12/2012,"125 Kings Court, Parnell Street",Dublin,110000.0,No,Parnell St,Dublin 1,q1,20%
+20/12/2012,"Apartment 177, Ivy Exchange, Parnell Street",Dublin,198000.0,No,Parnell St,Dublin 1,q3,70%
+20/12/2012,"Apartment 96, Kings Court, Parnell St.",Dublin,170000.0,No,Parnell St,Dublin 1,q2,50%
+31/01/2013,"91 Kingscourt, Parnell Street",Dublin,110000.0,No,Parnell St,Dublin 1,q1,20%
+01/02/2013,"Apartment 85, 109 Parnell Street, Dublin 1",Dublin,66000.0,No,Parnell St,Dublin 1,q1,10%
+05/02/2013,"Apartment 156, Kingscourt, Parnell Street",Dublin,100000.0,No,Parnell St,Dublin 1,q1,20%
+15/03/2013,"Apt 40, 109 Parnell Street",Dublin,81000.0,No,Parnell St,Dublin 1,q1,10%
+21/03/2013,"Apartment 16, Kingscourt, Parnell Street",Dublin,153000.0,No,Parnell St,Dublin 1,q2,40%
+05/04/2013,"Apartment 47 Stewart Hall, Parnell Street/Ryders Row, Dublin 1",Dublin,166000.0,No,Parnell St,Dublin 1,q2,50%
+24/04/2013,"Apt 41, 109 Parnell Street, Dublin 1",Dublin,85000.0,No,Parnell St,Dublin 1,q1,20%
+08/05/2013,"21 Ivy Exchange, Parnell Street, Dublin 1",Dublin,225000.0,No,Parnell St,Dublin 1,q3,70%
+24/05/2013,"40, Kings Court, Parnell Street",Dublin,139800.0,No,Parnell St,Dublin 1,q2,30%
+07/06/2013,"Apt 130, Kings Court Apartments, Parnell Street",Dublin,140000.0,No,Parnell St,Dublin 1,q2,30%
+18/06/2013,"82 Kingscourt, Parnell Street",Dublin,86000.0,No,Parnell St,Dublin 1,q1,20%
+21/08/2013,"Apartment 76, 109 Parnell Street",Dublin,75000.0,No,Parnell St,Dublin 1,q1,10%
+18/09/2013,"Apartment 34, 109 Parnell Street, Dublin 1",Dublin,65000.0,No,Parnell St,Dublin 1,q1,10%
+04/10/2013,"35 Stewart Hall, Ryder Row, Off Parnell Street",Dublin,156000.0,No,Parnell St,Dublin 1,q2,50%
+24/10/2013,"Apt 95  Car Park Space 20, 109 Parnell Street",Dublin,82500.0,No,Parnell St,Dublin 1,q1,10%
+25/10/2013,"Apartment 75, 109 Parnell Street, Dublin1",Dublin,85000.0,No,Parnell St,Dublin 1,q1,20%
+28/11/2013,"159 Parnell Street, Dublin 1",Dublin,152000.0,No,Parnell St,Dublin 1,q2,40%
+12/12/2013,"Apt 101, 109 Parnell St, Dublin 1",Dublin,75500.0,No,Parnell St,Dublin 1,q1,10%
+17/12/2013,"Apt. No. 127, 109 Parnell St., Dublin 1",Dublin,75000.0,No,Parnell St,Dublin 1,q1,10%
+19/12/2013,"21 Gregg Court, Parnell St, Dublin",Dublin,146100.0,No,Parnell St,Dublin 1,q2,40%
+20/12/2013,"108 109 Parnell St, Dublin 1, Dublin",Dublin,80000.0,No,Parnell St,Dublin 1,q1,10%
+20/12/2013,"Apt 66, 109 Parnell St, Dublin 1",Dublin,82000.0,No,Parnell St,Dublin 1,q1,10%
+31/01/2014,"Apt. No. 98, 109 Parnell St., Dublin 1",Dublin,120000.0,No,Parnell St,Dublin 1,q1,30%
+27/03/2014,"Apt 1 153 154 Parnell St, Dublin 1, Dublin",Dublin,50000.0,No,Parnell St,Dublin 1,q1,10%
+27/03/2014,"Apt 2, 153 154 Parnell St, Dublin 1",Dublin,65000.0,No,Parnell St,Dublin 1,q1,10%
+27/03/2014,"Apt 6, 153/154 Parnell St, Dublin 1",Dublin,65000.0,No,Parnell St,Dublin 1,q1,10%
+23/04/2014,"41 Stewarts Hall, Ryder'S Row, Parnell Street  Dublin 1",Dublin,139000.0,No,Parnell St,Dublin 1,q2,30%
+23/04/2014,"91 Parnell St, Apt 2, Dublin 1",Dublin,100000.0,No,Parnell St,Dublin 1,q1,20%
+23/05/2014,"Apt 1, 143 Parnell St, Dublin1",Dublin,150000.0,No,Parnell St,Dublin 1,q2,40%
+24/06/2014,"Apt 60, Kings Court, Parnell St Dublin 1",Dublin,195000.0,No,Parnell St,Dublin 1,q3,60%
+10/07/2014,"156 Great Britain Now Known As, 156 Parnell Street, Dublin 1",Dublin,323000.0,No,Parnell St,Dublin 1,q4,90%
+15/07/2014,"Apt 117 Greeg Court, Parnell Street",Dublin,117200.0,No,Parnell St,Dublin 1,q1,30%
+18/07/2014,"Apt 52, 109 Parnell St, Dublin",Dublin,105000.0,No,Parnell St,Dublin 1,q1,20%
+31/07/2014,"Apt 20, 151 Parnell St, Dublin 1",Dublin,130000.0,No,Parnell St,Dublin 1,q2,30%
+01/09/2014,"Apartment 114, Greeg Court, Parnell Street",Dublin,220000.0,Yes,Parnell St,Dublin 1,q3,70%
+01/09/2014,"Apartment 122 And Car Space No. 14, Greeg Court, Parnell Street",Dublin,220000.0,Yes,Parnell St,Dublin 1,q3,70%
+10/09/2014,"154 Kingscourt, Parnell Street, Dublin 1",Dublin,287000.0,No,Parnell St,Dublin 1,q4,90%
+02/10/2014,"Apt 10 Stewart House, 182 Parnell Street, Dublin 1",Dublin,70000.0,No,Parnell St,Dublin 1,q1,10%
+02/10/2014,"Apt 7 Stewart House, 182 Parnell Street, Dublin 1",Dublin,70000.0,No,Parnell St,Dublin 1,q1,10%
+21/10/2014,"4 Kings Court, Parnell St, Dublin",Dublin,225000.0,No,Parnell St,Dublin 1,q3,80%
+23/10/2014,"6 Kings Court, Parnell St, Dublin",Dublin,190000.0,No,Parnell St,Dublin 1,q3,60%
+28/10/2014,"89 Kings Court, Parnell St, Dublin 1",Dublin,155000.0,No,Parnell St,Dublin 1,q2,50%
+03/11/2014,"7 Temple Hall, Parnell St, Dublin 1",Dublin,157000.0,No,Parnell St,Dublin 1,q2,50%
+13/11/2014,"4 Temple Hall, Parnell St, Dublin 1",Dublin,157000.0,No,Parnell St,Dublin 1,q2,50%
+18/11/2014,"Apt. 88, 109 Parnell Street, Dublin 1",Dublin,117500.0,No,Parnell St,Dublin 1,q1,30%
+16/12/2014,"Apt 1 153 154 Parnell St, Dublin 1, Dublin",Dublin,375000.0,No,Parnell St,Dublin 1,q4,100%
+22/12/2014,"59 Kings Court, Parnell St, Dublin 1",Dublin,235000.0,No,Parnell St,Dublin 1,q3,80%
+12/01/2015,"Apartment 9, 109 Parnell Street",Dublin,125000.0,No,Parnell St,Dublin 1,q1,30%
+23/01/2015,"105 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+23/01/2015,"108 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+23/01/2015,"110 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+23/01/2015,"119 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+23/01/2015,"121 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+23/01/2015,"123 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+23/01/2015,"19 Gregg Court, Parnell St, Dublin 1",Dublin,146950.0,No,Parnell St,Dublin 1,q2,40%
+23/01/2015,"26 Gregg Court, Parnell St, Dublin 1",Dublin,105800.0,No,Parnell St,Dublin 1,q1,20%
+23/01/2015,"31 Gregg Court, Parnell St, Dublin 1",Dublin,146950.0,No,Parnell St,Dublin 1,q2,40%
+23/01/2015,"32 Gregg Court, Parnell St, Dublin 1",Dublin,146950.0,No,Parnell St,Dublin 1,q2,40%
+23/01/2015,"38 Gregg Court, Parnell St, Dublin 1",Dublin,105800.0,No,Parnell St,Dublin 1,q1,20%
+23/01/2015,"39 Gregg Court, Parnell St, Dublin 1",Dublin,146950.0,No,Parnell St,Dublin 1,q2,40%
+23/01/2015,"40 Gregg Court, Parnell St, Dublin 1",Dublin,146950.0,No,Parnell St,Dublin 1,q2,40%
+23/01/2015,"42 Gregg Court, Parnell St, Dublin 1",Dublin,146950.0,No,Parnell St,Dublin 1,q2,40%
+23/01/2015,"43 Gregg Court, Parnell St, Dublin 1",Dublin,105800.0,No,Parnell St,Dublin 1,q1,20%
+23/01/2015,"45 Gregg Court, Parnell St, Dublin 1",Dublin,105800.0,No,Parnell St,Dublin 1,q1,20%
+23/01/2015,"46 Gregg Court, Parnell St, Dublin 1",Dublin,146950.0,No,Parnell St,Dublin 1,q2,40%
+23/01/2015,"47 Gregg Court, Parnell St, Dublin 1",Dublin,146950.0,No,Parnell St,Dublin 1,q2,40%
+23/01/2015,"48 Gregg Court, Parnell St, Dublin 1",Dublin,105800.0,No,Parnell St,Dublin 1,q1,20%
+23/01/2015,"53 Gregg Court, Parnell St, Dublin 1",Dublin,146950.0,No,Parnell St,Dublin 1,q2,40%
+23/01/2015,"61 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+23/01/2015,"80 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+23/01/2015,"86 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+23/01/2015,"94 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+23/01/2015,"97 Gregg Court, Parnell St, Dublin 1",Dublin,158950.0,No,Parnell St,Dublin 1,q2,50%
+06/02/2015,"Apts At Ivy Exchange, Parnell St, Dublin 1",Dublin,480000.0,No,Parnell St,Dublin 1,q4,100%
+16/02/2015,"Apts At Ivy Exchange, Parnell St, Dublin 1",Dublin,620000.0,No,Parnell St,Dublin 1,q4,100%
+20/02/2015,"148 Parnell St, Dublin 1, Dublin",Dublin,85000.0,No,Parnell St,Dublin 1,q1,20%
+09/03/2015,"Apt 2 Stewart House, 185 Parnell Street, Dublin 1",Dublin,70000.0,No,Parnell St,Dublin 1,q1,10%
+09/03/2015,"Apt 3 Stewart House, 185 Parnell St, Dublin 1",Dublin,70000.0,No,Parnell St,Dublin 1,q1,10%
+11/03/2015,"106 Ivy Exchange, Parnell Street",Dublin,77777.77,No,Parnell St,Dublin 1,q1,10%
+11/03/2015,"113 Ivy Exchange, Parnell Street",Dublin,77777.77,No,Parnell St,Dublin 1,q1,10%
+11/03/2015,"117 Ivy Exchange, Parnell Street",Dublin,77777.77,No,Parnell St,Dublin 1,q1,10%
+11/03/2015,"121 Ivy Exchange, Parnell Street",Dublin,77777.84,No,Parnell St,Dublin 1,q1,10%
+11/03/2015,"62 Ivy Exchange, Parnell Street",Dublin,77777.77,No,Parnell St,Dublin 1,q1,10%
+11/03/2015,"74 Ivy Exchange, Parnell Street",Dublin,77777.77,No,Parnell St,Dublin 1,q1,10%
+11/03/2015,"75 Ivy Exchange, Parnell Street",Dublin,77777.77,No,Parnell St,Dublin 1,q1,10%
+11/03/2015,"80 Ivy Exchange, Parnell Street",Dublin,77777.77,No,Parnell St,Dublin 1,q1,10%
+11/03/2015,"80 Ivy Exchange, Parnell Street",Dublin,77777.77,No,Parnell St,Dublin 1,q1,10%
+15/05/2015,"Apt.63, 109 Parnell Street, Dublin 1",Dublin,125000.0,No,Parnell St,Dublin 1,q1,30%
+20/05/2015,"120 Kings Court, Parnell St, Dublin 1",Dublin,270000.0,No,Parnell St,Dublin 1,q4,80%
+17/06/2015,"Apt 82 Stewarts Hall, Parnell Street, Dublin 2",Dublin,195000.0,No,Parnell St,Dublin 1,q3,60%
+19/06/2015,"Apt 23 Stewart Hall, Parnell St, Dublin 1",Dublin,205000.0,No,Parnell St,Dublin 1,q3,70%
+24/06/2015,"Apt 11, Avondale Hall, 151 152 Parnell St Dublin 1",Dublin,150000.0,No,Parnell St,Dublin 1,q2,40%
+28/06/2015,"34 Kings Court, Parnell St, Dublin 1",Dublin,195000.0,No,Parnell St,Dublin 1,q3,60%
+30/06/2015,"Apartment 79, 109 Parnell Street, Dublin 1",Dublin,100000.0,No,Parnell St,Dublin 1,q1,20%
+30/06/2015,"Apartment 81, 109 Parnell Street, Dublin 1",Dublin,100000.0,No,Parnell St,Dublin 1,q1,20%
+30/06/2015,"Apartment 83, 109 Parnell Street, Dublin 1",Dublin,100000.0,No,Parnell St,Dublin 1,q1,20%
+30/06/2015,"Apartment 84, 109 Parnell Street, Dublin 1",Dublin,100000.0,No,Parnell St,Dublin 1,q1,20%
+06/07/2015,"80 Ivy Exchange, Parnell St, Dublin 1",Dublin,195000.0,No,Parnell St,Dublin 1,q3,60%
+17/07/2015,"75 Ivy Exchange, Parnell St, Dublin 1",Dublin,195000.0,No,Parnell St,Dublin 1,q3,60%
+29/07/2015,"Apt 19 Avondale, 151/152 Parnell Street, Dublin 1",Dublin,135000.0,No,Parnell St,Dublin 1,q2,30%
+13/08/2015,"Apartment 13, 151-152 Parnell Street, Dublin 1",Dublin,120000.0,No,Parnell St,Dublin 1,q1,30%
+14/08/2015,"106 Gregg Court, Parnell St, Dublin 1",Dublin,110000.0,No,Parnell St,Dublin 1,q1,20%
+14/08/2015,"2 Greeg Court, Parnell St, Dublin 1",Dublin,110000.0,No,Parnell St,Dublin 1,q1,20%
+14/08/2015,"2 Greeg Court, Parnell St, Dublin 1",Dublin,110000.0,No,Parnell St,Dublin 1,q1,20%
+14/08/2015,"41 Gregg Court, Parnell St, Dublin 1",Dublin,110000.0,No,Parnell St,Dublin 1,q1,20%
+14/08/2015,"44 Gregg Court, Parnell St, Dublin 1",Dublin,110000.0,No,Parnell St,Dublin 1,q1,20%
+18/08/2015,"30 Temple Hall, Parnell St, Dublin 1",Dublin,145000.0,No,Parnell St,Dublin 1,q2,40%
+01/09/2015,"23 Temple Hall, Parnell St, Dublin 1",Dublin,140000.0,No,Parnell St,Dublin 1,q2,30%
+04/09/2015,"108 109 Parnell St, Dublin 1, Dublin",Dublin,144000.0,No,Parnell St,Dublin 1,q2,40%
+09/09/2015,"Apartment 53 Kings Court, Parnell Street, Dublin 1",Dublin,230000.0,No,Parnell St,Dublin 1,q3,80%
+10/09/2015,"151 152 Apt 4, Parnell St, Dublin 1",Dublin,119000.0,No,Parnell St,Dublin 1,q1,30%
+15/09/2015,"Apt 53, 109 Parnell Street, Dublin 1",Dublin,126000.0,No,Parnell St,Dublin 1,q2,30%
+16/10/2015,"Apartment 8 Stewart Hall, Parnell Street, Dublin 1",Dublin,130000.0,No,Parnell St,Dublin 1,q2,30%
+19/10/2015,"9 Temple Hall, Parnell St, Dublin 1",Dublin,179000.0,No,Parnell St,Dublin 1,q3,60%
+21/10/2015,"106 Ivy Exchange, Parnell St, Dublin 1",Dublin,187500.0,No,Parnell St,Dublin 1,q3,60%
+21/10/2015,"74 Ivy Exchange, Parnell St, Dublin 1",Dublin,187500.0,No,Parnell St,Dublin 1,q3,60%
+06/11/2015,"95 Stewart Hall, Ryders Row, Parnell St Dublin 1",Dublin,256000.0,No,Parnell St,Dublin 1,q4,80%
+18/11/2015,"Apt 89, 109 Parnell St, Dublin 1",Dublin,170000.0,No,Parnell St,Dublin 1,q2,50%
+20/11/2015,"29 Temple Hall, Parnell St, Dublin 1",Dublin,180000.0,No,Parnell St,Dublin 1,q3,60%
+01/12/2015,"7 Kings Court, Parnell Street, Dublin 1",Dublin,148750.0,No,Parnell St,Dublin 1,q2,40%
+04/12/2015,"113 Ivy Exchange, Parnell St, Dublin 1",Dublin,190000.0,No,Parnell St,Dublin 1,q3,60%
+09/12/2015,"121 Ivy Exchange, Parnell St, Dublin 1",Dublin,195000.0,No,Parnell St,Dublin 1,q3,60%
+07/01/2016,"Apt 54, 109 Parnell Street",Dublin,155000.0,No,Parnell St,Dublin 1,q2,50%
+13/01/2016,"26 Temple Hall, Parnell St, Dublin 1",Dublin,165000.0,No,Parnell St,Dublin 1,q2,50%
+26/01/2016,"2 Loftus Court, Parnell St, Dublin 1",Dublin,233000.0,No,Parnell St,Dublin 1,q3,80%
+10/02/2016,"151 Ivy Exchange, Parnell St, Dublin 1",Dublin,205000.0,No,Parnell St,Dublin 1,q3,70%
+19/02/2016,"25 Temple Hall, Parnell St, Dublin 1",Dublin,170000.0,No,Parnell St,Dublin 1,q3,60%
+01/03/2016,"178 Parnell Street, City Of Dublin",Dublin,327000.0,No,Parnell St,Dublin 1,q4,90%
+03/03/2016,"81 Stewart Hall, Parnell St, Dublin 1",Dublin,240000.0,No,Parnell St,Dublin 1,q4,80%
+20/04/2016,"Apt 99, 109 Parnell St, Dublin 1",Dublin,166000.0,No,Parnell St,Dublin 1,q2,50%
+17/05/2016,"116 Kings Court, Parnell St, Dublin 1",Dublin,216000.0,No,Parnell St,Dublin 1,q3,70%
+15/06/2016,"Apt 31 Temple Hall, Parnell Street, Dublin 1",Dublin,180000.0,No,Parnell St,Dublin 1,q3,60%
+20/06/2016,"30 Stewarts Hall, Ryders Row, Parnell Street",Dublin,162000.0,No,Parnell St,Dublin 1,q2,50%
+22/06/2016,"Apt 74, 109 Parnell St, Dublin 1",Dublin,120000.0,No,Parnell St,Dublin 1,q1,30%
+24/06/2016,"11 Stewart House, 185 188 Parnell St, Dublin 1",Dublin,110000.0,No,Parnell St,Dublin 1,q1,30%
+05/07/2016,"141 Ivy Exchange, Parnell St, Dublin 1",Dublin,183000.0,No,Parnell St,Dublin 1,q3,60%
+11/07/2016,"97 Parnell St, Dublin 1, Dublin",Dublin,275000.0,No,Parnell St,Dublin 1,q4,90%
+22/07/2016,"60 Ivy Exchange, Parnell St, Dublin",Dublin,285000.0,No,Parnell St,Dublin 1,q4,90%
+25/07/2016,"6 Kings Court, Parnell St, Dublin",Dublin,221000.0,No,Parnell St,Dublin 1,q3,70%
+26/07/2016,"112 Ivy Exchange, Parnell St, Dublin 1",Dublin,312500.0,No,Parnell St,Dublin 1,q4,90%
+26/07/2016,"12 Templehall, Parnell St, Dublin 1",Dublin,146000.0,No,Parnell St,Dublin 1,q2,40%
+16/08/2016,"65 Ivy Exchange, Parnell St, Dublin 1",Dublin,312000.0,No,Parnell St,Dublin 1,q4,90%
+22/08/2016,"87 Greeg Court, Parnell St, Dublin 1",Dublin,255000.0,No,Parnell St,Dublin 1,q4,80%
+23/09/2016,"Apt 70 Stewart Hall, Ryder'S Row, Parnell St",Dublin,275000.0,No,Parnell St,Dublin 1,q4,90%
+27/09/2016,"9 Kingscourt, Parnell St, Dublin 1",Dublin,227500.0,No,Parnell St,Dublin 1,q3,80%
+28/09/2016,"93 Ivy Exchange, Parnell St, Dublin 1",Dublin,295000.0,No,Parnell St,Dublin 1,q4,90%
+13/10/2016,"92 Parnell Street, Dublin 1",Dublin,123333.33,No,Parnell St,Dublin 1,q1,30%
+24/10/2016,"75 Kings Court, Parnell St, Dublin 1",Dublin,245000.0,No,Parnell St,Dublin 1,q4,80%
+02/11/2016,"5 Temple Hall, Parnell Street, Dublin 1",Dublin,155000.0,No,Parnell St,Dublin 1,q2,50%
+04/11/2016,"Apartment121, 109 Parnell St, Dublin 1",Dublin,140000.0,No,Parnell St,Dublin 1,q2,30%
+15/11/2016,"Apt 58 Block 3, Ivy Exchange, Parnell St Dublin 1",Dublin,286000.0,No,Parnell St,Dublin 1,q4,90%
+29/11/2016,"81 Kings Court, Parnell St, Dublin 1",Dublin,180000.0,No,Parnell St,Dublin 1,q3,60%
+01/12/2016,"Apt 130, Ivy Exchange, Parnell St Dublin 1",Dublin,325000.0,No,Parnell St,Dublin 1,q4,90%
+13/12/2016,"92 Stewart Hall, Ryders Row, Parnell Street",Dublin,220000.0,No,Parnell St,Dublin 1,q3,70%
+14/12/2016,"Apt 73, 109 Parnell St, Dublin 1",Dublin,170000.0,No,Parnell St,Dublin 1,q3,60%
+19/12/2016,"Apt 2, 152 Parnell St, Dublin 1",Dublin,139000.0,No,Parnell St,Dublin 1,q2,30%
+19/12/2016,"Apt 39 Belvedere, 109 Parnell St, Dublin 1",Dublin,140000.0,No,Parnell St,Dublin 1,q2,30%
+22/12/2016,"Apt 58 Block 3, Ivy Exchange, Parnell St Dublin 1",Dublin,270000.0,No,Parnell St,Dublin 1,q4,80%
+31/01/2017,"Apt 10, 109 Parnell St, Dublin",Dublin,145000.0,No,Parnell St,Dublin 1,q2,40%
+01/03/2017,"133 Ivy Exchange Parnell St, Dublin 1, Dublin",Dublin,195000.0,No,Parnell St,Dublin 1,q3,60%
+01/03/2017,"Apt 116, 109 Parnell St, Dublin 1",Dublin,165000.0,No,Parnell St,Dublin 1,q2,50%
+23/03/2017,"122 Ivy Exchange, Parnell St, Dublin 1",Dublin,311000.0,No,Parnell St,Dublin 1,q4,90%
+27/03/2017,"33 Ivy Exchange, Parnell St, Dublin 1",Dublin,360000.0,No,Parnell St,Dublin 1,q4,100%
+31/03/2017,"138 Kings Court, Parnell St, Dublin 1",Dublin,330000.0,No,Parnell St,Dublin 1,q4,90%
+13/04/2017,"Apt 12, Stewart House, Parnell St Dublin 1",Dublin,120000.0,No,Parnell St,Dublin 1,q1,30%
+13/04/2017,"Apt 16, Stewart House, Parnell St Dublin 1",Dublin,120000.0,No,Parnell St,Dublin 1,q1,30%
+08/05/2017,"18 Avondale Hall, 151 Parnell St, Dublin 1",Dublin,150500.0,No,Parnell St,Dublin 1,q2,40%
+10/05/2017,"72 Ivy Exchange, Parnell St, Dublin 1",Dublin,360000.0,No,Parnell St,Dublin 1,q4,100%
+12/05/2017,"79 Kings Court, Parnell St, Dublin 1",Dublin,220000.0,No,Parnell St,Dublin 1,q3,70%
+12/05/2017,"82 Kings Court, Parnell St, Dublin 1",Dublin,180000.0,No,Parnell St,Dublin 1,q3,60%
+24/05/2017,"165 Ivy Exchange, Parnell St, Dublin",Dublin,339000.0,No,Parnell St,Dublin 1,q4,100%
+29/05/2017,"204 Ivy Exchange, Parnell St, Dublin 1",Dublin,330000.0,No,Parnell St,Dublin 1,q4,90%
+30/05/2017,"99 Ivy Exchange, Parnell St, Dublin",Dublin,322000.0,No,Parnell St,Dublin 1,q4,90%
+01/06/2017,"66 Ivy Exchange, Parnell St, Dublin",Dublin,359000.0,No,Parnell St,Dublin 1,q4,100%
+16/06/2017,"117 Gregg Court, Parnell St, Dublin 1",Dublin,324000.0,No,Parnell St,Dublin 1,q4,90%
+30/06/2017,"Apt 107 Kingscourt, Parnell Street, Dublin 1",Dublin,235000.0,No,Parnell St,Dublin 1,q3,80%
+10/07/2017,"70 Gregg Court, Parnell St, Dublin 1",Dublin,310000.0,No,Parnell St,Dublin 1,q4,90%
+20/07/2017,"44 Stewart Hall, Ryder'S Row, Parnell St",Dublin,176018.0,No,Parnell St,Dublin 1,q3,60%
+23/08/2017,"Apartment 5, Avondale Hall, 151 - 152 Parnell St",Dublin,175000.0,No,Parnell St,Dublin 1,q3,60%
+25/08/2017,"Apt 44, Kings Court, Parnell St",Dublin,210000.0,No,Parnell St,Dublin 1,q3,70%
+22/09/2017,"102 Ivy Exchange, Parnell St, Dublin 1",Dublin,345000.0,No,Parnell St,Dublin 1,q4,100%
+28/09/2017,"20 Loftus Court, Parnell St, Dublin 1",Dublin,207000.0,No,Parnell St,Dublin 1,q3,70%
+10/10/2017,"Apt 27, Temple Hall, Parnell St Dublin 1",Dublin,240000.0,No,Parnell St,Dublin 1,q4,80%
+26/10/2017,"Apt 42, 109 Parnell St, Dublin 1",Dublin,188000.0,No,Parnell St,Dublin 1,q3,60%
+31/10/2017,"Apt 139, 109 Parnell St, Dublin 1",Dublin,200000.0,No,Parnell St,Dublin 1,q3,70%
+07/11/2017,"Apt 112, 109 Parnell St, Dublin 1",Dublin,176000.0,No,Parnell St,Dublin 1,q3,60%
+10/11/2017,"26 Stewart Hall, Parnell Street, Dublin 1",Dublin,186000.0,No,Parnell St,Dublin 1,q3,60%
+13/11/2017,"52 Kingscourt, Parnell Street, Dublin1",Dublin,345000.0,No,Parnell St,Dublin 1,q4,100%
+15/11/2017,"43 Ivy Exchange, Parnell Street, Dublin 1",Dublin,366000.0,No,Parnell St,Dublin 1,q4,100%
+27/11/2017,"113 Kingscourt, Parnell St, Dublin 1",Dublin,230000.0,No,Parnell St,Dublin 1,q3,80%
+06/12/2017,"Apt 128, Ivy Exchange, Parnell St Dublin 1",Dublin,420000.0,No,Parnell St,Dublin 1,q4,100%
+15/12/2017,"7 Avondale House 151 Parnell St, Dublin 1, Dublin",Dublin,145000.0,No,Parnell St,Dublin 1,q2,40%
+16/01/2018,"42 Ivy Exchange, Parnell Street, Dublin 1",Dublin,297000.0,No,Parnell St,Dublin 1,q4,90%
+02/02/2018,"117 Ivy Exchange, Parnell St, Dublin 1",Dublin,250500.0,No,Parnell St,Dublin 1,q4,80%
+20/02/2018,"Apt 97, 109 Parnell St, Dublin 1",Dublin,168000.0,No,Parnell St,Dublin 1,q2,50%
+23/02/2018,"Apt 4, Stewart House, Parnell St Dublin 1",Dublin,216666.66,No,Parnell St,Dublin 1,q3,70%
+23/02/2018,"Apt 5 And 9, Stewart House, Parnell St Dublin 1",Dublin,433333.32,No,Parnell St,Dublin 1,q4,100%
+16/03/2018,"Apt 142, 109 Parnell St, Dublin 1",Dublin,185000.0,No,Parnell St,Dublin 1,q3,60%
+20/03/2018,"Apt 101 Block 4 Ivy Exchange, Parnell Street, Dublin 1",Dublin,316307.0,No,Parnell St,Dublin 1,q4,90%
+29/03/2018,"78 Ivy Exchange, Parnell St, Dublin 1",Dublin,397500.0,No,Parnell St,Dublin 1,q4,100%
+04/04/2018,"Apt 15, 109 Parnell Street, Dublin 1",Dublin,225000.0,No,Parnell St,Dublin 1,q3,80%
+04/05/2018,"36 Gregg Court, Parnell St, Dublin 1",Dublin,243000.0,No,Parnell St,Dublin 1,q4,80%
+10/05/2018,"Apt 22, 109 Parnell Street, Dublin 1",Dublin,235000.0,No,Parnell St,Dublin 1,q3,80%
+24/05/2018,"Apartment 11, 109 Parnell Street, Dublin 1",Dublin,229000.0,No,Parnell St,Dublin 1,q3,80%
+30/05/2018,"109 Ivy Exchange, Parnell St, Dublin",Dublin,395000.0,No,Parnell St,Dublin 1,q4,100%
+30/05/2018,"94 Ivy Exchange, Parnell St, Dublin",Dublin,390000.0,No,Parnell St,Dublin 1,q4,100%
+31/05/2018,"Apartment, 3  Parnell Street, North City",Dublin,190000.0,No,Parnell St,Dublin 1,q3,60%
+14/06/2018,"Apt 130, 109 Parnell St, Dublin 1",Dublin,220000.0,No,Parnell St,Dublin 1,q3,70%
+27/06/2018,"98 Gregg Court, Parnell St, Dublin",Dublin,300000.0,No,Parnell St,Dublin 1,q4,90%
+18/07/2018,"Apt 4, Stewart House, Parnell St Dublin 1",Dublin,216666.66,No,Parnell St,Dublin 1,q3,70%
+18/07/2018,"Apt 5, Stewart House, Parnell St Dublin 1",Dublin,216666.0,No,Parnell St,Dublin 1,q3,70%
+18/07/2018,"Apt 8, Stewart House, Parnell St Dublin 1",Dublin,216666.0,No,Parnell St,Dublin 1,q3,70%
+08/08/2018,"37 Gregg Court, Parnell St, Dublin 1",Dublin,243000.0,No,Parnell St,Dublin 1,q4,80%
+09/08/2018,"66 Gregg Court, Parnell St, Dublin 1",Dublin,325000.0,No,Parnell St,Dublin 1,q4,90%
+22/08/2018,"31 Kingscourt, Parnell Street, Dublin 1",Dublin,63333.0,No,Parnell St,Dublin 1,q1,10%
+01/10/2018,"22 Temple Hall, Parnell St, Dublin 1",Dublin,225000.0,No,Parnell St,Dublin 1,q3,80%
+05/10/2018,"1 Temple Hall, Parnell St, Dublin 1",Dublin,215000.0,No,Parnell St,Dublin 1,q3,70%
+10/10/2018,"62 Ivy Exchange, Parnell St, Dublin 1",Dublin,260000.0,No,Parnell St,Dublin 1,q4,80%
+06/11/2018,"Apt 120, Ivy Exchange, Parnell St Dublin 1",Dublin,415000.0,No,Parnell St,Dublin 1,q4,100%
+20/11/2018,"Apt 147, 109 Parnell St, Dublin 1",Dublin,211000.0,No,Parnell St,Dublin 1,q3,70%
+22/11/2018,"Apt 82, 109 Parnell St, Dublin 1",Dublin,165000.0,No,Parnell St,Dublin 1,q2,50%
+28/11/2018,"Apt 131, 109 Parnell St, Dublin",Dublin,211000.0,No,Parnell St,Dublin 1,q3,70%
+04/01/2019,"36, 109 Parnell St, Dublin 1",Dublin,215000.0,No,Parnell St,Dublin 1,q3,70%
+17/01/2019,"Apt 133, 109 Parnell St, Dublin",Dublin,210000.0,No,Parnell St,Dublin 1,q3,70%
+25/01/2019,"129 Kings Court, Parnell St, Dublin 1",Dublin,260000.0,No,Parnell St,Dublin 1,q4,80%
+04/02/2019,"100 Ivy Exchange, Parnell St, Dublin 1",Dublin,390000.0,No,Parnell St,Dublin 1,q4,100%
+08/02/2019,"151 Kings Court, Parnell St, Dublin",Dublin,290000.0,No,Parnell St,Dublin 1,q4,90%
+25/02/2019,"22 Greeg Court, Parnell Street, Dublin 1",Dublin,255000.0,No,Parnell St,Dublin 1,q4,80%
+12/03/2019,"138 Ivy Exchange, Parnell St, Dublin 1",Dublin,238000.0,No,Parnell St,Dublin 1,q3,80%
+13/03/2019,"49 Greeg Court, Parnell St, Dublin 1",Dublin,245000.0,No,Parnell St,Dublin 1,q4,80%
+20/03/2019,"Apt 124, Ivy Exchange, Parnell St Dublin 1",Dublin,415000.0,No,Parnell St,Dublin 1,q4,100%
+22/03/2019,"Apt 10, 109 Parnell St, Dublin",Dublin,215000.0,No,Parnell St,Dublin 1,q3,70%
+26/03/2019,"Apt 125, 109 Parnell St, Dublin 1",Dublin,205000.0,No,Parnell St,Dublin 1,q3,70%
+12/04/2019,"1 -5, 79 Parnell Street, Dublin 1",Dublin,585000.0,No,Parnell St,Dublin 1,q4,100%
+16/04/2019,"91 Gregg Court, Parnell St, Dublin",Dublin,325000.0,No,Parnell St,Dublin 1,q4,90%
+17/04/2019,"37 Kingscourt, Parnell Street, Dublin 1",Dublin,200000.0,No,Parnell St,Dublin 1,q3,70%
+18/04/2019,"56 Kingscourt, Parnell Street, Dublin 1",Dublin,202500.0,No,Parnell St,Dublin 1,q3,70%
+18/04/2019,"Apt 85, Kings Court, Parnell St",Dublin,360000.0,No,Parnell St,Dublin 1,q4,100%
+09/05/2019,"178 Ivy Exchange, Parnell St, Dublin 1",Dublin,365000.0,No,Parnell St,Dublin 1,q4,100%
+10/05/2019,"10 Temple Hall, Parnell St, Dublin 1",Dublin,305000.0,No,Parnell St,Dublin 1,q4,90%
+16/05/2019,"44 Ivy Exchange, Parnell St, Dublin 1",Dublin,490000.0,No,Parnell St,Dublin 1,q4,100%
+21/05/2019,"10 Ivy Exchange, Parnell St, Dublin 1",Dublin,380000.0,No,Parnell St,Dublin 1,q4,100%
+31/05/2019,"87 Parnell Street, Dublin 1",Dublin,200000.0,No,Parnell St,Dublin 1,q3,70%
+19/07/2019,"55Kingscourt, Parnell St, Dublin 1",Dublin,350000.0,No,Parnell St,Dublin 1,q4,100%
+07/08/2019,"69 Greeg Court, Parnell St, Dublin 1",Dublin,315000.0,No,Parnell St,Dublin 1,q4,90%
+08/08/2019,"116 Greeg Court, Parnell Street, Dublin 2",Dublin,335000.0,No,Parnell St,Dublin 1,q4,100%
+05/09/2019,"35 Greeg Court, Parnell St, Dublin 1",Dublin,337000.0,No,Parnell St,Dublin 1,q4,100%
+12/09/2019,"90 Gregg Court, Parnell St, Dublin 1",Dublin,490000.0,No,Parnell St,Dublin 1,q4,100%
+16/09/2019,"1 Stewart House, Parnell St, Dublin",Dublin,280000.0,No,Parnell St,Dublin 1,q4,90%
+26/09/2019,"5A Parnell Place, Parnell St, Dublin 1",Dublin,145000.0,No,Parnell St,Dublin 1,q2,40%
+10/10/2019,"66 Stewart Hall, Parnell St, Dublin 1",Dublin,238000.0,No,Parnell St,Dublin 1,q3,80%

@@ -1,0 +1,103 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+15/03/2010,"51 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,285000.0,Yes,North Wall,Dublin 1,q3,60%
+29/04/2010,"48 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,165000.0,Yes,North Wall,Dublin 1,q1,20%
+22/06/2010,"Apartment 8 Longford House, Spencer Dock, North Wall Quay",Dublin,205000.0,No,North Wall,Dublin 1,q2,30%
+14/07/2010,"Apt 50 Cloncurry House, Spencer Dock, North Wall Quay  Dublin 2",Dublin,193000.0,Yes,North Wall,Dublin 1,q1,30%
+21/07/2010,"Apartment 30, Cloncurry House  Spencer Dock, North Wall Quay  Dublin 1",Dublin,200000.0,Yes,North Wall,Dublin 1,q1,30%
+06/08/2010,"92 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,246696.04,Yes,North Wall,Dublin 1,q2,40%
+17/09/2010,"Apartment 67 Baltrasna House, Spencer Dock, North Wall Quay  Dublin 1",Dublin,165000.0,Yes,North Wall,Dublin 1,q1,20%
+23/09/2010,"65 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,172000.0,No,North Wall,Dublin 1,q1,20%
+20/10/2010,"31  Baltrasna House, Spencer Dock, North Wall Quay",Dublin,172000.0,Yes,North Wall,Dublin 1,q1,20%
+22/10/2010,"Apartment No. 68, Hill Of Down House Spencer Dock, North Wall Quay",Dublin,170000.0,No,North Wall,Dublin 1,q1,20%
+27/10/2010,"Unit 8 Saunders House, Spencer Dock, North Wall Quay",Dublin,308370.0,Yes,North Wall,Dublin 1,q3,80%
+21/12/2010,"Apt 2  Longford House, Spencer Dock, North Wall Quay",Dublin,195000.0,No,North Wall,Dublin 1,q1,30%
+04/01/2011,"Apartment 24 Baltrasna House, Spencer Dock, North Wall Quay",Dublin,290500.0,No,North Wall,Dublin 1,q3,70%
+21/01/2011,"Apt 9  Longford House, Spencer Dock, North Wall Quay",Dublin,202950.0,No,North Wall,Dublin 1,q2,30%
+26/01/2011,"33 Saunders House, Spencer Dock, North Wall Quay",Dublin,340000.0,Yes,North Wall,Dublin 1,q4,80%
+09/02/2011,"Unit 1. Riverstown House, Spencer Dock, North Wall Quay",Dublin,220264.0,Yes,North Wall,Dublin 1,q2,40%
+21/02/2011,"62 Kirkpatrick House, North Wall Quay, Dublin 1",Dublin,300000.0,No,North Wall,Dublin 1,q3,70%
+23/02/2011,"18 Killashee House, Spencer Dock, North Wall Quay",Dublin,260000.0,Yes,North Wall,Dublin 1,q2,50%
+01/03/2011,"Apt 58 Saunders House, Spencer Dock, North Wall Quay",Dublin,170000.0,No,North Wall,Dublin 1,q1,20%
+26/07/2011,"25 Riverstown House, Spencer Dock, North Wall Quay",Dublin,237885.0,Yes,North Wall,Dublin 1,q2,40%
+11/11/2011,"13 Saunders House, Spencer Dock, North Wall",Dublin,251200.0,Yes,North Wall,Dublin 1,q2,50%
+20/12/2011,"Apt. 7 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,180000.0,No,North Wall,Dublin 1,q1,20%
+22/12/2011,"4 Killashee House, Spencer Dock, North Wall Quay",Dublin,135000.0,Yes,North Wall,Dublin 1,q1,10%
+05/04/2012,"37  Kirkpatrick House, Spenver Dock, North Wall Quay",Dublin,140000.0,No,North Wall,Dublin 1,q1,10%
+20/04/2012,"10 New Wapping Street, North Wall",Dublin,100000.0,No,North Wall,Dublin 1,q1,10%
+08/06/2012,"Apt.18  Blackwater House, North Wall Quay",Dublin,180000.0,No,North Wall,Dublin 1,q1,20%
+17/12/2012,"2 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,144000.0,No,North Wall,Dublin 1,q1,10%
+19/12/2012,"5 Killashee House, Spencer Dock, North Wall Quay",Dublin,137000.0,No,North Wall,Dublin 1,q1,10%
+20/12/2012,"72 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,259912.0,Yes,North Wall,Dublin 1,q2,50%
+21/12/2012,"42 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,250000.0,Yes,North Wall,Dublin 1,q2,50%
+10/01/2013,"62 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,290000.0,No,North Wall,Dublin 1,q3,60%
+14/01/2013,"Apt. 45 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,260000.0,Yes,North Wall,Dublin 1,q2,50%
+23/01/2013,"Unit 3 Blackwater House, Spencer Dock, North Wall Quay",Dublin,140000.0,No,North Wall,Dublin 1,q1,10%
+08/02/2013,"88 East Road, North Wall, Dublin 3",Dublin,115000.0,No,North Wall,Dublin 1,q1,10%
+13/02/2013,"89 Kirkpatrick House, Spencer Dock, North Wall",Dublin,216000.0,Yes,North Wall,Dublin 1,q2,30%
+01/03/2013,"79 Hill Of Down House, Spencer Dock, North Wall Quay",Dublin,300000.0,No,North Wall,Dublin 1,q3,70%
+11/03/2013,"20 Packenham House, Spencer Dock, North Wall Quay",Dublin,303964.0,Yes,North Wall,Dublin 1,q3,80%
+07/06/2013,"1 New Wapping Street, North Wall",Dublin,195000.0,No,North Wall,Dublin 1,q1,30%
+01/08/2013,"31 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,300000.0,No,North Wall,Dublin 1,q3,70%
+09/08/2013,"26 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,273127.75,Yes,North Wall,Dublin 1,q3,60%
+09/09/2013,"68 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,307500.0,No,North Wall,Dublin 1,q3,80%
+19/09/2013,"Apt 39 Hill Of Down House, Spencer Dock, North Wall Quay",Dublin,299000.0,No,North Wall,Dublin 1,q3,70%
+08/10/2013,"Apt 473 Castleforbes Square, Block K  North Wall Quay, Dublin 1",Dublin,230000.0,No,North Wall,Dublin 1,q2,40%
+18/10/2013,"Apartment 75 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,150000.0,Yes,North Wall,Dublin 1,q1,20%
+30/10/2013,"35 Hill Of Down House, Spencer Dock, North Wall Quay",Dublin,300000.0,Yes,North Wall,Dublin 1,q3,70%
+31/10/2013,"Apt 68, Packenham House, North Wall Quay",Dublin,259912.0,Yes,North Wall,Dublin 1,q2,50%
+08/11/2013,"41 Pakenham House, Spencer Dock, North Wall Quay",Dublin,290000.0,Yes,North Wall,Dublin 1,q3,60%
+25/11/2013,"1 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,128634.36,Yes,North Wall,Dublin 1,q1,10%
+28/11/2013,"Apt 15 Block 7, Clarion Quay, North Wall Quay Dublin 1",Dublin,220000.0,No,North Wall,Dublin 1,q2,40%
+29/11/2013,"8 Kirkpatrick House, North Wall Quay",Dublin,129515.41,Yes,North Wall,Dublin 1,q1,10%
+23/01/2014,"Apt 60 Pakenham House, Spencer Dock, North Wall Quay",Dublin,285000.0,No,North Wall,Dublin 1,q3,60%
+13/02/2014,"Apt 11  Block 1, Clarion Quay, North Wall Quay",Dublin,420000.0,No,North Wall,Dublin 1,q4,90%
+25/02/2014,"61 Baltrasna House, Spencer Dock, North Wall Quay Dublin 1",Dublin,301500.0,No,North Wall,Dublin 1,q3,80%
+28/02/2014,"Apartment 26 Saunders House, Spencer Dock, North Wall Quay",Dublin,270000.0,No,North Wall,Dublin 1,q3,60%
+13/03/2014,"Apartment 51 Hill Of Down House, Spencer Dock, North Wall Quay",Dublin,148018.0,Yes,North Wall,Dublin 1,q1,20%
+13/03/2014,"Apartment 88 Hill Of Down House, Spencer Dock, North Wall Quay",Dublin,264581.0,Yes,North Wall,Dublin 1,q3,60%
+26/03/2014,"20 Saunders House, Spencer Dock, North Wall Quay",Dublin,247807.5,Yes,North Wall,Dublin 1,q2,40%
+08/05/2014,"Apartment 23 Saunders House, Spencer Dock, North Wall Quay",Dublin,295000.0,Yes,North Wall,Dublin 1,q3,70%
+22/05/2014,"Apt 58 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,300000.0,No,North Wall,Dublin 1,q3,70%
+23/05/2014,"28 Baltrasna House, North Wall Quay",Dublin,303964.0,Yes,North Wall,Dublin 1,q3,80%
+20/06/2014,"2 Packenham House, Spencer Dock, North Wall Quay",Dublin,310000.0,Yes,North Wall,Dublin 1,q4,80%
+23/06/2014,"18 Copebridge House, Spencer Dock, North Wall Quay",Dublin,198238.0,Yes,North Wall,Dublin 1,q1,30%
+29/09/2014,"54 Third Ave, Seville Place, North Wall Dublin 1",Dublin,95000.0,No,North Wall,Dublin 1,q1,10%
+29/09/2014,"66 Pakenham House, Spencer Dock, North Wall Quay",Dublin,246700.0,Yes,North Wall,Dublin 1,q2,40%
+06/10/2014,"25 Saunders House, Spencer Dock, North Wall Quay",Dublin,285000.0,No,North Wall,Dublin 1,q3,60%
+17/10/2014,"Apartment 73 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,361233.0,Yes,North Wall,Dublin 1,q4,80%
+28/10/2014,"53 Pakenham House, Spencer Dock, North Wall Quay",Dublin,770925.11,Yes,North Wall,Dublin 1,q4,100%
+12/11/2014,"Apt.33  - Baltrasna House, Spencer Dock, North Wall Quay",Dublin,270000.0,No,North Wall,Dublin 1,q3,60%
+12/11/2014,"Apt.5  - Saunders House, Spencer Dock, North Wall Quay",Dublin,270000.0,No,North Wall,Dublin 1,q3,60%
+27/11/2014,"45 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,520000.0,No,North Wall,Dublin 1,q4,100%
+13/03/2015,"3 New Wapping St, North Wall, Dublin 1",Dublin,235000.0,No,North Wall,Dublin 1,q2,40%
+30/03/2015,"29 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,335000.0,No,North Wall,Dublin 1,q4,80%
+07/09/2015,"60 Saunders House, Spencer Dock, North Wall Quay",Dublin,430000.0,No,North Wall,Dublin 1,q4,90%
+23/09/2015,"Apartment 26 Hill Of Down House, Spencer Dock, North Wall Quay",Dublin,502202.64,Yes,North Wall,Dublin 1,q4,100%
+13/11/2015,"22 Saunders House, Spencer Dock, North Wall Quay",Dublin,466960.35,Yes,North Wall,Dublin 1,q4,100%
+19/11/2015,"74 Packenham House, Spencer Dock, North Wall Quay",Dublin,260000.0,Yes,North Wall,Dublin 1,q2,50%
+08/12/2015,"59 Baltrasna House, Spencer Dock, North Wall Quay",Dublin,255000.0,No,North Wall,Dublin 1,q2,50%
+20/01/2016,"46  Saunders House, Spencer Dock, North Wall Quay",Dublin,422000.0,Yes,North Wall,Dublin 1,q4,90%
+25/01/2016,"45 Cloncurry House, Spencer Dock, North Wall Quay",Dublin,725000.0,No,North Wall,Dublin 1,q4,100%
+27/01/2016,"16 Hill Of Down, Spencer Dock, North Wall Quay",Dublin,450000.0,No,North Wall,Dublin 1,q4,100%
+29/02/2016,"4 Castleforbes Rd, North Wall, Dublin 1",Dublin,253000.0,No,North Wall,Dublin 1,q2,50%
+03/03/2016,"Apt 28 Hill Of Down House, Spencer Dock, North Wall Quay",Dublin,299559.47,Yes,North Wall,Dublin 1,q3,70%
+04/03/2016,"72 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,218502.0,Yes,North Wall,Dublin 1,q2,30%
+12/04/2016,"5 Cloncurry House, Spencer Dock, North Wall Dublin 1",Dublin,245000.0,No,North Wall,Dublin 1,q2,40%
+16/06/2016,"28 Pakenham House, Spencer Dock, North Wall Quay",Dublin,430000.0,Yes,North Wall,Dublin 1,q4,90%
+11/10/2016,"1 Alexandra Terrace, Castleforbes Road, North Wall",Dublin,108333.0,No,North Wall,Dublin 1,q1,10%
+18/11/2016,"26 Saunders House, Spencer Dock, North Wall Quay",Dublin,401000.0,No,North Wall,Dublin 1,q4,90%
+21/12/2016,"20 Baltrasna House, Spencer Dock, North Wall Quay",Dublin,388546.26,Yes,North Wall,Dublin 1,q4,90%
+10/04/2017,"6 Block 12 Clarion Quay, North Wall Quay, I F S C Dublin 1",Dublin,375000.0,No,North Wall,Dublin 1,q4,80%
+21/04/2017,"54 Third Avenue, Seville Place, North Wall",Dublin,239000.0,No,North Wall,Dublin 1,q2,40%
+03/07/2017,"163 Upper Sheriff St, North Wall, Dublin 1",Dublin,650000.0,No,North Wall,Dublin 1,q4,100%
+24/08/2017,"41 Second Ave, Seville Place, North Wall Dublin 1",Dublin,216000.0,No,North Wall,Dublin 1,q2,30%
+15/12/2017,"95 Kirkpatrick House, Spencer Dock, North Wall Dublin 1",Dublin,377500.0,No,North Wall,Dublin 1,q4,90%
+19/12/2017,"3 Kirkpatrick House, Spencer Dock, North Wall Dublin 1",Dublin,375000.0,No,North Wall,Dublin 1,q4,90%
+12/03/2018,"21 Packenham House, Spencer Dock, North Wall Quay",Dublin,437500.0,No,North Wall,Dublin 1,q4,100%
+20/03/2018,"Apt 28 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,452894.0,No,North Wall,Dublin 1,q4,100%
+22/03/2018,"20 Kirkpatrick House, Spencer Dock, North Wall Quay",Dublin,390000.0,No,North Wall,Dublin 1,q4,90%
+19/04/2018,"60 Baltrasna House, Spencer Dock, North Wall",Dublin,430000.0,No,North Wall,Dublin 1,q4,90%
+23/10/2018,"27 Saunders House, Spencer Dock, North Wall Quay Dublin 1",Dublin,470000.0,No,North Wall,Dublin 1,q4,100%
+22/11/2018,"7 Church Place, North Wall, Dublin 3",Dublin,295000.0,No,North Wall,Dublin 1,q3,70%
+08/04/2019,"89 Hill Of Down House, Spencer Dock, North Wall Dublin 1",Dublin,435000.0,No,North Wall,Dublin 1,q4,100%
+10/10/2019,"Apt 5 Kilashee House, Spencer Dock Apts, North Wall",Dublin,260000.0,No,North Wall,Dublin 1,q2,50%

@@ -1,0 +1,381 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+11/02/2010,"5 Sycamore Crescent, Mount Merrion",Dublin,815000.0,No,Mount Merrion,Co. Dublin,q3,70%
+26/02/2010,"62 Deerpark Road, Mount Merrion",Dublin,780000.0,No,Mount Merrion,Co. Dublin,q3,70%
+02/03/2010,"8 Sycamore Road, Mount Merrion",Dublin,782000.0,No,Mount Merrion,Co. Dublin,q3,70%
+15/03/2010,"18 Sycamore Crescent, Mount Merrion",Dublin,793000.0,No,Mount Merrion,Co. Dublin,q3,70%
+26/03/2010,"18 Cedarmount Road, Mount Merrion",Dublin,632000.0,No,Mount Merrion,Co. Dublin,q2,50%
+07/04/2010,"67 Belfield Park, Stillorgan Road, Mount Merrion",Dublin,290000.0,No,Mount Merrion,Co. Dublin,q1,20%
+09/04/2010,"25 Mather Road, Mount Merrion",Dublin,990000.0,No,Mount Merrion,Co. Dublin,q4,90%
+14/04/2010,"49 Trees Road, Mount Merrion, Co.Dublin",Dublin,640000.0,No,Mount Merrion,Co. Dublin,q2,50%
+30/04/2010,"83 Foster Avenue, Mount Merrion",Dublin,847500.0,No,Mount Merrion,Co. Dublin,q3,80%
+30/04/2010,"Apartment 54 Third Floor, The Pavillion  Roebuck Hill, Roebuck Road  Mount Merrion",Dublin,380000.0,No,Mount Merrion,Co. Dublin,q1,20%
+05/05/2010,"100 Belfield Park, Stillorgan Road, Mount Merrion",Dublin,276000.0,No,Mount Merrion,Co. Dublin,q1,10%
+17/05/2010,"78 Trees Road, Mount Merrion, County Dublin",Dublin,770000.0,No,Mount Merrion,Co. Dublin,q3,70%
+18/05/2010,"20 Trees Road, Mount Merrion, County Dublin",Dublin,715000.0,No,Mount Merrion,Co. Dublin,q3,60%
+28/05/2010,"18 The Rise, Mount Merrion",Dublin,846000.0,No,Mount Merrion,Co. Dublin,q3,80%
+28/05/2010,"51 Trees Road, Mount Merrion",Dublin,580000.0,No,Mount Merrion,Co. Dublin,q2,50%
+28/05/2010,"69 South Avenue, Mount Merrion, Co. Dublin",Dublin,565000.0,No,Mount Merrion,Co. Dublin,q2,40%
+03/06/2010,"38  Wilson Road, Mount Merrion, County Dublin",Dublin,770000.0,No,Mount Merrion,Co. Dublin,q3,70%
+18/06/2010,"96A Trees Road Upper, Mount Merrion",Dublin,624500.0,No,Mount Merrion,Co. Dublin,q2,50%
+30/06/2010,"9 Thornhill Road, Mount Merrion, Co. Dublin",Dublin,520000.0,No,Mount Merrion,Co. Dublin,q2,40%
+05/08/2010,"54 Redesdale Road, Mount Merrion, Co. Dublin",Dublin,580000.0,No,Mount Merrion,Co. Dublin,q2,50%
+06/08/2010,"No 21 Thornhill Road, Mount Merrion",Dublin,550000.0,No,Mount Merrion,Co. Dublin,q2,40%
+25/08/2010,"33 South Avenue, Mount Merrion",Dublin,535000.0,No,Mount Merrion,Co. Dublin,q2,40%
+27/08/2010,"Apartment 7 The Concourse, Roebuck Hill, Roebuck Road  Mount Merrion",Dublin,225000.0,No,Mount Merrion,Co. Dublin,q1,10%
+03/09/2010,"Apartment No. 1  Block 1, The Elms, Mount Merrion Avenue  Blackrock",Dublin,205000.0,No,Mount Merrion,Co. Dublin,q1,10%
+06/09/2010,"49 Clonmore Road, Mount Merrion",Dublin,585000.0,No,Mount Merrion,Co. Dublin,q2,50%
+10/09/2010,"Apartment 41, Bel;Field Park, Mount Merrion",Dublin,305000.0,No,Mount Merrion,Co. Dublin,q1,20%
+04/11/2010,"26 Redesdale Road, Mount Merrion",Dublin,545000.0,No,Mount Merrion,Co. Dublin,q2,40%
+16/11/2010,"Apt. 15 The Elms, Mount Merrion, Co. Dublin",Dublin,335000.0,No,Mount Merrion,Co. Dublin,q1,20%
+10/12/2010,"87 The Rise, Mount Merrion",Dublin,609500.0,No,Mount Merrion,Co. Dublin,q2,50%
+19/01/2011,"19 Glenabbey Road, Mount Merrion, Dublin",Dublin,650000.0,No,Mount Merrion,Co. Dublin,q2,50%
+02/02/2011,"50 North Avenue, Mount Merrion",Dublin,618000.0,No,Mount Merrion,Co. Dublin,q2,50%
+28/02/2011,"Apartment 79  The Elms, Mount Merrion Ave.  Blackrock",Dublin,417500.0,No,Mount Merrion,Co. Dublin,q2,30%
+20/04/2011,"14 Cedarmount Road, Mount Merrion",Dublin,450000.0,No,Mount Merrion,Co. Dublin,q2,30%
+21/04/2011,"60 Cedarmount Road, Mount Merrion",Dublin,421000.0,No,Mount Merrion,Co. Dublin,q2,30%
+27/04/2011,"Goretti, 8 Trees Avenue, Mount Merrion",Dublin,665000.0,No,Mount Merrion,Co. Dublin,q3,60%
+23/05/2011,"36 North Avenue, Mount Merrion",Dublin,620000.0,No,Mount Merrion,Co. Dublin,q2,50%
+27/05/2011,"79 Fosters Avenue, Mount Merrion",Dublin,900000.0,No,Mount Merrion,Co. Dublin,q4,80%
+16/06/2011,"58 Cedarmount Road, Mount Merrion",Dublin,420000.0,No,Mount Merrion,Co. Dublin,q2,30%
+23/06/2011,"52 South Avenue, Mount Merrion, Dublin",Dublin,570000.0,No,Mount Merrion,Co. Dublin,q2,40%
+06/07/2011,"2 Trees Avenue, Mount Merrion",Dublin,1100000.0,No,Mount Merrion,Co. Dublin,q4,100%
+14/07/2011,"Apartment Number 43, Wood View, Mount Merrion Avenue  Blackrock",Dublin,390000.0,No,Mount Merrion,Co. Dublin,q1,20%
+26/07/2011,"4 Callary Road, Mount Merrion",Dublin,635000.0,No,Mount Merrion,Co. Dublin,q2,50%
+03/08/2011,"'Clara'  38 North Avenue, Mount Merrion",Dublin,664000.0,No,Mount Merrion,Co. Dublin,q3,60%
+31/08/2011,"18 Redesdale Road, Mount Merrion, Co. Dublin",Dublin,405000.0,No,Mount Merrion,Co. Dublin,q1,30%
+02/09/2011,"119 The Rise, Mount Merrion, Dublin",Dublin,577500.0,No,Mount Merrion,Co. Dublin,q2,50%
+07/09/2011,"44 Redesdale Road, Mount Merrion, Co. Dublin.",Dublin,480000.0,No,Mount Merrion,Co. Dublin,q2,40%
+13/09/2011,"2 The Fosters, Fosters Avenue, Mount Merrion",Dublin,580000.0,No,Mount Merrion,Co. Dublin,q2,50%
+21/09/2011,"24 Greenfield Road, Mount Merrion",Dublin,645000.0,No,Mount Merrion,Co. Dublin,q2,50%
+26/09/2011,"31 Glenabbey Road, Mount Merrion",Dublin,612000.0,No,Mount Merrion,Co. Dublin,q2,50%
+29/09/2011,"38 Trees Road, Mount Merrion, Dublin",Dublin,905000.0,No,Mount Merrion,Co. Dublin,q4,90%
+10/10/2011,"95 The Rise, Mount Merrion",Dublin,642000.0,No,Mount Merrion,Co. Dublin,q2,50%
+20/10/2011,"7  Glenabbey Rd, Mount Merrion",Dublin,610000.0,No,Mount Merrion,Co. Dublin,q2,50%
+21/10/2011,"44 Wilson Road, Mount Merrion",Dublin,410000.0,No,Mount Merrion,Co. Dublin,q1,30%
+02/11/2011,"70 Thornhill Road, Mount Merrion, Dublin",Dublin,450000.0,No,Mount Merrion,Co. Dublin,q2,30%
+21/11/2011,"Apartment 95 Block 4, Seamount Stillorgan Road, Mount Merrion",Dublin,300000.0,No,Mount Merrion,Co. Dublin,q1,20%
+23/11/2011,"53 Callary Road, Mount Merrion",Dublin,500000.0,No,Mount Merrion,Co. Dublin,q2,40%
+24/11/2011,"40 Glenabbey Road, Mount Merrion, Dublin",Dublin,200000.0,No,Mount Merrion,Co. Dublin,q1,10%
+25/11/2011,"13 Deerpark Road, Mount Merrion",Dublin,475000.0,No,Mount Merrion,Co. Dublin,q2,40%
+25/11/2011,"45 Redesdale Road, Mount Merrion",Dublin,405000.0,No,Mount Merrion,Co. Dublin,q1,30%
+01/12/2011,"36 Ardilea Downs, Mount Merrion",Dublin,553500.0,No,Mount Merrion,Co. Dublin,q2,40%
+08/12/2011,"12 Wilson Road, Mount Merrion",Dublin,365000.0,No,Mount Merrion,Co. Dublin,q1,20%
+16/12/2011,"62 Redesdale Road, Mount Merrion",Dublin,415000.0,No,Mount Merrion,Co. Dublin,q1,30%
+22/12/2011,"120 Upper Trees Road, Mount Merrion",Dublin,430000.0,No,Mount Merrion,Co. Dublin,q2,30%
+04/01/2012,"32 Cedarmount Road, Mount Merrion",Dublin,401000.0,No,Mount Merrion,Co. Dublin,q1,30%
+16/01/2012,"51 Cedarmount Road, Mount Merrion",Dublin,360000.0,No,Mount Merrion,Co. Dublin,q1,20%
+17/01/2012,"4 Redesdale Court, Mount Merrion",Dublin,255000.0,No,Mount Merrion,Co. Dublin,q1,10%
+20/01/2012,"29 St. Thomas Road, Mount Merrion",Dublin,800000.0,No,Mount Merrion,Co. Dublin,q3,70%
+24/01/2012,"31 Greygates, Mount Merrion",Dublin,400000.0,No,Mount Merrion,Co. Dublin,q1,30%
+15/03/2012,"49  Seamount, Stillorgan Road, Mount Merrion",Dublin,275000.0,No,Mount Merrion,Co. Dublin,q1,10%
+21/03/2012,"Apartment 95, Seamount, Stillorgan Road  Mount Merrion",Dublin,300000.0,No,Mount Merrion,Co. Dublin,q1,20%
+30/03/2012,"45 Cedarmount Road, Mount Merrion",Dublin,380000.0,No,Mount Merrion,Co. Dublin,q1,20%
+18/04/2012,"35 Redesdale Road, Mount Merrion, Co. Dublin",Dublin,395000.0,No,Mount Merrion,Co. Dublin,q1,30%
+01/05/2012,"44 Callary Road, Mount Merrion",Dublin,499000.0,No,Mount Merrion,Co. Dublin,q2,40%
+04/05/2012,"42 Greygates, Mount Merrion",Dublin,449950.0,No,Mount Merrion,Co. Dublin,q2,30%
+25/05/2012,"20 Callary Road, Mount Merrion",Dublin,515000.0,No,Mount Merrion,Co. Dublin,q2,40%
+30/05/2012,"15 Redesdale Road, Mount Merrion, Dublin",Dublin,395000.0,No,Mount Merrion,Co. Dublin,q1,30%
+01/06/2012,"Apartment 44 Seamount, Stillorgan Road, Mount Merrion",Dublin,140000.0,No,Mount Merrion,Co. Dublin,q1,10%
+06/06/2012,"Thornhill House, Cherry Garth, Mount Merrion",Dublin,2000000.0,No,Mount Merrion,Co. Dublin,q4,100%
+07/06/2012,"56 Redesdale Road, Mount Merrion",Dublin,496000.0,No,Mount Merrion,Co. Dublin,q2,40%
+11/06/2012,"44 Greygates, Mount Merrion",Dublin,530000.0,No,Mount Merrion,Co. Dublin,q2,40%
+15/06/2012,"17 Greenfield Road, Mount Merrion",Dublin,515000.0,No,Mount Merrion,Co. Dublin,q2,40%
+22/06/2012,"44 Block 3 Seamount, Stillorgan Road, Mount Merrion",Dublin,146000.0,No,Mount Merrion,Co. Dublin,q1,10%
+13/07/2012,"5 Owenstown Lodge, Fosters Avenue, Mount Merrion",Dublin,123000.0,No,Mount Merrion,Co. Dublin,q1,10%
+18/07/2012,"Laragh, 21 Thomas Road, Mount Merrion",Dublin,670000.0,No,Mount Merrion,Co. Dublin,q3,60%
+20/07/2012,"38 Redesdale Road, Mount Merrion, Co Dublin",Dublin,370000.0,No,Mount Merrion,Co. Dublin,q1,20%
+20/07/2012,"6 North Avenue, Mount Merrion",Dublin,651000.0,No,Mount Merrion,Co. Dublin,q3,60%
+20/07/2012,"75 Trees Road  Upper, Mount Merrion",Dublin,595000.0,No,Mount Merrion,Co. Dublin,q2,50%
+29/08/2012,"48 The Rise, Mount Merrion",Dublin,680000.0,No,Mount Merrion,Co. Dublin,q3,60%
+06/09/2012,"40 Mount Merrion Avenue, Mount Merrion",Dublin,940000.0,No,Mount Merrion,Co. Dublin,q4,90%
+13/09/2012,"10 St Thomas Mead, Mount Merrion",Dublin,555000.0,No,Mount Merrion,Co. Dublin,q2,40%
+18/09/2012,"17 Chestnut Road, Mount Merrion",Dublin,675000.0,No,Mount Merrion,Co. Dublin,q3,60%
+20/09/2012,"5 The Close, Mount Merrion",Dublin,373500.0,No,Mount Merrion,Co. Dublin,q1,20%
+25/09/2012,"51 North Avenue, Mount Merrion",Dublin,620000.0,No,Mount Merrion,Co. Dublin,q2,50%
+01/10/2012,"8 Thornhill Road, Mount Merrion, County Dublin",Dublin,650000.0,No,Mount Merrion,Co. Dublin,q2,50%
+04/10/2012,"5 Dualla  Court, Stillorgan Road, Mount Merrion",Dublin,360000.0,No,Mount Merrion,Co. Dublin,q1,20%
+05/10/2012,"4 St Thomas Road, Mount Merrion",Dublin,735000.0,No,Mount Merrion,Co. Dublin,q3,70%
+12/10/2012,"4 Owenstown Park, Off Fosters Avenue, Mount Merrion",Dublin,700000.0,No,Mount Merrion,Co. Dublin,q3,60%
+16/10/2012,"Apartment 56, The Elms, Mount Merrion Avenue",Dublin,261000.0,No,Mount Merrion,Co. Dublin,q1,10%
+19/10/2012,"47 North Avenue, Mount Merrion",Dublin,795000.0,No,Mount Merrion,Co. Dublin,q3,70%
+07/11/2012,"34 Fosters Avenue, Mount Merrion",Dublin,540000.0,No,Mount Merrion,Co. Dublin,q2,40%
+14/11/2012,"1 Clonmore Road, Mount Merrion",Dublin,624000.0,No,Mount Merrion,Co. Dublin,q2,50%
+15/11/2012,"34 Glenabbey Road, Mount Merrion, Co.Dublin",Dublin,448000.0,No,Mount Merrion,Co. Dublin,q2,30%
+19/11/2012,"37 Deerpark Road, Mount Merrion, Co Dublin",Dublin,500000.0,No,Mount Merrion,Co. Dublin,q2,40%
+22/11/2012,"42 Thornhill Road, Mount Merrion",Dublin,535000.0,No,Mount Merrion,Co. Dublin,q2,40%
+29/11/2012,"76 Trees Road, Mount Merrion",Dublin,730000.0,No,Mount Merrion,Co. Dublin,q3,70%
+04/12/2012,"Apt 10 The Concourse, Roebuck Road  Mount Merrion, Dublin 14",Dublin,210000.0,No,Mount Merrion,Co. Dublin,q1,10%
+06/12/2012,"16 Glen Abbey Road, Mount Merrion, Co. Dublin",Dublin,459000.0,No,Mount Merrion,Co. Dublin,q2,30%
+14/12/2012,"4 Trees Avenue, Mount Merrion",Dublin,830000.0,No,Mount Merrion,Co. Dublin,q3,80%
+14/12/2012,"60 Glenabbey Road, Mount Merrion",Dublin,580000.0,No,Mount Merrion,Co. Dublin,q2,50%
+17/12/2012,"Dunoon, Trees Avenue, Mount Merrion",Dublin,945000.0,No,Mount Merrion,Co. Dublin,q4,90%
+18/12/2012,"20 Greenfield, Mount Merrion",Dublin,1180000.0,No,Mount Merrion,Co. Dublin,q4,100%
+19/12/2012,"78 The Reeks, Foster Avenue, Mount Merrion",Dublin,690000.0,No,Mount Merrion,Co. Dublin,q3,60%
+19/12/2012,"Devlis, Roebuck Avenue, Mount Merrion",Dublin,800000.0,No,Mount Merrion,Co. Dublin,q3,70%
+11/01/2013,"34 Deerpark Road, Mount Merrion",Dublin,555000.0,No,Mount Merrion,Co. Dublin,q2,40%
+21/01/2013,"10 Glenvar, Clonfadda Wood, Mount Merrion",Dublin,510000.0,No,Mount Merrion,Co. Dublin,q2,40%
+29/01/2013,"Apt 103, The Atrium  Roebuck Hill, Mount Merrion",Dublin,270000.0,No,Mount Merrion,Co. Dublin,q1,10%
+08/02/2013,"17 Thornhill Road, Mount Merrion",Dublin,520000.0,No,Mount Merrion,Co. Dublin,q2,40%
+15/02/2013,"8 Clonmore Road, Mount Merrion",Dublin,800000.0,No,Mount Merrion,Co. Dublin,q3,70%
+19/02/2013,"12 Clonmore Road, Mount Merrion",Dublin,567000.0,No,Mount Merrion,Co. Dublin,q2,40%
+25/03/2013,"117 Belfield Park, Stillorgan Road, Mount Merrion",Dublin,110000.0,No,Mount Merrion,Co. Dublin,q1,10%
+27/03/2013,"31 St Thomas Road, Mount Merrion",Dublin,650000.0,No,Mount Merrion,Co. Dublin,q2,50%
+16/05/2013,"Apt 31  The Promenade, Roebuck Hill, Mount Merrion",Dublin,275000.0,No,Mount Merrion,Co. Dublin,q1,10%
+23/05/2013,"38 Mather Road North, Mount Merrion",Dublin,635000.0,No,Mount Merrion,Co. Dublin,q2,50%
+30/05/2013,"56 The Rise, Mount Merrion",Dublin,900000.0,No,Mount Merrion,Co. Dublin,q4,80%
+18/06/2013,"Apt 26, Roebuck Hill, Mount Merrion",Dublin,300000.0,No,Mount Merrion,Co. Dublin,q1,20%
+21/06/2013,"18 Trees Road, Mount Merrion, Co. Dublin",Dublin,550000.0,No,Mount Merrion,Co. Dublin,q2,40%
+28/06/2013,"8  Trees Road, Mount Merrion",Dublin,632467.0,No,Mount Merrion,Co. Dublin,q2,50%
+03/07/2013,"125 The Rise, Mount Merrion, Co. Dublin",Dublin,1335000.0,No,Mount Merrion,Co. Dublin,q4,100%
+03/07/2013,"25 The Elms, Mount Merrion Avenue, Dublin",Dublin,190000.0,No,Mount Merrion,Co. Dublin,q1,10%
+05/07/2013,"12 Callary Road, Mount Merrion",Dublin,490000.0,No,Mount Merrion,Co. Dublin,q2,40%
+12/07/2013,"10  Glenabbey Rd, Mount Merrion",Dublin,805000.0,No,Mount Merrion,Co. Dublin,q3,70%
+16/07/2013,"Apt. 37 The Pavillion, Roebuck Hill, Roebuck Road  Mount Merrion",Dublin,168000.0,Yes,Mount Merrion,Co. Dublin,q1,10%
+18/07/2013,"Apartment 72, The Elms, Mount Merrion",Dublin,231000.0,No,Mount Merrion,Co. Dublin,q1,10%
+19/07/2013,"36 Callary Road, Mount Merrion",Dublin,465000.0,No,Mount Merrion,Co. Dublin,q2,30%
+01/08/2013,"4 Thornhill Road, Mount Merrion",Dublin,438750.0,No,Mount Merrion,Co. Dublin,q2,30%
+21/08/2013,"14 Thornhill Road, Mount Merrion",Dublin,290000.0,No,Mount Merrion,Co. Dublin,q1,20%
+29/08/2013,"27 Belfield Park, Stillorgan Road, Mount Merrion",Dublin,186000.0,No,Mount Merrion,Co. Dublin,q1,10%
+30/08/2013,"Apartment 33, Ashurst, Mount Merrion Avenue  Blackrock",Dublin,170000.0,No,Mount Merrion,Co. Dublin,q1,10%
+02/09/2013,"28 Trees Road, Mount Merrion",Dublin,845000.0,No,Mount Merrion,Co. Dublin,q3,80%
+03/09/2013,"9 Iris Grove, Mount Merrion",Dublin,855000.0,No,Mount Merrion,Co. Dublin,q3,80%
+12/09/2013,"2 Owenstown Lodge, Fosters Avenue, Mount Merrion",Dublin,127000.0,No,Mount Merrion,Co. Dublin,q1,10%
+27/09/2013,"6 Owenstown Lodge, Fosters Avenue, Mount Merrion",Dublin,205500.0,No,Mount Merrion,Co. Dublin,q1,10%
+03/10/2013,"6 Clonmore Road, Mount Merrion",Dublin,605000.0,No,Mount Merrion,Co. Dublin,q2,50%
+07/10/2013,"47 Wilson Road, Mount Merrion",Dublin,690000.0,No,Mount Merrion,Co. Dublin,q3,60%
+22/10/2013,"2B Deerpark Road, Mount Merrion",Dublin,980000.0,No,Mount Merrion,Co. Dublin,q4,90%
+23/10/2013,"172 Seamount, Mount Merrion",Dublin,255000.0,No,Mount Merrion,Co. Dublin,q1,10%
+24/10/2013,"16 Thornhill Road, Mount Merrion",Dublin,790000.0,No,Mount Merrion,Co. Dublin,q3,70%
+26/11/2013,"29 Mather Road North, Mount Merrion",Dublin,685000.0,No,Mount Merrion,Co. Dublin,q3,60%
+03/12/2013,"1 Greenfield Road, Mount Merrion",Dublin,762000.0,No,Mount Merrion,Co. Dublin,q3,70%
+12/12/2013,"23 Clonmore Rd, Mount Merrion, Dublin",Dublin,550000.0,No,Mount Merrion,Co. Dublin,q2,40%
+18/12/2013,"50 Trees Rd, Mount Merrion, Dublin",Dublin,895000.0,No,Mount Merrion,Co. Dublin,q4,80%
+29/01/2014,"5 Ma Tuire, Mount Anvil Rd, Mount Merrion Dublin 14",Dublin,240000.0,No,Mount Merrion,Co. Dublin,q1,10%
+06/02/2014,"8 Mather Road South, Mount Merrion",Dublin,650000.0,No,Mount Merrion,Co. Dublin,q3,60%
+26/02/2014,"4 Redesdale Rd, Mount Merrion, Dublin",Dublin,425000.0,No,Mount Merrion,Co. Dublin,q2,30%
+05/03/2014,"102 Merrion Grove, Stillorgan Rd, Mount Merrion",Dublin,222000.0,No,Mount Merrion,Co. Dublin,q1,10%
+19/03/2014,"Apt. 43 The Pavilion, Roebuck Hill, Mount Merrion",Dublin,150000.0,No,Mount Merrion,Co. Dublin,q1,10%
+20/03/2014,"32 Cherrygarth, Trees Rd, Mount Merrion",Dublin,840000.0,No,Mount Merrion,Co. Dublin,q3,80%
+10/04/2014,"25 Redesdale Road, Mount Merrion",Dublin,607500.0,No,Mount Merrion,Co. Dublin,q2,50%
+28/04/2014,"18 Wilson Rd, Mount Merrion, Dublin",Dublin,545000.0,No,Mount Merrion,Co. Dublin,q2,40%
+30/04/2014,"9 Trees Road, Mount Merrion, Co. Dublin",Dublin,610000.0,No,Mount Merrion,Co. Dublin,q2,50%
+02/05/2014,"Apt 22, Merrion Hall, Mount Merrion Ave",Dublin,300000.0,No,Mount Merrion,Co. Dublin,q1,20%
+13/05/2014,"58 Redesdale Road, Mount Merrion, Co Dublin",Dublin,680000.0,No,Mount Merrion,Co. Dublin,q3,60%
+20/05/2014,"Fee Simple Interest, 6 Mather Rd South, Mount Merrion",Dublin,26024.0,No,Mount Merrion,Co. Dublin,q1,10%
+21/05/2014,"20 St Thomas Rd, Mount Merrion, Dublin",Dublin,1500000.0,No,Mount Merrion,Co. Dublin,q4,100%
+03/06/2014,"98 Trees Road, Mount Merrion",Dublin,700000.0,No,Mount Merrion,Co. Dublin,q3,60%
+06/06/2014,"44 Fosters Avenue, Mount Merrion",Dublin,770000.0,No,Mount Merrion,Co. Dublin,q3,70%
+17/06/2014,"45 Thonrhill Road, Mount Merrion",Dublin,687500.0,No,Mount Merrion,Co. Dublin,q3,60%
+21/06/2014,"Apt 66, Block 8, The Elms Mount Merrion",Dublin,315000.0,No,Mount Merrion,Co. Dublin,q1,20%
+25/06/2014,"52 Deerpark Rd, Mount Merrion, Dublin",Dublin,681000.0,No,Mount Merrion,Co. Dublin,q3,60%
+04/07/2014,"1 Hyde House, Cloonfadda Woods, Mount Merrion Ave Dublin 4",Dublin,355000.0,No,Mount Merrion,Co. Dublin,q1,20%
+04/07/2014,"63 Trees Rd, Mount Merrion, Dublin",Dublin,637500.0,No,Mount Merrion,Co. Dublin,q2,50%
+19/08/2014,"4 Grey Gates, Mount Merrion",Dublin,1240000.0,No,Mount Merrion,Co. Dublin,q4,100%
+10/09/2014,"1 Trees Rd, Mount Merrion, Dublin 14",Dublin,995000.0,No,Mount Merrion,Co. Dublin,q4,90%
+06/10/2014,"2 Greygates, Wayside, Mount Merrion",Dublin,1750000.0,No,Mount Merrion,Co. Dublin,q4,100%
+20/10/2014,"61 The Rise, Mount Merrion, Dublin",Dublin,1150000.0,No,Mount Merrion,Co. Dublin,q4,100%
+06/11/2014,"124 Seamount, Stillorgan Rd, Mount Merrion",Dublin,265000.0,No,Mount Merrion,Co. Dublin,q1,10%
+10/11/2014,"27A Greygates, Mount Merrion",Dublin,704846.0,Yes,Mount Merrion,Co. Dublin,q3,60%
+17/12/2014,"Apartment 30, Merrion Hall, Mount Merrion Avenue  Blackrock",Dublin,360000.0,No,Mount Merrion,Co. Dublin,q1,20%
+29/12/2014,"2 Redesdale Crescent, Upper Trees Rd, Mount Merrion",Dublin,389650.0,No,Mount Merrion,Co. Dublin,q1,20%
+15/01/2015,"2 Cherrygarth, Mount Merrion, Dublin",Dublin,940000.0,No,Mount Merrion,Co. Dublin,q4,90%
+21/01/2015,"95 Trees Rd Upper, Mount Merrion, Dublin",Dublin,607500.0,No,Mount Merrion,Co. Dublin,q2,50%
+23/01/2015,"52 North Ave, Mount Merrion, Dublin",Dublin,660000.0,No,Mount Merrion,Co. Dublin,q3,60%
+23/01/2015,"71 Fosters Ave, Mount Merrion, Dublin",Dublin,930000.0,No,Mount Merrion,Co. Dublin,q4,90%
+30/01/2015,"40 Greenfield Rd, Mount Merrion, Dublin",Dublin,1050000.0,No,Mount Merrion,Co. Dublin,q4,90%
+19/02/2015,"8 Clonmore Rd, Mount Merrion, Dublin",Dublin,910000.0,No,Mount Merrion,Co. Dublin,q4,90%
+24/02/2015,"44 Deerpark Rd, Mount Merrion, Dublin",Dublin,690000.0,No,Mount Merrion,Co. Dublin,q3,60%
+25/02/2015,"Apt 7 Cedarmount Rd, Mount Merrion, Dublin",Dublin,230000.0,No,Mount Merrion,Co. Dublin,q1,10%
+27/02/2015,"36 Ashurst Apts, Ashurst, Mount Merrion Ave",Dublin,190000.0,No,Mount Merrion,Co. Dublin,q1,10%
+13/03/2015,"7 Clonmore Rd, Mount Merrion, Dublin",Dublin,555000.0,No,Mount Merrion,Co. Dublin,q2,40%
+18/03/2015,"3 Owenstown Lodge, Owenstown Park, Mount Merrion",Dublin,240000.0,No,Mount Merrion,Co. Dublin,q1,10%
+26/03/2015,"1 St. Thomas Wood, The Rise, Mount Merrion",Dublin,762115.0,Yes,Mount Merrion,Co. Dublin,q3,70%
+31/03/2015,"Apt 95, Seamount, Stillorgan Rd Mount Merrion",Dublin,434500.0,No,Mount Merrion,Co. Dublin,q2,30%
+16/04/2015,"77 South Ave, Mount Merrion, Dublin",Dublin,885000.0,No,Mount Merrion,Co. Dublin,q4,80%
+28/05/2015,"51 Sycamore Rd, Mount Merrion, Dublin",Dublin,940000.0,No,Mount Merrion,Co. Dublin,q4,90%
+26/06/2015,"4 Roebuck Avenue, Mount Merrion, Dublin 4",Dublin,932500.0,No,Mount Merrion,Co. Dublin,q4,90%
+26/06/2015,"Gaybrook, North Ave, Mount Merrion",Dublin,860000.0,No,Mount Merrion,Co. Dublin,q4,80%
+16/07/2015,"18 Wilson Rd, Mount Merrion, Dublin",Dublin,545000.0,No,Mount Merrion,Co. Dublin,q2,40%
+17/07/2015,"51 The Rise, Mount Merrion, Dublin",Dublin,853000.0,No,Mount Merrion,Co. Dublin,q3,80%
+21/07/2015,"34 Belfield Park, Stillorgan Rd, Mount Merrion",Dublin,309650.0,No,Mount Merrion,Co. Dublin,q1,20%
+22/07/2015,"Burnside, St Thomas Rd, Mount Merrion",Dublin,995000.0,No,Mount Merrion,Co. Dublin,q4,90%
+24/07/2015,"3 Ashurst Apt Block, Mount Merrion Rd Blackrock, Dublin 4",Dublin,350000.0,No,Mount Merrion,Co. Dublin,q1,20%
+31/07/2015,"25A Deerpark Rd, Mount Merrion, Deerpark Rd",Dublin,665000.0,No,Mount Merrion,Co. Dublin,q3,60%
+31/07/2015,"39  Greygates, Mount Merrion",Dublin,759000.0,No,Mount Merrion,Co. Dublin,q3,70%
+18/08/2015,"18 Mather Rd North, Mount Merrion, Dublin",Dublin,855600.0,No,Mount Merrion,Co. Dublin,q4,80%
+20/08/2015,"41 Clonmore Road, Mount Merrion",Dublin,775000.0,No,Mount Merrion,Co. Dublin,q3,70%
+28/08/2015,"50 Cedarmount Rd, Mount Merrion, Dublin",Dublin,655000.0,No,Mount Merrion,Co. Dublin,q3,60%
+03/09/2015,"31 Callary Rd, Mount Merrion, Dublin",Dublin,733000.0,No,Mount Merrion,Co. Dublin,q3,70%
+15/09/2015,"2 South Avenue, Mount Merrion",Dublin,730000.0,No,Mount Merrion,Co. Dublin,q3,70%
+16/10/2015,"2 St Thomas Wood, The Rise, Mount Merrion",Dublin,1057268.0,Yes,Mount Merrion,Co. Dublin,q4,90%
+30/10/2015,"103 Trees Rd, Mount Merrion, Dublin",Dublin,339500.0,No,Mount Merrion,Co. Dublin,q1,20%
+09/11/2015,"St. Penryst, 6 St. Thomas Road, Mount Merrion",Dublin,1700000.0,No,Mount Merrion,Co. Dublin,q4,100%
+18/11/2015,"Gate Lodge, The Elms, Mount Merrion Ave",Dublin,411000.0,No,Mount Merrion,Co. Dublin,q1,30%
+19/11/2015,"13 North Avenue, Mount Merrion, County Dublin",Dublin,1250000.0,No,Mount Merrion,Co. Dublin,q4,100%
+23/11/2015,"44 North Ave, Mount Merrion, Dublin",Dublin,865000.0,No,Mount Merrion,Co. Dublin,q4,80%
+25/11/2015,"Apt 27, Fortwilliam, Mount Merrion Ave",Dublin,350000.0,No,Mount Merrion,Co. Dublin,q1,20%
+01/12/2015,"85 Seamount, Stillorgan Rd, Mount Merrion",Dublin,348000.0,No,Mount Merrion,Co. Dublin,q1,20%
+10/12/2015,"34 Fosterbrook, Old Stillorgan Rd, Mount Merrion",Dublin,740000.0,No,Mount Merrion,Co. Dublin,q3,70%
+11/12/2015,"11 Clonmore Rd, Mount Merrion, Dublin",Dublin,680000.0,No,Mount Merrion,Co. Dublin,q3,60%
+11/12/2015,"18 North Ave, Mount Merrion, Dublin",Dublin,914000.0,No,Mount Merrion,Co. Dublin,q4,90%
+07/01/2016,"28 Cedarmount Rd, Mount Merrion, Dublin",Dublin,650000.0,No,Mount Merrion,Co. Dublin,q3,60%
+15/01/2016,"18 Glenabbey Rd, Mount Merrion, Dublin",Dublin,590000.0,No,Mount Merrion,Co. Dublin,q2,50%
+15/01/2016,"29 Cherry Garth, Mount Merrion, Dublin",Dublin,1165000.0,No,Mount Merrion,Co. Dublin,q4,100%
+18/01/2016,"58 Cherry Garth, Mount Merrion, Dublin",Dublin,955000.0,No,Mount Merrion,Co. Dublin,q4,90%
+22/01/2016,"2 Cherrygarth, Mount Merrion, Dublin",Dublin,3750000.0,No,Mount Merrion,Co. Dublin,q4,100%
+08/02/2016,"Apt 4, Villa Nova, Mount Merrion Ave",Dublin,341000.0,No,Mount Merrion,Co. Dublin,q1,20%
+15/02/2016,"99 The Rise, Mount Merrion, Dublin",Dublin,1150000.0,No,Mount Merrion,Co. Dublin,q4,100%
+25/02/2016,"7 Mather Road South, Mount Merrion",Dublin,685000.0,No,Mount Merrion,Co. Dublin,q3,60%
+03/03/2016,"2 Redesdale Crescent, Upper Trees Rd, Mount Merrion",Dublin,850000.0,No,Mount Merrion,Co. Dublin,q3,80%
+15/03/2016,"The Coach House, Ashurst, Mount Merrion Ave",Dublin,715000.0,No,Mount Merrion,Co. Dublin,q3,60%
+04/05/2016,"80 Trees Rd, Mount Merrion, Dublin",Dublin,1462500.0,No,Mount Merrion,Co. Dublin,q4,100%
+20/05/2016,"Apt 144 Block 7, Seamount, Mount Merrion",Dublin,320000.0,No,Mount Merrion,Co. Dublin,q1,20%
+27/05/2016,"9 Glenart, Clonfadda Wood, Mount Merrion Ave",Dublin,430000.0,No,Mount Merrion,Co. Dublin,q2,30%
+15/06/2016,"12 Marino Pk, Hyde Park Ave Mount Merrion, Dublin",Dublin,655575.0,No,Mount Merrion,Co. Dublin,q3,60%
+14/07/2016,"41 Thornhill Rd, Mount Merrion, Dublin",Dublin,690000.0,No,Mount Merrion,Co. Dublin,q3,60%
+29/07/2016,"14 Fortwilliam, Mount Merrion Ave, Dublin",Dublin,330000.0,No,Mount Merrion,Co. Dublin,q1,20%
+18/08/2016,"22 Mather Rd North, Mount Merrion, Dublin",Dublin,740000.0,No,Mount Merrion,Co. Dublin,q3,70%
+29/08/2016,"22 Glenabbey Rd, Mount Merrion, Dublin",Dublin,576000.0,No,Mount Merrion,Co. Dublin,q2,50%
+30/08/2016,"15 Trees Ave, Mount Merrion, Dublin",Dublin,995000.0,No,Mount Merrion,Co. Dublin,q4,90%
+30/08/2016,"48 Thornhill, Mount Merrion, Dublin",Dublin,850000.0,No,Mount Merrion,Co. Dublin,q3,80%
+31/08/2016,"2 Marino Park, The Elms, Mount Merrion Ave",Dublin,1015000.0,No,Mount Merrion,Co. Dublin,q4,90%
+01/09/2016,"85 The Atrium, Roebuck Hill, Mount Merrion",Dublin,390000.0,No,Mount Merrion,Co. Dublin,q1,20%
+16/09/2016,"5 Cedarmount Rd, Mount Merrion, Dublin",Dublin,665000.0,No,Mount Merrion,Co. Dublin,q3,60%
+30/09/2016,"3 St Thomas Wood, The Rise, Mount Merrion",Dublin,951541.85,No,Mount Merrion,Co. Dublin,q4,90%
+13/10/2016,"22 Roebuck Ave, Mount Merrion, Dublin",Dublin,695000.0,No,Mount Merrion,Co. Dublin,q3,60%
+24/10/2016,"44 South Ave, Mount Merrion, Dublin",Dublin,965000.0,No,Mount Merrion,Co. Dublin,q4,90%
+02/11/2016,"101 Roebuck Hill Apts, Roebuck Rd, Mount Merrion",Dublin,390000.0,No,Mount Merrion,Co. Dublin,q1,20%
+09/11/2016,"97 Upper Trees Road, Mount Merrion, Co Dublin",Dublin,683000.0,No,Mount Merrion,Co. Dublin,q3,60%
+15/11/2016,"37 Treesdale, Stillorgan Rd, Mount Merrion",Dublin,647500.0,No,Mount Merrion,Co. Dublin,q2,50%
+18/11/2016,"100 Block A The Atrium, Roebuck Hill Mount Merrion, Dublin 14",Dublin,275000.0,No,Mount Merrion,Co. Dublin,q1,10%
+24/11/2016,"9 Glenabbey Rd, Mount Merrion, Dublin",Dublin,910000.0,No,Mount Merrion,Co. Dublin,q4,90%
+28/11/2016,"56 Mount Anville Park, Mount Merrion, Dublin 14",Dublin,675000.0,No,Mount Merrion,Co. Dublin,q3,60%
+09/12/2016,"45 Cedarmount Rd, Mount Merrion, Dublin",Dublin,420000.0,No,Mount Merrion,Co. Dublin,q2,30%
+09/12/2016,"6 Clonmore Rd, Mount Merrion, Dublin",Dublin,825000.0,No,Mount Merrion,Co. Dublin,q3,80%
+16/12/2016,"2 South Ave, Mount Merrion, Dublin",Dublin,850000.0,No,Mount Merrion,Co. Dublin,q3,80%
+16/12/2016,"22 Thornhill Rd, Mount Merrion, Dublin",Dublin,820000.0,No,Mount Merrion,Co. Dublin,q3,80%
+20/12/2016,"33 South Ave, Mount Merrion, Dublin",Dublin,875000.0,No,Mount Merrion,Co. Dublin,q4,80%
+20/12/2016,"36 Ardilea Downs, Mount Anville Rd, Mount Merrion",Dublin,1025000.0,No,Mount Merrion,Co. Dublin,q4,90%
+21/12/2016,"80 The Atrium, Roebuck Road, Mount Merrion",Dublin,260000.0,No,Mount Merrion,Co. Dublin,q1,10%
+22/12/2016,"39 The Rise, Mount Merrion, Dublin",Dublin,800000.0,No,Mount Merrion,Co. Dublin,q3,70%
+03/01/2017,"83 Upper Trees Rd, Mount Merrion, Dublin",Dublin,260000.0,No,Mount Merrion,Co. Dublin,q1,10%
+06/01/2017,"5 Trees Rd, Mount Merrion, Dublin",Dublin,930000.0,No,Mount Merrion,Co. Dublin,q4,90%
+19/01/2017,"Rosebank, Trees Avenue, Mount Merrion",Dublin,900000.0,No,Mount Merrion,Co. Dublin,q4,80%
+20/01/2017,"22 Fosters Ave, Mount Merrion, Dublin",Dublin,805000.0,No,Mount Merrion,Co. Dublin,q3,70%
+27/01/2017,"2 Cypress Rd, Mount Merrion, Dublin",Dublin,840000.0,No,Mount Merrion,Co. Dublin,q3,80%
+31/01/2017,"15 Glenabbey Rd, Mount Merrion, Dublin",Dublin,860000.0,No,Mount Merrion,Co. Dublin,q4,80%
+06/02/2017,"62 Fosterbrook, Stillorgan Rd, Mount Merrion",Dublin,640000.0,No,Mount Merrion,Co. Dublin,q2,50%
+14/02/2017,"32 Mather Rd North, Mount Merrion, Dublin",Dublin,890000.0,No,Mount Merrion,Co. Dublin,q4,80%
+10/03/2017,"68 Redesdale Rd, Mount Merrion, Dublin",Dublin,675000.0,No,Mount Merrion,Co. Dublin,q3,60%
+30/03/2017,"64 Glenabbey Rd, Mount Merrion, Dublin",Dublin,832500.0,No,Mount Merrion,Co. Dublin,q3,80%
+03/04/2017,"30 Thornhill Road, Mount Merrion, Co Dublin",Dublin,776000.0,No,Mount Merrion,Co. Dublin,q3,70%
+12/04/2017,"Clogrenan, 56 Foster'S Avenue, Mount Merrion",Dublin,1010000.0,No,Mount Merrion,Co. Dublin,q4,90%
+19/04/2017,"48 Sycamore Rd, Mount Merrion, Dublin",Dublin,780000.0,No,Mount Merrion,Co. Dublin,q3,70%
+19/04/2017,"65 Fosters Ave, Mount Merrion, Dublin",Dublin,767260.0,No,Mount Merrion,Co. Dublin,q3,70%
+28/04/2017,"29 South Ave, Mount Merrion, Co Dublin",Dublin,687500.0,No,Mount Merrion,Co. Dublin,q3,60%
+31/05/2017,"2B South Avenue, Mount Merrion",Dublin,682820.0,Yes,Mount Merrion,Co. Dublin,q3,60%
+07/06/2017,"41 The Pavillion, Roebuck Hill Roebuck Rd, Mount Merrion Dublin 14",Dublin,405000.0,No,Mount Merrion,Co. Dublin,q1,30%
+08/06/2017,"6 Glenvar, Clonfadda Wood, Mount Merrion Ave",Dublin,542500.0,No,Mount Merrion,Co. Dublin,q2,40%
+09/06/2017,"28 Cypress Rd, Mount Merrion, Dublin",Dublin,792000.0,No,Mount Merrion,Co. Dublin,q3,70%
+09/06/2017,"The Beeches, The Rise, Mount Merrion",Dublin,999999.0,No,Mount Merrion,Co. Dublin,q4,90%
+15/06/2017,"2 Roebuck Ave, Mount Merrion, Dublin",Dublin,895000.0,No,Mount Merrion,Co. Dublin,q4,80%
+21/06/2017,"5 Owenstown Lodge, Fosters Ave, Mount Merrion",Dublin,247000.0,No,Mount Merrion,Co. Dublin,q1,10%
+23/06/2017,"29 Callary Rd, Mount Merrion, Dublin",Dublin,930000.0,No,Mount Merrion,Co. Dublin,q4,90%
+29/06/2017,"34 Redesdale Rd, Mount Merrion, Dublin",Dublin,870000.0,No,Mount Merrion,Co. Dublin,q4,80%
+03/07/2017,"60 The Rise, Mount Merrion, Dublin",Dublin,900000.0,No,Mount Merrion,Co. Dublin,q4,80%
+05/07/2017,"23 Cherrygarth, Mount Merrion, Dublin",Dublin,950000.0,No,Mount Merrion,Co. Dublin,q4,90%
+05/07/2017,"Apt 3, Belfield Park, Mount Merrion",Dublin,400000.0,No,Mount Merrion,Co. Dublin,q1,30%
+20/07/2017,"26 St Thomas Rd, Mount Merrion, Dublin",Dublin,860000.0,No,Mount Merrion,Co. Dublin,q4,80%
+28/07/2017,"30 Clonmore Rd, Mount Merrion, Dublin",Dublin,800000.0,No,Mount Merrion,Co. Dublin,q3,70%
+02/08/2017,"11 The Rise, Mount Merrion, Dublin",Dublin,1130000.0,No,Mount Merrion,Co. Dublin,q4,100%
+08/08/2017,"30 Trees Rd Lower, Mount Merrion, Dublin",Dublin,1650000.0,No,Mount Merrion,Co. Dublin,q4,100%
+14/08/2017,"1 Owenstown Lodge, Fosters Ave, Mount Merrion",Dublin,265000.0,No,Mount Merrion,Co. Dublin,q1,10%
+25/08/2017,"39 Greenfield Rd, Mount Merrion, Dublin",Dublin,1050000.0,No,Mount Merrion,Co. Dublin,q4,90%
+25/08/2017,"8 Redesdale Rd, Mount Merrion, Dublin",Dublin,749250.0,No,Mount Merrion,Co. Dublin,q3,70%
+18/09/2017,"5 Mather Rd South, Mount Merrion, Dublin",Dublin,815000.0,No,Mount Merrion,Co. Dublin,q3,70%
+21/09/2017,"12 Deerpark Rd, Mount Merrion, Co Dublin",Dublin,1800000.0,No,Mount Merrion,Co. Dublin,q4,100%
+22/09/2017,"2 Owenstown Lodge, Fosters Ave, Mount Merrion Dublin 1",Dublin,250000.0,No,Mount Merrion,Co. Dublin,q1,10%
+06/10/2017,"Mulberry, 17 The Rise, Mount Merrion",Dublin,1205000.0,No,Mount Merrion,Co. Dublin,q4,100%
+09/10/2017,"19 North Ave, Mount Merrion, Dublin",Dublin,915000.0,No,Mount Merrion,Co. Dublin,q4,90%
+20/10/2017,"5 Chestnut Rd, Mount Merrion, Dublin",Dublin,985000.0,No,Mount Merrion,Co. Dublin,q4,90%
+31/10/2017,"Eastwood, 20 Trees Ave, Mount Merrion",Dublin,533333.0,No,Mount Merrion,Co. Dublin,q2,40%
+23/11/2017,"54 Cherry Garth, Mount Merrion, Dublin",Dublin,950000.0,No,Mount Merrion,Co. Dublin,q4,90%
+28/11/2017,"Apt 13, Fortwilliam, Mount Merrion Ave",Dublin,415000.0,No,Mount Merrion,Co. Dublin,q1,30%
+07/12/2017,"6 Hyde House, Clonfadda Wood, Mount Merrion Ave",Dublin,530000.0,No,Mount Merrion,Co. Dublin,q2,40%
+18/12/2017,"29 Callary Rd, Mount Merrion, Dublin",Dublin,519823.78,Yes,Mount Merrion,Co. Dublin,q2,40%
+21/12/2017,"22 Deerpark Rd, Mount Merrion, Dublin",Dublin,1395000.0,No,Mount Merrion,Co. Dublin,q4,100%
+31/01/2018,"3 Thornhill Rd, Mount Merrion, Dublin",Dublin,745000.0,No,Mount Merrion,Co. Dublin,q3,70%
+02/02/2018,"67 The Elms, Mount Merrion Ave, Dublin",Dublin,430000.0,No,Mount Merrion,Co. Dublin,q2,30%
+08/02/2018,"45 Seamount, Fosterbrook, Mount Merrion",Dublin,275000.0,No,Mount Merrion,Co. Dublin,q1,10%
+12/02/2018,"20 Greenfield Park, Mount Merrion, Co Dublin",Dublin,1350000.0,No,Mount Merrion,Co. Dublin,q4,100%
+16/02/2018,"55 The Rise, Mount Merrion, Dublin",Dublin,905000.0,No,Mount Merrion,Co. Dublin,q4,90%
+22/02/2018,"1 Clonmore Rd, Mount Merrion, Dublin",Dublin,1150000.0,No,Mount Merrion,Co. Dublin,q4,100%
+07/03/2018,"49 Belfield Park, Stillorgan Rd, Mount Merrion",Dublin,650000.0,No,Mount Merrion,Co. Dublin,q3,60%
+08/03/2018,"2A Deerpark Rd, Mount Merrion, Deerpark Rd",Dublin,1410000.0,No,Mount Merrion,Co. Dublin,q4,100%
+23/03/2018,"42 Clonmore Rd, Mount Merrion, Dublin",Dublin,1120000.0,No,Mount Merrion,Co. Dublin,q4,100%
+28/03/2018,"17 Redesdale Rd, Mount Merrion, Dublin",Dublin,632000.0,No,Mount Merrion,Co. Dublin,q2,50%
+10/04/2018,"48 Fosters Ave, Mount Merrion, Dublin",Dublin,836000.0,No,Mount Merrion,Co. Dublin,q3,80%
+19/04/2018,"32 Redsdale Rd, Mount Merrion, Dublin",Dublin,770000.0,No,Mount Merrion,Co. Dublin,q3,70%
+20/04/2018,"7 Marino Park, The Elms, Mount Merrion Ave",Dublin,850260.0,No,Mount Merrion,Co. Dublin,q3,80%
+27/04/2018,"13 The Rise, Mount Merrion, Dublin",Dublin,1075000.0,No,Mount Merrion,Co. Dublin,q4,100%
+01/05/2018,"88 Trees Rd, Mount Merrion, Dublin",Dublin,1850000.0,No,Mount Merrion,Co. Dublin,q4,100%
+03/05/2018,"71 Seamount, Stillorgan Rd, Mount Merrion",Dublin,285000.0,No,Mount Merrion,Co. Dublin,q1,20%
+18/05/2018,"38 The Palms, Roebuck Rd, Mount Merrion",Dublin,850000.0,No,Mount Merrion,Co. Dublin,q3,80%
+01/06/2018,"Dunsland Greygates, Stillorgan Rd, Mount Merrion",Dublin,1700000.0,No,Mount Merrion,Co. Dublin,q4,100%
+29/06/2018,"34 The Pavillion Roebuck Hill, Mount Merrion, Dublin 14",Dublin,402750.0,No,Mount Merrion,Co. Dublin,q1,30%
+02/07/2018,"28 Fosters Avenue, Mount Merrion, County Dublin",Dublin,800000.0,No,Mount Merrion,Co. Dublin,q3,70%
+03/07/2018,"48 Deerpark Rd, Mount Merrion, Dublin",Dublin,685000.0,No,Mount Merrion,Co. Dublin,q3,60%
+11/07/2018,"Innisfallen, 26 Mather Rd South, Mount Merrion",Dublin,910000.0,No,Mount Merrion,Co. Dublin,q4,90%
+16/07/2018,"15 The Rise, Mount Merrion, Dublin",Dublin,1185000.0,No,Mount Merrion,Co. Dublin,q4,100%
+20/07/2018,"35 North Ave, Mount Merrion, Dublin",Dublin,1125000.0,No,Mount Merrion,Co. Dublin,q4,100%
+20/07/2018,"5 Cherrhgarth, Mount Merrion, Dublin",Dublin,890000.0,No,Mount Merrion,Co. Dublin,q4,80%
+27/07/2018,"57 South Ave, Mount Merrion, Dublin",Dublin,875000.0,No,Mount Merrion,Co. Dublin,q4,80%
+02/08/2018,"39 Trees Rd, Mount Merrion, Dublin",Dublin,1300000.0,No,Mount Merrion,Co. Dublin,q4,100%
+06/09/2018,"18 Thornhill Rd, Mount Merrion, Dublin",Dublin,825000.0,No,Mount Merrion,Co. Dublin,q3,80%
+25/09/2018,"34 Thornhill Rd, Mount Merrion, Dublin",Dublin,862500.0,No,Mount Merrion,Co. Dublin,q4,80%
+26/09/2018,"11 Mather Rd South, Mount Merrion, Dublin",Dublin,1800000.0,No,Mount Merrion,Co. Dublin,q4,100%
+26/09/2018,"93 Belfield Park, Stillorgan Rd, Mount Merrion",Dublin,420000.0,No,Mount Merrion,Co. Dublin,q2,30%
+28/09/2018,"23 Greygates, Stillorgan Rd, Mount Merrion",Dublin,940000.0,No,Mount Merrion,Co. Dublin,q4,90%
+17/10/2018,"21 Roebuck Hill, Mount Merrion, Dublin 14",Dublin,200000.0,No,Mount Merrion,Co. Dublin,q1,10%
+19/10/2018,"2 An Cuileann, Mount Anville Rd, Mount Merrion Dublin 14",Dublin,445100.0,No,Mount Merrion,Co. Dublin,q2,30%
+26/10/2018,"7 Owenstown Lodge, Fosters Ave, Mount Merrion",Dublin,277000.0,No,Mount Merrion,Co. Dublin,q1,20%
+29/11/2018,"Apt 98 Block A, Roebuck Hill, Mount Merrion",Dublin,327000.0,No,Mount Merrion,Co. Dublin,q1,20%
+30/11/2018,"19 Redesdale Rd, Mount Merrion, Dublin",Dublin,770000.0,No,Mount Merrion,Co. Dublin,q3,70%
+30/11/2018,"39 Cedermount Rd, Mount Merrion, Dublin",Dublin,820000.0,No,Mount Merrion,Co. Dublin,q3,80%
+30/11/2018,"4 Roebuck Ave, Mount Merrion, Dublin",Dublin,1290000.0,No,Mount Merrion,Co. Dublin,q4,100%
+14/12/2018,"9 The Close, Mount Merrion, Dublin",Dublin,740000.0,No,Mount Merrion,Co. Dublin,q3,70%
+17/12/2018,"Unit 0.1 Greygates, Mount Merrion, Co. Dublin",Dublin,572687.0,Yes,Mount Merrion,Co. Dublin,q2,50%
+18/12/2018,"Unit 3, Ground Floor  Greygates Hall, Roebuck Avenue  Mount Merrion",Dublin,546255.51,Yes,Mount Merrion,Co. Dublin,q2,40%
+21/12/2018,"Apt 14, Greygates, Mount Merrion",Dublin,361233.0,Yes,Mount Merrion,Co. Dublin,q1,20%
+21/12/2018,"Unit 16 Greygates Hall, Roebuck Avenue, Mount Merrion",Dublin,661725.0,Yes,Mount Merrion,Co. Dublin,q3,60%
+29/01/2019,"94 The Rise, Mount Merrion, Dublin",Dublin,1165000.0,No,Mount Merrion,Co. Dublin,q4,100%
+12/02/2019,"30 The Rise, Mount Merrion, Dublin",Dublin,1100000.0,No,Mount Merrion,Co. Dublin,q4,100%
+14/02/2019,"5 Greygates Hall, Mount Merrion",Dublin,405286.0,Yes,Mount Merrion,Co. Dublin,q1,30%
+25/02/2019,"Apt 13 Greygates, Roebuck Road, Mount Merrion",Dublin,528634.0,Yes,Mount Merrion,Co. Dublin,q2,40%
+06/03/2019,"145 Seamount, Stillorgan Rd, Mount Merrion",Dublin,400000.0,No,Mount Merrion,Co. Dublin,q1,30%
+02/04/2019,"6 Greygates Hall, Roebuck, Mount Merrion",Dublin,533039.0,Yes,Mount Merrion,Co. Dublin,q2,40%
+10/04/2019,"8 Greygates Hall, Roebuck Avenue, Mount Merrion",Dublin,625551.0,Yes,Mount Merrion,Co. Dublin,q2,50%
+07/05/2019,"Apt 92 Roebuck Hill, Roebuck Rd, Mount Merrion Dublin 14",Dublin,330000.0,No,Mount Merrion,Co. Dublin,q1,20%
+10/05/2019,"Apt 49, Woodview, Mount Merrion Ave",Dublin,470000.0,No,Mount Merrion,Co. Dublin,q2,30%
+28/05/2019,"141 Seamount Apts, Stillorgan Rd, Mount Merrion",Dublin,403000.0,No,Mount Merrion,Co. Dublin,q1,30%
+28/05/2019,"80 Belfield Park, Stillorgan Rd, Mount Merrion",Dublin,397500.0,No,Mount Merrion,Co. Dublin,q1,30%
+30/05/2019,"3 Sycamore Rd, Mount Merrion, Dublin",Dublin,900000.0,No,Mount Merrion,Co. Dublin,q4,80%
+07/06/2019,"20 Cedarmount Rd, Mount Merrion, Dublin",Dublin,1180000.0,No,Mount Merrion,Co. Dublin,q4,100%
+07/06/2019,"Aparment 2, Greygates, Mount Merrion",Dublin,564317.18,Yes,Mount Merrion,Co. Dublin,q2,40%
+13/06/2019,"Apt 12 Greygates, Roebuck Avenue, Mount Merrion",Dublin,572687.22,Yes,Mount Merrion,Co. Dublin,q2,50%
+19/06/2019,"25 Trees Rd, Mount Merrion, Dublin",Dublin,900000.0,No,Mount Merrion,Co. Dublin,q4,90%
+01/07/2019,"27 Wilson Road, Mount Merrion, Co Dublin",Dublin,710000.0,No,Mount Merrion,Co. Dublin,q3,60%
+10/07/2019,"33 Seamount, Stillorgan Rd, Mount Merrion",Dublin,415000.0,No,Mount Merrion,Co. Dublin,q1,30%
+15/07/2019,"8 Cedarmount Rd, Mount Merrion, Co Dublin",Dublin,295000.0,No,Mount Merrion,Co. Dublin,q1,20%
+18/07/2019,"6 Trees Ave, Mount Merrion, Dun Laughaire",Dublin,1020000.0,No,Mount Merrion,Co. Dublin,q4,90%
+24/07/2019,"30 Trees Rd Lower, Mount Merrion, Dublin",Dublin,1550000.0,No,Mount Merrion,Co. Dublin,q4,100%
+20/08/2019,"Apartment No. 7, Greysgate Hall, Mount Merrion",Dublin,528634.0,Yes,Mount Merrion,Co. Dublin,q2,40%
+28/08/2019,"86 Seamount, Stillorgan Rd, Mount Merrion",Dublin,415000.0,No,Mount Merrion,Co. Dublin,q1,30%
+28/08/2019,"Thornhill House, Cherry Garth, Mount Merrion",Dublin,2175000.0,No,Mount Merrion,Co. Dublin,q4,100%
+29/08/2019,"6 Greygates, Stillorgan Road, Mount Merrion",Dublin,1270000.0,No,Mount Merrion,Co. Dublin,q4,100%
+06/09/2019,"22 Trees Rd Lower, Mount Merrion, Dublin",Dublin,1340000.0,No,Mount Merrion,Co. Dublin,q4,100%
+06/09/2019,"37 South Ave, Mount Merrion, Dublin",Dublin,915000.0,No,Mount Merrion,Co. Dublin,q4,90%
+18/09/2019,"Apt 66, Block 8, The Elms Mount Merrion",Dublin,312400.0,No,Mount Merrion,Co. Dublin,q1,20%
+27/09/2019,"76 Trees Rd, Mount Merrion, Dublin",Dublin,950000.0,No,Mount Merrion,Co. Dublin,q4,90%
+03/10/2019,"57 Cedarmount Rd, Mount Merrion, Dublin",Dublin,730000.0,No,Mount Merrion,Co. Dublin,q3,70%
+14/10/2019,"74 Belfield Park, Stillorgan Rd, Mount Merrion",Dublin,379000.0,No,Mount Merrion,Co. Dublin,q1,20%

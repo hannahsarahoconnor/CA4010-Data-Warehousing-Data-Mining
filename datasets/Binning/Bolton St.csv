@@ -1,0 +1,40 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+10/03/2010,"12 Henrietta Hall, Bolton Street, Dublin 1",Dublin,160000.0,No,Bolton St,Dublin 1,q2,30%
+19/10/2010,"57 Bolton Street, Lower Dominic Street",Dublin,102000.0,No,Bolton St,Dublin 1,q1,20%
+05/12/2011,"6 The Court, Bolton Street, Dublin 1",Dublin,121000.0,No,Bolton St,Dublin 1,q1,20%
+15/10/2013,"Apt. 15 Kingsmill Court, Bolton Street",Dublin,90000.0,No,Bolton St,Dublin 1,q1,10%
+15/10/2013,"Apt. 24 Kingsmill Court, Bolton Street",Dublin,90000.0,No,Bolton St,Dublin 1,q1,10%
+27/11/2013,"Apt 40, Kingsmill Court, Bolton St",Dublin,60000.0,No,Bolton St,Dublin 1,q1,10%
+28/03/2014,"30 Bolton Court, Henrietta Place, Bolton St Dublin 1",Dublin,78000.0,No,Bolton St,Dublin 1,q1,10%
+18/07/2014,"37 Kingsmill Court, Bolton St, Dublin 1",Dublin,165000.0,No,Bolton St,Dublin 1,q2,40%
+23/09/2014,"7 Bolton Court, Bolton St, Dublin 1",Dublin,153000.0,No,Bolton St,Dublin 1,q1,30%
+03/02/2015,"Apartment 27, Henrietta Hall, Bolton Street",Dublin,195000.0,No,Bolton St,Dublin 1,q2,50%
+14/08/2015,"Apartment 37  Henrietta Hall, Bolton Street, Dublin 1",Dublin,199000.0,No,Bolton St,Dublin 1,q3,60%
+02/09/2015,"34 Henrietta Hall, Bolton St, Dublin 1",Dublin,190000.0,No,Bolton St,Dublin 1,q2,50%
+25/09/2015,"42 Henrietta Hall, Bolton St, Dublin 1",Dublin,195000.0,No,Bolton St,Dublin 1,q2,50%
+19/01/2016,"1 Bolton Court, Bolton St, Dublin 1",Dublin,149000.0,No,Bolton St,Dublin 1,q1,30%
+10/02/2016,"11 Henrietta Hall, Bolton St, Dublin 1",Dublin,210000.0,No,Bolton St,Dublin 1,q3,70%
+31/05/2016,"31 Bolton Court, Bolton St, Dublin 1",Dublin,110000.0,No,Bolton St,Dublin 1,q1,20%
+28/06/2016,"33 Kingsmill, Bolton St, Dublin 1",Dublin,250000.0,No,Bolton St,Dublin 1,q4,80%
+07/09/2016,"25 Kingsmill Court, Bolton St, Dublin 1",Dublin,160000.0,No,Bolton St,Dublin 1,q2,40%
+15/11/2016,"Apt 5, Kingsmill Court, Bolton St Dublin 1",Dublin,185000.0,No,Bolton St,Dublin 1,q2,50%
+02/12/2016,"17 Henrietta Hall, Bolton St, Dublin 7",Dublin,235000.0,No,Bolton St,Dublin 1,q3,70%
+11/01/2017,"Apt 36, Henrietta Hall, Bolton Street",Dublin,220000.0,No,Bolton St,Dublin 1,q3,70%
+23/03/2017,"22 Kingsmill Court, 62/64 Bolton Street, Dublin 1",Dublin,156000.0,No,Bolton St,Dublin 1,q2,30%
+28/04/2017,"20 Kingsmills Court, Bolton St, Dublin 7",Dublin,163000.0,No,Bolton St,Dublin 1,q2,40%
+07/07/2017,"Apt 6 Kingsmill Court, Bolton St, Dublin 1",Dublin,167500.0,No,Bolton St,Dublin 1,q2,40%
+18/09/2017,"Apt 3, 31 Bolton St, Dublin 1",Dublin,337500.0,No,Bolton St,Dublin 1,q4,100%
+24/10/2017,"18 Henrietta Hall, Bolton Street, Dublin 1",Dublin,235000.0,No,Bolton St,Dublin 1,q3,80%
+15/01/2018,"Apt 24 Henrietta Hall, 43 45 Bolton St, Dublin 1",Dublin,255000.0,No,Bolton St,Dublin 1,q4,80%
+31/01/2018,"8 Kingsmill Court, Bolton St, Dublin",Dublin,130000.0,No,Bolton St,Dublin 1,q1,20%
+30/10/2018,"13 Kingsmill Court, Bolton St, Dublin 1",Dublin,198000.0,No,Bolton St,Dublin 1,q3,60%
+20/12/2018,"37 Bolton St, Dublin 1, Dublin",Dublin,207000.0,No,Bolton St,Dublin 1,q3,60%
+29/03/2019,"Apt 29 Henrietta Hall, 43 5 Bolton St, Dublin 13",Dublin,266000.0,No,Bolton St,Dublin 1,q4,90%
+15/04/2019,"41 Bolton Street, Dublin",Dublin,840000.0,No,Bolton St,Dublin 1,q4,100%
+03/07/2019,"Apt 1, 30 Bolton St, Dublin 1",Dublin,750000.0,No,Bolton St,Dublin 1,q4,100%
+10/07/2019,"Apt 21, Henrietta Hall, Bolton St",Dublin,286000.0,No,Bolton St,Dublin 1,q4,100%
+18/07/2019,"Apartment 1, 46 Bolton St, Dublin 1",Dublin,270000.0,No,Bolton St,Dublin 1,q4,90%
+31/07/2019,"Apt 6, Henrietta Hall, 43 5 Bolton St Dublin 13",Dublin,245000.0,No,Bolton St,Dublin 1,q3,80%
+01/08/2019,"Apt 13 Henrietta Hall, 43 45 Bolton St, Dublin",Dublin,265000.0,No,Bolton St,Dublin 1,q4,90%
+24/09/2019,"Apt 10 Henrietta Hall, 43 45 Bolton St, Dublin",Dublin,260000.0,No,Bolton St,Dublin 1,q4,90%
+24/09/2019,"Apt 4, Kingsmill Court, Bolton St Dublin 1",Dublin,215000.0,No,Bolton St,Dublin 1,q3,70%

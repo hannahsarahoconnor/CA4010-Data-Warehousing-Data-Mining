@@ -1,0 +1,1898 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+06/01/2010,"84 Castleland Park View, Balbriggan",Dublin,325000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+15/01/2010,"8 Woodview, Balrothery, Balbriggan",Dublin,260000.0,No,Balbriggan,Co. Dublin,q4,90%
+19/01/2010,"745 Bremore Castle, Balbriggan",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+21/01/2010,"33 High Street, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+22/01/2010,"4  Newhaven Close, Flemington Lane, Balbriggan",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+27/01/2010,"The Bower, Fancourt, Balbriggan",Dublin,237500.0,No,Balbriggan,Co. Dublin,q4,80%
+29/01/2010,"14 Westbrook Green, Naul Road, Balbriggan",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+29/01/2010,"28 Hampton Woods, Balbriggan",Dublin,212000.0,No,Balbriggan,Co. Dublin,q3,70%
+01/02/2010,"8 Hastings Court, Balbriggan, County Dublin",Dublin,148898.0,Yes,Balbriggan,Co. Dublin,q2,30%
+02/02/2010,"32 Westbrook Green, Balbriggan",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+03/02/2010,"19 Westbrook Avenue, Balbriggan",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+05/02/2010,"26 Hastings Green, Balbriggan",Dublin,148898.68,Yes,Balbriggan,Co. Dublin,q2,30%
+05/02/2010,"53 Barons Hall Grove, Balbriggan",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+09/02/2010,"3 Hastings Drive, Balbriggan, Dublin",Dublin,148898.67,Yes,Balbriggan,Co. Dublin,q2,30%
+12/02/2010,"124 Castleland Court, Balbriggan",Dublin,81818.0,Yes,Balbriggan,Co. Dublin,q1,10%
+16/02/2010,"11 Moylaragh Close, Balbriggan",Dublin,149000.0,No,Balbriggan,Co. Dublin,q2,30%
+19/02/2010,"18 Bremore Pastures Avenue, Balbriggan",Dublin,149779.73,Yes,Balbriggan,Co. Dublin,q2,30%
+25/02/2010,"18 Hastings Drive, Balbriggan",Dublin,148035.61,Yes,Balbriggan,Co. Dublin,q2,30%
+25/02/2010,"70 Castleland Park View, Balbriggan, Dublin",Dublin,193832.6,Yes,Balbriggan,Co. Dublin,q3,60%
+04/03/2010,"25 Hampton Street, Balbriggan",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+09/03/2010,"89 Rose Park, Balrothery, Balbriggan",Dublin,37000.0,No,Balbriggan,Co. Dublin,q1,10%
+12/03/2010,"17 Hastings Drive, Balbriggan",Dublin,169000.0,Yes,Balbriggan,Co. Dublin,q2,50%
+12/03/2010,"8 Chaple Close, Balbriggan",Dublin,197500.0,No,Balbriggan,Co. Dublin,q3,60%
+15/03/2010,"49 Newhaven Bay, Flemington Lane, Balbriggan",Dublin,198000.0,No,Balbriggan,Co. Dublin,q3,60%
+19/03/2010,"44 Dun Saithne Green, Balbriggan",Dublin,119823.78,Yes,Balbriggan,Co. Dublin,q1,20%
+22/03/2010,"41 Castleland Park, Balbriggan",Dublin,158590.0,Yes,Balbriggan,Co. Dublin,q2,40%
+22/03/2010,"70 Dun Saithne Crescent, Flemington Lane, Balbriggan",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+24/03/2010,"20 Hasting Drive, Balbriggan, County Dublin",Dublin,93000.0,Yes,Balbriggan,Co. Dublin,q1,10%
+24/03/2010,"32 Cloch Choirneal, Balrothery, Balbriggan",Dublin,310000.0,No,Balbriggan,Co. Dublin,q4,100%
+25/03/2010,"5 Westbrook Park, Naul Road, Balbriggan",Dublin,270000.0,No,Balbriggan,Co. Dublin,q4,90%
+25/03/2010,"59  Clonard Court, Balbriggan, Co. Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+30/03/2010,"7 Chieftains Drive, Chieftains Way, Balbriggan",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+30/03/2010,"79 Dun Saithne, Crescent, Balbriggan",Dublin,174000.0,No,Balbriggan,Co. Dublin,q2,50%
+31/03/2010,"5 Moylaragh Gardens, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+09/04/2010,"9 Hoylaragh Avenue, Balbriggan, .",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+15/04/2010,"45 Castleland Park View, Balbriggan",Dublin,171806.16,Yes,Balbriggan,Co. Dublin,q2,50%
+21/04/2010,"10  Castleland Court, Balbriggan, County Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+23/04/2010,"1 Dun Saithne Green, Balbriggan",Dublin,132000.0,Yes,Balbriggan,Co. Dublin,q1,30%
+06/05/2010,"16 Hastings Court, Balbriggan",Dublin,149000.0,Yes,Balbriggan,Co. Dublin,q2,30%
+06/05/2010,"83 Castleland Park View, Balbriggan",Dublin,171806.16,Yes,Balbriggan,Co. Dublin,q2,50%
+10/05/2010,"30 Hampton Woods, Balbriggan, Co. Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+21/05/2010,"20 Hastings Court, Balbriggan",Dublin,179000.0,Yes,Balbriggan,Co. Dublin,q2,50%
+25/05/2010,"31 Moylaragh Walk, Balbriggan",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+10/06/2010,"152 Bath Road, Balbriggan",Dublin,197500.0,No,Balbriggan,Co. Dublin,q3,60%
+10/06/2010,"61 Clonuske Park, Hamlet Lane, Balbriggan",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+16/06/2010,"18 Bremore Pasture Drive, Hamlet Lane, Balbriggan",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+17/06/2010,"72 Ashfield Rise, Balbriggan",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+22/06/2010,"13 Moylaragh Close, Balbriggan, Co. Dublin",Dublin,184700.0,No,Balbriggan,Co. Dublin,q3,60%
+29/06/2010,"10  Hastings Court, Balbriggan",Dublin,93000.0,Yes,Balbriggan,Co. Dublin,q1,10%
+29/06/2010,"14 Pinewood Green Hill, Balbriggan, County Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+01/07/2010,"54 Craoibhin Park, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+07/07/2010,"49 The Chantries, Balbriggan",Dublin,350000.0,No,Balbriggan,Co. Dublin,q4,100%
+07/07/2010,"5 Tara Court, Balbriggan",Dublin,187000.0,No,Balbriggan,Co. Dublin,q3,60%
+09/07/2010,"69 Castleland Park View, Castleland Park, Balbriggan",Dublin,195000.0,Yes,Balbriggan,Co. Dublin,q3,60%
+16/07/2010,"43 Hampton Street, Balbriggan, County Dublibn",Dublin,212000.0,No,Balbriggan,Co. Dublin,q3,70%
+16/07/2010,"54 Chapel Avenue, Balbriggan, Dublin 3",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+16/07/2010,"82 Castleland Park View, Balbriggan",Dublin,145374.44,Yes,Balbriggan,Co. Dublin,q2,30%
+23/07/2010,"27 Templeville, Balbriggan",Dublin,223000.0,No,Balbriggan,Co. Dublin,q3,80%
+27/07/2010,"78 New Haven Bay, Balbriggan, Co. Dublin",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+29/07/2010,"17 Templeville, Balbriggan, Dublin",Dublin,172000.0,No,Balbriggan,Co. Dublin,q2,50%
+30/07/2010,"31 Barons Hall Rise, Balbriggan",Dublin,164000.0,No,Balbriggan,Co. Dublin,q2,40%
+07/08/2010,"8 Curran Park, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+10/08/2010,"132 Brega, Balbriggan, County Dublin",Dublin,129000.0,No,Balbriggan,Co. Dublin,q1,20%
+10/08/2010,"65 Castleland Park View, Balbriggan, Dublin",Dublin,174449.33,Yes,Balbriggan,Co. Dublin,q2,50%
+11/08/2010,"59 Dun Saithne Crescent, Flemington Lane, Balbriggan",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+16/08/2010,"15 Clonuske Park, Balbriggan",Dublin,240000.0,No,Balbriggan,Co. Dublin,q4,80%
+17/08/2010,"12 Cardy Rock Rd, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,20%
+18/08/2010,"73 Tara Court, Balbriggan",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+20/08/2010,"12 Hastings Court, Balbriggan",Dublin,127753.22,Yes,Balbriggan,Co. Dublin,q1,20%
+20/08/2010,"9 Castleland Park View, Balbriggan",Dublin,250000.0,Yes,Balbriggan,Co. Dublin,q4,90%
+23/08/2010,"129 Pineridge, Balbriggan",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+25/08/2010,"31 Covetown, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+26/08/2010,"13 Castleland Park View, Balbriggan",Dublin,215859.0,Yes,Balbriggan,Co. Dublin,q3,70%
+03/09/2010,"75 Castleland Park View, Balbriggan",Dublin,211453.74,Yes,Balbriggan,Co. Dublin,q3,70%
+07/09/2010,"20 Chapel Avenue, Balbriggan",Dublin,197500.0,No,Balbriggan,Co. Dublin,q3,60%
+13/09/2010,"11 Westbrook Lawns, Balbriggan",Dublin,228000.0,No,Balbriggan,Co. Dublin,q4,80%
+17/09/2010,"12 Tudor Hamlet, Balrothery, Balbriggan",Dublin,276000.0,No,Balbriggan,Co. Dublin,q4,100%
+23/09/2010,"12 Moylaragh Close, Balbriggan",Dublin,142000.0,No,Balbriggan,Co. Dublin,q2,30%
+23/09/2010,"78 Castleland Park View, Balbriggan",Dublin,229875.0,Yes,Balbriggan,Co. Dublin,q4,80%
+28/09/2010,"No. 5 Bremore Court, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+29/09/2010,"44 Bremore Castle, Balbriggan",Dublin,174000.0,No,Balbriggan,Co. Dublin,q2,50%
+30/09/2010,"15 Hastings Court, Balbriggan",Dublin,115419.0,Yes,Balbriggan,Co. Dublin,q1,20%
+01/10/2010,"17 Hastings Court, Balbriggan",Dublin,135000.0,Yes,Balbriggan,Co. Dublin,q1,30%
+01/10/2010,"2 Glebe North, Balbriggan",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+06/10/2010,"8 Westbrook Park, Balbriggan",Dublin,218000.0,No,Balbriggan,Co. Dublin,q3,80%
+01/11/2010,"57 Rosepark, Balrothery, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,20%
+05/11/2010,"14 Cornmill, Dublin Street, Balbriggan",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+10/11/2010,"9 Craobhin Park, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+19/11/2010,"28 Cardy Rock Close, Balbriggan",Dublin,99000.0,No,Balbriggan,Co. Dublin,q1,10%
+19/11/2010,"Avalon, Old Coach Road, Balbriggan",Dublin,470000.0,No,Balbriggan,Co. Dublin,q4,100%
+22/11/2010,"5 Brega, Hamlet Lane, Balbriggan",Dublin,141500.0,No,Balbriggan,Co. Dublin,q2,30%
+08/12/2010,"26 Castleland Court, Balbriggan, Co. Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+13/12/2010,"'Maryville', 43 Chapel Lane, Balbriggan",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+13/12/2010,"1  Moylaragh Road, Balbriggan",Dublin,206000.0,No,Balbriggan,Co. Dublin,q3,70%
+13/12/2010,"18 Hastings Court, Balbriggan",Dublin,125000.0,Yes,Balbriggan,Co. Dublin,q1,20%
+13/12/2010,"41 Ashfield Rise, Balbriggan",Dublin,192500.0,No,Balbriggan,Co. Dublin,q3,60%
+14/12/2010,"88 Rosepark, Balrothery, Balbriggan",Dublin,253000.0,No,Balbriggan,Co. Dublin,q4,90%
+17/12/2010,"40 Barnwall Court, Hamlet Lane  Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+22/12/2010,"10 Castleland Park View, Balbriggan",Dublin,211453.45,Yes,Balbriggan,Co. Dublin,q3,70%
+22/12/2010,"11  Castleland Park View, Balbriggan, Co. Dublin",Dublin,198237.88,Yes,Balbriggan,Co. Dublin,q3,60%
+28/01/2011,"77 Castleland Park View, Balbriggan, Co Dublin",Dublin,235000.0,Yes,Balbriggan,Co. Dublin,q4,80%
+08/02/2011,"37 Dun Saithne Green, Balbriggan",Dublin,118943.0,Yes,Balbriggan,Co. Dublin,q1,20%
+18/02/2011,"89  New Haven, Flemington Lane, Balbriggan",Dublin,139000.0,No,Balbriggan,Co. Dublin,q2,30%
+25/02/2011,"98 Moylaragh Crescent, Balbriggan",Dublin,158000.0,No,Balbriggan,Co. Dublin,q2,40%
+04/03/2011,"26 Quay Street, Balbriggan",Dublin,154000.0,No,Balbriggan,Co. Dublin,q2,40%
+16/03/2011,"51 Hamilton Avenue, Balbriggan",Dublin,135000.0,Yes,Balbriggan,Co. Dublin,q1,30%
+21/03/2011,"131 Bremore Castle, Balbriggan",Dublin,127500.0,No,Balbriggan,Co. Dublin,q1,20%
+30/03/2011,"17 Ashfield Rise, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+31/03/2011,"36 Moylaragh Rise, Balbriggan",Dublin,152000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/04/2011,"44  Cardy Rock Crescent, Balbriggan, Co. Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+28/04/2011,"14 Hastings Court, Balbriggan",Dublin,108371.0,Yes,Balbriggan,Co. Dublin,q1,20%
+28/04/2011,"2 Fancourt Heights, Balbriggan",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+29/04/2011,"170 Bath Road, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+05/05/2011,"16 Hampton Woods, Balbriggan",Dublin,24000.0,No,Balbriggan,Co. Dublin,q1,10%
+06/05/2011,"18A, Chapel Gate Naul Road, Balbriggan",Dublin,198000.0,No,Balbriggan,Co. Dublin,q3,60%
+18/05/2011,"47 Brega, Hamlet Lane, Balbriggan",Dublin,109500.0,No,Balbriggan,Co. Dublin,q1,20%
+19/05/2011,"6 Bremore Court, Balbriggan",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+19/05/2011,"Apartment  4 The Laurels, Quayside, Balbriggan",Dublin,104000.0,No,Balbriggan,Co. Dublin,q1,20%
+26/05/2011,"23 Chapel Gate, Balbriggan",Dublin,187500.0,No,Balbriggan,Co. Dublin,q3,60%
+15/06/2011,"40 Hampton Street, Balbriggan, Co Dublin",Dublin,108900.0,No,Balbriggan,Co. Dublin,q1,20%
+20/06/2011,"9 Bremore Castle Gate, Balbriggan",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+21/06/2011,"15 Hastings Avenue, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+24/06/2011,"22 Moylaragh Lane, Balbriggan",Dublin,138500.0,No,Balbriggan,Co. Dublin,q1,30%
+06/07/2011,"63 Pinewood Green Road, Balbriggan, Co Dublin",Dublin,87000.0,No,Balbriggan,Co. Dublin,q1,10%
+08/07/2011,"2 Bremore Lodge, Balbriggan",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+11/07/2011,"45 The Chantries, Balbriggan, County Dublin",Dublin,310000.0,No,Balbriggan,Co. Dublin,q4,100%
+15/07/2011,"67 New Haven Bay, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+19/07/2011,"Former Nib, 20 Drogheda Street, Balbriggan",Dublin,252500.0,No,Balbriggan,Co. Dublin,q4,90%
+21/07/2011,"101 Hampton Green, Balbriggan",Dublin,152500.0,No,Balbriggan,Co. Dublin,q2,40%
+22/07/2011,"29 High Street, Balbriggan",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/08/2011,"16 The Laurels, Quayside, Balbriggan",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/08/2011,"33 Brega, Hamlet Lane, Balbriggan",Dublin,134950.0,No,Balbriggan,Co. Dublin,q1,30%
+25/08/2011,"11 Hastings Court, Balbriggan, Co Dublin",Dublin,90750.0,Yes,Balbriggan,Co. Dublin,q1,10%
+25/08/2011,"69 New Haven Bay, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+08/09/2011,"11 Linnen Hall, George'S Hill, Balbriggan",Dublin,52000.0,No,Balbriggan,Co. Dublin,q1,10%
+14/09/2011,"3 Fancourt Heights, Balbriggan",Dublin,149000.0,No,Balbriggan,Co. Dublin,q2,30%
+16/09/2011,"8 Castleland Park Avenue, Balbriggan",Dublin,193832.0,Yes,Balbriggan,Co. Dublin,q3,60%
+20/09/2011,"1 Bremore Lodge, Hamlet Lane, Balbriggan",Dublin,126000.0,Yes,Balbriggan,Co. Dublin,q1,20%
+27/09/2011,"13  Cardy Rock Crescent, Balbriggan",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+03/10/2011,"105 Pinewood Green Road, Balbriggan",Dublin,78000.0,No,Balbriggan,Co. Dublin,q1,10%
+04/10/2011,"58 Bremore Drive, Balbriggan",Dublin,117500.0,No,Balbriggan,Co. Dublin,q1,20%
+12/10/2011,"13 Hastings Court, Balbriggan",Dublin,93333.32,Yes,Balbriggan,Co. Dublin,q1,10%
+19/10/2011,"40 Clonard Road, Balbriggan",Dublin,122000.0,No,Balbriggan,Co. Dublin,q1,20%
+25/10/2011,"7 Woodview, Balrothery, Balbriggan",Dublin,168000.0,No,Balbriggan,Co. Dublin,q2,50%
+04/11/2011,"20 Mount Rochford Avenue, Flemington, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+16/11/2011,"26 Mount Rochford Avenue, Balbriggan, County Dublin",Dublin,198000.0,No,Balbriggan,Co. Dublin,q3,60%
+23/11/2011,"12 Ashfield Drive, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+25/11/2011,"22 Ardgillan Lawn, Balrothery, Balbriggan",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+25/11/2011,"7 Flemington Park, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+09/12/2011,"18 Templeville, Balbriggan",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+09/12/2011,"50  Castlelands, Balbriggan",Dublin,420000.0,No,Balbriggan,Co. Dublin,q4,100%
+18/12/2011,"28 Tara Cove, Balbriggan",Dublin,202000.0,No,Balbriggan,Co. Dublin,q3,70%
+22/12/2011,"7 Castleland Park Avenue, Balbriggan",Dublin,193832.0,Yes,Balbriggan,Co. Dublin,q3,60%
+16/01/2012,"65 Bremore Castle, Balbriggan",Dublin,85000.0,No,Balbriggan,Co. Dublin,q1,10%
+20/01/2012,"120 Grattan Lodge, Hole In The Wall Road, Balbriggan",Dublin,305000.0,No,Balbriggan,Co. Dublin,q4,100%
+24/01/2012,"Apartment 6, Clonuske Rise, Balbriggan",Dublin,85000.0,No,Balbriggan,Co. Dublin,q1,10%
+03/02/2012,"71 Bremore Drive, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,20%
+07/02/2012,"137 New Haven Bay, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+12/02/2012,"11 Hastings Avenue, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+14/02/2012,"106 Clonard Court, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+14/02/2012,"8 Brackenwood Drive, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+17/02/2012,"25 Chapel Grove, Balbriggan",Dublin,133000.0,No,Balbriggan,Co. Dublin,q1,30%
+29/02/2012,"Apartment 19 Oakleigh, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+13/03/2012,"23 Ashfield Way, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+23/03/2012,"1 Castleland Park Avenue, Balbriggan",Dublin,176211.0,Yes,Balbriggan,Co. Dublin,q2,50%
+28/03/2012,"49 Clonard Street, Balbriggan",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+04/04/2012,"35 Chapel Street, Balbriggan",Dublin,80000.0,No,Balbriggan,Co. Dublin,q1,10%
+18/05/2012,"3 High Street, Balbriggan",Dublin,88550.0,No,Balbriggan,Co. Dublin,q1,10%
+22/05/2012,"Apt.7 Gracefields, Chapel Street, Balbriggan",Dublin,69500.0,No,Balbriggan,Co. Dublin,q1,10%
+24/05/2012,"2 Hastings Green, Hamlet Lane, Balbriggan",Dublin,85000.0,No,Balbriggan,Co. Dublin,q1,10%
+31/05/2012,"7 New Have Rise, Flemington, Balbriggan",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+31/05/2012,"Market Green, Balbriggan",Dublin,154167.0,No,Balbriggan,Co. Dublin,q2,40%
+05/06/2012,"14 Brecan Close, Balbriggan, County Dublin",Dublin,74000.0,No,Balbriggan,Co. Dublin,q1,10%
+18/06/2012,"1 Pinewood Green Hill, Balbriggan",Dublin,134000.0,No,Balbriggan,Co. Dublin,q1,30%
+20/06/2012,"21 Chieftains Lodge, Chieftains Way, Balbriggan",Dublin,59950.0,No,Balbriggan,Co. Dublin,q1,10%
+21/06/2012,"113 Castleland Court, Balbriggan",Dublin,59000.0,No,Balbriggan,Co. Dublin,q1,10%
+29/06/2012,"14 Brackenwood Lane, Balbriggan",Dublin,59500.0,No,Balbriggan,Co. Dublin,q1,10%
+02/07/2012,"31 Brackenwood Place, Balbriggan",Dublin,59500.0,No,Balbriggan,Co. Dublin,q1,10%
+06/07/2012,"40 Mount Rochford Ave, Balbriggan",Dublin,199000.0,No,Balbriggan,Co. Dublin,q3,60%
+12/07/2012,"43 Clonard Court, Balbriggan",Dublin,81000.0,No,Balbriggan,Co. Dublin,q1,10%
+20/07/2012,"112  Hampton Green, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+27/07/2012,"106 Chapel Gate, Balbriggan",Dublin,193000.0,No,Balbriggan,Co. Dublin,q3,60%
+27/07/2012,"28 Wesrbrook Green, Balbriggan",Dublin,157000.0,No,Balbriggan,Co. Dublin,q2,40%
+27/07/2012,"6 Castleland Park Avenue, Balbriggan",Dublin,179735.68,Yes,Balbriggan,Co. Dublin,q2,50%
+30/07/2012,"23 Templeville, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+31/07/2012,"44 Moylaragh Mews, Balbriggan",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+10/08/2012,"88 Craoibhin Park, Balbriggan",Dublin,77000.0,No,Balbriggan,Co. Dublin,q1,10%
+16/08/2012,"71 Craoibhin Park, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+17/08/2012,"118 Hampton Green, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+17/08/2012,"13 The Coach Yard, Balrothery, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+23/08/2012,"15 St Peter'S Terrace, Hampton Street, Balbriggan",Dublin,106000.0,No,Balbriggan,Co. Dublin,q1,20%
+28/08/2012,"21 Castlemills, Balbriggan",Dublin,57000.0,No,Balbriggan,Co. Dublin,q1,10%
+31/08/2012,"8 Ashfield Rise, Balbriggan, Co. Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+06/09/2012,"3 Newtown Cottages, Dalyhaysy, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/09/2012,"122 Ashfield Rise, Balbriggan",Dublin,129000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/09/2012,"24 Moylaragh Avenue, Balbriggan",Dublin,102000.0,No,Balbriggan,Co. Dublin,q1,20%
+04/10/2012,"13 New Haven Rise, Flemington Lane, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,20%
+05/10/2012,"52 Brackenwood Drive, Balbriggan",Dublin,68000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/10/2012,"50 Craoibhinn Park, Balbriggan",Dublin,75000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/10/2012,"54 Brecan Close, Balbriggan",Dublin,72000.0,No,Balbriggan,Co. Dublin,q1,10%
+15/10/2012,"3 Castlelands, Balrothery, Balbriggan",Dublin,255000.0,No,Balbriggan,Co. Dublin,q4,90%
+15/10/2012,"66 Westbrook Green, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+17/10/2012,"2 Castleland Park Avenue, Balbriggan",Dublin,178854.62,Yes,Balbriggan,Co. Dublin,q2,50%
+19/10/2012,"13 Chapel Grove, Balbriggan",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+19/10/2012,"22 Brackenwood Drive, Balbriggan",Dublin,59000.0,No,Balbriggan,Co. Dublin,q1,10%
+22/10/2012,"1 Westbrook Green, Balbriggan",Dublin,177000.0,No,Balbriggan,Co. Dublin,q2,50%
+24/10/2012,"66 Castleland Park View, Balbriggan",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+31/10/2012,"4 Fulham Terrace, Balbriggan",Dublin,148000.0,No,Balbriggan,Co. Dublin,q2,30%
+19/11/2012,"27 Curran Park, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,20%
+23/11/2012,"11 Brecan Close, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+26/11/2012,"Apt 19 Linnen Hall, Harbour Mill, George'S Hill  Balbriggan",Dublin,53000.0,No,Balbriggan,Co. Dublin,q1,10%
+28/11/2012,"3 Laragh, Hampton Street, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+28/11/2012,"7 Ardgillen Lawn, Ardgillen Heights Estate, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+30/11/2012,"1 Clonard Court, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/11/2012,"11 Bremore Pastures Crescent, Hamlet Lane, Balbriggan",Dublin,131200.0,No,Balbriggan,Co. Dublin,q1,30%
+30/11/2012,"33 Craoibhin Park, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+04/12/2012,"36 Mount Rochford Avenue, Balbriggan",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+07/12/2012,"4 Castleland Park Avenue, Balbriggan",Dublin,183259.0,Yes,Balbriggan,Co. Dublin,q3,60%
+14/12/2012,"3 Castleland Park Avenue, Balbriggan",Dublin,180616.0,Yes,Balbriggan,Co. Dublin,q2,50%
+17/12/2012,"26 Brackenwood Avenue, Balbriggan",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+18/12/2012,"5 Castlelands, Park Avenue, Balbriggan",Dublin,200000.0,Yes,Balbriggan,Co. Dublin,q3,70%
+20/12/2012,"14 Ashfield Drive, Balbriggan",Dublin,118000.0,No,Balbriggan,Co. Dublin,q1,20%
+20/12/2012,"66 New Haven Bay, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+20/12/2012,"8 Moylaragh Drive, Balbriggan, Co. Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+21/12/2012,"3 Derham Park, Balbriggan",Dublin,117000.0,No,Balbriggan,Co. Dublin,q1,20%
+21/12/2012,"8 Craoibhin Park, Balbriggan",Dublin,122000.0,No,Balbriggan,Co. Dublin,q1,20%
+21/12/2012,"Apt. 2  The Laurels, The Harbour, Balbriggan",Dublin,57000.0,No,Balbriggan,Co. Dublin,q1,10%
+14/01/2013,"121 Bremore Castle, Balbriggan",Dublin,107000.0,No,Balbriggan,Co. Dublin,q1,20%
+24/01/2013,"15 Ashfield Rise, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+28/01/2013,"67 Hampton Green, Balbriggan",Dublin,91500.0,No,Balbriggan,Co. Dublin,q1,10%
+30/01/2013,"7 Westbrook Crescent, Naul Road, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+01/02/2013,"131 New Haven Bay, Balbriggan",Dublin,100000.0,Yes,Balbriggan,Co. Dublin,q1,10%
+06/02/2013,"102 Drogheda Street, Balbriggan",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+07/02/2013,"7 Railway Street, Balbriggan",Dublin,65000.0,No,Balbriggan,Co. Dublin,q1,10%
+13/02/2013,"13 The Laurels, Quay Street  Harbour Road, Balbriggan",Dublin,75000.0,No,Balbriggan,Co. Dublin,q1,10%
+20/02/2013,"20 Hampton Green, Balbriggan",Dublin,85000.0,No,Balbriggan,Co. Dublin,q1,10%
+21/02/2013,"52 Clonard Court, Balbriggan",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+27/02/2013,"Bremore Pastures Drive, Balbriggan",Dublin,657269.0,Yes,Balbriggan,Co. Dublin,q4,100%
+11/03/2013,"Apt. 72, Barnwall Court, Balbriggan",Dublin,95000.0,No,Balbriggan,Co. Dublin,q1,10%
+13/03/2013,"129 Clonard Court, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+20/03/2013,"28 Cardy Rock Avenue, Balbriggan",Dublin,85000.0,No,Balbriggan,Co. Dublin,q1,10%
+21/03/2013,"39 Brackenwood Drive, Balbriggan",Dublin,58000.0,No,Balbriggan,Co. Dublin,q1,10%
+28/03/2013,"16 Brackenwood, Flemington, Balbriggan",Dublin,71000.0,No,Balbriggan,Co. Dublin,q1,10%
+28/03/2013,"5 Vauxhall Street, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+05/04/2013,"76 Hampton Green, Balbriggan",Dublin,118000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/04/2013,"32 Clonard St, Balbriggan",Dublin,97000.0,No,Balbriggan,Co. Dublin,q1,10%
+17/04/2013,"48 Pinewood Green Avenue, Balbriggan",Dublin,80000.0,No,Balbriggan,Co. Dublin,q1,10%
+22/04/2013,"14 Ringfort Place, Balrothery, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+26/04/2013,"6 Westbrook Heights, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+26/04/2013,"Apt 16  Georgres Court, Harbour Hill, Balbriggan",Dublin,53000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/04/2013,"10 Skerries Road, Balbriggan",Dublin,280000.0,No,Balbriggan,Co. Dublin,q4,100%
+03/05/2013,"41 Barnwall Court, Hamlet Lane, Balbriggan",Dublin,80000.0,No,Balbriggan,Co. Dublin,q1,10%
+08/05/2013,"93 Bremore Castle, Balbriggan",Dublin,116000.0,No,Balbriggan,Co. Dublin,q1,20%
+17/05/2013,"10 Castleland Park Avenue, Balbriggan",Dublin,185022.0,Yes,Balbriggan,Co. Dublin,q3,60%
+17/05/2013,"5  Bremore Lodge, Balbriggan",Dublin,67000.0,No,Balbriggan,Co. Dublin,q1,10%
+27/05/2013,"Hillside, Knocknagin Road, Balbriggan",Dublin,350000.0,No,Balbriggan,Co. Dublin,q4,100%
+28/05/2013,"9 Tara Court, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+07/06/2013,"3 Bremore Lodge, Hamlet Lane, Balbriggan",Dublin,70485.0,Yes,Balbriggan,Co. Dublin,q1,10%
+10/06/2013,"36  Moylaragh Rise, Balbriggan, Co. Dublin.",Dublin,128000.0,No,Balbriggan,Co. Dublin,q1,20%
+13/06/2013,"56 Derham Park, Balbriggan",Dublin,81500.0,No,Balbriggan,Co. Dublin,q1,10%
+14/06/2013,"1 Moylaragh Grove, Balbriggan",Dublin,63500.0,No,Balbriggan,Co. Dublin,q1,10%
+14/06/2013,"21 Ashfield Close, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+21/06/2013,"4 Hampton Wood, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+26/06/2013,"137 Brega, Balbriggan",Dublin,106000.0,No,Balbriggan,Co. Dublin,q1,20%
+02/07/2013,"16/18 Drogheda Street, Balbriggan",Dublin,300000.0,No,Balbriggan,Co. Dublin,q4,100%
+04/07/2013,"114 Lambeecher Estate, Bath Road, Balbriggan",Dublin,88000.0,No,Balbriggan,Co. Dublin,q1,10%
+11/07/2013,"130 Ashfield Rise, Balbriggan",Dublin,112000.0,No,Balbriggan,Co. Dublin,q1,20%
+17/07/2013,"75 Tara Cove, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+17/07/2013,"9 Moylaragh Drive, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+23/07/2013,"Glenview, Dublin Road, Balbriggan",Dublin,69000.0,No,Balbriggan,Co. Dublin,q1,10%
+24/07/2013,"13 Bremore Pastures Drive, Hamlet Lane, Balbriggan",Dublin,126872.0,Yes,Balbriggan,Co. Dublin,q1,20%
+26/07/2013,"29 Derham Park, Balbriggan",Dublin,131000.0,No,Balbriggan,Co. Dublin,q1,30%
+30/07/2013,"2  Castleland Court, Balbriggan",Dublin,123000.0,No,Balbriggan,Co. Dublin,q1,20%
+30/07/2013,"21 Landys Court, Harbour Mill, Balbriggan",Dublin,77000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/07/2013,"27 Bremore Pastures Drive, Balbriggan",Dublin,92511.01,Yes,Balbriggan,Co. Dublin,q1,10%
+02/08/2013,"28 Flemington Park, Balbriggan",Dublin,198000.0,No,Balbriggan,Co. Dublin,q3,60%
+07/08/2013,"24 Bremore Pastures Drive, Hamlet Lane, Balbriggan",Dublin,88000.0,No,Balbriggan,Co. Dublin,q1,10%
+14/08/2013,"73 Craoibhin Park, Balbriggan",Dublin,114000.0,No,Balbriggan,Co. Dublin,q1,20%
+23/08/2013,"9 Bremore Pastures Drive, Hamlet Lane, Balbriggan",Dublin,92511.0,Yes,Balbriggan,Co. Dublin,q1,10%
+30/08/2013,"33 Bremore Pastures Drive, Balbriggan",Dublin,101321.59,Yes,Balbriggan,Co. Dublin,q1,20%
+30/08/2013,"7 Ashfield Way, Balbriggan",Dublin,136500.0,No,Balbriggan,Co. Dublin,q1,30%
+10/09/2013,"Ladywell Cottage, Flemington Lane, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+12/09/2013,"14 Castleland Park Avenue, Balbriggan",Dublin,185022.0,Yes,Balbriggan,Co. Dublin,q3,60%
+12/09/2013,"28 Hampton Green, Balbriggan",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+16/09/2013,"152 Moylaragh Crescent, Balbriggan",Dublin,82500.0,No,Balbriggan,Co. Dublin,q1,10%
+19/09/2013,"15 Moylaragh Park, Balbriggan, Dublin",Dublin,56000.0,No,Balbriggan,Co. Dublin,q1,10%
+20/09/2013,"51 Clonard Court, Balbriggan, County Dublin",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+23/09/2013,"2 Westbrook Drive, Balbriggan",Dublin,163000.0,No,Balbriggan,Co. Dublin,q2,40%
+24/09/2013,"25  Tara Court, Balbriggan",Dublin,132500.0,No,Balbriggan,Co. Dublin,q1,30%
+27/09/2013,"13 Castleland Park Avenue, Balbriggan",Dublin,185022.0,Yes,Balbriggan,Co. Dublin,q3,60%
+27/09/2013,"147 Bremore Castle, Balbriggan",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+27/09/2013,"9 Cheiftains Crescent, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+02/10/2013,"147 New Haven Bay, Flemington Lane, Balbriggan",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+02/10/2013,"6 Castlekeep, Balrothery, Balbriggan",Dublin,93458.0,Yes,Balbriggan,Co. Dublin,q1,10%
+03/10/2013,"12 Balrothery Court, Balbriggan",Dublin,245000.0,No,Balbriggan,Co. Dublin,q4,90%
+04/10/2013,"1 Bremore Pastures Drive, Hamlet Lane, Balbriggan",Dublin,114537.0,Yes,Balbriggan,Co. Dublin,q1,20%
+04/10/2013,"83 Drogheda Street, Balbriggan",Dublin,121000.0,No,Balbriggan,Co. Dublin,q1,20%
+14/10/2013,"61 Clonuske Drive, Balbriggan",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+14/10/2013,"Knock Cross, Balrothery, Balbriggan",Dublin,350000.0,No,Balbriggan,Co. Dublin,q4,100%
+15/10/2013,"57 Hampton Woods, Balbriggan",Dublin,123000.0,No,Balbriggan,Co. Dublin,q1,20%
+17/10/2013,"14 Quay Street, Balbriggan",Dublin,95000.0,No,Balbriggan,Co. Dublin,q1,10%
+21/10/2013,"13 Westbrook Close, Balbriggan",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+21/10/2013,"18 Cardy Rock Close, Balbriggan, Co Dublin",Dublin,73000.0,No,Balbriggan,Co. Dublin,q1,10%
+22/10/2013,"2 Castle View, Drogheda Road, Balbriggan",Dublin,172984.0,Yes,Balbriggan,Co. Dublin,q2,50%
+25/10/2013,"1 Castleview, Bremore, Balbriggan",Dublin,196000.0,Yes,Balbriggan,Co. Dublin,q3,60%
+25/10/2013,"1 The Laurels, The Harbour, Balbriggan",Dublin,50000.0,No,Balbriggan,Co. Dublin,q1,10%
+25/10/2013,"20 Brackenwood Drive, Balbriggan, Dublin",Dublin,53000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/10/2013,"3 Castle View, Drogheda Road, Balbriggan",Dublin,172985.0,Yes,Balbriggan,Co. Dublin,q2,50%
+31/10/2013,"2 The Earl, Barons Hall, Balbriggan",Dublin,55000.0,No,Balbriggan,Co. Dublin,q1,10%
+01/11/2013,"53 Hampton Cove, Balbriggan",Dublin,187000.0,No,Balbriggan,Co. Dublin,q3,60%
+08/11/2013,"26 Hampton Cove, Balbriggan",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+11/11/2013,"9  Castleland Park Ave, Balbriggan",Dublin,189427.0,Yes,Balbriggan,Co. Dublin,q3,60%
+12/11/2013,"55 Craoibhin Park, Balbriggan",Dublin,76666.67,No,Balbriggan,Co. Dublin,q1,10%
+15/11/2013,"25 Clonard Rise, Balbriggan",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+15/11/2013,"Unit 2  Bremore Pastures Drive, Hamlet Lane, Balbriggan",Dublin,90000.0,Yes,Balbriggan,Co. Dublin,q1,10%
+22/11/2013,"7 Hastings Court, Balbriggan, Co Dublin",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+27/11/2013,"10 Ardgillen Lawn, Balrothery, Balbriggan",Dublin,246000.0,No,Balbriggan,Co. Dublin,q4,90%
+27/11/2013,"15 Castleland Park Avenue, Balbriggan",Dublin,185022.0,Yes,Balbriggan,Co. Dublin,q3,60%
+03/12/2013,"Unit 8 Pastures Drive, Hamlet Lane, Balbriggan",Dublin,90000.0,Yes,Balbriggan,Co. Dublin,q1,10%
+05/12/2013,"44 Clonard Court, Balbriggan",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+06/12/2013,"40 Tara Cove, Balbriggan",Dublin,40000.0,No,Balbriggan,Co. Dublin,q1,10%
+06/12/2013,"56 Ardgillan Lawn, Balbriggan",Dublin,197000.0,No,Balbriggan,Co. Dublin,q3,60%
+06/12/2013,"78 Tara Cove, Balbriggan",Dublin,137000.0,No,Balbriggan,Co. Dublin,q1,30%
+09/12/2013,"2 Martello Rd Martello Tower, Balbriggan, Dublin",Dublin,114000.0,No,Balbriggan,Co. Dublin,q1,20%
+11/12/2013,"Oban Cottage, Bremore, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+12/12/2013,"26 Mount Rochford Rise, Flemington Lane, Balbriggan",Dublin,118000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/12/2013,"43 The Chantries, Balrothery, Balbriggan",Dublin,298000.0,No,Balbriggan,Co. Dublin,q4,100%
+13/12/2013,"11 Castlelands Park Avenue, Balbriggan",Dublin,210000.0,Yes,Balbriggan,Co. Dublin,q3,70%
+13/12/2013,"7 The Laurels, The Harbour, Balbriggan",Dublin,63000.0,No,Balbriggan,Co. Dublin,q1,10%
+16/12/2013,"33 Chapel Gate, Balbriggan, Dublin",Dublin,147000.0,No,Balbriggan,Co. Dublin,q2,30%
+16/12/2013,"46 Hampton Green, Hampton Road, Balbriggan",Dublin,96000.0,No,Balbriggan,Co. Dublin,q1,10%
+17/12/2013,"20 Westbrook Crescent, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+18/12/2013,"26 Newhaven Bay, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+18/12/2013,"54 Westbrook Ave, Naul Rd, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+18/12/2013,"Unit 21, Bremore Pastures Drive, Hamlet Lane Balbriggan",Dublin,97000.0,Yes,Balbriggan,Co. Dublin,q1,10%
+19/12/2013,"85 Newhaven Bay, Balbriggan, Dublin",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+20/12/2013,"11 Chapel Hall, Chapel St, Balbriggan",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+20/12/2013,"157 Newhaven Bay Flemington Rd, Balbriggan, Dublin",Dublin,107500.0,No,Balbriggan,Co. Dublin,q1,20%
+31/12/2013,"10 Braemore Pastures, Drive, Balbriggan",Dublin,122026.0,Yes,Balbriggan,Co. Dublin,q1,20%
+31/12/2013,"6 Braemore Pastures, Drive, Balbriggan",Dublin,100440.0,Yes,Balbriggan,Co. Dublin,q1,20%
+09/01/2014,"16  Castleland Park Avenue, Balbriggan",Dublin,185022.0,Yes,Balbriggan,Co. Dublin,q3,60%
+13/01/2014,"96 Rosepark, Balrothery, Balbriggan",Dublin,167400.0,Yes,Balbriggan,Co. Dublin,q2,50%
+14/01/2014,"36 Clonard Court, Balbriggan, Dublin",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+23/01/2014,"12 Mount Rochford Dr, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+23/01/2014,"One Moylaragh Ave, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+29/01/2014,"30 Prospect, Naul Rd, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/01/2014,"6 Hampton Gardens, Balbriggan",Dublin,159950.0,Yes,Balbriggan,Co. Dublin,q2,40%
+07/02/2014,"18 Castleland Park Avenue, Balbriggan",Dublin,167400.0,Yes,Balbriggan,Co. Dublin,q2,50%
+10/02/2014,"112 Pineridge, Balbriggan",Dublin,152500.0,No,Balbriggan,Co. Dublin,q2,40%
+10/02/2014,"Unit 4, Bremore Lodge, Balbriggan",Dublin,55000.0,No,Balbriggan,Co. Dublin,q1,10%
+17/02/2014,"17 Martello Road, Martello Tower, Balbriggan",Dublin,128000.0,No,Balbriggan,Co. Dublin,q1,20%
+17/02/2014,"2 Castlekeep, Balrothery, Balbriggan",Dublin,93458.0,Yes,Balbriggan,Co. Dublin,q1,10%
+20/02/2014,"45 Hampton Cove, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/02/2014,"60 Westbrook Green, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+24/02/2014,"1 Hampton Court, Balbriggan, Dublin",Dublin,155066.07,Yes,Balbriggan,Co. Dublin,q2,40%
+28/02/2014,"5 The Chantries, Balbriggan, Dublin",Dublin,322500.0,No,Balbriggan,Co. Dublin,q4,100%
+06/03/2014,"2 The Avenue, Hampton Gardens, Balbriggan",Dublin,159950.0,No,Balbriggan,Co. Dublin,q2,40%
+07/03/2014,"7 Bremore Pastures Green, Balbriggan, Co Dublin",Dublin,67500.0,No,Balbriggan,Co. Dublin,q1,10%
+11/03/2014,"8 Hampton Court, Balbriggan, Dublin",Dublin,98500.0,No,Balbriggan,Co. Dublin,q1,10%
+14/03/2014,"51 The Chantries, Balbriggan, Dublin",Dublin,243000.0,No,Balbriggan,Co. Dublin,q4,90%
+14/03/2014,"55 Derham Pk, Balbriggan, Dublin",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+20/03/2014,"36 Tara Court, Balbriggan, Dublin",Dublin,141000.0,No,Balbriggan,Co. Dublin,q2,30%
+20/03/2014,"6 Oakleigh, Drogheda St, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+20/03/2014,"Unit 31 Bremore, Pastures Drive, Hamlet Lane  Balbriggan",Dublin,112500.0,Yes,Balbriggan,Co. Dublin,q1,20%
+25/03/2014,"16 Brega, Hamlet Lane, Balbriggan",Dublin,124950.0,No,Balbriggan,Co. Dublin,q1,20%
+25/03/2014,"16 Fancourt Heights, Balbriggan",Dublin,137000.0,No,Balbriggan,Co. Dublin,q1,30%
+28/03/2014,"6 The Laurels, The Harbour, Balbriggan",Dublin,81000.0,No,Balbriggan,Co. Dublin,q1,10%
+31/03/2014,"23 Clonuske Park, Hamlet Lane, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+31/03/2014,"34 Bremure Pastures Drive, Hamlet Lane, Balbriggan",Dublin,101321.59,Yes,Balbriggan,Co. Dublin,q1,20%
+02/04/2014,"12 Castleland Park Ave, Balbriggan",Dublin,185022.0,Yes,Balbriggan,Co. Dublin,q3,60%
+04/04/2014,"25 Quay Street, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+04/04/2014,"5 Bremore Cottages, Flemington Lane, Balbriggan",Dublin,237000.0,No,Balbriggan,Co. Dublin,q4,80%
+07/04/2014,"28 Chieftains Dr, Chieftains Way, Balbriggan",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+09/04/2014,"26 Castleland Park Avenue, Balbriggan, County Dublin",Dublin,190000.0,Yes,Balbriggan,Co. Dublin,q3,60%
+11/04/2014,"19 Castleland Park Avenue, Balbriggan",Dublin,167400.0,Yes,Balbriggan,Co. Dublin,q2,50%
+15/04/2014,"133 Brega, Hamlet Lane, Balbriggan",Dublin,117000.0,No,Balbriggan,Co. Dublin,q1,20%
+15/04/2014,"27 Westbrook Park, Balbriggan, Dublin",Dublin,217000.0,No,Balbriggan,Co. Dublin,q3,70%
+16/04/2014,"4 Tara Court, Balbriggan, Dublin",Dublin,137250.0,No,Balbriggan,Co. Dublin,q1,30%
+16/04/2014,"5 Balrothery Green, Balbriggan",Dublin,149780.0,Yes,Balbriggan,Co. Dublin,q2,40%
+17/04/2014,"4 Hamlet Close, Balbriggan, Dublin",Dublin,305000.0,No,Balbriggan,Co. Dublin,q4,100%
+25/04/2014,"68 Castleland, Balbriggan, Park View",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+30/04/2014,"8 Knightswood Park, Balrothery, Balbriggan",Dublin,349000.0,No,Balbriggan,Co. Dublin,q4,100%
+01/05/2014,"Medical Hall, Dublin Rd, Balbriggan",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+02/05/2014,"19 Tara Cove, Balbriggan, Dublin",Dublin,176000.0,No,Balbriggan,Co. Dublin,q2,50%
+02/05/2014,"8 Chapel Close, Balbriggan, Dublin",Dublin,179000.0,No,Balbriggan,Co. Dublin,q2,50%
+06/05/2014,"4 Hampton Gardens, Balbriggan",Dublin,140925.11,Yes,Balbriggan,Co. Dublin,q2,30%
+07/05/2014,"20 Castleland Park Avenue, Balbriggan",Dublin,167400.0,Yes,Balbriggan,Co. Dublin,q2,50%
+12/05/2014,"111 Newhaven Bay, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+13/05/2014,"42 Moylaragh Walk, Balbriggan, Dublin",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+21/05/2014,"4 New Haven Close, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+23/05/2014,"22 Castleland Park Avenue, Balbriggan",Dublin,190000.0,Yes,Balbriggan,Co. Dublin,q3,60%
+27/05/2014,"36 Bremore Pastures Drive, Balbriggan",Dublin,105727.0,Yes,Balbriggan,Co. Dublin,q1,20%
+27/05/2014,"7 Hampton Gardens, Balbriggan",Dublin,140529.0,Yes,Balbriggan,Co. Dublin,q2,30%
+27/05/2014,"Unit 11, Hampton Gardens, Balbriggan",Dublin,140952.11,Yes,Balbriggan,Co. Dublin,q2,30%
+29/05/2014,"23 Castleland Park Avenue, Balbriggan",Dublin,167400.0,Yes,Balbriggan,Co. Dublin,q2,50%
+30/05/2014,"1 Glebe Cresent, Market Green, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/05/2014,"2 Glebe Cresent, Market Green, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/05/2014,"29 Ringfort Ave, Balbriggan, Dublin",Dublin,164000.0,No,Balbriggan,Co. Dublin,q2,40%
+30/05/2014,"3 Glebe Cresent, Market Green, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/05/2014,"4 Glebe Cresent, Market Green, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/05/2014,"5 Glebe Cresent, Market Green, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/05/2014,"6 Glebe Cresent, Market Green, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/05/2014,"7 Glebe Crescent, Market Green, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/05/2014,"8 Glebe Cresent, Market Green, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+30/05/2014,"9 Glebe Cresent, Market Green, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,10%
+06/06/2014,"8  Hampton Gardens, Balbriggan, Co. Dublin",Dublin,140925.11,Yes,Balbriggan,Co. Dublin,q2,30%
+09/06/2014,"65 Barnwall Court, Balbriggan, Dublin",Dublin,96000.0,No,Balbriggan,Co. Dublin,q1,10%
+13/06/2014,"34 Bremore Pastures Way, Balbriggan",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+17/06/2014,"10 Hampton Gardens, Balbriggan",Dublin,140925.0,Yes,Balbriggan,Co. Dublin,q2,30%
+19/06/2014,"20 Barons Hall Grove, Balbriggan, Dublin",Dublin,65000.0,No,Balbriggan,Co. Dublin,q1,10%
+20/06/2014,"5 Hampton Gardents, Balbriggan",Dublin,140925.0,Yes,Balbriggan,Co. Dublin,q2,30%
+20/06/2014,"62 Hampton St, Balbriggan, Dublin",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+23/06/2014,"25 Castleland Park Avenue, Balbriggan",Dublin,167401.0,Yes,Balbriggan,Co. Dublin,q2,50%
+24/06/2014,"21 Castleland Park Avenue, Balbriggan",Dublin,167400.0,Yes,Balbriggan,Co. Dublin,q2,50%
+27/06/2014,"142 Clonard Court, Balbriggan, Co Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+27/06/2014,"9 Hampton Gardens, Balbriggan",Dublin,140925.0,Yes,Balbriggan,Co. Dublin,q2,30%
+05/07/2014,"100 Newhaven Bay, Balbriggan, Dublin",Dublin,155555.0,No,Balbriggan,Co. Dublin,q2,40%
+10/07/2014,"18 Ardgillen Rd, Balrothery, Balbriggan",Dublin,325000.0,No,Balbriggan,Co. Dublin,q4,100%
+11/07/2014,"19 Georges Court, Balbriggan, Dublin",Dublin,65000.0,No,Balbriggan,Co. Dublin,q1,10%
+11/07/2014,"22 Chapel Gate, Balbriggan, Dublin",Dublin,179000.0,No,Balbriggan,Co. Dublin,q2,50%
+11/07/2014,"24 Castleland Park Avenue, Balbriggan",Dublin,190000.0,Yes,Balbriggan,Co. Dublin,q3,60%
+18/07/2014,"5 Knightswood Park, Balrothery, Balbriggan",Dublin,295000.0,No,Balbriggan,Co. Dublin,q4,100%
+21/07/2014,"56 Castlemill, Hamlet Lane, Balbriggan",Dublin,75000.0,No,Balbriggan,Co. Dublin,q1,10%
+22/07/2014,"132 Ashfield Rise, Balbriggan, Dublin",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+25/07/2014,"16 New Haven Ave, Flemington Lane, Balbriggan",Dublin,121000.0,No,Balbriggan,Co. Dublin,q1,20%
+28/07/2014,"1 Hastings Court, Hamlet Lane, Balbriggan",Dublin,172000.0,No,Balbriggan,Co. Dublin,q2,50%
+28/07/2014,"54 Chapel Ave, Balbriggan, Dublin 3",Dublin,178000.0,No,Balbriggan,Co. Dublin,q2,50%
+29/07/2014,"21 Curran Park, Balbriggan, Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+29/07/2014,"31 Chapel Grovet, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+30/07/2014,"9 Fancourt Rd, Balbriggan, Dublin",Dublin,245000.0,No,Balbriggan,Co. Dublin,q4,90%
+31/07/2014,"19 Newhaven Ave, Flemington Lane, Balbriggan",Dublin,158000.0,No,Balbriggan,Co. Dublin,q2,40%
+01/08/2014,"13 Cardy Rock Drive, Cardy Rock View, Balbriggan",Dublin,92000.0,No,Balbriggan,Co. Dublin,q1,10%
+05/08/2014,"17 Castleland Park Avenue, Balbriggan",Dublin,173568.28,Yes,Balbriggan,Co. Dublin,q2,50%
+08/08/2014,"3 Hampton Gardens, Balbriggan",Dublin,140925.11,Yes,Balbriggan,Co. Dublin,q2,30%
+11/08/2014,"27 Martello Rd, Martello Tower, Balbriggan",Dublin,161000.0,No,Balbriggan,Co. Dublin,q2,40%
+11/08/2014,"Bremore, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+12/08/2014,"2 Hampton Place, Balbriggan, Dublin",Dublin,35000.0,No,Balbriggan,Co. Dublin,q1,10%
+14/08/2014,"52 Westbrook Green, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+17/08/2014,"Knock Cross, Hynes Park, Courtlough- Balbriggan",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+20/08/2014,"45 Brecan Close, Balbriggan, County Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+22/08/2014,"13 Chapel Gate Naul Rd, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+22/08/2014,"19 Landys Court, Balbriggan",Dublin,55000.0,No,Balbriggan,Co. Dublin,q1,10%
+22/08/2014,"Properties At Bremore Pastures, Balbriggan, Co Dublin",Dublin,3315341.46,No,Balbriggan,Co. Dublin,q4,100%
+22/08/2014,"Properties At Bremore Pastures, Balbriggan, Co Dublin",Dublin,2119644.54,No,Balbriggan,Co. Dublin,q4,100%
+28/08/2014,"12 Bremore Pastures Drive, Hamlett Lane, Balbriggan",Dublin,137000.0,No,Balbriggan,Co. Dublin,q1,30%
+28/08/2014,"7 Moylaragh Dr, Balbriggan, Dublin",Dublin,116000.0,No,Balbriggan,Co. Dublin,q1,20%
+29/08/2014,"2 Martello Close, Flemington, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+29/08/2014,"21 Cornmill Apts, Balbriggan, Dublin",Dublin,91000.0,No,Balbriggan,Co. Dublin,q1,10%
+29/08/2014,"32 Mount Rochford Ave, Balbriggan, Dublin",Dublin,226000.0,No,Balbriggan,Co. Dublin,q4,80%
+04/09/2014,"132 Bath Rd, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+11/09/2014,"5 Cardy Rock Close, Balbriggan, Co. Dublin",Dublin,55000.0,No,Balbriggan,Co. Dublin,q1,10%
+12/09/2014,"162A Hampton Cove, Balbriggan, Dublin",Dublin,245000.0,No,Balbriggan,Co. Dublin,q4,90%
+16/09/2014,"54 Dun Saithne Crescent, Flemington Lane, Balbriggan",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+18/09/2014,"30 Castleland, Balbriggan, Park View",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+19/09/2014,"80 Hampton Cove, Balbriggan, Dublin",Dublin,148000.0,No,Balbriggan,Co. Dublin,q2,30%
+22/09/2014,"11 Moylaragh Park, Balbriggan, Dublin",Dublin,73500.0,No,Balbriggan,Co. Dublin,q1,10%
+22/09/2014,"59 Hampton Green, Balbriggan, Dublin",Dublin,104000.0,No,Balbriggan,Co. Dublin,q1,20%
+23/09/2014,"Apt 7, 1A/2A Bath Rd, Balbriggan",Dublin,51000.0,No,Balbriggan,Co. Dublin,q1,10%
+24/09/2014,"1 St Peters Terrace, Balbriggan, Dublin",Dublin,142000.0,No,Balbriggan,Co. Dublin,q2,30%
+24/09/2014,"Two Market Green, Balbriggan, Dublin",Dublin,117000.0,No,Balbriggan,Co. Dublin,q1,20%
+25/09/2014,"91 Dublin Street, Balbriggan, Co Dublin",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+26/09/2014,"87Tara Court, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+03/10/2014,"15 Georges Court, George'S Hill, Balbriggan",Dublin,75000.0,No,Balbriggan,Co. Dublin,q1,10%
+03/10/2014,"15 Georges Court, George'S Hill, Balbriggan",Dublin,75000.0,No,Balbriggan,Co. Dublin,q1,10%
+03/10/2014,"22 Harbour Mill, Linnen Hall, Balbriggan",Dublin,76000.0,No,Balbriggan,Co. Dublin,q1,10%
+03/10/2014,"23 Moylaragh Dr, Balbriggan, Dublin",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+06/10/2014,"17 Westbrook Close, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+08/10/2014,"19 The Laurels, Quayside, Balbriggan",Dublin,71000.0,No,Balbriggan,Co. Dublin,q1,10%
+08/10/2014,"20 Clonuske Close, Hamlet Lane, Balbriggan",Dublin,172000.0,No,Balbriggan,Co. Dublin,q2,50%
+09/10/2014,"34 Hampton St, Balbriggan, Dublin",Dublin,217000.0,No,Balbriggan,Co. Dublin,q3,70%
+14/10/2014,"Apt 8 Castlemill, Balbriggan, Dublin",Dublin,85000.0,No,Balbriggan,Co. Dublin,q1,10%
+15/10/2014,"19 Westbrook Grove, Naul Road, Balbriggan",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+17/10/2014,"34 Hampton Cove, Balbriggan",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+20/10/2014,"30 Balruddery Field, Balrothery, Balbriggan",Dublin,253000.0,No,Balbriggan,Co. Dublin,q4,90%
+21/10/2014,"31 Chapel Gate, Balbriggan, Dublin",Dublin,174000.0,No,Balbriggan,Co. Dublin,q2,50%
+23/10/2014,"41 Derham Park, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+24/10/2014,"12 Brackenwood Place, Balbriggan, Dublin",Dublin,83000.0,No,Balbriggan,Co. Dublin,q1,10%
+24/10/2014,"14 Cardy Rock Dr, Balbriggan, Dublin",Dublin,95000.0,No,Balbriggan,Co. Dublin,q1,10%
+24/10/2014,"43 Tara Court, Balbriggan",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+28/10/2014,"27 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,116000.0,No,Balbriggan,Co. Dublin,q1,20%
+31/10/2014,"3 Castleland Park Way, Balbriggan",Dublin,189427.0,Yes,Balbriggan,Co. Dublin,q3,60%
+31/10/2014,"31 Hamlet Square, Balbriggan, Co Dublin",Dublin,84000.0,No,Balbriggan,Co. Dublin,q1,10%
+31/10/2014,"64 Newhaven Bay, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+07/11/2014,"3 Moylaragh Crescent, Balbriggan, Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+07/11/2014,"5 Moylaragh Mews, Balbriggan, Dublin",Dublin,94000.0,No,Balbriggan,Co. Dublin,q1,10%
+07/11/2014,"7 Castleland Park Way, Balbriggan",Dublin,189427.31,Yes,Balbriggan,Co. Dublin,q3,60%
+12/11/2014,"Apartment 55 Castlemill, Balbriggan",Dublin,75000.0,No,Balbriggan,Co. Dublin,q1,10%
+14/11/2014,"24 Balruddery Wood, Balrothery, Balbriggan",Dublin,187000.0,No,Balbriggan,Co. Dublin,q3,60%
+19/11/2014,"11 Balruddery Fields, Balrothery, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+19/11/2014,"Apt 2 Hamlet Lane, Castlemill, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+20/11/2014,"4 Brackenwood Place, Balbriggan, Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+21/11/2014,"10 Chieftains Crescent, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+21/11/2014,"126 Clonard Court, Balbriggan, Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+21/11/2014,"9 Gracefields, Balbriggan, Dublin",Dublin,75000.0,No,Balbriggan,Co. Dublin,q1,10%
+25/11/2014,"83 Bremore Castle, Hamlet Lane, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+27/11/2014,"25 Chapel St, Balbriggan, Dublin",Dublin,122000.0,No,Balbriggan,Co. Dublin,q1,20%
+27/11/2014,"Number 3, Garrai Linn  Balrothery, Balbriggan",Dublin,319185.0,Yes,Balbriggan,Co. Dublin,q4,100%
+28/11/2014,"5 Georges Court, Harbour Hill, Balbriggan",Dublin,88000.0,No,Balbriggan,Co. Dublin,q1,10%
+01/12/2014,"124 Ashfield Rise, Balbriggan, Dublin",Dublin,126000.0,No,Balbriggan,Co. Dublin,q1,20%
+02/12/2014,"41 Clonuske Dr, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+03/12/2014,"7 Cornmill, Vauxhall St, Balbriggan",Dublin,97500.0,No,Balbriggan,Co. Dublin,q1,10%
+03/12/2014,"Apartment 1, Bremore Pastures Way, Balbriggan",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+05/12/2014,"1 Castleland Parkway, Balbriggan, Dublin",Dublin,235000.0,Yes,Balbriggan,Co. Dublin,q4,80%
+05/12/2014,"25 Hamlet Ave, Chieftains Way, Balbriggan",Dublin,154000.0,No,Balbriggan,Co. Dublin,q2,40%
+05/12/2014,"Flemington, Balbriggan, Co Dublin",Dublin,240000.0,No,Balbriggan,Co. Dublin,q4,80%
+11/12/2014,"52 Hampton Woods, Balbriggan, Co Dublin",Dublin,148500.0,No,Balbriggan,Co. Dublin,q2,30%
+12/12/2014,"1 Bremore Pastures Park, Balbriggan, Dublin",Dublin,88000.0,No,Balbriggan,Co. Dublin,q1,10%
+12/12/2014,"105 Pinewood, Balbriggan, Green Rd",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/12/2014,"11 Castleland Park Way, Balbriggan",Dublin,189427.0,Yes,Balbriggan,Co. Dublin,q3,60%
+12/12/2014,"135 Castleland Court, Balbriggan, Dublin",Dublin,90500.0,No,Balbriggan,Co. Dublin,q1,10%
+12/12/2014,"19 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,131000.0,No,Balbriggan,Co. Dublin,q1,30%
+12/12/2014,"19 Westbrook Dr, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+16/12/2014,"7 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,118942.0,No,Balbriggan,Co. Dublin,q1,20%
+17/12/2014,"17 Cardy Rock Crescent, Balbriggan, Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+17/12/2014,"65 Bremore Castle, Balbriggan, Dublin",Dublin,134000.0,No,Balbriggan,Co. Dublin,q1,30%
+18/12/2014,"26 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,122467.0,No,Balbriggan,Co. Dublin,q1,20%
+18/12/2014,"6 Castleland, Park Way, Balbriggan",Dublin,189427.0,Yes,Balbriggan,Co. Dublin,q3,60%
+18/12/2014,"65 Dun Saithne Crescent, Flemington Lane, Balbriggan",Dublin,153000.0,No,Balbriggan,Co. Dublin,q2,40%
+18/12/2014,"7 Garrai Linn, Balrothery, Balbriggan",Dublin,325110.13,Yes,Balbriggan,Co. Dublin,q4,100%
+19/12/2014,"15 Tara Court, Balbriggan, Dublin",Dublin,174000.0,No,Balbriggan,Co. Dublin,q2,50%
+19/12/2014,"8 Castleland Park Way, Balbriggan",Dublin,189427.0,Yes,Balbriggan,Co. Dublin,q3,60%
+22/12/2014,"10 Hastings Ave, Balbriggan, Dublin",Dublin,105340.0,No,Balbriggan,Co. Dublin,q1,20%
+22/12/2014,"15 New Haven Rise, Flemington, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+22/12/2014,"33 Hampton St, Balbriggan, Dublin",Dublin,128239.0,No,Balbriggan,Co. Dublin,q1,20%
+23/12/2014,"16 Moylaragh Mews, Balbriggan, Dublin",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+23/12/2014,"28 Bremore Pastures Way, Balbriggan, Dublin",Dublin,95000.0,No,Balbriggan,Co. Dublin,q1,10%
+08/01/2015,"15 Castleland Park Way, Balbriggan",Dublin,189427.31,Yes,Balbriggan,Co. Dublin,q3,60%
+09/01/2015,"125 New Haven, Balbriggan, Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+09/01/2015,"15 Hampton Cove, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+13/01/2015,"71 Moylaragh Drive, Balbriggan, Co Dublin",Dublin,96000.0,No,Balbriggan,Co. Dublin,q1,10%
+15/01/2015,"15 Hamlet Ave, Barons Hall, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+15/01/2015,"97 Castlelands Court, Balbriggan, Co.Dublin",Dublin,183000.0,No,Balbriggan,Co. Dublin,q3,60%
+20/01/2015,"136 Bremore Castle, Hamlet Lane, Balbriggan",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+28/01/2015,"Apartment 11 Georges Court, Georges Hill, Balbriggan",Dublin,99000.0,No,Balbriggan,Co. Dublin,q1,10%
+29/01/2015,"13 Castleland Park Way, Balbriggan",Dublin,189427.31,Yes,Balbriggan,Co. Dublin,q3,60%
+29/01/2015,"68 Bremore Pastures Way, Balbriggan, Dublin",Dublin,95000.0,No,Balbriggan,Co. Dublin,q1,10%
+29/01/2015,"9 Castleland Park Way, Balbriggan, Co Dublin",Dublin,189427.0,Yes,Balbriggan,Co. Dublin,q3,60%
+30/01/2015,"47 Hampton Woods, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+06/02/2015,"6 Bremore Castle, Balbriggan, Dublin",Dublin,187000.0,No,Balbriggan,Co. Dublin,q3,60%
+10/02/2015,"17 Westbrook Green, Balbriggan, Dublin",Dublin,196000.0,No,Balbriggan,Co. Dublin,q3,60%
+11/02/2015,"10 Castleland Park Way, Balbriggan, Co. Dublin",Dublin,189427.0,Yes,Balbriggan,Co. Dublin,q3,60%
+12/02/2015,"2 Church Street, Balbriggan, Co Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+13/02/2015,"63 Bremore Pastures Way, Balbriggan",Dublin,114537.44,Yes,Balbriggan,Co. Dublin,q1,20%
+13/02/2015,"76 Chapel Gate, Balbriggan, Dublin",Dublin,229000.0,No,Balbriggan,Co. Dublin,q4,80%
+16/02/2015,"89 Lambeecher, Bath Rd, Balbriggan",Dublin,164000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/02/2015,"12 Georges Court, Harbour Mill, Balbriggan",Dublin,99000.0,No,Balbriggan,Co. Dublin,q1,10%
+20/02/2015,"18 Rosepark, Balrothery, Balbriggan",Dublin,151000.0,No,Balbriggan,Co. Dublin,q2,40%
+25/02/2015,"49 Moylaragh Dr, Balbriggan, Dublin",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+04/03/2015,"13 Mount Rochford Rise, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+04/03/2015,"20 Chieftains Dr, Balbriggan, Dublin",Dublin,158000.0,No,Balbriggan,Co. Dublin,q2,40%
+04/03/2015,"21 Georges Court, Harbour Mill, Balbriggan",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+06/03/2015,"12 Ashfield Dr, Balbriggan, Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+06/03/2015,"43 Fancourt Heights, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+06/03/2015,"7 Martello Terrace, Balbriggan, Dublin",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+10/03/2015,"12 Castleland Park Way, Balbriggan",Dublin,189427.31,Yes,Balbriggan,Co. Dublin,q3,60%
+12/03/2015,"126 Hampton Green, Balbriggan, Dublin",Dublin,152000.0,No,Balbriggan,Co. Dublin,q2,40%
+13/03/2015,"7 Market Green, Balbriggan, Co Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+16/03/2015,"3 Market Green, Balbriggan, Dublin",Dublin,126670.0,No,Balbriggan,Co. Dublin,q1,20%
+18/03/2015,"17 Castleland Park Way, Balbriggan, Co Dublin",Dublin,198237.0,Yes,Balbriggan,Co. Dublin,q3,60%
+19/03/2015,"60 Bremore Pastures Way, Balbriggan, Dublin",Dublin,95000.0,No,Balbriggan,Co. Dublin,q1,10%
+20/03/2015,"47 Bremore Pastures Way, Balbriggan, Dublin",Dublin,152000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/03/2015,"6 Moylaragh Court, Flemmington, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+23/03/2015,"56 Bremore Pastures Way, Balbriggan, Dublin",Dublin,102500.0,No,Balbriggan,Co. Dublin,q1,20%
+23/03/2015,"Bremore, Balbriggan, Co. Dublin",Dublin,80000.0,No,Balbriggan,Co. Dublin,q1,10%
+24/03/2015,"27 Moylaragh Dr, Balbriggan, Dublin",Dublin,93500.0,No,Balbriggan,Co. Dublin,q1,10%
+26/03/2015,"18 Castleland Park Way, Balbriggan, County Dublin",Dublin,198237.89,Yes,Balbriggan,Co. Dublin,q3,60%
+26/03/2015,"26 Bremore Pastures Avenue, Balbriggan, County Dublin",Dublin,136000.0,No,Balbriggan,Co. Dublin,q1,30%
+26/03/2015,"28 Bremore Pastures Crescent, Balbriggan",Dublin,137000.0,No,Balbriggan,Co. Dublin,q1,30%
+26/03/2015,"39 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,156000.0,No,Balbriggan,Co. Dublin,q2,40%
+26/03/2015,"42 Bremore Pastures Way, Balbriggan, County Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+26/03/2015,"46 Craoibhin Park, Balbriggan, Co Dublin",Dublin,162750.0,No,Balbriggan,Co. Dublin,q2,40%
+26/03/2015,"9 Clonuske View, Hamlet Lane, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+27/03/2015,"2 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,132000.0,No,Balbriggan,Co. Dublin,q1,30%
+27/03/2015,"4 Castle View, Drogheda Road, Balbriggan",Dublin,229866.0,Yes,Balbriggan,Co. Dublin,q4,80%
+31/03/2015,"14 Derham Park, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+01/04/2015,"2 Chapel Grove, Naul Rd, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+02/04/2015,"1 The Lodge, Barons Hall Flemington, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,20%
+02/04/2015,"33 Trimeston, Hamlet Lane, Balbriggan",Dublin,85000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/04/2015,"33 Tara Cove, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+17/04/2015,"24 Curran Park, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+17/04/2015,"30 Clonuske Rise, Hamlet Lane, Balbriggan",Dublin,177445.0,No,Balbriggan,Co. Dublin,q2,50%
+17/04/2015,"52 Bremore Pastures Way, Balbriggan, Dublin",Dublin,179000.0,No,Balbriggan,Co. Dublin,q2,50%
+24/04/2015,"16 Oakleigh, Balbriggan, Dublin",Dublin,128000.0,No,Balbriggan,Co. Dublin,q1,20%
+24/04/2015,"5 Castleland Park Way, Balbriggan, Co Dublin",Dublin,198238.0,Yes,Balbriggan,Co. Dublin,q3,60%
+27/04/2015,"57 Craiobhin Park, Balbriggan, Co Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+29/04/2015,"66 Bremore Pastures Way, Balbriggan, Dublin",Dublin,132500.0,No,Balbriggan,Co. Dublin,q1,30%
+30/04/2015,"11 Dun Saithne Rd, Flemington Lane, Balbriggan",Dublin,161000.0,No,Balbriggan,Co. Dublin,q2,40%
+01/05/2015,"21 Derham Park, Balbriggan, Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+01/05/2015,"26 Hampton Cove, Balbriggan, Dublin",Dublin,149950.0,No,Balbriggan,Co. Dublin,q2,40%
+01/05/2015,"9 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,133000.0,No,Balbriggan,Co. Dublin,q1,30%
+06/05/2015,"16 Gibbons Terrace, Balbriggan, Dublin",Dublin,173000.0,No,Balbriggan,Co. Dublin,q2,50%
+07/05/2015,"204 Spicers Mill, Balbriggan, Dublin",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+07/05/2015,"6 Bremore Pastures Crescent, Balbriggan, Co. Dublin",Dublin,125551.0,Yes,Balbriggan,Co. Dublin,q1,20%
+08/05/2015,"45 Clonuske Dr, Hamlet Lane, Balbriggan",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+08/05/2015,"Apt 13 Block D, Harbour Mill, Balbriggan",Dublin,77000.0,No,Balbriggan,Co. Dublin,q1,10%
+11/05/2015,"36 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+13/05/2015,"Apt 4 Castle Mill, Hamelt Lane, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,20%
+15/05/2015,"12 Hampton Cove, Balbriggan, Dublin",Dublin,280000.0,No,Balbriggan,Co. Dublin,q4,100%
+15/05/2015,"75 Drogheda St, Balbriggan, Dublin",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+18/05/2015,"11 New Haven Pk, Flemington Lane, Balbriggan",Dublin,154000.0,No,Balbriggan,Co. Dublin,q2,40%
+18/05/2015,"22 Landys Court, Georges Hill, Balbriggan",Dublin,78900.0,No,Balbriggan,Co. Dublin,q1,10%
+20/05/2015,"16 Dun Saithne View, Flemington Lane, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+20/05/2015,"21 Castleland Park Way, Balbriggan",Dublin,198237.88,Yes,Balbriggan,Co. Dublin,q3,60%
+20/05/2015,"99 Bremore Castle, Balbriggan, Dublin",Dublin,171500.0,No,Balbriggan,Co. Dublin,q2,50%
+21/05/2015,"Balgaddy, Ring Commons, Balbriggan",Dublin,485000.0,No,Balbriggan,Co. Dublin,q4,100%
+22/05/2015,"20 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,139000.0,No,Balbriggan,Co. Dublin,q2,30%
+22/05/2015,"89 Dublin Street, Balbriggan, Co Dublin",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+25/05/2015,"28 Chapel Ave, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+28/05/2015,"16 Bremore, Pastures Way, Balbriggan",Dublin,80000.0,No,Balbriggan,Co. Dublin,q1,10%
+28/05/2015,"88 Castleland Park Way, Balbriggan",Dublin,198238.0,Yes,Balbriggan,Co. Dublin,q3,60%
+03/06/2015,"43 Chapel Close, Balbriggan, Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+04/06/2015,"90 Castleland Park Way, Balbriggan, County Dublin",Dublin,173250.0,Yes,Balbriggan,Co. Dublin,q2,50%
+05/06/2015,"44 Clonard Court, Balbriggan, Dublin",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+05/06/2015,"58 Hampton Woods, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+10/06/2015,"32 Trimelston, Hamlet Lane, Balbriggan",Dublin,85000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/06/2015,"50 Brackenwood Dr, Balbriggan, Dublin",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/06/2015,"Apartmenet 6 Georges Court, 12 Drogheda Street, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/06/2015,"Apartment 3 Georges Court, 12 Drogheda Street, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/06/2015,"Apartment 4 Georges Court, 12 Drogheda Street, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/06/2015,"Apartment 5 Georges Court, 12 Drogheda Street, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/06/2015,"Apartment 7 Georges Court, 12 Drogheda Street, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/06/2015,"Apartment 8 Georges Court, 12  Drogheda St, Balbriggan",Dublin,70000.0,No,Balbriggan,Co. Dublin,q1,10%
+11/06/2015,"50 Pinewood Green Ave, Balbriggan, Dublin",Dublin,131500.0,No,Balbriggan,Co. Dublin,q1,30%
+12/06/2015,"34 Seapoint, Balbriggan, Co Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+16/06/2015,"10 Martello Rise, Balbriggan, Dublin",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+16/06/2015,"14 Castlelands Park Way, Balbriggan",Dublin,205286.0,Yes,Balbriggan,Co. Dublin,q3,70%
+17/06/2015,"41 Brecan Close, Balbriggan, Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+18/06/2015,"9 Cherrygarth, Brecan Close, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+19/06/2015,"16 Clonard Street, Balbriggan, Co. Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+19/06/2015,"40 Bremore Pastures Way, Balbriggan, Dublin",Dublin,88105.0,No,Balbriggan,Co. Dublin,q1,10%
+19/06/2015,"72 Castlemill, Hamlet Lane, Balbriggan",Dublin,99500.0,No,Balbriggan,Co. Dublin,q1,10%
+22/06/2015,"47 Dun Siathne Crescent, Flemington Lane, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+25/06/2015,"14 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+25/06/2015,"20 Castleland Park Way, Balbriggan",Dublin,198238.0,Yes,Balbriggan,Co. Dublin,q3,60%
+29/06/2015,"28 Chapel Close, Balbriggan, Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+30/06/2015,"126 Brega, Hamlet Lane, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+30/06/2015,"65 Barons Park, Flemington, Balbriggan",Dublin,118000.0,No,Balbriggan,Co. Dublin,q1,20%
+01/07/2015,"8 The Laurels  Quayside, The Harbour, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,20%
+03/07/2015,"4 Fullam St, Balbriggan, Dublin",Dublin,148000.0,No,Balbriggan,Co. Dublin,q2,30%
+03/07/2015,"57 Newhaven Bay, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+06/07/2015,"Apartment 8 Cstlekeep, Balrathy, Balbriggan",Dublin,126500.0,No,Balbriggan,Co. Dublin,q1,20%
+09/07/2015,"59 Bremore Pastures Way, Balbriggan, Dublin",Dublin,132500.0,No,Balbriggan,Co. Dublin,q1,30%
+09/07/2015,"89 Castleland Park Way, Balbriggan",Dublin,198200.0,Yes,Balbriggan,Co. Dublin,q3,60%
+10/07/2015,"4 Garrai Linn, Balrothery, Balbriggan",Dublin,356828.0,Yes,Balbriggan,Co. Dublin,q4,100%
+17/07/2015,"33 Moylaragh Gardens, Balbriggan, Dublin",Dublin,73000.0,No,Balbriggan,Co. Dublin,q1,10%
+20/07/2015,"60 Block B Castlemill, Hamlet Lane, Balbriggan",Dublin,117000.0,No,Balbriggan,Co. Dublin,q1,20%
+21/07/2015,"30 Rosepark, Balrothery, Balbriggan",Dublin,236000.0,No,Balbriggan,Co. Dublin,q4,80%
+23/07/2015,"31 Chapel Grovet, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+23/07/2015,"91 Castlelland Park Way, Balbriggan",Dublin,198238.0,Yes,Balbriggan,Co. Dublin,q3,60%
+24/07/2015,"32 Cardy Rock Ave, Cardy Rock View, Balbriggan",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+24/07/2015,"73 Bremore Castle, Balbriggan, Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+29/07/2015,"14 Georges Court, Balbriggan",Dublin,114500.0,No,Balbriggan,Co. Dublin,q1,20%
+29/07/2015,"24 Bremore Pastures Crestent, Balbriggan, Co Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+29/07/2015,"24 Mount Rochford Rise, Flemington Lane, Balbriggan",Dublin,179000.0,No,Balbriggan,Co. Dublin,q2,50%
+30/07/2015,"52 Barons Hall Park, Balbriggan, Dublin",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+31/07/2015,"24 Westbrook Close, Balbriggan, Dublin",Dublin,176500.0,No,Balbriggan,Co. Dublin,q2,50%
+31/07/2015,"5 Market Green, Balbriggan, Co Dublin",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+31/07/2015,"78 Chapel Gate, Naul Rd, Balbriggan",Dublin,247500.0,No,Balbriggan,Co. Dublin,q4,90%
+11/08/2015,"1 Moylaragh Lodge, Balbriggan, Moylaragh",Dublin,82500.0,No,Balbriggan,Co. Dublin,q1,10%
+11/08/2015,"11 Ashfield Way, Balbriggan, Dublin",Dublin,138000.0,No,Balbriggan,Co. Dublin,q1,30%
+14/08/2015,"23 Brecan Close, Balbriggan, Dublin",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+17/08/2015,"12 Mount Rochford Rise, Co Dublin, Balbriggan",Dublin,196000.0,No,Balbriggan,Co. Dublin,q3,60%
+19/08/2015,"3 Ashfield Rise, Balbriggan, Co. Dublin",Dublin,106000.0,No,Balbriggan,Co. Dublin,q1,20%
+19/08/2015,"39 Moylaragh Dr, Balbriggan, Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+21/08/2015,"24 Temple Ville, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+21/08/2015,"4 Mill Race, Clonard St, Balbriggan",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+28/08/2015,"86 Hampton Cove, Balbriggan, Dublin",Dublin,350000.0,No,Balbriggan,Co. Dublin,q4,100%
+28/08/2015,"94 Castleland Park Way, Balbriggan",Dublin,198238.0,Yes,Balbriggan,Co. Dublin,q3,60%
+01/09/2015,"58 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,133000.0,No,Balbriggan,Co. Dublin,q1,30%
+02/09/2015,"62 Bremore Pastures Way, Balbriggan, Dublin",Dublin,118502.2,Yes,Balbriggan,Co. Dublin,q1,20%
+03/09/2015,"31 Bremore Pastures Way, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+03/09/2015,"90 Moylaragh Crescent, Balbriggan, Co Dublin",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+04/09/2015,"34 Hampton Woods, Balbriggan, Dublin",Dublin,211000.0,No,Balbriggan,Co. Dublin,q3,70%
+07/09/2015,"52 Castleland Court, Balbriggan, Dublin",Dublin,203000.0,No,Balbriggan,Co. Dublin,q3,70%
+08/09/2015,"32 Rosepark, Balrothery, Balbriggan",Dublin,275000.0,No,Balbriggan,Co. Dublin,q4,100%
+09/09/2015,"8 Hastings Close, Hamlet Lane, Balbriggan",Dublin,132000.0,No,Balbriggan,Co. Dublin,q1,30%
+09/09/2015,"87 Clonard Ct, Balbriggan, Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+10/09/2015,"37 Hamlet Sq, Barons Hall, Balbriggan",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+17/09/2015,"41 Moylaragh Rise, Balbriggan, Dublin",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,20%
+18/09/2015,"58 Dublin St, Balbriggan, Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+18/09/2015,"92 Castleland Park Way, Balbriggan",Dublin,198237.0,Yes,Balbriggan,Co. Dublin,q3,60%
+21/09/2015,"60 Dun Saithne Crescent, Balbriggan",Dublin,179000.0,No,Balbriggan,Co. Dublin,q2,50%
+23/09/2015,"33 Moylaragh Gardens, Balbriggan, Dublin",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+24/09/2015,"2 Westbrook Crescent, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+24/09/2015,"29 Ashfield Rise, Balbriggan, Co Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+24/09/2015,"46 Bremore Pastures Way, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+24/09/2015,"788 Bremore Castle, Hamlet Lane, Balbriggan",Dublin,188000.0,No,Balbriggan,Co. Dublin,q3,60%
+25/09/2015,"10 Ringfort Close, Balrothery, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+29/09/2015,"14 Brecan Close, Balbriggan, Co. Dublin",Dublin,109000.0,No,Balbriggan,Co. Dublin,q1,20%
+30/09/2015,"39 Bremore Pastures Way, Balbriggan, Dublin",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+30/09/2015,"8 Cherry Garth, Brecon Close, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+01/10/2015,"45 Ashfield Rise, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+02/10/2015,"18 Bremore Pastures Way, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+02/10/2015,"87 Castleland Park Way, Balbriggan",Dublin,198238.0,Yes,Balbriggan,Co. Dublin,q3,60%
+05/10/2015,"16 Tara Cove, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+16/10/2015,"1 Bremore Castle, Hamlet Lane, Balbriggan",Dublin,216000.0,No,Balbriggan,Co. Dublin,q3,70%
+16/10/2015,"19 Castelland, Park Way, Balbriggan",Dublin,207049.0,Yes,Balbriggan,Co. Dublin,q3,70%
+16/10/2015,"763 Bremore, Flemingtown, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/10/2015,"12 Templeville, Balbriggan, Co Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/10/2015,"8 Trimblestown, Hamlet Lane, Balbriggan",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+30/10/2015,"85 Castleland Park Way, Balbriggan, Co. Dublin",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+02/11/2015,"28 Barnwall Court, Bremore, Balbriggan",Dublin,158000.0,No,Balbriggan,Co. Dublin,q2,40%
+03/11/2015,"23 Chieftains Road, Chieftains Way, Balbriggan",Dublin,153000.0,No,Balbriggan,Co. Dublin,q2,40%
+03/11/2015,"38 Castlelands, Balbriggan, Park View",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+04/11/2015,"3 Bremore Castle, Balbriggan, Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+06/11/2015,"7 Chapel Place, Chapel St, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+10/11/2015,"Apt 7 Block H, Harbour Mill, Balbriggan",Dublin,57000.0,No,Balbriggan,Co. Dublin,q1,10%
+11/11/2015,"61 Bremore Pastures Way, Balbriggan, Dublin",Dublin,107500.0,No,Balbriggan,Co. Dublin,q1,20%
+13/11/2015,"10 Chapel Gate, Naul Road, Balbriggan",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+13/11/2015,"47 Bremore Pastures Crescent, Bremore Pastures, Balbriggan",Dublin,126000.0,No,Balbriggan,Co. Dublin,q1,20%
+14/11/2015,"54 Ashfield Rise, Balbriggan, County Dublin",Dublin,142500.0,No,Balbriggan,Co. Dublin,q2,30%
+18/11/2015,"4 Hampton Court, Balbriggan, Co Dublin",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,20%
+19/11/2015,"42 Clonard Court, Balbriggan, Co Dublin",Dublin,125500.0,No,Balbriggan,Co. Dublin,q1,20%
+20/11/2015,"81 Dun Saithne Crescent, Flemington Lane, Balbriggan",Dublin,166000.0,No,Balbriggan,Co. Dublin,q2,50%
+23/11/2015,"53 Bremore Pastures Way, Balbriggan, Dublin",Dublin,112000.0,No,Balbriggan,Co. Dublin,q1,20%
+25/11/2015,"142 Lambeecher, Bath Road, Balbriggan",Dublin,137500.0,No,Balbriggan,Co. Dublin,q1,30%
+27/11/2015,"13 Clomuske Rise, Hamlet Lane, Balbriggan",Dublin,157000.0,No,Balbriggan,Co. Dublin,q2,40%
+28/11/2015,"99 Hampton Green, Balbriggan, Dublin",Dublin,152000.0,No,Balbriggan,Co. Dublin,q2,40%
+02/12/2015,"16 Mount Rochford Rise, Flemington Lane, Balbriggan",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+04/12/2015,"14 Clonuske Close, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+04/12/2015,"4 Clonard Court, Balbriggan, Dublin",Dublin,92000.0,No,Balbriggan,Co. Dublin,q1,10%
+07/12/2015,"68 Trimleston, Balbriggan, Dublin",Dublin,93500.0,No,Balbriggan,Co. Dublin,q1,10%
+08/12/2015,"5 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+09/12/2015,"68 Castleland Park Way, Balbriggan",Dublin,198238.0,Yes,Balbriggan,Co. Dublin,q3,60%
+10/12/2015,"21 Cardy Rock, Balbriggan, Co. Dublin",Dublin,85000.0,No,Balbriggan,Co. Dublin,q1,10%
+11/12/2015,"15 Landys Court, Mill St, Balbriggan",Dublin,87000.0,No,Balbriggan,Co. Dublin,q1,10%
+11/12/2015,"20 Hastings Court, The Hastings, Balbriggan",Dublin,172500.0,No,Balbriggan,Co. Dublin,q2,50%
+14/12/2015,"62 Castleland Park Way, Balbriggan",Dublin,194462.5,Yes,Balbriggan,Co. Dublin,q3,60%
+15/12/2015,"4 The Rise, Balrothery, Balbriggan",Dublin,260000.0,No,Balbriggan,Co. Dublin,q4,90%
+15/12/2015,"65 Castleland Park Way, Balbriggan",Dublin,235000.0,Yes,Balbriggan,Co. Dublin,q4,80%
+15/12/2015,"Brecan House And Brecan Place, Drogheda Street, Balbriggan",Dublin,859031.0,No,Balbriggan,Co. Dublin,q4,100%
+17/12/2015,"18 The Laurels, The Harbour, Balbriggan",Dublin,86000.0,No,Balbriggan,Co. Dublin,q1,10%
+17/12/2015,"20 Clonuske Park, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+17/12/2015,"20 Westbrook Lawn, Naul Road, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+17/12/2015,"6 Cardy Rock Close, Balbriggan, Dublin",Dublin,91000.0,No,Balbriggan,Co. Dublin,q1,10%
+18/12/2015,"63 Castleisland Park Way, Balbriggan, Co. Dublin",Dublin,225000.0,Yes,Balbriggan,Co. Dublin,q3,80%
+18/12/2015,"73 Moylaragh Rise, Balbriggan, Co Dublin",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+22/12/2015,"19 Moylaragh Court, Balbriggan, Dublin",Dublin,114000.0,No,Balbriggan,Co. Dublin,q1,20%
+22/12/2015,"25 The Park Barrons Hall, Flemington, Balbriggan",Dublin,133000.0,No,Balbriggan,Co. Dublin,q1,30%
+22/12/2015,"4 Moylaragh View, Balbriggan, Dublin",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+12/01/2016,"10  The Barons, Balbriggan, Co Dublin",Dublin,62000.0,No,Balbriggan,Co. Dublin,q1,10%
+12/01/2016,"169 Hampton Cove, Balbriggan, Dublin",Dublin,303500.0,No,Balbriggan,Co. Dublin,q4,100%
+13/01/2016,"49 Dun Saithne Crescent, Flemington Lane, Balbriggan",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+15/01/2016,"81 Castleland Park Way, Balbriggan",Dublin,198238.0,Yes,Balbriggan,Co. Dublin,q3,60%
+15/01/2016,"9 Barons Hall Lodge, Balbriggan, Dublin",Dublin,88000.0,No,Balbriggan,Co. Dublin,q1,10%
+18/01/2016,"61 Brecan Close, Balbriggan, Co Dublin",Dublin,152500.0,No,Balbriggan,Co. Dublin,q2,40%
+19/01/2016,"64 Castleland Park Way, Balbriggan",Dublin,198200.0,Yes,Balbriggan,Co. Dublin,q3,60%
+27/01/2016,"10 Chapel Place, Chapel Street, Balbriggan",Dublin,95000.0,No,Balbriggan,Co. Dublin,q1,10%
+27/01/2016,"126 Bremore Castle, Hamlet Lane, Balbriggan",Dublin,178000.0,No,Balbriggan,Co. Dublin,q2,50%
+27/01/2016,"9 The Earl, Barons Hall House, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,20%
+01/02/2016,"3 Ashfield Rise, Balbriggan, Co. Dublin",Dublin,146500.0,No,Balbriggan,Co. Dublin,q2,30%
+01/02/2016,"32 Chapel Close, Balbriggan, Dublin",Dublin,198000.0,No,Balbriggan,Co. Dublin,q3,60%
+02/02/2016,"13 Chapel Place, Chapel St, Balbriggan",Dublin,121000.0,No,Balbriggan,Co. Dublin,q1,20%
+02/02/2016,"83 Dun Saithne Crescent, Flemington Lane, Balbriggan",Dublin,167800.0,No,Balbriggan,Co. Dublin,q2,50%
+04/02/2016,"8 Moylaragh Mews, Balbriggan, Dublin",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,20%
+04/02/2016,"Lisderg, Tobersool, Balbriggan",Dublin,355000.0,No,Balbriggan,Co. Dublin,q4,100%
+08/02/2016,"29 Dunsaithne View, Flemington Lane, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+10/02/2016,"47 Bremore Castle, Balbriggan, Co Dublin",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+10/02/2016,"Delahasey, Balbriggan, Co. Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+12/02/2016,"112 Clonard Court, Balbriggan, Dublin",Dublin,127000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/02/2016,"134 Ashfield Rise, Bremore, Balbriggan",Dublin,178000.0,No,Balbriggan,Co. Dublin,q2,50%
+12/02/2016,"19 Curran Park, Balbriggan, Co Dublin",Dublin,159000.0,No,Balbriggan,Co. Dublin,q2,40%
+12/02/2016,"23  Castlelands Park Way, Balbriggan",Dublin,242500.0,Yes,Balbriggan,Co. Dublin,q4,90%
+12/02/2016,"4 Mount Rochford Ave, Flemington Lane, Balbriggan",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+15/02/2016,"4 Chapel Place, Chapel Street, Balbriggan",Dublin,112000.0,No,Balbriggan,Co. Dublin,q1,20%
+19/02/2016,"11 Balruddery Field, Balrothery, Balbriggan",Dublin,253000.0,No,Balbriggan,Co. Dublin,q4,90%
+22/02/2016,"10 Ringfort View, Balrothery, Balbriggan",Dublin,132000.0,No,Balbriggan,Co. Dublin,q1,30%
+22/02/2016,"57 Dublin St, Balbriggan, Co Dublin",Dublin,75000.0,No,Balbriggan,Co. Dublin,q1,10%
+23/02/2016,"22 Clonuske Green, Hamlet Lane, Balbriggan",Dublin,118000.0,No,Balbriggan,Co. Dublin,q1,20%
+25/02/2016,"1 Glebe Crescent Ors The Fair Green, Market Green, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+25/02/2016,"2 Glebe Crescent Ors The Fair Green, Market Green, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+25/02/2016,"3 Glebe Crescent Ors The Fair Green, Market Green, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+25/02/2016,"4 Glebe Crescent Ors The Fair Green, Market Green, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+25/02/2016,"5 Glebe Crescent Ors The Fair Green, Market Green, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+25/02/2016,"6 Glebe Crescent Ors The Fair Green, Market Green, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+25/02/2016,"7 Glebe Crescent Ors The Fair Green, Market Green, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+25/02/2016,"8 Glebe Crescent Ors The Fair Green, Market Green, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+25/02/2016,"9 Glebe Crescent Ors The Fair Green, Market Green, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+26/02/2016,"37 Clonuske Dr, Hamlet Lane, Balbriggan",Dublin,131000.0,No,Balbriggan,Co. Dublin,q1,30%
+26/02/2016,"4 Newhaven Rise, Flemington Lane, Balbriggan",Dublin,173000.0,No,Balbriggan,Co. Dublin,q2,50%
+29/02/2016,"13 Hampton Gardens, Balbriggan, County Dublin",Dublin,199950.0,Yes,Balbriggan,Co. Dublin,q3,60%
+29/02/2016,"22 Lawless Terrace, Balbriggan, Co Dublin",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+02/03/2016,"25 Castleland Park Way, Balbriggan",Dublin,213656.0,Yes,Balbriggan,Co. Dublin,q3,70%
+02/03/2016,"7 Georges Hill, Balbriggan, Co Dublin",Dublin,118000.0,No,Balbriggan,Co. Dublin,q1,20%
+03/03/2016,"12 Bremore Pastures Crescent, Balbriggan",Dublin,174000.0,No,Balbriggan,Co. Dublin,q2,50%
+03/03/2016,"16 Bremore Pastures Avenue, Balbriggan",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+03/03/2016,"16 Bremore Pastures Crescent, Balbriggan",Dublin,142500.0,No,Balbriggan,Co. Dublin,q2,30%
+03/03/2016,"17 Bremore Avenue, Balbriggan",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+03/03/2016,"21 Bremore Pastures Avenue, Balbriggan",Dublin,177000.0,No,Balbriggan,Co. Dublin,q2,50%
+03/03/2016,"22 Bremore Pastures Avenue, Balbriggan",Dublin,177000.0,No,Balbriggan,Co. Dublin,q2,50%
+03/03/2016,"25 Bremore Pastures Avenue, Balbriggan",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+03/03/2016,"41 Bremore Pastures Way, Balbriggan",Dublin,174000.0,No,Balbriggan,Co. Dublin,q2,50%
+03/03/2016,"49 Bremore Pastures Way, Balbriggan",Dublin,174000.0,No,Balbriggan,Co. Dublin,q2,50%
+03/03/2016,"51 Bremore Pastures Way, Balbriggan",Dublin,174000.0,No,Balbriggan,Co. Dublin,q2,50%
+03/03/2016,"52 Ashfield Rise, Bremore, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+03/03/2016,"7 Bremore Pastures Avenue, Balbriggan",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+04/03/2016,"5 Ardgillen Dr, Ardgillen Heights, Balbriggan",Dublin,263000.0,No,Balbriggan,Co. Dublin,q4,90%
+04/03/2016,"50 Bremore Pastures Way, Balbriggan, Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+04/03/2016,"Northview, Knocknagin Rd, Balbriggan",Dublin,436000.0,No,Balbriggan,Co. Dublin,q4,100%
+11/03/2016,"14 Hampton Gardens, Balbriggan",Dublin,176167.0,Yes,Balbriggan,Co. Dublin,q2,50%
+11/03/2016,"15 Hampton Gardens Avenue, Balbriggan",Dublin,176167.0,Yes,Balbriggan,Co. Dublin,q2,50%
+11/03/2016,"70 Fancourt Heights, Balbriggan, County Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+16/03/2016,"15 The Hastings Green, Balbriggan, Co Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+21/03/2016,"11 Tudor Hamlet, Balrothery, Balbriggan",Dublin,280000.0,No,Balbriggan,Co. Dublin,q4,100%
+21/03/2016,"22 Castleland Park Way, Balbriggan",Dublin,213655.0,Yes,Balbriggan,Co. Dublin,q3,70%
+04/04/2016,"4 Moylaragh Manor Moylaragh, Balbriggan, Dublin",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+04/04/2016,"40 Balruddery Field, Balrothery, Balbriggan",Dublin,260000.0,No,Balbriggan,Co. Dublin,q4,90%
+07/04/2016,"4 Clonuske Green, Balbriggan, Dublin",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+08/04/2016,"90 Moylaragh Crescent, Balbriggan, Co Dublin",Dublin,164000.0,No,Balbriggan,Co. Dublin,q2,40%
+12/04/2016,"19 Hastings Ave, Balbriggan, Co Dublin",Dublin,135500.0,No,Balbriggan,Co. Dublin,q1,30%
+15/04/2016,"12 Westbrook Lawn, Balbriggan, Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+18/04/2016,"16 Hampton Garden, Balbriggan",Dublin,199950.0,Yes,Balbriggan,Co. Dublin,q3,60%
+21/04/2016,"8 Rosepark, Balrothery, Balbriggan",Dublin,238000.0,No,Balbriggan,Co. Dublin,q4,80%
+22/04/2016,"96 Rosepark, Balrothery, Balbriggan",Dublin,350000.0,No,Balbriggan,Co. Dublin,q4,100%
+25/04/2016,"12 Martello Walk, Balbriggan, Dublin",Dublin,143000.0,No,Balbriggan,Co. Dublin,q2,30%
+26/04/2016,"90 New Haven Bay Flemington Lane, Balbriggan, Dublin",Dublin,137000.0,No,Balbriggan,Co. Dublin,q1,30%
+28/04/2016,"2 Garrai Linn, Balrothery, Balbriggan",Dublin,370043.0,Yes,Balbriggan,Co. Dublin,q4,100%
+28/04/2016,"24 Castleland Park Way, Balbriggan",Dublin,213656.0,Yes,Balbriggan,Co. Dublin,q3,70%
+28/04/2016,"68 The Chantries, Balrothery, Balbriggan",Dublin,416000.0,No,Balbriggan,Co. Dublin,q4,100%
+28/04/2016,"98 Hampton Cove, Balbriggan, Dublin",Dublin,244000.0,No,Balbriggan,Co. Dublin,q4,90%
+29/04/2016,"67 Castleland Park Way, Balbriggan, Co Dublin",Dublin,189428.0,Yes,Balbriggan,Co. Dublin,q3,60%
+04/05/2016,"14 Westbrook Park, Balbriggan, Dublin",Dublin,238000.0,No,Balbriggan,Co. Dublin,q4,80%
+05/05/2016,"11 Prospect, Naul Rd, Balbriggan",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+05/05/2016,"70 Hampton Green, Hampton Rd, Balbriggan",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+06/05/2016,"106 Hampton Cove, Balbriggan, Dublin",Dublin,270000.0,No,Balbriggan,Co. Dublin,q4,100%
+09/05/2016,"Stephenstown, Balbriggan",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+12/05/2016,"37 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+12/05/2016,"6 Westbrook Green, Balbriggan, Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+17/05/2016,"38 Ashfield Rise, Balbriggan, Dublin",Dublin,139500.0,No,Balbriggan,Co. Dublin,q2,30%
+17/05/2016,"86 Castleland Park Way, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+19/05/2016,"72A Ardgillen Lawn, Balbriggan, Dublin",Dublin,275000.0,No,Balbriggan,Co. Dublin,q4,100%
+20/05/2016,"22 Templeville, Balbriggan, Dublin",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+20/05/2016,"7 Fancourt Heights, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+27/05/2016,"1 Seabanks, Balbriggan, Co Dublin",Dublin,105000.0,Yes,Balbriggan,Co. Dublin,q1,20%
+27/05/2016,"27 Castleland Park Way, Balbriggan, Co. Dublin",Dublin,213656.38,Yes,Balbriggan,Co. Dublin,q3,70%
+27/05/2016,"37 Clonuske Dr, Hamlet Lane, Balbriggan",Dublin,171000.0,No,Balbriggan,Co. Dublin,q2,50%
+27/05/2016,"71 Bremore Castle, Balbriggan, Co Dublin",Dublin,118000.0,No,Balbriggan,Co. Dublin,q1,20%
+31/05/2016,"8 Hastings Dr, Balbriggan, Dublin",Dublin,178000.0,No,Balbriggan,Co. Dublin,q2,50%
+01/06/2016,"14 Brega Hamlet Lane, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+01/06/2016,"52 Bremore Dr, Balbriggan, Dublin",Dublin,163000.0,No,Balbriggan,Co. Dublin,q2,40%
+02/06/2016,"5 Bremore Court, Balbriggan, Co Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+03/06/2016,"3 Hampton Gardens Drive, Balbriggan",Dublin,180616.74,Yes,Balbriggan,Co. Dublin,q2,50%
+03/06/2016,"8 Hampton Court, Balbriggan, Dublin",Dublin,151000.0,No,Balbriggan,Co. Dublin,q2,40%
+03/06/2016,"Apt 5 Hamlet Lane, Balbriggan, County Dublin",Dublin,83000.0,No,Balbriggan,Co. Dublin,q1,10%
+11/06/2016,"83 Castleland Park Way, Balbriggan",Dublin,198237.89,Yes,Balbriggan,Co. Dublin,q3,60%
+14/06/2016,"54 Hampton Street, Balbriggan, County Dublin",Dublin,172000.0,No,Balbriggan,Co. Dublin,q2,50%
+15/06/2016,"68 Ashfield Rise, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+22/06/2016,"17 Hampton Gardens Avenue, Balbriggan",Dublin,199950.0,Yes,Balbriggan,Co. Dublin,q3,60%
+22/06/2016,"26 Castleland Park Way, Balbriggan",Dublin,213656.0,Yes,Balbriggan,Co. Dublin,q3,70%
+23/06/2016,"1 Brecan Close, Balbriggan, Dublin",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+24/06/2016,"31 Castleland Park Way, Balbriggan",Dublin,213656.0,Yes,Balbriggan,Co. Dublin,q3,70%
+24/06/2016,"35 Cardy Rock Crescent, Balbriggan, Dublin",Dublin,219500.0,No,Balbriggan,Co. Dublin,q3,80%
+24/06/2016,"42 Dublin St, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+24/06/2016,"60 Bremore Pastures Way, Balbriggan, Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+28/06/2016,"16 Temple Ville, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+30/06/2016,"15 Harbour View, Balbriggan, Dublin",Dublin,139000.0,No,Balbriggan,Co. Dublin,q2,30%
+01/07/2016,"1 Moylaragh Manor, Balbriggan, Co Dublin",Dublin,84500.0,No,Balbriggan,Co. Dublin,q1,10%
+01/07/2016,"21 The Laurels, Balbriggan, Co Dublin",Dublin,117500.0,No,Balbriggan,Co. Dublin,q1,20%
+04/07/2016,"2 Hampton Gardens Drive, Balbriggan",Dublin,181416.0,Yes,Balbriggan,Co. Dublin,q3,60%
+05/07/2016,"31 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+05/07/2016,"78 Bremore Dr, Balbriggan, Dublin",Dublin,187500.0,No,Balbriggan,Co. Dublin,q3,60%
+06/07/2016,"30 Castleland Park Way, Balbriggan",Dublin,213656.0,Yes,Balbriggan,Co. Dublin,q3,70%
+06/07/2016,"Glenview, Castlelands Dublin Rd, Balbriggan",Dublin,335000.0,No,Balbriggan,Co. Dublin,q4,100%
+07/07/2016,"5 Hampton Gardens Drive, Balbriggan",Dublin,180616.74,Yes,Balbriggan,Co. Dublin,q2,50%
+12/07/2016,"4 Hamptons Garden Drive, Balbriggan, Co. Dublin",Dublin,205000.0,Yes,Balbriggan,Co. Dublin,q3,70%
+13/07/2016,"73 Clonuske Park, Balbriggan, Dublin",Dublin,167000.0,No,Balbriggan,Co. Dublin,q2,50%
+13/07/2016,"93 Castleland Park Way, Balbriggan, Co. Dublin",Dublin,189427.31,Yes,Balbriggan,Co. Dublin,q3,60%
+14/07/2016,"21 Brackenwood Ave, Balbriggan, Dublin",Dublin,90000.0,No,Balbriggan,Co. Dublin,q1,10%
+14/07/2016,"32 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,147500.0,No,Balbriggan,Co. Dublin,q2,30%
+14/07/2016,"5 Hampton Court, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/07/2016,"84 Castleland Park Way, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+21/07/2016,"1 Castleland Park Place, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+22/07/2016,"27 Newhaven Bay, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+22/07/2016,"36 Dun Saithne View, Flemington Lane, Balbriggan",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+22/07/2016,"59 Craoibhin Park, Balbriggan, Dublin",Dublin,187000.0,No,Balbriggan,Co. Dublin,q3,60%
+27/07/2016,"15 Westbrook Crescent, Naul Rd, Balbriggan",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+27/07/2016,"22 Hastings Lawn, Bremore, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+27/07/2016,"41 Castlelands, Balbriggan, Dublin",Dublin,282000.0,No,Balbriggan,Co. Dublin,q4,100%
+27/07/2016,"41 Moylaragh Mews, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+28/07/2016,"19 Martello Park, Balbriggan, Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+28/07/2016,"26 Castlemill, Balbriggan, Dublin",Dublin,121000.0,No,Balbriggan,Co. Dublin,q1,20%
+28/07/2016,"83 Clonard Court, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+02/08/2016,"33 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,130396.47,Yes,Balbriggan,Co. Dublin,q1,30%
+03/08/2016,"6 Hampton Gardens Drive, Balbriggan",Dublin,180616.74,Yes,Balbriggan,Co. Dublin,q3,60%
+04/08/2016,"58 Prospect, The Naul Road, Balbriggan",Dublin,95000.0,No,Balbriggan,Co. Dublin,q1,10%
+05/08/2016,"114 Clonard Ct, Balbriggan, Dublin",Dublin,133000.0,No,Balbriggan,Co. Dublin,q1,30%
+08/08/2016,"25 Chapel Grove, Balbriggan, Dublin",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+11/08/2016,"1 Hampton Garden Drive, Balbriggan",Dublin,198238.0,Yes,Balbriggan,Co. Dublin,q3,60%
+12/08/2016,"55 Brecan Close, Balbriggan, Dublin",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+16/08/2016,"68 Bremore Pastures Way, Balbriggan, Dublin",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+17/08/2016,"28 Castleland Park Way, Balbriggan, Co. Dublin",Dublin,245000.0,Yes,Balbriggan,Co. Dublin,q4,90%
+17/08/2016,"72 Rosepark, Balrothery, Balbriggan",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+19/08/2016,"2 Castleland Park Way, Balbriggan, Co Dublin",Dublin,222026.0,Yes,Balbriggan,Co. Dublin,q3,80%
+19/08/2016,"7 Hampton Gardens Drive, Balbriggan",Dublin,205000.0,Yes,Balbriggan,Co. Dublin,q3,70%
+19/08/2016,"76 Derham Park, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+19/08/2016,"Apartment 10, Bracken Wood, Balbriggan",Dublin,72688.0,Yes,Balbriggan,Co. Dublin,q1,10%
+22/08/2016,"48 Hampton St, Balbriggan, Dublin",Dublin,162000.0,No,Balbriggan,Co. Dublin,q2,40%
+23/08/2016,"4 Bremore Pastures Way, Balbriggan, Dublin",Dublin,118000.0,No,Balbriggan,Co. Dublin,q1,20%
+25/08/2016,"43 Bremore Pastures Way, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+25/08/2016,"66 Castleland Park Way, Balbriggan",Dublin,200881.1,Yes,Balbriggan,Co. Dublin,q3,70%
+26/08/2016,"21 Chapel Gate, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+29/08/2016,"Apt 8 Chapel Place, Chapel St, Balbriggan",Dublin,138500.0,No,Balbriggan,Co. Dublin,q1,30%
+30/08/2016,"78 Craoibhin Park, Balbriggan, Co Dublin",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+31/08/2016,"8 Newhaven Bay, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+31/08/2016,"9 Dun Saithne Rd, Flemington Lane, Balbriggan",Dublin,158100.0,No,Balbriggan,Co. Dublin,q2,40%
+01/09/2016,"38 Brecan Close, Balbriggan, Dublin",Dublin,96000.0,No,Balbriggan,Co. Dublin,q1,10%
+02/09/2016,"71 Clonard Court, Balbriggan, Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+05/09/2016,"25 Hastings Green, Hamlet Lane, Balbriggan",Dublin,190500.0,No,Balbriggan,Co. Dublin,q3,60%
+05/09/2016,"46 Trimleston, Hamlet Lane, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+06/09/2016,"16 Hastings Court, The Hastings, Balbriggan",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+06/09/2016,"4 Castleland Park Place, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+07/09/2016,"4 Martello Park, Flemington Lane, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+09/09/2016,"10 Chieftains Close, Chieftains Way, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+09/09/2016,"19 Cornmill Apts, Vauxhall St, Balbriggan",Dublin,138000.0,No,Balbriggan,Co. Dublin,q1,30%
+12/09/2016,"Apt 28, Castleland Court, Balbriggan",Dublin,112000.0,No,Balbriggan,Co. Dublin,q1,20%
+14/09/2016,"50 Barons Hall Grove, Flemingtown, Balbriggan",Dublin,121000.0,No,Balbriggan,Co. Dublin,q1,20%
+15/09/2016,"8 Hampton Gardens Drive, Balbriggan, Co Dublin",Dublin,180616.74,Yes,Balbriggan,Co. Dublin,q3,60%
+16/09/2016,"1 Hastings Court, Hamlet Lane, Balbriggan",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+16/09/2016,"2 Castleland Park Place, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+16/09/2016,"5 Castleland Park Place, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+19/09/2016,"9 Hampton Gardens Drive, Balbriggan",Dublin,180616.74,Yes,Balbriggan,Co. Dublin,q3,60%
+21/09/2016,"31 Balruddery Wood, Balrothery, Balbriggan",Dublin,188000.0,No,Balbriggan,Co. Dublin,q3,60%
+21/09/2016,"8 Balruddery Wood, Balrothery, Balbriggan",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+22/09/2016,"16 Bremore, Pastures Way, Balbriggan",Dublin,127000.0,No,Balbriggan,Co. Dublin,q1,20%
+22/09/2016,"82 Castleland Park Way, Balbriggan",Dublin,189428.0,Yes,Balbriggan,Co. Dublin,q3,60%
+22/09/2016,"82 Castleland Park Way, Balbriggan, County Dublin",Dublin,189428.0,Yes,Balbriggan,Co. Dublin,q3,60%
+23/09/2016,"1 Westbrook Ave, Balbriggan, Dublin",Dublin,237000.0,No,Balbriggan,Co. Dublin,q4,80%
+23/09/2016,"100 Fancourt Heights, Balbriggan, Dublin",Dublin,187000.0,No,Balbriggan,Co. Dublin,q3,60%
+23/09/2016,"25 Hampton Green, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+23/09/2016,"35 Westbrook Dr, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+27/09/2016,"25/26 Bremore Pastures, Hamlet Lane, Balbriggan",Dublin,134000.0,No,Balbriggan,Co. Dublin,q1,30%
+30/09/2016,"10 Hampton Gardens Drive, Balbriggan",Dublin,180616.0,Yes,Balbriggan,Co. Dublin,q2,50%
+30/09/2016,"24 Rosepark, Balrothery, Balbriggan",Dublin,262000.0,No,Balbriggan,Co. Dublin,q4,90%
+04/10/2016,"15 Westbrook Ave, Balbriggan, Dublin",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+06/10/2016,"4 Seabanks, Bath Road, Balbriggan",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+07/10/2016,"1/5 Share In Sliebhdonard House, Naul Rd, Balbriggan",Dublin,50000.0,No,Balbriggan,Co. Dublin,q1,10%
+11/10/2016,"2 Moylaragh Way, Balbriggan, Dublin",Dublin,209000.0,No,Balbriggan,Co. Dublin,q3,70%
+12/10/2016,"25 Moylaragh Mews, Balbriggan, Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/10/2016,"48 The Rise, Barons Hall, Balbriggan",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/10/2016,"6 Clonuske Green, Balbriggan, Dublin",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+13/10/2016,"15 Mount Rochford Drive, Balbriggan, Co Dublin",Dublin,275000.0,No,Balbriggan,Co. Dublin,q4,100%
+13/10/2016,"55 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,151000.0,No,Balbriggan,Co. Dublin,q2,40%
+14/10/2016,"70 Westbrook Green, Naul Rd, Balbriggan",Dublin,219000.0,No,Balbriggan,Co. Dublin,q3,80%
+14/10/2016,"77 Pinewood, Balbriggan, Green Rd",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+18/10/2016,"28 Cardy Rock Close, Cardy Rock View, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+18/10/2016,"39 Ashfield Rise, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+19/10/2016,"13 Hampton Gardens Drive, Balbriggan",Dublin,185022.0,Yes,Balbriggan,Co. Dublin,q3,60%
+20/10/2016,"91 Pinewood Green, Balbriggan, Co Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+20/10/2016,"Unit 11 Hampton Gardens Drive, Balbriggan, County Dublin",Dublin,180616.74,Yes,Balbriggan,Co. Dublin,q3,60%
+25/10/2016,"51 Brega Hamlet Lane, Balbriggan, Dublin",Dublin,166000.0,No,Balbriggan,Co. Dublin,q2,50%
+26/10/2016,"81 Drogheda St, Balbriggan, Dublin",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,20%
+27/10/2016,"14 Clonuske Park, Balbriggan, Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+27/10/2016,"14 Hampton Gardens Drive, Balbriggan, Co. Dublin",Dublin,210000.0,Yes,Balbriggan,Co. Dublin,q3,70%
+28/10/2016,"50 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+28/10/2016,"7 Castleland Park Place, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+28/10/2016,"81 Bremore Castle, Hamlet Lane, Balbriggan",Dublin,157000.0,No,Balbriggan,Co. Dublin,q2,40%
+01/11/2016,"3 Barons Hall Grove, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+02/11/2016,"29 Castleland Park Way, Balbriggan, Co. Dublin",Dublin,220264.31,Yes,Balbriggan,Co. Dublin,q3,80%
+04/11/2016,"6  Castleland Park Place, Balbriggan",Dublin,207048.45,Yes,Balbriggan,Co. Dublin,q3,70%
+04/11/2016,"9 Castleland Park Place, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+04/11/2016,"Apartment 38, Brackan Wood, Balbriggan",Dublin,66960.35,Yes,Balbriggan,Co. Dublin,q1,10%
+07/11/2016,"5 Clonard Court, Balbriggan, Dublin",Dublin,148000.0,No,Balbriggan,Co. Dublin,q2,30%
+10/11/2016,"17 Brackenwood Drive, Flemington, Balbriggan",Dublin,97000.0,No,Balbriggan,Co. Dublin,q1,10%
+10/11/2016,"60 Barnwall Court, Balbriggan, Dublin",Dublin,155500.0,No,Balbriggan,Co. Dublin,q2,40%
+11/11/2016,"18 Castleland Park Way, Balbriggan, County Dublin",Dublin,252500.0,No,Balbriggan,Co. Dublin,q4,90%
+14/11/2016,"22 Castle Mill, Hamlet Lane, Balbriggan",Dublin,114000.0,No,Balbriggan,Co. Dublin,q1,20%
+14/11/2016,"25 Mount Rochford Dr, Mount Rochford, Flemington Lane Balbriggan",Dublin,245000.0,No,Balbriggan,Co. Dublin,q4,90%
+14/11/2016,"89 Lambeecher, Bath Rd, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+17/11/2016,"15 Hampton Gardens Drive, Balbriggan",Dublin,185022.0,Yes,Balbriggan,Co. Dublin,q3,60%
+17/11/2016,"19 Cardyrock Ave, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+18/11/2016,"11 Castleland Park Place, Balbriggan",Dublin,207049.0,Yes,Balbriggan,Co. Dublin,q3,70%
+18/11/2016,"12 Hampton Garden Drive, Balbriggan",Dublin,185022.0,Yes,Balbriggan,Co. Dublin,q3,60%
+18/11/2016,"6 Linnen Hall, Balbriggan, Dublin",Dublin,98000.0,No,Balbriggan,Co. Dublin,q1,10%
+23/11/2016,"73 Hampton Wood, Balbriggan, Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+24/11/2016,"2 Dun Saithne View, Flemington Lane, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+28/11/2016,"19 Mount Rochford Ave, Balbriggan, Dublin",Dublin,212500.0,No,Balbriggan,Co. Dublin,q3,70%
+28/11/2016,"21 Mount Rochford Ave, Balbriggan, Dublin",Dublin,212500.0,No,Balbriggan,Co. Dublin,q3,70%
+28/11/2016,"25 Bremore Pastures Drive, Hamlet Lane, Balbriggan",Dublin,138000.0,No,Balbriggan,Co. Dublin,q1,30%
+30/11/2016,"12 Chapel Place, Chapel Street, Balbriggan",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+30/11/2016,"3 Moylaragh Rise, Balbriggan Dublin, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+30/11/2016,"7 Eleven Arches, Georges Hill, Balbriggan",Dublin,131000.0,No,Balbriggan,Co. Dublin,q1,30%
+30/11/2016,"8 Castle Land Park Place, Balbriggan",Dublin,207000.0,Yes,Balbriggan,Co. Dublin,q3,70%
+05/12/2016,"16 The Hastings, Close Balbriggan, Dublin",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+05/12/2016,"23 Chapel Close, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+05/12/2016,"61 Castleland Park, View Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+07/12/2016,"16 Linnen Hall, Georges Hill, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+08/12/2016,"113 Hampton Green, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+08/12/2016,"23 Ashfield Rise, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+08/12/2016,"36 Ashfield Rise, Balbriggan, Dublin",Dublin,176000.0,No,Balbriggan,Co. Dublin,q2,50%
+09/12/2016,"Seapoint, Balbriggan, Dublin",Dublin,360000.0,No,Balbriggan,Co. Dublin,q4,100%
+13/12/2016,"12 Clonuske View, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+13/12/2016,"17 Hampton Gardens Drive, Balbriggan",Dublin,210000.0,Yes,Balbriggan,Co. Dublin,q3,70%
+13/12/2016,"23 Cardy Rock Close, Balbriggan, Dublin",Dublin,97500.0,No,Balbriggan,Co. Dublin,q1,10%
+14/12/2016,"11 Martello Rd, Balbriggan, Dublin",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+14/12/2016,"9 Bremore Pastures Avenue, Balbriggan, Dublin",Dublin,163500.0,No,Balbriggan,Co. Dublin,q2,40%
+15/12/2016,"Delahasey, Balbriggan, Dublin",Dublin,345000.0,No,Balbriggan,Co. Dublin,q4,100%
+16/12/2016,"12 Clonard St, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+16/12/2016,"16 Hampton Gardend Drive, Balbriggan, Co. Dublin",Dublin,185000.0,Yes,Balbriggan,Co. Dublin,q3,60%
+16/12/2016,"22 Ashfield Close, Balbriggan, Dublin",Dublin,172500.0,No,Balbriggan,Co. Dublin,q2,50%
+16/12/2016,"25 Brega, Hamlet Lane, Balbriggan",Dublin,176000.0,No,Balbriggan,Co. Dublin,q2,50%
+16/12/2016,"26 Moylaragh Rd, Balbriggan, Dublin",Dublin,231000.0,No,Balbriggan,Co. Dublin,q4,80%
+19/12/2016,"3 Clonuske Green, Hamlet Lane, Balbriggan",Dublin,163000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/12/2016,"24 New Haven Bay, Balbriggan, Dublin",Dublin,182000.0,No,Balbriggan,Co. Dublin,q3,60%
+20/12/2016,"68 Trimplestown, Hamlet Lane, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+21/12/2016,"Apt.23  Linen Hall, Harbour Mill, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,20%
+22/12/2016,"12 Hampton Gardens, Balbriggan, Co Dublin",Dublin,193832.59,Yes,Balbriggan,Co. Dublin,q3,60%
+22/12/2016,"26 Castleland Park Place, Balbriggan",Dublin,220264.0,Yes,Balbriggan,Co. Dublin,q3,80%
+06/01/2017,"Apt.1 - The Bakery, Unit 11 Trade Centre, Georges Hill Balbriggan",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+09/01/2017,"Spicers Mill, Balbriggan, Dublin",Dublin,6105726.8,No,Balbriggan,Co. Dublin,q4,100%
+11/01/2017,"No 7 Hamlet Lane House, Barronshall, Balbriggan",Dublin,132000.0,No,Balbriggan,Co. Dublin,q1,30%
+12/01/2017,"12 Martello Terrace, Balbriggan, Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+13/01/2017,"8 Westbrook Rise, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+17/01/2017,"17 Castleland, Balbriggan, Park View",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+19/01/2017,"102 Moylaragh Crescent, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/01/2017,"89 New Haven, Flemington Lane, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+23/01/2017,"37 Chieftains Rd, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+25/01/2017,"9 Clonuske Dr, Balbriggan, Dublin",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+27/01/2017,"21 Newhaven Ave, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+27/01/2017,"32 Chapel Gate, Balbriggan, Dublin",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+01/02/2017,"75 Fancourt Heights, Balbriggan, Co Dublin",Dublin,260000.0,No,Balbriggan,Co. Dublin,q4,90%
+01/02/2017,"78 Newhaven Bay, Balbriggan, Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+02/02/2017,"15 Cornmill Apts, Vauxhall St, Balbriggan",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+03/02/2017,"89 Drogheda St, Balbriggan, Dublin",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+07/02/2017,"16 Chapel Close, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+07/02/2017,"17 Balruddery Grove, Balrothery, Balbriggan",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+07/02/2017,"19 The Laurels, Quayside, Balbriggan",Dublin,152000.0,No,Balbriggan,Co. Dublin,q2,40%
+10/02/2017,"41 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+10/02/2017,"96 Moylaragh Crescent, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+14/02/2017,"46 Moylaragh Walk, Balbriggan, County Dublin",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+15/02/2017,"1 Laragh, Hampton St, Balbriggan",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+15/02/2017,"17 Hastings Dr, Balbriggan, Dublin",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+15/02/2017,"21 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+16/02/2017,"12 Newhaven Bay, Balbriggan, Dublin",Dublin,219000.0,No,Balbriggan,Co. Dublin,q3,80%
+16/02/2017,"24 Castleland Park Place, Balbriggan",Dublin,220260.0,Yes,Balbriggan,Co. Dublin,q3,80%
+17/02/2017,"Apt 8 Castlemill, Balbriggan, Dublin",Dublin,133000.0,No,Balbriggan,Co. Dublin,q1,30%
+23/02/2017,"38 Chieftains Dr, Balbriggan, Dublin",Dublin,221000.0,No,Balbriggan,Co. Dublin,q3,80%
+24/02/2017,"Seapoint, Balbriggan, Dublin",Dublin,495000.0,No,Balbriggan,Co. Dublin,q4,100%
+27/02/2017,"1 Trimleston, Hamlet Lane, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+28/02/2017,"15 Trimlestown, Hamlet Lane, Balbriggan",Dublin,176000.0,No,Balbriggan,Co. Dublin,q2,50%
+28/02/2017,"22 Ashfield Green, Balbriggan, Dublin",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+28/02/2017,"29 Hampton Gardens Drive, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+01/03/2017,"23 Cardy Rock Ave, Balbriggan, Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+01/03/2017,"31 Hampton Gardens Drive, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+03/03/2017,"12 Castleland Park Place, Balbriggan",Dublin,213656.0,Yes,Balbriggan,Co. Dublin,q3,70%
+06/03/2017,"1 Ringfort View, Balrothery, Balbriggan",Dublin,149100.0,No,Balbriggan,Co. Dublin,q2,30%
+06/03/2017,"23 Castleland Park Place, Balbriggan",Dublin,220264.0,Yes,Balbriggan,Co. Dublin,q3,80%
+07/03/2017,"10 Castlelands Park Place, Balbriggan",Dublin,213700.0,Yes,Balbriggan,Co. Dublin,q3,70%
+07/03/2017,"23 Moylaragh Gardens, Balbriggan, Dublin",Dublin,163000.0,No,Balbriggan,Co. Dublin,q2,40%
+08/03/2017,"30 Hampton Gardens Drive, Balbriggan, Co Dublin",Dublin,207048.46,Yes,Balbriggan,Co. Dublin,q3,70%
+10/03/2017,"13 Bremore Pastures Ave, Balbriggan, Dublin",Dublin,160352.42,No,Balbriggan,Co. Dublin,q2,40%
+13/03/2017,"11 Eleven Arches, Georges Hill, Balbriggan",Dublin,125000.0,No,Balbriggan,Co. Dublin,q1,20%
+13/03/2017,"22 Castleland Park Place, Balbriggan, Co Dublin",Dublin,222466.96,Yes,Balbriggan,Co. Dublin,q3,80%
+13/03/2017,"52 Chapel Close, Balbriggan, Dublin",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+16/03/2017,"35 High St, Balbriggan, Co Dublin",Dublin,181000.0,No,Balbriggan,Co. Dublin,q3,60%
+16/03/2017,"45 Chapel Close, Balbriggan, Dublin",Dublin,206000.0,No,Balbriggan,Co. Dublin,q3,70%
+21/03/2017,"26 Hampton Garden Drive, Balbriggan",Dublin,235000.0,Yes,Balbriggan,Co. Dublin,q4,80%
+22/03/2017,"23 Georges Hill, Balbriggan, Dublin",Dublin,128000.0,No,Balbriggan,Co. Dublin,q1,20%
+24/03/2017,"30 Cardy Rock Ave, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+27/03/2017,"34 Moylaragh Rd, Flemington, Balbriggan",Dublin,218000.0,No,Balbriggan,Co. Dublin,q3,80%
+27/03/2017,"8 Clonard Court, Balbriggan, Co Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+28/03/2017,"Knocknagin Road, Balbriggan, Co. Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+31/03/2017,"8 Papworth Hall, Georges Hill, Balbriggan",Dublin,85000.0,No,Balbriggan,Co. Dublin,q1,10%
+06/04/2017,"87 Craoibhinn Park, Balbriggan, Dublin",Dublin,118000.0,No,Balbriggan,Co. Dublin,q1,20%
+07/04/2017,"28 Hampton Gardens Drive, Balbriggan",Dublin,207048.46,Yes,Balbriggan,Co. Dublin,q3,70%
+10/04/2017,"27 Hampton Gardens Drive, Balbriggan, Dublin",Dublin,207048.46,Yes,Balbriggan,Co. Dublin,q3,70%
+13/04/2017,"2 Brega, Hamlet Lane, Balbriggan",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+13/04/2017,"Shell House, Courtlough, Balbriggan",Dublin,149900.0,No,Balbriggan,Co. Dublin,q2,40%
+20/04/2017,"110 Moylaragh Crescent, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+25/04/2017,"13 Castleland Park Place, Balbriggan",Dublin,213600.0,Yes,Balbriggan,Co. Dublin,q3,70%
+27/04/2017,"23 Hampton Gardens Drive, Balbriggan",Dublin,211453.0,Yes,Balbriggan,Co. Dublin,q3,70%
+28/04/2017,"22 Newhaven Ave, Balbriggan, Dublin",Dublin,260000.0,No,Balbriggan,Co. Dublin,q4,90%
+28/04/2017,"25 Hampton Gardens, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+28/04/2017,"Unit 32, Hampton Gardens Drive, Balbriggan",Dublin,215860.0,Yes,Balbriggan,Co. Dublin,q3,70%
+05/05/2017,"21 Castleland Park Place, Balbriggan, Co. Dublin",Dublin,224669.6,Yes,Balbriggan,Co. Dublin,q3,80%
+08/05/2017,"45 Barron Hall Park, Balbriggan, Co. Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+09/05/2017,"4 Bower Court, Old Fancourt, Balbriggan",Dublin,273128.0,Yes,Balbriggan,Co. Dublin,q4,100%
+10/05/2017,"3 Gibbons Terrace, Balbriggan, Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+11/05/2017,"16 Ashfield Dr, Balbriggan, Dublin",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+11/05/2017,"28 Dublin St, Balbriggan, Dublin",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+15/05/2017,"22 Trimbleston Hamlet Lane, Balbriggan, Dublin",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+16/05/2017,"105 Bremore Castle, Balbriggan, Dublin",Dublin,152000.0,No,Balbriggan,Co. Dublin,q2,40%
+16/05/2017,"15 Castleland Park Place, Balbriggan",Dublin,213656.0,Yes,Balbriggan,Co. Dublin,q3,70%
+22/05/2017,"25 Moylaragh Drive, Balbriggan, Co Dublin",Dublin,95000.0,No,Balbriggan,Co. Dublin,q1,10%
+24/05/2017,"24 Hampton Gardens Drive, Balbriggan",Dublin,207048.0,Yes,Balbriggan,Co. Dublin,q3,70%
+24/05/2017,"44 Craoibhin Park, Balbriggan, Co Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+25/05/2017,"14 Brecan Close, Balbriggan, Dublin",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+25/05/2017,"4 Georges Court, Mill St, Balbriggan",Dublin,182000.0,No,Balbriggan,Co. Dublin,q3,60%
+25/05/2017,"46 Ashfield Rise, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+26/05/2017,"18 Clonuske Park, Hamlet Lane, Balbriggan",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+31/05/2017,"27 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,171000.0,No,Balbriggan,Co. Dublin,q2,50%
+31/05/2017,"6 The Laurels, The Harbour, Balbriggan",Dublin,153000.0,No,Balbriggan,Co. Dublin,q2,40%
+31/05/2017,"91 Craoibhinn Park, Balbriggan, Dublin",Dublin,162000.0,No,Balbriggan,Co. Dublin,q2,40%
+01/06/2017,"1 Castleland, Balbriggan, Park View",Dublin,330000.0,No,Balbriggan,Co. Dublin,q4,100%
+01/06/2017,"12 Mount Rochford Close, Flemington Lane, Balbriggan",Dublin,198000.0,No,Balbriggan,Co. Dublin,q3,60%
+01/06/2017,"28 Moylaragh Way, Balbriggan, Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+02/06/2017,"72 Clonard Court, Balbriggan, Dublin",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+07/06/2017,"30 Chieftains Dr, Chieftains Way, Balbriggan",Dublin,232000.0,No,Balbriggan,Co. Dublin,q4,80%
+09/06/2017,"3 Castleland Park Place, Balbriggan",Dublin,213656.0,Yes,Balbriggan,Co. Dublin,q3,70%
+13/06/2017,"Apt 20 Brackenwood Dr, Balbriggan, Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+13/06/2017,"Apt 3 Brackenwood Lane, Flemington, Balbriggan",Dublin,114000.0,No,Balbriggan,Co. Dublin,q1,20%
+15/06/2017,"11 Derham Park, Balbriggan, Co Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+16/06/2017,"16 Dun Saithne Green, Flemington Lane, Balbriggan",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+20/06/2017,"14 Castleland Court, Balbriggan, County Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+21/06/2017,"16 Castleland Park Place, Balbriggan",Dublin,242500.0,Yes,Balbriggan,Co. Dublin,q4,90%
+21/06/2017,"31 Chapel Gate, Balbriggan, Dublin",Dublin,240000.0,No,Balbriggan,Co. Dublin,q4,80%
+22/06/2017,"18 Castleland Park Place, Balbriggan",Dublin,213656.0,Yes,Balbriggan,Co. Dublin,q3,70%
+22/06/2017,"19 Castleland Park Place, Balbriggan",Dublin,264317.0,Yes,Balbriggan,Co. Dublin,q4,90%
+23/06/2017,"1 Bower Court, Balbriggan",Dublin,281938.32,Yes,Balbriggan,Co. Dublin,q4,100%
+23/06/2017,"40 Bremore Pastures Way, Balbriggan, Dublin",Dublin,146000.0,No,Balbriggan,Co. Dublin,q2,30%
+26/06/2017,"133 Bremore Castle, Balbriggan, Dublin",Dublin,208000.0,No,Balbriggan,Co. Dublin,q3,70%
+28/06/2017,"15 Bremore Pastures Avenue, Balbriggan, Dublin",Dublin,177500.0,No,Balbriggan,Co. Dublin,q2,50%
+29/06/2017,"1  Bremore Castle View, Balbriggan",Dublin,259911.0,Yes,Balbriggan,Co. Dublin,q4,90%
+29/06/2017,"36 Barnwall Court, Hamlet Lane, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+29/06/2017,"60 Block B Castlemill, Hamlet Lane, Balbriggan",Dublin,157000.0,No,Balbriggan,Co. Dublin,q2,40%
+29/06/2017,"63 Barons Hall Park, Balbriggan, Dublin",Dublin,142000.0,No,Balbriggan,Co. Dublin,q2,30%
+05/07/2017,"16 Moylaragh Way, Flemington, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+06/07/2017,"31 Landys Court, George'S Hill, Balbriggan",Dublin,91000.0,No,Balbriggan,Co. Dublin,q1,10%
+06/07/2017,"55 Chieftains Rd, Chieftains Way, Balbriggan",Dublin,191000.0,No,Balbriggan,Co. Dublin,q3,60%
+07/07/2017,"15 Bremore Pastures Way, Balbriggan, Co Dublin",Dublin,165500.0,No,Balbriggan,Co. Dublin,q2,50%
+11/07/2017,"12 Cardg Rock Rd, Drogheda St, Balbriggan",Dublin,186000.0,No,Balbriggan,Co. Dublin,q3,60%
+11/07/2017,"25 Castleland Park Place, Balbriggan",Dublin,229074.89,Yes,Balbriggan,Co. Dublin,q4,80%
+11/07/2017,"Apt 4, 16 18 Drogheda St, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+12/07/2017,"14 Castleland Park Place, Balbriggan",Dublin,247500.0,Yes,Balbriggan,Co. Dublin,q4,90%
+12/07/2017,"2 Ashfield Dr, Balbriggan, Dublin",Dublin,228000.0,No,Balbriggan,Co. Dublin,q4,80%
+12/07/2017,"28 Hampton Woods, Balbriggan, Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+13/07/2017,"6 Moylaragh Rise, Balbriggan, Dublin",Dublin,222000.0,No,Balbriggan,Co. Dublin,q3,80%
+14/07/2017,"5 Hampton Gardens Grove, Balbriggan",Dublin,207600.0,Yes,Balbriggan,Co. Dublin,q3,70%
+14/07/2017,"7 Hampton Gardens Grove, Balbriggan",Dublin,211453.0,Yes,Balbriggan,Co. Dublin,q3,70%
+14/07/2017,"Apt.25 -  Block A, Castlemill, Balbriggan",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+17/07/2017,"14 Fancourt, Balbriggan, Dublin",Dublin,340000.0,No,Balbriggan,Co. Dublin,q4,100%
+17/07/2017,"6 Braemore Pastures, Drive, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+18/07/2017,"12 Hampton Gardens Grove, Balbriggan",Dublin,215859.0,Yes,Balbriggan,Co. Dublin,q3,70%
+18/07/2017,"65 Clonard Court, Balbriggan, Co Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+20/07/2017,"11 Mount Rochford Rise, Flemington Lane, Balbriggan",Dublin,191500.0,No,Balbriggan,Co. Dublin,q3,60%
+20/07/2017,"2 Moylaragh Walk, Balbriggan, Dublin",Dublin,217000.0,No,Balbriggan,Co. Dublin,q3,70%
+21/07/2017,"6G Arches Hill, Balbriggan, Dublin",Dublin,133000.0,No,Balbriggan,Co. Dublin,q1,30%
+26/07/2017,"10 Hampton Gardens Grove, Balbriggan",Dublin,215900.0,Yes,Balbriggan,Co. Dublin,q3,70%
+26/07/2017,"17 Chapel St, Balbriggan, Co Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+26/07/2017,"2 Bremore Castle View, Balbriggan",Dublin,263435.0,Yes,Balbriggan,Co. Dublin,q4,90%
+26/07/2017,"3 Bremore Castle View, Balbriggan",Dublin,277532.0,Yes,Balbriggan,Co. Dublin,q4,100%
+26/07/2017,"36 Castleland Park Drive, Balbriggan",Dublin,229074.0,Yes,Balbriggan,Co. Dublin,q4,80%
+27/07/2017,"15 Chapel Court, Balbriggan, Dublin",Dublin,208000.0,No,Balbriggan,Co. Dublin,q3,70%
+27/07/2017,"2 Bremore Castle Mews, Balbriggan",Dublin,254625.0,Yes,Balbriggan,Co. Dublin,q4,90%
+27/07/2017,"22 Barons Hall Grove, Barons Hall, Balbriggan",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+27/07/2017,"57 Clonuske Pk, Flemington, Balbriggan",Dublin,209000.0,No,Balbriggan,Co. Dublin,q3,70%
+28/07/2017,"10 Clonuske View, Balbriggan, Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+28/07/2017,"10 Eleven Arches, Georges Hill, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+28/07/2017,"3 Bremore Pastures Avenue, Balbriggan, Co Dublin",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+28/07/2017,"44 Bremore Pastures Way, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+28/07/2017,"Retford House, 28 Hampton St, Balbriggan",Dublin,470000.0,No,Balbriggan,Co. Dublin,q4,100%
+28/07/2017,"Unit 11, Hampton Gardens Grove, Balbriggan",Dublin,245000.0,Yes,Balbriggan,Co. Dublin,q4,90%
+31/07/2017,"8 Eleven Arches, Georges Hill, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+01/08/2017,"36 Ashfield Green, Balbriggan, Co Dublin",Dublin,164000.0,No,Balbriggan,Co. Dublin,q2,40%
+02/08/2017,"9 Hastings Dr, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+03/08/2017,"3  Bremore Castle M Ews, Balbriggan",Dublin,251101.0,Yes,Balbriggan,Co. Dublin,q4,90%
+03/08/2017,"38 Castleland Park Drive, Balbriggan",Dublin,213656.0,Yes,Balbriggan,Co. Dublin,q3,70%
+03/08/2017,"8 Hampton Gardens Grove, Balbriggan",Dublin,215859.0,Yes,Balbriggan,Co. Dublin,q3,70%
+04/08/2017,"43 Barons Hall Grove, Balbriggan, Dublin",Dublin,168000.0,No,Balbriggan,Co. Dublin,q2,50%
+04/08/2017,"9 Cardy Rock Close, Balbriggan, Dublin",Dublin,92000.0,No,Balbriggan,Co. Dublin,q1,10%
+09/08/2017,"58 Brecan Close, Balbriggan, Co Dublin",Dublin,141000.0,No,Balbriggan,Co. Dublin,q2,30%
+10/08/2017,"2 Bower Court, Old Fancourt, Balbriggan",Dublin,264317.18,Yes,Balbriggan,Co. Dublin,q4,90%
+10/08/2017,"35 Bremore Pastures Park, Balbriggan, Co Dublin",Dublin,166000.0,No,Balbriggan,Co. Dublin,q2,50%
+11/08/2017,"28 Bremore Court, Balbriggan, Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+11/08/2017,"64 The Grove, Arons Hall Flemington, Balbriggan",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+14/08/2017,"5 Tara Court, Balbriggan, Co Dublin",Dublin,112500.0,No,Balbriggan,Co. Dublin,q1,20%
+16/08/2017,"37 Castleland Park Drive, Balbriggan, County Dublin",Dublin,219026.54,Yes,Balbriggan,Co. Dublin,q3,80%
+18/08/2017,"The Feathers, New Lane Darcystown, Balbriggan",Dublin,550000.0,No,Balbriggan,Co. Dublin,q4,100%
+21/08/2017,"30 Chapel Gate, Balbriggan, Dublin",Dublin,245000.0,No,Balbriggan,Co. Dublin,q4,90%
+21/08/2017,"6 Moylaragh Grove, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+24/08/2017,"15 Mount Rochford Rise, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+28/08/2017,"35 Castleland Park Drive, Balbriggan",Dublin,229075.0,Yes,Balbriggan,Co. Dublin,q4,80%
+29/08/2017,"29 The Park, Barons Hall, Balbriggan",Dublin,177000.0,No,Balbriggan,Co. Dublin,q2,50%
+30/08/2017,"16 Bremore Castle, Balbriggan, Dublin",Dublin,192000.0,No,Balbriggan,Co. Dublin,q3,60%
+30/08/2017,"48 Westbrook Green, Balbriggan, Dublin",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+30/08/2017,"7 Balruddery Wood, Balrothery, Balbriggan",Dublin,233000.0,No,Balbriggan,Co. Dublin,q4,80%
+30/08/2017,"Old Castlelands, Balbriggan, Castlelands",Dublin,520000.0,No,Balbriggan,Co. Dublin,q4,100%
+31/08/2017,"76 Trimleston, Hamlet Lane, Balbriggan",Dublin,187000.0,No,Balbriggan,Co. Dublin,q3,60%
+01/09/2017,"Apt 2, 16 18 Drogheda St, Balbriggan",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+04/09/2017,"6 Newhaven Rise, Flemington Lane, Balbriggan",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+05/09/2017,"31 Chieftains Dr, Balbriggan, Dublin",Dublin,221500.0,No,Balbriggan,Co. Dublin,q3,80%
+05/09/2017,"Apt 3, 16 18 Drogheda St, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+06/09/2017,"9 Hampton Gardens Grove, Balbriggan",Dublin,250000.0,Yes,Balbriggan,Co. Dublin,q4,90%
+07/09/2017,"13 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,182500.0,No,Balbriggan,Co. Dublin,q3,60%
+07/09/2017,"39 Barrons Hall Rise, Balbriggan, Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+07/09/2017,"48 Bremore Pastures Way, Balbriggan, Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+08/09/2017,"13 New Haven Bay, Flemington Lane, Balbriggan Dublin",Dublin,252000.0,No,Balbriggan,Co. Dublin,q4,90%
+12/09/2017,"7 Trimleston Hamlet Lane, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+15/09/2017,"20 Barnwall Court, Balbriggan, Co Dublin",Dublin,284000.0,No,Balbriggan,Co. Dublin,q4,100%
+15/09/2017,"34 Bremore Pastures Crescent, Balbriggan, Dublin",Dublin,160352.0,Yes,Balbriggan,Co. Dublin,q2,40%
+15/09/2017,"Apt 1, 16 18 Drogheda St, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+19/09/2017,"39 Castleland Park Drive, Balbriggan, Co. Dublin",Dublin,218062.0,Yes,Balbriggan,Co. Dublin,q3,80%
+20/09/2017,"53 Braemor Castle, Hamlet Lane, Balbriggan",Dublin,222000.0,No,Balbriggan,Co. Dublin,q3,80%
+21/09/2017,"16 Oakleigh, Balbriggan, Dublin",Dublin,178000.0,No,Balbriggan,Co. Dublin,q2,50%
+21/09/2017,"65 Newhaven Bay, Balbriggan, Dublin",Dublin,225700.0,No,Balbriggan,Co. Dublin,q4,80%
+22/09/2017,"12 Westbrook Rise, Balbriggan, Co Dublin",Dublin,273000.0,No,Balbriggan,Co. Dublin,q4,100%
+22/09/2017,"3 Moylaragh Close, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+22/09/2017,"3 St Peters Tce, Hampton St, Balbriggan",Dublin,213000.0,No,Balbriggan,Co. Dublin,q3,70%
+22/09/2017,"46 Brega, Hamlet Lane, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+25/09/2017,"Apt At White Hart Inn Public House, Dublin Street, Balbriggan",Dublin,50000.0,No,Balbriggan,Co. Dublin,q1,10%
+26/09/2017,"1 Bremore Castle Mews, Balbriggan, Co. Dublin",Dublin,273127.75,Yes,Balbriggan,Co. Dublin,q4,100%
+26/09/2017,"4 Bremore Castle Mews, Balbriggan, Dublin",Dublin,272475.0,Yes,Balbriggan,Co. Dublin,q4,100%
+27/09/2017,"33 Castleland Park Drive, Balbriggan",Dublin,229074.89,Yes,Balbriggan,Co. Dublin,q4,80%
+27/09/2017,"34 Castleland Park Drive, Balbriggan",Dublin,229074.89,Yes,Balbriggan,Co. Dublin,q4,80%
+27/09/2017,"62 Clonard Court, Balbriggan, Dublin",Dublin,208000.0,No,Balbriggan,Co. Dublin,q3,70%
+28/09/2017,"32 Bremore Pastures Park, Balbriggan, Dublin",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+29/09/2017,"86 Hampton Green, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+29/09/2017,"Apt 23 Clonuske Drive, Hamlet Lane, Balbriggan",Dublin,171000.0,No,Balbriggan,Co. Dublin,q2,50%
+03/10/2017,"13 High St, Balbriggan, Dublin",Dublin,257500.0,No,Balbriggan,Co. Dublin,q4,90%
+03/10/2017,"28 Balruddery Wood, Balrothery, Balbriggan",Dublin,228000.0,No,Balbriggan,Co. Dublin,q4,80%
+03/10/2017,"28 Hamlet Sq, Chieftains Way, Balbriggan",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+06/10/2017,"14 Ashfield Close, Balbriggan, Dublin",Dublin,172000.0,No,Balbriggan,Co. Dublin,q2,50%
+06/10/2017,"17 Castleland Park Place, Balbriggan",Dublin,242500.0,Yes,Balbriggan,Co. Dublin,q4,90%
+06/10/2017,"28 Clonuske Dr, Hamlet Lane, Balbriggan",Dublin,141000.0,No,Balbriggan,Co. Dublin,q2,30%
+09/10/2017,"24 Temple Ville, Balbriggan, Dublin",Dublin,95000.0,No,Balbriggan,Co. Dublin,q1,10%
+09/10/2017,"35 Hampton St, Balbriggan, Co Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+09/10/2017,"40 Castleland Park Drive, Balbriggan, County Dublin",Dublin,214602.0,Yes,Balbriggan,Co. Dublin,q3,70%
+10/10/2017,"14 Clonuske Green, Hamlet Lane, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+11/10/2017,"No 6 Bremore Castle Mews, Balbriggan",Dublin,261674.0,Yes,Balbriggan,Co. Dublin,q4,90%
+12/10/2017,"1 Castleland Court, Balbriggan, Dublin",Dublin,157500.0,No,Balbriggan,Co. Dublin,q2,40%
+12/10/2017,"32 Castleland Park Drive, Balbriggan, Co Dublin",Dublin,229074.0,Yes,Balbriggan,Co. Dublin,q4,80%
+12/10/2017,"5 Bremore Castle Mews, Balbriggan, County Dublin",Dublin,261674.01,Yes,Balbriggan,Co. Dublin,q4,90%
+13/10/2017,"1 Hampton Cove, Balbriggan, Dublin",Dublin,292000.0,No,Balbriggan,Co. Dublin,q4,100%
+13/10/2017,"10 Martello Road, Balbriggan, Co Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+20/10/2017,"4 Hampton Gardens Grove, Balbriggan",Dublin,224670.0,Yes,Balbriggan,Co. Dublin,q3,80%
+20/10/2017,"45 Bremore Pastures Way, Balbriggan, Dublin",Dublin,199000.0,No,Balbriggan,Co. Dublin,q3,60%
+23/10/2017,"13 Hampton Gardens Grove, Balbriggan",Dublin,229030.83,Yes,Balbriggan,Co. Dublin,q4,80%
+23/10/2017,"13 Hampton Woods, Balbriggan, Dublin",Dublin,226000.0,No,Balbriggan,Co. Dublin,q4,80%
+23/10/2017,"41 Castleland Park Drive, Balbriggan, County Dublin",Dublin,219026.55,Yes,Balbriggan,Co. Dublin,q3,80%
+23/10/2017,"825 Bremore Castle, Hamlet Lane, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+23/10/2017,"Apt 32 Landys Court, Harbour Mills, Balbriggan",Dublin,128000.0,No,Balbriggan,Co. Dublin,q1,20%
+26/10/2017,"1 Fulham Street, Balbriggan, Co Dublin",Dublin,255000.0,No,Balbriggan,Co. Dublin,q4,90%
+26/10/2017,"10 Bremore Court, Balbriggan, Dublin",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+27/10/2017,"30 Hampton Gardens Avenue, Balbriggan",Dublin,229030.0,Yes,Balbriggan,Co. Dublin,q4,80%
+31/10/2017,"17 Linen Hall, Georges Hill, Balbriggan",Dublin,167000.0,No,Balbriggan,Co. Dublin,q2,50%
+31/10/2017,"51 Hampton Cove, Balbriggan, Co Dublin",Dublin,302000.0,No,Balbriggan,Co. Dublin,q4,100%
+02/11/2017,"14 Chapel Ave, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+02/11/2017,"29 Castleland Park Drive, Balbriggan",Dublin,229075.0,Yes,Balbriggan,Co. Dublin,q4,80%
+03/11/2017,"114 Hampton Cove, Balbriggan, Dublin",Dublin,310000.0,No,Balbriggan,Co. Dublin,q4,100%
+03/11/2017,"14 Temple Ville, Balbriggan, Dublin",Dublin,233000.0,No,Balbriggan,Co. Dublin,q4,80%
+03/11/2017,"16 Gibbons Terrace, Balbriggan, Dublin",Dublin,255000.0,No,Balbriggan,Co. Dublin,q4,90%
+03/11/2017,"33 Brackenwood Dr, Balbriggan, Dublin",Dublin,148000.0,No,Balbriggan,Co. Dublin,q2,30%
+07/11/2017,"42 Castleland Park Drive, Balbriggan",Dublin,229075.0,Yes,Balbriggan,Co. Dublin,q4,80%
+08/11/2017,"3 Chapel Court, Balbriggan, Dublin",Dublin,183000.0,No,Balbriggan,Co. Dublin,q3,60%
+10/11/2017,"1 Martello Lodge, Martello Rd, Balbriggan",Dublin,158000.0,No,Balbriggan,Co. Dublin,q2,40%
+10/11/2017,"13 Cardy Rock Rd, Balbriggan, Rock Rd",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+13/11/2017,"31 Castleland Park Drive, Balbriggan",Dublin,229074.88,Yes,Balbriggan,Co. Dublin,q4,80%
+17/11/2017,"20 Castleland Park Place, Balbriggan, Co Dublin",Dublin,299559.47,Yes,Balbriggan,Co. Dublin,q4,100%
+17/11/2017,"32 Hampton Gardens Avenue, Balbriggan, Co Dublin",Dublin,229030.0,Yes,Balbriggan,Co. Dublin,q4,80%
+17/11/2017,"33 Hampton Gardens Avenue, Balbriggan",Dublin,224857.0,Yes,Balbriggan,Co. Dublin,q3,80%
+17/11/2017,"69 Hampton Woods, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+17/11/2017,"70 Hampton Cove, Balbriggan, Dublin",Dublin,245000.0,No,Balbriggan,Co. Dublin,q4,90%
+20/11/2017,"1 Mount Rochford Ave, Balbriggan, Co Dublin",Dublin,186666.0,No,Balbriggan,Co. Dublin,q3,60%
+21/11/2017,"15 Cardy Rock Close, Balbriggan, Co Dublin",Dublin,105000.0,No,Balbriggan,Co. Dublin,q1,20%
+22/11/2017,"23 Westbrook Green, Balbriggan, Dublin",Dublin,265000.0,No,Balbriggan,Co. Dublin,q4,90%
+22/11/2017,"32 Newhaven Bay Flemington Lane, Flemington Lane, Balbriggan",Dublin,253000.0,No,Balbriggan,Co. Dublin,q4,90%
+23/11/2017,"125 Pine Ridge, Balbriggan, Dublin",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+24/11/2017,"1 Barnwall Court, Balbriggan, Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+27/11/2017,"4 Hastings Court, Hamlet Lane, Balbriggan",Dublin,222000.0,No,Balbriggan,Co. Dublin,q3,80%
+28/11/2017,"8 Brackenwood Ave, Balbriggan, Dublin",Dublin,178000.0,No,Balbriggan,Co. Dublin,q2,50%
+29/11/2017,"43 Castleland Park Drive, Balbriggan, Co Dublin",Dublin,218061.0,Yes,Balbriggan,Co. Dublin,q3,80%
+30/11/2017,"45 Castleland Park Drive, Balbriggan",Dublin,218100.0,Yes,Balbriggan,Co. Dublin,q3,80%
+01/12/2017,"80 Clonard St, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+04/12/2017,"32 Cardy Rock Crescent, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+05/12/2017,"33 Chieftains Dr, Balbriggan, Dublin",Dublin,202500.0,No,Balbriggan,Co. Dublin,q3,70%
+06/12/2017,"26 Hampton Gardens Avenue, Balbriggan",Dublin,220220.0,Yes,Balbriggan,Co. Dublin,q3,80%
+06/12/2017,"46 Bremore Castle, Balbriggan, Dublin",Dublin,142500.0,No,Balbriggan,Co. Dublin,q2,30%
+07/12/2017,"32 Templeville, Balbriggan, Co Dublin",Dublin,228000.0,No,Balbriggan,Co. Dublin,q4,80%
+07/12/2017,"46 Castlelasnd Park Drive, Balbriggan",Dublin,220264.0,Yes,Balbriggan,Co. Dublin,q3,80%
+07/12/2017,"54 Hampton Woods, Balbriggan, Dublin",Dublin,240000.0,No,Balbriggan,Co. Dublin,q4,80%
+08/12/2017,"10 Old Market Green, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+08/12/2017,"114 New Haven Bay, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+11/12/2017,"120 New Haven Bay, Balbriggan, Dublin",Dublin,271000.0,No,Balbriggan,Co. Dublin,q4,100%
+11/12/2017,"44 Castleland Park Drive, Balbriggan",Dublin,218100.0,Yes,Balbriggan,Co. Dublin,q3,80%
+12/12/2017,"11 Clonuske Rise, Hamlet Lane, Balbriggan",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+14/12/2017,"105 Castleland Court, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+14/12/2017,"72 Tara Cove, Balbriggan, Co Dublin",Dublin,267000.0,No,Balbriggan,Co. Dublin,q4,90%
+14/12/2017,"87 Craoibhinn Park, Balbriggan, Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+15/12/2017,"14 Moylaragh Drive, Balbriggan, Co Dublin",Dublin,149000.0,No,Balbriggan,Co. Dublin,q2,30%
+15/12/2017,"31 Hampton Gardens Avenue, Balbriggan",Dublin,229030.0,Yes,Balbriggan,Co. Dublin,q4,80%
+15/12/2017,"32 Brackenwood Ave, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+15/12/2017,"47 Castleland Park Drive, Balbriggan",Dublin,218061.0,Yes,Balbriggan,Co. Dublin,q3,80%
+18/12/2017,"23 Hampton Gardens Avenue, Balbriggan, Co. Dublin",Dublin,220220.26,Yes,Balbriggan,Co. Dublin,q3,80%
+18/12/2017,"29 Hampton Gardens Avenue, Balbriggan, County Dublin",Dublin,224625.55,Yes,Balbriggan,Co. Dublin,q3,80%
+19/12/2017,"12 Clonuske Green, Hamlet Lane, Balbriggan",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+19/12/2017,"46 Chapel Close, Balbriggan, Dublin",Dublin,240000.0,No,Balbriggan,Co. Dublin,q4,80%
+19/12/2017,"8 Martello Park, Balbriggan, Dublin",Dublin,156000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/12/2017,"25 Hampton Gardens Avenue, Balbriggan",Dublin,215814.0,Yes,Balbriggan,Co. Dublin,q3,70%
+20/12/2017,"28 Castleland Pak Drive, Balbriggan",Dublin,224670.0,Yes,Balbriggan,Co. Dublin,q3,80%
+20/12/2017,"5 Clonuske Park, Balbriggan, Dublin",Dublin,269500.0,No,Balbriggan,Co. Dublin,q4,90%
+21/12/2017,"135 Brega Hamlet Lane, Balbriggan, Dublin",Dublin,167000.0,No,Balbriggan,Co. Dublin,q2,50%
+21/12/2017,"22 The Laurels, Quayside, Balbriggan",Dublin,136000.0,No,Balbriggan,Co. Dublin,q1,30%
+21/12/2017,"3 Moylaragh Mews, Balbriggan, Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+21/12/2017,"Castleview, Balrothery, Balbriggan",Dublin,290000.0,No,Balbriggan,Co. Dublin,q4,100%
+22/12/2017,"69 Moylaragh Rise, Balbriggan, County Dublin",Dublin,132500.0,No,Balbriggan,Co. Dublin,q1,30%
+05/01/2018,"27 Hampton Gardens Avenue, Balbriggan",Dublin,221194.0,Yes,Balbriggan,Co. Dublin,q3,80%
+08/01/2018,"12 High St, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+11/01/2018,"Rocklands, The Bower, Balbriggan",Dublin,650000.0,No,Balbriggan,Co. Dublin,q4,100%
+12/01/2018,"2 Ashfield Green, Balbriggan, Dublin",Dublin,242500.0,No,Balbriggan,Co. Dublin,q4,90%
+15/01/2018,"27 Derham Park, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+16/01/2018,"48 Castleland Park Drive, Balbriggan",Dublin,218062.0,Yes,Balbriggan,Co. Dublin,q3,80%
+18/01/2018,"65 Tara Ct, Balbriggan, Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+19/01/2018,"18 Castleland Court, Balbriggan, Dublin",Dublin,204000.0,No,Balbriggan,Co. Dublin,q3,70%
+19/01/2018,"76 Tara Court, Balbriggan, Dublin",Dublin,142000.0,No,Balbriggan,Co. Dublin,q2,30%
+22/01/2018,"56 Brackenwood Dr, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+22/01/2018,"67 Clonard Ct, Balbriggan, Dublin",Dublin,222500.0,No,Balbriggan,Co. Dublin,q3,80%
+22/01/2018,"7 Knightswood, Balrothery, Balbriggan",Dublin,375000.0,No,Balbriggan,Co. Dublin,q4,100%
+22/01/2018,"77 Castleland Court, Balbriggan, Dublin",Dublin,265000.0,No,Balbriggan,Co. Dublin,q4,90%
+23/01/2018,"25 Castleland Park Drive, Balbriggan",Dublin,233480.0,Yes,Balbriggan,Co. Dublin,q4,80%
+29/01/2018,"8 Ashfield Rise, Balbriggan, Dublin",Dublin,253000.0,No,Balbriggan,Co. Dublin,q4,90%
+30/01/2018,"4 Hastings Ave, Balbriggan, Dublin",Dublin,217000.0,No,Balbriggan,Co. Dublin,q3,70%
+30/01/2018,"56 Dublin St, Balbriggan, Dublin",Dublin,405000.0,No,Balbriggan,Co. Dublin,q4,100%
+30/01/2018,"7 Dun Saithne Rd, Flemington Lane, Balbriggan",Dublin,221000.0,No,Balbriggan,Co. Dublin,q3,80%
+31/01/2018,"13 Castlemill, Hamlet Lane, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+31/01/2018,"20 Martello Rd, Martello Tower, Balbriggan",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+01/02/2018,"111 Bremore Castle, Balbriggan, Dublin",Dublin,246000.0,No,Balbriggan,Co. Dublin,q4,90%
+01/02/2018,"27 Castleland Park Drive, Balbriggan, Co Dublin",Dublin,255000.0,Yes,Balbriggan,Co. Dublin,q4,90%
+02/02/2018,"12 Derham Park, Balbriggan, Co Dublin",Dublin,202000.0,No,Balbriggan,Co. Dublin,q3,70%
+05/02/2018,"42 Brackenwood Dr, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+06/02/2018,"42 Moylaragh Mews, Balbriggan, Dublin",Dublin,153000.0,No,Balbriggan,Co. Dublin,q2,40%
+12/02/2018,"1 The Hastings Lawn, Balbriggan, Dublin",Dublin,189500.0,No,Balbriggan,Co. Dublin,q3,60%
+12/02/2018,"23 Castleland Park Drive, Balbriggan",Dublin,233480.18,Yes,Balbriggan,Co. Dublin,q4,80%
+12/02/2018,"Apt 23 Clonuske Drive, Hamlet Lane, Balbriggan",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+13/02/2018,"15 Mount Rochford Rise, Balbriggan, Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+14/02/2018,"3 Hampton Garden Grove, Balbriggan",Dublin,264273.0,Yes,Balbriggan,Co. Dublin,q4,90%
+15/02/2018,"3 Bower Court, The Bower, Balbriggan",Dublin,268150.0,Yes,Balbriggan,Co. Dublin,q4,90%
+16/02/2018,"142 New Haven Bay, Flemington Lane, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+16/02/2018,"24 Castleland Park Drive, Balbriggan",Dublin,233480.0,Yes,Balbriggan,Co. Dublin,q4,80%
+19/02/2018,"4 Martello Walk, Flemington Lane, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+19/02/2018,"Apt 27, Moylaragh Rise, Balbriggan",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+21/02/2018,"14 The Courtyard, Balrothery, Balbriggan",Dublin,198000.0,No,Balbriggan,Co. Dublin,q3,60%
+21/02/2018,"20 Westbrook Ave, Balbriggan, Dublin",Dublin,240000.0,No,Balbriggan,Co. Dublin,q4,80%
+21/02/2018,"4 Woodview, Balrothery, Balbriggan",Dublin,260000.0,No,Balbriggan,Co. Dublin,q4,90%
+22/02/2018,"10 Hampton Woods, Bremore, Balbriggan",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+27/02/2018,"27 High St, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+28/02/2018,"32 Ashfield Close, Balbriggan, Dublin",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+07/03/2018,"5 Brackenwood Lane, Balbriggan, Dublin",Dublin,127000.0,No,Balbriggan,Co. Dublin,q1,20%
+08/03/2018,"1 Trimleston, Hamlet Lane, Balbriggan",Dublin,213500.83,No,Balbriggan,Co. Dublin,q3,70%
+08/03/2018,"1 Trimleston, Hamlet Lane, Balbriggan",Dublin,213500.83,No,Balbriggan,Co. Dublin,q3,70%
+08/03/2018,"105 Bremore Castle, Balbriggan, Dublin",Dublin,164666.6,No,Balbriggan,Co. Dublin,q2,40%
+08/03/2018,"35 Barons Hall Grove, Balbriggan, Co Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+09/03/2018,"36 Hampton Green, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+15/03/2018,"44 Hampton Woods, Balbriggan, Dublin",Dublin,212000.0,No,Balbriggan,Co. Dublin,q3,70%
+15/03/2018,"61 Moylaragh Rise, Balbriggan, Dublin",Dublin,196000.0,No,Balbriggan,Co. Dublin,q3,60%
+15/03/2018,"822 Bremore Castle, Balbriggan, Dublin",Dublin,176000.0,No,Balbriggan,Co. Dublin,q2,50%
+21/03/2018,"107 Pinewood, Balbriggan, Green Rd",Dublin,213000.0,No,Balbriggan,Co. Dublin,q3,70%
+22/03/2018,"20 Quay St, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+23/03/2018,"Knock, Balbriggan, Dublin",Dublin,625000.0,No,Balbriggan,Co. Dublin,q4,100%
+05/04/2018,"P Castleland Park Drive, Balbriggan",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+06/04/2018,"173 Hampton Cove, Balbriggan, Dublin",Dublin,405000.0,No,Balbriggan,Co. Dublin,q4,100%
+09/04/2018,"2 The Laurels, Balbriggan, Harbour",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+10/04/2018,"7 Castleland Park Drive, Balbriggan",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+10/04/2018,"Apt 5, 16 18 Drogheda St, Balbriggan",Dublin,134075.0,Yes,Balbriggan,Co. Dublin,q1,30%
+11/04/2018,"1 Newhaven Ave, Flemington Lane, Balbriggan",Dublin,312000.0,No,Balbriggan,Co. Dublin,q4,100%
+12/04/2018,"132 New Haven Bay, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+13/04/2018,"10 Castleland Park Drive, Balbriggan",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+17/04/2018,"2 Hampton Green, Balbriggan, Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+17/04/2018,"5 The Laurels, Balbriggan, Co Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+17/04/2018,"50 Cantleland Court, Balbriggan, Dublin",Dublin,202000.0,No,Balbriggan,Co. Dublin,q3,70%
+18/04/2018,"20 Hampton Gardens Drive, Balbriggan, County Dublin",Dublin,231277.53,Yes,Balbriggan,Co. Dublin,q4,80%
+18/04/2018,"24 Clonard Rise, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+18/04/2018,"72 Ashfield Rise, Balbriggan, Dublin",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+24/04/2018,"10 Rosepark, Balrothery, Balbriggan",Dublin,212000.0,No,Balbriggan,Co. Dublin,q3,70%
+24/04/2018,"127 Pine Ridge, Balbriggan, Co Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+25/04/2018,"19 Hampton Gardens Drive, Balbriggan",Dublin,231278.0,Yes,Balbriggan,Co. Dublin,q4,80%
+25/04/2018,"2 Hampton Gardens Grove, Balbriggan, County Dublin",Dublin,273127.75,Yes,Balbriggan,Co. Dublin,q4,100%
+25/04/2018,"22 Hampton Gardens Drive, Balbriggan, County Dublin",Dublin,232300.89,Yes,Balbriggan,Co. Dublin,q4,80%
+25/04/2018,"4 Dublin Rd, Balbriggan, Dublin",Dublin,422500.0,No,Balbriggan,Co. Dublin,q4,100%
+25/04/2018,"9 Castleland, Park View, Balbriggan",Dublin,315000.0,No,Balbriggan,Co. Dublin,q4,100%
+27/04/2018,"33 Chapel Gate, Balbriggan, Dublin",Dublin,248000.0,No,Balbriggan,Co. Dublin,q4,90%
+30/04/2018,"138 Newhaven Bay, Flemington Lane, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+02/05/2018,"36 Moylaragh Crescent, Balbriggan, Dublin",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+04/05/2018,"5 Castleland Park Drive, Balbriggan",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+04/05/2018,"73 Trimleston, Hamlet Lane, Balbriggan",Dublin,260000.0,No,Balbriggan,Co. Dublin,q4,90%
+08/05/2018,"8 Moylaragh Park, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+11/05/2018,"68 Drogheda St, Balbriggan, Dublin",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+11/05/2018,"9 Balruddery Field, Balrothery, Balbriggan",Dublin,272000.0,No,Balbriggan,Co. Dublin,q4,100%
+15/05/2018,"2 Castleland Park Drive, Balbriggan",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+17/05/2018,"23 Rose Park, Balrothery, Balbriggan",Dublin,268000.0,No,Balbriggan,Co. Dublin,q4,90%
+17/05/2018,"26 Castleland Park View, Balbriggan, Dublin",Dublin,280000.0,No,Balbriggan,Co. Dublin,q4,100%
+22/05/2018,"1 Castleland Park Drive, Balbriggan",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+22/05/2018,"1 Hampton Gardens Grove, Balbriggan",Dublin,281938.0,Yes,Balbriggan,Co. Dublin,q4,100%
+22/05/2018,"8 Castleland Park Deive, Balbriggan",Dublin,233480.0,Yes,Balbriggan,Co. Dublin,q4,80%
+23/05/2018,"19 Moylaragh Way, Balbriggan, Dublin",Dublin,181000.0,No,Balbriggan,Co. Dublin,q3,60%
+23/05/2018,"22 Hampton Gadens Avenue, Balbriggan",Dublin,224669.0,Yes,Balbriggan,Co. Dublin,q3,80%
+23/05/2018,"5 Martello View, Martello Tower, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+25/05/2018,"Apt 2, 10 Railway St, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+29/05/2018,"16 The Hastings Dr, Balbriggan, Dublin",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+31/05/2018,"80 Chapel Gate, Balbriggan, Dublin",Dublin,310000.0,No,Balbriggan,Co. Dublin,q4,100%
+08/06/2018,"115 Newhaven Bay, Balbriggan, Dublin",Dublin,221000.0,No,Balbriggan,Co. Dublin,q3,80%
+08/06/2018,"Apt 23 The Laurels, Quayside, Balbriggan",Dublin,142000.0,No,Balbriggan,Co. Dublin,q2,30%
+14/06/2018,"30 Flemington Park, Balbriggan, Dublin",Dublin,280000.0,No,Balbriggan,Co. Dublin,q4,100%
+14/06/2018,"60 Bremore Pastures Way, Balbriggan, Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+15/06/2018,"18 Hampton Gardens Avenue, Balbriggan",Dublin,224699.6,Yes,Balbriggan,Co. Dublin,q3,80%
+15/06/2018,"20 Westbrook Dr, Balbriggan, Dublin",Dublin,271000.0,No,Balbriggan,Co. Dublin,q4,100%
+15/06/2018,"48 Westbrook Green, Balbriggan, Dublin",Dublin,240660.73,No,Balbriggan,Co. Dublin,q4,90%
+15/06/2018,"Apartment 1, 59 - 61 Dublin St, Balbriggan",Dublin,96000.0,No,Balbriggan,Co. Dublin,q1,10%
+15/06/2018,"Apartment 2, 59 - 61 Dublin St, Balbriggan",Dublin,96000.0,No,Balbriggan,Co. Dublin,q1,10%
+18/06/2018,"4 Castlands Park Drive, Balbriggan, Co Dublin",Dublin,280000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+18/06/2018,"61 Bremore Pastures Way, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+19/06/2018,"Apt 1, 10 Railway St, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/06/2018,"2 Harbour View, Balbriggan, Dublin",Dublin,172500.0,No,Balbriggan,Co. Dublin,q2,50%
+21/06/2018,"3 Cardy Rock Close, Balbriggan, Dublin",Dublin,154000.0,No,Balbriggan,Co. Dublin,q2,40%
+22/06/2018,"15 Linnen Hall Harbour Mill, Georges Hill, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+22/06/2018,"25 Brecan Close, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+25/06/2018,"12 Oakleigh, Balbriggan, Dublin",Dublin,183000.0,No,Balbriggan,Co. Dublin,q3,60%
+26/06/2018,"6 Castleland Oark Drive, Balbriggan",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+27/06/2018,"10 Martello Walk, Flemington Lane, Balbriggan",Dublin,187000.0,No,Balbriggan,Co. Dublin,q3,60%
+27/06/2018,"29 Tara Cove, Balbriggan, Dublin",Dublin,245000.0,No,Balbriggan,Co. Dublin,q4,90%
+27/06/2018,"56 Hampton Woods, Balbriggan, Dublin",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+02/07/2018,"24 Bremore Pastures Ave, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+03/07/2018,"8 The Rise, Balrothery, Balbriggan",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+04/07/2018,"4 Barons Hall Park, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+09/07/2018,"77 Moylaragh Dr, Balbriggan, Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+10/07/2018,"59 Brecan Close, Balbriggan, Co Dublin",Dublin,146000.0,No,Balbriggan,Co. Dublin,q2,30%
+11/07/2018,"Apt 3, 10 Railway St, Balbriggan",Dublin,162000.0,No,Balbriggan,Co. Dublin,q2,40%
+13/07/2018,"17 Castleland Park Drive, Balbriggan",Dublin,259912.0,Yes,Balbriggan,Co. Dublin,q4,90%
+13/07/2018,"21 Hampton Gardens Drive, Balbriggan",Dublin,237885.0,Yes,Balbriggan,Co. Dublin,q4,80%
+13/07/2018,"52 Brecan Close, Balbriggan, Dublin",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+13/07/2018,"7 The Coachyard, Balrothery, Balbriggan",Dublin,229000.0,No,Balbriggan,Co. Dublin,q4,80%
+16/07/2018,"70 Castleland Park, Balbriggan, Dublin",Dublin,213000.0,No,Balbriggan,Co. Dublin,q3,70%
+18/07/2018,"22 Barons Hall Park, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+19/07/2018,"16 Quay St, Balbriggan, Dublin",Dublin,173000.0,No,Balbriggan,Co. Dublin,q2,50%
+19/07/2018,"41 Barnwall Court, Hamlet Lane, Balbriggan",Dublin,177000.0,No,Balbriggan,Co. Dublin,q2,50%
+20/07/2018,"11 Barons Hall Lodge, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+20/07/2018,"Apt 8 Gracefields, Chapel Steet, Balbriggan",Dublin,136000.0,No,Balbriggan,Co. Dublin,q1,30%
+23/07/2018,"32 Chieftains Rd, Balbriggan, Dublin",Dublin,222000.0,No,Balbriggan,Co. Dublin,q3,80%
+24/07/2018,"13 Newhaven Park, Flemington Lane, Balbriggan",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+25/07/2018,"11 Martello Place, Balbriggan",Dublin,298625.0,Yes,Balbriggan,Co. Dublin,q4,100%
+25/07/2018,"12 Martello Place, Balbriggan",Dublin,298625.0,Yes,Balbriggan,Co. Dublin,q4,100%
+25/07/2018,"16 Martello Place, Balbriggan",Dublin,298625.0,Yes,Balbriggan,Co. Dublin,q4,100%
+25/07/2018,"18 Martello Place, Balbriggan",Dublin,298625.0,Yes,Balbriggan,Co. Dublin,q4,100%
+25/07/2018,"7 Martello Place, Balbriggan",Dublin,298625.0,Yes,Balbriggan,Co. Dublin,q4,100%
+25/07/2018,"8 Martello Place, Balbriggan",Dublin,298625.0,Yes,Balbriggan,Co. Dublin,q4,100%
+25/07/2018,"9 Martello Place, Balbriggan",Dublin,298625.0,Yes,Balbriggan,Co. Dublin,q4,100%
+31/07/2018,"45 Bremore Castle, Balbriggan, Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+01/08/2018,"15 Harbour View, Balbriggan, Dublin",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+01/08/2018,"87 Hampton Green, Balbriggan, Dublin",Dublin,131130.0,No,Balbriggan,Co. Dublin,q1,30%
+09/08/2018,"3 Flemington Park, Balbriggan, Dublin",Dublin,325000.0,No,Balbriggan,Co. Dublin,q4,100%
+09/08/2018,"76 Hampton Cove, Balbriggan, Dublin",Dublin,280000.0,No,Balbriggan,Co. Dublin,q4,100%
+10/08/2018,"12 Trimleston, Hamlet Lane, Balbriggan",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+15/08/2018,"54 Ashfield Rise, Balbriggan, Dublin",Dublin,199950.0,No,Balbriggan,Co. Dublin,q3,60%
+16/08/2018,"26 Brackenwood Drive, Balbriggan, Co Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+17/08/2018,"16 Castleland Park Drive, Balbriggan, County Dublin",Dublin,261061.94,Yes,Balbriggan,Co. Dublin,q4,90%
+17/08/2018,"20 Bremore Pastures Way, Balbriggan, Dublin",Dublin,156000.0,No,Balbriggan,Co. Dublin,q2,40%
+17/08/2018,"Apt 8 Castlekeep, Balrothery, Balbriggan",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+20/08/2018,"36 Westbrook Ave, Naul Rd, Balbriggan",Dublin,265000.0,No,Balbriggan,Co. Dublin,q4,90%
+23/08/2018,"17 Templeville, Balbriggan, Dublin",Dublin,253000.0,No,Balbriggan,Co. Dublin,q4,90%
+23/08/2018,"47 Castlelands, Balbriggan, Dublin",Dublin,488000.0,No,Balbriggan,Co. Dublin,q4,100%
+23/08/2018,"8 Hamilton Avenue, Balbriggan, Co Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+24/08/2018,"103 Pine Ridge, Balbriggan, Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+24/08/2018,"15 Moylaragh Mews, Balbriggan, Dublin",Dublin,157000.0,No,Balbriggan,Co. Dublin,q2,40%
+24/08/2018,"19 Chieftains Lodge, Chieftains Way, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+24/08/2018,"19 Taylors Hill Crescent, Balbriggan, Dublin",Dublin,289775.0,Yes,Balbriggan,Co. Dublin,q4,100%
+29/08/2018,"40 Chapel Ave, Balbriggan, Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+29/08/2018,"75 Hampton Cove, Balbriggan, Dublin",Dublin,305000.0,No,Balbriggan,Co. Dublin,q4,100%
+30/08/2018,"4 Moylaragh Grove, Balbriggan, Co Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+30/08/2018,"75 Hampton Green, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+31/08/2018,"18 Derham Park, Balbriggan, Dublin",Dublin,227000.0,No,Balbriggan,Co. Dublin,q4,80%
+31/08/2018,"19 Castleland Park Drive, Balbriggan, County Dublin",Dublin,259911.89,Yes,Balbriggan,Co. Dublin,q4,90%
+31/08/2018,"22 Taylor Hill Crescent, Balbriggan",Dublin,255500.0,Yes,Balbriggan,Co. Dublin,q4,90%
+31/08/2018,"26 Castlelands, Balbriggan, Dublin",Dublin,360000.0,No,Balbriggan,Co. Dublin,q4,100%
+31/08/2018,"38 Chapel Ave, Naul Rd, Balbriggan",Dublin,265000.0,No,Balbriggan,Co. Dublin,q4,90%
+31/08/2018,"4 Tara Court, Balbriggan, Dublin",Dublin,265000.0,No,Balbriggan,Co. Dublin,q4,90%
+31/08/2018,"59 Fancourt Heights, Balbriggan, Dublin",Dublin,280000.0,No,Balbriggan,Co. Dublin,q4,100%
+31/08/2018,"65 Brackenwood Ave, Flemington, Balbriggan",Dublin,137500.0,No,Balbriggan,Co. Dublin,q1,30%
+31/08/2018,"Ard Na Teach, Ring Commons, Balbriggan",Dublin,293000.0,No,Balbriggan,Co. Dublin,q4,100%
+04/09/2018,"18 Castleland Park Close, Balbriggan",Dublin,255506.0,Yes,Balbriggan,Co. Dublin,q4,90%
+05/09/2018,"17 Taylors Hill Crescent, Balbriggan",Dublin,255507.0,Yes,Balbriggan,Co. Dublin,q4,90%
+05/09/2018,"18 Taylor Hill Crescent, Balbriggan",Dublin,255506.0,Yes,Balbriggan,Co. Dublin,q4,90%
+05/09/2018,"56 Trimleston, Hamlet Lane, Balbriggan",Dublin,136000.0,No,Balbriggan,Co. Dublin,q1,30%
+06/09/2018,"10  Taylor Hill Cresent, Naul Road, Balbriggan",Dublin,266519.0,Yes,Balbriggan,Co. Dublin,q4,90%
+06/09/2018,"14 Castleland Park Close, Balbriggan, Dublin",Dublin,255506.6,Yes,Balbriggan,Co. Dublin,q4,90%
+06/09/2018,"50 Brega, Hamlet Lane, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+07/09/2018,"15 Clonuske Green, Hamlet Lane, Balbriggan",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+07/09/2018,"2 Taylor Hill Green, Balbriggan",Dublin,268722.0,Yes,Balbriggan,Co. Dublin,q4,90%
+07/09/2018,"23 Taylor Hill Crescent, Naul Road, Balbriggan",Dublin,248898.67,Yes,Balbriggan,Co. Dublin,q4,90%
+07/09/2018,"26 Taylor Hill Crescent, Balbriggan",Dublin,246696.03,Yes,Balbriggan,Co. Dublin,q4,90%
+07/09/2018,"3 Taylor Hill, Balbriggan, Co. Dublin",Dublin,264317.0,Yes,Balbriggan,Co. Dublin,q4,90%
+11/09/2018,"1 Taylor Hill Green, Balbriggan",Dublin,268700.0,Yes,Balbriggan,Co. Dublin,q4,90%
+11/09/2018,"20 Castleland Park Drive, Balbriggan, Co. Dublin",Dublin,259911.89,Yes,Balbriggan,Co. Dublin,q4,90%
+12/09/2018,"10 Chieftains Close, Chieftains Way, Balbriggan",Dublin,242000.0,No,Balbriggan,Co. Dublin,q4,90%
+12/09/2018,"20 Westbrook Crescent, Balbriggan, Dublin",Dublin,297500.0,No,Balbriggan,Co. Dublin,q4,100%
+12/09/2018,"64 Hampton Cove, Balbriggan, Dublin",Dublin,303500.0,No,Balbriggan,Co. Dublin,q4,100%
+13/09/2018,"14 Taylor Hill Crescent, Balbriggan",Dublin,264317.0,Yes,Balbriggan,Co. Dublin,q4,90%
+13/09/2018,"15 Castleland Park, Balbriggan",Dublin,255506.0,Yes,Balbriggan,Co. Dublin,q4,90%
+13/09/2018,"15 Taylors Hill Crescent, Balbriggan",Dublin,295154.0,Yes,Balbriggan,Co. Dublin,q4,100%
+13/09/2018,"20 Taylor Hill Crescent, Balbriggan",Dublin,297300.0,Yes,Balbriggan,Co. Dublin,q4,100%
+18/09/2018,"19 Moylaragh Walk, Balbriggan, Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+18/09/2018,"3 Martello Close, Balbriggan, Dublin",Dublin,183000.0,No,Balbriggan,Co. Dublin,q3,60%
+19/09/2018,"13 Bremore Pastures Drive, Hamlet Lane, Balbriggan",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+19/09/2018,"144 Castleland Court, Balbriggan, Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+21/09/2018,"15 Castleland Park Close, Balbriggan, County Dublin",Dublin,255506.6,Yes,Balbriggan,Co. Dublin,q4,90%
+21/09/2018,"54 Clonuske Dr, Balbriggan, Dublin",Dublin,199950.0,No,Balbriggan,Co. Dublin,q3,70%
+25/09/2018,"25 Taylor Hill Crescent, Balbriggan",Dublin,255506.6,Yes,Balbriggan,Co. Dublin,q4,90%
+28/09/2018,"30 Hamlet Ave, Chieftans Way, Balbriggan",Dublin,203000.0,No,Balbriggan,Co. Dublin,q3,70%
+02/10/2018,"5 Chieftains Mews, Balbriggan, Dublin",Dublin,131454.0,No,Balbriggan,Co. Dublin,q1,30%
+02/10/2018,"58 Castleland, Balbriggan, Park View",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+04/10/2018,"18 Taylor Hill Walk, Naul Road, Balbriggan",Dublin,251101.32,Yes,Balbriggan,Co. Dublin,q4,90%
+08/10/2018,"14 Taylor Hill Walk, Balbriggan",Dublin,242291.0,Yes,Balbriggan,Co. Dublin,q4,90%
+08/10/2018,"5 Taylor Hill Way, Naul Road, Balbriggan",Dublin,237885.46,Yes,Balbriggan,Co. Dublin,q4,80%
+08/10/2018,"7 Taylor Hill, Balbriggan",Dublin,255506.61,Yes,Balbriggan,Co. Dublin,q4,90%
+09/10/2018,"8 Taylor Hill Way, Naul Road, Balbriggan",Dublin,242290.0,Yes,Balbriggan,Co. Dublin,q4,90%
+10/10/2018,"6 Taylor Hill Way, Balbriggan",Dublin,242290.0,Yes,Balbriggan,Co. Dublin,q4,90%
+11/10/2018,"4 Taylor Hill Way, Nauil Road, Balbriggan",Dublin,215839.0,Yes,Balbriggan,Co. Dublin,q3,70%
+11/10/2018,"7 Taylor Hill Way, Naul Road, Balbriggan",Dublin,242290.75,Yes,Balbriggan,Co. Dublin,q4,90%
+12/10/2018,"10 Taylor Hill Way, Balbriggan",Dublin,217621.14,Yes,Balbriggan,Co. Dublin,q3,80%
+15/10/2018,"1 Taylor Hill Way, Balbriggan",Dublin,222100.0,Yes,Balbriggan,Co. Dublin,q3,80%
+15/10/2018,"15 Taylor Hill Walk, Balbriggan",Dublin,224669.6,Yes,Balbriggan,Co. Dublin,q3,80%
+17/10/2018,"3 Taylor Hill Walk, Balbriggan",Dublin,264317.0,Yes,Balbriggan,Co. Dublin,q4,90%
+17/10/2018,"Apt 52 Barnwall Court, Bremore Balbriggan, Dublin",Dublin,182000.0,No,Balbriggan,Co. Dublin,q3,60%
+18/10/2018,"8 Taylor Hill Walk, Naul Road, Balbriggan",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+19/10/2018,"2  Taylor Hill Walk, Naul Road, Balbriggan",Dublin,264317.0,Yes,Balbriggan,Co. Dublin,q4,90%
+19/10/2018,"4 Taylor Hill Walk, Balbriggan, County Dublin",Dublin,262114.0,Yes,Balbriggan,Co. Dublin,q4,90%
+19/10/2018,"88 Hampton Green, Balbriggan, Dublin",Dublin,228000.0,No,Balbriggan,Co. Dublin,q4,80%
+22/10/2018,"3 Taylor Hill Way, Naul Road, Balbriggan",Dublin,215859.0,Yes,Balbriggan,Co. Dublin,q3,70%
+23/10/2018,"13 Taylor Hill Walk, Naul Road, Balbriggan",Dublin,251102.0,Yes,Balbriggan,Co. Dublin,q4,90%
+25/10/2018,"12 Bremore Castle Gate, Hamlet Lane, Balbriggan",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+25/10/2018,"21 Castleland Park Close, Balbriggan",Dublin,255506.0,Yes,Balbriggan,Co. Dublin,q4,90%
+25/10/2018,"34 Moylaragh Rise, Balbriggan, Dublin",Dublin,213000.0,No,Balbriggan,Co. Dublin,q3,70%
+25/10/2018,"9 Taylor Hill Crescent, Naul Road, Balbriggan",Dublin,268722.0,Yes,Balbriggan,Co. Dublin,q4,90%
+25/10/2018,"9 Taylor Hill Way, Naul Road, Balbriggan",Dublin,217621.0,Yes,Balbriggan,Co. Dublin,q3,80%
+26/10/2018,"36 Covetown, Balbriggan, Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+27/10/2018,"18 Castleland Park Drive, Balbriggan, County Dublin",Dublin,261061.95,Yes,Balbriggan,Co. Dublin,q4,90%
+30/10/2018,"1 Hastings Ave, Hamlet Lane, Balbriggan",Dublin,268000.0,No,Balbriggan,Co. Dublin,q4,90%
+30/10/2018,"12 Bremore Cottages, Balbriggan, Co Dublin",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+31/10/2018,"19 Chapel Place, Chapel St, Balbriggan",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+31/10/2018,"6 Taylor Hill Walk, Nal Road, Balbriggan",Dublin,268722.0,Yes,Balbriggan,Co. Dublin,q4,90%
+01/11/2018,"42 Moylaragh Rise, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+02/11/2018,"46 Barons Hall Park, Balbriggan, Co Dublin",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+05/11/2018,"15 Taylor Hill Green, Balbriggan",Dublin,348000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+05/11/2018,"5 Taylor Hill Close, Balbriggan",Dublin,224670.0,Yes,Balbriggan,Co. Dublin,q3,80%
+06/11/2018,"4 Taylor Hill Green, Balbriggan",Dublin,262114.54,Yes,Balbriggan,Co. Dublin,q4,90%
+07/11/2018,"17 Castleland Park Close, Balbriggan, County Dublin",Dublin,255506.61,Yes,Balbriggan,Co. Dublin,q4,90%
+07/11/2018,"17 Hampton Street, Balbriggan, County Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+07/11/2018,"2 Taylor Hill Way, Balbriggan, Co. Dublin",Dublin,242290.0,Yes,Balbriggan,Co. Dublin,q4,90%
+07/11/2018,"6 Taylor Hill Close, Balbriggan, Co",Dublin,251101.0,Yes,Balbriggan,Co. Dublin,q4,90%
+08/11/2018,"2 Taylor Hill Close, Naul Road, Balbriggan",Dublin,224669.0,Yes,Balbriggan,Co. Dublin,q3,80%
+08/11/2018,"46 Dublin St, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+09/11/2018,"22 Cardy Rock Ave, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+09/11/2018,"6 Taylor Hill Green, Balbriggan, Co. Dublin",Dublin,268722.46,Yes,Balbriggan,Co. Dublin,q4,90%
+13/11/2018,"20 Castleland Park Close, Balbriggan, Co. Dublin",Dublin,255506.6,Yes,Balbriggan,Co. Dublin,q4,90%
+13/11/2018,"42 Westbrook Green, Balbriggan, Dublin",Dublin,265000.0,No,Balbriggan,Co. Dublin,q4,90%
+14/11/2018,"6 Moylaragh View, Moylaragh Park, Balbriggan",Dublin,166000.0,No,Balbriggan,Co. Dublin,q2,50%
+14/11/2018,"94 Hampton Cove, Balbriggan, Dublin",Dublin,385000.0,No,Balbriggan,Co. Dublin,q4,100%
+15/11/2018,"11 Taylor Green, Taylor Hill, Balbriggan",Dublin,259912.0,Yes,Balbriggan,Co. Dublin,q4,90%
+15/11/2018,"16 Taylor Hill Walk, Balbriggan",Dublin,224669.6,Yes,Balbriggan,Co. Dublin,q3,80%
+15/11/2018,"5 Taylor Hill Walk, Naul Road, Balbriggan",Dublin,262114.53,Yes,Balbriggan,Co. Dublin,q4,90%
+16/11/2018,"116 Brenmore Castle, Hamlet Lane, Balbriggan",Dublin,192500.0,Yes,Balbriggan,Co. Dublin,q3,60%
+16/11/2018,"14 Cardy Rock Road, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+16/11/2018,"3 Bellsfield Court, Bath Rd, Balbriggan",Dublin,120000.0,No,Balbriggan,Co. Dublin,q1,20%
+16/11/2018,"3 Castleland Park Close, Balbriggan",Dublin,242290.0,Yes,Balbriggan,Co. Dublin,q4,90%
+16/11/2018,"3 Taylor Hill Close, Naul Road, Balbriggan",Dublin,224669.0,Yes,Balbriggan,Co. Dublin,q3,80%
+16/11/2018,"42 Dun Saithne Green, Balbriggan, Dublin",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+16/11/2018,"6 Clonuske Dr, Hamlet Lane, Balbriggan",Dublin,170500.0,No,Balbriggan,Co. Dublin,q2,50%
+16/11/2018,"9 Taylor Hill Walk, Balbriggan",Dublin,231277.53,Yes,Balbriggan,Co. Dublin,q4,80%
+19/11/2018,"14 High St, Balbriggan, Dublin",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+20/11/2018,"1 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,290000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"10 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,176509.0,Yes,Balbriggan,Co. Dublin,q2,50%
+20/11/2018,"11 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,176509.0,Yes,Balbriggan,Co. Dublin,q2,50%
+20/11/2018,"11 Taylor Hill Walk, Taylor Hill, Balbriggan",Dublin,280000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"12 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,176509.0,Yes,Balbriggan,Co. Dublin,q2,50%
+20/11/2018,"12 Taylor Hill Walk, Taylor Hill, Balbriggan",Dublin,290000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"13 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,176509.0,Yes,Balbriggan,Co. Dublin,q2,50%
+20/11/2018,"14 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,204731.0,Yes,Balbriggan,Co. Dublin,q3,70%
+20/11/2018,"15 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,204731.0,Yes,Balbriggan,Co. Dublin,q3,70%
+20/11/2018,"16 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,176509.0,Yes,Balbriggan,Co. Dublin,q2,50%
+20/11/2018,"16 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,350000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"17 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,176509.0,Yes,Balbriggan,Co. Dublin,q2,50%
+20/11/2018,"17 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,350000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"18 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,176509.0,Yes,Balbriggan,Co. Dublin,q2,50%
+20/11/2018,"18 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"19 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,176509.0,Yes,Balbriggan,Co. Dublin,q2,50%
+20/11/2018,"19 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"20 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,204731.0,Yes,Balbriggan,Co. Dublin,q3,70%
+20/11/2018,"20 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"21 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"22  Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"23 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"24 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"25 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"26 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"26 Trimilston, Hamlet Lane, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/11/2018,"27 Taylor Hill Crescent, Balbriggan",Dublin,343612.33,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"27 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"28 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"29 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,300000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"30 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,350000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"31 Taylor Hill Green, Taylor Hill, Balbriggan",Dublin,350000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+20/11/2018,"4 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,265000.0,Yes,Balbriggan,Co. Dublin,q4,90%
+20/11/2018,"7 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,204731.0,Yes,Balbriggan,Co. Dublin,q3,70%
+20/11/2018,"8 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,176509.0,Yes,Balbriggan,Co. Dublin,q2,50%
+20/11/2018,"9 Taylor Hill Close, Taylor Hill, Balbriggan",Dublin,176509.0,Yes,Balbriggan,Co. Dublin,q2,50%
+21/11/2018,"16 Castleland Park Close, Balbriggan, Co. Dublin",Dublin,255506.0,Yes,Balbriggan,Co. Dublin,q4,90%
+22/11/2018,"Oban Cottage, Bremore, Balbriggan",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+22/11/2018,"Tobersool, Balbriggan, Co. Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+23/11/2018,"10 Taylor Hill Walk, Naul Road, Balbriggan",Dublin,231277.53,Yes,Balbriggan,Co. Dublin,q4,80%
+23/11/2018,"119 Hampton Green, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+23/11/2018,"14 Hastings Court, Hastings, Balbriggan",Dublin,193000.0,No,Balbriggan,Co. Dublin,q3,60%
+23/11/2018,"20 Moylaragh Drive, Balbriggan, Co. Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+23/11/2018,"46 Moylaragh Walk, Balbriggan, County Dublin",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+26/11/2018,"1 Taylor Hill Walk, Naul Road, Balbriggan",Dublin,268722.0,Yes,Balbriggan,Co. Dublin,q4,90%
+27/11/2018,"12 Bremore Castle, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+27/11/2018,"30 Castleland Park Drive, Balbriggan",Dublin,277533.03,Yes,Balbriggan,Co. Dublin,q4,100%
+27/11/2018,"5 Moylaragh Grove, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+29/11/2018,"11 Taylors Hill Way, Balbriggan",Dublin,242300.0,Yes,Balbriggan,Co. Dublin,q4,90%
+30/11/2018,"12 Taylor Hill Crescent, Taylor Hill, Balbriggan",Dublin,345000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+30/11/2018,"12 Taylor Hill Way, Balbriggan",Dublin,251101.32,Yes,Balbriggan,Co. Dublin,q4,90%
+30/11/2018,"13  Castleland Park Drive, Balbriggan",Dublin,220264.0,Yes,Balbriggan,Co. Dublin,q3,80%
+30/11/2018,"16 Taylor Hill Crescent, Taylor Hill, Balbriggan",Dublin,345000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+30/11/2018,"19 Bremore Castle, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+30/11/2018,"7 Taylor Hill Crescent, Taylor Hill, Balbriggan",Dublin,345000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+30/11/2018,"8 Taylor Hill Crescent, Taylor Hill, Balbriggan",Dublin,345000.0,Yes,Balbriggan,Co. Dublin,q4,100%
+03/12/2018,"49 Bremore Pastures Crescent, Hamlet Lane, Balbriggan",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+05/12/2018,"37 Moylaragh Rd, Flemington Lane, Balbriggan",Dublin,276000.0,No,Balbriggan,Co. Dublin,q4,100%
+05/12/2018,"Apt 5, Belfield Court, Balbriggan",Dublin,80000.0,No,Balbriggan,Co. Dublin,q1,10%
+06/12/2018,"13 Taylor Hill Green, Balbriggan",Dublin,312775.0,Yes,Balbriggan,Co. Dublin,q4,100%
+06/12/2018,"31 Hamlet Square, Balbriggan, Co Dublin",Dublin,140000.0,No,Balbriggan,Co. Dublin,q2,30%
+06/12/2018,"5 Castleland Park Close, Balbriggan",Dublin,242290.0,Yes,Balbriggan,Co. Dublin,q4,90%
+06/12/2018,"8 Castleland Park, Balbriggan, Co Dublin",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+07/12/2018,"124 Brega, Hamlet Lane, Balbriggan",Dublin,169000.0,No,Balbriggan,Co. Dublin,q2,50%
+10/12/2018,"12 Moylaragh Grove, Balbriggan, Co Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+10/12/2018,"12 Moylaragh Grove, Balbriggan, Co Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+11/12/2018,"3 Chapel Grove, Chapelgate, Balbriggan",Dublin,200794.0,No,Balbriggan,Co. Dublin,q3,70%
+11/12/2018,"6 Castleland Close, Balbriggan, Co. Dublin",Dublin,243362.83,Yes,Balbriggan,Co. Dublin,q4,90%
+14/12/2018,"11 Taylor Hill Crescent, Naul Road, Balbriggan",Dublin,303964.0,Yes,Balbriggan,Co. Dublin,q4,100%
+14/12/2018,"Mornington, Seapoint, Balbriggan",Dublin,550000.0,No,Balbriggan,Co. Dublin,q4,100%
+17/12/2018,"14 Castleland Park Drive, Balbriggan",Dublin,239837.4,Yes,Balbriggan,Co. Dublin,q4,80%
+18/12/2018,"8A Hampton Street, Balbriggan, County Dublin",Dublin,87500.0,No,Balbriggan,Co. Dublin,q1,10%
+20/12/2018,"18 High St, Balbriggan, Dublin",Dublin,192000.0,No,Balbriggan,Co. Dublin,q3,60%
+20/12/2018,"33 Moylaragh Dr, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/12/2018,"4 Cardy Rock Close, Balbriggan, Dublin",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+20/12/2018,"Apt 2G, Harbour Mill, Balbriggan",Dublin,168000.0,No,Balbriggan,Co. Dublin,q2,50%
+20/12/2018,"Seapoint Rd, Balbriggan, Dublin",Dublin,445000.0,No,Balbriggan,Co. Dublin,q4,100%
+21/12/2018,"7 Moylaragh Gardens, Balbriggan, Dublin",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+04/01/2019,"27 Cardy Rock Ave, Cardy Rock, Balbriggan",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+07/01/2019,"13 Dun Saithne View, Flemington Lane, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+07/01/2019,"7 Mount Rochford Ave, Flemington Lane, Balbriggan",Dublin,246000.0,No,Balbriggan,Co. Dublin,q4,90%
+14/01/2019,"19 Castleland Park Close, Balbriggan",Dublin,255000.0,Yes,Balbriggan,Co. Dublin,q4,90%
+14/01/2019,"66 Rosepark, Balrothery, Balbriggan",Dublin,287000.0,No,Balbriggan,Co. Dublin,q4,100%
+15/01/2019,"106 Clonard Court, Balbriggan, Dublin",Dublin,176000.0,No,Balbriggan,Co. Dublin,q2,50%
+17/01/2019,"42 Castlemill, Balbriggan, Dublin",Dublin,126000.0,No,Balbriggan,Co. Dublin,q1,20%
+18/01/2019,"34 Moylaragh Ave, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+21/01/2019,"18 Martello Rd Martello Tower, Balbriggan, Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+21/01/2019,"30 Rosepark, Balrothery, Balbriggan",Dublin,310000.0,No,Balbriggan,Co. Dublin,q4,100%
+21/01/2019,"7 Moylaragh Close, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,50%
+22/01/2019,"10 Moylaragh Rise, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+23/01/2019,"17 Taylor Hill Walk, Balbriggan",Dublin,242300.0,Yes,Balbriggan,Co. Dublin,q4,90%
+23/01/2019,"22 Castleland Park Close, Balbriggan",Dublin,255500.0,Yes,Balbriggan,Co. Dublin,q4,90%
+23/01/2019,"Apt 2 Moylaragh Lodge, Balbriggan, Dublin",Dublin,164000.0,No,Balbriggan,Co. Dublin,q2,40%
+24/01/2019,"109 Pineridge, Balbriggan, Dublin",Dublin,229500.0,No,Balbriggan,Co. Dublin,q4,80%
+25/01/2019,"2 Chieftains Dr, Chieftains Way, Balbriggan",Dublin,253100.0,No,Balbriggan,Co. Dublin,q4,90%
+25/01/2019,"37 Hamlet Avenue, Chieftan'S Way, Balbriggan",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+29/01/2019,"1 Martello View, Balbriggan, Dublin",Dublin,189000.0,No,Balbriggan,Co. Dublin,q3,60%
+29/01/2019,"126B Hampton Cove, Balbriggan, Dublin",Dublin,400000.0,No,Balbriggan,Co. Dublin,q4,100%
+01/02/2019,"14 Chapel Court, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+06/02/2019,"2 Castleland Park Close, Balbriggan, County Dublin",Dublin,242290.75,Yes,Balbriggan,Co. Dublin,q4,90%
+08/02/2019,"20 Bremore Pastures Ave, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+08/02/2019,"20 Cardy Rock Ave, Cardy Rock View, Balbriggan",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+08/02/2019,"20 Newhaven Ave, Balbriggan, Dublin",Dublin,199950.0,No,Balbriggan,Co. Dublin,q3,70%
+08/02/2019,"6 Brackenwood Lane, Flemington, Balbriggan",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+12/02/2019,"22 Taylor Hill Walk, Naul Road, Balbriggan",Dublin,268722.0,Yes,Balbriggan,Co. Dublin,q4,90%
+13/02/2019,"8 Hastings Ave Hamlet Lane, Balbriggan, Dublin",Dublin,192000.0,No,Balbriggan,Co. Dublin,q3,60%
+18/02/2019,"23 Castleland Park Close, Balbriggan, Co Dublin",Dublin,255506.6,Yes,Balbriggan,Co. Dublin,q4,90%
+18/02/2019,"61 Clonard Court, Balbriggan, Dublin",Dublin,161000.0,No,Balbriggan,Co. Dublin,q2,40%
+20/02/2019,"13 Knightswood Park, Balrothery, Balbriggan",Dublin,397000.0,No,Balbriggan,Co. Dublin,q4,100%
+20/02/2019,"66 Fancourt Heights, Balbriggan, Dublin",Dublin,260000.0,No,Balbriggan,Co. Dublin,q4,90%
+21/02/2019,"17 The Chantries, Balrothery, Balbriggan",Dublin,535000.0,No,Balbriggan,Co. Dublin,q4,100%
+21/02/2019,"33 Hampton Gardens Drive, Balbriggan",Dublin,246700.0,Yes,Balbriggan,Co. Dublin,q4,90%
+21/02/2019,"53 Hampton Green, Balbriggan, Dublin",Dublin,192000.0,No,Balbriggan,Co. Dublin,q3,60%
+25/02/2019,"Apt 3, Martello Lodge, Balbriggan",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+26/02/2019,"18 Hampton Gardens Drive, Balbriggan, County Dublin",Dublin,246651.98,Yes,Balbriggan,Co. Dublin,q4,90%
+28/02/2019,"119 Castleland Court, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+01/03/2019,"52 Clonard Court, Balbriggan, Co Dublin",Dublin,206000.0,No,Balbriggan,Co. Dublin,q3,70%
+04/03/2019,"16 Clonuske Park, Hamlet Lane, Balbriggan",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+04/03/2019,"Barnageeragh House, Barnageeragh, Balbriggan",Dublin,643000.0,No,Balbriggan,Co. Dublin,q4,100%
+07/03/2019,"11 Castleland Park Way, Balbriggan, Dublin",Dublin,275000.0,No,Balbriggan,Co. Dublin,q4,100%
+08/03/2019,"12 Taylor Hill Green, Naul Road, Balbriggan",Dublin,348017.62,Yes,Balbriggan,Co. Dublin,q4,100%
+08/03/2019,"15 St Peters Terrace, Hampton St, Balbriggan",Dublin,258000.0,No,Balbriggan,Co. Dublin,q4,90%
+08/03/2019,"2 Castlekeep, Balrothery, Balbriggan",Dublin,212500.0,No,Balbriggan,Co. Dublin,q3,70%
+08/03/2019,"46 Brackenwood Ave, Flemington, Balbriggan",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+08/03/2019,"78 Ashfield Rise, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+08/03/2019,"Apt 4 Eleven Arches Georges Hill, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+08/03/2019,"Fassagh, Hamlet Close, Balbriggan",Dublin,465000.0,No,Balbriggan,Co. Dublin,q4,100%
+11/03/2019,"9 Castleland Park Close, Balbriggan, County Dublin",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+14/03/2019,"21 Hampton St, Balbriggan, Dublin",Dublin,237500.0,No,Balbriggan,Co. Dublin,q4,80%
+19/03/2019,"13 Westbrook Dr, Balbriggan, Dublin",Dublin,255000.0,No,Balbriggan,Co. Dublin,q4,90%
+19/03/2019,"19 Quay St, Balbriggan, Dublin",Dublin,160500.0,No,Balbriggan,Co. Dublin,q2,40%
+20/03/2019,"7 Castleland Park, Balbriggan, Co. Dublin",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+21/03/2019,"22 Hampton St, Balbriggan, Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+22/03/2019,"12 Taylor Hill View, Balbriggan",Dublin,317200.0,Yes,Balbriggan,Co. Dublin,q4,100%
+22/03/2019,"57 Drogheda St, Balbriggan, Dublin",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+22/03/2019,"8 Taylor Hill View, Balbriggan",Dublin,317200.0,Yes,Balbriggan,Co. Dublin,q4,100%
+22/03/2019,"9 Taylor Hill View, Balbriggan",Dublin,317200.0,Yes,Balbriggan,Co. Dublin,q4,100%
+25/03/2019,"3 Hampton Ct, Balbriggan, Dublin",Dublin,177000.0,No,Balbriggan,Co. Dublin,q2,50%
+25/03/2019,"4 Castleland Park Close, Balbriggan",Dublin,242290.0,Yes,Balbriggan,Co. Dublin,q4,90%
+26/03/2019,"4 Taylor Hill  View, Naul Road, Balbriggan",Dublin,270925.0,Yes,Balbriggan,Co. Dublin,q4,100%
+27/03/2019,"13  Taylor Hill View, Naul Road, Balbriggan",Dublin,270925.0,Yes,Balbriggan,Co. Dublin,q4,100%
+28/03/2019,"Apt 3, The Stable Yard, Balbriggan St",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+29/03/2019,"1 Taylor Hill View, Balbriggan",Dublin,273127.75,Yes,Balbriggan,Co. Dublin,q4,100%
+01/04/2019,"31 Castleland Court, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+01/04/2019,"33 Bremore Court, Balbriggan, Dublin",Dublin,162067.0,No,Balbriggan,Co. Dublin,q2,40%
+02/04/2019,"11 Ashfield Close, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+02/04/2019,"16 Taylor Hill View, Balbriggan",Dublin,268800.0,Yes,Balbriggan,Co. Dublin,q4,90%
+02/04/2019,"67 Brackenwood Ave, Balbriggan, Dublin",Dublin,110000.0,No,Balbriggan,Co. Dublin,q1,20%
+04/04/2019,"17 Moylaragh Park, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+04/04/2019,"9 Taylor Hill Green, Balbriggan, Co. Dublin",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+08/04/2019,"95 Chapel Gate, Balbriggan, Dublin",Dublin,240000.0,No,Balbriggan,Co. Dublin,q4,80%
+09/04/2019,"6 Castleland Court, Balbriggan, Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+10/04/2019,"2 Taylor Hill View, Taylor Hill, Balbriggan",Dublin,270925.11,Yes,Balbriggan,Co. Dublin,q4,100%
+11/04/2019,"50 Brackenwood Dr, Balbriggan, Dublin",Dublin,169000.0,No,Balbriggan,Co. Dublin,q2,50%
+11/04/2019,"8 Chieftans Close, Balbriggan, Co Dublin",Dublin,175000.0,No,Balbriggan,Co. Dublin,q2,50%
+12/04/2019,"102 Castleland Court, Balbriggan, Dublin",Dublin,340000.0,No,Balbriggan,Co. Dublin,q4,100%
+12/04/2019,"5 Martello View, Martello Tower, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+12/04/2019,"51 Clonard Street, Balbriggan, Co Dublin",Dublin,290000.0,No,Balbriggan,Co. Dublin,q4,100%
+12/04/2019,"64 Brackenwood Avenue, Balbriggan, Co Dublin",Dublin,167500.0,No,Balbriggan,Co. Dublin,q2,50%
+15/04/2019,"50 Tara Court, Balbriggan, Dublin",Dublin,255000.0,No,Balbriggan,Co. Dublin,q4,90%
+16/04/2019,"8A Hampton Street, Balbriggan, County Dublin",Dublin,46379.08,No,Balbriggan,Co. Dublin,q1,10%
+16/04/2019,"8A Hampton Street, Balbriggan, County Dublin",Dublin,92758.17,No,Balbriggan,Co. Dublin,q1,10%
+16/04/2019,"8B Hampton Street, Balbriggan, County Dublin",Dublin,92758.16,No,Balbriggan,Co. Dublin,q1,10%
+17/04/2019,"4 New Market Green, Balbriggan, Dublin",Dublin,300000.0,No,Balbriggan,Co. Dublin,q4,100%
+17/04/2019,"41 Castleland Park Way, Balbriggan",Dublin,259912.0,Yes,Balbriggan,Co. Dublin,q4,90%
+17/04/2019,"47 Clonard St, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+17/04/2019,"7 The Chantries, Balrothery, Balbriggan",Dublin,520000.0,No,Balbriggan,Co. Dublin,q4,100%
+18/04/2019,"11 Cornmill Apts, Balbriggan, Co Dublin",Dublin,174000.0,No,Balbriggan,Co. Dublin,q2,50%
+18/04/2019,"18 Brecan Close, Balbriggan, Dublin",Dublin,142000.0,No,Balbriggan,Co. Dublin,q2,30%
+18/04/2019,"49 Chieftains Court, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+26/04/2019,"29 Flemington Park, Balbriggan, Dublin",Dublin,285000.0,No,Balbriggan,Co. Dublin,q4,100%
+29/04/2019,"22 Chapel St, Balbriggan, Dublin",Dublin,218000.0,No,Balbriggan,Co. Dublin,q3,80%
+29/04/2019,"82 Derham Park, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+30/04/2019,"14 Taylor Hill View, Nual Road, Balbriggan",Dublin,270925.11,Yes,Balbriggan,Co. Dublin,q4,100%
+30/04/2019,"5 Taylor Hill View, Balbriggan",Dublin,312800.0,Yes,Balbriggan,Co. Dublin,q4,100%
+01/05/2019,"26 Hastings Green, Balbriggan, Dublin",Dublin,213000.0,No,Balbriggan,Co. Dublin,q3,70%
+02/05/2019,"49 Hampton St, Balbriggan, Dublin",Dublin,270000.0,No,Balbriggan,Co. Dublin,q4,100%
+02/05/2019,"7 Taylor Hill Green, Balbriggan",Dublin,299600.0,Yes,Balbriggan,Co. Dublin,q4,100%
+03/05/2019,"32 Castleland Park Way, Balbriggan, Co Dublin",Dublin,255500.0,Yes,Balbriggan,Co. Dublin,q4,90%
+07/05/2019,"27 Barons Hall Park, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+07/05/2019,"71 Castlelandpark View, Balbriggan, Dublin",Dublin,260000.0,No,Balbriggan,Co. Dublin,q4,90%
+10/05/2019,"11 Taylor Hill View, Naul Road, Balbriggan",Dublin,312775.0,Yes,Balbriggan,Co. Dublin,q4,100%
+14/05/2019,"23 Georges Hill, Balbriggan, Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+14/05/2019,"40 Castleland Park Way, Balbriggan",Dublin,259911.89,Yes,Balbriggan,Co. Dublin,q4,90%
+14/05/2019,"60 Barons Hall Park, Balbriggan, Country",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+15/05/2019,"6 Cardy Rock Rd, Balbriggan, Dublin",Dublin,199950.0,No,Balbriggan,Co. Dublin,q3,70%
+20/05/2019,"24 Temple Ville, Balbriggan, Dublin",Dublin,245000.0,No,Balbriggan,Co. Dublin,q4,90%
+21/05/2019,"47 Trimelstown, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+23/05/2019,"36 The Rise, Barons Hall, Balbriggan",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+23/05/2019,"4 Martello Rd Martello Tower, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+24/05/2019,"15 Gibbons Terrace, Balbriggan, Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+24/05/2019,"5 Moylaragh Gardens, Balbriggan, Dublin",Dublin,185500.0,No,Balbriggan,Co. Dublin,q3,60%
+24/05/2019,"74 Castleland Court, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+24/05/2019,"86 Moylaragh Crescent, Balbriggan, Dublin",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+27/05/2019,"7 Bremore Pastures Park, Hamlet Lane, Balbriggan",Dublin,196000.0,No,Balbriggan,Co. Dublin,q3,60%
+28/05/2019,"52 Clonuske Dr, Balbriggan, Dublin",Dublin,218000.0,No,Balbriggan,Co. Dublin,q3,80%
+29/05/2019,"12 Bremore Pastures Way, Balbriggan, Dublin",Dublin,155000.0,No,Balbriggan,Co. Dublin,q2,40%
+29/05/2019,"26 Bremore Pastures Park, Hamlet Lane, Balbriggan",Dublin,210700.0,No,Balbriggan,Co. Dublin,q3,70%
+29/05/2019,"30 Bremore Pastures Way, Hamlet Lane, Balbriggan",Dublin,196000.0,No,Balbriggan,Co. Dublin,q3,60%
+29/05/2019,"40 Bremore Pastures Park, Hamlet Lane, Balbriggan",Dublin,166600.0,No,Balbriggan,Co. Dublin,q2,50%
+29/05/2019,"58 Bremore Pastures Way, Hamlet Lane, Balbriggan",Dublin,196000.0,No,Balbriggan,Co. Dublin,q3,60%
+31/05/2019,"21 Castlepark, Balbriggan, County Dublin",Dublin,259911.0,Yes,Balbriggan,Co. Dublin,q4,90%
+31/05/2019,"3 Linnen Hall, Georges Hill, Balbriggan",Dublin,100000.0,No,Balbriggan,Co. Dublin,q1,20%
+31/05/2019,"5 Mcneill Hall, Georges Hill, Balbriggan",Dublin,115000.0,No,Balbriggan,Co. Dublin,q1,20%
+31/05/2019,"9 Taylor Hill Wood, Naul Road, Balbriggan",Dublin,330396.0,Yes,Balbriggan,Co. Dublin,q4,100%
+03/06/2019,"Blackhall House, Blackhall, Balbriggan",Dublin,794725.0,No,Balbriggan,Co. Dublin,q4,100%
+06/06/2019,"27 Balruddery Wood, Balrothery, Balbriggan",Dublin,225000.0,No,Balbriggan,Co. Dublin,q3,80%
+07/06/2019,"15 Taylor Hill View, Balbriggan",Dublin,270900.0,Yes,Balbriggan,Co. Dublin,q4,100%
+07/06/2019,"31 Hampton Green, Balbriggan, Co Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+10/06/2019,"11 Chapel Close, Balbriggan, Dublin",Dublin,237000.0,No,Balbriggan,Co. Dublin,q4,80%
+11/06/2019,"1 Castleland Park Close, Balbriggan",Dublin,273128.0,Yes,Balbriggan,Co. Dublin,q4,100%
+11/06/2019,"2 Martello Walk, Flemington Lane, Balbriggan",Dublin,172000.0,No,Balbriggan,Co. Dublin,q2,50%
+11/06/2019,"Apt 2, Bellfield Court, Balbriggan",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+14/06/2019,"14 Moylaragh Mews, Balbriggan, Dublin",Dublin,162500.0,No,Balbriggan,Co. Dublin,q2,40%
+14/06/2019,"43 Castleland Parkway, Balbriggan",Dublin,255175.0,Yes,Balbriggan,Co. Dublin,q4,90%
+14/06/2019,"88 Chapel Gate, Balbriggan, Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+17/06/2019,"6 Old Coach Rd, Balrothery, Balbriggan",Dublin,186000.0,No,Balbriggan,Co. Dublin,q3,60%
+18/06/2019,"11 Castleland Park Close, Balbriggan",Dublin,246696.0,Yes,Balbriggan,Co. Dublin,q4,90%
+20/06/2019,"23 Hamlet Sq, Flemington, Balbriggan",Dublin,215000.0,No,Balbriggan,Co. Dublin,q3,70%
+20/06/2019,"61 Castleland Park Way, Balbriggan",Dublin,251101.0,Yes,Balbriggan,Co. Dublin,q4,90%
+21/06/2019,"10 Taylor Hill View, Naul Road, Balbriggan",Dublin,317181.0,Yes,Balbriggan,Co. Dublin,q4,100%
+24/06/2019,"30 Ardgillen Lawn, Balbriggan, Dublin",Dublin,340000.0,No,Balbriggan,Co. Dublin,q4,100%
+25/06/2019,"33 Castleland Park Way, Balbriggan",Dublin,255506.0,Yes,Balbriggan,Co. Dublin,q4,90%
+25/06/2019,"51 Bremore Pastures Park, Balbriggan, Dublin",Dublin,198000.0,No,Balbriggan,Co. Dublin,q3,60%
+25/06/2019,"7 Taylor Hill Wood, Naul Road, Balbriggan",Dublin,312775.0,Yes,Balbriggan,Co. Dublin,q4,100%
+25/06/2019,"8 Bremore Court, Balbriggan, Co. Dublin",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+25/06/2019,"9 Newhaven Ave, Balbriggan, Dublin",Dublin,188000.0,No,Balbriggan,Co. Dublin,q3,60%
+26/06/2019,"42 Castleland Park Way, Balbriggan",Dublin,251101.0,Yes,Balbriggan,Co. Dublin,q4,90%
+27/06/2019,"10 Taylor Hill Green, Naul Road, Balbriggan",Dublin,233480.18,Yes,Balbriggan,Co. Dublin,q4,80%
+27/06/2019,"20 Martello Rd, Martello Tower, Balbriggan",Dublin,225000.0,No,Balbriggan,Co. Dublin,q4,80%
+27/06/2019,"28 Brecan Close, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,50%
+27/06/2019,"58 Castleland Way, Balbriggan",Dublin,251100.0,Yes,Balbriggan,Co. Dublin,q4,90%
+28/06/2019,"27 Hastings Green, Balbriggan, Dublin",Dublin,223000.0,No,Balbriggan,Co. Dublin,q3,80%
+03/07/2019,"44 Hamlet Sq, Chieftains Way, Balbriggan",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+03/07/2019,"61 Castleland Court, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+03/07/2019,"93 Craoibhin Park, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+03/07/2019,"Unit 11, Hampton Gardens, Balbriggan",Dublin,242000.0,No,Balbriggan,Co. Dublin,q4,90%
+05/07/2019,"57 Rosepark, Balrothery, Balbriggan",Dublin,270000.0,No,Balbriggan,Co. Dublin,q4,100%
+05/07/2019,"6 Taylor Hill View, Balbriggan",Dublin,317200.0,Yes,Balbriggan,Co. Dublin,q4,100%
+10/07/2019,"42 Castleland Court, Balbriggan, Dublin",Dublin,270000.0,No,Balbriggan,Co. Dublin,q4,100%
+10/07/2019,"46 Castleland Park Way, Balbriggan",Dublin,259911.89,Yes,Balbriggan,Co. Dublin,q4,90%
+10/07/2019,"97 Drogheda St, Balbriggan, Dublin",Dublin,166000.0,No,Balbriggan,Co. Dublin,q2,50%
+11/07/2019,"9 Mount Rochford Ave, Balbriggan, Dublin",Dublin,260000.0,No,Balbriggan,Co. Dublin,q4,90%
+15/07/2019,"Apt 1 Cardyrock Drive, Balbriggan, Co Dublin",Dublin,171000.0,No,Balbriggan,Co. Dublin,q2,50%
+15/07/2019,"St Andrews, Inch, Balbriggan",Dublin,770000.0,No,Balbriggan,Co. Dublin,q4,100%
+16/07/2019,"15 Balruddery Grove, Balrothery, Balbriggan",Dublin,221000.0,No,Balbriggan,Co. Dublin,q3,80%
+16/07/2019,"28 Chieftains Dr, Chieftains Way, Balbriggan",Dublin,255000.0,No,Balbriggan,Co. Dublin,q4,90%
+17/07/2019,"16 Craoibhin Park, Balbriggan, Dublin",Dublin,240000.0,No,Balbriggan,Co. Dublin,q4,80%
+17/07/2019,"91 Craoibhinn Park, Balbriggan, Dublin",Dublin,248000.0,No,Balbriggan,Co. Dublin,q4,90%
+18/07/2019,"110 Hampton Green, Balbriggan, Dublin",Dublin,219500.0,No,Balbriggan,Co. Dublin,q3,80%
+18/07/2019,"21 Bracken Close, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+18/07/2019,"63 Brackenwood Avenue, Balbriggan, Co Dublin",Dublin,93751.0,No,Balbriggan,Co. Dublin,q1,10%
+25/07/2019,"23 Castlelands, Balbriggan, Dublin",Dublin,400000.0,No,Balbriggan,Co. Dublin,q4,100%
+25/07/2019,"7 Taylor Hill View, Naul Road, Balbriggan",Dublin,317180.62,Yes,Balbriggan,Co. Dublin,q4,100%
+26/07/2019,"3 New Haven Court, Balbriggan, County Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+26/07/2019,"35 Moylaragh Rd, Balbriggan, Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+26/07/2019,"4 Westbrook Park, Naul Rd, Balbriggan",Dublin,275000.0,No,Balbriggan,Co. Dublin,q4,100%
+26/07/2019,"59 Dun Saithne Crescent, Flemington Lane, Balbriggan",Dublin,225000.0,No,Balbriggan,Co. Dublin,q4,80%
+26/07/2019,"Kane'S Meadow, Tubbersool, Balbriggan",Dublin,475000.0,No,Balbriggan,Co. Dublin,q4,100%
+29/07/2019,"21 Cardy Rock Ave, Balbriggan, Dublin",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+29/07/2019,"82 Newhaven Bay, Flemington Lane, Balbriggan",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+30/07/2019,"47 Castleland Park Way, Balbriggan, Co. Dublin",Dublin,259911.0,Yes,Balbriggan,Co. Dublin,q4,90%
+30/07/2019,"Apt 9 The Laurles, Quayside, Balbriggan",Dublin,185000.0,No,Balbriggan,Co. Dublin,q3,60%
+31/07/2019,"34 Castleland Park Way, Balbriggan",Dublin,250850.0,Yes,Balbriggan,Co. Dublin,q4,90%
+01/08/2019,"12 Moylaragh Way, Balbriggan, Dublin",Dublin,244000.0,No,Balbriggan,Co. Dublin,q4,90%
+01/08/2019,"60 Castleland Park Way, Balbriggan, County Dublin",Dublin,251101.32,Yes,Balbriggan,Co. Dublin,q4,90%
+01/08/2019,"66 Barons Hall Park, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+01/08/2019,"7 Westbrook Ave, Balbriggan, Dublin",Dublin,250000.0,No,Balbriggan,Co. Dublin,q4,90%
+02/08/2019,"25 Cornmill Apartments, Balbriggan, Co.Dublin",Dublin,187000.0,No,Balbriggan,Co. Dublin,q3,60%
+02/08/2019,"26 Clonard Court, Balbriggan, Dublin",Dublin,170000.0,No,Balbriggan,Co. Dublin,q2,50%
+06/08/2019,"24 Moylaragh Drive, Balbriggan, Co Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+06/08/2019,"5 Brackenwood Place, Balbriggan, Dublin",Dublin,135000.0,No,Balbriggan,Co. Dublin,q1,30%
+06/08/2019,"87 Clonard Ct, Balbriggan, Dublin",Dublin,203000.0,No,Balbriggan,Co. Dublin,q3,70%
+08/08/2019,"43 Bremore Castle, Balbriggan, Dublin",Dublin,226000.0,No,Balbriggan,Co. Dublin,q4,80%
+09/08/2019,"22 Moylaragh Lane, Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+09/08/2019,"32 Brackenwood Drive, Balbriggan, Co Dublin",Dublin,157000.0,No,Balbriggan,Co. Dublin,q2,40%
+09/08/2019,"57 Chapel Gate, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+13/08/2019,"3 Chieftains Crescent, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+14/08/2019,"119 Bremore Castle, Hamlet Lane, Balbriggan",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+14/08/2019,"35 Brecan Close, Balbriggan, Dublin",Dublin,145000.0,No,Balbriggan,Co. Dublin,q2,30%
+16/08/2019,"16 Brackenwood Dr, Balbriggan, Dublin",Dublin,182000.0,No,Balbriggan,Co. Dublin,q3,60%
+20/08/2019,"39 The Chantries, Balbriggan, Dublin",Dublin,445000.0,No,Balbriggan,Co. Dublin,q4,100%
+21/08/2019,"55 Brecan Close, Balbriggan, Dublin",Dublin,139000.0,No,Balbriggan,Co. Dublin,q2,30%
+22/08/2019,"20 Taylor Hill Walk, Naul Road, Balbriggan",Dublin,348018.0,Yes,Balbriggan,Co. Dublin,q4,100%
+22/08/2019,"37 Barnwall Court, Balbriggan, Dublin",Dublin,199000.0,No,Balbriggan,Co. Dublin,q3,60%
+22/08/2019,"Darcystown, Balrothery, Balbriggan",Dublin,495000.0,No,Balbriggan,Co. Dublin,q4,100%
+23/08/2019,"75 Castle Mill, Hamlet Lane, Balbriggan",Dublin,177000.0,No,Balbriggan,Co. Dublin,q2,50%
+26/08/2019,"9 Derham Park, Balbriggan, Co Dublin",Dublin,195000.0,No,Balbriggan,Co. Dublin,q3,60%
+27/08/2019,"13 Mount Rochford Ave, Flemington Lane, Balbriggan",Dublin,207000.0,No,Balbriggan,Co. Dublin,q3,70%
+28/08/2019,"Bedford House, Church Street, Balbriggan",Dublin,1850000.0,No,Balbriggan,Co. Dublin,q4,100%
+29/08/2019,"25 Hampton Woods, Balbriggan, Dublin",Dublin,269000.0,No,Balbriggan,Co. Dublin,q4,90%
+29/08/2019,"39 Clonard St, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+29/08/2019,"51 Clonuske Dr, Hamlet Lane, Balbriggan",Dublin,235000.0,No,Balbriggan,Co. Dublin,q4,80%
+30/08/2019,"1 Taylor Hill Wood, Naul Road, Balbriggan",Dublin,317180.62,Yes,Balbriggan,Co. Dublin,q4,100%
+30/08/2019,"37 Castleisland Park Way, Balbriggan",Dublin,255506.6,Yes,Balbriggan,Co. Dublin,q4,90%
+03/09/2019,"14 Hamlet Avenue, Balbriggan, County Dublin",Dublin,167000.0,No,Balbriggan,Co. Dublin,q2,50%
+03/09/2019,"8 Taylor Hill Green, Naul Road, Balbriggan",Dublin,265748.9,Yes,Balbriggan,Co. Dublin,q4,90%
+03/09/2019,"90 Fancourt Heights, Balbriggan, Dublin",Dublin,240000.0,No,Balbriggan,Co. Dublin,q4,90%
+04/09/2019,"56 Hampton Green, Balbriggan, Dublin",Dublin,181000.0,No,Balbriggan,Co. Dublin,q3,60%
+05/09/2019,"11 Taylors Hill Wood, Naul Road, Balbriggan",Dublin,312775.0,Yes,Balbriggan,Co. Dublin,q4,100%
+05/09/2019,"5 Hamlet Lane House, Balbriggan, Co Dublin",Dublin,159000.0,No,Balbriggan,Co. Dublin,q2,40%
+06/09/2019,"45 Castleland Park Way, Balbriggan, Co. Dublin",Dublin,259911.89,Yes,Balbriggan,Co. Dublin,q4,90%
+06/09/2019,"5 Taylor Hill  Wood, Balbriggan",Dublin,312800.0,Yes,Balbriggan,Co. Dublin,q4,100%
+09/09/2019,"11 Castleland Park Drive, Balbriggan",Dublin,317180.62,Yes,Balbriggan,Co. Dublin,q4,100%
+11/09/2019,"112 Fancourt Heights, Balbriggan, Dublin",Dublin,307000.0,No,Balbriggan,Co. Dublin,q4,100%
+12/09/2019,"44 Castleland Park Way, Balbriggan",Dublin,259912.0,Yes,Balbriggan,Co. Dublin,q4,90%
+12/09/2019,"6 Mount Rochford Rise, Balbriggan, Dublin",Dublin,150111.0,No,Balbriggan,Co. Dublin,q2,40%
+13/09/2019,"29 Templeville, Balbriggan, Co Dublin",Dublin,232500.0,No,Balbriggan,Co. Dublin,q4,80%
+16/09/2019,"17 Castlelands, Balbriggan, Dublin",Dublin,376500.0,No,Balbriggan,Co. Dublin,q4,100%
+17/09/2019,"22 Brackenwood Drive, Balbriggan, Co. Dublin",Dublin,150000.0,No,Balbriggan,Co. Dublin,q2,40%
+17/09/2019,"Apt 10 The Laurels Harbour, Balbriggan, Dublin",Dublin,186500.0,No,Balbriggan,Co. Dublin,q3,60%
+18/09/2019,"12 Castleland Court, Balbriggan, Dublin",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,50%
+18/09/2019,"Tamlet, Man O War, Balbriggan",Dublin,302000.0,No,Balbriggan,Co. Dublin,q4,100%
+20/09/2019,"3 Taylor Hill Wood, Balbriggan",Dublin,317180.62,Yes,Balbriggan,Co. Dublin,q4,100%
+20/09/2019,"42 Hampton Woods, Balbriggan, Dublin",Dublin,230000.0,No,Balbriggan,Co. Dublin,q4,80%
+23/09/2019,"33 Dunsaithne View, Flemington Lane, Balbriggan",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%
+24/09/2019,"20 Castleland Park Way, Balbriggan, Dublin",Dublin,300000.0,No,Balbriggan,Co. Dublin,q4,100%
+24/09/2019,"3 Moylaragh Manor, Moylaragh, Balbriggan",Dublin,165000.0,No,Balbriggan,Co. Dublin,q2,50%
+24/09/2019,"7 Cornmill, Vauxhall St, Balbriggan",Dublin,190000.0,No,Balbriggan,Co. Dublin,q3,60%
+25/09/2019,"57 Moylaragh Dr, Balbriggan, Dublin",Dublin,210000.0,No,Balbriggan,Co. Dublin,q3,70%
+26/09/2019,"135 Newhaven Bay, Flemington Lane, Balbriggan",Dublin,212500.0,No,Balbriggan,Co. Dublin,q3,70%
+26/09/2019,"3 Moyrlaragh House, Balbriggan, Dublin",Dublin,160000.0,No,Balbriggan,Co. Dublin,q2,40%
+26/09/2019,"69 Barons Hall, Grove Balbriggan, Dublin",Dublin,220000.0,No,Balbriggan,Co. Dublin,q3,80%
+27/09/2019,"16 Hamlet Ave, Flemington, Balbriggan",Dublin,233000.0,No,Balbriggan,Co. Dublin,q4,80%
+27/09/2019,"35 Castleland Park Way, Balbriggan",Dublin,255506.0,Yes,Balbriggan,Co. Dublin,q4,90%
+30/09/2019,"43 Westbrook Dr, Balbriggan, Dublin",Dublin,280000.0,No,Balbriggan,Co. Dublin,q4,100%
+03/10/2019,"10 Ardgillen Rd, Balrothery, Balbriggan",Dublin,450000.0,No,Balbriggan,Co. Dublin,q4,100%
+04/10/2019,"55 Castleland Park Way, Balbriggan, Co. Dublin.",Dublin,273127.76,Yes,Balbriggan,Co. Dublin,q4,100%
+04/10/2019,"79 Hampton St, Balbriggan, Dublin",Dublin,130000.0,No,Balbriggan,Co. Dublin,q1,30%
+07/10/2019,"1 Hampton Court, Balbriggan, Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+08/10/2019,"20 Cardy Rock View, Balbriggan, Co Dublin",Dublin,200000.0,No,Balbriggan,Co. Dublin,q3,70%
+08/10/2019,"30 Balruddery Wood, Balrothery, Balbriggan",Dublin,307000.0,No,Balbriggan,Co. Dublin,q4,100%
+09/10/2019,"129 Clonard Court, Balbriggan, Dublin",Dublin,205000.0,No,Balbriggan,Co. Dublin,q3,70%
+10/10/2019,"21 Castleland Park Avenue, Balbriggan, Dublin",Dublin,280000.0,No,Balbriggan,Co. Dublin,q4,100%
+10/10/2019,"Seapoint Lane, Balbriggan, Co Dublin",Dublin,540000.0,No,Balbriggan,Co. Dublin,q4,100%
+11/10/2019,"39 Castleland Park Way, Balbriggan",Dublin,255506.0,Yes,Balbriggan,Co. Dublin,q4,90%
+11/10/2019,"56 Castleland Park Way, Balbriggan, Co. Dublin",Dublin,251101.0,Yes,Balbriggan,Co. Dublin,q4,90%
+15/10/2019,"35 Hampton Woods, Balbriggan, Dublin",Dublin,254000.0,No,Balbriggan,Co. Dublin,q4,90%
+18/10/2019,"46 Chieftains Rd, Chieftains Way, Balbriggan",Dublin,218000.0,No,Balbriggan,Co. Dublin,q3,80%
+18/10/2019,"59 Castleland Park Way, Balbriggan, County Dublin",Dublin,251101.32,Yes,Balbriggan,Co. Dublin,q4,90%
+21/10/2019,"9 Brecan Close, Balbriggan, Dublin",Dublin,180000.0,No,Balbriggan,Co. Dublin,q2,50%

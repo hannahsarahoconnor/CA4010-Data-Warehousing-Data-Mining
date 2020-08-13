@@ -1,0 +1,83 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+05/05/2012,"156 The Academy Building, Park West Pointe, Gallanstown",Dublin,77000.0,No,Park West,Dublin 12,q1,10%
+29/06/2012,"107 The Crescent Building, Park West Pointe, Gallanstown",Dublin,69000.0,No,Park West,Dublin 12,q1,10%
+25/10/2012,"Apartment 8, The Concert Building, Park West Point",Dublin,90000.0,No,Park West,Dublin 12,q1,10%
+27/11/2012,"219 The Crescent Building, Park West Pointe, Dublin 12",Dublin,105000.0,No,Park West,Dublin 12,q1,10%
+24/04/2013,"200The Crescent Building, Park West Pointe, Dublin 12",Dublin,90000.0,No,Park West,Dublin 12,q1,10%
+20/06/2013,"109 The Crescent Building, Park West Point, Gallanstown  Ballyfermot",Dublin,68500.0,No,Park West,Dublin 12,q1,10%
+06/09/2013,"116 The Crescent, Park West Pointe, Park West",Dublin,122000.0,No,Park West,Dublin 12,q1,20%
+22/10/2013,"175 The Crescent Building, Park West Pointe, Park West  Dublin 1",Dublin,90000.0,No,Park West,Dublin 12,q1,10%
+18/12/2013,"170 The Academy, Park West Pointe, Dublin 22",Dublin,111000.0,No,Park West,Dublin 12,q1,20%
+16/01/2014,"19 The Crescent Building, Park West, Dublin 12",Dublin,163000.0,No,Park West,Dublin 12,q2,40%
+20/05/2014,"211 Crescent Building, Park West Pointe",Dublin,171000.0,No,Park West,Dublin 12,q2,40%
+22/05/2014,"209 The Crescent Apts, Park West Point, Dublin 12",Dublin,139000.0,No,Park West,Dublin 12,q1,30%
+27/05/2014,"81 The Academy Building, Park West Pointe, Nangor Rd Dublin 12",Dublin,95000.0,No,Park West,Dublin 12,q1,10%
+20/06/2014,"169 The Cresent, Park West Point, Dublin 12",Dublin,125000.0,No,Park West,Dublin 12,q1,20%
+20/08/2014,"159 The Crescent, Park West Pointe, Yeats Way Dublin 12",Dublin,195000.0,No,Park West,Dublin 12,q3,60%
+05/09/2014,"Unit No 113 The Crescent Building, Park West Pointe, Gallanstown",Dublin,140000.0,No,Park West,Dublin 12,q1,30%
+22/12/2014,"111 The Cresent, Park West Pointe Dublin 12",Dublin,128239.0,No,Park West,Dublin 12,q1,20%
+22/12/2014,"185 The Crescent, Park West Pointe, Yeats Way Dublin 12",Dublin,123659.0,No,Park West,Dublin 12,q1,20%
+22/12/2014,"96 The Academy, Park West, Dublin 12",Dublin,128239.0,No,Park West,Dublin 12,q1,20%
+08/04/2015,"166 The Academy Building, Park West Pointe, Yeats Way Dublin 12",Dublin,160000.0,No,Park West,Dublin 12,q2,30%
+14/04/2015,"48 The Academy, Park West Pointe, Dublin 12",Dublin,180000.0,No,Park West,Dublin 12,q2,50%
+21/04/2015,"Apt 4, Clarinda Close, Clarinda Park West",Dublin,355000.0,No,Park West,Dublin 12,q4,100%
+08/05/2015,"209 The Crescent Apts, Park West Point, Dublin 12",Dublin,205000.0,No,Park West,Dublin 12,q3,60%
+03/07/2015,"1 Clarinda Court, Clarinda Park West, Dun Laoighre",Dublin,337000.0,No,Park West,Dublin 12,q4,100%
+10/09/2015,"22 The Academy, Park West Pointe, Parkwest Dublin 22",Dublin,90000.0,No,Park West,Dublin 12,q1,10%
+14/10/2015,"210 The Crescent, Park West Pointe, Yeats Way Dublin 12",Dublin,171000.0,No,Park West,Dublin 12,q2,40%
+20/11/2015,"9 The Crescent, Park West Pointe, Yeats Way Dublin 12",Dublin,145000.0,No,Park West,Dublin 12,q1,30%
+10/12/2015,"Apt 5, Clarinda Park House, Clarinda Park West",Dublin,250000.0,No,Park West,Dublin 12,q4,100%
+05/01/2016,"167 The Crescent, Park West Point, Gallanstown",Dublin,130000.0,No,Park West,Dublin 12,q1,20%
+05/04/2016,"53 The Crescent, Park West, Dublin",Dublin,178000.0,No,Park West,Dublin 12,q2,50%
+17/06/2016,"163 The Crescent, Park West Pointe, Yeats Way",Dublin,135000.0,No,Park West,Dublin 12,q1,20%
+24/06/2016,"Apt 157 The Crescent Building, Park West Pointe, Dublin 12",Dublin,216000.0,No,Park West,Dublin 12,q3,80%
+12/07/2016,"Apt 80 The Academy Pointe, Park West Dublin 12, Dublin",Dublin,179000.0,No,Park West,Dublin 12,q2,50%
+26/08/2016,"226 The Academy, Park West, Dublin 24",Dublin,175000.0,No,Park West,Dublin 12,q2,50%
+30/08/2016,"110 The Academy Park West Pointe, Park West, Dublin",Dublin,217000.0,No,Park West,Dublin 12,q4,80%
+27/10/2016,"Apt 3, The Crescent, Park West Pointe Dublin 12",Dublin,178000.0,No,Park West,Dublin 12,q2,50%
+03/02/2017,"114 The Crescent Building, Park West Pointe, Dublin 12",Dublin,160000.0,No,Park West,Dublin 12,q2,30%
+20/02/2017,"82 The Crescent, Park West Pointe, Yeats Way Dublin 12",Dublin,140000.0,No,Park West,Dublin 12,q1,30%
+08/03/2017,"213 The Crescent, Park West Pointe, Park West",Dublin,177000.0,No,Park West,Dublin 12,q2,50%
+05/07/2017,"84 The Academy, Park West Pointe, Dublin 12",Dublin,193000.0,No,Park West,Dublin 12,q3,60%
+28/07/2017,"Apt 139 The Academy Building, Park West Pointe, Dublin 12",Dublin,162000.0,No,Park West,Dublin 12,q2,30%
+08/11/2017,"13 The Crescent, Park West, Dublin 12",Dublin,220000.0,No,Park West,Dublin 12,q4,80%
+04/12/2017,"40 Concert Building, Park West, Dublin 12",Dublin,215000.0,No,Park West,Dublin 12,q3,70%
+07/12/2017,"169 The Cresent, Park West Point, Dublin 12",Dublin,202000.0,No,Park West,Dublin 12,q3,60%
+14/12/2017,"116 Academy Building, Park West Pointe, Dublin 12",Dublin,174000.0,No,Park West,Dublin 12,q2,40%
+14/12/2017,"14 The Concert Building, Park West Pointe, Nangor Rd Dublin 12",Dublin,235000.0,No,Park West,Dublin 12,q4,90%
+14/12/2017,"27 The Concert Building, Park West Pointe, Nangor Rd Dublin 12",Dublin,225000.0,No,Park West,Dublin 12,q4,90%
+14/12/2017,"58 The Concert Building, Park West Pointe, Nangor Rd Dublin 12",Dublin,215000.0,No,Park West,Dublin 12,q3,70%
+20/12/2017,"Rear 1 Croswaite Terrace, Clarinda Park West, Dunlaoire",Dublin,580000.0,No,Park West,Dublin 12,q4,100%
+22/01/2018,"59 The Academy Building, Park West, Parkwest Dublin 12",Dublin,205000.0,No,Park West,Dublin 12,q3,60%
+28/02/2018,"97 The Crescent, Park West Pointe, Dublin 12",Dublin,171000.0,No,Park West,Dublin 12,q2,40%
+20/03/2018,"223 The Crescent Building, Park West Pointe, Dublin 12",Dublin,165033.0,No,Park West,Dublin 12,q2,40%
+20/03/2018,"5 The Crescent, Park West Pointe, Yeats Way Dublin 22",Dublin,190000.0,No,Park West,Dublin 12,q3,60%
+13/04/2018,"156 The Academy Building, Park West Pointe, Yeats Way Dublin 12",Dublin,175000.0,No,Park West,Dublin 12,q2,50%
+25/04/2018,"Apt 5, Clarinda House, Clarinda Park West",Dublin,360000.0,No,Park West,Dublin 12,q4,100%
+04/07/2018,"109 The Academy, Park West Pointe, Nangor Rd Dublin 12",Dublin,220000.0,No,Park West,Dublin 12,q4,80%
+04/07/2018,"152 The Academy Building, Park West Pointe, Nangor Rd Dublin 12",Dublin,240000.0,No,Park West,Dublin 12,q4,100%
+04/07/2018,"158 The Academy Building, Park West Pointe, Nangor Rd Dublin 12",Dublin,240000.0,No,Park West,Dublin 12,q4,100%
+20/07/2018,"165 Academy Building, Park West Point, Dublin 12",Dublin,212000.0,No,Park West,Dublin 12,q3,70%
+16/08/2018,"53 The Crescent, Park West, Dublin",Dublin,275000.0,No,Park West,Dublin 12,q4,100%
+11/10/2018,"43 The Concert Building, Park West Pointe, Yeats Way Dublin 12",Dublin,235000.0,No,Park West,Dublin 12,q4,90%
+23/10/2018,"37 The Crescent, Park West Pointe, Yeats Way Dublin 22",Dublin,216000.0,No,Park West,Dublin 12,q3,80%
+20/11/2018,"212 The Crescent, Park West Point, Dublin 12",Dublin,187000.0,No,Park West,Dublin 12,q2,50%
+20/11/2018,"50 The Concert, Park West Point, Dublin 12",Dublin,213000.0,No,Park West,Dublin 12,q3,70%
+20/12/2018,"229 The Crescent, Park West Pointe, Yeats Way Dublin 22",Dublin,213000.0,No,Park West,Dublin 12,q3,70%
+14/01/2019,"Apt.156 Park West Pointe, The Crescent Building, Dublin 12",Dublin,158000.0,No,Park West,Dublin 12,q2,30%
+11/03/2019,"58 The Academy, Park West Pointe, Park West Dublin 12",Dublin,215000.0,No,Park West,Dublin 12,q3,70%
+10/04/2019,"135 The Academy Building, Park West Pointe, Park West Dublin 12",Dublin,220000.0,No,Park West,Dublin 12,q4,80%
+13/05/2019,"168 The Academy Building, Park West Point, Dublin 12",Dublin,210000.0,No,Park West,Dublin 12,q3,60%
+14/05/2019,"95 The Crescent, Park West Pointe, Yeats Way Dublin 12",Dublin,205000.0,No,Park West,Dublin 12,q3,60%
+31/05/2019,"50 The Crescent Building, Park West Point, Nangor Rd Dublin 12",Dublin,165000.0,No,Park West,Dublin 12,q2,40%
+13/06/2019,"4 The Concert Building, Park West Pointe, Yeats Way Dublin 12",Dublin,234000.0,No,Park West,Dublin 12,q4,90%
+17/07/2019,"6 The Concert Building, Park West Pointe, Yeats Way Dublin 12",Dublin,233000.0,No,Park West,Dublin 12,q4,90%
+18/07/2019,"73 The Academy Building, Park West Pointe, Dublin",Dublin,215000.0,No,Park West,Dublin 12,q3,80%
+31/07/2019,"149 The Crescent, Park West Pointe, Yeats Way Dublin 12",Dublin,213000.0,No,Park West,Dublin 12,q3,70%
+19/08/2019,"163 The Crescent, Park West Pointe, Yeats Way",Dublin,220000.0,No,Park West,Dublin 12,q4,90%
+21/08/2019,"117 The Crescent, Park West Point, Dublin 12",Dublin,215000.0,No,Park West,Dublin 12,q3,80%
+21/08/2019,"166 The Academy Building, Park West Pointe, Yeats Way Dublin 12",Dublin,233000.0,No,Park West,Dublin 12,q4,90%
+29/08/2019,"Apt 8, Clarinda House, Clarinda Park West",Dublin,405600.0,No,Park West,Dublin 12,q4,100%
+23/09/2019,"117 Academy Building, Park West Pointe, Dublin 12",Dublin,170000.0,No,Park West,Dublin 12,q2,40%
+04/10/2019,"65 The Academy Building, Park West Pointe, Nangor Rd Dublin 12",Dublin,210000.0,No,Park West,Dublin 12,q3,70%
+23/10/2019,"Apt 11, The Academy Building, Park West Pointe Dublin 12",Dublin,220000.0,No,Park West,Dublin 12,q4,90%

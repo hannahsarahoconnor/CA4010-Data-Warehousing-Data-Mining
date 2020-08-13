@@ -1,0 +1,216 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+12/01/2010,"5 Temple View Park, Clare Hall",Dublin,290000.0,No,Clare Hall,Dublin 17,q4,100%
+13/01/2010,"Apartment 37  Block D, Clare Village, Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q3,80%
+14/01/2010,"14 Block D Doolin House, Clare Village, Clare Hall Dublin 17",Dublin,149735.68,Yes,Clare Hall,Dublin 17,q2,50%
+15/01/2010,"1 Killaloe House, Clare Village, Clare Hall Dublin 17",Dublin,180616.74,Yes,Clare Hall,Dublin 17,q4,90%
+05/02/2010,"3 Doolin House, Clare Village, Clare Hall Dublin 17",Dublin,114499.39,Yes,Clare Hall,Dublin 17,q1,20%
+15/02/2010,"17 Block C Doonbeg House, Clare Village, Clare Hall Dublin17",Dublin,167356.82,Yes,Clare Hall,Dublin 17,q3,80%
+17/02/2010,"Apartment 40  Block B, Corofin House  Clare Village, Clare Hall",Dublin,147006.75,Yes,Clare Hall,Dublin 17,q2,40%
+18/02/2010,"38 Block D Doolin House, Clare Village, Clare Hall",Dublin,158546.0,Yes,Clare Hall,Dublin 17,q2,50%
+22/02/2010,"Apt 21 Block D Doolin House, Clare Village, Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q3,80%
+24/02/2010,"29 Block D, Doolin Hall  Clare Village, Clare Hall",Dublin,129950.0,Yes,Clare Hall,Dublin 17,q2,30%
+18/03/2010,"Apt 44  Doolin House, Clare Village, Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q3,80%
+29/03/2010,"Apt. 50  Block D, Doolin House  Clare Village, Clare Hall",Dublin,149556.0,Yes,Clare Hall,Dublin 17,q2,50%
+30/03/2010,"Apartment18  Block B Corofin House, Clare Village, Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q3,80%
+08/04/2010,"Apartment33 Block D, Doolin House, Clare Village Clare Hall Dublin17",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+19/04/2010,"Aparment 4  Block C, Doonbeg House  Clare Village, Clare Hall  Dublin 17",Dublin,164306.75,Yes,Clare Hall,Dublin 17,q3,80%
+22/04/2010,"69 Kilkee House, Clare Village, Clare Hall  Dublin 17",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+03/05/2010,"33  Temple View Avenue, Clare Hall",Dublin,295000.0,No,Clare Hall,Dublin 17,q4,100%
+07/05/2010,"25 Elmfield Avenue, Clare Hall",Dublin,325000.0,No,Clare Hall,Dublin 17,q4,100%
+14/05/2010,"13 Elmfield Crescent, Clare Hall",Dublin,310000.0,No,Clare Hall,Dublin 17,q4,100%
+21/05/2010,"1 Doolin House, Clare Village Clare Hall, Dublin 17",Dublin,149735.68,Yes,Clare Hall,Dublin 17,q2,50%
+21/05/2010,"Beaupark, Clare Hall, Clongriffin",Dublin,7333121.0,No,Clare Hall,Dublin 17,q4,100%
+27/05/2010,"Apt 10 Doonbeg House, Clare Village, Clare Hall",Dublin,189950.0,Yes,Clare Hall,Dublin 17,q4,90%
+10/06/2010,"Apartment 38 Kilkee House, Clare Village, Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q3,80%
+14/07/2010,"25 Block A Kilkee House, Clare Village, Clare Hall Dublin 17",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+27/07/2010,"42 Doolin House, Clare Village, Clare Hall Dublin 17",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+12/08/2010,"Apartment 7 Block C Doonbeg House, Clare Village, Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q4,80%
+27/08/2010,"No 23 Block C Doonbeg House, Clare Village, Clare Hall",Dublin,179950.0,Yes,Clare Hall,Dublin 17,q4,80%
+02/09/2010,"Number 6, Block C Doonbeg House, Clare Village  Clare Hall",Dublin,189950.0,Yes,Clare Hall,Dublin 17,q4,90%
+09/09/2010,"13  Block F, Clare Village, Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q4,80%
+10/09/2010,"Apartment 3 Block C Doonbeg House, Clare Village, Clare Hall",Dublin,189950.0,Yes,Clare Hall,Dublin 17,q4,90%
+06/10/2010,"22  Block A  Kilkee House, Clare Village, Clare Hall",Dublin,113056.5,Yes,Clare Hall,Dublin 17,q1,10%
+08/10/2010,"20 Block E1 Tulla House, Clare Village, Clare Hall",Dublin,158547.25,Yes,Clare Hall,Dublin 17,q3,60%
+08/10/2010,"Apartment 1 Block E1 Tulla House, Clare Village, Clare Hall",Dublin,209950.0,Yes,Clare Hall,Dublin 17,q4,90%
+15/10/2010,"24 Block E1 Tulla House, Clare Village, Clare Hall Dublin 17",Dublin,211453.74,Yes,Clare Hall,Dublin 17,q4,90%
+15/10/2010,"Apartment 19  Block E1, Tulla House  Clare Village, Clare Hall",Dublin,134950.0,Yes,Clare Hall,Dublin 17,q2,40%
+18/10/2010,"14  Tulla House, Clare Village, Clare Hall",Dublin,158546.25,Yes,Clare Hall,Dublin 17,q2,50%
+18/10/2010,"Apartment 7 Block E1, Tulla House, Clare Village  Clare Hall",Dublin,184977.97,Yes,Clare Hall,Dublin 17,q4,90%
+22/10/2010,"Apartment 46 Block D, Doolin House, Clare Hall",Dublin,129950.0,Yes,Clare Hall,Dublin 17,q2,30%
+22/10/2010,"Apt 12 Tulla  E1 Tulla House, Clare Village, Clare Hall",Dublin,193788.54,Yes,Clare Hall,Dublin 17,q4,90%
+27/10/2010,"Apt 30 Block Ei, Tulla House Clare Village, Clare Hall",Dublin,220264.32,Yes,Clare Hall,Dublin 17,q4,90%
+27/10/2010,"Apt 9  Block E1, Tulla House  Clare Village, Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q4,80%
+28/10/2010,"31 Tulla House, Clare Village Clare Hall, Dublin 17",Dublin,123303.96,Yes,Clare Hall,Dublin 17,q2,30%
+28/10/2010,"Apartment 18  Block E1  Tulla House, Clare Village, Clare Hall",Dublin,219950.0,Yes,Clare Hall,Dublin 17,q4,90%
+29/10/2010,"Apartment  28, Block A Kilkee House, Clare Village Clare Hall Dublin17",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+01/11/2010,"22 Tulla House, Clare Village, Clare Hall Dublin 17",Dublin,118898.67,Yes,Clare Hall,Dublin 17,q1,20%
+02/11/2010,"Site No. 23 Bock E1, Tulla House, Clare Village  Clare Hall",Dublin,155656.75,Yes,Clare Hall,Dublin 17,q2,50%
+05/11/2010,"3 Tulla House, Clare Village, Clare Hall",Dublin,149736.0,Yes,Clare Hall,Dublin 17,q2,50%
+08/11/2010,"27 Tulla House, Clare Village, Clare Hall",Dublin,167356.82,Yes,Clare Hall,Dublin 17,q3,80%
+09/11/2010,"14 Kilkee House, Clare Village, Clare Hall Dublin 17",Dublin,149735.68,Yes,Clare Hall,Dublin 17,q2,50%
+12/11/2010,"10 Tulla House, Clare Village, Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q4,80%
+12/11/2010,"15 Tulla House, Clare Village, Clare Hall Dublin 17",Dublin,158546.25,Yes,Clare Hall,Dublin 17,q2,50%
+16/11/2010,"6 Tulla House, Clare Village Clare Hall, Dublin 17",Dublin,158546.25,Yes,Clare Hall,Dublin 17,q2,50%
+24/11/2010,"21 Tulla House, Clare Village, Clare Hall",Dublin,158546.25,Yes,Clare Hall,Dublin 17,q2,50%
+24/11/2010,"4 Block F Kilaloe House, Clare Village, Clare Hall",Dublin,149735.68,Yes,Clare Hall,Dublin 17,q2,50%
+29/11/2010,"Apartment 48 Block E3, Ennis House, Clare Village Clare Hall",Dublin,155656.75,Yes,Clare Hall,Dublin 17,q2,50%
+30/11/2010,"15 Block E3 Ennis House, Clare Village, Clare Hall Dublin17",Dublin,149735.68,Yes,Clare Hall,Dublin 17,q2,50%
+30/11/2010,"44 Ennis House, Clare Village, Clare Hall",Dublin,167356.82,Yes,Clare Hall,Dublin 17,q3,80%
+01/12/2010,"31 Ennis House, Clare Village Clare Hall, Dublin 17",Dublin,149735.68,Yes,Clare Hall,Dublin 17,q2,50%
+01/12/2010,"Apartment 23, Block E3 Ennis House, Clare Village Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q4,80%
+02/12/2010,"29 Block E Ennis House, Clare Village, Clare Hall",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+10/12/2010,"12 Block E3 Ennis House, Clare Village Clare Hall, Dublin 17",Dublin,149735.68,Yes,Clare Hall,Dublin 17,q2,50%
+10/12/2010,"47 Ennis House, Clare Village Clare Hall, Dublin17",Dublin,158546.25,Yes,Clare Hall,Dublin 17,q2,50%
+10/12/2010,"Apartment 5  Block E3, Clare Viillage, Clare Hall",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+13/12/2010,"39 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q4,80%
+20/12/2010,"28 Block E3 Ennis House, Clare Village, Clare Hall Dublin 17",Dublin,158546.25,Yes,Clare Hall,Dublin 17,q2,50%
+20/12/2010,"38 Block E3 Ennis House, Clare Hall, Clare Village",Dublin,169950.0,Yes,Clare Hall,Dublin 17,q4,80%
+20/12/2010,"Apartment 13 Block E3, Ennis House Clare Village, Clare Hall Dublin 17",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+21/12/2010,"Apt 20 Block E3, Ennis House Clare Village, Clare Hall",Dublin,179950.0,Yes,Clare Hall,Dublin 17,q4,80%
+22/12/2010,"Apt.  22  Block E3, Ennis House  Clare Village, Clare Hall",Dublin,149735.68,Yes,Clare Hall,Dublin 17,q2,50%
+22/12/2010,"Apt.  30  Block E3, Ennis House, Clare Village  Clare Hall",Dublin,149735.68,Yes,Clare Hall,Dublin 17,q2,50%
+23/12/2010,"11 Block F Killaloe House, Clare Village, Clare Hall Dublin 17",Dublin,158546.25,Yes,Clare Hall,Dublin 17,q3,60%
+23/12/2010,"21 Block E3 Ennis House, Clare Village, Clare Hall Dublin 17",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+06/01/2011,"46 Block E3 Ennis House, Clare Village Clare Hall, Dublin17",Dublin,158546.25,Yes,Clare Hall,Dublin 17,q3,60%
+14/01/2011,"Apt 49 Block D Doolan House, Clare Village, Clare Hall",Dublin,129950.0,Yes,Clare Hall,Dublin 17,q2,30%
+10/02/2011,"Apt 17  Block E1, Tulla House  Clare Village, Clare Hall  Dublin 17",Dublin,179950.0,Yes,Clare Hall,Dublin 17,q4,90%
+25/03/2011,"Apartment 34 Tulla House, Clare Village, Clare Hall",Dublin,123303.96,Yes,Clare Hall,Dublin 17,q2,30%
+06/04/2011,"Apartment 35 Block E1, Tulla House, Clare Village  Clare Hall",Dublin,189950.0,Yes,Clare Hall,Dublin 17,q4,90%
+09/05/2011,"11 Templeview Green, Clare Hall, Dublin 13",Dublin,215000.0,No,Clare Hall,Dublin 17,q4,90%
+01/06/2011,"25 Quilty House, Clare Village, Clare Hall",Dublin,158586.0,Yes,Clare Hall,Dublin 17,q3,60%
+01/06/2011,"43 Block E2  Quilty House, Clare Village, Clare Hall",Dublin,155656.75,Yes,Clare Hall,Dublin 17,q2,50%
+01/06/2011,"Apartment 24  Block E2, Quilty House  Clare Village, Clare Hall  Dublin 17",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+01/06/2011,"Apt 23 Block E2, Quilty House, Clare Village Clare Hall",Dublin,158585.0,Yes,Clare Hall,Dublin 17,q3,60%
+09/06/2011,"52 Quilty House, Clare Village, Clare Hall",Dublin,167356.82,Yes,Clare Hall,Dublin 17,q3,80%
+09/06/2011,"Apartment 33  Block E2, Quilty House  Clare Village, Clare Hall",Dublin,114493.39,Yes,Clare Hall,Dublin 17,q1,20%
+05/07/2011,"1 Block C Doonbeg House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"10 Block B Corofin House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"11 Block A Kilkee House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"13 Block B Corofin House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"19 Block A Kilkee House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"25 Corofin House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"33 Block B Corofin House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"35 Block B Corofin House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"37 Block A Kilkee House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,20%
+05/07/2011,"37 Block B Corofin House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"41 Block B Corofin House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"7 Block B Corofin House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"7 Block D Doolin House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+05/07/2011,"8 Block B Corofin House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+13/07/2011,"Apartment 45 Block E, Ennis House  Clare Village, Clare Hall",Dublin,129950.0,Yes,Clare Hall,Dublin 17,q2,30%
+15/07/2011,"Unit 34  Block E2, Quilty House  Clare Village, Clare Hall",Dublin,158546.25,Yes,Clare Hall,Dublin 17,q3,60%
+03/08/2011,"19 Templeview Walk, Clare Hall",Dublin,250000.0,No,Clare Hall,Dublin 17,q4,100%
+06/10/2011,"10 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,20%
+06/10/2011,"11 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,20%
+06/10/2011,"17 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,60%
+06/10/2011,"18 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,20%
+06/10/2011,"19 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+06/10/2011,"2 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,20%
+06/10/2011,"25 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+06/10/2011,"26 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,20%
+06/10/2011,"27 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+06/10/2011,"3 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,20%
+06/10/2011,"33 Block E Ennishouse, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+06/10/2011,"34 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,20%
+06/10/2011,"35 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+06/10/2011,"41 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+06/10/2011,"42 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,30%
+06/10/2011,"43 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,159742.0,Yes,Clare Hall,Dublin 17,q3,60%
+01/12/2011,"1 Block E3 Ennis House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,30%
+01/12/2011,"12 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"13 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,30%
+01/12/2011,"20 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"21 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"22 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"29 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"30 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"31 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"38 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"39 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"4 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"40 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"47 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"48Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"49 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"5 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,159746.0,Yes,Clare Hall,Dublin 17,q3,70%
+01/12/2011,"6 Block E2 Quilty House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,30%
+01/12/2011,"9 Block E2 Ennis House, Clare Village, Clare Hall",Dublin,119746.0,Yes,Clare Hall,Dublin 17,q1,30%
+16/12/2011,"42, Elmfield Lawn, Clare Hall",Dublin,245000.0,No,Clare Hall,Dublin 17,q4,100%
+17/02/2012,"15 Templeville, Clare Hall",Dublin,187500.0,No,Clare Hall,Dublin 17,q4,90%
+13/06/2012,"25 Block E1, Tulla House, Clare Village Clare Hall",Dublin,88105.72,Yes,Clare Hall,Dublin 17,q1,10%
+10/01/2013,"20 Elmfield Green, Clare Hall, Dublin 13",Dublin,289000.0,No,Clare Hall,Dublin 17,q4,100%
+22/01/2013,"1 Templeview Vale, Clare Hall",Dublin,260000.0,No,Clare Hall,Dublin 17,q4,100%
+01/02/2013,"17 Temple View Grove, Clare Hall, Dublin 17",Dublin,210000.0,No,Clare Hall,Dublin 17,q4,90%
+15/02/2013,"13 Elmfield Avenue, Clare Hall, D 13",Dublin,220000.0,No,Clare Hall,Dublin 17,q4,90%
+22/03/2013,"2 Elmfield Drive, Clare Hall",Dublin,208000.0,No,Clare Hall,Dublin 17,q4,90%
+22/10/2013,"17 Temple View Close, Clare Hall, Dublin 13",Dublin,247000.0,No,Clare Hall,Dublin 17,q4,100%
+17/12/2013,"10 Elmfield Park, Clare Hall, Baldoyle Dublin 13",Dublin,229000.0,No,Clare Hall,Dublin 17,q4,90%
+10/07/2014,"23 Temple View Lawn, Clare Hall, Dublin 13",Dublin,265000.0,No,Clare Hall,Dublin 17,q4,100%
+11/07/2014,"1 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,149678.0,Yes,Clare Hall,Dublin 17,q2,50%
+11/07/2014,"10 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"11 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,123246.0,Yes,Clare Hall,Dublin 17,q1,30%
+11/07/2014,"11 Tulla House  Block E1, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"14 Killaloe House  Block F, Clare Village, Clare Hall",Dublin,123246.0,Yes,Clare Hall,Dublin 17,q1,30%
+11/07/2014,"14 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,30%
+11/07/2014,"15 Killaloe House  Block F, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,30%
+11/07/2014,"15 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"16 Ennis House  Block E3, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,30%
+11/07/2014,"16 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"16 Tulla House  Block E1, Clare Village, Clare Hall",Dublin,123246.0,Yes,Clare Hall,Dublin 17,q1,30%
+11/07/2014,"17 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"18 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"19 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"2 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,79193.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"2 Tulla House  Block E1, Clare Village, Clare Hall",Dublin,79193.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"24 Ennis House  Block E3, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"26 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"26 Tulla House  Block E1, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"27 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"28 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"28 Tulla House  Block E1, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"3 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,123246.0,Yes,Clare Hall,Dublin 17,q1,30%
+11/07/2014,"32 Ennis House  Block E3, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"32 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"35 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"36 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"37 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"4 Ennis House  Block E3, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"4 Tulla House  Block E1, Clare Village, Clare Hall",Dublin,123246.0,Yes,Clare Hall,Dublin 17,q1,30%
+11/07/2014,"40 Ennis House  Block E3, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"41 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"44 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"45 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"46 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"5 Killaloe House  Block F, Clare Village, Clare Hall",Dublin,123246.0,Yes,Clare Hall,Dublin 17,q1,30%
+11/07/2014,"5 Tulla House  Block E1, Clare Village, Clare Hall",Dublin,79193.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"50 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"51 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"52 Corofin House  Block B, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"52 Corofin House  Block B, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"6 Killaloe House  Block F, Clare Village, Clare Hall",Dublin,132057.0,Yes,Clare Hall,Dublin 17,q2,40%
+11/07/2014,"7 Ennis House  Block E3, Clare Village, Clare Hall",Dublin,79193.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"7 Killaloe House  Block F, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"7 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,123246.0,Yes,Clare Hall,Dublin 17,q2,30%
+11/07/2014,"8 Ennis House  Block E3, Clare Village, Clare Hall",Dublin,123246.0,Yes,Clare Hall,Dublin 17,q2,30%
+11/07/2014,"8 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,79193.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"8 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,79193.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"9 Killaloe House  Block F, Clare Village, Clare Hall",Dublin,88004.0,Yes,Clare Hall,Dublin 17,q1,10%
+11/07/2014,"9 Quilty House  Block E2, Clare Village, Clare Hall",Dublin,79193.0,Yes,Clare Hall,Dublin 17,q1,10%
+06/10/2014,"21 Templeview Rise, Clare Hall, Dublin 13",Dublin,250000.0,No,Clare Hall,Dublin 17,q4,100%
+03/03/2015,"Apt 53 Block A, Clare Village, Clare Hall",Dublin,80000.0,No,Clare Hall,Dublin 17,q1,10%
+14/04/2015,"26 Elmfield Walk, Clare Hall, Donaghmede",Dublin,272000.0,No,Clare Hall,Dublin 17,q4,100%
+06/04/2016,"7 Elmfield Dr, Clare Hall, Dublin 13",Dublin,250000.0,No,Clare Hall,Dublin 17,q4,100%
+02/08/2016,"4 Block F Kilaloe House, Clare Village, Clare Hall",Dublin,195000.0,No,Clare Hall,Dublin 17,q4,90%
+19/12/2016,"10 Templeview Ave, Clare Hall, Dublin 13",Dublin,260000.0,No,Clare Hall,Dublin 17,q4,100%
+09/02/2017,"8 Templeview Downs, Clare Hall, Dublin 13",Dublin,275000.0,No,Clare Hall,Dublin 17,q4,100%
+23/02/2017,"5 Temple View Green, Clare Hall, Dublin 13",Dublin,293000.0,No,Clare Hall,Dublin 17,q4,100%
+25/05/2017,"Apt 42 Block E2 Quality House, Clarevillage, Clare Hall",Dublin,165000.0,No,Clare Hall,Dublin 17,q3,80%
+07/11/2017,"13 Killaloe House, Clare Village, Clare Hall Dublin 13",Dublin,200000.0,No,Clare Hall,Dublin 17,q4,90%
+15/12/2017,"27 Temple View Ave, Clare Hall, Balgriffin Dublin 13",Dublin,325000.0,No,Clare Hall,Dublin 17,q4,100%
+02/02/2018,"104 Burnell Sq, Clare Hall, Dublin 13",Dublin,210000.0,No,Clare Hall,Dublin 17,q4,90%
+09/03/2018,"29 Temple View Park, Clare Hall, Dublin 13",Dublin,335000.0,No,Clare Hall,Dublin 17,q4,100%
+04/05/2018,"Apt 13 E3 Ennis, House Clare Village, Clare Hall Dublin 17",Dublin,176000.0,No,Clare Hall,Dublin 17,q4,80%
+01/06/2018,"38 Elmfield Lawn, Clare Hall, Raheny Dublin 5",Dublin,356000.0,No,Clare Hall,Dublin 17,q4,100%
+28/11/2018,"Apt 5 Block E3, Clare Viillage, Clare Hall",Dublin,170000.0,No,Clare Hall,Dublin 17,q4,80%
+04/04/2019,"16 Elmfield Dr, Clare Hall, Dublin 13",Dublin,395000.0,No,Clare Hall,Dublin 17,q4,100%
+30/08/2019,"21 Templeview Park, Clare Hall, Dublin 13",Dublin,350000.0,No,Clare Hall,Dublin 17,q4,100%

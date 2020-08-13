@@ -1,0 +1,112 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+03/08/2010,"152 The Village, Porterstown, Dublin 15",Dublin,212000.0,No,Porterstown,Dublin 15,q3,60%
+23/03/2012,"40 The Village, Porterstown",Dublin,127000.0,No,Porterstown,Dublin 15,q1,10%
+26/06/2012,"'Rose Cottage', Porterstown, Dublin 15",Dublin,305000.0,No,Porterstown,Dublin 15,q4,90%
+22/03/2013,"10 Mountainview Cottages, Diswellstown, Porterstown",Dublin,210000.0,No,Porterstown,Dublin 15,q3,60%
+25/03/2013,"144 The Village, Porterstown, Dublin 15",Dublin,144000.0,No,Porterstown,Dublin 15,q1,10%
+05/07/2013,"78 The Village, Porterstown, Dublin 15",Dublin,188000.0,No,Porterstown,Dublin 15,q2,40%
+28/08/2013,"52 The Village, Porterstown",Dublin,237000.0,No,Porterstown,Dublin 15,q3,80%
+31/01/2014,"75 Woodbrook Crescent, Riverwood Rd, Porterstown Dublin 15",Dublin,237000.0,No,Porterstown,Dublin 15,q3,80%
+14/05/2014,"7 Homeleigh, Porterstown, Dublin 15",Dublin,1050000.0,No,Porterstown,Dublin 15,q4,100%
+11/06/2014,"86 The Village, Porterstown, Dublin 15",Dublin,450000.0,No,Porterstown,Dublin 15,q4,100%
+27/06/2014,"37 Windmill Terrace, Porterstown, Dublin 15",Dublin,105000.0,No,Porterstown,Dublin 15,q1,10%
+30/01/2015,"38 Windmill Square, Porterstown",Dublin,245000.0,No,Porterstown,Dublin 15,q4,80%
+04/03/2015,"164 The Village, Porterstown, Dublin 15",Dublin,222000.0,No,Porterstown,Dublin 15,q3,70%
+05/06/2015,"32 Windmill Court, Porterstown, Dublin 15",Dublin,237000.0,No,Porterstown,Dublin 15,q4,80%
+28/10/2015,"109 Castlefield, Porterstown, Dublin 13",Dublin,315000.0,No,Porterstown,Dublin 15,q4,90%
+02/11/2015,"Carrig, 13 Homeleigh, Porterstown",Dublin,1260000.0,No,Porterstown,Dublin 15,q4,100%
+17/02/2016,"Villa Deste, Porterstown Rd, Porterstown Dublin 15",Dublin,550000.0,No,Porterstown,Dublin 15,q4,100%
+24/03/2016,"142 The Village, Porterstown, Dublin 15",Dublin,285000.0,No,Porterstown,Dublin 15,q4,90%
+14/06/2016,"Apt 1, The Oaks, Porterstown Rd Dublin 15",Dublin,2017500.0,No,Porterstown,Dublin 15,q4,100%
+27/07/2016,"33 Windmill Court, Porterstown, Dublin 15",Dublin,182000.0,No,Porterstown,Dublin 15,q1,20%
+15/09/2016,"11 Windmill Sq, Porterstown, Dublin 15",Dublin,191000.0,No,Porterstown,Dublin 15,q2,40%
+19/09/2016,"62 The Village, Porterstown, Dublin 15",Dublin,320000.0,No,Porterstown,Dublin 15,q4,90%
+02/12/2016,"22 Windmill Terrace, Porterstown, Dublin 15",Dublin,175000.0,No,Porterstown,Dublin 15,q1,10%
+02/12/2016,"5 Homeleigh, Porterstown, Dublin 15",Dublin,1475000.0,No,Porterstown,Dublin 15,q4,100%
+18/01/2017,"2 Windmill Sq, Porterstown, Dublin 15",Dublin,254000.0,No,Porterstown,Dublin 15,q4,80%
+12/06/2017,"83 Diswellstown, Manor, Porterstown Road",Dublin,365638.77,Yes,Porterstown,Dublin 15,q4,100%
+23/06/2017,"164 The Village, Porterstown, Dublin 15",Dublin,360000.0,No,Porterstown,Dublin 15,q4,100%
+23/06/2017,"18 The Village, Porterstown Road, Dublin 15",Dublin,418000.0,No,Porterstown,Dublin 15,q4,100%
+13/07/2017,"166 The Village, Porterstown, Dublin 15",Dublin,295000.0,No,Porterstown,Dublin 15,q4,90%
+05/10/2017,"32 The Village, Porterstown, Dublin 15",Dublin,330000.0,No,Porterstown,Dublin 15,q4,90%
+02/11/2017,"40 The Village, Porterstown, Dublin",Dublin,350000.0,No,Porterstown,Dublin 15,q4,90%
+21/12/2017,"18 Homeleigh, Porterstown, Dublin 15",Dublin,1300000.0,No,Porterstown,Dublin 15,q4,100%
+28/03/2018,"10 Windmill Park, Porterstown, Dublin 15",Dublin,225798.0,No,Porterstown,Dublin 15,q3,70%
+28/03/2018,"10 Windmill Terrace, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"11 Windmill Park, Porterstown, Dublin 15",Dublin,172254.0,No,Porterstown,Dublin 15,q1,10%
+28/03/2018,"11 Windmill Terrace, Porterstown, Dublin 15",Dublin,225798.0,No,Porterstown,Dublin 15,q3,70%
+28/03/2018,"12 Windmill Park, Porterstown, Dublin 15",Dublin,143833.0,No,Porterstown,Dublin 15,q1,10%
+28/03/2018,"13 Windmill Park, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"13 Windmill Terrace, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"14 Windmill Park, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"14 Windmill Terrace, Porterstown, Dublin 15",Dublin,225798.0,No,Porterstown,Dublin 15,q3,70%
+28/03/2018,"15 Windmill Park, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"16 Windmill Park, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"17 Windmill Terrace, Porterstown, Dublin 15",Dublin,225798.0,No,Porterstown,Dublin 15,q3,70%
+28/03/2018,"18 Windmill Park, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"19 Windmill Park, Porterstown, Dublin 15",Dublin,172254.0,No,Porterstown,Dublin 15,q1,10%
+28/03/2018,"2 Windmill Park, Porterstown, Dublin 15",Dublin,216325.0,No,Porterstown,Dublin 15,q3,60%
+28/03/2018,"2 Windmill Terrace, Porterstown, Dublin 15",Dublin,225798.0,No,Porterstown,Dublin 15,q3,70%
+28/03/2018,"20 Windmill Park, Porterstown, Dublin 15",Dublin,143833.0,No,Porterstown,Dublin 15,q1,10%
+28/03/2018,"21 Windmill Park, Porterstown, Dublin 15",Dublin,187904.0,No,Porterstown,Dublin 15,q2,40%
+28/03/2018,"22 Windmill Park, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"23 Windmill Park, Porterstown, Dublin 15",Dublin,213167.0,No,Porterstown,Dublin 15,q3,60%
+28/03/2018,"24 Windmill Park, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"35 Windmill Terrace, Porterstown, Dublin 15",Dublin,235000.0,No,Porterstown,Dublin 15,q3,80%
+28/03/2018,"4 Windmill Terrace, Porterstown, Dublin 15",Dublin,203693.0,No,Porterstown,Dublin 15,q2,40%
+28/03/2018,"41 Windmill Terrace, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"44 Windmill Terrace, Porterstown, Dublin 15",Dublin,219483.0,No,Porterstown,Dublin 15,q3,60%
+28/03/2018,"47 Windmill Terrace, Porterstown, Dublin 15",Dublin,225798.0,No,Porterstown,Dublin 15,q3,70%
+28/03/2018,"5 Windmill Terrace, Porterstown, Dublin 15",Dublin,225798.0,No,Porterstown,Dublin 15,q3,70%
+28/03/2018,"50 Windmill Terrace, Porterstown, Dublin 15",Dublin,225798.0,No,Porterstown,Dublin 15,q3,70%
+28/03/2018,"51 Windmill Terrace, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q3,60%
+28/03/2018,"53 Windmill Terrace, Porterstown, Dublin 15",Dublin,219483.0,No,Porterstown,Dublin 15,q3,60%
+28/03/2018,"56 Windmill Terrace, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q3,60%
+28/03/2018,"57 Windmill Terrace, Porterstown, Dublin 15",Dublin,225798.0,No,Porterstown,Dublin 15,q3,70%
+28/03/2018,"58 Windmill Terrace, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q3,60%
+28/03/2018,"6 Windmill Court, Porterstown, Dublin 15",Dublin,270000.0,No,Porterstown,Dublin 15,q4,80%
+28/03/2018,"63 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,20%
+28/03/2018,"64 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,20%
+28/03/2018,"65 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,20%
+28/03/2018,"66 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,20%
+28/03/2018,"67 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,20%
+28/03/2018,"68 Windmill Terrace, Porterstown, Dublin 15",Dublin,198941.0,No,Porterstown,Dublin 15,q2,40%
+28/03/2018,"69 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,20%
+28/03/2018,"7 Windmill Park, Porterstown, Dublin 15",Dublin,225798.0,No,Porterstown,Dublin 15,q3,70%
+28/03/2018,"7 Windmill Terrace, Porterstown, Dublin 15",Dublin,203693.0,No,Porterstown,Dublin 15,q2,40%
+28/03/2018,"70 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,20%
+28/03/2018,"71 Windmill Terrace, Porterstown, Dublin 15",Dublin,179465.0,No,Porterstown,Dublin 15,q1,10%
+28/03/2018,"72 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,20%
+28/03/2018,"73 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,30%
+28/03/2018,"74 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,30%
+28/03/2018,"75 Windmill Terrace, Porterstown, Dublin 15",Dublin,193377.0,No,Porterstown,Dublin 15,q2,40%
+28/03/2018,"76 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,30%
+28/03/2018,"78 Windmill Terrace, Porterstown, Dublin 15",Dublin,193500.0,No,Porterstown,Dublin 15,q2,40%
+28/03/2018,"79 Windmill Terrace, Porterstown, Dublin 15",Dublin,187812.0,No,Porterstown,Dublin 15,q2,30%
+28/03/2018,"8 Windmill Terrace, Porterstown, Dublin 15",Dublin,203693.0,No,Porterstown,Dublin 15,q2,50%
+28/03/2018,"80 Windmill Terrace, Porterstown, Dublin 15",Dublin,171118.0,No,Porterstown,Dublin 15,q1,10%
+28/03/2018,"81 Windmill Terrace, Porterstown, Dublin 15",Dublin,171118.0,No,Porterstown,Dublin 15,q1,10%
+28/03/2018,"82 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,30%
+28/03/2018,"83 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q1,30%
+28/03/2018,"84 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q2,30%
+28/03/2018,"85 Windmill Terrace, Porterstown, Dublin 15",Dublin,262890.0,No,Porterstown,Dublin 15,q4,80%
+28/03/2018,"86 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q2,30%
+28/03/2018,"87 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q2,30%
+28/03/2018,"88 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q2,30%
+28/03/2018,"89 Windmill Terrace, Porterstown, Dublin 15",Dublin,179465.0,No,Porterstown,Dublin 15,q1,20%
+28/03/2018,"9 Windmill Terrace, Porterstown, Dublin 15",Dublin,206851.0,No,Porterstown,Dublin 15,q3,60%
+28/03/2018,"90 Windmill Terrace, Porterstown, Dublin 15",Dublin,182248.0,No,Porterstown,Dublin 15,q2,30%
+28/03/2018,"91 Windmill Terrace, Porterstown, Dublin 15",Dublin,165677.0,No,Porterstown,Dublin 15,q1,10%
+28/03/2018,"92 Windmill Terrace, Porterstown, Dublin 15",Dublin,193377.0,No,Porterstown,Dublin 15,q2,40%
+28/03/2018,"93 Windmill Terrace, Porterstown, Dublin 15",Dublin,193377.0,No,Porterstown,Dublin 15,q2,40%
+28/03/2018,"94 Windmill Terrace, Porterstown, Dublin 15",Dublin,193377.0,No,Porterstown,Dublin 15,q2,40%
+18/04/2018,"62 Windmill Terrace, Porterstown, Dublin 15",Dublin,234361.0,Yes,Porterstown,Dublin 15,q3,80%
+14/06/2018,"26 Windmill Terrace, Porterstown, Dublin 15",Dublin,180616.0,Yes,Porterstown,Dublin 15,q1,20%
+22/06/2018,"39 Windmill Terrace, Porterstown, Dublin 15",Dublin,234000.0,No,Porterstown,Dublin 15,q3,80%
+13/07/2018,"30 Windmill Sq, Porterstown, Dublin 15",Dublin,280000.0,No,Porterstown,Dublin 15,q4,90%
+31/08/2018,"28 Windmill Court, Porterstown, Dublin 15",Dublin,271000.0,No,Porterstown,Dublin 15,q4,90%
+28/11/2018,"25 Windmill Terrace, Porterstown, Dublin 15",Dublin,220000.0,No,Porterstown,Dublin 15,q3,60%
+18/12/2018,"60 The Village, Porterstown, Dublin 15",Dublin,335000.0,No,Porterstown,Dublin 15,q4,90%
+26/06/2019,"11 Windmill Sq, Porterstown, Dublin 15",Dublin,237500.0,No,Porterstown,Dublin 15,q4,80%
+14/08/2019,"90 The Village, Porterstown, Dublin 15",Dublin,364000.0,No,Porterstown,Dublin 15,q4,100%
+06/09/2019,"100 The Village, Porterstown, Dublin 15",Dublin,320000.0,No,Porterstown,Dublin 15,q4,90%

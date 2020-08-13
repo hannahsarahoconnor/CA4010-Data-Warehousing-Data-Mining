@@ -1,0 +1,23 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+15/03/2013,"95 Snowdrop Walk, Darndale",Dublin,50000.0,No,Darndale,Dublin 17,q1,10%
+03/05/2013,"60 Belcamp Gardens, Darndale, Dublin 17",Dublin,95000.0,No,Darndale,Dublin 17,q1,20%
+17/06/2013,"47 Tulip Court, Darndale, Dublin 17",Dublin,99000.0,No,Darndale,Dublin 17,q1,30%
+31/07/2013,"29 Primrose Grove, Darndale Dublin 17, Dublin",Dublin,110000.0,No,Darndale,Dublin 17,q2,40%
+05/11/2013,"149 Buttercup Close, Darndale, Dublin 17",Dublin,106000.0,No,Darndale,Dublin 17,q2,30%
+17/02/2014,"125 Snowdrop Walk, Darndale, Dublin 17",Dublin,52500.0,No,Darndale,Dublin 17,q1,10%
+26/09/2014,"96 Primrose Grove, Darndale, Dublin",Dublin,78500.0,No,Darndale,Dublin 17,q1,10%
+05/12/2014,"234 Buttercup Park, Darndale, Dublin 17",Dublin,106000.0,No,Darndale,Dublin 17,q2,40%
+09/04/2015,"87 Buttercup Park Darndale, Dublin 17, Dublin",Dublin,124950.0,No,Darndale,Dublin 17,q2,50%
+13/10/2015,"5 Buttercup Terrace, Darndale, Dublin 17",Dublin,96000.0,No,Darndale,Dublin 17,q1,20%
+16/12/2015,"137 Buttercup Park, Darndale, Dublin 17",Dublin,175000.0,No,Darndale,Dublin 17,q4,80%
+13/01/2017,"97 Snowdrop Walk, Darndale, Dublin 17",Dublin,155000.0,No,Darndale,Dublin 17,q3,70%
+11/05/2017,"72 Buttercup Park, Darndale, Dublin 17",Dublin,150000.0,No,Darndale,Dublin 17,q2,50%
+03/07/2017,"91 Marigolo Grove, Darndale, Dublin 17",Dublin,170000.0,No,Darndale,Dublin 17,q3,80%
+27/10/2017,"47 Tulip Court, Darndale, Dublin 17",Dublin,180000.0,No,Darndale,Dublin 17,q4,90%
+26/04/2018,"38 Buttercup Park, Darndale, Dublin",Dublin,185000.0,No,Darndale,Dublin 17,q4,100%
+17/10/2018,"106 Snowdrop Walk, Darndale, Dublin 17",Dublin,150851.57,No,Darndale,Dublin 17,q3,60%
+26/11/2018,"173 Marigold Park, Darndale, Dublin 17",Dublin,225000.0,No,Darndale,Dublin 17,q4,100%
+01/04/2019,"81 Buttercup Ave, Darndale, Dublin 17",Dublin,159388.0,No,Darndale,Dublin 17,q3,70%
+16/04/2019,"86 Snowdrop Walk, Darndale, Dublin 17",Dublin,180000.0,No,Darndale,Dublin 17,q4,90%
+01/05/2019,"237 Buttercup Cresent, Darndale, Dublin 17",Dublin,192500.0,No,Darndale,Dublin 17,q4,100%
+12/09/2019,"5 Buttercup Terrace, Darndale, Dublin 17",Dublin,150000.0,No,Darndale,Dublin 17,q3,60%

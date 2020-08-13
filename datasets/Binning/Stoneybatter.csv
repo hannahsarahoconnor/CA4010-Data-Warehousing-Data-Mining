@@ -1,0 +1,331 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+13/01/2010,"5 Ross Street, Stoneybatter",Dublin,190000.0,No,Stoneybatter,Dublin 7,q2,30%
+05/02/2010,"10, Ashford Place, Stoneybatter",Dublin,172000.0,No,Stoneybatter,Dublin 7,q1,30%
+19/02/2010,"58 Viking Road, Stoneybatter",Dublin,185000.0,No,Stoneybatter,Dublin 7,q2,30%
+19/03/2010,"17 Olaf Road, Stoneybatter",Dublin,230000.0,No,Stoneybatter,Dublin 7,q2,50%
+24/03/2010,"45 Sitric Rd, Stoneybatter, Dublin 7",Dublin,245000.0,No,Stoneybatter,Dublin 7,q2,50%
+28/05/2010,"11 Arklow Street, Stoneybatter",Dublin,217500.0,No,Stoneybatter,Dublin 7,q2,40%
+02/06/2010,"104 Oxmantown Road, Stoneybatter",Dublin,148000.0,No,Stoneybatter,Dublin 7,q1,20%
+11/06/2010,"61 Kirwan Street Cottages, Stoneybatter",Dublin,172000.0,No,Stoneybatter,Dublin 7,q1,30%
+22/06/2010,"20 Viking Road, Stoneybatter",Dublin,282500.0,No,Stoneybatter,Dublin 7,q3,60%
+13/07/2010,"26 Olaf Road, Stoneybatter, Dublin 7",Dublin,160000.0,No,Stoneybatter,Dublin 7,q1,20%
+22/07/2010,"8 Mount Temple Road, Stoneybatter, Dublin 7",Dublin,260000.0,No,Stoneybatter,Dublin 7,q3,60%
+29/07/2010,"8 Ben Edair Road, Stoneybatter, Dublin 7",Dublin,182500.0,No,Stoneybatter,Dublin 7,q2,30%
+18/08/2010,"20 Thor Place, Stoneybatter",Dublin,165000.0,No,Stoneybatter,Dublin 7,q1,20%
+20/10/2010,"16 Sitric Road, Stoneybatter",Dublin,196500.0,No,Stoneybatter,Dublin 7,q2,40%
+22/10/2010,"15 Ostman Place, Stoneybatter",Dublin,240000.0,No,Stoneybatter,Dublin 7,q2,50%
+21/01/2011,"40 Kirwan Street, Stoneybatter",Dublin,199000.0,No,Stoneybatter,Dublin 7,q2,40%
+28/01/2011,"17 Ben Edair View, Stoneybatter",Dublin,156000.0,No,Stoneybatter,Dublin 7,q1,20%
+15/02/2011,"9 Murtagh Road, Stoneybatter",Dublin,180000.0,No,Stoneybatter,Dublin 7,q2,30%
+08/03/2011,"19 Olaf Road, Stoneybatter, Dublin 7",Dublin,220000.0,No,Stoneybatter,Dublin 7,q2,40%
+22/03/2011,"8 Ard Righ Road, Stoneybatter, Dublin 7",Dublin,185000.0,No,Stoneybatter,Dublin 7,q2,30%
+29/03/2011,"13 Olaf Road, Stoneybatter",Dublin,143000.0,No,Stoneybatter,Dublin 7,q1,20%
+19/04/2011,"1  Niall Street, Stoneybatter, Dublin",Dublin,268000.0,No,Stoneybatter,Dublin 7,q3,60%
+20/04/2011,"3 Manor Mews, Stoneybatter, Dublin 7",Dublin,275000.0,No,Stoneybatter,Dublin 7,q3,60%
+26/04/2011,"3 Sitric Road, Stoneybatter",Dublin,205000.0,No,Stoneybatter,Dublin 7,q2,40%
+28/04/2011,"30 Kirwan Street, Stoneybatter, Dublin 7",Dublin,248000.0,No,Stoneybatter,Dublin 7,q2,50%
+11/05/2011,"23 Saint Joseph'S Road, Stoneybatter  Dublin 7",Dublin,255000.0,No,Stoneybatter,Dublin 7,q2,50%
+31/05/2011,"19 Infirmary Road, Stoneybatter, Dublin 7",Dublin,350000.0,No,Stoneybatter,Dublin 7,q4,80%
+11/07/2011,"29 Ben Edair Road, Stoneybatter",Dublin,97000.0,No,Stoneybatter,Dublin 7,q1,10%
+22/07/2011,"29 Murtagh Road, Stoneybatter, Dublin 7",Dublin,150000.0,No,Stoneybatter,Dublin 7,q1,20%
+15/09/2011,"13 Mount Temple Road, Stoneybatter, Dublin",Dublin,195000.0,No,Stoneybatter,Dublin 7,q2,40%
+23/09/2011,"29  Sitric Road, Stoneybatter, Dublin 7",Dublin,195000.0,No,Stoneybatter,Dublin 7,q2,40%
+27/09/2011,"1, Ostman Place, Stoneybatter",Dublin,120000.0,No,Stoneybatter,Dublin 7,q1,10%
+11/10/2011,"42Arbour Hill, Stoneybatter",Dublin,180000.0,No,Stoneybatter,Dublin 7,q2,30%
+14/10/2011,"28 Viking Road, Stoneybatter, Dublin 7",Dublin,115000.0,No,Stoneybatter,Dublin 7,q1,10%
+18/10/2011,"25 Harold Street, Stoneybatter",Dublin,145000.0,No,Stoneybatter,Dublin 7,q1,20%
+18/10/2011,"5 Niall Street, Stoneybatter",Dublin,160000.0,No,Stoneybatter,Dublin 7,q1,20%
+27/10/2011,"7 Niall Street, Stoneybatter",Dublin,131500.0,No,Stoneybatter,Dublin 7,q1,10%
+16/11/2011,"2 Ostman Place, Stoneybatter",Dublin,115250.0,No,Stoneybatter,Dublin 7,q1,10%
+17/11/2011,"9 Kirwan Street, Stoneybatter, Dublin 7",Dublin,160000.0,No,Stoneybatter,Dublin 7,q1,20%
+24/11/2011,"7 Harold Road, Stoneybatter",Dublin,173000.0,No,Stoneybatter,Dublin 7,q1,30%
+25/11/2011,"59 Aughrim Street, Stoneybatter, Dublin 7",Dublin,335000.0,No,Stoneybatter,Dublin 7,q3,80%
+25/11/2011,"7 Malachi Road, Stoneybatter",Dublin,142000.0,No,Stoneybatter,Dublin 7,q1,20%
+02/12/2011,"22 Ben Eadair Road, Stoneybatter",Dublin,70000.0,No,Stoneybatter,Dublin 7,q1,10%
+06/12/2011,"15 Rosse Street, Stoneybatter, Dublin 7",Dublin,145000.0,No,Stoneybatter,Dublin 7,q1,20%
+22/12/2011,"34 Ivar Street, Stoneybatter, Dublin 7",Dublin,167000.0,No,Stoneybatter,Dublin 7,q1,20%
+12/01/2012,"38 Stoneybatter, Dublin 7",Dublin,46250.0,No,Stoneybatter,Dublin 7,q1,10%
+30/01/2012,"10 Sigurd Road, Stoneybatter",Dublin,126000.0,No,Stoneybatter,Dublin 7,q1,10%
+15/02/2012,"9 Sigurd Road, Stoneybatter, Dublin 7",Dublin,101000.0,No,Stoneybatter,Dublin 7,q1,10%
+29/02/2012,"40 Ard Righ Road, Stoneybatter, Dublin 7",Dublin,193000.0,No,Stoneybatter,Dublin 7,q2,40%
+17/04/2012,"26 Temple Road, Stoneybatter, Dublin 7",Dublin,135000.0,No,Stoneybatter,Dublin 7,q1,10%
+31/05/2012,"144 Oxmantown Road, Stoneybatter, Dublin 7",Dublin,164000.0,No,Stoneybatter,Dublin 7,q1,20%
+14/06/2012,"7 Ben Edair Road, Stoneybatter",Dublin,160000.0,No,Stoneybatter,Dublin 7,q1,20%
+28/06/2012,"38 Kirwan Street, Stoneybatter",Dublin,120000.0,No,Stoneybatter,Dublin 7,q1,10%
+05/07/2012,"15 Halliday Square, Arbour Hill, Stoneybatter",Dublin,175000.0,No,Stoneybatter,Dublin 7,q1,30%
+08/08/2012,"30 Stoneybatter, Stoneybatter",Dublin,130000.0,No,Stoneybatter,Dublin 7,q1,10%
+10/08/2012,"10 St. Joseph'S Road, Stoneybatter",Dublin,149000.0,No,Stoneybatter,Dublin 7,q1,20%
+11/09/2012,"Findlater Street, Stoneybatter, Dublin 7",Dublin,110000.0,No,Stoneybatter,Dublin 7,q1,10%
+10/10/2012,"27 Kirwan Street, Stoneybatter",Dublin,133000.0,No,Stoneybatter,Dublin 7,q1,10%
+14/11/2012,"2 Murtagh Road, Stoneybatter",Dublin,125000.0,No,Stoneybatter,Dublin 7,q1,10%
+18/11/2012,"21 Carnew Street, Stoneybatter",Dublin,155000.0,No,Stoneybatter,Dublin 7,q1,20%
+20/11/2012,"26 Ard Righ Road, Stoneybatter",Dublin,244000.0,No,Stoneybatter,Dublin 7,q2,50%
+26/11/2012,"42 Ben Eadair Road, Stoneybatter",Dublin,220000.0,No,Stoneybatter,Dublin 7,q2,50%
+03/12/2012,"187 Oxmantown Road, Stoneybatter",Dublin,185000.0,No,Stoneybatter,Dublin 7,q2,30%
+17/12/2012,"15 Mount Temple Road, Stoneybatter",Dublin,182000.0,No,Stoneybatter,Dublin 7,q2,30%
+19/12/2012,"2 Olaf Road, Stoneybatter, Dublin 7",Dublin,140000.0,No,Stoneybatter,Dublin 7,q1,20%
+20/12/2012,"138 Oxmanstown Road, Stoneybatter",Dublin,230000.0,No,Stoneybatter,Dublin 7,q2,50%
+21/12/2012,"1 Viking Road, Stoneybatter, Dublin 7",Dublin,175000.0,No,Stoneybatter,Dublin 7,q1,30%
+21/12/2012,"105 Oxmantown Road, Stoneybatter, Dublin 7",Dublin,195000.0,No,Stoneybatter,Dublin 7,q2,40%
+31/12/2012,"4 St. Joseph'S Road, Stoneybatter",Dublin,205000.0,No,Stoneybatter,Dublin 7,q2,40%
+30/01/2013,"25 Arklow Street, Stoneybatter, Dublin 7",Dublin,77000.0,No,Stoneybatter,Dublin 7,q1,10%
+05/02/2013,"15 Harold Road, Stoneybatter, Dublin 7",Dublin,188000.0,No,Stoneybatter,Dublin 7,q2,30%
+14/02/2013,"54 Harold Road, Stoneybatter",Dublin,140000.0,No,Stoneybatter,Dublin 7,q1,20%
+13/03/2013,"3 Norseman Court, Manor Street, Stoneybatter",Dublin,109000.0,No,Stoneybatter,Dublin 7,q1,10%
+05/04/2013,"39 Oxmanstown Road, Stoneybatter",Dublin,105000.0,No,Stoneybatter,Dublin 7,q1,10%
+17/04/2013,"7 Ard Righ Road, Stoneybatter, Dublin 7",Dublin,175000.0,No,Stoneybatter,Dublin 7,q1,30%
+10/05/2013,"46 Sitric Road, Stoneybatter",Dublin,205000.0,No,Stoneybatter,Dublin 7,q2,40%
+31/05/2013,"35 Carnew Street, Stoneybatter, Dublin 7",Dublin,205000.0,No,Stoneybatter,Dublin 7,q2,40%
+05/06/2013,"10 Ard Righ Road, Stoneybatter",Dublin,150000.0,No,Stoneybatter,Dublin 7,q1,20%
+07/06/2013,"23 Olaf Road, Stoneybatter, Dublin 7",Dublin,109500.0,No,Stoneybatter,Dublin 7,q1,10%
+07/06/2013,"57 Murtagh Road, Stoneybatter",Dublin,167250.0,No,Stoneybatter,Dublin 7,q1,20%
+25/06/2013,"34 Niall Street, Stoneybatter, Dublin7",Dublin,118000.0,No,Stoneybatter,Dublin 7,q1,10%
+19/07/2013,"9 Thor Place, Stoneybatter",Dublin,80000.0,No,Stoneybatter,Dublin 7,q1,10%
+30/07/2013,"21 Arbour Hill, Stoneybatter",Dublin,293000.0,No,Stoneybatter,Dublin 7,q3,70%
+09/08/2013,"50 Murtagh Road, Stoneybatter, Dublin 7",Dublin,195000.0,No,Stoneybatter,Dublin 7,q2,40%
+13/08/2013,"4 Harold Road, Stoneybatter, Dublin 7",Dublin,138500.0,No,Stoneybatter,Dublin 7,q1,10%
+14/08/2013,"5 Ben Edair Road, Stoneybatter",Dublin,135000.0,No,Stoneybatter,Dublin 7,q1,10%
+21/08/2013,"13 Olaf Road, Stoneybatter, Dublin 7",Dublin,215000.0,No,Stoneybatter,Dublin 7,q2,40%
+04/09/2013,"33 Murtagh Road, Stoneybatter",Dublin,160000.0,No,Stoneybatter,Dublin 7,q1,20%
+06/09/2013,"60 Murtagh Road, Stoneybatter",Dublin,137000.0,No,Stoneybatter,Dublin 7,q1,10%
+10/09/2013,"8 Norseman Place, Stoneybatter, Dublin 7",Dublin,185000.0,No,Stoneybatter,Dublin 7,q2,30%
+08/10/2013,"65 Ellesmere Avenue, Stoneybatter",Dublin,115000.0,No,Stoneybatter,Dublin 7,q1,10%
+11/10/2013,"15 Infirmary Road, Stoneybatter",Dublin,268000.0,No,Stoneybatter,Dublin 7,q3,60%
+11/10/2013,"6 Carnew Street, Stoneybatter",Dublin,175000.0,No,Stoneybatter,Dublin 7,q1,30%
+15/10/2013,"6 & 7 Arbour Hill, Stoneybatter",Dublin,230000.0,No,Stoneybatter,Dublin 7,q2,50%
+15/10/2013,"60 Viking Road, Stoneybatter",Dublin,175000.0,No,Stoneybatter,Dublin 7,q1,30%
+22/10/2013,"4 Cowper Street, Stoneybatter",Dublin,152000.0,No,Stoneybatter,Dublin 7,q1,20%
+24/10/2013,"27 Ross Street, Stoneybatter",Dublin,120000.0,No,Stoneybatter,Dublin 7,q1,10%
+30/10/2013,"55 Manor Place, Stoneybatter",Dublin,172220.0,No,Stoneybatter,Dublin 7,q1,30%
+31/10/2013,"19 Manor Place, Stoneybatter",Dublin,260000.0,No,Stoneybatter,Dublin 7,q3,60%
+01/11/2013,"8 Malachi Road, Stoneybatter, Dublin 7",Dublin,125000.0,No,Stoneybatter,Dublin 7,q1,10%
+07/11/2013,"27 Malachi Road, Stoneybatter",Dublin,140000.0,No,Stoneybatter,Dublin 7,q1,20%
+12/11/2013,"5 Prussia Street, Stoneybatter, Dublin 7",Dublin,220000.0,No,Stoneybatter,Dublin 7,q2,50%
+22/11/2013,"40 Arklow St, Stoneybatter, Dublin 7",Dublin,190000.0,No,Stoneybatter,Dublin 7,q2,30%
+16/12/2013,"19 Malachi Rd, Stoneybatter, Dublin 7",Dublin,150000.0,No,Stoneybatter,Dublin 7,q1,20%
+18/12/2013,"3 St Josephs Pl, Stoneybatter, Dublin 7",Dublin,100000.0,No,Stoneybatter,Dublin 7,q1,10%
+19/12/2013,"31 Blackhall Green, Blackhall Place, Stoneybatter Dublin 7",Dublin,150000.0,No,Stoneybatter,Dublin 7,q1,20%
+19/12/2013,"34 Carnew St, Stoneybatter, Dublin 7",Dublin,220000.0,No,Stoneybatter,Dublin 7,q2,50%
+23/12/2013,"3 Arbour Hill, Stoneybatter, Dublin 7",Dublin,221600.0,No,Stoneybatter,Dublin 7,q2,50%
+10/01/2014,"3 Manor Street, Stoneybatter",Dublin,92400.0,No,Stoneybatter,Dublin 7,q1,10%
+16/01/2014,"8 Black Street, Stoneybatter, Dublin 7",Dublin,130000.0,No,Stoneybatter,Dublin 7,q1,10%
+12/02/2014,"17 Malachi Rd, Stoneybatter, Dublin 7",Dublin,151000.0,No,Stoneybatter,Dublin 7,q1,20%
+07/03/2014,"3 Carnew St, Stoneybatter, Dublin 7",Dublin,325000.0,No,Stoneybatter,Dublin 7,q3,80%
+31/03/2014,"1 Kirwan Street Cottages, Stoneybatter, Dublin 7",Dublin,188000.0,No,Stoneybatter,Dublin 7,q2,30%
+08/04/2014,"10 Ard Righ Place, Stoneybatter, Dublin 7",Dublin,258000.0,No,Stoneybatter,Dublin 7,q2,50%
+29/04/2014,"38 Manor St, Stoneybatter, Dublin 7",Dublin,335000.0,No,Stoneybatter,Dublin 7,q3,80%
+30/04/2014,"30 Arklow St, Stoneybatter, Dublin 7",Dublin,200000.0,No,Stoneybatter,Dublin 7,q2,40%
+26/06/2014,"23 Olaf Rd, Stoneybatter, Dublin 7",Dublin,250000.0,No,Stoneybatter,Dublin 7,q2,50%
+30/06/2014,"94 Oxmantown Road, Stoneybatter, Dublin 7",Dublin,265000.0,No,Stoneybatter,Dublin 7,q3,60%
+16/07/2014,"1 Arbour Hill, Stoneybatter, Dublin 7",Dublin,100000.0,No,Stoneybatter,Dublin 7,q1,10%
+15/08/2014,"48 Murtagh Rd, Stoneybatter, Dublin 7",Dublin,295000.0,No,Stoneybatter,Dublin 7,q3,70%
+29/08/2014,"32 Ashford St, Stoneybatter, Dublin 7",Dublin,173000.0,No,Stoneybatter,Dublin 7,q1,30%
+10/09/2014,"56 Harold Rd, Stoneybatter, Dublin 7",Dublin,265000.0,No,Stoneybatter,Dublin 7,q3,60%
+12/09/2014,"83  Oxmantown Road, Stoneybatter, Dublin 7",Dublin,237500.0,No,Stoneybatter,Dublin 7,q2,50%
+15/09/2014,"16 Sitric Road, Stoneybatter, Dublin",Dublin,302000.0,No,Stoneybatter,Dublin 7,q3,70%
+23/09/2014,"2 Murtagh Rd, Stoneybatter, Dublin City",Dublin,336000.0,No,Stoneybatter,Dublin 7,q4,80%
+26/09/2014,"11 Sigurd Road, Stoneybatter, Dublin 7",Dublin,231000.0,No,Stoneybatter,Dublin 7,q2,50%
+06/10/2014,"1 Harold Rd, Stoneybatter, Dublin 7",Dublin,365000.0,No,Stoneybatter,Dublin 7,q4,90%
+03/11/2014,"41 Arklow St, Stoneybatter, Dublin 7",Dublin,180000.0,No,Stoneybatter,Dublin 7,q2,30%
+18/11/2014,"39 Finn St, Stoneybatter, Dublin 7",Dublin,250000.0,No,Stoneybatter,Dublin 7,q2,50%
+24/11/2014,"5 Viking Rd, Stoneybatter, Dublin 7",Dublin,300000.0,No,Stoneybatter,Dublin 7,q3,70%
+25/11/2014,"1 Ben Edair Rd, Stoneybatter, Dublin 7",Dublin,283625.0,No,Stoneybatter,Dublin 7,q3,60%
+19/12/2014,"2 Olaf Rd, Stoneybatter, Dublin 7",Dublin,255000.0,No,Stoneybatter,Dublin 7,q2,50%
+19/12/2014,"39 Malachi Rd, Stoneybatter, Dublin 9",Dublin,195000.0,No,Stoneybatter,Dublin 7,q2,40%
+19/12/2014,"49 Carnew St, Stoneybatter, Circular Rd North Dublin 7",Dublin,280000.0,No,Stoneybatter,Dublin 7,q3,60%
+22/12/2014,"24 Norseman Court, Manor Street, Stoneybatter",Dublin,151139.0,No,Stoneybatter,Dublin 7,q1,20%
+22/12/2014,"65 Manor St, Stoneybatter, Dublin 7",Dublin,251899.0,No,Stoneybatter,Dublin 7,q2,50%
+23/12/2014,"36 Manor St, Stoneybatter, Dublin 7",Dublin,250000.0,No,Stoneybatter,Dublin 7,q2,50%
+09/01/2015,"33 Sitric Road, Stoneybatter, Dublin 7",Dublin,320000.0,No,Stoneybatter,Dublin 7,q3,70%
+09/02/2015,"35 Arklow Street, Stoneybatter",Dublin,250000.0,No,Stoneybatter,Dublin 7,q2,50%
+13/02/2015,"3 Manor Mews, Norseman Place, Stoneybatter Dublin 7",Dublin,386000.0,No,Stoneybatter,Dublin 7,q4,90%
+02/03/2015,"6 Viking Rd, Arbour Hill, Stoneybatter Dublin 7",Dublin,290000.0,No,Stoneybatter,Dublin 7,q3,60%
+10/03/2015,"55 Ard Righ Road, Stoneybatter, Dublin",Dublin,270000.0,No,Stoneybatter,Dublin 7,q3,60%
+12/03/2015,"20 Norseman Place, Stoneybatter, Dublin 7",Dublin,195000.0,No,Stoneybatter,Dublin 7,q2,40%
+12/03/2015,"21 Norseman Place, Stoneybatter, Dublin 7",Dublin,195000.0,No,Stoneybatter,Dublin 7,q2,40%
+12/03/2015,"22 Norseman Place, Stoneybatter, Dublin 7",Dublin,195000.0,No,Stoneybatter,Dublin 7,q2,40%
+12/03/2015,"23 Norseman Place, Stoneybatter, Dublin 7",Dublin,195000.0,No,Stoneybatter,Dublin 7,q2,40%
+20/03/2015,"23 Niall St, Stoneybatter, Dublin",Dublin,216500.0,No,Stoneybatter,Dublin 7,q2,40%
+25/03/2015,"Apt A, 77 Aughrim St, Stoneybatter Dublin 7",Dublin,297699.0,No,Stoneybatter,Dublin 7,q3,70%
+31/03/2015,"18 Ashford St, Stoneybatter, Dublin 7",Dublin,210000.0,No,Stoneybatter,Dublin 7,q2,40%
+01/04/2015,"38 Murtagh Rd, Stoneybatter, Dublin",Dublin,275000.0,No,Stoneybatter,Dublin 7,q3,60%
+10/04/2015,"25 Niall St, Stoneybatter, Dublin 7",Dublin,197500.0,No,Stoneybatter,Dublin 7,q2,40%
+14/04/2015,"15 Harold Rd, Stoneybatter, Dublin 7",Dublin,280000.0,No,Stoneybatter,Dublin 7,q3,60%
+16/04/2015,"191 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,282000.0,No,Stoneybatter,Dublin 7,q3,60%
+13/05/2015,"25 Sitric Rd, Stoneybatter, Dublin 7",Dublin,320000.0,No,Stoneybatter,Dublin 7,q3,70%
+13/05/2015,"9 Ostman Place, Stoneybatter, Dublin 7",Dublin,245000.0,No,Stoneybatter,Dublin 7,q2,50%
+15/05/2015,"141 Oxmantown Road, Stoneybatter",Dublin,310000.0,No,Stoneybatter,Dublin 7,q3,70%
+21/05/2015,"2 Malachi Road, Stoneybatter, Dublin 7",Dublin,190000.0,No,Stoneybatter,Dublin 7,q2,30%
+28/05/2015,"35 Manor St, Stoneybatter, Dublin 7",Dublin,400000.0,No,Stoneybatter,Dublin 7,q4,100%
+05/06/2015,"45 Carnew St, Stoneybatter, Dublin",Dublin,297000.0,No,Stoneybatter,Dublin 7,q3,70%
+23/06/2015,"17 Ivar St, Stoneybatter, Dublin 7",Dublin,240000.0,No,Stoneybatter,Dublin 7,q2,50%
+03/07/2015,"8 Manor Place, Stoneybatter, Dublin 7",Dublin,341350.0,No,Stoneybatter,Dublin 7,q4,80%
+31/07/2015,"19 Niall Street, Stoneybatter, Dublin 7",Dublin,215000.0,No,Stoneybatter,Dublin 7,q2,40%
+17/08/2015,"25 Finn St, Stoneybatter, Dublin 7",Dublin,265000.0,No,Stoneybatter,Dublin 7,q3,60%
+21/08/2015,"28 Black Hall Place, Stoneybatter",Dublin,270000.0,No,Stoneybatter,Dublin 7,q3,60%
+02/09/2015,"43 Finn Street, Stoneybatter",Dublin,280000.0,No,Stoneybatter,Dublin 7,q3,60%
+24/09/2015,"42 Sitric Rd, Stoneybatter, Dublin 7",Dublin,285000.0,No,Stoneybatter,Dublin 7,q3,60%
+01/10/2015,"41 Sitric Road, Stoneybatter",Dublin,240000.0,No,Stoneybatter,Dublin 7,q2,50%
+08/10/2015,"56 Kirwan St Cottages, Stoneybatter, Dublin 7",Dublin,190000.0,No,Stoneybatter,Dublin 7,q2,40%
+13/10/2015,"3 St Marys Terrace, Arbour Place, Stoneybatter",Dublin,275000.0,No,Stoneybatter,Dublin 7,q3,60%
+16/10/2015,"36 Sitric Rd, Stoneybatter, Dublin 7",Dublin,287500.0,No,Stoneybatter,Dublin 7,q3,60%
+27/10/2015,"23 Finn St, Stoneybatter, Dublin 7",Dublin,240000.0,No,Stoneybatter,Dublin 7,q2,50%
+29/10/2015,"27 Ashford St, Stoneybatter, Dublin 7",Dublin,216000.0,No,Stoneybatter,Dublin 7,q2,40%
+30/10/2015,"1 Sitric Place, Stoneybatter, Dublin 7",Dublin,255000.0,No,Stoneybatter,Dublin 7,q2,50%
+26/11/2015,"12 Viking Place, Stoneybatter, Dublin 7",Dublin,320000.0,No,Stoneybatter,Dublin 7,q3,70%
+15/12/2015,"9 Kirwan Street, Stoneybatter, Dublin 7",Dublin,297000.0,No,Stoneybatter,Dublin 7,q3,70%
+19/12/2015,"27 Sigurd Rd, Stoneybatter, Dublin 7",Dublin,232000.0,No,Stoneybatter,Dublin 7,q2,50%
+21/12/2015,"10 Niall St, Stoneybatter, Dublin 7",Dublin,272000.0,No,Stoneybatter,Dublin 7,q3,60%
+11/01/2016,"15 Ben Edair Rd, Stoneybatter, Dublin 7",Dublin,235000.0,No,Stoneybatter,Dublin 7,q2,50%
+20/01/2016,"14 Olaf Rd, Stoneybatter, Dublin 7",Dublin,262000.0,No,Stoneybatter,Dublin 7,q3,60%
+29/01/2016,"19 Black Street, Infirmary Road, Stoneybatter",Dublin,217000.0,No,Stoneybatter,Dublin 7,q2,40%
+15/02/2016,"22, Blackhall Place, Stoneybatter Dublin 7",Dublin,150000.0,No,Stoneybatter,Dublin 7,q1,20%
+23/02/2016,"14 Ivar St, Stoneybatter, Dublin 7",Dublin,361000.0,No,Stoneybatter,Dublin 7,q4,90%
+24/02/2016,"10 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,255000.0,No,Stoneybatter,Dublin 7,q2,50%
+02/03/2016,"32 Aughrim Street, Stoneybatter, Dublin 7",Dublin,426000.0,No,Stoneybatter,Dublin 7,q4,100%
+16/03/2016,"31 Malachi Rd, Stoneybatter, Dublin",Dublin,204000.0,No,Stoneybatter,Dublin 7,q2,40%
+05/05/2016,"2 O Sheas Court, Manor St, Stoneybatter Dublin 7",Dublin,350000.0,No,Stoneybatter,Dublin 7,q4,80%
+09/05/2016,"172 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,294000.0,No,Stoneybatter,Dublin 7,q3,70%
+08/06/2016,"23 Mount Temple Rd, Stoneybatter, Dublin 7",Dublin,260000.0,No,Stoneybatter,Dublin 7,q3,60%
+09/06/2016,"8 Temple Court, Palatine Square, Stoneybatter",Dublin,330000.0,No,Stoneybatter,Dublin 7,q3,80%
+19/07/2016,"32 Malachi Road, Stoneybatter",Dublin,226000.0,Yes,Stoneybatter,Dublin 7,q2,50%
+29/07/2016,"24 Blackhall Green, Blackhall Place, Stoneybatter Dublin 24",Dublin,195000.0,No,Stoneybatter,Dublin 7,q2,40%
+02/08/2016,"14 Murtagh Rd, Stoneybatter, Dublin 7",Dublin,342000.0,No,Stoneybatter,Dublin 7,q4,80%
+02/08/2016,"3 Sitric Rd, Stoneybatter, Dublin 7",Dublin,351000.0,No,Stoneybatter,Dublin 7,q4,90%
+04/08/2016,"70 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,292000.0,No,Stoneybatter,Dublin 7,q3,70%
+11/08/2016,"48 Murtagh Rd, Stoneybatter, Dublin 7",Dublin,343000.0,No,Stoneybatter,Dublin 7,q4,80%
+12/08/2016,"46 Manor Place, Stoneybatter, Dublin 7",Dublin,317000.0,No,Stoneybatter,Dublin 7,q3,70%
+23/08/2016,"43 Harold Rd, Stoneybatter, Dublin 7",Dublin,350000.0,No,Stoneybatter,Dublin 7,q4,80%
+25/08/2016,"97 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,292000.0,No,Stoneybatter,Dublin 7,q3,70%
+09/09/2016,"28 Sitric Road, Stoneybatter, Dublin 7",Dublin,352000.0,No,Stoneybatter,Dublin 7,q4,90%
+15/09/2016,"Apt 29, Brunswick Court, Stoneybatter Dublin 7",Dublin,176211.5,No,Stoneybatter,Dublin 7,q1,30%
+30/10/2016,"65 Manor St, Stoneybatter, Dublin 7",Dublin,330000.0,No,Stoneybatter,Dublin 7,q3,80%
+18/11/2016,"30 Findlater St, Stoneybatter, Dublin 7",Dublin,175000.0,No,Stoneybatter,Dublin 7,q1,30%
+22/11/2016,"5 Ross St, Stoneybatter, Dublin 7",Dublin,252000.0,No,Stoneybatter,Dublin 7,q2,50%
+25/11/2016,"43 Viking Rd, Stoneybatter, Dublin 7",Dublin,301000.0,No,Stoneybatter,Dublin 7,q3,70%
+30/11/2016,"28 Harold Rd, Stoneybatter, Dublin 7",Dublin,325000.0,No,Stoneybatter,Dublin 7,q3,80%
+09/12/2016,"33 Malachi Rd, Stoneybatter, Dublin",Dublin,228500.0,No,Stoneybatter,Dublin 7,q2,50%
+12/12/2016,"66 Viking Rd, Stoneybatter, Dublin 7",Dublin,294000.0,No,Stoneybatter,Dublin 7,q3,70%
+15/12/2016,"20 Kirwan Street, Stoneybatter, Dublin 7",Dublin,170000.0,Yes,Stoneybatter,Dublin 7,q1,20%
+15/12/2016,"23 Kirwan Street, Stoneybatter, Dublin 7",Dublin,340000.0,Yes,Stoneybatter,Dublin 7,q4,80%
+15/12/2016,"41 Kirwan Street, Stoneybatter, Dublin 7",Dublin,510000.0,No,Stoneybatter,Dublin 7,q4,100%
+23/12/2016,"11A Arbour Place, Stoneybatter, Dublin 7",Dublin,185000.0,No,Stoneybatter,Dublin 7,q2,30%
+23/12/2016,"Apt 1, 77 Aughrim St, Stoneybatter",Dublin,320000.0,No,Stoneybatter,Dublin 7,q3,70%
+02/02/2017,"33 Ard Righ Rd, Stoneybatter, Dublin 7",Dublin,365000.0,No,Stoneybatter,Dublin 7,q4,90%
+17/02/2017,"28 Halliday Sq, Stoneybatter, Dublin 7",Dublin,34927.0,No,Stoneybatter,Dublin 7,q1,10%
+28/02/2017,"68 Prussia Street, Stoneybatter, Dublin 7",Dublin,175750.0,No,Stoneybatter,Dublin 7,q1,30%
+03/03/2017,"11 Halliday Sq, Stoneybatter, Dublin 7",Dublin,355000.0,No,Stoneybatter,Dublin 7,q4,90%
+14/03/2017,"1 Carnew St, Stoneybatter, Dublin 7",Dublin,385000.0,No,Stoneybatter,Dublin 7,q4,90%
+24/03/2017,"3 Ashford Place, Oxmantown Rd, Stoneybatter",Dublin,256500.0,No,Stoneybatter,Dublin 7,q2,50%
+10/04/2017,"Apt.1, 76 Aughrim St, Stoneybatter",Dublin,315000.0,No,Stoneybatter,Dublin 7,q3,70%
+11/04/2017,"4 Aughrim Place, Stoneybatter, Dublin 7",Dublin,460000.0,Yes,Stoneybatter,Dublin 7,q4,100%
+12/04/2017,"18 & 19 Norseman Place, Stoneybatter, Dublin 7",Dublin,390000.0,No,Stoneybatter,Dublin 7,q4,90%
+27/04/2017,"80 Aughrim St, Stoneybatter, Dublin 7",Dublin,450000.0,No,Stoneybatter,Dublin 7,q4,100%
+17/05/2017,"13A  B & C Arbour Hill, Stoneybatter, Dublin 7",Dublin,160000.0,Yes,Stoneybatter,Dublin 7,q1,20%
+18/05/2017,"34 Kirwan Street, Stoneybatter, Dublin 7",Dublin,180000.0,No,Stoneybatter,Dublin 7,q2,30%
+19/05/2017,"44 Niall St, Stoneybatter, Dublin",Dublin,308000.0,No,Stoneybatter,Dublin 7,q3,70%
+23/05/2017,"2 Arbour Terrace, Stoneybatter, Dublin 7",Dublin,315000.0,No,Stoneybatter,Dublin 7,q3,70%
+30/05/2017,"10 Sigurd Rd, Stoneybatter, Dublin",Dublin,300000.0,No,Stoneybatter,Dublin 7,q3,70%
+08/06/2017,"3 St Marys Terrace, Arbour Place, Stoneybatter",Dublin,385000.0,No,Stoneybatter,Dublin 7,q4,90%
+04/07/2017,"17 St Josephs Rd, Stoneybatter, Dublin 7",Dublin,460000.0,No,Stoneybatter,Dublin 7,q4,100%
+17/07/2017,"10 Arklow St, Stoneybatter, Dublin 7",Dublin,165000.0,No,Stoneybatter,Dublin 7,q1,20%
+17/07/2017,"145 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,390000.0,No,Stoneybatter,Dublin 7,q4,90%
+20/07/2017,"35 Norseman Court, Manor St, Stoneybatter",Dublin,175000.0,No,Stoneybatter,Dublin 7,q1,30%
+24/07/2017,"7 Viking Rd, Stoneybatter, Dublin 7",Dublin,332000.0,No,Stoneybatter,Dublin 7,q3,80%
+03/08/2017,"5 Manor Place, Stoneybatter, Dublin 7",Dublin,470000.0,No,Stoneybatter,Dublin 7,q4,100%
+15/08/2017,"12 Sigurd Rd, Stoneybatter, Dublin 7",Dublin,310000.0,No,Stoneybatter,Dublin 7,q3,70%
+21/08/2017,"186 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,400000.0,No,Stoneybatter,Dublin 7,q4,100%
+04/09/2017,"13 Kirwan St Cottages, Stoneybatter, Dublin 7",Dublin,264000.0,No,Stoneybatter,Dublin 7,q3,60%
+04/09/2017,"23 Kirwan Street, Stoneybatter, Dublin 7",Dublin,190000.0,No,Stoneybatter,Dublin 7,q2,40%
+21/09/2017,"9 Harold Rd, Stoneybatter, Dublin 7",Dublin,367000.0,No,Stoneybatter,Dublin 7,q4,90%
+22/09/2017,"34 Halliday Sq, Stoneybatter, Dublin 7",Dublin,300000.0,No,Stoneybatter,Dublin 7,q3,70%
+02/10/2017,"34 Viking Rd, Stoneybatter, Dublin 7",Dublin,360000.0,No,Stoneybatter,Dublin 7,q4,90%
+02/11/2017,"7 St Josephs Rd, Stoneybatter, Dublin 7",Dublin,497000.0,No,Stoneybatter,Dublin 7,q4,100%
+09/11/2017,"18 Thor Place, Stoneybatter, Dublin 7",Dublin,275000.0,No,Stoneybatter,Dublin 7,q3,60%
+13/11/2017,"Apt 16 Norseman Court, Manor Street, Stoneybatter",Dublin,380000.0,No,Stoneybatter,Dublin 7,q4,90%
+16/11/2017,"29 Halliday Sq, Stoneybatter, Dublin 7",Dublin,400000.0,No,Stoneybatter,Dublin 7,q4,100%
+17/11/2017,"36 Kirwan St Cottages, Stoneybatter, Dublin 7",Dublin,265000.0,No,Stoneybatter,Dublin 7,q3,60%
+20/11/2017,"41 Viking Rd, Stoneybatter, Dublin 7",Dublin,392000.0,No,Stoneybatter,Dublin 7,q4,100%
+21/11/2017,"47 Finn St, Stoneybatter, Dublin 7",Dublin,335000.0,No,Stoneybatter,Dublin 7,q3,80%
+23/11/2017,"16 Niall St, Stoneybatter, Dublin 7",Dublin,190000.0,No,Stoneybatter,Dublin 7,q2,40%
+27/11/2017,"120 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,385000.0,No,Stoneybatter,Dublin 7,q4,90%
+05/12/2017,"18 Ross St, Stoneybatter, Dublin 7",Dublin,290000.0,No,Stoneybatter,Dublin 7,q3,60%
+07/12/2017,"116 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,410000.0,No,Stoneybatter,Dublin 7,q4,100%
+21/12/2017,"179 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,390000.0,No,Stoneybatter,Dublin 7,q4,90%
+22/12/2017,"56 Norseman Court, Manor St, Stoneybatter Dublin 7",Dublin,175000.0,No,Stoneybatter,Dublin 7,q1,30%
+05/01/2018,"39 Sitric Rd, Stoneybatter, Dublin 7",Dublin,335000.0,No,Stoneybatter,Dublin 7,q4,80%
+22/01/2018,"17 Manor Place, Stoneybatter, Dublin 7",Dublin,460000.0,No,Stoneybatter,Dublin 7,q4,100%
+01/02/2018,"47 Murtagh Rd, Stoneybatter, Dublin 7",Dublin,372000.0,No,Stoneybatter,Dublin 7,q4,90%
+22/02/2018,"10 Ashford Place, Stoneybatter, Dublin 7",Dublin,295000.0,No,Stoneybatter,Dublin 7,q3,70%
+22/02/2018,"2 Cowper Street, Stoneybatter, Dublin 7",Dublin,400000.0,No,Stoneybatter,Dublin 7,q4,100%
+06/03/2018,"9 Finn St, Stoneybatter, Dublin 7",Dublin,370000.0,No,Stoneybatter,Dublin 7,q4,90%
+07/03/2018,"1 Dawson Place, Stoneybatter, Dublin 7",Dublin,452155.28,Yes,Stoneybatter,Dublin 7,q4,100%
+09/03/2018,"17 Carnew St, Stoneybatter, Dublin 7",Dublin,420000.0,No,Stoneybatter,Dublin 7,q4,100%
+09/03/2018,"5 Ard Righ Rd, Stoneybatter, Dublin 7",Dublin,395000.0,No,Stoneybatter,Dublin 7,q4,100%
+20/03/2018,"22 Niall St, Stoneybatter, Dublin 7",Dublin,345000.0,No,Stoneybatter,Dublin 7,q4,80%
+27/03/2018,"107 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,390000.0,No,Stoneybatter,Dublin 7,q4,100%
+27/03/2018,"22 Halliday Sq, Stoneybatter, Dublin 7",Dublin,327000.0,No,Stoneybatter,Dublin 7,q3,80%
+16/04/2018,"No 7 Kirwin Street, Stoneybatter, Dublin 7",Dublin,380000.0,No,Stoneybatter,Dublin 7,q4,90%
+27/04/2018,"8 Ben Edair Rd, Stoneybatter, Dublin",Dublin,365000.0,No,Stoneybatter,Dublin 7,q4,90%
+02/05/2018,"82 Kirwan St Cottages, Stoneybatter, Dublin 7",Dublin,200000.0,No,Stoneybatter,Dublin 7,q2,40%
+05/06/2018,"60 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,350000.0,No,Stoneybatter,Dublin 7,q4,80%
+06/06/2018,"43 Viking Rd, Stoneybatter, Dublin 7",Dublin,390000.0,No,Stoneybatter,Dublin 7,q4,100%
+11/06/2018,"31 Ben Edair Rd, Stoneybatter, Dublin 7",Dublin,348000.0,No,Stoneybatter,Dublin 7,q4,80%
+14/06/2018,"Apt 27 Norseman Court, Manor Street, Stoneybatter",Dublin,291000.0,No,Stoneybatter,Dublin 7,q3,60%
+20/06/2018,"4 Kirwan St, Stoneybatter, Dublin 7",Dublin,317000.0,No,Stoneybatter,Dublin 7,q3,70%
+26/06/2018,"32 Halliday Sq, Stoneybatter, Dublin 7",Dublin,353200.0,No,Stoneybatter,Dublin 7,q4,90%
+26/06/2018,"45 Ard Righ Rd, Stoneybatter, Dublin 7",Dublin,190800.0,No,Stoneybatter,Dublin 7,q2,40%
+27/06/2018,"25 Harold Rd, Stoneybatter, Dublin 7",Dublin,345000.0,No,Stoneybatter,Dublin 7,q4,80%
+06/07/2018,"5 Ashford Place, Stoneybatter, Dublin 7",Dublin,280000.0,No,Stoneybatter,Dublin 7,q3,60%
+17/07/2018,"21 Murtagh Rd, Stoneybatter, Dublin 7",Dublin,370000.0,No,Stoneybatter,Dublin 7,q4,90%
+23/07/2018,"51 Harold Rd, Stoneybatter, Dublin",Dublin,320000.0,No,Stoneybatter,Dublin 7,q3,70%
+24/07/2018,"6 Olaf Rd, Stoneybatter, Dublin 7",Dublin,342500.0,No,Stoneybatter,Dublin 7,q4,80%
+30/07/2018,"11 Arklow St, Stoneybatter, Dublin 7",Dublin,300000.0,No,Stoneybatter,Dublin 7,q3,70%
+30/07/2018,"78 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,390000.0,No,Stoneybatter,Dublin 7,q4,100%
+31/07/2018,"1 Cowper St, Stoneybatter, Dublin 7",Dublin,390000.0,No,Stoneybatter,Dublin 7,q4,100%
+27/08/2018,"176 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,416000.0,No,Stoneybatter,Dublin 7,q4,100%
+28/08/2018,"4 Sitric Place, Stoneybatter, Dublin 7",Dublin,332500.0,No,Stoneybatter,Dublin 7,q3,80%
+25/09/2018,"35 Norseman Court, Manor St, Stoneybatter",Dublin,178550.73,No,Stoneybatter,Dublin 7,q1,30%
+24/10/2018,"30 Ard Righ Rd, Stoneybatter, Dublin 7",Dublin,422500.0,No,Stoneybatter,Dublin 7,q4,100%
+30/10/2018,"24 Kirwan St Cottages, Stoneybatter, Dublin 7",Dublin,265000.0,No,Stoneybatter,Dublin 7,q3,60%
+01/11/2018,"19 Ashford St, Stoneybatter, Dublin 7",Dublin,325000.0,No,Stoneybatter,Dublin 7,q3,80%
+09/11/2018,"16A Arbour Hill, Stoneybatter, Arbour Hill",Dublin,370000.0,No,Stoneybatter,Dublin 7,q4,90%
+21/11/2018,"26 Aberdeen St, Stoneybatter, Dublin 7",Dublin,343000.0,No,Stoneybatter,Dublin 7,q4,80%
+23/11/2018,"26 Olaf Rd, Stoneybatter, Dublin 7",Dublin,331000.0,No,Stoneybatter,Dublin 7,q3,80%
+10/12/2018,"4 Aughrim Place, Stoneybatter, Dublin 7",Dublin,570000.0,No,Stoneybatter,Dublin 7,q4,100%
+18/12/2018,"3 St Josephs Pl, Stoneybatter, Dublin 7",Dublin,374000.0,No,Stoneybatter,Dublin 7,q4,90%
+19/12/2018,"46 Aughrim St, Stoneybatter, Dublin 7",Dublin,650000.0,No,Stoneybatter,Dublin 7,q4,100%
+15/01/2019,"Peat House, Oxmantown Road, Stoneybatter",Dublin,160416.0,Yes,Stoneybatter,Dublin 7,q1,20%
+15/01/2019,"The Peat House, Oxmantown Road, Stoneybatter",Dublin,160416.0,Yes,Stoneybatter,Dublin 7,q1,20%
+16/01/2019,"13 Ross St, Stoneybatter, Dublin 7",Dublin,319000.0,No,Stoneybatter,Dublin 7,q3,70%
+24/01/2019,"27 Sitric Rd, Stoneybatter, Dublin 7",Dublin,395000.0,No,Stoneybatter,Dublin 7,q4,100%
+29/01/2019,"34 Montpelier Hill, Stoneybatter, Dublin 7",Dublin,490000.0,No,Stoneybatter,Dublin 7,q4,100%
+05/02/2019,"55 Niall St, Stoneybatter, Dublin 7",Dublin,320000.0,No,Stoneybatter,Dublin 7,q3,70%
+11/02/2019,"1 Malachi Rd, Stoneybatter, Dublin 7",Dublin,330000.0,No,Stoneybatter,Dublin 7,q3,80%
+08/03/2019,"32 Arklow Street, Stoneybatter, Dublin 7",Dublin,325000.0,No,Stoneybatter,Dublin 7,q3,80%
+14/03/2019,"26 Aughrim St, Stoneybatter, Dublin 7",Dublin,453000.0,No,Stoneybatter,Dublin 7,q4,100%
+15/03/2019,"54 Carnew St, Stoneybatter, Dublin 7",Dublin,387500.0,No,Stoneybatter,Dublin 7,q4,90%
+20/03/2019,"Peat House, Oxmanstown Road, Stoneybatter",Dublin,396475.77,Yes,Stoneybatter,Dublin 7,q4,100%
+08/04/2019,"11 Finn St, Stoneybatter, Dublin 7",Dublin,360000.0,No,Stoneybatter,Dublin 7,q4,90%
+17/04/2019,"5 Ashford St, Stoneybatter, Dublin 7",Dublin,295000.0,No,Stoneybatter,Dublin 7,q3,70%
+03/05/2019,"15 Norseman Court, Manor St, Stoneybatter Dublin 7",Dublin,325000.0,No,Stoneybatter,Dublin 7,q3,80%
+08/05/2019,"46 Sitric Rd, Stoneybatter, Dublin 7",Dublin,358000.0,No,Stoneybatter,Dublin 7,q4,90%
+20/05/2019,"12 Finn St, Stoneybatter, Dublin 7",Dublin,175000.0,No,Stoneybatter,Dublin 7,q1,30%
+24/05/2019,"3 Arbour Hill, Stoneybatter, Dublin 7",Dublin,5900.0,No,Stoneybatter,Dublin 7,q1,10%
+07/06/2019,"141 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,395000.0,No,Stoneybatter,Dublin 7,q4,100%
+17/06/2019,"8 Ostman Place, Stoneybatter, Dublin 7",Dublin,325000.0,No,Stoneybatter,Dublin 7,q3,80%
+19/06/2019,"48 Harold Rd, Stoneybatter, Dublin 7",Dublin,280000.0,No,Stoneybatter,Dublin 7,q3,60%
+20/06/2019,"19 Sitric Rd, Stoneybatter, Dublin 7",Dublin,360000.0,No,Stoneybatter,Dublin 7,q4,90%
+28/06/2019,"28 Harold Rd, Stoneybatter, Dublin 7",Dublin,350000.0,No,Stoneybatter,Dublin 7,q4,90%
+01/07/2019,"6 Norseman Court, Manor St, Stoneybatter Dublin 7",Dublin,320000.0,No,Stoneybatter,Dublin 7,q3,70%
+15/07/2019,"27 Kirwan St, Stoneybatter, Dublin City",Dublin,370000.0,No,Stoneybatter,Dublin 7,q4,90%
+23/07/2019,"Apartment 1, 65 Manor Street, Stoneybatter",Dublin,652500.0,No,Stoneybatter,Dublin 7,q4,100%
+24/07/2019,"20 Findlater St, Stoneybatter, Dublin 7",Dublin,277000.0,No,Stoneybatter,Dublin 7,q3,60%
+31/07/2019,"17 Harold Road, Stoneybatter, Dublin 7",Dublin,340000.0,No,Stoneybatter,Dublin 7,q4,80%
+22/08/2019,"23 St Josephs Rd, Stoneybatter, Dublin 7",Dublin,538000.0,No,Stoneybatter,Dublin 7,q4,100%
+23/08/2019,"51 Oxmantown Rd, Stoneybatter, Dublin 7",Dublin,360000.0,No,Stoneybatter,Dublin 7,q4,90%
+06/09/2019,"21 Sitric Rd, Stoneybatter, Dublin",Dublin,370000.0,No,Stoneybatter,Dublin 7,q4,90%
+12/09/2019,"36 Arklow St, Stoneybatter, Dublin 7",Dublin,320000.0,No,Stoneybatter,Dublin 7,q3,70%
+26/09/2019,"45 Manor Place, Stoneybatter, Dublin 7",Dublin,440000.0,No,Stoneybatter,Dublin 7,q4,100%
+30/09/2019,"56 Murtagh Rd, Stoneybatter, Dublin",Dublin,384000.0,No,Stoneybatter,Dublin 7,q4,90%
+01/10/2019,"37 Harold Rd, Stoneybatter, Dublin 7",Dublin,340000.0,No,Stoneybatter,Dublin 7,q4,80%

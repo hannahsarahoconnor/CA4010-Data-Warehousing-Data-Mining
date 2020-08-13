@@ -1,0 +1,1091 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+20/01/2010,"78 Skelligs Court, Waterville, Blanchardstown",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,70%
+21/01/2010,"50 Hillbrook Wood, Blanchardstown",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+29/01/2010,"3 Brookhaven Grove, Blanchardstown",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+02/02/2010,"58 Achill Square, Waterville, Blanchardstown",Dublin,270000.0,No,Blanchardstown,Dublin 15,q4,80%
+08/02/2010,"7 Clonsilla Park, Blanchardstown, Dublin 15",Dublin,425000.0,No,Blanchardstown,Dublin 15,q4,100%
+11/02/2010,"122 Waterville Terrace, Blanchardstown",Dublin,17500.0,No,Blanchardstown,Dublin 15,q1,10%
+12/02/2010,"60 Achill Square, Waterville, Blanchardstown",Dublin,270000.0,Yes,Blanchardstown,Dublin 15,q4,80%
+12/02/2010,"72 Erris Square  Block 6, Waterville  Snugborough Road, Blanchardstown",Dublin,140000.0,Yes,Blanchardstown,Dublin 15,q1,20%
+16/02/2010,"10 Achill Square, Waterville, Blanchardstown",Dublin,260000.0,Yes,Blanchardstown,Dublin 15,q3,80%
+18/02/2010,"15 Whitestown Walk, Blanchardstown, Dublin 15",Dublin,185000.0,No,Blanchardstown,Dublin 15,q2,40%
+19/02/2010,"16 Erris Square, Block 2  Waterville, Blanchardstown",Dublin,273500.0,Yes,Blanchardstown,Dublin 15,q4,80%
+26/02/2010,"32A Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,317500.0,No,Blanchardstown,Dublin 15,q4,100%
+03/03/2010,"7 Coolmine Road, Blanchardstown, Dublin 15",Dublin,345000.0,No,Blanchardstown,Dublin 15,q4,100%
+12/03/2010,"38 Warrenstown Drive, Blanchardstown",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,30%
+16/03/2010,"51 Erris Square  Block 5, Snugborough Road, Blanchardstown",Dublin,135000.0,Yes,Blanchardstown,Dublin 15,q1,20%
+19/03/2010,"74 Castlecurragh Park, Blanchardstown, Dublin",Dublin,212500.0,No,Blanchardstown,Dublin 15,q2,50%
+22/03/2010,"19 Ashling Heights, Blanchardstown",Dublin,188000.0,No,Blanchardstown,Dublin 15,q2,40%
+07/04/2010,"Apt 11 West End Village, Blanchardstown, Dublin 15",Dublin,185000.0,No,Blanchardstown,Dublin 15,q2,40%
+09/04/2010,"13 Coolmine Lawn, Blanchardstown",Dublin,251000.0,No,Blanchardstown,Dublin 15,q3,70%
+09/04/2010,"2 Sheepmore Avenue, Blanchardstown",Dublin,132000.0,No,Blanchardstown,Dublin 15,q1,20%
+22/04/2010,"No 1 Achill Square, Waterville, Blanchardstown",Dublin,230000.0,Yes,Blanchardstown,Dublin 15,q3,60%
+23/04/2010,"4 Corduff Green, Blanchardstown, Dublin 15",Dublin,152500.0,No,Blanchardstown,Dublin 15,q1,20%
+27/04/2010,"10 Westway Lawn, Blanchardstown, Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+04/05/2010,"32 Brookhaven Park, Blanchardstown",Dublin,217000.0,No,Blanchardstown,Dublin 15,q2,50%
+04/05/2010,"64 Achill Square, Waterville, Blanchardstown",Dublin,217000.0,Yes,Blanchardstown,Dublin 15,q2,50%
+05/05/2010,"1 Charnwood Gardens, Clonsilla, Blanchardstown",Dublin,380000.0,No,Blanchardstown,Dublin 15,q4,100%
+07/05/2010,"14 Westend Village, Blanchardstown, Dublin 15",Dublin,182000.0,No,Blanchardstown,Dublin 15,q2,40%
+11/05/2010,"Apartment 73, Skelligs Court, Blanchardstown",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+28/05/2010,"5  Summerfield Green, Blanchardstown, Dublin 15.",Dublin,350000.0,No,Blanchardstown,Dublin 15,q4,100%
+08/06/2010,"75 Skelligs Court, Waterville, Blanchardstown",Dublin,222500.0,No,Blanchardstown,Dublin 15,q3,60%
+24/06/2010,"61 Summerfield Lawn, Blanchardstown, Dublin 15",Dublin,321500.0,No,Blanchardstown,Dublin 15,q4,100%
+08/07/2010,"9 Westway Grove, Blanchardstown",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+14/07/2010,"96 Edgewood Lawn, Blanchardstown, Dublin",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+14/07/2010,"96 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+16/07/2010,"24 Springlawn Close, Blanchardstown, Dublin 15",Dublin,313500.0,No,Blanchardstown,Dublin 15,q4,90%
+16/07/2010,"61 Achill Aquare, Snugboro Road, Blanchardstown",Dublin,200440.53,Yes,Blanchardstown,Dublin 15,q2,50%
+19/07/2010,"19 Westway View, Blanchardstown, Dublin 15",Dublin,175175.0,No,Blanchardstown,Dublin 15,q2,30%
+19/07/2010,"5 Summerfield Avenue, Blanchardstown",Dublin,300000.0,No,Blanchardstown,Dublin 15,q4,90%
+23/07/2010,"103 Erris Square, Waterville, Blanchardstown",Dublin,211453.0,Yes,Blanchardstown,Dublin 15,q2,50%
+26/07/2010,"15 Summerfield Close, Blanchardstown, Dublin 15",Dublin,319850.0,No,Blanchardstown,Dublin 15,q4,100%
+30/07/2010,"35 Warrenstown Green, Blanchardstown, Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+03/08/2010,"19 Hillbrook, Woods, Blanchardstown",Dublin,161000.0,No,Blanchardstown,Dublin 15,q1,30%
+06/08/2010,"133 Littlepace Walk, Littlepace Paddocks, Blanchardstown",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+09/08/2010,"12 Warrenstown Way, Blanchardstown, Dublin. 15",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+09/08/2010,"35 Hillbrook Woods, Blanchardstown",Dublin,175000.0,No,Blanchardstown,Dublin 15,q2,30%
+12/08/2010,"24A Sheepmoor Avenue, Blanchardstown",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+12/08/2010,"32 Summerfield Lawn, Blanchardstown, Dublin 15",Dublin,292000.0,No,Blanchardstown,Dublin 15,q4,90%
+18/08/2010,"68 Blasket Square, Waterville, Blanchardstown",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+19/08/2010,"Apt 71 Achill Square, Block 6  Cluster 14, Waterville  Blanchardstown",Dublin,215859.03,Yes,Blanchardstown,Dublin 15,q2,50%
+01/09/2010,"Apt 70 Achill Square  Waterville, Snugborough Road, Blanchardstown",Dublin,219384.0,Yes,Blanchardstown,Dublin 15,q2,50%
+13/09/2010,"19 Coolmine Lawn, Blanchardstown",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+14/09/2010,"23 Warrenstown Drive, Blanchardstown",Dublin,181000.0,No,Blanchardstown,Dublin 15,q2,40%
+14/09/2010,"Apt 26 Whitestown Walk, Blanchardstown, Dublin 15",Dublin,130000.0,No,Blanchardstown,Dublin 15,q1,20%
+30/09/2010,"200 Edgewood Lawn, Blanchardstown",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+15/10/2010,"25 Brookhaven, Blanchardstown, Dublin",Dublin,150000.0,No,Blanchardstown,Dublin 15,q1,20%
+22/10/2010,"5 Corduff Place, Blanchardstown, Dublin 15",Dublin,155000.0,No,Blanchardstown,Dublin 15,q1,20%
+22/10/2010,"7 Rathlin Hall, Waterville, Blanchardstown",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+22/10/2010,"7 Rathlin Wall, Waterville, Blanchardstown",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+22/10/2010,"70 Aisling Heights, Blanchardstown, Dublin 15",Dublin,143000.0,No,Blanchardstown,Dublin 15,q1,20%
+12/11/2010,"73 Hillbrook Woods, Blanchardstown Road South, Blanchardstown",Dublin,125000.0,No,Blanchardstown,Dublin 15,q1,10%
+26/11/2010,"56 Achill Square, Waterville, Blanchardstown",Dublin,220264.0,Yes,Blanchardstown,Dublin 15,q3,60%
+29/11/2010,"11 Tory Square, Waterville, Blanchardstown",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+02/12/2010,"20 Orchard Court, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+10/12/2010,"36 Littlepace Way, Liddlepace Paddocks, Blanchardstown",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+17/12/2010,"12 Summerfield Lawn, Blanchardstown, Dublin 15",Dublin,285000.0,No,Blanchardstown,Dublin 15,q4,90%
+17/12/2010,"8 Avon Lodge, Main Street, Blanchardstown",Dublin,120000.0,No,Blanchardstown,Dublin 15,q1,10%
+22/12/2010,"116 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,185000.0,No,Blanchardstown,Dublin 15,q2,40%
+22/12/2010,"12 Summerfield Close, Blanchardstown",Dublin,315000.0,No,Blanchardstown,Dublin 15,q4,90%
+17/01/2011,"Apartment 10, Verdemont, Blanchardstown",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+29/01/2011,"Apt 62 Achill Square, Block 6  Cluster 14, Waterville  Blanchardstown",Dublin,205000.0,Yes,Blanchardstown,Dublin 15,q2,50%
+31/01/2011,"55 Summerfield Rise, Blanchardstown",Dublin,295000.0,No,Blanchardstown,Dublin 15,q4,90%
+18/02/2011,"Curates House, Chapel Lane, Blanchardstown",Dublin,430000.0,No,Blanchardstown,Dublin 15,q4,100%
+25/02/2011,"43 Aisling Heights, Blanchardstown",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+09/03/2011,"67 Achill Square, Waterville  Blanchardstown",Dublin,180616.74,Yes,Blanchardstown,Dublin 15,q2,40%
+25/03/2011,"9 Corduff Cottages, Blanchardstown, Dublin 15",Dublin,80000.0,No,Blanchardstown,Dublin 15,q1,10%
+07/04/2011,"76 Skelligs Court, Waterville, Blanchardstown",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+12/04/2011,"48 Clonsilla Road, Blanchardstown, Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,70%
+27/04/2011,"2 Woods End, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+13/05/2011,"14 Clonsilla Road, Blanchardstown",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+30/05/2011,"6 Whitestown Walk, Blanchardstown",Dublin,153000.0,No,Blanchardstown,Dublin 15,q1,20%
+02/06/2011,"16 St. Patrick'S Park, Blanchardstown",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+16/06/2011,"46 Blasket Square, Waterville, Blanchardstown",Dublin,145000.0,No,Blanchardstown,Dublin 15,q1,20%
+01/07/2011,"16 Parlickstown Avenue, Blanchardstown, Dublin 15",Dublin,90000.0,No,Blanchardstown,Dublin 15,q1,10%
+20/07/2011,"27 St. Brigid'S Park, Blanchardstown",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+21/07/2011,"37 Brookhaven Grove, Blanchardstown",Dublin,135000.0,No,Blanchardstown,Dublin 15,q1,20%
+29/07/2011,"9 The Rise, Hunters Run, Blanchardstown",Dublin,155000.0,No,Blanchardstown,Dublin 15,q1,20%
+04/08/2011,"5 Springlawn Drive, Blanchardstown, Dublin 15",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+16/08/2011,"1 Summerfield Close, Blanchardstown",Dublin,268000.0,No,Blanchardstown,Dublin 15,q4,80%
+30/08/2011,"'Beechview' And 'Il Santo', Blanchardstown",Dublin,252000.0,No,Blanchardstown,Dublin 15,q3,70%
+02/09/2011,"60 Hillbrook Woods, Blanchardstown, Dublin 15",Dublin,111000.0,No,Blanchardstown,Dublin 15,q1,10%
+12/09/2011,"58 Blasket Square, Waterville, Blanchardstown",Dublin,130000.0,No,Blanchardstown,Dublin 15,q1,20%
+14/09/2011,"15 Fortlawn Park, Blanchardstown, Dublin 15",Dublin,85000.0,No,Blanchardstown,Dublin 15,q1,10%
+22/09/2011,"38 Hillbrook Woods, Blanchardstown",Dublin,107000.0,No,Blanchardstown,Dublin 15,q1,10%
+26/09/2011,"16 Sheepmoor Avenue, Blanchardstown",Dublin,90000.0,No,Blanchardstown,Dublin 15,q1,10%
+27/09/2011,"43 Bramblefield Crescent, Blanchardstown",Dublin,162500.0,No,Blanchardstown,Dublin 15,q1,30%
+07/10/2011,"77 Hillbrook Woods, Blanchardstown, Dublin 15",Dublin,145000.0,No,Blanchardstown,Dublin 15,q1,20%
+13/10/2011,"19 Orchard Grove, Blanchardstown, Dublin 15",Dublin,302500.0,No,Blanchardstown,Dublin 15,q4,90%
+14/10/2011,"40 Fortlawn Park, Blanchardstown, Dublin 15",Dublin,115000.0,No,Blanchardstown,Dublin 15,q1,10%
+21/10/2011,"15 Woodview Grove, Blanchardstown, Dublin",Dublin,295000.0,No,Blanchardstown,Dublin 15,q4,90%
+24/10/2011,"52 Hillbrook Woods, Blanchardstown, Dublin 15",Dublin,103000.0,No,Blanchardstown,Dublin 15,q1,10%
+25/10/2011,"59 Achill Square, Blanchardstown, Dublin 15",Dublin,127656.61,Yes,Blanchardstown,Dublin 15,q1,20%
+04/11/2011,"14 Summerfield Avenue, Blanchardstown, Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+08/11/2011,"191 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,139000.0,No,Blanchardstown,Dublin 15,q1,20%
+10/11/2011,"10 Springlawn Court, Blanchardstown",Dublin,207500.0,No,Blanchardstown,Dublin 15,q2,50%
+10/11/2011,"11 Corduff Green, Blanchardstown, Dublin 15",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+11/11/2011,"22 Greenbriar, Verdemont, Blanchardstown",Dublin,104000.0,No,Blanchardstown,Dublin 15,q1,10%
+11/11/2011,"31 Blasket Square, Waterville, Blanchardstown",Dublin,125000.0,No,Blanchardstown,Dublin 15,q1,10%
+14/11/2011,"138  Verdemont, Blanchardstown",Dublin,98000.0,No,Blanchardstown,Dublin 15,q1,10%
+21/11/2011,"16 Whitechapel Green, Blanchardstown, Dublin 15",Dublin,97000.0,No,Blanchardstown,Dublin 15,q1,10%
+21/11/2011,"35 Broadway Road, Blanchardstown, Dublin 15",Dublin,307000.0,No,Blanchardstown,Dublin 15,q4,90%
+05/12/2011,"18 Summerfield Avenue, Blanchardstown, Dublin 15",Dublin,217500.0,No,Blanchardstown,Dublin 15,q2,50%
+09/12/2011,"73 Clonsilla Road, Blanchardstown, Dublin 15",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+12/12/2011,"Apartment 4 Lissane, Old Corduff Road, Blanchardstown",Dublin,95000.0,No,Blanchardstown,Dublin 15,q1,10%
+14/12/2011,"14 Summerfield Meadows, Blanchardstown",Dublin,300000.0,No,Blanchardstown,Dublin 15,q4,90%
+19/12/2011,"9 Aisling Heights, Blanchardstown",Dublin,87000.0,No,Blanchardstown,Dublin 15,q1,10%
+20/12/2011,"Apartment 9, Rathlin House  Waterville, Blanchardstown",Dublin,90000.0,No,Blanchardstown,Dublin 15,q1,10%
+20/12/2011,"Falcon'S View, The Blanchardstown Town Centre, Blanchardstown",Dublin,11315000.0,Yes,Blanchardstown,Dublin 15,q4,100%
+22/12/2011,"54 Verdemont, Blanchardstown, Dublin 15",Dublin,113000.0,No,Blanchardstown,Dublin 15,q1,10%
+11/01/2012,"127 Verdemont, Blanchardstown, Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+11/01/2012,"6 Millstead, Blanchardstown",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+25/01/2012,"68 Aran Court, Waterville, Blanchardstown",Dublin,110000.0,No,Blanchardstown,Dublin 15,q1,10%
+03/02/2012,"2 Fortlawn Avenue, Blanchardstown",Dublin,75000.0,No,Blanchardstown,Dublin 15,q1,10%
+09/02/2012,"84 Erris Square, Waterville, Blanchardstown",Dublin,97000.0,No,Blanchardstown,Dublin 15,q1,10%
+01/03/2012,"12 Bantry Square, Waterville, Blanchardstown",Dublin,160000.0,No,Blanchardstown,Dublin 15,q1,30%
+02/03/2012,"Apt. 7 Achill Square, Waterville, Blanchardstown",Dublin,132158.59,Yes,Blanchardstown,Dublin 15,q1,20%
+06/03/2012,"57 Achill Square, Waterville, Snugborough Road  Blanchardstown",Dublin,160000.0,Yes,Blanchardstown,Dublin 15,q1,30%
+15/03/2012,"18 Corduff Cottages, Blanchardstown",Dublin,110000.0,No,Blanchardstown,Dublin 15,q1,10%
+30/03/2012,"30 Annagh Court, Blanchardstown",Dublin,70000.0,No,Blanchardstown,Dublin 15,q1,10%
+13/04/2012,"77 Skelligs Court, Waterville, Blanchardstown",Dublin,187000.0,No,Blanchardstown,Dublin 15,q2,40%
+16/04/2012,"13 Villa Blanchard, Main Street, Blanchardstown",Dublin,97500.0,No,Blanchardstown,Dublin 15,q1,10%
+17/04/2012,"Apt  17  Scariff Hall, Waterville Terrace, Blanchardstown",Dublin,115000.0,No,Blanchardstown,Dublin 15,q1,10%
+24/04/2012,"14 Sheepmoor Grove, Blanchardstown",Dublin,105000.0,No,Blanchardstown,Dublin 15,q1,10%
+14/05/2012,"12 Woodview Grove, Blanchardstown, Dublin 15",Dublin,280000.0,No,Blanchardstown,Dublin 15,q4,90%
+16/05/2012,"14 Springlawn Close, Blanchardstown",Dublin,270000.0,No,Blanchardstown,Dublin 15,q4,80%
+21/05/2012,"13 Woodvale Avenue, Blanchardstown, Dublin 15.",Dublin,105000.0,No,Blanchardstown,Dublin 15,q1,10%
+22/05/2012,"17 Verdemont, Blanchardstown",Dublin,100000.0,No,Blanchardstown,Dublin 15,q1,10%
+30/05/2012,"49 Achill Square, Waterville, Blanchardstown",Dublin,160792.95,Yes,Blanchardstown,Dublin 15,q1,30%
+30/05/2012,"Apt 32 Achill Square, Snugborough Road, Blanchardstown",Dublin,130397.0,Yes,Blanchardstown,Dublin 15,q1,20%
+31/05/2012,"39 Achill Square, Blanchardstown, Dublin 15",Dublin,160793.0,Yes,Blanchardstown,Dublin 15,q1,30%
+01/06/2012,"50 Achill Square, Waterville, Snugborough Road Blanchardstown",Dublin,174000.0,No,Blanchardstown,Dublin 15,q2,30%
+07/06/2012,"51 Achill Square, Waterville, Blanchardstown",Dublin,150406.0,Yes,Blanchardstown,Dublin 15,q1,20%
+19/06/2012,"19 Springlawn Close, Blanchardstown, Dublin 15",Dublin,206000.0,No,Blanchardstown,Dublin 15,q2,50%
+27/06/2012,"49 Coolmine Park, Blanchardstown, Dublin 15",Dublin,120000.0,No,Blanchardstown,Dublin 15,q1,10%
+29/06/2012,"38 Achill Square, Waterville, Blanchardstown",Dublin,162995.59,Yes,Blanchardstown,Dublin 15,q1,30%
+02/07/2012,"103 Verdemont, Blanchardstown",Dublin,96000.0,No,Blanchardstown,Dublin 15,q1,10%
+02/07/2012,"6 The Rise, Hunters Run, Blanchardstown",Dublin,175000.0,No,Blanchardstown,Dublin 15,q2,30%
+13/07/2012,"37 Achill Square, Waterville, Blanchardstown",Dublin,160792.95,Yes,Blanchardstown,Dublin 15,q1,30%
+26/07/2012,"Apartment 67 Verdemont, Blanchardstown, Dublin 15",Dublin,80000.0,No,Blanchardstown,Dublin 15,q1,10%
+27/07/2012,"1 St. Mochta'S Lawn, Coolmine Lodge, Blanchardstown",Dublin,185000.0,No,Blanchardstown,Dublin 15,q2,40%
+01/08/2012,"20 Springlawn Road, Blanchardstown, Dublin 15",Dublin,282000.0,No,Blanchardstown,Dublin 15,q4,90%
+01/08/2012,"35 Achill Square, Waterville, Blanchardstown",Dublin,105000.0,Yes,Blanchardstown,Dublin 15,q1,10%
+10/08/2012,"55  Achill Square, Waterville, Blanchardstown",Dublin,140969.16,Yes,Blanchardstown,Dublin 15,q1,20%
+20/08/2012,"Apartment 124 Westend Village, Blanchardstown",Dublin,50000.0,No,Blanchardstown,Dublin 15,q1,10%
+21/08/2012,"34 Achill Square, Waterville, Blanchardstown",Dublin,118017.62,Yes,Blanchardstown,Dublin 15,q1,10%
+24/08/2012,"3 Springlawn Close, Blanchardstown, Dublin 15",Dublin,270000.0,No,Blanchardstown,Dublin 15,q4,80%
+28/08/2012,"55 Huntstown Wood, Blanchardstown, Dublin 15",Dublin,102500.0,No,Blanchardstown,Dublin 15,q1,10%
+10/09/2012,"42 Clonsilla Road, Blanchardstown",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+14/09/2012,"40 Achill Square, Waterville, Blanchardstown",Dublin,145000.0,Yes,Blanchardstown,Dublin 15,q1,20%
+21/09/2012,"155 Clonsilla Road, Blanchardstown",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+21/09/2012,"53 Achill Square, Waterville, Blanchardstown",Dublin,160000.0,Yes,Blanchardstown,Dublin 15,q1,30%
+27/09/2012,"36 Achill Square, Snugborough Road, Waterville  Blanchardstown",Dublin,103950.0,Yes,Blanchardstown,Dublin 15,q1,10%
+28/09/2012,"5 Woodrun, Verdemont, Blanchardstown",Dublin,90000.0,No,Blanchardstown,Dublin 15,q1,10%
+05/10/2012,"8 Springlawn Court, Blanchardstown, Dublin 15",Dublin,272000.0,No,Blanchardstown,Dublin 15,q4,80%
+19/10/2012,"54 Achill Square, Waterville, Blanchardstown",Dublin,210000.0,Yes,Blanchardstown,Dublin 15,q2,50%
+23/10/2012,"4 Warrenstown Green, Blanchardstown Heath, Dublin 15",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+31/10/2012,"25 Broadway Road, Blanchardstown, Dublin 15",Dublin,380000.0,No,Blanchardstown,Dublin 15,q4,100%
+01/11/2012,"38 Summerfield Lawn, Blanchardstown",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+01/11/2012,"52 Achill Square, Waterville, Blanchardstown",Dublin,160000.0,Yes,Blanchardstown,Dublin 15,q1,30%
+05/11/2012,"70 Whitestown Avenue, Blanchardstown",Dublin,80000.0,No,Blanchardstown,Dublin 15,q1,10%
+05/11/2012,"8 Aran Court, Waterville, Blanchardstown",Dublin,85000.0,No,Blanchardstown,Dublin 15,q1,10%
+06/11/2012,"Apartment 18, Villa Blanchard, Blanchardstown",Dublin,99000.0,No,Blanchardstown,Dublin 15,q1,10%
+09/11/2012,"14 Warrenstown Walk, Blanchardstown",Dublin,155000.0,No,Blanchardstown,Dublin 15,q1,20%
+12/11/2012,"9 Coolmine Park, Blanchardstown, Dublin 15",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+16/11/2012,"29 Waterville Row, Blanchardstown",Dublin,95000.0,No,Blanchardstown,Dublin 15,q1,10%
+20/11/2012,"32 Ashling Heights, Blanchardstown",Dublin,130000.0,No,Blanchardstown,Dublin 15,q1,20%
+22/11/2012,"42 Coolmine Boulevard, Blanchardstown",Dublin,240000.0,No,Blanchardstown,Dublin 15,q3,60%
+30/11/2012,"23 Westend Village, Snugborough Road, Blanchardstown",Dublin,115000.0,No,Blanchardstown,Dublin 15,q1,10%
+07/12/2012,"33 Achill Square, Blanchardstown",Dublin,135000.0,Yes,Blanchardstown,Dublin 15,q1,20%
+14/12/2012,"31 Verdemont, Blanchardstown",Dublin,130000.0,No,Blanchardstown,Dublin 15,q1,20%
+21/12/2012,"123 Clonsilla Road, Blanchardstown",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+21/12/2012,"34 Coolmine Park, Blanchardstown, Dublin 15",Dublin,135000.0,No,Blanchardstown,Dublin 15,q1,20%
+31/12/2012,"15 Millstead, Blanchardstown",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+03/01/2013,"Apt 68 Achill Square, Snugborugh Road  Waterville, Blanchardstown",Dublin,129515.41,Yes,Blanchardstown,Dublin 15,q1,20%
+09/01/2013,"69 Achill Square, Waterville, Blanchardstown",Dublin,129515.41,Yes,Blanchardstown,Dublin 15,q1,20%
+18/01/2013,"Hillview, Blanchardstown, Dublin 15",Dublin,58250.0,No,Blanchardstown,Dublin 15,q1,10%
+22/01/2013,"59 Hazel Lawn, Blanchardstown",Dublin,290000.0,No,Blanchardstown,Dublin 15,q4,90%
+25/01/2013,"31 Achill Square, Waterville Snugborough, Blanchardstown",Dublin,125110.0,Yes,Blanchardstown,Dublin 15,q1,20%
+05/02/2013,"9 Woodrun, Verdemont, Blanchardstown",Dublin,107900.0,No,Blanchardstown,Dublin 15,q1,10%
+08/02/2013,"112 Waterville Terrace, Blanchardstown",Dublin,93000.0,No,Blanchardstown,Dublin 15,q1,10%
+15/02/2013,"67 Skelligs Court, Waterville, Blanchardstown",Dublin,82000.0,No,Blanchardstown,Dublin 15,q1,10%
+18/02/2013,"38 Hillbrook Woods, Blanchardstown, Dublin 15",Dublin,113000.0,No,Blanchardstown,Dublin 15,q1,10%
+21/02/2013,"17 Coolmine Boulevard, Blanchardstown",Dublin,248000.0,No,Blanchardstown,Dublin 15,q3,70%
+25/02/2013,"The Bungalow, Clonsilla Park, Blanchardstown",Dublin,295000.0,No,Blanchardstown,Dublin 15,q4,90%
+01/03/2013,"6 Warrenstown Park, Blanchardstown",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+04/03/2013,"8 Warrenstown Park, Blanchardstown",Dublin,137500.0,No,Blanchardstown,Dublin 15,q1,20%
+08/03/2013,"43 Achill Square, Waterville, Blanchardstown",Dublin,127753.3,Yes,Blanchardstown,Dublin 15,q1,20%
+14/03/2013,"1 Tresmond, Coolmine Road, Blanchardstown",Dublin,92000.0,No,Blanchardstown,Dublin 15,q1,10%
+14/03/2013,"10 St Brigid'S Park, Blanchardstown",Dublin,150000.0,No,Blanchardstown,Dublin 15,q1,20%
+14/03/2013,"33 Hillbrook Wood, Blanchardstown",Dublin,108000.0,No,Blanchardstown,Dublin 15,q1,10%
+15/03/2013,"21 Edgewood Lawn, Blanchardstown",Dublin,90000.0,No,Blanchardstown,Dublin 15,q1,10%
+27/03/2013,"44 Achill Square, Snugborough Road  Waterville, Blanchardstown",Dublin,123348.02,Yes,Blanchardstown,Dublin 15,q1,10%
+28/03/2013,"41 Achill Square, Waterville, Blanchardstown",Dublin,123348.01,Yes,Blanchardstown,Dublin 15,q1,10%
+04/04/2013,"131 Westend Village, Blanchardstown",Dublin,122000.0,No,Blanchardstown,Dublin 15,q1,10%
+09/04/2013,"48 Blasket Square, Blanchardstown",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+15/04/2013,"48 Achill Square, Waterville, Blanchardstown",Dublin,128020.0,Yes,Blanchardstown,Dublin 15,q1,20%
+18/04/2013,"4 Westway Drive, Blanchardstown",Dublin,100000.0,No,Blanchardstown,Dublin 15,q1,10%
+24/04/2013,"27 Brookhaven Rise, Blanchardstown",Dublin,175000.0,No,Blanchardstown,Dublin 15,q2,30%
+03/05/2013,"64 Summerfield Rise, Blanchardstown",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+07/05/2013,"8 Warrenstown Place, Blanchardstown Heath, Dublin 15",Dublin,153000.0,No,Blanchardstown,Dublin 15,q1,20%
+08/05/2013,"30 Whitestown Walk, Blanchardstown, Dublin 15",Dublin,110000.0,No,Blanchardstown,Dublin 15,q1,10%
+15/05/2013,"40 Summerfield Lawn, Blanchardstown, Dublin 15",Dublin,110000.0,No,Blanchardstown,Dublin 15,q1,10%
+17/05/2013,"14  Summerfield Rise, Blanchardstown",Dublin,242000.0,No,Blanchardstown,Dublin 15,q3,70%
+17/05/2013,"42 Achill Square, Waterville, Blanchardstown",Dublin,123348.0,Yes,Blanchardstown,Dublin 15,q1,10%
+22/05/2013,"31 Millstead, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+23/05/2013,"47 Achill Square, Waterville Snugborough Road, Blanchardstown",Dublin,115000.0,Yes,Blanchardstown,Dublin 15,q1,10%
+23/05/2013,"77 Sheephill Avenue, Blanchardstown",Dublin,77000.0,No,Blanchardstown,Dublin 15,q1,10%
+31/05/2013,"60 Ashling Heights, Blanchardstown, Dublin 15",Dublin,192000.0,No,Blanchardstown,Dublin 15,q2,40%
+11/06/2013,"115 Edgewood Lawns, Blanchardstown, Dublin 15",Dublin,155000.0,No,Blanchardstown,Dublin 15,q1,20%
+11/06/2013,"30 Annagh Court, Blanchardstown",Dublin,100000.0,No,Blanchardstown,Dublin 15,q1,10%
+14/06/2013,"4  Skelligs Court, Waterville, Blanchardstown",Dublin,120000.0,No,Blanchardstown,Dublin 15,q1,10%
+20/06/2013,"91 Edgewood Lawn, Blanchardstown",Dublin,110000.0,No,Blanchardstown,Dublin 15,q1,10%
+21/06/2013,"31 Broadway Park, Blanchardstown",Dublin,375000.0,No,Blanchardstown,Dublin 15,q4,100%
+25/06/2013,"29 Brookhaven Drive, Blanchardstown, Dublin 15",Dublin,145000.0,No,Blanchardstown,Dublin 15,q1,20%
+26/06/2013,"32 Springlawn Court, Blanchardstown",Dublin,228000.0,No,Blanchardstown,Dublin 15,q3,60%
+01/07/2013,"1 Springlawn Drive, Blanchardstown, Dublin 15",Dublin,270000.0,No,Blanchardstown,Dublin 15,q4,80%
+08/07/2013,"No. 77 Ashling Heights, Blanchardstown",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+15/07/2013,"63 Summerfield Rise, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+17/07/2013,"45 Achill Square, Waterville, Blanchardstown",Dublin,118937.5,Yes,Blanchardstown,Dublin 15,q1,10%
+17/07/2013,"69 Frotlawn Avenue, Blanchardstown",Dublin,78000.0,No,Blanchardstown,Dublin 15,q1,10%
+18/07/2013,"Apartment 62, Waterville Terrace, Blanchardstown",Dublin,116000.0,No,Blanchardstown,Dublin 15,q1,10%
+19/07/2013,"116 Clonsilla Road, Blanchardstown, Dublin",Dublin,227450.0,No,Blanchardstown,Dublin 15,q3,60%
+26/07/2013,"3 Westway View, Blanchardstown, Dublin 15",Dublin,145000.0,No,Blanchardstown,Dublin 15,q1,20%
+05/08/2013,"26 Woodsend, Blanchardstown, Dublin 15",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+14/08/2013,"67 Clonsilla Road, Blanchardstown",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+20/08/2013,"15 Saddlers Avenue, Blanchardstown, Dublin 15",Dublin,174000.0,No,Blanchardstown,Dublin 15,q2,30%
+20/08/2013,"29 Bantry Square, Waterville, Blanchardstown",Dublin,130000.0,No,Blanchardstown,Dublin 15,q1,20%
+21/08/2013,"9 Warrenstown Grove, Blanchardstown Road North, Dublin 15",Dublin,149950.0,No,Blanchardstown,Dublin 15,q1,20%
+26/08/2013,"12 Millstead, Blanchardstown, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+30/08/2013,"27 Springlawn Heights, Blanchardstown",Dublin,260000.0,No,Blanchardstown,Dublin 15,q3,80%
+10/09/2013,"18  Summerfield Rise, Blanchardstown",Dublin,252500.0,No,Blanchardstown,Dublin 15,q3,70%
+12/09/2013,"137 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,154000.0,No,Blanchardstown,Dublin 15,q1,20%
+13/09/2013,"9 Annagh Court, Waterville, Blanchardstown",Dublin,172000.0,No,Blanchardstown,Dublin 15,q2,30%
+16/09/2013,"22 Warrenstown Grove, Blanchardstown, Dublin",Dublin,192000.0,No,Blanchardstown,Dublin 15,q2,40%
+25/09/2013,"1A Glenville Court, Blanchardstown",Dublin,267000.0,No,Blanchardstown,Dublin 15,q4,80%
+25/09/2013,"24 Waterville Terrace, Blanchardstown",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+30/09/2013,"9 Warrenstown Close, Blanchardstown, Dublin 15",Dublin,155000.0,No,Blanchardstown,Dublin 15,q1,20%
+04/10/2013,"89 Westend Village, Blanchardstown",Dublin,141000.0,No,Blanchardstown,Dublin 15,q1,20%
+15/10/2013,"46 Sheepmoor Avenue, Blanchardstown, Dublin 15",Dublin,100000.0,No,Blanchardstown,Dublin 15,q1,10%
+18/10/2013,"63 Tory Square, Waterville, Blanchardstown",Dublin,154000.0,No,Blanchardstown,Dublin 15,q1,20%
+04/11/2013,"18 Warrenstown Place, Blanchardstown, Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+05/11/2013,"36 Tory Sq, Waterville, Blanchardstown",Dublin,110000.0,No,Blanchardstown,Dublin 15,q1,10%
+06/11/2013,"10 Corduff Avenue, Blanchardstown",Dublin,108000.0,No,Blanchardstown,Dublin 15,q1,10%
+06/11/2013,"13 Summerfield Green, Blanchardstown, Dublin 15",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+11/11/2013,"9 Park Gate, Verdemont, Blanchardstown",Dublin,109500.0,No,Blanchardstown,Dublin 15,q1,10%
+13/11/2013,"188 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+22/11/2013,"79 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,110000.0,No,Blanchardstown,Dublin 15,q1,10%
+04/12/2013,"52 Westend Village, Blanchardstown",Dublin,125000.0,No,Blanchardstown,Dublin 15,q1,10%
+05/12/2013,"47 Summerfield Rise, Blanchardstown, Dublin 15",Dublin,268000.0,No,Blanchardstown,Dublin 15,q4,80%
+09/12/2013,"22 Tory Square, Waterville, Blanchardstown",Dublin,130000.0,No,Blanchardstown,Dublin 15,q1,20%
+11/12/2013,"116 Edgewood Lawns, Blanchardstown, Dublin 15",Dublin,172000.0,No,Blanchardstown,Dublin 15,q2,30%
+13/12/2013,"141 Clonsilla Rd, Blanchardstown, Dublin 15",Dublin,120000.0,No,Blanchardstown,Dublin 15,q1,10%
+16/12/2013,"23 Riverwood Chase, Blanchardstown, Dublin 15",Dublin,308000.0,No,Blanchardstown,Dublin 15,q4,90%
+16/12/2013,"Beechview And Il Santo, Blanchardstown, Dublin",Dublin,310000.0,No,Blanchardstown,Dublin 15,q4,90%
+19/12/2013,"103 Westend Village, Snugsborough Rd, Blanchardstown",Dublin,135000.0,No,Blanchardstown,Dublin 15,q1,20%
+19/12/2013,"33 Glenville Dr, Blanchardstown, Dublin 15",Dublin,207000.0,No,Blanchardstown,Dublin 15,q2,50%
+20/12/2013,"13 Warrernstown Close, Blanchardstown, Dublin 15",Dublin,153000.0,No,Blanchardstown,Dublin 15,q1,20%
+20/12/2013,"65 Tory Square, Waterville, Blanchardstown",Dublin,130000.0,No,Blanchardstown,Dublin 15,q1,20%
+20/12/2013,"93 Castlecurragh Park, Blanchardstown, Dublin 15",Dublin,115000.0,No,Blanchardstown,Dublin 15,q1,10%
+23/12/2013,"50 Edgewood Lawns, Blanchardstown, Dublin 15",Dublin,169000.0,No,Blanchardstown,Dublin 15,q2,30%
+15/01/2014,"8 Wterville Terrace, Blanchardstown, Dublin 15",Dublin,116500.0,No,Blanchardstown,Dublin 15,q1,10%
+28/01/2014,"15 Sheephill Green, Corduff, Blanchardstown Dublin 15",Dublin,115000.0,No,Blanchardstown,Dublin 15,q1,10%
+29/01/2014,"1 Millstead, Blanchardstown, Dublin 15",Dublin,254060.0,No,Blanchardstown,Dublin 15,q3,70%
+10/02/2014,"70 Hillbrook Woods, Blanchardstown Rd South Dublin 15, Dublin",Dublin,125000.0,No,Blanchardstown,Dublin 15,q1,10%
+12/02/2014,"7 Corduff Crescent, Blanchardstown, Dublin 15",Dublin,106000.0,No,Blanchardstown,Dublin 15,q1,10%
+14/02/2014,"37 Huntstown Ave, Huntstown, Blanchardstown Dublin 15",Dublin,192000.0,No,Blanchardstown,Dublin 15,q2,40%
+25/02/2014,"6 Brandon Square, Waterville, Blanchardstown",Dublin,242290.74,Yes,Blanchardstown,Dublin 15,q3,70%
+27/02/2014,"16 Warrenstown Way, Blanchardstown, Dublin 15",Dublin,168000.0,No,Blanchardstown,Dublin 15,q2,30%
+03/03/2014,"Apt 25 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,130000.0,No,Blanchardstown,Dublin 15,q1,20%
+04/03/2014,"133 Westend Villlage, Snugborough Road, Blanchardstown",Dublin,127000.0,No,Blanchardstown,Dublin 15,q1,20%
+04/03/2014,"23 Warrenstown Grove, Blanchardstown, Dublin 15",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+07/03/2014,"10 Brookhaven Dr, Blanchardstown, Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+12/03/2014,"52 Summerfield Lawns, Blanchardstown, Dublin",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+13/03/2014,"4 Brandon Square, Waterville, Blanchardstown",Dublin,246696.04,Yes,Blanchardstown,Dublin 15,q3,70%
+13/03/2014,"71 Verdemont, Blanchardstown, Dublin 15",Dublin,137000.0,No,Blanchardstown,Dublin 15,q1,20%
+13/03/2014,"8 Archerswood, Blanchardstown, Dublin 15",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+17/03/2014,"84 Edgewood Lawns, Blanchardstown, Dublin 15",Dublin,149000.0,No,Blanchardstown,Dublin 15,q1,20%
+18/03/2014,"13 Summerfield Close, Blanchardstown, Dublin 15",Dublin,272000.0,No,Blanchardstown,Dublin 15,q4,80%
+20/03/2014,"3 Brandon Square, Waterville, Blanchardstown",Dublin,246696.04,Yes,Blanchardstown,Dublin 15,q3,70%
+27/03/2014,"4 Warrenstown Dr, Blanchardstown, Dublin 15",Dublin,157000.0,No,Blanchardstown,Dublin 15,q1,30%
+28/03/2014,"125 Westend Village, Blanchardstown, Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+31/03/2014,"7 Brandon Square, Waterville, Blanchardstown",Dublin,242290.74,Yes,Blanchardstown,Dublin 15,q3,70%
+01/04/2014,"No. 8 Brandon Square, Waterville, Blanchardstown",Dublin,242290.75,Yes,Blanchardstown,Dublin 15,q3,70%
+03/04/2014,"1 Brandon Square, Waterville, Blanchardstown",Dublin,281125.0,Yes,Blanchardstown,Dublin 15,q4,90%
+03/04/2014,"22 Springlawn Heights, Blanchardstown, Dublin 15",Dublin,295000.0,No,Blanchardstown,Dublin 15,q4,90%
+11/04/2014,"8 Scariff Hall, Blanchardstown, Dublin",Dublin,97000.0,No,Blanchardstown,Dublin 15,q1,10%
+16/04/2014,"11 Brandon Square, Waterville, Blanchardstown",Dublin,242290.74,Yes,Blanchardstown,Dublin 15,q3,70%
+16/04/2014,"25 Verdemont, Blanchardstown, Dublin 15",Dublin,112000.0,No,Blanchardstown,Dublin 15,q1,10%
+23/04/2014,"44 Hillbrook Woods, Blanchardstown, Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+28/04/2014,"12 Castle Curragh Park, Warrenstown, Blanchardstown Dublin 15",Dublin,145777.99,No,Blanchardstown,Dublin 15,q1,20%
+30/04/2014,"29 Windmill Tce, Blanchardstown, Dublin 15",Dublin,100000.0,No,Blanchardstown,Dublin 15,q1,10%
+02/05/2014,"2 Broadway Rd, Blanchardstown, Dublin 15",Dublin,425000.0,No,Blanchardstown,Dublin 15,q4,100%
+08/05/2014,"23 Windmill Tce, Blanchardstown, Dublin 15",Dublin,98000.0,No,Blanchardstown,Dublin 15,q1,10%
+09/05/2014,"10 Brandon Square, Waterville, Blanchardstown",Dublin,246696.03,Yes,Blanchardstown,Dublin 15,q3,70%
+09/05/2014,"12 Hazel Lawn, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+12/05/2014,"29 Warrenstown Green, Blanchardstown, Dublin 15",Dublin,149000.0,No,Blanchardstown,Dublin 15,q1,20%
+12/05/2014,"39 Brookhaven Grove, Blanchardstown Dublin 15, Dublin",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+14/05/2014,"17 Warrenstown Way, Blanch Heath, Blanchardstown",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+15/05/2014,"3 Whitestown Dr, Blanchardstown Dublin 15, Dublin",Dublin,94000.0,No,Blanchardstown,Dublin 15,q1,10%
+20/05/2014,"43 Summerfield Rise, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+23/05/2014,"16 Brandon Square, Waterville, Blanchardstown",Dublin,246697.0,Yes,Blanchardstown,Dublin 15,q3,70%
+24/05/2014,"15  Brandon Square, Waterville, Blanchardstown",Dublin,277000.0,Yes,Blanchardstown,Dublin 15,q4,90%
+26/05/2014,"15 St Brigids Park, Blanchardstown, Dublin 15",Dublin,150000.0,No,Blanchardstown,Dublin 15,q1,20%
+27/05/2014,"58 Edgewood Lawns, Blanchardstown, Dublin 15",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+30/05/2014,"42 Little Pace Drive, Blanchardstown, Dublin 15",Dublin,253000.0,No,Blanchardstown,Dublin 15,q3,70%
+04/06/2014,"13 Verdmont, Snugborough Rd Extension, Blanchardstown Dublin 15",Dublin,131000.0,No,Blanchardstown,Dublin 15,q1,20%
+06/06/2014,"17 Brandon Square, Waterville, Snugborough Road  Blanchardstown",Dublin,280000.0,Yes,Blanchardstown,Dublin 15,q4,90%
+13/06/2014,"10 Coolmine Park, Blanchardstown, Dublin 15",Dublin,155000.0,No,Blanchardstown,Dublin 15,q1,30%
+24/06/2014,"14 Brandon Square, Waterville, Blanchardstown",Dublin,286345.0,Yes,Blanchardstown,Dublin 15,q4,90%
+24/06/2014,"20 Brandon Square, Waterville, Blanchardstown",Dublin,246696.0,Yes,Blanchardstown,Dublin 15,q3,70%
+25/06/2014,"19 Brandon Square, Waterville, Blanchardstown",Dublin,246696.04,Yes,Blanchardstown,Dublin 15,q3,70%
+26/06/2014,"18 Brandon Square, Waterville, Blanchardstown",Dublin,246696.0,Yes,Blanchardstown,Dublin 15,q3,70%
+26/06/2014,"21 Brandon Square, Waterville, Blanchardstown",Dublin,246696.04,Yes,Blanchardstown,Dublin 15,q3,70%
+03/07/2014,"33 Ashling Heights, Blanchardstown, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+04/07/2014,"37 Grove Court, Grove Rd, Blanchardstown Dublin 15",Dublin,155000.0,No,Blanchardstown,Dublin 15,q1,30%
+11/07/2014,"22 Brandon Square, Waterville, Snugborough Road  Blanchardstown",Dublin,286343.61,Yes,Blanchardstown,Dublin 15,q4,90%
+11/07/2014,"40 Malin Hall, Waterville Terrace, Blanchardstown",Dublin,150000.0,No,Blanchardstown,Dublin 15,q1,20%
+14/07/2014,"151 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+15/07/2014,"31 Villa Blanchard, Blanchardstown",Dublin,91100.0,No,Blanchardstown,Dublin 15,q1,10%
+15/07/2014,"9 Main Street, Blanchardstown",Dublin,202500.0,No,Blanchardstown,Dublin 15,q2,50%
+15/07/2014,"Clonalea, Blanchardstown",Dublin,303800.0,No,Blanchardstown,Dublin 15,q4,90%
+16/07/2014,"96 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,152000.0,No,Blanchardstown,Dublin 15,q1,20%
+16/07/2014,"97 Brandon Square, Waterville, Blanchardstown",Dublin,246696.0,Yes,Blanchardstown,Dublin 15,q3,70%
+17/07/2014,"95 Brandon Square, Waterville, Blanchardstown",Dublin,246696.0,Yes,Blanchardstown,Dublin 15,q3,70%
+19/07/2014,"98 Brandon Square, Blanchardstown, Dublin 12",Dublin,280000.0,Yes,Blanchardstown,Dublin 15,q4,90%
+22/07/2014,"8 Warrenstown Dr, The Meath, Blanchardstown Dublin 15",Dublin,194000.0,No,Blanchardstown,Dublin 15,q2,40%
+24/07/2014,"1 Warronstown Garth, Blanchardstown Heath, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+25/07/2014,"218 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+25/07/2014,"35 Brookhaven Drive, Blanchardstown, Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+25/07/2014,"96 Brandon Square  Waterville, Snugborough Road, Blanchardstown",Dublin,280000.0,Yes,Blanchardstown,Dublin 15,q4,90%
+28/07/2014,"100 Brandon Square, Waterville, Blanchardstown",Dublin,255506.0,Yes,Blanchardstown,Dublin 15,q3,80%
+29/07/2014,"35 Carne Court, Clonsilla, Blanchardstown Dublin 15",Dublin,202500.0,No,Blanchardstown,Dublin 15,q2,50%
+30/07/2014,"94 Brandon Square, Waterville, Blanchardstown",Dublin,248458.15,Yes,Blanchardstown,Dublin 15,q3,70%
+08/08/2014,"73 Sheephill Ave, Corduff, Blanchardstown Dublin 15",Dublin,120000.0,No,Blanchardstown,Dublin 15,q1,10%
+14/08/2014,"99 Brandon Square, Waterville, Blanchardstown",Dublin,246696.0,Yes,Blanchardstown,Dublin 15,q3,70%
+19/08/2014,"23 Brandon Square, Waterville, Blanchardstown",Dublin,292035.0,Yes,Blanchardstown,Dublin 15,q4,90%
+19/08/2014,"36 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+21/08/2014,"69 Hazel Lawn, Blanchardstown, Dublin 15",Dublin,325000.0,No,Blanchardstown,Dublin 15,q4,100%
+22/08/2014,"40 Westend Village, Blanchardstown, Dublin 15",Dublin,161000.0,No,Blanchardstown,Dublin 15,q1,30%
+22/08/2014,"71 Achill Sq, Waterville, Blanchardstown",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+22/08/2014,"71 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,137500.0,No,Blanchardstown,Dublin 15,q1,20%
+25/08/2014,"92 Brandon Square, Waterville, Blanchardstown",Dublin,259911.0,Yes,Blanchardstown,Dublin 15,q3,80%
+26/08/2014,"25 Brandon Square, Waterville, Blanchardstown",Dublin,250850.0,Yes,Blanchardstown,Dublin 15,q3,70%
+26/08/2014,"36 Springlawn Heights, Blanchardstown, Dublin 15",Dublin,360000.0,No,Blanchardstown,Dublin 15,q4,100%
+26/08/2014,"9 Clonsilla Close, Blanchardstown, Dublin 15",Dublin,370000.0,No,Blanchardstown,Dublin 15,q4,100%
+26/08/2014,"9 Corduff Place, Blanchardstown, Co. Dublin",Dublin,139000.0,No,Blanchardstown,Dublin 15,q1,20%
+29/08/2014,"2 Brandon Square, Waterville, Blanchardstown",Dublin,279296.0,Yes,Blanchardstown,Dublin 15,q4,90%
+01/09/2014,"12 Brandon Square, Waterville, Blanchardstown",Dublin,306167.4,Yes,Blanchardstown,Dublin 15,q4,90%
+01/09/2014,"29 Brandon Square, Waterville, Blanchardstown",Dublin,251101.32,Yes,Blanchardstown,Dublin 15,q3,70%
+03/09/2014,"2 Westway Rise, Blanchardstown, Dublin 15",Dublin,158000.0,No,Blanchardstown,Dublin 15,q1,30%
+04/09/2014,"27 Warrenstown Lawn, Blanchardstown",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+05/09/2014,"30 Brandon Square, Waterville, Blanchardstown",Dublin,251101.32,Yes,Blanchardstown,Dublin 15,q3,70%
+08/09/2014,"17 Villa Blanchard, Main St, Blanchardstown Dublin 15",Dublin,112500.0,No,Blanchardstown,Dublin 15,q1,10%
+08/09/2014,"46 Ashling Heights, Blanchardstown, Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+11/09/2014,"97 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,150000.0,No,Blanchardstown,Dublin 15,q1,20%
+15/09/2014,"7 Westend Village, Blanchardstown",Dublin,138000.0,No,Blanchardstown,Dublin 15,q1,20%
+17/09/2014,"33 Brandon Square, Waterville, Blanchardstown",Dublin,251101.32,Yes,Blanchardstown,Dublin 15,q3,70%
+22/09/2014,"11 Amberfield, Verdemont, Blanchardstown Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+22/09/2014,"15 Grove Garden, Verdemont, Blanchardstown Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+22/09/2014,"19 Aran Court, Waterville, Blanchardstown",Dublin,171216.0,No,Blanchardstown,Dublin 15,q2,30%
+22/09/2014,"21 Grove Garden, Verdemont, Blanchardstown Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+22/09/2014,"22 Grove Garden, Verdemont, Blanchardstown Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+23/09/2014,"158 Castlecurragh Heath, Blanchardstown, Co Dublin",Dublin,141000.0,No,Blanchardstown,Dublin 15,q1,20%
+24/09/2014,"3 Fortlawn Park, Blanchardstown, Co. Dublin",Dublin,175000.0,No,Blanchardstown,Dublin 15,q2,30%
+25/09/2014,"1 Ramor Park, Blanchardstown, Dublin 15",Dublin,400000.0,No,Blanchardstown,Dublin 15,q4,100%
+25/09/2014,"102 Millrace Road, Phoenix Park, Blanchardstown",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,70%
+25/09/2014,"123 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,163000.0,No,Blanchardstown,Dublin 15,q1,30%
+26/09/2014,"88 Whatley Hall, Archers Wood, Blanchardstown",Dublin,184000.0,No,Blanchardstown,Dublin 15,q2,40%
+03/10/2014,"64 Castlecurragh Heath, Blanchardstown, Dublin 15",Dublin,177000.0,No,Blanchardstown,Dublin 15,q2,30%
+06/10/2014,"23 Corduff Crescent, Blanchardstown, Dublin 15",Dublin,151000.0,No,Blanchardstown,Dublin 15,q1,20%
+08/10/2014,"6 Sheephill Park, Blanchardstown, Dublin 15",Dublin,133500.0,No,Blanchardstown,Dublin 15,q1,20%
+13/10/2014,"34 Brandon Square, Waterville  Snugborough Rd, Blanchardstown",Dublin,251101.32,Yes,Blanchardstown,Dublin 15,q3,70%
+14/10/2014,"66 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,110000.0,No,Blanchardstown,Dublin 15,q1,10%
+16/10/2014,"17 Villa Blanchard, Main St, Blanchardstown Dublin 15",Dublin,155000.0,No,Blanchardstown,Dublin 15,q1,30%
+16/10/2014,"89 Brandon Square, Waterville, Blanchardstown",Dublin,252863.43,Yes,Blanchardstown,Dublin 15,q3,70%
+17/10/2014,"293 Castlecurragh Heath, Blanchardstown, Dublin 15",Dublin,157500.0,No,Blanchardstown,Dublin 15,q1,30%
+17/10/2014,"35 Brandon Square, Waterville, Blanchardstown",Dublin,285450.0,Yes,Blanchardstown,Dublin 15,q4,90%
+17/10/2014,"6 Warrenstown Park, Blanchardstown, Dublin 15",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+17/10/2014,"86  Brandon Square, Waterville, Snugborough Road  Blanchardstown",Dublin,257268.72,Yes,Blanchardstown,Dublin 15,q3,80%
+17/10/2014,"87 Brandon Square, Waterville, Blanchardstown",Dublin,251101.32,Yes,Blanchardstown,Dublin 15,q3,70%
+17/10/2014,"90 Brandon Square, Waterville, Blanchardstown",Dublin,252863.0,Yes,Blanchardstown,Dublin 15,q3,70%
+22/10/2014,"76 Brandon Square, Waterville, Blanchardstown",Dublin,259911.9,Yes,Blanchardstown,Dublin 15,q3,80%
+22/10/2014,"77 Bandon Square, Waterville  Snugborough Road, Blanchardstown",Dublin,252863.43,Yes,Blanchardstown,Dublin 15,q3,70%
+30/10/2014,"247 Littlepace Court, Littlepace Paddocks, Blanchardstown Dublin 15",Dublin,388000.0,No,Blanchardstown,Dublin 15,q4,100%
+31/10/2014,"19 Herbert Rd, Blanchardstown, Dublin 15",Dublin,590000.0,No,Blanchardstown,Dublin 15,q4,100%
+31/10/2014,"5 Rathlin House, Waterville Terrace, Blanchardstown",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+31/10/2014,"6 Orchard Court, Coolmine Woods, Blanchardstown Dublin 15",Dublin,352000.0,No,Blanchardstown,Dublin 15,q4,100%
+04/11/2014,"78 Brandon Square, Waterville, Blanchardstown",Dublin,252863.0,Yes,Blanchardstown,Dublin 15,q3,70%
+05/11/2014,"10 Grove Gardens, Verdemont, Blanchardstown Dublin 15",Dublin,105000.0,No,Blanchardstown,Dublin 15,q1,10%
+05/11/2014,"84 Bramdon Square, Waterville, Snugborough Road  Blanchardstown",Dublin,248458.15,Yes,Blanchardstown,Dublin 15,q3,70%
+05/11/2014,"88 Brandon Square, Warerville, Blanchardstown",Dublin,244052.86,Yes,Blanchardstown,Dublin 15,q3,70%
+06/11/2014,"83 Brandon Square, Waterville, Blanchardstown",Dublin,259911.0,Yes,Blanchardstown,Dublin 15,q3,80%
+10/11/2014,"47 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,150000.0,No,Blanchardstown,Dublin 15,q1,20%
+11/11/2014,"85 Brandon Square, Waterville, Blanchardstown",Dublin,290000.0,Yes,Blanchardstown,Dublin 15,q4,90%
+13/11/2014,"53 Sheephill Ave, Corduff, Blanchardstown",Dublin,150000.0,No,Blanchardstown,Dublin 15,q1,20%
+18/11/2014,"112 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+18/11/2014,"82 Brandon Square, Waterville, Blanchardstown",Dublin,255507.0,Yes,Blanchardstown,Dublin 15,q3,80%
+19/11/2014,"4 The Rise, Main Street, Blanchardstown",Dublin,273625.0,No,Blanchardstown,Dublin 15,q4,80%
+19/11/2014,"80 Brandon Square, Waterville, Blanchardstown",Dublin,233333.0,Yes,Blanchardstown,Dublin 15,q3,60%
+19/11/2014,"81 Brandon Square, Waterville, Blanchardstown",Dublin,257268.72,Yes,Blanchardstown,Dublin 15,q3,80%
+21/11/2014,"13 Malin House, Waterville Terrace, Blanchardstown",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+21/11/2014,"44 Grove Court, Grove Rd, Blanchardstown Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+27/11/2014,"35 Summerfield Lawns, Blanchardstown, Dublin 15",Dublin,360000.0,No,Blanchardstown,Dublin 15,q4,100%
+27/11/2014,"36 Blasket Sq, Waterville, Blanchardstown Dublin 15",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+27/11/2014,"Apt 11 Scariff House, Waterville Terrace, Blanchardstown Dublin 15",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+01/12/2014,"12 Warrenstown Place, Blanchardstown, Dublin 15",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+01/12/2014,"50 Grove Court, Grove Rd, Blanchardstown Dublin 15",Dublin,160500.0,No,Blanchardstown,Dublin 15,q1,30%
+02/12/2014,"59 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,93000.0,No,Blanchardstown,Dublin 15,q1,10%
+05/12/2014,"36 The Grove Hunters Run, Hunters Run, Blanchardstown",Dublin,290000.0,No,Blanchardstown,Dublin 15,q4,90%
+08/12/2014,"35 Westend Village, Blanchardstown, Dublin",Dublin,188000.0,No,Blanchardstown,Dublin 15,q2,40%
+09/12/2014,"37 Brandon Square, Waterville, Blanchardstown",Dublin,273127.75,Yes,Blanchardstown,Dublin 15,q4,80%
+10/12/2014,"40 Brandn Sq, Waterville, Blanchardstown",Dublin,274889.0,Yes,Blanchardstown,Dublin 15,q4,80%
+11/12/2014,"17 Brookhaven Rise, Blanchardstown, Dublin 15",Dublin,238000.0,No,Blanchardstown,Dublin 15,q3,60%
+15/12/2014,"36 Brandon Square, Waterville, Blanchardstown",Dublin,296917.0,Yes,Blanchardstown,Dublin 15,q4,90%
+16/12/2014,"16 Clonsilla Close, Blanchardstown, Dublin 15",Dublin,355000.0,No,Blanchardstown,Dublin 15,q4,100%
+17/12/2014,"142 Waterville, Blanchardstown, Dublin 15",Dublin,160000.0,No,Blanchardstown,Dublin 15,q1,30%
+17/12/2014,"81 Blasket Sq, Waterville, Blanchardstown Dublin 15",Dublin,178500.0,No,Blanchardstown,Dublin 15,q2,30%
+18/12/2014,"16 Scariff House, Waterville Terrace, Blanchardstown",Dublin,163000.0,No,Blanchardstown,Dublin 15,q1,30%
+18/12/2014,"41 Brandon Square, Waterville, Blanchardstown",Dublin,277533.03,Yes,Blanchardstown,Dublin 15,q4,90%
+19/12/2014,"24 Warrenstown Green, Blanchardstown, Dublin 15",Dublin,95866.0,No,Blanchardstown,Dublin 15,q1,10%
+19/12/2014,"7 Roselawn Grove, Blanchardstown, Dublin 15",Dublin,485000.0,No,Blanchardstown,Dublin 15,q4,100%
+19/12/2014,"84 Sheephill Av, Blanchardstown, Dublin 15",Dublin,104000.0,No,Blanchardstown,Dublin 15,q1,10%
+22/12/2014,"10 Warrenstown, Blanchardstown",Dublin,196939.0,No,Blanchardstown,Dublin 15,q2,40%
+22/12/2014,"100 Verdemont, Blanchardstown, Dublin 15",Dublin,185000.0,No,Blanchardstown,Dublin 15,q2,40%
+22/12/2014,"108 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,132819.0,No,Blanchardstown,Dublin 15,q1,20%
+22/12/2014,"127 Westend Village, Snugborough Rd, Blanchardstown",Dublin,146559.0,No,Blanchardstown,Dublin 15,q1,20%
+22/12/2014,"138 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,132819.0,No,Blanchardstown,Dublin 15,q1,20%
+22/12/2014,"15 Springlawn Heights, Blanchardstown, Dublin 15",Dublin,311439.0,No,Blanchardstown,Dublin 15,q4,90%
+22/12/2014,"16B Whitestown Park, Blanchardstown, Dublin 15",Dublin,171000.0,No,Blanchardstown,Dublin 15,q2,30%
+22/12/2014,"41 Annaly Grove, Blanchardstown, Dublin 15",Dublin,137399.0,No,Blanchardstown,Dublin 15,q1,20%
+22/12/2014,"43 Tory Square, Waterville, Blanchardstown",Dublin,212000.0,No,Blanchardstown,Dublin 15,q2,50%
+31/12/2014,"6 Herbert Rd, Blanchardstown, Dublin 15",Dublin,280000.0,No,Blanchardstown,Dublin 15,q4,90%
+12/01/2015,"46 Brandon Square, Waterville, Blanchardstown",Dublin,271365.0,Yes,Blanchardstown,Dublin 15,q4,80%
+15/01/2015,"47 Brandon Square, Waterville, Blanchardstown",Dublin,271365.63,Yes,Blanchardstown,Dublin 15,q4,80%
+16/01/2015,"16 Tory Square, Waterville, Blanchardstown",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+16/01/2015,"38 Brandon Square, Waterville, Blanchardstown",Dublin,273127.0,Yes,Blanchardstown,Dublin 15,q4,80%
+16/01/2015,"64 Hustown Av, Blanchardstown, Dublin 15",Dublin,185000.0,No,Blanchardstown,Dublin 15,q2,40%
+23/01/2015,"15 Warrenstown Walk, Blanchardstown, Dublin 15",Dublin,100000.0,No,Blanchardstown,Dublin 15,q1,10%
+23/01/2015,"6 Warrenstown Green, Blanchardstown, Dublin 15",Dublin,218000.0,No,Blanchardstown,Dublin 15,q2,50%
+23/01/2015,"93 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,147000.0,No,Blanchardstown,Dublin 15,q1,20%
+26/01/2015,"45 Brandon Square, Waterville, Blanchardstown",Dublin,271365.63,Yes,Blanchardstown,Dublin 15,q4,80%
+28/01/2015,"71 Fortlawn Drive, Mountview, Blanchardstown",Dublin,163500.0,No,Blanchardstown,Dublin 15,q1,30%
+28/01/2015,"No 44 Brandon Sq, Waterville, Blanchardstown",Dublin,308370.0,Yes,Blanchardstown,Dublin 15,q4,90%
+03/02/2015,"39 Brandon Square, Blanchardstown, Dublin 15",Dublin,273128.0,Yes,Blanchardstown,Dublin 15,q4,80%
+03/02/2015,"42 Brandon Square, Waterville, Blanchardstown",Dublin,273127.75,Yes,Blanchardstown,Dublin 15,q4,80%
+06/02/2015,"43 Whitestone Walk, Blanchardstown, Dublin 15",Dublin,135000.0,No,Blanchardstown,Dublin 15,q1,20%
+09/02/2015,"77 Whitestown Pk, Blanchardstown, Dublin 15",Dublin,130000.0,No,Blanchardstown,Dublin 15,q1,20%
+11/02/2015,"11 Warrenstown Place, Blanchardstown, Dublin 15",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+12/02/2015,"48 Brandon Square, Waterville  Snugborough Road, Blanchardstown",Dublin,271365.63,Yes,Blanchardstown,Dublin 15,q4,80%
+12/02/2015,"74 Aran Court, Waterville, Blanchardstown Dublin 15",Dublin,187000.0,No,Blanchardstown,Dublin 15,q2,40%
+13/02/2015,"No.49 Brandon Square, Waterville Snugnorough Road, Blanchardstown",Dublin,271365.64,Yes,Blanchardstown,Dublin 15,q4,80%
+17/02/2015,"17 Waterville Terrace, Blanchardstown, Dublin 20",Dublin,152000.0,No,Blanchardstown,Dublin 15,q1,20%
+17/02/2015,"77 Castlecurragh Park, Blanchardstown, Dublin",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+18/02/2015,"83 Westhaven, Blanchardstown, Dublin 15",Dublin,123000.0,No,Blanchardstown,Dublin 15,q1,10%
+19/02/2015,"38 Sheepmoor Ave, Blanchardstown, Dublin 15",Dublin,127500.0,No,Blanchardstown,Dublin 15,q1,20%
+19/02/2015,"52 Brandon Square, Waterville, Blanchardstown",Dublin,271366.0,Yes,Blanchardstown,Dublin 15,q4,80%
+19/02/2015,"87 Clonsilla Rd, Blanchardstown, Dublin 15",Dublin,435000.0,No,Blanchardstown,Dublin 15,q4,100%
+20/02/2015,"6 Parkgate, Verdemont, Blanchardstown",Dublin,115000.0,No,Blanchardstown,Dublin 15,q1,10%
+25/02/2015,"16 Westway View, Blanchardstown, Dublin 15",Dublin,185000.0,No,Blanchardstown,Dublin 15,q2,40%
+26/02/2015,"50 Brandon Square, Waterville, Blanchardstown",Dublin,271365.0,Yes,Blanchardstown,Dublin 15,q4,80%
+05/03/2015,"25 Edgewood Lawns, Blanchardstown, Fingal Dublin 15",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+10/03/2015,"Apt 26 Whitestown Walk, Blanchardstown, Dublin 15",Dublin,125000.0,No,Blanchardstown,Dublin 15,q1,10%
+13/03/2015,"71 Brandon Square, Waterville, Snugborough Road  Blanchardstown",Dublin,266079.0,Yes,Blanchardstown,Dublin 15,q3,80%
+18/03/2015,"127 Castlecurragh Park, Castlecurragh, Blanchardstown",Dublin,186000.0,No,Blanchardstown,Dublin 15,q2,40%
+19/03/2015,"68 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,240000.0,No,Blanchardstown,Dublin 15,q3,60%
+20/03/2015,"53 Brandon Square, Waterville, Blanchardstown",Dublin,271365.64,Yes,Blanchardstown,Dublin 15,q4,80%
+20/03/2015,"70 Brandon Square, Waterville  Snugborough Road, Blanchardstown",Dublin,266080.0,Yes,Blanchardstown,Dublin 15,q3,80%
+25/03/2015,"29A Pinebrook Lawns, Blanchardstown, Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+25/03/2015,"54 Brandon Square, Waterville, Blanchardstown",Dublin,317181.0,Yes,Blanchardstown,Dublin 15,q4,90%
+25/03/2015,"61 Dursey Row, Waterville, Blanchardstown Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+26/03/2015,"68 Brandon Square, Waterville  Snugborough Road, Blanchardstown",Dublin,266080.0,Yes,Blanchardstown,Dublin 15,q4,80%
+27/03/2015,"51 Brandon Square, Waterville, Blanchardstown",Dublin,271365.64,Yes,Blanchardstown,Dublin 15,q4,80%
+02/04/2015,"15 Summerfield Rise, Blanchardstown, Dublin 15",Dublin,330000.0,No,Blanchardstown,Dublin 15,q4,100%
+02/04/2015,"35 Whitestown Dr, Blanchardstown, Dublin 15",Dublin,163000.0,No,Blanchardstown,Dublin 15,q1,30%
+09/04/2015,"57 Brandon Square, Waterville, Blanchardstown",Dublin,273127.75,Yes,Blanchardstown,Dublin 15,q4,80%
+10/04/2015,"59 Brandon Square, Waterville  Snugborough Road, Blanchardstown",Dublin,263825.0,Yes,Blanchardstown,Dublin 15,q3,80%
+13/04/2015,"93 Castlecurragh Park, Blanchardstown, Dublin 15",Dublin,184000.0,No,Blanchardstown,Dublin 15,q2,40%
+13/04/2015,"Apt 36, Westend Village, Blanchardstown",Dublin,146000.0,No,Blanchardstown,Dublin 15,q1,20%
+14/04/2015,"10 Sheephill Ave, Blanchardstown, Dublin 15",Dublin,162000.0,No,Blanchardstown,Dublin 15,q1,30%
+17/04/2015,"69 Brandon Square, Waterville, Blanchardstown",Dublin,266079.29,Yes,Blanchardstown,Dublin 15,q3,80%
+22/04/2015,"27 Willowwood Lawn, Blanchardstown, Dublin 15",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+06/05/2015,"29 Pinebrook Lawns, Blanchardstown, Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+07/05/2015,"116 Brandon Square, Waterville, Blanchardstown",Dublin,290748.89,Yes,Blanchardstown,Dublin 15,q4,90%
+08/05/2015,"11 Grove Garden, Verdemont, Blanchardstown Dublin 15",Dublin,145000.0,No,Blanchardstown,Dublin 15,q1,20%
+08/05/2015,"Apartment 25, Westend, Blanchardstown",Dublin,135000.0,No,Blanchardstown,Dublin 15,q1,20%
+12/05/2015,"68 Achill Square, Waterville, Blanchardstown",Dublin,193000.0,No,Blanchardstown,Dublin 15,q2,40%
+13/05/2015,"61 Brandon Square, Waterville, Blanchardstown",Dublin,277533.04,Yes,Blanchardstown,Dublin 15,q4,90%
+15/05/2015,"85 West End Village, Blanchardstown, Dublin 15",Dublin,160000.0,No,Blanchardstown,Dublin 15,q1,30%
+18/05/2015,"112 Brandon Square, Waterville, Blanchardstown",Dublin,277533.04,Yes,Blanchardstown,Dublin 15,q4,90%
+19/05/2015,"110 Brandon Square, Snughborough Rd.  Blanchardstown",Dublin,277533.0,Yes,Blanchardstown,Dublin 15,q4,90%
+19/05/2015,"74 Brandon Square, Waterville, Blanchardstown",Dublin,308370.04,Yes,Blanchardstown,Dublin 15,q4,90%
+20/05/2015,"73 Brandon Square, Waterville, Blanchardstown",Dublin,315000.0,Yes,Blanchardstown,Dublin 15,q4,90%
+22/05/2015,"111 Brandon Square, Waterville, Blanchardstown",Dublin,315000.0,Yes,Blanchardstown,Dublin 15,q4,90%
+22/05/2015,"75 Brandon Square, Waterville, Blanchardstown",Dublin,314538.0,Yes,Blanchardstown,Dublin 15,q4,90%
+25/05/2015,"113 Brandon Square, Waterville  Snugborough Rd, Blanchardstown",Dublin,277533.04,Yes,Blanchardstown,Dublin 15,q4,90%
+26/05/2015,"61 Annagh Court, Blanchardstown, Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+29/05/2015,"67 Brandon Square, Waterville, Blanchardstown",Dublin,282819.0,Yes,Blanchardstown,Dublin 15,q4,90%
+03/06/2015,"5 Warrenstown Downs, Blanchardstown Meath, Dublin 15",Dublin,207000.0,No,Blanchardstown,Dublin 15,q2,50%
+05/06/2015,"34 Waterville Hall, Blanchardstown, Dublin 15",Dublin,180100.0,No,Blanchardstown,Dublin 15,q2,40%
+05/06/2015,"66 Bradon Square, Waterville, Blanchardstown",Dublin,307075.0,Yes,Blanchardstown,Dublin 15,q4,90%
+11/06/2015,"119 Brandon Square, Waterville, Blanchardstown",Dublin,273127.75,Yes,Blanchardstown,Dublin 15,q4,80%
+12/06/2015,"35 Blasket Sq, Waterville, Blanchardstown Dublin 15",Dublin,113868.0,No,Blanchardstown,Dublin 15,q1,10%
+15/06/2015,"21 Westend Village, Blanchardstown, Dublin 15",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+19/06/2015,"55 Brandon Square, Waterville, Blanchardstown",Dublin,296916.29,Yes,Blanchardstown,Dublin 15,q4,90%
+19/06/2015,"63 Brandon Square, Waterville, Snugborough Raod  Blanchardstown",Dublin,317180.61,Yes,Blanchardstown,Dublin 15,q4,90%
+26/06/2015,"19 Sheephill Green, Blanchardstown, Dublin 15",Dublin,153000.0,No,Blanchardstown,Dublin 15,q1,20%
+29/06/2015,"4 Springlawn Rd, Blanchardstown, Dublin 15",Dublin,420000.0,No,Blanchardstown,Dublin 15,q4,100%
+01/07/2015,"120 Brandon Square, Waterville, Blanchardstown",Dublin,273128.0,Yes,Blanchardstown,Dublin 15,q4,80%
+01/07/2015,"16 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,198000.0,No,Blanchardstown,Dublin 15,q2,40%
+01/07/2015,"30 Arran Court, Waterville, Blanchardstown",Dublin,206000.0,No,Blanchardstown,Dublin 15,q2,50%
+01/07/2015,"61 Glenville Dr, Blanchardstown, Dublin 15",Dublin,162500.0,No,Blanchardstown,Dublin 15,q1,30%
+02/07/2015,"103 Brandon Square, Waterville, Blanchardstown",Dublin,277533.0,Yes,Blanchardstown,Dublin 15,q4,90%
+02/07/2015,"18 Ashfield Green, Huntstown, Blanchardstown",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+02/07/2015,"Apartment 18 Aran Court, Watervile, Blanchardstown",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+07/07/2015,"121 Brandon Square, Waterville, Blanchardstown",Dublin,273127.0,Yes,Blanchardstown,Dublin 15,q4,80%
+14/07/2015,"107 Brandon Square, Waterville, Blanchardstown",Dublin,277533.03,Yes,Blanchardstown,Dublin 15,q4,90%
+15/07/2015,"8 Whitestown Green, Blanchardstown, Dublin 15",Dublin,171000.0,No,Blanchardstown,Dublin 15,q2,30%
+16/07/2015,"108 Brandon Square, Waterville, Blanchardstown",Dublin,328000.0,Yes,Blanchardstown,Dublin 15,q4,100%
+16/07/2015,"65 Brandon Square, Waterville, Blanchardstown",Dublin,273127.75,Yes,Blanchardstown,Dublin 15,q4,80%
+17/07/2015,"104 Brandon Square, Waterville, Blanchardstown",Dublin,277533.0,Yes,Blanchardstown,Dublin 15,q4,90%
+20/07/2015,"74 Coolmine Park, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+23/07/2015,"1 Warrenstown Green, Blanchardstown Rd North, Dublin 15",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+27/07/2015,"106 Brandon Square, Waterville, Blanchardstown",Dublin,277533.0,Yes,Blanchardstown,Dublin 15,q4,90%
+29/07/2015,"5 Warrenstown Way, Blanchardstown",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+30/07/2015,"13 Amberfield, Verdemont, Blanchardstown",Dublin,160000.0,No,Blanchardstown,Dublin 15,q1,30%
+30/07/2015,"72 Brandon Square, Waterville Snugborough Road, Blanchardstown",Dublin,268722.47,Yes,Blanchardstown,Dublin 15,q4,80%
+07/08/2015,"105 Brandon Square, Waterville, Blanchardstown",Dublin,283106.25,Yes,Blanchardstown,Dublin 15,q4,90%
+07/08/2015,"19 Rathlin Hall, Waterville, Blanchardstown",Dublin,178000.0,No,Blanchardstown,Dublin 15,q2,30%
+13/08/2015,"125 Brandon Square, Blanchardstown",Dublin,290748.0,Yes,Blanchardstown,Dublin 15,q4,90%
+13/08/2015,"3 Deerhaven Walk, Blanchardstown, Dublin 15",Dublin,253000.0,No,Blanchardstown,Dublin 15,q3,70%
+13/08/2015,"82 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,178000.0,No,Blanchardstown,Dublin 15,q2,30%
+14/08/2015,"126 Brandon Square, Waterville, Blanchardstown",Dublin,277500.0,Yes,Blanchardstown,Dublin 15,q4,90%
+18/08/2015,"128 Brandon Square, Waterville, Blanchardstown",Dublin,277533.04,Yes,Blanchardstown,Dublin 15,q4,90%
+20/08/2015,"124 Brandon Square, Waterville Snugborough Road, Blanchardstown",Dublin,281938.0,Yes,Blanchardstown,Dublin 15,q4,90%
+21/08/2015,"16 Villa Blanchard, Main St, Blanchardstown Dublin 15",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+21/08/2015,"34 Springlawn Court, Blanchardstown, Dublin 15",Dublin,315000.0,No,Blanchardstown,Dublin 15,q4,90%
+24/08/2015,"132 Brandon Square, Waterville  Snugborough Road, Blanchardstown",Dublin,277533.04,Yes,Blanchardstown,Dublin 15,q4,90%
+25/08/2015,"127 Brandon Square, Waterville, Blanchardstown",Dublin,315000.0,Yes,Blanchardstown,Dublin 15,q4,90%
+25/08/2015,"129 Brandon Square, Waterville, Blanchardstown",Dublin,277533.0,Yes,Blanchardstown,Dublin 15,q4,90%
+26/08/2015,"28 Achill Square, Waterville, Blanchardstown",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+27/08/2015,"101 Brandon Square, Blanchardstown, Dublin 15",Dublin,278854.62,Yes,Blanchardstown,Dublin 15,q4,90%
+28/08/2015,"143 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,183000.0,No,Blanchardstown,Dublin 15,q2,40%
+28/08/2015,"15 Woodview Grove, Blanchardstown",Dublin,372000.0,No,Blanchardstown,Dublin 15,q4,100%
+28/08/2015,"78 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,258000.0,No,Blanchardstown,Dublin 15,q3,80%
+02/09/2015,"97 Verdemont, Blanchardstown, Dublin 15",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+03/09/2015,"64 Brandon Square, Waterville, Blanchardstown",Dublin,273128.0,Yes,Blanchardstown,Dublin 15,q4,80%
+04/09/2015,"133  Brandon Square, Waterville  Snugborough Road, Blanchardstown",Dublin,312775.0,Yes,Blanchardstown,Dublin 15,q4,90%
+07/09/2015,"8 St Mochtas Grove, Clonsilla Road, Blanchardstown",Dublin,265000.0,No,Blanchardstown,Dublin 15,q3,80%
+08/09/2015,"123, Brandon Square, Blanchardstown",Dublin,268723.0,Yes,Blanchardstown,Dublin 15,q4,80%
+08/09/2015,"131 Brandon Square, Waterville, Blanchardstown",Dublin,277533.04,Yes,Blanchardstown,Dublin 15,q4,90%
+10/09/2015,"12 Corduff Cottages, Blanchardstown, Dublin 15",Dublin,130000.0,No,Blanchardstown,Dublin 15,q1,20%
+11/09/2015,"117 Brandon Square, Blanchardstown, Dublin 15",Dublin,350000.0,Yes,Blanchardstown,Dublin 15,q4,100%
+11/09/2015,"9 Sheepmore Grove, Sheepmore, Blanchardstown",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+14/09/2015,"120 Westend Village, Snugborough Rd, Blanchardstown Centre Dublin 15",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+18/09/2015,"15 Warrenstown Dr, Blanchardstown, Dublin 15",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+18/09/2015,"47 Garnish Sq, Waterville, Blanchardstown Dublin 15",Dublin,199000.0,No,Blanchardstown,Dublin 15,q2,40%
+18/09/2015,"8 Swallowbrook Crescent, Blanchardstown, Dublin 15",Dublin,309000.0,No,Blanchardstown,Dublin 15,q4,90%
+21/09/2015,"56 Brandon Square, Waterville, Blanchardstown",Dublin,281938.32,Yes,Blanchardstown,Dublin 15,q4,90%
+23/09/2015,"2 Clonsilla Park, Blanchardstown, Dublin 15",Dublin,490000.0,No,Blanchardstown,Dublin 15,q4,100%
+23/09/2015,"62 Brandon Square, Waterville, Blanchardstown",Dublin,290748.0,Yes,Blanchardstown,Dublin 15,q4,90%
+25/09/2015,"49 Blasket Sq, Waterville, Blanchardstown Dublin 15",Dublin,161000.0,No,Blanchardstown,Dublin 15,q1,30%
+30/09/2015,"34 Summerfield Lawns, Blanchardstown, Dublin 15",Dublin,310000.0,No,Blanchardstown,Dublin 15,q4,90%
+30/09/2015,"8 Castlegrange Row, Blanchardstown, Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+01/10/2015,"82 Westend Village, Blanchardstown, Dublin 15",Dublin,132000.0,No,Blanchardstown,Dublin 15,q1,20%
+05/10/2015,"93 Brandon Square, Waterville, Snugborough Road  Blanchardstown",Dublin,277533.0,Yes,Blanchardstown,Dublin 15,q4,90%
+08/10/2015,"6 Westway View, Blanchardstown, Dublin 15",Dublin,187000.0,No,Blanchardstown,Dublin 15,q2,40%
+09/10/2015,"55 Garnish Sq, Waterville, Blanchardstown Dublin 15",Dublin,175000.0,No,Blanchardstown,Dublin 15,q2,30%
+14/10/2015,"12 Coolmine Court, Blanchardstown, Dublin 15",Dublin,310000.0,No,Blanchardstown,Dublin 15,q4,90%
+19/10/2015,"47 Coolmine Park, Blanchardstown, Dublin 15",Dublin,280000.0,No,Blanchardstown,Dublin 15,q4,90%
+22/10/2015,"13 Summerfield Lawn, Blanchardstown, Dublin 15",Dublin,295000.0,No,Blanchardstown,Dublin 15,q4,90%
+23/10/2015,"347 Castlecurragh Heath, Blanchardstown",Dublin,152500.0,No,Blanchardstown,Dublin 15,q1,20%
+27/10/2015,"7 Warrenstown Rise, Blanchardstown, Dublin",Dublin,187000.0,No,Blanchardstown,Dublin 15,q2,40%
+28/10/2015,"118 Brandon Square, Waterville, Blanchardstown",Dublin,273128.0,Yes,Blanchardstown,Dublin 15,q4,80%
+05/11/2015,"11 Warrenstown Way, Blanchardstown, Dublin",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+10/11/2015,"1 Edgewood Lawns, Blanchardstown, Dublin 15",Dublin,257000.0,No,Blanchardstown,Dublin 15,q3,80%
+10/11/2015,"3 Warrenstown Rise, Blanchardstown, Dublin 15",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+11/11/2015,"3 Broadway Park, Blanchardstown, Dublin 15",Dublin,380000.0,No,Blanchardstown,Dublin 15,q4,100%
+13/11/2015,"1 Tyrellstown Way, Blanchardstown, Dublin 15",Dublin,151000.0,No,Blanchardstown,Dublin 15,q1,20%
+17/11/2015,"42 Annagh Court, Waterville, Blanchardstown Dublin 15",Dublin,228000.0,No,Blanchardstown,Dublin 15,q3,60%
+03/12/2015,"5 Summerfield Rise, Blanchardstown, Dublin",Dublin,310000.0,No,Blanchardstown,Dublin 15,q4,90%
+04/12/2015,"15 St Brigids Park, Blanchardstown, Dublin 15",Dublin,228000.0,No,Blanchardstown,Dublin 15,q3,60%
+08/12/2015,"24 Parslickstown Ave, Mulhuddart, Blanchardstown Dublin 15",Dublin,184000.0,No,Blanchardstown,Dublin 15,q2,40%
+09/12/2015,"3 Whitestown Crescent, Blanchardstown, Dublin 15",Dublin,132000.0,No,Blanchardstown,Dublin 15,q1,20%
+09/12/2015,"61 Glenville Dr, Blanchardstown, Dublin 15",Dublin,242000.0,No,Blanchardstown,Dublin 15,q3,70%
+11/12/2015,"12 Whitechapel Avenue, Blanchardstown, Dublin 15",Dublin,167500.0,No,Blanchardstown,Dublin 15,q2,30%
+14/12/2015,"10 Waterville Terrace, Blanchardstown, Dublin",Dublin,167000.0,No,Blanchardstown,Dublin 15,q1,30%
+15/12/2015,"8 Springlawn Drive, Blanchardstown, Dublin 15",Dublin,331500.0,No,Blanchardstown,Dublin 15,q4,100%
+16/12/2015,"48 Dursey Row, Waterville, Blanchardstown Dublin 15",Dublin,257000.0,No,Blanchardstown,Dublin 15,q3,80%
+16/12/2015,"52 Aran Court, Waterville, Blanchardstown Dublin 15",Dublin,254000.0,No,Blanchardstown,Dublin 15,q3,70%
+17/12/2015,"46 Sheephill Green, Corduff, Blanchardstown",Dublin,161772.0,No,Blanchardstown,Dublin 15,q1,30%
+18/12/2015,"13  Springlawn Court, Blanchardstown, Dublin 15",Dublin,340000.0,No,Blanchardstown,Dublin 15,q4,100%
+18/12/2015,"137 Edgewood Lawns, Blanchardstown, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+18/12/2015,"49 Hazel Lawn, Blanchardstown, Dublin 15",Dublin,430000.0,No,Blanchardstown,Dublin 15,q4,100%
+18/12/2015,"55 Aran Court, Waterville, Blanchardstown Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+21/12/2015,"32 Garnish Sq, Waterville, Blanchardstown Dublin 15",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+21/12/2015,"7 Green Briar, Verdemont, Blanchardstown Dublin 15",Dublin,120000.0,No,Blanchardstown,Dublin 15,q1,10%
+22/12/2015,"12 Corduff Ave, Blanchardstown, Dublin 15",Dublin,163000.0,No,Blanchardstown,Dublin 15,q1,30%
+04/01/2016,"50 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,189000.0,No,Blanchardstown,Dublin 15,q2,40%
+20/01/2016,"38 Sheepmoor Avenue, Blanchardstown",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,40%
+22/01/2016,"18 Glenville Way, Blanchardstown, Dublin 15",Dublin,369000.0,No,Blanchardstown,Dublin 15,q4,100%
+25/01/2016,"Apt.38 - Aran Court, Waterville, Blanchardstown",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+26/01/2016,"24 St Brigids Park, Blanchardstown, Dublin 15",Dublin,238000.0,No,Blanchardstown,Dublin 15,q3,60%
+01/02/2016,"19 Grove Garden, Verdemont, Blanchardstown",Dublin,136000.0,No,Blanchardstown,Dublin 15,q1,20%
+03/02/2016,"19 Westway Park, Blanchardstown, Dublin 15",Dublin,147000.0,No,Blanchardstown,Dublin 15,q1,20%
+03/02/2016,"27 Whitestown Ave, Blanchardstown, Dublin 15",Dublin,164000.0,No,Blanchardstown,Dublin 15,q1,30%
+05/02/2016,"70 Aran Court, Waterville, Blanchardstown",Dublin,175000.0,No,Blanchardstown,Dublin 15,q2,30%
+11/02/2016,"8 Warrenstown Grove, Blanchardstown, Dublin 15",Dublin,196000.0,No,Blanchardstown,Dublin 15,q2,40%
+12/02/2016,"44 Garnish Sq, Waterville, Blanchardstown Dublin 15",Dublin,232000.0,No,Blanchardstown,Dublin 15,q3,60%
+15/02/2016,"24 Corduff Green, Blanchardstown, Dublin 15",Dublin,177000.0,No,Blanchardstown,Dublin 15,q2,30%
+16/02/2016,"80 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,240000.0,No,Blanchardstown,Dublin 15,q3,60%
+18/02/2016,"11 Greenridge Court, Blanchardstown, Dublin 15",Dublin,135000.0,No,Blanchardstown,Dublin 15,q1,20%
+22/02/2016,"36 Sheephill Green, Blanchardstown, Dublin 15",Dublin,200500.0,No,Blanchardstown,Dublin 15,q2,50%
+22/02/2016,"86  Brandon Square, Waterville, Snugborough Road  Blanchardstown",Dublin,342000.0,No,Blanchardstown,Dublin 15,q4,100%
+25/02/2016,"39 St Brigids Park, Blanchardstown, Dublin",Dublin,260000.0,No,Blanchardstown,Dublin 15,q3,80%
+04/03/2016,"8 Chipping Terrace, Ongar Sq, Blanchardstown Dublin 15",Dublin,176500.0,No,Blanchardstown,Dublin 15,q2,30%
+07/03/2016,"177 Castlecurragh Vale, Blanchardstown, Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+11/03/2016,"17 Annagh Court, Waterville, Blanchardstown Dublin 15",Dublin,199000.0,No,Blanchardstown,Dublin 15,q2,40%
+16/03/2016,"36 The Drive, Pheasant Run, Blanchardstown Dublin 15",Dublin,260000.0,No,Blanchardstown,Dublin 15,q3,80%
+22/03/2016,"23 Bramblefield Crescent, Blanchardstown, Dublin",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+31/03/2016,"12 Glenville Rd, Blanchardstown, Dublin 15",Dublin,410000.0,No,Blanchardstown,Dublin 15,q4,100%
+01/04/2016,"Site At 55A, St Bridgets Park, Blanchardstown",Dublin,43000.0,No,Blanchardstown,Dublin 15,q1,10%
+06/04/2016,"5 St Mochtas Green, Blanchardstown, Dublin 15",Dublin,278000.0,No,Blanchardstown,Dublin 15,q4,90%
+07/04/2016,"21 Waterville Row, Blanchardstown, Dublin",Dublin,223000.0,No,Blanchardstown,Dublin 15,q3,60%
+18/04/2016,"55 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,155000.0,No,Blanchardstown,Dublin 15,q1,30%
+27/04/2016,"37 Ashling Heights, Blanchardstown, Dublin 15",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+09/05/2016,"38 Glenville Dr, Coolmine, Blanchardstown Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,70%
+12/05/2016,"1 Clonsilla Park, Blanchardstown, Dublin 15",Dublin,326500.0,No,Blanchardstown,Dublin 15,q4,100%
+13/05/2016,"14 Beechfield Green, Blanchardstown, Dublin 15",Dublin,251000.0,No,Blanchardstown,Dublin 15,q3,70%
+19/05/2016,"41 Castlecurragh Pk, Blanchardstown, Dublin 15",Dublin,198000.0,No,Blanchardstown,Dublin 15,q2,40%
+20/05/2016,"25 Achill Sq, Waterville, Blanchardstown Dublin 15",Dublin,212000.0,No,Blanchardstown,Dublin 15,q2,50%
+26/05/2016,"Valleymount, The Rise, Blanchardstown Village Dublin 15",Dublin,315000.0,No,Blanchardstown,Dublin 15,q4,90%
+27/05/2016,"24 Orchard Green, Coolmine, Blanchardstown Dublin 15",Dublin,344000.0,No,Blanchardstown,Dublin 15,q4,100%
+31/05/2016,"237 Whitestown Ave, Blanchardstown, Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+31/05/2016,"50 Fortlawn Park, Blanchardstown, Dublin 15",Dublin,185000.0,No,Blanchardstown,Dublin 15,q2,40%
+31/05/2016,"60 Whitestown Park, Blanchardstown, Dublin 15",Dublin,152500.0,No,Blanchardstown,Dublin 15,q1,20%
+01/06/2016,"113 Verdemont, Sungborough Road, Blanchardstown",Dublin,177000.0,No,Blanchardstown,Dublin 15,q2,30%
+01/06/2016,"13 St Brigids Park, Blanchardstown, Dublin 15",Dublin,260000.0,No,Blanchardstown,Dublin 15,q3,80%
+13/06/2016,"67 Brandon Square, Waterville, Blanchardstown",Dublin,340000.0,No,Blanchardstown,Dublin 15,q4,100%
+17/06/2016,"98 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,185000.0,No,Blanchardstown,Dublin 15,q2,40%
+20/06/2016,"18 Tory Sq, Waterville, Blanchardstown Dublin 15",Dublin,221000.0,No,Blanchardstown,Dublin 15,q3,60%
+23/06/2016,"39 Annagh Court, Waterville, Blanchardstown Dublin 15",Dublin,188500.0,No,Blanchardstown,Dublin 15,q2,40%
+30/06/2016,"103 Whitestown Avenue, Blanchardstown, Dublin 15",Dublin,140000.0,No,Blanchardstown,Dublin 15,q1,20%
+30/06/2016,"44 Summerfield Lawn, Blanchardstown, Dublin 15",Dublin,320000.0,No,Blanchardstown,Dublin 15,q4,100%
+30/06/2016,"Clonalea, Blanchardstown, Dublin 15",Dublin,325000.0,No,Blanchardstown,Dublin 15,q4,100%
+01/07/2016,"14 Woods End, Blanchardstown, Dublin",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+01/07/2016,"20 Erris Sq, Waterville, Blanchardstown Dublin 15",Dublin,197000.0,No,Blanchardstown,Dublin 15,q2,40%
+01/07/2016,"55 Coolmine Park, Blanchardstown, Dublin 15",Dublin,202000.0,No,Blanchardstown,Dublin 15,q2,50%
+05/07/2016,"8 Westend Village, Blanchardstown, Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+13/07/2016,"70 Whitestown Ave, Blanchardstown, Dublin 15",Dublin,186000.0,No,Blanchardstown,Dublin 15,q2,40%
+19/07/2016,"35 Erris Square, Blanchardstown, Dublin 15",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+21/07/2016,"24 Huntstown Close, Blanchardstown, Dublin 15",Dublin,172000.0,No,Blanchardstown,Dublin 15,q2,30%
+25/07/2016,"21 Ashling Heights, Blanchardstown, Dublin 15",Dublin,192452.25,No,Blanchardstown,Dublin 15,q2,40%
+28/07/2016,"142 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,50%
+29/07/2016,"103 Castlecurragh Park, Blanchardstown, Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+29/07/2016,"51 Bramblefield Crescent, Blanchardstown, Dublin 1S",Dublin,273000.0,No,Blanchardstown,Dublin 15,q4,80%
+05/08/2016,"66 Tory Sq, Waterville, Blanchardstown Dublin 15",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+08/08/2016,"6 Warrenstown Way, Blanchardstown, Dublin 15",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+10/08/2016,"23 Brookehaven Dr, Blanchardstown, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+12/08/2016,"1 Lissane, Old Corduffe Rd, Blanchardstown Dublin 15",Dublin,152000.0,No,Blanchardstown,Dublin 15,q1,20%
+12/08/2016,"36 Waterville Hall, Blanchardstown, Dublin 15",Dublin,203000.0,No,Blanchardstown,Dublin 15,q2,50%
+18/08/2016,"7 Millstead, Blanchardstown, Dublin 15",Dublin,285000.0,No,Blanchardstown,Dublin 15,q4,90%
+23/08/2016,"1 Brandon Square, Waterville, Blanchardstown",Dublin,380000.0,No,Blanchardstown,Dublin 15,q4,100%
+23/08/2016,"45A Edgewood Lawns, Blanchardstown, Dublin 15",Dublin,241000.0,No,Blanchardstown,Dublin 15,q3,70%
+24/08/2016,"10 Westway Pk, Blanchardstown, Dublin 15",Dublin,175000.0,No,Blanchardstown,Dublin 15,q2,30%
+26/08/2016,"1A Brookhaven Rise, Blanchardstown, Dublin 15",Dublin,246000.0,No,Blanchardstown,Dublin 15,q3,70%
+30/08/2016,"10 Bellgree Close, Tyrrelstown, Blanchardstown Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+05/09/2016,"57 Summerfield Lawns, Blanchardstown, Dublin 15",Dublin,325000.0,No,Blanchardstown,Dublin 15,q4,100%
+09/09/2016,"100 Brandon Square, Waterville, Blanchardstown",Dublin,347000.0,No,Blanchardstown,Dublin 15,q4,100%
+09/09/2016,"134 Waterville Terrace, Waterville, Blanchardstown Dublin 15",Dublin,232000.0,No,Blanchardstown,Dublin 15,q3,60%
+09/09/2016,"161 Castlecurragh Vale, Blanchardstown, Dublin 15",Dublin,102000.0,No,Blanchardstown,Dublin 15,q1,10%
+12/09/2016,"55 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,162500.0,No,Blanchardstown,Dublin 15,q1,30%
+13/09/2016,"16 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,203000.0,No,Blanchardstown,Dublin 15,q2,50%
+19/09/2016,"5 Ashcroft Court, Blanchardstown, Dublin",Dublin,150000.0,No,Blanchardstown,Dublin 15,q1,20%
+19/09/2016,"6 Scariff Hall, Waterville, Blanchardstown Dublin 15",Dublin,163000.0,No,Blanchardstown,Dublin 15,q1,30%
+23/09/2016,"45 Waterville Crescent, Blanchardstown, Dublin 15",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+03/10/2016,"74 Tory Sq, Waterville, Blanchardstown Dublin 15",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,50%
+11/10/2016,"54 Hillbrook Woods, Blanchardstown, Dublin 15",Dublin,157500.0,No,Blanchardstown,Dublin 15,q1,30%
+12/10/2016,"6 Aran Court, Waterville, Blanchardstown Dublin 15",Dublin,229000.0,No,Blanchardstown,Dublin 15,q3,60%
+14/10/2016,"17 Grove Court, Grove Rd, Blanchardstown Dublin 15",Dublin,145000.0,No,Blanchardstown,Dublin 15,q1,20%
+14/10/2016,"36 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+14/10/2016,"52 Waterville Row, Waterville, Blanchardstown Dublin 15",Dublin,85000.0,No,Blanchardstown,Dublin 15,q1,10%
+21/10/2016,"10 Park Gate, Verdemont, Blanchardstown",Dublin,183000.0,No,Blanchardstown,Dublin 15,q2,40%
+21/10/2016,"18 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,167000.0,No,Blanchardstown,Dublin 15,q2,30%
+22/10/2016,"162 Waterville Terrace, Blanchardstown, Dublin",Dublin,201600.0,No,Blanchardstown,Dublin 15,q2,50%
+02/11/2016,"3 Greenridge Court, Blanchardstown, Dublin 15",Dublin,182000.0,No,Blanchardstown,Dublin 15,q2,40%
+03/11/2016,"20 Garnish Sq, Waterville, Blanchardstown Dublin 15",Dublin,237000.0,No,Blanchardstown,Dublin 15,q3,60%
+04/11/2016,"17 Warrenstown Close, Blanchardstown Meath, Blanchardstown Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+10/11/2016,"4 Summerfield Meadows, Blanchardstown, Dublin 15",Dublin,320000.0,No,Blanchardstown,Dublin 15,q4,100%
+11/11/2016,"8 Deerhaven Walk, Blanchardstown, Dublin 15",Dublin,271000.0,No,Blanchardstown,Dublin 15,q4,80%
+18/11/2016,"64 Castlecurragh Heath, Blanchardstown, Dublin 15",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+25/11/2016,"148 Waterville Terrace, Lakehurst, Blanchardstown Dublin 15",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+28/11/2016,"251 Castlecurragh Heath, Blanchardstown, Dublin 15",Dublin,201000.0,No,Blanchardstown,Dublin 15,q2,50%
+01/12/2016,"1 Achill Terrace, Waterville, Blanchardstown",Dublin,940000.0,No,Blanchardstown,Dublin 15,q4,100%
+01/12/2016,"14 Littlepace Dr, Littlepace Paddocks, Blanchardstown Dublin 15",Dublin,345000.0,No,Blanchardstown,Dublin 15,q4,100%
+01/12/2016,"28 Dursey Row, Waterville, Blanchardstown",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,50%
+01/12/2016,"43 Dursey Row, Waterville, Blanchardstown",Dublin,190000.0,No,Blanchardstown,Dublin 15,q2,40%
+01/12/2016,"44 Dursey Row, Waterville, Blanchardstown",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+02/12/2016,"20 West End Village, Blanchardstown, Dublin 15",Dublin,193000.0,No,Blanchardstown,Dublin 15,q2,40%
+12/12/2016,"20 Warrenstown Place, Blanchardstown, Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+13/12/2016,"32 Skelligs Court, Blanchardstown, Dublin 15",Dublin,258000.0,No,Blanchardstown,Dublin 15,q3,80%
+14/12/2016,"51 Annagh Court, Waterville, Blanchardstown Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+16/12/2016,"54 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,50%
+21/12/2016,"31 Villa Blanchard, Blanchardstown, Dublin 15",Dublin,150000.0,No,Blanchardstown,Dublin 15,q1,20%
+21/12/2016,"59 Glenville Dr, Blanchardstown, Dublin 15",Dublin,264500.0,No,Blanchardstown,Dublin 15,q3,80%
+22/12/2016,"15 Annagh Court, Waterville, Blanchardstown Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+23/12/2016,"1 Annagh Court, Waterville, Blanchardstown Dublin 15",Dublin,247000.0,No,Blanchardstown,Dublin 15,q3,70%
+12/01/2017,"14 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,227000.0,No,Blanchardstown,Dublin 15,q3,60%
+12/01/2017,"51 Latchford Close, Blanchardstown, Dublin 15",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,50%
+25/01/2017,"105 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,240000.0,No,Blanchardstown,Dublin 15,q3,70%
+25/01/2017,"15 Woodrun, Verdemont, Blanchardstown",Dublin,197000.0,No,Blanchardstown,Dublin 15,q2,40%
+25/01/2017,"28 Clonsilla Rd, Blanchardstown, Dublin 15",Dublin,290000.0,No,Blanchardstown,Dublin 15,q4,90%
+30/01/2017,"62 Garnish Sq, Blanchardstown, Dublin 15",Dublin,183000.0,No,Blanchardstown,Dublin 15,q2,40%
+02/02/2017,"189 Clonsilla Rd, Blanchardstown, Dublin",Dublin,330000.0,No,Blanchardstown,Dublin 15,q4,100%
+07/02/2017,"22 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,184000.0,No,Blanchardstown,Dublin 15,q2,40%
+08/02/2017,"65 Clonsilla Road, Blanchardstown, Dublin 15",Dublin,339000.0,No,Blanchardstown,Dublin 15,q4,100%
+09/02/2017,"14 Amberfield, Verdemont, Blanchardstown",Dublin,185000.0,No,Blanchardstown,Dublin 15,q2,40%
+09/02/2017,"207 Castlecurragh Vale, Blanchardstown, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+10/02/2017,"181 Pace Ave, Littlepace, Blanchardstown",Dublin,280000.0,No,Blanchardstown,Dublin 15,q4,90%
+21/02/2017,"34 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,162500.0,No,Blanchardstown,Dublin 15,q1,30%
+28/02/2017,"3 Whitestown Dr, Blanchardstown Dublin 15, Dublin",Dublin,188000.0,No,Blanchardstown,Dublin 15,q2,40%
+10/03/2017,"60 Garnish Sq, Waterville, Blanchardstown Dublin 15",Dublin,265000.0,No,Blanchardstown,Dublin 15,q3,80%
+14/03/2017,"61 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+22/03/2017,"13 Parkgate, Verdemont, Blanchardstown",Dublin,181000.0,No,Blanchardstown,Dublin 15,q2,40%
+24/03/2017,"80 Tory Sq, Waterville, Blanchardstown",Dublin,242000.0,No,Blanchardstown,Dublin 15,q3,70%
+31/03/2017,"60 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+05/04/2017,"25 Tory Sq, Waterville, Blanchardstown Dublin 15",Dublin,224000.0,No,Blanchardstown,Dublin 15,q3,60%
+05/04/2017,"76 Fortlawn Dr, Blanchardstown, Dublin 15",Dublin,162000.0,No,Blanchardstown,Dublin 15,q1,30%
+06/04/2017,"77 Erris Sq, Blanchardstown, Dublin",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+06/04/2017,"Apt 2 Lissane Apts, Old Corduff Rd, Blanchardstown Dublin 15",Dublin,172000.0,No,Blanchardstown,Dublin 15,q2,30%
+13/04/2017,"99 Verdemont, Blanchardstown, Dublin 15",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+19/04/2017,"17 Skelligs Court, Waterville, Blanchardstown",Dublin,179000.0,No,Blanchardstown,Dublin 15,q2,30%
+20/04/2017,"212 Castlecurragh Heath, Blanchardstown, Dublin 15",Dublin,193000.0,No,Blanchardstown,Dublin 15,q2,40%
+20/04/2017,"27 A Summerfield Rise, Blanchardstown, Dublin 15",Dublin,453000.0,No,Blanchardstown,Dublin 15,q4,100%
+21/04/2017,"22 Springlawn Court, Blanchardstown, Dublin 15",Dublin,425000.0,No,Blanchardstown,Dublin 15,q4,100%
+27/04/2017,"32 Warrenstown Green, Blanchardstown, Dublin 15",Dublin,231000.0,No,Blanchardstown,Dublin 15,q3,60%
+27/04/2017,"8 Warrenstown Place, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+28/04/2017,"16 Waterville Hall, Waterville Terrace, Blanchardstown",Dublin,203000.0,No,Blanchardstown,Dublin 15,q2,50%
+02/05/2017,"14 Skelligs Court, Waterville, Blanchardstown",Dublin,125000.0,No,Blanchardstown,Dublin 15,q1,10%
+04/05/2017,"Glenmalure, Main St, Blanchardstown Dublin 15",Dublin,352500.0,No,Blanchardstown,Dublin 15,q4,100%
+05/05/2017,"40 Grove Court, Blanchardstown, Dublin 15",Dublin,175000.0,No,Blanchardstown,Dublin 15,q2,30%
+09/05/2017,"110 Huntstown Rise, Blanchardstown, Dublin 15",Dublin,110000.0,No,Blanchardstown,Dublin 15,q1,10%
+12/05/2017,"51 Aran Court, Waterville, Blanchardstown Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,70%
+15/05/2017,"76 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+16/05/2017,"69 Verdemont, Snugborough Road, Blanchardstown",Dublin,160000.0,No,Blanchardstown,Dublin 15,q1,30%
+18/05/2017,"52 Dursey Row, Waterville, Blanchardstown",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+07/06/2017,"3 Warrenstown Park, Blanchardstown Heath, Dublin 15",Dublin,238000.0,No,Blanchardstown,Dublin 15,q3,60%
+12/06/2017,"14 Warrenstown Dr, Blanchardstown, Dublin 15",Dublin,237000.0,No,Blanchardstown,Dublin 15,q3,60%
+15/06/2017,"13 Grove Garden, Verdemont, Blanchardstown Dublin 15",Dublin,156000.0,No,Blanchardstown,Dublin 15,q1,30%
+16/06/2017,"18 Garnish Sq, Waterville, Blanchardstown Dublin 15",Dublin,252000.0,No,Blanchardstown,Dublin 15,q3,70%
+16/06/2017,"27 Millstead, Blanchardstown, Dublin",Dublin,385000.0,No,Blanchardstown,Dublin 15,q4,100%
+21/06/2017,"7 Grove Court, Grove Rd, Blanchardstown Dublin 15",Dublin,171000.0,No,Blanchardstown,Dublin 15,q2,30%
+23/06/2017,"3 Springlawn Heights, Blanchardstown, Dublin 15",Dublin,365000.0,No,Blanchardstown,Dublin 15,q4,100%
+23/06/2017,"32 Linnetfields Sq, Navan Rd, Blanchardstown Dublin 15",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+27/06/2017,"122 Castlecurragh Vale, Blanchardstown, Dublin 15",Dublin,199000.0,No,Blanchardstown,Dublin 15,q2,40%
+30/06/2017,"1 Whitechapel Green, Blanchardstown, Dublin",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+30/06/2017,"77 Blasket Sq, Waterville, Blanchardstown Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+04/07/2017,"116 Waterville Terrace, Blanchardstown, Dublin",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+04/07/2017,"6 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,246000.0,No,Blanchardstown,Dublin 15,q3,70%
+06/07/2017,"2 Stationcourt Way, Clonsilla Rd, Blanchardstown Dublin 15",Dublin,211000.0,No,Blanchardstown,Dublin 15,q2,50%
+07/07/2017,"24 Villa Blanchard, Main St, Blanchardstown Dublin 15",Dublin,205000.0,Yes,Blanchardstown,Dublin 15,q2,50%
+07/07/2017,"76 Woodview Grove, Blanchardstown, Dublin 15",Dublin,60000.0,No,Blanchardstown,Dublin 15,q1,10%
+07/07/2017,"Limelawn Wood 27, Blanchardstown, Dublin 15",Dublin,353000.0,No,Blanchardstown,Dublin 15,q4,100%
+12/07/2017,"8 Coolmine Woods, Blanchardstown, Dublin 15",Dublin,428000.0,No,Blanchardstown,Dublin 15,q4,100%
+13/07/2017,"3 Gazelle Ave, Tyrrelstown, Blanchardstown Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+14/07/2017,"14 Warrenstown Court, Blanchardstown, Dublin 15",Dublin,285000.0,No,Blanchardstown,Dublin 15,q4,90%
+17/07/2017,"11 Church Ave, Blanchardstown, Dublin 15",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+17/07/2017,"2 St Brigids Park, Blanchardstown, Dublin 15",Dublin,300000.0,No,Blanchardstown,Dublin 15,q4,90%
+17/07/2017,"41 Dursey Row, Waterville, Blanchardstown Dublin 15",Dublin,233000.0,No,Blanchardstown,Dublin 15,q3,60%
+21/07/2017,"45 Grove Court, Grove Rd, Blanchardstown Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+24/07/2017,"17 Scariff House, Waterville Terrace, Blanchardstown",Dublin,262000.0,No,Blanchardstown,Dublin 15,q3,80%
+24/07/2017,"46 Blasket Sq, Watervillle, Blanchardstown Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,80%
+27/07/2017,"77 Annagh Court, Waterville, Blanchardstown",Dublin,240000.0,No,Blanchardstown,Dublin 15,q3,70%
+28/07/2017,"1 Avon Lodge, The Plaza, Main St Blanchardstown Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+28/07/2017,"14 Blasket Sq, Blanchardstown, Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,80%
+28/07/2017,"2 Castlecurragh Heath, Blanchardstown, Dublin 15",Dublin,218500.0,No,Blanchardstown,Dublin 15,q2,50%
+28/07/2017,"Apt. 29, Verdemont, Blanchardstown",Dublin,166000.0,No,Blanchardstown,Dublin 15,q1,30%
+02/08/2017,"30 Millstead, Blanchardstown, Dublin 15",Dublin,370000.0,No,Blanchardstown,Dublin 15,q4,100%
+02/08/2017,"37 Whatley Hall, Archerswood, Blanchardstown Dublin 15",Dublin,206000.0,No,Blanchardstown,Dublin 15,q2,50%
+09/08/2017,"241 Castlecurragh Heath, Castlecurragh, Blanchardstown Dublin 15",Dublin,248000.0,No,Blanchardstown,Dublin 15,q3,70%
+11/08/2017,"30 Corduff Place, Blanchardstown, Dublin 15",Dublin,160000.0,No,Blanchardstown,Dublin 15,q1,30%
+15/08/2017,"42 Summerfield Lawn, Blanchardstown, Dublin 15",Dublin,360000.0,No,Blanchardstown,Dublin 15,q4,100%
+15/08/2017,"74 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q2,50%
+17/08/2017,"16 Warrenstown Lawn, Blanchardstown Heath, Blanchardstown",Dublin,253000.0,No,Blanchardstown,Dublin 15,q3,70%
+17/08/2017,"6 Villa Blanchard, Main St, Blanchardstown Dublin 15",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+18/08/2017,"13 Orchard Green, Blanchardstown, Dublin",Dublin,335000.0,No,Blanchardstown,Dublin 15,q4,100%
+22/08/2017,"16 Grove Garden, Verdemont, Blanchardstown",Dublin,197451.0,No,Blanchardstown,Dublin 15,q2,40%
+22/08/2017,"3 Drumheath Av, Blanchardstown, Dublin 15",Dublin,122000.0,No,Blanchardstown,Dublin 15,q1,10%
+25/08/2017,"259 Castlecurragh Heath, Blanchardstown, Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,80%
+28/08/2017,"5 Sheephill Park, Blanchardstown, Dublin 15",Dublin,125000.0,No,Blanchardstown,Dublin 15,q1,10%
+29/08/2017,"69 Annagh Court Waterville, Blanchardstown Dublin 15, Dublin",Dublin,260000.0,No,Blanchardstown,Dublin 15,q3,80%
+01/09/2017,"14 Westway Lawns, Blanchardstown, Dublin 15",Dublin,246000.0,No,Blanchardstown,Dublin 15,q3,70%
+04/09/2017,"17 St Mochtas Vale, Coolmine Lodge, Blanchardstown Dublin 15",Dublin,297500.0,No,Blanchardstown,Dublin 15,q4,90%
+04/09/2017,"Apt 1 Benlawn Mews, Mary Brennan Park, Blanchardstown",Dublin,302000.0,No,Blanchardstown,Dublin 15,q4,90%
+05/09/2017,"96 Westend Village, Blanchardstown, Dublin 15",Dublin,202000.0,No,Blanchardstown,Dublin 15,q2,50%
+07/09/2017,"170 Edgewood Lawns, Blanchardstown, Dublin 15",Dublin,260000.0,No,Blanchardstown,Dublin 15,q3,80%
+13/09/2017,"59 Fortlawn Ave, Blanchardstown, Dublin 15",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+14/09/2017,"18 Rathlin  Hall, Waterville, Blanchardstown",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+15/09/2017,"104 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+15/09/2017,"5 Bantry Square, Waterville, Blanchardstown",Dublin,230500.0,No,Blanchardstown,Dublin 15,q3,60%
+15/09/2017,"62 River Vale, River Road, Blanchardstown",Dublin,270000.0,No,Blanchardstown,Dublin 15,q4,80%
+15/09/2017,"River Rd, Blanchardstown, Dublin 15",Dublin,445000.0,No,Blanchardstown,Dublin 15,q4,100%
+18/09/2017,"48 Westend Village, Blanchardstown, Dublin 15",Dublin,204000.0,No,Blanchardstown,Dublin 15,q2,50%
+21/09/2017,"12, Waterville Hall, Blanchardstown",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+21/09/2017,"60 Aran Ct, Waterville Blanchardstown, Dublin 15",Dublin,257000.0,No,Blanchardstown,Dublin 15,q3,80%
+21/09/2017,"9 Bantry Sq, Waterville, Blanchardstown",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+22/09/2017,"100 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+25/09/2017,"46 Waterville Row, Blanchardstown Dublin 15, Dublin",Dublin,220000.0,No,Blanchardstown,Dublin 15,q3,60%
+29/09/2017,"1 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+29/09/2017,"19 Garnish Sq, Waterville, Blanchardstown",Dublin,234000.0,No,Blanchardstown,Dublin 15,q3,60%
+29/09/2017,"82 Tory Sq, Waterville, Blanchardstown Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+12/10/2017,"53 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,222000.0,No,Blanchardstown,Dublin 15,q3,60%
+19/10/2017,"169 Whitestown Ave, Blanchardstown, Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+19/10/2017,"5 Warrenstown Green, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+20/10/2017,"10 Summerfield Lawns, Clonsilla Rd, Blanchardstown Dublin 15",Dublin,367500.0,No,Blanchardstown,Dublin 15,q4,100%
+20/10/2017,"69 Westend Village, Snugborough Rd, Blanchardstown",Dublin,208000.0,No,Blanchardstown,Dublin 15,q2,50%
+23/10/2017,"10 Scariff Hall, Waterville, Blanchardstown",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+24/10/2017,"44 Westend Village, Snugborough Rd, Blanchardstown",Dublin,238000.0,No,Blanchardstown,Dublin 15,q3,60%
+26/10/2017,"34 Castlecurragh Heath, Blanchardstown, Dublin 15",Dublin,132000.0,No,Blanchardstown,Dublin 15,q1,20%
+27/10/2017,"139 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+27/10/2017,"16 Grove Garden, Verdemont, Blanchardstown",Dublin,193000.0,No,Blanchardstown,Dublin 15,q2,40%
+27/10/2017,"1A Millstead, Mill Rd, Blanchardstown Dublin 15",Dublin,360000.0,No,Blanchardstown,Dublin 15,q4,100%
+27/10/2017,"27 Villa Blancha Rd, Blanchardstown, Dublin 15",Dublin,207000.0,No,Blanchardstown,Dublin 15,q2,50%
+08/11/2017,"22 Summerfield Rise, Blanchardstown, Dublin 15",Dublin,350000.0,No,Blanchardstown,Dublin 15,q4,100%
+10/11/2017,"82 Erris Sq, Blanchardstown, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+10/11/2017,"9 Castlecurragh Park, Blanchardstown, Dublin 15",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+15/11/2017,"15 St Mochtas Close, Blanchardstown, Dublin 15",Dublin,385000.0,No,Blanchardstown,Dublin 15,q4,100%
+17/11/2017,"214 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+17/11/2017,"Apt 4 Rathlin House, Waterville Terrace, Blanchardstown",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+21/11/2017,"109 Verdemont, Blanchardstown, Dublin 15",Dublin,233000.0,No,Blanchardstown,Dublin 15,q3,60%
+22/11/2017,"9 Main St, Blanchardstown, Dublin 15",Dublin,315000.0,No,Blanchardstown,Dublin 15,q4,90%
+24/11/2017,"4 Warrenstown Lawn, Blanchardstown, Dublin 15",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+24/11/2017,"64 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+27/11/2017,"86 Bantry Sq Waterville, Blanchardstown, Dublin",Dublin,259000.0,No,Blanchardstown,Dublin 15,q3,80%
+28/11/2017,"Clonross, Navan Rd, Blanchardstown Dublin 15",Dublin,950000.0,No,Blanchardstown,Dublin 15,q4,100%
+06/12/2017,"48 Annagh Court, Waterville, Blanchardstown Dublin 15",Dublin,228000.0,No,Blanchardstown,Dublin 15,q3,60%
+12/12/2017,"2 Brookhaven Drive, Blanchardstown, Dublin 5",Dublin,237000.0,No,Blanchardstown,Dublin 15,q3,60%
+14/12/2017,"31 Portersfield Green, Blanchardstown, Dublin 15",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+15/12/2017,"1 Warrenstown Lawn, Blanchardstown Meath, Blanchardstown Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+15/12/2017,"30 Brookhaven Rise, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+15/12/2017,"6 Springlawn Heights, Blanchardstown, Dublin 15",Dublin,388000.0,No,Blanchardstown,Dublin 15,q4,100%
+19/12/2017,"17 Woodrun, Verdemont, Blanchardstown",Dublin,181000.0,No,Blanchardstown,Dublin 15,q2,40%
+21/12/2017,"16 Brookhaven Park, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+21/12/2017,"4 Ashling Heights, Blanchardstown, Dublin 15",Dublin,320000.0,No,Blanchardstown,Dublin 15,q4,100%
+21/12/2017,"4 Herbert Rd, Blanchardstown, Dublin",Dublin,325000.0,No,Blanchardstown,Dublin 15,q4,100%
+21/12/2017,"Apt 59, Westend Village, Blanchardstown",Dublin,220000.0,No,Blanchardstown,Dublin 15,q3,60%
+22/12/2017,"57 Tory Sq, Waterville, Blanchardstown Dublin 15",Dublin,271000.0,No,Blanchardstown,Dublin 15,q4,80%
+03/01/2018,"16 Amberfield, Verdemont, Blanchardstown",Dublin,203000.0,No,Blanchardstown,Dublin 15,q2,50%
+09/01/2018,"131 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+19/01/2018,"21 Scariff Hall, Waterville Terrace, Blanchardstown Dublin 15",Dublin,262000.0,No,Blanchardstown,Dublin 15,q3,80%
+19/01/2018,"69 Woodview Grove, Blanchardstown, Dublin 15",Dublin,305000.0,No,Blanchardstown,Dublin 15,q4,90%
+23/01/2018,"75 Aran Court, Waterville, Blanchardstown",Dublin,242500.0,No,Blanchardstown,Dublin 15,q3,70%
+24/01/2018,"9 Coolmine Woods, Blanchardstown, Dublin 15",Dublin,475000.0,No,Blanchardstown,Dublin 15,q4,100%
+31/01/2018,"2 Warrenstown, Blanchardstown, Dublin",Dublin,244000.0,No,Blanchardstown,Dublin 15,q3,70%
+06/02/2018,"189 Castlecurragh Vale, Blanchardstown, Dublin 15",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+06/02/2018,"33 Castlecurragh Park, Blanchardstown, Dublin 15",Dublin,173000.0,No,Blanchardstown,Dublin 15,q2,30%
+09/02/2018,"16 Annagh Court, Waterville, Blanchardstown",Dublin,249000.0,No,Blanchardstown,Dublin 15,q3,70%
+09/02/2018,"4 Tory Sq, Waterville, Blanchardstown Dublin 15",Dublin,280000.0,No,Blanchardstown,Dublin 15,q4,90%
+13/02/2018,"44 Blasket Sq, Waterville, Blanchardstown Dublin 15",Dublin,265000.0,No,Blanchardstown,Dublin 15,q3,80%
+19/02/2018,"10 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,243000.0,No,Blanchardstown,Dublin 15,q3,70%
+23/02/2018,"72 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,256000.0,No,Blanchardstown,Dublin 15,q3,80%
+08/03/2018,"14 Skelligs Court, Blanchardstown",Dublin,134981.53,No,Blanchardstown,Dublin 15,q1,20%
+08/03/2018,"35 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+15/03/2018,"121 Edgewood Lawns, Blanchardstown, Dublin",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+16/03/2018,"15 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+16/03/2018,"58 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+16/03/2018,"78 Fortlawn Dr, Blanchardstown, Dublin 15",Dublin,203000.0,No,Blanchardstown,Dublin 15,q2,50%
+21/03/2018,"103 Whitestown Avenue, Blanchardstown, Dublin 15",Dublin,242000.0,No,Blanchardstown,Dublin 15,q3,70%
+23/03/2018,"19 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+28/03/2018,"21 Ravenswood Crescent, Castaheany, Blanchardstown Dublin 15",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+29/03/2018,"5 Warrenstown Park, Blanchardstown, Dublin 15",Dublin,234950.0,No,Blanchardstown,Dublin 15,q3,60%
+09/04/2018,"17 Rathlin Hall, Waterville Terrace, Blanchardstown",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+10/04/2018,"17 Warrenstown Grove, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+11/04/2018,"5 Blakestown Road, Blakestown, Blanchardstown",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+12/04/2018,"33 Huntstown Court, Blanchardstown, Dublin 15",Dublin,258750.0,No,Blanchardstown,Dublin 15,q3,80%
+17/04/2018,"19 Annagh Court, Waterville, Blanchardstown",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+20/04/2018,"38 Hillbrook Woods, Blanchardstown, Dublin",Dublin,204000.0,No,Blanchardstown,Dublin 15,q2,50%
+23/04/2018,"20A Coolmine Boulevard, Blanchardstown, Dublin 15",Dublin,435000.0,No,Blanchardstown,Dublin 15,q4,100%
+24/04/2018,"6 Castlecurragh Park, Blanchardstown, Dublin 15",Dublin,242000.0,No,Blanchardstown,Dublin 15,q3,70%
+02/05/2018,"5 Dursey Row, Waterville, Blanchardstown Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+03/05/2018,"5 Villas Blanchardstown, Main St, Blanchardstown",Dublin,220000.0,No,Blanchardstown,Dublin 15,q3,60%
+08/05/2018,"4 Springlawn Dr, Blanchardstown, Dublin 15",Dublin,390000.0,No,Blanchardstown,Dublin 15,q4,100%
+08/05/2018,"61 Summerfield Rise, Blanchardstown, Dublin 15",Dublin,406000.0,No,Blanchardstown,Dublin 15,q4,100%
+09/05/2018,"32 Shackleton House, Archerswood, Blanchardstown Dublin 15",Dublin,198000.0,No,Blanchardstown,Dublin 15,q2,40%
+09/05/2018,"9 Woodrun Apts, Werdemont, Blanchardstown Dublin 15",Dublin,208000.0,No,Blanchardstown,Dublin 15,q2,50%
+15/05/2018,"13 Cedarhurst Green, Phoenix Park Racecourse, Blanchardstown Dublin 15",Dublin,415000.0,No,Blanchardstown,Dublin 15,q4,100%
+15/05/2018,"40 Glenville Ave, Blanchardstown, Dublin 15",Dublin,400000.0,No,Blanchardstown,Dublin 15,q4,100%
+16/05/2018,"2 Fortlawn Ave, Blanchardstown, Dublin City",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+21/05/2018,"83 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,258000.0,No,Blanchardstown,Dublin 15,q3,80%
+23/05/2018,"2 Mount Eustace Walk, Tyrellstown, Blanchardstown Dublin 15",Dublin,170000.0,No,Blanchardstown,Dublin 15,q2,30%
+29/05/2018,"78 Castlecurragh Park, Blanchardstown, Dublin 15",Dublin,197230.0,No,Blanchardstown,Dublin 15,q2,40%
+01/06/2018,"117 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+01/06/2018,"29 Warrenstown Dr, Blanchardstown Meath, Dublin",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+01/06/2018,"57 Whitestown Park, Blanchardstown, Dublin 15",Dublin,195000.0,No,Blanchardstown,Dublin 15,q2,40%
+08/06/2018,"16 Bantry Sq, Waterville, Blanchardstown Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,80%
+13/06/2018,"123, Brandon Square, Blanchardstown",Dublin,405000.0,No,Blanchardstown,Dublin 15,q4,100%
+15/06/2018,"20 Saddler'S Grove, Blanchardstown, Dublin 15",Dublin,260000.0,No,Blanchardstown,Dublin 15,q3,80%
+15/06/2018,"30 Whitestown Gardens, Blakestown, Blanchardstown",Dublin,221000.0,No,Blanchardstown,Dublin 15,q3,60%
+21/06/2018,"10 Westway Rise, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+22/06/2018,"21 Whitestown Walk, Blanchardstown, Dublin 15",Dublin,226000.0,No,Blanchardstown,Dublin 15,q3,60%
+22/06/2018,"24 Old Navan Rd, Blanchardstown, Dublin 15",Dublin,600000.0,No,Blanchardstown,Dublin 15,q4,100%
+25/06/2018,"45 Achill Square, Waterville, Blanchardstown",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+28/06/2018,"3 Warrenstown View, Blanchardstown Dublin 15, Dublin",Dublin,252000.0,No,Blanchardstown,Dublin 15,q3,70%
+02/07/2018,"111 Erris Sq, Waterville, Blanchardstown Dublin 15",Dublin,213000.0,No,Blanchardstown,Dublin 15,q2,50%
+06/07/2018,"9 Warrenstown Close, Warrenstown, Blanchardstown",Dublin,275000.0,No,Blanchardstown,Dublin 15,q4,80%
+10/07/2018,"22 Old Navan Rd, Blanchardstown, Dublin 15",Dublin,620000.0,No,Blanchardstown,Dublin 15,q4,100%
+10/07/2018,"56 Fortlawn Dr, Mountview, Blanchardstown Dublin 15",Dublin,240500.0,No,Blanchardstown,Dublin 15,q3,70%
+11/07/2018,"12 Woodrum, Verdemont, Blanchardstown",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+13/07/2018,"Montrose, Main St Blanchardstown, Dublin 15",Dublin,320000.0,No,Blanchardstown,Dublin 15,q4,100%
+16/07/2018,"37 Annagh Court, Waterville, Blanchardstown",Dublin,233000.0,No,Blanchardstown,Dublin 15,q3,60%
+19/07/2018,"3 Corduff Cottages, Old Corduff Rd, Blanchardstown Dublin 15",Dublin,224500.0,No,Blanchardstown,Dublin 15,q3,60%
+23/07/2018,"15 Westway View, Blanchardstown, Dublin 15",Dublin,237500.0,No,Blanchardstown,Dublin 15,q3,60%
+27/07/2018,"65 Grove Court, Grove Rd, Blanchardstown Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+30/07/2018,"74 Brandon Square, Waterville, Blanchardstown",Dublin,425000.0,No,Blanchardstown,Dublin 15,q4,100%
+01/08/2018,"Apt 3, Achill Square, Blanchardstown",Dublin,252000.0,No,Blanchardstown,Dublin 15,q3,70%
+02/08/2018,"83 Erris Sq, Waterville, Blanchardstown Dublin 15",Dublin,237000.0,No,Blanchardstown,Dublin 15,q3,60%
+03/08/2018,"55 Summerfield Rise, Blanchardstown, Dublin 15",Dublin,382000.0,No,Blanchardstown,Dublin 15,q4,100%
+10/08/2018,"2 Warrenstown Place, Blanchardstown Dublin 15, Dublin 15",Dublin,265000.0,No,Blanchardstown,Dublin 15,q3,80%
+14/08/2018,"112 Castlecurragh Vale, Castlecurragh, Blanchardstown",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+15/08/2018,"24 Summerfield Rise, Clonsilla Road, Blanchardstown",Dublin,133500.0,No,Blanchardstown,Dublin 15,q1,20%
+16/08/2018,"49 Waterville Row, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+17/08/2018,"13 Springlawn Dr, Blanchardstown, Dublin 15",Dublin,397000.0,No,Blanchardstown,Dublin 15,q4,100%
+17/08/2018,"53 Waterville Row, Waterville Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+21/08/2018,"14 Ramor Park, Blanchardstown, Dublin 15",Dublin,430000.0,No,Blanchardstown,Dublin 15,q4,100%
+23/08/2018,"2 Park Gate, Verdemont, Blanchardstown Dublin 15",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+28/08/2018,"62 Erris Sq, Waterville, Blanchardstown Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,80%
+29/08/2018,"107 Erris Sq, Waterville, Blanchardstown Dublin 15",Dublin,285000.0,No,Blanchardstown,Dublin 15,q4,90%
+30/08/2018,"108 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,208000.0,No,Blanchardstown,Dublin 15,q2,50%
+31/08/2018,"93 Whitestown Park, Blanchardstown, Dublin 15",Dublin,270000.0,No,Blanchardstown,Dublin 15,q4,80%
+13/09/2018,"15 Summerfield Ave, Blanchardstown, Dublin 15",Dublin,355000.0,No,Blanchardstown,Dublin 15,q4,100%
+17/09/2018,"13 Brookhaven Lawn, Blanchardstown, Dublin 15",Dublin,275000.0,No,Blanchardstown,Dublin 15,q4,80%
+19/09/2018,"3 Waterville Row, Blanchardstown, Dublin 15",Dublin,290000.0,No,Blanchardstown,Dublin 15,q4,90%
+24/09/2018,"30 Skellings Court, Waterville, Blanchardstown",Dublin,311000.0,No,Blanchardstown,Dublin 15,q4,90%
+25/09/2018,"24 Warrenstown Lawn, Blanchardstown Meath, Dublin 15",Dublin,258000.0,No,Blanchardstown,Dublin 15,q3,80%
+25/09/2018,"9 Mill Road, Blanchardstown, Dublin 15",Dublin,150000.0,No,Blanchardstown,Dublin 15,q1,20%
+26/09/2018,"9 Bellgree Woods, Tyrrelstown, Blanchardstown Dublin 15",Dublin,224000.0,No,Blanchardstown,Dublin 15,q3,60%
+01/10/2018,"71 Annagh Court, Waterville, Blanchardstown Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,80%
+05/10/2018,"32 Malin Hall, Waterville, Blanchardstown Dublin 15",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+12/10/2018,"65 Westend Village, Blanchardstown, Dublin 15",Dublin,251000.0,No,Blanchardstown,Dublin 15,q3,70%
+16/10/2018,"73 Skelligs Court, Waterville Apt, Blanchardstown Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+24/10/2018,"34 Grove Court, Grove Rd, Blanchardstown Dublin 15",Dublin,176674.0,No,Blanchardstown,Dublin 15,q2,30%
+29/10/2018,"65 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,215500.0,No,Blanchardstown,Dublin 15,q2,50%
+31/10/2018,"73 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q3,60%
+02/11/2018,"14 Warrenstown Green, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+05/11/2018,"19 Warrenstown Way, Blanchardstown, Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,80%
+08/11/2018,"15 Warrenstown Grove, Blanchardstown Meath, Dublin 15",Dublin,257000.0,No,Blanchardstown,Dublin 15,q3,80%
+14/11/2018,"6 Warrenstown Court, Blanchardstown, Dublin 15",Dublin,278000.0,No,Blanchardstown,Dublin 15,q4,90%
+14/11/2018,"Apt. 40, Verdemont, Blanchardstown",Dublin,202000.0,No,Blanchardstown,Dublin 15,q2,50%
+16/11/2018,"19 Warrenstown Walk, Blanchardstown Meath, Blanchardstown",Dublin,275000.0,No,Blanchardstown,Dublin 15,q4,80%
+16/11/2018,"30 Sheephill Park, Blanchardstown, Dublin 15",Dublin,154716.0,No,Blanchardstown,Dublin 15,q1,20%
+16/11/2018,"44 Erris Sq Waterville, Blanchardstown, Waterville",Dublin,285000.0,No,Blanchardstown,Dublin 15,q4,90%
+21/11/2018,"24 Woodview Grove, Blanchardstown, Dublin 15",Dublin,420000.0,No,Blanchardstown,Dublin 15,q4,100%
+21/11/2018,"Apt 4 Rathlin House, Waterville Terrace, Blanchardstown",Dublin,220000.0,No,Blanchardstown,Dublin 15,q3,60%
+23/11/2018,"1 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,238000.0,No,Blanchardstown,Dublin 15,q3,60%
+23/11/2018,"19 Sheepmoor Way, Blanchardstown, Dublin 15",Dublin,180000.0,No,Blanchardstown,Dublin 15,q2,40%
+23/11/2018,"8 Tory Sq, Waterville, Blanchardstown Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+30/11/2018,"17 Bishops Orchard, Tyrellstown, Blanchardstown Dublin 15",Dublin,269950.0,No,Blanchardstown,Dublin 15,q4,80%
+30/11/2018,"2 Westway Lawns, Blanchardstown, Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,80%
+30/11/2018,"94 Waterville Terrace, Waterville, Blanchardstown Dublin 15",Dublin,269000.0,No,Blanchardstown,Dublin 15,q4,80%
+04/12/2018,"2 Waterville Row, Blanchardstown, Dublin 15",Dublin,222000.0,No,Blanchardstown,Dublin 15,q3,60%
+05/12/2018,"165 Edgewood Lawn, Blanchardstown, Dublin 15",Dublin,240000.0,No,Blanchardstown,Dublin 15,q3,70%
+05/12/2018,"17A Warrenstowngrov, Blanchardstown, Dublin 15",Dublin,280000.0,No,Blanchardstown,Dublin 15,q4,90%
+07/12/2018,"250 Castlecurragh Heath, Blanchardstown, Dublin 15",Dublin,275000.0,No,Blanchardstown,Dublin 15,q4,80%
+07/12/2018,"Apt 26 Grove Court, Blanchardstown, Dublin 15",Dublin,178000.0,No,Blanchardstown,Dublin 15,q2,30%
+11/12/2018,"12 Dursey Row, Waterville, Blanchardstown Dublin 15",Dublin,289000.0,No,Blanchardstown,Dublin 15,q4,90%
+11/12/2018,"3 Saddlers Glade, Blanchardstown, Dublin 15",Dublin,275000.0,No,Blanchardstown,Dublin 15,q4,80%
+13/12/2018,"74 Aran Court, Waterville, Blanchardstown Dublin 15",Dublin,270000.0,No,Blanchardstown,Dublin 15,q4,80%
+14/12/2018,"52 Hillbrook Woods, Blanchardstown, Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+19/12/2018,"163 Clonsilla Rd, Blanchardstown, Dublin 15",Dublin,482000.0,No,Blanchardstown,Dublin 15,q4,100%
+20/12/2018,"105 Erris Sq, Waterville, Blanchardstown Dublin 15",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+20/12/2018,"112 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+20/12/2018,"27 Springlawn Court, Blanchardstown, Dublin 15",Dublin,320000.0,No,Blanchardstown,Dublin 15,q4,100%
+04/01/2019,"51 Verdemont, Snugborough Rd, Blanchardstown Dublin 15",Dublin,216000.0,No,Blanchardstown,Dublin 15,q2,50%
+09/01/2019,"152 Waterville Terrace, Blanchardstown Dublin 15, Dublin",Dublin,270000.0,No,Blanchardstown,Dublin 15,q4,80%
+25/01/2019,"84 West End Village, Blanchardstown, Dublin 15",Dublin,210000.0,No,Blanchardstown,Dublin 15,q2,50%
+12/02/2019,"111 Westend Village, Blanchardstown, Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q3,60%
+12/02/2019,"45 Annagh Court, Waterville, Blanchardstown",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,80%
+14/02/2019,"32 Shelerin Rd, Clonsilla, Blanchardstown Dublin 15",Dublin,369000.0,No,Blanchardstown,Dublin 15,q4,100%
+15/02/2019,"105 Edgewood Lawns, Blanchardstown, Dublin 15",Dublin,258000.0,No,Blanchardstown,Dublin 15,q3,80%
+15/02/2019,"9 Waterville Row, Snugborough Rd, Blanchardstown Dublin 15",Dublin,290000.0,No,Blanchardstown,Dublin 15,q4,90%
+18/02/2019,"39 Rosedale Close, Castaheany, Blanchardstown Dublin 15",Dublin,202000.0,No,Blanchardstown,Dublin 15,q2,50%
+18/02/2019,"55 Fortlawn Ave, Blanchardstown, Dublin 15",Dublin,230000.0,No,Blanchardstown,Dublin 15,q3,60%
+18/02/2019,"76 Castlecurragh Park, Blanchardstown Dublin 15, Dublin 15",Dublin,27500.0,No,Blanchardstown,Dublin 15,q1,10%
+19/02/2019,"62 Fortlawn Avenue, Blanchardstown, Dublin 15",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+20/02/2019,"112 Erris Sq, Waterville, Blanchardstown Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q3,60%
+25/02/2019,"24 Warrenstown Close, Blanchardstown, Dublin 15",Dublin,230434.0,No,Blanchardstown,Dublin 15,q3,60%
+25/02/2019,"25 Warrenstown Walk, Blanchardstown, Dublin 15",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+26/02/2019,"12 Grove Court, Grove Rd, Blanchardstown Dublin 15",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+27/02/2019,"2 Warrenstown Garth, Blanchardstown Meath, Blanchardstown Dublin 15",Dublin,275000.0,No,Blanchardstown,Dublin 15,q4,80%
+28/02/2019,"12 The Court Yard, Clonsilla Rd, Blanchardstown Dublin 15",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+04/03/2019,"13 Linnetfields Sq, Blanchardstown, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+07/03/2019,"25 Springlawn Court, Blanchardstown, Dublin 15",Dublin,345000.0,No,Blanchardstown,Dublin 15,q4,100%
+08/03/2019,"35 Millstead, Blanchardstown, Dublin 15",Dublin,345500.0,No,Blanchardstown,Dublin 15,q4,100%
+08/03/2019,"4 Warrenstown Row, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+13/03/2019,"21 Warrenstown Close, Blanchardstown, Dublin",Dublin,270000.0,No,Blanchardstown,Dublin 15,q4,80%
+15/03/2019,"7 Tory Sq, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+19/03/2019,"23 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,243000.0,No,Blanchardstown,Dublin 15,q3,70%
+19/03/2019,"37 Springlawn Close, Blanchardstown, Dublin 15",Dublin,285000.0,No,Blanchardstown,Dublin 15,q4,90%
+19/03/2019,"5 Sheephill Park, Blanchardstown, Dublin 15",Dublin,237000.0,No,Blanchardstown,Dublin 15,q3,60%
+29/03/2019,"42 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+29/03/2019,"56 Tory Sq, Waterville, Blanchardstown Dublin 15",Dublin,269000.0,No,Blanchardstown,Dublin 15,q4,80%
+01/04/2019,"4 Villa Blanchard, Main St, Blanchardstown Dublin 15",Dublin,205000.0,No,Blanchardstown,Dublin 15,q2,50%
+01/04/2019,"40 Glenville Dr, Blanchardstown, Dublin 15",Dublin,335000.0,No,Blanchardstown,Dublin 15,q4,100%
+01/04/2019,"46 Fortlawn Drive, Blanchardstown, Dublin 15",Dublin,185500.0,No,Blanchardstown,Dublin 15,q2,40%
+01/04/2019,"46 Fortlawn Drive, Blanchardstown, Dublin 15",Dublin,185500.0,No,Blanchardstown,Dublin 15,q2,40%
+02/04/2019,"2 Summerfield Rise, Blanchardstown, Dublin 15",Dublin,365000.0,No,Blanchardstown,Dublin 15,q4,100%
+04/04/2019,"67 Garnish Sq, Waterville, Blanchardstown Dublin 15",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+04/04/2019,"9 Coolmine Blvd, Blanchardstown, Dublin 15",Dublin,415000.0,No,Blanchardstown,Dublin 15,q4,100%
+05/04/2019,"41 Warrenstown Dr, Blanchardstown, Dublin 15",Dublin,220000.0,No,Blanchardstown,Dublin 15,q3,60%
+05/04/2019,"49 Garnish Sq, Waterville, Blanchardstown",Dublin,226000.0,No,Blanchardstown,Dublin 15,q3,60%
+10/04/2019,"10 Warrenstown Way, Blanchardstown Heath, Dublin 15",Dublin,225000.0,No,Blanchardstown,Dublin 15,q3,60%
+17/04/2019,"1 Bellgree House, Tyrrelstown, Blanchardstown Dublin 15",Dublin,173000.0,No,Blanchardstown,Dublin 15,q2,30%
+18/04/2019,"7 Malin House, Waterville Terrace, Blanchardstown",Dublin,191000.0,No,Blanchardstown,Dublin 15,q2,40%
+23/04/2019,"22 Wellview Park, Blanchardstown, Dublin15",Dublin,78000.0,No,Blanchardstown,Dublin 15,q1,10%
+25/04/2019,"77 Aran Court, Waterville, Blanchardstown Dublin 15",Dublin,255000.0,No,Blanchardstown,Dublin 15,q3,80%
+30/04/2019,"20A Westway View, Blanchardstown, Dublin 15",Dublin,275000.0,No,Blanchardstown,Dublin 15,q4,80%
+07/05/2019,"Apt 4, Waterville Row, Blanchardstown Dublin 15",Dublin,241000.0,No,Blanchardstown,Dublin 15,q3,70%
+09/05/2019,"64 Summerfield Lawns, Blanchardstown, Dublin 15",Dublin,355000.0,No,Blanchardstown,Dublin 15,q4,100%
+09/05/2019,"Apt 124 Westend Village, Blanchardstown, Dublin City",Dublin,228000.0,No,Blanchardstown,Dublin 15,q3,60%
+10/05/2019,"85 Castlecurragh Heath, Blanchardstown, Dublin 15",Dublin,256000.0,No,Blanchardstown,Dublin 15,q3,80%
+16/05/2019,"3 Warrenstown Close, Blanchardstown, Dublin 15",Dublin,257000.0,No,Blanchardstown,Dublin 15,q3,80%
+17/05/2019,"57 Brookhaven Dr, Blanchardstown, Dublin 15",Dublin,285000.0,No,Blanchardstown,Dublin 15,q4,90%
+22/05/2019,"12 Westway Vew, Blanchardstown, Dublin 15",Dublin,265000.0,No,Blanchardstown,Dublin 15,q3,80%
+22/05/2019,"39 Brandon Square, Waterville, Blanchardstown",Dublin,390000.0,Yes,Blanchardstown,Dublin 15,q4,100%
+24/05/2019,"33 Ashling Heights, Blanchardstown, Dublin 15",Dublin,279000.0,No,Blanchardstown,Dublin 15,q4,90%
+28/05/2019,"14 Waterville Row, Snugborough Rd, Blanchardstown Dublin 15",Dublin,213000.0,No,Blanchardstown,Dublin 15,q2,50%
+05/06/2019,"126 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,216000.0,No,Blanchardstown,Dublin 15,q2,50%
+10/06/2019,"120 Castlecurragh Park, Blanchardstown, Dublin",Dublin,242000.0,No,Blanchardstown,Dublin 15,q3,70%
+13/06/2019,"26 Erris Sq, Waterville, Blanchardstown Dublin 15",Dublin,290000.0,No,Blanchardstown,Dublin 15,q4,90%
+14/06/2019,"3 Dursey Row, Blanchardstown, Dublin 15",Dublin,223000.0,No,Blanchardstown,Dublin 15,q3,60%
+20/06/2019,"121 Edgewood Lawns, Blanchardstown, Dublin",Dublin,300000.0,No,Blanchardstown,Dublin 15,q4,90%
+21/06/2019,"43 Annagh Court, Waterville, Blanchardstown Dublin 15",Dublin,232000.0,No,Blanchardstown,Dublin 15,q3,60%
+21/06/2019,"6 Warrenstown Grove, Blanchardstown Meath, Blanchardstown Rd North Dublin 15",Dublin,292000.0,No,Blanchardstown,Dublin 15,q4,90%
+24/06/2019,"23 Warrenstown Walk, Blanchardstown Dublin 15, Dublin",Dublin,282500.0,No,Blanchardstown,Dublin 15,q4,90%
+24/06/2019,"25 Waterville Row, Blanchardstown, Dublin 15",Dublin,221000.0,No,Blanchardstown,Dublin 15,q3,60%
+24/06/2019,"3 Fortlawn Park, Blanchardstown, Co. Dublin",Dublin,261000.0,No,Blanchardstown,Dublin 15,q3,80%
+25/06/2019,"8 Achill Sq, Waterville, Blanchardstown Dublin 15",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+03/07/2019,"18 Scariff Hall, Waterville Terrace, Blanchardstown",Dublin,228000.0,No,Blanchardstown,Dublin 15,q3,60%
+03/07/2019,"29 Pinebrook Lawns, Blanchardstown, Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+04/07/2019,"64 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,256000.0,No,Blanchardstown,Dublin 15,q3,80%
+05/07/2019,"34 Sheephill Green, Corduff, Blanchardstown",Dublin,234000.0,No,Blanchardstown,Dublin 15,q3,60%
+08/07/2019,"5 Sheepmore Green, Blanchardstown, Dublin 15",Dublin,215000.0,No,Blanchardstown,Dublin 15,q2,50%
+12/07/2019,"165 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,285000.0,No,Blanchardstown,Dublin 15,q4,90%
+17/07/2019,"7 Springlawn Heights, Blanchardstown, Dublin 15",Dublin,335000.0,No,Blanchardstown,Dublin 15,q4,100%
+23/07/2019,"1 Rockfield Drive, Blanchardstown, Dublin",Dublin,360000.0,No,Blanchardstown,Dublin 15,q4,100%
+23/07/2019,"19 Coolmine Lawn, Blanchardstown, Dublin 15",Dublin,400000.0,No,Blanchardstown,Dublin 15,q4,100%
+23/07/2019,"26 Springlawn Court, Blanchardstown, Dublin 15",Dublin,385000.0,No,Blanchardstown,Dublin 15,q4,100%
+23/07/2019,"45 Dursey Row, Waterville, Blanchardstown Dublin 15",Dublin,222000.0,No,Blanchardstown,Dublin 15,q3,60%
+23/07/2019,"59 Aran Court, Waterville, Blanchardstown Dublin 15",Dublin,295000.0,No,Blanchardstown,Dublin 15,q4,90%
+30/07/2019,"31 Corduff Ave, Corduff, Blanchardstown",Dublin,220000.0,No,Blanchardstown,Dublin 15,q3,60%
+30/07/2019,"32 Brookhaven Grove, Blanchardstown, Dublin 15",Dublin,75000.0,No,Blanchardstown,Dublin 15,q1,10%
+30/07/2019,"40 Huntstown Court, Mulhuddart, Blanchardstown",Dublin,60000.0,No,Blanchardstown,Dublin 15,q1,10%
+06/08/2019,"1 Woodview Grove, Blanchardstown, Dublin 15",Dublin,530000.0,No,Blanchardstown,Dublin 15,q4,100%
+09/08/2019,"54 Edgewood Lawns, Blanchardstown Dublin 15, Dublin",Dublin,235000.0,No,Blanchardstown,Dublin 15,q3,60%
+15/08/2019,"161 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,280000.0,No,Blanchardstown,Dublin 15,q4,90%
+19/08/2019,"1Brookhaven Rise, Blanchardstown, Dublin 15",Dublin,295000.0,No,Blanchardstown,Dublin 15,q4,90%
+23/08/2019,"62 Westend Village, Snugborough Rd, Blanchardstown Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+27/08/2019,"7 Clonsilla Close, Blanchardstown, Dublin 15",Dublin,432000.0,No,Blanchardstown,Dublin 15,q4,100%
+28/08/2019,"15 Bantry Sq, Waterville, Blanchardstown Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+30/08/2019,"19 Warrenstown Close, Blanchardstown, Dublin 15",Dublin,260000.0,No,Blanchardstown,Dublin 15,q3,80%
+30/08/2019,"2 Sheepmore Close, Blanchardstown, Dublin 15",Dublin,165000.0,No,Blanchardstown,Dublin 15,q1,30%
+30/08/2019,"43 Summerfield Rise, Blanchardstown, Dublin 15",Dublin,367500.0,No,Blanchardstown,Dublin 15,q4,100%
+04/09/2019,"1 Church Lane, Church Avenue, Blanchardstown",Dublin,506607.92,Yes,Blanchardstown,Dublin 15,q4,100%
+05/09/2019,"12 Springlawn Heights, Blanchardstown Dublin 15, Dublin",Dublin,280000.0,No,Blanchardstown,Dublin 15,q4,90%
+05/09/2019,"2 Church Lane, Blanchardstown",Dublin,493392.0,Yes,Blanchardstown,Dublin 15,q4,100%
+05/09/2019,"4 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%
+05/09/2019,"61 Whitestown Park, Blanchardstown, Dublin 15",Dublin,155000.0,No,Blanchardstown,Dublin 15,q1,30%
+11/09/2019,"31 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,238000.0,No,Blanchardstown,Dublin 15,q3,60%
+16/09/2019,"3 Church Lane, Church Avenue, Blanchardstown",Dublin,493392.07,Yes,Blanchardstown,Dublin 15,q4,100%
+16/09/2019,"35 Garnish Sq, Waterville, Blanchardstown Dublin 15",Dublin,245000.0,No,Blanchardstown,Dublin 15,q3,70%
+16/09/2019,"4 Church Lane, Church Avenue, Blanchardstown",Dublin,495154.19,Yes,Blanchardstown,Dublin 15,q4,100%
+20/09/2019,"6 Brandon Square, Waterville, Blanchardstown",Dublin,399000.0,No,Blanchardstown,Dublin 15,q4,100%
+20/09/2019,"62 Skelligs Court, Waterville, Blanchardstown Dublin 15",Dublin,270000.0,No,Blanchardstown,Dublin 15,q4,80%
+23/09/2019,"47 Summerfield Lawns, Blanchardstown, Dublin",Dublin,340000.0,No,Blanchardstown,Dublin 15,q4,100%
+30/09/2019,"27 Aran Court, Waterville, Blanchardstown Dublin 15",Dublin,200000.0,No,Blanchardstown,Dublin 15,q2,50%
+01/10/2019,"18 Waterville Row, Blanchardstown, Dublin 15",Dublin,275000.0,No,Blanchardstown,Dublin 15,q4,90%
+03/10/2019,"15 Summerfield Lawns, Blanchardstown, Dublin",Dublin,335000.0,No,Blanchardstown,Dublin 15,q4,100%
+04/10/2019,"67 Tory Square, Waterville, Blanchardstown",Dublin,276000.0,No,Blanchardstown,Dublin 15,q4,90%
+11/10/2019,"55 Waterville Row, Blanchardstown, Dublin 15",Dublin,246000.0,No,Blanchardstown,Dublin 15,q3,70%
+17/10/2019,"11 Clonsilla Park, Blanchardstown, Dublin 15",Dublin,625000.0,No,Blanchardstown,Dublin 15,q4,100%
+17/10/2019,"53 Waterville Terrace, Blanchardstown, Dublin 15",Dublin,223000.0,No,Blanchardstown,Dublin 15,q3,60%
+18/10/2019,"100 Whitestown Park, Blanchardstown, Dublin 15",Dublin,250000.0,No,Blanchardstown,Dublin 15,q3,70%

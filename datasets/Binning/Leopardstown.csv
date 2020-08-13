@@ -1,0 +1,757 @@
+date_of_sale,address,county,price,vat_exclusive,town,area_code,quartile_bins,decile_bins
+13/01/2010,"Apartment 8 The Sycamore, Elmfield  Ballyogan Road, Leopardstown",Dublin,248898.68,Yes,Leopardstown,Dublin 18,q1,10%
+28/01/2010,"Apt 111  Vantage Central, Central Park, Leopardstown  Dublin 18",Dublin,365110.13,Yes,Leopardstown,Dublin 18,q2,50%
+02/02/2010,"12 Glencairn Copse, The Gallops, Leopardstown",Dublin,410000.0,No,Leopardstown,Dublin 18,q3,60%
+08/02/2010,"56 Glencairn Lawn, The Gallops, Leopardstown",Dublin,391700.0,No,Leopardstown,Dublin 18,q2,50%
+10/02/2010,"4 Glencairn Park, The Gallops, Leopardstown",Dublin,470000.0,No,Leopardstown,Dublin 18,q3,80%
+04/03/2010,"18 Orby Lawn, The Gallops, Leopardstown",Dublin,105000.0,No,Leopardstown,Dublin 18,q1,10%
+04/03/2010,"51 Glencairn Drive, The Gallops, Leopardstown",Dublin,500000.0,No,Leopardstown,Dublin 18,q4,80%
+10/03/2010,"9 Glencairn Road, The Gallops, Leopardstown",Dublin,465000.0,No,Leopardstown,Dublin 18,q3,80%
+01/04/2010,"15 Mountain Eagle View, Leopardstown Heights",Dublin,484500.0,No,Leopardstown,Dublin 18,q3,80%
+14/04/2010,"21 Glenbourne Road, Leopardstown",Dublin,450000.0,No,Leopardstown,Dublin 18,q3,70%
+19/05/2010,"16 Orby Avenue, The Gallops, Leopardstown",Dublin,400000.0,No,Leopardstown,Dublin 18,q3,60%
+24/05/2010,"Apartment 314  Vantage Central, Central Park, Leopardstown",Dublin,288849.0,Yes,Leopardstown,Dublin 18,q1,20%
+25/05/2010,"Apartment 814, Vantage East  Central Park, Leopardstown",Dublin,246558.0,Yes,Leopardstown,Dublin 18,q1,10%
+28/05/2010,"5 Glenbourne Green, Leopardstown Valley",Dublin,377500.0,No,Leopardstown,Dublin 18,q2,50%
+02/06/2010,"22 Levmoss Avenue, The Gallops, Leopardstown",Dublin,337000.0,Yes,Leopardstown,Dublin 18,q2,40%
+04/06/2010,"88 Murphystown Road, Leopardstown Heights, Leopardstown",Dublin,405000.0,No,Leopardstown,Dublin 18,q3,60%
+08/06/2010,"Apt 511  Vantage East, Central Park, Leopardstown",Dublin,317180.62,Yes,Leopardstown,Dublin 18,q1,30%
+17/06/2010,"34 Glenbourne View, Leopardstown Valley, Dublin 18",Dublin,442000.0,No,Leopardstown,Dublin 18,q3,70%
+18/06/2010,"2  Glenbourne Crescent, Leopardstown Valley, Leopardstown",Dublin,572500.0,No,Leopardstown,Dublin 18,q4,100%
+05/07/2010,"10 Leopardstown Avenue, Leopardstown",Dublin,550000.0,No,Leopardstown,Dublin 18,q4,100%
+09/07/2010,"12 Orby Way, The Gallops, Leopardstown",Dublin,390000.0,No,Leopardstown,Dublin 18,q2,50%
+16/07/2010,"21 Arkle Square, The Chase, Leopardstown",Dublin,360000.0,No,Leopardstown,Dublin 18,q2,50%
+23/07/2010,"24 Mount Eagle Rise, Leopardstown",Dublin,362000.0,No,Leopardstown,Dublin 18,q2,50%
+28/07/2010,"10 Glencairn Dale, The Gallops, Leopardstown",Dublin,350000.0,No,Leopardstown,Dublin 18,q2,50%
+12/08/2010,"12 Glencairn Oaks, The Gallops, Leopardstown",Dublin,365000.0,No,Leopardstown,Dublin 18,q2,50%
+27/08/2010,"38 Glencairn Walk, Leopardstown",Dublin,401000.0,No,Leopardstown,Dublin 18,q3,60%
+09/09/2010,"7 Mount Eagle Lawn, Leopardstown, Dublin 18",Dublin,338000.0,No,Leopardstown,Dublin 18,q2,40%
+10/09/2010,"9 Mount Eagle Drive, Leopardstown Heights, Leopardstown",Dublin,360000.0,No,Leopardstown,Dublin 18,q2,50%
+20/09/2010,"15 Leopardstown Grove, Leopardstown, Co. Dublin",Dublin,552000.0,No,Leopardstown,Dublin 18,q4,100%
+01/10/2010,"48  Glencairn Crescent, The Gallops, Leopardstown",Dublin,405000.0,No,Leopardstown,Dublin 18,q3,60%
+08/10/2010,"18 Glencairn Rise, The Gallops, Leopardstown",Dublin,570000.0,No,Leopardstown,Dublin 18,q4,100%
+19/10/2010,"34 Mimosa Hall, The Gallops, Leopardstown",Dublin,198237.88,Yes,Leopardstown,Dublin 18,q1,10%
+01/11/2010,"14 Glencairn Rise, Leopardstown",Dublin,335000.0,No,Leopardstown,Dublin 18,q2,40%
+05/11/2010,"19 Glencairn Rise, The Gallops, Leopardstown",Dublin,372260.0,No,Leopardstown,Dublin 18,q2,50%
+10/11/2010,"28 Levmoss Avenue, The Gallops, Leopardstown",Dublin,335000.0,Yes,Leopardstown,Dublin 18,q2,40%
+12/11/2010,"11 Glencairn Heights, The Gallops, Leopardstown",Dublin,400000.0,No,Leopardstown,Dublin 18,q3,60%
+01/12/2010,"23 Glencairn Lawn, Leopardstown",Dublin,395000.0,No,Leopardstown,Dublin 18,q2,50%
+20/12/2010,"13 Mount Eagle Lawn, Leopardstown Heights, Leopardstown",Dublin,362500.0,No,Leopardstown,Dublin 18,q2,50%
+28/01/2011,"46 Leopardstown Grove, Leopardstown, Dublin 18",Dublin,445000.0,No,Leopardstown,Dublin 18,q3,70%
+08/02/2011,"46 Orby Avenue, The Gallops, Leopardstown",Dublin,430000.0,No,Leopardstown,Dublin 18,q3,60%
+10/03/2011,"Apartment No. 31, Elmfield  Ballyogan Road, Leopardstown",Dublin,285000.0,Yes,Leopardstown,Dublin 18,q1,20%
+25/03/2011,"3 Glencairn Lawn, The Gallops, Leopardstown",Dublin,308500.0,No,Leopardstown,Dublin 18,q1,20%
+01/04/2011,"Apartment No. 6 Elmfield, Ballyogan Road, Leopardstown",Dublin,237885.46,Yes,Leopardstown,Dublin 18,q1,10%
+20/04/2011,"14 Glenbourne Green, Leopardstown, Dublin 18",Dublin,353000.0,No,Leopardstown,Dublin 18,q2,50%
+16/05/2011,"Apt 16 The Sycamore, Elmfield, Leopardstown",Dublin,270925.11,Yes,Leopardstown,Dublin 18,q1,10%
+20/05/2011,"2  Mount Eagle Drive, Leopardstown, Dublin",Dublin,380000.0,No,Leopardstown,Dublin 18,q2,50%
+20/05/2011,"34 Mount Eagle View, Leopardstown Heights",Dublin,315000.0,No,Leopardstown,Dublin 18,q1,30%
+26/05/2011,"47 Glencairn Lawn, The Gallops, Leopardstown",Dublin,338000.0,No,Leopardstown,Dublin 18,q2,40%
+02/06/2011,"2 Glencairn Grove, The Gallops, Leopardstown",Dublin,300000.0,No,Leopardstown,Dublin 18,q1,20%
+02/06/2011,"3 Leopardstown Drive, Leopardstown",Dublin,445000.0,No,Leopardstown,Dublin 18,q3,70%
+16/06/2011,"2 Arkle Square, The Chase, Leopardstown",Dublin,381000.0,No,Leopardstown,Dublin 18,q2,50%
+16/06/2011,"4 Leopardstown Avenue, Leopardstown, Dublin 18",Dublin,450000.0,No,Leopardstown,Dublin 18,q3,70%
+01/07/2011,"3 Mount Eagle Rise, Leopardstown Heights, Leopardstown",Dublin,372000.0,No,Leopardstown,Dublin 18,q2,50%
+14/07/2011,"38 Mount Eagle View, Leopardstown, Dublin 18",Dublin,310000.0,No,Leopardstown,Dublin 18,q1,20%
+26/07/2011,"4 Orby Way, The Gallops, Leopardstown",Dublin,292500.0,No,Leopardstown,Dublin 18,q1,20%
+02/08/2011,"8 Glencairn Place, The Gallops, Leopardstown",Dublin,420000.0,No,Leopardstown,Dublin 18,q3,60%
+26/08/2011,"20 Glencairn Thicket, The Gallops, Leopardstown",Dublin,280000.0,No,Leopardstown,Dublin 18,q1,10%
+23/09/2011,"11 Orby Court, The Gallops, Leopardstown",Dublin,308370.0,Yes,Leopardstown,Dublin 18,q1,20%
+23/09/2011,"26 Orby Avenue, The Gallops, Leopardstown",Dublin,375000.0,No,Leopardstown,Dublin 18,q2,50%
+30/09/2011,"6  Glencairn Oaks, The Gallops, Leopardstown",Dublin,280000.0,No,Leopardstown,Dublin 18,q1,10%
+14/10/2011,"12 Mount Eagle View, Leopardstown",Dublin,241000.0,No,Leopardstown,Dublin 18,q1,10%
+24/10/2011,"28 Leopardstown Grove, Leopardstown, Dublin 18",Dublin,405000.0,No,Leopardstown,Dublin 18,q3,60%
+25/10/2011,"1 Orby Close, The Gallops, Leopardstown",Dublin,279000.0,No,Leopardstown,Dublin 18,q1,10%
+27/10/2011,"No 34 Glenbourne Green, Leopardstown, Dublin 18",Dublin,295000.0,No,Leopardstown,Dublin 18,q1,20%
+01/11/2011,"51 Mount Eagle View, Leopardstown",Dublin,340000.0,No,Leopardstown,Dublin 18,q2,40%
+02/11/2011,"33 Tudor Lawns, Leopardstown, Co Dublin",Dublin,370000.0,No,Leopardstown,Dublin 18,q2,50%
+04/11/2011,"1 Glenbourne Close, Leopardstown",Dublin,302500.0,No,Leopardstown,Dublin 18,q1,20%
+04/11/2011,"42 Glencairn Lawn, The Gallops, Leopardstown",Dublin,330000.0,No,Leopardstown,Dublin 18,q2,40%
+08/11/2011,"18 Glencairn Oaks, The Gallops, Leopardstown",Dublin,300000.0,No,Leopardstown,Dublin 18,q1,20%
+18/11/2011,"92 Murphystown Road, Leopardstown",Dublin,322500.0,No,Leopardstown,Dublin 18,q2,30%
+25/11/2011,"25 Orby View, The Gallops, Leopardstown",Dublin,470000.0,No,Leopardstown,Dublin 18,q3,80%
+25/11/2011,"4 Mount Eagle Lawn, Leopardstown Heights",Dublin,235000.0,No,Leopardstown,Dublin 18,q1,10%
+28/11/2011,"3  Kelston Drive, Leopardstown Road",Dublin,450000.0,No,Leopardstown,Dublin 18,q3,70%
+12/12/2011,"5 Glenbourne Walk, Leopardstown",Dublin,265000.0,No,Leopardstown,Dublin 18,q1,10%
+16/12/2011,"17 Mount Eagle Drive, Leopardstown",Dublin,300000.0,No,Leopardstown,Dublin 18,q1,20%
+16/12/2011,"9 Orby Lawn, Leopardstown",Dublin,340000.0,No,Leopardstown,Dublin 18,q2,40%
+16/12/2011,"Unit 106 Vantage East, Vantage East, Central Park  Leopardstown Road",Dublin,307000.0,Yes,Leopardstown,Dublin 18,q1,20%
+21/12/2011,"6 Orby View, The Gallops, Leopardstown",Dublin,350000.0,No,Leopardstown,Dublin 18,q2,50%
+05/01/2012,"11 Orby Avenue, The Gallops, Leopardstown",Dublin,241409.69,Yes,Leopardstown,Dublin 18,q1,10%
+19/01/2012,"Apartment No. 1110  Level Eleven, Vantage East  Central Park, Leopardstown Road",Dublin,316719.69,Yes,Leopardstown,Dublin 18,q1,30%
+23/01/2012,"20 The Sycamore Elmfield, Ballyogan Road, Leopardstown",Dublin,154185.02,Yes,Leopardstown,Dublin 18,q1,10%
+30/01/2012,"3  Glencairn Way, The Gallops, Leopardstown",Dublin,470000.0,No,Leopardstown,Dublin 18,q3,80%
+16/02/2012,"27 Glencairn Avenue, The Gallops, Leopardstown",Dublin,280000.0,No,Leopardstown,Dublin 18,q1,10%
+02/03/2012,"27 Leopardstown Grove, Leopardstown",Dublin,385000.0,No,Leopardstown,Dublin 18,q2,50%
+09/03/2012,"11 Glencairn Rise, The Gallops, Leopardstown",Dublin,319000.0,No,Leopardstown,Dublin 18,q1,30%
+09/03/2012,"5 Leopardstown Abbey, Leopardstown, Dublin 18",Dublin,240000.0,No,Leopardstown,Dublin 18,q1,10%
+16/03/2012,"31 Glenbourne Road, Leopardstown Road, Leopardstown",Dublin,308000.0,No,Leopardstown,Dublin 18,q1,20%
+25/04/2012,"28 Glencairn Dale, The Gallops, Leopardstown",Dublin,270000.0,No,Leopardstown,Dublin 18,q1,10%
+27/04/2012,"2A Leopardstown Grove, Leopardstown",Dublin,460000.0,No,Leopardstown,Dublin 18,q3,70%
+30/04/2012,"17 Glencairn Drive, Leopardstown",Dublin,320000.0,No,Leopardstown,Dublin 18,q1,30%
+25/05/2012,"57 Leopardstown Park, Leopardstown",Dublin,75000.0,No,Leopardstown,Dublin 18,q1,10%
+13/06/2012,"Apt 603 Vantage East, Central Park, Leopardstown  D18",Dublin,370000.0,Yes,Leopardstown,Dublin 18,q2,50%
+19/06/2012,"17 Glenbourne Grove, Leopardstown, Dublin 18",Dublin,290000.0,No,Leopardstown,Dublin 18,q1,20%
+22/06/2012,"3 Glenbourne View, Leopardstown Valley, Dublin 18",Dublin,360000.0,No,Leopardstown,Dublin 18,q2,50%
+04/07/2012,"14 Orby Way, The Gallops, Leopardstown",Dublin,290000.0,No,Leopardstown,Dublin 18,q1,20%
+10/07/2012,"16 Glenbourne Green, Leopardstown, Dublin 18",Dublin,295000.0,No,Leopardstown,Dublin 18,q1,20%
+12/07/2012,"23 Orby Avenue, The Gallops, Leopardstown",Dublin,285000.0,No,Leopardstown,Dublin 18,q1,20%
+16/07/2012,"22 Glencairn Green, The Gallops, Leopardstown",Dublin,334000.0,No,Leopardstown,Dublin 18,q2,40%
+01/08/2012,"5 Mount Eagle Grove, Leopardstown Heights, Leopardstown Dublin18",Dublin,300000.0,No,Leopardstown,Dublin 18,q1,20%
+02/08/2012,"12 Murphytown Road, Leopardstown, Dublin 15",Dublin,345000.0,No,Leopardstown,Dublin 18,q2,40%
+03/08/2012,"8 Mount Eagle Park, Leopardstown Heights, Dublin 18",Dublin,334000.0,No,Leopardstown,Dublin 18,q2,40%
+08/08/2012,"3 Glencairn View, The Gallops, Leopardstown",Dublin,453000.0,No,Leopardstown,Dublin 18,q3,70%
+21/08/2012,"27 Levmoss Avenue, The Gallops, Leopardstown",Dublin,207500.0,No,Leopardstown,Dublin 18,q1,10%
+31/08/2012,"25  Glencairn Avenue, The Gallops, Leopardstown",Dublin,260000.0,No,Leopardstown,Dublin 18,q1,10%
+25/09/2012,"14 Murphystown Road, Leopardstown, Dublin 18",Dublin,326000.0,No,Leopardstown,Dublin 18,q2,40%
+01/10/2012,"6 Glenbourne Grove, Leopardstown Valley, Dublin 18",Dublin,285000.0,No,Leopardstown,Dublin 18,q1,20%
+17/10/2012,"21 Mount Eagle Drive, Leopardstown Heights, Dublin 18",Dublin,268000.0,No,Leopardstown,Dublin 18,q1,10%
+15/11/2012,"9 Glencairn Rise, The Gallops, Leopardstown",Dublin,375000.0,No,Leopardstown,Dublin 18,q2,50%
+30/11/2012,"13 Mount Eagle Drive, Leopardstown Heights, Leopardstown",Dublin,342000.0,No,Leopardstown,Dublin 18,q2,40%
+30/11/2012,"San Michel, Leopardstown Road",Dublin,670000.0,No,Leopardstown,Dublin 18,q4,100%
+04/12/2012,"18 Glencairn, Garth, Leopardstown",Dublin,400000.0,No,Leopardstown,Dublin 18,q3,60%
+10/12/2012,"44 Glencairn Lawn, The Gallops, Leopardstown",Dublin,396000.0,No,Leopardstown,Dublin 18,q2,50%
+14/12/2012,"14 Glencairn Lawn, The Gallops, Leopardstown",Dublin,377000.0,No,Leopardstown,Dublin 18,q2,50%
+14/12/2012,"60 Mount Eagle View, Leopardstown",Dublin,325000.0,No,Leopardstown,Dublin 18,q2,40%
+18/12/2012,"3A Mount Eagle Rise, Leopardstown Heights, Leopardstown",Dublin,368000.0,No,Leopardstown,Dublin 18,q2,50%
+19/12/2012,"10 Glencairn Crescent, The Gallops, Leopardstown",Dublin,417500.0,No,Leopardstown,Dublin 18,q3,60%
+19/12/2012,"23 Mount Eagle Grove, Leopardstown",Dublin,311000.0,No,Leopardstown,Dublin 18,q1,20%
+04/01/2013,"63 Mount Eagle View, Leopardstown Heights",Dublin,408350.0,No,Leopardstown,Dublin 18,q3,60%
+09/01/2013,"15 Glenbourne Close, Leopardstown, Dublin 18",Dublin,295000.0,No,Leopardstown,Dublin 18,q1,20%
+11/02/2013,"12 Glenbourne Way, Leopardstown Valley",Dublin,310000.0,No,Leopardstown,Dublin 18,q1,20%
+11/02/2013,"Apartment 603 Vantage, Building 3  Central Park, Leopardstown  Dublin 18",Dublin,179500.0,No,Leopardstown,Dublin 18,q1,10%
+16/05/2013,"25 Glencairn Lawn, The Gallops, Leopardstown",Dublin,320000.0,No,Leopardstown,Dublin 18,q1,30%
+17/05/2013,"34 Glencairn Avenue, The Gallops, Leopardstown",Dublin,340000.0,No,Leopardstown,Dublin 18,q2,40%
+17/05/2013,"62 Glencairn Lawn, The Gallops, Leopardstown",Dublin,391000.0,No,Leopardstown,Dublin 18,q2,50%
+17/05/2013,"8 Glencairn Oaks, The Gallops, Leopardstown",Dublin,340000.0,No,Leopardstown,Dublin 18,q2,40%
+04/06/2013,"23 Glenbourne Grove, Leopardstown Valley",Dublin,350000.0,No,Leopardstown,Dublin 18,q2,50%
+07/06/2013,"25 Sandyford Hall Crescent, Leopardstown  Dublin 18",Dublin,374000.0,No,Leopardstown,Dublin 18,q2,50%
+12/06/2013,"16 Glenbourne Grove, Leopardstown Valley",Dublin,351000.0,No,Leopardstown,Dublin 18,q2,50%
+14/06/2013,"10 Murphystown Road, Leopardstown, Dublin 18",Dublin,335000.0,No,Leopardstown,Dublin 18,q2,40%
+21/06/2013,"4 Glencairn Green, The Gallops, Leopardstown",Dublin,390000.0,No,Leopardstown,Dublin 18,q2,50%
+05/07/2013,"7 Glencairn Walk, The Gallops, Leopardstown",Dublin,315000.0,No,Leopardstown,Dublin 18,q1,30%
+12/07/2013,"14 Leopardstown Park, Leopardstown",Dublin,530000.0,No,Leopardstown,Dublin 18,q4,90%
+12/07/2013,"36 Glenbourne Green, Leopardstown Valley, Leopardstown",Dublin,327000.0,No,Leopardstown,Dublin 18,q2,40%
+22/07/2013,"19 Orby Avenue, The Gallops, Leopardstown",Dublin,355000.0,No,Leopardstown,Dublin 18,q2,50%
+19/08/2013,"51  Glencairn Rise, The Gallops, Leopardstown",Dublin,420000.0,No,Leopardstown,Dublin 18,q3,60%
+03/09/2013,"Apt 4 Sefton Hall, Kelston Ave., Leopardstown Road",Dublin,310000.0,No,Leopardstown,Dublin 18,q1,20%
+06/09/2013,"8 Glenbourne Grove, Leopardstown",Dublin,333750.0,No,Leopardstown,Dublin 18,q2,40%
+12/09/2013,"16 Gelncairnthicket, The Gallops, Leopardstown",Dublin,308000.0,No,Leopardstown,Dublin 18,q1,20%
+17/09/2013,"17 Glenbourne Road, Leopardstown Valley",Dublin,377000.0,No,Leopardstown,Dublin 18,q2,50%
+19/09/2013,"18 Glenbourne Crescent, Leopardstown Valley, Dublin 18",Dublin,407000.0,No,Leopardstown,Dublin 18,q3,60%
+25/09/2013,"3 Glencairn Thicket, The Gallops, Leopardstown",Dublin,305000.0,No,Leopardstown,Dublin 18,q1,20%
+07/10/2013,"21 Arkle Square, The Chase, Leopardstown",Dublin,435000.0,No,Leopardstown,Dublin 18,q3,60%
+09/10/2013,"62 Glencairn Crescent, Leopardstown",Dublin,453500.0,No,Leopardstown,Dublin 18,q3,70%
+04/11/2013,"4 Glencairn Grove, Leopardstown",Dublin,320000.0,No,Leopardstown,Dublin 18,q1,30%
+22/11/2013,"88 Murphystown Rd, Leopardstown, Dublin 18",Dublin,432000.0,No,Leopardstown,Dublin 18,q3,60%
+29/11/2013,"2 Leopardstown Grove, Leopardstown",Dublin,664000.0,No,Leopardstown,Dublin 18,q4,100%
+29/11/2013,"2 Leopardstown Rise, Leopardstown, Dublin 18",Dublin,745000.0,No,Leopardstown,Dublin 18,q4,100%
+03/12/2013,"21 Glenbourne Grove, Leopardstown, Dublin 18",Dublin,372000.0,No,Leopardstown,Dublin 18,q2,50%
+06/12/2013,"6 Glenbourne View, Leopardstown, Dublin 18",Dublin,324000.0,No,Leopardstown,Dublin 18,q2,30%
+18/12/2013,"55 Foxrock Manor, Leopardstown Rd, Dublin 18",Dublin,720000.0,No,Leopardstown,Dublin 18,q4,100%
+19/12/2013,"29 Mount Eagle Rise, Leopardstown Heights, Dublin 18",Dublin,346000.0,No,Leopardstown,Dublin 18,q2,40%
+19/12/2013,"9 Leopardstown Rise, Leopardstown Rd, Dublin 18",Dublin,650000.0,No,Leopardstown,Dublin 18,q4,100%
+10/02/2014,"6 Glencairn Dr, The Gallops, Leopardstown Dublin 18",Dublin,396000.0,No,Leopardstown,Dublin 18,q2,50%
+20/02/2014,"14 Levmoss Hall, Levmoss Park, The Gallops Leopardstown Dublin 18",Dublin,145000.0,No,Leopardstown,Dublin 18,q1,10%
+07/03/2014,"13 Orby Close, The Gallops, Leopardstown",Dublin,375000.0,No,Leopardstown,Dublin 18,q2,50%
+21/03/2014,"8 Mount Eagle Rise, Leopardstown Heights, Leopardstown",Dublin,427500.0,No,Leopardstown,Dublin 18,q3,60%
+28/03/2014,"Blocks F  K And L Central Park, Leopardstown",Dublin,70503358.0,No,Leopardstown,Dublin 18,q4,100%
+15/04/2014,"15 Mount Eagle Court, Leopardstown",Dublin,365000.0,No,Leopardstown,Dublin 18,q2,50%
+06/05/2014,"58 Glencairn Crescent, The Gallops, Leopardstown Dublin 18",Dublin,400000.0,No,Leopardstown,Dublin 18,q3,60%
+07/05/2014,"17A Glencairn Thicket, The Gallops, Leopardstown Dublin 18",Dublin,335000.0,No,Leopardstown,Dublin 18,q2,40%
+19/05/2014,"5 Leopardstown Abbey, Leopardstown, Dublin 18",Dublin,343000.0,No,Leopardstown,Dublin 18,q2,40%
+23/05/2014,"20 Mount Eagle Rise, Leopardstown, Dublin 18",Dublin,451000.0,No,Leopardstown,Dublin 18,q3,70%
+23/05/2014,"Apt 502 Block 6, Beacon South Quarter, Leopardstown Dublin 18",Dublin,288000.0,No,Leopardstown,Dublin 18,q1,20%
+20/06/2014,"5 Glenbourne Rd, Leopardstown Valley, Dublin 18",Dublin,440000.0,No,Leopardstown,Dublin 18,q3,70%
+23/06/2014,"22 Glencairn Walk, The Gallops, Leopardstown Dublin 18",Dublin,545000.0,No,Leopardstown,Dublin 18,q4,90%
+24/06/2014,"13 Glenbourne Rd, Leopardstown Valley, Dublin 18",Dublin,430000.0,No,Leopardstown,Dublin 18,q3,60%
+03/07/2014,"16 Mount Eagle Lawn, Leopardstown Heights, Leopardstown Dublin 18",Dublin,462000.0,No,Leopardstown,Dublin 18,q3,70%
+04/07/2014,"20 Glenbourne Green, Leopardstown Valley, Dublin 18",Dublin,460000.0,No,Leopardstown,Dublin 18,q3,70%
+04/07/2014,"31 Glencairn Rise, The Gallops, Leopardstown",Dublin,562500.0,No,Leopardstown,Dublin 18,q4,100%
+17/07/2014,"5A Mount Eagle Rise, Leopardstown Heights, Leopardstown",Dublin,457000.0,No,Leopardstown,Dublin 18,q3,70%
+24/07/2014,"Block F  K And L Central Park, Leopardstown",Dublin,86365000.0,No,Leopardstown,Dublin 18,q4,100%
+30/07/2014,"36 Mount Eagle Dr, Leopardstown Heights, Dublin 18",Dublin,386000.0,No,Leopardstown,Dublin 18,q2,50%
+01/08/2014,"11 Glencairn Heath, Leopardstown, Dublin 18",Dublin,458500.0,No,Leopardstown,Dublin 18,q3,70%
+22/08/2014,"18 Glencairn Green, The Gallops, Leopardstown",Dublin,550000.0,No,Leopardstown,Dublin 18,q4,100%
+28/08/2014,"26 Glencairn Dale, Leopardstown, Dublin",Dublin,385000.0,No,Leopardstown,Dublin 18,q2,50%
+28/08/2014,"36 Leopardstown Grove, Blckrock",Dublin,610250.0,No,Leopardstown,Dublin 18,q4,100%
+28/08/2014,"64 Murphystown Rd, Leopardstown, Dublin 18",Dublin,495000.0,No,Leopardstown,Dublin 18,q4,80%
+05/09/2014,"20 Glenbourne Walk, Leopardstown, Dublin 18",Dublin,455000.0,No,Leopardstown,Dublin 18,q3,70%
+18/09/2014,"39 Glencairn Walk, Leopardstown, Dublin 18",Dublin,441000.0,No,Leopardstown,Dublin 18,q3,70%
+07/10/2014,"10 Glencairn Lawn, The Gallops, Leopardstown Dublin 18",Dublin,490000.0,No,Leopardstown,Dublin 18,q4,80%
+14/10/2014,"3 Glenbourne Grove, Ballyogan Rd, Leopardstown Dublin 18",Dublin,460000.0,No,Leopardstown,Dublin 18,q3,70%
+24/10/2014,"8 Glenbourne Way, Leopardstown Valley, Dublin 18",Dublin,430000.0,No,Leopardstown,Dublin 18,q3,60%
+17/11/2014,"55 Mount Eagle Dr, Leopardstown, Dublin 18",Dublin,430000.0,No,Leopardstown,Dublin 18,q3,60%
+20/11/2014,"6  Glencairn Oaks, The Gallops, Leopardstown",Dublin,442000.0,No,Leopardstown,Dublin 18,q3,70%
+21/11/2014,"56 Mount Eagle View, Leopardstown Heights, Dublin 18",Dublin,440000.0,No,Leopardstown,Dublin 18,q3,70%
+21/11/2014,"7 Kelston Hall, Leopardstown Rd, Dublin 18",Dublin,425000.0,No,Leopardstown,Dublin 18,q3,60%
+05/12/2014,"28 Glenbourne View, Leopardstown, Dublin 18",Dublin,445000.0,No,Leopardstown,Dublin 18,q3,70%
+10/12/2014,"69 Mount Eagle Dr, Leopardstown Heights, Dublin 18",Dublin,455000.0,No,Leopardstown,Dublin 18,q3,70%
+19/12/2014,"22 Orby Dr, The Gallops, Leopardstown Dublin 18",Dublin,615000.0,No,Leopardstown,Dublin 18,q4,100%
+19/12/2014,"Apt. 24  Carmanhall Court, Burton Hall Road, Leopardstown",Dublin,340000.0,No,Leopardstown,Dublin 18,q2,40%
+06/01/2015,"511 Vantage East, Central Park, Leopardstown Dublin 18",Dublin,340000.0,No,Leopardstown,Dublin 18,q2,40%
+22/01/2015,"814 Vantage East, Leopardstown, Dublin 18",Dublin,190000.0,No,Leopardstown,Dublin 18,q1,10%
+22/01/2015,"9 Glencairn Dale, The Gallops, Leopardstown Dublin 18",Dublin,505000.0,No,Leopardstown,Dublin 18,q4,90%
+23/01/2015,"14 Glenbourne Green, Leopardstown Valley, Dublin 18",Dublin,438000.0,No,Leopardstown,Dublin 18,q3,70%
+26/01/2015,"58 Glencairn Crescent, The Gallops, Leopardstown Dublin 18",Dublin,500000.0,No,Leopardstown,Dublin 18,q4,80%
+09/02/2015,"62 Mount Eagle View, Leopardstown Heights, Dublin 18",Dublin,425000.0,No,Leopardstown,Dublin 18,q3,60%
+16/02/2015,"10 Glencairn Court, The Gallops, Leopardstown Dublin 18",Dublin,438500.0,No,Leopardstown,Dublin 18,q3,70%
+27/02/2015,"15 Glenbourne Park, Leopardstown Valley, Dublin 18",Dublin,440000.0,No,Leopardstown,Dublin 18,q3,70%
+02/03/2015,"30 Glenbourne Green, Leopardstown, Dublin 18",Dublin,475000.0,No,Leopardstown,Dublin 18,q3,80%
+20/03/2015,"29 Mount Eagle Grove, Leopardstown, Dublin 18",Dublin,430000.0,No,Leopardstown,Dublin 18,q3,60%
+20/03/2015,"4 Sir Ivor Mall, The Chase, Leopardstown Dublin 18",Dublin,416000.0,No,Leopardstown,Dublin 18,q3,60%
+20/03/2015,"8 Glencairn Lawn, Leopardstown, Dublin 18",Dublin,465000.0,No,Leopardstown,Dublin 18,q3,80%
+01/04/2015,"24 Glenbourne Park, Leopardstown, Dublin 18",Dublin,485000.0,No,Leopardstown,Dublin 18,q4,80%
+27/04/2015,"17 Weavers Hall, Levmoss Park, Leopardstown Dublin 18",Dublin,290000.0,No,Leopardstown,Dublin 18,q1,20%
+08/05/2015,"14 Orby Way, The Gallops, Leopardstown",Dublin,445000.0,No,Leopardstown,Dublin 18,q3,70%
+29/05/2015,"15 Levmoss Ave, The Gallops, Leopardstown Dublin 18",Dublin,280000.0,No,Leopardstown,Dublin 18,q1,10%
+29/05/2015,"29 Arkle Sq, Leopardstown, Dublin 18",Dublin,436000.0,No,Leopardstown,Dublin 18,q3,60%
+17/06/2015,"1 Leopardstown Ave, Leopardstown, Dublin 18",Dublin,692000.0,No,Leopardstown,Dublin 18,q4,100%
+19/06/2015,"27 Glencairn Rd, The Gallops, Leopardstown Dublin 18",Dublin,685000.0,No,Leopardstown,Dublin 18,q4,100%
+19/06/2015,"3 Glencairn Lawn, The Gallops, Leopardstown Dublin 18",Dublin,410000.0,No,Leopardstown,Dublin 18,q3,60%
+19/06/2015,"6 Woodford, Brewery Rd, Leopardstown",Dublin,580000.0,No,Leopardstown,Dublin 18,q4,100%
+19/06/2015,"7 Mount Eagle Court, Leopardstown, Dublin 18",Dublin,451000.0,No,Leopardstown,Dublin 18,q3,70%
+22/06/2015,"35 Glencairn Dr, Leopardstown, Dublin",Dublin,470000.0,No,Leopardstown,Dublin 18,q3,80%
+26/06/2015,"20 Glenbourne Park, Leopardstown Valley, Dublin 18",Dublin,430000.0,No,Leopardstown,Dublin 18,q3,60%
+26/06/2015,"27 Orby Close, The Gallops, Leopardstown",Dublin,435000.0,No,Leopardstown,Dublin 18,q3,60%
+30/06/2015,"71 Mount Eagle Dr, Leopardstown, Dublin 18",Dublin,420000.0,No,Leopardstown,Dublin 18,q3,60%
+03/07/2015,"2 Glencairn Crescent, Leopardstown, Dublin 18",Dublin,540000.0,No,Leopardstown,Dublin 18,q4,90%
+03/07/2015,"54 Levmoss Ave, The Gallops, Leopardstown Dublin 18",Dublin,380000.0,No,Leopardstown,Dublin 18,q2,50%
+17/07/2015,"9 Glencairn Dr, Leopardstown Valley, Leopardstown Dublin 18",Dublin,525000.0,No,Leopardstown,Dublin 18,q4,90%
+22/07/2015,"36 Glencairn Crescent, Leopardstown, Dublin 18",Dublin,505000.0,No,Leopardstown,Dublin 18,q4,90%
+22/07/2015,"4 Glenbourne Grove, Leopardstown, Dublin 18",Dublin,390000.0,No,Leopardstown,Dublin 18,q2,50%
+24/07/2015,"9 Glencairn Thicket, The Gallops, Leopardstown Dublin 18",Dublin,436000.0,No,Leopardstown,Dublin 18,q3,60%
+24/07/2015,"9 Mount Eagle Dr, Leopardstown Heights, Leopardstown Dublin 18",Dublin,410000.0,No,Leopardstown,Dublin 18,q3,60%
+10/08/2015,"10 Glenbourne Crescent, Leopardstown",Dublin,415000.0,No,Leopardstown,Dublin 18,q3,60%
+19/08/2015,"4 Orby View, The Gallos, Leopardstown",Dublin,150000.0,No,Leopardstown,Dublin 18,q1,10%
+21/08/2015,"35 Levmoss Avenue, The Gallops, Leopardstown",Dublin,226872.25,Yes,Leopardstown,Dublin 18,q1,10%
+24/08/2015,"58 Weavers Hall, Mimosathe Gallops, Leopardstown",Dublin,267500.0,No,Leopardstown,Dublin 18,q1,10%
+24/08/2015,"8 Orby Ave, The Gallops, Leopardstown Dublin 18",Dublin,455000.0,No,Leopardstown,Dublin 18,q3,70%
+09/09/2015,"8 Minstrel Court, The Chase, Leopardstown",Dublin,415000.0,No,Leopardstown,Dublin 18,q3,60%
+11/09/2015,"11 Mimosa Hall, The Gallops, Leopardstown",Dublin,305000.0,No,Leopardstown,Dublin 18,q1,20%
+11/09/2015,"5 Glenacairn Heights, The Gallops, Leopardstown",Dublin,462500.0,No,Leopardstown,Dublin 18,q3,70%
+14/09/2015,"14 Glenbourne Way, Leopardstown Valley, Dublin 18",Dublin,412000.0,No,Leopardstown,Dublin 18,q3,60%
+25/09/2015,"43 Mount Eagle View, Leopardstown Heights, Leopardstown Dublin 18",Dublin,463500.0,No,Leopardstown,Dublin 18,q3,80%
+01/10/2015,"2 Weavers Hall, Levmoss Park, Leopardstown Dublin 18",Dublin,290000.0,No,Leopardstown,Dublin 18,q1,20%
+12/10/2015,"5 Glencairn Rise, The Gallops, Leopardstown Dublin 18",Dublin,520000.0,No,Leopardstown,Dublin 18,q4,90%
+13/10/2015,"26 Larkspur Hall, The Gallops, Leopardstown Dublin 18",Dublin,285000.0,No,Leopardstown,Dublin 18,q1,20%
+19/10/2015,"16 Glencairn Lawn, The Gallops  Leopardstown, Dublin 18",Dublin,465000.0,No,Leopardstown,Dublin 18,q3,80%
+04/11/2015,"Apt 1 Carmanhall Court, Burtonhall Road, Leopardstown",Dublin,315000.0,No,Leopardstown,Dublin 18,q1,30%
+10/11/2015,"12 Orby Way, The Gallops, Leopardstown Dublin 18",Dublin,480000.0,No,Leopardstown,Dublin 18,q3,80%
+17/11/2015,"23 Glenbourne Walk, Leopardstown Valley, Leopardstown Dublin 18",Dublin,420000.0,No,Leopardstown,Dublin 18,q3,60%
+20/11/2015,"53 Weavers Hall Levmoss Park, The Gallops, Leopardstown Dublin 18",Dublin,310000.0,No,Leopardstown,Dublin 18,q1,20%
+27/11/2015,"27 Mounteagle Drivg Leopardstown, Dublin",Dublin,410000.0,No,Leopardstown,Dublin 18,q3,60%
+30/11/2015,"51 Weavers Hall, Levmoss Park, Leopardstown Dublin 18",Dublin,325000.0,No,Leopardstown,Dublin 18,q2,40%
+10/12/2015,"4 Mount Eagle View, Leopardstown Heights, Dublin 18",Dublin,406000.0,No,Leopardstown,Dublin 18,q3,60%
+11/12/2015,"12 Orby Court, The Gallops, Leopardstown Dublin 18",Dublin,390000.0,No,Leopardstown,Dublin 18,q2,50%
+11/12/2015,"2 Glencairn Glen, Leopardstown, Dublin 18",Dublin,790000.0,No,Leopardstown,Dublin 18,q4,100%
+14/01/2016,"9 Orby Court, The Gallops, Leopardstown Dublin 18",Dublin,420000.0,No,Leopardstown,Dublin 18,q3,60%
+22/01/2016,"2 Fey Yerra Wood, Fey Yerra, Leopardstown Road",Dublin,779736.0,Yes,Leopardstown,Dublin 18,q4,100%
+01/02/2016,"14 Glencairn Crescent, The Gallops, Leopardstown Dublin 18",Dublin,460000.0,No,Leopardstown,Dublin 18,q3,70%
+01/02/2016,"6 Glencairn Copse, Leopardstown, Dublin 18",Dublin,465000.0,No,Leopardstown,Dublin 18,q3,80%
+02/02/2016,"8 Orby Dr, The Gallops, Leopardstown Dublin 18",Dublin,550000.0,No,Leopardstown,Dublin 18,q4,100%
+08/02/2016,"40 Murphystown Rd, Leopardstown Rd, Dublin 18",Dublin,470000.0,No,Leopardstown,Dublin 18,q3,80%
+23/02/2016,"9 Glenbourne Walk, Leopardstown Valley, Dublin 18",Dublin,392000.0,No,Leopardstown,Dublin 18,q2,50%
+10/03/2016,"7 Glenbourne Grove, Leopardstown Valley, Dublin 18",Dublin,447000.0,No,Leopardstown,Dublin 18,q3,70%
+11/03/2016,"28 Tudor Lawns, Leopardstown Rd, Dublin 18",Dublin,505000.0,No,Leopardstown,Dublin 18,q4,90%
+11/03/2016,"5 Glencairn Grove, Leopardstown, Dublin 18",Dublin,552000.0,No,Leopardstown,Dublin 18,q4,100%
+31/03/2016,"21 Mount Eagle Court, Leopardstown Heights, Dublin 18",Dublin,585000.0,No,Leopardstown,Dublin 18,q4,100%
+31/03/2016,"22 Glencairn Grove, Leopardstown, Dublin 18",Dublin,405000.0,No,Leopardstown,Dublin 18,q3,60%
+06/04/2016,"24 Orby Park, The Gallops, Leopardstown Dublin 18",Dublin,490000.0,No,Leopardstown,Dublin 18,q4,80%
+15/04/2016,"39 Levmoss Ave, Levmoss Park, The Gallops Leopardstown Dublin 18",Dublin,224669.6,Yes,Leopardstown,Dublin 18,q1,10%
+15/04/2016,"5 Fey Yerra Wood, Fey Yerra, Leopardstown Road",Dublin,770925.0,Yes,Leopardstown,Dublin 18,q4,100%
+22/04/2016,"98 Tudor Lawns, Leopardstown Rd Foxrock, Dublin 18",Dublin,660000.0,No,Leopardstown,Dublin 18,q4,100%
+26/04/2016,"3 Fey Yerra Wood, Fey Yerra, Leopardstown Road",Dublin,788546.0,Yes,Leopardstown,Dublin 18,q4,100%
+27/04/2016,"3 Glenbourne Way, Leopardstown, Dublin 18",Dublin,400000.0,No,Leopardstown,Dublin 18,q3,60%
+29/04/2016,"45 Levmoss Ave, The Gallops, Leopardstown Dublin 18",Dublin,290000.0,No,Leopardstown,Dublin 18,q1,20%
+06/05/2016,"18 Glencairn Lawn, Leopardstown, Dublin 18",Dublin,500000.0,No,Leopardstown,Dublin 18,q4,80%
+27/05/2016,"34 Glencairn Rise, The Gallops, Leopardstown Dublin 18",Dublin,570000.0,No,Leopardstown,Dublin 18,q4,100%
+13/06/2016,"3 Glenbourne Park, Leopardstown Valley, Dublin 18",Dublin,477000.0,No,Leopardstown,Dublin 18,q3,80%
+06/07/2016,"6 Fey Yerra Wood, Fey Yerra, Leopardstown Road",Dublin,766520.0,Yes,Leopardstown,Dublin 18,q4,100%
+08/07/2016,"10 Glenbourne Ave, Leopardstown Valley, Dublin 18",Dublin,431000.0,No,Leopardstown,Dublin 18,q3,60%
+22/07/2016,"14 Leopardstown Abbey, Leopardstown, Dublin 18",Dublin,373000.0,No,Leopardstown,Dublin 18,q2,50%
+25/07/2016,"20 Glenbourne Close, Leopardstown Valley, Dublin 18",Dublin,455000.0,No,Leopardstown,Dublin 18,q3,70%
+11/08/2016,"9 Tudor Lawns, Leopardstown, Dublin 18",Dublin,510000.0,No,Leopardstown,Dublin 18,q4,90%
+22/08/2016,"7 Fey Yarra Wood, Fey Yerra, Leopardstown Road",Dublin,766520.0,Yes,Leopardstown,Dublin 18,q4,100%
+23/08/2016,"27 Glencairn Dr, Leopardstown Valley, Dublin 18",Dublin,455000.0,No,Leopardstown,Dublin 18,q3,70%
+29/08/2016,"8 Glencairn Green, The Gallops, Leopardstown Dublin 18",Dublin,500000.0,No,Leopardstown,Dublin 18,q4,80%
+31/08/2016,"37 Levmoss Ave, The Gallops, Leopardstown Dublin 18",Dublin,373000.0,No,Leopardstown,Dublin 18,q2,50%
+14/09/2016,"9 Glencairn Oaks, The Gallops, Leopardstown Dublin 18",Dublin,515000.0,No,Leopardstown,Dublin 18,q4,90%
+16/09/2016,"2A Glenbourne Grove, Leopardstown Valley, Dublin 18",Dublin,450000.0,No,Leopardstown,Dublin 18,q3,70%
+21/09/2016,"24 Glencairn Grove, The Gallops, Leopardstown Dublin 18",Dublin,420000.0,No,Leopardstown,Dublin 18,q3,60%
+29/09/2016,"6 Glencairn Thicket, The Gallops, Leopardstown Dublin 18",Dublin,400000.0,No,Leopardstown,Dublin 18,q3,60%
+07/11/2016,"45 Mount Eagle Dr, Leopardstown Heights, Leopardstown Dublin 18",Dublin,427000.0,No,Leopardstown,Dublin 18,q3,60%
+07/11/2016,"8 Fey Yerra Wood, Fey Yerra, Leopardstown",Dublin,700440.52,Yes,Leopardstown,Dublin 18,q4,100%
+08/11/2016,"10 Glenbourne Park, Leopardstown, Dublin 18",Dublin,408000.0,No,Leopardstown,Dublin 18,q3,60%
+05/01/2017,"Apt 8, Kelston Hall, Leopardstown Rd Dublin 18",Dublin,392000.0,No,Leopardstown,Dublin 18,q2,50%
+09/01/2017,"2 Orby Dr, The Gallops, Leopardstown Dublin 18",Dublin,580000.0,No,Leopardstown,Dublin 18,q4,100%
+18/01/2017,"13 Glencairn Rd, The Gallops, Leopardstown Dublin 18",Dublin,640000.0,No,Leopardstown,Dublin 18,q4,100%
+19/01/2017,"26 Weavers Hall, Levmoss Park, Leopardstown Dublin 18",Dublin,205000.0,No,Leopardstown,Dublin 18,q1,10%
+10/03/2017,"Kinvara, Leopardstown Rd, Dublin 18",Dublin,1300000.0,No,Leopardstown,Dublin 18,q4,100%
+30/03/2017,"44 Glencairn Ave, Leopardstown Rd, Dublin 18",Dublin,475000.0,No,Leopardstown,Dublin 18,q3,80%
+06/04/2017,"26 Glenbourne Rd, Leopardstown Valley, Dublin 18",Dublin,433000.0,No,Leopardstown,Dublin 18,q3,60%
+13/04/2017,"23 Levmoss Hall, The Gallops, Leopardstown Dublin 18",Dublin,210000.0,No,Leopardstown,Dublin 18,q1,10%
+20/04/2017,"7 Leopardstown Rise, Leopardstown Rd, Dublin 18",Dublin,765000.0,No,Leopardstown,Dublin 18,q4,100%
+27/04/2017,"18 Mount Eagle Grove, Leopardstown Heights, Dublin 18",Dublin,440000.0,No,Leopardstown,Dublin 18,q3,70%
+28/04/2017,"22 Sandyford Hall Dr, Leopardstown, Dublin 18",Dublin,455000.0,No,Leopardstown,Dublin 18,q3,70%
+15/05/2017,"21 Mimosa Hall, The Gallops, Leopardstown Dublin 18",Dublin,220000.0,No,Leopardstown,Dublin 18,q1,10%
+17/05/2017,"35 Mimosa Hall, Leopardstown, The Gallops Dublin 18",Dublin,238000.0,No,Leopardstown,Dublin 18,q1,10%
+22/05/2017,"6 Glenbourne Rd, Leopardstown Valley, Ballyogan Rd Dublin 18",Dublin,457000.0,No,Leopardstown,Dublin 18,q3,70%
+31/05/2017,"15 Levmoss Ave, The Gallops, Leopardstown Dublin 18",Dublin,280000.0,No,Leopardstown,Dublin 18,q1,10%
+31/05/2017,"46 Foxrock Manor, Leopardstown Rd, Dublin 18",Dublin,980000.0,No,Leopardstown,Dublin 18,q4,100%
+02/06/2017,"18 Glencairn Crescent, The Gallops, Leopardstown Dublin 18",Dublin,570000.0,No,Leopardstown,Dublin 18,q4,100%
+09/06/2017,"23 Larkspur Hall, Levmoss Park, Leopardstown Dublin 18",Dublin,340000.0,No,Leopardstown,Dublin 18,q2,40%
+09/06/2017,"29 Weavers Hall, Mimosa  The Gallops, Leopardstown",Dublin,295000.0,Yes,Leopardstown,Dublin 18,q1,20%
+14/06/2017,"16 Orby Way, The Gallops, Leopardstown Dublin 18",Dublin,572000.0,No,Leopardstown,Dublin 18,q4,100%
+20/06/2017,"16 Glenbourne Grove, Leopardstown Valley, Leopardstown Dublin 18",Dublin,523000.0,No,Leopardstown,Dublin 18,q4,90%
+21/07/2017,"9 Glencairn Oaks, The Gallops, Leopardstown Dublin 18",Dublin,419420.0,No,Leopardstown,Dublin 18,q3,60%
+31/07/2017,"31 Onyx, The Grange, Leopardstown Rd",Dublin,463500.0,No,Leopardstown,Dublin 18,q3,80%
+04/08/2017,"2 Mount Eagle Dr, Leopardstown, Dublin 18",Dublin,497500.0,No,Leopardstown,Dublin 18,q4,80%
+04/08/2017,"34 Woodford, Brewery Rd, Leopardstown",Dublin,600000.0,No,Leopardstown,Dublin 18,q4,100%
+08/08/2017,"47 Castlecourt, Kilgobbin Woods, Leopardstown Dublin 18",Dublin,276000.0,No,Leopardstown,Dublin 18,q1,10%
+16/08/2017,"3 Glencairn Walk, The Gallops, Leopardstown Dublin 18",Dublin,486000.0,No,Leopardstown,Dublin 18,q4,80%
+04/09/2017,"1 Orby View, The Gallops, Leopardstown Dublin 18",Dublin,550000.0,No,Leopardstown,Dublin 18,q4,100%
+04/09/2017,"40 Levmoss Avenue, The Gallops, Leopardstown",Dublin,415000.0,No,Leopardstown,Dublin 18,q3,60%
+08/09/2017,"38 Mount Eagle View, Leopardstown, Dublin 18",Dublin,450000.0,No,Leopardstown,Dublin 18,q3,70%
+12/09/2017,"Sefton House, Whites Cross, Leopardstown",Dublin,1500000.0,No,Leopardstown,Dublin 18,q4,100%
+12/09/2017,"Sefton House, Whites Cross, Leopardstown",Dublin,1500000.0,No,Leopardstown,Dublin 18,q4,100%
+21/09/2017,"16 Glenbourne Close, Leopardstown Valley, Dublin 18",Dublin,467000.0,No,Leopardstown,Dublin 18,q3,80%
+27/09/2017,"42 Glencairn Rise, Leopardstown, Dublin 18",Dublin,670000.0,No,Leopardstown,Dublin 18,q4,100%
+09/10/2017,"23 Arkle Sq, Leopardstown, Dublin 18",Dublin,557000.0,No,Leopardstown,Dublin 18,q4,100%
+18/10/2017,"1 The Hazels, Elmfield, Leopardstown",Dublin,323300.22,Yes,Leopardstown,Dublin 18,q2,30%
+18/10/2017,"1 The Oaks, Elmfield, Leopardstown",Dublin,312328.05,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"10  The Ashes, Elmfield, Leopardstown",Dublin,315244.0,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"10 The Hazels, Elmfield, Leopardstown",Dublin,312072.44,Yes,Leopardstown,Dublin 18,q1,20%
+18/10/2017,"10 The Oaks, Elmfield, Leopardstown",Dublin,321138.63,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"11  The Ashes, Elmfield, Leopardstown",Dublin,248724.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"11 The Hazels, Elmfield, Leopardstown",Dublin,312942.59,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"11 The Oaks, Elmfield, Leopardstown",Dublin,321138.63,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"12  The Ashes, Elmfield, Leopardstown",Dublin,345641.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"12 The Hazels, Elmfield, Leopardstown",Dublin,312065.37,Yes,Leopardstown,Dublin 18,q1,20%
+18/10/2017,"12 The Oaks, Elmfield, Leopardstown",Dublin,321138.63,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"13 The Ashes, Elmfield, Leopardstown",Dublin,315244.0,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"13 The Hazels, Elmfield, Leopardstown",Dublin,332112.42,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"13 The Oaks, Elmfield, Leopardstown",Dublin,255707.93,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"14  The Ashes, Elmfield, Leopardstown",Dublin,324055.0,Yes,Leopardstown,Dublin 18,q2,30%
+18/10/2017,"14 The Hazels, Elmfield, Leopardstown",Dublin,319747.4,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"14 The Oaks, Elmfield, Leopardstown",Dublin,355460.96,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"15  The Ashes, Elmfield, Leopardstown",Dublin,324055.0,Yes,Leopardstown,Dublin 18,q2,30%
+18/10/2017,"15 The Hazels, Elmfield, Leopardstown",Dublin,324845.59,Yes,Leopardstown,Dublin 18,q2,30%
+18/10/2017,"15 The Oaks, Elmfield, Leopardstown",Dublin,321666.6,Yes,Leopardstown,Dublin 18,q2,30%
+18/10/2017,"16  The Ashes, Elmfield, Leopardstown",Dublin,336830.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"16 The Hazels, Elmfield, Leopardstown",Dublin,321744.97,Yes,Leopardstown,Dublin 18,q2,30%
+18/10/2017,"16 The Oaks, Elmfield, Leopardstown",Dublin,321138.63,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"17  The Ashes, Elmfield, Leopardstown",Dublin,354451.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"17 The Hazels, Elmfield, Leopardstown",Dublin,301987.23,Yes,Leopardstown,Dublin 18,q1,20%
+18/10/2017,"17 The Oaks, Elmfield, Leopardstown",Dublin,329949.2,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"18  The Ashes, Elmfield, Leopardstown",Dublin,257535.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"18 The Hazels, Elmfield, Leopardstown",Dublin,320871.01,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"18 The Oaks, Elmfield, Leopardstown",Dublin,329949.2,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"19  The Ashes, Elmfield, Leopardstown",Dublin,257535.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"19 The Hazels, Elmfield, Leopardstown",Dublin,229000.4,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"19 The Oaks, Elmfield, Leopardstown",Dublin,329949.2,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"2 The Ashes, Elmfield, Leopardstown",Dublin,315244.0,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"2 The Hazels, Elmfield, Leopardstown",Dublin,312946.4,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"2 The Oaks, Elmfield, Leopardstown",Dublin,312328.05,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"20  The Ashes, Elmfield, Leopardstown",Dublin,354451.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"20 The Hazels, Elmfield, Leopardstown",Dublin,391269.8,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"20 The Oaks, Elmfield, Leopardstown",Dublin,329949.2,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"21  The Ashes, Elmfield, Leopardstown",Dublin,261940.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"21 The Hazels, Elmfield, Leopardstown",Dublin,345504.5,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"21 The Oaks, Elmfield, Leopardstown",Dublin,264518.5,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"22  The Ashes, Elmfield, Leopardstown",Dublin,354451.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"22 The Hazels, Elmfield, Leopardstown",Dublin,263810.97,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"22 The Oaks, Elmfield, Leopardstown",Dublin,363892.24,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"23  The Ashes, Elmfield, Leopardstown",Dublin,324055.0,Yes,Leopardstown,Dublin 18,q2,30%
+18/10/2017,"23 The Hazels, Elmfield, Leopardstown",Dublin,321761.89,Yes,Leopardstown,Dublin 18,q2,30%
+18/10/2017,"23 The Oaks, Elmfield, Leopardstown",Dublin,329949.2,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"24  The Ashes, Elmfield, Leopardstown",Dublin,324055.0,Yes,Leopardstown,Dublin 18,q2,30%
+18/10/2017,"24 The Hazels, Elmfield, Leopardstown",Dublin,320895.03,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"24 The Oaks, Elmfield, Leopardstown",Dublin,329949.2,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"25  The Ashes, Elmfield, Leopardstown",Dublin,257535.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"25 The Hazels, Elmfield, Leopardstown",Dublin,340966.67,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"25 The Oaks, Elmfield, Leopardstown",Dublin,338038.35,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"26  The Ashes, Elmfield, Leopardstown",Dublin,354451.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"26 The Hazels, Elmfield, Leopardstown",Dublin,320883.02,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"26 The Oaks, Elmfield, Leopardstown",Dublin,338038.35,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"27  The Ashes, Elmfield, Leopardstown",Dublin,324055.0,Yes,Leopardstown,Dublin 18,q2,30%
+18/10/2017,"27 The Hazels, Elmfield, Leopardstown",Dublin,333638.7,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"27 The Oaks, Elmfield, Leopardstown",Dublin,338038.35,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"28  The Ashes, Elmfield, Leopardstown",Dublin,332865.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"28 The Hazels, Elmfield, Leopardstown",Dublin,328557.97,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"28 The Oaks, Elmfield, Leopardstown",Dublin,338038.35,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"29  The Ashes, Elmfield, Leopardstown",Dublin,332865.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"29 The Hazels, Elmfield, Leopardstown",Dublin,310750.32,Yes,Leopardstown,Dublin 18,q1,20%
+18/10/2017,"29 The Oaks, Elmfield, Leopardstown",Dublin,272607.65,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"3 The Ashes, Elmfield, Leopardstown",Dublin,345641.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"3 The Hazels, Elmfield, Leopardstown",Dublin,316028.47,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"3 The Oaks, Elmfield, Leopardstown",Dublin,312328.05,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"30  The Ashes, Elmfield, Leopardstown",Dublin,345641.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"30 The Hazels, Elmfield, Leopardstown",Dublin,330567.55,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"30 The Oaks, Elmfield, Leopardstown",Dublin,370219.27,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"31  The Ashes, Elmfield, Leopardstown",Dublin,363262.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"31 The Hazels, Elmfield, Leopardstown",Dublin,237810.98,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"31 The Oaks, Elmfield, Leopardstown",Dublin,337302.52,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"32  The Ashes, Elmfield, Leopardstown",Dublin,266346.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"32 The Hazels, Elmfield, Leopardstown",Dublin,329686.49,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"32 The Oaks, Elmfield, Leopardstown",Dublin,337429.96,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"33  The Ashes, Elmfield, Leopardstown",Dublin,266346.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"33 The Hazels, Elmfield, Leopardstown",Dublin,354323.43,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"34  The Ashes, Elmfield, Leopardstown",Dublin,363262.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"34 The Hazels, Elmfield, Leopardstown",Dublin,400089.1,Yes,Leopardstown,Dublin 18,q3,60%
+18/10/2017,"35  The Ashes, Elmfield, Leopardstown",Dublin,270751.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"35 The Hazels, Elmfield, Leopardstown",Dublin,330572.46,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"36  The Ashes, Elmfield, Leopardstown",Dublin,363262.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"36 The Hazels, Elmfield, Leopardstown",Dublin,272620.99,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"37  The Ashes, Elmfield, Leopardstown",Dublin,332865.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"37 The Hazels, Elmfield, Leopardstown",Dublin,349698.67,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"38  The Ashes, Elmfield, Leopardstown",Dublin,332865.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"38 The Hazels, Elmfield, Leopardstown",Dublin,329693.59,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"39  The Ashes, Elmfield, Leopardstown",Dublin,266346.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"39 The Hazels, Elmfield, Leopardstown",Dublin,341950.21,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"4 The Ashes, Elmfield, Leopardstown",Dublin,248724.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"4 The Hazels, Elmfield, Leopardstown",Dublin,312060.44,Yes,Leopardstown,Dublin 18,q1,20%
+18/10/2017,"4 The Oaks, Elmfield, Leopardstown",Dublin,312328.05,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"40  The Ashes, Elmfield, Leopardstown",Dublin,363262.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"40 The Hazels, Elmfield, Leopardstown",Dublin,329693.59,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"41  The Ashes, Elmfield, Leopardstown",Dublin,332865.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"41 The Hazels, Elmfield, Leopardstown",Dublin,319042.72,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"42  The Ashes, Elmfield, Leopardstown",Dublin,341676.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"42 The Hazels, Elmfield, Leopardstown",Dublin,337363.64,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"43  The Ashes, Elmfield, Leopardstown",Dublin,341676.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"43 The Hazels, Elmfield, Leopardstown",Dublin,246127.39,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"44  The Ashes, Elmfield, Leopardstown",Dublin,354451.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"44 The Hazels, Elmfield, Leopardstown",Dublin,341066.48,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"45  The Ashes, Elmfield, Leopardstown",Dublin,372072.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"45 The Hazels, Elmfield, Leopardstown",Dublin,362622.24,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"46  The Ashes, Elmfield, Leopardstown",Dublin,275156.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"46 The Hazels, Elmfield, Leopardstown",Dublin,337989.81,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"47  The Ashes, Elmfield, Leopardstown",Dublin,275156.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"47 The Hazels, Elmfield, Leopardstown",Dublin,338866.5,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"48  The Ashes, Elmfield, Leopardstown",Dublin,372072.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"48 The Hazels, Elmfield, Leopardstown",Dublin,406173.95,Yes,Leopardstown,Dublin 18,q3,60%
+18/10/2017,"49  The Ashes, Elmfield, Leopardstown",Dublin,279561.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"5 The Ashes, Elmfield, Leopardstown",Dublin,248724.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"5 The Hazels, Elmfield, Leopardstown",Dublin,293128.36,Yes,Leopardstown,Dublin 18,q1,20%
+18/10/2017,"5 The Oaks, Elmfield, Leopardstown",Dublin,246897.35,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"50  The Ashes, Elmfield, Leopardstown",Dublin,372072.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"50 The Hazels, Elmfield, Leopardstown",Dublin,280932.5,Yes,Leopardstown,Dublin 18,q1,20%
+18/10/2017,"51  The Ashes, Elmfield, Leopardstown",Dublin,341676.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"52  The Ashes, Elmfield, Leopardstown",Dublin,341676.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"52 The Hazels, Elmfield, Leopardstown",Dublin,337989.81,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"53 The Ashes, Elmfield, Leopardstown",Dublin,275156.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"54 The Ashes, Elmfield, Leopardstown",Dublin,372072.0,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"54 The Hazels, Elmfield, Leopardstown",Dublin,337989.81,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"55  The Ashes, Elmfield, Leopardstown",Dublin,341676.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"56 The Hazels, Elmfield, Leopardstown",Dublin,345921.06,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"6 The Ashes, Elmfield, Leopardstown",Dublin,345641.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"6 The Hazels, Elmfield, Leopardstown",Dublin,382462.5,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"6 The Oaks, Elmfield, Leopardstown",Dublin,346271.09,Yes,Leopardstown,Dublin 18,q2,50%
+18/10/2017,"7 The Ashes, Elmfield, Leopardstown",Dublin,253130.0,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"7 The Hazels, Elmfield, Leopardstown",Dublin,219968.43,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"7 The Oaks, Elmfield, Leopardstown",Dublin,312328.05,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"8 The Ashes, Elmfield, Leopardstown",Dublin,345641.0,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"8 The Hazels, Elmfield, Leopardstown",Dublin,255000.4,Yes,Leopardstown,Dublin 18,q1,10%
+18/10/2017,"8 The Oaks, Elmfield, Leopardstown",Dublin,312328.05,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"9 The Ashes, Elmfield, Leopardstown",Dublin,315244.0,Yes,Leopardstown,Dublin 18,q1,30%
+18/10/2017,"9 The Hazels, Elmfield, Leopardstown",Dublin,336693.63,Yes,Leopardstown,Dublin 18,q2,40%
+18/10/2017,"9 The Oaks, Elmfield, Leopardstown",Dublin,321138.63,Yes,Leopardstown,Dublin 18,q2,30%
+27/10/2017,"56 Glencairn Lawn, Leopardstown Lawn, Dublin 18",Dublin,535000.0,No,Leopardstown,Dublin 18,q4,90%
+11/11/2017,"8 Sefton Hall, Kelston, Leopardstown Rd Dublin 18",Dublin,396000.0,No,Leopardstown,Dublin 18,q2,50%
+14/11/2017,"23 Glenbourne Green, Leopardstown, Dublin 18",Dublin,489000.0,No,Leopardstown,Dublin 18,q4,80%
+23/11/2017,"16 Larkfield Glade, Clayfarm, Leopardstown",Dublin,466960.35,Yes,Leopardstown,Dublin 18,q3,80%
+23/11/2017,"52 Larkfield Way, Clay Farm, Leopardstown",Dublin,502203.0,Yes,Leopardstown,Dublin 18,q4,80%
+29/11/2017,"21 Glenbourne Close, Leopardstown, Dublin 18",Dublin,580000.0,No,Leopardstown,Dublin 18,q4,100%
+01/12/2017,"48 Larkfield Way, Clayfarm, Leopardstown",Dublin,585000.0,Yes,Leopardstown,Dublin 18,q4,100%
+01/12/2017,"83 Mount Eagle Dr, Leopardstown, Dublin 18",Dublin,526000.0,No,Leopardstown,Dublin 18,q4,90%
+04/12/2017,"2 Larkfield Close, Clay Farm, Leopardstown",Dublin,436123.0,Yes,Leopardstown,Dublin 18,q3,60%
+04/12/2017,"24 Glenbourne View, Leopardstown Valley, Dublin 18",Dublin,518000.0,No,Leopardstown,Dublin 18,q4,90%
+05/12/2017,"56 Mount Eagle Grove, Leopardstown Heights, Leopardstown Dublin 18",Dublin,497000.0,No,Leopardstown,Dublin 18,q4,80%
+08/12/2017,"15 Larkfield Glade, Clay Farm, Leopardstown",Dublin,458150.0,Yes,Leopardstown,Dublin 18,q3,70%
+08/12/2017,"3 Glencairn Lawn, The Gallops, Leopardstown Dublin 18",Dublin,460000.0,No,Leopardstown,Dublin 18,q3,70%
+08/12/2017,"50 Larkfield Way, Clay Farm, Leopardstown",Dublin,515418.5,Yes,Leopardstown,Dublin 18,q4,90%
+12/12/2017,"7  Larkfield Glade, Clay Farm, Leopardstown",Dublin,431718.05,Yes,Leopardstown,Dublin 18,q3,60%
+13/12/2017,"44 Larkfield Way, Clay Farm, Leopardstown",Dublin,502203.0,Yes,Leopardstown,Dublin 18,q4,90%
+15/12/2017,"10 Larkfield Glade, Clay Farm, Leopardstown",Dublin,440500.0,Yes,Leopardstown,Dublin 18,q3,70%
+15/12/2017,"7 Glenbourne Crescent, Leopardstown Valley, Leopardstown Dublin 18",Dublin,475000.0,No,Leopardstown,Dublin 18,q3,80%
+19/12/2017,"11 Larkfield Glade, Clay Farm, Leopardstown",Dublin,410875.0,Yes,Leopardstown,Dublin 18,q3,60%
+19/12/2017,"5 Larkfield Glade, Clay Farm, Leopardstown",Dublin,418502.2,Yes,Leopardstown,Dublin 18,q3,60%
+21/12/2017,"13 Mount Eagle Grove, Leopardstown, Dublin 18",Dublin,475000.0,No,Leopardstown,Dublin 18,q3,80%
+21/12/2017,"2 Glenbourne Ave, Leopardstown Valley, Leopardstown Dublin 18",Dublin,472000.0,No,Leopardstown,Dublin 18,q3,80%
+10/01/2018,"51 Leopardstown Grove, Leopardstown, Dublin 18",Dublin,825000.0,No,Leopardstown,Dublin 18,q4,100%
+12/01/2018,"12 Larkfield Glade, Clay Farm, Leopardstown",Dublin,427313.0,Yes,Leopardstown,Dublin 18,q3,60%
+12/01/2018,"4 Larkfield Glade, Clay Farm, Leopardstown",Dublin,427312.8,Yes,Leopardstown,Dublin 18,q3,60%
+15/01/2018,"2 Larkfield View, Clay Farm, Leopardstown",Dublin,431718.0,Yes,Leopardstown,Dublin 18,q3,60%
+17/01/2018,"Apt 1110 Level Eleven, Vantage East Central Park, Leopardstown Rd",Dublin,495000.0,No,Leopardstown,Dublin 18,q4,80%
+23/01/2018,"13 Larkfield Glade, Clay Farm, Leopardstown",Dublin,475000.0,Yes,Leopardstown,Dublin 18,q3,80%
+23/01/2018,"2 Larkfield Glade, Clay Farm, Leopardstown",Dublin,466960.0,Yes,Leopardstown,Dublin 18,q3,80%
+30/01/2018,"6 Larkfield View, Clay Farm, Leopardstown",Dublin,431718.0,Yes,Leopardstown,Dublin 18,q3,60%
+30/01/2018,"8 Larkfield Glade, Clay Farm, Leopardstown",Dublin,440500.0,Yes,Leopardstown,Dublin 18,q3,70%
+01/02/2018,"25 Larkfield Place, Clay Farm, Leopardstown",Dublin,511013.21,Yes,Leopardstown,Dublin 18,q4,90%
+02/02/2018,"9 Larkfield Glade, Clay Farm, Leopardstown",Dublin,431800.0,Yes,Leopardstown,Dublin 18,q3,60%
+09/02/2018,"54 Larkfield Way, Clay Farm, Leopardstown",Dublin,502202.0,Yes,Leopardstown,Dublin 18,q4,80%
+09/02/2018,"6 Larkfield Glade, Clay Farm, Leopardstown",Dublin,427312.77,Yes,Leopardstown,Dublin 18,q3,60%
+14/02/2018,"9 Glencairn Rise, The Gallops, Leopardstown",Dublin,560000.0,No,Leopardstown,Dublin 18,q4,100%
+22/02/2018,"3 Larkfield Place, Clay Farm, Leopardstown",Dublin,431718.0,Yes,Leopardstown,Dublin 18,q3,60%
+23/02/2018,"10 Sefton Hall, Kelston, Leopardstown Rd Dublin 18",Dublin,505000.0,No,Leopardstown,Dublin 18,q4,90%
+23/02/2018,"14 Larkfield Glade, Clay Farm, Leopardstown",Dublin,427312.0,Yes,Leopardstown,Dublin 18,q3,60%
+23/02/2018,"5 Larkfield Place, Clay Farm, Leopardstown",Dublin,415200.0,Yes,Leopardstown,Dublin 18,q3,60%
+24/02/2018,"3 Larkfield Glade, Clay Farm, Leopardstown",Dublin,418320.0,Yes,Leopardstown,Dublin 18,q3,60%
+26/02/2018,"10 Glencairn Walk, The Gallops, Leopardstown Dublin 18",Dublin,585000.0,No,Leopardstown,Dublin 18,q4,100%
+07/03/2018,"43 Glencairn Lawn, The Gallops, Leopardstown Dublin 18",Dublin,600000.0,No,Leopardstown,Dublin 18,q4,100%
+08/03/2018,"9 Larkfield Place, Clay Farm, Leopardstown",Dublin,422907.0,Yes,Leopardstown,Dublin 18,q3,60%
+12/03/2018,"12 Larkfield Place, Clay Farm, Leopardstown",Dublin,493392.0,Yes,Leopardstown,Dublin 18,q4,80%
+13/03/2018,"10  Larkfield Place, Clay Farm, Leopardstown",Dublin,506608.0,Yes,Leopardstown,Dublin 18,q4,90%
+14/03/2018,"1 Larkfield Place, Clay Farm, Leopardstown",Dublin,431718.06,Yes,Leopardstown,Dublin 18,q3,60%
+15/03/2018,"4 Glencairn Grove, The Gallops, Leopardstown Dublin 18",Dublin,462500.0,No,Leopardstown,Dublin 18,q3,70%
+20/03/2018,"11 Larkfield Place, Clay Farm  Ballogan Road, Leopardstown",Dublin,511013.21,Yes,Leopardstown,Dublin 18,q4,90%
+23/03/2018,"2 Larkfield Place, Clay Farm, Leopardstown",Dublin,511013.0,Yes,Leopardstown,Dublin 18,q4,90%
+26/03/2018,"24 Glenbourne Walk, Leopardstown Valley, Dublin 18",Dublin,486500.0,No,Leopardstown,Dublin 18,q4,80%
+04/04/2018,"16 Larkfield Place, Clay Farm, Leopardstown",Dublin,511013.0,Yes,Leopardstown,Dublin 18,q4,90%
+05/04/2018,"23 Larkfield Place, Clay Farm, Leopardstown",Dublin,493392.0,Yes,Leopardstown,Dublin 18,q4,80%
+11/04/2018,"32 Mount Eagle View, Leopardstown, Dublin 18",Dublin,455000.0,No,Leopardstown,Dublin 18,q3,70%
+11/04/2018,"Apt 17 Levmoss Hall, The Gallops, Leopardstown",Dublin,347000.0,No,Leopardstown,Dublin 18,q2,50%
+18/04/2018,"56 Larkfield Way, Clay Farm, Leopardstown",Dublin,502202.64,Yes,Leopardstown,Dublin 18,q4,80%
+19/04/2018,"19 Larkfield Place, Clay Farm, Leopardstown",Dublin,506607.0,Yes,Leopardstown,Dublin 18,q4,90%
+27/04/2018,"8 Larkfield Place, Clay Farm, Leopardstown",Dublin,506607.0,Yes,Leopardstown,Dublin 18,q4,90%
+01/05/2018,"4 Larkfield View, Clay Farm, Leopardstown",Dublin,431718.0,Yes,Leopardstown,Dublin 18,q3,60%
+03/05/2018,"2 Glencairn Way, The Gallops, Leopardstown Dublin 18",Dublin,710000.0,No,Leopardstown,Dublin 18,q4,100%
+04/05/2018,"28 Larkfield Way, Clay Farm, Leopardstown",Dublin,533039.64,Yes,Leopardstown,Dublin 18,q4,90%
+08/05/2018,"56 Murphystown Rd, Leopardstown, Dublin 18",Dublin,465000.0,No,Leopardstown,Dublin 18,q3,80%
+08/05/2018,"81 Mount Eagle Dr, Leopardstown Heights, Dublin 18",Dublin,520000.0,No,Leopardstown,Dublin 18,q4,90%
+21/05/2018,"19 Glenbourne Close, Leopardstown Valley, Dublin 18",Dublin,525000.0,No,Leopardstown,Dublin 18,q4,90%
+21/05/2018,"30 Larkfield Way, Clay Farm, Leopardstown",Dublin,524229.0,Yes,Leopardstown,Dublin 18,q4,90%
+22/05/2018,"12 Glencairn Rise, The Gallops, Leopardstown Dublin 18",Dublin,525000.0,No,Leopardstown,Dublin 18,q4,90%
+23/05/2018,"21 Larkfield Place, Clay Farm, Leopardstown",Dublin,493400.0,Yes,Leopardstown,Dublin 18,q4,80%
+24/05/2018,"16 Glenbourne Crescent, Leopardstown Valley, Dublin 18",Dublin,515000.0,No,Leopardstown,Dublin 18,q4,90%
+24/05/2018,"4 Larkfield Walk, Clay Farm, Leopardstown",Dublin,440529.0,Yes,Leopardstown,Dublin 18,q3,70%
+28/05/2018,"2 Larkfield Walk, Clay Farm, Leopardstown",Dublin,440528.63,Yes,Leopardstown,Dublin 18,q3,70%
+28/05/2018,"5 Glenbourne Green, Leopardstown Valley, Dublin 18",Dublin,393000.0,No,Leopardstown,Dublin 18,q2,50%
+29/05/2018,"40 Glencairn Rise, The Gallops, Leopardstown Dublin 18",Dublin,630000.0,No,Leopardstown,Dublin 18,q4,100%
+31/05/2018,"6 Larkfield Walk, Clay Farm, Leopardstown",Dublin,436123.0,Yes,Leopardstown,Dublin 18,q3,60%
+01/06/2018,"16 Larkfield View, Clay Farm, Leopardstown",Dublin,495000.0,Yes,Leopardstown,Dublin 18,q4,80%
+06/06/2018,"21 Sycamore Elmfield, Ballyogan Road, Leopardstown",Dublin,324068.16,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"27 Sycamore Elmfield, Ballyogan Road, Leopardstown",Dublin,266176.81,Yes,Leopardstown,Dublin 18,q1,10%
+06/06/2018,"Apartment 1 The Beeches, Elmfield, Leopardstown",Dublin,264653.65,Yes,Leopardstown,Dublin 18,q1,10%
+06/06/2018,"Apartment 10 The Beeches, Elmfield, Leopardstown",Dublin,321301.96,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 11 The Beeches, Elmfield, Leopardstown",Dublin,321734.75,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 12 The Beeches, Elmfield, Leopardstown",Dublin,320834.84,Yes,Leopardstown,Dublin 18,q1,30%
+06/06/2018,"Apartment 12 The Sycamore, Elmfield, Leopardstown",Dublin,322706.52,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 13 The Beeches, Elmfield, Leopardstown",Dublin,321296.5,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 14 The Beeches, Elmfield, Leopardstown",Dublin,321484.91,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 14 The Sycamore, Elmfield, Leopardstown",Dublin,323033.56,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 15 The Beeches, Elmfield, Leopardstown",Dublin,321158.95,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 16 The Beeches, Elmfield, Leopardstown",Dublin,321301.96,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 17 The Beeches, Elmfield, Leopardstown",Dublin,322593.0,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 18 The Beeches, Elmfield, Leopardstown",Dublin,320826.65,Yes,Leopardstown,Dublin 18,q1,30%
+06/06/2018,"Apartment 19 The Beeches, Elmfield, Leopardstown",Dublin,321296.5,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 2 The Beeches, Elmfield, Leopardstown",Dublin,321163.32,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 20 The Beeches, Elmfield, Leopardstown",Dublin,321112.65,Yes,Leopardstown,Dublin 18,q1,30%
+06/06/2018,"Apartment 21 The Beeches, Elmfield, Leopardstown",Dublin,321163.32,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 22 The Beeches, Elmfield, Leopardstown",Dublin,321301.96,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 23 The Beeches, Elmfield, Leopardstown",Dublin,320847.99,Yes,Leopardstown,Dublin 18,q1,30%
+06/06/2018,"Apartment 23 The Sycamore, Elmfield, Leopardstown",Dublin,322888.59,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 24 The Beeches, Elmfield, Leopardstown",Dublin,320847.99,Yes,Leopardstown,Dublin 18,q1,30%
+06/06/2018,"Apartment 25 The Beeches, Elmfield, Leopardstown",Dublin,392521.12,Yes,Leopardstown,Dublin 18,q2,50%
+06/06/2018,"Apartment 26 The Beeches, Elmfield, Leopardstown",Dublin,392521.12,Yes,Leopardstown,Dublin 18,q2,50%
+06/06/2018,"Apartment 27 The Beeches, Elmfield, Leopardstown",Dublin,391955.87,Yes,Leopardstown,Dublin 18,q2,50%
+06/06/2018,"Apartment 28 The Beeches, Elmfield, Leopardstown",Dublin,391974.89,Yes,Leopardstown,Dublin 18,q2,50%
+06/06/2018,"Apartment 3 The Beeches, Elmfield, Leopardstown",Dublin,321163.32,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 30 The Sycamore, Elmfield, Leopardstown",Dublin,322706.3,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 32 The Sycamore, Elmfield, Leopardstown",Dublin,322210.59,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 33 The Sycamore, Elmfield, Leopardstown",Dublin,322210.59,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 38 The Sycamore, Elmfield, Leopardstown",Dublin,264744.7,Yes,Leopardstown,Dublin 18,q1,10%
+06/06/2018,"Apartment 4 The Beeches, Elmfield, Leopardstown",Dublin,321393.46,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 41 The Sycamore, Elmfield, Leopardstown",Dublin,322223.88,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 5 The Beeches, Elmfield, Leopardstown",Dublin,320826.65,Yes,Leopardstown,Dublin 18,q1,30%
+06/06/2018,"Apartment 6 The Beeches, Elmfield, Leopardstown",Dublin,322989.62,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 7 The Beeches, Elmfield, Leopardstown",Dublin,321296.5,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 7 The Sycamore, Elmfield, Leopardstown",Dublin,265217.01,Yes,Leopardstown,Dublin 18,q1,10%
+06/06/2018,"Apartment 8 The Beeches, Elmfield, Leopardstown",Dublin,321163.32,Yes,Leopardstown,Dublin 18,q2,30%
+06/06/2018,"Apartment 9 The Beeches, Elmfield, Leopardstown",Dublin,321158.95,Yes,Leopardstown,Dublin 18,q2,30%
+12/06/2018,"7 Mount Eagle Court, Leopardstown, Dublin 18",Dublin,532500.0,No,Leopardstown,Dublin 18,q4,90%
+15/06/2018,"14 Larkfield View, Clay Farm, Leopardstown",Dublin,436123.0,Yes,Leopardstown,Dublin 18,q3,70%
+19/06/2018,"65 Mount Eagle Dr, Leopardstown, Dublin 18",Dublin,485000.0,No,Leopardstown,Dublin 18,q4,80%
+26/06/2018,"10 Larkfield View, Clay Farm, Leopardstown",Dublin,436123.0,Yes,Leopardstown,Dublin 18,q3,70%
+26/06/2018,"36 Larkfield Way, Clay Farm, Leopardstown",Dublin,511013.0,Yes,Leopardstown,Dublin 18,q4,90%
+28/06/2018,"12 Larkfield View, Clay Farm, Leopardstown",Dublin,495000.0,Yes,Leopardstown,Dublin 18,q4,80%
+28/06/2018,"7 Larkfield Close, Clay Farm, Leopardstown",Dublin,502203.0,Yes,Leopardstown,Dublin 18,q4,90%
+02/07/2018,"10 Larkfield Walk, Clay Farm, Leopardstown",Dublin,436123.0,Yes,Leopardstown,Dublin 18,q3,70%
+03/07/2018,"3 Larkfield Close, Clay Farm, Leopardstown",Dublin,502203.0,Yes,Leopardstown,Dublin 18,q4,90%
+03/07/2018,"5 Orby Lawn, The Gallops, Leopardstown",Dublin,640000.0,No,Leopardstown,Dublin 18,q4,100%
+04/07/2018,"14 Larkfield Walk, Clay Farm, Leopardstown",Dublin,440528.63,Yes,Leopardstown,Dublin 18,q3,70%
+05/07/2018,"42 Glencairn Lawn, The Gallops, Leopardstown Dublin 18",Dublin,270000.0,No,Leopardstown,Dublin 18,q1,10%
+06/07/2018,"12 Larkfield Walk, Clay Farm, Leopardstown",Dublin,440529.0,Yes,Leopardstown,Dublin 18,q3,70%
+09/07/2018,"6 Larkfield Walk, Clay Farm, Leopardstown",Dublin,427312.0,Yes,Leopardstown,Dublin 18,q3,60%
+11/07/2018,"10 Glencairn Court, The Gallops, Leopardstown Dublin 18",Dublin,520000.0,No,Leopardstown,Dublin 18,q4,90%
+16/07/2018,"32 Larkfield Way, Clay Farm, Leopardstown",Dublin,511013.0,Yes,Leopardstown,Dublin 18,q4,90%
+23/07/2018,"13 Larkfield Close, Clay Farm, Leopardstown",Dublin,502202.64,Yes,Leopardstown,Dublin 18,q4,80%
+24/07/2018,"34 Larkfield Way, Clay Farm, Leopardstown",Dublin,511013.21,Yes,Leopardstown,Dublin 18,q4,90%
+31/07/2018,"17 Larkfield Walk, Clay Farm, Leopardstown",Dublin,440528.63,Yes,Leopardstown,Dublin 18,q3,70%
+31/07/2018,"35 Mount Eagle Dr, Leopardstown, Dublin 18",Dublin,480000.0,No,Leopardstown,Dublin 18,q3,80%
+03/08/2018,"6 Larkfield Place, Clay Farm, Leopardstown",Dublin,493392.0,Yes,Leopardstown,Dublin 18,q4,80%
+15/08/2018,"15 Larkfield Place, Clay Farm, Leopardstown",Dublin,484400.0,Yes,Leopardstown,Dublin 18,q3,80%
+17/08/2018,"32 Murphystown Rd, Leopardstown, Dublin 18",Dublin,580000.0,No,Leopardstown,Dublin 18,q4,100%
+20/08/2018,"13 Mimosa Hall, The Gallops, Leopardstown Dublin 18",Dublin,335543.0,No,Leopardstown,Dublin 18,q2,40%
+21/08/2018,"14 Larkfield Way, Clay Farm, Leopardstown",Dublin,511013.0,Yes,Leopardstown,Dublin 18,q4,90%
+23/08/2018,"22 Larkfield Way, Clay Farm, Leopardstown",Dublin,537444.39,Yes,Leopardstown,Dublin 18,q4,90%
+23/08/2018,"7 Larkfield Walk, Clay Farm, Leopardstown",Dublin,440529.0,Yes,Leopardstown,Dublin 18,q3,70%
+24/08/2018,"12 Larkfield Way, Clay Farm, Leopardstown",Dublin,537445.0,Yes,Leopardstown,Dublin 18,q4,90%
+29/08/2018,"15 Larkfield Close, Clay Farm, Leopardstown",Dublin,506025.0,Yes,Leopardstown,Dublin 18,q4,90%
+29/08/2018,"9 Larkfield Walk, Clay Farm, Leopardstown",Dublin,440528.63,Yes,Leopardstown,Dublin 18,q3,70%
+30/08/2018,"18 Larkfield Way, Clay Farm, Leopardstown",Dublin,541850.0,Yes,Leopardstown,Dublin 18,q4,90%
+30/08/2018,"24 Larkfield Way, Clay Farm, Leopardstown",Dublin,546255.51,Yes,Leopardstown,Dublin 18,q4,100%
+05/09/2018,"1 Larkfield Walk, Clay Farm, Leopardstown",Dublin,475770.93,Yes,Leopardstown,Dublin 18,q3,80%
+05/09/2018,"23 Glencairn Lawn, The Gallops, Leopardstown Dublin 18",Dublin,544000.0,No,Leopardstown,Dublin 18,q4,90%
+12/09/2018,"15 Larkfield Walk, Clay Farm, Leopardstown",Dublin,431718.06,Yes,Leopardstown,Dublin 18,q3,60%
+14/09/2018,"11 Larkfield Close, Clay Farm, Leopardstown",Dublin,502202.64,Yes,Leopardstown,Dublin 18,q4,80%
+18/09/2018,"20 Larkfield Way, Clay Farm, Leopardstown",Dublin,541850.0,Yes,Leopardstown,Dublin 18,q4,90%
+18/09/2018,"5 Larkfield Walk, Clay Farm, Leopardstown",Dublin,436123.0,Yes,Leopardstown,Dublin 18,q3,70%
+20/09/2018,"12 Orby Way, The Gallops, Leopardstown Dublin 18",Dublin,265000.0,No,Leopardstown,Dublin 18,q1,10%
+20/09/2018,"18 Glencairn Grove, The Gallops, Leopardstown Dublin 18",Dublin,480000.0,No,Leopardstown,Dublin 18,q3,80%
+26/09/2018,"11 Larkfield Walk, Clay Farm, Leopardstown",Dublin,436123.0,Yes,Leopardstown,Dublin 18,q3,70%
+26/09/2018,"2 Mount Eagle Lawn, Leopardstown Heights, Dublin",Dublin,525000.0,No,Leopardstown,Dublin 18,q4,90%
+01/10/2018,"38 Mount Eagle Dr, Leopardstown, Dublin 18",Dublin,457450.0,No,Leopardstown,Dublin 18,q3,70%
+03/10/2018,"18 Mount Eagle Grove, Leopardstown Heights, Dublin 18",Dublin,455000.0,No,Leopardstown,Dublin 18,q3,70%
+03/10/2018,"6  Larkfield Way, Clay Farm, Leopardstown",Dublin,511013.22,Yes,Leopardstown,Dublin 18,q4,90%
+05/10/2018,"18 Glenbourne Crsnt, Leopardstown Valley, Dublin 18",Dublin,540000.0,No,Leopardstown,Dublin 18,q4,90%
+08/10/2018,"23 Glenbourne Grove, Leopardstown Valley, Dublin 18",Dublin,505000.0,No,Leopardstown,Dublin 18,q4,90%
+08/10/2018,"3 Larkfield Walk, Clay Farm, Leopardstown",Dublin,431718.06,Yes,Leopardstown,Dublin 18,q3,60%
+08/10/2018,"9 Larkfield Close, Clay Farm, Leopardstown",Dublin,502203.0,Yes,Leopardstown,Dublin 18,q4,90%
+12/10/2018,"16 Larkfield Way, Ballyogan Road, Leopardstown",Dublin,541850.22,Yes,Leopardstown,Dublin 18,q4,90%
+12/10/2018,"9 Larkfield View, Clay Farm, Leopardstown",Dublin,441150.0,Yes,Leopardstown,Dublin 18,q3,70%
+17/10/2018,"11 Larkfield View, Clay Farm, Leopardstown",Dublin,440529.0,Yes,Leopardstown,Dublin 18,q3,70%
+22/10/2018,"12 Orby Ave, The Gallops, Leopardstown Dublin 18",Dublin,530000.0,No,Leopardstown,Dublin 18,q4,90%
+23/10/2018,"25 Levmoss Hall, The Gallops, Leopardstown Dublin 18",Dublin,280000.0,No,Leopardstown,Dublin 18,q1,20%
+24/10/2018,"1 Glencairn Rise, The Gallops, Leopardstown Dublin 18",Dublin,545000.0,No,Leopardstown,Dublin 18,q4,90%
+25/10/2018,"51 Weavers Hall, Levmoss Park, Leopardstown Dublin 18",Dublin,400000.0,No,Leopardstown,Dublin 18,q3,60%
+30/10/2018,"17 Larkfield Place, Clay Farm, Leopardstown",Dublin,480176.21,Yes,Leopardstown,Dublin 18,q3,80%
+30/10/2018,"29 Mount Eagle Green, Leopardstown Heights, Leopardstown Dublin 1",Dublin,507000.0,No,Leopardstown,Dublin 18,q4,90%
+01/11/2018,"11 Glenbourne Crescent, Leopardstown Valley, Leopardstown Dublin 18",Dublin,672000.0,No,Leopardstown,Dublin 18,q4,100%
+02/11/2018,"1 Larkfield View, Clay Farm, Leopardstown",Dublin,572687.22,Yes,Leopardstown,Dublin 18,q4,100%
+03/11/2018,"15 Larkfield View, Clay Farm, Leopardstown",Dublin,440600.0,Yes,Leopardstown,Dublin 18,q3,70%
+07/11/2018,"17 Larkfield View, Clay Farm, Leopardstown",Dublin,436123.34,Yes,Leopardstown,Dublin 18,q3,70%
+14/11/2018,"57 Leopardstown Park, Leopardstown, Dublin",Dublin,690000.0,No,Leopardstown,Dublin 18,q4,100%
+16/11/2018,"4 Larkfield Place, Clayfarm, Leopardstown",Dublin,493392.0,Yes,Leopardstown,Dublin 18,q4,80%
+22/11/2018,"13 Larkfield Place, Clay Farm, Leopardstown",Dublin,493392.0,Yes,Leopardstown,Dublin 18,q4,80%
+22/11/2018,"14 Larkfield Place, Clay Farm, Leopardstown",Dublin,493392.07,Yes,Leopardstown,Dublin 18,q4,80%
+23/11/2018,"5 Larkfield Close, Clay Farm, Leopardstown",Dublin,484581.49,Yes,Leopardstown,Dublin 18,q4,80%
+23/11/2018,"7 Larkfield View  Clay Farm, Ballyogan Road, Leopardstown",Dublin,449339.21,Yes,Leopardstown,Dublin 18,q3,70%
+26/11/2018,"13 Larkfield View, Clay Farm, Leopardstown",Dublin,440528.63,Yes,Leopardstown,Dublin 18,q3,70%
+03/12/2018,"37 Glencairn Lawn, Leopardstown, Dublin 18",Dublin,495000.0,No,Leopardstown,Dublin 18,q4,80%
+03/12/2018,"8 Larkfield Way, Clay Farm, Leopardstown",Dublin,511013.21,Yes,Leopardstown,Dublin 18,q4,90%
+04/12/2018,"19 Larkfield View, Clay Farm, Leopardstown",Dublin,484581.0,Yes,Leopardstown,Dublin 18,q3,80%
+10/12/2018,"24 Mount Eagle Grove, Leopardstown Heights, Dublin 18",Dublin,480000.0,No,Leopardstown,Dublin 18,q3,80%
+10/12/2018,"3 Larkfield View, Clay Farm, Leopardstown",Dublin,519824.0,Yes,Leopardstown,Dublin 18,q4,90%
+12/12/2018,"2 Larkfield Way  Clay Farm, Leopardstown  Dublin 18",Dublin,541850.0,Yes,Leopardstown,Dublin 18,q4,90%
+14/12/2018,"42 Larkfield Heath, Clay Farm, Leopardstown",Dublin,620000.0,Yes,Leopardstown,Dublin 18,q4,100%
+17/12/2018,"19 Glencairn Ave, The Gallops, Leopardstown Dublin 18",Dublin,472000.0,No,Leopardstown,Dublin 18,q3,80%
+17/12/2018,"31 The Sycamore, Elmfield, Leopardstown Dublin 18",Dublin,403000.0,No,Leopardstown,Dublin 18,q3,60%
+18/12/2018,"36 Larkfield Heath, Clay Farm, Leopardstown",Dublin,541850.22,Yes,Leopardstown,Dublin 18,q4,90%
+19/12/2018,"13 Glenbourne Rd, Leopardstown Valley, Dublin 18",Dublin,500000.0,No,Leopardstown,Dublin 18,q4,80%
+19/12/2018,"22 Glencairn Park, Leopardstown, Dublin 18",Dublin,630000.0,No,Leopardstown,Dublin 18,q4,100%
+07/01/2019,"38 Larkfield Heath, Clayfarm, Leopardstown",Dublin,515418.0,Yes,Leopardstown,Dublin 18,q4,90%
+10/01/2019,"32 Larkfield Heath, Clay Farm, Leopardstown",Dublin,555066.07,Yes,Leopardstown,Dublin 18,q4,100%
+15/01/2019,"50  Larkfield Heath, Clay Farm, Leopardstown",Dublin,502203.0,Yes,Leopardstown,Dublin 18,q4,90%
+16/01/2019,"26 Larkfield Way, Clay Farm, Leopardstown",Dublin,536300.0,Yes,Leopardstown,Dublin 18,q4,90%
+18/01/2019,"42 Torquay Wood, Leopardstown, Dublin 18",Dublin,802500.0,No,Leopardstown,Dublin 18,q4,100%
+18/01/2019,"44 Larkfield Health, Clayfarm, Leopardstown",Dublin,528634.36,Yes,Leopardstown,Dublin 18,q4,90%
+23/01/2019,"39 Levmoss Ave, Levmoss Park, The Gallops Leopardstown Dublin 18",Dublin,335000.0,No,Leopardstown,Dublin 18,q2,40%
+25/01/2019,"34 Larkfield Heath, Clay Farm, Leopardstown",Dublin,546255.5,Yes,Leopardstown,Dublin 18,q4,100%
+26/01/2019,"11 Levmoss Ave, The Gallops, Leopardstown Dublin 18",Dublin,330000.0,No,Leopardstown,Dublin 18,q2,40%
+31/01/2019,"4 Sir Ivor Mall, The Chase, Leopardstown Dublin 18",Dublin,520000.0,No,Leopardstown,Dublin 18,q4,90%
+01/02/2019,"4 Larkfield Dale, Clay Farm, Leopardstown",Dublin,440528.0,Yes,Leopardstown,Dublin 18,q3,70%
+06/02/2019,"St Josephs, Leopardstown Rd, Dublin 18",Dublin,650000.0,No,Leopardstown,Dublin 18,q4,100%
+08/02/2019,"2 Larkfield Dale, Clay Farm, Leopardstown",Dublin,480176.0,Yes,Leopardstown,Dublin 18,q3,80%
+11/02/2019,"4 Glencairn Oaks, The Gallops, Leopardstown Dublin 18",Dublin,465000.0,No,Leopardstown,Dublin 18,q3,80%
+14/02/2019,"52 Larkfield Heath, Clay Farm, Leopardstown",Dublin,550660.0,Yes,Leopardstown,Dublin 18,q4,100%
+15/02/2019,"40 Larkfield Heath, Clay Farm, Leopardstown",Dublin,515419.0,Yes,Leopardstown,Dublin 18,q4,90%
+21/02/2019,"24 Larkfield Heath, Clayfarm, Leopardstown",Dublin,541850.0,Yes,Leopardstown,Dublin 18,q4,90%
+22/02/2019,"35 Glencairn Walk, Leopardstown, Dublin 18",Dublin,450000.0,No,Leopardstown,Dublin 18,q3,70%
+22/02/2019,"46 Larkfield Heath, Clay Farm, Leopardstown",Dublin,502202.64,Yes,Leopardstown,Dublin 18,q4,80%
+01/03/2019,"6 Larkfield Dale, Clay Farm, Leopardstown",Dublin,440528.63,Yes,Leopardstown,Dublin 18,q3,70%
+04/03/2019,"19 Glencairn Lawn, Leopardstown, Dublin 18",Dublin,525000.0,No,Leopardstown,Dublin 18,q4,90%
+04/03/2019,"4 Glenbourne Crescent, Leopardstown Valley, Ballyogan",Dublin,485000.0,No,Leopardstown,Dublin 18,q4,80%
+06/03/2019,"26 Larkfield Heath, Clay Farm, Leopardstown",Dublin,541850.22,Yes,Leopardstown,Dublin 18,q4,90%
+19/03/2019,"28 Larkfield Heath, Clay Farm, Leopardstown",Dublin,515418.5,Yes,Leopardstown,Dublin 18,q4,90%
+22/03/2019,"Glashedy, 1 Avonmore, Leopardstown Rd Dublin 18",Dublin,1185000.0,No,Leopardstown,Dublin 18,q4,100%
+26/03/2019,"1 Larkfield Glade, Clay Farm, Leopardstown",Dublin,466960.35,Yes,Leopardstown,Dublin 18,q3,80%
+28/03/2019,"58 Larkfield Way, Clay Farm, Leopardstown Road",Dublin,559471.0,Yes,Leopardstown,Dublin 18,q4,100%
+29/03/2019,"4 Larkfield Close, Leopardstown",Dublin,462555.0,Yes,Leopardstown,Dublin 18,q3,70%
+02/04/2019,"10 Larkfield Way, Clay Farm, Leopardstown",Dublin,537445.0,Yes,Leopardstown,Dublin 18,q4,90%
+03/04/2019,"5 Larkfield Dale, Clay Farm, Leopardstown",Dublin,440528.0,Yes,Leopardstown,Dublin 18,q3,70%
+03/04/2019,"9 Larkfield Dale, Clay Farm, Leopardstown",Dublin,440528.0,Yes,Leopardstown,Dublin 18,q3,70%
+04/04/2019,"4 Leopardstown Rise, Leopardstown, Dublin 18",Dublin,900000.0,No,Leopardstown,Dublin 18,q4,100%
+12/04/2019,"1 Larkfield Dale, Clay Farm, Leopardstown",Dublin,488986.0,Yes,Leopardstown,Dublin 18,q4,80%
+12/04/2019,"3 Larkfield Dale, Clay Farm, Leopardstown",Dublin,440528.0,Yes,Leopardstown,Dublin 18,q3,70%
+15/04/2019,"22 Larkfield Heath, Clay Farm, Leopardstown",Dublin,515418.5,Yes,Leopardstown,Dublin 18,q4,90%
+15/04/2019,"7 Larkfield Dale, Clay Farm, Leopardstown",Dublin,438182.0,Yes,Leopardstown,Dublin 18,q3,70%
+25/04/2019,"6 Orby Park, The Gallops, Leopardstown",Dublin,550000.0,No,Leopardstown,Dublin 18,q4,100%
+01/05/2019,"10 Glencairn Heights, Leopardstown, Dublin 18",Dublin,535000.0,No,Leopardstown,Dublin 18,q4,90%
+02/05/2019,"12 Glenbourne Park, Leopardstown Valley, Dublin 18",Dublin,458000.0,No,Leopardstown,Dublin 18,q3,70%
+17/05/2019,"26 Glenbourne Green, Leopardstown, Dublin 18",Dublin,460000.0,No,Leopardstown,Dublin 18,q3,70%
+22/05/2019,"4 Orby Close, The Gallops, Leopardstown Dublin 18",Dublin,480000.0,No,Leopardstown,Dublin 18,q3,80%
+31/05/2019,"18 Larkfield Heath, Clay Farm, Leopardstown",Dublin,550660.0,Yes,Leopardstown,Dublin 18,q4,100%
+07/06/2019,"40 Leumoss Ave, The Gallops, Leopardstown Dublin 18",Dublin,425000.0,No,Leopardstown,Dublin 18,q3,60%
+11/06/2019,"15 Glencairn Rd, Leopardstown, Dublin 18",Dublin,695000.0,No,Leopardstown,Dublin 18,q4,100%
+13/06/2019,"8 Glenbourne Way, Leopardstown Valley, Dublin 18",Dublin,480000.0,No,Leopardstown,Dublin 18,q3,80%
+20/06/2019,"Apartment 1 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 1 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 10 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 10 Larch Hall, Clay Farm, Leopardstown",Dublin,179194.99,Yes,Leopardstown,Dublin 18,q1,10%
+20/06/2019,"Apartment 11 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 11 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 12 Birch Hall, Clay Farm, Leopardstown",Dublin,179194.99,Yes,Leopardstown,Dublin 18,q1,10%
+20/06/2019,"Apartment 12 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 13 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 13 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 14 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 14 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 15 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 15 Larch Hall, Clay Farm, Leopardstown",Dublin,179194.99,Yes,Leopardstown,Dublin 18,q1,10%
+20/06/2019,"Apartment 16 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 16 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 17 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 17 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 18 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 18 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 19 Birch Hall, Clay Farm, Leopardstown",Dublin,179194.99,Yes,Leopardstown,Dublin 18,q1,10%
+20/06/2019,"Apartment 19 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 2 Birch Hall, Clay Farm, Leopardstown",Dublin,179194.99,Yes,Leopardstown,Dublin 18,q1,10%
+20/06/2019,"Apartment 2 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 20 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 20 Larch Hall, Clay Farm, Leopardstown",Dublin,179194.99,Yes,Leopardstown,Dublin 18,q1,10%
+20/06/2019,"Apartment 21 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 22 Larch Hall, Clay Farm, Leopardstown",Dublin,179194.99,Yes,Leopardstown,Dublin 18,q1,10%
+20/06/2019,"Apartment 23 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 24 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 3 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 3 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 4 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 4 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 5 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 6 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 6 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 7 Birch Hall, Clay Farm, Leopardstown",Dublin,179194.99,Yes,Leopardstown,Dublin 18,q1,10%
+20/06/2019,"Apartment 7 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 8 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 8 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 9 Birch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+20/06/2019,"Apartment 9 Larch Hall, Clay Farm, Leopardstown",Dublin,284698.54,Yes,Leopardstown,Dublin 18,q1,20%
+05/07/2019,"15 Glenbourne Walk, Leopardstown Valley, Dublin 18",Dublin,440000.0,No,Leopardstown,Dublin 18,q3,70%
+05/07/2019,"3 Glencairn Thicket, The Gallops, Leopardstown",Dublin,510000.0,No,Leopardstown,Dublin 18,q4,90%
+10/07/2019,"20 Larkfield Heath, Clay Farm, Leopardstown",Dublin,515418.5,Yes,Leopardstown,Dublin 18,q4,90%
+10/07/2019,"8 Glencairn Grove, Leopardstown, Dublin 18",Dublin,475000.0,No,Leopardstown,Dublin 18,q3,80%
+16/07/2019,"22 Levmoss Avenue, The Gallops, Leopardstown",Dublin,425000.0,No,Leopardstown,Dublin 18,q3,60%
+19/07/2019,"28 Glencairn Chase, The Gallops, Leopardstown",Dublin,740000.0,No,Leopardstown,Dublin 18,q4,100%
+22/07/2019,"1 Glencairn Heights, The Gallops, Leopardstown Dublin 18",Dublin,530000.0,No,Leopardstown,Dublin 18,q4,90%
+23/07/2019,"5 Glencairn Glade, The Gallops, Leopardstown",Dublin,677000.0,No,Leopardstown,Dublin 18,q4,100%
+31/07/2019,"24 Glencairn Ave, The Gallops, Leopardstown",Dublin,498000.0,No,Leopardstown,Dublin 18,q4,80%
+16/08/2019,"10 Glencairn Rise, The Gallops, Leopardstown Dublin 18",Dublin,490000.0,No,Leopardstown,Dublin 18,q4,80%
+22/08/2019,"25 Glencairn Lawn, The Gallops, Leopardstown",Dublin,492000.0,No,Leopardstown,Dublin 18,q4,80%
+29/08/2019,"9 Sandyford Hall Court, Leopardstown, Dublin 18",Dublin,540000.0,No,Leopardstown,Dublin 18,q4,90%
+03/09/2019,"20 Sefton Hall, Kelston View, Leopardstown Rd Dublin 18",Dublin,1240000.0,No,Leopardstown,Dublin 18,q4,100%
+20/09/2019,"17 Glencairn Oaks, The Gallops, Leopardstown Dublin 18",Dublin,579000.0,No,Leopardstown,Dublin 18,q4,100%
+30/09/2019,"9 Glenbourne Green, Leopardstown Valley, Dublin 18",Dublin,525000.0,No,Leopardstown,Dublin 18,q4,90%
+22/10/2019,"Alhambra, Leopardstown Rd, Dublin 18",Dublin,1800000.0,No,Leopardstown,Dublin 18,q4,100%
+22/10/2019,"Wellbrook, Leopardstown Rd, Dublin 18",Dublin,1800000.0,No,Leopardstown,Dublin 18,q4,100%
